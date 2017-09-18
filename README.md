@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+
+<iframe src="http://docs.google.com/gview?url=https://github.com/wiccasoft/wiccasoft.github.io/blob/master/Head_First.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
 [Intro.pdf](https://github.com/wiccasoft/wiccasoft.github.io/blob/master/Head_First.pdf).
 
 You can use the [editor on GitHub](https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
