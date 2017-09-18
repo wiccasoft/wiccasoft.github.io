@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-[Intro.pdf](https://github.com/wiccasoft/wiccasoft.github.io/blob/master/Head_First.pdf).
+![Intro.pdf](https://github.com/wiccasoft/wiccasoft.github.io/blob/master/Head_First.pdf).
 
 You can use the [editor on GitHub](https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -22,12 +22,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
-<div id="pdf">
-  <object width="400" height="500" type="application/pdf" data="Head_First.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0" id="pdf_content">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-  </object>
-</div>
 
 1. Numbered
 2. List
