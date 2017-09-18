@@ -13,12 +13,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 	
 In html page for pc is easy to implement
 
-<embed src="Head_First.pdf" type="application/pdf"   height="300px" width="100%">
+<object data="Head_First.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="Head_First.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<embed src="Head_First.pdf" type="application/pdf" height="300px" width="100%">
 but pdf show in mobile by this code is not possible you must need a plugin
 
 if you have not responsive your site. Then above code pdf not show in mobile but you can put download option after the code
 
-<embed src="Head_First.pdf" type="application/pdf"   height="300px" width="100%" class="responsive">
+<embed src="Head_First.pdf" type="application/pdf" height="300px" width="100%" class="responsive">
 <a href="Head_First.pdf">download</a>
 
 
