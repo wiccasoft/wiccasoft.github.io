@@ -1,10 +1,7 @@
 ## Welcome to Wiccasoft GitHub Page
 
-![Image](there-is-no-place-like.jpg) ![link](https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md)
-
-You can use the [editor on GitHub](https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <a href="https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md">
+ <img src="there-is-no-place-like.jpg" alt="hi" class="inline"/></a>
 
  <a href="https://wiccasoft.github.io/xaos">
  <img src="drawing-shoot.png" alt="hi" class="inline"/></a>
