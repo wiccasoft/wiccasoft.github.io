@@ -11,14 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  <a href="https://plus.google.com/103231961402148998587">
  <img src="fur-ball-at-the-skirball.jpg" alt="hi" class="inline"/></a>
  
- <object data="Head_First.pdf#page=2" type="application/pdf" width="100%" height="100%">
-   <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
-</object>
-
-
 In html page for pc is easy to implement
 
-<object data="Head_First.pdf" type="application/pdf" width="750px" height="750px">
+<object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
     <embed src="Head_First.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
     </embed>
