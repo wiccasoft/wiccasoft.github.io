@@ -1,4 +1,4 @@
-## Welcome to Wiccasoft GitHub Page
+## 
 
  <a href="https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md">
  <img src="there-is-no-place-like.jpg" alt="hi" class="inline"/></a>
