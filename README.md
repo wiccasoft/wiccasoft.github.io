@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  
 In html page for pc is easy to implement
 
-<object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
+<object data="Head_First.pdf#page=514" type="application/pdf" width="300px" height="600px">
     <embed src="Head_First.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
     </embed>
