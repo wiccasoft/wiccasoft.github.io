@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Wiccasoft GitHub Page
 
 ![Image](there-is-no-place-like.jpg)
 
