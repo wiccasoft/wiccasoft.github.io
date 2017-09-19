@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
 
-
-![Intro.pdf](https://github.com/wiccasoft/wiccasoft.github.io/blob/master/Head_First.pdf).
-
 You can use the [editor on GitHub](https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -19,14 +16,7 @@ In html page for pc is easy to implement
     </embed>
 </object>
 
-<embed src="Head_First.pdf" type="application/pdf" height="300px" width="100%">
-but pdf show in mobile by this code is not possible you must need a plugin
-
-if you have not responsive your site. Then above code pdf not show in mobile but you can put download option after the code
-
-<embed src="Head_First.pdf" type="application/pdf" height="300px" width="100%" class="responsive">
-<a href="Head_First.pdf">download</a>
-
+![Intro.pdf](https://github.com/wiccasoft/wiccasoft.github.io/blob/master/Head_First.pdf).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
