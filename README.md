@@ -8,14 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  <a href="https://plus.google.com/103231961402148998587">
  <img src="fur-ball-at-the-skirball.jpg" alt="hi" class="inline"/></a>
  
-In html page for pc is easy to implement
-
-<object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
-    <embed src="Head_First.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -35,6 +27,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+In html page for pc is easy to implement
+
+<object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
+    <embed src="Head_First.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
