@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image][there-is-no-place-like.jpg]
+![Image](there-is-no-place-like.jpg)
 
 You can use the [editor on GitHub](https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
