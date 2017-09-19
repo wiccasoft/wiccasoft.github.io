@@ -36,6 +36,8 @@ In html page for pc is easy to implement
     </embed>
 </object>
 
+![Image](rag-to-reach.jpg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ![Screenshot](Rollin&Scratchin.png)
