@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/wiccasoft/wiccasoft.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
  <a href="https://wiccasoft.github.io/xaos">
- <img src="wicca-xaos.png" alt="hi" class="inline"/></a>
+ <img src="drawing-shoot.png" alt="hi" class="inline"/></a>
 
 ### Markdown
  <a href="https://wiccasoft.github.io/xaos">
