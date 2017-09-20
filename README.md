@@ -6,7 +6,7 @@
  <a href="https://wiccasoft.github.io/xaos">
  <img src="drawing-shoot.png" alt="hi" class="inline"/></a>
  
-<iframe width="854" height="480" src="https://www.youtube.com/embed/Y9BwHjBX7Hs" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Y9BwHjBX7Hs" frameborder="0" allowfullscreen></iframe>
 
 ### Markdown
  <a href="https://wiccasoft.github.io/xaos">
