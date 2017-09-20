@@ -6,6 +6,9 @@
  <a href="https://wiccasoft.github.io/xaos">
  <img src="drawing-shoot.png" alt="hi" class="inline"/></a>
 
+<video src="<video src="https://www.youtube.com/watch?v=Y9BwHjBX7Hs" poster="drawing-shoot.png" width="320" height="200" controls preload></video>" poster="poster.jpg" width="320" height="200" controls preload></video>
+
+
 ### Markdown
  <a href="https://wiccasoft.github.io/xaos">
  <img src="fur-ball-at-the-skirball.jpg" alt="hi" class="inline"/></a>
