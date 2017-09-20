@@ -1,4 +1,5 @@
 ## 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 <iframe width="600" height="330" src="https://www.youtube.com/embed/Y9BwHjBX7Hs" frameborder="0" allowfullscreen></iframe>
 
  <a href="https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md">
