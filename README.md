@@ -1,11 +1,9 @@
 
 
- <a href="https://wiccasoft.xyz">
- <img src="there-is-no-place-like.jpg" alt="hi" class="inline"/></a>
+![Image](there-is-no-place-like.jpg)
 
+![Image](fur-ball-at-the-skirball.jpg)
 
- <a href="https://wiccasoft.github.io/xaos">
- <img src="fur-ball-at-the-skirball.jpg" width="600" alt="hi" class="inline"/></a>
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
