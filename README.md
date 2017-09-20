@@ -4,6 +4,48 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
+<!-- Styles -->
+<style>
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+</style>
+
+<!-- Resources -->
+<script src="https://www.amcharts.com/lib/3/ammap.js"></script>
+<script src="https://www.amcharts.com/lib/3/maps/js/worldLow.js"></script>
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+<script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+<link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+
+<!-- Chart code -->
+<script>
+var map = AmCharts.makeChart( "chartdiv", {
+
+  "type": "map",
+  "theme": "light",
+  "projection": "miller",
+
+  "dataProvider": {
+    "map": "worldLow",
+    "getAreasFromMap": true
+  },
+  "areasSettings": {
+    "autoZoom": true,
+    "selectedColor": "#CC0000"
+  },
+  "smallMap": {},
+  "export": {
+    "enabled": true,
+    "position": "bottom-right"
+  }
+} );
+</script>
+
+<!-- HTML -->
+<div id="chartdiv"></div>
+
 <iframe width="600" height="333" src="https://www.youtube.com/embed/ceLHG4idzEA" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="600" height="333" src="https://www.youtube.com/embed/t7p1YPTtzLg" frameborder="0" allowfullscreen></iframe>
