@@ -4,13 +4,12 @@
  <a href="https://github.com/wiccasoft/wiccasoft.github.io/edit/master/README.md">
  <img src="there-is-no-place-like.jpg" alt="hi" class="inline"/></a>
 
- <a href="https://wiccasoft.github.io/xaos">
- <img src="drawing-shoot.png" alt="hi" class="inline"/></a>
- 
+
+<iframe width="600" height="300" src="https://www.youtube.com/embed/hNxwGte8Pr8" frameborder="0" allowfullscreen></iframe>
 
 ### Markdown
  <a href="https://wiccasoft.github.io/xaos">
- <img src="fur-ball-at-the-skirball.jpg" alt="hi" class="inline"/></a>
+ <img src="fur-ball-at-the-skirball.jpg" width="600" alt="hi" class="inline"/></a>
  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
