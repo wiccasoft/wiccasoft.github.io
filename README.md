@@ -1,4 +1,4 @@
-## 
+{::nomarkdown}
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -107,3 +107,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <iframe width="600" height="333" src="https://www.youtube.com/embed/bOjSuSVsmrQ" frameborder="0" allowfullscreen></iframe>
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+{:/}
