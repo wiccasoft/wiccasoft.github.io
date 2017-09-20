@@ -6,7 +6,7 @@
  <a href="https://wiccasoft.github.io/xaos">
  <img src="drawing-shoot.png" alt="hi" class="inline"/></a>
 
-<video src="https://www.youtube.com/watch?v=Y9BwHjBX7Hs" poster="drawing-shoot.png" width="320" height="200" controls preload></video>" 
+<video src="https://www.youtube.com/watch?v=Y9BwHjBX7Hs" poster="drawing-shoot.png" width="320" height="200" controls preload></video>
 
 
 ### Markdown
