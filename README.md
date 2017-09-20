@@ -11,10 +11,10 @@
 
 <iframe width="600" height="333" src="https://www.youtube.com/embed/hNxwGte8Pr8" frameborder="0" allowfullscreen></iframe>
 
-### Markdown
  <a href="https://wiccasoft.github.io/xaos">
  <img src="fur-ball-at-the-skirball.jpg" width="600" alt="hi" class="inline"/></a>
- 
+
+### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
