@@ -1,0 +1,2 @@
+Header append X-FRAME-OPTIONS "SAMEORIGIN"
+Header append X-FRAME-OPTIONS ALLOW-FROM http://wiccasoft.xyz/

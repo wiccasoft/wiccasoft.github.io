@@ -1,8 +1,0 @@
-#X-Frame-Options may only be set via an HTTP header sent along with a document. It may not be set inside <meta> so:
-Header set X-Frame-Options DENY
-
-#or allow from same origin
-Header append X-FRAME-OPTIONS "SAMEORIGIN"
-
-#or allow from certain domain (not supported by Chrome or Safari)
-Header append X-FRAME-OPTIONS ALLOW-FROM https://facebook.com/
