@@ -1,4 +1,5 @@
 
+![Image](haters-gonna-hate.png)
 
 ![Image](there-is-no-place-like.jpg)
 
