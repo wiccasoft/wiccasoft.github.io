@@ -27,6 +27,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![Image](first statue of women.png)
+
 In html page for pc is easy to implement
 
 <object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
