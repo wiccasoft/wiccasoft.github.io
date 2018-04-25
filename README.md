@@ -1,5 +1,5 @@
 
-![Image](make britain great again.png)
+![Image](make-britain-great-again.png)
 
 ![Image](there-is-no-place-like.jpg)
 
