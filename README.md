@@ -3,6 +3,8 @@
 
 ![Image](there-is-no-place-like.jpg)
 
+![Image](first statue of women.png)
+
 ![Image](fur-ball-at-the-skirball.jpg)
 
 
@@ -25,9 +27,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
-
-![Image](first statue of women.png)
 
 In html page for pc is easy to implement
 
