@@ -3,6 +3,8 @@
 
 ![Image](there-is-no-place-like.jpg)
 
+![Image](PETA-TriciaHelfer_Cat-Ad_Final72.jpg)
+
 ![Image](first statue of women.png)
 
 ![Image](fur-ball-at-the-skirball.jpg)
