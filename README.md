@@ -62,4 +62,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <iframe src="https://player.vimeo.com/video/267559525" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/267559525">witchcraft</a> from <a href="https://vimeo.com/wiccasoft">great britain</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
 {:/}
