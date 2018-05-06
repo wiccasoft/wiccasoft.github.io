@@ -32,9 +32,7 @@ lightweight and easy-to-use syntax for styling your writing. It includes convent
 # Windows
 # Linux
 
-[Link](url) and ![Image](src)
-
-In html page for pc is easy to implement
+any page for pc is easy to implement
 
 <object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
     <embed src="Head_First.pdf" type="application/pdf">
@@ -44,6 +42,7 @@ In html page for pc is easy to implement
 
 ![Image](rag-to-reach.jpg)
 ![Image](haters-gonna-hate.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ![Screenshot](Rollin&Scratchin.png)
