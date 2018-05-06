@@ -57,6 +57,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [![Watch the video](tron.png)](https://www.youtube.com/embed/bOjSuSVsmrQ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOjSuSVsmrQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <iframe src="https://player.vimeo.com/video/267559525" width="580" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
