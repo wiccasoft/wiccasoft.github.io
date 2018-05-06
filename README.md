@@ -49,6 +49,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Screenshot](Rollin&Scratchin.png)
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wiccasoft/wiccasoft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
