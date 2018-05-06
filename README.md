@@ -25,23 +25,12 @@
 ![Image](fur-ball-at-the-skirball.jpg)
 
 
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Witchcraft
+lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# OsX
+# Windows
+# Linux
 
 [Link](url) and ![Image](src)
 
@@ -62,15 +51,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [![Watch the video](tron.png)](https://www.youtube.com/embed/bOjSuSVsmrQ)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wiccasoft/wiccasoft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 <iframe width="580" height="333" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
