@@ -49,7 +49,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Screenshot](Rollin&Scratchin.png)
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](tron.png)](https://youtu.be/bOjSuSVsmrQ?t=35s "Everything Is AWESOME")
 
 ### Jekyll Themes
 
