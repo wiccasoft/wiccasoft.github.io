@@ -1,4 +1,4 @@
-![Image](wshell.png)
+![Image](wshell-0.1.png)
 
 ![Image](snapstore.png)
 
