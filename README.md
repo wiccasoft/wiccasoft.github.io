@@ -49,7 +49,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Screenshot](Rollin&Scratchin.png)
 
-[![Everything Is AWESOME](tron.png)](https://youtu.be/bOjSuSVsmrQ?t=35s "Everything Is AWESOME")
+
+[![Watch the video](tron.png)](https://www.youtube.com/embed/bOjSuSVsmrQ)
 
 ### Jekyll Themes
 
@@ -57,13 +58,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-[![Watch the video](tron.png)](https://www.youtube.com/embed/bOjSuSVsmrQ)
-
 <iframe width="580" height="333" src="https://www.youtube.com/embed/bOjSuSVsmrQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-[![Watch the video](tron.png)](<iframe src="https://player.vimeo.com/video/267559525" width="580" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>)
 
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
