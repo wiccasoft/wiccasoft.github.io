@@ -36,11 +36,13 @@ For those who think the world is flat, it is just side-ways.
 ### Witchcraft
 lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<iframe width="100%" height="333" src="https://www.youtube.com/embed/Xc3Y5pp2MlU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 # OsX
 # Windows
 # Linux
+
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/Xc3Y5pp2MlU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 any page for pc is easy to implement
 
