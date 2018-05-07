@@ -49,12 +49,10 @@ any page for pc is easy to implement
 </object>
 
 ![Image](rag-to-reach.jpg)
-![Image](haters-gonna-hate.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![Screenshot](Rollin&Scratchin.png)
-
+![Screenshot](iron_sky(1).jpg)
 
 [![Watch the video](tron.png)](https://www.youtube.com/embed/bOjSuSVsmrQ)
 
