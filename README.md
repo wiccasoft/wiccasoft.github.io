@@ -50,7 +50,7 @@ any page for pc is easy to implement
 
 ![Image](rag-to-reach.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [iron sky](https://www.youtube.com/watch?v=7-GTiaA9h88).
 
 ![Screenshot](iron_sky(1).jpg)
 
