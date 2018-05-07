@@ -54,8 +54,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![Screenshot](iron_sky(1).jpg)
 
-[![Watch the video](tron.png)](https://www.youtube.com/embed/bOjSuSVsmrQ)
-
 ### Support or Contact
 
 <iframe width="580" height="333" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
