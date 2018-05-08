@@ -2,7 +2,7 @@
 
 For those who think the world is flat, it is just side-ways.
 
-[![Image](whereiswaldo.png)](http://online-xxx-show.com)
+[![Image](be-best.png)](http://online-xxx-show.com)
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/yBCX2oVpDIg
 ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
