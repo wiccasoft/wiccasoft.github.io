@@ -2,7 +2,7 @@
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/Ekl_uzliQWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[![Image](isolated.png)](http://online-xxx-show.com/blondelashes19/)
+[![Image](isolated.png)](http://online-xxx-show.com)
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/FLaR_MrVNPM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
