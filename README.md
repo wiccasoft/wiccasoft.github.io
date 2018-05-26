@@ -9,8 +9,6 @@
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/ZYJkygblYew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-
-
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/Hrph2EW9VjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/6Dfs740dONI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -41,8 +39,6 @@ For those who think the world is flat, it is just side-ways.
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/yXwRG-Kwj3c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Image](snapstore.png)
-
-<iframe width="100%" height="333" src="https://www.youtube.com/embed/3tmd-ClpJxA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Image](make-britain-great-again.png)
 
