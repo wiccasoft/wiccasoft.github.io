@@ -3,8 +3,6 @@
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/jK6BesOrfws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="100%" height="333" src="https://www.youtube.com/embed/Im6Fsd92n3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ![Image](pinterest.png)
 
 ![Image](skyler-beneke-rock-conversation-purple-cleavage.jpg)
@@ -14,6 +12,8 @@
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/Hrph2EW9VjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/6Dfs740dONI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/Im6Fsd92n3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/cvQal0YmszY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
