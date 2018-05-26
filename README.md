@@ -26,13 +26,8 @@
 
 [![Image](isolated.png)](http://online-xxx-show.com)
 
-<iframe src="https://player.vimeo.com/video/267559525" width="640" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/267559525">witchcraft</a> from <a href="https://vimeo.com/wiccasoft">wiccasoft</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/FLaR_MrVNPM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 For those who think the world is flat, it is just side-ways.
 
