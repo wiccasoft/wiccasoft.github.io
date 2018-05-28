@@ -1,4 +1,4 @@
-### 
+
 <iframe src="https://player.vimeo.com/video/271851924" width="588" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/0fllyJTBsRU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
@@ -68,9 +68,6 @@ For those who think the world is flat, it is just side-ways.
 ### Witchcraft
 lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## OsX
-## Windows
-## Linux
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/Xc3Y5pp2MlU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
