@@ -3,4 +3,6 @@ theme: jekyll-theme-leap-day
 title: wiccasoft
 description: de bruja con amor
 show_downloads: true
-repository_url: "https://github.com/wiccasoft"
+github:
+zip_url: http://example.com/download.zip
+repository_url: https://github.com/wiccasoft
