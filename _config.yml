@@ -4,4 +4,5 @@ title: wiccasoft
 description: de bruja con amor
 show_downloads: true
 zip_url: http://example.com/download.zip
+dmg_url: https://github.com/zeit/now-desktop/releases/download/4.0.0-canary.38/Now-4.0.0-canary.38.dmg
 repository_url: https://github.com/wiccasoft
