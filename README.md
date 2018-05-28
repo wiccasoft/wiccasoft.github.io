@@ -1,3 +1,6 @@
+
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/Jmx4NCSlycQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <iframe src="https://player.vimeo.com/video/271851924" width="580" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/0fllyJTBsRU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
@@ -16,7 +19,6 @@
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/Im6Fsd92n3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="100%" height="333" src="https://www.youtube.com/embed/Jmx4NCSlycQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/cvQal0YmszY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
