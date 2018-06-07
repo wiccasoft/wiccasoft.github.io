@@ -41,8 +41,6 @@ For those who think the world is flat, it is just side-ways.
 
 ![Image](wshell-0.1.png)
 
-<iframe width="100%" height="333" src="https://www.youtube.com/embed/yXwRG-Kwj3c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ![Image](snapstore.png)
 
 ![Image](make-britain-great-again.png)
