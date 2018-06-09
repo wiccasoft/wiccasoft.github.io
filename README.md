@@ -1,5 +1,5 @@
 
-![Image](Where in the Universe Is Carmen Sandiego?.jpg)
+![Image](Where in the Universe Is Carmen Sandiego.jpg)
 
 <iframe width="588" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/298637417&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
