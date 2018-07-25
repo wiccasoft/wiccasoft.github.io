@@ -1,4 +1,4 @@
-![Image](the good the bad the ugly.png)
+![Image](seek.png)
 
 <iframe src="https://player.vimeo.com/video/280081883" width="588" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
