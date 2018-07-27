@@ -1,3 +1,7 @@
+![Image](blood-moon-lunar-eclipse.png.png)
+
+![Image](Daft-Punk.jpg)
+
 ![Image](seek.png)
 
 <iframe src="https://player.vimeo.com/video/280081883" width="588" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
