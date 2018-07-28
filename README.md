@@ -1,4 +1,4 @@
-![Image](https://github.com/wiccasoft/wiccasoft.github.io/blob/master/xaos/eclipse.png)
+![Image](eclipse.png)
 
 ![Image](seek.png)
 
