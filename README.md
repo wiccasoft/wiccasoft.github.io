@@ -1,6 +1,9 @@
+![Image](xaos/eclipse.png)
+
 ![Image](seek.png)
 
 <iframe src="https://player.vimeo.com/video/280081883" width="588" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 ![Image](Is-the-World-Cup-toxic-for-advertisers.png)
 
