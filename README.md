@@ -1,4 +1,4 @@
-![Image](xaos/eclipse.png)
+![Image](/xaos/eclipse.png)
 
 ![Image](seek.png)
 
