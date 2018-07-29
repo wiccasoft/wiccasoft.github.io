@@ -1,4 +1,4 @@
-![Image](is.it.really.so?.png)
+![Image](is.it.really.so.png)
 
 ![Image](eclipse.png)
 
