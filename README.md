@@ -4,8 +4,6 @@
 ![Image](eclipse.png)
 ![Image](seek.png)
 
-
-
 ![Image](Is-the-World-Cup-toxic-for-advertisers.png)
 
 <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/298637417&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -95,13 +93,13 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 
 ### Support 
 
-<iframe src="https://player.vimeo.com/video/267559525" width="580" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/267559525" width="100%" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe width="580" height="333" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 ### Contact
-<iframe width="580" height="333" src="https://www.youtube.com/embed/yuDkDe9lwtE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="333" src="https://www.youtube.com/embed/yuDkDe9lwtE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
