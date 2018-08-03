@@ -59,8 +59,6 @@ For those who think the world is flat, it is just side-ways.
 
 ![Image](there-is-no-place-like.jpg)
 
-<iframe width="100%" height="333" src="https://www.youtube.com/embed/Rh47oTsRf-w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ![Image](PETA-TriciaHelfer_Cat-Ad_Final72.jpg)
 
 ![Image](first statue of women.png)
