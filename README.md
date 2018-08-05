@@ -1,4 +1,4 @@
-Where does Turkey export to ?
+
 ![Image](Where does Turkey export to.png)
 ![Image](aforapple.png)
 ![Image](make-news-great-again.png)
