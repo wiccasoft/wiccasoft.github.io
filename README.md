@@ -1,4 +1,4 @@
-![Image](maketurkeigreatagain.png)
+![Image](arbeitmachfrei.png)
 ![Image](tradewars.png)
 <iframe width="100%" height="333" src="https://www.youtube.com/embed/ZbGXrFwAme4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ![Image](aforapple.png)
