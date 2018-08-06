@@ -5,7 +5,7 @@
 ![Image](is.it.really.so.png)
 ![Image](eclipse.png)
 ![Image](seek.png)
-![Image](seekwhatyousow.png)
+![Image](seekwhatyousow.jpg)
 
 ![Image](Is-the-World-Cup-toxic-for-advertisers.png)
 
