@@ -102,7 +102,7 @@
 </div>
 
 <div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/271851924 frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://player.vimeo.com/video/271851924" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="video-container">
@@ -155,10 +155,16 @@ For those who think the world is flat, it is just side-ways.
 
 [![Image](be-best.png)](http://online-xxx-show.com)
 
-<iframe width="100%"  src="https://www.youtube.com/embed/JmC7XO1pYy4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="100%" src="https://www.youtube.com/embed/yBCX2oVpDIg
-?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/JmC7XO1pYy4?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>   
+
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/yBCX2oVpDIg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>   
+
 
 ![Image](wshell-0.1.png)
 
