@@ -1,22 +1,25 @@
 <style>
 #foo {color: red}
+  
   .video-container {
-    position: relative;
-    width: 100%;
-    height: 56.25%;
-    padding-bottom: 56.25%;
+  position: relative;
+  padding-bottom: 56.25%; /*16:9*/
+  padding-top: 30px; 
+  height: 0; 
+  overflow: hidden;
 }
  
 .video-container iframe,
 .video-container object,
 .video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
- 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
+
+
 
 .flex-video {
   position: relative;
