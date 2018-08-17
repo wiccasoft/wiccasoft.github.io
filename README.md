@@ -1,13 +1,13 @@
 
-<iframe width="100%" padding-bottom: 56.25%; src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" style="padding-bottom: 56.25%" src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Image](n3160.png)
 
-<iframe width="100%"  padding-bottom: 56.25%; src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%"  padding-bottom: 56.25% src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Image](skynet.png)
 
-<iframe width="100%"  padding-bottom: 56.25%;  src="https://www.youtube.com/embed/mviTS_cIWXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%"  padding-bottom: 56.25%  src="https://www.youtube.com/embed/mviTS_cIWXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="100%"  padding-bottom: 56.25%;  src="https://www.youtube.com/embed/EvXROXiIpvQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
