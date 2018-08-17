@@ -1,4 +1,6 @@
-
+<style>
+#foo {color: red}
+</style>
 
 <div class="flex-video">
   <iframe width="100%" src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allowfullscreen></iframe>
