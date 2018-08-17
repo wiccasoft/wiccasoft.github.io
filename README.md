@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("responsive-video.css"))
+
 
 <div class="flex-video">
   <iframe width="100%" src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allowfullscreen></iframe>
