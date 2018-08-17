@@ -42,34 +42,62 @@
 
 ![Image](Is-the-World-Cup-toxic-for-advertisers.png)
 
+<div class="video-container">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/298637417&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
 
-<iframe width="100%" style="padding-bottom: 56.25%:" src="https://www.youtube.com/embed/ZbGXrFwAme4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/ZbGXrFwAme4" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" src="https://www.youtube.com/embed/s8SiJDBcsVk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/s8SiJDBcsVk" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe src="https://player.vimeo.com/video/271851924" width="100%"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://player.vimeo.com/video/271851924 frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%"  src="https://www.youtube.com/embed/0fllyJTBsRU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/0fllyJTBsRU" frameborder="0" allowfullscreen></iframe>
+</div>
+                                                                                    
 
 ![Image](pinterest.png)
 
-<iframe width="100%" src="https://www.youtube.com/embed/ZYJkygblYew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-<iframe width="100%"  src="https://www.youtube.com/embed/Hrph2EW9VjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="100%"  src="https://www.youtube.com/embed/6Dfs740dONI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="100%" src="https://www.youtube.com/embed/Im6Fsd92n3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="100%" src="https://www.youtube.com/embed/cvQal0YmszY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/ZYJkygblYew" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
-<iframe width="100%" src="https://www.youtube.com/embed/bPEknYYYotw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/Hrph2EW9VjY" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" src="https://www.youtube.com/embed/kLjYw21J3ss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/6Dfs740dONI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" src="https://www.youtube.com/embed/Ekl_uzliQWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/Im6Fsd92n3k" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/cvQal0YmszY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/bPEknYYYotw" frameborder="0" allowfullscreen></iframe>
+</div>
+                                                                                       
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/kLjYw21J3ss" frameborder="0" allowfullscreen></iframe>
+</div>         
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/Ekl_uzliQWA" frameborder="0" allowfullscreen></iframe>
+</div>   
 
 [![Image](isolated.png)](http://online-xxx-show.com)
 
