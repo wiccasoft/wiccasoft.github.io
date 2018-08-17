@@ -1,5 +1,5 @@
 <div class="container">
-<iframe src="//www.youtube.com/embed/yCOY82UdFrw" 
+<iframe src="//www.youtube.com/embed/yCOY82UdFrw" width="100%"
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
