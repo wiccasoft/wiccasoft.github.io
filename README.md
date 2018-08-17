@@ -4,21 +4,32 @@
 
 ![Image](n3160.png)
 
-<iframe width="100%"  src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](skynet.png)
 
-<iframe width="100%"  src="https://www.youtube.com/embed/mviTS_cIWXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/mviTS_cIWXg" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%"  src="https://www.youtube.com/embed/EvXROXiIpvQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/EvXROXiIpvQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](watchout.png)
 
-<iframe width="100%"  src="https://www.youtube.com/embed/xf78e8zlns8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/xf78e8zlns8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](openstack.png)
 
-<iframe width="100%"  src="https://www.youtube.com/embed/JHydqx6X4zY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/JHydqx6X4zY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](ギリシャ.png)
 ![Image](arbeit-mach-frei.png)
