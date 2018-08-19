@@ -45,7 +45,7 @@
 
 </style>
 
-![Image](rihanna.com.png)
+![Image](hybridshell.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allowfullscreen></iframe>
@@ -90,6 +90,7 @@
 ![Image](seek.png)
 
 ![Image](Is-the-World-Cup-toxic-for-advertisers.png)
+![Image](rihanna.com.png)
 
 <div class="video-container">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/298637417&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
