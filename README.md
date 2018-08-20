@@ -49,7 +49,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/mWvdsMwnGmM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](highest-paid-actress-in-the-world.png)
+![Image](hybridshell.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allowfullscreen></iframe>
