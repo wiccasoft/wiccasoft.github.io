@@ -45,7 +45,7 @@
 
 </style>
 
-![Image](microsoft_v_kremlin.png)
+![Image](voyager.png)
 
 ![Image](stone-sky.png)
 
