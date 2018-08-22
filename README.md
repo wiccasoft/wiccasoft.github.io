@@ -45,6 +45,8 @@
 
 </style>
 
+![Image](microsoft_v_kremlin.png)
+
 ![Image](stone-sky.png)
 
 <div class="video-container">
