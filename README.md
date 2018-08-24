@@ -47,6 +47,9 @@
 
 ![Image](mediasource.png)
 
+
+![Image](Международной космической станции.png)
+
 ![Image](完璧.png)
 
 ![Image](voyager.png)
