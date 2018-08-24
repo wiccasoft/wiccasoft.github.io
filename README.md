@@ -44,9 +44,9 @@
 }
 
 </style>
+![Image](myth-of-the-jewish-genome.jpg)
 
 ![Image](mediasource.png)
-
 
 ![Image](ISS.png)
 
