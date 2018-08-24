@@ -44,7 +44,7 @@
 }
 
 </style>
-![Image](myth-of-the-jewish-genome.jpg)
+![Image](myth-of-the-jewish-genome.png)
 
 ![Image](mediasource.png)
 
