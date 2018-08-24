@@ -44,7 +44,7 @@
 }
 
 </style>
-![Image](myth-of-the-jewish-genome.png)
+[![Image](myth-of-the-jewish-genome.png)](https://www.npmjs.com/package/browserless)
 
 ![Image](mediasource.png)
 
