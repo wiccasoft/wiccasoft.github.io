@@ -208,6 +208,8 @@ For those who think the world is flat, it is just side-ways.
   <iframe width="100%" src="https://www.youtube.com/embed/VOtQ_q9IqsA?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+
+
 ![Image](there-is-no-place-like.jpg)
 
 ![Image](PETA-TriciaHelfer_Cat-Ad_Final72.jpg)
@@ -220,17 +222,12 @@ For those who think the world is flat, it is just side-ways.
 ### Witchcraft
 lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
-<iframe width="100%" src="https://www.youtube.com/embed/Xc3Y5pp2MlU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/Xc3Y5pp2MlU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 any page for pc is easy to implement
-
-<object data="Head_First.pdf#page=514" type="application/pdf" width="100%" height="600px">
-    <embed src="Head_First.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Head_First.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
 ![Image](rag-to-reach.jpg)
 
@@ -242,9 +239,8 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 
 ### Support 
 
-<div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/267559525" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 
 <div class="video-container">
