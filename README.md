@@ -46,7 +46,7 @@
 </style>
 ![Image](wiccanyear.png)
 
-[![Image](teaser.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
+[![Image](booking.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
 
 [![Image](myth-of-the-jewish-genome.png)](https://www.npmjs.com/package/browserless)
 
