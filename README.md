@@ -199,9 +199,14 @@ For those who think the world is flat, it is just side-ways.
 
 ![Image](make-britain-great-again.png)
 
-<iframe width="100%" src="https://www.youtube.com/embed/RA7VCaeYlB8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/RA7VCaeYlB8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" src="https://www.youtube.com/embed/VOtQ_q9IqsA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/VOtQ_q9IqsA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](there-is-no-place-like.jpg)
 
@@ -237,13 +242,20 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 
 ### Support 
 
-<iframe src="https://player.vimeo.com/video/267559525" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" src="https://player.vimeo.com/video/267559525" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 ### Contact
-<iframe width="100%" src="https://www.youtube.com/embed/yuDkDe9lwtE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/yuDkDe9lwtE?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
