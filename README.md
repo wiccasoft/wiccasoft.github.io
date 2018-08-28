@@ -44,6 +44,8 @@
 }
 
 </style>
+![Image](brexit.png)
+
 ![Image](wiccanyear.png)
 
 [![Image](hearthemoment.png)](http://www.taschen-transfer.com/media/downloads/teaser_ce_buendchen.pdf)
