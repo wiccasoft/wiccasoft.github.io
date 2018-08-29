@@ -44,6 +44,8 @@
 }
 
 </style>
+![Image](rainbow.png)
+
 ![Image](brexit.png)
 
 ![Image](wiccanyear.png)
