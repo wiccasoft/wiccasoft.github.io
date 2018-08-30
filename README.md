@@ -1,26 +1,4 @@
 <style>
-  .flex-video {
-  position: relative;
-  padding-top: 25px;
-  padding-bottom: 67.5%;
-  height: 0;
-  margin-bottom: 16px;
-  overflow: hidden;
-}
-
-.flex-video.widescreen { padding-bottom: 57.25%; }
-.flex-video.vimeo { padding-top: 0; }
-
-.flex-video iframe,
-.flex-video object,
-.flex-video embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-  
   .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
@@ -46,9 +24,7 @@
 </style>
 
 ![Image](rainbow.png)
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Df7owbjrLXY" frameborder="0" allowfullscreen></iframe>
-</div>
+
 ![Image](brexit.png)
 
 ![Image](wiccanyear.png)
