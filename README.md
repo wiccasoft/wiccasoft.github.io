@@ -2,7 +2,7 @@
   .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
-  padding-top: 30px; 
+  padding-top: 0px; 
   height: 0; 
   overflow: hidden;
 }
