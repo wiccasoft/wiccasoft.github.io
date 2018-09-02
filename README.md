@@ -1,28 +1,3 @@
-<style>
-  .video-container {
-  position: relative;
-  padding-bottom: 56.25%; /*16:9*/
-  padding-top: 0px; 
-  height: 0; 
-  overflow: hidden;
-}
- 
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
-  .flex-video { padding-top: 0; }
-}
-
-</style>
-
 [![Image](formula1.png)](https://www.codementor.io/simenli/demystifying-asynchronous-programming-part-2-node-js-eventemitter-7r51ivby4)
 
 
@@ -242,3 +217,29 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/yuDkDe9lwtE?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+<style>
+  .video-container {
+  position: relative;
+  padding-bottom: 56.25%; /*16:9*/
+  padding-top: 0px; 
+  height: 0; 
+  overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-device-width: 800px), only screen and (device-width: 1024px) and (device-height: 600px), only screen and (width: 1280px) and (orientation: landscape), only screen and (device-width: 800px), only screen and (max-width: 767px) {
+  .flex-video { padding-top: 0; }
+}
+
+</style>
