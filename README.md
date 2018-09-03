@@ -1,8 +1,3 @@
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/bJYugrTLvSo" frameborder="0" allowfullscreen></iframe>
-</div>
-
 [![Image](formula1.png)](https://www.codementor.io/simenli/demystifying-asynchronous-programming-part-2-node-js-eventemitter-7r51ivby4)
 
 [![Image](fireball.png)](https://github.com/nodejs/node/issues/18646)
