@@ -1,3 +1,5 @@
+![Image](killemsoftly.png)
+
 [![Image](formula1.png)](https://stackabuse.com/how-to-exit-in-node-js/)
 
 [![Image](fireball.png)](https://github.com/nodejs/node/issues/18646)
