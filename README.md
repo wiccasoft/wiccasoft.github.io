@@ -1,4 +1,4 @@
-[![Image](formula1.png)](https://www.codementor.io/simenli/demystifying-asynchronous-programming-part-2-node-js-eventemitter-7r51ivby4)
+[![Image](formula1.png)](https://stackabuse.com/how-to-exit-in-node-js/)
 
 [![Image](fireball.png)](https://github.com/nodejs/node/issues/18646)
 
