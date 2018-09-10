@@ -1,3 +1,5 @@
+![Image](leak.png)
+
 ![Image](killemsoftly.png)
 
 <div class="video-container">
