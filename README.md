@@ -1,5 +1,5 @@
 
-[![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/questions/441018/replacing-spaces-with-underscores-in-javascript)
+[![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/a/441035)
 
 ![Image](leak.png)
 
