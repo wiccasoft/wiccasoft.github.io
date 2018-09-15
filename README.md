@@ -35,7 +35,7 @@
 
 ![Image](ISS.png)
 
-![Image](完璧.png)
+[![Image](完璧.png)](https://www.ibm.com/developerworks/jp/aix/library/au-errnovariable/index.html)
 
 ![Image](voyager.png)
 
