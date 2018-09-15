@@ -1,7 +1,7 @@
 
 [![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/a/441035)
 
-![Image](leak.png)
+[![Image](leak.png)] (https://www.joyent.com/node-js/production/design#EventEmitter)
 
 ![Image](killemsoftly.png)
 
