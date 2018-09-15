@@ -5,7 +5,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/k-Rg51azVlg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](leak.png)] (https://www.joyent.com/node-js/production/design#EventEmitter)
+[![Image](leak.png) (https://www.joyent.com/node-js/production/design#EventEmitter)
 
 ![Image](killemsoftly.png)
 
