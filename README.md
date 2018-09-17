@@ -1,9 +1,5 @@
 ![Image](mangkhut.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/KluR0-bk55k" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ![Image](florence'spath.png)
 
 <div class="video-container">
