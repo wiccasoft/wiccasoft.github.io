@@ -6,6 +6,8 @@
   <iframe width="100%" src="https://www.youtube.com/embed/k-Rg51azVlg" frameborder="0" allowfullscreen></iframe>
 </div>
 
+![Image](florence.jpeg)
+
 ![Image](leak.png)
 
 [![Image](killemsoftly.png)](https://www.joyent.com/node-js/production/design#EventEmitter)
