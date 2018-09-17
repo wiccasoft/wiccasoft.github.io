@@ -8,10 +8,6 @@
 
 [![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/a/441035)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/k-Rg51azVlg" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ![Image](leak.png)
 
 ![Image](florence.jpeg)
