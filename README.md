@@ -19,7 +19,7 @@
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/7shzR4HPbRw" frameborder="0" allowfullscreen></iframe>
 </div>
-https://www.youtube.com/watch?v=kZualIy62d8
+
 [![Image](killemsoftly.png)](https://www.joyent.com/node-js/production/design#EventEmitter)
 
 <div class="video-container">
