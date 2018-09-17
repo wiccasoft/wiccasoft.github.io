@@ -1,4 +1,4 @@
-![Image] (florencespath.png)
+![Image](florence'spath.png)
 
 [![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/a/441035)
 
