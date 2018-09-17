@@ -2,10 +2,6 @@
 
 ![Image](florence'spath.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Q-gSx4KUMKI" frameborder="0" allowfullscreen></iframe>
-</div>
-
 [![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/a/441035)
 
 ![Image](leak.png)
