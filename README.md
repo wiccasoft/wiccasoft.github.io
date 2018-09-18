@@ -1,3 +1,5 @@
+![Image](newspapers.png)
+
 ![Image](design.png)
 
 ![Image](mangkhut.png)
@@ -27,7 +29,7 @@
 
 [![Image](formula1.png)](https://stackabuse.com/how-to-exit-in-node-js/)
 
-[![Image](newspapers.png)](https://github.com/nodejs/node/issues/18646)
+[![Image](fireball.png)](https://github.com/nodejs/node/issues/18646)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/TPPPmCbDEdA" frameborder="0" allowfullscreen></iframe>
