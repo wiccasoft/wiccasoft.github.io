@@ -1,3 +1,6 @@
+
+![Image](five-in-a-row.png)
+
 ![Image](newspapers.png)
 
 <div class="video-container">
