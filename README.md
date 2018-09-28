@@ -1,6 +1,9 @@
+![Image](google-v-china.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/-XBxUFrGsgI" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 ![Image](five-in-a-row.png)
 
