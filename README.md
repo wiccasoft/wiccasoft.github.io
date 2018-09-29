@@ -1,3 +1,5 @@
+[![Image]docreader.png)](https://www.scribd.com/document/229998956/Georgia-Opposition-NATO-Eng-F)
+
 [![Image](open-source.png)](https://datacatalog.worldbank.org/)
 
 <div class="video-container">
