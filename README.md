@@ -2,6 +2,8 @@
 
 ![Image](netherlands.png)
 
+![Image](indonesia-tsunami.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/3X0HbfVh4T4" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -17,7 +19,6 @@
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/5SM-nA5l2HU" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 [![Image](open-source.png)](https://datacatalog.worldbank.org/)
 
