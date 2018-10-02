@@ -1,8 +1,12 @@
+![Image](catalonia.png)
+
+![Image](netherlands.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/3X0HbfVh4T4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
+netherlands
 ![Image](wicca.png)
 
 <div class="video-container">
