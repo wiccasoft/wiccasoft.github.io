@@ -1,3 +1,5 @@
+![Image](kavanaugh.png)
+
 ![Image](catalonia.png)
 
 <div class="video-container">
