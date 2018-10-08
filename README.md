@@ -19,9 +19,7 @@
 
 ![Image](indonesia-tsunami.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/3X0HbfVh4T4" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 [![Image](wicca.png)](https://www.online-xxx-show.com/anasteysha777/)
 
@@ -44,7 +42,9 @@
 ![Image](mickey-mouse.png)
 
 <!-- ![Image](天宫-2.png) -->
-
+<!--<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/3X0HbfVh4T4" frameborder="0" allowfullscreen></iframe>
+</div>-->
 ![Image](google-v-china.png)
 
 <div class="video-container">
