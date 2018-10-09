@@ -5,7 +5,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/zTDDLlEbLi4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](catalonia.png)
+[![Image](catalonia.png)](es.chaturbate.com/p/krysalyx)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/4ku2g8tLGr4" frameborder="0" allowfullscreen></iframe>
