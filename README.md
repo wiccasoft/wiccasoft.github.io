@@ -5,7 +5,6 @@
   <iframe width="100%" src="https://www.youtube.com/embed/CZMRgqhvs3o" frameborder="0" allowfullscreen></iframe>
 </div>
 
-https://www.youtube.com/watch?v=
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/zTDDLlEbLi4" frameborder="0" allowfullscreen></iframe>
