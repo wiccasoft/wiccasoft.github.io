@@ -1,3 +1,7 @@
+<!--<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/NGUACaTZSlg" frameborder="0" allowfullscreen></iframe>
+</div>-->
+
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/FwzmQf44hMo" frameborder="0" allowfullscreen></iframe>
@@ -17,6 +21,8 @@
 </div>
 
 ![Image](Soyuz-MS-10.png)
+
+
 
 ![Image](headfirst/cocky.jpg)
 
