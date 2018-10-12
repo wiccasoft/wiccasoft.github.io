@@ -37,6 +37,10 @@
 </div>
 
 
+![Image](windswept.png)
+
+
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Ww5jScH4fXY" frameborder="0" allowfullscreen></iframe>
 </div>
