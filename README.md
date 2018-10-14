@@ -9,7 +9,7 @@
 ![Image](turk-saudi-sanc.png)
 
 
-![Image](extremism.png)
+![Image](week-in-pictures.png)
 
 
 <div class="video-container">
