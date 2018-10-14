@@ -1,5 +1,5 @@
 
-![Image](death=penalty.png)
+![Image](death-penalty.png)
 
 ![Image](jamal-case.png)
 
