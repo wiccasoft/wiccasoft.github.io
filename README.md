@@ -62,7 +62,7 @@
 
 
 
-![Image](headfirst/cocky.jpg)
+<!--!![Image](headfirst/cocky.jpg)-->
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/VDZHXX3tA4c" frameborder="0" allowfullscreen></iframe>
