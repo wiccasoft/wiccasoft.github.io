@@ -1,4 +1,6 @@
 
+![Image](death=penalty.png)
+
 ![Image](jamal-case.png)
 
 <div class="video-container">
