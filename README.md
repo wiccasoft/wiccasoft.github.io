@@ -1,14 +1,15 @@
 
 ![Image](jamal-case.png)
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/T6QKqFPRZSA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ![Image](turk-saudi-sanc.png)
 
 
 ![Image](dontcare.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/T6QKqFPRZSA" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 ![Image](week-in-pictures.png)
