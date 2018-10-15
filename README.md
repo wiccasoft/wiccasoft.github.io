@@ -1,4 +1,7 @@
 
+
+![Image](climate-agenda.png)
+
 ![Image](zero-carbon-economy.png)
 
 <div class="video-container">
