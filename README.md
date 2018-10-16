@@ -25,7 +25,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/pco91kroVgQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](FTSE.png)
+![Image](FTSE100.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/f3-24VWnPZM" frameborder="0" allowfullscreen></iframe>
@@ -35,6 +35,8 @@
 ![Image](bloodhound.png)
 
 ![Image](death-penalty.png)
+
+![Image](1920x1080.png)
 
 ![Image](sweet-things.png)
 
