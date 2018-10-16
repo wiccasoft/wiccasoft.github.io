@@ -1,4 +1,4 @@
-![Image](botnet.png)
+
 
 ![Image](uk-leftwing.png)
 
@@ -8,7 +8,8 @@
 </div>
 
 
-![Image](climate-agenda.png)
+<!--![Image](climate-agenda.png)-->
+![Image](botnet.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/tjqxq1HTkB0" frameborder="0" allowfullscreen></iframe>
