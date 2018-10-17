@@ -43,7 +43,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/pco91kroVgQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](FTSE100.png)
+[![Image](FTSE100.png)](https://www.londonstockexchange.com)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/f3-24VWnPZM" frameborder="0" allowfullscreen></iframe>
