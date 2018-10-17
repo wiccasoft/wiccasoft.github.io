@@ -3,6 +3,10 @@
 
 [![Image](Davos-of-the-Desert.png)](https://www.bbc.com/news/business-45885396)
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embedwMH54DndXRs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ![Image](netflix.png)
 
