@@ -1,5 +1,5 @@
 
-[![Image](Davos-of-the-Desert.png)] (https://www.bbc.com/news/business-45885396)
+![Image](Davos-of-the-Desert.png)
 
 ![Image](netflix.png)
 
