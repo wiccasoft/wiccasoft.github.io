@@ -3,6 +3,8 @@
 
 ![Image](elizabeth-dna.png)
 
+![Image](saudis-in-khashoggi.png)
+
 ![Image](horseface-v-tiny.png)
 
 ![Image](backslash.png)
