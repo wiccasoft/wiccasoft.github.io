@@ -1,11 +1,12 @@
-
-
-![Image](instagram-diplomacy.png)
+![Image](banksy.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/wsIXrmY0DIc
 " frameborder="0" allowfullscreen></iframe>
 </div>
+
+![Image](instagram-diplomacy.png)
+
 
 ![Image](army-photographic-competition.png)
 
@@ -14,18 +15,14 @@
 " frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 ![Image](brexit-commons.png)
 
-
-![Image](banksy.png)
 
 ![Image](cannabis-in-canada.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BUX5q0EUtsM" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 ![Image](brussel-summit.png)
 
@@ -36,8 +33,6 @@
 
 
 [![Image](Davos-of-the-Desert.png)](https://www.bbc.com/news/business-45885396)
-
-
 
 ![Image](us-saudi.png)
 
