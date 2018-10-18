@@ -1,11 +1,18 @@
 
 ![Image](brussel-summit.png)
 
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/n_lU_GRsZbM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 [![Image](Davos-of-the-Desert.png)](https://www.bbc.com/news/business-45885396)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embedwMH54DndXRs" frameborder="0" allowfullscreen></iframe>
 </div>
+
+https://www.youtube.com/watch?v=n_lU_GRsZbM&t=17s
 
 
 ![Image](us-saudi.png)
