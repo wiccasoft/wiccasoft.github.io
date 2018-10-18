@@ -1,4 +1,4 @@
-![Image](banksy.png)
+[![Image](banksy.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/wsIXrmY0DIc
@@ -100,7 +100,7 @@
 </div>
 
 
-![Image](1920x1080.png)
+[![Image](1920x1080.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
 
 ![Image](sweet-things.png)
 
