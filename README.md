@@ -2,6 +2,8 @@
 
 ![Image](army-photographic-competition.png)
 
+![Image](banksy.png)
+
 ![Image](brexit-commons.png)
 
 ![Image](cannabis-in-canada.png)
