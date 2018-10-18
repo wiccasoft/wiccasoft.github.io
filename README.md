@@ -21,14 +21,14 @@
 
 [![Image](Davos-of-the-Desert.png)](https://www.bbc.com/news/business-45885396)
 
+
+
+![Image](us-saudi.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/wMH54DndXRs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-https://www.youtube.com/watch?v=n_lU_GRsZbM&t=17s
-
-
-![Image](us-saudi.png)
 
 ![Image](netflix.png)
 
