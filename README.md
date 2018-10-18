@@ -1,4 +1,7 @@
 
+
+![Image](cannabis-in-canada.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BUX5q0EUtsM" frameborder="0" allowfullscreen></iframe>
 </div>
