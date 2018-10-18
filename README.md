@@ -1,4 +1,7 @@
 
+
+![Image](instagram-diplomacy.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/wsIXrmY0DIc
 " frameborder="0" allowfullscreen></iframe>
