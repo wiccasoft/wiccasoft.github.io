@@ -6,7 +6,7 @@
 " frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](eyeofistanbul.png)
+[![Image](eyeofistanbul.png)](https://www.digitaltrends.com/mobile/1080p-smartphones-the-next-big-thing/)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/cnC_V4jICxA
