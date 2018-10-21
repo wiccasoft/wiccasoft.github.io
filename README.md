@@ -1,3 +1,5 @@
+
+![Image](anger-in-uk.png)
 ![Image](dolardomination.png)
 ![Image](weareallviews.png)
 ![Image](Вести-недели.png)
