@@ -1,4 +1,6 @@
 
+![Image](中国舆论界.png)
+
 ![Image](大黑客.png)
 
 ![Image](inrehearlsitworkedeverytime.png)
