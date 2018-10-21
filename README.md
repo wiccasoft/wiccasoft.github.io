@@ -1,4 +1,4 @@
-
+![Image](dolardomination.png)
 ![Image](weareallviews.png)
 ![Image](Вести-недели.png)
 ![Image](turkishnews-ntv.png)
