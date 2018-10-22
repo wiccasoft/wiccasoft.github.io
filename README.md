@@ -1,8 +1,7 @@
 ![Image](world-apart-with-live-streams.png)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Ml_LP77-mY8
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/Ml_LP77-mY8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](ibex.png)
@@ -20,8 +19,7 @@
 ![Image](inrehearlsitworkedeverytime.png)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/WgrNrwPUkMo
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/WgrNrwPUkMo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="video-container">
@@ -33,35 +31,29 @@
 [![Image](colombo-2-mercury.png)](https://www.bbc.com/news/amp/science-environment-45838991)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/FSd_mV-Vdxw
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/FSd_mV-Vdxw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/RH5YISZhs4c
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/RH5YISZhs4c" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/jdJWCp39RcI
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/jdJWCp39RcI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/nFicXlvJBdo
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/nFicXlvJBdo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/YnwfTHpnGLY
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/YnwfTHpnGLY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/1Ko9mWdqW-M
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/1Ko9mWdqW-M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](eyeofistanbul.png)](https://www.digitaltrends.com/mobile/1080p-smartphones-the-next-big-thing/)
@@ -74,23 +66,20 @@
 [![Image](banksy.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/wsIXrmY0DIc
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/wsIXrmY0DIc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](instagram-diplomacy.png)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/96xiay6GwtI
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/96xiay6GwtI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 ![Image](army-photographic-competition.png)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/9wnlK2nRKdk
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/9wnlK2nRKdk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](brexit-commons.png)
