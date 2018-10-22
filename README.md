@@ -23,9 +23,9 @@
 [![Image](turkishnews-ntv.png)](https://www.youtube.com/watch?v=JZ8QhI0pz1A)
 [![Image](الإخبار.png)](https://www.youtube.com/watch?v=iygNrT5d27U)
 
-![Image](中国舆论界.png)
+[![Image](中国舆论界.png)](https://www.youtube.com/watch?v=samRCVQTa-M)
 
-![Image](大黑客.png)
+[![Image](大黑客.png)](https://www.youtube.com/watch?v=vCDDYb_M2B4)
 
 ![Image](inrehearlsitworkedeverytime.png)
 
