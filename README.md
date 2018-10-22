@@ -9,19 +9,19 @@
   <iframe width="100%" src="https://www.youtube.com/embed/Ml_LP77-mY8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](ibex.png)
+[![Image](ibex.png)](https://www.youtube.com/watch?v=Ek7K4pq0jZY)
 [![Image](anger-in-uk.png)](https://www.online-xxx-show.com/raquelle_star/)
-![Image](dolardomination.png)
-![Image](weareallviews.png)
+[![Image](dolardomination.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
+[![Image](weareallviews.png)](https://www.youtube.com/watch?v=5-ipK8oPVw0)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/5YImhMp8TcQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-![Image](Вести-недели.png)
-![Image](turkishnews-ntv.png)
-![Image](الإخبار.png)
+[![Image](Вести-недели.png)](https://www.youtube.com/watch?v=K59KKnIbIaM)
+[![Image](turkishnews-ntv.png)](https://www.youtube.com/watch?v=JZ8QhI0pz1A)
+[![Image](الإخبار.png)](https://www.youtube.com/watch?v=iygNrT5d27U)
 
 ![Image](中国舆论界.png)
 
