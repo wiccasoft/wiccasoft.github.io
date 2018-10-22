@@ -3,7 +3,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/eUWy54la_6g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](world-apart-with-live-streams.png)]((https://www.online-xxx-show.com/raquelle_star/))
+[![Image](world-apart-with-live-streams.png)]((https://en.wikipedia.org/wiki/List_of_news_television_channels))
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Ml_LP77-mY8" frameborder="0" allowfullscreen></iframe>
