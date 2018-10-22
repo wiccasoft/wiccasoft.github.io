@@ -3,14 +3,14 @@
   <iframe width="100%" src="https://www.youtube.com/embed/eUWy54la_6g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](world-apart-with-live-streams.png)
+[![Image](world-apart-with-live-streams.png)]((https://www.online-xxx-show.com/raquelle_star/))
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Ml_LP77-mY8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](ibex.png)
-![Image](anger-in-uk.png)
+[![Image](anger-in-uk.png)](https://www.online-xxx-show.com/raquelle_star/)
 ![Image](dolardomination.png)
 ![Image](weareallviews.png)
 ![Image](Вести-недели.png)
