@@ -1,4 +1,7 @@
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/b4aisl9h9rA" frameborder="0" allowfullscreen></iframe>
+</div>
 [![Image](nuclear-arsenal.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
 
 <div class="video-container">
