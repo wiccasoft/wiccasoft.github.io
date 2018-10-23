@@ -19,6 +19,12 @@
 
 
 [![Image](dolardomination.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/PHMzCpy0fXc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [![Image](weareallviews.png)](https://www.youtube.com/watch?v=5-ipK8oPVw0)
 
 <div class="video-container">
