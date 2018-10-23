@@ -2,7 +2,7 @@
 [![Image](nuclear-arsenal.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/CehVgQ43pn0" frameborder="0" allowfullscreen></iframe>
 </div>
 [![Image](nuclear-treaty.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
 
