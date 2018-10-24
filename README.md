@@ -1,7 +1,10 @@
 
-<div class="video-container">
+
+[![Image](stream-reader.png)](https://www.youtube.com/watch?v=AnWBlBvdK0w)
+
+<!--<div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8U4P1I3Y58g" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/c61jlHO3rVM" frameborder="0" allowfullscreen></iframe>
