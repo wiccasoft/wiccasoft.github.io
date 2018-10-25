@@ -1,4 +1,5 @@
 
+![Image](portrait-by-ai.png)
 
 ![Image](INF-treaty.png)
 
