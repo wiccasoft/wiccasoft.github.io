@@ -1,3 +1,6 @@
+![Image](INF-treaty.png)
+
+
 ![Image](nato-war-games.png)
 
 ![Image](lebron-la.png)
