@@ -39,7 +39,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/R0q0misQ5Zw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](teleSUR.png)](https://www.youtube.com/watch?v=vpfxNW5QfkQ)
+[![Image](teleSUR.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w)
 
 
 <div class="video-container">
