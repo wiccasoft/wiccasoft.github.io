@@ -1,3 +1,5 @@
+![Image](nato-war-games.png)
+
 ![Image](lebron-la.png)
 
 <div class="video-container">
