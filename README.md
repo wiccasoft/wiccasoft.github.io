@@ -45,7 +45,7 @@
 
 ![Image](khashoggi-murder.png)
 
-[![Image](africanews.png)] (https://www.pornhub.com/view_video.php?viewkey=ph56e65b1f53d37)
+[![Image](africanews.png)](https://www.pornhub.com/view_video.php?viewkey=ph56e65b1f53d37)
 
 ![Image](free-gal.png)
 
