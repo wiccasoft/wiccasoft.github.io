@@ -1,4 +1,9 @@
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/8QI2aTxn87w" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
 <div class="video-container">
