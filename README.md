@@ -1,9 +1,9 @@
 
+
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8QI2aTxn87w" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
 
 
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
@@ -20,6 +20,10 @@
 </div>
 
 ![Image](nato-war-games.png)
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/6ACl8s_tBzE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](sas-first.png)
 <div class="video-container">
