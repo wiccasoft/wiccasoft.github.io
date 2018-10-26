@@ -1,70 +1,8 @@
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/LVqFtZ7_JY8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/2SzDVoaY8mg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/XaCq15D72FA" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/0WsriUr_0C8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/CW50LlbYcB8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/33H0iMkbFcY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/0P7MESyUNOk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/u8TLLDLXt9Q" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/fYS0XenM19I" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/8ICAeAJXQ3M" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/a98Wm-Zf7eY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/_anqGPylqB8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/UFpTkE9ty5Y" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/XQszpyMGQ5s" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/LVqFtZ7_JY8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
