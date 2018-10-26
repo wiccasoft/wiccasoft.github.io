@@ -1,6 +1,11 @@
 
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/XQszpyMGQ5s" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ![Image](INF-treaty.png)
 
 ![Image](nato-war-games.png)
