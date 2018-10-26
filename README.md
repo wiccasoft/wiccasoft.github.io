@@ -12,6 +12,9 @@
   <iframe width="100%" src="https://www.youtube.com/embed/8QI2aTxn87w" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/BvyD8j7B18g" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
@@ -26,6 +29,8 @@
   <iframe width="100%" src="https://www.youtube.com/embed/catk5Ymkaj8" frameborder="0" allowfullscreen></iframe>
 </div>
 
+https://www.youtube.com/watch?v=BvyD8j7B18g
+
 ![Image](nato-war-games.png)
 
 <div class="video-container">
@@ -33,6 +38,8 @@
 </div>
 
 ![Image](sas-first.png)
+
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/pFp7Oec6Yk4" frameborder="0" allowfullscreen></iframe>
 </div>
