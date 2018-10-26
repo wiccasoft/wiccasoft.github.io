@@ -4,6 +4,8 @@
 </div>
 
 
+
+
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
 <div class="video-container">
@@ -12,6 +14,10 @@
 
 
 ![Image](INF-treaty.png)
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/catk5Ymkaj8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](nato-war-games.png)
 
