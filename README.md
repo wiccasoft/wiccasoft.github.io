@@ -9,7 +9,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/j89XuEfL8aY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](winter-time.png)
+[![Image](winter-time.png)](https://bit.ly/2AvlMVO)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/5SM-nA5l2HU" frameborder="0" allowfullscreen></iframe>
