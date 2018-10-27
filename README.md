@@ -1,4 +1,4 @@
-![Image](mexican-gp.png)
+[![Image](mexican-gp.png)](https://stackoverflow.com/questions/40348169/youtube-restricted-playback-issue)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/A_gHAGGYJ_M" frameborder="0" allowfullscreen></iframe>
