@@ -1,4 +1,4 @@
-![Image](tick-tock)
+![Image](tick-tock.png)
 
 [![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
 
