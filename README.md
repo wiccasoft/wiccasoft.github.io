@@ -2,12 +2,12 @@
 
 ![Image](winter-time.png)
 
-[![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
-
-
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/5SM-nA5l2HU" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+[![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
 
 
 [![Image](putin-shrugs-off.png)](https://bit.ly/2z9C8BP)
