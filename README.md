@@ -1,5 +1,7 @@
 ![Image](tick-tock.png)
 
+![Image](winter-time.png)
+
 [![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
 
 
