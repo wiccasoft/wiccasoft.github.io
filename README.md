@@ -1,3 +1,5 @@
+![Image](wizzy.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/r-Qp9CWaba4" frameborder="0" allowfullscreen></iframe>
 </div>
