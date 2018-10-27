@@ -1,4 +1,5 @@
 
+[![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
 
 [![Image](putin-shrugs-off.png)](https://bit.ly/2z9C8BP)
 [![Image](empowerment.png)](https://bit.ly/2OTvHxr)
