@@ -1,7 +1,4 @@
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/DJkcVJOMeRk" frameborder="0" allowfullscreen></iframe>
-</div>
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8uL6x3LY2Po" frameborder="0" allowfullscreen></iframe>
