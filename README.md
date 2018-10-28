@@ -1,29 +1,3 @@
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/cQ7EERVqe6E" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/e639kzrnLtA" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/TADBUKI-7-Q" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Q7J-vBnyfqI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/UTWvhpd6Qpo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Jh-szbNsmHw" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 <div class="video-container">
