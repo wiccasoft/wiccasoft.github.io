@@ -1,5 +1,11 @@
 
+
 ![Image](inf-treaty-do-we-really-need.png)
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/7GlZvX9k7M0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ![Image](soviet-monument.png)
 
