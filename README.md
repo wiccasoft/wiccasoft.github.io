@@ -1,4 +1,5 @@
 
+![Image](made-in-italy-shoe.png)
 ![Image](first-loss-leftist-party-since-2002.png)
 
 <div class="video-container">
