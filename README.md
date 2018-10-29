@@ -1,3 +1,6 @@
+
+![Image](first-loss-leftist-party-since-2002.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/275505038" frameborder="0" allowfullscreen></iframe>
 </div>
