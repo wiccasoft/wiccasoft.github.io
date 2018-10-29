@@ -1,6 +1,8 @@
 
 ![Image](inf-treaty-do-we-really-need.png)
 
+![Image](soviet-monument.png)
+
 ![Image](made-in-italy-shoe.png)
 
 
