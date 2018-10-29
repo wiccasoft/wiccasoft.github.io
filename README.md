@@ -207,7 +207,6 @@
   <iframe width="100%" src="https://www.youtube.com/embed/catk5Ymkaj8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-https://www.youtube.com/watch?v=BvyD8j7B18g
 
 ![Image](nato-war-games.png)
 
@@ -265,11 +264,6 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
   <iframe width="100%" src="https://www.youtube.com/embed/AeveY0aW1Qg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Jg5wkZ-dJXA" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](stream-reader.png)](https://www.youtube.com/watch?v=AnWBlBvdK0w)
 
