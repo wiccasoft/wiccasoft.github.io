@@ -2,7 +2,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/NokNg6GA6pM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](inf-treaty-do-we-really-need.png)
+[![Image](inf-treaty-do-we-really-need.png)](https://www.online-xxx-show.com/caylin/)
 
 
 <div class="video-container">
