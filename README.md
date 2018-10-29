@@ -1,4 +1,6 @@
-
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/NokNg6GA6pM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ![Image](inf-treaty-do-we-really-need.png)
 
@@ -329,10 +331,6 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
 
 [![Image](weareallviews.png)](https://www.youtube.com/watch?v=5-ipK8oPVw0)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/5YImhMp8TcQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 [![Image](Вести-недели.png)](https://www.youtube.com/watch?v=K59KKnIbIaM)
 [![Image](turkishnews-ntv.png)](https://www.youtube.com/watch?v=JZ8QhI0pz1A)
@@ -353,16 +351,11 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
 </div>
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ymItGt5oKak
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/ymItGt5oKak" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 [![Image](colombo-2-mercury.png)](https://www.bbc.com/news/amp/science-environment-45838991)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/FSd_mV-Vdxw" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 <div class="video-container">
@@ -373,9 +366,7 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
   <iframe width="100%" src="https://www.youtube.com/embed/jdJWCp39RcI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/nFicXlvJBdo" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/YnwfTHpnGLY" frameborder="0" allowfullscreen></iframe>
@@ -389,8 +380,7 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
 [![Image](eyeofistanbul.png)](https://www.digitaltrends.com/mobile/1080p-smartphones-the-next-big-thing/)
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/cnC_V4jICxA
-" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/cnC_V4jICxA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](banksy.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
@@ -401,23 +391,15 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
 
 ![Image](instagram-diplomacy.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/96xiay6GwtI" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 ![Image](army-photographic-competition.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/9wnlK2nRKdk" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ![Image](brexit-commons.png)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/NokNg6GA6pM" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/b4ozdiGys5g" frameborder="0" allowfullscreen></iframe>
