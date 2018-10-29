@@ -27,36 +27,6 @@
 
 [![Image](bolsonaro.png)](https://bit.ly/2SoKZrT)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/OlCeeUq4se0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/XZttxKO3uUM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ogBGkADRHOM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/SmRPONpMKvk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/obeXPTAV4wU" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/wQPtkbAiRrU" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/fIEwXhVcLt4" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 ![Image](wiccasoft.png)
@@ -97,13 +67,7 @@
 
 [![Image](artshow.png)](https://www.theguardian.com/artanddesign/2018/oct/26/students-persuade-jeff-koons-to-stage-rare-uk-museum-show)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/_2jLsfJHoKA" frameborder="0" allowfullscreen></iframe>
-</div>
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/vAUB7dcUn8o" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 ![Image](wizzy.png)
@@ -113,10 +77,6 @@
   <iframe width="100%" src="https://www.youtube.com/embed/fbEEeoo1QkA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/r-Qp9CWaba4" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 <div class="video-container">
@@ -150,10 +110,6 @@
 </div>
 
 [![Image](winter-time.png)](https://bit.ly/2AvlMVO)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/5SM-nA5l2HU" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 [![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
