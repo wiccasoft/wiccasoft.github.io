@@ -1,4 +1,6 @@
 
+![Image](inf-treaty-do-we-really-need.png)
+
 ![Image](made-in-italy-shoe.png)
 
 
