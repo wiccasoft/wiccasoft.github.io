@@ -5,6 +5,11 @@
 ![Image](inf-treaty-do-we-really-need.png)
 
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/Jp8nqChW_pY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ![Image](soviet-monument.png)
 
 ![Image](made-in-italy-shoe.png)
