@@ -30,9 +30,7 @@
 
 
 ![Image](wiccasoft.png)
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/sgERgw969yc" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/obRG-2jurz0" frameborder="0" allowfullscreen></iframe>
@@ -225,9 +223,6 @@ https://www.youtube.com/watch?v=BvyD8j7B18g
 ![Image](национальные-проекты.png)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/r-Qp9CWaba4" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ![Image](lebron-la.png)
 
