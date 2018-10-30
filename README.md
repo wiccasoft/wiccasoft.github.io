@@ -136,15 +136,6 @@
 [![Image](mexican-gp.png)](https://stackoverflow.com/a/40356366)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ewe1yWuc-Cs" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ixj5BnEra74" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 
 <div class="video-container">
@@ -154,42 +145,6 @@
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/t5eMBusZcGM" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/0KSOMA3QBU0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/b_l3eLhYbVo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Zeith7pImH4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Ob4Nk6gz8Ec" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/8PNj_bzPOGs" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/B8Mrt4fsD8E" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/bligZZehUQA" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8QI2aTxn87w" frameborder="0" allowfullscreen></iframe>
