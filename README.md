@@ -14,7 +14,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](inf-treaty-do-we-really-need.png)]
+![Image](inf-treaty-do-we-really-need.png)
 
 
 <div class="video-container">
@@ -22,7 +22,7 @@
 </div>
 
 
-[![Image](soviet-monument.png)]
+![Image](soviet-monument.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Yrdih26Dv_g" frameborder="0" allowfullscreen></iframe>
