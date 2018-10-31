@@ -1,92 +1,95 @@
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/VLnYPXTs9LY" frameborder="0" allowfullscreen></iframe>
-</div
+</div>
+-->
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/nmkv8whDmz0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
+
 
 ![Image](inf-treaty-do-we-really-need.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Jp8nqChW_pY" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 ![Image](soviet-monument.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Yrdih26Dv_g" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 ![Image](made-in-italy-shoe.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/CsEa_M7MqYE" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 ![Image](first-loss-leftist-party-since-2002.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/275505038" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](beyond-the-sound-bites.png	)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8uL6x3LY2Po" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](bolsonaro.png)](https://bit.ly/2SoKZrT)
 
 
 
 [![Image](wiccasoft.png)](https://www.online-xxx-show.com/xxfoxxyraveneyesxx/)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/obRG-2jurz0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/1WdWH53nsu8" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/VME2Z2tfL8o" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/TzffmsXpOmg" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/iutL5J_Mklw" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 [![Image](penguin-books.png)](https://www.online-xxx-show.com/farfalina_hot/)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/vR3GJcsKwzE" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](artshow.png)](https://www.theguardian.com/artanddesign/2018/oct/26/students-persuade-jeff-koons-to-stage-rare-uk-museum-show)
 
 
@@ -94,26 +97,27 @@
 
 ![Image](wizzy.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/fbEEeoo1QkA" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
 
-
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/uxote5qpw84" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Jfxs4h683uE" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/QtEqiqB2uMY" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 ![Image](tick-tock.png)
 
@@ -127,10 +131,11 @@
 
 [![Image](framekiller.png)](https://stackoverflow.com/a/16047311)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/dCAh-dNtPH0" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](winter-time.png)](https://bit.ly/2AvlMVO)
 
 
@@ -138,83 +143,92 @@
 
 
 [![Image](putin-shrugs-off.png)](https://bit.ly/2z9C8BP)
+
 [![Image](empowerment.png)](https://bit.ly/2OTvHxr)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8ucz_pm3LX8" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](brazil-election.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/ZKPoWTeJxxI" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](mexican-gp.png)](https://stackoverflow.com/a/40356366)
 
 
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/6FHUqw9nb3k" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/t5eMBusZcGM" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/8QI2aTxn87w" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BvyD8j7B18g" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/LVqFtZ7_JY8" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 [![Image](INF-treaty.png)](https://www.online-xxx-show.com/iammery/)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/catk5Ymkaj8" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 ![Image](nato-war-games.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/6ACl8s_tBzE" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](sas-first.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/pFp7Oec6Yk4" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](национальные-проекты.png)
 
 
 
 ![Image](lebron-la.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/qdsTUfDTEhQ" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](wherelifeisreal.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/lPk2YR8DJBs" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](monsantounderpressure.png)
 
 ![Image](khashoggi-murder.png)
@@ -222,25 +236,25 @@
 [![Image](africanews.png)](https://www.pornhub.com/view_video.php?viewkey=ph56e65b1f53d37)
 
 ![Image](free-gal.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/LTs9MH0Ny-k" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](mob-app-data.png)](https://www.online-xxx-show.com/mykinkydope/)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/R0q0misQ5Zw" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](teleSUR.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/AeveY0aW1Qg" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 [![Image](stream-reader.png)](https://www.youtube.com/watch?v=AnWBlBvdK0w)
 
@@ -248,40 +262,49 @@
   <iframe width="100%" src="https://www.youtube.com/embed/8U4P1I3Y58g" frameborder="0" allowfullscreen></iframe>
 </div>-->
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/c61jlHO3rVM" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/dR3ccmWmLhk" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Hrph2EW9VjY" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/b4aisl9h9rA" frameborder="0" allowfullscreen></iframe>
 </div>
+
 [![Image](nuclear-arsenal.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/CehVgQ43pn0" frameborder="0" allowfullscreen></iframe>
 </div>
+
 [![Image](nuclear-treaty.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/eUWy54la_6g" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](world-apart-with-live-streams.png)](https://en.wikipedia.org/wiki/List_of_news_television_channels)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Ml_LP77-mY8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](ibex.png)](https://www.youtube.com/watch?v=Ek7K4pq0jZY)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/NC5SSDh3f_4" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -309,6 +332,7 @@
 
 [![Image](中国舆论界.png)](https://www.youtube.com/watch?v=samRCVQTa-M)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/TJBRNVrEGgE" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -316,11 +340,11 @@
 [![Image](大黑客.png)](https://www.youtube.com/watch?v=vCDDYb_M2B4)
 
 ![Image](inrehearlsitworkedeverytime.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/WgrNrwPUkMo" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/ymItGt5oKak" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -328,34 +352,35 @@
 
 [![Image](colombo-2-mercury.png)](https://www.bbc.com/news/amp/science-environment-45838991)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/RH5YISZhs4c" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/jdJWCp39RcI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/YnwfTHpnGLY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/1Ko9mWdqW-M" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](eyeofistanbul.png)](https://www.digitaltrends.com/mobile/1080p-smartphones-the-next-big-thing/)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/cnC_V4jICxA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](banksy.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/wsIXrmY0DIc" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -371,20 +396,20 @@
 
 
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/b4ozdiGys5g" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](cannabis-in-canada.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BUX5q0EUtsM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](brussel-summit.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/CehVgQ43pn0" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -400,7 +425,7 @@
 
 
 ![Image](netflix.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Q720Fe7IDMk" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -414,7 +439,7 @@
 
 ![Image](backslash.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/ICMOybwDFN0" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -430,7 +455,9 @@
 
 
 <!--![Image](climate-agenda.png)-->
+
 [![Image](botnet.png)](https://www.bbc.com/news/technology-45863948)
+
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/tjqxq1HTkB0" frameborder="0" allowfullscreen></iframe>
@@ -438,6 +465,7 @@
 
 ![Image](zero-carbon-economy.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/pco91kroVgQ" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -453,6 +481,7 @@
 
 ![Image](death-penalty.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/mhPaF9H56YM" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -462,12 +491,14 @@
 
 ![Image](sweet-things.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/fZXtCHoRb50" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](jamal-case.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/T6QKqFPRZSA" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -478,42 +509,43 @@
 
 ![Image](week-in-pictures.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/--XTabj5Odw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](fergie-time-in-windsdor.png)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/K4D1-bI3p8Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![Image](royal-society-of-biology.png)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/gHBhKbF2xM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/284532679" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-<!--<div class="video-container">
+
+<div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/NGUACaTZSlg" frameborder="0" allowfullscreen></iframe>
 </div>-->
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/FwzmQf44hMo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 [![Image](MAGA.png)](https://www.online-xxx-show.com/layladolce/)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/bB192WZHKRw" frameborder="0" allowfullscreen></iframe>
 </div>
