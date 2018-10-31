@@ -14,7 +14,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](inf-treaty-do-we-really-need.png)](https://www.online-xxx-show.com/caylin/)
+[![Image](inf-treaty-do-we-really-need.png)]
 
 
 <div class="video-container">
@@ -22,7 +22,7 @@
 </div>
 
 
-[![Image](soviet-monument.png)](https://www.online-xxx-show.com/bluecouple6969/)
+[![Image](soviet-monument.png)]
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Yrdih26Dv_g" frameborder="0" allowfullscreen></iframe>
@@ -871,6 +871,8 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
 
 ### Contact
 
