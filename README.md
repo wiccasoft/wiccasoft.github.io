@@ -16,6 +16,10 @@
 </div>
 -->
 
+![Image](walkout.png)
+
+
+
 [![Image](witchcraft.png)](https://www.bbc.com/news/world-us-canada-45983540)
 ![Image](inf-treaty-do-we-really-need.png)
 
