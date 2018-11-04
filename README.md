@@ -13,12 +13,11 @@
 <!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws" frameborder="0" allowfullscreen></iframe>
-</d
-
-
-iv>
+</div>
 -->
 
+
+![Image](fatihterim.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/ZrK7LyLEgeI" frameborder="0" allowfullscreen></iframe>
