@@ -16,94 +16,11 @@
 </div>
 -->
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/5hFd6zGkxLE" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](fatihterim.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ZrK7LyLEgeI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/gglfXekbHbg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/rBHPTyuFFgM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/rjwtu_8bEfU" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/YjmMcZ7ull0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/uisBaTkQAEs" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/67Dm0egvJkg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/WAMupz_a07M" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/FT3zuBuqnsk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/WBZHdbfuFtw" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Ys1KnSlp2g4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/WjDLin6Egyw" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/DXXhXaBWgx0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/HSscXpRTniY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/6QAvP73HNgg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/BV1RcLhMFYs" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](younes-belhanda.png)
-![Image](alikoc.png)
-![Image](new-caledonia.png)
 ![Image](au.png)
-![Image](senolsun.png)
-![Image](hasansas.png)
+
 ![Image](octopus.png)
 
 <div class="video-container">
