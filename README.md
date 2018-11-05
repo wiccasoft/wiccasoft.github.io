@@ -169,7 +169,6 @@
   <iframe width="100%" src="https://www.youtube.com/embed/dCAh-dNtPH0" frameborder="0" allowfullscreen></iframe>
 </div>
 -->
-[![Image](winter-time.png)](https://bit.ly/2AvlMVO)
 
 
 [![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
