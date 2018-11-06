@@ -21,8 +21,6 @@
   <iframe width="100%" src="https://www.youtube.com/embed/Z5E4xkfoJEo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](Captura-de-Tela-2014-05-24-às-17.11.01-615x400.png)
-
 
 [![Image](q2283.png)](https://www.wikidata.org/wiki/Q2283)
 
