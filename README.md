@@ -18,6 +18,8 @@
 
 ![Image](newsreader.png)
 
+[![Image](Shot2041.png)](https://www.youtube.com/watch?v=_ulUsFYyLZ0)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Z5E4xkfoJEo" frameborder="0" allowfullscreen></iframe>
 </div>
