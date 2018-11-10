@@ -28,7 +28,7 @@
 
 [![Image](q2283.png)](https://www.wikidata.org/wiki/Q2283)
 
-![Image](skynet.png)
+[![Image](skynet.png)](https://www.w3.org/DesignIssues/LinkedData.html)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BaTd_F2yIrU" frameborder="0" allowfullscreen></iframe>
