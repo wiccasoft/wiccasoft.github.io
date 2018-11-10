@@ -16,7 +16,7 @@
 </div>
 -->
 
-![Image](newsreader.png)
+[![Image](newsreader.png)](http://dbpedia.org/page/Semantic_Web)
 
 [![Image](Shot2041.png)](https://www.youtube.com/watch?v=_ulUsFYyLZ0)
 
@@ -28,7 +28,7 @@
 
 [![Image](q2283.png)](https://www.wikidata.org/wiki/Q2283)
 
-[![Image](skynet.png)](https://www.w3.org/DesignIssues/LinkedData.html)
+[![Image](skynet.png)](http://dbpedia.org/page/Semantic_Web)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BaTd_F2yIrU" frameborder="0" allowfullscreen></iframe>
