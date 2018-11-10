@@ -61,7 +61,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/Gm4MbTfbzfI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](walkout.png)
+[![Image](walkout.png)]((https://www.w3.org/DesignIssues/LinkedData.html))
 
 
 
