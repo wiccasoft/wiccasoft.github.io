@@ -16,7 +16,12 @@
 </div>
 -->
 
+
+
 [![Image](wiki-data.png)](http://dbpedia.org/page/Semantic_Web)
+
+
+![Image](armisticeday.png)
 
 
 [![Image](newsreader.png)](http://dbpedia.org/page/Semantic_Web)
