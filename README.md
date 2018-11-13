@@ -16,7 +16,7 @@
 </div>
 -->
 
-[![Image](democrats.png)](https://sinema.house.gov/)
+[![Image](democrats.png)](https://sinema.house.gov/biography/)
 
 
 <div class="video-container">
