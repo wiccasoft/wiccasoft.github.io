@@ -16,8 +16,7 @@
 </div>
 -->
 
-[![Image](democrats.png)](https://sinema.house.gov/biography/)
-
+[![Image](arizona.png)](https://sinema.house.gov/biography/)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/VRuoR--LdqQ" frameborder="0" allowfullscreen></iframe>
@@ -37,6 +36,7 @@
 
 
 ![Image](armisticeday.png)
+
 
 
 [![Image](newsreader.png)](http://dbpedia.org/page/Semantic_Web)
