@@ -16,6 +16,8 @@
 </div>
 -->
 
+![Image](fake-news-turkey.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/D7rm9t5S4uE" frameborder="0" allowfullscreen></iframe>
 </div>
