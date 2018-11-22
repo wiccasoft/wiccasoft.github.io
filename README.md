@@ -19,7 +19,6 @@
 
 ![Image](tulip-tower.png)
 
-![Image](tulip-tower.png)
 
 ![Image](palm-oil.png)
 
