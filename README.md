@@ -49,9 +49,6 @@
 </div>
 
 
-![Image](octopus.png)
-
-
 [![Image](witchita.png)](https://www.online-xxx-show.com/dreamsweetgirl/)
 
 
