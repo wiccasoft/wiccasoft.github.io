@@ -31,10 +31,6 @@
 
 ![Image](fake-news-turkey.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/WTtANFwtkpU" frameborder="0" allowfullscreen></iframe>
-</div>
-
 [![Image](Es'hail-2.png)](https://www.spacex.com/sites/spacex/files/eshail-2_mission_press_kit_11_14_2018.pdf)
 
 [![Image](arizona.png)](https://sinema.house.gov/biography/)
@@ -105,13 +101,9 @@
 [![Image](walkout.png)]((https://www.w3.org/DesignIssues/LinkedData.html))
 
 
-
 [![Image](witchcraft.png)](https://www.bbc.com/news/world-us-canada-45983540)
 
 ![Image](inf-treaty-do-we-really-need.png)
-
-
-
 
 
 <!--
