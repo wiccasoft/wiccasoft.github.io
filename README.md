@@ -16,6 +16,8 @@
 </div>
 -->
 
+![Image](tulip-tower.png)
+
 ![Image](palm-oil.png)
 
 ![Image](trump-wont-listen.png)
