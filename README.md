@@ -106,39 +106,17 @@
 ![Image](inf-treaty-do-we-really-need.png)
 
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Jp8nqChW_pY" frameborder="0" allowfullscreen></iframe>
-</div>
--->
-
 [![Image](soviet-monument.png)](https://www.online-xxx-show.com/li_lith/)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Yrdih26Dv_g" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 
 ![Image](made-in-italy-shoe.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/CsEa_M7MqYE" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 
 ![Image](first-loss-leftist-party-since-2002.png)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/275505038" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 ![Image](beyond-the-sound-bites.png	)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/8uL6x3LY2Po" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 [![Image](bolsonaro.png)](https://bit.ly/2SoKZrT)
 
 
@@ -184,45 +162,14 @@
 
 ![Image](wizzy.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/fbEEeoo1QkA" frameborder="0" allowfullscreen></iframe>
-</div>
--->
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/uxote5qpw84" frameborder="0" allowfullscreen></iframe>
-</div>
--->
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Jfxs4h683uE" frameborder="0" allowfullscreen></iframe>
-</div>
--->
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/QtEqiqB2uMY" frameborder="0" allowfullscreen></iframe>
-</div>
--->
 
 ![Image](tick-tock.png)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/j89XuEfL8aY" frameborder="0" allowfullscreen></iframe>
-</div>
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/tyAvwIDn_QQ" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 [![Image](framekiller.png)](https://stackoverflow.com/a/16047311)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/dCAh-dNtPH0" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 
 
 [![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
@@ -322,18 +269,10 @@
 [![Image](africanews.png)](https://www.pornhub.com/view_video.php?viewkey=ph56e65b1f53d37)
 
 ![Image](free-gal.png)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/LTs9MH0Ny-k" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 [![Image](mob-app-data.png)](https://www.online-xxx-show.com/mykinkydope/)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/R0q0misQ5Zw" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 [![Image](teleSUR.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w)
 
 <!--
