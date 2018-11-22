@@ -627,6 +627,8 @@ lightweight and easy-to-use syntax for styling your writing. It includes convent
 
 any page for pc is easy to implement
 
+![Image](umbrella.jpg)
+
 ![Image](rag-to-reach.jpg)
 
 For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h88).
@@ -654,8 +656,6 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/UDKCqxPq9A0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-![Image](umbrella.png)
 
 ### Contact
 
