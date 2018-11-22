@@ -25,10 +25,6 @@
 
 [![Image](wiki-data.png)](http://dbpedia.org/page/Semantic_Web)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/YT0k99hCY5I" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ![Image](armisticeday.png)
 
 [![Image](newsreader.png)](http://dbpedia.org/page/Semantic_Web)
@@ -574,39 +570,6 @@
 
 ![Image](pinterest.png)
 
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ZYJkygblYew" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Hrph2EW9VjY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/6Dfs740dONI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Im6Fsd92n3k" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/cvQal0YmszY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/bPEknYYYotw" frameborder="0" allowfullscreen></iframe>
-</div>
-                                                                                       
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/kLjYw21J3ss" frameborder="0" allowfullscreen></iframe>
-</div>         
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Ekl_uzliQWA" frameborder="0" allowfullscreen></iframe>
-</div>   
 
 [![Image](isolated.png)](http://online-xxx-show.com)
 
