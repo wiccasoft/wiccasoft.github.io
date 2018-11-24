@@ -1,4 +1,4 @@
-![Image](if-else-may.png)
+![Image](If-else-may.png)
 
 ![Image](bombardier.png)
 
