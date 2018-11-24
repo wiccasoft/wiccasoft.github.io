@@ -61,7 +61,7 @@
 [![Image](walkout.png)]((https://www.w3.org/DesignIssues/LinkedData.html))
 
 
-![Image](umbrella.jpg)
+
 
 [![Image](witchcraft.png)](https://www.bbc.com/news/world-us-canada-45983540)
 
@@ -103,6 +103,7 @@
 
 [![Image](framekiller.png)](https://stackoverflow.com/a/16047311)
 
+![Image](umbrella.jpg)
 
 [![Image](time-running-out-for-daylight.png)](https://bit.ly/2AvlMVO)
 
