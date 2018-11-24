@@ -61,7 +61,11 @@
 [![Image](walkout.png)]((https://www.w3.org/DesignIssues/LinkedData.html))
 
 
+![Image](umbrella.jpg)
+
 [![Image](witchcraft.png)](https://www.bbc.com/news/world-us-canada-45983540)
+
+
 
 ![Image](inf-treaty-do-we-really-need.png)
 
@@ -633,7 +637,7 @@ lightweight and easy-to-use syntax for styling your writing. It includes convent
 
 any page for pc is easy to implement
 
-![Image](umbrella.jpg)
+
 
 ![Image](rag-to-reach.jpg)
 
