@@ -1,8 +1,6 @@
 
 ![Image](gilets-jaunes.png)
 
-[![Image](france24.png)](https://bit.ly/2SoKZrT)
-
 ![Image](If-else-may.png)
 
 ![Image](bombardier.png)
@@ -34,6 +32,8 @@
 ![Image](armisticeday.png)
 
 [![Image](newsreader.png)](http://dbpedia.org/page/Semantic_Web)
+
+[![Image](france24.png)](https://bit.ly/2SoKZrT)
 
 [![Image](Shot2041.png)](https://www.youtube.com/watch?v=_ulUsFYyLZ0)
 
