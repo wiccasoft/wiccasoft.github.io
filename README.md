@@ -1,4 +1,4 @@
-![Image](gilet-jaunes.png)
+![Image](gilets-jaunes.png)
 
 ![Image](If-else-may.png)
 
