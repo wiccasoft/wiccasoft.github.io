@@ -3,7 +3,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/vXB9823Qg9E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](moment-of-touchdown.png)
+[![Image](moment-of-touchdown.png)](https://www.youtube.com/watch?v=UE7hAtdO5Po)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/BXhIT4MpRis" frameborder="0" allowfullscreen></iframe>
