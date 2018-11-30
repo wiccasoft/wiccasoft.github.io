@@ -1,9 +1,5 @@
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/mSVKiiPei0s" frameborder="0" allowfullscreen></iframe>
-</div>
-
 [![Image](pringles.png)](https://www.bbc.com/news/world-europe-46371201)
 
 [![Image](starbucks.png)](https://www.online-xxx-show.com/ananomie/)
