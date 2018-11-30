@@ -1,4 +1,4 @@
-![Image](g20.png)
+![Image](pringles.png)
 
 [![Image](starbucks.png)](https://www.online-xxx-show.com/ananomie/)
 
