@@ -89,11 +89,7 @@
 </div>
 
 
-[![Image](witchita.png)](https://www.online-xxx-show.com/dreamsweetgirl/)
-
-
-[![Image](walkout.png)]((https://www.w3.org/DesignIssues/LinkedData.html))
-
+[![Image](witchita.png)](https://www.w3.org/DesignIssues/LinkedData.html)
 
 
 
