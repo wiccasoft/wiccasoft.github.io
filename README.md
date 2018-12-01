@@ -1,10 +1,6 @@
 
 
-[![Image](pringles.png)](https://www.bbc.com/news/world-europe-46371201)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/5avdB-w1Tqk" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Image](pringles.png)](https://www.youtube.com/watch?v=5avdB-w1Tqk)
 
 
 ![Image](michelle-legacy.png)
