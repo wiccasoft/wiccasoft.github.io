@@ -658,7 +658,7 @@ For those who think the world is flat, it is just side-ways.
 ![Image](fur-ball-at-the-skirball.jpg)
 
 
-### Witchcraft
+### witchcraft
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/i1u7by_Ndn0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
