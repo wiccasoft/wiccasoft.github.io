@@ -1,4 +1,4 @@
-
+![Image](fuel-protests.png)
 
 [![Image](pringles.png)](https://www.youtube.com/watch?v=5avdB-w1Tqk)
 
