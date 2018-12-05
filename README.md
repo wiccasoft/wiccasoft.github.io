@@ -3,6 +3,11 @@
 [![Image](fuel-protests.png)](https://www.bbc.com/news/world-europe-46233560)
 
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/vimwFR6RRpM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [![Image](yellow-vests.png)](https://www.bbc.com/news/av/world-europe-46405583/france-fuel-protests-who-are-the-people-in-the-yellow-vests)
 
 [![Image](inspiring.png)](http://thefappeningblog.com/seyma-subasi-sexy-17-photos/)
