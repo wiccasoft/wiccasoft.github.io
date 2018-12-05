@@ -1,4 +1,4 @@
-![Image](trump-v-world.png)
+![Image](god-letter.png)
 
 ![Image](Ballond'Or.png)
 
