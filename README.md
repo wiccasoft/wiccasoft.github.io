@@ -1,3 +1,8 @@
+![Image](trump-v-world.png)
+
+![Image](Ballond'Or.png)
+
+
 ![Image](awe.png)
 
 <div class="video-container">
