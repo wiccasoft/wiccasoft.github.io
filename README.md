@@ -1,6 +1,4 @@
-![Image](god-letter.png)
 
-![Image](Ballond'Or.png)
 
 
 ![Image](awe.png)
