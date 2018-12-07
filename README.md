@@ -5,6 +5,9 @@
 
 [![Image](trump-v-world.png)](https://www.bbc.co.uk/news/business-46450630)
 
+
+![Image](golden-globes-constance-wu.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/OLvz5E61UNs" frameborder="0" allowfullscreen></iframe>
 </div>
