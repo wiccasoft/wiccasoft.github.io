@@ -10,6 +10,11 @@
 
 ![Image](golden-globes.png)
 
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/TtJjSVIw-Uo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ![Image](awe.png)
 
 [![Image](trump-v-world.png)](https://www.bbc.co.uk/news/business-46450630)
