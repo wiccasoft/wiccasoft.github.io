@@ -1,6 +1,6 @@
 
 
-![Image](huawei.png)
+[![Image](huawei.png)](https://www.bbc.co.uk/news/business-46480208)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Cjluta1VTsI" frameborder="0" allowfullscreen></iframe>
