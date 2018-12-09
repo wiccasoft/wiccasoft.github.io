@@ -20,7 +20,7 @@
   <iframe width="100%" src="https://www.youtube.com/embed/vnDKp5pzZsw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![Image](golden-globes-constance-wu.png)
+[![Image](golden-globes-constance-wu.png)](https://www.msn.com/en-gb/money/technology/the-giant-that-no-one-trusts-why-huawei’s-history-haunts-it/ar-BBQF9Fm?ocid=spartanntp)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/OLvz5E61UNs" frameborder="0" allowfullscreen></iframe>
