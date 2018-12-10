@@ -4,7 +4,7 @@
 
 [![Image](月.png)](https://joyalicialin.wordpress.com/2015/10/08/the-history-of-chinese-people-as-told-in-chinese-calligraphy-blog5/)
 
-![Image](見る.jpeg)
+[![Image](見る.jpeg)](https://www.amazon.co.jp/japanese-calligraphy/s?page=1&rh=i%3Aaps%2Ck%3Ajapanese%20calligraphy)
 
 ![Image](huawei-view20.png)
 
