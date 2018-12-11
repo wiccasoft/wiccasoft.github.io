@@ -8,7 +8,7 @@
 
 ![Image](huawei-view20.png)
 
-[![Image](masako.png)](https://www.online-xxx-show.com/newivy/)
+![Image](masako.png)
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/FN16bPbbIW4" frameborder="0" allowfullscreen></iframe>
@@ -28,22 +28,11 @@
 
 [![Image](trump-v-world.png)](https://www.bbc.co.uk/news/business-46450630)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/vnDKp5pzZsw" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](golden-globes-constance-wu.png)](https://www.msn.com/en-gb/money/technology/the-giant-that-no-one-trusts-why-huawei’s-history-haunts-it/ar-BBQF9Fm?ocid=spartanntp)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/OLvz5E61UNs" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](fuel-protests.png)](https://www.bbc.com/news/world-europe-46233560)
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/vimwFR6RRpM" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 [![Image](yellow-vests.png)](https://www.bbc.com/news/av/world-europe-46405583/france-fuel-protests-who-are-the-people-in-the-yellow-vests)
@@ -66,16 +55,7 @@
 ![Image](dragonfly.png)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/IlsLUaccKWo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 [![Image](tweetleaks.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/HUcTGz-OrTo" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 [![Image](moment-of-touchdown.png)](https://www.youtube.com/watch?v=UE7hAtdO5Po)
@@ -89,7 +69,6 @@
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/4llnekYxDwM" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 ![Image](If-else-may.png)
 
