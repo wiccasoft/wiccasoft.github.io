@@ -1,8 +1,6 @@
 
+![Image](juno.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/x5MsF7hii9c" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](apollo-8.png)](https://www.space.com/42665-china-launches-moon-far-side-lander-rover.html)
 
