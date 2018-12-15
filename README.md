@@ -105,7 +105,7 @@
 
 [![Image](arizona.png)](https://sinema.house.gov/biography/)
 
-![Image](sky.png)
+[![Image](sky.png)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/299990730" frameborder="0" allowfullscreen></iframe>
