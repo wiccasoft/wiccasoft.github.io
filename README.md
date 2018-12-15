@@ -1,3 +1,5 @@
+[![Image](jerusalem.png)](https://www.youtube.com/watch?v=h0mZWOZqUeI)
+
 [![Image](independent-church.png)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
 
 <div class="video-container">
