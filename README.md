@@ -1,3 +1,4 @@
+[![Image](independent-church.png)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/277272636" frameborder="0" allowfullscreen></iframe>
@@ -5,7 +6,7 @@
 
 [![Image](juno.png)](https://www.youtube.com/watch?v=6dskJ6jQtMc)
 
-![Image](Jessica-Chastain-Backstage-Magazine-Photoshoot-2017-01.jpg)
+[![Image](Jessica-Chastain-Backstage-Magazine-Photoshoot-2017-01.jpg)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
 
 [![Image](apollo-8.png)](https://www.space.com/42665-china-launches-moon-far-side-lander-rover.html)
 
