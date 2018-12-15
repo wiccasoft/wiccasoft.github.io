@@ -698,7 +698,7 @@ For those who think the world is flat, it is just side-ways.
 
 
 
-![Image](there-is-no-place-like.jpg)
+[![Image](there-is-no-place-like.jpg)](https://www.youtube.com/watch?v=h7UC1e_YOXg)
 
 ![Image](PETA-TriciaHelfer_Cat-Ad_Final72.jpg)
 
