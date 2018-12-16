@@ -1,4 +1,4 @@
-[![Image](seal_of_solomon.png)](http://principiadiscordia.com/downloads/CodexSeraphinianus.pdf)
+
 
 [![Image](jerusalem.png)](https://www.youtube.com/watch?v=h7UC1e_YOXgI)
 
