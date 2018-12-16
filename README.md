@@ -10,6 +10,8 @@
   <iframe width="100%" src="https://player.vimeo.com/video/277272636" frameborder="0" allowfullscreen></iframe>
 </div>
 
+
+
 [![Image](juno.png)](https://www.youtube.com/watch?v=6dskJ6jQtMc)
 
 [![Image](Jessica-Chastain-Backstage-Magazine-Photoshoot-2017-01.jpg)](https://www.youtube.com/watch?v=XvDZLjaCJuw)
@@ -39,7 +41,6 @@
 [![Image](huawei.png)](https://www.bbc.co.uk/news/business-46480208)
 
 ![Image](golden-globes.png)
-
 
 ![Image](awe.png)
 
