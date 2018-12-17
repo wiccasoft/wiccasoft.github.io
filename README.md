@@ -1,5 +1,6 @@
 
-
+[![Image](france-taxes.png)](https://www.bbc.co.uk/news/business-46591576)
+[![Image](slave-laws.png)](https://www.bbc.co.uk/news/world-europe-46588033)
 [![Image](jerusalem.png)](https://www.youtube.com/watch?v=h7UC1e_YOXgI)
 
 [![Image](saqqara.png)](https://www.bbc.com/news/world-middle-east-46580264)
