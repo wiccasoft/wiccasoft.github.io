@@ -1,4 +1,6 @@
 
+[![Image](ethiopian-run.png)](http://runafrica.co/great-ethiopian-run-2018/)
+[![Image](diavik.png)](https://www.bbc.com/news/world-us-canada-46562131)
 [![Image](france-taxes.png)](https://www.bbc.co.uk/news/business-46591576)
 [![Image](slave-laws.png)](https://www.bbc.co.uk/news/world-europe-46588033)
 [![Image](jerusalem.png)](https://www.youtube.com/watch?v=h7UC1e_YOXgI)
