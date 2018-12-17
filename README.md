@@ -21,7 +21,6 @@
 
 [![Image](apollo-8.png)](https://www.space.com/42665-china-launches-moon-far-side-lander-rover.html)
 
-[![Image](esa-nasa-roscosmos.jpg)
 
 [![Image](voyager2.png)](https://voyager.jpl.nasa.gov/news/details.php?article_id=112)
 
