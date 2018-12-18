@@ -5,6 +5,13 @@
 [![Image](ethiopian-run.png)](https://www.youtube.com/watch?v=Xn599R0ZBwg)
 [![Image](diavik.png)](https://www.bbc.com/news/world-us-canada-46562131)
 [![Image](france-taxes.png)](https://www.bbc.co.uk/news/business-46591576)
+
+
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/QpS6auP9zdY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 [![Image](slave-laws.png)](https://www.bbc.co.uk/news/world-europe-46588033)
 [![Image](jerusalem.png)](https://www.youtube.com/watch?v=h7UC1e_YOXgI)
 
