@@ -1,18 +1,6 @@
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/iZUKmNmpBkM" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/kRZ0lw-8mHc" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/HHvQAPRTTnE" frameborder="0" allowfullscreen></iframe>
-</div>
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/u3NsLW0FnRU" frameborder="0" allowfullscreen></iframe>
-</div>
-
+[![Image](eye-in-the-sky.png)](https://www.bbc.com/news/technology-46604085)
 
 [![Image](unusual-activity.png)](https://www.youtube.com/watch?v=vB1tFPxgK9I)
 [![Image](ethiopian-run.png)](https://www.youtube.com/watch?v=Xn599R0ZBwg)
