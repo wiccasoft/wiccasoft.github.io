@@ -1,3 +1,5 @@
+[![Image](decorations.png)](https://www.bbc.com/news/world-africa-46071479)
+
 
 [![Image](天网.png)](https://www.bbc.com/news/world-asia-china-46601175)
 
