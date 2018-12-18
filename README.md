@@ -3,7 +3,7 @@
 
 [![Image](天网.png)](https://www.bbc.com/news/world-asia-china-46601175)
 
-[![Image](eye-in-the-sky.png)](https://www.bbc.com/news/technology-46604085)
+[![Image](eye-in-the-sky.png)](https://www.youtube.com/embed/QpS6auP9zdY)
 
 [![Image](decorations.png)](https://www.bbc.com/news/world-africa-46071479)
 
@@ -11,19 +11,12 @@
 [![Image](diavik.png)](https://www.bbc.com/news/world-us-canada-46562131)
 [![Image](france-taxes.png)](https://www.bbc.co.uk/news/business-46591576)
 
-
-
 [![Image](slave-laws.png)](https://www.bbc.co.uk/news/world-europe-46588033)
 [![Image](jerusalem.png)](https://www.youtube.com/watch?v=h7UC1e_YOXgI)
 
 [![Image](saqqara.png)](https://www.bbc.com/news/world-middle-east-46580264)
 
 [![Image](independent-church.png)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
-
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/277272636" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 
 [![Image](juno.png)](https://www.youtube.com/watch?v=6dskJ6jQtMc)
@@ -46,10 +39,9 @@
 </div>
 
 
-
 [![Image](見る.jpeg)](https://www.amazon.co.jp/japanese-calligraphy/s?page=1&rh=i%3Aaps%2Ck%3Ajapanese%20calligraphy)
 
-[![Image](huawei-view20.png)](https://www.youtube.com/embed/QpS6auP9zdY)
+![Image](huawei-view20.png)
 
 ![Image](masako.png)
 
