@@ -64,8 +64,10 @@
 [![Image](golden-globes-constance-wu.png)](https://www.msn.com/en-gb/money/technology/the-giant-that-no-one-trusts-why-huawei’s-history-haunts-it/ar-BBQF9Fm?ocid=spartanntp)
 
 
+
 [![Image](fuel-protests.png)](https://www.bbc.com/news/world-europe-46233560)
 
+[![Image](delacroixs-liberty-leading-the-people.jpg)](https://www.youtube.com/watch?v=le6kKstVbtc)
 
 [![Image](yellow-vests.png)](https://www.bbc.com/news/av/world-europe-46405583/france-fuel-protests-who-are-the-people-in-the-yellow-vests)
 
