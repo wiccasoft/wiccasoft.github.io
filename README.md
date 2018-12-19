@@ -67,7 +67,8 @@
 
 [![Image](fuel-protests.png)](https://www.bbc.com/news/world-europe-46233560)
 
-[![Image](delacroixs-liberty-leading-the-people.jpg)](https://www.youtube.com/watch?v=le6kKstVbtc)
+[![Image](
+Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://www.youtube.com/watch?v=le6kKstVbtc)
 
 [![Image](yellow-vests.png)](https://www.bbc.com/news/av/world-europe-46405583/france-fuel-protests-who-are-the-people-in-the-yellow-vests)
 
