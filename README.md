@@ -11,6 +11,8 @@
 [![Image](diavik.png)](https://www.bbc.com/news/world-us-canada-46562131)
 [![Image](france-taxes.png)](https://www.bbc.co.uk/news/business-46591576)
 
+[![Image](softbank.png)](https://www.bbc.com/news/business-46548527)
+
 [![Image](slave-laws.png)](https://www.bbc.co.uk/news/world-europe-46588033)
 [![Image](jerusalem.png)](https://www.youtube.com/watch?v=h7UC1e_YOXgI)
 
