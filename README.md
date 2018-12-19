@@ -6,6 +6,8 @@
 
 [![Image](eye-in-the-sky.png)](https://www.youtube.com/embed/QpS6auP9zdY)
 
+![Image](headfirst/4-133_101.jpg)
+
 [![Image](decorations.png)](https://www.bbc.com/news/world-africa-46071479)
 
 [![Image](ethiopian-run.png)](https://www.youtube.com/watch?v=Xn599R0ZBwg)
