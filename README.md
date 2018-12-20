@@ -25,7 +25,7 @@
 [![Image](independent-church.png)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
 
 
-[![Image](juno.png)](https://www.youtube.com/watch?v=6dskJ6jQtMc)
+[![Image](juno.png)](https://www.youtube.com/watch?v=BaTd_F2yIrU)
 
 [![Image](Jessica-Chastain-Backstage-Magazine-Photoshoot-2017-01.jpg)](https://www.youtube.com/watch?v=XvDZLjaCJuw)
 
