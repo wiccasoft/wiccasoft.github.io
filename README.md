@@ -183,7 +183,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](first-loss-leftist-party-since-2002.png)
 
-![Image](beyond-the-sound-bites.png	)
+[![Image](beyond-the-sound-bites.png	)](https://www.youtube.com/embed/AeveY0aW1Qg)
 
 [![Image](bolsonaro.png)](https://bit.ly/2SoKZrT)
 
