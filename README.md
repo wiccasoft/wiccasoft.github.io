@@ -1,6 +1,8 @@
 
 [![Image](international-space-station-football-field-size.jpeg)](https://www.youtube.com/watch?v=mjrdywp5nyE)
 
+[![Image](southern-solstice.png)](https://www.youtube.com/embed/z_nIBCBeSuU)
+
 [![Image](greenland.png)](https://www.youtube.com/watch?v=XIxq4dl9c7c)
 
 [![Image](天网.png)](https://www.bbc.com/news/world-asia-china-46601175)
