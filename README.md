@@ -1,3 +1,6 @@
+[![Image](riri-founds-talented-kids.png)](https://www.bbc.com/news/world-africa-46470568)
+
+[![Image](yanxi-palace.png)](https://www.youtube.com/watch?v=QSJ4qxc9RcY)
 
 [![Image](international-space-station-football-field-size.jpeg)](https://www.youtube.com/watch?v=mjrdywp5nyE)
 
