@@ -4,7 +4,7 @@
 
 [![Image](international-space-station-football-field-size.jpeg)](https://www.youtube.com/watch?v=mjrdywp5nyE)
 
-![Image](solstice.png)]
+[![Image](solstice.png)](https://www.youtube.com/watch?v=c4OqDTBZZ9A)
 
 [![Image](greenland.png)](https://www.youtube.com/watch?v=XIxq4dl9c7c)
 
