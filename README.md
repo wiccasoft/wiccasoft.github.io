@@ -1,3 +1,5 @@
+[![Image](etna.png)](https://www.bbc.com/news/av/world-europe-46689502/mount-etna-aerial-footage-shows-damage-from-italy-quakes)
+
 [![Image](anak-krakatau.png)](https://www.bbc.com/news/world-asia-46667970)
 
 
