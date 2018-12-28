@@ -1,4 +1,4 @@
-[![Image](ny-skyline.png)](https://www.bbc.com/news/av/world-us-canada-46697959/new-york-skyline-turns-blue)
+[![Image](ny-skyline.png)](https://www.bbc.com/news/world-us-canada-46697994)
 
 [![Image](etna.png)](https://www.bbc.com/news/av/world-europe-46689502/mount-etna-aerial-footage-shows-damage-from-italy-quakes)
 
