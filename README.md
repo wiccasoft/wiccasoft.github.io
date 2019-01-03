@@ -1,4 +1,4 @@
-![Image](goldfrapp-strict-machine-paris-loaded-mute-cs.jpg)
+
 
 [![Image](dark-side-of-the-moon.png)](https://www.bbc.com/news/business-46743472)
 
