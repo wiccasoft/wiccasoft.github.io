@@ -5,7 +5,7 @@
 
 [![Image](dark-side-of-the-moon.png)](https://www.bbc.com/news/business-46743472)
 
-![Image](5e4ee2463ee1705ba2081f361322c79c.1000x1000x1.jpg)
+[![Image](5e4ee2463ee1705ba2081f361322c79c.1000x1000x1.jpg)](https://soundcloud.com/wiccasoft/goldfrap-strict-machine-victor-calderone-remix)
 
 [![Image](death-note.png)](https://www.bbc.com/news/business-46748972)
 
