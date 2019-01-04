@@ -1,6 +1,6 @@
 
 
-
+[![Image](prophecy.png)](https://www.bbc.com/news/world-africa-46747182)
 
 
 [![Image](dark-side-of-the-moon.png)](https://www.bbc.com/news/business-46743472)
