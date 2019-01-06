@@ -1,5 +1,8 @@
 [![Image](icy.png)](https://www.bbc.co.uk/news/world-asia-china-46769610)
 
+[![Image](6.1.2019(partial-solar-eclipse).png)](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/solar-eclipse-precautions-for-pregnant-women-partial-solar-eclipse-on-6-january-2019-precautions-for-pregnant-women/articleshow/67394411.cms)
+
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/309676008" frameborder="0" allowfullscreen></iframe>
 </div>
