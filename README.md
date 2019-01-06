@@ -1,6 +1,6 @@
 [![Image](icy.png)](https://www.bbc.co.uk/news/world-asia-china-46769610)
 
-[![Image](epiphany+solar-clipse.png)](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/solar-eclipse-precautions-for-pregnant-women-partial-solar-eclipse-on-6-january-2019-precautions-for-pregnant-women/articleshow/67394411.cms)
+[![Image](epiphany+solar-clipse.png)](https://www.timeanddate.com/eclipse/solar/2019-january-6)
 
 
 <div class="video-container">
