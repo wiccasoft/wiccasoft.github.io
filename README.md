@@ -1,3 +1,6 @@
+[![Image](gilet-jaunes-9x7.png)](https://www.theguardian.com/world/2019/jan/11/france-braced-for-ninth-weekend-of-gilets-jaunes-protests)
+
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/273128930" frameborder="0" allowfullscreen></iframe>
 </div>
