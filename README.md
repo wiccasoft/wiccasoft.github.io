@@ -8,6 +8,11 @@
 [![Image](us-shutdown.png)](https://www.theguardian.com/us-news/2019/jan/14/trump-says-he-will-devastate-turkey-economically-if-it-attacks-kurds?CMP=twt_a-world_b-gdnworld)
 
 
+<div class="video-container">
+  <iframe width="100%" src="https://player.vimeo.com/video/301364295" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [![Image](turkey-over-kurds.png)](https://www.bbc.com/news/world-europe-46860902)
 
 <div class="video-container">
