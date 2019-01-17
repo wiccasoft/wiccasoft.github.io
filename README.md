@@ -1,3 +1,6 @@
+[![Image](trademark.png)](https://www.bbc.com/news/amp/business-46886311)
+
+
 [![Image](headfirst/chess.png)](https://www.bbc.com/news/world-asia-china-46887545)
 
 <div class="video-container">
