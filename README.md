@@ -1,4 +1,4 @@
-[![Image](trademark.png)](https://www.bbc.com/news/science-environment-46908305)
+[![Image](skywatchers.png)](https://www.bbc.com/news/science-environment-46908305)
 
 
 [![Image](trademark.png)](https://www.bbc.com/news/amp/business-46886311)
