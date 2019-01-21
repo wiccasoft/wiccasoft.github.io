@@ -1,6 +1,6 @@
+[![Image](bsd/total-lunar-eclipse-21.1.19.png)](https://www.bbc.com/news/world-us-canada-46943592)
+
 [![Image](mexico-before-eclipse-2.1.png)](https://www.timeanddate.com/eclipse/lunar/2019-january-21)
-
-
 
 [![Image](macedonia-greece.png)](https://www.bbc.com/news/world-europe-469383715)
 
