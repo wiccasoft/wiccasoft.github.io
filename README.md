@@ -1,10 +1,6 @@
 [![Image](mexico-before-eclipse-2.1.png)](https://www.timeanddate.com/eclipse/lunar/2019-january-21)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/312471465" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 [![Image](macedonia-greece.png)](https://www.bbc.com/news/world-europe-469383715)
 
