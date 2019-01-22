@@ -5,7 +5,9 @@
 </div>
 
 
-[![Image](bsd/total-lunar-eclipse-moon-view.png)](https://www.bbc.com/news/world-us-canada-46943592)
+[![Image](bsd/total-lunar-eclipse-moon-view.png)](https://www.youtube.com/watch?v=dyKoq-ihao0)
+
+
 
 [![Image](mexico-before-eclipse-2.1.png)](https://www.timeanddate.com/eclipse/lunar/2019-january-21)
 
