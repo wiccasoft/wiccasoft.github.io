@@ -1,8 +1,7 @@
 
-
+[![Image](almanac/spain-tax.png)](https://www.theguardian.com/football/2019/jan/22/ronaldo-fine-tax-fraud-case-madrid)
 
 [![Image](bsd/total-lunar-eclipse-21.1.19.png)](https://www.bbc.com/news/world-us-canada-46943592)
-
 
 
 <div class="video-container">
