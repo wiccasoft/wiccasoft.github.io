@@ -1,3 +1,5 @@
+[![Image](almanac/venezuela-crisis.png)](https://www.bbc.com/news/world-latin-america-36319877)
+
 [![Image](mob/10yearchallenge.png)](https://www.bbc.co.uk/news/av/world-46977132/bbc-news-takes-on-the-10yearchallenge)
 
 [![Image](bsd/brain.png)](http://giselebundchen.com/)
