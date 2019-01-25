@@ -124,12 +124,6 @@
 [![Image](2019.png)](https://www.bbc.com/news/av/world-46722127/2019-skies-light-up-as-world-welcomes-new-year)
 
 
-
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/283181724" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 [![Image](new-horizons.png)](https://www.bbc.com/news/science-environment-46729898)
 
 <div class="video-container">
