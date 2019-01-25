@@ -1,3 +1,5 @@
+[![Image](almanac/goat.png)](https://www.bbc.com/news/world-us-canada-46985759)
+
 [![Image](almanac/greece-macedonia.png)](https://www.bbc.com/news/world-europe-46971182)
 
 [![Image](almanac/venezuela-crisis.png)](https://www.bbc.com/news/world-latin-america-36319877)
