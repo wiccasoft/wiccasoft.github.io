@@ -1,4 +1,4 @@
-[![Image](almanac/goat.png)](https://www.bbc.com/news/world-us-canada-46985759)
+[![Image](almanac/goat.png)](https://en.wikipedia.org/wiki/List_of_most_valuable_crops_and_livestock_products)
 
 [![Image](youtube/what-now.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w&autoplay=1)
 
