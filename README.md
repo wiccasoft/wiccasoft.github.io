@@ -1,8 +1,8 @@
+[![Image](almanac/supreme.jpg)](https://www.etsy.com/market/supreme_poster)
+
 [![Image](almanac/goat.png)](https://en.wikipedia.org/wiki/List_of_most_valuable_crops_and_livestock_products)
 
-
 [![Image](almanac/venezuela-currency.png)](https://www.bbc.co.uk/news/world-latin-america-46999668)
-
 
 [![Image](youtube/what-now.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w&autoplay=1)
 
