@@ -605,11 +605,11 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 </div>
 
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/NGUACaTZSlg" frameborder="0" allowfullscreen></iframe>
 </div>-->
-
+-->
 <!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/FwzmQf44hMo" frameborder="0" allowfullscreen></iframe>
@@ -677,22 +677,24 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](indonesia-tsunami.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/wIoxxkNj6AM" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](wicca.png)](https://www.online-xxx-show.com/anasteysha777/)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/aDm4L7gjYNs" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 ![Image](kim-kardashian.png)
 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/5SM-nA5l2HU" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 [![Image](open-source.png)](https://datacatalog.worldbank.org/)
 
 <div class="video-container">
@@ -849,7 +851,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 <div class="video-container">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/298637417&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/s8SiJDBcsVk" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -862,18 +864,20 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
   <iframe width="100%" src="https://www.youtube.com/embed/0fllyJTBsRU" frameborder="0" allowfullscreen></iframe>
 </div>
                                                                                     
+-->
 
 ![Image](pinterest.png)
 
 
 [![Image](isolated.png)](http://online-xxx-show.com)
 
-
+<!--
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/FLaR_MrVNPM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>   
 
+-->
 
 For those who think the world is flat, it is just side-ways.
 
