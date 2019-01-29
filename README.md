@@ -39,11 +39,11 @@
 
 ### moonshot
 [![Image](bsd/total-lunar-eclipse-moon-view.png)](https://www.bbc.com/news/world-us-canada-46943592)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/dyKoq-ihao0" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 [![Image](mexico-before-eclipse-2.1.png)](https://www.timeanddate.com/eclipse/lunar/2019-january-21)
 
@@ -888,21 +888,22 @@ For those who think the world is flat, it is just side-ways.
   <iframe width="100%" src="https://www.youtube.com/embed/JmC7XO1pYy4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>   
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/yBCX2oVpDIg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>   
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/RA7VCaeYlB8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
+-->
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/VOtQ_q9IqsA?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+-->
 
 
 [![Image](there-is-no-place-like.jpg)](https://www.youtube.com/watch?v=Rh47oTsRf-w)
