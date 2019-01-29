@@ -1,4 +1,12 @@
-[![Image](almanac/supreme.jpg)](https://medium.com/the-physics-arxiv-blog/how-black-hole-atoms-could-solve-one-of-astronomys-biggest-problems-860f24532307)
+
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/v=yWO-cvGETRQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+[![Image](almanac/supreme.jpg)](https://resonance.is/black-holes-described-gravitational-atom/)
+
+
 
 [![Image](almanac/goat.png)](https://en.wikipedia.org/wiki/List_of_most_valuable_crops_and_livestock_products)
 
