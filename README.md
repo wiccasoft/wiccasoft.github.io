@@ -11,8 +11,6 @@
 
 [![Image](almanac/supreme.jpg)](https://resonance.is/black-holes-described-gravitational-atom/)
 
-
-
 [![Image](almanac/goat.png)](https://en.wikipedia.org/wiki/List_of_most_valuable_crops_and_livestock_products)
 
 [![Image](almanac/venezuela-currency.png)](https://www.bbc.co.uk/news/world-latin-america-46999668)
