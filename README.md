@@ -4,7 +4,6 @@
   <iframe width="100%" src="https://player.vimeo.com/video/306217643" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](almanac/supreme.jpg)](https://resonance.is/black-holes-described-gravitational-atom/)
 
 [![Image](almanac/goat.png)](https://en.wikipedia.org/wiki/List_of_most_valuable_crops_and_livestock_products)
 
@@ -31,6 +30,8 @@
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/268559796" frameborder="0" allowfullscreen></iframe>
 </div>
+
+[![Image](almanac/supreme.jpg)](https://resonance.is/black-holes-described-gravitational-atom/)
 
 ### moonshot
 [![Image](bsd/total-lunar-eclipse-moon-view.png)](https://www.bbc.com/news/world-us-canada-46943592)
