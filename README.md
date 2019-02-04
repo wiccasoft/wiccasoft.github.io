@@ -8,8 +8,6 @@
 
 [![Image](almanac/goat.png)](https://en.wikipedia.org/wiki/List_of_most_valuable_crops_and_livestock_products)
 
-[![Image](almanac/venezuela-currency.png)](https://www.bbc.co.uk/news/world-latin-america-46999668)
-
 [![Image](youtube/what-now.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w&autoplay=1)
 
 [![Image](almanac/greece-macedonia.png)](https://www.bbc.com/news/world-europe-46971182)
