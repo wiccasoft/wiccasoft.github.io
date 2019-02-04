@@ -1,4 +1,4 @@
-[![Image](almanac/eco-vandalism.jpg)](https://www.bbc.com/news/blogs-news-from-elsewhere-47054789)
+[![Image](almanac/eco-vandalism.png)](https://www.bbc.com/news/blogs-news-from-elsewhere-47054789)
 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/306217643" frameborder="0" allowfullscreen></iframe>
