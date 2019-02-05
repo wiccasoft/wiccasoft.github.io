@@ -1,3 +1,5 @@
+[![Image](almanac/skyler-beneke-rock-conversation.jpg)](http://www.oecd.org/tax/treaties/)
+
 [![Image](almanac/eco-vandalism.png)](https://www.bbc.com/news/blogs-news-from-elsewhere-47054789)
 
 <div class="video-container">
