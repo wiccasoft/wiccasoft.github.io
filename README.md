@@ -1,4 +1,4 @@
-[![Image](almanac/2019-chinese-new-year-vector.jpg)](https://www.youtube.com/watch?v=PnzC00mI32E)
+[![Image](almanac/农历新年.jpg)](https://www.youtube.com/watch?v=PnzC00mI32E)
 
 [![Image](almanac/skyler-beneke-rock-conversation.jpg)](http://www.oecd.org/tax/treaties/)
 
