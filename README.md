@@ -920,7 +920,7 @@ For those who think the world is flat, it is just side-ways.
 ![Image](fur-ball-at-the-skirball.jpg)
 
 
-### witchcraft
+
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/i1u7by_Ndn0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -945,32 +945,12 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 
 
 
-### Support 
+### witchcraft
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/267559525" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/bOjSuSVsmrQ?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/jK6BesOrfws?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-### Luck
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/UDKCqxPq9A0?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### Contact
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/yuDkDe9lwtE?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 <style>
