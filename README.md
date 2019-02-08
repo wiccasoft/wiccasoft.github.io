@@ -1,5 +1,7 @@
 [![Image](almanac/arm-race.png)](https://www.theguardian.com/commentisfree/2019/feb/06/trump-putin-arms-race-british-secutiry-europe-nuclear-weapons)
 
+[![Image](almanac/basic-income-in-finland.png)](https://www.bbc.com/news/world-europe-47169549)
+
 [![Image](almanac/Nordstrem=Route-Overview.jpg)](https://www.bbc.co.uk/news/world-europe-47170420)
 
 <div class="video-container">
