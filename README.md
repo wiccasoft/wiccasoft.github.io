@@ -1,4 +1,4 @@
-[![Image](almanac/arm-race.jpg)](https://www.theguardian.com/commentisfree/2019/feb/06/trump-putin-arms-race-british-secutiry-europe-nuclear-weapons)
+[![Image](almanac/arm-race.png)](https://www.theguardian.com/commentisfree/2019/feb/06/trump-putin-arms-race-british-secutiry-europe-nuclear-weapons)
 
 [![Image](almanac/Nordstrem=Route-Overview.jpg)](https://www.bbc.co.uk/news/world-europe-47170420)
 
