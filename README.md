@@ -1,4 +1,4 @@
-[![Image](almanac/gas-wars2.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
+[![Image](almanac/gas-wars-2.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
 
 [![Image](almanac/arm-race.png)](https://www.theguardian.com/commentisfree/2019/feb/06/trump-putin-arms-race-british-secutiry-europe-nuclear-weapons)
 
