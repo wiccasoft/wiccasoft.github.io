@@ -2,6 +2,8 @@
 
 [![Image](almanac/arm-race.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
 
+[![Image](almanac/puppy-transporter.png)](https://www.bbc.co.uk/news/stories-47090894)
+
 [![Image](almanac/basic-income-in-finland.png)](https://www.bbc.com/news/world-europe-47169549)
 
 [![Image](almanac/Nordstrem=Route-Overview.jpg)](https://www.bbc.co.uk/news/world-europe-47170420)
