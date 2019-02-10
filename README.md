@@ -8,6 +8,9 @@
 
 [![Image](almanac/Nordstrem=Route-Overview.jpg)](https://www.bbc.co.uk/news/world-europe-47170420)
 
+[![Image](almanac/77.мвд.рф.png)](https://77.xn--b1aew.xn--p1ai/)
+
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/268625100" frameborder="0" allowfullscreen></iframe>
 </div>
