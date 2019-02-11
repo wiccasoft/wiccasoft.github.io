@@ -1,4 +1,4 @@
-
+[![Image](almanac/unplug-from-internet.png)](https://www.bbc.com/news/technology-47198426)
 
 [![Image](almanac/arm-race.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
 
