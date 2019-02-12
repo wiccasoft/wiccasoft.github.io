@@ -1,4 +1,4 @@
-[![Image](almanac/unplug-from-internet.png)](https://www.youtube.com/watch?v=b6cbW5nlNSI)
+[![Image](almanac/unplug-from-internet.png)](https://www.bbc.com/russian/news-47199496)
 
 [![Image](almanac/arm-race.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
 
