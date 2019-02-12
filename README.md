@@ -1,4 +1,4 @@
-[![Image](almanac/unplug-from-internet.png)](https://www.bbc.com/russian/news-47199496)
+[![Image](almanac/unplug-from-internet.png)](https://www.youtube.com/watch?v=b6cbW5nlNSI)
 
 [![Image](almanac/arm-race.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
 
@@ -10,7 +10,7 @@
 
 [![Image](almanac/Nordstrem=Route-Overview.jpg)](https://www.bbc.co.uk/news/world-europe-47170420)
 
-[![Image](almanac/77.мвд.рф.png)](https://77.xn--b1aew.xn--p1ai/)
+[![Image](almanac/77.мвд.рф.png)](https://www.bbc.com/russian/news-47199496)
 
 
 <div class="video-container">
