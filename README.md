@@ -1,5 +1,10 @@
 [![Image](almanac/unplug-from-internet.png)](https://www.youtube.com/watch?v=b6cbW5nlNSI)
 
+<div class="video-container">
+  <iframe width="100%" src="https://player.vimeo.com/video/317505694" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [![Image](almanac/arm-race.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
 
 [![Image](almanac/house-of-fates.png)](http://time.com/5526128/china-reddit-tencent-censorship/)
