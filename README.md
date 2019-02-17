@@ -1,4 +1,4 @@
-[![Image](almanac/windows-appstore-before-packing.png)](https://www.youtube.com/watch?v=mWvdsMwnGmM)
+[![Image](appstores/windows-appstore-before-packing.png)](https://www.youtube.com/watch?v=mWvdsMwnGmM)
 
 
 [![Image](almanac/unplug-from-internet.png)](https://www.youtube.com/watch?v=b6cbW5nlNSI)
