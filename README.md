@@ -1,4 +1,4 @@
-[![Image](almanac/where-bias-lies.png)](https://www.youtube.com/watch?v=nUAx0k-WIKc)
+[![Image](almanac/where-bias-lies.png)](https://www.youtube.com/watch?v=5ORF8eXZn20)
 
 [![Image](web5.0/mateX.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
 
