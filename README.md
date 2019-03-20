@@ -1,3 +1,5 @@
+[![Image](almanac/autec.png)](https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center#/media/File:AUTEC_from_the_air.jpg)
+
 <div class="video-container">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/wicca&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
