@@ -1,4 +1,4 @@
-[![Image](almanac/march23-vernal-equinox.png)](https://en.wikipedia.org/wiki/Equinox)
+[![Image](almanac/march23-vernal-equinox.png)](https://www.timeanddate.com/calendar/spring-equinox.html)
 
 [![Image](almanac/autec.png)](https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center#/media/File:AUTEC_from_the_air.jpg)
 
