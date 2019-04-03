@@ -1,3 +1,5 @@
+[![Image](almanac/imamaoglu.png)](https://www.theguardian.com/world/2019/apr/02/ekrem-imamoglu-unifying-political-force-to-take-on-erdogan-istanbul)
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/302431286" frameborder="0" allowfullscreen></iframe>
 </div>
