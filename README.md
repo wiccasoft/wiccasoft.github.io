@@ -1,3 +1,6 @@
+[![Image](almanac/erdogan-grip.png)](https://www.theguardian.com/world/2019/apr/01/erdogan-party-loses-ankara-in-turkish-local-elections-blow)
+
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/301396956" frameborder="0" allowfullscreen></iframe>
 </div>
