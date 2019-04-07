@@ -1,3 +1,6 @@
+
+[![Image](almanac/Global_Seed_Vault.jpg)](https://www.seedvault.no/)
+
 [![Image](almanac/erdogan-grip.png)](https://www.theguardian.com/world/2019/apr/01/erdogan-party-loses-ankara-in-turkish-local-elections-blow)
 
 <div class="video-container">
