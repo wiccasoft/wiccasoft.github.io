@@ -620,9 +620,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](FTSE100.png)](https://www.londonstockexchange.com)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/f3-24VWnPZM" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 
 ![Image](bloodhound.png)
@@ -701,9 +699,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 <!--![Image](headfirst/bullied.png)-->
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/KtVXAugaSm0" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 [![Image](Soyuz-MS-10.png)](headfirst/bullied.png)
 
@@ -711,18 +707,12 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 <!--!![Image](headfirst/cocky.jpg)-->
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/VDZHXX3tA4c" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 ![Image](windswept.png)
 
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Ww5jScH4fXY" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](sphinx.png)](https://www.online-xxx-show.com/secretgoddess0/)
 
@@ -735,9 +725,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](eugenie.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/CZMRgqhvs3o" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 [![Image](catalonia.png)](https://es.chaturbate.com/krysalyx/)
 
@@ -759,23 +747,13 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 </div>
 -->
 [![Image](wicca.png)](https://www.online-xxx-show.com/anasteysha777/)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/aDm4L7gjYNs" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 ![Image](kim-kardashian.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/5SM-nA5l2HU" frameborder="0" allowfullscreen></iframe>
-</div>
--->
+
 [![Image](open-source.png)](https://datacatalog.worldbank.org/)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/qmV5MW_XAtg" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/273290624" frameborder="0" allowfullscreen></iframe>
