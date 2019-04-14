@@ -1,3 +1,5 @@
+[![Image](almanac/wicca-lab.png)
+
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/277862270" frameborder="0" allowfullscreen></iframe>
 </div>
