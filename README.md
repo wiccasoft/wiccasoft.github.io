@@ -1,3 +1,8 @@
+
+
+[![Image](almanac/seed-of-destruction.png)](https://www.theguardian.com/world/2019/apr/16/notre-dame-came-15-to-30-minutes-close-to-complete-destruction)
+
+
 ### Releases
 [![Image](almanac/wicca-lab.png)](https://www.youtube.com/watch?v=8OUqtp8sli8)
 
