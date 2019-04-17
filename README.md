@@ -1,4 +1,5 @@
 
+[![Image](almanac/worldbank.png)](https://apnews.com/b5225683fa3f4fd8b9c74b5c849be68f)
 
 [![Image](almanac/seed-of-destruction.png)](https://www.theguardian.com/world/2019/apr/16/notre-dame-came-15-to-30-minutes-close-to-complete-destruction)
 
