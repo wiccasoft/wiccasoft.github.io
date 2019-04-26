@@ -1,6 +1,7 @@
 
 [![Image](almanac/space-x-dragon.png)](https://www.bbc.co.uk/news/world-us-canada-48001382)
 
+
 [![Image](almanac/worldbank.png)](https://apnews.com/b5225683fa3f4fd8b9c74b5c849be68f)
 
 [![Image](almanac/seed-of-destruction.png)](https://www.theguardian.com/world/2019/apr/16/notre-dame-came-15-to-30-minutes-close-to-complete-destruction)
@@ -997,7 +998,7 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 
 ![Screenshot](iron_sky(1).jpg)
 
-
+[![Image](headfirst/eKkbQS.jpg)](https://www.youtube.com/watch?v=_-y6SX9ZmoY)
 
 ### witchcraft
 <div class="video-container">
