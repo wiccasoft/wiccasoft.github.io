@@ -1,3 +1,4 @@
+[![Image](almanac/press-freddom-map.png)](https://www.youtube.com/watch?v=yZwcgVF467g)
 
 [![Image](almanac/space-x-dragon.png)](https://www.bbc.co.uk/news/world-us-canada-48001382)
 
