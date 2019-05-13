@@ -1,4 +1,4 @@
-[![Image](MKSEARCH/d-Дракон.jpg)]()
+
 
 [![Image](almanac/press-freedom-map.png)](https://www.youtube.com/watch?v=yZwcgVF467g)
 
