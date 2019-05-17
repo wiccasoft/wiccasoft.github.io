@@ -1,8 +1,7 @@
 ### wicca
 <div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/321985927" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://player.vimeo.com/video/321985927" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 [![Image](almanac/how-to-train-dragons.png)](https://awoiaf.westeros.org/index.php/Visenya_Targaryen)
 [![Image](almanac/press-freedom-map.png)](https://www.youtube.com/watch?v=yZwcgVF467g)
