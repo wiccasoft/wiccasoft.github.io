@@ -1,5 +1,5 @@
 
-[![Image](almanac/google-v-huawei.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
+[![Image](almanac/grindr.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
 
 ### wicca
 <div class="video-container">
