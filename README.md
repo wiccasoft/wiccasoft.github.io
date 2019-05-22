@@ -2,7 +2,7 @@
   <iframe width="100%" src="https://player.vimeo.com/video/337780001" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](almanac/grindr.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
+[![Image](appstores/grindr.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
 
 ### wicca
 <div class="video-container">
