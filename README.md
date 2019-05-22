@@ -1,3 +1,6 @@
+<div class="video-container">
+  <iframe width="100%" src="https://player.vimeo.com/video/337780001" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [![Image](almanac/grindr.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
 
@@ -14,6 +17,7 @@
 
 
 [![Image](almanac/press-freedom-map.png)](https://www.youtube.com/watch?v=yZwcgVF467g)
+
 
 [![Image](almanac/space-x-dragon.png)](https://www.youtube.com/watch?v=DPfHHls50-w)
 
