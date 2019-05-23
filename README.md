@@ -1,3 +1,5 @@
+[![Image](almanac/google.png)](https://www.theguardian.com/commentisfree/picture/2019/may/20/brian-adcock-on-trumps-trade-dispute-with-china-cartoon)
+
 [![Image](almanac/trade-wars.png)](https://www.youtube.com/watch?v=qtwpH1m7Gn8)
 
 <div class="video-container">
