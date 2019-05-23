@@ -651,10 +651,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](zero-carbon-economy.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/pco91kroVgQ" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 [![Image](FTSE100.png)](https://www.londonstockexchange.com)
 
@@ -665,27 +662,17 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](death-penalty.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/mhPaF9H56YM" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 [![Image](1920x1080.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
 
 ![Image](sweet-things.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/fZXtCHoRb50" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 ![Image](jamal-case.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/T6QKqFPRZSA" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 
 ![Image](turk-saudi-sanc.png)
@@ -693,42 +680,14 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](week-in-pictures.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/--XTabj5Odw" frameborder="0" allowfullscreen></iframe>
-</div>
-
 ![Image](fergie-time-in-windsdor.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/K4D1-bI3p8Y" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 ![Image](royal-society-of-biology.png)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/gHBhKbF2xM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/284532679" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/NGUACaTZSlg" frameborder="0" allowfullscreen></iframe>
-</div>-->
--->
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/FwzmQf44hMo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-[![Image](MAGA.png)](https://www.online-xxx-show.com/layladolce/)
+[![Image](MAGA.png)]()
 <!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/bB192WZHKRw" frameborder="0" allowfullscreen></iframe>
@@ -755,27 +714,14 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 [![Image](sphinx.png)](https://www.online-xxx-show.com/secretgoddess0/)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/zTDDLlEbLi4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-
 ![Image](eugenie.png)
-
 
 
 [![Image](catalonia.png)](https://es.chaturbate.com/krysalyx/)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/4ku2g8tLGr4" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ![Image](netherlands.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/CD4me31XAMo" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ![Image](indonesia-tsunami.png)
 
@@ -805,22 +751,15 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 </div>-->
 ![Image](google-v-china.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/-XBxUFrGsgI" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 
 [![Image](five-in-a-row.png)](https://datacatalog.worldbank.org/)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/RO5tmBAn9PM" frameborder="0" allowfullscreen></iframe>
-</div>
 
 ![Image](newspapers.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/x5X8IXcH2rw" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 ![Image](design.png)
 
@@ -847,9 +786,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](killemsoftly.png)](https://www.joyent.com/node-js/production/design#EventEmitter)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/GAcqX_vUS8A" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 [![Image](formula1.png)](https://stackabuse.com/how-to-exit-in-node-js/)
 
@@ -861,9 +798,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](rainbow.png)](https://github.com/nodejs/node/pull/20909)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/-0A9CzPNVhs" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 ![Image](brexit.png)
 
@@ -958,13 +893,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](isolated.png)](http://online-xxx-show.com)
 
-<!--
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/FLaR_MrVNPM?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>   
-
--->
 
 For those who think the world is flat, it is just side-ways.
 
@@ -975,22 +904,6 @@ For those who think the world is flat, it is just side-ways.
   <iframe width="100%" src="https://www.youtube.com/embed/JmC7XO1pYy4?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>   
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/yBCX2oVpDIg?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>   
--->
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/RA7VCaeYlB8?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
--->
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/VOtQ_q9IqsA?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
--->
 
 
 [![Image](there-is-no-place-like.jpg)](https://www.youtube.com/watch?v=Rh47oTsRf-w)
@@ -1001,11 +914,6 @@ For those who think the world is flat, it is just side-ways.
 
 ![Image](fur-ball-at-the-skirball.jpg)
 
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/i1u7by_Ndn0?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 lightweight and easy-to-use syntax for styling your writing. It includes conventions for
