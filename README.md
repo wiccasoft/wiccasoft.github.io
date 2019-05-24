@@ -1,7 +1,6 @@
 [![Image](almanac/google.png)](https://www.theguardian.com/commentisfree/picture/2019/may/20/brian-adcock-on-trumps-trade-dispute-with-china-cartoon)
 
 
-
 [![Image](almanac/trade-wars.png)](https://www.youtube.com/watch?v=qtwpH1m7Gn8)
 
 ### progressive web apps
@@ -730,10 +729,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](indonesia-tsunami.png)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/wIoxxkNj6AM" frameborder="0" allowfullscreen></iframe>
-</div>
 -->
 [![Image](wicca.png)](https://www.online-xxx-show.com/anasteysha777/)
 
@@ -750,10 +745,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](mickey-mouse.png)
 
-<!-- ![Image](天宫-2.png) -->
-<!--<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/3X0HbfVh4T4" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 ![Image](google-v-china.png)
 
 
