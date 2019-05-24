@@ -1,9 +1,12 @@
 [![Image](almanac/google.png)](https://www.theguardian.com/commentisfree/picture/2019/may/20/brian-adcock-on-trumps-trade-dispute-with-china-cartoon)
 
+
+
 [![Image](almanac/trade-wars.png)](https://www.youtube.com/watch?v=qtwpH1m7Gn8)
 
+### progressive web apps
 <div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/276670298" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://player.vimeo.com/video/275505038" frameborder="0" allowfullscreen></iframe>
 </div>
 
 [![Image](appstores/grindr.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
@@ -12,6 +15,8 @@
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/321985927" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
 
 [![Image](almanac/how-to-train-dragons.png)](https://awoiaf.westeros.org/index.php/Visenya_Targaryen)
 
