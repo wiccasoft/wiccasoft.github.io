@@ -37,10 +37,6 @@
 <!--https://apnews.com/b5225683fa3f4fd8b9c74b5c849be68f-->
 [![Image](almanac/seed-of-destruction.png)](https://www.theguardian.com/world/2019/apr/16/notre-dame-came-15-to-30-minutes-close-to-complete-destruction)
 
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/317505694" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 ### Releases
 [![Image](almanac/wicca-lab.png)](https://www.youtube.com/watch?v=8OUqtp8sli8)
@@ -91,6 +87,8 @@
 
 
 [![Image](almanac/unplug-from-internet.png)](https://www.youtube.com/watch?v=b6cbW5nlNSI)
+
+### web 5.0
 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/317505694" frameborder="0" allowfullscreen></iframe>
