@@ -112,7 +112,7 @@
 
 [![Image](almanac/77.мвд.рф.png)](https://www.bbc.com/russian/news-47199496)
 
-### smart data
+### smartdata
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/268625100" frameborder="0" allowfullscreen></iframe>
 </div>
