@@ -757,7 +757,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 ![Image](newspapers.png)
 
 
-
 ![Image](design.png)
 
 ![Image](mangkhut.png)
@@ -768,32 +767,21 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](replacing-spaces-with-underscores-in-javascript.png)](https://stackoverflow.com/a/441035)
 
+[![Image](leak.png)](https://www.youtube.com/embed/k-Rg51azVlg)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/k-Rg51azVlg" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Image](florence.jpeg)](https://www.youtube.com/embed/7shzR4HPbRw")
 
-![Image](leak.png)
 
-![Image](florence.jpeg)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/7shzR4HPbRw" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](killemsoftly.png)](https://www.joyent.com/node-js/production/design#EventEmitter)
-
 
 
 [![Image](formula1.png)](https://stackabuse.com/how-to-exit-in-node-js/)
 
 [![Image](fireball.png)](https://github.com/nodejs/node/issues/18646)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/TPPPmCbDEdA" frameborder="0" allowfullscreen></iframe>
-</div>
 
-[![Image](rainbow.png)](https://github.com/nodejs/node/pull/20909)
+[![Image](rainbow.png)](https://www.youtube.com/embed/TPPPmCbDEdA)
 
 
 
@@ -813,52 +801,27 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](voyager.png)
 
-![Image](stone-sky.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/tFVi2rTKVRA" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](microsoft.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/mWvdsMwnGmM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](hybridshell.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/2RIlPuAPqZw" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](n3160.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/yVpbFMhOAwE" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](skynet.png)
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/mviTS_cIWXg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/EvXROXiIpvQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
-![Image](watchout.png)
+[![Image](stone-sky.png)](https://www.youtube.com/embed/tFVi2rTKVRA)
 
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/xf78e8zlns8" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Image](microsoft.png)](https://www.youtube.com/embed/mWvdsMwnGmM)
+
+
+[![Image](hybridshell.png)](https://www.youtube.com/embed/2RIlPuAPqZw)
+
+
+[![Image](n3160.png)](https://www.youtube.com/embed/yVpbFMhOAwE)
+
+
+[![Image](skynet.png)](https://www.youtube.com/embed/mviTS_cIWXg)
+
+
+[[Image](watchout.png)](https://www.youtube.com/embed/xf78e8zlns8)
+
 
 ![Image](openstack.png)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/JHydqx6X4zY" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 ![Image](ギリシャ.png)
 ![Image](arbeit-mach-frei.png)
@@ -894,12 +857,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 For those who think the world is flat, it is just side-ways.
 
-[![Image](be-best.png)](http://online-xxx-show.com)
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/JmC7XO1pYy4?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>   
+[![Image](be-best.png)](https://www.youtube.com/embed/JmC7XO1pYy4)
 
 
 
