@@ -816,6 +816,8 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 [![Image](n3160.png)](https://www.youtube.com/embed/yVpbFMhOAwE)
 
 
+
+
 [![Image](skynet.png)](https://www.youtube.com/embed/mviTS_cIWXg)
 
 ### beyond
@@ -867,6 +869,10 @@ For those who think the world is flat, it is just side-ways.
 [![Image](be-best.png)](https://www.youtube.com/embed/JmC7XO1pYy4)
 
 
+### 铬
+<div class="video-container">
+  <iframe width="100%" src="https://player.vimeo.com/video/336047527" frameborder="0" allowfullscreen></iframe>
+</div>
 
 [![Image](there-is-no-place-like.jpg)](https://www.youtube.com/watch?v=Rh47oTsRf-w)
 
