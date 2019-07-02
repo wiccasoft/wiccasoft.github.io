@@ -1,4 +1,4 @@
-[![Image](stream/screen186.png)](https://www.timeanddate.com/eclipse/total-solar-eclipse.html)
+[![Image](stream/screen186.png)](https://www.timeanddate.com/eclipse/globe/2019-july-2)
 
 [![Image](almanac/google.png)](https://www.theguardian.com/commentisfree/picture/2019/may/20/brian-adcock-on-trumps-trade-dispute-with-china-cartoon)
 
