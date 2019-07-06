@@ -266,11 +266,7 @@
 
 [![Image](new-horizons.png)](https://www.bbc.com/news/science-environment-46729898)
 
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/308978947" frameborder="0" allowfullscreen></iframe>
-</div>
 
-## ai 
 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/308482722" frameborder="0" allowfullscreen></iframe>
