@@ -1,3 +1,4 @@
+[![Image](almanac/screen260.png)](https://www.theguardian.com/world/2019/jul/17/google-peter-thiel-yellow-peril-racism-tech)
 
 [![Image](stream/screen186.png)](https://www.timeanddate.com/eclipse/globe/2019-july-2)
 
