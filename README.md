@@ -1,3 +1,8 @@
+[![Image](almanac/screen279.png)](https://www.theguardian.com/science/2019/jul/20/apollo-11-moon-landing-trump-buzz-aldrin)
+
+
+[![Image](almanac/screen277.png)](https://www.theguardian.com/science/2019/jul/19/moon-landing-in-1969-was-one-small-step-for-scrapbooking-kids)
+
 [![Image](almanac/screen260.png)](https://www.theguardian.com/world/2019/jul/17/google-peter-thiel-yellow-peril-racism-tech)
 
 [![Image](stream/screen186.png)](https://www.timeanddate.com/eclipse/globe/2019-july-2)
