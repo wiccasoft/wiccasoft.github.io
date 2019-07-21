@@ -9,7 +9,7 @@
 
 [![Image](stream/screen186.png)](https://www.timeanddate.com/eclipse/globe/2019-july-2)
 
-### шифровать
+### crypt 
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/278362221" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -104,7 +104,7 @@
 [![Image](web5.0/mateX.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
 
 
-### 下坡
+### chromium(下坡)
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/308978947" frameborder="0" allowfullscreen></iframe>
 </div>
