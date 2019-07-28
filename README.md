@@ -1,4 +1,6 @@
-[![Image](almanac/screen328.png)](https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/)
+[![Image](almanac/screen328.png)](https://www.youtube.com/watch?v=LKXI93gKomA)
+
+<!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
 
 [![Image](web5.0/screen304.png)](https://www.youtube.com/watch?v=8KpKc3C9V3w)
 
