@@ -1,3 +1,6 @@
+[![Image](web5.0/screen522.png)](https://www.vogue.com/article/gisele-bundchen-vogue-cover-july-2018-issue?verso=true)
+
+
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
 
 [![Image](almanac/screen328.png)](https://www.youtube.com/watch?v=LKXI93gKomA)
