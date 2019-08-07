@@ -111,7 +111,7 @@
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/wicca&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
 
-[![Image](almanac/where-bias-lies.png)](https://www.youtube.com/watch?v=5ORF8eXZn20)
+[![Image](almanac/where-bias-lies.png)](https://www.youtube.com/watch?v=wLEGfnxMPfc)
 
 [![Image](web5.0/mateX.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
 
