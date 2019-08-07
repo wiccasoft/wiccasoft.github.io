@@ -34,7 +34,7 @@
   <iframe width="100%" src="https://player.vimeo.com/video/306217643" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[![Image](almanac/trade-wars.png)](https://www.youtube.com/watch?v=qtwpH1m7Gn8)
+[![Image](almanac/trade-wars.png)](https://www.youtube.com/watch?v=pHUEYIE_MZA)
 
 ### progressive web apps
 <div class="video-container">
