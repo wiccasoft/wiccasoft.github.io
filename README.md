@@ -1,23 +1,5 @@
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/DpIYNfmWaQ4" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/8FxwA-W-dLM" frameborder="0" allowfullscreen></iframe>
-</div>
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/LRnlVSXYlwk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/N-kKPa5g_Ec" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Fyxkhi_MH9U" frameborder="0" allowfullscreen></iframe>
-</div>
 
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=FqDSaTKtQYA)
 
