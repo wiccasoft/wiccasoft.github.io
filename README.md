@@ -1,13 +1,7 @@
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/283883501" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=6Tf5tuPb9bU)
 
-<div class="video-container">
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/planet-rock-99&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
 
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
 
