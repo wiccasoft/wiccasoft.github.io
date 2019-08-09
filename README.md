@@ -4,40 +4,6 @@
 </div>
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/lwAsG5Qf7nQ" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/SKt5karOFmk" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/ODEdpyr8qw4" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/UkCpiYFRXuM" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/2VI4wXk_Hts" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/DS3TxLzWOkg" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/yiABakdjVeY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/mpzjesaPmgU" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/tNYF-g1u5_Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
