@@ -1,12 +1,9 @@
 
 
 <div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/xCZRaXdWyFk" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" src="https://www.youtube.com/embed/my5Jxc7s04Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/kJAVgY8DMk" frameborder="0" allowfullscreen></iframe>
-</div>
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/r6QJE4ekHRw" frameborder="0" allowfullscreen></iframe>
