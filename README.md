@@ -689,10 +689,11 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](botnet.png)](https://www.bbc.com/news/technology-45863948)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/tjqxq1HTkB0" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
 
 ![Image](zero-carbon-economy.png)
 
@@ -770,7 +771,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 ![Image](indonesia-tsunami.png)
 
--->
 [![Image](wicca.png)](https://www.online-xxx-show.com/anasteysha777/)
 
 ![Image](kim-kardashian.png)
@@ -780,9 +780,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 ### voyager
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/273290624" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 ![Image](mickey-mouse.png)
 
@@ -791,9 +792,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 ### cloudless
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/295210886" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](five-in-a-row.png)](https://datacatalog.worldbank.org/)
@@ -887,9 +889,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 ![Image](Is-the-World-Cup-toxic-for-advertisers.png)
 ![Image](rihanna.com.png)
 
-<div class="video-container">
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/298637417&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
 
 
 
@@ -910,7 +909,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 For those who think the world is flat, it is just side-ways.
 
-[![Image](be-best.png)](https://www.youtube.com/embed/JmC7XO1pYy4)
+[![Image](be-best.png)]()
 
 
 ### source(铬)
@@ -926,17 +925,6 @@ For those who think the world is flat, it is just side-ways.
 ![Image](first statue of women.png)
 
 ![Image](fur-ball-at-the-skirball.jpg)
-
-
-
-lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Xc3Y5pp2MlU?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-any page for pc is easy to implement
 
 
 
