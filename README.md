@@ -1,3 +1,7 @@
+<div class="video-container">
+  <iframe width="100%" src="https://www.youtube.com/embed/xUXkhCZti_k" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 
 [![Image](web5.0/screen523.png)](https://www.gazeteduvar.com.tr/spor/2019/08/09/ali-koc-erdogani-tebrik-etti-artik-uye-olabilir/)
