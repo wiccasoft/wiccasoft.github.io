@@ -2,9 +2,7 @@
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/9YcQ_sp_U6Y" frameborder="0" allowfullscreen></iframe>
 </div>
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Kad_aWuBl6E" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/RDxn3OuKO8w" frameborder="0" allowfullscreen></iframe>
