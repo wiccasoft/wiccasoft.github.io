@@ -25,31 +25,35 @@
 [![Image](stream/screen186.png)](https://www.timeanddate.com/eclipse/globe/2019-july-2)
 
 ### crypt 
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/278362221" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](almanac/google.png)](https://www.theguardian.com/commentisfree/picture/2019/may/20/brian-adcock-on-trumps-trade-dispute-with-china-cartoon)
 
 ### spacetrash
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/306217643" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/trade-wars.png)](https://www.youtube.com/watch?v=pHUEYIE_MZA)
 
 ### progressive web apps
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/275505038" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](appstores/grindr.png)](https://www.theguardian.com/commentisfree/2019/may/20/the-guardian-view-on-google-versus-huawei-no-winners)
 
 ### wicca
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/321985927" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](almanac/how-to-train-dragons.png)](https://awoiaf.westeros.org/index.php/Visenya_Targaryen)
@@ -63,10 +67,10 @@
 
 
 [![Image](almanac/space-x-dragon.png)](https://www.youtube.com/watch?v=DPfHHls50-w)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/269230954" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/worldbank.png)](https://chaturbate.com/trans-cams/)
 <!--https://apnews.com/b5225683fa3f4fd8b9c74b5c849be68f-->
@@ -75,10 +79,10 @@
 
 ### Releases
 [![Image](almanac/wicca-lab.png)](https://www.youtube.com/watch?v=8OUqtp8sli8)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/277862270" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](almanac/Global_Seed_Vault.jpg)](https://www.seedvault.no/)
@@ -89,24 +93,24 @@
 </div>
 
 [![Image](almanac/erdogan-grip.png)](https://www.theguardian.com/world/2019/apr/01/erdogan-party-loses-ankara-in-turkish-local-elections-blow)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/302431286" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 
 [![Image](almanac/imamoglu.png)](https://www.theguardian.com/world/2019/apr/02/ekrem-imamoglu-unifying-political-force-to-take-on-erdogan-istanbul)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/301396956" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/march23-vernal-equinox.png)](https://www.timeanddate.com/calendar/spring-equinox.html)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/283181724" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/autec.png)](https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center#/media/File:AUTEC_from_the_air.jpg)
 
@@ -119,10 +123,11 @@
 [![Image](web5.0/mateX.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
 
 
-### downgrade
+
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/308978947" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](appstores/windows-appstore-before-packing.png)](https://www.youtube.com/watch?v=mWvdsMwnGmM)
@@ -131,10 +136,10 @@
 [![Image](almanac/unplug-from-internet.png)](https://www.youtube.com/watch?v=b6cbW5nlNSI)
 
 ### web 5.0
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/317505694" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](almanac/arm-race.png)](https://www.youtube.com/watch?v=M1d3zzjqiIo)
@@ -150,15 +155,16 @@
 [![Image](almanac/77.мвд.рф.png)](https://www.bbc.com/russian/news-47199496)
 
 ### smartdata
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/268625100" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/black-horse.png)](https://data.worldbank.org/country/united-kingdom)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/314265471" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](almanac/feminism.png)](https://www.bbc.co.uk/news/world-us-canada-47143288)
@@ -193,9 +199,10 @@
 [![Image](bsd/total-lunar-eclipse-21.1.19.png)](https://www.bbc.com/news/world-us-canada-46943592)
 
 ### iron sky
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/268559796" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/supreme.jpg)](https://resonance.is/black-holes-described-gravitational-atom/)
 
@@ -213,74 +220,73 @@
 
 
 [![Image](headfirst/chess.png)](https://www.bbc.com/news/world-asia-china-46887545)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/274633750" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](gilet-jaunes-9x7.png)](https://www.theguardian.com/world/2019/jan/11/france-braced-for-ninth-weekend-of-gilets-jaunes-protests)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/273128930" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](us-shutdown.png)](https://www.theguardian.com/us-news/2019/jan/14/trump-says-he-will-devastate-turkey-economically-if-it-attacks-kurds?CMP=twt_a-world_b-gdnworld)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/301364295" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](economy.png)](https://www.bbc.com/news/world-46866661)
 
 
 [![Image](turkey-over-kurds.png)](https://www.bbc.com/news/world-europe-46860902)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/310790367" frameborder="0" allowfullscreen></iframe>
-</div>
-
+</div>-->
 
 [![Image](ces.png)](https://www.bbc.co.uk/news/technology-46790015)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/279966078" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](712019.png)](https://www.bbc.com/news/world-asia-46773504)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/291240209" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](icy.png)](https://www.bbc.co.uk/news/world-asia-china-46769610)
 
-
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/305368670" frameborder="0" allowfullscreen></iframe>
-</div>
+</div> 
+-->
 
 
 
 [![Image](epiphany+solar-clipse.png)](https://www.timeanddate.com/eclipse/solar/2019-january-6)
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/309676008" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](prophecy.png)](https://www.bbc.com/news/world-europe-46748282)
 
-
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/273944226" frameborder="0" allowfullscreen></iframe>
-</div>
+</div> 
+-->
 
 
 [![Image](dark-side-of-the-moon.png)](https://www.bbc.com/news/business-46743472)
@@ -297,26 +303,26 @@
 [![Image](new-horizons.png)](https://www.bbc.com/news/science-environment-46729898)
 
 
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/308482722" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](question-asked-in.png)](https://www.youtube.com/watch?v=0pKjN17eYvY)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/274490332" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](blackmirror.png)](https://www.youtube.com/watch?v=iLPWuDQIl70)
 
 [![Image](ny-skyline.png)](https://www.online-xxx-show.com/mae_malone/)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/271072938" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](etna.png)](https://www.bbc.com/news/av/world-europe-46689502/mount-etna-aerial-footage-shows-damage-from-italy-quakes)
@@ -369,16 +375,16 @@
 
 
 [![Image](voyager2.png)](https://voyager.jpl.nasa.gov/news/details.php?article_id=112)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/302132807" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](月.png)](https://bit.ly/2zUgPoT)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/Cugvqaca1ac" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](見る.jpeg)](https://www.amazon.co.jp/japanese-calligraphy/s?page=1&rh=i%3Aaps%2Ck%3Ajapanese%20calligraphy)
@@ -394,10 +400,10 @@
 ![Image](awe.png)
 
 [![Image](trump-v-world.png)](https://www.bbc.co.uk/news/business-46450630)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/OLvz5E61UNs" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 
@@ -440,10 +446,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 [![Image](gilets-jaunes.png)](https://www.theguardian.com/world/gallery/2018/nov/24/gilets-jaunes-protest-against-macron-policies-in-paris-and-across-france-in-pictures)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://www.youtube.com/embed/4llnekYxDwM" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 ![Image](If-else-may.png)
 
@@ -466,10 +472,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 [![Image](arizona.png)](https://sinema.house.gov/biography/)
 
 [![Image](sky.png)](https://www.youtube.com/watch?v=Ya2f_Y0OqxE)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/299990730" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](wiki-data.png)](http://dbpedia.org/page/Semantic_Web)
 
@@ -494,10 +500,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 [![Image](Wikidata.png)](https://www.youtube.com/watch?v=BaTd_F2yIrU/)
 
 ### wikidata
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/274365756" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 [![Image](witchita.png)](https://www.w3.org/DesignIssues/LinkedData.html)
@@ -857,9 +863,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 [![Image](skynet.png)](https://www.youtube.com/embed/mviTS_cIWXg)
 
 ### beyond
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/338516804" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [[Image](watchout.png)](https://www.youtube.com/embed/xf78e8zlns8)
 
@@ -887,9 +894,10 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 ### Track
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/271851924" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 
@@ -906,9 +914,10 @@ For those who think the world is flat, it is just side-ways.
 
 
 ### source(铬)
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/336047527" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](there-is-no-place-like.jpg)](https://www.youtube.com/watch?v=Rh47oTsRf-w)
 
@@ -939,22 +948,25 @@ For more details see [SKYNET DIVISION](https://www.youtube.com/watch?v=7-GTiaA9h
 
 
 ### bash
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/343208451" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 [![Image](headfirst/eKkbQS.jpg)](https://www.youtube.com/watch?v=_-y6SX9ZmoY)
 
 ### platform-overrides
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/341799619" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 ### witchcraft 0.1
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/267559525" frameborder="0" allowfullscreen></iframe>
-</div>
+</div>-->
 
 
 
