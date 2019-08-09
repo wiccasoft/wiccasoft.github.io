@@ -1,6 +1,6 @@
 
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=FqDSaTKtQYA)
+[![Image](web5.0/screen523.png)](http://www.hurriyet.com.tr/sporarena/vedat-muriqi-annem-sayesinde-futbolcu-dedem-sayesinde-fenerbahceli-oldum-41297903)
 
 
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
