@@ -1,11 +1,11 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=p4G91Hc5X)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o)
 
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ_ haydaa/-->
 <!-- https://www.youtube.com/watch?v=GYM0HC0e2hQ_ imamoğlan/-->
-<!-- https://www.youtube.com/watch?v=p4G91Hc5X_ troy/-->
+<!-- https://www.youtube.com/watch?v=p4G91Hc5X_o)_ troy/-->
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
 
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
