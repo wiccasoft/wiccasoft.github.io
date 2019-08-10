@@ -1,7 +1,7 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://twitter.com/ekrem_imamoglu/status/1159040086404665344)
+[![Image](web5.0/screen523.png)](https://www.yeniakit.com.tr/haber/imamoglunun-vukuatlari-bitmiyor-kendi-projesinde-kendine-kiyak-gecti-783882.html)
 
 
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
