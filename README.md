@@ -1,7 +1,7 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o)
+[![Image](web5.0/screen523.png)](https://onedio.com/haber/demet-akalin-a-meydan-okuyan-norm-ender-e-pop-muzigin-atarli-giderli-kralicesinden-kapak-gibi-cevap-geldi-882493)
 
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ_ haydaa/-->
 <!-- https://www.youtube.com/watch?v=GYM0HC0e2hQ_ imamoğlan/-->
