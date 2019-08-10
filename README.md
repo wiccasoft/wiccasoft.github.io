@@ -1,8 +1,10 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=2UYrsFeBZoI)
+[![Image](web5.0/screen523.png)](http://vatanpartisi.org.tr/genel-merkez)
 
+
+<!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
 
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
 
