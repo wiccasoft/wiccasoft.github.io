@@ -1,7 +1,7 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://www.yeniakit.com.tr/haber/imamoglunun-vukuatlari-bitmiyor-kendi-projesinde-kendine-kiyak-gecti-783882.html)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=-BiLCJxpqi4)
 
 
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
