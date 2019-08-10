@@ -1,7 +1,7 @@
 
 
 
-[![Image](web5.0/screen523.png)](http://vatanpartisi.org.tr/genel-merkez)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=OU1-Jr6Ec8Q)
 
 
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
