@@ -1,7 +1,7 @@
 
 
 
-[![Image](web5.0/screen523.png)](ttps://www.youtube.com/watch?v=FxyAFtEGFhQ)
+[![Image](web5.0/screen523.png)](ttps://www.youtube.com/watch?v=p4G91Hc5X)
 
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ_ haydaa/-->
 <!-- https://www.youtube.com/watch?v=GYM0HC0e2hQ_ imamoğlan/-->
