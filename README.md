@@ -1,9 +1,11 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://onedio.com/haber/demet-akalin-a-meydan-okuyan-norm-ender-e-pop-muzigin-atarli-giderli-kralicesinden-kapak-gibi-cevap-geldi-882493)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=FqDSaTKtQYA)
 
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ_ haydaa/-->
+<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA_ rap wars/-->
+
 <!-- https://www.youtube.com/watch?v=GYM0HC0e2hQ_ imamoğlan/-->
 <!-- https://www.youtube.com/watch?v=p4G91Hc5X_o)_ troy/-->
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
