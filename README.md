@@ -69,11 +69,11 @@
 
 
 [![Image](almanac/how-to-train-dragons.png)](https://awoiaf.westeros.org/index.php/Visenya_Targaryen)
-
+<!--
 <div class="video-container">
   <iframe width="100%" src="https://player.vimeo.com/video/279362541/" frameborder="0" allowfullscreen></iframe>
 </div>
-
+-->
 
 [![Image](almanac/press-freedom-map.png)](https://www.youtube.com/watch?v=yZwcgVF467g)
 
