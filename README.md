@@ -15,6 +15,9 @@
 
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
 
+[![Image](youtube/vocal-jazz.png)](https://www.youtube.com/watch?v=KFH046IYwb4)
+
+
 [![Image](almanac/screen328.png)](https://www.youtube.com/watch?v=LKXI93gKomA)
 
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
