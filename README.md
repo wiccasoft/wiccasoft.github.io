@@ -1,6 +1,7 @@
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=ZP2YtHCXM6E)
 
+<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E amerikanvari -->
 <!-- https://www.youtube.com/watch?v=Ps6FcngSaiQ sarıların sülo -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ nisanur -->
 <!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 imamoğlan destanı -->
