@@ -1,6 +1,7 @@
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=ZP2YtHCXM6E)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=9coh25YxGtM)
 
+<!-- https://www.youtube.com/watch?v=9coh25YxGtM tarık -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E amerikanvari -->
 <!-- https://www.youtube.com/watch?v=Ps6FcngSaiQ sarıların sülo -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ nisanur -->
