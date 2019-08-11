@@ -126,9 +126,10 @@
 
 [![Image](almanac/autec.png)](https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center#/media/File:AUTEC_from_the_air.jpg)
 
+<!--
 <div class="video-container">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/wicca&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
+</div>-->
 
 [![Image](almanac/where-bias-lies.png)](https://www.youtube.com/watch?v=wLEGfnxMPfc)
 
@@ -202,10 +203,10 @@
 [![Image](bsd/brain.png)](http://giselebundchen.com/)
 
 [![Image](almanac/spain-tax.png)](https://www.theguardian.com/football/2019/jan/22/ronaldo-fine-tax-fraud-case-madrid)
-
+<!--
 <div class="video-container">
 <iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/canda&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
+</div>-->
 
 
 [![Image](bsd/total-lunar-eclipse-21.1.19.png)](https://www.bbc.com/news/world-us-canada-46943592)
