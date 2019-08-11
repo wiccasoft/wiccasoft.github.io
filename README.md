@@ -1,8 +1,5 @@
 
-
-
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=Ww5jScH4fXY)
-
 
 <!-- https://www.youtube.com/watch?v=Ps6FcngSaiQ sarıların sülo -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ nisanur -->
