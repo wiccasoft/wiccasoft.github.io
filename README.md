@@ -1,5 +1,5 @@
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=Ww5jScH4fXY)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o)
 
 <!-- https://www.youtube.com/watch?v=Ps6FcngSaiQ sarıların sülo -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ nisanur -->
