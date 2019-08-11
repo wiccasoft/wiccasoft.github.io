@@ -1,7 +1,7 @@
 
 
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=BSzFIAXtXmk)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=2e_Um6Qncls)
 
 
 <!-- https://www.youtube.com/watch?v=Ps6FcngSaiQ sarıların sülo -->
