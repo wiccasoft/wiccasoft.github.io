@@ -1,5 +1,5 @@
 
-[![Image](web5.0/screen523.png)](https://twitter.com/GalatasaraySK/status/1157237399950413825)
+[![Image](web5.0/screen523.png)](https://twitter.com/fatihtezcan?lang=en)
 <!-- https://www.youtube.com/watch?v=jRMzVMe18cA boogie -->
 <!-- https://www.youtube.com/watch?v=TsW8mziTjAk color -->
 <!-- https://www.youtube.com/watch?v=tZnyAqmMP_g beyaz atletli -->
