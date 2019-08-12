@@ -1,5 +1,5 @@
 
-[![Image](web5.0/screen523.png)](https://onedio.com/haber/hanimci-olmanin-erkegin-omrunu-uzattigina-dair-cok-da-bilimsel-olmayan-11-kanit-806437)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=VGfUppCx_Hw)
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibi adam -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yakışıklıfutbolcular -->
 <!-- https://www.youtube.com/watch?v=mct0UtijBSw ekşici incici -->
