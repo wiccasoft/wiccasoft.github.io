@@ -1,5 +1,5 @@
 
-[![Image](web5.0/screen523.png)](https://www.aspor.com.tr/galeri/fenerbahce/fenerbahcede-skrtelden-sok-sozler-ali-koc-ve-ersun-yanal)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=VaUPyuzNsGQ)
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibi adam -->
 <!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yakışıklıfutbolcular -->
