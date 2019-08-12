@@ -1,5 +1,6 @@
 
-[![Image](web5.0/screen523.png)](ttps://www.youtube.com/watch?v=p4G91Hc5X_o))
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=c7IoBRRBiX8)
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibi adam -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yakışıklıfutbolcular -->
 <!-- https://www.youtube.com/watch?v=mct0UtijBSw ekşici incici -->
 <!-- https://www.youtube.com/watch?v=Nh9lKYauXP8 testerenecmi -->
