@@ -1,5 +1,6 @@
 
 [![Image](web5.0/screen523.png)](https://tr.sputniknews.com/spor/201908131039907110-galatasaraydan-futbolu-birakan-sneijdere-tesekkur/)
+<!-- https://twitter.com/fatihtezcan/status/1160949514318090240?s=20 fatih terim -->
 <!-- https://www.youtube.com/watch?v=jRMzVMe18cA boogie -->
 <!-- https://www.youtube.com/watch?v=TsW8mziTjAk color -->
 <!-- https://www.youtube.com/watch?v=tZnyAqmMP_g beyaz atletli -->
