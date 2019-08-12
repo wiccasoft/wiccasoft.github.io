@@ -1,5 +1,5 @@
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=NsqK9vfFVxg)
+[![Image](web5.0/screen523.png)](http://www.doeda.com/category/turbanli/)
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibi adam -->
 <!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yakışıklıfutbolcular -->
