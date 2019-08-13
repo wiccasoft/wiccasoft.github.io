@@ -1,5 +1,6 @@
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=pzTq6jxXkCw)
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=c7IoBRRBiX8)
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamlarvadisi -->
 <!-- https://www.youtube.com/watch?v=pzTq6jxXkCw kırtlarvidisiracon -->
 <!-- https://twitter.com/fatihtezcan/status/1160949514318090240?s=20 fatih terim -->
 <!-- https://www.youtube.com/watch?v=jRMzVMe18cA boogie -->
