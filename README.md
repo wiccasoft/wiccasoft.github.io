@@ -1,5 +1,5 @@
 
-[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=PpyP6jgzrVU )
+[![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=oenH2WxQ01g )
 <!-- https://www.youtube.com/watch?v=PpyP6jgzrVU aliusta -->
 <!-- https://www.youtube.com/watch?v=oenH2WxQ01g mumbar -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamlarvadisi -->
