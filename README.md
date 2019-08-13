@@ -1,6 +1,7 @@
 
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=PpyP6jgzrVU )
-<!-- https://www.youtube.com/watch?v=PpyP6jgzrVU aliustya -->
+<!-- https://www.youtube.com/watch?v=PpyP6jgzrVU aliusta -->
+<!-- https://www.youtube.com/watch?v=oenH2WxQ01g dope -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamlarvadisi -->
 <!-- https://www.youtube.com/watch?v=mmdWqXk4R1Q arkareyonlar -->
 <!-- https://www.youtube.com/watch?v=pzTq6jxXkCw kırtlarvidisiracon -->
