@@ -1,4 +1,4 @@
-[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=fSEMnLyNM8o)
+[![Image](web5.0/screen552.png)](https://www.galatasaray.org/p/abdulrahim-karahan/1075)
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=oenH2WxQ01g)
 
 <!-- https://www.youtube.com/watch?v=fSEMnLyNM8o messi -->
