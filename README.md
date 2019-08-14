@@ -1,5 +1,6 @@
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=OmBjfEEjh5E)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
+<!-- https://www.youtube.com/watch?v=OmBjfEEjh5E rönt6 -->
 <!-- https://www.youtube.com/watch?v=nzTu80S7UM0 nokta -->
 <!-- https://www.youtube.com/watch?v=mct0UtijBSw ekşiciincici -->
 <!-- https://www.youtube.com/watch?v=Jeo68H0kknw şikeci -->
