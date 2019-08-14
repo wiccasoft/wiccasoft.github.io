@@ -1,4 +1,4 @@
-[![Image](web5.0/screen552.png)](https://stackoverflow.com/questions/35088496/can-i-load-a-website-with-nw-js)
+[![Image](web5.0/screen552.png)](https://stackoverflow.com/a/38088927)
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=oenH2WxQ01g)
 
 <!-- https://www.galatasaray.org/p/abdulrahim-karahan/1075 masör -->
