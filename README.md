@@ -1,6 +1,7 @@
-[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=0sE9xCDfuuU)
+[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=n1hGeNYLMm0)
 [![Image](web5.0/screen523.png)](https://www.youtube.com/watch?v=oenH2WxQ01g)
 
+<!-- https://www.youtube.com/watch?v=n1hGeNYLMm0 emmeligömmeli -->
 <!-- https://www.youtube.com/watch?v=0sE9xCDfuuU 2020-->
 <!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
 <!-- https://www.youtube.com/watch?v=UwUSr4OMyp4 mideyeciahmet -->
