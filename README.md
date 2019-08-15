@@ -1,6 +1,8 @@
-[![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=LqMDahWXp78)
+[![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=3eoyLc4WfmY)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=I8eHrS5O4yE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
+<!-- https://www.youtube.com/watch?v=3eoyLc4WfmY bereket-->
+<!-- https://www.youtube.com/watch?v=LqMDahWXp78 yapelinkardeş-->
 <!-- https://www.youtube.com/watch?v=I8eHrS5O4yE rönt4 -->
 <!-- https://www.youtube.com/watch?v=OmBjfEEjh5E rönt6 -->
 <!-- https://www.youtube.com/watch?v=nzTu80S7UM0 nokta -->
