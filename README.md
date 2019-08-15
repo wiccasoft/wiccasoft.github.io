@@ -1,6 +1,7 @@
 [![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=tOHnSRy8beE)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=I8eHrS5O4yE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
+<!-- https://www.youtube.com/watch?v=tOHnSRy8beE delimine-->
 <!-- https://www.youtube.com/watch?v=LpusSb6d08o doyuluğmu -->
 <!-- https://www.youtube.com/watch?v=lG-4S59X2Hw 99doyuğmu-->
 <!-- https://www.youtube.com/watch?v=nf5XcL6w5U4 instagramergenleri -->
