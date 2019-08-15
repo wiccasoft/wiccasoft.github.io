@@ -1,6 +1,7 @@
 [![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=nf5XcL6w5U4)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=I8eHrS5O4yE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
+<!-- https://www.youtube.com/watch?v=nf5XcL6w5U4 instagramergenleri -->
 <!-- https://www.youtube.com/watch?v=3eoyLc4WfmY bereket-->
 <!-- https://www.youtube.com/watch?v=LqMDahWXp78 yapelinkardeş-->
 <!-- https://www.youtube.com/watch?v=I8eHrS5O4yE rönt4 -->
