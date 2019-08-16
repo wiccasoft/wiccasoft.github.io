@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)(https://www.youtube.com/watch?v=D4gt5F0SIck)
+[![Image](almanac/screen561.png)(https://www.cnnturk.com/video/dunya/besar-esad-dogu-gutada-ortaya-cikti)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
