@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://www.mackolik.com/futbolcu/sel%C3%A7uk-inan/1f8dm4vuvzqna4l0xtfy7byz9)
+[![Image](almanac/screen561.png)](https://www.galatasaray.org/p/cenk-akkaya/106)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
