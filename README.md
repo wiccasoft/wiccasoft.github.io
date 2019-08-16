@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ )
+[![Image](almanac/screen561.png)](https://www.uludagsozluk.com/k/blup-blup-hadisesinin-%C3%A7abuk-unutulmas%C4%B1/)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
