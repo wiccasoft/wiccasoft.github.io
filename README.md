@@ -3,7 +3,7 @@
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
-
+<!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ haydaaa -->
 <!-- https://www.uludagsozluk.com/k/blup-blup-hadisesinin-%C3%A7abuk-unutulmas%C4%B1/ gerizekalıibne 2 -->
 <!-- https://www.uludagsozluk.com/k/hayallerde-ya%C5%9F%C4%B1yor-baz%C4%B1-ibneler/ -->
 <!-- https://eksisozluk.com/futbol-zekasi--206982 gerizekalıekşiciler -->
