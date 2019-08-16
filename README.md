@@ -4,8 +4,8 @@
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
 <!-- https://eksisozluk.com/futbol-zekasi--206982 gerizekalıekşiciler -->
-<!-- https://www.youtube.com/watch?v=KXnzNbuV84c --gerizekalıulucu -->
-<!-- https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ -->
+<!-- https://www.youtube.com/watch?v=KXnzNbuV84c gerizekalıulucu -->
+<!-- https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ gerizekalıtop-->
 <!-- https://twitter.com/rterdogan/status/331043313341845505?lang=en eybeşer -->
 <!-- https://twitter.com/fatihterim/status/943934216177319936?lang=en wherewe@ -->
 <!-- https://www.aksam.com.tr/yasam/besar-esad-kimdir-nerede-suriye-baskani-esad-son-dakika-kimyasal-silah-kullandi-mi/haber-726188 beşerşaşar-->
