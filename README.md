@@ -1,4 +1,4 @@
-[![Image](web5.0/screen552.png)](https://www.gazeteduvar.com.tr/gundem/2019/08/16/mehmet-ocalan-ciplak-arama-yaptilar/)
+[![Image](web5.0/screen552.png)](https://www.sozcu.com.tr/2019/gundem/son-dakika-ibbde-murat-kazanasmazin-gorevine-son-verildi-5284981/)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 <!-- https://www.youtube.com/watch?v=8f78z5Rd1nEb babacan -->
 <!-- https://www.youtube.com/watch?v=VJOKPJVYwNM dr erol --> 
