@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)(https://www.akparti.org.tr/)
+[![Image](almanac/screen561.png)(http://www.mfa.gov.tr/suriye-siyasi-gorunumu.tr.mfa)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
