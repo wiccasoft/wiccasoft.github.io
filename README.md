@@ -10,7 +10,7 @@
 <!-- https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ gerizekalıtop-->
 <!-- https://twitter.com/rterdogan/status/331043313341845505?lang=en eybeşer -->
 <!-- https://twitter.com/fatihterim/status/943934216177319936?lang=en wherewe@ -->
-<!-- https://www.aksam.com.tr/yasam/besar-esad-kimdir-nerede-suriye-baskani-esad-son-dakika-kimyasal-silah-kullandi-mi/haber-726188 beşerşaşar-->
+
 <!-- https://www.yurtgazetesi.com.tr/gundem/inci-sozluk-kurucusu-serkan-inci-den-kadin-dusmani-paylasim-h129867.html serkaninci -->
 <!-- https://www.youtube.com/watch?v=8f78z5Rd1nEb babacan -->
 <!-- https://www.youtube.com/watch?v=VJOKPJVYwNM dr erol --> 
