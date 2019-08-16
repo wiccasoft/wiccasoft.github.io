@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=ueptJlYwka0)
+[![Image](almanac/screen561.png)](https://www.google.com.tr/search?q=serkan+inci&oq=serkan+inci&aqs=chrome..69i57j69i60j35i39j0l3.3431j0j7&sourceid=chrome&ie=UTF-8)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
