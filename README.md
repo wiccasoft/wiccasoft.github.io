@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://www.uludagsozluk.com/k/16-a%C4%9Fustos-2019-denizlispor-galatasaray-ma%C3%A7%C4%B1/&w=bg)
+[![Image](almanac/screen561.png)](https://eksisozluk.com/16-agustos-2019-denizlispor-galatasaray-maci--6130117?a=popular)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
