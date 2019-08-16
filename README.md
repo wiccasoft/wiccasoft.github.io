@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](http://www.hurriyet.com.tr/haberleri/cinsel-istismar)
+[![Image](almanac/screen561.png)](https://nupel.net/9-yil-boyunca-istismara-ugrayan-genc-intihar-etti-40197h.html)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
