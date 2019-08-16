@@ -1,4 +1,4 @@
-[![Image](web5.0/screen552.png)](https://twitter.com/ismailalpen/status/1162363665116536832)
+[![Image](web5.0/screen552.png)](https://www.sozcu.com.tr/2019/gundem/son-dakika-ibbde-murat-kazanasmazin-gorevine-son-verildi-5284981/)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 <!-- https://www.youtube.com/watch?v=8f78z5Rd1nEb babacan -->
 <!-- https://www.youtube.com/watch?v=VJOKPJVYwNM dr erol --> 
