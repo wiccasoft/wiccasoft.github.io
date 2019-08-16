@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://nupel.net/9-yil-boyunca-istismara-ugrayan-genc-intihar-etti-40197h.html)
+[![Image](almanac/screen561.png)](https://www.fanatik.com.tr/son-dakika-roma-mert-cetin-transferini-bitirdi-2082487)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
