@@ -1,6 +1,7 @@
 [![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=8f78z5Rd1nE)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=I8eHrS5O4yE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
+<!-- https://www.youtube.com/watch?v=8f78z5Rd1nEbali babacan -->
 <!-- https://www.youtube.com/watch?v=VJOKPJVYwNM dr erol --> 
 <!-- https://www.internet-radio.com/ --> 
 <!-- https://www.youtube.com/watch?v=9mzuI73FrgE whatginonthere-- >
