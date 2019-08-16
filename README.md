@@ -1,8 +1,10 @@
 
-[![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=KXnzNbuV84c)
+[![Image](almanac/screen561.png)](https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ )
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
+<!-- https://www.youtube.com/watch?v=KXnzNbuV84c --gerizekalıulucu -->
+<!-- https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ -->
 <!-- https://twitter.com/rterdogan/status/331043313341845505?lang=en eybeşer -->
 <!-- https://twitter.com/fatihterim/status/943934216177319936?lang=en wherewe@ -->
 <!-- https://www.aksam.com.tr/yasam/besar-esad-kimdir-nerede-suriye-baskani-esad-son-dakika-kimyasal-silah-kullandi-mi/haber-726188 beşerşaşar-->
