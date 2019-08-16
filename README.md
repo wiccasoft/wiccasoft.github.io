@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)(https://www.haberturk.com/serkan-inci-kimdir-serkan-inci-gozaltina-alindi-1746276)
+[![Image](almanac/screen561.png)(https://www.instagram.com/srkninci/?hl=en)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
