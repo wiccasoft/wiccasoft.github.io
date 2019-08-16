@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://twitter.com/srkninci/status/1162163281043361804?s=19)
+[![Image](almanac/screen561.png)](https://twitter.com/fatihterim/status/943934216177319936?lang=en)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
