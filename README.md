@@ -1,5 +1,4 @@
-[![Image](almanac/screen561.png)](https://onedio.com/haber/kisa-yakisiklilara-ozel-stil-rehberi-516370)
-[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=I8eHrS5O4yE)
+[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 <!-- https://www.youtube.com/watch?v=8f78z5Rd1nEb babacan -->
 <!-- https://www.youtube.com/watch?v=VJOKPJVYwNM dr erol --> 
