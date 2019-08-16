@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://twitter.com/KadriGursel?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[![Image](almanac/screen561.png)](http://kadirmisiroglu.com/)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
