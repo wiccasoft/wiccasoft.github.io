@@ -1,5 +1,5 @@
 
-[![Image](almanac/screen561.png)](https://www.sozcu.com.tr/2019/dunya/son-dakika-esad-bayramda-da-vurdu-124-bin-gocmen-turk-sinirina-sigindi-5284540/)
+[![Image](almanac/screen561.png)](http://www.hurriyet.com.tr/yazarlar/sedat-ergin/ypg-ile-esad-rejimi-uzlastirilabilir-mi-hangi-yontemle-41303082)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
