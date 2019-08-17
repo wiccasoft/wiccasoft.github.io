@@ -35,37 +35,13 @@
 <!-- https://www.youtube.com/watch?v=Ca-dpDBWPZs crazy -->
 <!-- https://www.youtube.com/watch?v=FPKz5f_zszA youtubers -->
 <!-- https://www.youtube.com/watch?v=VaUPyuzNsGQ funny goats -->
-<!-- https://www.youtube.com/watch?v=4PEjvWOFHLM koyunoğlu-->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibi adam -->
-<!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
-<!-- https://www.youtube.com/watch?v=yphjF2e2Izg yakışıklıfutbolcular -->
-<!-- https://www.youtube.com/watch?v=mct0UtijBSw ekşici incici -->
-<!-- https://www.youtube.com/watch?v=Nh9lKYauXP8 testerenecmi -->
-<!-- https://www.youtube.com/watch?v=KP9c30N0ulQ türkler -->
-<!-- hhttps://www.youtube.com/watch?v=82hmC3pwPvQ) aslan akbey -->
-<!-- https://www.youtube.com/watch?v=yphjF2e2Izg transfer -->
-<!-- https://www.youtube.com/watch?v=7l69XjA_CtY siyasalfutbol -->
-<!-- https://www.youtube.com/watch?v=2e_Um6Qncls siyasalislam -->
-<!-- https://www.youtube.com/watch?v=m0SX2Ua_Owk joker -->
-<!-- https://www.youtube.com/watch?v=BShJvECEh0g ismet -->
-<!-- https://www.youtube.com/watch?v=k3xVrvr_UtE incesting -->
-<!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 imamoğluhoron -->
-<!-- https://www.youtube.com/watch?v=MxeaYKNBmqw mnaçoğlu -->
-<!-- https://www.youtube.com/watch?v=cjlbn-YKm6U racon -->
-<!-- https://www.youtube.com/watch?v=fxwgmMQ7lMo erdogan -->
-<!-- https://www.youtube.com/watch?v=9coh25YxGtM tarık -->
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E amerikanvari -->
-<!-- https://www.youtube.com/watch?v=Ps6FcngSaiQ sarıların sülo -->
-<!-- https://www.youtube.com/watch?v=XsbksXXgXwQ nisanur -->
-<!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 imamoğlan destanı -->
-<!-- https://www.youtube.com/watch?v=FPqoKFGkSTM kemalsspor-->
+
 <!-- https://www.youtube.com/watch?v=KFH046IYwb4 vocal jazz-->
 <!-- https://www.youtube.com/watch?v=UsUgC4di5Kw 150-->
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ_ haydaa/-->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA_ rap wars/-->
 <!-- https://www.youtube.com/watch?v=B3y1Q1j7RGg deutchland-->
 
-<!-- https://www.youtube.com/watch?v=GYM0HC0e2hQ_ imamoğlan/-->
 <!-- https://www.youtube.com/watch?v=p4G91Hc5X_o)_ troy/-->
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
 
