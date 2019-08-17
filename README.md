@@ -1,4 +1,4 @@
-[![Image](sky.net/screen577.png)](https://www.internet-radio.com/station/psyradiofm/)
+[![Image](sky.net/screen579.png)](https://www.internet-radio.com/station/psyradiofm/)
 [![Image](almanac/screen571.png)](hhttps://www.internet-radio.com/station/psyradiofm/)
 [![Image](almanac/screen561.png)](http://streamer.psyradio.org:8020/;listen.mp3)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
