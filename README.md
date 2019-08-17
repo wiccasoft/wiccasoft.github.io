@@ -4,27 +4,12 @@
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
-<!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ haydaaa -->
-<!-- https://www.uludagsozluk.com/k/blup-blup-hadisesinin-%C3%A7abuk-unutulmas%C4%B1/ gerizekalıibne 2 -->
-<!-- https://www.uludagsozluk.com/k/hayallerde-ya%C5%9F%C4%B1yor-baz%C4%B1-ibneler/ -->
-<!-- https://eksisozluk.com/futbol-zekasi--206982 gerizekalıekşiciler -->
-<!-- https://www.youtube.com/watch?v=KXnzNbuV84c gerizekalıulucu -->
-<!-- https://www.uludagsozluk.com/k/meme-g%C3%B6r%C3%BCnmeyen-fotoda-memeler-harika-diyen-erkek/ gerizekalıtop-->
-<!-- https://twitter.com/rterdogan/status/331043313341845505?lang=en eybeşer -->
-<!-- https://twitter.com/fatihterim/status/943934216177319936?lang=en wherewe@ -->
-
-<!-- https://www.yurtgazetesi.com.tr/gundem/inci-sozluk-kurucusu-serkan-inci-den-kadin-dusmani-paylasim-h129867.html serkaninci -->
-<!-- https://www.youtube.com/watch?v=8f78z5Rd1nEb babacan -->
-<!-- https://www.youtube.com/watch?v=VJOKPJVYwNM dr erol --> 
 <!-- https://www.internet-radio.com/ --> 
 <!-- https://www.youtube.com/watch?v=9mzuI73FrgE whatginonthere-- >
-<!-- https://www.youtube.com/watch?v=Ys1KnSlp2g4 recetayyi erdovan -->
+
 <!-- https://www.youtube.com/watch?v=ZkqyIoYAXV8 purple yatch-->
 <!-- https://www.youtube.com/watch?v=3LsJKiYr_Fg joker -->
-<!-- https://www.youtube.com/watch?v=tOHnSRy8beE delimine-->
-<!-- https://www.youtube.com/watch?v=LpusSb6d08o doyuluğmu -->
-<!-- https://www.youtube.com/watch?v=lG-4S59X2Hw 99doyuğmu-->
-<!-- https://www.youtube.com/watch?v=nf5XcL6w5U4 instagramergenleri -->
+
 <!-- https://www.youtube.com/watch?v=3eoyLc4WfmY bereket-->
 <!-- https://www.youtube.com/watch?v=LqMDahWXp78 yapelinkardeş-->
 <!-- https://www.youtube.com/watch?v=I8eHrS5O4yE rönt4 -->
