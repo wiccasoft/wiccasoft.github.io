@@ -15,26 +15,21 @@
 <!-- https://www.youtube.com/watch?v=I8eHrS5O4yE rönt4 -->
 <!-- https://www.youtube.com/watch?v=OmBjfEEjh5E rönt6 -->
 <!-- https://www.youtube.com/watch?v=nzTu80S7UM0 nokta -->
-<!-- https://www.youtube.com/watch?v=mct0UtijBSw ekşiciincici -->
-<!-- https://www.youtube.com/watch?v=Jeo68H0kknw şikeci -->
-<!-- https://www.youtube.com/watch?v=0ujrQQO4X-0 time -->
-<!-- https://www.galatasaray.org/p/abdulrahim-karahan/1075 masör -->
-<!-- https://www.youtube.com/watch?v=fSEMnLyNM8o messi -->
-<!-- https://www.youtube.com/watch?v=LBBTJc5otaI selahattin -->
-<!-- https://www.youtube.com/watch?v=n1hGeNYLMm0 emmeligömmeli -->
+
+
+
 <!-- https://www.youtube.com/watch?v=0sE9xCDfuuU 2020-->
-<!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
-<!-- https://www.youtube.com/watch?v=UwUSr4OMyp4 mideyeciahmet -->
-<!--https://www.youtube.com/watch?v=Ludlvnu4Vic testere ->
+
+
 <!-- https://www.youtube.com/watch?v=PpyP6jgzrVU aliusta -->
 <!-- https://www.youtube.com/watch?v=oenH2WxQ01g mumbar -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamlarvadisi -->
-<!-- https://www.youtube.com/watch?v=mmdWqXk4R1Q arkareyonlar -->
+
+
 <!-- https://www.youtube.com/watch?v=pzTq6jxXkCw kırtlarvidisiracon -->
-<!-- https://twitter.com/fatihtezcan/status/1160949514318090240?s=20 fatih terim -->
+
 <!-- https://www.youtube.com/watch?v=jRMzVMe18cA boogie -->
 <!-- https://www.youtube.com/watch?v=TsW8mziTjAk color -->
-<!-- https://www.youtube.com/watch?v=tZnyAqmMP_g beyaz atletli -->
+
 
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w kan davası -->
 <!-- https://www.youtube.com/watch?v=Ca-dpDBWPZs crazy -->
