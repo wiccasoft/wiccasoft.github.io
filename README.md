@@ -1,5 +1,5 @@
 
-[![Image](sky.net/κ-Cygnid.png)](https://www.youtube.com/watch?v=wgney1C96Ys)
+[![Image](sky.net/κ-Cygnid.png)](https://www.youtube.com/watch?v=CI93CsI5-Tw)
 
 <!-- https://in-the-sky.org/news.php?id=20190818_10_100-->
 [![Image](sky.net/screen597.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
