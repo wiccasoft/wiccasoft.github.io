@@ -1,5 +1,5 @@
 
-[![Image](sky.net/moon-in-pisces.png)](https://in-the-sky.org/news.php?id=20190818_10_100)
+[![Image](sky.net/mκ-Cygnid)](https://in-the-sky.org/news.php?id=20190818_10_100)
 [![Image](sky.net/screen597.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 [![Image](sky.net/screen579.png)](https://www.internet-radio.com/station/psyradiofm/)
 
