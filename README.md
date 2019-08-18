@@ -1,5 +1,5 @@
 
-[![Image](sky.net/screen596.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
+[![Image](sky.net/screen597.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 [![Image](sky.net/screen579.png)](https://www.internet-radio.com/station/psyradiofm/)
 
 [![Image](almanac/screen571.png)](https://www.theguardian.com/environment/2019/aug/17/greta-thunberg-four-days-into-atlantic-crossing)
