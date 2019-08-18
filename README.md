@@ -1,5 +1,5 @@
 
-[![Image](sky.net/κ-Cygnid.png)](https://twitter.com/ekrem_imamoglu/status/1163138586121768961)
+[![Image](sky.net/κ-Cygnid.png)](https://in-the-sky.org/news.php?id=20190818_10_100)
 <!-- https://fenerbahce.org/fenerol -->
 <!-- https://twitter.com/ekrem_imamoglu/status/1163138586121768961 consider it done-->
 <!-- https://in-the-sky.org/news.php?id=20190818_10_100-->
