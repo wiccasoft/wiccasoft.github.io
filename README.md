@@ -1,5 +1,5 @@
 [![Image](sky.net/screen579.png)](https://www.internet-radio.com/station/psyradiofm/)
-[![Image](almanac/screen571.png)](hhttps://www.internet-radio.com/station/psyradiofm/)
+[![Image](almanac/screen571.png)](https://www.theguardian.com/environment/2019/aug/17/greta-thunberg-four-days-into-atlantic-crossing)
 [![Image](almanac/screen561.png)](http://streamer.psyradio.org:8020/;listen.mp3)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
