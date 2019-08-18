@@ -17,20 +17,14 @@
 <!-- https://www.youtube.com/watch?v=OmBjfEEjh5E rönt6 -->
 <!-- https://www.youtube.com/watch?v=nzTu80S7UM0 nokta -->
 
-
-
 <!-- https://www.youtube.com/watch?v=0sE9xCDfuuU 2020-->
-
 
 <!-- https://www.youtube.com/watch?v=PpyP6jgzrVU aliusta -->
 <!-- https://www.youtube.com/watch?v=oenH2WxQ01g mumbar -->
-
-
 <!-- https://www.youtube.com/watch?v=pzTq6jxXkCw kırtlarvidisiracon -->
 
 <!-- https://www.youtube.com/watch?v=jRMzVMe18cA boogie -->
 <!-- https://www.youtube.com/watch?v=TsW8mziTjAk color -->
-
 
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w kan davası -->
 <!-- https://www.youtube.com/watch?v=Ca-dpDBWPZs crazy -->
