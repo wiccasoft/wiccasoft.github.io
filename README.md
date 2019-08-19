@@ -1,7 +1,9 @@
 [![Image](almanac/screen612.png)](https://www.youtube.com/watch?v=-wj09HU-afk)
 <!-- https://www.theguardian.com/science/2019/aug/19/pig-to-human-heart-transplants-possible-within-three-years-terence-english -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın-->
-[![Image](almanac/screen613.png)](https://www.theguardian.com/lifeandstyle/2019/aug/19/insomniacs-risk-heart-failure-stroke-study)
+[![Image](almanac/screen613.png)](hhttps://www.youtube.com/watch?v=-wj09HU-afk)
+<!-- https://www.theguardian.com/lifeandstyle/2019/aug/19/insomniacs-risk-heart-failure-stroke-study -->
+<!-- https://www.youtube.com/watch?v=-wj09HU-afk -->
 
 
 [![Image](sky.net/κ-Cygnid.png)](https://in-the-sky.org/news.php?id=20190818_10_100)
