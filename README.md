@@ -1,6 +1,7 @@
 
-[![Image](cards/screen618.png)](https://www.youtube.com/watch?v=Cl69o3Pk93s)
+[![Image](cards/screen618.png)](https://www.youtube.com/watch?v=vgQhuGOMvr0)
 
+<!-- https://www.youtube.com/watch?v=Cl69o3Pk93s -->
 <!-- https://www.theguardian.com/technology/2019/aug/19/twitter-china-hong-kong-accounts-->
 
 [![Image](almanac/screen612.png)](https://www.youtube.com/watch?v=2q05iJ6jHu8)
