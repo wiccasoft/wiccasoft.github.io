@@ -1,4 +1,6 @@
-[![Image](almanac/screen612.png)](https://twitter.com/osmanoglu_79)
+[![Image](almanac/screen612.png)](https://www.youtube.com/watch?v=2q05iJ6jHu8)
+<!-- https://www.youtube.com/watch?v=2q05iJ6jHu8 microtouch -->
+
 <!-- https://www.theguardian.com/science/2019/aug/19/pig-to-human-heart-transplants-possible-within-three-years-terence-english -->
 <!-- https://twitter.com/osmanoglu_79?lang=en -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın-->
