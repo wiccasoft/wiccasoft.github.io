@@ -1,5 +1,5 @@
 
-[![Image](cards/screen618.png)]( https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-%C3%BCnl%C3%BC-etti%C4%9Fi-%C3%A7ocuk/)
+[![Image](cards/screen618.png)]( https://www.youtube.com/watch?v=Cl69o3Pk93s)
 
 <!-- https://www.youtube.com/watch?v=Cl69o3Pk93s -->
 <!-- https://www.theguardian.com/technology/2019/aug/19/twitter-china-hong-kong-accounts-->
