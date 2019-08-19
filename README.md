@@ -8,7 +8,7 @@
 
 [![Image](almanac/screen571.png)](https://www.theguardian.com/environment/2019/aug/17/greta-thunberg-four-days-into-atlantic-crossing)
 [![Image](almanac/screen561.png)](http://streamer.psyradio.org:8020/;listen.mp3)
-[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=9mzuI73FrgE)
+[![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o )
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
 
@@ -44,7 +44,7 @@
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA_ rap wars/-->
 <!-- https://www.youtube.com/watch?v=B3y1Q1j7RGg deutchland-->
 
-<!-- https://www.youtube.com/watch?v=p4G91Hc5X_o)_ troy/-->
+<!-- https://www.youtube.com/watch?v=p4G91Hc5X_o troy/-->
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
 
 [![Image](almanac/blackmoon.png)](https://www.express.co.uk/news/science/1159914/black-supermoon-2019-july-second-super-new-moon-is-it-visible)
