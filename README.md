@@ -1,5 +1,6 @@
-[![Image](almanac/screen612.png)](https://www.youtube.com/watch?v=2q05iJ6jHu8)
+[![Image](almanac/screen612.png)](https://twitter.com/osmanoglu_79)
 <!-- https://www.theguardian.com/science/2019/aug/19/pig-to-human-heart-transplants-possible-within-three-years-terence-english -->
+<!-- https://twitter.com/osmanoglu_79?lang=en -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın-->
 [![Image](almanac/screen613.png)](hhttps://www.youtube.com/watch?v=-wj09HU-afk)
 <!-- https://www.theguardian.com/lifeandstyle/2019/aug/19/insomniacs-risk-heart-failure-stroke-study -->
