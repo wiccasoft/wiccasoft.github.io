@@ -1,5 +1,7 @@
 
-[![Image](cards/screen618.png)](https://www.theguardian.com/technology/2019/aug/19/twitter-china-hong-kong-accounts)
+[![Image](cards/screen618.png)](https://www.youtube.com/watch?v=SJyKup7G9OE)
+
+<!-- https://www.theguardian.com/technology/2019/aug/19/twitter-china-hong-kong-accounts-->
 
 [![Image](almanac/screen612.png)](https://www.youtube.com/watch?v=2q05iJ6jHu8)
 <!-- https://www.youtube.com/watch?v=2q05iJ6jHu8 microtouch -->
