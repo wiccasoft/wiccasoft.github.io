@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen626.png)]( https://twitter.com/egemenbagis?lang=en )
+[![Image](mainstream/screen626.png)]( https://www.youtube.com/watch?v=OEI2sJuOweU )
 <!-- http://95.217.39.141:9111/stream-- >
 [![Image](cards/screen622.png)]( https://www.youtube.com/watch?v=Cl69o3Pk93s )
 
