@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen626.png)](https://pozitivenerji.com/yazilar/duakapisi/644-her-gun-ya-hayyu-ya-kayyum-cc-her-mesru-dilegi-kabul-olur.html)
+[![Image](mainstream/screen626.png)](https://www.youtube.com/watch?v=gnIFwhjpH3s)
 <!-- http://95.217.39.141:9111/stream-- >
 [![Image](cards/screen622.png)]( https://www.youtube.com/watch?v=Cl69o3Pk93s )
 
