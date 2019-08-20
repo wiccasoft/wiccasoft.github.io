@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen626.png)](https://www.youtube.com/watch?v=6X6mfU9imTM )
+[![Image](mainstream/screen626.png)](https://www.sabah.com.tr/webtv/turkiye/ekrem-imamoglu-beyaz-insaatin-projesi-park-teras-avmye-de-ortak-oldugunu-boyle-itiraf-etti )
 <!-- http://95.217.39.141:9111/stream-- >
 [![Image](cards/screen622.png)]( https://www.youtube.com/watch?v=Cl69o3Pk93s )
 
