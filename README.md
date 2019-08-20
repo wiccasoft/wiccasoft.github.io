@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen626.png)](https://www.youtube.com/watch?v=gnIFwhjpH3s)
+[![Image](mainstream/screen626.png)](https://www.uludagsozluk.com/k/y%C4%B1l-olmu%C5%9F-2015-hala-instagram-hesab%C4%B1-olmayan-loser/&w=bg)
 <!-- http://95.217.39.141:9111/stream-- >
 [![Image](cards/screen622.png)]( https://www.youtube.com/watch?v=Cl69o3Pk93s )
 
