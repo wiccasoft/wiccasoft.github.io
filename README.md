@@ -1,6 +1,7 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
+[![Image](mainstream/screen634.png)](https://medium.com/@rossbulat/node-js-client-ip-location-with-geoip-lite-fallback-c25833c94a76)
+<!-- https://medium.com/@rossbulat/node-js-client-ip-location-with-geoip-lite-fallback-c25833c94a76 -->
 <!-- http://streamer.psyradio.org:8020/;listen.mp3 -->
 <!-- https://www.youtube.com/watch?v=btPJPFnesV4 survivor -->
 <!-- https://www.youtube.com/watch?v=xOOr6PCe1lo meanwhile -->
