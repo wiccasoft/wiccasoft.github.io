@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen634.png)](http://streamer.psyradio.org:8020/;listen.mp3)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=GtyqAw2DOEk)
 <!-- http://streamer.psyradio.org:8020/;listen.mp3 -->
 <!-- https://www.youtube.com/watch?v=btPJPFnesV4 survivor -->
 <!-- https://www.youtube.com/watch?v=xOOr6PCe1lo meanwhile -->
