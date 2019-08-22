@@ -1,6 +1,7 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=AUjHb4C7b94)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=EIOc_X4w_M4)
+<!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 eye of ra-->
 <!-- ttps://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/ -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc eko -->
 <!-- https://www.youtube.com/watch?v=BkSzIVoWl88 mansur -->
