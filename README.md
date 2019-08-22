@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=EIrqDaEcJkwh)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=AUjHb4C7b94)
 <!-- ttps://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/ -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc eko -->
 <!-- https://www.youtube.com/watch?v=BkSzIVoWl88 mansur -->
