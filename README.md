@@ -1,6 +1,7 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=jYSr_qt9wyc)
+[![Image](mainstream/screen634.png)](https://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/)
+<!-- https://www.youtube.com/watch?v=jYSr_qt9wyc trivago eko -->
 <!-- https://www.youtube.com/watch?v=BkSzIVoWl88 mansur -->
 <!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombi araç-->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
