@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=TA6y-oRT1w0)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=E3GL3PuBa7c)
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 ekonomi bakarı bernard redflag-->
 <!-- https://www.youtube.com/watch?v=YzR49E6K7sA dol -->
 <!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 eye of ra-->
