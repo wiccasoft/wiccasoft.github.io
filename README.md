@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.bbc.com/news/technology-49436077)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=qNa38FQJftg)
 <!-- https://www.youtube.com/watch?v=qNa38FQJftg Klanpesiamus-->
 <!-- https://www.youtube.com/watch?v=78AVFvbhOIY so much beauty -->
 <!-- https://www.youtube.com/watch?v=Q5EyOAvcuMk cengizhan -->
