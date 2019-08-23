@@ -1,6 +1,7 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=P3aZbylwOP0)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=FqDSaTKtQYA)
+<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rap çılgınlığı -->
 <!-- https://www.youtube.com/watch?v=E3GL3PuBa7c palu file -->
 <!-- https://www.youtube.com/watch?v=ueptJlYwka0 serkanlol ->
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 ekonomi bakarı bernard redflag-->
