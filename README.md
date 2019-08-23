@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=D6IYNhnxO0k)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=FqDSaTKtQYA)
 <!---https://www.youtube.com/watch?v=D6IYNhnxO0k karabulut -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rap çılgınlığı -->
 <!-- https://www.youtube.com/watch?v=E3GL3PuBa7c palu file -->
