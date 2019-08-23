@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/)
+[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=z3wAjJXbYzA)
 <!-- https://www.youtube.com/watch?v=YzR49E6K7sA dol -->
 <!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 eye of ra-->
 <!-- https://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/ -->
