@@ -1,9 +1,10 @@
 
 
-[![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=EIOc_X4w_M4)
+[![Image](mainstream/screen634.png)](https://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/)
 <!-- https://www.youtube.com/watch?v=YzR49E6K7sA dol -->
 <!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 eye of ra-->
-<!-- ttps://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/ -->
+<!-- https://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/ -->
+<!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 trvago ek ram operasyonu-->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc eko -->
 <!-- https://www.youtube.com/watch?v=BkSzIVoWl88 mansur -->
 <!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombi araç-->
