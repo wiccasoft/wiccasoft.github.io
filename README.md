@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=ecvEcHKZOH0)
+[![Image](mainstream/screen686.png)](http://streamer.psyradio.org:8010/;listen.mp3)
 <!-- https://www.youtube.com/watch?v=7AgidHMG0rU han solo -->
 [![Image](mainstream/screen680.png)](https://guides.lib.umich.edu/copyrightbasics/rights-of-users)
 <!-- https://www.youtube.com/watch?v=ecvEcHKZOH0 comin'foryou -->
