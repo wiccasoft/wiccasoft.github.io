@@ -1,4 +1,5 @@
 
+[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=ecvEcHKZOH0)
 [![Image](mainstream/screen680.png)](https://guides.lib.umich.edu/copyrightbasics/rights-of-users)
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
 <!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 horon -->
