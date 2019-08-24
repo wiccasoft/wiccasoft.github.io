@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen680.png)](https://www.youtube.com/watch?v=Tvt4TO_viG0)
+[![Image](mainstream/screen680.png)](https://www.ahaber.com.tr/video/spor-videolari/abdurrahim-albayraktan-flas-falcao-aciklamasi-video)
 <!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 -->
 
 [![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=hXfbVIFc6t4)
