@@ -1,6 +1,7 @@
 
-[![Image](mainstream/screen680.png)](https://www.ahaber.com.tr/video/spor-videolari/abdurrahim-albayraktan-flas-falcao-aciklamasi-video)
+[![Image](mainstream/screen680.png)](https://www.youtube.com/watch?v=5Qz0DJLtcoY )
 <!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 -->
+<!-- https://www.youtube.com/watch?v=5Qz0DJLtcoY olukjlu keytenjeye -->
 
 [![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=hXfbVIFc6t4)
 <!-- https://www.youtube.com/watch?v=qSqVVswa420 maverick-->
