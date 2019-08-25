@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerine-sorulmak-istenenler-sorular/&w=bg)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg)
 <!-- ttps://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
 <!-- https://www.ahaber.com.tr/video/gundem-videolari/kemal-kilicdaroglundan-dogu-akdeniz-ile-ilgili-akla-zarar-sozler-video -->
 <!-- https://www.uludagsozluk.com/k/ya-kapan%C4%B1rs%C4%B1n-yoksa-ben-evlenmem-diyen-erkek/ -->
