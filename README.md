@@ -1,6 +1,7 @@
 
-[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=Zb8qVLsXwLQ)
-<!-- ttps://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/g%C3%B6%C4%9Fs%C3%BC-k%C4%B1ll%C4%B1-erkek/)
+<!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver müsüğü -->
+<!-- https://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
 <!-- https://www.ahaber.com.tr/video/gundem-videolari/kemal-kilicdaroglundan-dogu-akdeniz-ile-ilgili-akla-zarar-sozler-video -->
 <!-- https://www.uludagsozluk.com/k/ya-kapan%C4%B1rs%C4%B1n-yoksa-ben-evlenmem-diyen-erkek/ -->
 <!-- https://www.youtube.com/watch?v=vimwFR6RRpM ramos -->
