@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/1-milyon-dolar-verseler-1-milyon-dolar-al%C4%B1r-m%C4%B1s%C4%B1n/)
+[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/diyen-erkek/)
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
 <!-- https://www.uludagsozluk.com/k/diagne-yi-diagne-diye-okuyan-tip/ -->
 <!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
