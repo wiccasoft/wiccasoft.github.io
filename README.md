@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/alfa-erkek/&w=bg )
+[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/evlili%C4%9Fi-bedava-seks-olarak-g%C3%B6ren-erkek/&w=bg )
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
 <!-- https://www.uludagsozluk.com/k/diagne-yi-diagne-diye-okuyan-tip/ -->
 <!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
