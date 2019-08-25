@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/kara-ka%C5%9Fl%C4%B1-kara-g%C3%B6zl%C3%BC-kara-sa%C3%A7l%C4%B1-balkan-g%C3%B6%C3%A7meni/)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/google-a-%C3%A7ay-i%C3%A7en-day%C4%B1-yaz%C4%B1p-2nci-foto%C4%9Frafa-bakmak/)
 <!-- https://www.youtube.com/watch?v=d85d7bEq208 bayrecep -->
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver müsüğü -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
