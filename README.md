@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=Zb8qVLsXwLQ)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/rasim-ozan-k%C3%BCtahyal%C4%B1/&w=bg)
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver müsüğü -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
 <!-- https://www.ahaber.com.tr/video/gundem-videolari/kemal-kilicdaroglundan-dogu-akdeniz-ile-ilgili-akla-zarar-sozler-video -->
