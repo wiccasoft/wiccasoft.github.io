@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.instagram.com/cagatayulusoy/?hl=en)
+[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=d85d7bEq208)
 <!-- ttps://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
 <!-- https://www.ahaber.com.tr/video/gundem-videolari/kemal-kilicdaroglundan-dogu-akdeniz-ile-ilgili-akla-zarar-sozler-video -->
 <!-- https://www.uludagsozluk.com/k/ya-kapan%C4%B1rs%C4%B1n-yoksa-ben-evlenmem-diyen-erkek/ -->
