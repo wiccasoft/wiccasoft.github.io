@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/ya-kapan%C4%B1rs%C4%B1n-yoksa-ben-evlenmem-diyen-erkek/)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/)
 <!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
 <!-- https://www.uludagsozluk.com/k/google-a-%C3%A7ay-i%C3%A7en-day%C4%B1-yaz%C4%B1p-2nci-foto%C4%9Frafa-bakmak/ işsizlik lewvel 9999 -->
 <!-- https://www.youtube.com/watch?v=d85d7bEq208 bayrecep -->
