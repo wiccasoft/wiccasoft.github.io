@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/pkk-l%C4%B1larla-g%C3%B6r%C3%BCnt%C3%BClenen-hdp-li-vekiller/)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/google-a-%C3%A7ay-i%C3%A7en-day%C4%B1-yaz%C4%B1p-2nci-foto%C4%9Frafa-bakmak/)
 <!-- https://www.youtube.com/watch?v=d85d7bEq208 bayrecep -->
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver müsüğü -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
