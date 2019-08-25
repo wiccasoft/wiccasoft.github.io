@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/nam%C4%B1k-isimli-erkekeler/)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F-pen%C3%A7e3-operasyonu/)
 <!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
 <!-- https://www.uludagsozluk.com/k/google-a-%C3%A7ay-i%C3%A7en-day%C4%B1-yaz%C4%B1p-2nci-foto%C4%9Frafa-bakmak/ işsizlik lewvel 9999 -->
 <!-- https://www.youtube.com/watch?v=d85d7bEq208 bayrecep -->
