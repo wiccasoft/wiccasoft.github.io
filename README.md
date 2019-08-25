@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/fenerlilerin-in%C3%B6n%C3%BC-stad%C4%B1n%C4%B1-basmas%C4%B1/)
+[![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F-pen%C3%A7e3-operasyonu/)
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
 <!-- https://www.uludagsozluk.com/k/diagne-yi-diagne-diye-okuyan-tip/ -->
 <!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
