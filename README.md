@@ -1,6 +1,6 @@
-
+[![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=Dys1_TuUmI4 )
 [![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=nqkY1IkhrWU )
-<!-- https://www.youtube.com/watch?v=Dys1_TuUmI4 cryformoon -->
+
 <!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
 <!-- https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
