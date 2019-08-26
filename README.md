@@ -1,6 +1,6 @@
 
-[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=YTcLK3yxtFg )
-
+[![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=nqkY1IkhrWU )
+<!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
 <!-- https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun --> 
