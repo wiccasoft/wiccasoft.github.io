@@ -1,6 +1,6 @@
 [![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=r_3k-DD6Op4 )
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
-[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/frodonun-embesilin-teki-olmas%C4%B1/)
+[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-kad%C4%B1nlara-uygulanan-pozitif-ayr%C4%B1mc%C4%B1l%C4%B1k/)
 
 <!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
