@@ -1,6 +1,6 @@
 [![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=r_3k-DD6Op4 )
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
-[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/laz-ziya-g%C3%BClerken-ensesine-%C5%9Faplak-atmak/ )
+[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/ )
 
 <!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
