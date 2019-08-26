@@ -1,4 +1,4 @@
-[![Image](mainstream/screen700.png)]( https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-bronz-teni/)
+[![Image](mainstream/screen700.png)](https://www.uludagsozluk.com/k/sevgilisiyle-gratis-e-giren-erkek/&w=bg)
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
 [![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=PeIVhIwE8zU)
 
