@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/)
+[![Image](mainstream/screen686.png)]( https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 )
 <!--  https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M feridun --> 
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/ kasapopolukızlar -->
