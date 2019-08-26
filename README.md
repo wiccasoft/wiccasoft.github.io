@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=Tvt4TO_viG0 )
+[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/)
 
 <!-- https://www.youtube.com/watch?v=dR3ccmWmLhk wake up -->
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
