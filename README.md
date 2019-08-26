@@ -1,7 +1,7 @@
-[![Image](mainstream/screen700.png)]( hhttps://www.uludagsozluk.com/k/ivana-sert-vurdu-ve-gol/)
+[![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=r_3k-DD6Op4)
 <!-- https://www.uludagsozluk.com/k/harun-kol%C3%A7ak-vs-soner-ar%C4%B1ca/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/ahlat-ta-k%C3%BClliyenin-yan%C4%B1nda-butik-otel-yapaca%C4%9F%C4%B1z/ -->
-<!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
+<!-- httpcr kurtbeats -->
 [![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/ivana-sert-vurdu-ve-gol/)
 
 <!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
