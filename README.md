@@ -1,6 +1,6 @@
 [![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=r_3k-DD6Op4 )
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
-[![Image](mainstream/screen686.png)](hhttps://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F-a-ba%C4%9Flama-b%C3%BCy%C3%BCs%C3%BC-yapmak/)
+[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=PeIVhIwE8zU)
 
 <!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
