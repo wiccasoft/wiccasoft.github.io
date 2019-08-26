@@ -6,7 +6,6 @@
 <!-- https://www.uludagsozluk.com/k/diagne-yi-diagne-diye-okuyan-tip/ -->
 <!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
 <!-- https://www.uludagsozluk.com/k/google-a-%C3%A7ay-i%C3%A7en-day%C4%B1-yaz%C4%B1p-2nci-foto%C4%9Frafa-bakmak/ işsizlik lewvel 9999 -->
-<!-- https://www.youtube.com/watch?v=d85d7bEq208 bayrecep -->
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver müsüğü -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
 <!-- https://www.ahaber.com.tr/video/gundem-videolari/kemal-kilicdaroglundan-dogu-akdeniz-ile-ilgili-akla-zarar-sozler-video -->
