@@ -1,4 +1,4 @@
-[![Image](mainstream/screen700.png)](https://www.uludagsozluk.com/k/harun-kol%C3%A7ak-vs-soner-ar%C4%B1ca/&w=bg)
+[![Image](mainstream/screen700.png)](https://www.uludagsozluk.com/k/eftalya-fettaho%C4%9Flu/)
 <!-- https://www.uludagsozluk.com/k/ahlat-ta-k%C3%BClliyenin-yan%C4%B1nda-butik-otel-yapaca%C4%9F%C4%B1z/ -->
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
 [![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=PeIVhIwE8zU)
