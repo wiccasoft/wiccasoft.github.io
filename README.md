@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=7JJH5GZPJNw )
+[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=YTcLK3yxtFg )
 
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
 <!-- https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
