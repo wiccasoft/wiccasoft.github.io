@@ -1,6 +1,6 @@
 [![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=r_3k-DD6Op4 )
 <!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
-[![Image](mainstream/screen686.png)]( https://www.uludagsozluk.com/k/frodo-siktir-et-y%C3%BCz%C3%BC%C4%9F%C3%BC-gel-ma%C3%A7-yapak-diyen-sam/)
+[![Image](mainstream/screen686.png)](https://www.youtube.com/watch?v=zwJ4SWZddBA)
 
 <!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
