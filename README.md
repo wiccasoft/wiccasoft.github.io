@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799)
+[![Image](mainstream/screen686.png)]( https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 )
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/ kasapopolukızlar -->
 <!-- https://www.youtube.com/watch?v=dR3ccmWmLhk wake up -->
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
