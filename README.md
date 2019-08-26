@@ -1,5 +1,5 @@
 
-[![Image](mainstream/screen686.png)]( http://streamer.psyradio.org:8020/;listen.mp3 )
+[![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=dR3ccmWmLhk )
 
 <!-- https://www.youtube.com/watch?v=dR3ccmWmLhk wake up -->
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
