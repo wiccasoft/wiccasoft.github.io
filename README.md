@@ -1,7 +1,7 @@
 
 [![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=nqkY1IkhrWU )
 <!--  https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
-<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M feridun --> 
+<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M yanısyısunferidunabi --> 
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/ kasapopolukızlar -->
 <!-- https://www.youtube.com/watch?v=dR3ccmWmLhk wake up -->
 <!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
