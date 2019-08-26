@@ -1,8 +1,8 @@
 
-[![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=PHPlZre-skU )
+[![Image](mainstream/screen686.png)]( https://www.youtube.com/watch?v=nqkY1IkhrWU U )
 
 <!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
-<!--  https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
+<!-- https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun --> 
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/ kasapopolukızlar -->
 <!-- https://www.youtube.com/watch?v=dR3ccmWmLhk wake up -->
