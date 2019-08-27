@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=OlNtUdV-mzc magnum turkey -->
 <!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombiecars -->
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
 [![Image](mainstream/screen700.png)]( https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/)
