@@ -1,5 +1,6 @@
 <!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombiecars -->
-[![Image](mainstream/screen700.png)]( https://www.youtube.com/watch?v=I5bIQWjUS7o )
+<!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
+[![Image](mainstream/screen700.png)]( https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/)
 <!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
 <!-- https://www.youtube.com/watch?v=2GSS6rSn5Gk&feature=youtu.be&t=8  -->
 <!-- https://www.youtube.com/watch?v=r_3k-DD6Op4 -->
