@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
 <!-- https://www.youtube.com/watch?v=RF60iDaoEPw tomoorrowland -->
 <!-- http://streamer.psyradio.org:8010/stream prog -->
-[![Image](mainstream/screen707.png)]( https://www.youtube.com/watch?v=RF60iDaoEPw )
+[![Image](mainstream/screen707.png)]( https://www.uludagsozluk.com/e/11770110/)
 
 <!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
 <!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
