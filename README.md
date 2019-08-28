@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/frodo-nun-y%C3%BCz%C3%BC%C4%9F%C3%BC-galadriel-e-teklif-etmesi/&w=bg )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it/ )
 <!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
 <!-- https://hackfreeonline.com/hack-instagram/ freehack --<
 <!-- https://www.uludagsozluk.com/e/42046389/ -->
