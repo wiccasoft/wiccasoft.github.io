@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://eksisozluk.com/instagramda-kadinlara-video-ile-yuruyen-tip--6158808?a=popular)
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it/&w=gd)
 <!-- https://www.youtube.com/watch?v=OlNtUdV-mzc magnum turkey -->
 <!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombiecars -->
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
