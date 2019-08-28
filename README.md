@@ -8,7 +8,7 @@
 <!-- https://www.youtube.com/watch?v=DOIQ5i87-Kg lol -->
 <!-- https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it/ itogliit -->
 <!-- https://www.youtube.com/watch?v=RF60iDaoEPw  stream -->
-[![Image](mainstream/screen707.png)]( https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it/)
+[![Image](mainstream/screen707.png)]( https://eksisozluk.com/instagramda-kadinlara-video-ile-yuruyen-tip--6158808?a=popular)
 <!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd sms
 <!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
 <!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
