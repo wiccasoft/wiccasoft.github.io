@@ -5,7 +5,7 @@
 <!-- http://streamer.psyradio.org:8010/stream prog -->
 <!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd -->
 <!-- https://www.uludagsozluk.com/e/11770110/ 15 miyon uero para mı lan it -->
-[![Image](mainstream/screen707.png)]( https://www.uludagsozluk.com/e/11770110/)
+[![Image](mainstream/screen707.png)](https://www.youtube.com/watch?v=Tvt4TO_viG0)
 <!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd sms
 <!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
 <!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
