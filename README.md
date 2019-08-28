@@ -5,6 +5,7 @@
 <!-- http://streamer.psyradio.org:8010/stream prog -->
 <!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd -->
 <!-- https://www.uludagsozluk.com/e/11770110/ 15 miyon uero para mı lan it -->
+<!-- https://www.youtube.com/watch?v=DOIQ5i87-Kg lol -->
 
 [![Image](mainstream/screen707.png)]( https://www.youtube.com/watch?v=RF60iDaoEPw )
 <!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd sms
