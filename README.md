@@ -3,8 +3,9 @@
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
 <!-- https://www.youtube.com/watch?v=RF60iDaoEPw tomoorrowland -->
 <!-- http://streamer.psyradio.org:8010/stream prog -->
+<!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd --> 
 [![Image](mainstream/screen707.png)]( https://www.uludagsozluk.com/e/11770110/)
-
+<!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd sms
 <!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
 <!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
 <!-- https://www.youtube.com/watch?v=2GSS6rSn5Gk&feature=youtu.be&t=8  -->
