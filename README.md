@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/ad%C4%B1-mete-olan-erke%C4%9Fin-delikanl%C4%B1-olma-ihtimali/ )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/frodo-nun-y%C3%BCz%C3%BC%C4%9F%C3%BC-galadriel-e-teklif-etmesi/&w=bg )
 <!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
 <!-- https://hackfreeonline.com/hack-instagram/ freehack --<
 <!-- https://www.uludagsozluk.com/e/42046389/ -->
