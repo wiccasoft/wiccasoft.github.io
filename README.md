@@ -1,4 +1,5 @@
-[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/ad%C4%B1-mete-olan-erke%C4%9Fin-delikanl%C4%B1-olma-ihtimali/ )
+<!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
 <!-- https://hackfreeonline.com/hack-instagram/ freehack --<
 <!-- https://www.uludagsozluk.com/e/42046389/ -->
 <!-- https://www.youtube.com/watch?v=OlNtUdV-mzc magnum turkey -->
