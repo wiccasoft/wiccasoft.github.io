@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)](https://www.youtube.com/watch?v=Tvt4TO_viG0)
+[![Image](mainstream/screen708.png)](https://www.flickr.com/photos/porahov/)
 <!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
 <!-- https://hackfreeonline.com/hack-instagram/ freehack --<
 <!-- https://www.uludagsozluk.com/e/42046389/ -->
