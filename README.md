@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=OlNtUdV-mzc magnum turkey -->
 <!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombiecars -->
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
-[![Image](mainstream/screen705.png)]( https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/)
+[![Image](mainstream/screen705.png)]( http://streamer.psyradio.org:8010/;listen.mp3)
 
 <!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
 <!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
