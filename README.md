@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=Tvt4TO_viG0  )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/engelli-%C3%A7ocu%C4%9Funu-g%C3%B6sterip-ac%C4%B1nd%C4%B1rmaya-%C3%A7al%C4%B1%C5%9Fmak/  )
 <!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA karımitgibirapyapacak -->
