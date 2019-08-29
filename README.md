@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)](  https://www.uludagsozluk.com/e/42053016/ )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/deniz-baykal-ve-kar%C4%B1s%C4%B1n%C4%B1-cay%C4%B1r-cay%C4%B1r-aldatmas%C4%B1/&w=gd )
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA karımitgibirapyapacak -->
 <!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
