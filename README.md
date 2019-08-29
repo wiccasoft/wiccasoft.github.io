@@ -1,4 +1,5 @@
-[![Image](mainstream/screen708.png)](  https://www.youtube.com/watch?v=FqDSaTKtQYA  )
+[![Image](mainstream/screen708.png)](https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ )
+<!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rapçiulucu -->
 <!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
 <!-- https://www.uludagsozluk.com/e/42053016/ aqevladı -->
