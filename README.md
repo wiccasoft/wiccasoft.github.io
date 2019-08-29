@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)](https://www.uludagsozluk.com/e/42053016)
+[![Image](mainstream/screen708.png)](https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it)
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rapçiulucu -->
 <!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
 <!-- https://www.uludagsozluk.com/e/42053016/ aqevladı -->
