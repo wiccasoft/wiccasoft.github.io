@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=l_lblj8Cq0o  )
+[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=Tvt4TO_viG0  )
 <!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA karımitgibirapyapacak -->
