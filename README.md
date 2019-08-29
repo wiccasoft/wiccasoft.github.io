@@ -1,4 +1,6 @@
 [![Image](mainstream/screen708.png)](https://www.uludagsozluk.com/e/42053016/)
+<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA topçularaküfreden ergen -->
+<!-- https://www.uludagsozluk.com/e/42053016/ aqevladı -->
 <!-- https://www.youtube.com/watch?v=UAlRf9qf9d0 ThePhantom Agony -->
 <!-- https://variety.com/2015/digital/news/vivendi-buys-majority-stake-in-winamp-shoutcast-owner-radionomy-1201664170/ -->
 <!-- https://www.youtube.com/watch?v=qwn3QzsZJGY hisbant -->
