@@ -1,5 +1,5 @@
 [![Image](mainstream/screen708.png)](https://www.uludagsozluk.com/e/42053016/  )
-<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA topçularaküfreden ergen -->
+<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rapçiulucu -->
 <!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
 <!-- https://www.uludagsozluk.com/e/42053016/ aqevladı -->
 <!-- https://www.youtube.com/watch?v=UAlRf9qf9d0 ThePhantom Agony -->
