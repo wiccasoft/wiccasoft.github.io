@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)](https://www.youtube.com/watch?v=qwn3QzsZJGY)
+[![Image](mainstream/screen708.png)](https://variety.com/2015/digital/news/vivendi-buys-majority-stake-in-winamp-shoutcast-owner-radionomy-1201664170/)
 <!-- https://www.flickr.com/photos/porahov/2305066314/in/photostream/ -->
 <!-- https://www.uludagsozluk.com/k/eve-at%C4%B1lan-erke%C4%9Fi-unicorn-boynuzuyla-d%C3%B6vmek/ unicorn lol -->
 <!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
