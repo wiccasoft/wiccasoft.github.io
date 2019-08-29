@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1-dinledik-3-%C3%A7ocuk-yapt%C4%B1k-%C3%A7ok-pi%C5%9Fman%C4%B1z/ )
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA karımitgibirapyapacak -->
 <!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
