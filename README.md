@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/namus-s%C3%B6z%C3%BC-veriyorum-hi%C3%A7bir-i%C5%9F%C3%A7i-%C3%A7%C4%B1kar%C4%B1lmayacak/  )
+[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=gnIFwhjpH3s  )
 <!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA karımitgibirapyapacak -->
