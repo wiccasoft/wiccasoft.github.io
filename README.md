@@ -1,4 +1,4 @@
-[![Image](mainstream/screen708.png)](https://www.youtube.com/watch?v=FqDSaTKtQYA )
+[![Image](mainstream/screen708.png)](https://www.uludagsozluk.com/e/42053016/  )
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA topçularaküfreden ergen -->
 <!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
 <!-- https://www.uludagsozluk.com/e/42053016/ aqevladı -->
