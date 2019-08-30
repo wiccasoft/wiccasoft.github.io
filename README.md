@@ -2,6 +2,7 @@
 
 [![Image](mainstream/screen709.png)](https://www.uludagsozluk.com/k/webo-nun-tolunay-cinci-ye-yapt%C4%B1%C4%9F%C4%B1-faul/ )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA)
+<!-- https://www.uludagsozluk.com/k/webo-nun-tolunay-cinci-ye-yapt%C4%B1%C4%9F%C4%B1-faul/  net faul -->
 <!-- https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/ be the moon -->
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
 <!-- https://www.timeanddate.com/moon/phases/uk/london blacksupermoon--<
