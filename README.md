@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
+[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/galatasaray-%C4%B1n-2-y%C4%B1ld%C4%B1z%C4%B1n%C4%B1n-silinmesi/)
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w gerizkelaı türkler -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 faggotsland -->
