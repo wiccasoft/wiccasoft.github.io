@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/seren-serengil-in-kocas%C4%B1n%C4%B1n-ses-kayd%C4%B1/)
+[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=gnIFwhjpH3s )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
