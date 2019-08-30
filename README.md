@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)](http://fetogercekleri.com/fetullah-gulen-kimdir/)
+[![Image](mainstream/screen709.png)](https://www.youtube.com/watch?v=EPh90QYPXQs)
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
