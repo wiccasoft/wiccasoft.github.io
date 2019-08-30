@@ -1,7 +1,7 @@
 
 
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=tT4TjDj12uI)
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FxyAFtEGFhQ )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/seren-serengil-in-kocas%C4%B1n%C4%B1n-ses-kayd%C4%B1/ )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
 <!-- https://www.uludagsozluk.com/k/seren-serengil-in-kocas%C4%B1n%C4%B1n-ses-kayd%C4%B1/ serengilin kocası ses kaydı -->
