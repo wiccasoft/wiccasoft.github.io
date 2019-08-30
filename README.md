@@ -1,7 +1,8 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
+[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
+<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w gerizkelaı türkler -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 faggotsland -->
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip serengilin kocası ses kaydı -->
