@@ -2,7 +2,7 @@
 
 [![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/)
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA)
-
+<!-- https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/ be the moon -->
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
 <!-- https://www.timeanddate.com/moon/phases/uk/london blacksupermoon--<
 <!-- https://www.youtube.com/watch?v=ktX3_l_Tm78 howto -->
