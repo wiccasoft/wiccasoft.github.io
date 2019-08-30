@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=FxyAFtEGFhQ  )
+[![Image](mainstream/screen709.png)](http://www.hurriyet.com.tr/sporarena/galeri-flas-iddia-f-bahce-g-sarayi-sollar-cunku-41060746  )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
