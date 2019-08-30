@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.internet-radio.com/station/psyradio.fm/ )
+[![Image](mainstream/screen709.png)]( https://www.internet-radio.com/player/?mount=http://81.88.36.42:8010/listen.pls&title=psyradio%20*%20fm%20-%20progressive&website=http://psyradio.fm )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
