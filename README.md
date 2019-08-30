@@ -1,7 +1,7 @@
 
 
 [![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/)
-[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/)
+[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA)
 
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
 <!-- https://www.timeanddate.com/moon/phases/uk/london blacksupermoon--<
