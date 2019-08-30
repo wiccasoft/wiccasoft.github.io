@@ -1,7 +1,7 @@
 
 
 [![Image](mainstream/screen709.png)](https://www.timeanddate.com/moon/phases/uk/london)
-[![Image](mainstream/screen708.png)]( hhttps://www.express.co.uk/news/science/1171066/Black-Moon-2019-when-is-Black-Moon-meaning-August-New-Moon)
+[![Image](mainstream/screen708.png)](https://www.telegraph.co.uk/news/0/black-super-new-moon-2019-will-able-see-lunar-event-uk/)
 <!-- https://www.youtube.com/watch?v=ktX3_l_Tm78 howto -->
 <!-- https://www.youtube.com/watch?v=8lNmIqlSk18 trapzone -->
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ houyda -->
