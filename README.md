@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/real-madrid-ile-yar%C4%B1m-kalm%C4%B1%C5%9F-bir-hesab%C4%B1m%C4%B1z-var/ )
+[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=BSzFIAXtXmk )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FxyAFtEGFhQ  )
 
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
