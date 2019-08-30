@@ -1,8 +1,8 @@
 
 
-[![Image](mainstream/screen709.png)](https://www.uludagsozluk.com/k/telefonu-kula%C4%9F%C4%B1yla-t%C3%BCrban%C4%B1-aras%C4%B1na-s%C4%B1k%C4%B1%C5%9Ft%C4%B1ran-k%C4%B1z/&w=bg )
+[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
-<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w gerizkelaı türkler -->
+<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w gerizekelı çomar türkler -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 faggotsland -->
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip serengilin kocası ses kaydı -->
