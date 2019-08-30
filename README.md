@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/imamo%C4%9Flu-batakl%C4%B1%C4%9F%C4%B1n-suyunu-kesince-ha%C5%9Fereler-yand%C4%B1/)
+[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/seren-serengil-in-kocas%C4%B1n%C4%B1n-ses-kayd%C4%B1/)
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=gnIFwhjpH3s )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
