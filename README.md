@@ -1,7 +1,7 @@
 
 
 [![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/)
-[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/seren-serengil-in-kocas%C4%B1n%C4%B1n-ses-kayd%C4%B1/ )
+[![Image](mainstream/screen708.png)]( https://www.uludagsozluk.com/k/sar%C4%B1%C5%9F%C4%B1n-t%C3%BCrk/)
 
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
 <!-- https://www.timeanddate.com/moon/phases/uk/london blacksupermoon--<
