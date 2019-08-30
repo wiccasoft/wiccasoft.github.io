@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=BSzFIAXtXmk )
+[![Image](mainstream/screen709.png)]( https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/)
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FxyAFtEGFhQ  )
 
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
