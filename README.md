@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=EPh90QYPXQs )
+[![Image](mainstream/screen709.png)]( https://twitter.com/fatihterim/status/943934216177319936?lang=en )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
 
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
