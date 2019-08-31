@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)](https://www.uludagsozluk.com/k/esad-%C4%B1n-d%C3%BC%C5%9Fmeme-nedeni/&w=bg)
+[![Image](mainstream/screen715.png)](https://www.uludagsozluk.com/k/saat-satan-zenciler/&w=gd )
 [![Image](mainstream/screen709.png)]( https://www.space.com/34162-black-moon-guide.html )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
