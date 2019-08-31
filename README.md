@@ -2,7 +2,7 @@
 
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=d2t9v2iZq9k )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=Ru7PdAdLdUA )
+[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
 
 <!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next next -->
 <!-- https://www.youtube.com/watch?v=Ru7PdAdLdUA perde arkası falcao oyunları  -->
@@ -13,7 +13,7 @@
 <!-- https://www.youtube.com/watch?v=7ESijMjarZo maldini -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansı futbol savaşları -->
 <!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
-<!-- https://www.youtube.com/watch?v=yFG3266htmQ Başbakan Erdoğan Maç & Başakşehir Açılış -9 (MaçBaşlıyor) -->
+<!-- https://www.youtube.com/watch?v=yFG3266htmQ Başakşehir Açılış -9 (MaçBaşlıyor) -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM ezan mix -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg dünyanın en yahuşuhlu 11'i -->
 <!-- https://www.youtube.com/watch?v=l-hh0f2oiHU dünyanın en iyi 11'i -->
