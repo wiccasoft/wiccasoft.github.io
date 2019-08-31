@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=_pcWD8XLhPI )
+[![Image](mainstream/screen715.png)]( https://www.diyanet.gov.tr )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=_pcWD8XLhPI  arsenal gs -->
