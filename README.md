@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=Dm6sSQ-UhJg )
+[![Image](mainstream/screen715.png)]( https://www.uludagsozluk.com/k/mevl%C3%BCt-erdin%C3%A7/22/ )
 [![Image](mainstream/screen709.png)]( https://www.space.com/34162-black-moon-guide.html )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=Dm6sSQ-UhJg behind -->
