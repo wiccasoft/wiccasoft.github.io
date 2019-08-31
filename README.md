@@ -1,10 +1,11 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=l-hh0f2oiHU )
+[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 
 <!-- https://www.diyanet.gov.tr -->
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ezan mix -->
 <!-- https://www.youtube.com/watch?v=l-hh0f2oiHU dünyanın en iyi 11'i -->
 <!-- https://www.youtube.com/watch?v=fR9ZLJo6Pc4 alev şeklinde bir top -->
 <!-- https://www.youtube.com/watch?v=WyyQSBZd9hI düğündernek -->
