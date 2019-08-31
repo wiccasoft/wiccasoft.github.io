@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=Dm6sSQ-UhJg )
+[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=TA6y-oRT1w0 )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w gerizekelı çomar türkler -->
