@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
+[![Image](mainstream/screen715.png)](https://www.google.com.tr/search?ei=Uq9qXeCCNIeimwWYuqPoCw&q=android+who+developed&oq=android+who+develeop&gs_l=psy-ab.3.0.0i13.23519.25382..26507...0.4..0.180.1908.0j12......0....1..gws-wiz.......0i71j0i203j0i20i263j0j0i22i30j0i22i10i30.GTHwcynmkZ4 )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=WyyQSBZd9hI )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 
