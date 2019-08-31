@@ -5,8 +5,10 @@
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 
 <!-- https://www.diyanet.gov.tr -->
+<!--https://www.youtube.com/watch?v=fR9ZLJo6Pc4 alev şeklinde bir top -->
+<!-- https://www.youtube.com/watch?v=WyyQSBZd9hI düğündernek -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu köfte -->
-<!-- https://www.youtube.com/watch?v=_pcWD8XLhPI  arsenal gs -->
+<!-- https://www.youtube.com/watch?v=_pcWD8XLhPI arsenal gs -->
 <!-- https://www.space.com/34162-black-moon-guide.html -->
 <!-- https://www.youtube.com/watch?v=BVvsFyqZgYI hürriyet -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynımodel gibin -->
