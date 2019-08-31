@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=5SM-nA5l2HU )
+[![Image](mainstream/screen715.png)](  https://www.youtube.com/watch?v=FxyAFtEGFhQ )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=5SM-nA5l2HU winteriscomin -->
@@ -12,8 +12,6 @@
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 faggotsland -->
 <!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next -->
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip serengilin kocası ses kaydı -->
-<!-- https://www.uludagsozluk.com/k/webo-nun-tolunay-cinci-ye-yapt%C4%B1%C4%9F%C4%B1-faul/  net faul -->
 <!-- https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/ be the moon -->
 <!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
 <!-- https://www.timeanddate.com/moon/phases/uk/london blacksupermoon--<
