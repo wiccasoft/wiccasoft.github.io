@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.uludagsozluk.com/k/rte-posteri-yakan-suriyeliler/&w=bg)
+[![Image](mainstream/screen715.png)](https://www.uludagsozluk.com/k/i%C5%9Ften-at%C4%B1lan-ibb-personelinin-adalet-aramas%C4%B1/)
 [![Image](mainstream/screen709.png)]( https://www.space.com/34162-black-moon-guide.html )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
