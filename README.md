@@ -4,7 +4,7 @@
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 
-<!-- https://www.youtube.com/watch?v=Ru7PdAdLdUA perde arkası derin falcao oyunları  -->
+<!-- https://www.youtube.com/watch?v=Ru7PdAdLdUA perde arkası falcao oyunları  -->
 <!-- https://www.youtube.com/watch?v=HMQ-BwVIUqg dış mihrakarın falcao oyunu -->
 <!-- https://www.youtube.com/watch?v=dYH8DFHsI0s sammata vs falcao -->
 <!-- https://www.youtube.com/watch?v=d2t9v2iZq9k falcao -->
@@ -52,7 +52,7 @@
 <!-- https://www.youtube.com/watch?v=UAlRf9qf9d0 ThePhantom Agony -->
 <!-- https://variety.com/2015/digital/news/vivendi-buys-majority-stake-in-winamp-shoutcast-owner-radionomy-1201664170/ -->
 <!-- https://www.youtube.com/watch?v=qwn3QzsZJGY hisbant -->
-<!-- https://www.flickr.com/photos/porahov/2305066314/in/photostream/ -->
+
 <!-- https://www.uludagsozluk.com/k/eve-at%C4%B1lan-erke%C4%9Fi-unicorn-boynuzuyla-d%C3%B6vmek/ unicorn lol -->
 <!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
 <!-- https://hackfreeonline.com/hack-instagram/ freehack --<
