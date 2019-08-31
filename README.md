@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.uludagsozluk.com/k/vedat-muriqi-vs-radamel-falcao/&w=bg )
+[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=l-hh0f2oiHU )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 
