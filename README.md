@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://eksisozluk.com/ibb-calisanlarinin-imamoglu-karsisinda-oturuslari--6161901?a=popular )
+[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=fvF1y68ThWU )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=RDxn3OuKO8w )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.diyanet.gov.tr -->
