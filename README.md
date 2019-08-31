@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.uludagsozluk.com/k/mevl%C3%BCt-erdin%C3%A7/&w=bg )
+[![Image](mainstream/screen715.png)]( https://www.uludagsozluk.com/k/o%C4%9Fluna-tecav%C3%BCz-edenin-k%C4%B1z%C4%B1na-tecav%C3%BCz-eden-adam/ )
 [![Image](mainstream/screen709.png)]( https://www.space.com/34162-black-moon-guide.html )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.uludagsozluk.com/k/mevl%C3%BCt-erdin%C3%A7/&w=bg mevlüt -->
