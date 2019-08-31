@@ -1,6 +1,6 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.kizlarsoruyor.com/gundem/q98757-saat-satan-zenciler-hakkinda-ne-dusunuyorsunuz )
+[![Image](mainstream/screen715.png)]( https://tr.sputniknews.com/ortadogu/201908301040052616-gorunen-o-ki-rusya-esad-ve-ordusuna-ilerleyisini-durdurma-cagrisi-yapti/)
 [![Image](mainstream/screen709.png)]( https://www.space.com/34162-black-moon-guide.html )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 <!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
