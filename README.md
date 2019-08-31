@@ -4,7 +4,7 @@
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
 
-<!-- https://www.diyanet.gov.tr -->
+<!-- https://www.youtube.com/watch?v=HMQ-BwVIUqg dış mihrakarın falcao oyunu -->
 <!-- https://www.youtube.com/watch?v=dYH8DFHsI0s sammata vs falcao -->
 <!-- https://www.youtube.com/watch?v=d2t9v2iZq9k falcao -->
 <!-- https://www.youtube.com/watch?v=iWdcovDiTGI ir peri masalı -->
