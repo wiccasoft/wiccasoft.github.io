@@ -2,8 +2,9 @@
 
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=d2t9v2iZq9k )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=IgTsQIkRJB4 )
+[![Image](mainstream/screen708.png)]( https://www.ekremimamoglu.com/ekrem-imamoglu-kimdir/ )
 
+<!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next next -->
 <!-- https://www.youtube.com/watch?v=Ru7PdAdLdUA perde arkası falcao oyunları  -->
 <!-- https://www.youtube.com/watch?v=HMQ-BwVIUqg dış mihrakarın falcao oyunu -->
 <!-- https://www.youtube.com/watch?v=dYH8DFHsI0s sammata vs falcao -->
