@@ -1,17 +1,15 @@
 
 
-[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
+[![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=788Yr7XoP2g )
+
 <!-- https://www.youtube.com/watch?v=TautiJV2j9Q box -->
 <!-- https://www.youtube.com/watch?v=788Yr7XoP2g bash pipe-->
 <!-- https://www.youtube.com/watch?v=9sPHaPhBhzU futbol -->
 <!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next next -->
-<!-- https://www.youtube.com/watch?v=Ru7PdAdLdUA perde arkası falcao oyunları  -->
-<!-- https://www.youtube.com/watch?v=HMQ-BwVIUqg dış mihrakarın falcao oyunu -->
-<!-- https://www.youtube.com/watch?v=dYH8DFHsI0s sammata vs falcao -->
+
 <!-- https://www.youtube.com/watch?v=d2t9v2iZq9k falcao -->
-<!-- https://www.youtube.com/watch?v=iWdcovDiTGI ir peri masalı -->
 <!-- https://www.youtube.com/watch?v=7ESijMjarZo maldini -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansı futbol savaşları -->
 <!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
