@@ -2,7 +2,8 @@
 
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
-[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=FqDSaTKtQYA )
+[![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=788Yr7XoP2g )
+<!-- https://www.youtube.com/watch?v=788Yr7XoP2g bash pipe-->
 <!-- https://www.youtube.com/watch?v=9sPHaPhBhzU futbol -->
 <!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next next -->
 <!-- https://www.youtube.com/watch?v=Ru7PdAdLdUA perde arkası falcao oyunları  -->
