@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian.png)]( https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina)
+[![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=pHKlrP9Pte4 )
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
@@ -6,6 +6,7 @@
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=788Yr7XoP2g )
 
 <!-- https://chaturbate.com/elaanna/ -->
+<!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
 <!-- https://www.buzzfeed.com/andyneuenschwander/13-debra-morgan-quotes-for-anyone-who-loves-cursing -->
 <!-- https://www.uludagsozluk.com/k/falcao-yu-g%C3%B6r%C3%BCnce-k%C4%B1skan%C3%A7l%C4%B1ktan-kuduran-fenerli/ -->
 <!-- https://www.yenisafak.com/video-galeri/gundem/imamoglu-mezar-basinda-dua-etmeyi-unutan-esini-uyardi-2197532 -->
