@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian.png)]( https://www.uludagsozluk.com/k/konu%C5%9Fursam-gs-kupalar%C4%B1n%C4%B1-iade-etmek-zorunda-kal%C4%B1r/ )
+[![Image](mainstream/dorian.png)]( https://www.uludagsozluk.com/k/eksis%C3%B6zl%C3%BCk-te-yer-alan-garip-falcao-entrysi/ )
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
