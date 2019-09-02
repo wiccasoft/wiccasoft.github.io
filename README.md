@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian.png)]( https://www.cnnturk.com/video/turkiye/emine-erdogan-salda-golunu-hem-havadan-hem-karadan-inceledi )
+[![Image](mainstream/dorian.png)]( https://www.yeniakit.com.tr/haber/ak-partiden-ahmet-davutoglu-ve-ali-babacan-onlemi-911289.html)
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
