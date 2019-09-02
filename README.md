@@ -13,6 +13,7 @@
 <!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 lebowski -->
 <!-- https://www.youtube.com/watch?v=bUA4XhMH-Dc ironhand --> 
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg ölürümbrezliyam -->
+<!-- https://www.youtube.com/watch?v=XHSq7slClpE şeytanın hileleri -->
 <!-- https://chaturbate.com/elaanna/ -->
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
 <!-- https://www.buzzfeed.com/andyneuenschwander/13-debra-morgan-quotes-for-anyone-who-loves-cursing -->
