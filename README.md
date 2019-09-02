@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian.png)]( https://t24.com.tr/video/davutoglu-ndan-erdogan-a-bedelini-oderler-gondermesi,21087 )
+[![Image](mainstream/dorian.png)]( https://www.milligazete.com.tr/haber/3017846/ahmet-davutoglu-reisin-uzerini-cizdi-bu-detay-dikkat-cekti)
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
