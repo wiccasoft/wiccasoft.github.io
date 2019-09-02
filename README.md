@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=hAvCc05husE )
+[![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=OFeJCJziVCk  )
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
@@ -6,7 +6,7 @@
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=788Yr7XoP2g )
 
 <!-- https://www.youtube.com/watch?v=hAvCc05husE şenol güneş -->
-<!-- https://www.youtube.com/watch?v=OFeJCJziVCk hasan şaşa -->
+<!-- https://www.youtube.com/watch?v=OFeJCJziVCk hasan şaş -->
 <!-- https://www.youtube.com/watch?v=coQSKgD7fPA soyunma odası -->
 <!-- https://chaturbate.com/elaanna/ -->
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
