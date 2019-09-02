@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian.png)]( https://www.cnnturk.com/video/turkiye/emine-erdogan-salda-golunu-hem-havadan-hem-karadan-inceledi )
+[![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=5hdyLfnjte8  )
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
@@ -15,6 +15,7 @@
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg ölürümbrezliyam -->
 <!-- https://www.youtube.com/watch?v=XHSq7slClpE şeytanın hileleri -->
 <!-- https://www.youtube.com/watch?v=emOMsftk92U banubeberber -->
+<!-- https://www.youtube.com/watch?v=5hdyLfnjte8 salih resi -->
 <!-- https://chaturbate.com/elaanna/ -->
 <!-- https://www.cnnturk.com/video/turkiye/emine-erdogan-salda-golunu-hem-havadan-hem-karadan-inceledi salda -->
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
