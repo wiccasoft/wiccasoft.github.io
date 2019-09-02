@@ -17,7 +17,7 @@
 <!-- https://www.youtube.com/watch?v=XHSq7slClpE şeytanın hileleri -->
 <!-- https://www.youtube.com/watch?v=emOMsftk92U banubeberber -->
 <!-- https://www.youtube.com/watch?v=5hdyLfnjte8 salih reis -->
-<!-- https://www.youtube.com/watch?v=wUQDeENsGjY lol  -->
+<!-- https://www.youtube.com/watch?v=wUQDeENsGjY lol 2023 -->
 <!-- https://chaturbate.com/elaanna/ -->
 <!-- https://t24.com.tr/video/davutoglu-ndan-erdogan-a-bedelini-oderler-gondermesi,21087 bedel -->
 <!-- https://www.cnnturk.com/video/turkiye/emine-erdogan-salda-golunu-hem-havadan-hem-karadan-inceledi salda -->
