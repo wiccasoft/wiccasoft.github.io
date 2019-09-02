@@ -14,7 +14,9 @@
 <!-- https://www.youtube.com/watch?v=bUA4XhMH-Dc ironhand --> 
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg ölürümbrezliyam -->
 <!-- https://www.youtube.com/watch?v=XHSq7slClpE şeytanın hileleri -->
+<!-- https://www.youtube.com/watch?v=emOMsftk92U banubeberber -->
 <!-- https://chaturbate.com/elaanna/ -->
+<!-- https://www.cnnturk.com/video/turkiye/emine-erdogan-salda-golunu-hem-havadan-hem-karadan-inceledi salda -->
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
 <!-- https://www.buzzfeed.com/andyneuenschwander/13-debra-morgan-quotes-for-anyone-who-loves-cursing -->
 <!-- https://www.uludagsozluk.com/k/falcao-yu-g%C3%B6r%C3%BCnce-k%C4%B1skan%C3%A7l%C4%B1ktan-kuduran-fenerli/ -->
