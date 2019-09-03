@@ -1,4 +1,5 @@
-[![Image](mainstream/dorian-left.png)]( https://www.bbc.com/news/world-latin-america-49561450 )
+[![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=4ni5h8U2iEU )
+<!-- https://www.bbc.com/news/world-latin-america-49561450 -->
 [![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
