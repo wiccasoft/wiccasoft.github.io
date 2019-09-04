@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian-right.png)]( https://www.youtube.com/watch?v=CI93CsI5-Tw )
+[![Image](mainstream/dorian-right.png)]( https://codepen.io/wiccasoft/pen/jONazYQ )
 [![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=fjIDLIJZom4 )
 
 <!-- https://www.bbc.com/news/world-latin-america-49561450 -->
