@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=fjIDLIJZom4 )
+[![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=BSzFIAXtXmk )
 
 <!-- https://www.bbc.com/news/world-latin-america-49561450 -->
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag -->
