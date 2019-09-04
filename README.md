@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian-right.png)]( https://twitter.com/hashtag/kamilko%C3%A7?lang=en )
+[![Image](mainstream/dorian-right.png)]( https://www.youtube.com/watch?v=r8zI7f-AxJI )
 [![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=fjIDLIJZom4 )
 
 <!-- https://www.bbc.com/news/world-latin-america-49561450 -->
