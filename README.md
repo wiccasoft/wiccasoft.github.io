@@ -1,4 +1,4 @@
-[![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=aHO9GIAQtX8 )
+[![Image](mainstream/dorian-left.png)]( https://www.uludagsozluk.com/k/ats%C4%B1z-%C4%B1n-atat%C3%BCrk-e-ve-in%C3%B6n%C3%BC-ye-diktat%C3%B6r-demesi/ )
 
 <!-- https://www.bbc.com/news/world-latin-america-49561450 -->
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag -->
