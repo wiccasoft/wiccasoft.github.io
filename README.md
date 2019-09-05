@@ -1,4 +1,4 @@
-[![Image](mainstream/galaxy-fold.png)]( https://www.theguardian.pe.ca/business/reuters/samsung-to-launch-galaxy-fold-in-south-korea-on-september-6-priced-2000-348659/ )
+[![Image](mainstream/galaxy-fold.png)]( https://www.theguardian.com/technology/2019/apr/22/samsung-galaxy-fold-release-delayed-screens-break )
 [![Image](mainstream/dorian-right.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 [![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=fjIDLIJZom4 )
 <!-- https://codepen.io/wiccasoft/pen/jONazYQ final chapter -->
