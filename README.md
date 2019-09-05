@@ -1,4 +1,5 @@
 [![Image](mainstream/galaxy-fold.png)]( https://www.theguardian.com/technology/2019/apr/22/samsung-galaxy-fold-release-delayed-screens-break )
+<!-- https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a -->
 [![Image](mainstream/dorian-right.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 [![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=fjIDLIJZom4 )
 <!-- https://codepen.io/wiccasoft/pen/jONazYQ final chapter -->
