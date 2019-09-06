@@ -1,4 +1,4 @@
-[![Image](mainstream/serotonin.png)]( https://www.uludagsozluk.com/k/ilkokul-mezunu-emine-erdo%C4%9Fan/ )
+[![Image](mainstream/serotonin.png)]( https://www.uludagsozluk.com/k/serkan-inci/&w=bg )
 <!-- https://www.icisleri.gov.tr/ -->
 <!-- https://odiosozluk.com/serkan-incinin-susamam-yorumu--8311 -->
 [![Image](mainstream/galaxy-fold.png)]( https://www.youtube.com/watch?v=eQcwH7-sEkQ )
