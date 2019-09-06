@@ -1,3 +1,5 @@
+
+[![Image](mainstream/rothschild.png)](  https://www.youtube.com/watch?v=8Q7n_7Ts_S8 )
 [![Image](mainstream/serotonin.png)](  https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.icisleri.gov.tr/ -->
 <!-- http://home.thep.lu.se/~larsg/Site/Dirac.pdf -->
