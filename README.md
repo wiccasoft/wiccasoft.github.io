@@ -1,5 +1,5 @@
 
-[![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
+[![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=m6UjpA2iwzs )
 [![Image](mainstream/serotonin.png)](  https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.icisleri.gov.tr/ -->
 <!-- https://www.youtube.com/watch?v=tCRTOangkWo too evil for public -->
