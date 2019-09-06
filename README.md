@@ -1,10 +1,12 @@
 
-[![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=m6UjpA2iwzs )
+[![Image](mainstream/rothschild.png)]( hhttps://www.youtube.com/watch?v=iMw9dTW1tdo )
 [![Image](mainstream/serotonin.png)](  https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.icisleri.gov.tr/ -->
 <!-- https://www.youtube.com/watch?v=tCRTOangkWo too evil for public -->
 <!-- https://www.youtube.com/watch?v=WvZUizx7qZg artificial -->
 <!-- https://www.youtube.com/watch?v=8Q7n_7Ts_S8 infected -->
+<!-- https://www.youtube.com/watch?v=iMw9dTW1tdo yaşar usta -->
+<!-- https://www.youtube.com/watch?v=m6UjpA2iwzs ekram -->
 <!-- https://www.youtube.com/watch?v=3Jg2EwN3f8k <ion -->
 <!-- http://home.thep.lu.se/~larsg/Site/Dirac.pdf -->
 <!-- https://odiosozluk.com/serkan-incinin-susamam-yorumu--8311 -->
