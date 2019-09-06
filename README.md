@@ -1,7 +1,8 @@
-[![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
+[![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=DgD8-2Du8ms )
 <!-- https://www.icisleri.gov.tr/ -->
 <!-- https://odiosozluk.com/serkan-incinin-susamam-yorumu--8311 -->
 <!-- https://www.youtube.com/watch?v=rtpB-wI7BVs incisikertmesi-->
+<!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bumubattı-->
 [![Image](mainstream/galaxy-fold.png)]( https://www.youtube.com/watch?v=eQcwH7-sEkQ )
 <!-- https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a -->
 [![Image](mainstream/dorian-right.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
