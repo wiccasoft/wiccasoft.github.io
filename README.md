@@ -3,6 +3,7 @@
 <!-- https://odiosozluk.com/serkan-incinin-susamam-yorumu--8311 -->
 <!-- https://www.youtube.com/watch?v=rtpB-wI7BVs incisikertmesi-->
 <!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bumubattı-->
+<!-- https://www.youtube.com/watch?v=2vYBV6AO0mc metronome -->
 <!-- https://www.uludagsozluk.com/k/ilkokul-mezunu-emine-erdo%C4%9Fan/ ilkokul2terkolmanınsuçolduğu ülke -->
 [![Image](mainstream/galaxy-fold.png)]( https://www.youtube.com/watch?v=eQcwH7-sEkQ )
 <!-- https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a -->
