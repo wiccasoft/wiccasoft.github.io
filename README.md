@@ -7,6 +7,7 @@
 <!-- https://www.uludagsozluk.com/k/murat-cemcir-in-danla-bilic-e-as%C4%B1lmas%C4%B1/ -->
 <!-- https://www.youtube.com/watch?v=oxRqEGVFCUo toros -->
 <!-- https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it/ -->
+<!-- https://www.uludagsozluk.com/k/murat-cemcir-in-her-k%C4%B1za-as%C4%B1lmas%C4%B1/ lol -->
 <!-- https://www.youtube.com/watch?v=V63DqzUhYY8 bein -->
 <!-- https://www.youtube.com/watch?v=tCRTOangkWo too evil for public -->
 <!-- https://www.youtube.com/watch?v=WvZUizx7qZg artificial -->
