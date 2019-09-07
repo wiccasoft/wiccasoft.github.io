@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=vOZpy7Rk8H0 )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/kendi-ba%C5%9Fl%C4%B1%C4%9F%C4%B1na-entry-giren-tiamat/
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)](  https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.icisleri.gov.tr/ -->
