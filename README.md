@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/yunan-askerlerin-par%C3%A7alad%C4%B1klar%C4%B1-t%C3%BCrk-k%C3%B6yl%C3%BCs%C3%BC/)
+[![Image](mainstream/beinsports.png)](https://www.youtube.com/watch?v=ox93sf0-tPQ )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 hz imamaoğlan -->
