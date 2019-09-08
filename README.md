@@ -1,11 +1,12 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/bunu-anana-sorsana-delikanl%C4%B1-n%C4%B1n-ingilizcesi/ )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/soylunun-%C3%B6ld%C3%BCr%C3%BClen-pkk-l%C4%B1lar-i%C3%A7in-le%C5%9F-demesi/  )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
 <!-- https://www.uludagsozluk.com/k/mhp-li-vekilin-ya%C5%9Far-okuyan-a-verdi%C4%9Fi-ayar/ ayarı sokmak -->
 <!-- https://www.uludagsozluk.com/k/o-rus-bu-rus-2-ye-a%C5%9F%C4%B1k-olmak/&w=gd ruslaraaşıkolmak -->
 <!-- https://www.uludagsozluk.com/k/bunu-anana-sorsana-delikanl%C4%B1-n%C4%B1n-ingilizcesi/ -->
+<!-- https://www.uludagsozluk.com/k/soylunun-%C3%B6ld%C3%BCr%C3%BClen-pkk-l%C4%B1lar-i%C3%A7in-le%C5%9F-demesi/ leş amk -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc 7cüceler -->
 <!-- https://www.youtube.com/watch?v=wwUZj_q1qa0 volki -->
 <!-- https://www.youtube.com/watch?v=emOMsftk92U fbjk -->
