@@ -3,6 +3,7 @@
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=2UsFfDCXM6I)
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
+<!-- https://eksisozluk.com/entry/26162015 lol -->
 <!-- https://www.youtube.com/watch?v=2UsFfDCXM6I maçizleyenzombiler -->
 <!-- https://medium.com/turkce/periscope-ve-t%C3%BCrkler-3430389f6c5d periscope ve zombiler- -->
 <!-- https://www.youtube.com/watch?v=cjlbn-YKm6U zombibaşkanı -->
