@@ -3,6 +3,7 @@
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.uludagsozluk.com/e/42108564/ bittin olm sen bittin -->
+<!-- https://www.sozcu.com.tr/2019/dunya/son-dakika-en-son-bunu-osmanli-torunu-basardi-aralarinda-erdogan-da-var-o-liderler-de-5248912/ osmanlı torunu -->
 <!-- https://www.youtube.com/watch?v=gqwqVjUtj2A bir kadın olarak sus -->
 <!-- https://www.youtube.com/watch?v=_wFa6mIewFo köy satın almak -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ kuzu eti -->
