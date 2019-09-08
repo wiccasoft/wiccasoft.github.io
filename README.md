@@ -14,7 +14,7 @@
 <!-- https://www.uludagsozluk.com/e/42109495/ ay hadi inşakllak-->
 <!-- https://www.uludagsozluk.com/e/42109548/ koçum biz bmw nin harman olduğu yerdeniz -->
 <!-- https://www.uludagsozluk.com/k/mhp-li-vekilin-ya%C5%9Far-okuyan-a-verdi%C4%9Fi-ayar/ ayarı sokmak -->
-<!-- https://www.uludagsozluk.com/k/o-rus-bu-rus-2-ye-a%C5%9F%C4%B1k-olmak/&w=gd ruslaraaşıkolmak -->
+<!-- https://www.uludagsozluk.com/k/o-rus-bu-rus-2-ye-a%C5%9F%C4%B1k-olmak/&w=gd rusaşıkolmak -->
 <!-- https://www.uludagsozluk.com/k/bunu-anana-sorsana-delikanl%C4%B1-n%C4%B1n-ingilizcesi/ -->
 <!-- https://www.uludagsozluk.com/k/soylunun-%C3%B6ld%C3%BCr%C3%BClen-pkk-l%C4%B1lar-i%C3%A7in-le%C5%9F-demesi/ leş amk -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc 7cüceler -->
