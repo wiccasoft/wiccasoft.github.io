@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/bursaspor-trib%C3%BCn%C3%BCnde-sigara-i%C3%A7en-%C3%A7ocuk/ )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 
