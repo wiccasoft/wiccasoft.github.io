@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=4MRNTOHrJzw  )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/%C5%9Fehide-ve-e%C5%9Fine-periscope-da-hakaret-eden-pkk-l%C4%B1/&w=gd  )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696 zombiewars -->
