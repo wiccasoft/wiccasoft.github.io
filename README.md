@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=7OLqllyx3U8  )
+[![Image](mainstream/beinsports.png)](https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629  )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=2UsFfDCXM6I)
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
