@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( ttps://www.uludagsozluk.com/e/42109495/ )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/e/42109833/ )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 
