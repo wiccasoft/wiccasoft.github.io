@@ -5,7 +5,7 @@
 
 <!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
 <!-- https://www.uludagsozluk.com/e/42109182/ ay krık bu ayol-->
-<!-- https://www.uludagsozluk.com/e/42109548/ ay hadi inşakllak-->
+<!-- https://www.uludagsozluk.com/e/42109495/ ay hadi inşakllak-->
 <!-- https://www.uludagsozluk.com/e/42109548/ koçum biz bmw nin harman olduğu yerdeniz -->
 <!-- https://www.uludagsozluk.com/k/mhp-li-vekilin-ya%C5%9Far-okuyan-a-verdi%C4%9Fi-ayar/ ayarı sokmak -->
 <!-- https://www.uludagsozluk.com/k/o-rus-bu-rus-2-ye-a%C5%9F%C4%B1k-olmak/&w=gd ruslaraaşıkolmak -->
