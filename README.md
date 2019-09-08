@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.sozcu.com.tr/2019/dunya/son-dakika-en-son-bunu-osmanli-torunu-basardi-aralarinda-erdogan-da-var-o-liderler-de-5248912/ )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ  )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.uludagsozluk.com/e/42108564/ bittin olm sen bittin -->
