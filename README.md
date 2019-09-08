@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/fakir-%C3%A7irkin-iftirac%C4%B1-ve-kara-kavruk-erkekler/ )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/e/42109548/ )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
