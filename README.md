@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/mhp-li-vekilin-ya%C5%9Far-okuyan-a-verdi%C4%9Fi-ayar/ )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/soylunun-%C3%B6ld%C3%BCr%C3%BClen-pkk-l%C4%B1lar-i%C3%A7in-le%C5%9F-demesi/ )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
