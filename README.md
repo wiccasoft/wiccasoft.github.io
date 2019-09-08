@@ -1,8 +1,9 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=gqwqVjUtj2A  )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=_wFa6mIewFo )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.uludagsozluk.com/e/42108564/ bittin olm sen bittin -->
+<!--  https://www.youtube.com/watch?v=gqwqVjUtj2A bir kadın olarak sus -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
 <!-- https://www.uludagsozluk.com/e/42109848/ 90 karı -->
 <!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
