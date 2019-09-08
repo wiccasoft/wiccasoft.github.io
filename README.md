@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.aspor.com.tr/galeri/fenerbahce/ersun-yanal-kararini-verdi-gustavo-ve-emre-belozoglu   )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/%C3%A7ok-%C3%A7irkin-ve-aptals%C4%B1n-ke%C5%9Fke-%C3%B6lsen/  )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 hz imamaoğlan -->
