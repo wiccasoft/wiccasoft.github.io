@@ -1,4 +1,4 @@
-
+<!-- https://www.youtube.com/watch?v=oGuLGYZHCYs hassaszombiler -->
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=oGuLGYZHCYs )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
