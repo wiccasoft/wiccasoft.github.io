@@ -4,6 +4,7 @@
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
 <!-- https://www.uludagsozluk.com/k/mhp-li-vekilin-ya%C5%9Far-okuyan-a-verdi%C4%9Fi-ayar/ ayarı sokmak -->
+<!-- https://www.uludagsozluk.com/k/o-rus-bu-rus-2-ye-a%C5%9F%C4%B1k-olmak/&w=gd ruslaraaşıkolmak -->
 <!-- https://www.uludagsozluk.com/k/bunu-anana-sorsana-delikanl%C4%B1-n%C4%B1n-ingilizcesi/ -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc 7cüceler -->
 <!-- https://www.youtube.com/watch?v=wwUZj_q1qa0 volki -->
