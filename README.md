@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)](  https://www.youtube.com/watch?v=gqwqVjUtj2A )
+[![Image](mainstream/beinsports.png)](https://www.uludagsozluk.com/k/atat%C3%BCrk-t%C3%BCrk-halk%C4%B1-de%C4%9Fil-t%C3%BCrkiye-halk%C4%B1-dedi/)
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.uludagsozluk.com/e/42108564/ bittin olm sen bittin -->
