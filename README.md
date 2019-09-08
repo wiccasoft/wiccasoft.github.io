@@ -3,6 +3,7 @@
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=3Jg2EwN3f8k )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
+<!-- https://www.youtube.com/watch?v=cjlbn-YKm6U zombibaşkanı -->
 <!-- https://www.youtube.com/watch?v=7OLqllyx3U8 akıllı zombi -->
 <!-- https://www.youtube.com/watch?v=PAkRrp46SBE turkey wow -->
 <!-- https://www.youtube.com/watch?v=FAyuGyUbfbI türbanlı zombie -->
