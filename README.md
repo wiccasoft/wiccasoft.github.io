@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=2UsFfDCXM6I  )
+[![Image](mainstream/beinsports.png)]( https://eksisozluk.com/sehide-ve-esine-hakaret-eden-tek-kasli-canli--6172297?a=popular  )
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=2UsFfDCXM6I)
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
