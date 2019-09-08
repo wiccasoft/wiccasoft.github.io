@@ -1,5 +1,5 @@
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=7OLqllyx3U8  )
+[![Image](mainstream/beinsports.png)]( https://scontent-vie1-1.cdninstagram.com/v/t50.2886-16/70561321_512846922634506_6992304984780413052_n.mp4?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=106&oe=5D78347B&oh=aa6cdd8180528a55fca69d5efe6123ad)
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
