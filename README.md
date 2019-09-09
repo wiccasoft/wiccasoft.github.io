@@ -1,6 +1,7 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=aYnMkg6k3xs )
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 canıbadeisteyenkamalcı:)) -->
 <!-- https://www.youtube.com/watch?v=aYnMkg6k3xs sema -->
+<!-- https://www.youtube.com/watch?v=nNXa3-XTj-c dünya festival-->
 <!-- https://www.youtube.com/watch?v=TJsJmX3iQkY aykut vs kemalists -->
 <!-- https://www.youtube.com/watch?v=9coh25YxGtM anabacıfiltresi -->
 <!-- https://www.youtube.com/watch?v=ktmzyChfPmk dövlötsüzüsüklümüyübence --> 
@@ -27,7 +28,7 @@
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bibuçu maçlık hatır yokmuyfu itoğluitler -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğu mu -->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=aYnMkg6k3xs )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
