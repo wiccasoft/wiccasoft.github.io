@@ -1,3 +1,4 @@
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 canıbadeisteyenkamalcı:)) -->
 <!-- https://www.youtube.com/watch?v=aYnMkg6k3xs sema -->
 <!-- https://www.youtube.com/watch?v=TJsJmX3iQkY aykut vs kemalists -->
