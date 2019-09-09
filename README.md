@@ -1,214 +1,24 @@
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=7QmrpjQkFYY )
-<!-- https://www.youtube.com/watch?v=7QmrpjQkFYY derwish -->
-<!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 canıbadeisteyenkamalcı:)) -->
-<!-- https://www.youtube.com/watch?v=aYnMkg6k3xs sema -->
-<!-- https://www.youtube.com/watch?v=nNXa3-XTj-c dünya festival-->
-<!-- https://www.youtube.com/watch?v=TJsJmX3iQkY aykut vs kemalists -->
-<!-- https://www.youtube.com/watch?v=9coh25YxGtM anabacıfiltresi -->
-<!-- https://www.youtube.com/watch?v=ktmzyChfPmk dövlötsüzüsüklümüyübence --> 
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA osmanbey -->
-<!-- https://www.youtube.com/watch?v=M9CZuVse-9E kekolarladaşşakgeçmek -->
-<!-- https://www.youtube.com/watch?v=yJt2N7LSptg ekşiciler-->
-<!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M bözcan vs ruhi -->
-<!-- https://www.youtube.com/watch?v=Jeo68H0kknw şikeci marrem -->
-<!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ cumaliceber -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibiadam -->
-<!-- https://www.youtube.com/watch?v=JSVfLljV5aM mesailer -->
-<!-- https://www.youtube.com/watch?v=fvF1y68ThWU kürtçöpçü -->
-<!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bu mu batiy -->
-<!-- https://www.youtube.com/watch?v=U1NnA_YJZzM beraberyürüdükyahu -->
-<!-- https://www.youtube.com/watch?v=apG4E0K4bYo mehdininfeneredöşeyeceğiboru -->
-<!-- https://www.youtube.com/watch?v=PnfKMICzVVc zuahhaha -->
-<!-- https://www.youtube.com/watch?v=oL3mxCzx1rY thedayhascome-->
-<!-- https://www.youtube.com/watch?v=oL3mxCzx1rY feelmydrums -->
-<!-- https://www.youtube.com/watch?v=hC0x7nhFDUw yavuz bey vs mahalle sakinleri -->
-<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA akkaşın rapçilere döşediği boru -->
-<!-- https://www.youtube.com/watch?v=4ni5h8U2iEU arifin manchestera attığı gol -->
-<!-- https://www.youtube.com/watch?v=Nie1NMHm7L0 mevlananın türk sevgisi -->
-<!-- https://www.youtube.com/watch?v=TAeKUHDFRCU şeytanın türk oğlu türk olması --->
-<!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bibuçu maçlık hatır yokmuyfu itoğluitler -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak -->
-<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğu mu -->
+
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
-<!-- https://twitter.com/tcbestepe/status/893009102829473793 basaksehir -->
-<!-- https://www.youtube.com/watch?v=4MRNTOHrJzw şehirde küfr eden tek kaşlı -->
-<!-- https://www.youtube.com/watch?v=HDvJ3KRXDA0 şehire küfr eden tek kaşlı kürt -->
-<!-- https://twitter.com/kamilmakarna/status/1024737292123037696  topunuzgelin-->
-<!-- https://www.youtube.com/watch?v=Jeo68H0kknw şikeci marrem -->
-<!-- https://www.youtube.com/watch?v=Qs_PHrILn6k splittinkemalists -->
-<!-- https://www.youtube.com/watch?v=oGuLGYZHCYs hassaszombiler -->
-<!-- https://www.youtube.com/watch?v=KTuGK7Ob2QI 3 in 1 -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM imanlı zombiler -->
-<!-- https://www.youtube.com/watch?v=4MRNTOHrJzw askerekellediyenkürt -->
-<!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
-<!-- https://eksisozluk.com/entry/26162015 lol -->
-<!-- https://www.youtube.com/watch?v=2UsFfDCXM6I maçizleyenzombiler -->
-<!-- https://medium.com/turkce/periscope-ve-t%C3%BCrkler-3430389f6c5d periscope ve zombiler- -->
-<!-- https://www.youtube.com/watch?v=cjlbn-YKm6U zombibaşkanı -->
-<!-- https://www.youtube.com/watch?v=7OLqllyx3U8 akıllı zombi -->
-<!-- https://www.youtube.com/watch?v=PAkRrp46SBE turkey wow -->
-<!-- https://www.youtube.com/watch?v=FAyuGyUbfbI türbanlı zombie -->
-<!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 hz imamaoğlan -->
-<!-- https://www.youtube.com/watch?v=2ERE5iP2xuQ zombiematchfever -->
-<!-- https://www.youtube.com/watch?v=apG4E0K4bYo hicri takvim -->
-<!-- https://www.uludagsozluk.com/k/hazreti-muhammed-in-han%C4%B1mlar%C4%B1-s%C4%B1ral%C4%B1-tam-liste/ zevcelerim -->
-<!-- https://www.youtube.com/watch?v=HWX_vTS-cdM hz mohammwed --> 
-<!-- https://www.sozcu.com.tr/2019/dunya/son-dakika-en-son-bunu-osmanli-torunu-basardi-aralarinda-erdogan-da-var-o-liderler-de-5248912/ osmanlı torunu -->
-<!-- https://www.youtube.com/watch?v=gqwqVjUtj2A bir kadın olarak sus -->
-<!-- https://www.youtube.com/watch?v=_wFa6mIewFo köy satın almak -->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ kuzu eti -->
-<!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
-<!-- https://www.uludagsozluk.com/e/42109848/ 90 karı -->
-<!-- https://soundcloud.com/hirschmilch/progressive-pleasures-014/sets -->
-<!-- https://www.uludagsozluk.com/e/42109182/ ay krık bu ayol-->
-<!-- https://www.uludagsozluk.com/e/42109495/ ay hadi inşakllak-->
-<!-- https://www.uludagsozluk.com/e/42109548/ koçum biz bmw nin harman olduğu yerdeniz -->
-<!-- https://www.uludagsozluk.com/k/mhp-li-vekilin-ya%C5%9Far-okuyan-a-verdi%C4%9Fi-ayar/ ayarı sokmak -->
-<!-- https://www.uludagsozluk.com/k/o-rus-bu-rus-2-ye-a%C5%9F%C4%B1k-olmak/&w=gd rusaşıkolmak -->
-<!-- https://www.uludagsozluk.com/k/bunu-anana-sorsana-delikanl%C4%B1-n%C4%B1n-ingilizcesi/ -->
-<!-- https://www.uludagsozluk.com/k/soylunun-%C3%B6ld%C3%BCr%C3%BClen-pkk-l%C4%B1lar-i%C3%A7in-le%C5%9F-demesi/ leş amk -->
-<!-- https://www.youtube.com/watch?v=jYSr_qt9wyc 7cüceler -->
-<!-- https://www.youtube.com/watch?v=wwUZj_q1qa0 volki -->
-<!-- https://www.youtube.com/watch?v=emOMsftk92U fbjk -->
-<!-- https://www.youtube.com/watch?v=T0co5_OM8_o 100. maç -->
-<!-- https://www.youtube.com/watch?v=c9ptaeT2lks tokyo -->
-<!-- https://www.youtube.com/watch?v=zQFEBTFBhsc pickinup -->
-<!-- https://www.icisleri.gov.tr/ -->
-<!-- https://www.youtube.com/watch?v=CD0VD3LElOI trackdata -->
-<!-- https://www.youtube.com/watch?v=z5LW07FTJbI zombie nation -->
-<!-- https://www.youtube.com/watch?v=-DTID3RUYTQ  osmanlıtorunu -->
-<!-- https://www.aspor.com.tr/galeri/fenerbahce/ersun-yanal-kararini-verdi-gustavo-ve-emre-belozoglu  -->
-<!-- https://www.youtube.com/watch?v=1qnUK25TrIw the imparator -->
-<!-- https://www.youtube.com/watch?v=vOZpy7Rk8H0 lol -->
-<!-- https://www.youtube.com/watch?v=8iQfU3VUrOs orginalsins-->
-<!-- https://www.youtube.com/watch?v=oxRqEGVFCUo toros -->
-<!-- https://www.uludagsozluk.com/k/instagramda-kad%C4%B1nlara-video-ile-y%C3%BCr%C3%BCyen-it/ -->
-<!-- https://www.uludagsozluk.com/k/murat-cemcir-in-her-k%C4%B1za-as%C4%B1lmas%C4%B1/ lol -->
-<!-- https://www.uludagsozluk.com/k/murat-cemcir-in-danla-bilic-e-as%C4%B1lmas%C4%B1/ lol  -->
-<!-- https://www.youtube.com/watch?v=V63DqzUhYY8 bein -->
-<!-- https://www.youtube.com/watch?v=tCRTOangkWo too evil for public -->
-<!-- https://www.youtube.com/watch?v=WvZUizx7qZg artificial -->
-<!-- https://www.youtube.com/watch?v=8Q7n_7Ts_S8 infected -->
-<!-- https://www.youtube.com/watch?v=iMw9dTW1tdo yaşar usta -->
-<!-- https://www.youtube.com/watch?v=m6UjpA2iwzs ekram -->
-<!-- https://www.youtube.com/watch?v=3Jg2EwN3f8k <ion -->
-<!-- http://home.thep.lu.se/~larsg/Site/Dirac.pdf -->
-<!-- https://odiosozluk.com/serkan-incinin-susamam-yorumu--8311 -->
-<!-- https://www.youtube.com/watch?v=rtpB-wI7BVs incisikertmesi-->
-<!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bumubattı-->
-<!-- https://www.youtube.com/watch?v=2vYBV6AO0mc metronome -->
-<!-- https://www.uludagsozluk.com/k/ilkokul-mezunu-emine-erdo%C4%9Fan/ ilkokul2terkolmanınsuçolduğu ülke -->
+
 [![Image](mainstream/galaxy-fold.png)]( https://www.youtube.com/watch?v=eQcwH7-sEkQ )
 <!-- https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a -->
 [![Image](mainstream/dorian-right.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 [![Image](mainstream/dorian-left.png)]( https://www.youtube.com/watch?v=fjIDLIJZom4 )
-<!-- https://codepen.io/wiccasoft/pen/jONazYQ final chapter -->
-<!-- https://www.bbc.com/news/world-latin-america-49561450 -->
-<!-- https://www.youtube.com/watch?v=o6EayWHL-ag -->
-<!-- https://www.youtube.com/watch?v=4ni5h8U2iEU -->
-<!-- https://www.youtube.com/watch?v=fjIDLIJZom4 -->
-<!-- https://www.youtube.com/watch?v=1xQBr8vX82s nM< -->
-<!-- https://www.youtube.com/watch?v=ix37gHktSwI cah-->
-<!-- https://www.youtube.com/watch?v=yPcQ3nAs2sQ sşeftalügübünamcuklukız -->
+
 [![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
 [![Image](mainstream/screen708.png)]( https://www.youtube.com/watch?v=788Yr7XoP2g )
-<!-- https://www.youtube.com/watch?v=FFzk_MX1DCo goaaaaal -->
-<!-- https://www.youtube.com/watch?v=hAvCc05husE şenol güneş -->
-<!-- https://www.youtube.com/watch?v=OFeJCJziVCk hasan şaş -->
-<!-- https://www.youtube.com/watch?v=coQSKgD7fPA soyunma odası -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ezan mix -->
-<!-- https://www.youtube.com/watch?v=zvtUrjfnSnA chemical burn -->
-<!-- https://www.youtube.com/watch?v=9mzuI73FrgE whats goin on there -->
-<!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 lebowski -->
-<!-- https://www.youtube.com/watch?v=bUA4XhMH-Dc ironhand --> 
-<!-- https://www.youtube.com/watch?v=AeveY0aW1Qg ölürümbrezliyam -->
-<!-- https://www.youtube.com/watch?v=XHSq7slClpE şeytanın hileleri -->
-<!-- https://www.youtube.com/watch?v=emOMsftk92U banubeberber -->
-<!-- https://www.youtube.com/watch?v=5hdyLfnjte8 salih reis -->
-<!-- https://www.youtube.com/watch?v=wUQDeENsGjY lol 2023 -->
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E ulucular 2023 -->
-<!-- https://www.youtube.com/watch?v=J3gaPI9BW-g machinelearning loading -->
-<!-- https://chaturbate.com/elaanna/ -->
-<!-- https://t24.com.tr/video/davutoglu-ndan-erdogan-a-bedelini-oderler-gondermesi,21087 bedel -->
-<!-- https://www.cnnturk.com/video/turkiye/emine-erdogan-salda-golunu-hem-havadan-hem-karadan-inceledi salda -->
+
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
-<!-- https://www.buzzfeed.com/andyneuenschwander/13-debra-morgan-quotes-for-anyone-who-loves-cursing -->
-<!-- https://www.uludagsozluk.com/k/falcao-yu-g%C3%B6r%C3%BCnce-k%C4%B1skan%C3%A7l%C4%B1ktan-kuduran-fenerli/ -->
-<!-- https://www.yenisafak.com/video-galeri/gundem/imamoglu-mezar-basinda-dua-etmeyi-unutan-esini-uyardi-2197532 -->
-<!-- https://www.youtube.com/watch?v=OlCeeUq4se0 se0 -->
-<!-- https://www.youtube.com/watch?v=fyaI4-5849w data api -->
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 red flag -->
-<!-- https://www.youtube.com/watch?v=9zH-CC12BWU küfr -->
-<!-- https://www.youtube.com/watch?v=TautiJV2j9Q box -->
-<!-- https://www.youtube.com/watch?v=788Yr7XoP2g bash pipe-->
-<!-- https://www.youtube.com/watch?v=9sPHaPhBhzU futbol -->
-<!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next next -->
 
-<!-- https://www.youtube.com/watch?v=d2t9v2iZq9k falcao -->
-<!-- https://www.youtube.com/watch?v=7ESijMjarZo maldini -->
-<!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansı futbol savaşları -->
-<!-- https://www.youtube.com/watch?v=AXg4xO2rwDo mbaye -->
-<!-- https://www.youtube.com/watch?v=yFG3266htmQ Başakşehir Açılış -9 (MaçBaşlıyor) -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ezan mix -->
-<!-- https://www.youtube.com/watch?v=yphjF2e2Izg dünyanın en yahuşuhlu 11'i -->
-<!-- https://www.youtube.com/watch?v=l-hh0f2oiHU dünyanın en iyi 11'i -->
-<!-- https://www.youtube.com/watch?v=fR9ZLJo6Pc4 alev şeklinde bir top -->
-<!-- https://www.youtube.com/watch?v=WyyQSBZd9hI düğündernek -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu köfte -->
-<!-- https://www.youtube.com/watch?v=_pcWD8XLhPI arsenal gs -->
-<!-- https://www.space.com/34162-black-moon-guide.html -->
-<!-- https://www.youtube.com/watch?v=BVvsFyqZgYI hürriyet -->
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynımodel gibin -->
-<!-- https://www.youtube.com/watch?v=fvF1y68ThWU belediye -->
-<!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
-<!-- https://www.youtube.com/watch?v=otv6c6-YUr0 escobar -->
-<!-- https://www.youtube.com/watch?v=Dm6sSQ-UhJg behind -->
-<!-- https://www.uludagsozluk.com/k/o%C4%9Fluna-tecav%C3%BCz-edenin-k%C4%B1z%C4%B1na-tecav%C3%BCz-eden-adam/ -->
-<!-- https://www.youtube.com/watch?v=5SM-nA5l2HU winteriscomin -->
-<!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin -->
-<!-- https://www.youtube.com/watch?v=GsGlTcqbss8 gayseri -->
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 herseykguzelzatenn -->
-<!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 imamaoğlan binalioğlan -->
-<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w tricks -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 faggotsland -->
-<!-- https://www.youtube.com/watch?v=IgTsQIkRJB4 next -->
-<!-- https://www.youtube.com/watch?v=tT4TjDj12uI atafutboliye -->
-<!-- https://www.uludagsozluk.com/k/ayol-diyen-k%C3%BCrt/ be the moon -->
-<!-- https://www.youtube.com/watch?v=1AS-dCdYZbo london open -->
-<!-- https://www.timeanddate.com/moon/phases/uk/london blacksupermoon--<
-<!-- https://www.youtube.com/watch?v=ktX3_l_Tm78 howto -->
-<!-- https://www.youtube.com/watch?v=8lNmIqlSk18 trapzone -->
-<!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ houyda -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lol -->
-<!-- https://www.youtube.com/watch?v=l_lblj8Cq0o geasy peasy -->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1m-it-gibi-%C3%BCt%C3%BC-yapacak-diyen-tip/ karımitgibiolacak -->
-<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA karımitgibirapyapacak -->
-<!-- https://www.uludagsozluk.com/e/42053039/ amuğagodumm --->
-<!-- https://www.uludagsozluk.com/e/42053016/ aqevladı -->
-<!-- https://www.youtube.com/watch?v=UAlRf9qf9d0 ThePhantom Agony -->
-<!-- https://variety.com/2015/digital/news/vivendi-buys-majority-stake-in-winamp-shoutcast-owner-radionomy-1201664170/ -->
-<!-- https://www.youtube.com/watch?v=qwn3QzsZJGY hisbant -->
-
-<!-- https://www.uludagsozluk.com/k/eve-at%C4%B1lan-erke%C4%9Fi-unicorn-boynuzuyla-d%C3%B6vmek/ unicorn lol -->
-<!-- https://www.uludagsozluk.com/k/instagram-kullanmayan-ezik-tip/ -->
-<!-- https://hackfreeonline.com/hack-instagram/ freehack --<
-<!-- https://www.uludagsozluk.com/e/42046389/ -->
-<!-- https://www.youtube.com/watch?v=OlNtUdV-mzc magnum turkey -->
-<!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombiecars -->
-<!-- https://www.youtube.com/watch?v=I5bIQWjUS7o arabayok -->
-<!-- https://www.youtube.com/watch?v=RF60iDaoEPw tomoorrowland -->
-<!-- http://streamer.psyradio.org:8010/stream prog -->
-<!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd -->
-<!-- https://www.uludagsozluk.com/e/11770110/ 15 miyon uero para mı lan it -->
-<!-- https://www.youtube.com/watch?v=DOIQ5i87-Kg lol -->
-<!-- https://www.youtube.com/watch?v=RF60iDaoEPw  stream -->
 [![Image](mainstream/screen707.png)]( https://www.youtube.com/watch?v=RF60iDaoEPw )
 <!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd sms
 <!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
@@ -220,67 +30,18 @@
 <!-- httpcr kurtbeats -->
 [![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/ivana-sert-vurdu-ve-gol/)
 
-<!-- https://www.youtube.com/watch?v=YTcLK3yxtFg ankarada -->
-<!-- https://www.youtube.com/watch?v=nqkY1IkhrWU yanıyosunferidunabi -->
-<!-- https://eksisozluk.com/yansin-ibneler-sonduren-itfaiyeciyi-sikeyim--2032799 -->
-<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun --> 
-<!-- https://www.uludagsozluk.com/k/kad%C4%B1n-poposundan-kasa-diye-bahseden-erkek/ kasapopolukızlar -->
-<!-- https://www.youtube.com/watch?v=dR3ccmWmLhk wake up -->
-<!-- https://www.uludagsozluk.com/k/%C4%B1l%C4%B1k-su-i%C3%A7en-erkek/ ılıksuiçenerkek -->
-<!-- https://www.uludagsozluk.com/k/diagne-yi-diagne-diye-okuyan-tip/ -->
-<!-- https://www.uludagsozluk.com/k/fedai-varan-%C4%B1n-chp-li-olmas%C4%B1/ chp vs müslüms -->
-<!-- https://www.uludagsozluk.com/k/google-a-%C3%A7ay-i%C3%A7en-day%C4%B1-yaz%C4%B1p-2nci-foto%C4%9Frafa-bakmak/ işsizlik lewvel 9999 -->
-<!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver müsüğü -->
-<!-- https://www.youtube.com/watch?v=yphjF2e2Izg yahuşuhlu-11 -->
-<!-- https://www.ahaber.com.tr/video/gundem-videolari/kemal-kilicdaroglundan-dogu-akdeniz-ile-ilgili-akla-zarar-sozler-video -->
-<!-- https://www.uludagsozluk.com/k/ya-kapan%C4%B1rs%C4%B1n-yoksa-ben-evlenmem-diyen-erkek/ -->
-<!-- https://www.youtube.com/watch?v=vimwFR6RRpM ramos -->
-<!-- https://www.youtube.com/watch?v=7AgidHMG0rU han solo -->
 <!-- http://streamer.psyradio.org:8010/;listen.mp3 -->
 [![Image](mainstream/screen680.png)](https://www.youtube.com/watch?v=qSqVVswa420)
-<!-- https://guides.lib.umich.edu/copyrightbasics/rights-of-users -->
-<!-- https://www.youtube.com/watch?v=ecvEcHKZOH0 comin'foryou -->
-<!-- https://www.youtube.com/watch?v=NbxeLJodwzY kurtbeats -->
-<!-- https://www.youtube.com/watch?v=Tvt4TO_viG0 horon -->
-<!-- https://www.youtube.com/watch?v=5Qz0DJLtcoY olukjlu keytenjeye -->
+e -->
 <!-- https://soundcloud.com/kurbeats/kurbeats-celestial-lights -->
 [![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=N6LTquVWaWk)
 
-<!-- https://www.youtube.com/watch?v=hXfbVIFc6t4 -->
-<!-- https://www.youtube.com/watch?v=qSqVVswa420 maverick-->
-<!-- https://www.youtube.com/watch?v=hXfbVIFc6t4 zuhahah -->
-<!-- https://www.youtube.com/watch?v=qWfbMYxjCf4 davudi -->
-<!-- https://www.youtube.com/watch?v=nmkv8whDmz0 venom -->
-<!-- https://www.youtube.com/watch?v=qNa38FQJftg Klanpesiamus-->
-<!-- https://www.youtube.com/watch?v=78AVFvbhOIY so much beauty -->
-<!-- https://www.youtube.com/watch?v=Q5EyOAvcuMk cengizhan -->
-<!-- https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-kafal%C4%B1-satanistlerin-%C3%B6ld%C3%BCrd%C3%BC%C4%9F%C3%BC-gen%C3%A7-k%C4%B1zlar/ -->
-<!-- https://www.youtube.com/watch?v=2c2fEY43MYk safiyeinci -->
-<!---https://www.youtube.com/watch?v=D6IYNhnxO0k karabulut -->
-<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rap çılgınlığı -->
-<!-- https://www.youtube.com/watch?v=E3GL3PuBa7c palu file -->
-<!-- https://www.youtube.com/watch?v=ueptJlYwka0 serkanlol ->
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 ekonomi bakarı bernard redflag-->
-<!-- https://www.youtube.com/watch?v=YzR49E6K7sA dol -->
-<!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 eye of ra-->
-<!-- https://www.uludagsozluk.com/k/trivago-ekrem-den-ses-seda-gelmemesi/ -->
-<!-- https://www.youtube.com/watch?v=EIOc_X4w_M4 trvago ek ram operasyonu-->
-<!-- https://www.youtube.com/watch?v=jYSr_qt9wyc eko -->
-<!-- https://www.youtube.com/watch?v=BkSzIVoWl88 mansur -->
-<!-- https://www.youtube.com/watch?v=N6LTquVWaWk zombi araç-->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 
 <!-- https://medium.com/@rossbulat/node-js-client-ip-location-with-geoip-lite-fallback-c25833c94a76 -->
-<!-- http://streamer.psyradio.org:8020/;listen.mp3 -->
-<!-- https://www.youtube.com/watch?v=btPJPFnesV4 survivor -->
-<!-- https://www.youtube.com/watch?v=xOOr6PCe1lo meanwhile -->
-<!-- https://www.youtube.com/watch?v=GtyqAw2DOEk nası -->
-<!-- https://www.youtube.com/watch?v=an0aCC_zcmI&feature=youtu.be&t=2 got it -->
+
 <!-- https://stackoverflow.com/a/13293044 -->
 [![Image](mainstream/screen630.png)](https://www.youtube.com/watch?v=BGA9BlJsjO0)
-<!-- https://www.youtube.com/watch?v=BGA9BlJsjO0 -->
-<!-- https://www.youtube.com/watch?v=to0KFnnUH7 -->
-<!-- https://www.reuters.com/article/us-usa-bonds-yieldcurve/inverted-what-searches-for-obscure-financial-term-spike-on-google-idUSKCN1VA12V-->
+
 [![Image](mainstream/screen626.png)](https://www.youtube.com/watch?v=gnIFwhjpH3s)
 <!-- http://95.217.39.141:9111/stream-- >
 [![Image](cards/screen622.png)]( https://www.youtube.com/watch?v=Cl69o3Pk93s )
