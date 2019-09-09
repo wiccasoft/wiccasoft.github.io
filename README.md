@@ -1,6 +1,6 @@
 
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA osmanbey -->
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-geri-vitesi/&w=gd )
+[![Image](mainstream/beinsports.png)]( https://eksisozluk.com/geri-vites-sesi--3936545 )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696  topunuzgelin-->
