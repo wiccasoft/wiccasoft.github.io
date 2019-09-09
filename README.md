@@ -6,6 +6,7 @@
 <!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ cumaliceber -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibiadam -->
 <!-- https://www.youtube.com/watch?v=JSVfLljV5aM mesailer -->
+<!-- https://www.youtube.com/watch?v=fvF1y68ThWU kürtçöpçü -->
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=fvF1y68ThWU )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
