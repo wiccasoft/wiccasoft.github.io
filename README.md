@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=yJt2N7LSptg ekşiciler-->
 <!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M bözcan vs ruhi -->
 <!-- https://www.youtube.com/watch?v=Jeo68H0kknw şikeci marrem -->
+
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=A_gHAGGYJ_M )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
