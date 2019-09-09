@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM imanlı zombiler -->
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
-[![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=rtpB-wI7BVs )
+[![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM )
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696  topunuzgelin-->
 <!-- https://www.youtube.com/watch?v=4MRNTOHrJzw askerekellediyenkürt -->
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
