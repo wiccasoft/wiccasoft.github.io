@@ -20,7 +20,8 @@
 <!-- https://www.youtube.com/watch?v=TAeKUHDFRCU şeytanın türk oğlu türk olması --->
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bibuçu maçlık hatır yokmuyfu itoğluitler -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak -->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=MTJuKPbzpcQ  )
+<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğu mu -->
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=PeIVhIwE8zU  )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
