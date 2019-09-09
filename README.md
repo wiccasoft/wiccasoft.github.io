@@ -15,7 +15,8 @@
 <!-- https://www.youtube.com/watch?v=oL3mxCzx1rY feelmydrums -->
 <!-- https://www.youtube.com/watch?v=hC0x7nhFDUw yavuz bey vs mahalle sakinleri -->
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA akkaşın rapçilere döşediği boru -->
-[![Image](mainstream/beinsports.png)](https://eksisozluk.com/erdoganin-iettden-istifasinin-gercek-sebebi--6172752?a=popular )
+[![Image](mainstream/beinsports.png)](https://eksisozluk.com/bitti-diyen-kiza-sen-bilirsin-diyen-erkek--5413830?a=popular
+ )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/tcbestepe/status/893009102829473793 basaksehir -->
