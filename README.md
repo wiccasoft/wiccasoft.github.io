@@ -8,7 +8,7 @@
 <!-- https://www.youtube.com/watch?v=JSVfLljV5aM mesailer -->
 <!-- https://www.youtube.com/watch?v=fvF1y68ThWU kürtçöpçü -->
 
-[![Image](mainstream/beinsports.png)]( https://www.sozcu.com.tr/2019/gundem/son-dakika-suleyman-soyludan-belediyelere-kayyum-aciklamasi-5322603/ )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-yu-bir-g%C3%B6rselle-anlat/ )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/tcbestepe/status/893009102829473793 basaksehir -->
