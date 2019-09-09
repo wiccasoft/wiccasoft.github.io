@@ -1,10 +1,12 @@
 
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA osmanbey -->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=Jeo68H0kknw )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=KTuGK7Ob2QI )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696  topunuzgelin-->
+<!-- https://www.youtube.com/watch?v=Jeo68H0kknw şikeci marrem -->
 <!-- https://www.youtube.com/watch?v=oGuLGYZHCYs hassaszombiler -->
+<!-- https://www.youtube.com/watch?v=KTuGK7Ob2QI 3 in 1 -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM imanlı zombiler -->
 <!-- https://www.youtube.com/watch?v=4MRNTOHrJzw askerekellediyenkürt -->
 <!-- https://www.youtube.com/watch?v=ui58jNHDTqA fileninin davşanları -->
