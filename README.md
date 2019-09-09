@@ -1,6 +1,6 @@
 
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA osmanbey -->
-[![Image](mainstream/beinsports.png)]( https://eksisozluk.com/entry/95101758 )
+[![Image](mainstream/beinsports.png)]( https://eksisozluk.com/sehide-ve-esine-hakaret-eden-tek-kasli-canli--6172297?a=popular )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696  topunuzgelin-->
