@@ -17,7 +17,8 @@
 <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA akkaşın rapçilere döşediği boru -->
 <!-- https://www.youtube.com/watch?v=4ni5h8U2iEU arifin manchestera attığı gol -->
 <!-- https://www.youtube.com/watch?v=Nie1NMHm7L0 mevlananın türk sevgisi -->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=Nie1NMHm7L0 )
+<!-- https://www.youtube.com/watch?v=TAeKUHDFRCU şeytanın türk oğlu türk olması --->
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=TAeKUHDFRCU )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
