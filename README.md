@@ -1,7 +1,7 @@
 
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA osmanbey -->
 <!-- https://www.youtube.com/watch?v=yJt2N7LSptg ekşiciler-->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=Jeo68H0kknw )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=LGCZCo-rgu4 )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/tcbestepe/status/893009102829473793 basaksehir -->
