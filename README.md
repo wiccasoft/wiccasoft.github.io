@@ -1,6 +1,6 @@
 
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA osmanbey -->
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/%C5%9Fehide-ve-e%C5%9Fine-periscope-da-hakaret-eden-pkk-l%C4%B1/&w=bg )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=Hfye5B91HB4 )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/tcbestepe/status/893009102829473793 basaasehir -->
