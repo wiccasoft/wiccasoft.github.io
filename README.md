@@ -1,6 +1,6 @@
 <!-- https://www.youtube.com/watch?v=oGuLGYZHCYs hassaszombiler -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM imanlı zombiler -->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM )
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696  topunuzgelin-->
