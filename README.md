@@ -7,8 +7,8 @@
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 adamgibiadam -->
 <!-- https://www.youtube.com/watch?v=JSVfLljV5aM mesailer -->
 <!-- https://www.youtube.com/watch?v=fvF1y68ThWU kürtçöpçü -->
-
-[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-yu-bir-g%C3%B6rselle-anlat/ )
+<!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bu mu batiy -->
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=DgD8-2Du8ms )
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://twitter.com/tcbestepe/status/893009102829473793 basaksehir -->
