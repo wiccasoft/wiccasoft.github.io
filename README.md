@@ -19,7 +19,8 @@
 <!-- https://www.youtube.com/watch?v=Nie1NMHm7L0 mevlananın türk sevgisi -->
 <!-- https://www.youtube.com/watch?v=TAeKUHDFRCU şeytanın türk oğlu türk olması --->
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bibuçu maçlık hatır yokmuyfu itoğluitler -->
-[![Image](mainstream/beinsports.png)](https://www.youtube.com/watch?v=jdjsGMl-yWI )
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak -->
+[![Image](mainstream/beinsports.png)](https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
