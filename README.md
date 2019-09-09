@@ -21,7 +21,7 @@
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bibuçu maçlık hatır yokmuyfu itoğluitler -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğu mu -->
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=MTJuKPbzpcQ  )
+[![Image](mainstream/beinsports.png)]( https://www.uludagsozluk.com/k/denize-atat%C3%BCrk-m%C3%BC-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-allah-m%C4%B1/  )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
