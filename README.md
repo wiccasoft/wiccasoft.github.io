@@ -1,6 +1,7 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=QUYKSWQmkrg )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=MTJuKPbzpcQ )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
+<!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ annesinisevmeyensözlükergeni -->
 <!-- https://www.youtube.com/watch?v=dCAh-dNtPH0 davşan uludağa küsmüş len emq -->
 <!-- https://www.youtube.com/watch?v=Q8AZ16uBhr8 davşan dağ ikileğmi sorunsağlı-->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA badeisteyeneticin -->
