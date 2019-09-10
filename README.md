@@ -7,7 +7,7 @@
 <!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ annesinisevmeyensözlükergeni -->
 <!-- https://www.youtube.com/watch?v=VZcW_ryKStQ firstclassfear -->
 <!-- https://www.uludagsozluk.com/k/2000-sonras%C4%B1-neslin-ibretlik-%C3%B6zeti/ -->
-<!-- https://www.youtube.com/watch?v=dCAh-dNtPH0 davşan uludağa küsmüş len emq -->
+<!-- https://www.youtube.com/watch?v=dCAh-dNtPH0 davşan dağa küsmüş len emq -->
 <!-- https://www.youtube.com/watch?v=Q8AZ16uBhr8 davşan dağ ikileğmi sorunsağlı-->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA badeisteyeneticin -->
 <!-- https://www.youtube.com/watch?v=uCfwuPBLyLU emre mor kim amk -->
@@ -15,7 +15,7 @@
 <!-- https://www.youtube.com/watch?v=isDvo3tQ6H4 horon -->
 <!-- https://www.youtube.com/watch?v=BaTd_F2yIrU retirement -->
 <!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
-<!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 arkadan vurdunmmu sallatırım -->
+<!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 arkadan vurdun mmu sallatırım -->
 <!-- https://www.uludagsozluk.com/k/e%C4%9Fer-bir-kaset-varsa-ya-ananla-ya-da-kar%C4%B1nlad%C4%B1r/ bunuananasorsana delikanlı -->
 <!-- http://kralspor.ensonhaber.com/m/haber.php?s=emre-mor-yine-dmden-yurudu-2019-09-10 -->
 
