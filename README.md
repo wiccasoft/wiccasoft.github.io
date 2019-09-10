@@ -9,7 +9,7 @@
 
 <!-- https://www.youtube.com/watch?v=BaTd_F2yIrU retirement -->
 <!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
-<!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 arkadan vurdun mmu sallatırım -->
+<!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 kadermahkumları -->
 
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
 
