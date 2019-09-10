@@ -1,6 +1,7 @@
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=jYSr_qt9wyc )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
+<!-- https://www.youtube.com/watch?v=jYSr_qt9wyc ali baba -->
 <!-- https://www.youtube.com/watch?v=ej8-Rqo-VT4 dex -->
 <!-- https://www.youtube.com/watch?v=BWRR-DfZbu8 golf nedir -->
 <!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ annesinisevmeyensözlükergeni -->
