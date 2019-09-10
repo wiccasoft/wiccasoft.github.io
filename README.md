@@ -1,6 +1,7 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=VZcW_ryKStQ )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=ej8-Rqo-VT4 )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
+<!-- https://www.youtube.com/watch?v=ej8-Rqo-VT4 dex -->
 <!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ annesinisevmeyensözlükergeni -->
 <!-- https://www.youtube.com/watch?v=VZcW_ryKStQ firstclassfear -->
 <!-- https://www.uludagsozluk.com/k/2000-sonras%C4%B1-neslin-ibretlik-%C3%B6zeti/ -->
