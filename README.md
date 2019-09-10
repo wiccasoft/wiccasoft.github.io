@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.youtube.com/watch?v=MTJuKPbzpcQ annesinisevmeyensözlükergeni -->
 <!-- https://www.youtube.com/watch?v=VZcW_ryKStQ firstclassfear -->
+<!-- https://www.uludagsozluk.com/k/2000-sonras%C4%B1-neslin-ibretlik-%C3%B6zeti/ -->
 <!-- https://www.youtube.com/watch?v=dCAh-dNtPH0 davşan uludağa küsmüş len emq -->
 <!-- https://www.youtube.com/watch?v=Q8AZ16uBhr8 davşan dağ ikileğmi sorunsağlı-->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA badeisteyeneticin -->
