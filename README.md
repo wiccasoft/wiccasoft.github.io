@@ -1,5 +1,6 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=jYSr_qt9wyc )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=k9Y9-xueg5M )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
+<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc ali baba -->
 <!-- https://www.youtube.com/watch?v=ej8-Rqo-VT4 dex -->
