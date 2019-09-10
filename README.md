@@ -1,4 +1,5 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=-vF93RdxUxw )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
+<!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
 
