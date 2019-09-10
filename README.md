@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)](http://kralspor.ensonhaber.com/m/haber.php?s=emre-mor-yine-dmden-yurudu-2019-09-10 )
+[![Image](mainstream/sema.png)](https://www.youtube.com/watch?v=uCfwuPBLyLU )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.uludagsozluk.com/k/e%C4%9Fer-bir-kaset-varsa-ya-ananla-ya-da-kar%C4%B1nlad%C4%B1r/ bunuananasorsana delikanlı -->
