@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=QUYKSWQmkrg )
+[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/anne-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-olas%C4%B1-ba%C5%9Fl%C4%B1klar/ )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.youtube.com/watch?v=dCAh-dNtPH0 davşan uludağa küsmüş len emq -->
