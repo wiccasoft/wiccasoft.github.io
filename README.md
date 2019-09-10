@@ -1,7 +1,7 @@
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA badeisteyenkamalcı -->
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA badeisteyeneticin -->
 <!-- https://www.youtube.com/watch?v=uCfwuPBLyLU emre mor kim amk -->
 <!-- https://www.youtube.com/watch?v=BaTd_F2yIrU retirement -->
 <!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
