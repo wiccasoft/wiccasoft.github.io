@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=QUYKSWQmkrg )
+[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/kad%C4%B1nlar-%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-i%C3%A7in-maa%C5%9Flar-az-ekonomi-bozuk/ )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.youtube.com/watch?v=dCAh-dNtPH0 davşan uludağa küsmüş len emq -->
