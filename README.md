@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=OvPEhk5v7nc )
+[![Image](mainstream/sema.png)](http://kralspor.ensonhaber.com/m/haber.php?s=emre-mor-yine-dmden-yurudu-2019-09-10 )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 
