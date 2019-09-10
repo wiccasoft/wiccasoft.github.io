@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/vedat-muriqi-vs-radamel-falcao/&w=bg )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.youtube.com/watch?v=uCfwuPBLyLU emre mor kim amk -->
