@@ -1,4 +1,5 @@
 [![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/istanbul-bb-ni-2-90-dolarl%C4%B1k-logo-ile-tan%C4%B1tmak/ )
+<!-- https://www.uludagsozluk.com/k/istanbul-bb-ni-2-90-dolarl%C4%B1k-logo-ile-tan%C4%B1tmak/ gözlerigülenşekildeiyesta -->
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
