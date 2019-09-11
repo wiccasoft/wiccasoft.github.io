@@ -1,5 +1,6 @@
 [![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/istanbul-bb-ni-2-90-dolarl%C4%B1k-logo-ile-tan%C4%B1tmak/ )
 <!-- https://www.uludagsozluk.com/k/istanbul-bb-ni-2-90-dolarl%C4%B1k-logo-ile-tan%C4%B1tmak/ gözlerigülenşekildeiyesta -->
+<!-- https://www.uludagsozluk.com/k/chp-li-ba%C5%9Fkan%C4%B1n-amca-ve-day%C4%B1-k%C4%B1z%C4%B1n%C4%B1-m%C3%BCd%C3%BCr-yapmas%C4%B1/ götlobları kalpşeklindeaçılaniyesta -->
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
