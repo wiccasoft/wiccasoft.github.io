@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.facebook.com/hepizindeyiz/videos/vb.202031546812981/429218470825802/?type=2&theater )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=gHBhKbF2xMA  )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
