@@ -1,5 +1,6 @@
 <!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 gözleri ehe diyen gülen suraT -->
 <!-- https://www.youtube.com/watch?v=QBB3ENbpYUM gözleri babacan gülen surat -->
+<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 gözleri berad white flag gülen surat -->
 <!-- https://www.youtube.com/watch?v=OlCeeUq4se0 gözleri zallın köpeklerini siklemeyerek gülen surat -->
 <!-- https://www.youtube.com/watch?v=gHBhKbF2xMA sedatın işsizleri --Z
 [![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/chp-li-ba%C5%9Fkan%C4%B1n-amca-ve-day%C4%B1-k%C4%B1z%C4%B1n%C4%B1-m%C3%BCd%C3%BCr-yapmas%C4%B1/ )
