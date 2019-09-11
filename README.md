@@ -1,4 +1,5 @@
 <!-- https://www.youtube.com/watch?v=OlCeeUq4se0 gözleri zallın köpeklerini siklemeyerek gülen surat -->
+<!-- https://www.youtube.com/watch?v=gHBhKbF2xMA sedatın işsizleri --Z
 [![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/chp-li-ba%C5%9Fkan%C4%B1n-amca-ve-day%C4%B1-k%C4%B1z%C4%B1n%C4%B1-m%C3%BCd%C3%BCr-yapmas%C4%B1/ )
 <!-- https://www.uludagsozluk.com/k/istanbul-bb-ni-2-90-dolarl%C4%B1k-logo-ile-tan%C4%B1tmak/ gözlerigülenşekildeiyesta -->
 <!-- https://www.uludagsozluk.com/k/chp-li-ba%C5%9Fkan%C4%B1n-amca-ve-day%C4%B1-k%C4%B1z%C4%B1n%C4%B1-m%C3%BCd%C3%BCr-yapmas%C4%B1/ götloblarıkalpşeklindeaçılaniyesta -->
@@ -16,7 +17,7 @@
 <!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
 <!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 kadermahkumları -->
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=nNXa3-XTj-c )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=gHBhKbF2xMA )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
