@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/ibb-nin-yeni-logosunun-%C3%A7al%C4%B1nt%C4%B1-%C3%A7%C4%B1kmas%C4%B1/  )
+[![Image](mainstream/sema.png)] ( https://www.uludagsozluk.com/k/chp-li-ba%C5%9Fkan%C4%B1n-amca-ve-day%C4%B1-k%C4%B1z%C4%B1n%C4%B1-m%C3%BCd%C3%BCr-yapmas%C4%B1/ )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
