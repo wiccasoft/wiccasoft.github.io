@@ -17,7 +17,7 @@
 <!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
 <!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 kadermahkumları -->
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=gHBhKbF2xMA )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=9FJHDkx1Gv8 )
 
 [![Image](mainstream/rothschild.png)]( https://eksisozluk.com/zombileri-bir-arada-tutan-seyler--3137629? )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
