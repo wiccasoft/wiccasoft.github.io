@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=isDvo3tQ6H4  )
+[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/ibb-nin-yeni-logosunun-%C3%A7al%C4%B1nt%C4%B1-%C3%A7%C4%B1kmas%C4%B1/  )
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
