@@ -1,6 +1,6 @@
 <!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 gözleri ehe diyen gülen suraT -->
 
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=TA6y-oRT1w0 )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=dhuI9TO1rY8 )
 <!-- https://www.youtube.com/watch?v=V85VqlVptWM exmac -->
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
