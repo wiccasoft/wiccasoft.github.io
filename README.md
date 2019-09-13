@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=U_oeUqa4b20 )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=3jH0LZ_vs00 )
 <!-- https://www.youtube.com/watch?v=V85VqlVptWM exmac -->
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
