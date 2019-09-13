@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=MlsIZjX1Zsk )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=3jH0LZ_vs00 )
 <!-- https://www.youtube.com/watch?v=aUVCScTlweg şok-->
 <!-- https://www.youtube.com/watch?v=V4IzE54KGX0 reynmenabi -->
 <!-- https://www.youtube.com/watch?v=V85VqlVptWM exmac -->
