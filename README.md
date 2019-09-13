@@ -1,4 +1,5 @@
 [![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/sen-t%C4%B1r%C4%B1-s%C3%BCr-leonardo-da-vinci/ )
+<!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
 <!-- https://www.youtube.com/watch?v=pyXdB_AYiDs yoğumlan -->
 <!-- https://www.youtube.com/watch?v=aUVCScTlweg şok-->
@@ -9,7 +10,7 @@
 <!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
 <!-- https://www.youtube.com/watch?v=jYSr_qt9wyc ali baba -->
 <!-- https://www.youtube.com/watch?v=ej8-Rqo-VT4 dex -->
-
+<!-- https://www.uludagsozluk.com/k/sen-t%C4%B1r%C4%B1-s%C3%BCr-leonardo-da-vinci/  çaktın mı espriyi -->
 <!-- https://www.youtube.com/watch?v=Q8AZ16uBhr8 davşan dağ ikileğmi sorunsağlı-->
 
 <!-- https://www.youtube.com/watch?v=BaTd_F2yIrU retirement -->
