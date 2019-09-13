@@ -12,7 +12,7 @@
 <!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
 <!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 kadermahkumları -->
 
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
+[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=_sGByyJ2dS8 )
 
 [![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=l_lblj8Cq0o )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
