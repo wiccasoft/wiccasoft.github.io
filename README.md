@@ -1,4 +1,6 @@
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=pyXdB_AYiDs )
+<!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
+<!-- https://www.youtube.com/watch?v=pyXdB_AYiDs yoğumlan -->
 <!-- https://www.youtube.com/watch?v=aUVCScTlweg şok-->
 <!-- https://www.youtube.com/watch?v=V4IzE54KGX0 reynmenabi -->
 <!-- https://www.youtube.com/watch?v=V85VqlVptWM exmac -->
