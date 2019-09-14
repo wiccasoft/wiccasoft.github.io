@@ -1,5 +1,5 @@
 [![Image](mainstream/radio.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=YVkUvmDQ3HY )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=baRHGSd9wvM enes abi anamı sik -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerdeoynanır -->
