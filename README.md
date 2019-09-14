@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=NsqK9vfFVxg )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=GxBSyx85Kp8 )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=baRHGSd9wvM enes abi anamı sik -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerdeoynanır -->
