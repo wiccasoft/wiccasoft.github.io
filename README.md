@@ -1,10 +1,11 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=V4IzE54KGX0 )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=Xhyky52d9us )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
 <!-- https://www.youtube.com/watch?v=V795utZoT4c 80 minyon -->
 <!-- https://www.youtube.com/watch?v=pyXdB_AYiDs yoğumlan -->
 <!-- https://www.youtube.com/watch?v=aUVCScTlweg şok-->
-<!-- https://www.youtube.com/watch?v=V4IzE54KGX0 reynmenabi -->
+<!-- https://www.youtube.com/watch?v=Xhyky52d9us reynmen enesbatur -->
+<!-- https://www.youtube.com/watch?v=V4IzE54KGX0 reynmen -->
 <!-- https://www.youtube.com/watch?v=V85VqlVptWM exmac -->
 <!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
