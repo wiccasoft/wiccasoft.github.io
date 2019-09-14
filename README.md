@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=baRHGSd9wvM)
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=r-Qp9CWaba4 )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=baRHGSd9wvM enes abi anamı sik -->
 <!-- https://www.uludagsozluk.com/k/yerli-u%C3%A7ak/&w=bg zuhahahaha ->
