@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/sen-t%C4%B1r%C4%B1-s%C3%BCr-leonardo-da-vinci/ )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
 <!-- https://www.youtube.com/watch?v=pyXdB_AYiDs yoğumlan -->
