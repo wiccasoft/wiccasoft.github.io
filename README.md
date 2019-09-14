@@ -1,6 +1,7 @@
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=NsqK9vfFVxg )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=baRHGSd9wvM enes abi anamı sik -->
+<!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerdeoynanır -->
 <!-- https://www.uludagsozluk.com/k/yerli-u%C3%A7ak/&w=bg zuhahahaha ->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1ndan-benim-han%C4%B1m-diye-bahseden-erkek/ -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
