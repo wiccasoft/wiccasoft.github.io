@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=jYSr_qt9wyc )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=V795utZoT4c )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
 <!-- https://www.youtube.com/watch?v=pyXdB_AYiDs yoğumlan -->
