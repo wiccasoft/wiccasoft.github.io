@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=Xhyky52d9us )
+[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=MTJuKPbzpcQ )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
 <!-- https://www.youtube.com/watch?v=V795utZoT4c 80 minyon -->
