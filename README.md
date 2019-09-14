@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.uludagsozluk.com/k/adam%C4%B1-madam-yapar%C4%B1m/ )
+[![Image](mainstream/sema.png)](  https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1ndan-benim-han%C4%B1m-diye-bahseden-erkek/ )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.uludagsozluk.com/k/yerli-u%C3%A7ak/&w=bg zuhahahaha ->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1ndan-benim-han%C4%B1m-diye-bahseden-erkek/ -->
