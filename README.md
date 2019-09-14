@@ -1,4 +1,4 @@
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=V795utZoT4c )
+[![Image](mainstream/sema.png)]( http://www.cumhuriyet.com.tr/video/video/1412895/Bilal_Erdogan_ok_atti___Kimse_yok_degil_mi_asagida__.html )
 <!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
 <!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
 <!-- https://www.youtube.com/watch?v=V795utZoT4c 80 minyon -->
