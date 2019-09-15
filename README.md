@@ -1,4 +1,4 @@
-[![Image](mainstream/radio.png)]( https://www.youtube.com/watch?v=KY65g3T3MSM )
+[![Image](mainstream/radio.png)]( https://t24.com.tr/video/30-agustos-hutbesinde-ataturk-un-adina-yer-verilmemesi-tepki-cekti,21996 )
 [![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=IFAcqaNzNSc )
 <!-- https://www.youtube.com/watch?v=zJYiKve84Fk safe from harm -->
