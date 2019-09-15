@@ -1,9 +1,9 @@
-[![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=f3XlIQ5pmdQ )
+[![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
 [![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=IFAcqaNzNSc )
 <!-- https://www.youtube.com/watch?v=Y40IXXZqots var mısın nöraley -->
-<!-- https://www.youtube.com/watch?v=f3XlIQ5pmdQ greyhound -->
+<!-- https://www.youtube.com/watch?v=PDboaDrHGbA greyhound -->
 <!-- https://www.youtube.com/watch?v=nm6DO_7px1I snapcraft -->
 <!-- https://www.youtube.com/watch?v=baFBNRK7uRk dünya lideri erdo -->
 <!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 horon -->
