@@ -30,7 +30,7 @@
 
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=_sGByyJ2dS8 )
 
-[![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=l_lblj8Cq0o )
+[![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=DFYDBa21yn4 )
 [![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 [![Image](mainstream/galaxy-fold.png)]( https://www.youtube.com/watch?v=eQcwH7-sEkQ )
