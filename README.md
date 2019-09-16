@@ -1,6 +1,7 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=bZliovcpusI )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=IVv2U4EjOnI )
 <!-- https://www.youtube.com/watch?v=bZliovcpusI tengir vs ergenler -->
 <!-- https://www.youtube.com/watch?v=9gTJZvmawY4 n'lacak bunların hali -->
+<!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
 <!-- https://www.uludagsozluk.com/k/menzilcilerin-bilvanis-%C3%A7iftli%C4%9Fi-ve-buhara-k%C3%B6y%C3%BC/&w=gd -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
