@@ -1,5 +1,6 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=yphjF2e2Izg )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=FxyAFtEGFhQ )
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
+<!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ ben kürde saksocu karı vermem diyen türk -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg kürtlere forvet vermeyen baba -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU kızı almıyosan babayı alırsın diyen baba -->
 <!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen kürt baba -->
