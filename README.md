@@ -1,6 +1,5 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/tayyip-vefat-edince-koyunlar%C4%B1-ne-olacak-sorunsal%C4%B1/&w=bg  )
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ )
 <!-- https://www.uludagsozluk.com/k/and%C4%B1m%C4%B1z%C4%B1-bilmeyen-kemalist-chp-liler/&w=gd koyunlar -->
-<!-- https://www.uludagsozluk.com/k/16-eyl%C3%BCl-2019-alanyaspor-fenerbah%C3%A7e-ma%C3%A7%C4%B1/&w=bg koyunsporun döşeyeceği boru-->
 <!-- https://www.uludagsozluk.com/k/%C3%A7ama%C5%9F%C4%B1r-makinesinden-u%C3%A7an-araba-yapan-adam/ siirtli oç -->
 <!-- https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ tayyipini ölmesini bekleyen koyunlar -->
 <!-- https://www.google.com/search?q=mahmut+tuncer&oq=mamut+tun&aqs=chrome.1.69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8  koyunlar n'olacak sorunsalı -->
