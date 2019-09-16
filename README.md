@@ -5,7 +5,7 @@
 <!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
 <!-- https://www.youtube.com/watch?v=jEwC3036Axc ben kürde kızımı veririm diyen zaza baba -->
-<!-- https://www.youtube.com/watch?v=4FS2unbyzL8 demek kızımı katır küğtür sikmek istiyorsunuz -->
+<!-- https://www.youtube.com/watch?v=4FS2unbyzL8 kızı istemiyorsanız kendimim verim diyen türk baba -->
 
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
