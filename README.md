@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.cnnturk.com/video/magazin/neslican-tay-kimdir-kanser-hastasi-neslicanin-son-durumu-nasil)
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ )
 <!-- https://www.uludagsozluk.com/e/42151770/ vasıfsızdırlar evet -->
 <!-- https://www.uludagsozluk.com/k/mado-da-2-ki%C5%9Filik-sini-kahvalt%C4%B1n%C4%B1n-95-tl-olmas%C4%B1/ bkz hayallerde yaşıyor baız sığırlar --->
 <!-- https://www.uludagsozluk.com/e/42151724/ ibne evladı -->
