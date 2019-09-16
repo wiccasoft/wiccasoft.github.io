@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=Fq2zgW4L98A )
+[![Image](mainstream/menzil.png)]( https://twitter.com/YolTV/status/1173333490701602816 )
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
