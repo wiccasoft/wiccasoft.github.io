@@ -1,5 +1,6 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=-AdnJiuDGVU )
 
+<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
 
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
