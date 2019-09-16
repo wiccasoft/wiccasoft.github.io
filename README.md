@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ )
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/tayyip-vefat-edince-koyunlar%C4%B1-ne-olacak-sorunsal%C4%B1/&w=bg )
 <!-- https://www.uludagsozluk.com/k/islam-slimani-vs-vedat-muriqi/ vedatı koyunlara anlatmak -->
 <!-- https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ tayyipini ölmesini bekleyen koyunlar -->
 <!-- https://www.google.com/search?q=mahmut+tuncer&oq=mamut+tun&aqs=chrome.1.69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8  koyunlar n'olacak sorunsalı -->
