@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/tayyip-vefat-edince-koyunlar%C4%B1-ne-olacak-sorunsal%C4%B1/&w=bg  )
+[![Image](mainstream/menzil.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  )
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde façebuk sayfasına kim layklayacak sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/kemal-sunal%C4%B1n-burnu-havada-olmas%C4%B1/ kamalölünce bu çoamrı kim emcikyelecek sorunsalı -->
 <!--  https://www.uludagsozluk.com/k/y%C4%B1lmaz-morg%C3%BCl-%C3%BCn-memeleri/  ylmzmrgl ölünce memeleri kim emcikleyecek sorunsalı -->
