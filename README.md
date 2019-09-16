@@ -1,4 +1,5 @@
 [![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ )
+<!-- https://www.uludagsozluk.com/k/ben-fero/&w=bg yakışıklıfalandeğilşekerim -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7ok-veri-yiyor-diye-instaya-girmemek/ koyunlar mağdur -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ oç siirtli çomar -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ hediye -->
