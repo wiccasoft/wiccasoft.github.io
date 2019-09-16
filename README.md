@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/e/42151724/  )
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/mado-da-2-ki%C5%9Filik-sini-kahvalt%C4%B1n%C4%B1n-95-tl-olmas%C4%B1/  )
 <!-- https://www.uludagsozluk.com/e/42151770/ vasıfsızdırlar evet -->
 <!-- https://www.uludagsozluk.com/k/mado-da-2-ki%C5%9Filik-sini-kahvalt%C4%B1n%C4%B1n-95-tl-olmas%C4%B1/ bkz hayallerde yaşıyor baız sığırlar --->
 <!-- https://www.uludagsozluk.com/e/42151724/ ibne evladı -->
