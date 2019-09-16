@@ -1,4 +1,5 @@
 [![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ )
+<!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ hediye -->
 <!-- https://www.uludagsozluk.com/k/and%C4%B1m%C4%B1z%C4%B1-bilmeyen-kemalist-chp-liler/&w=gd çıktıkaçıkayınla -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7ama%C5%9F%C4%B1r-makinesinden-u%C3%A7an-araba-yapan-adam/ siirtli oç -->
 <!-- https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ tayyipini ölmesini bekleyen koyunlar -->
