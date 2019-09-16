@@ -7,7 +7,7 @@
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ kızın akarı kokarı olmaz diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI 250 gr için değer mi diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
-<!-- https://www.youtube.com/watch?v=jEwC3036Axc ben karda kürt veriririm diyen kart baba -->
+<!-- https://www.youtube.com/watch?v=jEwC3036Axc kanseri yemiyosanız kaldırim diyen baba -->
 <!-- https://www.youtube.com/watch?v=4FS2unbyzL8 kardı istemiyorsanız kurdu kaldırıyorum diyen baba -->
 
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
