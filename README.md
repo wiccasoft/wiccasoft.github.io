@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://eksisozluk.com/erdoganin-putine-nice-to-meet-you-demesi--6181390?a=popular)
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 <!-- https://www.uludagsozluk.com/e/42151770/ vasıfsızdırlar evet nice to mmet you -->
 <!-- https://www.uludagsozluk.com/k/mado-da-2-ki%C5%9Filik-sini-kahvalt%C4%B1n%C4%B1n-95-tl-olmas%C4%B1/ bkz hayallerde yaşıyor baız sığırlar --->
 <!-- https://www.uludagsozluk.com/e/42151724/ ibne evladı -->
