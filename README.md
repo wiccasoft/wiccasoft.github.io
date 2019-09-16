@@ -1,4 +1,5 @@
 [![Image](mainstream/menzil.png)]( https://www.google.com/search?q=mahmut+tuncer&oq=mamut+tun&aqs=chrome.1.69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8 )
+<!-- https://www.google.com/search?q=mahmut+tuncer&oq=mamut+tun&aqs=chrome.1.69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8  koyunlar n'olacak sorunsalı -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde façebuk sayfasına kim layklayacak sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/kemal-sunal%C4%B1n-burnu-havada-olmas%C4%B1/ kamalölünce bu çoamrı kim emcikyelecek sorunsalı -->
 <!--  https://www.uludagsozluk.com/k/y%C4%B1lmaz-morg%C3%BCl-%C3%BCn-memeleri/  ylmzmrgl ölünce memeleri kim emcikleyecek sorunsalı -->
