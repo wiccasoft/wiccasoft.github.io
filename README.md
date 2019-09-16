@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=4FS2unbyzL8 )
+[![Image](mainstream/menzil.png)]( https://www.sabah.com.tr/yasam/2019/09/16/son-dakika-haberi-neslican-tay-yogun-bakima-kaldirildi-neslican-tay-saglik-durumu-nasil-ve-kimdir )
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
