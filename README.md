@@ -1,5 +1,5 @@
 [![Image](mainstream/menzil.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ )
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde facebuk sayfasına kim bakacak sorunsalı -->
+<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde façebuk sayfasına kim layklayacak sorunsalı -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI tengir vs ergenler -->
 <!-- https://www.youtube.com/watch?v=9gTJZvmawY4 n'lacak bunların hali -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo investment -->
