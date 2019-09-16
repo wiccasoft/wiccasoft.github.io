@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=bZliovcpusI )
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/alkol-t%C3%BCketmeyen-p%C4%B1s%C4%B1r%C4%B1k-erkek/ )
 <!-- https://www.youtube.com/watch?v=bZliovcpusI tengir vs ergenler -->
 <!-- https://www.uludagsozluk.com/k/menzilcilerin-bilvanis-%C3%A7iftli%C4%9Fi-ve-buhara-k%C3%B6y%C3%BC/&w=gd -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
