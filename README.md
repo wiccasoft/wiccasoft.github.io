@@ -1,5 +1,5 @@
 [![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/tayyip-vefat-edince-koyunlar%C4%B1-ne-olacak-sorunsal%C4%B1/&w=bg )
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyipin facebook sayfası -->
+<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde facebuk sayfasına kim bakacak sorunsalı -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI tengir vs ergenler -->
 <!-- https://www.youtube.com/watch?v=9gTJZvmawY4 n'lacak bunların hali -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo investment -->
