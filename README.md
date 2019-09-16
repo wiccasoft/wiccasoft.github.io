@@ -1,9 +1,9 @@
 [![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ  )
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
-<!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen baba -->
+<!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen kürt baba -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ kızın akarı kokarı olmaz diyen türk baba -->
-<!-- https://www.youtube.com/watch?v=bZliovcpusI 250 gr için değer mi diyen baba -->
+<!-- https://www.youtube.com/watch?v=bZliovcpusI 250 gr için değer mi diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
 <!-- https://www.youtube.com/watch?v=jEwC3036Axc ben kürde kızımı veririm diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=4FS2unbyzL8 kızı istemiyorsanız kaldırıyorum diyen türk baba -->
