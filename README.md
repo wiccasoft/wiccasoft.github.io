@@ -1,5 +1,5 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/e/42151724/ )
-
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/mado-da-2-ki%C5%9Filik-sini-kahvalt%C4%B1n%C4%B1n-95-tl-olmas%C4%B1/ )
+<!-- https://www.uludagsozluk.com/e/42151724/ ibne evladı -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7ok-veri-yiyor-diye-instaya-girmemek/ koyunlar mağdur -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ oç siirtli çomar -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ hediye -->
