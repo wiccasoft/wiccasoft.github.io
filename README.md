@@ -6,7 +6,7 @@
 <!-- https://www.youtube.com/watch?v=bZliovcpusI 250 gr için değer mi diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
 <!-- https://www.youtube.com/watch?v=jEwC3036Axc ben karda kürt veriririm diyen kart baba -->
-<!-- https://www.youtube.com/watch?v=4FS2unbyzL8 kızı istemiyorsanız kaldırıyorum diyen türk baba -->
+<!-- https://www.youtube.com/watch?v=4FS2unbyzL8 kardı istemiyorsanız kaldırıyorum diyen kurt baba -->
 
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
