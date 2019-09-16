@@ -1,24 +1,7 @@
 [![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
-<!-- https://www.uludagsozluk.com/e/42151770/ vasıfsızdırlar evet nice to meeet you have nice day  -->
-<!-- https://www.uludagsozluk.com/k/mado-da-2-ki%C5%9Filik-sini-kahvalt%C4%B1n%C4%B1n-95-tl-olmas%C4%B1/ bkz hayallerde yaşıyor baız sığırlar --->
-<!-- https://www.uludagsozluk.com/e/42151724/ ibne evladı -->
-<!-- https://www.uludagsozluk.com/k/%C3%A7ok-veri-yiyor-diye-instaya-girmemek/ koyunlar mağdur -->
-<!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ oç siirtli çomar -->
-<!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ hediye -->
-<!-- https://www.uludagsozluk.com/k/and%C4%B1m%C4%B1z%C4%B1-bilmeyen-kemalist-chp-liler/&w=gd çıktıkaçıkayınlakoyungibi meleyik -->
-<!-- https://www.uludagsozluk.com/k/%C3%A7ama%C5%9F%C4%B1r-makinesinden-u%C3%A7an-araba-yapan-adam/ siirtli oç -->
-<!-- https://www.uludagsozluk.com/k/sabah-tv-yi-a%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1zda-%C3%B6lm%C3%BC%C5%9F-olmas%C4%B1/ tayyipini ölmesini bekleyen koyunlar -->
-<!-- https://www.google.com/search?q=mahmut+tuncer&oq=mamut+tun&aqs=chrome.1.69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8  koyunlar n'olacak sorunsalı -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde façebuk sayfasına kim layklayacak sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/kemal-sunal%C4%B1n-burnu-havada-olmas%C4%B1/ kamalölünce bu çoamrı kim emcikyelecek sorunsalı -->
-<!--  https://www.uludagsozluk.com/k/y%C4%B1lmaz-morg%C3%BCl-%C3%BCn-memeleri/  ylmzmrgl ölünce memeleri kim emcikleyecek sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/tayyip-vefat-edince-koyunlar%C4%B1-ne-olacak-sorunsal%C4%B1/&w=bg -->
-<!-- https://www.youtube.com/watch?v=bZliovcpusI tengir vs ergenler -->
-<!-- https://www.youtube.com/watch?v=9gTJZvmawY4 n'lacak bunların hali -->
-<!-- https://www.youtube.com/watch?v=hQXLrPlcbeo investment -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
-<!-- https://www.uludagsozluk.com/k/menzilcilerin-bilvanis-%C3%A7iftli%C4%9Fi-ve-buhara-k%C3%B6y%C3%BC/&w=gd -->
+
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
 [![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
