@@ -1,6 +1,5 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/ )
+[![Image](mainstream/menzil.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  )
 
-<!-- https://www.uludagsozluk.com/k/ben-fero/&w=bg yakışıklıfalandeğilşekerim -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7ok-veri-yiyor-diye-instaya-girmemek/ koyunlar mağdur -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ oç siirtli çomar -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ hediye -->
