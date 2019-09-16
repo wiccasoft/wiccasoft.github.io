@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/tayyip-vefat-edince-koyunlar%C4%B1-ne-olacak-sorunsal%C4%B1/&w=bg  )
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/y%C4%B1lmaz-morg%C3%BCl-%C3%BCn-memeleri/ )
 <!-- https://www.uludagsozluk.com/k/islam-slimani-vs-vedat-muriqi/ vedatı koyunlara anlatmak -->
 <!-- https://www.google.com/search?q=mahmut+tuncer&oq=mamut+tun&aqs=chrome.1.69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8  koyunlar n'olacak sorunsalı -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ tayyip öldüğünde façebuk sayfasına kim layklayacak sorunsalı -->
