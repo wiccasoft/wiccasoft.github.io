@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
 <!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen kürt baba -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
+<!-- https://www.uludagsozluk.com/k/masterchef-mehmet-%C5%9Fef/ karda yürüyüp kürde vermeyen biri -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ kızın akarı kokarı olmaz diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI 250 gr için değer mi diyen türk baba -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
