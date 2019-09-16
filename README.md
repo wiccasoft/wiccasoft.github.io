@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=6m6xSkw2U5Q )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=bZliovcpusI )
 
 <!-- https://www.uludagsozluk.com/k/%C3%A7ok-veri-yiyor-diye-instaya-girmemek/ koyunlar mağdur -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ oç siirtli çomar -->
