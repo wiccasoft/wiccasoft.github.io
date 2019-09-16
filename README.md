@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.sabah.com.tr/yazarlar/gunaydin/aytug/2018/04/13/demek-kizimi-istiyorsunuz )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=4FS2unbyzL8 )
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
