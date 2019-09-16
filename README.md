@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.ntvspor.net/video-galeri/caner-erkin-gozleriniz-varsa-gorursunuz-5ccf358a8783b216a81d7739 )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=9QHY7Ti2Pz0 )
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU kızı almıyosan babayı alırsın diyen baba -->
 <!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen kürt baba -->
