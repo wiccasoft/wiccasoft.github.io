@@ -1,5 +1,6 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=9QHY7Ti2Pz0 )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=yphjF2e2Izg )
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
+<!-- https://www.youtube.com/watch?v=yphjF2e2Izg -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU kızı almıyosan babayı alırsın diyen baba -->
 <!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen kürt baba -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
