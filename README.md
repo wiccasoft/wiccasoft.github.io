@@ -1,8 +1,9 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=8f78z5Rd1nE )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=4FS2unbyzL8 )
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
 <!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
+<!-- https://www.youtube.com/watch?v=4FS2unbyzL8 demek türk kızımı sikmek istiyorsunuz -->
 
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
