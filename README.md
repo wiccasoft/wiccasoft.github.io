@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  )
+[![Image](mainstream/menzil.png)]( https://www.uludagsozluk.com/k/%C3%A7ama%C5%9F%C4%B1r-makinesinden-u%C3%A7an-araba-yapan-adam/ )
 
 <!-- https://www.uludagsozluk.com/k/%C3%A7ok-veri-yiyor-diye-instaya-girmemek/ koyunlar mağdur -->
 <!-- https://www.uludagsozluk.com/k/istanbul-da-imamo%C4%9Flu-kazanmad%C4%B1-biz-hediye-ettik/ oç siirtli çomar -->
