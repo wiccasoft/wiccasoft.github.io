@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=4FS2unbyzL8 )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=8f78z5Rd1nE )
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
 <!-- https://www.youtube.com/watch?v=bZliovcpusI değer mi -->
