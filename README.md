@@ -1,38 +1,8 @@
 [![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
-<!-- https://www.youtube.com/watch?v=YgfGmqKf748 yüzde dohsandohuz yersiz ve millisiz mobil -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
 [![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=IFAcqaNzNSc )
-<!-- https://www.youtube.com/watch?v=Y40IXXZqots var mısın nöraley -->
-<!-- https://www.youtube.com/watch?v=PDboaDrHGbA greyhound -->
-<!-- https://www.youtube.com/watch?v=nm6DO_7px1I snapcraft -->
-<!-- https://www.youtube.com/watch?v=baFBNRK7uRk dünya lideri erdo -->
-<!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 horon -->
-<!-- https://www.youtube.com/watch?v=zJYiKve84Fk safe from harm -->
-<!-- https://www.youtube.com/watch?v=2qDzd8Z1CFM -->
-<!-- https://www.youtube.com/watch?v=baRHGSd9wvM enes abi anamı sik -->
-<!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerdeoynanır -->
-<!-- https://www.uludagsozluk.com/k/yerli-u%C3%A7ak/&w=bg zuhahahaha ->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1ndan-benim-han%C4%B1m-diye-bahseden-erkek/ -->
-<!-- https://www.youtube.com/watch?v=RaJHr9ThK5k benaslındayoğum -->
-<!-- https://www.youtube.com/watch?v=V795utZoT4c 80 minyon -->
-<!-- https://www.youtube.com/watch?v=pyXdB_AYiDs yoğumlan -->
-<!-- https://www.youtube.com/watch?v=aUVCScTlweg şok-->
-<!-- https://www.youtube.com/watch?v=Xhyky52d9us reynmen enesbatur -->
-<!-- https://www.youtube.com/watch?v=V4IzE54KGX0 reynmen -->
-<!-- https://www.youtube.com/watch?v=V85VqlVptWM exmac -->
-<!-- https://www.youtube.com/watch?v=-vF93RdxUxw -->
-<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entelferidun -->
-<!-- https://www.youtube.com/watch?v=OvPEhk5v7nc science fair -->
-<!-- https://www.youtube.com/watch?v=jYSr_qt9wyc ali baba -->
-<!-- https://www.youtube.com/watch?v=ej8-Rqo-VT4 dex -->
-<!-- https://www.uludagsozluk.com/k/sen-t%C4%B1r%C4%B1-s%C3%BCr-leonardo-da-vinci/  çaktın mı espriyi -->
-<!-- https://www.youtube.com/watch?v=Q8AZ16uBhr8 davşan dağ ikileğmi sorunsağlı-->
-
-<!-- https://www.youtube.com/watch?v=BaTd_F2yIrU retirement -->
-<!-- https://www.youtube.com/watch?v=QGuYep0cSAY bebeleri pistten alalım -->
-<!-- https://www.youtube.com/watch?v=g6t8g6ka4W0 kadermahkumları -->
 
 [![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=_sGByyJ2dS8 )
 
