@@ -1,5 +1,5 @@
 [![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
-<!-- https://www.youtube.com/watch?v=YgfGmqKf748 yüzde dohsandohuz yersiz mobil -->
+<!-- https://www.youtube.com/watch?v=YgfGmqKf748 yüzde dohsandohuz yersiz ve millisiz mobil -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
 [![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
