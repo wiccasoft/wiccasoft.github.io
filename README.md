@@ -1,3 +1,4 @@
+[![Image](math/intro.png)]( https://www.youtube.com/watch?v=Dm6sSQ-UhJg )
 [![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
 <!-- https://www.youtube.com/watch?v=4q9CNtwdawA puppeteer  -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
