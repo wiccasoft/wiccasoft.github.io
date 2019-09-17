@@ -70,38 +70,6 @@ e -->
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o )
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
-<!-- https://www.youtube.com/watch?v=9mzuI73FrgE istanbul -->
-<!-- https://www.internet-radio.com/ --> 
-<!-- https://www.youtube.com/watch?v=9mzuI73FrgE whatginonthere-- >
-
-<!-- https://www.youtube.com/watch?v=ZkqyIoYAXV8 purple yatch-->
-<!-- https://www.youtube.com/watch?v=3LsJKiYr_Fg joker -->
-
-<!-- https://www.youtube.com/watch?v=3eoyLc4WfmY bereket-->
-<!-- https://www.youtube.com/watch?v=LqMDahWXp78 yapelinkardeş-->
-<!-- https://www.youtube.com/watch?v=I8eHrS5O4yE rönt4 -->
-<!-- https://www.youtube.com/watch?v=OmBjfEEjh5E rönt6 -->
-<!-- https://www.youtube.com/watch?v=nzTu80S7UM0 nokta -->
-
-<!-- https://www.youtube.com/watch?v=0sE9xCDfuuU 2020-->
-
-<!-- https://www.youtube.com/watch?v=PpyP6jgzrVU aliusta -->
-<!-- https://www.youtube.com/watch?v=oenH2WxQ01g mumbar -->
-<!-- https://www.youtube.com/watch?v=pzTq6jxXkCw kırtlarvidisiracon -->
-
-<!-- https://www.youtube.com/watch?v=jRMzVMe18cA boogie -->
-<!-- https://www.youtube.com/watch?v=TsW8mziTjAk color -->
-
-<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w kan davası -->
-<!-- https://www.youtube.com/watch?v=Ca-dpDBWPZs crazy -->
-<!-- https://www.youtube.com/watch?v=FPKz5f_zszA youtubers -->
-<!-- https://www.youtube.com/watch?v=VaUPyuzNsGQ funny goats -->
-
-<!-- https://www.youtube.com/watch?v=KFH046IYwb4 vocal jazz-->
-<!-- https://www.youtube.com/watch?v=UsUgC4di5Kw 150-->
-<!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ_ haydaa/-->
-<!-- https://www.youtube.com/watch?v=FqDSaTKtQYA_ rap wars/-->
-<!-- https://www.youtube.com/watch?v=B3y1Q1j7RGg deutchland-->
 
 <!-- https://www.youtube.com/watch?v=p4G91Hc5X_o troy/-->
 <!-- https://www.statista.com/statistics/273495/global-shipments-of-personal-computers-since-2006/-->
