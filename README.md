@@ -1,18 +1,4 @@
 [![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
-<!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
-<!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ ben kürde saksocu karı vermem diyen türk -->
-<!-- https://www.youtube.com/watch?v=yphjF2e2Izg kürtlere forvet vermeyen baba -->
-<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU kızı almıyosan babayı alırsın diyen baba -->
-<!-- https://www.youtube.com/watch?v=Z2pWTL1RJsM kızı almıyosanız kaldırım benimkini alın diyen kürt baba -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoğlan köfte vs yusufoğlan köfte -->
-<!-- https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-mahzuni-%C5%9Ferif/&w=bg kürde kart diyen aşık baba -->
-<!-- https://www.uludagsozluk.com/k/masterchef-mehmet-%C5%9Fef/ karda yürüyüp kürde vermeyen biri -->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ kızın akarı kokarı olmaz diyen türk baba -->
-<!-- https://www.youtube.com/watch?v=bZliovcpusI 250 gr için değer mi diyen türk baba -->
-<!-- https://www.youtube.com/watch?v=IVv2U4EjOnI ascension -->
-<!-- https://www.youtube.com/watch?v=jEwC3036Axc kanseri yemiyosanız kaldırim diyen kız -->
-<!-- https://www.youtube.com/watch?v=4FS2unbyzL8 kardı istemiyorsanız kurdu kaldırıyorum diyen baba -->
-
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
 [![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
