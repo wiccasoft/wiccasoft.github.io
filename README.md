@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
 <!-- https://www.youtube.com/watch?v=YgfGmqKf748 yüzde dohsandohuz yersiz ve millisiz mobil -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 [![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
