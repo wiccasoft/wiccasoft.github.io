@@ -25,14 +25,7 @@
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
 
 [![Image](mainstream/screen707.png)]( https://www.youtube.com/watch?v=RF60iDaoEPw )
-<!-- https://www.uludagsozluk.com/k/k%C4%B1sa-mesajla-i%C5%9F%C3%A7i-%C3%A7%C4%B1karan-imamo%C4%9Flu/&w=gd sms
-<!-- https://www.uludagsozluk.com/k/sen-yerinde-dur-kar%C5%9F%C4%B1nda-enes-batur/ -->
-<!-- https://www.youtube.com/watch?v=6HZPQDIvHxI -->
-<!-- https://www.youtube.com/watch?v=2GSS6rSn5Gk&feature=youtu.be&t=8  -->
-<!-- https://www.youtube.com/watch?v=r_3k-DD6Op4 -->
-<!-- https://www.uludagsozluk.com/k/harun-kol%C3%A7ak-vs-soner-ar%C4%B1ca/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/ahlat-ta-k%C3%BClliyenin-yan%C4%B1nda-butik-otel-yapaca%C4%9F%C4%B1z/ -->
-<!-- httpcr kurtbeats -->
+
 [![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/ivana-sert-vurdu-ve-gol/)
 
 <!-- http://streamer.psyradio.org:8010/;listen.mp3 -->
