@@ -1,4 +1,4 @@
-[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=jEwC3036Axc )
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin-->
 <!-- https://www.youtube.com/watch?v=FxyAFtEGFhQ ben kürde saksocu karı vermem diyen türk -->
 <!-- https://www.youtube.com/watch?v=yphjF2e2Izg kürtlere forvet vermeyen baba -->
