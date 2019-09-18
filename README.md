@@ -3,14 +3,6 @@
 [![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
 <!-- https://www.youtube.com/watch?v=4q9CNtwdawA puppeteer  -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
-[![Image](mainstream/radio.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
-[![Image](mainstream/smartstream.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
-[![Image](mainstream/sema.png)]( https://www.youtube.com/watch?v=IFAcqaNzNSc )
-
-[![Image](mainstream/beinsports.png)]( https://www.youtube.com/watch?v=_sGByyJ2dS8 )
-
-[![Image](mainstream/rothschild.png)]( https://www.youtube.com/watch?v=DFYDBa21yn4 )
-[![Image](mainstream/serotonin.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 [![Image](mainstream/galaxy-fold.png)]( https://www.youtube.com/watch?v=eQcwH7-sEkQ )
 <!-- https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a -->
