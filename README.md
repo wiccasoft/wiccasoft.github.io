@@ -1,4 +1,4 @@
-[![Image](math/bash.png)]( https://www.youtube.com/watch?v=CkKLDlD_jX4 )
+[![Image](math/bash.png)]( http://next.plnkr.co/edit/i5XmKxUzikVJ2cz4czFS?p=preview&utm_source=legacy&utm_medium=worker&utm_campaign=next )
 [![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
 <!-- https://www.youtube.com/watch?v=4q9CNtwdawA puppeteer  -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
