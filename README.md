@@ -1,4 +1,5 @@
 [![Image](math/bash.png)]( http://toreaurstad.blogspot.com/2017/08/integrals-in-math-with-javascript.html )
+<!-- https://mauriciopoppe.github.io/function-plot/ -->
 [![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
 <!-- https://www.youtube.com/watch?v=4q9CNtwdawA puppeteer  -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
