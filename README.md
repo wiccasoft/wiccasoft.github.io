@@ -23,9 +23,6 @@
 
 [![Image](mainstream/screen686.png)](https://www.uludagsozluk.com/k/ivana-sert-vurdu-ve-gol/)
 
-<!-- http://streamer.psyradio.org:8010/;listen.mp3 -->
-[![Image](mainstream/screen680.png)](https://www.youtube.com/watch?v=qSqVVswa420)
-e -->
 <!-- https://soundcloud.com/kurbeats/kurbeats-celestial-lights -->
 [![Image](mainstream/screen634.png)](https://www.youtube.com/watch?v=N6LTquVWaWk)
 
