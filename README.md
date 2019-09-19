@@ -1,6 +1,7 @@
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
 <!-- https://mauriciopoppe.github.io/function-plot/ -->
-[![Image](mainstream/menzil.png)]( https://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite )
+[![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=CkKLDlD_jX4h )
+<!-- ttps://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite -->
 <!-- https://www.youtube.com/watch?v=4q9CNtwdawA puppeteer  -->
 [![Image](mainstream/skylab-dark.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
 
