@@ -1,4 +1,6 @@
-[![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
+[![Image](math/bash.png)]( https://www.youtube.com/watch?v=NXQJ9iR5Bk)
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
+<!-- https://www.youtube.com/watch?v=9OBjnPh5CPw  tron ending -->
 <!-- https://mauriciopoppe.github.io/function-plot/ -->
 [![Image](mainstream/menzil.png)]( https://www.youtube.com/watch?v=CkKLDlD_jX4h )
 <!-- ttps://stats.stackexchange.com/questions/427352/how-to-know-this-integral-finite-or-infinite -->
