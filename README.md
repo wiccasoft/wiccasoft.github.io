@@ -1,5 +1,5 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
-
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=Fq2zgW4L98A )
+<!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
