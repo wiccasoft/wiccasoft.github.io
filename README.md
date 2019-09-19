@@ -1,3 +1,5 @@
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
+
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 <!-- https://www.youtube.com/watch?v=9OBjnPh5CPw  tron ending -->
