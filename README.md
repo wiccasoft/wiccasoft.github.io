@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ZfwUiw49Aqo )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
 
