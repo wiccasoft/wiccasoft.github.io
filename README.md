@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.uludagsozluk.com/k/orman%C4%B1-yakarken-g%C3%B6r%C3%BCnt%C3%BClenen-orospunun-s%C4%B1%C3%A7t%C4%B1%C4%9F%C4%B1/ )
+[![Image](math/pow.png)]( https://www.uludagsozluk.com/k/meksika-dan-nohut-ithal-edip-%C3%B6nce-vatan-yazmak/ )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
 <!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
