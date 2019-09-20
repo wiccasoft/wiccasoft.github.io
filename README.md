@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.uludagsozluk.com/k/meksika-dan-nohut-ithal-edip-%C3%B6nce-vatan-yazmak/ )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
 <!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
