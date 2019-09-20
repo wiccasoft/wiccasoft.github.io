@@ -1,6 +1,7 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ZfwUiw49Aqo )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
+<!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
 
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
