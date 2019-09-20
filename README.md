@@ -1,9 +1,10 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=qN2ybLGhZ2Y )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
 <!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
 <!-- https://www.youtube.com/watch?v=6mVmrR0EOiE os -->
 <!-- https://www.youtube.com/watch?v=Q3Z1rrh5yf0 tomorrow -->
+<!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yalarlar -->
 
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
