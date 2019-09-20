@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( http://www.hurriyet.com.tr/gundem/son-dakika-neslican-tay-yasamini-yitirdi-41334700 )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
 <!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
