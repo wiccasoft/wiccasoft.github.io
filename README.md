@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=c7IoBRRBiX8 )
+[![Image](math/pow.png)]( https://www.aspor.com.tr/galeri/galatasaray/fatih-terim-rotasyona-gidiyor-iste-malatyaspor-11i )
 <!-- https://www.youtube.com/watch?v=XGgrUslhJU8 -->
 <!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
 <!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
