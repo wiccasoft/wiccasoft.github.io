@@ -1,17 +1,5 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=RMivPNL4raU )
-<!-- https://www.youtube.com/watch?v=XGgrUslhJU8 kakara makara -->
-<!-- https://www.youtube.com/watch?v=9P18cC9Am_s ergenlerin dramı -->
-<!-- https://www.youtube.com/watch?v=o36m-2TPwck -->
-<!-- https://www.youtube.com/watch?v=u-b516EDvo8 zero7 -->
-<!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo ja -->
-<!-- https://www.youtube.com/watch?v=6mVmrR0EOiE os -->
-<!-- https://www.youtube.com/watch?v=Q3Z1rrh5yf0 tomorrow -->
-<!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yalarlar -->
-<!-- https://www.youtube.com/watch?v=0F56gvnXc1Q zuahhahavol2 -->
-<!-- https://www.youtube.com/watch?v=otohjMymyYE zuhahaha -->
-<!-- https://www.youtube.com/watch?v=dPmn9m_ZIy8 papatılsın -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
-<!-- http://www.hurriyet.com.tr/gundem/son-dakika-neslican-tay-yasamini-yitirdi-41334700 -->
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=o36m-2TPwck )
+
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
