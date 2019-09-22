@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=8k1JPxMpL_k  )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=yphjF2e2Izg  )
 <!-- https://www.youtube.com/watch?v=Wv3lYZqwuNk lol -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
 <!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
