@@ -1,5 +1,5 @@
 [![Image](math/pow.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ )
-
+<!-- http://www.hurriyet.com.tr/gundem/haluk-levent-mustafa-kemal-destanini-yazan-birinin-pkkli-olma-sansi-yuzde-kac-40665448 -->
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
