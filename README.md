@@ -1,7 +1,7 @@
-[![Image](math/pow.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ )
+[![Image](math/pow.png)]( https://www.aksam.com.tr/guncel/unlu-sarkici-haluk-levent-kahrolsun-pkk-dedi-linc-edildi/haber-1003800 )
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  susturamayacağınız -->
 <!-- https://www.aksam.com.tr/guncel/unlu-sarkici-haluk-levent-kahrolsun-pkk-dedi-linc-edildi/haber-1003800 -->
-<!-- https://www.youtube.com/watch?v=bPsEh9zO7AE ankarada -->
+
 <!-- http://www.hurriyet.com.tr/gundem/haluk-levent-mustafa-kemal-destanini-yazan-birinin-pkkli-olma-sansi-yuzde-kac-40665448 -->
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
