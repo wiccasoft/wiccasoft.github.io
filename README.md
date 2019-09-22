@@ -1,5 +1,6 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=faPMxMa4Q6E  )
 <!-- https://www.youtube.com/watch?v=Wv3lYZqwuNk lol -->
+<!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
 <!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  susturamayacağınız -->
