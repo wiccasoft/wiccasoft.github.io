@@ -72,7 +72,7 @@
 [![Image](sky.net/screen579.png)](https://www.internet-radio.com/station/psyradiofm/)
 
 [![Image](almanac/screen571.png)](https://www.theguardian.com/environment/2019/aug/17/greta-thunberg-four-days-into-atlantic-crossing)
-[![Image](almanac/screen561.png)](http://streamer.psyradio.org:8020/;listen.mp3)
+[![Image](almanac/screen561.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
 [![Image](web5.0/screen552.png)](https://www.youtube.com/watch?v=p4G91Hc5X_o )
 [![Image](web5.0/screen523.png)](https://stackoverflow.com/a/38088927)
 
