@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=o36m-2TPwck )
+[![Image](math/pow.png)]( https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ )
 
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
