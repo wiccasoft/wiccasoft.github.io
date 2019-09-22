@@ -1,9 +1,9 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o  )
-<!-- https://www.youtube.com/watch?v=CZMRgqhvs3o -->
+<!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
 <!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  susturamayacağınız -->
 
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernar redflagcan -->
+<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernard redflag -->
 <!-- https://www.aksam.com.tr/guncel/unlu-sarkici-haluk-levent-kahrolsun-pkk-dedi-linc-edildi/haber-1003800 -->
 
 <!-- http://www.hurriyet.com.tr/gundem/haluk-levent-mustafa-kemal-destanini-yazan-birinin-pkkli-olma-sansi-yuzde-kac-40665448 -->
