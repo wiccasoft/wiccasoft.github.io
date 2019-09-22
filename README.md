@@ -1,4 +1,4 @@
-[![Image](math/pow.png)](  https://www.aksam.com.tr/guncel/unlu-sarkici-haluk-levent-kahrolsun-pkk-dedi-linc-edildi/haber-1003800 )
+[![Image](math/pow.png)](  https://www.youtube.com/watch?v=FPqoKFGkSTM  )
 <!-- https://www.youtube.com/watch?v=Wv3lYZqwuNk lol -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
 <!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
