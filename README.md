@@ -1,7 +1,8 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ucFHSP41wAU )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=Jg5wkZ-dJXA )
 
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=ucFHSP41wAU ne mutlu türküm diyene -->
+<!-- https://www.youtube.com/watch?v=Jg5wkZ-dJXA bahceli devlet -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
 <!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
 <!-- https://www.youtube.com/watch?v=9QOfjdHnN7A ama uefa kupamız var -->
