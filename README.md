@@ -1,6 +1,7 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=DWrFAQBQSeY )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=A_gHAGGYJ_M )
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
+<!-- https://www.youtube.com/watch?v=DWrFAQBQSeY abdull hoca -->
 <!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M yutupır düelloları -->
 <!-- https://www.youtube.com/watch?v=ucFHSP41wAU ne mutlu türküm diyene -->
 <!-- https://www.youtube.com/watch?v=agNEuSy1aqA vatan party -->
