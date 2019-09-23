@@ -1,4 +1,4 @@
-[![Image](math/pow.png)](  https://www.youtube.com/watch?v=CZMRgqhvs3o )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ucFHSP41wAU )
 
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
