@@ -1,5 +1,5 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=faPMxMa4Q6E  )
-<!-- https://www.youtube.com/watch?v=Wv3lYZqwuNk lol -->
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o )
+
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
 <!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
