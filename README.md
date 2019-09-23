@@ -1,7 +1,8 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=PsO6ZnUZI0g )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=agNEuSy1aqA )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=ehcVomMexkY )
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=ucFHSP41wAU ne mutlu türküm diyene -->
+<!-- https://www.youtube.com/watch?v=agNEuSy1aqA vatan party -->
 <!-- https://www.youtube.com/watch?v=PsO6ZnUZI0g hospital events -->
 <!-- https://www.youtube.com/watch?v=Jg5wkZ-dJXA bahceli devlet -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
