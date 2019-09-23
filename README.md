@@ -1,5 +1,6 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=TMrtLsQbaok )
-[![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=u9KxE4Kv9A8)
+[![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=icKlNgLuqzU )
+[![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=FwptXauY2is )
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=DWrFAQBQSeY abdull hoca -->
 <!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M yutupır düelloları -->
