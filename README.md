@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=DWrFAQBQSeY )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=s3BGryfktXY )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=A_gHAGGYJ_M )
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=DWrFAQBQSeY abdull hoca -->
