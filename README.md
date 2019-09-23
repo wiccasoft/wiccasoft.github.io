@@ -1,5 +1,5 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
-[![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+[![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=agNEuSy1aqA )
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=ucFHSP41wAU ne mutlu türküm diyene -->
 <!-- https://www.youtube.com/watch?v=agNEuSy1aqA vatan party -->
