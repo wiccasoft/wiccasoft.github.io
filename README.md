@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=ucFHSP41wAU )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=Jg5wkZ-dJXA )
 
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=ucFHSP41wAU ne mutlu türküm diyene -->
