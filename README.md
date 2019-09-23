@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o )
+[![Image](math/pow.png)]( https://www.haberturk.com/ibrahim-yildiz-fatih-terim-derbiyi-dusundu-2524447-spor )
 
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
 <!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
