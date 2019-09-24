@@ -1,5 +1,5 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=LcVrAdbadLI )
-[![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=lfSNR-IJ4Pc )
+[![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=s3BGryfktXY )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=LcVrAdbadLI )
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY vedatmururku ->
 <!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
