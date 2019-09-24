@@ -1,4 +1,4 @@
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=tn66JWh30rE )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=3KCLTslT6fk )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=LcVrAdbadLI )
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY vedatmururku ->
