@@ -1,3 +1,5 @@
+
+[![Image](smartdata/world-climate-summit.png)]( https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech )
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=JSVfLljV5aM)
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=LcVrAdbadLI )
