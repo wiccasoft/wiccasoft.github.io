@@ -3,23 +3,6 @@
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=8mKFbhie-4A )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
-<!-- https://www.youtube.com/watch?v=s3BGryfktXY vedatmururku ->
-<!-- https://www.youtube.com/watch?v=faPMxMa4Q6E ilber hoca -->
-<!-- https://www.youtube.com/watch?v=DWrFAQBQSeY abdull hoca -->
-<!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M yutupır düelloları -->
-<!-- https://www.youtube.com/watch?v=ucFHSP41wAU ne mutlu türküm diyene -->
-<!-- https://www.youtube.com/watch?v=agNEuSy1aqA vatan party -->
-<!-- https://www.youtube.com/watch?v=PsO6ZnUZI0g hospital events -->
-<!-- https://www.youtube.com/watch?v=Jg5wkZ-dJXA bahceli devlet -->
-<!-- https://www.youtube.com/watch?v=CZMRgqhvs3o allahsız sürüngen -->
-<!-- https://www.youtube.com/watch?v=o36m-2TPwck good will hunting -->
-<!-- https://www.youtube.com/watch?v=9QOfjdHnN7A ama uefa kupamız var -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/  susturamayacağınız -->
-
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernard redflag -->
-<!-- https://www.aksam.com.tr/guncel/unlu-sarkici-haluk-levent-kahrolsun-pkk-dedi-linc-edildi/haber-1003800 -->
-
-<!-- http://www.hurriyet.com.tr/gundem/haluk-levent-mustafa-kemal-destanini-yazan-birinin-pkkli-olma-sansi-yuzde-kac-40665448 -->
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
