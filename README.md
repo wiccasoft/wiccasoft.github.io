@@ -1,5 +1,5 @@
 
-[![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=mPGk0GQQR8Y )
+[![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=_XbSnOQMIQs )
 <!-- https://www.youtube.com/watch?v=AGZiLMGdCE0-->
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
 [![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
