@@ -1,6 +1,5 @@
 
-[![Image](smartdata/world-climate-summit.png)]( https://www.xvideos.com/video24169849/deepthroat_diplomacy )
-<!--https://www.uludagsozluk.com/k/pkk-n%C4%B1n-20-y%C4%B1ll%C4%B1k-ar%C5%9Fivi/ bkz pkk nın iklimleri bozması -->
+[![Image](smartdata/world-climate-summit.png)]( https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech )
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=P3SsM1RYdI4 )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
