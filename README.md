@@ -1,4 +1,4 @@
-[![Image](smartdata/laplace.png)](https://www.khanacademy.org/math/differential-equations/laplace-transform/laplace-transform-tutorial/v/laplace-transform-1)
+[![Image](smartdata/laplace.png)](https://www.youtube.com/watch?v=VGfUppCx_Hw)
 <!-- https://www.tercihiniyap.net/maas/futbolcu-maaslari-2019-ne-kadar-h6545.html bkz afganistan somali futbolcu maaşları-->
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=idV4GQRflHM )
 <!-- https://www.youtube.com/watch?v=AGZiLMGdCE0-->
