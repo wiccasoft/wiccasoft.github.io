@@ -1,4 +1,4 @@
-[![Image](smartdata/laplace.png)](https://www.youtube.com/watch?v=OxWxtT-FjMs)
+[![Image](smartdata/laplace.png)](https://www.youtube.com/watch?v=wIoxxkNj6AM)
 <!-- https://www.youtube.com/watch?v=OxWxtT-FjMs bkz deprem sonrası yenmeyecek canlılar -->
 <!-- https://www.tercihiniyap.net/maas/futbolcu-maaslari-2019-ne-kadar-h6545.html bkz afganistan somali futbolcu maaşları-->
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=idV4GQRflHM )
