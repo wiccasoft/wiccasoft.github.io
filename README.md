@@ -1,9 +1,7 @@
 [![Image](smartdata/laplace.png)](https://www.youtube.com/watch?v=wIoxxkNj6AM)
-<!-- https://www.youtube.com/watch?v=OxWxtT-FjMs bkz deprem sonrası yenmeyecek canlılar -->
-<!-- https://www.tercihiniyap.net/maas/futbolcu-maaslari-2019-ne-kadar-h6545.html bkz afganistan somali futbolcu maaşları-->
+
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=idV4GQRflHM )
-<!-- https://www.youtube.com/watch?v=AGZiLMGdCE0-->
-<!-- https://www.youtube.com/watch?v=Tl0pYH2OuAA iceland second-->
+
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
 [![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=TllKdcjgJCI )
