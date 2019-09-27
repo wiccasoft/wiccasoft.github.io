@@ -1,4 +1,4 @@
-[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=E5rAuWLTTao )
+[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=I5bIQWjUS7o )
 <!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
 <!-- https://www.youtube.com/watch?v=E5rAuWLTTao bkz cartel araba yok -->
 <!-- https://www.youtube.com/watch?v=NsqK9vfFVxg lol https://www.youtube.com/watch?v=wIoxxkNj6AM-->
