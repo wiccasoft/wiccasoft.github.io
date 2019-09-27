@@ -1,5 +1,5 @@
-[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
-
+[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=NsqK9vfFVxg )
+<!-- https://www.youtube.com/watch?v=NsqK9vfFVxg lol https://www.youtube.com/watch?v=wIoxxkNj6AM-->
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=9vicRVi6KCw )
 
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
