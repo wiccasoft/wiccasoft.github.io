@@ -6,7 +6,7 @@
 [![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=TllKdcjgJCI )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
-[![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
+[![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=N6LTquVWaWk )
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
 
 [![Image](math/bash.png)]( https://www.youtube.com/watch?v=9OBjnPh5CPw )
