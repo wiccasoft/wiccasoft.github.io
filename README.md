@@ -6,7 +6,7 @@
 
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
 [![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
-[![Image](math/pow.png)]( https://www.youtube.com/watch?v=TllKdcjgJCI )
+[![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=od2rLwFCGSU )
 [![Image](mainstream/search.png)]( https://www.youtube.com/watch?v=4llnekYxDwM )
