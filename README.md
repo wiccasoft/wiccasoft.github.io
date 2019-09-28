@@ -1,4 +1,4 @@
-[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
+[![Image](smartdata/laplace.png)]( https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-be%C4%9Fendi%C4%9Fi-k%C4%B1z-tipi/ )
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver ezanı -->
 <!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedese-->
 <!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
