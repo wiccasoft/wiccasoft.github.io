@@ -1,4 +1,4 @@
-[![Image](smartdata/laplace.png)]( https://abc.xyz/ )
+[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=A_gHAGGYJ_M )
 <!-- https://www.nytimes.com/2019/09/26/business/softbank-wework-masayoshi-son.html -->
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver ezanı -->
 <!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedese-->
