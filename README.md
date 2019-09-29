@@ -6,7 +6,7 @@
 <!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedese-->
 <!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
 <!-- https://www.youtube.com/watch?v=NsqK9vfFVxg lol https://www.youtube.com/watch?v=wIoxxkNj6AM-->
-[![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=5e37qfX95Uw )
+[![Image](smartdata/world-climate-summit.png)]( ttps://www.youtube.com/watch?v=9vicRVi6KCw )
 
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
 [![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
