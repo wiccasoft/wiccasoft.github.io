@@ -1,4 +1,5 @@
-[![Image](smartdata/laplace.png)]( https://www.nytimes.com/2019/09/26/business/softbank-wework-masayoshi-son.html )
+[![Image](smartdata/laplace.png)]( https://www.akinsoft.com.tr/ )
+<!-- https://www.nytimes.com/2019/09/26/business/softbank-wework-masayoshi-son.html -->
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver ezanı -->
 <!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedese-->
 <!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
