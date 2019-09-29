@@ -1,4 +1,4 @@
-[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=R-q9go-xi1M )
+[![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=A_gHAGGYJ_M )
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver ezanı -->
 <!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedese-->
 <!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
