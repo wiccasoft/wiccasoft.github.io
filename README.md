@@ -3,7 +3,7 @@
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
 <!-- https://www.nytimes.com/2019/09/26/business/softbank-wework-masayoshi-son.html -->
 <!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver ezanı -->
-<!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedese-->
+<!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedes-->
 <!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
 <!-- https://www.youtube.com/watch?v=NsqK9vfFVxg lol https://www.youtube.com/watch?v=wIoxxkNj6AM-->
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=9vicRVi6KCw )
