@@ -1,4 +1,4 @@
-
+[![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=wkJXTQXmIbY )
 [![Image](smartdata/chromium.png)]( https://www.youtube.com/watch?v=b4JrdWBYHsA )
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
 <!-- https://www.nytimes.com/2019/09/26/business/softbank-wework-masayoshi-son.html -->
