@@ -1,4 +1,4 @@
-[![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=TA6y-oRT1w0 )
+[![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=-j6xrBeYdVM )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
 [![Image](smartdata/chromium.png)]( https://www.youtube.com/watch?v=b4JrdWBYHsA )
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
