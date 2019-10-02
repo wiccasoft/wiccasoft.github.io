@@ -1,18 +1,10 @@
 
-<!-- https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun -->
+
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=eLeG5AcyJ44 )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
 [![Image](smartdata/chromium.png)]( https://www.youtube.com/watch?v=b4JrdWBYHsA )
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
-<!-- https://www.youtube.com/watch?v=X7Ui1v6wSe4 kuleninhaberiyok-->
-<!-- https://www.youtube.com/watch?v=AFx8ElwfMBQ futbol -->
-<!-- https://www.youtube.com/watch?v=9mzuI73FrgE oradaneleroluyor-->
-<!-- https://www.nytimes.com/2019/09/26/business/softbank-wework-masayoshi-son.html -->
-<!-- https://www.youtube.com/watch?v=Zb8qVLsXwLQ ver ezanı -->
-<!-- https://www.youtube.com/watch?v=QzNwKc6hAnk 190 mercedes-->
-<!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz tr-ansformers -->
-<!-- https://www.youtube.com/watch?v=NsqK9vfFVxg lol https://www.youtube.com/watch?v=wIoxxkNj6AM-->
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=9vicRVi6KCw )
 
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
