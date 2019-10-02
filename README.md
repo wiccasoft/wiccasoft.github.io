@@ -4,6 +4,7 @@ https://www.uludagsozluk.com/k/birini-sevdi%C4%9Finizi-nas%C4%B1l-anlars%C4%B1n%
 (bkz teengay budunun içinde gezdirmemden zevk alması)
 (bkz acıma yetime döner koyar teengayin türkçü götüne)
 (bkz kalbini kırarım götünü de sikerim teengirl)
+(bkz tengir seni bi sikerim türklüğümm diye bağırırsın orozpunun sıçtığı)
 https://www.youtube.com/watch?v=tVfyO37ARpQ (bkz teengirbudundan kurtulmak için ölü numarası yapmak)
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
