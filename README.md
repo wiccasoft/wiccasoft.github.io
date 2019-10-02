@@ -1,5 +1,6 @@
 bkz acıma yetime döner koyar işsiz teengay budunun götüne gözleri türkçügaygötü sikerek bakan smiley
 <!--
+https://www.youtube.com/watch?v=ktmzyChfPmk bkz tengirbudunun dramı
 https://www.youtube.com/watch?v=d8-soriINcA (bkz teengirl budunun tam bir kezban olması )
 https://www.uludagsozluk.com/k/birini-sevdi%C4%9Finizi-nas%C4%B1l-anlars%C4%B1n%C4%B1z/ 
 (bkz teengay budunun içinde gezdirmemden zevk alması)
