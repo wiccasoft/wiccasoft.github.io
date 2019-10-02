@@ -1,5 +1,6 @@
 <!--
 https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz türkçü rapçi
+https://www.uludagsozluk.com/k/motor-mu-araba-kullanan-erkek-mi-%C3%A7ekicidir/ (bkz bmw erkeği vs auidi erkeği)
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
 https://www.uludagsozluk.com/k/kemalist-afedersin/&w=bg (bkz rusçuların türkçüleri aşağılaması)
