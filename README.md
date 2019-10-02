@@ -20,7 +20,7 @@ https://www.uludagsozluk.com/k/thy-nin-hamidiye-su-almay%C4%B1-b%C4%B1rak%C4%B1p
 https://www.youtube.com/watch?v=GyvRe0lrA-A
 (bkz kaldırmazsan kaldırırlar gülüm)
 -->
-[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=-AdnJiuDGVU  )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=vsQrKZcYtqg )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
