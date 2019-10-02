@@ -1,5 +1,9 @@
 
 [![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/aylan-k%C3%BCrdi-nin-babas%C4%B1n%C4%B1n-t%C3%BCrkiye-yi-k%C3%B6t%C3%BClemesi/)
+https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-lik-sevgilisi/ (bkz besle memedaliyi siksin kızının götünü)
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-%C4%B1n-ka%C3%A7%C4%B1%C5%9F-ve-yakalan%C4%B1%C5%9F-%C3%B6yk%C3%BCs%C3%BC/ (bkz anlat pampa dinliyorum)
+https://www.uludagsozluk.com/k/rte-nin-market-al%C4%B1%C5%9Fveri%C5%9Fi-yapmas%C4%B1/&w=bg (bkz besle yetimim yapsın alışverişi)
+https://www.uludagsozluk.com/k/ayda-3000-tlye-g%C3%BCnde-4-saat-yol-giden-ezik/ (bkz besle yetimi gitsin işe biz ne be olm)
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
