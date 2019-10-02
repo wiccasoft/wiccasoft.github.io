@@ -1,7 +1,7 @@
 <!--
 https://www.uludagsozluk.com/k/motor-mu-araba-kullanan-erkek-mi-%C3%A7ekicidir/ (bkz bmw erkeği vs auidi erkeği)
 https://www.uludagsozluk.com/k/bilal-in-babas%C4%B1-ile-2-3-haftada-bir-g%C3%B6r%C3%BC%C5%9Fmesi/ 
-(tengircoşkom faşistergenişkom berat eniştoşko ablamı kayıyoşko o yüzden görüşmüyoşko burak abişkom içkişko kumar dağıtoşko sonra anlatoşko tosunoşko babişkom arıyoşko)
+(tengircoşkom faşistergenişkom berat eniştoşko ablama kayıyoşko o yüzden görüşmüyoşko burak abişkom içkişko kumaroşko dağıtoşko sonra anlatoşko tosunoşko babişkom arıyoşko)
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
 https://www.uludagsozluk.com/k/kemalist-afedersin/&w=bg (bkz rusçuların türkçüleri aşağılaması)
