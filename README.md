@@ -13,8 +13,9 @@ https://www.youtube.com/watch?v=vsQrKZcYtqg
 https://www.youtube.com/watch?v=nhPaWIeULKk
 https://www.youtube.com/watch?v=wUQDeENsGjY
 https://www.youtube.com/watch?v=ItFXByWukjs
+https://www.youtube.com/watch?v=X55jQYKyDFE
 -->
-[![Image](smartdata/zulum1453basladi.png)](https://www.youtube.com/watch?v=ItFXByWukjs )
+[![Image](smartdata/zulum1453basladi.png)](https://www.youtube.com/watch?v=X55jQYKyDFE )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
