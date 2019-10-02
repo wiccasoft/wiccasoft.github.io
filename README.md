@@ -11,8 +11,9 @@ https://www.youtube.com/watch?v=GyvRe0lrA-A
 (bkz kaldırmazsan kaldırırlar gülüm)
 https://www.youtube.com/watch?v=vsQrKZcYtqg
 https://www.youtube.com/watch?v=nhPaWIeULKk
+https://www.youtube.com/watch?v=wUQDeENsGjY
 -->
-[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=nhPaWIeULKk )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=wUQDeENsGjY )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
