@@ -1,6 +1,6 @@
 
 <!-- https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun -->
-[![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=apG4E0K4bYo )
+[![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=eLeG5AcyJ44 )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
 [![Image](smartdata/chromium.png)]( https://www.youtube.com/watch?v=b4JrdWBYHsA )
