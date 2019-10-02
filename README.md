@@ -1,5 +1,6 @@
-bkz acıma yetime döner koyar işsiz teengay budunun götüne gözleri türkçügaygötü sikerek bakan smiley
+
 <!--
+bkz acıma yetime döner koyar işsiz teengay budunun götüne gözleri türkçügaygötü sikerek bakan smiley
 https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg 
 (bkz hadi be kendi halkına hem de şaka yapıyosaaaaaan götüne demir çubuk ta sokmuşlar mı pampa bilgilendir bizi)
 https://www.youtube.com/watch?v=ktmzyChfPmk bkz tengirbudunun dramı
