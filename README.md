@@ -1,6 +1,4 @@
 <!--https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz rte nin imamolu köfte yemesi)
-https://www.uludagsozluk.com/k/4-ay-olmas%C4%B1-ama-hala-her%C5%9Feyin-%C3%A7ok-g%C3%BCzel-olmamas%C4%B1/ 
-(bkz besle kürtleri sonra bekle güzel olacak)
 https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte yi alsın sana topkek)
 https://www.uludagsozluk.com/k/rte-nin-market-al%C4%B1%C5%9Fveri%C5%9Fi-yapmas%C4%B1/ 
 (bkz besle rte yi siksin tengirbudunun götünü)
