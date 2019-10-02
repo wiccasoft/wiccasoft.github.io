@@ -14,6 +14,8 @@ https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu
 (bkz besle yetimi siksin götünü)
 https://www.uludagsozluk.com/k/m%C3%BCge-boz-un-s%C3%BCrekli-hamile-karn%C4%B1yla-foto-%C3%A7ekmesi/ 
 (bkz besle mügeyi poz versin)
+https://www.uludagsozluk.com/k/thy-nin-hamidiye-su-almay%C4%B1-b%C4%B1rak%C4%B1p-s%C4%B1rma-almas%C4%B1/ 
+(bkz besle thy yi hamidiye su alsın)
 -->
 [![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=gd  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
