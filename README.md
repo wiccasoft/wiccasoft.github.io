@@ -2,6 +2,7 @@
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg (bkz ülkücü solcu bkz oksimoron)
+https://www.uludagsozluk.com/k/macarlar%C4%B1n-t%C3%BCrk-olmas%C4%B1/&w=bg (bkz bütün dünya türkün daşşağını yesin)
 https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte yi alsın sana topkek)
 https://www.uludagsozluk.com/k/ali-a%C4%9Fao%C4%9Flunun-23-l%C3%BCk-sevgilisi/ (bkz verse sikmezmisin pampa)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ahmet-kaya-n%C4%B1n-mezar%C4%B1n%C4%B1-ziyareti/ (bkz kafama sıkar giderim)
