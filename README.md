@@ -2,7 +2,7 @@
 https://www.uludagsozluk.com/k/motor-mu-araba-kullanan-erkek-mi-%C3%A7ekicidir/ (bkz bmw erkeği vs auidi erkeği)
 https://www.uludagsozluk.com/k/bilal-in-babas%C4%B1-ile-2-3-haftada-bir-g%C3%B6r%C3%BC%C5%9Fmesi/ 
 (teengirlcoşkom faşistergenişkom berat eniştoşko sümeyyeye kayıyoşko o yüzden görüşmüyoşko burak abişko içkişko kumaroşko dağıtoşko sonra anlatoşko tosunoşko babişkom arıyoşko)
-https://www.youtube.com/watch?v=tVfyO37ARpQ (bkz tengirbudundan kurtulmak için ölü numarası yapmak)
+https://www.youtube.com/watch?v=tVfyO37ARpQ (bkz teengirbudundan kurtulmak için ölü numarası yapmak)
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
 https://www.uludagsozluk.com/k/kemalist-afedersin/&w=bg (bkz rusçuların türkçüleri aşağılaması)
