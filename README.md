@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=d8-soriINcA (bkz teengirl budunun tam bir kezban
 https://www.uludagsozluk.com/k/birini-sevdi%C4%9Finizi-nas%C4%B1l-anlars%C4%B1n%C4%B1z/ 
 (bkz teengay budunun içinde gezdirmemden zevk alması)
 (bkz acıma yetime döner koyar teengayin türkçü götüne)
-(bkz kalbini kırarım götünü de sikerim tengir)
+(bkz kalbini kırarım götünü de sikerim teengirl)
 https://www.youtube.com/watch?v=tVfyO37ARpQ (bkz teengirbudundan kurtulmak için ölü numarası yapmak)
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
