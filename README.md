@@ -1,5 +1,6 @@
 <!--
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
+(https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg (bkz ülkücü solcu bkz oksimoron)
 https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte yi alsın sana topkek)
 https://www.uludagsozluk.com/k/ali-a%C4%9Fao%C4%9Flunun-23-l%C3%BCk-sevgilisi/ (bkz verse sikmezmisin pampa)
