@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/aylan-k%C3%BCrdi-nin-babas%C4%B1n%C4%B1n-t%C3%BCr
 bkz besle kürdü siksin tengirbudunun götünü)
 https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=gd 
 (bkz besle yetimi siksin götünü)-->
-[![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=gd )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/aylan-k%C3%BCrdi-nin-babas%C4%B1n%C4%B1n-t%C3%BCrkiye-yi-k%C3%B6t%C3%BClemesi/ )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
