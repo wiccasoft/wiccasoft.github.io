@@ -5,22 +5,6 @@ https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte 
 https://www.uludagsozluk.com/k/ali-a%C4%9Fao%C4%9Flunun-23-l%C3%BCk-sevgilisi/ (bkz verse sikmezmisin pampa)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ahmet-kaya-n%C4%B1n-mezar%C4%B1n%C4%B1-ziyareti/ (bkz kafama sıkar giderim)
 https://eksisozluk.com/mehmet-ali-erbilin-22-yasindaki-sevgilisi--6198571?a=popular (bkz verse sikmez misin pampa)
-https://www.uludagsozluk.com/k/rte-nin-market-al%C4%B1%C5%9Fveri%C5%9Fi-yapmas%C4%B1/ 
-(bkz besle rte yi siksin tengirbudunun götünü)
-https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-lik-sevgilisi/ 
-(bkz besle memedaliyi siksin kızının götünü)
-https://www.uludagsozluk.com/k/yusuf-hala%C3%A7o%C4%9Flu/&w=bg 
-(bkz besle halaçoğlanı siksin kürdün götünü)
-https://www.uludagsozluk.com/k/4-ay-olmas%C4%B1-ama-hala-her%C5%9Feyin-%C3%A7ok-g%C3%BCzel-olmamas%C4%B1/ 
-(bkz entropi nedir)
-https://www.uludagsozluk.com/k/aylan-k%C3%BCrdi-nin-babas%C4%B1n%C4%B1n-t%C3%BCrkiye-yi-k%C3%B6t%C3%BClemesi/ (
-bkz besle kürdü siksin tengirbudunun götünü)
-https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=gd 
-(bkz besle yetimi siksin götünü)
-https://www.uludagsozluk.com/k/m%C3%BCge-boz-un-s%C3%BCrekli-hamile-karn%C4%B1yla-foto-%C3%A7ekmesi/ 
-(bkz besle mügeyi poz versin)
-https://www.uludagsozluk.com/k/thy-nin-hamidiye-su-almay%C4%B1-b%C4%B1rak%C4%B1p-s%C4%B1rma-almas%C4%B1/ 
-(bkz besle thy yi hamidiye su alsın)
 https://www.youtube.com/watch?v=GyvRe0lrA-A
 (bkz kaldırmazsan kaldırırlar gülüm)
 -->
