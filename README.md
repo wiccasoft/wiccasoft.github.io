@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz rte nin imamolu köfte yemesi)
 https://eksisozluk.com/mehmet-ali-erbilin-22-yasindaki-sevgilisi--6198571?a=popular (bkz verse sikmez misin pampa)
 https://www.youtube.com/watch?v=btMzn2rG8sQ
 -->
-[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=-aezqwvjNKg )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
