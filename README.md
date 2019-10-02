@@ -1,5 +1,5 @@
 <!--https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz rte nin imamolu köfte yemesi)
-https://www.uludagsozluk.com/k/tengir-budun/&w=bg (nkz ülkücü solcu bkz oksimoron)
+https://www.uludagsozluk.com/k/tengir-budun/&w=bg (bkz ülkücü solcu bkz oksimoron)
 https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte yi alsın sana topkek)
 https://www.uludagsozluk.com/k/rte-nin-market-al%C4%B1%C5%9Fveri%C5%9Fi-yapmas%C4%B1/ 
 (bkz besle rte yi siksin tengirbudunun götünü)
@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/k/m%C3%BCge-boz-un-s%C3%BCrekli-hamile-karn%C4%B1yl
 https://www.uludagsozluk.com/k/thy-nin-hamidiye-su-almay%C4%B1-b%C4%B1rak%C4%B1p-s%C4%B1rma-almas%C4%B1/ 
 (bkz besle thy yi hamidiye su alsın)
 -->
-[![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=gd  )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ahmet-kaya-n%C4%B1n-mezar%C4%B1n%C4%B1-ziyareti/ )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
