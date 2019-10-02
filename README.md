@@ -2,7 +2,7 @@
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
 https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7%C3%BC-ve-turanc%C4%B1-biri-m%C3%BCsl%C3%BCman-olamaz/&w=bg (ya türksün ya itsin)
-
+https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7%C3%BClerin-%C3%BClk%C3%BCc%C3%BCleri-sevmemesi/ (bkz turancıların türklük ülküsüne ihanet etmesi)
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg (bkz ülkücü solcu bkz oksimoron)
 https://www.uludagsozluk.com/k/macarlar%C4%B1n-t%C3%BCrk-olmas%C4%B1/&w=bg (bkz bütün dünya türkün daşşağını yesin)
 https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte yi alsın sana topkek)
