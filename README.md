@@ -2,6 +2,7 @@
 https://www.uludagsozluk.com/k/motor-mu-araba-kullanan-erkek-mi-%C3%A7ekicidir/ (bkz bmw erkeği vs auidi erkeği)
 https://www.uludagsozluk.com/k/bilal-in-babas%C4%B1-ile-2-3-haftada-bir-g%C3%B6r%C3%BC%C5%9Fmesi/ 
 (teengirlcoşkom faşistergenişkom berat eniştoşko sümeyyeye kayıyoşko o yüzden görüşmüyoşko burak abişko içkişko kumaroşko dağıtoşko sonra anlatoşko tosunoşko babişkom arıyoşko)
+https://www.youtube.com/watch?v=d8-soriINcA bkz teengirl budunun tam bir kezban olması
 https://www.youtube.com/watch?v=tVfyO37ARpQ (bkz teengirbudundan kurtulmak için ölü numarası yapmak)
 https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
 (https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
@@ -18,7 +19,7 @@ https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz rte nin imamolu köfte yemesi)
 https://eksisozluk.com/mehmet-ali-erbilin-22-yasindaki-sevgilisi--6198571?a=popular (bkz verse sikmez misin pampa)
 https://www.youtube.com/watch?v=btMzn2rG8sQ
 -->
-[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=tVfyO37ARpQ )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=d8-soriINcA )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
