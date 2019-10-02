@@ -1,5 +1,5 @@
 
-[![Image](smartdata/zulum1430baslasi.png)]( https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=bg)
+[![Image](smartdata/zulum1453basladi.png)]( https://www.uludagsozluk.com/k/zul%C3%BCm-1453-de-ba%C5%9Flad%C4%B1-diyen-orospu-%C3%A7ocu%C4%9Fu/&w=bg)
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
