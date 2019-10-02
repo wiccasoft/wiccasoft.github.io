@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz rte nin imamolu köfte yemesi)
+https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-lik-sevgilisi/ (bkz besle memedaliyi siksin kızının götünü)
 https://www.uludagsozluk.com/k/yusuf-hala%C3%A7o%C4%9Flu/&w=bg (bkz besle halaçoğlanı siksin kürdün götünü)
 https://www.uludagsozluk.com/k/4-ay-olmas%C4%B1-ama-hala-her%C5%9Feyin-%C3%A7ok-g%C3%BCzel-olmamas%C4%B1/ (bkz entropi nedir)
 https://www.uludagsozluk.com/k/aylan-k%C3%BCrdi-nin-babas%C4%B1n%C4%B1n-t%C3%BCrkiye-yi-k%C3%B6t%C3%BClemesi/ (bkz besle kürdü siksin tengirbudunun götünü)
