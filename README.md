@@ -1,25 +1,5 @@
 
-<!--
-bkz acıma yetime döner koyar işsiz teengay budunun götüne gözleri türkçügaygötü sikerek bakan smiley
-https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg 
-(bkz hadi be kendi halkına hem de şaka yapıyosaaaaaan götüne demir çubuk ta sokmuşlar mı pampa bilgilendir bizi)
-https://www.youtube.com/watch?v=ktmzyChfPmk bkz tengirbudunun dramı
-https://www.youtube.com/watch?v=d8-soriINcA (bkz teengirl budunun tam bir kezban olması )
-https://www.uludagsozluk.com/k/birini-sevdi%C4%9Finizi-nas%C4%B1l-anlars%C4%B1n%C4%B1z/ 
-(bkz teengay budunun içinde gezdirmemden zevk alması)
-(bkz acıma yetime döner koyar teengayin götüne)
-https://www.youtube.com/watch?v=tVfyO37ARpQ (bkz teengirbudundan kurtulmak için ölü numarası yapmak)
-https://www.uludagsozluk.com/k/bilgi-satmak/&w=bg (bkz satsam almaz mısın pampa)
-(https://www.youtube.com/watch?v=h--ynkxP_mM bkz verse sikmez misin pampa )
-https://www.uludagsozluk.com/k/tengir-budun/&w=bg (bkz ülkücü solcu bkz oksimoron)
-https://www.uludagsozluk.com/k/macarlar%C4%B1n-t%C3%BCrk-olmas%C4%B1/&w=bg (bkz bütün dünya türkün daşşağını yesin)
-https://www.uludagsozluk.com/k/1-saray-bana-1-top-kek-sana/&w=bg (bkz besle rte yi alsın sana topkek)
-https://www.uludagsozluk.com/k/ali-a%C4%9Fao%C4%9Flunun-23-l%C3%BCk-sevgilisi/ (bkz verse sikmezmisin pampa)
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ahmet-kaya-n%C4%B1n-mezar%C4%B1n%C4%B1-ziyareti/ (bkz kafama sıkar giderim)
-https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz rte nin imamolu köfte yemesi)
-https://eksisozluk.com/mehmet-ali-erbilin-22-yasindaki-sevgilisi--6198571?a=popular (bkz verse sikmez misin pampa)
-https://www.youtube.com/watch?v=btMzn2rG8sQ
--->
+<!---->
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
@@ -27,8 +7,6 @@ https://www.youtube.com/watch?v=btMzn2rG8sQ
 [![Image](smartdata/chromium.png)]( https://www.youtube.com/watch?v=b4JrdWBYHsA )
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=9vicRVi6KCw )
-
-<!-- https://www.youtube.com/watch?v=B3y1Q1j7RGg almayayı kötüleyen türk -->
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
 [![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o )
