@@ -1,8 +1,8 @@
 
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
-
-
-[![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=PsO6ZnUZI0g  )
+<!--https://www.youtube.com/watch?v=6UDcYVCFHxU erdoganla yolu ayrılanlar-->
+<!--https://www.youtube.com/watch?v=PsO6ZnUZI0g avatardaki beşir -->
+[![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=6UDcYVCFHxU )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
