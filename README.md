@@ -2,7 +2,7 @@
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
 
 
-[![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=R-q9go-xi1M  )
+[![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=PsO6ZnUZI0g  )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
