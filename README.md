@@ -11,7 +11,7 @@
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=9vicRVi6KCw )
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
-[![Image](smartdata/globalist.png)]( https://www.theguardian.com/environment/2019/sep/24/greta-thunberg-trump-twitter-bio )
+[![Image](smartdata/globalist.png)]( https://www.uludagsozluk.com/k/3-ni%C5%9Fan-atm%C4%B1%C5%9F-zincir-ma%C4%9Faza-kasiyeri-bodur-k%C4%B1z/&w=bg)
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o )
 [![Image](smartdata/twerkdata.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/before-equinox.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
