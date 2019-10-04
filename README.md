@@ -1,15 +1,5 @@
 
-<!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
-<!-- https://eksisozluk.com/insanliga-bir-mesaj-birak--5793692 mesajı alan çıksaın beyler kasıyo -->
-<!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-ya%C5%9F%C4%B1ndaki-sevgilisi/ bkz ekşiden başlık çalacak kadar düşmek-->
-<!-- https://eksisozluk.com/emre-morun-yagmur-taktasa-dmden-yurumesi--6173781 bkz malinin hoplattığı taş
-<!-- https://www.uludagsozluk.com/k/atanamayan-%C3%B6%C4%9Fretmenler-neden-ba%C5%9Fka-i%C5%9F-bulmuyor/&w=bg (bkz forum yazarlığı maaşını beğenmeyen sorunsallı öğretmen) 
-https://www.uludagsozluk.com/k/3-ni%C5%9Fan-atm%C4%B1%C5%9F-zincir-ma%C4%9Faza-kasiyeri-bodur-k%C4%B1z/&w=bg (bkz ekşicilerin seviyeyi yükseltmesi)
-<!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M instagram logosu neden değişti nedeeen -->
-<!-- https://www.youtube.com/watch?v=t2oVUxTV4WA son mesajları alalım kasıyo beyler -->
-<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz mesaj atan çıksın beyler reis koşuya gidecek)-->
-<!-- https://www.youtube.com/watch?v=BNCGOq30bd4 garcia koşuya başladı kızlar-->
-<!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-ya%C5%9F%C4%B1ndaki-sevgilisi/ (bkz emre mor un dm cen yürüdüğü taş orospu)-->
+<!---->
 [![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=WDjqfYtDc5g )
 [![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=PsO6ZnUZI0g )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
