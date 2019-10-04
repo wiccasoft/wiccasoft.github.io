@@ -1,5 +1,6 @@
 
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
+<!-- https://eksisozluk.com/insanliga-bir-mesaj-birak--5793692 mesaj okuyan çıksaın beyler kasıyo -->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-ya%C5%9F%C4%B1ndaki-sevgilisi/ bkz ekşiden başlık çalacak kadar düşmek-->
 <!-- https://eksisozluk.com/emre-morun-yagmur-taktasa-dmden-yurumesi--6173781 bkz malinin hoplattığı taş
 <!-- https://www.uludagsozluk.com/k/atanamayan-%C3%B6%C4%9Fretmenler-neden-ba%C5%9Fka-i%C5%9F-bulmuyor/&w=bg (bkz forum yazarlığı maaşını beğenmeyen sorunsallı öğretmen) 
