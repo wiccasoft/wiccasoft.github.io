@@ -1,6 +1,7 @@
 
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-ya%C5%9F%C4%B1ndaki-sevgilisi/ bkz ekşiden başlık çalacak kadar düşmek-->
+<!-- https://eksisozluk.com/emre-morun-yagmur-taktasa-dmden-yurumesi--6173781 bkz malinin hoplattığı taş
 <!-- https://www.uludagsozluk.com/k/atanamayan-%C3%B6%C4%9Fretmenler-neden-ba%C5%9Fka-i%C5%9F-bulmuyor/&w=bg (bkz forum yazarlığı maaşını beğenmeyen sorunsallı öğretmen) 
 https://www.uludagsozluk.com/k/3-ni%C5%9Fan-atm%C4%B1%C5%9F-zincir-ma%C4%9Faza-kasiyeri-bodur-k%C4%B1z/&w=bg (bkz ekşicilerin seviyeyi yükseltmesi)
 <!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M instagram logosu neden değişti nedeeen -->
