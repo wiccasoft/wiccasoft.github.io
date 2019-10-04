@@ -1,4 +1,4 @@
-
+[![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=WDjqfYtDc5g )
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
 <!-- https://eksisozluk.com/insanliga-bir-mesaj-birak--5793692 mesajı alan çıksaın beyler kasıyo -->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-ya%C5%9F%C4%B1ndaki-sevgilisi/ bkz ekşiden başlık çalacak kadar düşmek-->
