@@ -2,6 +2,7 @@
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
 <!--https://www.youtube.com/watch?v=6UDcYVCFHxU erdoganla yolu ayrılanlar-->
 <!--https://www.youtube.com/watch?v=PsO6ZnUZI0g avatardaki beşir -->
+<!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M instagram logosu neden değişti -->
 [![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=PsO6ZnUZI0g )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
