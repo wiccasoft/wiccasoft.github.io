@@ -2,6 +2,7 @@
 <!--https://www.youtube.com/watch?v=fsRfN0UfISU-->
 <!--https://www.youtube.com/watch?v=6UDcYVCFHxU erdoganla yolu ayrılanlar-->
 <!--https://www.youtube.com/watch?v=PsO6ZnUZI0g avatardaki beşir -->
+<!-- https://www.uludagsozluk.com/k/atanamayan-%C3%B6%C4%9Fretmenler-neden-ba%C5%9Fka-i%C5%9F-bulmuyor/&w=bg (bkz forum yazarlığı maaşını beğenmeyen sorunsallı öğretmen) 
 <!-- https://www.youtube.com/watch?v=A_gHAGGYJ_M instagram logosu neden değişti nedeeen -->
 <!-- https://www.youtube.com/watch?v=t2oVUxTV4WA son mesajları alalım kasıyo beyler -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz mesaj atan çıksın beyler reis koşuya gidecek)-->
