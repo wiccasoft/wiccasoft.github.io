@@ -2,7 +2,7 @@
 <!---->
 [![Image](smartdata/reentry.png)](https://www.youtube.com/watch?v=QGZ3C3KA2Co )
 [![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=ItFXByWukjs )
-[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
+[![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=DWrFAQBQSeY  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
 [![Image](smartdata/getlucky.png)]( https://www.youtube.com/watch?v=9mzuI73FrgE )
 [![Image](smartdata/hydrogen.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
