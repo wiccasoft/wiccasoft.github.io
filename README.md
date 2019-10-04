@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/3-ni%C5%9Fan-atm%C4%B1%C5%9F-zincir-ma%C4%9Faza-k
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz mesaj atan çıksın beyler reis koşuya gidecek)-->
 <!-- https://www.youtube.com/watch?v=BNCGOq30bd4 garcia koşuya başladı kızlar-->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil-in-22-ya%C5%9F%C4%B1ndaki-sevgilisi/ (bkz emre mor un dm cen yürüdüğü taş orospu)-->
-[![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=VqlUl9E3yUA )
+[![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=WDjqfYtDc5g )
 [![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=PsO6ZnUZI0g )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=ktmzyChfPmk  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
