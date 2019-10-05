@@ -1,4 +1,4 @@
-[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=M3mA0FeYSIQ )
+[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=CW50LlbYcB8 )
 <!--
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-ne-giyece%C4%9Fine-kar%C4%B1%C5%9Fmayan-erkek/&w=bg (bkz rte)
 https://www.uludagsozluk.com/k/akci%C4%9Fer-kanseri/&w=bg (bkz beni seven sigara içmesin)
