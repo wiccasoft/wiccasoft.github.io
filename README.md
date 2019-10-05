@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!-- 
+https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz lise önlerinde biriken forumcular)
 https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz foolish kazanova)
 https://www.uludagsozluk.com/k/okullardaki-artan-disiplinsizlik/ (bkz lise önlerinde bekleyen barzolar)
 https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz lise çıkışı kyk lılarla taşşak geçmek)
