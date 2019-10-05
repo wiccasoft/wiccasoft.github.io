@@ -1,5 +1,7 @@
 
 <!--https://www.theguardian.com/australia-news/2019/oct/05/australian-and-british-bloggers-jolie-king-and-mark-firkin-released-in-iran-->
+<!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
+<!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi -->
 [![Image](smartdata/release.png)]( https://twitter.com/CapaMagMagazine/status/1178203827784290304 )
 
 [![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
