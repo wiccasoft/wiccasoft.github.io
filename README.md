@@ -1,5 +1,7 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=r-Qp9CWaba4&vl=ru )
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz attatüykün sıçarken pört diye sers çıkarması)
+https://www.uludagsozluk.com/k/1500-y%C4%B1ll%C4%B1k-dinin-%C3%A7%C3%BCr%C3%BCt%C3%BClememesinin-nedeni/ (bkz cübbeli ahmet hoca)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg (bkz mısırcıoğlunun sigara içmesi)
 https://www.uludagsozluk.com/k/pedofili-ve-esrarke%C5%9F-peygamber/&w=bg (bkz hz muhammedin esrar içmesi)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz atatürkün sıçarken pört diye ses çıkarması)
