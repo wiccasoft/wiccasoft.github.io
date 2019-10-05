@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=r-Qp9CWaba4&vl=ru )
 <!--
+https://www.uludagsozluk.com/k/bekaretten-konu-a%C3%A7%C4%B1l%C4%B1nca-y%C3%BCz%C3%BC-as%C4%B1lan-k%C4%B1z/&w=bg (bkz derste twerk yapan kız)
 https://www.uludagsozluk.com/k/murat-bozun-anas%C4%B1-ya%C5%9F%C4%B1nda-seda-sayana-seda-demesi/ bkz verse sikmez misin pampa
 https://www.uludagsozluk.com/k/1500-y%C4%B1ll%C4%B1k-dinin-%C3%A7%C3%BCr%C3%BCt%C3%BClememesinin-nedeni/ (bkz cübbeli ahmet hoca)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
