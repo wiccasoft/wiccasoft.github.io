@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!-- 
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg (bkz bilalin birlikte ok attığı über futbolcu)
 https://www.uludagsozluk.com/k/boyu-k%C4%B1sa-ama-fizi%C4%9Fi-m%C3%BCkemmel-erkek/ (bkz çaycı hüseyin) -->
 <!--https://www.theguardian.com/australia-news/2019/oct/05/australian-and-british-bloggers-jolie-king-and-mark-firkin-released-in-iran-->
 <!--https://www.uludagsozluk.com/k/rte-nin-beni-seven-sigaray%C4%B1-b%C4%B1raks%C4%B1n-demesi/&w=bg (bkz tayyipin sigara satışlarını arttırmaya çalışması)-->
