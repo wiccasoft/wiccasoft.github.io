@@ -1,4 +1,4 @@
-[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=GcuH0cfYZIw )
+[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=Bmk8EvfI0zY )
 <!--
 https://www.uludagsozluk.com/k/en-yak%C4%B1nlar%C4%B1n%C4%B1n-bile-k%C4%B1skand%C4%B1%C4%9F%C4%B1-adam/
 https://www.uludagsozluk.com/k/f%C4%B1nd%C4%B1k-ezmesinin-16-lira-oldu%C4%9Fu-%C3%BClke/&w=bg (bkz rte nin fındık ezmesi çokomel zaten zararlı demesi)
