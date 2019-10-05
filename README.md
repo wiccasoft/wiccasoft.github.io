@@ -1,6 +1,7 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=r-Qp9CWaba4&vl=ru )
 <!--
 https://www.uludagsozluk.com/k/deniz-baykal/&w=bg
+https://www.uludagsozluk.com/k/ekrem-imamoglunun-turistik-tabelalar%C4%B1-de%C4%9Fi%C5%9Ftirmesi/ bkz timur kahan zamanında değişen tabelelar
 https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmene-laf-atan-o-%C3%A7ocuklar%C4%B1-izlesin/ (bkz liselilerin coşması)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz attatüykün sivas kongresinde osurması)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz attatüykün sıçarken pört diye sers çıkarması)
