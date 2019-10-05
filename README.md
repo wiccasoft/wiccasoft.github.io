@@ -1,8 +1,5 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=M3mA0FeYSIQ )
 <!--
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-ne-giyece%C4%9Fine-kar%C4%B1%C5%9Fmayan-erkek/&w=bg (bkz rte)
-https://www.uludagsozluk.com/k/akci%C4%9Fer-kanseri/&w=bg (bkz beni seven sigara içmesin)
-<!-- https://www.uludagsozluk.com/k/rte-nin-beni-seven-sigaray%C4%B1-b%C4%B1raks%C4%B1n-demesi/&w=bg (bkz güdük rte nin derste sigara içenleri tahtaya yazması) -->
 <!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi -->
 [![Image](smartdata/model.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
