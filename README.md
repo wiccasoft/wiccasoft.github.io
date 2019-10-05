@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz inönünü sigara içmediği gerçeği)
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg (bkz zltananın sigara içen beni izlemesin demesi)
 https://www.uludagsozluk.com/k/ekrem-imamoglunun-turistik-tabelalar%C4%B1-de%C4%9Fi%C5%9Ftirmesi/ (bkz whatcanidozometimez)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz  vatan hayını inönünü içmemesi)
