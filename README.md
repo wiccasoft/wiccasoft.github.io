@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!--
+https://www.uludagsozluk.com/k/en-yak%C4%B1nlar%C4%B1n%C4%B1n-bile-k%C4%B1skand%C4%B1%C4%9F%C4%B1-adam/
 https://www.uludagsozluk.com/k/f%C4%B1nd%C4%B1k-ezmesinin-16-lira-oldu%C4%9Fu-%C3%BClke/&w=bg (bkz rte nin fındık ezmesi çokomel zaten zararlı demesi)
 https://www.uludagsozluk.com/k/her-zamda-rte-yi-su%C3%A7layan-tip/ (bkz rte nin zamları sevmeyen beni de sevmesin demesi)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz 2. abdulhamid sigraya cuvara değmesi)
