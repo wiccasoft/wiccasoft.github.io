@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=r-Qp9CWaba4&vl=ru )
 <!--
+https://www.uludagsozluk.com/k/1500-y%C4%B1ll%C4%B1k-dinin-%C3%A7%C3%BCr%C3%BCt%C3%BClememesinin-nedeni/ (bkz cübbeli ahmet hoca)
 https://www.uludagsozluk.com/k/pedofili-ve-esrarke%C5%9F-peygamber/&w=bg (bkz tam benim kafadan adammış)
 https://www.uludagsozluk.com/k/ekrem-imamoglunun-turistik-tabelalar%C4%B1-de%C4%9Fi%C5%9Ftirmesi/ bkz timur kahan zamanında değişen tabelelar
 https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmene-laf-atan-o-%C3%A7ocuklar%C4%B1-izlesin/ (bkz liselilerin coşması)
