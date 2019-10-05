@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!--https://www.theguardian.com/australia-news/2019/oct/05/australian-and-british-bloggers-jolie-king-and-mark-firkin-released-in-iran-->
+<!--https://www.uludagsozluk.com/k/rte-nin-beni-seven-sigaray%C4%B1-b%C4%B1raks%C4%B1n-demesi/&w=bg (bkz tayyipin sigara satışlarını arttırmaya çalışması)-->
 <!-- https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz crazy eso)-->
 <!-- https://www.uludagsozluk.com/k/rte-nin-beni-seven-sigaray%C4%B1-b%C4%B1raks%C4%B1n-demesi/&w=bg (bkz güdük rte nin derste sigara içenleri tahtaya yazması) -->
 <!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
