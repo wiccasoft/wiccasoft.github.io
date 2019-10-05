@@ -1,4 +1,4 @@
-[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=PeIVhIwE8zU )
+[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=r-Qp9CWaba4&vl=ru )
 <!--
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg (bkz mısırcıoğlunun sigara içmesi)
 https://www.uludagsozluk.com/k/pedofili-ve-esrarke%C5%9F-peygamber/&w=bg (bkz hz muhammedin esrar içmesi)
