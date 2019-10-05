@@ -1,8 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!--
-https://www.uludagsozluk.com/k/erol-m%C3%BCtercimler/&w=bg bkz keltoş baban koş
-https://www.uludagsozluk.com/k/her-zamda-rte-yi-su%C3%A7layan-tip/ bkz rte nin beni sevmeyen zamları da sevmesin demesi
-https://www.uludagsozluk.com/k/ge%C3%A7iyor-mu-i%C3%A7ince/&w=bg (bkz 5. mehmetin yaw he he demesi)
+https://www.uludagsozluk.com/k/her-zamda-rte-yi-su%C3%A7layan-tip/ (bkz rte nin zamları sevmeyen beni de sevmesin demesi)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz 2. abdulhamid sigraya cuvara değmesi)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz sultan 2. murat ın esrar içen beni sevmesin dediği yalanı)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz inönünü sigara içmediği gerçeği)
