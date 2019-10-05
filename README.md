@@ -1,49 +1,5 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=M3mA0FeYSIQ )
 <!--
-https://www.uludagsozluk.com/k/bekaretten-konu-a%C3%A7%C4%B1l%C4%B1nca-y%C3%BCz%C3%BC-as%C4%B1lan-k%C4%B1z/&w=bg (bkz derste twerk yapan kız)
-https://www.uludagsozluk.com/k/murat-bozun-anas%C4%B1-ya%C5%9F%C4%B1nda-seda-sayana-seda-demesi/ bkz verse sikmez misin pampa
-https://www.uludagsozluk.com/k/1500-y%C4%B1ll%C4%B1k-dinin-%C3%A7%C3%BCr%C3%BCt%C3%BClememesinin-nedeni/ (bkz cübbeli ahmet hoca)
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-https://www.uludagsozluk.com/k/pedofili-ve-esrarke%C5%9F-peygamber/&w=bg (bkz tam benim kafadan adammış)
-https://www.uludagsozluk.com/k/ekrem-imamoglunun-turistik-tabelalar%C4%B1-de%C4%9Fi%C5%9Ftirmesi/ bkz timur kahan zamanında değişen tabelelar
-https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmene-laf-atan-o-%C3%A7ocuklar%C4%B1-izlesin/ (bkz liselilerin coşması)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz attatüykün sivas kongresinde osurması)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz attatüykün sıçarken pört diye sers çıkarması)
-https://www.uludagsozluk.com/k/1500-y%C4%B1ll%C4%B1k-dinin-%C3%A7%C3%BCr%C3%BCt%C3%BClememesinin-nedeni/ (bkz cübbeli ahmet hoca)
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg (bkz mısırcıoğlunun sigara içmesi)
-https://www.uludagsozluk.com/k/pedofili-ve-esrarke%C5%9F-peygamber/&w=bg (bkz hz muhammedin esrar içmesi)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz atatürkün sıçarken pört diye ses çıkarması)
-https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan-if%C5%9Fa/ (bkz https://www.youtube.com/watch?v=PeIVhIwE8zU)
-https://www.uludagsozluk.com/k/en-yak%C4%B1nlar%C4%B1n%C4%B1n-bile-k%C4%B1skand%C4%B1%C4%9F%C4%B1-adam/
-https://www.uludagsozluk.com/k/f%C4%B1nd%C4%B1k-ezmesinin-16-lira-oldu%C4%9Fu-%C3%BClke/&w=bg (bkz rte nin fındık ezmesi çokomel zaten zararlı demesi)
-https://www.uludagsozluk.com/k/her-zamda-rte-yi-su%C3%A7layan-tip/ (bkz rte nin zamları sevmeyen beni de sevmesin demesi)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz 2. abdulhamid sigraya cuvara değmesi)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz sultan 2. murat ın esrar içen beni sevmesin dediği yalanı)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz inönünü sigara içmediği gerçeği)
-https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg (bkz zltananın sigara içen beni izlemesin demesi)
-https://www.uludagsozluk.com/k/ekrem-imamoglunun-turistik-tabelalar%C4%B1-de%C4%9Fi%C5%9Ftirmesi/ (bkz whatcanidozometimez)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz  vatan hayını inönünü içmemesi)
-https://www.uludagsozluk.com/k/g%C3%B6t-g%C3%B6rmekten-b%C4%B1kmak/&w=bg (bkz güven yalçın totosu hariç )
-https://www.uludagsozluk.com/k/goooooooooooool-gol-gol-gol-gol-gol-gol-gol-gol/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg bkz atatüykün rakı içerek rte buna karış amık demesi
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz zenciler arasında kalan adam
-https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan-if%C5%9Fa/ bkz neşat ertaşın gay iibrahim tatlıses video
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz rte nin fatih terim yararlıdır demesi
-https://www.uludagsozluk.com/k/f%C4%B1nd%C4%B1k-ezmesinin-16-lira-oldu%C4%9Fu-%C3%BClke/&w=bg (bkz rte nin fındık zararlıdır demesi)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz atatürk beni seven sigara içsin demesi)
-https://www.uludagsozluk.com/k/%C3%A7erez-fiyatlar%C4%B1n%C4%B1n-%C3%A7%C4%B1%C4%9Fr%C4%B1ndan-%C3%A7%C4%B1kmas%C4%B1/ (bkz rte nin beni seven çiğdem yemesin demesi)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz rte nin beni seven sigara içki içmesin demesi)
-https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz lise önlerinde biriken forumcular)
-https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz foolish kazanova)
-https://www.uludagsozluk.com/k/okullardaki-artan-disiplinsizlik/ (bkz lise önlerinde bekleyen barzolar)
-https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz lise çıkışı kyk lılarla taşşak geçmek)
-https://www.uludagsozluk.com/k/okullardaki-artan-disiplinsizlik/ (bkz kyk borcu için derste twerk yapan kız)
-https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz kyk borcunu ödesin diye boyfriendine kur yapan crazy kız)
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg (bkz bilalin birlikte ok attığı über futbolcu)
-https://www.uludagsozluk.com/k/boyu-k%C4%B1sa-ama-fizi%C4%9Fi-m%C3%BCkemmel-erkek/ (bkz çaycı hüseyin) -->
-<!--https://www.theguardian.com/australia-news/2019/oct/05/australian-and-british-bloggers-jolie-king-and-mark-firkin-released-in-iran-->
-<!--https://www.uludagsozluk.com/k/rte-nin-beni-seven-sigaray%C4%B1-b%C4%B1raks%C4%B1n-demesi/&w=bg (bkz tayyipin sigara satışlarını arttırmaya çalışması)-->
-<!-- https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz crazy eso)-->
 <!-- https://www.uludagsozluk.com/k/rte-nin-beni-seven-sigaray%C4%B1-b%C4%B1raks%C4%B1n-demesi/&w=bg (bkz güdük rte nin derste sigara içenleri tahtaya yazması) -->
 <!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi -->
