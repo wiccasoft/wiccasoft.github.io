@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz inönünü içmemesi)
 https://www.uludagsozluk.com/k/g%C3%B6t-g%C3%B6rmekten-b%C4%B1kmak/&w=bg (bkz güven yalçın totosu hariç )
 https://www.uludagsozluk.com/k/goooooooooooool-gol-gol-gol-gol-gol-gol-gol-gol/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg bkz atatüykün rakı içerek rte buna karış amık demesi
