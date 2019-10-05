@@ -1,5 +1,6 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=oukwTJ81Zp0 )
 <!-- 
+https://www.uludagsozluk.com/k/okullardaki-artan-disiplinsizlik/ (bkz kyk borcu için derste twerk yapan kız)
 https://www.uludagsozluk.com/k/derste-k%C3%BCf%C3%BCrl%C3%BC-video-a%C3%A7%C4%B1p-dans-eden-k%C4%B1z/ (bkz kyk borcunu ödesin diye boyfriendine kur yapan crazy kız)
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg (bkz bilalin birlikte ok attığı über futbolcu)
 https://www.uludagsozluk.com/k/boyu-k%C4%B1sa-ama-fizi%C4%9Fi-m%C3%BCkemmel-erkek/ (bkz çaycı hüseyin) -->
