@@ -1,9 +1,8 @@
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=PeIVhIwE8zU )
 <!--
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg (bkz falcao nun sigara içememesi)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg (bkz mısırcıoğlunun sigara içmesi)
 https://www.uludagsozluk.com/k/pedofili-ve-esrarke%C5%9F-peygamber/&w=bg (bkz hz muhammedin esrar içmesi)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz atatürk sıçarken pört diye ses çıkarması)
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-s%C3%BCrekli-sigara-i%C3%A7ip-alkol-almas%C4%B1/&w=bg (bkz atatürkün sıçarken pört diye ses çıkarması)
 https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan-if%C5%9Fa/ (bkz https://www.youtube.com/watch?v=PeIVhIwE8zU)
 https://www.uludagsozluk.com/k/en-yak%C4%B1nlar%C4%B1n%C4%B1n-bile-k%C4%B1skand%C4%B1%C4%9F%C4%B1-adam/
 https://www.uludagsozluk.com/k/f%C4%B1nd%C4%B1k-ezmesinin-16-lira-oldu%C4%9Fu-%C3%BClke/&w=bg (bkz rte nin fındık ezmesi çokomel zaten zararlı demesi)
