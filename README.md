@@ -1,4 +1,4 @@
-[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=QFfEFHaK6qo )
+[![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
 <!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi -->
