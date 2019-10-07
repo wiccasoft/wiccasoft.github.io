@@ -6,22 +6,6 @@ https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F/&w=bg (bkz yine tüpe soktu
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz sik zabıtalarının görevini iyi yapmaması)
 https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/&w=bg (bkz what would hulusi do)
 https://eksisozluk.com/vapurda-masturbasyon-yapan-adam--6204619?a=popular (bkz emre belezoğlan)
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın yanaloğlana selam çakması
-https://www.uludagsozluk.com/k/ek%C5%9Fi-patlay%C4%B1nca-uluda%C4%9F%C4%B1n-seviyesinin-artmas%C4%B1/&w=bg bkz belezoğlanın mevzu fenerse ersun yanallar demesi
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın imamoğlanı desteklemesi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-gizliden-kayyum-istemesi/ (bkz rte oğlanın imamoğlanın köftecisinde gizli gizli buluşması)
-https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/ (bkz belezoğlanın imamoğlana tam destek açıklaması)
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın imamoğlanı desteklemesi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-gizliden-kayyum-istemesi/ (bkz imamoğlunun istanbulu hindistan yapma planı)
-https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/ (bkz .ocuğuna tecavüz eden adamın oğlu )
-https://www.uludagsozluk.com/k/ersun-yanal/&w=gd (bkz mevzu fenerbahçeyse.. https://www.youtube.com/watch?v=FRjI-Ea6wcU)
-https://www.uludagsozluk.com/k/31-olsa-%C3%A7ekilmiyecek-insan-tipleri/ bkz https://www.google.com.tr/search?q=galtasaray+t%C3%BCrk+futbolcular&oq=galtasaray+t%C3%BCrk+futbolcular&aqs=chrome..69i57j0l5.16908j1j7&sourceid=chrome&ie=UTF-8
-https://eksisozluk.com/vapurda-masturbasyon-yapan-adam--6204619?a=popular (bkz çok fena sikiş döndüğü düşünülen vapurlar)
-https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocuklara-atat%C3%BCrk%C3%BC-a%C5%9F%C4%B1lamak/&w=bg (bkz çocuklarla diyaloğa girmek için bahane aramak)
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz atam atam gahtaaccık ben yatam
-https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg bkztanrı türkü korusun ülkümüz yaşasın
-https://www.uludagsozluk.com/k/rakka-n%C4%B1n-kuzeyindeki-ypg-alay%C4%B1n%C4%B1n-vurulmas%C4%B1/ bkz hewaller noldi renciniz soldi
-https://www.uludagsozluk.com/k/akp-ter%C3%B6rle-aras%C4%B1na-mesafe-koysun/ bkz akp ye ben kırgınım o konuda
 https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg bkz piskevitçi movement party
 https://www.uludagsozluk.com/k/turan-eller-var-olsun-tanr%C4%B1-t%C3%BCrk-e-yar-olsun/&w=bg bkz heil türks
 https://www.uludagsozluk.com/k/i%C3%A7inden-geleni-s%C3%B6yle/&w=bg bkz what would garaoğlan do
