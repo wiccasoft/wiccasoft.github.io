@@ -3,7 +3,7 @@
 https://www.uludagsozluk.com/k/pkk-l%C4%B1-hevallerin-u%C3%A7arken-g%C3%B6r%C3%BCnt%C3%BClenmesi/ (bkz la oglim ne sevindik lo biji turkiy forces her biji turkey ) -->
 <!-- https://www.uludagsozluk.com/k/mu%C4%9Fla-emniyetinden-%C3%A7%C4%B1kan-erotik-%C3%BCr%C3%BCnler/ (bkz memur bey bu facebook ta paylaşılır mı :))) -->
 <!-- https://www.uludagsozluk.com/k/mu%C4%9Fla-emniyetinden-%C3%A7%C4%B1kan-erotik-%C3%BCr%C3%BCnler/ (bkz kürtlerin muğlaya yanaşması) -->
-<!-- https://www.uludagsozluk.com/k/afrin-harekat%C4%B1nda-askerlerimize-%C3%A7ay-demleyen-dede/ (bkz bi siktir  git çay demle)-->
+<!-- https://www.uludagsozluk.com/k/afrin-harekat%C4%B1nda-askerlerimize-%C3%A7ay-demleyen-dede/ (bkz bi siktir  git çay demle tengir )-->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
