@@ -1,6 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
-https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz anadolu çakalı yer mi bordo klavye team forever)
+https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz anadolu çakalı yer mi bordo klavye liseli tayfa forever)
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz en güzel kürt ölü kürttür tengri türkü budusun tengri budun eylesin men gelmişem hemişem ortaasyadan bu topraklara)
 https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz bordo klavye team)
 https://www.uludagsozluk.com/k/trump%C4%B1n-k%C3%BCrtlerin-paras%C4%B1n%C4%B1-%C3%B6dedik-demesi/ (bkz türkler beş para etmediği için komidin para bırakmaık pampalar)
