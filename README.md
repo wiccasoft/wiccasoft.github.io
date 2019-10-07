@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/ersun-yanal/&w=gd (bkz mevzu fenerbahçeyse.. https://www.youtube.com/watch?v=FRjI-Ea6wcU)
 https://www.uludagsozluk.com/k/31-olsa-%C3%A7ekilmiyecek-insan-tipleri/ bkz https://www.google.com.tr/search?q=galtasaray+t%C3%BCrk+futbolcular&oq=galtasaray+t%C3%BCrk+futbolcular&aqs=chrome..69i57j0l5.16908j1j7&sourceid=chrome&ie=UTF-8
 https://eksisozluk.com/vapurda-masturbasyon-yapan-adam--6204619?a=popular (bkz çok fena sikiş döndüğü düşünülen vapurlar)
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocuklara-atat%C3%BCrk%C3%BC-a%C5%9F%C4%B1lamak/&w=bg (bkz çocuklarla diyaloğa girmek için bahane aramak)
