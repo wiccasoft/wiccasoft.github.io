@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/musa-ero%C4%9Flu/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg  (bkz yine tüpe soktun kardeş)
+https://www.uludagsozluk.com/k/jesus-christ/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz sik zabıtalarının görevini iyi yapmaması)
 https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/&w=bg (bkz what would hulusi do)
 https://eksisozluk.com/vapurda-masturbasyon-yapan-adam--6204619?a=popular (bkz emre belezoğlan)
