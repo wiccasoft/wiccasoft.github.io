@@ -1,6 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/mhp-istanbul-il-ba%C5%9Fkan%C4%B1-ndan-abd-b%C3%BCy%C3%BCkel%C3%A7ili%C4%9Fi-ne/ (bkz ypg den ordu kurulacağını sanan saf)
+https://www.uludagsozluk.com/k/nazilli-basma-fabrikas%C4%B1-a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda-konu%C5%9Fan-%C3%A7ocuk/ (bkz naz yapan çocuk)
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen/&w=bg (bkz 2007 den beri sallamak)
 https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz anadolu çakalı yer mi bunu)
 https://www.uludagsozluk.com/k/burger-king-kfc-arbys-popeyes-carls-jr-mc-donalds/ (bkz bordo klavyelilerin acıkması)
