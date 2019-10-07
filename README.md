@@ -3,6 +3,7 @@
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
 https://www.uludagsozluk.com/k/31-olsa-%C3%A7ekilmiyecek-insan-tipleri/ bkz servet çetin 
+https://eksisozluk.com/vapurda-masturbasyon-yapan-adam--6204619?a=popular (bkz çok fena sikiş döndüğü düşünülen vapurlar)
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocuklara-atat%C3%BCrk%C3%BC-a%C5%9F%C4%B1lamak/&w=bg (bkz çocuklarla diyaloğa girmek için bahane aramak)
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz atam atam gahtaaccık ben yatam
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg bkztanrı türkü korusun ülkümüz yaşasın
