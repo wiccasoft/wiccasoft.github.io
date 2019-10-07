@@ -2,12 +2,12 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken yakışıklı adam)
 https://www.uludagsozluk.com/k/vapurda-mast%C3%BCrbasyon-yapan-adam/ (bkz neyse kızlar nerde kalmıştık)
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg (bkz oya şengörü aldatan adam)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz nerde kalmıştık)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz mazlumun umudu bordo klavyelilerin bekayı sağlaması)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurdaosbir çeken adam)
-https://www.uludagsozluk.com/k/vapurda-mast%C3%BCrbasyon-yapan-adam/ (bkz osbir çeken adamı izlemek)
 https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=bg (bkz vapurda osbir çeken adamın oğlu)
 https://eksisozluk.com/bu-baslikta-trumpa-sesleniyoruz--6204654?a=popular (bkz samimi ol canımı ye)
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz yine tüpe soktun kardeş)
