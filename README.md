@@ -2,7 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/her-zamda-yaygara-koparan-tip/ (bkz kim lan o)
-https://www.uludagsozluk.com/k/o-orospu-%C3%A7ocu%C4%9Fu-ba%C5%9Fkan-olursa-%C3%BClkeyi-terk-edece%C4%9Fim/1/ (bkz kim lan o adres ver lan geliyorum)
+https://www.uludagsozluk.com/k/hastay%C4%B1m-dedim-dedim-inanmad%C4%B1n%C4%B1z-bak-ne-oldu-%C5%9Fimdi/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ne-yapard%C4%B1-sorunsal%C4%B1/ (bkz what would jesus do)
 https://www.uludagsozluk.com/k/ahkam-kesen-adamlara-u%C3%A7an-tekme-atmak/ (bkz yine güldürdün kardeş)
 https://www.uludagsozluk.com/k/geceye-efkarland%C4%B1ran-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd (bkz yine yütüpe soktun kardeş)
