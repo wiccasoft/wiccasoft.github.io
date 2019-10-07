@@ -2,6 +2,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/trump%C4%B1n-k%C3%BCrtlerin-paras%C4%B1n%C4%B1-%C3%B6dedik-demesi/ (bkz la oglim ben olsam türk oglim)
 https://www.uludagsozluk.com/k/sevgilisine-sar%C4%B1l%C4%B1rken-ba%C5%9Fka-erke%C4%9Fi-kesen-k%C4%B1z/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
+https://www.uludagsozluk.com/k/tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-erke%C4%9Fe-ilk-gece-veren-k%C4%B1z/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (blz la gebermemiş lo bu ıstırim hala gebermiy amk kürdü)
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la geberik halidir lo cesedini yiyecen aha beyle ısıracan cesedi  en üyü kürt ölü kürttür lo)
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la güzel güzel eğleniyik agam aganin pokunun üstüne poh olurmu )
