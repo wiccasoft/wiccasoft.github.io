@@ -2,9 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/mutsuz-sessiz-evli-erkek/ (bkz hayallerde yaşıyor bazı ibneler)
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-iskender/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/beyaz-saray-da-cuma-namaz%C4%B1-k%C4%B1lacaz/ (bkz hayallerde yaşıyor bazı ibneler)
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-burun-k%C4%B1v%C4%B1rd%C4%B1%C4%9F%C4%B1-araba-markalar%C4%B1/ (bkz kadını arabaylar tavlayacağını sanan kekolar)
 https://www.uludagsozluk.com/k/55-ya%C5%9F%C4%B1nda-bir-adama-a%C5%9F%C4%B1k-olmak/&w=bg (bkz hayallerde yaşıyor bazı ibneler 14 sene sonra görüşürüz)
 https://www.uludagsozluk.com/k/k%C4%B1zlarla-konu%C5%9Furken-kekeleyen-erkek/ (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/lut-kavmi/&w=bg (bkz bütün mahalle tren yapan malum ırk)
