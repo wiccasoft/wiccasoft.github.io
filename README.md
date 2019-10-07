@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz gafasına vur kanka gafasına vur)
-https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz barışak mı kız la amk de)
+https://www.uludagsozluk.com/k/konu%C5%9Furken-kar%C5%9F%C4%B1s%C4%B1ndakinin-g%C3%B6z%C3%BCne-bakmayan-insan/&w=bg (bkz benle gonusurkene yüzmeme bahacan emi)
 https://www.uludagsozluk.com/k/asker-gecesi-rezaleti/ (bkz bordo klavyelilerin o şimdi asker canı neler ister tadında yaşamaları)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz face ten poke lanıp gönlü alınır)
 https://www.uludagsozluk.com/k/nas%C4%B1ls%C4%B1n-askere-verilebilecek-cevaplar/ (bkz m.facebook)
