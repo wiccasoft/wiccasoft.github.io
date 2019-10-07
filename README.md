@@ -2,7 +2,6 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın caneroğlanın oğluyla görüntülenmesi
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın yanaloğlana selam çakması
 https://www.uludagsozluk.com/k/ek%C5%9Fi-patlay%C4%B1nca-uluda%C4%9F%C4%B1n-seviyesinin-artmas%C4%B1/&w=bg bkz belezoğlanın mevzu fenerse ersun yanallar demesi
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın imamoğlanı desteklemesi
