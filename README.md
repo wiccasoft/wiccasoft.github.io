@@ -1,6 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
-https://www.uludagsozluk.com/k/asker-gecesi-rezaleti/ (bkz bordo berelilerin o şimdi asker canı neler ister tadında yaşamaları)
+https://www.uludagsozluk.com/k/asker-gecesi-rezaleti/ (bkz bordo klavyelilerin o şimdi asker canı neler ister tadında yaşamaları)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz face ten poke lanıp gönlü alınır)
 https://www.uludagsozluk.com/k/nas%C4%B1ls%C4%B1n-askere-verilebilecek-cevaplar/ (bkz m.facebook)
 https://www.uludagsozluk.com/k/nazilli-basma-fabrikas%C4%B1-a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda-konu%C5%9Fan-%C3%A7ocuk/ (bkz seni yerler yerler seni ham yağar bu zilliler)
