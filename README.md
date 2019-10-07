@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg (bkz osbir çekerken mısırın oğluna yakalanmak)
 https://www.uludagsozluk.com/k/ersan-%C5%9Fen/&w=bg (bkz osbir çekerken susmayan adam)
 https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/&w=bg (bkz osbirime karışma diyen kaba erkek)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz suriye güvenli bölge sağlandı kızlar kaldıram mı gene )
