@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken adam)
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz kızlar kızlar gelmeemmi operasyona karılammmi)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz hulusi budunun operasyon bölgesine gitmesi)
 https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz kızları etkilemek için  bazukalı poz vermek)
