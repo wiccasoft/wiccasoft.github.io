@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz derin dünya devletinin gizemli lideri)
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz hem püskevitçi hem bekacı reyiz)
 https://www.uludagsozluk.com/k/30-ya%C5%9F-%C3%BCst%C3%BC-yazarlar%C4%B1n-banlanmas%C4%B1-gerekti%C4%9Fi/ (bkz çocuk haklı amk ne işiniz var orada)
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-ibni-sina-ve-farabi-kafirdir/ (bkz zall hep bana oç derin iyice bunaması)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
