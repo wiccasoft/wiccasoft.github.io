@@ -2,7 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz güvenli bölge sağlandı kızlar)
+https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz güvenli bölge sağlandı kızlar kaldıram mı gene )
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz kızlar kızlar gelem mi ben de bordo bereli olam mı)
 https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz bordo berelilerin gaza gelmesi)
 https://www.uludagsozluk.com/k/pkk-dan-ypg-den-intikam-alaca%C4%9F%C4%B1z/ (bkz hulusi sen misin)
