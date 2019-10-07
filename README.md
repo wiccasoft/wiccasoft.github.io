@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/sol-haber-portal%C4%B1/&w=bg bkz redhack team
 https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg (bkz piskevitçiler)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz tipe bak hizaya gel)
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg (bkz türklerin tipsizlik geni)
