@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/55-ya%C5%9F%C4%B1nda-bir-adama-a%C5%9F%C4%B1k-olmak/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
+https://www.uludagsozluk.com/k/55-ya%C5%9F%C4%B1nda-bir-adama-a%C5%9F%C4%B1k-olmak/&w=bg (bkz hayallerde yaşıyor bazı ibneler 14 sene sonra görüşürüz)
 https://www.uludagsozluk.com/k/lut-kavmi/&w=bg (bkz bütün mahalle tren yapan malum ırk)
 https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1n%C4%B1zdaki-halinize-not/ (bkz siz giderken ben dönüyordum)
 https://www.uludagsozluk.com/k/%C3%A7ocuklarla-girilen-diyaloglar/&w=bg (bkz çocuk pornosu izlerken diyaloga giren çocuk)
