@@ -3,9 +3,6 @@
 <!--
 https://www.uludagsozluk.com/k/geceye-efkarland%C4%B1ran-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd (bkz yine yütüpe soktun kardeş)
 https://www.uludagsozluk.com/k/beyo%C4%9Flu-nun-en-g%C3%BCzel-abisi/&w=bg (bkz taksimin renkli siması sapık ismet)
-https://www.uludagsozluk.com/k/ya%C5%9F%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg bkz messiye nasihat edecek yaşa gelmek
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg bkz bordo klavyeliler
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdilin-rteye-dik-dur-e%C4%9Filme-demesi/ (bkz dik dur domalma)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz ensenine rujla şapşik yaz kanka)
