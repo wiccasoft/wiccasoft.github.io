@@ -3,6 +3,7 @@
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
 https://www.uludagsozluk.com/k/her-zamda-yaygara-koparan-tip/ (bkz kim lan o)
+https://www.uludagsozluk.com/k/ya%C5%9F%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg (bkz babişkoya babiş deme yaşları)
 https://www.uludagsozluk.com/k/kulakl%C4%B1kla-m%C3%BCzik-dinleyen-tip/ (bkz babişko uyurken kulaklık takmak)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-ne-yapard%C4%B1-sorunsal%C4%B1/ (bkz what would jesus do)
 https://www.uludagsozluk.com/k/ahkam-kesen-adamlara-u%C3%A7an-tekme-atmak/ (bkz yine güldürdün kardeş)
