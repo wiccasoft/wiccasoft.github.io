@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/gss-prim-borcu/&w=bg (bkz aranızda toplayın ödeyin ibneler)
-https://www.uludagsozluk.com/k/gamze-%C3%B6z%C3%A7elik/&w=bg (bkz barış pınarı)
+https://www.uludagsozluk.com/k/gamze-%C3%B6z%C3%A7elik/&w=bg (bkz barış pınarı sevgi seli)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz barış pınarının dünyayı sarması)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/&w=gd (bkz ruj sür alnından öp alnına  sahipli yaz ensesine tokadı bas ganga)
 https://www.uludagsozluk.com/k/sevgilinin-aln%C4%B1na-rujla-sahipli-yazmak/ bkz iğrençsiniz ibneler
