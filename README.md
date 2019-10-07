@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/&w=gd (bkz hulusinin operasyonu bizzat denetlemesi)
 https://www.uludagsozluk.com/k/vapurda-mast%C3%BCrbasyon-yapan-adam/ (bkz 31 çekmek)
 https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=bg (bkz vapurda osbir çeken adamın oğlu)
 https://eksisozluk.com/bu-baslikta-trumpa-sesleniyoruz--6204654?a=popular (bkz samimi ol canımı ye)
