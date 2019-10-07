@@ -2,7 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz kulislerde dönen garip oyunlar)
+https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz kızları etkilemek için bazukalı poz vermek)
 https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=bg (bkz osbir çektikten sonra gelen rahavet)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz osbir çekilen kızın ekşi yazarı olduğu öğrenmek)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken adam)
