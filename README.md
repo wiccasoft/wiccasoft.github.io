@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/ (bkz gaziantepde babasına tecavüz eden çocuk)
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın imamoğlanı desteklemesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-gizliden-kayyum-istemesi/ (bkz imamoğlunun istanbulu hindistan yapma planı)
 https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/ (bkz .ocuğuna tecavüz eden adamın oğlu )
