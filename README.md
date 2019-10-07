@@ -2,6 +2,7 @@
 
 <!--
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
+https://eksisozluk.com/siniri-asarsa-turkiye-ekonomisini-yok-ederim--6204341?a=popular (bkz ama yine de siz sınırı aşmayın)
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg (bkz zall bana hep oç dere anlatır anlatır gibi anlatmak)
 https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz zall bana hep oç derin sınıra yerleşmesi) 
 https://www.uludagsozluk.com/k/tavla-ve-satran%C3%A7-oynayanlar%C4%B1n-cehennemlik-olmas%C4%B1/ (bkz zall sana hep oç der sen misin)
