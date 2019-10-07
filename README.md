@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz atam atam gahtaaccık ben yatam
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg bkztanrı türkü korusun ülkümüz yaşasın
 https://www.uludagsozluk.com/k/rakka-n%C4%B1n-kuzeyindeki-ypg-alay%C4%B1n%C4%B1n-vurulmas%C4%B1/ bkz hewaller noldi renciniz soldi
 https://www.uludagsozluk.com/k/akp-ter%C3%B6rle-aras%C4%B1na-mesafe-koysun/ bkz akp ye ben kırgınım o konuda
