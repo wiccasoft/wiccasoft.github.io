@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/pkk-dan-ypg-den-intikam-alaca%C4%9F%C4%B1z/ (bkz hulusi sen misin)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken adam)
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz kızlar kızlar gelmeemmi operasyona karılammmi)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz hulusi budunun operasyon bölgesine gitmesi)
