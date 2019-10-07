@@ -1,6 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz zall bana hep abi derin sınıra yerleşmesi) 
-https://www.uludagsozluk.com/k/tavla-ve-satran%C3%A7-oynayanlar%C4%B1n-cehennemlik-olmas%C4%B1/ (bkz zall sana hep oç der sen misin)-->
+https://www.uludagsozluk.com/k/tavla-ve-satran%C3%A7-oynayanlar%C4%B1n-cehennemlik-olmas%C4%B1/ (bkz zall sana hep oç der sen misin)
+-->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
