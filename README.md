@@ -3,8 +3,6 @@
 <!--
 https://www.uludagsozluk.com/k/ya%C5%9F%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg bkz messiye nasihat edecek yaşa gelmek
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg bkz bordo klavyeliler
-https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ bkz lo hava toplarında geberdiği andır lo
-https://www.uludagsozluk.com/k/lionel-messi-nin-eksiklikleri/&w=bg (bkz kafa toplarında etkisiz kerata arjantini ödemeli aradım babasıyla konuştum düzeltecekmiş kendini abisi)
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdilin-rteye-dik-dur-e%C4%9Filme-demesi/ (bkz dik dur domalma bu millet arkanda)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
