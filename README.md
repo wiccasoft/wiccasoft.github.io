@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/vapurda-mast%C3%BCrbasyon-yapan-adam/ (bkz neyse kızlar nerde kalmıştık)
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg (bkz oya şengörü aldatan adam)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz nerde kalmıştık)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz mazlumun umudu bordo klavyelilerin bekayı sağlaması)
