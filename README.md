@@ -4,7 +4,7 @@
 https://www.uludagsozluk.com/k/lut-kavmi/&w=bg (bkz bütün mahalle tren yapan malum ırk)
 https://www.uludagsozluk.com/k/%C3%A7ocuklarla-girilen-diyaloglar/&w=bg (bkz çocuk pornosu izlerken diyaloga giren çocuk)
 https://www.uludagsozluk.com/k/55-ya%C5%9F%C4%B1nda-bir-adama-a%C5%9F%C4%B1k-olmak/&w=bg (bkz lut kavmi)
-https://www.uludagsozluk.com/k/eski-sevgilinin-%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-%C5%9Firketi-sat%C4%B1n-almak/&w=bg (bkz lut kavmi)
+https://www.uludagsozluk.com/k/eski-sevgilinin-%C3%A7al%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-%C5%9Firketi-sat%C4%B1n-almak/&w=bg (bkz zall hep ona oç derin maaşını alması)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-d%C4%B1%C5%9F-politikada-%C5%9Famar-o%C4%9Flan%C4%B1na-d%C3%B6nmesi/&w=bg (bkz zall hep ona oç deri etkilemeyen gelişme)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
