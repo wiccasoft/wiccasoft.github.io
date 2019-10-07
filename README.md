@@ -2,7 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg (nkz mekanın cennet olsun üstan yanıan yatam)
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg (nkz mekanın cennet olsun üstad yanına yatam kalk la ben yatam az)
 https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz pkkyı yaratanın tc olduğunu bilmeyen ergen)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz hulusi budunun türk halkının yüreğine su serpmesi)
 https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz kızları etkilemek için  bazukalı poz vermek)
