@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz yine tüpe soktun kar
 https://www.uludagsozluk.com/k/ertem-%C5%9Fener/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/musa-ero%C4%9Flu/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F/&w=bg (bkz yine tüpe soktun kardeş)
+https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg  (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/jesus-christ/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz yine tüpe soktun kardeş)
