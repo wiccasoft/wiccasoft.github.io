@@ -1,10 +1,9 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
 https://www.uludagsozluk.com/k/so%C4%9Fuk-gecede-yarra%C4%9F%C4%B1ndan-kalk%C4%B1p/ 
 (bkz barış pınarı harekatı sonrası ilişkilerin rayına girmesi)
-https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken adam)
+https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/
 (bkz vapurda osbir çekmemle başlayan garip süreç)
 https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/&w=bg (bkz osbirime karışma diyen kaba erkek)
 https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz kızları etkilemek için  bazukalı poz vermek)
