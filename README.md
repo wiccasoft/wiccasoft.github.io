@@ -2,7 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/so%C4%9Fuk-gecede-yarra%C4%9F%C4%B1ndan-kalk%C4%B1p/ (bkz barış pınarı harekatı sonrası ilişkilerin rayına girmesi)
+https://www.uludagsozluk.com/k/so%C4%9Fuk-gecede-yarra%C4%9F%C4%B1ndan-kalk%C4%B1p/ (bkz barış pınarı harekatı sonrası türkiyede ilişkilerin rayına girmesi)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg (bkz osbir çekerken akla mısıroğlunun gelmesi)
 https://www.uludagsozluk.com/k/ersan-%C5%9Fen/&w=bg (bkz osbir çekerken susmayan adam)
 https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/&w=bg (bkz osbirime karışma diyen kaba erkek)
