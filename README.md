@@ -2,7 +2,6 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/hazreti/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/ertem-%C5%9Fener/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/musa-ero%C4%9Flu/&w=bg (bkz yine tüpe soktun kardeş)
