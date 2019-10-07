@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/k/i%C3%A7inden-geleni-s%C3%B6yle/&w=bg bkz what would garaoğlan do
 https://www.uludagsozluk.com/k/akp-nin-veremedi%C4%9Fi-abd-tepkisini-chp-nin-vermesi/ bkz what would faik öztrak do
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg bkz what would türkeş do
-https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu/&w=bg bkz rizeli laz tayyipin hemşo
+https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu/&w=bg bkz rizeli laz tayyipin hemşo oğlan
 https://www.uludagsozluk.com/k/sol-haber-portal%C4%B1/&w=bg bkz redhack team
 https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg (bkz piskevitçiler)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz tipe bak hizaya gel)
