@@ -2,7 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/ek%C5%9Fi-patlay%C4%B1nca-uluda%C4%9F%C4%B1n-seviyesinin-artmas%C4%B1/&w=bg bkz hewaloğlanın belezoğlana full destek çıkması
+https://www.uludagsozluk.com/k/ek%C5%9Fi-patlay%C4%B1nca-uluda%C4%9F%C4%B1n-seviyesinin-artmas%C4%B1/&w=bg bkz belezoğlanın mevzu fenerse ersun yanallar demesi
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg bkz belezoğlanın imamoğlanı desteklemesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-gizliden-kayyum-istemesi/ (bkz rte oğlanın imamoğlanın köftecisinde gizli gizli buluşması)
 https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/ (bkz belezoğlanın imamoğlana tam destek açıklaması)
