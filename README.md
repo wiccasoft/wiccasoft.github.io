@@ -1,4 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
+<!-- 
+https://www.uludagsozluk.com/k/pkk-l%C4%B1-hevallerin-u%C3%A7arken-g%C3%B6r%C3%BCnt%C3%BClenmesi/ (bkz la oglim ne sevindik lo biji turkiy forces her biji turkey ) -->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
