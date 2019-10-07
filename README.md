@@ -2,7 +2,7 @@
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular&p=19 (bkz: 404 not found) 
-(bkz pardon pampa kuzenim tehdit etmiş)
+(bkz pardon pampalar kuzenim tehdit etmiş)
 https://www.uludagsozluk.com/k/so%C4%9Fuk-gecede-yarra%C4%9F%C4%B1ndan-kalk%C4%B1p/ 
 (bkz barış pınarı harekatı sonrası ilişkilerin rayına girmesi)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/
