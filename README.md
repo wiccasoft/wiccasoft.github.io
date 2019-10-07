@@ -1,6 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
-https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (blz la gebermemiş bu ıstırim hala gebermiy amk kürdü)
+https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (blz la gebermemiş lo bu ıstırim hala gebermiy amk kürdü)
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la geberik halidir lo cesedini yiyecen aha beyle ısıracan cesedi  en üyü kürt ölü kürttür lo)
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la güzel güzel eğleniyik agam aganin pokunun üstüne poh olurmu )
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la oglim ne zevkleniyik havada gafalar uçiy)
