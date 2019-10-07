@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/sevgilinin-aln%C4%B1na-rujla-sahipli-yazmak/ bkz iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/ (bkz rufla erkeğinin gafasına sahipli yazan kadın)
+https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/ (bkz rujla erkeğinin gafasına sahipli yazan kadın)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/&w=gd (bkz ruj sür alnından öp sahipli yaz ganga)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ bkz konuşurken yüzüme bahacan la diyip gafasına vur ganga
 https://www.uludagsozluk.com/k/yalan-anlatan-arkada%C5%9F%C4%B1-sab%C4%B1rla-dinlemek/ bkz konuşerkene yüze bahmaya anliyi ben yalan söyliyi
