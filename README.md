@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/7-ekim-2019-donald-trumpin-turkiye-tweeti--6204346?a=popular&p=11 (bkz olm şaka lan şaka)
+https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg (bkz zall bana hep oç dere anlatır anlatır gibi anlatmak)
 https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz zall bana hep oç derin sınıra yerleşmesi) 
 https://www.uludagsozluk.com/k/tavla-ve-satran%C3%A7-oynayanlar%C4%B1n-cehennemlik-olmas%C4%B1/ (bkz zall sana hep oç der sen misin)
