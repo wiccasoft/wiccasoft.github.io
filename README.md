@@ -2,6 +2,8 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg (bkz piskevitçiler)
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz tipe bak hizaya gel)
 https://www.uludagsozluk.com/k/her-zamda-yaygara-koparan-tip/ (bkz kim lan o)
 https://www.uludagsozluk.com/k/ya%C5%9F%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg (bkz babişkoya babiş deme yaşları)
 https://www.uludagsozluk.com/k/kulakl%C4%B1kla-m%C3%BCzik-dinleyen-tip/ (bkz babişko uyurken kulaklık takmak)
