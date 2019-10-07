@@ -3,8 +3,7 @@
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
 https://www.uludagsozluk.com/k/vapurda-mast%C3%BCrbasyon-yapan-adam/ (bkz 31 çekmek)
-https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz yarrağına zoom yapılamayan adam)
-https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=gd (bkz vapurda osbir çeken adamın oğlu)
+https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=bg (bkz vapurda osbir çeken adamın oğlu)
 https://eksisozluk.com/bu-baslikta-trumpa-sesleniyoruz--6204654?a=popular (bkz samimi ol canımı ye)
 https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/ertem-%C5%9Fener/&w=bg (bkz yine tüpe soktun kardeş)
