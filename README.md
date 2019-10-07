@@ -1,5 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz barış pınarının dünyayı sarması)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/&w=gd (bkz ruj sür alnından öp alnına  sahipli yaz ensesine tokadı bas ganga)
 https://www.uludagsozluk.com/k/sevgilinin-aln%C4%B1na-rujla-sahipli-yazmak/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/ (bkz rujla erkeğinin gafasına sahipli yazan kadın)
