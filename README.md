@@ -1,6 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/mutsuz-sessiz-evli-erkek/ (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-iskender/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/beyaz-saray-da-cuma-namaz%C4%B1-k%C4%B1lacaz/ (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-burun-k%C4%B1v%C4%B1rd%C4%B1%C4%9F%C4%B1-araba-markalar%C4%B1/ (bkz kadını arabaylar tavlayacağını sanan kekolar)
