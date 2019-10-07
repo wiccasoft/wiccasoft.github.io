@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-ibni-sina-ve-farabi-kafirdir/ (bkz zall hep bana oç derin iyice bunaması)
+https://www.uludagsozluk.com/k/ingiltere-isteseydi-%C3%A7anakkale-bo%C4%9Faz%C4%B1n%C4%B1-ge%C3%A7erdi/ (bkz iyice bunadı geçip napalım lan sikik ülkenizde)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz ensenine rujla şapşik yaz kanka)
