@@ -2,7 +2,8 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/rakka-n%C4%B1n-kuzeyindeki-ypg-alay%C4%B1n%C4%B1n-vurulmas%C4%B1/ hewaller noldi renciniz soldi
+https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg bkztanrı türkü korusun ülkümüz yaşasın
+https://www.uludagsozluk.com/k/rakka-n%C4%B1n-kuzeyindeki-ypg-alay%C4%B1n%C4%B1n-vurulmas%C4%B1/ bkz hewaller noldi renciniz soldi
 https://www.uludagsozluk.com/k/akp-ter%C3%B6rle-aras%C4%B1na-mesafe-koysun/ bkz akp ye ben kırgınım o konuda
 https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg bkz piskevitçi movement party
 https://www.uludagsozluk.com/k/turan-eller-var-olsun-tanr%C4%B1-t%C3%BCrk-e-yar-olsun/&w=bg bkz heil türks
