@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/lionel-messi-nin-eksiklikleri/&w=bg (bkz kafa toplarında etkisiz kerata)
+https://www.uludagsozluk.com/k/lionel-messi-nin-eksiklikleri/&w=bg (bkz kafa toplarında etkisiz kerata babasıyla konuştum düzeltecek kendini abisi)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz ensenine rujla şapşik yaz kanka)
