@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1n%C4%B1zdaki-halinize-not/ bkz siz giderken ben dönüyordum lan bebeler
+https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1n%C4%B1zdaki-halinize-not/ bkz siz giderken ben dönüyordum lan bebeler 
 https://www.uludagsozluk.com/k/eski-sevgiliyi-500-hesapla-takip-etmek/&w=bg (bkz thumbler hesabını takip etmeyi unutmak)
 https://www.uludagsozluk.com/k/twitter-da-atat%C3%BCrke-lanet-okuyan-suriyeli/ (bkz olm şaka lan şaka bordo klavyeli dedim)
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
