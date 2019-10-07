@@ -1,5 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-ba%C5%9F%C3%B6rt%C3%BCs%C3%BC-itiraf%C4%B1/
 https://www.uludagsozluk.com/k/konu%C5%9Furken-kar%C5%9F%C4%B1s%C4%B1ndakinin-g%C3%B6z%C3%BCne-bakmayan-insan/&w=gd (bkz bah hele  hiç bahmiy suratima lo konuşiykene la ne ettik biz saha)
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz gafasına vur kanka gafasına vur)
 https://www.uludagsozluk.com/k/konu%C5%9Furken-kar%C5%9F%C4%B1s%C4%B1ndakinin-g%C3%B6z%C3%BCne-bakmayan-insan/&w=bg (bkz benle gonusurkene yüzüme bahacan emi)
