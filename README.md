@@ -3,6 +3,7 @@
 <!--
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
+https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz ensenine rujla şapşik yaz kanka)
 https://eksisozluk.com/siniri-asarsa-turkiye-ekonomisini-yok-ederim--6204341?a=popular (bkz ama yine de siz sınırı aşmayın)
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg (bkz zall bana hep oç dere anlatır anlatır gibi anlatmak)
 https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/ (bkz hani marjinal zall hep ona oç derdi)
