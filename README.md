@@ -1,6 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/55-ya%C5%9F%C4%B1nda-bir-adama-a%C5%9F%C4%B1k-olmak/&w=bg bkz 14 sene sonra bana aşık olacak sözlükçüler
 https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1n%C4%B1zdaki-halinize-not/ bkz 40 yasinda hala sosyal medya kullanana insan zekası
 https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1n%C4%B1zdaki-halinize-not/ bkz siz giderken ben dönüyordum lan bebeler 
 https://www.uludagsozluk.com/k/eski-sevgiliyi-500-hesapla-takip-etmek/&w=bg (bkz thumbler hesabını takip etmeyi unutmak)
