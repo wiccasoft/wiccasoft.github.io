@@ -2,7 +2,6 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-gizliden-kayyum-istemesi/ (bkz gizli gizli göt istemek)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-gizliden-kayyum-istemesi/ (bkz gizli ibnelik)
 https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/ (bkz .ocuğuna tecavüz eden adamın oğlu )
 https://www.uludagsozluk.com/k/ersun-yanal/&w=gd (bkz mevzu fenerbahçeyse.. https://www.youtube.com/watch?v=FRjI-Ea6wcU)
