@@ -1,6 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/trump%C4%B1n-k%C3%BCrtlerin-paras%C4%B1n%C4%B1-%C3%B6dedik-demesi/ (bkz en iyi kürt ölü kürttür bir türk dünyaya bedeldir. mk trump)
+https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz adres ver gellelim pampa) 
 https://www.uludagsozluk.com/k/pkk-l%C4%B1-hevallerin-u%C3%A7arken-g%C3%B6r%C3%BCnt%C3%BClenmesi/&w=gd ( bkz la zevke geliyik agam)
 https://www.uludagsozluk.com/k/sevgilisine-sar%C4%B1l%C4%B1rken-ba%C5%9Fka-erke%C4%9Fi-kesen-k%C4%B1z/&w=bg (bkz la oglim bizi kesiy lo)
 https://www.uludagsozluk.com/k/kuzey-suriye-harekat%C4%B1na-s%C3%B6zl%C3%BCk-ne-diyor/ (bkz zamlara zevklenen hewaller havada uçiy lo adasdasdasdasas)
