@@ -3,7 +3,7 @@
 https://www.uludagsozluk.com/k/pkk-niye-bitmiyor-sorunsal%C4%B1/ (bkz  cs go bordo klavye team kurak babo )
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la oglim geberdiği andir oglim leşini sikem lo)
 https://www.uludagsozluk.com/k/65-y%C4%B1ld%C4%B1r-t%C3%BCp%C3%BCn-i%C3%A7inde-hareketsiz-yatan-adam/ (bkz yutüp berkay)
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg la babo zevke geliyik harekete bereket gerek babo
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg la babo zevke geliyik harekete bereket gerek babo zevkleniyik la geberiyik terörikley
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz geberdiği andır babo zevke geliyik bordo klavyelilik babo)
 https://www.uludagsozluk.com/k/pkk-l%C4%B1-hevallerin-u%C3%A7arken-g%C3%B6r%C3%BCnt%C3%BClenmesi/ (bkz la oglim ne sevindik lo biji turkiy forces her biji turkey ) -->
 <!-- https://www.uludagsozluk.com/k/mu%C4%9Fla-emniyetinden-%C3%A7%C4%B1kan-erotik-%C3%BCr%C3%BCnler/ (bkz memur bey bu facebook ta paylaşılır mı :))) -->
