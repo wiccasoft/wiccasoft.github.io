@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen/&w=bg (bkz 2007 den beri sallamak)
-https://www.uludagsozluk.com/k/%C3%A7ok-mutluyum-s%C3%B6zl%C3%BCk/&w=bg (bkz havada uçuşan hewalleri izleyip zevk alan ılık götlü bord bereli )
+https://www.uludagsozluk.com/k/%C3%A7ok-mutluyum-s%C3%B6zl%C3%BCk/&w=bg (bkz havada uçuşan hewalleri izleyip zevk almak )
 https://www.uludagsozluk.com/k/burger-king-kfc-arbys-popeyes-carls-jr-mc-donalds/ (bkz bordoklavyelilerin acıkması)
 https://www.uludagsozluk.com/k/pkk-l%C4%B1-hevallerin-u%C3%A7arken-g%C3%B6r%C3%BCnt%C3%BClenmesi/ (bkz bordo klavyeli zombilerin zevklenmesi)
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-kankam-beni-arkada%C5%9F-olarak-g%C3%B6r%C3%BCyor-%C4%B1srar%C4%B1/ (bkz kıslarla kanka olan bordo klavyeli)
