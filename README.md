@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=bg (bkz osbir çektikten sonra gelen rahavet)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz osbir çekilen kızın ekşi yazarı olduğu öğrenmek)
 https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken adam)
 https://www.uludagsozluk.com/k/vapurda-mast%C3%BCrbasyon-yapan-adam/ (bkz neyse kızlar nerde kalmıştık)
