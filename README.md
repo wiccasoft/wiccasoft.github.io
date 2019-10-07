@@ -1,7 +1,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.uludagsozluk.com/k/pkk-niye-bitmiyor-sorunsal%C4%B1/ (bkz  cs go bordo klavye team kurak babo )
-https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la oglim geberdiği andir oglim leşini sikem lo)
+https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz la oglim geberdiği andir oglim leşini sikem lo cs go atak mı la)
 https://www.uludagsozluk.com/k/65-y%C4%B1ld%C4%B1r-t%C3%BCp%C3%BCn-i%C3%A7inde-hareketsiz-yatan-adam/ (bkz yutüp berkay)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg la babo zevke geliyik harekete bereket gerek babo zevkleniyik la geberiyik terörikley
 https://www.uludagsozluk.com/k/bir-pkk-l%C4%B1n%C4%B1n-en-g%C3%BCzel-hali/ (bkz geberdiği andır babo zevke geliyik bordo klavyelilik babo)
