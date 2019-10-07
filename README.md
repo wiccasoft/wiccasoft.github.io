@@ -1,6 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
-https://www.uludagsozluk.com/k/sevgilinin-aln%C4%B1na-rujla-sahipli-yazmak/ bkz eşein barışmak için yarrapın gafasına rujla  öpücük atması
+https://www.uludagsozluk.com/k/sevgilinin-aln%C4%B1na-rujla-sahipli-yazmak/ bkz eşin barışmak için yarrağın gafasına iz bırakması bu benüm demesi anlamuna gelüy
 https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ bkz konuşurken yüzüme bahacan la diyip gafasına vur ganga
 https://www.uludagsozluk.com/k/yalan-anlatan-arkada%C5%9F%C4%B1-sab%C4%B1rla-dinlemek/ bkz konuşerkene yüze bahmaya anliyi ben yalan söyliyi
 https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/ bkz konuşurken yüze bakmiy çomarlik yapiy
