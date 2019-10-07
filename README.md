@@ -2,6 +2,7 @@
 
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.uludagsozluk.com/k/i%C3%A7inden-geleni-s%C3%B6yle/&w=bg bkz what would garaoğlan do
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg bkz what would türkeş do
 https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu/&w=bg bkz rizeli laz tayyipin hemşo
 https://www.uludagsozluk.com/k/sol-haber-portal%C4%B1/&w=bg bkz redhack team
