@@ -1,5 +1,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/serenay-sar%C4%B1kaya/&w=b (bkz la oglim zamlar havada uçiy negzel)
 https://www.uludagsozluk.com/k/sevgilisine-sar%C4%B1l%C4%B1rken-ba%C5%9Fka-erke%C4%9Fi-kesen-k%C4%B1z/&w=bg (bkz la oglim bizi kesiy lo)
 https://www.uludagsozluk.com/k/kuzey-suriye-harekat%C4%B1na-s%C3%B6zl%C3%BCk-ne-diyor/ (bkz zamlara zevklenen hewaller havada uçiy lo adasdasdasdasas)
 https://www.uludagsozluk.com/k/trump%C4%B1n-k%C3%BCrtlerin-paras%C4%B1n%C4%B1-%C3%B6dedik-demesi/ (bkz la oglim ben olsam türk oglim)
