@@ -3,6 +3,7 @@
 
 <!--
 https://mobile.twitter.com/Tugce_official teveccünüz tuğçe hanım 
+https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz ısırınca kekremsi tad veren futbolcular)
 https://www.uludagsozluk.com/k/rusya-dan-pyd-ye-destek-a%C3%A7%C4%B1klmas%C4%B1/ (bkz türkiyenin sik gibi ortada kalması)
 https://www.uludagsozluk.com/k/ypg-den-bekliyoruz-gelin-a%C3%A7%C4%B1klamas%C4%B1/&w=gd (bkz gelsene lan güngörene)
 https://www.uludagsozluk.com/k/meltem-miralo%C4%9Flu/&w=bg (bkz miroğlunun şule çeti desteklemesi)
