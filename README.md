@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
+https://www.uludagsozluk.com/k/15-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fun-dertli-dertli-sigara-i%C3%A7mesi/&w=bg (bkz dadluğ dadluğ üçüğ sübyan)
 https://eksisozluk.com/ilk-bulusmada-yenilmeyecek-seyler--6205622?a=popular (bkz dadı dimağda galah şeyhler)
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz dadığ dimapğ galiğ babüğ)
 ,https://www.uludagsozluk.com/k/mabel-matiz-dinleyen-erkek/&w=bg (bkz dadığ dimağda galağ erkeğdiğ)
