@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz yerken ağızda tad bırakn futbolcular)
+https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz yerken ağızda tad bırakan futbolcular)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz yiğidim yiyişek mi)
 https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz arap sen vergi verme bokunu çıkarıyorsun)
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-nin-trump-a%C3%A7%C4%B1klamas%C4%B1/ (bkz kürt lütfen)
