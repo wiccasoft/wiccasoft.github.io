@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
 https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz kırmızı rujla vergi dairesine türk önde türk ileri yazmak)
-https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bkz ruju sürerken nakşidendici şeyhe domalan şeyh)
+https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bk halidi tarikatının ruj sürerken kaydırması)
 https://www.uludagsozluk.com/k/k%C4%B1z-%C3%A7ocuklar%C4%B1na-%C3%B6%C4%9Fretilmesi-gereken-%C5%9Feyler/&w=bg (bkz ruju kaydırmayarak atatürk kızı gibi sürmek)
 https://www.uludagsozluk.com/k/suriyeliyim-%C3%A7ince-tabela-istemiyorum/ (bkz türk önde türk ileri)
 https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bkz cüppelinin ışıkçılara ruj sürmeyin fetvası)
