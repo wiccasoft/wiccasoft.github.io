@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bkz dadığ dimağ da galan serdar otağç)
+https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bkz dadığ dimağ da galan serdar)
 https://www.uludagsozluk.com/k/bak-155i-ararun-i%C3%A7eri-aldururun/&w=bg (bağ dadın dimağda galır)
 https://www.uludagsozluk.com/k/abd-de-b%C3%BCy%C3%BCk-firmalar%C4%B1-devletin-y%C3%B6netmesi/ (bkz dadı dimağ da kalmış lağ)
 https://www.uludagsozluk.com/k/s%C4%B1laya-ahey-ahey-diyen-day%C4%B1/ (bkz dadi dimağ galiğ loğ napağ ahey dem mi demeyğğğ)
