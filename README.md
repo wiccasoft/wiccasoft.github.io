@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/bim-tatl%C4%B1lar%C4%B1/ (bkz azda dat bırakan futbolculağ)
+https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (vkz dakip seknesinden drunka naber ganga vdemek)
 https://www.uludagsozluk.com/k/torpil-haram-m%C4%B1d%C4%B1r/&w=bg (bkz kasyer erkeğ bakir misin datlı şey diye sormak )
 https://www.uludagsozluk.com/k/bakir-erkek/&w=bg (bkz kasyer kıslar yüzünden bakir takılan erkek)
 https://www.uludagsozluk.com/k/hastayken-nazlanan-erkek/&w=bg (bkz kasyer kısların hasta ettiği erkek)
