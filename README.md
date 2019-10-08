@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
+https://www.uludagsozluk.com/k/izmit-teki-8-katl%C4%B1-bina/ (bkz türkiyeye saldırmamak için nedenler)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz rte)
 https://www.uludagsozluk.com/k/e%C5%9Fi-%C3%B6yle-istiyor-diye-ailesi-ile-g%C3%B6r%C3%BC%C5%9Fmeyen-adam/ (bkz rte)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-%C3%A7ift-soyad-ta%C5%9F%C4%B1yan-erkek/&w=bg (bkz rte)
