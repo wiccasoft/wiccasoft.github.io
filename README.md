@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/antrikot-vs-bonfile/ (bkz dadı damağ galiyğ fitbolcular)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz ıstır ıstır bitmiğ lo dadı damağda kaliy)
 https://www.uludagsozluk.com/k/hastayken-nazlanan-erkek/&w=bg (bkz orospusuna nazlanağ kurğ felağ neyiğ yapağ erkeğ)
 https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bk orospusuna yavruğ diyen erkeğler)
