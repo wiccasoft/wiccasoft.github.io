@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
 https://www.uludagsozluk.com/k/donald-trump-%C4%B1n-kar%C4%B1s%C4%B1na-k%C4%B1z%C4%B1na-bakarak-31-%C3%A7ekmek/ (bkz who cares)
-https://www.uludagsozluk.com/k/justin-bieber-ve-e%C5%9Fi-hailey-bieber/ (bkz patlak kızların jsutin yavşağına tav olması)
+https://www.uludagsozluk.com/k/justin-bieber-ve-e%C5%9Fi-hailey-bieber/ (bkz patlak kızların justin yavşağına tav olması)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz patlak kız bahaneleri)
 https://www.uludagsozluk.com/k/%C3%A7in-in-t%C3%BCrkiye-yi-tehdit-etmesi/ (bkz türkiyenin sik gibi ortada kalması)
 https://www.uludagsozluk.com/k/izmit-teki-8-katl%C4%B1-bina/ (bkz türkiyenin sik gibi ortada kalması)
