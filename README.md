@@ -3,6 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/otob%C3%BCste-bana-bak%C4%B1p-penisiyle-oynayan-adam/ (bkz yine otobüse soktun kardeş)
 https://www.uludagsozluk.com/k/biseks%C3%BCel/&w=bg (bkz otobüste sikiyle oynayan adam)
+https://www.uludagsozluk.com/k/fatih-bulut/&w=bg (bkz otobüste sikiyle oynayan adam)
 https://www.uludagsozluk.com/k/mevsimlik-i%C5%9F%C3%A7i/&w=bg (bkz yine tüpe soktun ismail kardeş)
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
 https://eksisozluk.com/heath-ledger-vs-joaquin-phoenix--6203617?a=popular (bkz tadı damakta kalan yakışıklılar)
