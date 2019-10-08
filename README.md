@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
 https://www.uludagsozluk.com/k/izmit-teki-8-katl%C4%B1-bina/ (bkz türkiyenin sik gibi ortada kalması)
-https://www.uludagsozluk.com/k/ruju-ta%C5%9F%C4%B1rarak-s%C3%BCren-k%C4%B1zlar/ (bkz ruj süren dişi iticliği)
+https://www.uludagsozluk.com/k/ruju-ta%C5%9F%C4%B1rarak-s%C3%BCren-k%C4%B1zlar/ (bkz ruj süren karı iticiliği)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz rte)
 https://www.uludagsozluk.com/k/e%C5%9Fi-%C3%B6yle-istiyor-diye-ailesi-ile-g%C3%B6r%C3%BC%C5%9Fmeyen-adam/ (bkz rte)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-%C3%A7ift-soyad-ta%C5%9F%C4%B1yan-erkek/&w=bg (bkz rte)
