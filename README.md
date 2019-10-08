@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
+https://www.uludagsozluk.com/k/bakir-erkek/&w=bg (bkz kasyer kıslar yüzünden bakir takılan erkek)
 https://www.uludagsozluk.com/k/hastayken-nazlanan-erkek/&w=bg (bkz kasyer kısların hasta ettiği erkek)
 https://www.uludagsozluk.com/k/starbucks-kasiyerine-a%C5%9F%C4%B1k-olmak/ (bkz atom mühendisi olup kasyerle takılmak)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz tadı damak kalan pattisler) https://www.uludagsozluk.com/k/patatese-pattis-diyen-k%C3%B6yl%C3%BC/ (bkz meral pattis marrema sogan nasıl koydu ama tayyip erdon)
