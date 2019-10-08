@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/bim-tatl%C4%B1lar%C4%B1/ (bkz azda dat bırakan futbolculağ)
+https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz emcükleri emülesi karıları olan fitbolcuağ)
 https://www.uludagsozluk.com/k/7-ekim-2019-y%C4%B1lmaz-%C3%B6zdil-tweeti/ (bkz favorit et zeknesinde drunka ilettim ganga raad ol amk bende la emcüğüne emüklediğüm raadol)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg (bknz façebok seknesinde drunka şikayet ettim kanka bende raat ol)
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z-g%C3%B6t%C3%BC/&w=gd (bkz insta dakib sknesinde drunka şikayet edilesi gıslar)
