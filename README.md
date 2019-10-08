@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz trumpın karısını hayal edrek osbir çeken erkek)
+https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bkz trumpın larısını hayal etmeleri)
 https://www.uludagsozluk.com/k/7-ekim-2019-y%C4%B1lmaz-%C3%B6zdil-tweeti/ (bkz sen kimsin amk yarrak kafalı)
 https://www.uludagsozluk.com/k/bim-tatl%C4%B1lar%C4%B1/ (bkz azda dat bırakan futbolculağ nasil goydu mama fitbolculağ)
 https://www.uludagsozluk.com/k/tayyip%C3%A7ileri-%C3%A7%C4%B1ld%C4%B1rtacak-bir-%C5%9Fey-b%C4%B1rak/&w=bg (bzk az da dad bırakan fitbılcılapğğğ)
