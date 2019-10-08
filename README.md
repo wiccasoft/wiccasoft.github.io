@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/s%C4%B1laya-ahey-ahey-diyen-day%C4%B1/ (bkz dadi dimağ galiğ loğ)
+https://www.uludagsozluk.com/k/s%C4%B1laya-ahey-ahey-diyen-day%C4%B1/ (bkz dadi dimağ galiğ loğ napağ ahey demeyğğğ)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz la oglim dadi dimağ galiy diyiğ anmaliği)
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1ndaki-k%C4%B1za-i%C5%9Fkence-yapan-baba/ (bkz dadi dimağ galiy loğğ)
 https://www.uludagsozluk.com/k/s%C4%B1laya-ahey-ahey-diyen-day%C4%B1/ (bkz dadi dimağ galiy lo)
