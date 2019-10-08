@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
+https://www.uludagsozluk.com/k/babas%C4%B1yla-teyzesi-evlenen-k%C4%B1z/ (bkz kasiyer kızlar)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-sol-eli/&w=bg (bkz ay götüm elledi)
 https://www.uludagsozluk.com/k/kasiyer-k%C4%B1zlar/&w=bg (bkz orospuçocuğu aşağılık köpekler)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz olsa da yesek denen futbolcular)
