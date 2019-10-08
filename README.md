@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/profes%C3%B6r%C3%BCn-paray%C4%B1-strip-kul%C3%BCpte-yemesi/ (bkz ankara tavernalarında la bi daha mı gelcez dünyaya diyip alem yapan prof)
+https://www.uludagsozluk.com/k/profes%C3%B6r%C3%BCn-paray%C4%B1-strip-kul%C3%BCpte-yemesi/ (bkz la bi daha mı gelcez dünyaya)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz yerken ağızda tad bırakan futbolcular)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz yiğidim yiyişek mi)
 https://www.uludagsozluk.com/k/ruju-ta%C5%9F%C4%B1rarak-s%C3%BCren-k%C4%B1zlar/ (bkz batmanin alnına şapşik yazan joker)
