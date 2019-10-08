@@ -3,6 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/rocky-balboa-looser-m%C4%B1-winner-m%C4%B1-sorunsal%C4%B1/ (bkz ısıtırınca yenmeyen erkekler)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz zombilerin iyice delirmesi)
+https://www.uludagsozluk.com/k/t%C3%BCrk-erke%C4%9Fi-v%C3%BCcudu/&w=bg (bkz ısıtırnca ağızda tat bırakmayan erkekler)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz selçuk şahini ısırınca kekremsi bi sümük tadı bırakıyor)
 https://www.uludagsozluk.com/k/otob%C3%BCste-bana-bak%C4%B1p-penisiyle-oynayan-adam/ (bkz yoklukta gideri var)
 https://www.uludagsozluk.com/k/tacizciyi-%C3%B6ld%C3%BCrmenin-su%C3%A7-olmas%C4%B1-sorunsal%C4%B1/ (bkz teengirlin odasına kamera bağlayan nakşibendi şeyhi)
