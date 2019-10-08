@@ -1,6 +1,8 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!---https://www.uludagsozluk.com/k/jokerdeki-alfred/ (lo oglim deedmin gaylerindeki irfan abi lo bu)
+<!---
+https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/&w=gd la oglim bu hefif hala osbir mi çekiy
+https://www.uludagsozluk.com/k/jokerdeki-alfred/ (lo oglim deedmin gaylerindeki irfan abi lo bu)
 https://www.uludagsozluk.com/k/bmw-ile-varo%C5%9F-mahallesinden-ge%C3%A7erken-kahkaha-atmak/&w=bg (bkz bmw ne gezer la varoş maallede)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
 https://www.uludagsozluk.com/k/mark-twain-in-torunun-torunu/
