@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/kitap-okuman%C4%B1n-toplumu-%C3%A7a%C4%9Fda%C5%9Fla%C5%9Ft%C4%B1rmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ (bkz okumadım pampa)
+https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1ndaki-k%C4%B1za-i%C5%9Fkence-yapan-baba/ (bkz okumadım pampa)
 https://www.uludagsozluk.com/k/yolda-uyuyan-k%C3%B6pe%C4%9Fi-ezip-ka%C3%A7an-%C5%9Ferefsiz/ (bkz havlayan köpeği şerefle ezmek)
 https://www.uludagsozluk.com/k/so%C4%9Fuk-gecede-yarra%C4%9F%C4%B1ndan-kalk%C4%B1p/ (bkz çok fena skiş döndüğü düşünülen yerler)
 https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (bkz tatlı niyetine yenilecek futbolcu seçememek)
