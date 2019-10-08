@@ -21,7 +21,7 @@ https://eksisozluk.com/yesim-salkimin-twitterda-yedigi-muazzam-ayar--6204901?a=p
 
 [![Image](smartdata/release.png)]( https://twitter.com/CapaMagMagazine/status/1178203827784290304 )
 
-[![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
+[![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=CllOkyFPi7w )
 [![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=AGZiLMGdCE0 )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=PHuLy0DT_84  )
 [![Image](smartdata/1-0-2.png)]( https://www.youtube.com/watch?v=NXQJ9iR5BkA )
