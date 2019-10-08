@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!--
+<!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
+https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/ (bkz ananın amına sokayım senin)
 https://www.uludagsozluk.com/k/ermeni-d%C3%B6v%C3%BC%C5%9F%C3%A7%C3%BCn%C3%BCn-t%C3%BCrk-rakibini-bo%C4%9Fmas%C4%B1/ (bkz türklerdeki sikilme eğilimi)
 https://www.uludagsozluk.com/k/kitap-okuman%C4%B1n-toplumu-%C3%A7a%C4%9Fda%C5%9Fla%C5%9Ft%C4%B1rmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ (bkz okumadım pampa)
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1ndaki-k%C4%B1za-i%C5%9Fkence-yapan-baba/ (bkz okumadım pampa)
