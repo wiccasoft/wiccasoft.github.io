@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/otob%C3%BCste-bana-bak%C4%B1p-penisiyle-oynayan-adam/ (bkz yoklukta gideri var)
 https://www.uludagsozluk.com/k/tacizciyi-%C3%B6ld%C3%BCrmenin-su%C3%A7-olmas%C4%B1-sorunsal%C4%B1/ (bkz teengirlin odasına kamera bağlayan nakşibendi şeyhi)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz ıstırırken falcao sümkürürken bile tatlı ayol)
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu-ve-b%C4%B1y%C4%B1k-politikas%C4%B1/&w=bg (bkz çavuşoğlanın bıyıklarınıgöt deliklerime sürtmesi)
