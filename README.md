@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz yallah arabistana)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz patlak kemalist kızın suda çıkardığı ses)
 https://www.uludagsozluk.com/k/buras%C4%B1-atat%C3%BCrk-t%C3%BCrkiye-si-yallah-arabistana/ (bkz kemalist kızların iyice delirmesi)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz kemalist patlak kızların iyice delirmesi)
