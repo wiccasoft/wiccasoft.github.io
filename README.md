@@ -1,3 +1,4 @@
+[![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 <!---->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
