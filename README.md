@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/tayyip%C3%A7ileri-%C3%A7%C4%B1ld%C4%B1rtacak-bir-%C5%9Fey-b%C4%B1rak/&w=bg (dadığ dimağ bırakan futbolculağ bırağ)
+https://www.uludagsozluk.com/k/tayyip%C3%A7ileri-%C3%A7%C4%B1ld%C4%B1rtacak-bir-%C5%9Fey-b%C4%B1rak/&w=bg (bkz dadığ dimağ bırakan futbolculağ bırağ)
 https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (bkz dadiğ damağ da galiğ nieğ galdriğ)
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz dadi damağda galiyğğ futbolcuğ saniğ)
 https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bk dadı dimağ galiğ pkk küfredüğ şükrü tutkun ölüğ)
