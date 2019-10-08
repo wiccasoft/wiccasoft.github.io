@@ -2,7 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/traveler-of-secret-moments/&w=bg (la oglim emma stone un ne işi var bu hırboların arasında)
-https://www.uludagsozluk.com/k/jokerdeki-alfred/ (lo oglim dedmin gaylerindeki irfan abi lo bu)
+https://www.uludagsozluk.com/k/jokerdeki-alfred/ (lo oglim deedmin gaylerindeki irfan abi lo bu)
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1ndaki-k%C4%B1za-i%C5%9Fkence-yapan-baba/&w=bg (la oglim mbw li aga deilmi lo bu
 https://www.uludagsozluk.com/k/bmw-ile-varo%C5%9F-mahallesinden-ge%C3%A7erken-kahkaha-atmak/&w=bg (bkz bmw ne gezer la varoş maallede alaman arabayın varoş maalede ne işi var zaar)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
