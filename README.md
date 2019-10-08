@@ -2,7 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
-https://www.uludagsozluk.com/k/torpil-haram-m%C4%B1d%C4%B1r/&w=bg (bkz kasyer kıza para üstü verip gecelik ilişki teklif etmek)
+https://www.uludagsozluk.com/k/torpil-haram-m%C4%B1d%C4%B1r/&w=bg (bkz kasyer erkeğ para üstü verip gecelik ilişki teklif etmek)
 https://www.uludagsozluk.com/k/bakir-erkek/&w=bg (bkz kasyer kıslar yüzünden bakir takılan erkek)
 https://www.uludagsozluk.com/k/hastayken-nazlanan-erkek/&w=bg (bkz kasyer kısların hasta ettiği erkek)
 https://www.uludagsozluk.com/k/starbucks-kasiyerine-a%C5%9F%C4%B1k-olmak/ (bkz atom mühendisi olup kasyerle takılmak)
