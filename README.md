@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (bkz tatlı niyetine yenilecek futbolcu seçememek)
+https://www.uludagsozluk.com/k/bakire-olmayan-sevgiliyi-kaltak-diye-%C3%A7a%C4%9F%C4%B1rmak/ (bkz odaya annesine kek getir diyen erkek)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz tatlı niyetine yenilesi liberolar)
 https://www.uludagsozluk.com/k/rocky-balboa-looser-m%C4%B1-winner-m%C4%B1-sorunsal%C4%B1/ (bkz ısıtırınca yenmeyen erkekler)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz zombilerin iyice delirmesi)
