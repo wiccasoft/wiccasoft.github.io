@@ -2,12 +2,11 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-neden-uzun-boya-tak%C4%B1k/ (bkz z kuşağının yediklerine katılan gdo lu ürünler)
 https://www.uludagsozluk.com/k/meltem-miralo%C4%9Flu-nun-80-ya%C5%9F%C4%B1ndaki-adamla-evlenmesi/ 
 (bkz vallaha sataram köyü ha)
-https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
-https://mobile.twitter.com/Tugce_official teveccünüz tuğçe hanım 
-bkz tuğçe kazaz'a tükürmeli blowjob yaptırmak
+https://mobile.twitter.com/Tugce_official (bkz tuğçe kazaz'a tükürmeli blowjob yaptırmak)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz ısırınca kekremsi tad veren futbolcular)
 https://www.uludagsozluk.com/k/rusya-dan-pyd-ye-destek-a%C3%A7%C4%B1klmas%C4%B1/ (bkz türkiyenin sik gibi ortada kalması)
 https://www.uludagsozluk.com/k/ypg-den-bekliyoruz-gelin-a%C3%A7%C4%B1klamas%C4%B1/&w=gd (bkz gelsene lan güngörene)
