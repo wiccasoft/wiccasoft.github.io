@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz üstüne tatlı niyetine yenilesi liberolar)
 https://www.uludagsozluk.com/k/rocky-balboa-looser-m%C4%B1-winner-m%C4%B1-sorunsal%C4%B1/ (bkz ısıtırınca yenmeyen erkekler)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz zombilerin iyice delirmesi)
 https://www.uludagsozluk.com/k/t%C3%BCrk-erke%C4%9Fi-v%C3%BCcudu/&w=bg (bkz ısıtırnca ağızda tat bırakmayan erkekler)
