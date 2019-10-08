@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
+https://www.uludagsozluk.com/k/t%C3%BCrkiyeden-siktir-olup-gitmek/&w=bg (bkz türklerdeki siktirme tutkusu)
 https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz arap futbolcu istemiyoruz kampanyası)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz selçuk şahin yerken ağızda kekremsi tad kalması)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz soslu alex de souza)
