@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
+https://www.uludagsozluk.com/k/vallahi-apo-yu-%C3%B6zledik-diyen-ahmet-kaya/&w=bg (vballahi apollo11 i özledik)
 https://www.uludagsozluk.com/k/gfb-atk%C4%B1s%C4%B1-a%C3%A7an-t%C3%BCrk-askeri/ (bkz serdar ortaçın döşediği boru)
 https://www.uludagsozluk.com/k/vallahi-apo-yu-%C3%B6zledik-diyen-ahmet-kaya/&w=bg (bkz vallahi apoyu özledik babo gafam sıkay gideyim wallo)
 https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/ (bkz ananın amına sokayım senin)
