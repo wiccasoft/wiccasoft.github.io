@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/bmw-ile-varo%C5%9F-mahallesinden-ge%C3%A7erken-kahkaha-atmak/&w=bg (bkz la oglim bmw ye biniy gahgah atiy cartel araba yok dinliy zengin hreal bmw görmemişih bih loğ )
+https://www.uludagsozluk.com/k/bmw-ile-varo%C5%9F-mahallesinden-ge%C3%A7erken-kahkaha-atmak/&w=bg (bkz la oglimcartel araba yok dinliy zengin hreal bmw görmemişih bih loğ )
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
 https://www.uludagsozluk.com/k/mark-twain-in-torunun-torunu/
 (bkz şeftalü gübün emücüğü var löğ)
