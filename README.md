@@ -3,7 +3,6 @@
 <!--
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
 https://www.uludagsozluk.com/k/kad%C4%B1n-soyunma-kabininin-videosunu-%C3%A7eken-m%C3%BCezzin/&w=bg (bkz haidi tarikatının teengirlin soyunma odasına kamera koyması)
-https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=gd (bkz türkiyeden kaçmak için haidi tarikatındanım diyen kız)
 https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz kırmızı rujla vergi dairesine arap önde türk ileri yazmak)
 https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bk halidi tarikatının ruj sürerken kaydırması)
 https://www.uludagsozluk.com/k/k%C4%B1z-%C3%A7ocuklar%C4%B1na-%C3%B6%C4%9Fretilmesi-gereken-%C5%9Feyler/&w=bg (bkz ruju kaydırmayarak atatürk kızı gibi sürmek)
