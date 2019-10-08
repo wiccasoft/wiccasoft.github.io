@@ -1,58 +1,5 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
-<!--
-(bkz dedim dedim inanamadınız bak noldu şimdi)
-https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies
-https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular&p=19 (bkz: 404 not found) 
-(bkz pardon pampalar kuzenim tehdit etmiş)https://www.youtube.com/watch?v=XNtPl_EoESM
-https://www.youtube.com/watch?v=8lGH_DvtBEM
-https://www.uludagsozluk.com/k/so%C4%9Fuk-gecede-yarra%C4%9F%C4%B1ndan-kalk%C4%B1p/ 
-(bkz barış pınarı harekatı sonrası ilişkilerin rayına girmesi)
-https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/
-(bkz vapurda osbir çekmemle başlayan garip süreç)
-https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/&w=bg (bkz osbirime karışma diyen kaba erkek)
-https://www.uludagsozluk.com/k/saddam-ya%C5%9Fasayd%C4%B1-pkk-kal%C4%B1r-m%C4%B1yd%C4%B1/ (bkz kızları etkilemek için  bazukalı poz vermek)
-https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurda osbir çeken adam)
-https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz nerde kalmıştık)
-https://www.uludagsozluk.com/k/konu%C5%9Fma-f%C4%B1rsat%C4%B1n-vard%C4%B1-aptal/ (bkz vapurdaosbir çeken adam)
-https://www.uludagsozluk.com/k/karde%C5%9Fini-balkondan-atan-%C3%A7ocuk/&w=bg (bkz vapurda osbir çeken adamın oğlu)
-https://eksisozluk.com/bu-baslikta-trumpa-sesleniyoruz--6204654?a=popular (bkz samimi ol canımı ye)
-https://www.uludagsozluk.com/k/nihat-do%C4%9Fan/&w=bg (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/ertem-%C5%9Fener/&w=bg (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/musa-ero%C4%9Flu/&w=bg (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/&w=gd (bkz yine tüpe soktun hulusi kardeş)
-https://www.uludagsozluk.com/k/ne%C5%9Fet-erta%C5%9F/&w=bg (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=bg (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/hz-muhammed/&w=bg  (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/jesus-christ/&w=bg (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/&w=bg (bkz what would hulusi do)
-https://eksisozluk.com/vapurda-masturbasyon-yapan-adam--6204619?a=popular (bkz emre belezoğlan)
-https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg bkz piskevitçi movement party
-https://www.uludagsozluk.com/k/turan-eller-var-olsun-tanr%C4%B1-t%C3%BCrk-e-yar-olsun/&w=bg bkz heil türks
-https://www.uludagsozluk.com/k/i%C3%A7inden-geleni-s%C3%B6yle/&w=bg bkz what would garaoğlan do
-https://www.uludagsozluk.com/k/akp-nin-veremedi%C4%9Fi-abd-tepkisini-chp-nin-vermesi/ bkz what would faik öztrak do
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg bkz what would türkeş do
-https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu/&w=bg bkz rizeli laz tayyipin hemşo oğlan
-https://www.uludagsozluk.com/k/sol-haber-portal%C4%B1/&w=bg bkz redhack team
-https://www.uludagsozluk.com/k/milliyet%C3%A7i-hareket-partisi/&w=bg (bkz piskevitçiler)
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz tipe bak hizaya gel)
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F/&w=bg (bkz türklerin tipsizlik geni)
-https://www.uludagsozluk.com/k/her-zamda-yaygara-koparan-tip/ (bkz kim lan o)
-https://www.uludagsozluk.com/k/ya%C5%9F%C4%B1n%C4%B1-s%C3%B6ylemeden-anlat/&w=bg (bkz babişkoya babiş deme yaşları)
-https://www.uludagsozluk.com/k/kulakl%C4%B1kla-m%C3%BCzik-dinleyen-tip/ (bkz babişko uyurken kulaklık takmak)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-ne-yapard%C4%B1-sorunsal%C4%B1/ (bkz what would jesus do)
-https://www.uludagsozluk.com/k/ahkam-kesen-adamlara-u%C3%A7an-tekme-atmak/ (bkz yine güldürdün kardeş)
-https://www.uludagsozluk.com/k/geceye-efkarland%C4%B1ran-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/k/beyo%C4%9Flu-nun-en-g%C3%BCzel-abisi/&w=bg (bkz taksimin renkli siması sapık ismet)
-https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular (bkz olm şaka lan şaka)
-https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz alt dudakların yalan söylüyor)
-https://www.uludagsozluk.com/k/k%C3%BCs-olunan-e%C5%9Fe-nas%C4%B1l-davran%C4%B1lmas%C4%B1-gerekir/ (bkz ensenine rujla şapşik yaz kanka)
-https://eksisozluk.com/siniri-asarsa-turkiye-ekonomisini-yok-ederim--6204341?a=popular (bkz ama yine de siz sınırı aşmayın)
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg (bkz zall bana hep oç dere anlatır gibi anlatmak)
-https://www.uludagsozluk.com/k/esra-erol-daki-a%C5%9F%C4%B1r%C4%B1-marjinal-%C3%A7omar-ili%C5%9Fkisi/ (bkz hani marjinal zall hep ona oç derdi)
-https://www.uludagsozluk.com/k/ypg-den-ordu-kurabilece%C4%9Fini-sanan-saf-abd-li/ (bkz zall bana hep oç derin sınıra yerleşmesi) 
-https://www.uludagsozluk.com/k/tavla-ve-satran%C3%A7-oynayanlar%C4%B1n-cehennemlik-olmas%C4%B1/ (bkz zall sana hep oç der sen misin)
--->
+<!---->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
