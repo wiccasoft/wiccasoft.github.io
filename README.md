@@ -1,6 +1,7 @@
-[![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
+[![Image](almanac/turks-kurds-wars.png)]( https://www.youtube.com/watch?v=8lGH_DvtBEM )
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
+https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies
 https://eksisozluk.com/turk-ekonomisini-yok-ederim--6204340?a=popular&p=19 (bkz: 404 not found) 
 (bkz pardon pampalar kuzenim tehdit etmiş)https://www.youtube.com/watch?v=XNtPl_EoESM
 https://www.youtube.com/watch?v=8lGH_DvtBEM
