@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
+https://eksisozluk.com/heath-ledger-vs-joaquin-phoenix--6203617?a=popular (bkz tadı damakta kalan yakışıklılar)
 https://www.uludagsozluk.com/k/kad%C4%B1n-soyunma-kabininin-videosunu-%C3%A7eken-m%C3%BCezzin/&w=bg (bkz haidi tarikatının teengirlin soyunma odasına kamera koyması)
 https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz kırmızı rujla vergi dairesine arap önde türk ileri yazmak)
 https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bk halidi tarikatının ruj sürerken kaydırması)
