@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bk orospusuna yavruğ diyen erkeğler)
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg (bkz yavrum bi vuruğ gağ guruğ)
 https://www.uludagsozluk.com/k/orhan-pamuk-okumaya-hangi-kitab%C4%B1ndan-ba%C5%9Flanmal%C4%B1/&w=bg (bkz erkeğ tavlamağ için bambığ oğlan ığuyan gığ)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz şeftalün gübün emcüğünüzü sükmek üstemesü)
