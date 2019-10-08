@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg bkz badlak gızın suda çıhardığı ses
 https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular bkz alex de souzanın azımda kekremsi dad bırahdığı yıl
 https://eksisozluk.com/4-boyutu-buldugunu-iddia-eden-ogretmen--6205839?a=popular bkz 7.boyut salih abi la bu
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak ayla teyzecim
