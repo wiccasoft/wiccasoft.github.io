@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/meltem-miralo%C4%9Flu/&w=bg (bkz miroğlunun trumpa verdiği ayar)
-https://www.uludagsozluk.com/k/%C5%9Fule-%C3%A7et/ (bkz şule çetin trumpa henüz ayar vermemiş olması)
+https://www.uludagsozluk.com/k/%C5%9Fule-%C3%A7et/ (bkz şule çetin trumpa çetin cevize çattın demesi)
 https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-trump-a-meydan-okumas%C4%B1/ (bkz serdar ortaç ın araya girip olayı tatlıya bağlaması)
 https://eksisozluk.com/yesim-salkimin-twitterda-yedigi-muazzam-ayar--6204901?a=popular&p=7 (bkz yeşim salkım ın çomarlarla imtihanı)-->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
