@@ -2,7 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/&w=bg (bkz kasiyer kızların itici va cahil oldukları)
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/&w=bg (bkz kasiyer kızların itici va cahil oç oldukları)
 https://www.uludagsozluk.com/k/ermeni-d%C3%B6v%C3%BC%C5%9F%C3%A7%C3%BCn%C3%BCn-t%C3%BCrk-rakibini-bo%C4%9Fmas%C4%B1/ (bkz beyler bura pornoyo döbdü yetkili yoğ mu )
 https://www.uludagsozluk.com/k/babas%C4%B1yla-teyzesi-evlenen-k%C4%B1z/ (bkz kasiyer kızlar)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-sol-eli/&w=bg (bkz ay götüm elledi)
