@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
+https://www.uludagsozluk.com/k/popo-yuvarlama-hareketleri/&w=bg (bkz atatürk in görmke istediği gençlik)
 https://www.uludagsozluk.com/k/k%C4%B1z-%C3%A7ocuklar%C4%B1na-%C3%B6%C4%9Fretilmesi-gereken-%C5%9Feyler/&w=bg (bkz ruju kaydırmayarak sürmek)
 https://www.uludagsozluk.com/k/ruju-ta%C5%9F%C4%B1rarak-s%C3%BCren-k%C4%B1zlar/ (bkz iğrençsiniz ibneler) 
 https://www.uludagsozluk.com/k/bruce-dickinson-vs-fetullah-g%C3%BClen/&w=bg (bkz havada denizde karada hoplatarak sikmek)
