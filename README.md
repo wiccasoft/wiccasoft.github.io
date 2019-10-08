@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-d%C3%BC%C5%9Fman-gibi-g%C3%B6ren-tc-vatanda%C5%9F%C4%B1/&w=bg (bkz futbol sevmeyen tc liler)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-deli-de%C4%9Fildir/&w=bg (bkz futboldan anlamayan cahil)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg (bkz futbol bilgisi olmayan cahil)
 https://www.uludagsozluk.com/k/kasiyer-k%C4%B1zlar/&w=bg (bkz futbol bilgisi olmayan kızlar)
