@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular la oglim yahuşuhlu erkeğ ne ara lağ bazarda
 https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg la oglim vapurda osbir çeken mal değilmi lo bu dadi damağin da kaliy zaar
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular la oglim bu herif de hala kızına işkence ediy 
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/&w=gd la oglim bu hefif hala osbir çekiy lo
