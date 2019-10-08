@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bkz ser verip sır vermemeleri)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz trumpın karısını hayal edrek osbir çeken erkek)
 https://www.uludagsozluk.com/k/masaj-yapabilen-erkek/&w=bg (bkz kemalist erkek)
 https://www.uludagsozluk.com/k/mo%C4%9Folistan-%C4%B1n-sinsi-gibi-hi%C3%A7bir-olaya-kar%C4%B1%C5%9Fmamas%C4%B1/&w=bg (bkz ekşiden b aşlık çalan ergen)
