@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/mevsimlik-i%C5%9F%C3%A7i/&w=bg (bkz yine tüpe soktun ismail kardeş)
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
 https://eksisozluk.com/heath-ledger-vs-joaquin-phoenix--6203617?a=popular (bkz tadı damakta kalan yakışıklılar)
 https://www.uludagsozluk.com/k/kad%C4%B1n-soyunma-kabininin-videosunu-%C3%A7eken-m%C3%BCezzin/&w=bg (bkz haidi tarikatının teengirlin soyunma odasına kamera koyması)
