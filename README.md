@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/bim-tatl%C4%B1lar%C4%B1/ (bkz azda dat bırakan futbolculağ)
-https://www.uludagsozluk.com/k/7-ekim-2019-y%C4%B1lmaz-%C3%B6zdil-tweeti/ (bkz tweet seknesinde drunka ilettim ganga raad ol lan)
+https://www.uludagsozluk.com/k/7-ekim-2019-y%C4%B1lmaz-%C3%B6zdil-tweeti/ (bkz tvit et seknesinde drunka ilettim ganga raad ol lan bzden ol az amk )
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg (bknz façebok seknesinde drunka şikayet ettim kanka bende raat ol)
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z-g%C3%B6t%C3%BC/&w=gd (bkz insta dakib sknesinde drunka şikayet edilesi gıslar)
 https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (vkz dakib seknesinden drunka naber ganga demek)
