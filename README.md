@@ -3,6 +3,7 @@
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1rondanyadis/ (bkz oronbu çocu kadir)
+https://www.uludagsozluk.com/k/t%C3%BCrkiyeden-siktir-olup-gitmek/&w=bg (bkz kadiressiktirp gitmek isteyen sözlük ergeni)
 https://www.uludagsozluk.com/k/nefret-edilen-ki%C5%9Finin-akla-gelmesi/ (bkz kadirsiz yaşayaman işsiz ergen)
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z-g%C3%B6t%C3%BC/&w=bg (bkz türbanlı aşağılık oç kasiyer kız götü)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-deli-de%C4%9Fildir/&w=bg (bkz kadiri yedşirmeyiz)
