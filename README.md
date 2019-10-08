@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/hilal-kaplan/&w=bg (bkz türk ordusunun yanında olan götü kuru türbanlı)
+https://www.uludagsozluk.com/k/ruju-ta%C5%9F%C4%B1rarak-s%C3%BCren-k%C4%B1zlar/ (bkz iyice yıkayıp dövülesi kızlar)
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular (bkz piliç filetto soza)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz patlak kızları suya soktuğunda çıkan ses)
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
