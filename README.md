@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/bim-tatl%C4%B1lar%C4%B1/ (bkz azda dat bırakan futbolculağ)
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg (bknz façebok seknesinde durnka şikayet ettim kanka)
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg (bknz façebok seknesinde drunka şikayet ettim kanka bende raat ol)
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z-g%C3%B6t%C3%BC/&w=gd (bkz insta dakib sknesinde drunka şikayet edilesi gıslar)
 https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (vkz dakib seknesinden drunka naber ganga demek)
 https://www.uludagsozluk.com/k/torpil-haram-m%C4%B1d%C4%B1r/&w=bg (bkz kasyer erkeğ bakir misin datlı şey diye sormak )
