@@ -3,6 +3,7 @@
 <!--
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
 https://eksisozluk.com/ilk-bulusmada-yenilmeyecek-seyler--6205622?a=popular (bkz dadı dimağda galah şeyhler)
+,https://www.uludagsozluk.com/k/mabel-matiz-dinleyen-erkek/&w=bg (bkz dadığ dimağda galağ erkeğdiğ)
 https://eksisozluk.com/donanim-haber-olucusunden-kan-donduran-oneri--6205659?a=popular (bkz dadı dimağda galiğ)
 https://www.uludagsozluk.com/k/bak-155i-ararun-i%C3%A7eri-aldururun/&w=bg (bkz instağda yeniğ seğme açaymayğn ehşiçciğ)
 https://eksisozluk.com/instagramin-takip-sekmesini-kaldirmasi--6205485?a=popular (bkz dadımız dimağ da galiğ yeni seğme açamiğ )
