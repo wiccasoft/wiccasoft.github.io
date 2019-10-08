@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
 https://eksisozluk.com/ilk-bulusmada-yenilmeyecek-seyler--6205622?a=popular (bkz dadı dimağda galah şeyhler)
 https://eksisozluk.com/donanim-haber-olucusunden-kan-donduran-oneri--6205659?a=popular (bkz dadı dimağda galiğ)
 https://www.uludagsozluk.com/k/bak-155i-ararun-i%C3%A7eri-aldururun/&w=bg (bkz instağda yeniğ seğme açaymayğn ehşiçciğ)
