@@ -1,4 +1,4 @@
-[![Image](almanac/turks-kurds-wars.png)]( https://www.youtube.com/watch?v=8lGH_DvtBEM )
+[![Image](almanac/turks-kurds-wars.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 <!--
 (bkz dedim dedim inanamadınız bak noldu şimdi)
 https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies
