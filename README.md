@@ -2,7 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleris/
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1rondanyadis/ (bkz eski sevgilisin unutamyan ergen)
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1rondanyadis/ (bkz kadirkadir diye inleyen ergenn)
 https://www.uludagsozluk.com/k/t%C3%BCrkiyeden-siktir-olup-gitmek/&w=bg (bkz kadiressiktirp gitmek isteyen sözlük ergeni)
 https://www.uludagsozluk.com/k/nefret-edilen-ki%C5%9Finin-akla-gelmesi/ (bkz kadirsiz yaşayaman işsiz ergen)
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z-g%C3%B6t%C3%BC/&w=bg (bkz türbanlı aşağılık oç kasiyer kız götü)
