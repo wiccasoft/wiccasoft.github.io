@@ -3,13 +3,6 @@
 <!---
 https://www.uludagsozluk.com/k/kasl%C4%B1-sevgiliyi-g%C3%B6bekli-biriyle-aldatmak/&w=bg la oglim vapurda osbir çek daha iyi lo
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular la oglim ne gafası yaşıyoğ bunlar
-https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg la oglim vapurda osbir çeken mal değilmi lo bu dadi damağin da kaliy zaar
-https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular la oglim bu herif de hala kızına işkence ediy 
-https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/&w=gd la oglim bu hefif hala osbir çekiy lo
- https://www.uludagsozluk.com/k/jokerdeki-alfred/ (lo oglim deedmin gaylerindeki irfan abi lo bu)
-https://www.uludagsozluk.com/k/bmw-ile-varo%C5%9F-mahallesinden-ge%C3%A7erken-kahkaha-atmak/&w=bg (bkz bmw ne gezer la varoş maallede)
-https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz dadığ dimağda galiğ)
-https://www.uludagsozluk.com/k/mark-twain-in-torunun-torunu/
 (bkz şeftalü gübün emücüğü var löğ)
 https://www.uludagsozluk.com/k/alkol-alanlar%C4%B1n-18-ya%C5%9F%C4%B1ndan-k%C3%BC%C3%A7%C3%BCk-hale-gelmesi/ (bkz şeftalü gübün emücüğüyle üçkü üçüğ receğ tayyübe ünat üçüğ)
 https://www.uludagsozluk.com/k/15-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fun-dertli-dertli-sigara-i%C3%A7mesi/&w=bg (bkz dadluğ dadluğ üçüğ sübyan götiüne goyam lağ tayübe inad mü üçüğ)
