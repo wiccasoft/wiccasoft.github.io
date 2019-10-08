@@ -3,7 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/tacizciyi-%C3%B6ld%C3%BCrmenin-su%C3%A7-olmas%C4%B1-sorunsal%C4%B1/ (bkz teengirlin odasına kamera bağlayan nakşibendi şeyhi)
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu-ve-b%C4%B1y%C4%B1k-politikas%C4%B1/&w=bg (bkz çavuşoğlanın bıyıklarınıgöt deliklerime sürtmesi)
-https://www.uludagsozluk.com/k/biseks%C3%BCel/&w=bg (bkz badeci şeyh)
+https://www.uludagsozluk.com/k/biseks%C3%BCel/&w=bg (bkz teengirlin odasına kamera bağlayan nakşibendi şeyhi)
 https://www.uludagsozluk.com/k/rocky-balboa-looser-m%C4%B1-winner-m%C4%B1-sorunsal%C4%B1/ (bkz rocky balbaounun skini abuçlayarak kemalistleri taciz etmesi)
 https://www.uludagsozluk.com/k/ali%C5%9Fan/&w=bg (bkz otobüste sikiyle oynayan adam)
 https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bkz teengirln odasına kamera koyan sapık adam)
