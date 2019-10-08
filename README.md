@@ -3,6 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/ (bkz trumpın karısını hayal edrek osbir çeken erkek)
 https://www.uludagsozluk.com/k/masaj-yapabilen-erkek/&w=bg (bkz kemalist erkek)
+https://www.uludagsozluk.com/k/mo%C4%9Folistan-%C4%B1n-sinsi-gibi-hi%C3%A7bir-olaya-kar%C4%B1%C5%9Fmamas%C4%B1/&w=bg (bkz ekşiden b aşlık çalan ergen)
 https://www.uludagsozluk.com/k/serdar-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg (bkz trumpın larısını hayal etmeleri)
 https://www.uludagsozluk.com/k/7-ekim-2019-y%C4%B1lmaz-%C3%B6zdil-tweeti/ (bkz sen kimsin amk yarrak kafalı)
 https://www.uludagsozluk.com/k/bim-tatl%C4%B1lar%C4%B1/ (bkz azda dat bırakan futbolculağ nasil goydu mama fitbolculağ)
