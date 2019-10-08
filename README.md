@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz şeftalün gübün emcüğünüzü sükmek üstemsü)
+https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz şeftalün gübün emcüğünüzü sükmek üstemesü)
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg (bkz vapurda yavrum diyen erkek)
 https://www.uludagsozluk.com/k/vapurda-osbir-%C3%A7eken-adam/&w=gd (vkz ay hyarrağını çıkardı ayol)
 https://www.uludagsozluk.com/k/tayyip%C3%A7ileri-%C3%A7%C4%B1ld%C4%B1rtacak-bir-%C5%9Fey-b%C4%B1rak/&w=bg (bkz yeni sekmedeğ serdar ismliğ erkeğ resmliğ açmağ fitbolcuğ resimleri açmağğğğğ)
