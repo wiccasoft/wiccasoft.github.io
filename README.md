@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/eski-sevgilinin-eski-aptal-sevgilisi/ (bkz eski sevgilinin rujla ensesine şapşik yazan kız)
 https://www.uludagsozluk.com/k/uyuyan-k%C3%B6pe%C4%9Fi-ezen-s%C3%BCr%C3%BCc%C3%BC/ (bkz ruj süren kızı istemeyen erkek)
 https://www.uludagsozluk.com/k/hilal-kaplan/&w=bg (bkz türk ordusunun yanında olan götü kuru türbanlı)
 https://www.uludagsozluk.com/k/t%C3%BCrk-ordusunun-m%C3%BCsl%C3%BCmanla%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1/&w=bg (bkz ruj sürmeyen subaylar)
