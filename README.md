@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/rusya-dan-pyd-ye-destek-a%C3%A7%C4%B1klmas%C4%B1/ (bkz türkiyenin sik gibi ortada kalması)
 https://www.uludagsozluk.com/k/meltem-miralo%C4%9Flu/&w=bg (bkz miroğlunun şule çeti desteklemesi)
 https://www.uludagsozluk.com/k/%C5%9Fule-%C3%A7et/ (bkz şule çetin trumpa çetin cevize çattın demesi)
 https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-trump-a-meydan-okumas%C4%B1/ (bkz serdar ortaç ın araya girip olayı tatlıya bağlaması)
