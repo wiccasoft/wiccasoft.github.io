@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/bir-can%C4%B1n%C4%B1-vatan%C4%B1na-de%C4%9Fil-sevdi%C4%9Fi-k%C4%B1za-veren-tip/ (bkz justin bieber)
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
 https://www.uludagsozluk.com/k/donald-trump-%C4%B1n-kar%C4%B1s%C4%B1na-k%C4%B1z%C4%B1na-bakarak-31-%C3%A7ekmek/ (bkz who cares)
 https://www.uludagsozluk.com/k/justin-bieber-ve-e%C5%9Fi-hailey-bieber/ (bkz patlak kızların justin yavşaklığı)
