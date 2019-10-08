@@ -3,6 +3,7 @@
 <!---
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak ayla teyzecim
 https://www.uludagsozluk.com/k/kasl%C4%B1-sevgiliyi-g%C3%B6bekli-biriyle-aldatmak/&w=bg la oglim vapurda osbir çek daha iyi lo
+https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular bkz azda kekremsi dad bırahan liberolar
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular la oglim ne gafası yaşıyoğ bunlar
 (bkz şeftalü gübün emücüğü var löğ)
 https://www.uludagsozluk.com/k/alkol-alanlar%C4%B1n-18-ya%C5%9F%C4%B1ndan-k%C3%BC%C3%A7%C3%BCk-hale-gelmesi/ (bkz şeftalü gübün emücüğüyle üçkü üçüğ receğ tayyübe ünat üçüğ)
