@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/ruju-ta%C5%9F%C4%B1rarak-s%C3%BCren-k%C4%B1zlar/ (bkz kemalist kızlar)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz patlak kızların bahaneleri)
 https://www.uludagsozluk.com/k/vergi-dairesine-arap%C3%A7a-tabela-koymak/ (bkz türkiyede türklerden çok yabancıların üretmesi durumu)
 https://www.uludagsozluk.com/k/eski-sevgilinin-eski-aptal-sevgilisi/ (bkz eski sevgilinin alnına rujla şapşik yazan kız)
