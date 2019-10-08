@@ -2,6 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/ali%C5%9Fan/&w=bg (bkz otobüste sikiyle oynayan adam)
+https://www.uludagsozluk.com/k/nak%C5%9Fibendi-tarikat%C4%B1n%C4%B1n-halidi-kolundan%C4%B1m/&w=bg (bkz teengriln odasına kamera koyan sapık adam)
 https://www.uludagsozluk.com/k/otob%C3%BCste-bana-bak%C4%B1p-penisiyle-oynayan-adam/ (bkz yine otobüse soktun kardeş)
 https://www.uludagsozluk.com/k/biseks%C3%BCel/&w=bg (bkz otobüste sikiyle oynayan adam)
 https://www.uludagsozluk.com/k/fatih-bulut/&w=bg (bkz otobüste sikiyle oynayan adam)
