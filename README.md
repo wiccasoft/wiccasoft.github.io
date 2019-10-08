@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/hilal-kaplan/&w=bg (bkz türk ordusunun yanında olan türbanlı)
+https://www.uludagsozluk.com/k/hilal-kaplan/&w=bg (bkz türk ordusunun yanında olan götü kuru türbanlı)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz patlak kızları suya soktuğunda çıkan ses)
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
 https://www.uludagsozluk.com/k/donald-trump-%C4%B1n-kar%C4%B1s%C4%B1na-k%C4%B1z%C4%B1na-bakarak-31-%C3%A7ekmek/ (bkz who cares)
