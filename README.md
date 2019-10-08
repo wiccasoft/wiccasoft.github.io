@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/ali%C5%9Fan/&w=bg (bkz otobüste sikiyle oynayan adam)
 https://www.uludagsozluk.com/k/otob%C3%BCste-bana-bak%C4%B1p-penisiyle-oynayan-adam/ (bkz yine otobüse soktun kardeş)
 https://www.uludagsozluk.com/k/biseks%C3%BCel/&w=bg (bkz otobüste sikiyle oynayan adam)
 https://www.uludagsozluk.com/k/fatih-bulut/&w=bg (bkz otobüste sikiyle oynayan adam)
