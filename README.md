@@ -1,6 +1,5 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-
 <!--
 https://www.uludagsozluk.com/k/trump-a-bu-%C3%B6zg%C3%BCven-nereden-geliyor/ (bkz bahaneler loading)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-neden-uzun-boya-tak%C4%B1k/ (bkz z kuşağının yediklerine katılan gdo lu ürünler)
