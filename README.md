@@ -2,7 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/joker/&w=bg (bkz ruju taşıran kemalist kızlar)
-https://www.uludagsozluk.com/k/bruce-dickinson-vs-fetullah-g%C3%BClen/&w=bg (bkz havada deniz karada hoplatarak sikmek)
+https://www.uludagsozluk.com/k/bruce-dickinson-vs-fetullah-g%C3%BClen/&w=bg (bkz havada denizde karada hoplatarak sikmek)
 https://www.uludagsozluk.com/k/amerikan-askeri-vs-t%C3%BCrk-askeri/ (bkz havada denizde karada hoplatarak sikmek)
 https://www.uludagsozluk.com/k/cemal-enginyurt/&w=bg (bkz yurt sevdalısı yiğido)
 https://www.uludagsozluk.com/k/hey-para%C5%9F%C3%BCt%C3%A7%C3%BC-komando-vur-vur-da%C4%9Fc%C4%B1-komando/&w=bg (bkz vur joker vur)
