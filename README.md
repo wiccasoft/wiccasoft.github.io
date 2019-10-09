@@ -2,6 +2,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/ (bkz imamoğlan da tayt giysin kmapnyası)
 https://www.uludagsozluk.com/k/taytl%C4%B1-erke%C4%9Fin-tayt%C4%B1n%C4%B1-indirip-ka%C3%A7mak/ (bkz tayt giyen erkekleri trollüyoruz kampanyası)
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd (bkz tayt giyen erkek görmek sitemiyoruz kampanyası)
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
