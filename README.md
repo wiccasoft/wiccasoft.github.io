@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/babet-%C3%A7orap-giyen-erkek/ (bkz erkeklerin bab
 https://www.uludagsozluk.com/k/heja-t%C3%BCrk-%C3%BCn-t%C3%BCrk-askerlerine-k%C3%B6pekler-demesi/ (bkz bende kırgınım ayol hayin şey nolacak )
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz tüvüt beğenmeyin ayol tuhaf oluyoruz)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/ (bkz sezgin tanrıkuluna bende kırgınım o konuda)
+https://www.uludagsozluk.com/k/devler-gelir-gider-tek-dev-kal%C4%B1r-sedat-peker/ (bkz maço erkek seksiliği)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz babet çorap giyen erkek)
 https://eksisozluk.com/9-ekim-2019-trump-turkiye-tweeti--6206454?a=popular
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd
