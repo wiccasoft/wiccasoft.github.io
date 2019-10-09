@@ -1,7 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/afili-a%C5%9Fk-izleyen-delikanl%C4%B1-erkek/ (bkz dadundan yinmez lo yola baha yiğen)
+https://www.uludagsozluk.com/k/afili-a%C5%9Fk-izleyen-delikanl%C4%B1-erkek/ (bkz dadundan yinmez lo yolla baha yeğen)
 https://eksisozluk.com/heath-ledger-vs-joaquin-phoenix--6203617?a=popular (bkz daduğ damağda galiy)
 https://eksisozluk.com/libidoyu-dusuren-detaylar--5707060?a=popular (bkz daduğ damağda galmayan yahuşuhlular)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular (bkz daduğ damağda galiy)
