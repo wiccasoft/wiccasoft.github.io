@@ -7,32 +7,13 @@ https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-ka
 https://www.uludagsozluk.com/k/arar%C4%B1m-158-i-haa/ (bkz barzaniye savurduğum tehdit)
 https://eksisozluk.com/9-ekim-2019-sivan-perwerin-aglamasi--6206622?a=popular (bkz ağlayacasan oynamayalım lo)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/ (bkz imamoğlan da tayt giysin kmapnyası)
-https://www.uludagsozluk.com/k/taytl%C4%B1-erke%C4%9Fin-tayt%C4%B1n%C4%B1-indirip-ka%C3%A7mak/ (bkz tayt giyen erkekleri trollüyoruz kampanyası)
-https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd (bkz tayt giyen erkek görmek sitemiyoruz kampanyası)
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-r%C3%B6nesansa-ihtiya%C3%A7-duymas%C4%B1/ (bkz dur yolcu geçtiğin yol yo l değil şeklinde heykel)
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg (bkz sapık ismet)
 https://www.uludagsozluk.com/k/mustafa-kemal-in-do%C4%9Fum-yeri-ve-y%C4%B1l%C4%B1n%C4%B1-bilememek/&w=gd (bkz rimelleri akan surat)
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-pilavc%C4%B1ya-gidilen-erke%C4%9Fe-o%C3%A7-demek/&w=gd (bkz sizin tayfa biç biç bizim tayfa riç riç)
-https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg (bkz aşk erkekleri)
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic-m%C3%BCtevazili%C4%9Fi/ (bkz babet çorabı giyi mütevazı olabilen erkekler)
-https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz ay kızlar erkek milleti işte)
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/ (bkz kızlar bu deli oğlan bizi de beğenmez şimdi ayol taytını indirek kaçak mı)
-https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz ay sapıkçıktı kızlar bu ayol)
 https://www.uludagsozluk.com/k/heja-t%C3%BCrk-%C3%BCn-t%C3%BCrk-askerlerine-k%C3%B6pekler-demesi/ (bkx ay hoşt ulan küpek)
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd (bkz ay kızlar demet akalanın iletilerini de layklamış ayol tam kamil bu şapşik yaaa)
-https://www.uludagsozluk.com/k/taytl%C4%B1-erke%C4%9Fin-tayt%C4%B1n%C4%B1-indirip-ka%C3%A7mak/ (bkz ay kızlar sola yatırmış gene inidirip azımıza mı alsak mı)
-https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=bg (bkz erkekler tayt giymesin kampanyası)
-https://www.uludagsozluk.com/k/babet-%C3%A7orap-giyen-erkek/ (bkz erkeklerin babet çorap da giymesin)
-https://www.uludagsozluk.com/k/devler-gelir-gider-tek-dev-kal%C4%B1r-sedat-peker/ (bkz maço erkek seksiliği)
-https://www.uludagsozluk.com/k/heja-t%C3%BCrk-%C3%BCn-t%C3%BCrk-askerlerine-k%C3%B6pekler-demesi/ (bkz bende kırgınım ayol hayin şey nolacak )
-https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg (bkz tüvüt beğenmeyin ayol tuhaf oluyoruz)
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/ (bkz ona bende kırgınım o konuda)
-https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz babet çorap giyen erkek)
-https://eksisozluk.com/9-ekim-2019-trump-turkiye-tweeti--6206454?a=popular
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd
-https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-iyi-geceler-herkese-hainler-hari%C3%A7-tweeti/
-https://www.uludagsozluk.com/k/u%C3%A7a%C4%9F%C4%B1-olmayan-bir-yurt-dam%C4%B1-olmayan-bir-eve-benzer/
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz badlak kızın suda çıkardığı ses)
 https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular (bkz yarramda kekremsi dad olduğu yıl)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak yeşim teyzecim
