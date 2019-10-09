@@ -6,7 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz kim yaptı lan o capsi)
+https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
 https://www.uludagsozluk.com/k/ypg-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-de%C4%9Fil-diyenler-%C5%9Fu-an-ne-d%C3%BC%C5%9F%C3%BCn%C3%BCyor/&w=gd (bkz bunlar babadan oğula nesil bunlar)
 https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-iyi-geceler-herkese-hainler-hari%C3%A7-tweeti/&w=gd (bkz bunlar babadan oğula babadan oğula nesil bunlar)
 https://www.uludagsozluk.com/k/2-ayr%C4%B1-silahla-5-kez-vurulan-papa%C4%9Fan/ (bkz bunlar babadan oğla nesil bunlar)
