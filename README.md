@@ -2,6 +2,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/taytl%C4%B1-erke%C4%9Fin-tayt%C4%B1n%C4%B1-indirip-ka%C3%A7mak/ (bkz ay kızlar daşşağı sallanır aşağa yapak mı kızlar)
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=bg (bkz erkekler tayt giymesin kampanyası)
 https://www.uludagsozluk.com/k/babet-%C3%A7orap-giyen-erkek/ (bkz erkeklerin babet çorap da giymesin)
 https://www.uludagsozluk.com/k/devler-gelir-gider-tek-dev-kal%C4%B1r-sedat-peker/ (bkz maço erkek seksiliği)
