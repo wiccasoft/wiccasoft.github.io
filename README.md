@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular dadu damağda galiy
 https://eksisozluk.com/1990-dogumlular--4847166?a=popular bkz dadundan yinmeyen 90 lı futbolcular
 https://eksisozluk.com/haluk-levent--37467?a=popular bkz prim dağlarında primler açar
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular bkz badlak kızın suda çıhardığı sses
