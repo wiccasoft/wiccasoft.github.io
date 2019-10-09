@@ -2,7 +2,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular daduğ damağda galiy
-https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular bkz badlak kızın suda çıhardığı ses
+https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular bkz badlak kızın suda çıkardığı ses
 https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular bkz yarramda kekremsi dad olduğu yıl
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak yeşim teyzecim
 https://www.uludagsozluk.com/k/kasl%C4%B1-sevgiliyi-g%C3%B6bekli-biriyle-aldatmak/&w=bg la oglim vapurda osbir çek daha iyi 
@@ -10,8 +10,9 @@ https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popul
 https://eksisozluk.com/ilk-bulusmada-yenilmeyecek-seyler--6205622?a=popular (bkz dadı dimağda galah şeyhler)
 https://www.uludagsozluk.com/k/bak-155i-ararun-i%C3%A7eri-aldururun/&w=bg (bağ dadın dimağda galır)
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1ndaki-k%C4%B1za-i%C5%9Fkence-yapan-baba/ (bkz dadi dimağ galiy loğğ)
-[![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 -->
+[![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
+
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
 <!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
