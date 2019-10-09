@@ -8,19 +8,12 @@ https://www.uludagsozluk.com/k/arar%C4%B1m-158-i-haa/ (bkz barzaniye savurduğum
 https://eksisozluk.com/9-ekim-2019-sivan-perwerin-aglamasi--6206622?a=popular (bkz ağlayacasan oynamayalım lo)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/ (bkz imamoğlan da tayt giysin kmapnyası)
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-r%C3%B6nesansa-ihtiya%C3%A7-duymas%C4%B1/ (bkz dur yolcu geçtiğin yol yo l değil şeklinde heykel)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-r%C3%B6nesansa-ihtiya%C3%A7-duymas%C4%B1/ (bkz dur yolcu geçtiğin yol yol değil şeklinde heykel)
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg (bkz sapık ismet)
 https://www.uludagsozluk.com/k/mustafa-kemal-in-do%C4%9Fum-yeri-ve-y%C4%B1l%C4%B1n%C4%B1-bilememek/&w=gd (bkz rimelleri akan surat)
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-pilavc%C4%B1ya-gidilen-erke%C4%9Fe-o%C3%A7-demek/&w=gd (bkz sizin tayfa biç biç bizim tayfa riç riç)
-https://www.uludagsozluk.com/k/zlatan-ibrahimovic-m%C3%BCtevazili%C4%9Fi/ (bkz babet çorabı giyi mütevazı olabilen erkekler)
-https://www.uludagsozluk.com/k/heja-t%C3%BCrk-%C3%BCn-t%C3%BCrk-askerlerine-k%C3%B6pekler-demesi/ (bkx ay hoşt ulan küpek)
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz badlak kızın suda çıkardığı ses)
-https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular (bkz yarramda kekremsi dad olduğu yıl)
-https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak yeşim teyzecim
-https://www.uludagsozluk.com/k/kasl%C4%B1-sevgiliyi-g%C3%B6bekli-biriyle-aldatmak/&w=bg la oglim vapurda osbir çek daha iyi 
-https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular la oglim ne gafası yaşıyoğ bunlar
-https://eksisozluk.com/ilk-bulusmada-yenilmeyecek-seyler--6205622?a=popular (bkz dadı dimağda galah şeyhler)
-https://www.uludagsozluk.com/k/bak-155i-ararun-i%C3%A7eri-aldururun/&w=bg (bağ dadın dimağda galır)
+
 -->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
