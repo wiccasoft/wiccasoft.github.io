@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/heath-ledger-vs-joaquin-phoenix--6203617?a=popular (bkz daduğ damağda galiy)
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular daduğ damağda galiy
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular bkz badlak kızın suda çıkardığı ses
 https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular bkz yarramda kekremsi dad olduğu yıl
