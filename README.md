@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd
 https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-iyi-geceler-herkese-hainler-hari%C3%A7-tweeti/
 https://www.uludagsozluk.com/k/u%C3%A7a%C4%9F%C4%B1-olmayan-bir-yurt-dam%C4%B1-olmayan-bir-eve-benzer/
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz badlak kızın suda çıkardığı ses)
