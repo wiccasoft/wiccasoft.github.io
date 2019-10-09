@@ -2,7 +2,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-kurmay-subay-m%C4%B1-orospu-%C3%A7ocu%C4%9Fu/ (bkz bunlar babadan oğla nesil olm bunlar babadan oğla neyse sakinim şimdi vatan sağolsun)
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-kurmay-subay-m%C4%B1-orospu-%C3%A7ocu%C4%9Fu/ (bkz bunlar babadan oğla nesil olm)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/&w=gd (bkz bunlar babadan oğla nesil heralde)
 https://www.uludagsozluk.com/k/arar%C4%B1m-158-i-haa/ (bkz barzaniye savurduğum tehdit)
 https://eksisozluk.com/9-ekim-2019-sivan-perwerin-aglamasi--6206622?a=popular (bkz ağlayacasan oynamayalım lo)
