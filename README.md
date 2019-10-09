@@ -3,6 +3,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
+,https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-r%C3%B6nesansa-ihtiya%C3%A7-duymas%C4%B1/ (bkz rönesans şeklinde gülen surat))
 https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg (bkz sapık ismet)
 https://www.uludagsozluk.com/k/mustafa-kemal-in-do%C4%9Fum-yeri-ve-y%C4%B1l%C4%B1n%C4%B1-bilememek/&w=gd (bkz rimelleri akan surat)
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-pilavc%C4%B1ya-gidilen-erke%C4%9Fe-o%C3%A7-demek/&w=gd (bkz sizin tayfa biç biç bizim tayfa riç riç)
