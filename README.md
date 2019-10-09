@@ -8,7 +8,6 @@ https://www.uludagsozluk.com/k/kasl%C4%B1-sevgiliyi-g%C3%B6bekli-biriyle-aldatma
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular la oglim ne gafası yaşıyoğ bunlar
 https://eksisozluk.com/ilk-bulusmada-yenilmeyecek-seyler--6205622?a=popular (bkz dadı dimağda galah şeyhler)
 https://www.uludagsozluk.com/k/bak-155i-ararun-i%C3%A7eri-aldururun/&w=bg (bağ dadın dimağda galır)
-https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1ndaki-k%C4%B1za-i%C5%9Fkence-yapan-baba/ (bkz dadi dimağ galiy loğğ)
 -->
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
