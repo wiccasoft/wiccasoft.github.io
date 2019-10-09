@@ -1,6 +1,9 @@
 [![Image](almanac/cockatoo.png)]( https://www.theguardian.com/environment/2019/oct/09/sulphur-crested-cockatoo-survives-after-being-shot-five-times-by-two-guns)
+
 [![Image](smartdata/lithium-ion.png)]( https://www.theguardian.com/science/live/2019/oct/09/nobel-prize-in-chemistry-to-be-awarded-live )
+
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
+
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/2-ayr%C4%B1-silahla-5-kez-vurulan-papa%C4%9Fan/ (bkz bunlar babadan oğla nesil bunlar)
