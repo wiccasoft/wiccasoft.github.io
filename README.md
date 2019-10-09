@@ -2,6 +2,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz ay kızlar erkek milleti işte)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/ (bkz kızlar bu deli oğlan bizi de beğenmez şimdi ayol taytını indirek kaçak mı)
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz ay sapık ismet çıktı kızlar bu ayol)
 https://www.uludagsozluk.com/k/heja-t%C3%BCrk-%C3%BCn-t%C3%BCrk-askerlerine-k%C3%B6pekler-demesi/ (bkx ay hoşt ulan küpek)
