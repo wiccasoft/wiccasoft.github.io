@@ -4,7 +4,7 @@
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular daduğ damağda galiy
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular bkz badlak kızın suda çıhardığı sses
 https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular bkz yarramda kekremsi dad olduğu yıl
-https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak ayla teyzecim
+https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular bkz negzel yumuşak yumaşak yeşim teyzecim
 https://www.uludagsozluk.com/k/kasl%C4%B1-sevgiliyi-g%C3%B6bekli-biriyle-aldatmak/&w=bg la oglim vapurda osbir çek daha iyi 
 https://eksisozluk.com/yakisikli-erkek-gorunce-verilen-tepkiler--4168568?a=popular la oglim ne gafası yaşıyoğ bunlar
 (bkz şeftalü gübün emücüğü var löğ)
