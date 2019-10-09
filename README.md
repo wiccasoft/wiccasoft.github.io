@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz ay kızlar erkek milleti işte)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/ (bkz kızlar bu deli oğlan bizi de beğenmez şimdi ayol taytını indirek kaçak mı)
-https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz ay sapık ismet çıktı kızlar bu ayol)
+https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz ay sapıkçıktı kızlar bu ayol)
 https://www.uludagsozluk.com/k/heja-t%C3%BCrk-%C3%BCn-t%C3%BCrk-askerlerine-k%C3%B6pekler-demesi/ (bkx ay hoşt ulan küpek)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd (bkz ay kızlar demet akalanın iletilerini de layklamış ayol tam kamil bu şapşik yaaa)
 https://www.uludagsozluk.com/k/taytl%C4%B1-erke%C4%9Fin-tayt%C4%B1n%C4%B1-indirip-ka%C3%A7mak/ (bkz ay kızlar sola yatırmış gene inidirip azımıza mı alsak mı)
