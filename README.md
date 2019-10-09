@@ -3,6 +3,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
+https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg (bkz sapık ismet)
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg (bkz aşk erkekleri)
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic-m%C3%BCtevazili%C4%9Fi/ (bkz babet çorabı giyi mütevazı olabilen erkekler)
 https://www.uludagsozluk.com/k/erkeklerin-bakire-kad%C4%B1n-aramalar%C4%B1ndaki-as%C4%B1l-sebep/&w=bg (bkz ay kızlar erkek milleti işte)
