@@ -2,6 +2,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/9-ekim-2019-sivan-perwerin-aglamasi--6206622?a=popular (bkz ağlayacasan oynamayalım lo)
 (bkz sıcak atmosferde geçen görüşmeler https://www.youtube.com/watch?v=-AdnJiuDGVU)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/ (bkz imamoğlan da tayt giysin kmapnyası)
 https://www.uludagsozluk.com/k/taytl%C4%B1-erke%C4%9Fin-tayt%C4%B1n%C4%B1-indirip-ka%C3%A7mak/ (bkz tayt giyen erkekleri trollüyoruz kampanyası)
