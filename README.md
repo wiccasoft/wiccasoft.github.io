@@ -5,7 +5,6 @@ https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=bg
 https://www.uludagsozluk.com/k/babet-%C3%A7orap-giyen-erkek/
 https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/ (bkz babet çorap giyen erkek)
-https://www.uludagsozluk.com/k/evli-bir-erke%C4%9Fin-evli-bir-erkekle-ili%C5%9Fkiye-girmesi/&w=bg
 https://eksisozluk.com/9-ekim-2019-trump-turkiye-tweeti--6206454?a=popular
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd
 https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-iyi-geceler-herkese-hainler-hari%C3%A7-tweeti/
