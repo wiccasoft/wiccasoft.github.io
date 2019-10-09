@@ -1,6 +1,10 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=bg
+https://www.uludagsozluk.com/k/babet-%C3%A7orap-giyen-erkek/
+https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg
+https://www.uludagsozluk.com/k/evli-bir-erke%C4%9Fin-evli-bir-erkekle-ili%C5%9Fkiye-girmesi/&w=bg
 https://eksisozluk.com/9-ekim-2019-trump-turkiye-tweeti--6206454?a=popular
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-be%C4%9Fendi%C4%9Fi-tweet/&w=gd
 https://www.uludagsozluk.com/k/ali%C5%9Fan-%C4%B1n-iyi-geceler-herkese-hainler-hari%C3%A7-tweeti/
