@@ -1,6 +1,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular bkz badlak kızın suda çıhardığı sses
 https://eksisozluk.com/tadi-damakta-kalan-futbolcular--6205207?a=popular&p=34 bkz dadundan yinmez lo
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg bkz badlak gızın suda çıhardığı ses
 https://eksisozluk.com/yazarlarin-kisisel-cokusunun-basladigi-yil--5714208?a=popular bkz yarramda kekremsi dad olduğu yıl
