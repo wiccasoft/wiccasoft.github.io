@@ -7,6 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
+https://folkan-iyesta-cicisler.uludagsozluk.com/ (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/emrah/&w=bg (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/pelikan-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ (bkz aklın sıra dünyayı ele geçirceksin)
 https://www.youtube.com/watch?v=RstDRoVf_1k (bkz long live rock & roll)
