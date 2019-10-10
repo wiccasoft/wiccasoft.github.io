@@ -1,6 +1,6 @@
 [![Image](almanac/cockatoo.png)]( https://www.youtube.com/watch?v=W7I92r9GqUw )
 
-[![Image](smartdata/lithium-ion.png] (https://www.youtube.com/watch?v=yz3v7-KW6bo )
+[![Image](smartdata/lithium-ion.png] ( https://www.youtube.com/watch?v=RstDRoVf_1k )
 
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
