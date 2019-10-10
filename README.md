@@ -7,7 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
-https://www.uludagsozluk.com/e/42264318/ (bkz bunu beğendim delikanlı)
+https://galeri14.uludagsozluk.com/898/donald-trump_1231735.jpg (bkz bunu beğendim delikanlı)
 https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
 https://www.uludagsozluk.com/k/k%C3%BCrtler-normandiye-%C3%A7%C4%B1karmas%C4%B1nda-bize-yard%C4%B1m-etmedi/
 https://www.uludagsozluk.com/k/amerikadaki-yav%C5%9Fak/2/ (bkz bunlar babadan oğula nesil bunlar)
