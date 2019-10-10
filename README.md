@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/pelikan-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ (bkz ak
 https://www.youtube.com/watch?v=RstDRoVf_1k (bkz long live rock & roll)
 https://www.uludagsozluk.com/k/erkeklerin-hi%C3%A7biri-du%C5%9F-al%C4%B1rken-lif-kullanm%C4%B1yor/&w=gd (blz bilgi güçtür)
 https://www.uludagsozluk.com/k/rafet-el-roman-%C4%B1n-tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-kad%C4%B1n%C4%B1-%C3%A7irkin-bulmas%C4%B1/ (bkz bunlar babadan oğla nesil bunlar)
+https://www.uludagsozluk.com/k/kendini-videoya-alan-avukat-kad%C4%B1n/ (bkz duruşma öncesi yaşanan erkil tatsızlıklar)
 https://www.uludagsozluk.com/k/rte-yi-k%C3%B6pek-olarak-%C3%A7izen-karikat%C3%BCrist/ (bkz yav hev hev)
 https://www.uludagsozluk.com/k/ordusu-sava%C5%9F%C4%B1rken-partisini-d%C3%BC%C5%9F%C3%BCnen-ba%C5%9Fkomutan/ (bkz rise of akp)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C3%BClkeden-defol/ (bkz son bi sigara içelim)
