@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/10-ekim-2019-ezhel-in-yapt%C4%B1%C4%9F%C4%B1-payl
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C3%BClkeden-defol/ (bkz son bi sigara içelim)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C4%B1n-p%C4%B1narba%C5%9F%C4%B1-harekat%C4%B1-tweeti/ (bkz neyse işte barışın pınarı)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-avrupa-ya-m%C3%BCltecileri-salar%C4%B1m-ha-demesi/&w=gd (bkz vallaha salaram ha)
-,https://www.uludagsozluk.com/k/dexterin-bacisi-debra/ (bkz arama motoru)
+https://www.uludagsozluk.com/k/dexterin-bacisi-debra/ (bkz arama motoru)
 https://eksisozluk.com/10-ekim-2019-norm-enderin-ezhele-taktigi-kapak--6208071?a=popular (bkz enes baturun ikisini üstüste koyup sikmesi)
 https://eksisozluk.com/rtenin-herkesi-akpye-katilmaya-davet-etmesi--6208097?a=popular (bkz bir taşla üç kuş vurmak)
 https://www.uludagsozluk.com/k/k%C4%B1rk-kilobaytl%C4%B1k-s%C3%BCper-maryo-oynamak/
