@@ -8,6 +8,7 @@
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.youtube.com/watch?v=hFvQqTBFe48
+https://www.uludagsozluk.com/k/103-takip%C3%A7im-var-ve-73-tanesi-silik-%C3%A7aylak/ (bkz rusyanın türkiyeyi yalnızlaştırması)
 https://www.uludagsozluk.com/k/turkey-is-not-alone/ (bkz dik dur eğilme  panjabi mc sizinle)
 https://www.uludagsozluk.com/k/ekonomik-krize-girince-sava%C5%9F-ba%C5%9Flatmak/ (bkz dik dur eğilme usa sizinle)
 https://eksisozluk.com/yunan-vekilin-turkiyeye-savas-acariz-tehdidi--6208515?a=popular (bkz götün yiyosa gelsene güngörene)
