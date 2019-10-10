@@ -8,6 +8,7 @@
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
+https://www.uludagsozluk.com/k/k%C3%BCrtler-normandiye-%C3%A7%C4%B1karmas%C4%B1nda-bize-yard%C4%B1m-etmedi/
 https://www.uludagsozluk.com/k/amerikadaki-yav%C5%9Fak/2/ (bkz bunlar babadan oğula nesil bunlar)
 https://www.uludagsozluk.com/k/hz-mehdi-nin-zuhur-etmesi/ (bkz bunlar babadan oğula nesil bunlar)
 https://www.uludagsozluk.com/k/k%C3%BCrtler-bize-ikinci-d%C3%BCnya-sava%C5%9F%C4%B1-nda-destek-olmad%C4%B1/
