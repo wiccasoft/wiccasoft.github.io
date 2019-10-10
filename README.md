@@ -1,4 +1,4 @@
-[![Image](almanac/cockatoo.png)]( https://www.theguardian.com/environment/2019/oct/09/sulphur-crested-cockatoo-survives-after-being-shot-five-times-by-two-guns)
+[![Image](almanac/cockatoo.png)]( https://www.youtube.com/watch?v=W7I92r9GqUw )
 
 [![Image](smartdata/lithium-ion.png)]( https://www.theguardian.com/science/live/2019/oct/09/nobel-prize-in-chemistry-to-be-awarded-live )
 
@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
 https://www.uludagsozluk.com/k/amerikadaki-yav%C5%9Fak/2/ (bkz bunlar babadan oğula nesil bunlar)
 https://www.uludagsozluk.com/k/hz-mehdi-nin-zuhur-etmesi/ (bkz bunlar babadan oğula nesil bunlar)
