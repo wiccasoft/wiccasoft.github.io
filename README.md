@@ -11,13 +11,11 @@ https://www.uludagsozluk.com/k/emrah/&w=bg (bkz bunlar babadan oğla nesil bunla
 https://www.uludagsozluk.com/k/pelikan-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ (bkz yav he he)
 https://www.youtube.com/watch?v=RstDRoVf_1k (bkz long live rock & roll)
 https://www.uludagsozluk.com/k/erkeklerin-hi%C3%A7biri-du%C5%9F-al%C4%B1rken-lif-kullanm%C4%B1yor/&w=gd (blz bilgi güçtür)
-https://www.uludagsozluk.com/k/rafet-el-roman-%C4%B1n-tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-kad%C4%B1n%C4%B1-%C3%A7irkin-bulmas%C4%B1/ (bkz bunlar babadan oğla nesil bunlar
+https://www.uludagsozluk.com/k/rafet-el-roman-%C4%B1n-tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-kad%C4%B1n%C4%B1-%C3%A7irkin-bulmas%C4%B1/ (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/rte-yi-k%C3%B6pek-olarak-%C3%A7izen-karikat%C3%BCrist/ (bkz yav hev hev)
 https://www.uludagsozluk.com/k/ordusu-sava%C5%9F%C4%B1rken-partisini-d%C3%BC%C5%9F%C3%BCnen-ba%C5%9Fkomutan/ (bkz rise of akp)
 https://www.uludagsozluk.com/k/erkeklere-r%C3%B6fle-yapt%C4%B1r%C4%B1yoruz-kampanyas%C4%B1/&w=bg 
-(bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/10-ekim-2019-ezhel-in-yapt%C4%B1%C4%9F%C4%B1-payla%C5%9F%C4%B1m/ 
-(bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C3%BClkeden-defol/ (bkz son bi sigara içelim)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C4%B1n-p%C4%B1narba%C5%9F%C4%B1-harekat%C4%B1-tweeti/ (bkz neyse işte barışın pınarı)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-avrupa-ya-m%C3%BCltecileri-salar%C4%B1m-ha-demesi/&w=gd (bkz vallaha salaram ha)
