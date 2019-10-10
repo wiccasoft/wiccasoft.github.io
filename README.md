@@ -9,7 +9,7 @@
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.uludagsozluk.com/k/10-ekim-2019-ezhel-in-yapt%C4%B1%C4%9F%C4%B1-payla%C5%9F%C4%B1m/ 
 (bkz bunlar babadan oğla nesil bunlar)
-https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C3%BClkeden-defol/ (bkz yav he he)
+https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C3%BClkeden-defol/ (bkz son bi sigara içem öle gidem)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C4%B1n-p%C4%B1narba%C5%9F%C4%B1-harekat%C4%B1-tweeti/ (bkz neyse işte barışın pınarı)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-avrupa-ya-m%C3%BCltecileri-salar%C4%B1m-ha-demesi/&w=gd (bkz vallaha salaram ha)
 https://eksisozluk.com/10-ekim-2019-norm-enderin-ezhele-taktigi-kapak--6208071?a=popular (bkz enes baturun ikisini üstüste koyup sikmesi)
