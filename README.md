@@ -9,6 +9,7 @@
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.uludagsozluk.com/k/emrah/&w=bg (bkz bunlar babadan oğla nesil bunlar)
 https://www.youtube.com/watch?v=RstDRoVf_1k (bkz long live rock & roll)
+https://www.uludagsozluk.com/k/erkeklerin-hi%C3%A7biri-du%C5%9F-al%C4%B1rken-lif-kullanm%C4%B1yor/&w=gd (blz bilgi güçtür)
 https://www.uludagsozluk.com/k/rafet-el-roman-%C4%B1n-tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-kad%C4%B1n%C4%B1-%C3%A7irkin-bulmas%C4%B1/ (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/erkeklere-r%C3%B6fle-yapt%C4%B1r%C4%B1yoruz-kampanyas%C4%B1/&w=bg 
 (bkz bunlar babadan oğla nesil bunlar)
