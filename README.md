@@ -8,6 +8,7 @@
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.youtube.com/watch?v=hFvQqTBFe48
+https://eksisozluk.com/yunan-vekilin-turkiyeye-savas-acariz-tehdidi--6208515?a=popular (bkz götün yiyosa gelsene güngörene)
 https://folkan-iyesta-cicisler.uludagsozluk.com/ (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/pelikan-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ (bkz aklın sıra dünyayı ele geçireceksin)
 https://www.uludagsozluk.com/k/kendini-videoya-alan-avukat-kad%C4%B1n/ (bkz duruşma öncesi yaşanan erksel tatsızlıklar)
