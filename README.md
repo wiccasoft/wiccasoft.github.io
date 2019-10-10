@@ -9,6 +9,7 @@
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://galeri14.uludagsozluk.com/898/donald-trump_1231735.jpg (bkz bunu beğendim delikanlı)
 https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
+https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-birden-bire-k%C3%BCrt-hayran%C4%B1-olmas%C4%B1/
 https://www.uludagsozluk.com/k/k%C3%BCrtler-normandiye-%C3%A7%C4%B1karmas%C4%B1nda-bize-yard%C4%B1m-etmedi/
 https://www.uludagsozluk.com/k/amerikadaki-yav%C5%9Fak/2/ (bkz bunlar babadan oğula nesil bunlar)
 https://www.uludagsozluk.com/k/hz-mehdi-nin-zuhur-etmesi/ (bkz bunlar babadan oğula nesil bunlar)
