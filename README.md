@@ -9,6 +9,7 @@
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.youtube.com/watch?v=hFvQqTBFe48
 https://www.uludagsozluk.com/k/103-takip%C3%A7im-var-ve-73-tanesi-silik-%C3%A7aylak/ (bkz rusyanın türkiyeyi yalnızlaştırması)
+https://www.uludagsozluk.com/k/eller-yukar%C4%B1-seni-pis-serseri/
 https://www.uludagsozluk.com/k/davul-zurna-e%C5%9Fli%C4%9Finde-halay-%C3%A7eken-romal%C4%B1lar/ (bkz kürt lütfen)
 https://www.uludagsozluk.com/k/turkey-is-not-alone/ (bkz dik dur eğilme  panjabi mc sizinle)
 https://www.uludagsozluk.com/k/ekonomik-krize-girince-sava%C5%9F-ba%C5%9Flatmak/ (bkz dik dur eğilme usa sizinle)
