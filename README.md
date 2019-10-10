@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.uludagsozluk.com/k/10-ekim-2019-ezhel-in-yapt%C4%B1%C4%9F%C4%B1-payla%C5%9F%C4%B1m/ 
 (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C4%B1n-p%C4%B1narba%C5%9F%C4%B1-harekat%C4%B1-tweeti/ (bkz neyse işte barışın pınarı)
+https://eksisozluk.com/rtenin-herkesi-akpye-katilmaya-davet-etmesi--6208097?a=popular (bkz bir taşla üç kuş vurmak)
 https://www.uludagsozluk.com/k/k%C4%B1rk-kilobaytl%C4%B1k-s%C3%BCper-maryo-oynamak/
 https://galeri14.uludagsozluk.com/898/donald-trump_1231735.jpg (bkz bunu beğendim delikanlı)
 https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
