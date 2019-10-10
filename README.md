@@ -1,6 +1,6 @@
 [![Image](almanac/cockatoo.png)]( https://www.youtube.com/watch?v=W7I92r9GqUw )
 
-[![Image](smartdata/lithium-ion.png)]( https://www.theguardian.com/science/live/2019/oct/09/nobel-prize-in-chemistry-to-be-awarded-live )
+[![Image](smartdata/lithium-ion.png] (https://www.youtube.com/watch?v=yz3v7-KW6bo )
 
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
