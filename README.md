@@ -9,6 +9,7 @@
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.uludagsozluk.com/k/10-ekim-2019-ezhel-in-yapt%C4%B1%C4%9F%C4%B1-payla%C5%9F%C4%B1m/ 
 (bkz bunlar babadan oğla nesil bunlar)
+https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C4%B1n-p%C4%B1narba%C5%9F%C4%B1-harekat%C4%B1-tweeti/ (bkz neyse işte pınar barışı)
 https://galeri14.uludagsozluk.com/898/donald-trump_1231735.jpg (bkz bunu beğendim delikanlı)
 https://www.uludagsozluk.com/e/42264318/ (bkz kim yaptı lan o capsi)
 https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-birden-bire-k%C3%BCrt-hayran%C4%B1-olmas%C4%B1/
