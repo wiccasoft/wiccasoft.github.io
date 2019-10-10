@@ -9,6 +9,7 @@
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.youtube.com/watch?v=hFvQqTBFe48
 https://www.uludagsozluk.com/k/turkey-is-not-alone/ (bkz dik dur eğilme  panjabi mc sizinle)
+https://www.uludagsozluk.com/k/ekonomik-krize-girince-sava%C5%9F-ba%C5%9Flatmak/ (bkz dik dur eğilme usa sizinle)
 https://eksisozluk.com/yunan-vekilin-turkiyeye-savas-acariz-tehdidi--6208515?a=popular (bkz götün yiyosa gelsene güngörene)
 https://folkan-iyesta-cicisler.uludagsozluk.com/ (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/pelikan-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ (bkz aklın sıra dünyayı ele geçireceksin)
