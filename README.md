@@ -7,6 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
+https://www.youtube.com/watch?v=hFvQqTBFe48
 https://folkan-iyesta-cicisler.uludagsozluk.com/ (bkz bunlar babadan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/pelikan-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ (bkz aklın sıra dünyayı ele geçireceksin)
 https://www.uludagsozluk.com/k/kendini-videoya-alan-avukat-kad%C4%B1n/ (bkz duruşma öncesi yaşanan erksel tatsızlıklar)
@@ -41,14 +42,6 @@ https://www.uludagsozluk.com/k/kendi-%C3%A7ocuklar%C4%B1na-askerlik-yapt%C4%B1rm
 https://www.uludagsozluk.com/k/akpyi-ele%C5%9Ftirip-harekati-desteklemek/ (bkz bunlar babdan oğla nesil bunlar)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-kurmay-subay-m%C4%B1-orospu-%C3%A7ocu%C4%9Fu/ (bkz bunlar babadan oğla nesil olm bunlar babadan oğla)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/&w=gd (bkz bunlar babadan oğla nesil heralde)
-https://www.uludagsozluk.com/k/arar%C4%B1m-158-i-haa/ (bkz barzaniye savurduğum tehdit)
-https://eksisozluk.com/9-ekim-2019-sivan-perwerin-aglamasi--6206622?a=popular (bkz ağlayacasan oynamayalım lo)
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/ (bkz imamoğlan da tayt giysin kmapnyası)
-https://www.uludagsozluk.com/k/sap%C4%B1k-sezgin/ (bkz sapık ismet)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-r%C3%B6nesansa-ihtiya%C3%A7-duymas%C4%B1/ (bkz dur yolcu geçtiğin yol yol değil şeklinde heykel)
-https://www.uludagsozluk.com/k/erke%C4%9Fin-orospusu/&w=bg (bkz sapık ismet)
-https://www.uludagsozluk.com/k/mustafa-kemal-in-do%C4%9Fum-yeri-ve-y%C4%B1l%C4%B1n%C4%B1-bilememek/&w=gd (bkz rimelleri akan surat)
-https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-pilavc%C4%B1ya-gidilen-erke%C4%9Fe-o%C3%A7-demek/&w=gd (bkz sizin tayfa biç biç bizim tayfa riç riç)
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz badlak kızın suda çıkardığı ses)
 
 -->
@@ -58,7 +51,7 @@ https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz badlak k
 <!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
 <!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi -->
-[![Image](smartdata/model.png)]( https://www.youtube.com/watch?v=2wM8ab1asLs )
+[![Image](smartdata/model.png)]( https://www.youtube.com/watch?v=hFvQqTBFe48)
 
 [![Image](smartdata/release.png)]( https://twitter.com/CapaMagMagazine/status/1178203827784290304 )
 
