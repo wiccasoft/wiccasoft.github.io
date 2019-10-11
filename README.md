@@ -8,6 +8,7 @@
 <!---
 https://www.uludagsozluk.com/k/%C3%A7orumlu-amir/&w=bg (bkz yav he he)
 https://www.uludagsozluk.com/k/filistin-in-kahpeli%C4%9Fi/ (bkz noldi renciniz soldi)
+https://www.uludagsozluk.com/k/necati-seni-sikecegim-birader/&w=bg (bkz noldi rencin soldi necati)
 https://www.uludagsozluk.com/k/2019-d%C3%BCnyan%C4%B1n-en-g%C3%BC%C3%A7l%C3%BC-devletleri/ (bkz büyük kürdistan özerk bölgesi)
 https://traveler-of-secret-moments.uludagsozluk.com/ (bkz yazık la kimin çocuysa)
 https://www.uludagsozluk.com/k/insano%C4%9Flu-uzayda-asla-koloni-kuramayacak/ (bkz yav he he)
