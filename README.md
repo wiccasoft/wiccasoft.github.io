@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz vurdu demir ağlarla ördü yurdu)
 https://eksisozluk.com/yakisikli-bir-erkegin-yalniz-olmasinin-nedenleri--3274591?a=popular (bkz cenk tosun yalnızlığı)
 https://www.uludagsozluk.com/k/milli-istihbarat-te%C5%9Fkilat%C4%B1/&w=bg (bkz o paraya mexicoya duvar örülmez lan)
