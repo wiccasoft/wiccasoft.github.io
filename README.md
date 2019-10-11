@@ -6,7 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg (bkz kendi sahasında 6 1 yenilip hala fenerli olabilmek)
+https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg (bkz 6 1 yenildiği takıma götelek diyen fenerli)
 https://www.uludagsozluk.com/k/ta%C3%A7-ayakla-kullan%C4%B1ls%C4%B1n/ (bkz adam haklı beyler)
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg (bkz kendi sahasında 6 1 yenilen takımı savunan gevşek)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz yiğidolar pınar gibi akiy lo)
