@@ -7,7 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/masonlar%C4%B1n-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1na-destek-vermesi/ (bkz alevtopunu babam mı yolladı)
-https://www.uludagsozluk.com/k/gidiyor-aslanlar-deyip-baltay%C4%B1-ta%C5%9Fa-vuran-day%C4%B1/ (bkz şimdi baldayı sert gayaha vurdun dayı)
+https://www.uludagsozluk.com/k/gidiyor-aslanlar-deyip-baltay%C4%B1-ta%C5%9Fa-vuran-day%C4%B1/ (bkz şimci baldayı sert gayaha vurdun dayı emme baldayın szabını çıharmışdım)
 https://www.uludagsozluk.com/k/g%C3%B6zlerini-k%C4%B1sarak-bakan-erkek/&w=bg (bkz barzani)
 https://www.uludagsozluk.com/k/k%C3%BCrt-%C5%9Fahinleri-tugay%C4%B1/&w=bg (bkz serê serê darê yê duduyan)
 https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/ (bkz gmail reklamı)
