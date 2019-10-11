@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%
 https://www.uludagsozluk.com/k/kad%C4%B1nda-tek-k%C4%B1stas%C4%B1-g%C3%BCzellik-olan-adam/ (bkz cmylmz)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz kaz gelecek yerden tavuk esirgemem demeye getirmek)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz%C4%B1n-reklamlar%C4%B1n%C4%B1n-art%C4%B1k-komik-olmamas%C4%B1/ (bkz enayi silkeleyen)
-https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz yüzyılın enayisi)
+https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz enayi parası)
 https://www.uludagsozluk.com/k/esad-%C4%B1n-sinsi-gibi-%C3%BClke-temizlensin-diye-beklemesi/ (bkz esed antivirus)
 https://www.uludagsozluk.com/k/israyille-filistinin-ayn%C4%B1-g%C3%B6r%C3%BC%C5%9Fte-olmas%C4%B1/ (bkz he he)
 https://www.uludagsozluk.com/k/suudi-arabistan-n%C4%B1n-kahpeli%C4%9Fi/&w=gd (bkz yav he he)
