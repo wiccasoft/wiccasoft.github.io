@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-asker-%C3%BCniformal%C4%B1-payla%C5%9F%C4%B1m%C4%B1/ (bkz vatan sevdalısı yiğidolar)
 https://www.uludagsozluk.com/k/k%C4%B1rm%C4%B1z%C4%B1-ruj-s%C3%BCren-g%C3%BCzel-kad%C4%B1n%C4%B1n-amac%C4%B1/ (bkz traveler of gifin çıldırttığı suserlar)
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg (bkz melekler seni bana yazmış reis)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-n%C4%B1-karalayan-arap-kanal%C4%B1/ (bkz yav he he)
