@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/k/15-ya%C5%9F%C4%B1nda-%C3%B6nemli-olan-i%C3%A7-g%C
 https://www.uludagsozluk.com/k/g%C3%BCzellikten-%C3%B6te-%C5%9Firinli%C4%9Fi-olan-k%C4%B1z/ (bkz högze bugün çok hegelsin)
 https://www.uludagsozluk.com/k/k%C4%B1rm%C4%B1z%C4%B1-ruj-s%C3%BCren-g%C3%BCzel-kad%C4%B1n%C4%B1n-amac%C4%B1/ (bkz traveler ofun kudurttuğu yazarlar)
 https://www.uludagsozluk.com/k/kuzu-kokorecin-sar%C4%B1m-videosu/ (bkz traveler of un atacağı gif)
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/ (bkz kürt ermenisi olduğu halde hale savunulan zat)
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/ (bkz kürt ermenisi olduğu halde hala savunulan zat)
 https://www.uludagsozluk.com/k/fblilerin-ma%C3%A7-%C3%B6n%C3%BC-toplanacak-mekanlar%C4%B1n%C4%B1n-olmamas%C4%B1/ (bkz fenerli ezikliği)
 https://www.uludagsozluk.com/k/ta%C3%A7-ayakla-kullan%C4%B1ls%C4%B1n/ (bkz la oglim yoh gıçla gullanılsan)
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-stad%C4%B1nda-milli-ma%C3%A7-oynatan-zihniyet/ (bkz la oglim kadıköyde yediğiniz küsküler yetmedimi)
