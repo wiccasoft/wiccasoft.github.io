@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi yüzsü
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-sava%C5%9F-halindeyken-bar%C4%B1%C5%9Fc%C4%B1l%C4%B1k-oynamak/ (bkz kürtlerin büyük kürdistan projesi)
 https://www.sondakika.com/haber/haber-danimarka-da-gundem-baska-basbakan-gulme-12516765/ (bkz demokratların göt olması)
 https://www.uludagsozluk.com/k/ismail-hakk%C4%B1-tongu%C3%A7/&w=bg (bkz meclis te kürtleri öven mahlukat)
-https://eksisozluk.com/ahmet-kayanin-pkkli-oldugunu-kabullenememek--6198266 (bkz kafana sıkarım şarkısında tsk ya gönderme yapması)
+https://eksisozluk.com/ahmet-kayanin-pkkli-oldugunu-kabullenememek--6198266 (bkz kafana sıkarım tsk şarkısı)
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-uluda%C4%9F-s%C3%B6zl%C3%BCk-e-mesaj%C4%B1/ (bkz her bje piroz be)
 https://www.uludagsozluk.com/k/t%C3%BCrk-bayra%C4%9F%C4%B1n%C4%B1-d%C3%BCzelten-kahraman-kedi/ (bkz 10 kasımda ayakta duran kedi)
 https://www.reddit.com/r/technology/comments/dg13f4/facebook_trump_can_lie_all_he_wants_the_trump/ (bkz elizabethçileri kudurtan gelişme)
