@@ -8,6 +8,7 @@
 <!---
 https://www.uludagsozluk.com/k/%C3%A7orumlu-amir/&w=bg (bkz yav he he)
 https://traveler-of-secret-moments.uludagsozluk.com/ (bkz yazık la kimin çocuysa)
+https://www.uludagsozluk.com/k/insano%C4%9Flu-uzayda-asla-koloni-kuramayacak/ (bkz yav he he)
 https://www.uludagsozluk.com/k/ronaldo-mu-messi-mi/&w=bg (bkz ronaldonun kürt olduğu gerçeği)
 https://www.uludagsozluk.com/k/ali-ece/&w=bg (bkz kürt futbolcuları öven mahlukat)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi )
