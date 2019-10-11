@@ -7,7 +7,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/esad-%C4%B1n-sinsi-gibi-%C3%BClke-temizlensin-diye-beklemesi/ (bkz esed antivirus)
-https://www.uludagsozluk.com/k/abd-askerlerinin-kuzey-suriye-den-%C3%A7%C4%B1kmamas%C4%B1/ (bkz bi gece ansızın hakkari hatay antalya)
 https://www.uludagsozluk.com/k/israyille-filistinin-ayn%C4%B1-g%C3%B6r%C3%BC%C5%9Fte-olmas%C4%B1/ (bkz he he)
 https://www.uludagsozluk.com/k/suudi-arabistan-n%C4%B1n-kahpeli%C4%9Fi/&w=gd (bkz yav he he)
 https://www.uludagsozluk.com/k/tepkilerden-y%C4%B1l%C4%B1p-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz sen de bunu yedin)
