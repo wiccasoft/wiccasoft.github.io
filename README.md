@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg (bkz horokoto sossoz kolmok)
 https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz horokoto sossoz kolmok)
 https://www.uludagsozluk.com/k/g%C3%BCzellik-s%C4%B1rlar%C4%B1n%C4%B1-kimseyle-payla%C5%9Fmayan-erkek/ (bkz horokoto sossoz kolmok)
 https://www.uludagsozluk.com/k/t%C3%BCrk%C3%BCn-t%C3%BCrkten-ba%C5%9Fka-dostu-yoktur/&w=bg (bkz horokoto sossoz kolmok)
