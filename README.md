@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/ismail-hakk%C4%B1-tongu%C3%A7/&w=bg (bkz meclis te kürtleri öven mahlukat)
 https://www.uludagsozluk.com/k/dilek-%C3%B6calan-%C4%B1n-g%C3%BCzelli%C4%9Fi/ (bkz meclis açılış konuşmaları)
 https://eksisozluk.com/ahmet-kayanin-pkkli-oldugunu-kabullenememek--6198266 (bkz kafana sıkarım şarkısında tsk ya gönderme yapması)
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-uluda%C4%9F-s%C3%B6zl%C3%BCk-e-mesaj%C4%B1/ (bkz her bje piroz be)
