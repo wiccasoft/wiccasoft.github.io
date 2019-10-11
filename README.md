@@ -28,7 +28,6 @@ https://www.uludagsozluk.com/k/kendini-videoya-alan-avukat-kad%C4%B1n/ (bkz duru
 https://www.youtube.com/watch?v=RstDRoVf_1k (bkz long live rock & roll)
 https://www.uludagsozluk.com/k/erkeklerin-hi%C3%A7biri-du%C5%9F-al%C4%B1rken-lif-kullanm%C4%B1yor/&w=gd (blz bilgi güçtür)
 https://www.uludagsozluk.com/k/rafet-el-roman-%C4%B1n-tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-kad%C4%B1n%C4%B1-%C3%A7irkin-bulmas%C4%B1/ (bkz bunlar babadan oğla nesil bunlar)
-
 https://www.uludagsozluk.com/k/rte-yi-k%C3%B6pek-olarak-%C3%A7izen-karikat%C3%BCrist/ (bkz yav hev hev)
 https://www.uludagsozluk.com/k/ordusu-sava%C5%9F%C4%B1rken-partisini-d%C3%BC%C5%9F%C3%BCnen-ba%C5%9Fkomutan/ (bkz rise of akp)
 https://www.uludagsozluk.com/k/ye%C5%9Fim-salk%C4%B1m-%C3%BClkeden-defol/ (bkz son bi sigara içelim)
@@ -57,8 +56,8 @@ https://www.uludagsozluk.com/k/akpyi-ele%C5%9Ftirip-harekati-desteklemek/ (bkz b
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-kurmay-subay-m%C4%B1-orospu-%C3%A7ocu%C4%9Fu/ (bkz bunlar babadan oğla nesil olm bunlar babadan oğla)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-harekat-hakk%C4%B1nda-sessiz-kalmas%C4%B1/&w=gd (bkz bunlar babadan oğla nesil heralde)
 https://eksisozluk.com/kizina-iskence-eden-baba--6205540?a=popular (bkz badlak kızın suda çıkardığı ses)
-
 -->
+
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
