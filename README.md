@@ -6,8 +6,8 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/ahmet-kayanin-pkkli-oldugunu-kabullenememek--6198266 (bkz kafama sıkarım şarkısından anlamıştım)
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-uluda%C4%9F-s%C3%B6zl%C3%BCk-e-mesaj%C4%B1/ (bkz her bje piroz be)
-
 https://www.uludagsozluk.com/k/t%C3%BCrk-bayra%C4%9F%C4%B1n%C4%B1-d%C3%BCzelten-kahraman-kedi/ (bkz 10 kasımda ayakta duran kedi)
 https://www.reddit.com/r/technology/comments/dg13f4/facebook_trump_can_lie_all_he_wants_the_trump/ (bkz elizabethçileri kudurtan gelişme)
 https://www.reddit.com/r/todayilearned/comments/dg9j66/til_when_the_territory_of_wyoming_applied_to_join/ 
