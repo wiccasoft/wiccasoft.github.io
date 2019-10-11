@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-ortado%C4%9Fu-yu-%C5%9Fekillendiren-%C3%BClke/4/ (bkz mısır)
 https://www.uludagsozluk.com/k/burca-inanan-erkek/ (bkz burcucum çok güzel çıkmışsın)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-2020-b%C3%BCt%C3%A7esi/ (bkz bi saray rte ye bir top kek sana)
-https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-ortado%C4%9Fu-yu-%C5%9Fekillendiren-%C3%BClke/3/ (bkz srilanka)
+https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-ortado%C4%9Fu-yu-%C5%9Fekillendiren-%C3%BClke/3/ (bkz costa rica)
 https://www.uludagsozluk.com/k/milli-istihbarat-te%C5%9Fkilat%C4%B1/&w=bg (bkz o paraya mexicoya duvar örülmez lan)
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaza-gelen-top/ (bkz murat övünç https://www.youtube.com/watch?v=QovNESxPbYc)
 https://eksisozluk.com/mao-zedong-yoldasim--2006619 https://www.youtube.com/watch?v=TtJjSVIw-Uo
