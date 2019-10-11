@@ -1,4 +1,4 @@
-[![Image](smartdata/preiod.png)]( https://www.youtube.com/watch?v=TtJjSVIw-Uo )
+[![Image](smartdata/period.png)]( https://www.youtube.com/watch?v=TtJjSVIw-Uo )
 
 [![Image](almanac/cockatoo.png)]( https://www.youtube.com/watch?v=W7I92r9GqUw )
 
