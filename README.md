@@ -6,8 +6,8 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/el-ele-kumsalda-y%C3%BCr%C3%BCy%C3%BCp-konu%C5%9Fmak/ (bkz tarkan)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz boş yapmak)
-https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz seyirciye oynamak)
 https://www.uludagsozluk.com/k/kad%C4%B1nda-tek-k%C4%B1stas%C4%B1-g%C3%BCzellik-olan-adam/ (bkz cmylmz)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz kaz gelecek yerden tavuk esirgemem demeye getirmek)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz%C4%B1n-reklamlar%C4%B1n%C4%B1n-art%C4%B1k-komik-olmamas%C4%B1/ (bkz enayi silkeleyen)
