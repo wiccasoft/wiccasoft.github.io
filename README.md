@@ -6,7 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/burak-y%C4%B1lmaza-gelen-top/ (bkz mikasa marka top https://www.youtube.com/watch?v=QovNESxPbYc)
+https://www.uludagsozluk.com/k/burak-y%C4%B1lmaza-gelen-top/ (bkz murat övünç https://www.youtube.com/watch?v=QovNESxPbYc)
 https://eksisozluk.com/mao-zedong-yoldasim--2006619 https://www.youtube.com/watch?v=TtJjSVIw-Uo
 https://www.uludagsozluk.com/e/42273470/ (bkz şakire sakso yok)
 https://www.uludagsozluk.com/k/solcular%C4%B1n-%C4%B1l%C4%B1k-ve-korkak-olmas%C4%B1/ (bkz öcü gibi korkuyorlar mao zedong yoldaşımdan)
