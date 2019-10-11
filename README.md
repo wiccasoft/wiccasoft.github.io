@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.reddit.com/r/todayilearned/comments/dg9j66/til_when_the_territory_of_wyoming_applied_to_join/ 
 https://www.uludagsozluk.com/k/ispanya-n%C4%B1n-t%C3%BCrkiye-ye-destek-tweetini-silmesi/ (bkz kuzenim silmiş pampa)
 https://www.uludagsozluk.com/k/eller-yukar%C4%B1-seni-pis-serseri/ (bkz lanet olsası federaller)
 https://www.uludagsozluk.com/k/davul-zurna-e%C5%9Fli%C4%9Finde-halay-%C3%A7eken-romal%C4%B1lar/ (bkz kürt lütfen)
