@@ -9,7 +9,7 @@
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/ (bkz akpkk lı yiğido)
 https://www.uludagsozluk.com/k/38-lik-adamdan-medet-uman-milli-takim/ (bkz 40 yaşından sonra bebelerle muhattap olmak)
 https://www.uludagsozluk.com/k/manu%C5%9F-baba-n%C4%B1n-askerlik-foto%C4%9Fraf%C4%B1/ (bkz samimi olmak)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-dostu-olan-%C3%BClkeler/&w=bg (bkz düşmanımın dostu neydi lan o söz)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-dostu-olan-%C3%BClkeler/&w=bg (bkz dostumun dostu neydi lan o söz)
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-askerlik-fotosu/ (bkz cmylmz gösterisi gibi ülke amk)
 https://www.uludagsozluk.com/k/hadise-yi-be%C4%9Fenmeyen-erkek/&w=bg (bkz sagopa kajmer)
 https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz keyf)
