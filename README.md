@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-stad%C4%B1nda-milli-ma%C3%A7-oynatan-zihniyet/ (bkz la oglim kadıköyde yediğiniz küsküler yetmedi)
 https://www.uludagsozluk.com/k/ta%C3%A7-ayakla-kullan%C4%B1ls%C4%B1n/ (bkz ali koçun kıçıyla güldüğü öneri)
 https://www.uludagsozluk.com/k/eurovision-a-ali-ko%C3%A7-ile-kat%C4%B1lmak/ (bkz fatih terimin gıçıyla gülmesi)
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg (bkz 6 1 yenildiği takıma götelek diyen fenerli)
