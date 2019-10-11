@@ -8,7 +8,7 @@
 <!---
 https://www.youtube.com/watch?v=W7I92r9GqUw
 https://www.youtube.com/watch?v=hFvQqTBFe48
-https://www.uludagsozluk.com/k/sevgilisine-e%C5%9Fiymi%C5%9F-g%C3%B6z%C3%BCyle-bakan-erkek/&w=bg (bkz ilk buluşmada anahtarlığı masanın üstüne koyan erkek))
+https://www.uludagsozluk.com/k/sevgilisine-e%C5%9Fiymi%C5%9F-g%C3%B6z%C3%BCyle-bakan-erkek/&w=bg (bkz ilk buluşmada anahtarlığı masanın üstüne koyan erkek)
 https://www.uludagsozluk.com/k/ispanya-n%C4%B1n-t%C3%BCrkiye-ye-destek-tweetini-silmesi/ (bkz kuzenim silmiş pampa)
 https://www.uludagsozluk.com/k/103-takip%C3%A7im-var-ve-73-tanesi-silik-%C3%A7aylak/ (bkz rusyanın türkiyeyi yalnızlaştırması)
 https://www.uludagsozluk.com/k/eller-yukar%C4%B1-seni-pis-serseri/
