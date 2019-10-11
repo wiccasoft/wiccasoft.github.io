@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/sava%C5%9Fa-kar%C5%9F%C4%B1y%C4%B1z-deyip-bebek-katillerini-%C3%B6vmek/ (bkz la oglim reklam yapiyler)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz la oglim kendini reklamın yapiy)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BClerden-operasyona-yo%C4%9Fun-destek-gelmesi/ (bkz la oglim bırah lo kendi rehlamın yapiyler)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz la oglim harekede sessiz galin daha ne suç örtin)
