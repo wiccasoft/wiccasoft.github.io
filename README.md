@@ -10,7 +10,7 @@
 <!---
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://www.uludagsozluk.com/k/kosta-rika-n%C4%B1n-as%C4%B1l-amac%C4%B1/ hangi oç açtı bu başlığı
-https://www.uludagsozluk.com/k/arap-bahar%C4%B1-ayn%C4%B1-zamanda-t%C3%BCrk-bahar%C4%B1-d%C4%B1r/ (bkz alev topunu babam yolladı)
+https://www.uludagsozluk.com/k/arap-bahar%C4%B1-ayn%C4%B1-zamanda-t%C3%BCrk-bahar%C4%B1-d%C4%B1r/ (bkz alev topunu babam mı yolladı)
 https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-ortado%C4%9Fu-yu-%C5%9Fekillendiren-%C3%BClke/4/ (bkz mısır)
 https://www.uludagsozluk.com/k/burca-inanan-erkek/ (bkz burcucum çok güzel çıkmışsın)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-2020-b%C3%BCt%C3%A7esi/ (bkz bi saray rte ye bir top kek sana)
