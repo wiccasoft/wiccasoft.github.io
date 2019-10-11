@@ -8,6 +8,7 @@
 <!---
 https://www.uludagsozluk.com/k/%C3%A7orumlu-amir/&w=bg (bkz yav he he)
 https://www.uludagsozluk.com/k/ben-fero/&w=bg (bkz yav he he)
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg (bkz yiğitler antrenman yapacakki vatan yaşasın)
 https://www.uludagsozluk.com/k/kahramanlar-can-verir-yurdu-ya%C5%9Fatmak-i%C3%A7in/&w=bg (bkz yiğitler ölcekki bimden gdo lu pasta alalım)
 https://www.uludagsozluk.com/k/abd%C3%BClhamit-bilgen/ (bkz yav he he vadan dobrağı yav)
 https://www.uludagsozluk.com/k/filistin-in-kahpeli%C4%9Fi/ (bkz noldi renciniz soldi)
