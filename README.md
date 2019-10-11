@@ -7,7 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-sava%C5%9F-halindeyken-bar%C4%B1%C5%9Fc%C4%B1l%C4%B1k-oynamak/ (bkz kürtlerin büyük kürdistan projesi)
-https://www.sondakika.com/haber/haber-danimarka-da-gundem-baska-basbakan-gulme-12516765/ (bkz selocanın türklere hapisten attığı video)
+https://www.sondakika.com/haber/haber-danimarka-da-gundem-baska-basbakan-gulme-12516765/ (bkz selocanın uluculara gülmesi)
 https://www.uludagsozluk.com/k/ismail-hakk%C4%B1-tongu%C3%A7/&w=bg (bkz meclis te kürtleri öven mahlukat)
 https://www.uludagsozluk.com/k/dilek-%C3%B6calan-%C4%B1n-g%C3%BCzelli%C4%9Fi/ (bkz meclis açılış konuşmaları)
 https://eksisozluk.com/ahmet-kayanin-pkkli-oldugunu-kabullenememek--6198266 (bkz kafana sıkarım şarkısında tsk ya gönderme yapması)
