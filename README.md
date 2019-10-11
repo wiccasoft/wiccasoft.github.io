@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/e/42273470/ (bkz şakire sakso yok)
 https://www.uludagsozluk.com/k/cenk-tosun/&w=bg (bkz cenk tosun un suratındaki bunu okuyana kosun ifadesi)
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/ (bkz akpkk lı yiğido)
 https://www.uludagsozluk.com/k/evine-dans-dire%C4%9Fi-yapt%C4%B1ran-evli-laik-kad%C4%B1n/&w=gd (bkz sakat heralde)
