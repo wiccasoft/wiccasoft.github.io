@@ -23,7 +23,6 @@ https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi olduğu
 https://www.uludagsozluk.com/k/davul-zurna-e%C5%9Fli%C4%9Finde-halay-%C3%A7eken-romal%C4%B1lar/ (bkz kürt lütfen)
 https://www.uludagsozluk.com/k/t%C3%BCrk-k%C3%BCrt-karde%C5%9Ftir/&w=gd (bkz türklerin eğitilemez olduğu gerçeği)
 https://www.uludagsozluk.com/k/2019-d%C3%BCnyan%C4%B1n-en-g%C3%BC%C3%A7l%C3%BC-devletleri/ (bkz büyük kürdistan)
-https://traveler-of-secret-moments.uludagsozluk.com/ (bkz yazık la kimin çocuysa)
 https://www.uludagsozluk.com/k/insano%C4%9Flu-uzayda-asla-koloni-kuramayacak/ (bkz yav he he)
 https://www.uludagsozluk.com/k/ronaldo-mu-messi-mi/&w=bg (bkz ronaldonun ispanya kürdü olduğu gerçeği)
 https://www.reddit.com/r/todayilearned/comments/dg9j66/til_when_the_territory_of_wyoming_applied_to_join/ 
