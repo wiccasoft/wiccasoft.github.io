@@ -9,6 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
+https://www.uludagsozluk.com/k/burca-inanan-erkek/ (bkz burcucum çok güzel çıkmışsın)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-2020-b%C3%BCt%C3%A7esi/ (bkz bi saray rte ye bir top kek sana)
 https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-ortado%C4%9Fu-yu-%C5%9Fekillendiren-%C3%BClke/3/ (bkz srilanka)
 https://www.uludagsozluk.com/k/milli-istihbarat-te%C5%9Fkilat%C4%B1/&w=bg (bkz o paraya mexicoya duvar örülmez lan)
