@@ -9,7 +9,7 @@
 https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg (bkz barzani)
 https://www.uludagsozluk.com/k/yazarlar-teknik-direkt%C3%B6r-olsa-uygulayaca%C4%9F%C4%B1-sistem/&w=bg (bkz 3-4-3)
 https://www.uludagsozluk.com/k/derste-%C3%B6%C4%9Frencisini-kefenleyen-din-%C3%B6%C4%9Fretmeni/ (bkz he şinci badeci gibi dursada bedece deeel gebe duriy yane yeğen belemedim )
-https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz şenci sen deyiysin apo şu ne ediy o da süprüz ossun yeğen)
+https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz şenci sen deyiysin apo şu ne ediy o da süprüz ossun yeğen ne ediy allah bilir llahnı diyecesin ne işi var aponun yanında heeeeee)
 https://www.uludagsozluk.com/k/m%C3%BCridlerini-sikerek-ilim-aktaran-tarikat-%C5%9Feyhi/&w=bg (bkz ee şinci insana siken deveye dikene yeğen)
 https://www.uludagsozluk.com/k/biz-pkk-y%C4%B1-al%C4%B1r-dae%C5%9F-le-%C3%BCst-%C3%BCste-koyar/ (bkz bi yande daeş bi yande ypg bi yande pekiki dopuhuz gelih)
 https://www.uludagsozluk.com/k/masonlar%C4%B1n-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1na-destek-vermesi/ (bkz alevtopunu babam mı yolladı)
