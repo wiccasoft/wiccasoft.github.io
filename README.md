@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg (bkz barzani)
 https://www.uludagsozluk.com/k/yazarlar-teknik-direkt%C3%B6r-olsa-uygulayaca%C4%9F%C4%B1-sistem/&w=bg (bkz 3-4-3)
 https://www.uludagsozluk.com/k/derste-%C3%B6%C4%9Frencisini-kefenleyen-din-%C3%B6%C4%9Fretmeni/ (bkz he şinci badeci gibi dursada bedece deeel gebe duriy)
 https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz şenci sen deyiysin apo şu ne ediy o da süprüz ossun yeğen)
