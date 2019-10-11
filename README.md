@@ -7,7 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/e/42273470/ (bkz şakire sakso yok)
-https://www.uludagsozluk.com/k/top-sakall%C4%B1-%C5%9Fiveli-pkkl%C4%B1-%C3%BCniversite-%C3%B6%C4%9Frencisi/ (bkz olm acatip komik lan)
+https://www.uludagsozluk.com/k/top-sakall%C4%B1-%C5%9Fiveli-pkkl%C4%B1-%C3%BCniversite-%C3%B6%C4%9Frencisi/ (bkz olm acayip komik lan)
 https://www.uludagsozluk.com/k/kalbimde-k%C4%B1r%C4%B1lmad%C4%B1k-yer-mi-b%C4%B1rakt%C4%B1n/&w=bg (bkz olm bi yer buldum çok komik herifler var lan)
 https://www.uludagsozluk.com/k/cenk-tosun/&w=bg (bkz cenk tosun un suratındaki bunu okuyana kosun ifadesi)
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/ (bkz akpkk lı yiğido)
