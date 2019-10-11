@@ -8,7 +8,7 @@
 <!---
 https://www.uludagsozluk.com/k/2023-de-t%C3%BCm-d%C3%BCnyaya-h%C3%BCkmedece%C4%9Fimiz-ger%C3%A7e%C4%9Fi/ (bkz zuahahaha)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/&w=gd (bkz ylmzerdgn ın kıçyla güldüğü enayilik)
-https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz seni düşünüyor)
+https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz sana kıçıyla gülüyor)
 https://www.uludagsozluk.com/k/el-ele-kumsalda-y%C3%BCr%C3%BCy%C3%BCp-konu%C5%9Fmak/ (bkz tarkan)
 https://www.uludagsozluk.com/k/%C3%A7ek-git-buradan-pislik-herif-yoksa-d%C3%B6verim/ (bkz yav he he)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz boş yapmak)
