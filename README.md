@@ -6,7 +6,6 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/ali-ece/&w=bg (bkz kürtlerin iyice zıvanadan çıkması)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi yüzsüzlüğü)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-sava%C5%9F-halindeyken-bar%C4%B1%C5%9Fc%C4%B1l%C4%B1k-oynamak/ (bkz kürtlerin büyük kürdistan projesi)
 https://www.sondakika.com/haber/haber-danimarka-da-gundem-baska-basbakan-gulme-12516765/ (bkz demokratların göt olması)
