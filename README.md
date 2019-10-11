@@ -8,8 +8,8 @@
 <!---
 https://www.uludagsozluk.com/k/tepkilerden-y%C4%B1l%C4%B1p-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-mehmet%C3%A7ik-vakf%C4%B1na-ba%C4%9F%C4%B1%C5%9F-yapmas%C4%B1/ (bkz sen de bunu yedin)
-https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz reklam yapiy)
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-mehmet%C3%A7ik-vakf%C4%B1na-ba%C4%9F%C4%B1%C5%9F-yapmas%C4%B1/ (bkz la oglim reklam yapiy kaz gelcek yerden tavuk esirgemem diyiy)
+https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz reklam yapiy olm)
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-mehmet%C3%A7ik-vakf%C4%B1na-ba%C4%9F%C4%B1%C5%9F-yapmas%C4%B1/ (bkz kaz gelcek yerden tavuk esirgemem  diyiy horonzbu çocu)
 https://www.uludagsozluk.com/k/harekata-sessiz-kal%C4%B1p-tsk-ya-ba%C4%9F%C4%B1%C5%9F-yapmak/ (bkz la oglim reklamını yapiy)
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg (bkz vadan hayını gudurdan hemşom)
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-asker-%C3%BCniformal%C4%B1-payla%C5%9F%C4%B1m%C4%B1/ (bkz vatan sevdalısı yiğidolar)
