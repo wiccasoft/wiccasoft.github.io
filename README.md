@@ -6,6 +6,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/materyalist-kafirlerin-kendine-%C5%9Fehit-demesi/ (bkz bir gün diriniz birgün hepnizi)
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg (bkz kendi sahasında 6 1 yenilen takım)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz yiğidolar pınar gibi akiy lo)
 https://www.uludagsozluk.com/k/%C3%A7orumlu-amir/&w=bg (bkz yav he he)
