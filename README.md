@@ -12,8 +12,6 @@ https://www.uludagsozluk.com/k/burak-y%C4%B1lmaza-gelen-top/ (bkz murat övünç
 https://eksisozluk.com/mao-zedong-yoldasim--2006619 https://www.youtube.com/watch?v=TtJjSVIw-Uo
 https://www.uludagsozluk.com/e/42273470/ (bkz şakire sakso yok)
 https://www.uludagsozluk.com/k/solcular%C4%B1n-%C4%B1l%C4%B1k-ve-korkak-olmas%C4%B1/ (bkz öcü gibi korkuyorlar mao zedong yoldaşımdan)
-https://www.uludagsozluk.com/k/kalbimde-k%C4%B1r%C4%B1lmad%C4%B1k-yer-mi-b%C4%B1rakt%C4%B1n/&w=bg (bkz olm bi yer buldum çok komik herifler var lan)
-https://www.uludagsozluk.com/k/cenk-tosun/&w=bg (bkz cenk tosun un suratındaki bunu okuyana kosun ifadesi)
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/ (bkz akpkk lı yiğido)
 https://www.uludagsozluk.com/k/evine-dans-dire%C4%9Fi-yapt%C4%B1ran-evli-laik-kad%C4%B1n/&w=gd (bkz sakat heralde)
 https://www.uludagsozluk.com/k/gitse-s%C3%B6zl%C3%BCk-duracak-yazarlar/ (bkz hesap satmak isteyen varsa alırım acayip eğlenceli bi yere benziyo olm )
