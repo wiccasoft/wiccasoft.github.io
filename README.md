@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/%C3%A7orumlu-amir/&w=bg (bkz yav he he)
 https://traveler-of-secret-moments.uludagsozluk.com/ (bkz yazık la kimin çocuysa)
 https://www.uludagsozluk.com/k/ronaldo-mu-messi-mi/&w=bg (bkz ronaldonun kürt olduğu gerçeği)
 https://www.uludagsozluk.com/k/ali-ece/&w=bg (bkz kürt futbolcuları öven mahlukat)
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi yüzsüzlüğü)
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi )
 https://www.reddit.com/r/todayilearned/comments/dg9j66/til_when_the_territory_of_wyoming_applied_to_join/ 
 https://www.uludagsozluk.com/k/ispanya-n%C4%B1n-t%C3%BCrkiye-ye-destek-tweetini-silmesi/ (bkz kuzenim silmiş pampa)
 https://www.uludagsozluk.com/k/eller-yukar%C4%B1-seni-pis-serseri/ (bkz lanet olsası federaller)
