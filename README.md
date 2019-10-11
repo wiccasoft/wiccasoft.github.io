@@ -8,6 +8,7 @@
 <!---
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/ (bkz akpkk lı yiğido)
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-askerlik-fotosu/ (bkz cmylmz gösterisi gibi ülke amk)
+https://www.uludagsozluk.com/k/apo-%C5%9Fu-an-ne-yap%C4%B1yor-sorunsal%C4%B1/ (bkz keyf)
 https://www.uludagsozluk.com/k/koci%C5%9Fin-hal%C4%B1-saha-ma%C3%A7%C4%B1na-gitmesine-izin-versem-mi/&w=gd (bkz bacım sal gitsin hava alsın adam accık yahu)
 https://www.uludagsozluk.com/k/bob-marley-%C5%9Fi%C5%9Firilmi%C5%9F-bir-balondur/ (bkz normender sen misin)
 https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg (bkz barzani)
