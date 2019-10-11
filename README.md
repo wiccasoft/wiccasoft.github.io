@@ -7,6 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/%C3%A7orumlu-amir/&w=bg (bkz yav he he)
+https://www.uludagsozluk.com/k/ypg-li-komutanlar%C4%B1n-%C3%A7ocuk-gibi-a%C4%9Flamas%C4%B1/ (bkz hayallerdev yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/filistin-in-kahpeli%C4%9Fi/ (bkz noldi renciniz soldi)
 https://www.uludagsozluk.com/k/necati-seni-sikecegim-birader/&w=bg (bkz noldi rencin soldi necati)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=gd (bkz kürt ermenisi olduğu için itin götüne sokulan adam)
