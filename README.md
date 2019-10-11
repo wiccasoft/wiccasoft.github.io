@@ -9,7 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
-https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek-ertu%C4%9Frul-k%C3%BCrk%C3%A7%C3%BC-b%C3%BClent-uluer-kavgas%C4%B1/&w=bg (bkz bir saraya bana bir topkek sana)
+https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek-ertu%C4%9Frul-k%C3%BCrk%C3%A7%C3%BC-b%C3%BClent-uluer-kavgas%C4%B1/&w=bg (bkz bir saray bana bir topkek sana)
 https://twitter.com/iIhanberk/status/1182747624845303808?s=19 (bkz neler dönmüş ilhancım ya iyi ki sen yapmadın)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/kosta-rika-n%C4%B1n-as%C4%B1l-amac%C4%B1/ hangi oç açtı bu başlığı
