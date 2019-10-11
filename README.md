@@ -11,8 +11,6 @@
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-2020-b%C3%BCt%C3%A7esi/ (bkz bi saray rte ye bir top kek sana)
 https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F-in-fenerbah%C3%A7e-kompleksi/&w=bg (bkz bir prim sana bir prim ali koça)
-https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz vurdu demir ağlarla ördü yurdu)
-https://eksisozluk.com/yakisikli-bir-erkegin-yalniz-olmasinin-nedenleri--3274591?a=popular (bkz cenk tosun yalnızlığı)
 https://www.uludagsozluk.com/k/milli-istihbarat-te%C5%9Fkilat%C4%B1/&w=bg (bkz o paraya mexicoya duvar örülmez lan)
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaza-gelen-top/ (bkz murat övünç https://www.youtube.com/watch?v=QovNESxPbYc)
 https://eksisozluk.com/mao-zedong-yoldasim--2006619 https://www.youtube.com/watch?v=TtJjSVIw-Uo
