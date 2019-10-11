@@ -7,6 +7,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/ (bkz akpkk lı yiğido)
+https://www.uludagsozluk.com/k/evine-dans-dire%C4%9Fi-yapt%C4%B1ran-evli-laik-kad%C4%B1n/&w=gd (bkz sakat heralde)
 https://www.uludagsozluk.com/k/gitse-s%C3%B6zl%C3%BCk-duracak-yazarlar/ (bkz hesap satmak isteyen varsa alırım acayip eğlenceli bi yere benziyo olm )
 https://www.uludagsozluk.com/k/elon-musk-%C4%B1n-favori-i%C5%9F-g%C3%B6r%C3%BC%C5%9Fmesi-sorusu/&w=gd (bkz ananın kaygan amındayım oç diyip iş kapılır)
 https://www.uludagsozluk.com/k/38-lik-adamdan-medet-uman-milli-takim/ (bkz 40 yaşından sonra bebelerle muhattap olmak)
