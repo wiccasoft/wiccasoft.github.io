@@ -8,7 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz hayallerde yaşıyor bazı ergen ibneler)
+https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/halktan-tepki-gelince-para-ba%C4%9F%C4%B1%C5%9Flamak/ (bkz cafede şal isteyen erkek)
 https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7/&w=bg (bkz cafede vatan marşı söyleyip şal isteyen erkek)
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-ki%C5%9Fiyle-konu%C5%9Furken-sa%C3%A7malamak/&w=bg (bkz yakışıklı erkek şal isteyince amı götü dağıtan sözlük kızları)
