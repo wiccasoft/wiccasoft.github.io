@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/modern-k%C3%B6lelik-sistemi/&w=bg (bkz cafede tayt isteyen şallı erkek)
 https://www.uludagsozluk.com/k/eminem/&w=bg (bkz cafede sagopada şal isteyen taylı erkek)
 https://www.uludagsozluk.com/k/asans%C3%B6rde-kad%C4%B1n-varsa-erkek-binerken-izin-almal%C4%B1/&w=bg (bkz bi bitmediniz amk)
 https://www.uludagsozluk.com/k/hayat-bilgisi-arif-in-vuruldu%C4%9Fu-b%C3%B6l%C3%BCm/&w=bg (bkz vurduruyordur)
