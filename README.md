@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/bu-bir-r%C4%B1za-lokmas%C4%B1d%C4%B1r-yiyemezsin-demedim-mi/&w=bg (bkz ya yarram demedimmi)
 https://www.uludagsozluk.com/k/bu-bir-r%C4%B1za-lokmas%C4%B1d%C4%B1r-yiyemezsin-demedim-mi/&w=bg (bkz abuzerkömürcünün babası )
 https://www.uludagsozluk.com/k/abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=bg (bkz babasından dayak yiyen satanist kız)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz aleynatilki)
