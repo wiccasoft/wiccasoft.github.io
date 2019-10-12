@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz as bayrakları as as as)
 https://eksisozluk.com/erkeklerin-zeki-kadin-sevmemesi--4119852?a=popular (bkz erkeklerin buket aydın kıskançlığı)
 https://www.uludagsozluk.com/k/g%C3%BCzellik-yarismasina-katilmak-isteyen-guzel-kiz/ (bkz buket aydın)
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n-%C4%B1n-s%C4%B1n%C4%B1rdaki-pozu/&w=gd (bkz haberim yokmuş gibi çek pampa)
