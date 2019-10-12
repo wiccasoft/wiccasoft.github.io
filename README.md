@@ -11,11 +11,9 @@
 https://eksisozluk.com/erkeklerin-zeki-kadin-sevmemesi--4119852?a=popular (bkz erkeklerin buket aydın kıskançlığı)
 https://www.uludagsozluk.com/k/g%C3%BCzellik-yarismasina-katilmak-isteyen-guzel-kiz/ (bkz buket aydın)
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n-%C4%B1n-s%C4%B1n%C4%B1rdaki-pozu/&w=gd (bkz haberim yokmuş gibi çek pampa)
-https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz haluk leventin kıraça verdiği ayar)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1nda-namaz-k%C4%B1lan-mehmet%C3%A7ik/ (bkz savaşıyomuşuz yokmuş gibi çek pampa)
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz savaşıyomuşuz gibi şey yapalım pampa)
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n-%C4%B1n-s%C4%B1n%C4%B1rdaki-pozu/ (bkz haberim yokmuş gibi çek pampa)
-https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz vatansız globalist bir piç olduğum için siklemediğim marş)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-tarkan/&w=bg (bkz atıl kurt)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-ve-tarkan-cepheye-gitsin-anca-inan%C4%B1r%C4%B1m/ (bkz kay kay klüp )
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
