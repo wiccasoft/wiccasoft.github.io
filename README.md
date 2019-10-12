@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular (bkz cengiz abi dön yaa)
 https://eksisozluk.com/pkk-yanlisi-sosyal-medya-hesaplari--6210951?a=popular (bkz wiccasoft)
 https://www.uludagsozluk.com/k/greta-thunberg/&w=bg (bkz babasının dövdüğü satanik kız)
 https://www.uludagsozluk.com/k/bir-neslin-de%C4%9Fi%C5%9Fimini-g%C3%B6zlemlemek/ (bkz babasının dövdüğü kıza at hediye etmek)
