@@ -8,7 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/sen-bana-yang%C4%B1n-ol-ben-sana-r%C3%BCzgar-diyen-%C5%9Fi%C5%9Fko-k%C4%B1z/&w=bg (bkz dilan ablanın kardeşi)
+https://www.uludagsozluk.com/k/sen-bana-yang%C4%B1n-ol-ben-sana-r%C3%BCzgar-diyen-%C5%9Fi%C5%9Fko-k%C4%B1z/&w=bg (bkz babasının dövdüğü satanik kız)
 https://www.uludagsozluk.com/k/dilan-dere/&w=bg (bkz babasının şey ettiği satanik şişko kızın kıskandığı kadın)
 https://www.uludagsozluk.com/k/sen-bana-yang%C4%B1n-ol-ben-sana-r%C3%BCzgar-diyen-%C5%9Fi%C5%9Fko-k%C4%B1z/&w=bg (bkz babasınının dövdüğü satanik kız)
 https://www.uludagsozluk.com/k/dilan-dere/&w=bg (bkz sözlük kadınlarınının kıskandığı kadın)
