@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-k%C4%B1zlar%C4%B1n-t%C3%BCrbanl%C4%B1lar%C4%B1-k%C4%B1skanmas%C4%B1/&w=bg (bkz babasının dövdüğü şeytanik kızın kıskanması olayı)
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1za-at-hediye-etmek/ (bkz babasının dövdüğü şeytanik kıza at hediye etmek)
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1za-at-hediye-etmek/ (bkz nihal atsız at fırlatmak)
 https://www.uludagsozluk.com/k/enes-batur/&w=bg (bkz enes abi anamı sik )
