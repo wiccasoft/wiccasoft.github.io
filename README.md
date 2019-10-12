@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-%C4%B1%C5%9Fid-i-savunmak-i%C3%A7in-suriye-de-diyen-suudi/ (bkz hayallerde yaşıyor bazı ibneler)
 https://eksisozluk.com/butun-dunyanin-turkiyeden-ne-istiyor-olmasi--6211093?a=popular (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/tsk-vurduk%C3%A7a-inim-inim-inleyen-%C4%B1l%C4%B1k-g%C3%B6tl%C3%BCler/&w=bg (bkz hayallerde yaşıyor bazı ibneler)
