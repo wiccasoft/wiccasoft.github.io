@@ -10,7 +10,6 @@
 <!---
 https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz vatansız globalist bir piç olduğum için siklemediğim marş)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-ve-tarkan-cepheye-gitsin-anca-inan%C4%B1r%C4%B1m/ (bkz kay kay klüp )
-https://www.youtube.com/watch?v=6aoBJbufXf8
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://eksisozluk.com/denize-ataturk-mu-dusse-kurtarirsin-hz-muhammed-mi--1552080 (bkz ikisini de boğar keyf yaparım)
 https://eksisozluk.com/yusuf-guneyin-tarkana-verdigi-mukemmel-ayar--6197213 (bkz saksıya fesleğen gibi oturtmak)
