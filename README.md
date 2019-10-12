@@ -8,7 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz a bu benim hesabım lan)
+https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz a bu benim hesabım lan napacanız amın feryatları)
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/&w=gd (bkz yazık la kimin çocuysa)
 https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz mustafa desticinin de pkk ya destek  çıkması)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/&w=gd (bkz bordo klavyeliler)
