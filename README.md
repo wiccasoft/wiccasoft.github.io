@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/tek-%C3%B6zelli%C4%9Fi-g%C3%BCzelli%C4%9Fi-olan-k%C4%B1z/&w=bg (bkz aleyna abla)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/&w=gd (bkz aleyna abla fanlarının iftirası)
 https://www.uludagsozluk.com/k/sekse-hi%C3%A7-para-vermemi%C5%9F-erkek/ (bkz cafede şal isteyen erkek)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz aleyna tilki abla)
