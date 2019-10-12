@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/erkeklerin-en-olgun-oldu%C4%9Fu-ya%C5%9F/ (bkz cafede şal istedikleri yaş)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz cafede şal isteyen erkeğin babası)
 https://www.uludagsozluk.com/k/ayn%C4%B1-k%C4%B1yafeti-giyen-sevgililer/&w=bg (bkz cafede erkekten şal isteyen erkekler)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz cafede şal isteyen oytunkaranın çilesi)
