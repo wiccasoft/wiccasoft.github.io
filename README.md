@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/erkeklerin-en-olgun-oldu%C4%9Fu-ya%C5%9F/&w=gd (bkz 19)
 https://www.uludagsozluk.com/k/max-kruse/&w=bg (bkz vatan sevdalısı fenerli)
 https://www.uludagsozluk.com/k/katar-ve-somali-nin-k%C4%B1nama-karar%C4%B1n%C4%B1-veto-etmesi/ (bkz rte nin çalışması)
 https://www.uludagsozluk.com/k/bizim-olmayan-bir-sava%C5%9Fta-ne-i%C5%9Fimiz-var/&w=bg (bkz kürt lütfen)
