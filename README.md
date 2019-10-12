@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/norm-ender-in-%C3%B6l%C3%BCm%C3%BC/ (bkz siniz tayfa biç biç bizim tayfa riç riç)
 https://www.uludagsozluk.com/k/takip-edilesi-youtube-kanallar%C4%B1/&w=bg (bkz enes abi)
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-hatalar%C4%B1/&w=bg (bkz oç türklerin götünü kaldırması)
 https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular (bkz cengiz abi dön yaa)
