@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/necmettin-erbakan-vs-turgut-%C3%B6zal/&w=bg (bkz turgutun havada karada sikeceği versus)
 https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg (bkz vatan sevdalısı yiğido)
 https://www.uludagsozluk.com/k/liverpool-be%C5%9Fikta%C5%9F-1080p/ (bkz yine tüpe soktun kardeş)
 https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz 10. yıl marşıyla bastırılacak marş)
