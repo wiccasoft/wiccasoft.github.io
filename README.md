@@ -9,6 +9,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
+https://www.uludagsozluk.com/k/tweet-atmad%C4%B1n-diye-vatan-haini-ilan-edilmek/
+https://eksisozluk.com/12-ekim-2019-tarkanin-harekat-tweeti-atmasi--6210182?a=popular (bkz işte kuzu kuzu)
 https://eksisozluk.com/mogolistanin-sinsi-gibi-hicbir-olaya-karismamasi--4974007?a=popular (bkz cia in siklemediği durum)
 https://eksisozluk.com/yakisikli-bir-erkegin-yalniz-olmasinin-nedenleri--3274591?a=popular (bkz seni abdulmecid yalnızlığında bırakmayacağız)
 https://eksisozluk.com/buket-aydinin-saldirirsaniz-da-buradayiz-pozu--6209816?a=popular (bkz bu ne olm ya kim sallar sizi)
