@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/pkk-yanlisi-sosyal-medya-hesaplari--6210951?a=popular (bkz wiccasoft)
 https://www.uludagsozluk.com/k/greta-thunberg/&w=bg (bkz babasının dövdüğü satanik kız)
 https://www.uludagsozluk.com/k/bir-neslin-de%C4%9Fi%C5%9Fimini-g%C3%B6zlemlemek/ (bkz babasının dövdüğü kıza at hediye etmek)
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-at%C4%B1n-toynaklar%C4%B1na-oje-s%C3%BCrmesi/ (bkz babasının dövdüğü şeytanik kızın at burcu olması)
