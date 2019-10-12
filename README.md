@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/uzun-kirpikli-erkekler--2207175?a=popular (bkz cengiz ünder abi)
 https://www.uludagsozluk.com/k/cengiz-%C3%BCnder-ve-merih-demiral-%C3%BClkelerine-d%C3%B6ns%C3%BCn/ (bkz cengiz abi nolur dön )
 https://www.uludagsozluk.com/k/t%C3%BCm-%C3%BClke-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-ile-ilgilenirken-mhp/ (bkz tüm dünyanın kürtlerin pisliğini görmesi)
 https://www.uludagsozluk.com/k/kendimi-e%C5%9Fime-sakl%C4%B1yorum-diyen-erkek/&w=gd (bkz cafede şal isteyen erkek)
