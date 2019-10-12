@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz 10. yıl marşıyla bastırılacak marş)
 https://www.uludagsozluk.com/k/12-ekim-2019-arap-birli%C4%9Fi-toplant%C4%B1s%C4%B1-kararlar%C4%B1/ (bkz haluk levent in araplara vereceği ayar)
 https://www.uludagsozluk.com/k/mucize-doktor-%C5%9Fi%C5%9Firilmi%C5%9F-bir-dizidir/ (bkz mucize doktordaki liseli ergen)
 https://www.uludagsozluk.com/k/arap-birli%C4%9Fi-nin-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1na-tepkisi/&w=gd (bkz arap birliğinin attığı tweet)
