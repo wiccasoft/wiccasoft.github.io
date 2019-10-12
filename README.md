@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-ve-tarkan-cepheye-gitsin-anca-inan%C4%B1r%C4%B1m/ (bkz hadi bi güzellik yapasana)
 https://www.youtube.com/watch?v=6aoBJbufXf8
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://eksisozluk.com/denize-ataturk-mu-dusse-kurtarirsin-hz-muhammed-mi--1552080 (bkz ikisini de boğar keyf yaparım)
