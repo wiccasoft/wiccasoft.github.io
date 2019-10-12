@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/tayyip-gitsin-de-ne-olursa-olsun-zihniyeti/ (bkz gürcü lütfen)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-den-siktirolup-gitmek/&w=bg (bkz türk lütfen)
 https://www.uludagsozluk.com/k/lezgin-botan-%C4%B1n-tutuklanmas%C4%B1-durumunda-olacaklar/ (bkz türk lütfen)
 https://www.uludagsozluk.com/k/araplar-d%C3%BCnyan%C4%B1n-g%C3%B6t-deli%C4%9Fidir/ (bkz türk lütfen)
