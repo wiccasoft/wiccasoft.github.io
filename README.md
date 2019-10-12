@@ -9,6 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/k%C4%B1ra%C3%A7-vatan-mar%C5%9F%C4%B1/ (bkz vatansız globalist bir piç olduğum için siklemediğim marş)
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-tarkan/&w=bg (bkz atıl kurt)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-ve-tarkan-cepheye-gitsin-anca-inan%C4%B1r%C4%B1m/ (bkz kay kay klüp )
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://eksisozluk.com/denize-ataturk-mu-dusse-kurtarirsin-hz-muhammed-mi--1552080 (bkz ikisini de boğar keyf yaparım)
