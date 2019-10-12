@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/az-bilinen-bir-%C5%9Fey-s%C3%B6yleyin/&w=bg (bkz enes abi anamı sik be abi)
 https://www.uludagsozluk.com/k/cengiz-%C3%BCnder-ve-merih-demiral-%C3%BClkelerine-d%C3%B6ns%C3%BCn/ (bkz cengiz abi nolur dön be abeeeee)
 https://www.uludagsozluk.com/k/fileli-%C3%A7orap/&w=bg (bkz cafede fileli çorap isteyen erkek)
 https://www.uludagsozluk.com/k/erkekarkada%C5%9F%C4%B1n-ailenin-yan%C4%B1nda-sana-hakaret-etmesi/ (bkz çal isteyen küğrt)
