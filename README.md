@@ -8,7 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz cafede üşüyünce şal istemeyen erkek)
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz cafede üşüyünce şal istemeyen ülkücü erkek)
 https://www.uludagsozluk.com/k/kendimi-e%C5%9Fime-sakl%C4%B1yorum-diyen-erkek/&w=bg (bkz kendimi oytunkaranın annesine hazırlıyorum diyen erkek)
 https://www.uludagsozluk.com/k/erkek-yazarlardan-kad%C4%B1n-yazarlara-sorular/&w=bg (bkz oytunkaranın annesine sorulacak  sorular)
 https://www.uludagsozluk.com/k/selamun-aleyk%C3%BCm-dendi%C4%9Finde-selam%C4%B1-almayan-tip/ (bkz satanik kız)
