@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/maradona-ve-platini-nin-1986-da-%C3%A7ekilen-foto%C4%9Fraf%C4%B1/ (bkz 31 çekilesi foto)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz aleyna abla fanları)
 https://www.uludagsozluk.com/k/adaleti-sosyal-medyadan-arayan-bir-%C3%BClke/ (bkz burhan kuzudan cafede tayt isteyen erkek)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz cafede üşüyünce şal istemeyen ülkücü ölü erkek)
