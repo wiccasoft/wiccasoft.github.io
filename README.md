@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/greta-thunberg-in-pkk-ya-destek-vermesi/ (bkz greta thunberg kim amk)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-ye-boykot-uygulay%C4%B1n-diyen-araplar/ (bkz ne üretiyosnuzki ambargo uygulayacakalr aa oçları)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/&w=bg (bkz babişkosu izin vermediği için kullanmayan kış)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/ (bkz babişkosu kızıyo diye kullanmayan kız)
