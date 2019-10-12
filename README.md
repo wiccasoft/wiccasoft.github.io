@@ -9,6 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
+https://eksisozluk.com/yusuf-guneyin-tarkana-verdigi-mukemmel-ayar--6197213 (bkz ayarın kralı)
 https://www.uludagsozluk.com/k/fahriye-evcen-g%C3%BCzelli%C4%9Fi/ (bkz burak özçivite harakat twiti)
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n/&w=bg (bkz vursana lan vursana botoksuma bişey olmasın ama)
 https://www.uludagsozluk.com/k/12-ekim-2019-tarkan-%C4%B1n-att%C4%B1%C4%9F%C4%B1-twit/ (bkz kay kay klüp)
