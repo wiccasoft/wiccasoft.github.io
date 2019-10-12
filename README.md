@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/cemal-s%C3%BCreyya/ (bkz cemal süreyya nın kızları sigaraya özendirmesi)
 https://www.uludagsozluk.com/k/mabel-matiz/&w=bg (bkz ya bu işler ne)
 https://www.uludagsozluk.com/k/naz%C4%B1m-%C4%B1n-her-tan%C4%B1%C5%9Ft%C4%B1%C4%9F%C4%B1-k%C4%B1za-%C5%9Fiir-yazmas%C4%B1/ (bkz kızlara instadan güzellik yazan adam)
 https://www.uludagsozluk.com/k/bizim-olmayan-bir-sava%C5%9Fta-ne-i%C5%9Fimiz-var/&w=bg (bkz kürt lütfen)
