@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/&w=bg (bkz babası kızıyo diye kullanmayan satanik kız)
 https://www.uludagsozluk.com/k/madem-vatanseversiniz-harekata-kat%C4%B1l%C4%B1n/ (bkz bordo klavyelierin türkiyeye faydası)
 https://www.uludagsozluk.com/k/suudi-d%C4%B1%C5%9Fi%C5%9Fleri-bakanl%C4%B1%C4%9F%C4%B1-ndan-skandal-a%C3%A7%C4%B1klamalar/ (bkz kemalistlerin cavuşoğlan yerine suudileri takip etmesi)
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz hayallerde yaşıyor bazı kemalitler)
