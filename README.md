@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1nda-namaz-k%C4%B1lan-mehmet%C3%A7ik/ (bkz savaşıyomuşuz gibi çek pampa))
 https://www.uludagsozluk.com/k/akepeli-cami-imam%C4%B1na-cumaya-size-geliyoruz-demek/  (bkz orta asyalı lütfen)
 https://www.uludagsozluk.com/k/ahsen-tv-muhabiri/&w=bg (bkz orta asyalı lütfen)
 http://www.devletbahceli.com.tr/ (bkz orta asyalı lütfen)
