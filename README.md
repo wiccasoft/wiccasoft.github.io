@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-k%C3%BCrtlerin-ger%C3%A7ek-y%C3%BCz%C3%BCn%C3%BC-g%C3%B6rmeye-ba%C5%9Flamas%C4%B1/&w=bg (bkz bunak faşist geldi yine)
 https://eksisozluk.com/greta-thunbergin-pkkya-destek-vermesi--6211065?a=popular (bkz kızma enes abisi yav)
 https://www.uludagsozluk.com/k/greta-thunberg/&w=bg (bkz kızma enes abisi yav)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/&w=bg (bkz babasının dövdüğü satanik kız greta)
