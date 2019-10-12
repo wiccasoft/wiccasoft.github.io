@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/%C5%9Fakir-in-yeri/&w=bg (bkz şallar girilen yer)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/&w=gd (bkz cengiz ünderin şalaını satanik ayinde kullanan kız)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz cengiz ünderin cafede şal verdiği kız)
 https://www.uludagsozluk.com/k/erkekarkada%C5%9F%C4%B1n-ailenin-yan%C4%B1nda-sana-hakaret-etmesi/ (bkz cafede şal veren satanik kız)
