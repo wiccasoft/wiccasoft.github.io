@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/greta-thunberg/&w=bg (bkz babasının dövüğü satanik kız)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/&w=bg (bkz babasının dövdüğü satanik kız greta)
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-bamya-pipili-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg (bkz kürt lütfen)
 https://www.uludagsozluk.com/k/ko%C3%A7-burcu-erke%C4%9Fi/&w=bg (bkz cafede şal isteyen erkek)
