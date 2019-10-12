@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.youtube.com/watch?v=6aoBJbufXf8
 https://www.uludagsozluk.com/e/42273956/ hangi oç yaptı lan bunu
 https://eksisozluk.com/denize-ataturk-mu-dusse-kurtarirsin-hz-muhammed-mi--1552080 (bkz ikisini de boğar keyf yaparım)
 https://eksisozluk.com/yusuf-guneyin-tarkana-verdigi-mukemmel-ayar--6197213 (bkz saksıya fesleğen gibi oturtmak)
