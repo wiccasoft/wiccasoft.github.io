@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/selamun-aleyk%C3%BCm-dendi%C4%9Finde-selam%C4%B1-almayan-tip/ (bkz satanik kız)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz aleyna tilki abla haterlerı)
 https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular (bkz cengiz abiyi yedirmeyiz)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz aleyna abla haterlarının iyice delirmesi)
