@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/k%C4%B1zlar-nazik-erkeklerden-ho%C5%9Flan%C4%B1r-yalan%C4%B1/&w=bg (bkz babasından dayak yiyen satanik kız)
 https://www.uludagsozluk.com/k/izmir-k%C4%B1z%C4%B1-vs-istanbul-k%C4%B1z%C4%B1/&w=bg (bkz babasından dayak yiyen kızlar)
 https://www.uludagsozluk.com/k/babas%C4%B1ndan-dayak-yiyen-k%C4%B1z%C4%B1n-satanist-%C3%A7%C4%B1kmas%C4%B1/ (bkz aleyna tilki nin kardeşi ayça tilki)
 https://www.uludagsozluk.com/k/karadenizlilerde-ki-silah-merak%C4%B1/ (bkz ismail türüt)
