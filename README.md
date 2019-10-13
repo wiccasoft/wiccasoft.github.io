@@ -11,6 +11,7 @@
 (bkz ben saldırıyorum pampa)
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz 
+https://www.uludagsozluk.com/k/amcao%C4%9Flumun-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-tiwiti-atmamas%C4%B1/
 https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular 
 (bkz nolur geri dön cangız abee bayaz futbol asker selamı veriydin ya hanny)
 https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedin)
