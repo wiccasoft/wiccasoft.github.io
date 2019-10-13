@@ -15,6 +15,7 @@
 Do you remember two years ago when Iraq was going to fight the Kurds in a different part of Syria. Many people wanted us to fight with the Kurds against Iraq, who we just fought for. I said no, and the Kurds left the fight, twice. Now the same thing is happening with Turkey......
 .....The Kurds and Turkey have been fighting for many years. Turkey considers the PKK the worst terrorists of all. Others may want to come in and fight for one side or the other. Let them! We are monitoring the situation closely. Endless Wars!
 (bkz ben saldırıyorum pampa)
+https://www.uludagsozluk.com/k/h%C3%BCsn%C3%BC-mahalli/&w=bg (bkz kırmızı bültenle aranan admaın tweeter kullanması)
 https://www.youtube.com/watch?v=SxIac4HkFl0 (bkz an itibariyle rte)
 https://www.youtube.com/watch?v=aZjXLxPCDvw
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
