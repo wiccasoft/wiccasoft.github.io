@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/sevi%C5%9Fmesini-bilmeyen-k%C4%B1za-sevi%C5%9Fmeyi-%C3%B6%C4%9Fretmek/&w=bg (bbkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/ (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz ben saldırıyorum beyler)
