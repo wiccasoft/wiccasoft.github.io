@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=SxIac4HkFl0 (bkz an itibariyle rte)
 https://www.youtube.com/watch?v=aZjXLxPCDvw
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz (bkz dünya sikimize minare götünüze)
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-kazan%C4%B1nca-k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-rahat-etmesi/  (bkz abkboylar)
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/  (bkz abkboylar)
 https://www.uludagsozluk.com/k/amcao%C4%9Flumun-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-tiwiti-atmamas%C4%B1/
 https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedin)
