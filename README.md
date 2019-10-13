@@ -1,3 +1,5 @@
+[![Image](smartdata/fsa.png)]( https://www.youtube.com/watch?v=JdZkOW8LfCM )
+
 [![Image](smartdata/period.png)]( https://www.youtube.com/watch?v=jK6BesOrfws )
 
 [![Image](almanac/cockatoo.png)]( https://www.youtube.com/watch?v=W7I92r9GqUw )
