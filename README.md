@@ -23,6 +23,7 @@ https://www.uludagsozluk.com/k/turkcell/&w=bg (bkz bir kürt gerilla olarak kull
 https://www.uludagsozluk.com/k/enes-batur-un-arkada%C5%9Flar%C4%B1na-iphone-11-almas%C4%B1/ (bkz enes abi anamı sik)
 https://eksisozluk.com/ypgli-teroristlerin-hazin-sonu--6211712?a=popular (bkz yav he he)
 https://eksisozluk.com/13-ekim-2019-suriye-ordusunun-kuzeye-donusu--6211902?a=popular&p=9 
+https://www.independentturkish.com/node/24566/d%C3%BCnyadan-sesler/rusya-t%C3%BCrkiye%E2%80%99deki-bilgi-sava%C5%9F%C4%B1n%C4%B1-kazand%C4%B1
 (bkz akboyların kullanışlı aptallar olması) 
 https://www.uludagsozluk.com/k/pkk/&w=gd (bkz yav he he)
 Do you remember two years ago when Iraq was going to fight the Kurds in a different part of Syria. Many people wanted us to fight with the Kurds against Iraq, who we just fought for. I said no, and the Kurds left the fight, twice. Now the same thing is happening with Turkey......
