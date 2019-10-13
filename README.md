@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular (bkz yav wallah özlemişek cengiz abenin asker selamını)
 https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz yav he he retweet et geç)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/ (bkz yav he he retweet et geç)
 https://www.uludagsozluk.com/k/kktc-cumhurba%C5%9Fkan%C4%B1n%C4%B1n-skandal-s%C3%B6zleri/ (bkz yav he he retweet et geç)
