@@ -11,6 +11,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz ben saldırıyorum pampa)
+https://www.youtube.com/watch?v=aZjXLxPCDvw
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz (bkz dünya sikimize minare götünüze)
 https://www.uludagsozluk.com/k/amcao%C4%9Flumun-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-tiwiti-atmamas%C4%B1/
