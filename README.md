@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/kktc-cumhurba%C5%9Fkan%C4%B1n%C4%B1n-skandal-s%C3%B6zleri/ (bkz yav he he retweet et geç)
 https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu-nun-chpliye-verdi%C4%9Fi-ayar/&w=bg (bkz yav he he)
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg (bkz yav he he tamam apisteyim)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz yav he he okududum tamam tehdit felan fasa fiso kürdistan kurulacak o kadar zall ın ergenleri mi engel olacak amk)
