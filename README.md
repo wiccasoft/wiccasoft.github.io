@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz peçete artığı amk şaka lan şaka okumadım)
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz yarramı ihraç edersiniz amın feryatları )
 https://www.uludagsozluk.com/k/ypg-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-de%C4%9Fildir/&w=bg (bkz zalın paralı ak itleri)
 (bkz türkiyeyi 3 eyalete böleceğim 1.batı (laikçiler bölgesi) 2.orta(müslüman tampon bölge) 3.kürdistan eyaleti)
