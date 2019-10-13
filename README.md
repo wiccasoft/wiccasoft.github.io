@@ -12,6 +12,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
+https://www.uludagsozluk.com/k/enes-batur-un-arkada%C5%9Flar%C4%B1na-iphone-11-almas%C4%B1/ (bkz enes abi anamı sik)
 https://eksisozluk.com/ypgli-teroristlerin-hazin-sonu--6211712?a=popular (bkz yav he he)
 https://eksisozluk.com/13-ekim-2019-suriye-ordusunun-kuzeye-donusu--6211902?a=popular&p=9 
 (bkz akboyların kullanışlı aptallar olması) 
