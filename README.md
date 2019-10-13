@@ -10,6 +10,7 @@
 <!---
 https://eksisozluk.com/butun-dunyanin-turkiyeden-ne-istiyor-olmasi--6211093 (bkz bütün dünyayı kıskandıran ülke olmak)
 https://eksisozluk.com/turkleri-hic-kimsenin-sevmemesi--4781586 (bkz semih cumhuriyeti)
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=gd (bkz ben saldırıyorum pampa)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-i%C5%9Fgale-haz%C4%B1rlan%C4%B1yorlar/ (bkz hayallerde yaşıyor bazı ibneler)
 https://eksisozluk.com/falcaonun-3-saatte-4-kilo-et-yemesi--6211471?a=popular (bkz yarasın koçuma)
 https://eksisozluk.com/aylik-geliri-10-bin-lira-olan-erkek--4339926?a=popular (bkz devlet bahçeli)
