@@ -10,6 +10,8 @@
 <!--- 
 (bkz ben saldırıyorum pampa)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popular
+https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular 
+(bkz nolur geri dön cangız abee)
 https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/fet%C3%B6-pkk-pyd-dae%C5%9F-topunuz-gelin/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/
