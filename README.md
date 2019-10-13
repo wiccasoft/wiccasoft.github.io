@@ -12,6 +12,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
+https://eksisozluk.com/ypgli-teroristlerin-hazin-sonu--6211712?a=popular (bkz yav he he)
 https://eksisozluk.com/13-ekim-2019-suriye-ordusunun-kuzeye-donusu--6211902?a=popular&p=9 
 (bkz akboyların kullanışlı pkk düşmanı aptallar olması) 
 https://www.uludagsozluk.com/k/pkk/&w=gd (bkz yav he he)
