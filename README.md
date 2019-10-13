@@ -14,6 +14,7 @@
 <!--- 
 (bkz yav he he)
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-bir-ambargoluk-can%C4%B1-olmas%C4%B1/
 https://www.uludagsozluk.com/k/tsk-n%C4%B1n-c%C3%BCc%C3%BCk-gibi-da%C4%9F%C4%B1tt%C4%B1%C4%9F%C4%B1-ypg-liler/&w=gd
 https://www.uludagsozluk.com/k/turkcell/&w=bg (bkz bir kürt gerilla olarak kullanmadığım cell)
 https://www.uludagsozluk.com/k/enes-batur-un-arkada%C5%9Flar%C4%B1na-iphone-11-almas%C4%B1/ (bkz enes abi anamı sik)
