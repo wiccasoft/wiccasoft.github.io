@@ -68,7 +68,7 @@ https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/ (bkz ben saldır�
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/ (bkz çinlilerin türklere kıçıyla gülmesi)
-https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz beyler ben saldırıyorum siz arkadan dolaşın inciden ülkücü toplayacam bordo klavyeyle kafasına vurarsınız)
+https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz beyler ben saldırıyorum siz arkadan dolaşın bordo klavyeyle kafasına vurarsınız)
 https://eksisozluk.com/greta-thunbergin-pkkya-destek-vermesi--6211065?a=popular (bkz beyler ben saldırıyorum)
 https://www.uludagsozluk.com/k/%C3%B6so/&w=bg (bkz beyler ben saldırıyorum )
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/ (bkz beyler ben saldırıyorum)
