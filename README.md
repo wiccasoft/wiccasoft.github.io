@@ -8,8 +8,8 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz ben saldırıyorum beyler saldırıyomuş gibi çekin)
-https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz ben saldırıyorum beyler )
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz ben saldırıyorum beyler)
+https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/ (bkz çinlilerin türklere kıçıyla gülmesi)
 https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz beyler ben saldırıyorum siz arkadan dolaşın inciden ülkücü toplayacam bordo klavyeyle kafasına vurarsınız)
 https://eksisozluk.com/greta-thunbergin-pkkya-destek-vermesi--6211065?a=popular (bkz beyler ben saldırıyorum)
