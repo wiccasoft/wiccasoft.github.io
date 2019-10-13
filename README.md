@@ -9,7 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/greta-thunberg/&w=gd (bkz yav he he kürdo de geç)
-https://eksisozluk.com/12-ekim-2019-fransanin-silah-satisini-durdurmasi--6210939?a=popular (bkz yav he he kürt öldürmek için silha mı bulmamayık de geç)
+https://eksisozluk.com/12-ekim-2019-fransanin-silah-satisini-durdurmasi--6210939?a=popular (bkz yav he he kürt öldürmek için silah mı bulmamayık lo de geç)
 https://www.uludagsozluk.com/k/halklar%C4%B1n-demokratik-partisi/&w=bg (bkz yav he he retweet et geç)
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg (bkz yav he he retweet et geç)
 https://eksisozluk.com/cia-ve-nsa-operasyonu-destekleyenleri-fisliyor--6211256?a=popular (bkz yav he he retweet et geç)
