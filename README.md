@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/mabel-matiz-dinleyip-kendini-jiletleyen-erkek/ (b
 https://www.uludagsozluk.com/k/sen-parf%C3%BCm-ben-lastik-kokar%C4%B1m-genco-diyen-k%C4%B1z/&w=bg  (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/erkek-arkada%C5%9F%C4%B1n-ailenin-yan%C4%B1nda-hakaret-etmesi/&w=bg (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/sen-parf%C3%BCm-ben-lastik-kokar%C4%B1m-genco-diyen-k%C4%B1z/&w=bg (bkz oytunkaran)
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz cafeye şalla giden aşufteler)
+https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz inanma seni sikecek pampa)
 https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/  (bkz beyler ben saldırıyorum )
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/12/ (bkz beyler ben saldırıyorum )
