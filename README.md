@@ -9,8 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 (bkz türkiyeyi 3 eyalete böleceğim 1.batı (laikçiler bölgesi) 2.orta(müslüman tampon bölge) 3.kürdistan eyaleti)
-bence güzel olur daha sonra iş akışını detaylı paylaşırım genşler kafasını siktiniz dünyanın
-https://www.uludagsozluk.com/k/arap%C3%A7a-n%C4%B1n-ikinci-resmi-dil-olmas%C4%B1-gereklili%C4%9Fi/ (bkz arapça bilmeyen müslümanlar cık cık cık)
+bence güzel olur daha sonra iş akışını detaylı paylaşırım genşler
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-k%C3%BCrtlerin-ger%C3%A7ek-y%C3%BCz%C3%BCn%C3%BC-g%C3%B6rmeye-ba%C5%9Flamas%C4%B1/ (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/15-ya%C5%9F%C4%B1nda-%C3%B6nemli-olan-i%C3%A7-g%C3%BCzellik-diyen-k%C4%B1z/(bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/mabel-matiz-dinleyip-kendini-jiletleyen-erkek/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
