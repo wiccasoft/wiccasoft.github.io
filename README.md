@@ -7,7 +7,8 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!---
+<!--- 
+https://www.uludagsozluk.com/k/avrupa-birli%C4%9Fi-%C3%BClkelerinin-bir-t%C3%BCrkiye-etmemesi/(bkz ben saldırıyorum pampa)
 https://www.uludagsozluk.com/k/t%C3%BCrk-ordusunun-asilli%C4%9Fi/&w=bg (bkz bi ropkek sanan bi saray bana)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-teke-tek-sava%C5%9Fta-koyabilece%C4%9Fi-%C3%BClkeler/&w=bg 
 https://www.uludagsozluk.com/k/rusyay%C4%B1-g%C3%BC%C3%A7l%C3%BC-zanneden-cahil/&w=bg (bkz ben saldırıyorum pampa)
