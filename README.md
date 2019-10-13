@@ -18,6 +18,7 @@ Do you remember two years ago when Iraq was going to fight the Kurds in a differ
 https://www.youtube.com/watch?v=SxIac4HkFl0 (bkz an itibariyle rte)
 https://www.youtube.com/watch?v=aZjXLxPCDvw
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
+https://www.uludagsozluk.com/k/suriye-ordusunun-kobani-ye-girme-ihtimali/ (bkz lol)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz (bkz dünya sikimize minare götünüze)
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-kazan%C4%B1nca-k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-rahat-etmesi/  (bkz abkboylar)
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/  (bkz abkboylar)
