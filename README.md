@@ -19,7 +19,6 @@ https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz in
 https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/  (bkz beyler ben saldırıyorum )
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/12/ (bkz beyler ben saldırıyorum )
 https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1na-bi-geliyim-d%C3%BCnyay%C4%B1-fethedece%C4%9Fim/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://eksisozluk.com/fatih-tezcanin-eksi-sozluk-hesabi--6211200?a=popular (bkz ekşide hesap açacak kadar düşmek)
 https://eksisozluk.com/12-ekim-2019-lezgin-botan-tweeti--6210533?a=popular (bkz lezgin botanın çomarlarla imtihanı)
 https://www.uludagsozluk.com/k/sevi%C5%9Fmesini-bilmeyen-k%C4%B1za-sevi%C5%9Fmeyi-%C3%B6%C4%9Fretmek/&w=bg (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/ (bkz ben saldırıyorum beyler)
