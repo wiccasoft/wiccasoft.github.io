@@ -15,6 +15,7 @@
 (bkz yav he he)
 https://galeri13.uludagsozluk.com/693/donald-trump_1227763.jpg
 https://www.uludagsozluk.com/k/tc-nin-sivilleri-vurmas%C4%B1/
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=gd
 https://www.uludagsozluk.com/k/hani-membi%C3%A7-e-sincan-a-giriyorduk/&w=bg
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-bir-ambargoluk-can%C4%B1-olmas%C4%B1/
