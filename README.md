@@ -17,8 +17,6 @@ https://www.youtube.com/watch?v=aZjXLxPCDvw
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz (bkz dünya sikimize minare götünüze)
 https://www.uludagsozluk.com/k/amcao%C4%9Flumun-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-tiwiti-atmamas%C4%B1/
-https://eksisozluk.com/merih-demiral-ve-cengiz-under-evlerine-donsun--6210904?a=popular 
-(bkz nolur geri dön cangız abee bayaz futbol asker selamı veriydin ya hanny)
 https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/fet%C3%B6-pkk-pyd-dae%C5%9F-topunuz-gelin/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/
@@ -31,9 +29,6 @@ https://www.uludagsozluk.com/k/rusyay%C4%B1-g%C3%BC%C3%A7l%C3%BC-zanneden-cahil/
 https://eksisozluk.com/butun-dunyanin-turkiyeden-ne-istiyor-olmasi--6211093 (bkz bütün dünyayı kıskandıran ülke olmak)
 https://eksisozluk.com/turkleri-hic-kimsenin-sevmemesi--4781586 (bkz semih cumhuriyeti)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=gd (bkz ben saldırıyorum pampa)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-i%C5%9Fgale-haz%C4%B1rlan%C4%B1yorlar/ (bkz hayallerde yaşıyor bazı ibneler)
-https://eksisozluk.com/falcaonun-3-saatte-4-kilo-et-yemesi--6211471?a=popular (bkz yarasın koçuma)
-https://eksisozluk.com/aylik-geliri-10-bin-lira-olan-erkek--4339926?a=popular (bkz devlet bahçeli)
 https://www.uludagsozluk.com/k/filistin/&w=bg (bkz uzun adamın gazabına uğrayan iç mihraklar)
 https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
 https://www.uludagsozluk.com/k/13-ekim-2019-t%C3%BCrk-ordusu-nun-tel-abyad-a-girmesi/ (bkz hüloğğğğğ)
