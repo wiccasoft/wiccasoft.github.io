@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://eksisozluk.com/falcaonun-3-saatte-4-kilo-et-yemesi--6211471?a=popular (bkz yarasın koçuma)
 https://eksisozluk.com/aylik-geliri-10-bin-lira-olan-erkek--4339926?a=popular (bkz sezgin tanrıkulu)
 https://www.uludagsozluk.com/k/filistin/&w=bg (bkz uzun adamın gazabına uğrayan iç mihraklar)
 https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/ (bkz arapça ezan aldırma)(bkz türkiyenin yarrak gibi ortada kalması)
