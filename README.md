@@ -9,7 +9,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-k%C3%BCrtlerin-ger%C3%A7ek-y%C3%BCz%C3%BCn%C3%BC-g%C3%B6rmeye-ba%C5%9Flamas%C4%B1/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
-
 https://www.uludagsozluk.com/k/mabel-matiz-dinleyip-kendini-jiletleyen-erkek/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/sen-parf%C3%BCm-ben-lastik-kokar%C4%B1m-genco-diyen-k%C4%B1z/&w=bg  (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://www.uludagsozluk.com/k/erkek-arkada%C5%9F%C4%B1n-ailenin-yan%C4%B1nda-hakaret-etmesi/&w=bg (bkz yine seks hikayesi mi yazıyosun feridun abi)
