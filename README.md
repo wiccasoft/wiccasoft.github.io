@@ -9,6 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz ben saldırıyorum pampa)
+https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popular
 https://www.uludagsozluk.com/k/fet%C3%B6-pkk-pyd-dae%C5%9F-topunuz-gelin/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-bar%C4%B1%C5%9F-istiyorum-a%C3%A7%C4%B1klamas%C4%B1/&w=gd
