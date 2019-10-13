@@ -1,4 +1,4 @@
-[![Image](smartdata/fsa.png)]( https://www.youtube.com/watch?v=JdZkOW8LfCM )
+[![Image](smartdata/fsa.png)]( https://www.youtube.com/watch?v=aZjXLxPCDvw )
 
 [![Image](smartdata/period.png)]( https://www.youtube.com/watch?v=jK6BesOrfws )
 
