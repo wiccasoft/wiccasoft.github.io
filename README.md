@@ -9,7 +9,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz yav he he okududum tamam tehdit felan fasa fiso kürdistan kurulacak o kadar zall ın ergenleri mi engel olacak amk)
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg (bkz peçete artığı amk şaka lana şaka tıklamadım)
+https://eksisozluk.com/thynin-ilk-turbanli-pilotu--6211222?a=popular(bkz peçete artığı amk şaka lana şaka tıklamadım)
 https://www.uludagsozluk.com/k/ypg-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-de%C4%9Fildir/&w=bg (bkz zalın paralı ak itleri)
 (bkz türkiyeyi 3 eyalete böleceğim 1.batı (laikçiler bölgesi) 2.orta(müslüman tampon bölge) 3.kürdistan eyaleti)
 bence güzel olur daha sonra iş akışını detaylı paylaşırım genşler. bayrağı da sarı pembe yeşil üç yatay çizgi yaparız ortaya bi geyik kafası düşündüm ismi de anadolu federe birliği olur diye düşündüm çok şık olur olur olur bu iş.
