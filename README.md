@@ -8,6 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
+https://www.uludagsozluk.com/k/filistin/&w=bg (bkz rte nin netanyahuya verdiği ayar)
 https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/ (bkz arapça ezan aldırma)
 https://www.uludagsozluk.com/k/13-ekim-2019-t%C3%BCrk-ordusu-nun-tel-abyad-a-girmesi/ (bkz hüloğğğğğ)
 https://eksisozluk.com/12-ekim-2019-almanyanin-silah-satisini-durdurmasi--6210599?a=popular (bkz beyler ben saldırıyorum)
