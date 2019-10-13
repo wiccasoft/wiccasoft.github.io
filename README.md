@@ -8,7 +8,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1na-bi-geliyim-d%C3%BCnyay%C4%B1-fethedece%C4%9Fim/ (bkz pedofilerin hayal dünyası)
+https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1na-bi-geliyim-d%C3%BCnyay%C4%B1-fethedece%C4%9Fim/ (bkz pedofilerin hayal dünyası anlat pampa sonra ne dedi)
 https://eksisozluk.com/fatih-tezcanin-eksi-sozluk-hesabi--6211200?a=popular (bkz ekşide hesap açacak kadar düşmek)
 https://eksisozluk.com/12-ekim-2019-lezgin-botan-tweeti--6210533?a=popular (bkz lezgin botanın çomarlarla imtihanı)
 https://www.uludagsozluk.com/k/sevi%C5%9Fmesini-bilmeyen-k%C4%B1za-sevi%C5%9Fmeyi-%C3%B6%C4%9Fretmek/&w=bg (bbkz yine seks hikayesi mi yazıyosun feridun abi)
