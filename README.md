@@ -10,7 +10,7 @@
 <!--- 
 (bkz ben saldırıyorum pampa)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popular
-https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedi)
+https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/fet%C3%B6-pkk-pyd-dae%C5%9F-topunuz-gelin/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-bar%C4%B1%C5%9F-istiyorum-a%C3%A7%C4%B1klamas%C4%B1/&w=gd
