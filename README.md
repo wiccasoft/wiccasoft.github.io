@@ -8,7 +8,8 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!---
-https://eksisozluk.com/turkleri-hic-kimsenin-sevmemesi--4781586 (bkz türklerin sik gibi ortada kalması)
+https://eksisozluk.com/butun-dunyanin-turkiyeden-ne-istiyor-olmasi--6211093 (bkz semih cumhuriyeti)
+https://eksisozluk.com/turkleri-hic-kimsenin-sevmemesi--4781586 (bkz semih cumhuriyeti)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-i%C5%9Fgale-haz%C4%B1rlan%C4%B1yorlar/ (bkz hayallerde yaşıyor bazı ibneler)
 https://eksisozluk.com/falcaonun-3-saatte-4-kilo-et-yemesi--6211471?a=popular (bkz yarasın koçuma)
 https://eksisozluk.com/aylik-geliri-10-bin-lira-olan-erkek--4339926?a=popular (bkz devlet bahçeli)
