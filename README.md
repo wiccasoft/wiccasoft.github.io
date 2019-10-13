@@ -12,6 +12,8 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
+https://eksisozluk.com/13-ekim-2019-suriye-ordusunun-kuzeye-donusu--6211902?a=popular&p=9 
+(bkz akboyların kullanışlı aptallar olması)
 Do you remember two years ago when Iraq was going to fight the Kurds in a different part of Syria. Many people wanted us to fight with the Kurds against Iraq, who we just fought for. I said no, and the Kurds left the fight, twice. Now the same thing is happening with Turkey......
 .....The Kurds and Turkey have been fighting for many years. Turkey considers the PKK the worst terrorists of all. Others may want to come in and fight for one side or the other. Let them! We are monitoring the situation closely. Endless Wars!
 (bkz ben saldırıyorum pampa)
