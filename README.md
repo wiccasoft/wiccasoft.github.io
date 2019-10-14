@@ -14,9 +14,6 @@
 <!--- 
 (bkz yav he he)
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz agam bizimle eğleniy)
-https://www.uludagsozluk.com/k/yazarlar%C4%B1n-asla-oy-vermedi%C4%9Fi-partiler/ (bkz kaç tane parti var lan orada)
-https://www.uludagsozluk.com/k/chp-ile-pkk-aras%C4%B1nda-ki-ba%C4%9Flant%C4%B1/ (bkz chpkk)
-https://www.uludagsozluk.com/k/ilyas-salman/&w=bg (bkz şakire çay yok)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz şakire çay yok)
 https://www.uludagsozluk.com/k/meslek-lisesi-mezunu-birini-ciddiye-almak/ (bkz imam hatipli olduğum için problem yok)
 https://www.uludagsozluk.com/k/ilyas-salman/&w=bg (bkz pkk ya destek veren ateistler)
