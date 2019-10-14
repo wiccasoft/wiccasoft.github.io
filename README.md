@@ -17,7 +17,8 @@ https://www.uludagsozluk.com/k/ypg-nin-att%C4%B1%C4%9F%C4%B1-bombay%C4%B1-erdo%C
 https://www.uludagsozluk.com/k/pkk-l%C4%B1lar%C4%B1n-kendilerini-amerikaya-sevdirmesi/ (bkz yav he he)
 https://www.uludagsozluk.com/k/chp-nin-yedinci-oku-k%C3%BCrt%C3%A7%C3%BCl%C3%BCk/&w=bg (bkz yav he he)
 https://www.uludagsozluk.com/k/osman-%C3%B6calan-%C4%B1-trt-ye-%C3%A7%C4%B1karmak/&w=bg (bkz yav he he)
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-g%C3%BCzelli%C4%9Fi/&w=bg (bkz ypglilerin elinden kurtarılan kız güzelliği)
+https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-g%C3%BCzelli%C4%9Fi/&w=bg 
+(bkz ypglilerin elinden kurtarılan kız güzelliği)
 https://www.uludagsozluk.com/k/chp-li-faik-%C3%B6ztrak-tan-hesap-soran-ypg-li/ (bkz faik öztarrak kim amk)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz senin yüzüne nolmuş rendroy)
 https://galeri13.uludagsozluk.com/655/devlet-bahceli_1235870.gif
