@@ -1,4 +1,4 @@
-[![Image](smartdata/furyroad.png)]( https://www.youtube.com/watch?v=-DcLb4kIV6k )
+[![Image](smartdata/furyroad.png)]( https://galeri13.uludagsozluk.com/655/devlet-bahceli_1235870.gif)
 
 [![Image](smartdata/fsa.png)]( https://www.youtube.com/watch?v=JdZkOW8LfCM )
 
