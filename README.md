@@ -16,7 +16,7 @@
 https://www.uludagsozluk.com/k/t%C3%BCrk-olmakla-%C3%B6v%C3%BCnmek/&w=bg (bkz bi topkek sana bi saray bana)
 (bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
 https://www.youtube.com/watch?v=Vvxa3QjWb6Y
-https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg (bkz bi topkek sanan bi saray bana)
+https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg (bkz bi topkek sanan bi at bana)
 https://www.uludagsozluk.com/k/e%C5%9Fini-grup-sekse-g%C3%B6nderen-%C3%A7a%C4%9Fda%C5%9F-erkek/&w=bg 
 (bkz kukold zhamster zenci yarra izledikten sonra başlık açmak)
 https://www.uludagsozluk.com/k/porno-izlerken-facebooku-kapatmak/ (bkz kukold xhamster zenci yarra )
