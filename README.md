@@ -1,4 +1,4 @@
-[![Image](smartdata/furyroad.png)]( https://www.youtube.com/watch?v=ArqBlBtcG28 )
+[![Image](smartdata/furyroad.png)]( https://www.youtube.com/watch?v=LlGEagz3tEc )
 
 [![Image](smartdata/fsa.png)]( https://www.youtube.com/watch?v=JdZkOW8LfCM )
 
