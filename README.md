@@ -16,6 +16,7 @@
 (bkz yusuf güneyin çomarlara verdiği ayar)
 https://www.uludagsozluk.com/k/abd-nin-bar-bar-ba%C4%9F%C4%B1rmas%C4%B1/
 (bkz yine siyaset hikayesimi yazıyosun feridun abi)
+https://www.reddit.com/r/rule34celebs/ hangi oç yaptı lan bunları
 (bkz mustafa desticinin kuracağı partiye isim önerileri)
 (bkz bordo klavyelilerin mgk yı toplaması)
 https://www.uludagsozluk.com/k/13-ekim-2019-suriye-nin-kar%C5%9F%C4%B1-sald%C4%B1r%C4%B1-harekat%C4%B1/&w=bg
