@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz senin yüzüne nolmuş rendroy)
 https://galeri13.uludagsozluk.com/655/devlet-bahceli_1235870.gif
 (bkz yusuf güneyin çomarlara verdiği ayar)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
