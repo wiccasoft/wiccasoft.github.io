@@ -14,6 +14,7 @@
 <!--- 
 (bkz bir topkek sana bir saray bana)
 https://www.youtube.com/watch?v=Vvxa3QjWb6Y
+https://www.uludagsozluk.com/k/e%C5%9Fini-grup-sekse-g%C3%B6nderen-%C3%A7a%C4%9Fda%C5%9F-erkek/&w=bg (bkz gavat)
 https://www.uludagsozluk.com/k/eski-insanlar%C4%B1n-daha-sa%C4%9Fl%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg 
 (bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
 https://twitter.com/dbdevletbahceli/status/1053664343093583872?lang=en
