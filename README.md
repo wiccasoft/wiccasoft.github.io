@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+https://www.uludagsozluk.com/k/elektrik-dire%C4%9Fiyle-%C3%B6p%C3%BC%C5%9Fen-adam/ (bkz meanwhile in turkey)
 https://www.uludagsozluk.com/k/t%C3%BCrkler-ma%C3%A7ta-asker-selam%C4%B1-verirse-d%C3%BC%C5%9Fman-oluruz/ (bkz fransızların üstüne cengiz ünderi salmak)
 https://www.uludagsozluk.com/k/s%C3%BCrekli-birini-d%C3%BC%C5%9F%C3%BCnmek/&w=bg (bkz melih demiral)
 https://www.uludagsozluk.com/k/frans%C4%B1z-tv-sinin-asker-selam%C4%B1n%C4%B1-g%C3%B6stermemesi/
