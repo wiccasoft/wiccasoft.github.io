@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+https://www.uludagsozluk.com/k/sokaklar%C4%B1-dola%C5%9F%C4%B1p-hayvanlar%C4%B1-doyuran-adam/ (bkz bi topkek sana bi ciğer bana)
 https://www.uludagsozluk.com/k/sar%C4%B1-mercedes-filmindeki-kamyon-%C5%9Fof%C3%B6r%C3%BC/&w=bg (bkz agam bizimle eğleniy)
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n-%C4%B1n-s%C4%B1n%C4%B1rdaki-pozu/&w=bg (bkz haberim yokmuş gibi çek kanka)
 https://www.uludagsozluk.com/k/we-are-gay-homosexuals-sorry/ (bkz bi ferrari bana bi gavat sana)
