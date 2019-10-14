@@ -13,7 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz yav he he)
-https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz la oglim şaka maka bitirdi reis)
+https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz la oglim şaka la şaka)
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-asla-oy-vermedi%C4%9Fi-partiler/ (bkz kaç tane parti var lan orada)
 https://www.uludagsozluk.com/k/chp-ile-pkk-aras%C4%B1nda-ki-ba%C4%9Flant%C4%B1/ (bkz chpkk)
 https://www.uludagsozluk.com/k/ilyas-salman/&w=bg (bkz şakire çay yok)
