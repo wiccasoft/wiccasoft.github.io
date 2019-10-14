@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+https://www.uludagsozluk.com/k/we-are-gay-homosexuals-sorry/ (bkz bi ferrari bana bi gavat sana)
 https://www.uludagsozluk.com/k/t%C3%BCrk-olmakla-%C3%B6v%C3%BCnmek/&w=bg (bkz bi topkek sana bi saray bana)
 (bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
 https://www.youtube.com/watch?v=Vvxa3QjWb6Y
