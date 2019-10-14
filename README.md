@@ -13,6 +13,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+https://www.uludagsozluk.com/k/eski-insanlar%C4%B1n-daha-sa%C4%9Fl%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg 
+(bkz turp gibiyim turpturp şurup gibiyim şurşurp)
 https://twitter.com/dbdevletbahceli/status/1053664343093583872?lang=en
 https://www.uludagsozluk.com/k/neslican-tay/&w=bg (bkz tay gibi kızlar)
 https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-olunan-k%C4%B1z%C4%B1n-bachata-dersi-ald%C4%B1%C4%9F%C4%B1n%C4%B1-%C3%B6%C4%9Frenmek/ (bkz bunu anana sorsana delikanlı)
