@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz yav he he)
+https://www.uludagsozluk.com/k/mustafa-ak%C4%B1nc%C4%B1/&w=bg (bkz pkk ya destek veren kktc li)
 https://www.uludagsozluk.com/k/ilyas-salman/&w=bg (bkz pkk ya destek veren ateistler)
 https://galeri13.uludagsozluk.com/693/donald-trump_1227763.jpg
 https://www.uludagsozluk.com/k/tc-nin-sivilleri-vurmas%C4%B1/
