@@ -15,7 +15,7 @@
 (bkz yav he he)
 (bkz yine siyaset hikayesimi yazıyosun feridun abi)
 (bkz mustafa desticinin kuracağı partiye isim önerileri)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz üç boyutlu düşünülüp 4 boyutlu iredelenmesi gereken konu)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz üç boyutlu düşünülüp 4 boyutlu irdelenmesi gereken konu)
 https://www.uludagsozluk.com/k/mustafa-ak%C4%B1nc%C4%B1/&w=bg (bkz numan kurtulmuşun akıncıya verdiği ayar)
 https://www.uludagsozluk.com/k/chp-ile-pkk-aras%C4%B1nda-ki-ba%C4%9Flant%C4%B1/ (bkz chpkk)
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz agam bizimle eğleniy)
