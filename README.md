@@ -13,10 +13,12 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz yav he he)
+(bkz yine seks hikayesimi yazıyosun feridun abi)
 (bkz mustafa desticinin kuracağı partiye isim önerileri)
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz agam bizimle eğleniy)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz şakire çay yok)
 https://www.uludagsozluk.com/k/meslek-lisesi-mezunu-birini-ciddiye-almak/ (bkz imam hatipli olduğum için problem yok)
+https://www.uludagsozluk.com/k/birlikte-g%C3%B6ky%C3%BCz%C3%BC-izlenen-k%C4%B1z%C4%B1n-elini-tutmas%C4%B1/ 
 https://galeri13.uludagsozluk.com/693/donald-trump_1227763.jpg
 https://www.uludagsozluk.com/k/tc-nin-sivilleri-vurmas%C4%B1/
 https://www.uludagsozluk.com/k/hani-membi%C3%A7-e-sincan-a-giriyorduk/&w=bg
