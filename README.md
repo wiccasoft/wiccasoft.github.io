@@ -15,6 +15,7 @@
 (bkz bir topkek sana bir saray bana)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-izin-istemedi-suriye-ye-girece%C4%9Fini-s%C3%B6yledi/ 
 (bkz izinsiz girmiş gibi yazın pampa)
+https://www.uludagsozluk.com/k/emmanuel-macron/&w=bg (bkz silah vermiyomuşum gibi çek pampa)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=bg (bkz pydye yardım ediyomuşum gibi çek pampa)
 https://www.uludagsozluk.com/k/sokaklar%C4%B1-dola%C5%9F%C4%B1p-hayvanlar%C4%B1-doyuran-adam/ (bkz bi topkek size bi antrikot bana)
 https://www.uludagsozluk.com/k/sar%C4%B1-mercedes-filmindeki-kamyon-%C5%9Fof%C3%B6r%C3%BC/&w=bg (bkz agam bizimle eğleniy)
