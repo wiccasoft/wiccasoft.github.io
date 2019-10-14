@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+(bkz yusuf güneyin çomarlara verdiği ayar)
 https://www.uludagsozluk.com/k/abd-nin-bar-bar-ba%C4%9F%C4%B1rmas%C4%B1/
 (bkz yine siyaset hikayesimi yazıyosun feridun abi)
 (bkz mustafa desticinin kuracağı partiye isim önerileri)
