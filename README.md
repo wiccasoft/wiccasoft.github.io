@@ -13,6 +13,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz yav he he)
+(bkz mustafa desticinin kuracağı partiye isim önerileri)
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz agam bizimle eğleniy)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz şakire çay yok)
 https://www.uludagsozluk.com/k/meslek-lisesi-mezunu-birini-ciddiye-almak/ (bkz imam hatipli olduğum için problem yok)
