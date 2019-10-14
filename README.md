@@ -15,7 +15,7 @@
 (bkz bir topkek sana bir saray bana)
 (bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
 https://www.youtube.com/watch?v=Vvxa3QjWb6Y
-https://www.uludagsozluk.com/k/porno-izlerken-facebooku-kapatmak/ (bkz kukold xhamster)
+https://www.uludagsozluk.com/k/porno-izlerken-facebooku-kapatmak/ (bkz kukold xhamster zenci yarra )
 https://www.uludagsozluk.com/k/do%C4%9Fum-g%C3%BCn%C3%BCnde-e%C5%9Fine-zenci-erkek-getiren-laik-koca/&w=bg (bkz kukold)
 https://www.uludagsozluk.com/k/anadolu-nun-kap%C4%B1lar%C4%B1n%C4%B1-t%C3%BCrklere-a%C3%A7an-ki%C5%9Fi/&w=bg (bkz gavat)
 https://www.uludagsozluk.com/k/e%C5%9Fini-grup-sekse-g%C3%B6nderen-%C3%A7a%C4%9Fda%C5%9F-erkek/&w=bg (bkz gavat)
