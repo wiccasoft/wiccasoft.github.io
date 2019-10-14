@@ -16,7 +16,6 @@
 https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz agam bizimle eğleniy)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz şakire çay yok)
 https://www.uludagsozluk.com/k/meslek-lisesi-mezunu-birini-ciddiye-almak/ (bkz imam hatipli olduğum için problem yok)
-https://www.uludagsozluk.com/k/ilyas-salman/&w=bg (bkz pkk ya destek veren ateistler)
 https://galeri13.uludagsozluk.com/693/donald-trump_1227763.jpg
 https://www.uludagsozluk.com/k/tc-nin-sivilleri-vurmas%C4%B1/
 https://www.uludagsozluk.com/k/hani-membi%C3%A7-e-sincan-a-giriyorduk/&w=bg
