@@ -16,9 +16,7 @@
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz cemil ipekçi)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sanki sol gözü sağa bakıyo)
 https://www.uludagsozluk.com/k/k%C4%B1r%C4%B1m-i%C5%9Fgalini-tan%C4%B1yan-erdo%C4%9Fan/ (bkz sen de bunu yedin)
-https://www.uludagsozluk.com/k/pamukkale-turizm/&w=bg (bkz hala batmadı mı lan o firma)
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=bg (bkz sen de bunu yedin)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sol kaşı beyazlamış sanki)
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sol kaşı sağa çekiyo sanki)
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz gavat)
 https://www.uludagsozluk.com/k/kad%C4%B1n%C4%B1na-dekolte-giydiren-erkek/ (bkz çocuk mu giydiriyon tırrık)
 https://www.uludagsozluk.com/k/ypg-nin-att%C4%B1%C4%9F%C4%B1-bombay%C4%B1-erdo%C4%9Fan-att%C4%B1-demek/
