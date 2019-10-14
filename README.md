@@ -14,6 +14,7 @@
 <!--- 
 (bkz bir topkek sana bir saray bana)
 (bkz yusuf güneyin çomarlara verdiği ayar)
+https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bunu hangi oç yaptı lan)
 https://www.uludagsozluk.com/k/abd-nin-bar-bar-ba%C4%9F%C4%B1rmas%C4%B1/
 (bkz yine siyaset hikayesimi yazıyosun feridun abi)
 https://www.reddit.com/r/rule34celebs/ hangi oç yaptı lan bunları
