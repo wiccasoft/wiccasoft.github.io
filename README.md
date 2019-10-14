@@ -14,7 +14,7 @@
 <!--- 
 (bkz bir topkek sana bir saray bana)
 https://www.uludagsozluk.com/k/frans%C4%B1z-tv-sinin-asker-selam%C4%B1n%C4%B1-g%C3%B6stermemesi/
-https://www.uludagsozluk.com/k/merih-demiral-kaan-ayhan-kavgas%C4%B1/ (bkz iron vs thor)
+https://www.uludagsozluk.com/k/merih-demiral-kaan-ayhan-kavgas%C4%B1/ (bkz ironman vs thor)
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fine-ev-i%C5%9Flerinde-yard%C4%B1m-eden-koca/&w=bg (bkz muslera)
 https://www.uludagsozluk.com/k/duran-top/&w=bg (bkz burask iyi vurur oralardan gelişine)
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe/&w=bg (bkz pezevenklerin elinden kurtarılan primci kürt)
