@@ -15,6 +15,7 @@
 (bkz bir topkek sana bir saray bana)
 https://twitter.com/dbdevletbahceli/status/1053664343093583872?lang=en
 https://www.uludagsozluk.com/k/neslican-tay/&w=bg (bkz tay gibi kızlar)
+https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-olunan-k%C4%B1z%C4%B1n-bachata-dersi-ald%C4%B1%C4%9F%C4%B1n%C4%B1-%C3%B6%C4%9Frenmek/ (bkz bunu anana sorsana delikanlı)
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz cemil ipekçi)
 https://www.uludagsozluk.com/k/k%C4%B1r%C4%B1m-i%C5%9Fgalini-tan%C4%B1yan-erdo%C4%9Fan/ (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sol kaşı sağa çekiyo sanki)
