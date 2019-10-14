@@ -13,9 +13,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz yav he he)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (nkz mustafa akıncı nın tr yi natodan çıkarma projesi)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz mustafa akıncı nın tr yi natodan çıkarma projesi)
 https://www.uludagsozluk.com/k/meslek-lisesi-mezunu-birini-ciddiye-almak/ (bkz imam hatipli olduğum için problem yok)
-https://www.uludagsozluk.com/k/mustafa-ak%C4%B1nc%C4%B1/&w=bg (bkz pkk ya destek veren kktc li)
 https://www.uludagsozluk.com/k/ilyas-salman/&w=bg (bkz pkk ya destek veren ateistler)
 https://galeri13.uludagsozluk.com/693/donald-trump_1227763.jpg
 https://www.uludagsozluk.com/k/tc-nin-sivilleri-vurmas%C4%B1/
