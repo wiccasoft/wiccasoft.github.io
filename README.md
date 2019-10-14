@@ -14,7 +14,6 @@
 <!--- 
 (bkz bir topkek sana bir saray bana)
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz cemil ipekçi)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sanki sol gözü sağa bakıyo)
 https://www.uludagsozluk.com/k/k%C4%B1r%C4%B1m-i%C5%9Fgalini-tan%C4%B1yan-erdo%C4%9Fan/ (bkz sen de bunu yedin)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sol kaşı sağa çekiyo sanki)
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz gavat)
