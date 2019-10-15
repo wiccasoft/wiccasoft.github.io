@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz şam demedim am dedim am)
+https://www.uludagsozluk.com/k/%C5%9Fam-da-namaz-k%C4%B1lacakken-esed-ile-masaya-oturmak/
 https://www.youtube.com/watch?v=QwnLNvYdr6A
 (bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
