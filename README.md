@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd 
-(bkz kız haklı beyler 15 gündür yıkanmıyordum yıkandım pamba pambuk gibi oldum gel kokla)
+(bkz kız haklı beyler 15 gündür yıkanmıyordum yıkandım pamba pambuk gibi oldum gel kokla kız)
 (bkz şam demedim am dedim am)
 https://www.uludagsozluk.com/k/%C5%9Fam-da-namaz-k%C4%B1lacakken-esed-ile-masaya-oturmak/
 https://www.youtube.com/watch?v=QwnLNvYdr6A
