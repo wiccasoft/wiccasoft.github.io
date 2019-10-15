@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
-(bkz bir topkeke sana bir saray bana)
+(bkz bir topkek sana bir saray bana)
 (bkz hangi oç yaptı lan bunu)
 (bkz ümmet ağliy)
 (bkz bir süt sana bir saray bana)
