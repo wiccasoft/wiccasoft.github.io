@@ -16,6 +16,7 @@
 
 <!---
 (bkz bir kemaliste usulca sokulup ezan okumak)
+https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg (bkz davud incili)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-a-milli-futbol-tak%C4%B1m%C4%B1/&w=bg (bkz arar dururuz izini)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/ 
 (bkz 15 ekim rte geri vitesi)
