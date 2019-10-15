@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
+https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz her türk asker doğar)
 (bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trump-a-eyvallah-etmemesi/ 
