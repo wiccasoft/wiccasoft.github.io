@@ -16,7 +16,7 @@
 
 <!--
 https://www.youtube.com/watch?v=9RCZPHuFbJk gök girsin kızıl çıksın
-turan ülkümüz ola göktengri göktürkü koruya https://www.youtube.com/watch?v=QwnLNvYdr6A
+turan ülkümüz ola göktengri gökkürtü koruya https://www.youtube.com/watch?v=QwnLNvYdr6A
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz her türk asker doğar)
 (bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
