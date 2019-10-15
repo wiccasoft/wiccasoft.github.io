@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--- 
+https://eksisozluk.com/abd-mali-kullanmiyoruz-kampanyasi--5741042?a=popular&p=10 (bkz: ben aslında yoğum)
 https://www.uludagsozluk.com/k/parisi-ka%C3%A7-g%C3%BCnde-al%C4%B1r%C4%B1z-sorunsal%C4%B1/ 
 (bkz parisi harcayacaklar matmazel)
 https://www.uludagsozluk.com/k/ekrem-in-bu-aralar-pek-sesinin-%C3%A7%C4%B1kmamas%C4%B1/ 
