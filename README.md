@@ -15,8 +15,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
-(bkz rte nin allah olma ihtimali)
-(bkz rte nin plewne marşı dinlemesi)
 (bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trump-a-eyvallah-etmemesi/ 
@@ -38,6 +36,7 @@ https://www.uludagsozluk.com/k/yard%C4%B1m-bekleyen-filistinliye-hasiktir-lan-de
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ulan ne garılar var be)
 https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg (bkz davud incili)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-a-milli-futbol-tak%C4%B1m%C4%B1/&w=bg (bkz arar vururuz izini)
+(bkz rte nin allah olma ihtimali)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/ 
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ibbnin süt dağıtması)
 https://www.uludagsozluk.com/k/sevgilisi-d%C3%BCnya-g%C3%BCzellik-krali%C3%A7esi-olan-erkek/&w=bg (bkz imamoğlu)
