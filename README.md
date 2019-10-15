@@ -17,8 +17,7 @@
 <!---
 (bkz rte nin allah olma ihtimali)
 (bkz rte nin plewne marşı dinlemesi)
-https://www.uludagsozluk.com/k/tayyip%C3%A7ileri-%C3%A7%C4%B1ld%C4%B1rtacak-bir-%C5%9Fey-b%C4%B1rak/&w=bg 
-(bkz sen yerinde duuuur karşındaaaa enes baturrrrrrr)
+(bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trump-a-eyvallah-etmemesi/ 
 (bkz rte nin türk intikam tugayını toplaması)
