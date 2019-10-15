@@ -1,4 +1,4 @@
-[![Image](smartdata/isis.png)]( https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ )
+[![Image](smartdata/isis.png)]( https://www.youtube.com/watch?v=bZliovcpusI )
 
 [![Image](smartdata/furyroad.png)]( https://www.youtube.com/watch?v=LlGEagz3tEc )
 
