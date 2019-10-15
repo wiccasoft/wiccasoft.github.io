@@ -16,6 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/
 https://eksisozluk.com/instagram-kullanmayan-kiz--4200557?a=popular (bkz pydli kız)
 https://eksisozluk.com/jennifer-aniston--68352?a=popular (bkz iki gözümün çiçeği negzel de açmış)
 https://www.uludagsozluk.com/k/abd-mal%C4%B1-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz whatsup hariç de lan)
