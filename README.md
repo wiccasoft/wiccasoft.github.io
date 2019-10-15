@@ -17,7 +17,7 @@
 <!---
 (bkz bir kemaliste usulca sokulup ezan okumak)
 https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ 
-(bkz uefanın üstüne cengür ünder atıp kaçmak)
+(bkz uefanın üstüne cengiz ünder atıp kaçmak)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/ 
 (bkz umarsızca süt içip bir çılgınlık yapmak)
 https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg (bkz davud incili)
