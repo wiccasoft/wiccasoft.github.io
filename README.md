@@ -14,17 +14,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--- 
-https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)
-https://www.uludagsozluk.com/k/bah%C3%A7eli-%C3%B6l%C3%BCrse-akp-biter/ (bkz bahcelinin arkasında pentagon var)
-https://www.uludagsozluk.com/k/intihar-edece%C4%9Finiz-ipin-kopmas%C4%B1/ (bkz türk malı ipler)
-https://eksisozluk.com/merih-demiral-icin-en-uygun-lakap--6213473?a=popular (bkz iron man)
-https://eksisozluk.com/dilek-imamoglunun-moda-dergisine-kapak-olmasi--6214010?a=popular (bkz gavat)
-https://eksisozluk.com/abd-mali-kullanmiyoruz-kampanyasi--5741042?a=popular&p=10 (bkz: ben aslında yoğum)
-https://www.uludagsozluk.com/k/parisi-ka%C3%A7-g%C3%BCnde-al%C4%B1r%C4%B1z-sorunsal%C4%B1/ 
-(bkz parisi harcayacaklar matmazel)
-https://www.uludagsozluk.com/k/ekrem-in-bu-aralar-pek-sesinin-%C3%A7%C4%B1kmamas%C4%B1/ 
-(bkz bkz sesin gelmiyo zirvedeyim )-->
+<!---https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
