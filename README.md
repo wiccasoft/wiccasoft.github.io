@@ -16,6 +16,7 @@
 
 <!---
 (bkz hangi oç yaptı lan bunu)
+https://www.uludagsozluk.com/k/abd-ve-rusya-destekli-t%C3%BCrk-k%C3%BCrt-sava%C5%9F%C4%B1/ (bkz yiyin birbirinizi)
 https://eksisozluk.com/merih-demiral-icin-en-uygun-lakap--6213473?a=popular (bkz iron man)
 https://www.uludagsozluk.com/k/matrix-filmindeki-deri-taytl%C4%B1-hatun/
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
