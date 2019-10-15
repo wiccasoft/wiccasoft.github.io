@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
+(bkz ümmüt ağliyo) https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ (bkz ümmüt üğlüuü)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz ümmüt ağliyo) https://www.youtube.com/watch?v=zEvF-2-0LWk
