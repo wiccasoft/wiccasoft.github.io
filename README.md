@@ -17,6 +17,7 @@
 <!---
 (bkz rte nin allah olma ihtimali)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
+(bkz 15 ekim rte nin tür ulusun tengri türkü korusun demesi)
 (bkz 15 ekim yusuf güneyin türkçü katliam tugayını toplaması)
 (bkz 15 ekim killa hakanın türk katliam tugayına katılması)
 (bkz 15 ekim nihat doğanın türk katliam tugayına katılması)
