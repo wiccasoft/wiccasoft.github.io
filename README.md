@@ -15,18 +15,18 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
+(bkz 15 ekim rte geri vitesi)
+(bkz uefanın üstüne cengiz ünder atıp kaçmak)
 (bkz bir kemalistin yanaklarını sıkıp ümmüt türkçü mü öldü imdi ürek yırtılır demek)
 (bkz bir kemalistin yanaklarını sıkıp where is us air forces demek)
 https://www.uludagsozluk.com/k/yard%C4%B1m-bekleyen-filistinliye-hasiktir-lan-demek/ (bkz where is us air force)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ulan ne garılar var be)
 https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ 
-(bkz uefanın üstüne cengiz ünder atıp kaçmak)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/ 
 (bkz umarsızca süt içip bir çılgınlık yapmak)
 https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg (bkz davud incili)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-a-milli-futbol-tak%C4%B1m%C4%B1/&w=bg (bkz arar dururuz izini)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/ 
-(bkz 15 ekim rte geri vitesi)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ibbnin süt dağıtması)
 https://www.uludagsozluk.com/k/sevgilisi-d%C3%BCnya-g%C3%BCzellik-krali%C3%A7esi-olan-erkek/&w=bg (bkz imamoğlu)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz verse sikmezmisin pampa)
@@ -36,10 +36,6 @@ https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz ümmüt ağliyo) https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
-(bkz bir topkek sana bir saray bana)
-(bkz hangi oç yaptı lan bunu)
-(bkz ümmet üğlüyü)
-(bkz bir süt sana bir saray bana)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
