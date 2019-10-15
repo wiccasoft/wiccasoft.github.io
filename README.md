@@ -13,40 +13,12 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!--- 
-(bkz bir topkek sana bir saray bana)
-https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz iron man)
-https://www.uludagsozluk.com/k/t%C3%BCrkler-ma%C3%A7ta-asker-selam%C4%B1-verirse-d%C3%BC%C5%9Fman-oluruz/&w=gd
-https://www.uludagsozluk.com/k/mizah-i%C3%A7in-a%C3%A7%C4%B1lan-ba%C5%9Fl%C4%B1kta-ayar-vermeye-%C3%A7al%C4%B1%C5%9Fmak/
-https://www.uludagsozluk.com/k/hakl%C4%B1-oldu%C4%9Fun-bir-davada-d%C3%BCnya-y%C4%B1-kar%C5%9F%C4%B1na-almak/ 
-(bkz sen yerinde dur karşında enes batur)
-https://www.uludagsozluk.com/k/hamile-e%C5%9Fine-ev-i%C5%9Flerinde-yard%C4%B1m-eden-koca/ (bkz enes batur)
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-barbaros-%C5%9Fansal-a-verdi%C4%9Fi-cevap/ 
-https://eksisozluk.com/asker-selami-veren-futbolcularin-bedelli-yapmasi--6213447?a=popular (bkz zuahahahaha)
-(bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
-(bkz akboyların kullanışlı aptallar olması) 
-https://www.uludagsozluk.com/k/pkk/&w=gd (bkz yav he he)
-Do you remember two years ago when Iraq was going to fight the Kurds in a different part of Syria. Many people wanted us to fight with the Kurds against Iraq, who we just fought for. I said no, and the Kurds left the fight, twice. Now the same thing is happening with Turkey......
-.....The Kurds and Turkey have been fighting for many years. Turkey considers the PKK the worst terrorists of all. Others may want to come in and fight for one side or the other. Let them! We are monitoring the situation closely. Endless Wars!
-(bkz ben saldırıyorum pampa)
-https://www.uludagsozluk.com/k/hillary-clinton/&w=bg (lol)
-https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
-https://www.uludagsozluk.com/k/suriye-ordusunun-kobani-ye-girme-ihtimali/ (bkz lol)
-https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz (bkz dünya sikimize minare götünüze)
-https://www.uludagsozluk.com/k/13-ekim-2019-t%C3%BCrk-ordusu-nun-tel-abyad-a-girmesi/ (bkz hüloğğğğğ)
-https://eksisozluk.com/12-ekim-2019-almanyanin-silah-satisini-durdurmasi--6210599?a=popular (bkz beyler ben saldırıyorum)
-https://eksisozluk.com/12-ekim-2019-fransanin-silah-satisini-durdurmasi--6210939?a=popular  (bkz beyler ben saldırıyorum)
-https://eksisozluk.com/12-ekim-2019-lezgin-botan-tweeti--6210533?a=popular (bkz lezgin botanın çomarlarla imtihanı)
-https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz ben saldırıyorum beyler)
-https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/ (bkz çinlilerin türklere kıçıyla gülmesi)
--->
+<!--- -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
 [![Image](smartdata/nitrogen.png)]( https://www.youtube.com/watch?v=yybYYb1e5PE )
-<!-- https://www.youtube.com/watch?v=QFfEFHaK6qo -->
-<!-- https://twitter.com/CapaMagMagazine/status/1178203827784290304 -->
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi -->
+
 [![Image](smartdata/model.png)]( https://www.youtube.com/watch?v=hFvQqTBFe48)
 
 [![Image](smartdata/release.png)]( https://twitter.com/CapaMagMagazine/status/1178203827784290304 )
