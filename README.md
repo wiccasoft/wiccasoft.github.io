@@ -14,11 +14,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!---
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/ (bkz imamoğlu)
-https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)
-
--->
+<!---https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
