@@ -16,164 +16,22 @@
 <!--- 
 (bkz bir topkek sana bir saray bana)
 https://eksisozluk.com/asker-selami-veren-futbolcularin-bedelli-yapmasi--6213447?a=popular (bkz zuahahahaha)
-https://www.uludagsozluk.com/k/kafede-garsondan-%C5%9Fal-isteyen-erkek/&w=bg (bkz vurduruyordur)
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg (bkz vurduruyordur)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/&w=bg (bkz arkasından kırk köpek havlatan kurt)
-https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/ (bkz fenerbahçeli oyuncu düşmanı kasap)
-https://www.uludagsozluk.com/k/mert-g%C3%BCnok/ (bkz top geçer adam geçmez)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/&w=bg (bkz son führer)
-https://www.uludagsozluk.com/k/k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-un-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ (bkz yav he he)
-https://www.uludagsozluk.com/k/merih-demiral/ (bkz amerikan ambargosunu siklemeyen ironman)
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-barbaros-%C5%9Fansal-a-verdi%C4%9Fi-cevap/ (bkz barbaros paşanın siklemeyeceği bi yavşak daha) https://www.youtube.com/watch?v=tVfyO37ARpQ
-https://www.uludagsozluk.com/k/elektrik-dire%C4%9Fiyle-%C3%B6p%C3%BC%C5%9Fen-adam/ (bkz meanwhile in turkey)
-https://www.uludagsozluk.com/k/t%C3%BCrkler-ma%C3%A7ta-asker-selam%C4%B1-verirse-d%C3%BC%C5%9Fman-oluruz/ (bkz fransızların üstüne cengiz ünderi salmak)
-https://www.uludagsozluk.com/k/s%C3%BCrekli-birini-d%C3%BC%C5%9F%C3%BCnmek/&w=bg (bkz melih demiral)
-https://www.uludagsozluk.com/k/frans%C4%B1z-tv-sinin-asker-selam%C4%B1n%C4%B1-g%C3%B6stermemesi/
-https://www.uludagsozluk.com/k/merih-demiral-kaan-ayhan-kavgas%C4%B1/ (bkz ironman vs thor)
-https://www.uludagsozluk.com/k/hamile-e%C5%9Fine-ev-i%C5%9Flerinde-yard%C4%B1m-eden-koca/&w=bg (bkz muslera)
-https://www.uludagsozluk.com/k/duran-top/&w=bg (bkz burask iyi vurur oralardan gelişine)
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe/&w=bg (bkz pezevenklerin elinden kurtarılan primci kürt)
-https://www.uludagsozluk.com/k/bir-akp-li-ne-zaman-akp-ye-oy-vermez/ (bkz messi ronaldo kavgası bitince)
-https://www.uludagsozluk.com/k/fehmi-mert-g%C3%BCnok/&w=bg (bkz bi dönem aşık olmadığım kaleci manyakmıyım ben)
-https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (bkz fenerbahçe düşmanı)
-https://www.uludagsozluk.com/k/hamile-e%C5%9Fine-ev-i%C5%9Flerinde-yard%C4%B1m-eden-koca/&w=bg (bkz burak yılmaz)
-https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz iron man)
-https://www.youtube.com/watch?v=LlGEagz3tEc bkz ne içirdiniz lan bana
-https://www.uludagsozluk.com/k/devletin-aktrollerin-b%C3%B6breklerini-satmas%C4%B1/
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=bg (bkz ypg ye desteğini çekmiş gibi göster pampa)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz erdoğanın kuklasıymışım gibi çek pampa)
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-izin-istemedi-suriye-ye-girece%C4%9Fini-s%C3%B6yledi/ 
-(bkz izinsiz girmiş gibi yazın pampa)
-https://www.uludagsozluk.com/k/emmanuel-macron/&w=bg (bkz silah vermiyomuşum gibi çek pampa)
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz/&w=bg (bkz pydye yardım etmiyormuşum gibi çek pampa)
-https://www.uludagsozluk.com/k/sokaklar%C4%B1-dola%C5%9F%C4%B1p-hayvanlar%C4%B1-doyuran-adam/ (bkz bi topkek size bi antrikot bana)
-https://www.uludagsozluk.com/k/sar%C4%B1-mercedes-filmindeki-kamyon-%C5%9Fof%C3%B6r%C3%BC/&w=bg (bkz agam bizimle eğleniy)
-https://www.uludagsozluk.com/k/we-are-gay-homosexuals-sorry/ (bkz bi ferrari bana bi gavat sana)
-https://www.uludagsozluk.com/k/t%C3%BCrk-olmakla-%C3%B6v%C3%BCnmek/&w=bg (bkz bi topkek sana bi saray bana)
 (bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
-https://www.youtube.com/watch?v=Vvxa3QjWb6Y
-https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg (bkz bi topkek sanan bi at bana)
-https://www.uludagsozluk.com/k/e%C5%9Fini-grup-sekse-g%C3%B6nderen-%C3%A7a%C4%9Fda%C5%9F-erkek/&w=bg 
-(bkz kukold zhamster zenci yarra izledikten sonra başlık açmak)
-https://www.uludagsozluk.com/k/porno-izlerken-facebooku-kapatmak/ (bkz kukold xhamster zenci yarra )
-https://www.uludagsozluk.com/k/do%C4%9Fum-g%C3%BCn%C3%BCnde-e%C5%9Fine-zenci-erkek-getiren-laik-koca/&w=bg (bkz kukold)
-https://www.uludagsozluk.com/k/anadolu-nun-kap%C4%B1lar%C4%B1n%C4%B1-t%C3%BCrklere-a%C3%A7an-ki%C5%9Fi/&w=bg (bkz gavat)
-https://www.uludagsozluk.com/k/e%C5%9Fini-grup-sekse-g%C3%B6nderen-%C3%A7a%C4%9Fda%C5%9F-erkek/&w=bg (bkz gavat)
-https://www.uludagsozluk.com/k/eski-insanlar%C4%B1n-daha-sa%C4%9Fl%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg 
-(bkz turp gibiyim trumptrump şurup gibiyim şurpşurp)
-https://twitter.com/dbdevletbahceli/status/1053664343093583872?lang=en
-https://www.uludagsozluk.com/k/neslican-tay/&w=bg (bkz tay gibi kızlar)
-https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-olunan-k%C4%B1z%C4%B1n-bachata-dersi-ald%C4%B1%C4%9F%C4%B1n%C4%B1-%C3%B6%C4%9Frenmek/ (bkz bunu anana sorsana delikanlı)
-https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz cemil ipekçi)
-https://www.uludagsozluk.com/k/k%C4%B1r%C4%B1m-i%C5%9Fgalini-tan%C4%B1yan-erdo%C4%9Fan/ (bkz sen de bunu yedin)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz sol kaşı sağa çekiyo sanki)
-https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-erkek/&w=bg (bkz gavat)
-https://www.uludagsozluk.com/k/kad%C4%B1n%C4%B1na-dekolte-giydiren-erkek/ (bkz çocuk mu giydiriyon tırrık)
-https://www.uludagsozluk.com/k/ypg-nin-att%C4%B1%C4%9F%C4%B1-bombay%C4%B1-erdo%C4%9Fan-att%C4%B1-demek/
-https://www.uludagsozluk.com/k/pkk-l%C4%B1lar%C4%B1n-kendilerini-amerikaya-sevdirmesi/ (bkz yav he he)
-https://www.uludagsozluk.com/k/chp-nin-yedinci-oku-k%C3%BCrt%C3%A7%C3%BCl%C3%BCk/&w=bg (bkz yav he he)
-https://www.uludagsozluk.com/k/osman-%C3%B6calan-%C4%B1-trt-ye-%C3%A7%C4%B1karmak/&w=bg (bkz yav he he)
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-g%C3%BCzelli%C4%9Fi/&w=bg 
-(bkz ypglilerin elinden kurtarılan kız güzelliği)
-https://www.uludagsozluk.com/k/chp-li-faik-%C3%B6ztrak-tan-hesap-soran-ypg-li/ (bkz faik öztarrak kim amk)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-son-hali/ (bkz senin yüzüne nolmuş rendroy)
-https://galeri13.uludagsozluk.com/655/devlet-bahceli_1235870.gif
-(bkz yusuf güneyin çomarlara verdiği ayar)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz hala yaşıyo mu bu oç)
-https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bunu hangi oç yaptı lan)
-https://www.uludagsozluk.com/k/abd-nin-bar-bar-ba%C4%9F%C4%B1rmas%C4%B1/
-(bkz yine siyaset hikayesimi yazıyosun feridun abi)
-https://www.reddit.com/r/rule34celebs/ hangi oç yaptı lan bunları
-(bkz mustafa desticinin kuracağı partiye isim önerileri)
-(bkz bordo klavyelilerin mgk yı toplaması)
-https://www.uludagsozluk.com/k/13-ekim-2019-suriye-nin-kar%C5%9F%C4%B1-sald%C4%B1r%C4%B1-harekat%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (
-bkz üç boyutlu düşünülüp 4 boyutlu irdelenmesi gereken konular)
-https://www.uludagsozluk.com/k/mustafa-ak%C4%B1nc%C4%B1/&w=bg (bkz numan kurtulmuşun akıncıya verdiği ayar)
-https://www.uludagsozluk.com/k/chp-ile-pkk-aras%C4%B1nda-ki-ba%C4%9Flant%C4%B1/ (bkz chpkk)
-https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular (bkz agam bizimle eğleniy)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-nato-dan-%C3%A7%C4%B1kar%C4%B1lma-ihtimali/ (bkz şakire çay yok)
-https://www.uludagsozluk.com/k/meslek-lisesi-mezunu-birini-ciddiye-almak/ (bkz imam hatipli olduğum için problem yok)
-https://www.uludagsozluk.com/k/birlikte-g%C3%B6ky%C3%BCz%C3%BC-izlenen-k%C4%B1z%C4%B1n-elini-tutmas%C4%B1/ 
-https://galeri13.uludagsozluk.com/693/donald-trump_1227763.jpg
-https://www.uludagsozluk.com/k/tc-nin-sivilleri-vurmas%C4%B1/
-https://www.uludagsozluk.com/k/hani-membi%C3%A7-e-sincan-a-giriyorduk/&w=bg
-https://eksisozluk.com/saka-maka-erdoganin-pkkyi-bitirmesi--6211739?a=popular
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-bir-ambargoluk-can%C4%B1-olmas%C4%B1/
-https://www.uludagsozluk.com/k/tsk-n%C4%B1n-c%C3%BCc%C3%BCk-gibi-da%C4%9F%C4%B1tt%C4%B1%C4%9F%C4%B1-ypg-liler/&w=gd
-https://www.uludagsozluk.com/k/turkcell/&w=bg (bkz bir kürt gerilla olarak kullanmadığım cell)
-https://www.uludagsozluk.com/k/enes-batur-un-arkada%C5%9Flar%C4%B1na-iphone-11-almas%C4%B1/ (bkz enes abi anamı sik)
-https://eksisozluk.com/ypgli-teroristlerin-hazin-sonu--6211712?a=popular (bkz yav he he)
-https://eksisozluk.com/13-ekim-2019-suriye-ordusunun-kuzeye-donusu--6211902?a=popular&p=9 
-https://www.independentturkish.com/node/24566/d%C3%BCnyadan-sesler/rusya-t%C3%BCrkiye%E2%80%99deki-bilgi-sava%C5%9F%C4%B1n%C4%B1-kazand%C4%B1
 (bkz akboyların kullanışlı aptallar olması) 
 https://www.uludagsozluk.com/k/pkk/&w=gd (bkz yav he he)
 Do you remember two years ago when Iraq was going to fight the Kurds in a different part of Syria. Many people wanted us to fight with the Kurds against Iraq, who we just fought for. I said no, and the Kurds left the fight, twice. Now the same thing is happening with Turkey......
 .....The Kurds and Turkey have been fighting for many years. Turkey considers the PKK the worst terrorists of all. Others may want to come in and fight for one side or the other. Let them! We are monitoring the situation closely. Endless Wars!
 (bkz ben saldırıyorum pampa)
 https://www.uludagsozluk.com/k/hillary-clinton/&w=bg (lol)
-https://www.uludagsozluk.com/k/h%C3%BCsn%C3%BC-mahalli/&w=bg (bkz kırmızı bültenle aranan admaın tweeter kullanması)
-https://www.youtube.com/watch?v=SxIac4HkFl0 (bkz an itibariyle rte)
-https://www.youtube.com/watch?v=aZjXLxPCDvw
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=gd (bkz wallah ararın 155 i)
 https://www.uludagsozluk.com/k/suriye-ordusunun-kobani-ye-girme-ihtimali/ (bkz lol)
 https://eksisozluk.com/suriye-milli-ordusu--6204331?a=popubkz (bkz dünya sikimize minare götünüze)
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-kazan%C4%B1nca-k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-rahat-etmesi/  (bkz abkboylar)
-https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/  (bkz abkboylar)
-https://www.uludagsozluk.com/k/amcao%C4%9Flumun-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-tiwiti-atmamas%C4%B1/
-https://www.uludagsozluk.com/k/yemek-verilen-ter%C3%B6ristler/ (bkz sen de bunu yedin)
-https://www.uludagsozluk.com/k/fet%C3%B6-pkk-pyd-dae%C5%9F-topunuz-gelin/&w=bg
-https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-bar%C4%B1%C5%9F-istiyorum-a%C3%A7%C4%B1klamas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/mo%C4%9Folistan-%C4%B1n-sinsi-gibi-hi%C3%A7bir-olaya-kar%C4%B1%C5%9Fmamas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/avrupa-birli%C4%9Fi-%C3%BClkelerinin-bir-t%C3%BCrkiye-etmemesi/(bkz ben saldırıyorum pampa)
-https://www.uludagsozluk.com/k/t%C3%BCrk-ordusunun-asilli%C4%9Fi/&w=bg (bkz bi topkek sana bi saray bana)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-teke-tek-sava%C5%9Fta-koyabilece%C4%9Fi-%C3%BClkeler/&w=bg 
-https://www.uludagsozluk.com/k/rusyay%C4%B1-g%C3%BC%C3%A7l%C3%BC-zanneden-cahil/&w=bg (bkz ben saldırıyorum pampa)
-https://eksisozluk.com/butun-dunyanin-turkiyeden-ne-istiyor-olmasi--6211093 (bkz bütün dünyayı kıskandıran ülke olmak)
-https://eksisozluk.com/turkleri-hic-kimsenin-sevmemesi--4781586 (bkz semih cumhuriyeti)
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=gd (bkz ben saldırıyorum pampa)
-https://www.uludagsozluk.com/k/filistin/&w=bg (bkz uzun adamın gazabına uğrayan iç mihraklar)
-https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/
 https://www.uludagsozluk.com/k/13-ekim-2019-t%C3%BCrk-ordusu-nun-tel-abyad-a-girmesi/ (bkz hüloğğğğğ)
 https://eksisozluk.com/12-ekim-2019-almanyanin-silah-satisini-durdurmasi--6210599?a=popular (bkz beyler ben saldırıyorum)
 https://eksisozluk.com/12-ekim-2019-fransanin-silah-satisini-durdurmasi--6210939?a=popular  (bkz beyler ben saldırıyorum)
-https://www.uludagsozluk.com/k/halklar%C4%B1n-demokratik-partisi/&w=bg (bkz yav he he retweet et geç)
-https://eksisozluk.com/greta-thunbergin-pkkya-destek-vermesi--6211065?a=popular (bkz yav he he kürdo de geç)
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg (bkz yav he he retweet et geç)
-https://eksisozluk.com/cia-ve-nsa-operasyonu-destekleyenleri-fisliyor--6211256?a=popular (bkz yav he he retweet et geç)
-https://eksisozluk.com/12-ekim-2019-lezgin-botan-tweeti--6210533?a=popular (bkz yav he he retweet et geç)
-https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz yav he he retweet et geç)
-https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu-nun-chpliye-verdi%C4%9Fi-ayar/&w=bg (bkz yav he he)
-https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg (bkz yav he he tamam apisteyim)
-https://eksisozluk.com/thynin-ilk-turbanli-pilotu--6211222?a=popular(bkz peçete artığı amk şaka lana şaka tıklamadım)
-https://www.uludagsozluk.com/k/ypg-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-de%C4%9Fildir/&w=bg (bkz zalın paralı ak itleri)
-(bkz türkiyeyi 3 eyalete böleceğim 1.batı (laikçiler bölgesi) 2.orta(müslüman tampon bölge) 3.kürdistan eyaleti)
-bence güzel olur daha sonra iş akışını detaylı paylaşırım genşler. bayrağı da sarı pembe yeşil üç yatay çizgi yaparız ortaya bi geyik kafası düşündüm ismi de anadolu federe birliği olur diye düşündüm çok şık olur olur olur bu iş.
-https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-k%C3%BCrtlerin-ger%C3%A7ek-y%C3%BCz%C3%BCn%C3%BC-g%C3%B6rmeye-ba%C5%9Flamas%C4%B1/ (bkz ben saldırıyorum beyler)
-https://www.uludagsozluk.com/k/15-ya%C5%9F%C4%B1nda-%C3%B6nemli-olan-i%C3%A7-g%C3%BCzellik-diyen-k%C4%B1z/(bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/mabel-matiz-dinleyip-kendini-jiletleyen-erkek/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/sen-parf%C3%BCm-ben-lastik-kokar%C4%B1m-genco-diyen-k%C4%B1z/&w=bg  (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/erkek-arkada%C5%9F%C4%B1n-ailenin-yan%C4%B1nda-hakaret-etmesi/&w=bg (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/sen-parf%C3%BCm-ben-lastik-kokar%C4%B1m-genco-diyen-k%C4%B1z/&w=bg (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz inanma seni sikecek pampa)
-https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/  (bkz beyler ben saldırıyorum )
-https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/12/ (bkz beyler ben saldırıyorum )
-https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1na-bi-geliyim-d%C3%BCnyay%C4%B1-fethedece%C4%9Fim/ (bkz yine seks hikayesi mi yazıyosun feridun abi)
 https://eksisozluk.com/12-ekim-2019-lezgin-botan-tweeti--6210533?a=popular (bkz lezgin botanın çomarlarla imtihanı)
-https://www.uludagsozluk.com/k/sevi%C5%9Fmesini-bilmeyen-k%C4%B1za-sevi%C5%9Fmeyi-%C3%B6%C4%9Fretmek/&w=bg (bkz yine seks hikayesi mi yazıyosun feridun abi)
-https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/ (bkz ben saldırıyorum beyler)
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/&w=bg (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/ (bkz çinlilerin türklere kıçıyla gülmesi)
-https://eksisozluk.com/mustafa-akincinin-baris-pinari-aciklamasi--6211066?a=popular (bkz beyler ben saldırıyorum siz arkadan dolaşın bordo klavyeyle kafasına vurarsınız)
-https://eksisozluk.com/greta-thunbergin-pkkya-destek-vermesi--6211065?a=popular (bkz beyler ben saldırıyorum)
-https://www.uludagsozluk.com/k/%C3%B6so/&w=bg (bkz beyler ben saldırıyorum )
-https://www.uludagsozluk.com/k/%C3%BClkemiz-i%C3%A7in-twitterda-sosyal-medya-deste%C4%9Fi/ (bkz beyler ben saldırıyorum)
-https://www.uludagsozluk.com/k/pkk-yanl%C4%B1s%C4%B1-sosyal-medya-hesaplar%C4%B1/ (bkz beyler ben saldırıyorum)
-https://www.uludagsozluk.com/k/instagram-kullanmayan-k%C4%B1z/&w=bg (bkz beyler ben saldırıyorum)
 -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
