@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--- 
 (bkz bir topkek sana bir saray bana)
+https://www.uludagsozluk.com/k/mizah-i%C3%A7in-a%C3%A7%C4%B1lan-ba%C5%9Fl%C4%B1kta-ayar-vermeye-%C3%A7al%C4%B1%C5%9Fmak/
 https://www.uludagsozluk.com/k/hakl%C4%B1-oldu%C4%9Fun-bir-davada-d%C3%BCnya-y%C4%B1-kar%C5%9F%C4%B1na-almak/ 
 (bkz sen yerinde dur karşında enes batur)
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fine-ev-i%C5%9Flerinde-yard%C4%B1m-eden-koca/ (bkz enes batur)
