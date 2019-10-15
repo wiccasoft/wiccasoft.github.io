@@ -26,14 +26,12 @@ https://eksisozluk.com/recep-tayyip-erdoganin-turanci-olmasi--6214026?a=popular 
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
 (bkz bir kemalistin yanaklarını sıkıp ümmüt türkçü mü öldü imdi ürek yırtılır demek)
 (bkz bir kemalistin yanaklarını sıkıp where is us air forces demek)
+https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ 
 (bkz uefanın üstüne cengiz ünder atıp kaçmak)
 https://www.uludagsozluk.com/k/yard%C4%B1m-bekleyen-filistinliye-hasiktir-lan-demek/ (bkz where is us air force)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ulan ne garılar var be)
-https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ 
-https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/ 
-(bkz umarsızca süt içip bir çılgınlık yapmak)
 https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg (bkz davud incili)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-a-milli-futbol-tak%C4%B1m%C4%B1/&w=bg (bkz arar dururuz izini)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-a-milli-futbol-tak%C4%B1m%C4%B1/&w=bg (bkz arar vururuz izini)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/ 
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ibbnin süt dağıtması)
 https://www.uludagsozluk.com/k/sevgilisi-d%C3%BCnya-g%C3%BCzellik-krali%C3%A7esi-olan-erkek/&w=bg (bkz imamoğlu)
