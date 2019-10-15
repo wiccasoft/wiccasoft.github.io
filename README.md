@@ -16,6 +16,7 @@
 
 <!---
 (bkz bir kemaliste usulca sokulup ezan okumak)
+https://www.uludagsozluk.com/k/sevgilisi-d%C3%BCnya-g%C3%BCzellik-krali%C3%A7esi-olan-erkek/&w=bg (bkz imamoğlu)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz verse sikmezmisin pampa)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/
 (bkz ümmüt üğlüyü) https://www.youtube.com/watch?v=zEvF-2-0LWk
