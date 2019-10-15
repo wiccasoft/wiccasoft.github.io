@@ -13,7 +13,7 @@
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!--- https://www.uludagsozluk.com/k/ekrem-in-bu-aralar-pek-sesinin-%C3%A7%C4%B1kmamas%C4%B1/ (bkz bkz sesin gelmiyo zirvedeyim bkz ebru polat sen misin)-->
+<!--- https://www.uludagsozluk.com/k/ekrem-in-bu-aralar-pek-sesinin-%C3%A7%C4%B1kmamas%C4%B1/ (bkz bkz sesin gelmiyo zirvedeyim )-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
