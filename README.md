@@ -16,7 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
-(bkz mustafa akıncı nın oluk oluk kan akacak daha yeni başlıyoruz demesi)
+(bkz mustafa akıncı nın oluk oluk türkçü kanı akacak daha yeni başlıyoruz demesi)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ (bkz rte nin jenniferı takibe alması)
 https://www.uludagsozluk.com/k/czn-burak/ (bkz instagramda yunanistan nüfusu kadar takipçisi olan dürümcü)
 https://eksisozluk.com/instagram-kullanmayan-kiz--4200557?a=popular (bkz angelina jolie)
