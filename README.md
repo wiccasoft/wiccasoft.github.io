@@ -15,14 +15,14 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
-(bkz ümmüt ağliyo) https://www.youtube.com/watch?v=zEvF-2-0LWk
+(bkz ümmüt üğlüyü) https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ (bkz ümmüt üğlüuü)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz ümmüt ağliyo) https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
 (bkz bir topkek sana bir saray bana)
 (bkz hangi oç yaptı lan bunu)
-(bkz ümmet ağliy)
+(bkz ümmet üğlüyü)
 (bkz bir süt sana bir saray bana)
 https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz ağlamayana köfte yok)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/
