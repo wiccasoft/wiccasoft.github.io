@@ -16,7 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
-(bkz köpe soyu turancıları kazığa oturtup işkence etmek)
+(bkz köpek soyu turancıları kazığa oturtup kanklarını köpeklere içirmek)
 https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz ne boka yaradığı belli olmayan türkçü faşo)
 (bkz cengiz hanın türklerin kafataslarından saray yaptıracam demesi)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ (bkz rte nin jenniferı takibe alması)
