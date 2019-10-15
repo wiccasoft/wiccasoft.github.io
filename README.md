@@ -18,7 +18,7 @@
 (bkz rte nin allah olma ihtimali)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
 (bkz 15 ekim rte geri vitesi)
-(bkz 15 ekim killa hakanı türk katliam tugayına katılması)
+(bkz 15 ekim killa hakanın türk katliam tugayına katılması)
 (bkz ümmüt üğlüüğü)
 (bkz uefanın üstüne cengiz ünder atıp kaçmak)
 (bkz bir kemalistin yanaklarını sıkıp ümmüt türkçü mü öldü imdi ürek yırtılır demek)
