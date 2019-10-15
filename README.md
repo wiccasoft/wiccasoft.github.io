@@ -16,6 +16,8 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trump-a-eyvallah-etmemesi/ 
+(bkz rte nin türk intikam tugayını toplaması)
 (bkz turancıları kazığa oturtup kanlarını köpeklere içirmek)
 https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz ne boka yaradığı belli olmayan türkçü faşo)
 (bkz cengiz hanın türklerin kafataslarından saray yaptıracam demesi)
