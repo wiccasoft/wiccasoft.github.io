@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--- 
-https://www.uludagsozluk.com/k/bah%C3%A7eli-%C3%B6l%C3%BCrse-akp-biter/ (bkz bahcelinni arkasında pentagon var)
+https://www.uludagsozluk.com/k/bah%C3%A7eli-%C3%B6l%C3%BCrse-akp-biter/ (bkz bahcelinin arkasında pentagon var)
 https://www.uludagsozluk.com/k/intihar-edece%C4%9Finiz-ipin-kopmas%C4%B1/ (bkz türk malı ipler)
 https://eksisozluk.com/merih-demiral-icin-en-uygun-lakap--6213473?a=popular (bkz iron man)
 https://eksisozluk.com/dilek-imamoglunun-moda-dergisine-kapak-olmasi--6214010?a=popular (bkz gavat)
