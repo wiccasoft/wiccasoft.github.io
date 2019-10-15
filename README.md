@@ -16,6 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz ne bok yaradığı belli olmayan türkçü faşo)
 (bkz cengiz hanın türklerin kafataslarından saray yaptıracam demesi)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ (bkz rte nin jenniferı takibe alması)
 https://www.uludagsozluk.com/k/czn-burak/ (bkz instagramda yunanistan nüfusu kadar takipçisi olan dürümcü)
