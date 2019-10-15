@@ -18,12 +18,10 @@
 (bkz rte nin allah olma ihtimali)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
 (bkz 15 ekim rte nin türler ulusun tengri türkçüyü korusun demesi)
-(bkz 15 ekim nihat doğanın türkçü katliam tugayına katılması)
-(bkz 15 ekim ali şanın türkçü katliam tugayına katılması)
-(bkz ümmüt üğlüüğü)
-(bkz uefanın üstüne cengiz ünder atıp kaçmak)
+(bkz 15 ekim nihat doğan la alişan ın türkçü katliam tugayına katılması)
 (bkz bir kemalistin yanaklarını sıkıp ümmüt türkçü mü öldü imdi ürek yırtılır demek)
 (bkz bir kemalistin yanaklarını sıkıp where is us air forces demek)
+(bkz uefanın üstüne cengiz ünder atıp kaçmak)
 https://www.uludagsozluk.com/k/yard%C4%B1m-bekleyen-filistinliye-hasiktir-lan-demek/ (bkz where is us air force)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ulan ne garılar var be)
 https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ 
