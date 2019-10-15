@@ -16,7 +16,7 @@
 <!--- 
 (bkz bir topkek sana bir saray bana)
 https://www.uludagsozluk.com/k/hakl%C4%B1-oldu%C4%9Fun-bir-davada-d%C3%BCnya-y%C4%B1-kar%C5%9F%C4%B1na-almak/ 
-(bkz sen yerinde dur karşında enes baturr)
+(bkz sen yerinde dur karşında enes batur)
 https://www.uludagsozluk.com/k/hamile-e%C5%9Fine-ev-i%C5%9Flerinde-yard%C4%B1m-eden-koca/ (bkz enes batur)
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-barbaros-%C5%9Fansal-a-verdi%C4%9Fi-cevap/ 
 https://eksisozluk.com/asker-selami-veren-futbolcularin-bedelli-yapmasi--6213447?a=popular (bkz zuahahahaha)
