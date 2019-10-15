@@ -16,7 +16,7 @@
 
 <!--- 
 https://www.uludagsozluk.com/k/erkeklerin-g%C3%B6t%C3%BCn%C3%BC-parmaklad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg (bkz her yaptığını internete yazan adam)
-https://www.uludagsozluk.com/k/soda-%C5%9Fi%C5%9Fesiyle-fantezi-yapan-talihsiz-adam/&w=bg (bkz soda götüyle soda şişesi açabilen adam)
+https://www.uludagsozluk.com/k/soda-%C5%9Fi%C5%9Fesiyle-fantezi-yapan-talihsiz-adam/&w=bg (bkz götüyle soda şişesi açabilen adam)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)
 https://www.uludagsozluk.com/k/bah%C3%A7eli-%C3%B6l%C3%BCrse-akp-biter/ (bkz bahcelinin arkasında pentagon var)
 https://www.uludagsozluk.com/k/intihar-edece%C4%9Finiz-ipin-kopmas%C4%B1/ (bkz türk malı ipler)
