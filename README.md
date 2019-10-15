@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd 
-(bkz kız haklı 15 gün oldu şimdi yıkandım pamba pambuk gibi oldum)
+(bkz kız haklı beyler 15 gün oldu şimdi yıkandım pamba pambuk gibi oldum)
 (bkz şam demedim am dedim am)
 https://www.uludagsozluk.com/k/%C5%9Fam-da-namaz-k%C4%B1lacakken-esed-ile-masaya-oturmak/
 https://www.youtube.com/watch?v=QwnLNvYdr6A
