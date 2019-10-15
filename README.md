@@ -16,7 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
-https://www.uludagsozluk.com/k/czn-burak/ (bkz instagram da yunanistan nüfusu kadar takipçisi olan dürümcü)
+https://www.uludagsozluk.com/k/czn-burak/ (bkz instagramda yunanistan nüfusu kadar takipçisi olan dürümcü)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ 
 https://eksisozluk.com/instagram-kullanmayan-kiz--4200557?a=popular (bkz pyd li kız)
 https://eksisozluk.com/jennifer-aniston--68352?a=popular (bkz gel gel panayır var)
