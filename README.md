@@ -18,9 +18,7 @@
 (bkz rte nin allah olma ihtimali)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trump-a-eyvallah-etmemesi/ 
 (bkz rte nin türk intikam tugayını toplaması)
-(bkz turancıları kazığa oturtup kanlarını köpeklere içirmek)
-https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz ne boka yaradığı belli olmayan türkçü faşo)
-(bkz cengiz hanın türklerin kafataslarından saray yaptıracam demesi)
+(bkz antiturancıları kazığa oturtup kanlarını köpeklere içirmek)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ (bkz rte nin jenniferı takibe alması)
 https://www.uludagsozluk.com/k/czn-burak/ (bkz instagramda yunanistan nüfusu kadar takipçisi olan dürümcü)
 https://eksisozluk.com/instagram-kullanmayan-kiz--4200557?a=popular (bkz angelina jolie)
