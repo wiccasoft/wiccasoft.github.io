@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
-(bkz bir kemaliste usulca sokulup ezan okumak)
+(bkz bir kemaliste usulca sokulup us air forces diye bağırmak)
 https://www.uludagsozluk.com/k/yard%C4%B1m-bekleyen-filistinliye-hasiktir-lan-demek/ (bkz where is us air force)
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz ulan ne garılar var be)
 https://www.uludagsozluk.com/k/uefa-n%C4%B1n-asker-selam%C4%B1na-soru%C5%9Fturma-ba%C5%9Flatmas%C4%B1/ 
