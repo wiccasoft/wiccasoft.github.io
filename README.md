@@ -15,8 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.youtube.com/watch?v=9RCZPHuFbJk tengri gökkürtleri korusun
-turan ülkümüz ola göktengri gökkürtü koruya https://www.youtube.com/watch?v=QwnLNvYdr6A
+https://www.youtube.com/watch?v=9RCZPHuFbJk gök girsin kürtler çıksın
+turan ülkümüz ola göktengri göktürkü koruya https://www.youtube.com/watch?v=QwnLNvYdr6A
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz her türk asker doğar)
 (bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
