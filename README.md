@@ -16,8 +16,6 @@
 
 <!--
 turan ülkümüz ola göktengri türkü koruya https://www.youtube.com/watch?v=QwnLNvYdr6A
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg (bkz türk düşmanı kürt)
-https://eksisozluk.com/merih-demiral-icin-en-uygun-lakap--6213473?a=popular (bkz iron man)
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz her türk asker doğar)
 (bkz sen yerinde duuuur karşındaaaa turancı baturrrrrrr)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
