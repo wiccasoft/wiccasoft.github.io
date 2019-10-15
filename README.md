@@ -15,8 +15,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!---
-https://eksisozluk.com/kofteci-yusuf--1918384?a=popular (bkz imamaoğlu köfte vs erogan köfte)
-https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu-nun-dergi-kapa%C4%9F%C4%B1-olmas%C4%B1/ (bkz gavat)
 (bkz ümmüt ağliyo) https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
 (bkz bir topkek sana bir saray bana)
