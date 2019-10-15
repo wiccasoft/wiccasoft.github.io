@@ -37,7 +37,6 @@ https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C
 (bkz hangi oç yaptı lan bunu)
 (bkz ümmet üğlüyü)
 (bkz bir süt sana bir saray bana)
-https://www.youtube.com/watch?v=-AdnJiuDGVU (bkz ağlamayana köfte yok)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
