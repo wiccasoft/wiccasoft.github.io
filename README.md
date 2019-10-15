@@ -16,6 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+(bkz rte nin ulusun korkma nasıl turancıları boğar yeminin etmesi)
 https://eksisozluk.com/rusyanin-ekim-2019-kazigi--6214312?a=popular (bkz yav he he)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trump-a-eyvallah-etmemesi/ 
 (bkz rte nin türk intikam tugayını toplaması)
