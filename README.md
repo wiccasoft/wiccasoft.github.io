@@ -20,6 +20,7 @@ https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C
 (bkz 15 ekim yusuf güneyin türkçü katliam tugayını toplaması)
 (bkz 15 ekim killa hakanın türk katliam tugayına katılması)
 (bkz 15 ekim nihat doğanın türk katliam tugayına katılması)
+(bkz 15 ekim ali şanın türk katliam tugayına katılması)
 (bkz ümmüt üğlüüğü)
 (bkz uefanın üstüne cengiz ünder atıp kaçmak)
 (bkz bir kemalistin yanaklarını sıkıp ümmüt türkçü mü öldü imdi ürek yırtılır demek)
