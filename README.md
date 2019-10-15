@@ -46,6 +46,7 @@ https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/ (
 https://www.uludagsozluk.com/k/abd-ve-rusya-destekli-t%C3%BCrk-k%C3%BCrt-sava%C5%9F%C4%B1/ (bkz yiyin birbirinizi)
 https://eksisozluk.com/merih-demiral-icin-en-uygun-lakap--6213473?a=popular (bkz iron man)
 https://www.uludagsozluk.com/k/matrix-filmindeki-deri-taytl%C4%B1-hatun/
+(bkz hangi oç yaptı lan bunu)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
