@@ -16,6 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+https://www.uludagsozluk.com/k/czn-burak/ (bkz instagram da 10 milyon takipçisiz olan dürümcü)
 https://eksisozluk.com/kofteci-yusuf--1918384?a=popular (bkz instagram da köfteci yusufu takipe almak)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ 
 https://eksisozluk.com/instagram-kullanmayan-kiz--4200557?a=popular (bkz pyd li kız)
