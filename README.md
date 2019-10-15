@@ -16,6 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+https://eksisozluk.com/jennifer-aniston--68352?a=popular (bkz iki gözümün çiçeği negzel de açmış)
 https://www.uludagsozluk.com/k/abd-mal%C4%B1-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz whatsup hariç de lan)
 https://eksisozluk.com/whatsappa-girdigi-halde-mesaji-acmayan-insan--6214399?a=popular (bkz ümmütçüler)
 https://eksisozluk.com/recep-tayyip-erdoganin-turanci-olmasi--6214026?a=popular (bkz rtenün ümmütçüleri kandırıklaması)
