@@ -19,7 +19,7 @@
 https://www.uludagsozluk.com/k/czn-burak/ (bkz instagram da yunanistan nüfusu kadar takipçisi olan dürümcü)
 https://www.uludagsozluk.com/k/ne-demek-instagram-kullanm%C4%B1yorsun/ 
 https://eksisozluk.com/instagram-kullanmayan-kiz--4200557?a=popular (bkz pyd li kız)
-https://eksisozluk.com/jennifer-aniston--68352?a=popular (bkz iki gözümün çiçeği negzel de açmış)
+https://eksisozluk.com/jennifer-aniston--68352?a=popular (bkz gel gel panayır var)
 https://www.uludagsozluk.com/k/abd-mal%C4%B1-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz whatsup hariç de lan)
 https://eksisozluk.com/whatsappa-girdigi-halde-mesaji-acmayan-insan--6214399?a=popular (bkz ümmütçüler)
 https://eksisozluk.com/recep-tayyip-erdoganin-turanci-olmasi--6214026?a=popular (bkz rtenün ümmütçüleri kandırıklaması)
