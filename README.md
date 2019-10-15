@@ -16,6 +16,7 @@
 
 <!---
 (bkz rte nin allah olma ihtimali)
+https://www.uludagsozluk.com/k/abd-mal%C4%B1-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz whatsup hariç de lan)
 https://eksisozluk.com/whatsappa-girdigi-halde-mesaji-acmayan-insan--6214399?a=popular (bkz ümmütçüler)
 https://eksisozluk.com/recep-tayyip-erdoganin-turanci-olmasi--6214026?a=popular (bkz rtenün ümmütçüleri kandırıklaması)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/
