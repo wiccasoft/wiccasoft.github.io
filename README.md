@@ -18,7 +18,7 @@
 https://www.uludagsozluk.com/k/kokan-erkek/&w=bg (bkz gay taş fırın ustası)
 https://www.uludagsozluk.com/k/ta%C5%9F-f%C4%B1r%C4%B1n-erke%C4%9Fi/2/ (bkz gay taşfırın ustası)
 https://www.uludagsozluk.com/k/kafede-%C3%BC%C5%9F%C3%BCy%C3%BCp-%C5%9Fal-isteyen-erkek/
-(bkz kızlar ay bize erkek mi yok başka cafeye gidelim)
+(bkz kızlar ay bize erkek mi yok ayol başka cafeye gidelim)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg 
 (bkz bir de pasif ergen rica edeyim paketleyin evde hoplatacam)
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-seksi-oldu%C4%9Fu-an/&w=bg 
