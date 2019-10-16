@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/mehmet-pi%C5%9Fkin/&w=bg (bkz steve jobsun suriyede yaşadığı söylentileri)
 https://www.uludagsozluk.com/k/ayn%C4%B1-telefonu-4-sene-kullanan-insan/&w=bg (bkz rte)
 (bkz ümmüt üğlüüü)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/&w=gd 
