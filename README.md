@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-biri-dm-at%C4%B1nca-kendi-reklam%C4%B1-i%C3%A7in-if%C5%9Fa-etmek/ (bkz murat cemcir)
 https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkz x mate kullanamayacak olan fakirler)
 https://www.uludagsozluk.com/k/ayn%C4%B1-telefonu-4-sene-kullanan-insan/&w=bg (bkz ağır fakir hareketleri)
 https://eksisozluk.com/16-ekim-2019-suriye-ordusunun-kobaniye-girmesi--6215467?a=popular (bkz esedle masaya oturmam derken masa üstüne oturtulmak)
