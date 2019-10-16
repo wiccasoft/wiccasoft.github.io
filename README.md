@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg (bkz instada kızlara yürüyen ünlüler)
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg (bkz instada kızlara dm atan ünlüler)
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg (bkz instagram dan her kıza yürüyen lider)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-biri-dm-at%C4%B1nca-kendi-reklam%C4%B1-i%C3%A7in-if%C5%9Fa-etmek/ (bkz murat cemcir)
 https://www.uludagsozluk.com/k/murat-cemcir-in-her-k%C4%B1za-as%C4%B1lmas%C4%B1/ 
