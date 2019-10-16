@@ -20,6 +20,7 @@ https://www.uludagsozluk.com/k/romantik-insanlar%C4%B1n-hep-kaybetmesi/ (bkz meh
 https://www.uludagsozluk.com/k/mehmet-pi%C5%9Fkin/&w=bg (bkz steve jobsun suriyede yaşadığı söylentileri)
 https://www.uludagsozluk.com/k/ayn%C4%B1-telefonu-4-sene-kullanan-insan/&w=bg (bkz rte)
 (bkz ümmüt üğlüüü)
+https://eksisozluk.com/metin-feyzioglunun-dini-nikahta-sahitlik-yapmasi--6215364?a=popular (bkz haberim yokmuş gibi kıy nihahı pampa)
 https://www.uludagsozluk.com/k/rte-nin-%C3%BCmmet%C3%A7ilikten-t%C3%BCrk%C3%A7%C3%BCl%C3%BC%C4%9Fe-ge%C3%A7i%C5%9Fi/&w=gd 
 https://eksisozluk.com/kim-jong-unun-at-ustundeki-fotografi--6215256?a=popular (bkz haberim yokmuş gibi çek kanka)
 https://eksisozluk.com/esinin-sevgilisi-tarafindan-oldurulen-koca--6215343?a=popular (bkz şapşik ya)
