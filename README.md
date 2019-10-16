@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/a%C5%9F%C4%B1r%C4%B1-zay%C4%B1f-k%C4%B1zlar/&w=bg (bkz cips yemekten memeleri sütyen isteteyen erkek)
+https://www.uludagsozluk.com/k/a%C5%9F%C4%B1r%C4%B1-zay%C4%B1f-k%C4%B1zlar/&w=bg (bkz cips yemekten memeleri sütyen isteteyen erkek zayıf kız ilişkisi)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg 
 (bkz bir de pasif ergen rica edeyim paketleyin evde hoplatacam)
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-seksi-oldu%C4%9Fu-an/&w=bg 
