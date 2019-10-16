@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7
 (bkz bi de ılık götlü ergen rica edeyim paketleyin evde sikerim)
 https://www.uludagsozluk.com/k/solcular%C4%B1n-dayak-yerken-vurma-abi-demesi/ 
 (bkz ılık götlülerin yine götünün kaşınması)
-bkz 41 yaşındaki yazılımcı kaslı erkek 27 yaşındaki cips yiyen ulucu oğlan birlikteliği
+bkz 41 yaşındaki alpha yazılımcı kaslı erkek 27 yaşındaki cips yiyen beta ulucu oğlan birlikteliği
 (bkz 41 yaşındaki yazılımcı erkeğin ulucu oğlanı duvardan duvara sikmesiyle başlayacak süreç)
 https://www.uludagsozluk.com/k/27-ya%C5%9F%C4%B1ndaki-erkek-19-ya%C5%9F%C4%B1ndaki-k%C4%B1z-ili%C5%9Fkisi/&w=bg 
 (bkz altıneşerincisiker)
