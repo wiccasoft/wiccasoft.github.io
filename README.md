@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ (bkz ay kızlar fena oluyorum ayol emre mor atın üstüme)
-https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=gd (bkz ay kızlar bize koca olmaz bundan)
+https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=gd (bkz ay kızlar bize koca olmaz bundan ayol erkeğimsi)
 https://www.uludagsozluk.com/k/kokan-erkek/&w=bg (bkz gay taş fırın ustası)
 https://www.uludagsozluk.com/k/ta%C5%9F-f%C4%B1r%C4%B1n-erke%C4%9Fi/2/ (bkz gay taşfırın ustası)
 https://www.uludagsozluk.com/k/kafede-%C3%BC%C5%9F%C3%BCy%C3%BCp-%C5%9Fal-isteyen-erkek/
