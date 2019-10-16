@@ -16,6 +16,7 @@
 
 <!--
 (bkz rte nin dünyaya yargı dağıtması)
+(bkz rte nin beni seviyosanız sigara içmeyin demesi)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fanla-u%C4%9Fra%C5%9Fan-tip/
 (bkz bize öyle bilgi gelmedi)
 https://eksisozluk.com/enes-kanterin-turkiyeyi-abdye-sikayet-etmesi--6214708?a=popular 
