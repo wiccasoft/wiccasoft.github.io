@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg (bkz mertr akkaş ın nıorm endere döşediği boru)
 https://www.uludagsozluk.com/k/misak-%C4%B1-milli/&w=bg (bkz kürt lütfen)
 https://www.uludagsozluk.com/k/t%C3%BCrk-havayollar%C4%B1-personelinin-asker-selam%C4%B1-vermesi/ (bkz türkün selamı iyi çakmış dememk ki zamanında iyi koymuş)
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BCn-%C4%B1rklar/&w=bg (bkz türk önde türk ileri)
