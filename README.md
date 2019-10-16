@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz ibrahim talıseksin çaktığı karıyı seksi bulmak)
+https://www.uludagsozluk.com/k/h%C3%BClya-av%C5%9Far-%C4%B1n-g%C3%BCzelli%C4%9Finin-abart%C4%B1lmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/mucize-doktor-dizisinin-43-%C3%BClkeye-sat%C4%B1lmas%C4%B1/ (bkz zuhahahahaha)
 https://www.uludagsozluk.com/k/kan-tutan-kasap/ (bkz kan tutan kıza doktor buluyoruz kampanyası)
 (bkz rte kurtlar vadisi sponsorluğunda büyüyen nesil)
