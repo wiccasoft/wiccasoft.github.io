@@ -16,13 +16,12 @@
 
 <!--
 (bkz bize öyle bilgi gelmedi)
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fanla-u%C4%9Fra%C5%9Fan-tip/ 
-(bkz bir topkeke snan bir saray bana)
 https://eksisozluk.com/enes-kanterin-turkiyeyi-abdye-sikayet-etmesi--6214708?a=popular 
 (bkz peki dünyanın bundan haberi var mı?)
 https://www.uludagsozluk.com/k/rte-nin-s%C3%BCleyman-%C3%A7ak%C4%B1r-modunu-a%C3%A7mas%C4%B1/ 
 (bkz rte nin kurtlar vadisi sponsorluğunda büyüttüğü ergenler)
-(bkz peki dünyanın bundan haberi var mı?)
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fanla-u%C4%9Fra%C5%9Fan-tip/ 
+(bkz bir topkek sana bir saray bana)
 https://eksisozluk.com/16-ekim-2019-erdoganin-dunyaya-yargi-dagitmasi--6215034?a=popular 
 (bkz deepturkishwebte dönen garip olaylar)
 https://www.uludagsozluk.com/k/ili%C5%9Fkimiz-%C3%A7ok-seks-odakl%C4%B1-gidiyor-diyen-erkek/&w=bg
