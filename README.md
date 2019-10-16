@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/rtenin-trumpa-racon-atmasi--6215002?a=popular (bkz neler dönmüş memati ya)
 https://www.uludagsozluk.com/k/yatarak-para-kazananlar/&w=bg (bkz asker futbolcu)
 https://www.uludagsozluk.com/k/bat%C4%B1-a%C4%9F%C4%B1l-d%C3%BC%C5%9Ferken-gondor-neredeydi/&w=bg (bkz isingrad ovası)
 https://www.uludagsozluk.com/k/otob%C3%BCs-camlar%C4%B1ndaki-ya%C4%9Fl%C4%B1-kafa-izi/&w=bg (bkz kürt kafası)
