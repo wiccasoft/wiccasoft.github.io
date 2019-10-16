@@ -16,6 +16,7 @@
 
 <!--
 (bkz rte nin dünyaya yargı dağıtması)
+https://www.uludagsozluk.com/k/soyad%C4%B1-o%C4%9Flu-ile-biten-insanlar/&w=bg (bk tiktokta kimin bu oğluşu çeken kız)
 (bkz rte nin beni seviyosanız sigara içmeyin demesi)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fanla-u%C4%9Fra%C5%9Fan-tip/
 (bkz bize öyle bilgi gelmedi)
