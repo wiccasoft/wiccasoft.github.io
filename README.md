@@ -20,7 +20,7 @@ https://www.uludagsozluk.com/k/bat%C4%B1-a%C4%9F%C4%B1l-d%C3%BC%C5%9Ferken-gondo
 https://www.uludagsozluk.com/k/otob%C3%BCs-camlar%C4%B1ndaki-ya%C4%9Fl%C4%B1-kafa-izi/&w=bg (bkz kürt kafası)
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd (bkz ay kız pipisi de vardır onun)
 https://www.uludagsozluk.com/k/biyoteknoloji/&w=bg (bkz inanma kız seni sikecek)
-https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kız bu bunun algoritmasını da alır ayol hayvan şey)
+https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kız bu bunun algoritmasını da alır)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg (bkz ay kızlar çok gay(eğlenceli) bi ülke olduk farkındamısınız)
 https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kızlar çok romantiğğğğ)
 https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ (bkz ay kızlar fena oluyorum ayol emre mor atın üstüme)
