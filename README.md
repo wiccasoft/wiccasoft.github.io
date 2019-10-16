@@ -15,9 +15,9 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/16-ekim-2019-esad-in-kobani-ye-girmesi/ (bkz noldi renciniz soldi tc ümmüt üğlüü)
+https://www.uludagsozluk.com/k/16-ekim-2019-esad-in-kobani-ye-girmesi/ (bkz noldi renciniz soldi)
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kazanan%C4%B1/&w=bg (bkz esed antivirus)
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg (bkz yav he he tc yarramı yakalar yargalar)
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg (bkz yav he he tc yarramı yakalar yargılar)
 https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg (bkz geneli tiktokçu)
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg (bkz instada kızlara dm atan ünlüler)
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg (bkz instagram dan her kıza yürüyen lider)
