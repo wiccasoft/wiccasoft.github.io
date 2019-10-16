@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Falla-gezen-erkek/ (bkz cafede şal isteyen erkeğimsi)
 https://eksisozluk.com/asik-olmadigiyla-evli-ve-sevmedigi-isi-yapan-insan--4144423?a=popular (bkz rte)
 https://eksisozluk.com/16-ekim-2019-erdoganin-dunyaya-yargi-dagitmasi--6215034?a=popular (bkz dm den mi dağıtmış)
 https://eksisozluk.com/rtenin-trumpa-racon-atmasi--6215002?a=popular (bkz neler dönmüş memati ya)
