@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/otostopla-81-il-gezen-kiz--6215149?a=popular (bkz yedi bölgede 81 ilde marrem ince)
 (bkz don't want no short dick man ) https://www.youtube.com/watch?v=l5obLmJ4O9E
 https://www.uludagsozluk.com/k/siki-da%C5%9F%C5%9Fa%C4%9F%C4%B1na-denkin-ingilizcesi/
 (bkz otobüste şal isteyen erkek)
