@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-(bkz don't want no short dick man )
+(bkz don't want no short dick man ) https://www.youtube.com/watch?v=l5obLmJ4O9E
 https://www.uludagsozluk.com/k/siki-da%C5%9F%C5%9Fa%C4%9F%C4%B1na-denkin-ingilizcesi/
 (bkz otobüste şal isteyen erkek)
 https://www.uludagsozluk.com/k/otob%C3%BCste-sinir-krizi-ge%C3%A7irme-sebepleri/&w=bg
