@@ -18,7 +18,7 @@
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd (bkz ay kız pipisi de vardır onun)
 https://www.uludagsozluk.com/k/biyoteknoloji/&w=bg (bkz inanma kız seni sikecek)
 https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kız bu bunun algoritmasını da alır ayol hayvan şey)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg (bkzx ay kızlar çok gay bi ülke olduk farkındamısınız)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg (bkz ay kızlar çok gay(eğlenceli) bi ülke olduk farkındamısınız)
 https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kızlar çok romantiğğğğ)
 https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ (bkz ay kızlar fena oluyorum ayol emre mor atın üstüme)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=gd (bkz ay kızlar bize koca olmaz bundan ayol erkeğimsi)
