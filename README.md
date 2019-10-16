@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/kan-tutan-kasap/ (bkz kan tutan kıza erkek buluyoruz kampanyası)
 (bkz rte kurtlar vadisi sponsorluğunda büyüyen nesil)
 https://www.uludagsozluk.com/k/rte-nin-s%C3%BCleyman-%C3%A7ak%C4%B1r-modunu-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/rte-nin-trump-a-ayar-vermesi/ (bkz sende bunu yedin)
