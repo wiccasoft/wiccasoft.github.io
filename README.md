@@ -16,6 +16,7 @@
 
 <!--
 (bkz çokta fifi iphone 11 i mi aldım bile)
+https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/iphone-9/&w=bg (bkz instaya video atarken kitlenen çöp tenekesi)
 https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkz instagram için değer be abi adamlar yapıyo)
