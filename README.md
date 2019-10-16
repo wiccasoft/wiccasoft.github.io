@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/rte-nin-trump-a-ayar-vermesi/ (bkz sende bunu yedin)
 (bkz rte nin dünyaya yargı dağıtması)
 https://www.uludagsozluk.com/k/soyad%C4%B1-o%C4%9Flu-ile-biten-insanlar/&w=bg (bk tiktokta kimin bu oğluşu çeken kız)
 (bkz rte nin beni seviyosanız sigara içmeyin demesi)
