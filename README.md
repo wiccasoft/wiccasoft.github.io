@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/jet-fad%C4%B1l/&w=bg bkz kürtçe konuştuğu için kanadaya göç eden entrepreneur
-ben kanadada yaşayan babasıyım kulağını çektim kızlar siz devam edin instagram da gezinmeye
+ben kanadada yaşayan babasıyım kulağını çektim kızlar siz devam edin 
 https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular 
 lan ibnenin evladı veledi zina bacına yapsalar iyi olur mu
 https://www.uludagsozluk.com/k/emre-mor-un-tekrar-dm-den-y%C3%BCr%C3%BCrken-if%C5%9Fa-olmas%C4%B1/&w=gd
