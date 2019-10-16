@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-seksi-oldu%C4%9Fu-an/&w=bg (bkz pasif gayleri duvardan duvara hoplattığım an)
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-seksi-oldu%C4%9Fu-an/&w=bg (bkz pasif ergenleri duvardan duvara hoplattığım an)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg 
 (bkz bi de ılık götlü ergen rica edeyim paketleyin evde sikerim)
 https://www.uludagsozluk.com/k/solcular%C4%B1n-dayak-yerken-vurma-abi-demesi/ 
