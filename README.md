@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/vedat-milor/&w=bg (bkz makara kakara)
 https://www.uludagsozluk.com/k/vedat-milor/&w=bg (bkz ne sandın yarram)
 https://www.uludagsozluk.com/k/%C3%BCmmetin-umudu-recep-tayyip-erdo%C4%9Fan/ (bkz ümmüt üğlüüü)
 serbest piyasa kardeş parayı veren alır
