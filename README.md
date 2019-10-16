@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz otobüste şal isteyen erkek)
+https://www.uludagsozluk.com/k/otob%C3%BCste-sinir-krizi-ge%C3%A7irme-sebepleri/&w=bg
 (bkz volki iyesta ve cicişler)
 https://www.uludagsozluk.com/k/asker-selam%C4%B1-veren-%C3%A7ocuklara-soru%C5%9Fturma-a%C3%A7mak/
 (bkz bir gece ansızın hakkari)
