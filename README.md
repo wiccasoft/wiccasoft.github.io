@@ -17,7 +17,6 @@
 <!--
 https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkzx instagram için değer be abi adamlar yapıyo)
 https://www.uludagsozluk.com/k/iphone-11/&w=bg (bkz instagram açsın yeter ya)
-https://www.uludagsozluk.com/k/ayn%C4%B1-telefonu-4-sene-kullanan-insan/&w=bg (bkz instagram için ayrı telefon almak)
 https://www.uludagsozluk.com/k/arap-avrupa-ve-amerika-ya-inat-t%C3%BCrk-birli%C4%9Fi/ (bkz bu gelen türklerin ayak sesleri)
 https://www.uludagsozluk.com/k/metrob%C3%BCste-ya%C5%9Fanan-yo%C4%9Funlu%C4%9Fun-sebebi/ (bkz kürt lütfen)
 https://www.dunyabulteni.net/bir-zamanlar/kemalist-turkiyeden-fasist-italyaya-selam-h228823.html
