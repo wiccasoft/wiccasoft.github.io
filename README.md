@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/27-ya%C5%9F%C4%B1ndaki-erkek-19-ya%C5%9F%C4%B1ndaki-k%C4%B1z-ili%C5%9Fkisi/&w=bg 
-(bkz ekşici kız incici oğlan ilişkisi)(bkz altıneşerincisiker)
+(bkz altıneşerincisiker)
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz o şimdi asker canı neler ister)
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yalama-oldu/&w=bg (bkz çıkar azındakinin ne dediğin anlaşılmıyor)
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg (bkz taşşakoğlanlarıyla taşşak geçmeleri)
