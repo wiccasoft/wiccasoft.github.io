@@ -18,6 +18,7 @@
 https://www.uludagsozluk.com/k/yatarak-para-kazananlar/&w=bg (bkz cafede şal isteyen jedi)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg (bz şalla gezen jedi)
 https://www.uludagsozluk.com/k/%C5%9Falla-gezen-erkek/ (bkz cafede şal isteyen jedi)
+https://eksisozluk.com/tum-kemalistlerin-erdogani-hayranlikla-izlemesi--6215096?a=popular
 https://eksisozluk.com/asik-olmadigiyla-evli-ve-sevmedigi-isi-yapan-insan--4144423?a=popular (bkz rte)
 https://eksisozluk.com/16-ekim-2019-erdoganin-dunyaya-yargi-dagitmasi--6215034?a=popular (bkz dm den mi dağıtmış)
 https://eksisozluk.com/rtenin-trumpa-racon-atmasi--6215002?a=popular (bkz neler dönmüş memati ya)
