@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/akp-grup-toplant%C4%B1s%C4%B1nda-g%C3%BCndo%C4%9Fdu-mar%C5%9F%C4%B1/&w=gd (bkz ümmüt üğlüüüü)
 https://www.uludagsozluk.com/k/israil-atat%C3%BCrk-e-neden-minnettar/&w=bg (bkz ümmüt üğlüüüü)
 https://www.uludagsozluk.com/k/tayyib-erdo%C4%9Fan-%C4%B1n-yar%C4%B1m-saatlik-efsane-dik-duru%C5%9Fu/ (bkz ümmüt üğlüü)
 https://www.uludagsozluk.com/k/yahudi-madalyal%C4%B1-%C3%BCmmet-lideri/&w=bg (bkz ümmüt üğlüüü )
