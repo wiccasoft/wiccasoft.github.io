@@ -15,6 +15,9 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/16-ekim-2019-suriye-ordusunun-kobaniye-girmesi--6215467?a=popular (bkz esedle masaya oturmama derken masaya oturtulmak)
+https://eksisozluk.com/esadin-saka-maka-suriyenin-ataturku-olmasi--6215475?a=popular 
+(bkz şaka maka derken olm göte gelmesin bunlar)
 (bkz çokta fifi iphone 11 i mi aldım bile)
 https://www.uludagsozluk.com/k/ibb-nin-%C3%A7ocuklara-%C3%BCcretsiz-s%C3%BCt-da%C4%9F%C4%B1tmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/&w=bg
