@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/mucize-doktor-dizisinin-43-%C3%BClkeye-sat%C4%B1lmas%C4%B1/ (bkz zuhahahahaha)
-https://www.uludagsozluk.com/k/kan-tutan-kasap/ (bkz kan tutan kıza erkek buluyoruz kampanyası)
+https://www.uludagsozluk.com/k/kan-tutan-kasap/ (bkz kan tutan kıza doktor buluyoruz kampanyası)
 (bkz rte kurtlar vadisi sponsorluğunda büyüyen nesil)
 https://www.uludagsozluk.com/k/rte-nin-s%C3%BCleyman-%C3%A7ak%C4%B1r-modunu-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/rte-nin-trump-a-ayar-vermesi/ (bkz sende bunu yedin)
