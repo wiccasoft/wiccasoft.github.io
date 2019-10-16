@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz ay kızlar ne güzel operasyon yapıyolar selam çakıyolar futbolculara felan namaz kılıyoar bi de arada )
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz ay fena oldum cengiz ünder atın üstüme)
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yalama-oldu/&w=bg (bkz çıkar azındakinin ne dediğin anlaşılmıyor)
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg (bkz taşşakoğlanlarıyla taşşak geçmeleri)
 https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ 
