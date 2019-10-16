@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-k%C4%B1l%C4%B1%C5%9Fdar-dan-daha-atat%C3%BCrk%C3%A7%C3%BC-olmas%C4%B1/
 (bkz 40 yaşından sonra alfa erkek arayan ergen gaylerin hiç çekilmediği gerçeği)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg (bkz akboylara nargile içen erkek çekin)
 https://www.uludagsozluk.com/k/yatarak-para-kazananlar/&w=bg (bkz cafede şal isteyen jedi)
