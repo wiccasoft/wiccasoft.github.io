@@ -16,8 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg 
-(bkz bi de ılık götlü ergen rica edeyim)
-https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg
+(bkz bi de ılık götlü ergen rica edeyim paketleyin evde sikerim)
 https://www.uludagsozluk.com/k/solcular%C4%B1n-dayak-yerken-vurma-abi-demesi/ 
 (bkz ılık götlülerin yine götünün kaşınması)
 bkz 41 yaşındaki yazılımcı kaslı erkek 27 yaşındaki cips yiyen ulucu oğlan birlikteliği
