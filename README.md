@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-%C3%A7i%C3%A7ekle-gelen-erkek/&w=bg (bkz ilhan şeşen)
 https://www.uludagsozluk.com/k/tiktok-taki-kimin-o%C4%9Flu%C5%9Fu-bu-videosu-rezaleti/ (bkz ejderi var sanki)
 https://www.uludagsozluk.com/k/t%C3%BCrk-havayollar%C4%B1-personelinin-asker-selam%C4%B1-vermesi/ (bkz veselamunaleyküm)
 https://www.uludagsozluk.com/k/ayn%C4%B1-anda-5-erkekle-fl%C3%B6rt-edebilen-k%C4%B1z/&w=bg (bkz pişkin memed)
