@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz bir gece ansızın hakkari)
+https://www.uludagsozluk.com/k/otostopla-81-il-gezdim-diye-milleti-kekleyen-k%C4%B1z/
 (bkz cem yılmaz a gülen karı zekası)
 https://www.uludagsozluk.com/k/beni-cem-y%C4%B1lmaza-g%C3%B6t%C3%BCrsene-diyen-kezban/ 
 (bkz ibrahim talıseksin çaktığı karıyı seksi bulmak)
