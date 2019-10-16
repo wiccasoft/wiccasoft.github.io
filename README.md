@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz çokta fifi iphone 11 i mi aldım bile)
+https://www.uludagsozluk.com/k/arap-birli%C4%9Finin-t%C3%BCrk-mallar%C4%B1na-boykot-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/iphone-9/&w=bg (bkz instaya video atarken kitlenen çöp tenekesi)
 https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkz instagram için değer be abi adamlar yapıyo)
 https://www.uludagsozluk.com/k/iphone-11/&w=bg (bkz dm den kızlara yürürkene kitlenmeyen canavar)
