@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ayn%C4%B1-telefonu-4-sene-kullanan-insan/&w=bg (bkz ağır fakir hareketleri)
 https://eksisozluk.com/16-ekim-2019-suriye-ordusunun-kobaniye-girmesi--6215467?a=popular (bkz esedle masaya oturmam derken masa üstüne oturtulmak)
 https://eksisozluk.com/esadin-saka-maka-suriyenin-ataturku-olmasi--6215475?a=popular 
 (bkz şaka maka derken olm göte gelmesin bunlar)
