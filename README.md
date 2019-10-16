@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/16-ekim-2019-erdoganin-dunyaya-yargi-dagitmasi--6215034?a=popular (bkz peki dünyanın bundan haberi var mı)
 (bkz kılışdarlı konuşan akboyu tokatlayıp babasına yollamak)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-k%C4%B1l%C4%B1%C5%9Fdar-dan-daha-atat%C3%BCrk%C3%A7%C3%BC-olmas%C4%B1/
 (bkz 40 yaşından sonra alfa erkek arayan ergen gaylerin hiç çekilmediği gerçeği)
