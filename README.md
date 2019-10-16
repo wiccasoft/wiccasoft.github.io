@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/enes-kanterin-turkiyeyi-abdye-sikayet-etmesi--6214708?a=popular (bkz bize öyle bilgi gelmedi)
 (bkz peki dünyanın bundan haberi var mı)
 https://eksisozluk.com/16-ekim-2019-erdoganin-dunyaya-yargi-dagitmasi--6215034?a=popular 
 (bkz deepturkishwebte dönen garip olaylar)
