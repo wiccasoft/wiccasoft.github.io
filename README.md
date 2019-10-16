@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/kim-jong-unun-at-ustundeki-fotografi--6215256?a=popular (bkz haberim yokmuş gibi çek kanka)
 https://eksisozluk.com/esinin-sevgilisi-tarafindan-oldurulen-koca--6215343?a=popular (bkz şapşik ya)
 https://eksisozluk.com/kim-jong-unun-at-ustundeki-fotografi--6215256?a=popular (bkz ordular ilk hedefiniz seul duruşu)
 https://eksisozluk.com/otostopla-81-il-gezen-kiz--6215149?a=popular (bkz yedi bölgede 81 ilde marrem ince)
