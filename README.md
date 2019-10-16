@@ -17,6 +17,7 @@
 <!--
 lan olm dm i kapatacam kalacan ibnenin evladı bacına yapsalar iyi olur mu
 https://www.uludagsozluk.com/k/emre-mor-un-tekrar-dm-den-y%C3%BCr%C3%BCrken-if%C5%9Fa-olmas%C4%B1/&w=gd
+tamam kızlar kulağını çektim bi dahh yürümeyecekmiş dm den siz işinize bakın
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd 
 (bkz kız haklı beyler 15 gün oldu şimdi yıkandım pamba pambuk gibi oldum)
 (bkz şam demedim am dedim am)
