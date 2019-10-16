@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz tengirin pedofili olması)
+https://www.uludagsozluk.com/k/asker-selam%C4%B1-veren-%C3%A7ocuklara-soru%C5%9Fturma-a%C3%A7mak/
 (bkz bir gece ansızın hakkari)
 https://www.uludagsozluk.com/k/otostopla-81-il-gezdim-diye-milleti-kekleyen-k%C4%B1z/
 (bkz cem yılmaz a gülen karı zekası)
