@@ -15,6 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+lan olm dm i kapatacam kalacan ibnenin evladı bacına yapsalar iyi olur mu
+https://www.uludagsozluk.com/k/emre-mor-un-tekrar-dm-den-y%C3%BCr%C3%BCrken-if%C5%9Fa-olmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd 
 (bkz kız haklı beyler 15 gün oldu şimdi yıkandım pamba pambuk gibi oldum)
 (bkz şam demedim am dedim am)
