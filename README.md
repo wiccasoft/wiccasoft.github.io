@@ -15,7 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-ele-ge%C3%A7irilen-abd-silahlar%C4%B1/&w=bg serbest  piyasa kardeş parayı veren alır
+serbest piyasa kardeş parayı veren alır
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-ele-ge%C3%A7irilen-abd-silahlar%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/jet-fad%C4%B1l/&w=bg bkz kürtçe konuştuğu için kanadaya göç eden entrepreneur
 ben kanadada yaşayan babasıyım kulağını çektim kızlar siz devam edin 
 https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular 
