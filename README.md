@@ -18,6 +18,8 @@
 (bkz bize öyle bilgi gelmedi)
 https://eksisozluk.com/enes-kanterin-turkiyeyi-abdye-sikayet-etmesi--6214708?a=popular 
 (bkz peki dünyanın bundan haberi var mı?)
+(bkz rte nin facebook tan verdiği nota)
+https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 https://www.uludagsozluk.com/k/rte-nin-s%C3%BCleyman-%C3%A7ak%C4%B1r-modunu-a%C3%A7mas%C4%B1/ 
 (bkz rte nin kurtlar vadisi sponsorluğunda büyüttüğü ergenler)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fanla-u%C4%9Fra%C5%9Fan-tip/ 
