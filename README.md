@@ -18,7 +18,7 @@
 https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg (bkz mert akkaş ın norm endere döşediği boru)
 https://www.uludagsozluk.com/k/misak-%C4%B1-milli/&w=bg (bkz kürt lütfen)
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BCn-%C4%B1rklar/&w=bg (bkz türk önde türk ileri)
-https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1l%C4%B1k/&w=bg (bkz kürt lütfen türkçe)
+https://www.uludagsozluk.com/k/%C4%B1rk%C3%A7%C4%B1l%C4%B1k/&w=bg (bkz kürt lütfen turkish please)
 https://www.uludagsozluk.com/k/israil-atat%C3%BCrk-e-neden-minnettar/&w=gd (bkz ümmüt üğlüüüü)
 https://www.uludagsozluk.com/k/t%C3%BCrk-havayollar%C4%B1-personelinin-asker-selam%C4%B1-vermesi/ (bkz ümmüt üğlüüüü)
 https://www.uludagsozluk.com/k/kuzey-g%C3%BCney/&w=bg (bkz telefonu tek parmakla kullanmak)
