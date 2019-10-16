@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/biyoteknoloji/&w=bg (bkz inanma kız seni sikecek)
 https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kız bu bunun algoritmasını da alır ayol hayvan şey)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg (bkzx ay kızlar çok gay bi ülke olduk farkındamısınız)
 https://www.uludagsozluk.com/k/ho%C5%9Fland%C4%B1%C4%9F%C4%B1-k%C4%B1za-cebir-uygulayan-erkek/&w=bg (bkz ay kızlar çok romantiğğğğ)
