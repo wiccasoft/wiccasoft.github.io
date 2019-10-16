@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-41 yaşındaki yazılımcı kaslı erkek 24 yaşındaki cips yiyen ulucu oğlan birlikteliği
+41 yaşındaki yazılımcı kaslı erkek 27 yaşındaki cips yiyen ulucu oğlan birlikteliği
 (bkz 41 yaşındaki yazılımcı erkeğin ulucu oğlanı duvardan duvara sikmesiyle başlayacak süreç)
 https://www.uludagsozluk.com/k/27-ya%C5%9F%C4%B1ndaki-erkek-19-ya%C5%9F%C4%B1ndaki-k%C4%B1z-ili%C5%9Fkisi/&w=bg 
 (bkz altıneşerincisiker)
