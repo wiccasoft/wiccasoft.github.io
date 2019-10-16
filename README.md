@@ -18,8 +18,6 @@
 https://www.uludagsozluk.com/k/vedat-milor/&w=bg (bkz makara kakara)
 https://www.uludagsozluk.com/k/vedat-milor/&w=bg (bkz ne sandın yarram)
 https://www.uludagsozluk.com/k/%C3%BCmmetin-umudu-recep-tayyip-erdo%C4%9Fan/ (bkz ümmüt üğlüüü)
-serbest piyasa kardeş parayı veren alır
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-ele-ge%C3%A7irilen-abd-silahlar%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/jet-fad%C4%B1l/&w=bg bkz kürtçe konuştuğu için kanadaya göç eden entrepreneur
 ben kanadada yaşayan babasıyım kulağını çektim kızlar siz devam edin 
 https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular 
