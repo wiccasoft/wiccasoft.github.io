@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg (bkz kızlarla taşşak geçmeleri)
-https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ (bkz adamsınız)
+https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ (bkz ay fena oldum)
 https://www.uludagsozluk.com/k/vedat-milor/&w=bg (bkz makara kakara)
 https://www.uludagsozluk.com/k/vedat-milor/&w=bg (bkz ne sandın yarram)
 https://www.uludagsozluk.com/k/%C3%BCmmetin-umudu-recep-tayyip-erdo%C4%9Fan/ (bkz ümmüt üğlüüü)
