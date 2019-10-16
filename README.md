@@ -29,17 +29,9 @@ https://www.uludagsozluk.com/k/kafede-%C3%BC%C5%9F%C3%BCy%C3%BCp-%C5%9Fal-isteye
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg 
 (bkz bir de pasif ergen rica edeyim paketleyin evde hoplatacam)
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-seksi-oldu%C4%9Fu-an/&w=bg 
-(bkz pasif ergenleri duvardan duvara hoplattığım an)
+(bkz pasif ergenleri duvardan duvara hoplattığı an)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg 
 (bkz bi de ılık götlü ergen rica edeyim paketleyin evde sikerim)
-https://www.uludagsozluk.com/k/solcular%C4%B1n-dayak-yerken-vurma-abi-demesi/ 
-(bkz ılık götlülerin yine götünün kaşınması)
-bkz 41 yaşında alpha yazılımcı kaslı erkek 27 yaşındaki cips yiyen beta ulucu oğlan birlikteliği
-(bkz 41 yaşındaki yazılımcı erkeğin ulucu oğlanı duvardan duvara sikmesiyle başlayacak süreç)
-https://www.uludagsozluk.com/k/27-ya%C5%9F%C4%B1ndaki-erkek-19-ya%C5%9F%C4%B1ndaki-k%C4%B1z-ili%C5%9Fkisi/&w=bg 
-(bkz altıneşerincisiker)
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ (bkz o şimdi asker canı neler ister)
-https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yalama-oldu/&w=bg (bkz çıkar azındakinin ne dediğin anlaşılmıyor)
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg (bkz taşşakoğlanlarıyla taşşak geçmeleri)
 https://www.uludagsozluk.com/k/tel-abyaddaki-komandolardan-milli-sporculara-selam/ 
 (bkz ay fena oldum cengiz ünder atın üstüme)
