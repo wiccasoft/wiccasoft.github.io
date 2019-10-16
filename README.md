@@ -15,7 +15,9 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/solcular%C4%B1n-dayak-yerken-vurma-abi-demesi/ (bkz ılık götlülerin yine götünün kaşınması)
+https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg
+https://www.uludagsozluk.com/k/solcular%C4%B1n-dayak-yerken-vurma-abi-demesi/ 
+(bkz ılık götlülerin yine götünün kaşınması)
 41 yaşındaki yazılımcı kaslı erkek 27 yaşındaki cips yiyen ulucu oğlan birlikteliği
 (bkz 41 yaşındaki yazılımcı erkeğin ulucu oğlanı duvardan duvara sikmesiyle başlayacak süreç)
 https://www.uludagsozluk.com/k/27-ya%C5%9F%C4%B1ndaki-erkek-19-ya%C5%9F%C4%B1ndaki-k%C4%B1z-ili%C5%9Fkisi/&w=bg 
