@@ -16,7 +16,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/iphone-9/&w=bg (bkz instaya video atarken kitlenen çöp tenekesi)
-https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkzx instagram için değer be abi adamlar yapıyo)
+https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkz instagram için değer be abi adamlar yapıyo)
 https://www.uludagsozluk.com/k/iphone-11/&w=bg (bkz instagram açsın yeter ya)
 https://www.uludagsozluk.com/k/tayyib-erdo%C4%9Fan-%C4%B1n-yar%C4%B1m-saatlik-efsane-dik-duru%C5%9Fu/ (bkz ümmet üğlüü reyz)
 https://www.uludagsozluk.com/k/arap-avrupa-ve-amerika-ya-inat-t%C3%BCrk-birli%C4%9Fi/ (bkz bu gelen türklerin ayak sesleri)
