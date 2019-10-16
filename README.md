@@ -20,6 +20,7 @@ https://eksisozluk.com/enes-kanterin-turkiyeyi-abdye-sikayet-etmesi--6214708?a=p
 (bkz peki dünyanın bundan haberi var mı)
 https://eksisozluk.com/16-ekim-2019-erdoganin-dunyaya-yargi-dagitmasi--6215034?a=popular 
 (bkz deepturkishwebte dönen garip olaylar)
+https://www.uludagsozluk.com/k/ili%C5%9Fkimiz-%C3%A7ok-seks-odakl%C4%B1-gidiyor-diyen-erkek/&w=bg
 https://www.uludagsozluk.com/k/yatarak-para-kazananlar/&w=bg (bkz cafede şal isteyen jedi)
 https://www.uludagsozluk.com/k/%C5%9Fal-alabilir-miyim-l%C3%BCtfen-bir-de-%C3%A7ay-diyen-erkek/&w=bg (bz şalla gezen jedi)
 https://www.uludagsozluk.com/k/%C5%9Falla-gezen-erkek/ (bkz cafede şal isteyen jedi)
