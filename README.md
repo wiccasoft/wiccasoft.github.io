@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/kokan-erkek/&w=bg (bkz gay taş fırın ustası)
 https://www.uludagsozluk.com/k/ta%C5%9F-f%C4%B1r%C4%B1n-erke%C4%9Fi/2/ (bkz gay taşfırın ustası)
 https://www.uludagsozluk.com/k/kafede-%C3%BC%C5%9F%C3%BCy%C3%BCp-%C5%9Fal-isteyen-erkek/
 (bkz kızlar ay bize erkek mi yok başka cafeye gidelim)
