@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-lan olm dm i kapatacam kalacan ibnenin evladı bacına yapsalar iyi olur mu
+lan ibnenin evladı veledi zina bacına yapsalar iyi olur mu
 https://www.uludagsozluk.com/k/emre-mor-un-tekrar-dm-den-y%C3%BCr%C3%BCrken-if%C5%9Fa-olmas%C4%B1/&w=gd
 tamam kızlar kulağını çektim bi dahh yürümeyecekmiş dm den siz işinize bakın
 https://www.uludagsozluk.com/k/kokan-erkek/&w=gd 
