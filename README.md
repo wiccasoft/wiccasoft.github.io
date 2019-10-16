@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/jet-fad%C4%B1l/&w=bg bkz kürtçe knuştuğu işin kanadaya göç eden entrepreneur
 ben kanadada yaşayan babasıyım kulağını çektim kızlar siz devam edin instagram da gezinmeye
 https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular 
 lan ibnenin evladı veledi zina bacına yapsalar iyi olur mu
