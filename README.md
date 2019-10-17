@@ -21,6 +21,7 @@ bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bar
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
 (bkz oh god damn here we go again) ne demek lan ekşide gördüm bunu mu yazsam havalı durur
 https://www.dailymotion.com/video/x70vcyk (i understand you but speak no well ok speak turkish oh very very well )
+https://www.uludagsozluk.com/k/emperyalizme-inat-karde%C5%9Fimsin-esad/&w=bg (bkz ne demek şakir)
 https://www.youtube.com/watch?v=AmZGLFDv3Ak
 hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
 https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ 
