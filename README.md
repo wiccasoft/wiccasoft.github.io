@@ -18,6 +18,8 @@
 
 <!--
 bkz zuahhahahahahahaha
+https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/ 
+(bkz türkiyenin amerikanın köpeği olması durumu)
 neyse nerde kalmıştık bu ezanlarki yurdumun üstünde inlemeli benim iman dolu sarhaddim gibi minarelerim var 
 ulusun korkma nasıl böyle bir imanı boğar külliyem sıcak maaşım dolgun 
 bir topkek sana bir saray bana hadi eywallah
