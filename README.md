@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz deepwebte rte nin ölmesini bekleyenler olm o adam sizi de gömer lan gidin iş bulun kendize :)))
 bkz tengirbudun ne iş yapıyo lan besle kargayı oysun gütünü falan atarlı bi abi ali koç felan heralde
 lan oç tengir ne kadar vergi veriyosun açıkla şerefsiz köpek lan seni sikerler ama söylim akıllı ol o ergenler de kurtaramaz seni işsiz vasıfsız oç ya sikecekler ortada kalacak haberi yok ibnenin evladı yeni fuatavni vakası gibi oç 50 yaşına gelmiş hala ergenlerin arasında takılıyo yavşak it gerizekalı lan kurtlar vadisi aslan bey sanıyo kendini oç bunak lan bi de kanada firmasını kovduğunu sanıyo sen kimsin lan lale olm kim buna harçlık veriyosa vermesin gebersin orda itoğluit belli ki çalışmıyo 
 https://www.uludagsozluk.com/k/k%C4%B1sa-pa%C3%A7a-pantolon-giyen-erkek/&w=bg (bkz vurduruyordur)
