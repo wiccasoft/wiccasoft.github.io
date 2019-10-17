@@ -19,7 +19,7 @@
 <!--
 bkz zuahhahahahahahaha
 neyse nerde kalmıştık bu ezanlarki yurdumun üstünde inlemeli benim iman dolu sarhaddim gibi minarelerim var 
-ulusun korkma nasıl böyle bir imanı boğar kubbeler kışlamız minarelerim süngü külliyem sıcak maaşı dolgun 
+ulusun korkma nasıl böyle bir imanı boğar külliyem sıcak maaşım dolgun 
 bir topkek sana bir saray bana hadi eywallah
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg aa bu benim lan falcao yu görünce dayanamıyom
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz yine geliyo gönlümün efendisi
