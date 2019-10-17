@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz ay caba gag bulut nabıyodur şimdi kız
 bkz acaba bartın milletvekili yeni twit atmışmıdır acaba baksam mı ay meraktayım şimdi
 bkz erdogan nabıyodur acaba o kadar aktrollik yapıyorum o da beni seviyomudur acaba
 bkz zall bana hep oç der nabıyodur acaba
