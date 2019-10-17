@@ -23,9 +23,7 @@ hani yolunu yabdılar bana ne şekil yapıyon hala gibi oldu :))
 beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan tamam buldum get out of my hair shape way
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
 know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi takılmadı altına da push it to the limit yazdım şekil oldu hani scarface havası kattım az
-https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
-neyse nerde kalmıştık re ce tay yi er do van re ce tay yi er do van
-bkz hala adıma başlık açmadınız pepe çok üzülüyo üzgün surat
+https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi çok komik lan)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-ne-yapar%C4%B1z/&w=bg (ben unfollowlarım ölen le ölünmez)
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ 
 (bkz Hey, I just met you and this is crazy But here's my number, so call me maybe  ) 
