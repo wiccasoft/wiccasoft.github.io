@@ -19,6 +19,8 @@
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
 bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
+https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/
+(bkz olm operasyon mektuplarını niye okuyosunuz onu tayyipe attım)
 https://www.uludagsozluk.com/k/ali-babacan-vs-ahmet-davuto%C4%9Flu/&w=bg (bkz babacan daha babacan bi adam) 
 ölde baba ölelim eywallah sev de baba sevelim eywallah devlet baba sen bizim herseyimizsin
 o değilde  fatih terim nabıyo lan hiç tweet atmıyo öldümü lan yoksa where we at falan diye esprir yapan o anlar
