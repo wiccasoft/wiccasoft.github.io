@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/amerika-daki-sar%C4%B1%C5%9F%C4%B1n-%C3%A7em%C3%A7%C3%BCk-a%C4%9F%C4%B1zl%C4%B1-%C5%9Fi%C5%9Fko/ gelsene yiyosa washingtona klavye delikanlısı
 https://www.uludagsozluk.com/k/badem-b%C4%B1y%C4%B1kl%C4%B1lar/&w=bg bkz ali ihsan varol bıyığı
 https://www.uludagsozluk.com/k/rte-nin-geri-%C3%A7ekilmesi/ ay çok şükr ayol 
 bkz ay bi delilik yapmasın bizim deli oğlan
