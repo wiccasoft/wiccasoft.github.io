@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+age of empires a cami patchi istiyoruz kampanyası
 https://eksisozluk.com/age-of-empires-kurt-irki-patchi--2962718 (bkz yüklemediğim patch)
 https://eksisozluk.com/age-of-empiresta-200-tane-fil-basmak--6216197?a=popular (bkz age of empires köylüsü)
 https://eksisozluk.com/entry/25099503 (bkz giriş geliş me sonuç)
