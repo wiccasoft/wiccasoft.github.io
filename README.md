@@ -17,11 +17,6 @@
 <!--
 https://www.uludagsozluk.com/k/16-ekim-2019-esad-in-kobani-ye-girmesi/ (bkz noldi renciniz soldi)
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kazanan%C4%B1/&w=bg (bkz esed antivirus)
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg (bkz yav he he tc yarramı yakalar yargılar)
-https://www.uludagsozluk.com/k/konya-erke%C4%9Fi/&w=bg (bkz geneli tiktokçu)
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney/&w=bg (bkz instada kızlara dm atan ünlüler)
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg (bkz instagram dan her kıza yürüyen lider)
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-biri-dm-at%C4%B1nca-kendi-reklam%C4%B1-i%C3%A7in-if%C5%9Fa-etmek/ (bkz murat cemcir)
 https://www.uludagsozluk.com/k/murat-cemcir-in-her-k%C4%B1za-as%C4%B1lmas%C4%B1/ 
 https://www.uludagsozluk.com/k/10-bin-liraya-telefon-alan-insan/ (bkz x mate kullanamayacak olan fakirler)
 https://www.uludagsozluk.com/k/ayn%C4%B1-telefonu-4-sene-kullanan-insan/&w=bg (bkz ağır fakir hareketleri)
