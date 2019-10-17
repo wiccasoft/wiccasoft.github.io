@@ -18,8 +18,9 @@
 
 <!--
 bkz kafamda deli sorular
+bkz acaba seyfo dayı polata aşık mıydı
 bkz acaba celal şengör ilber ortaylıyla sevişmiş midir
-bkz halo dayının mematiyle sevişmesi
+bkz acaba halo dayın mematiyle sevişmiş midir
 bkz sert erkeğin sert sevgilisi olur ayol
 bkz acaba ezeldeki dayı da beni düşünüyormudur 
 bkz acaba fedon napıyodur şimdi çıplak mıdır
