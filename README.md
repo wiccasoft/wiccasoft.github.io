@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz gece gece gelen re ce tay yi er do van  re ce tayyi er do van deme isteği
+bkz gece gece gelen re ce tayyi er do van  re ce tayyi er do van deme isteği
 https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/
 https://www.uludagsozluk.com/k/gel-dedin-geldim-abdurrahman-%C3%A7avu%C5%9F/&w=bg
 https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-seven-t%C3%BCrkiyeden-ka%C3%A7s%C4%B1n/&w=gd
