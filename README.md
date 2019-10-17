@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
-bkz hala adıma başlık açmadınız pepe çok üzülüyo
+bkz hala adıma başlık açmadınız pepe çok üzülüyo twitterım yok diye adam yerine koymuyolar ya la
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-ne-yapar%C4%B1z/&w=bg (ben unfollowlarım beyler)
 uplayın bişeyler yazın gülek az
 https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (olm bu saçlarını yine sarıya boyamış ya la)
