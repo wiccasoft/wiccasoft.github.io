@@ -18,7 +18,7 @@
 
 <!--
 bkz operation black bear [top secret] (çok gizli operasyon files)
-https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ (bana tweet attıracak madafaka)
+https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ (bana tweet attıracak madafaka tc siker olm)
 https://www.uludagsozluk.com/k/dear-trump-what-did-you-say-are-you-madafak%C4%B1r/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-babas%C4%B1na-a%C5%9F%C4%B1k-olmak/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/ (asdadasdasasd)
