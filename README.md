@@ -20,7 +20,7 @@
 bkz zuahhahahahahahaha
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg (bkz tam bir oç)
 https://www.uludagsozluk.com/k/rte-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-ahirette-hesap-verecek-olmas%C4%B1/ 
-(bkz rte ni allah olma ihtmalini düüşnmeyen faniler)
+(bkz rte nin allah olma ihtmalini düşünmeyen faniler)
 https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/ 
 (bkz türkiyenin amerikanın köpeği olması durumu)
 neyse nerde kalmıştık bu ezanlarki yurdumun üstünde inlemeli benim iman dolu sarhaddim gibi minarelerim var 
