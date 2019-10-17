@@ -19,7 +19,7 @@
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek inciliccesi
 bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye biri çevirsin 
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
-(bkz oh god damn here we go again) filmden duydum ne demek lan bu
+(bkz oh god damn here we go again) bkz kahretsin adamım nereye gidiyoruz
 https://www.dailymotion.com/video/x70vcyk (i understand you but speak no well ok speak turkish oh very very well )
 https://www.youtube.com/watch?v=AmZGLFDv3Ak
 hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
