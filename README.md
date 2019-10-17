@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/ (bkz oha kim okuyacak lan bunu okuyanı siksinler)
+https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/ (bkz oha kim okuyacak lan bunu okuyanı siksinler hakancım bi oku ne diyomuş)
 bkz hala adıma başlık açılmamış olması demek ki doğru yoldayım
 https://www.uludagsozluk.com/k/hakan-fidan/ (bkz o değil de maaşlar yatmadı hacı erdo raat tabi kasaya koydu damadı kendine habire çifte maaş yazıyo ibnenin evladı)
 https://twitter.com/medyaadami/status/763504953516318720?lang=en (bkz atara atarsa gidere gider ulan)
