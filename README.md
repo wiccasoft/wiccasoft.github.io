@@ -24,6 +24,7 @@ https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg
 (bkz adam fenerli düşmanı zaten beyler idmana geç geldi canere attığı tokatı hatırlayın)
 bkz merih demiral el ense yapan teknik adam
 https://www.youtube.com/watch?v=hAvCc05husE (bkz çokta skimde amk şişkosu)
+https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-damad%C4%B1n%C4%B1n-g%C3%B6zalt%C4%B1na-al%C4%B1nmas%C4%B1/&w=bg (bkz ohh canıma deysin iyi olmuş darısı beratın başına )
 https://www.uludagsozluk.com/k/ali-babacan-vs-ahmet-davuto%C4%9Flu/&w=bg (bkz davudioğla vs babacanoğlan)
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/
 (bkz olm operasyon mektuplarını niye okuyosunuz onu tayyipe attım)
