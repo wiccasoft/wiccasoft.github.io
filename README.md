@@ -18,7 +18,7 @@
 
 <!--
 beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
-ekşiden bi kaç eleman yollayın yeni görev verecem haddini bilin inciliccesi lazım bana
+ekşiden bi kaç eleman yollayın yeni görev verecem haddini bilin inciliccesi lazım bana mektupa cevap yazacam
 bkz operation black bear [top secret] (çok gizli operasyon fayls)
 bkz hacıt hafızın pyd ye yıllarca gol ganat gerdiği gerçeği varkene bi delikanlı da çıkıp hacı nabıyon sen demiyo
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (elemanhaklıbeyler)
