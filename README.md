@@ -18,6 +18,7 @@
 
 <!--
 bkz zuahhahahahahahaha
+https://www.uludagsozluk.com/k/kenan-komutan/&w=bg (bkz adam ölmemiş beyler)
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg (bkz tam bir oç)
 https://www.uludagsozluk.com/k/rte-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-ahirette-hesap-verecek-olmas%C4%B1/ 
 (bkz rte nin allah olma ihtmalini düşünmeyen faniler)
