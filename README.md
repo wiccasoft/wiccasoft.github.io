@@ -22,7 +22,8 @@ bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telef
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (twitterı açık yaşıyomuş beyler problem yok)
 https://www.uludagsozluk.com/k/fuat-avni/&w=bg (bkz ölmüş amk)
 https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz adam fenerli zaten beyler)
-https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (adam fenrebahçe düşmanı zaten beyler)
+https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (adam fenrebahçe düşmanı zaten beyler) 
+bkz şenol güneşin merih demirala el ense yaptığı resim
 --------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
 --------------------------------------------------------------------------------------------------------------
