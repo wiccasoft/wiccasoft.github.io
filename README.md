@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ bence veremez
 https://www.uludagsozluk.com/e/42298126/ tamam koçum hallederiz ben idmandayım kaptıyorum şimdi
 bkz ay iğrenç barzo bi erkek ayol gitsin kız bırak evde beton gibi oturmasın ayol
 bkz ay kızlar fatih hoca da ordan where we @ trump look at the tabela yaparmış ay ne enstantane olur ayol
