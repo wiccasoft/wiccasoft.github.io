@@ -16,7 +16,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--
+<!--erdoğana 3 gün süre veriyorum götü yiyosa tweet atsın
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg yiyosa tweet at delikanlılığı görelim deli oğlan
 https://www.uludagsozluk.com/k/amerika-daki-sar%C4%B1%C5%9F%C4%B1n-%C3%A7em%C3%A7%C3%BCk-a%C4%9F%C4%B1zl%C4%B1-%C5%9Fi%C5%9Fko/ gelsene yiyosa washingtona klavye delikanlısı
 bkz ay bi delilik yapmasın bizim deli oğlan
