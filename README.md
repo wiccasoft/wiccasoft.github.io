@@ -18,6 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-ne-yapar%C4%B1z/&w=bg (ben unfollowlarım beyler)
+uplayın bişeyler yazın gülek az
 https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (olm bu saçlarını yine sarıya boyamış ya la)
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ 
 (bkz Hey, I just met you and this is crazy But here's my number, so call me maybe  ) 
