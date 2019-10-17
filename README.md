@@ -19,10 +19,6 @@
 <!--
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ bkz haddini bilin inciliccesi neydi beyler
 know your limits diyo google translate gönderiyorum tweet doğru mu lan rezil olmayak
-bkz deepwebte rte nin ölmesini bekleyenler olm o adam sizi de gömer lan gidin iş bulun kendize :)))
-bkz olm biraz da tengir amcanıza entry girin lan :))))
-bkz tengirbudun ne iş yapıyo lan besle kargayı oysun gütünü falan atarlı bi abi ali koç felan heralde
-lan oç tengir ne kadar vergi veriyosun açıkla şerefsiz köpek lan seni sikerler ama söylim akıllı ol o ergenler de kurtaramaz seni işsiz vasıfsız oç ya sikecekler ortada kalacak haberi yok ibnenin evladı yeni fuatavni vakası gibi oç 50 yaşına gelmiş hala ergenlerin arasında takılıyo yavşak it gerizekalı lan kurtlar vadisi aslan bey sanıyo kendini oç bunak lan bi de kanada firmasını kovduğunu sanıyo sen kimsin lan lale olm kim buna harçlık veriyosa vermesin gebersin orda itoğluit belli ki çalışmıyo 
 https://www.uludagsozluk.com/k/k%C4%B1sa-pa%C3%A7a-pantolon-giyen-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
 neyse nerde kalmıştık re ce tay yi er do van re ce tay yi er do van
