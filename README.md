@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz ay tayyip şimdi delilik yapıp almanca cevap atmasın
 bkz ay acaba tayyip bi delilik yapıp tweet atmaz inşallak
 bkz ay acaba tayiip google tranlate i bulmuşmudur
 bkz ay acaba pkk ya kol kanat gerenler napıyodur şimdi
