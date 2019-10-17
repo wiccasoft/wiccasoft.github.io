@@ -15,7 +15,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://twitter.com/thelaikyobaz/status/841199927527108608 (bkz dopunuz gelin)
+https://twitter.com/medyaadami/status/763504953516318720?lang=en (bkz atara atarsa gidere gider ulan)
+https://twitter.com/thelaikyobaz/status/841199927527108608 (bkz sıkıyosa güngürene gelin)
 https://twitter.com/fener10line/status/1002941706529132544?lang=en (bkz koçum benim)
 https://twitter.com/allahkitapwesli/status/918071692022468608 (bkz aferim evlat)
 https://eksisozluk.com/9-ekim-2019-donald-trumpin-rteye-mektubu--6215703?a=popular 
