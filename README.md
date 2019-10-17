@@ -1,4 +1,4 @@
-[![Image](smartdata/mission.png)]( https://www.youtube.com/watch?v=AmsbvM3wfRg )
+[![Image](smartdata/mission.png)]( https://www.youtube.com/watch?v=hAvCc05husE )
 
 [![Image](smartdata/isis.png)]( https://www.youtube.com/watch?v=zEvF-2-0LWk )
 
@@ -16,7 +16,8 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
+<!--beyler görevleri dağıtıyorum https://www.youtube.com/watch?v=AmsbvM3wfRg 
+(operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
 bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
 https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg 
