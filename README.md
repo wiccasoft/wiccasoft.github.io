@@ -18,7 +18,7 @@
 
 <!--
 bkz bi erkeği itici yapan detaylar
-bkz uzak durulması gereken erkekler
+bkz uzak durulması gereken şapşik erkekler
 bkz halo dayı nabıyodur acaba şimdi
 bkz ezel dizisindeki bıyıklı dayı nabıyo acaba ay ığranç ama çekici bi okadar da ayol uzak duramıyorum
 bkz kışın bıyıklı dayı istemiyoruz kampanyası
