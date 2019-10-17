@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg sakatlığı sürmese yakışıklı çocuk aslında
 bkz aa bi yaşıma daha girdim ayol eşcinsel görmek istemiyorlarmış
 bkz aa eşcinsel ne arar ayol türkiyede delikanlı adamın delikanlı sevgilisi olur ayol
 bkz aa ibne görmek istemiyorlarmış ayol üstüme iyilik sağlık şalımı alim gelim bari
