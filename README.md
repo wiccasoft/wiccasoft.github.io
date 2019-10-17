@@ -18,6 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/trafikte-kavga-eden-kara-%C3%A7ar%C5%9Fafl%C4%B1lar/ (bkz yine twitter a soktun kardeş)
+abi bu ergenlerdeki amerikaya para kazandırma tutkusu nedir ya
 https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz kenan imirzalüğoğlu varken halo dayıya hallenmek)
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/ ( bıyıklarını oğlanların dübürüne sürterek gay yapıyo yine de sen bilirsin)
 https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz halo dayı)
