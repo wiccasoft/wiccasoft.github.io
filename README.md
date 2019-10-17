@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ bkz haddini bilin inciliccesi neydi beyler
 bkz deepwebte rte nin ölmesini bekleyenler olm o adam sizi de gömer lan gidin iş bulun kendize :)))
 bkz olm biraz da tengir amcanıza entry girin lan :))))
 bkz tengirbudun ne iş yapıyo lan besle kargayı oysun gütünü falan atarlı bi abi ali koç felan heralde
