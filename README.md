@@ -17,7 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ (ahakan fidan sen misin)
+operasyonu yaverim zall bana hep abi der yönetecek
+https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ 
 beyler hafız esadla masaya oturamasak mı lan bi akıl verin
 yeni operasyon adı deli yürek bumerang cehennemi hafız esad ve broları
 beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
