@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/pkk-vs-dhkp-c-vs-mlkp-vs-tikko/ tikko siker 
 https://www.uludagsozluk.com/k/bir-kerimcan-durmaz-vard%C4%B1-ne-oldu-ona/ hee noldu ona yarrak sallıyo du bi ara
 https://www.uludagsozluk.com/k/sinan-meydan/&w=bg bkz koydu mu meydan laurus :))))))
 https://www.uludagsozluk.com/k/makarna-i%C3%A7in-troll%C3%BCk-yap%C4%B1p-ekonomi-iyi-demek/ alala kim acaba bunlar
