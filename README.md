@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz bize ak gençlik yeter bay kemal
 bkz kılışdarın levent göke levent göt demesi yaa bay kemal dah sayayım mı
 bkz kılışdarın ssk yı batırdığını kabul edemyene kamalcılar
 bkz kılışdarın darbe komisyonuyla dalga geçmesi
