@@ -18,7 +18,7 @@
 
 <!--
 https://eksisozluk.com/age-of-empiresta-200-tane-fil-basmak--6216197?a=popular (bkz trumpı kızdıracak olay)
-https://eksisozluk.com/entry/25099503 (bkz zuahhahaha)
+https://eksisozluk.com/entry/25099503 (bkz giriş geliş me sonuç)
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245 (bkz en sevdiğim entry)
 https://eksisozluk.com/kuaforde-ibrahima-yattaraya-donusen-sevgili--2900686 (bkz zuhahahahaha )
 melih koyam da demir alın ingilicesi neydi lan
