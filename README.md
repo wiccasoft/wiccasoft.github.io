@@ -19,7 +19,7 @@
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 https://www.youtube.com/watch?v=Nh9lKYauXP8 Testere Necmi Sehem Kuruyor - Kurtlar Vadisi 34.Bölüm
 https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (bunlara ayrı bi dosya açın)
-operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan?  they will future they we will see come on
+operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan?  they will future they we will see come on guys
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
 https://www.uludagsozluk.com/k/kuzey-kore-nin-ger%C3%A7ek-y%C3%BCz%C3%BC/ (buna ayrı bi dosya açın beyler)
 hadi beyler çabuk zamanla yarışıyoruz batum elşçiliğinde ki adamlarımızdan ses gelmiyor hala kahretsin man fuck
