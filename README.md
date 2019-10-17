@@ -18,8 +18,8 @@
 
 <!--bu ezanlar ki yurdumun üstündü inlemeli 
 benim iman dolu minarelerim var nasıl böyle bir imanı boğarsın trump 
-how dare you shame on you minareler kubbemiz askerler kışla nasıldı lan o  karıştı ortalık 
-bir dur trump şiirimi unuttum
+how dare you shame on you minareler kubbemiz askerler kışla nasıldı lan o karıştı ortalık 
+bir dur trump şiirimi unuttum ya
 https://www.uludagsozluk.com/k/kemalistlerin-pkk-y%C4%B1-ele%C5%9Ftirmemesi/&w=bg bkz chpkk
 bkz vatanına göz dikeni ez oğlum toprak diyerek geçme tanı düşün altında yatan binlerce solucanı
 bkz bize ak gençlik yeter bay kemal göklerden gelen bir karar vardır
