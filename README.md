@@ -17,9 +17,10 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
 bkz operation black bear [top secret] (çok gizli operasyon fayls)
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (adam haklı beyler)
-biri de çıkıp demiyo hafız esad hacıt ne ayaksın sen daeshi besleyen de bu ibne
+biri de çıkıp demiyo hafız esad hacıt ne ayaksın sen daeshi besleyen de bu ibne 
 beyler herkes kendine lider seçsin onu  sevsin böyle ortalık karışıyo selanikliyi yedirmeyiz
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
 olm bombeyi atan sizsiniz in ingilicesi ne beyler (haha buldum yu tırov bombe dont fakin mess with my sabr )
