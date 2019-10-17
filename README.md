@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
-beyler önce fuatavni kod adlı hesabı kontrol edin kapalıysa ölmüş olabilir
+beyler önce fuatavni kod adlı hesabı kontrol edin kapalıysa ölmüş olabilir gerkirse 155 i arayın
 --------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
 --------------------------------------------------------------------------------------------------------------
