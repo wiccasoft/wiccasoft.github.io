@@ -18,7 +18,7 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 https://www.youtube.com/watch?v=Nh9lKYauXP8 Testere Necmi Sehem Kuruyor - Kurtlar Vadisi 34.Bölüm
-beyler kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerkiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam
+beyler kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerkiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam gerekiyosa kuzey kore operasyonunda kullanırız hadi bakalaım allah u akbar
 https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (bunlara ayrı bi dosya açın)
 operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan?  they will future they we will see come on guys
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
