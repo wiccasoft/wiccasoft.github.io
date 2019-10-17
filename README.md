@@ -18,6 +18,7 @@
 
 <!--
 bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
+https://eksisozluk.com/17-ekim-2019-erdoganin-tarihi-geri-vitesi--6216686?a=popular
 https://www.uludagsozluk.com/k/d%C3%B6meke-muharebesi-ve-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ bkz zuhahahaha
 (bkz hangi oç yaptı lan bunu)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
