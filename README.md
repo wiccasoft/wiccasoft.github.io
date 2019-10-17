@@ -20,6 +20,7 @@
 https://www.uludagsozluk.com/k/i-will-call-you-later/ (bkz sen kapat sana yazmasın)
 https://www.uludagsozluk.com/k/kemalist-suriyeliler/ (bkz kamışa su yürüyen suriyeliler)
 https://www.youtube.com/watch?v=XxbWh_EfiZM ( bkz videolarla incilicce öğreniyorum)
+https://www.uludagsozluk.com/k/if-they-have-a-future-they-will-see/ (bkz eywalla genşler atıyorum tweeti)
 -------------------------------------------------------------------------------------
 bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye biri çevirsin 
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
