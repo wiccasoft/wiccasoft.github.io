@@ -18,6 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/makarna-i%C3%A7in-troll%C3%BCk-yap%C4%B1p-ekonomi-iyi-demek/ alala kim acaba bunlar
+ara bakalım beni sosyal medyada bulabilecekmisin
 bkz google translatei karalamaya çalışan türkler
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/
 bkz bi erkeği itici yapan detaylar
