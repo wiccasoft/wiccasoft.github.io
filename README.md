@@ -18,6 +18,7 @@
 
 <!--
 bkz zuahhahahahahahaha
+https://www.uludagsozluk.com/k/david-rothschild-in-att%C4%B1%C4%9F%C4%B1-erdo%C4%9Fan-tweeti/
 (bkz beyler ben saldırıyorum)
 https://www.uludagsozluk.com/k/natalie-portman/&w=bg
 https://www.uludagsozluk.com/k/ecevit-e-ezik-diyip-daha-k%C3%B6t%C3%BC-duruma-d%C3%BC%C5%9Fmek/ 
