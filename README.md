@@ -17,6 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz kafamda deli sorular
+bkz acaba celal şengör ilber ortaylıyla sevişmiş midir
 bkz halo dayının mematiyle sevişmesi
 bkz sert erkeğin sert sevgilisi olur ayol
 bkz acaba ezeldeki dayı da beni düşünüyormudur 
