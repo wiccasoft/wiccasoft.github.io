@@ -24,7 +24,7 @@ beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan tamam buldum get o
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
 know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi takılmadı altına da push it to the limit yazdım şekil oldu hani scarface havası kattım az
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi çok komik lan)
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-ne-yapar%C4%B1z/&w=bg (ben unfollowlarım ölen le ölünmez)
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-ne-yapar%C4%B1z/&w=bg (bkz unfollowlarım ölen le ölünmez)
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ 
 (bkz Hey, I just met you and this is crazy But here's my number, so call me maybe  ) 
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ 
@@ -33,15 +33,7 @@ https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz türkleri twitter manyağ
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ (bkz google translate) 
 https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-erdo%C4%9Fan-a-ve-t%C3%BCrkiye-ye-cephe-almas%C4%B1/ 
 (bkz akp bartın milletvekilinin attığı tweet sonrası gerilen ilişkiler) bkz google translate'in türkiye düşmanlığı
---------------------------------------------------------------------------------------------------------------
-https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
---------------------------------------------------------------------------------------------------------------
-beyler önce hüsnü doğanın israille bağlantılarını kontrol edin sonra kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerekiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam gerekiyosa kuzey kore operasyonunda kullanırız hadi bakalaım if they föck with us we will see what happens her in ass allah u akbar
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (seversen sevilirsin o da insan olm)
-operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan? if they will come they we will see come on guys
-jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
-https://www.uludagsozluk.com/k/kuzey-kore-nin-ger%C3%A7ek-y%C3%BCz%C3%BC/ (buna ayrı bi dosya açın beyler)
-hadi beyler çabuk zamanla yarışıyoruz batum elşçiliğinde ki adamlarımızdan ses gelmiyor kahretsin man fuck 
 https://www.uludagsozluk.com/k/i%C5%9Fsizler-nas%C4%B1l-ge%C3%A7iniyor-sorunsal%C4%B1/ (bkz bunu bunu alın burdan)
 https://www.uludagsozluk.com/k/i-will-call-you-later/ (bkz sen kapat sana yazmasın)
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz yararsız biri deşifre oldu jef tamam)
