@@ -18,6 +18,7 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek inciliccesi
 https://www.uludagsozluk.com/k/i-will-call-you-later/ (olm küfr mü etmiş yine ben de seni oç)
+sicerely ney lan sincerely yazmış bi de
 https://www.youtube.com/watch?v=XxbWh_EfiZM ( bkz videolarla incilicce öğreniyorum)
 bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye biri çevirsin 
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
