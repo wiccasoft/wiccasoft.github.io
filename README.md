@@ -18,8 +18,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/amerika-daki-sar%C4%B1%C5%9F%C4%B1n-%C3%A7em%C3%A7%C3%BCk-a%C4%9F%C4%B1zl%C4%B1-%C5%9Fi%C5%9Fko/ gelsene yiyosa washingtona klavye delikanlısı
-https://www.uludagsozluk.com/k/badem-b%C4%B1y%C4%B1kl%C4%B1lar/&w=bg bkz ali ihsan varol bıyığı
-https://www.uludagsozluk.com/k/rte-nin-geri-%C3%A7ekilmesi/ ay çok şükr ayol 
 bkz ay bi delilik yapmasın bizim deli oğlan
 https://www.uludagsozluk.com/k/rte-nin-s%C3%BCleyman-%C3%A7ak%C4%B1r-modunu-a%C3%A7mas%C4%B1/
 bkz kafamda deli sorular
