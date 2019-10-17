@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz kılışdarın ssk yı batırdığını kabul edemyene kamalcılar
 bkz kılışdarın darbe komisyonuyla dalga geçmesi
 bkz 15 temmuzla dalga geçen chpkklılar
 bkz kılışdarın hain 15 temmuz girişimine bi şey dememesi bay kemalcileri kudurtan gerçekler 
