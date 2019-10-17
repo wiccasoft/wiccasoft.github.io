@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-o değil de fettullah gülen de ses gelmememesi
+o değil de fettullah gülen de ses gelmememesi 15 temmuz hain girişimi yaptı gitti herif ya
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-cb-olmas%C4%B1/ la oglum kılışdar mı güldürme la
 https://www.uludagsozluk.com/k/badem-b%C4%B1y%C4%B1kl%C4%B1lar/&w=bg bkz erdoğan ve tayfası 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg yiyosa tweet at delikanlılığı görelim deli oğlan
