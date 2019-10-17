@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/kemalistlerin-pkk-y%C4%B1-ele%C5%9Ftirmemesi/&w=bg bkz chpkk
 bkz vatanına göz dikeni ez oğlum toprak diyerek geçme tanı düşün altında yatan binlerce solucanı
 bkz bize ak gençlik yeter bay kemal göklerden gelen bir karar vardır
 bkz kılışdarın levent göke levent göt demesi yaa bay kemal dah sayayım mı
