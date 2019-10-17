@@ -17,9 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
-https://www.youtube.com/watch?v=Nh9lKYauXP8 Testere Necmi Sehem Kuruyor - Kurtlar Vadisi 34.Bölüm
-beyler kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerekiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam gerekiyosa kuzey kore operasyonunda kullanırız hadi bakalaım if they föck with us we föck your ass allah u akbar
-https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (bunlara ayrı bi dosya açın)
+önce hüsnü doğanın israille bağlantılarını kontrol edin sonra kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerekiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam gerekiyosa kuzey kore operasyonunda kullanırız hadi bakalaım if they föck with us we föck your ass allah u akbar
+https://www.uludagsozluk.com/k/h%C3%BCsn%C3%BC-do%C4%9Fan/ (bkz hmm ilişkilerini daha detaylı istiyorum israil lobisine)
 operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan? if they will come they we will see come on guys
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
 https://www.uludagsozluk.com/k/kuzey-kore-nin-ger%C3%A7ek-y%C3%BCz%C3%BC/ (buna ayrı bi dosya açın beyler)
