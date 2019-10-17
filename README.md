@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz ay acaba cem yılamz takipten mi çıksak kızlar
 bkz ay okan nabıyo acaba şapşik yine karıya çakıyodur ama seks hayatım bitti yazmıştı en son
 bkz ay kaslı kaslı asker selamı veren futbolcular nabıyodur şimdi
 bkz ay melih demiral nabıyodur şimdi şapşik asker selamıyla eritti bizi ayol
