@@ -18,6 +18,7 @@
 
 <!--
 beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
+ekşiden bi kaç eleman yollayın yeni görev verecem
 bkz operation black bear [top secret] (çok gizli operasyon fayls)
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (adam haklı beyler)
 biri de çıkıp demiyo hafız esad hacıt ne ayaksın sen daeshi besleyen de bu ibne 
