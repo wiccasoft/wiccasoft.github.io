@@ -19,8 +19,9 @@
 <!-- 
 https://www.uludagsozluk.com/k/ameriga-y%C4%B1-yola-getiren-d%C3%BCnya-lideri/ bkz akboyların çıldırması :)))))
 https://www.uludagsozluk.com/k/%C3%BClkemde-vatan-haini-k%C3%BCrt-istemiyorum/ bkz sen kimsin lan amın feryadı :)))
-https://www.uludagsozluk.com/k/orospu-evlad%C4%B1-ypg-nin-kuca%C4%9Fa-gelmesi/ bkz baxa bırag kanka kucakta hoplatam la orzbu evladını amuna goyam la
-bkz yiyosa gelsene güngörene
+https://www.uludagsozluk.com/k/orospu-evlad%C4%B1-ypg-nin-kuca%C4%9Fa-gelmesi/ bkz bir akboy ağlıyor gözleri yaşlı
+https://www.uludagsozluk.com/k/sava%C5%9F-kar%C5%9F%C4%B1tlar%C4%B1n%C4%B1n-bug%C3%BCn-bordo-bereli-kesilmesi/
+bkz akboylar kuduriye pyd vuriy
 https://www.uludagsozluk.com/k/sona-kadar-sava%C5%9F-deyip-bug%C3%BCn-bar%C4%B1%C5%9F-pon%C3%A7i%C4%9Fi-olmak/
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg bkz ümmüt üğğlüü
 bkz bordo klavyelileri göt eden süper olay garaoğlancılarçıkar şimdi deliklerinden
