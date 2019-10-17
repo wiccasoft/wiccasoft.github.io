@@ -20,7 +20,7 @@
 beyler önce hüsnü doğanın israille bağlantılarını kontrol edin sonra kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerekiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam gerekiyosa kuzey kore operasyonunda kullanırız hadi bakalaım if they föck with us we föck her in ass allah u akbar
 https://www.uludagsozluk.com/k/trump-%C4%B1n-mektubuna-kar%C5%9F%C4%B1l%C4%B1k/ (bkz al mektuplarını ver mektuplarımı)
 https://www.uludagsozluk.com/k/mete-yarar-bar%C4%B1%C5%9F-yarkada%C5%9F-kavgas%C4%B1/ (bkz yaran başlıklar)
-https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (seversen sevilirsin o da insan olm türk deil ama insan o da)
+https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (seversen sevilirsin o da insan olm)
 https://www.uludagsozluk.com/k/h%C3%BCsn%C3%BC-do%C4%9Fan/ (bkz hmm ilişkilerini daha detaylı istiyorum israil lobisine)
 operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan? if they will come they we will see come on guys
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
