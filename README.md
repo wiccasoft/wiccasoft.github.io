@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ter%C3%B6rist-le%C5%9Flerinin-cemevlerine-g%C3%B6t%C3%BCr%C3%BClmesi/ bkz trump reisin yaptığı über olay
-https://www.uludagsozluk.com/k/updullah-avici/&w=bg uplayın bu oç arabı abdullah nedir oç yallah arabistana up la up la
+https://www.uludagsozluk.com/k/updullah-avici/&w=bg uplayın bu oç arabı ubdullah nedir oç yallah arabistana up la up la
 https://www.uludagsozluk.com/k/trafikte-kavga-eden-kara-%C3%A7ar%C5%9Fafl%C4%B1lar/ (bkz yine twitter a soktun kardeş)
 abi bu ergenlerdeki amerikaya para kazandırma tutkusu nedir ya
 https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz kenan imirzalüğoğlu varken halo dayıya hallenmek)
