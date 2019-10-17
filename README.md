@@ -19,7 +19,7 @@
 <!--
 bkz zuahhahahahahahaha
 https://www.uludagsozluk.com/k/ali-k%C4%B1n%C4%B1k-%C4%B1n-1-50-boyla-kral%C4%B1na-%C3%A7atmas%C4%B1/ 
-(bkz baxa dönek demiş itin birisi bax hele hele hihihi) https://www.youtube.com/watch?v=INJ_kr_js1w
+(bkz baxa dönek demiş itin birisi bax hele hele tsısısheheh) https://www.youtube.com/watch?v=INJ_kr_js1w
 https://www.uludagsozluk.com/k/kenan-komutan/&w=bg (bkz adam ölmemiş beyler)
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg (bkz tam bir oç)
 https://www.uludagsozluk.com/k/rte-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-ahirette-hesap-verecek-olmas%C4%B1/ 
