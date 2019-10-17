@@ -18,6 +18,7 @@
 
 <!--
 bkz zuahhahahahahahaha
+https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg (bkz tam bir oç)
 https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/ 
 (bkz türkiyenin amerikanın köpeği olması durumu)
 neyse nerde kalmıştık bu ezanlarki yurdumun üstünde inlemeli benim iman dolu sarhaddim gibi minarelerim var 
