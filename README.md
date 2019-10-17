@@ -18,6 +18,7 @@
 
 <!--
 bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
+https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=bg bkz milli ordu ney lan
 https://eksisozluk.com/erdogan-cok-zeki-zorlu-ve-guclu-bir-lider--6217052?a=popular harika bi adam tanısanız siz de seversiniz
 https://www.uludagsozluk.com/k/120-saat-sonra-ypg-%C3%A7ekilmezse-ne-olacak/ bkz bordo klavyelilere sefer görev emri çıkacak
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg bkz keltoş babana koş
