@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/suudi-arabistan-%C4%B1n-t%C3%BCrkiyeye-hac-ambargosu/ (bkz ne güzeldir kaber yolları)
-(bkz evin içinde dolanarak çözülecek durum https://www.youtube.com/watch?v=Ww5jScH4fXY)
+(bkz  odanın içinde tavaf ederek çözülecek durum https://www.youtube.com/watch?v=Ww5jScH4fXY)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz asker selamı verdi diye kürtlerin vatan haini ilanı ettiği gerçek atatürkçü)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
