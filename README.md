@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/pkkl%C4%B1-k%C3%BCrt/&w=bg bkz putin anamın üstünde yakalansa orospuluk anmadadır
 https://www.uludagsozluk.com/k/homofobi/&w=bg (bkz acaba o da beni düşünüyormudur durumu) bkz o sen olan bari vakaları
 bkz türkiyedeki geylerin hayalindeki erkek olamamak 
 bkz hayaleriniz kenanimirzalıoğlu gerçekler trump
