@@ -18,7 +18,7 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
-bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elinin öpmeme diyen bi şişko vardır onu bulun bana
+bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
 --------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
 --------------------------------------------------------------------------------------------------------------
