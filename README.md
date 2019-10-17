@@ -24,7 +24,8 @@ beyler hafız esadla masaya oturmamak için bi suikast timi istiyorum jeff jonat
 yeni operasyon adı deli yürek bumerang cehennemi hafız esad ve broları
 beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
 ekşiden bi kaç eleman yollayın yeni görev verecem haddini bilin inciliccesi lazım bana atarlı mektup yazacam
-bkz operation black bear [top secret] (çok gizli operasyon fayls)
+subject: operation black bear [top secret] (çok gizli operasyon fayls)
+to: real donald trump
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
 olm bombeyi atan sizsiniz in ingilicesi ne beyler (haha buldum yu tırov bombe dont fakin mess with my sabr )
 bi de skimle taşağım kasımpaşalıyım ın ingilizcesi lazım hah buldum my dick my dashak ekual from kasimpasa turkey
