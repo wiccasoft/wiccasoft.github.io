@@ -18,7 +18,7 @@
 
 <!--
 bkz tengirbudun ne iş yapıyo besle kargayı oysun gütünü falan atarlı bi abi ali koç felan heralde
-lan oç tengir ne kadar vergi veriyosun açıkla şerefesiz köpek lan seni sikerler ama söylim akıllı ol o ergenler de kurtaramaz seni işsiz vasıfsız oç ya sikecekler ortada kalacak haberi yok ibnenin evladı yeni fuatavni vakası gibi oç
+lan oç tengir ne kadar vergi veriyosun açıkla şerefesiz köpek lan seni sikerler ama söylim akıllı ol o ergenler de kurtaramaz seni işsiz vasıfsız oç ya sikecekler ortada kalacak haberi yok ibnenin evladı yeni fuatavni vakası gibi oç 50 yaşına gelmiş hala ergenlerin arasında entry açıyo
 https://www.uludagsozluk.com/k/k%C4%B1sa-pa%C3%A7a-pantolon-giyen-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
 neyse nerde kalmıştık re ce tay yi er do van re ce tay yi er do van
