@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan
+beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan tamam buldum get out of my hair shape way
 https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (olm bu sarı kafa niye tweet atmıyo lan)
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
 know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi bu gönderdim artık çok geç beyler know your limit push it to the limit yazdım altına da
