@@ -18,6 +18,7 @@
 
 <!--
 bkz kafamda deli sorular
+bkz acaba süleyman çakır homofobik olduğu için mi sinir yapıyordu
 bkz acaba seyfo dayı polata aşık mıydı
 bkz acaba celal şengör ilber ortaylıyla sevişmiş midir
 bkz acaba halo dayı mematiyle sevişmiş midir
