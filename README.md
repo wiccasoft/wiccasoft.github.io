@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz ay kızlar fatih terim de ordan where we @ trump yaparmış ay ne güzel olur
+bkz ay kızlar fatih terim de ordan where we @ trump yaparmış ay ne enstantane olur ayol
 bkz ay kızlar bizim deli oğlan tayyo şimdi trumpa one minute one minute google tranleyt açük diye tweet atmasın
 bkz ay kızlar bu hafız esad pkk kanat geriyo mudur şimdi
 bkz ay kızlar hafız esad aklıma geldi şapşik kanat geriyo herşeye kanatçı bu ayol
