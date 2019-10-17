@@ -18,7 +18,7 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıdeliğindegümletmece
-bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin
+bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin 
 --------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
 --------------------------------------------------------------------------------------------------------------
