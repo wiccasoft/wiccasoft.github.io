@@ -18,6 +18,7 @@
 
 <!--
 bkz operation black bear [top secret] (çok gizli operasyon fayls)
+beyler herkes kendine lider seçsin onu  sevsin
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (bkz bize öyle bi bilgi gelmedi)
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
 olm bombeyi atan sizsiniz in ingilicesi ne beyler (haha buldum yu tırov bombe dont fakin mess with my sabr )
