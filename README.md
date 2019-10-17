@@ -16,6 +16,7 @@
 
 <!--
 bkz operation black bear top secret (mete yarar files)
+https://www.uludagsozluk.com/k/diyanet/&w=bg (bkz web sitesi haclenmiş beyler)
 https://eksisozluk.com/16-ekim-2019-esadin-danismaninin-bbc-roportaji--6215653?a=popular (bkz hah şimdi götlere geldin hakan fidan mit tırları bunun götünde patlar beyler)
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz hah şimdi göte geldin mete trump bi mektup daha yazar)
 https://eksisozluk.com/esinin-sevgilisi-tarafindan-oldurulen-koca--6215343?a=popular (bkz olm millet mektup yorumluyo)
