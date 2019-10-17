@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz ay kızlar bu hafız esad pkk kanat geriyo mudur şimdi
 bkz ay kızlar hafız esad aklıma geldi şapşik kanat geriyo herşeye kanatçı bu ayol
 bkz kızlasr ben hal odayı başlığına kaçıyorum bıyıklarına sürtünim biraz
 bkz kızlar yoksa selocan yazdıklarımız okuyomudur hapisten ay fena oldum kitap gibi herif ayol
