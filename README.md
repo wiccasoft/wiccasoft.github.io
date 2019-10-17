@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-her-yerin-kar-olacak-olmas%C4%B1/ bkz ali kınık sen msini
 https://www.uludagsozluk.com/k/woody-allen/&w=bg bkz ezel dizsindeki bıyıklı dayı
 bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 https://www.uludagsozluk.com/k/ali-k%C4%B1n%C4%B1k-%C4%B1n-1-50-boyla-kral%C4%B1na-%C3%A7atmas%C4%B1/ 
