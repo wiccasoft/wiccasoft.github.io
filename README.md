@@ -17,6 +17,9 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-sert-adam-olma-demesi/ 
+ayol nonoş mu olsun adam dediğin sert olur ayol 
+bkz tayyipin süleyman çakır moduna bağlaması
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg sakatlığı sürmese yakışıklı çocuk aslında
 bkz aa bi yaşıma daha girdim ayol eşcinsel görmek istemiyorlarmış
 bkz aa eşcinsel ne arar ayol türkiyede delikanlı adamın delikanlı sevgilisi olur ayol
