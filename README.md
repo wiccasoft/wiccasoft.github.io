@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-erdo%C4%9Fan-a-ve-t%C3%BCrkiye-ye-cephe-almas%C4%B1/ 
-(bkz akp bartın milletvekilinin attığı tweet sonrası gerilen ilişkiler) bkz google translatein türkiye düşmanlığı
+(bkz akp bartın milletvekilinin attığı tweet sonrası gerilen ilişkiler) bkz google translate'in türkiye düşmanlığı
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ bkz google translate
 https://www.uludagsozluk.com/k/akplilerin-ingilizce-seviyesi/ bkz google translate
 https://www.uludagsozluk.com/k/kenan-imirzal%C4%B1o%C4%9Flu-nun-%C3%A7ok-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/ bkz zuhahahahahahahahahahahahahah bkz türkiyedeki gaylerin eesmer erkek sevdası
