@@ -18,7 +18,7 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek
 bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye
-tengire bi sorun bana mail atsın
+tengire bi sorun bana mail atsın google translate le çeviri atmayın rezil oldum yine
 https://www.youtube.com/watch?v=AmZGLFDv3Ak
 hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
 https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ 
