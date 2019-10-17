@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/age-of-empiresta-200-tane-fil-basmak--6216197?a=popular (bkz trumpı kızdıracak olay)
+https://eksisozluk.com/age-of-empiresta-200-tane-fil-basmak--6216197?a=popular (bkz age of empires köylüsü)
 https://eksisozluk.com/entry/25099503 (bkz giriş geliş me sonuç)
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245 (bkz en sevdiğim entry)
 https://eksisozluk.com/kuaforde-ibrahima-yattaraya-donusen-sevgili--2900686 (bkz zuhahahahaha )
