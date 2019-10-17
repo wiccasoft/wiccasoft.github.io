@@ -16,7 +16,7 @@
 
 <!--
 bkz lan yoksa devlet memuru değilmiyim lan ben
-bkz hala mit müsteşarı sapına kadar kürt hakan fidan yardımcı danışmanlığı maaşında yatmamış
+bkz lan maliye bakanı mmaaşımda yatmamaış lan yoksa maliye bakanı değilmiyim
 bkz hala cumhurbaşkanlığı müsteşar yardımclığı maaşımın yatmamış olması
 bkz gece gece gelen re ce tayyi er do van  re ce tayyi er do van deme isteği
 https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/
