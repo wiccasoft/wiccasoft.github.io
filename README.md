@@ -20,7 +20,7 @@
 bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 bkz işsiz ve fakirlerin militarist olması paradoksu
 militarist olmak için çok zengin yani muhafaza edecek değerlerinizin olması lazım. 
-ak ergenler bodrum katında topraklarımızı genişletelim diye savaş çığlıkları atıyo amk. gmötünüze don alın önce
+ak ergenler bodrum katında topraklarımızı genişletelim diye savaş çığlıkları atıyo amk hala. götünüze don alın önce
 https://www.uludagsozluk.com/k/esed-in-eceli-ile-%C3%B6lmesini-beklemek/ bkz iş bulmak için rte nin ölmesini beklemek
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=bg bkz işsiz ve fakirlerin militarist olması paradoksu
 https://www.uludagsozluk.com/k/120-saat-sonra-ypg-%C3%A7ekilmezse-ne-olacak/ bkz bordo klavyelilere görev düşecek
