@@ -18,7 +18,8 @@
 
 <!--
 https://www.uludagsozluk.com/k/homofobi/&w=bg (bkz acaba o da beni düşünüyormudur durumu) bkz o sen olan bari vakaları
-bkz türkiyedeki geylerin hayalindeki erkek olamamak
+bkz türkiyedeki geylerin hayalindeki erkek olamamak 
+bkz hayaleriniz kenanimirzalıoğlu gerçekler trump
 https://www.uludagsozluk.com/k/pkk-vs-dhkp-c-vs-mlkp-vs-tikko/ tikko siker 
 https://www.uludagsozluk.com/k/bir-kerimcan-durmaz-vard%C4%B1-ne-oldu-ona/ hee noldu ona yarrak sallıyo du bi ara
 https://www.uludagsozluk.com/k/sinan-meydan/&w=bg bkz koydu mu meydan laurus :))))))
