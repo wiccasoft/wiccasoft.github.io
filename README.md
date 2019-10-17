@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
+https://www.uludagsozluk.com/k/reisin-asla-e%C4%9Filmedi%C4%9Fi-ger%C3%A7e%C4%9Fi/ ohoo götten bile aldı haberin yok
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reis-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg yavaş dön reis sikerler hepinizi
 https://www.uludagsozluk.com/k/ameriga-y%C4%B1-yola-getiren-d%C3%BCnya-lideri/ bkz akboyların çıldırması :)))))
 https://www.uludagsozluk.com/k/%C3%BClkemde-vatan-haini-k%C3%BCrt-istemiyorum/ bkz sen kimsin lan amın feryadı :)))
