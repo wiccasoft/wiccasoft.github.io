@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz bi erkeği itici yapan detaylar
 bkz uzak durulması gereken erkekler
 bkz halo dayı nabıyodur acaba şimdi
 bkz ezel dizisindeki bıyıklı dayı nabıyo acaba ay ığranç ama çekici bi okadar da ayol
