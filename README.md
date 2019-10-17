@@ -17,6 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz zuahhahahahahahaha
+https://www.uludagsozluk.com/k/sona-kadar-sava%C5%9F-deyip-bug%C3%BCn-bar%C4%B1%C5%9F-pon%C3%A7i%C4%9Fi-olmak/&w=gd 
 https://www.uludagsozluk.com/k/geri-vites-deyince-akla-gelen-d%C3%BCnya-lideri/ (bkz re ce tay yi er do van )
 (bkz hangi oç yaptı lan bunu)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
