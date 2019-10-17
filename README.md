@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
-know your limits diyo google translate gönderiyorum tweet doğru mu lan rezil olmayak karakter limitine takılmaz dimi bu
+know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi bu
 https://www.uludagsozluk.com/k/k%C4%B1sa-pa%C3%A7a-pantolon-giyen-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
 neyse nerde kalmıştık re ce tay yi er do van re ce tay yi er do van
