@@ -16,7 +16,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--bu ezanlar ki yurdmun üstündü inlemeli iman gibi serhaddim var nasıl böyle bir imanı boğar how dare you
+<!--bu ezanlar ki yurdumun üstündü inlemeli benim dolu serhaddim var nasıl böyle bir imanı boğar how dare you
 https://www.uludagsozluk.com/k/kemalistlerin-pkk-y%C4%B1-ele%C5%9Ftirmemesi/&w=bg bkz chpkk
 bkz vatanına göz dikeni ez oğlum toprak diyerek geçme tanı düşün altında yatan binlerce solucanı
 bkz bize ak gençlik yeter bay kemal göklerden gelen bir karar vardır
