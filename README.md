@@ -16,7 +16,10 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--bu ezanlar ki yurdumun üstündü inlemeli 
+<!--
+ne zaman durdu lan negzel atışıyoduk trumpla
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1n%C4%B1n-durdurulmas%C4%B1/
+bu ezanlar ki yurdumun üstündü inlemeli 
 benim iman dolu minarelerim var nasıl böyle bir imanı boğarsın trump 
 how dare you shame on you minareler kubbemiz askerler kışla nasıldı lan o karıştı ortalık 
 bir dur trump şiirimi unuttum ya
