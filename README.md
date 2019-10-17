@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
-bkz olm noluyo lan başçavuşun eşşeği mi var hulusiyi çağırın lan bana sormadan kafanıza göre 
+bkz olm noluyo lan başçavuşun eşşeği mi var hulusiyi çağırın lan
 bkz hulusi sen misin lan noluyo lan nereye çekilmişler lan anlamadım bi bok
 https://www.uludagsozluk.com/k/ypg-geri-%C3%A7ekilirse-ancak-harekat-biter/
 bkz onayı kim verdi olm kime sordunuz lan mgk yı falan toplağyak lan noluyo lan bana kırbacımı getirin lan
