@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (olm adam sapık)
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (olm o da insan lan yazık lan)
 https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (bkz olm bu herif emre belezoğlun ı tekmeleyen değil mi lan asdasda yok lan o okachoydu ortegamıydı lan yoksa bilemedim yapay zekaya futbol patchi atayım genşler seviyo böyle şeyleri)
 https://www.uludagsozluk.com/k/suudi-arabistan-%C4%B1n-t%C3%BCrkiyeye-hac-ambargosu/ (bkz ne güzeldir kabe yolları)
