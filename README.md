@@ -17,7 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-ama yol yabdık yazacam bak çok komik bu da but we made the way get out the my way hani yolunu yabdık ne şekil yapıyon hala gibi oldu :))
+ama yol yabdık yazacam bak çok komik bu da but we made the way get out the my way 
+hani yolunu yabdık ne şekil yapıyon hala gibi oldu :))
 beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan tamam buldum get out of my hair shape way
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
 know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi takılmadı altına da push it to the limit yazdım şekil oldu hani scarface havası kattım az
