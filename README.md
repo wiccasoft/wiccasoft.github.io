@@ -19,7 +19,7 @@
 <!--
 bkz operation black bear [top secret] (çok gizli operasyon files)
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you trump
-olm bombeyi atan sizsiniz in ingilicesi ne beyler tweet atacam trumpa 
+olm bombeyi atan sizsiniz in ingilicesi ne beyler 
 bi de skimle taşağım kasımpaşalıyım ın ingilizcesi lazım 
 bi de skim daşşağıma denk bi de skimden aşşa kasımpaşa nın ingilizcesi lazım onu bana mail ataç edin tc.cumhurbaskan.rte@gmail.com
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ (bana tweet attıracak madafaka olm bombeyi atan sizsiniz)
