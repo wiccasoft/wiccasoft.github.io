@@ -17,9 +17,10 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
- re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec ta yi er do van
- re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec ta yi er do van
- re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec ta yi er do van
+ re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
+ re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
+ re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
+ re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
 ne zaman durdu lan negzel atışıyoduk trumpla benim niye haberim yok lan fiat doblomla kutlayayım bunu
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1n%C4%B1n-durdurulmas%C4%B1/
 bu ezanlar ki yurdumun üstündü inlemeli 
