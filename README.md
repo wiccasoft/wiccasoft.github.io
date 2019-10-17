@@ -22,7 +22,7 @@ bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telef
 https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg 
 (bkz adam fenerli düşmanı zaten beyler idmana geç geldi canere attığı tokatı hatırlayın)
 bkz merih demiral el ense yapan teknik adam
-https://www.youtube.com/watch?v=hAvCc05husE çokta skimde amk şişkosu yahu
+https://www.youtube.com/watch?v=hAvCc05husE (bkz çokta skimde amk şişkosu)
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/
 (bkz olm operasyon mektuplarını niye okuyosunuz onu tayyipe attım)
 https://www.uludagsozluk.com/k/ali-babacan-vs-ahmet-davuto%C4%9Flu/&w=bg (bkz babacan daha babacan bi adam) 
