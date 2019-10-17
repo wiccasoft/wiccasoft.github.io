@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz operation black bear top secret (çok gizli files)
+bkz operation black bear top secret (çok gizli operasyon files)
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ (trumpın attığı mektubu okuyolar olm bi dur ya )
 https://eksisozluk.com/9-ekim-2019-donald-trumpin-rteye-mektubu--6215703?a=popular
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz yararsız biri deşifre oldu jef)
