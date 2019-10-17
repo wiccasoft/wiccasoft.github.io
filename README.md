@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz türkler ne zaman gelişir cvp :twitter ı kapattıkları zaman
 bkz türklerin sosyal medyada en çok vakit harcayan ırk olması
 https://www.uludagsozluk.com/k/sinan-meydan/&w=bg bkz koydu mu meydan laurus :))))))
 bkz türklerin sosyal medyayla imtihanı :))))))))
