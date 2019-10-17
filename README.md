@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/9-ekim-2019-donald-trumpin-rteye-mektubu--6215703?a=popular (bkz birisi tercüme etsin küfr mü etmiş deyyus)
+https://eksisozluk.com/9-ekim-2019-donald-trumpin-rteye-mektubu--6215703?a=popular (bkz birisi tercüme etsin küfr mü etmiş deyyus siz de bi cavap yazın canım her boku benden beklemeyin)
 bkz lan yoksa devlet memuru değilmiyim lan ben
 bkz maliye bakanı mmaaşımda yatmamış lan yoksa.. mazlumu çağırın bana
 bkz hala mit müsteşar yardımcısı danışmanlığı maaşımın da yatmamış olması
