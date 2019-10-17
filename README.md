@@ -1,4 +1,4 @@
-[![Image](smartdata/mission.png)]( https://www.youtube.com/watch?v=ZEZ09WM0_5U )
+[![Image](smartdata/mission.png)]( https://www.youtube.com/watch?v=hAvCc05husE )
 
 [![Image](smartdata/isis.png)]( https://www.youtube.com/watch?v=zEvF-2-0LWk )
 
@@ -17,6 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-evine-sald%C4%B1r%C4%B1da-bulunulmas%C4%B1/ (bkz justin bieberın  haterları)
 https://www.uludagsozluk.com/k/twitter-ku%C5%9Fsa-biz-kartal%C4%B1z/ (bkz nagehanı sinirlendirecek açıklama)
 bkz age of empires a cami patchi istiyoruz kampanyası
 https://eksisozluk.com/age-of-empires-kurt-irki-patchi--2962718 (bkz yüklemediğim patch)
