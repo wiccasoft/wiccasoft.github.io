@@ -20,7 +20,7 @@
 bkz bi erkeği itici yapan detaylar
 bkz uzak durulması gereken erkekler
 bkz halo dayı nabıyodur acaba şimdi
-bkz ezel dizisindeki bıyıklı dayı nabıyo acaba ay ığranç ama çekici bi okadar da ayol
+bkz ezel dizisindeki bıyıklı dayı nabıyo acaba ay ığranç ama çekici bi okadar da ayol uzak duramıyorum
 bkz kışın bıyıklı dayı istemiyoruz kampanyası
 https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ah nerde o eski gayler diye efkarlanıyordur
 https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ (bkz çıplak erkek görmek istemiyoruz )
