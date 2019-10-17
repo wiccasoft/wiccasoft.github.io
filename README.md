@@ -15,6 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz bartın milletvekilliği maaşımda yatmamış
 bkz hala mit müsteşar yardımcı danışmanlığı maaşında yatmamış
 bkz hala cumhurbaşkanlığı müsteşar yardımclığı maaşımın yatmamış olması
 bkz gece gece gelen re ce tayyi er do van  re ce tayyi er do van deme isteği
