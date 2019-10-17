@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/ter%C3%B6rist-le%C5%9Flerinin-cemevlerine-g%C3%B6t%C3%BCr%C3%BClmesi/ bkz yok camiye götürecektiler bi de yanına yatıp sevişelim leşlerle oldu amk ibneyiz dediysek okadar değil
+https://www.uludagsozluk.com/k/ter%C3%B6rist-le%C5%9Flerinin-cemevlerine-g%C3%B6t%C3%BCr%C3%BClmesi/ bkz yok camiye götürecektiler bi de yanına yatıp sevişelim leşlerle oldu amk ibneyiz dediysek okadar değil mümin mümine ayna olacak badesini verecek o kadar 
 https://www.uludagsozluk.com/k/updullah-avici/&w=bg uplayın bu oç arabı ubdullah nedir oç yallah arabistana up la up la
 https://www.uludagsozluk.com/k/trafikte-kavga-eden-kara-%C3%A7ar%C5%9Fafl%C4%B1lar/ (bkz yine twitter a soktun kardeş)
 abi bu ergenlerdeki amerikaya para kazandırma tutkusu nedir ya
