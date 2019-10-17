@@ -25,7 +25,7 @@ bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bar
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
 (bkz oh god damn here we go again) ne demek lan ekşide gördüm bunu mu yazsam havalı durur
 --------------------------------------------------------------------------------------------
-https://www.uludagsozluk.com/k/if-they-have-a-future-they-will-see/ (bkz yine rezil ettiniz beni)
+https://www.uludagsozluk.com/k/if-they-have-a-future-they-will-see/ (bkz yine rezil ettiniz beni istifa mı etsem)
 ----------------------------------------------------------------------------------------------
 https://www.dailymotion.com/video/x70vcyk (i understand you but speak no well ok speak turkish oh very very well )
 https://www.uludagsozluk.com/k/emperyalizme-inat-karde%C5%9Fimsin-esad/&w=bg (bkz ne demek şakir)
