@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/16-ekim-2019-esadin-danismaninin-bbc-roportaji--6215653?a=popular (bkz hah şimdi götlere geldin hakan fidan)
+https://eksisozluk.com/16-ekim-2019-esadin-danismaninin-bbc-roportaji--6215653?a=popular (bkz hah şimdi götlere geldin hakan fidan mit tırları bunun götünde patlar beyler)
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz hah şimdi göte geldin mete trump bi mektup daha yazar)
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/ (bkz oha kim okuyacak lan bunu okuyanı siksinler bi danışman tutmak lazım okusun yorumlasın bunları)
 bkz hala adıma başlık açılmamış olması demek ki doğru yoldayım
