@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz 15 temmuz hain darbe girişimiyle dalga geçen chpkklılar
+bkz 15 temmuzla dalga geçen chpkklılar
 bkz kılışdarın hain 15 temmuz girişimine bi şey dememesi bay kemalcileri kudurtan gerçekler 
 o değil de fettullah gülenden ses gelmememesi 15 temmuz hain girişimi yaptı gitti herif ya
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-cb-olmas%C4%B1/ la oglum kılışdar mı güldürme la
