@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz ay bi delilik yapmasın bu deli oğlan
+bkz ay bi delilik yapmasın bizim deli oğlan
 https://www.uludagsozluk.com/k/rte-nin-s%C3%BCleyman-%C3%A7ak%C4%B1r-modunu-a%C3%A7mas%C4%B1/
 bkz kafamda deli sorular
 bkz acaba seyfo dayı homofobik olduğu için mi memnuniyetsiz oç gibi sürekli geviş getiriyordu
