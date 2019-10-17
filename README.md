@@ -18,7 +18,7 @@
 
 <!--
 bkz daha ezanla da dalga geçecez genşler ağlayacaksanız geçmeyelim
-https://www.uludagsozluk.com/k/istiklal-mar%C5%9F%C4%B1-ile-dalga-ge%C3%A7en-lgbtciler/ aplaycaksanız oynamaylım genşler yeni başlıyoruz
+https://www.uludagsozluk.com/k/istiklal-mar%C5%9F%C4%B1-ile-dalga-ge%C3%A7en-lgbtciler/ aplaycaksanız oynamayalım genşler yeni başlıyoruz
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
 https://www.uludagsozluk.com/k/twitter-ku%C5%9Fsa-biz-kartal%C4%B1z/ (bkz nagehanı sinirlendirecek açıklama)
