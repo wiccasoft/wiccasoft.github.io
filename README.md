@@ -20,8 +20,8 @@
 beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
 ekşiden bi kaç eleman yollayın yeni görev verecem haddini bilin inciliccesi lazım bana
 bkz operation black bear [top secret] (çok gizli operasyon fayls)
-bkz hacıt hafızın pyd ye yıllarca gol ganat gerdiği gerçeği
-https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (bkz yine tüpe soktun kardeş)
+bkz hacıt hafızın pyd ye yıllarca gol ganat gerdiği gerçeği bi delikanlı da çıkıp hacı nabıyon sen demiyo
+https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (elemanhaklıbeyler)
 biri de çıkıp demiyo hafız esad hacıt ne ayaksın sen daeshi besleyen de bu ibne 
 beyler herkes kendine lider seçsin onu  sevsin böyle ortalık karışıyo selanikliyi yedirmeyiz
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
