@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz abi siz bütün başlık açıyosunuz ne zaman çalışıyosunuz onu anlamadım mesela tengirbudun ne iş yapıyo besle kargayı oysun gütünü falan atarlı bi abi ne iş yapıyo tengir ne kadar vergi veriyo merak ettim
+bkz tengirbudun ne iş yapıyo besle kargayı oysun gütünü falan atarlı bi abi ali koç felan heralde
 https://www.uludagsozluk.com/k/k%C4%B1sa-pa%C3%A7a-pantolon-giyen-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
 neyse nerde kalmıştık re ce tay yi er do van re ce tay yi er do van
