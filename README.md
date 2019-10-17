@@ -17,8 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz operation black bear [top secret] (çok gizli operasyon files)
-ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you trump
+bkz operation black bear [top secret] (çok gizli operasyon fayls)
+ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
 olm bombeyi atan sizsiniz in ingilicesi ne beyler 
 bi de skimle taşağım kasımpaşalıyım ın ingilizcesi lazım 
 bi de skim daşşağıma denk bi de skimden aşşa kasımpaşa nın ingilizcesi lazım onu bana mail ataç edin tc.cumhurbaskan.rte@gmail.com
