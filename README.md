@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
+https://www.youtube.com/watch?v=Nh9lKYauXP8 Testere Necmi Sehem Kuruyor - Kurtlar Vadisi 34.Bölüm
 https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (bunlara ayrı bi dosya açın)
 operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan? peki hala hadi herkes görev yerlerine
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
