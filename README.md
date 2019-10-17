@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz akıllı adam türkleri tweeter manyağ yaptı bi teyzem yok orda amk)
+https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz akıllı adam türkleri twitter manyağ yaptı bi teyzem yok orda amk)
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ (bkz google translate) 
 https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-erdo%C4%9Fan-a-ve-t%C3%BCrkiye-ye-cephe-almas%C4%B1/ 
 (bkz akp bartın milletvekilinin attığı tweet sonrası gerilen ilişkiler) bkz google translate'in türkiye düşmanlığı
