@@ -19,6 +19,7 @@
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
 bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
+https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1-trt-ye-%C3%A7%C4%B1karanlardan-yana-olmak/ (öcalan trt ye mi çıkmış lan)
 beyler önce şenol güneş le devlet bahçeliye entry girelim önce büyükler
 https://www.uludagsozluk.com/k/pyd-ter%C3%B6risti-cenazesine-kat%C4%B1lan-akp-milletvekili/&w=bg (bkz a bu benim lan hemen ifşa edin götverenler)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (twitterı açık yaşıyomuş beyler problem yok)
