@@ -20,7 +20,7 @@
 https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (beyler bunlara ayrı bi operasyon yapalım)
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin
 https://www.uludagsozluk.com/k/kuzey-kore-nin-ger%C3%A7ek-y%C3%BCz%C3%BC/ (buna ayrı bi dosya açın beyler)
-hadi beyler çabuk zamnalar yarışıyoruz 
+hadi beyler çabuk zamnalar yarışıyoruz batum elşçiliğinde ki adamlarımızdan ses gelmiyor hala
 https://www.uludagsozluk.com/k/i-will-call-you-later/ (bkz sen kapat sana yazmasın)
 https://www.uludagsozluk.com/k/kemalist-suriyeliler/ (bkz kamışa su yürüyen suriyeliler)
 https://www.youtube.com/watch?v=XxbWh_EfiZM ( bkz videolarla incilicce öğreniyorum)
