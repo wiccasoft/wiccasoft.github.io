@@ -30,6 +30,7 @@ beyler önce şenol güneş le devlet bahçeliye entry girelim önce büyükler
 https://www.uludagsozluk.com/k/pyd-ter%C3%B6risti-cenazesine-kat%C4%B1lan-akp-milletvekili/&w=bg (bkz a bu benim lan hemen ifşa edin götverenler)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (twitterı açık yaşıyomuş beyler problem yok)
 https://www.uludagsozluk.com/k/fuat-avni/&w=bg (bkz ölmüş amk)
+https://www.uludagsozluk.com/k/donald-trump/&w=bg (olm bi bakın tweet neyin atmasın yine)
 https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz adam fenerli zaten beyler)
 https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (adam fenrebahçe düşmanı zaten beyler) 
 bkz şenol güneşin merih demirala el ense yaptığı resim
