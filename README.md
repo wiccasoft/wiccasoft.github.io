@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ bkz haddini bilin inciliccesi neydi beyler
-know your limits diyo googlwe translate gönderiyorum tweet sdoğru mu lan rezil olmayak
+know your limits diyo google translate gönderiyorum tweet doğru mu lan rezil olmayak
 bkz deepwebte rte nin ölmesini bekleyenler olm o adam sizi de gömer lan gidin iş bulun kendize :)))
 bkz olm biraz da tengir amcanıza entry girin lan :))))
 bkz tengirbudun ne iş yapıyo lan besle kargayı oysun gütünü falan atarlı bi abi ali koç felan heralde
