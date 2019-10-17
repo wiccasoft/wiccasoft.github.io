@@ -18,7 +18,6 @@
 
 <!--
 bkz daha ezanla da dalga geçecez ağlayacaksanız geçmeyelim
-bkz türklerin bütün kutsallarıyla dalga geçecez raad olun yahu
 https://www.uludagsozluk.com/k/istiklal-mar%C5%9F%C4%B1-ile-dalga-ge%C3%A7en-lgbtciler/ aplaycaksanız oynamaylım genşler yeni başlıyoruz
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
