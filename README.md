@@ -22,8 +22,7 @@ ekşiden bi kaç eleman yollayın yeni görev verecem haddini bilin inciliccesi 
 bkz operation black bear [top secret] (çok gizli operasyon fayls)
 bkz hacıt hafızın pyd ye yıllarca gol ganat gerdiği gerçeği varkene bi delikanlı da çıkıp hacı nabıyon sen demiyo
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (elemanhaklıbeyler)
-biri de çıkıp demiyo hafız esad hacıt ne ayaksın sen daeshi besleyen de bu ibne 
-beyler herkes kendine lider seçsin onu  sevsin böyle ortalık karışıyo selanikliyi yedirmeyiz
+bi de doha bölgesine tırlar gelince haber verin pydliler silah dağıtacaz daha
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
 olm bombeyi atan sizsiniz in ingilicesi ne beyler (haha buldum yu tırov bombe dont fakin mess with my sabr )
 bi de skimle taşağım kasımpaşalıyım ın ingilizcesi lazım hah buldum my dick my dashak ekual from kasimpasa turkey
