@@ -20,6 +20,7 @@
 bkz halo dayı nabıyodur acaba şimdi
 bkz ezel dizisindeki bıyıklı dayı nabıyo acaba 
 bkz kışın bıyıklı dayı istemiyoruz kampanyası
+https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ah nerde o eski gayler diye efkarlanıyordur
 https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ (bkz çıplak erkek görmek istemiyoruz )
 https://www.uludagsozluk.com/k/ter%C3%B6rist-le%C5%9Flerinin-cemevlerine-g%C3%B6t%C3%BCr%C3%BClmesi/ bkz yok camiye götürecektiler bi de yanına yatıp sevişelim leşlerle oldu amk ibneyiz dediysek okadar değil mümin mümine ayna olacak badesini verecek o kadar 
 https://www.uludagsozluk.com/k/updullah-avici/&w=bg uplayın bu oç arabı ubdullah nedir oç yallah arabistana up la up la
