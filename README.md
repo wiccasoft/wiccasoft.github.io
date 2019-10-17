@@ -21,7 +21,7 @@ bkz operation black bear [top secret] (çok gizli operasyon fayls)
 ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
 olm bombeyi atan sizsiniz in ingilicesi ne beyler (haha buldum yu tırov bombe dont fakin mess with my sabr )
 bi de skimle taşağım kasımpaşalıyım ın ingilizcesi lazım hah buldum my dick my dasshak ekual from kasimpasa turkey
-bi de skim daşşağıma denk bi de skimden aşşa kasımpaşa nın ingilizcesi lazım onu bana mail ataç edin tc.cumhurbaskan.rte@gmail.com
+bi de skim daşşağıma denk bi de skimden aşşa kasımpaşa nın ingilizcesi lazım onu bana mail ataç edin tc.cumhurbaskan.rte@gmail.com tamam halettim genşler mail atmayın
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ (bana tweet attıracak madafaka olm bombeyi atan sizsiniz)
 https://www.uludagsozluk.com/k/dear-trump-what-did-you-say-are-you-madafak%C4%B1r/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-babas%C4%B1na-a%C5%9F%C4%B1k-olmak/&w=bg
