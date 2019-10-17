@@ -22,7 +22,7 @@ bkz işsiz ve fakirlerin militarist olması paradoksu
 https://www.uludagsozluk.com/k/hani-fetih-ediyorduk-suriyeyi/
 https://www.uludagsozluk.com/k/esed-in-eceli-ile-%C3%B6lmesini-beklemek/
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/
-(bkz hangi oç yaptı lan bunu)beyler norm ender ben değilim seksi de değilim lütfen
+(bkz hangi oç yaptı lan bunu) bkz beyler norm ender ben değilim seksi de değilim lütfen
  -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
