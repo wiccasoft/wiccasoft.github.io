@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz ay kızlar düşünsene melih yazdıklarımız okuyo ay fena oldum ayol
+bkz ay kızlar düşünsenize melih demiral yazdıklarımızı okuyo ay fena oldum ayol
 bkz ay şenol hoca nabıyo acaba kaslı kaslı erkekleri kıoşturuyodur yine şapşik
 bkz ay acaba cem yılamz takipten mi çıksak kızlar
 bkz ay okan nabıyo acaba şapşik yine karıya çakıyodur ama seks hayatım bitti yazmıştı en son
