@@ -18,9 +18,9 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek inciliccesi
 https://www.uludagsozluk.com/k/i-will-call-you-later/ (bkz sen kapat sana yazmasın)
-olm ümmetçilikten turancılığa geçelim dedik incilicceyi unuttuk iyi mi
 https://www.uludagsozluk.com/k/kemalist-suriyeliler/ (bkz kamışa su yürüyen suriyeliler)
 https://www.youtube.com/watch?v=XxbWh_EfiZM ( bkz videolarla incilicce öğreniyorum)
+olm ümmetçilikten turancılığa geçelim dedik incilicceyi unuttuk iyi mi
 bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye biri çevirsin 
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
 (bkz oh god damn here we go again) ne demek lan ekşide gördüm bunu mu yazsam havalı durur
