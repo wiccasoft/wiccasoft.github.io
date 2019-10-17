@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%BClkemde-vatan-haini-k%C3%BCrt-istemiyorum/ bkz sen kimsin lan amın feryadı kürt
 https://www.uludagsozluk.com/k/orospu-evlad%C4%B1-ypg-nin-kuca%C4%9Fa-gelmesi/ bkz baxa bırag kanka kucakta hoplatam la orzbu evladını amuna goyam la
 bkz yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/sona-kadar-sava%C5%9F-deyip-bug%C3%BCn-bar%C4%B1%C5%9F-pon%C3%A7i%C4%9Fi-olmak/
