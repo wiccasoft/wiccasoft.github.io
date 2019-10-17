@@ -17,75 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/balkonu-camla-kapatan-gerizekal%C4%B1/&w=bg sensin gerizekalııı
-bkz ay imamoğlu şimdi hi guys how are you fine thanks and you have a nice day yazmasın tayyip anlamaz ki 
-bkz ay tuğçe kaza şimdi  trumpa atarlanmasın yine
-bkz ay tayyip one minute yazmasın şimdi oh god damn man here we go again dont do it man
-bkz ay tayyip şimdi delilik yapıp almanca cevap atmasın
-bkz ay acaba tayyip bi delilik yapıp tweet atmaz inşallak
-bkz ay acaba tayiip google tranlate i bulmuşmudur
-bkz ay acaba pkk ya kol kanat gerenler napıyodur şimdi
-bkz ay acaba kol kanat geriyomudur pkk ya
-bkz tayyip pabucu yarım çık dışarıya oynayalım
-bkz tayyip korkudan altına sıçtığı gerçeği
-https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ bence veremez one minute der en fazla
-https://www.uludagsozluk.com/e/42298126/ tamam koçum hallederiz ben idmandayım kaptıyorum şimdi
-bkz ay iğrenç barzo bi erkek ayol gitsin kız bırak evde beton gibi oturmasın ayol
-bkz ay kızlar fatih hoca da ordan where we @ trump look at the tabela yaparmış ay ne enstantane olur ayol
-bkz ay kızlar bizim deli oğlan tayyo şimdi trumpa one minute one minute google tranleyt açük diye tweet atmasın
-bkz ay kızlar bu hafız esad pkk kanat geriyo mudur şimdi
-bkz ay kızlar hafız esad aklıma geldi şapşik kanat geriyo herşeye kanatçı bu ayol
-bkz kızlasr ben hal odayı başlığına kaçıyorum bıyıklarına sürtünim biraz
-bkz kızlar yoksa selocan yazdıklarımız okuyomudur hapisten ay fena oldum kitap gibi herif ayol
-bkz kızlar bu selocan hapiste twittera giremez şimdi ahahahah
-bkz ay selocan nabıyodur acaba kıyamamm biz bburda yumuşak yumuşak entry giriyoz herif yok ahahahaha
-bkz ay kızlar düşünsenize gaga bulut yazdıklarımzı okuyor dermişimmmmmmmm ay silivri soğuktur şimdi demeyelim
-bkz ay kızlar düşünsenize melih demiral yazdıklarımızı okuyo ay fena oldum ayol idmanda herif ne okuması
-bkz ay şenol hoca nabıyo acaba kaslı kaslı erkekleri kıoşturuyodur yine şapşik
-bkz ay acaba cem yılamz takipten mi çıksak kızlar
-bkz ay okan nabıyo acaba şapşik yine karıya çakıyodur ama seks hayatım bitti yazmıştı en son
-bkz ay kaslı kaslı asker selamı veren futbolcular nabıyodur şimdi
-bkz ay melih demiral nabıyodur şimdi şapşik asker selamıyla eritti bizi ayol
-bkz ay acaba şenol hoca nabıyo şapşik ya fener düşmanı pissss
-bkz ay caba gag bulut nabıyodur şimdi kız yotubeda da yok hapse atmasınlar ayol selocanın yanına ayyy fena oldum
-bkz acaba bartın milletvekili yeni twit atmışmıdır acaba baksam mı ay meraktayım şimdi
-bkz erdogan nabıyodur acaba o kadar aktrollik yapıyorum o da beni seviyomudur acaba
-bkz zall bana hep oç der nabıyodur acaba
-bkz x nabıyodur şimdi y vardı ne oldu ona z de beni düşünüyormudur
-bkz oda üşüyormuş benim bir tanem 
-bkz acaba kenani mirzalıoğlu nabıyodur kızlar çekik keskin bakışlarıyla falan
-https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ay acaba nabıyodurşimdi kıllı kıllı göğsüyle 
-bkz ay kızlar ben ekleyecem dayanmıcam
-https://www.uludagsozluk.com/k/bir-kerimcan-durmaz-vard%C4%B1-ne-oldu-ona/ ay instada sallıyodu ya işte o
-https://www.uludagsozluk.com/k/pkkl%C4%B1-k%C3%BCrt/&w=bg bkz putin anamın üstünde yakalansa orospuluk anmadadır
-https://www.uludagsozluk.com/k/homofobi/&w=bg (bkz acaba o da beni düşünüyormudur durumu) bkz o sen olan bari vakaları
-bkz türkiyedeki geylerin hayalindeki erkek olamamak 
-bkz hayaleriniz kenanimirzalıoğlu gerçekler trump
-https://www.uludagsozluk.com/k/pkk-vs-dhkp-c-vs-mlkp-vs-tikko/ tikko siker 
-https://www.uludagsozluk.com/k/bir-kerimcan-durmaz-vard%C4%B1-ne-oldu-ona/ hee noldu ona yarrak sallıyo du bi ara
-https://www.uludagsozluk.com/k/sinan-meydan/&w=bg bkz koydu mu meydan laurus :))))))
-https://www.uludagsozluk.com/k/makarna-i%C3%A7in-troll%C3%BCk-yap%C4%B1p-ekonomi-iyi-demek/ alala kim acaba bunlar
-bkz google translatei karalamaya çalışan türkler
-https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/
-bkz bi erkeği itici yapan detaylar
-bkz uzak durulması gereken şapşik erkekler
-bkz halo dayı nabıyodur acaba şimdi
-bkz ezel dizisindeki bıyıklı dayı nabıyo acaba ay ığranç ama çekici bi okadar da ayol uzak duramıyorum
-bkz kışın bıyıklı dayı istemiyoruz kampanyası
-https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ah nerde o eski gayler diye efkarlanıyordur
-https://www.uludagsozluk.com/k/ter%C3%B6rist-le%C5%9Flerinin-cemevlerine-g%C3%B6t%C3%BCr%C3%BClmesi/ bkz yok camiye götürecektiler bi de yanına yatıp sevişelim leşlerle oldu amk ibneyiz dediysek okadar değil mümin mümine ayna olacak badesini verecek o kadar 
-https://www.uludagsozluk.com/k/updullah-avici/&w=bg uplayın bu oç arabı ubdullah nedir oç yallah arabistana up la up la
-https://www.uludagsozluk.com/k/trafikte-kavga-eden-kara-%C3%A7ar%C5%9Fafl%C4%B1lar/ (bkz yine twitter a soktun kardeş)
-abi bu ergenlerdeki amerikaya para kazandırma tutkusu nedir ya
-https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz kenan imirzalüğoğlu varken halo dayıya hallenmek)
-https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/ ( bıyıklarını oğlanların dübürüne sürterek gay yapıyo yine de sen bilirsin)
-https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz halo dayı)
-https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (olm o da insan lan yazık lan)
-https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (bkz olm bu herif emre belezoğlun ı tekmeleyen değil mi lan asdasda yok lan o okachoydu ortegamıydı lan yoksa bilemedim yapay zekaya futbol patchi atayım genşler seviyo böyle şeyleri)
-https://www.uludagsozluk.com/k/suudi-arabistan-%C4%B1n-t%C3%BCrkiyeye-hac-ambargosu/ (bkz ne güzeldir kabe yolları)
-(bkz  odanın içinde tavaf ederek çözülecek durum https://www.youtube.com/watch?v=Ww5jScH4fXY)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
-https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz asker selamı verdi diye kürtlerin vatan haini ilanı ettiği gerçek atatürkçü)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
 https://www.uludagsozluk.com/k/twitter-ku%C5%9Fsa-biz-kartal%C4%B1z/ (bkz nagehanı sinirlendirecek açıklama)
 bkz age of empires a cami patchi istiyoruz kampanyası
