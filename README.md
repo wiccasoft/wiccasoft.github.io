@@ -21,6 +21,7 @@ bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 bkz işsiz ve fakirlerin militarist olması paradoksu
 militarist olmak için çok zengin yani muhafaza edecek değerlerinizin olması lazım. 
 ak ergenler bodrum katında savaş çığlıkları atıyo amk hala. götünüze don alın önce
+2021 yılında milli gelir 100 nmilyar dolar açık verince daha da kötü olacak hazırlıklı olun genşler
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg bir enes batur etmez
 https://www.uludagsozluk.com/k/esed-in-eceli-ile-%C3%B6lmesini-beklemek/ bkz iş bulmak için rte nin ölmesini beklemek
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=bg bkz işsiz ve fakirlerin militarist olması paradoksu
