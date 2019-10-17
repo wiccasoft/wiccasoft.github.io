@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (olm bu herif 40 yaşında değil mi lan hala mu futbol oynuyo asdasasdasdaasdasdad asda d as dasd asd asdasd asdasdasdasd)
+https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (olm bu herif 40 yaşında değil mi lan hala mu futbol oynuyo asdasasdasdaasdasdad asda d as dasd asd asdasd asdasdasdasd bkz sen yerinde duuur karşındaki yattara dur)
 https://www.uludagsozluk.com/k/suudi-arabistan-%C4%B1n-t%C3%BCrkiyeye-hac-ambargosu/ (bkz ne güzeldir kabe yolları)
 (bkz  odanın içinde tavaf ederek çözülecek durum https://www.youtube.com/watch?v=Ww5jScH4fXY)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
