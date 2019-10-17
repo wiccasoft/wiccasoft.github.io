@@ -16,7 +16,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: ak amlar yarrak istiyo
+<!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: haddini bilin inciliccesi
 https://www.youtube.com/watch?v=AmZGLFDv3Ak
 hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
 https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ 
