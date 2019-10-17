@@ -20,7 +20,6 @@
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz asker selamı verdi diye kürtlerin vatan haini ilanı ettiği gerçek atatürkçü)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-evine-sald%C4%B1r%C4%B1da-bulunulmas%C4%B1/ (bkz justin bieberın  haterları)
 https://www.uludagsozluk.com/k/twitter-ku%C5%9Fsa-biz-kartal%C4%B1z/ (bkz nagehanı sinirlendirecek açıklama)
 bkz age of empires a cami patchi istiyoruz kampanyası
 https://eksisozluk.com/age-of-empires-kurt-irki-patchi--2962718 (bkz yüklemediğim patch)
