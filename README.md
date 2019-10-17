@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
-https://www.uludagsozluk.com/k/uzak-durulacak-erkekler/&w=bg bkz putin kullandı beni piyon gibi
+https://www.uludagsozluk.com/k/uzak-durulacak-erkekler/&w=bg bkz putin kullandı beni piyon gibi napim lan suriyeyi
 bkz haa anladım esed benim şimdi suriye benim mi lan harbi mi la kardeşim erdovan
 bkz olm noluyo lan başçavuşun eşşeği mi var hulusiyi çağırın lan
 bkz hulusi sen misin lan noluyo lan nereye çekilmişler lan anlamadım bi bok
