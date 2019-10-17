@@ -20,10 +20,7 @@
 bkz kafamda deli sorular
 bkz acaba seyfo dayı polata aşık mıydı
 bkz acaba celal şengör ilber ortaylıyla sevişmiş midir
-bkz acaba halo dayın mematiyle sevişmiş midir
-bkz sert erkeğin sert sevgilisi olur ayol
-bkz acaba ezeldeki dayı da beni düşünüyormudur 
-bkz acaba fedon napıyodur şimdi çıplak mıdır
+bkz acaba halo dayı mematiyle sevişmiş midir
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-sert-adam-olma-demesi/ 
 ayol nonoş mu olsun adam dediğin sert olur ayol 
 bkz tayyipimin süleyman çakır moduna bağlaması
