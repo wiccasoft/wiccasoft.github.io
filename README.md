@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz kenan imirzalüğoğlu varken halo dayıyda hallenmek)
+https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz kenan imirzalüğoğlu varken halo dayıya hallenmek)
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/ ( bıyıklarını oğlanların dübürüne sürterek gay yapıyo yine de sen bilirsin)
 https://www.uludagsozluk.com/k/ezel-dizisindeki-%C3%A7ok-bilmi%C5%9F-pos-b%C4%B1y%C4%B1kl%C4%B1-day%C4%B1/ (bkz halo dayı)
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (olm o da insan lan yazık lan)
