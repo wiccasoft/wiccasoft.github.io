@@ -18,7 +18,9 @@
 
 <!--
 bkz zuahhahahahahahaha
+(bkz beyler ben saldırıyorum)
 https://www.uludagsozluk.com/k/natalie-portman/&w=bg
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-ma%C4%9Flubiyettir/ 
 https://www.uludagsozluk.com/k/sona-kadar-sava%C5%9F-deyip-bug%C3%BCn-bar%C4%B1%C5%9F-pon%C3%A7i%C4%9Fi-olmak/&w=gd 
 https://www.uludagsozluk.com/k/geri-vites-deyince-akla-gelen-d%C3%BCnya-lideri/ (bkz re ce tay yi er do van )
 (bkz hangi oç yaptı lan bunu)
