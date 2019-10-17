@@ -19,6 +19,7 @@ bkz gece gece gelen re ce tayyi er do van  re ce tayyi er do van deme isteği
 https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/
 https://www.uludagsozluk.com/k/gel-dedin-geldim-abdurrahman-%C3%A7avu%C5%9F/&w=bg
 https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-seven-t%C3%BCrkiyeden-ka%C3%A7s%C4%B1n/&w=gd
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-babas%C4%B1na-a%C5%9F%C4%B1k-olmak/&w=bg
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ (bkz küfr mü etmiş lan bu)
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/ (bkz incilecce lan bu)
 https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-seven-t%C3%BCrkiyeden-ka%C3%A7s%C4%B1n&w=gd/2/ (bkz adam sapına kadar kürtmüş beyler)
