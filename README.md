@@ -20,12 +20,11 @@
 bkz zuahhahahahahahaha
 https://www.uludagsozluk.com/k/kenan-komutan/&w=bg (bkz adam ölmemiş beyler)
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefi-oktay/&w=bg (bkz tam bir oç)
-(bkz trumpın operasyon öncesi yazdığı aşk mektubu)
-https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/&w=bg
 https://www.uludagsozluk.com/k/rte-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-ahirette-hesap-verecek-olmas%C4%B1/ 
 (bkz rte nin allah olma ihtmalini düşünmeyen faniler)
 https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/ 
 (bkz türkiyenin amerikanın köpeği olması durumu)
+(bkz trumpın operasyon öncesi yazdığı aşk mektubu)
 neyse nerde kalmıştık bu ezanlarki yurdumun üstünde inlemeli benim iman dolu sarhaddim gibi minarelerim var 
 ulusun korkma nasıl böyle bir imanı boğar külliyem sıcak maaşım dolgun 
 bir topkek sana bir saray bana hadi eywallah
