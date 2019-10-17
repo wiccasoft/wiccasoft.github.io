@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--beyler görevleri dağıtıyorum
-hafız esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
+hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
 https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ 
 beyler hafız esadla masaya oturmamak için bi suikast timi istiyorum jeff jonathon siz ikiniz ekşiden adam bulun
 yeni operasyon adı deli yürek bumerang cehennemi hafız esad ve broları
