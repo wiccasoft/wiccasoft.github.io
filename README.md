@@ -17,7 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek inciliccesi
-https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (beyler bunları tengire bırakın)
+https://www.uludagsozluk.com/k/ter%C3%B6rist-%C3%B6zg%C3%BCr-suriye-ordusu/&w=bg (bunlara ayrı bi dosya açın)
+operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan? peki hala hadi herkes görev yerlerine
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin
 https://www.uludagsozluk.com/k/kuzey-kore-nin-ger%C3%A7ek-y%C3%BCz%C3%BC/ (buna ayrı bi dosya açın beyler)
 hadi beyler çabuk zamanla yarışıyoruz batum elşçiliğinde ki adamlarımızdan ses gelmiyor hala kahretsin man fuck
