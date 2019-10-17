@@ -19,6 +19,7 @@
 <!--
 bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 bkz işsiz ve fakirlerin militarist olması paradoksu
+https://www.uludagsozluk.com/k/hani-fetih-ediyorduk-suriyeyi/
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/
 (bkz hangi oç yaptı lan bunu)
  -->
