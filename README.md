@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ 
-(bkz google translate reklamı)
+(bkz google translate reklamı bkz advertising is not bad)
 https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz türkleri twitter manyağ yapan adam)
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ (bkz google translate) 
 https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-erdo%C4%9Fan-a-ve-t%C3%BCrkiye-ye-cephe-almas%C4%B1/ 
