@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz operation black bear top secret
+bkz operation black bear top secret (mete yarar files)
 https://eksisozluk.com/16-ekim-2019-esadin-danismaninin-bbc-roportaji--6215653?a=popular (bkz hah şimdi götlere geldin hakan fidan mit tırları bunun götünde patlar beyler)
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz hah şimdi göte geldin mete trump bi mektup daha yazar)
 https://eksisozluk.com/esinin-sevgilisi-tarafindan-oldurulen-koca--6215343?a=popular (bkz olm millet mektup yorumluyo)
