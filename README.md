@@ -18,7 +18,7 @@
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
-barış yarkadaş ın bütün bilgilerini istiyorum bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım
+barış yarkadaş ın bütün bilgilerini istiyorum bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım gerkirse yarkadaş la yararı barıştırın
 --------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
 --------------------------------------------------------------------------------------------------------------
