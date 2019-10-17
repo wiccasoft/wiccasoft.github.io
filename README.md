@@ -16,7 +16,7 @@
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek
+<!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek inciliccesi
 bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye biri çevirsin 
 olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
 https://www.dailymotion.com/video/x70vcyk (i understand you but speak no well ok speak turkish oh very very well )
