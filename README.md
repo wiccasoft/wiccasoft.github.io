@@ -24,11 +24,7 @@ https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular 
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/
 https://www.uludagsozluk.com/k/diyanet/&w=bg (bkz web sitesi hacklenmiş beyler mit in siteye de giremedim mit tırları falan baki mdedim)
 https://eksisozluk.com/16-ekim-2019-esadin-danismaninin-bbc-roportaji--6215653?a=popular (bkz operasyon ötenkuş)
-https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz hah şimdi göte geldin mete trump bi mektup daha yazar)
-https://eksisozluk.com/esinin-sevgilisi-tarafindan-oldurulen-koca--6215343?a=popular (bkz olm millet mektup yorumluyo)
-https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/ (bkz oha kim okuyacak lan bunu okuyanı siksinler bi danışman tutmak lazım okusun yorumlasın bunları)
 bkz hala adıma başlık açılmamış olması demek ki doğru yoldayım
-https://www.uludagsozluk.com/k/hakan-fidan/ (bkz o değil de maaşlar yatmadı hacı erdo raat tabi kasaya koydu damadı kendine habire çifte maaş yazıyo ibnenin evladı)
 https://twitter.com/medyaadami/status/763504953516318720?lang=en (bkz atara atarsa gidere gider ulan)
 https://twitter.com/thelaikyobaz/status/841199927527108608 (bkz sıkıyosa güngürene gelin)
 https://twitter.com/ysf032/status/1141701522386030594 (bkz bu benim yeğen buna yamuk yapan bana yapar)
