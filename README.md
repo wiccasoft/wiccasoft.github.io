@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz kürtçe aksanı)
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz göt çeneli kürt aksanı)
 https://www.uludagsozluk.com/k/merih-demiral/&w=bg (bkz asker selamı verdi diye kürtlerin vatan haini ilanı ettiği gerçek atatürkçü)
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-ingilizcesi/ (bkz bi kaset koyda şenlenelim semra hanım)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-evine-sald%C4%B1r%C4%B1da-bulunulmas%C4%B1/ (bkz justin bieberın  haterları)
