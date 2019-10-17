@@ -18,7 +18,7 @@
 
 <!--
 bkz ay kaslı kaslı asker selamı veren futbolcular nabıyodur şimdi
-bkz ay melih demiral nabıyodur şimdi şapşik asker selamıyla eritti bizi
+bkz ay melih demiral nabıyodur şimdi şapşik asker selamıyla eritti bizi ayol
 bkz ay acaba şenol hoca nabıyo şapşik ya fener düşmanı pissss
 bkz ay caba gag bulut nabıyodur şimdi kız yotubeda da yok hapse atmasınlar ayol selocanın yanına ayyy fena oldum
 bkz acaba bartın milletvekili yeni twit atmışmıdır acaba baksam mı ay meraktayım şimdi
