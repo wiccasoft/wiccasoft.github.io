@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz ay melih demiral nabıyodur şimdi şapşik asker selamıyla eritti bizi
 bkz ay acaba şenol hoca nabıyo şapşik ya fener düşmanı pissss
 bkz ay caba gag bulut nabıyodur şimdi kız yotubeda da yok hapse atmasınlar ayol selocanın yanına ayyy fena oldum
 bkz acaba bartın milletvekili yeni twit atmışmıdır acaba baksam mı ay meraktayım şimdi
