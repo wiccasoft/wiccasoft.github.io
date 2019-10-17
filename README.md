@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/kuaforde-ibrahima-yattaraya-donusen-sevgili--2900686 (bkz zuahhahahaha )
 melih koyam da demir alın ingilicesi neydi lan
 ama yol yabdık yazacam bak çok komik bu da but we made the way get out the my way 
 hani yolunu yabdılar bana ne şekil yapıyon hala gibi oldu :))
