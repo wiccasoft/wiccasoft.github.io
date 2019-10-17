@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/sinan-meydan/&w=bg bkz koydu mu meydan laurus :))))))
-bkz türklerin sosyal medyayla iimtihanı beni beşiktaş jk sanıyorlar
+bkz türklerin sosyal medyayla imtihanı :))))))))
 https://www.uludagsozluk.com/k/makarna-i%C3%A7in-troll%C3%BCk-yap%C4%B1p-ekonomi-iyi-demek/ alala kim acaba bunlar
 ara bakalım beni sosyal medyada bulabilecekmisiniz ben sizin köye bağlı değilim olm 
 bkz google translatei karalamaya çalışan türkler
