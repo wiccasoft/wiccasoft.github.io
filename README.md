@@ -20,7 +20,7 @@
 ama yol yabdık yazacam bak çok komik bu da but we made the way hani yolunu yabdık gibi oldu :))
 beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan tamam buldum get out of my hair shape way
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
-know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi takılmadı altına push it to the limit yazdım şekil oldu 
+know your limits diyo google translate gönderiyorum doğru mu lan rezil olmayak karakter limitine takılmaz dimi takılmadı altına push it to the limit yazdım şekil oldu hani scarface havası kattım az
 https://www.uludagsozluk.com/k/k%C4%B1sa-pa%C3%A7a-pantolon-giyen-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
 neyse nerde kalmıştık re ce tay yi er do van re ce tay yi er do van
