@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--beyler görevleri dağıtıyorum (operasyon kodu: AmZGLFDv3Ak) operasyon name: haddini bilin inciliccesi
-bi de beyler tweet atacam geleceğiniz varsa göreceğiniz de olacak güzel bartınımız hoşgeldiniz  diye
+bi de beyler tweet atacam geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz diye
 tengire bi sorun bana mail atsın
 https://www.youtube.com/watch?v=AmZGLFDv3Ak
 hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
