@@ -17,9 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
-benim niye haberim yok lan ne almışlar yine
+bkz benim niye haberim yok lan ne almışlar yine
 https://www.uludagsozluk.com/k/abd-den-istediklerimizi-ald%C4%B1k/
-  olm böyle uzun isim mi olur lan tekerleme gibi isim amk
  re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
  re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
  re ce tay yi er do van re ce tay yi er do van re ce tay yi er do van  rec e ta yi er do van
