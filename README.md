@@ -17,7 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz oda üşüyormuş benim bir tanem
+bkz x nabıyodur şimdi y vardı ne oldu ona z de beni düşünüyormudur
+bkz oda üşüyormuş benim bir tanem 
 bkz acaba kenani mirzalıoğlu nabıyodur kızlar çekik keskin bakışlarıyla falan
 https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ay acaba nabıyodurşimdi kıllı kıllı göğsüyle 
 bkz ay kızlar ben ekleyecem dayanmıcam
