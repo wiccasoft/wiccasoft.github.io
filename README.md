@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-ama yol yabdık yazacam bak çok komik bu da but we made the road
+ama yol yabdık yazacam bak çok komik bu da but we made the road hani yolunu yabdık gibi oldu :))
 beyler saçım şekil yolumdan çekilin ingilizcesi neydi lan tamam buldum get out of my hair shape way
 https://www.uludagsozluk.com/k/ibrahim-yattara/&w=bg (olm bu sarı kafa niye tweet atmıyo lan)
 https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ 
