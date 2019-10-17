@@ -17,7 +17,7 @@
 <!--
 bkz lan yoksa devlet memuru değilmiyim lan ben
 bkz lan maliye bakanı mmaaşımda yatmamış lan yoksa.. mazlumu çağırın bana
-bkz hala cumhurbaşkanlığı müsteşar yardımclığı maaşımın yatmamış olması
+bkz hala mit müsteşar yardımcısı danışmanlığı maaşımın da yatmamış olması
 bkz gece gece gelen re ce tayyi er do van  re ce tayyi er do van deme isteği
 https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/
 https://www.uludagsozluk.com/k/gel-dedin-geldim-abdurrahman-%C3%A7avu%C5%9F/&w=bg
