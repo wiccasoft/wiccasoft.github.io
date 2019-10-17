@@ -20,7 +20,7 @@
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
 bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
 https://www.uludagsozluk.com/k/ali-babacan-vs-ahmet-davuto%C4%9Flu/&w=bg (bkz babacan daha babacan bi adam) 
-ölde baba ölelim eywallah 
+ölde baba ölelim eywallah sev de baba sevelim eywallah
 https://www.uludagsozluk.com/k/mete-yarar-bar%C4%B1%C5%9F-yarkada%C5%9F-kavgas%C4%B1/ (haa anladım kavga etmişler)
 bkz medyum memiş keto kavgası
 https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1-trt-ye-%C3%A7%C4%B1karanlardan-yana-olmak/ (öcalan trt ye mi çıkmış lan)
