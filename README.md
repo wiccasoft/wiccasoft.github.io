@@ -18,6 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/burcu-biricik/&w=bg (olm bu ne lan tam ergen ismi)
+neyse nerde kalmıştı kre ce tay yi er do van re ce tay yi er do van
 bkz hala adıma başlık açmadınız pepe çok üzülüyo twitterım yok diye adam yerine koymuyolar ya la üzgün surat
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-ne-yapar%C4%B1z/&w=bg (ben unfollowlarım beyler)
 uplayın bişeyler yazın gülek az
