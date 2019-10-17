@@ -18,6 +18,7 @@
 
 <!--
 bkz operation black bear [top secret] (çok gizli operasyon files)
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-babas%C4%B1na-a%C5%9F%C4%B1k-olmak/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/ (asdadasdasasd)
 https://eksisozluk.com/9-ekim-2019-donald-trumpin-rteye-mektubu--6215703?a=popular
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz yararsız biri deşifre oldu jef tamam)
