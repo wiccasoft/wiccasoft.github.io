@@ -18,6 +18,7 @@
 
 <!--
 bkz operation black bear top secret (çok gizli files)
+https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz ajanlardan biri deşifre oldu şef)
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/
 https://www.uludagsozluk.com/k/diyanet/&w=bg (bkz web sitesi hacklenmiş beyler mit in siteye de giremedim mit tırları falan baki mdedim)
 https://eksisozluk.com/16-ekim-2019-esadin-danismaninin-bbc-roportaji--6215653?a=popular (bkz hah şimdi götlere geldin hakan fidan mit tırları bunun götünde patlar beyler)
