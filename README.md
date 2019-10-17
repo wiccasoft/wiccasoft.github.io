@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ 
-(bkz ey trump who are you fine thanks and you have nice day maybe call me later ) 
+(bkz Hey, I just met you and this is crazy But here's my number, so call me maybe  ) 
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ 
 (bkz google translate reklamı bkz advertising is not bad)
 https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz türkleri twitter manyağ yapan adam)
