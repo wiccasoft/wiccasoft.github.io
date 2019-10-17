@@ -17,7 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz acaba eezldeki dayı da beni düşünüyormudur
+bkz sert erkeğin sert sevgilisi olur
+bkz acaba ezeldeki dayı da beni düşünüyormudur
 bkz acaba fedon napıyodur şimdi çıplak mıdır
 https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-sert-adam-olma-demesi/ 
 ayol nonoş mu olsun adam dediğin sert olur ayol 
