@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
-bkz onayı kim verdi olm kime sordunuz lan mgk yı falan toplağyak lan noluyo lan
+bkz onayı kim verdi olm kime sordunuz lan mgk yı falan toplağyak lan noluyo lan bana kırbacımı getirin lan
 https://www.uludagsozluk.com/k/ter%C3%B6ristlerin-g%C3%BCvenli-%C3%A7ekilmesini-onaylamak/
 bkz benim niye haberim yok lan ne almışlar yine
 https://www.uludagsozluk.com/k/abd-den-istediklerimizi-ald%C4%B1k/
