@@ -19,8 +19,9 @@
 <!--
 bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 bkz işsiz ve fakirlerin militarist olması paradoksu
+https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/
 (bkz hangi oç yaptı lan bunu)
-https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
+ -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
