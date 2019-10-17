@@ -20,7 +20,7 @@
 beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
 bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (twitterı açık yaşıyomuş beyler problem yok)
-https://www.uludagsozluk.com/k/fuat-avni/&w=bg (bkz memhmet pişkin gibi bişeyler yapmasın bi araştırın)
+https://www.uludagsozluk.com/k/fuat-avni/&w=bg (bkz ölmüş amk)
 https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz adam fenerli zaten beyler)
 https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (adam fenrebahçe düşmanı zaten beyler)
 --------------------------------------------------------------------------------------------------------------
