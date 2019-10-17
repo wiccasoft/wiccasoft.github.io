@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ bkz google translate
-https://www.uludagsozluk.com/k/akplilerin-ingilizce-seviyesi/ bkz zuhahahahahah
+https://www.uludagsozluk.com/k/akplilerin-ingilizce-seviyesi/ bkz google translate
 https://www.uludagsozluk.com/k/kenan-imirzal%C4%B1o%C4%9Flu-nun-%C3%A7ok-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/ bkz zuhahahahahahahahahahahahahah bkz türkiyedeki gaylerin eesmer erkek sevdası
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-damad%C4%B1n%C4%B1n-g%C3%B6zalt%C4%B1na-al%C4%B1nmas%C4%B1/&w=bg (oh iyi olmuş bunun eltisi ele vermiştir bunu oh canıma değsin)
 beyler görevleri dağıtıyorum https://www.youtube.com/watch?v=AmsbvM3wfRg 
