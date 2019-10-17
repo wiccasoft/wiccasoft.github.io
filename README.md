@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/entry/25099503 (bkz zuahhahaha)
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245 (bkz en sevdiğim entry)
 https://eksisozluk.com/kuaforde-ibrahima-yattaraya-donusen-sevgili--2900686 (bkz zuhahahahaha )
 melih koyam da demir alın ingilicesi neydi lan
