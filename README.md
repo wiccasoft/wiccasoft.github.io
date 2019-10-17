@@ -18,12 +18,10 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/ter%C3%B6ristlerin-g%C3%BCvenli-%C3%A7ekilmesini-onaylamak/ bkz tamam
-https://www.uludagsozluk.com/k/uzak-durulacak-erkekler/&w=bg bkz tamam
+https://www.uludagsozluk.com/k/uzak-durulacak-erkekler/&w=bg bkz peki
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reyiz-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg bkz tamam
-https://www.uludagsozluk.com/k/lan-bombay%C4%B1-atan-sizsiniz-terbiyesiz-herif/&w=bg bkz yahu tamam benim siktir git lan
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg yav he he tamam kıbrıs barış pınarı tamam
-https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reyiz-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg 
-yav bırak allsen emineyle kavga ettik demin sinirliyim çekemiyecem seni
+https://www.uludagsozluk.com/k/lan-bombay%C4%B1-atan-sizsiniz-terbiyesiz-herif/&w=bg bkz tamam
+https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg yav he he tamam 
 https://www.uludagsozluk.com/k/uzak-durulacak-erkekler/&w=bg 
 bkz putin kullandı beni piyon gibi napim lan suriyeyi götümemi sokim
 bkz haa anladım esed benim şimdi suriye benim mi lan harbi mi la kardeşim erdovan
