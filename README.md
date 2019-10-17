@@ -17,8 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz ay acab şenol hoca nabıyo şapşikö ya fener düşmanı pissss
-bkz ay caba gag bulut nabıyodur şimdi kız yotubeda da yok hapse atmasınalr kız selocanın yanına ayyy
+bkz ay acaba şenol hoca nabıyo şapşik ya fener düşmanı pissss
+bkz ay caba gag bulut nabıyodur şimdi kız yotubeda da yok hapse atmasınlar ayol selocanın yanına ayyy fena oldum
 bkz acaba bartın milletvekili yeni twit atmışmıdır acaba baksam mı ay meraktayım şimdi
 bkz erdogan nabıyodur acaba o kadar aktrollik yapıyorum o da beni seviyomudur acaba
 bkz zall bana hep oç der nabıyodur acaba
