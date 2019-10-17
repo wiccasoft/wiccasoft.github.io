@@ -18,7 +18,8 @@
 
 <!--
 bkz zuahhahahahahahaha
-ya o değilde rte niye tweet atmıyo lan beştepede internet yok mu? emine mi istemeyio uyoksa tweeter kullanmasını
+ya o değilde rte niye tweet atmıyo lan beştepede internet yok mu? emine mi istemiyo uyoksa tweeter kullanmasını
+hakkat lan türkler niye rte yerine trump ı takip ediyo :))))))))))))
 https://www.uludagsozluk.com/k/david-rothschild-in-att%C4%B1%C4%9F%C4%B1-erdo%C4%9Fan-tweeti/
 (bkz beyler ben saldırıyorum)
 https://www.uludagsozluk.com/k/natalie-portman/&w=bg
