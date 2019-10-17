@@ -25,83 +25,17 @@ https://www.uludagsozluk.com/k/donald-trump/&w=bg (bkz türkleri twitter manyağ
 https://www.uludagsozluk.com/k/tayyip-in-trump-a-verece%C4%9Fi-ingilizce-cevap/ (bkz google translate) 
 https://www.uludagsozluk.com/k/t%C3%BCm-d%C3%BCnyan%C4%B1n-erdo%C4%9Fan-a-ve-t%C3%BCrkiye-ye-cephe-almas%C4%B1/ 
 (bkz akp bartın milletvekilinin attığı tweet sonrası gerilen ilişkiler) bkz google translate'in türkiye düşmanlığı
-https://www.uludagsozluk.com/k/akp-bart%C4%B1n-milletvekilinin-att%C4%B1%C4%9F%C4%B1-ingilizce-tweet/ bkz google translate
-https://www.uludagsozluk.com/k/akplilerin-ingilizce-seviyesi/ bkz google translate
-https://www.uludagsozluk.com/k/kenan-imirzal%C4%B1o%C4%9Flu-nun-%C3%A7ok-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/ bkz zuhahahahahahahahahahahahahah bkz türkiyedeki gaylerin eesmer erkek sevdası
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-damad%C4%B1n%C4%B1n-g%C3%B6zalt%C4%B1na-al%C4%B1nmas%C4%B1/&w=bg (oh iyi olmuş bunun eltisi ele vermiştir bunu oh canıma değsin)
-beyler görevleri dağıtıyorum https://www.youtube.com/watch?v=AmsbvM3wfRg 
-(operasyon kodu: AmZGLFDv3Ak) operasyon name: herkes haddini bilecek 
-beyler önce fuatavni kod adlı hesabı kontrol edin yine bilgi sızdırmasın operasyon kodadı çakalıöttürmece
-bide burhan kuzuyu çağırın bana işte kuze kuzu gelsin mete yararı da telefonla bağlayın olayı neymiş anlamadım anladım kavga etmişler tamam gerekirse yarkadaş la yararı barıştırın şenol güneşi olaya katmayın takımı çalıştırıyordur bi de şenol güneşin elini öpmem diyen bi şişko vardı onu bulun bana
-https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg 
-(bkz adam fenerli düşmanı zaten beyler idmana geç geldi canere attığı tokatı hatırlayın)
-bkz merih demiral el ense yapan teknik adam
-beyler davudioğlana destek uplayalım
-https://www.youtube.com/watch?v=hAvCc05husE (bkz çokta skimde amk şişkosu)
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-damad%C4%B1n%C4%B1n-g%C3%B6zalt%C4%B1na-al%C4%B1nmas%C4%B1/&w=bg (bkz ohh canıma deysin iyi olmuş darısı beratın başına )
-https://www.uludagsozluk.com/k/ali-babacan-vs-ahmet-davuto%C4%9Flu/&w=bg (bkz davudioğla vs babacanoğlan)
-https://www.uludagsozluk.com/k/trump-%C4%B1n-erdo%C4%9Fan-a-operasyon-%C3%B6ncesi-yazd%C4%B1%C4%9F%C4%B1-mektup/
-(bkz olm operasyon mektuplarını niye okuyosunuz onu tayyipe attım)
-https://www.uludagsozluk.com/k/ali-babacan-vs-ahmet-davuto%C4%9Flu/&w=bg (bkz babacan daha babacan bi adam) 
-ölde baba ölelim eywallah sev de baba sevelim eywallah devlet baba sen bizim herseyimizsin
-o değilde  fatih terim nabıyo lan hiç tweet atmıyo öldümü lan yoksa where we at falan diye esprir yapan o anlar
-https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (olm şu adamı savunmayın merih demirala el ense çekmiş adam)
-https://www.uludagsozluk.com/k/mete-yarar-bar%C4%B1%C5%9F-yarkada%C5%9F-kavgas%C4%B1/ (haa anladım kavga etmişler)
-bkz medyum memiş keto kavgası
-https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1-trt-ye-%C3%A7%C4%B1karanlardan-yana-olmak/ (öcalan trt ye mi çıkmış lan)
-beyler önce şenol güneş le devlet bahçeliye entry girelim önce büyükler
-https://www.uludagsozluk.com/k/pyd-ter%C3%B6risti-cenazesine-kat%C4%B1lan-akp-milletvekili/&w=bg (bkz a bu benim lan hemen ifşa edin götverenler)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (twitterı açık yaşıyomuş beyler problem yok)
-https://www.uludagsozluk.com/k/fuat-avni/&w=bg (bkz ölmüş amk)
-https://www.uludagsozluk.com/k/donald-trump/&w=bg (olm bi bakın tweet neyin atmasın yine)
-https://www.uludagsozluk.com/k/mete-yarar/&w=bg (bkz adam fenerli zaten beyler)
-https://www.uludagsozluk.com/k/%C5%9Fenol-g%C3%BCne%C5%9F/&w=bg (adam fenrebahçe düşmanı zaten beyler) 
-bkz şenol güneşin merih demirala el ense yaptığı resim
 --------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=fFrwsw0jayA tengirbudun, Derin Devlet Karşısında Hesap Veriyor - Kurtlar Vadisi 48.Bölüm
 --------------------------------------------------------------------------------------------------------------
 beyler önce hüsnü doğanın israille bağlantılarını kontrol edin sonra kuzey doha bölgesini taratın bi tane daeşli pydli kalmasın gerekiyosa sıkıyosa güngörene gel çekin bi de google translate yanlış çeviriyo rezil oluyorum incilicce bilen bi eleman yollayın kamuflaj giysin ben onu kuzey dohadan aldıracam gerekiyosa kuzey kore operasyonunda kullanırız hadi bakalaım if they föck with us we will see what happens her in ass allah u akbar
-https://www.uludagsozluk.com/k/trump-%C4%B1n-mektubuna-kar%C5%9F%C4%B1l%C4%B1k/ (bkz al mektuplarını ver mektuplarımı)
-https://www.uludagsozluk.com/k/mete-yarar-bar%C4%B1%C5%9F-yarkada%C5%9F-kavgas%C4%B1/ (bkz yaran başlıklar)
 https://www.uludagsozluk.com/k/selanikliyi-sevmek-zorunda-m%C4%B1y%C4%B1z/&w=bg (seversen sevilirsin o da insan olm)
-https://www.uludagsozluk.com/k/h%C3%BCsn%C3%BC-do%C4%9Fan/ (bkz hmm ilişkilerini daha detaylı istiyorum israil lobisine)
 operasyon lideri olarak tengiri seçtim ondan emir alacaksınız sorusu olan? if they will come they we will see come on guys
 jonathan jeff tengir bölgede besle kargayı oysun götünü durumu yaratacak örgütleri temizleyin 
 https://www.uludagsozluk.com/k/kuzey-kore-nin-ger%C3%A7ek-y%C3%BCz%C3%BC/ (buna ayrı bi dosya açın beyler)
 hadi beyler çabuk zamanla yarışıyoruz batum elşçiliğinde ki adamlarımızdan ses gelmiyor kahretsin man fuck 
 https://www.uludagsozluk.com/k/i%C5%9Fsizler-nas%C4%B1l-ge%C3%A7iniyor-sorunsal%C4%B1/ (bkz bunu bunu alın burdan)
 https://www.uludagsozluk.com/k/i-will-call-you-later/ (bkz sen kapat sana yazmasın)
-https://www.uludagsozluk.com/k/kemalist-suriyeliler/ (bkz kamışa su yürüyen suriyeliler)
-https://www.youtube.com/watch?v=XxbWh_EfiZM ( bkz videolarla incilicce öğreniyorum)
-https://www.uludagsozluk.com/k/if-they-have-a-future-they-will-see/ 
-google translate rezil edecek beni bu böyle bir gelecek varsa görecekler gibi oldu
--------------------------------------------------------------------------------------
-bi de beyler tweet atacam "geleceğiniz varsa göreceğiniz de olacak güzel bartınımıza hoşgeldiniz" diye biri çevirsin 
-olm google translate le çeviri atmayın rezil olmim yine kırarın kafanızı imamogluna sorun o çevirsin
-(bkz oh god damn here we go again) ne demek lan ekşide gördüm bunu mu yazsam havalı durur
---------------------------------------------------------------------------------------------
-https://www.uludagsozluk.com/k/if-they-have-a-future-they-will-see/ (bkz yine rezil ettiniz beni istifa mı etsem)
-----------------------------------------------------------------------------------------------
-https://www.dailymotion.com/video/x70vcyk (i understand you but speak no well ok speak turkish oh very very well )
-https://www.uludagsozluk.com/k/emperyalizme-inat-karde%C5%9Fimsin-esad/&w=bg (bkz ne demek şakir)
-https://www.youtube.com/watch?v=AmZGLFDv3Ak
-hafız kardeşim esed in fişini çekme operasyonu yaverim zall bana hep abi der yönetecek imamoglu bilir
-https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/ 
-beyler hafız esadla masaya oturmamak için bi suikast timi istiyorum jeff jonathon siz ikiniz ekşiden adam bulun
-yeni operasyon adı deli yürek bumerang cehennemi hafız esad ve broları
-beyler operasyon öncesi herkes görev yerlerinde olsun sonra böyle diplomatik tatsızlıklar yaşıyoruz
-ekşiden bi kaç eleman yollayın yeni görev verecem haddini bilin inciliccesi lazım bana atarlı mektup yazacam
-subject: operation black bear [top secret] (çok gizli operasyon fayls)
-to: real donald trump
-ey trump haddini bil haddini nin inciliccesi ney lan ha buldum how dare you madafaka
-olm bombeyi atan sizsiniz in ingilicesi neydi (hah buldum yu tırov bombe dont fakin mess with my sabr )
-bi de skimle taşağım kasımpaşalıyım ın ingilizcesihah buldum my dick my dashak ekual from kasimpasa turkey
-tc.cumhurbaskan.rte@gmail.com tamam halettim genşler mail atmayın
-https://www.uludagsozluk.com/k/ey-trump-haddini-bil-haddini/ (bana tweet attıracak madafaka olm bombeyi atan sizsiniz)
-https://www.uludagsozluk.com/k/dear-trump-what-did-you-say-are-you-madafak%C4%B1r/
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-babas%C4%B1na-a%C5%9F%C4%B1k-olmak/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7ay-d%C3%B6keyim-mi-diye-konu%C5%9Fan-embesiller/ (asdadasdasasd)
-https://eksisozluk.com/9-ekim-2019-donald-trumpin-rteye-mektubu--6215703?a=popular
 https://eksisozluk.com/16-ekim-2019-mete-yararin-ifsa-olmasi--6215852?a=popular (bkz yararsız biri deşifre oldu jef tamam)
 (bkz hangi oç yaptı lan bunu)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
