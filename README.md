@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!-- 
+https://www.uludagsozluk.com/k/lan-bombay%C4%B1-atan-sizsiniz-terbiyesiz-herif/&w=bg bkz yahu tamam benim siktir git lan
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg yav he he tamam kıbrıs barış pınarı tamam
 https://www.uludagsozluk.com/k/yava%C5%9F-d%C3%B6n-reyiz-%C3%BCmmet-yeti%C5%9Femiyor/&w=bg 
 yav bırak allsen emineyle kavga ettik demin sinirliyim çekemiyecem seni
