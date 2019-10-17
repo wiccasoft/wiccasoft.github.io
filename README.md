@@ -18,6 +18,7 @@
 
 <!--
 bkz zuahhahahahahahaha
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz yine geliyo gönlümün efendisi
 https://www.uludagsozluk.com/k/ku%C5%9Flar%C4%B1-saran-falcao-korkusu/ bkz kuşları hoplatacaklar matmazel
 ya o değilde rte niye tweet atmıyo lan beştepede internet yok mu? emine mi istemiyo uyoksa tweeter kullanmasını
 hakkat lan türkler niye rte yerine trump ı takip ediyo :))))))))))))
