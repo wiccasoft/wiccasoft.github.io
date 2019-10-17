@@ -18,6 +18,7 @@
 
 <!--
 bkz zuahhahahahahahaha
+ya o değilde rte niye tweet atmıyo lan beştepede internet yok mu? 
 https://www.uludagsozluk.com/k/david-rothschild-in-att%C4%B1%C4%9F%C4%B1-erdo%C4%9Fan-tweeti/
 (bkz beyler ben saldırıyorum)
 https://www.uludagsozluk.com/k/natalie-portman/&w=bg
@@ -27,7 +28,7 @@ türkiye amerika için büyük bir pazar kaybetmek istmemesi kadar doğal bir ş
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-ma%C4%9Flubiyettir/ 
 https://www.uludagsozluk.com/k/sona-kadar-sava%C5%9F-deyip-bug%C3%BCn-bar%C4%B1%C5%9F-pon%C3%A7i%C4%9Fi-olmak/&w=gd 
 nerde  kalmıştık re ce tay yi erdo van re ce tay yi er do van 
-ya o değilde rte niye tweet atmıyo lan beştepede internet yok mu? 
+
 türkiye niye trump ın tweetlerin takip ediyo da rte yi takip etmiyor?  trump mı tc nin başkanı?
 (bkz hangi oç yaptı lan bunu)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
