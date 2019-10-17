@@ -24,19 +24,13 @@ bir topkek sana bir saray bana hadi eywallah
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg aa bu benim lan falcao yu görünce dayanamıyom
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz yine geliyo gönlümün efendisi
 https://www.uludagsozluk.com/k/ku%C5%9Flar%C4%B1-saran-falcao-korkusu/ bkz kuşları hoplatacaklar matmazel
-ya o değilde rte niye tweet atmıyo lan beştepede internet yok mu? emine mi istemiyo uyoksa tweeter kullanmasını
-hakkat lan türkler niye rte yerine trump ı takip ediyo :))))))))))))
 https://www.uludagsozluk.com/k/david-rothschild-in-att%C4%B1%C4%9F%C4%B1-erdo%C4%9Fan-tweeti/
 (bkz beyler ben saldırıyorum)
-https://www.uludagsozluk.com/k/natalie-portman/&w=bg
 https://www.uludagsozluk.com/k/ecevit-e-ezik-diyip-daha-k%C3%B6t%C3%BC-duruma-d%C3%BC%C5%9Fmek/ 
 (bkz abd olmasa türkiyenin aç kalacağı gerçeği, türkiye olmazsa amerika biraz para kaybeder o kadar)
 türkiye amerika için büyük bir pazar kaybetmek istmemesi kadar doğal bir şey yok sizden ala kaz mı var
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1-ma%C4%9Flubiyettir/ 
 https://www.uludagsozluk.com/k/sona-kadar-sava%C5%9F-deyip-bug%C3%BCn-bar%C4%B1%C5%9F-pon%C3%A7i%C4%9Fi-olmak/&w=gd 
-nerde  kalmıştık re ce tay yi erdo van re ce tay yi er do van 
-
-türkiye niye trump ın tweetlerin takip ediyo da rte yi takip etmiyor?  trump mı tc nin başkanı?
 (bkz hangi oç yaptı lan bunu)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ -->
 
