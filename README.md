@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/pkk-vs-dhkp-c-vs-mlkp-vs-tikko/ bkz tikko siker hepsini akboy sikici tikko
 bkz x nabıyodur şimdi y vardı ne oldu ona z de beni düşünüyormudur
 bkz oda üşüyormuş benim bir tanem 
 bkz acaba kenani mirzalıoğlu nabıyodur kızlar çekik keskin bakışlarıyla falan
