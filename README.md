@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz ay imamoğlu ingilizce hi guys yazmasın
 bkz ay tuğçe kaza şimdi  trumpa atarlanmasın yine
 bkz ay tayyip one minute yazmasın şimdi oh god damn man here we go again dont do it man
 bkz ay tayyip şimdi delilik yapıp almanca cevap atmasın
