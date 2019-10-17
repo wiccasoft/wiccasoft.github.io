@@ -21,8 +21,7 @@ bkz tıssıhehehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/esed-in-eceli-ile-%C3%B6lmesini-beklemek/ bkz iş bulmak için rte nin ölmesini beklemek
 https://www.uludagsozluk.com/k/suriye-milli-ordusu/&w=bg bkz işsiz ve fakirlerin militarist olması paradoksu
-https://eksisozluk.com/erdogan-cok-zeki-zorlu-ve-guclu-bir-lider--6217052?a=popular harika bi adam tanısanız siz de seversiniz
-https://www.uludagsozluk.com/k/120-saat-sonra-ypg-%C3%A7ekilmezse-ne-olacak/ bkz bordo klavyelilere sefer görev emri çıkacak
+https://www.uludagsozluk.com/k/120-saat-sonra-ypg-%C3%A7ekilmezse-ne-olacak/ bkz bordo klavyelilere görev düşecek
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg bkz keltoş babana koş
 https://eksisozluk.com/17-ekim-2019-erdoganin-tarihi-geri-vitesi--6216686?a=popular (bkz zuahahahahahaha)
 https://www.uludagsozluk.com/k/d%C3%B6meke-muharebesi-ve-bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1/ bkz zuhahahaha
