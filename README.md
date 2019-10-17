@@ -17,7 +17,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ay acaba nabıyodur şimdi kıllı kıllı göğsüyle
+https://www.uludagsozluk.com/k/fedon-k%C4%B1%C5%9F%C4%B1n-ne-yap%C4%B1yor/ ay acaba nabıyodurşimdi kıllı kıllı göğsüyle 
+bkz ay kızlar ben ekleyecem dayanmıcam
 https://www.uludagsozluk.com/k/bir-kerimcan-durmaz-vard%C4%B1-ne-oldu-ona/ ay instada sallıyodu ya işte o
 https://www.uludagsozluk.com/k/pkkl%C4%B1-k%C3%BCrt/&w=bg bkz putin anamın üstünde yakalansa orospuluk anmadadır
 https://www.uludagsozluk.com/k/homofobi/&w=bg (bkz acaba o da beni düşünüyormudur durumu) bkz o sen olan bari vakaları
