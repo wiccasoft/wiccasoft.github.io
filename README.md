@@ -15,7 +15,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-seven-t%C3%BCrkiyeden-ka%C3%A7s%C4%B1n&w=gd/2/ (bkz adam kürtmüş beyler)
+https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-seven-t%C3%BCrkiyeden-ka%C3%A7s%C4%B1n&w=gd/2/ (bkz adam sapına kadar kürtmüş beyler)
 https://www.uludagsozluk.com/k/16-ekim-2019-esad-in-kobani-ye-girmesi/ (bkz noldi renciniz soldi)
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kazanan%C4%B1/&w=bg (bkz esed antivirus)
 https://www.uludagsozluk.com/k/murat-cemcir-in-her-k%C4%B1za-as%C4%B1lmas%C4%B1/ 
