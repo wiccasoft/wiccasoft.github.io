@@ -18,7 +18,7 @@
 
 <!--
 bkz tıssısıhehehe bordo klavyeliler noldi renciniz soldiiiiiiii 
-ne dedim size kürdistan projesini durdurmazsınız
+ne dedim size büyük kürdistan projesini durdurmazsınız bunu isteyen de sizdiniz
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg  kıt'a dur
 https://www.uludagsozluk.com/k/%C3%BC%C3%A7-be%C5%9F-mehmet-%C3%B6ld%C3%BC-diye-meclis-mi-toplan%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/ben-b%C3%BCy%C3%BCk-ortado%C4%9Fu-projesi-nin-e%C5%9F-ba%C5%9Fkan%C4%B1y%C4%B1m/&w=bg
