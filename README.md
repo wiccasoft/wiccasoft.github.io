@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/geceye-bir-ger%C3%A7ek-b%C4%B1rak/&w=bg bkz norm enderin çok seksi olması
+https://www.uludagsozluk.com/k/geceye-bir-ger%C3%A7ek-b%C4%B1rak/&w=bg bkz norm enderin aşırı seksi olması
 https://www.uludagsozluk.com/k/g%C3%BCvenlik-koridorunu-israil-e-kadar-uzatmak/ bkz hay hay paşam emrin olur suriyeyi de silelim haritadan 
 https://www.uludagsozluk.com/k/sevgilisine-kahvalt%C4%B1-haz%C4%B1rlayan-erkek/&w=bg bkz norm ender
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg  bkz fakirler çoşmuş yine koy yiğidim koy seksi şey koy
