@@ -17,7 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz tıssısı bordo klavyeliler noldi renciniz soldiiiiiiii üç beş kelle için sizi mi çekecem lan
+bkz tıssısıhehehe bordo klavyeliler noldi renciniz soldiiiiiiii
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg  kıt'a dur
 https://www.uludagsozluk.com/k/%C3%BC%C3%A7-be%C5%9F-mehmet-%C3%B6ld%C3%BC-diye-meclis-mi-toplan%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/ben-b%C3%BCy%C3%BCk-ortado%C4%9Fu-projesi-nin-e%C5%9F-ba%C5%9Fkan%C4%B1y%C4%B1m/&w=bg
