@@ -32,10 +32,6 @@ https://www.uludagsozluk.com/k/sevgilisine-kahvalt%C4%B1-haz%C4%B1rlayan-erkek/&
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg  bkz fakirler çoşmuş yine koy yiğidim koy seksi şey koy
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg pffffasdasdas dasd asd as
 bkz tıssısıhehehe bordo klavyeliler noldi renciniz soldiiiiiiii 
-şimdi ikinci aşamada türkiyeye 3 eyalete bölmek istiyorum
-çok karışık politik sisteminiz var 2 partili sistem düşünüyorum her kafadan bi ses çıkıyo 
-3 eyalete 3 şeritli bayrak düşündüm bi de isim anadolu federasyonu olsun turkey ne lan dalga konusu olursunuz walla. 
-https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg  kıt'a dur
 https://www.uludagsozluk.com/k/%C3%BC%C3%A7-be%C5%9F-mehmet-%C3%B6ld%C3%BC-diye-meclis-mi-toplan%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/ben-b%C3%BCy%C3%BCk-ortado%C4%9Fu-projesi-nin-e%C5%9F-ba%C5%9Fkan%C4%B1y%C4%B1m/&w=bg
 bkz fakirlerin militarist olması paradoksu
