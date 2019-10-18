@@ -18,6 +18,12 @@
 
 <!--
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
+(bkz: 2019 ekonomik kerizi)
+bundan sonra gelecek hükümetin milleti iphone kuyruğundan kurtardık mottosuyla gelmesini umduğum olaydır. 
+aktrolleri ne kadar da zengin olduğumuza, ekonomik krizin olmadığına dair çıkarımlarını yapmak için sahneye davet ediyorum.
+nerede o iphone 3s veya 4 çıktığında geceden oluşan kuyruklar, nerede bu kuyruk.
+https://eksisozluk.com/istanbuldaki-iphone-11-kuyrugu--6217395?a=popular
+"benden başka herkes zengin" hissiyatı yaratan anlar.
 https://www.uludagsozluk.com/k/geceye-bir-ger%C3%A7ek-b%C4%B1rak/&w=bg bkz norm enderin aşırı seksi olması
 https://www.uludagsozluk.com/k/g%C3%BCvenlik-koridorunu-israil-e-kadar-uzatmak/ bkz hay hay paşam emrin olur
 https://www.uludagsozluk.com/k/sevgilisine-kahvalt%C4%B1-haz%C4%B1rlayan-erkek/&w=bg bkz norm ender
