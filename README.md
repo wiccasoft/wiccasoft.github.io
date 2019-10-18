@@ -18,6 +18,7 @@
 
 <!--
 bkz tıssısı bordo klavyeliler noldi renciniz soldiiiiiiii
+https://www.uludagsozluk.com/k/ben-b%C3%BCy%C3%BCk-ortado%C4%9Fu-projesi-nin-e%C5%9F-ba%C5%9Fkan%C4%B1y%C4%B1m/&w=bg
 bkz işsiz ve fakirlerin militarist olması paradoksu
 https://www.uludagsozluk.com/k/hani-fetih-ediyorduk-suriyeyi/
 https://www.uludagsozluk.com/k/esed-in-eceli-ile-%C3%B6lmesini-beklemek/
