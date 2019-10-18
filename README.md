@@ -23,6 +23,8 @@
 <!--
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
+(bkz küçük enişte formülü aklını kullanan götünü kurtarır beseleme enişteyi sikmesin götünü :))))
+https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/
 https://www.youtube.com/watch?v=xeKkxEdDAiE&feature=youtu.be
 bundan sonra gelecek hükümetin milleti iphone kuyruğundan kurtardık mottosuyla gelmesini umduğum olaydır. 
 aktrolleri ne kadar da zengin olduğumuza, ekonomik krizin olmadığına dair çıkarımlarını yapmak için sahneye davet ediyorum.
