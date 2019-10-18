@@ -18,7 +18,7 @@
 
 <!--
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
-(bkz: 2019 ekonomik kerizi)
+(bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
 bundan sonra gelecek hükümetin milleti iphone kuyruğundan kurtardık mottosuyla gelmesini umduğum olaydır. 
 aktrolleri ne kadar da zengin olduğumuza, ekonomik krizin olmadığına dair çıkarımlarını yapmak için sahneye davet ediyorum.
 nerede o iphone 3s veya 4 çıktığında geceden oluşan kuyruklar, nerede bu kuyruk.
