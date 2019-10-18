@@ -17,6 +17,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg pffff lan enes batur daha seksi
 bkz tıssısıhehehe bordo klavyeliler noldi renciniz soldiiiiiiii 
 ne dedim size büyük kürdistan projesini durduramazsınız şimdi ikinci aşamada türkiyeye 3 eyalete bölmek istiyorum
 çok karışık politik sisteminiz var her kafadan bi ses çıkıyo kürt düşmanlığı hat safhada
