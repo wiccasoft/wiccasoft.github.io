@@ -1,4 +1,4 @@
-[![Image](smartdata/mission.png)]( https://www.youtube.com/watch?v=hAvCc05husE )
+[![Image](smartdata/mission.png)]( https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ )
 
 [![Image](smartdata/isis.png)]( https://www.youtube.com/watch?v=zEvF-2-0LWk )
 
