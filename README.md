@@ -18,7 +18,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg asdsadaa bkz fakirler çoşmuş yine koy yiğidim koy suyuundan
-https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg pffff sdadasdasdad
+https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg pffffasdasdas dasd asd as
 bkz tıssısıhehehe bordo klavyeliler noldi renciniz soldiiiiiiii 
 ne dedim size büyük kürdistan projesini durduramazsınız şimdi ikinci aşamada türkiyeye 3 eyalete bölmek istiyorum
 çok karışık politik sisteminiz var her kafadan bi ses çıkıyo kürt düşmanlığı hat safhada
