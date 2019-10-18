@@ -1,4 +1,4 @@
-[![Image](smartdata/xaos.png)]( https://www.youtube.com/watch?v=DOIQ5i87-Kg )
+[![Image](smartdata/bg.png)]( https://www.youtube.com/watch?v=DOIQ5i87-Kg )
 
 [![Image](smartdata/spacewalk.png)]( https://www.theguardian.com/science/2019/oct/18/nasa-all-female-spacewalk-christina-koch-jessica-meir)
 
