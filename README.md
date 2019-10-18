@@ -26,6 +26,7 @@ https://eksisozluk.com/istanbuldaki-iphone-11-kuyrugu--6217395?a=popular
 "benden başka herkes zengin" hissiyatı yaratan anlar.
 https://eksisozluk.com/mine-tugayin-mini-etekli-fotografi--6217434?a=popular
 (bkz: insanlığımızı sorgulatan anlar yaşadık)
+https://www.uludagsozluk.com/k/y%C4%B1k%C4%B1k-fakir-po%C5%9Feti/&w=gd
 https://www.uludagsozluk.com/k/geceye-bir-ger%C3%A7ek-b%C4%B1rak/&w=bg bkz norm enderin aşırı seksi olması
 https://www.uludagsozluk.com/k/g%C3%BCvenlik-koridorunu-israil-e-kadar-uzatmak/ bkz hay hay paşam emrin olur
 https://www.uludagsozluk.com/k/sevgilisine-kahvalt%C4%B1-haz%C4%B1rlayan-erkek/&w=bg bkz norm ender
