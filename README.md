@@ -23,7 +23,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ (bkz yasama yürütmeyi ayırırdım)
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ 
+(bkz yasama yürütmeyi ayırırdım caaart kabakat)
 (olm ben sözlükte olacam böyle başlıklar açardım ne trollükler yapardım)
 bkz beyler reis afrikada ülkeyi saklıyoruz dönünce bulamasın 
 bkz tangur budun aragonun operasyon sonrası afrikaya kaçması 
