@@ -25,6 +25,7 @@
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
+https://eksisozluk.com/tugce-kazazin-twitter-hesabinin-askiya-alinmasi--6217462 bkz eşsiz bilgeliğine tüküreyim
 https://www.uludagsozluk.com/k/saatine-1200-lira-isteyen-escort/&w=gd bkz aleyna tilki
 https://www.uludagsozluk.com/k/sahibinden-com/&w=bg bkz yine pkk malı chrome açtırdın kardeş
 bkz korkudan natoyu kurmak
