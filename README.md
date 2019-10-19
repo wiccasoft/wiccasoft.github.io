@@ -23,9 +23,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-(bkz instagramda kızlara yürüme şansı kadardır)
-https://eksisozluk.com/bir-asgari-ucretlinin-iphone-11-alma-sansi--6218464?a=popular 
-https://eksisozluk.com/emre-mor--4694720 (bkz instagramda kızlara yürüyen velet)
 bkz tangur budun erdogan in tangır budun erdogan olma ihtimali bkz bir başgan iki erdogan
 operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklenmeler 
 yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
@@ -36,9 +33,6 @@ https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-
 (ama benim vaktim az bak benim yarım saaatimi yediniz 3. afrika müslüman dini liderler zirvesi noldu)
 bkz beyler reis afrikada ülkeyi saklıyoruz dönünce bulamasın 
 bkz tangur budun aragonun operasyon sonrası afrikaya kaçması 
-bkz tangur budun aragonun 3.afrika müslüman dini liderler zirvesi efsane konuşması
-bkz tangur budun aragonun turancılıktan sıkılıp ümmetçiliğe geri dönmesi
-bkz layt erkeği laytlıktan vazgeçirmek için katula katula şarkısı söylemek
 bkz güleyrum saha katula katula ne oldi saha böyle nerde o eski taş formüllü erkeği bir anda oldun layt erkeği 
 https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/&w=bg
 bkz noldiiiiiii rencin soldiiiiiii 
