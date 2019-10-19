@@ -24,7 +24,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz iyiy ki türk değilim denilen anlar
+bkz iyi ki türkçü turancı osmanlıcı kamalcı değilim denilen anlar
 https://www.uludagsozluk.com/k/osmanl%C4%B1-ocaklar%C4%B1/&w=bg bkz orta asyalıların hala gelişmmemiş olması
 https://www.uludagsozluk.com/k/osmanl%C4%B1-armas%C4%B1/ bkz iğrenç bi arma
 https://www.uludagsozluk.com/k/gece-gece-zinhar-edepsiz-ba%C5%9Fl%C4%B1k-a%C3%A7anlar/
