@@ -26,8 +26,7 @@
 bkz tangur budun aragonun 3.afrika müslüman dini liderler zirvesi efsane konuşması
 bkz tangur budun aragonun turancılıktan sıkılıp ümmetçiliğe geri dönmesi
 bkz layt erkeği laytlıktan vazgeçirmek için katula katula şarkısı söylemek
-https://www.uludagsozluk.com/k/birini-gaylikten-vazge%C3%A7irmek-i%C3%A7in-yap%C4%B1lacaklar/
-bkz güleyrum saha katula katula ne oldi saha böyle bir anda oldun layt erkeği nerde o eski taş erkeği
+bkz güleyrum saha katula katula ne oldi saha böyle nerde o eski taş erkeği bir anda oldun layt erkeği 
 https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/&w=bg
 bkz noldiiiiiii rencin soldiiiiiii 
 https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/&w=bg
