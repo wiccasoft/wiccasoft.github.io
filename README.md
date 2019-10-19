@@ -23,7 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz tangır budun erdoganın ümmetçilkten turancılığa geçişi :)))
+bkz tangır budun erdoganın ümmetçilikten turancılığa geçişi :)))
 https://www.uludagsozluk.com/k/abd-t%C3%BCrkiye-ate%C5%9Fkes-antla%C5%9Fmas%C4%B1-6-nc%C4%B1-madde/&w=bg
 bkz tangır budun erdoganın operasyon durunca göt olması :)))
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
@@ -32,8 +32,6 @@ bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
 https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tangır budun erdogan operasyonları
 https://www.uludagsozluk.com/k/internet-dabbet-%C3%BCl-arz-olabilir/&w=bg lol
 https://www.uludagsozluk.com/k/%C5%9Feytan-%C4%B1n-allah-tan-%C3%BCst%C3%BCn-olmas%C4%B1/&w=gd 
-ya ne olacağıdı tanrı insan egosudur insan hata yapar bi de kibirlenir orospu çocukları :)))
-(bkz aklını kullanan götünü kurtarır tayyipçim besleme enişteyi sikmesin götünü :))))
 https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/
 https://www.youtube.com/watch?v=xeKkxEdDAiE&feature=youtu.be
 bundan sonra gelecek hükümetin milleti iphone kuyruğundan kurtardık mottosuyla gelmesini umduğum olaydır. 
