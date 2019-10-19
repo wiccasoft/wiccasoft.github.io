@@ -23,7 +23,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/bir-asgari-ucretlinin-iphone-11-alma-sansi--6218464?a=popular (bkz instagramda kızlara yürüme şansı kadardır)
+(bkz instagramda kızlara yürüme şansı kadardır)
+https://eksisozluk.com/bir-asgari-ucretlinin-iphone-11-alma-sansi--6218464?a=popular 
 https://eksisozluk.com/emre-mor--4694720 (bkz instagramda kızlara yürüyen velet)
 bkz tangur budun erdogan in tangır budun erdogan olma ihtimali bkz bir başgan iki erdogan
 operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklenmeler 
