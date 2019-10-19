@@ -24,11 +24,13 @@
 
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
+https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz yıkıkların kralı
+https://www.uludagsozluk.com/k/vedat-u%C5%9Fakl%C4%B1gil-akla-geldik%C3%A7e-a%C4%9Flamak/&w=bg
+bkz ne çeşit bi gerizalılarsınız amk
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://www.uludagsozluk.com/e/42306995/ bkz lol
 bkz oo seks hikayesi alırım bi dal
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-%C4%B1n-yay%C4%B1nlanmas%C4%B1-yasaklanan-g%C3%BCnl%C3%BCkleri/&w=bg
-https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz yıkıkların kralı
 https://www.uludagsozluk.com/k/y%C4%B1l%C4%B1n-gavat%C4%B1-%C3%B6d%C3%BCl%C3%BC/&w=bg bkz aktrollerin yabışacağı adam
 bkz aktrollerin felçli adamı facebooktan ekleyip sikmek istemesiyle başlayacak süreç
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-tokmak%C3%A7%C4%B1-arayan-fel%C3%A7li-adam/ bkz zuahahah 
