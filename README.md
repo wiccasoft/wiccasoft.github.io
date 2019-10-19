@@ -26,7 +26,7 @@
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz yıkıkların kralı
 https://www.uludagsozluk.com/k/vedat-u%C5%9Fakl%C4%B1gil-akla-geldik%C3%A7e-a%C4%9Flamak/&w=bg
-bkz aktroller ne çeşit gerizalılarsınız amk evlat olsa sevilmezler amk
+bkz aktroller ne çeşit gerizalılarsınız amk 
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://www.uludagsozluk.com/e/42306995/ bkz lol
 bkz oo seks hikayesi alırım bi dal
