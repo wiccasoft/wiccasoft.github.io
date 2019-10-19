@@ -32,8 +32,7 @@ bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
 https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tangır budun erdogan operasyonları
 https://www.uludagsozluk.com/k/internet-dabbet-%C3%BCl-arz-olabilir/&w=bg lol
 https://www.uludagsozluk.com/k/%C5%9Feytan-%C4%B1n-allah-tan-%C3%BCst%C3%BCn-olmas%C4%B1/&w=gd 
-https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/
-https://www.youtube.com/watch?v=xeKkxEdDAiE&feature=youtu.be
+https://www.youtube.com/watch?v=xeKkxEdDAiE&feature=youtu.be 
 bundan sonra gelecek hükümetin milleti iphone kuyruğundan kurtardık mottosuyla gelmesini umduğum olaydır. 
 aktrolleri ne kadar da zengin olduğumuza, ekonomik krizin olmadığına dair çıkarımlarını yapmak için sahneye davet ediyorum.
 nerede o iphone 3s veya 4 çıktığında geceden oluşan kuyruklar, nerede bu kuyruk.
