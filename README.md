@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/e/42304696/ lol
 bkz tangur budun erdogan in tangır budun erdogan olma ihtimali bkz bir başgan iki erdogan
 operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklenmeler 
 yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
