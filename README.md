@@ -23,7 +23,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz amerikan saldırısında devrilmeyecek tek ülke
 bkz korkudan natoyu kurmak
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
 https://www.uludagsozluk.com/k/ayd%C4%B1n-insan-memeden-uzak-ya%C5%9Fayan-insand%C4%B1r/&w=bg bkz lol
