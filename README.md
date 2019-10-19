@@ -27,6 +27,7 @@ bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://www.uludagsozluk.com/k/ye%C4%9Feni-50-kilo-esrarla-yakalanan-cumhurba%C5%9Fkan%C4%B1/&w=bg bkz vay anam vay cicişler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz hamamböcekleri lideri
+https://www.uludagsozluk.com/k/oytunkaran-%C4%B1n-4-g%C3%BCnd%C3%BCr-entry-girmemesi/&w=gd bkz zuahahaha
 https://www.uludagsozluk.com/k/burhan-kuzu/&w=bg bkz yeni polemik yarattım duruşu
 bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/%C5%9Feyhinin-ta%C5%9F%C5%9Fa%C4%9F%C4%B1n%C4%B1-yalayan-%C5%9Fakirt/&w=bg
