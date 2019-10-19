@@ -27,7 +27,7 @@ bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz yıkıkların kralı
 https://www.uludagsozluk.com/k/y%C4%B1l%C4%B1n-gavat%C4%B1-%C3%B6d%C3%BCl%C3%BC/&w=bg bkz aktrollerin yabışacağı adam
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-tokmak%C3%A7%C4%B1-arayan-fel%C3%A7li-adam/ bkz zuahahah 
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-tokmak%C3%A7%C4%B1-arayan-fel%C3%A7li-adam/ bkz zuahahah aktrolls onboards
 https://www.uludagsozluk.com/k/o%C4%9Ful-mussolininin-trajik-hayat-hikayesi/ bkz duygulandım pampa bilaloğlan gibi
 https://www.uludagsozluk.com/k/19-ekim-2019-hamsilerin-lider-olmas%C4%B1/ bkz yav he he
 https://www.uludagsozluk.com/k/%C5%9Feytan%C4%B1n-git-chivas-al-da-i%C3%A7-diye-d%C3%BCrt%C3%BCp-durmas%C4%B1/ lol
