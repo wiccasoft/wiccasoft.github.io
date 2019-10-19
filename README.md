@@ -24,6 +24,7 @@
 
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg bkz kutsal taşa tükürdü
 https://www.uludagsozluk.com/k/osmanl%C4%B1-armas%C4%B1/&w=bg bkz iğrenç bi arma evet.
 https://eksisozluk.com/guvenilir-erkek-bulmanin-cok-zor-olmasi--5542031?a=popular 
 bkz kardeş karıya tokmakçı lazım dedik güvenmiyosunuz
