@@ -25,7 +25,7 @@
 <!--
 bkz tayyip budun erdoganın operasyon durunca göt olması :)))
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
-bkz milliyetçilerin en kolay güdülen aptallar ordusus olması
+bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
 https://eksisozluk.com/milliyetci-almancilarin-neden-donmuyor-olmasi--6218319?a=popular (bkz tayyip budun erdogan)
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
 https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tayyip budun erdogan operasyonları
