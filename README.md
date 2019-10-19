@@ -23,6 +23,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz güleyrum saha katula gatula bi sözünün geçimeden sar davutoğluna
+https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/&w=bg
 bkz noldiiiiiii rencin soldiiiiiii 
 https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/&w=bg
 bkz tangır budun erdoganın ümmetçilikten turancılığa geçişi :)))
