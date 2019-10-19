@@ -24,6 +24,7 @@
 
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg bkz kutsal taşa tükürdü
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular bkz ne çeşit gerizekalılarsınız amk
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz yıkıkların kralı
 https://www.uludagsozluk.com/k/vedat-u%C5%9Fakl%C4%B1gil-akla-geldik%C3%A7e-a%C4%9Flamak/&w=bg
