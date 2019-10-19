@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/arabas%C4%B1-olmayan-erkek/&w=bg bkz joker
 https://www.uludagsozluk.com/k/film-tavsiyesi/&w=bg bkz batman forever
 https://www.uludagsozluk.com/k/ali-atay/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ bkz allah u akbar
