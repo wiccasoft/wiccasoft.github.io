@@ -27,7 +27,7 @@ bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://www.uludagsozluk.com/k/burhan-kuzu/&w=bg bkz yeni polemik yarattım duruşu
 https://www.uludagsozluk.com/k/birini-gaylikten-vazge%C3%A7irmek-i%C3%A7in-yap%C4%B1lacaklar/
-bkz volak iyesta cicişlerle tanıştırmak ayol
+bkz volkan iyesta cicişlerle tanıştırmak ayol
 bkz hamam böceği gibi yaşayan aktroller
 bkz volkan iyesta cicişlerin sanki biraz şey olması
 bkz kılışdarın yeğeninin panik içinde olması
