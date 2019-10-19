@@ -23,6 +23,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz bi gök yeleli bozkurt vardı ne oldu ona
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yine-sap%C4%B1k-ba%C5%9Fl%C4%B1klar%C4%B1n-%C3%A7o%C4%9Falmas%C4%B1/
 https://eksisozluk.com/18-ekim-2019-burhan-kuzunun-hadsiz-tweeti--6218408?a=popular lol
 https://www.uludagsozluk.com/k/jahrein-e-her-yay%C4%B1nda-100-tl-ba%C4%9F%C4%B1%C5%9F-yapmak/ lol
 https://www.uludagsozluk.com/k/saatine-1200-lira-isteyen-escort/&w=gd lol
