@@ -28,12 +28,7 @@ https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=p
 https://www.uludagsozluk.com/k/burhan-kuzu/&w=bg bkz yeni polemik yarattım duruşu
 bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/chp-otob%C3%BCs%C3%BCnde-%C3%A7ocuk-taciz-eden-chp-li-y%C3%B6netici/&w=bg
-bkz hamamböceği tipli aktrollerin yine meydana çıkması ayol
-https://www.uludagsozluk.com/k/birini-gaylikten-vazge%C3%A7irmek-i%C3%A7in-yap%C4%B1lacaklar/
-bkz volkan iyesta cicişlerle tanıştırmak ayol
-bkz hamam böceği gibi yaşayan aktroller
-bkz volkan iyesta cicişlerin sanki biraz şey olması
-bkz kılışdarın yeğeninin panik içinde olması
+bkz hamamböceği tipli aktrollerin yine meydana çıkması 
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-%C3%A7ocu%C4%9Fa-tacizden-tutuklanan-ye%C4%9Feni/&w=bg
 https://www.uludagsozluk.com/k/hamamb%C3%B6ce%C4%9Fi-s%C3%BCt%C3%BC/ bkz mutlu musun imamaoğlu ayol
 https://www.uludagsozluk.com/k/say%C4%B1n-demirta%C5%9F%C4%B1n-siyasi-%C3%A7izgisini-be%C4%9Feniyorum/&w=bg 
