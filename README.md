@@ -23,7 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz büyükşehirlerdeki süpürge seslerinin batmanin batmobile sesine benzemesi (bkz vroaahhhh)
+bkz büyükşehirlerdeki süpürge seslerinin batmanin batmobile sesine benzemesi
 bkz joker in yıkık arabasız fakirleri temsil etmesi 
 https://www.uludagsozluk.com/k/arabas%C4%B1-olmayan-erkek/&w=bg bkz joker
 https://www.uludagsozluk.com/k/film-tavsiyesi/&w=bg bkz batman forever
