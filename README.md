@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz tangur budun aragonun operasyon sonrası afrikaya kaçması
 bkz tangur budun aragonun 3.afrika müslüman dini liderler zirvesi efsane konuşması
 bkz tangur budun aragonun turancılıktan sıkılıp ümmetçiliğe geri dönmesi
 bkz layt erkeği laytlıktan vazgeçirmek için katula katula şarkısı söylemek
