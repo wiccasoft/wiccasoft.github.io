@@ -29,7 +29,7 @@ https://www.uludagsozluk.com/k/sahibinden-com/&w=bg bkz yine pkk malı chrome a�
 bkz korkudan natoyu kurmak
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
 https://www.uludagsozluk.com/k/youtuberlar%C4%B1n-ayda-100-150-bin-tl-kazanmas%C4%B1/ 
-bkz youtube u satın alıp mekanın sahibi geldi eşliğinde hepsini dehlemek
+bkz youtube u satın alıp mekanın sahibi geldi eşliğinde hepsini dehlemek (bkz 10 milyar dolar ı çöpe atmak)
 https://eksisozluk.com/kadinla-yaptigi-butun-tartismalari-kazanan-erkek--6218506?a=popular tramessidir o
 https://www.uludagsozluk.com/k/az-bilinen-kaliteli-i%C3%A7erik-%C3%BCreten-youtube-kanal%C4%B1/ bkz enes batur
 https://www.uludagsozluk.com/k/eski-e%C5%9Fin-paran%C4%B1z%C4%B1-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkeklerle-yemesi/ bkz şeyma
