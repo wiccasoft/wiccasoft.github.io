@@ -26,6 +26,7 @@
 bkz tayyip budun erdoganın operasyon durunca göt olması :)))
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
+https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tayyip budun erdogan operasyonları
 https://www.uludagsozluk.com/k/internet-dabbet-%C3%BCl-arz-olabilir/&w=bg lol
 https://www.uludagsozluk.com/k/%C5%9Feytan-%C4%B1n-allah-tan-%C3%BCst%C3%BCn-olmas%C4%B1/&w=gd 
 ya ne olacağıdı tanrı insan egosudur insan hata yapar bi de kibirlenir orospu çocukları :)))
