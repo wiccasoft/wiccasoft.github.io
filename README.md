@@ -24,7 +24,7 @@
 
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
-https://www.uludagsozluk.com/k/osmanl%C4%B1-armas%C4%B1/&w=bg bkz iğrenç bi arma evet
+https://www.uludagsozluk.com/k/osmanl%C4%B1-armas%C4%B1/&w=bg bkz iğrenç bi arma evet.
 https://eksisozluk.com/guvenilir-erkek-bulmanin-cok-zor-olmasi--5542031?a=popular 
 bkz kardeş karıya tokmakçı lazım dedik güvenmiyosunuz
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular bkz sikmiyosanız kaldırim karıyı
