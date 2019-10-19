@@ -31,7 +31,6 @@ https://www.uludagsozluk.com/k/%C5%9Feytan-%C4%B1n-allah-tan-%C3%BCst%C3%BCn-olm
 ya ne olacağıdı tanrı insan egosudur insan hata yapar bi de kibirlenir orospu çocukları :)))
 (bkz aklını kullanan götünü kurtarır tayyipçim besleme enişteyi sikmesin götünü :))))
 https://www.uludagsozluk.com/k/davuto%C4%9Flu-nun-beyin-yakan-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-form%C3%BCl%C3%BC/
-bkz tayyip budun erdogaın hala adıma başlık açamamsı https://www.youtube.com/watch?v=RGR4SFOimlk
 https://www.youtube.com/watch?v=xeKkxEdDAiE&feature=youtu.be
 bundan sonra gelecek hükümetin milleti iphone kuyruğundan kurtardık mottosuyla gelmesini umduğum olaydır. 
 aktrolleri ne kadar da zengin olduğumuza, ekonomik krizin olmadığına dair çıkarımlarını yapmak için sahneye davet ediyorum.
