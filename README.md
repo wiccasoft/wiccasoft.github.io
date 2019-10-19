@@ -27,6 +27,8 @@ bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://eksisozluk.com/starbucksta-hp-laptop-ile-oturmak--6218757?a=popular bkz zuahhahaha
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-cahil-kaynamas%C4%B1/&w=gd bkz akoçler
+bkz ben kırgızıstandan gelmişem hemişem varmışam bu topraklara
+https://eksisozluk.com/azerbaycan-turkiye-ozerk-devleti-olsun--6218765?a=popular
 https://www.uludagsozluk.com/k/ye%C4%9Feni-50-kilo-esrarla-yakalanan-cumhurba%C5%9Fkan%C4%B1/&w=bg bkz vay anam vay cicişler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz hamamböcekleri lideri
 https://www.uludagsozluk.com/k/l%C3%BCbnan-ayaklanmas%C4%B1/ bkz zuhahahahahah
