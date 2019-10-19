@@ -24,7 +24,7 @@
 
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
-https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular bkz sikmiyosanız kaldırim karıyı
+https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular bkz olm sikmiyosanız kaldırim karıyı
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg bkz kutsal taşa tükürdü
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-%C5%9Feyh-naz%C4%B1m-k%C4%B1br%C4%B1si-mi6-ba%C4%9Flant%C4%B1s%C4%B1/&w=bg bkz james mısıroğlu 007
 bkx latife hanımın seks hikayeleri
