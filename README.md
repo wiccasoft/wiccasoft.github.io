@@ -24,7 +24,7 @@
 
 <!--
 bkz tangur budun erdoganin recep tayyip erdoğan olma ihtimali 
-yeme bizi tangır operasyonu destekleyip şimdi davutoğluna yüklenmeler falan 
+yeme bizi tangır operasyonu destekleyip şimdi davutoğluna yüklenmeler falan tangır budun rte değilse bişey bilmiyorum
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ 
 (bkz yasama yürütmeyi ayırırdım caaart kabakaağt)
 (ama benim vaktim az bak benim yarım saaatimi yediniz 3. afrika müslüman dini liderler zirvesi noldu)
