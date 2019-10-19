@@ -25,6 +25,7 @@
 <!--
 bkz korkudan natoyu kurmak
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
+https://www.uludagsozluk.com/k/eski-e%C5%9Fin-paran%C4%B1z%C4%B1-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkeklerle-yemesi/ bkz şeyma
 https://www.uludagsozluk.com/k/engelleyen-k%C4%B1z%C4%B1n-numaras%C4%B1n%C4%B1-eskort-diye-da%C4%9F%C4%B1tmak/ lol
 https://eksisozluk.com/icki-ve-tutunden-55-milyar-441-milyon-tl-otv-almak--6218620?a=popular lol
 https://www.uludagsozluk.com/k/r%C3%BCzgar-erko%C3%A7lar-%C4%B1n-bebe%C4%9Fimi-yapabilirim-demesi/ bkz löp diye sıçmak
