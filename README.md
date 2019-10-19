@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz tangur budun erdoganin recep tayyip erdoğan olma ihtimali 
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ 
 (bkz yasama yürütmeyi ayırırdım caaart kabakaağt)
 (ama benim vaktim az bak benim yarım saaatimi yediniz 3. afrika müslüman dini liderler zirvesi noldu)
