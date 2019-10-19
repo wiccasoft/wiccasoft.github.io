@@ -31,6 +31,7 @@ https://www.uludagsozluk.com/k/onu-hat%C4%B1rlatan-%C5%9Fark%C4%B1-s%C3%B6z%C3%B
 bkz galbimde gırılmadıh yerh mi bırahdın
 https://www.uludagsozluk.com/k/bir-erkekle-bir-telefonun-benzer-yanlar%C4%B1/&w=bg ben götüme sokup uyuduğum için problem yok
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular bkz ne çeşit gerizekalılarsınız amk
+https://eksisozluk.com/guvenilir-erkek-bulmanin-cok-zor-olmasi--5542031?a=popular bkz tokmakçı arayaan felçli adam
 bkz yine seks hikaysesi mi yazıyosun feridun abi
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-%C4%B1n-yay%C4%B1nlanmas%C4%B1-yasaklanan-g%C3%BCnl%C3%BCkleri/&w=bg
 https://www.uludagsozluk.com/k/vedat-u%C5%9Fakl%C4%B1gil-akla-geldik%C3%A7e-a%C4%9Flamak/&w=bg
