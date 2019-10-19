@@ -23,7 +23,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular bkz yine tüple kuşa soktun kardeş
+bkz yine tüple kuşa soktun kardeş
+https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 bkz korkudan natoyu kurmak
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
 https://www.uludagsozluk.com/k/youtuberlar%C4%B1n-ayda-100-150-bin-tl-kazanmas%C4%B1/ 
