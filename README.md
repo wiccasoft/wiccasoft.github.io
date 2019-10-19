@@ -23,6 +23,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz noldi rencin soldiiiiiii 
+https://www.uludagsozluk.com/k/haf%C4%B1z-esad-%C4%B1n-y%C4%B1llarca-pkk-ya-kol-kanat-germesi/&w=bg
 bkz tangır budun erdoganın ümmetçilikten turancılığa geçişi :)))
 https://www.uludagsozluk.com/k/abd-t%C3%BCrkiye-ate%C5%9Fkes-antla%C5%9Fmas%C4%B1-6-nc%C4%B1-madde/&w=bg
 bkz tangır budun erdoganın operasyon durunca göt olması :)))
