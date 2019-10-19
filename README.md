@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ bkz ben allah u akbar
 bkz bi gök yeleli bozkurt vardı ne oldu ona
 https://www.uludagsozluk.com/k/morning-star-gazetesinin-ter%C3%B6rist-erdo%C4%9Fan-man%C5%9Feti/ lol
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yine-sap%C4%B1k-ba%C5%9Fl%C4%B1klar%C4%B1n-%C3%A7o%C4%9Falmas%C4%B1/
