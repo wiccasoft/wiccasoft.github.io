@@ -26,6 +26,8 @@
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 https://www.uludagsozluk.com/e/42306995/ bkz lol
+bkz oo seks hikayesi alırım bi dal
+https://www.uludagsozluk.com/k/latife-han%C4%B1m-%C4%B1n-yay%C4%B1nlanmas%C4%B1-yasaklanan-g%C3%BCnl%C3%BCkleri/&w=bg
 https://www.uludagsozluk.com/k/g%C3%B6khan-k%C4%B1rdar/&w=bg bkz yıkıkların kralı
 https://www.uludagsozluk.com/k/y%C4%B1l%C4%B1n-gavat%C4%B1-%C3%B6d%C3%BCl%C3%BC/&w=bg bkz aktrollerin yabışacağı adam
 bkz aktrollerin felçli adamı facebooktan ekleyip sikmek istemesiyle başlayacak süreç
