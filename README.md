@@ -25,7 +25,7 @@
 <!--
 bkz korkudan natoyu kurmak
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
-https://eksisozluk.com/kadinla-yaptigi-butun-tartismalari-kazanan-erkek--6218506?a=popular bkz travesti
+https://eksisozluk.com/kadinla-yaptigi-butun-tartismalari-kazanan-erkek--6218506?a=popular tramessidir o
 https://www.uludagsozluk.com/k/eski-e%C5%9Fin-paran%C4%B1z%C4%B1-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkeklerle-yemesi/ bkz şeyma
 https://www.uludagsozluk.com/k/engelleyen-k%C4%B1z%C4%B1n-numaras%C4%B1n%C4%B1-eskort-diye-da%C4%9F%C4%B1tmak/ lol
 https://eksisozluk.com/icki-ve-tutunden-55-milyar-441-milyon-tl-otv-almak--6218620?a=popular lol
