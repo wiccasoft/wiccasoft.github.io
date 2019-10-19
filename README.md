@@ -26,7 +26,7 @@
 <!--
 bkz iyi ki türkçü turancı osmanlıcı kamalcı değilim denilen anlar 
 sosyalist olana kadar eğitin kendinizi belki sevişirsiniz bi gün
-https://www.uludagsozluk.com/k/ibne-sevicilik/&w=gd bkz kenana imirzalıoğlu tarafından tecavüz edilmek isteyeni hoş görmek
+https://www.uludagsozluk.com/k/ibne-sevicilik/&w=gd bkz kenan imirzalıoğlu tarafından tecavüz edilmek isteyeni hoş görmek
 https://www.uludagsozluk.com/k/osmanl%C4%B1-ocaklar%C4%B1/&w=bg bkz orta asyalıların hala gelişmmemiş olması
 https://www.uludagsozluk.com/k/osmanl%C4%B1-armas%C4%B1/ bkz iğrenç bi arma
 https://www.uludagsozluk.com/k/gece-gece-zinhar-edepsiz-ba%C5%9Fl%C4%B1k-a%C3%A7anlar/
