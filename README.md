@@ -23,7 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz tayyip budun erdoganın operasyon duruncu göt olması
+bkz tayyip budun erdoganın operasyon durunca göt olması
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
 https://www.uludagsozluk.com/k/internet-dabbet-%C3%BCl-arz-olabilir/&w=bg lol
