@@ -25,13 +25,11 @@
 <!--
 bkz yine tüple kuşa soktun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
-https://www.uludagsozluk.com/k/sahibinden-com/&w=bg bkz yine chrome açtırdın kardeş
+https://www.uludagsozluk.com/k/sahibinden-com/&w=bg bkz yine pkk malı chrome açtırdın kardeş
 bkz korkudan natoyu kurmak
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
 https://www.uludagsozluk.com/k/youtuberlar%C4%B1n-ayda-100-150-bin-tl-kazanmas%C4%B1/ 
 bkz youtube u satın alıp mekanın sahibi geldi eşliğinde hepsini dehlemek
-https://www.uludagsozluk.com/k/j%C3%B6h-%C3%BCn-nusaybin-deki-%C3%A7at%C4%B1%C5%9Fma-g%C3%B6r%C3%BCnt%C3%BCleri/
-bkz jöh pöh hayranı bordo klavyeliler
 https://eksisozluk.com/kadinla-yaptigi-butun-tartismalari-kazanan-erkek--6218506?a=popular tramessidir o
 https://www.uludagsozluk.com/k/az-bilinen-kaliteli-i%C3%A7erik-%C3%BCreten-youtube-kanal%C4%B1/ bkz enes batur
 https://www.uludagsozluk.com/k/eski-e%C5%9Fin-paran%C4%B1z%C4%B1-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkeklerle-yemesi/ bkz şeyma
