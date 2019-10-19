@@ -30,6 +30,7 @@ bkz tangur budun erdogan in tangır budun erdogan olma ihtimali bkz bir başgan 
 operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklenmeler 
 yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
 tangır budun rte değilse bişey bilmiyorum dikkatli olun genşler silivri soğuktur şimdi
+https://www.uludagsozluk.com/k/morning-star-gazetesinin-ter%C3%B6rist-erdo%C4%9Fan-man%C5%9Feti/ (bkz lol)
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ 
 (bkz yasama yürütmeyi ayırırdım caaart kabakaağt)
 (ama benim vaktim az bak benim yarım saaatimi yediniz 3. afrika müslüman dini liderler zirvesi noldu)
