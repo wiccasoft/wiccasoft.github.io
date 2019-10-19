@@ -27,7 +27,7 @@ bkz tangır budun erdoganın ümmetçilikten turancılığa geçişi :)))
 https://www.uludagsozluk.com/k/abd-t%C3%BCrkiye-ate%C5%9Fkes-antla%C5%9Fmas%C4%B1-6-nc%C4%B1-madde/&w=bg
 bkz tangır budun erdoganın operasyon durunca göt olması :)))
 https://www.uludagsozluk.com/k/birini-gaylikten-vazge%C3%A7irmek-i%C3%A7in-yap%C4%B1lacaklar/
-bkz body nin totosuna bengay sürüp sen gayma ben gayım demek
+bkz arkadaşın totosuna bengay sürüp sen gayma ben gayım demek
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
