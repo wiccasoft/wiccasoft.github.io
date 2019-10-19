@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
 https://www.uludagsozluk.com/k/sscb-%C3%A7ocuk-bak%C4%B1mevi/ lol
 bkz büyükşehirlerdeki süpürge seslerinin batmanin batmobile sesine benzemesi
 bkz joker in yıkık arabasız fakirleri temsil etmesi 
