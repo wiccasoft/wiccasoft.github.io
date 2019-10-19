@@ -26,6 +26,7 @@
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
 bkz hamam böceği gibi yaşayan aktroller
+https://www.uludagsozluk.com/k/hamamb%C3%B6ce%C4%9Fi-s%C3%BCt%C3%BC/ bkz mutlu musun imamaoğlu ayol
 https://www.uludagsozluk.com/k/say%C4%B1n-demirta%C5%9F%C4%B1n-siyasi-%C3%A7izgisini-be%C4%9Feniyorum/&w=bg 
 https://www.uludagsozluk.com/k/camide-siyaset-yapan-hoca/ bkz rte
 https://www.uludagsozluk.com/k/baba-taraf%C4%B1-akrabalar%C4%B1n-%C5%9Ferefsiz-olmas%C4%B1/  lol
