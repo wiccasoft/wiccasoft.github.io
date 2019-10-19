@@ -28,9 +28,8 @@ https://www.uludagsozluk.com/k/abd-t%C3%BCrkiye-ate%C5%9Fkes-antla%C5%9Fmas%C4%B
 bkz tangır budun erdoganın operasyon durunca göt olması :)))
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
-https://eksisozluk.com/milliyetci-almancilarin-neden-donmuyor-olmasi--6218319?a=popular (bkz tangır budun erdogan)
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
-https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tayyip budun erdogan operasyonları
+https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tangır budun erdogan operasyonları
 https://www.uludagsozluk.com/k/internet-dabbet-%C3%BCl-arz-olabilir/&w=bg lol
 https://www.uludagsozluk.com/k/%C5%9Feytan-%C4%B1n-allah-tan-%C3%BCst%C3%BCn-olmas%C4%B1/&w=gd 
 ya ne olacağıdı tanrı insan egosudur insan hata yapar bi de kibirlenir orospu çocukları :)))
