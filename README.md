@@ -25,8 +25,7 @@
 <!--
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ 
 (bkz yasama yürütmeyi ayırırdım caaart kabakaağt)
-(olm ben sözlükte olacam böyle başlıklar açardım ne trollükler yapardım 
-ama benim vaktim az bak benim yarım saaatimi yediniz golf noldu)
+(ama benim vaktim az bak benim yarım saaatimi yediniz 3. afrika müslüman dini liderler zirvesi noldu)
 bkz beyler reis afrikada ülkeyi saklıyoruz dönünce bulamasın 
 bkz tangur budun aragonun operasyon sonrası afrikaya kaçması 
 bkz tangur budun aragonun 3.afrika müslüman dini liderler zirvesi efsane konuşması
