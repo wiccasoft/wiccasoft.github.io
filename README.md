@@ -47,7 +47,7 @@ bkz arkadaşın totosuna bengay sürüp sen gayma ben gayım demek
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
-https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tangır budun erdogan operasyonları
+https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular (bkz murat özün)
 https://www.uludagsozluk.com/k/internet-dabbet-%C3%BCl-arz-olabilir/&w=bg lol
 https://www.uludagsozluk.com/k/%C5%9Feytan-%C4%B1n-allah-tan-%C3%BCst%C3%BCn-olmas%C4%B1/&w=gd 
 https://www.youtube.com/watch?v=xeKkxEdDAiE&feature=youtu.be 
