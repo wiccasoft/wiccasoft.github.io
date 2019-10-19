@@ -45,7 +45,6 @@ bkz büyükşehirlerdeki süpürge seslerinin batmanin batmobile sesine benzemes
 bkz joker in yıkık arabasız fakirleri temsil etmesi 
 https://www.uludagsozluk.com/k/arabas%C4%B1-olmayan-erkek/&w=bg bkz joker
 https://www.uludagsozluk.com/k/film-tavsiyesi/&w=bg bkz batman forever
-https://www.uludagsozluk.com/k/ali-atay/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ bkz allah u akbar
 bkz bi gök yeleli bozkurt vardı ne oldu ona
 https://www.uludagsozluk.com/k/morning-star-gazetesinin-ter%C3%B6rist-erdo%C4%9Fan-man%C5%9Feti/ lol
