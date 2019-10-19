@@ -23,7 +23,6 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/e/42304696/ lol
 bkz tangur budun erdogan in tangır budun erdogan olma ihtimali bkz bir başgan iki erdogan
 operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklenmeler 
 yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
@@ -31,6 +30,7 @@ tangır budun rte değilse bişey bilmiyorum dikkatli olun genşler silivri soğ
 https://www.uludagsozluk.com/k/morning-star-gazetesinin-ter%C3%B6rist-erdo%C4%9Fan-man%C5%9Feti/ (bkz lol)
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-olsayd%C4%B1n%C4%B1z-ilk-i%C5%9Finiz/ 
 (bkz yasama yürütmeyi ayırırdım caaart kabakaağt)
+https://www.uludagsozluk.com/e/42304696/ lol
 bkz beyler reis afrikada ülkeyi saklıyoruz dönünce bulamasın 
 bkz tangur budun aragonun operasyon sonrası afrikaya kaçması 
 bkz güleyrum saha katula katula ne oldi saha böyle nerde o eski taş formüllü erkeği bir anda oldun layt erkeği 
