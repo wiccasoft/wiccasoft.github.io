@@ -28,6 +28,7 @@ https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=p
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg iki sene sonra deliğinden çıkaralacak hamamböcekleri lideri
 https://www.uludagsozluk.com/k/burhan-kuzu/&w=bg bkz yeni polemik yarattım duruşu
 bkz yine duşa soktun kardeş
+https://www.uludagsozluk.com/k/%C5%9Feyhinin-ta%C5%9F%C5%9Fa%C4%9F%C4%B1n%C4%B1-yalayan-%C5%9Fakirt/&w=bg
 https://www.uludagsozluk.com/k/chp-otob%C3%BCs%C3%BCnde-%C3%A7ocuk-taciz-eden-chp-li-y%C3%B6netici/&w=bg
 bkz hamamböceği tipli aktrollerin yine meydana çıkması 
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-%C3%A7ocu%C4%9Fa-tacizden-tutuklanan-ye%C4%9Feni/&w=bg
