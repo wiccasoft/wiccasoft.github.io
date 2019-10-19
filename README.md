@@ -23,7 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/ali-atay/&w=bg addıma başlık açmdadığın için siklemediğim durum
+https://www.uludagsozluk.com/k/ali-atay/&w=bg adıma başlık açmdadığın için siklemediğim durum
 https://www.uludagsozluk.com/k/abd-t%C3%BCrkiye-ate%C5%9Fkes-antla%C5%9Fmas%C4%B1-6-nc%C4%B1-madde/&w=bg
 bkz tayyip budun erdoganın operasyon durunca göt olması :)))
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
