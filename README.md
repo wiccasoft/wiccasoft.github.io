@@ -26,6 +26,7 @@
 bkz amerikan saldırısında devrilmeyecek tek ülke
 bkz rusya nın dünyanın en büyük askeri gücü olduğu gerçeği
 https://www.uludagsozluk.com/k/ayd%C4%B1n-insan-memeden-uzak-ya%C5%9Fayan-insand%C4%B1r/&w=bg bkz lol
+https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1-n%C4%B1n-verdi%C4%9Fi-inan%C4%B1lmaz-poz/
 https://www.uludagsozluk.com/k/sscb-%C3%A7ocuk-bak%C4%B1mevi/ lol
 bkz büyükşehirlerdeki süpürge seslerinin batmanin batmobile sesine benzemesi
 bkz joker in yıkık arabasız fakirleri temsil etmesi 
