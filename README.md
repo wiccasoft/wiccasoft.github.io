@@ -23,11 +23,11 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz tangır budun erdoganın ümmetçilkten turancılığa geçişi
 https://www.uludagsozluk.com/k/abd-t%C3%BCrkiye-ate%C5%9Fkes-antla%C5%9Fmas%C4%B1-6-nc%C4%B1-madde/&w=bg
-bkz tayyip budun erdoganın operasyon durunca göt olması :)))
+bkz tangır budun erdoganın operasyon durunca göt olması :)))
 https://tr-tr.facebook.com/TrumpSevdalilari/photos/hay%C4%B1rl%C4%B1-cumalar/1675761676051132/ 
 bkz milliyetçilerin en kolay güdülen aptallar ordusu olması
-bkz liseden sonra hala ülkücü takılan dayılar
 https://eksisozluk.com/milliyetci-almancilarin-neden-donmuyor-olmasi--6218319?a=popular (bkz tayyip budun erdogan)
 (bkz: 2019 ekonomik kerizi)(bkz noldu kurudunuz kaldınız hepiniz)
 https://eksisozluk.com/fakirlerin-isyan-edip-ayaklanmama-nedeni--5049087?a=popular bkz tayyip budun erdogan operasyonları
