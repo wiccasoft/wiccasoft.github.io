@@ -1,5 +1,5 @@
 [![Image](smartdata/softbank.png)]( https://www.reuters.com/article/us-wework-softbank-group/softbank-seeks-to-avoid-weworks-liabilities-with-new-investment-sources-idUSKBN1WY0OJ )
-[![Image](smartdata/hd.png)]( https://www.youtube.com/watch?v=PoaOwSPJPHw )
+
 [![Image](smartdata/bg.png)]( https://www.youtube.com/watch?v=DOIQ5i87-Kg )
 
 [![Image](smartdata/xaos.png)]( https://www.youtube.com/watch?v=RGR4SFOimlk )
