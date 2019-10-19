@@ -29,6 +29,7 @@ https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-%C5%9Feyh-naz%C4%B
 bkx latife hanımın seks hikayeleri
 https://www.uludagsozluk.com/k/onu-hat%C4%B1rlatan-%C5%9Fark%C4%B1-s%C3%B6z%C3%BC/&w=bg 
 bkz galbimde gırılmadıh yerh mi bırahdın
+https://www.uludagsozluk.com/k/bir-erkekle-bir-telefonun-benzer-yanlar%C4%B1/&w=bg ben götüme sokup uyuduğum için problem yok
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular bkz ne çeşit gerizekalılarsınız amk
 bkz yine seks hikaysesi mi yazıyosun feridun abi
 https://www.uludagsozluk.com/k/latife-han%C4%B1m-%C4%B1n-yay%C4%B1nlanmas%C4%B1-yasaklanan-g%C3%BCnl%C3%BCkleri/&w=bg
