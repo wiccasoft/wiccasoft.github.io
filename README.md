@@ -23,6 +23,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz tangur budun eroganın davutoğlana sitemkar mektubu
 bkz layt erkeği laytlıktan vazgeçirmek için katula katula şarkısı söylemek
 https://www.uludagsozluk.com/k/birini-gaylikten-vazge%C3%A7irmek-i%C3%A7in-yap%C4%B1lacaklar/
 bkz güleyrum saha katula katula ne oldi saha böyle bir anda oldun layt erkeği nerde o eski taş erkeği
