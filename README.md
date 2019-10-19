@@ -25,6 +25,7 @@
 <!--
 bkz yine pkk malı chrome la tüple kuşa sokturdun kardeş
 https://eksisozluk.com/joh-timinin-nusaybindeki-catisma-goruntuleri--6218605?a=popular 
+https://www.uludagsozluk.com/k/camide-siyaset-yapan-hoca/ bkz rte
 https://www.uludagsozluk.com/k/baba-taraf%C4%B1-akrabalar%C4%B1n-%C5%9Ferefsiz-olmas%C4%B1/  lol
 https://www.uludagsozluk.com/k/mykonos-a-gidiyorum-s%C3%B6zl%C3%BCk/ bkz sen de gitsin o da gitsin 
 https://eksisozluk.com/tugce-kazazin-twitter-hesabinin-askiya-alinmasi--6217462 bkz eşsiz bilgeliğine tüküreyim
