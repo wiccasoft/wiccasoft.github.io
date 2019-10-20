@@ -1,3 +1,5 @@
+[![Image](almanac/tr-ru.png)]( https://www.reuters.com/article/us-syria-security-turkey-usa/turkey-and-russia-to-discuss-removal-of-kurdish-militia-from-syrian-towns-idUSKBN1WZ03U )
+
 [![Image](smartdata/sailor.png)]( https://www.youtube.com/watch?v=VKFsmZhQWtg )
 
 [![Image](smartdata/softbank.png)]( https://www.youtube.com/watch?v=z_k3DsKC9o8 )
