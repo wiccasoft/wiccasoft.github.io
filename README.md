@@ -59,10 +59,8 @@ https://www.uludagsozluk.com/k/20-ekim-2019-ate%C5%9Fkes-d%C3%B6neminde-verdi%C4
 (bkz tangır bidonu mancınıkla ege adalarına fırlatıp kurtulmak)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 (bkz anlamadım bıbıcım opersoyondaydın ya bıbıcım)
-https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
-https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/tek-tokatla-bay%C4%B1lt%C4%B1r%C4%B1m-denilen-%C3%BCnl%C3%BCler/&w=bg
-(bkz enes batur tarkan norm ender barış özcan ruhi çenet)
+(bkz enes batur rapçiler popçular norm ender barış özcan ruhi çenet)
 https://www.uludagsozluk.com/k/bat%C4%B1-karadenizlinin-karadenizliden-say%C4%B1lmamas%C4%B1/&w=bg
 (bkz keşke yunan galip gelseydi kitabım yakında yayında)
 https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
