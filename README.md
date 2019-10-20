@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/rize-ile-trabzon/&w=bg (bkz sedat peker rte vs tarkan tevetlioğlan)
 https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tostların arasına sümüğünü koymasa iyi adam)
 https://www.uludagsozluk.com/k/r%C3%BCzgar-erko%C3%A7lar/&w=bg (bkz koçgibidelikanlı)
 (bkz adam çıkmayan iller)
