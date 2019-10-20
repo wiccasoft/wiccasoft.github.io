@@ -26,7 +26,7 @@
 
 <!--
 https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
-https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa ilanı kaldırıyorum)
+https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa kaldırıyorum)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu) 
  -->
 
