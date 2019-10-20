@@ -26,9 +26,8 @@
 
 <!--
 (bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
+Satılık Popçu Dosyası
 https://www.youtube.com/watch?v=z_k3DsKC9o8
-(bkz erkek seviyosanız erkek resmi atalım programa ama tutmaz o yurdışında)
-https://www.uludagsozluk.com/k/ilk-a%C5%9F%C4%B1k-olunan-%C3%BCnl%C3%BC/&w=bg
 (bkz ünlü dediklerinizi yurtdışında kimse tanımıyor)
 (bkz emeğine sağlık hemen aktımlık karılar da var)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
