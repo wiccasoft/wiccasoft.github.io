@@ -25,6 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz yaşın kaç senin ha ) https://www.youtube.com/watch?v=FO1ekpDB_Aw
+https://eksisozluk.com/ozan-guvenin-muhaliflere-verdigi-efsanevi-ayar--6219638?a=popular
 (bkz sığır)
 https://www.uludagsozluk.com/k/aya%C4%9F%C4%B1-itildi-diye-bir-adam%C4%B1-if%C5%9Fa-eden-kad%C4%B1n/&w=gd
 (bkz çok fena ibnelik döndüğü düşünülen belediyeler)
