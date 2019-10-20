@@ -52,15 +52,13 @@ https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B
 (bkz noldu lan bebeler dağıttığı sütler bozuk mu çıktı)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/20-ekim-2019-ate%C5%9Fkes-d%C3%B6neminde-verdi%C4%9Fimiz-%C5%9Fehit/
-(bkz tangır bidon doganın iyice sıyırması)(bkz tangır bidonu mancınıkla ege adalarına fırlatıp kurtulmak)
+(bkz tangır bidonu mancınıkla ege adalarına fırlatıp kurtulmak)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 (bkz anlamadım bıbıcım opersoyondaydın ya bıbıcım)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/tek-tokatla-bay%C4%B1lt%C4%B1r%C4%B1m-denilen-%C3%BCnl%C3%BCler/&w=bg
 (bkz enes batur tarkan norm ender barış özcan ruhi çenet)
-https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=gd
-(bkz başını azıma alırım diyo ırıspi)
 https://www.uludagsozluk.com/k/bat%C4%B1-karadenizlinin-karadenizliden-say%C4%B1lmamas%C4%B1/&w=bg
 (bkz keşke yunan galip gelseydi kitabım yakında yayında)
 https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
