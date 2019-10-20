@@ -47,20 +47,8 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1
 https://www.uludagsozluk.com/k/20-ekim-2019-ate%C5%9Fkes-d%C3%B6neminde-verdi%C4%9Fimiz-%C5%9Fehit/
 (bkz tangır bidon doganın iyice sıyırması)(bkz tangır bidonu mancınıkla ege adalarına fırlatıp kurtulmak)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
-(bkz anlamadım bıbıcım opersoyondaydın ya sen tangır budundogan bıbıcım)
-bkz tangur budundogan in tangır budun erdogan olma ihtimali bkz bir başgan iki erdogan
-operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklenmeler 
-yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
-morning star buna terörrist dedi diye havlamalar falan
-şimdi ege adalarını peşkeş çekip bilalele anlatır gibi anlatmalar kimmi yiyosun la çomar
-yakında tayyip ordular ilk hedefiniz ege adaları derse şaşmayın amk çomarı 
-herkes senin gibi gerizekalı mı lan tangır budun çomarı milletin işi var gücü var
-amk çomarı yatmış oraya herkesi aptal sanıyo gerizekalı çomar he amk bi sensin zeki herkes aptal
-tangır bidon napalım pampa ege adalarına bombe mi atalım
-ucuna da taramalı bağlarız taraya taraya gider ege adalarını
+(bkz anlamadım bıbıcım opersoyondaydın ya bıbıcım)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg 
-(bkz instagramın logosu neden değişti neeedeeennn)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/tek-tokatla-bay%C4%B1lt%C4%B1r%C4%B1m-denilen-%C3%BCnl%C3%BCler/&w=bg
 (bkz enes batur tarkan norm ender barış özcan ruhi çenet)
