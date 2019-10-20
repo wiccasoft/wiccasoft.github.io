@@ -1,4 +1,4 @@
-[![Image](smartdata/softbank.png)]( https://www.reuters.com/article/us-wework-softbank-group/softbank-seeks-to-avoid-weworks-liabilities-with-new-investment-sources-idUSKBN1WY0OJ )
+[![Image](smartdata/softbank.png)]( https://www.youtube.com/watch?v=z_k3DsKC9o8 )
 
 [![Image](smartdata/bg.png)]( https://www.youtube.com/watch?v=DOIQ5i87-Kg )
 
@@ -26,6 +26,7 @@
 
 <!--
 (bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
+https://www.youtube.com/watch?v=z_k3DsKC9o8
 (bkz erkek seviyosanız erkek resmi atalım programa ama tutmaz o yurdışında)
 https://www.uludagsozluk.com/k/ilk-a%C5%9F%C4%B1k-olunan-%C3%BCnl%C3%BC/&w=bg
 (bkz ünlü dediklerinizi yurtdışında kimse tanımıyor)
