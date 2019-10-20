@@ -31,6 +31,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/sigara-haramd%C4%B1r/&w=bg (bkz beni seven içmez o meredi)
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom kürdistanımın dağlarında çiçekler açtı walla)
 https://www.uludagsozluk.com/k/tayyip-in-sigara-haramd%C4%B1r-demesi/ (bkz beni seven içmez o mereti)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
