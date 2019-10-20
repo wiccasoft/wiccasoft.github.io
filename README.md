@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
 (bkz erkek seviyosanız erkek resmi atalım programa ama tutmaz o yurdışında)
 https://www.uludagsozluk.com/k/ilk-a%C5%9F%C4%B1k-olunan-%C3%BCnl%C3%BC/&w=bg
 (bkz ünlü dediklerinizi yurtdışında kimse tanımıyor)
