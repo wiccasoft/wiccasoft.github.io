@@ -1,4 +1,4 @@
-[![Image](almanac/greatdepression2.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
+[![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
 [![Image](almanac/tr-ru.png)]( https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP )
 
