@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg (bkz erkekliğin 10 da 9 u kaçmaktır)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz türk oğlu türk yiğido)
 https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg (bkz pasiflerin agresif aşkı)
 https://www.uludagsozluk.com/k/galatasaray/&w=gd (bkz zenci sever ibneler toğluluğu)
