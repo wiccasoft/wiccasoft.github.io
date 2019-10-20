@@ -29,6 +29,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/t-of-secret-moments-vs-ups-boobss-memelerin-sava%C5%9F%C4%B1/ (bkz lol)
 https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz lol
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ (bkz rte)
 https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)(bkz aydemir akbaş)
