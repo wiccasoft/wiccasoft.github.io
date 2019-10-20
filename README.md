@@ -25,8 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-(bkz beyler sarışın sevmiyosanız esmer karı arşivim de var)
-(bkz beyler karı sevmiyosanız yapacak bişeyim yok erkek arşivim yok henüz)
+(bkz beyler daha ne karılar var benim arşivimde hemen burun kıvırmayın)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
 (bkz beyler daha elimde çok karı var hemen burun kıvırmayın)
 bkz işte kuzu kuzu geldim 
