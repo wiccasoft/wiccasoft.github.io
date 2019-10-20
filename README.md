@@ -1,5 +1,5 @@
 
-[![Image](almanac/safefromharm.png)]( https://www.youtube.com/watch?v=h7n9gMzMhZc )
+[![Image](mainstream/safefromharm.png)]( https://www.youtube.com/watch?v=h7n9gMzMhZc )
 
 [![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
