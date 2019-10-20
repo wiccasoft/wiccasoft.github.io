@@ -27,6 +27,8 @@
 <!--
 (bkz buda balon çıktı pampa siz götünzü parmaklamaya devam)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg
+bkz keller her götü eller
+https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F-kongresindeki-herkesin-kel-olmas%C4%B1/
 (bkz anlamadım bıbıcım opersoyondaydın ya sen tangır budundogan bıbıcım)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg 
