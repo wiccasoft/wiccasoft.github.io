@@ -25,7 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tavuk götlüm)
+https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tavuk götlü ustam negüzel götü vardı naptın be ustam)
 (bkz koyduk eğleniyoruz)
 https://www.uludagsozluk.com/k/koyun-adas%C4%B1ndaki-da%C4%9Fa-yap%C4%B1lan-dev-yunan-bayra%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/rize-ile-trabzon/&w=bg (bkz sedat peker rte vs tarkan tevetlioğlan)
