@@ -25,6 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz sığır)
+https://www.uludagsozluk.com/k/aya%C4%9F%C4%B1-itildi-diye-bir-adam%C4%B1-if%C5%9Fa-eden-kad%C4%B1n/&w=gd
 (bkz çok fena ibnelik döndüğü düşünülen belediyeler)
 https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-geceleri-ibb-ye-girmesi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-istifa-etmesi/&w=bg (bkz ibb yi bırakıp yelkenle dünyayı gezmek)
