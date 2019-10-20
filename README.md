@@ -35,40 +35,20 @@
 <!--
 https://www.uludagsozluk.com/e/42311097/ bkz lol
 https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz atacüce
-https://www.uludagsozluk.com/k/say%C4%B1n-demirta%C5%9F%C4%B1n-siyasi-%C3%A7izgisini-be%C4%9Feniyorum/&w=bg 
-https://eksisozluk.com/chpli-tunc-soyerin-kibristan-cikalim-aciklamasi--6220071?a=popular ( bence de çıkalım )
-https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi lan bu)
-https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom rizemin dağlarında çiçekler açtı walla)
+https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi bu)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
 https://www.uludagsozluk.com/k/t-of-secret-moments-vs-ups-boobss-memelerin-sava%C5%9F%C4%B1/ (bkz lol)
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ (bkz rte)
 https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)(bkz aydemir akbaş)
 https://eksisozluk.com/ayagiyla-ayagini-iten-adami-ifsa-eden-feminist--6219578 (bkz sosyalist aydın bir kadın)
-(bkz yaşın kaç senin ha ) https://www.youtube.com/watch?v=FO1ekpDB_Aw
 https://eksisozluk.com/ozan-guvenin-muhaliflere-verdigi-efsanevi-ayar--6219638?a=popular
-(bkz sığır)
+(bkz sığır)(bkz yaşın kaç senin ha ) https://www.youtube.com/watch?v=FO1ekpDB_Aw
 https://www.uludagsozluk.com/k/aya%C4%9F%C4%B1-itildi-diye-bir-adam%C4%B1-if%C5%9Fa-eden-kad%C4%B1n/&w=gd
 (bkz çok fena ibnelik döndüğü düşünülen belediyeler)
 https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-geceleri-ibb-ye-girmesi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-istifa-etmesi/&w=bg (bkz ibb yi bırakıp yelkenle dünyayı gezmek)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 (bkz analamadım bıbıcım operasyondaydın ya bıbıcım)
-https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-karizmatik-lider/&w=bg (bkz rte muhammed allah)
-(bkz imamoğlu inşaatın siklemediği balon)
-https://www.uludagsozluk.com/k/emlak-balonu-vs-imamo%C4%9Flu-balonu/&w=bg
-(bkz ırıspi işi biliyo içinde ne öldüğü belli oldu namıssızın)
-https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg
-(bkz noldu lan bebeler dağıttığı sütler bozuk mu çıktı)
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/20-ekim-2019-ate%C5%9Fkes-d%C3%B6neminde-verdi%C4%9Fimiz-%C5%9Fehit/
-(bkz tangır bidonu mancınıkla ege adalarına fırlatıp kurtulmak)
-https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
-(bkz anlamadım bıbıcım opersoyondaydın ya bıbıcım)
-https://www.uludagsozluk.com/k/tek-tokatla-bay%C4%B1lt%C4%B1r%C4%B1m-denilen-%C3%BCnl%C3%BCler/&w=bg
-(bkz enes batur rapçiler popçular norm ender barış özcan ruhi çenet)
-https://www.uludagsozluk.com/k/bat%C4%B1-karadenizlinin-karadenizliden-say%C4%B1lmamas%C4%B1/&w=bg
-(bkz keşke yunan galip gelseydi kitabım yakında yayında)
-https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa kaldırıyorum)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu) 
 https://www.reuters.com/article/us-wework-softbank-group/softbank-seeks-to-avoid-weworks-liabilities-with-new-investment-sources-idUSKBN1WY0OJ
