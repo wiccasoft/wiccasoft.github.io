@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ya%C5%9Far/&w=bg (bkz bundan sana koca olmaz kız sinirli değil ayol)
 https://www.uludagsozluk.com/k/koyun-adas%C4%B1ndaki-da%C4%9Fa-yap%C4%B1lan-dev-yunan-bayra%C4%9F%C4%B1/ (bkz tangır budunun yurdu işgalden kurtarmak için kuvayi milliye ruhuyla mücadeleye başlaması)
 https://twitter.com/abdurrahmanbask/status/1054690797298290689?lang=en
 https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg 
