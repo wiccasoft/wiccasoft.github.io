@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ter-kokan-insanlara-tavsiyeler/&w=bg (bkz taşşaklarıma anlat pampa)
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-g%C3%B6r%C3%BClen-bo%C5%9Fanma-nedenleri/ (bkz kaynımbanaatladı)
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fe-yaz%C4%B1lm%C4%B1%C5%9F-en-g%C3%BCzel-%C5%9Fiir/ (bkz iğrençsinizibneler)
 https://www.uludagsozluk.com/k/tinto-brass/&w=bg (bkz tinto brass nuribilgeceylan tarantinoyla aynı eve çıkmak)
