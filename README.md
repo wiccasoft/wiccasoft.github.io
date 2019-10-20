@@ -26,6 +26,7 @@
 
 <!--
 https://twitter.com/abdurrahmanbask/status/1054690797298290689?lang=en
+https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg (bkz dudaklarına yapış şapşik de pampa)
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-sevmedi%C4%9Fi-erkek-tipi/&w=bg (bkz maço erkek)
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg (bkz erkekliğin 10 da 9 u kaçmaktır)
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz türk oğlu türk yiğido)
