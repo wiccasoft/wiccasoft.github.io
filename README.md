@@ -27,6 +27,7 @@
 <!--
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-erkek/&w=bg 
 (bkz günde beş posta atamıyorsa iş bitmiştir aga erkek demesin kendine)
+(bkz 41 yaşında günde beş posta atmak)
 https://www.uludagsozluk.com/k/napoleon-bonaparte/&w=bg (bkz ekşiden sonrasını okumadım)
 https://www.uludagsozluk.com/k/dolgun-dudakl%C4%B1-k%C4%B1z-%C3%A7ekicili%C4%9Fi/&w=bg (bkz aleyna tilki)
 (bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
