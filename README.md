@@ -31,12 +31,11 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz lol bzk atacüce
 https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi lan bu)
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom rizemin dağlarında çiçekler açtı walla)
-https://www.uludagsozluk.com/k/tayyip-in-sigara-haramd%C4%B1r-demesi/ (bkz beni seven içmez o mereti)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
 https://www.uludagsozluk.com/k/t-of-secret-moments-vs-ups-boobss-memelerin-sava%C5%9F%C4%B1/ (bkz lol)
-https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz lol
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ (bkz rte)
 https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)(bkz aydemir akbaş)
 https://eksisozluk.com/ayagiyla-ayagini-iten-adami-ifsa-eden-feminist--6219578 (bkz sosyalist aydın bir kadın)
