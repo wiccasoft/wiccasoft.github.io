@@ -25,6 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz beyler erkek seviyosanız erkek resmi atalım programa)
+https://www.uludagsozluk.com/k/ilk-a%C5%9F%C4%B1k-olunan-%C3%BCnl%C3%BC/&w=bg
 (bkz emeğine sağlık hemen aktımlık karılar da var)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
 (bkz daha elimde çok karı var hemen burun kıvırmayın)
