@@ -37,7 +37,7 @@ operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklen
 yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
 morning star buna terörrist dedi diye havlamalar falan
 şimdi ege adalarını peşkeş çekip bilalele anlatır gibi anlatmalar kimmi yiyosun la çomar
-yakında ordular ilk hedefiniz ege adaları derse şaşmayın amk çomarı 
+yakında tayyip ordular ilk hedefiniz ege adaları derse şaşmayın amk çomarı 
 herkes senin gibi gerizekalı mı lan tangır budun çomarı milletin işi var gücü var
 amk çomarı yatmış oraya herkesi aptal sanıyo gerizekalı çomar he amk bi sensin zeki herkes aptal
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
