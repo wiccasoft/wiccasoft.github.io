@@ -31,7 +31,7 @@ https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erke
 bkz işte kuzu kuzu geldim 
 https://www.uludagsozluk.com/k/nur-yerlita%C5%9F-%C4%B1n-tarkan-la-verdi%C4%9Fi-poz/
 bkz bu görüntüleri kafamdan nasıl çıkartabilirim
-be hey dürzü tarkana dil uzatma sebepsiz
+be hey dürzü 
 https://tr-tr.facebook.com/notes/m%C3%BCstehak-parti-nihat-s%C4%B1rdar/isgaldeki-hali-sakin-unutmaatat%C3%BCrke-dil-uzatma-sebepsiz/454498491101/
 Isgaldeki hali sakin unutma. 
 ATATÜRK'e dil uzatma sebepsiz. 
