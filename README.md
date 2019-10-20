@@ -26,6 +26,7 @@
 
 <!--
 (bkz beyler sarışın sevmiyosanız esmer karı arşivim de var)
+(bkz beyler karı sevmiyosanız yapacak bişeyim yok erkek arşivim yok henüz)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
 (bkz beyler daha elimde çok karı var hemen burun kıvırmayın)
 bkz işte kuzu kuzu geldim 
