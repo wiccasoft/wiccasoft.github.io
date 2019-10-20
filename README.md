@@ -28,7 +28,7 @@
 (bkz emeğine sağlık hemen aktımlık karılar da var)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
 (bkz daha elimde çok karı var hemen burun kıvırmayın)
-bkz işte kuzu kuzu geldim 
+bkz işte kuzu kuzu geldim bkz ulan ne taş karılar var be
 https://www.uludagsozluk.com/k/nur-yerlita%C5%9F-%C4%B1n-tarkan-la-verdi%C4%9Fi-poz/
 bkz bu görüntüleri kafamdan nasıl çıkartabilirim
 be hey dürzü 
