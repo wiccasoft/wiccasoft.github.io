@@ -32,7 +32,7 @@
 
 <!--
 (bkz eşcinsel ergenlerin ilgi odağı elit ve olgun bey diyeceksiniz)
-https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz beni tarif etmişsin evlat ama ters kurmuşsun cümleyi)
+https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi lan bu)
 https://www.uludagsozluk.com/k/h%C4%B1rs%C4%B1zl%C4%B1k-ve-yolsuzluk-mekruh-ama-sigara-haram/ lol
 (bkz bilal de içiyodu haram dedim tamam bıbıcım dedi bıraktı söz dinler o babasının olişkosu)
 https://eksisozluk.com/20-ekim-2019-rte-sigara-aciklamalari--6219824?a=popular  (bkz beni seven içmez o meredi)
