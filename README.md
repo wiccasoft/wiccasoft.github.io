@@ -26,6 +26,8 @@
 
 <!--
 (bkz anlamadım bıbıcım )
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg 
+(bkz instagramın logosu neden değişti neeedeeennn)
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/tek-tokatla-bay%C4%B1lt%C4%B1r%C4%B1m-denilen-%C3%BCnl%C3%BCler/&w=bg
 (bkz enes batur tarkan norm ender barış özcan ruhi çenet)
