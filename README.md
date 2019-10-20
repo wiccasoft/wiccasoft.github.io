@@ -25,49 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/sevi%C5%9Fme-s%C4%B1ras%C4%B1nda-dayak-yemi%C5%9F-it-gibi-inleyen-k%C4%B1z/&w=bg (bkz içindeölenbiriolanyaratık)
-https://www.uludagsozluk.com/k/camide-kendini-asarak-intihar-eden-m%C3%BCezzin/ (bkz kızların soyunma odasına kamera koyan müezzin)
-https://www.uludagsozluk.com/k/ya%C5%9Far/&w=bg (bkz bundan sana koca olmaz kız sinirli değil ayol)
-https://www.uludagsozluk.com/k/koyun-adas%C4%B1ndaki-da%C4%9Fa-yap%C4%B1lan-dev-yunan-bayra%C4%9F%C4%B1/ (bkz tangır budunun yurdu işgalden kurtarmak için kuvayi milliye ruhuyla mücadeleye başlaması)
-https://twitter.com/abdurrahmanbask/status/1054690797298290689?lang=en
-https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg 
-(bkz kenaa imirzalıoğlu tarafında 50 dk becerilmek isteyen kız davranışları)
-https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1n-sevmedi%C4%9Fi-erkek-tipi/&w=bg (bkz maço erkek)
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg (bkz erkekliğin 10 da 9 u kaçmaktır)
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg (bkz türk oğlu türk yiğido)
-https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg (bkz pasiflerin agresif aşkı)
-https://www.uludagsozluk.com/k/galatasaray/&w=gd (bkz zenci sever ibneler toğluluğu)
-https://www.uludagsozluk.com/k/%C3%B6lm%C3%BC%C5%9F-bir-m%C3%BCzisyeni-hayata-d%C3%B6nd%C3%BCrebilseydin/&w=bg (bkz anan)
-https://www.uludagsozluk.com/k/vajina-temizli%C4%9Fi/&w=bg (bkz vajisini temizlemiş kürt)
-https://www.uludagsozluk.com/k/ter-kokan-insanlara-tavsiyeler/&w=bg (bkz taşşaklarıma anlat pampa)
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-g%C3%B6r%C3%BClen-bo%C5%9Fanma-nedenleri/ (bkz kaynımbanaatladı)
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fe-yaz%C4%B1lm%C4%B1%C5%9F-en-g%C3%BCzel-%C5%9Fiir/ (bkz iğrençsinizibneler)
-https://www.uludagsozluk.com/k/tinto-brass/&w=bg (bkz tinto brass nuribilgeceylan tarantinoyla aynı eve çıkmak)
-https://www.uludagsozluk.com/k/bebek-poposu-pi%C5%9Fi%C4%9Fi/ (bkz idris usta poposu pişiği)
-https://www.uludagsozluk.com/k/kaybetmekten-en-%C3%A7ok-korktu%C4%9Funuz-%C5%9Fey/ (bkz idris usta)
-https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tavuk götlü ustam)
-https://www.uludagsozluk.com/k/koyun-adas%C4%B1ndaki-da%C4%9Fa-yap%C4%B1lan-dev-yunan-bayra%C4%9F%C4%B1/
-https://www.uludagsozluk.com/k/rize-ile-trabzon/&w=bg (bkz sedat peker rte vs tarkan tevetlioğlan)
-https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tostların arasına sümüğünü koymasa iyi adam)
-https://www.uludagsozluk.com/k/r%C3%BCzgar-erko%C3%A7lar/&w=bg (bkz koçgibidelikanlı)
 (bkz adam çıkmayan iller)
 https://www.uludagsozluk.com/k/bat%C4%B1-karadenizlinin-karadenizliden-say%C4%B1lmamas%C4%B1/&w=bg
-(bkz günde beş posta atamıyorsa iş bitmiştir aga erkek demesin kendine)
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-erkek/&w=bg 
-https://www.uludagsozluk.com/k/napoleon-bonaparte/&w=bg (bkz ekşiden sonrasını okumadım)
-https://www.uludagsozluk.com/k/dolgun-dudakl%C4%B1-k%C4%B1z-%C3%A7ekicili%C4%9Fi/&w=bg (bkz aleyna tilki)
-(bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
-Satılık Popçu Dosyası
-https://www.youtube.com/watch?v=z_k3DsKC9o8
-(bkz ünlü dediklerinizi yurtdışında kimse tanımıyor satılmıyo beyler)
-(bkz emeğine sağlık hemen aktımlık karılar da var)
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
-(bkz daha elimde çok karı var hemen burun kıvırmayın)
-bkz işte kuzu kuzu geldim bkz ulan ne taş karılar var be
-https://www.uludagsozluk.com/k/nur-yerlita%C5%9F-%C4%B1n-tarkan-la-verdi%C4%9Fi-poz/
-bkz bu görüntüleri kafamdan nasıl çıkartabilirim
-be hey dürzü 
-https://tr-tr.facebook.com/notes/m%C3%BCstehak-parti-nihat-s%C4%B1rdar/isgaldeki-hali-sakin-unutmaatat%C3%BCrke-dil-uzatma-sebepsiz/454498491101/
 (bkz keşke yunan galip gelseydi kitabım yakında yayında)
 https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa kaldırıyorum)
