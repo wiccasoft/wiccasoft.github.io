@@ -25,7 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-erkek/&w=bg (bkz günde beş posta atamayan ezik)
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-erkek/&w=bg 
+(bkz günde beş posta atamıyorsa iş bitmiştir aga erkek demesin kendine)
 https://www.uludagsozluk.com/k/napoleon-bonaparte/&w=bg (bkz ekşiden sonrasını okumadım)
 https://www.uludagsozluk.com/k/dolgun-dudakl%C4%B1-k%C4%B1z-%C3%A7ekicili%C4%9Fi/&w=bg (bkz aleyna tilki)
 (bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
