@@ -31,7 +31,7 @@
 <!--
 https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz lol
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ (bkz rte)
-https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)
+https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)(bkz aydemir akbaş)
 https://eksisozluk.com/ayagiyla-ayagini-iten-adami-ifsa-eden-feminist--6219578 (bkz sosyalist aydın bir kadın)
 (bkz yaşın kaç senin ha ) https://www.youtube.com/watch?v=FO1ekpDB_Aw
 https://eksisozluk.com/ozan-guvenin-muhaliflere-verdigi-efsanevi-ayar--6219638?a=popular
