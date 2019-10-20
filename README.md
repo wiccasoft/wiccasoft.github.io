@@ -25,7 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-karizmatik-lider/&w=bg (bkz rte)
+https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-karizmatik-lider/&w=bg (bkz rte muhammed allah)
 (bkz imamoğlu inşaatın siklemediği balon)
 https://www.uludagsozluk.com/k/emlak-balonu-vs-imamo%C4%9Flu-balonu/&w=bg
 (bkz ırıspi işi biliyo içinde ne öldüğü belli oldu namıssızın)
