@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/tinto-brass/&w=bg (bkz fena götü olduğu düşünülen yönetmenler)
 https://www.uludagsozluk.com/k/bebek-poposu-pi%C5%9Fi%C4%9Fi/ (bkz idris usta poposu pişiği)
 https://www.uludagsozluk.com/k/kaybetmekten-en-%C3%A7ok-korktu%C4%9Funuz-%C5%9Fey/ (bkz idris usta)
 https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tavuk götlü ustam negüzel götün vardı naptın be ustam)
