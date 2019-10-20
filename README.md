@@ -43,6 +43,7 @@ yakında tayyip ordular ilk hedefiniz ege adaları derse şaşmayın amk çomar�
 herkes senin gibi gerizekalı mı lan tangır budun çomarı milletin işi var gücü var
 amk çomarı yatmış oraya herkesi aptal sanıyo gerizekalı çomar he amk bi sensin zeki herkes aptal
 tangır bidon napalım pampa ege adalarına bombe mi atalım
+ucuna da taramalı bağlarız taraya taraya gider ege adalarını
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg 
 (bkz instagramın logosu neden değişti neeedeeennn)
