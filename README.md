@@ -31,7 +31,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz lol bzk atacüce
+https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz lol bkz atacüce
 https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi lan bu)
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom rizemin dağlarında çiçekler açtı walla)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
