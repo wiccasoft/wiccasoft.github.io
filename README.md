@@ -33,10 +33,6 @@ https://www.uludagsozluk.com/k/nur-yerlita%C5%9F-%C4%B1n-tarkan-la-verdi%C4%9Fi-
 bkz bu görüntüleri kafamdan nasıl çıkartabilirim
 be hey dürzü 
 https://tr-tr.facebook.com/notes/m%C3%BCstehak-parti-nihat-s%C4%B1rdar/isgaldeki-hali-sakin-unutmaatat%C3%BCrke-dil-uzatma-sebepsiz/454498491101/
-Isgaldeki hali sakin unutma. 
-ATATÜRK'e dil uzatma sebepsiz. 
-Sen anandan yine çikardin amma 
-Baban kimdi bilemezdin serefsiz. 
 (bkz keşke yunan galip gelseydi kitabım yakında yayında)
 https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa kaldırıyorum)
