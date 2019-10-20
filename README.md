@@ -37,6 +37,7 @@ operasyon sırası asker selamı veren futbolcular paylaşmalar avrupaya yüklen
 yeme bizi tangır operasyonu destekleyip durdurulunca şimdi davutoğluna yüklenmeler falan 
 morning star buna terörrist dedi diye havlamalar falan
 şimdi ege adalarını peşkeş çekip bilalele anlatır gibi anlatmalar kimmi yiyosun la çomar
+yakında ordular ilk hedefiniz ege adaları derse şaşmayın amk çomarı 
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan%C4%B1-tek-tokatla-bay%C4%B1ltmak/&w=bg 
 (bkz instagramın logosu neden değişti neeedeeennn)
