@@ -25,6 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+bkz korku filmini andıran iki abla
+https://www.uludagsozluk.com/k/nur-yerlita%C5%9F-%C4%B1n-tarkan-la-verdi%C4%9Fi-poz/
 be hey dürzü
 https://tr-tr.facebook.com/notes/m%C3%BCstehak-parti-nihat-s%C4%B1rdar/isgaldeki-hali-sakin-unutmaatat%C3%BCrke-dil-uzatma-sebepsiz/454498491101/
 Isgaldeki hali sakin unutma. 
