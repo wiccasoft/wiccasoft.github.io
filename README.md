@@ -30,6 +30,8 @@ https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B
 (bkz buda balon çıktı pampa siz götünzü parmaklamaya devam)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg
 bkz keller her götü eller
+https://www.uludagsozluk.com/k/20-ekim-2019-ate%C5%9Fkes-d%C3%B6neminde-verdi%C4%9Fimiz-%C5%9Fehit/
+(bkz tayyi bidon doganın iyice sıyırması)
 https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F-kongresindeki-herkesin-kel-olmas%C4%B1/
 (bkz anlamadım bıbıcım opersoyondaydın ya sen tangır budundogan bıbıcım)
 bkz tangur budundogan in tangır budun erdogan olma ihtimali bkz bir başgan iki erdogan
