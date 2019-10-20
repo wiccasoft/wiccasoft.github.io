@@ -28,7 +28,7 @@
 (bkz anlamadım bıbıcım )
 https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
 https://www.uludagsozluk.com/k/tek-tokatla-bay%C4%B1lt%C4%B1r%C4%B1m-denilen-%C3%BCnl%C3%BCler/&w=bg
-(bkz enes batur norm ender barış özcan tek tokatla bayıltırım)
+(bkz enes batur norm ender barış özcan ruhi çenet)
 https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=gd
 (bkz başını azıma alırım diyo ırıspi)
 https://www.uludagsozluk.com/k/bat%C4%B1-karadenizlinin-karadenizliden-say%C4%B1lmamas%C4%B1/&w=bg
