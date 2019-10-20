@@ -35,6 +35,7 @@
 <!--
 https://www.uludagsozluk.com/e/42311097/ bkz lol
 https://galeri13.uludagsozluk.com/730/zall-bana-hep-abi-der_1921333.jpg bkz atacüce
+https://eksisozluk.com/chpli-tunc-soyerin-kibristan-cikalim-aciklamasi--6220071?a=popular (bkz bence çıkalım ne işimiz var)
 https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi lan bu)
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom rizemin dağlarında çiçekler açtı walla)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
