@@ -31,6 +31,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/h%C4%B1rs%C4%B1zl%C4%B1k-ve-yolsuzluk-mekruh-ama-sigara-haram/ lol
 (bkz bilal de içiyodu haram dedim tamam bıbıcım dedi bıraktı söz dinler o babasının olişkosu)
 https://eksisozluk.com/20-ekim-2019-rte-sigara-aciklamalari--6219824?a=popular  (bkz beni seven içmez o meredi)
 https://www.uludagsozluk.com/k/sigara-haramd%C4%B1r/&w=bg (bkz beni seven içmez o meredi)
