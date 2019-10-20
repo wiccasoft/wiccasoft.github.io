@@ -32,11 +32,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi lan bu)
-https://www.uludagsozluk.com/k/h%C4%B1rs%C4%B1zl%C4%B1k-ve-yolsuzluk-mekruh-ama-sigara-haram/ lol
-(bkz bilal de içiyodu haram dedim tamam bıbıcım dedi bıraktı söz dinler o babasının olişkosu)
-https://eksisozluk.com/20-ekim-2019-rte-sigara-aciklamalari--6219824?a=popular  (bkz beni seven içmez o meredi)
-https://www.uludagsozluk.com/k/sigara-haramd%C4%B1r/&w=bg (bkz beni seven içmez o meredi)
-https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom kürdistanımın dağlarında çiçekler açtı walla)
+https://www.uludagsozluk.com/k/haluk-levent/&w=bg (eywallah canikom rizemin dağlarında çiçekler açtı walla)
 https://www.uludagsozluk.com/k/tayyip-in-sigara-haramd%C4%B1r-demesi/ (bkz beni seven içmez o mereti)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
 https://www.uludagsozluk.com/k/t-of-secret-moments-vs-ups-boobss-memelerin-sava%C5%9F%C4%B1/ (bkz lol)
