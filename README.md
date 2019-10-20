@@ -25,6 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz adam çıkmayan iller)
+https://www.uludagsozluk.com/k/bat%C4%B1-karadenizlinin-karadenizliden-say%C4%B1lmamas%C4%B1/&w=bg
 (bkz 41 yaşında günde beş posta atmak)(bkz şurup gibiyim şurup turp gibiym turp turp)
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-erkek/&w=bg 
 (bkz günde beş posta atamıyorsa iş bitmiştir aga erkek demesin kendine)
