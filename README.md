@@ -41,6 +41,7 @@ https://tr-tr.facebook.com/notes/m%C3%BCstehak-parti-nihat-s%C4%B1rdar/isgaldeki
 https://vimeo.com/269204307 https://www.youtube.com/watch?v=YXapEmd6tCY 
 https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa kaldırıyorum)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu) 
+https://www.reuters.com/article/us-wework-softbank-group/softbank-seeks-to-avoid-weworks-liabilities-with-new-investment-sources-idUSKBN1WY0OJ
  -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
