@@ -28,7 +28,7 @@
 (bkz beyler lübnanlı popçu erkek seviyosanız size bi güzellik yaparım)
 Satılık Popçu Dosyası
 https://www.youtube.com/watch?v=z_k3DsKC9o8
-(bkz ünlü dediklerinizi yurtdışında kimse tanımıyor)
+(bkz ünlü dediklerinizi yurtdışında kimse tanımıyor satılmıyo beyler)
 (bkz emeğine sağlık hemen aktımlık karılar da var)
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
 (bkz daha elimde çok karı var hemen burun kıvırmayın)
