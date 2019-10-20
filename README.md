@@ -29,8 +29,7 @@ https://www.uludagsozluk.com/k/bir-erke%C4%9Fe-yaz%C4%B1lm%C4%B1%C5%9F-en-g%C3%B
 https://www.uludagsozluk.com/k/tinto-brass/&w=bg (bkz tinto brass nuribilgeceylan tarantinoyla aynı eve çıkmak)
 https://www.uludagsozluk.com/k/bebek-poposu-pi%C5%9Fi%C4%9Fi/ (bkz idris usta poposu pişiği)
 https://www.uludagsozluk.com/k/kaybetmekten-en-%C3%A7ok-korktu%C4%9Funuz-%C5%9Fey/ (bkz idris usta)
-https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tavuk götlü ustam negüzel götün vardı naptın be ustam)
-(bkz koyduk eğleniyoruz)
+https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tavuk götlü ustam)
 https://www.uludagsozluk.com/k/koyun-adas%C4%B1ndaki-da%C4%9Fa-yap%C4%B1lan-dev-yunan-bayra%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/rize-ile-trabzon/&w=bg (bkz sedat peker rte vs tarkan tevetlioğlan)
 https://www.uludagsozluk.com/k/idris-usta/&w=bg (bkz tostların arasına sümüğünü koymasa iyi adam)
