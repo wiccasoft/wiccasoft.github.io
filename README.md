@@ -1,3 +1,5 @@
+[![Image](smartdata/sailor.png)]( https://www.youtube.com/watch?v=VKFsmZhQWtg )
+
 [![Image](smartdata/softbank.png)]( https://www.youtube.com/watch?v=z_k3DsKC9o8 )
 
 [![Image](smartdata/bg.png)]( https://www.youtube.com/watch?v=DOIQ5i87-Kg )
