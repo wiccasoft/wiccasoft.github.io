@@ -25,7 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-bkz karıyı yalamaycaksanız kaldırıyorum beyler
+bkz karısına tokmakçı arayan felçi
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg
 bkz işte kuzu kuzu geldim 
 https://www.uludagsozluk.com/k/nur-yerlita%C5%9F-%C4%B1n-tarkan-la-verdi%C4%9Fi-poz/
