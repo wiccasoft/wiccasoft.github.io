@@ -25,6 +25,7 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/ayagiyla-ayagini-iten-adami-ifsa-eden-feminist--6219578 (bkz sosyalist aydın bir kadın)
 (bkz yaşın kaç senin ha ) https://www.youtube.com/watch?v=FO1ekpDB_Aw
 https://eksisozluk.com/ozan-guvenin-muhaliflere-verdigi-efsanevi-ayar--6219638?a=popular
 (bkz sığır)
