@@ -1,4 +1,4 @@
-[![Image](almanac/tr-ru.png)]( https://www.reuters.com/article/us-syria-security-turkey-usa/turkey-and-russia-to-discuss-removal-of-kurdish-militia-from-syrian-towns-idUSKBN1WZ03U )
+[![Image](almanac/tr-ru.png)]( https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP )
 
 [![Image](smartdata/sailor.png)]( https://www.youtube.com/watch?v=VKFsmZhQWtg )
 
