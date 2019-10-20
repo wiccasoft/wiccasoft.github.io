@@ -25,6 +25,8 @@
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz imamoğlu inşaatın siklemediği balon)
+https://www.uludagsozluk.com/k/emlak-balonu-vs-imamo%C4%9Flu-balonu/&w=bg
 (bkz ırıspi işi biliyo içinde ne öldüğü belli oldu namıssızın)
 https://www.uludagsozluk.com/k/sinirli-bir-erke%C4%9Fi-sakinle%C5%9Ftirme-y%C3%B6ntemleri/&w=bg
 (bkz noldu lan bebeler dağıttığı sütler bozuk mu çıktı)
