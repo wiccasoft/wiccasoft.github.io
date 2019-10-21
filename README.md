@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-(bkz kızlarsoruyor.com da kocişiko parası yiyen kadınının paylaştığı klozet)
+(bkz kızlarsoruyor.com da kocişko parası yiyen kızın paylaştığı klozet)
 https://www.uludagsozluk.com/k/yeni-gelin-klozeti/&w=gd
 https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz kocişko parası yiyen robot)
 (bkz ben saldırıyorum beyler)
@@ -49,7 +49,6 @@ https://eksisozluk.com/asik-guvenilir-sadik-zengin-zeki-erkek--6221176?a=popular
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg (bkz bilinen bi gerçek)
 https://www.uludagsozluk.com/k/norm-enderin-ben-feroyu-tekme-tokat-d%C3%B6vmesi/ (bkz kral ya)
 https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz boru gibi döşemek)
-https://www.uludagsozluk.com/k/tatar-ramazan/&w=bg (bkz taş kesil ulen)
 https://eksisozluk.com/karakomik-filmler--5616926?a=popular (bkz cem yılmaz da bizi görecek mi)
 https://eksisozluk.com/22-ekim-2019-galatasaray-real-madrid-maci--6160277?a=popular (bkz real madridin döşeyeceği boru)
 https://eksisozluk.com/nevzat-deyince-zihinde-olusan-ilk-imge--5263119?a=popular (bkz ne bilim yani biraz şey gibi)
