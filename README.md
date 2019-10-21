@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/mehmet-hakan-atilla/&w=bg (bkz etkisiz eleman)
 https://www.uludagsozluk.com/k/karakomik-filmler/&w=gd (bkz safiye ayla da bizi görecek mi)
 https://www.uludagsozluk.com/k/metallica/&w=bg (bkz napster ı kapatan yiğdiolar)
 https://eksisozluk.com/kizlar-evlenin-koca-parasi-yemek-cok-keyifli--6221113?a=popular (bkz kocişko keriz şekerim ben napim)
