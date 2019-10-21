@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir/&w=bg (bkz cüneyt özdemirin mavi slip donu)
+https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir/&w=bg (bkz cüneyt özdemirin mavi slip donuyla sırıtması)
 https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz robota adam mısın lan sen demek)
 https://www.uludagsozluk.com/k/yapay-zekaya-%C3%B6%C4%9Fretilecek-%C5%9Feyler/ (bkz who owns who)
 https://www.uludagsozluk.com/k/gay-pornosu/&w=bg (bkz hımaağıa açmayın fenerliler)
