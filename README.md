@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz boru gibi döşemek)
 https://www.uludagsozluk.com/k/tatar-ramazan/&w=bg (bkz taş kesil ulen)
 https://eksisozluk.com/karakomik-filmler--5616926?a=popular (bkz cem yılmaz da bizi görecek mi)
 https://eksisozluk.com/22-ekim-2019-galatasaray-real-madrid-maci--6160277?a=popular (bkz real madridin döşeyeceği boru)
