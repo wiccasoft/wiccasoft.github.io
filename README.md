@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-(bkz tarkan tevetlioğlanın nur yerlitaşla olan fotosu)
+(bkz tarkanın nur yerlitaşla olan fotosu)(bkz aleyna tilki şeyma subaşı dansı)
 https://www.uludagsozluk.com/k/tarkan-%C4%B1n-kokoinman-oldu%C4%9Funu-unutmak/&w=bg 
 (bkz haluk leventin pkk ya rest çekmesi)
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=bg 
