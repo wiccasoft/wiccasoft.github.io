@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-(bkz serdar ortaç haluk levenet norm ender enes batur hariç de oç)
+(bkz serdar ortaç haluk levenet norm ender enes batur aleyna tilki hariç de oç)
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/iphone-u-masaya-koymak-i%C3%A7in-alan-tip/&w=bg (bkz çıkarıp masaya vurmak)
 https://www.uludagsozluk.com/k/serkan-k%C4%B1r%C4%B1nt%C4%B1l%C4%B1-n%C4%B1n-g%C3%B6rd%C3%BC%C4%9F%C3%BC-k%C4%B1rm%C4%B1z%C4%B1-kart/ (bkz oynat uğurcum)
