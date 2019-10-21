@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 <!--
 https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz marley ve 2pac a giydrimiş :))))
+(bkz norm enderin nasıl zengin olduğnu açıklaması)
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg (bkz lalegül tv den köşeyi dönmek)
 https://www.uludagsozluk.com/k/loris-karius/&w=bg (bkz fatih terim in kariusa yaptığı hareket)
 https://www.uludagsozluk.com/k/nefret-etti%C4%9Fim-insanlar-listesi/  (bkz aleyna tilki hariç de oç)
