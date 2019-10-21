@@ -39,24 +39,13 @@ https://www.uludagsozluk.com/k/nefret-etti%C4%9Fim-insanlar-listesi/  (bkz aleyn
 https://www.uludagsozluk.com/k/40-y%C4%B1l-yatar%C4%B1-olan-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/ (bkz aleyna tilki hariç de oç)
 https://www.uludagsozluk.com/k/evli-adama-g%C3%B6z-diken-orospu/&w=bg (bkz şeyma aleyna hariç de oç)
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/ (bkz sergey brin in hiç kulannmaması)
-(bkz serdar ortaç mehmet topal serkan inci haluk levent norm ender enes batur aleyna tilki hariç de oç)
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/iphone-u-masaya-koymak-i%C3%A7in-alan-tip/&w=bg (bkz çıkarıp masaya vurmak)
-https://www.uludagsozluk.com/k/serkan-k%C4%B1r%C4%B1nt%C4%B1l%C4%B1-n%C4%B1n-g%C3%B6rd%C3%BC%C4%9F%C3%BC-k%C4%B1rm%C4%B1z%C4%B1-kart/ (bkz oynat uğurcum)
 https://www.uludagsozluk.com/k/65-tl-lik-ojesi-olmayan-tip/&w=bg (bkz attention whore)
 https://www.uludagsozluk.com/k/250-bin-lira-maa%C5%9F-alan-akpli-ba%C5%9Fkan/ (bkz 250 bin maaş para mı lan it)
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=bg
-(bkz aleyna hariç de oç)
-https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/ (bkz sergey brin in hiç kullanmaması)
-(bkz aleyna hariç de oç)
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=bg
-(bkz hayallerde yaşıyor bazı ibneler)
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkten-birine-ciddi-ciddi-a%C5%9F%C4%B1k-olan-mal/&w=bg
-(bkz dudu dilleri)(bkz o sen olsan gari)(bkz kuzu kuzu)
 https://www.uludagsozluk.com/k/erkekler-s%C3%B6yleyince-garip-ka%C3%A7an-%C5%9Fark%C4%B1lar/&w=bg
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/ (bkz ezik)
 https://www.uludagsozluk.com/k/yaz%C4%B1l%C4%B1mc%C4%B1-olmak/&w=bg (bkz şimdiden zıplamaya başlayın)
-(bkz tarkanın nur yerlitaşla olan fotosu)(bkz aleyna tilki şeyma subaşı dansı)
+(bkz tarkanın nur yerlitaşla olan fotosu)
 https://www.uludagsozluk.com/k/tarkan-%C4%B1n-kokoinman-oldu%C4%9Funu-unutmak/&w=bg 
 (bkz haluk leventin pkk ya rest çekmesi)
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=bg 
