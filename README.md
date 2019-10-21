@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz adam gibi robot yapmak)
+https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz ronota adam mısın lan sen demek)
 https://www.uludagsozluk.com/k/yapay-zekaya-%C3%B6%C4%9Fretilecek-%C5%9Feyler/ (bkz ay ne bilim yani şey gibi)
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz ayol bu da biraz şey gibi)
 https://www.uludagsozluk.com/k/uzun-sa%C3%A7l%C4%B1-erkeklerin-kad%C4%B1n-gibi-olmas%C4%B1/&w=bg (bkz ay ne bilim şey biraz)
