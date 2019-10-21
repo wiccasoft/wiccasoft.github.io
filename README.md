@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz evet mikrofonlar enes batur da)
 https://www.uludagsozluk.com/k/2005-li-veletlerin-liseli-olmas%C4%B1/ (bkz norm ender abilerinin tokatladığı veletler)
+https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg (bkz cübbeli ahmet hocayı unfollowluyoruz)
 https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz marley ve 2pac a giydirmek)
 (bkz norm enderin nasıl zengin olduğnu açıklaması)
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg (bkz lalegül tv den köşeyi dönmek)
