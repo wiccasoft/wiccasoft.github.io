@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/e/42315199/ (bkz ilhahi hocam güldürdüün yine yer var mı odada)
 (bkz evet mikrofonlar enes batur da)
 https://www.uludagsozluk.com/k/2005-li-veletlerin-liseli-olmas%C4%B1/ (bkz norm ender abilerinin tokatladığı veletler)
 (bkz cübbeli ahmet hoca)
