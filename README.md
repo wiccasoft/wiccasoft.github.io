@@ -2,7 +2,7 @@
 
 [![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
-[![Image](almanac/tr-ru.png)]( https://www.youtube.com/watch?v=zJYiKve84Fk )
+[![Image](almanac/tr-ru.png)]( https://www.youtube.com/watch?v=WlABDnJoqLI )
 <!-- https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP-->
 [![Image](smartdata/sailor.png)]( https://www.youtube.com/watch?v=VKFsmZhQWtg )
 <!--https://www.theguardian.com/world/2019/oct/20/superyacht-linked-to-jho-low-and-1mdb-scandal-for-sale-again-for-an-extra-74m-->
