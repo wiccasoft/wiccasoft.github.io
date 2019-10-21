@@ -37,7 +37,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz tarkanın nur yerlitaşla olan fotosu)
 https://www.uludagsozluk.com/k/tarkan-%C4%B1n-kokoinman-oldu%C4%9Funu-unutmak/&w=bg 
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=bg (bkz haluk leventin pkk ya rest çekmesi)
+(bkz haluk leventin pkk ya rest çekmesi)
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-sanat%C3%A7%C4%B1lar%C4%B1n-pkk-sevici-olmas%C4%B1/&w=bg 
 (bkz adam adama mücadele varken vara  gitmek)
 https://eksisozluk.com/serkan-kirintilinin-gordugu-ilginc-kirmizi-kart--6221188?a=popular (bkz durdur uğurcum)
 https://www.uludagsozluk.com/k/fatih-terim-den-nefret-etme-nedenleri/&w=bg (bkz aptal şey şapşik nolcak)
