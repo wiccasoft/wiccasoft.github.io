@@ -44,6 +44,7 @@ https://www.uludagsozluk.com/k/karakomik-filmler/&w=gd (bkz safiye ayla da bizi 
 https://www.uludagsozluk.com/k/metallica/&w=bg (bkz napster ı kapatan yiğidolar)
 https://eksisozluk.com/kizlar-evlenin-koca-parasi-yemek-cok-keyifli--6221113?a=popular (bkz weird tales)
 https://eksisozluk.com/evlenilecek-erkek-burcu--5307431?a=popular (bkz balık burcu)
+https://www.uludagsozluk.com/k/memet-ali-alabora/&w=bg (bkz babanı da sevmezdim sütoğlan)
 https://www.uludagsozluk.com/k/h%C3%BCseyin-avni-%C3%B6nder/ (bkz adam gibi adam)
 (bkz adamın karekökü) https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://eksisozluk.com/ilk-bulusmada-masaya-iphone-11-pro-max-koyan-erkek--6174484?a=popular 
