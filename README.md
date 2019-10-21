@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/ev-i%C5%9Fi-yapan-light-erkek/ (bkz ne oldi saha böyle taş erkeği bi anda oldi layt erkeği)
 https://www.uludagsozluk.com/k/tatar-ramazan/&w=bg (bkz maço erkek gibi erkek)
 https://www.uludagsozluk.com/k/uzun-sa%C3%A7l%C4%B1-erkeklerin-kad%C4%B1n-gibi-olmas%C4%B1/ (bkz koca olmayacak erkekler)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg (bkz duman avcısı adam gibi adam)
