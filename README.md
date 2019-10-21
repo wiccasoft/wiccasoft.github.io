@@ -36,7 +36,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 <!--
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/&w=bg (bkz sergey brin in hiç kulanmaması)
-https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9Fak/&w=bg (bkz taşak muhabbeti alırım bi dal)
 https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir/&w=bg (bkz yine tipe soktun kardeş)
 https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7e-rap/&w=bg (bkz 2pac a giydirmek)
 https://www.uludagsozluk.com/k/transseks%C3%BCel/&w=bg (bkz lan tırrek li konuşan ablalar)
