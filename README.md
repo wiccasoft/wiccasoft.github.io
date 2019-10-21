@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz hala adıma başlık açamayacak kadar ezik olmak)
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/ (bkz ezik)
 https://www.uludagsozluk.com/k/yaz%C4%B1l%C4%B1mc%C4%B1-olmak/&w=bg (bkz şimdiden zıplamaya başlayın)
 (bkz tarkanın nur yerlitaşla olan fotosu)(bkz aleyna tilki şeyma subaşı dansı)
