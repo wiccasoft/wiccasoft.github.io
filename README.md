@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://eksisozluk.com/cem-yilmazin-filmine-gitmeyenlere-cevabi--6221485?a=popular (bkz adam haklı beyler)
 https://eksisozluk.com/nevzat-deyince-zihinde-olusan-ilk-imge--5263119?a=popular (bkz ne bilim yani biraz şey gibi)
 https://www.uludagsozluk.com/k/ev-i%C5%9Fi-yapan-light-erkek/ (bkz ne oldi saha böyle taş erkeği bi anda oldi layt erkeği)
 https://www.uludagsozluk.com/k/uzun-sa%C3%A7l%C4%B1-erkeklerin-kad%C4%B1n-gibi-olmas%C4%B1/ (bkz yani ne bileyim şey gibi)
