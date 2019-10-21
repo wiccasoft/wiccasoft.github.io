@@ -38,7 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 (bkz ben saldırıyorum beyler)
 https://www.uludagsozluk.com/k/abd-t%C3%BCrkiyeye-sald%C4%B1rmak-i%C3%A7in-haz%C4%B1r/ 
 (bkz hayallerde yaşıyor bazı ibneler)
-(bkz kızlarsoruyor.com da dönen koca parası enayi parası geyiği)
+(bkz kızlarsoruyor.com da dönen milyarder koca nasıl bulunur tüyoları)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-evlenin-koca-paras%C4%B1-yemek-%C3%A7ok-keyifli/&w=bg 
 (bkz falcaonun tersten saplayacağı maç)
 https://www.uludagsozluk.com/k/22-ekim-2019-galatasaray-real-madrid-ma%C3%A7%C4%B1/&w=bg 
