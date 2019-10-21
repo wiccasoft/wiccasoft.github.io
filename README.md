@@ -48,15 +48,6 @@ https://www.uludagsozluk.com/k/t-of-secret-moments-vs-ups-boobss-memelerin-sava%
 https://www.uludagsozluk.com/k/t%C3%BCm-g%C3%BCzellikleri-temsil-eden-tek-insan/ (bkz rte)
 https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)(bkz aydemir akbaş)
 https://eksisozluk.com/ayagiyla-ayagini-iten-adami-ifsa-eden-feminist--6219578 (bkz sosyalist aydın bir kadın)
-https://eksisozluk.com/ozan-guvenin-muhaliflere-verdigi-efsanevi-ayar--6219638?a=popular
-(bkz sığır)(bkz yaşın kaç senin ha ) https://www.youtube.com/watch?v=FO1ekpDB_Aw
-https://www.uludagsozluk.com/k/aya%C4%9F%C4%B1-itildi-diye-bir-adam%C4%B1-if%C5%9Fa-eden-kad%C4%B1n/&w=gd
-(bkz çok fena ibnelik döndüğü düşünülen belediyeler)
-https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-geceleri-ibb-ye-girmesi/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-istifa-etmesi/&w=bg (bkz ibb yi bırakıp yelkenle dünyayı gezmek)
-https://www.uludagsozluk.com/k/ege-adalar%C4%B1-ve-lozan%C4%B1-bilale-anlat%C4%B1r-gibi-anlatmak/
-(bkz analamadım bıbıcım operasyondaydın ya bıbıcım)
-https://eksisozluk.com/esine-fuckbuddy-arayan-felc-adam--6218897?a=popular (bkz karıyı siken yoksa kaldırıyorum)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu) 
 https://www.reuters.com/article/us-wework-softbank-group/softbank-seeks-to-avoid-weworks-liabilities-with-new-investment-sources-idUSKBN1WY0OJ
  -->
