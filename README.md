@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+https://www.uludagsozluk.com/k/serkan-k%C4%B1r%C4%B1nt%C4%B1l%C4%B1-n%C4%B1n-g%C3%B6rd%C3%BC%C4%9F%C3%BC-k%C4%B1rm%C4%B1z%C4%B1-kart/&w=gd (bkz adam adama müdahale varken vara  gitmek)
 https://eksisozluk.com/serkan-kirintilinin-gordugu-ilginc-kirmizi-kart--6221188?a=popular (bkz durdur uğurcum)
 https://eksisozluk.com/serkan-kirintili--1002931?a=popular (bkz stoper diye aldık kırıntılı çıktı)
 https://www.uludagsozluk.com/k/mehmet-hakan-atilla/&w=bg (bkz etkisiz eleman)
