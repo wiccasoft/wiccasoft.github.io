@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
-https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz marley ve 2pac a giydrimiş)
+https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz marley ve 2pac a giydrimiş :))))
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-hoca/&w=bg (bkz lalegül tv den köşeyi dönmek)
 https://www.uludagsozluk.com/k/loris-karius/&w=bg (bkz fatih terim in kariusa yaptığı hareket)
 https://www.uludagsozluk.com/k/nefret-etti%C4%9Fim-insanlar-listesi/  (bkz aleyna tilki hariç de oç)
