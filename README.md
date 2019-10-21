@@ -35,6 +35,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz ben saldırıyorum beyler)
+https://www.uludagsozluk.com/k/abd-t%C3%BCrkiyeye-sald%C4%B1rmak-i%C3%A7in-haz%C4%B1r/ 
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-evlenin-koca-paras%C4%B1-yemek-%C3%A7ok-keyifli/&w=bg 
 (bkz falcaonun tersten saplayacağı maç)
