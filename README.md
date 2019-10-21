@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 <!--
 (bkz benim için dış güzellik önemli değil diyen robot)
+https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/ (bkz ali koç un ersun yanala sms atması)
 https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz ronota adam mısın lan sen demek)
 https://www.uludagsozluk.com/k/yapay-zekaya-%C3%B6%C4%9Fretilecek-%C5%9Feyler/ (bkz who owns who)
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz ayol bu da biraz şey gibi)
