@@ -36,7 +36,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 <!--
 https://www.uludagsozluk.com/k/sevgili-kan%C4%B1ndan-anahtarl%C4%B1k/ (bkz deep turkish web)
-https://www.uludagsozluk.com/k/%C5%9Fehit-berkin-elvan/&w=bg (bkz okumadım pampa)
 https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7e-rap/&w=bg (bkz 2pac a giydirmek)
 https://www.uludagsozluk.com/k/transseks%C3%BCel/&w=bg (bkz lan tırrek li konuşan ablalar)
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg (bkz nerde kalmıştık)
