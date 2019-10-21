@@ -35,6 +35,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz adamın karekökü) https://www.youtube.com/watch?v=c7IoBRRBiX8
+https://eksisozluk.com/ilk-bulusmada-masaya-iphone-11-pro-max-koyan-erkek--6174484?a=popular 
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg (bkz in the tabele)
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg (bkz dovu mu samet)
 https://www.uludagsozluk.com/e/42311097/ bkz lol
