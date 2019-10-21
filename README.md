@@ -34,10 +34,12 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
-<!--(bkz tarkanın nur yerlitaşla olan fotosu)
+<!--
+(bkz tarkanın nur yerlitaşla olan fotosu)
 https://www.uludagsozluk.com/k/tarkan-%C4%B1n-kokoinman-oldu%C4%9Funu-unutmak/&w=bg 
 (bkz adam adama mücadele varken vara  gitmek)
 https://eksisozluk.com/serkan-kirintilinin-gordugu-ilginc-kirmizi-kart--6221188?a=popular (bkz durdur uğurcum)
+https://www.uludagsozluk.com/k/fatih-terim-den-nefret-etme-nedenleri/&w=bg (bkz falcaonun soyunma odasına girmesi)
 https://www.uludagsozluk.com/k/sert-olan%C4%B1-makbul-%C5%9Feyler/&w=gd (bkz adama adama mücadele)
 https://eksisozluk.com/serkan-kirintili--1002931?a=popular (bkz stoper diye aldık kırıntılı çıktı)
 https://www.uludagsozluk.com/k/mehmet-hakan-atilla/&w=bg (bkz etkisiz eleman)
