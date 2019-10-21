@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://eksisozluk.com/serkan-kirintili--1002931?a=popular (bkz stoper diye aldık kırıntılı çıktı)
 https://www.uludagsozluk.com/k/mehmet-hakan-atilla/&w=bg (bkz etkisiz eleman)
+https://www.uludagsozluk.com/k/ila%C3%A7-y%C3%BCz%C3%BCnden-memeleri-b%C3%BCy%C3%BCyen-adam/ (bkz memelerde tombiktoymuş)
 https://www.uludagsozluk.com/k/canan-karatay/&w=bg (bkz yeyin gari reis)(bkz lahmacunana karatay onayı)
 https://www.uludagsozluk.com/k/karakomik-filmler/&w=gd (bkz safiye ayla da bizi görecek mi)
 https://www.uludagsozluk.com/k/metallica/&w=bg (bkz napster ı kapatan yiğidolar)
