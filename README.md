@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 <!--
 (bkz yine tüpe soktun kardeş)
-https://www.uludagsozluk.com/e/42315199/ (bkz tacizci sahte sahte hoca dosyası )
+https://www.uludagsozluk.com/e/42315199/ (bkz neler dönmüş hocam ya )
 (bkz evet mikrofonlar enes batur da)
 https://www.uludagsozluk.com/k/2005-li-veletlerin-liseli-olmas%C4%B1/ (bkz norm ender abilerinin tokatladığı veletler)
 https://eksisozluk.com/21-ekim-2019-norm-enderin-reklam-aciklamasi--6221412?a=popular (bkz marley ve 2pac a giydirmek)
