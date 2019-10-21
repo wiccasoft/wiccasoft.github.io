@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz adam adama mücadele varken vara  gitmek)
 https://eksisozluk.com/serkan-kirintilinin-gordugu-ilginc-kirmizi-kart--6221188?a=popular (bkz durdur uğurcum)
+https://www.uludagsozluk.com/k/sert-olan%C4%B1-makbul-%C5%9Feyler/&w=gd (bkz adama adama mücadele)
 https://eksisozluk.com/serkan-kirintili--1002931?a=popular (bkz stoper diye aldık kırıntılı çıktı)
 https://www.uludagsozluk.com/k/mehmet-hakan-atilla/&w=bg (bkz etkisiz eleman)
 https://www.uludagsozluk.com/k/%C3%A7ukurun-iyice-sa%C3%A7malamas%C4%B1/ (bkz hırtlar vadisi next generation)
