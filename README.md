@@ -38,6 +38,7 @@ https://www.uludagsozluk.com/e/42309867/ bkz atacüce
 https://www.uludagsozluk.com/e/42311865/ bkz 40 yapar
 https://www.uludagsozluk.com/e/42311850/ bkz yoksa sen zurnamısın heee
 https://www.uludagsozluk.com/k/zina-serbest-sigara-haram/&w=gd bkz ya binadan ya zinadan
+https://eksisozluk.com/danistay-baskaninin-kizinin-durdurulamaz-yukselisi--6220530?a=popular bkz rise of skywalker
 https://eksisozluk.com/sinirdan-boru-sokup-arap-petrollerini-emcuklemek--6220671?a=popular bkz lol
 https://www.uludagsozluk.com/k/elit-olgun-beylerle-tak%C4%B1lan-e%C5%9Fcinsel/ (bkz sözlüğe meme atan ergen değil mi bu)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-ne-i%C5%9Fe-yarar-sorunsal%C4%B1/&w=bg (bkz meme atmak)
