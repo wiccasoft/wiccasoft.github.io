@@ -37,7 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.uludagsozluk.com/k/norm-enderin-bo%C5%9F-yapmas%C4%B1/ (bkz bob marley 2pac kim amk)
 https://www.uludagsozluk.com/k/masterchef-yasin/&w=bg (bkz yasin isimli erkeklerin özellikleri)
-https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir/&w=bg (bkz jeff bezosun yatına iç geçirerek bakmak)
+https://www.uludagsozluk.com/k/c%C3%BCneyt-%C3%B6zdemir/&w=bg (bkz jeff bezosu kıskanmak)
 https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz robota adam mısın lan sen demek)
 https://www.uludagsozluk.com/k/yapay-zekaya-%C3%B6%C4%9Fretilecek-%C5%9Feyler/ (bkz who owns who)
 https://www.uludagsozluk.com/k/gay-pornosu/&w=bg (bkz hımaağıa açmayın fenerliler)
