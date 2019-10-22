@@ -34,61 +34,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz tokmakçısı ve eşiyle yaşayan kadının real yenerse  yenersen kocamı sikersin iddasına girmesi)
-(bkz kürt kızlarının her biji türk erkekleri dediği iddası)
-(bkz esedin sivillere cincon atkısı dağıttığı yalanı)
-(bkz esedin cinconlulara götveren dediği iddiası)
-(bkz galtsaray yensin götümü siktirirm diyen kürt)
-(bkz real madrid yenerse kocama götten veririm diyen türbanlı)
-(bkz maç üst biter bire 10 evi sat parayı reale bas kanka)
-ben ekşiden maç tüyosu alıp geliyom kanka bi yere ayrılmayın gelince ıslatırız
-(bkz başlığı dün be açmıştım ibneler yatmayın üstüne)
-(bkz suya gidip susuz dönmek)
-https://www.uludagsozluk.com/k/%C5%9Feyma-y%C4%B1-su-ba%C5%9F%C4%B1na-g%C3%B6t%C3%BCrmek/
-https://www.uludagsozluk.com/k/real-madrid-in-galatasaray-a-d%C3%B6%C5%9Feyece%C4%9Fi-boru/&w=bg
-(bkz emine erdoğan ın iyice azması bkz gerdek gecesi dua eden türbanlı first lady)
-https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ 
-ekşiden başlık araklayıp geliyorum beyler bi yere ayrılmayın sputnikten haber arakladım geliyom
-https://www.uludagsozluk.com/k/ek%C5%9Fideki-ter%C3%B6ristler/ (baxa bırak kanka anasını sikerun onun)
-(bkz emine erdoğanın pompa öncesi dua etmesi)
-https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd 
-(bkz babişkonun pompayı arkdaşın annesiyle yapması)
-https://www.uludagsozluk.com/k/baban%C4%B1z-annenizi-aldat%C4%B1rsa/ 
-(bkz adam adama mücadele varken vara gitmek)
-https://eksisozluk.com/serkan-kirintilinin-gordugu-ilginc-kirmizi-kart--6221188?a=popular (bkz durdur uğurcum)
-(bkz bordo klavyeli cengaverlerin amerika ya veren süreyi beklemesi)
-https://www.uludagsozluk.com/k/ypg -nin-%C3%A7ekilmesi-i%C3%A7in-abd-ye-verilen-s%C3%BCre/&w=bg
-https://www.uludagsozluk.com/k/deep-turkish-web/&w=bg (bkz amerika saldırırsa biteriz beyler)
-(bkz amerika saldırırsa iphone fırlatırız)
-https://www.uludagsozluk.com/k/amerika-t%C3%BCrkiye-ye-sald%C4%B1rsa-yok-edece%C4%9Fi-ger%C3%A7e%C4%9Fi/&w=gd
-https://www.uludagsozluk.com/k/22-ekim-2019-so%C3%A7i-mutabakat%C4%B1/ (bkz ikili görüşmelerin olumlu geçmesi)
-(bkz tek bayrak tek millet tek devlet)
-https://www.uludagsozluk.com/k/22-ekim-2019-so%C3%A7i-mutabakat%C4%B1/ 
-(bkz ikili görüşmelerin toprak bütünlüğü konusunda hem fikir olması)
-https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ (bkz emine erdoğan)
-(bkz operasyon durmak teröristleri vuramamak var neden ateşkes yapmak)
-https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
-(bkz kurtlar vadisi hewal vurmaca)
-https://www.uludagsozluk.com/k/k%C3%BCrtl%C3%BCkte-d%C3%BC%C5%9Feni-sikmek-kanundur/
-(bkz arkdaşım eşşek şarkısını yapıp ünlü olmak)
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-man%C3%A7o-ya-sanat%C3%A7%C4%B1-demek/
-(bkz gay taş fırın ustaları)
-https://www.uludagsozluk.com/k/afyon-un-me%C5%9Fhurlar%C4%B1/&w=bg
-lan gerizekalı götünde ki dona kadar amerikan malı amerika size niye saldırsın
-https://www.uludagsozluk.com/k/amerika-t%C3%BCrkiye-ye-sald%C4%B1rsa-yok-edece%C4%9Fi-ger%C3%A7e%C4%9Fi/
-(bkz istanbulda ki nüfusun %75 inin köylü olmadığını sanan ergen)
-(bkz ümraniyeye hiç gitmemiş yazar beyanı)
-https://www.uludagsozluk.com/k/%C3%A7a%C4%9Fda%C5%9F-ve-modernim-k%C3%B6yl%C3%BCleri-sevmiyorum/
-(bkz kurtlar vasisi polatın elife açıldığı sahne)
-https://www.uludagsozluk.com/k/leyla-ile-mecnun/&w=bg (bkz ismail abinin yav he he dediği sahne)
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz ay hayvan gibi kaslı ayol gol de atar bu)
-(bkz ikili görüşmelerde bulunan devlet adamları)
-https://www.uludagsozluk.com/k/22-ekim-2019-so%C3%A7i-mutabakat%C4%B1/ (bkz putin le erdoganin kahve içtikleri oda)
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg (bkz kral)
-https://www.uludagsozluk.com/k/leyla-ile-mecnun/&w=bg (bkz bol göndermeli dizi)
-https://www.uludagsozluk.com/k/tosun-pa%C5%9Fa/&w=bg (bkz cenk tosun)
-https://www.uludagsozluk.com/k/emine-bulut-un-katilinin-cezas%C4%B1na-itiraz-etmesi/ (bkz emine bulut un pıçaklayan adam )
-https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ (bkz emine erdoğan)
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
 (bkz cool story keep working on it)
 https://eksisozluk.com/cvsinde-sigara-kullanmiyorum-yazip-kullanan-isci--6222023
