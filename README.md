@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz adam smithin anlamadığı tarihi gevrekli ayar sanırım cahil bi götten bacaklı espiris)
+(bkz adam smithin hala anlamadığı tarihi gevrekli ayar)
 https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/&w=gd 
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
 (bkz mide bulandıran orta doğulular)
