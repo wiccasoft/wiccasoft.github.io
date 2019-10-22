@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://eksisozluk.com/felipe-melonun-emreye-siktiri-cektigi-an--4328568 (bkz ah be siktir çekişine kurban be gülüm)
 https://www.uludagsozluk.com/k/younes-belhanda/&w=gd (bkz takla atışınla kandırdın bizi insafsız)
 https://www.uludagsozluk.com/k/sevgilisine-g%C3%BCzellik-kremi-alan-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg (bkz ah be serseri gülüşüne kandık gülüm)
