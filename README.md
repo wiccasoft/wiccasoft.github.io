@@ -34,7 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz gerdek gecesi dua eden türbanlı)
+(bkz gerdek gecesi erkeğimin  beline kuvvet duası eden türbanlı)
+(bkz gerdek gecesi dua isteyen türbanlı)
 (bkz türbanlı porno star ı olaması)(bkz ahlakszılığı kadınlı erkekli seksi yayanların türbansızlar olması)
 https://www.uludagsozluk.com/k/t%C3%BCm-pornstarlar%C4%B1n-ba%C5%9F%C4%B1n%C4%B1n-a%C3%A7%C4%B1k-olmas%C4%B1/
 (bkz sultangazi deki türbanlıların da seks yapmaması)
