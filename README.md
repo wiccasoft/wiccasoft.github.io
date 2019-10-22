@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/
+(bkz ali koçun allahın bir lütfu olması)
 https://www.uludagsozluk.com/k/yeni-gelin-klozeti/
 (bkz kızlar evlenin babişkodan sonra kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/paran-yoksa-benimle-muhatap-olma/&w=bg
