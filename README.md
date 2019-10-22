@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+,https://www.uludagsozluk.com/k/atan%C4%B1n-huzuruna-%C3%A7%C4%B1kmak/&w=bg bkz ata ata sen kalkta ben yata
 https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ bkz adam smith in gülmediği tarihi ayar
 bkz erdogan ve putinin kahve içtikleri tarihi oda 
 https://www.uludagsozluk.com/k/putin-ve-erdo%C4%9Fan-%C4%B1n-g%C3%B6r%C3%BC%C5%9Fme-yapt%C4%B1%C4%9F%C4%B1-oda/
