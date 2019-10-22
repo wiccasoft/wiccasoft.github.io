@@ -38,6 +38,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg (bkz okuyan var mı bun
 https://eksisozluk.com/fatih-terim--37577?a=popular (bkz okuyan var mı bunları)
 https://eksisozluk.com/younes-belhanda--2341813?a=popular (bkz okuyan var mı bunları)
 https://eksisozluk.com/9-nisan-2013-galatasaray-real-madrid-maci--3745820 (bkz okuyan var mı bunları)
+https://eksisozluk.com/yakisikli-bir-erkegin-yalniz-olmasinin-nedenleri--3274591?a=popular (bkz okuyan var mı bunları)
 https://eksisozluk.com/gerdek-gecesi-icin-instagramdan-dua-isteyen-gelin--6222232?a=popular (bkz hani marjinal bizdik)
 https://www.uludagsozluk.com/k/fuckbuddy-e-alternatif-t%C3%BCrk%C3%A7e-isimler/&w=bg (bkz yarramınkurmakolu)
 https://www.uludagsozluk.com/k/sevilen-k%C4%B1z%C4%B1n-k%C3%BCrt-oldu%C4%9Funu-itiraf-etmesi/&w=bg (zerdane werdane hewal)
