@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz bordo klavyeli cengaverlerin amerika veren süreyi beklemesi)
+https://www.uludagsozluk.com/k/ypg -nin-%C3%A7ekilmesi-i%C3%A7in-abd-ye-verilen-s%C3%BCre/&w=bg
 https://www.uludagsozluk.com/k/deep-turkish-web/&w=bg (bkz amerika saldırırsa biteriz beyler)
 (bkz amerika saldırırsa iphone fırlatırız)
 https://www.uludagsozluk.com/k/amerika-t%C3%BCrkiye-ye-sald%C4%B1rsa-yok-edece%C4%9Fi-ger%C3%A7e%C4%9Fi/&w=gd
