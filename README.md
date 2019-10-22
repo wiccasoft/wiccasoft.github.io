@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz erdoganin topğunuz gelin konuşması)
+https://www.uludagsozluk.com/k/ypg-yok-edilmedikten-sonra-30-km-%C3%A7ekilse-ne-olur/
 (bkz erdogan ın izin vermeyeceği olay)
 https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/ 
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-h%C4%B1rs%C4%B1zd%C4%B1r/ (bkz erdogan götverendir)
