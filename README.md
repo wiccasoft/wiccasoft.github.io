@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ bkz vedat millör ekşi buluşması
+https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ bkz adam içlerinde gezdirmiş betyler
 bkz ekşiden başlık alıp geliyoreum beyler
 bkz erdogan ve putinin kahve içtikleri oda ilerde içtikleri bardakların milyon dolara satılacağı gerçeği
 https://www.uludagsozluk.com/k/putin-ve-erdo%C4%9Fan-%C4%B1n-g%C3%B6r%C3%BC%C5%9Fme-yapt%C4%B1%C4%9F%C4%B1-oda/
