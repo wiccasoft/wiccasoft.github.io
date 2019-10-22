@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://eksisozluk.com/basilinca-5-kat-pervazina-saklanan-kadin--6221988?a=popular (bkz şeyma mı lan o)
 (bkz parti yi yarıda kesip ibiza yardırmak)
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-nun-parti-ofisinin-m%C3%BCh%C3%BCrlenmesi/
 (bkz neler dönmüş serhat ya)
