@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz cem yılmazın gişede kara filmleri satamaması)
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-ka%C3%A7amak-filminin-gi%C5%9Fede-%C3%A7ak%C4%B1lmas%C4%B1/&w=gd
 (bkz davutoğlanın kilit isimlerle yapcağı party)(bkz swordfish)
 (bkz davutoğlanın yapacağı partiyi kulislerden saklaması)
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-nun-parti-ofisinin-m%C3%BCh%C3%BCrlenmesi/
