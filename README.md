@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz kızlar evlenin babişko parası yerine kocişko parası yiyin)
 (bkz babişko parasıyla 30 bira içip yarıp tekrar entry girmek)
 https://www.uludagsozluk.com/k/bir-oturu%C5%9Fta-30-%C5%9Fi%C5%9Fe-bira-i%C3%A7mek/
 (bkz babişko parasıyla eksi veren ibneler)
