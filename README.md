@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz gavatlar diyarında bir adam)
 (bkz yılın gavatı acun)https://www.uludagsozluk.com/k/acun-a-canl%C4%B1-yay%C4%B1nda-%C5%9Feyma-dan-mesaj-gelmesi/
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz dünya lideri atacüce)
 (bkz açmayın korkunçlu karı)
