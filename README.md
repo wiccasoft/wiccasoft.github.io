@@ -34,61 +34,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz erdogan putin e dondurma yaltması)
-https://www.uludagsozluk.com/k/22-ekim-2019-erdo%C4%9Fan-putin-ortak-bas%C4%B1n-a%C3%A7%C4%B1klamas%C4%B1/
-(bkz atatürkün kabrine sıçıp gelmek)
-https://www.uludagsozluk.com/k/mezar%C4%B1na-s%C4%B1%C3%A7%C4%B1las%C4%B1/
-(bkz tokmakçısıyla eşini aynı evde besleyen kadın)
-https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/
-(bkz kocasını uyutup mahelleyii tokmak a davet eden kadın)
-https://www.uludagsozluk.com/k/reglim-bitti-diye-mesaj-atan-kad%C4%B1n-sevgili/
-(bkz bütün mahalle tokmak yaparken entry girmek)
-(bkz tokmak için kasapın oğluna tokmak teklif eden kadın)
-(bkz tokmak sonrası kocasına dünürünün tokmakçılarını öneren kadın)
-(bkz tokmakçısının dünürüne gel beraber kocamla tokmak tokmağa sebni de  yapalım diyen kadın)
-(bkz tomakçısının sevgilisinin eltisine beraber tokmaklatalım diyen kadın)=
-https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/
-(bkz tokmakçısının kankisin gel sen de tokmakla biraz diye mesaj atan kadın)
-(bkz tokmakçısıyla küsüp yeni aşklara yelken açan kadın)
-(bkz tokmaçısının arkdaşına vur joker vur diyen kadının oğlu)
-(bkz tokmaçısının sevgilisini dünürünün eltinin kocasına veren kadın)
-https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/
-https://www.uludagsozluk.com/k/mahmut-ustaosmano%C4%9Flu/&w=bg (bkz ismiyle korkutan adam gibi adam)
-(bkz tokmakçısının eltisinin dünürüyle basılan kadın)
-https://www.uludagsozluk.com/k/tokmak%C3%A7%C4%B1s%C4%B1n%C4%B1n-kar%C4%B1s%C4%B1-taraflndan-bas%C4%B1lan-kad%C4%B1n/
-https://www.uludagsozluk.com/k/kad%C4%B1nlar-mutfak-robotudur/&w=bg (bkz bunu anana sorsana delikanlı)
-(bkz tokmakçı sıs gelince kaçan kocişko)
-(bkz sare davutoğlunun ahmet davutoğlunu aldatması)
-https://www.uludagsozluk.com/k/tokmak%C3%A7%C4%B1s%C4%B1n%C4%B1n-kar%C4%B1s%C4%B1-taraflndan-bas%C4%B1lan-kad%C4%B1n/
-(bkz erdoganin topğunuz gelin konuşması)
-https://www.uludagsozluk.com/k/ypg-yok-edilmedikten-sonra-30-km-%C3%A7ekilse-ne-olur/
-(bkz erdogan ın izin vermeyeceği olay)
-https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/ 
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-h%C4%B1rs%C4%B1zd%C4%B1r/ (bkz erdogan götverendir)
-(bkz cübbeliye 31 çekip başlık açmak)
-https://www.uludagsozluk.com/k/c%C3%BCbbeli-vs-bok-b%C3%B6ce%C4%9Fi/&w=bg
-(bkz direksiyonu tek eliyle çeviren alfa erkekler)
-https://www.uludagsozluk.com/k/erkeklerin-ara%C3%A7-kullanma-konusunda-%C3%BCst%C3%BCn-olmas%C4%B1/
-(bkz ölürsem kabrime gelme istemeeeeem istememmmm )
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-kabri-vs-yavuz-sultan-selim-in-kabri/
-(bkz direksiyonu tek eliyle çeviren alfa erkekler)
-https://www.uludagsozluk.com/k/erkeklerin-ara%C3%A7-kullanma-konusunda-%C3%BCst%C3%BCn-olmas%C4%B1/ 
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-zeka-seviyesi/&w=bg (bkz bir saray bana bir entry sana)
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-h%C4%B1rs%C4%B1zd%C4%B1r/ (bkz bir saray bana bir entry sana)
-https://www.uludagsozluk.com/e/42317884/ (bkz erdoganin miyav bin ebu tekire verdiği ayar)
-(bkz cübbeli ahmet hocanın miyav bin bu tekiri hoplattığı video)
-(bkz esadın erdogan götverendir açıklması)
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-h%C4%B1rs%C4%B1zd%C4%B1r/
-(bkz hani marjinal bizdik)
-https://www.uludagsozluk.com/k/tokmak%C3%A7%C4%B1s%C4%B1n%C4%B1n-kar%C4%B1s%C4%B1-taraflndan-bas%C4%B1lan-kad%C4%B1n/&w=gd
-https://www.uludagsozluk.com/k/vatan-sat%C4%B1p-dolar-alan-kemalist/ (bkz a bu benim kemalist değil globalistim)
-https://www.uludagsozluk.com/k/banu-berbero%C4%9Flu/&w=bg (bk banu berberoğlunun robot olma ihtimali)
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg (bkz banu berberoğlunun dayısı)
-https://eksisozluk.com/ (bkz 3 nisan 2013 gs real madrid maçı tüyoları)
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-kabri-vs-yavuz-sultan-selim-in-kabri/ (bkz 4.muratın kabri)
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-m%C3%BChendis-olmak/&w=bg (bkz real madrid gs maçı )
-(bkz adam smithin hala anlamadığı tarihi gevrekli ayar)
-https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/&w=gd 
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
 (bkz mide bulandıran orta doğulular)
 https://www.uludagsozluk.com/k/sevgili-kan%C4%B1ndan-anahtarl%C4%B1k/
