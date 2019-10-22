@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz tokmakçısıyla eşini aynı evde besleyen kadın)
+https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/
 (bkz kocasını uyutup mahelleyii tokmak a davet eden kadın)
 https://www.uludagsozluk.com/k/reglim-bitti-diye-mesaj-atan-kad%C4%B1n-sevgili/
 (bkz bütün mahalle tokmak yaparken entry girmek)
