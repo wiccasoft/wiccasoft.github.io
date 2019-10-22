@@ -36,8 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz serin hikaye bilader verdim şukunu keep working on it)
 https://eksisozluk.com/biri/starim-ama-yalnizim
-
- -->
+-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
