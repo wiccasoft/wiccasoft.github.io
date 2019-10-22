@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz galtsaray yensin götümü siktirirm diyen kürt)
 (bkz real madrid yenerse kocama götten veririm diyen türbanlı)
 (bkz maç üst biter bire 10 evi sat parayı reale bas kanka)
 ben ekşiden maç tüyosu alıp geliyom kanka bi yere ayrılmayın gelince ıslatırız
