@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/banu-berbero%C4%9Flu/&w=bg (bkz videolarını izlerken hiç sıkılmadığı kız)
 (bkz devlet su işleri bırak bu işleri)
 (bkz ekşicilerin real madrid maçında köşeyi döneceklerini sanmaları)
 (bkz üni drop out olduğum için siklemediğim güruh ekşide ceo culuk oynasınlar sittiret)
