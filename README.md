@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz norm ender)
+https://www.uludagsozluk.com/k/erkeklerin-ara%C3%A7-kullanma-konusunda-%C3%BCst%C3%BCn-olmas%C4%B1/
 (bkz banu berberoğlunun umursamadığı gerçek)
 https://www.uludagsozluk.com/k/lahmacun-yemek-%C3%B6mr%C3%BC-k%C4%B1salt%C4%B1yor/ 
 https://www.uludagsozluk.com/k/banu-berbero%C4%9Flu/&w=bg (bkz banu berberoğlunun robot olma ihtimali)
