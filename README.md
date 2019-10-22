@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 (bkz maç üst biter bire 10 evi sat parayı reale bas kanka)
 ben ekşiden maç tüyosu alıp geliyom kanka bi yere ayrılmayın gelince ıslatırız
 (bkz başlığı dün be açmıştım ibneler yatmayın üstüne)
+(bkz suya gidip susuz dönmek)
+https://www.uludagsozluk.com/k/%C5%9Feyma-y%C4%B1-su-ba%C5%9F%C4%B1na-g%C3%B6t%C3%BCrmek/
 https://www.uludagsozluk.com/k/real-madrid-in-galatasaray-a-d%C3%B6%C5%9Feyece%C4%9Fi-boru/&w=bg
 (bkz emine erdoğan ın iyice azması bkz gerdek gecesi dua eden türbanlı first lady)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ 
