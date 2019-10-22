@@ -33,8 +33,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-
 <!--
+(bkz kızlar evlenin kocişko parası yemek çok keyifli)
+https://www.uludagsozluk.com/k/yeni-gelin-klozeti/
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
