@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/galatasaray-intikam%C4%B1n%C4%B1-al%C4%B1r/ (bkz sapladımı tersten saplar)
 https://www.uludagsozluk.com/k/younes-belhanda/&w=gd (bkz takla atarken kuş siken kral)
 https://www.uludagsozluk.com/k/fatih-terim/ (bkz imaparator)
 https://www.uludagsozluk.com/k/belhanda-n%C4%B1n-gs-taraftar%C4%B1na-silah-i%C5%9Fareti-yapmas%C4%B1/ (bkz kral)
