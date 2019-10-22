@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz firmanın ceosu olduğunu merak ettiğim işsiz)
+(bkz hangi firmanın ceosu olduğunu merak ettiğim işsiz)(vergi levhan nerede aa ibine?)
 https://eksisozluk.com/biri/starim-ama-yalnizim
 (bkz enes batur un cem yılmaza kıçıyla gülmesi)
 https://eksisozluk.com/cem-yilmazin-gisede-cakilmasi--6221641?a=popular
