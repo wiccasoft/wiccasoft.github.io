@@ -34,11 +34,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ bkz adam smith in gülmediği ayar
-bkz erdogan ve putinin kahve içtikleri oda ilerde içtikleri bardakların milyon dolara satılacağı gerçeği
+https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ bkz adam smith in gülmediği tarihi ayar
+bkz erdogan ve putinin kahve içtikleri oda 
 https://www.uludagsozluk.com/k/putin-ve-erdo%C4%9Fan-%C4%B1n-g%C3%B6r%C3%BC%C5%9Fme-yapt%C4%B1%C4%9F%C4%B1-oda/
-https://www.youtube.com/watch?v=OntLGCL_9xM vedat millör ekşide
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz dünya devinin yanında acziyet yapma)
 (bkz ramosun gavatların takımına tersten saplayacağı maç)
 https://eksisozluk.com/22-ekim-2019-galatasaray-real-madrid-maci--6160277
 https://www.uludagsozluk.com/e/42316966/ (bkz fatih terim sen misin?)
