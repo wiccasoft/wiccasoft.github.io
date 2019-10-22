@@ -37,7 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.uludagsozluk.com/k/leyla-ile-mecnun/&w=bg (bkz bol göndermeli dizi)
 https://www.uludagsozluk.com/k/tosun-pa%C5%9Fa/&w=bg (bkz cenk tosun)
 https://www.uludagsozluk.com/k/emine-bulut-un-katilinin-cezas%C4%B1na-itiraz-etmesi/ (bkz emine bulut un pıçaklayan adam )
-https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ (bkz beatrix kiddo)
+https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ (bkz emine erdoğan)
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
 (bkz cool story keep working on it)
 https://eksisozluk.com/cvsinde-sigara-kullanmiyorum-yazip-kullanan-isci--6222023
