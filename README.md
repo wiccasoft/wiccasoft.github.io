@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
 (bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
+(bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
 https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1-sinan/&w=bg
 (bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
 https://www.uludagsozluk.com/k/gece-g%C3%BCne%C5%9F-g%C3%B6zl%C3%BC%C4%9F%C3%BC-takan-tip/&w=bg
