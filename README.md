@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz emine erdoğan ın iyice azması bkz gerdek gecesi dua eden türbanlı first lady)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/ 
-ekşiden başlık araklayıp geliyorum beyler anişko pompada mukayet olun iyi pompa yapsın
+ekşiden başlık araklayıp geliyorum beyler bi yere ayrılmayın sputnikten haber arakladım geliyom
 https://www.uludagsozluk.com/k/ek%C5%9Fideki-ter%C3%B6ristler/ (baxa bırak kanka anasını sikerun onun)
 (bkz emine erdoğanın pompa öncesi dua etmesi)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd 
