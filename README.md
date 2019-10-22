@@ -43,9 +43,6 @@ https://www.uludagsozluk.com/k/arkada%C5%9Fa-bor%C3%A7-para-vermek/&w=bg
 (bkz la oglim negzel terörikler uçiydi havada lo ameriga niye durdiriy operasyoni lo anlamiy)
 https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
 bkz ali koçun cm ylmz için fener ol kampanyası hazırlaması
-bkz ylmz erdoganın cm ylmza destek çıkması
-bkz cem yılmaz ın parasının suyunu çekmesi bkz jülide ateş
-(bkz cem yılmazın gişede kara filmleri satamaması)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-ka%C3%A7amak-filminin-gi%C5%9Fede-%C3%A7ak%C4%B1lmas%C4%B1/&w=gd
 (bkz davutoğlanın kilit isimlerle yapcağı party)(bkz swordfish)
 (bkz davutoğlanın yapacağı partiyi kulislerden saklaması)
