@@ -36,6 +36,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 <!--
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1yla-birlikte-kahveye-giden-erkek/
+(bkz kızlar evlenin kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/bir-g%C3%BCnde-20-adet-ekmek-yemek/
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/yeni-gelin-klozeti/
