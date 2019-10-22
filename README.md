@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz tokmakçısının eltisinin dünürüyle basılan kadın)
+https://www.uludagsozluk.com/k/tokmak%C3%A7%C4%B1s%C4%B1n%C4%B1n-kar%C4%B1s%C4%B1-taraflndan-bas%C4%B1lan-kad%C4%B1n/
 https://www.uludagsozluk.com/k/kad%C4%B1nlar-mutfak-robotudur/&w=bg (bkz bunu anana sorsana delikanlı)
 (bkz tokmakçı sıs gelince kaçan kocişko)
 (bkz sare davutoğlunun ahmet davutoğlunu aldatması)
