@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz atacüce)
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz dünya lideri atacüce)
 (bkz açmayın korkunçlu karı)
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-maky%C3%B6z%C3%BCn%C3%BCn-de%C4%9Feri/
 (bkz banu berberoğlu nun robot olma ihtimali)
