@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz tokmaçısının arkdaşına vur joker vur diyen kadının oğlu)
 (bkz tokmaçısının sevgilisini dünürünün eltinin kocasına veren kadın)
 https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/
 https://www.uludagsozluk.com/k/mahmut-ustaosmano%C4%9Flu/&w=bg (bkz ismiyle korkutan adam gibi adam)
