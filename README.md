@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz istanbulda ki nüfusun %75 inin köylü olmadığını sanan ergen)
+https://www.uludagsozluk.com/k/%C3%A7a%C4%9Fda%C5%9F-ve-modernim-k%C3%B6yl%C3%BCleri-sevmiyorum/
 (bkz kurtlar vasisi polatın elife açıldığı sahne)
 https://www.uludagsozluk.com/k/leyla-ile-mecnun/&w=bg (bkz ismail abinin yav he he dediği sahne)
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz ay hayvan gibi kaslı ayol gol de atar bu)
