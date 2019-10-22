@@ -38,7 +38,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.uludagsozluk.com/k/baban%C4%B1z-annenizi-aldat%C4%B1rsa/ 
 (bkz adam adama mücadele varken vara gitmek)
 https://eksisozluk.com/serkan-kirintilinin-gordugu-ilginc-kirmizi-kart--6221188?a=popular (bkz durdur uğurcum)
-https://www.uludagsozluk.com/k/sevgili-kan%C4%B1ndan-anahtarl%C4%B1k/ (bkz kan istiyoruz kaaan)
 (bkz bordo klavyeli cengaverlerin amerika ya veren süreyi beklemesi)
 https://www.uludagsozluk.com/k/ypg -nin-%C3%A7ekilmesi-i%C3%A7in-abd-ye-verilen-s%C3%BCre/&w=bg
 https://www.uludagsozluk.com/k/deep-turkish-web/&w=bg (bkz amerika saldırırsa biteriz beyler)
@@ -57,8 +56,6 @@ https://www.uludagsozluk.com/k/k%C3%BCrtl%C3%BCkte-d%C3%BC%C5%9Feni-sikmek-kanun
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-man%C3%A7o-ya-sanat%C3%A7%C4%B1-demek/
 (bkz gay taş fırın ustaları)
 https://www.uludagsozluk.com/k/afyon-un-me%C5%9Fhurlar%C4%B1/&w=bg
-(bkz yine geldi tipini siktiğimin)
-https://www.uludagsozluk.com/k/azad-bana-anlatt%C4%B1-k%C3%BCrtler-%C3%A7ok-iyilermi%C5%9F/
 lan gerizekalı götünde ki dona kadar amerikan malı amerika size niye saldırsın
 https://www.uludagsozluk.com/k/amerika-t%C3%BCrkiye-ye-sald%C4%B1rsa-yok-edece%C4%9Fi-ger%C3%A7e%C4%9Fi/
 (bkz istanbulda ki nüfusun %75 inin köylü olmadığını sanan ergen)
