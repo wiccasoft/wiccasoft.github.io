@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkx direksiyonu tek eliyle çeviren alfa erkek)
+https://www.uludagsozluk.com/k/erkeklerin-ara%C3%A7-kullanma-konusunda-%C3%BCst%C3%BCn-olmas%C4%B1/ 
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-zeka-seviyesi/&w=bg (bkz bir saray bana bir entry sana)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-h%C4%B1rs%C4%B1zd%C4%B1r/ (bkz bir saray bana bir entry sana)
 https://www.uludagsozluk.com/e/42317884/ (bkz erdoganin miyav bin ebu tekire verdiği ayar)
