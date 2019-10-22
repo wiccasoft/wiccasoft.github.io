@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/younes-belhanda/&w=gd (bzk bi gülüşü var sanırsın fransa da çiçekler açiy)
 https://www.uludagsozluk.com/k/ona-ne-s%C3%B6ylemek-isterdin/ (bkz falcao boynuma dolao)
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/ (bkz adını kalbime yazdım delihuanlı benden kolay kurtulamazsın)
 https://www.uludagsozluk.com/k/22-lik-delikanl%C4%B1-falcao/ (bkz boynuma dola falcao)
