@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz boş zamanlarda instada yayın yapıp ekonomik krizi fırsata çevirmek)
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg (bkz 100 bine kadar çıkıyo kanka instada malafatı sallıyom sadece)
 https://www.uludagsozluk.com/k/%C5%9Feyma-vs-%C5%9Feytan/ (bkz şeymanın pabucunu ters geçireceği versus)
 (bkz maroon 5 misery klibi gibi olayların döndüğü ülke)
