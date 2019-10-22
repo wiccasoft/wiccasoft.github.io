@@ -35,55 +35,20 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 (bkz entry girerkene anişkonun babişkonun parişkolarını sayması)
-(bkz gece güneş gözlüğüyle başlık açan tip)
 https://www.uludagsozluk.com/k/gece-g%C3%BCne%C5%9F-g%C3%B6zl%C3%BC%C4%9F%C3%BC-takan-tip/&w=bg
-(bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
-https://www.uludagsozluk.com/k/akasya-dura%C4%9F%C4%B1-sinan/&w=bg
-(bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
-https://www.uludagsozluk.com/k/gece-g%C3%BCne%C5%9F-g%C3%B6zl%C3%BC%C4%9F%C3%BC-takan-tip/&w=bg
-(bkz kızlar evlenin babişko parası yerine kocişko parası yiyin)
-(bkz babişko parasıyla 30 bira içip yarıp tekrar entry girmek)
-https://www.uludagsozluk.com/k/bir-oturu%C5%9Fta-30-%C5%9Fi%C5%9Fe-bira-i%C3%A7mek/
-(bkz babişko parasıyla eksi veren ibneler)
-https://www.uludagsozluk.com/k/bana-eksi-verecek-adam-daha-do%C4%9Fmad%C4%B1/
-(bkz ali koçun babişko parasıyla telefon alanlarla dalga geçmesi)
-https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/
-(bkz ali koçun babişko parası yiyenlere tepki olarak doğması)
-https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/
-(bkz ali koçun allahın bir lütfu olması)
-https://www.uludagsozluk.com/k/yeni-gelin-klozeti/
-(bkz kızlar evlenin babişkodan sonra kocişko parası yemek çok keyifli)
-https://www.uludagsozluk.com/k/paran-yoksa-benimle-muhatap-olma/&w=bg
-(bkz kızlar evlenmeyin babişko parası yemek çok keyifli)
-(bkz kızlar evlenin kocişko parası yemek çok keyifli)
-https://www.uludagsozluk.com/k/yeni-gelin-klozeti/
-(bkz kızlar evlenin kocişko parası yemek çok keyifli)
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/
-(bkz kızlar evlenin kocişko parası yemek çok keyifli)
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1yla-birlikte-kahveye-giden-erkek/
-(bkz kızlar evlenin kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/bir-g%C3%BCnde-20-adet-ekmek-yemek/
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/yeni-gelin-klozeti/
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
 https://www.uludagsozluk.com/k/d%C3%BC%C5%9F%C3%BCn-ki-o-bunu-nas%C4%B1lsa-okumayacak/&w=bg
 (bkz kızlar evlenin kocişko parası yemek çok keyifli)
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-seks-d%C4%B1%C5%9F%C4%B1nda-i%C5%9Fe-yarad%C4%B1%C4%9F%C4%B1-konular/&w=bg
-(bkz kızlar kocişko parası yemek çok keyifli siz de evlenin)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-evlenin-koca-paras%C4%B1-yemek-%C3%A7ok-keyifli/&w=gd
-(bkz ali koçun kocişko değil babişko parası yemesi)
 (bkz annenin babişkonun paralarını yemesi)
-(bkz kocişko parasi yemek)
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-seks-d%C4%B1%C5%9F%C4%B1nda-i%C5%9Fe-yarad%C4%B1%C4%9F%C4%B1-konular/&w=bg
-(bkz babişko parasıyla fenere başkan olmak)
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/&w=gd 
-(bkz anişkonun babişkonun paralarını yemesi)
 (bkz kızlarsoruyor.com da kocişko parası yiyen kızın paylaştığı klozet)
 https://www.uludagsozluk.com/k/yeni-gelin-klozeti/&w=gd
 https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz kocişko parası yiyen robot)
 (bkz ben saldırıyorum beyler)
-https://www.uludagsozluk.com/k/abd-t%C3%BCrkiyeye-sald%C4%B1rmak-i%C3%A7in-haz%C4%B1r/ 
-(bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-evlenin-koca-paras%C4%B1-yemek-%C3%A7ok-keyifli/&w=bg 
 (bkz falcaonun tersten saplayacağı maç)
 https://www.uludagsozluk.com/k/22-ekim-2019-galatasaray-real-madrid-ma%C3%A7%C4%B1/&w=bg 
