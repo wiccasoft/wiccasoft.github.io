@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz nabacaz be kamil parti yapamıyacakmıyız)
+https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-nun-parti-ofisinin-m%C3%BCh%C3%BCrlenmesi/
 bkz hababam sınıfı tarih hocasını gaza getirmek
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg (bkz bir miletin makus talihini yeniden dirilten adam)
 (bkz denize kim düşse kurtarırsın atatürk mü rte mi ben rte diyorum atatürk zaten kısa batmaz ehhehehe)
