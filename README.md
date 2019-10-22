@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz maroon 5 misery klibi gibi olayların döndüğü ülke)
 https://eksisozluk.com/basilinca-5-kat-pervazina-saklanan-kadin--6221988?a=popular
-(bkz tokmak sırasında kocişkonun eltisinin basması)
+(bkz tokmak sırasında kocişkonun eltisinin basması)(bkz hani marjinal bizdik)
 https://www.uludagsozluk.com/k/tokmak%C3%A7%C4%B1s%C4%B1n%C4%B1n-kar%C4%B1s%C4%B1-taraflndan-bas%C4%B1lan-kad%C4%B1n/
 (bkz 06melih in cemyılmaz ı savunmak için attığı tweet)
 (bkz cemyılmaz a saldıran norm ender fan boyları)
