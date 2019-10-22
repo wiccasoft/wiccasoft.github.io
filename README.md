@@ -57,8 +57,6 @@ https://www.uludagsozluk.com/k/d%C3%BC%C5%9F%C3%BCn-ki-o-bunu-nas%C4%B1lsa-okuma
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-seks-d%C4%B1%C5%9F%C4%B1nda-i%C5%9Fe-yarad%C4%B1%C4%9F%C4%B1-konular/&w=bg
 (bkz kızlar kocişko parası yemek çok keyifli siz de evlenin)
 https://www.uludagsozluk.com/k/k%C4%B1zlar-evlenin-koca-paras%C4%B1-yemek-%C3%A7ok-keyifli/&w=gd
-(bkz ali koçun annesinin evlenin kızlar kocişko parası yiyin demesi)
-https://www.uludagsozluk.com/k/k%C4%B1zlar-evlenin-koca-paras%C4%B1-yemek-%C3%A7ok-keyifli/&w=gd
 (bkz ali koçun kocişko değil babişko parası yemesi)
 (bkz annenin babişkonun paralarını yemesi)
 (bkz kocişko parasi yemek)
