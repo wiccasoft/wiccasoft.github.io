@@ -35,41 +35,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
-(bkz mide bulandıran orta doğulular)
-https://www.uludagsozluk.com/k/sevgili-kan%C4%B1ndan-anahtarl%C4%B1k/
-(bkz operasyon durmak teröristleri vurmak var neden ateşkes yapmak stop)
-https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
-(bkz la oglim paramla döverim lo sizi)
-https://www.uludagsozluk.com/k/arkada%C5%9Fa-bor%C3%A7-para-vermek/&w=bg
-(bkz la oglim negzel terörikler uçiydi havada lo ameriga niye durdiriy operasyoni lo anlamiy)
-https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
-bkz ali koçun cm ylmz için fener ol kampanyası hazırlaması
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-ka%C3%A7amak-filminin-gi%C5%9Fede-%C3%A7ak%C4%B1lmas%C4%B1/&w=gd
-(bkz davutoğlanın kilit isimlerle yapcağı party)(bkz swordfish)
-(bkz davutoğlanın yapacağı partiyi kulislerden saklaması)
-https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-nun-parti-ofisinin-m%C3%BCh%C3%BCrlenmesi/
-bkz hababam sınıfı tarih hocasını gaza getirmek
-https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg (bkz bir miletin makus talihini diriltmek)
-(bkz denize kim düşse kurtarırsın atatürk mü rte mi ben rte diyorum atatürk zaten kısa batmaz ehhehehe)
-https://www.uludagsozluk.com/k/denize-atat%C3%BCrk-m%C3%BC-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-erdo%C4%9Fan-m%C4%B1/
-(bkz yapma be abi cem yılmaza sahip çıkıyoruz beyler parası neyse toplayalım aramızda be oğluna flüt alsın)
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-ka%C3%A7amak-filminin-gi%C5%9Fede-%C3%A7ak%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/atan%C4%B1n-huzuruna-%C3%A7%C4%B1kmak/&w=bg bkz ata ata sen kalkta ben yata
-https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ bkz adam smith in gülmediği tarihi ayar
-bkz erdogan ve putinin kahve içtikleri tarihi oda 
-https://www.uludagsozluk.com/k/putin-ve-erdo%C4%9Fan-%C4%B1n-g%C3%B6r%C3%BC%C5%9Fme-yapt%C4%B1%C4%9F%C4%B1-oda/
-(bkz ramosun gavatların takımına tersten saplayacağı maç)
-https://eksisozluk.com/22-ekim-2019-galatasaray-real-madrid-maci--6160277
-https://www.uludagsozluk.com/e/42316966/ (bkz fatih terim sen misin?)
-(bkz gavatlar diyarında bir adam)https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/
-(bkz yılın gavatı ödül töreni)https://www.uludagsozluk.com/k/acun-a-canl%C4%B1-yay%C4%B1nda-%C5%9Feyma-dan-mesaj-gelmesi/
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz dünya lideri atacüce)
-(bkz açmayın korkunçlu karı)
-https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-maky%C3%B6z%C3%BCn%C3%BCn-de%C4%9Feri/
-(bkz banu berberoğlu nun robot olma ihtimali)
-https://www.uludagsozluk.com/k/ferdi-%C3%B6zbe%C4%9Fen/&w=bg (bkz yine tüpe soktun kardeş)
-(bkz yılın gavatı ödül töreni)
-https://www.uludagsozluk.com/k/acun-a-canl%C4%B1-yay%C4%B1nda-%C5%9Feyma-dan-mesaj-gelmesi/
 (bkz serin hikaye bilader verdim şukunu keep working on it)
 https://eksisozluk.com/cvsinde-sigara-kullanmiyorum-yazip-kullanan-isci--6222023
 https://eksisozluk.com/biri/starim-ama-yalnizim
