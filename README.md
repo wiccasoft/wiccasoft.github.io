@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz yine geldi tipini siktiğimin ibnesi)
+https://www.uludagsozluk.com/k/azad-bana-anlatt%C4%B1-k%C3%BCrtler-%C3%A7ok-iyilermi%C5%9F/
 lan gerizekalı götünde ki dona kadar amerikan malı amerika size niye saldırsın
 https://www.uludagsozluk.com/k/amerika-t%C3%BCrkiye-ye-sald%C4%B1rsa-yok-edece%C4%9Fi-ger%C3%A7e%C4%9Fi/
 (bkz istanbulda ki nüfusun %75 inin köylü olmadığını sanan ergen)
