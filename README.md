@@ -35,6 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz anişkonun babişkonun paralarını yemesi)
 (bkz kızlarsoruyor.com da kocişko parası yiyen kızın paylaştığı klozet)
 https://www.uludagsozluk.com/k/yeni-gelin-klozeti/&w=gd
 https://www.uludagsozluk.com/k/robota-adam-ol-lan-demek/ (bkz kocişko parası yiyen robot)
