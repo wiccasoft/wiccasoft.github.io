@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz babişko parasıyla eksi veren ibneler)
+https://www.uludagsozluk.com/k/bana-eksi-verecek-adam-daha-do%C4%9Fmad%C4%B1/
 (bkz ali koçun babişko parasıyla telefon alanlarla dalga geçmesi)
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/
 (bkz ali koçun babişko parası yiyenlere tepki olarak doğması)
