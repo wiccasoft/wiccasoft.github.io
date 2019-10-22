@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz sskya sıçan kara çarşaflı)
+(bkz sskya sıçan kara çarşaflılar)
 (bkz istanbulu türbanlı köylülerin ele geçirmesi)
 (bkz ümraniyede ki türbanlıların ahlaksız seks yapmaması)
 https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-kapal%C4%B1-ahlaks%C4%B1z-kad%C4%B1n-olmamas%C4%B1/&w=bg
