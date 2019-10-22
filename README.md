@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz üni drop out olduğum için siklemediği güruh)
+(bkz üni drop out olduğum için siklemediğim güruh ekşide ceo culuk oynasınalr sittiret)
 https://www.uludagsozluk.com/k/%C3%BCniversite-mezunu-olup-da-i%C5%9Fsiz-gezen-g%C3%BCruh/
 (bkz boş zamanlarda instada yayın yapıp ekonomik krizi fırsata çevirmek)
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg (bkz 100 bine kadar çıkıyo kanka instada malafatı sallıyom sadece)
