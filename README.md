@@ -35,6 +35,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 
 <!--
+(bkz kocişko parasi yemek)
+https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-seks-d%C4%B1%C5%9F%C4%B1nda-i%C5%9Fe-yarad%C4%B1%C4%9F%C4%B1-konular/&w=bg
 (bkz ali koçun mütevaziliği)
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/&w=gd 
 (bkz anişkonun babişkonun paralarını yemesi)
