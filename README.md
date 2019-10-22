@@ -38,7 +38,7 @@ https://www.uludagsozluk.com/k/galatasaray-intikam%C4%B1n%C4%B1-al%C4%B1r/ (bkz 
 https://www.uludagsozluk.com/k/younes-belhanda/&w=gd (bkz takla atarken kuş siken kral)
 https://www.uludagsozluk.com/k/fatih-terim/ (bkz imaparator)
 https://www.uludagsozluk.com/k/belhanda-n%C4%B1n-gs-taraftar%C4%B1na-silah-i%C5%9Fareti-yapmas%C4%B1/ (bkz kral)
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ (bkz ibbtv de göksuya küfreden sözde lider)
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ (bkz ibbtv de göksuya küfreden oç)
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
 (bkz cool story keep working on it)
 https://eksisozluk.com/cvsinde-sigara-kullanmiyorum-yazip-kullanan-isci--6222023
