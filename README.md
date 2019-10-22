@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz hayvan gib gol atıyo hayvan şey)
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd (bkz ay hayvan gibi kaslı bide gol atıyo ayol)
 (bkz ikili görüşmelerde bulunan devlet adamları)
 https://www.uludagsozluk.com/k/22-ekim-2019-so%C3%A7i-mutabakat%C4%B1/ (bkz putin le erdoganin kahve içtikleri oda)
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg (bkz kral)
