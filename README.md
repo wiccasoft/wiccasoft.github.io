@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz denize kim düşse kurtarırsın atatürk mü rte mi)
+https://www.uludagsozluk.com/k/denize-atat%C3%BCrk-m%C3%BC-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-erdo%C4%9Fan-m%C4%B1/
 (bkz yapma be abi cem yılmaz a destek çıkıyoruz abi herkes 1er milyon dolar koysun ortaya)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-ka%C3%A7amak-filminin-gi%C5%9Fede-%C3%A7ak%C4%B1lmas%C4%B1/
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-kabri-vs-yavuz-sultan-selim-in-kabri/ (bkz 4. murat ın kabri derim)
