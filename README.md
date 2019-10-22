@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz macun kaplıcalının şeyma ya whatsuptan tokmaçın iyiy pompalıypmu aşkım diye sorması)
+https://www.uludagsozluk.com/k/acun-a-canl%C4%B1-yay%C4%B1nda-%C5%9Feyma-dan-mesaj-gelmesi/
 (bkz geyikli pijamasıyla kocişkosunu arayan işsiz)
 https://www.uludagsozluk.com/k/sevgilisine-kar%C4%B1c%C4%B1%C4%9F%C4%B1m-diye-hitap-eden-erkek/&w=bg
 (bkz karısına kancık ancığına koyarım diyen rottweiler)
