@@ -38,6 +38,8 @@ https://www.uludagsozluk.com/k/%C5%9Feyma-vs-%C5%9Feytan/ (bkz şeymanın pabucu
 (bkz maroon 5 misery klibi gibi olayların döndüğü ülke)
 https://eksisozluk.com/basilinca-5-kat-pervazina-saklanan-kadin--6221988?a=popular
 (bkz tokmak sırasında kocişkonun eltisinin basması)(bkz hani marjinal bizdik)
+(bkz cemyılmaz ı yedirmeyiz)
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-u%C4%9Frad%C4%B1%C4%9F%C4%B1-fa%C5%9Fist-bask%C4%B1/
 https://www.uludagsozluk.com/k/tokmak%C3%A7%C4%B1s%C4%B1n%C4%B1n-kar%C4%B1s%C4%B1-taraflndan-bas%C4%B1lan-kad%C4%B1n/
 (bkz 06melih in cemyılmaz ı savunmak için attığı tweet)
 (bkz cemyılmaz a saldıran norm ender fan boyları)
