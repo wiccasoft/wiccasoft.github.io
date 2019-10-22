@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz maç üst biter bire 10 evi sat bas parayı reale bas kanka)
+(bkz maç üst biter bire 10 evi sat parayı reale bas kanka)
 ben ekşiden maç tüyosu alıp geliyom kanka bi yere ayrılmayın gelince ıslatırız
 (bkz başlığı dün be açmıştım ibneler yatmayın üstüne)
 https://www.uludagsozluk.com/k/real-madrid-in-galatasaray-a-d%C3%B6%C5%9Feyece%C4%9Fi-boru/&w=bg
