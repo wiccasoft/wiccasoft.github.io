@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz tokmak için kasapın oğluna tokmak teklif eden kadın)
 (bkz tokmak sonrası kocasına dünürünün tokmakçılarını öneren kadın)
 (bkz tokmakçısının dünürüne gel beraber kocamla tokmak tokmağa sebni de  yapalım diyen kadın)
 (bkz tomakçısının sevgilisinin eltisine beraber tokmaklatalım diyen kadın)=
