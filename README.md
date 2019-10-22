@@ -33,9 +33,10 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!--
+<!-- 
+https://eksisozluk.com/fatih-terim--37577?a=popular (bkz okuyan var mı bunları)
 https://eksisozluk.com/younes-belhanda--2341813?a=popular (bkz okuyan var mı bunları)
-https://eksisozluk.com/9-nisan-2013-galatasaray-real-madrid-maci--3745820
+https://eksisozluk.com/9-nisan-2013-galatasaray-real-madrid-maci--3745820 (bkz okuyan var mı bunları)
 https://eksisozluk.com/gerdek-gecesi-icin-instagramdan-dua-isteyen-gelin--6222232?a=popular (bkz hani marjinal bizdik)
 https://www.uludagsozluk.com/k/fuckbuddy-e-alternatif-t%C3%BCrk%C3%A7e-isimler/&w=bg (bkz yarramınkurmakolu)
 https://www.uludagsozluk.com/k/sevilen-k%C4%B1z%C4%B1n-k%C3%BCrt-oldu%C4%9Funu-itiraf-etmesi/&w=bg (zerdane werdane hewal)
