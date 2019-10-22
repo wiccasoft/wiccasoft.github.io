@@ -36,8 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz mide bulandıran orta doğulular)
 https://www.uludagsozluk.com/k/sevgili-kan%C4%B1ndan-anahtarl%C4%B1k/
-(bkz operasyon durmak teröristleri vuramamak var neden ateşkes yapmak)
-https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7eyi-katleden-%C3%BCnl%C3%BCler/
+(bkz operasyon durmak teröristleri vurmak var neden ateşkes yapmak stop)
 https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
 (bkz la oglim paramla döverim lo sizi)
 https://www.uludagsozluk.com/k/arkada%C5%9Fa-bor%C3%A7-para-vermek/&w=bg
