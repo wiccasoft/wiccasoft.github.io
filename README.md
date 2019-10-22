@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz boynuzların nasıl macun kaplıcalı)
+https://eksisozluk.com/seyma-subasinin-canli-yayinda-acuna-attigi-mesaj--6221823?a=popular
 (bkz entry girerkene anişkonun babişkonun parişkolarını sayması)
 https://www.uludagsozluk.com/k/gece-g%C3%BCne%C5%9F-g%C3%B6zl%C3%BC%C4%9F%C3%BC-takan-tip/&w=bg
 https://www.uludagsozluk.com/k/bir-g%C3%BCnde-20-adet-ekmek-yemek/
