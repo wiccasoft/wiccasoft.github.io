@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/sevilen-k%C4%B1z%C4%B1n-k%C3%BCrt-oldu%C4%9Funu-itiraf-etmesi/&w=bg (zardan werdane hewal)
+https://www.uludagsozluk.com/k/sevilen-k%C4%B1z%C4%B1n-k%C3%BCrt-oldu%C4%9Funu-itiraf-etmesi/&w=bg (zerdan werdane hewal)
 https://www.uludagsozluk.com/k/yemek-yapan-light-erkek/ (bkz vakfıkebir erkeği)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=bg
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
