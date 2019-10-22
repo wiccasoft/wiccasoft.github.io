@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg (bkz dünya devinin yanında acziyet yapma)
 (bkz ramosun gavatların takımına tersten saplayacağı maç)
 https://eksisozluk.com/22-ekim-2019-galatasaray-real-madrid-maci--6160277
 https://www.uludagsozluk.com/e/42316966/ (bkz fatih terim sen misin?)
