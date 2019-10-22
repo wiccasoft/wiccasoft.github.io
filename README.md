@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-h%C4%B1rs%C4%B1zd%C4%B1r/ (bkz erdogan götverendir)
 (bkz cübbeliye 31 çekip başlık açmak)
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-vs-bok-b%C3%B6ce%C4%9Fi/&w=bg
 (bkz direksiyonu tek eliyle çeviren alfa erkekler)
