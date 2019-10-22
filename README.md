@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz davutoğlanın yapcağı parytiyi kulislerden saklaması)
 (bkz nabacaz be kamil parti yapamıyacakmıyız o odada)
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu-nun-parti-ofisinin-m%C3%BCh%C3%BCrlenmesi/
 bkz hababam sınıfı tarih hocasını gaza getirmek
