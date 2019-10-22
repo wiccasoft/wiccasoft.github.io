@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz ramosun tersten saplayacağı maç)
+https://eksisozluk.com/22-ekim-2019-galatasaray-real-madrid-maci--6160277?a=popular
 (bkz macun kaplıcalıyı üzen işçi)
 https://eksisozluk.com/cvsinde-sigara-kullanmiyorum-yazip-kullanan-isci--6222023?a=popular
 (bkz boynuzların nasıl macun kaplıcalı)
