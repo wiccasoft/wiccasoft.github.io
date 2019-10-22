@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz entry girerkene anişkonun babişkonun parişkolarını sayması)
 (bkz gece güneş gözlüğüyle başlık açan tip)
 https://www.uludagsozluk.com/k/gece-g%C3%BCne%C5%9F-g%C3%B6zl%C3%BC%C4%9F%C3%BC-takan-tip/&w=bg
 (bkz nevilevile ulunun krali nin babişko parası yemeyip sabaha kadar başlık açması)
