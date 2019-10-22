@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz la oglim negzel terörikler uçiydi havad lo ameriga niye durdiriy operasyoni lo)
+https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
 bkz ali koçun cm ylmz için fener ol kampanyası hazırlaması
 bkz ylmz erdoganın cm ylmza destek çıkması
 bkz cem yılmaz ın parasının suyunu çekmesi bkz jülide ateş
