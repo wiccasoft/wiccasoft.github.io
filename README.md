@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n&w=gd/2/ (bkz muhteşem olay)
 https://www.uludagsozluk.com/k/kendi-maa%C5%9F%C4%B1na-7-bin-lira-zam-yapan-akpli/ (bkz damat yapmış haberim yok)
+https://eksisozluk.com/futbolculara-agir-vergi-geliyor--6222940?a=popular (bkz damat yapmış haberim yok)
 https://www.youtube.com/watch?v=FFkBaGqXLig
 https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak/&w=bg (bkz her şey çok güzel zaten)
 https://www.youtube.com/watch?v=TA6y-oRT1w0
