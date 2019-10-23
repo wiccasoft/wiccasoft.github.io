@@ -35,6 +35,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 (bkz tayyip ne kadar süper laaaaaaaaan)
+(bkz hayllerde yaşayan 3 cmlik pipili sevgili)
+https://www.uludagsozluk.com/k/20-cmden-ba%C5%9Fka-verecek-bir-%C5%9Feyim-yok-diyen-sevgili/&w=bg 
 (bkz tayyibin ayda 81 bin liraya tav olacağını sanan aktroller)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/ (bkz 81 bin para mı lan it )
 (bkz bilal ile burak ın milyon dolarlık malikanelerini bilmeyen aktroller)
