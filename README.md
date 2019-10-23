@@ -54,7 +54,6 @@ https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fa
 https://www.uludagsozluk.com/k/500-bin-pornocu-tutuklanacak/&w=bg (bkz danddy d hariç de oç)
 https://eksisozluk.com/23-ekim-2019-ultraslanin-belhanda-aciklamasi--6223189?a=popular (bkz peki)
 https://www.uludagsozluk.com/k/korkusuz-korkak/&w=bg (bkz erdoğan)
-https://www.uludagsozluk.com/k/erkek-penisi/&w=bg (bkz hayalerde yaşıyor bazı ibneler)
 (bkz tayyip danışmanlığı yardımcılığı maaşları)(bkz bold medya erdoğan family)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
 (bkz aa bu benim lan 29 inch monitörümle 5 inclik telefona işletim sistemi yazıyorum hayat bana güzel)
@@ -75,11 +74,6 @@ https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-maa%C5%9F%C4%B1/&w=bg (bkz a
 https://eksisozluk.com/ordu-belediye-baskaninin-250-bin-tl-maas-almasi--6220831?a=popular 
 https://www.youtube.com/watch?v=-f_DPrSEOEo
 https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (bkz abi anında tweet atınca ışık hızı)
-(abi bu olay olduysa super yane düşünserne abi tweet atıyosun anında whooaa ya space oddyse abi bizim islamcılar anlamaz abi)
-(bkz abi uydu net diye bişey bulmuşla super olm ya ) abi şimdi nsa biz izlemeyecek olm ya
-(bkz ikili görüşmelerin ve suriyenin toprak bütünülüğü konusunda hem fikir olunan tarihi saray)
-https://eksisozluk.com/galatasarayin-son-27-avrupa-maci--6223099?a=popular (bkz saha bütünlüğü)
-https://eksisozluk.com/putinin-erdoganin-onundeki-haritayi-kaldirtmasi--6222877?a=popular (bkz toprak bütünlüğü)
 https://eksisozluk.com/entry/96899944 bkz abi uydunet diye bişey çıkmmış super lan
 https://eksisozluk.com/oyun-oynamayip-oynayanin-videosunu-izleyen-nesil--5908514?a=popular (bkz lol)
 https://eksisozluk.com/fatih-terim-neyin-imparatoru-sorunsali--6222978?a=popular (bkz where we @)
