@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+(bkz fesli bunak resmi sitesinin kapanması)
+https://www.uludagsozluk.com/k/fesli-bunak-osmanl%C4%B1da-ya%C5%9Fasa-adam-yerine-konmazd%C4%B1/
 http://www.hurriyet.com.tr/haberleri/tecavuz (bkz damat tecavüz haberleri)
 https://www.uludagsozluk.com/k/gaziantepte-bir-ayda-iki-kez-damat-bo%C4%9Faz%C4%B1-kesildi/ 
 (bkz internethaber.com a damadın pipisini yollayan katın peder)
