@@ -34,6 +34,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-maa%C5%9F%C4%B1/&w=bg (bkz atatürk ün yatı)
+(bkz erdogandan fazla kazanan belediye baskani)
+https://eksisozluk.com/ordu-belediye-baskaninin-250-bin-tl-maas-almasi--6220831?a=popular 
 https://www.youtube.com/watch?v=-f_DPrSEOEo
 https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (bkz abi anında tweet atınca ışık hızı)
 (abi bu olay olduysa super yane düşünserne abi tweet atıyosun anında whooaa ya space oddyse abi bizim islamcılar anlamaz abi)
