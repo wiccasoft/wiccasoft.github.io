@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 (bkz şimdi bu norma ender çocuk sahibi olacak o klibi izleyecekler falan ne acı amk))
-(bkz tek bildiği rap glu gluk fay gluk ile norm ender olan nesil)
+(bkz tek bildiği rap glu gluk faytgluk ile norm ender olan nesil)
 https://www.uludagsozluk.com/k/enes-abi-anami-sik/&w=bg (bkz sen yerinde duurr karşında norm enderrrr)
 (bkz norm ender bebesinin zenci rapçilerle gangbang yapmak istemesi)
 https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2 paca a giydirmek asdasdasda)
