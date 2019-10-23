@@ -39,6 +39,7 @@ https://www.uludagsozluk.com/k/fatih-tezcan-a-bile-cevap-veremeyen-ezik-kemalist
 bkz ikili görüşmelerde bulunmayı kolay sanmak https://www.youtube.com/watch?v=RHBoMuNszuk
 https://eksisozluk.com/tayyip-erdogani-herkesin-fircalamasi--6222871?a=popular
 bkz bir saray bana bir topkek size bkz damadın maaşıma zam yapması 400.000 tl oldu :))))
+https://eksisozluk.com/kemiksiz-3250-lira-maas-almak--6222930?a=popular (bkz 3250 lira para mı lan it)
 https://eksisozluk.com/kina-gecesinde-damadinin-bogazini-kesen-kayinpeder--6222909?a=popular
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz damadın taşşak geçmesi
 https://eksisozluk.com/tayyip-erdogani-herkesin-fircalamasi--6222871?a=popular (bkz boruyu döşemek)
