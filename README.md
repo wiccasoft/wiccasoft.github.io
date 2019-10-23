@@ -1,5 +1,5 @@
 [![Image](smartdata/wework.png)]( https://www.theguardian.com/business/2019/oct/22/wework-board-weighs-up-10bn-rescue-plan-from-softbank)
-
+<!--https://www.youtube.com/watch?v=PyrvsrOk0pA-->
 [![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
 [![Image](almanac/tr-ru.png)]( https://www.youtube.com/watch?v=IjsPmjqmcvs )
