@@ -40,6 +40,7 @@ https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak/&w=bg (bk
 https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-sevgilisine-eni%C5%9Fte-diyen-adam/ (bkz imamoğlu)
 https://www.youtube.com/watch?v=-AdnJiuDGVU
+https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n&w=gd/2/ (bkz muhteşem olay)
 (bkz türklerin soyadlarıyla soylarıyla övünmeleri durumu sanırım)  (bkz kilimcininköroğlu )
 (bkz türklerin genelde oğlu soyadlı bitmesi durumu)(bkz firmalarada kendi soyadlarını koymaları durumu)
 (bkz türklerin soyadından firma kurma sebebi)(köfteci yusuf imamoglu ağaoğlu inşaat... koçgrubu..sabancı ..)
