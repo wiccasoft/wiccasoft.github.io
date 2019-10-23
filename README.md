@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz karadenizde dağların denize paralel olması sebebiyle beyne oksijen gitmeden büyüyen tipler)
+(bkz karadenizde dağların denize paralel olması sebebiyle oksijensiz büyüyen çomarlar)
 https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi/ (bkz karadenizli)
 https://www.uludagsozluk.com/k/ebu-berkecan-bin-muazzama/ (bkz seni karım yapacağım olm)
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg (bkz destansı rap savaşları fb - gs)
