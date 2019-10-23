@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
-bkz erdoğının skimle taşşağım ipimle kuşağım demesi
+bkz bir saray bana bir topkek size
 https://eksisozluk.com/kina-gecesinde-damadinin-bogazini-kesen-kayinpeder--6222909?a=popular
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz damadın taşşak geçmesi
 https://eksisozluk.com/tayyip-erdogani-herkesin-fircalamasi--6222871?a=popular (bkz boruyu döşemek)
