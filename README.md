@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 (bkz ikili görüşmelerin ve suriye toprak bürünlüğünün kahve eşliğine konuşulduğu salon)
-https://www.uludagsozluk.com/k/putin-in-misafir-a%C4%9F%C4%B1rlad%C4%B1%C4%9F%C4%B1-saray/ 
+https://www.uludagsozluk.com/k/putin-in-misafir-a%C4%9F%C4%B1rlad%C4%B1%C4%9F%C4%B1-saray/
 https://www.uludagsozluk.com/k/pkkl%C4%B1-ter%C3%B6ristlerin-kafa-kesme-ve-infaz-videolar%C4%B1/ (bkz kana kana dişe diş )
 https://eksisozluk.com/fatih-terimin-futbol-sistemi--4034552 (bkz değişik bi sistem )
 https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/ (bkz adam smithin gülmediği ayar)
