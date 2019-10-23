@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/4000-liradan-ucuz-telefon-kullanan-tip/&w=bg (bkz huawei mate x imle güldüğüm tiptir evet)
 (bkz zabıtanın fatih tezcan analiz merkezinin kapısına kilit vurması)
 (bkz metrobüste kadınların kalçasını ellemeyen erkekimsi)(bkz damadının pipisini kesip metrbüse atan kayınpeder)
 https://www.youtube.com/watch?v=N4_nQF-CpBY bkz aydemir akbaşın  galatasaray için karıyı satması
