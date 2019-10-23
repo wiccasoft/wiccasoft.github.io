@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!-- 
 https://www.youtube.com/watch?v=-f_DPrSEOEo
 https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (bkz abi anında tweet atınca ışık hızı)
-(abi bu olay olduysa super yane düşünserne abi tweet atıyosun anında whooaa ya)
+(abi bu olay olduysa super yane düşünserne abi tweet atıyosun anında whooaa ya space oddyse abi bizim islamcılar anlamaz abi)
 (bkz abi uydu net diye bişey bulmuşla super olm ya ) abi şimdi nsa biz izlemeyecek olm ya
 (bkz ikili görüşmelerin ve suriyenin toprak bütünülüğü konusunda hem fikir olunan tarihi saray)
 https://eksisozluk.com/galatasarayin-son-27-avrupa-maci--6223099?a=popular (bkz saha bütünlüğü)
