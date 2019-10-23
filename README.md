@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz lafa gelince 2pac marley)
+https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz lafa gelince 2pac marley reis)
 (bkz gerdek gecesi dua eden türbanlının bilali doğurması)
 (bkz emine erdoganın siirtli olduğunu unutan nesil)
 https://www.uludagsozluk.com/k/yeni-nesildeki-k%C3%BCrt-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/ 
