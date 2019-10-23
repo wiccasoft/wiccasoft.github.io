@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!-- 
 bkz allah ne kadar süper laaaaaaaaan
 https://www.uludagsozluk.com/k/allah-vs-tanr%C4%B1/&w=bg (bkz allah ve tanrının olduğunu sanan tipler)
-https://www.youtube.com/watch?v=aeytLBm62eo bkz bilalin millyon euroları
+https://www.youtube.com/watch?v=aeytLBm62eo bkz bilalin millyon eurolardan çerez gibi bahsetmesi
 https://www.uludagsozluk.com/k/jean-michael-seri/&w=gd (bkz kardaşım köz geti seri)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz tayyibin 81000 lira maaş aldığını sanan zombiler kaç 81000 lan salak zombiler yahu 5 le çarp onu)
