@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+(bkz tayyibin 81000 lira maaş aldığını sanan zombiler kaç 81000 lan salak zombiler yahu 5 le çarp onu)
 (bkz 81 ilde tek devlet tek millet tek vatan diyip ikili görüşmeleri yapmak kolay mı sanıyosunuz)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
 (bkz hayallerde yaşıyor bazı zombiler)
