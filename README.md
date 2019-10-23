@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-%C3%BClkeyi-kurtar%C4%B1rken-videosunun-olmamas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi/
 https://www.youtube.com/watch?v=HBL6ELALIYs
 https://www.uludagsozluk.com/k/iskarpin-ayakkab%C4%B1yla-%C5%9Fut-%C3%A7eken-mahalle-abisi/ (bkz ali desidero)
