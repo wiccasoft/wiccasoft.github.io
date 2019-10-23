@@ -45,6 +45,7 @@ https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi
 https://arstechnica.com/information-technology/2016/10/how-the-nsa-could-put-undetectable-trapdoors-in-millions-of-crypto-keys/
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-bok-emojisiyle-kaydeden-k%C4%B1z/ (bkz lol)
 https://www.uludagsozluk.com/e/42316898/ (bkz ya acun hangisi)
+https://www.youtube.com/watch?v=KAbQaTea0bU
 -->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
