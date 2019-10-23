@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz biris aktrollere devletlerin öldüğün anlatsın bi zahmet)
 (bkz aktrollerin amerikan donuyla yine hayallerde dalması)
 (bkz kuşbeyinli aktroller amerikanın izni olmadan kuş uçuramazsınız hooff yoruldum artık)
 https://www.uludagsozluk.com/k/abd-ye-sormadan-rusya-ile-antla%C5%9Fma-imzalamak/ (bkz lol)
