@@ -45,7 +45,6 @@ marley ve 2pac ile büyümüş biri olarak marley ve 2pacın boku olamayacak tip
 https://www.uludagsozluk.com/k/gluk-gluk-fayt-kulup/ (bkz rap dinleyenlerin 24 yaşından küçük olduğu gerçeği)
 (bkz r&b blues jazz trance psy trance in in türkiyede tutmama nedenleri)
 (bkz kurtlar vadisi behzat ç çukur biliumum aptal dizi ile büyüyen nesil)
-(bkz sonra döndüm ve dedim ki iyi ki x kuşağıyım)
 https://eksisozluk.com/z-kusagindaki-aptallikta-israr-motivasyonu--6223293?a=popular (bkz siklenmeyen nesil)
 https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F/&w=bg (bkz hugo da küfreden çocuk)
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-bok-emojisiyle-kaydeden-k%C4%B1z/ (bkz lol)
