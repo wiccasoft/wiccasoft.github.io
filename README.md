@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-arkas%C4%B1ndan-hi%C3%A7-fatiha-okuyan-olmamas%C4%B1/&w=bg (bkz dincilerin sürekli atatürkle yatıp kalkması)
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-bok-emojisiyle-kaydeden-k%C4%B1z/ (bkz lol)
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/ (bkz karadenizlilerin sanki biraz salak olması)
 https://www.uludagsozluk.com/k/ne-mutlu-m%C3%BCsl%C3%BCman%C4%B1m-diyene/&w=bg (bkz ümmüt üğlüü)
