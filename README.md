@@ -42,8 +42,6 @@ https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak/&w=bg (bk
 https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-sevgilisine-eni%C5%9Fte-diyen-adam/ (bkz imamoğlu)
 https://www.youtube.com/watch?v=-AdnJiuDGVU
-(bkz türklerin soyadlarıyla soylarıyla övünmeleri durumu sanırım)  (bkz kilimcininköroğlu )
-(bkz türklerin genelde oğlu soyadlı bitmesi durumu)(bkz firmalarada kendi soyadlarını koymaları durumu)
 (bkz türklerin soyadından firma kurma sebebi)(köfteci yusuf imamoglu ağaoğlu inşaat... koçgrubu..sabancı ..)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg (bkz imamoglu insaat)
 https://eksisozluk.com/whoa-it-workedun-turkcesi--6223235?a=popular (bkz lol)
@@ -54,28 +52,6 @@ https://www.uludagsozluk.com/k/erkek-penisi/&w=bg (bkz gay pipisi)
 (bkz eniştesinin pipisini kesip eltisine yediren baldız)
 https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/&w=gd
 https://www.uludagsozluk.com/k/500-bin-pornocu-tutuklanacak/&w=bg (bkz danddy d hariç de oç)
-https://eksisozluk.com/23-ekim-2019-ultraslanin-belhanda-aciklamasi--6223189?a=popular (bkz peki)
-https://www.uludagsozluk.com/k/korkusuz-korkak/&w=bg (bkz erdoğan)
-(bkz tayyip danışmanlığı yardımcılığı maaşları)(bkz bold medya erdoğan family)
-https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
-(bkz aa bu benim lan 29 inch monitörümle 5 inclik telefona işletim sistemi yazıyorum hayat bana güzel)
-https://www.uludagsozluk.com/k/bu-devirde-hala-masa%C3%BCst%C3%BC-bilgisayar-kullanan-fakir/&w=bg
-(bkz tayyibin diyanete ayırdığı bütçe)
-(bkz tayybin isveç bankalarındaki trilyonlarından haberi olmayan aktroller)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-maa%C5%9F%C4%B1/&w=bg (bkz sayanora yatını iki maaş la almak)
-https://www.uludagsozluk.com/k/misvak-%C4%B1n-abd%C3%BClhamit-ve-rte-karikat%C3%BCr%C3%BC/
-(bkz cumhurbaşkanı danışman yardımcılığı maaşları)
-https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
-(bkz hadi gel köyümüze geri dönelim fadimenin düğününde damadın pipsini keselim)
-https://www.uludagsozluk.com/k/ferdi-tayfur-un-a%C4%9Fz%C4%B1/&w=bg 
-(bkz cumhurbaşkanı danışman yardımcılığı maaşları)
-https://eksisozluk.com/23-ekim-2019-ultraslanin-belhanda-aciklamasi--6223189?a=popular 
-(bkz abi artık açıklamaları starlink le okuyorum süper ya)
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-maa%C5%9F%C4%B1/&w=bg (bkz atatürk ün 73 milyon dolarlık yatı)
-(bkz erdogandan fazla kazanan belediye baskani)
-https://eksisozluk.com/ordu-belediye-baskaninin-250-bin-tl-maas-almasi--6220831?a=popular 
-https://www.youtube.com/watch?v=-f_DPrSEOEo
-https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (bkz abi anında tweet atınca ışık hızı)
 https://eksisozluk.com/entry/96899944 bkz abi uydunet diye bişey çıkmmış super lan
 https://eksisozluk.com/oyun-oynamayip-oynayanin-videosunu-izleyen-nesil--5908514?a=popular (bkz lol)
 https://eksisozluk.com/fatih-terim-neyin-imparatoru-sorunsali--6222978?a=popular (bkz where we @)
@@ -92,42 +68,14 @@ https://eksisozluk.com/entry/96899944 bkz abi uydunet diye bişey çıkmmış su
 https://www.uludagsozluk.com/k/izel-%C3%A7elik-ercan/&w=bg (bkz çelik in kazak işine girmesi)
 https://www.uludagsozluk.com/k/norm-ender-mekan%C4%B1n-sahibi-%C3%A7al%C4%B1nt%C4%B1/ (bzk lafa gelince 2pac marley
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ 
-https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/ (bkz 81 bin para mı lan it )
-(bkz bilal ile burak ın milyon dolarlık malikanelerini bilmeyen aktroller)
-https://www.uludagsozluk.com/k/allah-vs-tanr%C4%B1/&w=bg (bkz allah ve tanrının olduğunu sanan tipler)
-https://www.youtube.com/watch?v=aeytLBm62eo bkz bilalin millyon eurolardan çerez gibi bahsetmesi
-https://www.uludagsozluk.com/k/jean-michael-seri/&w=gd (bkz kardaşım köz geti seri)
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-(bkz tayyibin 81000 lira maaş aldığını sanan zombiler kaç 81000 lan salak zombiler yahu 5 le çarp onu)
-(bkz 81 ilde tek devlet tek millet tek vatan diyip ikili görüşmeleri yapmak kolay mı sanıyosunuz)
-https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
-(bkz hayallerde yaşıyor bazı zombiler)
 https://www.uludagsozluk.com/k/tanr%C4%B1n%C4%B1n-bizimle-sims-oynad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 (bkz mısıroğlu rok tezcan tayyar gökçek inci ) (bkz mahsun ibo izzet alişan)
-https://www.uludagsozluk.com/k/m%C4%B1s%C4%B1ro%C4%9Flu-rok-tezcan-tayyar-g%C3%B6k%C3%A7ek-inci/&w=bg
-(bkz emre morun yürüdüğü kızın kayın pederin pisisini ısıran kız çıkması)
-(bkz düğün günü damadın pisini ısırıp koparan kayın peder)
 (bkz ikili görüşmelerin yapıldığı toprak bütünlüğünün ehemmiyetinin konuşulduğu saray)
 https://www.uludagsozluk.com/k/putin-in-misafir-a%C4%9F%C4%B1rlad%C4%B1%C4%9F%C4%B1-saray/  (bkz ikili görüşmeler)
-(bkz ben sizin babanızım ben dersem o olur öl de baba ölelim eywallah)
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-laiklerin-babas%C4%B1d%C4%B1r/
-(bkz fesli bunak resmi sitesinin kapanması)
-https://www.uludagsozluk.com/k/fesli-bunak-osmanl%C4%B1da-ya%C5%9Fasa-adam-yerine-konmazd%C4%B1/
-http://www.hurriyet.com.tr/haberleri/tecavuz (bkz damat tecavüz haberleri)
-https://www.uludagsozluk.com/k/gaziantepte-bir-ayda-iki-kez-damat-bo%C4%9Faz%C4%B1-kesildi/ 
-(bkz internethaber.com a damadın pipisini yollayan katın peder)
-(bkz düğün günü damadın pipisini kesip metrobüse atan kayın peder)
-(bkz fatih tezcanın kamalcılara döşediği boru)(bkz fesli bunağın fatih tezcanı işe alması)
 https://www.uludagsozluk.com/k/4000-liradan-ucuz-telefon-kullanan-tip/&w=bg (bkz huawei mate x imle güldüğüm tiptir evet)
-(bkz zabıtanın fatih tezcan analiz merkezinin kapısına kilit vurması)
-(bkz metrobüste kadınların kalçasını ellemeyen erkekimsi)(bkz damadının pipisini kesip metrbüse atan kayınpeder)
-https://www.youtube.com/watch?v=N4_nQF-CpBY bkz aydemir akbaşın  galatasaray için karıyı satması
 https://www.uludagsozluk.com/e/42319826/ bkz lol
 https://www.uludagsozluk.com/k/istanbul-da-insanlar-nas%C4%B1l-ya%C5%9F%C4%B1yor/ https://twitter.com/kamilmakarna/status/1024737292123037696)
-(bkz metrobüste kadınların götüne bakmayan sapık)
-(bkz kadınların soyunma kabinine kamera koyan müezzin)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-(bkz düğün günü damadını pisini kesen elti)(bkz metrobüste kadının kalçasına dayayan sapık)
 https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)
 (bkz upskirt videolar çekip xhamstera atan tico from columbia)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd (bkz emine erdoğan)
