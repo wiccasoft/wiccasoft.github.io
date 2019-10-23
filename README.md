@@ -6,7 +6,7 @@
 <!-- https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP
 https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-us-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP
 -->
-[![Image](smartdata/sailor.png)]( https://www.youtube.com/watch?v=PyrvsrOk0pA )
+[![Image](smartdata/sailor.png)]( https://www.youtube.com/watch?v=KAbQaTea0bU )
 <!--https://www.theguardian.com/world/2019/oct/20/superyacht-linked-to-jho-low-and-1mdb-scandal-for-sale-again-for-an-extra-74m-->
 [![Image](smartdata/softbank.png)]( https://www.youtube.com/watch?v=z_k3DsKC9o8 )
 <!--https://www.reuters.com/article/us-wework-softbank-group/softbank-seeks-to-avoid-weworks-liabilities-with-new-investment-sources-idUSKBN1WY0OJ-->
