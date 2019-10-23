@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 (bkz kaınların soyunma kabinine kamera koyan müezzin)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz düğün günü damadını pisini kesen elti)(bkz metrobüste kadının kalçasına dayayan dapık)
+(bkz upskirt videolar çekip xhamstera atan tico from columbia)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd (bkz emine erdoğan)
 https://eksisozluk.com/gerdek-gecesi-icin-instagramdan-dua-isteyen-gelin--6222232?a=popular (bkz emine erdoğan)
 https://www.uludagsozluk.com/e/39564027/ bkz lol aferim lan çalışın mübarekler
