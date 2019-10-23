@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+(bkz emre morun yürüdüğü kız)
 (bkz düğün günü damadın pisini ısırıp koparan kayın peder)
 (bkz ikili görüşmelerin yapıldığı toprak bütünlüğünün ehemmiyetinin konuşulduğu saray)
 https://www.uludagsozluk.com/k/putin-in-misafir-a%C4%9F%C4%B1rlad%C4%B1%C4%9F%C4%B1-saray/  (bkz ikili görüşmeler)
