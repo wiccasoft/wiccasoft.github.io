@@ -39,6 +39,7 @@ https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi po
 (bkz türkiyede brit pop trip hop deep house un tutmama nedenleri)
 (bkz türkiyede rap arabesk rap in populer olma nedenleri)
 https://www.uludagsozluk.com/k/adolf-hitler-hayran%C4%B1-tipler/ (bkz kurtlar vadisiyle büyüyen nesil)
+https://eksisozluk.com/malum-sahis-81500-lirayi-nereye-harciyor--6223316?a=popular (bkz yedi bölgede 81 ilde)
 marley ve 2pac ile büyümüş biri olarak marley ve 2pacın boku olamayacak tiplerin türkiyede fenomen olması bkz şaşırtmadı
 (bkz şimdi bu norm ender çocuk sahibi olacak çocukları o klibi izleyecekler falan ne acı ya)
 (bkz marley ve 2pac a a giydirmek lol)
