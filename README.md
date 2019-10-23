@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fehirli-k%C4%B1z%C4%B1-vs-k%C3%B6yl%C3%BC-k%C4%B1z%C4%B1/ (bkz köylülerin şehirleri basması)
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar%C4%B1n-sevilmeme-nedenleri/ (bkz istanbulu ele geçirmeleri)
 https://www.uludagsozluk.com/k/oturulan-apartman%C4%B1n-zemin-kat%C4%B1nda-bim-olmas%C4%B1/ (bkz low level hayat)
 https://www.uludagsozluk.com/k/huawei-iphone-dan-iyi-diyen-tip/ (bkz huawei mate x i olmayan ezik)
