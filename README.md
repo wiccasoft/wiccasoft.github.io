@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi popçu topçu dışınd kimsenin siklenmemesi)
+https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi popçu topçu dışında kimsenin siklenmemesi)
 (bkz türkiyede brit pop trip hop deep house un tutmama nedenleri)
 (bkz türkiyede rap arabesk rap in populer olma nedenleri)
 https://www.uludagsozluk.com/k/adolf-hitler-hayran%C4%B1-tipler/ (bkz kurtlar vadisiyle büyüyen nesil)
