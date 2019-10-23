@@ -33,8 +33,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!-- 
-https://www.uludagsozluk.com/k/ferdi-tayfur-un-a%C4%9Fz%C4%B1/&w=bg (bkz öpülesi ağızdır)
+<!--
+(bkz hadi gel köyümüze geri dönelim fadimenin düğününde damadın pipsini keselim)
+https://www.uludagsozluk.com/k/ferdi-tayfur-un-a%C4%9Fz%C4%B1/&w=bg 
 (bkz cumhurbaşkanı danışman yardımcılığı maaşları)
 https://eksisozluk.com/23-ekim-2019-ultraslanin-belhanda-aciklamasi--6223189?a=popular 
 (bkz abi artık açıklamaları starlink le okuyorum süper ya)
