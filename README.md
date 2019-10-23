@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 marley ve 2pac ile büyümüş biri olarak marley ve 2pacın boku olamayacak tiplerin türkiyede fenomen olması bkz şaşırtmadı
 (bkz şimdi bu norm ender çocuk sahibi olacak çocukları o klibi izleyecekler falan ne acı ya)
-https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2 paca a giydirmek)
+https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2pac a a giydirmek lol)
 https://www.uludagsozluk.com/k/gluk-gluk-fayt-kulup/ (bkz rap dinleyenlerin 24 yaşından küçük olduğu gerçeği)
 (bkz kurtlar vadisi behzat ç çukur biliumum aptal dizi ile büyüyen nesil)
 (bkz sonra döndüm ve dedim ki iyi ki x kuşağıyım)
