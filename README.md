@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 (bkz metrobüste kadınların kalçasını ellemeyen erkekimsi)
-https://www.youtube.com/watch?v=N4_nQF-CpBY bkz aydemir akbaşın  galatsaray için karıyı satması
+https://www.youtube.com/watch?v=N4_nQF-CpBY bkz aydemir akbaşın  galatasaray için karıyı satması
 https://www.uludagsozluk.com/e/42319826/ bkz lol
 https://www.uludagsozluk.com/k/istanbul-da-insanlar-nas%C4%B1l-ya%C5%9F%C4%B1yor/ https://twitter.com/kamilmakarna/status/1024737292123037696)
 (bkz metrobüste kadınların götüne bakmayan sapık)
