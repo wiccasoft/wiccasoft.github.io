@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+http://www.hurriyet.com.tr/haberleri/tecavuz (bkz damat tecavüz haberleri)
 https://www.uludagsozluk.com/k/gaziantepte-bir-ayda-iki-kez-damat-bo%C4%9Faz%C4%B1-kesildi/ 
 (bkz internethaber.com a damadın pipisini yollayan katın peder)
 (bkz düğün günü damadın pipisini kesip metrobüse atan kayın peder)
