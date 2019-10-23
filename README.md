@@ -37,7 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 (bkz amerikan networkündesiniz hala)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-%C3%BClkeyi-kurtar%C4%B1rken-videosunun-olmamas%C4%B1/&w=bg
 (bkz birisi aktrollere endüstri devriminin bittiğini devletlerin öldüğünü liberalizmin kazandığını anlatsın bi zahmet)
-(bkz aktrollerin amerikan donuyla yine hayallere dalması))
+(bkz aktrollerin amerikan donuyla yine hayallere dalması)
 https://www.uludagsozluk.com/k/abd-ye-sormadan-rusya-ile-antla%C5%9Fma-imzalamak/ (bkz lol)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-%C3%BClkeyi-kurtar%C4%B1rken-videosunun-olmamas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi/
