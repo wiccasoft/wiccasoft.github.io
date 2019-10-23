@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
-https://www.youtube.com/watch?v=Cvf4aeRLu0E bkz bilalin millyon euroları
+https://www.youtube.com/watch?v=aeytLBm62eo bkz bilalin millyon euroları
 https://www.uludagsozluk.com/k/jean-michael-seri/&w=gd (bkz kardaşım köz geti seri)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz tayyibin 81000 lira maaş aldığını sanan zombiler kaç 81000 lan salak zombiler yahu 5 le çarp onu)
