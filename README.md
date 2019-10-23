@@ -38,9 +38,8 @@ https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak/&w=bg (bk
 https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-sevgilisine-eni%C5%9Fte-diyen-adam/ (bkz imamoğlu)
 https://www.youtube.com/watch?v=-AdnJiuDGVU
-(bkz imamın oğlu bilmem neyin oğlu kiziroğlu gibi) (bkz kilimcininköroğlu )
-(bkz türklerin soyadlarıyla soyuyla övünmeleri durumu sanırım) 
-(bkz türklerin genelde oğlu soyadlı bitmesi durumu)(bkz firmalarada kendi soyalarını koymaları durumu)(bkz irdelenmeli)
+(bkz türklerin soyadlarıyla soylarıyla övünmeleri durumu sanırım)  (bkz kilimcininköroğlu )
+(bkz türklerin genelde oğlu soyadlı bitmesi durumu)(bkz firmalarada kendi soyaflarını koymaları durumu)
 (bkz türklerin soyadından firma kurma sebebi)(köfteci yusuf imamoglu ağaoğlu inşaat... koçgrubu..sabancı ..)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg (bkz imamoglu insaat)
 https://eksisozluk.com/whoa-it-workedun-turkcesi--6223235?a=popular (bkz lol)
