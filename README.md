@@ -39,7 +39,7 @@ https://www.uludagsozluk.com/k/istanbul-da-insanlar-nas%C4%B1l-ya%C5%9F%C4%B1yor
 (bkz metrobüste kadınların götüne bakmayan sapık)
 (bkz kaınların soyunma kabinine kamera koyan müezzin)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-(bkz düğün günü damadını pisini kesen elti)(bkz metrobüste kadının kalçasına dayayan dapık)
+(bkz düğün günü damadını pisini kesen elti)(bkz metrobüste kadının kalçasına dayayan sapık)
 https://www.uludagsozluk.com/k/galatasaray/&w=bg (bkz gavatların takımı)
 (bkz upskirt videolar çekip xhamstera atan tico from columbia)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd (bkz emine erdoğan)
