@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz marley ve 2pac a a giydirmek lol) 
 (bkz türkiyede top tepicilere allah gibi davranılma sebepleri)
 (bkz türkiyede devlet adamlarına siyasetçilere allah gibi davranılma sebepleri)
 https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi popçu topçu dışında kimsenin siklenmemesi)
@@ -42,7 +43,7 @@ https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi po
 https://www.uludagsozluk.com/k/adolf-hitler-hayran%C4%B1-tipler/ (bkz kurtlar vadisiyle büyüyen nesil)
 marley ve 2pac ile büyümüş biri olarak marley ve 2pacın boku olamayacak tiplerin türkiyede fenomen olması bkz şaşırtmadı
 (bkz şimdi bu norm ender çocuk sahibi olacak çocukları o klibi izleyecekler falan ne acı ya)
-https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2pac a a giydirmek lol)
+(bkz marley ve 2pac a a giydirmek lol)
 https://www.uludagsozluk.com/k/gluk-gluk-fayt-kulup/ (bkz rap dinleyenlerin 24 yaşından küçük olduğu gerçeği)
 (bkz r&b blues jazz trance psy trance in in türkiyede tutmama nedenleri)
 (bkz kurtlar vadisi behzat ç çukur biliumum aptal dizi ile büyüyen nesil)
