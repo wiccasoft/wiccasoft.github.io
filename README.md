@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz tayyip danışmanlığı yardımcılığı maaşları)
+https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
 (bkz aa bu benim lan 29 inch monitörümle 5 inclik telefona işletim sistemi yazıyorum hayat bana güzel)
 https://www.uludagsozluk.com/k/bu-devirde-hala-masa%C3%BCst%C3%BC-bilgisayar-kullanan-fakir/&w=bg
 (bkz tayyibin diyanete ayırdığı bütçe)
