@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!-- 
 (bkz tayyip ne kadar süper laaaaaaaaan)
 https://www.tccb.gov.tr/en/ bkz tayybini müslüman dini liderler zirversinde yaptığı konuşma
+https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ 
 https://www.yenicaggazetesi.com.tr/cumhurbaskaninin-zamli-maasi-81-bin-250-lira-253425h.htm 
 bkz https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ 
 (bkz hayllerde yaşayan 3 cmlik pipili sevgili)
