@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg (bkz lafa gelince 2pac marley)
 https://eksisozluk.com/selcuk-mizraklinin-pkk-marsi-okumasi--6223205?a=popular (bkz selçuk mızraklı kim aq)
 (bkz marley ve 2pac a giydirmek lol) 
 https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi popçu topçu dışında kimsenin siklenmemesi)
