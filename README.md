@@ -34,12 +34,12 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-marley ve 2pacın boku olamayscak tiplerin türkiyede fenomen olması bkz şaşırtmadı
-(bkz şimdi bu norma ender çocuk sahibi olacak o klibi izleyecekler falan ne acı amk))
+marley ve 2pacın boku olamayacak tiplerin türkiyede fenomen olması bkz şaşırtmadı
+(bkz şimdi bu norma ender çocuk sahibi olacak o klibi izleyecekler falan ne acı amk)
 (bkz tek bildiği rap glu gluk faytgluk ile norm ender olan nesil)
 https://www.uludagsozluk.com/k/enes-abi-anami-sik/&w=bg (bkz sen yerinde duurr karşında norm enderr 2pac marley giydireyy)
 (bkz norm ender bebesinin zenci rapçilerle gangbang yapmak istemesi)
-https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2 paca a giydirmek asdasdasda)
+https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2 paca a giydirmek)
 https://www.uludagsozluk.com/k/gluk-gluk-fayt-kulup/ (bkz rap dinleyenlerin 24 yaşından küçük olduğu gerçeği)
 (bkz eminde erdoğanın uzun adam ile pompa yaptığı gerçeği)
 https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz lafa gelince 2pac marley reis)
