@@ -35,10 +35,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 (bkz mısıroğlu rok tezcan tayyar gökçek inci ) (bkz mahsun ibo izzet alişan)
-https://www.uludagsozluk.com/k/23-%C5%9Fubat-2020-fenerbah%C3%A7e-galatasaray-ma%C3%A7%C4%B1/&w=bg (bkz reserved)
-(bkz akpkk)
-https://www.uludagsozluk.com/k/akp-pkk-dan-daha-b%C3%BCy%C3%BCk-bir-tehdittir/&w=bg
-bkz 06melih in tayyar la tezcanı övmesi
 https://www.uludagsozluk.com/k/m%C4%B1s%C4%B1ro%C4%9Flu-rok-tezcan-tayyar-g%C3%B6k%C3%A7ek-inci/&w=bg
 (bkz emre morun yürüdüğü kızın kayın pederin pisisini ısıran kız çıkması)
 (bkz düğün günü damadın pisini ısırıp koparan kayın peder)
