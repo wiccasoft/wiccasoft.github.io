@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!-- 
 https://www.youtube.com/watch?v=-f_DPrSEOEo
 https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular 
-(bkz abi uydu net diye bişey bulmuşla super olm ya )
+(bkz abi uydu net diye bişey bulmuşla super olm ya ) abi şimdi nsa bizi izlemeyecek olm ya
 (bkz ikili görüşmelerin ve suriyenin toprak bütünülüğü konusunda hem fikir olunan tarihi saray)
 https://eksisozluk.com/galatasarayin-son-27-avrupa-maci--6223099?a=popular (bkz saha bütünlüğü)
 https://eksisozluk.com/putinin-erdoganin-onundeki-haritayi-kaldirtmasi--6222877?a=popular (bkz toprak bütünlüğü)
