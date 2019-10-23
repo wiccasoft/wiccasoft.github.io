@@ -35,7 +35,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 https://www.youtube.com/watch?v=-f_DPrSEOEo
-https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (bkz whohaaaaait worked man)
+https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular 
+(bkz abi uydu net diye bişey bulmuşla super olm ya )
 (bkz ikili görüşmelerin ve suriyenin toprak bütünülüğü konusunda hem fikir olunan tarihi saray)
 https://eksisozluk.com/galatasarayin-son-27-avrupa-maci--6223099?a=popular (bkz saha bütünlüğü)
 https://eksisozluk.com/putinin-erdoganin-onundeki-haritayi-kaldirtmasi--6222877?a=popular (bkz toprak bütünlüğü)
