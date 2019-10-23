@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg (bkz destansı rap savaşları fb - gs)
 https://www.uludagsozluk.com/k/81-bin-lira-maa%C5%9F-ile-yap%C4%B1labilecekler/ (bkz 81 ili gezmek)
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/ 
 (bkz den de 7 milyarın sahibiyim orospunun sıçtığının oğlu)
