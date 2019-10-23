@@ -36,16 +36,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 marley ve 2pac ile büyümüş biri olarak marley ve 2pacın boku olamayacak tiplerin türkiyede fenomen olması bkz şaşırtmadı
 (bkz şimdi bu norm ender çocuk sahibi olacak çocukları o klibi izleyecekler falan ne acı ya)
-https://www.uludagsozluk.com/k/enes-abi-anami-sik/&w=bg (bkz sen yerinde duurr karşında norm enderr 2pac marley giydireyy)
-(bkz norm ender bebesinin zenci rapçilerle gangbang yapmak istemesi)
 https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2 paca a giydirmek)
 https://www.uludagsozluk.com/k/gluk-gluk-fayt-kulup/ (bkz rap dinleyenlerin 24 yaşından küçük olduğu gerçeği)
-(bkz eminde erdoğanın uzun adam ile pompa yaptığı gerçeği)
-https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz lafa gelince 2pac marley reis)
-(bkz gerdek gecesi dua eden türbanlının bilali doğurması)
-(bkz emine erdoganın siirtli olduğunu unutan nesil)
-https://www.uludagsozluk.com/k/yeni-nesildeki-k%C3%BCrt-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/ 
-https://www.uludagsozluk.com/k/emine-erdo%C4%9Fan-%C4%B1n-%C3%A7antas%C4%B1/&w=bg (bkz myanmarın dış borcu ödenir o parayla)
 (bkz kurtlar vadisi behzat ç çukur biliumum aptal dizi ile büyüyen nesil)
 (bkz sonra döndüm ve dedim ki iyi ki x kuşağıyım)
 https://eksisozluk.com/z-kusagindaki-aptallikta-israr-motivasyonu--6223293?a=popular (bkz siklenmeyen nesil)
