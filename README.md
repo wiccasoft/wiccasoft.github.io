@@ -34,13 +34,13 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n&w=gd/2/ (bkz muhteşem olay)
 https://www.uludagsozluk.com/k/kendi-maa%C5%9F%C4%B1na-7-bin-lira-zam-yapan-akpli/ (bkz damat yapmış haberim yok)
 https://www.youtube.com/watch?v=FFkBaGqXLig
 https://www.uludagsozluk.com/k/her-%C5%9Fey-%C3%A7ok-g%C3%BCzel-olacak/&w=bg (bkz her şey çok güzel zaten)
 https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-sevgilisine-eni%C5%9Fte-diyen-adam/ (bkz imamoğlu)
 https://www.youtube.com/watch?v=-AdnJiuDGVU
-https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n&w=gd/2/ (bkz muhteşem olay)
 (bkz türklerin soyadlarıyla soylarıyla övünmeleri durumu sanırım)  (bkz kilimcininköroğlu )
 (bkz türklerin genelde oğlu soyadlı bitmesi durumu)(bkz firmalarada kendi soyadlarını koymaları durumu)
 (bkz türklerin soyadından firma kurma sebebi)(köfteci yusuf imamoglu ağaoğlu inşaat... koçgrubu..sabancı ..)
