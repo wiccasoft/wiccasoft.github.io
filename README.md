@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+ (bkz ikili görüşmelerin yapıldığı toprak bütünlüğünün ehemmiyetinin konuşulduğu saray)
 https://www.uludagsozluk.com/k/putin-in-misafir-a%C4%9F%C4%B1rlad%C4%B1%C4%9F%C4%B1-saray/  (bkz ikili görüşmeler)
 (bkz ben sizin babanızım ben dersem o olur öl de baba ölelim eywallah)
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-laiklerin-babas%C4%B1d%C4%B1r/
