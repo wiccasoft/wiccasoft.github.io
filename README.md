@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/e/42319826/ bkz lol
 (bkz kaınların soyunma kabinine kamera koyan müezzin)
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 (bkz düğün günü damadını pisini kesen elti)(bkz metrobüste kadının kalçasına dayayan dapık)
