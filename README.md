@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
 (bkz kan tutan kasapın yaşı)(bkz kurtlar vadisiyle büyüyen ergenler)
 https://www.uludagsozluk.com/k/ek%C5%9Fideki-1999-y%C4%B1l%C4%B1nda-girilmi%C5%9F-entry-ler/&w=bg
+https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (bkz pffff whooaa it worked)
 https://www.uludagsozluk.com/k/izel-%C3%A7elik-ercan/&w=bg (bkz çelik in kazak işine girmesi)
 https://www.uludagsozluk.com/k/norm-ender-mekan%C4%B1n-sahibi-%C3%A7al%C4%B1nt%C4%B1/ (bzk lafa gelince 2pac marley
 (bkz tayyipin ezanlarımızı sustaramaycaksınız açıklaması)(bkz tayyip ne kadar süper laaaaaaaaan)
