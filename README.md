@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz aa bu benim lan 29 inch monitörümle telefon işletim sisitemi yazıyorum hayat bana güzel)
+(bkz aa bu benim lan 29 inch monitörümle 5 inclik telefona işletim sistemi yazıyorum hayat bana güzel)
 https://www.uludagsozluk.com/k/bu-devirde-hala-masa%C3%BCst%C3%BC-bilgisayar-kullanan-fakir/&w=bg
 (bkz tayyibin diyanete ayırdığı bütçe)
 (bkz tayybin isveç bankalarındaki trilyonlarından haberi olmayan aktroller)
