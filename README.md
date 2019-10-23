@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/e/39564027/ bkz lol aferim lan çalışın mübarekler
 https://www.uludagsozluk.com/k/fatih-tezcan-a-bile-cevap-veremeyen-ezik-kemalist/m (bkz bile)
 bkz ikili görüşmelerde bulunmayı kolay sanmak https://www.youtube.com/watch?v=RHBoMuNszuk
 https://eksisozluk.com/tayyip-erdogani-herkesin-fircalamasi--6222871?a=popular
