@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/huawei-iphone-dan-iyi-diyen-tip/ (bkz huawei mate x i olmayan ezik evet)
+https://www.uludagsozluk.com/k/huawei-iphone-dan-iyi-diyen-tip/ (bkz huawei mate x i olmayan ezik)
 https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi/&w=gd (bkz lol)
 https://arstechnica.com/information-technology/2016/10/how-the-nsa-could-put-undetectable-trapdoors-in-millions-of-crypto-keys/
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-bok-emojisiyle-kaydeden-k%C4%B1z/ (bkz lol)
