@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
 bkz ikili görüşmelerde bulunmayı kolay sanmak
-bkz bir saray bana bir topkek size bkz damdın maaşıma 350.000+7.000 maaş yapması :))))
+bkz bir saray bana bir topkek size bkz damdın maaşıma zam yapması 400.000 tl oldu :))))
 https://eksisozluk.com/kina-gecesinde-damadinin-bogazini-kesen-kayinpeder--6222909?a=popular
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz damadın taşşak geçmesi
 https://eksisozluk.com/tayyip-erdogani-herkesin-fircalamasi--6222871?a=popular (bkz boruyu döşemek)
