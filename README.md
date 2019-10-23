@@ -34,13 +34,13 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.youtube.com/watch?v=-AdnJiuDGVU
 (bkz türklerin genelde oğlu soyadlı bitmesi durumu)(bkz firmalarada kendi soyalarını koymaları durumu)(bkz irdelenmeli)
 (bkz türklerin soyadından firma kurma sebebi)(köfteci yusuf imamoglu ağaoğlu inşaat... koçgrubu..sabancı ..)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg (bkz imamoglu insaat)
 https://eksisozluk.com/whoa-it-workedun-turkcesi--6223235?a=popular (bkz lol)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-maa%C5%9F%C4%B1/&w=bg (bkz sayanora yatı alacak kadar)
 https://www.uludagsozluk.com/k/internethaber-com/&w=bg bkz pipisini kesip damadına yedirdi
-https://www.youtube.com/watch?v=-AdnJiuDGVU
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-da-balon-%C3%A7%C4%B1kt%C4%B1/&w=bg (bkz imamoğlu inşaat)
 https://www.uludagsozluk.com/k/sevgilisinin-mini-etek-giymesine-izin-veren-erkek/&w=bg (bkz gavat)
 https://www.uludagsozluk.com/k/erkek-penisi/&w=bg (bkz gay pipisi)
