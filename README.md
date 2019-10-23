@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-sevgilisine-eni%C5%9Fte-diyen-adam/ (bkz imamoğlu)
 https://www.youtube.com/watch?v=-AdnJiuDGVU
 (bkz imamın oğlu bilmem neyin oğlu kiziroğlu gibi)
 (bkz türklerin soyadlarıyla soyuyla övünmeleri durumu sanırım)
