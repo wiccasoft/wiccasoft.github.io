@@ -38,7 +38,7 @@ https://www.uludagsozluk.com/k/ebu-berkecan-bin-muazzama/ (bkz seni karım yapac
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg (bkz destansı rap savaşları fb - gs)
 https://www.uludagsozluk.com/k/81-bin-lira-maa%C5%9F-ile-yap%C4%B1labilecekler/ (bkz 81 ili gezmek)
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/ 
-(bkz den de 7 milyarın sahibiyim orospunun sıçtığının oğlu)
+(bkz den de 7 milyarın sahibiyim orospunun evladı)
 https://eksisozluk.com/23-ekim-2019-ultraslanin-belhanda-aciklamasi--6223189?a=popular (bkz koyduk mu amk çocukları)
 https://eksisozluk.com/starlink--3622697?a=popular (bkz whoa koyduk mu)
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/ (bkz sahip bizi ibizaya götür)
