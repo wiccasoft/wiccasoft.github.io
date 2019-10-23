@@ -34,7 +34,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz amerikan networkündesiniz hala nsa knows what you did press last key)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-%C3%BClkeyi-kurtar%C4%B1rken-videosunun-olmamas%C4%B1/&w=bg
 (bkz birisi aktrollere endüstri devriminin bittiğini devletlerin öldüğünü liberalizmin kazandığını anlatsın bi zahmet)
 (bkz aktrollerin amerikan donuyla yine hayallere dalması)
