@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/ 
-(bkz den de 7 milyarın sahibiyim orospu nun sıçtığının oğlu)
+(bkz den de 7 milyarın sahibiyim orospunun sıçtığının oğlu)
 https://eksisozluk.com/23-ekim-2019-ultraslanin-belhanda-aciklamasi--6223189?a=popular (bkz koyduk mu amk çocukları)
 https://eksisozluk.com/starlink--3622697?a=popular (bkz whoa koyduk mu)
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/ (bkz sahip bizi ibizaya götür)
