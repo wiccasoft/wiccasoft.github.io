@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+(bkz düğün günü damadını pisini kesen elti)
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd (bkz emine erdoğan)
 https://eksisozluk.com/gerdek-gecesi-icin-instagramdan-dua-isteyen-gelin--6222232?a=popular (bkz emine erdoğan)
 https://www.uludagsozluk.com/e/39564027/ bkz lol aferim lan çalışın mübarekler
