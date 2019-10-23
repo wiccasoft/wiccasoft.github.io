@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+(bkz hayallerde yaşıyor bazı zombiler)
+https://www.uludagsozluk.com/k/tanr%C4%B1n%C4%B1n-bizimle-sims-oynad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 (bkz mısıroğlu rok tezcan tayyar gökçek inci ) (bkz mahsun ibo izzet alişan)
 https://www.uludagsozluk.com/k/m%C4%B1s%C4%B1ro%C4%9Flu-rok-tezcan-tayyar-g%C3%B6k%C3%A7ek-inci/&w=bg
 (bkz emre morun yürüdüğü kızın kayın pederin pisisini ısıran kız çıkması)
