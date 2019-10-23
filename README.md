@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ (bkz türk oğlu türk)
 https://www.uludagsozluk.com/k/t%C3%BCrker-ert%C3%BCrk/&w=bg (bkz türk oğlu türk)
 https://www.uludagsozluk.com/k/hdp-nin-meclisi-3-g%C3%BCn-boykot-etme-karari/ (bkz çen li konuşan gay iticiliği)
 (bkz karadenizde dağların denize paralel olması sebebiyle oksijen almadan büyüyen karadenizliler)
