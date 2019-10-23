@@ -34,7 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz kurtlar vadisiyle büyüyen nesil)
+(bkz kurtlar vadisi behzat ç ile büyüyen nesil)
 (bkz sonra döndüm ve dedim ki iyi ki x kuşağıyım)
 https://eksisozluk.com/z-kusagindaki-aptallikta-israr-motivasyonu--6223293?a=popular (bkz siklenmeyen nesil)
 https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F/&w=bg (bkz hugo da küfreden çocuk)
