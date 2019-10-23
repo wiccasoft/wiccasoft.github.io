@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz tayyibin diyanete ayırdığı bütçe)
 (bkz tayybin isveç bankalarındaki trilyonlarından haberi olmayan aktroller)
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-maa%C5%9F%C4%B1/&w=bg (bkz sayanora yatını iki maaş la almak)
 https://www.uludagsozluk.com/k/misvak-%C4%B1n-abd%C3%BClhamit-ve-rte-karikat%C3%BCr%C3%BC/
 (bkz cumhurbaşkanı danışman yardımcılığı maaşları)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
