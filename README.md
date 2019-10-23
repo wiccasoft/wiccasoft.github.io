@@ -35,7 +35,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 (bkz tayyibin diyanete ayırdığı bütçe)
-(bkz tayybin isveç bankalarındaki trilyonlarında haberi olmayan aktroller)
+(bkz tayybin isveç bankalarındaki trilyonlarından haberi olmayan aktroller)
 https://www.uludagsozluk.com/k/misvak-%C4%B1n-abd%C3%BClhamit-ve-rte-karikat%C3%BCr%C3%BC/
 (bkz cumhurbaşkanı danışman yardımcılığı maaşları)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
