@@ -38,7 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 (bkz marley ve 2pac a giydirmek lol) 
 https://www.uludagsozluk.com/k/martin-luther/&w=bg (bkz türkiyede siyasetçi popçu topçu dışında kimsenin siklenmemesi)
 (bkz türkiyede brit pop trip hop deep house un tutmama nedenleri)
-(bkz erdoganin ilk maaşıyle bira ısmarlaması)
+(bkz erdoganin ilk maaşıyla bira ısmarlaması)
 (bkz türkiyede rap arabesk rap in populer olma nedenleri)
 https://www.uludagsozluk.com/k/adolf-hitler-hayran%C4%B1-tipler/ (bkz kurtlar vadisiyle büyüyen nesil)
 https://eksisozluk.com/malum-sahis-81500-lirayi-nereye-harciyor--6223316?a=popular (bkz yedi bölgede 81 ilde)
