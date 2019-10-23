@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!-- 
 https://www.uludagsozluk.com/k/gerdek-gecesi-i%C3%A7in-dua-isteyen-t%C3%BCrbanl%C4%B1/&w=gd (bkz emine erdoğan)
 https://www.uludagsozluk.com/e/39564027/ bkz lol aferim lan çalışın mübarekler
+https://eksisozluk.com/falcaonun-yeni-lakabi--6198055?a=popular
 https://www.uludagsozluk.com/k/fatih-tezcan-a-bile-cevap-veremeyen-ezik-kemalist/m (bkz bile)
 bkz ikili görüşmelerde bulunmayı kolay sanmak https://www.youtube.com/watch?v=RHBoMuNszuk
 https://eksisozluk.com/tayyip-erdogani-herkesin-fircalamasi--6222871?a=popular
