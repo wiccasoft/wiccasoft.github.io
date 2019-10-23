@@ -34,9 +34,10 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz lafa gelince 2pac marley bebeler siz bende kaçın)
+https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz lafa gelince 2pac marley)
 (bkz gerdek gecesi dua eden türbanlının bilali doğurması)
-https://www.uludagsozluk.com/k/yeni-nesildeki-k%C3%BCrt-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/ (bkz emine erdoganın siirtli olduğunu unutan nesil)
+(bkz emine erdoganın siirtli olduğunu unutan nesil)
+https://www.uludagsozluk.com/k/yeni-nesildeki-k%C3%BCrt-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/ 
 https://www.uludagsozluk.com/k/emine-erdo%C4%9Fan-%C4%B1n-%C3%A7antas%C4%B1/&w=bg (bkz myanmarın dış borcu ödenir o parayla)
 (bkz kurtlar vadisi behzat ç çukur biliumum aptal dizi ile büyüyen nesil)
 (bkz sonra döndüm ve dedim ki iyi ki x kuşağıyım)
