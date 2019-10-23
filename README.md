@@ -36,7 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz şimdi bu norma ender çocuk sahibi olacak o klibi izleyecekler falan ne acı amk))
 (bkz tek bildiği rap glu gluk faytgluk ile norm ender olan nesil)
-https://www.uludagsozluk.com/k/enes-abi-anami-sik/&w=bg (bkz sen yerinde duurr karşında norm enderrrr)
+https://www.uludagsozluk.com/k/enes-abi-anami-sik/&w=bg (bkz sen yerinde duurr karşında norm enderrrr 2pac marley giydireyy)
 (bkz norm ender bebesinin zenci rapçilerle gangbang yapmak istemesi)
 https://www.uludagsozluk.com/k/norm-ender/&w=bg (bkz marley ve 2 paca a giydirmek asdasdasda)
 https://www.uludagsozluk.com/k/gluk-gluk-fayt-kulup/ (bkz rap dinleyenlerin 24 yaşından küçük olduğu gerçeği)
