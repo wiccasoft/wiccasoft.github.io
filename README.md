@@ -34,6 +34,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://eksisozluk.com/entry/96899944 bkz abi uydunet diye bişey çıkmmış super lan
+https://www.youtube.com/watch?v=-f_DPrSEOEo
 https://eksisozluk.com/oyun-oynamayip-oynayanin-videosunu-izleyen-nesil--5908514?a=popular (bkz lol)
 https://eksisozluk.com/fatih-terim-neyin-imparatoru-sorunsali--6222978?a=popular (bkz where we @)
 https://eksisozluk.com/entry/96901881 (bkz abi sen kocaman bi manyaksın ya)
@@ -48,14 +50,7 @@ https://eksisozluk.com/23-ekim-2019-elon-muskin-ilk-tweeti--6223088?a=popular (b
 https://eksisozluk.com/entry/96899944 bkz abi uydunet diye bişey çıkmmış super lan
 https://www.uludagsozluk.com/k/izel-%C3%A7elik-ercan/&w=bg (bkz çelik in kazak işine girmesi)
 https://www.uludagsozluk.com/k/norm-ender-mekan%C4%B1n-sahibi-%C3%A7al%C4%B1nt%C4%B1/ (bzk lafa gelince 2pac marley
-(bkz tayyipin ezanlarımızı sustaramaycaksınız açıklaması)(bkz tayyip ne kadar süper laaaaaaaaan)
-https://www.tccb.gov.tr/en/ bkz tayybin 3. müslüman dini liderler zirversinde yaptığı konuşma
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ 
-https://www.yenicaggazetesi.com.tr/cumhurbaskaninin-zamli-maasi-81-bin-250-lira-253425h.htm 
-bkz https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ 
-(bkz hayllerde yaşayan 3 cmlik pipili sevgili)
-https://www.uludagsozluk.com/k/20-cmden-ba%C5%9Fka-verecek-bir-%C5%9Feyim-yok-diyen-sevgili/&w=bg 
-(bkz tayyibin ayda 81 bin liraya tav olacağını sanan aktroller)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/ (bkz 81 bin para mı lan it )
 (bkz bilal ile burak ın milyon dolarlık malikanelerini bilmeyen aktroller)
 https://www.uludagsozluk.com/k/allah-vs-tanr%C4%B1/&w=bg (bkz allah ve tanrının olduğunu sanan tipler)
