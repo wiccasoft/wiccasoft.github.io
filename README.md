@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-maa%C5%9F%C4%B1/ (bkz 40 bin lira para mı lan it)
 (bkz tayyipin damadını kasaya oturtması)
 https://www.uludagsozluk.com/k/tayibin-maa%C5%9F%C4%B1n%C4%B1n-81-bin-tl-olmas%C4%B1/
 (bkz kan tutan kasapın yaşı)(bkz kurtlar vadisiyle büyüyen ergenler)
