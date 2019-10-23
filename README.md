@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/erkek-penisi/&w=bg (bkz gay pipisi)
 (bkz eniştesinin pipisini kesip eltisine yediren baldız)
 https://www.uludagsozluk.com/k/e%C5%9Fiyle-beraber-sevgilisinin-evinde-ya%C5%9Fayan-kad%C4%B1n/&w=gd
 https://www.uludagsozluk.com/k/500-bin-pornocu-tutuklanacak/&w=bg (bkz danddy d hariç de oç)
