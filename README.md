@@ -36,7 +36,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!-- 
 (bkz operasyon durmak teröristleri vuramamak var neden ateşkes yapmak)
 https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurmak-varken-ate%C5%9Fkes-yapmak/
-https://www.uludagsozluk.com/k/pkkl%C4%B1-ter%C3%B6ristlerin-kafa-kesme-ve-infaz-videolar%C4%B1/ (bkz)
 https://eksisozluk.com/cumhurbaskani-maasina-7-bin-lira-zam-yapilmasi--6222799?a=popular (bkz ikili görüşmelerde bulundu)
 https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/&w=gd (bkz smith sat onurlu yaşa)
 https://www.uludagsozluk.com/k/norm-ender-mekan%C4%B1n-sahibi-%C3%A7al%C4%B1nt%C4%B1/ (bkz lafa gelince 2pac marley)
