@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+https://www.uludagsozluk.com/k/vedat-milor-un-izmirlilere-verdi%C4%9Fi-tarihi-ayar/&w=gd (bkz smith sat onurlu yaşa)
 https://www.uludagsozluk.com/k/norm-ender-mekan%C4%B1n-sahibi-%C3%A7al%C4%B1nt%C4%B1/ (bkz lafa gelince 2pac marley)
 (bkz ikili görüşmelerin ve suriye toprak bürünlüğünün kahve eşliğine konuşulduğu salon)
 https://www.uludagsozluk.com/k/putin-in-misafir-a%C4%9F%C4%B1rlad%C4%B1%C4%9F%C4%B1-saray/
