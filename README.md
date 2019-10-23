@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!-- 
+(bkz internethaber.com a damadın pipisini yollayan katın peder)
 (bkz düğün günü damadın pipisini kesip metrobüse atan kayın peder)
 (bkz fatih tezcanın kamalcılara döşediği boru)(bkz fesli bunağın fatih tezcanı işe alması)
 https://www.uludagsozluk.com/k/4000-liradan-ucuz-telefon-kullanan-tip/&w=bg (bkz huawei mate x imle güldüğüm tiptir evet)
