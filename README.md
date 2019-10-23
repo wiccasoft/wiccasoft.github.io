@@ -34,6 +34,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz türkiye trip hop deep house un tutmama nedneleri)
 (bkz türkiyede rap arabesk rap in populer olma nedenleri)
 https://www.uludagsozluk.com/k/adolf-hitler-hayran%C4%B1-tipler/ (bkz kurtlar vadisiyle büyüyen nesil)
 marley ve 2pac ile büyümüş biri olarak marley ve 2pacın boku olamayacak tiplerin türkiyede fenomen olması bkz şaşırtmadı
