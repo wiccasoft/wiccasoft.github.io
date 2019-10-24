@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 (bkz tangır budun dogan gelince lgbt li ülkücülerin çoşması)
+https://www.uludagsozluk.com/k/ulunun-adam%C4%B1n-has%C4%B1-yazarlar%C4%B1/ (bkz tangır budun dogan ve lgbt tayfası)
 https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-komutan/&w=bg (bkz tangır büdon dogan ve lgbt tayfası)
 https://www.uludagsozluk.com/k/kerem-kupac%C4%B1/&w=bg (bkz kupaları toplayana budun)
 https://www.uludagsozluk.com/k/hane-ba%C5%9F%C4%B1na-gelir-3-kat-artt%C4%B1/ (bkz durduramıyoruz)
