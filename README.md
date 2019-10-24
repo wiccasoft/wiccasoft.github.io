@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/bu-devirde-instagram-kullanmayan-tip/&w=bg (bkz cia ajanı)
+https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-komutan/ (bkz tanfır bidondan prim  doğan)
 https://www.uludagsozluk.com/k/akp-nin-yeni-icad%C4%B1-konaklama-vergisi/ (bkz bbc türkçe twitterdan caps aldım nasılım ama)
 https://www.uludagsozluk.com/k/recep-tayyip-zam%C4%B1-kimden-istedi-sorunsal%C4%B1/ (bkz tc maliye bakanlığı resmi sitesi)
 https://www.uludagsozluk.com/k/albayrak%C4%B1n-adaletli-vergi-sistemi/ (bkz tc maliye bakanlığı resmi sitesi)
