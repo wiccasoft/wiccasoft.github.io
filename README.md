@@ -36,7 +36,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.youtube.com/watch?v=cs8mES3n0LY
+https://www.youtube.com/watch?v=cs8mES3n0LY 
+https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-komutan/&w=bg (bkz tangır budun doğan etkisi)
 https://www.uludagsozluk.com/k/ryan-madison/&w=bg (bkz tangır budun doğan gelince ülkücülerin çoşması)
 https://www.uludagsozluk.com/k/jonny-sins/&w=bg (bkz tangır budun doğan gelince ülkücülerin çoşması)
 (bkz tangır budun dogan gelince lgbt li ülkücülerin çoşması)
