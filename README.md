@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/e/42326916/ (bkz annesine ertesi gün hapı da alır bu gavatlar)
 https://www.uludagsozluk.com/e/42326810/  (bkz yav he he)
 https://www.uludagsozluk.com/e/42326627/ (bkz yav he he)
 https://eksisozluk.com/entry/96940204 (bkz lol)
