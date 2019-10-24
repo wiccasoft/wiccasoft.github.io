@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 (bkz 41 lik abilerin siklemediği 30lık abi öğütleri)
+https://www.uludagsozluk.com/k/hane-ba%C5%9F%C4%B1na-gelir-3-kat-artt%C4%B1/ (bkz para basalım refah artsın bro)
 https://www.uludagsozluk.com/k/otuzluk-abilerden-gen%C3%A7-s%C3%B6zl%C3%BCk-erkeklerine-%C3%B6%C4%9F%C3%BCtler/&w=bg 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-denince-akla-gelenler/&w=bg (bkz rakı içip 31 çeken amcalar)
 https://www.uludagsozluk.com/k/asgari-%C3%BCcretin-olmas%C4%B1-gereketi%C4%9Fi-rakam/ (bkz 100 yüzmülyon boluncuk)
