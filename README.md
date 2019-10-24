@@ -39,7 +39,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/dinazorlar%C4%B1n-helak-olmas%C4%B1n%C4%B1n-sebebi/&w=bg (bkz namaz kılmamak)
 https://www.uludagsozluk.com/k/joker-filminin-ele-aya%C4%9Fa-d%C3%BC%C5%9Fm%C3%BC%C5%9F-olmas%C4%B1/ (bkz lol)
-https://www.uludagsozluk.com/k/orkid-in-t%C3%BCrkiye-yi-karalama-reklam%C4%B1/&w=bg (bkz bunu anansa sorsana delikanlı)
+https://www.uludagsozluk.com/k/orkid-in-t%C3%BCrkiye-yi-karalama-reklam%C4%B1/&w=bg (bkz bunu anana sorsana delikanlı)
 https://www.uludagsozluk.com/e/42326916/ (bkz annesine ertesi gün hapı da alır bu gavatlar)
 https://www.uludagsozluk.com/e/42326810/  (bkz yav he he)
 https://www.uludagsozluk.com/e/42326627/ (bkz yav he he)
