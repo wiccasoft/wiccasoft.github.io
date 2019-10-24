@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
+https://www.uludagsozluk.com/k/asgari-%C3%BCcretin-olmas%C4%B1-gereketi%C4%9Fi-rakam/ (bkz 100 yüzmülyon boluncuk)
 https://www.uludagsozluk.com/k/hane-ba%C5%9F%C4%B1na-gelir-3-kat-artt%C4%B1/ (bkz üretmeyip zengin olmak isteyen tayfa)
 https://www.uludagsozluk.com/k/askeri-%C3%BCcretin-4000-tl-olmas%C4%B1/  (bkz tangır bidondandoğanın alması gereken maaş)
 https://www.uludagsozluk.com/k/asgari-%C3%BCcretin-olmas%C4%B1-gereketi%C4%9Fi-rakam/ (bkz tangır bidondandoğan)
