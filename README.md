@@ -38,7 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg (bkz peki)
-https://www.uludagsozluk.com/e/42325787/ (yav tengircim kitap oku diyorum dinlemiyosun ulusalcılık bitti artık
+https://www.uludagsozluk.com/e/42325787/ (yav tangirbidon kitap oku diyorum dinlemiyosun)
 (bkz eğer fotoğraf copyright değilse yapacak hiç bir şeyiniz yok sosyal medyaya atılan fotolar tck kapsamaına girmez)
 (bkz tangır bidon dogan çaylaklıktan çıkınca ülkücü sıkcıcı lgbt tayfasının deliklerinden çıkması )
 (bkz en büyük türk komutan bkz fatih tötem bkz bahçeye atlayan zıplayan adam)
