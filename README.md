@@ -37,6 +37,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
+(bkz istanbul hoştir ama banana)
+https://www.uludagsozluk.com/k/24-ekim-2019-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-trt-%C3%B6zel-yay%C4%B1n%C4%B1/ 
 https://www.uludagsozluk.com/e/42325622/ (bkz atacüce rte sedat peker süleyman çakır alaattin çakır kenankomutan)
 https://www.uludagsozluk.com/k/tanr%C4%B1ya-s%C3%B6ylenmek-istenenler/&w=bg (bkz tmm cnm kib )
 https://www.uludagsozluk.com/k/ho%C5%9Fgeldiniz-diyip-bir-daha-g%C3%B6r%C3%BCnmeyen-misafir-k%C4%B1z%C4%B1/&w=gd (bkz lol)
