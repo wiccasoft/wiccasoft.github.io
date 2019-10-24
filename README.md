@@ -44,6 +44,7 @@ https://www.uludagsozluk.com/k/orkid-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz lo
 https://www.uludagsozluk.com/k/shell-in-erkeklere-hakaret-etmesi/ (bkz lol)
 https://www.uludagsozluk.com/k/orkid-almay%C4%B1n-deyince-kuduran-kad%C4%B1n/ (bkz lol)
 https://www.uludagsozluk.com/k/sevgilisine-%C3%A7ikolatam-diyen-erkek/&w=bg (bkz nutella türkiye)
+https://www.uludagsozluk.com/k/harley-davidson-ahmet-davuto%C4%9Flu-akrabal%C4%B1%C4%9F%C4%B1/ (bkz lol)
 https://www.youtube.com/watch?v=WWjfUt8yZoc
 https://www.uludagsozluk.com/e/42323851/ (bkz lol)
 https://eksisozluk.com/entry/96899944 bkz lol
