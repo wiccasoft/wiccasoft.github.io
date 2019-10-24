@@ -37,7 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
-https://www.uludagsozluk.com/k/albayrak%C4%B1n-adaletli-vergi-sistemi/ (bkz tc maliye bakanlığı )
+https://www.uludagsozluk.com/k/albayrak%C4%B1n-adaletli-vergi-sistemi/ (bkz tc maliye bakanlığı resmi sitesi)
 https://www.uludagsozluk.com/k/recep-tayyip-zam%C4%B1-kimden-istedi-sorunsal%C4%B1/ (bkz damattan)
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg (bkz peki)
 https://www.uludagsozluk.com/e/42325787/ (bkz intellectual property rights)
