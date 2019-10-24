@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY 
+https://www.uludagsozluk.com/k/akp-nin-yeni-icad%C4%B1-konaklama-vergisi/ (bkz tangır busun doganın vergi vermemesi)
 https://www.uludagsozluk.com/k/umut-kurt/&w=bg (bkz tangır budun gelince hareketlenen sözlük)
 https://www.uludagsozluk.com/k/eski-%C3%A7ekicili%C4%9Fini-kaybetmi%C5%9F-erkek/ (bkz tangır budun dogan sen misin)
 https://www.uludagsozluk.com/k/enes-kanter/&w=gd (bkz tangır budun dogan gelince hareketlenen sözlük)
