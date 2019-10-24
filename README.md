@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 (bkz 41 lik abilerin siklemediği 30lık abi öğütleri)
+https://www.uludagsozluk.com/k/o%C4%9Fuzhan-%C3%B6zyakup/&w=bg (bkz çağrılmayan yakup)
 https://www.uludagsozluk.com/k/akp-ile-vergiye-do%C4%9Fru/ (bkz libarela ekonomi isteyip ağlayan kamalcılar)
 https://www.uludagsozluk.com/k/hane-ba%C5%9F%C4%B1na-gelir-3-kat-artt%C4%B1/ (bkz 1 lirayı 3 lira yapalım dnegelensin)
 https://www.uludagsozluk.com/k/otuzluk-abilerden-gen%C3%A7-s%C3%B6zl%C3%BCk-erkeklerine-%C3%B6%C4%9F%C3%BCtler/&w=bg 
