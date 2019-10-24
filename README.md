@@ -39,10 +39,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/recep-tayyip-zam%C4%B1-kimden-istedi-sorunsal%C4%B1/ (bkz tc maliye bakanlığı resmi sitesi)
 https://www.uludagsozluk.com/k/albayrak%C4%B1n-adaletli-vergi-sistemi/ (bkz tc maliye bakanlığı resmi sitesi)
-https://www.uludagsozluk.com/k/recep-tayyip-zam%C4%B1-kimden-istedi-sorunsal%C4%B1/ (bkz damattan)
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg (bkz peki)
 https://www.uludagsozluk.com/e/42325787/ (bkz intellectual property rights)
-(bkz beş metreden atlayan spor amaçlı adam videosuna 31 çekebilirsiniz)
+(bkz beş metreden atlayan spor amaçlı adam videosuna 31 çekebilirsiniz suç işlemezsiniz)
 https://www.uludagsozluk.com/k/5-metre-y%C3%BCksekten-bah%C3%A7eye-spor-ama%C3%A7l%C4%B1-atlayan-adam/
 (bkz eğer fotoğraf copyright değilse sosyal medyaya atılan fotolar tck kapsamına girmez)
 (bkz Jessica chastain fatih terim cübbeli fotosuna maturbasyon yaptığınız için tutuklanmazsınız raad olun genşler)
