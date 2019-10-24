@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.uludagsozluk.com/k/tanr%C4%B1ya-s%C3%B6ylenmek-istenenler/&w=bg (bkz tmm cnm kib )
 https://www.uludagsozluk.com/k/ho%C5%9Fgeldiniz-diyip-bir-daha-g%C3%B6r%C3%BCnmeyen-misafir-k%C4%B1z%C4%B1/&w=gd (bkz lol)
+https://www.uludagsozluk.com/k/orkid-in-t%C3%BCrkiye-yi-karalama-reklam%C4%B1/ (bkz lol)
 https://www.uludagsozluk.com/e/42323851/ (bkz lol)
 https://eksisozluk.com/entry/96899944 bkz lol
 https://www.uludagsozluk.com/e/42320891/ (bkz lol)
