@@ -2,6 +2,8 @@
 <!--https://www.youtube.com/watch?v=PyrvsrOk0pA-->
 [![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
+[![Image](almanac/greatpearl.png)]( https://www.youtube.com/watch?v=I5lRLhZ1dkg )
+
 [![Image](almanac/tr-ru.png)]( https://www.youtube.com/watch?v=IjsPmjqmcvs )
 <!-- https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP
 https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-us-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP
