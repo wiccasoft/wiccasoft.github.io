@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/say%C4%B1n-cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-%C3%BCzerine-bast%C4%B1%C4%9F%C4%B1-hal%C4%B1/( bkz akp nin yeni icadı)
+https://www.uludagsozluk.com/k/annesinin-uyu%C5%9Fturucu-verdi%C4%9Fi-10-ayl%C4%B1k-bebek/ (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/enes-kanter/  (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/istanbul-havaliman%C4%B1/&w=bg (bkz akp nin yeni icadı))
 https://www.uludagsozluk.com/k/abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=bg (bkz akp nin yeni icadı)
