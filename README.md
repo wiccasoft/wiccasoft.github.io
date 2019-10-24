@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
+https://www.uludagsozluk.com/k/atat%C3%BCrk-denince-akla-gelenler/&w=bg (bkz tangır bidondandoğan)
 https://www.uludagsozluk.com/k/bu-devirde-instagram-kullanmayan-tip/&w=bg (bkz cia ajanı)
 https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-komutan/ (bkz tangır bidondandoğan)
 https://www.uludagsozluk.com/k/akp-nin-yeni-icad%C4%B1-konaklama-vergisi/ (bkz bbc türkçe twitterdan caps aldım nasılım ama)
