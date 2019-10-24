@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY 
+https://www.uludagsozluk.com/k/mutant-imam-pe%C5%9Fimi-b%C4%B1rak/ (blz tangır budun doganın yedek hesapları)
 https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-komutan/ (bkz tangır budun dogan)
 https://www.uludagsozluk.com/k/mutant-imam-pe%C5%9Fimi-b%C4%B1rak/ (bkz tamam)
 https://www.uludagsozluk.com/k/jokerin-asl%C4%B1nda-adam-olmas%C4%B1/ (bkz tangır budun ve lgbt tayfası)
