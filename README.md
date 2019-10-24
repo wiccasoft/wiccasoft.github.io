@@ -36,6 +36,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://eksisozluk.com/entry/96899944 bkz lol
 https://www.uludagsozluk.com/e/42320891/ (bkz lol)
+https://www.uludagsozluk.com/e/42323737/ (bkz lol)
 https://www.uludagsozluk.com/k/16-milyon-insan%C4%B1n-sahibi-olarak/&w=gd (bkz lol)
 https://www.uludagsozluk.com/k/istanbul-da-insanlar-nas%C4%B1l-ya%C5%9F%C4%B1yor/ https://twitter.com/kamilmakarna/status/1024737292123037696)
 https://www.youtube.com/watch?v=j3VSxdd1OUY
