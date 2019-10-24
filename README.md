@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/e/42326311/ (bkz akp nin yeni icadı)
+https://eksisozluk.com/dag-gibi-adamlarin-minyon-kadin-tercihi--6224585?a=popular (bkz lol)
 https://www.youtube.com/watch?v=4RpMzsA1VOw (İstanbul Çok Hoştur Ama Benana)
 https://www.uludagsozluk.com/k/rte-ingilizce-bilmiyor-diyen-fed%C3%B6nc%C3%BCler/ (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/bunca-site-varken-s%C3%B6zl%C3%BC%C4%9Fe-foto%C4%9Fraf-atmak/ (bkz akp nin yeni icadı)
