@@ -2,7 +2,7 @@
 <!--https://www.youtube.com/watch?v=PyrvsrOk0pA-->
 [![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
-[![Image](almanac/greatpearl.png)]( https://www.youtube.com/watch?v=jIGPyfQhVcw )
+[![Image](almanac/greatpearl.png)]( https://www.youtube.com/watch?v=I5lRLhZ1dkg)
 
 [![Image](almanac/tr-ru.png)]( https://www.youtube.com/watch?v=IjsPmjqmcvs )
 <!-- https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP
@@ -41,6 +41,7 @@ https://www.uludagsozluk.com/k/ho%C5%9Fgeldiniz-diyip-bir-daha-g%C3%B6r%C3%BCnme
 https://www.uludagsozluk.com/k/pakedim-daha-a%C3%A7%C4%B1lmad%C4%B1-diyen-k%C4%B1z/ (bkz lol)
 https://www.uludagsozluk.com/k/orkid-in-t%C3%BCrkiye-yi-karalama-reklam%C4%B1/ (bkz lol)
 https://www.uludagsozluk.com/k/orkid-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz lol)
+https://www.youtube.com/watch?v=WWjfUt8yZoc
 https://www.uludagsozluk.com/e/42323851/ (bkz lol)
 https://eksisozluk.com/entry/96899944 bkz lol
 https://www.uludagsozluk.com/e/42320891/ (bkz lol)
