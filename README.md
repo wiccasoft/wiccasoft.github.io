@@ -41,6 +41,7 @@ https://www.uludagsozluk.com/k/istanbul-da-insanlar-nas%C4%B1l-ya%C5%9F%C4%B1yor
 https://www.youtube.com/watch?v=j3VSxdd1OUY
 https://www.doyouknowturkey.com/beautiful-turkish-celebrities-40s/
 https://www.uludagsozluk.com/k/zuhal-topal-%C4%B1n-t%C3%BCrkiyenin-en-seksi-kad%C4%B1n%C4%B1-olmas%C4%B1/&w=gd (bkz lol)
+http://www.incisozluk.com.tr/w/zuhal-topal-sikertme/
 https://www.uludagsozluk.com/k/kendi-maa%C5%9F%C4%B1na-7-bin-lira-zam-yapan-akpli/ (bkz damat yapmış haberim yok)
 https://www.uludagsozluk.com/k/oturulan-apartman%C4%B1n-zemin-kat%C4%B1nda-bim-olmas%C4%B1/ (bkz low level hayat)
 https://www.uludagsozluk.com/k/huawei-iphone-dan-iyi-diyen-tip/ (bkz huawei mate x i olmayan ezik)
