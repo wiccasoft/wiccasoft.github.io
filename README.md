@@ -37,7 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
-https://eksisozluk.com/entry/96956431 (bkz akp nin yeni icadı)
+https://eksisozluk.com/entry/96956431 (bkz fikir güzel mekan güzel ama yemezler)
 https://www.uludagsozluk.com/e/42326311/ (bkz akp nin yeni icadı)
 https://eksisozluk.com/dag-gibi-adamlarin-minyon-kadin-tercihi--6224585?a=popular (bkz lol)
 https://www.youtube.com/watch?v=4RpMzsA1VOw (İstanbul Çok Hoştur Ama Benana)
