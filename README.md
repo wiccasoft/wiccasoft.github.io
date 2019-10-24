@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY 
 https://www.uludagsozluk.com/k/mutant-imam-pe%C5%9Fimi-b%C4%B1rak/ (bkz tamam)
+https://www.uludagsozluk.com/k/jokerin-asl%C4%B1nda-adam-olmas%C4%B1/ (bkz tangır budun ve lgbt tayfası)
 https://www.uludagsozluk.com/k/hane-ba%C5%9F%C4%B1na-gelir-3-kat-artt%C4%B1/ (bkz tangır budun dogan etkisi)
 https://www.uludagsozluk.com/k/jokerin-asl%C4%B1nda-adam-olmas%C4%B1/ (bkz tangır budun dogan)
 https://www.uludagsozluk.com/k/kerem-kupac%C4%B1/&w=bg (bkz tangır budun doğan gelince deliklerinden çıkan lgbt)
