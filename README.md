@@ -47,7 +47,7 @@ https://www.uludagsozluk.com/k/sevgilisine-%C3%A7ikolatam-diyen-erkek/&w=bg (bkz
 https://www.uludagsozluk.com/k/harley-davidson-ahmet-davuto%C4%9Flu-akrabal%C4%B1%C4%9F%C4%B1/ (bkz lol)
 https://www.uludagsozluk.com/k/twitter-%C4%B1n-%C5%9Feytan-icad%C4%B1-olmas%C4%B1/&w=bg (bkz lol)
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-aleyna-tilki-yi-%C3%B6vmesi/ (bkz lol)
-https://www.uludagsozluk.com/k/sol-framenin-hali/&w=gd (bkz lol) bkz serdar06 olmasa gülümeyeceğiz
+https://www.uludagsozluk.com/k/sol-framenin-hali/&w=gd (bkz lol)
 https://www.youtube.com/watch?v=WWjfUt8yZoc
 https://www.uludagsozluk.com/e/42323851/ (bkz lol)
 https://eksisozluk.com/entry/96899944 bkz lol
