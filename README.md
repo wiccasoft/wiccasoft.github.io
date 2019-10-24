@@ -39,6 +39,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/e/42326810/  (bkz yav he he)
 https://www.uludagsozluk.com/e/42326627/ (bkz yav he he)
+https://eksisozluk.com/entry/96940204 (bkz lol)
 https://twitter.com/feyzaltun/status/1187369533822177283 (bkz yav he he)
 https://www.uludagsozluk.com/k/kokore%C3%A7-yiyenlerin-k%C4%B1ro-olmas%C4%B1/ (bkz yav he he)
 https://eksisozluk.com/ucbinli-yillarin-insanina-bir-soz-birak--6223911?a=popular (bkz 2066 dan sonrasını okumadım)
