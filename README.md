@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/bunca-site-varken-s%C3%B6zl%C3%BC%C4%9Fe-foto%C4%9Fraf-atmak/ ( bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/annesinin-uyu%C5%9Fturucu-verdi%C4%9Fi-10-ayl%C4%B1k-bebek/ (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/enes-kanter/  (bkz akp nin yeni icadı)
-https://www.uludagsozluk.com/k/istanbul-havaliman%C4%B1/&w=bg (bkz akp nin yeni icadı))
+https://www.uludagsozluk.com/k/istanbul-havaliman%C4%B1/&w=bg (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=bg (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/k%C4%B1ll%C4%B1-erkek/&w=bg (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/yemek-yapmay%C4%B1-bilen-erkek/&w=bg  (bkz akp nin yeni icadı)
