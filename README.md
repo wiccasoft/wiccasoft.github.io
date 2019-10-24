@@ -39,7 +39,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg (bkz peki)
 (bkz tengir bidon çaylaklıktan çıkınca ülkücü sıkcıcı lgbt tayfasının deliklerinden çıkması )
-(bkz en büyük türk komutan bkz fatih tötüm)
+(bkz en büyük türk komutan bkz fatih tötem bkz atlayan zıplayan adam)
 https://www.uludagsozluk.com/k/5-metre-y%C3%BCksekten-bah%C3%A7eye-spor-ama%C3%A7l%C4%B1-atlayan-adam/ (bkz tamam)
 (bkz tangır budun doğan strikes back bkz https://www.resmigazete.gov.tr/
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/ (bkz anamın üstünde yakalansa orospuluk anamdadır)
