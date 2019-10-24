@@ -41,6 +41,7 @@ https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/24-ekim-2019-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-trt-%C3%B6zel-yay%C4%B1n%C4%B1/ 
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-tt-arena-da-yenmek/&w=bg (bkz ılık götlü fenerlilerin gücüne giden olay)
 https://www.uludagsozluk.com/k/beyler-gelin-lookin-if%C5%9Fa/ (bkz lol)
+https://www.uludagsozluk.com/k/stackoverflow/&w=bg (bkz dünyanın en iyi problem çözme sitesi )
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg (bkz ne dediği anlaşılmayan adam altyazılı)
 https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi/  (bkz lol)
 https://www.uludagsozluk.com/k/asgari-%C3%BCcretin-olmas%C4%B1-gereketi%C4%9Fi-rakam/ (bkz 1750 tl + akbil)
