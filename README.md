@@ -38,6 +38,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg (bkz peki)
+(bkz tengir bidon gelince ülkücüc lgbt tayfasının fırlaması )
+https://www.uludagsozluk.com/k/5-metre-y%C3%BCksekten-bah%C3%A7eye-spor-ama%C3%A7l%C4%B1-atlayan-adam/ (bkz tamam)
 (bkz dünyanın en sıkıcı tangır bidon erdogan ı çaylıklıktan çıkmış) bkz https://www.resmigazete.gov.tr/
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/ (bkz anamın üstünde yakalansa orospuluk anamdadır)
 (bkz İstanbul Çok Hoştur Ama Benana) https://www.youtube.com/watch?v=4RpMzsA1VOw
