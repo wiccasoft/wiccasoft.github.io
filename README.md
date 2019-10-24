@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg (bkz ne dediği anlaşılmayan adam altyazılı)
+https://www.uludagsozluk.com/k/gol-atabilseydik-en-az%C4%B1ndan-berabere-biterdi/  (bkz lol)
 https://www.uludagsozluk.com/k/asgari-%C3%BCcretin-olmas%C4%B1-gereketi%C4%9Fi-rakam/ (bkz 1750 tl)
 (bkz İstanbul Çok Hoştur Ama Benana) https://www.youtube.com/watch?v=4RpMzsA1VOw
 https://www.uludagsozluk.com/k/24-ekim-2019-cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-trt-%C3%B6zel-yay%C4%B1n%C4%B1/ 
