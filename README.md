@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/k%C4%B1ll%C4%B1-erkek/&w=bg (bkz akp nin yeni icadı)
+https://www.uludagsozluk.com/k/bebeleri-pistten-alal%C4%B1m-ben-geldim/ (bkz tengür bidonun eşcinsel arkadaşı)
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-abdullah-%C3%A7atl%C4%B1/&w=bg (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/yapayaln%C4%B1z-%C3%A7ok-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-kibar-zeki-erkekler/
 https://www.uludagsozluk.com/k/enes-kanter/&w=bg  (bkz akp nin yeni icadı)
