@@ -41,6 +41,7 @@ https://www.uludagsozluk.com/k/ho%C5%9Fgeldiniz-diyip-bir-daha-g%C3%B6r%C3%BCnme
 https://www.uludagsozluk.com/k/pakedim-daha-a%C3%A7%C4%B1lmad%C4%B1-diyen-k%C4%B1z/ (bkz lol)
 https://www.uludagsozluk.com/k/orkid-in-t%C3%BCrkiye-yi-karalama-reklam%C4%B1/ (bkz lol)
 https://www.uludagsozluk.com/k/orkid-kullanm%C4%B1yoruz-kampanyas%C4%B1/ (bkz lol)
+https://www.uludagsozluk.com/k/shell-in-erkeklere-hakaret-etmesi/ (bkz lol)
 https://www.youtube.com/watch?v=WWjfUt8yZoc
 https://www.uludagsozluk.com/e/42323851/ (bkz lol)
 https://eksisozluk.com/entry/96899944 bkz lol
