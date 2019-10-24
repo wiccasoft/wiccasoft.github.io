@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg (bkz peki)
 https://www.uludagsozluk.com/e/42325787/ (bkz intellectual property rights)
 (bkz eğer fotoğraf copyright değilse sosyal medyaya atılan fotolar tck kapsamına girmez)
-(bkz Jessica chastain in fotosuna maturbasyon yaptığınız için tutuklanmazsınız raad olun genşler)
+(bkz Jessica chastain fatih terim cübbeli fotosuna maturbasyon yaptığınız için tutuklanmazsınız raad olun genşler)
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/ (bkz anamın üstünde yakalansa orospuluk anamdadır)
 (bkz tangır bidon dogan çaylaklıktan çıkınca ülkücü lgbt tayfasının deliklerinden çıkması )
 (bkz en büyük türk komutan bkz fatih tötem bkz bahçeye atlayan zıplayan adam)
