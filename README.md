@@ -40,11 +40,10 @@ https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/veli-a%C4%9Fbaba-n%C4%B1n-akp-lilere-verdi%C4%9Fi-efsane-ayar/ (bkz içinde gezdirmek)
 https://www.uludagsozluk.com/k/a%C4%9Fda-yapan-erkek/&w=bg (bkz göt deliği yalanası erkek)
 https://www.uludagsozluk.com/k/playstation-oynamay%C4%B1-bilmeyen-erkek/ (bkz götü parmaklanası erkek)
-https://www.uludagsozluk.com/k/gaga-bulut-un-cezaevinde-%C3%B6ld%C3%BCr%C3%BClmesi/ (bkz gaga bulut un demirtaş yazdığı mektup)
-https://www.youtube.com/watch?v=70nK5h3xLiw oy damat oy gelin oynasın
+https://www.youtube.com/watch?v=70nK5h3xLiw oy damat oy gelin oynasın çatlasın düşmanımıh
 https://www.uludagsozluk.com/k/mazlum-kobani/ (bkz kobani olaylarının sorumlusu)
 https://www.uludagsozluk.com/k/eve-erkek-atan-erkek/&w=bg bkz emdiriyordur
-https://www.uludagsozluk.com/k/kasl%C4%B1-bir-erke%C4%9Fe-dokununca-erekte-olmak/ bkz vay amk
+https://www.uludagsozluk.com/k/kasl%C4%B1-bir-erke%C4%9Fe-dokununca-erekte-olmak/ bkz vay abc
 https://www.uludagsozluk.com/k/ak-troll-lerin-ekrem-imamo%C4%9Flu-haz%C4%B1ms%C4%B1zl%C4%B1klar%C4%B1/ (bkz çöpçüler kralı)
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/ (bkz bir burhan altıntop kolay yetişmiy)
 bkz bir burhan altıntop kolay yetişmiy diyip forum sitesinde futbolculara entry girmek
