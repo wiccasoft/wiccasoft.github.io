@@ -43,8 +43,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz hayallerde yaşıyor bazı ibneler)
-https://www.uludagsozluk.com/k/bayra%C4%9F%C4%B1-selamlamadan-ge%C3%A7en-ku%C5%9Fun-yuvas%C4%B1n%C4%B1-bozmak/
 (bkz murdat bardakçıoğlu)
 https://www.uludagsozluk.com/k/osmanl%C4%B1-emanetini-100-y%C4%B1l-saklayan-filistinli/
 bkz ebelezoğlanın imamoğlan la beberoğlanı kötülemesi
@@ -87,6 +85,8 @@ bkz saksıya fesleğen gibi oturturum anlamıda çıkabilir
 https://www.uludagsozluk.com/k/akp-nin-bilezik-gibi-ge%C3%A7irmesi/&w=bg
 bkz dünya lideri rte mi imamoğlan mı sorunsalı
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C3%A7ocuklar-y%C3%B6netsin/&w=bg 
+(bkz hayallerde yaşıyor bazı ibneler)
+https://www.uludagsozluk.com/k/bayra%C4%9F%C4%B1-selamlamadan-ge%C3%A7en-ku%C5%9Fun-yuvas%C4%B1n%C4%B1-bozmak/
 (bkz şaka maka imamoğlunun dünya markası olma yolunda ilerlemesi)
 https://www.uludagsozluk.com/k/ak-troll-lerin-ekrem-imamo%C4%9Flu-haz%C4%B1ms%C4%B1zl%C4%B1klar%C4%B1/&w=gd
 bkz şaka maka imamoğlunun marka olması bkz imamaoğlu köfte imamaoğlu inşaat 
