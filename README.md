@@ -46,6 +46,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 bkz imamoğlunun oğlu
 https://www.uludagsozluk.com/k/g%C3%BCzel-k%C4%B1z-g%C3%B6r%C3%BCnce-konu%C5%9Fmas%C4%B1-de%C4%9Fi%C5%9Fen-erkek/&w=bg
 bkz çöpçüler kralı filminin imamaoğlunun hayat hikayesi olması
+bkz gözümün görmediği hiçbir şeyden korkmam
 https://www.uludagsozluk.com/k/kanaat-%C3%B6nderi-imamo%C4%9Flu-olan-kitle/ (bkz imamdan çok imamcıolmak)
 bkz gaga bulutun öpüştürdüğü izmirli çocukların gay çıkması
 bkz imamağlu köfte imamaoğlu inşaat 
