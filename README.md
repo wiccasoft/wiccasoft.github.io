@@ -40,7 +40,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz gaga bulutun ölü taklidi yapması ölmemiş beyler
+bkz gaga bulutun ölü taklidi yapması 
 bkz feyzoğlanın yeşil pasoportu aldıktan sonra gözükmemesi
 https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz yakışıklı hdpli isteyen mhpli
 https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz organiz işler sean connery sahnesi
