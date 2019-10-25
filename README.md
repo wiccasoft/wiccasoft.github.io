@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz imamoğlan vs belezoğlan
 bkz o kadar imamoğlun geviş getirdik biraz belezoğlan yiyek
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-futbolu-b%C4%B1rakmas%C4%B1/&w=bg (bkz üzücü durum)
 https://www.uludagsozluk.com/k/yerken-yoran-%C5%9Feyler/&w=gd (bkz imamoğlugöbeği tatlı)
