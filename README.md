@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/devlet-bize-bakm%C4%B1yor/&w=bg bkz devlet bahçeli bakmiy bizi lo
+bkz istanbulda davul zurnayla düğün yapan pkklı çift
 bkz pkk marşı okuyan hdp il başkanı bkz gaga bulut un pkk lı olması
 https://www.uludagsozluk.com/k/pkk-mar%C5%9F%C4%B1-okuyan-hdp-li-diyarbak%C4%B1r-bld-ba%C5%9Fkan%C4%B1/
 bkz https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs erdogan köfte
