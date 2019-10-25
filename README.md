@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz haçan kaçan)
+https://www.uludagsozluk.com/k/ibb-nin-muhalifleri-engellemesi/ (bkz çok fena ibnelik döndüğü düşünülen yerler)
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd (bkz şaka maka arifin manchestera attığı golü aramak)
 https://omudedikodu.com/sozluk/saka-maka-sitenin-30luk-amcalar-kaynamasi (bkz şaka maka madafaka)
 https://eksisozluk.com/saka-maka-diye-baslik-acan-tip--4846719 (bkz ağır ergen tayfası)
