@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz haçan kaçan)
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd (bkz şaka maka arifin manchestera attığı golü aramak)
 https://omudedikodu.com/sozluk/saka-maka-sitenin-30luk-amcalar-kaynamasi (bkz şaka maka madafaka)
 https://eksisozluk.com/saka-maka-diye-baslik-acan-tip--4846719 (bkz ağır ergen tayfası)
