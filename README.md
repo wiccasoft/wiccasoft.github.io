@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+genşler yaş 41 yormayın beni sikememe sizi
 https://aylak-kadin.uludagsozluk.com/ bkz sikici arayan bi abla
 https://www.uludagsozluk.com/k/23-ya%C5%9F%C4%B1nda-hala-bakir-olan-erkek/ (bkz sana aylak kadını öneriyorum)
 bkz yüzünüze tükürsem ondan da anlamazsınız
