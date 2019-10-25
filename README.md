@@ -41,6 +41,7 @@ https://www.uludagsozluk.com/e/42327797/ (bkz lol)
 https://www.uludagsozluk.com/k/gagavuzya-ba%C5%9Fkan%C4%B1-irina-vlah-%C4%B1n-yemin-t%C3%B6reni/
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-gamze-%C3%B6z%C3%A7elik-temal%C4%B1-yaz%C4%B1s%C4%B1/ 
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/ (bkz diyanet su işleri bırak bu işleri)
+https://www.uludagsozluk.com/k/ozan-g%C3%BCven-e-soru-soran-dalyarak-%C4%B1n-if%C5%9Fa-olmas%C4%B1/ (bkz lol)
 https://eksisozluk.com/soyunma-odasinda-cocuklari-tokatlayan-antrenor--6224873?a=popular (bkz fatih terim)
 https://eksisozluk.com/diyanetin-2020-yili-butcesinin-11-5-milyar-olmasi--6224131?a=popular (bkz camilerin su gideri)
 https://www.uludagsozluk.com/k/dinazorlar%C4%B1n-helak-olmas%C4%B1n%C4%B1n-sebebi/&w=bg (bkz namaz kılmamak)
