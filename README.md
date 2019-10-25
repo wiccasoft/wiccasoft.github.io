@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-futbolu-b%C4%B1rakmas%C4%B1/&w=bg (bkz üzücü durum)
+https://www.uludagsozluk.com/k/yerken-yoran-%C5%9Feyler/&w=gd (bkz imamoğlugöbeği tatlı)
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-recep-tayyip-erdo%C4%9Fan/&w=bg (bkz ekrem imamoğlunun göbeği)
 https://www.uludagsozluk.com/k/yemekten-sonra-meyve-mi-tatl%C4%B1-m%C4%B1-yenir/ (bkz geğirip ekrem imamoğlu demek)
 https://www.uludagsozluk.com/k/lise-y%C4%B1llar%C4%B1nda-%C3%B6zenilen-durumlar/ (bkz bodyinin götünün parmaklamak)
