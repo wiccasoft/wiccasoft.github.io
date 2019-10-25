@@ -41,6 +41,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+bkz imamaoğlu erdogan görüşmesi https://www.youtube.com/watch?v=-AdnJiuDGVU
 bkz gaga bulut cerzaevinde halay çekip pkk ya selma yollaması
 bkz pkk marşı okuyan batman il başkanı bkz şiwan perwer in rte ile düeti
 https://www.uludagsozluk.com/k/pkk-mar%C5%9F%C4%B1-okuyan-hdp-li-diyarbak%C4%B1r-bld-ba%C5%9Fkan%C4%B1/
