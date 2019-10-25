@@ -45,6 +45,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz murdat bardakçıoğlu)
 https://www.uludagsozluk.com/k/osmanl%C4%B1-emanetini-100-y%C4%B1l-saklayan-filistinli/
+(bkz hayallerde yaşıyor bazı ibneler)
+https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
 bkz ebelezoğlanın imamoğlan la beberoğlanı kötülemesi
 https://www.uludagsozluk.com/k/2020-y%C4%B1l%C4%B1n%C4%B1n-ilk-entry-si/&w=bg bkz imamaoğlan a 12:00 da gireceğim entry
 bkz imamoğlan vs belezoğlan
