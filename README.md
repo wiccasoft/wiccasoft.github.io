@@ -46,7 +46,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.uludagsozluk.com/e/42330868/ (bkz gaylord)
 (bkz o göte bülbül öte)
 https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg 
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz koca olmayacak tipler)
+https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz ibnelerin şal sırasına girmesi)
 bkz götveren başkan
 https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg
 bkz halo dayı ibnemidir sorunsalı
