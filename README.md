@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrk-mantolu-madonna/&w=bg (bkz kürt mantolu madonna)
 https://www.uludagsozluk.com/k/obradovic-in-balon-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ (bkz ali koçun siklemdiği gerçek)
 bkz fakirlerin militarist olma sebepleri üzerine tez yazmak
 bkz fakirlerin militarist olması paradoksu 
