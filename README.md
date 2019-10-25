@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz gaga bulutun instagram sayfasını gezip üpucu aramak
 bkz istanbulun fatihi kenana komutan ibnemiydi sorunsalı
 bkz fatih sultan mehmet ney lan erkek adam sultan mı olur
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/ (bkz vurdurduğu rivayet ediliy)
