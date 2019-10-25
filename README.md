@@ -43,7 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-41 yaşındayım 5.11inck boyunda kaslıyım zorlamayın ibneler sikemem sizi amınız varsa o başka
+(bkz iğrençsiniz ibneler)
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-d%C3%B6l%C3%BCn%C3%BC-yutacak-kadar-%C3%A7ok-sevmek/
 lan tengir bidon ibnesi seni bidon gibi götünü sikerim o yumuşak götünü kürtlere servis ederim cafede şal istersin halodayından
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
