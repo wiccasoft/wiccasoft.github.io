@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz satanist 17 yaşındaki merve)
+https://www.uludagsozluk.com/k/sevgilisinden-dayak-yiyip-babas%C4%B1na-kar%C5%9F%C4%B1-gelen-k%C4%B1z/
 (bkz iğrençsiniz ibneler)
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-d%C3%B6l%C3%BCn%C3%BC-yutacak-kadar-%C3%A7ok-sevmek/
 lan tengir bidon ibnesi seni bidon gibi götünü sikerim sonra ergenlere servis ederim cafede şal istersin halodayından
