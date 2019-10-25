@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/eve-erkek-atan-erkek/&w=bg bkz emdiriyordur
 https://www.uludagsozluk.com/k/kasl%C4%B1-bir-erke%C4%9Fe-dokununca-erekte-olmak/ bkz vay amk
 https://www.uludagsozluk.com/k/ak-troll-lerin-ekrem-imamo%C4%9Flu-haz%C4%B1ms%C4%B1zl%C4%B1klar%C4%B1/ (bkz çöpöüler kralı)
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/ (bkz bir burhan altıntop kolay yetişmiy)
