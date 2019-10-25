@@ -1,7 +1,7 @@
 
 
-[![Image](smartdata/birthofvenus.png)]( https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says)
-
+[![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
+<!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 [![Image](smartdata/safezone.png)](https://www.reuters.com/article/us-syria-security-turkey-amnesty/amnesty-says-turkey-deporting-syrians-to-planned-safe-zone-region-idUSKBN1X40TK)
 <!-- https://www.youtube.com/watch?v=NINOxRxze9k -->
