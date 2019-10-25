@@ -40,6 +40,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz binary yıldırım la swinger partiye gitmek
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz yaşlı çükü
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 bkz feyzoğlanın erdoğana yaptığı saygıszılık https://www.youtube.com/watch?v=M4taAlvklaI 
