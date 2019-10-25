@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/gariban-kesimin-namusa-fazla-anlam-y%C3%BCklemesi/ (bkz tespit gibi tespit)
 https://www.youtube.com/watch?v=9QOfjdHnN7A
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz haçan kaçan)
 https://www.uludagsozluk.com/k/ibb-nin-muhalifleri-engellemesi/ (bkz çok fena ibnelik döndüğü düşünülen yerler)
