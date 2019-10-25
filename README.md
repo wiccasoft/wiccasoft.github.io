@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz saksıya fesleğen gibi oturtmak
+https://www.uludagsozluk.com/k/akp-nin-bilezik-gibi-ge%C3%A7irmesi/&w=bg
 bkz ek rem imam oğlan imam oğlan rece tay yi er do ğan
 bkz mucize doktor izleyen fakir zekası
 https://www.uludagsozluk.com/k/fakirlerin-en-b%C3%BCy%C3%BCk-sorunu/&w=bg 
