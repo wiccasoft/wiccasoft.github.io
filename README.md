@@ -45,7 +45,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz iğrençsiniz ibneler)
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-d%C3%B6l%C3%BCn%C3%BC-yutacak-kadar-%C3%A7ok-sevmek/
-lan tengir bidon ibnesi seni bidon gibi götünü sikerim o yumuşak götünü kürtlere servis ederim cafede şal istersin halodayından
+lan tengir bidon ibnesi seni bidon gibi götünü sikerim sonra ergenlere servis ederim cafede şal istersin halodayından
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
 lan uludaki ibneler sizi bi sikerim google bile bulamaz ayık olun ibnenin evlatları :))))))))))))
