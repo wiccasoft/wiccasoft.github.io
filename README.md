@@ -43,18 +43,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz türk erkeklerinin götten skip ibret olsun diye göt deliklerini dünyaya göstermek
-bkz türklerdeki vurdurma eğilimi
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/ (bkz ibne olmayan türk var mı?)
-https://www.uludagsozluk.com/k/rusya-n%C4%B1n-s%C4%B1cak-denizlere-inme-hasreti-sona-erdi/ (bkz geliyoruz ibneler)
-(bkz aleyna tilki)
-https://www.uludagsozluk.com/k/sevgilisinden-dayak-yiyip-babas%C4%B1na-kar%C5%9F%C4%B1-gelen-k%C4%B1z/
-(bkz iğrençsiniz ibneler)
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-d%C3%B6l%C3%BCn%C3%BC-yutacak-kadar-%C3%A7ok-sevmek/
-lan tengir bidon ibnesi seni bidon gibi götünü sikerim sonra ergenlere servis ederim cafede şal istersin halodayından
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
-lan uludaki ibneler sizi bi sikerim google bile bulamaz ayık olun ibnenin evlatları :))))))))))))
+lan tengir bidon ibnesi seni bidon gibi götünü sikerim sonra ergenlere servis ederim cafede şal istersin halodayından
 https://www.uludagsozluk.com/k/gece-saat-birde-kap%C4%B1y%C4%B1-%C3%A7alan-biskolata-erke%C4%9Fi/&w=bg
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/abdullah-avc%C4%B1/&w=bg
