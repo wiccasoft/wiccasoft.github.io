@@ -46,6 +46,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 bkz decentralized web
 https://eksisozluk.com/entry/96997969 bkz lol
 https://www.uludagsozluk.com/e/42327908/ bkz lol
+https://eksisozluk.com/4-bin-tl-maas-antalya-vs-7-bin-tl-maas-adana--6225846?a=popular (bkz 20000$ maasla londra tabiki)
 https://www.uludagsozluk.com/k/k%C3%BCrk-mantolu-madonna/&w=bg (bkz kürt mantolu madonna)
 bkz fakirlerin militarist olma sebepleri üzerine tez yazmak
 bkz fakirlerin militarist olması paradoksu 
