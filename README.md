@@ -37,7 +37,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
-https://streamable.com/3sy7g
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/ (bkz diyanet su işleri bırak bu işleri)
 https://eksisozluk.com/diyanetin-2020-yili-butcesinin-11-5-milyar-olmasi--6224131?a=popular (bkz camilerin su gideri)
 https://www.uludagsozluk.com/k/dinazorlar%C4%B1n-helak-olmas%C4%B1n%C4%B1n-sebebi/&w=bg (bkz namaz kılmamak)
@@ -57,7 +56,6 @@ https://www.uludagsozluk.com/k/rte-ingilizce-bilmiyor-diyen-fed%C3%B6nc%C3%BCler
 https://www.uludagsozluk.com/k/bunca-site-varken-s%C3%B6zl%C3%BC%C4%9Fe-foto%C4%9Fraf-atmak/ (bkz akp nin yeni icadı)
 https://www.uludagsozluk.com/k/5-metre-y%C3%BCksekten-bah%C3%A7eye-spor-ama%C3%A7l%C4%B1-atlayan-adam/
 (bkz eğer fotoğraf copyright değilse sosyal medyaya atılan fotolar tck kapsamına girmez)
-(bkz Jessica chastain fatih terim cübbeli fotosuna maturbasyon yaptığınız için tutuklanmazsınız raad olun genşler)
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/ (bkz anamın üstünde yakalansa orospuluk anamdadır)
 (bkz tangır bidon dogan çaylaklıktan çıkınca ülkücü lgbt tayfasının deliklerinden çıkması )
 (bkz en büyük türk komutan bkz fatih tötem bkz bahçeye atlayan zıplayan adam)
