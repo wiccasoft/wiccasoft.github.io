@@ -42,6 +42,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 bkz gaga bulutun ölü taklidi yapması 
 bkz feyzoğlanın yeşil pasoportu aldıktan sonra gözükmemesi
+https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz yakışıklı parti
 https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz yakışıklı hdpli isteyen mhpli
 https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz organiz işler sean connery sahnesi
 https://www.uludagsozluk.com/k/gaga-bulut-un-cezaevinde-%C3%B6ld%C3%BCr%C3%BClmesi/ bkz gaga bulutun ölü taklidi yapması
