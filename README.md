@@ -43,7 +43,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz kasım karabekir ibnemiydi sorunsalı
+bkz muhiddin ibni arabi ibnemiydi sorunsalı
+bkz barbaros hayrettin paşa ibnemiydi sorunsalı
+bkz kazım karabekir ibnemiydi sorunsalı
 bkz ismet inönü ibnemiydi sorunsalı
 https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/ (bkz türk erkekleri ibnemi)
 https://www.youtube.com/watch?v=QIAVaw_Qpkc bkz barbaros ibnemiydi
