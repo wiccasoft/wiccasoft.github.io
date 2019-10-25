@@ -66,7 +66,6 @@ bkz erkem imamaoğlunun pezevenklik yapması
 https://aylak-kadin.uludagsozluk.com/ bkz sikici arayan bi abla genşlere tavsiyem yürüyün
 (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/yolda-buldu%C4%9Fu-avizenin-elmas%C4%B1n%C4%B1-eve-getiren-%C3%A7ocuk/
-genşler yaş 41 yormayın beni sikemem sizi
 https://aylak-kadin.uludagsozluk.com/ bkz sikici arayan bi abla
 https://www.uludagsozluk.com/k/23-ya%C5%9F%C4%B1nda-hala-bakir-olan-erkek/ (bkz sana aylak kadını öneriyorum)
 bkz muhiddin ibni arabi ibnemiydi sorunsalı
