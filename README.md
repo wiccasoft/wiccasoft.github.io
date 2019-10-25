@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz mucize doktor izleyen fakir zekası
 bkz iphone'u olanın kendini zengin sandığı ülke
 https://www.uludagsozluk.com/k/fakirlerin-en-b%C3%BCy%C3%BCk-sorunu/&w=bg 
 bkz cem yılmaza saldıran tipler
