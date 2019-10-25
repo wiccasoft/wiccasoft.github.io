@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/e/42327797/ (bkz lol)
+https://www.uludagsozluk.com/k/rte-nin-%C5%9Faka-maka-d%C3%BCnya-lideri-olmas%C4%B1/&w=bg (bkz şaka maka koyduk ya la)
 https://www.uludagsozluk.com/k/40-ya%C5%9F-%C3%BCst%C3%BC-emekli-ki%C5%9Filerin-facebook-payla%C5%9F%C4%B1mlar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz vaziyet alın karışır buralar)
 https://eksisozluk.com/engin-ardicin-ekrem-imamoglunu-son-kez-uyarmasi--6224886?a=popular (bkz vaziyet alın karışır buralar)
