@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz ya o değil de ek rem imam oğlan vardı n'oldu ona
 bkz ekrem imamoğlu ek rem imam oğ lu
 bkz o değil de 10 dakikadar imam oğlan demedik 
 bkz saksıya fesleğen gibi oturtmak
