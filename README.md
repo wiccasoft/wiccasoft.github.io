@@ -43,7 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz pkk marşı okuyan kürt
+bkz pkk marşı okuyan  diyarbekir il başkanı
 https://www.uludagsozluk.com/k/pkk-mar%C5%9F%C4%B1-okuyan-hdp-li-diyarbak%C4%B1r-bld-ba%C5%9Fkan%C4%B1/
 bkz ya o değil de ek rem imam oğlan vardı n'oldu ona
 bkz ekrem imamoğlu ek rem imam oğ lu
