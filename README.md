@@ -43,7 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-nkz kamal kışdaroğlunun osmanlı torunu olması
+bkz gaga bulut un pkk yı övmesi
+bkz kamal kışdaroğlunun osmanlı torunu olması
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-osmanl%C4%B1-torunu-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-yap%C4%B1lmamas%C4%B1-gerekenler/&w=bg bkz erkeğe burcunu sormayın
 bkz gaga bulut un hapisten attığı postlar https://www.youtube.com/watch?v=d8-soriINcA
