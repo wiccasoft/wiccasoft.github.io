@@ -43,10 +43,11 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://www.uludagsozluk.com/e/42330868/ (bkz bigestgaylordieverseen)
+bkz kurtlar vadisi izlemekten gay olmuş liseliler
+https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
 (bkz o göte bülbül öte)
 https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg 
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz ibnelerin şal sırasına girmesi)
+https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz koca olmaz size)
 bkz götveren başkan
 https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg
 bkz halo dayı ibnemidir sorunsalı
