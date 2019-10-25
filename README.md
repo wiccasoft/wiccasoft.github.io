@@ -38,16 +38,12 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://eksisozluk.com/soyunma-odasinda-cocuklari-tokatlayan-antrenor--6224873?a=popular 
-https://www.youtube.com/watch?v=BV1RcLhMFYs   (bkz fatih terimin fb düşmanlığı)
+https://www.youtube.com/watch?v=BV1RcLhMFYs  (bkz fatih terimin fb düşmanlığı)
 https://eksisozluk.com/terimin-vedat-muriqiyi-milli-takima-almamasi--6225249?a=popular (bkz fatih terimin fb düşmanlığı)
-(bkz hasan kabzeyi unutursak kanımız kurusun)
 https://www.uludagsozluk.com/k/hasan-kabze-nin-be%C5%9Fikta%C5%9F-a-att%C4%B1%C4%9F%C4%B1-gol/&w=bg
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz yeri uzun adamın yanı adam gibi adam)
-https://www.youtube.com/watch?v=BV1RcLhMFYs (bkz soyunmda odasında dönen garip olaylar)
 https://www.uludagsozluk.com/k/gariban-kesimin-namusa-fazla-anlam-y%C3%BCklemesi/ (bkz tespit gibi tespit)
-https://www.uludagsozluk.com/k/hasan-kabze-nin-be%C5%9Fikta%C5%9F-a-att%C4%B1%C4%9F%C4%B1-gol/&w=bg (bkz tamam)
 https://www.youtube.com/watch?v=9QOfjdHnN7A
-https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz haçan kaçan)
 https://www.uludagsozluk.com/k/ibb-nin-muhalifleri-engellemesi/ (bkz çok fena ibnelik döndüğü düşünülen yerler)
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd (bkz şaka maka arifin manchestera attığı golü aramak)
 https://omudedikodu.com/sozluk/saka-maka-sitenin-30luk-amcalar-kaynamasi (bkz şaka maka madafaka)
