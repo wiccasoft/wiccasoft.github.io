@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz istanbulda davul zurna çalan kürtler)
+https://www.uludagsozluk.com/k/orta-asya-dan-gelip-k%C3%BCrtleri-istemeyen-tip/&w=bg 
 https://www.uludagsozluk.com/k/sevi%C5%9Firken-eski-sevgilinin-ad%C4%B1n%C4%B1-hayk%C4%B1rmak/&w=bg (bkz imamoğlu)
 https://www.uludagsozluk.com/k/hercai-dizisi-izleyen-erkek/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C3%A7ocuklar-y%C3%B6netsin/&w=bg (bkz imamaoğlunun oğlu yönetsin)
