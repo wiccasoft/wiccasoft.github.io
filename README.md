@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/gecenin-4-%C3%BCnde-sizi-%C3%A7orbac%C4%B1ya-g%C3%B6t%C3%BCren-dost/ (bkz vurduruyordur)
 bkz duran emminin cafede şal isteyen erkeğe sulanması
 bkz cafede şal istemeyin nargile isteyen adam gibi adam
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz vurdurmak için yol yapıyordur)
