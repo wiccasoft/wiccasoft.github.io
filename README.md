@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/e/42327797/ (bkz lol)
+https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)
 https://www.uludagsozluk.com/k/gagavuzya-ba%C5%9Fkan%C4%B1-irina-vlah-%C4%B1n-yemin-t%C3%B6reni/
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-gamze-%C3%B6z%C3%A7elik-temal%C4%B1-yaz%C4%B1s%C4%B1/ 
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/ (bkz diyanet su işleri bırak bu işleri)
