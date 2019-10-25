@@ -45,41 +45,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 (bkz çalışan kazanır elması kızarır)
 https://www.uludagsozluk.com/e/42331091/
-(bkz aleyna tilki)
-https://www.uludagsozluk.com/k/sevgilisinden-dayak-yiyip-babas%C4%B1na-kar%C5%9F%C4%B1-gelen-k%C4%B1z/
-(bkz bende türk e verecek göt yok diyen baba)
-(bkz hayallerde yaşıyor bazı ibneler)
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1-bara-g%C3%B6nderen-baba/&w=bg
 https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
-lan tengir bidon ibnesi seni bidon gibi götünü sikerim sonra ergenlere servis ederim cafede şal istersin halodayından
-https://www.uludagsozluk.com/k/gece-saat-birde-kap%C4%B1y%C4%B1-%C3%A7alan-biskolata-erke%C4%9Fi/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/abdullah-avc%C4%B1/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/ilk-g%C3%B6r%C3%BC%C5%9Fte-i%C3%A7-g%C3%BCzellikten-etkilenirim-diyen-insan/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/o%C4%9Flum-o-senin-yengen-yengen/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/biscolata-erke%C4%9Fi/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/%C3%B6zledi%C4%9Finiz-ki%C5%9Fi-%C5%9Fu-an-ba%C5%9Fkas%C4%B1na-trip-at%C4%B1yor/&w=bg
-bkz seydo dayı ibnemiydi sorundalı
-https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
-(bkz o göte bülbül öte)
-https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg 
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz koca olmaz size)
-bkz götveren başkan
-https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg
-bkz halo dayı ibnemidir sorunsalı
-bkz bu devirde vurdurmayan erkek bulmanın zorlukları
-https://www.uludagsozluk.com/k/oyuncusuna-ayr%C4%B1lmas%C4%B1n-diye-2-sene-g%C3%B6t-veren-ba%C5%9Fkan/&w=bg (bkz vurduru..)
-https://www.uludagsozluk.com/k/gecenin-4-%C3%BCnde-sizi-%C3%A7orbac%C4%B1ya-g%C3%B6t%C3%BCren-dost/ (bkz vurduruyordur)
-bkz duran emminin cafede şal isteyen erkeğe sulanması
-bkz cafede şal istemeyin nargile isteyen adam gibi adam
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/&w=bg (bkz vurdurmak için yol yapıyordur)
-bkz ismi fatih sultan mehmet olanlardaki vurdurma eğilimi
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/&w=gd bkz lol-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
