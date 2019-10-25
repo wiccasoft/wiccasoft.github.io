@@ -43,7 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz tengir budunu gaylerin lordu ilan ediyorum adam ağır gay amk
+https://www.uludagsozluk.com/k/o%C4%9Flum-o-senin-yengen-yengen/&w=bg
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/biscolata-erke%C4%9Fi/&w=bg
 bkz hayallerde yaşıyor bazı ibneler
