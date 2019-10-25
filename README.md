@@ -48,7 +48,6 @@ bkz bir erkeğin ibne olup olmadığını anlama yolları
 bkz gaga bulut ibnemiydi sorunsalı
 bkz gaga bulutun instagram sayfasını gezip ipucu aramak
 bkz istanbulun fatihi kenana komutan ibnemiydi sorunsalı
-bkz fatih sultan mehmet ney lan erkek adam sultan mı olur
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/ (bkz vurdurduğu rivayet ediliy)
 https://www.uludagsozluk.com/k/z%C3%BCl%C3%BCfl%C3%BC-ismail-pa%C5%9Fa/&w=bg (bkz tam aradığım bilgi)
 bkz gaga bulutun kürt olduğu gerçeği
