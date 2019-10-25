@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/fatih-terim/ (bkz efso 2001 soyunma odası konuşması)
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg (bkz soyunma odasında şaka maka falcoya yaptığı hareket)
 https://www.uludagsozluk.com/e/42327797/ (bkz lol)
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-madafaka/ (bkz lol)
