@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz saksıya fesleğen gibi oturturum anlamıda çıkabilir
+https://www.uludagsozluk.com/k/akp-nin-bilezik-gibi-ge%C3%A7irmesi/&w=bg
 bkz dünya lideri rte mi imamoğlan mı sorunsalı
 https://www.uludagsozluk.com/k/d%C3%BCnyay%C4%B1-%C3%A7ocuklar-y%C3%B6netsin/&w=bg 
 (bkz şaka maka imamoğlunun dünya markası olma yolunda ilerlemesi)
