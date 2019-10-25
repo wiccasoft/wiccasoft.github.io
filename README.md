@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz brad pitt seni özlemyior 
+https://www.uludagsozluk.com/k/%C3%B6zledi%C4%9Finiz-ki%C5%9Fi-%C5%9Fu-an-ba%C5%9Fkas%C4%B1na-trip-at%C4%B1yor/&w=bg
 bkz kurtlar vadisi izlemekten gay olmuş liseliler
 https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
 (bkz o göte bülbül öte)
