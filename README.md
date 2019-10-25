@@ -42,7 +42,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!--https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/&w=gd bkz lol-->
+<!--
+bkz ismi fatih sultan mehmet olanlardaki vurdurma eğilimi
+https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/&w=gd bkz lol-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
