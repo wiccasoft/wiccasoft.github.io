@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz şaka maka imamoğlunun marka olması
 (bkz istanbulda davul zurna çalan kürtler) https://www.youtube.com/watch?v=RDxn3OuKO8w
 https://www.uludagsozluk.com/k/orta-asya-dan-gelip-k%C3%BCrtleri-istemeyen-tip/&w=bg 
 https://www.uludagsozluk.com/k/sevi%C5%9Firken-eski-sevgilinin-ad%C4%B1n%C4%B1-hayk%C4%B1rmak/&w=bg (bkz imamoğlu)
