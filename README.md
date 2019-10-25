@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/alev-alev/&w=bg bkz 15 saniye katlanabildim bkz this gris on fire
 bkz şivan perver in rte il düeti
 https://www.uludagsozluk.com/k/devlet-bize-bakm%C4%B1yor/&w=bg bkz devlet bahçeli bakmiy bizi lo
 bkz istanbulda davul zurnayla düğün yapan pkklı çift
