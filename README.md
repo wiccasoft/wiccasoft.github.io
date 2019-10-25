@@ -50,7 +50,7 @@ https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-osmanl
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-yap%C4%B1lmamas%C4%B1-gerekenler/&w=bg bkz erkeğe burcunu sormayın
 bkz gaga bulut un hapisten attığı postlar https://www.youtube.com/watch?v=d8-soriINcA
 https://www.uludagsozluk.com/k/gaga-bulut-un-cezaevinde-%C3%B6ld%C3%BCr%C3%BClmesi/ bkz gaga bulut un ölü taklidi yapması
-https://www.uludagsozluk.com/k/alev-alev/&w=bg bkz 15 saniye katlanabildim bkz this gris on fire
+https://www.uludagsozluk.com/k/alev-alev/&w=bg bkz 15 saniye katlanabildim bkz this girl on fire kro edition
 bkz şivan perver in rte il düeti
 https://www.uludagsozluk.com/k/devlet-bize-bakm%C4%B1yor/&w=bg bkz devlet bahçeli bakmiy bizi lo
 bkz istanbulda davul zurnayla düğün yapan pkklı çift
