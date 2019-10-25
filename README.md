@@ -37,6 +37,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+(bkz hasan kabzeyi unutursak kanımız kurusun)
+https://www.uludagsozluk.com/k/hasan-kabze-nin-be%C5%9Fikta%C5%9F-a-att%C4%B1%C4%9F%C4%B1-gol/&w=bg
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz yeri uzun adamın yanı olan garip bir adam)
 https://www.youtube.com/watch?v=BV1RcLhMFYs (bkz soyunmda odasında dönen garip olaylar)
 https://www.uludagsozluk.com/k/gariban-kesimin-namusa-fazla-anlam-y%C3%BCklemesi/ (bkz tespit gibi tespit)
