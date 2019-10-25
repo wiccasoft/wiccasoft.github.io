@@ -43,6 +43,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+(bkz hayallerde yaşıyor bazı ibneler)
+https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/&w=gd
 (bkz murdat bardakçıoğlu)
 https://www.uludagsozluk.com/k/osmanl%C4%B1-emanetini-100-y%C4%B1l-saklayan-filistinli/
 (bkz hayallerde yaşıyor bazı ibneler)
