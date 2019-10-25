@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz uzun adamı yalnız bırakmayan dama gibi adam)
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg (bkz uzun adaml adilo diloy söyleyen adam gibi adam)
 https://eksisozluk.com/soyunma-odasinda-cocuklari-tokatlayan-antrenor--6224873?a=popular 
 https://www.youtube.com/watch?v=BV1RcLhMFYs  (bkz fatih terimin fb düşmanlığı)
