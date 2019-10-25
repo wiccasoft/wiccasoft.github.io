@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/playstation-oynamay%C4%B1-bilmeyen-erkek/ (bkz götü parmaklanası erkek)
 https://www.uludagsozluk.com/k/gaga-bulut-un-cezaevinde-%C3%B6ld%C3%BCr%C3%BClmesi/ (bkz gaga bulut un demirtaş yazdığı mektup)
 https://www.youtube.com/watch?v=70nK5h3xLiw oy damat oy gelin oynasın
 https://www.uludagsozluk.com/k/mazlum-kobani/ (bkz kobani olaylarının sorumlusu)
