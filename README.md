@@ -47,6 +47,7 @@ bkz tengür budun gelince lgbt nin coşması
 https://www.uludagsozluk.com/k/a%C4%9Fda-yapan-erkek/&w=bg bkz hayallerde yaşıyor bazı ibneler 
 https://www.uludagsozluk.com/k/30-dk-boyunca-erekte-kalabilen-18-cm-penis/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/mazlum-kobani-ile-osman-%C3%B6celan-aras%C4%B1ndaki-fark/ bkz yakışıklı değiller
 https://www.uludagsozluk.com/k/bedi%C3%BCzzaman-said-nursi/&w=bg bkz buda yakışıklı değil beyler
 https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz yakışıklı hdpli isteyen mhpli
 https://www.uludagsozluk.com/k/hdplilerin-tipsiz-olmas%C4%B1/&w=bg bkz organiz işler sean connery sahnesi
