@@ -46,7 +46,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 (bkz aleyna tilki)
 https://www.uludagsozluk.com/k/sevgilisinden-dayak-yiyip-babas%C4%B1na-kar%C5%9F%C4%B1-gelen-k%C4%B1z/
 (bkz bende türk e verecek göt yok diyen baba)
-(bkz türk ibnelerin hala beni kürt sanması olm sizi siker üstüne kürtlere de  siktiririm )
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1-bara-g%C3%B6nderen-baba/&w=bg
 https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
