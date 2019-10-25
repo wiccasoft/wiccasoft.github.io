@@ -41,6 +41,8 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+bkz pkk marşı okuyan batman il başkanı
+https://www.uludagsozluk.com/k/pkk-mar%C5%9F%C4%B1-okuyan-hdp-li-diyarbak%C4%B1r-bld-ba%C5%9Fkan%C4%B1/
 https://www.youtube.com/watch?v=9FJHDkx1Gv8 bkz binalinin ortak yayında döşediği boru
 https://www.uludagsozluk.com/k/veli-a%C4%9Fbaba-n%C4%B1n-akp-lilere-verdi%C4%9Fi-efsane-ayar/ (bkz içinde gezdirmek)
 https://www.uludagsozluk.com/k/a%C4%9Fda-yapan-erkek/&w=bg (bkz göt deliği yalanası erkek)
