@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-gamze-%C3%B6z%C3%A7elik-temal%C4%B1-yaz%C4%B1s%C4%B1/ 
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/ (bkz diyanet su işleri bırak bu işleri)
 https://eksisozluk.com/diyanetin-2020-yili-butcesinin-11-5-milyar-olmasi--6224131?a=popular (bkz camilerin su gideri)
 https://www.uludagsozluk.com/k/dinazorlar%C4%B1n-helak-olmas%C4%B1n%C4%B1n-sebebi/&w=bg (bkz namaz kılmamak)
