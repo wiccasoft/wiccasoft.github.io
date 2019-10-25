@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+https://www.uludagsozluk.com/k/lise-mezunu-olan-ezik/&w=bg (bkz a bu benim)
 https://www.uludagsozluk.com/k/cem-adrian/&w=bg (bkz sarı gelin söylerken detone olan şarkıcı9
 https://www.uludagsozluk.com/k/zengin-koca-arayan-k%C4%B1z/&w=bg (bkz Ginni Rometty )
 https://www.uludagsozluk.com/k/metin-ka%C3%A7an/ (bkz hasan kaçanın abisi adam gibi adam)
