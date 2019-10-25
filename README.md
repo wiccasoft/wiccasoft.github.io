@@ -46,6 +46,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 bkz fakirlerin militarist olma sebepleri üzerine tez yazmak
 bkz fakirlerin militraist olması paradoksu 
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri/&w=bg (bkz bordo klavyeliler)
+https://www.uludagsozluk.com/k/kedim-k%C3%BCrt-olabilir-mi/ (bkz lol)
 (bkz ne kürt ne de türk olduğum için siklemediğim durum)
 https://www.uludagsozluk.com/k/t%C3%BCrklere-k%C3%BCrtlerden-nefret-edilmesi-%C3%B6%C4%9Fretiliyor/
 https://www.uludagsozluk.com/k/a%C4%9Flayan-kek-adam-m%C4%B1d%C4%B1r/ (bkz bir kek sana bir saray bana)
