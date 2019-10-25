@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n-kolas%C4%B1na-balgam-at%C4%B1p-kar%C4%B1%C5%9Ft%C4%B1rmak/ 
 https://www.uludagsozluk.com/k/ambulans%C4%B1n-pe%C5%9Fine-tak%C4%B1lan-%C5%9Fof%C3%B6r/&w=bg (bkz vurduruyordur)
 bkz ekrem imamoğlunun göbeğini sigortalatması
 bkz imamaoğlunun horon teperken ki göbeği
