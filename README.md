@@ -43,7 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz fakirlerin militarist olma sebeplerin üzerine test yazmak
+bkz fakirlerin militarist olma sebepleri üzerine test yazmak
 bkz fakirlerin militraist olması paradoksu 
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri/&w=bg (bkz bordo klavyeliler)
 (bkz ne kürt ne de türk olduğum için siklemediğim durum)
