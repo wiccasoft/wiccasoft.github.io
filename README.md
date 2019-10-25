@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz recep ivedik 7 nin gişede çakılması
 bkz efso fatih terim soyunma odası konuşması
 https://www.youtube.com/watch?v=BV1RcLhMFYs
 https://www.uludagsozluk.com/k/kayseri-deki-dayak%C3%A7%C4%B1-antren%C3%B6r-olay%C4%B1/ bkz soyunma odası gerginlikleri
