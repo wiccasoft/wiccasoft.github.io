@@ -37,6 +37,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
+bkz bir burhan altıntop kolay yetişmiy diyip forum sitesinde futbolculara entry girmek
 https://www.uludagsozluk.com/k/max-kruse/&w=bg (bkz çaylak yemiş beyler)
 bkz bir burhan altıntop kolay yetişmiy diyip forum sitesinde şaka makalı başlık açmak
 https://www.uludagsozluk.com/k/lise-mezunu-olan-ezik/&w=bg (bkz a bu benim) https://www.youtube.com/watch?v=kG_F118ruOM
