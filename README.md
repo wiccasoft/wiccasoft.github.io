@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/a%C4%9Flayan-keke-kafam-%C5%9Fi%C5%9Fti-sus-demek/ (bkz bir kek sana bir saray bana)
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-ahmet/&w=bg (bkz mucize doktordaki mantık hatası)
 bkz erkem imamaoğlunun pezevenklik yapması
 https://aylak-kadin.uludagsozluk.com/ bkz sikici arayan bi abla genşlere tavsiyem yürüyün
