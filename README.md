@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+bkz türklerdeki vurdurma eğilimi
 https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/ (bkz ibne olmayan türk var mı?)
 https://www.uludagsozluk.com/k/rusya-n%C4%B1n-s%C4%B1cak-denizlere-inme-hasreti-sona-erdi/ (bkz geliyoruz ibneler)
 (bkz aleyna tilki)
