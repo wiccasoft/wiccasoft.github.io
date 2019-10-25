@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/e/42327797/ (bkz lol)
+https://eksisozluk.com/engin-ardicin-ekrem-imamoglunu-son-kez-uyarmasi--6224886?a=popular (bkz vaziyet alın karışır buralar)
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz metin kaçanın kardeşi)
 https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ (bkz hangi oç yaptı lan bunu)
 https://www.uludagsozluk.com/k/gagavuzya-ba%C5%9Fkan%C4%B1-irina-vlah-%C4%B1n-yemin-t%C3%B6reni/
