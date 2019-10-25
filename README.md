@@ -43,7 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-https://aylak-kadin.uludagsozluk.com/ bkz peçete artığı
+https://aylak-kadin.uludagsozluk.com/ bkz yazık la kimin annesiyse
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/%C3%B6calan%C4%B1-tv-ye-%C3%A7%C4%B1karanlar%C4%B1n-allah-belas%C4%B1n%C4%B1-versin/
 (bkz hayallerde yaşıyor bazı ibneler)
