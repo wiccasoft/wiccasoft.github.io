@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/a%C4%9Flayan-kek-adam-m%C4%B1d%C4%B1r/ (bkz bir kek sana bir saray bana)
 bkz mucize doktor daki yakışıklı doktorun gaga bulut olma ihtimali
 bkz bir erkeğin ibne olup olmadığını anlama yolları
 bkz gaga bulut ibnemiydi sorunsalı
