@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/gariban-kesimin-namusa-fazla-anlam-y%C3%BCklemesi/ (bkz tespit gibi tespit)
+https://www.uludagsozluk.com/k/hasan-kabze-nin-be%C5%9Fikta%C5%9F-a-att%C4%B1%C4%9F%C4%B1-gol/&w=bg (bkz peki)
 https://www.youtube.com/watch?v=9QOfjdHnN7A
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg (bkz haçan kaçan)
 https://www.uludagsozluk.com/k/ibb-nin-muhalifleri-engellemesi/ (bkz çok fena ibnelik döndüğü düşünülen yerler)
