@@ -38,6 +38,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
 https://www.youtube.com/watch?v=cs8mES3n0LYh
 https://www.uludagsozluk.com/k/serhat-k%C4%B1l%C4%B1%C3%A7/&w=bg (bkz yine tüpe soktun kardeş)
+https://eksisozluk.com/saka-maka-kurt-diye-bir-seyin-olmasi--4226780 (bkz şaka maka derken katakulliye gelmeyek olm)
 https://www.uludagsozluk.com/k/fatih-terim/ (bkz efso 2001 soyunma odası konuşması)
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-ciddi-ciddi-ba%C5%9Fl%C4%B1k-a%C3%A7mak/
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg (bkz soyunma odasında şaka maka falcoya yaptığı hareket)
