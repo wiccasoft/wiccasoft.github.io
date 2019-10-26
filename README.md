@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+ bkz 2013 yılında yeterli protein alınıyormuş 
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mayo-giydiren-adam/ (bkz lol)
 (bkz yine seks hikayesi mi yazıyosun feridun abii)
 https://www.uludagsozluk.com/k/bende-k%C3%BCrde-verecek-k%C4%B1z-yok-diyen-baba/ (bkz vurdurmak için bahane arıyordur)
