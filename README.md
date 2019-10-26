@@ -5,6 +5,12 @@
 https://www.uludagsozluk.com/k/hay-ben-sizin-ekrem-imamo%C4%9Flunuzu/ lol
 https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/ lol
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-z%C3%BCb%C3%BCk-benzerli%C4%9Fi/ lol 
+https://www.uludagsozluk.com/k/gaga-bulut-un-cezaevinde-%C3%B6ld%C3%BCr%C3%BClmesi/&w=gd lol
+https://eksisozluk.com/fenerbahce-yuksek-divan-kurulunda-rte-posteri--6226283?a=popular bkz lol
+https://eksisozluk.com/26-ekim-2019-mehmetcigin-iki-pkkliyi-gebertmesi--6226183?a=popular lol
+https://eksisozluk.com/suriyedeki-kurtlerin-abd-konvoyunun-onune-yatmasi--6225869?a=popular lol
+https://eksisozluk.com/okullarda-kurtlerden-nefret-etmenin-ogretilmesi--6225441?a=popular lol
+https://eksisozluk.com/idlib-col-oldugu-icin-kurtler-yasayamaz--6224700?a=popular bkz lol
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
