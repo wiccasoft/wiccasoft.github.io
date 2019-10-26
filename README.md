@@ -45,7 +45,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 <!--
  bkz 2013 yılında yeterli protein alınıyormuş 
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mayo-giydiren-adam/ (bkz lol)
-(bkz yine seks hikayesi mi yazıyosun feridun abii)
+(bkz yine seks hikayesi mi yazıyosun feridun abii boşver abi vurduruodur abi
 https://www.uludagsozluk.com/k/bende-k%C3%BCrde-verecek-k%C4%B1z-yok-diyen-baba/ (bkz vurdurmak için bahane arıyordur)
 https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1%C5%9Fer/&w=bg (bkz barışözcanın övdüğü emogay)
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg (bkz vurduruyordur)
