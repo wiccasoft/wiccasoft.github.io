@@ -1,6 +1,8 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says
-blz imamaoğlanın lpg terör örgütü değildir demesi
+aman ali rıza bey silivri soğuktur şimdi
+https://www.uludagsozluk.com/k/vefa-k%C3%BC%C3%A7%C3%BCkten-rte-ye-aidat-g%C3%B6ndermesi/ 
+bkz imamaoğlanın lpg terör örgütü değildir demesi
 bkz imamoğlanın şiliyi karıştırması
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-hatalar/&w=bg
 bkz imamoğlanın cape verde sahillerine göz dikmesi
