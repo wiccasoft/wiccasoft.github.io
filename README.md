@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1-bara-g%C3%B6nderen-baba/&w=bg (bkz vurduruyordur)
 (bkz çalışan kazanır elması kızarır)
 https://www.uludagsozluk.com/e/42331091/
