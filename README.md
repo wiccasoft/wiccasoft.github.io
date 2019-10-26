@@ -2,6 +2,7 @@
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 <!--
+bkz caner erkin sırıtırken abdullah avcı nın ensesine şaplak atması
 bkz sadık çiftpınarın taylor swifte yürümesi
 bkz hayalerde yaşıyor bazı ibneler bkz tayyo nun pkk ile oyaladığı akkoyunlar
 https://www.uludagsozluk.com/k/askerlerimizin-pkkl%C4%B1-pi%C3%A7leri-avlamas%C4%B1/
