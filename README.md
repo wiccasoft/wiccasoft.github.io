@@ -2,6 +2,8 @@
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 <!--
+bkz çikolata ne lan amın feryadı çocuk muyuz türk çikolatası yiyielim amık
+https://www.uludagsozluk.com/k/t%C3%BCrk-%C3%A7ikolatas%C4%B1n%C4%B1-yere-f%C4%B1rlatan-italyan-vekil/&w=bg
 bkz rte nin tek maçtan yatması
 bkz gaga bulutun şiliye kaçmas
 bkz rte nin tek devlet tek millet tek vatan demesi
