@@ -6,6 +6,8 @@ bkz imamoğlanın kem gözüyle şiliyi karıştırması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-z%C3%BCb%C3%BCk-benzerli%C4%9Fi/ 
 bkz imamoğlanın ibb paralarını dünyayı gezmek için kullanması
 https://www.uludagsozluk.com/k/rize-imamhatip-%C3%BCniversitesi-ilahiyat-fak%C3%BCltesi/ bkz imamaoğlanın imamhatipli olması
+bkz silivri ney lan hep soğuk mezbaha mı orası
+https://www.uludagsozluk.com/k/vefa-k%C3%BC%C3%A7%C3%BCkten-rte-ye-aidat-g%C3%B6ndermesi/ 
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
