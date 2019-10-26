@@ -47,7 +47,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mayo-giydiren-adam/ (bkz lol)
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-ahmet/&w=bg (bkz mucize doktordaki mantık hatası)
 https://www.uludagsozluk.com/k/bende-k%C3%BCrde-verecek-k%C4%B1z-yok-diyen-baba/ (bkz vurdurmak için bahane arıyordur)
-https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1%C5%9Fer/&w=bg (bkz barışözcanın övdüğü emogay)
+https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1%C5%9Fer/&w=bg (bkz emogay)
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1-bara-g%C3%B6nderen-baba/&w=bg (bkz vurduruyordur)
