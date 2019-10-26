@@ -2,6 +2,7 @@
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 <!--
+bkz rte nin tek maçtan yatması
 bkz gaga bulutun şiliye kaçmas
 bkz rte nin tek devlet tek millet tek vatan demesi
 bkz esedin konyasporu desteklemesi
