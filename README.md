@@ -1,27 +1,5 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says
-bkz imamaoğlanın ibiza sahillerine göz dikmesi
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz olm bu ney lan tipini sikem tayyip asdfasdsa
-bkz ali koç un tayyoş a yalakalık için on takla atmasnapacağını şaşırması olayı
-bkz silivri ney lan mazbaha mı orası hep soğuk
-https://www.uludagsozluk.com/k/vefa-k%C3%BC%C3%A7%C3%BCkten-rte-ye-aidat-g%C3%B6ndermesi/ 
-bkz imamaoğlanın lpg terör örgütü değildir demesi
-bkz imamoğlanın şiliyi karıştırması
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-yapt%C4%B1%C4%9F%C4%B1-hatalar/&w=bg
-bkz imamoğlanın cape verde sahillerine göz dikmesi
-bkz rte nin ama stadyum yaptık demesi
-bkz türklerin nutella yemekten beyinlerinin durması olm et yiyin protein alın lan yazık 
-tayyip aç mı bıraktı sizi kıyamam yahu antrikot yiyin antrikot beyninize kan gider
-https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/&w=bg lol
-https://www.uludagsozluk.com/k/hay-ben-sizin-ekrem-imamo%C4%9Flunuzu/ lol
-https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/ lol
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-z%C3%BCb%C3%BCk-benzerli%C4%9Fi/ lol 
-https://www.uludagsozluk.com/k/gaga-bulut-un-cezaevinde-%C3%B6ld%C3%BCr%C3%BClmesi/&w=gd lol
-https://eksisozluk.com/fenerbahce-yuksek-divan-kurulunda-rte-posteri--6226283?a=popular bkz lol
-https://eksisozluk.com/26-ekim-2019-mehmetcigin-iki-pkkliyi-gebertmesi--6226183?a=popular lol
-https://eksisozluk.com/suriyedeki-kurtlerin-abd-konvoyunun-onune-yatmasi--6225869?a=popular lol
-https://eksisozluk.com/okullarda-kurtlerden-nefret-etmenin-ogretilmesi--6225441?a=popular lol
-https://eksisozluk.com/idlib-col-oldugu-icin-kurtler-yasayamaz--6224700?a=popular bkz lol
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
