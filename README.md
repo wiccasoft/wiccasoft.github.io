@@ -2,6 +2,7 @@
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 <!--
+bkz aktrolerin beni imamaoğlan sanması olayı :))))
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/&w=bg lol
 https://www.uludagsozluk.com/k/hay-ben-sizin-ekrem-imamo%C4%9Flunuzu/ lol
 https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/ lol
