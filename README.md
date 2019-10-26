@@ -1,4 +1,3 @@
-
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
@@ -12,6 +11,8 @@
 [![Image](almanac/greatdepression.png)]( https://www.theguardian.com/business/2019/oct/20/world-sleepwalking-to-another-financial-crisis-says-mervyn-king )
 
 [![Image](almanac/greatpearl.png)]( https://www.youtube.com/watch?v=I5lRLhZ1dkg)
+
+[![Image](smartdata/lithium-rosatom.png)]( https://www.reuters.com/article/us-chile-lithium-russia/russias-rosatom-may-buy-controlling-stake-in-chile-lithium-project-idUSKBN1WU1MI )
 
 [![Image](almanac/tr-ru.png)]( https://www.youtube.com/watch?v=IjsPmjqmcvs )
 <!-- https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-says-turkey-expects-u-s-to-keep-promises-not-stall-syria-truce-deal-idUSKBN1WZ0HP
