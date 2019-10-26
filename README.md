@@ -6,7 +6,7 @@ bkz imamoğlanın sultangazi sahillerine göz dikmesi
 https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/&w=gd
 bkz imamoğlanın kem gözüyle şiliyi karıştırması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-z%C3%BCb%C3%BCk-benzerli%C4%9Fi/ 
-bkz imamoğlanın ibb paralarını dünyayı gezmek için kullanması
+bkz imamoğlanın ibb paralarını saçma projelerle çarçur etmesi
 bkz imamaoğlanın imamhatipli olması
 https://www.uludagsozluk.com/k/rize-imamhatip-%C3%BCniversitesi-ilahiyat-fak%C3%BCltesi/
 bkz silivri ney lan hep soğuk mezbaha mı orası
