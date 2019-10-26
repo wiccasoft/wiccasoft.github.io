@@ -43,22 +43,17 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-bkz mucize doktordaki mantık hatası
-https://www.uludagsozluk.com/k/atanamayan-%C3%B6%C4%9Fretmenler/ (bkz hababam sınıfı ahmet)
 (bkz saksıya fesleğen gibi oturtmak)
 https://www.uludagsozluk.com/k/menderes-i-10-%C3%B6zal-%C4%B1-7-erbakan%C4%B1-1-y%C4%B1lda-indirdiler/
-bkz 2013 yılında yeterli protein alınıyormuş 
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mayo-giydiren-adam/ (bkz lol)
-bkz türklerin asalak olması
 https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-ahmet/&w=bg (bkz mucize doktordaki mantık hatası)
 https://www.uludagsozluk.com/k/bende-k%C3%BCrde-verecek-k%C4%B1z-yok-diyen-baba/ (bkz vurdurmak için bahane arıyordur)
 https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1%C5%9Fer/&w=bg (bkz emogay)
-bkz türklerin beyin kapasitelerinin yetersiz olması
-bkz türklerin herşeyi kendileriyle ilgili sanması
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz vurduruyordur)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1-bara-g%C3%B6nderen-baba/&w=bg (bkz vurduruyordur)
 (bkz çalışan kazanır elması kızarır)
 https://www.uludagsozluk.com/e/42331091/
+bkz 2013 yılında yeterli protein alınıyormuş 
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mayo-giydiren-adam/ (bkz lol)
 https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
 (bkz hayallerde yaşıyor bazı ibneler)
 https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
