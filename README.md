@@ -2,6 +2,8 @@
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 <!--
+bkz hayalerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/askerlerimizin-pkkl%C4%B1-pi%C3%A7leri-avlamas%C4%B1/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg tayyo ibnesinin fenerli olması
 bkz hayallerde yaşıyor bazı ak ibneler
 https://www.uludagsozluk.com/k/i%C5%9Fit-militanlar%C4%B1n%C4%B1n-%C3%A7okta-k%C3%B6t%C3%BC-olmamas%C4%B1/
