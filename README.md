@@ -43,6 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
+https://www.uludagsozluk.com/k/atanamayan-%C3%B6%C4%9Fretmenler/ (bkz hababam sınıfı ahmet)
 (bkz saksıya fesleğen gibi oturtmak)
 https://www.uludagsozluk.com/k/menderes-i-10-%C3%B6zal-%C4%B1-7-erbakan%C4%B1-1-y%C4%B1lda-indirdiler/
 bkz 2013 yılında yeterli protein alınıyormuş 
