@@ -1,31 +1,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says
-bkz türklerin nutella yemekten beyinlerinni durması olm et yiyin protein alın lan yazık 
-tayyip aç mı bıraktı sizi kıyamam yahu antrikot yiyin antrikot beyninze kan gider
-bkz türklerin sevilmediklerini anlamaması olayı
-bkz türk orospu sıçmıklarını dünyada kimsenin sevmemesi
-bkz çikolata ne lan amın feryadı çocuk muyuz türk çikolatası yiyielim amık
-https://www.uludagsozluk.com/k/t%C3%BCrk-%C3%A7ikolatas%C4%B1n%C4%B1-yere-f%C4%B1rlatan-italyan-vekil/&w=bg
-bkz rte nin tek maçtan yatması
-bkz gaga bulutun şiliye kaçmas
-bkz rte nin tek devlet tek millet tek vatan demesi
-bkz esedin konyasporu desteklemesi
-bkz konyasporun boruyu döşeyeceği maç
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e-divan-kurulundaki-rte-posteri/ bkz zübükzade
-https://www.uludagsozluk.com/k/26-ekim-2019-fenerbah%C3%A7e-konyaspor-ma%C3%A7%C4%B1/&w=gd
-bkz devlet bahçelinin beka vadisine gitmesi
-bkz esedle rte nin şilinin toprak bütünlüğü konusunda hem fikir olması
-bkz esedin suriye yerine şiliyle ilgilnmesi
-bkz caner erkin sırıtırken abdullah avcı nın ensesine şaplak atması
-bkz sadık çiftpınarın taylor swifte yürümesi
-bkz hayalerde yaşıyor bazı ibneler bkz tayyo nun pkk ile oyaladığı akkoyunlar
-https://www.uludagsozluk.com/k/askerlerimizin-pkkl%C4%B1-pi%C3%A7leri-avlamas%C4%B1/
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg tayyo ibnesinin fenerli olması
-bkz hayallerde yaşıyor bazı ak ibneler
-https://www.uludagsozluk.com/k/i%C5%9Fit-militanlar%C4%B1n%C4%B1n-%C3%A7okta-k%C3%B6t%C3%BC-olmamas%C4%B1/
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-oldu%C4%9Fu-gibi-sevmek/ bkz değiştirmeye çalışma kız sabret az
-bkz aktrolerin beni imaamoğlan ya da siktiribokton ülkerinde ki futbol klübü sanması olayı :))))
-lan akgerizekalılar ben sizin oymağa bağlı değilim
+bkz türklerin nutella yemekten beyinlerinin durması olm et yiyin protein alın lan yazık 
+tayyip aç mı bıraktı sizi kıyamam yahu antrikot yiyin antrikot beyninize kan gider
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/&w=bg lol
 https://www.uludagsozluk.com/k/hay-ben-sizin-ekrem-imamo%C4%9Flunuzu/ lol
 https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/ lol
