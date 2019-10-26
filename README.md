@@ -5,6 +5,7 @@
 bkz gaga bulutun şiliye kaçması
 bkz esedin konyasporu desteklemesi
 bkz konyasporun boruyu döşeyeceği maç
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-divan-kurulundaki-rte-posteri/ bkz zübükzade
 https://www.uludagsozluk.com/k/26-ekim-2019-fenerbah%C3%A7e-konyaspor-ma%C3%A7%C4%B1/&w=gd
 bkz devlet bahçelinin beka vadisine gitmesi
 bkz esedle rte nin şilinin toprak bütünlüğü konusunda hem fikir olması
