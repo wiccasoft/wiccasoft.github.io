@@ -1,7 +1,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says
 bkz türklerin nutella yemekten beyinlerinni durması olm et yiyin protein alın lan yazık 
-tayyip aç mı nıraktı sizi kıyamam yahu
+tayyip aç mı bıraktı sizi kıyamam yahu antrikot yiyin antrikot beyninze kan gider
 bkz türklerin sevilmediklerini anlamaması olayı
 bkz türk orospu sıçmıklarını dünyada kimsenin sevmemesi
 bkz çikolata ne lan amın feryadı çocuk muyuz türk çikolatası yiyielim amık
