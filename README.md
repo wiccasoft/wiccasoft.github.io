@@ -43,7 +43,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
 <!--
-(bkz yine seks hikayesi mi yazıyosun feridun abiiiiii sallama abi vurduruyodur abi)
+(bkz yine seks hikayesi mi yazıyosun feridun abiiiboşa yazma  vurduruyodur abi)
 https://www.uludagsozluk.com/k/bende-k%C3%BCrde-verecek-k%C4%B1z-yok-diyen-baba/ (bkz vurdurmak için bahane arıyordur)
 https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1%C5%9Fer/&w=bg (bkz barışözcanın övdüğü emogay)
 https://www.uludagsozluk.com/k/nuri-bilge-ceylan/&w=bg (bkz vurduruyordur)
