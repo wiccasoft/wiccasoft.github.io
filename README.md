@@ -1,7 +1,8 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/&w=bg lol
 https://www.uludagsozluk.com/k/hay-ben-sizin-ekrem-imamo%C4%9Flunuzu/ lol
 https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/ lol
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-z%C3%BCb%C3%BCk-benzerli%C4%9Fi/ lol 
