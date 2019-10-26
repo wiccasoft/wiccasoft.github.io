@@ -2,8 +2,8 @@
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
 <!--
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-oldu%C4%9Fu-gibi-sevmek/ bkz değiştirmeye çalışma kız sabret az
 bkz aktrolerin beni imaamoğlan ya da siktiribokton ülkerinde ki futbol klübü sanması olayı :))))
-lan aktroller asdasdasdadsadasd olm ne futbol severim ne şehir
 https://www.uludagsozluk.com/k/ne-kadar-reis-seversiniz-anketi/&w=bg lol
 https://www.uludagsozluk.com/k/hay-ben-sizin-ekrem-imamo%C4%9Flunuzu/ lol
 https://www.uludagsozluk.com/k/ekremin-kemerburgaz-kent-orman%C4%B1na-%C3%A7%C3%B6kmesi/ lol
