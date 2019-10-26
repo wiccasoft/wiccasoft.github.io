@@ -45,26 +45,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/chaos.png)]( https://www.youtube.com/watch?v=I0tE6T-ecmg )
 
 [![Image](almanac/turks-kurds-wars.png)]( https://www.theguardian.com/world/2019/oct/07/us-to-let-turkish-forces-move-into-syria-abandoning-kurdish-allies )
-<!--
-(bkz içecen şarabı sikecen arabı)
-https://www.uludagsozluk.com/k/araplardan-para-kazan%C4%B1n-inan%C4%B1n-siz-de-seveceksiniz/&w=bg
-(bkz saksıya fesleğen gibi oturtmak)(bkz yalçın küçüktür ama mide bulandırır)
-https://www.uludagsozluk.com/k/menderes-i-10-%C3%B6zal-%C4%B1-7-erbakan%C4%B1-1-y%C4%B1lda-indirdiler/
-https://www.uludagsozluk.com/k/yemekten-sonra-meyve-mi-tatl%C4%B1-m%C4%B1-yenir/&w=bg (bkz yeyecen datlıyı sikecen garıyı)
-https://www.uludagsozluk.com/k/t%C3%BCrk-olmakla-%C3%B6v%C3%BCnmek/&w=bg (bkz türk öğün geğir bi daha öğün)
-https://www.uludagsozluk.com/k/hababam-s%C4%B1n%C4%B1f%C4%B1-ahmet/&w=bg (bkz mucize doktordaki mantık hatası)
-https://www.uludagsozluk.com/k/bende-k%C3%BCrde-verecek-k%C4%B1z-yok-diyen-baba/ (bkz vurdurmak için bahane arıyordur)
-https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1%C5%9Fer/&w=bg (bkz emogay)
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ (bkz vurduruyordur)
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1-bara-g%C3%B6nderen-baba/&w=bg (bkz vurduruyordur)
-(bkz çalışan kazanır elması kızarır)
-https://www.uludagsozluk.com/e/42331091/
-bkz 2013 yılında yeterli protein alınıyormuş 
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mayo-giydiren-adam/ (bkz lol)
-https://www.uludagsozluk.com/e/42330868/ (bkzgaylord)
-(bkz hayallerde yaşıyor bazı ibneler)
-https://www.uludagsozluk.com/k/norve%C3%A7-ten-dam%C4%B1zl%C4%B1k-erkek-ithal-etmek/
-https://www.uludagsozluk.com/k/fatih-sultan-mehmet-ibne-miydi/&w=gd bkz lol-->
+<!--qb-->
 
 [![Image](smartdata/biothermodynamics.png)]( https://www.washingtonpost.com/business/2019/10/05/more-bad-blood-theranos-founder-elizabeth-holmes-this-time-with-her-own-attorneys/ )
 
