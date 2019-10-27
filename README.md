@@ -8,7 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz sadık çiftpınar yürümesi vs emre mor yürümesi
-     bkz düşün ki falcao yazdıklarını okuyor
+     bkz düşün ki fatih falcao terimetto yazdıklarını okuyor 
      bkz ağızdan öpüşen maç yokmuşcasına başlığının pek tutmaması
      https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz ekşideki falcao hakkındaki garip entry
      bkz ağızdan öpüşen türbanlı yarın maç yokmuşcasına
