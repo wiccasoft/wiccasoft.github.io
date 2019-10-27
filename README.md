@@ -17,14 +17,11 @@
      bkz çocuğunu pilavlıya çağırmayan mümin
      https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
      bkz seni pazar günü klisede göremedim john
-     https://www.uludagsozluk.com/k/yavrum-diyen-erkek-hatun-diyen-erke%C4%9Fi-ezer/&w=bg bkz buralar karışır beyler 
      bkz ağda yaptırıp şal isteyen erkek
-     bkz: got kismetten cikinca yarrak bagdattan gelir
+     bkz got kismetten cikinca yarrak bagdattan gelir
      bkz timsah dansı yapan futbolculara ass to ass yaptırmak
      bkz ağızdan öpüşen türbanlının merve kavak çıkması
      bkz ağızdan öpüşen türbanlıyı alıp maça götürmek
-     https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funa-dini-e%C4%9Fitim-vermeyen-aile/&w=bg bkz pilavlı dedik mübarek
-     https://www.uludagsozluk.com/k/hatun-diyen-erkek-iticili%C4%9Fi/&w=bg bkz ne diyem mahmut mı diyem    
      bkz ağlayacaksan oynamayalım cincon
      bkz kadi mısıroğlunun keşke icincon galip gelseydi demesi
      bkz mazlum kobanin ebu bekir el bagdadi yi savunması
@@ -36,16 +33,6 @@
      bkz fenerlilerin ön liberosuz şampiyon olacaklarını sanmaları
      bkz en iyi ön libero deyince akla gelenler
      bkz en iyi orta üçlü deyince akla gelenler
-     bkz ofsayt ne bilmeyen kadına ofsaytı anlatmak
-     bkz kadınlar aklının futbola ermemesi
-     bkz kafa topunda iyi olan futbolcular
-     bkz kadınların aklının futbola yetmemesi
-     bkz kadınların futbol cahili olması 
-     bkz emre belezoğlanın kadir mısıroğlana destek çıkması
-     bkz kadir mısıroğlunun fenerli olması
-     bkz fatih terim in futbol zekası vs zidane ın futbol zekası
-     bkz efendiler yarın cumhuriyeti ilan edip maç konuşacağız
-     bkz ağızdan öpüşen türbanlının yarın maç yokmuş gibi çalışması
      bkz ekşidekilerin futbol dışında nasıl geçindiği sorunsalı 
      bkz ekşideki alex mi hagi mi kavgas https://eksisozluk.com/hagi-mi-alex-mi--2110033
      bkz arifin manchestera attığı gol
