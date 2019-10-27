@@ -7,6 +7,8 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
+     bkz seni pazar günü klisede göremedim john
      bkz çocuğuna pagan eğitim vermeyen müslümler hristoslar
      bkz cübbeli ahmet hocanın badelediği müslümler
      bkz beyler ben ups boobsa yürüyorum vaziyet alın yengeniz olur
