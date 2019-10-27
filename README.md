@@ -10,6 +10,7 @@
      https://www.uludagsozluk.com/e/42337671/ lol
      https://www.uludagsozluk.com/k/pc-den-s%C3%B6zl%C3%BC%C4%9Fe-girmek/
      bkz falcaoya yazılan entryleri okurken babanın odaya girmesi
+     bkz ekşide falcao hakkındaki garip entry
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz yarın  maç yokmuşcasına ağızdan öpüşen türbanlı 
      bkz yarınlar yokmuşcasına deli gibi entryi girmek  bkz azından mı öpmüş
