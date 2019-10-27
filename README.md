@@ -9,9 +9,6 @@
      http://muratakay.com.tr/ lol
      https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
      bkz seni pazar günü klisede göremedim john
-     bkz çocuğuna pagan eğitim vermeyen müslümler hristoslar
-     bkz cübbeli ahmet hocanın badelediği müslümler
-     bkz beyler ben ups boobsa yürüyorum vaziyet alın yengeniz olur
      https://www.uludagsozluk.com/k/yavrum-diyen-erkek-hatun-diyen-erke%C4%9Fi-ezer/&w=bg bkz buralar karışır beyler 
      bkz ağda yaptırıp şal isteyen erkek
      bkz: got kismetten cikinca yarrak bagdattan gelir
