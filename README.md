@@ -10,6 +10,7 @@
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz yarınlar yokmuşcasına deli gibi entryi girmek
+     https://eksisozluk.com/radamel-falcao-garcia--680597?a=popular bkz yarınlar yokmuşcasına koşan forvet
      https://www.uludagsozluk.com/k/a%C4%9F%C4%B1zdan-%C3%B6p%C3%BC%C5%9Fen-azg%C4%B1n-t%C3%BCrbanl%C4%B1-han%C4%B1m/
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular
      https://eksisozluk.com/galatasarayin-zidane-ve-a-avciyi-kovdurmasi--6220702?a=popular bkz avcının kayırdığı futbolcular
