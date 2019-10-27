@@ -7,6 +7,8 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz kadınların futbol cahili olması 
+     https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-genelde-akl%C4%B1n%C4%B1n-k%C4%B1t-olmas%C4%B1/&w=bg
      bkz emre belezoğlanın kadir mısıroğlana destek çıkması
      bkz kadir mısıroğlunun fenerli olması
      bkz fatih terim in futbol zekası vs zidane ın futbol zekası
