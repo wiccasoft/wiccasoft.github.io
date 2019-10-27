@@ -7,7 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     bkz yarınlar yokmuşcasına gülerek entry giren ergenler
+     bkz yarın maç yokmuşcasına gülerek entry giren ergenler
      bkz tayyibin kazları oyalamak için bütün kanallara futbol tartışma programı pompalaması yarınlar yokmuşcasına
      bkz fatih terim soyunma odası ağızdan efso konuşması yarın maç yokmuş gibi
      bkz yarın maç yokmuş gibi entry giren ekşici 
@@ -16,7 +16,6 @@
      https://www.uludagsozluk.com/k/erkeklere-nefret-etme-sebepleri/ bkz futbol fanatiklerinni gece kız moduna geçmeleri
      bkz ben cemal süreyya başlığına gidiyorum siz ahmet ümit başlığan beyler
      bkz sadık çiftpınar yürümesi vs emre mor yürümesi
-     bkz düşün ki fatih falcao terimetto yazdıklarını okuyor 
      bkz ağızdan öpüşen maç yokmuşcasına başlığının pek tutmaması
      https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz ekşideki falcao hakkındaki garip entry
      bkz ağızdan öpüşen türbanlı yarın maç yokmuşcasına
