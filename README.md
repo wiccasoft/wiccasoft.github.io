@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     https://eksisozluk.com/fatih-terim--37577?a=popular bkz höksel güöüşdağlının fatih terim basın açıklmasını bölmesi
      https://www.uludagsozluk.com/k/galatasaray-a-gelenin-ge%C3%A7enin-yaslamas%C4%B1/ bkz lol
      https://www.uludagsozluk.com/k/pedofili-denince-akla-ilk-gelen-isim/&w=bg bkz ebu bekir el bağdadi
      https://www.uludagsozluk.com/k/abdest-bozduran-erkekler/&w=bg bkz umut nayır
