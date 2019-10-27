@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz mazlum kobanin ebu bekir el bagdadi yi savunması
      bkz kamalcıların ak futbolun ekmeğine yağ süren en büyük tayfa olması
      bkz ak futbol istiyoruz kampanyası
      bkz siysal islamın ılıman futbola dönüşmesi 
