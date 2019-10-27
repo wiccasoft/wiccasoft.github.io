@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz sadık çiftpınar yürümesi vs emre mor yürümesi
+     bkz yarın maç yokmuşcasına oraldan öpüşen türbanlı
      https://www.uludagsozluk.com/e/42338488/ bkz nicole kidman'ın emre mor çok yakışıklı demesi
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz emre mor un yine yürümesi
