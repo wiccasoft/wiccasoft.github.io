@@ -10,6 +10,7 @@
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz yarınlar yokmuşcasına deli gibi entryi girmek
+     https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz cafede şal isteyen erkek
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular
      https://eksisozluk.com/galatasarayin-zidane-ve-a-avciyi-kovdurmasi--6220702?a=popular bkz avcının kayırdığı futbolcular
      https://www.uludagsozluk.com/k/vedat-muriqi/&w=gd bkz fatih terimin kayırdığı futbolcular
