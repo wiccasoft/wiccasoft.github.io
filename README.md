@@ -9,6 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
+     https://www.uludagsozluk.com/k/abdullah-avc%C4%B1/&w=gd bkz caner erkinin soyunma odasında hocayı tebrik etmesi
      https://www.uludagsozluk.com/k/y%C3%BCz-kas%C4%B1-olan-erkek/&w=gd bkz falcao neymar ortega
      bkz en yakışıklı 11 https://www.youtube.com/watch?v=yphjF2e2Izg
      https://www.uludagsozluk.com/k/dursun-%C3%B6zbek-adamd%C4%B1r-yedirmeyiz/&w=bg bkz ıstırırım yedirmem onu
