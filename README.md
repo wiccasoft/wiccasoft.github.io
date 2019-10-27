@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz timsah dansı yapan futbolculara ass to ass yaptırmak
      bkz ağızdan öpüşen türbanlının merve kavak çıkması
      bkz ağızdan öpüşen türbanlıyı alıp maça götürmek
      https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funa-dini-e%C4%9Fitim-vermeyen-aile/&w=bg bkz pilavlı dedik mübarek
