@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz ebubekir el bağdadi öldüyse cenazesi nerde
      bkz fenerlilerin ön liberosuz şampiyon olacaklarını sanmaları
      bkz en iyi ön libero deyince akla gelenler
      bkz en iyi orta üçlü deyince akla gelenler
