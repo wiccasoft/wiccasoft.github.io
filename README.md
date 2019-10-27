@@ -8,6 +8,8 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     bkz emre mor un yine yürümesi
+     https://www.uludagsozluk.com/k/emre-mor-un-if%C5%9Falanmas%C4%B1/
      bkz yarın maç yokmuş gibi ağzından öpüşen türbanlı 
      https://www.uludagsozluk.com/k/pc-den-s%C3%B6zl%C3%BC%C4%9Fe-girmek/
      bkz falcaoya yazılan entryleri okurken babanın odaya girmesi
