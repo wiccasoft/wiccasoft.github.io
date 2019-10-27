@@ -7,7 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     bkz yedi bela hüsnünün ağda yaptırıp gezmesi
+     bkz yedi bela hüsnünün havuz medyasında ağda yaptırıp gezmesi
      bkz çocuğunu pilavlıya gönderip badeletmeyen aile
      bkz en çok hangi futbolcuya masturbasyon yaptınız testini çözerken odaya babanın girmesi
      bkz ağda yaptıran erkek başlığına entry girerken bi yanda  falconun kaslarına 31 çekmek
