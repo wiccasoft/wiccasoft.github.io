@@ -3,6 +3,7 @@
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
+     https://www.uludagsozluk.com/e/42336275/ lol
      bkz gerçek demir adamın melih demiral olduğu gerçeği
      https://www.uludagsozluk.com/k/volkan-demirel/&w=bg bkz evdenaldıran reis
      bkz büyük kürdistan kurulunca camilere akan paranın duracak olması
