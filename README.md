@@ -10,13 +10,12 @@
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz emre mor un yine yürümesi
      https://www.uludagsozluk.com/k/emre-mor-un-if%C5%9Falanmas%C4%B1/
-     bkz yarın maç yokmuş gibi ağzından öpüşen türbanlı 
+     bkz yarın maç yokmuş gibi ağzından öpüşen türbanlı  bkz azından mı öpmüş
      https://www.uludagsozluk.com/k/pc-den-s%C3%B6zl%C3%BC%C4%9Fe-girmek/
      bkz falcaoya yazılan entryleri okurken babanın odaya girmesi
      bkz ekşide falcao hakkındaki garip entry
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
-     bkz yarın  maç yokmuşcasına ağızdan öpüşen türbanlı 
-     bkz yarınlar yokmuşcasına deli gibi entryi girmek  bkz azından mı öpmüş
+     bkz yarınlar yokmuşcasına deli gibi entryi girmek  
      https://www.uludagsozluk.com/k/iyi-bir-futbolcuda-olmas%C4%B1-gereken-%C3%B6zellikler/&w=bg bkz irdelenmeli
      https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-hangi-siyaset-alg%C4%B1s%C4%B1-y%C3%B6netmemeli/ bkz bahçeli algısı
      https://www.uludagsozluk.com/k/piknikte-haz%C4%B1rl%C4%B1klara-hi%C3%A7bir-katk%C4%B1s%C4%B1-olmayan-ki%C5%9Fi/&w=bg
