@@ -24,8 +24,7 @@
      bkz ağızdan öpüşen türbanlıyı alıp maça götürmek
      bkz ağlayacaksan oynamayalım cincon
      bkz kadi mısıroğlunun keşke icincon galip gelseydi demesi
-     bkz mazlum kobanin ebu bekir el bagdadi yi savunması
-     bkz kamalcıların ak futbolun ekmeğine yağ süren en büyük tayfa olması
+     bkz kamalcıların ak futbolun ekmeğine yağ sürmesi
      bkz ak futbol istiyoruz kampanyası
      bkz siysal islamın ılıman futbola dönüşmesi 
      bkz çocuğuna dini futbol eğitimi vermeyen aile
