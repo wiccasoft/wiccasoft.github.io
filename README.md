@@ -12,7 +12,6 @@
      bkz havuz medyasında ağda yaptırıp gezmek
      bkz çocuğunu pilavlıya gönderip badeletmeyen aile
      bkz en çok hangi futbolcuya masturbasyon yaptınız testini çözerken odaya babanın girmesi
-     bkz ağda yaptıran erkek başlığına entry girerken bi yanda  falconun kaslarına 31 çekmek
      bkz fatih terim e entry girerken yotubetan efso soyunma odası konuşmasını izlemek
      bkz cumaya ağdalı gelip şal isteyen erkek
      bkz çocuğunu pilavlıya çağırmayan mümin
