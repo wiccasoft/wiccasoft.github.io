@@ -16,8 +16,7 @@
      bkz yarınlar yokmuşcasına entry giren ekşiciler
      bkz futbolcuların sümüğünü atmayacağı tiplerin futbolculara olan tutkusu
      bkz emre mor sümüğü vs selçuk şahin sümüğü
-     bkz futbolculara entry girerkene türbanlılara giydirme yapan kamalcı
-     bkz ekşide fatih terime entry girerken akla emre morun gelmesi
+     bkz fatih terime entry girerken akla emre morun gelmesi
      https://www.uludagsozluk.com/k/emre-mor-un-if%C5%9Falanmas%C4%B1/ bkz emre morun nicole kidmana zıplaması
      bkz emre mor yarın yine yürümeyecekmiş gibi mal mal makan ekşi ergeni
      bkz yarın maç yokmuşcasına gülerek entry giren ergenler
