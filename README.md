@@ -9,6 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
+     bkz 2 tane gsli futbolcu ismi sayamayacak kadar futbola uzak olmak
      bkz derbi öncesi fatih terimottiyi kayıran medya https://www.youtube.com/watch?v=51tUdCZ9Nc8
      bkz sinan enginin terimottiye verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular bkz umut bulutun kontra atakları
