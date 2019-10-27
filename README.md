@@ -30,7 +30,7 @@
      bkz ekşide falcao hakkındaki garip entry
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz yarınlar yokmuşcasına deli gibi entryi girmek  
-     https://www.uludagsozluk.com/k/titanik-batarken-keman-%C3%A7alan-adam/&w=gd bkz vanessa mae adam mıdır
+     https://www.uludagsozluk.com/k/titanik-batarken-keman-%C3%A7alan-adam/&w=gd bkz vanessa mae 
      https://www.uludagsozluk.com/k/iyi-bir-futbolcuda-olmas%C4%B1-gereken-%C3%B6zellikler/&w=bg bkz irdelenmeli
      https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-hangi-siyaset-alg%C4%B1s%C4%B1-y%C3%B6netmemeli/ bkz bahçeli algısı
      https://www.uludagsozluk.com/k/piknikte-haz%C4%B1rl%C4%B1klara-hi%C3%A7bir-katk%C4%B1s%C4%B1-olmayan-ki%C5%9Fi/&w=bg
