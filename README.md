@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz yarın maç yokmuş gibi malak malak bakan ekşiciler
      bkz ekşide 10 senedir fatih terimettoya entry giren kamalcıların hala aynı yerde sayması
      bkz yarınlar yokmuşcasına entry giren ekşiciler
      bkz futbolcuların sümüğünü atmayacağı tiplerin futbolculara olan tutkusu
