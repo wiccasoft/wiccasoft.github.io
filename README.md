@@ -8,7 +8,6 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
-     https://www.youtube.com/watch?v=HKDk0FFzT-Q lol
      https://www.youtube.com/watch?v=TJsJmX3iQkY lol
      https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd lol 
      https://www.youtube.com/watch?v=DXXhXaBWgx0 lol
@@ -21,6 +20,7 @@
      https://www.youtube.com/watch?v=h2JF66qwF2E
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
      https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
+     https://www.youtube.com/watch?v=HKDk0FFzT-Q lol lol
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
