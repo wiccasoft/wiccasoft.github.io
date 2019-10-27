@@ -8,7 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
-     https://www.uludagsozluk.com/k/pedofili-denince-akla-ilk-gelen-isim/&w=bg bkz emre mor
+     https://www.uludagsozluk.com/k/pedofili-denince-akla-ilk-gelen-isim/&w=bg bkz ebu bekir el bağdadi
      https://www.uludagsozluk.com/k/abdest-bozduran-erkekler/&w=bg bkz umut nayır
      https://eksisozluk.com/umut-nayir--4037721?a=popular bkz kasap
      https://www.uludagsozluk.com/k/fatih-terim-istifa/&w=bg lol
