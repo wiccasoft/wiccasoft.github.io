@@ -3,7 +3,8 @@
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
-     https://www.uludagsozluk.com/k/volkan-demirel/&w=bg bkz ali koçun şamar oğlanı yaptığı bebe
+     bkz gerçek demir adamın melih demiral olduğu gerçeği
+     https://www.uludagsozluk.com/k/volkan-demirel/&w=bg bkz evdenaldıran reis
      bkz büyük kürdistan kurulunca camilere akan paranın duracak olması
      https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun sümüğüyle lezzet kattığı köfteler
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
