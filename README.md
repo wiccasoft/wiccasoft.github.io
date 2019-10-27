@@ -18,6 +18,7 @@
      https://www.youtube.com/watch?v=HKDk0FFzT-Q lol 
      https://www.uludagsozluk.com/e/42337692/ lol
      https://www.uludagsozluk.com/e/42337201/ lol
+     https://www.uludagsozluk.com/e/42337739/ lol
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
