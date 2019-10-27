@@ -9,6 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
+     https://www.uludagsozluk.com/k/9-ma%C3%A7ta-9-gol-atan-galatasaray/ o kadar oldu mu kesin bilgiyse kaydediyorum
      bkz 2 tane gsli futbolcu ismi sayamayacak kadar futbola uzak olmak (falcao bi de neydi lan arjantinli kaleci)
      bkz derbi öncesi fatih terimottiyi kayıran medya https://www.youtube.com/watch?v=51tUdCZ9Nc8
      bkz sinan enginin terimottiye verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
