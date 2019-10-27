@@ -9,6 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
+     https://www.uludagsozluk.com/k/vedat-muriqi/&w=gd bkz fatih terimin kayırdığı futbolcular
      https://www.uludagsozluk.com/k/fatih-terim-in-yenilgi-sonras%C4%B1-bl%C3%B6f-yapmas%C4%B1/ bkz yemezler
      https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-a-tayyip-diye-hitap-etmek/ bkz ne diyem mahmut mu diyem
      https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara kadar dayanmak
