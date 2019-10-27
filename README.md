@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz emre mor yarın yine yürümeyecekmiş gibi mal mal makan ekşi ergeni
      bkz yarın maç yokmuşcasına gülerek entry giren ergenler
      bkz tayyibin kazları oyalamak için bütün kanallara futbol tartışma programı pompalaması yarınlar yokmuşcasına
      bkz fatih terim soyunma odası ağızdan efso konuşması yarın maç yokmuş gibi
