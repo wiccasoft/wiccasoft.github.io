@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz futbolcuların sümüğünü atmayacağı tiplerin futbolculara olan tutkusu
      bkz emre mor sümüğü vs selç.uk şahin sümüğü
      bkz futbolculara entry girerkene türbanlılara giydirme yapan kamalcı
      bkz ekşide fatih terime entry girerken akla emre morun gelmesi
