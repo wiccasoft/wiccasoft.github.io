@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     https://www.uludagsozluk.com/k/yavrum-diyen-erkek-hatun-diyen-erke%C4%9Fi-ezer/&w=bg bkz buralar karışır beyler 
      bkz ağda yaptırıp şal isteyen erkek
      bkz göt kıspetten çıkmışsa yarrak bağdat'tan gelir
      bkz timsah dansı yapan futbolculara ass to ass yaptırmak
