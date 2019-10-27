@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz fatih terimin futbol zekası entrylerini okurken matrix teki neo gibi uyumak
+     bkz çocuğuna iyi orta gol getirir felsefesini öğretmeyen aile
      bkz futbolcularda ağda yaptırsın kampanyasına destek olmak
      bkz havuz medyasında ağda yaptırıp gezmek
      bkz çocuğunu pilavlıya gönderip badeletmeyen aile
