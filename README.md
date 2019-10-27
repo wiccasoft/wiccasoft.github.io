@@ -4,6 +4,7 @@
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmaza seneye o da olumlu
+     https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
