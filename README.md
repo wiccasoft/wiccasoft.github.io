@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz ekşdie fatih terimin futbol zekası entrylerini okurken uykunun gelmesi
      bkz yedi bela hüsnünün havuz medyasında ağda yaptırıp gezmesi
      bkz çocuğunu pilavlıya gönderip badeletmeyen aile
      bkz en çok hangi futbolcuya masturbasyon yaptınız testini çözerken odaya babanın girmesi
