@@ -12,7 +12,6 @@
      https://www.uludagsozluk.com/k/%C5%9Fi%C5%9Fman-ama-g%C3%BCzel-y%C3%BCzl%C3%BC-k%C4%B1z/&w=bg bk dilan dere
      https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
      bkz emre morun yürümeye başlaması hanimiş sen yüyümeye mi başladın daha dün bebekti yahu
-     bkz emre mor doğduğunda ünide okumak
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
