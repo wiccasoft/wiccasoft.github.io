@@ -8,8 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
-     bkzsinan enginin verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
-     https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz var kararlarını iplemeyen takım
+     bkz sinan enginin fatih terimozzottiye verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular bkz umut bulutun kontra atakları
      https://eksisozluk.com/fatih-terim--37577?a=popular bkz höksel güöüşdağlının fatih terim basın açıklamasını bölmesi
      https://www.uludagsozluk.com/k/galatasaray-a-gelenin-ge%C3%A7enin-yaslamas%C4%B1/ bkz lol
