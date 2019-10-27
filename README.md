@@ -9,7 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
-     https://www.uludagsozluk.com/k/liverpool-8-be%C5%9Fikta%C5%9F-0/&w=bg bkz sekiztaş
+     https://www.uludagsozluk.com/k/liverpool-8-be%C5%9Fikta%C5%9F-0/&w=bg bkz aleyna tilkinin dalga geçmesi
      https://www.uludagsozluk.com/k/9-ma%C3%A7ta-9-gol-atan-galatasaray/ o kadar oldu mu kesin bilgiyse kaydediyorum
      bkz 2 tane gsli futbolcu ismi sayamayacak kadar futbola uzak olmak (falcao bi de neydi ismi arjantinli kaleci)
      bkz derbi öncesi fatih terimottiyi kayıran medya https://www.youtube.com/watch?v=51tUdCZ9Nc8
