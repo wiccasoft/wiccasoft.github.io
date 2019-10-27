@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     bkz fatih terimotti nin kayırdığı futbolcular
      bkz sinan enginin terimozzottiye verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular bkz umut bulutun kontra atakları
      https://eksisozluk.com/fatih-terim--37577?a=popular bkz kelimelerin kifayetsiz kalması
