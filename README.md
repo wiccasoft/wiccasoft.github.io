@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz tayyipin bütün kanallara futbol yüklemesi
+     bkz emine erdoganın yarın maç yokmuş gibi davranması
      bkz yarın maç yokmuş gibi entry giren ekşici 
      https://www.uludagsozluk.com/k/27-ekim-2019-liverpool-tottenham-ma%C3%A7%C4%B1/ bkz ekşiden başlık çalmak
      https://www.uludagsozluk.com/k/iyi-bir-futbolcuda-olmas%C4%B1-gereken-%C3%B6zellikler/&w=bg bkz ekşiden tüyo almak
