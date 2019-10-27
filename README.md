@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz ben cemal süreyya başlığına gidiyorum siz ahmet ümit başlığan beyler
      bkz sadık çiftpınar yürümesi vs emre mor yürümesi
      bkz düşün ki fatih falcao terimetto yazdıklarını okuyor 
      bkz ağızdan öpüşen maç yokmuşcasına başlığının pek tutmaması
