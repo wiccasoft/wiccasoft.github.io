@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz var kararlarını iplemeyen takım
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular bkz 27. dakikada hakemin vara gitmesi
      https://eksisozluk.com/fatih-terim--37577?a=popular bkz höksel güöüşdağlının fatih terim basın açıklamasını bölmesi
      https://www.uludagsozluk.com/k/galatasaray-a-gelenin-ge%C3%A7enin-yaslamas%C4%B1/ bkz lol
