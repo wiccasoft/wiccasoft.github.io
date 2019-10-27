@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     https://eksisozluk.com/umut-nayir--4037721?a=popular bkz kasap
      https://www.uludagsozluk.com/k/fatih-terim-istifa/&w=bg lol
      https://www.uludagsozluk.com/k/allah-kerim-fatih-terim/&w=bg lol
      https://www.uludagsozluk.com/k/abdullah-avc%C4%B1/&w=bg bkz boruyu döşemek
