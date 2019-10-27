@@ -3,6 +3,7 @@
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
+     bkz kürdistan kurulunca camilere akan paranın duracak olamsı
      https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun sümüğüyle lezzet kattığı köfteler
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
      https://www.uludagsozluk.com/k/mesut-%C3%B6zil/&w=bg bkz kürdistanımızın gururu futbolun kralı
