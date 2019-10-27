@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz ağızdan öpüşen türbanlının yarın maç yokmuş gibi çalışması
      bkz ekşidekilerin futbol dışında nasıl geçindiği sorunsalı 
      bkz ekşideki alex mi hagi mi kavgas https://eksisozluk.com/hagi-mi-alex-mi--2110033
      bkz arifin manchestera attığı gol
