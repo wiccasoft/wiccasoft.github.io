@@ -15,7 +15,6 @@
      https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara kadar dayanmak
      https://www.uludagsozluk.com/k/abdullah-avc%C4%B1/&w=gd bkz caner erkinin soyunma odasında hocayı tebrik etmesi
      https://www.uludagsozluk.com/k/y%C3%BCz-kas%C4%B1-olan-erkek/&w=gd bkz falcao neymar ortega
-     bkz en yakışıklı 11 https://www.youtube.com/watch?v=yphjF2e2Izg
      https://www.uludagsozluk.com/k/dursun-%C3%B6zbek-adamd%C4%B1r-yedirmeyiz/&w=bg bkz ıstırırım yedirmem onu
      https://www.uludagsozluk.com/k/dinamo-kiev-6-be%C5%9Fikta%C5%9F-0/&w=bg bkz maç izleyen aleyna tilki iticiliği
      https://www.uludagsozluk.com/k/liverpool-8-be%C5%9Fikta%C5%9F-0/&w=bg bkz sekiztaş
