@@ -2,6 +2,7 @@
 <!-- 
      https://www.youtube.com/watch?v=TJsJmX3iQkY lol
      https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd lol 
+     https://www.youtube.com/watch?v=DXXhXaBWgx0 lol
      https://www.uludagsozluk.com/e/42334390/ lol 
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
