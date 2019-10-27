@@ -9,6 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
+     bkz futbolun gay eğlencesi olduğu gerçeği
      https://www.uludagsozluk.com/k/dinamo-kiev-6-be%C5%9Fikta%C5%9F-0/&w=bg bkz maç izleyen kız iticiliği
      https://www.uludagsozluk.com/k/liverpool-8-be%C5%9Fikta%C5%9F-0/&w=bg bkz aleyna tilkinin dalga geçmesi
      https://www.uludagsozluk.com/k/9-ma%C3%A7ta-9-gol-atan-galatasaray/ o kadar oldu mu kesin bilgiyse kaydediyorum
