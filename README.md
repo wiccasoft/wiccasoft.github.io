@@ -11,6 +11,7 @@
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz futbolun gay eğlencesi olduğu gerçeği
      https://www.uludagsozluk.com/k/y%C3%BCz-kas%C4%B1-olan-erkek/&w=gd bkz falcao neymar ortega
+     bkz en yakışıklı 11 https://www.youtube.com/watch?v=yphjF2e2Izg
      https://www.uludagsozluk.com/k/dursun-%C3%B6zbek-adamd%C4%B1r-yedirmeyiz/&w=bg bkz ıstırırım yedirmem onu
      https://www.uludagsozluk.com/k/dinamo-kiev-6-be%C5%9Fikta%C5%9F-0/&w=bg bkz maç izleyen aleyna tilki iticiliği
      https://www.uludagsozluk.com/k/liverpool-8-be%C5%9Fikta%C5%9F-0/&w=bg bkz sekiztaş
