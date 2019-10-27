@@ -13,7 +13,7 @@
      bkz havuz medyasında ağda yaptırıp gezmek
      bkz çocuğunu pilavlıya gönderip badeletmeyen aile
      bkz en çok hangi futbolcuya masturbasyon yaptınız testini çözerken odaya babanın girmesi
-     bkz fatih terim e entry girerken yotubetan efso soyunma odası konuşmasını izlemek
+     bkz fatih terim e entry girerken bi yandan efso soyunma odası konuşmasını izlemek
      bkz cumaya ağdalı gelip şal isteyen erkek
      bkz çocuğunu pilavlıya çağırmayan mümin
      https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278
