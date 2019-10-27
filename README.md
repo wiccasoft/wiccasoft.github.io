@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     bkz ekşide fatih terim hakkında ağızdan entry giren adam
      https://www.uludagsozluk.com/k/pc-den-s%C3%B6zl%C3%BC%C4%9Fe-girmek/
      bkz falcaoya yazılan entryleri okurken babanın odaya girmesi
      bkz ekşide falcao hakkındaki garip entry
