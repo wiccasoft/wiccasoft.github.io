@@ -3,8 +3,9 @@
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
-     https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun sümüğüyle lezzet kattığı gerçeği
+     https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun sümüğüyle lezzet kattığı köfteler
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
+     https://www.uludagsozluk.com/k/mesut-%C3%B6zil/&w=bg bkz kürdistanımızın gururu futbolun kralı
      https://www.uludagsozluk.com/k/%C5%9Fi%C5%9Fman-ama-g%C3%BCzel-y%C3%BCzl%C3%BC-k%C4%B1z/&w=bg bk dilan dere
      https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
      bkz emre morun yürümeye başlaması hanimiş sen yüyümeye mi başladın daha dün bebekti yahu
