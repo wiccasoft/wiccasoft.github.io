@@ -7,7 +7,6 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     https://www.uludagsozluk.com/k/iyi-bir-futbolcuda-olmas%C4%B1-gereken-%C3%B6zellikler/&w=bg bkz irdelenmeli
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz emre mor un yine yürümesi
      https://www.uludagsozluk.com/k/emre-mor-un-if%C5%9Falanmas%C4%B1/
@@ -18,6 +17,7 @@
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz yarın  maç yokmuşcasına ağızdan öpüşen türbanlı 
      bkz yarınlar yokmuşcasına deli gibi entryi girmek  bkz azından mı öpmüş
+     https://www.uludagsozluk.com/k/iyi-bir-futbolcuda-olmas%C4%B1-gereken-%C3%B6zellikler/&w=bg bkz irdelenmeli
      https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-hangi-siyaset-alg%C4%B1s%C4%B1-y%C3%B6netmemeli/ bkz bahçeli algısı
      https://www.uludagsozluk.com/k/piknikte-haz%C4%B1rl%C4%B1klara-hi%C3%A7bir-katk%C4%B1s%C4%B1-olmayan-ki%C5%9Fi/&w=bg
      https://eksisozluk.com/radamel-falcao-garcia--680597?a=popular bkz yarınlar yokmuşcasına koşan forvet
