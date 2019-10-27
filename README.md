@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz ekşide 10 senedir fatih terimettoya entry giren kamalcıların hala aynı yerde sayması
+     bkz yarınlar yokmuşcasına entry giren ekşiciler
      bkz futbolcuların sümüğünü atmayacağı tiplerin futbolculara olan tutkusu
      bkz emre mor sümüğü vs selçuk şahin sümüğü
      bkz futbolculara entry girerkene türbanlılara giydirme yapan kamalcı
