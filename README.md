@@ -4,6 +4,7 @@
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
      https://www.youtube.com/watch?v=TJsJmX3iQkY lol
+     https://www.uludagsozluk.com/k/seni-seviyorum-diyen-erke%C4%9Fe-u%C3%A7an-tekme-atmak/&w=bg lol
      https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd lol
      https://www.uludagsozluk.com/e/42336275/ lol
      https://www.youtube.com/watch?v=h2JF66qwF2E
