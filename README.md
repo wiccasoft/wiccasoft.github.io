@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz tayyibin kazları uyutmak için bütün kanallara futbolu pompalaması
      bkz fatih terim soyunma odası ağızdan efso konuşması yarın maç yokmuş gibi
      bkz yarın maç yokmuş gibi entry giren ekşici 
      https://www.uludagsozluk.com/k/27-ekim-2019-liverpool-tottenham-ma%C3%A7%C4%B1/ bkz ekşiden başlık çalmak
