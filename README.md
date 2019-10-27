@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     https://www.uludagsozluk.com/e/42338488/ bkz taylor swift in emre mora yürümesi
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz emre mor un yine yürümesi
      https://www.uludagsozluk.com/k/emre-mor-un-if%C5%9Falanmas%C4%B1/
