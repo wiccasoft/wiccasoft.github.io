@@ -4,6 +4,7 @@
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42336275/ lol
+     https://www.youtube.com/watch?v=h2JF66qwF2E
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
      https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
      bkz emre morun yürümeye başlaması hanimiş sen yüyümeye mi başladın daha dün bebekti yahu
