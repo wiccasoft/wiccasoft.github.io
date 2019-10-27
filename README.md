@@ -9,9 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
      bkz derbi öncesi fatih terimottiyi kayıran medya https://www.youtube.com/watch?v=51tUdCZ9Nc8
-     bkz fatih terimotti nin arasının bozulduğu isimler
-     http://www.hurriyet.com.tr/sporarena/galeri-iste-fatih-terimin-arasinin-bozuldugu-10-isim-40211988
-     bkz sinan enginin terimozzottiye verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
+     bkz sinan enginin terimottiye verdiği efso ayar https://www.youtube.com/watch?v=QHiXo_62i5s
      https://eksisozluk.com/27-ekim-2019-besiktas-galatasaray-maci--6111583?a=popular bkz umut bulutun kontra atakları
      https://eksisozluk.com/fatih-terim--37577?a=popular bkz kelimelerin kifayetsiz kalması
      https://www.uludagsozluk.com/k/galatasaray-a-gelenin-ge%C3%A7enin-yaslamas%C4%B1/ bkz lol
