@@ -8,8 +8,8 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz fatih terimin futbol zekası entrylerini okurken uykunun gelmesi
-     bkz futbolcular da ağda yaptırsın kampanyasına destek olmak
-     bkz yedi bela hüsnünün havuz medyasında ağda yaptırıp gezmesi
+     bkz futbolcularda ağda yaptırsın kampanyasına destek olmak
+     bkz havuz medyasında ağda yaptırıp gezmek
      bkz çocuğunu pilavlıya gönderip badeletmeyen aile
      bkz en çok hangi futbolcuya masturbasyon yaptınız testini çözerken odaya babanın girmesi
      bkz ağda yaptıran erkek başlığına entry girerken bi yanda  falconun kaslarına 31 çekmek
