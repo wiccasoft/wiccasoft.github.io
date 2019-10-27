@@ -3,6 +3,8 @@
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
+     https://www.youtube.com/watch?v=TJsJmX3iQkY lol
+     https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd lol
      https://www.uludagsozluk.com/e/42336275/ lol
      https://www.youtube.com/watch?v=h2JF66qwF2E
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
