@@ -9,8 +9,8 @@
      http://muratakay.com.tr/ lol
      bkz sadık çiftpınar yürümesi vs emre mor yürümesi
      bkz ağızdan öpüşen maç yokmuşcasına başlığının pek tutmaması
-     https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz ekşide falcao hakkındaki garip entry
-     bkz ağızdan öpüşen türbanlı yarıun maç yokmuşcasına
+     https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz ekşideki falcao hakkındaki garip entry
+     bkz ağızdan öpüşen türbanlı yarın maç yokmuşcasına
      bkz yarın maç yokmuşcasına oraldan öpüşen türbanlı
      https://www.uludagsozluk.com/e/42338488/ bkz nicole kidman'ın emre mor çok yakışıklı demesi
      https://www.uludagsozluk.com/e/42337671/ lol
