@@ -9,7 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/k/27-ekim-2019-liverpool-tottenham-ma%C3%A7%C4%B1/ bkz ekşiden başlık çalmak
      https://www.uludagsozluk.com/k/iyi-bir-futbolcuda-olmas%C4%B1-gereken-%C3%B6zellikler/&w=bg bkz ekşiden tüyo almak
-     https://www.uludagsozluk.com/k/erkeklere-nefret-etme-sebepleri/ bkz futbol danatiklerinni gece kız moduna geçmeleri
+     https://www.uludagsozluk.com/k/erkeklere-nefret-etme-sebepleri/ bkz futbol fanatiklerinni gece kız moduna geçmeleri
      bkz ben cemal süreyya başlığına gidiyorum siz ahmet ümit başlığan beyler
      bkz sadık çiftpınar yürümesi vs emre mor yürümesi
      bkz düşün ki fatih falcao terimetto yazdıklarını okuyor 
