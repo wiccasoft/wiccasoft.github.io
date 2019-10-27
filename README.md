@@ -10,6 +10,7 @@
      bkz ekşidekilerin futbol dışında nasıl geçindiği sorunsalı 
      bkz ekşideki alex mi hagi mi kavgas https://eksisozluk.com/hagi-mi-alex-mi--2110033
      bkz arifin manchestera attığı gol
+     bkz sadık çiftpınar yürümesi vs emre mor yürümesi
      bkz fatih terimetto efso soyunma odası konuşması
      bkz yarın maç yokmuş gibi malak malak bakan ekşiciler
      bkz ekşide 10 senedir fatih terimettoya entry giren kamalcıların hala aynı yerde sayması
