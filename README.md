@@ -11,6 +11,7 @@
      bkz emre mor un yine yürümesi
      https://www.uludagsozluk.com/k/emre-mor-un-if%C5%9Falanmas%C4%B1/
      bkz yarın maç yokmuş gibi ağzından öpüşen türbanlı  bkz azından mı öpmüş
+     https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı 11
      https://www.uludagsozluk.com/k/pc-den-s%C3%B6zl%C3%BC%C4%9Fe-girmek/
      bkz falcaoya yazılan entryleri okurken babanın odaya girmesi
      bkz ekşide falcao hakkındaki garip entry
