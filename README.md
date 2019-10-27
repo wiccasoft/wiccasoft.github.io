@@ -4,7 +4,7 @@
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/k/volkan-demirel/&w=bg bkz evden aldıramayan reis
-     bkz kürdistan kurulunca camilere akan paranın duracak olamsı
+     bkz büyük kürdistan kurulunca camilere akan paranın duracak olması
      https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun sümüğüyle lezzet kattığı köfteler
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
      https://www.uludagsozluk.com/k/mesut-%C3%B6zil/&w=bg bkz kürdistanımızın gururu futbolun kralı
