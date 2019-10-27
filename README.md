@@ -1,12 +1,13 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- https://www.uludagsozluk.com/e/42334390/ lol 
+<!-- 
+     https://www.youtube.com/watch?v=TJsJmX3iQkY lol
+     https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd lol 
+     https://www.uludagsozluk.com/e/42334390/ lol 
      https://www.uludagsozluk.com/e/42334931/ lol
      https://www.youtube.com/watch?v=rQlRJPZc718
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/k/arabas%C4%B1-olmayan-erkek/&w=bg bkz vurduruyordur
      https://www.uludagsozluk.com/k/seni-seviyorum-diyen-erke%C4%9Fe-u%C3%A7an-tekme-atmak/&w=bg lol
-     https://www.youtube.com/watch?v=TJsJmX3iQkY lol
-     https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd lol 
      https://www.uludagsozluk.com/e/42336275/ lol
      https://www.youtube.com/watch?v=h2JF66qwF2E
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
