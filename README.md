@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/e/42337671/ lol
+     bkz falcaoya yazılan entryleri okurken babanın odaya girmesi
      bkz 4-3-4 oynatılcaka derbiye  3-5-3 oynatmak
      bkz yarın  maç yokmuşcasına ağızdan öpüşen türbanlı 
      bkz yarınlar yokmuşcasına deli gibi entryi girmek  bkz azından mı öpmüş
