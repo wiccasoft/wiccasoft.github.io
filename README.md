@@ -15,6 +15,7 @@
      https://www.youtube.com/watch?v=h2JF66qwF2E
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
      https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
+     https://www.uludagsozluk.com/k/fatih-terim-in-futbol-zekas%C4%B1/&w=bg bkz bulunamadı
      https://www.uludagsozluk.com/k/27-ekim-2019-be%C5%9Fikta%C5%9F-galatasaray-ma%C3%A7%C4%B1/&w=bg bkz boru gibi döşemek
      https://twitter.com/hashtag/dilandere?lang=en lol
      https://www.youtube.com/watch?v=HKDk0FFzT-Q lol 
