@@ -13,6 +13,7 @@
      https://www.youtube.com/watch?v=h2JF66qwF2E
      https://www.uludagsozluk.com/e/42336137/ bkz bu sene olmazsa seneye o da olumlu
      https://eksisozluk.com/emre-morun-tekrar-dmden-yururken-ifsa-olmasi--6214773?a=popular bkz lol
+     https://twitter.com/hashtag/dilandere?lang=en lol
      https://www.youtube.com/watch?v=HKDk0FFzT-Q lol 
      https://www.uludagsozluk.com/e/42337692/ lol
      https://www.uludagsozluk.com/e/42337201/ lol
