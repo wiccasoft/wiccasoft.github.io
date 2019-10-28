@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      bkz fettullahgülenin erzurumspora kalkışma planlaması
+     bkz binaliyıldırımın erzincansporu yedirmeyiz ehehe diye gülmesi
      https://www.uludagsozluk.com/e/42340477/ lool
      https://www.uludagsozluk.com/e/42340899/ bkz meme mi lan o bakışı
      https://www.youtube.com/watch?v=EfAsNffCjsM bkz allahın süper bişi olması
