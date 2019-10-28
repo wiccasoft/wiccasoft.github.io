@@ -11,6 +11,7 @@
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
      NE DİYİN LAN TOP
      https://www.youtube.com/watch?v=6YUw7_q33Zs
+     bkz kerimcan durmazın gsli olduğu gerçeği
      bkz kafama sıka giderim ülküc ocağıma
      bkz cinconlu beta beşiktaşlı alfa erkek aşkı
      bkz gama cinconlu beta fenerli erkek ilişkisi
