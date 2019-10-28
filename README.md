@@ -1,5 +1,5 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-
+<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hz sav muhammedin askerleriyissss -->
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
 >
@@ -9,8 +9,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 
-<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyyyyyyy hz sav muhammedin askerleriyissss 
-bkz fettullag hülenin 29 ekimde yine kalkışma planlaması-->
+
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
