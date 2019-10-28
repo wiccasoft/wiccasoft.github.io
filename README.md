@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin koca avcısı ekşici kızlar
+     https://www.uludagsozluk.com/k/hakan-sabanc%C4%B1n%C4%B1n-sevgilisini-unutmas%C4%B1/
      https://eksisozluk.com/fakir-erkekle-evlenmenin-bedavaya-vermek-olmasi--6228392?a=popular
      bkz laiklik elden gidiyeah
      bkz tiktokta patlayan persicope ta osuran instagram da ağızdan öpüşen türbanlı bacılar
