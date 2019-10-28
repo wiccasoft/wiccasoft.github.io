@@ -8,11 +8,11 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 
 <!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
+    bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
+    bkz bir gece ansısızn hakkari muş şırnak adıyaman
     https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
     https://www.uludagsozluk.com/k/insanlar%C4%B1n-mutsuz-olmas%C4%B1n%C4%B1n-tek-sebebi/&w=bg bkz türban
     https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
-    bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
-    bkz bir gece ansısızn hakkari muş şırnak adıyaman
     https://www.uludagsozluk.com/k/kurt-cobain/&w=bg (bkz kürt kobani)
     https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
     bkz orta doğuda akan kanların sorumlusu ikili 
