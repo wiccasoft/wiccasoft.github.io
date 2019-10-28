@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     bkz türbanlı kızların tiktok ta skiş eylemesi
      bkz osman pazarlama nasıl patlatmışım ama
      https://www.uludagsozluk.com/k/tiktok-ta-patlayan-t%C3%BCrbanl%C4%B1-bac%C4%B1lar/ 
      bkz illumunatinin şehirlere doluşturduğu kırsal kökenli olmayan zombiler
