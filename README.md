@@ -11,7 +11,7 @@
     bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
     bkz bir gece ansısızn hakkari muş şırnak adıyaman
     https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence her şey çok güzel zaten
-    https://www.uludagsozluk.com/k/insanlar%C4%B1n-mutsuz-olmas%C4%B1n%C4%B1n-tek-sebebi/&w=bg bkz türban
+    bkz gardaşım köz getir seri
     https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
     https://www.uludagsozluk.com/k/kurt-cobain/&w=bg (bkz kürt kobani)
     https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
