@@ -5,7 +5,9 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz fetuulag hülenin dadaşlara selam yollaması https://www.uludagsozluk.com/e/42332750/
+<!-- bkz ucuna taramalı tüfek bağla taraya teraya gitsin
+     https://www.uludagsozluk.com/k/t%C3%BCrkiye-bize-ate%C5%9F-a%C3%A7sayd%C4%B1-ortadan-kald%C4%B1r%C4%B1rd%C4%B1k/
+     bkz fetuulag hülenin dadaşlara selam yollaması https://www.uludagsozluk.com/e/42332750/
      bkz yağmur atacan ın eblek suratıyla karısnı ballandıra ballandıra anlatması
      https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/
      bkz erdoganın attığı aşırtma golü https://www.youtube.com/watch?v=aVxJzVjCWVc beenmeyen ağır ılıhtır
