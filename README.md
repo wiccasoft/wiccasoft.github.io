@@ -9,6 +9,7 @@
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
+     https://www.uludagsozluk.com/k/belediye-ba%C5%9Fkan%C4%B1n%C4%B1n-i%C5%9Fe-ge%C3%A7-gelenleri-i%C5%9Fe-almamas%C4%B1/
      bkz dede parası yerken götü başı dağıtan zengin piçleri
      bkz türklerin soyadlarından firma kurma sebepleri 
      bkz resident evil i kurarken sabancı nın torunlarının götü başı dağıtması olayı
