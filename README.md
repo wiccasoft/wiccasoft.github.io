@@ -7,7 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- bkz atayük çizeyim deyken rte çizen japon
      bkz atatüyk şiiyi okuyken kendinden geçen çocuk
-     bkz akboyların 2023 te anlaycağı realite
+     bkz akboyların 2023 te kaldırım taşlarını ısırdıklarında anlayacağı realite
      https://www.uludagsozluk.com/k/y%C3%BCzy%C4%B1l%C4%B1n-lideri-recep-tayyip-erdo%C4%9Fan/ 
      bkz 29 ekim öncesi ahmet kayanın yine provokasyon yapması
      bkz rte nin fettullaha küstüm demesi
