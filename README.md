@@ -9,7 +9,7 @@
      http://muratakay.com.tr/ lol
      https://www.uludagsozluk.com/k/halil-sezai-parac%C4%B1ko%C4%9Flu/&w=bg bkz mükemmel bir detaylıoğlu
      https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-en-ball%C4%B1-futbol-tak%C4%B1mlar%C4%B1/ bkz lol
-     bkz fenerlilerin falcoyu kıskanması
+     bkz fenerlilerin falco kıskançlığı
      bkz muriqu nun falcao dan daha iyi olduğu gerçeği
      bkz emre morun yine yürümesi
      bkz radamel falcao garcia nın fırçayı yemesi
