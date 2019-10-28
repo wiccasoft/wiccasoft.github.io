@@ -1,7 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hz sav dilan derenin askerleriyissss
 gardaşım köz getir seri cıncık kebapıyla kutlama yapacağız bkz fettullag hülenin yine kalkışma planlaması
-https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği-->
+https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
+https://www.uludagsozluk.com/k/intihar-etmeyi-d%C3%BC%C5%9F%C3%BCnen-insan/&w=bg bkz mehmet pişkin-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
