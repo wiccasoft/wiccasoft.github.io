@@ -5,7 +5,9 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz fettulg hulenin türkiyeye saldırı planlaması
+<!-- bkz bütün dünyanın türkiyeye saldırmak için sıraya girmesi
+     https://www.uludagsozluk.com/k/anonymous-un-t%C3%BCrkiye-ye-sava%C5%9F-ilan-etmesi/&w=bg
+     bkz fettulg hulenin türkiyeye saldırı planlaması
      bkz ucuna taramalı tüfek bağla taraya teraya gitsin
      https://www.uludagsozluk.com/k/t%C3%BCrkiye-bize-ate%C5%9F-a%C3%A7sayd%C4%B1-ortadan-kald%C4%B1r%C4%B1rd%C4%B1k/
      bkz fetuulag hülenin dadaşlara selam yollaması https://www.uludagsozluk.com/e/42332750/
