@@ -5,7 +5,7 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz devlet bahçelinin beka vadisine gitmesi
+<!-- bkz devlet bahçelinin tangır budun dogan la beka vadisine gitmesi
      bkz bütün dünyanın türkiyeye saldırmak için sıraya girmesi
      https://www.uludagsozluk.com/k/anonymous-un-t%C3%BCrkiye-ye-sava%C5%9F-ilan-etmesi/&w=bg
      bkz fettulg hulenin türkiyeye saldırı planlaması
