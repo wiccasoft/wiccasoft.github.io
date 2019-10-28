@@ -7,12 +7,11 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi
+     bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
      bkz hayallerde yaşıyor bazı tırrrekler
      https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/&w=bg 
-     bkz hala adıma başlık açamayan ekşici
      bkz türklerin soyadlarından firma kurma sebepleri 
-     bkz resident evil i kurarken sabancı nın torunların ısiklememek
+     bkz resident evil i kurarken sabancı nın torunlarını siklememek
      bkz https://www.youtube.com/watch?v=TJsJmX3iQkY
      bkz bill gatesin siklemediği detaylar
      bkz sakıp sabancının torunlarının sanki biraz şey olması
