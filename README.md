@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz ahmet kayanın beşiktaş lı olduğunu itiraf etmesi
      bkz beşiktaş tek aşk
      bkz ekşideki zengin koca avcısı beşiktaş düşmanı kızlar
      https://www.uludagsozluk.com/k/a%C4%9F%C4%B1zdan-%C3%B6p%C3%BC%C5%9Fmenin-elli-tonu/ bkz açmayın oral seks
