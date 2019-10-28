@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     bkz galatsaray instagram hesabını hackleyip dünyaya hükmetmek
      bkz twitter linkli başlık açacam bak bak bak baktınız mı nasıl
      bkz haber botları varken manual başlık açan orta doğulular
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
