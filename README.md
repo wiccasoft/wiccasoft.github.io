@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz sakıp sabancının torunlarının sanki biraz şey olması
+     https://eksisozluk.com/hakan-sabancinin-kiz-arkadasini-unutmasi--6228286?a=popular
      bkz hakan sabancının sevdiceğini unutması
      bkz aykut kocamanın kocaman bir balon çıkması
      bkz dayı göçlü balesi yapa kel amcalar videosu izlerken kafama sıkar ülkü ocağıma giderim dinlemek
