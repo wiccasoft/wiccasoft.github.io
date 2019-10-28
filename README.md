@@ -5,7 +5,8 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz erdoganın attığı aşırtma golü beğenmöeyen ılıklar
+<!-- bkz erdoganı beğenmeyenlerin kamalık olması
+     bkz erdoganın attığı aşırtma golü beğenmöeyen kamalıklar
      bkz atayük çizeyim deyken rte çizen japon
      bkz atatüyk şiiyi okuyken kendinden geçen çocuk
      bkz erdoganin attığı aşırtma gol sonrası acunu yalaması
