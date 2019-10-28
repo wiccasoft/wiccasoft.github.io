@@ -7,7 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     bkz ahmet kayanın pkk lı olduğu gerçeğini kabulenememek ülkücü oalrak üzülmek
+     bkz ahmet kayanın pkk lı olduğu gerçeğini kabulenememek ülkücü olarak üzülmek sorunsallanmak
      bkz hacı sabancı nın nargileci tipli torunlarının bloomberg röportajı
      https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg bkz ersun yanal ın hoplatacağı versus
      https://www.uludagsozluk.com/k/usame-bin-ladin-in-gen%C3%A7li%C4%9Fi/ bkz o.bin laden barack hüseyin obama benzerliği
