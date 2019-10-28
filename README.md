@@ -9,7 +9,7 @@
 
 <!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
     bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
-    bkz bir gece ansısızn hakkari muş şırnak
+    bkz bir gece ansısızn hakkari muş şırnak adıyaman
     https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
     bkz orta doğuda akan kanların sorumlusu ikili 
     biri tayyip budun doğancı bekacı ex mhpli yeni akpli türkçü kürt düşmanı  
