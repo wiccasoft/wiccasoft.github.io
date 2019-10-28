@@ -11,7 +11,7 @@
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
      NE DİYİN LAN TOP
      https://www.youtube.com/watch?v=6YUw7_q33Zs
-     bkz cinconlu betalardaki alfa beşiktaşlı elit olgun erkek aşkı
+     bkz cinconlu ergen betalardaki alfa beşiktaşlı elit olgun erkek aşkı adasdasda
      bkz gama cinconlu beta fenerli erkek ilişkisi
      https://www.uludagsozluk.com/k/kad%C4%B1nlardan-nefret-ediyorum-diyen-erkek/ bkz erkek adama uymaz aga
      https://www.uludagsozluk.com/k/her-%C5%9Feye-tamam-diyen-beta-erkek/&w=bg bkz evlenilmeycek erkek tipleri
