@@ -11,6 +11,7 @@
 
 <!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyyyyyyy sav hz muhammedin askerleriyiz
     https://www.uludagsozluk.com/k/mohamed-bin-zayed-yapay-zeka-%C3%BCniversitesi/ bkz boru gibi döşemek
+    https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1/&w=bg bkz ilber celal vs yapay zeka
     bkz tangır budun doğanın tayyip olma olasılığı 
     TANGIR BUDUN DOGAN DİPLOMAYI GÖRELİM DİPLOMAYI
     bkz bacelinin kılışdaroğlana verdiği efso boru gibin ayar
