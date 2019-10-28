@@ -7,7 +7,8 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 
-<!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
+<!--
+    https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
     bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
     bkz bir gece ansısızn hakkari muş şırnak adıyaman
     https://www.uludagsozluk.com/k/zeytinya%C4%9F%C4%B1-yiyen-yumu%C5%9Fak-erkek/ bkz sarıgöllü emrah
