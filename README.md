@@ -1,3 +1,5 @@
+[![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=jVgE45ZYTfw )
+
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
 >
