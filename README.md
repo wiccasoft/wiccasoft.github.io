@@ -6,6 +6,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
+     https://www.uludagsozluk.com/k/3-mart-2020/ bkz milyoner olacağım tarihin bir ertesi
      bkz altınordunun amedin piçlerine döşeyeceği maç
      https://www.uludagsozluk.com/k/29-ekim-2019-alt%C4%B1nordu-amed-sf-ma%C3%A7%C4%B1/
      bkz türkiyedeki 10 milyon fanatik ergen üzerinden baya para kazanacağım gerçeği
