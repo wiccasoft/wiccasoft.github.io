@@ -10,7 +10,6 @@
      bkz hayallerde yaşıyor bazı tırrrekler
      https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/&w=bg 
      bkz hala adıma başlık açamayan ekşici
-     bkz hakan sabancının kız arkdaşını bar çıkışı unutması
      bkz türklerin soyadlarından firma kurma sebepleri 
      bkz resident evil i kurarken sabancı nın torunların ısiklememek
      bkz https://www.youtube.com/watch?v=TJsJmX3iQkY
