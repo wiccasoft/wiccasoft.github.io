@@ -9,7 +9,7 @@
      bkz atatüyk şiiyi okuyken kendinden geçen çocuk
      bkz erdoganin attığı aşırtma gol sonrası acunu yalaması
      https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-att%C4%B1%C4%9F%C4%B1-a%C5%9F%C4%B1rtma-gol/&w=bg
-     bkz akboyların 2023 te kaldırım taşlarını ısırdıklarında anlayacağı realite
+     bkz akboyların 2023 te anlayacağı realite
      https://www.uludagsozluk.com/k/y%C3%BCzy%C4%B1l%C4%B1n-lideri-recep-tayyip-erdo%C4%9Fan/ 
      bkz 29 ekim öncesi ahmet kayanın yine provokasyon yapması
      bkz rte nin fettullaha küstüm demesi
