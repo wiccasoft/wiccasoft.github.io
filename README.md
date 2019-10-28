@@ -10,7 +10,7 @@
      https://www.uludagsozluk.com/k/a%C4%9F%C4%B1zdan-%C3%B6p%C3%BC%C5%9Fmenin-elli-tonu/ bkz açmayın oral seks
      bkz beşiktaşın türkiyenin en  iyi klübü olduğunu kabullenemeyen ezikler
      bkz hakan sabancının kayserili olduğu gerçeğinin unutan kızlar
-     bkz fatih terimettonun adanalı olduğu gerçeği
+     bkz fatih terimettonun 10 yabancı futbolcuyla soyunma odasında ne yaptığı sorunsalı
      bkz trapzone beşikdüzü vakfıkebirli olmayan beşiktaş taraftarı
      bkz hakan sabancıyı yakışıklı bulan ekşici kızlar
      bkz fatih terim efso soyunma odası konuşması
