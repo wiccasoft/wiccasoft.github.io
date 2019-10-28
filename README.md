@@ -7,7 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     https://www.uludagsozluk.com/e/42340522/ bkz sıkıntı yok
+     https://www.uludagsozluk.com/e/42340522/ bkz sıkıntı yok aga parası neyse verecen oynayacak
      bkz malatyasporlu kız kayserisporlu erkek aşkı
      bkz macun kaplıcalının fener ol kampanyası
      bkz ekşideki zengin koca avcısı fanatik fenerli cinconlu kızlar
