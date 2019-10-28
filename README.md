@@ -5,7 +5,8 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- https://www.uludagsozluk.com/k/fethullah-g%C3%BClen/&w=gd bkz erdoganin sevmediği eski hocası
+<!-- 
+     bkz fettullahgülenin erzurumspora kalkışma planlaması
      https://www.uludagsozluk.com/e/42340477/ lool
      https://www.uludagsozluk.com/e/42340899/ bkz meme mi lan o bakışı
      https://www.youtube.com/watch?v=EfAsNffCjsM bkz allahın süper bişi olması
