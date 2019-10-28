@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz macun kaplıcalının fener ol kampanyası
      bkz ahmet kayanın beşiktaş lı olduğunu itiraf etmesi
      bkz beşiktaş tek aşk
      bkz ekşideki zengin koca avcısı beşiktaş düşmanı kızlar
