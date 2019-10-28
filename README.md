@@ -9,6 +9,8 @@
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
      https://eksisozluk.com/fakir-erkekle-evlenmenin-bedavaya-vermek-olmasi--6228392?a=popular
+     https://www.uludagsozluk.com/k/tiktok-ta-patlayan-t%C3%BCrbanl%C4%B1-bac%C4%B1lar/ 
+     bkz benim türbanlı bacılarımı tik tok kurdurttular
      https://www.uludagsozluk.com/k/imam-hatip-mezunu-birini-ciddiye-almak/ bkz tayyip erdoğanı üzecek olay
      bkz osman pazarlama nasıl patlatmışım ama
      https://www.uludagsozluk.com/k/tiktok-ta-patlayan-t%C3%BCrbanl%C4%B1-bac%C4%B1lar/ 
