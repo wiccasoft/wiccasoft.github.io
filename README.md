@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
 ya o değil de fatih terim vardı noldu ona
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz fatih terim
 https://chaturbate.com/ neler dönmüş serhat ya burhan kuzuya söyleyin blocklasın bunları aile giriyo internete
 -->
 
