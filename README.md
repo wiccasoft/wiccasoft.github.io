@@ -7,6 +7,8 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz hayallerde yaşıyor bazı tırrrekler
+     https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/&w=bg 
      bkz hala adıma başlık açamayan ekşici
      bkz hakan sabancının kız arkdaşını bar çıkışı unutması
      bkz türklerin soyadlarından firma kurma sebepleri 
