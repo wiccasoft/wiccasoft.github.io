@@ -8,6 +8,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 
 <!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
+    bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
     https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
     bkz orta doğuda akan kanların sorumlusu ikili 
     biri tayyip budun doğancı bekacı ex mhpli yeni akpli türkçü kürt düşmanı  
