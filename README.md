@@ -10,7 +10,7 @@
 <!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
     https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
     bkz orta doğuda akan kanların sorumlusu ikili 
-    biri tayyip budun doğanncı bekacı türkçü kürt düşmanı  
+    biri tayyip budun doğancı bekacı ex mhpli yeni akpli türkçü kürt düşmanı  
     diğeri kürtçü haydin kolay gelsin hayır forumlar
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
