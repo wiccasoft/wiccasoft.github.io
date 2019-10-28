@@ -1,20 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hz sav dilan derenin askerleriyissss
-gardaşım köz getir seri cıncık kebapıyla kutlama yapacağız bkz fettullag hülenin yine kalkışma planlaması
-https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
-bkz ilk buluşmada iphone11 çıkarıp yengen arıyor diyen erkek
-bkz türklerin araplara hazreti çekmesi olayı
-https://www.youtube.com/watch?v=18eqJ-CLa1c
-bkz hazreti ömer in hazreti osmanı hubeyde savaşında hendek atlatması
-bkz hazreti sav mahmutun hazreti sav zübeyde ebu helebi tanımması
-bkz türklerin arap işgalcilere hazreti demesi
-bkz türklerin kılıçla müslüman olup hala araplara hazreti çekmesi olayı
-https://www.uludagsozluk.com/k/hazreti-muhammed/&w=bg bkz hz ayşeye iç güvevsi gitmek
-https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fatih terimin efso soyunma odası konuşması
-https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz arsız bela
-https://www.uludagsozluk.com/k/intihar-etmeyi-d%C3%BC%C5%9F%C3%BCnen-insan/&w=bg bkz fetullag pişkin
-bkz 29 ekim sabahı hayatta olmayacağım kib rte bye https://www.youtube.com/watch?v=I_izvAbhExY
-bkz rtenin fettullag hülene küsmesi fettulag hülenin intihar etmesi-->
+https://www.youtube.com/watch?v=18eqJ-CLa1c 
+-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
