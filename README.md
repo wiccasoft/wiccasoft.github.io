@@ -10,6 +10,7 @@
      bkz emre morun yine yürümesi
      bkz radamel falcao garcia nın fırçayı yemesi
      https://www.youtube.com/watch?v=c_Ot1OEfk9I
+     bkz erdoğanın başakşehir maçında attığı aşırtma gol https://www.youtube.com/watch?v=yFG3266htmQ
      bkz fatih terimin futbol zekası entrylerini okurken matrix teki neo gibi uyuyakalmak
      bkz çocuğuna iyi orta gol getirir felsefesini öğretmeyen aile
      bkz futbolcularda ağda yaptırsın kampanyasına destek olmak
