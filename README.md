@@ -5,7 +5,8 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz 29 ekim öncesi ahmet kayanın yine provokasyon yapması
+<!-- bkz atatüyk şiiyi okuyken kendinden geçen çocuk
+     bkz 29 ekim öncesi ahmet kayanın yine provokasyon yapması
      bkz rte nin fettullaha küstüm demesi
      bkz ahmet kaya nın serdar ortaça hodri meydan demesi
      bkz hacı ali sabancının çokta skimdesiniz konferansı https://www.youtube.com/watch?v=DUDTOUSRb1U
