@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- https://www.uludagsozluk.com/e/42340477/ lool
      https://www.uludagsozluk.com/e/42340899/ bkz meme mi lan o bakışı
+     https://www.youtube.com/watch?v=EfAsNffCjsM bkz allahın süper bişi olması
      bkz atacüceye benzeyen adamın sahnede zeybek oynaması https://www.youtube.com/watch?v=hL8O7BKpdMA
      bkz ağızdan öpüşen tiktokçu kızın konyalı çıkması
      bkz babasının dövdüğü satanik kız https://www.youtube.com/watch?v=XsbksXXgXwQ
