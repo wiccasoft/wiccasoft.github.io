@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     bkz ali sabancının hakan sabancı adına özür dilemesi
      bkz haber botu varken saçma sapan haberlerin başlıklarını açan ergenler
      bkz twitter linki atıp tıklanmayınca ağlayan ergen
      bkz umut nayira  nayir diyemeyecek kızlar
