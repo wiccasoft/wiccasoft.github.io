@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz dede parası yerken göt başı dağıtan türk zengin piçleri
      bkz hakan sabancı nın kuzeninin bar çıkışı yatla gezintiye çıkarması
      bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
      bkz ekşideki zengin sabancı koç torunu avcısı kızlar
