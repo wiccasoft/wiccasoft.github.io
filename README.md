@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi oldu
 bkz ilk buluşmada iphone11 çıkarıp yengen arıyor diyen erkek
 bkz hazreti ömer in hazreti osmanı hubeyde savaşında hendek atlatması
 bkz hazreti sav mahmutun hazreti sav zübeyde ebu helebi tanımması
+bkz türklerin arap işgalcilere hazreti demesi
 https://www.uludagsozluk.com/k/hazreti-muhammed/&w=bg bkz hz ayşeye iç güvevsi gitmek
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fatih terimin efso soyunma odası konuşması
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz arsız bela
