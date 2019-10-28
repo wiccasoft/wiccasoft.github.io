@@ -9,25 +9,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 
-<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyyyyyyy sav hz muhammedin askerleriyiz
-    https://www.uludagsozluk.com/k/mohamed-bin-zayed-yapay-zeka-%C3%BCniversitesi/ bkz boru gibi döşemek
-    https://www.uludagsozluk.com/k/ilber-ortayl%C4%B1/&w=bg bkz ilber celal vs yapay zeka
-    bkz tangır budun doğanın tayyip olma olasılığı 
-    TANGIR BUDUN DOGAN DİPLOMAYI GÖRELİM DİPLOMAYI
-    bkz bacelinin kılışdaroğlana verdiği efso boru gibin ayar
-    https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
-    bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
-    bkz bir gece ansısızn hakkari muş şırnak adıyaman
-    https://www.uludagsozluk.com/k/zeytinya%C4%9F%C4%B1-yiyen-yumu%C5%9Fak-erkek/ bkz sarıgöllü emrah
-    https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz bence her şey çok güzel zaten
-    bkz gardaşım köz getir seri https://www.uludagsozluk.com/e/42342123/
-    https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
-    https://www.uludagsozluk.com/k/kurt-cobain/&w=bg (bkz kürt kobani)
-    https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
-    bkz orta doğuda akan kanların sorumlusu ikili 
-    biri tayyip budun doğancı bekacı ex mhpli yeni akpli türkçü kürt düşmanı  
-    diğeri kürtçü haydin kolay gelsin hayırlı forumlar
--->
+<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyyyyyyy -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
 
