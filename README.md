@@ -6,6 +6,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
+     https://www.sabanci.com/en bkz lol
      http://muratakay.com.tr/ lol
      ADAMSIN QUARESMA
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
@@ -13,7 +14,6 @@
      https://www.youtube.com/watch?v=6YUw7_q33Zs
      https://www.youtube.com/watch?v=NXQJ9iR5BkA bkz sapık ismetin beşiktaşlı olduğunu bilmeyen kan tutan beta
      bkz kerimcan durmazın gsli olduğu gerçeği
-     bkz hakan sabancının ne iş yaptığı sorunsalı
      bkz kafama sıka giderim ülkü ocağıma
      bkz cinconlu beta beşiktaşlı alfa erkek aşkı
      bkz gama cinconlu beta fenerli erkek ilişkisi
