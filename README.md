@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     https://www.uludagsozluk.com/k/belediye-ba%C5%9Fkan%C4%B1n%C4%B1n-i%C5%9Fe-ge%C3%A7-gelenleri-i%C5%9Fe-almamas%C4%B1/ bkz imamoğlan
      https://www.uludagsozluk.com/k/arabesk-dinleyen-19-luk-ye%C4%9Fen/ bkz arap sevici yeğen
      bkz umut nayira  nayir diyemeyecek kızlar
      bkz bak futboldaki aykut kocamnın kadın kuaförü oldu tartışması
