@@ -10,7 +10,7 @@
      bkz babasının dövdüğü satanik kız https://www.youtube.com/watch?v=XsbksXXgXwQ
      https://www.uludagsozluk.com/k/ac%C4%B1sa-da-%C3%B6ld%C3%BCrmez-diyen-k%C4%B1z/&w=bg 
      https://www.uludagsozluk.com/k/suriyeli-vs-t%C3%BCrk/&w=bg bkz denizde yüzmek isteyen türk
-     bkz yapa zeka football manager programından kazanacağım parayla alacağım pasific adası
+     bkz yapay zeka football manager programından kazanacağım parayla alacağım pasific adası
      https://www.uludagsozluk.com/k/3-mart-2020/ bkz milyoner olacağım tarihin bir ertesi
      bkz altınordunun amedin piçlerine döşeyeceği maç
      https://www.uludagsozluk.com/k/29-ekim-2019-alt%C4%B1nordu-amed-sf-ma%C3%A7%C4%B1/
