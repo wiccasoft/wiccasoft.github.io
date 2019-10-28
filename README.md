@@ -8,7 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
-     bkz twitter linkli başlık açacam bak bak
+     bkz twitter linkli başlık açacam bak bak bak baktınız mı nasıl
      bkz haber botları varken manual başlık açan orta doğulular
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
      bkz imamaoğlanın işe geç gelenleri kovması
