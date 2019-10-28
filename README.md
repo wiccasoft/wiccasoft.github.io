@@ -7,7 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     https://www.youtube.com/watch?v=EfAsNffCjsM hıaa allah atatürk ne süper lan
+     https://www.youtube.com/watch?v=EfAsNffCjsM hıaa allah ne süper lan
      bkz atatürkün hıyaneti kurma sebepleri
      bkz diyanetin bütçesi vs falcao
      https://www.uludagsozluk.com/k/halil-sezai-parac%C4%B1ko%C4%9Flu/&w=bg bkz mükemmel bir detaylıoğlu
