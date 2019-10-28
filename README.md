@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     bkz ersun yanal aykut kocaman a entry girmek varken haber linki atan ergenler
      bkz ali sabancının hakan sabancı adına özür dilemesi
      bkz haber botu varken saçma sapan haberlerin başlıklarını açan ergenler
      bkz twitter linki atıp tıklanmayınca ağlayan ergen
