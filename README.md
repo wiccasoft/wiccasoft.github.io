@@ -3,6 +3,7 @@
 gardaşım köz getir seri cıncık kebapıyla kutlama yapacağız bkz fettullag hülenin yine kalkışma planlaması
 https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
 bkz ilk buluşmada iphone11 çıkarıp yengen arıyor diyen erkek
+bkz türklerin araplara hazreti çekmesi olayı
 bkz hazreti ömer in hazreti osmanı hubeyde savaşında hendek atlatması
 bkz hazreti sav mahmutun hazreti sav zübeyde ebu helebi tanımması
 bkz türklerin arap işgalcilere hazreti demesi
