@@ -6,7 +6,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
-     https://www.fenerbahce.org/ bkz fener olalım
+     https://www.fenerbahce.org/ bkz fener olalım https://www.youtube.com/watch?v=tRthLijPj14
      https://www.sabanci.com/en bkz rise of hakan sabancı nın kız arkadaşını unutması
      bkz zengin torunu bulmak varken çalışan enayiler
      bkz ali sabancının pegasus u göklere çıkarması https://www.youtube.com/watch?v=DUDTOUSRb1U
