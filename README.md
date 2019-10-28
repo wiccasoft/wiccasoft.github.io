@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     https://www.uludagsozluk.com/k/arabesk-dinleyen-19-luk-ye%C4%9Fen/ bkz arap sevici yeğen
      bkz umut nayira  nayir diyemeyecek kızlar
      bkz bak futboldaki aykut kocamnın kadın kuaförü oldu tartışması
      bkz hakan sabancının utancından instagramı kapatması
