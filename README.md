@@ -9,7 +9,7 @@
      http://muratakay.com.tr/ lol
      bkz hakan sabancının kayserili olduğu gerçeğinin unutan kızlar
      bkz fatih terimettonun adanalı olduğu gerçeği
-     bkz tranzon beşikdüzü vakfıkebirli olmayan beşiktaş taraftarı
+     bkz trapzone beşikdüzü vakfıkebirli olmayan beşiktaş taraftarı
      bkz hakan sabancıyı yakışıklı bulan ekşici kızlar
      bkz fatih terim efso soyunma odası konuşması
      https://www.youtube.com/watch?v=9yKoN7kosic bbva
