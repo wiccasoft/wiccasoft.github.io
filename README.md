@@ -1,6 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy
-https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-burnu/-->
+https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-burnu/
+https://www.uludagsozluk.com/k/galatasaray-a-cincon-diyen-birini-hastanelik-etmek/
+https://www.youtube.com/watch?v=6YUw7_q33Zs-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
