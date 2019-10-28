@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz beka reis
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz kılıçtara boru gibib döşeyen beka reis
 https://www.uludagsozluk.com/k/enes-batur/&w=bg bkz enes abi anamı sik
 https://www.uludagsozluk.com/k/zeki-demirkubuz/&w=bg bkz aynı eve çıkılmalık yönetmen
 https://www.uludagsozluk.com/k/namaz-k%C4%B1lan-erkek/&w=bg bkz namaz kelimesi kuran da geçmez evlenme boşuna
