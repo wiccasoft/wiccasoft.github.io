@@ -6,7 +6,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
-     bkz babasının dövdüğü satanik bakire kız https://www.youtube.com/watch?v=XsbksXXgXwQ
+     bkz babasının dövdüğü satanik kız https://www.youtube.com/watch?v=XsbksXXgXwQ
      https://www.uludagsozluk.com/k/ac%C4%B1sa-da-%C3%B6ld%C3%BCrmez-diyen-k%C4%B1z/&w=bg 
      https://www.uludagsozluk.com/k/suriyeli-vs-t%C3%BCrk/&w=bg bkz denizde yüzmek isteyen türk
      https://www.uludagsozluk.com/k/3-mart-2020/ bkz milyoner olacağım tarihin bir ertesi
