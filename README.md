@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz bill gatesin siklemediği detaylar
      bkz sakıp sabancının torunlarının sanki biraz şey olması
      https://eksisozluk.com/hakan-sabancinin-kiz-arkadasini-unutmasi--6228286?a=popular
      bkz hakan sabancının sevdiceğini unutması
