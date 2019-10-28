@@ -7,10 +7,10 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     bkz zengin torunu avcısı kızlar
-     bkz laiklik elden gidiyeah
-     bkz tiktokta patlayan persicopeta osuran instagram da ağızdan öpüşen türbanlı bacılar
+     bkz zengin koca avcısı ekşici kızlar
      https://eksisozluk.com/fakir-erkekle-evlenmenin-bedavaya-vermek-olmasi--6228392?a=popular
+     bkz laiklik elden gidiyeah
+     bkz tiktokta patlayan persicope ta osuran instagram da ağızdan öpüşen türbanlı bacılar
      https://www.uludagsozluk.com/k/tiktok-ta-patlayan-t%C3%BCrbanl%C4%B1-bac%C4%B1lar/ 
      bkz benim türbanlı bacılarımı tik tok kurdurttular
      https://www.uludagsozluk.com/k/imam-hatip-mezunu-birini-ciddiye-almak/ bkz tayyip erdoğanı üzecek olay
