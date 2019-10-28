@@ -1,5 +1,5 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hz sav dilan derenin askerleriyissss
+<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hazreti muhammadin askerleriyissss
 https://www.youtube.com/watch?v=18eqJ-CLa1c 
 -->
 
