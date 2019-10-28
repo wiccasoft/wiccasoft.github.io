@@ -3,8 +3,7 @@
 https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
-https://www.uludagsozluk.com/k/galatasaray-a-cincon-diyen-birini-hastanelik-etmek/
-https://www.youtube.com/watch?v=6YUw7_q33Zs-->
+-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
