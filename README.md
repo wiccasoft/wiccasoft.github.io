@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy
-https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-burnu/ https://www.youtube.com/watch?v=jlMXq2mSvlk
+https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-burnu/ 
+https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
 https://www.uludagsozluk.com/k/galatasaray-a-cincon-diyen-birini-hastanelik-etmek/
