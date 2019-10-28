@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
+     bkz ekşideki zengin koca avcısı kızlar
      bkz hayallerde yaşıyor bazı tırrrekler
      https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/&w=bg 
      bkz türklerin soyadlarından firma kurma sebepleri 
