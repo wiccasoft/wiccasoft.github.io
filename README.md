@@ -9,6 +9,7 @@
 
 <!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
     https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
+    https://www.youtube.com/watch?v=S6GhiP8wPwA cıncık gibisin
     bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
     bkz bir gece ansısızn hakkari muş şırnak adıyaman
     https://www.uludagsozluk.com/k/kurt-cobain/&w=bg (bkz kürt kobani)
