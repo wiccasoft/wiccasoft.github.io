@@ -10,6 +10,7 @@
      bkz dayı göçlü balesi yapa kel amcalar videosu izlerken kafama sıkar ülküc ocağıma giderim dinlemek
      bkz ahmet kayanın pkk lı olduğu gerçeğini kabulenememek ülkücü olarak üzülmek sorunsallanmak
      bkz hacı sabancı nın nargileci tipli torunlarının bloomberg röportajı
+     https://www.uludagsozluk.com/k/y%C4%B1lan-suratl%C4%B1-%C3%BCnl%C3%BCler/ lol
      https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg bkz ersun yanal ın hoplatacağı versus
      https://www.uludagsozluk.com/k/usame-bin-ladin-in-gen%C3%A7li%C4%9Fi/ bkz o.bin laden barack hüseyin obama benzerliği
      https://www.uludagsozluk.com/k/day%C4%B1-g%C3%B6l%C3%BC-balesi-yapan-kel-amcalar/ bkz dayı gölü balesi yapan amcalar
