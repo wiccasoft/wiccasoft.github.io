@@ -9,7 +9,7 @@
      http://muratakay.com.tr/ lol
      bkz beşiktaş tek aşk 
      bkz macun kaplıcalının fener ol kampanyası
-     bkz ekşideki zengin koca avcısı fanatik gsli generli kızlar
+     bkz ekşideki zengin koca avcısı fanatik fenerli cinconlu kızlar
      https://www.uludagsozluk.com/k/a%C4%9F%C4%B1zdan-%C3%B6p%C3%BC%C5%9Fmenin-elli-tonu/ bkz açmayın oral seks
      bkz beşiktaşın türkiyenin en iyi klübü olduğunu kabullenemeyen ezikler
      bkz hakan sabancının kayserili olduğu gerçeğinin unutan kızlar
