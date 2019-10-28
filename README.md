@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     bkz bak futboldaki aykut kocamnın kadın kuaförü oldu tartışması
      bkz hakan sabancının utancından instagramı kapatması
      bkz ali sabancının hakan sabancı adına özür postu
      bkz ağızdan solunum yapılan emre morun götten soluması
