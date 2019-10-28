@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz dayı göçlü balesi yapa kel amcalar videosu izlerken akla emre morun gelmesi
      bkz ahmet kayanın pkk lı olduğu gerçeğini kabulenememek ülkücü olarak üzülmek sorunsallanmak
      bkz hacı sabancı nın nargileci tipli torunlarının bloomberg röportajı
      https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg bkz ersun yanal ın hoplatacağı versus
