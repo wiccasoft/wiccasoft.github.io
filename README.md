@@ -11,6 +11,7 @@
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
      NE DİYİN LAN TOP
      https://www.youtube.com/watch?v=6YUw7_q33Zs
+     https://www.youtube.com/watch?v=NXQJ9iR5BkA bkz sapık ismetin beşiktaşlı olduğunu bilmeyen kan tutan beta
      bkz kerimcan durmazın gsli olduğu gerçeği
      bkz kafama sıka giderim ülkü ocağıma
      bkz cinconlu beta beşiktaşlı alfa erkek aşkı
