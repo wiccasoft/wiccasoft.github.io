@@ -6,7 +6,7 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
-     https://www.sabanci.com/en bkz lol
+     https://www.sabanci.com/en bkz lol rise of ney asdasdas
      http://muratakay.com.tr/ lol
      ADAMSIN QUARESMA
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
