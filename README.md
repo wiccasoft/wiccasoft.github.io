@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz fatih terimettonun adanalı olduğu gerçeği
      bkz tranzon beşikdüzü vakfıkebirli olmayan beşiktaş taraftarı
      bkz hakan sabancıyı yakışıklı bulan ekşici kızlar
      bkz fatih terim efso soyunma odası konuşması
