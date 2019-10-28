@@ -8,6 +8,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 
 <!--bkz tangır budun doğanın tayyip olma olasılığı
+    bkz bacelinin kılışdaroğlana verdiği efso boru gibin ayar
     https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
     bkz esedin ebu bekr el bagdadi yi finanse ettiğini itiraf etmesi
     bkz bir gece ansısızn hakkari muş şırnak adıyaman
