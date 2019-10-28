@@ -5,7 +5,8 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz erdoganın attığı aşırtma golü https://www.youtube.com/watch?v=aVxJzVjCWVc beenmeyen ağır ılıhtır
+<!-- bkz yağmur atacan ın eblek suratı
+     bkz erdoganın attığı aşırtma golü https://www.youtube.com/watch?v=aVxJzVjCWVc beenmeyen ağır ılıhtır
      https://www.uludagsozluk.com/k/y%C3%BCzy%C4%B1l%C4%B1n-lideri-recep-tayyip-erdo%C4%9Fan/
      https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-att%C4%B1%C4%9F%C4%B1-a%C5%9F%C4%B1rtma-gol/&w=bg
      bkz akboyların 2023 te anlayacağı realite
