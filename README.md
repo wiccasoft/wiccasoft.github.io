@@ -8,7 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
-     bkz galatasaray instagram hesabını hackleyip fidye isteyip kaçmak
+     bkz galatasaray instagram hesabını hackleyip emre moru taylor swiftin üstene atıp kaçmak
      bkz twitter linkli başlık açacam bak bak bak baktınız mı nasıl
      bkz haber botları varken manual başlık açan orta doğulular
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
