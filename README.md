@@ -1,8 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hazreti muhammadin askerleriyissss
-https://www.youtube.com/watch?v=Bi_9F2O3z-Q  Efendimiz (Sallallâhu Aleyhi ve Sellem)in Hayatı 
-https://www.youtube.com/watch?v=18eqJ-CLa1c allah ne süper lan
-https://www.youtube.com/watch?v=sJSR50mb2Tc hz muhammed sav efendinin hayatı
+<!--efendiler yarın hilafeti ilan edeceğiz hazreti muhammadin askerleriyiz
+https://www.youtube.com/watch?v=Bi_9F2O3z-Q  bkz Efendimiz (Sallallâhu Aleyhi ve Sellem)in Hayatı 
+https://www.youtube.com/watch?v=18eqJ-CLa1c bkz allah ne süper lan
 https://www.uludagsozluk.com/k/dinazorlar%C4%B1n-neslinin-yok-olu%C5%9F-nedeni/&w=bg bkz namaz kılmamak
 -->
 
