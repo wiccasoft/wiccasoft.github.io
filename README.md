@@ -8,7 +8,8 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
-     bkz haber botu varken başlık açan tipler
+     bkz haber botu varken başlık açan ergenler
+     bkz twitter linki atıp tıklanmayınca ağlayan ergen
      bkz umut nayira  nayir diyemeyecek kızlar
      bkz bak futboldaki aykut kocamnın kadın kuaförü oldu tartışması
      bkz hakan sabancının utancından instagramı kapatması
