@@ -5,7 +5,7 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz rte nin  bi yandan pkk bi yandan daesh bi yanmda fetö dopunuz gelin demesi
+<!-- bkz rte nin  bi yanda vaypigi bi yandan peykiki bi yandan daesh bi yanmda fetö dopunuz gelin demesi
      bkz sarumanın fettullah gandalfın rte olması
      bkz sarumanın götünün başı ayrı oynması
      https://www.uludagsozluk.com/k/saruman-da-ba%C5%9Flayan-g%C3%B6t-ba%C5%9F-oynamas%C4%B1n%C4%B1-s%C3%BCzememek/
