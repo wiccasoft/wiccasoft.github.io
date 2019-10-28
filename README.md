@@ -7,11 +7,9 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
-     bkz dede parası yerken göt başı dağıtan zengin piçleri
+     bkz dede parası yerken götü başı dağıtan zengin piçleri
      bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
      bkz ekşideki zengin torunu avcısı kızlar
-     bkz hayallerde yaşıyor bazı tırrrekler
-     https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/&w=bg 
      bkz türklerin soyadlarından firma kurma sebepleri 
      bkz resident evil i kurarken sabancı nın malak suratlı torunlarını siklememek
      bkz https://www.youtube.com/watch?v=TJsJmX3iQkY
