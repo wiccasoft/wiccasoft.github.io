@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz fatih terim efso soyunma odası konuşması
      https://www.youtube.com/watch?v=9yKoN7kosic bbva
      bkz zengin koca avcısı ekşici kızlar bkz aman diyim uzak durun
      https://www.uludagsozluk.com/k/hakan-sabanc%C4%B1n%C4%B1n-sevgilisini-unutmas%C4%B1/
