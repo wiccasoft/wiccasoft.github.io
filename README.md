@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     https://www.youtube.com/watch?v=oUcWp-Vg55Q bkz seyf keyf
      bkz cinconlu betalardaki alfa beşiktaşlı elit olgun erkek aşkı
      bkz gama cinconlu beta fenerli erkek ilişkisi
      https://www.uludagsozluk.com/k/kad%C4%B1nlardan-nefret-ediyorum-diyen-erkek/ bkz erkek adama uymaz aga
