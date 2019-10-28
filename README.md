@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
      bkz dede parası yerken götü başı dağıtan zengin piçleri
      bkz türklerin soyadlarından firma kurma sebepleri 
      bkz resident evil i kurarken sabancı nın torunlarının götü başı dağıtması olayı
@@ -21,8 +22,7 @@
      bkz hacı sabancı nın nargileci tipli torunlarının bloomberg röportajı
      https://www.uludagsozluk.com/k/y%C4%B1lan-suratl%C4%B1-%C3%BCnl%C3%BCler/ lol
      https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg bkz ersun yanal ın hoplatacağı versus
-     https://www.uludagsozluk.com/k/usame-bin-ladin-in-gen%C3%A7li%C4%9Fi/ bkz o.bin laden barack hüseyin obama benzerliği
-     https://www.uludagsozluk.com/k/day%C4%B1-g%C3%B6l%C3%BC-balesi-yapan-kel-amcalar/ bkz dayı gölü balesi yapan amcalar
+     https://www.uludagsozluk.com/k/usame-bin-ladin-in-gen%C3%A7li%C4%9Fi/ bkz barack hüseyin obama 
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
      https://www.uludagsozluk.com/k/iyi-de-k%C3%B6t%C3%BC-de-olsa-hep-fenerbah%C3%A7e-nin-konu%C5%9Fulmas%C4%B1/
      https://www.uludagsozluk.com/k/obradovic-in-kediye-d%C3%B6nmesi/
