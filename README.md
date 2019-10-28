@@ -9,7 +9,8 @@
 
 <!--https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz öldüyse cesedi nerde pampa 
     https://www.uludagsozluk.com/k/tengir-budun-vs-baris-hemen-simdi/&w=bg
-bkz orta doğuda barışı sağlaycak iki cengaver biri tayyip budun doğgancı türkçü kürt düşmanı  diğeri kürtçü
+    bkz orta doğuda akan kanlırın sorumusu iki cengaver biri tayyip budun doğanncı bekacı türkçü kürt düşmanı  
+    diğeri kürtçü haydin kolay gelsin hayır forumlar
 -->
 [![Image](smartdata/birthofvenus.png)]( https://www.youtube.com/watch?v=NINOxRxze9k )
 <!--  https://www.theguardian.com/science/2019/oct/25/strike-a-contrapposto-pose-to-look-more-attractive-science-says -->
