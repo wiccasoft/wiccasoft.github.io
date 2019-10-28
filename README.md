@@ -5,7 +5,7 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz erdoganın attığı aşırtma golü beenmeyen ılıklar https://www.youtube.com/watch?v=aVxJzVjCWVc
+<!-- bkz erdoganın attığı aşırtma golü https://www.youtube.com/watch?v=aVxJzVjCWVc beenmeyen ağır ılıhtır
      https://www.uludagsozluk.com/k/y%C3%BCzy%C4%B1l%C4%B1n-lideri-recep-tayyip-erdo%C4%9Fan/
      bkz erdoganın sevmeyenlerin ya kamalık ya kürt olması
      bkz erdoganın attığı aşırtma golü beğenmeyen kamalıklar ve kürtükler
