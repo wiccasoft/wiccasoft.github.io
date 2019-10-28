@@ -8,9 +8,8 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz dede parası yerken göt başı dağıtan zengin piçleri
-     bkz hakan sabancı nın kuzeninin bar çıkışı yatla gezintiye çıkarması
      bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
-     bkz ekşideki zengin sabancı koç torunu avcısı kızlar
+     bkz ekşideki zengin torunu avcısı kızlar
      bkz hayallerde yaşıyor bazı tırrrekler
      https://www.uludagsozluk.com/k/hintlilerin-d%C3%BCnyay%C4%B1-ele-ge%C3%A7irecek-olmas%C4%B1/&w=bg 
      bkz türklerin soyadlarından firma kurma sebepleri 
