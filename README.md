@@ -7,11 +7,11 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz zengin torunu avcısı kızlar
      bkz dede parası yerken götü başı dağıtan zengin piçleri
      bkz türklerin soyadlarından firma kurma sebepleri 
      bkz resident evil i kurarken sabancı nın torunlarının götü başı dağıtması olayı
      bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
-     bkz ekşideki zengin torunu avcısı kızlar
      bkz bill gatesin siklemediği detaylar
      bkz sakıp sabancının torunlarının sanki biraz şey olması
      https://eksisozluk.com/hakan-sabancinin-kiz-arkadasini-unutmasi--6228286?a=popular
