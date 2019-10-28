@@ -2,7 +2,7 @@
 <!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hz sav dilan derenin askerleriyissss
 gardaşım köz getir seri cıncık kebapıyla kutlama yapacağız bkz fettullag hülenin yine kalkışma planlaması
 https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği
- bkz ilk buluşmada iphone11 çıkarıp yengen arıyor diyen erkek
+bkz ilk buluşmada iphone11 çıkarıp yengen arıyor diyen erkek
 https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz fatih terimin efso soyunma odası konuşması
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz arsız bela
 https://www.uludagsozluk.com/k/intihar-etmeyi-d%C3%BC%C5%9F%C3%BCnen-insan/&w=bg bkz fetullag pişkin
