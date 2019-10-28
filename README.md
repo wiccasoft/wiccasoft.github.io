@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz ewkşici kızların hepsinin gold digger orospular olduğu gerçeği
      bkz zengin koca avcısı ekşici kızlar
      https://www.uludagsozluk.com/k/hakan-sabanc%C4%B1n%C4%B1n-sevgilisini-unutmas%C4%B1/
      https://eksisozluk.com/fakir-erkekle-evlenmenin-bedavaya-vermek-olmasi--6228392?a=popular
