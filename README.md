@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hazreti muhammadin askerleriyissss
-https://www.youtube.com/watch?v=18eqJ-CLa1c 
+https://www.youtube.com/watch?v=18eqJ-CLa1c allah ne süper lan
+https://www.youtube.com/watch?v=sJSR50mb2Tc hz muhammed sav efendinin hayatı
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
