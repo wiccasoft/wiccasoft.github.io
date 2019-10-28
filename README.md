@@ -6,7 +6,8 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
-     http://muratakay.com.tr/ lol   
+     http://muratakay.com.tr/ lol
+     bkz denize macun kaplıcalı mı düşse kurtarırısn ferit şahenk möi
      bkz denize atatürk mü düşse kurtarırsın muhammed mi
      bkz atatürkün hıyaneti kurma sebepleri
      https://www.youtube.com/watch?v=EfAsNffCjsM hıaa allah ne süper lan
