@@ -1,6 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--efendiler yarın hilafeti ilan edeceğiz are you readyyyyy hz sav dilan derenin askerleriyissss
-gardaşım köz getir seri cıncık kebapıyla kutlama yapacağız
+gardaşım köz getir seri cıncık kebapıyla kutlama yapacağız bkz fettullag gülenini kalkışma planlaması
 https://www.youtube.com/watch?v=S6GhiP8wPwA bkz dilan derenin cıncık gibi olduğu gerçeği-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
