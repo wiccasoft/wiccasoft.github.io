@@ -11,7 +11,7 @@
      bkz 78 li trabzonlu erkek 98 li kayserili kız ilişkisi 
      bkz ekşideki zengin torunu avcısı kızlar
      bkz türklerin soyadlarından firma kurma sebepleri 
-     bkz resident evil i kurarken sabancı nın malak suratlı torunlarını siklememek
+     bkz resident evil i kurarken sabancı nın torunlarının götü başı dağıtması olayı
      bkz https://www.youtube.com/watch?v=TJsJmX3iQkY
      bkz bill gatesin siklemediği detaylar
      bkz sakıp sabancının torunlarının sanki biraz şey olması
