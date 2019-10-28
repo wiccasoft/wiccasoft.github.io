@@ -8,10 +8,9 @@
 <!-- bkz erdoganın attığı aşırtma golü beenmeyen ılıklar https://www.youtube.com/watch?v=aVxJzVjCWVc
      https://www.uludagsozluk.com/k/y%C3%BCzy%C4%B1l%C4%B1n-lideri-recep-tayyip-erdo%C4%9Fan/
      bkz erdoganın sevmeyenlerin ya kamalık ya kürt olması
-     bkz erdoganı beğenmeyenlerin kamalık olması
-     bkz erdoganın attığı aşırtma golü beğenmöeyen kamalıklar
+     bkz erdoganın attığı aşırtma golü beğenmeyen kamalıklar ve kürtükler
      bkz atayük çizeyim deyken rte çizen japon
-     bkz atatüyk şiiyi okuyken kendinden geçen çocuk
+     bkz rte şiiyi okuyken kendinden geçen çocuk
      bkz erdoganin attığı aşırtma gol sonrası acunu yalaması
      https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-att%C4%B1%C4%9F%C4%B1-a%C5%9F%C4%B1rtma-gol/&w=bg
      bkz akboyların 2023 te anlayacağı realite
