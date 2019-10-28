@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      https://www.youtube.com/watch?v=c_Ot1OEfk9I
+     bkz radamel falcao garcia nın fırçayı yemesi
      bkz fatih terimin futbol zekası entrylerini okurken matrix teki neo gibi uyuyakalmak
      bkz çocuğuna iyi orta gol getirir felsefesini öğretmeyen aile
      bkz futbolcularda ağda yaptırsın kampanyasına destek olmak
