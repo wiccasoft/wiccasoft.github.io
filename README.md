@@ -23,6 +23,7 @@
      bkz zengin torunu bulmak varken çalışan enayiler
      bkz ali sabancının pegasus u göklere çıkarması https://www.youtube.com/watch?v=DUDTOUSRb1U
      http://muratakay.com.tr/ lol
+     bkz seyfin çok komik olması
      ADAMSIN QUARESMA
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
      NE DİYİN LAN TOP
