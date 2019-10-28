@@ -9,7 +9,6 @@
      https://www.sabanci.com/en bkz rise of hakan sabancı nın kız arkadaşını unutması
      bkz zengin torunu bulmak varken çalışan enayiler
      bkz ali sabancının pegasus u göklere çıkarması https://www.youtube.com/watch?v=DUDTOUSRb1U
-     https://www.uludagsozluk.com/k/hakan-sabanc%C4%B1n%C4%B1n-sevgilisini-unutmas%C4%B1/
      http://muratakay.com.tr/ lol
      ADAMSIN QUARESMA
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
