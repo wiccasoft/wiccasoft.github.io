@@ -10,7 +10,7 @@
      bkz zengin torunu avcısı kızlar
      bkz osman pazarlama nasıl patlatmışım ama
      https://www.uludagsozluk.com/k/tiktok-ta-patlayan-t%C3%BCrbanl%C4%B1-bac%C4%B1lar/ 
-     bkz illumunatinin şehirlere doluşturduğu kırsal kökenli zombiler
+     bkz illumunatinin şehirlere doluşturduğu kırsal kökenli olmayan zombiler
      bkz ersun yanal fatihe terime aykut kocaman a entry girmek varken haber linki atan ergenler
      bkz ali sabancının hakan sabancı adına özür dilemesi
      bkz haber botu varken saçma sapan haberlerin başlıklarını açan ergenler
