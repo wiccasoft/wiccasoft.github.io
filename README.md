@@ -10,8 +10,6 @@
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
      https://www.uludagsozluk.com/k/iyi-de-k%C3%B6t%C3%BC-de-olsa-hep-fenerbah%C3%A7e-nin-konu%C5%9Fulmas%C4%B1/
      https://www.uludagsozluk.com/k/obradovic-in-kediye-d%C3%B6nmesi/
-     bkz dayı gölü balesi yapan kel amcalar
-     bkz sözlük kızlarının sırma saçları
      bkz denize macun kaplıcalı mı düşse kurtarırısn ferit şahenk möi
      bkz denize atatürk mü düşse kurtarırsın muhammed mi
      bkz atatürkün hıyaneti kurma sebepleri
