@@ -11,6 +11,7 @@
      https://www.youtube.com/watch?v=oUcWp-Vg55Q
      NE DİYİN LAN TOP
      https://www.youtube.com/watch?v=6YUw7_q33Zs
+     bkz kafama sıka giderim ülküc ocağıma
      bkz cinconlu ergen betalardaki alfa beşiktaşlı elit olgun erkek aşkı adasdasda
      bkz gama cinconlu beta fenerli erkek ilişkisi
      https://www.uludagsozluk.com/k/kad%C4%B1nlardan-nefret-ediyorum-diyen-erkek/ bkz erkek adama uymaz aga
