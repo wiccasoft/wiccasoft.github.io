@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz beşiktaşın türkiyenin en  iyi klübü olduğunu kabullenemeyen ezikler
      bkz hakan sabancının kayserili olduğu gerçeğinin unutan kızlar
      bkz fatih terimettonun adanalı olduğu gerçeği
      bkz trapzone beşikdüzü vakfıkebirli olmayan beşiktaş taraftarı
