@@ -1,9 +1,5 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy
-https://www.youtube.com/watch?v=Bi_9F2O3z-Q bkz Efendimiz (Sallallâhu Aleyhi ve Sellem)in Hayatı 
-https://www.youtube.com/watch?v=18eqJ-CLa1c bkz hz muhammed ne süper lan
-https://www.uludagsozluk.com/k/dinazorlar%C4%B1n-neslinin-yok-olu%C5%9F-nedeni/&w=bg bkz namaz kılmamak
--->
+<!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
