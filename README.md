@@ -8,7 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
-     bkz tiktokta patlayan persicopeta osuran türbanlı bacılar
+     bkz tiktokta patlayan persicopeta osuran instagram da ağızdan öpüşen türbanlı bacılar
      https://eksisozluk.com/fakir-erkekle-evlenmenin-bedavaya-vermek-olmasi--6228392?a=popular
      https://www.uludagsozluk.com/k/tiktok-ta-patlayan-t%C3%BCrbanl%C4%B1-bac%C4%B1lar/ 
      bkz benim türbanlı bacılarımı tik tok kurdurttular
