@@ -6,7 +6,8 @@
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
-     http://muratakay.com.tr/ lol    
+     http://muratakay.com.tr/ lol   
+     bkz denize atatürkmü düşse kurtarısısn muhammed mi
      bkz atatürkün hıyaneti kurma sebepleri
      https://www.youtube.com/watch?v=EfAsNffCjsM hıaa allah ne süper lan
      bkz diyanetin bütçesi vs falcao
