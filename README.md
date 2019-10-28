@@ -8,6 +8,7 @@
 <!-- 
      http://muratakay.com.tr/ lol
      bkz zengin torunu avcısı kızlar
+     bkz ali sabancının hakan sabancı adına özür postu
      bkz ağızdan solunum yapılan emre morun götten soluması
      bkz galatasaray instagram hesabını hackleyip emre moru taylor swiftin üstene atıp kaçmak
      bkz twitter linkli başlık açacam bak bak bak baktınız mı nasıl
