@@ -5,7 +5,8 @@
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
-<!-- bkz rte yi tangır budun dogandan baska destekleyenin kalmaması
+<!-- https://www.youtube.com/watch?v=gHBhKbF2xMA
+     bkz rte yi tangır budun dogandan baska destekleyenin kalmaması
      bkz rte nin  bi yanda vaypigi bi yandan peykiki bi yandan daesh bi yanmda fetö dopunuz gelin demesi
      bkz sarumanın fettullah gandalfın rte olması
      bkz sarumanın götünün başı ayrı oynması
