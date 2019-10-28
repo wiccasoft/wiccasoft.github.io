@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     https://www.uludagsozluk.com/k/obradovic-in-kediye-d%C3%B6nmesi/
      bkz dayı gölü balesi yapan kel amcalar
      bkz sözlük kızlarının saçları
      bkz denize macun kaplıcalı mı düşse kurtarırısn ferit şahenk möi
