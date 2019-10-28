@@ -7,10 +7,9 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     bkz beşiktaş tek aşk 
      bkz macun kaplıcalının fener ol kampanyası
-     bkz ahmet kayanın beşiktaş lı olduğunu itiraf etmesi
-     bkz beşiktaş tek aşk
-     bkz ekşideki zengin koca avcısı beşiktaş düşmanı kızlar
+     bkz ekşideki zengin koca avcısı fanatik gsli generli kızlar
      https://www.uludagsozluk.com/k/a%C4%9F%C4%B1zdan-%C3%B6p%C3%BC%C5%9Fmenin-elli-tonu/ bkz açmayın oral seks
      bkz beşiktaşın türkiyenin en iyi klübü olduğunu kabullenemeyen ezikler
      bkz hakan sabancının kayserili olduğu gerçeğinin unutan kızlar
