@@ -7,6 +7,7 @@
 [![Image](smartdata/lithium-chile.png)]( https://www.reuters.com/article/us-chile-protests-lithium/chile-protesters-block-access-to-lithium-operations-local-leader-idUSKBN1X42B9 )
 <!-- 
      http://muratakay.com.tr/ lol
+     https://www.uludagsozluk.com/k/usame-bin-ladin-in-gen%C3%A7li%C4%9Fi/ bkz o.bin laden barack hüseyin obama benzerliği
      https://www.uludagsozluk.com/k/day%C4%B1-g%C3%B6l%C3%BC-balesi-yapan-kel-amcalar/ bkz dayı gölü balesi yapan amcalar
      https://www.youtube.com/watch?v=-j6xrBeYdVM bkz nerde kalmıştık
      https://www.uludagsozluk.com/k/iyi-de-k%C3%B6t%C3%BC-de-olsa-hep-fenerbah%C3%A7e-nin-konu%C5%9Fulmas%C4%B1/
