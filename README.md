@@ -1,6 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
+https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
+https://eksisozluk.com/ibbnin-eminonu-balikcilarina-kapiyi-gostermesi--6229428?a=popular neler dönmüş haçan ya
 https://www.uludagsozluk.com/k/tost%C3%A7u-mahmut/&w=bg bkz tostçu erolun eline su dökemez
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
