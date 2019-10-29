@@ -1,6 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii
 bkz misirlounun 29 ekim provakasyonu
+bkz cem yılmazın resepsiyonda kırmızı halıyı beğenmemesi
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-29-ekim-resepsiyonuna-kat%C4%B1lmamas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/delikanl%C4%B1-adam-ka%C3%A7maz/ bkz al bunu alamazmısın
 bkz yeni neslin çükünün kalkmaması nedeiyle sinirli olması
 bkz götten fenerli yarrağı yiğince sinir yapan cinconlu
