@@ -6,7 +6,8 @@ bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz yine seks hikayesi mi yazısun haçaan kaçan abüüüü :))))))))))))
 bkz dont make haçan kaçan make famous
 bkz haçan kaçanın trumpa verdiği ayar
-bkz haçan kaçanın yerinin uzun admaın yeri olması
+bkz haçan kaçanın yerinin uzun adamın yeri olması
+bkz uzun adamın haçan kaçanı işe alması
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-dan-cem-y%C4%B1lmaza-29-ekim-daveti-tepkisi/ bkz haçan kaçan kim amk
 https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz götün yiyosa güngörene gelsene diyen kemalist
