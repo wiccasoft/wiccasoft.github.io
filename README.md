@@ -16,6 +16,7 @@ için
 https://www.uludagsozluk.com/k/rafet-el-roman-a-l%C3%BCtfen-m%C3%BCzi%C4%9Fi-b%C4%B1rak-bebe%C4%9Fim-demek/&w=bg bkz bebiş
 https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1nda-veledin-sagopa-rap-yapm%C4%B1yor-demesi/ lol
+https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
