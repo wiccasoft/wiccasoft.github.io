@@ -1,11 +1,11 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
-bkz fatih tezcan analiz merkezini yunanistana taşımak
 bkz kadir misirlounun 29 ekim provakasyonu
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şerefsiz oç
-https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg bkz ecdad ı olmayan soysuz globalist
-bkz demetevgar dan iki yaş büyük 30 cm uzun olduğum için resepsiyona çağrılmamış olmam
+bkz fatih tezcan analiz merkezini yunanistana taşımak
+https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg 
+bkz demetevgar dan iki yaş büyük 30 cm uzun olduğum için recepsiyona çağrılmamış olmam
 bkz resepsiyon pilavlı içkisiz diye gitmemek
 https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz reception
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
