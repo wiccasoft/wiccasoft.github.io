@@ -13,7 +13,7 @@ bkz cinconluların göt deliklerine fener yazılan mekan
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-%C5%9F%C3%BCkr%C3%BC-sara%C3%A7o%C4%9Flu-stad%C4%B1/&w=gd 
 bkz cinconluların fenerli yiğidolarla  gömüşmekten korkması https://www.youtube.com/watch?v=6YUw7_q33Zs
 https://www.uludagsozluk.com/k/lahmacun-g%C3%B6mmek/&w=bg bkz lahmacun gömdükten sonra aykuta gömmek 
-https://www.uludagsozluk.com/e/42346579/ bkz fatih terimin aykuta diz çök yarramı yala demesi
+https://www.uludagsozluk.com/e/42346579/ bkz fatih terimin aykuta diz çök yarramı yala demesi aykurt siggi git lan bakışı
 bkz türkiyenin tam bir homo cehennemine dönüşmesini izlemek
 bkz aykut kocamanı bulup seni kocam yapacağım olm demek
 https://www.youtube.com/watch?v=TJsJmX3iQkY bkz aykut kocamanın ılık götlülük yapması
