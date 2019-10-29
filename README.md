@@ -5,7 +5,7 @@ bkz beyler buralar karışır vaziyet alıyorum
 bkz amınönünde kavga etmeyen erkek
 bkz galatasaray ve fenerlilerin ağır gay olduğu gerçeği
 https://www.uludagsozluk.com/e/42346579/ bkz fatih terimin aykuta diz çök yarramı yala demesi
-bkz türkiyenin tam bir homo cennetine dönüşmesini izlemek
+bkz türkiyenin tam bir homo cehennemine dönüşmesini izlemek
 bkz aykut kocamanı bulup seni kocam yapacağım olm demek
 https://www.youtube.com/watch?v=TJsJmX3iQkY bkz aykut kocamanın ılık götlülük yapması
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd bkz ahmet çakar ın ayykut kocamana götüne çakarım demesi
