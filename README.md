@@ -3,6 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
+bkz galtasaraylıların ağır gay olduğu gerçeği
 https://www.uludagsozluk.com/e/42346579/ bkz fatih terimin aykuta diz çök yarramı yala demesi
 bkz aykut kocamanı bulup seni kocam yapacağım olm demek
 https://www.youtube.com/watch?v=TJsJmX3iQkY bkz aykut kocamanın ılık götlülük yapması
