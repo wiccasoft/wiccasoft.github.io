@@ -4,6 +4,7 @@ bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
+https://www.uludagsozluk.com/k/sinan-albayrak/&w=bg bkz sinin albayrak kim amk
 bkz zombilerdeki adam misin lan sen vur lan vur duvardan duvara vur bana tarzı agresif tavırların sebebi
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatcağı versus
 bkz tek vasfı araba ve telefon kullanmak olan malum ırk (bkz zombienation)
