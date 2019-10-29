@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/%C3%A7ay-isteyen-m%C3%BC%C5%9Fteriye-%C3%A7ay-ne-
 için
 https://www.uludagsozluk.com/k/rafet-el-roman-a-l%C3%BCtfen-m%C3%BCzi%C4%9Fi-b%C4%B1rak-bebe%C4%9Fim-demek/&w=bg bkz bebiş
 https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
+https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1nda-veledin-sagopa-rap-yapm%C4%B1yor-demesi/ lol
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
