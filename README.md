@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz fatih terim
-https://eksisozluk.com/fatih-terim--37577?a=popular bkz olm bunları kim okuyacak lan 5 milyon entry var asdsadas
+https://eksisozluk.com/fatih-terim--37577?a=popular bkz olm bunları kim okuyacak lan 55 milyon entry var asdsadas
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz kılıçtara yine boru gibi döşeyen beka reis
 https://www.uludagsozluk.com/k/enes-batur/&w=bg bkz enes abi anamı sik
