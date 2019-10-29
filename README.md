@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin 
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz cmylmz ın haçan kaçan kim amk tweeti 
 bkz trump ın haçan kaçanı siklemediği gerçeği
+bkz siklenmedikçe havlayan çomar
 bkz haçan kaçan al oğlum kemik deyip kumda oyna lan demek
 bkz akboylar dışında haçan kaçanı takip eden olmaması
 bkz haçan kaçanın yerim uzun adamın dedim dedim inanmadınız bak noldu şimdi tweeti
