@@ -2,6 +2,8 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
+bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
+https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz götün yiyosa güngörene gelsene diyen kemalist
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölen olmaması
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
