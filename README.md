@@ -1,8 +1,11 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz ganadımı gırdılar uçamadım anne
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/
+bkz ucunu taramalı bağlayalım taraya taraya  gitsin
 https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
 bkz götün yiyosa gelsen güngörene
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rinna rinan rinanay
 https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/&w=bg bkz gmail reklamı
 https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz yine tüpe soktun kardeş
 https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg bkz komiklikler şakalar
@@ -10,6 +13,7 @@ https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır bu
 https://www.uludagsozluk.com/k/lanet-bir-dizi-var-%C3%A7ukur-diye/ bkz lol
 https://chaturbate.com/ bkz keşke yunan galip gelseymiş
 https://twitter.com/eysanlandin/status/1188397384474206208 bkz keşke pontus galip gelseymiş
+https://www.uludagsozluk.com/k/hain-osmanl%C4%B1-geri-d%C3%B6necek-zanneden-%C5%9Fa%C5%9Fk%C4%B1nlar/&w=bg lol
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rina rina rinanay
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg okumadım 
 https://www.uludagsozluk.com/k/g%C3%BCleyrum-haluna-katula-katula/&w=bg bkz karım olmadığı için siklemediğim durumlar
@@ -37,14 +41,9 @@ https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-atat%C3%BCrk/&w=bg b
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-atas%C4%B1-recep-tayyip-erdo%C4%9Fan/ bkz gürcü değilmiydi lan o
 https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz beni niye çağırmadılar lan
 https://www.uludagsozluk.com/k/k%C3%BCrtten-sevgili-olur-mu/ bkz kürt lütfen
-https://www.uludagsozluk.com/k/konya-da-transseks%C3%BCel-bireyin-k%C4%B1z-ka%C3%A7%C4%B1rma-giri%C5%9Fimi/ bkz neler dönmüş serhat ya
-https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz rizeli erkeğin alacağı versus
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz ahmet kayanın pkklı olduğu gerçeği
 https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz resepsiyona çağrılmadı diye diss atmak
 bkz ahmet kayanın pkklı olduğunu kabul edemeyip kafasına sıkan ülkücüler
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz unfluyoruz beyler
-https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-anla%C5%9F%C4%B1lamayan-ilgin%C3%A7-diyalo%C4%9Fu/ unfla gitsin
-bkz trabzonlu erkek diyarbakırlı erkek aşkı
 https://www.uludagsozluk.com/k/tiyatroculara-yahu-siz-kimsiniz-diyen-ba%C5%9Fbakan/&w=bg bkz ya kimsin ya sen
 https://www.uludagsozluk.com/k/bir-pesimistin-g%C3%B6zya%C5%9Flar%C4%B1/&w=bg bkz pasif erkek aktif erkek aşkı
 https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ bkz fena skiş döndüğü düşünülen yerler
