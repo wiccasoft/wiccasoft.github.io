@@ -10,7 +10,7 @@ bkz selin ciğercinin erkek halinin ulucu ergenlere benzediği gerçeği
 bkz ulucu ergenlerin niye cinsiyet değiştirmemesi babalarının mı kızması sorunsalı
 bkz direksiyona kolunu sokup nasıl soktum ama diyen erkek
 bkz sok bana sokamaz mısın sen nasıl delikanlısın diyen ergen
-https://www.uludagsozluk.com/k/biri-bizi-g%C3%B6zetliyor-s%C3%B6zl%C3%BCk/ bkz big brother watchin you
+https://www.uludagsozluk.com/k/biri-bizi-g%C3%B6zetliyor-s%C3%B6zl%C3%BCk/ bkz big brother watchin you 
 https://tenete.uludagsozluk.com/ bkz lol
 https://www.uludagsozluk.com/e/42337792/ bkz lol
 https://www.uludagsozluk.com/e/42344517/ bkz lol
