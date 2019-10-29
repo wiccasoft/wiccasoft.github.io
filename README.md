@@ -7,6 +7,7 @@ bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
 bkz demet evgarın evi gara çevirmesi
 bkz demet evgar dan iki yaş büyük 30 cm uzun olduğum gerçeği
 https://www.uludagsozluk.com/e/42346033/ lol
+https://www.uludagsozluk.com/k/kaz%C4%B1m-karabekir/&w=bg bkz 200000 türkü sarkamışta öldüren kahraman
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-rezalet-bir-yere-d%C3%B6n%C3%BC%C5%9Fmesi/ bkz evde zor tutulan yüzde elli
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatacağı versus
 https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg 
