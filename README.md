@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nem
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz olm bunları kim okuyacak lan 55 milyon entry var asdsadas
 https://chaturbate.com/ neler dönmüş serhat ya burhan kuzuya söyleyin blocklasın bunları aile giriyo internete
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış gardaş 
+https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi-a%C4%9Flayarak-%C3%B6ld%C3%BC/&w=bg öldüyse cesedi nerde pampa
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
