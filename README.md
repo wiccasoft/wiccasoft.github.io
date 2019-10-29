@@ -6,13 +6,8 @@ bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
 bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
 bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
-bkz ergenlerdeki akranı kızlar varken babalarına asılmalası olayı
-bkz bana gökhan çıranın babasını ayarla diyen ulucu velet seni bi sikerim gökhana siktirirm bi de velet
-lan veletler sikilmek istiyorsanız adres vereyim duvardan duvara sikerim haberiniz olsun https://www.uludagsozluk.com/e/42346745/
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz gökhan çıranın babasının 41 yaşında olması
-bkz türkiyenin homo cehennemi haline gelmesi kimine cennet kimine cehennem
 https://www.uludagsozluk.com/k/toplu-ta%C5%9F%C4%B1mada-bacaklar%C4%B1n%C4%B1-a%C3%A7madan-oturan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyip-ben-erke%C4%9Fim-diye-gezen-tip/ bkz erkek misin lan sen
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz erkek misin lan sen
