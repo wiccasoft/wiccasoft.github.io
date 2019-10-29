@@ -1,9 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii
 bkz misirlounun 29 ekim provakasyonu
-bkz 41 yaşında dimdik hala
-https://www.uludagsozluk.com/k/30dan-sonra-%C3%A7%C3%BCk%C3%BCn-kalkmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
-bkz cinconluya gel lan orospu diyip büzüğünü parmaklamak
+bkz yeni neslin çükünün kalkmaması nedeiyle sinirli olması
 bkz götten fenerli yarrağı yiğince sinir yapan cinconlu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
