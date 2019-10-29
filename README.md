@@ -4,6 +4,7 @@ bkz misirlounun 29 ekim provakasyonu
 bkz demokrat olduğum için kamalcıları siklemiyorum
 bkz imamoğlanın imam hatipler kapatılsın tweeti
 bkz beyler buralar karışır vaziyet alıyorum 
+bkz evde re ce tay yi er do van diye şarkı söylerken kapının çalması
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-dunkof-halis/ bkz ısırmaktan korkan ılık vampir
 https://eksisozluk.com/cukur-dizisi-58-bolum-catisma-sahnesi--5982063 bkz çatışmaktan korkan ılık erkek
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz vuruşmaktan korkan ılık erkek
