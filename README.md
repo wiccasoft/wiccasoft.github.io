@@ -5,7 +5,7 @@ https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin 
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz yine seks hikayesi mi yazısun haçaan kaçan abüüüü :))))))))))))
 bkz dont make haçan kaçan make famous
-bkz haçan kaçanın recepsiyona katılıp yerim uzun adamı dedim dedim inanmadını bak noldu şimdi tweeti
+bkz haçan kaçanın yerim uzun adamın dedim dedim inanmadınız bak noldu şimdi tweeti
 bkz haçan kaçanın trumpa verdiği ayar
 bkz haçan kaçanın saksı değilim ben tweeti
 bkz haçan kaçanın yerinin uzun adamın yeri olması
