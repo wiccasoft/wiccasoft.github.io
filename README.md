@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz cmylmz ın haçan kaçan kim amk tweeti 
 bkz siklenmedikçe havlayan çomar ısırmaz
-bkz rte nin haçan kaçanın yeri kucağımdır tweeti
+bkz rte nin haçan kaçanın yeri yanımdır tweeti
 bkz rte nin haçan kaçanı kuma olarak alması
 bkz haçan kaçana al oğlum kemik deyip kumda oyna lan demek
 bkz haçan kaçanın yerim uzun adamın dedim dedim inanmadınız bak noldu şimdi tweeti
