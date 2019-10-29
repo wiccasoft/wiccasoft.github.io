@@ -8,7 +8,7 @@ bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
 bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
 bkz selin ciğercinin erkek halinin ulucu ergenlere benzediği gerçeği
 bkz ulucu ergenlerin niye cinsiyet değiştirmemesi babalarının mı kızması sorunsalı
-bkz direksiyona kolunu sokup nasıl ama diyen erkek
+bkz direksiyona kolunu sokup nasıl soktum ama diyen erkek
 https://www.uludagsozluk.com/e/42347517/ bkz göbüşü öpülüp şapşik komik değil ki yaaa denmeli hadi lan yapsana
 https://www.uludagsozluk.com/k/uzak-durulmas%C4%B1-gereken-insanlar/&w=bg bkz iki eliyle bir siki doğrultmayan ergenler
 https://www.uludagsozluk.com/k/2050-y%C4%B1l%C4%B1na-not-b%C4%B1rak/&w=bg bkz iki eliyle bir siki doğrultmayan erkek
