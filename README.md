@@ -6,6 +6,7 @@ bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
 bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
 bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
+https://www.uludagsozluk.com/k/sigara-i%C3%A7meyip-ben-erke%C4%9Fim-diye-gezen-tip/ bkz erkek misin lan sen
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz erkek misin lan sen
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz direksiyonu iki eliyle kullanan ılık
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-konyal%C4%B1-olmas%C4%B1/ bkz selin ciğerci nin babası
