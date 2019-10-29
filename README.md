@@ -1,9 +1,9 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
-bkz kadir mısıroglunun taşşak geçmek için türklere fes yollaması
+bkz kadir mısıroglunun taşşak geçmek için yaptığı fesli paylaşım
 bkz burak özçivitin beyaz şovda oynadığı zeybek
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flunu-mezarda-b%C3%B6ceklerin-yemesi/
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flunu-mezarda-b%C3%B6ceklerin-yemesi/ 
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/atat%C3%BCrke-benzeyen-adamlar/ bkz açmayın korkunçlu resim
