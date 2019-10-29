@@ -48,6 +48,7 @@ https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ b
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz bahçeli evde yaşamanın keyfi
 https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardak gibi gözlük takan faşo
 https://www.uludagsozluk.com/k/yozgatl%C4%B1-erkek-tipsizli%C4%9Fi/&w=bg bkz trabzonlu erkek çekiciliği
+https://www.uludagsozluk.com/k/araba-da-e%C5%9F-mi-%C3%B6nde-oturmal%C4%B1-anne-mi/&w=bg bkz bagaja at gitsin tatava olmasın
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
