@@ -2,7 +2,7 @@
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz ersun yanal ın mevzu fenerbahçeyse gerisi teferruattır tweeti
-bkz kadir mısıroglunun taşşak geçmek için yaptığı fesli paylaşım
+bkz kadir mısıroglunun 29 ekimde taşşak geçmek için yaptığı fesli develi paylaşım
 bkz burak özçivitin beyaz şovda oynadığı zeybek
 bkz berat albayraktarın selçuk albayraktarı retweetlemesi
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/
