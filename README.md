@@ -4,7 +4,7 @@ bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
-bkz vuruşmalık tek elle direksiyon çeviren haşin erkek bulmanın zorlaşması
+bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
 bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
 https://www.uludagsozluk.com/k/toplu-ta%C5%9F%C4%B1mada-bacaklar%C4%B1n%C4%B1-a%C3%A7madan-oturan-erkek/&w=bg
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyip-ben-erke%C4%9Fim-diye-gezen-tip/ bkz erkek misin lan sen
