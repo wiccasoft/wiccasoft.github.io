@@ -3,7 +3,7 @@
 bkz kadir misirlounun 29 ekim provakasyonu
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şerefsiz oç
-bkz fatih tezcan analiz merkezini yunanistana taşımak
+bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
 https://www.uludagsozluk.com/e/42346033/ lol
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-rezalet-bir-yere-d%C3%B6n%C3%BC%C5%9Fmesi/ bkz evde zor tutulan yüzde elli
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatacağı versus
