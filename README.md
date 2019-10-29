@@ -2,7 +2,8 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
-bkz evde re ce tay yi er do van diye şarkı söylerken kapının çalması
+bkz evde re ce tay yi er do van diye şarkı söylerken kapının çalması osmanlının biz geldik demesi
+https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-geri-d%C3%B6nmesi/
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-dunkof-halis/ bkz ısırmaktan korkan ılık vampir
 https://eksisozluk.com/cukur-dizisi-58-bolum-catisma-sahnesi--5982063 bkz çatışmaktan korkan ılık erkek
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz vuruşmaktan korkan ılık erkek
