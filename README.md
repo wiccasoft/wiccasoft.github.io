@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/e/42337792/ lol
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/ lol
 https://www.uludagsozluk.com/k/murtaza-isimli-birinin-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olma-ihtimali/ lol
 https://www.uludagsozluk.com/k/g%C3%B6r%C3%BCnmez-adam-filmindeki-g%C3%B6r%C3%BCnmez-adam/ lol
+https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg lol
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
