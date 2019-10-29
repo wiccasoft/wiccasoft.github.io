@@ -1,6 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyy o halife olsan bariii 
-https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg aman aman yine öldürdüler pampa
+https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz kanadımı gırdılar anne
 https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/&w=bg bkz gmail reklamı
 https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz aman aman nereye geldim yine tüpe soktun kardeş
 https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg aman aman nereye geldim yine
