@@ -46,7 +46,7 @@ https://www.uludagsozluk.com/k/tiyatroculara-yahu-siz-kimsiniz-diyen-ba%C5%9Fbak
 https://www.uludagsozluk.com/k/bir-pesimistin-g%C3%B6zya%C5%9Flar%C4%B1/&w=bg bkz pasif erkek aktif erkek aşkı
 https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ bkz fena skiş döndüğü düşünülen yerler
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz bahçeli evde yaşamanın keyfi
-https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı murat
+https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardak gibi gözlük takan faşo
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
