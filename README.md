@@ -7,6 +7,7 @@ bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
 bkz demet evgarın evi gara çevirmesi
 bkz demet evgar dan iki yaş büyük 30 cm uzun olduğum gerçeği
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit/&w=bg bkz burak özçivitin beyaz şovda oynadığı zeybek
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rinna rina nay
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölen olmaması
 https://www.uludagsozluk.com/e/42346033/ lol
 https://www.uludagsozluk.com/k/kaz%C4%B1m-karabekir/&w=bg bkz 200.000 türkü sarkamışta öldüren kahraman
