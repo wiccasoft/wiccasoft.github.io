@@ -16,10 +16,6 @@ https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-dan-cem-y%C4%B1lmaza-29-ekim-dav
 bkz götün yiyosa güngörene gelsene diyen kemalist
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölen olmaması
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
-bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şerefsiz oç
-bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
-bkz demet evgarın evi gara çevirmesi
-bkz demet evgar dan iki yaş büyük 30 cm uzun olduğum gerçeği
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
