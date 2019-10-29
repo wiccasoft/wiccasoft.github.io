@@ -1,6 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
-bkz kadir misirlounun 29 ekim provakasyonu
+bkz misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/tost%C3%A7u-mahmut/&w=bg bkz tostçu erolun eline su dökemez
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
@@ -11,11 +11,6 @@ bkz akboylar dışında haçan kaçanı takip eden olmaması
 bkz haçan kaçanın yerim uzun adamın dedim dedim inanmadınız bak noldu şimdi tweeti
 https://folkan-iyesta-cicisler.uludagsozluk.com/ bkz haçan kaçan fanboy
 bkz yine seks hikayesi mi yazısun haçaan kaçan abüüüü 
-bkz dont make haçan kaçan make famous
-bkz haçan kaçanın trumpa küsüp uzun adamı seçmesi
-bkz haçan kaçanın yerinin uzun adamın yeri olması
-bkz uzun adamın haçan kaçanı işe alması
-bkz haçan kaçanın burhan kuzu olma yolunda hızla  ilerlemesi
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-dan-cem-y%C4%B1lmaza-29-ekim-daveti-tepkisi/ bkz haçan kaçan kim amk
 https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz götün yiyosa güngörene gelsene diyen kemalist
@@ -25,75 +20,6 @@ bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şe
 bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
 bkz demet evgarın evi gara çevirmesi
 bkz demet evgar dan iki yaş büyük 30 cm uzun olduğum gerçeği
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz asrın lideri osmanlı torunu
-https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
-https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-dan-cem-y%C4%B1lmaza-29-ekim-daveti-tepkisi/ bkz boru gibi döşemek
-https://www.uludagsozluk.com/k/emine-erdo%C4%9Fan-ve-dilek-imamo%C4%9Flu-nu-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmak/ bkz iki vasıfsız imamahatipli eşi
-https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz madonnanın katılması
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz bir topkeke sana bir recepsiyon bana
-https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit/&w=bg bkz burak özçivitin beyaz şovda oynadığı zeybek
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rinna rina nay
-https://www.uludagsozluk.com/e/42346033/ lol
-https://www.uludagsozluk.com/k/kaz%C4%B1m-karabekir/&w=bg bkz 200.000 türkü sarkamışta öldüren kahraman
-https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-rezalet-bir-yere-d%C3%B6n%C3%BC%C5%9Fmesi/ bkz evde zor tutulan yüzde elli
-https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatacağı versus
-https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg 
-bkz resepsiyon pilavlı içkisiz diye gitmemek
-https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz reception
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
-https://eksisozluk.com/fatih-terim--37577?a=popular bkz fatih terimin efso 29 ekim paylaşımı
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz soyunma odasında dönen beyin fırtınası
-https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ bkz fena skiş döndüğü düşünülen yerler
-https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-geri-d%C3%B6nmesi/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/2023-de-osmanl%C4%B1-n%C4%B1n-geri-gelecek-olmas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg bkz ceddin deden neslin baban
-https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatacağı versus
-https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
-bkz götün yiyosa gelsene güngörene
-https://www.uludagsozluk.com/k/hain-osmanl%C4%B1-geri-d%C3%B6necek-zanneden-%C5%9Fa%C5%9Fk%C4%B1nlar/&w=bg bkz lol
-https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz ganadımı gırdılar uçamadım anne
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/
-bkz ucunu taramalı bağlayalım taraya taraya  gitsin
-https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
-bkz götün yiyosa gelsen güngörene
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rinna rinan rinanay
-https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/&w=bg bkz gmail reklamı
-https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz yine tüpe soktun kardeş
-https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg bkz komiklikler şakalar
-https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır bu nedir yau adana merkes patlıyo herkes
-https://www.uludagsozluk.com/k/lanet-bir-dizi-var-%C3%A7ukur-diye/ bkz lol
-https://chaturbate.com/ bkz keşke yunan galip gelseymiş
-https://twitter.com/eysanlandin/status/1188397384474206208 bkz keşke pontus galip gelseymiş
-https://www.uludagsozluk.com/k/hain-osmanl%C4%B1-geri-d%C3%B6necek-zanneden-%C5%9Fa%C5%9Fk%C4%B1nlar/&w=bg lol
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rina rina rinanay
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg okumadım 
-https://www.uludagsozluk.com/k/g%C3%BCleyrum-haluna-katula-katula/&w=bg bkz karım olmadığı için siklemediğim durumlar
-https://www.uludagsozluk.com/k/31-a%C4%9Fustos-2019-falcao-nun-kap-a-bildirilmesi/&w=bg bkz kap ney lan
-https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/ lol
-https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1nda-veledin-sagopa-rap-yapm%C4%B1yor-demesi/ lol
-https://www.uludagsozluk.com/k/dr-fuchs-un-t%C3%BCrk%C3%A7e-rap-e-katk%C4%B1s%C4%B1/&w=bg lol
-https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
-https://www.uludagsozluk.com/k/fatih-terim-in-oyun-plan%C4%B1/&w=bg bkz türklerin geri kalma sebebi
-https://www.uludagsozluk.com/k/ahmet-kaya-vs-hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg lol
-https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz selanikli erkeğin alacağı versus
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih altaylı vs fatih terim vs  fatih sultan mehmet
-https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-29-ekim-resepsiyonuna-kat%C4%B1lmamas%C4%B1/&w=bg bkz reception
-https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-atat%C3%BCrk/&w=bg bkz türk önde türk ileri
-https://www.uludagsozluk.com/k/t%C3%BCrklerin-atas%C4%B1-recep-tayyip-erdo%C4%9Fan/ bkz gürcü değilmiydi lan o
-https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz beni niye çağırmadılar lan
-https://www.uludagsozluk.com/k/k%C3%BCrtten-sevgili-olur-mu/ bkz kürt lütfen
-https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz ahmet kayanın pkklı olduğu gerçeği
-https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz resepsiyona çağrılmadı diye diss atmak
-bkz ahmet kayanın pkklı olduğunu kabul edemeyip kafasına sıkan ülkücüler
-https://www.uludagsozluk.com/k/tiyatroculara-yahu-siz-kimsiniz-diyen-ba%C5%9Fbakan/&w=bg bkz ya kimsin ya sen
-https://www.uludagsozluk.com/k/bir-pesimistin-g%C3%B6zya%C5%9Flar%C4%B1/&w=bg bkz pasif erkek aktif erkek aşkı
-https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ bkz fena skiş döndüğü düşünülen yerler
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz bahçeli evde yaşamanın keyfi
-https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardak gibi gözlük takan faşo
-https://www.uludagsozluk.com/k/yozgatl%C4%B1-erkek-tipsizli%C4%9Fi/&w=bg bkz trabzonlu erkek çekiciliği
-https://www.uludagsozluk.com/k/araba-da-e%C5%9F-mi-%C3%B6nde-oturmal%C4%B1-anne-mi/&w=bg bkz bagaja at gitsin tatava olmasın
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
