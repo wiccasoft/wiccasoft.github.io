@@ -1,5 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
+bkz fatih tezcan analiz merkezini yunanistana taşımak
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz fatih terimin efso 29 ekim paylaşımı
