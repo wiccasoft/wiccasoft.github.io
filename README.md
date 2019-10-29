@@ -30,6 +30,8 @@ https://www.uludagsozluk.com/k/ahmet-kaya-vs-hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg lo
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz selanikli erkeğin alacağı versus
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih altaylı vs fatih terim vs  fatih sultan mehmet
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-29-ekim-resepsiyonuna-kat%C4%B1lmamas%C4%B1/&w=bg bkz reception
+https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-atat%C3%BCrk/&w=bg bkz türk önde türk ileri
+https://www.uludagsozluk.com/k/t%C3%BCrklerin-atas%C4%B1-recep-tayyip-erdo%C4%9Fan/ bkz gürcü değilmiydi lan o
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
