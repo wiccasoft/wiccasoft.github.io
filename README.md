@@ -2,6 +2,7 @@
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz zombination a 29 ekimde fes göndermek
+bkz burak özçivitin beyaz şovda oynadığı zeybek
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flunu-mezarda-b%C3%B6ceklerin-yemesi/
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
