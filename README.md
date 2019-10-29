@@ -25,6 +25,7 @@ https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B
 bkz ucunu taramalı bağlayalım taraya taraya  gitsin
 https://www.uludagsozluk.com/k/fatih-terim-in-oyun-plan%C4%B1/&w=bg bkz türklerin geri kalma sebebi
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan analiz merkezi kapatılsın kampanyası
+https://www.uludagsozluk.com/k/ahmet-kaya-vs-hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg lol
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
