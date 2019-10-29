@@ -1,6 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz ganadımı gırdılar uçamadım anne
+https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
+bkz götün yiyosa gelsen güngörene
 https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/&w=bg bkz gmail reklamı
 https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz yine tüpe soktun kardeş
 https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg bkz komiklikler şakalar
