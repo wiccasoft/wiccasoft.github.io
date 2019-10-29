@@ -2,7 +2,7 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyy o halife olsan bariii 
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz ganadımı gırdılar uçamadım anne
 https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/&w=bg bkz gmail reklamı
-https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz aman aman nereye geldim yine tüpe soktun kardeş
+https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz yine tüpe soktun kardeş
 https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg aman aman nereye geldim yine
 https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır bu nedir yau adana merkes patlıyo herkes
 https://chaturbate.com/ bkz çukur diye bi gay dizisi var iyi ki izlemiyorum
