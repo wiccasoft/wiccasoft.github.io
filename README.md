@@ -3,6 +3,7 @@
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz fatih terimin efso 29 ekim paylaşımı
+https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-geri-d%C3%B6nmesi/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/2023-de-osmanl%C4%B1-n%C4%B1n-geri-gelecek-olmas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg bkz ceddin deden neslin baban
@@ -35,13 +36,7 @@ https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1nda-veledin-sagopa-rap-yapm%C4%B1yor-demesi/ lol
 https://www.uludagsozluk.com/k/dr-fuchs-un-t%C3%BCrk%C3%A7e-rap-e-katk%C4%B1s%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
-https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
-bkz gelsene güngöreren götün yiyosa gelsene
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/
-bkz ucunu taramalı bağlayalım taraya taraya  gitsin
 https://www.uludagsozluk.com/k/fatih-terim-in-oyun-plan%C4%B1/&w=bg bkz türklerin geri kalma sebebi
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan analiz merkezi kapatılsın kampanyası
-bkz fathi tezcan ı unfollowluyoruz kampanyası
 https://www.uludagsozluk.com/k/ahmet-kaya-vs-hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg lol
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz selanikli erkeğin alacağı versus
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih altaylı vs fatih terim vs  fatih sultan mehmet
