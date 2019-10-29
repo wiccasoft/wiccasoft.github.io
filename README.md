@@ -5,7 +5,6 @@ https://www.uludagsozluk.com/k/tost%C3%A7u-mahmut/&w=bg bkz tostçu erolun eline
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz cmylmz ın haçan kaçan kim amk tweeti 
-bkz trump ın haçan kaçanı siklemediği gerçeği
 bkz siklenmedikçe havlayan çomar ısırmaz
 bkz haçan kaçan al oğlum kemik deyip kumda oyna lan demek
 bkz akboylar dışında haçan kaçanı takip eden olmaması
