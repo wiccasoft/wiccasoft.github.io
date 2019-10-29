@@ -2,6 +2,7 @@
 <!--
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
+bkz https://chaturbate.com a girince neden eşcinsel olduğunun anlayan ergenler
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
 bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
