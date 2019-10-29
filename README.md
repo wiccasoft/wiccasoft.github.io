@@ -11,7 +11,9 @@ https://twitter.com/eysanlandin/status/1188397384474206208 bkz keşke pontus gal
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg okumadım 
 https://www.uludagsozluk.com/k/g%C3%BCleyrum-haluna-katula-katula/&w=bg bkz karım olmadığı için siklemediğim durumlar
 https://www.uludagsozluk.com/k/31-a%C4%9Fustos-2019-falcao-nun-kap-a-bildirilmesi/&w=bg bkz kap ney lan
-https://www.uludagsozluk.com/k/%C3%A7ay-isteyen-m%C3%BC%C5%9Fteriye-%C3%A7ay-ne-ya-varo%C5%9F-diyen-garson/ bkz çay yok bok için
+https://www.uludagsozluk.com/k/%C3%A7ay-isteyen-m%C3%BC%C5%9Fteriye-%C3%A7ay-ne-ya-varo%C5%9F-diyen-garson/ bkz çay yok bok
+için
+https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
