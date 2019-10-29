@@ -1,6 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz kadir misirlounun 29 ekim provakasyonu
+https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
+bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölen olmaması
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şerefsiz oç
 bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
@@ -14,7 +16,6 @@ https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lma
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz bir topkeke sana bir recepsiyon bana
 https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit/&w=bg bkz burak özçivitin beyaz şovda oynadığı zeybek
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas%C4%B1/ bkz hayda rinna rina nay
-bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölen olmaması
 https://www.uludagsozluk.com/e/42346033/ lol
 https://www.uludagsozluk.com/k/kaz%C4%B1m-karabekir/&w=bg bkz 200.000 türkü sarkamışta öldüren kahraman
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-rezalet-bir-yere-d%C3%B6n%C3%BC%C5%9Fmesi/ bkz evde zor tutulan yüzde elli
