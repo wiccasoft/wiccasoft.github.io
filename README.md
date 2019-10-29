@@ -3,6 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
+bkz galatasarsaylı bir ibne bulup seks kölesi yapmak
 bkz galatasayarın açık noktasını bulmak bkz ibnelerin gavatların takımı
 bkz cinconluyu sabaha kadar skip saraçoğluna atmak üstüne 
 zencilere gangbang yaprtırmak sonra siktir git  muslera karı ol demek
