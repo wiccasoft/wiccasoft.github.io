@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz kadir misirlounun 29 ekim provakasyonu
+https://www.uludagsozluk.com/k/tost%C3%A7u-mahmut/&w=bg bkz tostçu erolun eline su dökemez
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz cmylmz ın haçan kaçan kim amk tweeti 
