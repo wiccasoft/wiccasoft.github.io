@@ -6,6 +6,7 @@ bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şe
 bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
 bkz demet evgarın evi gara çevirmesi
 bkz demet evgar dan iki yaş büyük 30 cm uzun olduğum gerçeği
+bkz 29 ekim güngörenede iki apartman arasında çıkan kavgada ölen olmaması
 https://www.uludagsozluk.com/e/42346033/ lol
 https://www.uludagsozluk.com/k/kaz%C4%B1m-karabekir/&w=bg bkz 200.000 türkü sarkamışta öldüren kahraman
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-rezalet-bir-yere-d%C3%B6n%C3%BC%C5%9Fmesi/ bkz evde zor tutulan yüzde elli
