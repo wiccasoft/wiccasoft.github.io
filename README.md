@@ -3,6 +3,8 @@
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz fatih terimin efso 29 ekim paylaşımı
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz soyunma odasında dönen beyin fırtınası
+https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ bkz fena skiş döndüğü düşünülen yerler
 https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-geri-d%C3%B6nmesi/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/2023-de-osmanl%C4%B1-n%C4%B1n-geri-gelecek-olmas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
@@ -10,8 +12,6 @@ https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/
 https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
 bkz götün yiyosa gelsene güngörene
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz soyunma odasında dönen beyin fırtınası
-https://www.uludagsozluk.com/k/melo-ile-belhanda-y%C4%B1-bir-odaya-kilitlemek/ bkz fena skiş döndüğü düşünülen yerler
 https://www.uludagsozluk.com/k/hain-osmanl%C4%B1-geri-d%C3%B6necek-zanneden-%C5%9Fa%C5%9Fk%C4%B1nlar/&w=bg bkz lol
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz ganadımı gırdılar uçamadım anne
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/
