@@ -5,6 +5,7 @@ bkz sahan kaçanın süleyman çakır moduna bağlaması
 bkz cem yılmazın madem öyle işte böyle tweeti
 bkz miley cyrusun abisinin satanik olması
 bkz cem yılmazın yaran tweeti
+https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için sinirli olması
 bkz cem yılmazın trumpla bi daha görüşmeyceğim açıklması
 bkz cem yılmazın resepsiyonda kırmızı halıyı beğenmemesi
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-29-ekim-resepsiyonuna-kat%C4%B1lmamas%C4%B1/&w=bg
