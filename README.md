@@ -1,5 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyy o halife olsan bariii 
+https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır dinlenir bu yau
 https://chaturbate.com/ çukur diye bi gay dizisi var iyi ki izlemiyorum
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
