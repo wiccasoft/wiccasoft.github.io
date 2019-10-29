@@ -2,7 +2,7 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyy o halife olsan bariii 
 https://www.uludagsozluk.com/k/bir-g%C3%BCzellik-yap-adl%C4%B1-klipteki-subliminal-mesaj/&w=bg bkz gmail reklamı
 https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz aman aman nereye geldim yine yine tüpe soktun kardeş
-https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır dinlenir bu yau
+https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır dinlenir bu yau adana merkes patlıyo herkes
 https://chaturbate.com/ çukur diye bi gay dizisi var iyi ki izlemiyorum
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
