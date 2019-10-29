@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin 
 https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz cmylmz ın haçan kaçan kim amk tweeti 
-bkz siklenmedikçe havlayan çomar ısırmaz
+bkz siklenmedikçe havlayan haçan çomar ısırmaz
 bkz haçan kaçana al oğlum kemik deyip kumda oyna lan demek
 bkz akboylar dışında haçan kaçanı takip eden olmaması
 bkz haçan kaçanın yerim uzun adamın dedim dedim inanmadınız bak noldu şimdi tweeti
