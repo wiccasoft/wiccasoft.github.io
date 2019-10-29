@@ -2,13 +2,14 @@
 <!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy
 https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz fatih terim
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz olm bunları kim okuyacak lan 5 milyon entry var asdsadas
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz kılıçtara yine boru gibi döşeyen beka reis
 https://www.uludagsozluk.com/k/enes-batur/&w=bg bkz enes abi anamı sik
 https://www.uludagsozluk.com/k/zeki-demirkubuz/&w=bg bkz aynı eve çıkılmalık yönetmen
 https://www.uludagsozluk.com/k/namaz-k%C4%B1lan-erkek/&w=bg bkz namaz kelimesi kuran da geçmez evlenme boşuna
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz fatih terim
+
 https://chaturbate.com/ neler dönmüş serhat ya burhan kuzuya söyleyin blocklasın bunları aile giriyo internete
 -->
 
