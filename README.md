@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/k/g%C3%BCleyrum-haluna-katula-katula/&w=bg bkz kar�
 https://www.uludagsozluk.com/k/31-a%C4%9Fustos-2019-falcao-nun-kap-a-bildirilmesi/&w=bg bkz kap ney lan
 https://www.uludagsozluk.com/k/%C3%A7ay-isteyen-m%C3%BC%C5%9Fteriye-%C3%A7ay-ne-ya-varo%C5%9F-diyen-garson/ bkz çay yok bok
 için
+https://www.uludagsozluk.com/k/rafet-el-roman-a-l%C3%BCtfen-m%C3%BCzi%C4%9Fi-b%C4%B1rak-bebe%C4%9Fim-demek/&w=bg bkz bebiş
 https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
 -->
 
