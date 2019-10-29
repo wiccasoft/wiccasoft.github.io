@@ -4,12 +4,9 @@ bkz kuzenim doodle yapmış pampa
 bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi
-bkz fatih tezcan ın analiz merkezini basıp fatih tezcanı eşşek sudan gelinceye kadar dövmek
 bkz siz giderken ben dönüyordumun anglosaksoncası
 bkz resistance is futile ın türkçesi https://www.youtube.com/watch?v=Dm6sSQ-UhJg
 bkz beşiktaşlı olmak şereftir bkz merve taşkın 
-bkz halil söyletmeze yaslan be halil söyletmez we will rock you söyletmek
-https://www.uludagsozluk.com/k/lionel-messi/&w=bg bkz vergi kaçıran arjantinli kısa boylu bi de yakışıklı değil
 https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-29-ekim-resepsiyonuna-kat%C4%B1lmas%C4%B1/ bkz tiplere gel
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/ bkz sikse vermez misin pampa
 https://www.uludagsozluk.com/k/we-will-rock-you-nun-t%C3%BCrk%C3%A7esi/ bkz geez us
