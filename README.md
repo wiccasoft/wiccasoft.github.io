@@ -3,6 +3,7 @@
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
+https://eksisozluk.com/hagi-mi-alex-mi--2110033 
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
 https://www.uludagsozluk.com/k/gheorghe-hagi-nin-athletic-bilbao-ya-att%C4%B1%C4%9F%C4%B1-gol/&w=bg lol
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
