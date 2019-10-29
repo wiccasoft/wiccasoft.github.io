@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/k/ismail-yk-t%C4%B1kla/ bkz yine tüpe soktun karde
 https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg bkz komiklikler şakalar
 https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır bu nedir yau adana merkes patlıyo herkes
 https://www.uludagsozluk.com/k/lanet-bir-dizi-var-%C3%A7ukur-diye/ bkz lol
-https://chaturbate.com/ bkz çukur diye bi gay dizisi var iyi ki izlemiyorum
+https://chaturbate.com/ bkz keşke yunan galip gelseymiş
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
 -->
