@@ -38,6 +38,7 @@ https://www.uludagsozluk.com/k/konya-da-transseks%C3%BCel-bireyin-k%C4%B1z-ka%C3
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz rizeli erkeğin alacağı versus
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz ahmet kayanın pkklı olduğu gerçeği
 https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz resepsiyona çağrılmadı diye diss atmak
+bkz ahmet kayanın pkklı olduğunu kabul edemeyip kafasına sıkan ülkücüler
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
