@@ -3,7 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
-bkz cinconluların ortalık orospusu olması
+bkz cinconluların ortalık orospusu olması bkz cinconluları sikerken dikkat edilecek hususlar
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz cinconluları hopur hopur hoplatıp zencilere siktirmek
 bkz cinconluların göt deliklerine fener yazılan mekan
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-%C5%9F%C3%BCkr%C3%BC-sara%C3%A7o%C4%9Flu-stad%C4%B1/&w=gd 
