@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/lanet-bir-dizi-var-%C3%A7ukur-diye/ bkz lol
 https://chaturbate.com/ bkz keşke yunan galip gelseymiş
 ADAMSIN QUARESMA
 https://www.youtube.com/watch?v=oUcWp-Vg55Q
-https://twitter.com/eysanlandin/status/1188397384474206208 lol
+https://twitter.com/eysanlandin/status/1188397384474206208 bkz keşke pontus galip gelseymiş
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
