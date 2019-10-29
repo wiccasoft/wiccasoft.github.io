@@ -7,7 +7,7 @@ bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
 bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
 bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
 bkz bana gökhan çıranın babasını ayarla diyen ulucu velet
-lan veletler sikilmek istiyorsanız adres vereyim
+lan veletler sikilmek istiyorsanız adres vereyim duvardan duvara sikerim haberiniz olsun
 bkz 40 yaşından sonra ergen homoları siklememek https://www.uludagsozluk.com/e/42346745/
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
