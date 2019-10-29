@@ -1,7 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
-https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-g%C3%BCzeller-g%C3%BCzeli-dilek-imamo%C4%9Flu/ bkz iokumadım pampa henüz kimsenin karıs değilim çünkü
+https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-g%C3%BCzeller-g%C3%BCzeli-dilek-imamo%C4%9Flu/ bkz okumadım pampa 
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
 https://eksisozluk.com/ibbnin-eminonu-balikcilarina-kapiyi-gostermesi--6229428?a=popular neler dönmüş haçan ya
 https://www.uludagsozluk.com/k/tost%C3%A7u-mahmut/&w=bg bkz tostçu erolun eline su dökemez
