@@ -3,6 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
+https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz cinconluçarı hopur hopur hoplatan yiğido
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-%C5%9F%C3%BCkr%C3%BC-sara%C3%A7o%C4%9Flu-stad%C4%B1/&w=gd bkz cincolu hoplatınlan mekan
 bkz cinconluların fenerli yiğidolarla  gömüşmekten korkması https://www.youtube.com/watch?v=6YUw7_q33Zs
 https://www.uludagsozluk.com/k/lahmacun-g%C3%B6mmek/&w=bg bkz lahmacun gömdükten sonra aykuta gömmek 
