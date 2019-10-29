@@ -3,6 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
+https://www.uludagsozluk.com/e/42346579/ bkz fatih terimin aykuta diz çök yarramı yala demesi
 bkz aykut kocamanı bulup seni kocam yapacağım olm demek
 https://www.youtube.com/watch?v=TJsJmX3iQkY bkz aykut kocamanın ılık götlülük yapması
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd bkz ahmet çakar ın ayykut kocamana götüne çakarım demesi
