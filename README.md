@@ -2,8 +2,6 @@
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun yaptığı fesli develi paylaşım
-bkz burak özçivitin beyaz şovda oynadığı zeybek
-bkz berat albayraktarın selçuk albayraktarı retweetlemesi
 bkz ersun yanal ın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
