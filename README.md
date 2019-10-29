@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/%C3%A7ay-isteyen-m%C3%BC%C5%9Fteriye-%C3%A7ay-ne-
 için
 https://www.uludagsozluk.com/k/rafet-el-roman-a-l%C3%BCtfen-m%C3%BCzi%C4%9Fi-b%C4%B1rak-bebe%C4%9Fim-demek/&w=bg bkz bebiş
 https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/ lol
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1nda-veledin-sagopa-rap-yapm%C4%B1yor-demesi/ lol
 https://www.uludagsozluk.com/k/dr-fuchs-un-t%C3%BCrk%C3%A7e-rap-e-katk%C4%B1s%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
