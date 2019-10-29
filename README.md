@@ -4,20 +4,8 @@ bkz kuzenim doodle yapmış pampa
 bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi 
-bkz siz giderken ben dönüyordumun anglosaksoncası  https://www.uludagsozluk.com/e/42348637/ 
-bkz resistance is futile ın türkçesi https://www.youtube.com/watch?v=Dm6sSQ-UhJg
-bkz beşiktaşlı olmak şereftir bkz merve taşkın 
-https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-29-ekim-resepsiyonuna-kat%C4%B1lmas%C4%B1/ bkz tiplere gel
-https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/ bkz sikse vermez misin pampa
-https://www.uludagsozluk.com/k/we-will-rock-you-nun-t%C3%BCrk%C3%A7esi/ bkz geez us
-https://www.uludagsozluk.com/k/na-na-hey-hey-kiss-him-goodbye/&w=bg lol
-https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz ekremin altına yatacak kadar midesiz olmak
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
-https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/ lol
-https://www.uludagsozluk.com/k/murtaza-isimli-birinin-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olma-ihtimali/ lol
-https://www.uludagsozluk.com/k/g%C3%B6r%C3%BCnmez-adam-filmindeki-g%C3%B6r%C3%BCnmez-adam/ lol
-https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg lol
-https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz alfa erkek
+bkz siz giderken ben dönüyordumun anglosaksoncası 
+bkz resistance is futile ın türkçesi 
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
