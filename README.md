@@ -3,10 +3,10 @@
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
+bkz akboylar dışında haçan kaçanı takip eden olmaması
 bkz yine seks hikayesi mi yazısun haçaan kaçan abüüüü :))))))))))))
 bkz dont make haçan kaçan make famous
 bkz haçan kaçanın yerim uzun adamın dedim dedim inanmadınız bak noldu şimdi tweeti
-bkz akboylar dışında haçan kaçanı takip eden olmaması
 bkz haçan kaçanın trumpa verdiği ayar
 bkz haçan kaçanın saksı değilim ben tweeti
 bkz haçan kaçanın yerinin uzun adamın yeri olması
