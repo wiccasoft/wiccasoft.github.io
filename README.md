@@ -4,7 +4,7 @@ bkz misirlounun 29 ekim provakasyonu
 bkz demokrat olduğum için kamalcıları siklemiyorum
 bkz imamoğlanın imam hatipler kapatılsın tweeti
 https://www.uludagsozluk.com/k/29-ekim-2019-mansur-yava%C5%9F-%C4%B1n-g%C3%B6k%C3%A7ek-e-jesti/ abov neler dönmüş ya
-bkz güngören de bodrum katında re ce tay yi er do van re ce tay yi er do van diye şarkı söylemek
+bkz güngören de bodrum katında re ce tay yi er do van re ce tay yi er do van diye şarkı söylerken abov
 https://www.uludagsozluk.com/k/gazi-mare%C5%9Fal-recep-tayyip-erdo%C4%9Fan/&w=bg bkz re ce tay yi er do van 
 https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-g%C3%BCzeller-g%C3%BCzeli-dilek-imamo%C4%9Flu/ bkz okumadım pampa 
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
