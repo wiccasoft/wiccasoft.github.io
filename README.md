@@ -1,7 +1,5 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii
-bkz  canlarının fenerli yarrağı çekmesi
-https://www.uludagsozluk.com/k/galatasaray-l%C4%B1lar%C4%B1n-agrasif-olmas%C4%B1n%C4%B1n-nedeni/ 
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
@@ -9,7 +7,8 @@ bkz fatih terimi soyunma odasında sıkıştırıp ganganbang yapmak
 bkz cinconlu bulup döve döve skip seks kölesi yapmanın çok kolay olduğu gerçeği
 bkz galatasayarın açık noktasını bulmak bkz ibnelerin gavatların takımı
 bkz cinconluyu sabaha kadar skip saraçoğluna atmak üstüne 
-
+bkz  anlarının fenerli yarrağı çekmesi
+https://www.uludagsozluk.com/k/galatasaray-l%C4%B1lar%C4%B1n-agrasif-olmas%C4%B1n%C4%B1n-nedeni/ 
 https://www.uludagsozluk.com/k/telefonu-kurcalarken-yap%C4%B1labilen-%C5%9Feyler/ bkz direksiyonu tek elle çevirmek
 zencilere gangbang yaprtırmak sonra siktir git  muslera karı ol demek
 bkz cinconluların ortalık orospusu olması bkz cinconluları sikerken dikkat edilecek hususlar
