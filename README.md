@@ -3,7 +3,7 @@
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
-bkz tek vasfı araban ve telefon kullanmak olan malum ırk
+bkz tek vasfı araba ve telefon kullanmak olan malum ırk (zombienation)
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg 
 https://www.uludagsozluk.com/k/telefonu-kurcalarken-yap%C4%B1labilen-%C5%9Feyler/ bkz direksiyonu tek elle çevirmek
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ko%C3%A7-holding-i-iflas-ettirmesi/ bkz hayallerde yaşıyor..
