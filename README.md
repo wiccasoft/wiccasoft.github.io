@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lma
 https://www.uludagsozluk.com/k/k%C3%BCrtten-sevgili-olur-mu/ bkz kürt lütfen
 https://www.uludagsozluk.com/k/konya-da-transseks%C3%BCel-bireyin-k%C4%B1z-ka%C3%A7%C4%B1rma-giri%C5%9Fimi/ bkz neler dönmüş serhat ya
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz rizeli erkeğin alacağı versus
+https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz ahmet kayanın pkklı olduğu gerçeği
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
