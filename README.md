@@ -1,14 +1,5 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy
-https://www.youtube.com/watch?v=jlMXq2mSvlk lol
-ADAMSIN QUARESMA
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz fatih terim
-https://eksisozluk.com/fatih-terim--37577?a=popular bkz olm bunları kim okuyacak lan 55 milyon entry var asdsadas
-https://chaturbate.com/ neler dönmüş serhat ya
-https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi-a%C4%9Flayarak-%C3%B6ld%C3%BC/&w=bg bkz yav he he
-https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz yav he he
-https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-ve-el-kaide-yi-abd-ile-ingiltere-kurdu/&w=bg bkz yav he he
--->
+<!---->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
