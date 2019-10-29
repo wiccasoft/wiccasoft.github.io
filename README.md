@@ -2,7 +2,6 @@
 <!--
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
-bkz https://chaturbate.com a girince neden eşcinsel olduğunu anlayan ergenler
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
 bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
@@ -11,6 +10,7 @@ bkz selin ciğercinin erkek halinin ulucu ergenlere benzediği gerçeği
 bkz ulucu ergenlerin niye cinsiyet değiştirmemesi babalarının mı kızması sorunsalı
 bkz direksiyona kolunu sokup nasıl soktum ama diyen erkek
 bkz sok bana sokamaz mısın sen nasıl delikanlısın diyen ergen
+bkz https://chaturbate.com a girince neden eşcinsel olduğunu anlayan ergenler
 https://www.uludagsozluk.com/e/42347517/ bkz göbüşü öpülüp şapşik komik değil ki yaaa denmeli hadi lan yapsana
 https://www.uludagsozluk.com/k/uzak-durulmas%C4%B1-gereken-insanlar/&w=bg bkz iki eliyle bir siki doğrultmayan ergenler
 https://www.uludagsozluk.com/k/2050-y%C4%B1l%C4%B1na-not-b%C4%B1rak/&w=bg bkz iki eliyle bir siki doğrultmayan erkek
