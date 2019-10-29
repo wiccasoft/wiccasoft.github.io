@@ -6,6 +6,7 @@ bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi
 bkz anlat pampa dinliyorum sonra nolmuş bıyıklı adamanın ingilizcesi
 bkz siz giderken ben dönüyordumun anglosaksoncası
+bkz resistence is futile ın türkçesi
 https://www.uludagsozluk.com/k/we-will-rock-you-nun-t%C3%BCrk%C3%A7esi/ bkz geez us
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz ekremin altına yatacak kadar midesiz olmak
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
