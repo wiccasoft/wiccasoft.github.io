@@ -2,6 +2,7 @@
 <!--efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyyyyyy
 https://www.youtube.com/watch?v=jlMXq2mSvlk lol
 ADAMSIN QUARESMA
+https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış gardaş
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-geli%C5%9Fmemesinin-en-%C3%B6nemli-sebepleri/&w=bg bkz fatih terim
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz olm bunları kim okuyacak lan 55 milyon entry var asdsadas
 https://chaturbate.com/ neler dönmüş serhat ya burhan kuzuya söyleyin blocklasın bunları aile giriyo internete
