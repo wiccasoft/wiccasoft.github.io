@@ -3,7 +3,6 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
-bkz tükiyenin barzo homo cenneti haline gelmesi
 https://www.youtube.com/watch?v=TJsJmX3iQkY bkz aykut kocamanın ılık götlülük yapması
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd bkz ahmet çakar ın ayykut kocamana götüne çakarım demesi
 bkz kısa amını açta sikem diyen erkek vs amına koyam dur az diyen erkek
