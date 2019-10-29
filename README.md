@@ -27,6 +27,7 @@ https://www.uludagsozluk.com/k/fatih-terim-in-oyun-plan%C4%B1/&w=bg bkz türkler
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan analiz merkezi kapatılsın kampanyası
 bkz fathi tezcan ı unfollowluyoruz kampanyası
 https://www.uludagsozluk.com/k/ahmet-kaya-vs-hakan-%C5%9F%C3%BCk%C3%BCr/&w=bg lol
+https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz selanikli erkeğin alacağı versu
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
