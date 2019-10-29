@@ -3,6 +3,7 @@
 bkz kuzenim doodle yapmış pampa
 bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
+https://www.uludagsozluk.com/k/we-will-rock-you-nun-t%C3%BCrk%C3%A7esi/ bkz geezz us
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz ekremin altına yatacak kadar midesiz olmak
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/ lol
