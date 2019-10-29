@@ -10,6 +10,7 @@ bkz selin ciğercinin erkek halinin ulucu ergenlere benzediği gerçeği
 bkz ulucu ergenlerin niye cinsiyet değiştirmemesi babalarının mı kızması sorunsalı
 bkz direksiyona kolunu sokup nasıl soktum ama diyen erkek
 bkz sok bana sokamaz mısın sen nasıl delikanlısın diyen ergen
+https://www.uludagsozluk.com/e/42344517/ bkz lol
 bkz https://chaturbate.com a girince neden eşcinsel olduğunu anlayan ergenler bkz coğrafya kaderdir
 https://www.uludagsozluk.com/e/42347517/ bkz göbüşü öpülüp şapşik komik değil ki yaaa denmeli hadi lan yapsana
 https://www.uludagsozluk.com/k/uzak-durulmas%C4%B1-gereken-insanlar/&w=bg bkz iki eliyle bir siki doğrultmayan ergenler
