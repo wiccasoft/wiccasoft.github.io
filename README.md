@@ -3,6 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz re  ce tay yi er do van ın diya neti fesh etmesi
+bkz recepo tayyipo erdovanın isveç bankalarındaki trilyonları 
 https://www.uludagsozluk.com/k/gazi-mare%C5%9Fal-recep-tayyip-erdo%C4%9Fan/&w=bg bkz re ce tay yi er do gan
 bkz evde re ce tay yi er do van diye şarkı söylerken kapının çalması osmanlının biz geldik demesi vergi istiyok demesi
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-geri-d%C3%B6nmesi/
