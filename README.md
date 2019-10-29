@@ -3,7 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
-bkz kısa amını açta sikem diyen erkek
+bkz kısa amını açta sikem diyen erkek vs amına koyam dur az diyen erke
 https://www.uludagsozluk.com/k/ev-bo%C5%9F-diyen-k%C4%B1za-kap%C4%B1n%C4%B1-iyi-kitle-diyen-erkek/&w=bg 
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz ılık götlüğ erkektir
 https://eksisozluk.com/29-ekim-2019-hasan-kacanin-cem-yilmaz-tweeti--6229832?a=popular
