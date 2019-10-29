@@ -3,6 +3,7 @@
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
+https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ko%C3%A7-holding-i-iflas-ettirmesi/ bkz hayallerde yaşıyor..
 https://www.uludagsozluk.com/k/galatasaray-l%C4%B1lar%C4%B1n-agrasif-olmas%C4%B1n%C4%B1n-nedeni/ bkz malumm sorun
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu/&w=bg bkz ekremin altına yatacak kadar midesiz olmak
 https://eksisozluk.com/cukur-dizisi-58-bolum-catisma-sahnesi--5982063 bkz ekşiye doluşan barzo eşcinseller
