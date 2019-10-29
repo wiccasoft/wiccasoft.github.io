@@ -2,47 +2,7 @@
 <!--
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
-bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
-bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
-bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
-bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
-bkz selin ciğercinin erkek halinin ulucu ergenlere benzediği gerçeği
-bkz ulucu ergenlerin niye cinsiyet değiştirmemesi babalarının mı kızması sorunsalı
-bkz direksiyona kolunu sokup nasıl soktum ama diyen erkek
-bkz sok bana sokamaz mısın sen nasıl delikanlısın diyen ergen
-https://www.uludagsozluk.com/k/biri-bizi-g%C3%B6zetliyor-s%C3%B6zl%C3%BCk/ bkz big brother watchin you 
-https://tenete.uludagsozluk.com/ bkz lol
-https://www.uludagsozluk.com/e/42337792/ bkz lol
-https://www.uludagsozluk.com/e/42344517/ bkz lol
-bkz https://chaturbate.com a girince neden eşcinsel olduğunu anlayan ergenler bkz coğrafya kaderdir
-https://www.uludagsozluk.com/e/42347517/ bkz göbüşü öpülüp şapşik komik değil ki yaaa denmeli hadi lan yapsana
-https://www.uludagsozluk.com/k/uzak-durulmas%C4%B1-gereken-insanlar/&w=bg bkz iki eliyle bir siki doğrultmayan ergenler
-https://www.uludagsozluk.com/k/2050-y%C4%B1l%C4%B1na-not-b%C4%B1rak/&w=bg bkz iki eliyle bir siki doğrultmayan erkek
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-2020-ye-girecek-olmam%C4%B1z/&w=bg bkz dikkat et o sana girmesin
-https://www.uludagsozluk.com/k/kedi-besleyen-erkeklerde-hafif-%C4%B1l%C4%B1kl%C4%B1k-olmas%C4%B1/ bkz hybi
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/toplu-ta%C5%9F%C4%B1mada-bacaklar%C4%B1n%C4%B1-a%C3%A7madan-oturan-erkek/&w=bg
-https://www.uludagsozluk.com/k/sigara-i%C3%A7meyip-ben-erke%C4%9Fim-diye-gezen-tip/ bkz hybi
-https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz hybi
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz direksiyonu iki eliyle kullanan ılık
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-konyal%C4%B1-olmas%C4%B1/ bkz selin ciğerci nin babası
-https://www.uludagsozluk.com/k/sinan-albayrak/&w=bg bkz sinin albayrak kim amk
-bkz zombilerdeki adam misin lan sen vur lan vur duvardan duvara vur bana tarzı agresif tavırların sebebi
-https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatcağı versus
-bkz tek vasfı araba ve telefon kullanmak olan malum ırk (bkz zombienation)
-https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg 
-https://www.uludagsozluk.com/k/telefonu-kurcalarken-yap%C4%B1labilen-%C5%9Feyler/ bkz direksiyonu tek elle çevirmek
-https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ko%C3%A7-holding-i-iflas-ettirmesi/ bkz hayallerde yaşıyor..
-https://www.uludagsozluk.com/k/galatasaray-l%C4%B1lar%C4%B1n-agrasif-olmas%C4%B1n%C4%B1n-nedeni/ bkz malumm sorun
-https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu/&w=bg bkz ekremin altına yatacak kadar midesiz olmak
-https://eksisozluk.com/cukur-dizisi-58-bolum-catisma-sahnesi--5982063 bkz ekşiye doluşan barzo eşcinseller
-bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
-https://www.uludagsozluk.com/k/ku%C5%9Fum-%C3%B6tm%C3%BCyor-ne-yapmal%C4%B1y%C4%B1m/3/ bkz lol
-https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
-https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için agresif olması
-https://www.uludagsozluk.com/k/sigara-i%C3%A7meyip-ben-erke%C4%9Fim-diye-gezen-tip/ lol
-https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg bkz lol
+bkz https://chaturbate.com  bkz coğrafya kaderdir
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
