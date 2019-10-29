@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz kadir misirlounun 29 ekim provakasyonu
+https://www.uludagsozluk.com/e/42346033/ lol
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şerefsiz oç
 bkz fatih tezcan analiz merkezini yunanistana taşımak
