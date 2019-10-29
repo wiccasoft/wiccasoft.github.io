@@ -2,6 +2,7 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
+https://www.uludagsozluk.com/k/gazi-mare%C5%9Fal-recep-tayyip-erdo%C4%9Fan/&w=bg bkz re ce tay yi er do gan
 bkz evde re ce tay yi er do van diye şarkı söylerken kapının çalması osmanlının biz geldik demesi
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-geri-d%C3%B6nmesi/
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-dunkof-halis/ bkz ısırmaktan korkan ılık vampir
