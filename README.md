@@ -1,5 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
+https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
+bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/hain-osmanl%C4%B1-geri-d%C3%B6necek-zanneden-%C5%9Fa%C5%9Fk%C4%B1nlar/&w=bg bkz lol
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz ganadımı gırdılar uçamadım anne
 bkz kadir misirlounun 29 ekim provakasyonu
