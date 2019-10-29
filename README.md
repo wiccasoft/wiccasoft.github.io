@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii
 bkz misirlounun 29 ekim provakasyonu
+bkz sahan kaçanın süleyman çakır moduna bağlaması
 bkz cem yılmazın madem öyle işte böyle tweeti
 bkz miley cyrusun abisinin satanik olması
 bkz cem yılmazın yaran tweeti
