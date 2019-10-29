@@ -2,6 +2,7 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
 bkz demokrat olduğum için kamalcıları siklemiyorum
+bkz re ce tay yi er do van re ce tay yi er do van diye şarkı söylemek
 https://www.uludagsozluk.com/k/gazi-mare%C5%9Fal-recep-tayyip-erdo%C4%9Fan/&w=bg bkz re ce tay yi er do van 
 https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-g%C3%BCzeller-g%C3%BCzeli-dilek-imamo%C4%9Flu/ bkz okumadım pampa 
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
