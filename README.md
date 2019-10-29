@@ -3,10 +3,7 @@
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
-bkz beyler ben sizin oymağa bağlı değilim macun kaplıcalı yada imamaoğlanın karısı da değilim gayet sağlıklı hetero 41 yaşında bir erkeğim
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz ben değilim
 https://www.uludagsozluk.com/k/galatasaray-l%C4%B1lar%C4%B1n-agrasif-olmas%C4%B1n%C4%B1n-nedeni/ bkz malumsorun
-https://eksisozluk.com/hagi-mi-alex-mi--2110033 
 https://www.uludagsozluk.com/k/dilek-imamo%C4%9Flu/&w=bg bkz ekremin altına yatacak kadar midesiz olmak
 https://eksisozluk.com/cukur-dizisi-58-bolum-catisma-sahnesi--5982063
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
@@ -14,7 +11,7 @@ https://www.uludagsozluk.com/k/gheorghe-hagi-nin-athletic-bilbao-ya-att%C4%B1%C4
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
 https://www.uludagsozluk.com/k/ku%C5%9Fum-%C3%B6tm%C3%BCyor-ne-yapmal%C4%B1y%C4%B1m/3/ bkz lol
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
-https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için sinirli olması
+https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için agresif olması
 https://www.uludagsozluk.com/k/sigara-i%C3%A7meyip-ben-erke%C4%9Fim-diye-gezen-tip/ lol
 https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg bkz lol
 -->
