@@ -8,6 +8,7 @@ https://eksisozluk.com/kel-sisman-kisa-cirkin-sirti-killi-muhendis-erkek--623007
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz coğrafya kaderdir
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/  bkz coğrafya kaderdir
 https://eksisozluk.com/yesil-gozlu-erkek--4059287?a=popular bkz coğrafya kaderdir
+https://eksisozluk.com/reddedildikten-sonra-whatsapptan-engelleyen-erkek--4846477?a=popular bkz coğrafya kaderdir
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
