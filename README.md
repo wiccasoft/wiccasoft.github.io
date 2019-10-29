@@ -24,7 +24,7 @@ bkz gelsene güngöreren götün yiyosa gelsene
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/
 bkz ucunu taramalı bağlayalım taraya taraya  gitsin
 https://www.uludagsozluk.com/k/fatih-terim-in-oyun-plan%C4%B1/&w=bg bkz türklerin geri kalma sebebi
-https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih terimin yeğeni
+https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz fatih tezcan analiz merkezi kapatılsın kampanyası
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
