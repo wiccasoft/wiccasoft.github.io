@@ -5,6 +5,7 @@ bkz beyler buralar karışır vaziyet alıyorum
 bkz re  ce tay yi er do van ın diya neti fesh etmesi
 bkz recepo tayyipo erdovanonın isveç bankalarındaki trilyonları
 bkz bir cocstar sana bir saray bana
+https://www.uludagsozluk.com/e/42346515/ neler dönmüş yahu
 https://www.uludagsozluk.com/k/galaktik-turan-hayaliyle-banyoda-kendine-dokunmak/ neler dönmüş yahu
 https://www.uludagsozluk.com/k/coco-star-isimli-%C3%A7ikolatan%C4%B1n-%C3%A7ok-g%C3%BCzel-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-%C5%9F%C3%BCkr%C3%BC-sara%C3%A7o%C4%9Flu-stad%C4%B1/&w=bg bkz neler dönmüş
