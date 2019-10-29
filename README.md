@@ -1,5 +1,5 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!-- 
+<!--
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanal ın mevzu fenerbahçeyse gerisi teferruattır tweeti
@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-de
 https://www.uludagsozluk.com/k/ku%C5%9Fum-%C3%B6tm%C3%BCyor-ne-yapmal%C4%B1y%C4%B1m/3/ bkz lol
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için sinirli olması
+https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg bkz lol
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
