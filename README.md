@@ -42,6 +42,7 @@ bkz ahmet kayanın pkklı olduğunu kabul edemeyip kafasına sıkan ülkücüler
 https://www.uludagsozluk.com/k/fatih-tezcan/&w=bg bkz unfluyoruz beyler
 https://www.uludagsozluk.com/k/demet-akal%C4%B1n-%C4%B1n-anla%C5%9F%C4%B1lamayan-ilgin%C3%A7-diyalo%C4%9Fu/ unfla gitsin
 bkz trabzonlu erkek diyarbakırlı erkek aşkı
+https://www.uludagsozluk.com/k/tiyatroculara-yahu-siz-kimsiniz-diyen-ba%C5%9Fbakan/&w=bg bkz ya kimsin ya sen
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
