@@ -1,7 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
-bkz türklere 29 ekimde fes göndermek
+bkz zombination a 29 ekimde fes göndermek
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/atat%C3%BCrke-benzeyen-adamlar/ bkz açmayın korkunçlu resim
