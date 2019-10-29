@@ -3,7 +3,7 @@
 bkz fatih tezcan analiz merkezini yunanistana taşımak
 bkz kadir misirlounun 29 ekim provakasyonu
 bkz 29 ekim resepesiyonun çağrılmamış olmam
-bkz demetevgar dan iki yaş büyük olmam
+bkz demetevgar dan iki yaş büyük 30 cm uzun olmam
 https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz reception
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
 https://eksisozluk.com/fatih-terim--37577?a=popular bkz fatih terimin efso 29 ekim paylaşımı
