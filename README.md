@@ -34,6 +34,7 @@ https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-t%C3%BCrk-atat%C3%BCrk/&w=bg b
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-atas%C4%B1-recep-tayyip-erdo%C4%9Fan/ bkz gürcü değilmiydi lan o
 https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz beni niye çağırmadılar lan
 https://www.uludagsozluk.com/k/k%C3%BCrtten-sevgili-olur-mu/ bkz kürt lütfen
+https://www.uludagsozluk.com/k/konya-da-transseks%C3%BCel-bireyin-k%C4%B1z-ka%C3%A7%C4%B1rma-giri%C5%9Fimi/ bkz neler dönmüş serhat ya
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
