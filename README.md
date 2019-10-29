@@ -2,6 +2,8 @@
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
+https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
+bkz götün yiyosa gelsene güngörene
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
