@@ -3,6 +3,7 @@
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
+bkz cmylmz ın haçan kaçan kim amk tweeti 
 bkz akboylar dışında haçan kaçanı takip eden olmaması
 https://folkan-iyesta-cicisler.uludagsozluk.com/ bkz haçan kaçan fanboy
 bkz yine seks hikayesi mi yazısun haçaan kaçan abüüüü :))))))))))))
