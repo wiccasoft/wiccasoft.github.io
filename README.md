@@ -3,7 +3,7 @@
 bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
-bkz beyler ben sizin oymağa bağlı değilim 
+bkz beyler ben sizin oymağa bağlı değilim macun kaplıcalı yada imamaoğlanın karısı da değilim gayet sağlıklı bir erkeğim
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz ben değilim
 https://www.uludagsozluk.com/k/galatasaray-l%C4%B1lar%C4%B1n-agrasif-olmas%C4%B1n%C4%B1n-nedeni/ bkz malumsorun
 https://eksisozluk.com/hagi-mi-alex-mi--2110033 
