@@ -4,7 +4,7 @@ bkz kuzenim doodle yapmış pampa
 bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi
-bkz anlat pampa dinliyorum sonra nolmuş bıyıklı erkeğe nin ingilizcesi
+bkz anlat pampa dinliyorum sonra nolmuş bıyıklı adamanın ingilizcesi
 bkz siz giderken ben dönüyordumun anglosaksoncası
 https://www.uludagsozluk.com/k/we-will-rock-you-nun-t%C3%BCrk%C3%A7esi/ bkz geez us
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz ekremin altına yatacak kadar midesiz olmak
