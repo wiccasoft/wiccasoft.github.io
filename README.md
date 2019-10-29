@@ -4,7 +4,7 @@ bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
-bkz zombilerideki erkek emme takıntısı
+bkz zombilerdeki erkek emme takıntısı
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatcağı versus
 bkz tek vasfı araba ve telefon kullanmak olan malum ırk (bkz zombienation)
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg 
