@@ -6,6 +6,7 @@ bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
 bkz yine seks hikayesi mi yazısun haçaan kaçan abüüüü :))))))))))))
 bkz dont make haçan kaçan make famous
 bkz haçan kaçanın trumpa verdiği ayar
+bkz haçan kaçanın saksı değilim ben tweeti
 bkz haçan kaçanın yerinin uzun adamın yeri olması
 bkz uzun adamın haçan kaçanı işe alması
 bkz haçan kaçanın burhan kuzu olma yolunda hızla  ilerlemesi
