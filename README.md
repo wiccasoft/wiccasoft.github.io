@@ -3,6 +3,7 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
+bkz cinconluların fenerli yiğidolarla  gömüşmekten korkması
 https://www.uludagsozluk.com/k/lahmacun-g%C3%B6mmek/&w=bg bkz lahmacun gömdükten sonra aykuta gömmek 
 https://www.uludagsozluk.com/e/42346579/ bkz fatih terimin aykuta diz çök yarramı yala demesi
 bkz türkiyenin tam bir homo cehennemine dönüşmesini izlemek
