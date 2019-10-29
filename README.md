@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
+https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
