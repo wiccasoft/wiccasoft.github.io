@@ -7,6 +7,7 @@ bkz bahaneleri alayım'ın ingilizcesi
 bkz siz giderken ben dönüyordumun anglosaksoncası
 bkz resistance is futile ın türkçesi
 bkz beşiktaşlı olmak şereftir bkz merve taşkın
+https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/ bkz sik dese sikmem o derece pampa
 https://www.uludagsozluk.com/k/we-will-rock-you-nun-t%C3%BCrk%C3%A7esi/ bkz geez us
 https://www.uludagsozluk.com/k/na-na-hey-hey-kiss-him-goodbye/&w=bg lol
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz ekremin altına yatacak kadar midesiz olmak
