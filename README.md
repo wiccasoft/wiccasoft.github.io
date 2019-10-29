@@ -20,6 +20,7 @@ https://www.uludagsozluk.com/k/dr-fuchs-un-t%C3%BCrk%C3%A7e-rap-e-katk%C4%B1s%C4
 https://www.uludagsozluk.com/k/falcao-nun-patlama-yapaca%C4%9F%C4%B1-ma%C3%A7/ bkz suratıma patla facao
 https://www.uludagsozluk.com/k/ingiliz-gemisiyle-g%C3%B6t%C3%BCn-g%C3%B6t%C3%BCn-ka%C3%A7an-islam-halifesi/&w=bg
 bkz gelsene güngöreren götün yiyosa gelsene
+https://www.uludagsozluk.com/k/fatih-terim-in-oyun-plan%C4%B1/&w=bg bkz türklerin geri kalma sebebi
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
