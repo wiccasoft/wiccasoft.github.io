@@ -3,6 +3,7 @@
 bkz kadir misirlounun 29 ekim provakasyonu
 https://www.uludagsozluk.com/k/orta-do%C4%9Fu/&w=bg bkz komik bi yer evet yiyin birbirinizi
 bkz ortadoğudan kurtulunca rahat rahat kaka yapmak
+bkz haçan kaçanın kendini nimetten sayması
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-dan-cem-y%C4%B1lmaza-29-ekim-daveti-tepkisi/ bkz haçan kaçan kim amk
 https://www.uludagsozluk.com/k/aleyna-tilkinin-bile-kaka-yapt%C4%B1%C4%9Fi-ger%C3%A7e%C4%9Fi/ 
 bkz götün yiyosa güngörene gelsene diyen kemalist
