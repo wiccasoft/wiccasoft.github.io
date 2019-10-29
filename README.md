@@ -4,6 +4,7 @@ bkz google ın 29 ekim provakasyonu: kuzenim doodle yapmış pampa
 bkz kadir mısıroglunun 29 ekim yaptığı fesli develi paylaşım
 bkz ersun yanal ın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölü ve yaralı olmamaması
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-cemil-ipek%C3%A7i-ye-ibne-demesi/&w=bg lol
 https://www.uludagsozluk.com/k/ku%C5%9Fum-%C3%B6tm%C3%BCyor-ne-yapmal%C4%B1y%C4%B1m/3/ bkz lol
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için sinirli olması
