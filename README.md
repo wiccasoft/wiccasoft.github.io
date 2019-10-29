@@ -4,6 +4,7 @@ bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
 bkz tükiyenin barzo homo cenneti haline gelmesi
+https://www.uludagsozluk.com/k/aykut-kocaman/&w=gd bkz sevişmek istenen teknik direktör
 bkz kısa amını açta sikem diyen erkek vs amına koyam dur az diyen erkek
 https://www.uludagsozluk.com/k/ev-bo%C5%9F-diyen-k%C4%B1za-kap%C4%B1n%C4%B1-iyi-kitle-diyen-erkek/&w=bg 
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz ılık götlüğ erkektir
