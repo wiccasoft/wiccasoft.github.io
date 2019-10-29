@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-dan-cem-y%C4%B1lmaza-29-ekim-dav
 bkz götün yiyosa güngörene gelsene diyen kemalist
 bkz 29 ekim güngörende iki apartman arasında çıkan kavgada ölen olmaması
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
+https://www.uludagsozluk.com/k/falcao-metrob%C3%BCs-%C5%9F%C3%B6f%C3%B6r%C3%BC-olsa-olacaklar/ lol
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
