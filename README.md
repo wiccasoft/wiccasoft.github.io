@@ -6,6 +6,7 @@ bkz ersun yanalın mevzu fenerbahçeyse gerisi teferruattır tweeti
 bkz zombilerin suratlarındaki yedi ceddim sikildi ifadesi
 bkz vuruşmalık tek elle direksiyon çeviren erkek bulmanın zorlaşması
 bkz la bize her yer ankara klibinde verilmek istenen subliminal mesaj
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-2020-ye-girecek-olmam%C4%B1z/&w=bg dikkat sana girmesin
 https://www.uludagsozluk.com/k/kedi-besleyen-erkeklerde-hafif-%C4%B1l%C4%B1kl%C4%B1k-olmas%C4%B1/ bkz hybi
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/toplu-ta%C5%9F%C4%B1mada-bacaklar%C4%B1n%C4%B1-a%C3%A7madan-oturan-erkek/&w=bg
