@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii
 bkz misirlounun 29 ekim provakasyonu
+bkz götten fenerli yarrağı yiğince sinir yapan cinconlu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
 bkz fatih terimi soyunma odasında sıkıştırıp ganganbang yapmak
