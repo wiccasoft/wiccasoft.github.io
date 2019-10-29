@@ -2,6 +2,7 @@
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
+https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular
 bkz re  ce tay yi er do van ın diya neti fesh etmesi
 bkz recepo tayyipo erdovanonın isveç bankalarındaki trilyonları
 bkz bir cocstar sana bir saray bana
