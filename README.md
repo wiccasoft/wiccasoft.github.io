@@ -5,6 +5,7 @@ bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://eksisozluk.com/kel-sisman-kisa-cirkin-sirti-killi-muhendis-erkek--6230078?a=popular bkz coğrafya kaderdir
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz coğrafya kaderdir
+https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/  bkz coğrafya kaderdir
 https://eksisozluk.com/yesil-gozlu-erkek--4059287?a=popular bkz coğrafya kaderdir
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz coğrafya kaderdir
 -->
