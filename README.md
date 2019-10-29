@@ -3,8 +3,8 @@
 bkz kuzenim doodle yapmış pampa
 bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
-bkz bahaneleri alayım'ın ingilizcesi
-bkz siz giderken ben dönüyordumun anglosaksoncası
+bkz bahaneleri alayım'ın ingilizcesi 
+bkz siz giderken ben dönüyordumun anglosaksoncası  https://www.uludagsozluk.com/e/42348637/ 
 bkz resistance is futile ın türkçesi https://www.youtube.com/watch?v=Dm6sSQ-UhJg
 bkz beşiktaşlı olmak şereftir bkz merve taşkın 
 https://www.uludagsozluk.com/k/halil-s%C3%B6yletmez-in-29-ekim-resepsiyonuna-kat%C4%B1lmas%C4%B1/ bkz tiplere gel
