@@ -1,8 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddyyyyyyyy o halife olsan bariii 
 bkz misirlounun 29 ekim provakasyonu
-bkz demokrat olduğum için kamalcıları siklemiyorum
-bkz imamoğlanın imam hatipler kapatılsın tweeti
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz evde re ce tay yi er do van diye şarkı söylerken kapının çalması
 https://www.uludagsozluk.com/k/bizimkiler-dizisi-dunkof-halis/ bkz ısırmaktan korkan ılık vampir
