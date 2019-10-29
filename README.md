@@ -1,5 +1,8 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyy o halife olsan bariii -->
+<!-- efendiler yarın hilafeti ilan edeceğiz are youuu readddddddddyyyyyyyy o halife olsan bariii 
+ADAMSIN QUARESMA
+https://www.youtube.com/watch?v=oUcWp-Vg55Q
+-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son --
