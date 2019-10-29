@@ -7,8 +7,6 @@ https://www.uludagsozluk.com/k/ahmet-goethe-%C3%A7akar/&w=bg bkz komiklikler şa
 https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz son ses bangır bangır bu nedir yau adana merkes patlıyo herkes
 https://www.uludagsozluk.com/k/lanet-bir-dizi-var-%C3%A7ukur-diye/ bkz lol
 https://chaturbate.com/ bkz keşke yunan galip gelseymiş
-ADAMSIN QUARESMA
-https://www.youtube.com/watch?v=oUcWp-Vg55Q
 https://twitter.com/eysanlandin/status/1188397384474206208 bkz keşke pontus galip gelseymiş
 -->
 
