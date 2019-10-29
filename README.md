@@ -1,6 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- 
 bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
+bkz cuhmuriyet bayramında kavga edecek erkek bulamamak
 https://www.uludagsozluk.com/k/atat%C3%BCrke-benzeyen-adamlar/ bkz açmayın korkunçlu resim
 https://www.uludagsozluk.com/e/42346745/ bkz yeni neslin çükünün kalkmadığı için sinirli olması
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz götün yiyosa gelsene güngörene
