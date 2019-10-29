@@ -8,6 +8,7 @@ https://chaturbate.com/ neler dönmüş serhat ya burhan kuzuya söyleyin blockl
 https://www.uludagsozluk.com/k/yusuf-g%C3%BCney/&w=bg bkz melekler seni bana yazmış gardaş 
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi-a%C4%9Flayarak-%C3%B6ld%C3%BC/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/ebubekir-el-ba%C4%9Fdadi/&w=bg bkz yav he he
+https://www.uludagsozluk.com/k/%C4%B1%C5%9Fid-ve-el-kaide-yi-abd-ile-ingiltere-kurdu/&w=bg bkz yav he he
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
