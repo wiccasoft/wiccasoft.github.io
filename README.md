@@ -10,6 +10,7 @@ https://chaturbate.com/ bkz keşke yunan galip gelseymiş
 https://twitter.com/eysanlandin/status/1188397384474206208 bkz keşke pontus galip gelseymiş
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg okumadım 
 https://www.uludagsozluk.com/k/g%C3%BCleyrum-haluna-katula-katula/&w=bg bkz karım olmadığı için siklemediğim durumlar
+https://www.uludagsozluk.com/k/31-a%C4%9Fustos-2019-falcao-nun-kap-a-bildirilmesi/&w=bg bkz kap ney lan
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
