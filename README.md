@@ -18,9 +18,6 @@ https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%A7%C3%BClerin-hala-zeybek-oynamas
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/&w=bg okumadım 
 https://www.uludagsozluk.com/k/g%C3%BCleyrum-haluna-katula-katula/&w=bg bkz karım olmadığı için siklemediğim durumlar
 https://www.uludagsozluk.com/k/31-a%C4%9Fustos-2019-falcao-nun-kap-a-bildirilmesi/&w=bg bkz kap ney lan
-https://www.uludagsozluk.com/k/%C3%A7ay-isteyen-m%C3%BC%C5%9Fteriye-%C3%A7ay-ne-ya-varo%C5%9F-diyen-garson/ bkz çay yok bok
-için
-https://www.uludagsozluk.com/k/rafet-el-roman-a-l%C3%BCtfen-m%C3%BCzi%C4%9Fi-b%C4%B1rak-bebe%C4%9Fim-demek/&w=bg bkz bebiş
 https://www.uludagsozluk.com/k/milli-bayramlarda-bayrak-asmak/&w=bg lol
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar-%C4%B1n-29-ekim-bayram%C4%B1-payla%C5%9F%C4%B1m%C4%B1/ lol
 https://www.uludagsozluk.com/k/19-ya%C5%9F%C4%B1nda-veledin-sagopa-rap-yapm%C4%B1yor-demesi/ lol
