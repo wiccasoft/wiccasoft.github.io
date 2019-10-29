@@ -5,11 +5,11 @@ bkz google ın 29 ekim provakasyonu kuzenim doodle yapmış pampa
 bkz ecdad kimdi bilemezdin sebepsiz laf uzatma türke baban kimdi bilemezdin şerefsiz oç
 bkz fatih tezcan analiz merkezini yunanistana taşımak bkz bourne identity
 bkz demet evgarın evi gara çevirmesi
+bkz demet evgar dan iki yaş büyük 30 cm uzun olduğum gerçeği
 https://www.uludagsozluk.com/e/42346033/ lol
 https://www.uludagsozluk.com/k/t%C3%BCrkiyenin-rezalet-bir-yere-d%C3%B6n%C3%BC%C5%9Fmesi/ bkz evde zor tutulan yüzde elli
 https://www.uludagsozluk.com/k/trabzonlu-erkek-vs-diyarbak%C4%B1rl%C4%B1-erkek/ bkz adıyamanlı erkeğin hoplatacağı versus
 https://www.uludagsozluk.com/k/osmanl%C4%B1y%C4%B1-ecdad-kabul-eden-dangalak/&w=bg 
-bkz demetevgar dan iki yaş büyük 30 cm uzun olduğum için recepsiyona çağrılmamış olmam
 bkz resepsiyon pilavlı içkisiz diye gitmemek
 https://www.uludagsozluk.com/k/demet-evgar-%C4%B1n-29-ekim-davetine-kat%C4%B1lmamas%C4%B1/ bkz reception
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz 29 ekim efso soyunma odası konuşması
