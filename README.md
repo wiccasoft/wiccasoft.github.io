@@ -3,8 +3,8 @@
 bkz misirlounun 29 ekim provakasyonu
 bkz beyler buralar karışır vaziyet alıyorum 
 bkz amınönünde kavga etmeyen erkek
-bkz cinconluyu sabah kadar skip saraçoğluna atmak
-bkz cinconluların zenci yarrağı yemekten folloş olmalaır
+bkz cinconluyu sabaha kadar skip saraçoğluna atmak üstüne 
+zencilere gangbang yaprtırmak sonra siktir git  muslera karı ol demek
 bkz cinconluların ortalık orospusu olması bkz cinconluları sikerken dikkat edilecek hususlar
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz cinconluları hopur hopur hoplatıp zencilere siktirmek
 bkz cinconluların göt deliklerine fener yazılan mekan
