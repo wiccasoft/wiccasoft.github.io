@@ -4,6 +4,7 @@ bkz misirlounun 29 ekim provakasyonu
 bkz demokrat olduğum için kamalcıları siklemiyorum
 bkz imamoğlanın imam hatipler kapatılsın tweeti
 bkz beyler buralar karışır vaziyet alıyorum 
+https://eksisozluk.com/cukur-dizisi-58-bolum-catisma-sahnesi--5982063 bkz çatışmaktan korkan ılık erkek
 https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz vuruşmaktan korkan ılık erkek
 https://www.uludagsozluk.com/k/29-ekim-2019-mansur-yava%C5%9F-%C4%B1n-g%C3%B6k%C3%A7ek-e-jesti/ abov neler dönmüş ya
 bkz güngören de bodrum katında re ce tay yi er do van re ce tay yi er do van diye şarkı söylerken abov
