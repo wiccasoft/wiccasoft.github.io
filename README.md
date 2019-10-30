@@ -1,8 +1,6 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--
-bkz kuzenim doodle yapmış pampa
-bkz 29 ekim camelın yaptığı fesli develi paylaşım
-bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
+bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 https://eksisozluk.com/30-ekim-2019-devlet-bahcelinin-hadsiz-aciklamasi--6230980?a=popular bkz okumadım vaktim yoktu
 bkz https://chaturbate.com  bkz coğrafya kaderdir
