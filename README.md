@@ -3,6 +3,7 @@
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 https://www.uludagsozluk.com/k/ismail-saymaz/&w=bg bkz vurduracak yer aramak
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-fingirdek-k%C4%B1z%C4%B1/&w=gd bkz sürtük of traveler
 https://www.uludagsozluk.com/k/2009-do%C4%9Fumlu-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/&w=bg bkz serkan is mygirl
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ bkz tabisi abisi 
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/ bkz vurduruyordum
