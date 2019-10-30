@@ -7,14 +7,6 @@ https://www.uludagsozluk.com/e/153307/  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi 
 bkz siz giderken ben dönüyordumun anglosaksoncası 
 bkz resistance is futile ın türkçesi 
-bkz fatih terim in ingilizcesi
-bkz fatih tezcan ne iş yapıyor sorunsalı
-bkz fatih tezcan ın mesleğinin ne olduğunu hala çözememek 
-bkz social influencerların ağır gerizekalı oldukları gerçeği
-bkz fatih tezcanın anasının amı tweeti
-bkz türklerin twittera kazandırdığı para
-bkz 10 milyon takipçili türk ünlüler abovvv yunanistan nüfusu lan
-bkz türk ünlülerin ulusa sesleniş yapar gibi tweetleri
 bkz taylor swiftin uzun adam düşkünlüğü https://bit.ly/36eVfde
 bkz taylor swift in yerim uzun adamın yeridir tweeti
 bkz uzun adamın hiç tweet atmaması sorunsalı
