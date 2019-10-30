@@ -11,7 +11,7 @@ bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz fatih tezcan ın mesleğinin ne olduğunu hala çözememek 
 bkz social influencerların ağır gerizekalı oldukları gerçeği
 bkz fatih tezcanın  bileme ne tweeti
-bkz anasının amını bilemem ne tweeti
+bkz yok anasının amının bilmem ne tweeti
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
