@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz instagramda kızlara  yürüyen velet
 https://eksisozluk.com/fakirlerin-ortak-ozellikleri--4209801?a=popular bkz futbol ve siyaset merkezli yaşamaları
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular bkz search AFx8ElwfMBQ
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz mahalle teyzesine benzediği için ciddiye alamadığım inşaatçı
