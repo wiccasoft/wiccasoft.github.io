@@ -14,6 +14,7 @@ bkz fatih tezcanın anasının amı tweeti
 bkz türklerin twittera kazandırdığı para
 bkz 10 milyon takipçili türk ünlüler abovvv yunanistan nüfusu lan
 bkz sadece cem yılmazın takipçilerinin yunanistan nüfusu kadar olması asdasdadad
+bkz türk ünlülerin ulusa sesleniş yapar gibi tweetleri
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
