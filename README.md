@@ -3,6 +3,7 @@
 bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
+https://www.uludagsozluk.com/k/sevgilisinin-ayl%C4%B1k-tinder-%C4%B1n%C4%B1-yenileyen-erkek/ bkz karı flört te mi etmesin
 https://www.uludagsozluk.com/k/fatih-tezcan-yaln%C4%B1z-de%C4%9Fildir/ bkz fatih tezcanı kansızlara yedirmeyiz
 https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-vermesi_1862475.jpg lol
 bkz https://chaturbate.com  bkz coğrafya kaderdir
