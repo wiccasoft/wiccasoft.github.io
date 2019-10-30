@@ -15,6 +15,7 @@ bkz türklerin twittera kazandırdığı para
 bkz 10 milyon takipçili türk ünlüler abovvv güzel ülkem yunanistan nüfusu lan
 bkz türk ünlülerin ulusa sesleniş yapar gibi tweetleri
 bkz taylor swift in yerim uzun adamın yeri tweeti
+bkz uzun adamın hiç tweet atmaması sorunsalı
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
