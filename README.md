@@ -2,14 +2,13 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
-https://www.uludagsozluk.com/k/ye%C5%9Fil-g%C3%B6zl%C3%BC-atletik-v%C3%BCcutlu-sar%C4%B1%C5%9F%C4%B1n-doktor/ bkz seni alacam kız o barzolara bırakmam
 https://www.uludagsozluk.com/k/ismail-saymaz/&w=bg bkz vurduracak yer aramak
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ bkz tabisi abisi vurdurmak için bahane arıyor
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/ bkz vurduruyordum
 https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
 https://www.uludagsozluk.com/e/42351901/ bkz üstteki barzoya asılan kız
-https://www.uludagsozluk.com/k/traveler-of-secret-moments/&w=gd bkz bütün sözlükçülere boncuk dağıtan kız
+https://www.uludagsozluk.com/k/traveler-of-secret-moments/&w=gd bkz bütün sözlükçülere boncuk dağıtan orospu ruhlu aşüfte
 https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz üniversiteye girdiğim yıl doğan veledizina hala yürüyo velet
 https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-96-model-arabayla-gelen-erkek/&w=bg bkz 96 yılında ne yapıyordum
