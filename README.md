@@ -10,7 +10,7 @@ bkz fatih terim in ingilizcesi
 bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz fatih tezcan ın mesleğinin ne olduğunu hala çözememek 
 bkz social influencerların ağır gerizekalı oldukları gerçeği
-bkz fatih tezcanın anasının amıtweeti
+bkz fatih tezcanın anasının amı tweeti
 bkz demet akalının fatih tezcan ney ya tweeti
 -->
 
