@@ -3,6 +3,7 @@
 bkz kuzenim doodle yapmış pampa
 bkz camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
+bkz 30 ekim erkekleri şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/e/153307/  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi 
 bkz resistance is futile ın türkçesi 
