@@ -5,6 +5,7 @@ bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-vermesi_1862475.jpg lol
 bkz https://chaturbate.com  bkz coğrafya kaderdir
+https://66.media.tumblr.com/a604ecf30ad78594a9a06936057aae38/tumblr_o4dy5yQAEh1ujmvy2o1_500.jpg lol
 https://galeri13.uludagsozluk.com/654/gunun-karikaturu_1439435.jpg lol
 bkz şeyma subaşının fındık kadar götüyle türkiyenin yüzdedoksandokuzundan iyi yaşaması
 bkz pole dance kursuna yollayacak karı dahi bulamamak
