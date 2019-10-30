@@ -5,6 +5,7 @@ bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-vermesi_1862475.jpg lol
 bkz https://chaturbate.com  bkz coğrafya kaderdir
+https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ bkz verse sikmez misin pampa
 https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol
 https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
