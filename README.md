@@ -6,6 +6,7 @@ bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz şeyma subaşının fındık kadar götüyle türkiyenin yüzdedoksandokuzundan iyi yaşaması
 bkz pole dance kursuna yollayacak karı dahi bulamamak
+bkz karıyı boşayıp italyanlarla pompa yap diye nafaka verecek karı dahi bulamamak
 bkz yine bi gün am üstünde ceviz kırıyorum pozu
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/&w=gd solda iyi mi pampa
 https://www.uludagsozluk.com/k/galatasaray-stad%C4%B1n%C4%B1n-muhte%C5%9Fem-konumu/
