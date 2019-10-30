@@ -3,6 +3,7 @@
 bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
+bkz Vertex - Astral Travel (Original Mix) dinlerken akla gelen muhteşem fikirler
 https://eksisozluk.com/30-ekim-2019-devlet-bahcelinin-hadsiz-aciklamasi--6230980?a=popular bkz okumadım vaktim yoktu
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://galeri14.uludagsozluk.com/887/umut-sarikaya_1780833_m.jpg lol
