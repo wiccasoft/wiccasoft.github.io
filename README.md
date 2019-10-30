@@ -7,7 +7,7 @@ https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-ver
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://www.uludagsozluk.com/k/roberto-carlos-un-sivasta-ya%C5%9Fad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/bi-siktir-git-dedirten-k%C3%BCrt%C3%A7%C3%BC-z%C4%B1rvalar%C4%B1/&w=bg yav he he
-https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ bkz verse sikmez misin pampa
+https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ bkz verseler sikmez misin pampa
 https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol
 https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
