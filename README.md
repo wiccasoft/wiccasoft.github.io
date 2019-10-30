@@ -12,6 +12,7 @@ bkz fatih tezcan ın mesleğinin ne olduğunu hala çözememek
 bkz social influencerların ağır gerizekalı oldukları gerçeği
 bkz fatih tezcanın anasının amı tweeti
 bkz türklerin twittera kazandırdığı para
+bkz 10 milyon takipçili ünlüler abovvv yunanistan nüfusu lan
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
