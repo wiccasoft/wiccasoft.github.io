@@ -4,6 +4,7 @@ bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 bkz https://chaturbate.com  bkz coğrafya kaderdir
+https://www.uludagsozluk.com/k/herkesin-i%C3%A7inde-k%C3%BCrt%C3%A7e-konu%C5%9Fan-k%C3%BCrt/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
 https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne deyeeeeee ne mutlu müminim diyene
