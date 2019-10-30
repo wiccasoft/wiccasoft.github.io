@@ -8,6 +8,7 @@ bkz siz giderken ben dönüyordumun anglosaksoncası
 bkz resistance is futile ın türkçesi 
 bkz fatih terim in ingilizcesi
 bkz fatih tezcan ne iş yapıyor sorunsalı
+bkz fatih tezxcan ın mesleğinin ne olduğunu hala çözememek
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
