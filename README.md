@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-tom-hardy-benzerli%C4%9Fi/ bkz lol
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular&p=5 bkz anlatma lan heyecanı kalmadı
 back to 2023 https://www.youtube.com/watch?v=fE5OUx2qzqY&list=PLqtKSosRRdgEO-r60_pPKHLKyQH3RBd3A&index=7&t=0s
 https://www.uludagsozluk.com/k/ismail-saymaz/&w=bg bkz vurduracak yer aramak
