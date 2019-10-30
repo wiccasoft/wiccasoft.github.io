@@ -14,7 +14,7 @@ bkz fatih tezcanın anasının amı tweeti
 bkz türklerin twittera kazandırdığı para
 bkz 10 milyon takipçili türk ünlüler abovvv yunanistan nüfusu lan
 bkz türk ünlülerin ulusa sesleniş yapar gibi tweetleri
-bkz taylor swiftin uzun adam düşkünlüğü
+bkz taylor swiftin uzun adam düşkünlüğü https://www.google.com.tr/search?sxsrf=ACYBGNTkcFBAvLxtVoE5uhwlSY01RGC0cA%3A1572409516060&ei=rBC5XfqhA8T3qwH2prSgBQ&q=taylor+swift+beach&oq=taylor+swift+beach&gs_l=psy-ab.3..0l10.1567.2494..3178...0.0..0.460.1712.0j2j1j2j1......0....1..gws-wiz.......35i39j0i67j0i203j0i20i263._gX9Xx-YXfU&ved=0ahUKEwj6p5X1kcPlAhXE-yoKHXYTDVQQ4dUDCAs&uact=5
 bkz taylor swift in yerim uzun adamın yeridir tweeti
 bkz uzun adamın hiç tweet atmaması sorunsalı
 -->
