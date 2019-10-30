@@ -14,7 +14,7 @@ bkz fatih tezcanın anasının amı tweeti
 bkz türklerin twittera kazandırdığı para
 bkz 10 milyon takipçili türk ünlüler abovvv güzel ülkem yunanistan nüfusu lan
 bkz türk ünlülerin ulusa sesleniş yapar gibi tweetleri
-https://eksisozluk.com/kavga-etmekten-korkan-erkek--3116105?a=popular bkz tweeter kullanmayan erkek
+bkz taylor swift in yerim uzun adamın yeri tweeti
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
