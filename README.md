@@ -6,7 +6,7 @@ bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://galeri14.uludagsozluk.com/887/umut-sarikaya_1780833_m.jpg lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbMsuQKB0vKnDG1OBN9lDtS1mxuJeBE5iAbSVfYDsQNJysptkX lol
-https://www.uludagsozluk.com/k/herkesin-i%C3%A7inde-k%C3%BCrt%C3%A7e-konu%C5%9Fan-k%C3%BCrt/&w=bg bkz yav he he
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsrM7cS4eAJcevcmoU3J6x9fq1YYTjV-fk9HZORo6OKsLyUsds lol
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
 bkz rte nin yaptığı aşırtma gol https://www.youtube.com/watch?v=aVxJzVjCWVc
