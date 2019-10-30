@@ -6,7 +6,7 @@ bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi 
 bkz siz giderken ben dönüyordumun anglosaksoncası 
 bkz resistance is futile ın türkçesi 
-bkz fatih tezcan ın ingilizcesi
+bkz fatih terim in ingilizcesi
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
