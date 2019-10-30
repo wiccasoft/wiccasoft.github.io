@@ -7,6 +7,7 @@ bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://www.uludagsozluk.com/k/herkesin-i%C3%A7inde-k%C3%BCrt%C3%A7e-konu%C5%9Fan-k%C3%BCrt/&w=bg bkz yav he he
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
+bkz rte nin yaptığı aşırtma gol https://www.youtube.com/watch?v=aVxJzVjCWVc
 https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne deyeeeeee ne mutlu müminim diyene
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
 https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz arch linux a geç raat et lisans ne lan
