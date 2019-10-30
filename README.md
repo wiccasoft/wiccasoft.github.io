@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
 https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz üniversiteye girdiğim yıl doğan veledizina hala yürüyo velet
 https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-96-model-arabayla-gelen-erkek/&w=bg bkz 96 yılında ne yapıyordum
