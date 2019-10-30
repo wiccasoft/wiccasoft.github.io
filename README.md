@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
 https://www.uludagsozluk.com/e/42351901/ bkz üstteki barzoya asılan kız
 https://www.uludagsozluk.com/k/traveler-of-secret-moments/&w=gd bkz bütün sözlükçülere boncuk dağıtan kız
