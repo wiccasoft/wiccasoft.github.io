@@ -6,6 +6,7 @@ bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e
 https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-vermesi_1862475.jpg lol
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol
 https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
 https://66.media.tumblr.com/a604ecf30ad78594a9a06936057aae38/tumblr_o4dy5yQAEh1ujmvy2o1_500.jpg lol
 https://galeri13.uludagsozluk.com/654/gunun-karikaturu_1439435.jpg lol
