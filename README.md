@@ -5,7 +5,7 @@ bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne deyeeeeee
-https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz ılık
+https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz ılık erkek
 https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ napsınlar flört te mi etmesinler
 https://www.uludagsozluk.com/k/yunan-%C4%B1-sava%C5%9Fta-yenip-teselya-ve-girit-i-vermek/&w=bg bkz kamalcı kişilik bklğ
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-fatih-tezcan/ bkz kamalcıları kudurtan padawan
