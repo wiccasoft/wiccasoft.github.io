@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/galatasaray-stad%C4%B1n%C4%B1n-muhte%C5%9Fem-konu
 bkz futbolcular karı kız sikerken mal mal bakan antilop sürüsü
 bkz fakirlikten 10 senedir karı dahi sikememek
 bkz komşuya gidip fazla karı kız var mı diye sormak
+bkz türk kızlarını yabancı futbolcuların siktiği gerçeği başka açıklaması olamaz
 https://www.uludagsozluk.com/e/153307/  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi 
 bkz resistance is futile ın türkçesi 
