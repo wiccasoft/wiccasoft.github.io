@@ -3,6 +3,7 @@
 bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
+https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-vermesi_1862475.jpg lol
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz şeyma subaşının fındık kadar götüyle türkiyenin yüzdedoksandokuzundan iyi yaşaması
 bkz pole dance kursuna yollayacak karı dahi bulamamak
