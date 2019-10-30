@@ -1,7 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--
 bkz kuzenim doodle yapmış pampa
-bkz 29 ekim camelın yaptığı fesli develi paylaşım
+bkz 29 ekim camelın yaptığı fesli develi edepsiz paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 bkz yine bi gün am üstünde ceviz kırıyorum pozu
