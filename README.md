@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakı�
 https://www.uludagsozluk.com/e/42351901/ bkz üstteki barzoya asılan kız
 https://www.uludagsozluk.com/k/traveler-of-secret-moments/&w=gd bkz bütün sözlükçülere boncuk dağıtan orospu ruhlu aşüfte
 https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
+https://giant.gfycat.com/FrailPortlyAngelwingmussel.webm
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-96-model-arabayla-gelen-erkek/&w=bg bkz 96 yılında ne yapıyordum
 https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz kaplumbağaya benzediği için dinlemediğim kürt
 https://www.uludagsozluk.com/k/sarayda-lisanss%C4%B1z-windows-kullan%C4%B1lmas%C4%B1/ bkz bir linux bana bir pencere sana
