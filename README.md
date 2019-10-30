@@ -4,7 +4,7 @@ bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 bkz https://chaturbate.com  bkz coğrafya kaderdir
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-fatih-tezcan/ bkz kamalcıları durtan öğrencim
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-fatih-tezcan/ bkz kamalcıları kudurtan padawan
 https://www.uludagsozluk.com/k/sevgilisinin-ayl%C4%B1k-tinder-%C4%B1n%C4%B1-yenileyen-erkek/ bkz karı flört te mi etmesin
 https://www.uludagsozluk.com/k/fatih-tezcan-yaln%C4%B1z-de%C4%9Fildir/ bkz fatih tezcanı kansızlara yedirmeyiz
 https://www.uludagsozluk.com/k/zafer-arapkirli-nin-ek%C5%9Fi-ve-uluda-g%C3%BCndem-olmamas%C4%B1/ tısıhehehe
