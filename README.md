@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz kaplumbağaya benzediği için dinlemediğim kürt
 https://www.uludagsozluk.com/k/sarayda-lisanss%C4%B1z-windows-kullan%C4%B1lmas%C4%B1/ bkz bir saray bana bir pencere sana
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-her-g%C3%BCn-sordu%C4%9Fu-soru/ bkz bilal de aramdı geç oldu yahu
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/&w=gd bkz istanbul üniversitesi sbf maliye 1.
