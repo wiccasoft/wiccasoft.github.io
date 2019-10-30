@@ -8,7 +8,7 @@ bkz yine bi gün am üstünde ceviz kırıyorum pozu
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/&w=gd solda iyi mi pampa
 bkz memet ali erbili 22 lik çıtır sevgilisi
 bkz fakirlikten 10 senedir karı dahi sikememek
-bkz komşuya gidip sikmediğiniz fazla karı kız var mı diye sorkmak
+bkz komşuya gidip fazla karı kız var mı diye sorkmak
 https://www.uludagsozluk.com/e/153307/  bkz coğrafya kaderdir
 bkz bahaneleri alayım'ın ingilizcesi 
 bkz resistance is futile ın türkçesi 
