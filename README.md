@@ -11,8 +11,7 @@ bkz fatih tezcan ne iş yapıyor sorunsalı
 bkz fatih tezcan ın mesleğinin ne olduğunu hala çözememek 
 bkz social influencerların ağır gerizekalı oldukları gerçeği
 bkz fatih tezcanın anasının amı tweeti
-bkz acaba fatih tezcan yarın ne tweeti atacak tweeti
-bkz twitter olmasa türkler ne yapacaklar sorunsalı
+bkz türklerin twittera kazandırdığı para
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
