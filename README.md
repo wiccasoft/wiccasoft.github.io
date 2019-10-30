@@ -4,7 +4,7 @@ bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 bkz https://chaturbate.com  bkz coğrafya kaderdir
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over cuckoo's nest
+https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne deyeeeeee ne mutlu müminim diyene
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
 https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz arch linux a geç raat et lisans ne lan
