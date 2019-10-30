@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz üniversiteye girdiğim yıl d
 https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-96-model-arabayla-gelen-erkek/&w=bg bkz 96 yılında ne yapıyordum
 https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz kaplumbağaya benzediği için dinlemediğim kürt
-https://www.uludagsozluk.com/k/sarayda-lisanss%C4%B1z-windows-kullan%C4%B1lmas%C4%B1/ bkz bir saray bana bir pencere sana
+https://www.uludagsozluk.com/k/sarayda-lisanss%C4%B1z-windows-kullan%C4%B1lmas%C4%B1/ bkz bir linux bana bir pencere sana
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-her-g%C3%BCn-sordu%C4%9Fu-soru/ bkz emine de aramadı geç oldu yahu
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/&w=gd bkz istanbul üniversitesi sbf maliye 1.
 https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz instagramda kızlara yürüyen velet
