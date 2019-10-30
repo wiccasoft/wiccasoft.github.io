@@ -3,6 +3,7 @@
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 https://eksisozluk.com/fakirlerin-ortak-ozellikleri--4209801?a=popular bkz futbol ve siyaset merkezli yaşamaları
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular bkz https://www.youtube.com/watch?v=AFx8ElwfMBQ
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz mahalle teyzesine benzediği için ciddiye alamadığım inşaatçı
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz manusr yavaş ciğerimi söktün
 https://www.uludagsozluk.com/k/mimar-sinan-ya%C5%9Fasayd%C4%B1-s%C3%B6yleyece%C4%9Fi-ilk-s%C3%B6z/&w=gd bkz camileri yamuk yabmışınız
