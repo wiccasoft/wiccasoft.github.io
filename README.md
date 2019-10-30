@@ -12,6 +12,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsrM7cS4eAJcevcmoU3J6x9f
 https://www.uludagsozluk.com/k/burhan-kuzu-nun-fatih-tezcan-%C4%B1-ele%C5%9Ftirmesi/ yav he he
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
+https://www.uludagsozluk.com/k/izmirli-ailenin-demokratik-kongolu-damad%C4%B1/&w=bg lol
 bkz rte nin yaptığı aşırtma gol https://www.youtube.com/watch?v=aVxJzVjCWVc
 https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne deyeeeeee ne mutlu müminim diyene
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
