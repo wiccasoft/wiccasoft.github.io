@@ -9,6 +9,7 @@ bkz pole dance kursuna yollayacak karı dahi bulamamak
 bkz karıyı boşayıp italyan tokmakçınla pompa yap diye nafaka verecek karı dahi bulamamak
 bkz trilyoner de olsan türkiye de sikecek karı bulamamak demek ki sorun ekonomik değilmiş
 bkz türkleri bana karı bulun ülkenize yatırım yapim diye tehdit etmek
+http://www.goygoycu.com/wp-content/uploads/2010/12/Umut-Sarikaya-Karikaturleri-3.jpg
 bkz yine bi gün am üstünde ceviz kırıyorum pozu
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/&w=gd solda iyi mi pampa
 https://www.uludagsozluk.com/k/galatasaray-stad%C4%B1n%C4%B1n-muhte%C5%9Fem-konumu/
