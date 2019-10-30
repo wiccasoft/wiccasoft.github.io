@@ -3,7 +3,7 @@
 bkz kuzenim doodle yapmış pampa
 bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz https://chaturbate.com  bkz coğrafya kaderdir
-bkz 30 ekim sözlük kızları şapşikliyoruz kampanyası
+bkz 30 ekim sözlük kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/&w=gd solda iyi mi pampa
 bkz memet ali erbili 22 lik çıtır sevgilisi
 https://www.uludagsozluk.com/e/153307/  bkz coğrafya kaderdir
