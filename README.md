@@ -8,6 +8,7 @@ https://galeri14.uludagsozluk.com/887/umut-sarikaya_1780833_m.jpg lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbMsuQKB0vKnDG1OBN9lDtS1mxuJeBE5iAbSVfYDsQNJysptkX lol
 bkz kamalcılar bakunin kim tanıyor mu sorunsalı bkz kamalızm vs kapatalızm 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsrM7cS4eAJcevcmoU3J6x9fq1YYTjV-fk9HZORo6OKsLyUsds lol
+https://www.uludagsozluk.com/k/burhan-kuzu-nun-fatih-tezcan-%C4%B1-ele%C5%9Ftirmesi/ yav he he
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
 bkz rte nin yaptığı aşırtma gol https://www.youtube.com/watch?v=aVxJzVjCWVc
