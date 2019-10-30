@@ -22,6 +22,7 @@ https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular b
 https://eksisozluk.com/erdoganin-cumhuriyet-kutlamalarini-begenmemesi--6230778?a=popular bkz doyumsuz oç
 https://eksisozluk.com/29-ekim-2019-rtenin-unlulerle-fotografi--6230431?a=popular bkz hepnizi ordaysınız oç ları
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz iki eliyle bi siki doğrultamamak
+bkz direksiyonu tek elle çeviren erkek vs telefonu tek elle kullanana kadın aşkı
 https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ napsınlar flört te mi etmesinler
 https://www.uludagsozluk.com/k/yunan-%C4%B1-sava%C5%9Fta-yenip-teselya-ve-girit-i-vermek/&w=bg bkz kamalcı kişilik bklğ
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-fatih-tezcan/ bkz kamalcıları kudurtan padawan
