@@ -6,7 +6,7 @@ bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne deyeeeeee
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
-https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz arch linux a geçin raat edin pampa 
+https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz arch linux a geç raat et lisans ne lan
 https://eksisozluk.com/erdoganin-cumhuriyet-kutlamalarini-begenmemesi--6230778?a=popular bkz dyoumsuz oç
 https://eksisozluk.com/29-ekim-2019-rtenin-unlulerle-fotografi--6230431?a=popular bkz hepnizi ordaysınız oç ları
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz iki eliyle bi siki doğrultamamak
