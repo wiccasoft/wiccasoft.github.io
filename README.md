@@ -5,6 +5,7 @@ bkz 29 ekim camelın yaptığı fesli develi paylaşım
 bkz 30 ekim kızları şapşikliyoruz kampanyası https://www.uludagsozluk.com/e/42349195/
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://galeri14.uludagsozluk.com/887/umut-sarikaya_1780833_m.jpg lol
+https://www.uludagsozluk.com/e/42345431/ lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbMsuQKB0vKnDG1OBN9lDtS1mxuJeBE5iAbSVfYDsQNJysptkX lol
 bkz kamalcılar bakunin kim tanıyor mu sorunsalı bkz kamalızm vs kapatalızm 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsrM7cS4eAJcevcmoU3J6x9fq1YYTjV-fk9HZORo6OKsLyUsds lol
