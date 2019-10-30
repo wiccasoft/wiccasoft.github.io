@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ bkz tabisi abisi vurdurmak için bahane arıyor
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/ bkz vurduruyordum
 https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
