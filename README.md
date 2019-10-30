@@ -14,7 +14,7 @@ https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne d
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
 https://galeri13.uludagsozluk.com/654/gunun-karikaturu_1439435.jpg lol
 https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
-https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz arch linux a geç raat et lisans ne lan
+https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz lol
 https://eksisozluk.com/erdoganin-cumhuriyet-kutlamalarini-begenmemesi--6230778?a=popular bkz doyumsuz oç
 https://eksisozluk.com/29-ekim-2019-rtenin-unlulerle-fotografi--6230431?a=popular bkz hepnizi ordaysınız oç ları
 https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz iki eliyle bi siki doğrultamamak
@@ -31,10 +31,6 @@ https://www.uludagsozluk.com/k/bi-siktir-git-dedirten-k%C3%BCrt%C3%A7%C3%BC-z%C4
 https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ bkz verseler sikmez misin pampa
 https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol
-bkz şeyma subaşının fındık kadar götüyle türkiyenin yüzdedoksandokuzundan iyi yaşaması
-bkz pole dance kursuna yollayacak karı dahi bulamamak
-bkz karıyı boşayıp italyan tokmakçınla pompa yap diye nafaka verecek karı dahi bulamamak
-bkz trilyoner de olsan türkiye de sikecek karı bulamamak demek ki sorun ekonomik değilmiş
 bkz türkleri bana karı bulun ülkenize yatırım yapim diye tehdit etmek
 http://www.goygoycu.com/wp-content/uploads/2010/12/Umut-Sarikaya-Karikaturleri-3.jpg
 bkz yine bi gün am üstünde ceviz kırıyorum pozu
