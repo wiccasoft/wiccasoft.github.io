@@ -19,6 +19,7 @@ bkz türlerin tersine evrimi adlı yeni kitabım yakında yayında
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-mesle%C4%9Fi/ bkz babişkosunun gülüğ
 https://www.uludagsozluk.com/k/memurluk-babadan-o%C4%9Fula-ge%C3%A7sin-teklifi/ bkz neler dönmüş bilocan
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-cumhurba%C5%9Fkan%C4%B1-olmas%C4%B1/&w=bg bkz neler dönmüş bilocan
+https://www.uludagsozluk.com/k/1-kas%C4%B1m-2019-rusyada-internetin-kapat%C4%B1lmas%C4%B1/ bkz pistten bebeleri alalım
 https://evrimagaci.org/geri-evrim-tersine-evrim-devolusyon-evrimsel-surecin-atasal-formlara-udonusu-4489 okurken utandım
 Nash Cedar - Let s Go Back dinlerken akla gelen muhteşem fikirler
 Nick and Samantha - On the Beach dinlerken viski yudumlayacak kadar rahat olmak
