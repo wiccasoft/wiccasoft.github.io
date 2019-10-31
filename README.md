@@ -7,17 +7,6 @@ https://www.uludagsozluk.com/k/greta-thunberg&w=gd/15 lol
 bkz ok atarken ya hakk diye bağırmak
 bkz Al hilali, verme Bilal'i https://www.youtube.com/watch?v=4f33HCJTey8
 https://twitter.com/hdpgenelmerkezi/status/626061291493396480?lang=en bkz yüzyılın ayarı
-bkz 1 ekim demirtaşın fettulag hüleni verin bu iş tatlıya bağlansın açıklaması
-bkz istanbul müftüsünün müezzin robot için çalışmalara başlaması
-bkz diyanet ezan çalıştayının ibbden 5 milyon dolar aldığı iddiası
-bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
-bkz şeyma subaşı'dan zeki olduğunu iddia edece kadar aptal olmak
-bkz batman joker filmi izleyecek kadar aptal olmak
-bkz pelin batu'nun joker filmi izleyenlere aptal demesi 
-bkz taylor swift in ibbden 1 milyon dolar aldığı iddiası
-bkz norm ender ibbden 2 milyon dolar istedi iddiaları
-bkz rap müzik dinleyecek kadar aptal olmak
-bkz taylor swift in rap müzik dinleyenlere aptal demesi
 Kaya Project - Vijaya (Bluetech Remix) [chs] dinlerken akla gelen muhteşem fikirler
 Sun Project - We Are In Space dinlerken muhteşem fikirlerin daha da muhteşem olması
 Paul Hardcastle - Soft Rain dinlerken akla yağmur afacanın gelmemesi olayı
