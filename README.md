@@ -3,6 +3,7 @@
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
+bkz şeyma subaşı'dan zeki olduğunu iddia edece kadar aptal olmak
 bkz batman joker filmi izleyecek kadar aptal olmak
 bkz pelin batu'nun joker filmi izleyenlere aptal demesi 
 bkz taylor swift in ibbden 1 milyon dolar aldığı iddiası
