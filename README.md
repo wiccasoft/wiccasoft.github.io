@@ -3,7 +3,7 @@
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
-https://eksisozluk.com/suleymancilar--214217?a=popular hz süleiman cı mı bunlar anlamadım
+https://eksisozluk.com/suleymancilar--214217?a=popular (bkz: heavy süleymancılar)
 https://www.uludagsozluk.com/e/42356484/ lol
 https://www.uludagsozluk.com/e/42356032/ lol
 bkz ok atarken ya hakk diye bağırmak
