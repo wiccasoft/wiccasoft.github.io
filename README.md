@@ -35,8 +35,6 @@ https://www.uludagsozluk.com/k/ismail-saymaz/&w=bg bkz vurduracak yer aramak
 https://www.uludagsozluk.com/e/42351938/ https://www.youtube.com/watch?v=QBf118bdeEc
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-fingirdek-k%C4%B1z%C4%B1/&w=gd bkz sürtük of traveler
 https://www.uludagsozluk.com/k/2009-do%C4%9Fumlu-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/&w=bg bkz serkan is mygirl
-https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ bkz tabisi abisi 
-https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/ bkz vurduruyordum
 https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
 https://www.uludagsozluk.com/e/42351901/ bkz üstteki barzoya asılan kız
 https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
@@ -62,38 +60,9 @@ https://www.uludagsozluk.com/e/42350678/ bkz duygulandırdın piç bu öfke ne d
 https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
 https://galeri13.uludagsozluk.com/654/gunun-karikaturu_1439435.jpg lol
 https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
-https://eksisozluk.com/sarayin-lisanssiz-windows-kullanmasi--6230760?a=popular bkz lol
-https://eksisozluk.com/erdoganin-cumhuriyet-kutlamalarini-begenmemesi--6230778?a=popular bkz doyumsuz oç
-https://eksisozluk.com/29-ekim-2019-rtenin-unlulerle-fotografi--6230431?a=popular bkz hepnizi ordaysınız oç ları
-https://www.uludagsozluk.com/k/direksiyonu-iki-eliyle-%C3%A7eviren-erkek/&w=bg bkz iki eliyle bi siki doğrultamamak
-bkz direksiyonu tek elle çeviren erkek vs telefonu tek elle kullanana kadın aşkı
-https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ napsınlar flört te mi etmesinler
-https://www.uludagsozluk.com/k/yunan-%C4%B1-sava%C5%9Fta-yenip-teselya-ve-girit-i-vermek/&w=bg bkz kamalcı kişilik bklğ
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-fatih-tezcan/ bkz kamalcıları kudurtan padawan
-https://www.uludagsozluk.com/k/sevgilisinin-ayl%C4%B1k-tinder-%C4%B1n%C4%B1-yenileyen-erkek/ bkz karı flört te mi etmesin
-https://www.uludagsozluk.com/k/fatih-tezcan-yaln%C4%B1z-de%C4%9Fildir/ bkz fatih tezcanı kansızlara yedirmeyiz
-https://www.uludagsozluk.com/k/zafer-arapkirli-nin-ek%C5%9Fi-ve-uluda-g%C3%BCndem-olmamas%C4%B1/ tısıhehehe
-https://galeri14.uludagsozluk.com/775/keanu-reeves-in-metroda-bir-bayana-yer-vermesi_1862475.jpg lol
-https://www.uludagsozluk.com/k/k%C3%BCrtlere-duyulan-nefret/ bkz hepimiz kardeşiz bu öfke neee deyeeeeeeee
-https://www.uludagsozluk.com/k/roberto-carlos-un-sivasta-ya%C5%9Fad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg bkz yav he he
-https://www.uludagsozluk.com/k/bi-siktir-git-dedirten-k%C3%BCrt%C3%A7%C3%BC-z%C4%B1rvalar%C4%B1/&w=bg yav he he
-https://www.uludagsozluk.com/k/fatih-tezcan%C4%B1n-kar%C4%B1s%C4%B1-ve-annesi/ bkz verseler sikmez misin pampa
 https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol
-bkz türkleri bana karı bulun ülkenize yatırım yapim diye tehdit etmek
-http://www.goygoycu.com/wp-content/uploads/2010/12/Umut-Sarikaya-Karikaturleri-3.jpg
-bkz yine bi gün am üstünde ceviz kırıyorum pozu
-https://www.egonomik.com/wp-content/uploads/2009/12/umut-sarikaya-orlando-bloom.jpg
-https://www.uludagsozluk.com/k/queen-grubundaki-b%C4%B1y%C4%B1kl%C4%B1-adam/&w=gd solda iyi mi pampa
-https://www.uludagsozluk.com/k/galatasaray-stad%C4%B1n%C4%B1n-muhte%C5%9Fem-konumu/
-bkz futbolcular karı kız sikerken mal mal bakan antilop sürüsü
-bkz komşuya gidip fazla karı kız var mı diye sormak
-https://www.uludagsozluk.com/e/153307/  bkz coğrafya kaderdir
-bkz bahaneleri alayım'ın ingilizcesi 
-bkz resistance is futile ın türkçesi 
-bkz taylor swiftin uzun adam düşkünlüğü https://bit.ly/36eVfde
-bkz taylor swift in yerim uzun adamın yeridir tweeti
-bkz uzun adamın hiç tweet atmaması sorunsalı
+
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
