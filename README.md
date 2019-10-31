@@ -11,7 +11,7 @@ bkz rap müzik dinleyecek kadar aptal olmak
 bkz taylor swift in rap müzik dinleyenlere aptal demesi
 Kaya Project - Vijaya (Bluetech Remix) [chs] dinlerken akla gelen muhteşem fikirler
 Sun Project - We Are In Space dinlerken muhteşem fikirlerin daha da muhteşem olması
-Paul Hardcastle - Soft Rain dinlerken akla yağmur atacanın gelmemesi oalyı
+Paul Hardcastle - Soft Rain dinlerken akla yağmur afacanın gelmemesi oalyı
 https://giant.gfycat.com/DistinctSeriousCougar.webm
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-tom-hardy-benzerli%C4%9Fi/ bkz lol
 https://eksisozluk.com/kabana-gocuk-diyen-koylu--6231009?a=popular bkz sen neye gocundun
