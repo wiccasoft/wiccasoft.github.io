@@ -8,7 +8,7 @@ bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 2 kasım bernard redflag in her şey zaten çok güzel zaten demesi
-bkz 3 kasım bernard redflag in yazık lan acıdım size doları 3 lira yapacam söz demesi
+bkz 3 kasım bernard redflag in 3 for 3 tweeti
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
