@@ -11,6 +11,7 @@ bkz ekşici kızların fetösoft u 155e ihbar etmesi
 bkz süleymancıların davudcuları 155e  ihbar etmesi
 bkz daha firmayı kurmadan türkiyede terörist ilan edilmem
 bkz orhan bencegayin son hali vs benim son halim
+https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1na-a%C4%9Fda-yapan-erkek/ bkz kıllı mı seviyosun aşkım
 https://eksisozluk.com/fethullah-gulenin-1999-yilina-ait-goruntuleri--6231993?a=popular şimdi daha da yakışıklyım kanka
 en olgun yaşımna geldim 41 boru muuuuuuuuuuuu
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-son-hali/ bkz gittikçe idoya benzemeye başlamam
