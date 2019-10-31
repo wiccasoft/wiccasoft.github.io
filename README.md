@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz süleymancıların davudcuları 155e ihbar etmesi
+bkz batman joker izleyecek kadar ergen olmak
 bkz macun kaplıcalının batman forever yorumu
 bkz ulucu kızların ekşici kızları kıskanması olayı
 bkz sözlüklerde kız olduğunu sanan hayalperest ergen
