@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
+bkz diyanet ezan çalıştayının ibbden 5 milyon dolar aldığı iddiası
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 bkz şeyma subaşı'dan zeki olduğunu iddia edece kadar aptal olmak
 bkz batman joker filmi izleyecek kadar aptal olmak
