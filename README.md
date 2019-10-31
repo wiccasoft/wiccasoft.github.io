@@ -4,6 +4,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
+https://twitter.com/hdpgenelmerkezi/status/626061291493396480?lang=en yüzyılın ayarı
 bkz 1 ekim demirtaşın fettulag hüleni verin bu iş tatlıya bağlansın açıklaması
 bkz istanbul müftüsünün müezzin robot için çalışmalara başlaması
 bkz diyanet ezan çalıştayının ibbden 5 milyon dolar aldığı iddiası
