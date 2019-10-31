@@ -51,7 +51,6 @@ https://www.uludagsozluk.com/e/42345431/ lol
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbMsuQKB0vKnDG1OBN9lDtS1mxuJeBE5iAbSVfYDsQNJysptkX lol
 bkz kamalcılar bakunin kim tanıyor mu sorunsalı 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsrM7cS4eAJcevcmoU3J6x9fq1YYTjV-fk9HZORo6OKsLyUsds lol
-https://www.uludagsozluk.com/k/burhan-kuzu-nun-fatih-tezcan-%C4%B1-ele%C5%9Ftirmesi/ yav he he
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
 https://www.uludagsozluk.com/k/izmirli-ailenin-demokratik-kongolu-damad%C4%B1/&w=bg lol
@@ -61,9 +60,7 @@ https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yat
 https://galeri13.uludagsozluk.com/654/gunun-karikaturu_1439435.jpg lol
 https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
 https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol
-
--->
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son -->
