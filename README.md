@@ -6,7 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
-bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
+bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi asdsadsaa
 bkz süleymancıların davudcuları 155e ihbar etmesi
 bkz macun kaplıcalının batman forever yorumu
 bkz ulucu kızların ekşici kızları kıskanması olayı
