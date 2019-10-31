@@ -11,7 +11,7 @@ bkz ekşici kızların fetösoft u 155e ihbar etmesi
 bkz süleymancıların davudcuları 155e  ihbar etmesi
 bkz daha firmayı kurmadan türkiyede terörist ilan edilmem
 bkz orhan bencegayin son hali vs benim son halim
-https://www.uludagsozluk.com/k/ceza/&w=bg ben de 78 doğumluyuym kanka rapi senin yaşında dinlemeyi bıraktım kib bye
+https://www.uludagsozluk.com/k/ceza/&w=bg ben de 78 doğumluyuym evlat rapi senin yaşında dinlemeyi bıraktım kib bye
 https://www.uludagsozluk.com/k/neslihan-atag%C3%BCl-cengiz-kurto%C4%9Flu-a%C5%9Fk%C4%B1/ nelerde dönmüş serhat ya
 https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1na-a%C4%9Fda-yapan-erkek/ bkz sarı kıl seviyosan almim aşkım
 https://eksisozluk.com/fethullah-gulenin-1999-yilina-ait-goruntuleri--6231993?a=popular şimdi daha da yakışıklyım kanka
