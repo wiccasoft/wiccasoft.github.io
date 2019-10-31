@@ -1,3 +1,5 @@
+[![Image](smartdata/ui-ux.png)]( https://www.onthisday.com/countries/russia )
+
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
