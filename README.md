@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
-bkz 2 kasım bernard redflag in her şey zaten çok güzel zaten açıklması
+bkz 2 kasım bernard redflag in her şey zaten çok güzel zaten açıklması https://www.youtube.com/watch?v=TA6y-oRT1w0
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
