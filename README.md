@@ -8,7 +8,7 @@ https://eksisozluk.com/kabana-gocuk-diyen-koylu--6231009?a=popular bkz sen neye 
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular&p=5 bkz anlatma lan heyecanı kalmadı
 back to 2023 https://www.youtube.com/watch?v=fE5OUx2qzqY&list=PLqtKSosRRdgEO-r60_pPKHLKyQH3RBd3A&index=7&t=0s
 https://www.uludagsozluk.com/k/ismail-saymaz/&w=bg bkz vurduracak yer aramak
-https://www.uludagsozluk.com/e/42351938/ bkz yengeniz olur https://www.youtube.com/watch?v=QBf118bdeEc
+https://www.uludagsozluk.com/e/42351938/ https://www.youtube.com/watch?v=QBf118bdeEc
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-fingirdek-k%C4%B1z%C4%B1/&w=gd bkz sürtük of traveler
 https://www.uludagsozluk.com/k/2009-do%C4%9Fumlu-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/&w=bg bkz serkan is mygirl
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ bkz tabisi abisi 
