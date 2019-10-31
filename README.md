@@ -4,7 +4,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 bkz batman joker filmi izleyecek kadar aptal olmak
-bkz pelin batunun joker filmi izleyenlere aptal demesi
+bkz pelin batu'nun joker filmi izleyenlere aptal demesi 
 bkz taylor swift in ibbden 1 milyon dolar aldığı iddiası
 bkz norm ender ibbden 2 milyon dolar istedi iddiaları
 https://giant.gfycat.com/DistinctSeriousCougar.webm
