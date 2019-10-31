@@ -12,6 +12,7 @@ bkz süleymancıların davudcuları 155e  ihbar etmesi
 bkz daha firmayı kurmadan türkiyede terörist ilan edilmem
 bkz orhan bencegayin son hali vs benim son halim
 https://eksisozluk.com/fethullah-gulenin-1999-yilina-ait-goruntuleri--6231993?a=popular şimdi daha da yakışıklyım kanka
+en olgun yaşımna geldim 41 boru muuuuuuuuuuuu
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-son-hali/ bkz gittikçe idoya benzemeye başlamam
 https://www.uludagsozluk.com/k/ferdi-tayfur-un-yeni-imaj%C4%B1/ bkz hadi gel köyümüze geri dönelim bakışı
 https://www.uludagsozluk.com/k/penisi-d%C3%BCmd%C3%BCz-duran-erkekler/&w=gd  bkz sana bi kalkışma yaklaşıyor
