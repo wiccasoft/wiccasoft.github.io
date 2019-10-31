@@ -1,7 +1,7 @@
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
-bkz 30 ekim bahcelinin Hallowe'en kutlu olsun mesajı
+bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 https://giant.gfycat.com/DistinctSeriousCougar.webm
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-tom-hardy-benzerli%C4%9Fi/ bkz lol
