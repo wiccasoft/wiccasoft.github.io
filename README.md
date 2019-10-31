@@ -10,6 +10,7 @@ bkz ekşici kızların sanki biraz şey olması
 bkz ekşici kızların fetösoft u 155e ihbar etmesi
 bkz süleymancıların davudcuları 155e  ihbar etmesi
 bkz daha firmayı kurmadan türkiyede terörist ilan edilmem
+bkz orhan bencegayin son hali vs benim son halim
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-son-hali/ bkz gittikçe idoya benzemeye başlamam
 https://www.uludagsozluk.com/k/ferdi-tayfur-un-yeni-imaj%C4%B1/ bkz hadi gel köyümüze geri dönelim bakışı
 https://www.uludagsozluk.com/k/penisi-d%C3%BCmd%C3%BCz-duran-erkekler/&w=gd  bkz sana bi kalkışma yaklaşıyor
