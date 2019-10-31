@@ -14,10 +14,8 @@ https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-fingirdek-k%C4%B1
 https://www.uludagsozluk.com/k/2009-do%C4%9Fumlu-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/&w=bg bkz serkan is mygirl
 https://www.uludagsozluk.com/k/cafe-de-otururken-%C5%9Fal-isteyen-erkek/ bkz tabisi abisi 
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/ bkz vurduruyordum
-https://www.uludagsozluk.com/k/mavi-sa%C3%A7l%C4%B1-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
 https://www.uludagsozluk.com/e/42351901/ bkz üstteki barzoya asılan kız
-https://www.uludagsozluk.com/k/traveler-of-secret-moments/&w=gd bkz bütün sözlükçülere boncuk dağıtan orospu ruhlu aşüfte
 https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
 https://giant.gfycat.com/FrailPortlyAngelwingmussel.webm
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-96-model-arabayla-gelen-erkek/&w=bg bkz 96 yılında ne yapıyordum
@@ -26,11 +24,6 @@ https://www.uludagsozluk.com/k/sarayda-lisanss%C4%B1z-windows-kullan%C4%B1lmas%C
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-her-g%C3%BCn-sordu%C4%9Fu-soru/ bkz emine de aramadı geç oldu yahu
 https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/&w=gd bkz istanbul üniversitesi sbf maliye 1.
 https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz instagramda kızlara yürüyen velet
-https://eksisozluk.com/fakirlerin-ortak-ozellikleri--4209801?a=popular bkz futbol ve siyaset merkezli yaşamaları
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz mahalle teyzesine benzediği için ciddiye alamadığım inşaatçı
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz manusr yavaş ciğerimi söktün
-https://www.uludagsozluk.com/k/mimar-sinan-ya%C5%9Fasayd%C4%B1-s%C3%B6yleyece%C4%9Fi-ilk-s%C3%B6z/&w=gd bkz camiler yamuk
-https://eksisozluk.com/30-ekim-2019-devlet-bahcelinin-hadsiz-aciklamasi--6230980?a=popular bkz okumadım vaktim yoktu
 bkz https://chaturbate.com  bkz coğrafya kaderdir
 https://galeri14.uludagsozluk.com/887/umut-sarikaya_1780833_m.jpg lol
 https://www.uludagsozluk.com/e/42345431/ lol
