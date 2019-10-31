@@ -10,6 +10,7 @@ bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
 bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 https://www.uludagsozluk.com/k/ido-nun-ger%C3%A7ek-ismi-ne-sorunsal%C4%B1/ bkz babişkosunun oğlu sorunsalı
 https://www.uludagsozluk.com/k/1-recep-tayyip-erdo%C4%9Fan-han-hazretleri/ bkz osmanlı torunu
+https://www.uludagsozluk.com/k/memurluk-babadan-o%C4%9Fula-ge%C3%A7sin-teklifi/ bkz ceddin deden neslin baban
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
