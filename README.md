@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz süleymancıların davudcuları 155e ihbar etmesi
 bkz ekşici kızların ulucu kızları kıskanması olayı
+https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1-n%C4%B1n-joker-yorumu/ bkz ekşiden başlık çalmak
 https://www.uludagsozluk.com/k/ferdi-tayfur-un-yeni-imaj%C4%B1/ bkz necla nazırı kıskandırma çabaları
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-ya%C5%9Fad%C4%B1%C4%9F%C4%B1-t%C3%BCrkiye/ bkz illumunati puppet
 https://www.uludagsozluk.com/k/g%C3%B6%C4%9F%C3%BCs-dekoltesini-inceleyen-erkek/ aa bu da benim lan
