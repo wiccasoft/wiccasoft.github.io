@@ -17,6 +17,7 @@ Sun Project - We Are In Space dinlerken muhteşem fikirlerin daha da muhteşem o
 Paul Hardcastle - Soft Rain dinlerken akla yağmur afacanın gelmemesi olayı
 bkz türlerin tersine evrimi adlı yeni kitabım yakında yayında
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-mesle%C4%9Fi/ bkz babişkosunun gülüğ
+https://www.uludagsozluk.com/k/memurluk-babadan-o%C4%9Fula-ge%C3%A7sin-teklifi/ bkz neler dönmüş bilocan
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-cumhurba%C5%9Fkan%C4%B1-olmas%C4%B1/&w=bg bkz neler dönmüş bilocan
 https://evrimagaci.org/geri-evrim-tersine-evrim-devolusyon-evrimsel-surecin-atasal-formlara-udonusu-4489 okurken utandım
 Nash Cedar - Let s Go Back dinlerken akla gelen muhteşem fikirler
