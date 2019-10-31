@@ -6,11 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
-bkz ekşici kızların sanki biraz şey olması
-bkz ekşici kızların fetösoft u 155e ihbar etmesi
-bkz süleymancıların davudcuları 155e  ihbar etmesi
-bkz daha firmayı kurmadan türkiyede terörist ilan edilmem
-bkz orhan bencegayin son hali vs benim son halim
+bkz süleymancıların davudcuları 155e ihbar etmesi
 https://www.uludagsozluk.com/k/esra-erol-un-g%C3%B6%C4%9Fs%C3%BCn%C3%BC-elleyen-dede/ bkz hey gidi günler
 https://www.uludagsozluk.com/k/ceza/&w=bg ben de 78 yaşındayım evlat rapi 96 yaşında bıraktım kib bye
 https://www.uludagsozluk.com/k/neslihan-atag%C3%BCl-cengiz-kurto%C4%9Flu-a%C5%9Fk%C4%B1/ nelerde dönmüş serhat ya
