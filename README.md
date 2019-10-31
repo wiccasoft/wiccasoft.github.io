@@ -6,6 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
+https://www.uludagsozluk.com/k/penisi-d%C3%BCmd%C3%BCz-duran-erkekler/&w=gd lol
 https://www.uludagsozluk.com/k/45-dk-boyunca-erekte-kalabilen-22-cm-penis/ lol
 https://www.uludagsozluk.com/k/messi-nin-fenerbah%C3%A7e-ye-transferi/ lol
 https://eksisozluk.com/suleymancilar--214217?a=popular (bkz: heavy süleymancılar)
