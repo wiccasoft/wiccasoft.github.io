@@ -3,7 +3,7 @@
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
-https://www.uludagsozluk.com/k/greta-thunberg/15/ lol
+https://www.uludagsozluk.com/e/42356032/ lol
 bkz ok atarken ya hakk diye bağırmak
 bkz Al hilali, verme Bilal'i https://www.youtube.com/watch?v=4f33HCJTey8
 https://twitter.com/hdpgenelmerkezi/status/626061291493396480?lang=en bkz yüzyılın ayarı
