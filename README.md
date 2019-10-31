@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz süleymancıların davudcuları 155e ihbar etmesi
+bkz ekşici kızların ulucu kızları kıskanması olayı
 https://www.uludagsozluk.com/k/g%C3%B6%C4%9F%C3%BCs-dekoltesini-inceleyen-erkek/ aa bu da benim lan
 https://www.uludagsozluk.com/k/mirastan-anneye-pay-vermeyen-%C5%9Ferefsiz-day%C4%B1/ aa bu da benim öyle bi oç yimdir
 https://www.uludagsozluk.com/k/esra-erol-un-g%C3%B6%C4%9Fs%C3%BCn%C3%BC-elleyen-dede/ bkz hey gidi ne memeydi
