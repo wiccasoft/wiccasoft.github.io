@@ -7,78 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
-bkz süleymancıların davudcuları 155e ihbar etmesi
-bkz macun kaplıcalının batman forever yorumu
-bkz ulucu kızların ekşici kızları kıskanması olayı
-bkz sözlüklerde kız olduğunu sanan hayalperest ergen
-bkz batman joker izleyecek kadar ergen olmak
-https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1-n%C4%B1n-joker-yorumu/ bkz ekşiden başlık çalmak
-https://www.uludagsozluk.com/k/ferdi-tayfur-un-yeni-imaj%C4%B1/ bkz necla nazırı kıskandırma çabaları
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-ya%C5%9Fad%C4%B1%C4%9F%C4%B1-t%C3%BCrkiye/ bkz illumunati puppet
-https://www.uludagsozluk.com/k/g%C3%B6%C4%9F%C3%BCs-dekoltesini-inceleyen-erkek/ aa bu da benim lan
-https://www.uludagsozluk.com/k/mirastan-anneye-pay-vermeyen-%C5%9Ferefsiz-day%C4%B1/ aa bu da benim öyle bi oç yimdir
-https://www.uludagsozluk.com/k/esra-erol-un-g%C3%B6%C4%9Fs%C3%BCn%C3%BC-elleyen-dede/ bkz hey gidi ne memeydi
-https://www.uludagsozluk.com/k/ceza/&w=bg ben de 78 yaşındayım evlat rapi 96 yaşında bıraktım kib bye
-https://www.uludagsozluk.com/k/neslihan-atag%C3%BCl-cengiz-kurto%C4%9Flu-a%C5%9Fk%C4%B1/ nelerde dönmüş serhat ya
-https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1na-a%C4%9Fda-yapan-erkek/ bkz sarı kıl seviyosan almim aşkım
-https://eksisozluk.com/fethullah-gulenin-1999-yilina-ait-goruntuleri--6231993?a=popular şimdi daha da yakışıklyım kanka
-https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-son-hali/ bkz gittikçe idoya benzemeye başlamam
-https://www.uludagsozluk.com/k/ferdi-tayfur-un-yeni-imaj%C4%B1/ bkz hadi gel köyümüze geri dönelim bakışı
-https://www.uludagsozluk.com/k/penisi-d%C3%BCmd%C3%BCz-duran-erkekler/&w=gd  bkz sana bi kalkışma yaklaşıyor
-https://eksisozluk.com/erkeklerin-iliskide-egitilmeye-ihtiyac-duymasi--6232052?a=popular lol
-https://eksisozluk.com/fethullah-gulenin-1999-yilina-ait-goruntuleri--6231993?a=popular lol 
-https://www.uludagsozluk.com/k/45-dk-boyunca-erekte-kalabilen-22-cm-penis/ lol
-https://www.uludagsozluk.com/k/messi-nin-fenerbah%C3%A7e-ye-transferi/ lol
-https://eksisozluk.com/suleymancilar--214217?a=popular (bkz: heavy süleymancılar)
-https://www.uludagsozluk.com/e/42356484/ lol
-https://www.uludagsozluk.com/e/42356032/ lol
-bkz Al hilali, verme Bilal'i https://www.youtube.com/watch?v=4f33HCJTey8
-https://twitter.com/hdpgenelmerkezi/status/626061291493396480?lang=en bkz yüzyılın ayarı
-Kaya Project - Vijaya (Bluetech Remix) [chs] dinlerken akla gelen muhteşem fikirler
-Sun Project - We Are In Space dinlerken muhteşem fikirlerin daha da muhteşem olması
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-mesle%C4%9Fi/ bkz babişkosunun gülüğ
-https://www.uludagsozluk.com/k/memurluk-babadan-o%C4%9Fula-ge%C3%A7sin-teklifi/ bkz neler dönmüş bilocan
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-cumhurba%C5%9Fkan%C4%B1-olmas%C4%B1/&w=bg bkz neler dönmüş bilocan
-https://www.uludagsozluk.com/k/1-kas%C4%B1m-2019-rusyada-internetin-kapat%C4%B1lmas%C4%B1/ bkz pistten bebeleri alalım
-https://evrimagaci.org/geri-evrim-tersine-evrim-devolusyon-evrimsel-surecin-atasal-formlara-udonusu-4489 okurken utandım
-Nash Cedar - Let s Go Back dinlerken akla gelen muhteşem fikirler
-Nick and Samantha - On the Beach dinlerken viski yudumlayacak kadar rahat olmak
-https://www.imdb.com/gallery/rg797940480/mediaviewer/rm2363111936 make britain great again
-Thievery Corporation - Lebanese Blonde dinlerken ağızda oluşan kekremsi tat 
-Fragile State - The Facts And The Dreams dinlerken ne kadar enteleltüel olduğumu hatırlamam 
-https://giant.gfycat.com/DistinctSeriousCougar.webm
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-tom-hardy-benzerli%C4%9Fi/ bkz lol
-https://eksisozluk.com/kabana-gocuk-diyen-koylu--6231009?a=popular bkz sen neye gocundun
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular&p=5 bkz anlatma lan heyecanı kalmadı
-back to 2023 https://www.youtube.com/watch?v=fE5OUx2qzqY&list=PLqtKSosRRdgEO-r60_pPKHLKyQH3RBd3A&index=7&t=0s
-https://www.uludagsozluk.com/k/ismail-saymaz/&w=bg bkz vurduracak yer aramak
-https://www.uludagsozluk.com/e/42351938/ https://www.youtube.com/watch?v=QBf118bdeEc
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-fingirdek-k%C4%B1z%C4%B1/&w=gd bkz sürtük of traveler
-https://www.uludagsozluk.com/k/2009-do%C4%9Fumlu-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/&w=bg bkz serkan is mygirl
-https://www.uludagsozluk.com/e/42351896/ bkz kedideki sen sevme ulan ayı bakışı
-https://www.uludagsozluk.com/e/42351901/ bkz üstteki barzoya asılan kız
-https://www.uludagsozluk.com/k/macar-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz yunan erkeğinin hoplatacağı versus
-https://giant.gfycat.com/FrailPortlyAngelwingmussel.webm
-https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-96-model-arabayla-gelen-erkek/&w=bg bkz 96 yılında ne yapıyordum
-https://www.uludagsozluk.com/k/selda-ba%C4%9Fcan/&w=bg bkz kaplumbağaya benzediği için dinlemediğim kürt
-https://www.uludagsozluk.com/k/sarayda-lisanss%C4%B1z-windows-kullan%C4%B1lmas%C4%B1/ bkz bir linux bana bir pencere sana
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-her-g%C3%BCn-sordu%C4%9Fu-soru/ bkz emine de aramadı geç oldu yahu
-https://www.uludagsozluk.com/k/1996-y%C4%B1l%C4%B1nda-ne-yap%C4%B1yordunuz/&w=gd bkz istanbul üniversitesi sbf maliye 1.
-https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz instagramda kızlara yürüyen velet
-bkz https://chaturbate.com  bkz coğrafya kaderdir
-https://galeri14.uludagsozluk.com/887/umut-sarikaya_1780833_m.jpg lol
-https://www.uludagsozluk.com/e/42345431/ lol
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbMsuQKB0vKnDG1OBN9lDtS1mxuJeBE5iAbSVfYDsQNJysptkX lol
-bkz kamalcılar bakunin kim tanıyor mu sorunsalı 
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsrM7cS4eAJcevcmoU3J6x9fq1YYTjV-fk9HZORo6OKsLyUsds lol
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz one flew over the cuckoo's nest
-https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kuş ötmüyor ne yapmalıyım'ın ingilizcesi)
-https://www.uludagsozluk.com/k/izmirli-ailenin-demokratik-kongolu-damad%C4%B1/&w=bg lol
-https://eksisozluk.com/dilek-imamoglu--5881247?a=popular bkz erkemin altına yatacak kadar midesiz olmak
-https://galeri13.uludagsozluk.com/654/gunun-karikaturu_1439435.jpg lol
-https://66.media.tumblr.com/03b3e8e082037092e04f509376bbb424/tumblr_o4dy5e6PiT1ujmvy2o1_1280.jpg lol
-https://galeri7.uludagsozluk.com/244/efsane-karikaturler_389870_m.jpg lol
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr8EALsvmN_gFMG1tuNbp6Fim3EUPRhlpWal3SP32hI7tkFx0g lol-->
+-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son -->
