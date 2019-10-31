@@ -5,7 +5,7 @@
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
-bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
+bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
 bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 -->
