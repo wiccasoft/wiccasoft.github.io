@@ -16,6 +16,7 @@ Kaya Project - Vijaya (Bluetech Remix) [chs] dinlerken akla gelen muhteşem fiki
 Sun Project - We Are In Space dinlerken muhteşem fikirlerin daha da muhteşem olması
 Paul Hardcastle - Soft Rain dinlerken akla yağmur afacanın gelmemesi olayı
 bkz türlerin tersine evrimi adlı yeni kitabım yakında yayında
+https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-cumhurba%C5%9Fkan%C4%B1-olmas%C4%B1/&w=bg bkz neler dönmüş bilocan
 https://evrimagaci.org/geri-evrim-tersine-evrim-devolusyon-evrimsel-surecin-atasal-formlara-udonusu-4489 okurken utandım
 Nash Cedar - Let s Go Back dinlerken akla gelen muhteşem fikirler
 Nick and Samantha - On the Beach dinlerken viski yudumlayacak kadar rahat olmak
