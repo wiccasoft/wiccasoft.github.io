@@ -8,7 +8,7 @@ bkz 31 ekim bilocanın falcaoya ok atmayı öğretmesi
 bkz ok atarken ya hakk diye bağırmak
 bkz ekşici kızların sanki biraz şey olması
 bkz ekşici kızların fetösoft u 155e ihbar etmesi
-https://www.uludagsozluk.com/k/penisi-d%C3%BCmd%C3%BCz-duran-erkekler/&w=gd lol
+https://www.uludagsozluk.com/k/penisi-d%C3%BCmd%C3%BCz-duran-erkekler/&w=gd  bkz sana bi kalkışma yaklaşıyor
 https://eksisozluk.com/erkeklerin-iliskide-egitilmeye-ihtiyac-duymasi--6232052?a=popular lol
 https://eksisozluk.com/fethullah-gulenin-1999-yilina-ait-goruntuleri--6231993?a=popular lol 
 https://www.uludagsozluk.com/k/45-dk-boyunca-erekte-kalabilen-22-cm-penis/ lol
