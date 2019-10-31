@@ -2,6 +2,7 @@
 <!--
 bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
+bkz istanbul müftüsünün müezzin robot için çalışmalara başlaması
 bkz diyanet ezan çalıştayının ibbden 5 milyon dolar aldığı iddiası
 bkz Vertex - Astral Travel  dinlerken akla gelen muhteşem fikirler
 bkz şeyma subaşı'dan zeki olduğunu iddia edece kadar aptal olmak
