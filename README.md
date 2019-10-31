@@ -9,6 +9,7 @@ bkz taylor swift in ibbden 1 milyon dolar aldığı iddiası
 bkz norm ender ibbden 2 milyon dolar istedi iddiaları
 bkz rap müzik dinleyecek kadar aptal olmak
 bkz taylor swift in rap müzik dinleyenlere aptal demesi
+Kaya Project - Vijaya (Bluetech Remix) [chs] dinlerken akla gelen muhteşem fikirler
 https://giant.gfycat.com/DistinctSeriousCougar.webm
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-tom-hardy-benzerli%C4%9Fi/ bkz lol
 https://eksisozluk.com/kabana-gocuk-diyen-koylu--6231009?a=popular bkz sen neye gocundun
