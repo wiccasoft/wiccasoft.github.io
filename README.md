@@ -21,6 +21,7 @@ Nash Cedar - Let s Go Back dinlerken akla gelen muhteşem fikirler
 Nick and Samantha - On the Beach dinlerken viski yudumlayacak kadar rahat olmak
 https://www.imdb.com/gallery/rg797940480/mediaviewer/rm2363111936 make britain great again
 Thievery Corporation - Lebanese Blonde dinlerken ağızda oluşan kekremsi tat 
+Fragile State - The Facts And The Dreams dinlerken ne kadar enteleltüel olduğumu hatırlamam 
 https://giant.gfycat.com/DistinctSeriousCougar.webm
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-tom-hardy-benzerli%C4%9Fi/ bkz lol
 https://eksisozluk.com/kabana-gocuk-diyen-koylu--6231009?a=popular bkz sen neye gocundun
