@@ -10,7 +10,7 @@ bkz hala adıma başlık açılmamış olması (gözleri uzaklara bakan üzgün 
 bkz gökdeleninin tepesinde uzaklara bakıp acaba fatih tezcan napıyordur diye düşünmek
 bkz geçen gün kamyon sürdüm leonarda da vinci (anladın mı espriyi el hareketi)
 bkz ekrem alınca pc nin hala kasması (nasıl espri) 
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ bkz bülent sertaşın seksi pozları için tıkla
+https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
 bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istemem hareketi
 bkz rte nin sayın perez siz madalya vermeyi iyi bilirsiniz diyip ayarı gömmesi
 https://odatv.com/dunya-imamoglunu-boyle-gordu-03041954.html
