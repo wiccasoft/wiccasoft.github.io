@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz sayıştayın yargıtaya sen hayırdır demesi
-bkz sayıştay başkanının danıştay başkanına sen kimsin ulan bakışı
+bkz sayıştay başkanının danıştay başkanına kafa kesmiyorum racon kesiyorum bakışı
 bkz idari mahkemenin süleyman çakır moda bağlaması
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz idari mahkemenin sen ne yasın ulen demesi süleyman çakır mod on beyler
