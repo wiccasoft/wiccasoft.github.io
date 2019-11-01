@@ -6,7 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
-bkz hala adıma başlık açılmamış olması (gözleri üzgün bakan surat emojisi)
+bkz hala adıma başlık açılmamış olması (gözleri uzaklara bakan üzgün bakan surat emojisi)
 bkz gökdeleninin tepesinde uzaklara bakıp acaba fatih tezcan napıyordur diye düşünmek
 bkz geçen gün kamyon sürdüm leonarda da vinci (anladın mı espriyi el hareketi)
 bkz ekrem alınca pc nin hala kasması (nasıl espri) ben olsam ne espriler yapardım lan sözlükte
