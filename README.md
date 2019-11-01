@@ -10,6 +10,8 @@ bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
 bkz kylie jennerin babası cinsiyet değiştirdi
 bkz daracında üç fidan dinleyen türk solcusu
+bkz patlak kızların suda çıkardığı ses
+https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=gd
 bkz kürdistan dağlarında çiçekler açağı günleri yaklaşması
 bkz anadolu federe cumhuriyeti 3 eyalet sistemi gelirken mal mal bakan kamalcılar
 (bkz kırk tane skim olsa bi tanesini sokmayacağım kızlar)
