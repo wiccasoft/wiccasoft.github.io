@@ -10,6 +10,8 @@ bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
 bkz uludaki akboyların fena azdırması 
 bkz akboylara sarayı tarif edip topkek almaya yollamak
+bkz akboyların imamoğlan olmadan durmaması sorunsalı
+https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 bkz akboyların imamoğlan imamaoğlannn diye yine azdırması
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
 lan orospu akboylar hadi sarayın kapsına kemiğiniz orda
