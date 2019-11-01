@@ -10,7 +10,7 @@ bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
 bkz kylie jennerin babası cinsiyet değiştirdi
 bkz daracında üç fidan dinleyen türk solcusu
-bkz  kürdistan dağlarında çiçekler açağı günleri yaklaşması
+bkz kürdistan dağlarında çiçekler açağı günleri yaklaşması
 (bkz kürtçe bilen kızların güzelliği)
 https://www.uludagsozluk.com/k/k%C3%BCrt-k%C4%B1zlar%C4%B1n%C4%B1n-ba%C5%9F-d%C3%B6nd%C3%BCren-g%C3%BCzelli%C4%9Fi/
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/&w=bg (bkz adam gezmiş abi)
