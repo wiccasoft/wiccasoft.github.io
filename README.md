@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz kukold categerüğ hastası küçük pipili cicişfolkan
+babasını götünden siktiğimin evlatları tayoşunuzu sikerim babanızı da
 bkz tayyoşunun götüne korum lan uza diyince uludagsözlükte ağlayan ergenler
 bkz berat tayyipin kızına penis yüzüğü olan pipisini sokarkene kuduran akboylar :))))))))))
 bkz tayyibin kızını ertesi günü almaya yollaması
