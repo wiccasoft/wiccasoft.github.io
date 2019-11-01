@@ -14,6 +14,7 @@ bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istemem hareke
 bkz rte nin sayın perez siz madalya vermeyi iyi bilirsiniz diyip ayarı gömmesi
 https://odatv.com/dunya-imamoglunu-boyle-gordu-03041954.html
 https://mutlakaoku.com/ekrem-imamoglu-bir-proje-mi-samimiyet-mi/
+https://tr.sputniknews.com/turkiye/201910191040428773-imamoglu-masaya-oturdugumuz-ulkelerin-kaos-politikalarina-guvenmiyoruz/ 
 https://www.uludagsozluk.com/k/rte-nin-davosa-g%C3%B6md%C3%BC%C4%9F%C3%BC-yahudi-madalyas%C4%B1/ bkz dünya lideri
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-imam-hatipli/ bkz imamhatipoğlan
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
