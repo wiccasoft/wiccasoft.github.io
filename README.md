@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz berat tayyipin kızına penis yüzüğü olan pipisini sokarkene kuduran akboylar :))))))))))
 bkz tayyibin kızını ertesi günü almaya yollaması
 bkz damat recebin kzını sikerken mal mal bakan gavat
+bkz tayyipin kızını sikerken gacır gucur sese çıkması
 bkz tayyipin amından ankesörlü telefonu çıkartıp gülen kız
 https://www.uludagsozluk.com/k/seks-yaparken-telefonda-babas%C4%B1yla-konu%C5%9Fan-k%C4%B1z/
 bkz telefonu amına sokup babasını arayan kız
