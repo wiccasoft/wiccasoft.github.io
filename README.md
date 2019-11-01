@@ -12,8 +12,6 @@ bkz kylie jennerin babası cinsiyet değiştirdi
 bkz selin ciğercinin erkek hali kızları hoplattı (tıkla galeri açılsın)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
-https://www.uludagsozluk.com/k/rte-feto-su%C3%A7suzdur-dese-feto-ya-tapacak-milyonlar/&w=bg adam haklı beyler
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
 bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istemem hareketi
 bkz rte nin sayın perez siz madalya vermeyi iyi bilirsiniz diyip ayarı gömmesi
 https://odatv.com/dunya-imamoglunu-boyle-gordu-03041954.html
