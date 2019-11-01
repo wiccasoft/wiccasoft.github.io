@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
 bkz uludaki akboyların fena azdırması 
-bkz sen daha çok yarrak kaldırırısın timat orospusu hadi başka kapıya
+bkz sen daha çok rte yarrağı kaldırırısın timat orospusu hadi başka kapıya
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 bkz götünü saraya siktirip aç kalan köpekler bugün imamaoglanın göt kıllarını yalayıp yarrak kaldırır
 https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bkraz la gelsinler ibneler 
