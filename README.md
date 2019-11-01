@@ -7,8 +7,6 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
-bkz tiamat azdırdı yine beni kalktı walla
-bkz uludaki akboyların fena azdırması 
 bkz akboylara sarayı tarif edip topkek almaya yollamak
 bkz imamaoğlanın attığı akboylar göt kılım olabilir tweeti
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-h%C3%BClo%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/ bkz adam haklı beyler
@@ -20,16 +18,13 @@ https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-imam-hatipli/&
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
-https://www.uludagsozluk.com/k/ekremim/ bkz timat orospusu
+https://www.uludagsozluk.com/k/ekremim/ bkz timat
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
-https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la gelsin ibneler 
-bkz zall bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
-bkz hoşlandığım akboyları görünce malafatın dimdik olması üçüne de yarrak emdirmek
-bkz akboyları imamaoğluyum diye kandırığ malafatı kaldırtmak oyşşş
+https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la azdırıyolar 
 https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 https://www.uludagsozluk.com/e/42359960/ bkz aklgbt tayfası asdasdasdad
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşşşşş göt deliğini dille la akboy
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşşşşş göt deliğini dilleyecen
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşş o deliğine dil atacan kankağğ
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/ bkz hani imamoğlan yok burada oç 
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-mu-%C3%A7ok-seviyorsun-baban%C4%B1-m%C4%B1-anketi/
