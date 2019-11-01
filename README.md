@@ -6,11 +6,10 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
+bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
 bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
-bkz feridun abüü acun abü kukoldmu olüğ şüncü
-bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
 bkz ünlü sanatçının bir de annesine bakın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
@@ -21,6 +20,7 @@ https://www.uludagsozluk.com/k/bel-f%C4%B1t%C4%B1%C4%9F%C4%B1-olmas%C4%B1na-ra%C
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdu-nun-y%C4%B1k%C4%B1lmas%C4%B1/&w=bg bkz noldi renciniz soldi
 https://www.uludagsozluk.com/k/sihan%C4%B1n-vurdu%C4%9Fu-pkk-arabas%C4%B1/ https://www.youtube.com/watch?v=NXQJ9iR5BkA
 https://www.uludagsozluk.com/e/42356944/ https://www.youtube.com/watch?v=I5v0l1-DcC4
+bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz sad but true
