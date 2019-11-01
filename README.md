@@ -12,6 +12,7 @@ timat devam et pampa fena kaldırdın amk orospusu seni
 bkz uludaki akboyların fena azdırması 
 bkz hoşlandığım akboyu görünce malafatın dimdik olması
 bkz akboyları imamaoğluyum diye kandırığ malafatı kaldırtmak
+https://www.uludagsozluk.com/e/42359960/ bkz aklgbt tayfası asdasdasdad
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşşşşş göt deliğini dille la akboy
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşş o deliğine dil atacan kankağğ
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/ bkz hani imamoğlan yok burada oç 
