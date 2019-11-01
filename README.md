@@ -8,10 +8,9 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
-timat devam et pampa fena kaldırdın amk orospusu seni
 bkz uludaki akboyların fena azdırması 
 bkz zalla bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
-bkz hoşlandığım akboyu görünce malafatın dimdik olması
+bkz hoşlandığım akboyu görünce malafatın dimdik olması üçüne de yarrak emdirmek
 bkz akboyları imamaoğluyum diye kandırığ malafatı kaldırtmak oyşşş
 https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
