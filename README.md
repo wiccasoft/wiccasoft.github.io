@@ -10,8 +10,11 @@ bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
 timat devam et pampa fena kaldırdın amk orospusu seni
 bkz uludaki akboyların fena azdırması 
+bkz zalla bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
 bkz hoşlandığım akboyu görünce malafatın dimdik olması
 bkz akboyları imamaoğluyum diye kandırığ malafatı kaldırtmak oyşşş
+https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg
+https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 https://www.uludagsozluk.com/e/42359960/ bkz aklgbt tayfası asdasdasdad
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşşşşş göt deliğini dille la akboy
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşş o deliğine dil atacan kankağğ
