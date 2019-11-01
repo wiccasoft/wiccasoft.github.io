@@ -9,7 +9,8 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
 bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
-bkz kukold kategörüğü izlerkenü babanın odaya girip dövmesi
+bkz kukold kategörüğ izlerkenü babanın odaya girip dövmesi
+bkz kadıköye sidiciye gidip kukold kategörüğ varmı abü demek
 https://www.uludagsozluk.com/k/yatakta-bo%C4%9Fa-gibiyim-diyen-erkek/ bkz cuckold
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu kaşınan yaşlı erkek
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdu-nun-y%C4%B1k%C4%B1lmas%C4%B1/&w=bg bkz noldi renciniz soldi
