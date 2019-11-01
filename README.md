@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-mu-%C3%A7ok-seviyorsun-baban%C4%B1-m%C4%B1-anketi/
 https://www.uludagsozluk.com/k/ekonomi-k%C3%B6t%C3%BC-ekremin-bisikleti-iyi/&w=bg bkz ekonomi bakanı imamoğlan
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlu köfte vs imamoglu soft
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz herşey çok güzel zaten
