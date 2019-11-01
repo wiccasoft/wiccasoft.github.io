@@ -14,6 +14,7 @@ bkz kadıköye sidiciye gidip kukold kategörüğ varmı abü demek
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 https://www.youtube.com/watch?v=r-Qp9CWaba4 
+https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1ls%C4%B1n/ (bkz https://www.youtube.com/watch?v=IDorzR_KrAs)
 https://www.uludagsozluk.com/k/metroda-ba%C4%9F%C4%B1ra-ba%C4%9F%C4%B1ra-ilah%C4%B1-okuyan-yobaz/ bkz kukoldları kızdırmak
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ bkz shiningteki baba
 https://www.uludagsozluk.com/k/bel-f%C4%B1t%C4%B1%C4%9F%C4%B1-olmas%C4%B1na-ra%C4%9Fmen-5-posta-atabilen-erkek/ lol
