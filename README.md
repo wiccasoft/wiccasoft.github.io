@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
-bkz 2 kasım emre morun yine yürümesi
+bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 https://www.uludagsozluk.com/k/tek-kur%C5%9Fun-atmadan-ingizleri-yenmek/ bkz tıklağ beğ kankağ tek click atacağn la
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz tıklağ be kankağ ne kaybedeğn
