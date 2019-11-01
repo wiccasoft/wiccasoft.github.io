@@ -15,33 +15,26 @@ ttps://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ bkz tiamata benzi
 bkz topkek yerken akla gelen burcu esmersoy bülent sarısoy zıtlıkarı mı ima ediyorlar düşüncesi
 https://www.uludagsozluk.com/k/2019-y%C4%B1l%C4%B1nda-hala-instagram-kullanmayan-insan/ bkz telefonu olmayan ezik
 bkz feridun abüü acun abü kukoldmu olüğ şüncüü diyen akboyun azına vurup topkek almaya yollamak
-bkz o değil de 'fatih tezcan analiz merkezi'nin global marka olma yolunda ilerlemesi (bkz ftam) akboylar sayesinde
+bkz o değil de 'fatih tezcan analiz merkezi'nin global marka olma yolunda ilerlemesi (bkz ftam) 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-h%C3%BClo%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/ bkz adam haklı beyler
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-adam-gibi-adam-olmas%C4%B1/ bkz adam haklı beyler
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/ bkz hani oç imamaoğlan yok burda
-bkz rte nin tiamat cicişvolkan zallbanahepoç derin alnını öpüp kukuld madalyası takması
 bkz akboyların ibb.gov.tr i hackleyip imamağlanın göt kılını çalmaları 
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-imam-hatipli/&w=bg bkz imamoğlan
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
-https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
 https://www.uludagsozluk.com/k/ekremim/ bkz timat
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la azdırıyolar 
-https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg bkz göt deliğini dillerken  iyidi ama
+https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg bkz göt deliğini dillerken iyidi ama
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 https://www.uludagsozluk.com/e/42359960/ bkz aklgbt tayfası asdasdasdad
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşşşşş göt deliğini dilleyecen
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşş o deliğine dil atacan kankağğ
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/ bkz hani imamoğlan yok burada oç 
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-mu-%C3%A7ok-seviyorsun-baban%C4%B1-m%C4%B1-anketi/
 https://www.uludagsozluk.com/k/ekonomi-k%C3%B6t%C3%BC-ekremin-bisikleti-iyi/&w=bg bkz ekonomi bakanı imamoğlan
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlu köfte vs imamoglu soft
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bkz herşey çok güzel zaten
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nu-babas%C4%B1ndan-daha-%C3%A7ok-seven-tip/&w=bg 
-bkz babam öldüğü için annem biraz yalnız kaldı annemin üstünde yakaladansa orospuluk anamdadır
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nu-babas%C4%B1ndan-daha-%C3%A7ok-seven-tip/&w=bg anamı sik ekrem abi
-https://www.uludagsozluk.com/k/ecevitin-az-yakan-torosu-vs-ekremin-bisikleti/ bence tıklama almaz sen yine de dene
 https://www.uludagsozluk.com/k/her%C5%9Feyin-ekrem-i%C3%A7in-g%C3%BCzel-olmas%C4%B1/ bkz herşey çok güzel zaten
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-imamo%C4%9Flu-m%C3%BCritleri/&w=bg bkz zallbanahepoçder
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-az-yakan-bisikleti/ bkz yine tüpe sokuyodun kardeş
@@ -49,24 +42,6 @@ https://www.uludagsozluk.com/k/hepimiz-hrant-%C4%B1z-hepimiz-ermeni-yiz/&w=bg bk
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz efsane üçlü
 https://www.uludagsozluk.com/k/andres-iniesta/&w=bg bkz efsane futbolcu evet
 https://www.uludagsozluk.com/k/zengin-koca-arayan-k%C4%B1z/ bkz search zengin torunu matched hakan sabancı
-https://www.uludagsozluk.com/k/hepimiz-ermeniyiz/&w=bg bkz kamalcı köpekler
-bkz imamaoğlu anamın üstünde yakalanda orospuluk anamdadır
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nu-babas%C4%B1ndan-daha-%C3%A7ok-seven-tip/&w=bg
-bkz ülkücülerin hoplattığı kansız kamalcı köpekler
-https://www.youtube.com/watch?v=hvWg_vmFuDI
-bkz abdulmecid hanın köpek soyu kamalcılara verdiği efsane ayar
-https://www.youtube.com/watch?v=A84YbHLhcjs
-bkz Sevr bir paçavradır, bunu hiçbir kuvvet değiştiremez! - Vatanım Sensin 41. Bölüm
-https://www.youtube.com/watch?v=Yo-ZAr9zEHc
-https://www.uludagsozluk.com/k/padi%C5%9Fah-vahdeddin/&w=bg bkz vatanım sensin serv sahnesi
-https://www.uludagsozluk.com/k/sevgilisine-kitap-hediye-eden-salak/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/&w=gd bkz bunlar babadan oğla nesil heralde oçları
-https://www.uludagsozluk.com/k/berkin-elvan-devrim-%C5%9Fehitidir/&w=bg bkz burası karşır beyler ülkücü çağırıyorum ocaktan
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-denince-akla-gelenler/&w=bg bkz türk oğlu türk
-https://www.uludagsozluk.com/k/vallahi-yavuz-sultan-selim-i-%C3%B6zledik/&w=bg
-https://www.uludagsozluk.com/k/y%C3%BCr%C3%BCtmeyi-durdurma-davas%C4%B1nda-red-karar%C4%B1na-itiraz/&w=bg 
-https://www.uludagsozluk.com/k/turist-kad%C4%B1n%C4%B1n-istanbulda-adres-sordu%C4%9Fu-garip-adam/ bkz tıklama korkunçlu adam
-bkz payitaht abdulmecid yayında https://www.youtube.com/watch?v=JVnh7eD-23c
 https://www.facebook.com/UlkuOcaklariEKV/videos/%C3%BClk%C3%BCc%C3%BC-yemini-sevda-ku%C5%9Fun-kanad%C4%B1nda/601162903415939/ facebook sayfamızı beğenmeyi unutmayın
 bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
 bkz ünlü sanatçının bir de annesine bakın
