@@ -10,7 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi
 bkz tek click bait atmadan tıklağ be kankağ ne kaybedeğn 
 bkz yakışıklı fitbolcu kızların yüreğini hoplattı tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
-bkz yahalarsam tıh tıh
+bkz yahalarsam tıh tıh internet reklam hizmetleri
 bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
 bkz güzel mankenin yürek hoplatan plaj görüntüleri (tıklağ gözün gönlüğn açılsın kankağ hadi bee be kankağ )
 bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ tıklağ lan nolcak)
