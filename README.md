@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
 bkz bakire kız isteyen eykek yavşaklığı 
+bkz seksten sonra ağlamaklı bakıp hadi bi daha seks yapalım diyen kız
 bkz amcaoğluyla seks yaptıktan sonra gülen kız
 bkz o kadar bakire kızı nabacan olm
 bkz telefonda seks yaparken amcaoğluna götüme sok diyen kız
