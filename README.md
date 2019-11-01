@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
 bkz bakire kız isteyen eykek yavşaklığı 
 bkz o kadar bakire kızı nabacan olm
+bkz babişko telefonda anişko seksişko diyen kız
 bkz bal dudaktan tatmnaya 40 bakire yarmaya geldim
 bkz telefonda babişko seks yapişko diyen kız
 bkz babişko ben seni seks bitince arim diyen kız
