@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
+bkz sayıştayın yargıtaya sen hayırdır demesi
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz deep webte devletçilik oynayan fakirlerin komik hali
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg bkz halkın vergisiyle trollük yapan gay amca
