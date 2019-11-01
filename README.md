@@ -10,6 +10,7 @@ bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
 bkz kylie jennerin babası cinsiyet değiştirdi
 bkz seni ambulmecid bin muttap yalnızlığında bırakmayacağız reis
+https://www.uludagsozluk.com/k/2019-t%C3%BCrkiyesinden-a%C5%9F%C4%B1r%C4%B1-rahats%C4%B1z-edici-g%C3%B6r%C3%BCnt%C3%BC/&w=bg (bkz ümmetin göğsünü kabartan görüntüler ümmet diriliyo reis osmanlı dönüyor)
 bkz vahdettin abdul bin muttap haindi diyen aktrollere verdiğim tokat gibi cevap
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg (bir olacaz iri olacaz diri olacaz)
 bir olacaz iri olacaz diri olacaz 
