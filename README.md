@@ -15,7 +15,7 @@ bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 bkz annesini siken adama baba diyen alagavat
 bkz cuckold categerüğ 
-bkz aleyna tilkiyi sarışın sanan ergen hayranları
+bkz aleyna tilki bar çıkışı sevenlerini şoka soktu
 bkz ünlü sanatçının bir de annesine bakın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 bkz götün yiyosa gelsene güngörene
