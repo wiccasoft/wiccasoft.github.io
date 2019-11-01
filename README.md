@@ -18,15 +18,11 @@ https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1
 https://www.uludagsozluk.com/k/metroda-ba%C4%9F%C4%B1ra-ba%C4%9F%C4%B1ra-ilah%C4%B1-okuyan-yobaz/ bkz kukoldları kızdırmak
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ bkz shiningteki baba
 https://www.uludagsozluk.com/k/bel-f%C4%B1t%C4%B1%C4%9F%C4%B1-olmas%C4%B1na-ra%C4%9Fmen-5-posta-atabilen-erkek/ lol
-https://www.uludagsozluk.com/k/yatakta-bo%C4%9Fa-gibiyim-diyen-erkek/ bkz cuckold
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu kaşınan yaşlı erkek
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdu-nun-y%C4%B1k%C4%B1lmas%C4%B1/&w=bg bkz noldi renciniz soldi
-https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz başrolünde liselinin olduğu liselilerin bayıldığı dizi
 https://www.uludagsozluk.com/k/sihan%C4%B1n-vurdu%C4%9Fu-pkk-arabas%C4%B1/ https://www.youtube.com/watch?v=NXQJ9iR5BkA
 https://www.uludagsozluk.com/e/42356944/ https://www.youtube.com/watch?v=I5v0l1-DcC4
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
-https://www.uludagsozluk.com/k/evinde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkekler/&w=bg (bkz vurduruyorlardır)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz sad but true
 -->
 
