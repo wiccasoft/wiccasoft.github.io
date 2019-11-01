@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz hala adıma başlık açılmamış olması (gözleri üzgün bakan surat emojisi)
+https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
 ttps://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ bkz tiamata benziyo lan
 bkz topkek yerken akla gelen burcu esmersoy bülent sarısoy zıtlıkarı mı ima ediyorlar düşüncesi
 https://www.uludagsozluk.com/k/2019-y%C4%B1l%C4%B1nda-hala-instagram-kullanmayan-insan/ bkz telefonu olmayan ezik
