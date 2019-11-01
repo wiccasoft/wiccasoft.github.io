@@ -6,6 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
+bkz recebin kızını orkid almaya yollaması
 bkz damat recebin kzını sikerken mal mal bakan gavat
 bkz rte ye rece tay yi er do van diyen kız
 bkz amından ankesörlü telefonu çıkartıp gülen kız
