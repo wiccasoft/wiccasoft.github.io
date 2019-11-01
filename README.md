@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
-bkz beratın amazondan spiariş ettiği penis yüzüğünün 45 dolar olması
+bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz kukold categerüğ hastası küçük pipili cicişfolkan seni götünde kazı yaparım googledan bulamazlar 
 babasını götünden siktiğimin evlatları tayoşunuzu sikerim babanızı da tayyoşunu da alın gidin lan 
