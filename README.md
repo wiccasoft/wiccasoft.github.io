@@ -10,6 +10,8 @@ bkz annesini siken adama baba diyen gavatlar
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/
 bkz wallahi yavuz sultan selimi özlemişek
 bkz kylie jennerin babası cinsiyet değiştirdi
+bkz ferdi tayfur un son hali görenleri şaşırttı
+bkz selin ciğerci magazincilere ateş püskürdü
 bkz daracında üç fidan dinleyen türk solcusu
 bkz seni sultan vahdettin yalnızlığında bırakmayacağız reis
 bkz patlak kızların suda çıkardığı ses
