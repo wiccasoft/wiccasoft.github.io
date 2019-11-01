@@ -52,8 +52,6 @@ https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz efsane üçlü
 https://www.uludagsozluk.com/k/andres-iniesta/&w=bg bkz efsane futbolcu evet
 https://www.uludagsozluk.com/k/zengin-koca-arayan-k%C4%B1z/ bkz search zengin torunu matched hakan sabancı
 https://www.facebook.com/UlkuOcaklariEKV/videos/%C3%BClk%C3%BCc%C3%BC-yemini-sevda-ku%C5%9Fun-kanad%C4%B1nda/601162903415939/ facebook sayfamızı beğenmeyi unutmayın
-bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
-bkz ünlü sanatçının bir de annesine bakın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1ls%C4%B1n/ (bkz https://www.youtube.com/watch?v=IDorzR_KrAs)
 https://www.uludagsozluk.com/k/padi%C5%9Fah-vahdeddin/&w=bg bkz vah vah vah
