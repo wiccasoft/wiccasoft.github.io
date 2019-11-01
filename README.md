@@ -17,6 +17,8 @@ bkz annesini siken adama baba diyen alagavat
 bkz hayallerde yaşıyor bazı ibneler
 bkz aleyna tilkinin silikon dudakları vs tom hardy ile bir gece
 bkz aleyna tilkiyi sarışın sanan ergen hayranları
+bkz götün yiyosa gelsene güngörene
+https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/
 bkz 1 milyon dolar verseler götünü siktirirmisinci ergenler lan sizin iğrenç götünüzü kim siksin 
 https://www.uludagsozluk.com/k/1-milyon-dolar-i%C3%A7in-dilek-%C3%B6calan-la-sevi%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/lehim-yapabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
