@@ -12,7 +12,8 @@ bkz kylie jennerin babası cinsiyet değiştirdi
 bkz daracında üç fidan dinleyen türk solcusu
 bkz kürdistan dağlarında çiçekler açağı günleri yaklaşması
 bkz kürdistan eyaleti istiyoruz kampanyası
-batı laiklerin olsun orta müslümlerin doğuda kürdistanımın üç çzigli de bayrak yaparız miss rte sunayım bu teklifi
+batı laiklerin olsun orta müslümlerin doğuda kürdistanımın üç çzigli de bayrak yaparız miss 
+bkz anadolu federe cumhuriyeti 3 eyalet sistemi gelirken mal mal bakan kamalcılar
 https://www.uludagsozluk.com/k/ertu%C4%9Frul-k%C3%BCrk%C3%A7%C3%BC/&w=bg (bkz tuncelili hemşom)
 (bkz kürtçe bilen kızların güzelliği)
 https://www.uludagsozluk.com/k/k%C3%BCrt-k%C4%B1zlar%C4%B1n%C4%B1n-ba%C5%9F-d%C3%B6nd%C3%BCren-g%C3%BCzelli%C4%9Fi/
