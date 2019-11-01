@@ -13,12 +13,8 @@ bkz kukold kategörüğ izlerkenü babanın odaya girip dövmesi
 bkz kadıköye sidiciye gidip kukold kategörüğ varmı abü demek
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
-bkz annesini siken adama baba diyen alagavat
-bkz cuckold categerüğ 
 bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
 bkz ünlü sanatçının bir de annesine bakın
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
-bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1ls%C4%B1n/ (bkz https://www.youtube.com/watch?v=IDorzR_KrAs)
 https://www.uludagsozluk.com/k/metroda-ba%C4%9F%C4%B1ra-ba%C4%9F%C4%B1ra-ilah%C4%B1-okuyan-yobaz/ bkz kukoldları kızdırmak
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ bkz shiningteki baba
