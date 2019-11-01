@@ -10,6 +10,7 @@ bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz sayıştayın yargıtaya sen hayırdır demesi
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
+bkz idari mahkemenin sen ne yasın ulen demesi süleyman çakır mod on beyler
 bkz deep webte devletçilik oynayan fakirlerin komik hali
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg bkz halkın vergisiyle trollük yapan gay amca
 bkz millet sigara içki içmese aç kalacak aktroller namı diğer kukoldlar
