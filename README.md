@@ -23,7 +23,7 @@ bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
-bkz volkan kurtuluşta bir abin var
+bkz volkan kurtuluşta bir abin var https://www.youtube.com/watch?v=Nthf9n9IGPk
 https://www.youtube.com/watch?v=NXQJ9iR5BkA (bkz arkadan vurdun mu önden sallanacak aga)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz tarık
 -->
