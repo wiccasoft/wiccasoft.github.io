@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ bkz tiamata benziyo lan
+https://www.uludagsozluk.com/k/2019-y%C4%B1l%C4%B1nda-hala-instagram-kullanmayan-insan/ bkz telefonu olmayan ezik
 bkz feridun abüü acun abü kukoldmu olüğ şüncüü diyen akboyun azına vurup topkek almaya yollamak
 bkz o değil de 'fatih tezcan analiz merkezi'nin global marka olma yolunda ilerlemesi (bkz ftam) akboylar sayesinde
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-h%C3%BClo%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/ bkz adam haklı beyler
