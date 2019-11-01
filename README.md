@@ -13,6 +13,8 @@ bkz deep webte devletçilik oynayan fakirlerin komik hali
 bkz millet sigara içki içmese aç kalacak aktroller namı diğer kukoldlar
 bkz diyanetin 10 milyar tl yi fakir akboyların götünden alması süper keyifli olay
 bkz diyanetin fakir akbyoları sşiz hayırdır deyip geçirmesi
+bkz rte nin halkın oparasını aktrollere harcamasının sebebi
+https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/
 bkz idari mahkemenin boru gibi geçirmesi öööööhyt süleyman çakır mod on devlet başa kuzgun leşe
 bkz deep webte aktrol maaşıyla makarnasını yiyip devlet başa kzugun leşecilik oynayan vasıfsızlar
 bkz erdogan isveç bakasındaki trilyonlarını sayarken makarna yiyip imamaoglan a laflar hazırlayan akboylar :)))))
