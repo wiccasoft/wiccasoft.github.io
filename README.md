@@ -15,6 +15,7 @@ bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 bkz annesini siken adama baba diyen alagavat
 bkz kızını başka erkeğe siktirecek kadar gavat olmak bkz türkiyedeki çarpık ilişkiler
+https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz ağır gavaT
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz erkek hali uluculara benzeyen kız
 https://www.youtube.com/watch?v=r-Qp9CWaba4 
 https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1ls%C4%B1n/ (bkz https://www.youtube.com/watch?v=IDorzR_KrAs)
