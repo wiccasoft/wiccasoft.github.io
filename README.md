@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
 bkz uludaki akboyların fena azdırması 
+bkz götünü saraya siktirip aç kalan köpekler bugün imamaoglanın göt kıllarını yalayıp yarrak kaldırır
 https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bkraz la gelsinler ibneler 
 bkz zalla bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
 bkz hoşlandığım akboyu görünce malafatın dimdik olması üçüne de yarrak emdirmek
