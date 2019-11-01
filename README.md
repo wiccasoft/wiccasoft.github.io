@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
 bkz kylie jennerin babası cinsiyet değiştirdi
-bkz selin ciğercinin erkek hali kızları hoplattı (tıkla galeri açılsın)
+bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
 bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istemem hareketi
