@@ -21,7 +21,7 @@ https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w
 https://www.uludagsozluk.com/k/ekremim/ bkz timat
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la azdırıyolar 
-https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg
+https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg bkz göt deliğini dillerken  iyidi ama
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 https://www.uludagsozluk.com/e/42359960/ bkz aklgbt tayfası asdasdasdad
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşşşşş göt deliğini dilleyecen
