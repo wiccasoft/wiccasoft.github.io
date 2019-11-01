@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
 bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
+https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular lol
 -->
 
