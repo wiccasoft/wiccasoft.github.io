@@ -19,6 +19,7 @@ bkz aleyna tilkinin silikon dudakları vs tom hardy ile bir gece
 bkz cuckold categerüğ 
 bkz aleyna tilkiyi sarışın sanan ergen hayranları
 bkz ünlü sanatçının bir de annesine bakın
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/
 bkz 1 milyon dolar verseler götünü siktirirmisinci ergenler lan sizin iğrenç götünüzü kim siksin 
