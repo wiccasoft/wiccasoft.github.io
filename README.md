@@ -27,7 +27,7 @@ https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son -->
-[![Image](smartdata/immabee.png)]( https://www.youtube.com/watch?v=kdAj-dBNCi4 )
+<!--[![Image](smartdata/immabee.png)]( https://www.youtube.com/watch?v=kdAj-dBNCi4 )-->
 
 [![Image](smartdata/oneandonly.png)]( https://www.youtube.com/watch?v=y3RIHnK0_NE&t=0s )
 
