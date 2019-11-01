@@ -10,6 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi
 bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ tıklağ lan nolcak)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
+bkz emre mor magazincilere ateş püskürdü işte o görüntüler
 bkz kukold diyince akla gelen ilk isim (bkz kukold yani kukusu olmayan yaşlı)
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
