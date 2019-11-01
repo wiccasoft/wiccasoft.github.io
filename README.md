@@ -10,6 +10,7 @@ bkz hala adıma başlık açılmamış olması (gözleri uzaklara bakan üzgün 
 bkz gökdeleninin tepesinde uzaklara bakıp acaba fatih tezcan napıyordur diye düşünmek
 bkz geçen gün kamyon sürdüm leonarda da vinci (anladın mı espriyi el hareketi)
 bkz ekrem alınca pc nin hala kasması (nasıl espri) 
+bkz ferdi tayfur un son hali görenleri şaırttı
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
 https://www.uludagsozluk.com/k/rte-feto-su%C3%A7suzdur-dese-feto-ya-tapacak-milyonlar/&w=bg adam haklı beyler
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
