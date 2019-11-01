@@ -13,6 +13,7 @@ bkz kukold kategörüğ izlerkenü babanın odaya girip dövmesi
 bkz kadıköye sidiciye gidip kukold kategörüğ varmı abü demek
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
+bkz annesini siken adama baba diyen gavat
 https://www.youtube.com/watch?v=r-Qp9CWaba4 
 https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1ls%C4%B1n/ (bkz https://www.youtube.com/watch?v=IDorzR_KrAs)
 https://www.uludagsozluk.com/k/metroda-ba%C4%9F%C4%B1ra-ba%C4%9F%C4%B1ra-ilah%C4%B1-okuyan-yobaz/ bkz kukoldları kızdırmak
