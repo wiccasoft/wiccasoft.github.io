@@ -10,7 +10,8 @@ bkz hala adıma başlık açılmamış olması (gözleri uzaklara bakan üzgün 
 bkz gökdeleninin tepesinde uzaklara bakıp acaba fatih tezcan napıyordur diye düşünmek
 bkz geçen gün kamyon sürdüm leonarda da vinci (anladın mı espriyi el hareketi)
 bkz ekrem alınca pc nin hala kasması (nasıl espri) 
-bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istememe hareketi
+bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istemem hareketi
+bkz rte nin sayın perez siz madalya vermeyi iyi bilirsiniz diyip ayarı gömmesi
 https://www.uludagsozluk.com/k/rte-nin-davosa-g%C3%B6md%C3%BC%C4%9F%C3%BC-yahudi-madalyas%C4%B1/ bkz dünya lideri
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-imam-hatipli/ bkz imamhatipoğlan
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
