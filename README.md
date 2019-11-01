@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
+nkz 2 kasım padişah vahdettinin kaçması
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 bkz kukold diyince akla gelen ilk isim (bkz kukold yani kukusu olmayan yaşlı)
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
