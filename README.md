@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz payitaht abdulmecid yayında https://www.youtube.com/watch?v=JVnh7eD-23c
+bkz süpriz vatansever dizi yayında https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
 bkz ünlü sanatçının bir de annesine bakın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
