@@ -6,19 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
-bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
 bkz telefonu amına sokup babasını arayan kız
-bkz seks yaptıktan sonra telfonu amına sokan kız
-bkz bakire kız isteyen eykek yavşaklığı 
-bkz seksten sonra ağlamaklı bakıp hadi bi daha seks yapalım diyen kız
-bkz amcaoğluyla seks yaptıktan sonra gülen kız
-bkz o kadar bakire kızı nabacan olm
-bkz telefonda seks yaparken amcaoğluna götüme sok diyen kız
-bkz babişko telefonda anişko seksişko diyen kız
-bkz bal dudaktan tatmnaya 40 bakire yarmaya geldim
-bkz telefonda babişko seks yapişko diyen kız
-bkz babişko ben seni seks bitince arim diyen kız
-bkz babişko telefonda seks yapıyorum diyen kız
 bkz babişko sen de anişkoyu seks yapıyon diyen kız
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg (bkz sözlüğün ağır gay amcası)
 bkz seks yaparken babişko götüme goyyiler diyen kız
