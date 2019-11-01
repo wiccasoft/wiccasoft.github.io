@@ -14,6 +14,7 @@ bkz verdiği vergilerle devletyçilik oynayan fakirler
 bkz diyanetin 10 milyar tl yi fakir akboyların götünden alması süper keyifli olay
 bkz diyanetin fakir akbyoları sşiz hayırdır deyip geçirmesi
 bkz idari mahkemenin boru gibi geçirmesi öööööhy devlet başa kuzgun leşe
+bkz erdoganin isveç bakasındaki trilyonlarını sayarken makarna yiyp imamaoğluna atarlana akboylar
 https://www.uludagsozluk.com/k/idare-mahkemesinin-imamo%C4%9Fluna-sen-hay%C4%B1rd%C4%B1r-demesi/ offfff off boru gibi
 bkz kukold categerüğ hastası küçük pipili cicişfolkan seni götünde kazı yaparım googledan bulamazlar 
 babasını götünden siktiğimin evlatları tayoşunuzu sikerim babanızı da tayyoşunu da alın gidin lan 
