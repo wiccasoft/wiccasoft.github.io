@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
 https://www.uludagsozluk.com/k/ekremim/ bkz timat orospusu
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
-https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la gelsinler ibneler 
+https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la gelsin ibneler 
 bkz zall bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
 bkz hoşlandığım akboyları görünce malafatın dimdik olması üçüne de yarrak emdirmek
 bkz akboyları imamaoğluyum diye kandırığ malafatı kaldırtmak oyşşş
