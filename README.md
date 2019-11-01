@@ -11,6 +11,7 @@ bkz tiamat azdırdı yine beni kalktı walla
 bkz uludaki akboyların fena azdırması 
 bkz akboylara sarayı tarif edip topkek almaya yollamak
 bkz imamaoğlanın attığı akboylar göt kılım olabilir tweeti
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-h%C3%BClo%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/ bkz adam haklı beyler
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-adam-gibi-adam-olmas%C4%B1/ bkz adam haklı beyler
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/ bkz hani oç imamaoğlan yok burda
 bkz rte nin tiamat cicişvolkan zallbanahepoç derin alnını öpüp kukuld madalyası takması
