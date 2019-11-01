@@ -8,7 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
-bkz ekremin tayyoşun trollerine sikerim idari mahkemenizi demesi bkz https://www.youtube.com/watch?v=224nx8msD8k
+bkz ekremin tayyoşun köpeklerine sikerim idari mahkemenizi demesi bkz https://www.youtube.com/watch?v=224nx8msD8k
 bkz ysk başkanının ali ihsan varola attığı sen hayırdır mümin kardeş bakışı
 bkz sayıştay başkanının danıştay başkanına kafa kesmiyorum racon kesiyorum bakışı
 bkz idari mahkemenin süleyman çakır moda bağlaması
