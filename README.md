@@ -8,7 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi
-bkz tek click bait atmadan tıklağ be kankağ ne kaybedeğn 
+bkz tek click bait atmadan tıklağ be kankağ ne kaybedeğn reklamcılık
 bkz yakışıklı fitbolcu kızların yüreğini hoplattı tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
 bkz yahalarsam tıh tıh internet reklam hizmetleri
 bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
