@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz annesini siken adama baba diyen gavatlar
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/
+lan gerizekalı ibneler orada kadının ne işi var ben bile iğrendim amk
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-30-luk-teyze-kaynamas%C4%B1/&w=bg bkz 30 luk abilerinin gülleri
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-olup-ben-teyze-de%C4%9Filim-diyen-kad%C4%B1n/
 bkz sözlükteki 30 luk abilerinin keklediği ergenler
