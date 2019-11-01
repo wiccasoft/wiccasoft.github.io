@@ -15,7 +15,7 @@ bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 bkz annesini siken adama baba diyen alagavat
 bkz hayallerde yaşıyor bazı ibneler
-bkz aleyna tilkinin silkon dudakları vs tom hardy ile bir gece
+bkz aleyna tilkinin silikon dudakları vs tom hardy ile bir gece
 bkz aleyna tilkiyi sarışın sanan ergen hayranları
 bkz 1 milyon dolar verseler götünü siktirirmisinci ergenler 
 lan sizin iğrenç esmer kıllı götünüzü kim siksin 
