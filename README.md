@@ -11,7 +11,7 @@ bkz kukold categerüğ hastası küçük pipili cicişfolkan seni götünde kaz�
 babasını götünden siktiğimin evlatları tayoşunuzu sikerim babanızı da tayyoşunu da alın gidin lan 
 bkz tayyoşunun götüne korum lan uza diyince uludagsözlükte ağlayan ergenler
 bkz berat tayyipin kızına penis yüzüğü olan pipisini sokarkene kuduran akboylar :))))))))))
-bkz tayyibin kızını ertesi günü almaya yollaması
+bkz gavat tayyibin kızını ertesi günü almaya yollaması
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-ak-parti-destek%C3%A7ileri/&w=bg (bkz cuckoldcular)
 https://www.uludagsozluk.com/k/cuckold/&w=bg (bkz kukusu yaşlı)
 bkz damat recebin kzını sikerken mal mal bakan gavat
