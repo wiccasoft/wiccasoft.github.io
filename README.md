@@ -14,7 +14,7 @@ bkz kadıköye sidiciye gidip kukold kategörüğ varmı abü demek
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 bkz annesini siken adama baba diyen alagavat
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz ciğerci ailesindeki çarpık genler
+https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz  erkek halini görünce kusma hissi uyandıran tip
 bkz kızını başka erkeğe siktirecek kadar gavat olmak bkz türkiyedeki çarpık ilişkiler
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz ağır gavaT
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz erkek hali uluculara benzeyen trans
