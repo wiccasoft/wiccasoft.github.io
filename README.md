@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
+bkz telefonu amına sokup babasını arayan kız
 bkz seks yaptıktan sonra telfonu amına sokan kız
 bkz bakire kız isteyen eykek yavşaklığı 
 bkz seksten sonra ağlamaklı bakıp hadi bi daha seks yapalım diyen kız
