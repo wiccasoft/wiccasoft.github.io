@@ -18,6 +18,7 @@ bkz hayallerde yaşıyor bazı ibneler
 bkz aleyna tilkiyi sarışın sanan ergen hayranları
 https://www.uludagsozluk.com/k/1-milyon-dolar-i%C3%A7in-dilek-%C3%B6calan-la-sevi%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/lehim-yapabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
+https://www.uludagsozluk.com/k/trafo-sarabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/ bkz transeksüel tipli colombiyalı
 bkz kızını başka erkeğe siktirecek kadar gavat olmak bkz türkiyedeki çarpık ilişkiler
 https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz ağır gavaT
