@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
 bkz kylie jennerin babası cinsiyet değiştirdi
+https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg (bir olacaz iri olacaz diri olacaz)
 bir olacaz iri olacaz diri olacaz tek millet tek bayrak tek vatan
 https://www.uludagsozluk.com/k/sa%C4%9Fc%C4%B1lar%C4%B1n-becerdi%C4%9Fi-en-iyi-i%C5%9F/&w=bg (bkz üretememek)
 (bkz şakşakçılık)(bkz goygoyculuk)(bkz devletçilik)(bkz oramakoymaburmakoyculuk)
