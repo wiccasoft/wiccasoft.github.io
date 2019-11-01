@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
 https://www.uludagsozluk.com/k/t%C3%BCrk-k%C4%B1z%C4%B1/&w=bg bkz 40 tan skim olsa sokmam
 https://www.uludagsozluk.com/k/irem-derici-nin-g%C3%BCzelli%C4%9Fi/&w=bg bkz 40 tane skim olsa sokmam
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelenlerin-amca-ve-teyze-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz ski kalkmayan  kel veletlerin güldürmesi evet evlat
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1na-gelenlerin-amca-ve-teyze-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ bkz ski kalkmayan  kel veletlerin güldürmessi evet 41 yaşındayım güldürdün velet
 bkz annesini siken adama baba diyen gavatlar
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/
 lan gerizekalı ibneler orada kadının ne işi var ben bile iğrendim amk
