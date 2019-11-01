@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-imamo%C4%9Flu-m%C3%BCritleri/&w=bg bkz tiamat payback
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-az-yakan-bisikleti/ bkz yine tüpe sokuyodun kardeş
 https://www.uludagsozluk.com/k/hepimiz-hrant-%C4%B1z-hepimiz-ermeni-yiz/&w=bg bkz peki
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz efsane üçlü
