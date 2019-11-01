@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi
+bkz güzel mankenin yürek hoplatan plaj görüntüleri (tıklağ gözün gönlüğn açılsın kakağ hadi bee be kanka)
 bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ tıklağ lan nolcak)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 bkz mucize ilaçla tam 40 kilo verdi
