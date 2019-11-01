@@ -9,12 +9,9 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz ekremin tayyoşun itlerine sikerim idari mahkemenizi demesi bkz https://www.youtube.com/watch?v=224nx8msD8k
-bkz ekremin süleyamn çakır moduna bağlaması
 bkz ysk başkanının ali ihsan varola attığı sen hayırdır mümin kardeş bakışı
 bkz sayıştay başkanının danıştay başkanına kafa kesmiyorum racon kesiyorum bakışı
-bkz idari mahkemenin süleyman çakır moda bağlaması
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
-bkz idari mahkemenin sen ne yasın ulen demesi süleyman çakır mod on beyler
 bkz deep webte devletçilik oynayan fakirlerin komik hali
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg bkz halkın vergisiyle trollük yapan gay amca
 bkz millet sigara içki içmese aç kalacak aktroller namı diğer kukoldlar
