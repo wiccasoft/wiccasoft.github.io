@@ -18,7 +18,7 @@ bkz hayallerde yaşıyor bazı ibneler
 bkz aleyna tilkiyi sarışın sanan ergen hayranları
 bkz 1 milyon dolar verseler götünü siktirirmisinci ergenler 
 lan sizin iğrenç götünüzü kim siksin 
-üstüne para verseniz sikmeme lan sizi
+üstüne para verseniz sikmezler lan sizi gidin bi aynaya bakın amk ergenleri
 https://www.uludagsozluk.com/k/1-milyon-dolar-i%C3%A7in-dilek-%C3%B6calan-la-sevi%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/lehim-yapabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
 https://www.uludagsozluk.com/k/trafo-sarabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
