@@ -14,16 +14,12 @@ bkz imamaoğlanın attığı akboylar göt kılım olabilir tweeti
 bkz akboyların ibb.gov.tr i hackleyip imamağlanın göt kılını çalmaları asdasdasasdasdassadas
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
-bkz akboyların imamoğlan imamaoğlannn diye yine azdırması
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
-lan orospu akboylar hadi sarayın kapsına kemiğiniz orda
 https://www.uludagsozluk.com/k/ekremim/ bkz timat orospusu
-bkz sen daha çok rte yarrağı kaldırırısın timat orospusu hadi başka kapıya
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
-bkz götünü saraya siktirip aç kalan köpekler bugün imamaoglanın göt kıllarını yalayıp yarrak kaldırır
-https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bkraz la gelsinler ibneler 
-bkz zalla bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
-bkz hoşlandığım akboyu görünce malafatın dimdik olması üçüne de yarrak emdirmek
+https://www.uludagsozluk.com/k/saray-k%C3%B6peklerinin-imamo%C4%9Flu-na-tap%C4%B1nma-muhabbeti/ bırak la gelsinler ibneler 
+bkz zall bana hep oç der tiamat ve cicişvolkanın yine azdırması orospular sizi
+bkz hoşlandığım akboyları görünce malafatın dimdik olması üçüne de yarrak emdirmek
 bkz akboyları imamaoğluyum diye kandırığ malafatı kaldırtmak oyşşş
 https://www.uludagsozluk.com/k/hazreti-imamo%C4%9Flu-radyallahu-anh/&w=bg
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
