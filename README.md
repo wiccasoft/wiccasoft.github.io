@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
-bkz deep türkish webte ülkcülük oynayan liseliler
+bkz ülkücülerin ülkeye faydası
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/&w=gd bkz bunlar babadan oğla nesil heralde oçları
 https://www.uludagsozluk.com/k/berkin-elvan-devrim-%C5%9Fehitidir/&w=bg bkz burası karşır beyler ülkücü çağırıyorum ocaktan
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-denince-akla-gelenler/&w=bg bkz türk oğlu türk
