@@ -8,7 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi
-bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör gözün gönlüğn açılsın be kankağ)
+bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
 bkz güzel mankenin yürek hoplatan plaj görüntüleri (tıklağ gözün gönlüğn açılsın kankağ hadi bee be kankağ )
 bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ tıklağ lan nolcak)
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
