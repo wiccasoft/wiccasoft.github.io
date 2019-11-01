@@ -8,6 +8,8 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz annesini siken adama baba diyen gavatlar
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-olup-ben-teyze-de%C4%9Filim-diyen-kad%C4%B1n/
+bkz sözlükteki 30 luk abilerinin keklediği ergenler
 bkz wallahi yavuz sultan selimi özlemişek
 bkz kylie jennerin babası cinsiyet değiştirdi
 bkz ferdi tayfur un son hali görenleri şaşırttı
