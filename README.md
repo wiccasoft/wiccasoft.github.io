@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
 bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz pipisi yaşlı seksi erkek
+https://www.uludagsozluk.com/k/cuckold/&w=bg bkz cuck ney lan
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdu-nun-y%C4%B1k%C4%B1lmas%C4%B1/&w=bg bkz noldi renciniz soldi
 https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz başrolünde liselinin olduğu liselilerin bayıldığı dizi
 https://www.uludagsozluk.com/k/sihan%C4%B1n-vurdu%C4%9Fu-pkk-arabas%C4%B1/ https://www.youtube.com/watch?v=NXQJ9iR5BkA
