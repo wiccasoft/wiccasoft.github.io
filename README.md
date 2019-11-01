@@ -10,7 +10,7 @@ bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
 bkz bakire kız isteyen eykek yavşaklığı 
 bkz o kadar bakire kızı nabacan olm
 bkz bal dudaktan tatmnaya 40 bakire yarmaya geldim
-https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg bkz sözlüğün ağır gay amcası
+https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg (bkz sözlüğün ağır gay amcası)
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-%C3%A7oluk-%C3%A7ocu%C4%9Fa-kalmas%C4%B1/&w=bg lol
 bbabam ölü aseksüelim telefonum yok açacağınız başlıklara kırk tane skim olsa sokmam gençler hadi eywolleee
 https://www.uludagsozluk.com/k/en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-devlet-lideri/&w=bg (bkz 40 tane skim olsa sokmam gençler)
