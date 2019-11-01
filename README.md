@@ -7,8 +7,6 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
-bkz seni abdulhamid yalnızlığında bırakmayacağız dedikleri adamın aktrolleri dolandırıp kaçması
-bkz ypgli teröriklerin infaz görüntüleri bak lan bak işte ne kaybedersin bak işte mağduruz ya 
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 bkz kukold diyince akla gelen ilk isim (bkz kukold yani kukusu olmayan yaşlı)
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
@@ -16,7 +14,7 @@ https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nes
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
 https://twitter.com/ak_lgbt?lang=en (bkz ampullu gökkuşağı hareketi)
 https://t24.com.tr/haber/ak-lgbti-kurucusu-meseli-hem-musluman-hem-escinsel-hem-de-akpli-olunca-insanlar-inanamiyor,301093
-bkz volkan kurtuluşta bir abin var o ypli infaz videoları izlerken sikiyorum o derece tatlı bi abim
+bkz volkan kurtuluşta bir abin var
 https://www.youtube.com/watch?v=NXQJ9iR5BkA (bkz arkadan vurdun mu önden sallanacak aga)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz sad but true
 -->
