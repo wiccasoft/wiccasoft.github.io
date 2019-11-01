@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
+https://www.uludagsozluk.com/k/idare-mahkemesinin-imamo%C4%9Fluna-sen-hay%C4%B1rd%C4%B1r-demesi/ offfff off boru gibi
 bkz kukold categerüğ hastası küçük pipili cicişfolkan seni götünde kazı yaparım googledan bulamazlar 
 babasını götünden siktiğimin evlatları tayoşunuzu sikerim babanızı da tayyoşunu da alın gidin lan 
 bkz tayyoşunun götüne korum lan uza diyince uludagsözlükte ağlayan ergenler
