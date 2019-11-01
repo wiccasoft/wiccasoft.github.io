@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz ülkücülerin hoplattığı kansız kamalcı köpekler
 https://www.youtube.com/watch?v=hvWg_vmFuDI
-bkz abulmecid hanın köpeklere verdiği efsane ayar
+bkz abdulmecid hanın köpek soyu kamalcılara verdiği efsane ayar
 https://www.youtube.com/watch?v=A84YbHLhcjs
 bkz Sevr bir paçavradır, bunu hiçbir kuvvet değiştiremez! - Vatanım Sensin 41. Bölüm
 https://www.youtube.com/watch?v=Yo-ZAr9zEHc
