@@ -11,7 +11,7 @@ bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
-https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular lol
+https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz sad but true
 -->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
