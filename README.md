@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz hala adıma başlık açılmamış olması (gözleri uzaklara bakan üzgün bakan surat emojisi)
 bkz gökdeleninin tepesinde uzaklara bakıp acaba fatih tezcan napıyordur diye düşünmek
 bkz geçen gün kamyon sürdüm leonarda da vinci (anladın mı espriyi el hareketi)
-bkz ekrem alınca pc nin hala kasması (nasıl espri) ben olsam ne espriler yapardım lan sözlükte
+bkz ekrem alınca pc nin hala kasması (nasıl espri) 
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
 ttps://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ bkz tiamata benziyo lan
 bkz topkek yerken akla gelen burcu esmersoy bülent sarısoy zıtlıkarı mı ima ediyorlar düşüncesi
