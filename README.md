@@ -7,11 +7,9 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz berat tayyipin kızına penis yüzüğü olan pipisini sokarkene kuduran akboylar :))))))))))
-bkz tayyipin kızını siktirecek kadar gavat olması
-bkz recebin kızını orkid almaya yollaması
+bkz tayyibin kızını ertesi günü almaya yollaması
 bkz damat recebin kzını sikerken mal mal bakan gavat
-bkz rte ye rece tay yi er do van diyen kız
-bkz amından ankesörlü telefonu çıkartıp gülen kız
+bkz tayyipin amından ankesörlü telefonu çıkartıp gülen kız
 https://www.uludagsozluk.com/k/seks-yaparken-telefonda-babas%C4%B1yla-konu%C5%9Fan-k%C4%B1z/
 bkz telefonu amına sokup babasını arayan kız
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg (bkz sözlüğün ağır gay amcası)
