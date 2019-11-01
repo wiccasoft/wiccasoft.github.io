@@ -16,7 +16,7 @@ bkz feridun abü chaturbate teki kızlar da mı kukold olüğğğ
 bkz annesini siken adama baba diyen alagavat
 bkz hayallerde yaşıyor bazı ibneler
 bkz aleyna tilkinin silikon dudakları vs tom hardy ile bir gece
-bkz cuckold categerüğ  adadasdasasasdasdas
+bkz cuckold categerüğ 
 bkz aleyna tilkiyi sarışın sanan ergen hayranları
 bkz götün yiyosa gelsene güngörene
 https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/
