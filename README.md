@@ -10,7 +10,7 @@ bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz deep webte devletçilik oynayan fakirlerin komik hali
-olm devlet çoktan öldü kimse siklemiyo lan millet sigara içki içmese aç kalırsınız amk salakrı yahu
+bkz millet sigara içki içmese aç kalacak akboylar namı diğer kukoldlar
 bkz diyanetin 10 milyar tl yi fakir akboyların götünden alması süper keyifli olay
 bkz diyanetin fakir akbyoları sşiz hayırdır deyip geçirmesi
 bkz idari mahkemenin boru gibi geçirmesi öööööhy devlet başa kuzgun leşe
