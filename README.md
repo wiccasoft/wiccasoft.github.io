@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
+bkz wallahi yavuz sultan selimi özlemişek
 bkz kylie jennerin babası cinsiyet değiştirdi
 bkz daracında üç fidan dinleyen türk solcusu
 bkz sein sultan vahdettin yalnızlığında bırakmayacağız reis
