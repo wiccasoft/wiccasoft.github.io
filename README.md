@@ -8,6 +8,8 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 https://www.uludagsozluk.com/k/hepimiz-ermeniyiz/&w=bg bkz kamalcı köpekler
+bkz imamaoğlu anamın üstünde yakalanda orospuluk anamdadır
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nu-babas%C4%B1ndan-daha-%C3%A7ok-seven-tip/&w=bg
 bkz ülkücülerin hoplattığı kansız kamalcı köpekler
 https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz abdulmecid hanın köpek soyu kamalcılara verdiği efsane ayar
