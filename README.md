@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz ülkücülerin ülkeye faydası
+Sevda Kuşun Kanadında 18.Bölüm - Bizi o kapı korumuyor, Allah koruyor! https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz Sevr bir paçavradır, bunu hiçbir kuvvet değiştiremez! - Vatanım Sensin 41. Bölüm
 https://www.youtube.com/watch?v=Yo-ZAr9zEHc
 https://www.uludagsozluk.com/k/padi%C5%9Fah-vahdeddin/&w=bg bkz vatanım sensin serv sahnesi
