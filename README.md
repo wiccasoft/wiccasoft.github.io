@@ -11,7 +11,7 @@ bkz selin ciğerci magazincilere ateş püskürdü
 bkz wallahi yavuz sultan selimi özlemişek
 bkz kylie jennerin babası cinsiyet değiştirdi
 bkz daracında üç fidan dinleyen türk solcusu
-bkz sein sultan vahdettin yalnızlığında bırakmayacağız reis
+bkz seni sultan vahdettin yalnızlığında bırakmayacağız reis
 bkz patlak kızların suda çıkardığı ses
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=gd
 bkz kürdistan dağlarında çiçekler açağı günleri yaklaşması
