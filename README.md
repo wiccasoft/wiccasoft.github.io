@@ -8,6 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz berat tayyipin kızına penis yüzüğü olan pipisini sokarkene kuduran akboylar :))))))))))
 bkz tayyibin kızını ertesi günü almaya yollaması
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-ak-parti-destek%C3%A7ileri/&w=bg (bkz cuckoldcular)
 https://www.uludagsozluk.com/k/cuckold/&w=bg (bkz kukusu yaşlı)
 bkz damat recebin kzını sikerken mal mal bakan gavat
 bkz tayyipin kızını sikerken gacır gucur sese çıkması
