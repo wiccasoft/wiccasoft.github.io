@@ -16,6 +16,7 @@ bkz anadolu federe cumhuriyeti 3 eyalet sistemi gelirken mal mal bakan kamalcıl
 https://www.uludagsozluk.com/k/k%C3%BCrt-k%C4%B1z%C4%B1-vs-t%C3%BCrk-k%C4%B1z%C4%B1/&w=bg
 (bkz patlak kızların bitmek bilmeyen zırvalamaları)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg 
+bkz kadınlı erkekli seks yapılan malum il
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ (bkz malum sapık zihniyet )
 bkz seni ambulmecid bin muttap yalnızlığında bırakmayacağız reis
 https://www.uludagsozluk.com/k/2019-t%C3%BCrkiyesinden-a%C5%9F%C4%B1r%C4%B1-rahats%C4%B1z-edici-g%C3%B6r%C3%BCnt%C3%BC/&w=bg (bkz ümmetin göğsünü kabartan görüntüler ümmet diriliyo reis osmanlı dönüyor)
