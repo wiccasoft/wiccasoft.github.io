@@ -19,14 +19,6 @@ bkz aleyna tilkiyi sarışın sanan ergen hayranları
 bkz ünlü sanatçının bir de annesine bakın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 bkz götün yiyosa gelsene güngörene
-https://www.uludagsozluk.com/k/vahdettin-in-%C3%BClkeden-ka%C3%A7t%C4%B1%C4%9F%C4%B1n%C4%B1-sanmak/
-https://www.uludagsozluk.com/k/lehim-yapabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
-https://www.uludagsozluk.com/k/trafo-sarabilen-k%C4%B1z/ bkz meslek liselilerin yine coşması
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/ bkz transeksüel tipli colombiyalı
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-babas%C4%B1/ bkz ağır gavaT
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz erkek hali uluculara benzeyen trans
-https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci/&w=bg bkz erkek halini görünce kusma hissi uyandıran tip
-https://www.youtube.com/watch?v=r-Qp9CWaba4 
 https://www.uludagsozluk.com/k/2023-te-b%C3%BCt%C3%BCn-imam-hatipler-kapat%C4%B1ls%C4%B1n/ (bkz https://www.youtube.com/watch?v=IDorzR_KrAs)
 https://www.uludagsozluk.com/k/metroda-ba%C4%9F%C4%B1ra-ba%C4%9F%C4%B1ra-ilah%C4%B1-okuyan-yobaz/ bkz kukoldları kızdırmak
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ bkz shiningteki baba
