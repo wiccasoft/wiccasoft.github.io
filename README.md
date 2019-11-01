@@ -7,9 +7,6 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
-bkz 2 kasım bernard redflag in her şey zaten çokomelli zaten tweeti
-bkz 3 kasım bernard redflag in şaka lan şaka tweeti
-bkz 4 kasım süleymancıların geri vitesi
 bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
 bkz ünlü sanatçının bir de annesine bakın
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
