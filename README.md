@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/k/sihan%C4%B1n-vurdu%C4%9Fu-pkk-arabas%C4%B1/ https
 https://www.uludagsozluk.com/e/42356944/ https://www.youtube.com/watch?v=I5v0l1-DcC4
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
+https://www.uludagsozluk.com/k/evinde-%C3%A7i%C3%A7ek-yeti%C5%9Ftiren-erkekler/&w=bg (bkz vurduruyorlardır)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz sad but true
 -->
 
