@@ -12,6 +12,7 @@ bkz o kadar bakire kızı nabacan olm
 bkz bal dudaktan tatmnaya 40 bakire yarmaya geldim
 bkz telefonda babişko seks yapişko diyen kız
 bkz babişko ben seni seks bitince arim diyen kız
+bkz babişko telefonda seks yapıyorum diyen kız
 https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg (bkz sözlüğün ağır gay amcası)
 bkz seks yaparken babişko götüme goyyiler diyen kız
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-%C3%A7oluk-%C3%A7ocu%C4%9Fa-kalmas%C4%B1/&w=bg lol
