@@ -13,12 +13,10 @@ bkz ekremin tayyoşun itlerine sikerim idari mahkemenizi demesi bkz https://www.
 bkz ysk başkanının ali ihsan varola attığı sen hayırdır mümin kardeş bakışı
 bkz sayıştay başkanının danıştay başkanına kafa kesmiyorum racon kesiyorum bakışı
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
-bkz deep webte devletçilik oynayan fakirlerin komik hali
-https://www.uludagsozluk.com/k/folkan-iyesta-cicisler/&w=bg bkz halkın vergisiyle trollük yapan gay amca
 bkz millet sigara içki içmese aç kalacak aktroller namı diğer kukoldlar
 bkz diyanetin 10 milyar tl yi fakir akboyların götünden alması süper keyifli olay
 bkz diyanetin fakir akbyoları sşiz hayırdır deyip geçirmesi
-bkz rte nin halkın oparasını aktrollere harcamasının sebebi
+bkz rte nin halkın parasını aktrollere harcamasının sebebi
 https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/
 bkz idari mahkemenin boru gibi geçirmesi öööööhyt süleyman çakır mod on devlet başa kuzgun leşe
 bkz deep webte aktrol maaşıyla makarnasını yiyip devlet başa kzugun leşecilik oynayan vasıfsızlar
