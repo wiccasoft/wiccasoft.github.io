@@ -11,7 +11,7 @@ bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
 bkz kukold kategörüğ izlerkenü babanın odaya girip dövmesi
 bkz kadıköye sidiciye gidip kukold kategörüğ varmı abü demek
-bkz acun abü kukoldmu olüğ şüncü
+bkz feridun abüü acun abü kukoldmu olüğ şüncü
 https://www.uludagsozluk.com/k/bel-f%C4%B1t%C4%B1%C4%9F%C4%B1-olmas%C4%B1na-ra%C4%9Fmen-5-posta-atabilen-erkek/ lol
 https://www.uludagsozluk.com/k/yatakta-bo%C4%9Fa-gibiyim-diyen-erkek/ bkz cuckold
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu kaşınan yaşlı erkek
