@@ -10,6 +10,7 @@ bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
 timat devam et pampa fena kaldırdın amk orospusu seni
 bkz uludaki akboyların fena azdırması 
+bkz hoşlandığım akboyu görünce malafatın dimdik olması
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-un-popo-k%C4%B1llar%C4%B1/ bkz oyşşş o deliğine dil atacan kankağğ
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/ bkz hani imamoğlan yok burada oç 
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nu-mu-%C3%A7ok-seviyorsun-baban%C4%B1-m%C4%B1-anketi/
