@@ -12,7 +12,7 @@ bkz kukold diyince akla gelen ilk isim (bkz kukold yani kukusu olmayan yaşlı)
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
 https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
-bkz volkan kurtuluşta bir abin var ypli infaz videoları izlerken sikiyorum o derece tatlı bi abim
+bkz volkan kurtuluşta bir abin var o ypli infaz videoları izlerken sikiyorum o derece tatlı bi abim
 https://www.youtube.com/watch?v=NXQJ9iR5BkA (bkz arkadan vurdun mu önden sallanacak aga)
 https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz sad but true
 -->
