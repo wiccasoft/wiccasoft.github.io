@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
-bkz ülkücülerin ülkeye faydası
+bkz ülkücülerin hoplattığı kansız köppekler
 Sevda Kuşun Kanadında 18.Bölüm - Bizi o kapı korumuyor, Allah koruyor! https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz Sevr bir paçavradır, bunu hiçbir kuvvet değiştiremez! - Vatanım Sensin 41. Bölüm
 https://www.youtube.com/watch?v=Yo-ZAr9zEHc
