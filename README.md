@@ -6,6 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
+bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz berat tayyipin kızına penis yüzüğü olan pipisini sokarkene kuduran akboylar :))))))))))
 bkz tayyibin kızını ertesi günü almaya yollaması
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-ak-parti-destek%C3%A7ileri/&w=bg (bkz cuckoldcular)
