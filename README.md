@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
+bkz deep türkish webte ülkcülük oynayan liseliler
 https://www.uludagsozluk.com/k/berkin-elvan-devrim-%C5%9Fehitidir/&w=bg bkz burası karşır beyler ülkücü çağırıyorum ocaktan
 https://www.uludagsozluk.com/k/paltosunu-%C3%A7%C4%B1kar%C4%B1p-k%C4%B1za-veren-erkek/&w=bg bkz ido tatlıses
 bkz deep turkish webte gördüğüm korkunç tipleri nasıl hafızamdan çıkarabilirim kiti hazırlamak
