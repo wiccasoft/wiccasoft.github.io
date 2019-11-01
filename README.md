@@ -11,7 +11,8 @@ bkz 2 kasım emre morun yine yürümesi
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 https://www.uludagsozluk.com/k/tek-kur%C5%9Fun-atmadan-ingizleri-yenmek/ bkz tıklağ beğ kankağ tek click atacağn la
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz tıklağ be kankağ ne kaybedeğn
-bkz anamız bacığmız var filtresi sayesinde sevdikleriniz yanında huzur içinde dıhlayın
+bkz anamız bacığmız var filtresi sayesinde sevdikleriniz yanında huzur içinde dıhlayın 
+https://www.youtube.com/watch?v=g3RDspP-BTM
 bkz yahalarsan tıh tıh tek click bait tıklağ be kankağ ne kaybedeğn internet reklamcılık hizmetleri
 bkz https://www.youtube.com/watch?v=9coh25YxGtM tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
 bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
