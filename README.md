@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz hala adıma başlık açılmamış olması (gözleri üzgün bakan surat emojisi)
-bkz kod yazarken acaba fatih tezcanlı birimi düşüncesi
+bkz topkek yerken fatih tezcan napıyordur acaba düşüncesi
 bkz geçen gün kamyon sürdüm leonarda da vinci (anladın mı espriyi el hareketi)
 bkz ekrem alınca pc nin hala kasması (nasıl espri) ben olsam ne espriler yapardım lan sözlükte
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
