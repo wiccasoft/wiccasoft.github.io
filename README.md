@@ -8,7 +8,9 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
-bkz kylie jennerin babası cinsiyet değiştirdi,
+bkz kylie jennerin babası cinsiyet değiştirdi
+(bkz patlak kızları suya bıraktığınızda çıkan ses)
+https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ (bkz malum zihniyet chpkk)
 bkz seni ambulmecid bin muttap yalnızlığında bırakmayacağız reis
 https://www.uludagsozluk.com/k/2019-t%C3%BCrkiyesinden-a%C5%9F%C4%B1r%C4%B1-rahats%C4%B1z-edici-g%C3%B6r%C3%BCnt%C3%BC/&w=bg (bkz ümmetin göğsünü kabartan görüntüler ümmet diriliyo reis osmanlı dönüyor)
