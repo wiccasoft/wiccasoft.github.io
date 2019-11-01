@@ -6,6 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
+bkz 1 kasım imamoğlunun süleyman çakır moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz kukold diyince akla gelen ilk isim bkz kukold yani kukusu olmayan yaşlı
 bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/&w=bg imamoğlu yok burada
