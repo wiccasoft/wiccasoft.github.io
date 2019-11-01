@@ -12,6 +12,7 @@ bkz uludaki akboyların fena azdırması
 bkz akboylara sarayı tarif edip topkek almaya yollamak
 bkz imamaoğlanın attığı akboylar göt kılım olabilir tweeti
 bkz akboyların ibb.gov.tr i hackleyip imamağlanın göt kılını çalmaları asdasdasasdasdassadas
+https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-imam-hatipli/&w=bg bkz imamoğlan
 https://www.uludagsozluk.com/k/padi%C5%9Fah%C4%B1m-ekrem-imamo%C4%9Flu-sen-%C3%A7ok-ya%C5%9Fa-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/ekremin-popo-k%C4%B1l%C4%B1y%C4%B1z-h%C3%BClo%C4%9F%C4%9F%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
