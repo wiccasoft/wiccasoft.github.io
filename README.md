@@ -8,7 +8,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz akboylara sarayı tarif edip topkek almaya yollamak
-bkz o değil fatih tezcan iki gündür tweet atmıyo kankağğ öldü mü lağğ
+bkz o değil de fatih tezcan iki gündür tweet atmıyo kankağğ öldü mü lağğ
 bkz imamaoğlanın attığı akboylar göt kılım olabilir tweeti
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-h%C3%BClo%C4%9F%C4%9F%C4%9F-sorunsal%C4%B1/ bkz adam haklı beyler
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-adam-gibi-adam-olmas%C4%B1/ bkz adam haklı beyler
