@@ -9,6 +9,8 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz ferdi tayfur un son hali görenleri şaşırttı
 bkz selin ciğerci magazincilere ateş püskürdü
 bkz kylie jennerin babası cinsiyet değiştirdi
+(bkz kırk tane skim olsa bitanesini sokmayacağım kızlar)
+https://www.uludagsozluk.com/k/k%C3%BCrt-k%C4%B1z%C4%B1-vs-t%C3%BCrk-k%C4%B1z%C4%B1/&w=bg
 (bkz patlak kızların bitmek bilmeyen zırvalamaları)
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/izmir-de-ikiz-k%C4%B1zlar%C4%B1n%C4%B1-istismar-eden-baba/ (bkz malum zihniyet chpkk)
