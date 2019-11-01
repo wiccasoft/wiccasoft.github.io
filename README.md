@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesi
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy-un-erkek-hali/ (bkz bülent sertaşın seksi pozları için tıkla)
 https://www.uludagsozluk.com/k/falcao-%C3%B6lmedi-i%C3%A7imizde-ya%C5%9F%C4%B1yor/ (bkz içinde gezdirmek)
 https://www.uludagsozluk.com/k/ibrahim-kaypakkaya/&w=bg (bkz kaypak)
+https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/&w=bg (bkz çok gezen mi bilir çok okuyan mı)
 bkz rte nin davos ta pereze madalyayı fırlatıp bi daha madalya istemem hareketi
 bkz rte nin sayın perez siz madalya vermeyi iyi bilirsiniz diyip ayarı gömmesi
 https://odatv.com/dunya-imamoglunu-boyle-gordu-03041954.html
