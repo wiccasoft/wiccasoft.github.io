@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz tiamat azdırdı yine beni kalktı walla
 bkz uludaki akboyların fena azdırması 
+bkz akboylara sarayı tarif edip topkek almaya yollamak
 bkz akboyların imamoğlan imamaoğlannn diye yine azdırması
 lan orospu akboylar hadi sarayın kapsına kemiğiniz orda
 https://www.uludagsozluk.com/k/ekremim/ bkz timat orospusu
