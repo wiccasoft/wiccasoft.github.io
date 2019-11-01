@@ -6,7 +6,7 @@ bkz 29 ekim camelın yaptığı fesli develi doodle
 bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
-bkz feridun abüü acun abü kukoldmu olüğ şüncü
+bkz feridun abüü acun abü kukoldmu olüğ şüncüü diyen akboyun azına vurup topkek almaya yollamak
 bkz akboylara sarayı tarif edip topkek almaya yollamak
 bkz o değil de 'fatih tezcan analiz merkezi'nin global marka olma yolunda ilerlemesi (bkz ftam)
 bkz imamaoğlanın attığı akboylar göt kılım olabilir tweeti
