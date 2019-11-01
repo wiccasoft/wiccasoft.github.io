@@ -7,6 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
+https://www.uludagsozluk.com/k/turist-kad%C4%B1n%C4%B1n-istanbulda-adres-sordu%C4%9Fu-garip-adam/ bkz tıklama korkunçlu adam
 bkz payitaht abdulmecid yayında https://www.youtube.com/watch?v=JVnh7eD-23c
 https://www.facebook.com/UlkuOcaklariEKV/videos/%C3%BClk%C3%BCc%C3%BC-yemini-sevda-ku%C5%9Fun-kanad%C4%B1nda/601162903415939/ facebook sayfamızı beğenmeyi unutmayın
 bkz aleyna tilki nin sahne şovu sevenlerini şoka soktu
