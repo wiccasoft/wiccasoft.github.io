@@ -11,7 +11,7 @@ bkz 3 kasım bernard redflag in şaka lan şaka tweeti
 bkz 4 kasım süleymancıların geri vitesi
 bkz 5 kasım xhamsterin türklere kukold kategörüğü galdırmasu
 https://www.uludagsozluk.com/k/yatakta-bo%C4%9Fa-gibiyim-diyen-erkek/ bkz cuckold
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu kaşınan erkeğin vurdurma hevesi
+https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu kaşınan yaşlı erkek
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdu-nun-y%C4%B1k%C4%B1lmas%C4%B1/&w=bg bkz noldi renciniz soldi
 https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz başrolünde liselinin olduğu liselilerin bayıldığı dizi
 https://www.uludagsozluk.com/k/sihan%C4%B1n-vurdu%C4%9Fu-pkk-arabas%C4%B1/ https://www.youtube.com/watch?v=NXQJ9iR5BkA
