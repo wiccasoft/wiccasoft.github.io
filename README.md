@@ -8,6 +8,8 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz feridun abüü acun abü kukoldmu olüğ şüncü
 bkz ülkücülerin ülkeye faydası
+bkz Sevr bir paçavradır, bunu hiçbir kuvvet değiştiremez! - Vatanım Sensin 41. Bölüm
+https://www.youtube.com/watch?v=Yo-ZAr9zEHc
 https://www.uludagsozluk.com/k/padi%C5%9Fah-vahdeddin/&w=bg bkz vatanım sensin serv sahnesi
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/&w=gd bkz bunlar babadan oğla nesil heralde oçları
 https://www.uludagsozluk.com/k/berkin-elvan-devrim-%C5%9Fehitidir/&w=bg bkz burası karşır beyler ülkücü çağırıyorum ocaktan
