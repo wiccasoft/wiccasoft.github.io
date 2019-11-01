@@ -11,6 +11,7 @@ bkz tiamat azdırdı yine beni kalktı walla
 bkz uludaki akboyların fena azdırması 
 bkz akboylara sarayı tarif edip topkek almaya yollamak
 bkz akboyların imamoğlan imamaoğlannn diye yine azdırması
+https://www.uludagsozluk.com/k/ekrem-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg burası tutar akboyları buraya alalım
 lan orospu akboylar hadi sarayın kapsına kemiğiniz orda
 https://www.uludagsozluk.com/k/ekremim/ bkz timat orospusu
 bkz sen daha çok rte yarrağı kaldırırısın timat orospusu hadi başka kapıya
