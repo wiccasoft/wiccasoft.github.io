@@ -11,6 +11,7 @@ bkz beratın amazondan sipariş ettiği penis yüzüğünün 45 dolar olması
 bkz tayyiple büyüyen ergenlerin tayyoş diyince kudurmaları
 bkz deep webte devletçilik oynayan fakirlerin komik hali
 bkz verdiği vergilerle devletyçilik oynayan fakirler
+bkz diyanetin 10 milyar tl yi fakir akboyların götünden alması süper olay
 bkz idari mahkemenin boru gibi geçirmesi öööööhy devlet başa kuzgun leşe
 https://www.uludagsozluk.com/k/idare-mahkemesinin-imamo%C4%9Fluna-sen-hay%C4%B1rd%C4%B1r-demesi/ offfff off boru gibi
 bkz kukold categerüğ hastası küçük pipili cicişfolkan seni götünde kazı yaparım googledan bulamazlar 
