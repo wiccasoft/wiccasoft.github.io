@@ -7,7 +7,7 @@ bkz 30 ekim bahcelinin Hallowe'en mübarek olsun mesajı
 bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım tweeti
 bkz türklerin ya da kürtlerin sikilmeyecek kadar çirkin yaratıklar olması
-https://www.uludagsozluk.com/k/t%C3%BCrk-k%C4%B1z%C4%B1/&w=bg bkz 40 tan skim olsa sokmam
+https://www.uludagsozluk.com/k/t%C3%BCrk-k%C4%B1z%C4%B1/&w=bg bkz irem derici kim amk ha tamam 40 tan skim olsa sokmam
 https://www.uludagsozluk.com/k/irem-derici-nin-g%C3%BCzelli%C4%9Fi/&w=bg bkz 40 tane skim olsa sokmam
 bkz annesini siken adama baba diyen gavatlar
 https://www.uludagsozluk.com/k/baban%C4%B1-tek-kelime-ile-anlat/
