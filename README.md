@@ -12,6 +12,7 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
+bkz şaka maka madafaka tsıshehehehe
 bkz bak 155 i ararın aldırırın içeri 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
