@@ -9,57 +9,7 @@
 [![Image](smartdata/ui-ux.png)]( https://www.onthisday.com/countries/russia )
 
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
-<!--
-bkz 29 ekim camelın yaptığı fesli develi doodle
-bkz 30 ekim bahcelinin Hallowe'en mübarek olsun paylaşımı
-bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
-bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
-bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
-bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
-bkz 3 kasım tangir budun doğanın fetöncüleri tek çatı altında toğlaması https://www.uludagsozluk.com/e/42362829/
-bkz 4 kasım ftam ın yurtdışına taşınması https://www.youtube.com/watch?v=a3TTFSWFaA8
-bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uludagsozluk.com/e/42362377/ 
-bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
-https://eksisozluk.com/entry/97315678 bkz hayallerde yaşıyor abdullah
-https://eksisozluk.com/falcaonun-iyilesince-ligin-icinden-gececek-olmasi--6234335?a=popular bkz içinde gezdirmek
-https://eksisozluk.com/tunc-soyerin-kurtce-ile-ilgili-aciklamalari--6234258?a=popular bkz tunç devri yazıtları
-bkz en büyük benim https://www.youtube.com/watch?v=R6aRWKr38b4
-bkz en büyük benim https://www.youtube.com/watch?v=IODcvRmuIWc
-https://www.uludagsozluk.com/e/42364571/ lol
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz ne var lan geblo
-https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/&w=bg bkz lol
-https://www.uludagsozluk.com/k/t%C3%BCrkler-yap%C4%B1nca-e%C4%9Freti-duran-%C5%9Feyler/&w=bg bkz gebloluk
-https://eksisozluk.com/ziya-selcuktan-muthis-egitim-hamlesi--6233776?a=popular bkz hamlenin kralı
-https://eksisozluk.com/kurtcu-gazetecinin-turk-ogretmeni-hedef-gostermesi--6233892?a=popular  bkz ne var lan geblo
-https://eksisozluk.com/imamoglunun-turkiyeyi-avrupaya-sikayet-etmesi--6233755?a=popular bkz bana öyle bir bilgi gelmedi
-https://www.uludagsozluk.com/k/ziraat-bankas%C4%B1-n%C4%B1n-%C3%BClkeden-ka%C3%A7may%C4%B1n-temal%C4%B1-reklam%C4%B1/
-bkz sen de git o da gitsin şaka şaka siktir git https://www.youtube.com/watch?v=224nx8msD8k
-https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz blietzkrieg
-https://eksisozluk.com/ocalan-1972den-beri-mit-elemani--6233772?a=popular bkz günaydın
-https://eksisozluk.com/turkiyenin-silikon-vadisi-kurmama-nedeni--6233922?a=popular bkz ne var lan geblo
-https://www.uludagsozluk.com/k/allah-%C3%A7ingeneleri-lanetlemi%C5%9Ftir/&w=gd bkz yav he he
-https://www.facebook.com/UlkuOcaklariEKV/videos/%C3%BClk%C3%BCc%C3%BC-yemini-sevda-ku%C5%9Fun-kanad%C4%B1nda/601162903415939/ facebook sayfamızı beğenmeyi unutmayın
-https://www.uludagsozluk.com/k/her-k%C4%B1z%C4%B1n-bir-gay-arkada%C5%9F%C4%B1n%C4%B1n-olmas%C4%B1/ bkz ben
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
-https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
-bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
-bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
-https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
-folkan kukold abinin yanındayım gelsin diyo ben onu emcüklerim kendine gelir diyo
-bkz anamız bacığmız var filtresi sayesinde sevdikleriniz yanında huzur içinde dıhlayın 
-bkz yahalarsan tıh tıh tek click bait tıklağ be kankağ ne kaybedeğn internet reklamcılık hizmetleri
-bkz tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
-bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
-bkz güzel mankenin yürek hoplatan plaj görüntüleri (tıklağ gözün gönlüğn açılsın kankağ hadi bee be kankağ )
-bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ tıklağ lan nolcak)
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
-https://www.uludagsozluk.com/k/cuckold/&w=gd (bkz one flew over the cuckoo's nest)
-https://www.uludagsozluk.com/k/one-flew-over-the-cuckoo-s-nest/ (bkz kukum ötmüyo napabilirimin türkçesi)
-bkz volkan kurtuluşta bir abin var https://www.youtube.com/watch?v=Nthf9n9IGPk
-https://eksisozluk.com/turklerin-dunyaya-tek-katkilarinin-yogurt-olmasi--6232667?a=popular bkz tarık
--->
+<!--xxx-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
 <!-- https://www.theguardian.com/society/2019/oct/27/minister-told-mother-to-flout-cannabis-law-for-epileptic-son -->
