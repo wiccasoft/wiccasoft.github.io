@@ -17,7 +17,7 @@ bkz 4 kasım ftam ın yurtdışına taşınması https://www.youtube.com/watch?v
 bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uludagsozluk.com/e/42362377/ 
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
-https://www.uludagsozluk.com/k/%C3%BClkesini-bat%C4%B1ya-%C5%9Fikayet-eden-belediye-ba%C5%9Fkan%C4%B1/ bkz bana öyle bir bilgi gelmedi
+bkz türklerin ağır ve yavaş öğrenmesi
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz blietzkrieg
 https://eksisozluk.com/ocalan-1972den-beri-mit-elemani--6233772?a=popular bkz günaydın
 https://eksisozluk.com/turkiyenin-silikon-vadisi-kurmama-nedeni--6233922?a=popular bkz fetöncü terör örgütü
