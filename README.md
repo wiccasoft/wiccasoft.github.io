@@ -11,7 +11,7 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz anne ve çocuğunu öldüren ypg'li görüntüleri o görüntüler için tıklayın
 bkz bkz ypgli terörist masum anaları katletti galeri için tıklayın 
-bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın
+bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
 bkz kürdistan yollarında ülkcücü gardaşlarla şehirlere bombeler yağardı dinlik
 https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
 bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
