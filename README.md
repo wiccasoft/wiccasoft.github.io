@@ -12,9 +12,8 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
-bkz türklerin dünyayı kendi etraflarında döndüğünü samaları olayı
-https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler/&w=bg lol bkz dünya vs türkler
-bkz haber botumdaki 155 tane gazeteyi nabacanız aa ibineler hepsi de yasal yüce türk götünüzü sikerim o olur
+bkz türklerin dünyayı kendi etraflarında döndüğünü sammaları olayı
+bkz haber botumdaki 112 ülke 12 global 100 den fazla yerel gazeteyi nabacanız aa ibineler 
 bkz şaka maka madafaka tsıshehehehe
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz fedöncü terörük
 bkz bak 155 i ararın aldırırın içeri 
