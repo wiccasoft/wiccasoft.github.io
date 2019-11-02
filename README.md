@@ -17,20 +17,15 @@ bkz 4 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması ht
 bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetödncüler
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
-https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 folkan kukold abinin yanındayım gelsin diyo ben onu emcüklerim kendine gelir diyo
-https://www.uludagsozluk.com/k/tek-kur%C5%9Fun-atmadan-ingizleri-yenmek/ bkz tıklağ beğ kankağ tek click atacağn la
-https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz tıklağ be kankağ ne kaybedeğn
 bkz anamız bacığmız var filtresi sayesinde sevdikleriniz yanında huzur içinde dıhlayın 
-https://www.youtube.com/watch?v=g3RDspP-BTM
 bkz yahalarsan tıh tıh tek click bait tıklağ be kankağ ne kaybedeğn internet reklamcılık hizmetleri
-bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz https://www.youtube.com/watch?v=9coh25YxGtM tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
+bkz tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
 bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
 bkz güzel mankenin yürek hoplatan plaj görüntüleri (tıklağ gözün gönlüğn açılsın kankağ hadi bee be kankağ )
 bkz selin ciğercinin erkek hali kızları hoplattı (tıklağ galeri açılsın kankağ tıklağ lan nolcak)
