@@ -12,7 +12,7 @@ bkz 31 ekim bilocanın falcaoya ya hakk diye ok atmayı öğretmesi
 bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
-bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
+bkz 3 kasım tangir budun doğanın fedöncüleri tek çatı altında toğlaması
 bkz 4 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması https://www.youtube.com/watch?v=a3TTFSWFaA8
 bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetödncüler
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
