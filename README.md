@@ -18,6 +18,7 @@ bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uluda
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz blietzkrieg
+https://eksisozluk.com/turkiyenin-silikon-vadisi-kurmama-nedeni--6233922?a=popular bkz fetöncü terör örgütü
 https://eksisozluk.com/ziya-selcuktan-muthis-egitim-hamlesi--6233776?a=popular bkz tamam
 https://www.facebook.com/UlkuOcaklariEKV/videos/%C3%BClk%C3%BCc%C3%BC-yemini-sevda-ku%C5%9Fun-kanad%C4%B1nda/601162903415939/ facebook sayfamızı beğenmeyi unutmayın
 https://www.uludagsozluk.com/k/her-k%C4%B1z%C4%B1n-bir-gay-arkada%C5%9F%C4%B1n%C4%B1n-olmas%C4%B1/ bkz ben
