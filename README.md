@@ -10,7 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
-bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
+bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması https://www.youtube.com/watch?v=a3TTFSWFaA8
 bkz 5 kasım kolpaçino tayfur un delikanlı gibi ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
