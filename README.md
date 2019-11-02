@@ -10,6 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
+bkz kürdistan yollardında ypgli gardaşlarımla mor dağların türküsü dinliyok
 bkz ypgli terörist masum anaları katletti galeri için tıklayın tıklağmıyon mu bence tıklağ
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
 bkz kürdistan yollarında ülkcücü gardaşlarla şehirlere bombeler yağardı dinlemek için tıklağyn
