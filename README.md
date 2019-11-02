@@ -22,6 +22,7 @@ bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uluda
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 bkz en büyük benim https://www.youtube.com/watch?v=R6aRWKr38b4
+bkz en büyük benim https://www.youtube.com/watch?v=IODcvRmuIWc
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz ne var lan geblo
 https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/&w=bg bkz lol
 https://www.uludagsozluk.com/k/t%C3%BCrkler-yap%C4%B1nca-e%C4%9Freti-duran-%C5%9Feyler/&w=bg bkz gebloluk
