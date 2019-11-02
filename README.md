@@ -11,6 +11,7 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan ekşiciler yurt dışına gitmesin tavsiyesi
 bkz bak 155 i ararın attırırım içeri
+bkz fedöncü terörükleri 155 e ihbaer ediyik kampanyası
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bu bide uğur dündar terörik aga fedöcü terörük
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
