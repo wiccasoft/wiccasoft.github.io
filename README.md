@@ -18,6 +18,7 @@ bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uluda
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz ne var lan geblo
+https://www.uludagsozluk.com/k/malatyada-eli-titreyen-ihtiyarlar%C4%B1n-silah-d%C3%BCellosu/ bkz pütürgülü hemşolarım
 https://www.uludagsozluk.com/k/t%C3%BCrkler-yap%C4%B1nca-e%C4%9Freti-duran-%C5%9Feyler/&w=bg bkz gebloluk
 https://eksisozluk.com/ziya-selcuktan-muthis-egitim-hamlesi--6233776?a=popular bkz hamlenin kralı
 https://eksisozluk.com/kurtcu-gazetecinin-turk-ogretmeni-hedef-gostermesi--6233892?a=popular  bkz ne var lan geblo
