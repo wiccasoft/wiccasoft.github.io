@@ -16,7 +16,7 @@ bkz türkiyede hiç gizli eşcinsel olmamasının sebepleri
 bkz türkiyenin yarısının eşcinsel olduğunun farkında olmaması yarısının da eşcinsel değilim diye ısrar etmesi
 bkz ayrılıkçı delikanlıların ayrılıkçı delikanlı sevgilisi olur diyip resti çekmeleri
 bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz delikanlıyız yürüyüşü yapmaları
-bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya edinlerken sevişmeye başlamaları
+bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya dinlerken sevişmeye başlamaları
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-kar%C5%9F%C4%B1-%C3%B6n-yarg%C4%B1l%C4%B1-olma/&w=bg
 bkz ayrılıkçı türklerin saçlarını sarıya boyatıp yurtdışına kaçma planları
 bkz haber botumdaki 112 ülke 12 global 1000 den fazla yerel gazeteyi nabacanız aa ibineler 
