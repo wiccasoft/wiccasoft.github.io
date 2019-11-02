@@ -19,6 +19,7 @@ bkz 4 kasım ftam ın yurtdışına taşınması https://www.youtube.com/watch?v
 bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uludagsozluk.com/e/42362377/ 
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
+bkz en büyük benim https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz ne var lan geblo
 https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/&w=bg bkz lol
