@@ -12,18 +12,10 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan ekşiciler yurt dışına gitmesin tavsiyesi
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
-bkz acun abü beyinler gitmesün be abüüüüüüü ekşüde harcanüyy be abüüüüü
-bkz ekşicileri yurtdışına göndermiyoruz kampanyası ekşide başlık açsınlar 
-https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağino özgür
-bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
-bkz ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
-bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
-bkz ülkcücü gardaşlarla şehirlere bombeler yağardı dinlemek için tıklağyn
-https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
+https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
 bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
-la amın feryatları ekşicciler ülkenize yatırım yapacağımı kim söyledi amınsıçtıkları
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 folkan kukold abinin yanındayım gelsin diyo ben onu emcüklerim kendine gelir diyo
