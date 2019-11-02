@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz 4 kasım kolpaçino tayfurda tavsiye yurt dışına gitmeyin
+bkz 4 kasım kolpaçino tayfurda tavsiye ekşiciler yurt dışına gitmesin
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 bkz acun abü beyinler gitmesün be abüüüüüüü ekşüde harcanüyy be abüüüüü
 bkz ekşicileri yurtdışına göndermiyoruz kampanyası ekşide başlık açsınlar 
