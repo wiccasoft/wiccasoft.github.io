@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
+https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz hayallerde yaşıyor bazı ibneler
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
 bkz ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
