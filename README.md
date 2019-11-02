@@ -18,7 +18,7 @@ bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uluda
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 https://www.uludagsozluk.com/k/ziraat-bankas%C4%B1-n%C4%B1n-%C3%BClkeden-ka%C3%A7may%C4%B1n-temal%C4%B1-reklam%C4%B1/
-bkz sen de git o da gitsin şaka şaka siktir git
+bkz sen de git o da gitsin şaka şaka siktir git 
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz blietzkrieg
 https://eksisozluk.com/ocalan-1972den-beri-mit-elemani--6233772?a=popular bkz günaydın
 https://eksisozluk.com/turkiyenin-silikon-vadisi-kurmama-nedeni--6233922?a=popular bkz fetöncü terör örgütü
