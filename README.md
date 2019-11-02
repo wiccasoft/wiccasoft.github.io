@@ -10,7 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
-bkz ne diyodum folkan bak bi kukold lavuk var abovvvvvvvvvvv karısını siktiriyo volkiii
+bkz ne diyodum folkan bak bi kukold lavuk var abovvvvvvv kukususold yav
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 https://www.uludagsozluk.com/k/tek-kur%C5%9Fun-atmadan-ingizleri-yenmek/ bkz tıklağ beğ kankağ tek click atacağn la
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz tıklağ be kankağ ne kaybedeğn
