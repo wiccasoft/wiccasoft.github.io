@@ -11,7 +11,7 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
-bkz kolpaçino tayfur analiz merkezini yurtiçine taşımak
+bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
 bkz bak 155 i ararın aldırırın içeri genç dimağlar ayağ deng alın 
 bkz fedöncü ihbar hattına kıl olduğumuz tipleri bildirek kampanyası
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bu bide uğur dündar terörik aga fedöcü terörük
