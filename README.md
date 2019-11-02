@@ -10,7 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
-ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
+bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 folkan kukold abinin yanındayım gelsin diyo ben onu emcüklerim kendine gelir diyo
@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz
 bkz anamız bacığmız var filtresi sayesinde sevdikleriniz yanında huzur içinde dıhlayın 
 https://www.youtube.com/watch?v=g3RDspP-BTM
 bkz yahalarsan tıh tıh tek click bait tıklağ be kankağ ne kaybedeğn internet reklamcılık hizmetleri
-folkan bak kolpaçino tayfun abinin yanındayım vergi levhası yokmuş takdırdım bro hedef olmayacakmış abisi
+bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz https://www.youtube.com/watch?v=9coh25YxGtM tıklağ bağ galeriğe beğ gangağ ona da ben mi tıhlyaağm
 bkz ünlü şarkıcının konserde amı görüktü (tıkla am gör https://www.youtube.com/watch?v=Wup1cEdgOWs be kankağ)
 bkz güzel mankenin yürek hoplatan plaj görüntüleri (tıklağ gözün gönlüğn açılsın kankağ hadi bee be kankağ )
