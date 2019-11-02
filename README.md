@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
+bkz folkan kafam sıgar giderim bah
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
 la amın feryatları siktiriboktan ülkenize yatırım yapacağımı kim söyledi amınsıçtıkları
