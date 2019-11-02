@@ -9,6 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
+bkz kolpaçino tayfurdan tavsiye yurt dışına gitmeyin
 bkz kolpaçino sabrinin kolpaçino tayfurla hüseyin dayılara atarlandığı sahne
 https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz kolpaçino özgürün evinde donla kaldığı sahne
 https://eksisozluk.com/cem-boynerden-tavsiye-yurt-disina-gitmeyin--6233628?a=popular bkz paraları nasıl aklayacaz amk
