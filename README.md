@@ -10,8 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
-bkz kürdistan yollardında ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
-bkz ypgli terörist masum anaları katletti galeri için tıklayın tıklağmıyon mu bence tıklağ
+bkz ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
 bkz ülkcücü gardaşlarla şehirlere bombeler yağardı dinlemek için tıklağyn
 https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
