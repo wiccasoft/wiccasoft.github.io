@@ -12,7 +12,8 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan ekşiciler yurt dışına gitmesin tavsiyesi
 bkz bak 155 i ararın aldırırın içeri ayağ deng alın fedöncüler
 bkz fedöncü terörükleri 155 e ihbar ediyik kampanyası
-bkz kolpaçino tayfurun fedöncü terörük olduğu gerçeği levhası  da yok
+bkz kolpaçino tayfurun fedöncü terörük olduğu gerçeği levhası da yokmuş
+bkz fatih tezcan analiz merkezini yurtdışına taşımak
 bkz fedöncü ihbar hattına kıl olduğumuz tipleri bildirek kampanyası
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bu bide uğur dündar terörik aga fedöcü terörük
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
