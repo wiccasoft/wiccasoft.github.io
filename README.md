@@ -10,7 +10,6 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kurtlar vadisi cemşit
-https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz sabri dayının bunu tokat manyağ yaptığı sahne
 https://eksisozluk.com/erdogan-basindan-beri-fethullah-gulene-karsiydi--6233109?a=popular bkz ne istedi de vermedi
 https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kolpaçino özgür
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
