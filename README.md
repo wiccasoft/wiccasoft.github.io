@@ -13,6 +13,7 @@ bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiy
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
 bkz türkiyede hiç gizli eşcinsel olmamasının sebepleri
+bkz türkiyeni yarsının eşcinsel olduğunun farkında olmaması yarısının da eşcinsel değilim diye ısrar etmesi
 bkz ayrılıkçı delikanlıların ayrılıkçı delikanlı sevgilisi olur diyip resti çekmeleri
 bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz delikanlıyız yürüyüşü yapmaları
 bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya edinlerken sevişmeye başlamaları
