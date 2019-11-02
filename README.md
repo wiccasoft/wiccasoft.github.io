@@ -21,7 +21,6 @@ bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz delikan
 bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya dinlerken sevişmeye başlamaları
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-kar%C5%9F%C4%B1-%C3%B6n-yarg%C4%B1l%C4%B1-olma/&w=bg
 bkz ayrılıkçı türklerin saçlarını sarıya boyatıp yurtdışına kaçma planları
-bkz haber botumdaki 112 ülke 12 global 1000 den fazla yerel gazeteyi nabacanız aa ibineler 
 bkz bak 155 i ararın aldırırın içeri 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
