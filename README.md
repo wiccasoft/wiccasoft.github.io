@@ -1,5 +1,7 @@
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=LTs9MH0Ny-k )
 
+[![Image](smartdata/hypertraxx.png)]( https://www.youtube.com/watch?v=VL6Hvvm1lV0 )
+
 [![Image](smartdata/ui-ux.png)]( https://www.onthisday.com/countries/russia )
 
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
