@@ -19,6 +19,7 @@ bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/wat
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 https://eksisozluk.com/ziya-selcuktan-muthis-egitim-hamlesi--6233776?a=popular bkz ne var lan geblo
 https://eksisozluk.com/kurtcu-gazetecinin-turk-ogretmeni-hedef-gostermesi--6233892?a=popular  bkz ne var lan geblo
+https://eksisozluk.com/imamoglunun-turkiyeyi-avrupaya-sikayet-etmesi--6233755?a=popular bkz bana öyle bir bilgi gelmedi
 https://www.uludagsozluk.com/k/ziraat-bankas%C4%B1-n%C4%B1n-%C3%BClkeden-ka%C3%A7may%C4%B1n-temal%C4%B1-reklam%C4%B1/
 bkz sen de git o da gitsin şaka şaka siktir git 
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz blietzkrieg
