@@ -13,19 +13,9 @@ bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiy
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur un delikanlı gibi ftam a katılması
 bkz türkiyede hiç eşcinsel olmamasının sebepleri
-bkz türkiyenin yarısının eşcinsel olduğunun farkında olmaması yarısının da eşcinsel değilim diye ısrar etmesi
-https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular
-bkz bad news for straights: zamanınızın yüzde 50 sini hemcinslerinize ayırıyorsanız eşcinselsiniz
-bkz ayrılıkçı delikanlıların ayrılıkçı delikanlı sevgilisi olur diyip resti çekmeleri
-bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz delikanlıyız yürüyüşü yapmaları
-bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya dinlerken sevişmeye başlamaları
-https://www.uludagsozluk.com/k/k%C3%BCrtlere-kar%C5%9F%C4%B1-%C3%B6n-yarg%C4%B1l%C4%B1-olma/&w=bg
-bkz ayrılıkçı türklerin saçlarını sarıya boyatıp yurtdışına kaçma planları
-bkz bak 155 i ararın aldırırın içeri 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
-bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
