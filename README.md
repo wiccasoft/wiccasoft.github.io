@@ -10,6 +10,8 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz kolpaçino boynerden tavsiye yurt dışına gitmeyin
+güzel yazı olmuş ben de beğendim.
+ama çok samimî yazmışsın cem abi. yarın bir gün bir yerde görürsem ooo abi naber nasılsın diye gelir tokalaşırım haberin olsun.götünü ellerim abi saygılar abi acun abiye bişeyler yazcam abüüü
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 
 bkz kolpaçino sabrinin kolpaçino tayfurla hüseyin dayılara atarlandığı sahne
 https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz kolpaçino özgürün evinde donla kaldığı sahne
