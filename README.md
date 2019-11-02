@@ -12,16 +12,12 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
-bkz türkiyede hiç gizli eşcinsel ayrılıkçı türk olmamasının sebepleri
+bkz türkiyede hiç gizli eşcinsel olmamasının sebepleri
 bkz ayrılıkçı delikanlıların ayrılıkçı delikanlı sevgilisi olur diyip resti çekmeleri
 bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz delikanlıyız yürüyüşü yapmaları
 bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya edinlerken sevişmeye başlamaları
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-kar%C5%9F%C4%B1-%C3%B6n-yarg%C4%B1l%C4%B1-olma/&w=bg
-bkz ayrılıkçı türklerin ayrılıkçı kürtlerle halı saha maçı yapması
-bkz ayrılıkçı türkerin saçlarını sarıya boyatıp yurtdışına kaçma planları
-bkz enes baturun ayrılıkçı türk olduğu iddiası
-bkz ayrılıkçı türklerin ayrılıkçı islamcılara dönek demesi
-bkz ayrılıkçı kürtlerin ayrılıkçı türklere göteleck demesi
+bkz ayrılıkçı türklerin saçlarını sarıya boyatıp yurtdışına kaçma planları
 bkz haber botumdaki 112 ülke 12 global 1000 den fazla yerel gazeteyi nabacanız aa ibineler 
 bkz bak 155 i ararın aldırırın içeri 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
