@@ -22,6 +22,7 @@ bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uluda
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 https://eksisozluk.com/entry/97315678 bkz hayallerde yaşıyor abdullah
+https://eksisozluk.com/falcaonun-iyilesince-ligin-icinden-gececek-olmasi--6234335?a=popular bkz içinde gezdirmek
 bkz en büyük benim https://www.youtube.com/watch?v=R6aRWKr38b4
 bkz en büyük benim https://www.youtube.com/watch?v=IODcvRmuIWc
 https://www.uludagsozluk.com/e/42364571/ lol
