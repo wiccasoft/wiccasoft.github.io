@@ -13,7 +13,7 @@ bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
 bkz kürdistan yollardında ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
 bkz ypgli terörist masum anaları katletti galeri için tıklayın tıklağmıyon mu bence tıklağ
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
-bkz kürdistan yollarında ülkcücü gardaşlarla şehirlere bombeler yağardı dinlemek için tıklağyn
+bkz ülkcücü gardaşlarla şehirlere bombeler yağardı dinlemek için tıklağyn
 https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
 bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
