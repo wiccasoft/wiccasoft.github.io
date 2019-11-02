@@ -12,7 +12,7 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
-bkz haber botumdaki 155 tane gazeteyi nabacanız aa ibineler hepsi de yasal
+bkz haber botumdaki 155 tane gazeteyi nabacanız aa ibineler hepsi de yasal yüce türk götünüzü sikerim o olur
 bkz şaka maka madafaka tsıshehehehe
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz fedöncü terörük
 bkz bak 155 i ararın aldırırın içeri 
