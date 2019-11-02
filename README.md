@@ -9,10 +9,9 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz kolpaçino boynerden tavsiye yurt dışına gitmeyin
+bkz kolpaçino tayfurda tavsiye yurt dışına gitmeyin
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 bkz acun abü beyinler gitmesün abüüüüüüü ekşüde harcanüyy be abüüüüü
-bkz cem boynerin ekşiciler yurtdışına gitmesin beyingöçüne son yazısı
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 
 bkz kolpaçino sabrinin kolpaçino tayfurla hüseyin dayılara atarlandığı sahne
 https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz kolpaçino özgürün evinde donla kaldığı sahne
