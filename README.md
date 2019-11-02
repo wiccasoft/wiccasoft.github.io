@@ -2,8 +2,8 @@
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
 
-[![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=LTs9MH0Ny-k )
-
+[![Image](smartdata/istanbul.png)]( https://www.theguardian.com/world/2019/nov/02/spanish-hebrew-medieval-bible-kennicott-galicia-spain-exhibition )
+<!--https://www.theguardian.com/world/2019/nov/02/spanish-hebrew-medieval-bible-kennicott-galicia-spain-exhibition-->
 [![Image](smartdata/hypertraxx.png)]( https://www.youtube.com/watch?v=VL6Hvvm1lV0 )
 
 [![Image](smartdata/ui-ux.png)]( https://www.onthisday.com/countries/russia )
