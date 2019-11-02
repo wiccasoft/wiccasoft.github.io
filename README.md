@@ -11,7 +11,7 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
-bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
+bkz 5 kasım kolpaçino tayfur un ftam a yardım etmesi
 bkz türkiyede hiç eşcinsel olmamasının sebepleri
 bkz türkiyenin yarısının eşcinsel olduğunun farkında olmaması yarısının da eşcinsel değilim diye ısrar etmesi
 https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular
