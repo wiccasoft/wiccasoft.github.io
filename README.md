@@ -13,8 +13,8 @@ bkz anne ve çocuğunu öldüren ypg'li görüntüleri o görüntüler için tı
 bkz bkz ypgli terörist masum anaları katletti galeri için tıklayın 
 bkz kürdistan yollarında ahmey kaya dinliyorum ülkücü gardaşlarımla
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın
+bkz kürdistan yollarında ülkcücü gardaşlarla ahmet gaya şehirlere bombeler yağardı dinlik
 https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
-bkz ülkücülerin ahmet kaya sevgisi :))))
 bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
