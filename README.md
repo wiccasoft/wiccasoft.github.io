@@ -23,6 +23,7 @@ bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/wat
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
 bkz en büyük benim https://www.youtube.com/watch?v=R6aRWKr38b4
 bkz en büyük benim https://www.youtube.com/watch?v=IODcvRmuIWc
+https://eksisozluk.com/abdullah-catli--76370?a=popular bkz hayallerde yaşıyor abdullah
 https://www.uludagsozluk.com/e/42364571/ lol
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg bkz ne var lan geblo
 https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/&w=bg bkz lol
