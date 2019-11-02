@@ -13,7 +13,7 @@
 
 [![Image](smartdata/decollage.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!--xxx
-https://eksisozluk.com/abdullah-catli--76370?a=popular lol bkz kemalist kişilik bozukluğu
+https://eksisozluk.com/abdullah-catli--76370?a=popular lol 
 https://eksisozluk.com/tip-okuyanlarin-genellikle-cirkin-olmasi--5108896?p=2 bkz lol-->
 
 [![Image](smartdata/cannabis.png)]( https://www.youtube.com/watch?v=kaU2A7KyOu4 )
