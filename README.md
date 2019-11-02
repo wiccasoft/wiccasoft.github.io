@@ -14,6 +14,7 @@ bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
 bkz türklerin dünyayı kendi etraflarında döndüğünü sammaları olayı
 bkz ayrılıkçı türkerin saçlarını sarıya boyatıp yurtdışına kaçma planları
+bkz enes baturun ayrılıkçı türk olduğu iddiası
 bkz ayrılıkçı türklerin ayrılıkçı islamcılara dönek demesi
 bkz ayrılıkçı kürtlerin ayrılıkçı türklere göteleck demesi
 bkz haber botumdaki 112 ülke 12 global 1000 den fazla yerel gazeteyi nabacanız aa ibineler 
