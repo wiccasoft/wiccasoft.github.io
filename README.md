@@ -12,6 +12,7 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
+bkz ayrılıkçı türkler ayrılıkçı kürtlerle halı saha maçı yapması
 bkz ayrılıkçı kürtlerin ayrılıkçı türklere daha bi hoş bakması
 bkz türklerin dünyayı kendi etraflarında döndüğünü sammaları olayı
 bkz ayrılıkçı türklerin ayrılıkçı süleymancılara mızıkçı demesi
