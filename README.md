@@ -9,17 +9,11 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz kolpaçino tayfurda tavsiye yurt dışına gitmeyin
+bkz 4 kasım kolpaçino tayfurda tavsiye yurt dışına gitmeyin
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 bkz acun abü beyinler gitmesün be abüüüüüüü ekşüde harcanüyy be abüüüüü
 bkz ekşicileri yurtdışına göndermiyoruz kampanyası ekşide başlık açsınlar 
-https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
-bkz kolpaçino sabrinin kolpaçino tayfurla hüseyin dayılara atarlandığı sahne
-https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz kolpaçino özgürün evinde donla kaldığı sahne
-https://eksisozluk.com/cem-boynerden-tavsiye-yurt-disina-gitmeyin--6233628?a=popular bkz paraları nasıl aklayacaz amk
-https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kurtlar vadisi pala
-https://eksisozluk.com/erdogan-basindan-beri-fethullah-gulene-karsiydi--6233109?a=popular bkz ne istedi de vermedi
-https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kolpaçino özgür
+https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağino özgür
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
 bkz ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
@@ -28,7 +22,7 @@ https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
 bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
-la amın feryatları ekşicciler  ülkenize yatırım yapacağımı kim söyledi amınsıçtıkları
+la amın feryatları ekşicciler ülkenize yatırım yapacağımı kim söyledi amınsıçtıkları
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 folkan kukold abinin yanındayım gelsin diyo ben onu emcüklerim kendine gelir diyo
