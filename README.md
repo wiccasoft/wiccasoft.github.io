@@ -10,7 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz kolpaçino özgürün kolpaçino tayfurla alemlere akması
-https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kafa kesmiyom racon kesiyom
+https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz memati halo dayı
 bkz https://www.youtube.com/watch?v=wUQDeENsGjY bkz erdoğanın kılına zarar gelirse botoks yaptırmam daha
 https://www.youtube.com/watch?v=QmlAsmwJCk0 bkz kolpaçino özgür
 https://eksisozluk.com/cem-boynerden-tavsiye-yurt-disina-gitmeyin--6233628?a=popular bkz hayallerde yaşıyor bazı ibneler
