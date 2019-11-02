@@ -22,6 +22,7 @@ bkz sen de git o da gitsin şaka şaka siktir git
 https://eksisozluk.com/xavi-iniesta-messi-uclusu--2135844 bkz blietzkrieg
 https://eksisozluk.com/ocalan-1972den-beri-mit-elemani--6233772?a=popular bkz günaydın
 https://eksisozluk.com/turkiyenin-silikon-vadisi-kurmama-nedeni--6233922?a=popular bkz ne var lan geblo
+https://www.uludagsozluk.com/k/allah-%C3%A7ingeneleri-lanetlemi%C5%9Ftir/&w=gd bkz yav he he
 https://www.facebook.com/UlkuOcaklariEKV/videos/%C3%BClk%C3%BCc%C3%BC-yemini-sevda-ku%C5%9Fun-kanad%C4%B1nda/601162903415939/ facebook sayfamızı beğenmeyi unutmayın
 https://www.uludagsozluk.com/k/her-k%C4%B1z%C4%B1n-bir-gay-arkada%C5%9F%C4%B1n%C4%B1n-olmas%C4%B1/ bkz ben
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
