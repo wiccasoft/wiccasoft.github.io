@@ -1,4 +1,4 @@
-[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )
+<!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
 
