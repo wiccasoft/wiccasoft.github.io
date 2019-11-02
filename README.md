@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz 4 kasım kolpaçino tayfurdan ekşiciler yurt dışına gitmesin tavsiyesi
+bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezinin) ın yurtdışına taşınması
 bkz bak 155 i ararın aldırırın içeri ayağ deng alın fedöncüler
 bkz fedöncü terörükleri 155 e ihbar ediyik kampanyası
