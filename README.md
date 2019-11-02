@@ -12,7 +12,7 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
-bkz türkiyede hiç eşcinsel olmamasının sebepleri
+bkz türkiyede hiç delikanlı eşcinsel olmamasının sebepleri
 bkz türkiyenin yarısının eşcinsel olduğunun farkında olmaması yarısının da eşcinsel değilim diye ısrar etmesi
 bkz futbolculara ayırdığınız vakti bilime ayırsaydınız bunları düşünmüyor olurdunuz 
 bkz bad news for straights: zamanınızın yüzde 50 sini hemcinslerinize ayırıyorsanız eşcinselsiniz
