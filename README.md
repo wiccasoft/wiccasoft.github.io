@@ -1,5 +1,8 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 
+
+[![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
+
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
 
 [![Image](smartdata/istanbul.png)]( https://www.theguardian.com/world/2019/nov/02/spanish-hebrew-medieval-bible-kennicott-galicia-spain-exhibition )
