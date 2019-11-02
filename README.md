@@ -9,19 +9,10 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz kolpaçino özgürün kolpaçino tayfurla alemlere akması
 https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kurtlar vadisi cemşit
 https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz sabri dayının bunu tokat manyağ yaptığı sahne
 https://eksisozluk.com/erdogan-basindan-beri-fethullah-gulene-karsiydi--6233109?a=popular bkz ne istedi de vermedi
 https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kolpaçino özgür
-https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular 
-bkz sabri dayısına karı ayarlarken hüseyinin kestaneyi çizdirdiği sahne 
-https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz kurtlar vadisi güllü
-bkz https://www.youtube.com/watch?v=wUQDeENsGjY bkz erdoğanın kılına zarar gelirse botoks yaptırmam daha
-https://www.youtube.com/watch?v=QmlAsmwJCk0 bkz kolpaçino özgür
-https://eksisozluk.com/cem-boynerden-tavsiye-yurt-disina-gitmeyin--6233628?a=popular bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz hayallerde yaşıyor bazı ibneler 
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
 bkz ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
