@@ -12,9 +12,7 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
-bkz bak 155 i ararın aldırırın içeri genç dimağlar ayağ deng alın 
-bkz fedöncü ihbar hattına kıl olduğumuz tipleri bildirek kampanyası
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bu bide uğur dündar terörik aga fedöcü terörük
+bkz bak 155 i ararın aldırırın içeri 
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
