@@ -12,9 +12,8 @@ bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
-bkz ayrılıkçı türkerin ok atıp ata binmeye başlamaları
-bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz diye yürüyüş yapmaları
-bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin şahmet kaya edinlerken sevişmeye başlamaları
+bkz ayrılıkçı türklerle ayrılıkçı kürtlerin eşcinsel değiliz delikanlıyız yürüyüşü yapmaları
+bkz ayrılıkçı ülkcülerle ayrılıkçı kürtlerin ahmet kaya edinlerken sevişmeye başlamaları
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-kar%C5%9F%C4%B1-%C3%B6n-yarg%C4%B1l%C4%B1-olma/&w=bg
 bkz ayrılıkçı türklerin ayrılıkçı kürtlerle halı saha maçı yapması
 bkz ayrılıkçı türkerin saçlarını sarıya boyatıp yurtdışına kaçma planları
