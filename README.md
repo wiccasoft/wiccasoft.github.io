@@ -11,7 +11,8 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz kolpaçino tayfurda tavsiye yurt dışına gitmeyin
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
-bkz acun abü beyinler gitmesün abüüüüüüü ekşüde harcanüyy be abüüüüü
+bkz acun abü beyinler gitmesün be abüüüüüüü ekşüde harcanüyy be abüüüüü
+bkz ekşicileri yurtdışına göndermiyoruz kampanyası ekşide başlık açsınlar 
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
 bkz kolpaçino sabrinin kolpaçino tayfurla hüseyin dayılara atarlandığı sahne
 https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz kolpaçino özgürün evinde donla kaldığı sahne
