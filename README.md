@@ -14,9 +14,6 @@ bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
 bkz ayrılıkçı türkerin ok atıp ata binmeye başlamaları
 bkz ayrılıkçı türklerin ayrılıkçı kürtlerle halı saha maçı yapması
-bkz ayrılıkçı kürtlerin ayrılıkçı türklere daha bi hoş bakması
-bkz türklerin dünyayı kendi etraflarında döndüğünü sammaları olayı
-bkz ayrılıkçı türklerin ayrılıkçı süleymancılara mızıkçı demesi
 bkz ayrılıkçı türkerin saçlarını sarıya boyatıp yurtdışına kaçma planları
 bkz enes baturun ayrılıkçı türk olduğu iddiası
 bkz ayrılıkçı türklerin ayrılıkçı islamcılara dönek demesi
