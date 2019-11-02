@@ -9,7 +9,7 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz folkan bak ne diyom kasımpaşa da bi dayın var kukold götürim mi seni ona rahatlarsın
+bkz folkan bak ne diyom kasımpaşada bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne diyodum folkan kurtuluşta bir abin var on numara sakso çekiyo nası yapıyo lavuk ya 
 https://www.uludagsozluk.com/e/42362377/ lol https://www.youtube.com/watch?v=VL6Hvvm1lV0
 https://www.uludagsozluk.com/k/tek-kur%C5%9Fun-atmadan-ingizleri-yenmek/ bkz tıklağ beğ kankağ tek click atacağn la
