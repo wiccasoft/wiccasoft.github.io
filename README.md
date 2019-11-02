@@ -11,8 +11,7 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan genç dimağlar yurt dışına gitmesin tavsiyesi
 bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
-bkz 5 kasım kolpaçino tayfur un delikanlı gibi ftam a katılması
-bkz türkiyede hiç eşcinsel olmamasının sebepleri
+bkz 5 kasım kolpaçino tayfur un delikanlı gibi ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/entry/97287360 bkz abü yalarun abü saygılar abü 
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
