@@ -11,8 +11,7 @@ bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 https://eksisozluk.com/cem-boynerden-tavsiye-yurt-disina-gitmeyin--6233628?a=popular bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/en-delikanli-dizi-karakteri--6233455?a=popular bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz hayallerde yaşıyor bazı ibneler
-bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k 
+https://eksisozluk.com/kolpacino-tayfun--5825542?a=popular bkz hayallerde yaşıyor bazı ibneler 
 bkz ypg'li görüntüleri o görüntüler için tıklayın tıklağ tıklağ
 bkz ypgli ülkücü gardaşlarımla mor dağların türküsü dinleme qeyfi
 bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın tıklağ la ne kaybedeğn
