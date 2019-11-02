@@ -10,7 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz 4 kasım kolpaçino tayfurdan ekşiciler yurt dışına gitmesin tavsiyesi
-bkz bak 155 i ararın aldırırın içeri ayağ deng alın
+bkz bak 155 i ararın aldırırın içeri ayağ deng alın fedöncüler
 bkz fedöncü terörükleri 155 e ihbar ediyik kampanyası
 bkz kolpaçino tayfurun fedöncü terörük olduğu gerçeği
 bkz fedöncü ihbar hattına kıl olduğumuz tipleri bildirek kampanyası
