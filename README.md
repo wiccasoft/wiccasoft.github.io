@@ -1,6 +1,6 @@
 [![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )
 
-[![Image](smartdata/xinhua.png)](https://www.youtube.com/watch?v=R6aRWKr38b4 )
+[![Image](smartdata/xinhua.png)](https://www.youtube.com/watch?v=IODcvRmuIWc )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=LTs9MH0Ny-k )
 
