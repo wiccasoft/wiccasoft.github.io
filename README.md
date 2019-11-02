@@ -14,6 +14,7 @@ bkz 5 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması
 bkz 5 kasım kolpaçino tayfur analiz merkezinin yurtiçine taşınması
 bkz türklerin dünyayı kendi etraflarında döndüğünü sammaları olayı
 bkz haber botumdaki 112 ülke 12 global 100 den fazla yerel gazeteyi nabacanız aa ibineler 
+bkz almanac taki big datayı saymıyorum bile
 bkz şaka maka madafaka tsıshehehehe
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz fedöncü terörük
 bkz bak 155 i ararın aldırırın içeri 
