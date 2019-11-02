@@ -10,6 +10,7 @@ bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/wa
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
 bkz ypgli terörist masum anaları katletti galeri için tıklayın 
+https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
 bkz folkan bak ne diyom kurtuluşta bi dayın var kukold götürim mi seni ona rahatlarsın
 bkz ne var lan geblo ekşiciler https://www.youtube.com/watch?v=LTs9MH0Ny-k
 la amın feryatları siktiriboktan ülkenize yatırım yapacağımı kim söyledi amınsıçtıkları
