@@ -17,6 +17,7 @@ bkz 4 kasım ftam(fatih tezcan analiz merkezi) ın yurtdışına taşınması ht
 bkz ayrılıkcıkçı ftamcılar vs ayrılıkçı fetöncüler https://www.uludagsozluk.com/e/42362377/ 
 bkz 5 kasım kolpaçino tayfur un ftam a katılması https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz yüce peyniraltısuyunun yücelerin yücesi fedöncü olduğumu ispatlaması https://www.uludagsozluk.com/e/42362829/
+https://www.uludagsozluk.com/k/at%C3%BCt%C3%BCrk%C3%BC-peygamberden-%C3%BCst%C3%BCn-g%C3%B6ren-zevat/ bzk eqledim kanka
 https://www.uludagsozluk.com/k/her-k%C4%B1z%C4%B1n-bir-gay-arkada%C5%9F%C4%B1n%C4%B1n-olmas%C4%B1/ bkz ben
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVY7ZcaybRNIBeZMp4r0czCzvm1mPPAPZBKgl569EwD9H6xTMI
 https://eksisozluk.com/gokhan-gonul-ile-mehmet-topalin-ibretlik-videosu--4563808 bkz tıklağ izle lağ
