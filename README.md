@@ -9,7 +9,8 @@ bkz 1 kasım şeyma subaşının joker i izlemedim ki şaka yaptım demesi
 bkz 1 kasım imamoğlunun taşşak moduna bağlaması https://www.youtube.com/watch?v=224nx8msD8k
 bkz 2 kasım emre morun yine yürümesi https://www.youtube.com/watch?v=NBZas925zDE
 bkz 3 kasım tangir budun doğanın yine saçmalayacak olması
-bkz ypgli terörist masum anaları katletti galeri için tıklayın 
+bkz bkz ypgli terörist masum anaları katletti galeri için tıklayın 
+bkz ypg'li teröristlerin masum insanları infaz videosu için tıklayın
 https://www.uludagsozluk.com/e/42362769/ oo spotify aferim lan velet
 bkz ülkücülerin ahmet kaya sevgisi :))))
 bkz başım belada adamın biri vurulmuş helada dinleyen ülkücü
