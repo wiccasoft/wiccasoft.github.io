@@ -29,6 +29,7 @@ oooo re ce tay yi er do van re ce tay yi er do van
 beyler hadi 1 2 3 kemalistleri çıldırtalım 
 oooo re ce tay yi er do van re ce tay yi er do van anamızı sik recep baba
 haydi beyler kurdunuz amk   re ce tay yi er do van re ce tay yi er do van 
+yahudi cesaret madalayasını kıskanan kemalciler noldu kurudunuz amk
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
