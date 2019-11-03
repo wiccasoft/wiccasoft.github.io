@@ -20,7 +20,6 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş ta
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
-
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
