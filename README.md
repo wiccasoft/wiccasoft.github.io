@@ -8,7 +8,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/k/kerimcan-durmaz/97/ bkz https://www.youtube.com/watch?v=UvMMF-J85uY
 https://www.uludagsozluk.com/k/ma%C3%A7o-erkek/&w=bg maçoyum lan ben 
 https://www.uludagsozluk.com/k/siz-benim-kim-oldu%C4%9Fumu-biliyor-musunuz/&w=bg
-https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı
+https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı tarihçi olan
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
