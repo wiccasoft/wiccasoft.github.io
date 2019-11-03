@@ -12,7 +12,7 @@ https://www.webtekno.com/rusya-yarin-butun-ulkenin-internetini-kesecek-h78884.ht
 https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--5487466?a=popular bkz rte için değer be gülüm
 https://eksisozluk.com/abdullah-catli--76370?a=popular bkz 40 iti havlatmayan kurt kurt deildir
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz llah iniş takımlarına zeval vermsi
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
