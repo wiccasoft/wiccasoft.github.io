@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=aeytLBm62eo  bkz karizma oğlu karizma
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz yaqıosun hanny 
 https://www.uludagsozluk.com/k/190-cm-erke%C4%9Fi-a%C4%9Flatan-168-cmlik-erkek/ bkz akboy rte ilişkisi
 https://www.uludagsozluk.com/k/sevgilinin-akp-li-olmas%C4%B1/&w=bg lol
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-siyah-g%C3%B6mlekle-gelen-erkek/&w=bg hele bi dur yeğen sabah gelir
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
