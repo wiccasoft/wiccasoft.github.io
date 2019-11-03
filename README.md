@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch?v=sQ_4m2ocxhI
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
-https://www.youtube.com/watch?v=35YJScJRNJY lolololololol
+https://www.youtube.com/watch?v=35YJScJRNJY zuhahahahahahahahahahahahahahahahahahahahhahahahahahaha
 https://www.uludagsozluk.com/k/sadri-al%C4%B1%C5%9F%C4%B1k/&w=bg https://www.youtube.com/watch?v=A3JgzRTQd3w
 -->
 
