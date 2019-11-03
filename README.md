@@ -6,6 +6,7 @@
 https://www.hurriyet.com.tr/kelebek/magazin/serenay-sarikaya-100-bin-liralik-dava-acti-41365532 lol
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/3-kas%C4%B1m-anonymous-un-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9Fe-sald%C4%B1rmas%C4%B1/ lol
+https://www.webtekno.com/rusya-yarin-butun-ulkenin-internetini-kesecek-h78884.html bkz yav he he
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
