@@ -38,6 +38,7 @@ bkz orospuçucuğu kemal vs recep tayyip erdogan
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz atatürk
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz rte ile yolu ayrılanlar
 bkz ahmet davutoğlanın rteye küsmesi
+bkz mahmut güloğlanın rte tarafına geçmesi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
