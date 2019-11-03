@@ -34,7 +34,8 @@ https://www.uludagsozluk.com/k/ingiliz-%C5%9Fapkas%C4%B1-takmad%C4%B1-diye-insan
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
-bkz orospuçucuğu bay kemal vs recep tayyip erdogan şaka maka atatürke bir kez daha hayran kaldım
+bkz orospuçucuğu bay kemal vs recep tayyip erdogan şaka maka atatürke bir kez daha hayran kaldım 
+düşmanımın bile akıllısı makbuldür
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz atatürk
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz rte ile yolu ayrılanlar
 https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/&w=bg hani oç rte yok
