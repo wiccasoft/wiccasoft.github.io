@@ -7,6 +7,7 @@
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-t%C3%BCrk-futbolunun-utanc%C4%B1d%C4%B1r/&w=bg lol
 https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch?v=sQ_4m2ocxhI
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
 https://www.uludagsozluk.com/k/ingilizce-bilmeyen-insan/&w=bg bkz dovu mu samet
