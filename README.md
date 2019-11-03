@@ -1,6 +1,11 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 
+[![Image](smartdata/six-f1-title.png)]( https://www.youtube.com/watch?v=lpQPXoVwyv0 )
+
+[![Image](smartdata/iraqprotests.png)]( https://www.theguardian.com/world/2019/nov/03/pm-calls-on-protesters-to-reopen-roads-after-civil-unrest )
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
+
+[![Image](smartdata/whistleblow.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph https://www.youtube.com/watch?v=35YJScJRNJY
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
