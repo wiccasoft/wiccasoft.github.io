@@ -8,7 +8,7 @@ https://www.uludagsozluk.com/k/fuck-your-life/ lol
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol
 -->
 
-[![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
+[![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=o4lq3SOB8sw )
 <!--https://www.theguardian.com/world/2019/nov/02/spanish-hebrew-medieval-bible-kennicott-galicia-spain-exhibition-->
