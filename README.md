@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch?v=sQ_4m2ocxhI
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
 https://www.uludagsozluk.com/k/ingilizce-bilmeyen-insan/&w=bg bkz dovu mu samet
+https://www.uludagsozluk.com/k/dindar-t%C3%BCrkiye-dindar-g%C3%BC%C3%A7-hedef-2023/ lol
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
