@@ -28,7 +28,7 @@ oooooooooooooo akboylar ooooooooooooooo akboylar şak şak şak
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz anamın üstünde yakalansa
 oooo re ce tay yi er do van re ce tay yi er do van
 beyler hadi 1 2 3 kemalistleri çıldırtalım 
-oooo re ce tay yi er do van re ce tay yi er do van
+oooo re ce tay yi er do van re ce tay yi er do van anamızı sik recep baba
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
