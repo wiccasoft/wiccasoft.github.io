@@ -15,8 +15,9 @@ https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--54874
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
-https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz kim lan bu
+https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz https://www.youtube.com/watch?v=6pfCC5iqny8
 https://www.uludagsozluk.com/e/42366803/ bkz bir saray ve holosko bana bir mercedes sana
+http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
