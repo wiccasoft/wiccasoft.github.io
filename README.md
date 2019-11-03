@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben mur
 bkz şaka lan şaka süleyman soylu ben
 bkz şaka lan şaka fatih maçoğlu ben
 bkz şaka lan şaka erol mürtercimler ben
-bkz şaka lan şaka falco ben iyileşim ligin içinden geçecem
+bkz şaka lan şaka falco ben iyileşim ligin içinden geçecem kuşları kudurtacaz kankağ
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
