@@ -27,6 +27,7 @@ oooooooooooooo akboylar ooooooooooooooo akboylar şak şak şak
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz anamın üstünde yakalansa
 oooo re ce tay yi er do van re ce tay yi er do van
 beyler hadi 1 2 3 kemalistleri çıldırtalım 
+merale pattes marrem soğan nası koydu  ama rece tayyi erdovan
 oooo re ce tay yi er do van re ce tay yi er do van anamızı sik recep baba
 haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
 yahudi cesaret madalayasını kıskanan kemalciler noldu kurudunuz amk
