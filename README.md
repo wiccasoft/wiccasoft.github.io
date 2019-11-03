@@ -3,7 +3,7 @@
 [![Image](smartdata/terminator.png)]( https://www.youtube.com/watch?v=zFJKy8WfFa0 )
 
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
-<!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph
+<!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
