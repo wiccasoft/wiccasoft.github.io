@@ -11,7 +11,8 @@ https://www.uludagsozluk.com/k/siz-benim-kim-oldu%C4%9Fumu-biliyor-musunuz/&w=bg
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı tarihçi olan
 bkz şaka lan şaka süleyman soylu ben
 bkz şaka lan şaka fatih maçoğlu ben
-bkz şaka lan şaka erol mürtercimler bewn
+bkz şaka lan şaka erol mürtercimler ben
+bkz şaka lan şaka falco ben iyileşim ligin içinden geçecem
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
