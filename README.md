@@ -21,6 +21,7 @@ yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana 
 2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
+bu akboyler rte nin bunları sevdiğini falan mı sanıyo
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
