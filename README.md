@@ -28,7 +28,7 @@ https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz anamın ü
 oooo re ce tay yi er do van re ce tay yi er do van
 beyler hadi 1 2 3 kemalistleri çıldırtalım 
 oooo re ce tay yi er do van re ce tay yi er do van anamızı sik recep baba
-haydi beyler kurdunuz amk   re ce tay yi er do van re ce tay yi er do van 
+haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
 yahudi cesaret madalayasını kıskanan kemalciler noldu kurudunuz amk
 -->
 
