@@ -2,7 +2,12 @@
 
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
-<!--https://www.meb.gov.tr/ -->
+<!--https://www.meb.gov.tr/ 
+https://www.uludagsozluk.com/k/yds-de-40-puan-almak-i%C3%A7in-ne-yapmal%C4%B1/
+https://www.uludagsozluk.com/k/omuza-kazak-ba%C4%9Flayan-tip/
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg
+https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg
+-->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
 
