@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız intern
 2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
 bu akboyler rte nin bunları sevdiğini falan mı sanıyo olm adam ilk sizi aç bırakacak
 akboylar dua edinden amerika fişini çeksşin rusya fişini çekerse haliniz yaman
+https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ bkz fuck me madafaka
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
