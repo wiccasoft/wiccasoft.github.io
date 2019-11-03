@@ -19,9 +19,7 @@ https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--54874
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
-https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-erkek/&w=bg bkz bir huzur bana bir uzun adam sana
-bkz rte uzun ve imamhatipli olmasaydı akboylar taparlarmıydı sorunsalı
-https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bana bir rte sana
+https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 
 -->
