@@ -18,7 +18,7 @@ kimse siklemiyo recebinizi karısı bi kaç şakşakçı dışında
 dünya zaten kıçıyla gülüyo size rezil oldunuz lan
 tayyip soytarısının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
 işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
-ysni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
+yani kankağğğ kefeniğle yolas çıkanlağğ önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana 
 2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
