@@ -5,6 +5,7 @@
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://eksisozluk.com/?q=geceye+bir+hal%c4%b1+deseni+b%c4%b1rak zuahhahahahaha
 https://www.uludagsozluk.com/k/pazar-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-tak%C4%B1lan-yaln%C4%B1z-ve-ezik-insan/
+https://www.youtube.com/watch?v=cs8mES3n0LY
 https://eksisozluk.com/biktiran-eksi-sozluk-basliklari--6234773?a=popular
 https://www.hurriyet.com.tr/kelebek/magazin/serenay-sarikaya-100-bin-liralik-dava-acti-41365532 lol
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
