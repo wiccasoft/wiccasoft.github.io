@@ -34,6 +34,7 @@ https://www.uludagsozluk.com/k/ingiliz-%C5%9Fapkas%C4%B1-takmad%C4%B1-diye-insan
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
+bk orospuçucuğu kemal vs recep tayyip erdogan
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
