@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/e/42366803/ lol
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
-https://www.dw.com/tr/erdo%C4%9Fan-uluslararas%C4%B1-bir-m%C3%BCcadelenin-i%C3%A7indeyiz-yedi-d%C3%BCvel-sald%C4%B1r%C4%B1yor/a-50970520
+https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yedi-duvele-karsi-dimdik-ayakta-duruyoruz-437390.html
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
 https://eksisozluk.com/?q=geceye+bir+hal%c4%b1+deseni+b%c4%b1rak zuahhahahahaha
 https://www.uludagsozluk.com/k/pazar-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-tak%C4%B1lan-yaln%C4%B1z-ve-ezik-insan/ 
