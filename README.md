@@ -5,7 +5,7 @@
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-e%C5%9Fcinsel-olmas%C4%B1/ lol bkz vurduruyordur pampa 
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-e%C5%9Fcinsel-olmas%C4%B1/ lol 
 https://www.haberler.com/cumhurbaskani-erdogan-gerekirse-yedi-duveli-12533793-haberi/
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
