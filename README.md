@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol htt
 https://www.youtube.com/watch?v=35YJScJRNJY bkz japonya da maymunun kutsal olması
 https://www.uludagsozluk.com/k/tayyip-allah-olmak-istiyorsa-toplanak-allah-diyek/ lol
 https://www.uludagsozluk.com/k/sadri-al%C4%B1%C5%9F%C4%B1k/&w=bg https://www.youtube.com/watch?v=A3JgzRTQd3w
+https://www.youtube.com/watch?v=yPqDUC2tDIo bkz deccalin yeryüzüne zuhur etmsei
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
