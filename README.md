@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/siz-benim-kim-oldu%C4%9Fumu-biliyor-musunuz/&w=bg
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı tarihçi olan
 bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kankağ
 bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
-bkz imamaoğlu fransada evimde hissediyorum dediğ kankağ takvim gazetesi damadın dı sanırım di mi kankağ
+bkz kankağ takvim gazetesi damadın dı sanırım di mi kankağ
 bkz ermeni dölü imamaoğlu yine yaptı yapacağını
 bkz sarayın köpekleri günleriniz sayılı
 erdoğan soytarsının iki seçeneği var ya saddama gibi ininden çıkarılacak ya hitler gibi olacak
