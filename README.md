@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
 bkz orospuçucuğu kemal vs recep tayyip erdogan
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz atatürk
+https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz rte ile yolu ayrılanlar
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
