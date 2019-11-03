@@ -14,6 +14,7 @@ bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz fransada evimde hissediyorum öyle kankağ takvim gazetesi damadın dı sanırım di mi kankağ
 bkz imamaoğlu rum hissediyorum dedi kaynak:takvim
 bkz imamaoğlu istanbul boğazına gölge devlet kurdu kaynak:takvim
+bkz imamaoğlu türbanlıların üstüne işerim dedi kaynak:takvim
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
