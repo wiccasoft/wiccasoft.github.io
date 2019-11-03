@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/k/tayyip-allah-olmak-istiyorsa-toplanak-allah-diyek
 https://www.uludagsozluk.com/k/sadri-al%C4%B1%C5%9F%C4%B1k/&w=bg https://www.youtube.com/watch?v=A3JgzRTQd3w
 https://www.youtube.com/watch?v=yPqDUC2tDIo  bkz deccalin yeryüzüne zuhur etmesi
 https://www.youtube.com/watch?v=VI757x-_wKQ  bkz halkın adamı
-https://www.youtube.com/watch?v=h6Q9id4Q_js  bkz çalıyosa benim paramı çalıyo
+https://www.youtube.com/watch?v=h6Q9id4Q_js  bkz çalıyosa benim paramı çalıyo 
 https://www.youtube.com/watch?v=aeytLBm62eo  bkz karizma oğlu karizma
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz yaqıosun hanny 
 https://www.uludagsozluk.com/k/190-cm-erke%C4%9Fi-a%C4%9Flatan-168-cmlik-erkek/ bkz akboy rte ilişkisi
