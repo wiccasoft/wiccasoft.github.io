@@ -4,6 +4,7 @@
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol
+https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve internet sana
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
 bkz bir saray 5000 koruma üç uçak trilyonlarca vurgun ve yedi sülalesine holosko rte ye 10 gb internet sana
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
