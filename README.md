@@ -18,11 +18,11 @@ kimse siklemiyo recebinizi karısı bi kaç şakşakçı dışında
 dünya zaten kıçıyla gülüyo size rezil oldunuz lan
 tayyip soytarısının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
 işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
-yani kankağğğ kefeniğle yolas çıkanlağğ önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
+yani kankağğğ kefeniğle yola çıkanlağğ önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana 
 2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
-akboylar dua edinden amerika fişini çeksin yerine başka badem bıyıklı gelir  rusya fişini çekerse haliniz yaman
+akboylar dua edinden amerika fişini çeksin yerine başka badem bıyıklı gelir rusya fişini çekerse haliniz yaman
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ bkz fuck me madafaka
 bu götten bacaklı hala mı futbol oynuyo la
 oooooooooooooo akboylar ooooooooooooooo akboylar şak şak şak 
