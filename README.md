@@ -5,7 +5,7 @@
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ 
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
-bkz bir saray 5000 koruma üç uçak trilyonlarca haram para ve yedi sülalesine holosko rte ye 10 gb internet sana
+bkz bir saray 5000 koruma üç uçak trilyonlarca vurgun ve yedi sülalesine holosko rte ye 10 gb internet sana
 https://eksisozluk.com/?q=geceye+bir+hal%c4%b1+deseni+b%c4%b1rak zuahhahahahaha
 https://www.uludagsozluk.com/k/pazar-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-tak%C4%B1lan-yaln%C4%B1z-ve-ezik-insan/
 https://www.youtube.com/watch?v=cs8mES3n0LY
