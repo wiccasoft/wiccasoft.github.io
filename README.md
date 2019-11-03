@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/siz-benim-kim-oldu%C4%9Fumu-biliyor-musunuz/&w=bg
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı tarihçi olan
 bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kankağ
 bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
-bkz fransada evimde hissediyorum öyle kankağ 
+bkz fransada evimde hissediyorum öyle kankağ takvim gazetesi damatın dı sanrıım di mi kankağ
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
