@@ -41,6 +41,7 @@ bkz mahmut güloğlanın rte tarafına geçmesi
 haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
 bkz sare davutoğlanın başını açması
 https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/&w=bg hani oç rte yok
+ororpunu sıçtıkları geceye yakışıklı bırakacaksanız rteyi bırakcasınız
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
