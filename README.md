@@ -2,14 +2,9 @@
 
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
-<!--https://www.meb.gov.tr/ yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
+<!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.hurriyet.com.tr/kelebek/magazin/serenay-sarikaya-100-bin-liralik-dava-acti-41365532 lol
-https://eksisozluk.com/ziya-selcuktan-muthis-egitim-hamlesi--6233776?a=popular
-https://www.uludagsozluk.com/k/meryem-%C3%BCzerli-nin-seksi-foto%C4%9Fraflar%C4%B1/
-https://www.uludagsozluk.com/k/yds-de-40-puan-almak-i%C3%A7in-ne-yapmal%C4%B1/
-https://www.uludagsozluk.com/k/omuza-kazak-ba%C4%9Flayan-tip/ 
-https://www.uludagsozluk.com/k/voldemort-un-kaybetmesinin-nedenleri/&w=gd bkz harry potter ı küçümsemesi
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1-aldat%C4%B1p-sana-ba%C4%9Flanmaktan-korktum-diyen-erkek/&w=bg
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/3-kas%C4%B1m-anonymous-un-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9Fe-sald%C4%B1rmas%C4%B1/ lol
 -->
 
