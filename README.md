@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş ta
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ 
 bkz erdogan fakirken mercedese jeep e binen halk
+https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ bkz rte
 https://www.uludagsozluk.com/e/42366803/ bkz bir saray ve holosko bana bir mercedes sana
 http://www.milliyet.com.tr/yerel-haberler/ankara/cumhurbaskani-erdogan-bu-fakir-bu-gorevde-oldugu-muddetce-o-teroristi-alamazsin-12524814
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
