@@ -16,6 +16,7 @@ bkz imamaoğlu rum hissediyorum dedi kaynak:takvim
 bkz imamaoğlu istanbul boğazına gölge devlet kurdu kaynak:takvim
 bkz imamaoğlu türbanlıların üstüne işerim dedi kaynak:takvim
 bkz imamaoğlu fransayı savundu 
+bkz ermnei dölü imamaoğlu yine yaptı yapacağını
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
