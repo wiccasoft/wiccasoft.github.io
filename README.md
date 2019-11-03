@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1-aldat%C4%B1p-sana-ba%C4%9Flanmakta
 https://www.uludagsozluk.com/k/omuza-kazak-ba%C4%9Flayan-tip/
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg
+https://eksisozluk.com/abdullah-catli--76370?a=popular
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
