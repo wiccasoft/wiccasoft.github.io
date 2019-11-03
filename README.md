@@ -19,7 +19,8 @@ işlediği savaş suçları isveç bankalarındaki paralarının hesabını vere
 ha bu süreçte siz baya  zorluk çekeceksiniz çünkü saray sizi siklemiyor akboylar 2023 e gün sayın 
 yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana
+https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana 
+2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
