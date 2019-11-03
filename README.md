@@ -3,6 +3,9 @@
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
+https://www.uludagsozluk.com/e/42366803/ 
+http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
+bkz bir saray 5000 koruma üç uçak trilyonlarca haram para ve yedi sülalesine holosko rte ye 10 gb internet sana
 https://eksisozluk.com/?q=geceye+bir+hal%c4%b1+deseni+b%c4%b1rak zuahhahahahaha
 https://www.uludagsozluk.com/k/pazar-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-tak%C4%B1lan-yaln%C4%B1z-ve-ezik-insan/
 https://www.youtube.com/watch?v=cs8mES3n0LY
@@ -20,9 +23,6 @@ bkz rte uzun ve imamhatipli olmasaydı akboylar taparlarmıydı sorunsalı
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bana bir rte sana
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
-https://www.uludagsozluk.com/e/42366803/ 
-bkz bir saray 5000 koruma üç uçak trilyonlarca haram para ve yedi sülalesine holosko rte ye 10 gb internet sana
-http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
