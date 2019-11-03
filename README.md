@@ -3,7 +3,7 @@
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
-https://www.uludagsozluk.com/e/42366803/ lol
+https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana
 https://www.haberler.com/cumhurbaskani-erdogan-gerekirse-yedi-duveli-12533793-haberi/
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 
