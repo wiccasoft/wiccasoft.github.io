@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ lol
 https://www.uludagsozluk.com/k/trollerin-belli-bir-zaman-sonra-sevilmesi/ lol
 https://www.uludagsozluk.com/e/42368624/ lol
+https://www.uludagsozluk.com/k/siz-benim-kim-oldu%C4%9Fumu-biliyor-musunuz/&w=bg
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı
 -->
 
