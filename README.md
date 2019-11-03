@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız intern
 akboylar dua edinden amerika fişini çeksin yerine başka badem bıyıklı gelir  rusya fişini çekerse haliniz yaman
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ bkz fuck me madafaka
 bu götten bacaklı hala mı futbol oynuyo la
+oooooooooooooo akboylar ooooooooooooooo akboylar şak şak şak 
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz anamın üstünde yakalansa
 -->
 
