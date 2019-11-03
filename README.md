@@ -26,6 +26,7 @@ https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-lif
 bu götten bacaklı hala mı futbol oynuyo la
 oooooooooooooo akboylar ooooooooooooooo akboylar şak şak şak 
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz anamın üstünde yakalansa
+oooo re ce tay yi er do van re ce tay yi er do van
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
