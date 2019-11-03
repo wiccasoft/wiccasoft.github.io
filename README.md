@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin se
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-erkek/&w=bg bkz bir huzur bana bir uzun adam sana
-bkz rte uzun ve dame bıyıklı olmasaydı akboylar taparlarmıydı sorunsalı
+bkz rte uzun ve imamhatipli olmasaydı akboylar taparlarmıydı sorunsalı
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bana bir rte sana
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
