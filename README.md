@@ -7,14 +7,8 @@
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e-t%C3%BCrk-futbolunun-utanc%C4%B1d%C4%B1r/&w=bg lol
 https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch?v=sQ_4m2ocxhI
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
-https://www.uludagsozluk.com/k/ingilizce-bilmeyen-insan/&w=bg bkz dovu mu samet
-https://www.uludagsozluk.com/k/dindar-t%C3%BCrkiye-dindar-g%C3%BC%C3%A7-hedef-2023/ lol 
-https://www.youtube.com/watch?v=F56CJup7238
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ lol
-https://www.youtube.com/watch?v=BV1RcLhMFYs lol
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
