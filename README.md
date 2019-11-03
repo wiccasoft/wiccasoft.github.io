@@ -12,8 +12,9 @@ https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben mur
 bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kankağ
 bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz kankağ takvim gazetesi damadın dı sanırım di mi kankağ
-bkz ermeni dölü imamaoğlu yine yaptı yapacağını
-bkz sarayın köpekleri günleriniz sayılı
+bkz ermeni dölü imamağlu yine yaptı yapacağını
+bkz sarayın köpekleri günleriniz sayılı kimse siklemyio recebinizi karısı bi kaç şakşakçı dışında
+dünya zaten kıçıyla gülüyo size
 erdoğan soytarsının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
 işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
 ysni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
