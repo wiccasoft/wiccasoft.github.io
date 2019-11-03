@@ -3,52 +3,7 @@
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ lol
-https://www.uludagsozluk.com/k/trollerin-belli-bir-zaman-sonra-sevilmesi/ lol
 https://www.uludagsozluk.com/e/42368624/ lol
-https://www.uludagsozluk.com/k/kerimcan-durmaz/97/ bkz https://www.youtube.com/watch?v=UvMMF-J85uY
-https://www.uludagsozluk.com/k/ma%C3%A7o-erkek/&w=bg maçoyum lan ben 
-https://www.uludagsozluk.com/k/siz-benim-kim-oldu%C4%9Fumu-biliyor-musunuz/&w=bg
-https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı tarihçi olan
-bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kankağ
-bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
-bkz kankağ takvim gazetesi damadın dı sanırım di mi kankağ
-bkz ermeni dölü imamağlu yine yaptı yapacağını
-bkz sarayın köpekleri günleriniz sayılı 
-kimse siklemiyo recebinizi karısı bi kaç şakşakçı dışında
-dünya zaten kıçıyla gülüyo size rezil oldunuz lan
-tayyip soytarısının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
-işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
-yani kankağğğ kefeniğle yola çıkanlağğ önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
-https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana 
-2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
-akboylar dua edinden amerika fişini çeksin yerine başka badem bıyıklı gelir rusya fişini çekerse haliniz yaman
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ bkz fuck me madafaka
-bu götten bacaklı hala mı futbol oynuyo la
-oooooooooooooo akboylar ooooooooooooooo akboylar şak şak şak 
-https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz anamın üstünde yakalansa
-oooo re ce tay yi er do van re ce tay yi er do van
-beyler hadi 1 2 3 kemalistleri çıldırtalım 
-merale pattes marrem soğan nası koydu  ama rece tayyi erdovan
-oooo re ce tay yi er do van re ce tay yi er do van anamızı sik recep baba
-haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
-yahudi cesaret madalayasını kıskanan kemalciler noldu kurudunuz amk
-https://www.uludagsozluk.com/k/ingiliz-%C5%9Fapkas%C4%B1-takmad%C4%B1-diye-insan-asan-zihniyet/&w=bg
-https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
-https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
-https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
-bkz orospuçucuğu bay kemal vs recep tayyip erdogan şaka maka atatürke bir kez daha hayran kaldım 
-düşmanımın bile akıllısı makbuldür
-https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz atatürk
-https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz rte ile yolu ayrılanlar
-https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/&w=bg hani oç rte yok
-orospunun sıçtıkları geceye yakışıklı bırakacaksanız rteyi bırakacasınız
-https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz adam oğlu adam
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermesin reis
-olm bu akboylar beni muhalif sanıyolar asdasdasdasdasda olm sizi açlıktan gebertse skimde olmaz lan 
-istedeğim de tam olarak bu zaten ne kadar iktidar kalırsa o kadar iyi benim için
-hamam böceği gibi ezilmenizi zevkle izleyeceğim bizansın torunları rte köpeği de görevini yapacak isterse yapmasın
-bunlar abd temsilciler meclisini mhp falan sanıyolar sanırım
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
