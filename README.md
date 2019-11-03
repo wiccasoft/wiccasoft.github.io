@@ -7,7 +7,7 @@ https://www.hurriyet.com.tr/kelebek/magazin/serenay-sarikaya-100-bin-liralik-dav
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/3-kas%C4%B1m-anonymous-un-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9Fe-sald%C4%B1rmas%C4%B1/ lol
 https://www.webtekno.com/rusya-yarin-butun-ulkenin-internetini-kesecek-h78884.html bkz yav he he
-https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--5487466?a=popular bkz rte ye bir saat bakabilmek için cehennmi bile geçerim
+https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--5487466?a=popular bkz rte için değer be gülüm
 https://eksisozluk.com/abdullah-catli--76370?a=popular bkz 40 iti havlatmayan kurt kurt deildir
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz llah iniş takımlarına zeval vermsi
