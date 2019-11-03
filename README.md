@@ -3,6 +3,7 @@
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ lol
+https://www.uludagsozluk.com/k/trollerin-belli-bir-zaman-sonra-sevilmesi/ lol
 https://www.uludagsozluk.com/e/42368624/ lol
 -->
 
