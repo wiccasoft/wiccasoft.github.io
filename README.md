@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız intern
 bu akboyler rte nin bunları sevdiğini falan mı sanıyo 
 akboylar dua edinden amerika fişini çeksşin rusya fişini çekerse haliniz yaman
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ bkz fuck me madafaka
+bu götten bacaklı hala mı futbol oynuyo la
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
