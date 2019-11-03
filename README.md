@@ -2,28 +2,6 @@
 
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
-<!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
-https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana
-https://www.haberler.com/cumhurbaskani-erdogan-gerekirse-yedi-duveli-12533793-haberi/
-http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 
-https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
-https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yedi-duvele-karsi-dimdik-ayakta-duruyoruz-437390.html
-https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
-https://eksisozluk.com/?q=geceye+bir+hal%c4%b1+deseni+b%c4%b1rak zuahhahahahaha
-https://www.uludagsozluk.com/k/pazar-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-tak%C4%B1lan-yaln%C4%B1z-ve-ezik-insan/ 
-https://www.youtube.com/watch?v=cs8mES3n0LY
-https://eksisozluk.com/biktiran-eksi-sozluk-basliklari--6234773?a=popular
-https://www.hurriyet.com.tr/kelebek/magazin/serenay-sarikaya-100-bin-liralik-dava-acti-41365532 lol
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
-https://www.uludagsozluk.com/k/3-kas%C4%B1m-anonymous-un-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9Fe-sald%C4%B1rmas%C4%B1/ lol
-https://www.webtekno.com/rusya-yarin-butun-ulkenin-internetini-kesecek-h78884.html bkz yav he he
-https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermesin
-https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
-https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
-https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
--->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
 
