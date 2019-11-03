@@ -13,6 +13,7 @@ https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--54874
 https://eksisozluk.com/abdullah-catli--76370?a=popular bkz 40 iti havlatmayan kurt kurt deildir
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
+https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
