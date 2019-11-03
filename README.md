@@ -13,9 +13,10 @@ bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kanka
 bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz kankağ takvim gazetesi damadın dı sanırım di mi kankağ
 bkz ermeni dölü imamağlu yine yaptı yapacağını
-bkz sarayın köpekleri günleriniz sayılı kimse siklemyio recebinizi karısı bi kaç şakşakçı dışında
-dünya zaten kıçıyla gülüyo size
-erdoğan soytarsının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
+bkz sarayın köpekleri günleriniz sayılı 
+kimse siklemiyo recebinizi karısı bi kaç şakşakçı dışında
+dünya zaten kıçıyla gülüyo size rezil oldunuz lan
+tayyip soytarısının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
 işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
 ysni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
