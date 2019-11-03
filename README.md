@@ -12,10 +12,11 @@ https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesi
 https://www.uludagsozluk.com/k/3-kas%C4%B1m-anonymous-un-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9Fe-sald%C4%B1rmas%C4%B1/ lol
 https://www.webtekno.com/rusya-yarin-butun-ulkenin-internetini-kesecek-h78884.html bkz yav he he
 https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--5487466?a=popular bkz rte için değer be gülüm
-https://eksisozluk.com/abdullah-catli--76370?a=popular bkz 40 iti havlatmayan kurt kurt deildir
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
+https://www.uludagsozluk.com/e/42366813/ 
+https://www.uludagsozluk.com/e/42366803/ bkz bir saray ve holosko bana bir mercedes sana
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
