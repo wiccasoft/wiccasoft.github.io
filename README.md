@@ -1,6 +1,5 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 
-
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 
@@ -150,8 +149,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 
 [![Image](sky.net/κ-Cygnid.png)](https://in-the-sky.org/news.php?id=20190818_10_100)
-<!-- https://fenerbahce.org/fenerol -->
-<!-- https://twitter.com/ekrem_imamoglu/status/1163138586121768961 consider it done-->
 <!-- https://in-the-sky.org/news.php?id=20190818_10_100-->
 [![Image](sky.net/screen597.png)](https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry)
 [![Image](sky.net/screen579.png)](https://www.internet-radio.com/station/psyradiofm/)
