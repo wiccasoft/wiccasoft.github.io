@@ -44,7 +44,8 @@ https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1r
 orospunun sıçtıkları geceye yakışıklı bırakacaksanız rteyi bırakacasınız
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz adam oğlu adam
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermesin reis
-olm bu akboylar beni muhalif sanıyolar asdasdasdasdasda olm sizi açlıktan gebertse skimde olmaz lan istedğim de tam olarak bu zaten gözüm üzerinizde gebermenizi zevkle izleyecem
+olm bu akboylar beni muhalif sanıyolar asdasdasdasdasda olm sizi açlıktan gebertse skimde olmaz lan 
+istedeğim de tam olarak bu zaten ne kadar iktidar kalırsa o kadar iyi benim için
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
