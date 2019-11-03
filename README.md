@@ -4,7 +4,7 @@
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 <!--https://www.meb.gov.tr/ yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://eksisozluk.com/ziya-selcuktan-muthis-egitim-hamlesi--6233776?a=popular
-yeni müfredatta abdullah çatlıyı ders olarak okutacaz kurtlar vadisi izleyip gelin sınava
+https://www.uludagsozluk.com/k/meryem-%C3%BCzerli-nin-seksi-foto%C4%9Fraflar%C4%B1/
 https://www.uludagsozluk.com/k/yds-de-40-puan-almak-i%C3%A7in-ne-yapmal%C4%B1/
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1-aldat%C4%B1p-sana-ba%C4%9Flanmaktan-korktum-diyen-erkek/&w=bg
 https://www.uludagsozluk.com/k/omuza-kazak-ba%C4%9Flayan-tip/ bkz omza kazak bağlayıp kızları kendine bağlayan keko
