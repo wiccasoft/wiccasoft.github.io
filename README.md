@@ -39,6 +39,7 @@ https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz atatür
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz rte ile yolu ayrılanlar
 bkz mahmut güloğlanın rte tarafına geçmesi
 haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
+bkz sare davutoğlanın başını açması
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
