@@ -4,9 +4,8 @@
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve internet sana
-http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 bkz fakir çalmadığı için fakirdir
-bkz bir saray 5000 koruma üç uçak trilyonlarca vurgun ve yedi sülalesine holosko rte ye 10 gb internet sana
+https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve internet sana 
+http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
 https://eksisozluk.com/?q=geceye+bir+hal%c4%b1+deseni+b%c4%b1rak zuahhahahahaha
 https://www.uludagsozluk.com/k/pazar-g%C3%BCn%C3%BC-s%C3%B6zl%C3%BCkte-tak%C4%B1lan-yaln%C4%B1z-ve-ezik-insan/
@@ -16,9 +15,8 @@ https://www.hurriyet.com.tr/kelebek/magazin/serenay-sarikaya-100-bin-liralik-dav
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol
 https://www.uludagsozluk.com/k/3-kas%C4%B1m-anonymous-un-uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9Fe-sald%C4%B1rmas%C4%B1/ lol
 https://www.webtekno.com/rusya-yarin-butun-ulkenin-internetini-kesecek-h78884.html bkz yav he he
-https://eksisozluk.com/sevdigini-60-dk-gormek-icin-8-saat-yol-giden-insan--5487466?a=popular bkz rte için değer be gülüm
 https://www.uludagsozluk.com/k/abdullah-%C3%A7atl%C4%B1/&w=bg bkz ypg lilerin sevmediği kahraman
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermsi
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş takımlarına zeval vermesin
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
