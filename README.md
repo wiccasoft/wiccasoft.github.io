@@ -6,6 +6,7 @@
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
+https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch?v=sQ_4m2ocxhI
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
 https://www.uludagsozluk.com/k/ingilizce-bilmeyen-insan/&w=bg bkz dovu mu samet
