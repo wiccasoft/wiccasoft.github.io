@@ -30,6 +30,10 @@ beyler hadi 1 2 3 kemalistleri çıldırtalım
 oooo re ce tay yi er do van re ce tay yi er do van anamızı sik recep baba
 haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
 yahudi cesaret madalayasını kıskanan kemalciler noldu kurudunuz amk
+https://www.uludagsozluk.com/k/ingiliz-%C5%9Fapkas%C4%B1-takmad%C4%B1-diye-insan-asan-zihniyet/&w=bg
+https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
+https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
+https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
