@@ -14,6 +14,8 @@ bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz imamaoğlu fransada evimde hissediyorum dediğ kankağ takvim gazetesi damadın dı sanırım di mi kankağ
 bkz ermeni dölü imamaoğlu yine yaptı yapacağını
 bkz sarayın köpekleri günleriniz sayılı
+erdoğan soytarsının iki seçeneği var ya saddama gibi ininden çıkarılacak ya hitler gibi olacak
+işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
