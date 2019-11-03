@@ -4,6 +4,7 @@
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph-->
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol
+bkz fakir çalmadığı için fakirdir
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve internet sana
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
 bkz bir saray 5000 koruma üç uçak trilyonlarca vurgun ve yedi sülalesine holosko rte ye 10 gb internet sana
