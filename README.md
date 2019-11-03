@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/k/trollerin-belli-bir-zaman-sonra-sevilmesi/ lol
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/k/kerimcan-durmaz/&w=bg lol
-https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben murat bardakçı
+https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben süleyman soyluer
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
