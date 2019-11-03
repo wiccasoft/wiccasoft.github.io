@@ -47,6 +47,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz zeus iniş ta
 olm bu akboylar beni muhalif sanıyolar asdasdasdasdasda olm sizi açlıktan gebertse skimde olmaz lan 
 istedeğim de tam olarak bu zaten ne kadar iktidar kalırsa o kadar iyi benim için
 hamam böceği gibi ezilmenizi zevkle izleyeceğim bizansın torunları rte köpeği de görevini yapacak isterse yapmasın
+bunlar abd temsiciler meclisini mhp falan sanıyolar sanırım
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
