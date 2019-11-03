@@ -12,10 +12,6 @@ https://www.uludagsozluk.com/k/tun%C3%A7-soyer/&w=bg ben yapmadım pampa ben mur
 bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kankağ
 bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz fransada evimde hissediyorum öyle kankağ takvim gazetesi damadın dı sanırım di mi kankağ
-bkz imamaoğlu rum hissediyorum dedi kaynak:takvim
-bkz imamaoğlu istanbul boğazına gölge devlet kurdu kaynak:takvim
-bkz imamaoğlu türbanlıların üstüne işerim dedi kaynak:takvim
-bkz imamaoğlu fransayı savundu 
 bkz ermeni dölü imamaoğlu yine yaptı yapacağını
 -->
 
