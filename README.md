@@ -15,6 +15,7 @@ bkz fransada evimde hissediyorum öyle kankağ takvim gazetesi damadın dı san�
 bkz imamaoğlu rum hissediyorum dedi kaynak:takvim
 bkz imamaoğlu istanbul boğazına gölge devlet kurdu kaynak:takvim
 bkz imamaoğlu türbanlıların üstüne işerim dedi kaynak:takvim
+bkz imamaoğlu fransayı savundu 
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
