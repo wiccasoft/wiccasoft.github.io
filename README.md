@@ -25,7 +25,7 @@ https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
 -->
 
-[![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
+[![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=R6aRWKr38b4 )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=o4lq3SOB8sw )
 <!--https://www.theguardian.com/world/2019/nov/02/spanish-hebrew-medieval-bible-kennicott-galicia-spain-exhibition-->
