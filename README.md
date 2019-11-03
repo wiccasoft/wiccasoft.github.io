@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=35YJScJRNJY bkz japonya da maymunun kutsal olmas
 https://www.uludagsozluk.com/k/tayyip-allah-olmak-istiyorsa-toplanak-allah-diyek/ lol
 https://www.uludagsozluk.com/k/sadri-al%C4%B1%C5%9F%C4%B1k/&w=bg https://www.youtube.com/watch?v=A3JgzRTQd3w
 https://www.youtube.com/watch?v=yPqDUC2tDIo bkz deccalin yeryüzüne zuhur etmesi
+https://www.youtube.com/watch?v=VI757x-_wKQ  bkz halkın adamı
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz halkın adamı https://www.youtube.com/watch?v=h6Q9id4Q_js
 -->
 
