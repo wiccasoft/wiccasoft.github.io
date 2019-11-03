@@ -34,12 +34,9 @@ https://www.uludagsozluk.com/k/ingiliz-%C5%9Fapkas%C4%B1-takmad%C4%B1-diye-insan
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bir rte bana
-bkz orospuçucuğu bay kemal vs recep tayyip erdogan
+bkz orospuçucuğu bay kemal vs recep tayyip erdogan şaka maka atatürke bir kez daha hayran kaldım
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz atatürk
 https://www.uludagsozluk.com/k/ahmet-davuto%C4%9Flu/&w=bg bkz rte ile yolu ayrılanlar
-bkz mahmut güloğlanın rte tarafına geçmesi
-haydi beyler kurdunuz amk  re ce tay yi er do van re ce tay yi er do van 
-bkz sare davutoğlanın başını açması
 https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/&w=bg hani oç rte yok
 orospunun sıçtıkları geceye yakışıklı bırakacaksanız rteyi bırakacasınız
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz adam oğlu adam
