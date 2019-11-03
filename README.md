@@ -20,7 +20,8 @@ bkz rte uzun ve imamhatipli olmasaydı akboylar taparlarmıydı sorunsalı
 https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bkz bir topkek bana bir rte sana
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
-https://www.uludagsozluk.com/e/42366803/ bkz bir saray ve holosko bana bir mercedes sana
+https://www.uludagsozluk.com/e/42366803/ 
+bkz bir saray 5000 koruma üç uçak isveç bankasında trilyonlar ve yedi sülalesine holosko rte ye bir mercedes sana
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
 -->
 
