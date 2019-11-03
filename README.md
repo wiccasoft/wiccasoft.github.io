@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol htt
 https://www.uludagsozluk.com/k/ingilizce-bilmeyen-insan/&w=bg bkz dovu mu samet
 https://www.uludagsozluk.com/k/dindar-t%C3%BCrkiye-dindar-g%C3%BC%C3%A7-hedef-2023/ lol
 https://www.youtube.com/watch?v=F56CJup7238
+https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-rakibe-fuck-your-life-demesi/ lol
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
