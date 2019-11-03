@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=yPqDUC2tDIo  bkz deccalin yeryüzüne zuhur etme
 https://www.youtube.com/watch?v=VI757x-_wKQ  bkz halkın adamı
 https://www.youtube.com/watch?v=h6Q9id4Q_js  bkz çalıyosa benim paramı çalıyo
 https://www.youtube.com/watch?v=aeytLBm62eo  bkz karizma oğlu karizma
-https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg
+https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg 
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
