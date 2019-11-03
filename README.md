@@ -21,7 +21,7 @@ https://www.uludagsozluk.com/k/kemalistllerin-en-korktu%C4%9Fu-%C5%9Fey/&w=gd bk
 https://www.uludagsozluk.com/k/halk-fakirken-mercedes-e-binen-lider/ bkz erdogan fakirken mercedese binen halk
 https://www.uludagsozluk.com/k/bu-fakir-g%C3%B6revde-oldu%C4%9Fu-s%C3%BCrece-s%C3%B6z%C3%BCndeki-fakir/ 
 https://www.uludagsozluk.com/e/42366803/ 
-bkz bir saray 5000 koruma üç uçak isveç bankasında trilyonlar ve yedi sülalesine holosko rte ye bir mercedes sana
+bkz bir saray 5000 koruma üç uçak isveç bankasında trilyonlar ve yedi sülalesine holosko rte ye bir sınırsız ülkücü internet
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752
 -->
 
