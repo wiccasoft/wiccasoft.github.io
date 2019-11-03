@@ -5,6 +5,7 @@
 <!--yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana
+https://www.haberler.com/cumhurbaskani-erdogan-gerekirse-yedi-duveli-12533793-haberi/
 http://www.hurriyet.com.tr/gundem/erdogan-milli-bir-mutabakat-olacak-40706752 
 https://www.uludagsozluk.com/k/yahudi-cesaret-madalyas%C4%B1-alan-d%C3%BCnya-lideri/
 https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-yedi-duvele-karsi-dimdik-ayakta-duruyoruz-437390.html
