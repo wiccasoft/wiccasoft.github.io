@@ -14,9 +14,9 @@ bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz kankağ takvim gazetesi damadın dı sanırım di mi kankağ
 bkz ermeni dölü imamaoğlu yine yaptı yapacağını
 bkz sarayın köpekleri günleriniz sayılı
-erdoğan soytarsının iki seçeneği var ya saddama gibi ininden çıkarılacak ya hitler gibi olacak
+erdoğan soytarsının iki seçeneği var ya saddam gibi ininden çıkarılacak ya hitler gibi olacak
 işlediği savaş suçları isveç bankalarındaki paralarının hesabını verecek 
-yeni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
+ysni önlükleriniziğ galeriğ tıklağıp görebiliğisiniz kankağ onu da ben mi tıklayağm
 https://www.uludagsozluk.com/e/42366803/ lol https://www.youtube.com/watch?v=R6aRWKr38b4
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz bir topkek ve sınırsız internet sana 
 2023 e kadar imamaoğlunun taşşakoğlanısız https://www.youtube.com/watch?v=R6aRWKr38b4
