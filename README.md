@@ -13,6 +13,7 @@ bkz şaka lan şaka falco ben ligin içinden geçecem kuşları kudurtacaz kanka
 bkz şaka lan şaka garry rodrigues ben ileri libeeo olan
 bkz fransada evimde hissediyorum öyle kankağ takvim gazetesi damadın dı sanırım di mi kankağ
 bkz ermeni dölü imamaoğlu yine yaptı yapacağını
+bkz ermeni dölü imamaoğlu camiye işedi .takvim
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=IODcvRmuIWc )
