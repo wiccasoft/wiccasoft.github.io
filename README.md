@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz göt kıllarını alan erkek
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/ lol
 https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/ bkz vurduruyordur
 https://pbs.twimg.com/media/BemC676CAAAMBxz.jpg lol https://www.youtube.com/watch?v=MTJuKPbzpcQ
