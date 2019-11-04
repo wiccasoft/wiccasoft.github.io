@@ -31,6 +31,7 @@ https://www.uludagsozluk.com/k/avm-de-y%C3%BCr%C3%BCrken-ayak-%C3%BCst%C3%BC-s%C
 https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/ bkz kozmik sırların açığa çıkması
 https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/ hadi süleyman bunu da açıkla
 https://www.uludagsozluk.com/k/s400-ler-ne-oldu/ hadi hulusi bunu da açıkla
+bkz uzun adamın kozmik odayı 256 bit şifreleyeceği gerçeği
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
