@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz süper güç olsak mı ya la
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz karizmanın vücut bulmuş hali
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ben de özledim ben de resmin var şuan elinde
 bkz nükleer güç olsak mı sorunsalı napak kankağğğ olak hadi lo hadi olak enerji bakanısa söyleyin olsun
