@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz götüne tank sokmak için yarışan aktroller
-bkz vuruşmaktan korkan erkek
+bkz götüne tank sokarken ağlayan erkek
 bkz tankı götüme ilk ben sokarım diyip sokmayan akpli reis
 bkz götü kalp şeklinde imamoğlu atan surat
 bkz kamalitlerin uğramadığı başlıklar
