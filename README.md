@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz geceye bir halı deseni bırak
+bkz eski sevdiceğin geceye bir halı deseni bırak deyip halı atması
 bkz 177. sevdiceğin neler kaçırdığını bilmosaaan gerizkalığğ deyip kapaması
 bkz ilk sevdiceğin gece arayıp pompadayım kıskanmıyomusun mu gerikalığğğ demesi
 bkz eski sevdicekten 5 önceki sevdiceğin arayıp sesini duymak istedim demesi
