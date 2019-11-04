@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.youtube.com/watch?v=b33Fq2s4NVY 
 bkz minareyi götüme sokacam diyip sokmayan ümmet lideri
 bkz camiler kışla şiirini okuyup okuyup duygulanmak
 bkz saraydan halkını göte tank sokmaya davet eden ümmet lideri
