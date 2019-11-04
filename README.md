@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz eski sevgiliye la bize her yer ankara klibib yollamak
 bkz eski sevgiliye hayatı tespih yapmışım sallıyormuşum şarkısı yollamak
 bkz yardıra yardıra gitmek
 https://www.uludagsozluk.com/k/%C3%A7evirme-yapan-polise-selekt%C3%B6r-yapa-yapa-ge%C3%A7mek/
