@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz eski sevdiceğin telefon numarasını okşayıp negüzel numarasın demek
 bkz eski sevdiceğinni numarısını silmeyen erkek adam mıdır
 bkz evlenince karısının soyadını alan adam delikanlı mıdır sorunsalı
 bkz eski sevdiceği arayıp silivri soğuktur şimdi diye tehdit etmek
