@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+bkz süleyman soylu nun 8000 personeli fetöcü diye kovması
 https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1kar%C4%B1m-deyip-tv-izlemek/ 
 https://www.uludagsozluk.com/k/bir-hem%C5%9Fire-de-namus-aramak/ bkz akboylarda beyin aramak
 https://www.uludagsozluk.com/k/t%C3%BCrk-insan%C4%B1-%C3%A7ok-%C3%A7al%C4%B1%C5%9F%C4%B1yor/ lol
