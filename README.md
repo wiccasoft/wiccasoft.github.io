@@ -16,6 +16,8 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz yardıra yardıra gitmek
+https://www.uludagsozluk.com/k/%C3%A7evirme-yapan-polise-selekt%C3%B6r-yapa-yapa-ge%C3%A7mek/
 bkz eski sevdiceğin geceye bir halı deseni bırak deyip halı atması
 bkz 177. sevdiceğin neler kaçırdığını bilmosaaan gerizkalığğ deyip kapaması
 bkz ilk sevdiceğin gece arayıp pompadayım kıskanmıyomusun mu gerikalığğğ demesi
