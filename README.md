@@ -15,9 +15,8 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
-bkz o senin güzelliğin bekircim şımartıyosun
-https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz dostluğumuz aşkımız hiç bitmedi
-https://www.uludagsozluk.com/k/bekir-bozda%C4%9F-%C4%B1n-fethullah-g%C3%BClen-g%C3%BCzellemesi/&w=bg bkz eywolle bekircim
+https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz dostluğumuz hiç bitmedi
+https://www.uludagsozluk.com/k/bekir-bozda%C4%9F-%C4%B1n-fethullah-g%C3%BClen-g%C3%BCzellemesi/&w=bg bkz o senin güzelliğin
 https://www.uludagsozluk.com/k/fethullah-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ bkz isim verme supermen
 https://www.uludagsozluk.com/k/akp-lilerin-moron-olmas%C4%B1/&w=bg bkz bir gerçek evet
 bkz ekremi ekonomi bakanı sanana akboylar https://www.youtube.com/watch?v=VI757x-_wKQ
