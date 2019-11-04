@@ -21,6 +21,7 @@ https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
 https://www.youtube.com/watch?v=35YJScJRNJY bkz adsasdasdsada
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz yaqıosun hanny 
+https://www.uludagsozluk.com/k/chp-lilerin-%C3%A7ok-%C3%B6dlek-olmas%C4%B1/ hadi çacuşoğlan buna da cevap ver
 https://www.uludagsozluk.com/k/sevgilinin-akp-li-olmas%C4%B1/&w=bg lol
 https://twitter.com/rabianursah/status/1010685449017397248 hadi atayızlar bunu da açıklayın 
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-avrupa-ya-%C5%9Fikayet-eden-t%C3%BCrbanl%C4%B1/ hadi bunu da açıkla tayyip
