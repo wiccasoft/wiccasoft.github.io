@@ -35,6 +35,7 @@ bkz sülaymanın memurlar görevde sigara içiebilir hakkında kararnameyi oanyl
 bkz soyulu soyuzları en geç aralıkta tselim edecez açıklması
 bkz serkan inci nin yerim uzun adamın yanıdır tweeti
 bkz uzun adamın kozmik odayı 256 bit şifreleyip açacağı gerçeği
+bkz soylunun hakkari emniyet müdürünü araması nassın lavuk demesi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
