@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz eski sevdiceğin arayıp kukum yanıyo demesi
 bkz eski sevdiceğin kukold yapalım mı diye mesaj atması
-bkz uyuyan sevdiceği izlerken uykunun gelmesi
+bkz uyuyan sevdiceği izlerken eski sevdiceğin araması
 bkz tayyip budun doğanın gece gece terörüst nazlı ılıcakın son hali bu diye masj atması
 bkz eski sevdiceğin numarısının üstüne parmağı koyup arasam mı diye düşünmek
 bkz eski sevdiceğin telefon numarasını okşayıp negüzel numarasın demek
