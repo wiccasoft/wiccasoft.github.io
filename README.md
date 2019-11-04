@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.youtube.com/watch?v=b33Fq2s4NVY 
 bkz minareyi götüme sokacam diyip sokmayan ümmet lideri
-https://www.youtube.com/watch?v=jkc7Javb7B0
+https://www.youtube.com/watch?v=jkc7Javb7B0 bkz tc erdoğan cumhuriyeti
 bkz camiler kışla şiirini okuyup okuyup duygulanmak
 bkz saraydan halkını göte tank sokmaya davet eden ümmet lideri
 bkz tankı en çok ben götüne sokarım diyen ümmet lideri
