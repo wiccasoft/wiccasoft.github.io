@@ -21,7 +21,7 @@ bkz wikipedia'nın fetö nün karargahı olması
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg bkz ismail alpen
 bkz imamoğlunun mercedesli paylaşımı bkz tiamatı deli etmek tıshehehe
 https://www.uludagsozluk.com/k/fet%C3%B6-tahliyeleri-sonras%C4%B1-akp-liler/ bkz asdasdasdasdasdasd
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ekrem-imamo%C4%9Flunu-tokatlar-m%C4%B1/ bkz tokat manyağı yapar
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ekrem-imamo%C4%9Flunu-tokatlar-m%C4%B1/ bkz yarramı tokatlar
 bkz tayyoş dağa küsmüş dağın haberi olmamış lan tayyoş küçtün mü şen bana dizimde büyüdü kerata küşmes abisi :))))
 https://www.uludagsozluk.com/k/acaba-tayyip-ile-fethullah-yeniden-bar%C4%B1%C5%9F%C4%B1r-m%C4%B1/&w=bg bkz küs değilizki
 https://www.uludagsozluk.com/k/feminist-d%C3%BCnyada-erkek-olmak/&w=bg bkz zuhahahahahaha
