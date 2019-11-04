@@ -17,6 +17,9 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz minareyi götüme sokacam diyip sokmayan ümmet lideri
 https://www.youtube.com/watch?v=jkc7Javb7B0 bkz rt erdoğan ümmeti
+https://www.youtube.com/watch?v=VI757x-_wKQ bkz akboyların kriz var sanması
+https://www.uludagsozluk.com/k/ekonomi-k%C3%B6t%C3%BC-ekrem-in-mercedesi-iyi/ bkz erdoğan seninle aynı fikirde değil
+
 bkz camiler kışla şiirini okuyup okuyup duygulanmak
 bkz saraydan halkını göte tank sokmaya davet eden ümmet lideri
 bkz tankı en çok ben götüne sokarım diyen ümmet lideri
