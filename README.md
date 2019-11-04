@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-karizmas%C4%B1n%C4%B1-yerle-bir-etmesi/ bkz karizma oğlu rte vs ibibik
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
