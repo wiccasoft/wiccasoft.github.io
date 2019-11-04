@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
-bkz tayyip dağa küsmüş dağın haberi olmamış lan tayyip küçtün mü şen bana çen küşeymiydin
+bkz tayyoş dağa küsmüş dağın haberi olmamış lan tayyoş küçtün mü şen bana kıyamam yahu affetttim tamam
 https://www.uludagsozluk.com/k/acaba-tayyip-ile-fethullah-yeniden-bar%C4%B1%C5%9F%C4%B1r-m%C4%B1/&w=bg bkz küs değilizki
 https://www.uludagsozluk.com/k/feminist-d%C3%BCnyada-erkek-olmak/&w=bg bkz zuhahahahahaha
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz yiğit devletini savunur it kaçar
