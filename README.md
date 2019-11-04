@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz rte ninm gece gece terörüst nazlı ılıcakın son hali bu diye masj atması
 bkz eski sevdiceğin numarısının üstüne parmağı koyup arasam mı diye düşünmek
 bkz eski sevdiceğin telefon numarasını okşayıp negüzel numarasın demek
 bkz eski sevdiceğinni numarısını silmeyen erkek adam mıdır
