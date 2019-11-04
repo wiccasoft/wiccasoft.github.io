@@ -20,6 +20,8 @@ bkz eski sevgiliye kralına atar yapmışım senin giderin hoşuma gider diye me
 bkz eski sevgiliye la bize her yer ankara klibib yollamak
 bkz eski sevgiliye hayatı tespih yapmışım sallıyormuşum şarkısı yollamak
 bkz yardıra yardıra gitmek
+bkz akboyların kendini rte sanması
+https://www.uludagsozluk.com/k/t%C3%BCrkiyedeki-az%C4%B1nl%C4%B1klar%C4%B1n-sesi-k%C4%B1s%C4%B1ls%C4%B1n-kampanyas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7evirme-yapan-polise-selekt%C3%B6r-yapa-yapa-ge%C3%A7mek/
 bkz eski sevdiceğin geceye bir halı deseni bırak deyip halı atması
 bkz 177. sevdiceğin neler kaçırdığını bilmosaaan gerizkalığğ deyip kapaması
