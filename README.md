@@ -17,6 +17,8 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz kozmik sırları baban mı açtı sanıyosun köpek soyu
 https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/&w=gd 
+bkz kılışdarın kardeşinin iddiası
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-%C4%B1spanaklar%C4%B1-zehirledi%C4%9Fi-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-%C3%A7o%C4%9Fu-avrupa-%C3%BClkesinden-g%C3%BCzel-olmas%C4%B1/ bkz lol
 https://www.uludagsozluk.com/k/chp-lileri-morartacak-k%C4%B1l%C4%B1%C5%9Fdaro%C4%9Flu-foto%C4%9Fraf%C4%B1/ hangi oç yaptı 
 https://www.uludagsozluk.com/k/ecevit-ile-fetonun-sevdas%C4%B1/ bkz gözleri fetö diye gülen surat
