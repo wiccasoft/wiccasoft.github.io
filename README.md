@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz gece gece rte yiy arayıp çekirdek çitlemek
+bkz rte nin gece gece  herkesi araması
 bkz gece gece fathi terim arayıp falcao yarın oynayacak mı diye sormak
 bkz gece gece pelin çifti arayıp ya pelin kardeş çok rahat konuşuyodun demek
 bkz 155 i arayıp wallaha hepinizi aldırırın içerü diyiyp kapatmak
