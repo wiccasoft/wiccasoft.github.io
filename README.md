@@ -20,6 +20,7 @@ bkz gece gece pelin çifti arayıp ya pelin kardeş çok rahat konuşuyodun deme
 bkz tangır budun doğanın terörist nazlı ılıcak son hali.jpg yollayıp yaa noldi rencin soldi demesi
 bkz tangır budun doğanın 20 yaşındaki akboylarla forum sitesinde ne iş yaptığı sorundalı
 bkz himalayğla ypg bayrağğ
+https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg bkz itlerin hükmü ersun gelene kadardır
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
