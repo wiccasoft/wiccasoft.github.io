@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz eski sevgiliya selhatytin demirtaş son hali.png yi göndermek
 bkz eski sevgiliye tetörirst nazlı ılıcağın son hali.jpg i göndermek
 bkz eski sevgilileri  kızlar kızlar gelem mi yanağızdan öpemmi diye toplu mesaj göndermek
 bkz eski dostla sevgili kalmak
