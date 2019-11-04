@@ -39,7 +39,8 @@ bkz pkk nın temsilciler meclisine adamını sokması
 bkz isis in camilere saldırabiliriz açıklaması
 bkz pkknın potin le trump ı birbirine vurduracak olması
 bkz imamaoglunun isis e desteğini çekmesi
-bkz imamoğlunun barzaniyi tehdit etmesi
+bkz imamoğlunun barzaniyle halay çekmesi
+bkz imamoğlunun şöförünün zafer işareti yapması
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
