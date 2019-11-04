@@ -23,6 +23,7 @@ https://www.uludagsozluk.com/k/gitti-dimi-lan-gitti-dimi/ lol
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-siyah-g%C3%B6mlekle-gelen-erkek/&w=bg hele bi dur yeğen sabah gelir
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-chp-yi-hedef-almas%C4%B1/ bkz chpkk
 https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-fransa-da-evimde-hissediyorum-demesi/&w=bg bkz ermeni tohumu
+bkz damadın gazatesinin imamaoğlana  yine boru gibi saplaması
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
