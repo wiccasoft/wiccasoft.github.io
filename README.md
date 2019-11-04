@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz nagehanı arayıp nazlı ılıcak son hali.jpeg yollayıp senin de sonun böyle olacak demek
+bkz nagehan a nazlı ılıcak son hali.jpeg yollayıp senin de sonun böyle olacak demek
 bkz rtenin nazlı ılıcakla mehemt altanı mercedesle tahliye etmesi
 bkz gece gece ali koçu arayıp alper potuk yarın oynar mı koçum diye sormak
 bkz çini kaç satte alırız sorunsalı
