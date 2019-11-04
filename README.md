@@ -28,6 +28,7 @@ How Chinese astronauts spend a day in space? Find out
 https://www.youtube.com/watch?v=KpWCAd3dl6o (hadi imamaoğlan bunu da açıkla)
 https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/ hadi süleyman bunu da açıkla
 https://www.uludagsozluk.com/k/s400-ler-ne-oldu/ hadi hulusi bunu da açıkla
+bkz sülünün recöye kızıp içişlerin bakanlığı personel alımlarını durdurması
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
