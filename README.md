@@ -34,7 +34,7 @@ bkz sülünün uyuşturcu satanların ayaklarını kırın talimatı
 bkz tayyipin kozmik odanın şifresini emineye vermemesi
 bkz soyulu soyuzları en geç arlıkta tselim edecez açıklması
 bkz serkan inci nin yerim uzun adamın yanıdır tweeti
-bkz uzun adamın kozmik odada çevridği işler
+bkz uzun adamın kozmik odayı 256 bit şifreleyip açacağı gerçeği
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
