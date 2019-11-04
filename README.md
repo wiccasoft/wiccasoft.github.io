@@ -39,6 +39,7 @@ bkz isis in camilere saldırabiliriz açıklaması
 bkz pkknın potin le trump ı birbirine vurduracak olması
 bkz imamaoglunun isis e desteğini çekmesi
 bkz pydli gazetecinin ankara marşına lavuk marşı demesi
+bkz pkk helsinki ofisine torpilli geçen akp li
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
