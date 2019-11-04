@@ -27,7 +27,7 @@ https://scontent.cdninstagram.com/vp/714be2324ecbb926779c52a509087bb2/5E0CB6C6/t
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz süper güç olsak mı ya la
 https://www.youtube.com/watch?v=HB22MTDUqi4 bkz akboyların beyin fırtınası
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz karizmanın vücut bulmuş hali
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ben de özledim ben de resmin var şuan elinde
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ben de özledim ben de resmin var şuan elinde https://www.youtube.com/watch?v=MTJuKPbzpcQ
 bkz nükleer güç olsak mı sorunsalı napak kankağğğ olak hadi lo hadi olak enerji bakanısa söyleyin olsun
 bkz suriyeyi ırak ı alıp osmanlıyı diriltsek mi soreunsalı
 bkz amerikanın it gibi dize getirsek mi sorunsalı
