@@ -16,8 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz demirtaşın nazlı ılıcakı mercedesle aldırması
-bkz nazlı ılıcakın ahmet altanla mercedesli tahliye paylaşımı
+bkz rtenin nazlı ılıcakla mehemt altanı mercedesle aldırması
 bkz ersun yanalı arayıp sen gelince it gibi korkuyor cinconlular demek
 bkz gece gece ali koçu arayıp alper potuk yarın oynar mı koçum diye sormak
 https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg bkz itlerin hükmü kral gelene kadardır
