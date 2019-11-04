@@ -15,9 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
-bkz onları kim tahliye etti sanıyosun köpek soyu
-https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-ve-altan-karde%C5%9Flerin-tahliye-edilmesi/
-bkz kozmik sırları baban mı açtı sanıyosun
+bkz kozmik sırları baban mı açtı sanıyosun köpek soyu
 https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/&w=gd 
 https://www.uludagsozluk.com/k/chp-lileri-morartacak-k%C4%B1l%C4%B1%C5%9Fdaro%C4%9Flu-foto%C4%9Fraf%C4%B1/ hangi oç yaptı 
 https://www.uludagsozluk.com/k/ecevit-ile-fetonun-sevdas%C4%B1/ bkz gözleri fetö diye gülen surat
