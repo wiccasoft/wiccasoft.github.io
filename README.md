@@ -19,7 +19,6 @@ bkz götüne tank sokmak için yarışan aktroller
 bkz tankı götüme ilk ben sokarım diyip sokmayan akpli reis
 bkz götü kalp şeklinde imamoğlu atan surat
 bkz kamalitlerin uğramadığı başlıklar
-bkz tankı götüme sokarım diyip sokmayıp evde viski tv keyfi yapmak
 bkz rihanna nın tankı götüme sokarım diyip evde tv izlemesi
 https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1kar%C4%B1m-deyip-tv-izlemek/
 bkz götü kalp şeklinde imamaoğlu atan badem bıyıklı surat
