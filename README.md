@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+bkz götüne tank sokmak için yarışan aktroller
 bkz tankı götüme ilk ben sokarım diyip sokmayan hdpli
 bkz götüme ypg bayrağı sokarım diyip sokmayan chpli
 https://www.uludagsozluk.com/k/himalayalara-ypg-bayra%C4%9F%C4%B1-dikerken-%C3%B6len-ispanyol/
