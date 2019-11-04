@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-%C3%A7ok-ilgin%C3%A7-videosu/ bkz gözleri süleyman diye dülen surat
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-soylu-ya-verdi%C4%9Fi-ahmak-cevab%C4%B1/ bkz gözleri ekrem diye gülen surat
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz süleyman diye yazılır soysuzları kudurtur
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rte diye yazılır adam diye okunur
