@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
-https://www.uludagsozluk.com/k/feminist-d%C3%BCnyada-erkek-olmak/&w=bg bkz zuhahahahahaha ney ney maskulen olmasın o
+https://www.uludagsozluk.com/k/feminist-d%C3%BCnyada-erkek-olmak/&w=bg bkz zuhahahahahaha
 https://www.uludagsozluk.com/k/acaba-tayyip-ile-fethullah-yeniden-bar%C4%B1%C5%9F%C4%B1r-m%C4%B1/&w=bg bkz küs değilizki
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz yiğit devletini savunur it kaçar
 https://www.uludagsozluk.com/k/tayyip-in-ibretlik-t%C3%BCrk%C3%A7e-olimpiyatlar%C4%B1-konu%C5%9Fmas%C4%B1/&w=bg 
