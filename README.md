@@ -17,9 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz götüne tank sokmak için yarışan aktroller
 bkz tankı götüme ilk ben sokarım diyip sokmayan hdpli
-bkz götüme ypg bayrağı sokarım diyip sokmayan chpli
-https://www.uludagsozluk.com/k/himalayalara-ypg-bayra%C4%9F%C4%B1-dikerken-%C3%B6len-ispanyol/
-bkz götü kalp şeklinde imamaoğlu atan surat
+bkz götü kalp şeklinde imamoğlu atan surat
 bkz kamalitlerin uğramadığı başlıklar
 bkz tankı götüme sokarım diyip sokmayıp evde viski tv keyfi yapmak
 bkz rihanna nın tankı götüme sokarım diyip evde tv izlemesi
