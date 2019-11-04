@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz karizmanın vücut bulmuş hali
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ben de özledim ben de resmin var akboyum elinde
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg ben de özledim ben de resmin var şuan elinde
 bkz nükleer güç olsak mı sorunsalı napak kankağğğ olak hadi lo
 bkz suriyeyi ırak ı alıp osmanlıyı diriltsek mi soreunsalı
 bkz amerikanın it gibi dize getirsek mi sorunsalı
