@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/akp-lilerin-moron-olmas%C4%B1/&w=bg bkz bir gerçek evet
 bkz ekremi ekonomi bakanı sanana akboylar https://www.youtube.com/watch?v=VI757x-_wKQ
 bkz tiamatın neden dilenmediği sorunsalı https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.uludagsozluk.com/k/ekonomi-k%C3%B6t%C3%BC-iken-mercedes-ile-gezmek/ bkz ekrem bizi böhmir
