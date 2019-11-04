@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://pbs.twimg.com/media/BemC676CAAAMBxz.jpg lol
+bkz akboyların en iyiy yaptığı şeyin recep tayyip erdoğan ı övmek olduğu gerçeği
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/ bkz lol
 https://scontent.cdninstagram.com/vp/714be2324ecbb926779c52a509087bb2/5E0CB6C6/t51.2885-15/e35/12393644_1295506540466894_2096701774_n.jpg?_nc_ht=scontent-frt3-1.cdninstagram.com&_nc_cat=102
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/ bkz süper güç olsak mı ya la
