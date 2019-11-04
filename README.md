@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 bkz kamalitlerin uğramadığı başlıklar
 bkz rihanna nın tankı götüme sokarım diyip evde tv izlemesi
 https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1kar%C4%B1m-deyip-tv-izlemek/
-bkz kalkışma olduğu gece kışıçtaroğlunun tv izlemesi
+bkz götü kalp şeklinde imamaoğlu atan badem bıyıklı surat
 https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-darp-yok-g%C3%B6r%C3%BCnt%C3%BC-kar%C4%B1%C5%9Fm%C4%B1%C5%9F-a%C3%A7%C4%B1klamas%C4%B1/ bkz götü kalp şeklinde imamaoğlu atan surat
 bkz süleyman soylu nun 8000 personeli fetöcü diye tankın üstüne çıkarması
 https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1kar%C4%B1m-deyip-tv-izlemek/ 
