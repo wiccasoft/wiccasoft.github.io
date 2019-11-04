@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+bkz tiamatın neden dilenmediği sorunsalı
 https://www.uludagsozluk.com/k/chp-lileri-g%C3%B6t-eden-ekrem-imamo%C4%9Flu/ bkz chpli itlerin uğramadığı başlıklar
 bkz kozmik odayı baban mı açtı sanıyosun
 https://www.youtube.com/watch?v=VI757x-_wKQ bkz akboyların kriz var sanması güldüren olay evet
