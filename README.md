@@ -21,25 +21,9 @@ https://www.uludagsozluk.com/k/fuck-your-life/ lol https://www.youtube.com/watch
 https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol https://www.youtube.com/watch?v=M6HxD6sZ-I0
 https://www.youtube.com/watch?v=35YJScJRNJY bkz adsasdasdsada
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz yaqıosun hanny 
-https://www.uludagsozluk.com/k/190-cm-erke%C4%9Fi-a%C4%9Flatan-168-cmlik-erkek/ bkz akboy rte ilişkisi
 https://www.uludagsozluk.com/k/sevgilinin-akp-li-olmas%C4%B1/&w=bg lol
-https://www.uludagsozluk.com/k/gitti-dimi-lan-gitti-dimi/ lol
-https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-siyah-g%C3%B6mlekle-gelen-erkek/&w=bg hele bi dur yeğen sabah gelir
-https://www.uludagsozluk.com/k/pkk-n%C4%B1n-chp-yi-hedef-almas%C4%B1/ bkz chpkk
-https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-fransa-da-evimde-hissediyorum-demesi/&w=bg bkz ermeni tohumu
 https://twitter.com/rabianursah/status/1010685449017397248 hadi atayızlar bunu da açıklayın https://www.uludagsozluk.com/e/42371682/ lol
 https://www.uludagsozluk.com/k/istanbul-da-ya%C5%9Fanan-%C4%B1spanak-zehirlenmeleri/ hadi imamoğlan bunu da açıkla
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-korumalar%C4%B1-trafikte-vatanda%C5%9F%C4%B1-darp-etmesi/ 
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-devlete-katil-diyen-kar%C4%B1yla-foto%C4%9Fraf%C4%B1/
-hadi ermeni dölleri bunu da savunun
-bkz pkk nın trumpa baskı yapması
-https://www.uludagsozluk.com/k/akp-pkk-bah%C3%A7eli-hdp-fet%C3%B6-cia-barzani/&w=bg bkz topunuz gelin 
-bkz pkk nın temsilciler meclisine adamını sokması
-bkz isis in camilere saldırabiliriz açıklaması
-bkz pkknın potin le trump ı birbirine vurduracak olması
-bkz imamaoglunun isis e desteğini çekmesi
-bkz pydli gazetecinin ankara marşına lavuk marşı demesi
-bkz pkk helsinki ofisine torpilli geçen akp li
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
