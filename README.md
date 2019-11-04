@@ -38,6 +38,7 @@ https://www.uludagsozluk.com/k/akp-pkk-bah%C3%A7eli-hdp-fet%C3%B6-cia-barzani/&w
 bkz pkk nın temsilciler meclisine adamını sokması
 bkz isis in camilere saldırabiliriz açıklaması
 bkz pkknın potin le trump ı birbirine vurduracak olması
+bkz imamaoglunun isis e desteğini çekmesi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
