@@ -19,6 +19,7 @@ bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg bkz ismail alpen
+https://www.uludagsozluk.com/k/haluk-un-meltem-i-aldatt%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ bkz ana dovu mu havıç
 bkz imamoğlunun mercedesli paylaşımı bkz tiamatı deli etmek tıshehehe
 https://www.uludagsozluk.com/k/fet%C3%B6-tahliyeleri-sonras%C4%B1-akp-liler/ bkz asdasdasdasdasdasd
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ekrem-imamo%C4%9Flunu-tokatlar-m%C4%B1/ bkz yarramı tokatlar
