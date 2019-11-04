@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+https://www.uludagsozluk.com/k/yasak-elma-y%C4%B1ld%C4%B1z-ve-ender-ikilisi/ bkz tatlı cadı selena daki yıldız mı o
 https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/ bkz vurduruyordur
 https://pbs.twimg.com/media/BemC676CAAAMBxz.jpg lol https://www.youtube.com/watch?v=MTJuKPbzpcQ
 https://www.uludagsozluk.com/k/alper-er%C3%B6zer/&w=bg bkz akboyların akranı https://www.youtube.com/watch?v=MTJuKPbzpcQ
