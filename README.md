@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
+https://www.uludagsozluk.com/k/ahmet-altan/&w=bg bkz çetin altanın oğlu mehmet altan ın kardeşi
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg bkz ismail alpen
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak/&w=bg bkz alo nagehan
 https://www.uludagsozluk.com/k/haluk-un-meltem-i-aldatt%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ bkz ana dovu mu havıç
