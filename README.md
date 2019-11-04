@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/35-ya%C5%9F%C4%B1nda-baba-olan-adam/ 42 yaşında olacağım seneye
 bkz tayyoş dağa küsmüş dağın haberi olmamış lan tayyoş küçtün mü şen bana dizimde büyüdü kerata amcasına küşmez o :))))
 https://www.uludagsozluk.com/k/acaba-tayyip-ile-fethullah-yeniden-bar%C4%B1%C5%9F%C4%B1r-m%C4%B1/&w=bg bkz küs değilizki
 https://www.uludagsozluk.com/k/feminist-d%C3%BCnyada-erkek-olmak/&w=bg bkz zuhahahahahaha
