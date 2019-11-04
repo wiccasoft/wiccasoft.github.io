@@ -15,9 +15,10 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.youtube.com/watch?v=VI757x-_wKQ bkz akboyların kriz var sanması
+https://www.uludagsozluk.com/k/ekonomi-k%C3%B6t%C3%BC-iken-mercedes-ile-gezmek/ bkz bana öyle bir bilgi gelmedi
 bkz nmercedes paramı lan it https://www.youtube.com/watch?v=mSVKiiPei0s
 bkz 190 mercecerslerle gezerim beeeen https://www.youtube.com/watch?v=2Dom6nTizhQ
-bkz fakir akboylara birer mercedes alıp ağlamayın lan demek
 https://www.youtube.com/watch?v=QzNwKc6hAnk
 bkz minareyi götüme sokacam diyip sokmayan ümmet lideri
 https://www.youtube.com/watch?v=jkc7Javb7B0 bkz rt erdoğan ümmeti
