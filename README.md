@@ -34,6 +34,7 @@ https://www.uludagsozluk.com/k/s400-ler-ne-oldu/ hadi hulusi bunu da açıkla
 bkz uzun adamın kozmik odayı 256 bit şifreleyeceği gerçeği
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1lar%C4%B1n-fet%C3%B6-ve-akp-ile-ili%C5%9Fkisi/ bkz nurcuların sessizliği
 https://www.uludagsozluk.com/k/cep-herk%C3%BCl%C3%BC-naim-s%C3%BCleymano%C4%9Flu/&w=bg
+bkz saidi nursinin süleymancıları tehdit etmesi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
