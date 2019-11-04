@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-%C3%B6n-veren-yazarlar/bkz ak süper boylar
 bkz zaten süper gücüz gücü azaltsak mı sorunsalı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/
 bkz akboyların nükleer süper güç olmayalım kararı
