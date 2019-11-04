@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz tetörirst nazlı ılıcağın son hali.jpg
-bkz çocuk taklidi yapan sevdiceğe tokat atıp adam ol lan demek
+bkz çocuk taklidi yapan yeni sevdiceğe tokat atıp adam ol lan demek
 bkz eski sevdiceğin çocuk taklidi yapması
 bkz kızının adını eski sevdiceğinin adını koyan baba
 https://www.uludagsozluk.com/k/evlenince-soyad%C4%B1n%C4%B1-de%C4%9Fi%C5%9Ftiren-erkek/&w=bg bkz eywalla gözümsün
