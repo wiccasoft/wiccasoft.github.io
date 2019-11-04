@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+bkz tankla drift yapıp türbanlı tavlamak
 bkz götüme en çok ben tank sokarım diyen adam
 bkz götüne tankı sokup tek millet tek vatan tek devlet diyen adam
 bkz götüme tank sokacam diyip sokan adam
