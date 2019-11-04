@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz eski sevdiceğin gece arayıp pompadayıkm kıskanmıyon mu demesi
 bkz kızının adını eski sevdiceğinin adını koyan baba
 https://www.uludagsozluk.com/k/evlenince-soyad%C4%B1n%C4%B1-de%C4%9Fi%C5%9Ftiren-erkek/&w=bg bkz eywalla gözümsün
 bkz eski sevgiliye kralına atar yapmışım senin giderin hoşuma gider diye mesaj atmak
