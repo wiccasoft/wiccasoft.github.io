@@ -16,6 +16,8 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz sal gitsin kanka dönersen senindir dönmezse sevm emeiştir be kankağ
+https://www.uludagsozluk.com/k/a%C4%9F%C4%B1rla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F-m%C3%BCebbet-verdi%C4%9Fin-ter%C3%B6risti-salmak/
 bkz sevdiceğine sevgililer gününde çiçek almayan erkek adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/eski-sevgili-ile-dost-kalmak/&w=bg bkz gavatlık
 bkz eski sevgilinin sevgilisine iyi tokmaklıyomusun diye sormak
