@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/kap%C4%B1c%C4%B1lar-kral%C4%B1-%C3%BCbeyit-bey/&w=bg bkz götüme tank sokacam diyip sokan adam
 https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz cinsel sex yaparken ağlayan ılık götlü
 bkz götüne tank sokmak için yarışan aktroller
 bkz götüne tank sokarken ağlayan erkek
