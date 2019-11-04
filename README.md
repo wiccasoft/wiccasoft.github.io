@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz ibb yi arayıp imamaoğlu gelmedi mi lan demek
 bkz imamoğlunu  arayıp oğlunu ver lan telefona demek 
 bkz feminist dünyada maskulen olmak https://www.uludagsozluk.com/e/42375222/
 bkz catalan dağlarına türk diye yazmak
