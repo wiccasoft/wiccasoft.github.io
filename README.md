@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/ecevit-vs-fet%C3%B6-pi%C3%A7i/ bkz karaoğlan vs cia
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz dostluğumuz hiç bitmedi
 https://www.uludagsozluk.com/k/bekir-bozda%C4%9F-%C4%B1n-fethullah-g%C3%BClen-g%C3%BCzellemesi/&w=bg bkz o senin güzelliğin
 https://www.uludagsozluk.com/k/fethullah-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ bkz isim verme supermen
