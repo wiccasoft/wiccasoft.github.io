@@ -20,6 +20,7 @@ bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
+https://www.uludagsozluk.com/k/meme-yalamadan-cinsel-birle%C5%9Fime-ba%C5%9Flayan-erkek/&w=bg bkz akboyların hayal dünyası
 https://www.uludagsozluk.com/k/haluk-un-meltem-i-aldatt%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ bkz ana babababa
 https://www.uludagsozluk.com/k/meme-yalamadan-cinsel-birle%C5%9Fime-ba%C5%9Flayan-erkek/&w=bg bkz duhul etmek
 https://www.uludagsozluk.com/k/enver-talat-cemal/&w=bg bkz ittihat ve terakki cemiyetini kuran adam
