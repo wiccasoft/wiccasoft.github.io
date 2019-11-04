@@ -22,7 +22,9 @@ https://www.uludagsozluk.com/k/github-dan-paket-indirip-kullanan-hacker/ lol htt
 https://www.youtube.com/watch?v=35YJScJRNJY bkz adsasdasdsada
 https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz yaqıosun hanny 
 https://www.uludagsozluk.com/k/sevgilinin-akp-li-olmas%C4%B1/&w=bg lol
-https://twitter.com/rabianursah/status/1010685449017397248 hadi atayızlar bunu da açıklayın https://www.uludagsozluk.com/e/42371682/ lol
+https://twitter.com/rabianursah/status/1010685449017397248 hadi atayızlar bunu da açıklayın 
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-avrupa-ya-%C5%9Fikayet-eden-t%C3%BCrbanl%C4%B1/ hadi bunu da açıkla tayyip
+https://www.uludagsozluk.com/e/42371682/ lol
 https://www.uludagsozluk.com/k/istanbul-da-ya%C5%9Fanan-%C4%B1spanak-zehirlenmeleri/ hadi imamoğlan bunu da açıkla
 How Chinese astronauts spend a day in space? Find out
 https://www.youtube.com/watch?v=KpWCAd3dl6o (hadi imamaoğlan bunu da açıkla)
