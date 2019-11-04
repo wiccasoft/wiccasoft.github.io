@@ -36,6 +36,7 @@ hadi ermeni dölleri bunu da savunun
 bkz pkk nın trumpa baskı yapması
 https://www.uludagsozluk.com/k/akp-pkk-bah%C3%A7eli-hdp-fet%C3%B6-cia-barzani/&w=bg bkz topunuz gelin 
 bkz pkk nın temsilciler meclisine adamını sokması
+bkz isis in camilere saldırabiliriz açıklaması
 bkz pkknın potin le trump ı birbirine vurduracak olması
 -->
 
