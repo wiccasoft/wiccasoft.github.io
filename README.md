@@ -41,7 +41,7 @@ bkz pkknın potin le trump ı birbirine vurduracak olması
 bkz imamaoglunun isis e desteğini çekmesi
 bkz imamoğlunun barzani şiwan perwerle halay çekmesi
 bkz imamoğlunun şöförünün zafer işareti yapması
-bkz akpli gazetecinin izmir marşına lavuk marşı demesi
+bkz pydli gazetecinin ankara marşına lavuk marşı demesi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
