@@ -30,6 +30,7 @@ https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-devlete-katil-diyen-kar%C4%B
 hadi ermeni dölleri bunu da savunun
 bkz pkk nın trumpa baskı yapması
 https://www.uludagsozluk.com/k/akp-pkk-bah%C3%A7eli-hdp-fet%C3%B6-cia-barzani/&w=bg bkz topunuz gelin 
+bkz pkk nın temsilciler meclisine adamını sokması
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
