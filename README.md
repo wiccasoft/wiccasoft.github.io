@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz eski dostla sevgili kalmak
 bkz tetörirst nazlı ılıcağın son hali.jpg
 bkz çocuk taklidi yapan yeni sevdiceğe tokat atıp adam ol lan demek
 bkz eski sevdiceğin çocuk taklidi yapması
