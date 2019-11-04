@@ -33,7 +33,7 @@ bkz sülünün recöye kızıp içişlerin bakanlığı personel alımlarını d
 bkz sülünün uyuşturcu satanların ayaklarını kırın talimatı
 bkz tayyipin kozmik odanın şifresini emineye vermemesi
 bkz soyulu soyuzları en geç arlıkta tselim edecez açıklması
-bkz serkan inci nin yerimö uzun adamın yanıdır tweeti
+bkz serkan inci nin yerim uzun adamın yanıdır tweeti
 bkz uzun adamın kozmik odada çevridği işler
 -->
 
