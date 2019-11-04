@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/nafaka-%C3%B6dememek-i%C3%A7in-a%C4%9Flayan-erkek/&w=bg bkz devlet bahçeli
 bkz o değilde bi devlet bahçeli vardı noldu ona
 bkz kozmik sırları baban mı açtı sanıyosun köpek soyu
 https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/&w=gd 
