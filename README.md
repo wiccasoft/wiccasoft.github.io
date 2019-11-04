@@ -16,8 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz ekremi arayıp çok tatlısın çok güzelsin babsn damı imamdı senin diye şarkı söylemek
-bkz ekremi arayıp sabah gözlerim yine gülen şeklinde surat oalcak demek
+bkz ekremi arayıp çok tatlısın çok güzelsin baban damı imamdı senin diye şarkı söylemek
 bkz gözleri ekrem şeklinde surat
 bkz imamoğlanı arayıp uyudun mu demek
 bkz ibb yi arayıp imamaoğlu gelmedi mi lan demek
