@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz eski sevdiceğin gece arayıp pompadayım kıskanmıyomusun mu demesi
+bkz eski sevdiceğin gece arayıp pompadayım kıskanmıyomusun mu gerikalığğğ demesi
 bkz eski sevdicekten 5 önceki sevdiceğin arayıp sesini duymak istedim demesi
 bkz eski sevdiceğin arayıp yeni sevdicekle üçlü takılalım demesi
 bkz eski sevgilinin dostuyla dost kalabilmek
