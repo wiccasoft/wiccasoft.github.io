@@ -23,10 +23,11 @@ https://www.uludagsozluk.com/k/gitti-dimi-lan-gitti-dimi/ lol
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-siyah-g%C3%B6mlekle-gelen-erkek/&w=bg hele bi dur yeğen sabah gelir
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-chp-yi-hedef-almas%C4%B1/ bkz chpkk
 https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-fransa-da-evimde-hissediyorum-demesi/&w=bg bkz ermeni tohumu
-bkz damadın gazatesinin imamaoğlana  yine boru gibi saplaması
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-devlete-katil-diyen-kar%C4%B1yla-foto%C4%9Fraf%C4%B1/
+bkz damadın gazatesinin imamaoğlana yine boru gibi saplaması
 hadi atayizler bunu da açıklayın
 https://twitter.com/rabianursah/status/1010685449017397248
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-korumalar%C4%B1-trafikte-vatanda%C5%9F%C4%B1-darp-etmesi/ 
+hadi ermeni dölleri bunu da savunun
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
