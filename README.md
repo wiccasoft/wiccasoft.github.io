@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz götüne tank sokmak için yarışan aktroller
 bkz götüne tank sokarken ağlayan erkek
-bkz şehirlere bombeler yağarken sevişen adam
+bkz şehirlere bombeler yağarken ağlayarak sevişen adam
 bkz tankı götüme ilk ben sokarım diyip sokmayan akpli reis
 bkz götü kalp şeklinde imamoğlu atan surat
 bkz kamalitlerin uğramadığı başlıklar
