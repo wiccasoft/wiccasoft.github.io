@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/k/ecevit-ile-fetonun-sevdas%C4%B1/ bkz gözleri fetö diye gülen surat
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-%C3%A7ok-ilgin%C3%A7-videosu/ bkz gözleri süleyman diye dülen surat
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-soylu-ya-verdi%C4%9Fi-ahmak-cevab%C4%B1/ bkz gözleri ekrem diye gülen surat
+https://www.uludagsozluk.com/k/kemalizm-d%C3%BC%C5%9Fman%C4%B1-ter%C3%B6ristler/&w=bg bkz inelerine girdik girecez
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz süleyman diye yazılır soysuzları kudurtur
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rte diye yazılır adam diye okunur
 https://www.uludagsozluk.com/k/idris-usta/&w=bg bkz tostların içine sümük katan usta
