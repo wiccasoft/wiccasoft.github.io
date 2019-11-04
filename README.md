@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz nükleer güç olsak mı sorunsalı 
 bkz suriyeyi ırak ı alıp osmanlıyı diriltsek mi soreunsalı
 bkz amerikanın it gibi dize getirsek mi sorunsalı
 bkz avrupa ve rusyayı kaç günde alırız sorunsalı
