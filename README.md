@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz zaten süper güçüz gücü azaltsak mı sorunsalı
+bkz zaten süper güçcz gücü azaltsak mı sorunsalı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/
 bkz bir gece ansızın hakkari şırnak muş
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-do%C4%9Fu-illerimize-sahip-%C3%A7%C4%B1kma-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/
