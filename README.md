@@ -21,6 +21,7 @@ https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1
 bkz kalkışma olduğu gece kışıçtaroğlunun tv izlemesi
 bkz süleyman soylu nun 8000 personeli fetöcü diye tankın üstüne çıkarması
 https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1kar%C4%B1m-deyip-tv-izlemek/ 
+http://forum.worldoftanks.eu/index.php?/topic/289744-which-is-the-most-sexy-tank-in-world-of-tanks-according-to-you/page__st__80
 https://www.uludagsozluk.com/k/bir-hem%C5%9Fire-de-namus-aramak/ bkz akboylarda beyin aramak
 https://www.uludagsozluk.com/k/t%C3%BCrk-insan%C4%B1-%C3%A7ok-%C3%A7al%C4%B1%C5%9F%C4%B1yor/ lol
 https://eksisozluk.com/3-kasim-2019-emre-belozoglunun-ettigi-kufur--6235401?a=popular lol
