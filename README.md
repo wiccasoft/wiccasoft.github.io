@@ -26,6 +26,7 @@ https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-fransa-da-evimde-hissediyorum-
 bkz damadın gazatesinin imamaoğlana  yine boru gibi saplaması
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-devlete-katil-diyen-kar%C4%B1yla-foto%C4%9Fraf%C4%B1/
 hadi atayizler bunu da açıklayın
+https://twitter.com/rabianursah/status/1010685449017397248
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
