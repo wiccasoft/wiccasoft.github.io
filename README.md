@@ -24,6 +24,7 @@ bkz gece  gece fathi terimi arayıp falcao yarın oynuyo mu lan demek
 bkz gece gece pelin çifti arayıp ya pelin kardeş çok rahat konuşuyodun demek
 bkz tangır budun doğanın terörist nazlı ılıcak son hali.jpg yollayıp yaa noldi rencin soldi demesi
 bkz gece gece nagehanı arayıp eşşeğin ziki artık demek
+bzz eşşeğini zikini şapırdatarak yiyne kadın vidosunu nasıl beynimden çıkarabilirim diye düşünmek
 https://eksisozluk.com/entry/97376883 bkz eşşeğin zikinden dolayı
 -->
 
