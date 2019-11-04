@@ -22,6 +22,8 @@ bkz wikipedia'nın fetö nün karargahı olması
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
 bkz ceza ile sagopayı barıştırıyoruz kampanyası
 bkz belki götten veririm başlıkları açan akboylar
+bkz akboyların rte ye sormadan başlıklar açması sorunsalı
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-karizmas%C4%B1n%C4%B1-yerle-bir-etmesi/ bkz ibb ne lan ibneler
 https://www.uludagsozluk.com/k/fuck-buddy-si-olmayan-ezik-erkek/&w=bg bkz benim yok yavrum ezersen beklerim
 https://www.uludagsozluk.com/k/acaba-tayyip-ile-fethullah-yeniden-bar%C4%B1%C5%9F%C4%B1r-m%C4%B1/&w=bg
