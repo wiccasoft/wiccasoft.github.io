@@ -26,6 +26,7 @@ https://twitter.com/rabianursah/status/1010685449017397248 hadi atayızlar bunu 
 https://www.uludagsozluk.com/k/istanbul-da-ya%C5%9Fanan-%C4%B1spanak-zehirlenmeleri/ hadi imamoğlan bunu da açıkla
 How Chinese astronauts spend a day in space? Find out
 https://www.youtube.com/watch?v=KpWCAd3dl6o (hadi imamaoğlan bunu da açıkla)
+https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/ hadi süleyman bunu da açıkla
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
