@@ -15,6 +15,8 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+bkz götü kalp şeklinde imamaoğlu atan surat
+https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-darp-yok-g%C3%B6r%C3%BCnt%C3%BC-kar%C4%B1%C5%9Fm%C4%B1%C5%9F-a%C3%A7%C4%B1klamas%C4%B1/
 bkz kamalitlerin uğramadığı başlıklar
 bkz tankı götüme sokarım diyip sokmayıp evde viski tv keyfi yapmak
 bkz rihanna nın tankı götüme sokarım diyip evde tv izlemesi
