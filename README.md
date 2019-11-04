@@ -23,7 +23,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rte diye yaz�
 https://www.uludagsozluk.com/k/idris-usta/&w=bg bkz tostların içine sümük katan usta
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg bkz mehmet altan ın kardeşi
 https://www.uludagsozluk.com/k/ecevit-vs-fet%C3%B6-pi%C3%A7i/ bkz karaoğlan vs cia
-https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz ikik yiğido mümin
+https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz iki yiğido mümin
 https://www.uludagsozluk.com/k/bekir-bozda%C4%9F-%C4%B1n-fethullah-g%C3%BClen-g%C3%BCzellemesi/&w=bg bkz o senin güzelliğin
 https://www.uludagsozluk.com/k/fethullah-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ bkz isim verme supermen
 https://www.uludagsozluk.com/k/akp-lilerin-moron-olmas%C4%B1/&w=bg bkz bir gerçek evet
