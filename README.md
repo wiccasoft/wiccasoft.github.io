@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz sevdiceğine sevgililer gününde çiçek almayan erkek adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/eski-sevgili-ile-dost-kalmak/&w=bg bkz gavatlık
 bkz eski sevgilinin sevgilisine iyi tokmaklıyomusun diye sormak
 bkz taşşak ve göt kıllarını alan erkek adam mdıır sorunsalı
