@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://pbs.twimg.com/media/BemC676CAAAMBxz.jpg lol
+https://www.uludagsozluk.com/k/siz-alay%C4%B1n%C4%B1z-akp-tek/&w=bg bkz itlerin havlaması kurt gelene kadardır
 https://www.uludagsozluk.com/k/%C3%A7ukurun-iyice-sa%C3%A7malamas%C4%B1/&w=bg bkz 57. bölüm vuruşma sahnesi
 bkz akboyların en iyiy yaptığı işin recep tayyip erdoğan ı övmek olduğu gerçeği
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/ bkz lol
