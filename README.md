@@ -15,10 +15,10 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/e/42374031/ lol
 bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
-https://www.uludagsozluk.com/e/42374031/ lol
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
 https://www.uludagsozluk.com/k/enver-talat-cemal/&w=bg bkz ittihat ve terakki cemiyetini kuran adam
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg bkz çetin altanın oğlu mehmet altan ın kardeşi
