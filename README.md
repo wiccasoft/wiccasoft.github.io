@@ -16,8 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz feminist dünyada maskulen olmak
-https://www.uludagsozluk.com/k/kabaday%C4%B1-gezen-erke%C4%9Fin-so%C4%9Fan-erke%C4%9Fi-%C3%A7%C4%B1kmas%C4%B1/&w=bg
+bkz feminist dünyada maskulen olmak https://www.uludagsozluk.com/e/42375222/
 bkz catalan dağlarına türk diye yazmak
 bkz ense kanter i arayıp fetullahı ver bana demek
 bkz nagehan a nazlı ılıcak son hali.jpeg yollayıp senin de sonun böyle olacak demek
