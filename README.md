@@ -19,6 +19,7 @@ https://www.uludagsozluk.com/e/42374031/ lol
 bkz gece gece pelin çifti arayıp ya pelin kardeş çok rahat konuşuyodun demek
 bkz tangır budun doğanın terörist nazlı ılıcak son hali.jpg yollayıp yaa noldi rencin soldi demesi
 bkz tangır budun doğanın 20 yaşındaki akboylarla forum sitesinde ne iş yaptığı sorundalı
+bkz himalayğla ypg bayrağğ
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
