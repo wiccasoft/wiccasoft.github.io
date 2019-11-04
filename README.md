@@ -32,6 +32,7 @@ https://www.uludagsozluk.com/k/s400-ler-ne-oldu/ hadi hulusi bunu da açıkla
 bkz sülünün recöye kızıp içişlerin bakanlığı personel alımlarını durdurması
 bkz sülünün uyuşturcu satanların ayaklarını kırın talimatı
 bkz tayyipin kozmik odanın şifresini emineye vermemesi
+bkz soyulu soyuzları en geç arlıkta tselim edecez demesi
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
