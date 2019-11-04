@@ -27,7 +27,6 @@ https://www.uludagsozluk.com/k/gitti-dimi-lan-gitti-dimi/ lol
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-siyah-g%C3%B6mlekle-gelen-erkek/&w=bg hele bi dur yeğen sabah gelir
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-chp-yi-hedef-almas%C4%B1/ bkz chpkk
 https://www.uludagsozluk.com/k/e-imamo%C4%9Flunun-fransa-da-evimde-hissediyorum-demesi/&w=bg bkz ermeni tohumu
-bkz damadın gazatesinin imamaoğlana yine boru gibi saplaması
 https://twitter.com/rabianursah/status/1010685449017397248 hadi atayızlar bunu da açıklayın https://www.uludagsozluk.com/e/42371682/ lol
 https://www.uludagsozluk.com/k/istanbul-da-ya%C5%9Fanan-%C4%B1spanak-zehirlenmeleri/ hadi imamoğlan bunu da açıkla
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-korumalar%C4%B1-trafikte-vatanda%C5%9F%C4%B1-darp-etmesi/ 
@@ -39,8 +38,6 @@ bkz pkk nın temsilciler meclisine adamını sokması
 bkz isis in camilere saldırabiliriz açıklaması
 bkz pkknın potin le trump ı birbirine vurduracak olması
 bkz imamaoglunun isis e desteğini çekmesi
-bkz imamoğlunun barzani şiwan perwerle halay çekmesi
-bkz imamoğlunun şöförünün zafer işareti yapması
 bkz pydli gazetecinin ankara marşına lavuk marşı demesi
 -->
 
