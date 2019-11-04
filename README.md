@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz fakir akboylara birer mercedes alıp ağlamayın lan demek
+https://www.youtube.com/watch?v=QzNwKc6hAnk
 bkz minareyi götüme sokacam diyip sokmayan ümmet lideri
 https://www.youtube.com/watch?v=jkc7Javb7B0 bkz rt erdoğan ümmeti
 https://www.uludagsozluk.com/k/ekonomi-k%C3%B6t%C3%BC-ekrem-in-mercedesi-iyi/ bkz 190 mercedesle gezerim ben 
