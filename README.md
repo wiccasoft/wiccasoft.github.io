@@ -15,15 +15,15 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/ecevit-ile-fetonun-sevdas%C4%B1/ bkz gözleri fetö diye gülen surat
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-%C3%A7ok-ilgin%C3%A7-videosu/ bkz gözleri süleyman diye dülen surat
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-soylu-ya-verdi%C4%9Fi-ahmak-cevab%C4%B1/ bkz gözleri ekrem diye gülen surat
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz süleyman diye yazılır soysuzları kudurtur
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rte diye yazılır adam diye okunur
 https://www.uludagsozluk.com/k/idris-usta/&w=bg bkz tostların içine sümük katan usta
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg bkz mehmet altan ın kardeşi
-https://www.uludagsozluk.com/k/ecevit-ile-fetonun-sevdas%C4%B1/ bkz fetö elebaşıcıların uğramadığı başlıklar
 https://www.uludagsozluk.com/k/ecevit-vs-fet%C3%B6-pi%C3%A7i/ bkz karaoğlan vs cia
-https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz dostluğumuz hiç bitmedi
+https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-vs-tayyip-erdo%C4%9Fan/&w=bg bkz ikik yiğido mümin
 https://www.uludagsozluk.com/k/bekir-bozda%C4%9F-%C4%B1n-fethullah-g%C3%BClen-g%C3%BCzellemesi/&w=bg bkz o senin güzelliğin
 https://www.uludagsozluk.com/k/fethullah-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC/ bkz isim verme supermen
 https://www.uludagsozluk.com/k/akp-lilerin-moron-olmas%C4%B1/&w=bg bkz bir gerçek evet
