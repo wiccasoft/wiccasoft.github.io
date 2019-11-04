@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ben de özledim ben de resmin var şu anelimde
 bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-karizmas%C4%B1n%C4%B1-yerle-bir-etmesi/ bkz karizma oğlu rte vs ibibik
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
