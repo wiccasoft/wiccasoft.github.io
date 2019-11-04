@@ -19,8 +19,9 @@ https://www.uludagsozluk.com/e/42374031/ lol
 bkz rtenin nazlı ılıcakla mehemt altanı mercedesle tahliye etmesi
 bkz ersun yanalı arayıp sen gelince it gibi korkuyor cinconlular demek
 bkz gece gece ali koçu arayıp alper potuk yarın oynar mı koçum diye sormak
+bkz gece gece himlayağa ypg bayraklı ispanyol videosu izlemek
 https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg bkz itlerin hükmü kral gelene kadardır
-bkz gece  gece fathi terimi arayıp falcao yarın oynuyo mu lan demek
+bkz gece gece fathi terimi arayıp falcao yarın oynuyo mu lan demek
 bkz gece gece pelin çifti arayıp ya pelin kardeş çok rahat konuşuyodun demek
 bkz tangır budun doğanın terörist nazlı ılıcak son hali.jpg yollayıp yaa noldi rencin soldi demesi
 bkz gece gece nagehanı arayıp eşşeğin ziki demek
