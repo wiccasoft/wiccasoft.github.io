@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz büyüyünce ulucdagsözlüğe üywe olacamö abileyimle yaşam koçu olacam diyen çocuk
+bkz büyüyünce ulucdagsözlüğe üye olacam abileyimle yaşam koçu olacam diyen çocuk
 bkz gece gece ali koçu arayıp alper potuk yarın oynar mı diye sormak
 https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg bkz itlerin hükmü kral gelene kadardır
 bkz gece  gece fathi terimi arayıp falcao yarın oynuyo mu hacı demek
