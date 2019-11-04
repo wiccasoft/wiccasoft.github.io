@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz türkiye süper güç olmalı mı sorunsalı
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/
 bkz bir gece ansızın hakkari şırnak muş
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-do%C4%9Fu-illerimize-sahip-%C3%A7%C4%B1kma-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/rak%C4%B1-i%C3%A7ip-sevi%C5%9Fen-laik%C3%A7i/ bkz sus kız orospu dinci
