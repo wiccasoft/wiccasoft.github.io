@@ -17,8 +17,9 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://www.uludagsozluk.com/k/rak%C4%B1-i%C3%A7ip-sevi%C5%9Fen-laik%C3%A7i/ bkz sus kız orospu dinci
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ben de özledim ben de resmin var şu anelimde
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz ben de özledim ben de resmin var şu an elimde
 bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
+https://www.uludagsozluk.com/k/sevgilinin-akp-li-olmas%C4%B1/&w=bg bkz rte karizması
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-karizmas%C4%B1n%C4%B1-yerle-bir-etmesi/ bkz karizma oğlu rte vs ibibik
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
