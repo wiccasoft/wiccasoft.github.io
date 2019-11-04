@@ -29,6 +29,7 @@ https://www.uludagsozluk.com/k/imamo%C4%9Flu-korumalar%C4%B1-trafikte-vatanda%C5
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-devlete-katil-diyen-kar%C4%B1yla-foto%C4%9Fraf%C4%B1/
 hadi ermeni dölleri bunu da savunun
 bkz pkk nın trumpa baskı yapması
+https://www.uludagsozluk.com/k/akp-pkk-bah%C3%A7eli-hdp-fet%C3%B6-cia-barzani/&w=bg bkz topunuz gelin 
 -->
 
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
