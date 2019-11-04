@@ -28,6 +28,7 @@ https://www.uludagsozluk.com/e/42371682/ lol
 https://www.uludagsozluk.com/k/istanbul-da-ya%C5%9Fanan-%C4%B1spanak-zehirlenmeleri/ hadi imamoğlan bunu da açıkla
 How Chinese astronauts spend a day in space? Find out
 https://www.youtube.com/watch?v=KpWCAd3dl6o (hadi imamaoğlan bunu da açıkla)
+https://www.youtube.com/watch?v=S-m1WImjqsE sayko kemal vs tayyip
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 https://www.uludagsozluk.com/k/change-org-ezan-sesi-k%C4%B1s%C4%B1ls%C4%B1n-kampanyas%C4%B1/&w=gd lol
 https://www.uludagsozluk.com/k/avm-de-y%C3%BCr%C3%BCrken-ayak-%C3%BCst%C3%BC-s%C4%B1%C3%A7an-adam/ hadi soylu bunu da açıkla
