@@ -31,8 +31,8 @@ https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-erdo%C4%9Fan-a%C3%A7t%C4%B1/ ha
 https://www.uludagsozluk.com/k/s400-ler-ne-oldu/ hadi hulusi bunu da açıkla
 bkz sülünün recöye kızıp içişlerin bakanlığı personel alımlarını durdurması
 bkz sülünün uyuşturcu satanların ayaklarını kırın talimatı
-bkz tayyipin kozmik odanın şifresini emineye vermemesi
-bkz soyulu soyuzları en geç arlıkta tselim edecez açıklması
+bkz sülaymanın memurlar görevde sigara içiebilir hakkında kararnameyi oanylaması
+bkz soyulu soyuzları en geç aralıkta tselim edecez açıklması
 bkz serkan inci nin yerim uzun adamın yanıdır tweeti
 bkz uzun adamın kozmik odayı 256 bit şifreleyip açacağı gerçeği
 -->
