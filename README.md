@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
-bkz ahmet hakanın guardian türkiye'ın başına geçmesi
+bkz ahmet davutoğalnın guardian türkiye'ın başına geçmesi
 https://www.uludagsozluk.com/k/enver-talat-cemal/&w=bg bkz ittihat ve terakki cemiyetini kuran adam
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg bkz çetin altanın oğlu mehmet altan ın kardeşi
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg bkz ismail alpen
