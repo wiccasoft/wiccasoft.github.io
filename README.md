@@ -20,6 +20,7 @@ bkz bing'in keşke bizans galip gelseydi temalı paylaşımı
 bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk renkleri
 bkz wikipedia'nın fetö nün karargahı olması
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
+https://www.uludagsozluk.com/k/t%C3%BCrk-erke%C4%9Fine-laf-edince-k%C3%BCrt-ve-meri%C3%A7-san%C4%B1lmak/ bkz kezban lütfen
 bkz akboyların cinsel seksli birleşme sırasında kafalarını kamaşullah ile vaginanın arasına duhul eylemeleri
 https://www.uludagsozluk.com/k/%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7an-s%C4%B1%C4%9F%C4%B1r/&w=bg bkz feminist karı sırvalaması
 https://www.uludagsozluk.com/k/meme-yalamadan-cinsel-birle%C5%9Fime-ba%C5%9Flayan-erkek/&w=bg bkz akboyların hayal dünyası
