@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-https://pbs.twimg.com/media/BemC676CAAAMBxz.jpg lol
+https://pbs.twimg.com/media/BemC676CAAAMBxz.jpg lol https://www.youtube.com/watch?v=MTJuKPbzpcQ
 https://www.uludagsozluk.com/k/alper-er%C3%B6zer/&w=bg bkz akboyların akranı https://www.youtube.com/watch?v=MTJuKPbzpcQ
 https://www.uludagsozluk.com/k/kurtlar-vadisi-ilk-97-b%C3%B6l%C3%BCm/&w=bg bkz bükleer süğüper güç olsak mı kankağ
 https://www.uludagsozluk.com/k/siz-alay%C4%B1n%C4%B1z-akp-tek/&w=bg bkz itlerin havlaması kurt gelene kadardır
