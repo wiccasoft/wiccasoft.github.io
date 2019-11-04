@@ -21,6 +21,7 @@ bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk 
 bkz wikipedia'nın fetö nün karargahı olması
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
 bkz ceza ile sagopayı barıştırıyoruz kampanyası
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz kuşların içinde hunharca geçen kral
 bkz belki götten veririm başlıkları açan akboylar
 bkz akboyların rte ye sormadan başlıklar açması sorunsalı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-n%C3%BCkleer-g%C3%BC%C3%A7-olmal%C4%B1-m%C4%B1d%C4%B1r-sorunsal%C4%B1/
