@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 bkz kamalitlerin uğramadığı başlıklar
-bkz tanıkı götüme sokraım diyip sokmayıp evde viski tv keyfşi yapmak
+bkz tankı götüme sokarım diyip sokmayıp evde viski tv keyfi yapmak
 bkz rihanna nın tankı götüme sokarım diyip evde tv izlemesi
 https://www.uludagsozluk.com/k/tank%C4%B1n-%C3%BCst%C3%BCne-ilk-ben-%C3%A7%C4%B1kar%C4%B1m-deyip-tv-izlemek/
 bkz götü kalp şeklinde imamaoğlu atan badem bıyıklı surat
