@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtub
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=gd bkz süleyman diye yazılır soysuzları kudurtur
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz rte diye yazılır adam diye okunur
 https://www.uludagsozluk.com/k/idris-usta/&w=bg bkz tostların içine sümük katan usta
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg bkz mehmet altan ın kardeşi
