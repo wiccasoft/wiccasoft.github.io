@@ -21,6 +21,7 @@ bkz google'in pekeke ye destek verdiği itiraf etmesi bkz chrome browser un pkk 
 bkz wikipedia'nın fetö nün karargahı olması
 bkz ahmet davutoğlanın guardian türkiye'ın başına geçmesi
 bkz ceza ile sagopayı barıştırıyoruz kampanyası
+https://www.uludagsozluk.com/k/fuck-buddy-si-olmayan-ezik-erkek/&w=bg bkz benim yok yavrum ezersen beklerim
 https://www.uludagsozluk.com/k/acaba-tayyip-ile-fethullah-yeniden-bar%C4%B1%C5%9F%C4%B1r-m%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/yunanl%C4%B1lar%C4%B1n-t%C3%BCrk-yemeklerini-iyice-sahiplenmesi/&w=bg bkz ana bababa
 https://www.uludagsozluk.com/k/haluk-un-meltem-i-aldatt%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ bkz ana babababa
