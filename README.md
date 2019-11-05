@@ -25,6 +25,7 @@ bkz ikinci günün şafağında türkiyeyi çözmek
 bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
 bkz belhandanın evde takla atıp pes atması
+bkz 30 yaşında ailesiyle yaşayan ekşci profili https://www.youtube.com/watch?v=4Fn84I34azs
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFMFQ2VUKiofKh1x63qick08gDqjjxWrFDBGdNjnDorlX2BHGP
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz belhanda
 https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular bkz emre morun yürümesi
