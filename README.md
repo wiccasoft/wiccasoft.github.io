@@ -35,17 +35,7 @@ https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye
 bkz fetöcülerin tahliyuesine ses çıkaramayan terörrist pkk yardakçısı imamoğlu
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
-bkz esedin yıllarce besledği pkklılara sesisni çıkarmayan medya
-https://www.uludagsozluk.com/k/esad-%C4%B1n-pkk-ya-ordumuza-kat%C4%B1l%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/ 
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz 3 ü bir arada
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/&w=gd 
-bkz çalış köpek bu saatten sonra ben mi çalışacam amk
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz threesome
-bkz xhamsterin cuckold kategoriğ kaldırması
-https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ bkz cuckold
-https://www.uludagsozluk.com/k/birisini-%C3%A7ok-fazla-%C3%B6zlemek/&w=bg bkz fetöcü ihbar hattına şikayet et kankağ
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz cuckold üçlü 
-bkz cuckold yani kukusu yanan yaşlı bkz one flew over the cuckold
+bkz galtsaraylıların sanki biraz şey olması nasıl derler top
 https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ 
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
