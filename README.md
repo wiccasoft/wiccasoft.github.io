@@ -20,6 +20,7 @@ https://www.uludagsozluk.com/e/42377814/
 https://www.uludagsozluk.com/e/42376249/ bkz yanar döner fetöcü
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=gd bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 
 https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
