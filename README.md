@@ -52,6 +52,7 @@ bkz fatih terimden fatih altaylı güzellemesi
 bkz fatih isimli galatasaraylı erkek karizması
 bkz fatih altaylı fatih terim fatih tezcanla aynı eve çıkmak
 bkz 51 yaşında karısıyla kızıyla yaşayan erkek 
+https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular
 https://eksisozluk.com/fatih-altaylinin-emre-belozoglu-yorumu--6236814?a=popular
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim yayınlar
