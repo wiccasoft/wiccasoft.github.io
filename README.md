@@ -22,7 +22,7 @@ https://www.uludagsozluk.com/k/fuckbuddy-askere-giderse-d%C3%B6n%C3%BC%C5%9F%C3%
 bkz şüphesiz ibret alınmalı.jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
 bkz türkiyenin erkek açlığını giderek erkek bkz 404 not found
-bkz guardian da yazıyorum zaten ama incilicce kardeş sana çevireyim ben ezeleden beridir hür yaşarım hangi ibne bana zincir vuracakmış şaşarım kükremiş sel gibiyim enginlere sağmama taşarım diye devam ediyor
+bkz guardian da yazıyorum zaten ama incilicce kardeş sana çevireyim ben ezeleden beridir hür yaşarım hangi ibne bana zincir vuracakmış şaşarım kükremiş sel gibiyim enginlere sağmama taşarım diye devam ediyor bi de hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%A7%C4%B1k%C4%B1nca-ilk-yaz%C4%B1s%C4%B1/
 bkz terörist nazlı ılılcak son hali .jpeg işte o resim hala ibret alamazmısınız ey insanoğlu
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
