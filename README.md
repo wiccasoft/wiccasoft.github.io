@@ -24,7 +24,6 @@ abi içinde karı olmayan resme bakmıyorum atmayın rica ediyorum bide ben tür
 https://eksisozluk.com/entry/39421205 beyler 41 yaşındayım yalnız yaşıyorum one göre karı yollayın
 https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulun be bi karı
 https://eksisozluk.com/sozluk-bana-kari-bul-lan-allahsiz--579897 bkz bir rica temennisi
-bkz yine seks hikayesi mi yazyosun feridun abi
 https://www.uludagsozluk.com/e/42376855/ lol
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
 bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği
