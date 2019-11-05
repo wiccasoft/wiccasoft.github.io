@@ -16,7 +16,9 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
+bkz pkk helsinki şube şefinin amerikan temsiclciler meclisine adam sokması
 bkz kk nın cuckoldculara ses çıkarmaması
+https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
 bkz fetöcülerin tahliyuesine ses çıkaramayan terörrist pkk yardakçısı imamoğlu
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
