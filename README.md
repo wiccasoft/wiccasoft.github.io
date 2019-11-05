@@ -22,6 +22,7 @@ bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye orospu bir erkek bırak
 bkz belhanda diyince akla belhanda gelmesi
+https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz pes atarken pes attım diyen erkek
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz efsane kurtlar vadisi diyaloglarıyla büyümüş efsane nesil
 https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz fetöcüleri besleyen cemaat
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz bu siziyle büyüyen çocukların şaka maka büyümesi
