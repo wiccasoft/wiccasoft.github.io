@@ -24,6 +24,7 @@ https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayı
 bkz guardian yayın müdürü olmam https://www.youtube.com/watch?v=e8zXnLNwSWQ
 bkz alo nagehan bi rahat ver hayatım https://www.youtube.com/watch?v=W5rV1AHFNPI
 https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz gardaşım köz getir seri
+https://www.uludagsozluk.com/k/mesleklerine-g%C3%B6re-uzak-durulmas%C4%B1-gereken-erkekler/&w=bg bkz laz müteahit
 https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
