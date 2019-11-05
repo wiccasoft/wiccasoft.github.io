@@ -16,7 +16,8 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8
+bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
+sonra döndüm dedim ki yiyi beşiktaşlıyım
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz zuhahahaha
 bkz entry giren ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
