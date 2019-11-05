@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
+bkz great thunbergin teröröist olduğu gerçeği niye atmıyosunuz içeri
 bkz ağırlaştırılmış mübbet verdiği teröriki salacak kada alçak köpek olmak
 bkz pkk helsinki şube şefinin amerikan temsilciler meclisine adam sokmasına ses çıkarmayan batı
 bkz kk nın cuckoldculara ses çıkarmaması
