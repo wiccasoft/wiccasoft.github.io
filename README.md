@@ -27,9 +27,6 @@ https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=p
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
 bkz fetöcülerin tahliyesine ses çıkaramayan  pkk yardakçısı imamoğlu
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
-bkz galatsaraylıların sanki biraz şey olması bkz hiç beşiktaşlı fanatik yokken cinconluların sanki ne bilim
-https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ 
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz güreselci pkk lı
@@ -46,6 +43,7 @@ bkz fatih altaylı fatih terim fatih tezcanla aynı eve çıkmak
 bkz 51 yaşında karısıyla kızıyla yaşayan erkek 
 https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular
 https://eksisozluk.com/fatih-altaylinin-emre-belozoglu-yorumu--6236814?a=popular
+bkz galstasaray ve fenerbahcelilerin sanki biraz şey olması
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim yayınlar
 https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
