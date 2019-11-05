@@ -16,7 +16,8 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-bkz entry girerken ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
+https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz zuhahahaha
+bkz entry giren ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz acı macı bize işler mi bacı
 bkz fatih isimli erkeklerin özellikleri
@@ -34,9 +35,8 @@ https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=po
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz iş yerinde porno açan memurların dramı
 https://www.uludagsozluk.com/k/porno-izlenyenlerin-kimli%C4%9Fi-saptanacak/&w=gd bkz porno izleyecek kadar ezik olmak
 bkz kankağ 41 yaşında yalnız yaşayan zeki uzun boylu esprili sarışın mavi gözlü erkek başlığı açmamışsınız 
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular
+https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular 
 https://eksisozluk.com/5-kasim-2019-fatih-tezcana-sorusturma-acilmasi--6237247?a=popular bkz zuahhahaha
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz nazlı ılıcakın ılık oğlu
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular bkz hayırlı forumlar
 https://www.youtube.com/watch?v=m89XUIKMCfA bkz güne bir erdoğan bırak https://www.youtube.com/watch?v=srcBb5N--g4
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
