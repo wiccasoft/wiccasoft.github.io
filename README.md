@@ -21,7 +21,7 @@ https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası ya
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye bir orospu erkek bırak
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkz vurdurmak için yol yapan erkek
+https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz vurdurmadım diyip vurduran ruhsuz ve hain erkek
 https://www.uludagsozluk.com/k/orospu-denilince-akla-hep-kad%C4%B1n-gelmesi/ bkz erkeğin orospusu
 https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/k/24-ya%C5%9F%C4%B1nda-hala-evlenmemi%C5%9F-insan/&w=bg bkz vurduruyordur
