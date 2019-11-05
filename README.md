@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz acı macı bize işler mi bacı
 bkz fatih isimli erkeklerin özellikleri
 bkz fatih terimden fatih altaylı güzellemesi
-bkz ismi fatih galatasaraylı erkek karizması
+bkz fatih isimli galatasaraylı erkek karizması
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim
 https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
