@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-bkz terörist hunter tangır budun dogan
+bkz terörist hunter tangır budun dogan hök(halk özel kuvvetleri lideri)
 bkz jason statham vs fatih tezcan (bkz birsisi twitterı kapatınca yok)
 bkz yine seks hikayesi mi yazyosun  feridun abi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-saltanat%C4%B1-da-y%C4%B1k%C4%B1lacak/ yıkıldı zaten 
