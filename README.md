@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz türkiyede yaşayacak kadar fakir ve aptal olmak
+bkz türklerin soyadların firma kurma salaklığı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
 bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
