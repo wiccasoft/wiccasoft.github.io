@@ -21,6 +21,7 @@ https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası ya
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye bir orospu erkek bırak
+https://www.uludagsozluk.com/k/y%C4%B1rt%C4%B1k-pantolon-giyen-erkek/&w=bg bkz beyaz tişörtünden kasları gözken erkek
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkz kulağı ısırılası erkekler
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkzk orospu ruhlu erkek
 https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz osmanlı torunuyum diyip oğlu olan erkek
