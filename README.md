@@ -24,7 +24,7 @@ https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=gd bkz atayızlar hadi b
 https://www.uludagsozluk.com/k/dolgun-erkek-g%C3%B6t%C3%BCn%C3%BCn-m%C3%BCkemmelli%C4%9Fi/ bkz o göte bülbül öte
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765  bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
 bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I34azs
