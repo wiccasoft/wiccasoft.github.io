@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası yanar döner fetöcü
-bkz çok fazla dikkat çeken sinirli fetöcüler
+bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
 bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
