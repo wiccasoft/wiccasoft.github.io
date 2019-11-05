@@ -17,10 +17,9 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man fuck me
-https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış böyle jpeglerle gelin bana
+https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
+https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış 
 bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
-abi içinde karı olmayan resme bakmıyorum atmayın rica ediyorum bide ben türkiyede yaşamıyorum kardeş ona göre karı yollayın
 https://eksisozluk.com/entry/39421205 beyler 41 yaşındayım yalnız yaşıyorum one göre karı yollayın
 https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulun be bi karı
 https://eksisozluk.com/sozluk-bana-kari-bul-lan-allahsiz--579897 bkz bir rica temennisi
@@ -28,11 +27,6 @@ https://www.uludagsozluk.com/e/42376855/ lol
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
 bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği
 https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlığını girecek .jpeg
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-gay-b%C4%B1rak/ bkz nazlıyı saldım diye kuduran bi tane dayı.jpeg
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg kardeş siz nazlıyı bırakında offf onlar ne öyle
-bkz türkiyenin erkek açlığını girecek .jpeg
-https://www.uludagsozluk.com/k/fuckbuddy-askere-giderse-d%C3%B6n%C3%BC%C5%9F%C3%BC-nas%C4%B1l-olur/
-bkz şüphesiz ibret alınmalı.jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%A7%C4%B1k%C4%B1nca-ilk-yaz%C4%B1s%C4%B1/
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
