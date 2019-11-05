@@ -18,10 +18,13 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42377814/ bkz madem öyle niye kısa değilim
 https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası yanar döner fetöcü
+https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye orospu bir erkek bırak
 bkz belhanda diyince akla belhanda gelmesi
+bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/ay%C5%9Fe-hatun-%C3%B6nal-a-bakarak-otuzbir-%C3%A7eken-maymun/
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1-a%C5%9Fa%C4%9F%C4%B1lamay%C4%B1-marifet-sanan-erkekler/&w=bg bkz inciciler
 https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz pes atarken pes attım diyen erkek
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz efsane kurtlar vadisi diyaloglarıyla büyümüş efsane nesil
