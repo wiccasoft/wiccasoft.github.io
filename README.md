@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
+bkz türkiyenin erkek açlığını giderek erkek bkz 404 not found
 bkz terörist nazlı ılılcak son hali .jpeg işte o resim hala ibret alamazmısınız ey insanoğlu
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz vurdurmak için yer arayan erkek
