@@ -23,8 +23,7 @@ bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCL
 sonra döndüm dedim ki yiyi beşiktaşlıyım
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz
 bkz küreselci pkklıların amerikan temsilciler meclisini kukla gibi oynatması
- bkz küreselcileri terörik ilan edemedik napak pkklı diyek amk
-bkz akboyların kamalcıların ulaşamadıkları herkesi terörrist ilan etmesi olayı oh ne güzel lan 
+bkz küreselcileri terörik ilan edemedik napak pkklı diyek amk oh ne güzel lan 
 bkz ben bu adama dokunamıyom bıbıcım terörist ilan edelim bıbıcım
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz mahmut izzet ibo
 bkz nazlı ılıcak neden hapis yattı hala bilmemek o kadar konuya uzak olmak
