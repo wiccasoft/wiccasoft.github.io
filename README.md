@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-gay-b%C4%B1rak/ bkz bütün yazarların resimlerini atması
+https://www.uludagsozluk.com/k/g%C3%BCne-bir-gay-b%C4%B1rak/ 
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg kardeş siz nazlıyı bırakında offf onlar ne öyle
 bkz türkiyenin erkek açlığını girecek .jpeg
 https://www.uludagsozluk.com/k/fuckbuddy-askere-giderse-d%C3%B6n%C3%BC%C5%9F%C3%BC-nas%C4%B1l-olur/
