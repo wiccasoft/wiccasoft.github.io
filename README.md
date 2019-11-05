@@ -20,38 +20,16 @@ https://www.uludagsozluk.com/e/42377814/
 https://www.uludagsozluk.com/e/42376249/ bkz yanar döner fetöcü
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
-bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
-bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
-bkz geceye futbolun orospusu bir erkek bırak
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 
-https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz ben
-bkz geceye bir ileri libero bırak
 https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
-bkz belhanda diyince akla belhanda gelmesi
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
-bkz atayızlar hadi bunu da açıklayın
+bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.uludagsozluk.com/k/orospu-denilince-akla-hep-kad%C4%B1n-gelmesi/
 https://www.uludagsozluk.com/k/ay%C5%9Fe-hatun-%C3%B6nal-a-bakarak-otuzbir-%C3%A7eken-maymun/
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1-a%C5%9Fa%C4%9F%C4%B1lamay%C4%B1-marifet-sanan-erkekler/&w=bg bkz inciciler
 https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz pes atarken pes attım diyen erkek
-https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz efsane kurtlar vadisi diyaloglarıyla büyümüş efsane nesil
-https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz fetöcüleri besleyen cemaat
-https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz bu siziyle büyüyen çocukların şaka maka büyümesi
-https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz 1978 liyim diyip kandırıklayan erkek
-bkz sözlükteki bebelerin şaka maka çocuğum yaşımda olması norm ender de dinler bunlar
-https://www.uludagsozluk.com/k/2023-de-ka%C3%A7-ya%C5%9F%C4%B1nda-olacaks%C4%B1n%C4%B1z/&w=bg bkz 44 canum evladum
-https://www.uludagsozluk.com/k/y%C4%B1rt%C4%B1k-pantolon-giyen-erkek/&w=bg bkz beyaz tişörtünden kasları gözüken erkek
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkz kulağı ısırılası erkek
-https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz osmanlı torunuyum diyip oğlu olan erkek
-https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz vurdurmadım diyip vurduran ruhsuz ve hain erkek
-https://www.uludagsozluk.com/k/orospu-denilince-akla-hep-kad%C4%B1n-gelmesi/ bkz erkeğin orospusu
-https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
 bkz ikinci günün şafağında türkiyeyi çözmek
-bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
-bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
-bkz belhandanın evde takla atıp pes atması
-bkz ergenlerin herkesi kendi akranı sanması olayı
 https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular bkz yaş kaç evlat
 bkz 30 yaşında ailesiyle yaşayan ekşici profili https://www.youtube.com/watch?v=4Fn84I34azs
 https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz evlat yaş kaç
