@@ -9,7 +9,7 @@
 
 [![Image](smartdata/hyperdata.png)]( https://www.youtube.com/watch?v=du8h0Rs6Hp0 )
 
-[![Image](smartdata/whistleblow.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
+[![Image](smartdata/whistleblow.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph https://www.youtube.com/watch?v=35YJScJRNJY
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
