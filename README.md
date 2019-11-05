@@ -21,6 +21,7 @@ https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası ya
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye bir orospu erkek bırak
+https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz bu siziyle büyüyen çocukların şaka maka büyümesi
 https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz 1978 liyim diyip kandırıklayan erkek
 bkz sözlükteki bebelerin şaka maka çocuğum yaşımda olması norm ender de dinler bunlar
 https://www.uludagsozluk.com/k/2023-de-ka%C3%A7-ya%C5%9F%C4%B1nda-olacaks%C4%B1n%C4%B1z/&w=bg bkz 44 canum evladum
