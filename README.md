@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz ince sesli ılık akboy https://agca.uludagsozluk.com/ 
-bkz götü ekrem şeklinde atan akboy https://agca.uludagsozluk.com/
+bkz götü ekrem şeklinde atan akboy https://folkan-iyesta-cicisler.uludagsozluk.com
 bkz ekremi arayıp çok tatlısın çok güzelsin baban damı imamdı senin diye şarkı söylemek
 bkz gözleri ekrem şeklinde surat
 bkz imamoğlanı arayıp uyudun mu demek
