@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
-bkz terörik nazlı halıcakın evinde dinlenmeye çekilmesi
+bkz nazlıhalıcakınsonhali.jpeg in evine varması
 bkz sabaha bir ekrem şeklinde gülen surat bırak
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
 https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%C4%B1lan-yanl%C4%B1%C5%9Flar/&w=bg
