@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://www.uludagsozluk.com/k/sevan-ni%C5%9Fanyan/&w=bg bkz seven ne yapmazkiyan
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
+https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz yurtsever ülkücü bi abimiz
 bkz ince sesli ağır ılık akboy https://agca.uludagsozluk.com/ 
 bkz götü sürekli ekrem şeklinde atan akboy https://folkan-iyesta-cicisler.uludagsozluk.com
