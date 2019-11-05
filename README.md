@@ -34,7 +34,6 @@ bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCL
 sonra döndüm dedim ki yiyi beşiktaşlıyım
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz güreselci pkk lı
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz mahmut izzet ibo
- girmesi muhallebi getimesi
 bkz fettullah gülen kim merak edip araştırma yapmak
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz zuhahahaha
 bkz entry giren ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
