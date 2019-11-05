@@ -18,11 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz sabaha bir ekrem şeklinde gülen surat bırak
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
-bkz fenerbahcenin onuru dava adamı https://www.youtube.com/watch?v=vW0JBvCLjs8
 https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%C4%B1lan-yanl%C4%B1%C5%9Flar/&w=bg
-https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1nca-hakaret-eden-insan/&w=bg bkz rte
-https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz keltoş baban koşş bizim tayfa riç sizin tayfa biç
-https://www.uludagsozluk.com/k/sevan-ni%C5%9Fanyan/&w=bg bkz seven ne yapmazkiyan
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
 https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz ana babababa
 bkz ince sesli ağır ılık akboy https://agca.uludagsozluk.com/ 
