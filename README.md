@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
+bkz fetöcülerin tahliyuesine ses çıkarmayan imamoğlu
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
 bkz esedin yıllarce besledği pkklılara sesisni çıkarmayan medya
