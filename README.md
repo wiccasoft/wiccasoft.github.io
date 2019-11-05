@@ -22,6 +22,7 @@ bkz acı macı bize işler mi bacı
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz iş yerinde porno açan memurların dramı
 https://www.uludagsozluk.com/k/porno-izlenyenlerin-kimli%C4%9Fi-saptanacak/&w=gd bkz porno izleyecek kadar ezik olmak
 bkz kankağ 41 yaşında yalnız yaşayan zeki uzun boylu esprili sarışın mavi gözlü erkek başlığı açmamışsınız 
+https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular
 https://eksisozluk.com/5-kasim-2019-fatih-tezcana-sorusturma-acilmasi--6237247?a=popular bkz zuahhahaha
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz nazlı ılıcakın ılık oğlu
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular bkz hayırlı forumlar
