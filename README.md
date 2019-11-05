@@ -17,9 +17,9 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
-bkz fatih terimden fatih altaylı güzellemesi
 bkz acı macı bize işler mi bacı
 bkz fatih isimli erkeklerin özellikleri
+bkz fatih terimden fatih altaylı güzellemesi
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim
 https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
