@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
 bkz türkiyede yaşayacak kadar fakir ve aptal olmak
-https://www.uludagsozluk.com/k/a%C4%9F%C4%B1rla%C5%9Ft%C4%B1r%C4%B1lm%C4%B1%C5%9F-m%C3%BCebbet-verdi%C4%9Fin-ter%C3%B6risti-salmak/&w=gd bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
+https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
 bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
