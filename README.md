@@ -35,46 +35,6 @@ bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I3
 https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz pes atarken pes attım diyen erkek
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
 bkz ikinci günün şafağında türkiyeyi çözmek
-https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular bkz yaş kaç evlat
-bkz 30 yaşında ailesiyle yaşayan ekşici profili https://www.youtube.com/watch?v=4Fn84I34azs
-https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz evlat yaş kaç
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFMFQ2VUKiofKh1x63qick08gDqjjxWrFDBGdNjnDorlX2BHGP
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz belhanda
-https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular bkz emre morun yürümesi
-https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
-bkz fetöcülerin tahliyesine ses çıkaramayan  pkk yardakçısı imamoğlu
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
-bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
-sonra döndüm dedim ki yiyi beşiktaşlıyım
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz güreselci pkk lı
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz mahmut izzet ibo
-bkz fettullah gülen kim merak edip araştırma yapmak
-https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz zuhahahaha
-bkz entry giren ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
-https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
-bkz acı macı bize işler mi bacı
-bkz fatih isimli erkeklerin özellikleri
-bkz fatih terimden fatih altaylı güzellemesi
-bkz fatih isimli galatasaraylı erkek karizması
-https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz yaş kaç evlat
-bkz fatih altaylı fatih terim fatih tezcanla aynı eve çıkmak
-bkz üç galatasaraylı ev tutup grup seks yapmak
-bkz 51 yaşında karısıyla kızıyla yaşayan erkek 
-https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular
-https://eksisozluk.com/fatih-altaylinin-emre-belozoglu-yorumu--6236814?a=popular
-https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
-bkz teğe teğ ten sonrasını izlemedim yayınlar
-https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
-https://eksisozluk.com/annelerin-futbol-bilgisi--4036826?a=popular bkz 30 yaşında annesiyle yaşayan ezik fanatikler
-bkz ekşideki tiplerin kendi başlıklarına entry girmeleri asdadadasdasdad
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular
-https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz iş yerinde porno açan memurların dramı
-https://www.uludagsozluk.com/k/porno-izlenyenlerin-kimli%C4%9Fi-saptanacak/&w=gd bkz porno izleyecek kadar ezik olmak
-bkz kankağ 41 yaşında yalnız yaşayan zeki uzun boylu esprili sarışın mavi gözlü erkek başlığı açmamışsınız 
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular 
-https://eksisozluk.com/5-kasim-2019-fatih-tezcana-sorusturma-acilmasi--6237247?a=popular bkz zuahhahaha
-https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular bkz hayırlı forumlar
-https://www.youtube.com/watch?v=m89XUIKMCfA bkz güne bir erdoğan bırak https://www.youtube.com/watch?v=srcBb5N--g4
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
 https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış gardaşım köz getir seri
 bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
@@ -83,15 +43,11 @@ https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulu
 https://eksisozluk.com/sozluk-bana-kari-bul-lan-allahsiz--579897 bkz bir rica temennisi
 https://www.uludagsozluk.com/e/42376855/ lol
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
-bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği
-https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlığını girecek .jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%A7%C4%B1k%C4%B1nca-ilk-yaz%C4%B1s%C4%B1/
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
 bkz şaka maka erdoğanın doğru kararlar almaya başlaması yürüyeceksin millet yürüyecek arkandan
 https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
-bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması 
 bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/ 
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
