@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamaoğlu
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
 bkz esedin yıllarce besledği pkklılara sesisni çıkarmayan medya
 https://www.uludagsozluk.com/k/esad-%C4%B1n-pkk-ya-ordumuza-kat%C4%B1l%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/ 
