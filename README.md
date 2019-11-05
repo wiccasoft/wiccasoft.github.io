@@ -17,6 +17,8 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42377814/ 
+https://www.uludagsozluk.com/e/42376855/ lol
+https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
@@ -38,8 +40,6 @@ bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/entry/39421205 beyler 41 yaşındayım yalnız yaşıyorum one göre karı yollayın
 https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulun be bi karı
 https://eksisozluk.com/sozluk-bana-kari-bul-lan-allahsiz--579897 bkz bir rica temennisi
-https://www.uludagsozluk.com/e/42376855/ lol
-https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%A7%C4%B1k%C4%B1nca-ilk-yaz%C4%B1s%C4%B1/
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
