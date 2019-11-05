@@ -24,6 +24,7 @@ https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/190-cm-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-kasl%C4%B1-ye%C5%9Fil-g%C3%B6zl%C3%BC-zeki-erkek/
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/  bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/erken-yat%C4%B1p-erken-kalk%C4%B1p-evde-oturan-i%C5%9Fsiz/ bkz disipline hayranım
 https://www.uludagsozluk.com/k/sinan-o%C4%9Fan-24-mart-2022-y%C4%B1l%C4%B1nda-vefat-edecek/ bkz hadi bakalım inşallah
