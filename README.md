@@ -20,7 +20,7 @@ bkz türkiyede yaşayacak kadar fakir ve aptal olmak
 bkz türklerin soyadlarından firma kurma salaklığı
 bkz türklerin dünyanın ve internetin virüsleri olmaları
 bkz bütün dünyanın sevmediği malum ırk
-bkz ekremi türkiyeyi şikayet etmesi
+bkz ekremi türkleri şikayet etmesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
 bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
