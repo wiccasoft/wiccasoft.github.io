@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
-bkz pkk washington şube şefinin fatih tezcanı resmi olarak tanımıyoruz açıklaması
+bkz pkk berlin şube şefinin fatih tezcanı resmi olarak tanımıyoruz açıklaması
 bkz pkk helsinki şube şefinin bu bizim sorunumuz değil açıklaması
 bkz esedin pkkyle cirit artarken buna göz yuman ypg destekçisis sosyal medya hesapları
 bkz esedin pkk yı çağırmasına ses çıkarmayan putin
