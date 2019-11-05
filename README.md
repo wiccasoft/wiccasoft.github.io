@@ -21,7 +21,7 @@ https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%
 https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd
 bkz berabeer yürüdük bizzzzzzzz bu yolllarrdaaaaaaaaaaa beraber ıslandık yağan yağmurdaaaaaaaaaaa
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1nca-hakaret-eden-insan/&w=bg bkz rte
-bkz re ce tay yi er do van re ce tay yi er do van https://www.youtube.com/watch?v=vW0JBvCLjs8
+bkz fenerbahcenin onuru dava adamı https://www.youtube.com/watch?v=vW0JBvCLjs8
 https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz keltoş baban koşş bizim tayfa riç sizin tayfa biç
 https://www.uludagsozluk.com/k/sevan-ni%C5%9Fanyan/&w=bg bkz seven ne yapmazkiyan
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
