@@ -16,6 +16,8 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
+https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ 
+bkz cockolda cuckold diyen garip yaratıklar
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz
