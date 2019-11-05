@@ -45,7 +45,7 @@ https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
 bkz şaka maka erdoğanın doğru kararlar almaya başlaması yürüyeceksin millet yürüyecek arkandan
 https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
-bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
+bkz sabaha bir ekrem şeklinde gülen surat bırak 
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/ 
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
