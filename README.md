@@ -21,7 +21,7 @@ bkz acı macı bize işler mi bacı
 bkz fatih isimli erkeklerin özellikleri
 bkz fatih terimden fatih altaylı güzellemesi
 bkz fatih isimli galatasaraylı erkek karizması
-bkz 51 yaşında karısıyla kızıyla yaşayan erkek
+bkz 51 yaşında karısıyla kızıyla yaşayan erkek 
 https://eksisozluk.com/fatih-altaylinin-emre-belozoglu-yorumu--6236814?a=popular
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim yayınlar
