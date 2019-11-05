@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
+https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkztürk kızının maskulen maço erkek sevdası
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz ya belezoglan
 https://www.uludagsozluk.com/k/mehmet-ali-%C4%B1l%C4%B1cak-%C4%B1n-striptizciye-yard%C4%B1m-etmesi/ abo neler dönmğüş
 bkz terörist hunter tangır budun dogan bkz hök(halk özel kuvvetleri) bkz fetöcü hunter
