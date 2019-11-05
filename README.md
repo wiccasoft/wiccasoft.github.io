@@ -44,7 +44,6 @@ bkz üç galatasaraylı ev tutup grup seks yapmak
 bkz 51 yaşında karısıyla kızıyla yaşayan erkek 
 https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular
 https://eksisozluk.com/fatih-altaylinin-emre-belozoglu-yorumu--6236814?a=popular
-bkz galstasaray ve fenerbahcelilerin sanki biraz şey olması
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim yayınlar
 https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
