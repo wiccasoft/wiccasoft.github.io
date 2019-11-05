@@ -18,9 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://www.uludagsozluk.com/k/sevan-ni%C5%9Fanyan/&w=bg bkz seven ne yapmazkiyan
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
-bkz göt kılını erkek vs bacak kılını erkek
-https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=bg bkz vurduruyordur
-https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz yurtsever ülkücü bi abimiz
+https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz ana babababa
 bkz ince sesli ağır ılık akboy https://agca.uludagsozluk.com/ 
 bkz götü sürekli ekrem şeklinde atan akboy https://folkan-iyesta-cicisler.uludagsozluk.com
 bkz ekremi arayıp çok tatlısın çok güzelsin baban damı imamdı senin diye şarkı söylemek
