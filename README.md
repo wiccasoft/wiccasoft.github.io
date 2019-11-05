@@ -19,6 +19,7 @@ https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42377814/ 
 https://www.uludagsozluk.com/e/42376249/ bkz yanar döner fetöcü
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
+https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye futbolun orospusu bir erkek bırak
