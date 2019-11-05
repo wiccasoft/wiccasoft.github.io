@@ -25,8 +25,6 @@ https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkzk orospu ruhlu erk
 https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz osmanlı torunuyum diyip oğlu olan erkek
 https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz vurdurmadım diyip vurduran ruhsuz ve hain erkek
 https://www.uludagsozluk.com/k/orospu-denilince-akla-hep-kad%C4%B1n-gelmesi/ bkz erkeğin orospusu
-https://www.uludagsozluk.com/k/yalan-s%C3%B6yleyen-erkek/&w=bg bkz vurduruyordur
-https://www.uludagsozluk.com/k/24-ya%C5%9F%C4%B1nda-hala-evlenmemi%C5%9F-insan/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
 bkz ikinci günün şafağında türkiyeyi çözmek
