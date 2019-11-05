@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
 https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz yurtsever ülkücü bi abimiz
-bkz ince sesli ılık akboy https://agca.uludagsozluk.com/ 
+bkz ince sesli ağır ılık akboy https://agca.uludagsozluk.com/ 
 bkz götü sürekli ekrem şeklinde atan akboy https://folkan-iyesta-cicisler.uludagsozluk.com
 bkz ekremi arayıp çok tatlısın çok güzelsin baban damı imamdı senin diye şarkı söylemek
 bkz gözleri ekrem şeklinde surat
