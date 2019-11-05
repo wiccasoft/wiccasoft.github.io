@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
+https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 https://www.youtube.com/watch?v=m89XUIKMCfA bkz güne bir erdoğan bırak https://www.youtube.com/watch?v=srcBb5N--g4
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
 https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış 
@@ -34,7 +35,7 @@ https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popula
 bkz şaka maka erdoğanın doğru kararlar almaya başlaması yürüyeceksin millet yürüyecek arkandan
 https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
-bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
+bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması 
 bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/ 
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
