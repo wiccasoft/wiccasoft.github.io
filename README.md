@@ -19,6 +19,7 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/ 
 bkz türkiyede yaşayacak kadar fakir ve aptal olmak
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
+https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz vurdurmak için yer arayan erkek
 https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
