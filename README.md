@@ -17,7 +17,6 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz türkiyede yaşayacak kadar fakir ve aptal olmak
-https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg bkz çok zeki ve zengin insanların yaşadığı ütopik bir yer 
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
 bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
