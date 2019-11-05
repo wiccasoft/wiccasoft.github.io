@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
+bkz berabeer yürüdük bizzzzzzzz bu yolllarrdaaaaaaaaaaa beraber ıslandık yağan yağmurdaaaaaaaaaaa
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1nca-hakaret-eden-insan/&w=bg bkz rte
 bkz re ce tay yi er do van re ce tay yi er do van https://www.youtube.com/watch?v=vW0JBvCLjs8
 https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz keltoş baban koşş bizim tayfa riç sizin tayfa biç
