@@ -19,6 +19,7 @@ https://www.uludagsozluk.com/e/42374031/ lol
 bkz sabaha bir ekrem şeklinde gülen surat bırak
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
 https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%C4%B1lan-yanl%C4%B1%C5%9Flar/&w=bg
+https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F-%C4%B1n-b%C3%BCy%C3%BCkel%C3%A7i-olarak-atanmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
 https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz ana babababa
 bkz ince sesli ağır ılık akboy https://agca.uludagsozluk.com/ 
