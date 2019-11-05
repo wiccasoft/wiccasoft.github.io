@@ -25,10 +25,10 @@ bkz fetöcülerin en çok fetö kelimesini kullananlar olması
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
 https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz evlat yaş kaç
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
-bkz fetöcülerin tahliyuesine ses çıkaramayan terörrist pkk yardakçısı imamoğlu
+bkz fetöcülerin tahliyesine ses çıkaramayan  pkk yardakçısı imamoğlu
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
-bkz galtsaraylıların sanki biraz şey olması nasıl derler top
+bkz galatsaraylıların sanki biraz şey olması bkz hiç beşiktaşlı fanatik yokken cinconluların sanki ne bilim
 https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ 
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
