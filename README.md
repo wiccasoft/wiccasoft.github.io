@@ -24,9 +24,6 @@ https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765
 https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
 bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I34azs
-https://www.uludagsozluk.com/k/orospu-denilince-akla-hep-kad%C4%B1n-gelmesi/
-https://www.uludagsozluk.com/k/ay%C5%9Fe-hatun-%C3%B6nal-a-bakarak-otuzbir-%C3%A7eken-maymun/
-https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1-a%C5%9Fa%C4%9F%C4%B1lamay%C4%B1-marifet-sanan-erkekler/&w=bg bkz inciciler
 https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz pes atarken pes attım diyen erkek
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
 bkz ikinci günün şafağında türkiyeyi çözmek
