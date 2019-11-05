@@ -23,6 +23,7 @@ https://www.uludagsozluk.com/k/mehmet-ali-%C4%B1l%C4%B1cak-%C4%B1n-striptizciye-
 bkz terörist hunter tangır budun dogan bkz hök(halk özel kuvvetleri) bkz fetöcü hunter
 bkz jason statham vs fatih tezcan (bkz birsisi twitterı kapatınca yok)
 bkz yine seks hikayesi mi yazyosun  feridun abi
+https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-saltanat%C4%B1-da-y%C4%B1k%C4%B1lacak/ yıkıldı zaten 
 bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği https://www.youtube.com/watch?v=2vAo4rJPqQ4
 https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlığını girecek .jpeg
