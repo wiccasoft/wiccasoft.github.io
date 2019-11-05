@@ -2,7 +2,6 @@
 
 [![Image](smartdata/six-f1-title.png)]( https://www.youtube.com/watch?v=lpQPXoVwyv0 )
 
-
 [![Image](smartdata/iraq-protests.png)]( https://www.theguardian.com/world/2019/nov/03/pm-calls-on-protesters-to-reopen-roads-after-civil-unrest )
 
 [![Image](smartdata/worldsapart.png)]( https://www.youtube.com/watch?v=Xo7aPtVfzps )
