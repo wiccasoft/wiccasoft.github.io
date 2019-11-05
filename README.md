@@ -23,6 +23,7 @@ bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye orospu bir erkek bırak
 bkz belhanda diyince akla belhanda gelmesi
+https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
 bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/ay%C5%9Fe-hatun-%C3%B6nal-a-bakarak-otuzbir-%C3%A7eken-maymun/
 https://www.uludagsozluk.com/k/k%C4%B1zlar%C4%B1-a%C5%9Fa%C4%9F%C4%B1lamay%C4%B1-marifet-sanan-erkekler/&w=bg bkz inciciler
