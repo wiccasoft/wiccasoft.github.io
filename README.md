@@ -25,7 +25,7 @@ bkz ikinci günün şafağında türkiyeyi çözmek
 bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
 bkz belhandanın evde takla atıp pes atması
-https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular 
+https://eksisozluk.com/2040-yilindan-eksisozluk-basliklari--6237390?a=popular bkz yaş kaç evlat
 bkz 30 yaşında ailesiyle yaşayan ekşici profili https://www.youtube.com/watch?v=4Fn84I34azs
 https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz evlat yaş kaç
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFMFQ2VUKiofKh1x63qick08gDqjjxWrFDBGdNjnDorlX2BHGP
