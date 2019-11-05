@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
-https://www.uludagsozluk.com/e/42376249/ bkz fetöcü olduğu belli tatava yapan bi fetöcü abla
+https://www.uludagsozluk.com/e/42376249/ bkz fetöcü olduğu belli tatava yapan kötü niyetli bi fetöcü abla
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
 bkz pkk berlin şube şefinin fatih tezcanı resmi olarak tanımıyoruz açıklaması
 bkz pkk helsinki şube şefinin bu bizim sorunumuz değil açıklaması
