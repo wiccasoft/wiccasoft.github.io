@@ -20,6 +20,7 @@ https://www.uludagsozluk.com/e/42377814/
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
 https://www.uludagsozluk.com/k/k%C3%BCpe-takan-erkek/&w=gd bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/dolgun-erkek-g%C3%B6t%C3%BCn%C3%BCn-m%C3%BCkemmelli%C4%9Fi/ bkz o göte bülbül öte
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg bkz atayızlar hadi bunu da açıklayın
