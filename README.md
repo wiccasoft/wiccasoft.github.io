@@ -25,6 +25,7 @@ https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz kafama sıkar giderim
 bkz ülkücülerin biraz mankafalı olması
 bkz ahmet kayanın pkklı olduğunu bile bile hala dinleyen ülkcüler
 bkz ahmet kayanın sinan oğana yumurta kadalı demesi
+bkz belhandanın ispanyaya götürdüğü oyun konsolunun gümrükte takılması
 https://www.uludagsozluk.com/k/sinan-o%C4%9Fan-24-mart-2022-y%C4%B1l%C4%B1nda-vefat-edecek/ bkz hadi bakalım inşallah
 bkz nefes alsın yeter diyen kız çekiciliği
 bkz guardian yayın müdürü olmam https://www.youtube.com/watch?v=e8zXnLNwSWQ
