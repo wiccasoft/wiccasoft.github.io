@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/ 
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
+https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz mahmut izzet ibo
 bkz nazlı ılıcak neden hapis yattı hala bilmemek o kadar konuya uzak olmak
 bkz birinin fetöcü olduğunu anlama yolları size karşı geliyorsa fetöcüdür evet
 bkz kin tutulan kişiyi fetö ihbar hattına şikayet etmek bkz hugug devletüğ
