@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz fatih terimden fatih altaylı güzellemesi
 bkz acı macı bize işler mi bacı
 https://eksisozluk.com/5-kasim-2019-fatih-tezcana-sorusturma-acilmasi--6237247?a=popular bkz zuahhahaha
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz nazlı ılıcakın oğlu
+https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz nazlı ılıcakın ılık oğlu
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular bkz hayırlı forumlar
 https://www.youtube.com/watch?v=m89XUIKMCfA bkz güne bir erdoğan bırak https://www.youtube.com/watch?v=srcBb5N--g4
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
