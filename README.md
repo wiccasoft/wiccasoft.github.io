@@ -22,7 +22,7 @@ https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğ
 bkz küreselci pkklıların amerikan temsilciler meclisini kukla gibi oynatması
 bkz küreselci pkklı ney olm asdasdadasdas bkz küreselcileri terörik ilan edemedik napak pkklı diyek amk
 bkz akboyların kamalcıların sevmediklerini terörrist ilan etmesi olayı oh ne güzel lan 
-bkz ben bu adama dokunmaıyom bıbıcım terörist ilan edelim bıbıcım
+bkz ben bu adama dokunamıyom bıbıcım terörist ilan edelim bıbıcım
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz mahmut izzet ibo
 bkz nazlı ılıcak neden hapis yattı hala bilmemek o kadar konuya uzak olmak
 bkz birinin fetöcü olduğunu anlama yolları size karşı geliyorsa fetöcüdür evet
