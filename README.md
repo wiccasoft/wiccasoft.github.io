@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-bkz ezan çalarken gelen allah ne kadar süper lan deme isteği
+bkz ezan çalarken gelen allah ne kadar süper laaaaaan deme isteği
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz muhteşem üçlüğ
 bkz ezan okunurken entry girmeye ara vermek
