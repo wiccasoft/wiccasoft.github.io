@@ -22,6 +22,7 @@ https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayı
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 bkz geceye orospu bir erkek bırak
+bkz geceye bir ileri libero bırak
 https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
 bkz belhanda diyince akla belhanda gelmesi
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
