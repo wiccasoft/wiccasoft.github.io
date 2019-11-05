@@ -27,9 +27,6 @@ https://www.uludagsozluk.com/k/mesleklerine-g%C3%B6re-uzak-durulmas%C4%B1-gereke
 https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765  bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/zay%C4%B1f-kad%C4%B1n-vs-hafif-bal%C4%B1ketli-kad%C4%B1n/&w=gd bkz lol
-https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
 bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz pes atarken pes attım diyen erkek
