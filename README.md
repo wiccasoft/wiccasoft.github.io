@@ -24,7 +24,7 @@ https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eli
 bkz ikinci günün şafağında türkiyeyi çözmek
 bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
-bkz belhandadın fatih altaylıla pes atması
+bkz belhandadın fatih altaylıyla pes atması
 https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz evlat yaş kaç
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
 bkz fetöcülerin tahliyesine ses çıkaramayan  pkk yardakçısı imamoğlu
