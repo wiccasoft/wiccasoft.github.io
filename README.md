@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/e/42375179/
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
 bkz nazlı ılıcak neden hapis yattı hala bilmemek o kadar konuya uzak olmak
-bkz fetöcü nedir yahu
+bkz bi insanın fetöcü olduğunu anlama yolları size karşı geliyorsa fetöcüdür evet
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz zuhahahaha
 bkz entry giren ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
