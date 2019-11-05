@@ -17,6 +17,8 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
+bkz esedin yıllarce besledği pkklılara sesisni çıkarmayan medya
+https://www.uludagsozluk.com/k/esad-%C4%B1n-pkk-ya-ordumuza-kat%C4%B1l%C4%B1n-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/ 
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz 3 ü bir arada
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/&w=gd 
 bkz çalış köpek bu saatten sonra ben mi çalışacam amk
