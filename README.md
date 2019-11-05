@@ -20,7 +20,7 @@ https://www.uludagsozluk.com/e/42377814/ bkz madem öyle niye kısa değilim
 https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası yanar döner fetöcü
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
-bkz geceye bir orospu erkek bırak
+bkz geceye orospu bir erkek bırak
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz efsane kurtlar vadisi diyaloglarıyla büyümüş efsane nesil
 https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz fetöcüleri besleyen cemaat
 https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz bu siziyle büyüyen çocukların şaka maka büyümesi
