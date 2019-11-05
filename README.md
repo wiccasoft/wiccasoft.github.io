@@ -37,7 +37,7 @@ bkz ikinci günün şafağında türkiyeyi çözmek
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
 https://www.uludagsozluk.com/e/42376904/ karı on numaraymış gardaşım aktım yine emeğe
 bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
-https://eksisozluk.com/entry/39421205 beyler 41 yaşındayım yalnız yaşıyorum one göre karı yollayın
+https://eksisozluk.com/entry/39421205 
 https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulun be bi karı
 https://eksisozluk.com/sozluk-bana-kari-bul-lan-allahsiz--579897 bkz bir rica temennisi
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
@@ -49,7 +49,6 @@ bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/ 
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
-https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz ana babababa
 bkz pelin çifti arayıp ya çok rahat konuşuyordun demek
 bzz eşşeğin zikini şapırdatarak yiyen kadın videosunu nasıl beynimden çıkarabilirim diye düşünmek
 https://eksisozluk.com/entry/97376883 bkz eşşeğin zikinden dolayı
