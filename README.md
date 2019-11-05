@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
 bkz jason statham vs fatih tezcan (bkz birsisi twitterı kapatınca yok)
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-saltanat%C4%B1-da-y%C4%B1k%C4%B1lacak/ yıkıldı zaten sen deeep web te hayaller kuruyosun
 bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği https://www.youtube.com/watch?v=2vAo4rJPqQ4
 https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlığını girecek .jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-gay-b%C4%B1rak/ bkz nazlıyı saldım diye kuduran bi tane dayı.jpeg
