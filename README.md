@@ -24,8 +24,7 @@ bkz terörist hunter tangır budun dogan bkz hök(halk özel kuvvetleri) bkz fet
 bkz jason statham vs fatih tezcan (bkz birsisi twitterı kapatınca yok)
 bkz yine seks hikayesi mi yazyosun  feridun abi
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-saltanat%C4%B1-da-y%C4%B1k%C4%B1lacak/ yıkıldı zaten 
-bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği https://www.youtube.com/watch?v=2vAo4rJPqQ4
+bkz kobrayı salarsam tangır budun doganin kuduracağı gerçeği
 https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlığını girecek .jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-gay-b%C4%B1rak/ bkz nazlıyı saldım diye kuduran bi tane dayı.jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg kardeş siz nazlıyı bırakında offf onlar ne öyle
