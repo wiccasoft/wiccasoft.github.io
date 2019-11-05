@@ -19,6 +19,8 @@ https://www.uludagsozluk.com/e/42375179/
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz fatih terimden fatih altaylı güzellemesi
 bkz acı macı bize işler mi bacı
+bkz ekşideki tiplerin kendi başlıklarına entry girmeleri
+https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz iş yerinde porno açan memurların dramı
 https://www.uludagsozluk.com/k/porno-izlenyenlerin-kimli%C4%9Fi-saptanacak/&w=gd bkz porno izleyecek kadar ezik olmak
 bkz kankağ 41 yaşında yalnız yaşayan zeki uzun boylu esprili sarışın mavi gözlü erkek başlığı açmamışsınız 
