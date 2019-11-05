@@ -17,7 +17,6 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-bkz türkiyede yaşayacak kadar fakir ve aptal olmak
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz vurdurmak için yer arayan erkek
 https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
@@ -30,25 +29,7 @@ https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%
 https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F-%C4%B1n-b%C3%BCy%C3%BCkel%C3%A7i-olarak-atanmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
 https://www.uludagsozluk.com/k/haluk-yurtsever/&w=bg bkz ana babababa
-bkz ince sesli ağır ılık akboy https://agca.uludagsozluk.com/ 
-bkz götü sürekli ekrem şeklinde atan akboy https://folkan-iyesta-cicisler.uludagsozluk.com
-bkz ekremi arayıp çok tatlısın çok güzelsin baban damı imamdı senin diye şarkı söylemek
-bkz gözleri ekrem şeklinde surat
-bkz imamoğlanı arayıp uyudun mu demek
-bkz ibb yi arayıp imamaoğlu gelmedi mi lan demek
-bkz imamoğlunu  arayıp oğlunu ver lan telefona demek 
-bkz feminist dünyada maskulen olmak https://www.uludagsozluk.com/e/42375222/
-bkz catalan dağlarına türk diye yazmak
-bkz ense kanter i arayıp fetullahı ver bana demek
-bkz nagehan a nazlı ılıcak son hali.jpeg yollayıp senin de sonun böyle olacak demek
-bkz rtenin nazlı ılıcakla mehemt altanı mercedesle tahliye etmesi
-bkz gece gece ali koçu arayıp alper potuk yarın oynar mı koçum diye sormak
-bkz çini kaç satte alırız sorunsalı
-bkz gece gece himalayalara türk bayrağı dikmek istemek
-bkz itlerin hükmü türk gelene kadardır
-bkz gece gece fathi terimi arayıp falcao yarın oynuyo mu lan demek
-bkz gece gece pelin çifti arayıp ya pelin kardeş çok rahat konuşuyodun demek
-bkz gece gece nagehanı arayıp eşşeğin ziki demek
+bkz pelin çifti arayıp ya çok rahat konuşuyordun demek
 bzz eşşeğin zikini şapırdatarak yiyen kadın videosunu nasıl beynimden çıkarabilirim diye düşünmek
 https://eksisozluk.com/entry/97376883 bkz eşşeğin zikinden dolayı
 -->
