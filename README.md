@@ -23,7 +23,7 @@ bkz fatih terimden fatih altaylı güzellemesi
 bkz fatih isimli galatasaraylı erkek karizması
 https://eksisozluk.com/fatih-altaylinin-emre-belozoglu-yorumu--6236814?a=popular
 https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
-bkz teğe teğ ten sonrasını izlemedim
+bkz teğe teğ ten sonrasını izlemedim yayınlar
 https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
 https://eksisozluk.com/annelerin-futbol-bilgisi--4036826?a=popular bkz 30 yaşında annesiyle yaşayan ezik fanatikler
 bkz ekşideki tiplerin kendi başlıklarına entry girmeleri asdadadasdasdad
