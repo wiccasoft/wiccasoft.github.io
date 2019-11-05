@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/&w=gd blz çalış köpek
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz threesome
 bkz xhamsterin cuckold kategoriğ kaldırması
 https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ bkz cuckold
