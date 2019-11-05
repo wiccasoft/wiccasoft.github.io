@@ -18,9 +18,7 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz ya belezoglan
-https://www.uludagsozluk.com/k/mehmet-ali-%C4%B1l%C4%B1cak-%C4%B1n-striptizciye-yard%C4%B1m-etmesi/ abo neler dönmğüş
-bkz terörist hunter tangır budun dogan
-bkz jason statham vs fatih tezcan (bkz birisi twitterı kapatınca yok)
+https://www.uludagsozluk.com/k/mehmet-ali-%C4%B1l%C4%B1cak-%C4%B1n-striptizciye-yard%C4%B1m-etmesi/ abo neler dönmğüş yalnız karı on numaraymış kalktı yine
 bkz yine seks hikayesi mi yazyosun  feridun abi
 https://www.uludagsozluk.com/e/42376855/ lol
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
