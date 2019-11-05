@@ -30,7 +30,7 @@ https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlı�
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%A7%C4%B1k%C4%B1nca-ilk-yaz%C4%B1s%C4%B1/
 https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
-bkz şaka maka erdoğanın doğru kararlar almaya başlaması yürüyeceksin millet yürüryecek arkandan
+bkz şaka maka erdoğanın doğru kararlar almaya başlaması yürüyeceksin millet yürüyecek arkandan
 https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
