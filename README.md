@@ -21,18 +21,14 @@ https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz kafama sıkar giderim
-bkz ülkücülerin biraz mankafalı olması
-bkz ahmet kayanın pkklı olduğunu bile bile hala dinleyen ülkücüler
 https://www.uludagsozluk.com/k/sinan-o%C4%9Fan-24-mart-2022-y%C4%B1l%C4%B1nda-vefat-edecek/ bkz hadi bakalım inşallah
-bkz nefes alsın yeter diyen kız çekiciliği
-bkz belhandanın ispanyaya götürdüğü oyun konsolunun gümrükte takılması
 https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz gardaşım köz getir seri
 https://www.uludagsozluk.com/k/mesleklerine-g%C3%B6re-uzak-durulmas%C4%B1-gereken-erkekler/&w=bg bkz laz müteahit
 https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
 https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765  bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/zay%C4%B1f-kad%C4%B1n-vs-hafif-bal%C4%B1ketli-kad%C4%B1n/&w=gd bkz lol
 https://www.uludagsozluk.com/k/tutulan-tak%C4%B1m%C4%B1-ingilizce-tarif-etmek/&w=bg bkz ekşicilerin seviyeyi yükseltmesi
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
 bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I34azs
