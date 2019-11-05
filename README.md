@@ -15,11 +15,9 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%
 https://www.uludagsozluk.com/e/42368624/ 
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
-https://www.uludagsozluk.com/e/42375179/ 
-bkz ezan çalarken gelen allah ne kadar süper laaaaaan deme isteği
+https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz galatasaray düşmanı
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz muhteşem üçlüğ
-bkz ezan okunurken entry girmeye ara vermek
+https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz 3 ü bir arada
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/&w=gd 
 bkz çalış köpek bu saatten sonra ben mi çalışacam amk
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz threesome
@@ -31,15 +29,9 @@ bkz cuckold yani kukusu yanan yaşlı bkz one flew over the cuckold
 https://www.uludagsozluk.com/k/kar%C4%B1n%C4%B1z%C4%B1n-spor-hocas%C4%B1n%C4%B1-cuckolda-davet-etmek/ 
 bkz fenerbahcenin gururu adam gibi adam https://www.youtube.com/watch?v=vW0JBvCLjs8 
 sonra döndüm dedim ki yiyi beşiktaşlıyım
-https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz
-bkz küreselci pkklıların amerikan temsilciler meclisini kukla gibi oynatması
-bkz küreselcileri terörik ilan edemedik napak pkklı diyek amk oh ne güzel lan 
-bkz ben bu adama dokunamıyom bıbıcım terörist ilan edelim bıbıcım
+https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz dokunmak istediğim dokunulmaz güreselci pkk lı
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-ahmet-davuto%C4%9Flu-ali-babacan/ bkz mahmut izzet ibo
-bkz nazlı ılıcak neden hapis yattı hala bilmemek o kadar konuya uzak olmak
-bkz birinin fetöcü olduğunu anlama yolları size karşı geliyorsa fetöcüdür evet
-bkz kin tutulan kişiyi fetö ihbar hattına şikayet etmek bkz hugug devletüğ
-bkz fetullah gülen videoları izlerken annenin odayı girmesi muhallebi getimesi
+ girmesi muhallebi getimesi
 bkz fettullah gülen kim merak edip araştırma yapmak
 https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz zuhahahaha
 bkz entry giren ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
