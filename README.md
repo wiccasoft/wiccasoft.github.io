@@ -20,7 +20,7 @@ https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası ya
 bkz çok dikkat çeken az bilinen fetöcü hunter sinirli fetöcüler
 bkz nazlı ılıcak neden tahliye oldu diye çıldıran fetöcüler
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
-bkz iki günde türkiyeyi çözmek
+bkz ikinci günün şafağında türkiyeyi çözmek
 bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
 bkz pkk berlin şube şefinin fatih tezcanı resmi olarak tanımıyoruz açıklaması
