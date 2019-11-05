@@ -21,6 +21,7 @@ https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
+bkz uzak durulamayacak kadar çekici erkek olmak
 bkz guardian yayın müdürü olmam https://www.youtube.com/watch?v=e8zXnLNwSWQ
 bkz alo nagehan bi rahat ver hayatım https://www.youtube.com/watch?v=W5rV1AHFNPI
 https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz gardaşım köz getir seri
