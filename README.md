@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
+https://www.uludagsozluk.com/k/mehmet-ali-%C4%B1l%C4%B1cak-%C4%B1n-striptizciye-yard%C4%B1m-etmesi/ abo neler dönmğüş
 bkz terörist hunter tangır budun dogan bkz hök(halk özel kuvvetleri) bkz fetöcü hunter
 bkz jason statham vs fatih tezcan (bkz birsisi twitterı kapatınca yok)
 bkz yine seks hikayesi mi yazyosun  feridun abi
