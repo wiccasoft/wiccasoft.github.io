@@ -21,8 +21,8 @@ https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9
 https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış böyle jpeglerle gelin bana
 bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
 abi içinde karı olmayan resme bakmıyorum atmayın rica ediyorum bide ben türkiyede yaşamıyorum kardeş ona göre karı atın
-https://eksisozluk.com/entry/39421205 beyler 41 yaşındayım yalnız yaşıyorum one göre karı yolalyın
-https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844
+https://eksisozluk.com/entry/39421205 beyler 41 yaşındayım yalnız yaşıyorum one göre karı yollayın
+https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulun be bi karı
 bkz yine seks hikayesi mi yazyosun feridun abi
 https://www.uludagsozluk.com/e/42376855/ lol
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
