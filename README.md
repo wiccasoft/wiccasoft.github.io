@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
-bkz demirtaşı da saldırrısam tangı budun doganin kuduracağı gerçeği
+bkz demirtaşı salarsam tangır budun doganin kuduracağı gerçeği
 https://www.uludagsozluk.com/k/jason-statham/&w=bg bkz türkiyenin erkek açlığını girecek .jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-gay-b%C4%B1rak/ bkz nazlıyıy saldırdım diye kuduran bi tane dayı.jpeg
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg kardeş siz nazlıyı bırakında offf onlar ne öyle
