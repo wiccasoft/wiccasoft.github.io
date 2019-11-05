@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/ 
+bkz fatih altaylıya entry girerken ekşicileri ziyaret etmek https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz acı macı bize işler mi bacı
 bkz fatih isimli erkeklerin özellikleri
