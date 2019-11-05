@@ -20,7 +20,7 @@ https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
 https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış böyle jpeglerle gelin bana
 bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
-abi içinde karı olmayan resme bakmıyorum atmayın rica ediyorum bide ben türkiyede yaşamıyorum kardeş 
+abi içinde karı olmayan resme bakmıyorum atmayın rica ediyorum bide ben türkiyede yaşamıyorum kardeş ona göre karı atın
 bkz yine seks hikayesi mi yazyosun feridun abi
 https://www.uludagsozluk.com/e/42376855/ lol
 https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
