@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
+bkz pkk nın helsinki şefinin bu bizim sorunumuz değil açıklaması
 bkz esedin pkkyle cirit artarken buna göz yuman ypg destekçisis sosyal medya hesapları
 bkz esedin pkk yı çağırmasına ses çıkarmayan putin
 bkz ağırlaştırılmış mübbet verdiği teröriki salacak kada alçak köpek olmak
