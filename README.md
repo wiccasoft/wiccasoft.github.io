@@ -19,6 +19,8 @@ https://www.uludagsozluk.com/e/42375179/
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz fatih terimden fatih altaylı güzellemesi
 bkz acı macı bize işler mi bacı
+bkz fatih isimli erkeklerin özellikleri
+https://eksisozluk.com/fatih-altaylinin-trafik-polisine-kufretmesi--5865818?a=popular
 bkz teğe teğ ten sonrasını izlemedim
 https://www.haberturk.com/tv/programlar/video/teke-tek-29-ekim-ozel-29-ekim-2019-prof-dr-ilber-ortayli/660054
 https://eksisozluk.com/annelerin-futbol-bilgisi--4036826?a=popular bkz 30 yaşında annesiyle yaşayan ezik fanatikler
