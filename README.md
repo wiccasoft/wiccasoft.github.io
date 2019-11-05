@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
-bkz esedin pkkyle cirit artarken buna göz mü yumacağız arkadaşlar utyanacağınız bilsem yüzünüze tükürürdüm
+bkz esedin pkkyle cirit artarken buna göz yuman ypg destekçisis sosyal medya hesapları
 bkz esedin pkk yı çağırmasına ses çıkarmayan putin
 bkz ağırlaştırılmış mübbet verdiği teröriki salacak kada alçak köpek olmak
 bkz pkk helsinki şube şefinin amerikan temsilciler meclisine adam sokmasına ses çıkarmayan batı
