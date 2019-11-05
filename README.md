@@ -23,13 +23,10 @@ https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz kafama sıkar giderim
 bkz ülkücülerin biraz mankafalı olması
-bkz ahmet kayanın pkklı olduğunu bile bile hala dinleyen ülkcüler
-bkz ahmet kayanın sinan oğana yumurta kadalı demesi
+bkz ahmet kayanın pkklı olduğunu bile bile hala dinleyen ülkücüler
 https://www.uludagsozluk.com/k/sinan-o%C4%9Fan-24-mart-2022-y%C4%B1l%C4%B1nda-vefat-edecek/ bkz hadi bakalım inşallah
 bkz nefes alsın yeter diyen kız çekiciliği
 bkz belhandanın ispanyaya götürdüğü oyun konsolunun gümrükte takılması
-bkz guardian yayın müdürü olmam https://www.youtube.com/watch?v=e8zXnLNwSWQ
-bkz alo nagehan bi rahat ver hayatım https://www.youtube.com/watch?v=W5rV1AHFNPI
 https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz gardaşım köz getir seri
 https://www.uludagsozluk.com/k/mesleklerine-g%C3%B6re-uzak-durulmas%C4%B1-gereken-erkekler/&w=bg bkz laz müteahit
 https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
