@@ -13,10 +13,10 @@
 <!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph https://www.youtube.com/watch?v=35YJScJRNJY
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtube.com/watch?v=zEvF-2-0LWk
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
-https://www.uludagsozluk.com/e/42368624/ lol
-https://www.uludagsozluk.com/e/42370389/ lol
-https://www.uludagsozluk.com/e/42374031/ lol
-https://www.uludagsozluk.com/e/42375179/ lol
+https://www.uludagsozluk.com/e/42368624/ 
+https://www.uludagsozluk.com/e/42370389/ 
+https://www.uludagsozluk.com/e/42374031/ 
+https://www.uludagsozluk.com/e/42375179/ 
 bkz türkiyede yaşayacak kadar fakir ve aptal olmak
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-neden-kalk%C4%B1nam%C4%B1yor/ (bkz yüzde yüz yerli ve milli)
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
