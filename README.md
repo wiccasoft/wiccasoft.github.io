@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%C4%B1lan-yanl%C4%B1%C5%9Flar/&w=bg
+https://www.uludagsozluk.com/k/geceye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/&w=gd
 bkz berabeer yürüdük bizzzzzzzz bu yolllarrdaaaaaaaaaaa beraber ıslandık yağan yağmurdaaaaaaaaaaa
 https://www.uludagsozluk.com/k/ayr%C4%B1l%C4%B1nca-hakaret-eden-insan/&w=bg bkz rte
 bkz re ce tay yi er do van re ce tay yi er do van https://www.youtube.com/watch?v=vW0JBvCLjs8
