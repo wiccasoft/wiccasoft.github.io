@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
-https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası fetöcü
+https://www.uludagsozluk.com/e/42376249/ bkz kötü niyetli iktidar yalakası yanar döner fetöcü
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
 bkz fetöcülerin en çok fetö kelimesini kullananlar olması 
 bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
