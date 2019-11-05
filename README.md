@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42368624/ lol
 https://www.uludagsozluk.com/e/42370389/ lol
 https://www.uludagsozluk.com/e/42374031/ lol
 bkz nazlıhalıcakınsonhali.jpeg in gideceği yere varması
-bkz sabaha bir ekrem şeklinde gülen surat bırak
+bkz sabaha bir ekrem şeklinde gülen surat bırak https://www.youtube.com/watch?v=V0aDEvmf5u0
 İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
 https://www.uludagsozluk.com/k/hayat%C4%B1n%C4%B1-sikece%C4%9Fini-bile-bile-yap%C4%B1lan-yanl%C4%B1%C5%9Flar/&w=bg
 https://www.uludagsozluk.com/k/egemen-ba%C4%9F%C4%B1%C5%9F-%C4%B1n-b%C3%BCy%C3%BCkel%C3%A7i-olarak-atanmas%C4%B1/&w=bg
