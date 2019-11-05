@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/ 
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz fatih terimden fatih altaylı güzellemesi
+bkz acı macı bize işler mi bacı
 https://www.youtube.com/watch?v=m89XUIKMCfA bkz güne bir erdoğan bırak https://www.youtube.com/watch?v=srcBb5N--g4
 https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
 https://www.uludagsozluk.com/e/42376904/ abo neler dönmğüş yalnız karı on numaraymış gardaşım köz getir seri
