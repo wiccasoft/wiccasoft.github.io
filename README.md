@@ -21,6 +21,7 @@ https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/erken-yat%C4%B1p-erken-kalk%C4%B1p-evde-oturan-i%C5%9Fsiz/ bkz disipline hayranım
 https://www.uludagsozluk.com/k/sinan-o%C4%9Fan-24-mart-2022-y%C4%B1l%C4%B1nda-vefat-edecek/ bkz hadi bakalım inşallah
 https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz gardaşım köz getir seri
 https://www.uludagsozluk.com/k/mesleklerine-g%C3%B6re-uzak-durulmas%C4%B1-gereken-erkekler/&w=bg bkz laz müteahit
