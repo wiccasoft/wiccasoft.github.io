@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/e/42375179/
 https://www.youtube.com/watch?v=mtKWWcg60qE bkz kutlu sevgiden doğan
 bkz fatih terimden fatih altaylı güzellemesi
 bkz acı macı bize işler mi bacı
-https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz terörist olacak tabi ki
+https://www.uludagsozluk.com/k/khk-ile-i%C5%9Fsiz-kalanlara-ne-olacak/ bkz salla başı al maaşı dönemi bitti
 https://www.uludagsozluk.com/k/porno-izlenyenlerin-kimli%C4%9Fi-saptanacak/&w=gd bkz porno izleyecek kadar ezik olmak
 bkz kankağ 41 yaşında yalnız yaşayan zeki uzun boylu esprili sarışın mavi gözlü erkek başlığı açmamışsınız 
 https://eksisozluk.com/5-kasim-2019-fatih-tezcana-sorusturma-acilmasi--6237247?a=popular bkz zuahhahaha
