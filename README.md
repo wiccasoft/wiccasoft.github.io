@@ -30,6 +30,7 @@ bkz esedin pkk yı çağırmasına ses çıkarmayan putin
 bkz ağırlaştırılmış mübbet verdiği teröriki salacak kada alçak köpek olmak
 bkz pkk helsinki şube şefinin amerikan temsilciler meclisine adam sokmasına ses çıkarmayan batı
 bkz kk nın cuckoldculara ses çıkarmaması
+https://eksisozluk.com/belhandanin-ispanyaya-oyun-konsolu-goturmesi--6237310?a=popular bkz evlat yaş kaç
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
 bkz fetöcülerin tahliyuesine ses çıkaramayan terörrist pkk yardakçısı imamoğlu
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu-nun-fet%C3%B6-tahliyelerine-deste%C4%9Fi/ bkz mutlu musun imamoğlu
