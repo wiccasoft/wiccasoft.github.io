@@ -16,7 +16,7 @@ https://www.uludagsozluk.com/e/42368624/
 https://www.uludagsozluk.com/e/42370389/ 
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
-bkz pkk helsinki şube şefinin amerikan temsiclciler meclisine adam sokması
+bkz pkk helsinki şube şefinin amerikan temsilciler meclisine adam sokmasına ses çıkarmayan batı
 bkz kk nın cuckoldculara ses çıkarmaması
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-bld-ba%C5%9Fkanlar%C4%B1-h%C3%BCcreye-g%C3%B6nderilemez-demesi/
 bkz fetöcülerin tahliyuesine ses çıkaramayan terörrist pkk yardakçısı imamoğlu
