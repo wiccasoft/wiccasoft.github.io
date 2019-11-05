@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42370389/
 https://www.uludagsozluk.com/e/42374031/ 
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42376249/ bkz fetöcü olduğu belli tatava yapan bi fetöcü abla
-bkz pkk pentagon komutanının esedin teklifini değerlendiriyoruz açıklaması
+bkz pkk pentagon şefinin esedin teklifini değerlendiriyoruz açıklaması
 bkz pkk berlin şube şefinin fatih tezcanı resmi olarak tanımıyoruz açıklaması
 bkz pkk helsinki şube şefinin bu bizim sorunumuz değil açıklaması
 bkz esedin pkkyle cirit artarken buna göz yuman ypg destekçisis sosyal medya hesapları
