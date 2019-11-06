@@ -46,6 +46,7 @@ bkz babala tv 10 kasım videosunun silinmemesi
 bkz kamalcıları koruma kanunu kaldırılsın kampanyası
 bkz babala tv 10 kasım vidousunu hazırolda izleyen kamalcılar
 bkz kamalcıların en iyi yağtığı işin futbol tartışmak olduğu gerçeği
+bkz veli ağbabanın soktuğu kıza laf edemeyen kamalcılar
 https://www.uludagsozluk.com/k/veli-a%C4%9Fbaban%C4%B1n-ter%C3%B6rist-%C3%B6zge-ayd%C4%B1n%C4%B1-tbmmye-sokmas%C4%B1/
 https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bkz link at o.ç
 https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
