@@ -30,6 +30,7 @@ https://www.uludagsozluk.com/e/42377814/
 https://www.uludagsozluk.com/e/42379214/
 https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
+https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz dünyanın en itici tipi evet
 https://www.uludagsozluk.com/e/42381852/ bkz https://www.youtube.com/watch?v=EEjI0A9iMow
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/k/bruce-lee/&w=bg   https://www.youtube.com/watch?v=dCbxURq5Up4 
