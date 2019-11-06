@@ -33,8 +33,7 @@ https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378123/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42371628/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/ger%C3%A7ek-osmanl%C4%B1-torunlar%C4%B1-vs-%C3%A7akma-osmanl%C4%B1-torunlar/&w=bg
+https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/mustafa-kemalin-askeriyim-diyenlerin-ortak-y%C3%B6nleri/ hadi atayızlar bunu da açıklayın
 https://www.uludagsozluk.com/k/osman-%C3%B6calan-%C4%B1-trt-de-g%C3%B6r%C3%BCnce-duygulanan-%C3%A7omar/&w=bg
 https://www.uludagsozluk.com/k/3-haftal%C4%B1k-vi%C5%9Fne-suyu-i%C3%A7ilir-mi/&w=gd  bkz atayızlar hadi bunu da açıklayın
