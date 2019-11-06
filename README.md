@@ -10,10 +10,10 @@ bkz 1. mevlüt çavuşoğlan seksiliği https://www.tccb.gov.tr/kabine/disisleri
 bkz https://www.tccb.gov.tr/kabine/disisleri-bakani bkz pişirmeden emcüklerim bunu
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz oyşşşş
 https://www.uludagsozluk.com/k/bilek-g%C3%BCre%C5%9Fi-yapan-erkeklerin-daha-seksi-olmas%C4%B1/ bkz oyşşşşşş
+https://www.uludagsozluk.com/e/42381612/ bkz sevgili babel sen de biliyosun ki aşkımız burda bitmez
 bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
 bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
-https://www.uludagsozluk.com/e/42381612/ bkz sevgili babel sen de biliyosun ki aşkımız burda bitmez
-https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz çavuş tokatlarken akla gelen adam
+https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz ryanın göte çavuş tokatlarken akla gelen adam
 https://www.uludagsozluk.com/k/erdal-erzincan/&w=bg bkz dudaklarına asılmalık türkücüler
 https://www.uludagsozluk.com/k/mustafa-keser/&w=bg bkz mendil sallayışı bile seksi adamlar
 https://www.uludagsozluk.com/k/kartal-tibet/&w=bg bkz nefes alan efsane dudakları çok seksi
