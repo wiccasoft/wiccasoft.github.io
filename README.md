@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42382307/ eywallah bro
 https://www.uludagsozluk.com/e/42381632/ lol
-https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması
+https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
 https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ortadan-kaybolmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/tengir-budun-un-bilgisayar%C4%B1/ 
