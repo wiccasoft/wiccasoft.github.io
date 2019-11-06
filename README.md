@@ -7,7 +7,7 @@ bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
-bkz o değilde ozan tufan ın götü ne öyle be fenerbahçenin başarıldarından büyük
+bkz o değilde beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
 https://www.uludagsozluk.com/k/kartal-tibet/&w=bg bkz nefes alan efsane dudakları çok seksi
 https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
 https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var ya kuru kuru yiyecen aga
