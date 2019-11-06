@@ -4,10 +4,9 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
+https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
 bkz türbanlı kamuflaj gelinlik giyen yaratığın kabus olma ihtimali
 https://www.uludagsozluk.com/k/kuteybe-ye-yenilen-t%C3%BCrkler/&w=bg bkz kamuflaj gelinlik giyen yaratık
-bkz kamuflaj gelinlik giyen korkunç yaratığın görüntüsünü beynimden nasıl silebilrim diye kara kara düşünmek
-ananızın amına sokayım açacağınız başlıklara sokayım orospu çocukları 
 https://www.uludagsozluk.com/e/42383436/ bkz hadi kıvırma gay pornoları silmiş ayak yapıyosun
 https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz açmayın
 https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/&w=bg bkz açmayın korkunçlu karı ben açtım pişmanım
@@ -24,7 +23,6 @@ https://www.uludagsozluk.com/k/real-madrid-ile-yar%C4%B1m-kalm%C4%B1%C5%9F-bir-h
 https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz ne desem 6s şimdi
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
 https://www.uludagsozluk.com/k/6-kas%C4%B1m-galatasaray-%C4%B1-anma-gen%C3%A7lik-ve-skor-bayram%C4%B1/&w=bg lol
-https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
 https://www.uludagsozluk.com/k/erkekler-aras%C4%B1ndaki-penis-rekabeti/ bkz ama benim adım elvan dalton
 https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-anas%C4%B1-olmas%C4%B1/ bkz verse sikmez misin pampa
 -->
