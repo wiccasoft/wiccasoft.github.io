@@ -42,7 +42,7 @@ bkz putinin erdogana asker selamı yapıp vurma abi demesi
 bkz rte nin ali koçun kulağını çekip kuran oku lan demesi
 bkz babala tv 10 kasım videosunun silinmemesi
 bkz kamalcıları koruma kanunu kaldırılsın kampanyası
-bkz babala tv 10 kasım vidousunu ayakta izleyen kamalcı
+bkz babala tv 10 kasım vidousunu hazırolda izleyen kamalcı
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-orospu-%C3%A7ocuklar%C4%B1/ bkz kamalcı o.ç
 https://www.uludagsozluk.com/k/sovyetler-birli%C4%9Fine-kat%C4%B1lal%C4%B1m-kampanyas%C4%B1/ lol
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-orospu-%C3%A7ocuklar%C4%B1-ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1n-silinmesi/
