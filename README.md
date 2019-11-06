@@ -34,6 +34,7 @@ https://www.uludagsozluk.com/e/42381785/ bkz lol https://www.youtube.com/watch?v
 https://www.uludagsozluk.com/e/42381179/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
+https://www.uludagsozluk.com/e/42372627/ bkz akp nin ezan sesini daha da açmasıyla sonuçlanacak eylem
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42378123/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayın
