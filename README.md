@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/ak%C5%9Fama-gelece%C4%9Fim-hac%C4%B1-baroness-baban-evde-mi/ 
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-mason-olmas%C4%B1/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/bu-yahudiler-ne-yap%C4%B1yor/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar-b%C3%BCt%C3%BCn-g%C3%BCn-evde-ne-yap%C4%B1yor-sorunsal%C4%B1/&w=bg
