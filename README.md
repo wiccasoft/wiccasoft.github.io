@@ -2,18 +2,6 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
-https://www.tccb.gov.tr/kabine/disisleri-bakani nick altı girmeyin sikerim
-ibnenin evladları salak salak adamlara entry kasıyosunuz yok götüme sokmam yok azıma almam
-https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg fazla taşşak altına dolaşmayın ezerim
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz imparator
-bkz avrupa fatihi diye yazılır fatih altaylı diye okunur
-bkz eşide fathi terime girlin ilgniç entry
-bkz fatih altaylının emre belezoğluna cevabı
-bkz avrupafahahahahahhaha nıahhahahahahhahah
-bkz maç izlerken azından tükürükler saçarak konuşan garip yaratıklar
-bkz devre arasında dan sonra cinconun yiyeceği 3 gol
-https://www.uludagsozluk.com/e/42382996/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/bir-sigara-i%C3%A7ip-gelinceye-kadar-3-gol-yiyen-tak%C4%B1m/
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
