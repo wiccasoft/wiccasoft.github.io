@@ -26,7 +26,7 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42377814/ 
 https://www.uludagsozluk.com/e/42379214/
-https://www.uludagsozluk.com/e/42376855/ lol https://www.youtube.com/watch?v=nQCfR4waWpI
+https://www.uludagsozluk.com/e/42376855/ lol 
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/bu-yahudiler-ne-yap%C4%B1yor/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar-b%C3%BCt%C3%BCn-g%C3%BCn-evde-ne-yap%C4%B1yor-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kemalist-g%C3%B6r%C3%BCnce-gelen-g%C3%BClme-iste%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/suriyeli-kad%C4%B1nlar/&w=bg bkz hadi imamoğlu bunları da açıkla
