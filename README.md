@@ -2,8 +2,6 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
-https://www.uludagsozluk.com/k/menzil-tarikat%C4%B1nda-semerkand-buhara-sava%C5%9F%C4%B1/ lol 
-https://www.uludagsozluk.com/k/%C3%A7in-h%C3%BCk%C3%BCmetinin-uygur-kad%C4%B1nlar%C4%B1na-tecav%C3%BCz-projesi/ lol
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
