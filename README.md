@@ -29,6 +29,7 @@ https://www.uludagsozluk.com/e/42377814/
 https://www.uludagsozluk.com/e/42379214/
 https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
+https://www.uludagsozluk.com/e/42381852/ bkz https://www.youtube.com/watch?v=XCgop5X35yw
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/k/bruce-lee/&w=bg   https://www.youtube.com/watch?v=dCbxURq5Up4 
 https://www.uludagsozluk.com/e/42381785/ bkz lol https://www.youtube.com/watch?v=dCbxURq5Up4  asdsfsfsd olm bu ne yahu
