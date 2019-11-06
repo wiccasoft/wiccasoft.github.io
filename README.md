@@ -24,6 +24,7 @@ https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
 https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/e/42378123/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/marilyn-manson-kendi-a%C4%9Fz%C4%B1na-veriyormu%C5%9F/ bkz atayızlar hadi bunu da açıklayın
