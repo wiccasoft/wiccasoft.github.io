@@ -4,6 +4,8 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
+bkz babala tv 10 kasım vidyosu
+bkz enes baturun 10 kasım için saçını sarıya boyaması
 bkz benzema nın gs ye atacağı gole isim önerileri
 bkz o değil de falconun ligin içinde geçeceği gerçeği
 bkz beyler sabaha da çıtır erkek bırakalım kızlar uyanmadan
