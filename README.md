@@ -10,6 +10,7 @@ bkz avrupa fatihi diye yazılır fatih altaylı diye okunur
 bkz eşide fathi terime girlin ilgniç entry
 bkz fatih altaylının emre belezoğluna cevabı
 bkz avrupafahahahahahhaha nıahhahahahahhahah
+bkz maç izlerken azından tükürükler saçarak konuşan garip yaratıklar
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
