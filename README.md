@@ -10,6 +10,7 @@ bkz ryan babelin 10 kasım önce saçına meç yaprıtması
 bkz enes baturun 10 kasım saçını sarıya boyaması
 bkz 6 kasım hala geceye yakışıklı bırakılmaması olayı
 bkz tolga çevikin fotosuna masturbasyon yarpekn babanın odaya girmesi
+https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs soyunma odası
 https://www.uludagsozluk.com/k/tolga-%C3%A7evik/&w=bg bkz tolga çevikin cem yılmazın kayınçosu olduğu gerçeği-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
