@@ -41,10 +41,6 @@ https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
-bkz götünü parmakla ses etmezse seviyodur
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-sevdi%C4%9Fi-nas%C4%B1l-anla%C5%9F%C4%B1l%C4%B1r/&w=bg 
-bkz yine duşa soktun kardeş
-https://www.uludagsozluk.com/k/6-kas%C4%B1m-2019-falcao-nun-real-mard%C4%B1d-e-att%C4%B1%C4%9F%C4%B1-gol/ 
 https://www.uludagsozluk.com/k/bruce-lee-nin-o%C4%9Flunun-erken-ya%C5%9Fta-gebermesi/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz uludagsözlük
 https://www.uludagsozluk.com/k/elleriyle-mevye-soyup-yediren-sevgili/&w=bg bkz bülent ecevit
