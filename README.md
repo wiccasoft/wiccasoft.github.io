@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz imparator
 bkz avrupa fatihi diye yazılır fatih altaylı diye okunur
 bkz eşide fathi terime girlin ilgniç entry
 bkz fatih altaylının emre belezoğluna cevabı
-bkz avrupahahahahahhaha
+bkz avrupafahahahahahhaha nıahhahahahahhahah
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
