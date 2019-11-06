@@ -10,6 +10,7 @@ bkz ülke yünetmek sert iştir koçum
 bkz ülke yönetsem amuğa goyardım la
 bkz freddi mercury hakan altun dostluğu
 bkz readl madrid in götten girdiği gsliler
+bkz noldu ibnelerin takımı sesniz çıkmıyo
 https://www.uludagsozluk.com/k/6-kas%C4%B1m-2019-real-madrid-galatasaray-ma%C3%A7%C4%B1/&w=gd bkz boru gibi döşemek
 https://www.uludagsozluk.com/k/avrupa-fatihahahahaha/&w=bg zuahhahahahahaha
 https://www.uludagsozluk.com/k/avrupa-fatihahahahaha/&w=bg bkz yarramım fatihi hahahah
