@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/k/erkekler-aras%C4%B1ndaki-penis-rekabeti/ bkz ama 
 https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-anas%C4%B1-olmas%C4%B1/ bkz verse sikmez misin pampa
 https://www.uludagsozluk.com/k/hatice-k%C3%BCbra-tongar/ bkz kamuflaj gelinlik giyen yaratık
 bkz türbanlıların çok çirkin olması sorunsalı
+bkz türbanlıların güzel olduklarını sanması
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
