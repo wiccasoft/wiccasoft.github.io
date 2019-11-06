@@ -7,8 +7,6 @@ https://www.uludagsozluk.com/e/42381632/ lol
 https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
 https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
 https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray zuahahhahahaha
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/ bkz vurduruyor.
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz fenerli kudurtan avrupa fatihi imparator
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ortadan-kaybolmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/tengir-budun-un-bilgisayar%C4%B1/ 
 https://www.givemesport.com/1519476-sergio-ramos-went-full-sergio-ramos-during-real-madrid-v-galatasaray
@@ -19,9 +17,6 @@ https://www.uludagsozluk.com/k/6-kas%C4%B1m-galatasaray-%C4%B1-anma-gen%C3%A7lik
 https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
 https://www.uludagsozluk.com/k/erkekler-aras%C4%B1ndaki-penis-rekabeti/ bkz ama benim adım elvan dalton
 https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-anas%C4%B1-olmas%C4%B1/ bkz verse sikmez misin pampa
-https://www.uludagsozluk.com/k/hatice-k%C3%BCbra-tongar/ bkz kamuflaj gelinlik giyen yaratık
-bkz türbanlıların çok çirkin olması sorunsalı
-bkz türbanlıların güzel olduklarını sanması
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
