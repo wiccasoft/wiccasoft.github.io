@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
+https://www.uludagsozluk.com/k/galatasaray/&w=gd bkz ne desem gg silivri soğuktur şimdi
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
