@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
+https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-6-0-ezikli%C4%9Fi/&w=bg bkz kadir ezildi
 https://www.uludagsozluk.com/k/kadir-ezildi/&w=bg ben de sevmiyorum irrite edici
 https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
 bkz türbanlı kamuflaj gelinlik giyen yaratığın kabus olma ihtimali
