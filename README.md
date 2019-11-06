@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-e
 https://www.uludagsozluk.com/k/6-kas%C4%B1m-galatasaray-%C4%B1-anma-gen%C3%A7lik-ve-skor-bayram%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
 https://www.uludagsozluk.com/k/erkekler-aras%C4%B1ndaki-penis-rekabeti/ bkz ama benim adım elvan dalton
+https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-anas%C4%B1-olmas%C4%B1/ bkz verse sikmez misin pampa
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
