@@ -44,6 +44,7 @@ bkz rte nin ali koçun kulağını çekip kuran oku lan demesi
 bkz babala tv 10 kasım videosunun silinmemesi
 bkz kamalcıları koruma kanunu kaldırılsın kampanyası
 bkz babala tv 10 kasım vidousunu hazırolda izleyen kamalcılar
+bkz kamalcıların en iyi yağtığı işin futbol tartışmak olduğu gerçeği
 https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
 https://www.uludagsozluk.com/k/mehmet-barlas-%C4%B1n-%C4%B1spanak-hakk%C4%B1ndaki-yaz%C4%B1s%C4%B1/
 https://www.uludagsozluk.com/k/orospu-%C3%A7ocu%C4%9Fu-nedir-kimlere-denir/ bkz kamalcılar
