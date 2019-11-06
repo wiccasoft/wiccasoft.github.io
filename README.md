@@ -30,8 +30,6 @@ https://www.uludagsozluk.com/e/42377814/
 https://www.uludagsozluk.com/e/42379214/
 https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
-https://www.uludagsozluk.com/k/keanu-reeves/&w=bg bkz sağol canım övdüm de geldim 
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan/&w=bg bkz dünyanın en itici tipi evet
 https://www.uludagsozluk.com/e/42381852/ bkz https://www.youtube.com/watch?v=EEjI0A9iMow
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/k/bruce-lee/&w=bg   https://www.youtube.com/watch?v=dCbxURq5Up4 
@@ -47,6 +45,7 @@ https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
+bkz erdoğana satranç tahtası fırlatan esnaf
 https://www.uludagsozluk.com/k/bruce-lee-nin-o%C4%9Flunun-erken-ya%C5%9Fta-gebermesi/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz uludagsözlük
 https://www.uludagsozluk.com/k/elleriyle-mevye-soyup-yediren-sevgili/&w=bg bkz bülent ecevit
