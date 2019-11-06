@@ -18,7 +18,9 @@
 [![Image](smartdata/whistleblow.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](smartdata/seven-nation.png)]( https://www.youtube.com/watch?v=vNNqCnWP9xY )
-<!-- https://www.uludagsozluk.com/e/4843869/ lol-->
+<!-- https://www.uludagsozluk.com/e/4843869/ lol
+    https://www.uludagsozluk.com/e/42382381/ lol
+-->
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=o4lq3SOB8sw )
