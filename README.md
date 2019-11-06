@@ -1,7 +1,7 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 <!--seven nation army https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 
-[![Image](smartdata/wiki-ru.png)]( https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia )
+[![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 
 [![Image](smartdata/six-f1-title.png)]( https://www.youtube.com/watch?v=lpQPXoVwyv0 )
 
