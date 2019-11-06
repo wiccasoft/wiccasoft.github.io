@@ -2,9 +2,8 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
-free as fuck since 1978 and slim shady is not my name
 https://www.tccb.gov.tr/kabine/disisleri-bakani nick altı girmeyin sikerim
-ibnenin evladları adımı bilmiyosunuz daha salak salak adamlara entry kasıyosunuz yok götüme sokmam yok azıma almam
+ibnenin evladları salak salak adamlara entry kasıyosunuz yok götüme sokmam yok azıma almam
 https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg fazla taşşak altına dolaşmayın ezerim
 -->
 
