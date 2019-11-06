@@ -13,6 +13,7 @@ bkz avrupafahahahahahhaha nıahhahahahahhahah
 bkz maç izlerken azından tükürükler saçarak konuşan garip yaratıklar
 bkz devre arasında dan sonra cinconun yiyeceği 3 gol
 https://www.uludagsozluk.com/e/42382996/ bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/bir-sigara-i%C3%A7ip-gelinceye-kadar-3-gol-yiyen-tak%C4%B1m/
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
