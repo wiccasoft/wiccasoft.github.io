@@ -5,6 +5,7 @@
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz babala tv 10 kasım vidyosu
+bkz melüt çavışoğlanın 10 kasım için ikili görüşmelere hazırlanması
 bkz enes baturun 10 kasım için saçını sarıya boyaması
 bkz benzema nın gs ye atacağı gole isim önerileri
 bkz o değil de falconun ligin içinde geçeceği gerçeği
