@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/k/tolga-%C3%A7evik/&w=bg bkz tolga çevikin cem yı
 <!-- https://www.uludagsozluk.com/e/4843869/ lol
      https://www.uludagsozluk.com/e/42382381/ lol
      https://www.uludagsozluk.com/e/42381612/ lol
+https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
 -->
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
