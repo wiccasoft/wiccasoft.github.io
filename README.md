@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
 https://www.uludagsozluk.com/k/galatasaray/&w=gd bkz ne desem gg silivri soğuktur şimdi
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz ne desem gg silivri soğuktur şimdi
+https://www.givemesport.com/1519476-sergio-ramos-went-full-sergio-ramos-during-real-madrid-v-galatasaray
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
