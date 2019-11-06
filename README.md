@@ -5,7 +5,7 @@
 free as fuck since 1978 and slim shady is not my name  
 https://www.tccb.gov.tr/kabine/disisleri-bakani nick altı girmeyin sikerim
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg eywallah canım abim benden daha yakışıklı ama
-şaka lan şaka bülent arınç ben nick altı girebilirsiniz nonoşlar
+şaka lan şaka bülent arınç ben kadın olarak nick altı girebilirsiniz nonoşlar
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
