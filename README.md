@@ -9,6 +9,7 @@ bkz ibrahim talıseks uzun adam dostluğu
 bkz ülke yünetmek sert iştir koçum
 bkz ülke yönetsem amuğa goyardım la
 bkz freddi mercury hakan altun dostluğu
+https://www.uludagsozluk.com/k/real-madrid-in-siki%C5%9Fe-erken-ba%C5%9Flamas%C4%B1/ bkz oo skiş başlamış
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-freddie-mercury-dostlu%C4%9Fu/&w=bg
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz nick altı yok ner bu devlet
 bkz melüt çavışoğlanın 10 kasım için ikili görüşmelere hazırlanması
