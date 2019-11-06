@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ortadan-kaybolmas%C4
 https://www.uludagsozluk.com/k/tengir-budun-un-bilgisayar%C4%B1/ 
 https://www.givemesport.com/1519476-sergio-ramos-went-full-sergio-ramos-during-real-madrid-v-galatasaray
 https://www.uludagsozluk.com/k/real-madrid-ile-yar%C4%B1m-kalm%C4%B1%C5%9F-bir-hesab%C4%B1m%C4%B1z-var/&w=bg
-https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz ne desem gg silivri soğuktur şimdi
+https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz ne desem 6s şimdi
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
 -->
 
