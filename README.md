@@ -40,6 +40,7 @@ https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/%C3%A7irkin-y%C3%BCzl%C3%BC-g%C3%BCzel-v%C3%BCcutlu-k%C4%B1z/&w=bg bkz bülent ecevit
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz gara bıyıklı başbuğ aka garaoğlan
 https://www.uludagsozluk.com/k/banyo-sonras%C4%B1-tende-olu%C5%9Fan-pembelik/
 https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bkz link at o.ç
