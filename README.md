@@ -6,6 +6,7 @@ https://www.tccb.gov.tr/kabine/disisleri-bakani nick altı girmeyin sikerim
 ibnenin evladları salak salak adamlara entry kasıyosunuz yok götüme sokmam yok azıma almam
 https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg fazla taşşak altına dolaşmayın ezerim
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz imparator
+bkz avrupa fatihi diye yazılır fatih altaylı diye okunur
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
