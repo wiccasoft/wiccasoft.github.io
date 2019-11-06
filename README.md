@@ -2,6 +2,8 @@
 <!--seven nation army https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
+<!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
+<!-- Hayri Gülle ile 2009'a Güle Güle - 3. Bölüm https://www.youtube.com/watch?v=nQCfR4waWpI-->
 
 [![Image](smartdata/six-f1-title.png)]( https://www.youtube.com/watch?v=lpQPXoVwyv0 )
 
