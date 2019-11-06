@@ -65,7 +65,6 @@ bkz pelin çifti arayıp ya çok rahat konuşuyordun demek
 bzz eşşeğin zikini şapırdatarak yiyen kadın videosunu nasıl beynimden çıkarabilirim diye düşünmek
 https://eksisozluk.com/entry/97376883 bkz eşşeğin zikinden dolayı
 -->
-
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=o4lq3SOB8sw )
