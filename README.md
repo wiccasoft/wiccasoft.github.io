@@ -6,8 +6,8 @@ bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
-https://www.uludagsozluk.com/k/erdal-erzincan/&w=bg bkz türkü söylerken dudaklarına asılma isteği uyandırıyor
-https://www.uludagsozluk.com/k/mustafa-keser/&w=bg bkz acayip seksi bulduğum bi adam
+https://www.uludagsozluk.com/k/erdal-erzincan/&w=bg bkz dudaklarına asılmalık türkücüler
+https://www.uludagsozluk.com/k/mustafa-keser/&w=bg bkz mendil sallayışı bile seksi adamlar
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
 bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
 bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
