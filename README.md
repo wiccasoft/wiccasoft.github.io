@@ -38,6 +38,7 @@ https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 bkz kamalcıların deveci olduğu gerçeği
 bkz kamalcıları deveye bindirip yallah arabistana demek
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-kemalistlerini-ek%C5%9Fi-ye-iteliyoruz/
 https://www.uludagsozluk.com/k/dalga-ge%C3%A7e-ge%C3%A7e-kemalistleri-bitirmek/ bkz kamalcılar noldi renciniz soldii
 bkz kamalcılar deveciyse deveciler niye kamalcı değil sorunsalı
 bkz ankara büyükşehir belediyesi logosundaki masonik semboller
