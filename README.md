@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
 https://www.uludagsozluk.com/k/cemal-s%C3%BCreya/&w=bg bkz erotik şiir seven kızların vezgeçilmezi
 https://www.uludagsozluk.com/e/42383673/ bkz çok içkiliydim kankağ
-https://www.uludagsozluk.com/e/42383700/ küfürlü cinsel sekiz seven kız değil mi la bu verse ne sikerim bunu
+https://www.uludagsozluk.com/e/42383700/ küfürlü cinsel sekiz seven kız değil mi la bu verse sikmem net
 https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
 https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
 https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray zuahahhahahaha
