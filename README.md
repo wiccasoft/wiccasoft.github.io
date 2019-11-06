@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/suriyeli-kad%C4%B1nlar/&w=bg bkz hadi imamoğlu bunları da açıkla
 https://www.uludagsozluk.com/k/sevgilisine-tayt-giydiren-gavat-ruhlu-erkek/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/3-haftal%C4%B1k-vi%C5%9Fne-suyu-i%C3%A7ilir-mi/&w=gd  bkz atayızlar hadi bunu da açıklayın
