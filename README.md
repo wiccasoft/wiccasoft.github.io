@@ -36,6 +36,7 @@ https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
 bkz şirk cenneti türkiye
 bkz kayyum hayyum atayan laik ülkelerden tiksinmek
 bkz kayyum hayyum allahtır kayyum atayan kafirdir islam kafalarını kesmeyi emreder.
