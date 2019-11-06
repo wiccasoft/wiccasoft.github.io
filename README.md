@@ -31,7 +31,7 @@ https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/k/bruce-lee/&w=bg   https://www.youtube.com/watch?v=dCbxURq5Up4 
-https://www.uludagsozluk.com/e/42381785/ bkz lol https://www.youtube.com/watch?v=dCbxURq5Up4 
+https://www.uludagsozluk.com/e/42381785/ bkz lol https://www.youtube.com/watch?v=dCbxURq5Up4  asdsfsfsd olm bu ne yahu
 https://www.uludagsozluk.com/e/42381179/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
 https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
