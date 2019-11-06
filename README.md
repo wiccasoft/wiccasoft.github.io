@@ -53,10 +53,8 @@ https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bk
 https://www.uludagsozluk.com/k/anne-o-amca-neden-arap%C3%A7a-%C3%A7%C4%B1%C4%9Fl%C4%B1k-at%C4%B1yor-korkuyorum/ lol
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-orospu-%C3%A7ocuklar%C4%B1-ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1n-silinmesi/
 https://www.uludagsozluk.com/k/thy-nin-80-y%C3%B6neticisinin-kartal-ihl-mezunu-olmas%C4%B1/ boldi zorunami citti
-https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz ekremin köpek gibi rte nin ayağına gitmesi
 https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz emre morun asker selamı
 https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz allahtan korkmayan kafir
-bkz kayyum hayyum allahtır kayyum atayan kafirdir islam kafalarını kesmeyi emreder.
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayyum hayyum atayarak allaha şirk koşan kafir
 https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz kaan ayhan kim amk
 bkz hayyum kayyum allah olduğunu bile bile kayyum atayan malum belediye başkanı
