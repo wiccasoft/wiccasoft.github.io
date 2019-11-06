@@ -7,7 +7,8 @@ https://www.uludagsozluk.com/k/%C3%A7in-h%C3%BCk%C3%BCmetinin-uygur-kad%C4%B1nla
 bkz kabala tv 10 kasım videosu
 bkz babuş tv atatürk benzeyen adam videosu 
 bkz ryan babelin 10 kasım önce saçına meç yaprıtması
-bkz enes baturun 10 kasım saçını sarıya boyaması-->
+bkz enes baturun 10 kasım saçını sarıya boyaması
+https://www.uludagsozluk.com/k/tolga-%C3%A7evik/&w=bg bkz tolga çevikin cem yılmazın kayınçosu olduğu gerçeği-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
