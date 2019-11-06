@@ -6,12 +6,11 @@ https://www.uludagsozluk.com/k/menzil-tarikat%C4%B1nda-semerkand-buhara-sava%C5%
 https://www.uludagsozluk.com/k/%C3%A7in-h%C3%BCk%C3%BCmetinin-uygur-kad%C4%B1nlar%C4%B1na-tecav%C3%BCz-projesi/ lol
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
-https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
-https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var kuru kuru yiyecen aga
 bkz geceye bir ön libero bırak
+https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
+https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var ya kuru kuru yiyecen aga
 https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
-bkz eşcinsellerin genelde futbol fanatikleri olması sorunsalı
-bkz tolga çevikin fotosuna masturbasyon yarpekn babanın odaya girmesi
+bkz futbolcu bacaklarına 31 çekerkene odaya annenin girmesi
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs soyunma odası
 
 -->
