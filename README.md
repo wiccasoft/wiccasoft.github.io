@@ -1,7 +1,9 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
-<!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
+<!-- https://www.youtube.com/watch?v=XCgop5X35yw 
+free as fuck since 1978
+-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
