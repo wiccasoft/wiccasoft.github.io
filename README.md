@@ -1,5 +1,5 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
-<!--seven nation army https://www.youtube.com/watch?v=vNNqCnWP9xY -->
+<!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
