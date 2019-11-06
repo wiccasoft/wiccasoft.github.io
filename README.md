@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
+https://www.uludagsozluk.com/k/real-madrid-ile-yar%C4%B1m-kalm%C4%B1%C5%9F-bir-hesab%C4%B1m%C4%B1z-var/&w=bg
 https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz ne desem gg silivri soğuktur şimdi
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
 https://www.uludagsozluk.com/k/galatasaray/&w=gd bkz ne desem gg silivri soğuktur şimdi
