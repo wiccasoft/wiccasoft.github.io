@@ -1,48 +1,7 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
-<!-- https://www.youtube.com/watch?v=XCgop5X35yw 
-bkz kabala tv 10 kasım videosu
-bkz kızlar uyuduysa yiyişek mi beyler
-bkz babala tv 10 kasım vidyosu
-bkz ibrahim talıseks uzun adam dostluğu
-bkz ülke yünetmek sert iştir koçum
-bkz ülke yönetsem amuğa goyardım la
-bkz freddi mercury hakan altun dostluğu
-bkz readl madrid in götten girdiği gsliler
-bkz noldu acıların takımı sesniz çıkmıyo
-noldu ibneeeeeeeeeeeelerrrrrrrrrr sesiniz çıkmıyo
-https://www.uludagsozluk.com/k/futbol-izleyen-erkek-a%C4%9F%C4%B1r-krodur/&w=bg bkz hassiktir lan ibne
-https://www.uludagsozluk.com/k/6-kas%C4%B1m-2019-real-madrid-galatasaray-ma%C3%A7%C4%B1/&w=gd bkz boru gibi döşemek
-https://www.uludagsozluk.com/k/avrupa-fatihahahahaha/&w=bg zuahhahahahahaha
-https://www.uludagsozluk.com/k/avrupa-fatihahahahaha/&w=bg bkz yarramım fatihi hahahah
-https://www.uludagsozluk.com/k/real-madrid-in-siki%C5%9Fe-erken-ba%C5%9Flamas%C4%B1/ bkz oo skiş başlamış
-https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-freddie-mercury-dostlu%C4%9Fu/&w=bg
-https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz nick altı yok ner bu devlet
-bkz melüt çavışoğlanın 10 kasım için ikili görüşmelere hazırlanması
-bkz devlet yönetmek sert iştir adamım
-bkz enes baturun 10 kasım için saçını sarıya boyaması
-bkz benzema nın gs ye atacağı gole isim önerileri
-bkz o değil de falconun ligin içinde geçeceği gerçeği
-bkz beyler sabaha da çıtır erkek bırakalım kızlar uyanmadan
-bkz semerkand buhara gibi yiyişilecek erkekler listesi hazırladım
-bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
-bkz 1. mevlüt çavuşoğlan seksiliği https://www.tccb.gov.tr/kabine/disisleri-bakani bkz oyşşşşşşşşş
-bkz https://www.tccb.gov.tr/kabine/disisleri-bakani bkz pişirmeden emcüklerim bunu
-https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz oyşşşş
-https://www.uludagsozluk.com/k/bilek-g%C3%BCre%C5%9Fi-yapan-erkeklerin-daha-seksi-olmas%C4%B1/ bkz oyşşşşşş
-https://www.uludagsozluk.com/e/42381612/ bkz sevgili babel sen de biliyosun ki aşkımız burda bitmez
-bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
-bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
-https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz ryanın göte çavuş tokatlarken akla gelen adam
-https://www.uludagsozluk.com/k/erdal-erzincan/&w=bg bkz dudaklarına asılmalık türkücüler
-https://www.uludagsozluk.com/k/mustafa-keser/&w=bg bkz mendil sallayışı bile seksi adamlar
-https://www.uludagsozluk.com/k/kartal-tibet/&w=bg bkz nefes alan efsane dudakları çok seksi
-https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
-https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var ya kuru kuru yiyecen aga
-https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
-https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs soyunma odası
--->
+<!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
@@ -59,11 +18,7 @@ https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs 
 [![Image](smartdata/whistleblow.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](smartdata/seven-nation.png)]( https://www.youtube.com/watch?v=vNNqCnWP9xY )
-<!-- https://www.uludagsozluk.com/e/4843869/ lol
-     https://www.uludagsozluk.com/e/42382381/ lol
-     https://www.uludagsozluk.com/e/42381612/ lol
-https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
--->
+<!---->
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=o4lq3SOB8sw )
