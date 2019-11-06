@@ -10,6 +10,7 @@ bkz ryan babelin 10 kasım önce saçına meç yaprıtması
 bkz enes baturun 10 kasım saçını sarıya boyaması
 bkz 6 kasım hala geceye yakışıklı bırakılmaması olayı
 bkz kızlar uyuduysa yiyişek mi beyler
+bkz geceye bir ön libero bırak
 bkz tolga çevikin fotosuna masturbasyon yarpekn babanın odaya girmesi
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs soyunma odası
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-%C3%B6p%C3%BC%C5%9Fmenin-daha-estetik-olmas%C4%B1/ bkz adam haklı beyler
