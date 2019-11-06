@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
+bkz beyler sabaha da çıtır erkek bırakalım kızlar uyanmadan
 bkz semerkand buhara gibi yiyişilecek erkekler listesi hazırladım
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
 bkz 1. mevlüt çavuşoğlan seksiliği https://www.tccb.gov.tr/kabine/disisleri-bakani bkz oyşşşşşşşşş
