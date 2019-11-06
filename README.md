@@ -5,6 +5,7 @@
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz benzema nın gs ye atacağı gole isim önerileri
+bkz o değil de falconun ligin içinde geçeceği gerçeği
 bkz beyler sabaha da çıtır erkek bırakalım kızlar uyanmadan
 bkz semerkand buhara gibi yiyişilecek erkekler listesi hazırladım
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
