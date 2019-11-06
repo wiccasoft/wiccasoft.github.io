@@ -27,7 +27,7 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42377814/ 
 https://www.uludagsozluk.com/e/42379214/
-https://www.youtube.com/watch?v=dCbxURq5Up4 lol
+https://www.youtube.com/watch?v=dCbxURq5Up4 bkz bruce lee olmak isteyen çomar
 https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
 https://www.uludagsozluk.com/e/42378177/ bkz lol
