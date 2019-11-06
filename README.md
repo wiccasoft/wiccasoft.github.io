@@ -39,6 +39,7 @@ https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz emre morun asker selamı
 https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz allahtan korkmayan kafir
+bkz putinin erdoğandan korkması
 bkz şirk cenneti türkiye
 bkz kayyum hayyum atayan laik ülkelerden tiksinmek
 bkz kayyum hayyum allahtır kayyum atayan kafirdir islam kafalarını kesmeyi emreder.
