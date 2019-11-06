@@ -36,7 +36,7 @@ https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
-bkz kamalcılar devecisyse deveciler niye kamalcı değil sorunsalı
+bkz kamalcılar deveciyse deveciler niye kamalcı değil sorunsalı
 bkz ankara büyükşehir belediyesi logosundaki masonik semboller
 https://www.uludagsozluk.com/k/ak%C5%9Fama-gelece%C4%9Fim-hac%C4%B1-baroness-baban-evde-mi/ 
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-mason-olmas%C4%B1/&w=bg bkz atayızlar hadi bunu da açıklayın
