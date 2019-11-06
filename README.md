@@ -6,13 +6,13 @@ bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
+bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
+bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
+bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
 https://www.uludagsozluk.com/e/42381612/ bkz sevgili babel sen de biliyosun ki aşkımız burda bitmez
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz çavuş tokatlarken akla gelen adam
 https://www.uludagsozluk.com/k/erdal-erzincan/&w=bg bkz dudaklarına asılmalık türkücüler
 https://www.uludagsozluk.com/k/mustafa-keser/&w=bg bkz mendil sallayışı bile seksi adamlar
-bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
-bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
-bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
 https://www.uludagsozluk.com/k/kartal-tibet/&w=bg bkz nefes alan efsane dudakları çok seksi
 https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
 https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var ya kuru kuru yiyecen aga
