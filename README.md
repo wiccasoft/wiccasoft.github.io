@@ -19,7 +19,8 @@
 
 [![Image](smartdata/seven-nation.png)]( https://www.youtube.com/watch?v=vNNqCnWP9xY )
 <!-- https://www.uludagsozluk.com/e/4843869/ lol
-    https://www.uludagsozluk.com/e/42382381/ lol
+     https://www.uludagsozluk.com/e/42382381/ lol
+     https://www.uludagsozluk.com/e/42381612/ lol
 -->
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
