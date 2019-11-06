@@ -10,6 +10,7 @@ bkz ryan babelin 10 kasım önce saçına meç yaprıtması
 bkz enes baturun 10 kasım saçını sarıya boyaması
 bkz 6 kasım hala geceye yakışıklı bırakılmaması olayı
 bkz kızlar uyuduysa yiyişek mi beyler
+https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
 bkz geceye bir ön libero bırak
 https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
 bkz eşcinsellerin genelde futbol fanatikleri olması sorunsalı
