@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 free as fuck since 1978 and slim shady is not my name  
 https://www.tccb.gov.tr/kabine/disisleri-bakani nick altı girmeyin sikerim
+https://www.uludagsozluk.com/k/ahmet-altan/&w=bg eywallah canım abim benden daha yakışıklı ama
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
