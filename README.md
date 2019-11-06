@@ -36,7 +36,7 @@ https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
-bkz hayyum kayyum allah olduğunu bile bile kayyum atayan malum ülke
+bkz hayyum kayyum allah olduğunu bile bile kayyum atayan malum belediye başkanı
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-kayyum-atanmas%C4%B1-i%C3%A7in-%C3%A7abalamas%C4%B1/ bkz allaha şirk koşmak
 bkz kamalcıların deveci olduğu gerçeği
 bkz kamalcıları deveye bindirip yallah arabistana demek
