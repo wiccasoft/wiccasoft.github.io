@@ -7,6 +7,7 @@ bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
+https://www.uludagsozluk.com/k/bilek-g%C3%BCre%C5%9Fi-yapan-erkeklerin-daha-seksi-olmas%C4%B1/ bkz oyşşşşşş
 bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
 bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
 https://www.uludagsozluk.com/e/42381612/ bkz sevgili babel sen de biliyosun ki aşkımız burda bitmez
