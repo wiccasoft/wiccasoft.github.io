@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/k/real-madrid-ile-yar%C4%B1m-kalm%C4%B1%C5%9F-bir-h
 https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz ne desem 6s şimdi
 https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
 https://www.uludagsozluk.com/k/6-kas%C4%B1m-galatasaray-%C4%B1-anma-gen%C3%A7lik-ve-skor-bayram%C4%B1/&w=bg lol
+https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
