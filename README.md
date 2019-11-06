@@ -45,57 +45,17 @@ https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F-taraftar%C4%B1/&w=bg bkz vurduruyordur
-bkz erdoğana satranç tahtası fırlatan esnaf
-https://www.uludagsozluk.com/k/yazar-kasa-atan-esnaf%C4%B1n-ecevit-i-%C3%B6zlemesi/ bkz ben de özledim ben de 
-https://www.uludagsozluk.com/k/bruce-lee-nin-o%C4%9Flunun-erken-ya%C5%9Fta-gebermesi/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz uludagsözlük
-https://www.uludagsozluk.com/k/elleriyle-mevye-soyup-yediren-sevgili/&w=bg bkz bülent ecevit
-https://www.uludagsozluk.com/k/%C3%A7irkin-y%C3%BCzl%C3%BC-g%C3%BCzel-v%C3%BCcutlu-k%C4%B1z/&w=bg bkz bülent ecevit
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz başbuğ aka garaoğlan
 https://www.uludagsozluk.com/k/banyo-sonras%C4%B1-tende-olu%C5%9Fan-pembelik/
-https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bkz link at o.ç
 https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü türkiyeye sokan aka karaoğlan
-https://www.uludagsozluk.com/k/hadise-yi-be%C4%9Fenmeyen-erkek/&w=bg bkz vurduruyordur
-https://www.uludagsozluk.com/k/mehmet-barlas-%C4%B1n-%C4%B1spanak-hakk%C4%B1ndaki-yaz%C4%B1s%C4%B1/
-https://www.uludagsozluk.com/k/orospu-%C3%A7ocu%C4%9Fu-nedir-kimlere-denir/ bkz kamalcılar
-https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/ bkz noldi renciniz soldii
-https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-orospu-%C3%A7ocuklar%C4%B1/ bkz kamalcı o.ç ler
-https://www.uludagsozluk.com/k/sovyetler-birli%C4%9Fine-kat%C4%B1lal%C4%B1m-kampanyas%C4%B1/ lol
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-i%C5%9Fsizlik-yok-tembellik-var/&w=bg lol
-https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bkz 10 sn de emeğine aktım kardeş
-https://www.uludagsozluk.com/k/anne-o-amca-neden-arap%C3%A7a-%C3%A7%C4%B1%C4%9Fl%C4%B1k-at%C4%B1yor-korkuyorum/ lol
-https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-orospu-%C3%A7ocuklar%C4%B1-ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1n-silinmesi/
-https://www.uludagsozluk.com/k/thy-nin-80-y%C3%B6neticisinin-kartal-ihl-mezunu-olmas%C4%B1/ boldi zorunami citti
-https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz emre morun asker selamı
-https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz allahtan korkmayan kafir
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayyum hayyum atayarak allaha şirk koşan kafir
 https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz kaan ayhan kim amk
-bkz hayyum kayyum allah olduğunu bile bile kayyum atayan malum belediye başkanı
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-kayyum-atanmas%C4%B1-i%C3%A7in-%C3%A7abalamas%C4%B1/ bkz allaha şirk koşmak
 bkz kamalcıların deveci olduğu gerçeği
 bkz kamalcıları deveye bindirip yallah arabistana demek
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-kemalistlerini-ek%C5%9Fi-ye-iteliyoruz/
 https://www.uludagsozluk.com/k/dalga-ge%C3%A7e-ge%C3%A7e-kemalistleri-bitirmek/ bkz kamalcılar noldi renciniz soldii
 bkz kamalcılar deveciyse deveciler niye kamalcı değil sorunsalı
-bkz ankara büyükşehir belediyesi logosundaki masonik semboller
-https://www.uludagsozluk.com/k/ak%C5%9Fama-gelece%C4%9Fim-hac%C4%B1-baroness-baban-evde-mi/ 
-https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-mason-olmas%C4%B1/&w=bg bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/k/bu-yahudiler-ne-yap%C4%B1yor/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lar-b%C3%BCt%C3%BCn-g%C3%BCn-evde-ne-yap%C4%B1yor-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/kemalist-g%C3%B6r%C3%BCnce-gelen-g%C3%BClme-iste%C4%9Fi/&w=bg
-https://www.uludagsozluk.com/k/suriyeli-kad%C4%B1nlar/&w=bg bkz hadi imamoğlu bunları da açıkla
-https://www.uludagsozluk.com/k/sevgilisine-tayt-giydiren-gavat-ruhlu-erkek/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/3-haftal%C4%B1k-vi%C5%9Fne-suyu-i%C3%A7ilir-mi/&w=gd  bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/marilyn-manson-kendi-a%C4%9Fz%C4%B1na-veriyormu%C5%9F/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/190-cm-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-kasl%C4%B1-ye%C5%9Fil-g%C3%B6zl%C3%BC-zeki-erkek/
-https://www.uludagsozluk.com/k/yavrum-diyen-erkek-%C3%A7ekicili%C4%9Fi/  bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42376753/ abi bu nedir yahu döve döve siker bu sizi
-https://www.uludagsozluk.com/k/erken-yat%C4%B1p-erken-kalk%C4%B1p-evde-oturan-i%C5%9Fsiz/ bkz disipline hayranım
-https://www.uludagsozluk.com/k/sinan-o%C4%9Fan-24-mart-2022-y%C4%B1l%C4%B1nda-vefat-edecek/ bkz hadi bakalım inşallah
-https://www.uludagsozluk.com/k/laz-m%C3%BCteahhit/&w=bg bkz gardaşım köz getir seri
 https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
 https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
 https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
@@ -107,20 +67,6 @@ https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9
 https://www.uludagsozluk.com/e/42376904/ bkz karı on numaraymış gardaşım aktım yine emeğe
 bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/entry/39421205 
-https://eksisozluk.com/beyefendiye-kari-gonderelim--4178844 hadi koçlarım bulun be bi karı
-https://eksisozluk.com/sozluk-bana-kari-bul-lan-allahsiz--579897 bkz bir rica temennisi
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz hani olm erdoğan yok burada
-https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak-%C4%B1n-hapisten-%C3%A7%C4%B1k%C4%B1nca-ilk-yaz%C4%B1s%C4%B1/
-https://eksisozluk.com/5-kasim-2019-mtvye-yuzde-22-zam-gelmesi--6236896?a=popular bkz erdoğanın doğru kararları
-bkz şaka maka erdoğanın doğru kararlar almaya başlaması yürüyeceksin millet yürüyecek arkandan
-https://www.uludagsozluk.com/e/42374639/ bkz sal gitsin dönerse senindir dönmezse hiç sevmemiştir
-bkz sabaha bir ekrem şeklinde gülen surat bırak 
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-i%C5%9Fini-yap-ahmak-demesi/ 
-İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw 
-https://www.uludagsozluk.com/k/tiamatla-aram%C4%B1zdaki-cinsel-gerilim/
-bkz pelin çifti arayıp ya çok rahat konuşuyordun demek
-bzz eşşeğin zikini şapırdatarak yiyen kadın videosunu nasıl beynimden çıkarabilirim diye düşünmek
-https://eksisozluk.com/entry/97376883 bkz eşşeğin zikinden dolayı
 -->
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
