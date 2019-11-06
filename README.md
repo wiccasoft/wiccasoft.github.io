@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
+https://www.uludagsozluk.com/e/42383436/ bkz hadi kıvırma gay pornoları silmiş ayak yapıyosun
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCm%C3%BCz%C3%BC-y%C4%B1karken-hangi-parmaklar-kullan%C4%B1l%C4%B1r/ bkz darkweb
 https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz açmayın
 ,https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/&w=bg bkz açmayın korkunçlu karı ben açtım pişmanım
