@@ -11,6 +11,7 @@ bkz eşide fathi terime girlin ilgniç entry
 bkz fatih altaylının emre belezoğluna cevabı
 bkz avrupafahahahahahhaha nıahhahahahahhahah
 bkz maç izlerken azından tükürükler saçarak konuşan garip yaratıklar
+bkz devre arasında dan sonra cinconun yiyeceği 3 gol
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
