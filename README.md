@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
-https://www.uludagsozluk.com/e/42383700/ küfürlü sekiz seven kız değil la bu
+https://www.uludagsozluk.com/e/42383700/ küfürlü cinsel sekiz seven kız değil la bu
 https://www.uludagsozluk.com/e/42383673/ bkz çok içkiliydim kankağ
 https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
 https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
