@@ -40,6 +40,7 @@ https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayı
 bkz trumpın rte den it gibi korktuğu gerçeği
 bkz putinin erdogana asker selamı yapıp vurma abi demesi
 bkz rte nin ali koçun kulağını çekip kuran oku lan demesi
+https://www.uludagsozluk.com/k/thy-nin-80-y%C3%B6neticisinin-kartal-ihl-mezunu-olmas%C4%B1/ boldi zorunami citti
 https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz ekremin köpek gibi rte nin ayağına gitmesi
 https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz emre morun asker selamı
 https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz allahtan korkmayan kafir
