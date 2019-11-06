@@ -6,6 +6,7 @@ bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
+https://www.uludagsozluk.com/e/42381612/ bkz sevgili babel sen de biliyosun ki aşkımız burda bitmez
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz çavuş tokatlarken akla gelen adam
 https://www.uludagsozluk.com/k/erdal-erzincan/&w=bg bkz dudaklarına asılmalık türkücüler
 https://www.uludagsozluk.com/k/mustafa-keser/&w=bg bkz mendil sallayışı bile seksi adamlar
