@@ -41,6 +41,7 @@ bkz şirk cenneti türkiye
 bkz kayyum hayyum atayan laik ülkelerden tiksinmek
 bkz kayyum hayyum allahtır kayyum atayan kafirdir islam kafalarını kesmeyi emreder.
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayyum hayyum atayarak allaha şirk koşan kafir
+https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz kaan ayhan kim amk
 bkz hayyum kayyum allah olduğunu bile bile kayyum atayan malum belediye başkanı
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-kayyum-atanmas%C4%B1-i%C3%A7in-%C3%A7abalamas%C4%B1/ bkz allaha şirk koşmak
 bkz kamalcıların deveci olduğu gerçeği
