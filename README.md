@@ -30,7 +30,6 @@ https://www.uludagsozluk.com/e/42379214/
 https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
 https://www.uludagsozluk.com/e/42378177/ bkz lol
-bkz vuruşmaktan korkan erkek
 https://www.uludagsozluk.com/e/42381785/ bkz lol https://www.youtube.com/watch?v=dCbxURq5Up4 
 https://www.uludagsozluk.com/e/42381179/ bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
