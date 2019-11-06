@@ -10,6 +10,7 @@ bkz ülke yünetmek sert iştir koçum
 bkz ülke yönetsem amuğa goyardım la
 bkz freddi mercury hakan altun dostluğu
 bkz readl madrid in götten girdiği gsliler
+https://www.uludagsozluk.com/k/avrupa-fatihahahahaha/&w=bg zuahhahahahahaha
 https://www.uludagsozluk.com/k/avrupa-fatihahahahaha/&w=bg bkz yarramım fatihi hahahah
 https://www.uludagsozluk.com/k/real-madrid-in-siki%C5%9Fe-erken-ba%C5%9Flamas%C4%B1/ bkz oo skiş başlamış
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-freddie-mercury-dostlu%C4%9Fu/&w=bg
