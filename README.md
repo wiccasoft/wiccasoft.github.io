@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
 https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
 https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz avrupa fatihhi imparator
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ortadan-kaybolmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/tengir-budun-un-bilgisayar%C4%B1/ 
 https://www.givemesport.com/1519476-sergio-ramos-went-full-sergio-ramos-during-real-madrid-v-galatasaray
