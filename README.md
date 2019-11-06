@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
-https://www.uludagsozluk.com/k/benzema-n%C4%B1n-galatasaray-a-att%C4%B1%C4%9F%C4%B1-alt%C4%B1nc%C4%B1-gol/
+bkz benzema nın gs ye atacağı gole isim önerileri
 bkz beyler sabaha da çıtır erkek bırakalım kızlar uyanmadan
 bkz semerkand buhara gibi yiyişilecek erkekler listesi hazırladım
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
