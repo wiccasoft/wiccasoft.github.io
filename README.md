@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 free as fuck since 1978 and slim shady is not my name  
 https://www.tccb.gov.tr/kabine/disisleri-bakani nick altı girmeyin sikerim
+ibnenin evladları lo
 https://www.uludagsozluk.com/e/42382884/ bkz öyk kusacam ayol lan ibne sen git aynaya bak önce göte girebilir yazmış bitanesi
 şaka lan şaka bülent arınç ben kadın olarak nick altı girebilirsiniz nonoşlar
 https://www.uludagsozluk.com/k/hakan-23-cm/&w=bg fazla taşşak altına dolaşmayın ezerim
