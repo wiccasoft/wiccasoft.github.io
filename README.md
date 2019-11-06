@@ -18,56 +18,7 @@
 [![Image](smartdata/whistleblow.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](smartdata/seven-nation.png)]( https://www.youtube.com/watch?v=vNNqCnWP9xY )
-
-<!--https://www.youtube.com/watch?v=o4lq3SOB8sw hitler's autoghraph https://www.youtube.com/watch?v=35YJScJRNJY
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ lol https://www.youtube.com/watch?v=zEvF-2-0LWk
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Fluna-oy-verdiler-diye-yurt-y%C4%B1kmak/ 
-https://www.uludagsozluk.com/e/42368624/ 
-https://www.uludagsozluk.com/e/42370389/ 
-https://www.uludagsozluk.com/e/42374031/ 
-https://www.uludagsozluk.com/e/42375179/
-https://www.uludagsozluk.com/e/42377814/ 
-https://www.uludagsozluk.com/e/42379214/
-https://www.uludagsozluk.com/e/42381124/ lol
-https://www.uludagsozluk.com/e/42376855/ lol 
-https://www.uludagsozluk.com/e/42381852/ bkz https://www.youtube.com/watch?v=EEjI0A9iMow
-https://www.uludagsozluk.com/e/42378177/ bkz lol
-https://www.uludagsozluk.com/k/bruce-lee/&w=bg   https://www.youtube.com/watch?v=dCbxURq5Up4 
-https://www.uludagsozluk.com/e/42381785/ bkz lol https://www.youtube.com/watch?v=dCbxURq5Up4  asdsfsfsd 
-https://www.uludagsozluk.com/e/42381179/ bkz yine duşa soktun kardeş
-https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
-https://www.uludagsozluk.com/e/42376249/ bkz alo nagehan ihbar hattı
-https://www.uludagsozluk.com/e/42372627/ bkz akp nin ezan sesini daha da açmasıyla sonuçlanacak eylem
-https://www.uludagsozluk.com/e/42375423/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42378123/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42378319/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz uludagsözlük
-https://www.uludagsozluk.com/k/banyo-sonras%C4%B1-tende-olu%C5%9Fan-pembelik/
-https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayyum hayyum atayarak allaha şirk koşan kafir
-https://www.uludagsozluk.com/k/kaan-ayhan-%C4%B1n-asker-selam%C4%B1-vermemesi/&w=bg bkz kaan ayhan kim amk
-bkz kamalcıların deveci olduğu gerçeği
-bkz kamalcıları deveye bindirip yallah arabistana demek
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-kemalistlerini-ek%C5%9Fi-ye-iteliyoruz/
-https://www.uludagsozluk.com/k/dalga-ge%C3%A7e-ge%C3%A7e-kemalistleri-bitirmek/ bkz kamalcılar noldi renciniz soldii
-bkz kamalcılar deveciyse deveciler niye kamalcı değil sorunsalı
-https://www.uludagsozluk.com/k/bu-yahudiler-ne-yap%C4%B1yor/ bkz atayızlar hadi bunu da açıklayın
-https://www.uludagsozluk.com/k/remember-remember-the-5th-of-november/&w=bg bkz hatırlatma oç
-https://eksisozluk.com/30-yasinda-ailesiyle-birlikte-yasayan-erkek--4045647?a=popular bkz 30 yaşında pes atan erkek
-https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz yaş kaç evlat
-bkz atayızlar hadi bunu da açıklayın https://www.youtube.com/watch?v=4Fn84I34azs
-https://www.uludagsozluk.com/k/yalan-s%C3%B6ylemeyen-erkek/&w=bg bkz 10 dk da emeğe akan kardeş
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz fetöyü amerika eliyle türkiyeye sokan aka garaoğlan
-bkz ikinci günün şafağında türkiyeyi çözmek
-https://www.uludagsozluk.com/k/fatih-altayl%C4%B1-n%C4%B1n-emre-bel%C3%B6zo%C4%9Flu-yorumu/ bkz fuck your life man
-https://www.uludagsozluk.com/e/42376904/ bkz karı on numaraymış gardaşım aktım yine emeğe
-bkz 10dk da emeğine aktım sağol kardeş https://eksisozluk.com/entry/25099503
-https://eksisozluk.com/entry/39421205 
--->
+<!-- -->
 [![Image](smartdata/xinhua.png)]( https://www.youtube.com/watch?v=sQ_4m2ocxhI )
 
 [![Image](smartdata/istanbul.png)]( https://www.youtube.com/watch?v=o4lq3SOB8sw )
