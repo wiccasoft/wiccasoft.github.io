@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
 https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
 https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
+https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray zuahahhahahaha
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-g%C3%BCzelliklerini-erkeklerle-payla%C5%9Fan-herif/ bkz vurduruyor.
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz fenerli kudurtan avrupa fatihi imparator
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ortadan-kaybolmas%C4%B1/ lol
