@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
-bkz kamuflaj türbanlı gelinlik giyen yaratığın kabus olma ihtimali
+bkz türbanlı kamuflaj gelinlik giyen yaratığın kabus olma ihtimali
 https://www.uludagsozluk.com/k/kuteybe-ye-yenilen-t%C3%BCrkler/&w=bg bkz kamuflaj gelinlik giyen yaratık
 bkz kamuflaj gelinlik giyen korkunç yaratığın görüntüsünü beynimden nasıl silebilrim diye kara kara düşünmek
 https://www.uludagsozluk.com/e/42383436/ bkz hadi kıvırma gay pornoları silmiş ayak yapıyosun
