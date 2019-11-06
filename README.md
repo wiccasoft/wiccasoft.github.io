@@ -37,6 +37,7 @@ https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
+bkz trumpın rte den it gibi korktuğu gerçeği
 bkz putinin erdogana asker selamı yapıp vurma abi demesi
 bkz rte nin ali koçun kulağını çekip kuran oku lan demesi
 https://www.uludagsozluk.com/k/ekremin-rte-den-%C3%A7ok-korkmas%C4%B1/ bkz ekremin köpek gibi rte nin ayağına gitmesi
