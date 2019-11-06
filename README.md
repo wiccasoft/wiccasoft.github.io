@@ -4,10 +4,10 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
-ananızın amına sokayım daha uludaga girmem açacağınız başlıklara sokayım orospu çocukları 
 bkz türbanlı kamuflaj gelinlik giyen yaratığın kabus olma ihtimali
 https://www.uludagsozluk.com/k/kuteybe-ye-yenilen-t%C3%BCrkler/&w=bg bkz kamuflaj gelinlik giyen yaratık
 bkz kamuflaj gelinlik giyen korkunç yaratığın görüntüsünü beynimden nasıl silebilrim diye kara kara düşünmek
+ananızın amına sokayım açacağınız başlıklara sokayım orospu çocukları 
 https://www.uludagsozluk.com/e/42383436/ bkz hadi kıvırma gay pornoları silmiş ayak yapıyosun
 https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz açmayın
 https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/&w=bg bkz açmayın korkunçlu karı ben açtım pişmanım
