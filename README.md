@@ -48,6 +48,7 @@ bkz babala tv 10 kasım vidousunu hazırolda izleyen kamalcılar
 bkz kamalcıların en iyi yağtığı işin futbol tartışmak olduğu gerçeği
 bkz veli ağbabanın soktuğu kıza laf edemeyen kamalcılar
 bkz afganistandan ithal edilen çobanlara sesi çıkmayan kamalcılar
+https://www.uludagsozluk.com/k/banyo-sonras%C4%B1-tende-olu%C5%9Fan-pembelik/
 https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bkz link at o.ç
 https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
 https://www.uludagsozluk.com/k/mehmet-barlas-%C4%B1n-%C4%B1spanak-hakk%C4%B1ndaki-yaz%C4%B1s%C4%B1/
