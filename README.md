@@ -12,6 +12,7 @@ bkz fatih altaylının emre belezoğluna cevabı
 bkz avrupafahahahahahhaha nıahhahahahahhahah
 bkz maç izlerken azından tükürükler saçarak konuşan garip yaratıklar
 bkz devre arasında dan sonra cinconun yiyeceği 3 gol
+https://www.uludagsozluk.com/e/42382996/ bkz hayallerde yaşıyor bazı ibneler
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
