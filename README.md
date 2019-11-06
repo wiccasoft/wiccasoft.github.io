@@ -26,6 +26,7 @@ https://www.uludagsozluk.com/e/42374031/
 https://www.uludagsozluk.com/e/42375179/
 https://www.uludagsozluk.com/e/42377814/ 
 https://www.uludagsozluk.com/e/42379214/
+https://www.uludagsozluk.com/e/42381124/ lol
 https://www.uludagsozluk.com/e/42376855/ lol 
 https://www.uludagsozluk.com/e/42378177/ bkz lol
 https://www.uludagsozluk.com/e/42378283/ bkz 10 snde emeğine aktım kardeş
