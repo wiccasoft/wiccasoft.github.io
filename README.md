@@ -8,7 +8,7 @@ bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
 bkz mevlüt çavuşoğlan seksiliği https://www.tccb.gov.tr/kabine/disisleri-bakani bk oyşşşşşşşşş
-bkz https://www.tccb.gov.tr/kabine/disisleri-bakani bk oyşşşşşşş diri diri yenri bu
+bkz https://www.tccb.gov.tr/kabine/disisleri-bakani oyşşşşşşş diri diri yenir bu pişirmeden emcüklerim bunu
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz oyşşşş
 https://www.uludagsozluk.com/k/bilek-g%C3%BCre%C5%9Fi-yapan-erkeklerin-daha-seksi-olmas%C4%B1/ bkz oyşşşşşş
 bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
