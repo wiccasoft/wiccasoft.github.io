@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
+ananızın amına sokayım daha uludaga girmem açacağını başlıklara sokayım orospu çocukları
 bkz türbanlı kamuflaj gelinlik giyen yaratığın kabus olma ihtimali
 https://www.uludagsozluk.com/k/kuteybe-ye-yenilen-t%C3%BCrkler/&w=bg bkz kamuflaj gelinlik giyen yaratık
 bkz kamuflaj gelinlik giyen korkunç yaratığın görüntüsünü beynimden nasıl silebilrim diye kara kara düşünmek
