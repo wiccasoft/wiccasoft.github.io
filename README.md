@@ -43,6 +43,7 @@ bkz rte nin ali koçun kulağını çekip kuran oku lan demesi
 bkz babala tv 10 kasım videosunun silinmemesi
 bkz kamalcıları koruma kanunu kaldırılsın kampanyası
 bkz babala tv 10 kasım vidousunu hazırolda izleyen kamalcılar
+https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/ bkz noldi renciniz soldii
 https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-orospu-%C3%A7ocuklar%C4%B1/ bkz kamalcı o.ç ler
 https://www.uludagsozluk.com/k/sovyetler-birli%C4%9Fine-kat%C4%B1lal%C4%B1m-kampanyas%C4%B1/ lol
