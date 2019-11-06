@@ -6,6 +6,7 @@ bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz geceye bir ön libero bırak
 bkz semerkand buhara gibi yiyişilecek erkekler
+bkz semhand buahara nın yiyişmesi
 bkz geceye karizma erkek atıyoruz beyler ortaklaşa yeriz
 bkz o değil de beyler belhandayla pes atıp götünü parmaklamak vardı şimdi
 bkz o değil de beyler ozan tufan ın götü ne öyle be fenerbahçenin başarılarından büyük
