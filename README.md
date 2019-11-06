@@ -20,9 +20,7 @@ https://www.uludagsozluk.com/k/kartal-tibet/&w=bg bkz nefes alan efsane dudaklar
 https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
 https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var ya kuru kuru yiyecen aga
 https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
-bkz futbolcu bacaklarına 31 çekerkene odaya annenin girmesi
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs soyunma odası
-
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
