@@ -40,6 +40,7 @@ https://www.uludagsozluk.com/e/42378722/ bkz atayızlar hadi bunu da açıklayı
 https://www.uludagsozluk.com/e/42380303/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42380190/ bkz atayızlar hadi bunu da açıklayın
 https://www.uludagsozluk.com/e/42379596/ bkz atayızlar hadi bunu da açıklayın
+https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg bkz clintona köpeklik yapan adam
 https://www.uludagsozluk.com/k/banyo-sonras%C4%B1-tende-olu%C5%9Fan-pembelik/
 https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-tutkuyla-sevi%C5%9Fmesi/&w=bg bkz link at o.ç
 https://www.uludagsozluk.com/k/kas%C4%B1mda-siki%C5%9F-ba%C5%9Fkad%C4%B1r/
