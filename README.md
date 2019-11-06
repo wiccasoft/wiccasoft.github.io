@@ -6,6 +6,7 @@ bkz kabala tv 10 kasım videosu
 bkz kızlar uyuduysa yiyişek mi beyler
 bkz babala tv 10 kasım vidyosu
 bkz ibrahim talıseks uzun adam dostluğu
+bkz ülke yünetmek sert iştir koçum
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-freddie-mercury-dostlu%C4%9Fu/&w=bg
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu/ bkz nick altı yok ner bu devlet
 bkz melüt çavışoğlanın 10 kasım için ikili görüşmelere hazırlanması
