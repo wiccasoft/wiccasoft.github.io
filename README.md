@@ -5,19 +5,16 @@
 https://www.uludagsozluk.com/k/menzil-tarikat%C4%B1nda-semerkand-buhara-sava%C5%9F%C4%B1/ lol 
 https://www.uludagsozluk.com/k/%C3%A7in-h%C3%BCk%C3%BCmetinin-uygur-kad%C4%B1nlar%C4%B1na-tecav%C3%BCz-projesi/ lol
 bkz kabala tv 10 kasım videosu
-bkz babuş tv atatürk benzeyen adam videosu 
-bkz ryan babelin 10 kasım önce saçına meç yaprıtması
-bkz enes baturun 10 kasım saçını sarıya boyaması
-bkz 6 kasım hala geceye yakışıklı bırakılmaması olayı
 bkz kızlar uyuduysa yiyişek mi beyler
 https://www.uludagsozluk.com/e/42382512/ bkz ulan ne yiyişirdim şunla he
+https://www.uludagsozluk.com/e/42382472/ bkz oyş bunu var kuru kuru yiyecen aga
 bkz geceye bir ön libero bırak
 https://judas.uludagsozluk.com/ bkz geceye sapık bir eşcinsel bırak
 bkz eşcinsellerin genelde futbol fanatikleri olması sorunsalı
 bkz tolga çevikin fotosuna masturbasyon yarpekn babanın odaya girmesi
 https://www.uludagsozluk.com/k/%C3%A7orap-kokulu-%C3%A7omar-ortam%C4%B1/ bkz gs soyunma odası
-https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-%C3%B6p%C3%BC%C5%9Fmenin-daha-estetik-olmas%C4%B1/ bkz adam haklı beyler
-https://www.uludagsozluk.com/k/tolga-%C3%A7evik/&w=bg bkz tolga çevikin cem yılmazın kayınçosu olduğu gerçeği-->
+
+-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
