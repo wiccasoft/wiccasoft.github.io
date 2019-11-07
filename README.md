@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz ferronun norm endere döşedi�
 bkz ben ferronun norm enderden seksi olduğu gerçeği
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=gd ben ferro demet akalın
 bkz ekşideki ilginç abdullah avcı entrysi
-bkz nagehanın nazlı ılcıak'a boru gibi döşediği yayın
+bkz nagehanın feödcü nazlı ılıcak'a boru gibi döşediği yayın
 bkz nazlı ılıcak gelince it gibi korkan gsliler
 bkz nazlı ılıcak ın salınmasına ses etmeyen agebeliler
 bkz nazlı ılıcakın fetöyü özledim paylaşımına ses etmeyen högümed
