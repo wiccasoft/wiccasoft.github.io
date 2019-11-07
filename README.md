@@ -9,7 +9,7 @@
 https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
-bkz ulucuların ekşicilerden daha zeki olduğu gerçeği
+bkz ulucuların ekşicilerden kat kat daha zeki olduğu gerçeği
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/ bkz rus mafyasının siklemediği versus
 https://www.uludagsozluk.com/k/%C3%A7in-in-6g-haz%C4%B1rl%C4%B1klar%C4%B1na-ba%C5%9Flamas%C4%B1/ 
