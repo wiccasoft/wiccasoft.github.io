@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/e/42387347/ bkz tengir budun
 https://www.uludagsozluk.com/e/42387422/ bkz yts.ag nin zenginden alıp fakirlere vermesi
+https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz sağol canım övdüm de geldim
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
