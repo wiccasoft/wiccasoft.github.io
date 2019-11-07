@@ -13,7 +13,7 @@ bkz ekşideki ilginç abdullah avcı entrysi
 bkz nazlı ılıcak çıkınca it gibi korkan gsliler
 bkz nazlı ılıcak ın salınmasına ses etmeyen agebeliler
 bkz nazlı ılıcakın fetöyü özledim paylaşımına ses etmeyen högümed
-bkz ekşide küpe takan erkeğe vurduyordur yazan yazar
+bkz ekşide küpe takan erkeğe vurduyordur yazan yazarın nazlı ılıcakın akrabası çıkması
 bkz nazlı ılıcakın yalısında resim yapması
 bkz nazlı ılıcak ın asya banktan hisse almasına ses etmeyen cehapeliler
 bkz nazlı ılıcakın 28 şubat kararlarına ses çıkarmaması
