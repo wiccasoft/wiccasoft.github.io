@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
+https://www.uludagsozluk.com/e/42383664/ eywallah karşim
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z/&w=bg bkz kamuflaj gelinlik giyen yaratık
 https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray hahahahhahahaha
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-6-0-ezikli%C4%9Fi/&w=bg bkz kadir ezildi
