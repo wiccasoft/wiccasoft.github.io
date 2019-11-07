@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
+[![Image](smartdata/cradlestone.png)]( https://www.youtube.com/watch?v=GneeW4Wszw0 )
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol
