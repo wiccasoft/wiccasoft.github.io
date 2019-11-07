@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=gd ben ferro de
 bkz ekşideki ilginç abdullah avcı entrysi
 bkz küper takan erkek adam mıdrı sorunsalı
 bkz nazlı ılıcak ılık mı sorunsalı
-bkz nazlı ılıcakın fetöyü özledim paylaşımı
+bkz nazlı ılıcakın fetöyü özledim paylaşımına ses etmeyen högümed
 bkz ekşide küpe takan erkeğe vurduyordur yazan yazar
 bkz nazlı ılıcakın yalısında resim yapması
 bkz nazlı ılıcak ın asya banktan hisse almasına ses etmeyen cehapeliler
