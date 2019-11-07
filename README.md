@@ -11,7 +11,6 @@ https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ lol
-https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-p%C4%B1nar%C4%B1-harekat%C4%B1nda-kand%C4%B1r%C4%B1lmam%C4%B1z/ bkz günaydın
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
 https://eksisozluk.com/youtubeun-reklam-olayini-iyice-abartmasi--5124362?a=popular (bkz: if it's free you are the product)
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/ bkz rus mafyasının siklemediği versus
