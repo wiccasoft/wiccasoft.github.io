@@ -10,38 +10,6 @@ https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
-https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz gangam burakın yeri
-https://www.uludagsozluk.com/k/meslekta%C5%9Fla-evlenmek/&w=bg bkz midyeci ahmetle evlenmek
-https://www.uludagsozluk.com/k/kedi-fotolar%C4%B1yla-k%C4%B1z-d%C3%BC%C5%9F%C3%BCrmeye-%C3%A7al%C4%B1%C5%9Fan-erkek/
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ve-kasl%C4%B1-bir-erkekle-du%C5%9F-almak/ bkz yine duşa soktun
-https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ bkz seks kokan hareketler bunlar
-https://www.uludagsozluk.com/k/solucana-hallenen-medeni-insan/ bkz dumb and dumber
-https://www.uludagsozluk.com/k/evinin-banyosuna-gizli-kamera-koyan-evli-adam/ bkz içeriye girdiğimde duş alıyordu
-https://www.uludagsozluk.com/k/evinin-banyosuna-gizli-kamera-koyan-evli-adam/ bkz bolulu rıfat usta
-https://www.uludagsozluk.com/k/eser-miktarda-gluten-i%C3%A7eren-g%C4%B1dalar/  lol
-https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ bkz rıfata hallenenecek kadar düşmek
-https://www.uludagsozluk.com/k/7-kas%C4%B1m-2019-sporting-braga-be%C5%9Fikta%C5%9F-ma%C3%A7%C4%B1/ lol
-https://www.uludagsozluk.com/k/t%C3%BCrk-polisindeki-alemlerin-rabbi-benim-tribi/ lol 
-https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sağol canım övdüm de geldim
-https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz gangam burak
-https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ bkz hasiktir be rıfat abi
-https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
-https://eksisozluk.com/youtubeun-reklam-olayini-iyice-abartmasi--5124362?a=popular (bkz: if it's free you are the product)
-https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/ bkz rus mafyasının siklemediği versus
-https://www.uludagsozluk.com/k/%C3%A7in-in-6g-haz%C4%B1rl%C4%B1klar%C4%B1na-ba%C5%9Flamas%C4%B1/ 
-https://www.uludagsozluk.com/k/6alatasaray/&w=bg bkz altı saray üstü madrid
-https://www.uludagsozluk.com/k/ey%C5%9Fan-%C4%B1n-babas%C4%B1/&w=bg bkz lol
-https://www.uludagsozluk.com/k/%C3%BCmit-erdim/&w=bg bkz ermeyi ümit eden adam
-bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
-https://www.uludagsozluk.com/k/feridun-d%C3%BCza%C4%9Fa%C3%A7/&w=bg bkz düz adam saminin duysal versiyonu
-https://www.uludagsozluk.com/k/milliyet%C3%A7ilerin-bir-sike-yaramamas%C4%B1/&w=gd bkz adam haklı beyler
-https://www.uludagsozluk.com/k/atat%C3%BCrke-benzeyen-adam/&w=bg bkz binali yıldırma benzeyen adama halkın ilgisi 
-https://www.uludagsozluk.com/k/babac%C4%B1m-neden-sen-de%C4%9Filde-annem-t%C3%BCrban-tak%C4%B1yor/ bkz bilal sen misin
-bkz ya tayyip erdoğan gitmesse sorunsalı
-bkz tayyip erdogan giderse ülkeyi saklıyoruz beyler
-bkz şaka maka fatih terimin istifa etmemesi sorunsalı
-bkz şaka maka gs ile dalga geçerken 7 kasımın gelmesi sorunsalı
-bkz fatih te 6 üstü madrid 
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
