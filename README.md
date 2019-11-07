@@ -6,6 +6,7 @@
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol
+https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
