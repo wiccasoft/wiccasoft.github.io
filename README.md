@@ -1,37 +1,8 @@
 <!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
-<!-- https://www.youtube.com/watch?v=XCgop5X35yw 
-https://www.uludagsozluk.com/e/42338663/ lol
-https://www.uludagsozluk.com/e/42381632/ lol
-https://www.uludagsozluk.com/e/42383664/ eywallah karşim un dos tre ale ale ale
-https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-annesi-olmas%C4%B1/ bkz verse sikmezmisin pampa
-https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z/&w=bg bkz kamuflaj gelinlik giyen yaratık
-https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray hahahahhahahaha
-https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-6-0-ezikli%C4%9Fi/&w=bg bkz kadir ezildi
-https://www.uludagsozluk.com/k/kadir-ezildi/&w=bg ben de sevmiyorum irrite edici evlenilmez bence de
-https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/ açmayın korkunçlu karı
-bkz türbanlı kamuflaj gelinlik giyen yaratığın kabus olma ihtimali
-https://www.uludagsozluk.com/k/kuteybe-ye-yenilen-t%C3%BCrkler/&w=bg bkz kamuflaj gelinlik giyen yaratık
-https://www.uludagsozluk.com/e/42383436/ bkz hadi kıvırma gay pornoları silmiş ayak yapıyosun
-https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz açmayın
-https://www.uludagsozluk.com/k/kamuflaj-gelinlik-giyen-gelin/&w=bg bkz açmayın korkunçlu karı ben açtım pişmanım
-https://www.uludagsozluk.com/k/cemal-s%C3%BCreya/&w=bg bkz erotik şiir seven kızların vezgeçilmezi
-https://www.uludagsozluk.com/e/42383673/ bkz çok içkiliydim kankağ
-https://www.uludagsozluk.com/e/42383700/ küfürlü cinsel sekiz seven kız değil mi la bu verse sikmem net
-https://www.uludagsozluk.com/e/42381612/ yok be abi ne tiye alması tek eğlencemiz altısaray
-https://www.uludagsozluk.com/k/madrid-de-6-6-6-sesleri/
-https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray zuahahhahahaha
-https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-ortadan-kaybolmas%C4%B1/ lol
-https://www.uludagsozluk.com/k/tengir-budun-un-bilgisayar%C4%B1/ 
-https://www.givemesport.com/1519476-sergio-ramos-went-full-sergio-ramos-during-real-madrid-v-galatasaray
-https://www.uludagsozluk.com/k/real-madrid-ile-yar%C4%B1m-kalm%C4%B1%C5%9F-bir-hesab%C4%B1m%C4%B1z-var/&w=bg
-https://www.uludagsozluk.com/k/15-dakikada-3-gol-yiyen-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz ne desem 6s şimdi
-https://www.uludagsozluk.com/k/galatasaray-%C4%B1-t%C3%BCrk-hakemlerine-emanet-ediniz/
-https://www.uludagsozluk.com/k/6-kas%C4%B1m-galatasaray-%C4%B1-anma-gen%C3%A7lik-ve-skor-bayram%C4%B1/&w=bg lol
-https://www.uludagsozluk.com/k/erkekler-aras%C4%B1ndaki-penis-rekabeti/ bkz ama benim adım elvan dalton
-https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-anas%C4%B1-olmas%C4%B1/ bkz verse sikmez misin pampa
--->
+<!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
+[![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
