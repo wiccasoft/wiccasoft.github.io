@@ -9,7 +9,7 @@
 https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
-bkz manuş baba ya aşık olmak
+bkz pipiyi kestirip kendinden 20 yaş büyük bi enayi bulup metres hayatı yaşamak
 https://www.uludagsozluk.com/k/ey%C5%9Fan-%C4%B1n-babas%C4%B1/&w=bg bkz kızın babasına aşık olmak sendromu 
 https://www.uludagsozluk.com/k/%C3%BCmit-erdim/&w=bg nkz ermeyi ümit eden adam
 bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
