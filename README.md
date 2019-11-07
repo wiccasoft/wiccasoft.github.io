@@ -8,6 +8,7 @@
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol
 https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz ferronun norm endere döşediği boru
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=gd ben ferro demet akalın
+https://www.uludagsozluk.com/k/gecenin-erke%C4%9Fi/&w=bg bkz yine duşa soktun kardeş
 https://www.uludagsozluk.com/k/miras-y%C3%BCz%C3%BCnden-o%C4%9Flunu-%C3%B6ld%C3%BCren-baba/ bkz bence baba haklı-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
