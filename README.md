@@ -14,11 +14,6 @@ https://www.uludagsozluk.com/e/42387347/ bkz tengir budun
 https://www.uludagsozluk.com/e/42387422/ bkz yts.ag nin zenginden alıp fakirlere vermesi
 https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz sağol canım övdüm de geldim
 https://www.uludagsozluk.com/e/42374632/ bkz hakkınızda hayırlısı olsun
-https://www.uludagsozluk.com/k/ali-tatar/&w=bg bkz benim adım ali tatar ben oyunu bozarım
-https://www.uludagsozluk.com/k/lokman-ver-o%C4%9Flum-m%C3%BCzi%C4%9Fi/&w=bg bkz lokman olm çek ordan bi beatbox
-https://www.uludagsozluk.com/k/medipol-ba%C5%9Fak%C5%9Fehir/&w=bg bkz ibrahim tatlıses gülen caps
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-ci%C4%9Ferimi-s%C3%B6kt%C3%BCn/&w=bg bkz naptın mansur şerefsiz
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-ci%C4%9Ferimi-s%C3%B6kt%C3%BCn/&w=bg
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
