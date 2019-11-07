@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
+https://www.uludagsozluk.com/k/pirzolac%C4%B1-yusuf-usta/ lol
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ lol
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
