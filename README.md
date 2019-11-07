@@ -14,6 +14,7 @@ bkz tayyip erdoğan giderse emine nolacak sorunsalı
 bkz fransayı kaç günde alırız sorunsalı
 bkz şaka maka fatih terimin istifa etmemesi sorunsalı
 bkz şaka maka gs ile dalga geçerken 7 kasımın gelmesi sorunsalı
+bkz fatih te 6 üstü madrid 
 https://www.uludagsozluk.com/k/r%C3%BCmeysa-s%C3%BCmeyye-esma-g%C3%BCls%C3%BCm-rabia-nisa/&w=bg bkz 4 kardeşin sır intiharı
 https://www.uludagsozluk.com/k/fet%C3%B6-ile-fl%C3%B6rt-et-hamile-kal-bakireyim-diye-gez/ bkz fetö lütfen
 https://www.uludagsozluk.com/k/do%C4%9Fu-k%C3%BCrd%C3%BC-vs-g%C3%BCneydo%C4%9Fu-k%C3%BCrd%C3%BC/&w=bg bkz kürt lütfen
