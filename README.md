@@ -5,16 +5,7 @@
 [![Image](smartdata/cradlestone.png)]( https://www.youtube.com/watch?v=GneeW4Wszw0 )
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
-<!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol
-https://www.uludagsozluk.com/e/42385846/ lol
-https://www.uludagsozluk.com/e/42385689/ lol
-https://www.uludagsozluk.com/e/42385905/ lol
-https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
-https://www.uludagsozluk.com/e/42387347/ bkz tengir budun
-https://www.uludagsozluk.com/e/42387422/ bkz yts.ag nin zenginden alıp fakirlere vermesi
-https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz sağol canım övdüm de geldim
-https://www.uludagsozluk.com/e/42374632/ bkz hakkınızda hayırlısı olsun
--->
+<!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
