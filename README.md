@@ -8,6 +8,7 @@
 https://www.uludagsozluk.com/k/serhat-ak%C4%B1n/&w=bg bkz akınsoft
 https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz tay gibi kız
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg bkz mısır gibi delikanlı
+bkz https://www.uludagsozluk.com/e/42383436/ bkz gün ay yıl
 bkz tayyip erdoğan giderse emine nolacak sorunsalı
 bkz fransayı kaç günde alırız sorunsalı
 bkz şaka maka fatih terimin istifa etmemesi sorunsalı
