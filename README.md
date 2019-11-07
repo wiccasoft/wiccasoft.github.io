@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/k/%C3%A7in-in-6g-haz%C4%B1rl%C4%B1klar%C4%B1na-ba%C
 https://www.uludagsozluk.com/k/6alatasaray/&w=bg bkz altı saray üstü madrid
 bkz pipiyi kestirip kendinden 20 yaş büyük bi enayi bulup metres hayatı yaşamak
 https://www.uludagsozluk.com/k/ey%C5%9Fan-%C4%B1n-babas%C4%B1/&w=bg bkz kızın babasına aşık olmak sendromu 
-https://www.uludagsozluk.com/k/%C3%BCmit-erdim/&w=bg nkz ermeyi ümit eden adam
+https://www.uludagsozluk.com/k/%C3%BCmit-erdim/&w=bg bkz ermeyi ümit eden adam
 bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
 https://www.uludagsozluk.com/k/feridun-d%C3%BCza%C4%9Fa%C3%A7/&w=bg bkz düz adam saminin duysal versiyonu
 https://www.uludagsozluk.com/k/atat%C3%BCrke-benzeyen-adam/&w=bg bkz binali yıldırma benzeyen adama halkın ilgisi 
