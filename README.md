@@ -6,7 +6,7 @@
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol 
 https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz yaş kaç evlat
-https://www.uludagsozluk.com/k/bir-k%C4%B1za-de%C4%9Ferli-oldu%C4%9Funu-hissettirmek/&w=bg bkz değemez kankağ o kız orospuydu zaten -->
+https://www.uludagsozluk.com/k/bir-k%C4%B1za-de%C4%9Ferli-oldu%C4%9Funu-hissettirmek/&w=bg bkz değmez kankağ o kız orospuydu zaten-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
