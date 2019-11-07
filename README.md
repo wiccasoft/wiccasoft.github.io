@@ -10,10 +10,8 @@ https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz ferronun norm endere döşedi�
 bkz ben ferronun norm enderden seksi olduğu gerçeği
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=gd ben ferro demet akalın
 bkz ekşideki ilginç abdullah avcı entrysi
-bkz küper takan erkek adam mıdrı sorunsalı
-bkz nazlı ılıcak ılık mı sorunsalı
 bkz nazlı ılıcak çıkınca it gibi korkan gsliler
-bkz nazlı ılıcak ın slaınmasına ses etmeyen agebeliler
+bkz nazlı ılıcak ın salınmasına ses etmeyen agebeliler
 bkz nazlı ılıcakın fetöyü özledim paylaşımına ses etmeyen högümed
 bkz ekşide küpe takan erkeğe vurduyordur yazan yazar
 bkz nazlı ılıcakın yalısında resim yapması
