@@ -10,6 +10,8 @@ https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 bkz ulucuların ekşicilerden daha zeki olduğu gerçeği
+https://www.uludagsozluk.com/k/change-org-ezan-sesi-k%C4%B1s%C4%B1ls%C4%B1n-kampanyas%C4%B1/ 
+bkz akp nin ezana daha çok ezana abanması
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
 https://eksisozluk.com/youtubeun-reklam-olayini-iyice-abartmasi--5124362?a=popular (bkz: if it's free you are the product)
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/ bkz rus mafyasının siklemediği versus
