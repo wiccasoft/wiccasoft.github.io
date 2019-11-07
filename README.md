@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz ferronun norm endere döşedi�
 bkz ben ferronun norm enderden seksi olduğu gerçeği
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=gd ben ferro demet akalın
 bkz ekşideki ilginç abdullah avcı entrysi
+bkz nazlı ılıcak ın asya banktan hisse almasına ses etmeyen cehapeliler
 bkz nazlı ılıcakın 28 şubat kararlarına ses çıkarmaması
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak/&w=bg bkz nazlı ılıcakın mahfi eğilmez röportajı
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak/&w=bg bkz alo nagehan
