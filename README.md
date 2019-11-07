@@ -6,7 +6,7 @@
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47 lol
-https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz norm enderin feroroya döşediği boru-->
+https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz norm enderin ferroya döşediği boru-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
