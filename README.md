@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw 
 https://www.uludagsozluk.com/e/42338663/ lol
 https://www.uludagsozluk.com/e/42381632/ lol
-https://www.uludagsozluk.com/e/42383664/ eywallah karşim
+https://www.uludagsozluk.com/e/42383664/ eywallah karşim un dos tre ale ale ale
 https://www.uludagsozluk.com/k/ricky-martin-in-4-%C3%A7ocuk-annesi-olmas%C4%B1/ bkz verse sikmezmisin pampa
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-k%C4%B1z/&w=bg bkz kamuflaj gelinlik giyen yaratık
 https://www.uludagsozluk.com/k/6-kelimelik-hikayeler/&w=bg bkz altı saray hahahahhahahaha
