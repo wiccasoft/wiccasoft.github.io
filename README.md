@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
-https://www.uludagsozluk.com/k/feridun-d%C3%BCza%C4%9Fa%C3%A7/&w=bg bkz emo düz adam
+https://www.uludagsozluk.com/k/feridun-d%C3%BCza%C4%9Fa%C3%A7/&w=bg bkz düz adam saminin duysal versiyonu
 bkz ya tayyip erdoğan gitmesse sorunsalı
 bkz tayyip erdogan giderse ülkeyi saklıyoruz beyler
 bkz şaka maka fatih terimin istifa etmemesi sorunsalı
