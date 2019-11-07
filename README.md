@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
+[![Image](smartdata/news-shell.png)]( https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest )
 [![Image](smartdata/cradlestone.png)]( https://www.youtube.com/watch?v=GneeW4Wszw0 )
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
