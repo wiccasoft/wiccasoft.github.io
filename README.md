@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/k/ben-fero/&w=bg bkz ferronun norm endere döşedi�
 bkz ben ferronun norm enderden seksi olduğu gerçeği
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=gd ben ferro demet akalın
 bkz ekşideki ilginç abdullah avcı entrysi
+https://www.uludagsozluk.com/k/nagehan-al%C3%A7%C4%B1/ bkz fedöcüleri hoplatan yazar
 https://www.uludagsozluk.com/k/mahfi-bukulmez/ bkz hökümete 28 şubat sürecinde köstek olan tip
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak/&w=bg  bkz 14 haziran sürecinde hükemeteyamuk yapan fedöcü
 https://www.uludagsozluk.com/k/nazl%C4%B1-%C4%B1l%C4%B1cak/&w=bg bkz ne desek boş gg silivri soğuktur şimdi
