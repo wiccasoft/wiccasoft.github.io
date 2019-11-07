@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42387347/ bkz tengir budun
 https://www.uludagsozluk.com/e/42387422/ bkz yts.ag nin zenginden alıp fakirlere vermesi
 https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz sağol canım övdüm de geldim
 https://www.uludagsozluk.com/e/42374632/ bkz hakkınızda hayırlısı olsun
+https://www.uludagsozluk.com/k/ali-tatar/&w=bg bkz benim adım ali tatar ben oyunu bozarım
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
