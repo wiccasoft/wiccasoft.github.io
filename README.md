@@ -11,12 +11,6 @@ https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ lol
-https://www.uludagsozluk.com/k/s%C3%BCrekli-bu-k%C4%B1%C5%9F-sert-ge%C3%A7ecek-diyen-adam/&w=bg lol
-https://www.uludagsozluk.com/k/kaz%C4%B1m-koyuncu/&w=bg bkz kürtçüler koyun gibi düden adam
-bkz akp nin kendi halkına işkence olarak ezanı 10dk 150 db e çıkarması
-https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz ezan ı uzatmak sesini 150 db yapmak
-https://www.uludagsozluk.com/k/change-org-ezan-sesi-k%C4%B1s%C4%B1ls%C4%B1n-kampanyas%C4%B1/ 
-bkz akp nin ezana daha çok ezana abanması
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
 https://eksisozluk.com/youtubeun-reklam-olayini-iyice-abartmasi--5124362?a=popular (bkz: if it's free you are the product)
 https://www.uludagsozluk.com/k/italyan-mafyas%C4%B1-vs-rus-mafyas%C4%B1/ bkz rus mafyasının siklemediği versus
