@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 bkz ulucuların ekşicilerden daha zeki olduğu gerçeği
 bkz akp nin kendi halkına işkence olarak ezanı 10dk 150 db e çıkarması
-https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz ezan ı uzatmak sesin 150 db yapmak
+https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz ezan ı uzatmak sesini 150 db yapmak
 https://www.uludagsozluk.com/k/change-org-ezan-sesi-k%C4%B1s%C4%B1ls%C4%B1n-kampanyas%C4%B1/ 
 bkz akp nin ezana daha çok ezana abanması
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
