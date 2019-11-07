@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/serhat-ak%C4%B1n/&w=bg bkz akınsoft
 https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz tay gibi kız
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg bkz mısır gibi delikanlı
 bkz https://www.uludagsozluk.com/e/42383436/ bkz gün ay yıl
-https://www.uludagsozluk.com/k/g%C3%BCn-ay-y%C4%B1l/ bkz lol
+https://www.uludagsozluk.com/k/g%C3%BCn-ay-y%C4%B1l/ bkz gay pornoları silip kıvırmak
 bkz tayyip erdoğan giderse emine nolacak sorunsalı
 bkz fransayı kaç günde alırız sorunsalı
 bkz şaka maka fatih terimin istifa etmemesi sorunsalı
