@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/k/7-kas%C4%B1m-2019-sporting-braga-be%C5%9Fikta%C5%9F-ma%C3%A7%C4%B1/ lol
 https://www.uludagsozluk.com/k/t%C3%BCrk-polisindeki-alemlerin-rabbi-benim-tribi/ lol 
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sağol canım övdüm de geldim
+https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz gangam burak
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ bkz hasiktir be rıfat abi
 https://eksisozluk.com/ismail-saymaz--1860623?a=popular bkz yeni neslin saymaması
 https://eksisozluk.com/youtubeun-reklam-olayini-iyice-abartmasi--5124362?a=popular (bkz: if it's free you are the product)
