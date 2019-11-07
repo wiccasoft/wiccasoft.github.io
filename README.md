@@ -8,7 +8,7 @@
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-erkek-b%C4%B1rak/&w=bg bkz yavaşça bırak kırılmasın
 https://www.uludagsozluk.com/k/bir-g%C3%BCne-3-s%C4%B1nav-koyan-orospu-%C3%A7ocu%C4%9Fu-%C3%BCniversite/&w=bg bkz sakin ol liseli
 https://www.uludagsozluk.com/k/k%C3%BCf%C3%BCr-eden-erkek-seksili%C4%9Fi/ bkz sözlükte bolca bulunan liseliler
-https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz yaş kaç evlat
+https://www.uludagsozluk.com/k/tomb-raider-oyunundaki-%C3%BCrk%C3%BCn%C3%A7-osuruklu-u%C5%9Fak/ bkz ortaokul terk
 https://www.uludagsozluk.com/k/bir-k%C4%B1za-de%C4%9Ferli-oldu%C4%9Funu-hissettirmek/&w=bg bkz değmez kankağ o kız orospuydu zaten-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
