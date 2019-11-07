@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz gangam burakın yeri
+https://www.uludagsozluk.com/k/meslekta%C5%9Fla-evlenmek/&w=bg bkz midyeci ahmetle evlenmek
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ve-kasl%C4%B1-bir-erkekle-du%C5%9F-almak/ bkz yine duşa soktun
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ bkz seks kokan hareketler bunlar
 https://www.uludagsozluk.com/k/solucana-hallenen-medeni-insan/ bkz dumb and dumber
