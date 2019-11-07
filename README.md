@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
+https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/s%C3%BCrekli-bu-k%C4%B1%C5%9F-sert-ge%C3%A7ecek-diyen-adam/&w=bg lol
 https://www.uludagsozluk.com/k/kaz%C4%B1m-koyuncu/&w=bg bkz kürtçüler koyun gibi düden adam
 bkz akp nin kendi halkına işkence olarak ezanı 10dk 150 db e çıkarması
