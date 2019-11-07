@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/k/solucana-hallenen-medeni-insan/ bkz dumb and dumber
+bkz hamam böceğine hallenirken yakalanan adam
 https://www.uludagsozluk.com/k/evinin-banyosuna-gizli-kamera-koyan-evli-adam/ bkz bolulu rıfat usta
 https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat%C4%B1n-%C3%A7ok-seksi-olmas%C4%B1/ bkz rıfata hallenenecek kadar düşmek
 https://www.uludagsozluk.com/k/7-kas%C4%B1m-2019-sporting-braga-be%C5%9Fikta%C5%9F-ma%C3%A7%C4%B1/ lol
