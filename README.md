@@ -9,19 +9,10 @@ https://www.uludagsozluk.com/e/42385689/ lol
 bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
 bkz ya tayyip erdoğan gitmesse sorunsalı
 bkz tayyip erdogan giderse ülkeyi saklıyoruz beyler
-bkz tayyip giderse bilal oğlan yönetsin kampanyası
-bkz tayyip erdoğan giderse emine nolacak sorunsalı
-bkz fransayı kaç günde alırız sorunsalı
 bkz şaka maka fatih terimin istifa etmemesi sorunsalı
 bkz şaka maka gs ile dalga geçerken 7 kasımın gelmesi sorunsalı
 bkz fatih te 6 üstü madrid 
-https://www.uludagsozluk.com/k/r%C3%BCmeysa-s%C3%BCmeyye-esma-g%C3%BCls%C3%BCm-rabia-nisa/&w=bg bkz 4 kardeşin sır intiharı
-https://www.uludagsozluk.com/k/fet%C3%B6-ile-fl%C3%B6rt-et-hamile-kal-bakireyim-diye-gez/ bkz fetö lütfen
-https://www.uludagsozluk.com/k/do%C4%9Fu-k%C3%BCrd%C3%BC-vs-g%C3%BCneydo%C4%9Fu-k%C3%BCrd%C3%BC/&w=bg bkz kürt lütfen
-https://www.uludagsozluk.com/k/engin-altan-d%C3%BCzyatan/&w=bg bkz straight lying horizantal
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-giderse-devleti-kim-y%C3%B6netecek/&w=bg bkz anan
-https://www.uludagsozluk.com/k/yeni-bir-rte-yeti%C5%9Ftirmek/ bkz yahudi hizmet madalyası
-https://www.uludagsozluk.com/k/babac%C4%B1m-neden-sen-de%C4%9Filde-annem-t%C3%BCrban-tak%C4%B1yor/ serin hikaye-->
+-->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
 <!--https://www.theguardian.com/world/2019/nov/05/vladimir-putin-calls-for-reliable-russian-version-of-wikipedia -->
