@@ -14,14 +14,11 @@ https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg bkz mısır 
 bkz https://www.uludagsozluk.com/e/42383436/ bkz gün ay yıl
 https://www.uludagsozluk.com/k/g%C3%BCn-ay-y%C4%B1l/ bkz gay pornoları silip kıvırmak
 bkz tayyip erdogan giderse ülkeyi saklıyoruz beyler
-bkz tayyip erdoğan gitmesin kampanyası
 bkz tayyip giderse bilal oğlan yönetsin kampanyası
 bkz tayyip erdoğan giderse emine nolacak sorunsalı
 bkz fransayı kaç günde alırız sorunsalı
 bkz şaka maka fatih terimin istifa etmemesi sorunsalı
 bkz şaka maka entry girerken 7 kasımın gelmesi sorunsalı
-bkz ratytip erdoğan giderse nereye entry girecez sornusalı
-bkz şaka maka entry girerekene akşamın olması
 https://www.uludagsozluk.com/k/r%C3%BCmeysa-s%C3%BCmeyye-esma-g%C3%BCls%C3%BCm-rabia-nisa/&w=bg bkz 4 kardeşin sır intiharı
 https://www.uludagsozluk.com/k/fet%C3%B6-ile-fl%C3%B6rt-et-hamile-kal-bakireyim-diye-gez/ bkz fetö lütfen
 https://www.uludagsozluk.com/k/do%C4%9Fu-k%C3%BCrd%C3%BC-vs-g%C3%BCneydo%C4%9Fu-k%C3%BCrd%C3%BC/&w=bg bkz kürt lütfen
