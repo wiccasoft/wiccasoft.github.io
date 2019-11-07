@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
 https://www.uludagsozluk.com/k/kedi-fotolar%C4%B1yla-k%C4%B1z-d%C3%BC%C5%9F%C3%BCrmeye-%C3%A7al%C4%B1%C5%9Fan-erkek/ 
 bkz vurdurmak istiyordur
+bkz cehennem başkalarıdır
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
