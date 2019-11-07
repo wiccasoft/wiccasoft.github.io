@@ -9,7 +9,8 @@
 https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
-https://www.uludagsozluk.com/k/ey%C5%9Fan-%C4%B1n-babas%C4%B1/&w=bg bkz kızın babasına aşık olmak sendromu
+bkz manuş baba ya aşık olmak
+https://www.uludagsozluk.com/k/ey%C5%9Fan-%C4%B1n-babas%C4%B1/&w=bg bkz kızın babasına aşık olmak sendromu 
 https://www.uludagsozluk.com/k/%C3%BCmit-erdim/&w=bg nkz ermeyi ümit eden adam
 bkz gardaşım köz getir seri https://www.youtube.com/watch?v=bCwHMHf9FTM
 https://www.uludagsozluk.com/k/feridun-d%C3%BCza%C4%9Fa%C3%A7/&w=bg bkz düz adam saminin duysal versiyonu
