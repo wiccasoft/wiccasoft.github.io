@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42385846/ lol
 https://www.uludagsozluk.com/e/42385689/ lol
 https://www.uludagsozluk.com/e/42385905/ lol
 https://www.uludagsozluk.com/e/42386550/ bkz altı saray üstü madrid
+https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz gangam burakın yeri
 https://www.uludagsozluk.com/k/solucana-hallenen-medeni-insan/ bkz dumb and dumber
 https://www.uludagsozluk.com/k/evinin-banyosuna-gizli-kamera-koyan-evli-adam/ bkz içeriye girdiğimde duş alıyordu
 https://www.uludagsozluk.com/k/evinin-banyosuna-gizli-kamera-koyan-evli-adam/ bkz bolulu rıfat usta
