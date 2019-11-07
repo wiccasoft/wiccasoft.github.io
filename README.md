@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz sağol canım övdüm de geldi
 https://www.uludagsozluk.com/e/42374632/ bkz hakkınızda hayırlısı olsun
 https://www.uludagsozluk.com/k/ali-tatar/&w=bg bkz benim adım ali tatar ben oyunu bozarım
 https://www.uludagsozluk.com/k/lokman-ver-o%C4%9Flum-m%C3%BCzi%C4%9Fi/&w=bg bkz lokman olm çek ordan bi beatbox
+https://www.uludagsozluk.com/k/medipol-ba%C5%9Fak%C5%9Fehir/&w=bg bkz ibrahim tatlıses gülen caps
 -->
 
 [![Image](smartdata/wiki-ru.png)]( https://www.youtube.com/watch?v=nQCfR4waWpI )
