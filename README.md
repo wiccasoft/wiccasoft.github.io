@@ -8,6 +8,7 @@
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391717/ bkz reyiz yerini almış 
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
+bkz vedat mürüqünü dil çıkaran suratı
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg 
 bkz erkek kendiliğinden var olabilir mi
 bkz madem allah yok niye inkar ediyosunuz-->
