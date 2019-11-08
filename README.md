@@ -16,13 +16,13 @@ bkz kamışa su yürüyo mu denilen kürdün çıkartıp sallaması
 https://www.uludagsozluk.com/k/kam%C4%B1%C5%9Fl%C4%B1-da-t%C3%BCrk-askerini-ta%C5%9Flayan-k%C3%BCrtler/ bkz kamışa su akıyo
 bkz hoşlanılan kızın pilavlı zikire gelmedin mübarek demesi
 bkz 8 kasım 2019 gs liler fblilerin özlerine dönmesi 
+bkz gay oldum denilen kızın makata hava basması
+bkz hoşlaşılan cinconlunun götünü parmaklamak
 bkz hoşlaşılmayan gslilinin hoşlaşılmayan fb liyle flört etmesi olayı
 https://www.uludagsozluk.com/k/futboldan-penalt%C4%B1-kald%C4%B1r%C4%B1lsa-olacaklar/&w=bg
 https://www.uludagsozluk.com/k/hedef-bir-milyon-penalti/
 https://www.uludagsozluk.com/k/%C3%A7o%C4%9Fu-fenerbah%C3%A7elinin-ele%C5%9Ftiriye-tahamm%C3%BCls%C3%BCz-olmas%C4%B1/
 https://www.uludagsozluk.com/k/himmet%C3%A7iler-kuduruyor/ bkz hoşlaşılan fblinin naz yapması
-bkz gay oldum denilen kızın göte deliğine hava basması
-bkz hoşlaşılan cinconlunun götünü parmaklamak
 https://www.uludagsozluk.com/e/42390343/ bkz kız baha yamuk amk çorbayu yedük çay da koy kız
 bkz göt deliğim yanıyo denilen kızın makattan üflemesi
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz fakir falcaosu
