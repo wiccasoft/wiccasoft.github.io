@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
+bkz fatih te akp ye oy verip intihar eden 4 kardeş
 https://www.uludagsozluk.com/k/mehmet-altan/ bkz  öyk ne desem gg silivri soğuktur şimdi
 https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7/&w=bg bkz öyk ne desem gg silivri soğuktur şimdi
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz akpli geberten adam gibi adam
