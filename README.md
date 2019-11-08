@@ -15,6 +15,7 @@ bkz mynet ten götüne pompa sokan baba haberi aramak
 bkz mynet haber linkini deep webte paylaşmak
 bkz recep tayyip erdoğan vs google
 bkz fatih sultan mehmet mahallesindeki 4 kardeş
+bkz haftasonu mynet haberlerinin kalitesinin düşmesi
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz fatihli akpli kardeşler
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/&w=gd bkz mynet
 bkz murat barkdakçıoğlanın türk düşmanlarına boru gibi döşediği köşe yazısı
