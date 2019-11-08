@@ -4,18 +4,6 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
-<!--
-bkz ben ferronun demet akalın şarkısını tersten dinleyince ben satanizmi yayıyom demesi
-bkz https://www.youtube.com/watch?v=Z7STDOVzQKQ ben fero demet akalın reverse
-https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bk lafa gelince tupac marley
-bkz küper takan dövmeli erkeğin eşşeğin amına su kaçırması https://www.youtube.com/watch?v=aQRLSBUNupg
-https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?a=popular bkz atabok
-bkz 30 yaşında küpesi dövmesi metrobüs kartı olan erkek
-https://www.uludagsozluk.com/k/d%C3%B6vme-yapt%C4%B1r%C4%B1p-damgal%C4%B1-e%C5%9Fek-gibi-gezmek/&w=bg bkz sikildim dövmesi 
-https://eksisozluk.com/kupe-takan-erkek--2368258?a=popular bkz vurduruyorum küpesi takan erkek
-https://www.uludagsozluk.com/k/70-ya%C5%9F%C4%B1ndaki-haline-bir-%C5%9Fey-s%C3%B6yle/&w=gd sizin tayfa biç bizim tayfa riç
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz lafa gelince tupac marley
-[![Image](smartdata/cradlestone.png)]( https://www.youtube.com/watch?v=GneeW4Wszw0 )
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47-->
