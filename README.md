@@ -7,7 +7,7 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
-https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz hay maşşallah 150 db
+https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz 150 db lik temel
 https://www.uludagsozluk.com/e/42391188/ bkz hayaaale feleeeeeğğğğğğğğ dinimiz amin
 bkz durduk yere adamın amcığına koyan ezanlar sirenler vır vır vır vela vela vela
 bkz ciddi ciddi ezanın yoktan varolabileceğini sanmak
