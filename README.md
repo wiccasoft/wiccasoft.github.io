@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 bkz hoşlanılan kızın pilavlı zikire çağırması
 bkz gay oldum denilen kızın göte deliğine hava basması
+https://www.uludagsozluk.com/e/42390343/ bkz kız baha yamuk amk çorbayu yedük çay da koy kız
 bkz hoşlanılan kızın zikirden sonra maça bilet aldım sana demesi
 bkz göt deliğim kanıyo denilen kızın pansuman yapmaıs
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz fakir falcaosu
