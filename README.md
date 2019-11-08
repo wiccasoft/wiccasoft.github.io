@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz rte diye yazılır
 bkz fatih te geberen 4 yaratığın akpli atayız olması 
 bkz akpli atayızların yavaş yavaş gebermesiyle başlayan süreç
 bkz re ce tay yi er do van re ce  tay yi er do van
+https://www.uludagsozluk.com/k/allah-%C4%B1n-ateist-olmas%C4%B1/ bkz allahı var sanan akp li
 https://www.uludagsozluk.com/k/ihbarweb-de-tan%C4%B1d%C4%B1%C4%9F%C4%B1n%C4%B1n-olmas%C4%B1/ bkz rte nin akrabası
 bkz kamışa su yürüyo mu denilen kürdün çıkartıp sallaması
 https://www.uludagsozluk.com/k/kam%C4%B1%C5%9Fl%C4%B1-da-t%C3%BCrk-askerini-ta%C5%9Flayan-k%C3%BCrtler/ bkz kamışa su akıyo
