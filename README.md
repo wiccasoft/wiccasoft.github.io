@@ -13,41 +13,6 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
 bkz kompresörle şaka amaçlı arkadaşının götüne hava basan türk
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
-bkz gaziantept kızına tacavüz eden tacavüz eden baba https://www.google.com.tr/search?q=h%C3%BCrriyet+tecav%C3%BCz&sxsrf=ACYBGNQCoJXLouTsZWNMi9d-Cx02uW3xjw:1573231523225&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjmjN2QiNvlAhV75KYKHXjCByIQ_AUIFCgD&biw=1102&bih=763
-https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ (bkz evlat olsa sevilmez)
-bkz kızına her yıl bekaret kontrolü yapan baba seksiliği (bkz 17 entry 1 dkda)
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
-bkz kızımın bekaretini bozdurmam diyen baba
-https://www.uludagsozluk.com/k/izmirli-baba/&w=bg bkz gavat
-bkz türklerin 3. sayfa haberlerini dahaç ok sevmesi durumu
-bkz kompresörle arkadaşının götüne hava basan genç
-bkz diyarbakırda götünün amcaoğullarına siktiren baba
-bkz rece tayyi erdogan vs mynet
-bkz haftasonu mynet haberlerinin kalitesinin düşmesi
-https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz fatihli akpli kardeşler
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/&w=gd bkz mynet
-bkz murat barkdakçıoğlanın türk düşmanlarına boru gibi döşediği köşe yazısı
-https://www.uludagsozluk.com/k/medipol-ba%C5%9Fak%C5%9Fehir/&w=gd nkz ay canım belezoğlan
-bkz fatih te akp ye oy verip intihar eden 4 kardeş le başlayan süreç
-https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg
-https://www.uludagsozluk.com/k/vatan-haini/&w=bg bkz mehmet alttan alan ardıç
-https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz ay canım kıyamam ya akplimiydiler
-https://www.uludagsozluk.com/k/8-kas%C4%B1m-2019-vedat-muriqi-nin-aya%C4%9F%C4%B1n%C4%B1n-k%C4%B1r%C4%B1lmas%C4%B1/ 
-bkz ay canım kıyamam yaaaaaaaaaa
-https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7/&w=bg bkz öyk laikçi kızları çıldırtan yazar evet
-bkz sweet mandarinin sevmediği yazarlar mehmet altan engin ardış öyk evet
-https://www.uludagsozluk.com/k/mehmet-altan/ bkz  öyk ne desem gg silivri soğuktur şimdi
-https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7/&w=bg bkz öyk ne desem gg silivri soğuktur şimdi
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz akpli geberten adam gibi adam
-https://sweet-mandarine.uludagsozluk.com/ bkz sweet mandarine in öyk dediği tipler murat bardakçı hariç
-https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7/&w=bg bkz sweet mandarine in öyk dediği tipler murat bardakçı hariç
-https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ bkz cık cık cık
-https://www.cnnturk.com/turkiye/kompresor-ile-saka-olduruyordu  bkz türk şakaları
-https://www.uludagsozluk.com/k/galatasarayl%C4%B1-%C3%BCnl%C3%BCler/&w=bg bkz geneli fetöcü olan tipler
-https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz mucize doktor dizisindeki liseli böcek suratlı ergen
-https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/
-bkz 8 kasım 2019 eski akitin beş dakikda emeğimize aktırdın eywallah kardeş paylaşımı
-bkz akp ye oy verip fakirlikten intihar edenler için üzülmemezi bekleyen ekşiciler
 https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz 4 dakkada aktım emeğine 
 https://eksisozluk.com/makatina-kompresorle-hava-basilan-genc--6240350?a=popular bkz yine kompresöre soktun kardeş
 -->
