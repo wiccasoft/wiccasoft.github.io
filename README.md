@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
+bkz akplilerin sosyalizm düşmanlığı yaparken fakirlikten gebermeleri pricless
 -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
