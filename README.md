@@ -19,6 +19,7 @@ bkz 8 kasım 2019 gs liler fblilerin özlerine dönmesi
 bkz gay oldum denilen kızın makata hava basması
 bkz hoşlaşılan cinconlunun götünü parmaklamak
 bkz hoşlaşılmayan gslilinin hoşlaşılmayan fb liyle flört etmesi olayı
+https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkyz rtenin soyuna odasında ersunu tebrik etmesi
 bkz deep webin kendilerine sweet gibi nickler alan iğrenç ibnelerle dolu olduğu gerçeği
 https://sweet-mandarine.uludagsozluk.com/bkz tanısanız siz de çok seversiniz öyk yani
 https://sweet-but-psycho.uludagsozluk.com/ bkz bu sevimli yine de üstteki fena evlat olsa sevilmez
