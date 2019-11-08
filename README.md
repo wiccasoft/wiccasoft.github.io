@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
 https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ bkz cık cık cık
 https://www.cnnturk.com/turkiye/kompresor-ile-saka-olduruyordu  bkz türk şakaları
+https://www.uludagsozluk.com/k/galatasarayl%C4%B1-%C3%BCnl%C3%BCler/&w=bg bkz fatih altaylı fatih terim fatih tezcan
 https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz mucize doktor dizisindeki liseli böcek suratlı ergen
 https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/
 bkz 8 kasım 2019 eski akitin beş dakikda emeğimize aktırdın eywallah kardeş paylaşımı
