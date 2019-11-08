@@ -17,6 +17,8 @@ bkz kompresörle şaka amaçlı arkadaşının götüne hava basan gencin dramı
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
 bkz mbayeyi dayıp ndayeyi mi alsak sorunsalı
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz vedat tersten saplar
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-atat%C3%BCrk-stad%C4%B1/ bkz rte nin açılışını yapcağı stad evet
+https://www.uludagsozluk.com/k/8-kas%C4%B1m-2019-fenerbah%C3%A7e-ye-verilen-uydurma-penalt%C4%B1/ bkz hata gibi hata evet
 https://www.uludagsozluk.com/k/stad%C4%B1n%C4%B1n-ad%C4%B1-bisk%C3%BCvi-firmas%C4%B1-olan-tak%C4%B1m/ bkz malum takım evet
 https://www.uludagsozluk.com/e/42388881/bkz bkz atayızlar hadi bunu da açıklayın
 bkz enes abinin emre mor abiye yürümesine ses etmeyen norm ender abici tayfa
