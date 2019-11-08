@@ -2,7 +2,8 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
-[![Image](smartdata/new-shell.png)]( https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest )
+[![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Z7STDOVzQKQ )
+<!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--
 bkz ben ferronun demet akalın şarkısını tersten dinleyince ben satanizmi yayıyom demesi
 bkz https://www.youtube.com/watch?v=Z7STDOVzQKQ ben fero demet akalın reverse
