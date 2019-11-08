@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 bkz hoşlanılan kızın pilavlı zikire çağırması
 bkz hoşlanılan kızın zikirden sonra maça bilet aldım sana demesi
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz fakir falcaosu
+https://www.uludagsozluk.com/k/himmetbah%C3%A7e-spor-kul%C3%BCb%C3%BC/ bkz himmet abinin takımı
 bkz itilmiş kakılmış gibi ilişki arayan kız
 bkz vedat mürüğüye  kalk kız çorba yap diyip tekme atmak
 bkz ishal oldum denilinen kızık götünü de yıkayım mı sahip demesi
