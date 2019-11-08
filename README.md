@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 bkz hoşlanılan kızın pilavlı zikire çağırması
 bkz hoşlanılan kızın zikirden sonra maça bilet aldım sana demesi
+bkz ishal oldum denilinen kızık götünüz yıkaması
 bkz grip oldum denilen kızın ayak yıkayıp çorbada yapayım mı demesi
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz grip oldum denilen kızın vedat mürüküye çorba yapması
 https://www.uludagsozluk.com/k/metrob%C3%BCse-binmeye-%C3%A7al%C4%B1%C5%9Fan-fenerliye-%C3%A7elme-takmak/ bkz lol
