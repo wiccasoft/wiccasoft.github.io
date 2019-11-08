@@ -9,6 +9,7 @@
 https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz hay maşşallah 150 db
 https://www.uludagsozluk.com/e/42391188/ bkz hayaaale feleeeeeğğğğğğğğ dinimiz amin
+https://www.uludagsozluk.com/k/sevgiliyi-kuca%C4%9Fa-oturtup-sa%C3%A7lar%C4%B1n%C4%B1-koklamak/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg bkz adamın emcüğünü siker
 https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi/&w=bg lol
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
