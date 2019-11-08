@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal m
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
 bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
+https://www.uludagsozluk.com/k/araplar-adam-m%C4%B1d%C4%B1r/&w=bg bkz içecen şarabı sikecen arabı
 https://www.uludagsozluk.com/k/ciddi-ciddi-ay%C4%B1n-ikiye-b%C3%B6l%C3%BCnd%C3%BC%C4%9F%C3%BCne-inanmak/&w=bg bkz şaka maka
 https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg bkz masallah kasıklarına kuvvet
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz cevab veremedi
