@@ -12,7 +12,8 @@ https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bun
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
 bkz mynet ten götüne pompa sokan baba haberi aramak
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ bkz babuşko
+bkz kızına her yıl bekaret kontrolü yapan baba seksiliği
+https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
 bkz kızına kızlık zarı diktiren babanın show tv ye çıkması
 bkz meynetteki kızını kızlık zarını diktiren baba haberi
 bkz mynet haber linkini deep webte paylaşmak
