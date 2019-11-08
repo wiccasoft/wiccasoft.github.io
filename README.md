@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
 bkz hoşlanılan kızın pilavlı zikire çağırması
+https://www.uludagsozluk.com/k/himmet%C3%A7iler-kuduruyor/ bkz hoşlaşılan fblinin naz yapması
 bkz gay oldum denilen kızın göte deliğine hava basması
 bkz hoşlaşılan cinconlunun götünü parmaklamak
 https://www.uludagsozluk.com/e/42390343/ bkz kız baha yamuk amk çorbayu yedük çay da koy kız
