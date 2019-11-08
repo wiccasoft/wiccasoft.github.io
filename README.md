@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz hay maşşallah 150 db
 https://www.uludagsozluk.com/e/42391188/ bkz hayaaale feleeeeeğğğğğğğğ dinimiz amin
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-atat%C3%BCrk-e-sald%C4%B1rmak/&w=bg bkz atatürküne sokam
+https://www.uludagsozluk.com/k/k%C3%BCresel-isyan-b%C3%BCy%C3%BCyor/ bkz ezan susmaz vatan bölünmez
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz ezanını götüne sokayım minareylen
 https://www.uludagsozluk.com/k/sevgiliyi-kuca%C4%9Fa-oturtup-sa%C3%A7lar%C4%B1n%C4%B1-koklamak/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg bkz adamın emcüğünü siker
