@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
 bkz hoşlanılan kızın pilavlı zikire çağırması
 bkz hoşlaşılan gsliyle penaltı tartışamk
+bkz 8 kasım 2019 gs liler gblilerin özlerine dönmesi
 https://www.uludagsozluk.com/k/futboldan-penalt%C4%B1-kald%C4%B1r%C4%B1lsa-olacaklar/&w=bg
 https://www.uludagsozluk.com/k/hedef-bir-milyon-penalti/
 https://www.uludagsozluk.com/k/%C3%A7o%C4%9Fu-fenerbah%C3%A7elinin-ele%C5%9Ftiriye-tahamm%C3%BCls%C3%BCz-olmas%C4%B1/
