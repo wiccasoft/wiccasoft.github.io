@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal modlarına dönmesi
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
+https://www.uludagsozluk.com/k/bir-imamo%C4%9Flu-yalan%C4%B1-b%C4%B1rak/ bkz geceye bir yalanişko bırak
 bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/e/2996591/ bkz bunu reserve alalım yalanır olm bu
