@@ -15,6 +15,7 @@ bkz emre mor abinin yine yürümesi olayı
 bkz kompresörle götüne hava basılan gencin kankasıyla barışması
 bkz kompresörle şaka amaçlı arkadaşının götüne hava basan gencin dramı
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
+bkz mbayeyi dayıp ndayeyi mi alsak sorunsalı
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz vedat tersten saplar
 https://www.uludagsozluk.com/k/stad%C4%B1n%C4%B1n-ad%C4%B1-bisk%C3%BCvi-firmas%C4%B1-olan-tak%C4%B1m/ bkz malum takım evet
 https://www.uludagsozluk.com/e/42388881/bkz bkz atayızlar hadi bunu da açıklayın
