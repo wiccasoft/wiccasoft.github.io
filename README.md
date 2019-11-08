@@ -15,6 +15,7 @@ bkz emre mor abinin yine yürümesi olayı
 bkz kompresörle götüne hava basılan gencin kankasıyla barışması
 bkz kompresörle şaka amaçlı arkadaşının götüne hava basan gencin dramı
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
+https://www.uludagsozluk.com/e/42388881/bkz bkz atayızlar hadi bunu da açıklayın
 bkz enes abinin emre mor abiye yürümesine ses etmeyen norm ender abici tayfa
 https://www.uludagsozluk.com/k/kalecisi-98-do%C4%9Fumlu-%C3%A7ocuk-olan-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz emre mor
 https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz 4 dakkada aktım emeğine iyi olmuş
