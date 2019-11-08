@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz fakir falcaosu
 bkz itilmiş kakılmış gibi ilişki arayan kız
 bkz vedat mürüğüye  kalk kız çorba yap diyip tekme atmak
 bkz ishal oldum denilinen kızık götünü de yıkayım mı sahip demesi
-bkz grip oldum denilen kızın ayak yıkayıp çorbada yapayım mı demesi
+https://www.uludagsozluk.com/k/metrob%C3%BCslerde-fenerli-g%C3%B6rmek-istemiyoruz/ bkz lol
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz grip oldum denilen kızın vedat mürüküye çorba yapması
 https://www.uludagsozluk.com/k/metrob%C3%BCse-binmeye-%C3%A7al%C4%B1%C5%9Fan-fenerliye-%C3%A7elme-takmak/ bkz lol
 https://www.uludagsozluk.com/k/8-kas%C4%B1m-2019-fb-ye-verilen-ikinci-penalt%C4%B1/ bkz yan hakemlerin uyuması
