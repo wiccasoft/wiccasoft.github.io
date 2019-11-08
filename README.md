@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
+bkz kompresörle şaka amaçlı arkadaşının götüne hava basan türk
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
 bkz gaziantepte sevgilisinni tecazvüzüne uğrayan genç https://www.google.com.tr/search?q=h%C3%BCrriyet+tecav%C3%BCz&sxsrf=ACYBGNQCoJXLouTsZWNMi9d-Cx02uW3xjw:1573231523225&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjmjN2QiNvlAhV75KYKHXjCByIQ_AUIFCgD&biw=1102&bih=763
 https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ (bkz evlat olsa sevilmez)
