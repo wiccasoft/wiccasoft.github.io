@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
 bkz emre mor abinin yine yürümesi olayı
 bkz rtenni suriyenin kuzeyine girebilirm açıklaması
+bkz rtnin götüne kompresör sokulan genci ziyareti
 bkz kompresörle götüne hava basılan gencin kankasıyla barışması
 bkz kompresörle şaka amaçlı arkadaşının götüne hava basan gencin dramı
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
