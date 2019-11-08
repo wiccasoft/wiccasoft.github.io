@@ -8,7 +8,7 @@
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz hay maşşallah 150 db
-https://www.uludagsozluk.com/e/42391188/ bkz ulusun korkma nasıl böyle bir imanı boğar hayaaale feleeeeeğğğğğğğğ
+https://www.uludagsozluk.com/e/42391188/ bkz hayaaale feleeeeeğğğğğğğğ dinimiz amin
 https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi/&w=bg lol
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
