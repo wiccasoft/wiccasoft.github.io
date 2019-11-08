@@ -9,6 +9,7 @@
 https://www.uludagsozluk.com/e/42389427/ lol
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
+https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz 4 dakkada aktım emeğine
 -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
