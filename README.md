@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
+bkz izmirli babların gavat olması
 bkz kızına her yıl bekaret kontrolü yapan baba seksiliği (bkz 17 entry 1 dkda)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
 bkz kızımın bekaretini bozdurmam diyen baba
