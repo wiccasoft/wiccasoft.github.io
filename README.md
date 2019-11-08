@@ -15,14 +15,10 @@ https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal m
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
 bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
-https://www.uludagsozluk.com/k/hasan-ayranc%C4%B1/ bkz hocana sokam
-https://www.uludagsozluk.com/k/seviyorum-diyip-terk-edenler/ bkz falcao
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz cevab veremedi
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz eywalla bilader senin için de top diyolar ama
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz bilader senin için de top diyolar ama
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz sen ne diyon la değişik
-https://www.uludagsozluk.com/k/5-vakit-namaz-k%C4%B1l%C4%B1p-yolsuzluk-yapmak/ bkz yerde yuvarlanıp 1 koyup beş almak
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=gd bkz fakir falcaosu 
-bkz uzak durulması gerken liberolar
 https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz uzak durulması gerken erkek burcu
 https://eksisozluk.com/bir-erkegi-fizigi-disinda-cekici-yapan-detaylar--6240220?a=popular bkz yine duşa soktunuz kardeş
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
