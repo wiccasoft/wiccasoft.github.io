@@ -3,7 +3,11 @@
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
-<!-- https://www.uludagsozluk.com/e/42384660/ lol -->
+<!-- https://www.uludagsozluk.com/e/42384660/ lol 
+https://www.uludagsozluk.com/e/42389427/ lol
+https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/&w=gd lol
+https://eksisozluk.com/makatina-kompresorle-hava-basilan-genc--6240350?a=popular lol
+-->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
 
