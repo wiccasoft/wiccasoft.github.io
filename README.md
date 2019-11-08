@@ -6,7 +6,7 @@
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/42391717/ bkz reyiz yerini almış annenin cebin 5 parar attım velet
+https://www.uludagsozluk.com/e/42391717/ bkz annenin cebin 5 lira attım velet
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 -->
 
