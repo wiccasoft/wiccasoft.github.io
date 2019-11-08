@@ -14,7 +14,7 @@ bkz ciddi ciddi ezanın yoktan varolabileceğini sanmak
 bkz şaka maka rükuda domalmak
 bkz 10 kasım gelmeden rükuya eğilen atayızlar
 bkz kemalistlerle dincilerin ne işe yaradığı sorunsalı
-https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-atat%C3%BCrk-e-sald%C4%B1rmak/&w=bg beyler pozisyon alın buralar karışır
+https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-atat%C3%BCrk-e-sald%C4%B1rmak/&w=bg beyler vaziyet alın buralar karışır
 https://www.uludagsozluk.com/e/42391393/ bkz kıyamet namazı nedir abdulrezzak abüü
 https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz atam atam gah ta ben yatam
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz bu everen varolmuş olabilir mi
