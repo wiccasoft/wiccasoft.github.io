@@ -8,7 +8,7 @@
 bkz ben ferronun demet akalın şarkısını tersten dinleyince ben satanizmi yayıyom demesi
 bkz https://www.youtube.com/watch?v=Z7STDOVzQKQ ben fero demet akalın reverse
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bk lafa gelince tupac marley
-bkz küper taka erkeğin eşşeğin amına su kaçırması https://www.youtube.com/watch?v=aQRLSBUNupg
+bkz küper takan dövmeli erkeğin eşşeğin amına su kaçırması https://www.youtube.com/watch?v=aQRLSBUNupg
 https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?a=popular bkz atabok
 bkz 30 yaşında küpesi dövmesi metrobüs kartı olan erkek
 https://www.uludagsozluk.com/k/d%C3%B6vme-yapt%C4%B1r%C4%B1p-damgal%C4%B1-e%C5%9Fek-gibi-gezmek/&w=bg bkz sikildim dövmesi 
