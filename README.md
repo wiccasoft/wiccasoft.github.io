@@ -6,7 +6,7 @@
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet bkz 41 yaşında olmanın gururu eheheh-->
+https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet-->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
 
