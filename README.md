@@ -13,7 +13,7 @@ bkz durduk yere adamın amcığına koyan ezanlar sirenler vır vır vır vela v
 bkz ciddi ciddi ezanın yoktan varolabileceğini sanmak
 bkz şaka maka rükuda domalmak
 bkz 10 kasım gelmeden rükuya eğilen atayızlar
-bkz kemalistlerler dincilerin ne işe yaradığı sorunsalı
+bkz kemalistlerle dincilerin ne işe yaradığı sorunsalı
 https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz atam atam gah ta ben yatam
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz bu everen varolmuş olabilir mi
 https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg bkz ezan
