@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/babalar%C4%B1n-ak%C4%B1ll%C4%B1-telefonla-olan-im
 bkz mynet vs my news grabber
 bkz emre mor abinin yine yürümesi olayı
 bkz makatına hava basılan gencin götten soluması
+https://www.uludagsozluk.com/k/ali-palab%C4%B1y%C4%B1k/&w=bg bkz pala remzi
 https://www.uludagsozluk.com/k/ahmet-%C3%A7akar/&w=bg bkz ahmet göthe çakar
 bkz rtenni suriyenin kuzeyine girebilirm açıklaması
 bkz rtnin götüne kompresör sokulan genci ziyareti
