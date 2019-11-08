@@ -19,6 +19,7 @@ bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
 bkz mbayeyi dayıp ndayeyi mi alsak sorunsalı
 bkz rte nin geri vitesleri
 bkz rte nin kandil gecesi kandile girelim açıklaması
+bkz rte nin receğ şaban ramazan ayları kutsal demesi 
 bkz rte nin suriyeliler arap kardeşlerimiz açıklaması
 bkz rtenin kompresörle götüne hava sokulan genci ziyareti
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz vedat tersten saplar
