@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/tak%C4%B1m-elbisenin-alt%C4%B1na-spor-ayakkab%C4%
 https://www.uludagsozluk.com/k/babalar%C4%B1n-ak%C4%B1ll%C4%B1-telefonla-olan-imtihan%C4%B1/&w=bg bkz hangisine basıyoz
 bkz mynet vs my news grabber
 bkz emre mor abinin yine yürümesi olayı
+https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz ender gelişen osasuna atakları
 bkz makatına hava duhul edilen gencin yoğun bakımdan çıkması
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz siyaset hayatını makatıyle bitiren zat
 bkz makatına hava basılan gencin götten soluması
