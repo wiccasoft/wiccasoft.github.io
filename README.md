@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 [![Image](smartdata/new-shell.png)]( https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest )
 <!--https://www.uludagsozluk.com/k/ben-fero/ bkz ben feronun ben norm endere döşediği boru
-https://www.uludagsozluk.com/k/70-ya%C5%9F%C4%B1ndaki-haline-bir-%C5%9Fey-s%C3%B6yle/&w=gd bkz 90 yaşında hala norm ender dinlemek
+https://www.uludagsozluk.com/k/70-ya%C5%9F%C4%B1ndaki-haline-bir-%C5%9Fey-s%C3%B6yle/&w=gd bkz 70 yaşında hala norm ender dinlemek
 [![Image](smartdata/cradlestone.png)]( https://www.youtube.com/watch?v=GneeW4Wszw0 )
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
