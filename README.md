@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
+https://www.uludagsozluk.com/k/kas%C4%B1mpa%C5%9Fa-n%C4%B1n-sahadan-%C3%A7ekilmesi/ bkz koyduk mu
 https://www.uludagsozluk.com/k/8-kas%C4%B1m-2019-fb-ye-verilen-ikinci-penalt%C4%B1/ bkz akplilerin ses etmediği pen altı
 https://www.uludagsozluk.com/k/tak%C4%B1m-elbisenin-alt%C4%B1na-spor-ayakkab%C4%B1-giyen-mal/ bkz mal oğlu mal amk
 https://www.uludagsozluk.com/k/babalar%C4%B1n-ak%C4%B1ll%C4%B1-telefonla-olan-imtihan%C4%B1/&w=bg bkz hangisine basıyoz
