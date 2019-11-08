@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal m
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
 bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
+https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz uzak durulması gerken erkek burcu
 https://eksisozluk.com/bir-erkegi-fizigi-disinda-cekici-yapan-detaylar--6240220?a=popular bkz yine duşa soktunuz kardeş
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
 bkz fakir akplilerin sosyalizm düşmanlığı yaparken fakirlikten gebermeleri priceless..
