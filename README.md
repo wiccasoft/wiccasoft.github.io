@@ -12,6 +12,7 @@ https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bun
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
+https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 bkz kamışa su yürüyo mu denilen kürdün çıkartıp sallaması
 https://www.uludagsozluk.com/k/kam%C4%B1%C5%9Fl%C4%B1-da-t%C3%BCrk-askerini-ta%C5%9Flayan-k%C3%BCrtler/ bkz kamışa su akıyo
 bkz hoşlanılan kızın pilavlı zikire gelmedin mübarek demesi
