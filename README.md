@@ -15,6 +15,7 @@ https://www.cnnturk.com/turkiye/kompresor-ile-saka-olduruyordu  bkz türk şakal
 https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz mucize doktor dizisindeki liseli böcek suratlı ergen
 https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/
 bkz 8 kasım 2019 eski akitin beş dakikda emeğimize aktırdın eywallah kardeş paylaşımı
+bkz akp ye oy verip fakirlikten intihar edenler için üzülmemezi bekleyen ekşiciler
 https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz 4 dakkada aktım emeğine 
 bkz yeni akite para kazandıran ekşiciler
 https://eksisozluk.com/mbaye-diagne--5549098 bkz yine aktım emeğine kardeş
