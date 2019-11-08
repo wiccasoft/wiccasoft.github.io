@@ -17,6 +17,7 @@ bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/k/hasan-ayranc%C4%B1/ bkz hocana sokam
 https://www.uludagsozluk.com/k/seviyorum-diyip-terk-edenler/ bkz falcao
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz eywalla bilader senin için de top diyolar ama
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz sen ne diyon la değişik
 https://www.uludagsozluk.com/k/5-vakit-namaz-k%C4%B1l%C4%B1p-yolsuzluk-yapmak/ bkz yerde yuvarlanıp 1 koyup beş almak
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=gd bkz fakir falcaosu 
