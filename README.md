@@ -5,6 +5,8 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42389427/ lol
+https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz yoksa ben zurnamıyım hee
+https://eksisozluk.com/tek-dunya-devleti--3275889
 https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/&w=gd lol
 https://eksisozluk.com/makatina-kompresorle-hava-basilan-genc--6240350?a=popular lol
 -->
