@@ -18,6 +18,7 @@ bkz kompresörle şaka amaçlı arkadaşının götüne hava basan gencin dramı
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
 bkz mbayeyi dayıp ndayeyi mi alsak sorunsalı
 bkz rte nin geri vitesleri
+https://www.uludagsozluk.com/k/allah-%C4%B1n-ateist-olmas%C4%B1/&w=bg bkz allahın ben atayız ım açıklaması
 bkz rte nin suriyeliler arap kardeşlerimiz açıklaması
 bkz rtenin kompresörle götüne hava sokulan genci ziyareti
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz vedat tersten saplar
