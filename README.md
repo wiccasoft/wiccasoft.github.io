@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
 bkz izmirli babların gavat olması
 bkz kızına bekaret kemeri almayan gavat baba
+bkz gaziantepte sevgilisinni tecazvüzüne uğrayan genç https://www.google.com.tr/search?q=h%C3%BCrriyet+tecav%C3%BCz&sxsrf=ACYBGNQCoJXLouTsZWNMi9d-Cx02uW3xjw:1573231523225&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjmjN2QiNvlAhV75KYKHXjCByIQ_AUIFCgD&biw=1102&bih=763
 https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ (bkz evlat olsa sevilmez)
 bkz kızına her yıl bekaret kontrolü yapan baba seksiliği (bkz 17 entry 1 dkda)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
