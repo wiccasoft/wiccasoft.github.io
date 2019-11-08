@@ -5,52 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
-<!-- https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
-https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz 150 db lik temel
-https://www.uludagsozluk.com/e/42391188/ bkz hayaaale feleeeeeğğğğğğğğ dinimiz amin
-https://www.uludagsozluk.com/k/tanr%C4%B1n%C4%B1n-an-itibariyle-ne-yapt%C4%B1%C4%9F%C4%B1-sorunsal%C4%B1/ bkz ananyanımda
-https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-atat%C3%BCrk-e-sald%C4%B1rmak/&w=bg beyler vaziyet alın buralar karışır
-https://www.uludagsozluk.com/e/42391393/ bkz kıyamet namazı nedir abdulrezzak abüü
-https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz atam atam gah ta ben yatam
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz bu everen varolmuş olabilir mi
-https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg bkz ezan
-https://www.uludagsozluk.com/k/k%C3%BCresel-isyan-b%C3%BCy%C3%BCyor/ bkz ezan susmaz vatan bölünmez
-https://www.uludagsozluk.com/k/siyasal-islam/&w=bg bkz siysal islam nedir yarrak kafalı islam siyasaldır zaten
-https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz ezanını götüne sokayım minareylen
-https://www.uludagsozluk.com/k/sevgiliyi-kuca%C4%9Fa-oturtup-sa%C3%A7lar%C4%B1n%C4%B1-koklamak/ bkz iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg bkz adamın emcüğünü siker
-https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi/&w=bg lol
-https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
-https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
-https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
-https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal modlarına dönmesi
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
-https://www.uludagsozluk.com/k/bir-imamo%C4%9Flu-yalan%C4%B1-b%C4%B1rak/ bkz geceye bir yalanişko bırak
-bkz imamoğlu yabraklar beni alkışlıyo açıklaması
-https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
-https://www.uludagsozluk.com/e/2996591/ bkz bunu reserve alalım yalanır olm bu
-https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg bkz yalanır olm bu
-https://www.uludagsozluk.com/k/o%C4%9Flak-burcu-erke%C4%9Fi/&w=bg bkz tam yalacak erkek burcu
-https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz adamın hammadesi erkek
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz hadi atayızlar cevap verin
-https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz vay amg ne mücadele ediyler
-https://www.uludagsozluk.com/k/elimde-goruntulerin-var-a-k%C3%BCfretmek/ bkz neler dönmüş bilocan yahu
-https://www.uludagsozluk.com/k/o%C4%9Flak-burcu-erke%C4%9Fi/&w=bg bkz emcüklenesi yaladığını tükürmeyen erkekler
-https://www.uludagsozluk.com/e/30500841/ bkz vay amk 94 doğumlu çocum yaşımdaymış maşşalah yalanır bu yahu
-https://www.uludagsozluk.com/k/araplar-adam-m%C4%B1d%C4%B1r/&w=bg bkz içecen şarabı sikecen arabı
-https://www.uludagsozluk.com/k/ciddi-ciddi-ay%C4%B1n-ikiye-b%C3%B6l%C3%BCnd%C3%BC%C4%9F%C3%BCne-inanmak/&w=bg bkz şaka maka
-https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg bkz masallah kasıklarına kuvvet
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz cevab veremedi
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz bilader senin için de top diyolar ama
-https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz sen ne diyon la değişik
-https://www.uludagsozluk.com/k/vedat-muriqi/&w=gd bkz fakir falcaosu 
-https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz uzak durulması gerken erkek burcu
-https://eksisozluk.com/bir-erkegi-fizigi-disinda-cekici-yapan-detaylar--6240220?a=popular bkz yine duşa soktunuz kardeş
-https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
-bkz fakir akplilerin sosyalizm düşmanlığı yaparken fakirlikten gebermeleri priceless..
-bkz makatına hava basılan gencin chpli çıkması
--->
+<!-- -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
 
