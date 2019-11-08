@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
 bkz hoşlanılan kızın pilavlı zikire çağırması
 bkz gay oldum denilen kızın göte deliğine hava basması
+bkz hoşlaşılan cinconlunun götünü parmaklamak
 https://www.uludagsozluk.com/e/42390343/ bkz kız baha yamuk amk çorbayu yedük çay da koy kız
 bkz hoşlanılan kızın zikirden sonra maça bilet aldım sana demesi
 bkz göt deliğim kanıyo denilen kızın pansuman yapmaıs
