@@ -14,6 +14,7 @@ bkz kompresörle makattan havasını alan genç
 https://www.uludagsozluk.com/k/sevgilisinin-ayaklar%C4%B1na-oje-s%C3%BCren-adam/&w=bg bkz duman solisti
 https://www.cnnturk.com/turkiye/kompresor-ile-saka-olduruyordu  bkz türk şakaları
 bkz mynet vs google
+https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg bkz mucize doktor dizisindeki liseli böcek suratlı ergen
 https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/
 https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz 4 dakkada aktım emeğine
 https://eksisozluk.com/mbaye-diagne--5549098 bkz yine aktım emeğine kardeş
