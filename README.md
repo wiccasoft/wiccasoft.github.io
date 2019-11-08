@@ -14,6 +14,7 @@ bkz mynet vs my news grabber
 bkz kızına her yıl bekaret kontrolü yapan baba seksiliği
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
 bkz diyarbakırda götünün amcaoğullarına siktiren baba
+bkz rece tayyi erdogan vs mynet
 bkz haftasonu mynet haberlerinin kalitesinin düşmesi
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz fatihli akpli kardeşler
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/&w=gd bkz mynet
