@@ -6,7 +6,8 @@
 <!--
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bk lafa gelince tupac marley
 https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?a=popular bkz atabok
-https://eksisozluk.com/kupe-takan-erkek--2368258?a=popular bkz vurduruyorum küpesi takan ılık erkek
+https://www.uludagsozluk.com/k/d%C3%B6vme-yapt%C4%B1r%C4%B1p-damgal%C4%B1-e%C5%9Fek-gibi-gezmek/&w=bg bkz sikildim dövmesi 
+https://eksisozluk.com/kupe-takan-erkek--2368258?a=popular bkz vurduruyorum küpesi takan erkek
 https://www.uludagsozluk.com/k/ben-fero/ bkz ben feronun ben norm endere döşediği boru
 https://www.uludagsozluk.com/k/70-ya%C5%9F%C4%B1ndaki-haline-bir-%C5%9Fey-s%C3%B6yle/&w=gd sizin tayfa biç bizim tayfa riç
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz lafa gelince tupac marley
