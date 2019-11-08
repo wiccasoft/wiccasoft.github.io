@@ -12,6 +12,7 @@ https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bun
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal modlarına dönmesi
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
 bkz fakir akplilerin sosyalizm düşmanlığı yaparken fakirlikten gebermeleri priceless..
