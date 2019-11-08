@@ -13,7 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
-https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
+https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay darısı diğer akplilere
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz rte diye yazılır adam diye okunur
 bkz fatih te geberen 4 yaratığın akpli atayız olması 
 bkz akpli atayızların yavaş yavaş gebermesiyle başlayan süreç
