@@ -8,10 +8,11 @@
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391717/ bkz reyiz yerini almış 
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
-bkz vedat mürüqünü dil çıkaran suratı 
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg 
 bkz erkek kendiliğinden var olabilir mi
-bkz madem allah yok niye inkar ediyosunuz-->
+bkz madem allah yok niye inkar ediyosunuz
+bkz madem allah yok camileri kim yaptı 
+bkz cevab verenmediler demek ki allah var-->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
