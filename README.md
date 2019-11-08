@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/k/bir-imamo%C4%9Flu-yalan%C4%B1-b%C4%B1rak/ bkz gec
 bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/e/2996591/ bkz bunu reserve alalım yalanır olm bu
+https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg bkz yalanır olm bu
 https://www.uludagsozluk.com/k/o%C4%9Flak-burcu-erke%C4%9Fi/&w=bg bkz tam yalacak erkek burcu
 https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz adamın hammadesi erkek
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz hadi atayızlar cevap verin
