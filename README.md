@@ -15,8 +15,7 @@ bkz mynet ten götüne pompa sokan baba haberi aramak
 bkz kızına her yıl bekaret kontrolü yapan baba seksiliği
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
 bkz kızına kızlık zarı diktiren babanın show tv ye çıkması
-bkz meynetteki kızını kızlık zarını diktiren baba haberi
-bkz mynet haber linkini deep webte paylaşmak
+bkz mynet babalı haber linkini deep webte paylaşmak
 bkz recep tayyip erdoğan vs google
 bkz fatih sultan mehmet mahallesindeki 4 kardeş
 bkz rece tayyi erdoğan vs yandex
