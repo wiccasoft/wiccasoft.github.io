@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42390501/ bkz yanalcılarla terimcilerin normal m
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz nerde kalmıştık
 bkz imamoğlu yabraklar beni alkışlıyo açıklaması
 https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
+https://www.uludagsozluk.com/e/42391188/ bkz sen ne diyon la değişik
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=gd bkz fakir falcaosu 
 bkz uzak durulması gerken liberolar
 https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz uzak durulması gerken erkek burcu
