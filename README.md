@@ -15,6 +15,7 @@ bkz mynet ten götüne pompa sokan baba haberi aramak
 bkz mynet haber linkini deep webte paylaşmak
 bkz recep tayyip erdoğan vs google
 bkz fatih sultan mehmet mahallesindeki 4 kardeş
+bkz rece tayyi erdoğan vs yandex
 bkz diyarbakırda götünün amcaoğullarına siktiren baba
 bkz haftasonu mynet haberlerinin kalitesinin düşmesi
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz fatihli akpli kardeşler
