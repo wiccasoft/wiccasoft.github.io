@@ -12,6 +12,7 @@ https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bun
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 bkz hoşalnılan kızın pilavlı zikire çağırması
+bkz tayyip erdoğan dan tokat gibi sert eleştiri
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-kandil-mesaj%C4%B1-atmas%C4%B1/&w=bg bkz rtedir o
 https://www.uludagsozluk.com/k/kas%C4%B1mpa%C5%9Fal%C4%B1-recep/&w=bg bkz kasımpaşa altyapının gözde santraforu
 https://www.uludagsozluk.com/k/vedat-muriqi-koyduk%C3%A7a-galatasarayl%C4%B1lar%C4%B1n-a%C4%9Flamas%C4%B1/ bkz koyduk mu
