@@ -13,6 +13,7 @@ https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
 bkz fatih te akp ye oy verip intihar eden 4 kardeş le başlayan süreç
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg
+https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz ay canım kıyamam ya akplimiydiler
 https://www.uludagsozluk.com/k/8-kas%C4%B1m-2019-vedat-muriqi-nin-aya%C4%9F%C4%B1n%C4%B1n-k%C4%B1r%C4%B1lmas%C4%B1/ 
 bkz ay canım kıyamam yaaaaaaaaaa
 https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7/&w=bg bkz öyk laikçi kızları çıldırtan yazar evet
