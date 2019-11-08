@@ -22,8 +22,7 @@ https://www.uludagsozluk.com/k/himmet%C3%A7iler-kuduruyor/ bkz hoşlaşılan fbl
 bkz gay oldum denilen kızın göte deliğine hava basması
 bkz hoşlaşılan cinconlunun götünü parmaklamak
 https://www.uludagsozluk.com/e/42390343/ bkz kız baha yamuk amk çorbayu yedük çay da koy kız
-bkz hoşlanılan kızın zikirden sonra maça bilet aldım sana demesi
-bkz göt deliğim kanıyo denilen kızın pansuman yapmaıs
+bkz göt deliğimden nefes alıyom denilen kızın pansuman yapması
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz fakir falcaosu
 https://www.uludagsozluk.com/k/penalt%C4%B1bah%C3%A7e/&w=bg bkz altır sayar üstü madrid bahçe
 https://www.uludagsozluk.com/k/himmetbah%C3%A7e-spor-kul%C3%BCb%C3%BC/ bkz himmet abinin takımı
