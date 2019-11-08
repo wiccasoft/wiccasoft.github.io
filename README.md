@@ -15,6 +15,7 @@ bkz madem allah yok camileri kim yaptı?
 bkz cevab veremediler demek ki allah var
 bkz denize allah mı düşse kurtarırsın muhammed mi
 https://www.uludagsozluk.com/e/42391733/ bkz annenin cebine 5 lira siliştirdim veledi zina 
+https://www.uludagsozluk.com/e/42391717/ bkz tipine sokim orospunu sıçtığı
 https://www.uludagsozluk.com/k/hi%C3%A7-gelmeyecek-birisini-beklemek/&w=bg bkz sözlükte takılan tipler
 -->
 
