@@ -13,7 +13,8 @@ bkz erkek kendiliğinden var olabilir mi
 bkz madem allah yok niye inkar ediyosunuz
 bkz madem allah yok camileri kim yaptı?
 bkz cevab veremediler demek ki allah var
-bkz denize allah mı düşse kurtarırsın muhammed mi-->
+bkz denize allah mı düşse kurtarırsın muhammed mi
+bkz hoşlanılmayan oğlanın cebinwe vedat mürükünün dilini atmak-->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
