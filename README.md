@@ -17,6 +17,7 @@ bkz kompresörle şaka amaçlı arkadaşının götüne hava basan gencin dramı
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
 bkz mbayeyi dayıp ndayeyi mi alsak sorunsalı
 bkz rte nin geri vitesleri
+bkz rtenin kompresörle götüne hava sokulan genci ziyareti
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz vedat tersten saplar
 bkz vedat mürükünün sol bekte oynamsı gerekliliği gerçeği
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-suriyeliler-konusundaki-%C3%A7ark%C4%B1/ bkz rte geri vitesi
