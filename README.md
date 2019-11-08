@@ -12,7 +12,7 @@ https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bun
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 https://www.uludagsozluk.com/e/42390319/ bkz benim olan akıllı o öğretiy
 https://www.uludagsozluk.com/e/42390501/ bkz lol
-bkz hoşlanılan kızın pilavlı zikire çağırması
+bkz hoşlanılan kızın pilavlı zikire gelmedin mübarek demesi
 bkz 8 kasım 2019 gs liler fblilerin özlerine dönmesi 
 https://www.uludagsozluk.com/k/futboldan-penalt%C4%B1-kald%C4%B1r%C4%B1lsa-olacaklar/&w=bg
 https://www.uludagsozluk.com/k/hedef-bir-milyon-penalti/
