@@ -11,6 +11,7 @@ https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bun
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz 8 kasım 2019 eski akitin beş kardeş haberi
 bkz kompresörle makattan havasını alan genç
+https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ bkz cık cık cık
 https://www.uludagsozluk.com/k/sevgilisinin-ayaklar%C4%B1na-oje-s%C3%BCren-adam/&w=bg bkz duman solisti
 https://www.cnnturk.com/turkiye/kompresor-ile-saka-olduruyordu  bkz türk şakaları
 bkz mynet vs google
