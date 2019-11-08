@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/e/2996591/ bkz bunu reserve alalım yalanır olm bu
 https://www.uludagsozluk.com/k/o%C4%9Flak-burcu-erke%C4%9Fi/&w=bg bkz tam yalacak erkek burcu
 https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz adamın hammadesi erkek
+https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz hadi atayızlar cevap verin
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz vay amg ne mücadele ediyler
 https://www.uludagsozluk.com/k/elimde-goruntulerin-var-a-k%C3%BCfretmek/ bkz neler dönmüş bilocan yahu
 https://www.uludagsozluk.com/k/o%C4%9Flak-burcu-erke%C4%9Fi/&w=bg bkz emcüklenesi yaladığını tükürmeyen erkekler
