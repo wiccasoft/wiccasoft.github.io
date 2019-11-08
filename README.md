@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
+bkz meyneti siklemeyecek kadar rahat olmak
 bkz kompresörle şaka amaçlı arkadaşının götüne hava basan türk
 bkz fatihte 4 kardeşin akp ye oy verip intihar etmesi
 https://eksisozluk.com/8-kasim-2019-yeni-akitin-4-kardes-haberi--6240648?a=popular bkz 4 dakkada aktım emeğine 
