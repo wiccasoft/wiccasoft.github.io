@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/k/ba%C5%9Fak-burcu-erke%C4%9Fi/&w=bg bkz adamın ha
 https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg bkz vay amg ne mücadele ediyler
 https://www.uludagsozluk.com/k/elimde-goruntulerin-var-a-k%C3%BCfretmek/ bkz neler dönmüş bilocan yahu
 https://www.uludagsozluk.com/k/o%C4%9Flak-burcu-erke%C4%9Fi/&w=bg bkz emcüklenesi yaladığını tükürmeyen erkekler
-https://www.uludagsozluk.com/e/30500841/ bkz hay maşşalah 94 doğumlu çocum yaşımdaymış maşşalah yalanır bu yahu
+https://www.uludagsozluk.com/e/30500841/ bkz vay amk 94 doğumlu çocum yaşımdaymış maşşalah yalanır bu yahu
 https://www.uludagsozluk.com/k/araplar-adam-m%C4%B1d%C4%B1r/&w=bg bkz içecen şarabı sikecen arabı
 https://www.uludagsozluk.com/k/ciddi-ciddi-ay%C4%B1n-ikiye-b%C3%B6l%C3%BCnd%C3%BC%C4%9F%C3%BCne-inanmak/&w=bg bkz şaka maka
 https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg bkz masallah kasıklarına kuvvet
