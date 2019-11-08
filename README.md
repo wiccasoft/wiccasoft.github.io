@@ -9,11 +9,6 @@
 https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
 https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ bkz 150 db lik temel
 https://www.uludagsozluk.com/e/42391188/ bkz hayaaale feleeeeeğğğğğğğğ dinimiz amin
-bkz durduk yere adamın amcığına koyan ezanlar sirenler vır vır vır vela vela vela
-bkz ciddi ciddi ezanın yoktan varolabileceğini sanmak
-bkz şaka maka rükuda domalmak
-bkz 10 kasım gelmeden rükuya eğilen atayızlar
-bkz kemalistlerle dincilerin ne işe yaradığı sorunsalı
 https://www.uludagsozluk.com/k/tanr%C4%B1n%C4%B1n-an-itibariyle-ne-yapt%C4%B1%C4%9F%C4%B1-sorunsal%C4%B1/ bkz ananyanımda
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-atat%C3%BCrk-e-sald%C4%B1rmak/&w=bg beyler vaziyet alın buralar karışır
 https://www.uludagsozluk.com/e/42391393/ bkz kıyamet namazı nedir abdulrezzak abüü
