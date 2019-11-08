@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-kad%C4%B1n-iticili%C4%9Fi
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 bkz mynet vs my news grabber
+https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7/&w=bg bkz sweet mandarine nin öyk dediği tipler
 https://www.uludagsozluk.com/k/uyuyan-babas%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-evlat/ bkz cık cık cık
 https://www.cnnturk.com/turkiye/kompresor-ile-saka-olduruyordu  bkz türk şakaları
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1-%C3%BCnl%C3%BCler/&w=bg bkz geneli fetöcü olan tipler
