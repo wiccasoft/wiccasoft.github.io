@@ -16,6 +16,7 @@ bkz kamışa su yürüyo mu denilen kürdün çıkartıp sallaması
 https://www.uludagsozluk.com/k/kam%C4%B1%C5%9Fl%C4%B1-da-t%C3%BCrk-askerini-ta%C5%9Flayan-k%C3%BCrtler/ bkz kamışa su akıyo
 bkz hoşlanılan kızın pilavlı zikire gelmedin mübarek demesi
 bkz 8 kasım 2019 gs liler fblilerin özlerine dönmesi 
+bkz hoşlaşılmayan gslilinin hoşlaşılmayan fb liyle flört etmesi olayı
 https://www.uludagsozluk.com/k/futboldan-penalt%C4%B1-kald%C4%B1r%C4%B1lsa-olacaklar/&w=bg
 https://www.uludagsozluk.com/k/hedef-bir-milyon-penalti/
 https://www.uludagsozluk.com/k/%C3%A7o%C4%9Fu-fenerbah%C3%A7elinin-ele%C5%9Ftiriye-tahamm%C3%BCls%C3%BCz-olmas%C4%B1/
