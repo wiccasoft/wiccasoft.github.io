@@ -5,6 +5,7 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
+<!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
 
 [![Image](smartdata/golden-pass.png)]( https://www.theguardian.com/world/2019/nov/06/cyprus-to-strip-26-golden-passports-given-to-investors )
 <!-- https://www.ft.com/content/5c80c6b4-00b6-11ea-b7bc-f3fa4e77dd47-->
