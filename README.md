@@ -5,7 +5,7 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42389427/ lol
-https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 22 yaş bunalımı geçirirler
+https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 28 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
 -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
