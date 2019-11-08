@@ -16,7 +16,6 @@ https://www.uludagsozluk.com/k/rte-bir-zihniyettir/ bkz rteizm
 https://www.uludagsozluk.com/k/fatihte-4-karde%C5%9Fin-toplu-intihar-etmesi/&w=bg bkz süper olay gerisi diğer akplilere
 bkz fakir akplilerin sosyalizm düşmanlığı yaparken fakirlikten gebermeleri priceless..
 bkz makatına hava basılan gencin chpli çıkması
-https://www.uludagsozluk.com/k/ersin-korkut-vs-halil-s%C3%B6yletmez/ bkz enes abinin alacağı versus
 -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
