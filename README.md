@@ -14,6 +14,7 @@ bkz mynet vs my news grabber
 bkz kızına her yıl bekaret kontrolü yapan baba seksiliği (bkz 17 entry 1 dkda)
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1na-her-y%C4%B1l-bekaret-kontrol%C3%BC-yapt%C4%B1ran-baba/ 
 bkz kızımın bekaretini bozdurmam diyen baba
+https://www.uludagsozluk.com/k/izmirli-baba/&w=bg bkz gavat
 bkz türklerin 3. sayfa haberlerini dahaç ok sevmesi durumu
 bkz kompresörle arkadaşının götüne hava basan genç
 bkz diyarbakırda götünün amcaoğullarına siktiren baba
