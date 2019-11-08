@@ -2,6 +2,8 @@
 <!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
 <!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
+[![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
+
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42389427/ lol
