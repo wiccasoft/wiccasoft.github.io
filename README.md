@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 [![Image](smartdata/new-shell.png)]( https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest )
 <!--
+bkz ben ferocuların ben norm endercileri kıskanması
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bk lafa gelince tupac marley
 https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?a=popular bkz atabok
 bkz 30 yaşında küpesi dövmesi metrobüs kartı olan erkek
