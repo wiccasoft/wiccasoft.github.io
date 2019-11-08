@@ -7,8 +7,6 @@
 https://www.uludagsozluk.com/e/42389427/ lol
 https://eksisozluk.com/zurnayi-bilmeyen-nesil--3995730?a=popular bkz 22 yaş bunalımı geçirirler
 https://eksisozluk.com/tek-dunya-devleti--3275889 bkz yoksa ben zurnamıyım hee
-https://www.uludagsozluk.com/k/kompres%C3%B6rle-makat%C4%B1na-hava-bas%C4%B1lan-gen%C3%A7/&w=gd lol
-https://eksisozluk.com/makatina-kompresorle-hava-basilan-genc--6240350?a=popular lol
 -->
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
