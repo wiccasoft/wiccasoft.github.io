@@ -16,8 +16,7 @@ bkz karşıdan kız gelirken önündeki erkeğin götüne bakan erkek
 bkz sevdiceğinin yüreeğin e aşk sokan erkek
 bkz bir erkeği çekici yapan detaylar bkz erkek olması
 bkz imamaoğlu mu daha seksi tayyip mi
-bkz tayyip mi göt istese versis in imamoğlan mı
-bkz tayyip götünü sikse ses ewder misin sorunsalı
+bkz tayyip mi götünü sikse zevk alırsın imamaoğlan mı sorunsalı
 bkz imamaoğlu vs tayyip
 https://www.uludagsozluk.com/k/erkeklerin-yalan-s%C3%B6yledi%C4%9Fi-anlar/&w=bg bkz erkeklerin şapşik olması
 https://www.uludagsozluk.com/k/erke%C4%9Fe-alt%C4%B1n-semer-vursan-erkek-yine-erkektir/&w=bg bkz erkek milleti
