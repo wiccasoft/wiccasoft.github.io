@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
-bkz tayyip erdoganla bir gece seks yapmayı reddeden  koca yarraklı at
+bkz tayyip erdoganla bir gece seks yapmayı reddeden vadan hayını at
 https://www.uludagsozluk.com/k/tayyip-i-s%C4%B1rt%C4%B1ndan-atan-at/&w=bg bkz vadan hayını at
 https://www.uludagsozluk.com/k/t%C3%BCrk-z%C4%B1rhl%C4%B1s%C4%B1na-ta%C5%9F-atan-maymunun-ezilme-an%C4%B1/
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz başka erkeğe vurduruyordur
