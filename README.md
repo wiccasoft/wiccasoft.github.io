@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/e/42395480/ bkz tatlı olgun orospuların çocuklar
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/  bkz karimanın oğlu vs orospunun oğlu
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz 3 isimli iki orospu
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
-bkz kemalistler türk önde türk ileri dinlerken annelerinni bir ileri bir geri dağıtması olayı
+bkz kemalistler türk önde türk ileri dinlerken annelerinin bir ileri bir geri dağıtması olayı
 bkz kemalistlerin annesini fethederken dinlenecek şarkılar
 bkz 10 kasımı kemalist seksi bir anneyle sevişerek kutlamak
 bkz kemalist oğlanlsr hhakkında entry girerken annelerinin sarhoş olması olayı
