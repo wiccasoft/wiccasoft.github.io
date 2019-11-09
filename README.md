@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bk
 https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg 
 bkz zall bana hep orospu deri gözüne kestiren erkek
 bkz zalla bana hep maymun deri zırhsız sikmek vs zırhın içinde sikmek 
+bkz serkan inciyle zallı döverken zall bana hep oç derin araya girmesi
 bkz zall bana hep orospu derin korkudan zırhdan çıkamaması olayı
 bkz zall bana hep orospu çocuğu deri zırhın içne sokup orada sikmek
 bkz zall bana hep orospu der seni bulup karım yapacam olm zall dedinilen ibne de kurtaramaz seni
