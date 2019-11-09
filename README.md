@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393130/ bkz top
 https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boşalmak
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
+https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/
 https://www.uludagsozluk.com/k/9-kas%C4%B1m-2019-%C3%A7-rize-antalyaspor-ma%C3%A7%C4%B1/ bkz rizeye doğan güneş
 bkz türk maymunuyla seks yapmak istemeyen rus ayısı
 https://www.uludagsozluk.com/k/elin-%C3%A7%C3%BCk%C3%BCn%C3%BC-g%C3%B6rmeyen-kendininkini-keser-sap%C4%B1-sanar/
