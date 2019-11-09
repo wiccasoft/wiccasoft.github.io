@@ -8,33 +8,6 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
-https://www.uludagsozluk.com/e/30500841/ bkz medem elleh yök vedat müqüyü kim yarattı 
-https://www.uludagsozluk.com/e/42391180/ bkz medem elleh yök nasık objektif oluyok
-https://www.uludagsozluk.com/e/42391717/ bkz yalanır bunlar
-https://www.uludagsozluk.com/k/karabasan/&w=bg bkz madem elleh yök nası karabasan oliy
-bkz ellek yökse niye nabiyodur diye ellehe emenet ol deyik 
-bkz elleh yökse niye şah damarımdan yakinim saha diyiy
-bkz medem ellek yök depremler niye öliy demekiki şirk işliniz oliy
-bkz medem ellek yok arılar nası yuvalarını altıgen yepiy
-bkz medem ellek yök niye inkar ediyonuz bkz kapakin ellehi
-https://www.uludagsozluk.com/k/a%C4%9Flatan-%C5%9Fark%C4%B1lar/&w=bg bkz melöyu hangi taküm eldü kimler emcüklüy melöyü
-bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
-https://www.uludagsozluk.com/k/friedrich-wilhelm-nietzsche/&w=bg bkz madem elleh yök niye dens eden elleh ariyosun
-https://www.uludagsozluk.com/k/tanr%C4%B1n%C4%B1n-an-itibariyle-ne-yapt%C4%B1%C4%9F%C4%B1-sorunsal%C4%B1/ bkz 31 çekiyodur
-https://www.uludagsozluk.com/k/s%C3%BCrekli-ateistlerin-sata%C5%9Fmas%C4%B1/ bkz namaz kılarken üstüme işediler
-bkz medem elleh yök nasıl güneş nası doğuyu heeee ba ba ba apıştı kaldı atayık
-bkz madem elleh yök camiler niye ezan çalıyi ellek ekbek diye 
-bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
-bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
-nkz elleh yökse vedat mürüqü nasıl dil çıkarıyo len emq
-bkz ateyizleri göt ettiğim sorular
-https://www.uludagsozluk.com/k/friedrich-wilhelm-nietzsche/&w=bg bkz ateyızların ellehi densçi sanması
-bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq 
-https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
-https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
-https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
-https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz ne güzeldir kabe yolları
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
