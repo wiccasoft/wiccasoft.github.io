@@ -10,7 +10,6 @@ https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-er
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
 bkz kemalist olgun kadınla sevişmenin hazzı 
 bkz tek dünya devletini kurup sınırsızca bütün ülkelerin olgun kadınlarıyla sevişmek
-bkz kırk yaşından küçük kadına asılacak kadar midesiz olmak
 -->
 
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
