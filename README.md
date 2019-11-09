@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan vele
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok dünya niye dönüyor
 https://www.uludagsozluk.com/k/fatih-bulut-un-d%C3%BC%C4%9F%C3%BCnde-havaya-11-el-ate%C5%9F-etmesi/&w=gd bkz fatih bulut kim
 amk
-https://www.uludagsozluk.com/k/dilek-%C3%B6calan/&w=bg bkz öc aldım mı tam alırım
+https://www.uludagsozluk.com/k/dilek-%C3%B6calan/&w=bg bkz öcalan öcünüalan
 https://www.uludagsozluk.com/k/popstar-bayhan/&w=bg bkz bayhan baymahan
 -->
 
