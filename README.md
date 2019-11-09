@@ -9,8 +9,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
-bkz vedat mürüqü 50 milyun yürü len amq
-bkz medem elleh yök niye  vedat mürüqü elli mülyün yürü len emq
+bkz medem elleh yök niye vedat mürüqü elli mülyün yürü len emq
 bkz medem elleh yök niye depremler öliy
 bkz elleh yökse fatih bulut nası ateş ediy buluta loo
 bkz ateyizleri göt ettiğim sorular
