@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
-bkz vedat mürüqüyle bir gece vs mbaye dyagne ile bir gece nick altın cinsel ilişki teklif etmeyin
+bkz vedat mürüqüyle bir gece vs mbaye dyagne ile bir gece nick altın cinsel ilişki teklif etmeyin erkek değilim
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz vurduruyordur
 https://www.uludagsozluk.com/k/evlat-katili-baba/ bkz babuşko değil hayinişko
 bkz kız babası erkek seksiliği vs oğlan çocuğu olan baba seksiliği
