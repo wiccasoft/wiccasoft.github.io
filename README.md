@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
-[![Image](smartdata/madame-x)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
+[![Image](smartdata/madame-x.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 
 
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
