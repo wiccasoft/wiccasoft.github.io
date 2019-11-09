@@ -9,6 +9,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz vedat mürüqü 50 milyun yürü len amq
+bkz medem elleh yök niye depremler öliy
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
