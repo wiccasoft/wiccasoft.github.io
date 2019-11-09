@@ -8,7 +8,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok nasıl dünya dönüyor
+https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok dünya niye dönüyor
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
