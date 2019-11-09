@@ -11,6 +11,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
+https://www.uludagsozluk.com/e/42393364/ bkz teme atmama töreni ahahahahahahahahah
 https://www.uludagsozluk.com/e/42393309/ bkz gecelerime güneş gini doğan karizma oğlu
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-maskesinin-d%C3%BC%C5%9Fmesi/ bkznodli renci soldi imam ogli
