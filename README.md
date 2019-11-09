@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz anca deep webte başlık açın ibneler sürüsü
+https://www.uludagsozluk.com/k/2019-da-hala-seks-yapan-insan/ bkz başlık açarak hayatını geçiren geren
 bkz atatürkünüze de götten girerim imamaoğlanınızada türk maymunları sizi
 bkz amk götten bacaklı veledleri sizi yakarlarsam fena sikerim adres verin götünüz yiyosa amk ibneleri
 bkz aniden gelen uludaki ibneleri babalarının yanında dövüp sikme isteği ibnenin evlatları sizi yakalarsam sikerim
