@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393130/ bkz top
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizma oğlu karizma
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-k%C3%BCt%C3%BCphane-m%C3%BCd%C3%BCr%C3%BCn%C3%BC-g%C3%B6revden-almas%C4%B1/
+https://www.uludagsozluk.com/k/rte-nin-%C4%B1n-imamo%C4%9Flu-yenilgisini-hazmedememesi/&w=bg
 https://www.uludagsozluk.com/k/sevgilisine-hediye-olarak-a%C5%9Fk-veren-erkek/&w=bg bkz sevdiceğine aşk sokan erkek
 https://www.uludagsozluk.com/k/sel%C3%A7uk-azmano%C4%9Flu/ bkz ayol bu azman oğlu yer bizi kızlar
 https://www.uludagsozluk.com/e/42393364/ bkz temel atmama töreni ahahahahahahahahah
