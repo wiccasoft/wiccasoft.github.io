@@ -8,7 +8,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
-bkz kemalist olgun kadınla sevişmenin hazzı 
+bkz olgun kadınla sevişmenin hazzı 
 bkz tek dünya devletini kurup sınırsızca bütün ülkelerin olgun kadınlarıyla sevişmek
 -->
 
