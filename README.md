@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
 bkz türk maymunuyla seks yapmak istemeyen rus ayısı
+https://www.uludagsozluk.com/k/elin-%C3%A7%C3%BCk%C3%BCn%C3%BC-g%C3%B6rmeyen-kendininkini-keser-sap%C4%B1-sanar/
 bkz madem allah var niye türk maymunları evrilmiyor
 bkz vedat mürüqüyle bir gece vs mbaye dyagneyle bir gece
 bkz türk maymunun cinsel ilişki teklifini reddeden erkek
