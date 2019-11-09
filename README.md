@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boş
 bkz noldu mustafa camalın askerleri götünüz mü yemiyo
 bkz m kamalın askerlerini döve döve sikmek
 bkz m kamalın askerleri noldi renciniz soldi yarrağı görünce
+bkz türk zırlıhısında zall bana hep oç  deri sikmek
 bkz orospu çocuklarına inat recep tayyip erdoğanın askerleriyiz
 https://www.uludagsozluk.com/k/mustafa-kemal-in-askerleriyiz/&w=bg bkz oç nin askerleri
 https://www.uludagsozluk.com/k/mustafa-kemal-in-askerleriyiz/&w=bg bkz bay kamalın askeleri
