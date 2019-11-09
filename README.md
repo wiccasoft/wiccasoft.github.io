@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ bkz primcibaşı
+https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya/&w=bg bkz atatürke benzeyen adam
 https://www.youtube.com/watch?v=TWIET1Ehz_Y binali yıldırma benzeyen adam
 https://www.youtube.com/watch?v=A44Z1ZCSwTo flüt
 (atacüceye benzeyen adam vs binaliye benzeyen adam)
