@@ -9,6 +9,8 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
+https://www.youtube.com/watch?v=PAlwP6oeJpA Ankara İstanbul Çok Hoştur. Ama banane
+
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
