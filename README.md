@@ -10,7 +10,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz tv8 in 8 yan yatırmamaması terbiyesizliği
-bkz imamoğlanın ibb logosunu yan yatırıp i-8 isikli sekiz yolumuz pozu
+bkz imamoğlanın ibb logosunu yan yatırıp yaşasın i-8 isikli sekiz yolumuz pozu
 bkz mehmet pişkininin yine 9 kasım 9 u beş geç siyanur içmesi
 bkz koç grubunun her sene 8 yi yan yatırıp yolunu bulması olayı :))) https://www.uludagsozluk.com/e/42393973/
 https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
