@@ -13,6 +13,7 @@ bkz medem elleh yök niye depremler öliy
 bkz elleh yökse fatih bulut nası ateş ediy buluta loo
 bkz ateyizleri göt ettiğim sorular
 bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq
+bkz medem elleh yok cübbeli niye vaaz veriy amq
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
