@@ -11,6 +11,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz vedat mürüqü 50 milyun yürü len amq
 https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maymun geliyor diye sevinen dinci
+bkz maymun gibi futbolculara tapan dinciler
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 bkz fatih bulut buluta ateş edip fathi terimciyiz ulan çekmesi
 bkz fatih tezcanın fatih bulutu desteklemesi
