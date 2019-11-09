@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42391242/ lol
 https://www.youtube.com/watch?v=4RpMzsA1VOw 
+https://www.uludagsozluk.com/k/istanbuldaki-n%C3%BCfusu-%C3%A7anakkaleye-da%C4%9F%C4%B1tmak/ lol
 https://www.uludagsozluk.com/k/bursal%C4%B1-top-volkan/&w=bg lol https://www.youtube.com/watch?v=NXQJ9iR5BkA
 https://www.uludagsozluk.com/k/antalya-da-4-ki%C5%9Filik-ailenin-evde-%C3%B6l%C3%BC-bulunmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/eski-t%C3%BCrkiye-vs-yoksulluktan-%C3%B6l%C3%BCnen-yeni-t%C3%BCrkiye/ lol
