@@ -12,11 +12,11 @@ https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalaru
 bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
 bkz medem elleh yök nasıl güneş nası doğuyu heeee ba ba ba apıştı kaldı atayık
 bkz madem elleh yök camiler niye ezan çalıyi ellek ekbek diye 
+bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
 bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
 nkz elleh yökse vedat mürüqü nasıl dil çıkarıyo len emq
 bkz ateyizleri göt ettiğim sorular
-bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq ahahha göt oldular yine
-bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
+bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq 
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
