@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz vurduruyordur
-https://www.uludagsozluk.com/k/sevgilisine-hediye-olarak-a%C5%9Fk-veren-erkek/&w=bg bkz sevdiceğine aşk sokan adam
+https://www.uludagsozluk.com/k/sevgilisine-hediye-olarak-a%C5%9Fk-veren-erkek/&w=bg bkz sevdiceğine aşk sokan erkek
 https://www.uludagsozluk.com/k/sel%C3%A7uk-azmano%C4%9Flu/ bkz ayol bu azman oğlu yer bizi kızlar
 https://www.uludagsozluk.com/e/42393364/ bkz temel atmama töreni ahahahahahahahahah
 https://www.uludagsozluk.com/e/42393309/ bkz gecelerime güneş gibin doğan karizmanın oğlu ay çok fena karizma
