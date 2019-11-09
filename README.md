@@ -13,6 +13,8 @@ https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bkz sana iş koyuyordur orospu
+https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg 
+bkz zall bana hep orospu deri gözüne kestiren erkek
 bkz zall bana hep oç derin göt deliğine tüfek sokup ateşlemek
 bkz zalla bana hep oç deri tanka sokup tankın içinde sikmek
 bkz zall bana hep oç dere asker kıyafeti giydirirp duvardan duvara sikmek
