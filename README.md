@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan kız gelirken önündeki erkeğin götüne bakan erkek
 bkz sevdiceğinin yüreeğin e aşk sokan erkek
+bkz tayyip alt dudak istese naparsınız sorunsalı
 bkz bir erkeği çekici yapan detaylar bkz erkek olması
 bkz tayyiple bi gece vs imamoğlan la bi gece
 bkz imamaoğlu mu daha seksi tayyip mi
