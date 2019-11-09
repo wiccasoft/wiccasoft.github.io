@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/30500841/ bkz 50 mülyün yürü len mq
 bkz tv8 in 8 yan yatırmamaması
 bkz imamoğlanın ibb logosunu yan yatırıp yaptığı 8 yolumuz ışıklı yolumuz paylaşımı
-bkz mehmet pişkininin yine 9 kasım 9 u beş geç siyanur içip intihar süsü vermesi
+bkz mehmet pişkininin yine 9 kasım 9 u beş geç siyanur içmesi
 https://www.uludagsozluk.com/k/siyan%C3%BCrle-intihar-eden-ailenin-gizlenen-mektubu/ 
 bkz koç grubunun her sene 8 yi yan yatırıp yolunu bulması olayı :))) https://www.uludagsozluk.com/e/42393973/
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-ko%C3%A7-holding-atat%C3%BCrk%C3%BC-anma-videosu/
