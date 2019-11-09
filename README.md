@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
+https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz her sabah güneş gibi doğan karizmanın oğlu
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
 https://www.uludagsozluk.com/k/apartman-giri%C5%9Fine-as%C4%B1lan-y%C3%B6netici-duyurular%C4%B1/&w=bg bkz noldi imamaoğli
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-maskesinin-d%C3%BC%C5%9Fmesi/ bkz noldi renci soli imam oğli
