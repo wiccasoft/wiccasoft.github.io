@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-er
 bkz kemalistlerin annesini fethederken dinlenecek şarkılar
 bkz kemalist oğlanlsr hhakkında entry girerken annelerinin sarhoş olması olayı
 bkz kemalistin annesine yaklaşırken dikkat edilecek hususlar 
+bkz kemalist oğlan annesi emcüklernirken dikkat edilecek hususlar
 bkz kemalist oğlanların annelerinin de sinirli olması yatakta yani
 bkz kemalist sinirli oğlanların annelerinin çok seksi olduğu gerçeği
 bkz fatih terimin yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
