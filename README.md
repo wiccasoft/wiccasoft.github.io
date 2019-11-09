@@ -18,6 +18,7 @@ bkz tayyip alt dudak istese naparsınız sorunsalı nick altı girmeyin
 bkz tayyip vs maçoğlu vs imamoğlu
 bkz tayyiple bi gece vs imamoğlan la bi gece
 bkz imamaoğlu mu daha seksi tayyip mi
+https://www.uludagsozluk.com/k/evlat-katili-baba/ bkz babuşko değil katişko
 bkz tayyip mi götünü sikse zevk alırsın imamaoğlan mı sorunsalı
 bkz imamaoğlu vs tayyip
 https://www.uludagsozluk.com/k/erkeklerin-yalan-s%C3%B6yledi%C4%9Fi-anlar/&w=bg bkz erkeklerin şapşik olması
