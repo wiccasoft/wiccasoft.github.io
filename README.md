@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42393130/ bkz top
 https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boşalmak
 bkz noldu mustafa camalın askerleri götünüz mü yemiyo
 blz zall bana hep oç deri döve döve skip zırhın içine sokup orada da sikmek
+bkz zalla bana hep oç deri sikerken yurulup tankın içine sokup orada sikmek
 bkz m kamalın askerlerini döve döve sikmek
 bkz m kamalın askerleri noldi renciniz soldi yarrağı görünce
 bkz türk zırlıhısında zall bana hep oç  deri sikmek
