@@ -9,6 +9,7 @@
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/  bkz karimanın oğlu vs orospunun oğlu
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz 3 isimli iki orospu
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
+bkz kemalistlerin annesini fethederken dinlenecek şarkılar
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
 bkz fatih terimin yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
 bkz kemalist olgun kadınla sevişmenin hazzı 
