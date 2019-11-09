@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/  bkz kariman
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz 3 isimli iki orospu
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalistlerin annesini fethederken dinlenecek şarkılar
+bkz kemalist oğlanların anneleninin de sinirli olması yatakta yani
 bkz kemalistin annesine yaklaşırken dikkat edilecek hususlar 
 bkz kemalistin annesiyle sevişirken kemalist oğlanın size deep webte küfretmesi
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
