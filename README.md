@@ -9,7 +9,7 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/30500841/ bkz ilk vedat mürüqü entrysi 
+https://www.uludagsozluk.com/e/30500841/ bkz 94 ney olm çocuk lan bu
 bkz koç grubunun her sene 8 i yan yatırıp ördekleri keklemesi olayı :))))))))
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-ko%C3%A7-holding-atat%C3%BCrk%C3%BC-anma-videosu/
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adamın ağlatması
