@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/  bkz kariman
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz 3 isimli iki orospu
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
-bkz fatih tezcanın yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
+bkz fatih terimin yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
 bkz kemalist olgun kadınla sevişmenin hazzı 
 bkz tek dünya devletini kurup sınırsızca bütün ülkelerin olgun kadınlarıyla sevişmek
 bkz my friend's hot mommies
