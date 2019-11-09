@@ -11,7 +11,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/30500841/ bkz 50 mülyün yürü len mq
 bkz tv8 in 8 yan yatırmamaması
-bkz imamaoğlanın ibb logosunu yan yatırıp 8 yolumuz paylaşımı
+bkz imamaoğlanın ibb logosunu yan yatırıp ibb 8  paylaşımı
 bkz mehmet pişkininin 9 kasım 9 u beş geç siyanur içip intihar etmesi
 https://www.uludagsozluk.com/k/siyan%C3%BCrle-intihar-eden-ailenin-gizlenen-mektubu/ 
 bkz koç grubunun her sene 8 yi yan yatırıp yolunu bulması olayı :))) https://www.uludagsozluk.com/e/42393973/
