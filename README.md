@@ -8,7 +8,7 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/42391808/ bkz inşallah gelsin maşşallah yalarun
+https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 bkz vedat mürüqü 50 milyun yürü len amq
 bkz medem elleh yök niye depremler öliy
 bkz elleh yökse fatih bulut nası ateş ediy buluta loo
