@@ -18,7 +18,7 @@ https://www.uludagsozluk.com/k/apartman-giri%C5%9Fine-as%C4%B1lan-y%C3%B6netici-
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-maskesinin-d%C3%BC%C5%9Fmesi/ bkz noldi renci soli imam oğli
 https://www.uludagsozluk.com/k/antalya-da-4-ki%C5%9Filik-ailenin-evde-%C3%B6l%C3%BC-bulunmas%C4%B1/ bkz kaç para ulan 4 flüt
 https://www.uludagsozluk.com/k/tu%C4%9Frul-darici/ bkz hemşom yiğidom daşşağına gurban 
-https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz ağcanın gecelerine güneş gibi doğan adam
+https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz güneş gibi doğan adam
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz rizemizin gururu
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ibb-ye-heykel-dikmesi/ bkz heyçel de mi diçmeye uy
 https://www.uludagsozluk.com/k/giresunlular/&w=bg bkz uy haçan netti bu ciresunlular size
