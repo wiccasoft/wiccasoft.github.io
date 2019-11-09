@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bk
 https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg 
 https://www.uludagsozluk.com/k/fatiha-s%C3%BCresinin-elham-oldu%C4%9Funu-bilmeyen-cahil/ bkz fatih terim
 https://www.uludagsozluk.com/k/falcao-bize-para-i%C3%A7in-gelmedi/ bkz yav he he
+bkz true nun fenerli olduğu gerçeği
 https://www.uludagsozluk.com/k/mehmet-pi%C5%9Fkin/&w=bg bkz pişkin pişkin sırıtmak
 bkz zall bana hep orospu deri gözüne kestiren erkek
 bkz zalla bana hep maymun deri zırhsız sikmek vs zırhın içinde sikmek 
