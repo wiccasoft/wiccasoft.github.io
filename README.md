@@ -9,7 +9,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
-https://www.youtube.com/watch?v=PAlwP6oeJpA Ankara İstanbul Çok Hoştur. Ama banane
+https://www.youtube.com/watch?v=4RpMzsA1VOw Ankara İstanbul Çok Hoştur. Ama banane
 
 -->
 
