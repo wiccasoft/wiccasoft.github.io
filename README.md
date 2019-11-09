@@ -33,6 +33,7 @@ https://www.uludagsozluk.com/k/bursal%C4%B1-top-volkan/&w=bg lol https://www.you
 https://www.uludagsozluk.com/k/antalya-da-4-ki%C5%9Filik-ailenin-evde-%C3%B6l%C3%BC-bulunmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/eski-t%C3%BCrkiye-vs-yoksulluktan-%C3%B6l%C3%BCnen-yeni-t%C3%BCrkiye/ lol
 https://www.youtube.com/watch?v=I_izvAbhExY
+https://veryutils.com/street-fighter-1-for-web-with-html5-javascript-game-template
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
