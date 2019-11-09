@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
+bkz karşıdan gelirke götüm sikilmedi tarzı hareketler yapan erkek
 https://www.uludagsozluk.com/k/kar%C5%9F%C4%B1dan-k%C4%B1z-gelirken-ba%C5%9F%C4%B1n%C4%B1-%C3%B6ne-e%C4%9Fen-erkek/&w=bg
 https://www.uludagsozluk.com/k/ak-troll-lerin-ekrem-imamo%C4%9Flu-haz%C4%B1ms%C4%B1zl%C4%B1klar%C4%B1/&w=bg bkz chptoll
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizma oğlu karizma
