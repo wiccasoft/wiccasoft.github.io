@@ -10,12 +10,7 @@ https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz atatürkü oro
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
 bkz kemalist olgun kadınla sevişmenin hazzı 
-bkz fatih terimin orospusu yaptığı kemalist oğlanların annelerinin çok seksi olması oyşşşş bi gerçek evet
-bkz youtube u orospu türkleri fahişe yapacağım yeni dünya devleti
-bkz tek dünya devletini kurup atatürkü orospu yapmak
-bkz atatürkün içindeki küçük fahişeyi çıkarmak 
-bkz 8'i yan yatırınca atatürkün götüne benzediği gerçeği
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmeme-hakk%C4%B1n%C4%B1-kullanmak/ bkz ben orospum yaptum kankağ-->
+-->
 
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
 
