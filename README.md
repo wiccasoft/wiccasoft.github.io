@@ -9,6 +9,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
+https://www.uludagsozluk.com/e/30500841/ bkz medem elleh yök vedat müqüyü kim yarattı 94 yılında
 https://www.uludagsozluk.com/e/42391717/ bkz yalanır bunlar
 bkz ellek yökse niye nabiyodur diye merek ediyniz 
 bkz elleh yökse niye şah damarımdan yakinim saha diyiy
