@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-cinsel-obje-olarak-g%C3%B6ren-erkek/&w=bg bkz bir kadın olarak sus
-bkz zall bana hep oç derin adresini bulup tekme tokat dövme isteği :))
+bkz zall bana hep oç derin adresini bulup tekme tokat dövme isteği böyle vurma abi diyene kadar azına azına vuracan ibnenin
 bkz zall bana hep oç deri babasından izin alıp dövmek
 bkz zall bana hep oç derin sivilceli götten bacaklı bir ergen olduğu gerçeği
 bkz zall bana hep oç deri döve döve tankın içine sokup vurma abi diyene kadar sikmek
