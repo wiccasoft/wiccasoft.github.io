@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
+https://www.uludagsozluk.com/k/haluk-levent/&w=bg bkz izmirin dağlarında çiçek açar
 https://www.uludagsozluk.com/k/s%C3%BCrekli-ayn%C4%B1-%C5%9Feyleri-s%C3%B6yleyen-insan/ bkz mehmet pişkin
 https://www.uludagsozluk.com/k/cumartesi-g%C3%BCn%C3%BC-yap%C4%B1lacaklar/&w=bg bkz göksel kaya ya entry girmek
 https://onedio.com/haber/ataturk-e-benzeyen-adamin-son-goruntuleri-herkesi-ikiye-bolunce-buyuk-bir-tartisma-konusu-cikti-888934
