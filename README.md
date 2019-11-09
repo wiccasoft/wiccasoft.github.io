@@ -10,7 +10,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/30500841/ bkz ilk vedat mürüqü entrysi 
-bkz koç grubunun her sene 8 i yan yatırıp ördekleri keklemesi
+bkz koç grubunun her sene 8 i yan yatırıp ördekleri keklemesi olayı :))))))))
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-ko%C3%A7-holding-atat%C3%BCrk%C3%BC-anma-videosu/
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adamın ağlatması
 https://www.uludagsozluk.com/k/t%C3%BCrk-z%C4%B1rhl%C4%B1s%C4%B1na-ta%C5%9F-atan-maymunun-ezilme-an%C4%B1/
