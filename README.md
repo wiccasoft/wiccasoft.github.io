@@ -11,13 +11,13 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 bkz eteyizlerin yine göt olması madem elleh yök nasil yalayacak meloyu len emq geline yalacağız len emq
 bkz eteyizler medem elleh yök nasil gol öliy nak yine göt oldiler len emq
-bkz medem elleh yök niye vedat mürüqü elli mülyün yürü len emq
 bkz medem elleh yök niye depremler öliy
+bkz medem elleh yök niye vedat mürüqü elli mülyün yürü len emq
 bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
 nkz elleh yökse vedat mürüqü nasıl dil çıkarıyo len emq
 bkz ateyizleri göt ettiğim sorular
 bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq
-bkz medem elleh yok cübbeli niye vaaz veriy amq
+bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
