@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
-bkz uludaki ibneleri babalarının yanında dövüp sikme isteği
+bkz aniden gelen uludaki ibneleri babalarının yanında dövüp sikme isteği
 bkz uludaki ergenleri döve döve sikme isteği adres verin lan amın feryatları o entryleri yediririm lan size
 bkz uludaki ergenlerin adrsesini bulupu apartman kapısında döverek sikmekvurma abi derken bi daha ağzılara vurmak
 https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boşalmak
