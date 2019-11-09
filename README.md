@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
+https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz adam gibi adam rte
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ibb-ye-heykel-dikmesi/ bkz heyçel de mi diçmeye uy
 https://www.uludagsozluk.com/k/giresunlular/&w=bg bkz uy haçan netti bu ciresunlular size
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
