@@ -10,6 +10,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/30500841/ bkz ilk vedat mürüqü entrysi giren fenerli eleman
+https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-ko%C3%A7-holding-atat%C3%BCrk%C3%BC-anma-videosu/
 https://www.uludagsozluk.com/k/t%C3%BCrk-z%C4%B1rhl%C4%B1s%C4%B1na-ta%C5%9F-atan-maymunun-ezilme-an%C4%B1/
 https://www.uludagsozluk.com/k/konyaspor-un-10-kas%C4%B1m-formas%C4%B1/
 bkz vedat mürüqü 50 mülyün yorü len emq diyen fenerli
