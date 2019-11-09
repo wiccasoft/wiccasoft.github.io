@@ -10,6 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
+https://www.uludagsozluk.com/e/42393028/ lol
 https://www.youtube.com/watch?v=QUYKSWQmkrg
 https://www.uludagsozluk.com/e/42391242/ lol
 https://www.youtube.com/watch?v=4RpMzsA1VOw  
