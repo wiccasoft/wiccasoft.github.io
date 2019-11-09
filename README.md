@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz 
 https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bkz sana iş koyuyordur orospu
 https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg 
 bkz zall bana hep orospu deri gözüne kestiren erkek
-bkz zalla bana hep orospu der seni bulup karım yapacam olm
+bkz zall bana hep orospu der seni bulup karım yapacam olm
 bkz zall bana hep orospu derin adresini bulup o beyaz götünü tanka sokup sikme isteği
 bkz zall bana hep oç deri tanka sokup tankın içinde sikmek
 bkz zall bana hep oç dere asker kıyafeti giydirirp duvardan duvara sikmek
