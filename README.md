@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
+https://www.uludagsozluk.com/k/giresunlular/&w=bg bkz uy haçamn netti ciresunlular size
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
 https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg bkz izmirin dağlarında çiçekler açar
