@@ -9,55 +9,14 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
-https://www.uludagsozluk.com/e/30500841/ bkz 50 mülyün yürü len mq
 bkz tv8 in 8 yan yatırmamaması terbiyesizliği
 bkz imamoğlanın ibb logosunu yan yatırıp i-8 isikli sekiz yolumuz pozu
 bkz mehmet pişkininin yine 9 kasım 9 u beş geç siyanur içmesi
-https://www.uludagsozluk.com/k/siyan%C3%BCrle-intihar-eden-ailenin-gizlenen-mektubu/ 
 bkz koç grubunun her sene 8 yi yan yatırıp yolunu bulması olayı :))) https://www.uludagsozluk.com/e/42393973/
-https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-ko%C3%A7-holding-atat%C3%BCrk%C3%BC-anma-videosu/
-https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adamın ağlatması
-https://www.uludagsozluk.com/k/t%C3%BCrk-z%C4%B1rhl%C4%B1s%C4%B1na-ta%C5%9F-atan-maymunun-ezilme-an%C4%B1/
-https://www.uludagsozluk.com/k/konyaspor-un-10-kas%C4%B1m-formas%C4%B1/
-bkz vedat mürüqü 50 mülyün yorü len emq diyen fenerli
-bkz fenerlilerle cinconluların götlerini parmaklayarak entry girmeleri
-https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
-https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizmanın oğlu
-https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
-https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bkz sana iş koyuyordur orospu
-https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg 
-https://www.uludagsozluk.com/k/fatiha-s%C3%BCresinin-elham-oldu%C4%9Funu-bilmeyen-cahil/ bkz fatih terim
-https://www.uludagsozluk.com/k/falcao-bize-para-i%C3%A7in-gelmedi/ bkz yav he he
-bkz true nun fenerli olduğu gerçeği
-https://www.uludagsozluk.com/k/mehmet-pi%C5%9Fkin/&w=bg bkz pişkin pişkin sırıtmak
-bkz zall bana hep orospu deri gözüne kestiren erkek
-bkz zalla bana hep maymun deri zırhsız sikmek vs zırhın içinde sikmek 
-bkz fatih terime entari  girerken babanın odayı girip sert yaz olm demesi
-bkz serkan inciyle zall ibnesini döverken zall bana hep oç derin araya girmesi
-bkz zall bana hep orospu derin korkudan zırhdan çıkamaması olayı
-bkz zall bana hep orospu çocuğu deri zırhın içne sokup orada sikmek
-bkz zall bana hep orospu der seni bulup karım yapacam olm zall dedinilen ibne de kurtaramaz seni
-bkz zall bana hep orospu derin adresini bulup o beyaz götünü tanka sokup sikme isteği
-bkz zall bana hep oç deri tanka sokup tankın içinde sikmek
-bkz zall bana hep oç dere asker kıyafeti giydirirp duvardan duvara sikmek
-bkz zall bana hep oç deri zırhın içinden çıkartıp daha sert tokmakla abi diyene kadar sikmek oyşşşşş
-bkz böyle zırhın içine sığunmış bi türk ibnesi olaydı da sikeydik
-bkz geceleri gelen aktroll ergeneri döverek sikme isteği
-bkz aktrollerin göt deliğin dayyacan duvara offfffffff
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-cinsel-obje-olarak-g%C3%B6ren-erkek/&w=bg bkz bir kadın olarak sus
-bkz zall bana hep oç derin adresini bulup tekme tokat dövme isteği böyle vurma abi diyene kadar azına azına vuracan ibnenin
-bkz zall bana hep oç deri babasından izin alıp dövmek
-bkz zall bana hep oç derin sivilceli götten bacaklı bir ergen olduğu gerçeği
-bkz zall bana hep oç deri döve döve tankın içine sokup vurma abi diyene kadar sikmek
-bkz atatürk geberdi diye kafa siken maymunlar olm siz esmersiniz atatürk sarışın nasıl oluyo bu iş
-bkz %99 u esmer olan maymuni bir ırkın sarışın bi adama ata demesi oalyı
-bkz potamkin zırhlısına taş atıp zall bana hep oç der diyen türk maymun
 https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
 bkz binaliye benzeyen adam vs atatürke benzeyen adam https://www.youtube.com/watch?v=TWIET1Ehz_Y
 https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?p=2
-https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-ateist-olmas%C4%B1/&w=bg bkz ali sunalın tipinden belli olan gerçek
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-denince-akla-gelen-ilk-3-%C5%9Fey/&w=bg bkz eş cinsel lik
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
