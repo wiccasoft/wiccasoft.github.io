@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalaru
 https://www.uludagsozluk.com/e/30500841/ bkz medem elleh yök vedat müqüyü kim yarattı 94 yılında
 https://www.uludagsozluk.com/e/42391717/ bkz yalanır bunlar
 bkz medem elleh yök maymunlar niye evrilmiy
-bkz medem elleh yök niye bu evreni yaarattı canuı sıkıldıki yaratmış adam
+bkz medem elleh yök niye bu evreni yaarattı canı sıkıldıki yaratmış adam
 bkz ellek yökse niye nabiyodur diye merek ediyniz 
 bkz elleh yökse niye şah damarımdan yakinim saha diyiy
 bkz medem ellek yök depremler niye öliy demekiki şirk işliniz oliy
