@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
+https://www.uludagsozluk.com/e/42389427/ bkz kemalistlerin bilmediği gerçek
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg bkz izmirin dağlarında çiçekler açar
 bkz binaliye benzeyen adam vs atatürke benzeyen adam https://www.youtube.com/watch?v=TWIET1Ehz_Y
 https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?p=2
