@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393364/ bkz temel atmama töreni ahahahahahahahahah
 https://www.uludagsozluk.com/e/42393309/ bkz gecelerime güneş gibin doğan karizmanın oğlu 
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-morg%C3%BCl-caney-caney-yorumu/ bkz caney caney işte meydaney
 https://www.uludagsozluk.com/k/%C5%9Fehir-%C5%9Fehir-gezip-reklam-yapan-amca/ bkz 7 bölgede 81 ilde 
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-maskesinin-d%C3%BC%C5%9Fmesi/ bkznodli renci soldi imam ogli
