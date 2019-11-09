@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz noldu mustafa camalın askerleri götünüz mü yemiyo
+bkz m kamalın askerlerini döve döve sikmek
 https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boşalmak
 bkz orospu çocuklarına inat recep tayyip erdoğanın askerleriyiz
 https://www.uludagsozluk.com/k/mustafa-kemal-in-askerleriyiz/&w=bg bkz oç nin askerleri
