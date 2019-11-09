@@ -10,6 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 https://www.uludagsozluk.com/e/42391717/ bkz yalanır bunlar
+bkz medem ellek yök niye inkar ediyonuz bkz kapakin ellehi
 https://www.uludagsozluk.com/k/a%C4%9Flatan-%C5%9Fark%C4%B1lar/&w=bg bkz melöyu hangi taküm eldü kimler emcüklüy melöyü
 bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
 https://www.uludagsozluk.com/k/friedrich-wilhelm-nietzsche/&w=bg bkz madem elleh yök niye dens eden elleh ariyosun
