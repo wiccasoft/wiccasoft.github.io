@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizman
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bkz sana iş koyuyordur orospu
 https://www.uludagsozluk.com/k/sigara-i%C3%A7ip-g%C3%B6zlerini-k%C4%B1sarak-size-bakan-erkek/&w=bg 
+https://www.uludagsozluk.com/k/mehmet-pi%C5%9Fkin/&w=bg bkz pişkin pişkin sırıtmak
 bkz zall bana hep orospu deri gözüne kestiren erkek
 bkz zalla bana hep maymun deri zırhsız sikmek vs zırhın içinde sikmek 
 bkz serkan inciyle zall ibnesini döverken zall bana hep oç derin araya girmesi
