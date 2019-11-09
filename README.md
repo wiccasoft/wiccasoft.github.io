@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
+https://www.uludagsozluk.com/k/tayyip-i-s%C4%B1rt%C4%B1ndan-atan-at/&w=bg bkz vadan hayını at
 https://galeri.uludagsozluk.com/r/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F-1931194/
 https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
 https://www.uludagsozluk.com/k/misvak-%C4%B1n-chp-li-vekil-karikat%C3%BCr%C3%BC/ bkz şaka maka iyi gülürdü hee
