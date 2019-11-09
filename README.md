@@ -10,6 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7/&w=bg lol
+https://www.uludagsozluk.com/k/cem-davran/&w=bg bkz al karayı bul karıyı
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
