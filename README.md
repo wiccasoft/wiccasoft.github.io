@@ -10,7 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 https://www.uludagsozluk.com/e/42391717/ bkz yalanır bu
-https://www.uludagsozluk.com/k/a%C4%9Flatan-%C5%9Fark%C4%B1lar/&w=bg bkz senü kümler eldü kimler emcüklüy senü
+https://www.uludagsozluk.com/k/a%C4%9Flatan-%C5%9Fark%C4%B1lar/&w=bg bkz meloyu kümler eldü kimler emcüklüy senü
 bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
 https://www.uludagsozluk.com/k/friedrich-wilhelm-nietzsche/&w=bg bkz madem elleh yök niye dens eden elleh ariyosun
 https://www.uludagsozluk.com/k/tanr%C4%B1n%C4%B1n-an-itibariyle-ne-yapt%C4%B1%C4%9F%C4%B1-sorunsal%C4%B1/ bkz 31 çekiyo
