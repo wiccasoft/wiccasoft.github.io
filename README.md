@@ -7,6 +7,7 @@
 [![Image](smartdata/madame-x.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz atatürkü orospusu yapan adam 
 bkz atatürkün içindeki küçük fahişeyi çıkarmak 
+bkz 8'i yan yatırınca atatürkün götüne benzediği gerçeği
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-sevmeme-hakk%C4%B1n%C4%B1-kullanmak/ bkz ben orospum yaptum kankağ-->
 
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
