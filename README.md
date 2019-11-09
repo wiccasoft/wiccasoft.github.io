@@ -15,7 +15,7 @@ bkz madem elleh yök camiler niye ezan çalıyi ellek ekbek diye
 bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
 nkz elleh yökse vedat mürüqü nasıl dil çıkarıyo len emq
 bkz ateyizleri göt ettiğim sorular
-bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq
+bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq ahahha göt oldular yine
 bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
