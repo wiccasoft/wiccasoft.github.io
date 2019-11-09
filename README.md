@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393130/ bkz top
 https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boşalmak
 https://www.uludagsozluk.com/k/mustafa-kemal-in-askerleriyiz/&w=bg bkz oç nin askerleri
+bkz seni askerim yapacam oğlum diyen 24 yaşındaki tayyipçi
 https://www.uludagsozluk.com/k/milli-g%C3%BCnlerde-kuduran-vatan-haini-%C3%A7omarlar/ bkz kemalist rte
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
 bkz kemalist neslin kadınlı erkekli seks yaptığı karanlık dönem
