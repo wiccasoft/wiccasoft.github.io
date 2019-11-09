@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 bkz fatih bulut buluta ateş edip fathi terimciyiz ulan çekmesi
 bkz fatih tezcanın fatih bulutu desteklemesi
-bkz fathi terimin fatih bulutun elini öpmesi
+bkz fatih terimin fatih bulutun elini öpmesi
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok dünya niye dönüyor
 bkz fatih bulutun havaya ateş edip tü,rkün  öcünü alacam ulan demesi
 https://www.uludagsozluk.com/k/abd%C3%BCrrahim-karako%C3%A7/&w=bg bkz siyahkoç
