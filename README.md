@@ -10,6 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
+https://www.uludagsozluk.com/k/s%C3%BCrekli-ateistlerin-sata%C5%9Fmas%C4%B1/ bkz namaz kılarken üstüme işediler
 bkz medem elleh yök nasıl güneş nası doğuyu heeee ba ba ba apıştı kaldı atayık
 bkz madem elleh yök camiler niye ezan çalıyi ellek ekbek diye 
 bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
