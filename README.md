@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
+bkz kız babası erkek seksiliği vs oğlan çocuğu olan baba seksiliği
 bkz karizma oğlu tayyip le bir gece binaliye benzeyen adamla bir ece
 bkz binaliye beneyen adam vs tayyipe benzeyen adam
 bkz karşıdan kız gelirken önündeki erkeğin götüne bakan erkek
