@@ -16,6 +16,7 @@ bkz medem elleh yok cübbeli niye vaaz veriy amq var ki veriy amık
 bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
 nkz elleh yökse vedat mürüqü nasıl dil çıkarıyo len emq
 bkz ateyizleri göt ettiğim sorular
+https://www.uludagsozluk.com/k/friedrich-wilhelm-nietzsche/&w=bg bkz ateyızların ellehi densçi sanması
 bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq 
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
