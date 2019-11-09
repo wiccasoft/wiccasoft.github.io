@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz anca deep webte başlık açın ibneler sürüsü
+bkz imamaoğlu başlığı açarken odaya banaın girip ekmek al demesi
 https://www.uludagsozluk.com/k/2019-da-hala-seks-yapan-insan/ bkz başlık açarak hayatını geçiren geren 
 bkz anasını siken adama babişko diyen ulucu gavat ergenler
 bkz atatürkünüze de götten girerim imamaoğlanınızada türk maymunları sizi
