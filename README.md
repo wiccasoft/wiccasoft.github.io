@@ -15,6 +15,7 @@ bkz fatih bulutun havaya ateş edip tü,rkün  öcünü alacam ulan demesi
 https://www.uludagsozluk.com/k/abd%C3%BCrrahim-karako%C3%A7/&w=bg bkz siyahkoç
 https://www.uludagsozluk.com/k/dilek-%C3%B6calan/&w=bg bkz öcalan öcünüalan
 https://www.uludagsozluk.com/k/popstar-bayhan/&w=bg bkz bayhan baymahan
+https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz sizin tayfa arabesk bizim tayfa riç
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
