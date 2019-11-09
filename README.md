@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=TWIET1Ehz_Y binali yıldırma benzeyen adam
 https://www.youtube.com/watch?v=A44Z1ZCSwTo flüt
 (atacüceye benzeyen adam vs binaliye benzeyen adam)
 https://www.uludagsozluk.com/e/42392164/ lol https://www.youtube.com/watch?v=PSLp6nDlJAE 
-https://www.youtube.com/watch?v=QUYKSWQmkrg
+https://www.youtube.com/watch?v=QUYKSWQmkrg ölü insanlarla deep webte konuşan çocuk
 https://www.uludagsozluk.com/e/42391242/ lol
 https://www.youtube.com/watch?v=4RpMzsA1VOw  
 https://www.uludagsozluk.com/k/istanbuldaki-n%C3%BCfusu-%C3%A7anakkaleye-da%C4%9F%C4%B1tmak/ lol
