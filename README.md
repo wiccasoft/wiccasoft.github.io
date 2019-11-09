@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz atatürk benzeyen adam ağlattı
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
+https://www.uludagsozluk.com/k/antalya-da-4-ki%C5%9Filik-ailenin-evde-%C3%B6l%C3%BC-bulunmas%C4%B1/ bkz kaç para ulan 4 flüt
 https://www.uludagsozluk.com/k/tu%C4%9Frul-darici/ bkz yiğidom daşşağına gurban
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz ağcanın gecelerine güneş gibi doğan adam
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz rizemizin gururu
