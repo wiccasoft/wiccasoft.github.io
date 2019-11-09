@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalaru
 https://www.uludagsozluk.com/e/30500841/ bkz medem elleh yök vedat müqüyü kim yarattı 
 https://www.uludagsozluk.com/e/42391180/ bkz medem elleh yök nasık objektif oluyok
 https://www.uludagsozluk.com/e/42391717/ bkz yalanır bunlar
+https://www.uludagsozluk.com/k/el-chapo-nun-o%C4%9Flunu-g%C3%B6zalt%C4%B1na-alan-polis/&w=bg bkz medem ellek yok nası oliy
 bkz medem elleh yök maymunlar niye evrilmiy dil çıkariy vedat mürüğü gibi
 bkz ellek yökse niye nabiyodur diye merek ediyniz 
 bkz elleh yökse niye şah damarımdan yakinim saha diyiy
