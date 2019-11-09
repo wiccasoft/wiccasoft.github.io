@@ -11,8 +11,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok dünya niye dönüyor
-https://www.uludagsozluk.com/k/fatih-bulut-un-d%C3%BC%C4%9F%C3%BCnde-havaya-11-el-ate%C5%9F-etmesi/&w=gd bkz fatih bulut kim
-amk
+bkz fatih bulutun havaya ateş edip tü,rkün  öcünü alacam ulan demesi
 https://www.uludagsozluk.com/k/dilek-%C3%B6calan/&w=bg bkz öcalan öcünüalan
 https://www.uludagsozluk.com/k/popstar-bayhan/&w=bg bkz bayhan baymahan
 -->
