@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz anca deep webte başlık açın ibneler sürüsü
-https://www.uludagsozluk.com/k/orgazmdan-daha-zevkli-aktiviteler/&w=bg bkz imamaoğlan laf çarken babanın odaya girmesi
+https://www.uludagsozluk.com/k/orgazmdan-daha-zevkli-aktiviteler/&w=bg bkz imamaoğlana entry girerken babanın odaya girmesi
 bkz imamoğlu başlığı açarken odaya babanın girip tekme tokat dalması
 https://www.uludagsozluk.com/k/2019-da-hala-seks-yapan-insan/ bkz başlık açarak hayatını geçiren geren 
 bkz anasını siken adama babişko diyen ulucu gavat ergenler
