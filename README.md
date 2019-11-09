@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ lol
 https://www.youtube.com/watch?v=A44Z1ZCSwTo
-https://www.uludagsozluk.com/e/42392164/ lol
+https://www.uludagsozluk.com/e/42392164/ lol https://www.youtube.com/watch?v=PSLp6nDlJAE
 https://www.youtube.com/watch?v=QUYKSWQmkrg
 https://www.uludagsozluk.com/e/42391242/ lol
 https://www.youtube.com/watch?v=4RpMzsA1VOw  
