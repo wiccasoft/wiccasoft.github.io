@@ -12,8 +12,8 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
-bkz zalla bana hep oç derin sivilceli götten bacaklı bir ergen olduğu gerçeği
-bkz zalla bana hep oç deri döve döve tankın içine sokup vurma abi diyene kadar sikmek
+bkz zall bana hep oç derin sivilceli götten bacaklı bir ergen olduğu gerçeği
+bkz zall bana hep oç deri döve döve tankın içine sokup vurma abi diyene kadar sikmek
 bkz atatürk geberdi diye kafa siken maymunlar olm siz esmersiniz atatürk sarışın nasıl oluyo bu iş
 bkz %99 u esmer olan maymuni bir ırkın sarışın bi adama ata demesi oalyı
 bkz potamkin zırhlısına taş atıp zall bana hep oç der diyen türk maymun
