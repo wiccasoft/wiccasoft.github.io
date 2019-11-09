@@ -9,7 +9,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
-bkz elleh yökse nasi camide domaliyoz len emq
+bkz elleh yökse camide nasil domaliyoz len emq 
 bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
 bkz medem elleh yök nasıl güneş nası doğuyu heeee ba ba ba apıştı kaldı atayık
 bkz madem elleh yök camiler niye ezan çalıyi ellek ekbek diye 
