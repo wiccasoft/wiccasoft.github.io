@@ -9,6 +9,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz vedat mürüqü 50 milyun yürü len amq
+https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maşşalah inşşallak gelsin de bi yalayak 
 bkz fatih bulutun buluta ateş edip allahınızım ulan demesi
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz felipo melo de niye evrilmiyo
 https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maymun geliyor diye sevinen dinci
