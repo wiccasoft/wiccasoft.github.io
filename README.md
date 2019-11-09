@@ -5,8 +5,9 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
-<!-- https://www.uludagsozluk.com/e/42384660/ lol 
-     https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
+<!-- 
+https://www.uludagsozluk.com/e/42384660/ lol 
+https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok nasıl dünya dönüyor
 -->
 
