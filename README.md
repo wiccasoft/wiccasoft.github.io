@@ -14,6 +14,8 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan kız gelirken önündeki erkeğin götüne bakan erkek
 bkz sevdiceğinin yüreeğin e aşk sokan erkek
+bkz bir erkeği çekici yapan detaylar bkz erkek olması
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fe-adam-de%C4%9Filmi%C5%9Fsin-demek/&w=bg
 https://www.uludagsozluk.com/k/sevgilisine-hediye-almak-yerine-iltifat-eden-erkek/&w=bg
 https://www.uludagsozluk.com/k/kar%C5%9F%C4%B1dan-k%C4%B1z-gelirken-ba%C5%9F%C4%B1n%C4%B1-%C3%B6ne-e%C4%9Fen-erkek/&w=bg
 https://www.uludagsozluk.com/k/ak-troll-lerin-ekrem-imamo%C4%9Flu-haz%C4%B1ms%C4%B1zl%C4%B1klar%C4%B1/&w=bg bkz chptoll
