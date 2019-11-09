@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalistlerin annesini fethederken dinlenecek şarkılar
 bkz kemalistin annesine yaklaşırken dikkat edilecek hususlar 
-bkz kemalistin annesiyile sevişirken kemalist oğlanın size deep webte küfretmesi
+bkz kemalistin annesiyle sevişirken kemalist oğlanın size deep webte küfretmesi
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
 bkz fatih terimin yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
 bkz kemalist olgun kadınla sevişmenin hazzı 
