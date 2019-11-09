@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42392990/ lol
 https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
 https://www.uludagsozluk.com/k/s%C3%BCrekli-ayn%C4%B1-%C5%9Feyleri-s%C3%B6yleyen-insan/ bkz mehmet pişkin
 https://www.uludagsozluk.com/k/cumartesi-g%C3%BCn%C3%BC-yap%C4%B1lacaklar/&w=bg bkz göksel kaya ya entry girmek
+https://onedio.com/haber/ataturk-e-benzeyen-adamin-son-goruntuleri-herkesi-ikiye-bolunce-buyuk-bir-tartisma-konusu-cikti-888934
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg bkz haluk levente benzeyen adam
 https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya/&w=bg bkz atatürke benzeyen adam
 https://www.youtube.com/watch?v=TWIET1Ehz_Y binali yıldırma benzeyen adam
