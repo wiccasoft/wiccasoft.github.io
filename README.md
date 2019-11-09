@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
-[![Image](smartdata/madame-x.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
+[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz atatürkü orospusu yapan adam 
 bkz tek dünya devletini kurup atatürkü orospu yapmak
 bkz atatürkün içindeki küçük fahişeyi çıkarmak 
