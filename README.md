@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
+https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-ateist-olmas%C4%B1/&w=bg bkz ali sunalın tipinden belli olan gerçek
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-denince-akla-gelen-ilk-3-%C5%9Fey/&w=bg bkz eş cinsel lik
 -->
