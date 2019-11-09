@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizman
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
 https://www.uludagsozluk.com/k/kemal-sunal-%C4%B1n-ateist-olmas%C4%B1/&w=bg bkz ali sunalın tipinden belli olan gerçek
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-denince-akla-gelen-ilk-3-%C5%9Fey/&w=bg bkz eş cinsel lik
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
