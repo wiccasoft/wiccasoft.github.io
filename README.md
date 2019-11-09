@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
+bkz uludaki ergenlerin adrsesini bulupu apartman kapısında döverek sikmek
 https://www.uludagsozluk.com/e/42393679/ bkz çük leri bribirine sürterek boşalmak
 bkz noldu mustafa camalın askerleri götünüz mü yemiyo
 bkz zall bana hep oç deri döverken yorulup tankın içine sokup sikmek
