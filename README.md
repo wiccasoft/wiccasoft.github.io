@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 bkz medem elleh yök biz nasıl meloyu bekliyok gelsin diye ellehin mucuzusu degel mi bu len emq
 bkz medem elleh yök nasıl güneş nası doğuyu heeee ba ba ba apıştı kaldı atayık
-bkz madem elleh yök camiler niye ezan çalıyi 
+bkz madem elleh yök camiler niye ezan çalıyi ellek ekbek diye
 bkz medem elleh yök niye vedat mürüqü elli mülyün yürü len emq
 bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
 nkz elleh yökse vedat mürüqü nasıl dil çıkarıyo len emq
