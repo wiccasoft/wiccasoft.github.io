@@ -19,6 +19,7 @@ bkz imamaoğlu mu daha seksi tayyip mi
 bkz tayyip mi göt istese versis in imamoğlan mı
 bkz tayyip götünü sikse ses ewder misin sorunsalı
 bkz imamaoğlu vs tayyip
+https://www.uludagsozluk.com/k/erkeklerin-yalan-s%C3%B6yledi%C4%9Fi-anlar/&w=bg bkz erkeklerin şapşik olması
 https://www.uludagsozluk.com/k/erke%C4%9Fe-alt%C4%B1n-semer-vursan-erkek-yine-erkektir/&w=bg bkz erkek milleti
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fe-adam-de%C4%9Filmi%C5%9Fsin-demek/&w=bg
 https://www.uludagsozluk.com/k/sevgilisine-hediye-almak-yerine-iltifat-eden-erkek/&w=bg
