@@ -8,6 +8,7 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
+https://www.uludagsozluk.com/k/siktir-et-bana-k%C4%B1z-m%C4%B1-yok-o%C4%9Flum-diyen-erkek/&w=bg bkz lol
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
