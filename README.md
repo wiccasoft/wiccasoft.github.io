@@ -5,9 +5,11 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
-<!-- https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz atatürkü orospusu yapan adam 
+<!-- 
+https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz atatürkü orospusu yapan adam 
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
+bkz fatih terimin orospusu yaptığı kemalist oğlanların annelerinin çok seksi olması oyşşşş bi gerçek evet
 bkz youtube u orospu türkleri fahişe yapacağım yeni dünya devleti
 bkz tek dünya devletini kurup atatürkü orospu yapmak
 bkz atatürkün içindeki küçük fahişeyi çıkarmak 
