@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
+bkz anca deep webte başlık açın ibneler sürüsü
 bkz   amk götten bacaklı veledleri sizi yakarlarsam fena sikerim adres verin götünüz yiyosa amk ibneleri
 bkz aniden gelen uludaki ibneleri babalarının yanında dövüp sikme isteği ibnenin evlatları sizi yakalarsam sikerim
 bkz uludaki ergenleri döve döve sikme isteği adres verin lan amın feryatları o entryleri yediririm lan size
