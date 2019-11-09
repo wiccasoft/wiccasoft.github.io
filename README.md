@@ -4,6 +4,8 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
+[![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
+
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
