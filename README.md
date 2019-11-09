@@ -20,15 +20,6 @@ bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
-https://www.uludagsozluk.com/k/kapanmayan-kad%C4%B1n/ bkz demremi tetikleyen kadın
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz depremler niye oluyo
-https://www.uludagsozluk.com/k/camiler-ne-i%C5%9Fe-yarar/&w=bg bkz 150 db ellllllllleh ekber demeye
-https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maşşalah inşşallak gelsin de bi yalayak amk
-bkz fatih bulutun buluta ateş edip fenerliler allahınızım ulan demesi
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz felipo melo niye evrilmiyo
-https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok dünya niye dönüyor
-https://www.uludagsozluk.com/k/abd%C3%BCrrahim-karako%C3%A7/&w=bg bkz siyahkoç
-https://www.uludagsozluk.com/k/popstar-bayhan/&w=bg bkz bayhan baymahan
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz sizin tayfa bayhan bizim tayfa riç
 -->
 
