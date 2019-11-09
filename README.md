@@ -9,14 +9,6 @@
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
-bkz tv8 in 8 yan yatırmamaması terbiyesizliği
-bkz imamoğlanın ibb logosunu yan yatırıp yaşasın i-8 isikli sekiz yolumuz pozu
-bkz mehmet pişkininin yine 9 kasım 9 u beş geç siyanur içmesi
-bkz koç grubunun her sene 8 yi yan yatırıp yolunu bulması olayı :))) https://www.uludagsozluk.com/e/42393973/
-https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
-https://www.uludagsozluk.com/e/42393028/ bkz kaç para ulan bü flüt
-bkz binaliye benzeyen adam vs atatürke benzeyen adam https://www.youtube.com/watch?v=TWIET1Ehz_Y
-https://eksisozluk.com/ataturke-benzeyen-adamin-isin-bokunu-cikarmasi--6238294?p=2
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
