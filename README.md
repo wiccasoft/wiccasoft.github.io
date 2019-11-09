@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
+https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
 https://www.uludagsozluk.com/e/42393350/ bkz güneşin doğmasında rahatsız olan kamalcılar
 https://www.uludagsozluk.com/k/tayyip-i-s%C4%B1rt%C4%B1ndan-atan-at/&w=bg bkz vadan hayını at
