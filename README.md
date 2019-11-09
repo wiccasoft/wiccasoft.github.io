@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
+https://www.uludagsozluk.com/k/kemalist-nesil/&w=bg bkz kadınlı erkekli seks yapılan karanlık dönem
 https://www.uludagsozluk.com/k/misvak-%C4%B1n-chp-li-vekil-karikat%C3%BCr%C3%BC/ bkz şaka maka iyi gülürdü hee
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-28-ya%C5%9F%C4%B1na-gelmek/&w=bg bkz şaka maka kaka kaka
 https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
