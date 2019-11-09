@@ -13,7 +13,8 @@ https://www.uludagsozluk.com/k/velev-ki-ibneyim/&w=bg bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/ bkz karizmanın oğlu
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/ bkz başka erkeğe vurduruyordur
 https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek/&w=bg bkz sana iş koyuyordur orospu
-bkz zalla bana hep oç derin göt deliğine tüfek sokup ateşelemek
+bkz zall bana hep oç derin göt deliğine tüfek sokup ateşlemek
+bkz zalla bana hep oç deri tanka sokup tankın içinde sikmek
 bkz zall bana hep oç dere asker kıyafeti giydirirp duvardan duvara sikmek
 bkz zall bana hep oç deri zırhın içinden çıkartıp daha sert tokmakla abi diyene kadar sikmek oyşşşşş
 bkz böyle zırhın içine sığunmış bi türk ibnesi olaydı da sikeydik
