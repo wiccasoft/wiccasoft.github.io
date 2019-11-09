@@ -13,6 +13,7 @@ https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393130/ bkz top
 bkz karşıdan tayyip gelirken imamaoğluna bakan erkek
+bkz binaliye beneyen adam vs tayyipe benzeyen adam
 bkz karşıdan kız gelirken önündeki erkeğin götüne bakan erkek
 bkz sevdiceğinin yüreeğin e aşk sokan erkek
 bkz tayyip alt dudak istese naparsınız sorunsalı nick altı girmeyin
