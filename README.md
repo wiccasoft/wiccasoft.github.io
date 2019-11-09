@@ -6,6 +6,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki erdoğan
 https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
 bkz kemalist oğlanların annelerinin çok seksi olduğu gerçeği
 bkz fatih tezcanın yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
