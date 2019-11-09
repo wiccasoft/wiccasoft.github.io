@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42384660/ lol
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
 https://www.uludagsozluk.com/e/42393028/ bkz primcibaşı
+https://www.uludagsozluk.com/k/cumartesi-g%C3%BCn%C3%BC-yap%C4%B1lacaklar/&w=bg bkz göksel kaya ya entry girmek
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg bkz haluk levente benzeyen adam
 https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya/&w=bg bkz atatürke benzeyen adam
 https://www.youtube.com/watch?v=TWIET1Ehz_Y binali yıldırma benzeyen adam
