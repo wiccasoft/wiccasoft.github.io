@@ -10,7 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz vedat mürüqü 50 milyun yürü len amq
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
-https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maşşalah inşşallak gelsin de bi yalayak 
+https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maşşalah inşşallak gelsin de bi yalayak amk
 bkz fatih bulutun buluta ateş edip fenerliler allahınızım ulan demesi
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz felipo melo niye evrilmiyo
 https://www.uludagsozluk.com/k/ateistlerin-cevaplayamada%C4%9F%C4%B1-sorular/&w=bg bkz madem allah yok dünya niye dönüyor
