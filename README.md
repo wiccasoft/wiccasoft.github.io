@@ -20,7 +20,7 @@ bkz ateyizler madem elleh yok ate ye niye tapıyonuz len amq
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz atayızların ellehi kızdırmesi 
-https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz sizin tayfa bayhan bizim tayfa riç
+https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz ne güzeldir kabe yolları
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
