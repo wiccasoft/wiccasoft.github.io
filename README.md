@@ -10,7 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
 https://www.uludagsozluk.com/e/42391717/ bkz yalanır bunlar
-bkz ellek yökse niye nabiyodur diye merek ediyniz
+bkz ellek yökse niye nabiyodur diye merek ediyniz belki karısıyla sikişiy
 bkz medem ellek yök depremler niye ölüy
 bkz medem ellek yok arılar nası yuvaların altıgen yepiy
 bkz medem ellek yök niye inkar ediyonuz bkz kapakin ellehi
