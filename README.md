@@ -10,6 +10,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz vedat mürüqü 50 milyun yürü len amq
 https://www.uludagsozluk.com/e/30500841/ bkz liseyi bitirdiğim yıl doğan velet
+https://www.uludagsozluk.com/k/depremlerin-olma-sebebi/ bkz eşcinsel sikişleri
 https://www.uludagsozluk.com/k/camiler-ne-i%C5%9Fe-yarar/&w=bg bkz 150 db ellllllllleh ekber demeye
 https://www.uludagsozluk.com/k/felipe-melo-de-carvalho/&w=bg bkz maşşalah inşşallak gelsin de bi yalayak amk
 bkz fatih bulutun buluta ateş edip fenerliler allahınızım ulan demesi
