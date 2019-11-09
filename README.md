@@ -11,6 +11,7 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
+https://www.uludagsozluk.com/e/42393130/ bkz vurduruyordur
 https://www.uludagsozluk.com/e/42393364/ bkz temel atmama töreni ahahahahahahahahah
 https://www.uludagsozluk.com/e/42393309/ bkz gecelerime güneş gibin doğan karizmanın oğlu ay çok fena karizma
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-morg%C3%BCl-caney-caney-yorumu/ bkz caney caney işte meydaney
