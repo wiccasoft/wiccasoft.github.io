@@ -9,8 +9,8 @@
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391808/ bkz inşallak gelsin maşşallak yalarun
-bkz eteyizlerin yine göt olması madem elleh yök nasil yalayacak meloyu len emq geline yalacağız len emq
-bkz eteyizler medem elleh yök nasil gol öliy nak yine göt oldiler len emq
+bkz eteyizlerin yine göt olması madem elleh yök nasil yalayacak meloyu len emq gelince yalacağız len emq
+bkz eteyizler medem elleh yök nasil gol öliy bak yine göt oldiler ceveb vermedi len emq
 bkz medem elleh yök niye depremler öliy
 bkz medem elleh yök niye vedat mürüqü elli mülyün yürü len emq
 bkz elleh yökse fatih bulut nası ateş ediy buluta len emq
