@@ -10,8 +10,9 @@
 https://www.uludagsozluk.com/e/42384660/ lol 
 https://www.uludagsozluk.com/e/42391550/ lol
 https://www.uludagsozluk.com/e/42392990/ lol 
+https://www.youtube.com/watch?v=QUYKSWQmkrg
 https://www.uludagsozluk.com/e/42391242/ lol
-https://www.youtube.com/watch?v=4RpMzsA1VOw 
+https://www.youtube.com/watch?v=4RpMzsA1VOw  
 https://www.uludagsozluk.com/k/istanbuldaki-n%C3%BCfusu-%C3%A7anakkaleye-da%C4%9F%C4%B1tmak/ lol
 https://www.uludagsozluk.com/k/bat%C4%B1n%C4%B1n-sevr-plan%C4%B1/ lol
 https://www.uludagsozluk.com/k/bursal%C4%B1-top-volkan/&w=bg lol https://www.youtube.com/watch?v=NXQJ9iR5BkA
