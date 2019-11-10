@@ -7,6 +7,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=CUtdSwxBlm4 )
 <!-- 
+bkz 9 u bes gece fosur fosur uyumak :)))
 bkz abdulhamid kayıhan osmanoğlunun atatürke benzeye adam paylaşımı
 bkz murat bardaçıoğlunun abdulhamdi hayıhan osmanoğlunun yaptığı terbiyesizliği savunması
 https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
