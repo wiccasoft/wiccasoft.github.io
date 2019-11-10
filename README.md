@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz köpek gibi azıtkabire giden ezikler
 bkz rtenin hitleri kıskandığı gerçeği 
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz mustafa kemal atatürk
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-demir-yumru%C4%9Funu-vurmas%C4%B1-gereklili%C4%9Fi/ 
 bkz imamoğlanın marmaris yerleşme planı
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin istanbul planı
