@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz burası karışır beyler vaziyet alın
 https://www.uludagsozluk.com/k/an%C4%B1tkabirde-ziyaret%C3%A7i-rekoru-k%C4%B1r%C4%B1lmas%C4%B1/&w=bg
 bkz dünya lideri mustafa kemal doğan mı recep tayyip doğan mı sorunsalı
 bkz antalya istanbul cok hojtur amam banane https://www.youtube.com/watch?v=4RpMzsA1VOw
