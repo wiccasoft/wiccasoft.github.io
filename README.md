@@ -6,6 +6,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=bpI4NiUmZoU )
 <!-- 
+https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz tv 100 ün yaptığı terbiyesizlik
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
 https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
 bkz tv100 ün 10 kasım logosundaki mardakçı nın dönen kafası
