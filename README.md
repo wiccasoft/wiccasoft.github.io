@@ -8,6 +8,7 @@
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest 
 bkz patates soğan nasıl koydu erdoğan
 bkz recep tayyip erdoğan vs mustafa kemal doğan
+bkz üç isimli lider karizması
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg 
 https://www.uludagsozluk.com/k/bah%C3%A7eli-t%C3%B6rene-kat%C4%B1lmad%C4%B1/ bkz bahçelinin bahçesinde dönen garip olaylar
 https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz muhteşem zikrlerin döndüğü ilim irfan yuvası
