@@ -10,6 +10,7 @@
 <!-- 
 bkz ekreem imamaoğlanın köpek gibi azıtkabire gitmesi
 bkz tayyip köpek doğanın köpek gibi azıtkabire gitmesi
+bkz ekrem imamaoğlan vs recep tayyip erdoğan vs mustafa kemal atatürkdoğan
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz azıtkabir raat uyu koç yazıp yatmak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlanın azıtkabire yazdığı duygu dolu notlar
 https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
