@@ -11,9 +11,7 @@
 <!-- bkz sizin tayfa biç biç bizim tayfa riç riç dinlerken babanın odaya girip dövmesi-->
 <!-- https://www.uludagsozluk.com/e/31457034/ bkz tıpkısının aynısı -->
 <!-- https://www.uludagsozluk.com/e/42398488/ bkz lafa gelince tupac marley -->
-<!-- https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz siniz tayfa biç bizim tayfa riç -->
-<!-- https://www.uludagsozluk.com/e/42398457/ bkz mehmet altanın alttan aldığı kardeşi -->
-<!-- https://www.uludagsozluk.com/e/42398333/ bkz akp nini kızları  getirdiği nokta -->
+<!-- https://www.uludagsozluk.com/e/42398333/ bkz akp nin patlak kızları getirdiği nokta -->
 <!-- bkz akpli patlak kızların çok sıkıcı olduğu gerçeği -->
 <!-- bkz akpli patlak kızların 3 isimli erkek hayranlığı -->
 <!-- bkz akpli patlak kızı namazda hoplatacam diye kandırıp california da karı hoplatmak -->
