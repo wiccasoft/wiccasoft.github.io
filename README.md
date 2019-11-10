@@ -8,6 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+bkz xi jipingi anıkabire gidip atatürkten özür dileyip yapma abi demesi
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-haberleri-ayakta-sunan-g%C3%BCney-koreli/
 bkz azıtkabirinize zokayım bana bişey olmasın
 bkz tv8 in 8 i yan yatırıp meme yapması terbiyesizliği
