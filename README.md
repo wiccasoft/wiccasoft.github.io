@@ -9,7 +9,7 @@
 bkz patates soğan nasıl koydu erdoğan
 bkz recep tayyip erdoğan vs mustafa kemal doğan
 bkz üç isimli lider karizması
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-damad%C4%B1n%C4%B1n-serbest-b%C4%B1rak%C4%B1lmas%C4%B1/&w=bg
+https://www.uludagsozluk.com/e/42397740/ bkz damadın serbest bırakılmasına ese ewtmeyen milli görüş gömlekliler
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg 
 https://www.uludagsozluk.com/k/bah%C3%A7eli-t%C3%B6rene-kat%C4%B1lmad%C4%B1/ bkz bahçelinin bahçesinde dönen garip olaylar
 https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz muhteşem zikrlerin döndüğü ilim irfan yuvası
