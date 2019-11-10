@@ -11,7 +11,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=GuJQSAiODqI )
 <!-- 
-https://www.youtube.com/watch?v=4RpMzsA1VOw bkz antalya istanbul çok hojdır amam banana projesi
+https://www.youtube.com/watch?v=4RpMzsA1VOw bkz ankara istanbul çok hojdır ama banana projesi
 https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
 -->
 
