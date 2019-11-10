@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+https://www.uludagsozluk.com/k/cankan/&w=bg bkz https://www.youtube.com/watch?v=q_il9VLZhhI
 bkz erdoganin azıtkabirre yazdığı not
 bkz atatürke benzeyen adamın patlak kız istememsi
 bkzk atatürk için götümü siktirirm diyen alman
