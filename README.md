@@ -8,6 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz aatatürk benzeyen adamın kafama sıkar giderim diyip zikirden kaçması -->
+<!-- https://www.uludagsozluk.com/k/einstein-vs-atat%C3%BCrk/ bkz iki formül hırsızı-->
 <!-- bkz maxwell vs einstein-->
 <!-- bkz einstein in patent ofisinde çalışırken hırsızlık yapıp ünlü olduğu gerçeği-->
 
