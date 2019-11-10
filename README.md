@@ -8,6 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
+<!-- https://www.uludagsozluk.com/e/31457034/ bkz tıpkısının aynısı -->
 <!-- https://www.uludagsozluk.com/e/42398488/ bkz lafa gelince tupac marley -->
 <!-- https://www.uludagsozluk.com/k/norm-ender/&w=bg bkz siniz tayfa biç bizim tayfa riç -->
 <!-- https://www.uludagsozluk.com/e/42398457/ bkz mehmet altanın fedöncü kardeşi -->
