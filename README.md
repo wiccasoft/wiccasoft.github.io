@@ -12,8 +12,6 @@
 <!-- bkz ali şan ın türk kürt kardeş değildir açıklaması -->
 <!-- bkz köfteci yusufu ballandıra ballandıra anlatan eşcinsel -->
 <!-- bkz cem uzan ın telsim reklamında cem yılmazı oynatmam hataydı açıklaması -->
-<!-- bkz sloukas'ın kız arkdaşım türklerle sevişebilir açıklaması -->
-<!-- bkz atatürke benzeyen adamın osmanlı ararpları arkadan vurdu açıklması -->
 <!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği-->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
