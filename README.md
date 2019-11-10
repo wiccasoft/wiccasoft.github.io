@@ -8,6 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
+<!-- uğur dündar can dündarın abisi mi kardeşi mi sorunsalı -->
 <!-- mehmet altan ahmet altanın abisi mi kardeşi mi sorunsalı -->
 <!-- mehmet altan vs uğur dündar-->
 <!-- bkz sizin tayfa biç biç bizim tayfa riç riç dinlerken babanın odaya girip dövmesi-->
