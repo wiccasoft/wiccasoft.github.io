@@ -17,6 +17,8 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz köpek gibi azıtkabire giden ezikler
+bkz recep tayyip doğanın mustafa kamal atatürkdğanı kıskanması
+https://www.uludagsozluk.com/k/rte-nin-atat%C3%BCrk-%C3%BC-k%C4%B1skand%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/osman-y%C3%BCksel-serdenge%C3%A7ti/&w=bg bkz yahudilerin maşası
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin büyük istanbul planı
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-korkusu-adam%C4%B1-an%C4%B1tkabire-g%C3%B6t%C3%BCr%C3%BCr/
