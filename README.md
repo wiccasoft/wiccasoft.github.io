@@ -13,7 +13,6 @@
 <!-- bkz köfteci yusufu ballandıra ballandıra anlatan eşcinsel -->
 <!-- bkz cem uzan ın telsim reklamında cem yılmazı oynatmam hataydı açıklaması -->
 <!-- bkz sloukas'ın kız arkdaşım türklerle sevişebilir açıklaması -->
-<!-- bkz ulucuların üstüne fatih altaylıyla jason statham fırlatıp kafa dinlemek -->
 <!-- bkz atatürke benzeyen adamın osmanlı ararpları arkadan vurdu açıklması -->
 <!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği-->
 
