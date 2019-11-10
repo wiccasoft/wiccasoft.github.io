@@ -34,7 +34,7 @@ bkz imamoğlanın marmaris yerleşme planı
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin istanbul planı
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/ bkz atatayyipdogan
 https://www.uludagsozluk.com/k/ak-parti-nin-fabrika-ayarlar%C4%B1na-geri-d%C3%B6nmesi/ bkz akp amasya milletvekili
-bkz recep tayyip doğanın mustafa kamal atatürkdğanı kıskanması
+bkz recep tayyip doğanın mustafa kama doğanı kıskanması
 https://www.uludagsozluk.com/k/rte-nin-atat%C3%BCrk-%C3%BC-k%C4%B1skand%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/osman-y%C3%BCksel-serdenge%C3%A7ti/&w=bg bkz yahudilerin maşası
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin büyük istanbul planı
