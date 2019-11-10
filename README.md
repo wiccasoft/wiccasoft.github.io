@@ -6,6 +6,7 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest 
+https://www.uludagsozluk.com/k/namaz-k%C4%B1lmayanlar%C4%B1n-cennete-gidemeyecek-olmas%C4%B1/&w=bg bkz rükuda eğilmemek
 https://www.uludagsozluk.com/k/instagram-kullanmayan-birini-ciddiye-almak/&w=bg bkz bi gülme geldi yine
 https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz menzile girmiş cemaat
 https://www.uludagsozluk.com/k/eski-t%C3%BCrkiye-vs-yoksulluktan-%C3%B6l%C3%BCnen-yeni-t%C3%BCrkiye/&w=bg bkz muhteşem olay
