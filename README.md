@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz köpek gibi azıtkabire giden ezikler
+https://www.uludagsozluk.com/k/osman-y%C3%BCksel-serdenge%C3%A7ti/&w=bg bkz yahudilerin maşası
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin büyük istanbul planı
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-korkusu-adam%C4%B1-an%C4%B1tkabire-g%C3%B6t%C3%BCr%C3%BCr/
 https://www.uludagsozluk.com/k/cem-uzan/&w=gd  https://www.youtube.com/watch?v=7iUd2Jni1d0
