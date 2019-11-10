@@ -5,7 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 
-[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=CUtdSwxBlm4 )
+[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
 bkz 9 u bes gece fosur fosur uyumak :)))
 bkz abdulhamid kayıhan osmanoğlunun atatürke benzeye adam paylaşımı
