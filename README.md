@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
-[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
+[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=bpI4NiUmZoU )
 <!-- 
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz  https://www.youtube.com/watch?v=bpI4NiUmZoU
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz kemalcim canişkom okuduğunu biliyorum rahat ol koç
