@@ -6,7 +6,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=bpI4NiUmZoU )
 <!-- 
-bkz atatürksüz bir gün geçirebilmek
+bkz atatürk ün türklerin atası olması
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz  https://www.youtube.com/watch?v=bpI4NiUmZoU
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz okanların bayülgen kökenli kayı boyu
 https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı kara murat türk bükü handenlığı
