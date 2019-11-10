@@ -7,7 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
-<!-- bkz atatürkün 100 yılda bir geldiği gerçeği-->
+<!-- bkz atatürk gibilierin 100 yılda bir geldiği gerçeği-->
 <!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafanın mayalı vücutta bulunduğunu anlayan gdo lu tugrul -->
 <!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızın suda çıakrdığı sese -->
 <!-- bkz atatürkün kusursuz oduğunu anlayan gdo lu akp li-->
