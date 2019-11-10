@@ -19,6 +19,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 <!-- 
 https://www.youtube.com/watch?v=q_il9VLZhhI
 https://www.uludagsozluk.com/k/kemalizm-dini/&w=bg
+https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1-koruma-kanunu/
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-%C5%9Firketlerin-atat%C3%BCrk-%C3%BC-anma-videolar%C4%B1/
 https://www.uludagsozluk.com/k/cankan/&w=bg bkz https://www.youtube.com/watch?v=q_il9VLZhhI
 bkz erdoganin azıtkabirre yazdığı not
