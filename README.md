@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- bkz bakire kızların patlak kızları kıskanması -->
 <!-- bkz menzil cemaatinin bakire kızlar her yere cici kızlar cennete zikri -->
 <!-- bkz bakire isteyen yavşak erkeğin arsız bela çıkması -->
 <!-- bkz bakire isteyen yavşak erkeğin suda hoplattığı kızın patlak çıkması-->
