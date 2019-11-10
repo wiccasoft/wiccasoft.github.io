@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz istanbulda toplu intihar şenlikleri
 https://www.uludagsozluk.com/k/her-k%C3%B6%C5%9Fe-ba%C5%9F%C4%B1nda-dilencisi-olan-d%C3%BCnya-lideri/ bkz atatürk
 bkz bir kemalistin kelime haznesi : imamdoğan mustafakemalatatürk doğan recep tayyip doğan
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
