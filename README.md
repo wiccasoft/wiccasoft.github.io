@@ -9,6 +9,8 @@
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
 bkz 9 u bes gece fosur fosur uyumak :)))
+hadi atayızlar bunu da açıklayın
+https://www.uludagsozluk.com/k/zeus-un-zikti%C4%9Fi-kar%C4%B1lar-s%C4%B1ral%C4%B1-tam-liste/&w=gd 
 bkz abdulhamid kayıhan osmanoğlunun atatürke benzeye adam paylaşımı
 bkz murat bardaçıoğlunun abdulhamdi hayıhan osmanoğlunun yaptığı terbiyesizliği savunması
 https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
