@@ -8,6 +8,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz  https://www.youtube.com/watch?v=bpI4NiUmZoU
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz okanların bayülgen kökenli kayı boyu
+https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı handenlığı
 https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğzuların kayı boyu kökenli yiğido
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kayı boyu iki türk
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz kemalcim canişkom okuduğunu biliyorum rahat ol koç
