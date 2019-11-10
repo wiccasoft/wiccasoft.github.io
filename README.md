@@ -8,6 +8,8 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
+<!-- https://www.uludagsozluk.com/e/42398457/ bkz mehmet altanın fedöncü kardeşi -->
+<!-- https://www.uludagsozluk.com/e/42398333/ bkz akp nini kızları  getirdiği nokta -->
 <!-- bkz akpli patlak kızların çok sıkıcı olduğu gerçeği -->
 <!-- bkz akpli patlak kızların 3 isimli erkek hayranlığı -->
 <!-- bkz akpli patlak kızı namazda hoplatacam diye kandırıp california da karı hoplatmak -->
