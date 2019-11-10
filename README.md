@@ -8,6 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
+<!-- ahmet altan la bir gece mehmet altan la bir gece sorunsalı -->
 <!-- uğur dündar can dündarın abisi mi kardeşi mi sorunsalı -->
 <!-- mehmet altan ahmet altanın abisi mi kardeşi mi sorunsalı -->
 <!-- atatürke benzeyen adam istese verir misin sorunsalı -->
