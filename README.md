@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
 https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz okanların bayülgen kökenli kayı boyu
 https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı kara murat türk bükü handenlığı
-https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğzuların kayı boyu kökenli yiğido
+https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayı boyu kökenli yiğido
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kayı boyu iki türk
 https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayıboyu
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz oğuzların türk kağanlığı soyundan
