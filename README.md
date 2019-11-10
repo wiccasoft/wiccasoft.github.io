@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- bkz bi gece ahmet altanla seks vs bi gece mehmet altanla seks -->
 <!-- bkz flört edecek erkek kalmasa napardınız sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42398608/ bkz atatürke benzeyen vampir ısırsa napardınız sorunsalı -->
 <!-- bkz ekrem immaoğluna benzeyen adamla mı flört yoksa binaliye benzeyen adam la mı flört istersin sorunsalı -->
