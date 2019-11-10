@@ -8,7 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
-bkz köpek gibi azıtkabire giden ezikler
+bkz köpek gibi azıtkabire giden ezikler :))))
 bkz ekrem imamaoğlan vs recep tayyip erdoğan vs mustafa kemal atatürkdoğan
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz azıtkabir raat uyu koç yazıp yatmak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlanın azıtkabire yazdığı duygu dolu notlar
