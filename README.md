@@ -17,6 +17,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz köpek gibi azıtkabire giden ezikler
+bkz rtenin hitleri kıskandığı gerçeği 
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin istanbul planı
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/ bkz atatayyipdogan
 https://www.uludagsozluk.com/k/ak-parti-nin-fabrika-ayarlar%C4%B1na-geri-d%C3%B6nmesi/ bkz akp amasya milletvekili
