@@ -8,7 +8,7 @@
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=CUtdSwxBlm4 )
 <!-- 
 bkz abdulhamid kayıhan osmanoğlunun atatürke benzeye adam paylaşımı
-bkz murat bardaçıoğlunun abdulhamdi hayıhan osmanoğlunun savunması
+bkz murat bardaçıoğlunun abdulhamdi hayıhan osmanoğlunun yaptığı terbiyesizliği savunması
 https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
 https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz tv 100 ün yaptığı terbiyesizlik
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
