@@ -8,38 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
-bkz köpek gibi azıtkabire giden ezikler :))))
-bkz ekrem imamaoğlan vs recep tayyip erdoğan vs mustafa kemal atatürkdoğan
-https://www.uludagsozluk.com/k/09-05/&w=bg bkz azıtkabir raat uyu koç yazıp yatmak
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlanın azıtkabire yazdığı duygu dolu notlar
 https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-bir-yahudi-plan%C4%B1d%C4%B1r/&w=bg bkz yavudi malı almıyos
-https://www.uludagsozluk.com/k/rte-nin-hemen-unutulaca%C4%9F%C4%B1n%C4%B1-sanan-mal/ bkz acele etme papaz efendi
-bkz azıtkabire atam atam gah ta ben yatam yazıp yatmak
-https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-haberleri-ayakta-sunan-g%C3%BCney-koreli/
-bkz azıtkabirinize zokayım bana bişey olmasınkz tv8 in 8 i yan yatırıp meme yapması terbiyesizliği
-https://www.uludagsozluk.com/k/an%C4%B1tkabir-deki-akp-provakasyonu/ bkz atatürk kafasını siyaha boyayıp koymak
-bkz sade sayanı saymayan yeni nesil
-bkz 9 u bes gece fosur fosur uyumak :)))
-hadi atayızlar bunu da açıklayın
-bkz yeni dünya devletini kurup türklerle taşşak geçmek
-https://www.uludagsozluk.com/k/lionel-messi-vs-cristiano-ronaldo/&w=bg
-https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz noldii renciniz soldi
-https://www.uludagsozluk.com/k/zeus-un-zikti%C4%9Fi-kar%C4%B1lar-s%C4%B1ral%C4%B1-tam-liste/&w=gd 
-https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
-https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz tv 100 ün yaptığı terbiyesizlik
-https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
-https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
-bkz tv100 ün 10 kasım logosundaki mardakçı nın dönen kafası
-bkz tv100 ün ataya yaptığı terbiyesizlik
-https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz bayülgenlerin okan boyu
-https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz kıpçakların bardakçı boyu kökenli türkler
-https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz okanların bayülgen kökenli kayı boyu
-https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı kara murat türk bükü handenlığı
-https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayı boyu kökenli yiğido
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kayı boyu iki türk
-https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayıboyu
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz oğuzların türk kağanlığı soyundan
 -->
 
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
