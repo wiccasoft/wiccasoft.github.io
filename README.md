@@ -9,6 +9,7 @@
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz ahmet kayanın kafama sıkar giderim diyip zikirden kaçması -->
 <!-- bkz maxwell vs einstein-->
+<!-- bkz einstein in patent ofisinde çalışırken hırsızlık yapıp ünlü olduğu gerçeği-->
 
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
