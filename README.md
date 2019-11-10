@@ -8,6 +8,7 @@
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz atatürkün yüz yılda bir geldiği gerçeği -->
 <!-- bkz fatih altaylının osmanlı polisine küfretmesi -->
+<!-- bkz ali şan ın türk kürt kardeş değildir açıklaması -->
 <!-- bkz köfteci yusufu ballandıra ballandıra anlatan eşcinsel -->
 <!-- bkz cem uzan ın telsim reklamında cem yılmazı oynatmam hataydı açıklaması -->
 <!-- bkz sloukas'ın kız arkdaşım türklerle sevişebilir açıklaması -->
