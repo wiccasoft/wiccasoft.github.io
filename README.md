@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
-[![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=ScA_ywMj2po )
+[![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
