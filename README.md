@@ -17,6 +17,8 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+bkzk atatürk için götümü siktirirm diyen alman
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-cenazesi-i%C3%A7in-kendini-feda-eden-alman/
 bkz atatürk benzeyen adamın lokantada ramiz dayı gibi hareketler yapması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-lokanta-ziyareti/&w=bg
 bkz atatürk benzeyen adamın bakire kız sevdası
