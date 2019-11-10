@@ -7,7 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
-<!-- https://www.uludagsozluk.com/e/42397881/ bkz gardaşım köz getir seri -->
+<!-- https://www.uludagsozluk.com/e/42397881/ bkz gardaşım köz getir seri  https://www.youtube.com/watch?v=CUtdSwxBlm4-->
 <!-- bkz atatürk benzeyen adamın kafama sıkar giderim diyip zikirden kaçması -->
 <!-- https://www.uludagsozluk.com/k/einstein-vs-atat%C3%BCrk/-->
 <!-- bkz maxwell vs einstein-->
