@@ -8,6 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+bkz azıtkabire gitmemek
 bkz tv8 in 8 i yan yatırıp meme yapması terbiyesizliği
 https://www.uludagsozluk.com/k/an%C4%B1tkabir-deki-akp-provakasyonu/ bkz atatürk kafasını siyaha boyayıp koymak
 bkz sade sayanı saymayan yeni nesil
