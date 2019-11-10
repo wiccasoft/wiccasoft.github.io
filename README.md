@@ -8,7 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- ısrarla atatürkün türk olmadığını iddia etmek-->
-<!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafa biralı vücutta bulunduğunu anlayan gdo lu akpli tugrul -->
+<!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafanın biralı vücutta bulunduğunu anlayan gdo lu akpli tugrul -->
 <!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızın suda çıakrdığı sese -->
 <!-- bkz atatürkün kusursuz oduğunu anlayan gdo lu akp li-->
 <!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafa sağlam vücutta bulunur-->
