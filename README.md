@@ -6,6 +6,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz atam gel de yanında yatam
 https://www.uludagsozluk.com/e/42395480/ bkz tatlı olgun orospuların çocuklarına boru gibi döşemek
 https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/  bkz karimanın oğlu vs orospunun oğlu
