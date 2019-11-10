@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+bkz bir kemalistin kelime haznesi : imamadoğan atatürkdoğan tayyip doğan
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
 bkzk imamdoğan vs atatürkdoğan vs tayyipdoğan
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz atam gah ta ben yatam
