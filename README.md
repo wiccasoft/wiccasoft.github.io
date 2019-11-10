@@ -19,7 +19,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 <!-- 
 bkz patlak kızın suda çıkdardığı ses
 https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=gd bkz kız bakire değilse normal
+https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=gd bkz kız patlak kız
 bkz apple in ios 8 i yan yatırıp ikiye bölerek ataya yaptığı saygı
 bkz başta bütün dünyanın saydığı baş kuamndan bkz ios8
 https://www.uludagsozluk.com/e/42395869/ bkz dünyaya liderin kim olduğunu göstermek 
