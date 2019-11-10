@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
-[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=bpI4NiUmZoU )
+[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=CUtdSwxBlm4 )
 <!-- 
 bkz 11 kasım bayülgenin tv100 ün ataya yaptığı terbiyesizliği savunması
 https://eksisozluk.com/mustafa-kemal-ataturk--34712?a=popular bkz atatürk şiiri okurken ağlayan genç
