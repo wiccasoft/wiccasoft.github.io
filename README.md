@@ -12,6 +12,7 @@ bkz 9 u bes gece fosur fosur uyumak :)))
 hadi atayızlar bunu da açıklayın
 bkz yeni dünya devletini kurup türklerle taşşak geçmek
 bkz sade sayanı saymayan yeni nesil
+https://www.uludagsozluk.com/k/murat-g%C3%B6%C4%9Febakan/&w=bg bkz tek gözü seğiren reyiz
 https://www.uludagsozluk.com/k/an%C4%B1tkabir-deki-akp-provakasyonu/
 https://www.uludagsozluk.com/k/lionel-messi-vs-cristiano-ronaldo/&w=bg
 https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz noldii renciniz soldi
