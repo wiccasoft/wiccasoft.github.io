@@ -9,7 +9,7 @@
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz atatürk ün 100 yılda bir geldiği gerçeği-->
 <!-- bkz maxwell vs einstein-->
-<!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini hırsızlık yapıp ünlü olduğu gerçeği-->
+<!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği-->
 
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
