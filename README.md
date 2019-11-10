@@ -19,7 +19,7 @@ bkz dünya lideri mustafa kemal doğan mı recep tayyip doğan mı sorunsalı
 bkz antalya istanbul cok hojtur amam banane https://www.youtube.com/watch?v=4RpMzsA1VOw
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/
 https://www.uludagsozluk.com/k/her-k%C3%B6%C5%9Fe-ba%C5%9F%C4%B1nda-dilencisi-olan-d%C3%BCnya-lideri/
-bkz bir kemalistin kelime haznesi : imamdoğan mustafakemalatatürk doğan recep tayyip doğan
+bkz bir kemalistin kelime haznesi : imamdoğan mustafakemaldoğan receptayyipdoğan
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
 bkzk imamdoğan vs atatürkdoğan vs tayyipdoğan
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz atam gah ta ben yatam
