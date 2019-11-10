@@ -6,6 +6,7 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest 
+https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz menzile girmiş cemaat
 https://www.uludagsozluk.com/k/eski-t%C3%BCrkiye-vs-yoksulluktan-%C3%B6l%C3%BCnen-yeni-t%C3%BCrkiye/&w=bg bkz muhteşem olay
 https://www.uludagsozluk.com/k/bah%C3%A7eli-t%C3%B6rene-kat%C4%B1lmad%C4%B1/ bkz bahcelinin gdo lu ürün yememesi
 https://www.uludagsozluk.com/k/kurunun-yan%C4%B1nda-bir-ba%C5%9F-so%C4%9Fan-k%C4%B1ran-k%C4%B1z/&w=bg 
