@@ -15,7 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
-bkz apple in 8 i yan yatırıp ataya yaptığı saygı
+bkz apple in ios8 i yan yatırıp ikiye bölerek ataya yaptığı saygı
 bkz başta bütün dünyanın saydığı baş kuamndan bkz ios8
 https://www.uludagsozluk.com/e/42395869/ bkz dünyaya liderin kim olduğunu göstermek bkz sending from iphone
 bkz send from iphone
