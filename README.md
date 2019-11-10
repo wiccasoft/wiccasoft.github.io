@@ -10,6 +10,7 @@
 <!-- 
 bkz 9 u bes gece fosur fosur uyumak :)))
 hadi atayızlar bunu da açıklayın
+https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz noldii renciniz soldi
 https://www.uludagsozluk.com/k/zeus-un-zikti%C4%9Fi-kar%C4%B1lar-s%C4%B1ral%C4%B1-tam-liste/&w=gd 
 bkz abdulhamid kayıhan osmanoğlunun atatürke benzeye adam paylaşımı
 bkz murat bardaçıoğlunun abdulhamdi hayıhan osmanoğlunun yaptığı terbiyesizliği savunması
