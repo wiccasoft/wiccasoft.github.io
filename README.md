@@ -5,7 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=ScA_ywMj2po )
-<!-- bkz apple in io 8 i 4 bölerek ataya yaptığı jest -->
+<!-- bkz apple in ios 8 i yan yatırıp 2 ye bölerek ataya yaptığı jest -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
 
