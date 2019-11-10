@@ -12,9 +12,9 @@
 <!-- bkz cankan la bir gece seks vs ismail yk ile bir gece seks -->
 <!-- bkz orhan bencegay gayle bir gece seks vs müslüm gürses le bir gece seks -->
 <!-- bkz leonard cohenle bir gece seks vs müslüm gürses le bir gece seks -->
+<!-- bkz leonerd cohenle bi gece seks vs tom waits le bi gece seks sorunsalı -->
 <!-- bkz erkeksiz kalsanız kime entry i girerdiniz sorunsalı -->
 <!-- bkz ahmet altanla bir gece seks vs mehmet altanla bir gece seks -->
-<!-- bkz leonerd cohenle bi gece seks vs tom waits le bi gece seks sorunsalı -->
 <!-- bkz ahmet altan sakallarını göt deliğinize sürtse napardınız sorunsalı -->
 <!-- bkz flört edecek erkek kalmasa napardınız sorunsalı -->
 <!-- bkz ekrem immaoğluna benzeyen adamla mı flört yoksa binaliye benzeyen adam la mı flört istersin sorunsalı -->
@@ -29,8 +29,6 @@
 <!-- bkz sizin tayfa biç biç bizim tayfa riç riç dinlerken babanın odaya girip dövmesi-->
 <!-- https://www.uludagsozluk.com/e/31457034/ bkz tıpkısının aynısı -->
 <!-- https://www.uludagsozluk.com/e/42398488/ bkz lafa gelince tupac marley -->
-<!-- https://www.uludagsozluk.com/e/42398457/ bkz fedöcüycymüş kesin bilgi yayalım kızlar -->
-<!-- https://www.uludagsozluk.com/e/42398333/ bkz akp nin patlak kızları getirdiği nokta -->
 <!-- bkz akpli patlak kızların çok sıkıcı olduğu gerçeği -->
 <!-- bkz akpli patlak kızların 3 isimli erkek hayranlığı -->
 <!-- bkz akpli patlak kızı namazda hoplatacam diye kandırıp california da karı hoplatmak -->
