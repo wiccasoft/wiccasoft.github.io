@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+bkz recep tayyip erdoğan vs mustafa kamal atatürkdoğan
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz köpek gibi azıtkabire giden ezikler
 bkz rtenin hitleri kıskandığı gerçeği 
