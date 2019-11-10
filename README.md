@@ -5,51 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
-<!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
-<!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
-<!-- bkz neşet ertaş gay mi sorunsalı -->
-<!-- bkz vajiye tav olmayan erkek vs götçü erkek sorunsalı -->
-<!-- bkz ıssız bi adaya düşseniz yanınıza hangi 3 erkeği alırsınız sorunsalı -->
-<!-- bkz cankan la bir gece seks vs ismail yk ile bir gece seks -->
-<!-- bkz orhan bencegay gayle bir gece seks vs müslüm gürses le bir gece seks -->
-<!-- bkz leonard cohenle bir gece seks vs müslüm gürses le bir gece seks -->
-<!-- bkz leonerd cohenle bi gece seks vs tom waits le bi gece seks sorunsalı -->
-<!-- bkz erkeksiz kalsanız kime entry i girerdiniz sorunsalı -->
-<!-- bkz ahmet altanla bir gece seks vs mehmet altanla bir gece seks -->
-<!-- bkz ahmet altan sakallarını göt deliğinize sürtse napardınız sorunsalı -->
-<!-- bkz flört edecek erkek kalmasa napardınız sorunsalı -->
-<!-- bkz ekrem immaoğluna benzeyen adamla mı flört yoksa binaliye benzeyen adam la mı flört istersin sorunsalı -->
-<!-- bkz ekrem imamoğlu binali yıldırım ortak yayın parodi deki adam yakışıklı mı sorunsalı -->
-<!-- bkz binali yıldırıma benzeyen adammın atatürke benzeyen adamdan daha yakışıklı olduğu gerçeği -->
-<!-- bkz atatürke benzeyen adam arkadan istese verir misiniz sorunsalı -->
-<!-- bkz akpli patlak kızları ciddiye almak -->
-<!-- ahmet altan la bir gece mehmet altan la mı bir gece istersin sorunsalı -->
-<!-- uğur dündar can dündarın abisi mi kardeşi mi sorunsalı -->
-<!-- mehmet altan ahmet altanın abisi mi kardeşi mi sorunsalı -->
-<!-- atatürke benzeyen adam istese verir misin sorunsalı -->
-<!-- bkz sizin tayfa biç biç bizim tayfa riç riç dinlerken babanın odaya girip dövmesi-->
-<!-- https://www.uludagsozluk.com/e/31457034/ bkz tıpkısının aynısı -->
-<!-- https://www.uludagsozluk.com/e/42398488/ bkz lafa gelince tupac marley -->
-<!-- bkz akpli patlak kızların çok sıkıcı olduğu gerçeği -->
-<!-- bkz akpli patlak kızların 3 isimli erkek hayranlığı -->
-<!-- bkz akpli patlak kızı namazda hoplatacam diye kandırıp california da karı hoplatmak -->
-<!-- bkz akpli patlak kızların namaz kılarken daha iyi domalması -->
-<!-- bkz patlak kızların 3 isimli erkeklere olan zaafı -->
-<!-- bkz patlak kızların friedrich wilhelm nietzsche hayranlığı -->
-<!-- bkz menzil cemaatinin bakire kızlar her yere cici kızlar cennete zikri -->
-<!-- bkz bakire isteyen yavşak erkeğin arsız bela çıkması -->
-<!-- bkz bakire isteyen yavşak erkeğin suda hoplattığı kızın patlak çıkması-->
-<!-- bkz naim süleymanoğlunun küçük pipili olduğu gerçeği -->
-<!-- bkz hülagu hana dokunamsdan ölecek olan patlak kızlar -->
-<!-- bkz patlak kızların suda çıkardığı yavşak ses -->
-<!-- bkz hiç suda hoplatılmamış patlak kızların suda çıkardığı yavşak ses -->
-<!-- bkz hiç dokunamayacağı futbolculara entry girerken ölecek olan kızlar-->
-<!-- bkz entry girerken hiç suda hoplatılmadan ölecek olan şişman ve patlak götlü patlak kızlar-->
-<!-- bkz hiç suda hoplatılmadan ölecek olan patlak kızlar-->
-<!-- bkz atatürk ün 100 yılda bir geldiği gerçeği-->
-<!-- bkz maxwell vs einstein-->
-<!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği-->
-
+<!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
 
