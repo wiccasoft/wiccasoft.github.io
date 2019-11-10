@@ -9,7 +9,7 @@
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızların suda çıkardığı yavşak ses -->
 <!-- bkz hiç suda hoplatılmamış patlak kızların suda çıkardığı yavşak ses -->
-<!-- bkz dokunamaycağı futbolculara entry girerken ölecek olan kızlar-->
+<!-- bkz hiç dokunamaycağı futbolculara entry girerken ölecek olan kızlar-->
 <!-- bkz entry girerken hiç suda hoplatılmadan ölecek olan şişman ve patlak götlü patlak kızlar-->
 <!-- bkz hiç suda hoplatılmadan ölecek olan patlak kızlar-->
 <!-- bkz atatürk ün 100 yılda bir geldiği gerçeği-->
