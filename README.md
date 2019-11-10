@@ -11,30 +11,10 @@ https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz okanların bayülgen
 https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı türk bükü  handenlığı
 https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğzuların kayı boyu kökenli yiğido
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kayı boyu iki türk
-https://www.uludagsozluk.com/k/09-05/&w=bg bkz kemalcim canişkom okuduğunu biliyorum rahat ol koç
+https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koç
 https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
-https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyuy rahat ol heee hakkaında öle böle diyiler şey yapma hadi koçum
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz atam gel de yanında yatam
-https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayıboyu,
-,https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz oğuzların türk kağanlığı soyundan
-https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz kıpçak bardakçı hanedanlığı
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz kıpçak kökeneli türkler
-https://www.uludagsozluk.com/e/42395480/ bkz tatlı olgun orospuların çocuklarına boru gibi döşemek
-https://www.uludagsozluk.com/k/rize-den-do%C4%9Fan-g%C3%BCne%C5%9F/  bkz karimanın oğlu vs orospunun oğlu
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz 3 isimli iki orospu
-https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=bg bkz annen yanımda
-bkz kemalistler türk önde türk ileri dinlerken annelerinin bir ileri bir geri dağıtması olayı
-bkz kemalistlerin annesini fethederken dinlenecek şarkılar
-bkz 10 kasımı kemalist seksi bir anneyle sevişerek kutlamak
-bkz kemalist oğlanlsr hhakkında entry girerken annelerinin sarhoş olması olayı
-bkz kemalistin annesine yaklaşırken dikkat edilecek hususlar 
-bkz kemalist oğlan annesi emcüklernirken dikkat edilecek hususlar
-bkz kemalist oğlanların annelerinin de sinirli olması yatakta yani
-bkz kemalist sinirli oğlanların annelerinin çok seksi olduğu gerçeği
-bkz fatih terimin yavaş yavaş kemalistlerin annesini emcüklediği gerçeği
-bkz kemalist olgun kadınla sevişmenin hazzı 
-bkz tek dünya devletini kurup sınırsızca bütün ülkelerin olgun kadınlarıyla sevişmek
-bkz my friend's hot mommies
+https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayıboyu
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz oğuzların türk kağanlığı soyundan
 -->
 
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
