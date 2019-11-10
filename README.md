@@ -8,6 +8,7 @@
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz atatürkün yüz yılda bir geldiği gerçeği -->
 <!-- bkz ulucuların üstüne fatih altaylıyla jason statham fırlatıp kafa dinlemek -->
+<!-- bkz atatürke benzeyen adamın osmanlı ararpları arkadan vurdu açıklması -->
 <!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği-->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
