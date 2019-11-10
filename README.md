@@ -6,7 +6,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
-https://www.uludagsozluk.com/k/09-05/&w=bg bkz canısııııı canısııııııııııı 
+https://www.uludagsozluk.com/k/09-05/&w=bg bkz  https://www.youtube.com/watch?v=bpI4NiUmZoU
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz kemalcim canişkom okuduğunu biliyorum rahat ol koç
 https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyuy rahat ol heee hakkaında öle böle diyiler şey yapma hadi koçum
