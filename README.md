@@ -10,6 +10,7 @@ bkz patates soğan nasıl koydu erdoğan
 bkz recep tayyip erdoğan vs mustafa kemal doğan
 bkz üç isimli lider karizması
 bkz davutoğlunun törenlere damadıyla gelmesi
+bkz menzil şeyhinni törenlere mercedesle gelmesi
 https://www.uludagsozluk.com/k/orhan-pamukyan/&w=bg bkz ermeni dölü
 https://www.uludagsozluk.com/k/sloukas-%C4%B1n-atat%C3%BCrk-%C3%BC-anma-pankart%C4%B1na-dokunmamas%C4%B1/ bkz yunan dölü
 https://www.uludagsozluk.com/k/menzil-cemaati/&w=bg bkz muhteşem zikrlerin döndüğü yer
