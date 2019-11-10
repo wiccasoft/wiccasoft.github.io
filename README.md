@@ -8,6 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+bkz tv8 in 8 i yan yatırıp meme yapması terbiyesizliği
 bkz sade sayanı saymayan yeni nesil
 bkz 9 u bes gece fosur fosur uyumak :)))
 hadi atayızlar bunu da açıklayın
