@@ -7,6 +7,8 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest 
 https://www.uludagsozluk.com/k/bah%C3%A7eli-t%C3%B6rene-kat%C4%B1lmad%C4%B1/ bkz bahcelinin gdo lu ürün yememesi
+https://www.uludagsozluk.com/k/kurunun-yan%C4%B1nda-bir-ba%C5%9F-so%C4%9Fan-k%C4%B1ran-k%C4%B1z/&w=bg 
+bkz patates soğan nasıl koydu erdoğan
 https://www.uludagsozluk.com/k/uefa-kupas%C4%B1-olmayan-b%C3%BCy%C3%BCk-tak%C4%B1m/ bkz fenerli eziliği
 https://www.uludagsozluk.com/k/akp-lilerin-kemalizm-ezikli%C4%9Finin-nedenleri/&w=bg bkz apple ın yaptığı jest-->
 
