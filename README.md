@@ -8,6 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
+<!-- bkz akpli patlak kızların 3 isimli erkek hayranlığı -->
 <!-- bkz akpli patlak kızı namazda hoplatacam diye kandırıp california da karı hoplatmak -->
 <!-- bkz akpli patlak kızların namaz kılarken daha iyi domalması -->
 <!-- bkz patlak kızların 3 isimli erkeklere olan zaafı -->
