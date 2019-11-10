@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+bkz dünya lideri mustafa kemal doğan mı recep tayyip doğan mı sorunsalı
 bkz antalya istanbul cok hojtur amam banane https://www.youtube.com/watch?v=4RpMzsA1VOw
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/
 https://www.uludagsozluk.com/k/her-k%C3%B6%C5%9Fe-ba%C5%9F%C4%B1nda-dilencisi-olan-d%C3%BCnya-lideri/
