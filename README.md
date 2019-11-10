@@ -16,57 +16,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 [![Image](games/capcom.png)]( https://veryutils.com/demo/game-street-fighter/ )
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
-<!-- 
-https://www.youtube.com/watch?v=q_il9VLZhhI
-https://www.uludagsozluk.com/k/kemalizm-dini/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1-koruma-kanunu/
-https://www.uludagsozluk.com/k/10-kas%C4%B1m-2019-%C5%9Firketlerin-atat%C3%BCrk-%C3%BC-anma-videolar%C4%B1/
-https://www.uludagsozluk.com/k/cankan/&w=bg bkz https://www.youtube.com/watch?v=q_il9VLZhhI
-bkz erdoganin azıtkabirre yazdığı not
-bkz atatürke benzeyen adamın patlak kız istememsi
-bkzk atatürk için götümü siktirirm diyen alman
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-cenazesi-i%C3%A7in-kendini-feda-eden-alman/
-bkz atatürk benzeyen adamın lokantada ramiz dayı gibi hareketler yapması
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-lokanta-ziyareti/&w=bg
-bkz atatürk benzeyen adamın bakire kız sevdası
-https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz sesinin son ses açınca çok yakışıklı 
-bkz patlak kızın suda çıkdardığı ses
-https://www.uludagsozluk.com/k/bakire-isteyen-erkek-yav%C5%9Fakl%C4%B1%C4%9F%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-akp-belediyesi-%C3%B6vg%C3%BCs%C3%BC/
-https://www.uludagsozluk.com/k/bitti-diyen-k%C4%B1za-tamam-sen-bilirsin-diyen-erkek/&w=gd bkz kız patlak kız
-bkz apple in ios 8 i yan yatırıp ikiye bölerek ataya yaptığı saygı
-bkz başta bütün dünyanın saydığı baş kuamndan bkz ios8
-https://www.uludagsozluk.com/e/42395869/ bkz dünyaya liderin kim olduğunu göstermek 
-https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-haberleri-ayakta-sunan-g%C3%BCney-koreli/ bkz dünya lideri
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz emperyalizmi yenen adam 
-https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz burası karışır beyler vaziyet alın
-https://www.uludagsozluk.com/k/an%C4%B1tkabirde-ziyaret%C3%A7i-rekoru-k%C4%B1r%C4%B1lmas%C4%B1/&w=bg
-bkz dünya lideri mustafa kemal doğan mı recep tayyip doğan mı sorunsalı
-bkz antalya istanbul cok hojtur amam banane https://www.youtube.com/watch?v=4RpMzsA1VOw
-https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/
-https://www.uludagsozluk.com/k/her-k%C3%B6%C5%9Fe-ba%C5%9F%C4%B1nda-dilencisi-olan-d%C3%BCnya-lideri/
-bkz bir kemalistin kelime haznesi : imamdoğan mustafakemaldoğan receptayyipdoğan
-https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
-bkzk imamdoğan vs atatürkdoğan vs tayyipdoğan
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz atam gah ta ben yatam
-https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
-bkz imamaoğan vs atatürk doğan vs tayyipdoğan
-https://www.uludagsozluk.com/e/42384660/ lol 
-bkz köpek gibi azıtkabire giden ezikler
-bkz rtenin hitleri kıskandığı gerçeği 
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz mustafa kemal atatürk
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-demir-yumru%C4%9Funu-vurmas%C4%B1-gereklili%C4%9Fi/ 
-bkz imamoğlanın marmaris yerleşme planı
-https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin istanbul planı
-https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/ bkz atatayyipdogan
-https://www.uludagsozluk.com/k/ak-parti-nin-fabrika-ayarlar%C4%B1na-geri-d%C3%B6nmesi/ bkz akp amasya milletvekili
-bkz recep tayyip doğanın mustafa kama doğanı kıskanması
-https://www.uludagsozluk.com/k/rte-nin-atat%C3%BCrk-%C3%BC-k%C4%B1skand%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
-https://www.uludagsozluk.com/k/osman-y%C3%BCksel-serdenge%C3%A7ti/&w=bg bkz yahudilerin maşası
-https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz akp nin büyük istanbul planı
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-korkusu-adam%C4%B1-an%C4%B1tkabire-g%C3%B6t%C3%BCr%C3%BCr/
-https://www.uludagsozluk.com/k/cem-uzan/&w=gd  https://www.youtube.com/watch?v=7iUd2Jni1d0
--->
+<!-- -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
 <!--https://www.facebook.com/100001158024249/posts/2428657137182863/ lol -->
