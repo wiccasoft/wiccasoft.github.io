@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- zamanı gelince atatürkçü oalcak akpliler-->
 <!-- ısrarla atatürkün türk olmadığını iddia etmek-->
 <!-- ısrarla atatürkün kürt olmadığını iddia etmek-->
 <!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafanın mayalı vücutta bulunduğunu anlayan gdo lu tugrul -->
