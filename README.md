@@ -9,7 +9,7 @@
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
 
-[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
+[![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=GuJQSAiODqI )
 <!-- 
 https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
 -->
