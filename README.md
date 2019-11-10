@@ -9,8 +9,8 @@
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz azıtkabir raat uyu koç yazıp yatmak
-https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlanın azıtkabire yazdığı duygu dolu notlar
+https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-bir-yahudi-plan%C4%B1d%C4%B1r/&w=bg bkz yavudi malı almıyos
 https://www.uludagsozluk.com/k/rte-nin-hemen-unutulaca%C4%9F%C4%B1n%C4%B1-sanan-mal/ bkz acele etme papaz efendi
 bkz azıtkabire atam atam gah ta ben yatam yazıp yatmak
