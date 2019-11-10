@@ -8,6 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+bkz tayyip köpek doğanın köpek gibi azıtkabire gitmesi
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz azıtkabir raat uyu koç yazıp yatmak
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlanın azıtkabire yazdığı duygu dolu notlar
 https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
