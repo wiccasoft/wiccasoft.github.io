@@ -6,6 +6,7 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
+<!-- bkz meniz cemattinin atanın öldüğü gün yaptığı garip zikr -->
 <!-- bkz osman pamukoğlanın askerime leş toplatmam demesi-->
 <!-- sloukas'ın atatürk'ü anma pankartına dokunmaması -->
 <!-- bkz bahcelinin bahcesinde dönen garip olaylar nedeniyle törene katılmamsı -->
