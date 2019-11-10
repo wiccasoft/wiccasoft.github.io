@@ -8,6 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz neşet ertaş gay mi sorunsalı -->
+<!-- bkz ıssız bi adaya düşseniz hangi 3 erkeği alırsınız sorunsalı -->
 <!-- bkz cankan la bir gece seks vs ismail yk ile bir gece seks -->
 <!-- bkz orhan bencegay gayle bir gece seks vs müslüm gürses le bir gece seks -->
 <!-- bkz leonard cohenle bir gece seks vs müslüm gürses le bir gece seks -->
