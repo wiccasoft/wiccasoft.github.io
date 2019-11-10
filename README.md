@@ -8,7 +8,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
 https://www.uludagsozluk.com/e/42392883/ bkz 8 i yan yatırdık nası olmuş kankağ
-https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı hanedanlığı kökenli türkler
+https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz kıpçakların bardakçı boyu kökenli türkler
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz okanların bayülgen kökenli kayı boyu
 https://www.uludagsozluk.com/k/murat-bardak%C3%A7%C4%B1/&w=bg bkz bardakçı kara murat türk bükü handenlığı
 https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz oğuzların kayı boyu kökenli yiğido
