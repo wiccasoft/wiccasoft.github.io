@@ -8,7 +8,7 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz bakire isteyen yavşak erkeğin suda hoplattığı kızın patlak çıkması-->
-<!-- bkz naim süleymanoğlunun küçük pipili olduğu gerçeği
+<!-- bkz naim süleymanoğlunun küçük pipili olduğu gerçeği -->
 <!-- bkz hülagu hana dokunamsdan ölecek olan patlak kızlar -->
 <!-- bkz patlak kızların suda çıkardığı yavşak ses -->
 <!-- bkz hiç suda hoplatılmamış patlak kızların suda çıkardığı yavşak ses -->
