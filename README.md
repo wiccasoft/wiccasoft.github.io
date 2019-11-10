@@ -9,11 +9,11 @@
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
 https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığı baş führer
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlanın azıtkabire yazdığı duygu dolu notlar
 https://www.uludagsozluk.com/k/rte-nin-hemen-unutulaca%C4%9F%C4%B1n%C4%B1-sanan-mal/ bkz acele etme papaz efendi
 bkz azıtkabire atam atam gah ta ben yatam yazıp yatmak
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-haberleri-ayakta-sunan-g%C3%BCney-koreli/
-bkz azıtkabirinize zokayım bana bişey olmasın
-bkz tv8 in 8 i yan yatırıp meme yapması terbiyesizliği
+bkz azıtkabirinize zokayım bana bişey olmasınkz tv8 in 8 i yan yatırıp meme yapması terbiyesizliği
 https://www.uludagsozluk.com/k/an%C4%B1tkabir-deki-akp-provakasyonu/ bkz atatürk kafasını siyaha boyayıp koymak
 bkz sade sayanı saymayan yeni nesil
 bkz 9 u bes gece fosur fosur uyumak :)))
