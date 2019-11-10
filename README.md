@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- https://www.uludagsozluk.com/k/h%C3%BClagu-han/&w=bg bkz hülagu hana dokunamdan ölecek olan patlak kızlar -->
 <!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızların suda çıkardığı yavşak ses -->
 <!-- bkz hiç suda hoplatılmamış patlak kızların suda çıkardığı yavşak ses -->
 <!-- bkz hiç dokunamayacağı futbolculara entry girerken ölecek olan kızlar-->
