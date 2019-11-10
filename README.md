@@ -8,14 +8,6 @@
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
 <!-- bkz atatürk ün 100 yılda bir geldiği gerçeği-->
-<!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafanın mayalı vücutta bulunduğunu anlayan gdo lu tugrul -->
-<!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızın suda çıkardığı ses -->
-<!-- bkz atatürkün kusursuz oduğunu anlayan gdo lu akp li-->
-<!-- https://www.uludagsozluk.com/e/42397955/ bkz sağlam kafa sağlam vücutta bulunur-->
-<!-- https://www.uludagsozluk.com/k/einstein-vs-atat%C3%BCrk/ bkz atatürk benzeyen adamın hoplatacağı karşılaştırma -->
-<!-- https://www.uludagsozluk.com/e/42397881/ bkz gardaşım köz getir seri  https://www.youtube.com/watch?v=CUtdSwxBlm4-->
-<!-- bkz atatürk benzeyen adamın kafama sıkar giderim diyip zikirden kaçması -->
-<!-- https://www.uludagsozluk.com/k/einstein-vs-atat%C3%BCrk/-->
 <!-- bkz maxwell vs einstein-->
 <!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini hırsızlık yapıp ünlü olduğu gerçeği-->
 
