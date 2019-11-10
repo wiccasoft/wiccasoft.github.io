@@ -11,6 +11,7 @@
 <!-- bkz sizin tayfa biç biç bizim tayfa riç riç dinlerken babanın odaya girip dövmesi-->
 <!-- https://www.uludagsozluk.com/e/31457034/ bkz tıpkısının aynısı -->
 <!-- https://www.uludagsozluk.com/e/42398488/ bkz lafa gelince tupac marley -->
+<!-- https://www.uludagsozluk.com/e/42398457/ bkz fedöcüycymüş kesin bilgi yayalım kızlar -->
 <!-- https://www.uludagsozluk.com/e/42398333/ bkz akp nin patlak kızları getirdiği nokta -->
 <!-- bkz akpli patlak kızların çok sıkıcı olduğu gerçeği -->
 <!-- bkz akpli patlak kızların 3 isimli erkek hayranlığı -->
