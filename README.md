@@ -7,7 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz atatürkün yüz yılda bir geldiği gerçeği -->
-<!-- bkz köfteci yusufu ballandıra ballandıra anlatan eşcinsel https://www.youtube.com/watch?v=bZliovcpusI -->
+<!-- bkz köfteci yusufu ballandıra ballandıra anlatan eşcinsel -->
 <!-- bkz cem uzan ın telsim reklamında cem yılmazı oynatmam hataydı açıklaması -->
 <!-- bkz sloukas'ın kız arkdaşım türklerle sevişebilir açıklaması -->
 <!-- bkz ulucuların üstüne fatih altaylıyla jason statham fırlatıp kafa dinlemek -->
