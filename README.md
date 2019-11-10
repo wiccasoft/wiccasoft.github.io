@@ -19,7 +19,6 @@ bkzk imamdoğan vs atatürkdoğan vs tayyipdoğan
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz atam gah ta ben yatam
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
 bkz imamaoğan vs atatürk doğan vs tayyipdoğan
-bkz recep tayyip erdoğan vs mustafa kamal atatürkdoğan
 https://www.uludagsozluk.com/e/42384660/ lol 
 bkz köpek gibi azıtkabire giden ezikler
 bkz rtenin hitleri kıskandığı gerçeği 
