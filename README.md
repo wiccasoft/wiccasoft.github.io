@@ -7,7 +7,7 @@
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=bpI4NiUmZoU )
 <!-- 
 bkz 11 kasım bayülgenin tv100 ün ataya yaptığı terbiyesizliği savunması
-https://eksisozluk.com/mustafa-kemal-ataturk--34712?a=popular
+https://eksisozluk.com/mustafa-kemal-ataturk--34712?a=popular bkz atatürk şiiri okurken ağlayan genç
 https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
 https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz tv 100 ün yaptığı terbiyesizlik
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
