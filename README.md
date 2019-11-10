@@ -17,9 +17,8 @@
 <!-- bkz leonerd cohenle bi gece seks vs tom waits le bi gece seks sorunsalı -->
 <!-- bkz ahmet altan sakallarını göt deliğinize sürtse napardınız sorunsalı -->
 <!-- bkz flört edecek erkek kalmasa napardınız sorunsalı -->
-<!-- https://www.uludagsozluk.com/e/42398608/ bkz atatürke benzeyen vampir ısırsa napardınız sorunsalı -->
 <!-- bkz ekrem immaoğluna benzeyen adamla mı flört yoksa binaliye benzeyen adam la mı flört istersin sorunsalı -->
-<!-- bkz ekrem imamoğlu binali yıldırım ortak yayın parodi deki adam -->
+<!-- bkz ekrem imamoğlu binali yıldırım ortak yayın parodi deki adam yakışıklı mı sorunsalı -->
 <!-- bkz binali yıldırıma benzeyen adammın atatürke benzeyen adamdan daha yakışıklı olduğu gerçeği -->
 <!-- bkz atatürke benzeyen adam arkadan istese verir misiniz sorunsalı -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
