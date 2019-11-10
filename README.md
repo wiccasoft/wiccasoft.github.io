@@ -15,10 +15,9 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
-bkz apple in ios8 i yan yatırıp ikiye bölerek ataya yaptığı saygı
+bkz apple in ios 8 i yan yatırıp ikiye bölerek ataya yaptığı saygı
 bkz başta bütün dünyanın saydığı baş kuamndan bkz ios8
-https://www.uludagsozluk.com/e/42395869/ bkz dünyaya liderin kim olduğunu göstermek bkz sending from iphone
-bkz send from iphone
+https://www.uludagsozluk.com/e/42395869/ bkz dünyaya liderin kim olduğunu göstermek 
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-haberleri-ayakta-sunan-g%C3%BCney-koreli/ bkz dünya lideri
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz emperyalizmi yenen adam 
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/ bkz burası karışır beyler vaziyet alın
