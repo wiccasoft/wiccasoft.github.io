@@ -6,6 +6,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=CUtdSwxBlm4 )
 <!-- 
+https://eksisozluk.com/abdulhamid-kayihan-osmanoglu--2533807?a=popular bkz abdulhamid kayıhan osmanoğlunun atatürk paylaşımı
 bkz atatürk benzeyen adamın ağlatması https://www.youtube.com/watch?v=CUtdSwxBlm4
 https://eksisozluk.com/mustafa-kemal-ataturk--34712?a=popular bkz atatürk şiiri okurken ağlayan genç
 https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
