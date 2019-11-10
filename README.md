@@ -17,6 +17,8 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+bkz atatürk benzeyen adamın lokantada ramiz dayı gibi hareketler yapması
+https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-lokanta-ziyareti/&w=bg
 bkz atatürk benzeyen adamın bakire kız sevdası
 https://www.uludagsozluk.com/k/bilal-sonses/&w=bg bkz sesinin son ses açınca çok yakışıklı 
 bkz patlak kızın suda çıkdardığı ses
