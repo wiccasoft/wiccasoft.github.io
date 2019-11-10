@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- bkz leonerd cohenle bi gece seks vs tom waits le bi gece seks sorunsalı -->
 <!-- bkz ahmet altan sakallarını göt deliğinize sürtse napardınız sorunsalı -->
 <!-- bkz bi gece ahmet altanla seks vs bi gece mehmet altanla seks -->
 <!-- bkz flört edecek erkek kalmasa napardınız sorunsalı -->
