@@ -6,8 +6,8 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
-<!-- bkz meniz cemaatinin 10 kasımda yaptığı garip zikr -->
-<!-- https://www.uludagsozluk.com/e/42397834/ bkz maxwell vs einstein-->
+<!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- bkz maxwell vs einstein-->
 <!-- bkz ahmet kayanın kafama sıkar giderim diyip 10 kasım  zikriden kaçması -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
