@@ -7,7 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
-<!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızın suda çıkardığı yavşak ses -->
+<!-- https://www.uludagsozluk.com/e/42396888/ bkz patlak kızların suda çıkardığı yavşak ses -->
 <!-- bkz atatürk ün 100 yılda bir geldiği gerçeği-->
 <!-- bkz maxwell vs einstein-->
 <!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği-->
