@@ -15,7 +15,7 @@
 <!-- bkz atatürk benzeyen adamın kafama sıkar giderim diyip zikirden kaçması -->
 <!-- https://www.uludagsozluk.com/k/einstein-vs-atat%C3%BCrk/-->
 <!-- bkz maxwell vs einstein-->
-<!-- bkz einstein in patent ofisinde çalışırken atatürkün formüllerini hırsızlık yapıp ünlü olduğu gerçeği-->
+<!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini hırsızlık yapıp ünlü olduğu gerçeği-->
 
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
