@@ -8,6 +8,7 @@
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=xAxNaLAR2to )
 <!-- 
+https://www.uludagsozluk.com/k/rte-nin-hemen-unutulaca%C4%9F%C4%B1n%C4%B1-sanan-mal/ bkz acele etme papaz efendi
 bkz azıtkabire atam atam gah ta ben yatam yazıp yatmak
 https://www.uludagsozluk.com/k/10-kas%C4%B1m-da-haberleri-ayakta-sunan-g%C3%BCney-koreli/
 bkz azıtkabirinize zokayım bana bişey olmasın
