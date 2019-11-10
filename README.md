@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
+bkz başta bütütn dünyanın saydığı baş kumandan
 bkz atatürk ün dünya lideri olmasını çekemeyen çomarlar
 https://www.uludagsozluk.com/e/42395869/ bkz dünyaya liderin kim olduğunu göstermek bkz sending from iphone
 bkz send from iphone
