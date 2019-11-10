@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- https://www.uludagsozluk.com/e/42398552/ bkz geceye bir yakışıklı at oç -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
 <!-- ahmet altan la bir gece mehmet altan la mı bir gece istersin sorunsalı -->
 <!-- uğur dündar can dündarın abisi mi kardeşi mi sorunsalı -->
