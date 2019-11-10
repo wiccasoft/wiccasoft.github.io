@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
+<!-- bkz bakire isteyen yavşak erkeğin arsız blea çıkması -->
 <!-- bkz bakire isteyen yavşak erkeğin suda hoplattığı kızın patlak çıkması-->
 <!-- bkz naim süleymanoğlunun küçük pipili olduğu gerçeği -->
 <!-- bkz hülagu hana dokunamsdan ölecek olan patlak kızlar -->
