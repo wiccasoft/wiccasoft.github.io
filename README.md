@@ -14,8 +14,6 @@ bkz yeni dünya devletini kurup türklerle taşşak geçmek
 https://www.uludagsozluk.com/k/lionel-messi-vs-cristiano-ronaldo/&w=bg
 https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz noldii renciniz soldi
 https://www.uludagsozluk.com/k/zeus-un-zikti%C4%9Fi-kar%C4%B1lar-s%C4%B1ral%C4%B1-tam-liste/&w=gd 
-bkz abdulhamid kayıhan osmanoğlunun atatürke benzeye adam paylaşımı
-bkz murat bardaçıoğlunun abdulhamdi hayıhan osmanoğlunun yaptığı terbiyesizliği savunması
 https://eksisozluk.com/81-yil-sonra-bile-ataturke-minnet-duyulma-sebebi--6241915?a=popular
 https://www.uludagsozluk.com/k/10-kas%C4%B1m/&w=bg bkz tv 100 ün yaptığı terbiyesizlik
 https://www.uludagsozluk.com/k/09-05/&w=bg bkz rahat uyu koçum
