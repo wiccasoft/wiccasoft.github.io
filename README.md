@@ -16,6 +16,8 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
+bkz köpek gibi azıtkabire giden ezikler
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-korkusu-adam%C4%B1-an%C4%B1tkabire-g%C3%B6t%C3%BCr%C3%BCr/
 https://www.uludagsozluk.com/k/cem-uzan/&w=gd  https://www.youtube.com/watch?v=7iUd2Jni1d0
 -->
 
