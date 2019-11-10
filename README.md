@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 <!-- 
 bkz antalya istanbul hojtur amam babane https://www.youtube.com/watch?v=4RpMzsA1VOw
 https://www.uludagsozluk.com/k/ak-parti-nin-istanbul-u-geri-alma-stratejisi/
-https://www.uludagsozluk.com/k/her-k%C3%B6%C5%9Fe-ba%C5%9F%C4%B1nda-dilencisi-olan-d%C3%BCnya-lideri/ bkz atatürk
+https://www.uludagsozluk.com/k/her-k%C3%B6%C5%9Fe-ba%C5%9F%C4%B1nda-dilencisi-olan-d%C3%BCnya-lideri/
 bkz bir kemalistin kelime haznesi : imamdoğan mustafakemalatatürk doğan recep tayyip doğan
 https://www.uludagsozluk.com/k/idol%C3%BCn%C3%BCz-kim/
 bkzk imamdoğan vs atatürkdoğan vs tayyipdoğan
