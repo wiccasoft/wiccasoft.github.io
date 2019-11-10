@@ -16,6 +16,7 @@ https://www.uludagsozluk.com/e/42395869/ bkz başta bütün dünyanın saydığ�
 [![Image](smartdata/new-shell.png)]( https://www.youtube.com/watch?v=Rg3tcHw3d20 )
 <!-- 
 https://www.uludagsozluk.com/e/42384660/ lol 
+https://www.uludagsozluk.com/k/cem-uzan/&w=gd  https://www.youtube.com/watch?v=7iUd2Jni1d0
 -->
 
 <!--https://www.theguardian.com/us-news/live/2019/nov/07/donald-trump-william-barr-news-today-ukraine-impeachment-inquiry-latest -->
