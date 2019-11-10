@@ -7,7 +7,8 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz menzil cemaatinin 10 kasımda yaptığı garip zikr -->
-<!-- bkz ekremm imamoğlu binali yıldırım ortak yayın parodi deki adam -->
+<!-- bkz ekrem immaoğluna benzeyen adamla mı flört yoksa binaliye benzeyen adam la mı flört istersin sorunsalı -->
+<!-- bkz ekrem imamoğlu binali yıldırım ortak yayın parodi deki adam -->
 <!-- bkz binali yıldırıma benzeyen adammın atatürke benzeyen adamdan daha yakışıklı olduğu gerçeği -->
 <!-- bkz atatürke benzeyen adam arkadan istese verir misiniz sorunsalı -->
 <!-- bkz akpli patlak kızları ciddiye almak -->
