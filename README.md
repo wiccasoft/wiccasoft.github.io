@@ -6,6 +6,7 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz menzilin in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
+<!-- bkz osman pamukoğlanın törende askerime leş toplatmama demesi-->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
 
