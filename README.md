@@ -6,6 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/mercury-transit-wide.png)](https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
+<!-- https://www.youtube.com/watch?v=hQXLrPlcbeo atam izindeyiz -->
 
 [![Image](smartdata/mercury-transit.png)]( https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
