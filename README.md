@@ -10,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
 <!-- https://www.uludagsozluk.com/k/liderleri-1000-odal%C4%B1-sarayda-oturan-parti/ bkz gösleri rte diye gülen surat-->
 <!-- https://www.uludagsozluk.com/k/nusret-kendisini-tony-montana-san%C4%B1yor/&w=gd bkz lol -->
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-en-sevdi%C4%9Fi-i%C3%A7ecek/&w=bg bkz ayran -->
 
 [![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
