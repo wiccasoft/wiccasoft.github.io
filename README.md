@@ -7,7 +7,7 @@
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
-<!-- bkz atatürke bewnzeyen adamın at üstünde dolaşması -->
+<!-- bkz atatürke bewnzeyen adamın 190 mercedesle dolaşması -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
 <!-- bkz tayyipistlerin zenginlere saldırıp polisten dayak yiyip top kek yiyeceği Gün Ay Yıl-->
 <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js bkz durakta yaşa tayyip paşa diye marş okuyan gencin dramı
