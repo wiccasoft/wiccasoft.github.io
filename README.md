@@ -5,6 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
+<!-- bkz küpe takan erkek vurduruyor mudur sorunsalı-->
 <!-- bkz göksel kayanın devlet bahceliyle olan fotosu-->
 <!-- bkz azıtkabiri yıkıp yerinekuran kursu yapalım kampanyası -->
 <!-- bkz atatürke benzeyen adamın atayla taşşak geçen paylaşımı-->
