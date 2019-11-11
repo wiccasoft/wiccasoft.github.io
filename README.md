@@ -5,6 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
+<!-- bkz 11 kasım  r t doğanın kızını danışmanı damadını baka yapması -->
 <!-- bkz 11 kasım fatih tezcan ın atam ininizdeyiz paylaşımı -->
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz fatih altaylının osmanlı polisine küfretmesi -->
