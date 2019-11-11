@@ -20,7 +20,7 @@ https://eksisozluk.com/entry/97627485 lol
 https://eksisozluk.com/recep-tayyip-erdogana-samimi-bir-tavsiye-birak--6243041?a=popular tayyip bunu okuyosan topsun olm
 https://eksisozluk.com/sloukasin-ataturku-anma-pankartina-dokunmamasi--6242517?a=popular bkz sloukas kim amk
 https://eksisozluk.com/entry/97628923 bkz atatürk dünyanın en saygı duyulası insanıdır siz hariç
-bkz abraham lincoln lenin ne kadar değerli ise atatürk te öyledir
+bkz abraham lincoln lenin ne kadar değerli ise atatürk te öyledir öyle kalacaktır siz hariç
 -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
