@@ -8,6 +8,7 @@
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
+<!-- bkz akpli fakir tayyipistlerin zenginlere saldırıp polisten dayak yiyip top kek yiyeceği tarih-->
 <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js bkz durakta yaşa tayyip paşa diye marş okuyan gencin dramı
 <!-- bkz folkan iyesta cicişlerin 100 liralık aktroll maaşı kesilince ne yapacak sorunsalı 
 <!-- bkz bir topkek folkan iyesta cicişlere https://www.youtube.com/watch?v=TA6y-oRT1w0
