@@ -7,8 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz durakta rizemin dağlarında tayyip açar diye şarkı söyleyen tayyipist genç-->
 <!-- bkz imamoğlu'nun çomarlara iki koyup bir sayması-->
-<!-- bkz misvak dergisinin azıtkabir karikatürü-->
-<!-- bkz azıtkabiri yıkıp yerinekuran kursu yapalım kampanyası -->
+<!-- bkz azıtkabiri yıkıp yerine kuran kursu yapalım karikatürü -->
 <!-- bkz atatürke benzeyen adamın atayla taşşak geçen paylaşımı-->
 <!-- bkz 11 kasım durakta izmir marşı söyleyen ilgin gencin haluk levent çıkması-->
 <!-- bkz 11 kasım ak parti sultangazi ilçe başkanlığının ilginç paylaşımı-->
