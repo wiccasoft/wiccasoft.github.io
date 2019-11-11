@@ -5,7 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
-<!-- bkz 11.11.2019 saat 11.11'de dikilecek 11 milyon fidan atanın azıtan piçlerine girsin -->
+<!-- bkz 11.11.2019 saat 11.11'de dikilecek 11 milyon fidanın atanın azıtan piçlerine girsin -->
 <!-- bkz göksel kayanın siyasete girebilirim sinyalleri vermesi-->
 <!-- bkz durakta rizemin dağlarında tayyip açar diye şarkı söyleyen tayyipist genç-->
 <!-- bkz imamoğlu'nun çomarlara iki koyup bir sayması-->
