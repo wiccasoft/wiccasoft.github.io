@@ -6,14 +6,12 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- hifa bebeğin 6 aylık kınası töreni -->
-<!-- bkz 11.11.2019 saat 11.11'de dikilecek 11 milyon fidanın atanın azıtan piçlerine girsin -->
+<!-- bkz 11.11.2019 saat 11.11'de dikilecek 11 milyon fidanın atanın azıtan gezici piçlerine girsin -->
 <!-- bkz göksel kayanın siyasete girebilirim sinyalleri vermesi-->
 <!-- bkz durakta rizemin dağlarında tayyip açar diye şarkı söyleyen tayyipist genç-->
 <!-- bkz imamoğlu'nun çomarlara iki koyup bir sayması-->
 <!-- bkz türkiyedeki siyasetin bir süre sonra mide bulantısı yapması-->
 <!-- bkz azıtkabiri yıkıp yerine kuran kursu yapalım karikatürü -->
-<!-- bkz atatürke benzeyen adamın atayla taşşak geçen paylaşımı-->
-<!-- bkz 11 kasım durakta izmir marşı söyleyen ilgin gencin haluk levent çıkması-->
 <!-- bkz 11 kasım ak parti sultangazi ilçe başkanlığının ilginç paylaşımı-->
 <!-- bkz 11 kasım fatih tezcan ın atam ininizdeyiz paylaşımı -->
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
