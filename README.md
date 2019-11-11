@@ -5,6 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
+<!-- bkz azıtkabiri yıkıp yerinekuran kursu yapalım kampanyası -->
 <!-- bkz atatürke benzeyen adamın atayla taşşak geçen paylaşımı-->
 <!-- bkz 11 kasım durakta izmir marşı söyleyen ilgin gencin haluk levent çıkması-->
 <!-- bkz 11 kasım ak parti sultangazi ilçe başkanlığının ilginç paylaşımı-->
