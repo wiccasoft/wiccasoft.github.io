@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/k/kendisini-g%C3%BCld%C3%BCrebilenlerden-ho%C5%9Fla
 https://eksisozluk.com/entry/37549647 lol
 https://eksisozluk.com/sloukasin-ataturku-anma-pankartina-dokunmamasi--6242517?a=popular bkz sloukas kim amk
 https://eksisozluk.com/entry/97628923 bkz atatürk dünyanın en saygı duyulası insanıdır siz hariç
+bkz lenin ne kadar değerli ise atatürk te öyledir
 -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
