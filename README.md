@@ -10,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
 <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js bkz durakta yaşa tayyip paşa diye marş okuyan gencin dramı
 <!-- bkz folkan iyesta cicişlerin 100 liralık aktroll maaşı kesilince ne yapacak sorunsalı 
+<!-- bkz bir topkek folkan iyesta cicişlere bir saray holoska bir miktar para rte ye
 <!-- https://www.uludagsozluk.com/k/para-i%C3%A7in-adam-satmak/ adam içi para satmak -->
 <!-- bkz gözleri tayyibin isviçre bankalarındaki trilyonları gibi gülen tayyipist surat-->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-kemal-atat%C3%BCrk/ bkz rte kim amk -->
