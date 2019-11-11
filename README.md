@@ -8,6 +8,7 @@
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
+<!-- https://www.uludagsozluk.com/k/cem-uzan/&w=bg bkz gözleri genç parti diye gülen surat-->
 <!-- https://www.uludagsozluk.com/k/adolf-hitler/&w=bg bkz çevresi kötü özünde iyi bi adam-->
 <!-- bkz durakta rizemin dağlarında tayyip açar söyleyen tayyipist folkan iyesta cicişler -->
 <!-- https://www.uludagsozluk.com/k/liderleri-1000-odal%C4%B1-sarayda-oturan-parti/ bkz gösleri rte diye gülen surat-->
