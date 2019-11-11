@@ -7,22 +7,6 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz atatürkün yüz yılda bir geldiği gerçeği -->
-<!-- bkz fatih altaylının osmanlı polisine küfretmesi -->
-<!-- bkz adam yerine konulmamanın verdiği haz -->
-<!-- bkz ali şan ın türk kürt kardeş değildir açıklaması -->
-<!-- bkz köfteci yusufu ballandıra ballandıra anlatan eşcinsel -->
-<!-- bkz cem uzan ın telsim reklamında cem yılmazı oynatmam hataydı açıklaması -->
-<!-- bkz einstein in patent ofisinde çalışırken maxwellin formüllerini çalıp ünlü olduğu gerçeği
-https://www.uludagsozluk.com/k/lol-yazan-k%C4%B1z-iticili%C4%9Fi/ lol
-https://www.uludagsozluk.com/k/kendisini-g%C3%BCld%C3%BCrebilenlerden-ho%C5%9Flanan-canl%C4%B1/ lol
-https://eksisozluk.com/entry/37549647 lol
-https://eksisozluk.com/entry/97627485 lol
-https://eksisozluk.com/recep-tayyip-erdogana-samimi-bir-tavsiye-birak--6243041?a=popular tayyip bunu okuyosan topsun olm
-https://eksisozluk.com/sloukasin-ataturku-anma-pankartina-dokunmamasi--6242517?a=popular bkz sloukas kim amk
-https://eksisozluk.com/entry/97628923 bkz atatürk dünyanın en saygı duyulası insanıdır siz hariç
-bkz türklerin türklerden başka düşmanı yoktur
-bkz abraham lincoln lenin ne kadar değerli ise atatürk te öyledir öyle kalacaktır siz hariç
--->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
 
