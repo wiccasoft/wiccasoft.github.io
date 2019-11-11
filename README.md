@@ -5,6 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
+<!-- bkz göksel kayanın siyasete girebilirim sinyalleri vermesi-->
 <!-- bkz durakta rizemin dağlarında tayyip açar diye şarkı söyleyen tayyipist genç-->
 <!-- bkz imamoğlu'nun çomarlara iki koyup bir sayması-->
 <!-- bkz türkiyedeki siyasetin bir süre sonra mide bulantısı yapması-->
