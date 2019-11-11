@@ -9,6 +9,7 @@
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
 <!-- https://www.uludagsozluk.com/k/adolf-hitler/&w=bg bkz çevresi kötü özünde iyi bi adam-->
+<!-- bkz durakta rizemin dağlarında yesata cicişler tayyip açar söyleyen tayyipist genç i -->
 <!-- https://www.uludagsozluk.com/k/liderleri-1000-odal%C4%B1-sarayda-oturan-parti/ bkz gösleri rte diye gülen surat-->
 <!-- https://www.uludagsozluk.com/k/nusret-kendisini-tony-montana-san%C4%B1yor/&w=gd bkz lol -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-en-sevdi%C4%9Fi-i%C3%A7ecek/&w=bg bkz ayran -->
