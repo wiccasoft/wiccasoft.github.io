@@ -18,6 +18,7 @@ https://www.uludagsozluk.com/k/kendisini-g%C3%BCld%C3%BCrebilenlerden-ho%C5%9Fla
 https://eksisozluk.com/entry/37549647 lol
 https://eksisozluk.com/sloukasin-ataturku-anma-pankartina-dokunmamasi--6242517?a=popular 
 ne içiyonuz siz atatürk dünyanın en saygı duyulan devlet adamıdır
+bkz sloukas kim amk
 -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
