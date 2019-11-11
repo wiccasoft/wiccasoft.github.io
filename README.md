@@ -9,6 +9,7 @@
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
 <!-- https://www.uludagsozluk.com/k/liderleri-1000-odal%C4%B1-sarayda-oturan-parti/ bkz gösleri rte diye gülen surat-->
+<!-- https://www.uludagsozluk.com/k/nusret-kendisini-tony-montana-san%C4%B1yor/&w=gd bkz lol -->
 
 [![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
