@@ -9,7 +9,7 @@
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 <!-- https://www.youtube.com/watch?v=hQXLrPlcbeo bkz gözleri atatürk diye gülen surat -->
 <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js bkz durakta yaşa tayyip paşa diye marş okuyan gencin dramı
-<!-- bkz folkan iyesta cicişlerin 100 liralık aktroll maaşı kesilince ne yapacak sorunsalı 
+<!-- bkz folkan iyesta cicişlerin 100 liralık aktroll maaşı kesilince ne yapacak sorunsalı intihar etme ciciş
 <!-- bkz gözleri tayyibin isviçre bankalarındaki trilyonları gibi gülen tayyipist surat-->
 <!-- https://www.uludagsozluk.com/k/cem-uzan/&w=bg bkz gözleri genç parti diye gülen surat-->
 <!-- https://www.uludagsozluk.com/k/adolf-hitler/&w=bg bkz çevresi kötü özünde iyi bi adam-->
