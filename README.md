@@ -5,6 +5,7 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
+<!-- bkz durakta recep tayyip imamdoğan şarkısı döyleyen genç-->
 <!-- bkz imamoğlu'nun çomarlara iki koyup bir sayması-->
 <!-- bkz küpe takan erkek vurduruyor mudur sorunsalı-->
 <!-- bkz göksel kayanın devlet bahceliyle olan fotosu-->
