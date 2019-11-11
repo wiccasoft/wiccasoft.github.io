@@ -7,7 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz apple in ios 8 i yan yatırıp 4 e bölerek ataya yaptığı jest -->
 <!-- bkz atatürkün yüz yılda bir geldiği gerçeği -->
-<!-- bkz 2023 te tek dünya devletini kuracağım gerçeği -->
+<!-- bkz 2023 te tek dünya devletini kuracağım gerçeği ister iphone ister huawei kullanın farketmez -->
 <!-- bkz atatürkün dünyanın en saygı duyulası insanı olduğu gerçeği -->
 
 [![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
