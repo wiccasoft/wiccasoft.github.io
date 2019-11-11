@@ -17,7 +17,6 @@ https://www.uludagsozluk.com/k/lol-yazan-k%C4%B1z-iticili%C4%9Fi/ lol
 https://www.uludagsozluk.com/k/kendisini-g%C3%BCld%C3%BCrebilenlerden-ho%C5%9Flanan-canl%C4%B1/ lol
 https://eksisozluk.com/entry/37549647 lol
 https://eksisozluk.com/sloukasin-ataturku-anma-pankartina-dokunmamasi--6242517?a=popular 
-ne içiyonuz siz atatürk dünyanın en saygı duyulan devlet adamıdır
 bkz sloukas kim amk
 -->
 
