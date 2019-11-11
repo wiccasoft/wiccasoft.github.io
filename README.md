@@ -7,6 +7,7 @@
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 <!-- bkz küpe takan erkek vurduruyor mudur sorunsalı-->
 <!-- bkz göksel kayanın devlet bahceliyle olan fotosu-->
+<!-- bkz misvak dergisinin azıtkabir karikatürü-->
 <!-- bkz azıtkabiri yıkıp yerinekuran kursu yapalım kampanyası -->
 <!-- bkz atatürke benzeyen adamın atayla taşşak geçen paylaşımı-->
 <!-- bkz 11 kasım durakta izmir marşı söyleyen ilgin gencin haluk levent çıkması-->
