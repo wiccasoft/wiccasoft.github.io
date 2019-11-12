@@ -11,6 +11,8 @@
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
+<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banan ne-->
+
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
