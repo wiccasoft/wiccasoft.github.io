@@ -7,16 +7,6 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz deep webin deepsiz çukrunu soktunuz yine kardeş -->
-<!-- https://www.uludagsozluk.com/k/joker-filmindeki-y%C3%BCz%C3%BC-boyal%C4%B1-adam/
-https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=gd
-<!-- https://www.uludagsozluk.com/k/kemalistlerin-kafalar%C4%B1n%C4%B1n-hayli-kar%C4%B1%C5%9F%C4%B1k-olmas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/pkk-l%C4%B1lar%C4%B1n-beyni-olmamas%C4%B1/ bkz beyin loading -->
-<!-- https://www.uludagsozluk.com/k/sami-hazinses-in-ermeni-olmas%C4%B1/ bkz tipinden ermeni olduğu bilinen türkücüler -->
-<!-- https://www.uludagsozluk.com/k/allah-tan-korkmak-laz%C4%B1md%C4%B1r/ bkz lazımdır allah kormak vardır gerek -->
-<!-- https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=bg bkz maçoğlu -->
-<!-- https://www.uludagsozluk.com/k/sami-hazinses-in-ermeni-olmas%C4%B1/ bkz iftira -->
-<!-- https://www.uludagsozluk.com/e/42405183/ bkz halay çektik ya lo -->
-<!-- https://www.uludagsozluk.com/k/fatih-mehmet-ma%C3%A7o%C4%9Flu/&w=bg çok hojdır ama banana-->
 <!-- bacak kılını alan erkek de hojdır ama banana -->
 <!-- bkz entry girdiğiniz bütün erkekler çok hojdır ama banana -->
 
