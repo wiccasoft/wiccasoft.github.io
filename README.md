@@ -8,7 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz ılık erkeği ısıtmanın yolları
-bkz ılık erkekle sıcak erkek ilişkisi
+bkz ılık erkek oda sıcaklığı erkeği midir sorunsalı
 bkz ejderha besleyen erkek ılık mıdır sorunsalı
 bkz erkek gibi yiyişmeyen erkek ılık mıdır sorunsalı
 bkz en çok hangi erkeğe entry girdiniz sorunsalı
