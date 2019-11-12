@@ -7,7 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
-bkz ölü bulunan birini canlandırmak için napradınız sorunsalı
+bkz aç kalsanız ölü birini yermiydiniz sorunsalı
 bkz gece mezarlıktan zıplayan rte görseniz napardınız sorunsalı
 bkz gece diyanet başkanı camdan bakıp sırıtsa napardınız sorunsalı
 bkz gece berat albayrak cama tıklasa burası çokomelli dese napardınız
