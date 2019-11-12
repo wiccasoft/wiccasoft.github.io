@@ -6,6 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- bkz ulucların çok zeki olması herkeşin aptal olması --Z
 <!-- https://www.uludagsozluk.com/k/pkk-l%C4%B1lar%C4%B1n-beyni-olmamas%C4%B1/ bkz beyin loading -->
 <!-- https://www.uludagsozluk.com/k/sami-hazinses-in-ermeni-olmas%C4%B1/ bkz tipinden ermeni olduğu bilinen türkücüler -->
 <!-- https://www.uludagsozluk.com/k/allah-tan-korkmak-laz%C4%B1md%C4%B1r/ bkz lazımdır allah kormak vardır gerek -->
