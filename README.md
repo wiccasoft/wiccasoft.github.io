@@ -7,16 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/ bkz o göte bül bül öte -->
-<!-- bkz götüne roket bağlayan adama asılırken odaya babanın girmesi -->
-<!-- https://www.uludagsozluk.com/k/nurcular-fetocudur/&w=bg bkz süleymancıların uğramadığı başlıklar -->
-<!-- https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg bkz gs için karıyı satana adam gibi adam -->
-<!-- bkz bacağının kılını alan erkek in tengir budun olma ihtimali-->
-<!-- https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz o çeneye bül bül öte -->
-<!-- bkz okunmayacağını bildiği halde entry giren liseliler -->
-<!-- bkz deep webte kendi kendine monolog kuran tiplerin virüs gibi yayılması -->
-<!-- bkz putin başlığına bırak bu ayakları yazan liseli -->
-<!-- bkz twitter a caps atıp caps attığı adama atarlanan tipler -->
-<!-- bkz entry girdiği adama bırak bu ayakları direnme boşuna hoşuna gidecek yazan tipler -->
+
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
