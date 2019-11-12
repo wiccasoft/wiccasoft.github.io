@@ -9,7 +9,7 @@
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz kadın seven erkek ılık mıdır sorunsalı
 bkz erkek seven kadın ılık mıdır sorunsalı
-bkz erkeğe entry girerken ılık mı nasıl anlıyoruz sorunsalı
+bkz hangi erkek ılık nasıl anlıyoruz sorunsalı
 bkz komunist başkanın lolipoplu paylaşımı
 bkz erkek adamın erkek köpeği olur diyen erkek adam mıdır sorunsalı
 bkz erkek köpek besleyen erkek ılık mıdır sorunsalı
