@@ -12,6 +12,7 @@
 <!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
+<!-- https://www.uludagsozluk.com/k/rabia-naz-vatan/&w=bg bkz erdoganin rabia selamı --> 
 <!-- https://www.uludagsozluk.com/k/forrest-gump-%C4%B1n-k%C4%B1%C3%A7-yaras%C4%B1/ bkz o göte bülbül öte -->
 <!-- https://www.uludagsozluk.com/k/allah-yoksa-ateistler-neyi-inkar-ediyor/&w=bg bkz madem yok niye inkar ediyosun -->
 <!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
