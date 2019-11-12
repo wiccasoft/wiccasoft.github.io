@@ -15,6 +15,7 @@
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flunun-ar%C4%B1tma-tesisi-vaadi/ bkz bokunuzda boğulun ama banana -->
 <!-- https://www.uludagsozluk.com/k/istanbul-u-kaybeden-t%C3%BCrkiye-yi-kaybeder/&w=bg bkz ist hojdır amma banana -->
 <!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz bakan hojdır amma banana-->
+<!-- https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg akp fetö hojdır amam banana -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
