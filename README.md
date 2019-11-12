@@ -9,7 +9,7 @@
 <!-- deep turkish web çok hojdır entry girdiğiniz erkekler de çok hojdır ama banana -->
 <!-- bkz götüne roket bağlayan adamın götü de hojdır ama banana -->
 <!-- bkz batman filmindeki yarasa kostümlü soytarı da çok hojdır ama banana -->
-<!-- bkz batman bitlis hakkari joker çok hojdır ama banana -->
+<!-- bkz batman bitlis hakkari çok hojdır ama banana -->
 <!-- bkz bacağının kılını alan erkek de çok hojdır ama banana -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
