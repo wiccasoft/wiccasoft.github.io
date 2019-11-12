@@ -1,10 +1,3 @@
-<!--[![Image](smartdata/8ball.png)](https://www.youtube.com/watch?v=224nx8msD8k )-->
-<!-- https://www.youtube.com/watch?v=vNNqCnWP9xY -->
-<!-- https://www.youtube.com/watch?v=5layKg4kyLo -->
-<!-- https://www.youtube.com/watch?v=XCgop5X35yw -->
-<!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
-<!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
-
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
