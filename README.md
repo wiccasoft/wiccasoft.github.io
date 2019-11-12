@@ -13,6 +13,8 @@
 <!-- bkz apple google microsoft çok hojdır ama banana -->
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- bkz ezan sesi çok hojdır ama banana -->
+<!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
+<!-- bkz cem yıldızın baldızı da çok hojdır ama banana -->
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banana-->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flunun-ar%C4%B1tma-tesisi-vaadi/ bkz bokunuzda boğulun ama banana -->
