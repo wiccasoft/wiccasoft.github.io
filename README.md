@@ -8,6 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/ bkz o göte bül bül öte -->
 <!-- bkz götüne roket bağlayan adama asılırken odaya babanın girmesi -->
+<!-- https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg bkz gs için karıyı satana adam gibi adam -->
 <!-- bkz bacağının kılını alan erkek in tengir budun olma ihtimali-->
 <!-- https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz o çeneye bül bül öte -->
 <!-- bkz okunmayacağını bildiği halde entry giren liseliler -->
