@@ -8,6 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- deep turkish web çok hojdır entry girdiğiniz erkekler de çok hojdır ama banana -->
 <!-- bkz götüne roket bağlayan adamın götü de hojdır ama banana -->
+<!-- https://www.uludagsozluk.com/k/batman-filmindeki-siyah-pelerinli-herif/ bkz uzak durulması gerekn çizgi karakter-->
 <!-- bkz batman filmindeki yarasa kostümlü soytarı da çok hojdır ama banana -->
 <!-- bkz batman bitlis hakkari çok hojdır ama banana -->
 <!-- bkz bacağının kılını alan erkek de çok hojdır ama banana -->
