@@ -10,6 +10,7 @@
 <!-- bkz götüne roket bağlayan adama asılırken odaya babanın girmesi -->
 <!-- bkz bacağının kılını alan erkek in tengir budun olma ihtimali-->
 <!-- bkz deeep turkish web cok hojdur ama banana-->
+<!-- https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz göt çeneli kürt -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
