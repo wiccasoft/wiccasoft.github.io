@@ -9,6 +9,7 @@
 <!-- https://www.uludagsozluk.com/e/42403798/ bkz erkek götü seksiliği -->
 <!-- bkz götünün kılını alan erkek -->
 <!-- bkz mehmet ali erbilinin götünü traş edip namaza başlaması -->
+<!-- beyler ben götüne roket takan adama bi posta asılım geliyorum
 <!-- ee e daha entry girmiyo musun eti cin baba konuşuyoduk negzel direnmiyorum pampa keyif takılıyom
 <!-- https://www.uludagsozluk.com/e/42404285/ direniyorum sen naptın işleri direnmeyi bırakmışsın-->
 <!-- bkz üç isimli erkek seksiliği -->
