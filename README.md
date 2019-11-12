@@ -10,6 +10,7 @@
 <!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
+<!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
 <!-- bkz appleın açıkları çok hojdır amam banana -->
 <!-- bkz mehmet altan hahmet altan fatih altan çok hojdır ama banana-->
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
