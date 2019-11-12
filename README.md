@@ -6,6 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- https://www.uludagsozluk.com/k/allah-tan-korkmak-laz%C4%B1md%C4%B1r/ bkz lazımdır allah kormak vardır gerek -->
 <!-- https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=bg bkz maçoğlu -->
 <!-- https://www.uludagsozluk.com/k/sami-hazinses-in-ermeni-olmas%C4%B1/ bkz iftira -->
 <!-- https://www.uludagsozluk.com/e/42405183/ bkz halay çektik ya lo -->
