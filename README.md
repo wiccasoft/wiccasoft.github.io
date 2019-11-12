@@ -8,10 +8,10 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
+<!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
 <!-- https://www.uludagsozluk.com/k/ahmet-altan/&w=gd ahmet altan çok hojdur ama banana -->
 <!-- bkz apple google microsoft çok hojdır ama banana -->
-<!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- bkz ezan sesi çok hojdır ama banana -->
 <!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
 <!-- bkz cem yıldızın baldızı da çok hojdır ama banana -->
