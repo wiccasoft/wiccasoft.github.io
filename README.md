@@ -12,7 +12,7 @@
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
 <!-- https://www.uludagsozluk.com/k/allah-tan-korkmak-laz%C4%B1md%C4%B1r/ bkz allah lazımdır korkmak var gerektir -->
-<!-- https://www.uludagsozluk.com/k/ahmet-altan/&w=gd ahmet altan çok hojdur ama banana -->
+<!-- https://www.uludagsozluk.com/k/ahmet-altan/&w=gd bkz ahmet altan çok hojdur ama banana -->
 <!-- bkz apple google microsoft çok hojdır ama banana -->
 <!-- bkz ezan sesi çok hojdır ama banana -->
 <!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
