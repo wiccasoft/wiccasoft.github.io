@@ -10,7 +10,6 @@
 bkz hüseyin nihal atsız yatağınız altından baksa napardınız sorunsalı 
 bkz saidi nursi'ye pamuk mı tıkandı silikon mu sıkıldı sorunsalı
 bkz hüseyin nihal atsız camdan size bakıp 31 çekse napardınız sorunsalı
-bkz iki erkeğin said nursi hüseyin nihal atsız kavgası yapması snormal midir sorunsalı
 bkz ılık seven kedi erkek midir sorunsalı
 bkz seven kedi erkek ılık mıdır sorunsalı
 bkz kadın seven erkek ılık mıdır sorunsalı
