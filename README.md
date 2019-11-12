@@ -16,7 +16,7 @@
 <!-- bkz ezan sesi çok hojdır ama banana -->
 <!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
 <!-- bkz cem yıldızın baldızı da çok hojdır ama banana -->
-<!-- https://www.uludagsozluk.com/k/tayyip-allah-olmak-istiyorsa-toplanak-allah-diyek/&w=bg bkz tayyip superken imamaogluna tapmak-- >
+<!-- https://www.uludagsozluk.com/k/tayyip-allah-olmak-istiyorsa-toplanak-allah-diyek/&w=bg bkz tayyip çok hojdır-- >
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-na-tapmak/&w=bg bkz imamoğlan çok hojdır ama banana--> 
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banana-->
