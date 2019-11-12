@@ -11,7 +11,7 @@
 <!-- bkz bacağının kılını alan erkek in tengir budun olma ihtimali-->
 <!-- https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz o çeneye bül bül öte -->
 <!-- bkz okunmyacağını bildiği halde entry giren liseliler -->
-<!-- https://www.uludagsozluk.com/k/kurye-ramazan/ bkz entrylerinde muhabbet eden liseli -->
+<!-- https://www.uludagsozluk.com/k/kurye-ramazan/ bkz deep webte resimle konuşan tiplerin virüs gibi yayılması -->
 <!-- bkz mehmet ali erbile direnme boşuna yazan liseli -->
 <!-- bkz putin başlığına bırak bu ayakları yazan liseli -->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
