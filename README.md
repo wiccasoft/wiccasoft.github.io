@@ -8,6 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz erkek gibi yiyişmeyen erkek ılık mıdır sorunsalı
+bkz ... diyen erkek
 bkz zall bana hep oç derin ayarından sonra tunç soyerle eko dan ses gelmemesi sorunsalı
 bkz sevdiceğine kıyafet giydiren erkek ılık mıdır sorunsalı
 bkz kedi besleyen erkek ılık mıdır sorunsalı 
