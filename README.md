@@ -7,8 +7,7 @@
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
-<!-- https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-aktrollerini-bekleyen-hazin-son/ -->
-<!-- bkz tayyip looks like smiling face-->
+<!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
 [![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
 
