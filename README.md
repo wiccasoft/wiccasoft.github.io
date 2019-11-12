@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- deep turkish web çok hojdır entry girdiğiniz erkekler de çok hojdır ama banana -->
+<!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/ bkz o göte bülbül öte -->
 <!-- bkz batman daki yarasa kostümlü kürt 
 <!-- bkz komünist başkan maçoğlunun batmanda ki halaylı atakürt kutlaması
 <!-- https://www.uludagsozluk.com/k/pembe-panterin-pipisinin-olmamas%C4%B1/ bkz pipisi olmayan pantere hallenmek-->
