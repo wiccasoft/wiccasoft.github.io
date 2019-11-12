@@ -9,6 +9,7 @@
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz binali seçmeni gece camı tıklasa napardınız 
 bkz imamaoğlu seçmeni gece camı tıklasa napardınız
+bkz bir milyon verseler binali secmenine kötü entry girermisiniz sorunsalı
 bkz gece rte camı tıklasa pilavlıya çağırdık niye gelmedin mübarek dese naparsınız
 bkz bacak sallarken rte camı tıklayıp sallama dese napardınız sorunsalı
 bkz aç kalsanız imamoğlu seçmemini ısırırmısınız sorunsalı
