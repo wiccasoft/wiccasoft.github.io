@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz erkek anan erkek ılık mıdır sorunsalı
 bkz komünist başkanın hiç erkek anmaması sorunsalı
 bkz hüseyin nihal atsız götten istese verir miydiniz sorunsalı
 bkz saidi nursi'ye pamuk mı tıkandı silikon mu sıkıldı sorunsalı
