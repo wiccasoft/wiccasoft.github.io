@@ -9,7 +9,7 @@
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz devlet bahçeli kılığında cin cama tıklasa napardınız sorunsalı
 bkz tunceli belediye başkanı gece yatağınızın altında bakıp ne bakıyon dese napardınız
-bkz tunç soyer gece yatağınızın altından baksa napardınız sorunsalı
+bkz tunç soyer gece yatağınızın altından bakıp laiklik çok güzel gelsene dese napardınız
 bkz gece devlet bahceli cama tıklayıp öpücük atsa napardınız sorunsalı
 bkz komunist başkanın lenini anması
 bkz 10 milyon verseler vurdurur musunuz sorunsalı
