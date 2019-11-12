@@ -8,17 +8,9 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz hüseyin nihal atsız yatağınız altından baksa napardınız sorunsalı
-bkz erkek anan erkek ılık mıdır sorunsalı
 bkz komünist başkanın hiç erkek anmaması sorunsalı
-bkz hüseyin nihal atsız götten istese verir miydiniz sorunsalı
+bkz erkek anan erkek ılık mıdır sorunsalı
 bkz saidi nursi'ye pamuk mı tıkandı silikon mu sıkıldı sorunsalı
-bkz cemal süreyyya ile bir gece vs hüseyin nihal atsız la bir gece
-bkz hüseyin nihal atsızla bir gece  geçirseniz ne derdiniz sorunsalı
-bkz hüseyin nihal atsız mı ahmet hamdi tanpınar mı sorunsalı
-bkz saidi nursi nurcuysa ılık mıydı sorunsalı
-bkz hüseyin nihal atsız ılık mıdır sorunsalı
-bkz sürekli erkek düşünmek ılık lıkmıdır sorunsalı
-bkz ya erkek olmasaydı ne olurdu sorunsalı
 bkz iki erkeğin maç izlemesi caiz midir sorunsalı
 bkz ılık seven kedi erkek midir sorunsalı
 bkz seven kedi erkek ılık mıdır sorunsalı
