@@ -8,7 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz kadın even erkek ılık mıdır sorunsalı
-bkz komunist başkan maçoğlanın bıyıklarını yalayıp şapşik niye atatürk anmadın demek
+bkz komunist başkanın lolipoplu paylaşımı
 bkz erkeğe entry girerken ılık mı nasıl anlıyoruz sorunsalı
 bkz erkek adamın erkek köpeği olur diyen eşcinsel
 bkz erkek köpek besleyen erkek ılık mıdır sorunsalı
