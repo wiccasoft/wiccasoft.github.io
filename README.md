@@ -12,6 +12,7 @@
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banan ne-->
+<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flunun-ar%C4%B1tma-tesisi-vaadi/ bkz bokunuzda boğulun -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
