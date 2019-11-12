@@ -8,7 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz ne komik başlıklar açmmışım lan asdasdasdasdas
-bkz satılık ulu hesabı olan varsa alabilrim trollük için alacam
+bkz satılık ulu hesabı olan varsa alabilrim trollük için alacam çok komik başlıklar açabilirim
 bkz hüseyin nihal atsız yatağınız altından baksa napardınız sorunsalı 
 bkz saidi nursi'ye pamuk mı tıkandı silikon mu sıkıldı sorunsalı
 bkz hüseyin nihal atsız camdan size bakıp 31 çekse napardınız sorunsalı
