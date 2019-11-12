@@ -9,6 +9,7 @@
 <!-- https://www.uludagsozluk.com/e/42403798/ bkz erkek götü seksiliği -->
 <!-- bkz götünün kılını alan erkek -->
 <!-- bkz mehmet ali erbilinin götünü traş edip namaza başlaması -->
+<!-- https://www.uludagsozluk.com/e/42404285/ direniyorum pampa parmaktan sonra -->
 <!-- bkz üç isimli erkek seksiliği -->
 <!-- https://www.uludagsozluk.com/k/salako-filmindeki-g%C3%B6te-31-%C3%A7ekmi%C5%9F-efsane-nesil/&w=bg -->
 <!-- bkz fatih mehmet maçoğlanın 10 kasım paylaşımı -->
