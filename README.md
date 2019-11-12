@@ -7,9 +7,10 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz erkek adamın erkek köpeği olur diyen eşcinsel
 bkz erkek köpek besleyen erkek ılık mıdır sorunsalı
 bkz köpeğinin taşşaklarını yıkayan erkek ılık mıdır sorunsalı
-bkz dişi kedi seven erkek ılık mdırı sorunsalı
+bkz dişi kedi seven erkek ılık mıdır sorunsalı
 bkz erkek seven erkek ılık mıdır sorunsalı
 bkz erkek adam erkeke entryi girer diyen ergen
 bkz entry girdiğiniz erkeğin entryiniz okuması ılıklık mıdır sorunsalı
