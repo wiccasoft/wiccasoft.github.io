@@ -7,7 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
-bkz gece  declet bahceli cama tıklayıp dil atsa napardızın sorunsalı
+bkz gece devlet bahceli cama tıklayıp yalarım dese napardınız sorunsalı
 bkz komunist başkanın lenini anması
 bkz 10 milyon verseler vurdurur musunuz sorunsalı
 bkz gece  camdan rte bakıp i see dead people dese napardınız sorunsalı
