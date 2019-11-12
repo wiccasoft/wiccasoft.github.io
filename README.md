@@ -11,6 +11,7 @@
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 <!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
+<!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
 [![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
 
