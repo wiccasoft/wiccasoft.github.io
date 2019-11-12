@@ -6,6 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- https://www.uludagsozluk.com/k/sami-hazinses-in-ermeni-olmas%C4%B1/ bkz iftira -->
 <!-- https://www.uludagsozluk.com/e/42405183/ bkz halay çektik ya lo -->
 <!-- https://www.uludagsozluk.com/k/fatih-mehmet-ma%C3%A7o%C4%9Flu/&w=bg çok hojdır ama banana-->
 <!-- bacak kılını alan erkek de hojdır ama banana -->
