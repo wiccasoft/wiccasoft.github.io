@@ -9,21 +9,7 @@
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
-<!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
-<!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
-<!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
-<!-- https://www.uludagsozluk.com/k/rabia-naz-vatan/&w=bg bkz erdoganin rabia selamı --> 
-<!-- bkz bacakları yalanası erkekler -->
-<!-- bkz bacağının kılını alan erkek -->
-<!-- bkz bacak kıllarını alınca daha sert çıktığı gerçeği -->
-<!-- bkz ellerim kırılsaydı da bacaklarımı traş etmeseydim diyen erkek -->
-<!-- https://www.uludagsozluk.com/k/forrest-gump-%C4%B1n-k%C4%B1%C3%A7-yaras%C4%B1/ bkz o göte bülbül öte -->
-<!-- https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=bg bkz mevlütçavuşoğlu -->
-<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz madem yok niye ısrar ediyosun -->
-<!-- https://www.uludagsozluk.com/k/allah-yoksa-ateistler-neyi-inkar-ediyor/&w=bg bkz madem yok niye inkar ediyosun -->
-<!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
-<!-- https://www.uludagsozluk.com/k/mehmet-ali-erbilin-namaza-ba%C5%9Flamas%C4%B1/ bkz maşşallah -->
-<!-- https://www.uludagsozluk.com/k/trump-%C4%B1n-ben-ettim-sen-etme-karde%C5%9F-demesi/ bkz mazlumu getirin bana -->
+
 [![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
 
