@@ -5,10 +5,6 @@
 <!-- [![Image](smartdata/4minutes.png)]( https://www.youtube.com/watch?v=o7bZThLaWP8 ) -->
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
-
-[![Image](smartdata/google-med.png)]( https://www.theguardian.com/technology/2019/nov/12/google-medical-data-project-nightingale-secret-transfer-us-health-information )
-<!-- https://www.uludagsozluk.com/k/kom%C3%BCnist-ba%C5%9Fkan%C4%B1n-atat%C3%BCrk-%C3%BC-anmamas%C4%B1/ bkz kürt lütfen-->
-
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
