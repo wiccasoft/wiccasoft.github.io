@@ -14,6 +14,7 @@
 <!-- https://www.uludagsozluk.com/k/kurye-ramazan/ bkz deep webte resimle konuşan tiplerin virüs gibi yayılması -->
 <!-- bkz mehmet ali erbile direnme boşuna yazan liseli -->
 <!-- bkz putin başlığına bırak bu ayakları yazan liseli -->
+<!-- bkz twitter a caps atıp caps attığı adama atarlanan tipler -->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
