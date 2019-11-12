@@ -9,6 +9,7 @@
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz zall bana hep oç derin ayarından sonra tunç soyerle eko dan ses gelmemesi sorunsalı
 bkz kedi besleyen erkek ılık mıdır sorunsalı 
+bkz sigara içmeyen erkek iticiliği
 bkz at besleyen erkek ılık mıdır sorunsalı
 bkz kızlarsoruyor.com da at besleyen erkek ılıkdır tartışması
 bkz rottweiler besleyen erkek ılık mıdır sorunsalı
