@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- deep turkish web çok hojdır entry girdiğiniz erkekler de çok hojdır ama banana -->
+<!-- bkz sami hazinsese de çok hojdır ama banana-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
