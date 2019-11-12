@@ -7,7 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- https://www.uludagsozluk.com/e/42403798/ bkz erkek götü seksiliği -->
-<!-- bkz götüne roket bağlayan adama asılrıken odaya babanın girmesi
+<!-- bkz götüne roket bağlayan adama asılırken odaya babanın girmesi
 <!-- bkz götünün kılını alan erkek -->
 <!-- bkz mehmet ali erbilinin götünü traş edip namaza başlaması -->
 <!-- bkz deep turkish webteki ergen oç larından gına gelmesi
