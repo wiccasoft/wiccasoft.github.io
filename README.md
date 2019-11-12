@@ -9,7 +9,7 @@
 <!-- deep turkish web çok hojdır entry girdiğiniz erkekler de çok hojdır ama banana -->
 <!-- bkz sami hazinsese de çok hojdır ama banana-->
 <!-- bkz batman daki yarasa kostümlü kürt 
-<!-- bkz komünist başkan maçoğlunun halaylı atakürt kutlaması
+<!-- bkz komünist başkan maçoğlunun batmanda ki halaylı atakürt kutlaması
 <!-- https://www.uludagsozluk.com/k/pembe-panterin-pipisinin-olmamas%C4%B1/ bkz pipisi olmayan pantere hallenmek-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
