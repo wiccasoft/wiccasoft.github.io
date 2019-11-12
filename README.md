@@ -6,7 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 
-[![Image](smartdata/goole-med.png)]( https://www.theguardian.com/technology/2019/nov/12/google-medical-data-project-nightingale-secret-transfer-us-health-information )
+[![Image](smartdata/google-med.png)]( https://www.theguardian.com/technology/2019/nov/12/google-medical-data-project-nightingale-secret-transfer-us-health-information )
 
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
