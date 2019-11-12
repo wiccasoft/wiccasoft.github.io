@@ -9,6 +9,7 @@
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/ bkz o göte bül bül öte -->
 <!-- bkz götüne roket bağlayan adama asılırken odaya babanın girmesi -->
 <!-- bkz bacağının kılını alan erkek in tengir budun olma ihtimali-->
+<!-- bkz deeep turkish web cok hojdur ama banana-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
