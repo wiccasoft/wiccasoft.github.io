@@ -9,6 +9,7 @@
 <!-- https://www.uludagsozluk.com/e/42403798/ bkz erkek götü seksiliği -->
 <!-- bkz götünün kılını alan erkek -->
 <!-- https://www.uludagsozluk.com/k/salako-filmindeki-g%C3%B6te-31-%C3%A7ekmi%C5%9F-efsane-nesil/&w=bg -->
+<!-- bkz fatih mehmet maçoğlanın 10 kasım paylaşımı -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/ bkz o göte bülbül öte -->
 <!-- bkz batman daki yarasa kostümlü kürt 
 <!-- bkz komünist başkan maçoğlunun batmanda ki halaylı atakürt kutlaması
