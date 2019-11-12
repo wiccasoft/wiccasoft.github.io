@@ -13,10 +13,7 @@ bkz erkeğe entry girerken ılık mı nasıl anlıyoruz sorunsalı
 bkz komunist başkanın lolipoplu paylaşımı
 bkz erkek adamın erkek köpeği olur diyen erkek adam mıdır sorunsalı
 bkz erkek köpek besleyen erkek ılık mıdır sorunsalı
-bkz köpeğinin taşşaklarını yıkayan erkek ılık mıdır sorunsalı
-bkz dişi kedi seven erkek ılık mıdır sorunsalı
 bkz erkek seven erkek ılık mıdır sorunsalı
-bkz erkek adam erkeke entryi girer diyen ergen
 bkz entry girdiğiniz erkeğin entryiniz okuması ılıklık mıdır sorunsalı
 bkz bir erkeğin ılımlı olduğu nasıl anlaşılır sorunsalı
 bkz entry girilen erkeğin ılık olduğunu nasıl anlarsınız sorunsalı
