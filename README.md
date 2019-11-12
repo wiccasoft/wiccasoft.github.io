@@ -6,7 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- https://www.uludagsozluk.com/e/42404285/ eywallah pampa direniyorum parmaktan sonra biraz direnmeyi bırakmıştım
+<!-- https://www.uludagsozluk.com/e/42404285/ eywallah pampa direniyorum https://www.youtube.com/watch?v=ZRJEJ4o260M
 <!---https://www.uludagsozluk.com/k/zall-%C4%B1n-skandal-foto%C4%9Fraf%C4%B1/ bkz zallın resmime asılabirsiniz entrysi
 <!-- https://www.uludagsozluk.com/k/sami-hazinses-in-ermeni-olmas%C4%B1/ bkz sesin den ermeni olduğu belli türkücüler
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/&w=gd bkz o göte bülbül öte-->
