@@ -6,6 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- https://www.uludagsozluk.com/k/erkek-g%C3%B6t%C3%BC-seksili%C4%9Fi/ bkz çok hojdır ama banana-->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCne-roket-ba%C4%9Flayan-adam/ bkz götü hojdır ama banana -->
 <!-- bkz ahmet altan mahmut altan fatih altan maçoğlan  bacak kılın alan erkek de hojdır ama banana-->
 <!-- https://www.uludagsozluk.com/k/evlendikten-sonra-de%C4%9Fi%C5%9Fen-erkek/&w=bg bkz çok hojdır amam banana -->
