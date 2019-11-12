@@ -13,6 +13,7 @@
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
 <!-- https://www.uludagsozluk.com/k/rabia-naz-vatan/&w=bg bkz erdoganin rabia selamı --> 
+<!-- bkz bacakları yalansı erkekler -->
 <!-- https://www.uludagsozluk.com/k/forrest-gump-%C4%B1n-k%C4%B1%C3%A7-yaras%C4%B1/ bkz o göte bülbül öte -->
 <!-- https://www.uludagsozluk.com/k/baca%C4%9F%C4%B1n%C4%B1n-k%C4%B1l%C4%B1n%C4%B1-alan-erkek/&w=bg bkz mevlütçavuşoğlu -->
 <!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz madem yok niye ısrar ediyosun -->
