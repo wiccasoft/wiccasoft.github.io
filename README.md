@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz seven kedi erkek ılık mıdır sorunsalı
 bkz kadın seven erkek ılık mıdır sorunsalı
 bkz erkek seven kadın ılık mıdır sorunsalı
 bkz hangi erkek ılık nasıl anlıyoruz sorunsalı
