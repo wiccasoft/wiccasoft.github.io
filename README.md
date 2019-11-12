@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz hüseyin nihal atsız la mı bir gece ahmet hamdi tanpınar la bir gece istersin
 bkz saidi nursi nurcuysa ılık mıydı sorunsalı
 bkz hüseyin nihal atsız ılık mıdır sorunsalı
 bkz sürekli erkek düşünmek ılık lıkmıdır sorunsalı
