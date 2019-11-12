@@ -8,6 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz koca taşşaklı bi rottweiler besleyen erkek ılık mıdır sorunsalı
+bkz kedi besleyen erkek ılık diye kızların genelde rottweiler besleyen erkekler vermesi
 bkz kedi yiyen erkek ılık mıdır sorunsalı
 bkz hüseyin bihal atsıza at fırlatıp kaçmak-->
 
