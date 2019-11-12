@@ -11,6 +11,7 @@
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
 <!-- bkz apple google microsoft çok hojdır ama banana -->
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
+<!-- bkz ezan sesi çok hojdır ama banana -->
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banana-->
 <!-- https://www.uludagsozluk.com/k/ahmet-altan/&w=gd ahmet altan çok hojdur ama banana -->
