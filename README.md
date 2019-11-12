@@ -15,6 +15,7 @@
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banana-->
 <!-- https://www.uludagsozluk.com/k/ahmet-altan/&w=gd ahmet altan çok hojdur ama banana -->
+<!-- https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-bald%C4%B1z%C4%B1m%C4%B1n-ka%C3%A7mas%C4%B1na-sessiz-kalmas%C4%B1/ cem yılmazın baldızı çok hojdır amam banana -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flunun-ar%C4%B1tma-tesisi-vaadi/ bkz bokunuzda boğulun ama banana -->
 <!-- https://www.uludagsozluk.com/k/istanbul-u-kaybeden-t%C3%BCrkiye-yi-kaybeder/&w=bg bkz ist hojdır amma banana -->
 <!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz bakan hojdır amma banana-->
