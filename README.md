@@ -9,6 +9,7 @@
 <!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
+<!-- bkz apple google microsoft çok hojdır ama banana -->
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banana-->
