@@ -6,7 +6,30 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- apple ahmet altan mehmet altan jim carrey çok hojdır ama banana -->
+
+<!-- https://www.uludagsozluk.com/e/42403728/ bkz tayyip looks like smiling face-->
+<!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
+<!-- bkz doğa aşığı tayyip vs beton ekrem -->
+<!-- https://www.uludagsozluk.com/k/allah-tan-korkmak-laz%C4%B1md%C4%B1r/ bkz allah lazımdır korkmak var gerektir -->
+<!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
+<!-- https://www.uludagsozluk.com/k/ahmet-altan/&w=gd ahmet altan çok hojdur ama banana -->
+<!-- bkz apple google microsoft çok hojdır ama banana -->
+<!-- bkz ezan sesi çok hojdır ama banana -->
+<!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
+<!-- bkz cem yıldızın baldızı da çok hojdır ama banana -->
+<!-- https://www.uludagsozluk.com/k/tayyip-allah-olmak-istiyorsa-toplanak-allah-diyek/&w=bg bkz tayyip çok hojdır-- >
+<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-na-tapmak/&w=bg bkz imamoğlan çok hojdır ama banana--> 
+<!-- İstanbul Çok Hoştur Ama Benana https://www.youtube.com/watch?v=4RpMzsA1VOw
+<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ibb-yi-akp-den-temizlemesi/ bkz ibb çok hojdır amam banana-->
+<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flunun-ar%C4%B1tma-tesisi-vaadi/ bkz bokunuzda boğulun ama banana -->
+<!-- https://www.uludagsozluk.com/k/istanbul-u-kaybeden-t%C3%BCrkiye-yi-kaybeder/&w=bg bkz ist hojdır amma banana -->
+<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz bakan hojdır amma banana-->
+<!-- https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg akp fetö hojdır amma banana -->
+<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz madem yok niye ısrar ediyosun -->
+<!-- https://www.uludagsozluk.com/k/allah-yoksa-ateistler-neyi-inkar-ediyor/&w=bg bkz madem yok niye inkar ediyosun -->
+<!-- https://eksisozluk.com/applein-acigini-bulup-100-lira-odul-alan-liseli--6244351?a=popular apple hojdır amma banana -->
+<!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
+<!-- https://www.uludagsozluk.com/k/mehmet-ali-erbilin-namaza-ba%C5%9Flamas%C4%B1/ bkz maşşallah -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
