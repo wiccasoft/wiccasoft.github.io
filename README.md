@@ -6,7 +6,7 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-
+<!-- https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya/&w=bg bkz çok hojdır ama banana -->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
