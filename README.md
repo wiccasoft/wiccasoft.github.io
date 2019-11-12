@@ -13,6 +13,7 @@
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
 <!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbilin-namaza-ba%C5%9Flamas%C4%B1/ bkz maşşallah -->
+<!-- https://www.uludagsozluk.com/k/trump-%C4%B1n-ben-ettim-sen-etme-karde%C5%9F-demesi/ bkz mazlumu getirin bana -->
 [![Image](smartdata/mercury-transit.png)]( https://www.timeanddate.com/eclipse/transit/2019-november-11)
 <!-- https://www.timeanddate.com/eclipse/transit/2019-november-11 -->
 
