@@ -7,7 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
-bkz hüseyin nihal atsız ı 3 kelime ile anlat deseler ne yazardınız sorunsalı
+bkz gece hüseyin nihal atsız odanıza girse ne yapardınız sorunsalı
 bkz erkek anan erkek ılık mıdır sorunsalı
 bkz komünist başkanın hiç erkek anmaması sorunsalı
 bkz hüseyin nihal atsız götten istese verir miydiniz sorunsalı
