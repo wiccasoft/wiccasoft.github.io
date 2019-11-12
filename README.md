@@ -9,6 +9,7 @@
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz bir erkeğin ılımlı olduğu nasıl anlaşılır sorunsalı
 bkz en çok hangi erkeğe entry girdiniz sorunsalı
+bkz entry girilen erkeğin ılık olduğunu nasıl anlarsınız sorunsalı
 bkz ılımlı erkek ılık erkek midir sorunsalı
 bkz lolipop yalayan erkek ılık mıdır sorunsalı
 bkz bi erkeğin ılımlı mı ılımsız mı olduğunu anlama
