@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz 1 milyon verseler mezarlıkta zıplarmısınız
 bkz 1 milyon verseler tayyip anamın altında yakalansa orospuluk anamdadır dermisiniz
 bkz binali seçmeni gece camı tıklasa napardınız 
 bkz imamaoğlu seçmeni gece camı tıklasa napardınız
