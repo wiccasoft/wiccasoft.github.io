@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz entry girdiğiniz erkeğin entryiniz okuması
 bkz bir erkeğin ılımlı olduğu nasıl anlaşılır sorunsalı
 bkz entry girilen erkeğin ılık olduğunu nasıl anlarsınız sorunsalı
 bkz ılımlı erkek ılık erkek midir sorunsalı
