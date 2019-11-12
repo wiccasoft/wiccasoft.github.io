@@ -8,7 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz devlet bahçeli kılığında cin cama tıklasa napardınız sorunsalı
-bkz hakkari belediye başkanı gece yatağınızın altında bakıp ne bakıyon dese napardınız
+bkz tunceli belediye başkanı gece yatağınızın altında bakıp ne bakıyon dese napardınız
 bkz tunç soyer gece yatağınızın altından baksa napardınız sorunsalı
 bkz gece devlet bahceli cama tıklayıp öpücük atsa napardınız sorunsalı
 bkz komunist başkanın lenini anması
