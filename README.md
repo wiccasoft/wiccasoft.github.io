@@ -18,8 +18,7 @@ bkz entry girdiğiniz erkeğin entryiniz okuması ılıklık mıdır sorunsalı
 bkz bir erkeğin ılımlı olduğu nasıl anlaşılır sorunsalı
 bkz entry girilen erkeğin ılık olduğunu nasıl anlarsınız sorunsalı
 bkz ılımlı erkek ılık erkek midir sorunsalı
-bkz lolipop yalayan erkek ılık mıdır sorunsalı
-bkz bi erkeğin ılımlı mı ılımsız mı olduğunu anlama
+bkz bi erkeğin ılımlı mı ılımsız mı olduğunu anlamanın yolları
 bkz ılık erkek oda sıcaklığı erkeği midir sorunsalı
 bkz ejderha besleyen erkek ılık mıdır sorunsalı
 bkz erkek gibi yiyişmeyen erkek ılık mıdır sorunsalı
