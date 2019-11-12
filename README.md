@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz kedi yiyen erkek ılık mıdır sorunsalı
 bkz hüseyin bihal atsıza at fırlatıp kaçmak-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
