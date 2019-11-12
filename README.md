@@ -11,6 +11,7 @@ bkz kadın seven erkek ılık mıdır sorunsalı
 bkz erkek seven kadın ılık mıdır sorunsalı
 bkz hangi erkek ılık nasıl anlıyoruz sorunsalı
 bkz komunist başkanın lolipoplu paylaşımı
+bkz atatürkçü başkanın lenini anmaması
 bkz erkek adamın erkek köpeği olur diyen erkek adam mıdır sorunsalı
 bkz erkek köpek besleyen erkek ılık mıdır sorunsalı
 bkz erkek seven erkek ılık mıdır sorunsalı
