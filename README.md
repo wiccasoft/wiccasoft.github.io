@@ -6,62 +6,6 @@
 <!-- [![Image](smartdata/sun-in-libra.png)](https://www.youtube.com/watch?v=bB192WZHKRw) -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- bkz götüne roket adamdan ses gelmemesi
-bkz 1 milyon verseler mezarlıkta zıplarmısınız
-bkz binali seçmeni gece camı tıklasa napardınız 
-bkz imamaoğlu seçmeni gece camı tıklasa napardınız
-bkz bir milyon verseler binali secmenine kötü entry girermisiniz sorunsalı
-bkz gece rte camı tıklasa pilavlıya çağırdık niye gelmedin mübarek dese naparsınız
-bkz bacak sallarken rte camı tıklayıp sallama dese napardınız sorunsalı
-bkz aç kalsanız imamoğlu seçmemini ısırırmısınız sorunsalı
-bkz gece mezarlıktan zıplayan rte görseniz napardınız sorunsalı
-bkz gece diyanet başkanı camdan bakıp sırıtsa napardınız sorunsalı
-bkz gece berat albayrak cama tıklasa burası çokomelli dese napardınız
-bkz akp ümraniye il başkanı gece cama tıklasa napardınız
-bkz gece devlet bahceli cama tıklayıp gülse napardınız
-bkz gece fazıl say cama tıklayıp beni yok say dese napardınız
-bkz devlet bahçeli kılığında cin cama tıklasa napardınız sorunsalı
-bkz tunceli belediye başkanı gece yatağınızın altında bakıp ne bakıyon dese napardınız
-bkz tunç soyer gece yatağınızın altından bakıp laiklik çok güzel gelsene dese napardınız
-bkz gece devlet bahceli cama tıklayıp öpücük atsa napardınız sorunsalı
-bkz komunist başkanın lenini anması
-bkz 10 milyon verseler vurdurur musunuz sorunsalı
-bkz gece  camdan rte bakıp i see dead people dese napardınız sorunsalı
-bkz yatağınızın altından komunist başkan baksa napardınız sorunsalı
-bkz hüseyin nihal atsız yatağınız altından baksa napardınız sorunsalı 
-bkz saidi nursi'ye pamuk mı tıkandı silikon mu sıkıldı sorunsalı
-bkz hüseyin nihal atsız camdan size bakıp 31 çekse napardınız sorunsalı
-bkz ılık seven kedi erkek midir sorunsalı
-bkz seven kedi erkek ılık mıdır sorunsalı
-bkz kadın seven erkek ılık mıdır sorunsalı
-bkz erkek seven kadın ılık mıdır sorunsalı
-bkz hangi erkek ılık nasıl anlıyoruz sorunsalı
-bkz komunist başkanın lolipoplu paylaşımı
-bkz atatürkçü başkanın lenini anmaması
-bkz erkek adamın erkek köpeği olur diyen erkek adam mıdır sorunsalı
-bkz erkek köpek besleyen erkek ılık mıdır sorunsalı
-bkz erkek seven erkek ılık mıdır sorunsalı
-bkz entry girdiğiniz erkeğin entryiniz okuması ılıklık mıdır sorunsalı
-bkz bir erkeğin ılımlı olduğu nasıl anlaşılır sorunsalı
-bkz entry girilen erkeğin ılık olduğunu nasıl anlarsınız sorunsalı
-bkz ılımlı erkek ılık erkek midir sorunsalı
-bkz bi erkeğin ılımlı mı ılımsız mı olduğunu anlamanın yolları
-bkz ılık erkek oda sıcaklığı erkeği midir sorunsalı
-bkz ejderha besleyen erkek ılık mıdır sorunsalı
-bkz erkek gibi yiyişmeyen erkek ılık mıdır sorunsalı
-bkz en çok hangi erkeğe entry girdiniz sorunsalı
-bkz entry girilen erkeğin içinde gezdirmek
-bkz bi adaya düşseniz yanınıza alacağını üç erkek 
-bkz zall bana hep oç derin ayarından sonra tunç soyerle eko dan ses gelmemesi sorunsalı
-bkz sevdiceğine kıyafet giydiren erkek ılık mıdır sorunsalı
-bkz kedi besleyen erkek ılık mıdır sorunsalı 
-bkz sigara içmeyen erkek iticiliği
-bkz at besleyen erkek ılık mıdır sorunsalı
-bkz kızlarsoruyor.com da at besleyen erkek ılıkdır tartışması
-bkz rottweiler besleyen erkek ılık mıdır sorunsalı
-bkz balık besleyen erkek ılık mıdır sorunsalı
-bkz kedi yiyen erkek ılık mıdır sorunsalı
-bkz hüseyin bihal atsıza at fırlatıp kaçmak-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
