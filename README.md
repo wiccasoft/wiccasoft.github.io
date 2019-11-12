@@ -16,6 +16,13 @@
 <!-- https://www.uludagsozluk.com/k/istanbul-u-kaybeden-t%C3%BCrkiye-yi-kaybeder/&w=bg bkz ist hojdır amma banana -->
 <!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz bakan hojdır amma banana-->
 <!-- https://www.uludagsozluk.com/k/akp-nin-fet%C3%B6-ile-efsane-m%C3%BCcadelesi/&w=bg akp fetö hojdır amam banana -->
+<!-- https://www.uludagsozluk.com/k/ali-ece/&w=bg bkz ali ece hojdır amam banana --->
+<!-- https://eksisozluk.com/jim-carrey--46271?a=popular  bkz jim carrey hojdır amam banana --->
+<!-- https://eksisozluk.com/applein-acigini-bulup-100-lira-odul-alan-liseli--6244351?a=popular apple hojdır amam banana -->
+<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz madem yok niye ısrar ediyosun -->
+<!-- https://www.uludagsozluk.com/k/allah-yoksa-ateistler-neyi-inkar-ediyor/&w=bg bkz madem yok niye inkar ediyosun -->
+<!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
+<!-- https://www.uludagsozluk.com/k/mehmet-ali-erbilin-namaza-ba%C5%9Flamas%C4%B1/ bkz maşşallah -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
