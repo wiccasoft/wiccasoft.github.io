@@ -14,6 +14,7 @@
 <!-- https://www.youtube.com/watch?v=PSLp6nDlJAE bkz once you vote you never go back-->
 <!-- https://www.uludagsozluk.com/k/rabia-naz-vatan/&w=bg bkz erdoganin rabia selamı --> 
 <!-- https://www.uludagsozluk.com/k/forrest-gump-%C4%B1n-k%C4%B1%C3%A7-yaras%C4%B1/ bkz o göte bülbül öte -->
+<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1-sildiren-bakan/ bkz madem yok niye ısrar ediyosun -->
 <!-- https://www.uludagsozluk.com/k/allah-yoksa-ateistler-neyi-inkar-ediyor/&w=bg bkz madem yok niye inkar ediyosun -->
 <!-- https://eksisozluk.com/fatih-erbakanin-gumbur-gumbur-gelmesi--6244559?a=popular may the fatih erbakan be with you -->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbilin-namaza-ba%C5%9Flamas%C4%B1/ bkz maşşallah -->
