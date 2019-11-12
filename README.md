@@ -9,7 +9,7 @@
 <!-- bkz götüne roket adamdan ses gelmemesi
 bkz erkek gibi yiyişmeyen erkek ılık mıdır sorunsalı
 bkz en çok hangi erkeğe entry girdiniz sorunsalı
-bkz ... diyen erkek
+bkz entry girilen erkeğin içinde gezdirmek
 bkz bi adaya düşseniz yanınıza alacağını üç erkek 
 bkz zall bana hep oç derin ayarından sonra tunç soyerle eko dan ses gelmemesi sorunsalı
 bkz sevdiceğine kıyafet giydiren erkek ılık mıdır sorunsalı
