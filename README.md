@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz fatih mehemt maçoğlunun mansur yavaş a verdiği ayar
 bkz zall bana hep oç derin ayarından sonra tunç soyerle eko dan ses gelmemesi sorunsalı
 bkz at besleyen erkek ılık mıdır sorunsalı
 bkz kızlarsoruyor.com da at besleyen erkek ılıkdır aga diyen kız
