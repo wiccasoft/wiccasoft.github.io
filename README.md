@@ -11,6 +11,7 @@
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like
 <!-- bkz doğa aşığı tayyip vs beton ekrem -->
 <!-- bkz erkek çok hojdır ama banana-->
+<!-- bkz entry girdiniz tüm erkekler çok hojdır ama banana -->
 <!-- bkz komunist başkan maçoğlan da çok hojdır ama banana -->
 <!-- bkz ahmet altan çok hojdır ama banana -->
 <!-- bkz bacağının kılını alan erkek çok hojdır ama banana-->
