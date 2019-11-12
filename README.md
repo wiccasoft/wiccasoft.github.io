@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz deep webin deepsiz çukrunu soktunuz yine kardeş -->
+<!-- https://www.uludagsozluk.com/k/fatih-mehmet-ma%C3%A7o%C4%9Flu/&w=bg bkz çok hojdır kardeş ama banana -->
 <!-- bacak kılını alan erkek de hojdır ama banana -->
 <!-- bkz entry girdiğiniz bütün erkekler çok hojdır ama banana -->
 
