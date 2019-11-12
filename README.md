@@ -7,6 +7,7 @@
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz götüne roket adamdan ses gelmemesi
+bkz gss prim borcunu götünüzü satarak öder miydiniz sorunsalı
 bkz gece rte camı tıklasa pilavlıya çağırdık niye gelmedin mübarek dese naparsınız
 bkz bacak sallarken rte camı tıklayıp sallama dese napardınız sorunsalı
 bkz aç kalsanız imamoğlu seçmemini ısırırmısınız sorunsalı
