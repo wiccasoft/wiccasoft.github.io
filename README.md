@@ -11,7 +11,7 @@
 <!-- bkz bacağının kılını alan erkek in tengir budun olma ihtimali-->
 <!-- https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz o çeneye bül bül öte -->
 <!-- bkz okunmyacağını bildiği halde entry giren liseliler -->
-
+<!-- https://www.uludagsozluk.com/k/kurye-ramazan/ bkz entrylerinde muhabbet eden liseli -->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
