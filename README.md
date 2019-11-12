@@ -8,6 +8,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz deep webin deepsiz çukurunu soktunuz yine kardeş -->
 <!-- https://www.uludagsozluk.com/k/ka%C5%9Farl%C4%B1%C4%9F%C4%B1n%C4%B1-bilmedi%C4%9Fi-k%C4%B1za-a%C5%9F%C4%B1k-olan-saf-erkek/&w=bg aboooov okumadım kardeş -->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg bkz okumadım kardeş -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
