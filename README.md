@@ -3,7 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
-<!-- bkz deep web dünya lideri savunurken ölecek olan aktroller -->
+<!-- bkz deep web dünya liderini savunurken ölecek olan aktroller -->
 <!-- bkz dünya liderine 5000 metreden fazla yaklaşmayan aktroller -->
 <!-- bkz sütyen takmayan 45 plus erkek çekiciliği -->
 <!-- bkz jinekomastiden parayı burup amerikada yaşamak-->
