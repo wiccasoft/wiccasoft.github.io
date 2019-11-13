@@ -2,6 +2,7 @@
 <!-- https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz taksimin renkli siması -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz taksimin renkli siması göksel kaya-->
 <!-- https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg bkz aponun renkli siması 
+<!-- bkz binaliye benzeyen adam vs atatürke benzeyen adam-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
