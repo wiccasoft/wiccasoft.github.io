@@ -2,7 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
-<!-- bkz hz sav ebuleheb fotosu önünde badelenen mümin çouğun ilim deliğini açmak -->
+<!-- bkz hz sav ebuleheb fotosu önünde badelenen mümin çocuğun ilim deliğini açmak -->
 <!-- bkz şey hz cübbeli mahmudi efendi önünde secdeyle domalan çocuğa yavaşça akmak -->
 <!-- bkz secde ettirilen çocuğun kalçalarını islam sevgisiyle yoğurmak-->
 <!-- bkz çocuklara rte fotolarının önünde secde ettirmek-->
