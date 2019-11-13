@@ -4,7 +4,7 @@
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
 <!-- bkz atatürke benzeyen adamın aslan burcu adamı olduğu gerçeği -->
 <!-- bkz atatürke benzeyen adamın tayyip gidince ülkeyi saklaması-->
-<!-- bkz binaliye benzeyen adamın atatürke benzeyen adamdan kaçması -->
+<!-- bkz binaliye benzeyen adamın göt korkusundan atatürke benzeyen adamdan kaçması -->
 <!-- bkz sevilen lider halkın çoşkun seliyle karşılaştı --> 
 <!-- bkz erdoğanın beyaz sarayın camına tıklayıp ben geldim bro demesi -->
 <!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
