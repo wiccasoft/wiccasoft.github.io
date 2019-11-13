@@ -5,6 +5,7 @@
 <!-- bkz killa hakanın sagopayla barışması -->
 <!-- bkz imamaoğlunun trumpa el ense çekmesi-->
 <!-- bkz trumpın imamaoğlu inşaat la ortaklığı olduğu iddiası -->
+<!-- bkz killhakan imamaoğlan arasındaki neşeli anlar kamerlara böyle yansıdı-->
 <!-- bkz imamoğlu köfte imamaoğlu insşaat gibi firma kuran birine belediye teslim etmek -->
 <!-- bkz jamesearl cahs  in attığı videoların bilgisayarı kasması -->
 <!-- bkz james hetfield ibrahim talıses düeti -->
