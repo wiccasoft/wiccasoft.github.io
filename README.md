@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
+<!-- bkz şey hz mahmudi efendi önünde secdeyle domalan çocuğa yavaşça akmak -->
 <!-- bkz secde ettirilen çocuğun kalçalarını islam sevgisiyle yoğurmak-->
 <!-- bkz çocuklara rte fotolarının önünde secde ettirmek-->
 <!-- https://www.uludagsozluk.com/e/42410664/ bkz https://www.youtube.com/watch?v=Md6eubraRUI
