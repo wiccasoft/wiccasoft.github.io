@@ -4,6 +4,7 @@
 <!-- bkz üç isimli erkek karizması -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/&w=gd
 bkz atatükrün bokunu çıkartması -->
+<!-- bkz frank lucasın atatürke döşediği boru -->
 <!-- https://www.uludagsozluk.com/k/akkuyu-n%C3%BCkleer-santrali/&w=bg bkx işsizlerin rte daha çok araştırması -->
 <!-- https://www.uludagsozluk.com/k/serdar-ali-%C3%A7elikler/&w=bg bkz üç isimli erkek karizması -->
 <!-- bkz atilla yeşil ada bkz üç isimli erkek karizması-->
