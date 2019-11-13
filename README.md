@@ -1,8 +1,10 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- 
+bkz https://www.uludagsozluk.com/k/joker-karakterini-oynayabilecek-t%C3%BCrk-akt%C3%B6r/&w=bg atatürke benzeyen adam
 bkz atatürke benzeyen adam vs binaliye benzeyen adam
 bkz yazacağım zaman makinesine isim önerileri
 https://www.uludagsozluk.com/e/42408065/ bkz 89 yılı album satışları muhteşeme bir detay
+https://www.uludagsozluk.com/e/42406343/ yav he he
 -->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
