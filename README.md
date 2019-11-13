@@ -3,7 +3,7 @@
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
 <!-- https://cubbeliahmethoca.com.tr/ bkz hay maşşalah -->
-<!-- bkz akrepnalan.com cübbeliahmet.com.tr e yönlendirmesi
+<!-- bkz akrepnalan.com un cübbeliahmet.com.tr e yönlendirmesi
 <!-- https://www.uludagsozluk.com/e/42410759/ bkz alahın ilmini almış bir çocuk
 <!-- bkz yılan serdar ilmiyle büyütülen çocukları akrepnalan.com a yöneltmek
 <!-- bkz hz sav efendi  hazretlwei ebuleheb fotosu önünde secdeyle badelenen mümin çocuğun ilmini açmak -->
