@@ -1,6 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- trumpın ayağına giden dünya lideri -->
+<!-- bkz atatürke benzeyen adamın tayyip gidince  ülkeyi saklaması-->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trumpa-o-kadar-laf-edip-aya%C4%9F%C4%B1na-gitmesi/ -->
 <!-- bkz erdoğanın beyaz sarayın camına tıklayıp ben geldim bro demesi -->
 <!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
