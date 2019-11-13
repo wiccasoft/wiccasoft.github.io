@@ -1,7 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz dünya lideri kim sorunsalı -->
-<!-- trumpın ayağına giden dünya lideri -->
-<!-- bkz atatürke benzeyen adamın tayyip gidince  ülkeyi saklaması-->
+<!-- bkz trumpın ayağına giden dünya lideri -->
+<!-- bkz atatürke benzeyen adamın tayyip gidince ülkeyi saklaması-->
 <!-- bkz binaliye benzeyen adamın atatürke benzeyen adamdan kaçması -->
 <!-- bkz sevilen lider halkın çoşkun seliyle karşılaştı --> 
 <!-- https://www.uludagsozluk.com/k/amerikada-erdo%C4%9Fan%C4%B1n-kalabal%C4%B1%C4%9F%C4%B1-selamlamas%C4%B1/ -->
