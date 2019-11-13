@@ -2,6 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
+<!-- bkz memelerim sallanıyo mu diyen erkek-->
 <!-- bkz özcan denizin memelerine asılırken odaya babanın girmesi -->
 <!-- bkz cem yılmaz ın memelerini emerken özcan denizin memelerini tokatlayıp viski yudumlamak -->
 <!-- bkz hoşlaşılan erkeğin memelerini emerken bi yandan cips yiyip viski içmek -->
