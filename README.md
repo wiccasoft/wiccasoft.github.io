@@ -2,6 +2,7 @@
 
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
+<!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın
 <!-- https://www.facebook.com/erkantanahaber/videos/erkan-tan-ver-mehteri/1010463862392162/ -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya-n%C4%B1n-tutuklanmas%C4%B1-gereklili%C4%9Fi/ -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-giderse-biz-ne-yapaca%C4%9F%C4%B1z/&w=bg -->
