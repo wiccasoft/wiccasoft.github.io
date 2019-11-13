@@ -1,6 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
+<!-- bkz çocuklara secde ettirmek -->
 <!-- tayyip fotosunun önünde çocuklara secde ettirmek -->
 <!-- atatürk fotosunun önünde çocuklara secde ettirmek -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
