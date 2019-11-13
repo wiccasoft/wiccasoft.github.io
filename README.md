@@ -1,5 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz dünya lideri kim sorunsalı -->
+<!-- bkz gece gece akla gelen kim ulan bu dünya lideri sorunsalı -->
 <!-- bkz erdoğanın beyaz sarayın camına tıklayıp ben geldim bro demesi -->
 <!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
 <!-- https://www.uludagsozluk.com/e/42409605/ bkz güney amerikada kafa dinlemek -->
