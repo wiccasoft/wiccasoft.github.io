@@ -3,6 +3,8 @@
 <!-- trumpın ayağına giden dünya lideri -->
 <!-- bkz atatürke benzeyen adamın tayyip gidince  ülkeyi saklaması-->
 <!-- bkz binaliye benzeyen adamın atatürke benzeyen adamdan kaçması -->
+<!-- bkz sevilen lider halkın çoşkun seliyle karşılaştı --> 
+<!-- https://www.uludagsozluk.com/k/amerikada-erdo%C4%9Fan%C4%B1n-kalabal%C4%B1%C4%9F%C4%B1-selamlamas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-trumpa-o-kadar-laf-edip-aya%C4%9F%C4%B1na-gitmesi/ -->
 <!-- bkz erdoğanın beyaz sarayın camına tıklayıp ben geldim bro demesi -->
 <!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
