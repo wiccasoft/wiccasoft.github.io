@@ -4,8 +4,9 @@
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
 <!-- bkz imamaoğlunun tayyipi kıskanması -->
+<!-- https://www.uludagsozluk.com/k/binali-yi-23-nisan-da-ibb-koltu%C4%9Funa-oturtmak/ bkz zuahahahahahah -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz ligin içinden geçmek -->
-<!-- bkz o kadar yorgun olmak ki evden çıkmaya üşenmek -->
+<!-- bkz o kadar yorgun olmak ki otelden çıkmaya üşenmek -->
 <!-- bkz tunç soyerin zall hep bana oç derden yediği ayardan sonra sesinin çıkmaması -->
 <!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F-performans%C4%B1-ile-ekrem-beyi-ge%C3%A7ti/ bkz mansur yavaş -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/ bkz ölü -->
