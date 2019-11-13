@@ -3,6 +3,7 @@
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
 <!-- bkz 10 dakikadır atatürke küfretmeyen aktroll -->
+<!-- bkz çocuklara rte fotolarının önünde secde ettirmek-->
 <!-- https://www.uludagsozluk.com/e/42410664/ bkz https://www.youtube.com/watch?v=Md6eubraRUI
 <!-- bkz https://www.youtube.com/watch?v=d85d7bEq208 hay maşşallah -->
 <!-- bkz atatürk posterler heykelleri yıkılsın kampanyası  https://www.youtube.com/watch?v=d85d7bEq208-->
