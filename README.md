@@ -1,9 +1,10 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-allah/&w=bg -->
+
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz eşi benzeri olmayan -->
 <!-- https://www.youtube.com/watch?v=S0ePJXPRW3Y ver mehteri-->
+
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
