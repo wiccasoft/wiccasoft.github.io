@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
+<!-- https://cubbeliahmethoca.com.tr/ bkz hay maşşalah -->
 <!-- bkz yılan serdar ilmiyle büyütülen çocukları akrepnalan.com a yöneltmek
 <!-- bkz hz sav efendi  hazretlwei ebuleheb fotosu önünde secdeyle badelenen mümin çocuğun ilmini açmak -->
 <!-- bkz şey hz cübbeli mahmudi efendi önünde secdeyle domalan çocuğa yavaşça akmak -->
