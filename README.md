@@ -1,5 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- 
+https://www.uludagsozluk.com/k/kedi-seven-erkek-%C4%B1l%C4%B1kt%C4%B1r/ bkz uzak durulması gereken erkekler
 bkz pattes soğan nası koydu ama tayyip erdoğan
 https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/&w=gd
 bkz https://www.uludagsozluk.com/k/joker-karakterini-oynayabilecek-t%C3%BCrk-akt%C3%B6r/&w=bg atatürke benzeyen adam
