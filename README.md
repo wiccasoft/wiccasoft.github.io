@@ -4,8 +4,7 @@
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
 <!-- bkz imamaoğlunun tayyipi kıskanması -->
-<!-- imamaoğlanın merkele attığı bakış -->
-<!-- bkz rte nin putine attığı bakış vs imamaoğlanın merkele attığı bakış -->
+<!-- bkz imamaoğlunun camileri ahıra çevirmesi -->
 <!-- bkz radamel falcao garcia yı soyunma odasında fatih terime yaptığı hareket -->
 <!-- bkz üç isimli erkeklerin her alanda daha başarılı olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/k/binali-yi-23-nisan-da-ibb-koltu%C4%9Funa-oturtmak/ bkz zuahahahahahah -->
