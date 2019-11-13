@@ -1,5 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!--  
+bkz recep tayyip erdoğan giderse türkiyenin batacağı gerçeği
 bkz dan brazilanın havaya ateş edip brezilya benim ulan demesi
 bkz kadı beni bilin cenk itmem adeta sevişurun
 bkz taksim delisi cenkin anlamadığı olaylar
