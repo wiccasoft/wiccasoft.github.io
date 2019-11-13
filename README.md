@@ -1,5 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!--  
+https://www.uludagsozluk.com/k/uluslararas%C4%B1-demokrasi-madalyas%C4%B1-imamo%C4%9Flu-na/ bkz madalya altınmıymış
 bkz şaka maka erdoğanın pkkyı bitirmesi
 bkz patates soğan nası koydu erdoğan
 https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/-->
