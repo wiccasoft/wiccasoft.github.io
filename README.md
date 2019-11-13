@@ -5,7 +5,8 @@
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
 <!-- bkz imamaoğlunun tayyipi kıskanması -->
 <!-- imamaoğlanın merkele attığı bakış -->
-<!--bkz üç isimli erkeklerin her alanda daha başarılı olduğu gerçeği -->
+<!-- bkz radamel falcao garcia yı soyunma odasında fatih terime yaptığı hareket -->
+<!-- bkz üç isimli erkeklerin her alanda daha başarılı olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/k/binali-yi-23-nisan-da-ibb-koltu%C4%9Funa-oturtmak/ bkz zuahahahahahah -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz üç isimli erkek karizması -->
 <!-- bkz o kadar yorgun olmak ki otelden çıkmaya üşenmek -->
