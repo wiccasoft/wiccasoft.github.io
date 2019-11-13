@@ -4,7 +4,8 @@
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz killa hakanın sagopayla barışması -->
 <!-- bkz jamesearl cahs  in attığı videoların bilgisayarı kasması -->
-<!-- bkz deep web  te yabancı nickli gerçek hayatta görseneiz korkacağınız aktrollerin zeka zeviyesi -->
+<!-- bkz james hetfield ibrahim talıses düeti -->
+<!-- bkz deep webte yabancı nickli aktrollerin zeka zeviyesi -->
 <!-- https://www.uludagsozluk.com/e/42408695/ bkz lise mezunnlarının neden böle olması -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz memeler baş kaldırmış -->
 <!-- bkz norm ender imamaoğlunun güldüren sohbeti  görüşmesi https://www.youtube.com/watch?v=9FJHDkx1Gv8 -->
