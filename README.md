@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
+<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-secde-etmek/&w=bg bkz tayyipe şirk koşmak --<
 <!-- bkz mazlum kobaninin yeni başlıyoruz ağlayacaksanız oynamayalım gülüşü -->
 <!-- bkz 13 kasım 2019 şanlıurfa askeri birlikte patlamayıo mazlum kobanini üstlenmesi -->
 <!-- bkz chpkklıların mazlum kobaniye terör örgütü dememesi -->
