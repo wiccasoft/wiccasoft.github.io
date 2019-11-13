@@ -4,6 +4,7 @@
 <!-- bkz çocuklara secde ettirmek -->
 <!-- tayyip fotosunun önünde çocuklara secde ettirmek -->
 <!-- atatürk fotosunun önünde çocuklara secde ettirmek -->
+<!-- bkz madem atatürk yok niye inkar ediyosunuz -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
 <!-- bkz atatürke benzeyen adamın atımı getirin lan demesi -->
 <!-- bkz atilla yeşil ada nın atatürke benzeyen adama cıvık müdürüm afedersin demesi -->
