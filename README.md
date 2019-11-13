@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
+<!-- bkz namaz kılan zikr çeken işçiler için direniyoruz kampanyası -->
 <!-- bkz tiamat la folkan iyesta ccişlerin namaz kılarken çıkarılan işçilerden olması -->
 <!-- bkz imamoğlunun namaz kılarken atatürke secde eden işçileri işten çıkarması -->
 <!-- bkz atatürke benzeyen adamın'in 5831 işçiyi işten çıkarması -->
