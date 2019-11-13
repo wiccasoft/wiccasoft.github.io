@@ -1,5 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-
+<!-- https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz taksimin renkli siması -->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
