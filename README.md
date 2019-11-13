@@ -1,7 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
-<!--https://eksisozluk.com/kilo-aldirmasa-7-24-bikmadan-yenilecek-gidalar--6245580?a=popular bkz 7/24 yemek yiyen 130 kiloluk ekşiciler -->
+<!--https://eksisozluk.com/kilo-aldirmasa-7-24-bikmadan-yenilecek-gidalar--6245580?a=popular bkz bıraksalar 7/24 yemek yiyecek ekşiciler -->
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 
