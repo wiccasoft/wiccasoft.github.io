@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
+<!-- atatürke benzeyene adamın çocukları zorla atatürk fotosunun önünde çocuklara secde ettirmesi -->
 <!-- bkz atatürke benzeyen adamın zulüm 1071 de başladı açıklaması-->
 <!-- bkz atatürke benzeyen adamın samsuna ayak basması -->
 <!-- bkz atatürke benzeyen adamın aslan burcu adamı olduğu gerçeği -->
