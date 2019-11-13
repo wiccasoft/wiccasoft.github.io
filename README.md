@@ -1,7 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
-<!-- bkz atatürke benzeyen adamın illumunati lideri olma ihtimali -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
 <!-- bkz atatürke benzeyen adamın aslan burcu adamı olduğu gerçeği -->
 <!-- bkz atatürke benzeyen adamın tayyip gidince ülkeyi saklaması-->
