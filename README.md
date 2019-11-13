@@ -1,5 +1,14 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
+<!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
+<!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
+<!-- https://www.facebook.com/erkantanahaber/videos/erkan-tan-ver-mehteri/1010463862392162/ -->
+<!-- https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya-n%C4%B1n-tutuklanmas%C4%B1-gereklili%C4%9Fi/ -->
+<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-reis-i%C3%A7in-washington-da-saray-yapt%C4%B1rs%C4%B1n/ -->
+<!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz eşi benzeri olmayan -->
+<!-- https://www.youtube.com/watch?v=S0ePJXPRW3Y ver mehteri-->
+
+
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
