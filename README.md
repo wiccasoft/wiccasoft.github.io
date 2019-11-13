@@ -3,7 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- https://www.uludagsozluk.com/k/serdar-ali-%C3%A7elikler/&w=bg bkz üç isimli erkek karizması -->
-<!-- bkz atilla yeşil ada bkz üç isimle erkek karizması-->
+<!-- bkz atilla yeşil ada bkz üç isimli erkek karizması-->
 <!-- https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ -->
 <!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
 <!-- bkz rte vs atatürk e benzeyen adam -->
