@@ -2,6 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
+<!-- bkz gece yatağın altında hüseyin nihal atsız çıkıp ne bakıyosn dese naparsınız -->
 <!-- https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkz atı olmadığı iddia edilen türkçü -->
 <!--https://eksisozluk.com/kilo-aldirmasa-7-24-bikmadan-yenilecek-gidalar--6245580?a=popular bkz 7/24 yemek yiyen 130 kiloluk ekşiciler -->
 <!-- bkz cips yerken atilla yeşil ada izlemek -->
