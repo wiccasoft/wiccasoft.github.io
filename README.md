@@ -3,6 +3,8 @@
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
+<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/ bkz ölü -->
+<!-- bkz kamalcıların ölüye taptıkları gerçeği-->
 <!-- bkz ellerim kırılsaydı da oy kullanmaya gitseydim açeydeim gollarımı böyle oy gullaneydim-->
 <!-- https://www.uludagsozluk.com/k/ilk-camilerin-bakt%C4%B1%C4%9F%C4%B1-y%C3%B6n/&w=bg bkz camiler kıbbemimiz -->
 <!-- bkz vatan sevgisinden sokakalara çıkıp betonlarına ölürüm vatanım diye bağırma isteği -->
