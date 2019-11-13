@@ -3,7 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz killa hakanın sagopayla barışması -->
-<!-- bkz norm ender imamaoğlu görüşmesi -->
+<!-- bkz norm ender imamaoğlunun güldüren sohbeti  görüşmesi https://www.youtube.com/watch?v=9FJHDkx1Gv8 -->
 <!-- https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ bkz kürtlerin beyni -->
 <!-- https://www.uludagsozluk.com/k/killa-hakan-ve-ekrem-imamo%C4%9Flunun-g%C3%BCld%C3%BCren-sohbeti/ bkz fayt club -->
 <!-- https://frank-lucas.uludagsozluk.com/ bkz frank lucasın atatürk düşmanı olması -->
