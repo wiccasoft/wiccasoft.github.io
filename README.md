@@ -2,7 +2,6 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
-<!-- bkz 10 dakikadır atatürke küfretmeyen aktroll -->
 <!-- bkz secde ettirilen çocuğun kalçalarını sevgiyle yoğurmak-->
 <!-- bkz çocuklara rte fotolarının önünde secde ettirmek-->
 <!-- https://www.uludagsozluk.com/e/42410664/ bkz https://www.youtube.com/watch?v=Md6eubraRUI
