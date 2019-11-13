@@ -3,6 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz killa hakanın sagopayla barışması -->
+<!-- bkz james in attığı videoların bilgisayarı kasması -->
 <!-- https://www.uludagsozluk.com/e/42408695/ bkz lise mezunnlarının neden böle olması -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz memeler baş kaldırmış -->
 <!-- bkz norm ender imamaoğlunun güldüren sohbeti  görüşmesi https://www.youtube.com/watch?v=9FJHDkx1Gv8 -->
