@@ -1,4 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- bkz kedi taklidi yapılan erkeğin taksimin renkli siması cenk çıkması -->
 <!-- https://www.uludagsozluk.com/k/kedi-seven-erkek-%C4%B1l%C4%B1kt%C4%B1r/&w=gd bkz uzak durulması gereken erkek-->
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
