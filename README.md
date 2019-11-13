@@ -2,7 +2,8 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz ısırılacak memeler -->
+<!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-3-t%C3%BCrk-ba%C5%9Fbu%C4%9Fu/&w=bg memesi büyük olan kazansın -->
+<!-- https://www.uludagsozluk.com/k/%C3%B6zan-deniz-in-memeleri/&w=bg bkz ısırılacak memeler -->
 <!-- bkz cem yılmaz memeleri vs özcan deniz memeleri -->
 <!-- bkz mustafa kemal atatürk vs recep tayyip erdoğan -->
 <!-- bkz rte bir gece pencerenizi tıkltıp i see dead people dese naparsınız -->
