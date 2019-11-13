@@ -3,7 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- https://frank-lucas.uludagsozluk.com/ bkz frank lucasın atatürk düşmanı olması -->
-<!-- (bkz frank lucas) fransızların bütün gün atatürkle uğraşma sebebi -->
+<!-- bkz fransızların bütün gün atatürkle uğraşma sebebi -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/&w=gd
 bkz atatükrün bokunu çıkartması -->
 <!-- bkz frank lucasın atatürke döşediği boru -->
