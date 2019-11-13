@@ -1,5 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- bkz erdoğanın trumpa mektubunu iade etmesi -->
+<!-- bkz erdoğanın trumpa mektubunu iade etmek için gitmesi -->
 <!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
 <!-- https://www.uludagsozluk.com/e/42409605/ bkz güney amerikada kafa dinlemek -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
