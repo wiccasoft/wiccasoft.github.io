@@ -3,7 +3,7 @@
 bkz yazacağım zaman makinesine isim önerileri
 https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg bkz 1989 yılı albümünü aramak
 bkz 1989 yılı bülent ersoyun en çok satan sanatçı olması (bkz 30 milyon nedir abi)
-bkz zmana makinesine atılacak bilgiler
+bkz zaman makinesine atılacak bilgiler
 https://www.uludagsozluk.com/k/saray-e%C5%9Fraf%C4%B1na-y%C3%BCzde-500-zam-vermek/&w=gd bkz lol
 https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ bkz neler dönmüş serhat ya
 https://www.forbes.com/sites/carlieporterfield/2019/11/11/alibaba-hits-30-billion-in-singles-day-sales-and-brings-taylor-swift-to-shanghai/ bkz boru gibi geçirmek
