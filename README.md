@@ -1,30 +1,4 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!--  
-https://www.uludagsozluk.com/e/42406343/ yav he he
-bkz yazacağım zaman makinesine isim önerileri
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg bkz 1989 yılı karşılaştırmalı data set yapmak
-bkz 1989 yılı bülent ersoyun en çok satan sanatçı olması (bkz 30 milyon nedir abi)
-bkz zaman makinesine atılacak bilgiler
-https://www.uludagsozluk.com/k/saray-e%C5%9Fraf%C4%B1na-y%C3%BCzde-500-zam-vermek/&w=gd bkz lol
-https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ bkz neler dönmüş serhat ya
-https://www.forbes.com/sites/carlieporterfield/2019/11/11/alibaba-hits-30-billion-in-singles-day-sales-and-brings-taylor-swift-to-shanghai/ bkz boru gibi geçirmek
-bkz recep tayyip erdoğan giderse türkiyenin batacağı gerçeği
-bkz dan brazilanın havaya ateş edip brezilya benim ulan demesi
-bkz kadı beni bilin cenk itmem adeta sevişurun
-bkz taksim delisi cenkin anlamadığı olaylar
-bkz dilek imamaoğlunun florida da keyif yapması
-bkz imamoğlunun global şeytani planları
-https://www.uludagsozluk.com/k/uluslararas%C4%B1-demokrasi-madalyas%C4%B1-imamo%C4%9Flu-na/ 
-bkz şaka maka erdoğanın pkkyı bitirmesi
-bkz patates soğan nası koydu erdoğan
-https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/-->
-<!-- https://www.uludagsozluk.com/k/kad%C4%B1n-taklidi-yapan-erkekler/ bkz kadınsı lezbiyenim -->
-<!-- bi gece tayyip camınızı tıklatıp  i see dead people dese naparsınız sounsalı-->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-giderse-biz-ne-yapaca%C4%9F%C4%B1z/&w=bg bkz sorunsal-->
-<!-- https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz taksimin renkli siması -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz taksimin renkli siması göksel kaya-->
-<!-- https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg bkz aponun renkli siması 
-<!-- bkz binaliye benzeyen adam vs atatürke benzeyen adam-->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
