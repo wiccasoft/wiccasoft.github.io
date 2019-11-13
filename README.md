@@ -5,6 +5,7 @@
 <!-- bkz killa hakanın sagopayla barışması -->
 <!-- bkz jamesearl cahs  in attığı videoların bilgisayarı kasması -->
 <!-- bkz james hetfield ibrahim talıses düeti -->
+<!-- bkz jips yerken bi yandan özcan deniz memelerine asılmak -->,
 <!-- bkz deep webte yabancı nickli aktrollerin zeka zeviyesi -->
 <!-- https://www.uludagsozluk.com/e/42408695/ bkz lise mezunnlarının neden böle olması -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz memeler baş kaldırmış -->
