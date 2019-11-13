@@ -1,6 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!--  
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg bkz alibaba da 30 milyar dolar satan taylor swift
+https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg 
+https://www.forbes.com/sites/carlieporterfield/2019/11/11/alibaba-hits-30-billion-in-singles-day-sales-and-brings-taylor-swift-to-shanghai/ bkz boru gibi geçirmek
 bkz recep tayyip erdoğan giderse türkiyenin batacağı gerçeği
 bkz dan brazilanın havaya ateş edip brezilya benim ulan demesi
 bkz kadı beni bilin cenk itmem adeta sevişurun
