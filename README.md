@@ -4,7 +4,6 @@
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
 <!-- bkz imamağlunun camilere kafir atatürk fotoğrafı astırması -->
 <!-- bkz namaz kılan zikr çeken ibb işçileri için direniyoruz kampanası -->
-<!-- bkz tiamat la folkan iyesta ccişlerin namaz kılarken çıkarılan işçilerden olması -->
 <!-- bkz imamoğlunun namaz kılarken atatürke secde eden işçileri işten çıkarması -->
 <!-- bkz atatürke benzeyen adamın'in 5831 işçiyi işten çıkarması -->
 <!-- atatürke benzeyene adamın çocukları zorla atatürk fotosunun önünde çocuklara secde ettirmesi -->
