@@ -1,7 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!--  
 bkz yazacağım zaman makinesine isim önerileri
-https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg bkz 1989 yılı albümünü aramak
+https://www.uludagsozluk.com/k/b%C3%BClent-ersoy/&w=bg bkz 1989 yılı karşılaştırmalı data set yapmak
 bkz 1989 yılı bülent ersoyun en çok satan sanatçı olması (bkz 30 milyon nedir abi)
 bkz zaman makinesine atılacak bilgiler
 https://www.uludagsozluk.com/k/saray-e%C5%9Fraf%C4%B1na-y%C3%BCzde-500-zam-vermek/&w=gd bkz lol
