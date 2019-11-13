@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
+<!-- bkz mazlum kobaninin türkiyeye saldırmaya hazırız demesi-->
 <!-- bkz mazlum kobaninin ypg yi suriyenin kuzeyine yığması -->
 <!-- bkz rte nin ancak rükuda eğilirim demesi -->
 <!-- bkz mazlum kobaninin önünde rte yi secde ettirmek -->
