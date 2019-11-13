@@ -1,6 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!--  
-bkz dile imamaoğlunun florida da keyif yapması
+bkz taksim delisi cenkin anlamadığı olaylar
+bkz dilek imamaoğlunun florida da keyif yapması
 bkz imamoğlunun global şeytani planları
 https://www.uludagsozluk.com/k/uluslararas%C4%B1-demokrasi-madalyas%C4%B1-imamo%C4%9Flu-na/ 
 bkz şaka maka erdoğanın pkkyı bitirmesi
