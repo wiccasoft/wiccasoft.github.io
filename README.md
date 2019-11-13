@@ -5,7 +5,7 @@
 <!-- bkz mustafa kemal atatürk vs recep tayyip erdoğan -->
 <!-- bkz rte bir gece pencerenizi tıkltıp i see dead people dese naparsınız -->
 <!-- bkz atatürke benzeyen adam vs binaliye benzeyen adam -->
-<!-- bkz gece yatağın altında hüseyin nihal atsız çıkıp ne bakıyosn dese naparsınız -->
+<!-- bkz gece yatağın altında hüseyin nihal atsız çıkıp ne bakıyosun dese naparsınız -->
 <!-- https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkz atı olmadığı iddia edilen türkçü -->
 <!--https://eksisozluk.com/kilo-aldirmasa-7-24-bikmadan-yenilecek-gidalar--6245580?a=popular bkz 7/24 yemek yiyen 130 kiloluk ekşiciler -->
 <!-- bkz cips yerken atilla yeşil ada izlemek -->
