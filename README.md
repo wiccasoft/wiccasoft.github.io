@@ -2,7 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
-<!-- bkz özcan denizin memelerine asılrıken odaya babanın girmesi -->
+<!-- bkz özcan denizin memelerine asılırken odaya babanın girmesi -->
 <!-- cem yılmaz ın memelerini emerken özcan denizin memelerini tokatlayıp viski yudumlamak -->
 <!-- bkz hoşlaşılan erkeğin memelerini emerken bi yandan cips yemek -->
 <!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-3-t%C3%BCrk-ba%C5%9Fbu%C4%9Fu/&w=bg memesi büyük olan kazansın -->
