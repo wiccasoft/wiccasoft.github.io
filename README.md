@@ -3,7 +3,8 @@
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın
-<!-- https://www.uludagsozluk.com/k/aslolan-fenerbah%C3%A7e-diyen-adama-objektif-ol-demek/&w=bg bkz kız arkadaşının her şeyine karışan erkek -->
+<!-- bkz kız arkadaşının her şeyine karışan erkek vs erkek arkdaşının her şeyine karışan kız -->
+<!-- https://www.uludagsozluk.com/k/aslolan-fenerbah%C3%A7e-diyen-adama-objektif-ol-demek/&w=bg 
 <!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-hayali-jokey-olmak-olan-%C3%A7ocuk/ bkz a bu benim -->
 <!-- bkz istanbuldaki susmadan havlayan sokak köpeklerini çiftleştiriyoruz kampanyası -->
 <!-- https://www.facebook.com/erkantanahaber/videos/erkan-tan-ver-mehteri/1010463862392162/ -->
