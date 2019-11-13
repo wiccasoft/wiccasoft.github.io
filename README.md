@@ -1,5 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!--  bkz patates soğan nası koydu erdoğan
+<!--  
+bkz şaka maka erdoğanın pkkyı bitirmesi
+bkz patates soğan nası koydu erdoğan
 https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/-->
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-taklidi-yapan-erkekler/ bkz kadınsı lezbiyenim -->
 <!-- bi gece tayyip camınızı tıklatıp  i see dead people dese naparsınız sounsalı-->
