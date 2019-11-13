@@ -1,56 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
-<!-- bkz üç isimli erkek karizması -->
-<!-- bkz killa hakanın sagopayla barışması -->
-<!-- bkz imamaoğlunun trumpa el ense çekmesi-->
-<!-- bkz imamaoğlunun merkele attığı bakış -->
-<!-- bkz imamaoğlunun putine attığı sonra ananı sikecem senin bakışı -->
-<!-- bkz trumpın imamaoğlu inşaat la ortaklığı olduğu iddiası -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-b%C3%BClent-ecevit-benzerli%C4%9Fi/ bkz zall hep oç der -->
-<!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ak-itleri-s%C4%B1ral%C4%B1-tam-liste/ bkz imamaoğlan başlıkları -->
-<!-- bkz killa hakan jilla imamoğlan arasındaki neşeli anlar kameralara böyle yansıdı-->
-<!-- bkz imamoğlu köfte imamaoğlu insşaat gibi firma kuran birine belediye teslim etmek -->
-<!-- bkz jamesearl cahs  in attığı videoların bilgisayarı kasması -->
-<!-- bkz james hetfield ibrahim talıses düeti -->
-<!-- bkz jips yerken bi yandan özcan deniz memelerine asılmak -->
-<!-- bkz deep webte yabancı nickli aktrollerin zeka zeviyesi -->
-<!-- bkz imamaoğlunun merkelin önünde el pençe durması -->
-<!-- bkz bülent ecevitoğlanın clinton önünde el pençe durması -->
-<!-- https://www.uludagsozluk.com/e/42408695/ bkz lise mezunnlarının neden böle olması -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz memeler baş kaldırmış -->
-<!-- bkz norm ender imamaoğlunun güldüren sohbeti  görüşmesi https://www.youtube.com/watch?v=9FJHDkx1Gv8 -->
-<!-- https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ bkz kürtlerin beyni -->
-<!-- https://www.uludagsozluk.com/k/killa-hakan-ve-ekrem-imamo%C4%9Flunun-g%C3%BCld%C3%BCren-sohbeti/ bkz fayt club -->
-<!-- https://frank-lucas.uludagsozluk.com/ bkz frank lucasın atatürk düşmanı olması -->
-<!-- bkz fransızların bütün gün atatürkle uğraşma sebebi -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/&w=gd
-bkz atatükrün bokunu çıkartması -->
-<!-- bkz frank lucasın atatürke döşediği boru -->
-<!-- https://www.uludagsozluk.com/k/akkuyu-n%C3%BCkleer-santrali/&w=bg bkx işsizlerin rte daha çok araştırması -->
-<!-- https://www.uludagsozluk.com/k/serdar-ali-%C3%A7elikler/&w=bg bkz üç isimli erkek karizması -->
-<!-- bkz atilla yeşil ada bkz üç isimli erkek karizması-->
-<!-- https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ -->
-<!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
-<!-- bkz rte vs atatürk e benzeyen adam -->
-<!-- bkz dünya liderine muhalif olduğumuzu sanan aktroller -->
-<!-- bkz deep webte dünya liderini savunurken ölecek olan aktroller -->
-<!-- bkz dünya liderine 5000 metreden fazla yaklaşmayan aktroller -->
-<!-- bkz sütyen takmayan 45 plus erkek çekiciliği -->
-<!-- bkz jinekomastiden parayı burup amerikada yaşamak-->
-<!-- bkz https://www.uludagsozluk.com/e/42408519/ bkz memelerim sütyensiz nasıl diyen erkek-->
-<!-- bkz özcan denizin memelerine tokatlayıp bunlar niye baş kaldırıyo kız demek -->
-<!-- bkz hoşlaşılan erkeğin memelerini emerken bi yandan cips yiyip viski içmek -->
-<!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-3-t%C3%BCrk-ba%C5%9Fbu%C4%9Fu/&w=bg memesi büyük olan kazansın -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6zan-deniz-in-memeleri/&w=bg bkz ısırılacak memeler -->
-<!-- bkz cem yılmaz memeleri vs özcan deniz memeleri -->
-<!-- bkz mustafa kemal atatürk vs recep tayyip erdoğan -->
-<!-- bkz rte bir gece pencerenizi tıkltıp i see dead people dese naparsınız -->
-<!-- bkz atatürke benzeyen adam vs binaliye benzeyen adam -->
-<!-- bkz gece yatağın altında hüseyin nihal atsız çıkıp ne bakıyosun dese naparsınız -->
-<!-- https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkz atı olmadığı iddia edilen türkçü -->
-<!--https://eksisozluk.com/kilo-aldirmasa-7-24-bikmadan-yenilecek-gidalar--6245580?a=popular bkz 7/24 yemek yiyen 130 kiloluk ekşiciler -->
-<!-- bkz cips yerken atilla yeşil ada izlemek -->
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
