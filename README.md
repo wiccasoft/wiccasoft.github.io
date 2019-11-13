@@ -5,6 +5,7 @@
 <!-- bkz killa hakanın sagopayla barışması -->
 <!-- bkz imamaoğlunun trumpa el ense çekmesi-->
 <!-- bkz trumpın imamaoğlu inşaat la ortaklığı olduğu iddiası -->
+<!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ak-itleri-s%C4%B1ral%C4%B1-tam-liste/ bkz imamaoğlan başlıkları -->
 <!-- bkz killa hakan jilla imamoğlan arasındaki neşeli anlar kameralara böyle yansıdı-->
 <!-- bkz imamoğlu köfte imamaoğlu insşaat gibi firma kuran birine belediye teslim etmek -->
 <!-- bkz jamesearl cahs  in attığı videoların bilgisayarı kasması -->
