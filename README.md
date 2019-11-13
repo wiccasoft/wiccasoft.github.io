@@ -3,6 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
+<!-- bkz rte vs atatürk -->
 <!-- bkz dünya liderine muhalif olduğumuzu sanan aktroller -->
 <!-- bkz deep webte dünya liderini savunurken ölecek olan aktroller -->
 <!-- bkz dünya liderine 5000 metreden fazla yaklaşmayan aktroller -->
