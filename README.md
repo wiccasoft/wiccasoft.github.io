@@ -1,16 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- 
-bkz taksimin renkli siması cenkin atatürke benzeyene adamla fotoğrafı
-bkz atatürke benzeyen adamın kedi sevmemesi
-https://www.uludagsozluk.com/k/kedi-seven-erkek-%C4%B1l%C4%B1kt%C4%B1r/ bkz uzak durulması gereken erkekler
-bkz pattes soğan nası koydu ama tayyip erdoğan
-https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/&w=gd
-bkz https://www.uludagsozluk.com/k/joker-karakterini-oynayabilecek-t%C3%BCrk-akt%C3%B6r/&w=bg atatürke benzeyen adam
-bkz atatürke benzeyen adam vs binaliye benzeyen adam
-bkz yazacağım zaman makinesine isim önerileri
-https://www.uludagsozluk.com/e/42408065/ bkz 89 yılı album satışları muhteşeme bir detay
-https://www.uludagsozluk.com/e/42406343/ yav he he
--->
+
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
