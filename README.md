@@ -2,7 +2,7 @@
 <!-- bkz kız milleti değilmisiniz hep aynı diyen oğlanın kafasını kesip köpeklere fırlatmak -->
 <!-- bkz erkek milleti değilmisiniz hep aynı diyen kızın kafasını kesip köpeklere fırlatmak -->
 <!-- kızlarla oğlanların kafasını kesip köpeklere fırlatmak kafa dinlemek -->
-<!-- bkz ben üreyecem diye tutturan amip
+<!-- bkz ben üreyecem diye tutturan amipe dokunmamak
 <!-- bkz münevver karabulutun kafasını kesip yurtdışında kafa dinlemek -->
 <!-- https://www.uludagsozluk.com/e/42409605/ bkz cem garipoğlunun kübada yaşadağı iddiaları  -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
