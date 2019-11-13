@@ -2,6 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
+<!-- https://www.uludagsozluk.com/k/akkuyu-n%C3%BCkleer-santrali/&w=bg bkx işsizlerin rte daha çok araştırması -->
 <!-- https://www.uludagsozluk.com/k/serdar-ali-%C3%A7elikler/&w=bg bkz üç isimli erkek karizması -->
 <!-- bkz atilla yeşil ada bkz üç isimli erkek karizması-->
 <!-- https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ -->
