@@ -1,4 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- bkz erdoğanın g20 de trumpa attığı bakış -->
 <!-- bkz erdoğanın trumpa mektubunu iade etmek için gitmesi -->
 <!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
 <!-- https://www.uludagsozluk.com/e/42409605/ bkz güney amerikada kafa dinlemek -->
