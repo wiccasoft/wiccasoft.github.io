@@ -6,7 +6,7 @@
 <!-- bkz kobranejdet.com un e-ticaret işine girmesi
 <!-- bkz bir siteye mi ihtiyacınız var yok amk
 <!-- bkz akrepnalan.com un cübbeliahmet.com.tr e yönlendirmesi
-<!-- https://www.uludagsozluk.com/e/42410759/ bkz alahın ilmini almış bir çocuk
+<!-- https://www.uludagsozluk.com/e/42410759/ bkz alahın ilmini almış bir talebe
 <!-- bkz yılan serdar ilmiyle büyütülen çocukları akrepnalan.com a yöneltmek
 <!-- bkz hz sav efendi  hazretlwei ebuleheb fotosu önünde secdeyle badelenen mümin çocuğun ilmini açmak -->
 <!-- bkz şey hz cübbeli mahmudi efendi önünde secdeyle domalan çocuğa yavaşça akmak -->
