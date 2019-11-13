@@ -3,6 +3,7 @@
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
 <!-- bkz mazlum kobaninin önünde rte yi secde ettirmek -->
+<!-- bkz rte nin ancak trumpın önünde secde ederim demesi -->
 <!-- bkz mazlum kobaninin orduyu güneye sürme ihtimali -->
 <!-- tayyip fotosunun önünde çocuklara secde ettirmek -->
 <!-- atatürk fotosunun önünde çocuklara secde ettirmek -->
