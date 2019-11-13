@@ -2,6 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
+<!-- bkz dünya liderine 5000 metreden fazla yaklaşmayan aktroller -->
 <!-- bkz sütyen takmayan 45 plus erkek çekiciliği -->
 <!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
 <!-- bkz jinekomastiden parayı burup amerikada yaşamak-->
