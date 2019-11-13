@@ -1,5 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- 
+bkz atatürke benzeyen adam vs binaliye benzeyen adam
 bkz yazacağım zaman makinesine isim önerileri
 https://www.uludagsozluk.com/e/42408065/ bkz 89 yılı album satışları muhteşeme bir detay
 -->
