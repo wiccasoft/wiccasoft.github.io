@@ -1,5 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama banana -->
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- https://www.facebook.com/erkantanahaber/videos/erkan-tan-ver-mehteri/1010463862392162/ -->
