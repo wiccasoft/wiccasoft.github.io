@@ -2,6 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
+<!-- bkz sütyen takmayan 45 plus erkek iticiliği -->
 <!-- bkz https://www.uludagsozluk.com/e/42408519/ memelerim sallanıyo mu diyen erkek-->
 <!-- bkz özcan denizin memelerine asılırken odaya babanın girmesi -->
 <!-- bkz cem yılmaz ın memelerini emerken özcan denizin memelerini tokatlayıp viski yudumlamak -->
