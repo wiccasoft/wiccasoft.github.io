@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
+<!-- bkz mazlum kobanini yeni başlıyoruz ağlayacaksanız oynamayalım gülüşü -->
 <!-- bkz 13 kasım 2019 şanlıurfa askeri birlikte patlamayıo mazlum kobanini üstlenmesi -->
 <!-- bkz chpkklıların mazlum kobaniye terör örgütü dememesi -->
 <!-- bkz rte gidince mazlum kobaninin azmasına ses etmeyen chpkklılar -->
