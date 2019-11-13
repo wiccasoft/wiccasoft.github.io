@@ -1,4 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-giderse-biz-ne-yapaca%C4%9F%C4%B1z/&w=bg bkz sorunsal-->
 <!-- https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz taksimin renkli siması -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz taksimin renkli siması göksel kaya-->
 <!-- https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg bkz aponun renkli siması 
