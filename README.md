@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
+<!-- https://www.uludagsozluk.com/k/ilk-camilerin-bakt%C4%B1%C4%9F%C4%B1-y%C3%B6n/&w=bg bkz camiler kıbbemimiz -->
 <!-- bkz vatan sevgisinden sokakalara çıkıp betonlarına ölürüm vatanım diye bağırma isteği -->
 <!-- bkz kız arkadaşının her şeyine karışan erkek vs erkek arkdaşının her şeyine karışan kız -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Feyhine-s%C4%B1%C3%A7t%C4%B1klar%C4%B1m/&w=bg bkz badeci şeyh -->
