@@ -1,4 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- bkz bi gece imamoğlu camı tıklasa sana taksimini renkli simasını getirdim dese naparsınız -->
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-taklidi-yapan-erkekler/ bkz kadınsı lezbiyenim -->
 <!-- bi gece tayyip camınızı tıklatıp  i see dead people dese naparsınız sounsalı-->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-giderse-biz-ne-yapaca%C4%9F%C4%B1z/&w=bg bkz sorunsal-->
