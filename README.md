@@ -1,20 +1,4 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- bkz dünya lideri kim sorunsalı -->
-<!-- bkz trumpın ayağına giden dünya lideri -->
-<!-- bkz atatürke benzeyen adamın tayyip gidince ülkeyi saklaması-->
-<!-- bkz binaliye benzeyen adamın atatürke benzeyen adamdan kaçması -->
-<!-- bkz sevilen lider halkın çoşkun seliyle karşılaştı --> 
-<!-- bkz erdoğanın beyaz sarayın camına tıklayıp ben geldim bro demesi -->
-<!-- bkz gece cama hüseyin nihal atsızın tıklayıp ne bakıyon demesi -->
-<!-- https://www.uludagsozluk.com/e/42409605/ bkz güney amerikada kafa dinlemek -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
-<!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
-<!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
-<!-- https://www.facebook.com/erkantanahaber/videos/erkan-tan-ver-mehteri/1010463862392162/ -->
-<!-- https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya-n%C4%B1n-tutuklanmas%C4%B1-gereklili%C4%9Fi/ -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-reis-i%C3%A7in-washington-da-saray-yapt%C4%B1rs%C4%B1n/ -->
-<!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz eşi benzeri olmayan -->
-<!-- https://www.youtube.com/watch?v=S0ePJXPRW3Y ver mehteri-->
 
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
