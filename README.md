@@ -3,6 +3,7 @@
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
 <!-- atatürke benzeyen adamın atımı getirin lan demesi -->
+<!-- attürke benzeyen adamın akrep nalan dinleyip yılan serdar izlemesi -->
 <!-- bkz imamğlunun camilere kafir atatürk fotoğrafı astırması -->
 <!-- bkz namaz kılan zikr çeken ibb işçileri için direniyoruz kampanası -->
 <!-- bkz imamoğlunun namaz kılarken atatürke secde eden işçileri işten çıkarması -->
