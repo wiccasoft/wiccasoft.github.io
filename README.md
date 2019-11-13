@@ -4,6 +4,7 @@
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz killa hakanın sagopayla barışması -->
 <!-- bkz imamaoğlunun trumpa el ense çekmesi-->
+<!-- bkz imamaoğlunun merkele attığı bakış -->
 <!-- bkz trumpın imamaoğlu inşaat la ortaklığı olduğu iddiası -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-b%C3%BClent-ecevit-benzerli%C4%9Fi/ bkz zall hep oç der -->
 <!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ak-itleri-s%C4%B1ral%C4%B1-tam-liste/ bkz imamaoğlan başlıkları -->
