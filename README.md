@@ -1,5 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- 
+bkz taksimin renkli siması cenkin atatürke benzeyene adamla fotoğrafı
 bkz atatürke benzeyen adamın kedi sevmemesi
 https://www.uludagsozluk.com/k/kedi-seven-erkek-%C4%B1l%C4%B1kt%C4%B1r/ bkz uzak durulması gereken erkekler
 bkz pattes soğan nası koydu ama tayyip erdoğan
