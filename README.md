@@ -2,6 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
+<!-- bkz atatürke benzeyen adamın rükuda atatürke eğilmesi -->
 <!-- bkz atatürke benzeyen adamın aslan burcu adamı olduğu gerçeği -->
 <!-- bkz atatürke benzeyen adamın tayyip gidince ülkeyi saklaması-->
 <!-- bkz binaliye benzeyen adamın göt korkusundan atatürke benzeyen adamdan kaçması -->
