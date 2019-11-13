@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
 <!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
-<!-- https://www.uludagsozluk.com/k/tarikat%C3%A7%C4%B1lar%C4%B1n-vatan-sevgisi/ bkz nurcuların vatan sevgisi -->
+<!-- bkz vatan sevgisinden sokakalara çıkıp betonlarına ölürüm vatanım diye bağırma isteği -->
 <!-- bkz kız arkadaşının her şeyine karışan erkek vs erkek arkdaşının her şeyine karışan kız -->
 <!-- https://www.uludagsozluk.com/k/aslolan-fenerbah%C3%A7e-diyen-adama-objektif-ol-demek/&w=bg 
 <!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-hayali-jokey-olmak-olan-%C3%A7ocuk/ bkz a bu benim -->
