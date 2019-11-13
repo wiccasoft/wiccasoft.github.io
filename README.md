@@ -4,7 +4,7 @@
 <!-- bkz çocuklara secde ettirmek -->
 <!-- https://cubbeliahmethoca.com.tr/ bkz hay maşşalah -->
 <!-- bkz kobranejdet.com un e-ticaret işine girmesi
-<!-- bkz bir siteye mi ihtiyacınız var yok amk
+<!-- bkz bir siteye mi ihtiyacınız var yok amk https://www.youtube.com/watch?v=VqlUl9E3yUA
 <!-- bkz akrepnalan.com un cübbeliahmet.com.tr e yönlendirmesi
 <!-- https://www.uludagsozluk.com/e/42410759/ bkz alahın ilmini almış bir talebe
 <!-- bkz yılan serdar ilmiyle büyütülen çocukları akrepnalan.com a yöneltmek
