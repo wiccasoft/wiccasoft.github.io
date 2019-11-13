@@ -2,8 +2,9 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
+<!-- https://www.uludagsozluk.com/k/biji-atat%C3%BCrk-brez-atat%C3%BCrk-say%C4%B1n-atat%C3%BCrk/ -->
 <!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
-<!-- bkz rte vs atatürk -->
+<!-- bkz rte vs atatürk e benzeyen adam -->
 <!-- bkz dünya liderine muhalif olduğumuzu sanan aktroller -->
 <!-- bkz deep webte dünya liderini savunurken ölecek olan aktroller -->
 <!-- bkz dünya liderine 5000 metreden fazla yaklaşmayan aktroller -->
