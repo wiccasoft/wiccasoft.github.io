@@ -5,8 +5,9 @@
 <!-- bkz killa hakanın sagopayla barışması -->
 <!-- bkz jamesearl cahs  in attığı videoların bilgisayarı kasması -->
 <!-- bkz james hetfield ibrahim talıses düeti -->
-<!-- bkz jips yerken bi yandan özcan deniz memelerine asılmak -->,
+<!-- bkz jips yerken bi yandan özcan deniz memelerine asılmak -->
 <!-- bkz deep webte yabancı nickli aktrollerin zeka zeviyesi -->
+<!-- bkz imamaoğlunun merkelin önünde el pençe divan durması -->
 <!-- https://www.uludagsozluk.com/e/42408695/ bkz lise mezunnlarının neden böle olması -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz memeler baş kaldırmış -->
 <!-- bkz norm ender imamaoğlunun güldüren sohbeti  görüşmesi https://www.youtube.com/watch?v=9FJHDkx1Gv8 -->
