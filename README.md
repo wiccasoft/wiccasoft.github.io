@@ -2,7 +2,7 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
-<!-- bkz mustafa kemal atatürk vs  recep tayyip erdoğan -->
+<!-- bkz mustafa kemal atatürk vs recep tayyip erdoğan -->
 <!-- bkz rte bir gece pencerenizi tıkltıp i see dead people dese naparsınız -->
 <!-- bkz gece yatağın altında hüseyin nihal atsız çıkıp ne bakıyosn dese naparsınız -->
 <!-- https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg bkz atı olmadığı iddia edilen türkçü -->
