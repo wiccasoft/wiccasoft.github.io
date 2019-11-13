@@ -1,35 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
-<!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
-<!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri-->
-<!-- bkz rte gitmiş ülkeyi saklıyoruz beyler dönünce bulamasın -->
-<!-- bkz imamaoğlunun tayyipi kıskanması -->
-<!-- bkz imamaoğlunun camileri ahıra çevirmesi -->
-<!-- bkz radamel falcao garcia yı soyunma odasında fatih terime yaptığı hareket -->
-<!-- bkz üç isimli erkeklerin her alanda daha başarılı olduğu gerçeği -->
-<!-- https://www.uludagsozluk.com/k/binali-yi-23-nisan-da-ibb-koltu%C4%9Funa-oturtmak/ bkz zuahahahahahah -->
-<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz üç isimli erkek karizması -->
-<!-- bkz o kadar yorgun olmak ki otelden çıkmaya üşenmek -->
-<!-- bkz tunç soyerin zall hep bana oç derden yediği ayardan sonra sesinin çıkmaması -->
-<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F-performans%C4%B1-ile-ekrem-beyi-ge%C3%A7ti/ bkz mansur yavaş -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/ bkz ölü -->
-<!-- bkz kamalcıların ölüye taptıkları gerçeği-->
-<!-- bkz ellerim kırılsaydı da oy kullanmaya gitseydim açeydeim gollarımı böyle oy gullaneydim-->
-<!-- https://www.uludagsozluk.com/k/ilk-camilerin-bakt%C4%B1%C4%9F%C4%B1-y%C3%B6n/&w=bg bkz camiler kıbbemimiz -->
-<!-- bkz vatan sevgisinden sokakalara çıkıp betonlarına ölürüm vatanım diye bağırma isteği -->
-<!-- bkz kız arkadaşının her şeyine karışan erkek vs erkek arkdaşının her şeyine karışan kız -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Feyhine-s%C4%B1%C3%A7t%C4%B1klar%C4%B1m/&w=bg bkz badeci şeyh -->
-<!-- https://www.uludagsozluk.com/k/aslolan-fenerbah%C3%A7e-diyen-adama-objektif-ol-demek/&w=bg 
-<!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-hayali-jokey-olmak-olan-%C3%A7ocuk/ bkz a bu benim -->
-<!-- bkz istanbuldaki susmadan havlayan sokak köpeklerini çiftleştiriyoruz kampanyası -->
-<!-- https://www.facebook.com/erkantanahaber/videos/erkan-tan-ver-mehteri/1010463862392162/ -->
-<!-- https://www.uludagsozluk.com/k/g%C3%B6ksel-kaya-n%C4%B1n-tutuklanmas%C4%B1-gereklili%C4%9Fi/ -->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-giderse-biz-ne-yapaca%C4%9F%C4%B1z/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-reis-i%C3%A7in-washington-da-saray-yapt%C4%B1rs%C4%B1n/ -->
-<!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ bkz eşi benzeri olmayan -->
-<!-- https://www.youtube.com/watch?v=S0ePJXPRW3Y ver mehteri-->
-
-
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
