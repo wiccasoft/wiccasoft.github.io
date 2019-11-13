@@ -2,7 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
-<!-- https://cubbeliahmethoca.com.tr/ bkz hay maşşalah -->
+<!-- https://cubbeliahmethoca.com.tr/ bkz hay maşşalah https://www.youtube.com/watch?v=YKkwivCHh7Q-->
 <!-- bkz kobranejdet.com un e-ticaret işine girmesi
 <!-- bkz bir siteye mi ihtiyacınız var yok amk https://www.youtube.com/watch?v=VqlUl9E3yUA
 <!-- bkz akrepnalan.com un cübbeliahmet.com.tr e yönlendirmesi
