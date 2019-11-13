@@ -2,6 +2,8 @@
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!--https://eksisozluk.com/kilo-aldirmasa-7-24-bikmadan-yenilecek-gidalar--6245580?a=popular bkz 7/24 yemek yiyen 130 kiloluk ekşiciler -->
+<!-- bkz cips yerken atilla yeşil ada izlemek -->
+
 [![Image](smartdata/mercury-transit-wide.png)](  https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ )
 <!-- https://www.nationalgeographic.com/science/2019/11/last-transit-of-mercury-until-2032-how-to-watch-livestream/ -->
 
