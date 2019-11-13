@@ -3,6 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz sütyen takmayan 45 plus erkek çekiciliği -->
+<!-- bkz dünya liderinin 5000 korumayla gezme sebebi -->
 <!-- bkz jinekomastiden parayı burup amerikada yaşamak-->
 <!-- bkz https://www.uludagsozluk.com/e/42408519/ bkz memelerim sütyensiz nasıl diyen erkek-->
 <!-- bkz özcan denizin memelerine tokatlayıp bunlar niye baş kaldırıyo kız demek -->
