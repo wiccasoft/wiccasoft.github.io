@@ -2,7 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz çocuklara secde ettirmek -->
-<!-- bkz secde ettirilen çocuğun kalçalarını sevgiyle yoğurmak-->
+<!-- bkz secde ettirilen çocuğun kalçalarını islam sevgisiyle yoğurmak-->
 <!-- bkz çocuklara rte fotolarının önünde secde ettirmek-->
 <!-- https://www.uludagsozluk.com/e/42410664/ bkz https://www.youtube.com/watch?v=Md6eubraRUI
 <!-- bkz https://www.youtube.com/watch?v=d85d7bEq208 hay maşşallah -->
