@@ -1,4 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- bkz rüyadan korkuyla uyanıp recep tayyip erdoğan ın gittiğini görmek -->
 <!-- bkz bi gece imamoğlu camı tıklasa sana taksimini renkli simasını getirdim dese naparsınız -->
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1n-taklidi-yapan-erkekler/ bkz kadınsı lezbiyenim -->
 <!-- bi gece tayyip camınızı tıklatıp  i see dead people dese naparsınız sounsalı-->
