@@ -4,7 +4,7 @@
 <!-- bkz üç isimli erkek karizması -->
 <!-- bkz sütyen takmayan 45 plus erkek iticiliği -->
 <!-- bkz https://www.uludagsozluk.com/e/42408519/ bkz memelerim sütyensiz nasıl diyen erkek-->
-<!-- bkz özcan denizin memelerine tokatlayıp bunlar ne kız demek -->
+<!-- bkz özcan denizin memelerine tokatlayıp bunlar niye baş kaldırıyo kız demek -->
 <!-- bkz hoşlaşılan erkeğin memelerini emerken bi yandan cips yiyip viski içmek -->
 <!-- https://www.uludagsozluk.com/k/en-b%C3%BCy%C3%BCk-3-t%C3%BCrk-ba%C5%9Fbu%C4%9Fu/&w=bg memesi büyük olan kazansın -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6zan-deniz-in-memeleri/&w=bg bkz ısırılacak memeler -->
