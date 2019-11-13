@@ -2,7 +2,7 @@
 <!-- bkz dünya lideri kim sorunsalı -->
 <!-- bkz trumpın ayağına giden dünya lideri -->
 <!-- bkz atatürke benzeyen adamın karanlık işler çevirmesi -->
-<!-- atatürke benzeyen adamın atımı getirin lan demesi -->
+<!-- bkz atatürke benzeyen adamın atımı getirin lan demesi -->
 <!-- bkz atilla yeşil ada nın atatürke benzeyen adama cıvık müdürüm afedersin demesi -->
 <!-- attürke benzeyen adamın akrep nalan dinleyip yılan serdar izlemesi -->
 <!-- bkz imamğlunun camilere kafir atatürk fotoğrafı astırması -->
