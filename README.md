@@ -3,6 +3,7 @@
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 <!-- bkz üç isimli erkek karizması -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz ısırılacak memeler -->
+<!-- bkz cem yılmaz memeleri vs özcan deniz memeleri -->
 <!-- bkz mustafa kemal atatürk vs recep tayyip erdoğan -->
 <!-- bkz rte bir gece pencerenizi tıkltıp i see dead people dese naparsınız -->
 <!-- bkz atatürke benzeyen adam vs binaliye benzeyen adam -->
