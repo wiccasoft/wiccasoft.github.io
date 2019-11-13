@@ -1,6 +1,6 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- https://www.uludagsozluk.com/k/erkek-de%C4%9Fil-misiniz-hepiniz-ayn%C4%B1s%C4%B1n%C4%B1z-diyen-k%C4%B1z/&w=bg
-bkz kafa siken kız dırdırır 
+bkz kafa siken kız dırdırı
 <!-- bkz münevver karabulutun kafasını kesip yurtdışında kafa dinlemek -->
 <!-- https://www.uludagsozluk.com/e/42409605/ bkz cem garipoğlunun kübada yaşadağı iddiaları  -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
