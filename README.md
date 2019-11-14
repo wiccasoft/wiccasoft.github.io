@@ -6,8 +6,7 @@
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-kebap%C3%A7%C4%B1-ziyareti/ -->
 <!-- https://www.uludagsozluk.com/k/can-d%C3%BCndar-vs-hilal-kaplan/ bkz lol -->
 <!-- https://www.uludagsozluk.com/e/42359037/ bkz lol -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
-<!-- https://www.youtube.com/watch?v=MvDBQoLEdkw bkz binali looks a like -->
+
 
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
