@@ -1,8 +1,7 @@
-[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )
+<!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
-
 
 [![Image](smartdata/Bolivia’s-Lithium-Isn’t-The-New-Oil.png)]( https://foreignpolicy.com/2019/11/13/coup-morales-bolivia-lithium-isnt-new-oil/)
 
