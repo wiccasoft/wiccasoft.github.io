@@ -2,6 +2,7 @@
 
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
+<!-- https://www.youtube.com/watch?v=Xo7aPtVfzps fact or friction -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
@@ -13,7 +14,7 @@
 
 [![Image](smartdata/hardware.png)]( https://www.youtube.com/watch?v=5Hx80FJAuuw )
 
-[![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk )
+[![Image](smartdata/hideu.png)]( https://www.youtube.com/watch?v=5iIEvG97vjk)
 
 [![Image](smartdata/madame-X.png)]( https://www.youtube.com/watch?v=bB192WZHKRw )
 <!-- 
