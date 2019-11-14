@@ -1,6 +1,8 @@
 [![Image](smartdata/syria-oil.png)]( https://www.theguardian.com/us-news/live/2019/nov/13/trump-news-today-live-impeachment-hearings-bill-taylor-george-kent-ukraine-democrats-latest-updates )
 
 
+[![Image](smartdata/bolivia-coup.png)]( https://www.theguardian.com/world/2019/nov/12/evo-morales-arrives-mexico-bolivia-power-vacuum )
+
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 <!-- https://www.youtube.com/watch?v=Xo7aPtVfzps fact or friction -->
 
