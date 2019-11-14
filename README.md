@@ -1,4 +1,5 @@
 [![Image](smartdata/syria-oil.png)]( https://www.theguardian.com/us-news/live/2019/nov/13/trump-news-today-live-impeachment-hearings-bill-taylor-george-kent-ukraine-democrats-latest-updates )
+<!-- bkz hilal kaplan kim amk -->
 <!-- https://www.uludagsozluk.com/k/can-d%C3%BCndar-vs-hilal-kaplan/ bkz lol -->
 <!-- https://www.uludagsozluk.com/e/42359037/ bkz lol -->
 
