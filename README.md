@@ -1,15 +1,6 @@
 [![Image](smartdata/syria-oil.png)]( https://www.theguardian.com/us-news/live/2019/nov/13/trump-news-today-live-impeachment-hearings-bill-taylor-george-kent-ukraine-democrats-latest-updates )
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-<!-- bkz devlete tapanların yine göt olması -->
-<!-- https://www.uludagsozluk.com/k/s400-leri-abd-ye-verip-f35-almak/ bkz başını almak -->
-<!-- https://www.uludagsozluk.com/k/rabia-naz-vatan/&w=bg bkz rabia naz vatan a verdiğim ayar -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg fazla yalakalık sevmem -->
-<!-- https://www.uludagsozluk.com/e/42410941/ eywalla yiğidim ben de seni seviyorum yükselenim yay gayarım ananay -->
-<!-- bkz haber botu varken manuel entry girmekbkz zuahhahahahaha -->
-<!-- https://www.youtube.com/watch?v=6oUZJgKye_Y bkz zuhahahahahahhaha -->
-<!-- https://www.youtube.com/watch?v=Ah52g8WMa4M bir bakmışsınız ayar ı yine yemişsiniz -->
-<!-- https://www.uludagsozluk.com/e/42411463/ bkz alma hilali ver bilali https://www.youtube.com/watch?v=4f33HCJTey8 -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
