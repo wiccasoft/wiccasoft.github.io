@@ -1,6 +1,6 @@
 [![Image](smartdata/syria-oil.png)]( https://www.theguardian.com/us-news/live/2019/nov/13/trump-news-today-live-impeachment-hearings-bill-taylor-george-kent-ukraine-democrats-latest-updates )
 <!-- https://www.uludagsozluk.com/k/can-d%C3%BCndar-vs-hilal-kaplan/ lol -->
-<!-- https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/ lol -->
+<!-- https://www.uludagsozluk.com/e/42359037/ lol -->
 
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
