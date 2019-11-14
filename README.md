@@ -130,7 +130,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/model.png)]( https://www.youtube.com/watch?v=hFvQqTBFe48)
 
 [![Image](smartdata/release.png)]( https://twitter.com/CapaMagMagazine/status/1178203827784290304 )
-
+<!--
 [![Image](smartdata/reentry.png)]( https://www.youtube.com/watch?v=CllOkyFPi7w )
 [![Image](smartdata/atom.png)]( https://www.youtube.com/watch?v=AGZiLMGdCE0 )
 [![Image](smartdata/zulum1453basladi.png)]( https://www.youtube.com/watch?v=TllKdcjgJCI  )
@@ -140,6 +140,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](smartdata/chromium.png)]( https://www.youtube.com/watch?v=b4JrdWBYHsA )
 [![Image](smartdata/laplace.png)]( https://www.youtube.com/watch?v=cmEi4Dc0GT8 )
 [![Image](smartdata/world-climate-summit.png)]( https://www.youtube.com/watch?v=9vicRVi6KCw )
+-->
 <!-- https://www.theguardian.com/us-news/2019/sep/24/she-seems-very-happy-trump-appears-to-mock-greta-thunbergs-emotional-speech -->
 [![Image](smartdata/globalist.png)]( https://www.youtube.com/watch?v=i1u7by_Ndn0 )
 [![Image](math/pow.png)]( https://www.youtube.com/watch?v=CZMRgqhvs3o )
@@ -163,11 +164,12 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 
 [![Image](mainstream/dorian.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
+<!--
 [![Image](mainstream/screen781.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 [![Image](mainstream/Screen777.png)]( https://www.youtube.com/watch?v=6aoBJbufXf8 )
 [![Image](mainstream/screen715.png)]( https://www.youtube.com/watch?v=OlCeeUq4se0 )
 [![Image](mainstream/screen709.png)]( https://www.youtube.com/watch?v=otv6c6-YUr0 )
-
+-->
 
 <!-- https://www.theguardian.com/world/2019/sep/01/hurricane-dorian-bahamas-us-flooding-florida-south-north-carolina -->
 
