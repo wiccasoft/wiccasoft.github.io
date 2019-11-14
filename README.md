@@ -1,5 +1,5 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
-
+<!-- https://www.uludagsozluk.com/k/s400-leri-abd-ye-verip-f35-almak/ bkz başını almak -->
 <!-- https://www.uludagsozluk.com/k/rabia-naz-vatan/&w=bg bkz rabia naz vatan a verdiğim ayar -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg fazla yalakalık sevmem -->
 <!-- https://www.uludagsozluk.com/e/42410941/ eywalla yiğidim ben de seni seviyorum yükselenim yay gayarım ananay -->
