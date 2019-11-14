@@ -1,7 +1,7 @@
 [![Image](smartdata/products.png)]( https://www.theguardian.com/world/2019/nov/12/products-israeli-settlements-labelled-eu-court )
 
 <!-- https://www.youtube.com/watch?v=Ah52g8WMa4M bir bakmışsınız ayar ı yine yemişsiniz -->
-<!-- https://www.uludagsozluk.com/e/42411463/ bkz rabia'a verdiğim ayar https://www.youtube.com/watch?v=4f33HCJTey8 -->
+<!-- https://www.uludagsozluk.com/e/42411463/ bkz alma hilali ver bilali https://www.youtube.com/watch?v=4f33HCJTey8 -->
 
 [![Image](smartdata/spacetrash.png)]( https://www.youtube.com/watch?v=juQPE-v28es )
 
