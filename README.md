@@ -2,6 +2,9 @@
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
 
+
+[![Image](smartdata/Bolivia’s-Lithium-Isn’t-The-New-Oil.png)]( https://foreignpolicy.com/2019/11/13/coup-morales-bolivia-lithium-isnt-new-oil/)
+
 [![Image](smartdata/syria-oil.png)]( https://www.theguardian.com/us-news/live/2019/nov/13/trump-news-today-live-impeachment-hearings-bill-taylor-george-kent-ukraine-democrats-latest-updates )
 
 
