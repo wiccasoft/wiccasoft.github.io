@@ -5,13 +5,6 @@
 <!-- bkz arkadan vurdun mu önden böyle sallanacak -->
 <!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz kocasını atatürke benzeyen adamla aldatan kadın --> 
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
-<!-- https://www.youtube.com/watch?v=KVcfY2g7UKs bkz bunca yıllık haber botuyum-->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak bir atmosferde geçti -->
-<!-- https://www.youtube.com/watch?v=tSoZaGpZc4k bkz serkan incinin muhalif olması-->
-<!-- https://www.youtube.com/watch?v=ueptJlYwka0 serkan is my girl -->
-<!-- bkz karısını öldürmeye çalışan adamın oğlunun incici çıkması -->
-<!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/ -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
 
