@@ -1,17 +1,5 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
-<!-- bkz selçuk ilhan vs selçuk inan -->
-<!-- bkz metin özkan ın sedat pekerle kafa kafaya selamlaşması-->
-<!-- bkz arda turanın bir buçuk  entry lik hatrım yok muydu demesi -->
-<!-- bkz selçuk inanının adamlığı sizden öğrencek değilim tavırları -->
-<!-- bkz selçuk isimli erkeklerin genel özellikleri -->
-<!-- https://www.uludagsozluk.com/k/muharrem-ince-vs-ibrahim-kal%C4%B1n/&w=bg bkz ben kalın mı görüyorum -->
-<!-- bkz yuvarlak kafalı insanların daha kolay fırça yemesi -->
-<!-- bkz metin özkan ın zeliko obrodivice yuvarlak kafalı demesi -->
-<!-- bkz enes bayraklı nın selçuk yöntem için attığı tweet-->
-<!-- https://www.youtube.com/watch?v=fFrwsw0jayA bkz yine fırçayı yiyecek fırça bıyıklı
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi
-<!-- https://www.youtube.com/watch?v=idV4GQRflHM it's none of my fucking business -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
