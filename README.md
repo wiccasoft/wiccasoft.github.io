@@ -11,9 +11,6 @@
 <!-- https://www.youtube.com/watch?v=tSoZaGpZc4k bkz serkan incinin muhalif olması-->
 <!-- https://www.youtube.com/watch?v=ueptJlYwka0 serkan is my girl -->
 <!-- bkz karısını öldürmeye çalışan adamın oğlunun incici çıkması -->
-<!-- bkz gözleri ekrem imamoğlan diye gülen surat -->
-<!-- bkz ekrem imamoğlan anamın üstünde yakalansa orospuluk anamdadır -->
-<!-- bkz tayyip erdoğan anamın üstünde yakalansa orospuluk anamdadır -->
 <!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/ -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 
