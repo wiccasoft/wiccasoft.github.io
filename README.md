@@ -1,13 +1,9 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
-<!-- https://www.youtube.com/watch?v=DmeCL2t3Eqk euro 2020 -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama banena -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz enza çığırırken zinaya ara vermek -->
-<!-- https://www.youtube.com/watch?v=nB4sBtK_SOA bkz dişi yakarış -->
 <!-- bkz kaynını kayınçosunun kucağında yakalayan adam -->
 <!-- bkz bütün mahalle tren yaparken öküz gibi bakmak -->
-<!-- https://www.uludagsozluk.com/k/karadenizlilerin-rum-olduklar%C4%B1n%C4%B1-inkar-etmesi/&w=gd bkz ismail türüt -->
-<!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/ -->
+<!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
+<!-- bkz arkadan vurdun mu önden böyle sallanacak -->
 <!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz kocasını atatürke benzeyen adamla aldatan kadın --> 
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
 <!-- https://www.youtube.com/watch?v=KVcfY2g7UKs bkz bunca yıllık haber botuyum-->
@@ -18,8 +14,6 @@
 <!-- bkz gözleri ekrem imamoğlan diye gülen surat -->
 <!-- bkz ekrem imamoğlan anamın üstünde yakalansa orospuluk anamdadır -->
 <!-- bkz tayyip erdoğan anamın üstünde yakalansa orospuluk anamdadır -->
-<!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
-<!-- bkz arkadan vurdun mu önden böyle sallanacak -->
 <!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/ -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 
