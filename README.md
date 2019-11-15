@@ -1,6 +1,7 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz binali yıldırımın gümbür gümbür geldiği gerçeği -->
+<!-- bkz mehmet ali erbil e entry girerken selçuk yöntemin akla gelmesi -->
 <!-- bkz dişte kuzuz kuzuz geldim dinleyip dans ederken odaya babanın girmesi -->
 <!-- https://www.youtube.com/watch?v=DWrFAQBQSeY bkz berber çıraklığından nerelere gelmişim  heygidi hey -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz 2009dan beri ekşi çaylak onayını beklemek -->
