@@ -2,7 +2,7 @@
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 
 <!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
-
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
 
