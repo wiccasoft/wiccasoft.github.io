@@ -5,6 +5,7 @@
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak bir atmosferde geçti -->
 <!-- https://www.youtube.com/watch?v=tSoZaGpZc4k bkz serkan incinin muhalif olması-->
 <!-- https://www.youtube.com/watch?v=ueptJlYwka0 serkan is my girl -->
+<!-- bkz karısını öldürmeye çalışan adamın oğlunun incici çıkması -->
 <!-- bkz gözleri ekrem imamoğlan diye gülen surat -->
 <!-- bkz ekrem imamoğlan anamın üstünde yakalansa orospuluk anamdadır -->
 <!-- bkz tayyip erdoğan anamın üstünde yakalansa orospuluk anamdadır -->
