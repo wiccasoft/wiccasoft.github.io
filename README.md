@@ -4,7 +4,7 @@
 <!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
 <!-- bkz arkadan vurdun mu önden böyle sallanacak -->
 <!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz kocasını atatürke benzeyen adamla aldatan kadın --> 
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
+<!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz 2009 dan beri çaylak onayı beklemek -->
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
 
