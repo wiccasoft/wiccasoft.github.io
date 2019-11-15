@@ -3,6 +3,7 @@
 <!-- bkz kaynını kayınçosunun kucağında yakalayan adam -->
 <!-- bkz olmayan karısını aldatmayan adam -->
 <!-- bkz ismet inönüye benzeyen adam -->
+<!-- bkz ferdi tayfur la organ bencegayin arası neden açıldı sorunsalı -->
 <!-- bkz cezayla sagopayı barıştırıyoruz kampanyası sorunsalı -->
 <!-- bkz ismet inönüyle atatürk arası neden bozuldu sorunsalı -->
 <!-- bkz 7 çocuğunu 2 karısını geçindiremeyip siyanür içen adam -->
