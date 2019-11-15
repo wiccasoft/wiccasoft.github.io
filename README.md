@@ -1,7 +1,8 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz selçuk ilhan vs selçuk inan -->
-<!-- bkz metin özkan ın o ses türkiye elemelerinden ayrılması -->
+<!-- maarrem şarkısı söyleyen dayı -->
+<!-- bkz metin özkan ın o  sedat pekerle kafa kafaya selamlaşması-->
 <!-- bkz arda turanın bir buçuk  entry lik hatrım yok muydu demesi -->
 <!-- bkz selçuk inanının adamlığı sizden öğrencek değilim tavırları -->
 <!-- bkz selçuk isimli erkeklerin genel özellikleri -->
