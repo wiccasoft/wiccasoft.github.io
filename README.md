@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=DmeCL2t3Eqk euro 2020 -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama banena -->
 <!-- https://www.youtube.com/watch?v=nB4sBtK_SOA bkz dişi yakarış -->
+<!-- bkz bütün mahalle tren yaparken öküz gibi bakmak -->
 <!-- bkz 4. karısını dişi yakarışa çıkartan adam -->
 <!-- bkz 3. karısı suriyeli mülteci olan adam --<
 <!-- https://www.uludagsozluk.com/k/karadenizlilerin-rum-olduklar%C4%B1n%C4%B1-inkar-etmesi/&w=gd bkz ismail türüt -->
