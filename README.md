@@ -1,6 +1,7 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz soyunma odasına oyuncularını döven koç -->
+<!-- bkz atananan öğretmenin oh mayış da yatıyo neden intihar edem isyanı -->
 <!-- bkz atanamayan öğretmenin intihar ederim tehtidi -->
 <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bu aralar sesi çıkmıyo öldü mü acaba -->
 <!-- https://www.youtube.com/watch?v=crXRtDWWrSQ -->
