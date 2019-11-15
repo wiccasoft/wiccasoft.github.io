@@ -2,7 +2,7 @@
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- https://www.youtube.com/watch?v=DmeCL2t3Eqk euro 2020 -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama banena -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz enza çığırırken zinaya ara vermke -->
+<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz enza çığırırken zinaya ara vermek -->
 <!-- https://www.youtube.com/watch?v=nB4sBtK_SOA bkz dişi yakarış -->
 <!-- bkz kaynını kayınçosunun kucağında yakalayan adam -->
 <!-- bkz bütün mahalle tren yaparken öküz gibi bakmak -->
