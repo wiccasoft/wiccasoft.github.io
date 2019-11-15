@@ -1,15 +1,6 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- bkz kaynını kayınçosunun kucağında yakalayan adam -->
-<!-- bkz olmayan karısını aldatmayan adam -->
-<!-- bkz ismet inönüye benzeyen adam -->
-<!-- bkz ferdi tayfur la organ bencegayin arası neden açıldı sorunsalı -->
-<!-- bkz cezayla sagopayı barıştırıyoruz kampanyası sorunsalı -->
-<!-- bkz ismet inönüyle atatürk arası neden bozuldu sorunsalı -->
-<!-- bkz 7 çocuğunu 2 karısını geçindiremeyip siyanür içen adam -->
-<!-- bkz ali koçun karısının aidatını yatırması -->
-<!-- bkz macun kaplıcalının fener ol kampanyası -->
-<!-- bkk rüyada imamoğlunun karısı olduğunu görmek kusarak uyanmak -->
 <!-- bkz bütün mahalle tren yaparken öküz gibi bakmak -->
 <!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
 <!-- bkz arkadan vurdun mu önden böyle sallanacak -->
