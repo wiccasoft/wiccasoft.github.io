@@ -1,6 +1,7 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- https://www.youtube.com/watch?v=DmeCL2t3Eqk euro 2020 -->
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama banena -->
 <!-- https://www.youtube.com/watch?v=nB4sBtK_SOA bkz dişi yakarış -->
 <!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz kocasını atatürke benzeyen adamla aldatan kadın --> 
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
