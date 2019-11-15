@@ -1,11 +1,8 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
-<!-- bkz 15 temmuz karısınına gömlek ütületip mahellenin kızlarını götüren adam -->
-<!-- bkz evli çocuklu olup 11 yaş küçük kızların götüne bakan çapkın adam 
+
 <!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-%C3%B6ld%C3%BCrmeye-%C3%A7al%C4%B1%C5%9Fan-adam/&w=gd -->
-<!-- bkz itilmiş ile kakılmış-->
-<!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/ -->
+
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
 
