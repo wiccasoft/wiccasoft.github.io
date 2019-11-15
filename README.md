@@ -2,7 +2,7 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz it's none of my business -->
 <!-- https://www.youtube.com/watch?v=DWrFAQBQSeY bkz berber çıraklığından nererele-->
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz 2009dan beri ekşi çaylak onayını beklemek -->
+<!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz 2009 dan beri ekşi çaylak onayını beklemek -->
 <!-- bkz aslan akbeyin yine fırça yemesi https://www.youtube.com/watch?v=fFrwsw0jayA
 <!-- bkz binali yıldırımın gümbür gümbür geldiği gerçeği -->
 <!-- bkz ümit erdimin haluk levente salldaığı tweet -->
