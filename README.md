@@ -1,5 +1,6 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
+<!-- https://www.youtube.com/watch?v=fFrwsw0jayA bkz yine fırçayı yiyecek fırça bıyıklı
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibi
 <!-- https://www.youtube.com/watch?v=idV4GQRflHM it's none of my fucking business -->
 
