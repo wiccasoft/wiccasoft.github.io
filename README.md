@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=DmeCL2t3Eqk euro 2020 -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama banena -->
 <!-- https://www.youtube.com/watch?v=nB4sBtK_SOA bkz dişi yakarış -->
+<!-- bkz 4. karısını dişi yakarışa çıkaörtan adam -->
 <!-- https://www.uludagsozluk.com/k/karadenizlilerin-rum-olduklar%C4%B1n%C4%B1-inkar-etmesi/&w=gd bkz ismail türüt -->
 <!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/ -->
 <!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz kocasını atatürke benzeyen adamla aldatan kadın --> 
