@@ -2,6 +2,7 @@
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- bkz kaynını kayınçosunun kucağında yakalayan adam -->
 <!-- bkz olmayan karısını aldatmayan adam -->
+<!-- bkz ismet inönüye benzeyen adam -->
 <!-- bkz 7 çocuğunu 2 karısını geçindiremeyip siyanür içen adam -->
 <!-- bkz ali koçun karısının aidatını yatırması -->
 <!-- bkz macun kaplıcalının fener ol kampanyası -->
