@@ -2,6 +2,8 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=crXRtDWWrSQ -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6bekli-erkeklere-tavsiyeler/&w=bg bkz tamam -->
+<!-- bkz intihar eden öğretmenin dayak yemesi -->
+<!-- https://www.uludagsozluk.com/k/dayak-yiyen-%C3%B6%C4%9Fretmenin-intihar-etmesi/ -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
