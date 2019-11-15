@@ -1,5 +1,7 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
+<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-%C3%B6ld%C3%BCrmeye-%C3%A7al%C4%B1%C5%9Fan-adam/&w=gd -->
+<!-- bkz itilmiş ile kakılmış-->
 
 [![Image](smartdata/bolivia-test-new-leader.png)]( https://www.theguardian.com/world/video/2019/nov/13/anez-assumes-interim-presidency-as-morales-flees-video )
 
