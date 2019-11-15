@@ -2,6 +2,7 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz soyunma odasına oyuncularını döven koç -->
 <!-- bkz atanmayan memurlar hakkında khk bekleyen öğretmen -->
+<!-- bkz atanmayan polisin intihar etmesi -->
 <!-- bkz devlet bahçelinin mayış yatmış gülüşü -->
 <!-- bkz atanamayan öğretmenin intihar ederim tehtidi -->
 <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bu aralar sesi çıkmıyo öldü mü acaba -->
