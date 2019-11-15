@@ -1,6 +1,7 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz binali yıldırımın gümbür gümbür geldiği gerçeği -->
+<!-- ersun yanal gelince it gibi dağılan gsliler-->
 <!-- bkz sözcü gazetesinden link alıp cık cık cık ne hale geldi memelekte demek -->
 <!-- https://www.youtube.com/watch?v=crXRtDWWrSQ bkz obrodovici sakinleştirebilecek erkek -->
 <!-- bkz dayak yiyen öğretmennin intihar süsü verip çift maaş alması -->
