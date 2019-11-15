@@ -1,18 +1,5 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
-<!-- bkz aslan akbeyin yine fırça yemesi https://www.youtube.com/watch?v=fFrwsw0jayA
-<!-- https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz it's none of my business -->
-<!-- https://www.youtube.com/watch?v=DWrFAQBQSeY bkz berber çıraklığından nererele-->
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz 2009 dan beri ekşi çaylak onayını beklemek -->
-<!-- bkz binali yıldırımın gümbür gümbür geldiği gerçeği -->
-<!-- bkz ümit erdimin haluk levente salldaığı tweet -->
-<!-- bkz metin akpınar aslan bacanak filminini youtube ta bulmak -->
-<!-- bkz mehmet ali erbil e entry girerken selçuk yöntemin akla gelmesi -->
-<!-- bkz dişte kuzuz kuzuz geldim dinleyip dans ederken odaya babanın girmesi -->
-<!-- ersun yanal gelince it gibi dağılan gsliler-->
-<!-- bkz sözcü gazetesinden link alıp cık cık cık ne hale geldi memelekte demek -->
-<!-- https://www.youtube.com/watch?v=crXRtDWWrSQ bkz obrodovici sakinleştirebilecek erkek -->
-<!-- bkz dayak yiyen öğretmennin intihar süsü verip çift maaş alması -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
