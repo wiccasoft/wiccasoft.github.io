@@ -2,6 +2,7 @@
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- bkz kaynını kayınçosunun kucağında yakalayan adam -->
 <!-- bkz olmayan karısını aldatmayan adam -->
+<!-- bkk rüyada imamaoğlunun karısı olduğunu görmek kusarak uyanmak -->
 <!-- bkz bütün mahalle tren yaparken öküz gibi bakmak -->
 <!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
 <!-- bkz arkadan vurdun mu önden böyle sallanacak -->
