@@ -1,8 +1,9 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
-<!-- https://www.youtube.com/watch?v=KVcfY2g7UKs -->
-<!-- https://www.youtube.com/watch?v=tSoZaGpZc4k -->
+<!-- https://www.youtube.com/watch?v=KVcfY2g7UKs bkz bunca yıllık haber botuyum-->
+<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak bir atmosferde geçti -->
+<!-- https://www.youtube.com/watch?v=tSoZaGpZc4k bkz serkan incinin muhalif olması-->
 <!-- bkz gözleri ekrem imamoğlan diye gülen surat -->
 <!-- bkz ekrem imamoğlan anamın üstünde yakalansa orospuluk anamdadır -->
 <!-- bkz tayyip erdoğan anamın üstünde yakalansa orospuluk anamdadır -->
