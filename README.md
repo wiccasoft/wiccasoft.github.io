@@ -1,5 +1,6 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
+<!-- it's none of my business -->
 <!-- bkz aslan akbeyin yine fırça yemesi https://www.youtube.com/watch?v=fFrwsw0jayA
 <!-- bkz binali yıldırımın gümbür gümbür geldiği gerçeği -->
 <!-- bkz ümit erdimin haluk levente salldaığı tweet -->
