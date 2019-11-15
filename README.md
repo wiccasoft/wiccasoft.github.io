@@ -1,6 +1,6 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
-<!-- bkz soyunma odasına oyuncularını döven koç -->
+<!-- bkz soyunma odasında oyuncularını döven koç -->
 <!-- bkz zeljko obradovic i sakinleştirebilecek kadın
 <!-- https://www.youtube.com/watch?v=crXRtDWWrSQ bkz hem seksi hem sinirli -->
 <!-- https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz hem sinirli hem seksi olabilen adam
