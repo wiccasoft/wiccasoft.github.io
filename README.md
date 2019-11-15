@@ -2,6 +2,7 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-karde%C5%9Flerimize-sald%C4%B1ran-kemalist/&w=gd -->
 <!-- bkz benim başörtülü bacılarımın üstüne işemişler https://www.youtube.com/watch?v=yPqDUC2tDIo -->
+<!-- https://www.uludagsozluk.com/k/ismi-burak-olanlar%C4%B1n-genel-%C3%B6zellikleri/ gemicikleri olur -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
