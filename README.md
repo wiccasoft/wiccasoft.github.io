@@ -3,6 +3,7 @@
 <!-- bkz bütün mahalle tren yaparken öküz gibi bakmak -->
 <!-- http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175 -->
 <!-- bkz arkadan vurdun mu önden böyle sallanacak -->
+<!-- bkz sürat kargo nın yurt dışı kargoya arkadan gömmesi --<
 <!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz kocasını atatürke benzeyen adamla aldatan kadın --> 
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz 2009 dan beri çaylak onayı beklemek -->
 
