@@ -2,6 +2,7 @@
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
 <!-- https://www.youtube.com/watch?v=KVcfY2g7UKs -->
+<!-- https://www.youtube.com/watch?v=tSoZaGpZc4k -->
 <!-- bkz gözleri ekrem imamoğlan diye gülen surat -->
 <!-- bkz ekrem imamoğlan anamın üstünde yakalansa orospuluk anamdadır -->
 <!-- bkz tayyip erdoğan anamın üstünde yakalansa orospuluk anamdadır -->
