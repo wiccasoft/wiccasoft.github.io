@@ -1,6 +1,7 @@
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
 <!-- https://www.youtube.com/watch?v=nB4sBtK_SOA bkz dişi yakarış -->
+<!-- https://www.youtube.com/watch?v=_AI_1r8AR5A bkz karısını atatürke benzeyen adamla aldatan kadın --> 
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onay listesini beklemek -->
 <!-- https://www.youtube.com/watch?v=KVcfY2g7UKs bkz bunca yıllık haber botuyum-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak bir atmosferde geçti -->
