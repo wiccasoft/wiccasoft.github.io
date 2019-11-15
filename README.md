@@ -1,6 +1,7 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz selçuk ilhan vs selçuk ünal -->
+<!-- bkz selçuk isimli erkeklerin genel özellikleri -->
 <!-- https://www.uludagsozluk.com/k/muharrem-ince-vs-ibrahim-kal%C4%B1n/&w=bg bkz ben kalın mı görüyorum -->
 <!-- bkz yuvarlak kafalı insanların daha kolay fırça yemesi -->
 <!-- bkz metin özkan ın zeliko obrodivice yuvarlak kafalı demesi -->
