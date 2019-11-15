@@ -1,13 +1,14 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz soyunma odasına oyuncularını döven koç -->
+<!-- https://www.youtube.com/watch?v=crXRtDWWrSQ bkz hem seksi hem sinirli -->
 <!-- https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz hem sinirli hem seksi olabilen adam
 <!-- bkz atanmayan memurlar hakkında khk bekleyen öğretmen -->
 <!-- bkz atanmayan polisin intihar etmesi -->
 <!-- bkz devlet bahçelinin mayış yatmış gülüşü -->
 <!-- bkz atanamayan öğretmenin intihar ederim tehtidi -->
 <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bu aralar sesi çıkmıyo öldü mü acaba -->
-<!-- https://www.youtube.com/watch?v=crXRtDWWrSQ -->
+
 <!-- https://www.uludagsozluk.com/k/g%C3%B6bekli-erkeklere-tavsiyeler/&w=bg bkz tamam -->
 <!-- bkz intihar eden öğretmenin dayak yemesi -->
 <!-- https://www.uludagsozluk.com/k/dayak-yiyen-%C3%B6%C4%9Fretmenin-intihar-etmesi/ -->
