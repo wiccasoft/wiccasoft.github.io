@@ -2,7 +2,6 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- bkz soyunma odasına oyuncularını döven koç -->
 <!-- bkz devlet bahçelinin mayış yatmış gülüşü -->
-<!-- bkz atananan öğretmenin oh mayış da yatıyo neden intihar edem isyanı -->
 <!-- bkz atanamayan öğretmenin intihar ederim tehtidi -->
 <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bu aralar sesi çıkmıyo öldü mü acaba -->
 <!-- https://www.youtube.com/watch?v=crXRtDWWrSQ -->
