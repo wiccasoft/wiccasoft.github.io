@@ -1,7 +1,7 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!-- bkz zall bana hep oç derin ayara mnayğaı yaptığı oç ler -->
+<!-- bkz zall bana hep oç derin ayara manyağ yaptığı orospu çocukları -->
 <!-- https://www.youtube.com/watch?v=dCbxURq5Up4 bkz bruce lee izleye izleye mal olmak-->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan -->
