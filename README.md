@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
 <!-- https://www.youtube.com/watch?v=c9MccLlEVLw bkz türbanlı bacılarıma gıybet yapmışlar -->
-<!-- bkz türbanlı çomarların üstüne işemek https://www.youtube.com/watch?v=yPqDUC2tDIo-->
+<!-- https://www.youtube.com/watch?v=5V0f6yH6o9w bkz benim mümin kardaşımın kuran okumasına engel olmuşlar>
 <!-- bkz çomar tekmelerken önüne çıkan kamalcıya gelişine vurmak https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz çomarların götüne demir sokan suriyeliyle sokak kedilerini yiyen suriyeli satanaistin aynı kişi olması -->
 <!-- https://www.uludagsozluk.com/k/gezicilerin-g%C3%B6t%C3%BCne-11-milyon-fidan-dikmek/ -->
