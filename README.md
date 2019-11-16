@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan -->
 <!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/&w=gd -->
-<!-- bkz evli mutlu ve çocuklu bir bkz sen bir ben bir de 3 bebek-->
+<!-- bkz sen bir ben bir de en az 3 çocuk -->
 <!-- https://www.youtube.com/watch?v=5V0f6yH6o9w bkz türbanlı bacıların namaz kılarken üstüne işemişler>
 <!-- bkz çomar tekmelerken önüne çıkan kamalcıya gelişine vurmak https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz çomarların götüne demir sokan suriyeliyle sokak kedilerini yiyen suriyeli satanaistin aynı kişi olması -->
