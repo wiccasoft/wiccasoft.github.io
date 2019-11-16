@@ -1,16 +1,6 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!-- https://www.uludagsozluk.com/k/selin-ci%C4%9Ferci-nin-kad%C4%B1nlar-matinesine-kat%C4%B1lmas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/bir-kez-g%C3%B6rd%C3%BC%C4%9F%C3%BC-k%C4%B1za-a%C5%9F%C4%B1k-olan-erkekler/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz ataturk looks a like -->
-<!-- https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-mahzuni-%C5%9Ferif/&w=bg bkz primci-->
-<!-- bkz atatürke benzeyen adamın prim kasması -->
-<!-- bkz ahmet kaya vs göksel kaya-->
-<!-- bkz hilal kaplanın kaplancıları gaza getirmesi -->
-<!-- bkz bületn arıncın damadının yine prim kasması -->
-<!-- bkz imamaoğlunun oğlunun kasotan beslenmesi -->
-
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
