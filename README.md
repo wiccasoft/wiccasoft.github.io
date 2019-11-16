@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
 <!-- https://www.uludagsozluk.com/k/gezicilerin-g%C3%B6t%C3%BCne-11-milyon-fidan-dikmek/ -->
+<!-- https://www.uludagsozluk.com/k/metroda-m%C3%BCzik-yapan-orospu-%C3%A7ocuklar%C4%B1/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/haval%C4%B1-t%C3%BCfekle-sokak-kedilerini-vuran-suriyeli/&w=gd -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
