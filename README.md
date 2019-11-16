@@ -1,9 +1,6 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-karde%C5%9Flerimize-sald%C4%B1ran-kemalist/&w=gd -->
-<!-- bkz benim başörtülü bacılarımın üstüne işemişler https://www.youtube.com/watch?v=yPqDUC2tDIo -->
-<!-- https://www.uludagsozluk.com/k/en-%C3%A7ok-hatun-d%C3%BC%C5%9F%C3%BCren-meslekler/&w=gd bkz saydın mı lan -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
