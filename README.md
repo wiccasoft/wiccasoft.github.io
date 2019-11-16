@@ -2,7 +2,7 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
-<!-- bkz sokaka köpeği tekmelerken önüne çıkan kamalcıya gelişine vurmak -->
+<!-- bkz sokaka köpeği tekmelerken önüne çıkan kamalcıya gelişine vurmak https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz sokak köpeklerinin götüne demir sokan suriyeliyle sokak kedilerini yiyen satanaistin aynı adam olması -->
 <!-- https://www.uludagsozluk.com/k/gezicilerin-g%C3%B6t%C3%BCne-11-milyon-fidan-dikmek/ -->
 <!-- https://www.uludagsozluk.com/k/metroda-m%C3%BCzik-yapan-orospu-%C3%A7ocuklar%C4%B1/&w=bg -->
