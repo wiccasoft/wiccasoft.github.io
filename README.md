@@ -5,6 +5,7 @@
 <!-- https://www.uludagsozluk.com/k/bir-kez-g%C3%B6rd%C3%BC%C4%9F%C3%BC-k%C4%B1za-a%C5%9F%C4%B1k-olan-erkekler/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz ataturk looks a like -->
 <!-- https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-mahzuni-%C5%9Ferif/&w=bg bkz primci-->
+<!-- bkz atatürke benzeyen adamın prim kasması -->
 
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
