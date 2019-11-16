@@ -8,6 +8,7 @@
 <!-- bkz atatürke benzeyen adamın prim kasması -->
 <!-- bkz ahmet kaya vs göksel kaya-->
 <!-- bkz hilal kaplanın kaplancıları gaza getirmesi -->
+<!-- https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-k%C4%B1z%C4%B1-ve-damad%C4%B1-n%C4%B1n-kaza-ge%C3%A7irmesi/ -->
 
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
