@@ -9,6 +9,7 @@
 <!-- bkz ahmet kaya vs göksel kaya-->
 <!-- bkz hilal kaplanın kaplancıları gaza getirmesi -->
 <!-- bkz bületn arıncın damadının yine prim kasması -->
+<!-- bkz imamaoğlunun oğlunun kasotan beslenmesi -->
 
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
