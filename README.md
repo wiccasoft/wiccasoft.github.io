@@ -2,7 +2,7 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
-<!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imamhatipli merve ve şeytan -->
+<!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan -->
 <!-- https://www.youtube.com/watch?v=5V0f6yH6o9w bkz türbanlı bacıların namaz kılarken üstüne işemişler>
 <!-- bkz çomar tekmelerken önüne çıkan kamalcıya gelişine vurmak https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz çomarların götüne demir sokan suriyeliyle sokak kedilerini yiyen suriyeli satanaistin aynı kişi olması -->
