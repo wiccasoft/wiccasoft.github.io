@@ -3,18 +3,6 @@
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!-- bkz zall bana hep oç derin ayara manyağ yaptığı oç ler -->
-<!-- https://www.youtube.com/watch?v=dCbxURq5Up4 bkz bruce lee izleye izleye mal olmak-->
-<!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
-<!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan -->
-<!-- bkz sen bir ben bir de en az 3 çomar -->
-<!-- https://www.uludagsozluk.com/k/evli-%C3%A7ocuklu-olup-11-ya%C5%9F-k%C3%BC%C3%A7%C3%BCklere-sulanmak/&w=gd -->
-<!-- https://www.youtube.com/watch?v=5V0f6yH6o9w bkz türbanlı bacıların namaz kılarken üstüne işemişler>
-<!-- bkz çomar tekmelerken önüne çıkan kamalcıya gelişine vurmak https://www.youtube.com/watch?v=RDxn3OuKO8w -->
-<!-- bkz çomarların götüne demir sokan suriyeliyle sokak kedilerini yiyen suriyeli satanaistin aynı kişi olması -->
-<!-- https://www.uludagsozluk.com/k/gezicilerin-g%C3%B6t%C3%BCne-11-milyon-fidan-dikmek/ -->
-<!-- https://www.uludagsozluk.com/k/metroda-m%C3%BCzik-yapan-orospu-%C3%A7ocuklar%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/haval%C4%B1-t%C3%BCfekle-sokak-kedilerini-vuran-suriyeli/&w=gd -->
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
