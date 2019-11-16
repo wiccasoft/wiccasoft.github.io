@@ -6,6 +6,7 @@
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz ataturk looks a like -->
 <!-- https://www.uludagsozluk.com/k/a%C5%9F%C4%B1k-mahzuni-%C5%9Ferif/&w=bg bkz primci-->
 <!-- bkz atatürke benzeyen adamın prim kasması -->
+<!-- bkz ahmet kaya vs göksel kaya-->
 
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
