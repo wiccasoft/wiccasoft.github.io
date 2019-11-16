@@ -2,7 +2,6 @@
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like-->
-<!-- bkz sokaka kedilerinin yiyen suriyelinin havalı tüfek alması -->
 <!-- bkz sokaka kedisi tekmelerken önüne çıkan kamalcıya gelişine vurmak -->
 <!-- bkz sokak köpeklerinin götüne demir sokan suriyeliyle sokak kedilerini yiyen satanaistin aynı adam olması -->
 <!-- https://www.uludagsozluk.com/k/gezicilerin-g%C3%B6t%C3%BCne-11-milyon-fidan-dikmek/ -->
