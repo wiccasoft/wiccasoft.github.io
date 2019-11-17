@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz cem yılmazın cansu dereyle deniz akkayaya çektığı gerçeği-->
 <!-- bkz tolga çevik in cem yılmazın eniştesi olması -->
 <!-- bkz cem yılmazın tolga çeviki kayınçosu olması -->
 <!-- bkz müşfik kenterin yıldız kenter i orospuların elinden kurtarması -->
