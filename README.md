@@ -1,7 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz müşfik kenterin yıldız kenter i evlatlıktan reddetmesi -->
-<!-- bkz yıldız tilbenin süper mario denilen pezevengin elinde olaması -->
+<!-- bkz yıldız tilbenin hala süper mario denilen pezevengin elinde olaması -->
 <!-- https://www.uludagsozluk.com/k/adanal%C4%B1-brad-pitt/ -->
 <!-- bkz barış atay meclis konuşması full hd https://www.youtube.com/watch?v=G-wX-hM-AgI -->
 <!-- bkz yıldız kenterin eşref kentere küfretmesi -->
