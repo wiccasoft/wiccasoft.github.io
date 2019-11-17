@@ -3,6 +3,7 @@
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
 <!-- ulutuber vs ekşituber vs incituber-->
+<!-- bkz imamaoğlunun çomarlara iki koyup bir sayması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz tayyip koydukça hoplayan laikçiler meeeee meeeee meeeee-->
 <!-- bkz kafir kamal ölünce laik koyunların iyice melemesi -->
 <!-- bkz avrupanın hızla türbana girmesini çekemeyen kamalcılar -->
