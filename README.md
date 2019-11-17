@@ -1,5 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz gözleri türk önde türk ileri oyuna gelme türkiyem diyen surat-->
+<!-- https://www.uludagsozluk.com/k/hdp-lilerin-bayra%C4%9F%C4%B1m%C4%B1za-t%C3%BCk%C3%BCrmesi/ -->
+<!-- bkz oyuna gelme türkiyem tek millet tek bayrak tek devlet irir oalcaz dirir olacaz bri olacaz -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
