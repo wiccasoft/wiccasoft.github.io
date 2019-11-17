@@ -2,6 +2,7 @@
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
 <!-- bkz burak özçivit in zeybek dansı -->
+<!-- https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz oğuzların kayıboyu yiğido-->
 <!-- bkz tek millet tek devlet tek bayrak oyuna gelme türkiyem iri olacaz diri olacaz bir olacaz -->
 <!-- bkz yusuf güneyin burak özçivit yakışıklıysa ben neyim demesi -->
 <!-- bkz zeynep bastık vs eda baba  https://www.youtube.com/watch?v=QBB3ENbpYUM-->
