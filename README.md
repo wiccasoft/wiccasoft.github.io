@@ -1,5 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ 
+bkz polis kalkanına kafa atıp geri skeken oç kürt -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz kamalın köpeklerin vs rte nin aslanları -->
 <!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı ilokul mezunu kürt -->
