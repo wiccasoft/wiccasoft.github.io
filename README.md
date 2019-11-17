@@ -1,4 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
+<!-- https://www.uludagsozluk.com/k/skandinav-%C3%BClkelerinin-batt%C4%B1%C4%9F%C4%B1n%C4%B1-kimsenin-bilmemesi/ bkz oyuna gelme türkiyem -->
 <!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak https://www.youtube.com/watch?v=W4sSuK7iGkE-->
 <!-- bkz tangır budun doğan a benzeyen adamın binaliye benzeyen adamla buluşması -->
 <!-- bkz tangır budun doğan ın ayaklananların ayağını kırın emri -->
