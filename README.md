@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
+<!-- bkz göten yiyince meleyen kamalcılar -->
 <!-- bkz tayyip ölünce kamalcı koyunlar ne olacak sorunsalı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
 <!-- bkz türbanlılar koydukça deliren imamaoğlucular -->
