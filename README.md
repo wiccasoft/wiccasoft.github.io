@@ -2,6 +2,7 @@
 
 <!-- bkz ekrem imamaoglunun iran devrim muhafılzarını organize etmesi -->
 <!-- bkz ekrem imamaoglunun londra ziyaretinde tek dünya devletini görüşmesi --->
+<!-- bkz ekrem imamohlunun merkele attığı bakış-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019)
 
