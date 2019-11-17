@@ -1,6 +1,5 @@
 [![Image](smartdata/black-clad.png)]( https://www.youtube.com/watch?v=v9Ev_yC_cf0 )
 
-
 [![Image](smartdata/blockrain.png)]( https://www.youtube.com/watch?v=ueiBYxI6Eqg )
 
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
