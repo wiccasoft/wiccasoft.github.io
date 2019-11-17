@@ -1,7 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz gözleri türk önde türk ileri oyuna gelme türkiyem diyen surat-->
 <!-- bkz şeytanın oyununa gelme türkiyem  https://www.youtube.com/watch?v=H0760kGB-vw  -->
-<!-- bkz şeytanın partisi hdp oyununa gelme türkiyem tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
+<!-- bkz şeytanın partisi hdp oyununa gelme türkiyem tek millet tek bayrak tek devlet iri olacaz diri olacaz ak olacaz -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
