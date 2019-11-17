@@ -1,5 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-<!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
+<!-- bkz gözleri türk önde türk ileri  oyuna gelme türkiyem diyen surat-->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
 <!-- bkz burak özçivit in zeybek dansı -->
 <!-- https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz oğuzların kayıboyu yiğido-->
