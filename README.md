@@ -1,9 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz gözleri türk önde türk ileri oyuna gelme türkiyem diyen surat-->
-<!-- https://www.uludagsozluk.com/k/hdp-lilerin-bayra%C4%9F%C4%B1m%C4%B1za-t%C3%BCk%C3%BCrmesi/ -->
-<!-- https://www.uludagsozluk.com/k/islam-%C4%B1n-k%C3%B6pekleri-sa%C3%A7%C4%B1n%C4%B1z%C4%B1-a%C3%A7%C4%B1n/ -->
 <!-- bkz şeytanın oyununa gelme türkiyem  https://www.youtube.com/watch?v=H0760kGB-vw  -->
-<!-- bkz oyuna gelme türkiyem tek millet tek bayrak tek devlet irir oalcaz dirir olacaz bri olacaz -->
+<!-- bkz şeytanın partisi hdp oyununa gelme türkiyem tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
