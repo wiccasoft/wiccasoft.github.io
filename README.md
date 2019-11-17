@@ -7,11 +7,10 @@
 <!-- bkz tangır budun doğanın saray köpekliği yapan devlet bahçeliyle ortak yanları -->
 <!-- bkz tangır budun doğanın türkçülüğe karşı çıkanların ayağını kırın emri -->
 <!-- bkz tangır budun doğanın kafasına vurunca çıkan boş tıngırtı sesi -->
-<!-- bkz tangır budun doğanın yıldız tilbeyi ibrahim tatlıseksin elinden kurtarması -->
 <!-- bkz yıldız kenteri götüme pamuk sokmayın vasiyeti -->
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/ bkz mario bros -->
 <!-- bkz ibrahim tatlısksin yıldız tilbeyi pezevenklerin elinden kurtarıp ülkücü yapması -->
-<!-- bkzm üşfik kenterin yıldız kenteri  orospuluktan kurtarması-->
+<!-- bkz müşfik kenterin yıldız kenteri orospuluktan kurtarması-->
 <!-- bkz ahmet kayaya çatal fırlatırken 10. yıl marşı dinlemek -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=W4sSuK7iGkE )
