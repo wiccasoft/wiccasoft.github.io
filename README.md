@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
-<!-- bkz tengir budun doğanın kafasına vurunca  zeka seviyesinin 75 e sıçraması --->
+<!-- bkz tengür buun dogan vurunca geri sekmesi -->
+<!-- bkz tengir budun doğanın kafasına vurunca zeka seviyesinin 75 e sıçraması --->
 <!-- bkz nası koydu ama hdplilere tengir budun doğan -->
 <!-- bkz tengir budun doğanın hdpli vekillere kapak yapması -->
 <!-- bkz akpli tengir budunun göt etttiği hdp li vekil -->
