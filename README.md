@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz dvlet bahçelinin hdpli köpeklere verdiği efso ayar -->
+<!--https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/ -->
 <!-- https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay-meclis-konu%C5%9Fmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerli vs galtalı-->
