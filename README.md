@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- https://www.uludagsozluk.com/k/adanal%C4%B1-brad-pitt/ -->
 <!-- bkz barış atay meclis konuşması full hd https://www.youtube.com/watch?v=G-wX-hM-AgI -->
 <!-- bkz yıldız kenterin eşref kentere küfretmesi -->
 <!-- bkz yıldız kenteri orospunun elinde kurtaran kürt -->
