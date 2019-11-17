@@ -2,6 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz liselilerin yine aktrolleri kudurtması -->
+<!-- bkz götten yiyip yiyip ahlaktan bahseden kamalcılar -->
 <!-- bkz götten yiyince vıyk vıyk ses çıkaran başı açık patlak kamalcı -->
 <!-- bkz başı açık orospunun ahlaklı türbanlı kızı  vs ahlaklı türbanlının orospu başı açık kızı-->
 <!-- marreme pattes merale soğan nası koydu ama tayyip erdoğan--> 
