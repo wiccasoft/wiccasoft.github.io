@@ -3,6 +3,7 @@
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
 <!-- bkz liselilerin yine aktrolleri kudurtması -->
+<!-- bkz kamalcıların göt oldukça aktrollere sarması -->
 <!-- bkz götten yiyip yiyip ahlaktan bahseden kamalcılar -->
 <!-- bkz götten yiyince vıyk vıyk ses çıkaran başı açık patlak kamalcı -->
 <!-- bkz başı açık orospunun ahlaklı türbanlı kızı  vs ahlaklı türbanlının orospu başı açık kızı-->
