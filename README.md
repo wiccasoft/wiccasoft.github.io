@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
+<!-- bkz burak özçivit in zeybek dansı -->
 <!-- bkz zeynep bastık vs eda baba  https://www.youtube.com/watch?v=QBB3ENbpYUM-->
 <!-- bkz yurtta sulh cihanda sulh oyuna gelme türkiyem -->
 <!-- bkz fransayı kaç günde alırız sorunsalı sarı ceketlilere de ayak işleri yaptırırız -->
