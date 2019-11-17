@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz müşfik kenterin yıldız kenter i orospuların elinden zor kurtardım açıklaması -->
 <!-- bkz yıldız kenterin orospuların elinden kurtulunca islama yönelmesi -->
 <!-- bkz devlet bahçeli efsane konuşması -->
 <!-- bkz müşfik kenterin yıldız kenteri orospuların elinden kurtarması -->
