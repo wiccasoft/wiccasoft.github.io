@@ -1,4 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
+<!-- bkz osmanlının gümbür gümbür geldii gerçeği -->
 <!-- bkz devlet bahçeli efsane 41 yapar meclis konuşması -->
 <!-- bkz beton ekreme çarpıp seken tangır budun doğana gelişine vurmak ve goooooooooooooooool-->
 <!-- bkz dilan derenin türkiyenin en güzel kadını olması -->
