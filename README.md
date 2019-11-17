@@ -4,6 +4,7 @@
 <!-- bkz şeytanın partisinin oyununa gelme türkiyem tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
 <!-- bkz fatih terimin efsane soyunma odası konuşması -->
 <!-- bkz alper potuk un caner erkin le ozan tufana yavşak demesi -->
+<!-- bkz arda turan ın bir buçuk maçlık hatrım yokmuydu demesi -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
