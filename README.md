@@ -1,8 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak -->
 
-<!-- https://www.uludagsozluk.com/k/avrupa-daki-hayat%C4%B1n-istanbul-dan-farkl%C4%B1-olmamas%C4%B1/ -->
-<!-- bkz 38 ülke de yaşadım 15 i avrupa ülkesi... bkz atma recep -->
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019)
 
 [![Image](smartdata/black-clad.png)]( https://www.youtube.com/watch?v=v9Ev_yC_cf0 )
