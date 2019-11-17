@@ -1,4 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
+<!-- bkz beton ekreme çarpıp seken tangır budun doğana gelişine vurmak ve goooooooooooooooool-->
 <!-- bkz dilan derenin türkiyenin en güzel kadını olması -->
 <!-- bkz tolga çevikin cemyılamzın eniştesi olması -->
 <!-- bkz cem yılmazın siktiği karıların taş gibi olması --> 
