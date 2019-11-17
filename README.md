@@ -3,7 +3,6 @@
 <!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
 <!-- bkz burak özçivit in zeybek dansı -->
 <!-- bkz jokerin makyaj malzemelerini fentiden alması -->
-<!-- ah ulan rıza şarkısı dinlerken akla ahmet kayanın gelmesi -->
 <!-- bkz jokerin annesinin jokerin makyaj malzemelerini alıp tokmakçısıyla kaçması -->
 <!-- https://www.uludagsozluk.com/k/ahmet-kaya-vs-y%C4%B1lmaz-g%C3%BCney/ bkz iki pğkklı kürt -->
 <!-- https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz oğuzların kayıboyu yiğido-->
