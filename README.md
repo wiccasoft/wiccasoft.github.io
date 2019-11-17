@@ -1,7 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
-<!-- bkz başı açık orospunun ahlaklı türbanlı kızı -->
+<!-- bkz başı açık orospunun ahlaklı türbanlı kızı  vs ahlaklı türbanlının orospu başı açık kızı-->
 <!-- marreme pattes merale soğan nası koydu ama tayyip erdoğan--> 
 <!-- bkz osmanlı bomba gibi gelince göt olan kılışdar -->
 <!-- bkz yaşanmışlıkların umrumda değil diyen gavat -->
