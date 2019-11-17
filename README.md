@@ -1,6 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak -->
-<!-- bkz devlet baçelinni efso meclis konuşması -->
+<!-- bkz devlet baçelinin efso meclis konuşması hüloğğğğğğğğğ -->
 <!-- bkz taksimin renkli siması cenk in türkçü olduğu gerçeği -->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeğini unutup kafama sıkar giderim dinlemek-->
 <!-- bkz  serdar ortaçın ahmet kayaya verdiği efso ayar -->
