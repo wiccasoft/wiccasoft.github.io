@@ -8,6 +8,7 @@
 <!-- bkz turp gibiyim turup şurup gibiyim şurup-->
 <!-- bkz yıldız tibetin çin de yakılmayı vasiyet etmesi -->
 <!-- bkz en öpülesi yerim götüm diyen erkek -->
+<!-- bkz sevilen sanatçının ölürsem götüme tıkamayın açıklması -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
