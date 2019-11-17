@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz yıldız kenterin eşref kentere küfretmesi -->
 <!-- bkz tangır budun doğanın yarın ayara manyağı yapacağı kürtler -->
 <!-- bkz yıldız kenteri orospunun elinde kurtaran kürt -->
 <!-- bkz devlet bahçelinin hdpli köpeklere verdiği efso ayar -->
