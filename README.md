@@ -1,25 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-<!-- bkz gözleri türk önde türk ileri  oyuna gelme türkiyem diyen surat-->
-<!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
-<!-- bkz burak özçivit in zeybek dansı -->
-<!-- bkz jokerin makyaj malzemelerini fentiden alması -->
-<!-- bkz jokerin annesinin jokerin makyaj malzemelerini alıp tokmakçısıyla kaçması -->
-<!-- https://www.uludagsozluk.com/k/ahmet-kaya-vs-y%C4%B1lmaz-g%C3%BCney/ bkz iki pğkklı kürt -->
-<!-- https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz oğuzların kayıboyu yiğido-->
-<!-- bkz tek millet tek devlet tek bayrak oyuna gelme türkiyem iri olacaz diri olacaz bir olacaz -->
-<!-- bkz yusuf güneyin burak özçivit yakışıklıysa ben neyim demesi -->
-<!-- bkz zeynep bastık vs eda baba  https://www.youtube.com/watch?v=QBB3ENbpYUM-->
-<!-- bkz yurtta sulh cihanda sulh oyuna gelme türkiyem -->
-<!-- bkz fransayı kaç günde alırız sorunsalı sarı ceketlilere de ayak işleri yaptırırız -->
-<!-- bkz ne mutlu türküm diyene -->
-<!-- bkz türklerin refah seviyesi en yüksek ülke olması -->
-<!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olması -->
-<!-- bkz yıldız tilbenin götüme pamuk sokmayın vasiyeti -->
-<!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
-<!-- bkz beton ekreme çarpıp seken topa gelişine vurmak -->
-<!-- https://www.uludagsozluk.com/k/2002-den-sonra-t%C3%BCrkiye-nin-%C3%B6nlenemeyen-y%C3%BCkseli%C5%9Fi/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/iskandinav-%C3%BClkelerinin-i%C3%A7ler-ac%C4%B1s%C4%B1-hali/&w=gd -->
-<!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/&sp=2 bkz mario bros -->
+<!-- bkz gözleri türk önde türk ileri oyuna gelme türkiyem diyen surat-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
