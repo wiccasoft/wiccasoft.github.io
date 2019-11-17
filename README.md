@@ -2,7 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz götten vurdurup namustan bahseden laikçiler -->
 <!-- bkz türban rahibe kıyafetidir yani türbanlılar allahın kutsal bakireleridir -->
-<!-- bkz götten vurdurmuşlukarın benim için önemli değil diyen gavat kamalcı-->
+<!-- bkz götten vurdurmuşluklarım benim için önemli değil diyen kamalcı-->
 <!-- bkz nazi almanyasını özleyen mesut özil -->
 <!-- bkz laikçilerin iyice kudurması -->
 <!-- başı açık olup namustan bahsetmek -->
