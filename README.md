@@ -4,7 +4,7 @@
 <!-- bkz serdar ortaçın ahmet kayaya verdiği efso ayar -->
 <!-- bk kürdistan yollarında fonda ahmet kaya -->
 <!-- bkz ahmet kayanın pkklı olduğunu kabullenmeyip kafama sıkar giderim demek -->
-<!-- bkz devlet bahçelinin meclis kürsüsünden  kürtlere verdiği efso ayar -->
+<!-- bkz devlet bahçelinin meclis kürsüsünden kürtlere verdiği efso ayar -->
 <!-- bkz atilla ilhan çolpan ilhana kaymışmıdır sorunsalı -->
 <!-- bkz müşfik kenter yıldız kentere kaymışmıdır sorunsalı -->
 <!-- bkz bütün mahalle seks yaparken viski içip izlemek -->
