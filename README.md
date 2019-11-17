@@ -1,25 +1,4 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-<!-- bkz osmanlının gümbür gümbür geldii gerçeği -->
-<!-- bkz beçirvan barzaninin meclis konuşması -->
-<!-- bkz serdar ortaçın ahmet kayaya verdiği efso ayar -->
-<!-- bk kürdistan yollarında fonda ahmet kaya -->
-<!-- bkz ahmet kayanın pkklı olduğunu kabullenmeyip kafama sıkar giderim demek -->
-<!-- bkz devlet bahçelinin meclis kürsüsünden kürtlere verdiği efso ayar -->
-<!-- bkz atilla ilhan çolpan ilhana kaymışmıdır sorunsalı -->
-<!-- bkz müşfik kenter yıldız kentere kaymışmıdır sorunsalı -->
-<!-- bkz bütün mahalle seks yaparken viski içip izlemek -->
-<!-- bkz iibrahim tatlıseks hülya avşara kaç posta kaymıştır sorunsalı -->
-<!-- bkz şaka maka cem yılmazın çakmadığı karının kalmaması sorunsalı -->
-<!-- bkz cem yılmaz seranay sarıkaya ya kaç posta çakmıştır sorunsalı -->
-<!-- bkz cansu dereye cem yılamz kaç posta çaktı sorunsalı-->
-<!-- bkz türkiyenin süper güç olmasını çekemeyen dış mihraklar -->
-<!-- bkz devlet bahçeli efsane 41 yapar meclis konuşması -->
-<!-- bkz beton ekreme çarpıp seken tangır budun doğana gelişine vurmak ve goooooooooooooooool-->
-<!-- bkz dilan derenin türkiyenin en güzel kadını olması -->
-<!-- bkz tolga çevikin cemyılamzın eniştesi olması -->
-<!-- bkz cem yılmazın siktiği karıların taş gibi olması --> 
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benana -->
-<!-- bkz müşfik kenterin yıldız kenteri keraneden kurtarması-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019)
 
