@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz osmanlının gümbür gümbür geldii gerçeği -->
+<!-- bkz cem yılamz seranay sarıkaya ya kaç posta çakmıştır sorunsalı -->
 <!-- bkz cansu dereye cem yılamz kaç posta çaktı sorunsalı-->
 <!-- bkz türkiyenin süper güç olmasını çekemeyen dış mihraklar -->
 <!-- bkz devlet bahçeli efsane 41 yapar meclis konuşması -->
