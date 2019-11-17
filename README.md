@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz bütün mahalle tren yaparken akla gelen sorular -->
 <!-- bkz cem yılmaz serenay sarıkaya ya çaktım mı acaba sorunsalı -->
 <!-- bkz dilan derenin cansu dereyi kıskanması -->
 <!-- bkz şaka maka cem yılmazın sikmediği kadın kalmaması -->
