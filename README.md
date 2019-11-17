@@ -3,6 +3,7 @@
 <!-- bkz atatürk benzeyen adamın binaliye benzeyen adamla buluşması -->
 <!-- bkz tangır budun doğan ın ayaklananların ayağını kırın emri -->
 <!-- bkz tangır budun doğanın rte nin sağ kolu olması --->
+<!-- bkz tangır budun doğanın saray köpekliği yapan devlet bahçeliyle ortak yanları -->
 <!-- bkz tangır budun doğanın türkçülüğe karşı çıkanların ayağını kırın emri -->
 <!-- bkz tangır budun doğanın kafasına vurunca çıkan boş tıngırtı sesi -->
 <!-- bkz tangır budun doğanın yıldız tilbeyi ibrahim tatlıseksin elinden kurtarması -->
