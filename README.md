@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz ypg nin yetiştirdiği rabia nın intikam yeminin etmesi -->
 <!-- bkz geri seken vekilin tangır budun doğan dan özür dilemesi ülkücü yemini etmesi -->
 <!-- bkz polis kalkanın kafa atıp seken vekilin bi dadah kafa atmayacam abi demesi -->
 <!-- bkz türk polisine zıplayan vekilin malatya pötürgeli olması -->
