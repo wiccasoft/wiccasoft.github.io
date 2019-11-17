@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz osmanlının gümbür gümbür geldii gerçeği -->
+<!-- bkz şaka maka cem yılmazın çakmadığı karının kalmaması sorunsalı -->
 <!-- bkz cem yılamz seranay sarıkaya ya kaç posta çakmıştır sorunsalı -->
 <!-- bkz cansu dereye cem yılamz kaç posta çaktı sorunsalı-->
 <!-- bkz türkiyenin süper güç olmasını çekemeyen dış mihraklar -->
