@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
+<!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
 <!-- bkz yurtta sulh cihanda sulh oyuna gelme türkiyem -->
 <!-- bkz fransayı kaç günde alırız sorunsalı sarı ceketlilere de ayak işleri yaptırırız -->
 <!-- bkz ne mutlu türküm diyene -->
