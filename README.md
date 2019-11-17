@@ -2,7 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz kamalın köpeklerin vs rte nin aslanları -->
-<!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı kürt -->
+<!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı ilokul mezunu kürt -->
 <!-- bkz kamalın köpeklerinin polise küfr etmesi -->
 <!-- bkz polis anasını sikince göt olan kamalcı -->
 <!-- bkz polise atarlanıp götten yiyince yere seken oç kürt -->
