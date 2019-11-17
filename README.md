@@ -1,7 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
-<!-- bkz dilan dereni cansu dereyi kıskanması -->
-<!-- bkz şakak maka cem yılmazın sikmediği kadın kalmaması bkz cansu dere jülide ateş deni< akkaya -->
+<!-- bkz dilan derenin cansu dereyi kıskanması -->
+<!-- bkz şaka maka cem yılmazın sikmediği kadın kalmaması -->
 <!-- bkz cem yılmazın jülide ateş cansu dere deniz akkayaya çektığı gerçeği-->
 <!-- bkz tolga çevik in cem yılmazın eniştesi olması -->
 <!-- bkz cem yılmazın tolga çeviki kayınçosu olması -->
