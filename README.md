@@ -2,7 +2,6 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz barış atay meclis konuşması full hd https://www.youtube.com/watch?v=G-wX-hM-AgI -->
 <!-- bkz yıldız kenterin eşref kentere küfretmesi -->
-<!-- bkz tangır budun doğanın yarın ayara manyağı yapacağı kürtler -->
 <!-- bkz yıldız kenteri orospunun elinde kurtaran kürt -->
 <!-- bkz devlet bahçelinin hdpli köpeklere verdiği efso ayar -->
 <!-- https://www.uludagsozluk.com/k/ku%C5%9F-beyinli-yazarlar/ bkz tangır budun doğan -->
