@@ -6,7 +6,7 @@
 <!-- bkz ne mutlu türküm diyene -->
 <!-- bkz türklerin refah seviyesi en yüksek ülke olması -->
 <!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olması -->
-<!-- bkz yıldız kenterin götüme pamuk sokmayın vasiyeti -->
+<!-- bkz yıldız tilbenin götüme pamuk sokmayın vasiyeti -->
 <!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
 <!-- bkz beton ekreme çarpıp seken topa gelişine vurmak -->
 <!-- https://www.uludagsozluk.com/k/2002-den-sonra-t%C3%BCrkiye-nin-%C3%B6nlenemeyen-y%C3%BCkseli%C5%9Fi/&w=bg -->
