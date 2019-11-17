@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.uludagsozluk.com/k/2002-den-sonra-t%C3%BCrkiye-nin-%C3%B6nlenemeyen-y%C3%BCkseli%C5%9Fi/&w=bg -->
+<!-- https://www.uludagsozluk.com/k/iskandinav-%C3%BClkelerinin-i%C3%A7ler-ac%C4%B1s%C4%B1-hali/&w=gd -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
