@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz nazi almanyasını özleyen mesut özil -->
 <!-- bkz laikçilerin iyice kudurması -->
 <!-- başı açık olup namustan bahsetmek -->
 <!-- bkz başı açık kadınların her saniye günah işlemesi -->
