@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz tengir budun doğanın hdpli vekillere kapak yapması -->
 <!-- bkz akpli tengir budunun göt etttiği hdp li vekil -->
 <!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ 
 bkz polis kalkanına kafa atıp geri skeken oç kürt -->
