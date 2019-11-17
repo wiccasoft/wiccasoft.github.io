@@ -3,6 +3,7 @@
 <!-- bkz atatürk benzeyen adamın binaliye benzeyen adamla buluşması -->
 <!-- bkz tangır budun doğan ın ayaklananların ayağını kırın emri -->
 <!-- bkz tangır budun doğanın rte nin sağ kolu olması --->
+<!-- bkz tangır budun doğanın kafasına vurunca çıkan boş tıngırtı sesi -->
 <!-- bkz yıldız kenteri götüme pamuk sokmayın vasiyeti -->
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/ bkz mario bros -->
 <!-- bkz ibrahim tatlısksin yıldız tilbeyi pezevenklerin elinden kurtarıp ülkücü yapması -->
