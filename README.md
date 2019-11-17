@@ -1,6 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak https://www.youtube.com/watch?v=W4sSuK7iGkE-->
-<!-- bkz atatürk benzeyen adamın binaliye benzeyen adamla buluşması -->
+<!-- bkz tangır budun doğan a benzeyen adamın binaliye benzeyen adamla buluşması -->
 <!-- bkz tangır budun doğan ın ayaklananların ayağını kırın emri -->
 <!-- bkz tangır budun doğanın rte yi kötüleyen gazateye verdiği efso ayar -->
 <!-- bkz tangır budun doğanın rte nin sağ kolu olması --->
