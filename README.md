@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
+<!-- bkz yıldız kenterin götüme pamuk sokmayın vasiyeti -->
 <!-- https://www.uludagsozluk.com/k/ne-mutlu-t%C3%BCrk%C3%BCm-diyene/&w=bg bkz devlet bahçelinin efso konuşması -->
 <!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
 <!-- bkz beton ekreme çarpıp seken topa gelişine vurmak -->
