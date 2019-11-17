@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 
 <!-- bkz ekrem imamaoglunun iran devrim muhafılzarını organize etmesi -->
+<!-- bkz ekrem imamaoglunun londra ziyaretinde tek dünya devletini görüşmesi --->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019)
 
