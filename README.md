@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz osmanlının gümbür gümbür geldii gerçeği -->
 <!-- bkz beçirvan barzaninin meclis konuşması -->
+<!-- bkz devlet bahçelinin meclis kürsüsünden  kürtlere verdiği efso ayar -->
 <!-- bkz atilla ilhan çolpan ilhana kaymışmıdır sorunsalı -->
 <!-- bkz müşfik kenter yıldız kentere kaymışmıdır sorunsalı -->
 <!-- bkz bütün mahalle seks yaparken viski içip izlemek -->
