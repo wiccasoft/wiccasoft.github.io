@@ -5,9 +5,7 @@
 <!-- bkz ne mutlu türküm diyene -->
 <!-- bkz türklerin refah seviyesi en yüksek ülke olması -->
 <!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olması -->
-<!-- https://www.uludagsozluk.com/k/yurtta-sulh-cihanda-sulh-devri-bitmi%C5%9Ftir/ -->
 <!-- bkz yıldız kenterin götüme pamuk sokmayın vasiyeti -->
-<!-- https://www.uludagsozluk.com/k/ne-mutlu-t%C3%BCrk%C3%BCm-diyene/&w=bg bkz devlet bahçelinin efso konuşması -->
 <!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
 <!-- bkz beton ekreme çarpıp seken topa gelişine vurmak -->
 <!-- https://www.uludagsozluk.com/k/2002-den-sonra-t%C3%BCrkiye-nin-%C3%B6nlenemeyen-y%C3%BCkseli%C5%9Fi/&w=bg -->
