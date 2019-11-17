@@ -2,6 +2,7 @@
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
 <!-- bkz yurtta sulh cihanda sulh-->
 <!-- bkz ne mutlu türküm diyene -->
+<!-- bkz türklerin refah seviyesi en yüksek ülke olması -->
 <!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olması -->
 <!-- https://www.uludagsozluk.com/k/yurtta-sulh-cihanda-sulh-devri-bitmi%C5%9Ftir/ -->
 <!-- bkz yıldız kenterin götüme pamuk sokmayın vasiyeti -->
