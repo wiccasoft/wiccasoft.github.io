@@ -1,21 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-<!-- https://www.uludagsozluk.com/k/skandinav-%C3%BClkelerinin-batt%C4%B1%C4%9F%C4%B1n%C4%B1-kimsenin-bilmemesi/ -->
-<!-- bkz oyuna gelme türkiyem durmak yok yola devam yola yabdılar zaten  -->
-<!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olma yolunda ilerlemesi  -->
-<!-- https://www.youtube.com/watch?v=mtKWWcg60qE bkz süper güçün süper lideri -->
-<!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak https://www.youtube.com/watch?v=W4sSuK7iGkE-->
-<!-- bkz tangır budun doğan a benzeyen adamın binaliye benzeyen adamla buluşması -->
-<!-- bkz tangır budun doğan ın ayaklananların ayağını kırın emri -->
-<!-- bkz tangır budun doğanın rte yi kötüleyen gazateye verdiği efso ayar -->
-<!-- bkz tangır budun doğanın rte nin sağ kolu olması --->
-<!-- bkz tangır budun doğanın saray köpekliği yapan devlet bahçeliyle ortak yanları -->
-<!-- bkz tangır budun doğanın türkçülüğe karşı çıkanların ayağını kırın emri -->
-<!-- bkz tangır budun doğanın kafasına vurunca çıkan boş tıngırtı sesi -->
-<!-- bkz yıldız kenteri götüme pamuk sokmayın vasiyeti -->
-<!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/ bkz mario bros -->
-<!-- bkz ibrahim tatlısksin yıldız tilbeyi pezevenklerin elinden kurtarıp ülkücü yapması -->
-<!-- bkz müşfik kenterin yıldız kenteri orospuluktan kurtarması-->
-<!-- bkz ahmet kayaya çatal fırlatırken 10. yıl marşı dinlemek -->
+
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=W4sSuK7iGkE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 -->
