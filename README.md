@@ -3,7 +3,7 @@
 <!-- bkz şeytanın oyununa gelme türkiyem  https://www.youtube.com/watch?v=H0760kGB-vw  -->
 <!-- bkz şeytanın partisinin oyununa gelme türkiyem tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
 <!-- bkz fatih terimin efsane soyunma odası konuşması -->
-<!-- bkz alper potuk un zeybek dansı -->
+<!-- bkz alper potuk un caner erkin le ozan tufana yavşak demesi -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
