@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
+<!-- bkz götten vurdurup namustan bahseden laikçiler -->
 <!-- bkz türban rahibe kıyafetidir yani türbanlılar allahın kutsal bakireleridir -->
 <!-- bkz götten vurdurmuşlukarın benim için öznemli değil diyen gavat -->
 <!-- bkz nazi almanyasını özleyen mesut özil -->
