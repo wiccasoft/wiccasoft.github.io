@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak https://www.youtube.com/watch?v=W4sSuK7iGkE-->
+<!-- https://www.youtube.com/watch?v=XzS5ZiFZnxY döve döve sikilimelik polisler -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=W4sSuK7iGkE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 -->
