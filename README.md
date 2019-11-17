@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz osmanlının gümbür gümbür geldii gerçeği -->
+<!-- bkz bütün mahalle seks yaparken viski içip izlemek -->
 <!-- bkz iibrahim tatlıseks hülya avşara kaç posta kaymıştır sorunsalı -->
 <!-- bkz şaka maka cem yılmazın çakmadığı karının kalmaması sorunsalı -->
 <!-- bkz cem yılmaz seranay sarıkaya ya kaç posta çakmıştır sorunsalı -->
