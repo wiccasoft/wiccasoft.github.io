@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz beton ekreme çarpıp yerde seken topa gelişine vurmak -->
+<!-- bkz taksimin renkli siması cenk in iç savaş çıkarsa sınırları kapayalım teklifi -->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeğini unutup kafama sıkar giderim dinlemek-->
 <!-- bkz  serdar ortaçın ahmet kayaya verdiği efso ayar -->
 <!-- bkz serdar ortaçın gerçek oğuz türkü olması -->
