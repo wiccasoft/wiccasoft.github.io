@@ -2,6 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
+<!-- kamalın köpekleri vs islamın aslanları -->
 <!-- bkz liselilerin yine aktrolleri kudurtması -->
 <!-- bkz kamalcıların göt oldukça aktrollere sarması -->
 <!-- bkz götten yiyip yiyip ahlaktan bahseden kamalcılar -->
