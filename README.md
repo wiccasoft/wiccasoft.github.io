@@ -5,7 +5,7 @@
 <!-- bkz fatih terimin efsane soyunma odası konuşması -->
 <!-- bkz alper potuk un caner erkin le ozan tufana yavşak demesi -->
 <!-- bkz arda turan ın bir buçuk maçlık hatrım yokmuydu demesi -->
-<!-- bkz şenol güneşin efsane soyunma odası taktiği -->
+<!-- bkz turp gibiyim turup şurup gibiyim şurup-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 )
 
