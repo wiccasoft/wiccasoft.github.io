@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
-<!-- bkz parasını muhafaza etmeyen kesimin tuhaflıkları -->
+<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz başaramayacaksınız -->
+<!--bkz ezan okunurken
 <!-- bkz tengür budun dogan ın kafasına vurunca boş tıngırtılar gelmesi -->
 <!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ 
 bkz polis kalkanına kafa atıp geri skeken oç kürt -->
