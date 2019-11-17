@@ -2,7 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
-<!-- bkz avrupanın hızla türbana girmesini çekemyen kamalcılar -->
+<!-- bkz avrupanın hızla türbana girmesini çekemeyen kamalcılar -->
 <!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı kürt -->
 <!-- bkz kamalın türbansız köpekleri vs islamın türbanlı aslanları -->
 <!-- bkz liselilerin yine aktrolleri kudurtması -->
