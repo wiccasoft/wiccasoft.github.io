@@ -2,7 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
-<!-- bkz tayyip koydukça hoplayan laikçiler -->
+<!-- bkz tayyip koydukça hoplayan laikçiler meeeee meeeee meeeee-->
 <!-- bkz kafir kamal ölünce laik koyunların iyice melemesi -->
 <!-- bkz avrupanın hızla türbana girmesini çekemeyen kamalcılar -->
 <!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı kürt -->
