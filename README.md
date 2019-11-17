@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
+<!-- bkz kamalın köpeklerin vs rte nin aslanları -->
 <!-- bkz kamalın köpeklerinin polise küfr etmesi -->
 <!-- bkz polis anasını sikince göt olan kamalcı -->
 <!-- bkz polise atarlanıp götten yiyince yere seken oç kürt -->
