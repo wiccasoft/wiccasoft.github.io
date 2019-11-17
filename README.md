@@ -1,93 +1,16 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-<!-- bkz nazi almanyasını özleyen killa hakan -->
-<!-- bkz türkiye dışında bütün dünyanın ayaklanması; demek ki süper bir ülke -->
-<!-- bkz bütün mahalle tren yaparken akla gelen sorular -->
-<!-- müşfik kenter yıldız kentere çakmış mıdır acaba sorunsalı -->
-<!-- bkz cem yılmaz serenay sarıkaya ya çaktım mı acaba sorunsalı -->
-<!-- bkz dilan derenin cansu dereyi kıskanması -->
-<!-- bkz şaka maka cem yılmazın sikmediği kadın kalmaması -->
-<!-- bkz cem yılmazın jülide ateş cansu dere deniz akkayaya çektığı gerçeği-->
-<!-- bkz tolga çevik in cem yılmazın eniştesi olması -->
-<!-- bkz cem yılmazın tolga çeviki kayınçosu olması -->
-<!-- bkz müşfik kenterin yıldız kenter i orospuların elinden kurtarması -->
-<!-- https://www.uludagsozluk.com/k/kemalizm-d%C3%BC%C5%9Fman%C4%B1-ter%C3%B6ristler/&w=bg bkz rte ve ben -->
-<!-- bkz beton ekrem e çarpınca yerde seken tangır budun doğana gelişine vurmak ve goooooooooooool-->
-<!-- bkz barış atay devlet bahçeli ye çarpıp sekip yerde zıplaması -->
-<!-- bkz müşfik kenterin yıldız kenter i orospuların elinden zor kurtardım açıklaması -->
-<!-- bkz yıldız kenterin orospuların elinden kurtulunca islama yönelmesi -->
-<!-- bkz devlet bahçeli efsane konuşması -->
-<!-- bkz müşfik kenterin yıldız kenteri orospuların elinden kurtarması -->
-<!-- bkz ypg nin yetiştirdiği rabia nın intikam yeminin etmesi -->
-<!-- tayyip budun doğanın ayar manyaa yaptığı vekil -->
-<!-- bkz geri seken vekilin tangır budun doğan dan özür dilemesi ülkücü yemini etmesi -->
-<!-- bkz polis kalkanın kafa atıp seken vekilin bi dadah kafa atmayacam abi demesi -->
-<!-- bkz türk polisine zıplayan vekilin malatya pötürgeli olması -->
-<!-- bkz polis kalkanına kafa atan vekilin geri tepmesi zıplayıp 10 point alması-->
-<!-- bkz müşfik kenterin yıldız kenter i evlatlıktan reddetmesi -->
-<!-- bkz yıldız tilbenin hala süper mario denilen pezevengin elinde olaması -->
-<!-- https://www.uludagsozluk.com/k/adanal%C4%B1-brad-pitt/ -->
-<!-- bkz barış atay meclis konuşması full hd https://www.youtube.com/watch?v=G-wX-hM-AgI -->
-<!-- bkz yıldız kenterin eşref kentere küfretmesi -->
-<!-- bkz yıldız kenteri orospunun elinde kurtaran kürt -->
-<!-- bkz devlet bahçelinin hdpli köpeklere verdiği efso ayar -->
-<!-- https://www.uludagsozluk.com/k/ku%C5%9F-beyinli-yazarlar/ bkz tangır budun doğan -->
-<!--https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/ -->
-<!-- https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay-meclis-konu%C5%9Fmas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
-<!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerli vs galtalı-->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz başaramayacaksınız -->
-<!-- bkz tengür budun dogan ın kafasına vurunca boş tıngırtılar gelmesi -->
-<!-- bkz kamalın köpekleri vs rte nin aslanları -->
-<!-- bkz tayyip ölünce kamalcı koyunlar ne olacak sorunsalı -->
-<!-- bkz bu kaçıncı cahillik bay kamal -->
-<!-- bkz türbanlılar koydukça deliren imamaoğlucular -->
-<!-- bkz ulucu ak gönüllü aslan vs ulucu kamalcı götveren -->
-<!-- bkz imamaoğlunun çomarlara iki koyup bir sayması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
-<!-- bkz tayyip koydukça hoplayan laikçiler meeeee meeeee meeeee-->
-<!-- bkz kafir kamal ölünce laik koyunların iyice melemesi -->
-<!-- bkz avrupanın hızla türbana girmesini çekemeyen kamalcılar -->
-<!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı kürt -->
-<!-- bkz kamalın türbansız köpekleri vs islamın türbanlı aslanları -->
-<!-- bkz liselilerin yine aktrolleri kudurtması -->
-<!-- bkz kamalcıların göt oldukça aktrollere sarması -->
-<!-- bkz götten yiyip yiyip ahlaktan bahseden kamalcılar -->
-<!-- bkz götten yiyince vıyk vıyk ses çıkaran başı açık patlak kamalcı -->
-<!-- bkz başı açık orospunun ahlaklı türbanlı kızı  vs ahlaklı türbanlının orospu başı açık kızı-->
-<!-- marreme pattes merale soğan nası koydu ama tayyip erdoğan--> 
-<!-- bkz osmanlı bomba gibi gelince göt olan kılışdar -->
-<!-- bkz yaşanmışlıkların umrumda değil diyen gavat -->
-<!-- bkz tek dünya devleti yönetmek kolay mı sanıyosun diyen dünya lideri -->
-<!-- bkz devlet bahceliyi yönetmek kolay mı sanıyosun diyen rte -->
-<!-- bkz götten vurdurup namustan bahseden laikçiler -->
-<!-- bkz türban rahibe kıyafetidir yani türbanlılar allahın kutsal bakireleridir -->
-<!-- bkz götten vurdurmuşluklarım benim için önemli değil diyen kamalcı-->
-<!-- bkz nazi almanyasını özleyen mesut özil -->
-<!-- bkz laikçilerin iyice kudurması -->
-<!-- başı açık olup namustan bahsetmek -->
-<!-- bkz başı açık kadınların her saniye günah işlemesi -->
-<!-- https://www.uludagsozluk.com/k/bu-ka%C3%A7%C4%B1nc%C4%B1-cahillik-recep/ -->
-<!-- bkz osmanlının gümbür gümbür geldiği gerçeği -->
-<!-- bkz menzil tarikatının süleymancılarla nurcu bacıları yanına alması -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrban-rahibe-k%C4%B1yafetidir/&w=bg bkz aktrolleri çoldırtan gerçek-->
-<!-- https://www.uludagsozluk.com/k/nazi-almanyas%C4%B1n%C4%B1-%C3%B6zleyen-alman/ bkz killa hakan -->
-<!-- https://www.uludagsozluk.com/k/rte-nefesinizi-10-dakika-tutun-dese-olabilecekler/ -->
-<!-- rte anamın üstünde yakalansa orospuluk anamddadır -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz başaramayacaksınız -->
-<!-- bkz imam hatipli merve ve şeytan https://www.youtube.com/watch?v=H0760kGB-vw -->
-<!-- bkz benim başörtülü bacılarımın üstüne işemişler https://www.youtube.com/watch?v=yPqDUC2tDIo -->
-<!-- bkz mısıroğlunun imamoğlunu savunması -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019)
 
 [![Image](smartdata/black-clad.png)]( https://www.youtube.com/watch?v=v9Ev_yC_cf0 )
-<!-- https://www.youtube.com/watch?v=Qkuu0Lwb5EM -->
+
 [![Image](smartdata/blockrain.png)]( https://www.youtube.com/watch?v=ueiBYxI6Eqg )
 
 [![Image](smartdata/finalflightofosiris.png)]( https://www.youtube.com/watch?v=N3ZtokEn05s )
 
 [![Image](smartdata/ama-v-ts.png)]( https://www.theguardian.com/music/2019/nov/15/taylor-swift-says-shes-being-banned-from-singing-her-old-hits-at-amas )
 <!-- https://twitter.com/MarkDice/status/1195137236599050240  -->
-<!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
+
 
 <!--[![Image](smartdata/rechargeable.png)]( https://www.youtube.com/watch?v=fyaI4-5849w )-->
 [![Image](smartdata/silver-diamond.png)](https://www.youtube.com/watch?v=3OYJVrjdUrI )
