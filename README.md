@@ -1,6 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
-<!-- bkz yurtta sulh cihanda sulh-->
+<!-- bkz yurtta sulh cihanda sulh oyuna gelme türkiyem-->
 <!-- bkz ne mutlu türküm diyene -->
 <!-- bkz türklerin refah seviyesi en yüksek ülke olması -->
 <!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olması -->
