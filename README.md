@@ -1,6 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
-<!-- bkz yıldız kenteri n yıldız tilbeyi orospu ben yaptım demesi -->
 <!-- bkz barış atay devlet bahçeli ye çarpıp sekip yerde zıplaması -->
 <!-- bkz müşfik kenterin yıldız kenter i orospuların elinden zor kurtardım açıklaması -->
 <!-- bkz yıldız kenterin orospuların elinden kurtulunca islama yönelmesi -->
