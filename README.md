@@ -3,6 +3,7 @@
 <!-- bkz atatürk benzeyen adamın binaliye benzeyen adamla buluşması -->
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/ bkz mario bros -->
 <!-- yıldı tilbeyi mariao bros un kaçırması -->
+<!-- bkz ibrahim tatlısesein yıldız tilbeyi pezevenklerin elinden kurtarıp ülkücü yapması -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=W4sSuK7iGkE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019 -->
