@@ -2,6 +2,7 @@
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- bkz osmanlı bomba gibi gelince göt olan kılışdar -->
 <!-- bkz yaşanmışlıkların umrumda değil diyen gavat -->
+<!-- bkz başı açık gavatın başı aşık gavat kızı -->
 <!-- bkz tek dünya devleti yönetmek kolay mı sanıyosun diyen dünya lideri -->
 <!-- bkz devlet bahceliyi yönetmek kolay mı sanıyosun diyen rte -->
 <!-- bkz götten vurdurup namustan bahseden laikçiler -->
