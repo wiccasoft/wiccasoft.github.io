@@ -1,8 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz gözleri türk önde türk ileri oyuna gelme türkiyem diyen surat-->
-<!-- bkz hdplilerin türklerin bayrak ına tükürüp sıçması -->
 <!-- bkz şeytanın oyununa gelme türkiyem  https://www.youtube.com/watch?v=H0760kGB-vw  -->
-<!-- bkz şeytanın partisinin oyununa gelme türkiyem tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
+<!-- bkz tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
 <!-- bkz fatih terimin efsane soyunma odası konuşması -->
 <!-- bkz alper potuk un caner erkin le ozan tufana yavşak demesi -->
 <!-- bkz arda turan ın bir buçuk maçlık hatrım yokmuydu demesi -->
