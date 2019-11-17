@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.uludagsozluk.com/k/bu-ka%C3%A7%C4%B1nc%C4%B1-cahillik-recep/ -->
+<!-- islamın köepkleri başınızı açın götünüzü sikecez -->
 <!-- bkz imam hatipli merve ve şeytan https://www.youtube.com/watch?v=H0760kGB-vw -->
 <!-- bkz benim başörtülü bacılarımın üstüne işemişler https://www.youtube.com/watch?v=yPqDUC2tDIo -->
 <!-- bkz mısıroğlunun imamoğlunu savunması -->
