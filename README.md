@@ -1,18 +1,8 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bkz başaramayacaksınız -->
-<!--bkz ezan okunurken
 <!-- bkz tengür budun dogan ın kafasına vurunca boş tıngırtılar gelmesi -->
-<!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ 
-bkz polis kalkanına kafa atıp geri skeken oç kürt -->
-<!-- bkz mısıroğlu döşedikçe göt olan kamalcı -->
-<!-- bkz kamalın köpeklerin vs rte nin aslanları -->
-<!-- bkz ibrahim tatlısesin pezevenklerin elinden kurtardığı ilokul mezunu kürt -->
-<!-- bkz kamalın köpeklerinin polise küfr etmesi -->
-<!-- bkz polis anasını sikince göt olan kamalcı -->
-<!-- bkz polise atarlanıp götten yiyince yere seken oç kürt -->
-<!-- bkz polis kalkanına kafa atıp yerde tekmelenen oç kürt kamalcı -->
-<!-- bkz göten yedikçe meleyen kamalcılar -->
+<!-- bkz kamalın köpekleri vs rte nin aslanları -->
 <!-- bkz tayyip ölünce kamalcı koyunlar ne olacak sorunsalı -->
 <!-- bkz bu kaçıncı cahillik bay kamal -->
 <!-- bkz türbanlılar koydukça deliren imamaoğlucular -->
