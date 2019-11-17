@@ -1,5 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-
+<!-- https://www.uludagsozluk.com/k/islam-%C4%B1n-k%C3%B6pekleri-sa%C3%A7%C4%B1n%C4%B1z%C4%B1-a%C3%A7%C4%B1n/ -->
+<!-- bkz başörtülü bacılarımın saçlarına işediler -->
 <!-- bkz ekrem imamaoglunun iran devrim muhafılzarını organize etmesi -->
 <!-- bkz ekrem imamaoglunun londra ziyaretinde tek dünya devletini görüşmesi --->
 <!-- bkz ekrem imamohlunun merkele attığı bakış-->
