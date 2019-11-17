@@ -2,6 +2,7 @@
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
 <!-- bkz burak özçivit in zeybek dansı -->
+<!-- bkz yusuf güneyin burak özçivit yakışıklıysa ben neyim demesi -->
 <!-- bkz zeynep bastık vs eda baba  https://www.youtube.com/watch?v=QBB3ENbpYUM-->
 <!-- bkz yurtta sulh cihanda sulh oyuna gelme türkiyem -->
 <!-- bkz fransayı kaç günde alırız sorunsalı sarı ceketlilere de ayak işleri yaptırırız -->
