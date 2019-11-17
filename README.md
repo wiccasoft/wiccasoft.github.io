@@ -1,6 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz nazi almanyasını özleyen killa hakan -->
-<!-- https://www.uludagsozluk.com/k/kemalizm-d%C3%BC%C5%9Fman%C4%B1-ter%C3%B6ristler/&w=bg bkz rte-->
+<!-- https://www.uludagsozluk.com/k/kemalizm-d%C3%BC%C5%9Fman%C4%B1-ter%C3%B6ristler/&w=bg bkz rte ve ben -->
 <!-- bkz beton ekrem e çarpınca yerde seken tangır budun doğana gelişine vurmak ve goooooooooooool-->
 <!-- bkz barış atay devlet bahçeli ye çarpıp sekip yerde zıplaması -->
 <!-- bkz müşfik kenterin yıldız kenter i orospuların elinden zor kurtardım açıklaması -->
