@@ -1,4 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
+<!-- https://www.uludagsozluk.com/k/polis-kalkan%C4%B1na-kafa-at%C4%B1p-geri-seken-hdp-li-vekil/ -->
 <!-- https://www.uludagsozluk.com/k/2002-den-sonra-t%C3%BCrkiye-nin-%C3%B6nlenemeyen-y%C3%BCkseli%C5%9Fi/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/iskandinav-%C3%BClkelerinin-i%C3%A7ler-ac%C4%B1s%C4%B1-hali/&w=gd -->
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-yi-rehin-alan-pezevenkler/&sp=2 bkz mario bros -->
