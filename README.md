@@ -2,9 +2,6 @@
 <!-- bkz gözleri türk önde türk ileri oyuna gelme türkiyem diyen surat-->
 <!-- bkz şeytanın oyununa gelme türkiyem  https://www.youtube.com/watch?v=H0760kGB-vw  -->
 <!-- bkz tek millet tek bayrak tek devlet iri olacaz diri olacaz bir olacaz -->
-<!-- bkz fatih terimin efsane soyunma odası konuşması -->
-<!-- bkz alper potuk un caner erkin le ozan tufana yavşak demesi -->
-<!-- bkz arda turan ın bir buçuk maçlık hatrım yokmuydu demesi -->
 <!-- bkz turp gibiyim turup şurup gibiyim şurup-->
 <!-- bkz yıldız tibetin çin de yakılmayı vasiyet etmesi -->
 <!-- bkz en öpülesi yerim götüm diyen erkek -->
