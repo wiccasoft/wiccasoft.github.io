@@ -1,5 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
-
+<!-- bkz nazi almanyasını özleyen killa hakan -->
 <!-- https://www.uludagsozluk.com/k/bu-ka%C3%A7%C4%B1nc%C4%B1-cahillik-recep/ -->
 <!-- bkz osmanlının gümbür gümbür geldiği gerçeği -->
 <!-- bkz menzil tarikatının süleymancılarla nurcu bacıları yanına alması -->
