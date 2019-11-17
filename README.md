@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- bkz türk önde türk ileri oyuna gelme türkiyem -->
 <!-- bkz yurtta sulh cihanda sulh-->
+<!-- bkz ne mutlu türküm diyene -->
 <!-- bkz bütün dünya ayaklanırken türkiyenin süper güç olması -->
 <!-- https://www.uludagsozluk.com/k/yurtta-sulh-cihanda-sulh-devri-bitmi%C5%9Ftir/ -->
 <!-- bkz yıldız kenterin götüme pamuk sokmayın vasiyeti -->
