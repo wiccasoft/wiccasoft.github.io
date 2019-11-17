@@ -2,6 +2,7 @@
 
 <!-- bkz imam hatipli merve ve şeytan https://www.youtube.com/watch?v=H0760kGB-vw -->
 <!-- bkz benim başörtülü bacılarımın üstüne işemişler https://www.youtube.com/watch?v=yPqDUC2tDIo -->
+<!-- bkz başını açmak istemeyen başörtlü bacının üstüne işemek suretiyle başını açmak -->
 <!-- https://www.uludagsozluk.com/k/islam-%C4%B1n-k%C3%B6pekleri-sa%C3%A7%C4%B1n%C4%B1z%C4%B1-a%C3%A7%C4%B1n/ -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019)
