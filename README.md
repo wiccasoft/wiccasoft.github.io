@@ -2,6 +2,7 @@
 <!-- bkz gözleri türk önde türk ileri  oyuna gelme türkiyem diyen surat-->
 <!-- bkz ahmet kayanın pkklı olduğu gerçeği -->
 <!-- bkz burak özçivit in zeybek dansı -->
+<!-- bkz jokerin batmanin batmobile ini kaçırması -->
 <!-- https://www.uludagsozluk.com/k/ahmet-kaya-vs-y%C4%B1lmaz-g%C3%BCney/ bkz iki pğkklı kürt -->
 <!-- https://www.uludagsozluk.com/k/abd%C3%BClhamid-kay%C4%B1han-osmano%C4%9Flu/&w=bg bkz oğuzların kayıboyu yiğido-->
 <!-- bkz tek millet tek devlet tek bayrak oyuna gelme türkiyem iri olacaz diri olacaz bir olacaz -->
