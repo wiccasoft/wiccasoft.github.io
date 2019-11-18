@@ -5,6 +5,7 @@
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
 <!-- bkz hz isa nın kürt hz muhammedin arap olması -->
+<!-- bkz hz muhammedle hz recep in hiç elektrik kaçımaması -->
 <!-- bkz hz isanın saraydan elektrik kaçırması -->
 <!-- bkz hiç sevdiceği olmamaış erkeği alıp camide sevgi vermek -->
 <!-- bkz sevdiceği camiye götürüp teravih namazı öğretirken yaşanan duysusal anlar -->
