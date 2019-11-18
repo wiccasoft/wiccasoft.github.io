@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
+<!-- bkz imamoğlu imam ın oğluysa tunç soyer soyun eri mi sorunsalı-->
 <!-- bkz imamoğlu imam ın oğluysa oğlu imamoğlunun oğlu mu sorunsalı-->
 <!-- bkz tunç soyer gece odanıza girse soyun dese napardınız -->
 <!-- bkz imamoğluyla bir gece vs imamaoğlunun oğluyla bir gece -->
