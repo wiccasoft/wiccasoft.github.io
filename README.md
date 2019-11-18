@@ -4,10 +4,9 @@
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- bkz tangır budun doğanın kırk yıldır açtığı başlıklar -->
 <!-- bkz tangır budun doğanın rüyada gördüğü şeyhler sıralı tam liste -->
-<!-- bkz bir erkeği ay erkek dedim yine ay erkek yok mu ayol-->
-<!-- bkz geceye bir erkek bırak -->
 <!-- bkz pasif geylerdeki barzo esmer erkek aşkı -->
 <!-- bkz hz isanın kürt hz muhammedin arap olması -->
+
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=8nIUdIabhdU )
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
