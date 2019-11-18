@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
 <!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul çok hojdır -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benena -->
-<!-- bkz imamaoğlunun istanbulu terk etmek için planlar yapması -->
+<!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
