@@ -3,6 +3,7 @@
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
+<!-- bkz ekrem imamooğlunun yasin  okurken babanda mı imama dı senin demek -->
 <!-- bkz imamaoğlu yasin okurken götünü parmaklayıp atma ekrem din kardeşiyiz demek -->
 <!-- bkz at fava bekle bro https://www.mhp.org.tr/mhp_index.php -->
 <!-- bkz devlet bahçelinin verdiği efso ayar-->
