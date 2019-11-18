@@ -1,6 +1,8 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.uludagsozluk.com/e/42430089/ bkz bi gülüşü var sanırsın cennet -->
+<!-- https://www.uludagsozluk.com/k/e%C5%9Fi-kafa-da%C4%9F%C4%B1t-diye-sevgilisiyle-tatile-g%C3%B6ndermek/ 
+bkz eşi kafa dağıt göndermek var tatil -->
 <!-- https://www.uludagsozluk.com/k/tayyip-i-s%C4%B1rt%C4%B1ndan-atan-at/ bkz atın üstündeki türk değilse yüktür -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz bi gülüşü var sanırsın şampiyonlar ligi -->
 <!--https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başramayacaksınız -->
