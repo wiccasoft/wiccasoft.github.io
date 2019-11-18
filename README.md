@@ -5,6 +5,7 @@
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
 <!-- https://www.uludagsozluk.com/k/ka%C3%A7akus-elektrikus/&w=bg bkz sarayın elektrik masrafı --->
+<!-- bkz erdoğanın trilyonları vs sarayın elektrik masrafı -->
 <!-- bkz hiç sevdiceği olmamış erkeğin yüreğine aşk koyan mümin -->
 <!-- bkz hiç elektrik kaçırmamış erkek vs elektrik kaçırmış erkeke aşkı -->
 <!-- bkz hz isa nın kürt hz muhammedin arap olması -->
