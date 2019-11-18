@@ -2,61 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
-<!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
-<!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
-<!-- bkz tayyipin aç bırakacağı müminlerin elektrik hesabı yapması -->
-<!-- https://www.uludagsozluk.com/k/kaz-da%C4%9Flar%C4%B1nda-hi%C3%A7-kaz-olmamas%C4%B1/ bkz liseliler -->
-<!-- https://www.uludagsozluk.com/k/ka%C3%A7akus-elektrikus/&w=bg bkz sarayın elektrik masrafı --->
-<!-- bkz erdoğanın trilyonları vs sarayın elektrik masrafı -->
-<!-- bkz hiç sevdiceği olmamış erkeğin yüreğine aşk koyan mümin -->
-<!-- bkz hiç elektrik kaçırmamış erkek vs elektrik kaçırmış erkeke aşkı -->
-<!-- bkz hz isa nın kürt hz muhammedin arap olması -->
-<!-- bkz hz recep in hiç elektrik kaçırmaması -->
-<!-- bkz hz isanın saraydan elektrik kaçırması -->
-<!-- bkz hiç sevdiceği olmamaış erkeği alıp camide sevgi vermek -->
-<!-- bkz sevdiceği camiye götürüp teravih namazı öğretirken yaşanan duysusal anlar -->
-<!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
-<!-- bkz hz muhammedle bir gece vs hz isa ile bir gece -->
-<!-- bkz hayallerde yaşıyor bazı ibneler diyince akla gelen ilk kavim -->
-<!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz rükuda sevilir bu -->
-<!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-olan-avustralyal%C4%B1-gen%C3%A7/&w=bg bkz homoluğun yayılması -->
-<!-- https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz ultra gay yuvası at fava bekle-->
-<!-- bkz islamın homo dini olduğu gerçeği https://www.youtube.com/watch?v=c9MccLlEVLw -->
-<!-- bkz oğlunuz namaz arkadaşına verse tepkinin n'olurdu -->
-<!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-olan-avustralyal%C4%B1-gen%C3%A7/&w=bg bkz homoluğun yayılması -->
-<!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz ben saldırıyorum beyler -->
-<!-- https://www.uludagsozluk.com/e/42431655/ bkz yarra yediğinizin resmidir beyler at fava bekle -->
-<!-- https://www.uludagsozluk.com/k/bafetimbi-gomis-in-galatasaray-a-d%C3%B6n%C3%BC%C5%9F%C3%BC/ bkz o sen olsan bari -->
-<!-- https://www.uludagsozluk.com/k/etek-boyuna-kar%C4%B1%C5%9Fan-hakim/&w=bg bkz yarra yedik beyler ->
-<!-- bkz ekrem imamooğlunun yasin  okurken babanda mı imama dı senin demek -->
-<!-- bkz imamaoğlu yasin okurken götünü parmaklayıp atma ekrem din kardeşiyiz demek -->
-<!-- bkz at fava bekle bro -->
-<!-- bkz devlet bahçelinin verdiği efso ayar-->
-<!-- https://www.uludagsozluk.com/k/tehecc%C3%BCd-namaz%C4%B1/&w=bg bkz domalırken teveccühle domalması gereken namaz -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ey%C3%BCp-sultan-da-yasin-okumas%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/og%C3%BCn-%C5%9Fanl%C4%B1soy/&w=bg bkz saydım kaç gece oldu neredesin insafsız -->
-<!-- bkz kakaya benzeyen adam adam mıdır sorunsalı  -->
-<!-- bkz cem garipoğlu nu çin hükümetinin koruması -->
-<!-- bkz fransada dev homofobi yürüyüşü -->
-<!-- bkz norveç te homo kerimin yakılması -->
-<!-- bkz polis kalkanına sekip geri tepen hdpli -->
-<!-- bkz 18 kasım hdp geri vitesi -->
-<!-- bkz oç kürtlerin tayyip budun doğana çarpıp geri sekmesi-->
-<!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro-->
-<!-- https://www.uludagsozluk.com/k/naci-kark%C4%B1n/&w=bg bkz dünya tatlısı bi adam -->
-<!-- https://www.uludagsozluk.com/k/balonlarla-u%C3%A7an-adam/ bkz gırh yıldır cam yiyen adam -->
-<!-- https://www.uludagsozluk.com/k/r%C3%BCyada-gazali-ve-hegel-ile-tart%C4%B1%C5%9Fmak/ bkz entel mişim gibi çek-->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü-->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz akarı kokarı olmaz -->
-<!-- bkz oğlunuz kankanızın oğluyla halı saha sonrası terli terli seviştik dese tepkiniz n'olurdu -->
-<!-- bkz mhp nin finlandiyalılara sığınma hakkı talebi hakkında kararneme önergesi -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
-<!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul çok hojdır -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benena -->
-<!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
-<!-- bkz merkelin imamın oğluna attığı bakış -->
-<!-- bkz osmanlıyı diriltiyorum diyip hıyarları hıyar kuyruğuna sokmak -->
-<!-- https://www.youtube.com/watch?v=BfNMGE80T8I-->
+
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
