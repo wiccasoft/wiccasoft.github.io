@@ -10,6 +10,7 @@
 <!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz merkelin imamın oğluna attığı bakış -->
 <!-- bkz osmanlıyı diriltiyorum diyip hıyarları hıyar kuyruğuna sokmak -->
+<!-- https://www.youtube.com/watch?v=BfNMGE80T8I-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
