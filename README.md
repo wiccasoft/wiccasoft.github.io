@@ -8,7 +8,7 @@
 <!-- https://www.uludagsozluk.com/k/etek-boyuna-kar%C4%B1%C5%9Fan-hakim/&w=bg bkz yarra yedik beyler ->
 <!-- bkz ekrem imamooğlunun yasin  okurken babanda mı imama dı senin demek -->
 <!-- bkz imamaoğlu yasin okurken götünü parmaklayıp atma ekrem din kardeşiyiz demek -->
-<!-- bkz at fava bekle bro https://www.mhp.org.tr/mhp_index.php -->
+<!-- bkz at fava bekle bro -->
 <!-- bkz devlet bahçelinin verdiği efso ayar-->
 <!-- https://www.uludagsozluk.com/k/tehecc%C3%BCd-namaz%C4%B1/&w=bg bkz domalırken teveccühle domalması gereken namaz -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ey%C3%BCp-sultan-da-yasin-okumas%C4%B1/&w=bg -->
