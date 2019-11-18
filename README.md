@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU -->
+<!-- https://www.youtube.com/watch?v=xqCmGTwnH7M -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
