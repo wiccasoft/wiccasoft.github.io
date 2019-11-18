@@ -5,6 +5,7 @@
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz imamaoğlu yasin okurken götünü parmaklayıp atma ekrem din kardeşiyiz demek -->
 <!-- bkz at fava bekle bro -->
+<!-- bkz devlet bahçelinin verdiği efso ayar-->
 <!-- https://www.uludagsozluk.com/k/tehecc%C3%BCd-namaz%C4%B1/&w=bg bkz domalırken teveccühle domalması gereken namaz -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ey%C3%BCp-sultan-da-yasin-okumas%C4%B1/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/og%C3%BCn-%C5%9Fanl%C4%B1soy/&w=bg bkz saydım kaç gece oldu neredesin insafsız -->
