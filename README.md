@@ -5,7 +5,7 @@
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
 <!-- bkz hz muhammedle bir gece vs hz isa ile bir gece -->
-<!-- bkz hayallerde yaşıyor bazı ibneler diyince akla gelen ilk sözlük -->
+<!-- bkz hayallerde yaşıyor bazı ibneler diyince akla gelen ilk kavim -->
 <!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz rükuda sevilir bu -->
 <!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-olan-avustralyal%C4%B1-gen%C3%A7/&w=bg bkz homoluğun yayılması -->
 <!-- https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz ultra gay yuvası at fava bekle-->
