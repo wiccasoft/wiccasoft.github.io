@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
-<!-- bkz türkiyenin erkek açığını kaptacak robot erkek yapıp kurtulmak --->
+<!-- bkz türkiyenin erkek açığını kaptacak erkek robot yapıp kurtulmak --->
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=8nIUdIabhdU )
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
