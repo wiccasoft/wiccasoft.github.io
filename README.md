@@ -5,10 +5,11 @@
 <!-- bkz fransada homofobi karşıtı eylemler -->
 <!-- bkz bir erkeği sırf erkek diye sevmek -->
 <!-- bkz iki tekerleği çekici yapan detaylar -->
+<!-- bkz arkda çekişli erkeklerden önden çekşişli erkeklere tavsiyeler --->
 <!-- bkz bir erkeği sırf erkeğe benziyor diye sevmek -->
 <!-- bkz sevmeyi bilmeyen erkeğin yüreğine sevgi koyan mümin -->
 <!-- bkz bağkur acısı çeknelerden bağsur acısı çekenlere tavsiyeler -->
-<!-- bkz türkiyenin erkek açığını kaptacak erkek robot yapıp kurtulmak --->
+
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
