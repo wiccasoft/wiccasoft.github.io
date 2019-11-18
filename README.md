@@ -2,7 +2,8 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
-<!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz bükemeyeceği eli öpmek -->
+<!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul hojdır -->
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz türkiye çok hojdır ama benena -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
