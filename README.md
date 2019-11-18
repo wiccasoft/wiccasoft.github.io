@@ -4,7 +4,7 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
-<!-- bkz mümin adamın mümin sevgilisi olur bkz mümince şakalaşırken rükuda götürülen erkek -->
+<!-- bkz mümin adamın mümin sevgilisi olur -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
 <!-- bkz hz muhammedle bir gece vs hz isa ile bir gece -->
 <!-- bkz hayallerde yaşıyor bazı ibneler diyince akla gelen ilk kavim -->
