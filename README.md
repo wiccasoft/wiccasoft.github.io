@@ -4,6 +4,7 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
+<!-- https://www.uludagsozluk.com/k/kaz-da%C4%9Flar%C4%B1nda-hi%C3%A7-kaz-olmamas%C4%B1/ bkz liseliler -->
 <!-- https://www.uludagsozluk.com/k/ka%C3%A7akus-elektrikus/&w=bg bkz sarayın elektrik masrafı --->
 <!-- bkz erdoğanın trilyonları vs sarayın elektrik masrafı -->
 <!-- bkz hiç sevdiceği olmamış erkeğin yüreğine aşk koyan mümin -->
