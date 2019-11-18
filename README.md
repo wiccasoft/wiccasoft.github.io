@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-%C3%A7ekici-k%C4%B1lan-%C5%9Feyler/&w=bg bkz kızlar çoşmuş yine --->
 <!-- bkz ehoşlandığı erkeği anlatan kıza hoşlandığı erkek tipini paketleyip göndermek -->
+<!-- bkz türkiyenin erkek açığını kaptacak robot erkek yapıp kurtulmak --->
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=8nIUdIabhdU )
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
