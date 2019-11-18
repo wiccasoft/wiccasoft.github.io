@@ -4,6 +4,7 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
+<!-- https://www.uludagsozluk.com/k/etek-boyuna-kar%C4%B1%C5%9Fan-hakim/&w=bg bkz yarra yedik beyler -->
 <!-- bkz ekrem imamooğlunun yasin  okurken babanda mı imama dı senin demek -->
 <!-- bkz imamaoğlu yasin okurken götünü parmaklayıp atma ekrem din kardeşiyiz demek -->
 <!-- bkz at fava bekle bro https://www.mhp.org.tr/mhp_index.php -->
