@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz bi gülüşü var sanırsın şampiyonlar ligi -->
 <!--https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başramayacaksınız -->
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz karizmanın öz oğlu -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
