@@ -3,6 +3,7 @@
 <!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- bkz ulucuların cümle kuramamasının asıl sebebi -->
+<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-hem-k%C3%BCrtlerin-hem-t%C3%BCrklerindir/ bkz kürt gs li ergen -->
 <!-- https://www.uludagsozluk.com/k/t%C4%B1p%C4%B1%C5%9F-t%C4%B1p%C4%B1%C5%9F-chp-ye-oy-verecek-kitle/ bkz tıpğış tıpğış -->
 <!-- https://www.uludagsozluk.com/k/kafede-s%C3%BCrekli-k%C4%B1zlara-bakarak-oturan-tip/ bkz cafede şal isteyen erkek-->
 <!-- https://www.uludagsozluk.com/k/arabas%C4%B1na-sadece-ya%C4%9F%C4%B1n%C4%B1-suyunu-koyup-gezen-tip/ bkz baba ükü yok -->
