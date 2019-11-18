@@ -2,17 +2,6 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
-<!-- bkz trabzonlu erkekler vs rizeli erkekler -->
-<!-- bkz erkeksiz kalsanız napardınız sorusalı -->
-<!-- bkz rüyada yanınıza alacağını üç erkek sorunsalı -->
-<!-- bkz bi adaya düşseniz yanınıza alacağını üç erkek sorunsalı nick altı girmeyin -->
-<!-- https://www.uludagsozluk.com/k/tekirda%C4%9Fl%C4%B1-erkekler/&w=bg bkz gayleri kudurtan erkekler
-<!-- https://www.uludagsozluk.com/k/john-wick-i-teke-tekte-yenerim/ bkz yaşın kaç lisesli -->
-<!-- bkz tangır budun doğanın kırk yıldır açtığı başlıklar -->
-<!-- bkz tangır budun doğanın rüyada gördüğü şeyhler sıralı tam liste -->
-<!-- bkz pasif geylerdeki barzo esmer erkek aşkı -->
-<!-- bkz hz isanın kürt hz muhammedin arap olması -->
-
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=8nIUdIabhdU )
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
