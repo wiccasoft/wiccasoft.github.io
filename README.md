@@ -5,6 +5,7 @@
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
 <!-- bkz islamın homo dini olduğu gerçeği https://www.youtube.com/watch?v=c9MccLlEVLw -->
+<!-- bkz oğlunun namaz arkadaşına verse tepkinin n'olurdu -->
 <!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-olan-avustralyal%C4%B1-gen%C3%A7/&w=bg bkz homoluğun yayılması -->
 <!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz ben saldırıyorum beyler -->
 <!-- https://www.uludagsozluk.com/e/42431655/ bkz yarra yediğinizin resmidir beyler at fava bekle -->
