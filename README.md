@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
+<!-- https://www.uludagsozluk.com/k/ekonomi-%C3%A7ok-iyi/&w=bg bkz osmanlıyı diriltip hıyar kuyruğuna girmek -->
 <!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- bkz ya paralel belediye meclisinde yaşıyorsak yanlış adamları ısırdıysak -->
