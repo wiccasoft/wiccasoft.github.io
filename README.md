@@ -4,7 +4,7 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
-<!-- bkz islamın homo dini olduğu gerçeği -->
+<!-- bkz islamın homo dini olduğu gerçeği https://www.youtube.com/watch?v=c9MccLlEVLw -->
 <!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-olan-avustralyal%C4%B1-gen%C3%A7/&w=bg bkz homoluğun yayılması -->
 <!-- https://www.uludagsozluk.com/k/kedi-gibi-erkek/&w=bg bkz ben saldırıyoprum beyler -->
 <!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz ben saldırıyorum beyler -->
