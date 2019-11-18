@@ -7,6 +7,7 @@
 <!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-londra-ziyareti/&w=bg bkz karanlık işler-->
 <!-- bkz merkelin imamın oğluna attığı bakış -->
+<!-- https://www.uludagsozluk.com/k/christian-rosenkreutz/&w=bg bkz aktrollerin yabancı bick alma sebebi -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
