@@ -1,14 +1,14 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü-->
+<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz akarı kokarı olmaz -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
 <!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul çok hojdır -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benena -->
 <!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-londra-ziyareti/&w=bg bkz karanlık işler-->
 <!-- bkz merkelin imamın oğluna attığı bakış -->
-<!-- https://www.uludagsozluk.com/k/christian-rosenkreutz/&w=bg bkz aktrollerin yabancı bick alma sebebi -->
-<!-- bkz adı mahmut mahmutoğlu aldığı nick mathew  jonathan -->
+
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
