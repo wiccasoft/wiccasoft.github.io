@@ -3,6 +3,7 @@
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- istanbul çok hojdır ama benena https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!-- https://www.uludagsozluk.com/k/abdurrahim-albayrak/&w=bg bkz bi gülüşü var sanırsın damat gülüyo -->
+<!-- https://www.uludagsozluk.com/k/temel-karamahmuto%C4%9Flu/&w=bg bkz yobaz
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ihaleleri-e%C5%9Fe-dosta-vermesi/ bkz ihaleye fesat karıştırmak -->
 <!-- https://www.uludagsozluk.com/e/42430089/ bkz bi gülüşü var sanırsın cennet -->
 <!-- https://www.uludagsozluk.com/k/e%C5%9Fi-kafa-da%C4%9F%C4%B1t-diye-sevgilisiyle-tatile-g%C3%B6ndermek/ 
