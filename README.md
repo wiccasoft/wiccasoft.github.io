@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
-<!-- https://www.uludagsozluk.com/k/damad%C4%B1na-i%C5%9F-bulan-kay%C4%B1npeder/ bkz abdurrahim albyayrak -->
+<!-- https://www.uludagsozluk.com/k/damad%C4%B1na-i%C5%9F-bulan-kay%C4%B1npeder/ bkz abdurrahim albayrak -->
 
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
