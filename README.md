@@ -3,6 +3,7 @@
 <!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- bkz ulucuların cümle kuramamasının asıl sebebi -->
+<!-- bkz küçük iskender götten verecem dese napardınız sorunsalı -->
 <!-- bkz imamoğlu nun oğlu mu daha yakışıklı kendisi mi sorunsalı --> 
 <!-- bkz imamaoğlu cama tıklasa götünü aç sikecem dese napardınız sorunsalı -->
 <!-- bkz imamaoğlu mu daha yakışıklı tunç soyer mi sorunsalı-->
