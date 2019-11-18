@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
-<!-- bkz kakaya benzeyen adam -->
+<!-- bkz kakaya benzeyen adam adam mıdır sorunsalı  -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz akarı kokarı olmaz -->
 <!-- bkz oğlunuz kankanızın oğluyla halı saha sonrası terli terli seviştik dese tepkiniz n'olurdu -->
