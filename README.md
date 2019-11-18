@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
+<!-- bkz erkekçe vuruşmaktan korkan erkek i çekici yapana detaylar -->
 <!-- https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-%C3%A7ekici-k%C4%B1lan-%C5%9Feyler/&w=bg  lol -->
 <!-- bkz uludaki gaylerin baya bi güldürmesi -->
 <!-- bkz uludaki gaylere erkek buluyoruz kampanyası -->
