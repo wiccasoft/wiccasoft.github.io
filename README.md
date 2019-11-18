@@ -1,23 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
-<!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
-<!-- https://www.uludagsozluk.com/k/kafede-s%C3%BCrekli-k%C4%B1zlara-bakarak-oturan-tip/ bkz cafede şal isteyen erkek-->
-<!-- https://www.uludagsozluk.com/k/arabas%C4%B1na-sadece-ya%C4%9F%C4%B1n%C4%B1-suyunu-koyup-gezen-tip/ bkz baba ükü yok -->
-<!-- bkz uludaki cümle dahi kuramayan çomarlar ne mezunu acaba sorunsalı -->
-<!--https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başramayacaksınız -->
-<!-- bkz ramosu üj mülyün yüroya risespora satsak mı acaba -->
-<!-- istanbul çok hojdır ama benena https://www.youtube.com/watch?v=4RpMzsA1VOw -->
-<!-- https://www.uludagsozluk.com/k/aras-kargo/&w=bg bkz süleyman aras -->
-<!-- https://www.uludagsozluk.com/k/abdurrahim-albayrak/&w=bg bkz bi gülüşü var sanırsın damat gülüyo -->
-<!-- https://www.uludagsozluk.com/k/temel-karamahmuto%C4%9Flu/&w=bg bkz yobaz
-<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ihaleleri-e%C5%9Fe-dosta-vermesi/ bkz ihaleye fesat karıştırmak -->
-<!-- https://www.uludagsozluk.com/e/42430089/ bkz bi gülüşü var sanırsın cennet -->
-<!-- https://www.uludagsozluk.com/k/e%C5%9Fi-kafa-da%C4%9F%C4%B1t-diye-sevgilisiyle-tatile-g%C3%B6ndermek/ 
-bkz eşi kafa dağıt göndermek var tatil -->
-<!-- https://www.uludagsozluk.com/k/tayyip-i-s%C4%B1rt%C4%B1ndan-atan-at/ bkz atın üstündeki türk değilse yüktür -->
-<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz bi gülüşü var sanırsın şampiyonlar ligi -->
 
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz karizmanın öz oğlu -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
