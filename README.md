@@ -4,6 +4,7 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
+<!-- bkz hiç sevdiceği olmamış erkeğin yüreğine aşk koyan mümin -->
 <!-- bkz hiç elektrik kaçırmamış erkek vs elektrik kaçırmış erkeke aşkı -->
 <!-- bkz hz isa nın kürt hz muhammedin arap olması -->
 <!-- bkz hz recep in hiç elektrik kaçırmaması -->
