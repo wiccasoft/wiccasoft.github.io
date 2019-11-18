@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- bkz fransada homofobi karşıtı eylemler -->
 <!-- bkz bir erkeği sırf erkek diye sevmek -->
+<!-- bkz iki tekerleği çekici yapan detaylar -->
 <!-- bkz bir erkeği sırf erkeğe benziyor diye sevmek -->
 <!-- bkz sevmeyi bilmeyen erkeğin yüreğine sevgi koyan mümin -->
 <!-- bkz bağkur acısı çeknelerden bağsur acısı çekenlere tavsiyeler -->
