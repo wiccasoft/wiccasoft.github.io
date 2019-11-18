@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- https://www.youtube.com/watch?v=lgqGyG671iE -->
+<!-- bkz falcaoyu üj mülyün yüroya satsak mı acaba -->
 <!-- istanbul çok hojdır ama benena https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!-- https://www.uludagsozluk.com/k/aras-kargo/&w=bg bkz süleyman aras -->
 <!-- https://www.uludagsozluk.com/k/abdurrahim-albayrak/&w=bg bkz bi gülüşü var sanırsın damat gülüyo -->
