@@ -6,6 +6,7 @@
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
 <!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul çok hojdır -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benena -->
+<!-- bkz oğlunuz kankanızın oğluyla halı saha sonrası terli terli seviştik dese tepkiniz n'olurdu -->
 <!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
 <!-- bkz merkelin imamın oğluna attığı bakış -->
 <!-- bkz osmanlıyı diriltiyorum diyip hıyarları hıyar kuyruğuna sokmak -->
