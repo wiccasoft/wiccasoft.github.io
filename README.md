@@ -4,6 +4,7 @@
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- bkz ulucuların cümle kuramamasının asıl sebebi -->
 <!-- bkz küçük iskender götten verecem dese napardınız sorunsalı -->
+<!-- bkz maçoğluyla bir gece vs  imamaoğluyla bir gece sorunsalı-->
 <!-- bkz imamoğlu nun oğlu mu daha yakışıklı kendisi mi sorunsalı --> 
 <!-- bkz imamaoğlu cama tıklasa götünü aç sikecem dese napardınız sorunsalı -->
 <!-- bkz imamaoğlu mu daha yakışıklı tunç soyer mi sorunsalı-->
