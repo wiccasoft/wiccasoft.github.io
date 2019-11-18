@@ -1,36 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- https://www.uludagsozluk.com/k/ekonomi-%C3%A7ok-iyi/&w=bg bkz osmanlıyı diriltip hıyar kuyruğuna girmek -->
-<!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
-<!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
-<!-- bkz ya paralel belediye meclisinde yaşıyorsak yanlış adamları ısırdıysak -->
-<!-- bkz imamaoğluyla romantik bir gece vs manusr yavaş la hızlı bir gece -->
-<!-- bkz imamaoğlunun dudaklarına yapışıp işpark ihalesi almak -->
-<!-- bkz maçoğlunun bıyıklarını ısırıp şapşik çöpleri döktürmemişsin demek -->
-<!-- bkz mansur yavaşın dudaklarını ısırıp yavaş ihalemi söktün demek -->
-<!-- bkz tunç soyerin duduaklarına yapışıp laik kalalım aşkım demek -->
-<!-- bkz küçük iskender küçük ibneyse büyük iskender büyük ibne mi sorunsalı-->
-<!-- bkz imamoğlu imam ın oğluysa tunç soyer soyun eri mi sorunsalı-->
-<!-- bkz imamoğlu imam ın oğluysa oğlu imamoğlunun oğlu mu sorunsalı-->
-<!-- bkz tunç soyer gece odanıza girse soyun dese napardınız -->
-<!-- bkz imamoğluyla bir gece vs imamaoğlunun oğluyla bir gece -->
-<!-- bkz ulucuların cümle kuramamasının asıl sebebi -->
-<!-- bkz küçük iskender götten verecem dese napardınız sorunsalı -->
-<!-- bkz maçoğluyla bir gece vs  imamaoğluyla bir gece sorunsalı-->
-<!-- bkz imamoğlu nun oğlu mu daha yakışıklı kendisi mi sorunsalı --> 
-<!-- bkz imamaoğlu cama tıklasa götünü aç sikecem dese napardınız sorunsalı -->
-<!-- bkz imamaoğlu mu daha yakışıklı tunç soyer mi sorunsalı-->
-<!-- bkz tunç soyer götten istese veririmisin  vs mansur yavaşa götten istese verisi misin sorunsalı -->
-<!-- bkz imamaoğlunun oğluyla lamı bir gece binalinin oğluyla la mı bir gece -->
-<!-- bkz oğlununuz kankanızın oğluyla halı saha maçı sonrası terli terli sevişip gazoz içtik dese tepkiniz n'olurdu -->
-<!-- bkz oğlununuz götüme gazoz şişesi sokacam baba dese tepkiniz n'olurdu -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-hem-k%C3%BCrtlerin-hem-t%C3%BCrklerindir/ bkz kürt gs li ergen -->
-<!-- https://www.uludagsozluk.com/k/t%C4%B1p%C4%B1%C5%9F-t%C4%B1p%C4%B1%C5%9F-chp-ye-oy-verecek-kitle/ bkz tıpğış tıpğış -->
-<!-- https://www.uludagsozluk.com/k/kafede-s%C3%BCrekli-k%C4%B1zlara-bakarak-oturan-tip/ bkz cafede şal isteyen erkek-->
-<!-- https://www.uludagsozluk.com/k/arabas%C4%B1na-sadece-ya%C4%9F%C4%B1n%C4%B1-suyunu-koyup-gezen-tip/ bkz baba ükü yok -->
-<!-- https://www.uludagsozluk.com/k/o%C4%9Flunuz-e%C5%9Fcinsel-olsa-tepkiniz-ne-olurdu/ -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lara-duyulan-%C3%B6fkenin-nedeni/&w=bg -->
+<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s -->
+
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
