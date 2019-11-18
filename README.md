@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- bkz fransada homofobi karşıtı eylemler -->
+<!-- bkz bağkur acısı çeknelerden bağsur acısı çekenlere tavsiyeler -->
 <!-- bkz türkiyenin erkek açığını kaptacak erkek robot yapıp kurtulmak --->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
