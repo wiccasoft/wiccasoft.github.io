@@ -3,6 +3,7 @@
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- https://www.uludagsozluk.com/k/kafede-s%C3%BCrekli-k%C4%B1zlara-bakarak-oturan-tip/ bkz cafede şal isteyen erkek-->
 <!-- https://www.uludagsozluk.com/k/arabas%C4%B1na-sadece-ya%C4%9F%C4%B1n%C4%B1-suyunu-koyup-gezen-tip/ bkz baba ükü yok -->
+<!-- bkz uludaki cümle dahi kuramayan çomarlar ne mezunu acaba sorunsalı -->
 <!--https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başramayacaksınız -->
 <!-- bkz ramosu üj mülyün yüroya risespora satsak mı acaba -->
 <!-- istanbul çok hojdır ama benena https://www.youtube.com/watch?v=4RpMzsA1VOw -->
