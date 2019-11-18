@@ -1,16 +1,5 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü-->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz akarı kokarı olmaz -->
-<!-- bkz oğlunuz kankanızın oğluyla halı saha sonrası terli terli seviştik dese tepkiniz n'olurdu -->
-<!-- bkz mhp nin finlandiyalılara sığınma hakkı talebi hakkında kararneme önergesi -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
-<!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul çok hojdır -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benena -->
-<!-- bkz imamoğlunun istanbulu terk etmek için planlar yapması https://www.youtube.com/watch?v=RDxn3OuKO8w -->
-<!-- bkz merkelin imamın oğluna attığı bakış -->
-<!-- bkz osmanlıyı diriltiyorum diyip hıyarları hıyar kuyruğuna sokmak -->
-<!-- https://www.youtube.com/watch?v=BfNMGE80T8I-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
