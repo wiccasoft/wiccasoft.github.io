@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
+<!-- bkz fatih tezcan vs fathi portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz kakaya benzeyen adam adam mıdır sorunsalı  -->
 <!-- bkz cem garipoğlu nu çin hükümetinin koruması -->
 <!-- bkz fransada dev homofobi yürüyüşü -->
