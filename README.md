@@ -8,6 +8,7 @@
 <!-- bkz norveç te homo kerimin yakılması -->
 <!-- bkz polis kalkanına sekip geri tepen hdpli -->
 <!-- bkz 18 kasım hdp geri vitesi -->
+<!-- bkz kürtlerin tayyip budun doğana çarpıp geri sekmesi-->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro-->
 <!-- https://www.uludagsozluk.com/k/naci-kark%C4%B1n/&w=bg bkz dünya tatlısı bi adam -->
 <!-- https://www.uludagsozluk.com/k/balonlarla-u%C3%A7an-adam/ bkz gırh yıldır cam yiyen adam -->
