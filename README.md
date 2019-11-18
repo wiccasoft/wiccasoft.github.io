@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
+<!-- bkz bir erkek istiyorum ulan -->
 <!-- bkz bir erkeği ay erkek dedim yine ay erkek yok mu ayol-->
 <!-- bkz erkekçe vuruşmaktan korkan erkek i çekici yapana detaylar -->
 <!-- https://www.uludagsozluk.com/k/r%C3%BCyada-muhammedi-g%C3%B6rd%C3%BCm-y%C3%BCz%C3%BC-%C5%9Feyhime-benziyordu/ -->
