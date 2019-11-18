@@ -2,17 +2,9 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
-<!-- bkz bir erkek istiyorum ulan -->
 <!-- bkz tangır budun doğanın kırk yıldır açtığı başlıklar -->
 <!-- bkz tangır budun doğanın rüyada gördüğü şeyhler sıralı tam liste -->
 <!-- bkz bir erkeği ay erkek dedim yine ay erkek yok mu ayol-->
-<!-- bkz erkekçe vuruşmaktan korkan erkek i çekici yapana detaylar -->
-<!-- https://www.uludagsozluk.com/k/r%C3%BCyada-muhammedi-g%C3%B6rd%C3%BCm-y%C3%BCz%C3%BC-%C5%9Feyhime-benziyordu/ -->
-<!-- https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-%C3%A7ekici-k%C4%B1lan-%C5%9Feyler/&w=bg  lol -->
-<!-- bkz uludaki gaylerin baya bi güldürmesi -->
-<!-- bkz uludaki gaylere erkek buluyoruz kampanyası -->
-<!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=gd bkz erkek adamın erkek sevgilisi olur --->
-<!-- https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-cam-yiyen-adam/ bkz bursalı top -->
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=8nIUdIabhdU )
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
