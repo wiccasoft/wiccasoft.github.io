@@ -4,7 +4,9 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
-<!-- https://www.uludagsozluk.com/e/42431655/ bkz yarra yediğimizin resmidir beyler -->
+<!-- https://www.uludagsozluk.com/k/kedi-gibi-erkek/&w=bg bkz ben saldırıyoprum beyler -->
+<!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz ben saldırıyorum beyler -->
+<!-- https://www.uludagsozluk.com/e/42431655/ bkz yarra yediğimizin resmidir beyler  at fava bekle -->
 <!-- https://www.uludagsozluk.com/k/bafetimbi-gomis-in-galatasaray-a-d%C3%B6n%C3%BC%C5%9F%C3%BC/ bkz o sen olsan bari -->
 <!-- https://www.uludagsozluk.com/k/etek-boyuna-kar%C4%B1%C5%9Fan-hakim/&w=bg bkz yarra yedik beyler ->
 <!-- bkz ekrem imamooğlunun yasin  okurken babanda mı imama dı senin demek -->
