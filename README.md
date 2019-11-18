@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- bkz trabzonlu erkekler vs rizeli erkekler -->
 <!-- bkz erkeksiz kalsanız napardınız sorusalı -->
+<!-- bkz bir erkeği en yalanası yeri -->
 <!-- bkz bi adaya düşseniz yanınıza alacağını üç erkek sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/tekirda%C4%9Fl%C4%B1-erkekler/&w=bg bkz gayleri kudurtan erkekler
 <!-- https://www.uludagsozluk.com/k/john-wick-i-teke-tekte-yenerim/ bkz yaşın kaç lisesli -->
