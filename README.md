@@ -3,6 +3,7 @@
 <!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- bkz ulucuların cümle kuramamasının asıl sebebi -->
+<!-- bkz imamaoğlunun oğluyla lamı bir gece binalinin oğluyla la mı bir gece -->
 <!-- bkz oğlununuz kankanızın oğluyla halı saha maçı sonrası terli terli sevişip gazoz içtik dese tepkiniz n'olurdu -->
 <!-- bkz oğlununuz götüme gazoz şişesi sokacam baba dese tepkiniz n'olurdu -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-hem-k%C3%BCrtlerin-hem-t%C3%BCrklerindir/ bkz kürt gs li ergen -->
