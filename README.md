@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- bkz türkiyenin erkek açığını kaptacak erkek robot yapıp kurtulmak --->
 
-[![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=8nIUdIabhdU )
+<!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=Z7STDOVzQKQ -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
