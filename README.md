@@ -3,6 +3,7 @@
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCman-olan-avustralyal%C4%B1-gen%C3%A7/&w=bg bkz homoluğunyayılması -->
+<!-- https://www.uludagsozluk.com/k/3-ni%C5%9Fan-atm%C4%B1%C5%9F-zincir-ma%C4%9Faza-kasiyeri-bodur-k%C4%B1z/&w=bg bkz ekşiden başlık çalmak -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
