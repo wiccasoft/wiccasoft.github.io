@@ -1,5 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
+<!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
+<!-- https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1lara-duyulan-%C3%B6fkenin-nedeni/&w=bg -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
