@@ -5,7 +5,7 @@
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/k/bafetimbi-gomis-in-galatasaray-a-d%C3%B6n%C3%BC%C5%9F%C3%BC/ bkz o sen olsan bari -->
-<!-- https://www.uludagsozluk.com/k/etek-boyuna-kar%C4%B1%C5%9Fan-hakim/&w=bg bkz yarra yedik beyler -->
+<!-- https://www.uludagsozluk.com/k/etek-boyuna-kar%C4%B1%C5%9Fan-hakim/&w=bg bkz yarra yedik beyler götten siker bu-->
 <!-- bkz ekrem imamooğlunun yasin  okurken babanda mı imama dı senin demek -->
 <!-- bkz imamaoğlu yasin okurken götünü parmaklayıp atma ekrem din kardeşiyiz demek -->
 <!-- bkz at fava bekle bro https://www.mhp.org.tr/mhp_index.php -->
