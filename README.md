@@ -5,7 +5,7 @@
 <!-- bkz trabzonlu erkekler vs rizeli erkekler -->
 <!-- bkz erkeksiz kalsanız napardınız sorusalı -->
 <!-- bkz rüyada yanınıza alacağını üç erkek sorunsalı -->
-<!-- bkz bi adaya düşseniz yanınıza alacağını üç erkek sorunsalı -->
+<!-- bkz bi adaya düşseniz yanınıza alacağını üç erkek sorunsalı nick altı girmeyin -->
 <!-- https://www.uludagsozluk.com/k/tekirda%C4%9Fl%C4%B1-erkekler/&w=bg bkz gayleri kudurtan erkekler
 <!-- https://www.uludagsozluk.com/k/john-wick-i-teke-tekte-yenerim/ bkz yaşın kaç lisesli -->
 <!-- bkz tangır budun doğanın kırk yıldır açtığı başlıklar -->
