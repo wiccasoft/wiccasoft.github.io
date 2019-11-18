@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
+<!-- https://www.uludagsozluk.com/k/tekirda%C4%9Fl%C4%B1-erkekler/&w=bg bkz gayleri kudurtan erkekler
 <!-- https://www.uludagsozluk.com/k/john-wick-i-teke-tekte-yenerim/ bkz yaşın kaç lisesli -->
 <!-- bkz tangır budun doğanın kırk yıldır açtığı başlıklar -->
 <!-- bkz tangır budun doğanın rüyada gördüğü şeyhler sıralı tam liste -->
