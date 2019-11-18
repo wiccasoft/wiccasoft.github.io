@@ -3,7 +3,7 @@
 
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
-<!-- https://www.uludagsozluk.com/k/og%C3%BCn-%C5%9Fanl%C4%B1soy/&w=bg bkz saydım kaç gece oldu saydın -->
+<!-- https://www.uludagsozluk.com/k/og%C3%BCn-%C5%9Fanl%C4%B1soy/&w=bg bkz saydım kaç gece oldu neredesin insafsız -->
 <!-- bkz kakaya benzeyen adam adam mıdır sorunsalı  -->
 <!-- bkz cem garipoğlu nu çin hükümetinin koruması -->
 <!-- bkz fransada dev homofobi yürüyüşü -->
