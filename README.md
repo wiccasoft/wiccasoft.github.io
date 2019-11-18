@@ -5,6 +5,7 @@
 <!-- bkz kakaya benzeyen adam adam mıdır sorunsalı  -->
 <!-- bkz cem garipoğlu nu çin hükümetinin koruması -->
 <!-- bkz fransada dev homofobi yürüyüşü -->
+<!-- https://www.uludagsozluk.com/e/42431552/ ar fava bekle bro-->
 <!-- https://www.uludagsozluk.com/k/naci-kark%C4%B1n/&w=bg bkz dünya tatlısı bi adam -->
 <!-- https://www.uludagsozluk.com/k/balonlarla-u%C3%A7an-adam/ bkz gırh yıldır cam yiyen adam -->
 <!-- https://www.uludagsozluk.com/k/r%C3%BCyada-gazali-ve-hegel-ile-tart%C4%B1%C5%9Fmak/ bkz entel mişim gibi çek-->
