@@ -1,6 +1,6 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
-<!-- bkz eşi kafa dağıt diye ggöndermek sevgili tatil -->
+<!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
 <!-- https://www.uludagsozluk.com/e/42430089/ bkz bi gülüşü var sanırsın cennet -->
 <!-- https://www.uludagsozluk.com/k/e%C5%9Fi-kafa-da%C4%9F%C4%B1t-diye-sevgilisiyle-tatile-g%C3%B6ndermek/ 
 bkz eşi kafa dağıt göndermek var tatil -->
