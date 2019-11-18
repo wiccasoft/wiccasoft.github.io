@@ -1,7 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
-<!-- bkz falcaoyu patlamadan üj mülyün yüroya satsak mı acaba -->
+<!-- bkz ramosu patlamadan üj mülyün yüroya satsak mı acaba -->
 <!-- istanbul çok hojdır ama benena https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!-- https://www.uludagsozluk.com/k/aras-kargo/&w=bg bkz süleyman aras -->
 <!-- https://www.uludagsozluk.com/k/abdurrahim-albayrak/&w=bg bkz bi gülüşü var sanırsın damat gülüyo -->
