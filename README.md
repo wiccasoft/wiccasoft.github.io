@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.uludagsozluk.com/k/i%C5%9Fi-g%C3%BCc%C3%BC-kuran%C4%B1-ele%C5%9Ftirmek-olan-atayiz/ -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
+<!-- bkz ya paralel belediye meclisinde yaşıyorsak yabnlış adamları ısırdıysak -->
 <!-- bkz imamaoğlunun dudaklarına yapışıp işpark ihalesi almak -->
 <!-- bkz maçoğlunun bıyıklarını ısırıp şapşik çöpleri döktürmemişsin demek -->
 <!-- bkz mansur yavaşın dudaklarını ısırıp yavaş ihalemi söktün demek -->
