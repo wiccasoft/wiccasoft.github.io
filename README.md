@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- bkz eşi kafa dağıt diye göndermek sevgili tatil -->
+<!--https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başramayacaksınız -->
 <!-- bkz ramosu üj mülyün yüroya risespora satsak mı acaba -->
 <!-- istanbul çok hojdır ama benena https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!-- https://www.uludagsozluk.com/k/aras-kargo/&w=bg bkz süleyman aras -->
@@ -12,7 +13,7 @@
 bkz eşi kafa dağıt göndermek var tatil -->
 <!-- https://www.uludagsozluk.com/k/tayyip-i-s%C4%B1rt%C4%B1ndan-atan-at/ bkz atın üstündeki türk değilse yüktür -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz bi gülüşü var sanırsın şampiyonlar ligi -->
-<!--https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başramayacaksınız -->
+
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz karizmanın öz oğlu -->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
