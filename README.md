@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz akarı kokarı olmaz -->
-<!-- bkz mhp nin finlandiyalılara sığınma hakkı vermesi -->
+<!-- bkz mhp nin finlandiyalılara sığınma hakkı talebi hakkında kararneme önergesi -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz sıcak atmosfer-->
 <!-- https://www.youtube.com/watch?v=xqCmGTwnH7M bkz istanbul çok hojdır -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benena -->
