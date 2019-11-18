@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- bkz iki tekerleği çekici yapan detaylar -->
-<!-- bkz arkadan çekişli erkeklerden önden çekşişli erkeklere tavsiyeler --->
+<!-- bkz arkadan çekişli erkeklerden önden çekşişli erkeklere tavsiyeler -->
 <!-- bkz sevmeyi bilmeyen erkeğin yüreğine sevgi koyan mümin -->
 <!-- bkz bağkur acısı çeknelerden bağsur acısı çekenlere tavsiyeler -->
 
