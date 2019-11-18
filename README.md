@@ -4,6 +4,7 @@
 [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- bkz fatih tezcan vs fatih portakal vs fatih altaylı vs fatih terim -->
 <!-- bkz hiç sevişmemeiş erkek vs çok sevişmiş erkek -->
+<!-- https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg bkz ıstırrıım yalarun bi de -->
 <!-- bkz sevdiceği camiye götürüp teravih namazı öğretirken yaşanan duysusal anlar -->
 <!-- bkz hz muhammedin arap hz isanın kürt olduğu gerçeği -->
 <!-- bkz hz muhammedle bir gece vs hz isa ile bir gece -->
