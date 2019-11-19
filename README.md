@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- bkz erkeklerden erkeklere adam gibi tavsiyeler https://www.youtube.com/watch?v=8nIUdIabhdU -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
