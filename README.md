@@ -7,6 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz mansur yavaş ciğerimi söktün -->
+<!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz barzo erkek aşkı -->
 <!-- bkz 300 peygamberi sayamayan götelek https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!--https://www.uludagsozluk.com/k/124-bin-peygamberin-isimlerini-veremeyen-tanr%C4%B1/&w=bg bkz say lan-->
 <!-- https://www.uludagsozluk.com/k/ozan-%C3%BCnsal/&w=bg bkz vur yiğidim dibime vur -->
