@@ -1,6 +1,7 @@
  [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 <!--https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.uludagsozluk.com/e/42436480/  bkz parayı basan falcoyu sürer -->
+<!-- bkz ebnde futbolcu zekası var sanan kamalcı -->
 <!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar gerizekalıyı bir arada görmemiştim -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
