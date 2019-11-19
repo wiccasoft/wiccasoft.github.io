@@ -6,7 +6,7 @@
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
-<!-- https://www.uludagsozluk.com/k/cem-%C3%B6%C4%9Fretir/&w=bg abi bu adamı yamayın yaa -->
+<!-- https://www.uludagsozluk.com/k/cem-%C3%B6%C4%9Fretir/&w=bg çok şey öğretir -->
 <!-- bkz çomarların inanacağı bi başlık aç  -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=bg -->
 <!-- bkz ulucu çomar kamalcı gencin dinler toplumların afyonudur demesi -->
