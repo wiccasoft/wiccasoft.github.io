@@ -8,9 +8,7 @@
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz mansur yavaş ciğerimi söktün -->
 <!-- bkz vekil incenin ince gördüğü ayar -->
-<!-- bkz vekilin vekaletin bende haaaa demesi -->
-<!-- bkz batum vekilinin attığı tweet ->
-<!-- bkz kamalcı çomarla türkçe öğretmek oksi moron nedir ? -->
+<!-- bkz kamalcı çomarlara türkçe öğretmek oksi moron nedir ? -->
 <!-- bkz kamalcı çomarların yaşlı adam/kadın yerine yaşlı amcA/teyze demesi sorunsalı-->
 <!-- https://www.uludagsozluk.com/e/42435486/ bkz yaşlı çomar amca -->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz kamalcıların barzo erkek aşkı -->
