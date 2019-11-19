@@ -2,7 +2,8 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bir-adam-m%C4%B1/ yoklukta gideri var bro -->
+<!-- https://www.uludagsozluk.com/e/42435469/ ar fava bekle yoklukta gideri var bro -->
+<!-- bkz batum milletvekilinini google translate tweeti -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
