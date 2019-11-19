@@ -7,6 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
 <!-- bkz ulucu çomar kamalcı gencin dinler toplumların afyonudur demesi -->
+<!-- bkz ulucu tayfun arkadaşları ona einstein diyor -->
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz mansur yavaş ciğerimi söktün -->
 <!-- bkz yaşlı amcanın genç amasaya karşımda oturma kah demesi -->
