@@ -10,6 +10,7 @@
 <!-- bkz vekil incenin ince gördüğü ayar -->
 <!-- bkz vekilin vekaletin bende haaaa demesi -->
 <!-- bkz batum vekilinin attığı tweet ->
+<!-- bkz kamalcı çomarların yaşlı adam/kadın yerine yaşlı amcA/teyze demesi sorunsalı-->
 <!-- https://www.uludagsozluk.com/e/42435486/ bkz yaşlı çomar amca -->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz kamalcıların barzo erkek aşkı -->
 <!-- bkz 300 peygamberi sayamayan götelek https://www.youtube.com/watch?v=exdjlYaYJE8 -->
