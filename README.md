@@ -7,7 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42435476/ bkz ömer halisdemir in  adam mıdır sorunsalı -->
 <!-- bkz rte nin 15 temmuz aslanları vs kamalın itleri -->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz yeni münevver vakası -->
-<!-- bkz kızların maço erkek sevdasının geldiği nokta -->
+<!-- bkztürk  kızların maço erkek sevdasının türkiyeyi getirdiği nokta -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
