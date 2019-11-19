@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
-<!-- https://www.uludagsozluk.com/e/42435469/ ar fava bekle yoklukta gideri var bro -->
+<!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var bro https://www.youtube.com/watch?v=224nx8msD8k-->
 <!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinini google translate tweeti -->
 <!-- https://www.uludagsozluk.com/e/42435476/ bkz ömer halisdemir in  adam mıdır sorunsalı -->
 <!-- bkz rte nin 15 temmuz aslanları vs kamalın itleri -->
