@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- bkz geceye bir yakışıklı bırak -->
 <!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
+<!-- https://www.uludagsozluk.com/e/42436480/ bkz parayı veren düdüğü çalar -->
 <!-- bkz hayat bu ibnelere güzel amk kadınsız mis gibi yaşıyolar zaten-->
 <!-- https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg yine tüpe sokamadın kardeş -->
 <!-- https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam%C4%B1/ -->
@@ -9,7 +10,6 @@
 <!-- https://www.uludagsozluk.com/k/aslan-burcu-erke%C4%9Fi/&w=gd bkz aslan gibi erkek -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Frekteki-mant%C4%B1k-hatas%C4%B1/ bkz batmandeki pelerinli ibne -->
 <!-- https://www.uludagsozluk.com/e/42433740/ bkz ibretlik -->
-<!-- https://www.uludagsozluk.com/e/42436480/  bkz parayı basan falcoyu sürer -->
 <!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar gerizekalıyı bir arada görmemiştim -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
