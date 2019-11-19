@@ -5,6 +5,7 @@
 <!-- https://www.uludagsozluk.com/e/42435469/ ar fava bekle yoklukta gideri var bro -->
 <!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinini google translate tweeti -->
 <!-- https://www.uludagsozluk.com/e/42435476/ bkz ömer halisdemir in  adam mıdır sorunsalı -->
+<!-- bkz rte nin 15 temmuz aslanları vs kamalın itleri -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
