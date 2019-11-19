@@ -4,44 +4,7 @@
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
-<!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
-<!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
-<!-- https://www.uludagsozluk.com/k/cem-%C3%B6%C4%9Fretir/&w=bg çok şey öğretir -->
-<!-- bkz parti tutan yaşlı amcayı takım tutmayan yaşsız teyzeyle aynı odaya koymak -->
-<!-- bkz isyankarateist26 tanrıya meydan okudu https://www.youtube.com/watch?v=exdjlYaYJE8-->
-<!-- bkz kamalcıların inanacağı bir din uydur  -->
-<!-- bkz madem allah yok niye inkar ediyosunuz liseli ergenler-->
-<!-- bkz allaha inanamıyorum -peki allahın bundan haberi var mı?-->
-<!-- bkz usta araştırmacı kürt düşmanı fetöcü tengir budun doğanın menzile savaş açması -->
-<!-- https://www.uludagsozluk.com/k/menzil-buhara-termal-otel-spa-ve-devrem%C3%BClk/ -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız-->
-<!-- https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=bg -->
-<!-- bkz ulucu çomar kamalcı gencin dinler toplumların afyonudur demesi -->
-<!-- bkz ulucu tayfun arkadaşları ona einstein diyor -->
-<!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
-<!-- bkz mansur yavaş ciğerimi söktün -->
-<!-- bkz yaşlı amcanın genç amasaya karşımda oturma kah demesi -->
-<!-- mariam webster in bülent eceviti kötülemesi -->
-<!-- bkz vekil incenin ince gördüğü ayar -->
-<!-- bkz kamalcıların yakışıklı siyasetçi sevdası -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bir-adam-m%C4%B1/ -->
-<!-- bkz kamalcılara türkçe öğretmek oksi moron nedir? bkz at fava bekle yaşlı amca -->
-<!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar salağı bir arada görmemiştim -->
-<!-- bkz kamalcı çomarlara türkçe öğretmek oksi moron nedir ? -->
-<!-- bkz kamalcı çomarların yaşlı adam/kadın yerine yaşlı amcA/teyze demesi sorunsalı-->
-<!-- https://www.uludagsozluk.com/e/42435486/ bkz yaşlı çomar amca -->
-<!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz kamalcıların barzo erkek aşkı -->
-<!-- bkz 300 peygamberi sayamayan götelek https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!--https://www.uludagsozluk.com/k/124-bin-peygamberin-isimlerini-veremeyen-tanr%C4%B1/&w=bg bkz say lan-->
-<!-- https://www.uludagsozluk.com/k/ozan-%C3%BCnsal/&w=bg bkz vur yiğidim dibime vur -->
-<!-- bkz kamalcıların beyni var mı sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc -->
-<!-- bkz tayyip erdoğanın ülkesinde adam gibi yaşamak vs kamalın iti olmak -->
-<!-- bkz batum milletvekilinin texas hold'em no limit oynadığı gerçeği  -->
-<!-- bkz 4.5 milayr yıllık dünya tarihinde dünya liderinin ülkesinde yaşama onuruna nsil olabilmek -->
-<!-- https://www.youtube.com/watch?v=8nIUdIabhdU bkz erkeklerden erkeklere adam gibi tavsiyeler -->
-<!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
-<!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var  https://www.youtube.com/watch?v=224nx8msD8k-->
-<!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinin google translate tweeti -->
+
 
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
