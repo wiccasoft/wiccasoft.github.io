@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- bkz geceye bir yakışıklı bırak -->
 <!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
+<!-- https://www.uludagsozluk.com/e/42436444/ bkz hz adam adam mıdır sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42436665/ bkz oğlum dayınla evlenip napacan  -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/ bkz 31 çektiğiniz en son erkek -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6mer-terzi/ bkz dadlı diline kurban -->
