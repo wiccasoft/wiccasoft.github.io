@@ -4,7 +4,7 @@
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
 <!-- https://www.uludagsozluk.com/e/42435469/ ar fava bekle yoklukta gideri var bro -->
 <!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinini google translate tweeti -->
-<!-- bkz ömer halisdemir in  adam mıdır sorunsalı -->
+<!-- https://www.uludagsozluk.com/e/42435476/ bkz ömer halisdemir in  adam mıdır sorunsalı -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
