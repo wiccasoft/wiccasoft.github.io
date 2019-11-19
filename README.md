@@ -9,6 +9,8 @@
 <!-- bkz mansur yavaş ciğerimi söktün -->
 <!-- mariam webster in bülent eceviti kötülemesi -->
 <!-- bkz vekil incenin ince gördüğü ayar -->
+<!-- bkz kamalcıların yakışıklı siyasetçi sevdası -->
+<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bir-adam-m%C4%B1/ -->
 <!-- bkz kamalcılara türkçe öğretmek oksi moron nedir? bkz at fava bekle yaşlı amca -->
 <!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar salağı bir arada görmemiştim -->
 <!-- bkz kamalcı çomarlara türkçe öğretmek oksi moron nedir ? -->
