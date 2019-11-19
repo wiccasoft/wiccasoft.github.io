@@ -7,7 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
 <!-- https://www.uludagsozluk.com/k/cem-%C3%B6%C4%9Fretir/&w=bg çok şey öğretir -->
-<!-- bkz çomarların inanacağı bi başlık aç  -->
+<!-- bkz kamalcıların inanacağı bir din uydur  -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız-->
 <!-- https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=bg -->
 <!-- bkz ulucu çomar kamalcı gencin dinler toplumların afyonudur demesi -->
