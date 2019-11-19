@@ -6,6 +6,8 @@
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
 
+ [![Image](smartdata/whatsupdoc.png)](  https://www.youtube.com/watch?v=q9RsiQSTrPA )
+
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
 
