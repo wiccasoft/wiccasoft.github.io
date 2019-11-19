@@ -7,6 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz mansur yavaş ciğerimi söktün -->
+<!-- bkz yaşlı amcanın genç amasaya karşımda oturma kah demesi -->
 <!-- mariam webster in bülent eceviti kötülemesi -->
 <!-- bkz vekil incenin ince gördüğü ayar -->
 <!-- bkz kamalcıların yakışıklı siyasetçi sevdası -->
