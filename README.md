@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
+<!-- bkz tayyip erdoğanın ülkesinde adam gibi yaşamak vs kamalın iti olmak -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU bkz erkeklerden erkeklere adam gibi tavsiyeler -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
 <!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var  https://www.youtube.com/watch?v=224nx8msD8k-->
