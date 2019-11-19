@@ -6,8 +6,9 @@
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
-<!-- bkz mansur yavaş ciğerimi söktün -->
-<!-- bkz batum milletvkilinin attığı tweet ->>
+<!-- bkz mansur yavaş ciğerimi söktün -->,
+<!-- bkz vekilin vekaletin bende haaaa demesi -->
+<!-- bkz batum vekilinin attığı tweet ->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz kamalcıların barzo erkek aşkı -->
 <!-- bkz 300 peygamberi sayamayan götelek https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!--https://www.uludagsozluk.com/k/124-bin-peygamberin-isimlerini-veremeyen-tanr%C4%B1/&w=bg bkz say lan-->
