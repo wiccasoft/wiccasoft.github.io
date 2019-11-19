@@ -3,9 +3,8 @@
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bir-adam-m%C4%B1/ bkz ceryanı var -->
-<!-- https://www.uludagsozluk.com/k/4-bu%C3%A7uk-milyar-y%C4%B1ll%C4%B1k-d%C3%BCnyada-akp-d%C3%B6neminde-do%C4%9Fmak/ -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
-<!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var bro https://www.youtube.com/watch?v=224nx8msD8k-->
+<!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var  https://www.youtube.com/watch?v=224nx8msD8k-->
 <!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinini google translate tweeti -->
 <!-- https://www.uludagsozluk.com/e/42435476/ bkz ömer halisdemir in  adam mıdır sorunsalı -->
 <!-- bkz rte nin 15 temmuz aslanları vs kamalın itleri -->
