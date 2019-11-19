@@ -6,7 +6,7 @@
 <!-- bkz iki tekerleği çekici yapan detaylar -->
 <!-- bkz arkadan çekişli erkeklerden önden çekşişli erkeklere tavsiyeler -->
 <!-- bkz sevmeyi bilmeyen erkeğin yüreğine sevgi koyan mümin -->
-<!-- bkz bağkur acısı çeknelerden bağsur acısı çekenlere tavsiyeler -->
+<!-- bkz bağkur acısı çekenlerden bağsur acısı çekenlere tavsiyeler -->
 
 
 
