@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- bkz geceye bir yakışıklı bırak -->
 <!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
+<!-- https://www.uludagsozluk.com/e/42436480/ bkz parayı veren düdüğü çalar -->
 <!-- https://www.uludagsozluk.com/e/42436444/ bkz hz adam adam mıdır sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42436665/ bkz oğlum dayınla evlenip napacan  -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/ bkz 31 çektiğiniz en son erkek -->
@@ -10,7 +11,6 @@
 <!-- https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat/&w=bg bkz kadınsı lezbiyen -->
 <!-- https://www.uludagsozluk.com/k/allah-%C4%B1n-en-b%C3%BCy%C3%BCk-hatas%C4%B1/ bkz muhammede güvenmesi-->
 <!-- https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz pasiflerin kel erkekleri maço bulması -->
-<!-- https://www.uludagsozluk.com/e/42436480/ bkz parayı veren düdüğü çalar -->
 <!-- bkz hayat bu ibnelere güzel amk kadınsız mis gibi yaşıyolar zaten-->
 <!-- https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg yine tüpe sokamadın kardeş -->
 <!-- https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam%C4%B1/ -->
