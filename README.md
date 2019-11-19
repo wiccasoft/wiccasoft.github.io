@@ -4,7 +4,6 @@
 <!-- https://www.uludagsozluk.com/k/aslan-burcu-erke%C4%9Fi/&w=gd bkz aslan gibi erkek -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Frekteki-mant%C4%B1k-hatas%C4%B1/ bkz batmandeki pelerinli ibne -->
 <!-- https://www.uludagsozluk.com/e/42433740/ bkz ibretlik -->
-<!-- https://www.uludagsozluk.com/k/hz-adem-in-boyunun-940-metre-olmas%C4%B1/ bkz kamalcıların neden böyle olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42436480/  bkz parayı basan falcoyu sürer -->
 <!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar gerizekalıyı bir arada görmemiştim -->
 
