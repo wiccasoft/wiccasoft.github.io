@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
+<!-- https://www.uludagsozluk.com/k/30-y%C4%B1ld%C4%B1r-sigara-i%C3%A7en-adam%C4%B1n-akci%C4%9Feri/ bkz duman avcıları -->
 <!-- bkz kamalcıların beyni var mı sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc -->
 <!-- bkz tayyip erdoğanın ülkesinde adam gibi yaşamak vs kamalın iti olmak -->
 <!-- bkz batum milletvekilinin texas hold'em no limit oynadığı gerçeği  -->
