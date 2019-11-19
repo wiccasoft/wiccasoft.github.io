@@ -1,6 +1,7 @@
  [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 <!--https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!--https://www.uludagsozluk.com/e/2996591/ bkzzeka ve sezgi -->
+<!--https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
+<!-- bkz who lets the dogs out https://www.youtube.com/watch?v=Qkuu0Lwb5EM -->
 <!-- https://www.uludagsozluk.com/k/aslan-burcu-erke%C4%9Fi/&w=gd bkz aslan gibi erkek -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Frekteki-mant%C4%B1k-hatas%C4%B1/ bkz batmandeki pelerinli ibne -->
 <!-- https://www.uludagsozluk.com/e/42433740/ bkz ibretlik -->
