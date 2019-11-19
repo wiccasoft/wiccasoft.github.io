@@ -8,6 +8,7 @@
 <!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
 <!-- https://www.uludagsozluk.com/k/cem-%C3%B6%C4%9Fretir/&w=bg çok şey öğretir -->
 <!-- bkz kamalcıların inanacağı bir din uydur  -->
+<!-- madem allah yok niye inkar ediyosunuz liseli ergenler-->
 <!-- bkz usta araştırmacı kürt düşmanı fetöcü tengir budun doğanın menzile savaş açması -->
 <!-- https://www.uludagsozluk.com/k/menzil-buhara-termal-otel-spa-ve-devrem%C3%BClk/ -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız-->
