@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- bkz geceye bir yakışıklı bırak -->
 <!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
+<!-- https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz pasiflerin kel erkekleri maço bulması -->
 <!-- https://www.uludagsozluk.com/e/42436480/ bkz parayı veren düdüğü çalar -->
 <!-- bkz hayat bu ibnelere güzel amk kadınsız mis gibi yaşıyolar zaten-->
 <!-- https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg yine tüpe sokamadın kardeş -->
