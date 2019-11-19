@@ -7,7 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
 <!-- https://www.uludagsozluk.com/k/cem-%C3%B6%C4%9Fretir/&w=bg çok şey öğretir -->
-<!-- bkz isyankarateist26 tanrıya meydan okudu -->
+<!-- bkz isyankarateist26 tanrıya meydan okudu https://www.youtube.com/watch?v=exdjlYaYJE8-->
 <!-- bkz kamalcıların inanacağı bir din uydur  -->
 <!-- bkz madem allah yok niye inkar ediyosunuz liseli ergenler-->
 <!-- bkz allaha inanamıyorum -peki allahın bundan haberi var mı?-->
