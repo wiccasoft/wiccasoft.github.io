@@ -1,8 +1,9 @@
  [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
-<!--https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!--https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
+<!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
+<!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
 <!-- bkz geceye bir yakışıklı bırak -->
-<!-- bkz homoseksüellerin kadın gibi bi problemininin olmaması haya bu ibneler güzel amk
+<!-- https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg yine tüpe sokamadın kardeş -->
+<!-- bkz homoseksüellerin kadın gibi bi problemininin olmaması hayat bu ibneler güzel amk -->
 <!-- https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam%C4%B1/ -->
 <!-- bkz who lets the dogs out https://www.youtube.com/watch?v=Qkuu0Lwb5EM -->
 <!-- https://www.uludagsozluk.com/k/aslan-burcu-erke%C4%9Fi/&w=gd bkz aslan gibi erkek -->
