@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- bkz geceye bir yakışıklı bırak -->
 <!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
-<!-- https://www.uludagsozluk.com/k/kellik-babadan-m%C4%B1-geliyor-day%C4%B1dan-m%C4%B1-sorunsal%C4%B1/ -->
+<!-- https://www.uludagsozluk.com/e/42436665/ bkz bi sorunsal saç mı ektirsem  -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/ bkz 31 çektiğiniz en son erkek -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6mer-terzi/ bkz dadlı diline kurban -->
 <!-- https://www.uludagsozluk.com/e/42435321/ bkz bi gülüşü var sanki şampiyonlar ligi -->
