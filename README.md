@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- bkz tayyip erdoğanın ülkesinde adam gibi yaşamak vs kamalın iti olmak -->
-<!-- bkz batum milletvekilinin texas hold'em no limit oynadığı gerçeği  https://www.youtube.com/watch?v=224nx8msD8k- -->
+<!-- bkz batum milletvekilinin texas hold'em no limit oynadığı gerçeği  https://www.youtube.com/watch?v=nbvrhb33Ggs -->
 <!-- bkz 4.5 milayr yıllık dünya tarihinde dünya liderinin ülkesinde yaşama onuruna nsil olabilmek -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU bkz erkeklerden erkeklere adam gibi tavsiyeler -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
