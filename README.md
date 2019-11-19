@@ -2,14 +2,10 @@
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-bir-adam-m%C4%B1/ bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
 <!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var  https://www.youtube.com/watch?v=224nx8msD8k-->
-<!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinini google translate tweeti -->
-<!-- https://www.uludagsozluk.com/e/42435476/ bkz ömer halisdemir in  adam mıdır sorunsalı -->
-<!-- bkz rte nin 15 temmuz aslanları vs kamalın itleri -->
-<!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz yeni münevver vakası -->
-<!-- bkz türk kızların barzo erkek sevdasının türkiyeyi getirdiği nokta https://www.youtube.com/watch?v=224nx8msD8k -->
+<!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinin google translate tweeti -->
+
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
