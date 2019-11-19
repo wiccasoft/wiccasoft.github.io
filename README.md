@@ -6,7 +6,8 @@
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
-<!-- bkz mansur yavaş ciğerimi söktün -->,
+<!-- bkz mansur yavaş ciğerimi söktün -->
+<!-- bkz vekil incenin ince gördüğü ayar -->
 <!-- bkz vekilin vekaletin bende haaaa demesi -->
 <!-- bkz batum vekilinin attığı tweet ->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz kamalcıların barzo erkek aşkı -->
