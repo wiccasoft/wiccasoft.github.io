@@ -8,6 +8,7 @@
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz mansur yavaş ciğerimi söktün -->
 <!-- bkz vekil incenin ince gördüğü ayar -->
+<!-- bkz kamalcılara türkçe öüretmek oksi moro nedir? -->
 <!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar salağı bir arada görmemiştim -->
 <!-- bkz kamalcı çomarlara türkçe öğretmek oksi moron nedir ? -->
 <!-- bkz kamalcı çomarların yaşlı adam/kadın yerine yaşlı amcA/teyze demesi sorunsalı-->
