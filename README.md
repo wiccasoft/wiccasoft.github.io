@@ -1,6 +1,7 @@
 <!-- [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=L0K6Cb1ZoG4 )-->
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
+<!-- https://www.youtube.com/watch?v=CXA5r1NSUkY -->
 <!-- https://www.uludagsozluk.com/e/42431552/ at fava bekle bro bkz hz isa nın kürt olması -->
 <!-- https://www.uludagsozluk.com/e/42435469/ yoklukta gideri var bro https://www.youtube.com/watch?v=224nx8msD8k-->
 <!-- https://www.uludagsozluk.com/e/42434941/ bkz batum milletvekilinini google translate tweeti -->
