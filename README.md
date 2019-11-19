@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=q9RsiQSTrPA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
-<!-- bkz kamalcıların akp olmasa nasıl trollük yapacağı gerçeği -->
+<!-- bkz kamalcıların beyni var mı sorunsalı -->
 <!-- bkz tayyip erdoğanın ülkesinde adam gibi yaşamak vs kamalın iti olmak -->
 <!-- bkz batum milletvekilinin texas hold'em no limit oynadığı gerçeği  https://www.youtube.com/watch?v=nbvrhb33Ggs -->
 <!-- bkz 4.5 milayr yıllık dünya tarihinde dünya liderinin ülkesinde yaşama onuruna nsil olabilmek -->
