@@ -5,6 +5,7 @@
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz adamın karekökü -->
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
+<!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz kamalcıların beyni var mı sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc -->
 <!-- bkz tayyip erdoğanın ülkesinde adam gibi yaşamak vs kamalın iti olmak -->
 <!-- bkz batum milletvekilinin texas hold'em no limit oynadığı gerçeği  -->
