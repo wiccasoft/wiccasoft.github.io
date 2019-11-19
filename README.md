@@ -6,7 +6,7 @@
 <!-- https://www.youtube.com/watch?v=CXA5r1NSUkY bkz ceryanı var -->
 <!-- https://www.uludagsozluk.com/e/42435207/ bkz duman avcıları -->
 <!-- https://www.uludagsozluk.com/e/42435816/ bkz gözleri erkek diye gülen surat -->
-<!-- bkz atayıst gencin dinler toplumların afyonudur demesi -->
+<!-- bkz ulucu çomar kamalcı gencin dinler toplumların afyonudur demesi -->
 <!-- bkz tayyip erdoğanın beni seviyosanız içemeyin şu meredi demesi -->
 <!-- bkz mansur yavaş ciğerimi söktün -->
 <!-- bkz yaşlı amcanın genç amasaya karşımda oturma kah demesi -->
