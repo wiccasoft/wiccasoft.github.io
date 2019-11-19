@@ -3,7 +3,7 @@
 <!-- bkz geceye bir yakışıklı bırak -->
 <!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/ bkz 31 çektiğiniz en son erkek -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6mer-terzi/ bkz dadtlı diline kurban -->
+<!-- https://www.uludagsozluk.com/k/%C3%B6mer-terzi/ bkz dadlı diline kurban -->
 <!-- https://www.uludagsozluk.com/e/42435321/ bkz bi gülüşü var sanki şampiyonlar ligi -->
 <!-- https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat/&w=bg bkz kadınsı lezbiyen -->
 <!-- https://www.uludagsozluk.com/k/allah-%C4%B1n-en-b%C3%BCy%C3%BCk-hatas%C4%B1/ bkz muhammede güvenmesi-->
