@@ -1,12 +1,5 @@
  [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=MuWwCUXGzWE )
 <!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
-<!-- bkz geceye bir yakışıklı bırak -->
-<!-- https://www.uludagsozluk.com/e/2996591/ bkz zeka ve sezgi -->
-<!-- https://www.uludagsozluk.com/e/42436049/ lol -->
-<!-- https://www.uludagsozluk.com/e/42436798/ bkz o göte bülbül öte
-<!-- https://www.uludagsozluk.com/e/42436480/ bkz parayı veren düdüğü çalar -->
-<!-- https://www.uludagsozluk.com/e/42436444/ bkz hz adam adam mıdır sorunsalı -->
-
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
