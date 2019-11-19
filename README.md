@@ -5,21 +5,7 @@
 <!-- https://www.uludagsozluk.com/e/42436049/ lol -->
 <!-- https://www.uludagsozluk.com/e/42436480/ bkz parayı veren düdüğü çalar -->
 <!-- https://www.uludagsozluk.com/e/42436444/ bkz hz adam adam mıdır sorunsalı -->
-<!-- https://www.uludagsozluk.com/e/42436665/ bkz oğlum dayınla evlenip napacan  -->
-<!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/ bkz 31 çektiğiniz en son erkek -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6mer-terzi/ bkz dadlı diline kurban -->
-<!-- https://www.uludagsozluk.com/e/42435321/ bkz bi gülüşü var sanki şampiyonlar ligi -->
-<!-- https://www.uludagsozluk.com/k/masterchef-r%C4%B1fat/&w=bg bkz kadınsı lezbiyen -->
-<!-- https://www.uludagsozluk.com/k/allah-%C4%B1n-en-b%C3%BCy%C3%BCk-hatas%C4%B1/ bkz muhammede güvenmesi-->
-<!-- https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz pasiflerin kel erkekleri maço bulması -->
-<!-- bkz hayat bu ibnelere güzel amk kadınsız mis gibi yaşıyolar zaten-->
-<!-- https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg yine tüpe sokamadın kardeş -->
-<!-- https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-adam%C4%B1/ -->
-<!-- bkz who lets the dogs out https://www.youtube.com/watch?v=Qkuu0Lwb5EM -->
-<!-- https://www.uludagsozluk.com/k/aslan-burcu-erke%C4%9Fi/&w=gd bkz aslan gibi erkek -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Frekteki-mant%C4%B1k-hatas%C4%B1/ bkz batmandeki pelerinli ibne -->
-<!-- https://www.uludagsozluk.com/e/42433740/ bkz ibretlik -->
-<!-- https://www.uludagsozluk.com/e/42435130/g bkz bu kadar gerizekalıyı bir arada görmemiştim -->
+
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=mSMycoGOKps&list=PL35Z5LlsgPLN2pHc66K1xROnr_b1_e6jW -->
