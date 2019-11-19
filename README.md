@@ -2,10 +2,12 @@
 <!-- https://www.youtube.com/watch?v=mLB937pCKZA -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=8nIUdIabhdU -->
+<!-- https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!-- bkz iki tekerleği çekici yapan detaylar -->
 <!-- bkz arkadan çekişli erkeklerden önden çekşişli erkeklere tavsiyeler -->
 <!-- bkz sevmeyi bilmeyen erkeğin yüreğine sevgi koyan mümin -->
 <!-- bkz bağkur acısı çeknelerden bağsur acısı çekenlere tavsiyeler -->
+
 
 
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
