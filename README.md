@@ -10,6 +10,7 @@
 <!-- bkz vekil incenin ince gördüğü ayar -->
 <!-- bkz vekilin vekaletin bende haaaa demesi -->
 <!-- bkz batum vekilinin attığı tweet ->
+<!-- https://www.uludagsozluk.com/e/42435486/ bkz yaşlı çomar amca -->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCleda-cankel/ bkz kamalcıların barzo erkek aşkı -->
 <!-- bkz 300 peygamberi sayamayan götelek https://www.youtube.com/watch?v=exdjlYaYJE8 -->
 <!--https://www.uludagsozluk.com/k/124-bin-peygamberin-isimlerini-veremeyen-tanr%C4%B1/&w=bg bkz say lan-->
