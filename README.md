@@ -1,7 +1,8 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- bkz koskoca merve gelini savunana devlet -->
-  <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
+ <!-- bkz batmanin pelerinle merveyi ziyareti --->
+ <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
  <!-- bkz devlet başa kuzgun leşe -->
  <!-- https://www.uludagsozluk.com/k/robert-lewandowski/&w=bg bkz hagi mi lewansoski mi falco mu -->
  <!-- https://www.uludagsozluk.com/k/devlet-hastanesinin-acilinde-k%C3%B6p%C3%BCk-partisi-ve-seks/-->
