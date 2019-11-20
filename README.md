@@ -2,7 +2,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- bkz devlet başa kuzgun leşe -->
  <!-- bkz karaoğlan vs devlet bahçeli -->
- <!-- bkz e devletin hatası https://www.youtube.com/watch?v=ktmzyChfPmk -->
+ <!-- bkz devletin error vermesi https://www.youtube.com/watch?v=ktmzyChfPmk -->
  <!-- https://eksisozluk.com/e-devletten-bakip-ermeni-oldugunu-ogrenmek--5566022 -->
  <!-- bkz aslan akbeyin devlet sırlarını fetögercekleri.com a satması -->
  <!-- bkz fetögerçekleri.com u hackleyip devlet başa kuzgun leşe yazmak -->
