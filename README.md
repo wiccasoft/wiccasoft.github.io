@@ -1,6 +1,8 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- bkz koskoca merve gelini savunana devlet -->
+ <!-- bkz devlet başa kuzgun leşe -->
+ <!-- https://www.uludagsozluk.com/k/devlet-hastanesinin-acilinde-k%C3%B6p%C3%BCk-partisi-ve-seks/-->
  <!-- bkzhagi mi alex mi  https://eksisozluk.com/hagi-mi-alex-mi--2110033
  <!-- bkz merve gelinin jokerin makyaj malzemelirini kullanması -->
  <!-- https://www.uludagsozluk.com/k/kep%C3%A7e-ile-ameleye-pandik-atan-adam/ bkz mümin latifesi -->
