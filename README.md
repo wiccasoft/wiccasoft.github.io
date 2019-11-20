@@ -1,7 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- bkz koskoca merve gelini savunana devlet -->
- <!-- bkz batmanin karçarşaflıları jokerin kamalcı kokona teyzeleri temsil etmesi -->
+ <!-- bkz batmanin kara çarşaflıları jokerin kamalcı kokona teyzeleri temsil etmesi -->
  <!-- bkz batmanin kara çarşaflı bi yobaz olma ihtimali --->
  <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
  <!-- bkz devlet başa kuzgun leşe -->
