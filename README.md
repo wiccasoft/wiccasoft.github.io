@@ -2,7 +2,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- bkz devlet başa kuzgun leşe -->
  <!-- bkz karaoğlan vs devlet bahçeli -->
- <!-- bkz fuat avnnini karaoğlanı tahdit ettiği tweet -->
+ <!-- bkz aslan akbeyin devlet sırlarını fetögercekleri.com a satması -->
  <!-- bkz fetögerçekleri.com u hackleyip devlet başa kuzgun leşe yazmak -->
  <!-- bkz geceleri beliren fuıat avni tipli ülkücüler https://www.uludagsozluk.com/e/42440575/ -->
  <!-- bkz koskoca merve gelini savunana devlet -->
