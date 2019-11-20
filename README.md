@@ -9,6 +9,7 @@
 <!-- https://www.youtube.com/watch?v=ZQqRiqjBQeo -->
 
 [![Image](smartdata/whatsupdoc.png)](  https://www.youtube.com/watch?v=q9RsiQSTrPA )
+<!-- https://www.youtube.com/watch?v=b1XmPAIHZkk -->
 
 [![Image](smartdata/xerox.png)]( https://www.youtube.com/watch?v=llZWUutejao )
 
