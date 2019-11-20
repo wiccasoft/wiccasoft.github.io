@@ -1,7 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
- <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-kenter-in-yak%C4%B1lmay%C4%B1-vasiyet-etmesi/&w=gd bkz yansın ibne su veren itfaiyyenin -->
+ <!-- https://eksisozluk.com/karisinin-kyk-borcunu-odeyen-erkek--5939332?a=popular bkz kyk ney lan -->
 <!-- https://www.uludagsozluk.com/k/koca-devletin-k%C3%B6yl%C3%BC-emmi-gibi-define-aramas%C4%B1/&w=gd lol -->
 <!-- https://www.uludagsozluk.com/k/senin-g%C3%B6t%C3%BCn-bizim-aile-%C5%9Ferefimizden-daha-m%C4%B1-%C3%B6nemli/&w=bg lol -->
 <!-- https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-%C3%B6ld%C3%BCren-erkeklerden-ho%C5%9Flanmas%C4%B1/&w=gd lol -->
