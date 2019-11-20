@@ -1,6 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.uludagsozluk.com/k/koca-devletin-k%C3%B6yl%C3%BC-emmi-gibi-define-aramas%C4%B1/&w=gd lol -->
+<!-- https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-%C3%B6ld%C3%BCren-erkeklerden-ho%C5%9Flanmas%C4%B1/&w=gd lol -->
  
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
