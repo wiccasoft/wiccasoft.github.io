@@ -1,22 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
- <!-- bkz devlet başa kuzgun leşe -->
- <!-- bkz karaoğlan vs devlet bahçeli -->
- <!-- bkz devletin error vermesi https://www.youtube.com/watch?v=ktmzyChfPmk -->
- <!-- https://eksisozluk.com/e-devletten-bakip-ermeni-oldugunu-ogrenmek--5566022 -->
- <!-- bkz aslan akbeyin devlet sırlarını fetögercekleri.com a satması -->
- <!-- bkz fetögerçekleri.com u hackleyip devlet başa kuzgun leşe yazmak -->
- <!-- bkz koskoca merve gelini savunan devlet -->
- <!-- bkz batmanin kara çarşaflıları jokerin kamalcı kokona teyzeleri temsil etmesi -->
- <!-- bkz batmanin şehirde kara çarşaflı gezme sebebi --->
- <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan-->
- <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başartamayacaksınız -->
- <!-- https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay%C4%B1n-y%C3%BCrek-yemi%C5%9F-olmas%C4%B1/ bkz bah hele bah -->
- <!-- https://www.uludagsozluk.com/e/42440396/ bkz ihtiyaçlar piramidi 1 yemek 2 seks 3 lüks -->
- <!-- bkz öcü gibi korkuyorlar siyasal islamcı merve bacımdan https://www.youtube.com/watch?v=TtJjSVIw-Uo -->
- <!-- https://eksisozluk.com/entry/98032416 bkz yurt çıkışı kıza kredi ısmarlamak --> 
- <!-- bkz karısının khk borçlarını ödemeyen kılışdar erkek-->
- <!--https://www.uludagsozluk.com/k/vahdettin-ve-k%C4%B1l%C4%B1%C5%9Fdar-benzerli%C4%9Fi/ bkz ssk yı batırıp yunanistana kaçmak -->
+
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
