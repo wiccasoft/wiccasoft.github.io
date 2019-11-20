@@ -6,7 +6,6 @@
  <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan-->
  <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başartamayacaksınız -->
  <!-- https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay%C4%B1n-y%C3%BCrek-yemi%C5%9F-olmas%C4%B1/ bkz bah hele bah -->
- <!-- https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz adam gibi adam kıpçak soyundan -->
  <!-- https://www.uludagsozluk.com/e/42440396/ bkz ihtiyaçlar piramidi 1 yemek 2 seks 3 lüks -->
  <!-- bkz öcü gibi korkuyorlar siyasal islamcı merve bacımdan https://www.youtube.com/watch?v=TtJjSVIw-Uo -->
  <!-- https://eksisozluk.com/entry/98032416 bkz yurt çıkışı kıza kredi ısmarlamak --> 
