@@ -1,6 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
+ <!-- bkz münevver karabulutun efendi yerine piç erkek tercihi -->
  <!-- bkz münevver karabulut kesik kafasıyla kameralara size ne erkeğim ister keser ister biçer dedi -->
  <!-- bkz akp nin mason localarını kapatmaması -->
  <!-- bkz mason olduğunu gizlemeyen ünlü sanatçı magazin d kameralarına böyle poz verdi -->
