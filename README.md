@@ -1,6 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
- <!-- bkz karısının khk borçlarını ödeyen erkek-->
+ <!-- bkz karısının khk borçlarını ödemeyen kılışdar erkek-->
  <!--https://www.uludagsozluk.com/k/vahdettin-ve-k%C4%B1l%C4%B1%C5%9Fdar-benzerli%C4%9Fi/ bkz ssk yı batırıp yunanistana kaçmak -->
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
