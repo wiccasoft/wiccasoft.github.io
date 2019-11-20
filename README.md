@@ -2,6 +2,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
  <!-- bkz akp nin mason localarını kapatmaması -->
+ <!-- bkz mason olduğunu gizlemeyen sanatçı magazin d kameralarına böyle poz verdi -->
  <!-- bkz ünlü mason kameralara ateş püskürdü -->
  <!-- bkz sürat kargo nun kargonun içine kurbağa koyarak yaptığı terbiyesizlik -->
  <!-- bkz sevilen ünlü mason şarkıcı mikronfanlara ateş püszkürdü --> 
