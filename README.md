@@ -1,15 +1,5 @@
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
-<!-- https://eksisozluk.com/senin-gotun-bizim-aile-serefimizden-daha-mi-onemli--6252691?a=popular bkz lol -->
-<!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-kenter/ bkz sevenleri onu sonsuz yolculuğuna uğruladı -->
-<!-- bkz sabah mezarlıkta zıplayan şu çetle mehmet ali erbil görmek -->
-<!-- https://www.youtube.com/watch?v=ZjGh-E6_DM4 bkz kabrime gelmeyin istemem istemem -->
-<!-- https://eksisozluk.com/1-55-boyunda-zeki-esprili-yakisikli-kulturlu-erkek--6252871 bkz benden 2 inch uzun erkek -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/ bkz kızların piç yerine atatürk tercihi -->
-<!-- https://www.uludagsozluk.com/k/fatih-terim-vs-%C5%9Fenol-g%C3%BCne%C5%9F-vs-ersun-yanal/ bkz üçün biri -->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz adamın hammaddesi -->
-<!-- https://www.uludagsozluk.com/k/hz-adem-in-boyunun-940-metre-olmas%C4%B1/&w=gd bkz adam gibi adam-->
-<!-- şukunu verdim piç -->
-<!-- https://eksisozluk.com/entry/98003166 lol  -->
+
 
 [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=8cW8kAFbnik )
 <!-- https://www.youtube.com/watch?v=MuWwCUXGzWE otto -->
