@@ -1,5 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
+ <!-- bkz geceleri beliren fuıat avni tipli ülkücüler https://www.uludagsozluk.com/e/42440575/ -->
  <!-- bkz koskoca merve gelini savunana devlet -->
  <!-- bkz batmanin kara çarşaflıları jokerin kamalcı kokona teyzeleri temsil etmesi -->
  <!-- bkz batmanin şehirde kara çarşaflı gezme sebebi --->
