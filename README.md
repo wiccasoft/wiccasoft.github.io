@@ -9,7 +9,7 @@
 <!-- https://www.youtube.com/watch?v=MuWwCUXGzWE otto -->
 <!-- https://www.youtube.com/watch?v=eUWy54la_6g -->
 
-<!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
+ [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )
 <!-- https://www.youtube.com/watch?v=ZQqRiqjBQeo -->
 
 <!-- [![Image](smartdata/whatsupdoc.png)](  https://www.youtube.com/watch?v=q9RsiQSTrPA )-->
