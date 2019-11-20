@@ -1,5 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
+ <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
  
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
