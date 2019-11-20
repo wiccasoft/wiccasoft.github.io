@@ -2,6 +2,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
  <!-- bkz akp nin mason localarını kapatmaması -->
+ <!-- bkz fatih terimin mason olduğu gerçeği -->
  <!-- bkz sevilen ünlü mason şarkıcı mikronfanlara ateş püszkürdü --> 
  <!-- https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-t%C3%BCrk-masonlar%C4%B1/&w=bg bkz hem ünlü hem masonlar galeriğe tıklağ -->
  
