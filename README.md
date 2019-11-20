@@ -1,7 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
- <!-- bkz kamalcıların devleti çok kutsaması sorunsalı madem niye komunistleri dövdünüz lan -->
+ <!-- bkz kamalcıların devleti çok kutsaması sorunsalı madem niye komunistleri kovdunuz lan-->
  <!-- bkz bafdehan alçının haklı olduğu gerçeği devlet kutsal değildir -->
  <!-- bkz verdiği vergilerin ezana gitmediğini anlayınca göt olan devletçiler -->
  <!-- https://www.uludagsozluk.com/k/koca-devletin-k%C3%B6yl%C3%BC-emmi-gibi-define-aramas%C4%B1/ bkz lol -->
