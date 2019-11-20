@@ -3,9 +3,6 @@
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-kenter/ bkz tanımadığı adama iyi adamdı yazan tipler -->
 <!-- https://eksisozluk.com/1-55-boyunda-zeki-esprili-yakisikli-kulturlu-erkek--6252871 bkz benden 2 inch uzun erkek -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/ bkz kızların piç yerine atatürk tercihi -->
-<!-- bkz 149 boyunda esprisiz yakışıksız kültürsüz aptal erkek -->
-<!-- bkz minik serçe gibi bi erkek olmak -->
-<!-- bkz bütün kötü genetik özellikleri üstünde toplamak -->
 <!-- https://www.uludagsozluk.com/k/fatih-terim-vs-%C5%9Fenol-g%C3%BCne%C5%9F-vs-ersun-yanal/ bkz üçün biri -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz adamın hammaddesi -->
 <!-- https://www.uludagsozluk.com/k/hz-adem-in-boyunun-940-metre-olmas%C4%B1/&w=gd bkz adam gibi adam-->
