@@ -1,6 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
+ <!-- https://www.uludagsozluk.com/k/chp-yi-%C3%BC%C3%A7-kelimeyle-%C3%B6zetle/ bkz cünup piçler partisi-->
  <!-- https://eksisozluk.com/20-kasim-2019-baris-atayin-devleti-tehdit-etmesi--6253310?a=popular bkz devlet kim amk -->
  <!-- https://eksisozluk.com/merve-gelinin-led-isikli-davullu-luks-kinasi--6253195?a=popular açmayın korkunçlu karı -->
  <!-- bkz münevver karabulutun efendi yerine piç erkek tercihi https://www.youtube.com/watch?v=7LlA8lQ52W8 -->
