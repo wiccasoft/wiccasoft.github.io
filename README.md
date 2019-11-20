@@ -1,7 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
- <!-- https://www.uludagsozluk.com/k/merve-gelinin-led-%C4%B1%C5%9F%C4%B1kl%C4%B1-davullu-l%C3%BCks-k%C4%B1nas%C4%B1/ bkz yaşasın merve gelinin ışıklı yolu öcü gibi korkuyorlar merve bacımdan --->
+ <!-- https://www.uludagsozluk.com/k/merve-gelinin-led-%C4%B1%C5%9F%C4%B1kl%C4%B1-davullu-l%C3%BCks-k%C4%B1nas%C4%B1/ bkz yaşasın merve gelinin ışıklı yolu öcü gibi korkuyorlar merve bacımdan -->
  <!-- https://eksisozluk.com/karisinin-kyk-borcunu-odeyen-erkek--5939332?a=popular bkz kyk ney lan -->
  <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bşaramayacaksınız -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-fotosunun-%C3%B6n%C3%BCnde-%C3%A7ocuklara-secde-ettirmek/&w=bg bkz şirk -->
