@@ -1,5 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
+ <!-- https://www.uludagsozluk.com/k/kep%C3%A7e-ile-ameleye-pandik-atan-adam/ bkz mümin latifesi -->
  <!-- bkz tc cumhurbaşkanlığının merve bacımızı yedirmeyiz postu -->
  <!-- https://www.uludagsozluk.com/k/koskoca-cumhuriyeti-fet%C3%B6-ya-teslim-eden-parti/&w=bg -->
  <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
