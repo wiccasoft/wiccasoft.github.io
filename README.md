@@ -1,6 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
+ <!-- bkz mason locasına kaydolup masonum diyer hava atmak -->
  <!-- https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-t%C3%BCrk-masonlar%C4%B1/&w=bg bkz hem ünlü hem masonlar galeriğe tıklağ -->
  
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
