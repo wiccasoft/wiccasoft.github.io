@@ -1,6 +1,7 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
- 
+ <!-- bkz tc cumhurbaşkanlığının merve bacımızı yedirmeyiz postu -->
+ <!-- https://www.uludagsozluk.com/k/koskoca-cumhuriyeti-fet%C3%B6-ya-teslim-eden-parti/&w=bg -->
  <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
  <!-- bkz süleyman soylunun uyuşturucu satanlarını ayaklarını kırın emri -->
  <!-- https://www.uludagsozluk.com/k/hz-ai%C5%9Fe/&w=bg bkz hz fatma nın tren yaptığı eltisi -->
