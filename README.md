@@ -1,6 +1,7 @@
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
 <!-- https://eksisozluk.com/senin-gotun-bizim-aile-serefimizden-daha-mi-onemli--6252691?a=popular bkz lol -->
-<!-- https://eksisozluk.com/1-55-boyunda-zeki-esprili-yakisikli-kulturlu-erkek--6252871?a=popular bkz benden 5 cm uzun erkek -->
+<!-- https://eksisozluk.com/1-55-boyunda-zeki-esprili-yakisikli-kulturlu-erkek--6252871?a=popular bkz benden 2 inch uzun erkek -->
+<!-- https://www.uludagsozluk.com/k/hz-adem-in-boyunun-940-metre-olmas%C4%B1/&w=gd bkz adam gibi adam-->
 <!-- https://eksisozluk.com/entry/98003166 lol  -->
 
 [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=8cW8kAFbnik )
