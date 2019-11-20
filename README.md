@@ -1,6 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
- 
+ <!-- bkz karısının khk borçlarını ödeyen erkek-->
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
