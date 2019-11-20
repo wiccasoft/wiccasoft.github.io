@@ -1,7 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
- <!-- bk< öxcü gibi korkuyorlar siyasal islamcı merve bacımdan https://www.youtube.com/watch?v=TtJjSVIw-Uo -->
- <!-- https://eksisozluk.com/merve-gelinin-led-isikli-davullu-luks-kinasi--6253195?a=popular bkz siyasal düğün -->
+ <!-- bkz öcü gibi korkuyorlar siyasal islamcı merve bacımdan https://www.youtube.com/watch?v=TtJjSVIw-Uo -->
  <!-- https://eksisozluk.com/entry/98032416 bkz yurt çıkışı kıza kredi ısmarlamak --> 
  <!-- bkz karısının khk borçlarını ödemeyen kılışdar erkek-->
  <!--https://www.uludagsozluk.com/k/vahdettin-ve-k%C4%B1l%C4%B1%C5%9Fdar-benzerli%C4%9Fi/ bkz ssk yı batırıp yunanistana kaçmak -->
