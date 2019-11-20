@@ -6,8 +6,7 @@
  <!-- https://eksisozluk.com/e-devletten-bakip-ermeni-oldugunu-ogrenmek--5566022 -->
  <!-- bkz aslan akbeyin devlet sırlarını fetögercekleri.com a satması -->
  <!-- bkz fetögerçekleri.com u hackleyip devlet başa kuzgun leşe yazmak -->
- <!-- bkz geceleri beliren fuıat avni tipli ülkücüler https://www.uludagsozluk.com/e/42440575/ -->
- <!-- bkz koskoca merve gelini savunana devlet -->
+ <!-- bkz koskoca merve gelini savunan devlet -->
  <!-- bkz batmanin kara çarşaflıları jokerin kamalcı kokona teyzeleri temsil etmesi -->
  <!-- bkz batmanin şehirde kara çarşaflı gezme sebebi --->
  <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan-->
