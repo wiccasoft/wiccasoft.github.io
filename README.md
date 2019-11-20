@@ -1,6 +1,7 @@
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
 <!-- https://eksisozluk.com/senin-gotun-bizim-aile-serefimizden-daha-mi-onemli--6252691?a=popular bkz lol -->
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-kenter/ bkz sevenleri onu sonsuz yolculuğuna uğruladı -->
+<!-- bkz sabah mezarlıkta zıplayan şu çet götmek -->
 <!-- https://www.youtube.com/watch?v=ZjGh-E6_DM4 bkz kabrime gelmeyin istemem istemem -->
 <!-- https://eksisozluk.com/1-55-boyunda-zeki-esprili-yakisikli-kulturlu-erkek--6252871 bkz benden 2 inch uzun erkek -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/ bkz kızların piç yerine atatürk tercihi -->
