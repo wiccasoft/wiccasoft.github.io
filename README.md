@@ -1,5 +1,6 @@
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
 <!-- https://eksisozluk.com/senin-gotun-bizim-aile-serefimizden-daha-mi-onemli--6252691?a=popular bkz lol -->
+<!-- https://eksisozluk.com/1-55-boyunda-zeki-esprili-yakisikli-kulturlu-erkek--6252871 bkz benden 2 inch uzun erkek -->
 <!-- https://www.uludagsozluk.com/k/fatih-terim-vs-%C5%9Fenol-g%C3%BCne%C5%9F-vs-ersun-yanal/ bkz üçün biri -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz adamın hammaddesi -->
 <!-- https://www.uludagsozluk.com/k/hz-adem-in-boyunun-940-metre-olmas%C4%B1/&w=gd bkz adam gibi adam-->
