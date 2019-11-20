@@ -12,10 +12,10 @@
 <!-- [![Image](smartdata/whatsupdoc.png)]( https://www.youtube.com/watch?v=qmV5MW_XAtg )-->
 <!-- https://www.youtube.com/watch?v=ZQqRiqjBQeo -->
 
-[![Image](smartdata/whatsupdoc.png)](  https://www.youtube.com/watch?v=q9RsiQSTrPA )
+<!-- [![Image](smartdata/whatsupdoc.png)](  https://www.youtube.com/watch?v=q9RsiQSTrPA )-->
 <!-- https://www.youtube.com/watch?v=b1XmPAIHZkk -->
 
-[![Image](smartdata/xerox.png)]( https://www.youtube.com/watch?v=llZWUutejao )
+<!--[![Image](smartdata/xerox.png)]( https://www.youtube.com/watch?v=llZWUutejao )-->
 
 [![Image](smartdata/sun-out-mercury.png)]( https://www.youtube.com/watch?v=nlnrOr2STaE )
 <!-- https://earthsky.org/tonight/transit-of-mercury-on-november-11-2019  -->
