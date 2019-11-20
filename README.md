@@ -2,7 +2,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
  <!-- https://www.uludagsozluk.com/k/merve-gelinin-led-%C4%B1%C5%9F%C4%B1kl%C4%B1-davullu-l%C3%BCks-k%C4%B1nas%C4%B1/ bkz yaşasın merve gelinin ışıklı yolu öcü gibi korkuyorlar merve bacımdan https://www.youtube.com/watch?v=TtJjSVIw-Uo -->
- <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ bşaramayacaksınız -->
+ <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
 <!-- https://www.uludagsozluk.com/k/koca-devletin-k%C3%B6yl%C3%BC-emmi-gibi-define-aramas%C4%B1/&w=gd lol -->
 
  
