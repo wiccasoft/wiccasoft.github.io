@@ -1,4 +1,5 @@
  [![Image](smartdata/Last-Quarter.png)]( https://www.youtube.com/watch?v=HjK30nhy7CU )
+<!-- https://eksisozluk.com/senin-gotun-bizim-aile-serefimizden-daha-mi-onemli--6252691?a=popular bkz lol -->
 
 [![Image](smartdata/second.png)]( https://www.youtube.com/watch?v=8cW8kAFbnik )
 <!-- https://www.youtube.com/watch?v=MuWwCUXGzWE otto -->
