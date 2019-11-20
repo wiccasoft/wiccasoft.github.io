@@ -3,6 +3,7 @@
  <!-- https://www.uludagsozluk.com/e/42437307/ lol -->
  <!-- bkz kamalcıların devleti çok kutsaması sorunsalı madem niye komunistleri dövdünüz lan -->
  <!-- bkz bafdehan alçının haklı olduğu gerçeği devlet kutsal değildir -->
+ <!-- bkz verdiği vergilerin ezana gitmediğini anlayınca göt olan devletçiler -->
  <!-- https://www.uludagsozluk.com/k/koca-devletin-k%C3%B6yl%C3%BC-emmi-gibi-define-aramas%C4%B1/ bkz lol -->
  <!-- https://www.uludagsozluk.com/k/20-kas%C4%B1m-1922-vahdettin-in-malta-ya-ayak-basmas%C4%B1/ bkz ayak basakasın millet ayak basacak arkandan  ceddin deden nesli abdulmecid-->
  <!-- https://www.uludagsozluk.com/k/chp-yi-%C3%BC%C3%A7-kelimeyle-%C3%B6zetle/ bkz cünup piçler partisi-->
