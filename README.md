@@ -1,5 +1,6 @@
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
+ <!-- https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay%C4%B1n-y%C3%BCrek-yemi%C5%9F-olmas%C4%B1/ bkz bah hele bah -->
  <!-- https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz adam gibi adam kıpçak soyundan -->
  <!-- https://www.uludagsozluk.com/e/42440396/ bkz ihtiyaçlar piramidi 1 yemek 2 seks 3 lüks -->
  <!-- bkz öcü gibi korkuyorlar siyasal islamcı merve bacımdan https://www.youtube.com/watch?v=TtJjSVIw-Uo -->
