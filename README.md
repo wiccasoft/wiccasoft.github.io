@@ -3,18 +3,7 @@
  <!-- bkz koskoca merve gelini savunana devlet -->
  <!-- bkz batmanin kara çarşaflıları jokerin kamalcı kokona teyzeleri temsil etmesi -->
  <!-- bkz batmanin şehirde kara çarşaflı gezme sebebi --->
- <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
- <!-- bkz devlet başa kuzgun leşe -->
- <!-- https://www.uludagsozluk.com/k/robert-lewandowski/&w=bg bkz hagi mi lewansoski mi falco mu -->
- <!-- https://www.uludagsozluk.com/k/devlet-hastanesinin-acilinde-k%C3%B6p%C3%BCk-partisi-ve-seks/-->
- <!-- bkzhagi mi alex mi  https://eksisozluk.com/hagi-mi-alex-mi--2110033
- <!-- bkz merve gelinin jokerin makyaj malzemelirini kullanması -->
- <!-- https://www.uludagsozluk.com/k/kep%C3%A7e-ile-ameleye-pandik-atan-adam/ bkz mümin latifesi -->
- <!-- bkz tc cumhurbaşkanlığının merve bacımızı yedirmeyiz postu -->
- <!-- https://www.uludagsozluk.com/k/koskoca-cumhuriyeti-fet%C3%B6-ya-teslim-eden-parti/&w=bg -->
- <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imama hatipli merve ve şeytan-->
- <!-- bkz süleyman soylunun uyuşturucu satanlarını ayaklarını kırın emri -->
- <!-- https://www.uludagsozluk.com/k/hz-ai%C5%9Fe/&w=bg bkz hz fatma nın tren yaptığı eltisi -->
+ <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz imam hatipli merve ve şeytan-->
  <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başartamayacaksınız -->
  <!-- https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-atay%C4%B1n-y%C3%BCrek-yemi%C5%9F-olmas%C4%B1/ bkz bah hele bah -->
  <!-- https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz adam gibi adam kıpçak soyundan -->
