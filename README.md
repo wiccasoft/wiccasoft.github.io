@@ -5,8 +5,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz n11 in ping atarak hepsioarada.com u çökertmesi -->
 <!--https://www.uludagsozluk.com/k/halk-fakirse-al%C4%B1%C5%9Fveri%C5%9F-siteleri-niye-%C3%A7%C3%B6k%C3%BCyor/ -->
-<!-- bkz hepsiorada.com un hepsişurada.com hepsialexa.com -->
-<!-- https://www.uludagsozluk.com/k/arkadan-konu%C5%9Fan-insan/&w=bg bkz şişko nuri -->
+<!-- https://www.uludagsozluk.com/k/arkadan-konu%C5%9Fan-insan/&w=bg bkz tombik nuri -->
 <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-ile-g%C3%B6r%C3%BC%C5%9Fen-chpli/ bkz vay vay vay -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Fi%C5%9Fmanlara-teselli-ver/ bkz vir vir -->
 <!-- bkz hepsi orada comdan tavsiye almak-->
