@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://eksisozluk.com/e-devletten-bakip-ermeni-oldugunu-ogrenmek--5566022 bkz ağca -->
  <!-- https://www.uludagsozluk.com/e/42446717/ bkz ağcanın rte nin sağ kolu olması -->
  <!-- https://www.uludagsozluk.com/e/42446709/ bkz koskoca devletün koskoca devlet yahu boru değil -->
  <!-- bkz kulislerde dönene menzicler içişlerin atama yaptırmıyor iddias https://www.uludagsozluk.com/e/42446622/-->
