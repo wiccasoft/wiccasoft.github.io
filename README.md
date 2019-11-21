@@ -1,7 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- https://www.uludagsozluk.com/k/k%C4%B1v%C4%B1rc%C4%B1k-sa%C3%A7l%C4%B1-erkek/&w=bg bkz neyzen tevfik aradığı erkek -->
  <!-- https://www.uludagsozluk.com/e/42443479/ bkz atacücük -->
  <!--bkz süleyman soylunu kulislerdeberat albayrak a attığı bakış -->
  <!-- bkz süleyman soylu nun soyunun kıpçaklara dayanması -->
