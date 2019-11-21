@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://www.uludagsozluk.com/e/42446859/ bkz eyt li ergenler -->
  <!-- https://www.uludagsozluk.com/k/namaz-islamdan-%C3%B6nce-de-vard%C4%B1/ bkz farsça bilmeyen türklerin saçmalaması -->
  <!-- bkz süleyman soylunun ayrılıkçı kıpçakları ayrılıkçı müminlere itelemesi -->
  <!-- bkz ayrılıkçı kıpçaklar sitesi kurup ayrılıkçı kürtleri almamak -->
