@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- bkz şaka maka ulucu ergenlerin babası yaşında olmam -->
+ <!--https://www.uludagsozluk.com/k/burak-selena-ya-%C3%A7akt%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg ananaın amına çaktı oç -->
  <!-- bkz yarrağım büyük diye ulucu ergenlerin benle arkadaş olması -->
  <!-- bkz süleyman soylu nun polis üniformaları siyah beyaz olsun yasa teklifi -->
  <!-- https://www.uludagsozluk.com/e/42446846/ bkz yirmi yaşından beri 9 yıldır 31 çekmek -->
