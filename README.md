@@ -1,44 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- https://www.uludagsozluk.com/e/42446859/ bkz eyt li ergenler -->
- <!-- https://www.uludagsozluk.com/k/namaz-islamdan-%C3%B6nce-de-vard%C4%B1/ bkz farsça bilmeyen türklerin saçmalaması -->
- <!-- bkz süleyman soylunun ayrılıkçı kıpçakları ayrılıkçı müminlere itelemesi -->
- <!-- bkz ayrılıkçı kıpçaklar sitesi kurup ayrılıkçı kürtleri almamak -->
- <!-- bkz ayrılık kıpçak olup e-devletten ayrılıkçı kürt olduğunu öğrenmek -->
- <!-- bkz şaka maka ulucuların annesi yaşlanınca kim tokmakalayacak bunları sorunsalı -->
- <!-- bkz şaka maka ulucu annesine çakarken akla gelen sorunsallar -->
- <!-- bkz annesi tokmaklandıkça daha çok entry giren ergen sorunsalı -->
- <!-- bkz annesi tokmaklanan ergen yaşlandıkça nasıl entry giriyor sorunsalı -->
- <!-- bkz annesini tokmaklayan adama baba diyen ergen sorunsalı -->
- <!-- bkz yarrağım büyük diye ulucu ergenlerin benle arkadaş olması -->
- <!-- https://www.uludagsozluk.com/e/42446846/ bkz yirmi yaşından beri 9 yıldır 31 çekmek -->
- <!-- bkz devlet bahçelinin kulislerde dönen iddialara sıcak bakmaması -->
- <!-- https://www.uludagsozluk.com/e/42446838/ bkz kürt lütfen -->
- <!-- bkz erdoğanın berat ı kasadan alıp başkan yapma ihtimali -->
- <!-- https://www.uludagsozluk.com/e/42446797/ bkz burası değerlenir -->
- <!-- bkz tayyip erdoğanın yüksek askeri şüra toğlantısında süleyman soyluya attığı bakış-->
- <!-- bkz süleyman soylu nun batman valisine teşekkür etmesi -->
- <!-- bkz süleyman soylu nun içişleri personel alımını durdurması -->
- <!-- bkz süleyman soylunun 8000 fetöcü yü tespit ettik açıklaması -->
- <!-- bkz hepsi ananın amında diye site kurup türkleri keklemek -->
- <!--https://www.uludagsozluk.com/k/2023-cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1-se%C3%A7imi/&w=bg burası değerlenir beyler-->
- <!-- https://www.uludagsozluk.com/e/42443479/ bkz atacücük https://www.uludagsozluk.com/e/42445890/ -->
- <!--bkz süleyman soylunu kulislerdeberat albayrak a attığı bakış -->
- <!-- bkz süleyman soylu nun soyunun kıpçaklara dayanması -->
- <!-- https://www.uludagsozluk.com/e/42446740/ bkz https://www.uludagsozluk.com/e/42445890/ -->
- <!-- https://www.youtube.com/watch?v=ktmzyChfPmk bkz canım e-devlet im benim lan yoksa yok yok soyum kıpçak -->
- <!-- https://www.uludagsozluk.com/e/42446717/ bkz ağcanın rte nin sağ kolu olması -->
- <!-- https://www.uludagsozluk.com/e/42446709/ bkz koskoca devletün koskoca devlet yahu boru değil -->
- <!-- bkz kulislerde dönene menzicler içişlerin atama yaptırmıyor iddias https://www.uludagsozluk.com/e/42446622/-->
- <!-- bkz numan kurtulmuşun kilit isimlerle sıcak görüşmesi -->
- <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-numan-kurtulmu%C5%9F-vs-s%C3%BCleymn-soylu/&w=bg -->
- <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
- <!-- bkz süleyman soylunun muhalefete kronusu salmıyorum tehdidi -->
- <!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bkz demirtaşı salmıyorum hadi bakalım -->
- <!-- https://www.icisleri.gov.tr/ neyse çalışıyomuş canım içişleri bakanlığım -->
- <!-- bkz içişleri bakanlığı sitesinin çökmesi kim çökertti lan -->
- <!-- https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan adam gibi adam -->
 <!-- bkz herşeyden önce kaos vardı http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html-->
 <!-- bkz şaka maka yazdığım programın tanrı gibi bişey olması -->
 <!-- bkz yazacağım smart city uygulamasına isim önerileri -->
