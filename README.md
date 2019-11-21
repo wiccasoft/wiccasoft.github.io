@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz aytılıkçı kıpçakların ayrılmaması --> 
  <!-- bkz şaka maka ulucuların annesi yaşlanınca kim tokmakalayacak bunları sorunsalı -->
  <!-- bkz şaka maka ulucu annesine çakarken akla gelen sorunsallar -->
  <!-- bkz annesi tokmaklandıkça daha çok entry giren ergen sorunsalı -->
