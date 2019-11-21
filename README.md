@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!--bkz içişleribakanlığı sitesinin çökmesi kim çökertti lan -->
  <!-- https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan adam gibi adam -->
 <!-- bkz herşeyden önce kaos vardı http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html-->
 <!-- bkz şaka maka yazdığım programın tanrı gibi bişey olması -->
