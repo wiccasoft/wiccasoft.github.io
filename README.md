@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz şaka maka yazdığım programın tanrı gibi bişey olması -->
 <!-- bkz yazacağım smart city uygulamasına isim önerileri -->
 <!-- https://www.timeanddate.com/astronomy/brazil/rio-de-janeiro bkz rio mun dağlarında çiçekler açar-->
 <!-- bkz hadi ordan seksi https://www.youtube.com/watch?v=69FlmkZ23zM -->
