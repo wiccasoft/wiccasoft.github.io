@@ -5,7 +5,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz götünde don durmayan tek yumrukluk canı kalmış ergenlerin sürekli tavsiye vermesi -->
 <!-- bkz n11 in ping atarak hepsioarada.com u çökertmesi -->
-<!-- bkz ekrem imamaoğlu rasputin imamaoğlu benzerliği -->
+<!-- bkz ekrem imamoğlu gregori imamoğlu benzerliği -->
 <!-- https://www.uludagsozluk.com/k/halk-fakirse-al%C4%B1%C5%9Fveri%C5%9F-siteleri-niye-%C3%A7%C3%B6k%C3%BCyor/ -->
 <!-- https://www.uludagsozluk.com/k/arkadan-konu%C5%9Fan-insan/&w=bg bkz tombik nuri -->
 <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-ile-g%C3%B6r%C3%BC%C5%9Fen-chpli/ bkz vay vay vay -->
