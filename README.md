@@ -3,7 +3,8 @@
  
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
+<!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve şeytan -->
+<!-- https://www.popsugar.com/entertainment/gwen-stefani-sing-good-as-hell-voice-video-46923313 -->
 
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
