@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://www.uludagsozluk.com/e/42446874/ bkz allah kurtarsın -->
  <!-- https://www.uludagsozluk.com/k/2023-cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1-se%C3%A7imi/&w=bg bkz burası karışır -->
  <!-- https://www.uludagsozluk.com/e/42446846/ bkz yirmi yaşından beri 9 yıldır 31 çekmek -->
  <!-- bkz sorunsalı götüne sokan oğlan napıyor sorunsalı -->
