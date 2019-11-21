@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz süleyman soylunun 8000 fetöcü yü tespit ettik açıklaması -->
  <!-- bkz hepsi ananın amında diye site kurup türkleri keklemek -->
  <!--https://www.uludagsozluk.com/k/2023-cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1-se%C3%A7imi/&w=bg burası değerlenir beyler-->
  <!-- https://www.uludagsozluk.com/e/42443479/ bkz atacücük https://www.uludagsozluk.com/e/42445890/ -->
