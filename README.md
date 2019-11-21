@@ -3,7 +3,7 @@
  
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz götünde don olmayan çirozların şişmanlara tavsiye vermesi -->
+<!-- bkz götünde don olmayan tek yumrukluk canı kalmış çirozların tavsiye vermesi -->
 <!-- bkz n11 in ping atarak hepsioarada.com u çökertmesi -->
 <!-- bkz ekrem imamaoğlu rasputin imamaoğlu benzerliği -->
 <!-- https://www.uludagsozluk.com/k/halk-fakirse-al%C4%B1%C5%9Fveri%C5%9F-siteleri-niye-%C3%A7%C3%B6k%C3%BCyor/ -->
