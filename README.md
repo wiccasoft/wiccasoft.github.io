@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz süleyman soylunun muhalefet kronusu salmıyorum tehdidi -->
  <!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bkz demirtaşı salmıyorum hadi bakalım -->
  <!-- https://www.icisleri.gov.tr/ neyse çalışıyomuş canım içişleri bakanlığım -->
  <!-- bkz içişleri bakanlığı sitesinin çökmesi kim çökertti lan -->
