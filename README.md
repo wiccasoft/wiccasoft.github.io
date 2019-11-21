@@ -3,6 +3,7 @@
  
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/%C5%9Fi%C5%9Fmanlara-teselli-ver/ bkz vir vir -->
 <!-- https://www.uludagsozluk.com/e/42446005/ bkz verse sikmez misin pampa-->
 <!-- bkz hepsiorada.com dan karı sipariş etmek -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
