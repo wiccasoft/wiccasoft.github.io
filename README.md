@@ -1,8 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
- 
- [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
-<!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yazacağım smart city uygulamasına isim önerileri -->
 <!-- https://www.timeanddate.com/astronomy/brazil/rio-de-janeiro bkz rio mun dağlarında çiçekler açar-->
 <!-- bkz hadi ordan seksi https://www.youtube.com/watch?v=69FlmkZ23zM -->
@@ -12,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve şeytan -->
 <!-- https://money.cnn.com/2005/04/08/technology/google_salary/ lol -->
 <!-- https://www.popsugar.com/entertainment/gwen-stefani-sing-good-as-hell-voice-video-46923313 -->
+ [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
 
