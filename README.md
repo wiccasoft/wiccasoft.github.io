@@ -2,7 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
  <!-- bkz hepsi ananın amında diye site kurup türkleri keklemek -->
- <!-- https://www.uludagsozluk.com/e/42443479/ bkz atacücük -->
+ <!-- https://www.uludagsozluk.com/e/42443479/ bkz atacücük https://www.uludagsozluk.com/e/42445890/ -->
  <!--bkz süleyman soylunu kulislerdeberat albayrak a attığı bakış -->
  <!-- bkz süleyman soylu nun soyunun kıpçaklara dayanması -->
  <!-- https://www.uludagsozluk.com/e/42446740/ bkz https://www.uludagsozluk.com/e/42445890/ -->
