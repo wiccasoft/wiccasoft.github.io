@@ -4,7 +4,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- https://www.youtube.com/watch?v=224nx8msD8k kumarın ayıbı olmaz ekşici kardeş -->
+<!-- https://www.youtube.com/watch?v=224nx8msD8k bkz kumarın ayıbı olmaz ekşici kardeş -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/ bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve şeytan -->
 <!-- https://money.cnn.com/2005/04/08/technology/google_salary/ lol -->
