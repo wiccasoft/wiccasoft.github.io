@@ -3,6 +3,7 @@
  
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/arkadan-konu%C5%9Fan-insan/&w=bg bkz şişko nuri -->
 <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-ile-g%C3%B6r%C3%BC%C5%9Fen-chpli/ bkz vay vay vay -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Fi%C5%9Fmanlara-teselli-ver/ bkz vir vir -->
 <!-- bkz hepsi orada comdan tavsiye almak-->
