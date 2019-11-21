@@ -1,8 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- bkz devlet bahçelinin kulislerde dönen iddialara sıcak bakması -->
- <!-- https://www.uludagsozluk.com/e/42446838/ bkz kürtlerin ana dilde kamu hizmeti kanun tasarısına sıcak bakması -->
+ <!-- bkz devlet bahçelinin kulislerde dönen iddialara sıcak bakmaması -->
+ <!-- https://www.uludagsozluk.com/e/42446838/ bkz kürt lütfen -->
  <!-- bkz erdoğanın berat ı kasadan alıp başkan yapma ihtimali -->
  <!-- https://www.uludagsozluk.com/e/42446797/ bkz burası değerlenir -->
  <!-- bkz tayyip erdoğanın yüksek askeri şüra toğlantısında süleyman soyluya attığı bakış-->
