@@ -4,7 +4,7 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- bkz hepsi orada burada bize fark yapmaz ekşici gardaş tek yerde toplarız -->
+<!-- bkz hepsioradaburada bize fark yapmaz ekşici gardaş tek yerde toplarız https://www.youtube.com/watch?v=sCvxX0keJ08 -->
 <!-- https://www.youtube.com/watch?v=224nx8msD8k bkz kumarın ayıbı olmaz ekşici kardeş -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/ bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve şeytan -->
