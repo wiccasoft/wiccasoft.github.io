@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz tokmakçı beklerken bamya bulan yargıtay başkanı -->
  <!-- bkz devlet bahçelinin kulislerde dönen iddialara sıcak bakmaması -->
  <!-- https://www.uludagsozluk.com/e/42446838/ bkz kürt lütfen -->
  <!-- bkz erdoğanın berat ı kasadan alıp başkan yapma ihtimali -->
