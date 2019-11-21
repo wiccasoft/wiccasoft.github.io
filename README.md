@@ -3,7 +3,7 @@
  
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz türkleri siklemedikçe coşmaları -->
+<!-- bkz türkleri siklemedikçe coşmaları https://www.youtube.com/watch?v=69FlmkZ23zM -->
 <!-- bkz götünde don durmayan tek yumrukluk canı kalmış ergenlerin sürekli tavsiye vermesi -->
 <!-- bkz n11 in ping atarak hepsioarada.com u çökertmesi -->
 <!-- bkz ekrem imamoğlu gregori imamoğlu benzerliği -->
