@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://www.uludagsozluk.com/e/42447007/ bkz arapça bilmeyen türklerin saçmalaması -->
  <!-- bkz ayrılıkçı kıpçakların ayrılıkçı müminlerle barışması -->
  <!-- bkz süleyman soylunun ayrılıkçı kıpçakları ayrılıkçı müminlere itelemesi -->
  <!-- bkz ayrılıkçı kıpçaklar sitesi kurup ayrılıkçı kürtleri almamak -->
