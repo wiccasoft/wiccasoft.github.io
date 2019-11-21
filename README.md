@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz şaka maka ulucu annesine çakarken akla gelen sorunsal -->
  <!-- bkz şama maka bi ulucu ergen annesi sikmek vardı şimdi -->
  <!-- bkz annesi tokmaklandıkça daha çok entry giren ergen sorunsalı -->
  <!-- bkz annesi tokmaklanan ergen yaşlandıkça nasıl entry giriyor sorunsalı -->
