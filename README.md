@@ -3,6 +3,7 @@
  
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/emre-mor/&w=bg bkz yine mi yürümüş veled -->
 <!-- https://www.uludagsozluk.com/e/42446005/ bkz verse sikmez misin pampa-->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
 <!-- bkz hepsioradaburada bize fark yapmaz ekşici gardaş tek yerde toplarız https://www.youtube.com/watch?v=sCvxX0keJ08 -->
