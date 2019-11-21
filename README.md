@@ -1,6 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz numan kurtulmuşun kilit isimlerle sıcak görüşmesi -->
+ <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-numan-kurtulmu%C5%9F-vs-s%C3%BCleymn-soylu/&w=bg -->
  <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
  <!-- bkz süleyman soylunun muhalefete kronusu salmıyorum tehdidi -->
  <!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bkz demirtaşı salmıyorum hadi bakalım -->
