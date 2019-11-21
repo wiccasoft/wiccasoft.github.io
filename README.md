@@ -1,10 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- bkz annesi tokmaklandıkça daha çok entr giren ergen sorunsalı -->
+ <!-- bkz annesi tokmaklandıkça daha çok entry giren ergen sorunsalı -->
  <!-- bkz annesi tokmaklanan ergen yaşlandıkça nasıl entry giriyor sorunsalı -->
- <!-- bkz ergenlerin annesini tokmaklayan adama nası baba demeleri sorunsalı -->
- <!-- bkz babası annesini tokmaklarken entry sikmeli sokmalı entry giren ergen --> 
  <!-- bkz annesini tokmaklayan adama baba diyen ergen sorunsalı -->
  <!-- bkz yarrağım büyük diye ulucu ergenlerin benle arkadaş olması -->
  <!-- https://www.uludagsozluk.com/e/42446846/ bkz yirmi yaşından beri 9 yıldır 31 çekmek -->
