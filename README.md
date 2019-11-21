@@ -2,7 +2,6 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
  <!-- https://www.uludagsozluk.com/k/namaz-islamdan-%C3%B6nce-de-vard%C4%B1/ bkz farsça bilmeyen türklerin saçmalaması -->
- <!-- bkz ayrılıkçı kıpçakların ayrılıkçı müminlerle barışması -->
  <!-- bkz süleyman soylunun ayrılıkçı kıpçakları ayrılıkçı müminlere itelemesi -->
  <!-- bkz ayrılıkçı kıpçaklar sitesi kurup ayrılıkçı kürtleri almamak -->
  <!-- bkz ayrılık kıpçak olup e-devletten ayrılıkçı kürt olduğunu öğrenmek -->
