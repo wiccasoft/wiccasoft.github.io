@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- https://www.youtube.com/watch?v=DgD8-2Du8ms ne battı size -->
+ <!-- https://www.youtube.com/watch?v=DgD8-2Du8ms bkz size ne battı -->
  <!-- https://www.icisleri.gov.tr/ neyse çalışıyomuş canım içişleri bakanlığım -->
  <!-- bkz içişleri bakanlığı sitesinin çökmesi kim çökertti lan -->
  <!-- https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/&w=bg bkz soyu kıpçaklara dayanan adam gibi adam -->
