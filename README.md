@@ -4,19 +4,9 @@
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz hadi ordan seksi https://www.youtube.com/watch?v=69FlmkZ23zM -->
-<!-- bkz götünde don durmayan tek yumrukluk canı kalmış ergenlerin sürekli tavsiye vermesi -->
-<!-- bkz n11 in ping atarak hepsioarada.com u çökertmesi -->
-<!-- bkz ekrem imamoğlu gregori imamoğlu benzerliği -->
-<!-- https://www.uludagsozluk.com/k/halk-fakirse-al%C4%B1%C5%9Fveri%C5%9F-siteleri-niye-%C3%A7%C3%B6k%C3%BCyor/ -->
-<!-- https://www.uludagsozluk.com/k/arkadan-konu%C5%9Fan-insan/&w=bg bkz tombik nuri -->
-<!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-ile-g%C3%B6r%C3%BC%C5%9Fen-chpli/ bkz vay vay vay -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Fi%C5%9Fmanlara-teselli-ver/ bkz vir vir -->
-<!-- bkz hepsi orada comdan tavsiye almak-->
-<!-- https://www.uludagsozluk.com/e/42446005/ bkz verse sikmez misin pampa-->
-<!-- bkz hepsiorada.com dan karı sipariş etmek -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
 <!-- bkz hepsioradaburada bize fark yapmaz ekşici gardaş tek yerde toplarız https://www.youtube.com/watch?v=sCvxX0keJ08 -->
-<!-- https://www.youtube.com/watch?v=224nx8msD8k bkz kumarın ayıbı olmaz ekşici kardeş -->
+<!-- https://www.youtube.com/watch?v=224nx8msD8k bkz kumarın ayıbı olmaz kardeş -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/ bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve şeytan -->
 <!-- https://money.cnn.com/2005/04/08/technology/google_salary/ lol -->
