@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- https://www.uludagsozluk.com/e/42446709/ bkz koskoca devletün koskoca devlet yahu kos koca -->
+ <!-- https://www.uludagsozluk.com/e/42446709/ bkz koskoca devletün koskoca devlet yahu boru değil -->
  <!-- bkz kulislerde dönene menzicler içişlerin atama yaptırmıyor iddias https://www.uludagsozluk.com/e/42446622/-->
  <!-- bkz numan kurtulmuşun kilit isimlerle sıcak görüşmesi -->
  <!-- https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-numan-kurtulmu%C5%9F-vs-s%C3%BCleymn-soylu/&w=bg -->
