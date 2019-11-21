@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://www.uludagsozluk.com/k/escortlar-ya%C5%9Flan%C4%B1nca-ne-yap%C4%B1yor-sorunsal%C4%B1/ ananını amını yapıyor sorunsalı -->
  <!-- bkz uludaki ergenleri eşşek sudan gelinceye kadar dövüp babalarının önünde tokmaklamak -->
  <!--https://www.uludagsozluk.com/k/burak-selena-ya-%C3%A7akt%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg ananaın amına çaktı oç -->
  <!-- bkz yarrağım büyük diye ulucu ergenlerin benle arkadaş olması -->
