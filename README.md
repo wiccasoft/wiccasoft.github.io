@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz süleyman soylu nun batman valisine teşekkür etmesi -->
  <!-- bkz süleyman soylu nun içişleri personel alımını durdurması -->
  <!-- bkz süleyman soylunun 8000 fetöcü yü tespit ettik açıklaması -->
  <!-- bkz hepsi ananın amında diye site kurup türkleri keklemek -->
