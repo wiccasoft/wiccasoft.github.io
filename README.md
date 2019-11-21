@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz süleyman soylu nun polis üniformaları siyah beyaz olsun yasa teklifi -->
  <!-- https://www.uludagsozluk.com/e/42446846/ bkz yirmi yaşından beri 9 yıldır 31 çekmek -->
  <!-- bkz devlet bahçelinin kulislerde dönen iddialara sıcak bakmaması -->
  <!-- https://www.uludagsozluk.com/e/42446838/ bkz kürt lütfen -->
