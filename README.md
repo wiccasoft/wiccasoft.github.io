@@ -7,7 +7,7 @@
 <!-- https://www.timeanddate.com/astronomy/brazil/rio-de-janeiro bkz rio mun dağlarında çiçekler açar-->
 <!-- bkz hadi ordan seksi https://www.youtube.com/watch?v=69FlmkZ23zM -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- bkz hepsioradaburada bize fark yapmaz gardaş tek yerde toplarız https://www.youtube.com/watch?v=sCvxX0keJ08 -->
+<!-- bkz hepsi orada burada bize fark yapmaz gardaş  https://www.youtube.com/watch?v=sCvxX0keJ08 -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/ bkz lan çöpçü-->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve şeytan -->
 <!-- https://money.cnn.com/2005/04/08/technology/google_salary/ lol -->
