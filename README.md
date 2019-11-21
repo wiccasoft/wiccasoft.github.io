@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- bkz tayyip erdoğanın yüksek askeri şüra toğlantısında süleyman soyluya attığı bakış-->
  <!-- bkz süleyman soylu nun batman valisine teşekkür etmesi -->
  <!-- bkz süleyman soylu nun içişleri personel alımını durdurması -->
  <!-- bkz süleyman soylunun 8000 fetöcü yü tespit ettik açıklaması -->
