@@ -4,7 +4,7 @@
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-s%C3%BCper-kahramana-isim-%C3%B6nerileri/ bkz gazman -->
 <!-- bkz dünya liderinin gatasaraylıları daha bi sevmesi https://www.youtube.com/watch?v=4Fn84I34azs -->
 <!-- bkz emine erdoğanın astronot olma ihtimali -->
-<!-- bkz kakılmışın itilmişe negzel dövüyün gocacum demesü  https://www.youtube.com/watch?v=W16zG7m9k-c-->
+<!-- bkz kakılmışla itilmişin coşması  https://www.youtube.com/watch?v=W16zG7m9k-c-->
 <!-- bkz dünya liderinin büşra nur çalar ı savunması -->
 <!-- bkz hiç türbanlı sarışın olmaması sorunsalı -->
 <!-- bkz batmanın kara çarşaflı bir kahraman olduğu gerçeği -->
