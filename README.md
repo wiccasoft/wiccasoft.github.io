@@ -1,8 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
-<!-- bkz ferit şahenkin kel olması sorunsalı -->
+<!-- bkz kakatürke benzeyen adamın alemlere akması -->
 <!-- https://www.uludagsozluk.com/e/42448958/ bkz rakı içtim alemlere akıyorum sırıtışı -->
 <!-- bkz ibne sevici chp nin kakatürk hayranlığı -->
 <!-- bkz kakatürke benzeyen adamın kakit e gastasına attığı manalı bakış --->
