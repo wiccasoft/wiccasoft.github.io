@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz sürat kargoyu arayıp kamışa su yürüyo mu lan demek -->
 <!-- bkz mng kargoyu arayıp mngorum haa demek -->
 <!-- bkz yurtiçi kargoyu arayıp nabıyonuz lan yurtiçi dürrükler demek -->
 <!-- https://www.uludagsozluk.com/k/mng-kargo/&w=bg bkz süratli bir kargo whats up mesajları bunlar -->
