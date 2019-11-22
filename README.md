@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz dünya liderinin misvaka dava açması -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
+<!-- bkz dünya liderinin halı desenli paylaşımı -->
 <!-- bkz düünya liderinin özel uçağında kuruyemiş yerken ağzını şapırdatması -->
 <!-- bkz dünya liderinin 108 metrelik halısı -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız dünya liderimizi susturamayacaksınız -->
