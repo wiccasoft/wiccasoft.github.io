@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz rahmi turan ın kılışdaroğlundan aldığı ihale parasını brezilyada hüğletmesi -->
 <!-- bkz abdurrahim dilipakın araplar bizi arkamızdan vurdu açıklaması -->
 <!-- bkz abdulmuttap bin osmanoğlunun araplara verdiği ayar -->
 <!-- bkz emine erdoğanın arap kürdü olması -->
