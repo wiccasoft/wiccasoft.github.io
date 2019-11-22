@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- https://www.uludagsozluk.com/k/emre-nalbanto%C4%9Flu/&w=bg bkz sevdim seni be tosunum -->
  <!-- https://www.youtube.com/watch?v=i0IYD33BR1c bkz be nankör kedi -->
  <!--bkz ibrahim tatlıseksin pezevenklerin elinden kurtardığı kürtün saçmalaması -->
  <!-- bkz 22 kasım 2019 ibrahim tatlıseksin açıklamaları -->
