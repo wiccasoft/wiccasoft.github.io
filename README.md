@@ -4,10 +4,9 @@
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz body builder vs boksör -->
 <!-- bkz kenana evren vs hulusi akar -->
-<!-- https://www.uludagsozluk.com/k/gel-abi-gel-vurana-kadar-gel/&w=bg ben saldırıyorum beyler -->
-<!-- bkz kenana evreni atatürk ilkeleri zayıfladı diye darbe yabması -->
+<!-- https://www.uludagsozluk.com/k/gel-abi-gel-vurana-kadar-gel/&w=bg bkz ben saldırıyorum beyler -->
 <!-- https://www.uludagsozluk.com/k/erkan-tan-deyince-akla-gelenler/ bkz ver mehteri -->
-<!-- bkz kenana everenin evrenin lideri olduğu gerçeği-->
+<!-- bkz kenan komutanın evrenin lideri olduğu gerçeği-->
 <!-- https://www.uludagsozluk.com/k/dostoyevski-nin-t%C3%BCrk-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ -->
 <!-- bkz falcao posterine götünü sürten patlak kız -->
 <!-- bkz iki patlak kız görünce eriyen mal -->
