@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz büşra nur çaların namaz müminin harcıdır açıklaması -->
+<!-- bkz büşra nur çaların namaz müminin harcıdır vaazi -->
 <!-- bkz büşra nur yancı nın şeyma nur kaplıcalıyı  yalanlaması -->
 <!-- bkz milyar dolarlık serveti reddedip müslüman oldu -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz green card hüseyinin çoşması -->
