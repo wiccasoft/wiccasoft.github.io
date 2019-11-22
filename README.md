@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz erdoğanın dünya lideri olduğu iddialarına jeff bezosun gülmesi -->
+<!-- bkz sigara ve içki vergileriyle devletini ayakta tutan dünya lideri -->
 <!-- https://www.uludagsozluk.com/k/vatanda%C5%9F%C4%B1n-sigaras%C4%B1na-kar%C4%B1%C5%9Fan-d%C3%BCnya-lideri/ -->
 <!-- https://www.uludagsozluk.com/k/lgbt-onur-y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BCne-k%C4%B1z-d%C3%BC%C5%9F%C3%BCrmek-i%C3%A7in-giden-mal/ bkz gama erkeği -->
 <!--https://www.uludagsozluk.com/k/1-milyon-dolara-chp-ye-oy-verir-misiniz/ bkz 1 milyon dolara götümü silmem -->
