@@ -3,11 +3,6 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- https://www.youtube.com/watch?v=vGfQEoP-x2Q bkz yavaşın göt olması -->
-<!-- https://www.youtube.com/watch?v=_Fipxp67TMk imamaoğlunun halkı danışmanı yapması -->
-<!-- https://www.youtube.com/watch?v=n1hGeNYLMm0 Gömmeli Mutfak Emmeli Banyo  -->
-<!-- https://www.youtube.com/watch?v=Y5egPwNa2Ew ulan karı -->
-<!-- bkz bizim dayı oğulları mermiye kafa atıyor -->
-<!-- https://www.uludagsozluk.com/k/kur%C5%9Fun-yeyip-akl%C4%B1n%C4%B1-yitirmi%C5%9F-adamla-dalga-ge%C3%A7mek/ -->
 <!-- 22 kasım 2019 talıseksin tayyibe cariye yollması https://www.youtube.com/watch?v=ox93sf0-tPQ -->
 <!-- bkz karıyı memelekte yollayıp kumayla haftasonu kaçmapğı yapmak -->
 <!-- bkz 3. evlilikten olan pçin babuşko annemi niye sikmiyon artık demesi -->
