@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- 22 kasım 2019 talıseksin tayyibe cariye yollması -->
+<!-- evlilik yıldönümünü unutan koca -->
 <!-- bkz tayyibin saray da harem mescit var mı sorunsalı -->
 <!-- bkz 1001 odalı saraya giden chpliden ses gelmemesi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
