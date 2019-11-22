@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz body builder vs boksör -->
+<!-- https://www.uludagsozluk.com/k/erkan-tan-deyince-akla-gelenler/ bkz ver mehteri -->
 <!-- bkz kenana everenin evrenin lideri olduğu gerçeği-->
 <!-- https://www.uludagsozluk.com/k/dostoyevski-nin-t%C3%BCrk-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ -->
 <!-- bkz falcao posterine götünü sürten patlak kız -->
