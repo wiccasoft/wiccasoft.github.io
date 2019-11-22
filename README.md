@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/d%C3%B6v%C3%BCnce-daha-%C3%A7ok-seven-k%C4%B1z-modeli/ bkz beyim döver de sever de -->
 <!-- bkz atatürk benzeyen adamın varsa şekliniz beşiktaşa bekleriz pozu-->
 <!-- bkz dünya liderinin misvaka dava açması -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
