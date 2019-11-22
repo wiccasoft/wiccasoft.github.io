@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz şeymanur kaplıcalı nın joker izlemedim yalanı -->
 <!-- bkz büşra nur çalar ın şeymanur kaplıcalıyı  yalanlaması -->
 <!-- uludaki ergenlerin annelerinin aşk mektuplarını okumamak -->
 <!-- bkz orospu anne ile kaşar anne arasındaki farklar -->
