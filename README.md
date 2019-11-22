@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz mng kargoyu arayıp mngorum haa demek -->
+<!-- bkz götümdeölenbirivarın silik yemesine ses etmeyen kamalcılar -->
 <!-- bkz imamoğlunun escorta gitmeyek mi demesi -->
 <!-- bkz aşkım escortu boşver baha sok  diyen kız -->
 <!-- https://www.uludagsozluk.com/k/erkeklerin-eskorta-gitme-nedenleri/ bkz nabak amına godum --->
