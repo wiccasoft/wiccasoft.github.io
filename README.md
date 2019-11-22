@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz tatlıseksin pezevenklerin elinden kurtardığı kürtün tatlıseksi saraya şikayet etmesi -->
 <!-- bk< 22 kasım 2019 rahmi turanın azındaki baklayı çıkarması -->
 <!-- https://www.uludagsozluk.com/k/saraya-hangi-chp-linin-gitti%C4%9Fini-biliyorum/&w=bg -->
 <!-- https://www.youtube.com/watch?v=tfUCf8dFPCw bkz yedi böldese 81 ilde -->
