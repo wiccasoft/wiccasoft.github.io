@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz dünya liderinin misvaka dava açması -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
 <!-- bkz düünya liderinin özel uçağında kuruyemiş yerken ağzını şapırdatması -->
 <!-- bkz dünya liderinin 108 metrelik halısı -->
