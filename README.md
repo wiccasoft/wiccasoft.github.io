@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!--https://www.uludagsozluk.com/k/22-kas%C4%B1m-2019-ibrahim-tatl%C4%B1ses-sa%C3%A7malamas%C4%B1/ -->
  <!-- https://www.uludagsozluk.com/k/fatih-tezcan-sen-ne-kral-bir-adams%C4%B1n/ bkz eywalla koçum -->
 <!-- bkz şaka maka dünya lideri olmam -->
 <!-- bkz dünya liderinin misvaka dava açması -->
