@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz imamoğlunun yaptığı atamayı kayyum ataması olduğunu iddia etmek sorunsalı -->
 <!-- bkz dünya liderinin güneşe götünüzü north east yönünde dönerek namaz kılın demesi -->
 <!--https://www.uludagsozluk.com/k/bir-imamo%C4%9Flu-yalan%C4%B1-b%C4%B1rak/&w=bg bkz bırah la çekinme -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-s%C3%BCper-kahramana-isim-%C3%B6nerileri/ bkz gazman -->
