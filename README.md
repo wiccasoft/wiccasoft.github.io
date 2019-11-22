@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!--https://www.uludagsozluk.com/k/1-milyon-dolara-chp-ye-oy-verir-misiniz/ bkz 1 milyon dolara götümü silmem -->
 <!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali look a like -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana -->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-108-metrekarelik-hal%C4%B1s%C4%B1/ bkz big lebowski -->
