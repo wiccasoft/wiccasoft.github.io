@@ -1,5 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- arda turanın fatih terimi affetmesi-->
+ <!-- https://www.uludagsozluk.com/k/arda-turan-%C4%B1n-fatih-terim-ile-bar%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
 <!-- bkz ido tatlıbudunun babasını savunması -->
 <!--https://www.uludagsozluk.com/k/22-kas%C4%B1m-2019-ibrahim-tatl%C4%B1ses-sa%C3%A7malamas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/fatih-tezcan-sen-ne-kral-bir-adams%C4%B1n/ bkz eywalla koçum -->
