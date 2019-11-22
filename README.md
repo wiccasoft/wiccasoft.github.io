@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.youtube.com/watch?v=myZBdVOzHa8 take a ride -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
 <!-- bkz dünya lideri kronos a iran halısı yollayıp işi tatlıya bağlamak -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz saraya akarı kokarı olmayan bi mümin latifesi göndermek -->
