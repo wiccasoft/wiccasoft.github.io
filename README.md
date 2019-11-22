@@ -5,7 +5,7 @@
 <!-- bkz ferit şahenkin kel olması sorunsalı -->
 <!-- bkz pasiflerin kel erkekleri maço bulması sorunsalı -->
 <!-- bkz cübbeli sarıklı erkeklerin daha seksi olduğu iddiası -->
-<!-- https://www.uludagsozluk.com/k/kellerin-b%C4%B1-d%C3%BCnyaya-katk%C4%B1s%C4%B1/ bkz ibnelerin dünyaya katkısı -->
+<!-- https://www.uludagsozluk.com/e/42449071/ bkz jeff bezos -->
 <!-- https://www.uludagsozluk.com/k/c%C3%BCbbeli-sar%C4%B1kl%C4%B1-insanlar%C4%B1n-%C3%A7o%C4%9Falmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/kellerin-b%C4%B1-d%C3%BCnyaya-katk%C4%B1s%C4%B1/ bkz keller her götü eller -->
 <!-- bkz gama erkeğinin siklemediği maço ergenler https://www.youtube.com/watch?v=UvMMF-J85uY -->
