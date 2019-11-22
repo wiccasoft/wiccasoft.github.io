@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz body builder vs boksör -->
+<!-- bkz kamalcılara götten girerkene 10. yıl marşı okumaları -->
 <!-- bkz kenan evren vs hulusi götten akar -->
 <!-- https://www.uludagsozluk.com/k/gel-abi-gel-vurana-kadar-gel/&w=bg bkz ben saldırıyorum beyler -->
 <!-- https://www.uludagsozluk.com/k/erkan-tan-deyince-akla-gelenler/ bkz ver mehteri -->
