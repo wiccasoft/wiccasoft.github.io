@@ -3,6 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz ferit şahenkin kel olması sorunsalı -->
+<!-- bkz türkiyedeki asgari ücretliler nasıl içki sigara kullanıyor sorunsalı -->
 <!-- bkz brezilya da 2500 lira tutan içki masrafımın türkiyede 7500 lira olması sorunsalı
 <!-- bkz pasiflerin kel erkekleri maço bulması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42449071/ bkz jeff bezos -->
