@@ -2,9 +2,9 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
-<!-- 22 kasım 2019 talıseksin tayyibe cariye yollması -->
-<!-- bkz 3 . evlilikten olan pçin babuşko annemi niye sikmiyon artık demesi -->
-<!-- https://www.uludagsozluk.com/k/eski-e%C5%9Fiyle-evlilik-y%C4%B1ld%C3%B6n%C3%BCm%C3%BCn%C3%BC-kutlayan-tip/  -->
+<!-- 22 kasım 2019 talıseksin tayyibe cariye yollması https://www.youtube.com/watch?v=ox93sf0-tPQ -->
+<!-- bkz karıyı memelekte yollayıp kumayla haftasonu kaçmapğı yapmak -->
+<!-- bkz 3. evlilikten olan pçin babuşko annemi niye sikmiyon artık demesi -->
 <!-- bkz tayyibin saray da harem mescit var mı sorunsalı -->
 <!-- bkz 1001 odalı saraya giden chpliden ses gelmemesi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
