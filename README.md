@@ -3,7 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz ferit şahenkin kel olması sorunsalı -->
-<!-- bkz kakatürke benzeyen adamın attığı bakış --->
+<!-- bkz kakatürke benzeyen adamın kakit e gastasına attığı attığı bakış --->
 <!-- bkz osmanlıyı diriltip hıyar kuyruğuna girmek -->
 <!-- bkz osmanlının gümbür gümbür geldiği gerçeği ni göz ardı eden araplar -->
 <!-- https://www.uludagsozluk.com/k/ibne-sevici-chp/ -->
