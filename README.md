@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz tayyibin saray da harem mescit var mı sorunsalı -->
 <!-- bkz 1001 odalı saraya giden chpliden ses gelmemesi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
 <!-- bkz imamoğlunun kayyum atadığı karının maca kızı çıkması -->
