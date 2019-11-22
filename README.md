@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz atam gibi adam-->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan%C4%B1n-k%C3%B6t%C3%BC-bir-insan-olmas%C4%B1/ -->
 <!-- bkz kakatürke benzeyen adamın rakıyı fondipleyip adamın alemlere akması -->
 <!-- https://www.uludagsozluk.com/e/42448958/ bkz rakı içtim alemlere akıyorum sırıtışı -->
