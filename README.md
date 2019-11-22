@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+ <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-108-metrekarelik-hal%C4%B1s%C4%B1/ bkz big lebowski -->
  <!--https://www.youtube.com/watch?v=sYPn5BDK3HY&vl=en bkz kakatürk looks a like -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam/&w=bg bkz kakam gibi adam-->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan%C4%B1n-k%C3%B6t%C3%BC-bir-insan-olmas%C4%B1/ -->
