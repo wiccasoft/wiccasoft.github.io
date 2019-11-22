@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- uludaki ergenlerin annelerinin aşk mektuplarını okumamak -->
+<!-- https://www.uludagsozluk.com/k/maide-33-%C3%BC-okuyan-birinin-iman-etme-ihtimali/&w=gd bkz amı olanın imanı olmaz -->
 <!-- ben bu yazıyı anneciğinin amına yazdım evlat çok geniş bi annen varmış -->
 <!-- bkz büşra rümeysa nur yancı nın milyar dolarlık serveti reddedip instagramer olması -->
 <!-- https://www.uludagsozluk.com/k/b%C3%BC%C5%9Fra-nur-%C3%A7alar/&w=bg bkz şeyma nur subaşı yancısı -->
