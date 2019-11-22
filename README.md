@@ -1,6 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/arda-turan-%C4%B1n-fatih-terim-ile-bar%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
+<!-- https://www.uludagsozluk.com/k/yavuz-sultan-selimin-%C5%9Fia-y%C4%B1-katletmesi/&w=gd -->
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
