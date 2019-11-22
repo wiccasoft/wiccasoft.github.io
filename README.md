@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- bkz 22 kasım 2019 ibrahim tatlıseksin açıklamaları -->
  <!-- bkz 22 kasım 2019 ibrahim tatlıseksin saçmalaması -->
  <!-- arda turanın fatih terimi affetmesi-->
  <!-- https://www.uludagsozluk.com/k/arda-turan-%C4%B1n-fatih-terim-ile-bar%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
