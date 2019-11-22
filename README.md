@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz ismi abdullah olup arap düşmanı olmak -->
 <!-- bkz hiç sarışın müslüman olmaması sorunsalı -->
 <!-- bkz abdurrahim albayrakın arap düşmanı olduğu iddası -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ bkz nisanur suresi okurken kamalcı babanın odayı girip dövmesi -->
