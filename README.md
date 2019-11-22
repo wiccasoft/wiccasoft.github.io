@@ -2,7 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
-<!-- bkz patlak kızı suya sokunca glu gluk diye ses çıkarması olayı -->
+<!-- bkz patlak kızı suya sokunca gluk gluk fayt gluk diye ses çıkarması olayı -->
 <!-- bkz patlak kızın suda çıakrdığı ses -->
 <!-- bkz anama anaşko babama babuşko deyesın deyen türbanlı kütahyalı kız -->
 <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanlg%C4%B1n%C4%B1n-yeni-hal%C4%B1s%C4%B1/  bkz big lebowski deki halı-->
