@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz imamoğlunun kayyum atadığı karının maca kızı çıkması -->
 <!-- bkz 22 kasım 2019 tatlıseksin pezevenklerin elinden kurtardığı kürtü salması -->
 <!-- bkz 19 kasım 2019 dünya liderinin iran halısı önünde verdiği poz -->
 <!-- bkz 18 kasım 2019 misvakın dünya liderini maymun olarak çizmesi -->
