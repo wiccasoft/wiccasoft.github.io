@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- https://www.uludagsozluk.com/k/fatih-tezcan-sen-ne-kral-bir-adams%C4%B1n/ bkz eywalla koçum -->
 <!-- bkz şaka maka dünya lideri olmam -->
 <!-- bkz dünya liderinin misvaka dava açması -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
