@@ -1,7 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
- <!-- bkz ben bu yazıyı sana yazdım yoh ya sen kimsin amk egoya bak veletteki -->
+<!-- bkz büşra rümeysa nur yancı nın serveti reddetdip müslime olması -->
+<!-- bkz ben bu yazıyı sana yazdım yoh ya sen kimsin amk egoya bak veletteki -->
 <!-- https://www.uludagsozluk.com/k/b%C3%BC%C5%9Fra-nur-%C3%A7alar/&w=bg bkz şeyma nur subaşı yancısı -->
 <!-- https://www.uludagsozluk.com/k/milyarl%C4%B1k-serveti-reddedip-m%C3%BCsl%C3%BCman-olan-gen%C3%A7/ bkz ali koç -->
 <!--https://www.uludagsozluk.com/k/notorious-b-i-g/bkz sedat pacarın asıl yeğeni -->
