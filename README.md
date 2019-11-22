@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/ekonomi-%C3%A7%C3%B6kerken-%C3%BCniversiteye-cami-a%C3%A7mak/ lol -->
 <!-- bkz rahmi turan ın kılışdaroğlundan aldığı ihale parasını brezilyada hüğletmesi -->
 <!-- bkz abdurrahim dilipakın araplar bizi arkamızdan vurdu açıklaması -->
 <!-- bkz abdulmuttap bin osmanoğlunun araplara verdiği ayar -->
