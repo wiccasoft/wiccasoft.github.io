@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz osmanlı torunu abdumuttap bin arapoğlunun araplara verdiği ayar -->
 <!-- bkz emine erdoğanın arap kürdü olması -->
 <!-- bkz ismi abdullah olup arap düşmanı olmak -->
 <!-- bkz hiç sarışın müslüman olmaması sorunsalı -->
