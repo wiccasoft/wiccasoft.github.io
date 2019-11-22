@@ -1,5 +1,9 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- bkz dünya liderinin misvaka dava açması -->
+<!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
+<!-- bkz dünya liderinin halı önünde verdiği poz -->
+<!-- bkz dünya liderinin 108 metrelik halısı -->
  <!-- https://www.uludagsozluk.com/k/makam%C4%B1na-iddiaya-giren-cumhurba%C5%9Fkan%C4%B1/ 
 bkz makamına halı asan dünya lideri-->
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
