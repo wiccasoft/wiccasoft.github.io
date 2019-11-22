@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
+<!-- bkz ferit şahenkin kel olması sorunsalı -->
 <!-- bkz pasiflerin kel erkekleri maço bulması sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/kellerin-b%C4%B1-d%C3%BCnyaya-katk%C4%B1s%C4%B1/ bkz keller her götü eller -->
 <!-- bkz gama erkeğinin siklemediği maço ergenler https://www.youtube.com/watch?v=UvMMF-J85uY -->
