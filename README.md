@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz dünya liderinin gatasaraylılara daha bi sevmesi https://www.youtube.com/watch?v=4Fn84I34azs -->
+<!-- bkz dünya liderinin gatasaraylıları daha bi sevmesi https://www.youtube.com/watch?v=4Fn84I34azs -->
 <!-- bkz emine erdoğanın astronot olma ihtimali -->
 <!-- bkz kakılmışın itilmişe negzel dövüyün gocacum demesü  https://www.youtube.com/watch?v=W16zG7m9k-c-->
 <!-- bkz dünya liderinin büşra nur çalar ı savunması -->
