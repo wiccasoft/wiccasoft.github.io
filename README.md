@@ -3,8 +3,6 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz green card hüseyinin çoşması -->
 <!-- bkz herşeyden önce kaos vardı http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html -->
-<!-- bkz şaka maka yazdığım programın tanrı gibi bişey olması -->
-<!-- bkz yazacağım smart city uygulamasına isim önerileri -->
 <!-- https://www.timeanddate.com/astronomy/brazil/rio-de-janeiro bkz rio mun dağlarında çiçekler açar-->
 <!-- bkz hadi ordan seksi https://www.youtube.com/watch?v=69FlmkZ23zM -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
