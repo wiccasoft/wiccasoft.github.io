@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz emine erdoğanın astronot olma ihtimali -->
+<!-- bkz kakılmışın itilmişe negzel dövüyün gocacum demesü -->
 <!-- bkz dünya liderinin büşra nur çalar ı savunması -->
 <!-- bkz hiç türbanlı sarışın olmaması sorunsalı -->
 <!-- bkz batmanın kara çarşaflı bir kahraman olduğu gerçeği -->
