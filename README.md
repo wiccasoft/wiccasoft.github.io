@@ -7,7 +7,7 @@
 <!-- https://www.uludagsozluk.com/e/42449071/ bkz jeff bezos -->
 <!-- https://www.uludagsozluk.com/k/kellerin-b%C4%B1-d%C3%BCnyaya-katk%C4%B1s%C4%B1/ bkz keller her götü eller -->
 <!-- bkz gama erkeğinin siklemediği maço ergenler https://www.youtube.com/watch?v=UvMMF-J85uY -->
-<!-- kz ben maçoyum tamam mı diyen ergeni eşşek sudan gelşinceye kadar dövmek -->
+<!-- kz ben maçoyum tamam mı diyen ergeni eşşek sudan gelinceye kadar dövmek -->
 <!-- bkz maço erkeğe cuma namazında yancılık yapan ezik beta erkeği -->
 <!-- https://www.uludagsozluk.com/k/ma%C3%A7o-erke%C4%9Fe-yanc%C4%B1l%C4%B1k-yapan-ezik-beta-erke%C4%9Fi/ bkz erkekimsi -->
 <!-- bkz ibb nin 5831 mümini namaz kıldığı için işten çıkarması -->
