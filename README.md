@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz 19 kasım 2019 dünya liderinin iran halısı önünde verdiği poz -->
 <!-- bkz 18 kasım 2019 misvakın dünya liderini maymun olarak çizmesi -->
 <!-- https://www.uludagsozluk.com/e/42450422/ bkz 22 kasım 2109 arda turanın imparatorla barışması -->
