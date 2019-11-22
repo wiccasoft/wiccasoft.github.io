@@ -1,5 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- https://www.uludagsozluk.com/k/makam%C4%B1na-iddiaya-giren-cumhurba%C5%9Fkan%C4%B1/ 
+bkz makamına halı asan dünya lideri-->
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=S15agXCPvC8 -->
 <!-- https://www.youtube.com/watch?v=8wyT69ifKYY -->
