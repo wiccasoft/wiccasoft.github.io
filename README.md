@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz dünya liderinin büşra nur çalar ı savunması -->
+<!-- bkz hiç türbanlı sarışın olmaması sorunsalı -->
 <!-- bkz türbanlı gelinin türbanıma dokunmazsam gerdeğe gelirsin anca demesi -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-s%C3%BCper-kahramana-isim-%C3%B6nerileri/ bkz gazman -->
 <!-- https://www.uludagsozluk.com/k/yeni-gelin-t%C3%BCrbanl%C4%B1/ bkz merve gelin -->
