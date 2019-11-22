@@ -3,7 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz kadın günah olduğu halde bakmak -->
-<!-- bkz gama erkeğinin siklemediği maço ergenler -->
+<!-- bkz gama erkeğinin siklemediği maço ergenler https://www.youtube.com/watch?v=UvMMF-J85uY -->
 <!-- kz ben maçoyum tamam mı diyen ergeni eşşek sudan gelşinceye kadar dövmek -->
 <!-- bkz maço erkeğe cuma namazında yancılık yapan ezik beta erkeği -->
 <!-- https://www.uludagsozluk.com/k/ma%C3%A7o-erke%C4%9Fe-yanc%C4%B1l%C4%B1k-yapan-ezik-beta-erke%C4%9Fi/ bkz erkekimsi -->
