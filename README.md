@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz şal isteme numarasıyla ulucuları düzen adam -->
 <!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
 <!-- bkz saraya 5 ttane cariye yollayıp vergiden muaf olmak -->
 <!-- bkz imama hatiplini vallaha sataram köyü ha demesi -->
