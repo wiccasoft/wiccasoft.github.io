@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
+<!-- bkz ibb nin 5831 mümini namaz kıldığı için işten çıkarması -->
 <!-- bkz eski akit hicri Rabiʻ I 25, 1441 AH kapak fotoğrafı -->
 <!-- bkz misvak dergisinin imamoğluna efsane ayarı -->
 <!-- bkz yobaz kamalcıların türbanlı bacıların üstüne işemesi -->
