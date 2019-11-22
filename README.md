@@ -1,6 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
+<!-- https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1n%C4%B1-doldurmu%C5%9F-k%C4%B1z-%C3%B6zg%C3%BCveni/ -->
 <!-- https://www.uludagsozluk.com/k/hi%C3%A7-alkol-ve-sigara-kullanmam%C4%B1%C5%9F-erkek/&w=bg bkz maşşallah -->
 <!-- https://www.uludagsozluk.com/k/ekonomi-%C3%A7%C3%B6kerken-%C3%BCniversiteye-cami-a%C3%A7mak/ lol -->
 <!-- bkz rahmi turan ın kılışdaroğlundan aldığı ihale parasını brezilyada hüğletmesi -->
