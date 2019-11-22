@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- https://www.youtube.com/watch?v=tfUCf8dFPCw bkz yedi böldese 81 ilde -->
 <!-- https://www.youtube.com/watch?v=vGfQEoP-x2Q bkz yavaşın göt olması -->
 <!-- 22 kasım 2019 talıseksin tayyibe cariye yollması https://www.youtube.com/watch?v=ox93sf0-tPQ -->
 <!-- bkz karıyı memelekte yollayıp kumayla haftasonu kaçmapğı yapmak -->
