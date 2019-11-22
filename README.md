@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz body builder vs boksör -->
+<!-- bkz kenana evren vs hulusi akar -->
 <!-- bkz kenana evreni atatürk ilkeleri zayıfladı diye darbe yabması -->
 <!-- https://www.uludagsozluk.com/k/erkan-tan-deyince-akla-gelenler/ bkz ver mehteri -->
 <!-- bkz kenana everenin evrenin lideri olduğu gerçeği-->
