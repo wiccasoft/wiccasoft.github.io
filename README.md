@@ -5,7 +5,7 @@
 <!-- bkz mng kargoyu arayıp mngorum haa demek -->
 <!-- bkz götümdeölenbirivarın silik yemesine ses etmeyen kamalcılar -->
 <!-- bkz imamoğlunun escorta gitmeyek mi demesi -->
-<!-- bkz aşkım escortu boşver baha sok  diyen kız -->
+<!-- bkz götümdeölenbirivarın aşkım escortu boşver baha sok demesi -->
 <!-- https://www.uludagsozluk.com/k/erkeklerin-eskorta-gitme-nedenleri/ bkz nabak amına godum --->
 <!-- https://www.uludagsozluk.com/k/hitler-ka%C3%A7-ki%C5%9Fiydi/&w=bg bkz kafası hariç 18 cm kanka -->
 <!-- https://www.uludagsozluk.com/k/body-builder-vs-boks%C3%B6r/ boksör siker atar aga -->
