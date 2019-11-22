@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
 <!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
 <!-- bkz saraya 5 tane fetö cini yollayıp vergiden muaf olmak -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz köyden kayyum ataması beklemek -->
