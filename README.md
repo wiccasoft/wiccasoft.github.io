@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- bkz pezevenklerin elinden kurtardığım kürtün şımarması -->
  <!-- bkz şaka maka osmanlının gümbür gümbür gelmesi -->
  <!-- https://www.uludagsozluk.com/k/yavuz-sultan-selimin-%C5%9Fia-y%C4%B1-katletmesi/ bkz şiacıların göt olduğu olay -->
  <!-- https://www.uludagsozluk.com/k/emre-nalbanto%C4%9Flu/&w=bg bkz sevdim seni be tosunum -->
