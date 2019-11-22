@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz erdoğanın sarayda keyf çatması -->
+<!-- bkz kamalcıların devletin sadece vergi toplayan bi kurum olduğunu anlaması olayı -->
 <!-- bkz sigara ve alkol vergileri olmasa batacak malum devlet asdasdas -->
 <!-- https://www.youtube.com/watch?v=tfUCf8dFPCw yedi bölgese 81 ilde -->
 <!-- bkz yavaş dön reis ümmet yetişemiy https://www.youtube.com/watch?v=INJ_kr_js1w -->
