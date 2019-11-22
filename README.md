@@ -1,7 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz yavaş dön reis ümmet yetişemiy https://www.youtube.com/watch?v=INJ_kr_js1w -->
+<!-- https://www.youtube.com/watch?v=INJ_kr_js1w dönek demiş baha  itin biri bah hele hele -->
 <!-- doyuluğ mu https://www.youtube.com/watch?v=PeIVhIwE8zU
 <!-- bk< 22 kasım 2019 rahmi turanın azındaki baklayı çıkarması -->
 <!-- https://www.uludagsozluk.com/k/saraya-hangi-chp-linin-gitti%C4%9Fini-biliyorum/&w=bg -->
