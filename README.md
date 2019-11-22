@@ -2,8 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
-<!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanlg%C4%B1n%C4%B1n-yeni-hal%C4%B1s%C4%B1/  bkz big lebowski -->
-<!-- https://www.uludagsozluk.com/k/kel-%C5%9Fi%C5%9Fman-ama-ahu-gibi-manitas%C4%B1-olan-adam/&w=bg bkz jeff bezos -->
+<!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanlg%C4%B1n%C4%B1n-yeni-hal%C4%B1s%C4%B1/  bkz big lebowski deki halı-->
 <!-- bkz imamoğlunun yaptığı atamayı kayyum ataması olduğunu iddia etmek sorunsalı -->
 <!-- bkz dünya liderinin güneşe götünüzü north east yönünde dönerek namaz kılın demesi -->
 <!--https://www.uludagsozluk.com/k/bir-imamo%C4%9Flu-yalan%C4%B1-b%C4%B1rak/&w=bg bkz bırah la çekinme -->
