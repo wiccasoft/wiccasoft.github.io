@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- https://www.uludagsozluk.com/e/42450422/ bkz arda turanın imparator la barışması -->
+<!-- https://www.uludagsozluk.com/e/42450422/ bkz arda turanın imparatorla barışması -->
 <!-- https://www.uludagsozluk.com/k/hz-yezid-h%C3%BCseyin-den-%C3%BCst%C3%BCnd%C3%BCr/ -->
 <!-- https://www.uludagsozluk.com/k/arda-turan-%C4%B1n-fatih-terim-ile-bar%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/yavuz-sultan-selimin-%C5%9Fia-y%C4%B1-katletmesi/&w=gd -->
