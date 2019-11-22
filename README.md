@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- uludaki ergenlerin annelerinin aşk mektuplarını okumamak -->
+<!-- https://www.uludagsozluk.com/k/erkeklere-g%C3%BCvenmek/&w=bg bkz emcüklü karıların sürekli yaptığı -->
 <!-- https://www.uludagsozluk.com/k/allah-kad%C4%B1nlar%C4%B1-niye-yaratt%C4%B1/&w=bg bkz emcüklerini emcüklemek üçün -->
 <!-- https://www.uludagsozluk.com/k/maide-33-%C3%BC-okuyan-birinin-iman-etme-ihtimali/&w=gd bkz amı olanın imanı olmaz -->
 <!-- ben bu yazıyı anneciğinin amına yazdım evlat çok geniş bi annen varmış -->
