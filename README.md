@@ -2,7 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->,
-<!-- bkz falcao posterine götünü süreten patlak kız -->
+<!-- bkz falcao posterine götünü sürten patlak kız -->
 <!-- bkz iki patlak kız görünce eriyen mal -->
 <!-- bkz patlak kızların utanmadan kendini savunması -->
 <!-- bkz gnomebuilder vs patlakkızınsudaçıkardığıses -->
