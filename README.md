@@ -2,7 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz büşra nur çaların namaz müminin harcıdır paylaşımı -->
-<!-- bkz büşra nur yancı nın şeyma nur kaplıcalıyı  yalanlaması -->
+<!-- bkz büşra nur yancı nın şeyma nur kaplıcalı nın cuma namazı 3 rekattır paylaşımını yalanlaması -->
 <!-- bkz milyar dolarlık serveti reddedip müslüman oldu -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz green card hüseyinin çoşması -->
 <!-- http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html -->
