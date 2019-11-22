@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.uludagsozluk.com/k/milyarl%C4%B1k-serveti-reddedip-m%C3%BCsl%C3%BCman-olan-gen%C3%A7/ bkz ali koç -->
 <!--https://www.uludagsozluk.com/k/notorious-b-i-g/bkz sedat pacarın asıl yeğeni -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz green card hüseyinin çoşması -->
 <!-- http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html -->
