@@ -1,18 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz şeymanur kaplıcalı nın joker izlemedim yalanı -->
-<!-- bkz büşra nur çalar ın şeymanur kaplıcalıyı  yalanlaması -->
-<!-- uludaki ergenlerin annelerinin aşk mektuplarını okumamak -->
-<!-- bkz orospu anne ile kaşar anne arasındaki farklar -->
-<!-- https://www.uludagsozluk.com/k/erkeklere-g%C3%BCvenmek/&w=bg bkz orospunun yemini malafatı görene kadardır -->
-<!-- https://www.uludagsozluk.com/k/allah-kad%C4%B1nlar%C4%B1-niye-yaratt%C4%B1/&w=bg bkz emcüklerini emcüklemek üçün -->
-<!-- https://www.uludagsozluk.com/k/maide-33-%C3%BC-okuyan-birinin-iman-etme-ihtimali/&w=gd bkz amı olanın imanı olmaz -->
-<!-- ben bu yazıyı anneciğinin amına yazdım evlat çok geniş bi annen varmış -->
-<!-- bkz büşra rümeysa nur yancı nın milyar dolarlık serveti reddedip instagramer olması -->
-<!-- https://www.uludagsozluk.com/k/b%C3%BC%C5%9Fra-nur-%C3%A7alar/&w=bg bkz şeyma nur subaşı yancısı -->
-<!-- https://www.uludagsozluk.com/k/milyarl%C4%B1k-serveti-reddedip-m%C3%BCsl%C3%BCman-olan-gen%C3%A7/ bkz ali koç -->
-<!--https://www.uludagsozluk.com/k/notorious-b-i-g/bkz sedat pacarın asıl yeğeni -->
+<!-- bkz büşra nur yancı nın şeyma nur kaplıcalıyı  yalanlaması -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz green card hüseyinin çoşması -->
 <!-- http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html -->
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg yeşil sarı bayrağına ölürüm brezilyam -->
