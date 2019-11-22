@@ -2,7 +2,6 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz hiç sarışın müslüman olmaması sorunsalı -->
-<!-- bkz kızına nisa nur büşra nur rümeysa nur rabia nur gibi isimler veren kamalcı -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ bkz nisanur suresi okurken kamalcı babanın odayı girip dövmesi -->
 <!-- bkz büşra nur çaların namaz müminin harcıdır paylaşımı -->
 <!-- bkz büşra nur yancı nın şeyma nur kaplıcalı nın namaz tokmakçıyla kılınır yorumunu yalanlaması -->
