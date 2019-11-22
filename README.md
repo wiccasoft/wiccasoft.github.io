@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- dünya liderinin beni seven sigara içmesin açıklaması -->
 <!-- bkz erdoğanının beni seven sigara içmez açıklması -->
 <!-- bkz erdoğanın dünya markası olduğu iddialarına jeff bezosun gülmesi -->
 <!-- bkz sigara ve içki vergileriyle devletini ayakta tutan dünya lideri -->
