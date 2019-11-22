@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz patlak kızların utanmadan kendini savunması -->
 <!-- bkz gnomebuilder vs patlakkızınsudaçıkardığıses -->
 <!-- bkz mng kargoyu arayıp mngorum haa demek -->
 <!-- bkz amımdaölenbirivarın silik yemesine ses etmeyen kamalcılar -->
