@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- https://www.uludagsozluk.com/k/bizans-casusu-abd%C3%BCsselam/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz body builder tarafından sikilmek vs boksör tarafından sikilmek  -->
 <!-- bkz kamalcılara götten girerkene 10. yıl marşı okumaları -->
 <!-- bkz kenan evren vs hulusi götten akar -->
