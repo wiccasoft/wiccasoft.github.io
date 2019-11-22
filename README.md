@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz anama anaşko deyesın babuşkoma babuşko deyesın deyen türbanlı kız -->
 <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkanlg%C4%B1n%C4%B1n-yeni-hal%C4%B1s%C4%B1/  bkz big lebowski deki halı-->
 <!-- bkz imamoğlunun yaptığı atamayı kayyum ataması olduğunu iddia etmek sorunsalı -->
 <!-- bkz dünya liderinin güneşe götünüzü north east yönünde dönerek namaz kılın demesi -->
