@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz misvakın dünya liderinin maymun olarak çizmesi -->
+<!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
 <!-- dünya liderinin beni seven sigara içmesin açıklaması -->
 <!-- bkz erdoğanının beni seven sigara içmez açıklması -->
 <!-- bkz erdoğanın dünya markası olduğu iddialarına jeff bezosun gülmesi -->
