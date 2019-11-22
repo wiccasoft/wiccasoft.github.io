@@ -2,9 +2,9 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
+<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız dünya liderimizi sustramayacaksınız -->
 <!-- https://www.uludagsozluk.com/k/vatanda%C5%9F%C4%B1n-sigaras%C4%B1na-kar%C4%B1%C5%9Fan-d%C3%BCnya-lideri/ bkz rte -->
 <!-- https://www.uludagsozluk.com/k/babas%C4%B1na-babi%C5%9Fko-diyen-biriyle-evlenen-erkek/ bkz berat albyarak -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız dünya liderimizi sustramayacaksınız -->
 <!-- bkz dünya liderinin beni seven sigara içmez açıklması -->
 <!-- bkz sigara ve içki vergileriyle devletini ayakta tutan dünya lideri -->
 <!-- https://www.uludagsozluk.com/k/vatanda%C5%9F%C4%B1n-sigaras%C4%B1na-kar%C4%B1%C5%9Fan-d%C3%BCnya-lideri/ -->
