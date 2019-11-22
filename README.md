@@ -2,8 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
-<!-- bkz body builder vs boksör -->
-<!-- https://www.uludagsozluk.com/k/bu-entry-150-eksi-oy-al%C4%B1rsa-s%C3%B6zl%C3%BC%C4%9F%C3%BC-b%C4%B1rak%C4%B1r%C4%B1m/&w=bg götü yiyosa bırak ibnenin evladı -->
+<!-- bkz body builder tarafından sikilmek vs boksör tarafından sikilmek  -->
 <!-- bkz kamalcılara götten girerkene 10. yıl marşı okumaları -->
 <!-- bkz kenan evren vs hulusi götten akar -->
 <!-- https://www.uludagsozluk.com/k/gel-abi-gel-vurana-kadar-gel/&w=bg bkz ben saldırıyorum beyler -->
