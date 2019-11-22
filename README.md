@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
- <!-- bkz dünya liderinin misvaka dava açması -->
+<!-- bkz şaka maka dünya lideri olmam -->
+<!-- bkz dünya liderinin misvaka dava açması -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
 <!-- bkz dünya liderinin halı önünde verdiği poz -->
 <!-- bkz dünya liderinin 108 metrelik halısı -->
