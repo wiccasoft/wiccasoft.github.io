@@ -2,7 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz saraya kayyum ataması için rüşvet vermek -->
+<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz saraya akarı kokarı olmayan rüşvet vermek -->
 <!-- bkz saraya 5 tane fetö cini yollayıp vergiden muaf olmak -->
 <!--https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=gd ->
 <!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
