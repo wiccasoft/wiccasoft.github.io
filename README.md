@@ -3,6 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz kadın günah olduğu halde bakmak -->
+<!-- https://www.uludagsozluk.com/k/ma%C3%A7o-erke%C4%9Fe-yanc%C4%B1l%C4%B1k-yapan-ezik-beta-erke%C4%9Fi/ bkz erkekimsi -->
 <!-- bkz ibb nin 5831 mümini namaz kıldığı için işten çıkarması -->
 <!-- bkz eski akit hicri Rabiʻ I 25, 1441 AH kapak fotoğrafı -->
 <!-- bkz misvak dergisinin imamoğluna efsane ayarı -->
