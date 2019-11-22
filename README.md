@@ -1,7 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!--https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=gd bkz kayyum atamaları-->
+<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz kayyum ataması beklemek --<
+<!--https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=gd ->
 <!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
 <!-- https://www.uludagsozluk.com/k/saraya-hangi-chp-linin-gitti%C4%9Fini-biliyorum/&w=bg biliyorum ama söylemem -->
 <!-- https://www.uludagsozluk.com/k/manik%C3%BCr-yapt%C4%B1ran-erkek/&w=bg bkz cafede şal isteyen manikürlü erkek -->
