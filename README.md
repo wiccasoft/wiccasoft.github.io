@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz atatürk benzeyen adamın varsa şekliniz beşiktaşa bekleriz pozu-->
 <!-- bkz dünya liderinin misvaka dava açması -->
 <!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
 <!-- bkz dünya liderinin halı önünde verdiği poz -->
