@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- https://www.youtube.com/watch?v=Y5egPwNa2Ew ulan karı -->
-<!-- bkz bizim dayı oğulları mermiye kafa atıyor https://www.youtube.com/watch?v=TkuQtlx0l7g -->
+<!-- bkz bizim dayı oğulları mermiye kafa atıyor -->
 <!-- https://www.uludagsozluk.com/k/kur%C5%9Fun-yeyip-akl%C4%B1n%C4%B1-yitirmi%C5%9F-adamla-dalga-ge%C3%A7mek/ -->
 <!-- 22 kasım 2019 talıseksin tayyibe cariye yollması https://www.youtube.com/watch?v=ox93sf0-tPQ -->
 <!-- bkz karıyı memelekte yollayıp kumayla haftasonu kaçmapğı yapmak -->
