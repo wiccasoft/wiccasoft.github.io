@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- https://www.youtube.com/watch?v=vGfQEoP-x2Q bkz yavaşın göt olması -->
 <!-- https://www.youtube.com/watch?v=_Fipxp67TMk imamaoğlunun halkı danışmanı yapması -->
 <!-- https://www.youtube.com/watch?v=n1hGeNYLMm0 Gömmeli Mutfak Emmeli Banyo  -->
 <!-- https://www.youtube.com/watch?v=Y5egPwNa2Ew ulan karı -->
