@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz mng kargoyu arayıp mngorum haa demek -->
-<!-- bkz yurtiçi kargoyu arayıp nabıyonuz lan dürrükler demek -->
+<!-- bkz yurtiçi kargoyu arayıp nabıyonuz lan yurtiçi dürrükler demek -->
 <!-- https://www.uludagsozluk.com/k/mng-kargo/&w=bg bkz süratli bir kargo whats up mesajları bunlar -->
 <!-- https://www.uludagsozluk.com/k/fenerbah%C3%A7e-socar/&w=gd bkz fenerbahce tersten saplar -->
 <!-- https://www.uludagsozluk.com/k/s%C3%BCnnette-pipi-nas%C4%B1l-kesiliyor/ bkz göster bakim amcalara pipini -->
