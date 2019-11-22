@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
+<!-- https://www.uludagsozluk.com/k/35-ya%C5%9F%C4%B1na-gelip-ehliyeti-olmayan-erkek/ bkz 41 yaşında tıp okuyan erkekimsi -->
 <!-- https://www.uludagsozluk.com/k/ulan-eskiden-t%C3%BCp-kuyruklar%C4%B1-vard%C4%B1-diyen-99lu-k%C4%B1z/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-hala-okuyan-tipler/ bkz 41 yaşında tıp okuyan tip -->
 <!-- https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1n%C4%B1-doldurmu%C5%9F-k%C4%B1z-%C3%B6zg%C3%BCveni/ -->
