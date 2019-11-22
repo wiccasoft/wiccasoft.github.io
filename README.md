@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
+<!-- bkz misvak dergisinin imamoğluna efsane ayarı -->
 <!-- bkz eski akit in yayın müdürünün bilalin imam hatipten arkadaşı olması -->
 <!-- https://www.uludagsozluk.com/k/yeni-akit-in-foto%C4%9Fraf%C4%B1n%C4%B1-sans%C3%BCrledi%C4%9Fi-kad%C4%B1nlar/ -->
 <!-- https://www.uludagsozluk.com/k/35-ya%C5%9F%C4%B1na-gelip-ehliyeti-olmayan-erkek/ bkz 41 yaşında tıp okuyan erkekimsi -->
