@@ -3,6 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz ferit şahenkin kel olması sorunsalı -->
+<!-- bkz osmanlının gümbür gümbür geldiği gerçeği ni göz ardı eden araplar -->
 <!-- https://www.uludagsozluk.com/k/ibne-sevici-chp/ -->
 <!-- bkz yeni kakitin kaktürke benzeyen imamaoğlunu sansürlemesi --> 
 <!-- bkz kakatürke benzeyen adamın asgari müslümanlarla taşşak geçmesi -->
