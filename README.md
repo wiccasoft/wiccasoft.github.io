@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- uludaki ergenlerin annelerinin aşk mektuplarını okumamak -->
 <!-- ben bu yazıyı ananın amına yazdım ananın amı diyorum çok geniş evlat herkeş orda  -->
 <!-- bkz büşra rümeysa nur yancı nın milyar dolarlık serveti reddetdip instagramer olması -->
 <!-- https://www.uludagsozluk.com/k/b%C3%BC%C5%9Fra-nur-%C3%A7alar/&w=bg bkz şeyma nur subaşı yancısı -->
