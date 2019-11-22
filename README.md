@@ -3,6 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz ferit şahenkin kel olması sorunsalı -->
+<!-- https://www.uludagsozluk.com/k/ibne-sevici-chp/ -->
 <!-- https://www.uludagsozluk.com/k/yeni-akit-in-foto%C4%9Fraf%C4%B1n%C4%B1-sans%C3%BCrledi%C4%9Fi-kad%C4%B1nlar/ -->
 <!-- bkz kakatürke benzeyen adamın asgari müslümanlarla taşşak geçmesi -->
 <!-- bkz türkiyedeki asgari ücretliler nasıl içki sigara kullanıyor sorunsalı -->
