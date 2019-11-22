@@ -1,7 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E green card hüseyinin çoşması -->
+<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz green card hüseyinin çoşması -->
 <!-- bkz herşeyden önce kaos vardı http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html -->
 <!-- bkz şaka maka yazdığım programın tanrı gibi bişey olması -->
 <!-- bkz yazacağım smart city uygulamasına isim önerileri -->
