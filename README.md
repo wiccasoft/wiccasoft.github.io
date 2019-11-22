@@ -1,32 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz erdoğanın sarayda keyf çatması -->
-<!-- bkz saraya yollanan cariyelerin bilgi sızdırması -->
-<!-- bkz kamalcıların devletin sadece vergi toplayan bi kurum olduğunu anlaması olayı -->
-<!-- bkz sigara ve alkol vergileri olmasa batacak malum devlet asdasdas -->
-<!-- https://www.youtube.com/watch?v=tfUCf8dFPCw yedi bölgese 81 ilde -->
-<!-- bkz yavaş dön reis ümmet yetişemiy https://www.youtube.com/watch?v=INJ_kr_js1w -->
-<!-- https://www.youtube.com/watch?v=INJ_kr_js1w dönek demiş baha  itin biri bah hele hele -->
-<!-- doyuluğ mu https://www.youtube.com/watch?v=PeIVhIwE8zU
-<!-- bk< 22 kasım 2019 rahmi turanın azındaki baklayı çıkarması -->
-<!-- https://www.uludagsozluk.com/k/saraya-hangi-chp-linin-gitti%C4%9Fini-biliyorum/&w=bg -->
-<!-- https://www.youtube.com/watch?v=tfUCf8dFPCw bkz yedi böldese 81 ilde -->
-<!-- https://www.youtube.com/watch?v=vGfQEoP-x2Q bkz yavaşın göt olması -->
-<!-- 22 kasım 2019 talıseksin tayyibe cariye yollması https://www.youtube.com/watch?v=ox93sf0-tPQ -->
-<!-- bkz karıyı memelekte yollayıp kumayla haftasonu kaçmapğı yapmak -->
-<!-- bkz 3. evlilikten olan pçin babuşko annemi niye sikmiyon artık demesi -->
-<!-- bkz tayyibin saray da harem mescit var mı sorunsalı -->
-<!-- bkz 1001 odalı saraya giden chpliden ses gelmemesi sorunsalı -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- bkz imamoğlunun kayyum atadığı karının maca kızı çıkması -->
-<!-- bkz 22 kasım 2019 tatlıseksin pezevenklerin elinden kurtardığı kürtü salması -->
-<!-- bkz 19 kasım 2019 dünya liderinin iran halısı önünde verdiği poz -->
-<!-- bkz 18 kasım 2019 misvakın dünya liderini maymun olarak çizmesi -->
-<!-- https://www.uludagsozluk.com/e/42450422/ bkz 22 kasım 2109 arda turanın imparatorla barışması -->
-<!-- https://www.uludagsozluk.com/k/hz-yezid-h%C3%BCseyin-den-%C3%BCst%C3%BCnd%C3%BCr/ -->
-<!-- https://www.uludagsozluk.com/k/arda-turan-%C4%B1n-fatih-terim-ile-bar%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/yavuz-sultan-selimin-%C5%9Fia-y%C4%B1-katletmesi/&w=gd -->
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
