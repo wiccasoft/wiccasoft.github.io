@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz patlak kızı alınca abe kaynana yahtın bizi demek -->
 <!-- bkz patlak kızı suya sokunca gluk gluk fayt gluk diye ses çıkarması olayı -->
 <!-- bkz patlak kızın suda çıakrdığı ses -->
 <!-- bkz anama anaşko babama babuşko deyesın deyen türbanlı kütahyalı kız -->
