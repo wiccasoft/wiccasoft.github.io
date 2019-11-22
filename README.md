@@ -2,7 +2,6 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
-<!-- bkz uludaki ergenleri pipisinden duvara asıp götlerine şaplak atıp güzelce sikmek --->
 <!-- https://www.uludagsozluk.com/k/s%C3%BCnnette-pipi-nas%C4%B1l-kesiliyor/ bkz göster bakim amcalara pipini -->
 <!-- bkz ben patlak değilim tamam  mıaa diyen kızı suya sokmak -->
 <!-- bkz patlak kızı alınca abe kaynana yahtın bizi demek -->
