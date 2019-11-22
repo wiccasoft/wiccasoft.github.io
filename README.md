@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+ <!-- https://www.youtube.com/watch?v=i0IYD33BR1c bkz tengir budunun saçmalaması -->
  <!--bkz ibrahim tatlıseksin pezevenklerin elinden kurtardığı kürtün saçmalaması -->
  <!-- bkz 22 kasım 2019 ibrahim tatlıseksin açıklamaları -->
  <!-- bkz 22 kasım 2019 ibrahim tatlıseksin saçmalaması -->
