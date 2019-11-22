@@ -4,7 +4,7 @@
 <!-- bkz emine erdoğanın arap kürdü olması -->
 <!-- bkz ismi abdullah olup arap düşmanı olmak -->
 <!-- bkz hiç sarışın müslüman olmaması sorunsalı -->
-<!-- bkz abdurrahim albayrakın arap düşmanı olduğu iddası -->
+<!-- bkz abdurrahim albayrakın berat albayrak arasındaki dostluk -->
 <!-- https://www.youtube.com/watch?v=XsbksXXgXwQ bkz nisanur suresi okurken kamalcı babanın odayı girip dövmesi -->
 <!-- bkz büşra nur çaların namaz müminin harcıdır paylaşımı -->
 <!-- bkz büşra nur yancı nın şeyma nur kaplıcalı nın namaz tokmakçıyla kılınır yorumunu yalanlaması -->
