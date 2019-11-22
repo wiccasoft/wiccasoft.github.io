@@ -2,7 +2,6 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
-<!-- bkz yirmilik abilerin 41 lik veletlere vereceği öğütleri okurken gelen gülme -->
 <!-- https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-hala-okuyan-tipler/ bkz 41 yaşında tıp okuyan tip -->
 <!-- https://www.uludagsozluk.com/k/18-ya%C5%9F%C4%B1n%C4%B1-doldurmu%C5%9F-k%C4%B1z-%C3%B6zg%C3%BCveni/ -->
 <!-- https://www.uludagsozluk.com/k/hi%C3%A7-alkol-ve-sigara-kullanmam%C4%B1%C5%9F-erkek/&w=bg bkz maşşallah -->
