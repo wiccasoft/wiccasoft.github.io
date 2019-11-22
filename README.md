@@ -1,11 +1,8 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- bkz şal isteme numarasıyla ulucuları düzen adam -->
 <!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
 <!-- bkz saraya 5 ttane cariye yollayıp vergiden muaf olmak -->
-<!-- bkz imama hatiplini vallaha sataram köyü ha demesi -->
-<!--https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-istanbulu-sat%C4%B1%C5%9Fa-%C3%A7%C4%B1karmas%C4%B1/ -->
 <!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz köyden kayyum ataması beklemek -->
 <!--https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=gd ->
 <!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
