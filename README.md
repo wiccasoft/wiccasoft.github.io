@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz body builder vs boksör -->
-<!-- bkz kenana evren vs hulusi akar -->
+<!-- bkz kenana evren vs hulusi götten akar -->
 <!-- https://www.uludagsozluk.com/k/gel-abi-gel-vurana-kadar-gel/&w=bg bkz ben saldırıyorum beyler -->
 <!-- https://www.uludagsozluk.com/k/erkan-tan-deyince-akla-gelenler/ bkz ver mehteri -->
 <!-- bkz kenan komutanın evrenin lideri olduğu gerçeği-->
