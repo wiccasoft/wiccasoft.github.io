@@ -1,30 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
- <!-- bkz pezevenklerin elinden kurtardığım kürtün şımarması -->
- <!-- bkz şaka maka osmanlının gümbür gümbür gelmesi -->
- <!-- https://www.uludagsozluk.com/k/yavuz-sultan-selimin-%C5%9Fia-y%C4%B1-katletmesi/ bkz şiacıların göt olduğu olay -->
- <!-- https://www.uludagsozluk.com/k/emre-nalbanto%C4%9Flu/&w=bg bkz sevdim seni be tosunum -->
- <!-- https://www.youtube.com/watch?v=i0IYD33BR1c bkz be nankör kedi -->
- <!--bkz ibrahim tatlıseksin pezevenklerin elinden kurtardığı kürtün saçmalaması -->
- <!-- bkz 22 kasım 2019 ibrahim tatlıseksin açıklamaları -->
- <!-- bkz 22 kasım 2019 ibrahim tatlıseksin saçmalaması -->
- <!-- arda turanın fatih terimi affetmesi-->
- <!-- https://www.uludagsozluk.com/k/arda-turan-%C4%B1n-fatih-terim-ile-bar%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
-<!-- bkz ido tatlıbudunun babasını savunması -->
-<!--https://www.uludagsozluk.com/k/22-kas%C4%B1m-2019-ibrahim-tatl%C4%B1ses-sa%C3%A7malamas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/fatih-tezcan-sen-ne-kral-bir-adams%C4%B1n/ bkz eywalla koçum -->
-<!-- bkz şaka maka dünya lideri olmam -->
-<!-- bkz dünya liderinin misvaka dava açması -->
-<!-- bkz misvakın dünya liderini maymun olarak çizmesi -->
-<!-- bkz dünya liderinin halı önünde verdiği poz -->
-<!-- bkz dünya liderinin 108 metrelik halısı -->
- <!-- https://www.uludagsozluk.com/k/makam%C4%B1na-iddiaya-giren-cumhurba%C5%9Fkan%C4%B1/ 
-bkz makamına halı asan dünya lideri-->
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- https://www.youtube.com/watch?v=S15agXCPvC8 -->
-<!-- https://www.youtube.com/watch?v=8wyT69ifKYY -->
-<!-- https://www.youtube.com/watch?v=Z4SZfoip6Ms -->
-<!-- https://www.youtube.com/watch?v=4DzsvmfGBtc -->
+
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
  [![Image](smartdata/bprd.png)](  https://www.youtube.com/watch?v=eUWy54la_6g )
