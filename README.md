@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- bkz büşra nur çalar ın nisanur subaşını yalanlaması -->
 <!-- uludaki ergenlerin annelerinin aşk mektuplarını okumamak -->
 <!-- bkz orospu anne ile kaşar anne arasındaki farklar -->
 <!-- https://www.uludagsozluk.com/k/erkeklere-g%C3%BCvenmek/&w=bg bkz orospunun yemini malafatı görene kadardır -->
