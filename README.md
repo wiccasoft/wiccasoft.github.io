@@ -2,7 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz erdoğanın sarayda keyf çatması -->
-<!-- bkz saraya alem yaparken chpli yollamak -->
+<!-- bkz saraya yollanan cariyelerin bilgi sızdırması -->
 <!-- bkz kamalcıların devletin sadece vergi toplayan bi kurum olduğunu anlaması olayı -->
 <!-- bkz sigara ve alkol vergileri olmasa batacak malum devlet asdasdas -->
 <!-- https://www.youtube.com/watch?v=tfUCf8dFPCw yedi bölgese 81 ilde -->
