@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz mng kargoyu arayıp mngorum haa demek -->
+<!-- https://www.uludagsozluk.com/k/body-builder-vs-boks%C3%B6r/ boksör siker atar aga -->
 <!-- bkz bay kamalın ssk yı batırmasına ses etmeyen kamalcı -->
 <!-- https://www.uludagsozluk.com/k/bakanlar-ve-ailelerine-%C3%B6m%C3%BCr-boyu-sa%C4%9Fl%C4%B1k-hizmeti/&w=bg bkz ssk bağkur u batıran kılışdarın sesinin çıkmaması -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-zeynep-tanbay-%C4%B1-dan%C4%B1%C5%9Fman-yapmas%C4%B1/ bkz amcakızını danışman yapan malum zihniyet -->
