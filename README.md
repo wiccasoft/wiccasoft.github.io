@@ -3,6 +3,7 @@
  <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz aleyna abla nın ayça ablayla öpüşmesi -->
 <!-- bkz ferit şahenkin kel olması sorunsalı -->
+<!-- https://www.uludagsozluk.com/e/42448958/ bkz bu gece alemler akıyorum sırıtışı -->
 <!-- bkz ibne sevici chp nin kakatürk hayranlığı -->
 <!-- bkz kakatürke benzeyen adamın kakit e gastasına attığı manalı bakış --->
 <!-- bkz osmanlının gümbür gümbür geldiği gerçeği ni göz ardı eden araplar -->
