@@ -4,6 +4,7 @@
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
 <!-- bkz body builder vs boksör -->
 <!-- bkz kenana evren vs hulusi akar -->
+<!-- https://www.uludagsozluk.com/k/gel-abi-gel-vurana-kadar-gel/&w=bg ben saldırıyorum beyler -->
 <!-- bkz kenana evreni atatürk ilkeleri zayıfladı diye darbe yabması -->
 <!-- https://www.uludagsozluk.com/k/erkan-tan-deyince-akla-gelenler/ bkz ver mehteri -->
 <!-- bkz kenana everenin evrenin lideri olduğu gerçeği-->
