@@ -2,6 +2,7 @@
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- bkz yavaş dön reis ümmet yetişemiy -->
+<!-- bkz neşet ertaşın tatlıseksle yaptığım düeette utanıyorum demesi -->
 <!-- bkz kurşun yiyen adamın rte ile ez oğlum söylemesi -->
 <!-- bkz halk aç gezerken sarayda sefa süren madem bıyıklılar -->
 <!-- bkz 1001 gece masallarındaki sarayda dönene garip olaylar --> 
