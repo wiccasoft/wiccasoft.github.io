@@ -1,6 +1,7 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
+<!-- https://www.youtube.com/watch?v=7W01rPvyEdo bkz zuhahahaha
 <!-- https://www.youtube.com/watch?v=WGkWcPOUsaE cumhuriyetçileri gaza getirip eğlenmek
 <!-- https://www.youtube.com/watch?v=myZBdVOzHa8 take a ride -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
