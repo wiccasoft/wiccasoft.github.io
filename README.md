@@ -12,6 +12,7 @@
 <!-- bkz türkiyedeki asgari ücretliler nasıl içki sigara kullanıyor sorunsalı -->
 <!-- bkz brezilya da 2500 lira tutan içki masrafımın türkiyede 7500 lira olması sorunsalı
 <!-- bkz pasiflerin kel erkekleri maço bulması sorunsalı -->
+<!-- bkz feti şahenkin kel olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42449071/ bkz jeff bezos -->
 <!-- https://www.uludagsozluk.com/k/kellerin-b%C4%B1-d%C3%BCnyaya-katk%C4%B1s%C4%B1/ bkz keller her götü eller -->
 <!-- bkz gama erkeğinin siklemediği maço ergenler https://www.youtube.com/watch?v=UvMMF-J85uY -->
