@@ -1,4 +1,5 @@
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
+<!-- bkz pezevenklerin elinden kurtardığım kürtün saçmalaması -->
 <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz ssk yı batırmak -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 saçma eğlenmemiz-->
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
