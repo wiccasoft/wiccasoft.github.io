@@ -1,5 +1,5 @@
-<!-- http://www.cumhuriyet.com.tr/haber/turkiye/643007/celal-kilicdaroglu-abim-laf-kalabaligini-biraksin-dibindekilere-baksin.html -->
 <!-- bkz celal kılşdaroğlanın abisine verdiği muazzam ayar -->
+<!-- http://www.cumhuriyet.com.tr/haber/turkiye/643007/celal-kilicdaroglu-abim-laf-kalabaligini-biraksin-dibindekilere-baksin.html -->
 <!-- bkz 23 kasım 2019 ibrahim kalının kalın görüp tangır budun u soteye gömmmesi -->
 <!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
 <!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
