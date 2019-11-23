@@ -1,4 +1,4 @@
-<!-- bkz kamal kılıçoğlanın o ismi meclis komisyonuna kadar götüreceğim açıklaması --> 
+<!-- bkz ala gavat kamal kılıçoğlanın o ismi meclis komisyonuna kadar götüreceğim açıklaması --> 
 <!-- bkz 23 kaısm 2019 saraya kadar çıkan gizemli ismin açığa çıkması -->
 <!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
 <!-- bkz 23 kasım 2019 muharrem ince cnn turk yayını -->
