@@ -3,7 +3,7 @@
  <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html -->
  <!-- https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker -->
  <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA kluk kluk kluk fayt kluk -->
- <!-- https://www.uludagsozluk.com/k/killa-hakan/ eywallah gençler rap işte bi yaşam stilim -->
+ <!-- https://www.uludagsozluk.com/k/killa-hakan/ eywallah gençlerimza günüme de beklerim stil yaparsınız -->
  <!-- https://www.uludagsozluk.com/e/42456285/ eywallah koçum rapin kralım rapçilere bela -->
 
  
