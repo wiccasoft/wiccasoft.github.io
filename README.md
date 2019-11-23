@@ -1,3 +1,4 @@
+<!-- bkz ibrahim kalının kılışdaroğlana sapladığı tweet -->
 <!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
 <!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
 <!-- https://www.sabah.com.tr/gundem/2019/11/22/chpli-ince-kilicdaroglunu-kumpas-kurmakla-sucladi -->
