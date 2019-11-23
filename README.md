@@ -1,3 +1,4 @@
+<!-- bkz ibo talıseksin sikmediği karı kaldı mı acaba diye düşünmek -->
 <!-- bkz ibo tatlıseks hülya tatlısekse çaktı mı acaba sorunsalı-->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz ido tatlıseksin babasını savunması -->
