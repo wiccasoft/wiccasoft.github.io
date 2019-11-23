@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/e/42454060/ bkz kamalcıların alagavat sevdası --->
 <!-- bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması -->
 <!-- https://www.yenisafak.com/gundem/sosyal-medya-ince-esprilerle-yikildi-2335866 -->
 <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz tayyibin kuklası -->
