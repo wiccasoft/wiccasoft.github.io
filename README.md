@@ -1,4 +1,4 @@
-<!-- bkz kakatürke benzeyen adamın tengir ağlatması https://www.youtube.com/watch?v=CUtdSwxBlm4 -->
+<!-- bkz kakatürke benzeyen adamın tengiri ağlatması https://www.youtube.com/watch?v=CUtdSwxBlm4 -->
 <!-- bkz teengirl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
 <!-- bkz teen girl budun un  bekaretten konu açılınca konuyu değiştirmesi-->
 <!-- bkz teen girl budunun izmirli bir kız olma ihtimali  https://www.youtube.com/watch?v=43My3x9alaw -->
