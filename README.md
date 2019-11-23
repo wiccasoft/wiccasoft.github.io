@@ -1,4 +1,5 @@
 <!-- bkz kakatürke benzeyen adam nerde acaba sorunsalı -->
+<!-- bkz 23 kasım 2019 tatlıseksin iki ikki dört eder bırak yakamı bırak anan beni deli eder demesi -->
 <!-- https://www.youtube.com/watch?v=jJlHOaJeFlQ bkz tangır budun doğanın kankasını sahneye davet etmesi -->
 <!-- bkz ibo talıseksin sikmediği karı kaldı mı acaba diye düşünmek -->
 <!-- bkz ibo tatlıseks hülya tatlısekse çaktı mı acaba sorunsalı-->
