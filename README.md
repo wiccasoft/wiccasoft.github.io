@@ -3,7 +3,7 @@
 <!-- https://www.uludagsozluk.com/e/42451813/ buralar karışır beyler at fava bekle -->
 <!--https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
 <!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
-<!-- https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz kakatürke benzeyen adam yine ağlattı -->
+<!-- https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz kakatürk looks a like -->
 <!-- https://www.youtube.com/watch?v=_JgbdhY_akg -->
 <!-- bkz 23 kasım 2109 teen girl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
 <!-- https://www.youtube.com/watch?v=dkpFKtGk3Fg -->
