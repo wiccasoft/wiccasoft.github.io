@@ -1,5 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+<!-- bkz edis görgülü vs enes abi -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
 <!-- https://www.uludagsozluk.com/e/42452110/ bkz zuhahahahah -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI bkz eller kevser-->
