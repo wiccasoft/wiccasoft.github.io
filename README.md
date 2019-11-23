@@ -1,3 +1,4 @@
+<!-- bkz marrem ince nin ibrahim kalın -->
 <!-- bkz kılışdaroğlan vahdettin benzerliği -->
 <!-- bkz taksimin renkli siması cenk vs kakatürke benzeyen adam -->
 <!-- https://www.youtube.com/watch?v=urj0sCwSeio bkz kakatürke  benzeyen oç nun bokunu çıkarması -->
