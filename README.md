@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=S8YVdTQWttg bkz buralar karışır beyler -->
+<!-- https://www.youtube.com/watch?v=S8YVdTQWttg bkz buralar karışır beyler at fava izle -->
 <!-- https://www.uludagsozluk.com/e/42451813/ buralar karışır beyler at fava bekle -->
 <!--https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
 <!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
