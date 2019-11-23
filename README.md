@@ -1,5 +1,6 @@
 <!-- https://www.uludagsozluk.com/k/yapmas%C4%B1-g%C3%B6t-isteyen-meslekler/&w=bg bkz kayyum atamaları -->
 <!-- bkz osmanlı torunlarının hıyar kuyruğunda arapları eleştirmesi --->
+<!-- https://www.uludagsozluk.com/e/42452110/ bkz zuhahahahah -->
 <!-- https://www.uludagsozluk.com/k/araplar%C4%B1n-osmanl%C4%B1-kar%C5%9F%C4%B1t%C4%B1-dizi-%C3%A7ekmesi/&w=bg -->
 <!-- https://www.uludagsozluk.com/e/42453491/ rahat ol ananın amına atadım ben -->
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi https://www.youtube.com/watch?v=criYKxCGpLM-->
