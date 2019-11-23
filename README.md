@@ -1,23 +1,4 @@
-<!-- https://www.uludagsozluk.com/k/yapmas%C4%B1-g%C3%B6t-isteyen-meslekler/&w=bg bkz kayyum atamaları -->
-<!-- https://www.uludagsozluk.com/e/42452110/ bkz zuhahahahah -->
-<!-- https://www.uludagsozluk.com/e/42453491/ rahat ol ananın amına atadım ben -->
-<!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi https://www.youtube.com/watch?v=criYKxCGpLM-->
-<!-- https://www.almaany.com/tr/dict/ar-tr/kayyum/.-->
-<!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
-<!-- bkz ibb nin çöp toplana kayyum yardımcılığ danışman sekreterliğinin boş kalması sorunsalı -->
-<!-- bkz marrem ince nin parti içi iç hesaplaşmaların maşası olmak istemiyorum açıklaması -->
-<!-- bkz kılıçdarın o ismi meclis kulislerinde bahceliden duyduğunu itiraf etmesi-->
-<!-- https://www.uludagsozluk.com/k/kapat%C4%B1n-%C5%9Fu-g%C4%B1l%C4%B1%C3%A7dar%C4%B1/  --->
-<!-- bkz ülke sorunları dışında her şeyin konuşulduğu malum meclis -->
-<!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
-<!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
-<!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
-<!-- bkz saraya giden kişi meselesinin karışması https://www.youtube.com/watch?v=f8oQARWNI1 -->
-<!-- https://www.youtube.com/watch?v=VNp9XYQGtNA bkz açıklanan isimden ses gelmemesi sorunsalı -->
-<!-- https://www.youtube.com/watch?v=e3VY0bJJcHQ bkz rahmi turan iddialarının asılsız çıkması -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
+
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM allah ne kadar süper lan -->
