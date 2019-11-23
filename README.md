@@ -1,4 +1,4 @@
-<!-- bkz ibrahim kalının inceyi eze eze sikerteceği gerçeği -->
+<!-- bkz 24 mar 2020 seçimlerinde ibrahim kalının inceyi eze eze sikerteceği gerçeği -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz marrem ince vs ibrahim kalın -->
 <!-- bkz kılışdaroğlanın 2020 de marremi aday gösterebilirim açıklaması-->
