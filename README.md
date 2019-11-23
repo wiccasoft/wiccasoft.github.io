@@ -3,6 +3,7 @@
  <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html -->
  <!-- https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker -->
  <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA kluk kluk kluk fayt kluk -->
+ <!-- https://www.uludagsozluk.com/k/killa-hakan%C4%B1n-m%C3%BCkemmel-bir-insan-olmas%C4%B1/ eywallah koçum rapin kralım rapçilere bela -->
 
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
