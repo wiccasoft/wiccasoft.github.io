@@ -1,7 +1,7 @@
 <!-- bkz ibrahim kalının inceyi eze eze sikerteceği gerçeği -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz marrem ince vs ibrahim kalın -->
-<!-- bkz kılışdaroğlanın 2020 de marremi aday gösterebilirim açıklaması-->
+<!-- bkz kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8-->
 <!-- bkz taksimin renkli siması cenk vs kakatürke benzeyen adam -->
 <!-- https://www.youtube.com/watch?v=urj0sCwSeio bkz kakatürke  benzeyen oç nun bokunu çıkarması -->
 <!-- https://www.youtube.com/watch?v=tfUCf8dFPCw bkz yalovanın renkli siması -->
