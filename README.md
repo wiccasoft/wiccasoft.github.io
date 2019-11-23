@@ -1,6 +1,7 @@
 <!-- https://www.uludagsozluk.com/e/42452110/ bkz zuhahahahah -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI bkz eller kevser-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
+<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-ay%C5%9Fe-arman-ili%C5%9Fkisi/&w=gd bkz lol -->
 <!-- https://www.uludagsozluk.com/k/rusyan%C4%B1n-ep%C4%B1l%C4%B1-yasaklamas%C4%B1/&w=gd bkz yav he he -->
 <!-- https://www.youtube.com/watch?v=kVyTLx2e_tQ bkz eller kevser demedim mi -->
 
