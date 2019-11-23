@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=VNp9XYQGtNA bkz açıklanan isimden sese gelmemesi sorunsalı -->
+<!-- https://www.youtube.com/watch?v=VNp9XYQGtNA bkz açıklanan isimden ses gelmemesi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=e3VY0bJJcHQ bkz rahmi turan iddialarının asılsız çıkması -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
