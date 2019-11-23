@@ -1,6 +1,7 @@
 <!-- bkz ibrahim kalının inceyi eze eze sikerteceği gerçeği https://www.youtube.com/watch?v=INJ_kr_js1w -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz marrem ince vs ibrahim kalın -->
+<!-- 22 kasım 2019 tatlıseksin döşediği boru https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- bkz kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8-->
 <!-- bkz taksimin renkli siması cenk vs kakatürke benzeyen adam -->
 <!-- https://www.youtube.com/watch?v=urj0sCwSeio bkz kakatürke  benzeyen oç nun bokunu çıkarması -->
