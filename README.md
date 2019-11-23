@@ -1,3 +1,4 @@
+<!-- bkz 23 kasım 2019 ibrahim kalının kalın görüp tangır budun u soteye gömmmesi -->
 <!-- bkz ibrahim kalının kılışdaroğlana kalın boru gibi ssoktuğu tweet -->
 <!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
 <!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
