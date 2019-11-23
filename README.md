@@ -1,6 +1,6 @@
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
-
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM allah ne kadar süper lan -->
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
