@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/22-kas%C4%B1m-2019-ibrahim-tatl%C4%B1ses-sa%C3%A7malamas%C4%B1&w=bg/2/ tıkla-->
 <!-- bkz ibo talıseksin sikmediği karı kaldı mı acaba diye düşünmek -->
 <!-- bkz ibo tatlıseks hülya tatlısekse çaktı mı acaba sorunsalı-->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
