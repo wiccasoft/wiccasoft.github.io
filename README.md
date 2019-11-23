@@ -1,10 +1,10 @@
 <!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması -->
+<!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
 <!-- bkz o kişiyi kılışdaroğlana sordum https://www.youtube.com/watch?v=f8oQARWNI1 -->
 <!-- https://www.youtube.com/watch?v=VNp9XYQGtNA bkz açıklanan isimden ses gelmemesi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=e3VY0bJJcHQ bkz rahmi turan iddialarının asılsız çıkması -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!-- https://www.youtube.com/watch?v=S8YVdTQWttg abim soyadını gülen yapsın -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM allah ne kadar süper lan -->
