@@ -7,6 +7,7 @@ https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html
 https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
 bkz urfalılardan rahatsız olan itler
+bkz urfalıyam gardaş sorun nedir
 -->
 
  
