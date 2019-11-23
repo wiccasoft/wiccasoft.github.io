@@ -1,5 +1,6 @@
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi -->
 <!-- https://www.almaany.com/tr/dict/ar-tr/kayyum/.-->
+<!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
 <!-- bkz ibb nin çöp toplana kayyum yardımcılığ danışman sekreterliğinin boş kalması sorunsalı -->
 <!-- bkz marrem ince nin parti içi iç hesaplaşmaların maşası olmak istemiyorum açıklaması -->
 <!-- bkz kılıçdarın o ismi meclis kulislerinde bahceliden duyduğunu itiraf etmesi-->
