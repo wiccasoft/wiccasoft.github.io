@@ -2,9 +2,7 @@
  <!-- https://www.youtube.com/watch?v=H7s5E9Pxvis --->
  <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html -->
  <!-- https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker -->
- <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA kluk kluk kluk fayt kluk -->
- <!-- https://www.uludagsozluk.com/k/killa-hakan/ rapin kralıyımm rapçilere bela -->
- <!-- https://www.uludagsozluk.com/e/42456285/ eywallah koçum  -->
+ <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela  -->
 
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
