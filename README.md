@@ -1,4 +1,5 @@
 <!-- bkz teen girl budun un tam bir kezban olduğu gerçeği -->
+<!-- bkz teen girl budunun kürt erkeğine vermem tavırları -->
 <!-- bkz teen girl budun un  bekaretten konu açılınca konuyu değiştirmesi-->
 <!-- bkz teen girl budunun izmirli bir kız olma ihtimali  https://www.youtube.com/watch?v=43My3x9alaw -->
 <!-- https://www.youtube.com/watch?v=INJ_kr_js1w bkz bahcelinin döşediği boru -->
