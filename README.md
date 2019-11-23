@@ -1,11 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=DgtKLrT9_GI )
  <!-- https://www.youtube.com/watch?v=H7s5E9Pxvis --->
  <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html -->
- <!-- https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-in-ba%C4%9F%C4%B1ms%C4%B1z-k%C3%BCrdistan-konu%C5%9Fmas%C4%B1/&w=bg -->
- <!-- zall hep ona oç der seri köz getir evlat masayı fulle ananı kürtlere katır kutur siktirirm  oç -->
- <!-- bkz bi dededen götçüyüz başka deliğe sokmayız-->
- <!-- bkz suriyede kürtler tepinirken mal mal bakan türkler -->
- <!-- bkz suriyenin kzueyinde kürt devleti kurulmasına göz yumacak kadar kansız türkçü olabilmek -->
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
