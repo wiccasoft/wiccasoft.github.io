@@ -1,6 +1,5 @@
 <!-- bkz ala gavat kamal kılıçoğlanın o ismi meclis komisyonuna kadar götüreceğim açıklaması --> 
-<!-- bkz 23 kaısm 2019 saraya kadar çıkan gizemli ismin açığa çıkması -->
-<!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
+<!-- bkz 23 kasım 2019 saraya kadar çıkan gizemli ismin açığa çıkması -->
 <!-- bkz 23 kasım 2019 muharrem ince cnn turk yayını -->
 <!-- bkz 23 kasım 2019 skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
 <!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
@@ -14,6 +13,7 @@
 <!-- bkz alagavatlı konuşan kamalcıyı tek me tokat dövüp babasına teslim etmek -->
 <!-- https://www.uludagsozluk.com/e/42452288/ bkz kamalcıların neden bu kadar salak olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42454060/ bkz kamalcıların alagavat sevdası --->
+<!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
 <!-- bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması -->
 <!-- https://www.yenisafak.com/gundem/sosyal-medya-ince-esprilerle-yikildi-2335866 -->
 <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz tayyibin kuklası -->
