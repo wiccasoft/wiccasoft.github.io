@@ -1,4 +1,5 @@
 <!-- https://www.youtube.com/watch?v=_JgbdhY_akg -->
+<!-- https://www.uludagsozluk.com/e/42451813/ buralar karışır beyler yer ayırın at fava bekle bro -->
 <!-- bkz 23 kasım 2109 teen girl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
 <!-- https://www.youtube.com/watch?v=dkpFKtGk3Fg -->
 
