@@ -1,4 +1,5 @@
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
+<!-- https://www.youtube.com/watch?v=kVyTLx2e_tQ -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz kayyum ne kadar süper lan -->
