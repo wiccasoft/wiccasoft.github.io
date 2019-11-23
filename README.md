@@ -1,4 +1,5 @@
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
+<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM allah ne kadar süper lan -->
