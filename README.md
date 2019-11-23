@@ -1,14 +1,3 @@
-<!-- bkz kamal kılıçoğlanın o ismi meclis araştırma komisyonuna kadar götüreceğim açıklaması --> 
-<!-- bkz devlet bahçelinin kamalı siklememesi -->
-<!-- bkz 23 kasım 2019 saraya kadar çıkan gizemli ismin açığa çıkması -->
-<!-- bkz 23 kasım 2019 muharrem ince cnn turk yayını -->
-<!-- bkz 23 kasım 2019 skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
-<!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
-<!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
-<!-- bkz saraya giden kişi meselesinin karışması https://www.youtube.com/watch?v=f8oQARWNI1 -->
-<!-- bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması -->
-<!-- https://www.yenisafak.com/gundem/sosyal-medya-ince-esprilerle-yikildi-2335866 -->
-<!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz tayyibin kuklası -->
 <!-- https://www.uludagsozluk.com/e/42452110/ bkz zuhahahahah -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI bkz eller kevser-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
