@@ -1,3 +1,4 @@
+<!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
 <!-- bkz 23 kasım 2019 rte tatlısesk dostluğunun pekişmesi -->
 <!-- bkz kakatürke benzeyen adam nerde acaba sorunsalı -->
 <!-- bkz 23 kasım 2019 tatlıseksin iki ikki dört eder bırak yakamı bırak anan beni deli eder demesi -->
