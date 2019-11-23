@@ -1,4 +1,5 @@
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
+<!-- bkz 23 kasım 2019 bahcelinin attığı tweet -->
 <!-- https://twitter.com/cllkilicdarolgu?lang=en bkz resmi twtiiter hesabım kızlar eqleyin -->
 <!-- bkz pezevenklerin elinden kurtardığım kürtün saçmalaması -->
 <!-- https://www.youtube.com/watch?v=S8YVdTQWttg bkz kardeşim haklı beyler -->
