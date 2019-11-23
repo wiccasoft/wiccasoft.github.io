@@ -1,20 +1,3 @@
-<!-- bkz ibrahim kalının inceyi eze eze sikerteceği gerçeği https://www.youtube.com/watch?v=INJ_kr_js1w -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!-- bkz marrem ince vs ibrahim kalın -->
-<!-- 22 kasım 2019 tatlıseksin döşediği boru https://www.youtube.com/watch?v=PeIVhIwE8zU -->
-<!-- bkz kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8-->
-<!-- bkz taksimin renkli siması cenk vs kakatürke benzeyen adam -->
-<!-- https://www.youtube.com/watch?v=urj0sCwSeio bkz kakatürke  benzeyen oç nun bokunu çıkarması -->
-<!-- https://www.youtube.com/watch?v=tfUCf8dFPCw bkz yalovanın renkli siması -->
-<!-- https://www.youtube.com/watch?v=TWIET1Ehz_Y bkz binali looks a like -->
-<!-- https://www.youtube.com/watch?v=S8YVdTQWttg bkz buralar karışır beyler at fava izle -->
-<!-- https://www.uludagsozluk.com/e/42451813/ buralar karışır beyler at fava bekle -->
-<!--https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
-<!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
-<!-- https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz kakatürk looks a like -->
-<!-- https://www.youtube.com/watch?v=_JgbdhY_akg -->
-<!-- bkz 23 kasım 2109 teen girl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
-<!-- https://www.youtube.com/watch?v=dkpFKtGk3Fg -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
