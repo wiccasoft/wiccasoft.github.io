@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz marrem ince vs ibrahim kalın -->
 <!-- bkz kılışdaroğlanın 2020 de marremi aday gösterebilirim açıklaması-->
 <!-- bkz taksimin renkli siması cenk vs kakatürke benzeyen adam -->
