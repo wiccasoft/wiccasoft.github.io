@@ -1,4 +1,4 @@
-<!-- bkz ibrahim kalının inceyi eze eze sikerteceği gerçeği -->
+<!-- bkz ibrahim kalının inceyi eze eze sikerteceği gerçeği https://www.youtube.com/watch?v=INJ_kr_js1w -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz marrem ince vs ibrahim kalın -->
 <!-- bkz kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8-->
