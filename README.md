@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
 bkz urfalılardan rahatsız olan itler 
 bkz devletin bekasının amına koyayım ne mutlu kürdüm diyene
-bkz bağımsız kürd oğu kürdüm götü yiyen it gitsin rte y şikayet etsin hadi bakim çocum
+bkz bağımsız kürd oğu kürdüm götü yiyen it gitsin rte ye şikayet etsin hadi bakim çocum selam söyleyin
 https://www.uludagsozluk.com/k/urfal%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/&w=bg bkzx annenin amını sikmeleri
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
 -->
