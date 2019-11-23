@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/e/42452110/ bkz zuhahahahah -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI bkz eller kevser-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
 <!-- https://www.youtube.com/watch?v=kVyTLx2e_tQ bkz eller kevser demedim mi -->
