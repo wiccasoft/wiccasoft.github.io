@@ -1,6 +1,5 @@
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!-- bkz celal kılıçlıoğlunun bile abisini siklememesi -->
-<!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz ssk yı batıran kürt -->
+<!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz ssk yı batırmak -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 saçma eğlenmemiz-->
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
