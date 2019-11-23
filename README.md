@@ -1,5 +1,5 @@
 
-<!-- bkz teen girl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
+<!-- bkz 23 kasım 2109 teen girl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
