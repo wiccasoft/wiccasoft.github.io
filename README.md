@@ -1,4 +1,5 @@
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi -->
+<!---- Kayyum kelimesinin sözlük anlamı: "Belli bir malın yönetilmesi ya da belli bir işin yapılması için görevlendirilen kimse" demektir. Kayyum kelimesinin Arapça anlamı; gökleri, yeri ve herşeyi tutan. herşeyin varlık sahibi olabilmesi için gerekeni veren. Allah'ın isimlerinden.-->
 <!-- bkz ibb nin çöp toplana kayyum yardımcılığ danışman sekreterliğinin boş kalması sorunsalı -->
 <!-- bkz marrem ince nin parti içi iç hesaplaşmaların maşası olmak istemiyorum açıklaması -->
 <!-- bkz kılıçdarın o ismi meclis kulislerinde bahceliden duyduğunu itiraf etmesi-->
