@@ -1,3 +1,4 @@
+<!-- bkz vekil ince nin ince görmesi -->
 <!-- https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz kakatürke benzeyen adam yine ağlattı -->
 <!-- https://www.youtube.com/watch?v=_JgbdhY_akg -->
 <!-- https://www.uludagsozluk.com/e/42451813/ buralar karışır beyler yer ayırın at fava bekle -->
