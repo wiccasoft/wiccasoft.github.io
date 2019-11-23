@@ -1,26 +1,5 @@
-<!-- bkz kakatürke benzeyen adamın tengiri ağlatması https://www.youtube.com/watch?v=CUtdSwxBlm4 -->
+
 <!-- bkz teen girl bırak bu işleri hepsi bayat https://www.youtube.com/watch?v=GOg2X3s_gSY -->
-<!-- bkz teen girl budun un  bekaretten konu açılınca konuyu değiştirmesi-->
-<!-- bkz teen girl budunun izmirli bir kız olma ihtimali  https://www.youtube.com/watch?v=43My3x9alaw -->
-<!-- https://www.youtube.com/watch?v=INJ_kr_js1w bkz bahcelinin döşediği boru -->
-<!-- bkz ssk batıran kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8 -->
-<!-- https://www.youtube.com/watch?v=58Pd8De1csc gecenin şarkısı -->
-<!-- bkz bahcelinin kılışdaroğlanı taşşak oğlan yaptığı muazzam ayar -->
-<!-- bkz celal kılşdaroğlanın abisine verdiği muazzam ayar -->
-<!-- http://www.cumhuriyet.com.tr/haber/turkiye/643007/celal-kilicdaroglu-abim-laf-kalabaligini-biraksin-dibindekilere-baksin.html -->
-<!-- bkz 23 kasım 2019 ibrahim kalının kalın görüp tangır budun u soteye gömmmesi -->
-<!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
-<!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
-<!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
-<!--https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm -->
-<!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
-<!-- https://www.sabah.com.tr/gundem/2019/11/22/chpli-ince-kilicdaroglunu-kumpas-kurmakla-sucladi -->
-<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 kılışdaroğlanın göt olması -->
-<!-- bkz 22 kasım 2019 rte tatlıseks dostluğunun pekişmesi -->
-<!-- bkz kakatürke benzeyen adam nerde prim kasıyo acaba sorunsalı -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!-- https://www.youtube.com/watch?v=S8YVdTQWttg bkz kardeşim haklı beyler -->
-<!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz ssk yı batırmak -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
