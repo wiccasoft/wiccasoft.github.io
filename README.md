@@ -1,4 +1,4 @@
-<!-- bkz teen girl budunun izmirli bir kız olma ihtimali -->
+<!-- bkz teen girl budunun izmirli bir kız olma ihtimali  https://www.youtube.com/watch?v=43My3x9alaw -->
 <!-- https://www.youtube.com/watch?v=INJ_kr_js1w bkz bahcelinin döşediği boru -->
 <!-- bkz ssk batıran kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8 -->
 <!-- https://www.youtube.com/watch?v=58Pd8De1csc gecenin şarkısı -->
