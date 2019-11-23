@@ -1,6 +1,6 @@
-<!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
+<!-- https://www.youtube.com/watch?v=DgtKLrT9_GI bkz eller kevser-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
-<!-- https://www.youtube.com/watch?v=kVyTLx2e_tQ eller kevser demedim mi -->
+<!-- https://www.youtube.com/watch?v=kVyTLx2e_tQ bkz eller kevser demedim mi -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz kayyum ne kadar süper lan -->
