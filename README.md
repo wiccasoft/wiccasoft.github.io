@@ -1,5 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=DgtKLrT9_GI )
  <!-- https://www.youtube.com/watch?v=H7s5E9Pxvis --->
+ <!-- https://www.uludagsozluk.com/e/42455662/  --->
  <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html -->
  <!-- https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker -->
  <!-- https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela  -->
