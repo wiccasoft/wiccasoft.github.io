@@ -1,3 +1,4 @@
+<!-- bkz 23 kaısm 2019 saray daki gizemli ismin açığa çıkması -->
 <!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
 <!-- bkz 23 kasım 2019 muharrem ince cnn turk yayını -->
 <!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
