@@ -1,4 +1,3 @@
-<!-- bkz teen girl budun un tam bir kezban olduğu gerçeği -->
 <!-- bkz teengirl bırak bu işleri hepsi bayat biraz şamata gırgır anlayın işte kerem teen girlü götürdü -https://www.youtube.com/watch?v=GOg2X3s_gSY -->
 <!-- bkz teen girl budun un  bekaretten konu açılınca konuyu değiştirmesi-->
 <!-- bkz teen girl budunun izmirli bir kız olma ihtimali  https://www.youtube.com/watch?v=43My3x9alaw -->
