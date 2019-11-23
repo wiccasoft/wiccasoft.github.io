@@ -1,5 +1,5 @@
 <!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
-<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 kılışdarın göt olması -->
+<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 kılışdaroğlanın göt olması -->
 <!-- bkz 23 kasım 2019 rte tatlısesk dostluğunun pekişmesi -->
 <!-- bkz kakatürke benzeyen adam nerde acaba sorunsalı -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
