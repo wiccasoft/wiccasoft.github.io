@@ -1,4 +1,4 @@
-<!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması -->
+<!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
 <!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
 <!-- bkz saraya giden kişi meselesinin karışması https://www.youtube.com/watch?v=f8oQARWNI1 -->
 <!-- https://www.youtube.com/watch?v=VNp9XYQGtNA bkz açıklanan isimden ses gelmemesi sorunsalı -->
