@@ -3,6 +3,7 @@
  <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html -->
  <!-- https://www.uludagsozluk.com/k/y%C4%B1lmaz-g%C3%BCney-in-ba%C4%9F%C4%B1ms%C4%B1z-k%C3%BCrdistan-konu%C5%9Fmas%C4%B1/&w=gd -->
  <!-- bkz ben hep tayyipe oç derim -->
+ <!-- https://www.uludagsozluk.com/k/k%C3%BCrtte-olsa-insand%C4%B1r/ bkz kürt lütfen -->
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
