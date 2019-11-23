@@ -1,4 +1,4 @@
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz ibb ye kayyum danışman yardımcısı arayan bld.bşk--Z
+<!-- https://www.uludagsozluk.com/k/yapmas%C4%B1-g%C3%B6t-isteyen-meslekler/&w=bg bkz kayyum atamaları -->
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi -->
 <!-- https://www.almaany.com/tr/dict/ar-tr/kayyum/.-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
