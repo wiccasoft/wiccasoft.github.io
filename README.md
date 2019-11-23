@@ -1,3 +1,4 @@
+<!-- bkz marrem ince nini nce gördüğü ilik gibi döşediği boru -->
 <!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
 <!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
 <!--https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm -->
