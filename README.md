@@ -1,4 +1,4 @@
-
+<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 saçma eğlenmemiz-->
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=7W01rPvyEdo bkz goyduk eğleniyoruz
