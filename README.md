@@ -1,4 +1,4 @@
-
+<!-- bkz marrem ince nin ince gördüğü ayar -->
 <!--https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
 <!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
 <!-- https://www.youtube.com/watch?v=CUtdSwxBlm4 bkz kakatürke benzeyen adam yine ağlattı -->
