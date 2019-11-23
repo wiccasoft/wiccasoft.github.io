@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=jJlHOaJeFlQ bkz tangır budunun kankasını sahneye davet etmesi -->
+<!-- https://www.youtube.com/watch?v=jJlHOaJeFlQ bkz tangır budun doğanın kankasını sahneye davet etmesi -->
 <!-- bkz ibo talıseksin sikmediği karı kaldı mı acaba diye düşünmek -->
 <!-- bkz ibo tatlıseks hülya tatlısekse çaktı mı acaba sorunsalı-->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
