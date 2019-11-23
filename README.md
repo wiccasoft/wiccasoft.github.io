@@ -2,7 +2,6 @@
 <!-- bkz ssk batıran kılışdaroğlan vahdettin benzerliği https://www.youtube.com/watch?v=q-UZF12sSb8 -->
 <!-- https://www.youtube.com/watch?v=58Pd8De1csc gecenin şarkısı -->
 <!-- bkz bahcelinin kılışdaroğlanı taşşak oğlan yaptığı muazzam ayar -->
-<!-- bkz 23 kasım 2019 ido taltısesin atacağı tweet -->
 <!-- bkz celal kılşdaroğlanın abisine verdiği muazzam ayar -->
 <!-- http://www.cumhuriyet.com.tr/haber/turkiye/643007/celal-kilicdaroglu-abim-laf-kalabaligini-biraksin-dibindekilere-baksin.html -->
 <!-- bkz 23 kasım 2019 ibrahim kalının kalın görüp tangır budun u soteye gömmmesi -->
