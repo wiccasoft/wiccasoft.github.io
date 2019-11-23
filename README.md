@@ -1,6 +1,7 @@
 <!-- bkz celal kılşdaroğlanın abisine verdiği muazzam ayar -->
 <!-- http://www.cumhuriyet.com.tr/haber/turkiye/643007/celal-kilicdaroglu-abim-laf-kalabaligini-biraksin-dibindekilere-baksin.html -->
 <!-- bkz 23 kasım 2019 ibrahim kalının kalın görüp tangır budun u soteye gömmmesi -->
+<!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
 <!-- https://www.gzt.com/mzt/agabeyini-sevmeyen-celal-kilicdarogludan-laf-sokmali-10-tweet-2594158 -->
 <!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
 <!--https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm -->
@@ -14,18 +15,7 @@
 <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz ssk yı batırmak -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
-<!-- https://www.youtube.com/watch?v=00fMhETHQME -->
-<!-- https://www.youtube.com/watch?v=7W01rPvyEdo bkz goyduk eğleniyoruz
-<!-- https://www.youtube.com/watch?v=WGkWcPOUsaE cumhuriyetçileri gaza getirip eğlenmek
-<!-- https://www.youtube.com/watch?v=myZBdVOzHa8 take a ride -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s bkz lan çöpçü -->
-<!-- bkz dünya lideri kronos a iran halısı yollayıp işi tatlıya bağlamak -->
-<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ bkz saraya akarı kokarı olmayan bi mümin latifesi göndermek -->
-<!-- bkz saraya 5 tane fetö cini yollayıp vergiden muaf olmak -->
-<!--https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=gd ->
-<!--https://www.uludagsozluk.com/k/%C3%BC%C5%9F%C3%BCy%C3%BCnce-%C5%9Fal-isteyen-erkek/ bkz inanma seni sikecek -->
-<!-- https://www.uludagsozluk.com/k/saraya-hangi-chp-linin-gitti%C4%9Fini-biliyorum/&w=bg biliyorum ama söylemem -->
-<!-- https://www.uludagsozluk.com/k/manik%C3%BCr-yapt%C4%B1ran-erkek/&w=bg bkz cafede şal isteyen manikürlü erkek -->
+
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
