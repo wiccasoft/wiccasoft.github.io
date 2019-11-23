@@ -1,3 +1,4 @@
+<!-- bkz alagavatlı konuşan kamalcıyı tek me tokat dövüp babasına teslim etmek -->
 <!-- https://www.uludagsozluk.com/e/42452288/ bkz kamalcıların neden bu kadar salak olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42454060/ bkz kamalcıların alagavat sevdası --->
 <!-- bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması -->
