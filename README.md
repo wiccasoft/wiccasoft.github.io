@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=INJ_kr_js1w bkz bahcelinin döşediği boru -->
 <!-- bkz ssk batıran kılışdaroğlan vahdettin benzerliği -->
 <!-- https://www.youtube.com/watch?v=58Pd8De1csc gecenin şarkısı -->
 <!-- bkz bahcelinin kılışdaroğlanı taşşak oğlan yaptığı muazzam ayar -->
