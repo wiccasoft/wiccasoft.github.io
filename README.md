@@ -1,5 +1,6 @@
 <!-- bkz 23 kasım 2019 ibrahim kalının kalın görüp tangır budun u soteye gömmmesi -->
 <!-- bkz 23 kasım 2019 vekilince nin ince gördüü tweet -->
+<!--https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm -->
 <!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
 <!-- https://www.sabah.com.tr/gundem/2019/11/22/chpli-ince-kilicdaroglunu-kumpas-kurmakla-sucladi -->
 <!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 kılışdaroğlanın göt olması -->
