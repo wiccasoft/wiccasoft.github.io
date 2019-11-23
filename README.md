@@ -1,4 +1,5 @@
-<!-- bkz ssk batıran kılışdaroğlan vahdettin benzerliği --<
+<!-- bkz ssk batıran kılışdaroğlan vahdettin benzerliği -->
+<!-- bkz bahcelinin kuliste kılışdaroğlanı taşşak oğlan yaptığı muazzam ayar -->
 <!-- bkz 23 kasım 2019 ido taltısesin atacağı tweet -->
 <!-- bkz celal kılşdaroğlanın abisine verdiği muazzam ayar -->
 <!-- http://www.cumhuriyet.com.tr/haber/turkiye/643007/celal-kilicdaroglu-abim-laf-kalabaligini-biraksin-dibindekilere-baksin.html -->
