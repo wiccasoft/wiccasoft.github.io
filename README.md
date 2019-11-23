@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI bkz eller kevser-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
 <!-- https://www.youtube.com/watch?v=kVyTLx2e_tQ bkz eller kevser demedim mi -->
+<!-- https://www.webtekno.com/rusya-iphone-satis-yasagi-h80380.html?utm_referrer=https%3A%2F%2Fzen.yandex.com yav he he -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz kayyum ne kadar süper lan -->
