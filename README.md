@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
 bkz urfalılardan rahatsız olan itler
 bkz urfalıyak gardaş sorun nedir
-bkz bağımsız kürdüm götü yiyen türk gitsin köpek devletine şikayet etsin
+bkz bağımsız kürdüm götü yiyen it gitsin rte yer şikayet etsin onun da anasını sikeyim
 -->
 
  
