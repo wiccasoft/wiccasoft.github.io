@@ -1,5 +1,5 @@
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi -->
-<!-- bkz marrem ince nin parti içi iç hesaplaşmaların maşası olmak istemiyorum açıklması -->
+<!-- bkz marrem ince nin parti içi iç hesaplaşmaların maşası olmak istemiyorum açıklaması -->
 <!-- bkz kılıçdarın o ismi meclis kulislerinde bahceliden duyduğunu itiraf etmesi-->
 <!-- https://www.uludagsozluk.com/k/kapat%C4%B1n-%C5%9Fu-g%C4%B1l%C4%B1%C3%A7dar%C4%B1/  --->
 <!-- bkz ülke sorunları dışında her şeyin konuşulduğu malum meclis -->
