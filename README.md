@@ -1,4 +1,3 @@
-<!-- bkz kamal kılıçoğlanaın dersimde öldürülenlerin hesabını vereceksiniz çıkışı -->
 <!-- bkz kamal kılıçoğlanın o ismi meclis komisyonuna kadar götüreceğim açıklaması --> 
 <!-- bkz 23 kaısm 2019 saraya kadar çıkan gizemli ismin açığa çıkması -->
 <!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
