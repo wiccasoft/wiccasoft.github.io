@@ -1,3 +1,12 @@
+<!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
+<!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
+<!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
+<!-- bkz saraya giden kişi meselesinin karışması https://www.youtube.com/watch?v=f8oQARWNI1 -->
+<!-- https://www.youtube.com/watch?v=VNp9XYQGtNA bkz açıklanan isimden ses gelmemesi sorunsalı -->
+<!-- https://www.youtube.com/watch?v=e3VY0bJJcHQ bkz rahmi turan iddialarının asılsız çıkması -->
+<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
+<!-- https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz -->
+<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz alagavatlı konuşan kamalcıyı tek me tokat dövüp babasına teslim etmek -->
 <!-- https://www.uludagsozluk.com/e/42452288/ bkz kamalcıların neden bu kadar salak olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42454060/ bkz kamalcıların alagavat sevdası --->
