@@ -1,6 +1,5 @@
 <!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
-<!-- bkz muharrem ayının kutsal olması sorunsalı -->
-<!-- bkz muharrem ince 23 kasım 2019 cnn turk yayını -->
+<!-- bkz 23 kasım 2019 muharrem ince  cnn turk yayını -->
 <!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
 <!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
 <!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
