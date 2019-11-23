@@ -1,5 +1,5 @@
 <!-- https://www.uludagsozluk.com/k/yapmas%C4%B1-g%C3%B6t-isteyen-meslekler/&w=bg bkz kayyum atamaları -->
-<!-- https://www.uludagsozluk.com/e/42453491/ rahat ol ananın amına boruyu atadım ben -->
+<!-- https://www.uludagsozluk.com/e/42453491/ rahat ol ananın amına atadım ben -->
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi https://www.youtube.com/watch?v=criYKxCGpLM-->
 <!-- https://www.almaany.com/tr/dict/ar-tr/kayyum/.-->
 <!-- https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html bkz kayyum -->
