@@ -1,7 +1,7 @@
 <!-- bkz 23 kaısm 2019 saraya kadar çıkan gizemli ismin açığa çıkması -->
 <!-- bkz 23 kasım 2109 fatih terim basın toplantısı -->
 <!-- bkz 23 kasım 2019 muharrem ince cnn turk yayını -->
-<!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
+<!-- bkz 23 kasım 2019 skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
 <!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
 <!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
 <!-- bkz saraya giden kişi meselesinin karışması https://www.youtube.com/watch?v=f8oQARWNI1 -->
