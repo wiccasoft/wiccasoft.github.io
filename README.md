@@ -1,4 +1,5 @@
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi -->
+<!-- bkz tayyibin chpyi kukla gibi yönetmesi -->
 <!-- bkz ibbye kayyum atanması hakkında karanamesyi göz ardı eden chpliler -->
 <!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
 <!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
