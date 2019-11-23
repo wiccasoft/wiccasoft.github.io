@@ -1,5 +1,5 @@
 <!-- bkz saraya çıkan o ismin kulislere boruyu döşemesi -->
-<!-- bkz ülke sorunu dışında her şeyin konuşulduğu malum meclis -->
+<!-- bkz ülke sorunları dışında her şeyin konuşulduğu malum meclis -->
 <!-- bkz skandal ismin söylentilere ne cavap vereceğinin kulislerde gündem olmaya başlaması -->
 <!-- bkz 23 kasım 2019 kulislerde dönen iddiaların asılsız çıkması https://www.youtube.com/watch?v=INJ_kr_js1w -->
 <!-- https://www.youtube.com/watch?v=S8YVdTQWttg o kişi soyadını değiştirsin -->
