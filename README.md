@@ -1,18 +1,11 @@
 <!-- bkz kılışdaroğlanın rte tatlıseks dosluğunu kıskanması -->
+<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 kılışdarın göt olması -->
 <!-- bkz 23 kasım 2019 rte tatlısesk dostluğunun pekişmesi -->
 <!-- bkz kakatürke benzeyen adam nerde acaba sorunsalı -->
-<!-- bkz 23 kasım 2019 tatlıseksin iki ikki dört eder bırak yakamı bırak anan beni deli eder demesi -->
-<!-- https://www.youtube.com/watch?v=jJlHOaJeFlQ bkz tangır budun doğanın kankasını sahneye davet etmesi -->
-<!-- bkz ibo talıseksin sikmediği karı kaldı mı acaba diye düşünmek -->
-<!-- bkz ibo tatlıseks hülya tatlısekse çaktı mı acaba sorunsalı-->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!-- bkz ido tatlıseksin babasını savunması -->
-<!-- bkz 23 kasım 2019 bahcelinin kılışdaraı yerin dibine soktigi tweet -->
-<!-- https://twitter.com/cllkilicdarolgu?lang=en bkz resmi twtiiter hesabım kızlar eqleyin -->
-<!-- bkz pezevenklerin elinden kurtardığım kürtün saçmalaması -->
 <!-- https://www.youtube.com/watch?v=S8YVdTQWttg bkz kardeşim haklı beyler -->
 <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz ssk yı batırmak -->
-<!-- https://www.youtube.com/watch?v=PeIVhIwE8zU  22 kasım 2019 saçma eğlenmemiz-->
+
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 <!-- https://www.youtube.com/watch?v=00fMhETHQME -->
 <!-- https://www.youtube.com/watch?v=7W01rPvyEdo bkz goyduk eğleniyoruz
