@@ -1,3 +1,4 @@
+<!-- bkz ibo tatlıseks hülya tatlısekse çaktı mı acaba sorunsalı-->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- bkz ido tatlıseksin babasını savunması -->
 <!-- bkz 23 kasım 2019 bahcelinin kılışdaraı yerin dibine soktigi tweet -->
