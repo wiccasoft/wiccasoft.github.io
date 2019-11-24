@@ -1,40 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
-https://www.youtube.com/watch?v=H7s5E9Pxvis 
-https://www.uludagsozluk.com/e/42455662/
-https://www.youtube.com/watch?v=R32qWdOWrTo
-https://www.youtube.com/watch?v=p-zJzffx3FM hive without oracle
-https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html 
-https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
-https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
-bkz misvakın dünya liderini maymun olarak çizmesi
-bkz teset in türü teset in türsüzü
-bkz sağlık bakanı müşaviri büşra nur çalar ın yardımcı danışmanı nisa nur çırpar ın california daki malikanesi
-https://www.uludagsozluk.com/k/belhanda-gidiyor-arda-geliyor/ bkz geliyor iki gözümün çiçeği
-https://www.uludagsozluk.com/k/muhammed-in-e%C5%9Fleri-tam-liste/ bkz ebu zındık bin veled in kıskandığı liste
-https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-ergenin-akp-yi-ele%C5%9Ftirmesi/&w=gd bkz hırtlar vadisi 
-https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=gd bkz lol
-https://www.uludagsozluk.com/k/evlenmek-istenilen-kad%C4%B1n%C4%B1n-bitlisli-%C3%A7%C4%B1kmas%C4%B1/&w=gd lol
-https://www.uludagsozluk.com/k/bordo-klavye-tugay%C4%B1/ bkz kürdistan hack team
-https://www.uludagsozluk.com/e/42458176/ bkz tesla isistruck
-https://www.uludagsozluk.com/k/her-y%C4%B1l-3-ay-yatmak/&w=gd lol
-https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
-https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
-https://www.sozcu.com.tr/2019/ekonomi/icki-ve-sigara-icenler-dev-sirketleri-solladi-5399240/ lol
-http://www.hurriyet.com.tr/yazarlar/ertugrul-ozkok/icki-sigara-vergisi-otomobili-gectiyse-41332529 lol
-https://www.birgun.net/haber/en-sadik-mukellef-icki-ve-sigara-tuketicisi-260809 bkz rte nin en sevdiği tüketici
-https://odatv.com/tek-millet-tek-devlet-tek-tip-sigara-20101923.html 
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kaynağı ne sorunsalı
-https://www.youtube.com/watch?v=RHBoMuNszuk bkz düğünlerde oynayarak yan gelir elde etmek
-https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal kurması
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-https://www.uludagsozluk.com/k/konserde-hava-atay%C4%B1m-derken-gitar%C4%B1-k%C4%B1ran-liseli/
-https://www.uludagsozluk.com/k/akp-li-sa%C4%9Fl%C4%B1k-bakan%C4%B1-n%C4%B1n-m%C3%BC%C5%9Faviri-b%C3%BC%C5%9Fra-nur-%C3%A7alar/ bkz büşra nur çalar ın yahudi maşası olması
-bkz bop eşbaşkanının imamoğlanla maçoğlandan korktuğunu düşünmek
-bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
-bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
-bkz teset-türksüz biriyle evlenmem diyen erkek 
-bkz 1978 yılından sonra doğanları sikleyememek
+bkz abdullah öcalanın 24 kasım 2019 d paylaştığı foto
 -->
 
  
