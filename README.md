@@ -6,9 +6,6 @@ https://www.youtube.com/watch?v=R32qWdOWrTo
 https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html 
 https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
-bkz devletin malı deniz yemeyen keriz diyen kürtlerden rahatsız olan malum şerefsiz ırk
-bkz devletin bekasının amına koyayım ne mutlu kürdüm diyene https://www.youtube.com/watch?v=h6Q9id4Q_js
-bkz müslüman ve türklerin yemediği bok kalmaması sorunsalı https://www.youtube.com/watch?v=tVfyO37ARpQ
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
 https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
