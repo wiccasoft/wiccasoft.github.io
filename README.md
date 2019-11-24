@@ -1,4 +1,4 @@
- [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=DgtKLrT9_GI )
+ [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 https://www.youtube.com/watch?v=H7s5E9Pxvis 
 https://www.uludagsozluk.com/e/42455662/
