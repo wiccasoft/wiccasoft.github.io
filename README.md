@@ -10,6 +10,7 @@ bkz devletin malı deniz yemeyen keriz diyen kürtlerden rahatsız olan malum ş
 bkz devletin bekasının amına koyayım ne mutlu kürdüm diyene
 bkz müslüman ve türklerin yemediği bok kalmaması sorunsalı https://www.youtube.com/watch?v=tVfyO37ARpQ
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
+https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 -->
 
  
