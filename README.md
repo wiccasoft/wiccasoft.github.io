@@ -1,6 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
-https://www.youtube.com/watch?v=fWyj6KcnmVc bkz yapay beden öğretmeni v1
+https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
 https://www.youtube.com/watch?v=k6gi9WhpBJ0 bkz yapay müdür yardımcısı
 https://www.youtube.com/watch?v=7hjZGkUX1-Y bkzx yapay kürt öğretmen
 https://www.youtube.com/watch?v=X3a3DG69nRk bkz yapay zeka ve emekli hemşire
