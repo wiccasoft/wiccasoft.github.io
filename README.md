@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
 https://www.youtube.com/watch?v=k6gi9WhpBJ0 bkz yapay müdür yardımcısı
 https://www.youtube.com/watch?v=7hjZGkUX1-Y bkzx yapay kürt öğretmen
 https://www.youtube.com/watch?v=X3a3DG69nRk bkz yapay zeka ve emekli hemşire
-bkz türleri teset geçmesi https://www.youtube.com/watch?v=uegfr5__EAQ
+bkz türlerin teset geçmesi https://www.youtube.com/watch?v=uegfr5__EAQ
 https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.sozcu.com.tr/2019/ekonomi/icki-ve-sigara-icenler-dev-sirketleri-solladi-5399240/ lol
