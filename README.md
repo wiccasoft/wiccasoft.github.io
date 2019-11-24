@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
+https://www.uludagsozluk.com/k/trendyol/&w=gd lol
 https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
 https://www.youtube.com/watch?v=k6gi9WhpBJ0 bkz yapay müdür yardımcısı
 https://www.youtube.com/watch?v=7hjZGkUX1-Y bkzx yapay kürt öğretmen
