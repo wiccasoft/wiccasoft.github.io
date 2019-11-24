@@ -12,6 +12,7 @@ bkz müslüman ve türklerin yemediği bok kalmaması sorunsalı https://www.you
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
 https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
+http://www.hurriyet.com.tr/yazarlar/ertugrul-ozkok/icki-sigara-vergisi-otomobili-gectiyse-41332529 lol
 -->
 
  
