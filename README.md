@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-recep-t
 bkz teset tür ün içinde ki türk değilse yüktür diyen erkek
 bkz teset tür lü biriyle evlenmem diyen tür çü erkek
 bkz tayyibin başkumandan ve başöğretmen maaşlarına zam yapması
-bkz tayyibin türklere ne yedirdiği sorunsalı
+bkz tayyibin teset türsüzlere ne yedirdiği sorunsalı
 bkz 5000 lirayı beğenmeyen öğretmenlerin dramı
 bkz tayyibin haram sigara ve alkole zam yaparak kutsal öğretmen maaşlarını iyileştirmesi
 https://www.uludagsozluk.com/k/24-kas%C4%B1mda-konya-valisinin-%C3%B6%C4%9Fretmeni-f%C4%B1r%C3%A7alamas%C4%B1/
