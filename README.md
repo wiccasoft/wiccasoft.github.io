@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 https://www.youtube.com/watch?v=JrBdYmStZJ4 teset tür ün içindeki türk değilse yüktür
+https://www.uludagsozluk.com/k/tayyib-in-se%C3%A7im-rakibini-se%C3%A7meye-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
 -->
 
  
