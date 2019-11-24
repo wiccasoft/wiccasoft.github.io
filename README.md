@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz abdullah öcalanın 24 kasım 2019 d paylaştığı foto
+bkz abdullah öcalanın teset tür süz biriyle evlenemem açıklaması 
 -->
 
  
