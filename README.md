@@ -28,7 +28,7 @@ bkz bop eşbaşkanının imamaoğlanla maçoğlandan korktuğunu düşünmek
 bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
 bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
 bkz teset-türksüz ya da teset-türklü kimseyle evlenmem diyen erkek 
-bkz 78 yılından sonra doğanları sikleyememek
+bkz 1978 yılından sonra doğanları sikleyememek
 -->
 
  
