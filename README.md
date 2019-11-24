@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
 bkz devletin malı deniz yemeyen keriz diyen kürtlerden rahatsız olan malum şerefsiz ırk
 bkz devletin bekasının amına koyayım ne mutlu kürdüm diyene
-bkz müslüman ve türklerin yemediği bok kalmaması sorunsalı
+bkz müslüman ve türklerin yemediği bok kalmaması sorunsalı https://www.youtube.com/watch?v=tVfyO37ARpQ
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
 -->
 
