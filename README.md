@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz tayyibin türklere ne etiği yedirdiği sorunsalı
+https://www.uludagsozluk.com/k/24-kas%C4%B1mda-konya-valisinin-%C3%B6%C4%9Fretmeni-f%C4%B1r%C3%A7alamas%C4%B1/
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmen/&w=bg bkz türbanlı öğretmen ithal etmek
 https://www.youtube.com/watch?v=JrBdYmStZJ4 bkz teset tür ün içindeki siirtli emine değilse yüktür
 https://www.uludagsozluk.com/k/tayyib-in-se%C3%A7im-rakibini-se%C3%A7meye-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
