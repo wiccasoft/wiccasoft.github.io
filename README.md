@@ -2,6 +2,15 @@
 <!-- 
 https://www.youtube.com/watch?v=JrBdYmStZJ4 teset tür ün içindeki türk değilse yüktür
 https://www.uludagsozluk.com/k/tayyib-in-se%C3%A7im-rakibini-se%C3%A7meye-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
+https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
+https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
+https://www.sozcu.com.tr/2019/ekonomi/icki-ve-sigara-icenler-dev-sirketleri-solladi-5399240/ lol
+http://www.hurriyet.com.tr/yazarlar/ertugrul-ozkok/icki-sigara-vergisi-otomobili-gectiyse-41332529 lol
+https://www.birgun.net/haber/en-sadik-mukellef-icki-ve-sigara-tuketicisi-260809 bkz rte nin en sevdiği tüketici
+https://odatv.com/tek-millet-tek-devlet-tek-tip-sigara-20101923.html 
+https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kaynağı ne sorunsalı
+https://www.youtube.com/watch?v=RHBoMuNszuk bkz düğünlerde oynayarak yan gelir elde etmek
+https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal kurması
 -->
 
  
