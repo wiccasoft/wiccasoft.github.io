@@ -1,7 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz tayyibin türklere ne etiği yedirdiği sorunsalı
-https://www.youtube.com/watch?v=JrBdYmStZJ4 teset tür ün içindeki türk değilse yüktür
+https://www.youtube.com/watch?v=JrBdYmStZJ4 bkz teset tür ün içindeki siirtli emine değilse yüktür
 https://www.uludagsozluk.com/k/tayyib-in-se%C3%A7im-rakibini-se%C3%A7meye-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
