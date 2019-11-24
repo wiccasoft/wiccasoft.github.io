@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
+https://eksisozluk.com/entry/98216200 lol
 https://www.uludagsozluk.com/k/trendyol/&w=gd lol
 https://eksisozluk.com/trendyol--2361186?a=popular lol
 https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
