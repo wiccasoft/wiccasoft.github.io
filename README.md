@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kayna
 
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
+<!-- https://www.youtube.com/watch?v=p-zJzffx3FM hive -->
 
  [![Image](smartdata/hellboy.png)](  https://www.youtube.com/watch?v=qml_294gRQc )
 
