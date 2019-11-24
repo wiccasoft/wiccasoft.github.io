@@ -4,6 +4,7 @@
 https://eksisozluk.com/entry/98216200 lol
 https://www.uludagsozluk.com/k/trendyol/&w=gd lol
 https://eksisozluk.com/trendyol--2361186?a=popular lol
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/
 https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
 https://www.youtube.com/watch?v=k6gi9WhpBJ0 bkz yapay müdür yardımcısı
 https://www.youtube.com/watch?v=7hjZGkUX1-Y bkzx yapay kürt öğretmen
