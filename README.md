@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal ku
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
 bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
+bkz tesettürksüz tesettürklü kimseyle evlenmem diyen erkek
 -->
 
  
