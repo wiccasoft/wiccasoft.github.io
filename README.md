@@ -1,6 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
-bkz türleri teset geçmesi
+bkz türleri teset geçmesihttps://www.youtube.com/watch?v=uegfr5__EAQ
 bkz reep oğlanın birinci abdulhamid haindi açıklamsı
 bkz kılıç oğlanın bu ay yoğunum meclise gelmeyeceğim açıklaması
 bkz kılıç oğlan ın hdp mhp akp ittifakına şimdiden sıcak bakması
