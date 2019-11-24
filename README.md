@@ -1,6 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
-bkz teset türün için de ki türk değilse yüktür
+bkz teset türün için de ki türk değilse yüktür https://www.youtube.com/watch?v=Z7BuQFUhsRM
 -->
 
  
