@@ -6,6 +6,7 @@ bkz kılıç oğlanın bu ay yoğunum meclise gelmeyeceğim açıklaması
 bkz kılıç oğlan ın hdp mhp akp ittifakına şimdiden sıcak bakması
 https://www.uludagsozluk.com/k/hdp-iyi-parti-chp-saadet-partisi-dayan%C4%B1%C5%9Fmas%C4%B1/&w=bg
 bkz tayyibin 2020 de yapacağım zamlarla kutsal öğretmen ve baş öğretmen maaşını düzeltecem sözü
+bkz konya valisinin öğretmen maaşlarını protesto eden öğretmei sakinleştrimesi
 bkz kılıç oğlanın meclis araştırma konseyine verdiği dilekçe
 bkz kılıç oğlanın tayybi tiye aldığı paylaşım
 bkz kılıçdaroğlanın tayyipi maymun olarak gösteren instagram paylaşımı
