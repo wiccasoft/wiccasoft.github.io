@@ -8,6 +8,7 @@ https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html
 https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
 bkz misvakın dünya liderini maymun olarak çizmesi
+bkz teset in türü teset in türsüzü
 bkz sağlık bakanı müşaviri büşra nur çalar ın yardımcı danışmanı nisa nur çırpar ın california daki malikanesi
 https://www.uludagsozluk.com/k/belhanda-gidiyor-arda-geliyor/ bkz geliyor iki gözümün çiçeği
 https://www.uludagsozluk.com/k/muhammed-in-e%C5%9Fleri-tam-liste/ bkz ebu zındık bin veled in kıskandığı liste
