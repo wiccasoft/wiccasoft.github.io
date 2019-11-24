@@ -32,7 +32,7 @@ https://www.uludagsozluk.com/k/akp-li-sa%C4%9Fl%C4%B1k-bakan%C4%B1-n%C4%B1n-m%C3
 bkz bop eşbaşkanının imamoğlanla maçoğlandan korktuğunu düşünmek
 bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
 bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
-bkz teset-türksüz ya da teset-türklü kimseyle evlenmem diyen erkek 
+bkz teset-türksüz biriyle evlenmem diyen erkek 
 bkz 1978 yılından sonra doğanları sikleyememek
 -->
 
