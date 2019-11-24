@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=p-zJzffx3FM hive without oracle
 https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html 
 https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
-bkz tc sağlık bakanı müşaviri büşanur çalar ın yardımcı danışmanı nisa nur çırpar ın california daki villası
+bkz tc sağlık bakanı müşaviri büşanur çalar ın yardımcı danışmanı nisa nur çırpar ın california daki malikanesi
 https://www.uludagsozluk.com/k/belhanda-gidiyor-arda-geliyor/ bkz geliyor iki gözümün çiçeği
 https://www.uludagsozluk.com/k/muhammed-in-e%C5%9Fleri-tam-liste/ bkz ebu zındık bin veled in kıskandığı liste
 https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-ergenin-akp-yi-ele%C5%9Ftirmesi/&w=gd bkz hırtlar vadisi 
