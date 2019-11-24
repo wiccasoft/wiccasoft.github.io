@@ -1,7 +1,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesi
-bkz berkçi ve öğğretmen maaşlarına 3 ikramiye vermezseniz kendimi keserim diye işsiz
+bkz kemal kılıçdaroğlan maaşı vs recep tayyip oğlan maaaşı
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-recep-tayyip-erdo%C4%9Fan/&w=bg
 bkz teset tür ün içinde ki türk değilse yüktür diyen erkek
 bkz teset tür lü biriyle evlenmem diyen tür çü erkek
 bkz tayyibin başkumandan ve başöğretmen maaşlarına zam yapması
