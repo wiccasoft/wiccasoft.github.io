@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=R32qWdOWrTo
 https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html 
 https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
-bkx zall hep ona oç derin kürdistanı kurdurtmamak için verdiği mücadele
+bkz zall hep ona oç derin kürdistanı kurdurtmamak için verdiği mücadele
+https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=gd bkz lol
 https://www.uludagsozluk.com/k/bordo-klavye-tugay%C4%B1/ bkz kürdistan hack team
 bkz şaka maka hırtlar vadisiyle büyüyen ergenlerin 30 yaşına gelmeleri 
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
