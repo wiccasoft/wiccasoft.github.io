@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesi
+https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-maa%C5%9F%C4%B1/&w=bg bkz sigara zamlarının sebebi
 bkz kemal kılıçdaroğlan maaşı vs recep tayyip oğlan maaaşı
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-recep-tayyip-erdo%C4%9Fan/&w=bg
 bkz teset tür ün içinde ki türk değilse yüktür diyen erkek
