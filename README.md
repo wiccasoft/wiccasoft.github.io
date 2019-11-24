@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesi
+bkz kılıç oğlanın meclis araştırma konseyine verdiği dilekçe
 bkz kılıç oğlanın tayybi tiye aldığı paylaşım
 bkz kılıçdaroğlanın tayyipi maymun olarak gösteren instagram paylaşımı
 bkz kılıçdar oğlanın kızının lük villası
