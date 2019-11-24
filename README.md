@@ -20,7 +20,7 @@ http://www.hurriyet.com.tr/yazarlar/ertugrul-ozkok/icki-sigara-vergisi-otomobili
 https://www.birgun.net/haber/en-sadik-mukellef-icki-ve-sigara-tuketicisi-260809 bkz rte nin en sevdiği tüketici
 https://odatv.com/tek-millet-tek-devlet-tek-tip-sigara-20101923.html 
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kaynağı ne sorunsalı
-bkz tayyip erdoğan türkiyenin anasını sikerken uzaktan izlemek
+bkz yahudi maşası tayyip erdoğan türkiyenin anasını sikerken uzaktan izlemek
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 -->
 
