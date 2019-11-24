@@ -1,6 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
-https://www.youtube.com/watch?v=JrBdYmStZJ4 
+https://www.youtube.com/watch?v=JrBdYmStZJ4 teset tür ün içindeki türk değilse yüktür
 -->
 
  
