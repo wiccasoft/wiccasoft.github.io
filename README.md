@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=RHBoMuNszuk bkz düğünlerde oynayarak yan geli
 https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal kurması
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 https://www.uludagsozluk.com/k/konserde-hava-atay%C4%B1m-derken-gitar%C4%B1-k%C4%B1ran-liseli/
-https://www.uludagsozluk.com/k/akp-li-sa%C4%9Fl%C4%B1k-bakan%C4%B1-n%C4%B1n-m%C3%BC%C5%9Faviri-b%C3%BC%C5%9Fra-nur-%C3%A7alar/ bkz büşra nur çalar
+https://www.uludagsozluk.com/k/akp-li-sa%C4%9Fl%C4%B1k-bakan%C4%B1-n%C4%B1n-m%C3%BC%C5%9Faviri-b%C3%BC%C5%9Fra-nur-%C3%A7alar/ bkz büşra nur çalar ın yahudi maşası olması
 bkz bop eşbaşkanının imamoğlanla maçoğlandan korktuğunu düşünmek
 bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
 bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
