@@ -2,6 +2,7 @@
 <!-- 
 bkz teset türün için de ki türk değilse yüktür https://www.youtube.com/watch?v=Z7BuQFUhsRM
 https://www.uludagsozluk.com/k/tayyib-in-se%C3%A7im-rakibini-se%C3%A7meye-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
+https://www.youtube.com/watch?v=JrBdYmStZJ4
 -->
 
  
