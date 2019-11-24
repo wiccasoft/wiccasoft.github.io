@@ -2,6 +2,7 @@
 <!-- 
 bkz abdullah öcalanın 24 kasım 2019 d paylaştığı foto
 bkz abdullah öcalanın teset tür süz biriyle evlenemem açıklaması 
+bkz teset türün için de ki türk değilse yüktür
 -->
 
  
