@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesi
+bkz kemal kılıçoğlan ve recep tayyip oğlan
 bkz tayyibin 2020 de yapacağım zamlarla kutsal öğretmen ve baş öğretmen maaşını düzeltecem sözü
 bkz kılıç oğlanın meclis araştırma konseyine verdiği dilekçe
 bkz kılıç oğlanın tayybi tiye aldığı paylaşım
