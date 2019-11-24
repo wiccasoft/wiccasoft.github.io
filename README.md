@@ -1,35 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesihttps://www.youtube.com/watch?v=uegfr5__EAQ
-bkz reep oğlanın birinci abdulhamid haindi açıklamsı
-bkz kılıç oğlanın bu ay yoğunum meclise gelmeyeceğim açıklaması
-bkz kılıç oğlan ın hdp mhp akp ittifakına şimdiden sıcak bakması
-bkzk tayybini öğretmen maaşlarını yeni zamlarla düzeltecem sözü
-bkz şaka maka ara tatilin iki ay sonra bitecek olması
-bkz ara tatil sonra mayışla bi olimpos yapmak
-https://www.uludagsozluk.com/k/24-kas%C4%B1mda-konya-valisinin-%C3%B6%C4%9Fretmeni-f%C4%B1r%C3%A7alamas%C4%B1/
-https://www.uludagsozluk.com/k/hdp-iyi-parti-chp-saadet-partisi-dayan%C4%B1%C5%9Fmas%C4%B1/&w=bg
-bkz tayyibin 2020 de yapacağım zamlarla kutsal öğretmen ve baş öğretmen maaşını düzeltecem sözü
-bkz konya valisinin öğretmen maaşlarını protesto eden öğretmei sakinleştrimesi
-bkz kılıç oğlanın meclis araştırma konseyine verdiği dilekçe
-bkz kılıç oğlanın tayybi tiye aldığı paylaşım
-bkz kılıçdaroğlanın tayyipi maymun olarak gösteren instagram paylaşımı
-bkz kılıçdar oğlanın kızının lük villası
-https://www.uludagsozluk.com/k/hdp-iyi-parti-chp-saadet-partisi-dayan%C4%B1%C5%9Fmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-kendini-deveku%C5%9Fu-zannetmesi/
-https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-maa%C5%9F%C4%B1/&w=bg bkz sigara zamlarının sebebi
-bkz kemal kılıçdaroğlan maaşı vs recep tayyip oğlan maaaşı
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-recep-tayyip-erdo%C4%9Fan/&w=bg
-bkz teset tür ün içinde ki türk değilse yüktür diyen erkek
-bkz teset tür lü biriyle evlenmem diyen tür çü erkek
-bkz tayyibin başkumandan ve başöğretmen maaşlarına zam yapması
-bkz tayyibin teset türsüzlere ne yedirdiği sorunsalı
-bkz 5000 lirayı beğenmeyen öğretmenlerin dramı
-bkz tayyibin haram sigara ve alkole zam yaparak kutsal öğretmen maaşlarını iyileştirmesi
-https://www.uludagsozluk.com/k/24-kas%C4%B1mda-konya-valisinin-%C3%B6%C4%9Fretmeni-f%C4%B1r%C3%A7alamas%C4%B1/
-https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmen/&w=bg bkz türbanlı öğretmen ithal etmek
-https://www.youtube.com/watch?v=JrBdYmStZJ4 bkz teset tür ün içindeki siirtli emine değilse yüktür
-https://www.uludagsozluk.com/k/tayyib-in-se%C3%A7im-rakibini-se%C3%A7meye-%C3%A7al%C4%B1%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.sozcu.com.tr/2019/ekonomi/icki-ve-sigara-icenler-dev-sirketleri-solladi-5399240/ lol
@@ -39,11 +10,6 @@ https://odatv.com/tek-millet-tek-devlet-tek-tip-sigara-20101923.html
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kaynağı ne sorunsalı
 https://www.youtube.com/watch?v=RHBoMuNszuk bkz düğünlerde oynayarak yan gelir elde etmek
 https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal kurması
-bkz bop eşbaşkanının imamoğlanla maçoğlandan korktuğunu düşünmek
-bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
-bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
-bkz teset-türksüz biriyle evlenmem diyen erkek 
-bkz 1978 yılından sonra doğanları sikleyememek
 -->
 
  
