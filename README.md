@@ -2,7 +2,7 @@
 <!-- 
 bkz tayyibin başkumandan ve başöğretmen maaşlarına zam yapması
 bkz tayyibin türklere ne yedirdiği sorunsalı
-bkz 5000 lirayı beğenmeyen öğretmen
+bkz 5000 lirayı beğenmeyen öğretmenlerin dramı
 bkz tayyibin haram sigara ve alkole zam yaparak kutsal öğretmen maaşlarını iyileştirmesi
 https://www.uludagsozluk.com/k/24-kas%C4%B1mda-konya-valisinin-%C3%B6%C4%9Fretmeni-f%C4%B1r%C3%A7alamas%C4%B1/
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-%C3%B6%C4%9Fretmen/&w=bg bkz türbanlı öğretmen ithal etmek
