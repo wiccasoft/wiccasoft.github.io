@@ -2,6 +2,8 @@
 <!-- 
 bkz türleri teset geçmesi
 bkz kemal kılıçoğlan ve recep tayyip oğlan
+bkz kemal kılıç oğlan ın hdp mhp ittifakına sıcak bakması
+https://www.uludagsozluk.com/k/hdp-iyi-parti-chp-saadet-partisi-dayan%C4%B1%C5%9Fmas%C4%B1/&w=bg
 bkz tayyibin 2020 de yapacağım zamlarla kutsal öğretmen ve baş öğretmen maaşını düzeltecem sözü
 bkz kılıç oğlanın meclis araştırma konseyine verdiği dilekçe
 bkz kılıç oğlanın tayybi tiye aldığı paylaşım
