@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/evlenmek-istenilen-kad%C4%B1n%C4%B1n-bitlisli-%C3
 https://www.uludagsozluk.com/k/bordo-klavye-tugay%C4%B1/ bkz kürdistan hack team
 bkz şaka maka hırtlar vadisiyle büyüyen ergenlerin 30 yaşına gelmeleri 
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
+https://www.uludagsozluk.com/k/her-y%C4%B1l-3-ay-yatmak/&w=gd lol
 https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.sozcu.com.tr/2019/ekonomi/icki-ve-sigara-icenler-dev-sirketleri-solladi-5399240/ lol
