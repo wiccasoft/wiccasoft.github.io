@@ -1,7 +1,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesi
+bkz kılıçdaroğlanın tayyipi maymun olarak gösteren instagram paylaşımı
 bkz kılıçdar oğlanın kızının lük villası
+https://www.uludagsozluk.com/k/hdp-iyi-parti-chp-saadet-partisi-dayan%C4%B1%C5%9Fmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-kendini-deveku%C5%9Fu-zannetmesi/
 https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-maa%C5%9F%C4%B1/&w=bg bkz sigara zamlarının sebebi
 bkz kemal kılıçdaroğlan maaşı vs recep tayyip oğlan maaaşı
