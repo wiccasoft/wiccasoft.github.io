@@ -1,6 +1,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 bkz türleri teset geçmesi
+bkz berkçi ve öğğretmen maaşlarına 3 ikramiye vermezseniz kendimi keserim diye işsiz
 bkz teset tür ün içinde ki türk değilse yüktür diyen erkek
 bkz teset tür lü biriyle evlenmem diyen tür çü erkek
 bkz tayyibin başkumandan ve başöğretmen maaşlarına zam yapması
