@@ -1,3 +1,4 @@
+ 
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
 https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
