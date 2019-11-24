@@ -1,6 +1,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
 <!-- 
-bkz kamalcıların tayyibin izinden gitmesi
+bkz tayyibin başkumandan ve başöğretmen maaşlarına zam yapması
 bkz tayyibin türklere ne yedirdiği sorunsalı
 bkz 5000 lirayı beğenmeyen öğretmen
 bkz tayyibin haram sigara ve alkole zam yaparak kutsal öğretmen maaşlarını iyileştirmesi
