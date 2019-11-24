@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=R32qWdOWrTo
 https://npmdoc.github.io/node-npmdoc-suncalc/build/apidoc.html 
 https://www.youtube.com/watch?v=wjOkdyr6Cr8 rise of skywalker 
 https://www.youtube.com/watch?v=FqDSaTKtQYA rapin kralıyımm rapçilere bela
-bkz devletin malı deniz yemyen keriz diyen urfalılardan rahatsız olan malum it ırkı  
+bkz devletin malı deniz yemeyen keriz diyen urfalılardan rahatsız olan malum  şerefsiz ırk
 bkz devletin bekasının amına koyayım ne mutlu kürdüm diyene
 https://www.uludagsozluk.com/e/42457055/ annenin amı diyom çikilata muz
 -->
