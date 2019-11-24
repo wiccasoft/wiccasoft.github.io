@@ -12,6 +12,11 @@ https://odatv.com/tek-millet-tek-devlet-tek-tip-sigara-20101923.html
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kaynağı ne sorunsalı
 https://www.youtube.com/watch?v=RHBoMuNszuk bkz düğünlerde oynayarak yan gelir elde etmek
 https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal kurması
+bkz bop eşbaşkanının imamoğlanla maçoğlandan korktuğunu düşünmek
+bkz yahudi maşası rte nin 2023 hedeflerini hızlandırması
+bkz kamalcıların demirtaşın heykelini dikeceği günlerin yaklaşması
+bkz teset-türksüz biriyle evlenmem diyen erkek 
+bkz 1978 yılından sonra doğanları sikleyememek
 -->
 
  
