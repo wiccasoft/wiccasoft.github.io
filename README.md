@@ -1,26 +1,5 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
-<!-- 
-https://eksisozluk.com/entry/98216200 lol
-https://www.uludagsozluk.com/k/trendyol/&w=gd lol
-https://eksisozluk.com/trendyol--2361186?a=popular lol
-https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-sanatc%C4%B1n%C4%B1n-bir-de-annesine-bak%C4%B1n/
-https://www.youtube.com/watch?v=fWyj6KcnmVc bkz ciddi olalım diyor kendileri
-https://www.youtube.com/watch?v=k6gi9WhpBJ0 bkz yapay müdür yardımcısı
-https://www.youtube.com/watch?v=7hjZGkUX1-Y bkzx yapay kürt öğretmen
-https://www.youtube.com/watch?v=X3a3DG69nRk bkz yapay zeka ve emekli hemşire
-bkz türlerin teset geçmesi https://www.youtube.com/watch?v=uegfr5__EAQ
-https://www.uludagsozluk.com/k/sevi%C5%9Fme-vergisi/&w=bg bkz rte ye vergi önerileri
-https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
-https://www.sozcu.com.tr/2019/ekonomi/icki-ve-sigara-icenler-dev-sirketleri-solladi-5399240/ lol
-http://www.hurriyet.com.tr/yazarlar/ertugrul-ozkok/icki-sigara-vergisi-otomobili-gectiyse-41332529 lol
-https://www.birgun.net/haber/en-sadik-mukellef-icki-ve-sigara-tuketicisi-260809 bkz rte nin en sevdiği tüketici
-https://odatv.com/tek-millet-tek-devlet-tek-tip-sigara-20101923.html 
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz rte nin mal varlığının kaynağı ne sorunsalı
-https://www.youtube.com/watch?v=RHBoMuNszuk bkz düğünlerde oynayarak yan gelir elde etmek
-https://www.youtube.com/watch?v=hpGfRF0OeQQ bkz kürt davulcu dayının kanal kurması
--->
-
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
