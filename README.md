@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz fondoten kullanan erkek başlığında kavga eden kızlar
 bkz muharrem ince nin ince gördüğü espri
 bkz muharrem incenin yalova kaymakına kim takar yalova kaymakamını demesi
 https://www.uludagsozluk.com/e/42465579/ bkz zallın hep ona abi dediği genç
