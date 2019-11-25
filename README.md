@@ -2,19 +2,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz ulucu abiley nasıl başlık açiyolay soyunsayı
-bkz ben ortaokul bitince uluda ulucu abileyle başlık açacam diyen genç
-bkz gençli başlık açan 23 lük ulucu abi
-bkz zall ona hep abi derin annesiyle şöyle olabiliz diyen genç
 http://www.hurriyet.com.tr/yerel-haberler/gaziantep/ic-camasirli-tecavuze-24er-yil-ceza-41079532
-bkz ablasının erkek arkdaşısına götünü veren genç https://www.uludagsozluk.com/e/42465579/
-bkz 50 sene sonra zall ona amca derin açacağı başlıklar
-bkz 10 sene sonra zall ona hep abi derin 30 yaşında olacağı gerçeği
-bkz fondoten kullanan erkek başlığında kavga eden kızlar
-bkz muharrem ince nin ince gördüğü espri
-bkz muharrem incenin yalova kaymakına kim takar yalova kaymakamını demesi
 https://www.uludagsozluk.com/e/42465579/ bkz zallın hep ona abi dediği genç
-bkz fondoten kullanan erkeğine  ses etmeyen gavat
+bkz fondoten kullanan erkeğine ses etmeyen gavat
 bkz zall hep ona oç derin 10 dakikdaır entry girmemesi sorunsalı
 bkz zall ona hep oç der entry girerken topkek çay getiren annesi
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz zallın hep abla dediği genç
@@ -22,11 +12,6 @@ https://www.uludagsozluk.com/e/42465579/ bkz zallın abi dediği genç
 bkz muharrem aylara bile saygısı olmayan malum zhiniyetli altı oklu parti
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik kamolis kilictaroglis
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 
-https://www.yenisafak.com/video-galeri/gundem/muharrem-incenin-sokaga-atiyorlar-sozlerine-sert-tepki-2179551
-https://www.yenisafak.com/video-galeri/secim/erdogan-ile-incenin-farkini-anlatan-video-sosyal-medyayi-salladi-2178870
-https://www.yenisafak.com/gundem/ince-isgalciler-gibi-3389194
-https://www.yenisafak.com/gundem/chpli-ozkoctan-inceye-cok-sert-sozler-namertsin-3515609
-https://www.yenisafak.com/gundem/kulliyeye-gittigi-iddia-edilen-chpli-muharrem-inceden-aciklama-utanmiyor-musunuz-beni-savunmamaya-3515534
 bkz zall ona hep oç derin sesainin çıkmaması sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc
 bkz halkın amk bana bişey olmasın partisi :)))
 https://www.uludagsozluk.com/e/42465424/ bkz live performance feat ali ekber çiçek
