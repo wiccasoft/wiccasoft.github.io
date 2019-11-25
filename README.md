@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz ülkücü hareket engellenemez
 bkz alparslan türkeşin ülkü ocaklarını toplaması
 bkz tayyib tatlıseks s şiwan perwer muhteşem dueti
 bkz kılıçoğlanın meclis kahvesinde bahceliye attığı bakış
