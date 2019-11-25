@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
-bkz kemal kıççıoğlanın marrem i salması
+bkz tayybin kılıççıoğlanın üstüne marrem i tayyibe salması
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz keltoş babana koş
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli 
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-neden-evlenmedi/&w=bg bkz kel olduğu için
