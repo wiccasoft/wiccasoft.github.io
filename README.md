@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz ak totoşların  kürtlere anca ulultotoşlar sözlükte küfredebilmesi
+bkz ak totoşların kürtlere anca ulultotoşlar sözlükte küfredebilmesi :)))))
 bkz ılık götlü ak totoşların anca uludag da nik altında takıldığı gerçeği
 https://www.uludagsozluk.com/e/42466059/ bkz hadi bakalım dene gel
 bkz burak özçivitin fahriye evcana mykonos tan ev almayaı planlaması
