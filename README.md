@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz evlendiği erkeği anlatan ak totoş
 bkz rakı içenlere götünü siktirmek isteyen telefoncu
 bkz uludaki 23 lük gay ergenlerin güldürmesi evet 
 bkz uludaki ergenlere bir posiyon erkek iskender ısmarlayıp eğlenmek
