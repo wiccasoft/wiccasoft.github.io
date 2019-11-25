@@ -3,7 +3,7 @@
  
  <!--
 bkz ablasının iç çamaşırlarını ebay de satan genç
-bkz ablasının odasında iç çamaşırlarını koklayan genç
+bkz ablasının iç çamaşırlarını koklayan genç
 bkz ablasını liseye pileli etekle yollayan gavat genç
 bkz annesinin siken erkeğe baba diyen gavat genç
 bkz küçük pyens okuyan pyenses ruhlu erkek
