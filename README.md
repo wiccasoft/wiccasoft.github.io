@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/en-k%C3%B6t%C3%BC-entrymiz-b%C3%B6yle-olsun/ bkz 10 dakikadır entry girmeyen traveler
 https://www.youtube.com/watch?v=RDxn3OuKO8w bkz ablasını siktiren gencin yok olması
 https://www.uludagsozluk.com/e/42465797/ bkz fene sikiş döndüğü düşünülen yerler
 bkz ablasının erkek arkadaşına götten veren genç
