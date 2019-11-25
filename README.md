@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
-bkz atarlı aşlık açan bi aktotoş burda olaydı da  döve döve sikeydim 
+bkz eşine minik pipim kalkmıyo diyen aktotoş intihar etmesi
 bkz hırtlar vadsisi izleyen ergenlerin genelde pasif tipler olması https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz hırtlar vadisi izleyrek büyümüş bi ak totoşu döve döve sikmek
 bkz bi ak totoşun annesinin memelerine viski döküp yalamak
