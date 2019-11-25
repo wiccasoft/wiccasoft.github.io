@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz fahriye evcanın evde ne yaptığı sorunsalı
 bkz burak özçivit vs yusuf güney
 bkz türkiyenin battığını kabullenemeyen ak kefenli ak totoşlar
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bkz ama aşkım götünü sikerken ne diyeyim
