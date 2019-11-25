@@ -4,7 +4,7 @@
  <!--
 bkz kılıçdarın paylaştığı zeynep tanbay fotosu
 bkz aktrollerin yemeyip içmeyip akşama kadar başlık açması
-bkz telefoncu ekremle gogocunun yemeyip içmeyi akşama kadar kılıştarlı başlık açması oalyı 
+bkz telefoncu ekremle gogocunun yemeyip içmeyip akşama kadar kılıştarlı başlık açması olayı 
 bkz güldüren olay evet
 bkz telefon cu ekremle gogocunun mesaisini bitmek üzere olması
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-yemeyip-i%C3%A7meyip-ince-ile-u%C4%9Fra%C5%9Fmas%C4%B1/
