@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+bkz chp nin sitesini hekleyip ak hack team yazmak
 bkz kılıçtarisin muharremoşun götünü gondiklemesi
 bkz ak kamaloş ak türbanoş evliliğinden doğacak olan çocuklar
 bkz ak kamaloşlarla ak totoşların güldürmesi evet
