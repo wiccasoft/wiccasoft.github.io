@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ak totoşların avrupadan damızlık erkek ithal etmeye çalışması
 bkz aynaya baksa korkacak ak totoşların can yamana sarması
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-asl%C4%B1nda-baya-baya-insana-benzemeleri/ 
 https://www.uludagsozluk.com/e/42463816/ bkz hayallerde yaşıyor ak totoşlar
