@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz akpnin kamalızma sarılması
 bkz kamalcılarla tayyipçilerin aynı kafada olması komedisi
 bkz kakatürke benzeyen adamın bokunu çıkarması
 https://www.uludagsozluk.com/k/ba%C5%9F%C3%B6%C4%9Fretmen-g%C3%B6ksel-kaya/
