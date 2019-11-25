@@ -2,8 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-kz zall hep ona orospu derin parlak tayt giymesine göz yuman erkek
-bkz zall hep bana orospu dere parlak tayt giydiren erkek
+bkz zall hep ona orospu derin parlak tayt giymesine göz yuman erkek
+bkz zall hep ona orospu dere parlak tayt giydiren erkek
 https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/&w=gd
 bkz cerrrahpaşa tıp bitirip lise bitirememiş ak totoşlarla muhattap olmak
 bkz cerrahpaşılıların liseli polatı siklememesi
