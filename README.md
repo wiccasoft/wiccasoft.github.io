@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kuılıçoğlu buraya gelecek
 bkz zuahahahahahahaha https://www.youtube.com/watch?v=bH8JSbg6Kkc
 https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm
 https://www.youtube.com/watch?v=S8YVdTQWttg bkz çok ta skimdeydin amk
