@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz kaşkım kaldırdın diyen erkek vs aşkım iki elinle bi siki kaldıramadın diyen erkek
 bkz ak totoşlar sözlükte erkekleri çekiştiren ak totoşlar
 bkz seninle şöyle olabliriz başlığında ak totokızlarşlarla ak kamaloşların yaşadığı aşklar
 https://www.uludagsozluk.com/e/42465949/ bkz aşkım diyen erkeğe uçan tekme atan türk kızı
