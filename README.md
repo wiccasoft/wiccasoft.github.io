@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz aktrollerin ak götlerini kimsenin sikmek istememesi olayı
 bkz aktrollerin yemeyip içmeyip entry girmesi olayı
 bkz aktrollerin  iltifatlara aldıkları cevaplara entry girmesi
 bkz tunç soyerin yeni dans videosunu izlerken odaya annenin girmesi
