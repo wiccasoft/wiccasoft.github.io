@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz uludaki 23 lük gay ergenlerin güldürmesi evet  https://www.youtube.com/watch?v=8f78z5Rd1nE
+bkz uludaki 23 lük gerizekalı ergenlerin güldürmesi evet  https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/asker-duda%C4%9F%C4%B1/ bkz gaylerin dünyası
 https://www.uludagsozluk.com/k/jelatini-a%C3%A7%C4%B1lmam%C4%B1%C5%9F-erkek/
 https://www.uludagsozluk.com/k/bir-kere-aldatt%C4%B1n%C4%B1z-diye-hemen-ayr%C4%B1lan-k%C4%B1z-arkada%C5%9F/&w=gd
