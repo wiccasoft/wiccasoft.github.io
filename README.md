@@ -2,7 +2,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz aşkım yarrağımı emer misin diyen erkek 
 bkz 30 yaşında sonra götü göbeği salan erkek vs 41 yaşında hala taş gibi olan erkek
 bkz kaşkım kaldırdın diyen erkek vs aşkım iki elinle bi siki kaldıramadın diyen erkek
 bkz ak totoşlar sözlükte erkekleri çekiştiren ak totoşlar
