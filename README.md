@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz türklerin biraz değil baya bi salak olması
 bkz türklere sosyla medya kullanmayı öğretmek evet bkz search cumhuriyet halk partisi
 bkz türklere sosyla medya kullanmayı öğretmek evet bkz search fenerbahce sk
 bkz türklerin yazılım labratuvarımı siyasi partileri sanması olayı evet
