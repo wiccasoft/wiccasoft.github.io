@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz türklerin firmamı parti ya da spor klüpleri sanması olayı
 bkz türklerin chp fenerbahçe nin resmi hesapları yerşne beni tyakip etmeesi
 bkxz wiccasoft sk nün paylaştığı anlamlı paylaşım
 mevzu wiccasoft ise gerisi teferruattır https://www.youtube.com/watch?v=FRjI-Ea6wcU
