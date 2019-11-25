@@ -2,6 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.youtube.com/watch?v=crXRtDWWrSQ
+https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg 
 https://www.youtube.com/watch?v=C7aa5IMfb6M
 bkz cimaoğlu vs memikoğlu https://www.youtube.com/watch?v=BP6ssBwMy54
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/
