@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz sağcıların sağ taşşaığıma  faydası
 bkz akpnin kamalızma sarılması
 bkz kamalcılarla tayyipçilerin aynı kafada olması komedisi
 bkz kakatürke benzeyen adamın bokunu çıkarması
