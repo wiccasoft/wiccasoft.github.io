@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz geceye bir alfa eppek bırak
+bkz ulucuların erkek açığını kapatak erkek robot yapmak
 https://www.uludagsozluk.com/k/erkek-adam-so%C4%9Fu%C4%9Fu-g%C3%B6tten-al%C4%B1r/ bkz ılık götlü
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz a bu benim ayol betayım hacı sana eppek çıkmaz
 bkz kamalcı faşoların altı gavat partisiyle ak totoşların partisinin seçmennin yavaş yavaş gebermesi süper olay evet
