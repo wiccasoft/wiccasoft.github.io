@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+bkz hırtlar vadisi izleyrek büyümüş bi ak totoşun annesini döve döve sikmek
 bkz bi ak totoşun annesinin memelerine viski döküp yalamak
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
 https://www.uludagsozluk.com/k/eni%C5%9Ftem-kar%C4%B1n%C4%B1-benimle-aldat%C4%B1yor/ bkz aktotoşların hayal gücü
