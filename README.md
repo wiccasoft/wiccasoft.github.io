@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz türban lı kızların can yaman aşkı https://www.youtube.com/watch?v=H0760kGB-vw 
+bkz türban lı kızların can yaman savdası https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
 https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
 bkz aktotoşların deep webte can yamanı övmesi https://www.youtube.com/watch?v=H0760kGB-vw 
