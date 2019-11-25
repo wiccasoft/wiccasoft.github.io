@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz uludaki yabancı nickli aktrollerin güldürmesi evet
 bkz james winterspoon un 30 dakikdarı imamaoğluna entry girmediği gerçeği
 bkz frank lucasın 10 dakikdar ekrem li enntry girmemesi sorunsalı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-tabletiyle-%C3%A7ocuklara-hava-atmas%C4%B1/
