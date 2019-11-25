@@ -2,9 +2,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz kılıçoğlu vs kiziroğlu
 bkz cimaoğlu vs memikoğlu
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/
+bkz kılıçoğlu vs kiziroğlu
 bkz oğluna tecavüz eden adamı sikerek öldüren adam
 bkz halkın arasına karışacak kadar çomar olmak
 bkz imamoğlu vs maçoğlu vs maarremoğlu
