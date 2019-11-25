@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz sevdiceğine parlak tay giydirip götten kaymak
 bkz erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/kezolar%C4%B1n-etraf%C4%B1nda-d%C3%B6nen-soksok/
 bkz zall ona hep oç dere tayt giydiren erkek
