@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz halkın amk bana bişey olmasın partisi
 bkz babuşcanın yeni partisine isim bulması  cumhuriyetçi devletçi milletçi halkçı gavatlar partisi
 https://www.uludagsozluk.com/e/42465424/ bkz live performance feat ali ekber çiçek
 bkz mondoten kullanan erkek vs mondoten kullanmayan erkek aşkı
