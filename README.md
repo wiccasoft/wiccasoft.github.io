@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aşkım  ... diyen erkek başlığı açacam okurmusun diyen ak totoş
 bkz aşkım ak totoşumla yola çıktım diyen ak totoşlu ergen
 bkz aşkım ak totoşum nasıl diyen ak totoş
 bkz aşkım ak totoş ne diyen ak totoşlu ergen
