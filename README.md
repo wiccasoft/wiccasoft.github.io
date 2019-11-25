@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bkz ama aşkım amını sikerken ne diyeyim
+https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bkz ama aşkım götünü sikerken ne diyeyim
 bkz sigara ve alkol vergileri olmasa aç kalacak olan aktroller  https://www.youtube.com/watch?v=C9pzkemBmMM
 bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen lise terk aktroller
 https://www.uludagsozluk.com/e/42465936/ bkz eppek bulamıyorlarsa pasta yesinler evet
