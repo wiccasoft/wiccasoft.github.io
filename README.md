@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz ak lgbt yi desteklemek
+bkz ak lgbt yi desteklemek https://www.youtube.com/watch?v=hY_6UPGGAlI
 https://www.uludagsozluk.com/k/evlenilen-erke%C4%9Fin-gay-%C3%A7%C4%B1kmas%C4%B1/ bkz ilk akgay evliliği
 bkz fondoten kullanan erkek vs rimel kullanan erkek
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg 
