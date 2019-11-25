@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz cumhuriyet halk partisi ümraniye ilçe teşkilatını yaptığı ersun yanallı paylaşım
 bkz türklerin biraz değil baya bi salak olması
 bkz türklere sosyla medya kullanmayı öğretmek evet bkz search cumhuriyet halk partisi
 bkz türklere sosyla medya kullanmayı öğretmek evet bkz search fenerbahce sk
