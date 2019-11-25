@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/  bkz annene izin verdim
 bkz google smart city vs imamoglu https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz can yaman a instagram da gelen mesaj https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz bir saray bana bir can yumos size
