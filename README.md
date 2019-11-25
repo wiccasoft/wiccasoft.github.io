@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz 50 sene sonra zall ona amca derin açacağı başlıklar
 bkz 10 sene sonra zall ona hep abi derin 30 yaşında olacağı gerçeği
 bkz fondoten kullanan erkek başlığında kavga eden kızlar
 bkz muharrem ince nin ince gördüğü espri
