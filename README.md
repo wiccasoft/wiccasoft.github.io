@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz cerrahpaşa tıp bitirip polat muhattap olmak
+bkz cerrahpaşa tıp bitirip polatla muhattap olmamak
 bkz cerrahpaşalıların polatı siklememesi
 bkz turgut özal çeneli yakışıklı bir kürt olmanın suç olduğu ülke
 bkz said i nursi adam mıdır sorunsalı
