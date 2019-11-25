@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+https://www.uludagsozluk.com/k/gayler-aktif-pasif-s%C4%B1ras%C4%B1-i%C3%A7in-yaz%C4%B1-tura-m%C4%B1-at%C4%B1yor/
 bkz bu devletyin bekçüsü kümlük te sorah hesap ta sorah
 bkz bu devlete ejkmeği yiyip ihanet edün kurşunu ye
 bkz fakirlerin yemeyip içmeyip tren yapması
