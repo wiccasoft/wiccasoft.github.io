@@ -2,10 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz said i nursi nin erdogana verdiği ayar
-bkz jelatini açılmamaış erkeğin asıl amacı
-https://www.uludagsozluk.com/k/jelatini-a%C3%A7%C4%B1lmam%C4%B1%C5%9F-erkek/
-https://www.uludagsozluk.com/k/sivas-ta-30-erke%C4%9Fin-grup-seks-yaparken-yakalanmas%C4%B1/&w=bg
+bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
 bkz dişisini uçuran erkeğin asıl amacı
 bkz dişisine fosforlu tayt giydirmeyen erkeğin asıl amacı
