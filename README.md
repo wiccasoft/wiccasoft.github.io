@@ -7,8 +7,7 @@ https://www.uludagsozluk.com/e/42463407/ bkz hüdaverdi
 https://www.youtube.com/watch?v=WAMupz_a07M sıraya geçin lan itoğlu itler
 bkz devlet bahçelinin kılıççıolanı artık siklememesi 
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
-bkz kürtlerin yalovalı marremi satması
-bkz tayybin kılıççıoğlanın üstüne marrem i tayyibe salması
+bkz tayybin kılıççıoğlanın üstüne kelolanı salması
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz keltoş babana koş
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli 
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-neden-evlenmedi/&w=bg bkz kel olduğu için
