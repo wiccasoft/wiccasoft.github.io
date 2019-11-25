@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz alparslan türkeşin ülkü ocaklarını toplaması
 bkz tayyib tatlıseks s şiwan perwer muhteşem dueti
 bkz kılıçoğlanın meclis kahvesinde bahceliye attığı bakış
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz akp nin şişirdiği pkk lı
