@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen liseli aktroller
 https://www.uludagsozluk.com/e/42465936/ bkz eppek bulamıyorlarsa pasta yesinler evet
 https://www.uludagsozluk.com/e/42465900/ bkz gücünü ananın amından alan evet
 https://www.uludagsozluk.com/e/42465867/ bkz ak totoşların anasını sikecem bakışı evet
