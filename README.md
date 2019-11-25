@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz adam gibi adamın sapına kadar adam olduğu nasıl anlaşılır sorunsalı
 bkz erdal erzincan erzincan lı mı sorunsalı
 bkz cumhuriyet halk partisinin sitesini hekleyip ak kach team yazmak
 bkz fondoten kullanan erkeğin asıl amacı
