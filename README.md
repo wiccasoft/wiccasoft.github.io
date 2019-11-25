@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+https://www.youtube.com/watch?v=x6C9LsTiqHo 
 https://www.uludagsozluk.com/e/42463407/ bkz hüdaverdi
 bkz devlet bahçelinin kılıççıolanı artık siklememesi
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
