@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz türkler kadar salak mşillet yok amk asdsadasdasdasd
 bkz akp vs chp nin bi anda  kamalcı olması asdasdasdasdasdas
 bkz binaliye benzeyen adam vs kakatürke benzeyen adam  https://www.youtube.com/watch?v=urj0sCwSeio
 bkz chp ümraniye il başkanlığında pkklıların cirit attmasına sese etmeyen chpkklılar
