@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz< kılıçtarın yaptığı paylaşıma sese çıakrtmayan aktroller
 bkz kılıçtarın inceyi donsuz gösterdiği paylaşım
 bkz kılıçtarın yemeyip içmeyip inceye gömmesi
 bkz kılçtarın meclis komisyonuna verdiği önerge
