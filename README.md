@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bk ak totoşların can yamanı yakışıklı bulması
 bkz can yaman kim amk diye aratmaya üşenmek
 https://www.uludagsozluk.com/k/can-yaman%C4%B1n-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1n%C4%B1-k%C4%B1skanan-erkek/
 bkz zall hep ona oç derin atatürke benzeyen adama 10 dakikdadır entry girmemesi sorunsalı
