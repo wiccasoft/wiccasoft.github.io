@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz kamalcılarla ak totoşlara yiyin birbiriniz ete parar vermeyin demek
+bkz ak kamalcılarla ak totoşların güldürmesi evet
 bkz aktotoşların ak kamalcı hayranlığı
 bkz götünde don olmayan ak totoşların akşama kadar devleti övmesi olayı güldüren olay evet
 https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=bg
