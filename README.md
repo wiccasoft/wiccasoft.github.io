@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/gavurlar%C4%B1n-can-yaman-facebook-grubu-kurmas%C4%B1/ bkz aktrollerin ne kfası yaşaması
 bkz aktrollerin bim pasta yerken çok heyecan yapması olayı https://www.youtube.com/watch?v=mmdWqXk4R1Q
 bkz aktrollerin ak götlerini kimsenin sikmek istememesi olayı
 bkz aktrollerin yemeyip içmeyip entry girmesi olayı
