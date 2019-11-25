@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/kurban-vah%C5%9Fettir-deyip-noelde-hindi-kesen-gavat/ bkz ala gavat
 bkz adam gibi adamın sapına kadar adam olduğu nasıl anlaşılır sorunsalı
 bkz erdal erzincan erzincan lı mı sorunsalı
 bkz cumhuriyet halk partisinin sitesini hekleyip ak kach team yazmak
