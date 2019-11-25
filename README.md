@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aşkım ak totoşum nasıl diyen ak totoş
 bkz aşkım ak totoş ne diyen ak totoşlu ergen
 bkz ak nonoşların zek zeviyesi
 bkz ak nonoşlara aşkım diyen erkek
