@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz ak totoşların can yaman hayranlığı
 bkz ak totoşların can yamanı yakışıklı bulması
 bkz can yaman kim amk diye aratmaya üşenmek
