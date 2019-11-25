@@ -17,7 +17,7 @@ https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sa
 bkz zall ona hep oç derin sesainin çıkmaması sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc
 bkz halkın amk bana bişey olmasın partisi :)))
 https://www.uludagsozluk.com/e/42465424/ bkz live performance feat ali ekber çiçek
-https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz a bu benim ayol betayım hacı size eppek çıkmaz
+https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz beta erkek hacıt hacı size eppek çıkmaz
 bkz kamalcı faşoların altı gavat partisiyle ak totoşların partisinin seçmennin yavaş yavaş gebermesi süper olay evet
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
