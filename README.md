@@ -1,8 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz sağcıların daha delikanlı olduğu gerçeği
-bkz solcuların pkk mın ekmeğine yağ sürmesi
+https://www.uludagsozluk.com/k/maybelline-master-prime/
 bkz ak lgbt yi desteklemek https://www.youtube.com/watch?v=hY_6UPGGAlI
 bkz uludaki 23 lük gerizekalı ergenlerin güldürmesi evet  https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/asker-duda%C4%9F%C4%B1/ bkz gaylerin dünyası
