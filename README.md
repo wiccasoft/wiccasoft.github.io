@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ulucu abiley nasıl başlık açiyolay soyunsayı
 bkz ben ortaokul bitince uluda ulucu abileyle başlık açacam diyen genç
 bkz gençli başlık açan 23 lük ulucu abi
 bkz zall ona hep abi derin annesiyle şöyle olabiliz diyen genç
