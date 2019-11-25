@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz hiç bi kız için çabalamayan 41 yaşındaki dayı
 bkz yarattığı hayali sanal erkekle deep webte aşk yaşayan ak totoşlar
 bkz ak lgbt nin şişme erkeği beğenmemesi adam gibi adam dağıt demesi
 bkz chp şişili belediyesinin ak totoşlara şişme erkek dağıtması
