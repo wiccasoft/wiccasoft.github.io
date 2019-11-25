@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/kezolar%C4%B1n-etraf%C4%B1nda-d%C3%B6nen-soksok/ bkz kayarım ben buna
 bkz tayyiple büyüyen erkeklerin kadın görmeye tahammül edememesi sorunsalı
 bkz tayyiple büyüyen ergenlerin kadınlı erkek seks nedir bilmemesi 
 bkz tayyiple büyüyen ergenlerin dkadın erkek arasına girme sevdası
