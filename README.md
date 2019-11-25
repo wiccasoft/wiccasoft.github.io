@@ -1,7 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
- <!--https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
+ <!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-babacan-ve-%C5%9Fim%C5%9Fek-in-kuraca%C4%9F%C4%B1-parti/ -->
+ <!-- https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
  <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-karadenizli-muharremi-harcamas%C4%B1/ -->
  <!-- bkz zzall ona hep oç dere haftalık 50 lira maaş bağlayıp kafa dinlemek -->
  <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw İstanbul Çok Hoştur Ama Benana -->
