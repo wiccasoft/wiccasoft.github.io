@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
-https://www.uludagsozluk.com/e/42463627/ bkz kel olup her götü ellemeye çalışan adam
+https://www.uludagsozluk.com/e/42463627/ bkz saç diktirip yeni yıla saçla girmek isteyen adam
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli jeff bezos johny sins
 bkz tayybin 2020 de yapcağım zamlarla polis öğretmen başöğretmen maaşlarını düzeltecem sözü
 bkz ülkücü hareket engellenemez https://www.youtube.com/watch?v=hvWg_vmFuDI
