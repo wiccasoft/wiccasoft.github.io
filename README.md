@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz aktotoşların ak kamalcı hayranlığı
 bkz götünde don olmayan ak totoşların akşama kadar devleti övmesi olayı güldüren olay evet
 https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=bg
 bkz ak totoşları kızdırtıp hunharca entry girmelerin sağlamak
