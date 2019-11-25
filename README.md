@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz tayyiple büyüyen ergenlerin dkadın erkek arasına girme sevdası
 bkz dişisine evde gecelik giydiren erkek sineğin asıl amacı
 bkz dişiyle rakı içen ineğin asıl amacı
 bkz dsşisine uça yasağı koyan erkek sinek
