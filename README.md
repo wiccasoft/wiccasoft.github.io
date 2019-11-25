@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+https://www.uludagsozluk.com/k/can-yaman-a-instagram-dan-gelen-mesaj/ bkz can yumoşu yakışıklı bulan ak totoş evet
 bkz ülkücü ergenlerin alfa erkek bulamamasının sebebi sorunsalı
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz gama mı beta mı sorunsalı evet 
 bkz sabriye şengülün kürt kaşları vs martı
