@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aşkım efsane indirim günleri aykkab alsana bana diyen ak totoş
 bkz aşkım şimdi biz neyiz diyen ak totoş
 bkz aşkım  ... diyen erkek başlığına entry giriyorum diyen ak totoşlu ergen
 bkz aşkım  ... diyen erkek başlığı açacam okurmusun diyen ak totoş
