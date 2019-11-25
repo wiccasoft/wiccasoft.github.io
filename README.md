@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkx ak totoşların güldürmesi
 bkx ak totoşların dans videosu izlerken çıkardıkları sesler
 bkz ak totoşların can ataklıyı markaj altına alması 
 bkz ak tombişlerin bim pasta yerken izlediği tunç soyler imamoğlan dans videoları
