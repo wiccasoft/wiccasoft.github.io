@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz kürtlere küfreden ak totoşların ak partinin kürt partisi olduğunu unutması :)))))))
 bkz ak totoşların damada dibini dövdürmesi
 bkz ak totoşların kürtlere anca ulultotoşlar sözlükte küfredebilmesi :)))))
 bkz ılık götlü ak totoşların anca uludag da nik altında takıldığı gerçeği
