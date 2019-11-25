@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz muharrem ince nin ince gördüğü espri
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik 
 bkz zall ona hep oç derin sesainin çıkmaması sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc
 bkz halkın amk bana bişey olmasın partisi :)))
