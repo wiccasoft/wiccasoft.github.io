@@ -3,6 +3,7 @@
  
 <!-- 
 bkz kemalistler sigara ve içki almasa ak totoşların aç kalacağı gerçeği :))))))))))
+https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.uludagsozluk.com/k/kemalistler-2-kat-vergi-vermelidirler/&w=bg bkz aktroll maaaşları
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bka aşkım kaldırdın indir diye erkek
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
