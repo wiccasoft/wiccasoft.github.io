@@ -3,7 +3,7 @@
  
  <!-- 
 bkz allahın muharrem aylarda tavşan kesmeyin hadisi
-marrem ince nin imamaoğlana verdiği ince ayar https://www.youtube.com/watch?v=fR9ZLJo6Pc4
+bkz babacan nın yeni partsi sinyallerini yakması https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-muharrem-ince/ https://www.youtube.com/watch?v=fR9ZLJo6Pc4
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız 
 https://www.uludagsozluk.com/k/davuto%C4%9Flu-babacan-ve-%C5%9Fim%C5%9Fek-in-kuraca%C4%9F%C4%B1-parti/ 
