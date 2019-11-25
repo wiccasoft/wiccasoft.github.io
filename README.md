@@ -1,7 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
- <!-- 
+ <!--
+bkz incenini nce gördüğü espri
 bkz 7 bölgede 81 ilde muharrem ince 
 bkz kürtlerin yalocalı marremi satması
 bkz karısına aşkitom diyip sütuyen giydiren erkeğin amacı
