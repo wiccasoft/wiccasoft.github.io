@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+https://www.uludagsozluk.com/k/kar%C4%B1m%C4%B1-bir-kilo-et-ile-kand%C4%B1rd%C4%B1/ bkz lol
 https://www.uludagsozluk.com/k/akci%C4%9Fer-tomografisi/&w=bg bkz dumansız hava sahası
 https://www.uludagsozluk.com/k/eni%C5%9Ftem-kar%C4%B1n%C4%B1-benimle-aldat%C4%B1yor/ bkz aktotoşların hayal gücü
 https://www.uludagsozluk.com/k/fatih-terim-in-giydi%C4%9Fi-beyaz-g%C3%B6mle%C4%9Fin-yakas%C4%B1/ bkz detaylarda gizli
