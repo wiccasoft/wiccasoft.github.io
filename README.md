@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz yulucuların beğenmediği beta erkekler
 bkz 23 yaşında türbanlı annesinden izin almadan trollük yapan ulu ergeni
 bkz 23 yaşındaki ezik ak totoş ülkücü kırması ergenlerin neden ulda yazdıkları sorunsalı
 bkz telefoncu ekremin 23 yaşında ezik bi ergen olması
