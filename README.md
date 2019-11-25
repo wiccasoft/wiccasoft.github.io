@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz ak lgbt nin şişme erkeği beğenmemesi
+bkz ak lgbt nin şişme erkeği beğenmemesi adam gibi adam dağıt demesi
 bkz chp şişili belediyesinin ak totoşlara şişme erkek dağıtması
 bkz aşkım kaldırdın nasıl indirecen diyen esprili erkek
 bkz 30 yaşında sonra götü göbeği salan erkek vs 41 yaşında hala taş gibi olan erkek
