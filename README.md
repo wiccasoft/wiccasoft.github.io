@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz türklerin çok çirkin olduğu gerçeği kızlar dahil
 bkz hadiseye 40 tane skim olsa birini sokmam diyen dayı
 bkz ablasının iç çamaşırlarını trendyol da satan genç
 bkz ablasının iç çamaşırlarını koklayan genç
