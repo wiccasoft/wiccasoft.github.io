@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz halkın arasına karışacak kadar çomar olmak
 bkz imamoğlu vs maçoğlu vs maarremoğlu
 https://www.youtube.com/watch?v=nx-F_0s-Cxs bkz heheheheh
 https://www.youtube.com/watch?v=x6C9LsTiqHo 
