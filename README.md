@@ -2,7 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-https://www.uludagsozluk.com/k/k%C3%BCrtlerin-asl%C4%B1nda-baya-baya-insana-benzemeleri/ bkz nefret suçu
+bkz aynaya baksa korkacak ak totoşların can yamana sarması
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-asl%C4%B1nda-baya-baya-insana-benzemeleri/ 
 https://www.uludagsozluk.com/e/42463816/ bkz hayallerde yaşıyor ak totoşlar
 bkz hunharca entry giren aktotoşun kulağını çekip kulağına 2023 te görüşürüz demek
 bkx ak totoşların güldürmesi
