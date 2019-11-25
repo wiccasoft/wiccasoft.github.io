@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/e/42465797/ bkz fene sikiş döndüğü düşünülen yerler
 bkz ablasının erkek arkadaşına götten veren genç
 bkz uludaki yabancı nickli aktrollerin güldürmesi evet
 bkz james winterspoon un 30 dakikdarı imamaoğluna entry girmediği gerçeği
