@@ -1,13 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
- <!-- 
-bkz imamaoğlu göbeği vs tunç soyer göbeği
-https://www.uludagsozluk.com/k/gayler-aktif-pasif-s%C4%B1ras%C4%B1-i%C3%A7in-yaz%C4%B1-tura-m%C4%B1-at%C4%B1yor/
-bkz bu devletyin bekçüsü kümlük te sorah hesap ta sorah
-bkz bu devlete ejkmeği yiyip ihanet edün kurşunu ye
-bkz fakirlerin yemeyip içmeyip tren yapması
-https://www.uludagsozluk.com/k/eni%C5%9Ftem-kar%C4%B1n%C4%B1-benimle-aldat%C4%B1yor/ 
-https://www.youtube.com/watch?v=WAMupz_a07M
+ <!--
+https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
 bkz ali babaoşcan ın gümbür gümbür gelmesi https://www.youtube.com/watch?v=zeDyI4K2vpE
 bkz eşine minik pipişim kalkmıyo diyen aktotoşun intihar etmesi :)))))
 bkz hırtlar vadsisi izleyen ergenlerin genelde pasif tipler olması https://www.youtube.com/watch?v=c7IoBRRBiX8
