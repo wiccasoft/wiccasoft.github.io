@@ -3,12 +3,12 @@
  
  <!--
 bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
-bkz tayyiple büyüyen aktotoşların kadınlı erkek seks nedir daha tatmamış olması
 bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
 bkz kürtlere küfreden ak totoşların ak partinin kürt partisi olduğunu unutması :)))))))
 bkz ak totoşların kürtlere anca ulultotoşlar sözlükte küfredebilmesi :)))))
 bkz ılık götlü ak totoşların anca uludag da nik altında takıldığı gerçeği
 https://www.uludagsozluk.com/e/42466059/ bkz hadi bakalım dene gel
+bkz tayyiple büyüyen aktotoşların kadınlı erkek seks nedir daha tatmamış olması
 bkz burak özçivitin fahriye evcana mykonos tan ev almayaı planlaması
 bkz daha yeni başlıyoruz gülecekseniz oynamayalım ak totoşlar
 bkz bunlar daha iyi günleriniz ak totoşlar 2020 de mumla arayacağınız günler 
