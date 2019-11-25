@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz ak nonoş zeka zeviyesi
 bkz aşkım efsane indirim günleri flo aykkab alsana bana diyen ak totoş
 bkz aşkım şimdi biz neyiz diyen ak totoş
 bkz aşkım  ... diyen erkek başlığına entry giriyorum diyen ak totoşlu ergen
@@ -17,8 +18,6 @@ bkz fondoten kullanan erkek taş gibi olması hadise
 bkz kamer genç 2009 meclis konuşması
 bkz aşkım ak nonoş götünü yerim diyen erkek
 bkz aşkım kapışmak izleyen erkek
-bkz ak nonoş zeka zeviyesi
-bkz türklerin web sitesi yapamaması sorunsalı
 bkz trendyolun sitesinin cpu yu kastırdığı gerçeği
 https://www.uludagsozluk.com/e/42466742/ bkz ak nonoşların yakında aç kalacakları gerçeği
 bkz 15 temmuz da türkiyeyi kim krtardı sorunsalı
