@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz zall ona hep oç derin taytı 
+bkz zall ona hep oç dere tayt giydiren erkek
 bkz zall hep one oç dere tayt giydirip dolaştırmak
 bkz zall ona hep oç derin evden dışarı çıkmaya korkan salak bi ergen olmas
 bkz zall hep ona orospu derin parlak tayt giymesine göz yuman erkek
