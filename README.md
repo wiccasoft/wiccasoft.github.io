@@ -2,6 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz dişisini uçuran erkeğin asıl amacı
+bkz dişisine fosforlu tayt giydirmeyen erkeğin asıl amacı
 bkz dişisine fosforlu tayt giydiren erkeğin asıl amacı
 bkz dişine parlak tayt giydirip bağcılarda paten yaptıran erkek
 bkz dişisine parlak tayt giydirip altına sandalet giydiren erkek
