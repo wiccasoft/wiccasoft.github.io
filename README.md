@@ -2,6 +2,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz rank lucasın 10 dakikdar ekrem li enntry girmemesi sorunsalı
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-tabletiyle-%C3%A7ocuklara-hava-atmas%C4%B1/
+https://www.uludagsozluk.com/k/dirili%C5%9F-ertu%C4%9Frul-vs-kurulu%C5%9F-osman/
 bkz hayvanlar üzerinde makyaj malzemesi deneyen erkeğe ses etmeyen erkek
 http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175
 http://www.hurriyet.com.tr/yerel-haberler/gaziantep/ic-camasirli-tecavuze-24er-yil-ceza-41079532
