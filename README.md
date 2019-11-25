@@ -4,7 +4,6 @@
  <!--
 bkz muharrem ince nin ince gördüğü espri
 https://www.uludagsozluk.com/e/42465579/ bkz zallın abi dediği genç
-https://www.uludagsozluk.com/k/t%C3%BCrk-k%C4%B1z%C4%B1-yunan-erke%C4%9Fi-ili%C5%9Fkisi/ bkz öyk
 bkz muharrem aylara bile saygısı olmayan malum zhiniyetli altı oklu parti
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik kamolis kilictaroglis
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 
