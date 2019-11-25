@@ -2,11 +2,11 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz halk eppek bulamazken %80 vergili rakı içmek
 bkz burak özçivit vs yusuf güney
 bkz fahriye evcanın evde ne yaptığı sorunsalı
 bkz türkiyenin battığını kabullenemeyen ak kefenli ak totoşlar
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bkz ama aşkım götünü sikerken ne diyeyim
+bkz halk eppek bulamazken %80 vergili rakı içmek
 bkz sigara ve alkol vergileri olmasa aç kalacak olan aktroller  https://www.youtube.com/watch?v=C9pzkemBmMM
 bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen lise terk aktroller
 https://www.uludagsozluk.com/e/42465936/ bkz eppek bulamıyorlarsa pasta yesinler evet
