@@ -5,6 +5,7 @@
 bkz kemal kıççıoğlanın marrem i salması
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz keltoş babana koş
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli 
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-neden-evlenmedi/&w=bg bkz kel olduğu için
 bkz tayybin 2020 de yapcağım zamlarla polis öğretmen başöğretmen maaşlarını düzeltecem sözü
 bkz ülkücü hareket engellenemez https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz önemli işler daire başkanlığı danışmanlığı https://www.youtube.com/watch?v=criYKxCGpLM
