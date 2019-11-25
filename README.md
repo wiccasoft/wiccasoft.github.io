@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ablasını liseye pileli etekle yollayan gavat genç
 bkz annesinin siken erkeğe baba diyen gavat genç
 bkz küçük pyens okuyan pyenses ruhlu erkek
 bkz ablasını siken erkeğe enişte diyen gavat genç
