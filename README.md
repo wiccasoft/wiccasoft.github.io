@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz kemal kıççıoğlanın marrem i salması
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz keltoş babana koş
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli 
 bkz tayybin 2020 de yapcağım zamlarla polis öğretmen başöğretmen maaşlarını düzeltecem sözü
