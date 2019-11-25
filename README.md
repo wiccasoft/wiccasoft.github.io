@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz türklerin yazılım labratuvarımı siyasi partileri sanması olayı evet
 bkz türklerin mavi sarı renk li paylaşım yapınca beni fenerbahçe sk sanması olayı evet
 bkz türklerin beni ersun yanal sanması komik olay evet 
 bkz türklerin yazılım labratuvarımı siyasi partileri ya da spor klüpleri sanması olayı komik olay evet
