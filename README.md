@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz türklere sosyla medya kullanmayı öğretmek evet bkz search cumhuriyet halk partisi
 bkz türklere sosyla medya kullanmayı öğretmek evet bkz search fenerbahce sk
 bkz türklerin yazılım labratuvarımı siyasi partileri sanması olayı evet
 bkz türklerin mavi sarı renk li paylaşım yapınca beni fenerbahçe sk sanması olayı evet
