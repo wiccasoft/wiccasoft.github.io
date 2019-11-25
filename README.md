@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/ersun-yanal/&w=gd bkz obrodovic vs yanalic
 https://www.youtube.com/watch?v=xFjV8cD0mXI oymak beyiyle taşşak geçmek
 bkz sağcılara taşşak üfletmek
 bkz sağcıların sağ taşşaığıma faydası
