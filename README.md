@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz zuahahahahahahaha
+bkz zuahahahahahahaha https://www.youtube.com/watch?v=bH8JSbg6Kkc
 https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm
 https://www.youtube.com/watch?v=S8YVdTQWttg bkz çok ta skimdeydin amk
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-yemeyip-i%C3%A7meyip-ince-ile-u%C4%9Fra%C5%9Fmas%C4%B1/
