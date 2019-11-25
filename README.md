@@ -3,7 +3,6 @@
  
  <!--
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
-bkz aktotoşların güldürdü + evet li cümle kurabilmeleri
 https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
 bkz https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz ak totoşların can yaman hayranlığı
