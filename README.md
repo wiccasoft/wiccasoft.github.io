@@ -1,18 +1,20 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
- <!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-babacan-ve-%C5%9Fim%C5%9Fek-in-kuraca%C4%9F%C4%B1-parti/ -->
- <!-- https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 -->
- <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-karadenizli-muharremi-harcamas%C4%B1/ -->
- <!-- bkz zall ona hep oç dere haftalık 50 lira maaş bağlayıp kafa dinlemek -->
- <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw İstanbul Çok Hoştur Ama Benana -->
- <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js akboyları kudurtmak -->
- <!-- https://www.uludagsozluk.com/k/sahi-bi-beka-reyiz-vard%C4%B1-ne-oldu-ona/ -->
- <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs/ -->
- <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-muharrem-ince/&w=gd -->
- <!-- https://www.uludagsozluk.com/k/cemaat-devlete-s%C4%B1zm%C4%B1%C5%9F-buna-kargalar-g%C3%BCler/&w=gd -->
- <!-- https://www.uludagsozluk.com/k/chp-grup-ba%C5%9Fkanvelinden-ince-ye-a%C4%9F%C4%B1r-s%C3%B6zler/ -->
- <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-don-yokken-saray%C4%B1-savunan-%C3%A7omar/&w=bg -->
+ <!-- 
+https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız 
+https://www.uludagsozluk.com/k/davuto%C4%9Flu-babacan-ve-%C5%9Fim%C5%9Fek-in-kuraca%C4%9F%C4%B1-parti/ 
+https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-karadenizli-muharremi-harcamas%C4%B1/ 
+bkz zall ona hep oç dere haftalık 50 lira maaş bağlayıp kafa dinlemek 
+https://www.youtube.com/watch?v=4RpMzsA1VOw İstanbul Çok Hoştur Ama Benana 
+https://www.youtube.com/watch?v=h6Q9id4Q_js akboyları kudurtmak 
+https://www.uludagsozluk.com/k/sahi-bi-beka-reyiz-vard%C4%B1-ne-oldu-ona/ 
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs/ 
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-muharrem-ince/&w=gd 
+https://www.uludagsozluk.com/k/cemaat-devlete-s%C4%B1zm%C4%B1%C5%9F-buna-kargalar-g%C3%BCler/&w=gd 
+https://www.uludagsozluk.com/k/chp-grup-ba%C5%9Fkanvelinden-ince-ye-a%C4%9F%C4%B1r-s%C3%B6zler/ 
+https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-don-yokken-saray%C4%B1-savunan-%C3%A7omar/&w=bg -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
