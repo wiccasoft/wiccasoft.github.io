@@ -2,14 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz inceninin ince gördüğü espri
 bkz cerrrahpaşa tıp bitirip liseli bitirememiş ak ülkücü totoşlarla muhattap olmak
 bkz cerrahpaşılıların liseli polatı siklememesi
-bkz 7 bölgede 81 ilde muharrem ince 
-bkz kürtlerin yalocalı marremi satması
-bkz karısına aşkitom diyip sütuyen giydiren erkeğin amacı
-https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/
-https://www.uludagsozluk.com/k/haydirilililililililililili-yar/
 -->
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
