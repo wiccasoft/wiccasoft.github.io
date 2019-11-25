@@ -3,7 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
-bkz muharrem aylara bile saygısı olmayan malum zhiniyetli parti
+bkz muharrem aylara bile saygısı olmayan malum zhiniyetli altı oklu parti
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik kamolis kilictaroglis
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 
 https://www.yenisafak.com/video-galeri/gundem/muharrem-incenin-sokaga-atiyorlar-sozlerine-sert-tepki-2179551
