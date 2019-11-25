@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz 15 temmuz er ryan ı kurtarmak
 bkz kemalistler sigara ve içki almasa ak totoşların aç kalacağı gerçeği :))))))))))
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.uludagsozluk.com/k/kemalistler-2-kat-vergi-vermelidirler/&w=bg bkz aktroll maaaşları
