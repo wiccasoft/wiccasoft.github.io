@@ -3,6 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+bkz fondoten kullanan erkeğine  ses etmeyen gavat
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz zallın hep abla dediği genç
 https://www.uludagsozluk.com/e/42465579/ bkz zallın abi dediği genç
 bkz muharrem aylara bile saygısı olmayan malum zhiniyetli altı oklu parti
