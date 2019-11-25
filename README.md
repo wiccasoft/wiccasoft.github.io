@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz devlet bahçelinin kılıççıolanı artık siklememesi
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
 bkz kürtlerin yalovalı marremi satması
 bkz tayybin kılıççıoğlanın üstüne marrem i tayyibe salması
