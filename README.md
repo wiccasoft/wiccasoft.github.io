@@ -4,11 +4,10 @@
 bkz levent kırca adam mıdır sorunsalı
 bkz adam gibi adamın sapına kadar adam olduğu nasıl anlaşılır sorunsalı
 bkz adam gibi adam lara entry griiyoruz kampanyası
-https://www.uludagsozluk.com/k/levent-k%C4%B1rca/&w=bg bkz adam gibi adamdır sapına kadar bilirim
 bkz delikanlı adamın başbuğ sevgilisi olur https://www.youtube.com/watch?v=WAMupz_a07M
 bkz polatın daha harbi delikanlı olması https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.uludagsozluk.com/k/cerrahpa%C5%9Fal%C4%B1lar%C4%B1n-%C3%A7ak%C4%B1rdan-daha-delikanl%C4%B1-olmas%C4%B1/
-bkz frukan vakfının bomba gibi gelmesi https://www.youtube.com/watch?v=z1ZUGDbS0TE
+bkz furkan vakfının bomba gibi gelmesi https://www.youtube.com/watch?v=z1ZUGDbS0TE
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi 
 bkz ali babaoşcan ın gümbür gümbür gelmesi https://www.youtube.com/watch?v=zeDyI4K2vpE
 bkz eşine minik pipişim kalkmıyo diyen aktotoşun intihar etmesi :)))))
