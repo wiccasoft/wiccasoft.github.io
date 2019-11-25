@@ -2,7 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz bu devletn bekçisi kimlik de sorar hesap da sorar lan 
+bkz ak totoşların bekçi maaşlarını kıskanması
+bkz bu devletn bekçisi kimlik de sorar hesap da sorar lan ak totş sen kimsin
 bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
 bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
 bkz kürtlere küfreden ak totoşların ak partinin kürt partisi olduğunu unutması :)))))))
