@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz annesinin siken erkeğe baba diyen gavat
+bkz annesinin siken erkeğe baba diyen gavat genç
 bkz küçük pyens okuyan pyenses ruhlu erkek
 bkz ablasını siken erkeğe enişte diyen gavat genç
 bkz cep herkülünün taytında fırlayan taşşakları (yazar olsam alacağım nik)
