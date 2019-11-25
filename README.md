@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz cimaoğlu vs memikoğlu
+bkz cimaoğlu vs memikoğlu https://www.youtube.com/watch?v=BP6ssBwMy54
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/
 bkz kılıçoğlu vs kiziroğlu https://www.youtube.com/watch?v=BP6ssBwMy54
 bkz oğluna tecavüz eden adamı sikerek öldüren adam
