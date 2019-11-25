@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz levent kırca adam mıdır sorunsalı
+bkz levent kırca adam mıdır sorunsalı https://www.youtube.com/watch?v=8KRcWZvquPI
 bkz adam gibi adamın sapına kadar adam olduğu nasıl anlaşılır sorunsalı
 bkz adam gibi adam lara entry griiyoruz kampanyası
 bkz delikanlı adamın başbuğ sevgilisi olur https://www.youtube.com/watch?v=WAMupz_a07M
