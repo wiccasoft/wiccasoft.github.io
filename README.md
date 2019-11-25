@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aşkım kapışmak diyen erkek
 bkz fondoten kullanan erkek taş gibi olması hadise
 bkz kamer genç 2009 meclis konuşması
 bkz aşkım ak nonoş götünü yerim diyen erkek
