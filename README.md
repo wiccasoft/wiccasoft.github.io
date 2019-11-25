@@ -3,8 +3,6 @@
  
  <!--
 https://www.uludagsozluk.com/e/42465949/ bkz aşkım diyen erkeğe uçan tekme atan türk kızı
-bkz ak totoşların bekçi maaşlarını kıskanması
-bkz bu devletn bekçisi kimlik de sorar hesap da sorar lan ak totş sen kimsin
 bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
 bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
 bkz kürtlere küfreden ak totoşların ak partinin kürt partisi olduğunu unutması :)))))))
