@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-yemeyip-i%C3%A7meyip-ince-ile-u%C4%9Fra%C5%9Fmas%C4%B1/
 bkz cumhuriyet halk partisi ümraniye ilçe teşkilatını yaptığı ersun yanallı paylaşım
 bkz türklerin biraz değil baya bi salak olması
 bkz türklere sosyla medya kullanmayı öğretmek evet bkz search cumhuriyet halk partisi
