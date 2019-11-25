@@ -3,7 +3,7 @@
  
  <!--
 bkz kılıçdarın paylaştığı zeynep tanbay fotosu
-bkz cumhuriyet ak partinin paylaştığı dünya lideri erdoğan postu
+bkz aktrollerin yemeyip içmeyip başlık açması
 bkz telefoncu ekremle gogocunun yemeyip içmeyi akşama kadar kılıştarlı başlık açması oalyı 
 bkz güldüren olay evet
 bkz telefon cu ekremle gogocunun mesaisini bitmek üzere olması
