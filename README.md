@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz kılıçdarın paylaştığı zeynep tanbay fotosu
 bkz cumhuriyet ak partinin paylaştığı dünya lideri erdoğan postu
 bkz telefoncu ekremle gogocunun yemeyip içmeyi akşama kadar kılıştarlı başlık açması oalyı 
 bkz güldüren olay evet
