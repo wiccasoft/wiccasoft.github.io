@@ -3,6 +3,7 @@
  
 <!-- 
 bkz aşkım kapışmak izleyen erkek
+bkz türklerin web sitesi yapamaması sorunsalı
 bkz trendyolun sitesinin cpu yu kastırdığı gerçeği
 https://www.uludagsozluk.com/e/42466742/ bkz ak nonoşların yakında aç kalacakları gerçeği
 bkz 15 temmuz da türkiyeyi kim krtardı sorunsalı
