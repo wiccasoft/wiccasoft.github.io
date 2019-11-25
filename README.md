@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz aktrollerin biöm pasta yerken izlediği tunç soyler imamaoğlan videoları
+bkz ak tombişlerin biöm pasta yerken izlediği tunç soyler imamaoğlan videoları
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-yeni-dans-videosu/ bkz aktrollerin yemeyip içmeyi kesmesi
 https://www.uludagsozluk.com/k/gavurlar%C4%B1n-can-yaman-facebook-grubu-kurmas%C4%B1/ bkz aktrollerin ne kafası yaşaması
 bkz aktrollerin bim pasta yerken çok heyecan yapması olayı https://www.youtube.com/watch?v=mmdWqXk4R1Q
