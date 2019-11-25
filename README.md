@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz muharremin babacan partisine geçme olasılığı iddası
 bkz ali babacan ın davutoğlan la kuracağı yeni perti
 bkz ali babacanın yeni parti sinyallerini yakması https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/maybelline-master-prime/
