@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz deep web te kız taklidi yapan pasiflerle alfa erkeklerden hoşlanan betaların loop takılması :))))))))))
 bkz traveler of secret momenten sira dan sir adama asılması ama onun da erkeklerden hoşlanması :))))))
 https://www.uludagsozluk.com/k/en-k%C3%B6t%C3%BC-entrymiz-b%C3%B6yle-olsun/ bkz 10 dakikadır entry girmeyen traveler
 https://www.youtube.com/watch?v=RDxn3OuKO8w bkz ablasını siktiren gencin yok olması
