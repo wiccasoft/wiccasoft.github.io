@@ -6,8 +6,7 @@ https://www.youtube.com/watch?v=nx-F_0s-Cxs bkz heheheheh
 https://www.youtube.com/watch?v=x6C9LsTiqHo 
 https://www.uludagsozluk.com/e/42463407/ bkz hüdaverdi
 https://www.youtube.com/watch?v=WAMupz_a07M sıraya geçin lan itoğlu itler
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/neden-dam%C4%B1zl%C4%B1k-avrupal%C4%B1-erkekler-ithal-etmiyoruz/&w=gd 
+https://www.uludagsozluk.com/e/42463816/ bkz hayallerde yaşıyor bazı ibneler
 bkz devlet bahçelinin kılıççıolanı artık siklememesi 
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
 bkz tayybin kılıççıoğlanın üstüne kelolanı salması
