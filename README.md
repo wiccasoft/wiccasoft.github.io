@@ -4,6 +4,7 @@
  <!-- 
 bkz halkın arasına karışacak kadar çomar olmak
 bkz imamoğlu vs maçoğlu vs maarremoğlu
+bkz kaynını öldüren adamı öldüren adam
 https://www.youtube.com/watch?v=nx-F_0s-Cxs bkz heheheheh
 https://www.youtube.com/watch?v=x6C9LsTiqHo 
 https://www.uludagsozluk.com/e/42463407/ bkz hüdaverdi
