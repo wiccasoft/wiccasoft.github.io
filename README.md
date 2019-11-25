@@ -2,7 +2,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
 bkz google smart city vs imamoglu https://www.youtube.com/watch?v=4RpMzsA1VOw
-bkz can yamanı yakışıklı bulan ak totoş
 bkz can yaman a instagram da gelen mesaj https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz bir saray bana bir can yumos size
 bkz zillet ittifakını kurup güzel bir yunan adası almayı planlamak
