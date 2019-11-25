@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
 bkz aktotoşların aktotoşsözlüğü bitirmesi ))))))))))
 bkz tayyiple büyüyen aktotoşların kadınlı erkek seks nedir daha tatmamış olması
 bkz uludaki ak totoşlarla taşşak geçmek
