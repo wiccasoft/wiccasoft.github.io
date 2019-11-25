@@ -2,7 +2,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-https://www.youtube.com/watch?v=upyhXMifMwM bkz getirdik ya lalekafalı
 mevzu fenerse gerisi teferruattır https://www.youtube.com/watch?v=FRjI-Ea6wcU
 https://www.uludagsozluk.com/k/ersun-yanal/&w=gd https://www.youtube.com/watch?v=FRjI-Ea6wcU
 https://www.youtube.com/watch?v=xFjV8cD0mXI oymak beyiyle taşşak geçmek
