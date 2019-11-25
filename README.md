@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz hayvanlar üzerinde makyaj malzemesi deneyen erkek
+bkz hayvanlar üzerinde makyaj malzemesi deneyen erkeğe ses etmeyen erkek
 http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175
 http://www.hurriyet.com.tr/yerel-haberler/gaziantep/ic-camasirli-tecavuze-24er-yil-ceza-41079532
 https://www.uludagsozluk.com/e/42465579/ bkz zallın hep ona abi dediği genç
