@@ -1,7 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz telefoncu ekremni ak götlü türbanlı bi hatun olma ihtimali
+bkz telefoncu ekremin 23 yaşında ezik bi ergen olması
+bkz telefoncu ekremin ak götlü türbanlı bi hatun olma ihtimali
 bkz içip içip telefoncu ekremi sikmeye çalışan laikler
 https://www.uludagsozluk.com/e/42464612/ bkz %80 i vergi olan alkol almaları
 bkz canım ülkemdeki diye cümle kuran yumoşu ciddiye almak evet
