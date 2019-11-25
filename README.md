@@ -2,10 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz burak özçivitin fahriye evcanı eve kapatması
 bkz daha yeni başlıyoruz ağlayacaksanız oynamayalım ak totoşlar
-bkz bunlar daha iyi günleriniz ak totoşlar 2020 de mumla arayacağınız günler
-bkz sikilmeye doyamayan ak totoşlar :))))))))))
+bkz bunlar daha iyi günleriniz ak totoşlar 2020 de mumla arayacağınız günler 
 bkz tayyipten yeni yılda yeni zamlarla bekçi maaşlarına zam sözü
 bkz ükücülerin ve kamalcıların ne olursa devletini her daim savunmaları güzel bi olay evet
 bkz ak lgbt nin chp şişi lgbt hizmetine çöreklenmesi
