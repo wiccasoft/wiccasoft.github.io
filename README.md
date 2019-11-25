@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz cerrrahpaşa tıp bitirip liseli bitirememiş ak ülkücü totoşlarla muhattap olmak
+bkz cerrrahpaşa tıp bitirip lise bitirememiş ak totoşlarla muhattap olmak
 bkz cerrahpaşılıların liseli polatı siklememesi
 -->
  
