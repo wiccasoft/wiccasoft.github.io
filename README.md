@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/c%C3%BCneyit-orhan-toprak/
 https://www.youtube.com/watch?v=xFjV8cD0mXI
 bkz sağcılara taşşak üfletmek
 bkz sağcıların sağ taşşaığıma faydası
