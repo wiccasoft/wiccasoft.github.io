@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz seninle şöyle olabliriz başlığında ak totoşlarla ak kamaloşların yaşadığı aşklar
 https://www.uludagsozluk.com/e/42465949/ bkz aşkım diyen erkeğe uçan tekme atan türk kızı
 bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
 bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
