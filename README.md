@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz mevzu wiccasoft ise gerisi teferruattır
 bkz atatürkün de türklerinde halkın da amına koyayım wiccasoft uma bişey olmasın
 bkz tayyibin wiccasoft pagan partisini beğenmesi
 bkz wiccasoft un ümraniye ilçe başkanlığına atanan il müdürü
