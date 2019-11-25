@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ak totoşların can ataklıyı markaj altına alması 
 bkz ak tombişlerin bim pasta yerken izlediği tunç soyler imamoğlan dans videoları
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-yeni-dans-videosu/ bkz aktrollerin yemeyip içmeyi kesmesi
 https://www.uludagsozluk.com/k/gavurlar%C4%B1n-can-yaman-facebook-grubu-kurmas%C4%B1/ bkz aktrollerin ne kafası yaşaması
