@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz chp il başkanlığında pkklıların dolaşmasına ses etmeyen türkçüler
 https://www.uludagsozluk.com/k/chp-yi-y%C3%B6neten-bir-avu%C3%A7-garip-y%C3%B6netici/
 bkz tayyipbin başöğretmen maaşlarını düzeltecem sözü
 https://www.uludagsozluk.com/k/ba%C5%9F%C3%B6%C4%9Fretmen-g%C3%B6ksel-kaya/
