@@ -4,7 +4,7 @@
  <!--
 bkz ablasının iç çamaşırlarını trendyol da satan genç
 bkz ablasının iç çamaşırlarını koklayan genç
-bkz annesinin siken erkeğe baba diyen genç
+bkz annesini siken erkeğe babişko diyen genç
 bkz küçük pyens okuyan pyenses ruhlu erkek
 bkz ablasını siken erkeğe enişte diyen genç
 bkz cep herkülünün taytında fırlayan taşşakları (yazar olsam alacağım nik)
