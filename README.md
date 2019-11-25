@@ -3,7 +3,7 @@
  
  <!--
 bkz sigara ve alkol vergileri olmasa aç kalacak olan aktroller şaka değil evet
-bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen liseli aktroller
+bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen lise terk aktroller
 https://www.uludagsozluk.com/e/42465936/ bkz eppek bulamıyorlarsa pasta yesinler evet
 https://www.uludagsozluk.com/e/42465900/ bkz gücünü ananın amından alan evet
 https://www.uludagsozluk.com/e/42465867/ bkz ak totoşların anasını sikecem bakışı evet
