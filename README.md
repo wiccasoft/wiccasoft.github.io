@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz kamalcı altı gavat partisiyle ak totoşların partisinin seçmennin yavaş yavaş gebermesi
+bkz kamalcı altı gavat partisiyle ak totoşların partisinin seçmennin yavaş yavaş gebermesi süper olay evet
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
