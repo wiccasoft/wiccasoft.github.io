@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz kılıçoğlanın meclis kahvesinde bahceliye attığı bakış
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz akp nin şişirdiği pkk lı
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-komployu-bile-becerememesi/
 bkz tayypini kuruyemiş yerken cumhurbaşkanlığı armasını okşaması
