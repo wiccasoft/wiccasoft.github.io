@@ -3,7 +3,8 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
-bkz muharremin ak partici olmasına göt olan chpli totoşlar
+https://www.yenisafak.com/gundem/ince-isgalciler-gibi-3389194
+bkz muharremin ak partici olmasına göt olan chpkklı totoşlar
 https://www.yenisafak.com/gundem/chpli-ozkoctan-inceye-cok-sert-sozler-namertsin-3515609
 https://www.yenisafak.com/gundem/kulliyeye-gittigi-iddia-edilen-chpli-muharrem-inceden-aciklama-utanmiyor-musunuz-beni-savunmamaya-3515534
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik 
