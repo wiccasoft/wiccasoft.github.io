@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz mhpli kadınların eski chpli yeni akpli erkek hayranlığı
 bkz devlet memurlarının ne iş yaptıkları sorunsalı
 https://www.dogankitap.com.tr/kitap/onemli-isler-dairesi
 bkz burası çokömelli danışman yardımcılığı daire başkanlığının boş kalması
