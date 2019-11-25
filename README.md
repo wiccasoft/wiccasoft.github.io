@@ -2,8 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw İstanbul Çok Hoştur Ama Benana -->
- <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js aktrolleri kudurtmak -->
- <!-- https://www.youtube.com/watch?v=17Ng0BAKl8o tsısıhehehe -->
+ <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js  akboyları kudurtmak -->
  <!-- https://www.uludagsozluk.com/k/sahi-bi-beka-reyiz-vard%C4%B1-ne-oldu-ona/ -->
  <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs/ -->
  <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-muharrem-ince/&w=gd -->
