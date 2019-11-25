@@ -4,7 +4,7 @@
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
 https://www.uludagsozluk.com/k/eni%C5%9Ftem-kar%C4%B1n%C4%B1-benimle-aldat%C4%B1yor/ bkz aktotoşların hayal gücü
 https://www.uludagsozluk.com/k/fatih-terim-in-giydi%C4%9Fi-beyaz-g%C3%B6mle%C4%9Fin-yakas%C4%B1/ bkz detaylarda gizli
-https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/  bkz annene izin verdim
+https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/  bkz annene izin verdim rahat ol
 bkz google smart city vs imamoglu https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz can yaman a instagram da gelen mesaj https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz bir saray bana bir can yumos size
