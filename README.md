@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ersun yanal zamanı wiccasoft vs aykutt kocaman zamanı wiccasoft
 bkz wiccasoft un fenerbahçe sk e şampiyonluk sözü vermesi
 bkz kakatürk zamanı wiccasoft vs kiziroğlu zamanı wiccasoft
 bkz kılışın wiccasoft un başında kalacam sözü
