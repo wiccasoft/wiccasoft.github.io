@@ -2,9 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz zall ona hep ıç derin taytını yırtıp götten girmek
-bkz erkek adamın erkek sevgilisi olur
-https://www.uludagsozluk.com/k/kezolar%C4%B1n-etraf%C4%B1nda-d%C3%B6nen-soksok/
+bkz dişisine tayt giydirip uçurtan erkek sinek
 bkz zall ona hep oç dere tayt giydiren erkek
 bkz zall hep one oç dere tayt giydirip dolaştırmak
 bkz zall ona hep oç derin evden dışarı çıkmaya korkan salak bi ergen olmas
