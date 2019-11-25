@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-https://www.uludagsozluk.com/k/cep-herk%C3%BCl%C3%BC-naim-s%C3%BCleymano%C4%9Flu/&w=bg
+bkz hayvanlar üzerinde makyaj malzemesi deneyen erkek
 http://www.hurriyet.com.tr/video/sevgilisinin-esinin-tecavuzune-ugradigini-iddia-etti-40683175
 http://www.hurriyet.com.tr/yerel-haberler/gaziantep/ic-camasirli-tecavuze-24er-yil-ceza-41079532
 https://www.uludagsozluk.com/e/42465579/ bkz zallın hep ona abi dediği genç
