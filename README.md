@@ -3,6 +3,7 @@
  
  <!--
 bkz inceninin ince gördüğü espri
+bkz cerrrahpaşa tıp bitirip liseli ak totoşlarla muhattap olmak
 bkz cerrahpaşılıların liseli polatı siklememesi
 bkz 7 bölgede 81 ilde muharrem ince 
 bkz kürtlerin yalocalı marremi satması
