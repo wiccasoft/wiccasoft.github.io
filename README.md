@@ -3,6 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+https://www.yenisafak.com/video-galeri/secim/erdogan-ile-incenin-farkini-anlatan-video-sosyal-medyayi-salladi-2178870
 https://www.yenisafak.com/gundem/ince-isgalciler-gibi-3389194
 bkz muharremin ak partici olmasına göt olan chpkklı totoşlar
 https://www.yenisafak.com/gundem/chpli-ozkoctan-inceye-cok-sert-sozler-namertsin-3515609
