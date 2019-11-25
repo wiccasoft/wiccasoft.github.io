@@ -2,8 +2,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz aktrollerin biöm pasta yerken izleiği videolar
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-yeni-dans-videosu/ bkz aktrollerin yemeyip içmeyi kesmesi
-https://www.uludagsozluk.com/k/gavurlar%C4%B1n-can-yaman-facebook-grubu-kurmas%C4%B1/ bkz aktrollerin ne kfası yaşaması
+https://www.uludagsozluk.com/k/gavurlar%C4%B1n-can-yaman-facebook-grubu-kurmas%C4%B1/ bkz aktrollerin ne kafası yaşaması
 bkz aktrollerin bim pasta yerken çok heyecan yapması olayı https://www.youtube.com/watch?v=mmdWqXk4R1Q
 bkz aktrollerin ak götlerini kimsenin sikmek istememesi olayı
 bkz aktrollerin yemeyip içmeyip entry girmesi olayı
