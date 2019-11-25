@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz dişisine parlak tayt giydirip altına sandalet giydiren erkek
 bkz dişisine sandalet giydiren erkek vs parmak arası giydiren erkek
 bkz dişisine kilot giydirmeyen erkek vs dantelli kilot giydiren erkek
 bkz dişine çizgili tayt giydiren erkek vs dişisine parlak tayt giydiren erkek
