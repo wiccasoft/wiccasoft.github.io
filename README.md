@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/e/42466059/ bkz hadi bakalım dene gel
 bkz burak özçivitin fahriye evcana mykonos tan ev almayaı planlaması
 bkz daha yeni başlıyoruz ağlayacaksanız oynamayalım ak totoşlar
 bkz bunlar daha iyi günleriniz ak totoşlar 2020 de mumla arayacağınız günler 
