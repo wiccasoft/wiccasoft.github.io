@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+bkz ali babaoşcan ın gümbür gümbür gelmesi
 bkz cerrahpaşalıların polatı siklemesi
 bkz mevlanayla hz eyübe duygusal entry giren aktotoş
 bkz eşine minik pipişim kalkmıyo diyen aktotoşun intihar etmesi :)))))
