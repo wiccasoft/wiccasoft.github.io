@@ -6,7 +6,7 @@ bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
 bkz dişisini uçuran erkeğin asıl amacı
 bkz cerrrahpaşa tıp bitirip lise bitirememiş ak totoşlarla muhattap olmak
-bkz cerrahpaşılıların liseli polatı siklememesi
+bkz cerrahpaşılıların liseli ergenleri siklememesi
 -->
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
