@@ -2,8 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz sikilmeye doyamayan ak totoşlar 
-bkz tayyibin yeni yılda yeni zamlarla bekçi maaşlarına zam sözü
+bkz sikilmeye doyamayan ak totoşlar :))))))))))
+bkz tayyipten yeni yılda yeni zamlarla bekçi maaşlarına zam sözü
 bkz ükücülerin ve kamalcıların ne olursa devletini her daim savunmaları güzel bi olay evet
 bkz ak lgbt nin chp şişi lgbt hizmetine çöreklenmesi
 bkz bu devletin eppeğini yersen eppeği yediği yerden vergini de verirsin
