@@ -4,15 +4,6 @@
  <!--
 bkz mondoten kulanmayan gavat
 bkz mondoten kullanan erkek vs mondoten kullanmayan erkek aşkı
-https://www.uludagsozluk.com/e/42465424/ live performance feat ali ekber
-https://www.uludagsozluk.com/k/kurban-vah%C5%9Fettir-deyip-noelde-hindi-kesen-gavat/ bkz ala gavat
-bkz adam gibi adamın sapına kadar adam olduğu nasıl anlaşılır sorunsalı
-bkz erdal erzincan erzincan lı mı sorunsalı
-bkz cumhuriyet halk partisinin sitesini hekleyip ak kach team yazmak
-bkz fondoten kullanan erkeğin asıl amacı
-bkz fondoten kullanan erkek vs rimel kullanan erkek
-bkz ulucuların erkek açığını kapatak erkek robot yapmak
-https://www.uludagsozluk.com/k/erkek-adam-so%C4%9Fu%C4%9Fu-g%C3%B6tten-al%C4%B1r/ bkz ılık götlü
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz a bu benim ayol betayım hacı sana eppek çıkmaz
 bkz kamalcı faşoların altı gavat partisiyle ak totoşların partisinin seçmennin yavaş yavaş gebermesi süper olay evet
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
