@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kılıçoğlu buraya gelecek
 bkz zuahahahahahahaha https://www.youtube.com/watch?v=bH8JSbg6Kkc
 https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm
-https://www.youtube.com/watch?v=S8YVdTQWttg bkz çok ta skimdeydin amk
+https://www.youtube.com/watch?v=S8YVdTQWttg bkz çok ta skimdeydin amk evladı
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-yemeyip-i%C3%A7meyip-ince-ile-u%C4%9Fra%C5%9Fmas%C4%B1/
 bkz kemal kılıçoğlannın inceyi gondikleme sevdası
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-ince-yi-gondikleme-sevdas%C4%B1/
