@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz kılıçtarın yemeyip içmeyip inceye gömmesi
 bkz kılçtarın meclis komisyonuna verdiği önerge
 bkz kılıçdarın paylaştığı zeynep tanbay fotosu
 bkz aktrollerin yemeyip içmeyip akşama kadar başlık açması
