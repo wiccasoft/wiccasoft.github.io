@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz bunlar daha iyi günleriniz ak totoşlar 2020 de mumla arayacağınız günler
 bkz sikilmeye doyamayan ak totoşlar :))))))))))
 bkz tayyipten yeni yılda yeni zamlarla bekçi maaşlarına zam sözü
 bkz ükücülerin ve kamalcıların ne olursa devletini her daim savunmaları güzel bi olay evet
