@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz küçük pyens okuyan erkek
+bkz küçük pyens okuyan pyenses ruhlu erkek
 bkz ablasını siken erkeğe enişte diyen genç
 bkz cep herkülünün taytında fırlayan taşşakları (yazar olsam alacağım nik)
 bkz deep web te kız taklidi yapan pasiflerle alfa erkeklerden hoşlanan betaların loop takılması :))))))))))
