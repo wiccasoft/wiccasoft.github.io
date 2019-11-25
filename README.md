@@ -3,8 +3,8 @@
  <!-- 
 bkz can yamanı yakışıklı bulan ak totoş
 bkz can yaman a instagram da gelen mesaj
-bkz bir saray bana bir topkekle can yamoş kiliçtaros size
-bkz götünde don olmayan ak totoşlaerın deep webte devleti savunması olayı güldürmüştür evet
+bkz bir saray bana bir topkekle can yumoş kiliçtaros size
+bkz götünde don olmayan ak totoşların deep webte devleti savunması olayı güldürmüştür evet
 bkz kilictoris in yemeyip içmeyip incenin götünü gondiklemesi
 bkz ak kamaloş ak türbanoş evliliğinden doğacak olan çocuklar
 bkz ak kamaloşlarla ak totoşların güldürmesi evet
