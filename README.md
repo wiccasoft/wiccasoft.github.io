@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
 bkz ali babacan ın davutoğlan la kuracağı yeni perti
-bkz ali babacanın yeni parti sinyallerini yakması
+bkz ali babacanın yeni parti sinyallerini yakması https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/maybelline-master-prime/
 bkz ak lgbt yi desteklemek https://www.youtube.com/watch?v=hY_6UPGGAlI
 bkz uludaki 23 lük gerizekalı ergenlerin güldürmesi evet  https://www.youtube.com/watch?v=8f78z5Rd1nE
