@@ -2,10 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
 https://www.uludagsozluk.com/k/asker-duda%C4%9F%C4%B1/ bkz gaylerin dünyası
-bkz evlendiği erkeği anlatan ak totoş
-bkz rakı içenlere götünü siktirmek isteyen telefoncu
 bkz uludaki 23 lük gay ergenlerin güldürmesi evet 
-bkz uludaki ergenlere bir posiyon erkek iskender ısmarlayıp eğlenmek
 https://www.uludagsozluk.com/k/jelatini-a%C3%A7%C4%B1lmam%C4%B1%C5%9F-erkek/
 https://www.uludagsozluk.com/k/bir-kere-aldatt%C4%B1n%C4%B1z-diye-hemen-ayr%C4%B1lan-k%C4%B1z-arkada%C5%9F/&w=gd
 https://www.uludagsozluk.com/k/evlenilen-erke%C4%9Fin-gay-%C3%A7%C4%B1kmas%C4%B1/ bkz aktotoşların hayal gücü
