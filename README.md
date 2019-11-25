@@ -3,7 +3,7 @@
  
  <!-- 
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz keltoş babana koş
-https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli jeff bezos johny sins
+https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz devlet bahçeli 
 bkz tayybin 2020 de yapcağım zamlarla polis öğretmen başöğretmen maaşlarını düzeltecem sözü
 bkz ülkücü hareket engellenemez https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz önemli işler daire başkanlığı danışmanlığı https://www.youtube.com/watch?v=criYKxCGpLM
