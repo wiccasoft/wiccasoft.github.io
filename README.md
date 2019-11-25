@@ -3,7 +3,7 @@
  <!--
 bkz uludaki 23 lük gay ergenlerin güldürmesi evet
 https://www.uludagsozluk.com/k/bir-kere-aldatt%C4%B1n%C4%B1z-diye-hemen-ayr%C4%B1lan-k%C4%B1z-arkada%C5%9F/&w=gd
-https://www.uludagsozluk.com/k/evlenilen-erke%C4%9Fin-gay-%C3%A7%C4%B1kmas%C4%B1/
+https://www.uludagsozluk.com/k/evlenilen-erke%C4%9Fin-gay-%C3%A7%C4%B1kmas%C4%B1/ bkz aktotoşların hayal gücü
 https://www.uludagsozluk.com/k/hayat%C4%B1nda-hi%C3%A7-k%C4%B1z-eli-tutmam%C4%B1%C5%9F-erkek/ bkz kan tutan ergen
 bkz ulucuların 23 yaşında beyaz götlü selin ciğercinin erkek hali tipli ezikler olduğu gerçeği
 bkz ulucuların hayalindeki alfa erkek tipi nedir sorunsalı
