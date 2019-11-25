@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
- 
+ <!-- bkz aktotoşların ak kamaloş hayranlığı
+https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ -->
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
