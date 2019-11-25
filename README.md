@@ -2,12 +2,11 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
-bkz aktotoşların aktotoşsözlüğü bitirmesi ))))))))))
-bkz tayyiple büyüyen aktotoşların kadınlı erkek seks nedir daha tatmamış olması
-bkz uludaki ak totoşlarla taşşak geçmek
-bkz kürtlere küfreden ak totoşların ak partinin kürt partisi olduğunu unutması :)))))))
 bkz ak totoşların damada dibini dövdürmesi
+bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
+bkz tayyiple büyüyen aktotoşların kadınlı erkek seks nedir daha tatmamış olması
+bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
+bkz kürtlere küfreden ak totoşların ak partinin kürt partisi olduğunu unutması :)))))))
 bkz ak totoşların kürtlere anca ulultotoşlar sözlükte küfredebilmesi :)))))
 bkz ılık götlü ak totoşların anca uludag da nik altında takıldığı gerçeği
 https://www.uludagsozluk.com/e/42466059/ bkz hadi bakalım dene gel
