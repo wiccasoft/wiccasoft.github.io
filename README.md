@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz 23 yaşındaki ezik ergenlerin neden ulda yazdıkları sorunsalı
 bkz telefoncu ekremin 23 yaşında ezik bi ergen olması
 bkz telefoncu ekremin ak götlü türbanlı bi hatun olma ihtimali
 bkz içip içip telefoncu ekremi sikmeye çalışan laikler
