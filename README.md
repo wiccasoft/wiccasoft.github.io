@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz aktrollerin bim pasta alıp heyecan yapması olayı https://www.youtube.com/watch?v=mmdWqXk4R1Q
+bkz aktrollerin bim pasta yerken çok heyecan yapması olayı https://www.youtube.com/watch?v=mmdWqXk4R1Q
 bkz aktrollerin ak götlerini kimsenin sikmek istememesi olayı
 bkz aktrollerin yemeyip içmeyip entry girmesi olayı
 bkz aktrollerin  iltifatlara aldıkları cevaplara entry girmesi
