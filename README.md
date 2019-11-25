@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz rakı içenlere götünü siktirmek isteyen telefoncu
 bkz uludaki 23 lük gay ergenlerin güldürmesi evet 
 bkz uludaki ergenlere bir posiyon erkek iskender ısmarlayıp eğlenmek
 https://www.uludagsozluk.com/k/jelatini-a%C3%A7%C4%B1lmam%C4%B1%C5%9F-erkek/
