@@ -3,7 +3,7 @@
  
  <!--
 bkz küçük pyens okuyan pyenses ruhlu erkek
-bkz ablasını siken erkeğe enişte diyen genç
+bkz ablasını siken erkeğe enişte diyen gavat genç
 bkz cep herkülünün taytında fırlayan taşşakları (yazar olsam alacağım nik)
 bkz deep web te kız taklidi yapan pasiflerle alfa erkeklerden hoşlanan betaların loop takılması :))))))))))
 bkz traveler of secret momenten sira dan sir adama asılması ama onun da erkeklerden hoşlanması :))))))
