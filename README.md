@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ben ortaokul bitince uluda başlık açacam diyen genç
 bkz gençli başlık açan 23 lük ulucu abi
 bkz zall ona hep abi derin annesiyle şöyle olabiliz diyen genç
 http://www.hurriyet.com.tr/yerel-haberler/gaziantep/ic-camasirli-tecavuze-24er-yil-ceza-41079532
