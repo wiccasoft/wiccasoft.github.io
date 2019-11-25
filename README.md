@@ -3,14 +3,13 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik 
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 
 https://www.yenisafak.com/video-galeri/gundem/muharrem-incenin-sokaga-atiyorlar-sozlerine-sert-tepki-2179551
 https://www.yenisafak.com/video-galeri/secim/erdogan-ile-incenin-farkini-anlatan-video-sosyal-medyayi-salladi-2178870
 https://www.yenisafak.com/gundem/ince-isgalciler-gibi-3389194
-bkz muharremin ak partici olmasına göt olan chpkklı totoşlar
 https://www.yenisafak.com/gundem/chpli-ozkoctan-inceye-cok-sert-sozler-namertsin-3515609
 https://www.yenisafak.com/gundem/kulliyeye-gittigi-iddia-edilen-chpli-muharrem-inceden-aciklama-utanmiyor-musunuz-beni-savunmamaya-3515534
-bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik 
 bkz zall ona hep oç derin sesainin çıkmaması sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc
 bkz halkın amk bana bişey olmasın partisi :)))
 https://www.uludagsozluk.com/e/42465424/ bkz live performance feat ali ekber çiçek
