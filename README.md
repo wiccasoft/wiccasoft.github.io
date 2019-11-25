@@ -3,7 +3,7 @@
  
  <!--
 https://www.uludagsozluk.com/k/c%C3%BCneyit-orhan-toprak/
-https://www.youtube.com/watch?v=xFjV8cD0mXI
+https://www.youtube.com/watch?v=xFjV8cD0mXI oymak beyiyle taşşak geçmek
 bkz sağcılara taşşak üfletmek
 bkz sağcıların sağ taşşaığıma faydası
 bkz akpnin kamalızma sarılması
