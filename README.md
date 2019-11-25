@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz ak nonoş zeka zeviyesi
+bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
 bkz aşkım efsane indirim günleri flo aykkab alsana bana diyen ak totoş
 bkz aşkım şimdi biz neyiz diyen ak totoş
 bkz aşkım  ... diyen erkek başlığına entry giriyorum diyen ak totoşlu ergen
