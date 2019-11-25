@@ -2,10 +2,10 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz wiccasoft un aslında chp olması bunu saklaması
 bkz ersun yanal zamanı wiccasoft vs aykutt kocaman zamanı wiccasoft
 bkz wiccasoft un fenerbahçe sk e şampiyonluk sözü vermesi
 bkz kakatürk zamanı wiccasoft vs kiziroğlu zamanı wiccasoft
-bkz kılışın wiccasoft un başında kalacam sözü
 bkz kemal kılıçoğlannın inceyi gondikleme sevdası
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-ince-yi-gondikleme-sevdas%C4%B1/
 https://www.youtube.com/watch?v=c7RRd63vsXw bkz kemal atatürk chp si vs kamal kürt chpsi
