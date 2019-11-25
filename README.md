@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/e/42463816/ bkz hayallerde yaşıyor bazı ibneler
 bkz akplilerin beka sorunu sonrası hep birden kamalcı olması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-chp-si-vs-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-chp-si/
 bkz mhpli kadınların eski chpli yeni akpli erkek hayranlığı
