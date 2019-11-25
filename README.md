@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz dsşisine uça yasağı koyan erkek sinek
 bkz dişisine tayt giydirip uçurtan erkek sinek in amacı
 bkz zall ona hep oç dere tayt giydiren erkek
 bkz zall hep one oç dere tayt giydirip dolaştırmak
