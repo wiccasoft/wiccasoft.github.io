@@ -3,9 +3,9 @@
  <!-- 
 bkz can yamanı yakışıklı bulan ak totoş
 bkz can yaman a instagram da gelen mesaj https://www.youtube.com/watch?v=H0760kGB-vw 
-bkz bir saray bana bir can incos yumoş kiliçtaros size
+bkz bir saray bana bir can yumos size
 bkz zillet ittifakını kurup güzel bir yunan adası almayı planlamak
-https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kılıçoğlu buraya gelecek
+https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o klictaros buraya gelecek
 https://www.youtube.com/watch?v=mmdWqXk4R1Q bir bim pasta ak totoşuma bir çiftlik bana
 bkz götünde don olmayan ak totoşların deep webte devleti savunması olayı güldürmüştür evet
 bkz kilictoris in yemeyip içmeyip incenin götünü gondiklemesi
