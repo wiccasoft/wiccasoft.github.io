@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz frukan vakfının bomba gibi gelmesi https://www.youtube.com/watch?v=z1ZUGDbS0TE
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi 
 bkz ali babaoşcan ın gümbür gümbür gelmesi https://www.youtube.com/watch?v=zeDyI4K2vpE
 bkz eşine minik pipişim kalkmıyo diyen aktotoşun intihar etmesi :)))))
