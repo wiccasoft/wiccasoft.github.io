@@ -1,7 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-https://www.uludagsozluk.com/k/rak%C4%B1-i%C3%A7enlerin-ortak-%C3%B6zellikleri/&w=bg bkz %80 i vergi olan alkol almaları
+bkz içip içip telefoncu ekremi sikmeye çalışan laikler
+https://www.uludagsozluk.com/e/42464612/ bkz %80 i vergi olan alkol almaları
 bkz canım ülkemdeki diye cümle kuran yumoşu ciddiye almak evet
 https://www.uludagsozluk.com/k/can-yaman-a-instagram-dan-gelen-mesaj/ 
 bkz ülkücü ergenlerin alfa erkek bulamamasının sebebi sorunsalı
