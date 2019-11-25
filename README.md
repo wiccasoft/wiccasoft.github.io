@@ -1,6 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz fondoten kullanan erkek vs rimel kullanan erkek
+https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg 
 bkz uludaki 23 lük gerizekalı ergenlerin güldürmesi evet  https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/asker-duda%C4%9F%C4%B1/ bkz gaylerin dünyası
 https://www.uludagsozluk.com/k/jelatini-a%C3%A7%C4%B1lmam%C4%B1%C5%9F-erkek/
