@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/ben-seni-aldat%C4%B1r%C4%B1m-%C3%BCzerim-diyen-erkek/
 bkz kamalcı altı gavat partisiyle ak totoşların partisinin seçmennin yavaş yavaş gebermesi süper olay evet
 https://www.uludagsozluk.com/e/42464470/ bkz zall ona hep oç derin annesi
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
