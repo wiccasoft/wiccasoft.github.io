@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+bkz can yaman a instagram da gelen mesaj
 bkz kilctoris in yemeyip içmeyip incenin götünü gondiklemesi
 bkz rus kadını sikerek öldüren adam
 bkz chp nin sitesini hekleyip ak hack team yazmak
