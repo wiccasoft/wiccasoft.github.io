@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz tayyibin wiccasoft halk partisini beğenmesi
 bkz wiccasoft un ümraniye ilçe başkanlığına atanan il müdürü
 bkz wiccasoft un aslında chp olması bunu saklaması
 bkz ersun yanal zamanı wiccasoft vs aykutt kocaman zamanı wiccasoft
