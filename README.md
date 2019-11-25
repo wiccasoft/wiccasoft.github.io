@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz aktotoşların ak kamaloş hayranlığı
 bkz türban lı kızların can yaman savdası https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
 https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
