@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkx ak totoşların dans videosu izlerken çıkardıkları sesler
 bkz ak totoşların can ataklıyı markaj altına alması 
 bkz ak tombişlerin bim pasta yerken izlediği tunç soyler imamoğlan dans videoları
 https://www.uludagsozluk.com/k/tun%C3%A7-soyer-in-yeni-dans-videosu/ bkz aktrollerin yemeyip içmeyi kesmesi
