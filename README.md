@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz zalla hep ona oç derin atatürke benzeyen adama 10 dakikdadır entry girmrmesi sorunsalı
 bkz ak kamalcılarla ak totoşların güldürmesi evet
 bkz aktotoşların ak kamalcı hayranlığı
 bkz götünde don olmayan ak totoşların akşama kadar devleti övmesi olayı güldüren olay evet
