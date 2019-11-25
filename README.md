@@ -2,10 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
-bkz ülkücü hareket engellenemez
-bkz alparslan türkeşin ülkü ocaklarını toplaması https://www.youtube.com/watch?v=criYKxCGpLM
-bkz tayyib tatlıseks s şiwan perwer muhteşem dueti
-bkz kılıçoğlanın meclis kahvesinde bahceliye attığı bakış
+bkz ülkücü hareket engellenemez https://www.youtube.com/watch?v=hvWg_vmFuDI
+bkz önemli işler daire başkanlığı danışmanlığı https://www.youtube.com/watch?v=criYKxCGpLM
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz akp nin şişirdiği pkk lı
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-komployu-bile-becerememesi/
 bkz tayypini kuruyemiş yerken cumhurbaşkanlığı armasını okşaması
