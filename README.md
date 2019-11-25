@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz burak özçivit vs yusuf güney
 bkz türkiyenin battığını kabullenemeyen ak kefenli ak totoşlar
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bkz ama aşkım götünü sikerken ne diyeyim
 bkz sigara ve alkol vergileri olmasa aç kalacak olan aktroller  https://www.youtube.com/watch?v=C9pzkemBmMM
