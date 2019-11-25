@@ -1,8 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
-bkz aktotoşların yavaş yavaş gebermelerinden erdoğanı soprunlu tutuan chpli godoş 
-bkz eşine minik pipim kalkmıyo diyen aktotoş intihar etmesi :)))))
+bkz eşine minik pipişim kalkmıyo diyen aktotoşun intihar etmesi :)))))
 bkz hırtlar vadsisi izleyen ergenlerin genelde pasif tipler olması https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz hırtlar vadisi izleyrek büyümüş bi ak totoşu döve döve sikmek
 bkz bi ak totoşun annesinin memelerine viski döküp yalamak
