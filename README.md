@@ -2,7 +2,6 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz ak totoşların damada dibini dövdürmesi
 bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
 bkz tayyiple büyüyen aktotoşların kadınlı erkek seks nedir daha tatmamış olması
 bkz aktotoşların maaşını rakı ve sigara içenlerin ödediği gerçeğini bilmeyen lise terk ak totoş
@@ -17,7 +16,6 @@ bkz tayyipten yeni yılda yeni zamlarla bekçi maaşlarına zam sözü
 bkz ükücülerin ve kamalcıların ne olursa devletini her daim savunmaları güzel bi olay evet
 bkz ak lgbt nin chp şişi lgbt hizmetine çöreklenmesi
 bkz bu devletin eppeğini yersen eppeği yediği yerden vergini de verirsin
-https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=bg
 bkz halk eppek bulamazken %80 vergili rakı içmek https://www.youtube.com/watch?v=a3XjyhJbdUA
 bkz sigara ve alkol vergileri olmasa aç kalacak olan aktroller  https://www.youtube.com/watch?v=C9pzkemBmMM
 bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen lise terk aktroller
