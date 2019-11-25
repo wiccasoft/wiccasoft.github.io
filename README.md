@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+bkz bu devletyin bekçüsü kümlük te sorah
 bkz fakirlerin yemeyip içmeyip tren yapması
 https://www.uludagsozluk.com/k/eni%C5%9Ftem-kar%C4%B1n%C4%B1-benimle-aldat%C4%B1yor/ 
 https://www.youtube.com/watch?v=WAMupz_a07M
