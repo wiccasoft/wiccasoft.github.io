@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz tunç soyer için 10 dakikadır başlık açmayan aktrolün sağlığı
 bkz zeynep tanbayın yaptığı imamaoğlan kılıçoğlan paylaşımı
 bkz kılıçtarın yaptığı paylaşıma sese çıakrtmayan aktroller
 bkz kılıçtarın inceyi donsuz gösterdiği paylaşım
