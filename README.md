@@ -4,7 +4,7 @@
  <!-- 
 https://www.youtube.com/watch?v=x6C9LsTiqHo 
 https://www.uludagsozluk.com/e/42463407/ bkz hüdaverdi
-https://www.youtube.com/watch?v=WAMupz_a07M sıraya geçin lan
+https://www.youtube.com/watch?v=WAMupz_a07M sıraya geçin lan itoğlu itler
 bkz devlet bahçelinin kılıççıolanı artık siklememesi 
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
 bkz kürtlerin yalovalı marremi satması
