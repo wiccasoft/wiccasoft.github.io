@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz ak nonoşların neyi özledikleri sourunsalı
 bkz aşkım kapışmak izleyen erkek
 https://www.uludagsozluk.com/e/42466742/ bkz ak nonoşların yakında aç kalacakları gerçeği
 bkz 15 temmuz da türkiyeyi kim krtardı sorunsalı
