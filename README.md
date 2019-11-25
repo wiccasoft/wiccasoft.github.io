@@ -3,7 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
-bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik kamolis kilcataroglis
+bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik kamolis kilictaroglis
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853 
 https://www.yenisafak.com/video-galeri/gundem/muharrem-incenin-sokaga-atiyorlar-sozlerine-sert-tepki-2179551
 https://www.yenisafak.com/video-galeri/secim/erdogan-ile-incenin-farkini-anlatan-video-sosyal-medyayi-salladi-2178870
