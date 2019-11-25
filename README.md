@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz kılıçtarın ssk yı baztırmasına ses etmeyen chpkklılar
 bkz yemeyip içmeyip kılıçtara entry girmek
 bkz 10 dakikadır imamaoğlana entry girmeyen aktrolün sağlığı
 bkz tunç soyer için 10 dakikadır başlık açmayan aktrolün sağlığı
