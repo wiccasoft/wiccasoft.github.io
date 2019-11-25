@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz cimaoğlu vs memikoğlu
 bkz oğluna tecavüz eden adamı sikerek öldüren adam
 bkz halkın arasına karışacak kadar çomar olmak
 bkz imamoğlu vs maçoğlu vs maarremoğlu
