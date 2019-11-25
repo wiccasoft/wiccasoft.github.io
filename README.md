@@ -1,6 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz said i nursi adam mıdır sorunsalı
+https://www.youtube.com/watch?v=8KRcWZvquPI
 bkz levent kırca adam mıdır sorunsalı https://www.youtube.com/watch?v=8KRcWZvquPI
 bkz adam gibi adamın sapına kadar adam olduğu nasıl anlaşılır sorunsalı
 bkz adam gibi adam lara entry griiyoruz kampanyası
