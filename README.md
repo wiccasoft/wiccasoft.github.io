@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz hala adıma başlık açamayan ergen o similerin hiç biris ben değilim ben camo
 bkz sağcılara taşşak üfletmek
 bkz sağcıların sağ taşşaığıma faydası
 bkz akpnin kamalızma sarılması
