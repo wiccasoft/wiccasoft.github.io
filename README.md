@@ -3,6 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+https://www.yenisafak.com/gundem/kulliyeye-gittigi-iddia-edilen-chpli-muharrem-inceden-aciklama-utanmiyor-musunuz-beni-savunmamaya-3515534
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik 
 bkz zall ona hep oç derin sesainin çıkmaması sorunsalı https://www.youtube.com/watch?v=QIAVaw_Qpkc
 bkz halkın amk bana bişey olmasın partisi :)))
