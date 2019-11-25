@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz akp vs chp nin kamalcı olması asdasdasdasdasdas
 bkz binaliye benzeyen adam vs kakatürke benzeyen adam  https://www.youtube.com/watch?v=urj0sCwSeio
 bkz chp ümraniye il başkanlığında pkklıların cirit attmasına sese etmeyen chpkklılar
 https://www.uludagsozluk.com/k/chp-yi-y%C3%B6neten-bir-avu%C3%A7-garip-y%C3%B6netici/
