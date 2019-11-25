@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz ükücülerin ve kamalcıların devletini her daim savunmaları güzel bi olay evet aferim genşler devam edin
+bkz ükücülerin ve kamalcıların ne olursa devletini her daim savunmaları güzel bi olay evet aferim genşler devam edin
 bkz ak lgbt nin chp şişi lgbt hizmetine çöreklenmesi
 bkz bu devletin eppeğini yersen eppeği yediği yerden vergini de verirsin
 https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=bg
