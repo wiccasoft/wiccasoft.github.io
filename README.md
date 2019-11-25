@@ -2,7 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
-muarram ince nin imamaoğlana verdiği ince ayar https://www.youtube.com/watch?v=fR9ZLJo6Pc4
+bkz efendimizin  muharrem aylarda tavşan kesmeyin hadisi
+marrem ince nin imamaoğlana verdiği ince ayar https://www.youtube.com/watch?v=fR9ZLJo6Pc4
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-muharrem-ince/ https://www.youtube.com/watch?v=fR9ZLJo6Pc4
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız 
 https://www.uludagsozluk.com/k/davuto%C4%9Flu-babacan-ve-%C5%9Fim%C5%9Fek-in-kuraca%C4%9F%C4%B1-parti/ 
