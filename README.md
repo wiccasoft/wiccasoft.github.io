@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz zall ona hep oç derin hakkat salak bi ergen olmas
+bkz zall ona hep oç derin evden dışarı çıkmaya korkan salak bi ergen olmas
 bkz zall hep ona orospu derin parlak tayt giymesine göz yuman erkek
 https://www.uludagsozluk.com/k/parlak-tayt-giyen-erke%C4%9Fin-amac%C4%B1/
 bkz zall hep ona orospu dere parlak tayt giydiren erkek
