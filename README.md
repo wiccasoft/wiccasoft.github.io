@@ -3,6 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+bkz muharrem incenin yalova kaymakına kim takar yalova kaymakamını demesi
 https://www.uludagsozluk.com/e/42465579/ bkz zallın hep ona abi dediği genç
 bkz fondoten kullanan erkeğine  ses etmeyen gavat
 bkz zall hep ona oç derin 10 dakikdaır entry girmemesi sorunsalı
