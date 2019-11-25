@@ -1,7 +1,9 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
- <!-- https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/
+ <!-- 
+bkz karısına aşkitom diyip sütuyen giydiren erkeğin amacı
+https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/
 https://www.uludagsozluk.com/k/haydirilililililililililili-yar/
 -->
  
