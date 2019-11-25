@@ -2,30 +2,11 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kuılıçoğlu buraya gelecek
+https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kılıçoğlu buraya gelecek
 bkz zuahahahahahahaha https://www.youtube.com/watch?v=bH8JSbg6Kkc
 https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm
 https://www.youtube.com/watch?v=S8YVdTQWttg bkz çok ta skimdeydin amk
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-yemeyip-i%C3%A7meyip-ince-ile-u%C4%9Fra%C5%9Fmas%C4%B1/
-bkz cumhuriyet halk partisi ümraniye ilçe teşkilatını yaptığı ersun yanallı paylaşım
-bkz türklerin biraz değil baya bi salak olması
-bkz türklere sosyla medya kullanmayı öğretmek evet bkz search cumhuriyet halk partisi
-bkz türklere sosyla medya kullanmayı öğretmek evet bkz search fenerbahce sk
-bkz türklerin yazılım labratuvarımı siyasi partileri sanması olayı evet
-bkz türklerin mavi sarı renk li paylaşım yapınca beni fenerbahçe sk sanması olayı evet
-bkz türklerin beni ersun yanal sanması komik olay evet 
-bkz türklerin yazılım labratuvarımı siyasi partileri ya da spor klüpleri sanması olayı komik olay evet
-bkz türklerin chp fenerbahçe nin resmi hesapları yerşne beni tyakip etmeesi
-bkxz wiccasoft sk nün paylaştığı anlamlı paylaşım
-mevzu wiccasoft ise gerisi teferruattır https://www.youtube.com/watch?v=FRjI-Ea6wcU
-https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz mevzu wiccasoft ise gerisi teferruattır
-bkz atatürkün de türklerinde halkın da amına koyayım wiccasoft uma bişey olmasın
-bkz tayyibin wiccasoft pagan partisini beğenmesi
-bkz wiccasoft un ümraniye ilçe başkanlığına atanan il müdürü
-bkz wiccasoft un aslında chp olması bunu saklaması
-bkz ersun yanal zamanı wiccasoft vs aykutt kocaman zamanı wiccasoft
-bkz wiccasoft un fenerbahçe sk e şampiyonluk sözü vermesi
-bkz kakatürk zamanı wiccasoft vs kiziroğlu zamanı wiccasoft
 bkz kemal kılıçoğlannın inceyi gondikleme sevdası
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-ince-yi-gondikleme-sevdas%C4%B1/
 https://www.youtube.com/watch?v=c7RRd63vsXw bkz kemal atatürk chp si vs kamal kürt chpsi
