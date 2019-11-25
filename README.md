@@ -12,17 +12,13 @@ bkz dişisine parlak tayt giydirip altına sandalet giydiren erkek
 bkz dişisine sandalet giydiren erkek vs parmak arası giydiren erkek
 bkz dişisine kilot giydirmeyen erkek vs dantelli kilot giydiren erkek
 bkz dişine çizgili tayt giydiren erkek vs dişisine parlak tayt giydiren erkek
-https://www.uludagsozluk.com/k/kezolar%C4%B1n-etraf%C4%B1nda-d%C3%B6nen-soksok/ bkz kayarım ben buna
-bkz tayyiple büyüyen erkeklerin kadın görmeye tahammül edememesi sorunsalı
-bkz tayyiple büyüyen ergenlerin kadınlı erkek seks nedir bilmemesi 
-bkz tayyiple büyüyen ergenlerin dkadın erkek arasına girme sevdası
+bkz tayyiple büyüyen erkeklerin dişi görmeye tahammül edememesi sorunsalı
 bkz dişisine evde gecelik giydiren erkek sineğin asıl amacı
 bkz dişiyle rakı içen ineğin asıl amacı
 bkz dsşisine uça yasağı koyan erkek sinek
 bkz dişisine tayt giydirip uçurtan erkek sinek in amacı
 bkz zall ona hep oç dere tayt giydiren erkek
 bkz zall hep one oç dere tayt giydirip dolaştırmak
-bkz zall ona hep oç derin evden dışarı çıkmaya korkan salak bi ergen olmas
 bkz zall hep ona orospu derin parlak tayt giymesine göz yuman erkek
 https://www.uludagsozluk.com/k/parlak-tayt-giyen-erke%C4%9Fin-amac%C4%B1/
 bkz zall hep ona orospu dere parlak tayt giydiren erkek
