@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
+bkz deliknalı adamın delikanlı sevgilisi olur
 bkz polatın daha harbi delikanlı olması https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.uludagsozluk.com/k/cerrahpa%C5%9Fal%C4%B1lar%C4%B1n-%C3%A7ak%C4%B1rdan-daha-delikanl%C4%B1-olmas%C4%B1/
 bkz frukan vakfının bomba gibi gelmesi https://www.youtube.com/watch?v=z1ZUGDbS0TE
