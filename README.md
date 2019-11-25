@@ -4,7 +4,7 @@
  <!--
 bkz wiccasoft un altı ok logosunu değiştirmesi
 bkz parti tüzüğünden devletçilik halkçılık milletçilik ilkeleri çıkartıp kafa dinlemek
-bkz zillet ittifakını kurup mykonos da kafa dinlemek
+bkz zillet ittifakını kurup güzel bir yunana adası almayı planlamak
 https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kılıçoğlu buraya gelecek
 bkz zuahahahahahahaha https://www.youtube.com/watch?v=bH8JSbg6Kkc
 https://www.internethaber.com/celal-kilicdaroglundan-abisiyle-ilgili-inanilmaz-tweetler-foto-galerisi-1742639.htm
