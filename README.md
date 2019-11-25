@@ -4,7 +4,8 @@
  <!-- 
 https://www.youtube.com/watch?v=x6C9LsTiqHo 
 https://www.uludagsozluk.com/e/42463407/ bkz hüdaverdi
-bkz devlet bahçelinin kılıççıolanı artık siklememesi
+https://www.youtube.com/watch?v=WAMupz_a07M sıraya geçin lan
+bkz devlet bahçelinin kılıççıolanı artık siklememesi 
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
 bkz kürtlerin yalovalı marremi satması
 bkz tayybin kılıççıoğlanın üstüne marrem i tayyibe salması
