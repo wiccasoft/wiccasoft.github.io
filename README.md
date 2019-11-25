@@ -3,6 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz zallın abi dediği gencin ayar manyağa yapacağı genc
 https://www.uludagsozluk.com/e/42465579/ bkz zallın abi dediği genç
 bkz muharrem aylara bile saygısı olmayan malum zhiniyetli altı oklu parti
 bkz muharrem aylarda tavşan kesmeyin emrine uymayan gondik kamolis kilictaroglis
