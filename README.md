@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
 bkz can yamanı yakışıklı bulan ak totoş
-bkz can yaman a instagram da gelen mesaj
+bkz can yaman a instagram da gelen mesaj https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz bir saray bana bir can incos yumoş kiliçtaros size
 bkz zillet ittifakını kurup güzel bir yunan adası almayı planlamak
 https://www.youtube.com/watch?v=17NNpb1Ou-E bkz o kılıçoğlu buraya gelecek
@@ -16,10 +16,8 @@ bkz aktotoşların ak kamaloş hayranlığı
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
 https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
-bkz aktotoşların deep webte can yamanı övmesi https://www.youtube.com/watch?v=H0760kGB-vw 
 https://www.uludagsozluk.com/e/42463816/ bkz hayallerde yaşıyor ak totoşlar
 bkz hunharca entry giren aktotoşun kulağını çekip kulağına 2023 te görüşürüz demek
-bkx ak totoşların güldürmesi
 bkz ak tombişlerin bim pasta yerken izlediği dans videoları
 -->
  
