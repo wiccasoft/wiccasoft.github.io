@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz jelatinin açılmamaış erkeğin asıl amacı
+bkz jelatini açılmamaış erkeğin asıl amacı
 https://www.uludagsozluk.com/k/jelatini-a%C3%A7%C4%B1lmam%C4%B1%C5%9F-erkek/
 https://www.uludagsozluk.com/k/sivas-ta-30-erke%C4%9Fin-grup-seks-yaparken-yakalanmas%C4%B1/&w=bg
 bkz dişi sineklerin uçmasının asıl amacı
