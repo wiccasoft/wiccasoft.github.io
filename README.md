@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ak lgbt nin chp şişi lgbt hizmetine çöreklenmesi
 bkz halk eppek bulamazken %80 vergili rakı içmek https://www.youtube.com/watch?v=a3XjyhJbdUA
 bkz sigara ve alkol vergileri olmasa aç kalacak olan aktroller  https://www.youtube.com/watch?v=C9pzkemBmMM
 bkz bütçe açığını sigara ve alkol vergileriyle kapandığını bilmeyen lise terk aktroller
