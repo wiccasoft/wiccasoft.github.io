@@ -3,6 +3,7 @@
  
  <!--
 bkz aktotoşların ak kamaloş hayranlığı
+https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
 bkz türban lı kızların can yaman hayranlığı https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
 https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
