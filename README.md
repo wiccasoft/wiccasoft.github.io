@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
-bkz ak kamalcı ak türbancı kız evliliğinden doğacak olan çocuklar
+bkz ak kamaloş ak türbanoş evliliğinden doğacak olan çocuklar
 bkz hayatında kız eli tutmamış totoşun olmayan kız arkadaşını aldatması
 bkz aktotoşların ak kamaloş hayranlığı
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
