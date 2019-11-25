@@ -1,6 +1,8 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
+ <!-- https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/-->
+ 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
 
