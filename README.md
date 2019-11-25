@@ -2,6 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz parlak tayt giydiren erkek
+https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/&w=gd
 bkz cerrrahpaşa tıp bitirip lise bitirememiş ak totoşlarla muhattap olmak
 bkz cerrahpaşılıların liseli polatı siklememesi
 -->
