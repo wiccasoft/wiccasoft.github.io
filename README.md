@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
- <!-- bkz zzall ona hep oç dere haftada 50 lira maaş bağlayıp kafa dinlemek -->
+ <!-- bkz zzall ona hep oç dere haftalık 50 lira maaş bağlayıp kafa dinlemek -->
  <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw İstanbul Çok Hoştur Ama Benana -->
  <!-- https://www.youtube.com/watch?v=h6Q9id4Q_js akboyları kudurtmak -->
  <!-- https://www.uludagsozluk.com/k/sahi-bi-beka-reyiz-vard%C4%B1-ne-oldu-ona/ -->
