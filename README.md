@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz aşkım diyen erkek https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg
+https://www.uludagsozluk.com/e/42465949/ bkz aşkım diyen erkeğe uçan tekme atan türk kızı
 bkz ak totoşların bekçi maaşlarını kıskanması
 bkz bu devletn bekçisi kimlik de sorar hesap da sorar lan ak totş sen kimsin
 bkz ak totoşların aktotoşsözlüğü bitirmesi ))))))))))
