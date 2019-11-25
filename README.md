@@ -5,24 +5,6 @@
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
 bkz dişisini uçuran erkeğin asıl amacı
-bkz dişisine fosforlu tayt giydirmeyen erkeğin asıl amacı
-bkz dişisine fosforlu tayt giydiren erkeğin asıl amacı
-bkz dişine parlak tayt giydirip bağcılarda paten yaptıran erkek
-bkz dişisine parlak tayt giydirip altına sandalet giydiren erkek
-bkz dişisine sandalet giydiren erkek vs parmak arası giydiren erkek
-bkz dişisine kilot giydirmeyen erkek vs dantelli kilot giydiren erkek
-bkz dişine çizgili tayt giydiren erkek vs dişisine parlak tayt giydiren erkek
-bkz tayyiple büyüyen erkeklerin dişi görmeye tahammül edememesi sorunsalı
-bkz dişisine evde gecelik giydiren erkek sineğin asıl amacı
-bkz dişiyle rakı içen ineğin asıl amacı
-bkz dsşisine uça yasağı koyan erkek sinek
-bkz dişisine tayt giydirip uçurtan erkek sinek in amacı
-bkz zall ona hep oç dere tayt giydiren erkek
-bkz zall hep one oç dere tayt giydirip dolaştırmak
-bkz zall hep ona orospu derin parlak tayt giymesine göz yuman erkek
-https://www.uludagsozluk.com/k/parlak-tayt-giyen-erke%C4%9Fin-amac%C4%B1/
-bkz zall hep ona orospu dere parlak tayt giydiren erkek
-https://www.uludagsozluk.com/k/di%C5%9Fisinin-parlak-tayt-gitmesine-g%C3%B6z-yuman-erkek/&w=gd
 bkz cerrrahpaşa tıp bitirip lise bitirememiş ak totoşlarla muhattap olmak
 bkz cerrahpaşılıların liseli polatı siklememesi
 -->
