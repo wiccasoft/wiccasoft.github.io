@@ -2,7 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz hunharca entry giren aktotoşun kulağını çekip kulağına 2023 te görüşürüz son gülen iyiy güler demek
+https://www.uludagsozluk.com/e/42463816/ bkz hayallerde yaşıyor ak totoşlar
+bkz hunharca entry giren aktotoşun kulağını çekip kulağına 2023 te görüşürüz demek
 bkx ak totoşların güldürmesi
 bkx ak totoşların dans videosu izlerken çıkardıkları sesler
 bkz ak totoşların can ataklıyı markaj altına alması 
