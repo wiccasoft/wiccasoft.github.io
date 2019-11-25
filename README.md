@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz tayybin 2020 de yapcağım zamlarla polis öğretmen başöğretmen maaşlarını düzeltecem sözü
 bkz ülkücü hareket engellenemez https://www.youtube.com/watch?v=hvWg_vmFuDI
 bkz önemli işler daire başkanlığı danışmanlığı https://www.youtube.com/watch?v=criYKxCGpLM
 https://www.uludagsozluk.com/k/ahmet-kaya/&w=bg bkz akp nin şişirdiği pkk lı
