@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz zall ona hep oç derin seseinn çıkmaması sorunsalı
+bkz zall ona hep oç derin sesainin çıkmaması sorunsalı
 bkz halkın amk bana bişey olmasın partisi :)))
 https://www.uludagsozluk.com/e/42465424/ bkz live performance feat ali ekber çiçek
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz a bu benim ayol betayım hacı size eppek çıkmaz
