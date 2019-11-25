@@ -4,7 +4,7 @@
  <!--
 https://www.uludagsozluk.com/e/42466059/ bkz hadi bakalım dene gel
 bkz burak özçivitin fahriye evcana mykonos tan ev almayaı planlaması
-bkz daha yeni başlıyoruz ağlayacaksanız oynamayalım ak totoşlar
+bkz daha yeni başlıyoruz gülecekseniz oynamayalım ak totoşlar
 bkz bunlar daha iyi günleriniz ak totoşlar 2020 de mumla arayacağınız günler 
 bkz tayyipten yeni yılda yeni zamlarla bekçi maaşlarına zam sözü
 bkz ükücülerin ve kamalcıların ne olursa devletini her daim savunmaları güzel bi olay evet
