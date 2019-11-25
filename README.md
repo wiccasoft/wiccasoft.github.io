@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz cumhuriyet gavatları partisi
 https://www.uludagsozluk.com/e/42465424/ bkz live performance feat ali ekber çiçek
 bkz mondoten kullanan erkek vs mondoten kullanmayan erkek aşkı
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz a bu benim ayol betayım hacı size eppek çıkmaz
