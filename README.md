@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz gençli başlık açan 23 lük delikanlı
 bkz zall ona hep abi derin annesiyle şöyle olabiliz diyen genç
 http://www.hurriyet.com.tr/yerel-haberler/gaziantep/ic-camasirli-tecavuze-24er-yil-ceza-41079532
 bkz ablasının erkek arkdaşısına götünü veren genç https://www.uludagsozluk.com/e/42465579/
