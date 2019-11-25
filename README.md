@@ -3,6 +3,7 @@
  
 <!-- 
 bkz aşkım kapışmak izleyen erkek
+https://www.uludagsozluk.com/e/42466742/ bkz ak nonoşların yakında aç kalacakları gerçeği
 bkz 15 temmuz da türkiyeyi kim krtardı sorunsalı
 bkz kemalistler sigara ve içki almasa ak totoşların aç kalacağı gerçeği :))))))))))
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
