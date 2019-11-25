@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz ülkücü ergenlerin alfa erkek bulamamsının sebebi
+bkz ülkücü ergenlerin alfa erkek bulamamasının sebebi sorunsalı
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz gama mı beta mı sorunsalı evet 
 bkz sabriye şengülün kürt kaşları vs martı
 bkz siyasal islamcı düğünleri https://www.youtube.com/watch?v=RHBoMuNszuk
