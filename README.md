@@ -4,7 +4,7 @@
  <!--
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
 https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
-bkz aktotoşların merve nici alıp deep webte can yamanı övmesi https://www.youtube.com/watch?v=H0760kGB-vw 
+bkz aktotoşların deep webte can yamanı övmesi https://www.youtube.com/watch?v=H0760kGB-vw 
 bkz ak totoşların can yaman hayranlığı
 bkz ak totoşların can yamanı yakışıklı bulması
 bkz can yaman kim amk diye aratmaya üşenmek
