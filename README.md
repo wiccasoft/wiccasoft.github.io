@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz tayyiple büyüen erkeklerin kadın görmeye tahammül edememesi
+bkz tayyiple büyüyen erkeklerin kadın görmeye tahammül edememesi sorunsalı
 bkz tayyiple büyüyen ergenlerin kadınlı erkek seks nedir bilmemesi 
 bkz tayyiple büyüyen ergenlerin dkadın erkek arasına girme sevdası
 bkz dişisine evde gecelik giydiren erkek sineğin asıl amacı
