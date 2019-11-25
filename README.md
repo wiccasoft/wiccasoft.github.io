@@ -1,6 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
+bkz cerrahpaşalıların polatı siklemesi
 bkz mevlanayla hz eyübe duygusal entry giren aktotoş
 bkz eşine minik pipişim kalkmıyo diyen aktotoşun intihar etmesi :)))))
 bkz hırtlar vadsisi izleyen ergenlerin genelde pasif tipler olması https://www.youtube.com/watch?v=c7IoBRRBiX8
