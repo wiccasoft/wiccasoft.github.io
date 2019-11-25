@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
 bkz kürtlerin yalovalı marremi satması
 bkz tayybin kılıççıoğlanın üstüne marrem i tayyibe salması
 https://www.uludagsozluk.com/k/kel-erkek/&w=bg bkz keltoş babana koş
