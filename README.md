@@ -4,6 +4,7 @@
   <!-- https://www.uludagsozluk.com/k/sahi-bi-beka-reyiz-vard%C4%B1-ne-oldu-ona/ -->
  <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs/ -->
  <!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-vs-muharrem-ince/&w=gd -->
+ <!-- https://www.uludagsozluk.com/k/cemaat-devlete-s%C4%B1zm%C4%B1%C5%9F-buna-kargalar-g%C3%BCler/&w=gd -->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
