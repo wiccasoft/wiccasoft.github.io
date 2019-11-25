@@ -2,6 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz tayyipbin başöğretmen maaşlarını düzeltecem sözü
+https://www.uludagsozluk.com/k/ba%C5%9F%C3%B6%C4%9Fretmen-g%C3%B6ksel-kaya/
 https://www.youtube.com/watch?v=crXRtDWWrSQ
 https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg 
 https://www.youtube.com/watch?v=C7aa5IMfb6M
