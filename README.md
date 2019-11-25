@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz sabriye şengülün kaşları vs martı
+bkz sabriye şengülün kürt kaşları vs martı
 bkz siyasal islamcı düğünleri https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz cerrahpaşalıların liseli polatı siklememesi
 bkz cerrahpaşa tıp bitirip polatla muhattap olmamak
