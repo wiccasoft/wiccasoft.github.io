@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz atatürk zamanı wiccasoft vs kemal kılış zamanı wiccasoft
+bkz kakatürk zamanı wiccasoft vs kiziroğlu zamanı wiccasoft
 bkz kılışın wiccasoft un başında kalacam sözü
 bkz kemal kılıçoğlannın inceyi gondikleme sevdası
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-ince-yi-gondikleme-sevdas%C4%B1/
