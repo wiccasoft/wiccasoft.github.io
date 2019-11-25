@@ -2,6 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz akplilerin beka sorunu sonrası hep birden kamalcı olması
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-chp-si-vs-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-chp-si/
 bkz mhpli kadınların eski chpli yeni akpli erkek hayranlığı
 bkz devlet memurlarının ne iş yaptıkları sorunsalı
 https://www.dogankitap.com.tr/kitap/onemli-isler-dairesi
