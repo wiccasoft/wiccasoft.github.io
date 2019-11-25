@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz cumhuriyet halk partisinin sitesini hekleyip ak kach team yazmak
 bkz fondoten kullanan erkeğin asıl amacı
 bkz fondoten kullanan erkek vs rimel kullanan erkek
 bkz ulucuların erkek açığını kapatak erkek robot yapmak
