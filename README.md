@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+https://www.uludagsozluk.com/k/ba%C5%9F%C3%B6%C4%9Fretmen-g%C3%B6ksel-kaya/ bkz yarramın başı
 bkz türkler kadar salak mşillet yok amk asdsadasdasdasd
 bkz akp vs chp nin bi anda  kamalcı olması asdasdasdasdasdas
 bkz binaliye benzeyen adam vs kakatürke benzeyen adam  https://www.youtube.com/watch?v=urj0sCwSeio
