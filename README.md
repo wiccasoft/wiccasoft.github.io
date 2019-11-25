@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aşkım ak nonoş götünü yerim diyen erkek
 bkz aşkım kapışmak izleyen erkek
 bkz ak nonoş zeka zeviyesi
 bkz türklerin web sitesi yapamaması sorunsalı
