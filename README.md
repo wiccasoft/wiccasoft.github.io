@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz dişi sineklerin uçmasının asıl amacı
 bkz dişisini uçuran erkeğin asıl amacı
 bkz dişisine fosforlu tayt giydirmeyen erkeğin asıl amacı
 bkz dişisine fosforlu tayt giydiren erkeğin asıl amacı
