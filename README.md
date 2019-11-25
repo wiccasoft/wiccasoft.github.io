@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+bkz tayypini kuruyemiş yerken cumhurbaşkanlığı armasını okşaması
 bkz allahın muharrem aylarda (bkz doğurganlık) tavşan kesmeyin emri
 bkz babacan nın yeni partsi sinyallerini yakması https://www.youtube.com/watch?v=8f78z5Rd1nE
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-muharrem-ince/ https://www.youtube.com/watch?v=fR9ZLJo6Pc4
