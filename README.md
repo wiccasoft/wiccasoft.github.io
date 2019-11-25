@@ -2,9 +2,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz si ra dan sir damı ansını kürtlere siktirmek
 https://www.uludagsozluk.com/e/42465900/ bkz gücünü ananın amından alan evet
-https://www.uludagsozluk.com/e/42465867/ bkz aktrollerin anasını sikecem bakışı evet
+https://www.uludagsozluk.com/e/42465867/ bkz ak totoşların anasını sikecem bakışı evet
 bkz hadisenin suratına enjekte edilen domuz yağının bi taş gibi olması
 bkz türklerin çok çirkin olduğu gerçeği kızlar dahil
 bkz hadiseye 40 tane skim olsa birini sokmam diyen dayı
