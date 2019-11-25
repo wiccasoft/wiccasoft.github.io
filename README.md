@@ -2,7 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
-bkz tunç soyerin dans videosunu izlerken odaya annenin girmesi
+bkz tunç soyerin yeni dans videosunu izlerken odaya annenin girmesi
 bkz kılıçtarın ssk yı baztırmasına ses etmeyen chpkklılar
 bkz yemeyip içmeyip kılıçtara entry girmek
 bkz 10 dakikadır imamaoğlana entry girmeyen aktrolün sağlığı
