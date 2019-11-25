@@ -5,6 +5,7 @@
 bkz muharrem ince nin ince gördüğü espri
 bkz fondoten kullanan erkeğine  ses etmeyen gavat
 bkz zall hep ona oç derin 10 dakikdaır entry girmemesi sorunsalı
+bkz zall ona hep oç der entry girerken topkek çay getiren annesi
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz zallın hep abla dediği genç
 https://www.uludagsozluk.com/e/42465579/ bkz zallın abi dediği genç
 bkz muharrem aylara bile saygısı olmayan malum zhiniyetli altı oklu parti
