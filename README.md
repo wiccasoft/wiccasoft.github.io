@@ -3,7 +3,7 @@
  
  <!--
 https://www.uludagsozluk.com/e/42465900/ gücünü ananın amından alan evet
-https://www.uludagsozluk.com/e/42465867/ aktrollerin anasını sikecem bakışı
+https://www.uludagsozluk.com/e/42465867/ aktrollerin anasını sikecem bakışı evet
 bkz hadisenin suratına enjekte edilen domuz yağının bi taş gibi olması
 bkz 2023 te demirtaşı mumla arayacak ak totoşlar evet
 https://www.uludagsozluk.com/k/sahi-bir-selahattin-demirta%C5%9F-vard%C4%B1-noldu-ona/&w=bg
