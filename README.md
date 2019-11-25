@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz imamaoğlunun çöp toplama konseyi danışmanlığına getirdiği skandal isim
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ başbuğ
 https://www.uludagsozluk.com/k/fet%C3%B6-ye-neler-verildi%C4%9Fini-hi%C3%A7-merak-etmeyen-%C3%A7omar/
 mevzu fenerse gerisi teferruattır https://www.youtube.com/watch?v=FRjI-Ea6wcU
