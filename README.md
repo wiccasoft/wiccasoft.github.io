@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz devlet memurlarının ne iş yaptıkları sorunsalı
 bkz burası çokömelli danışman yardımcılığı daire başkanlığının boş kalması
 bkz imamoğlunun çöp toplama konseyi danışmanlığına getirdiği skandal isim
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ başbuğ
