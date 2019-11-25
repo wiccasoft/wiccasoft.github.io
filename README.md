@@ -3,8 +3,6 @@
  
  <!--
 bkz aktotoşların ak kamaloş hayranlığı
-bkz hayatında kız eli tutmamış ergenin olmayan kız arkadaşını aldatmaası
-https://www.uludagsozluk.com/k/bir-kere-aldatt%C4%B1n%C4%B1z-diye-hemen-ayr%C4%B1lan-k%C4%B1z-arkada%C5%9F/&w=bg
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
 bkz türklerdeki eşcinsellik genini lab de incelemek
 bkz türban lı kızların can yaman hayranlığı https://www.youtube.com/watch?v=H0760kGB-vw 
@@ -20,6 +18,8 @@ bkz ak kamalcılarla ak totoşların güldürmesi evet
 bkz aktotoşların ak kamalcı hayranlığı
 bkz götünde don olmayan ak totoşların akşama kadar devleti övmesi olayı güldüren olay evet
 https://www.uludagsozluk.com/k/bu-devletin-bek%C3%A7isi-kimlik-de-sorar-hesap-da-sorar/&w=bg
+bkz hayatında kız eli tutmamış ergenin olmayan kız arkadaşını aldatmaası
+https://www.uludagsozluk.com/k/bir-kere-aldatt%C4%B1n%C4%B1z-diye-hemen-ayr%C4%B1lan-k%C4%B1z-arkada%C5%9F/&w=bg
 bkz ak totoşları kızdırtıp hunharca entry girmelerin sağlamak
 bkz ak totoşların yine güldürmesi
 bkz ak totoşların avrupadan damızlık erkek ithal etmeye çalışması
