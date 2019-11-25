@@ -3,6 +3,7 @@
  
 <!-- 
 bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
+bkz ağlaycaksanız oynamayalım ak nonoşlar diyen erkek
 bkz aşkım efsane indirim günleri flo aykkab alsana bana diyen ak totoş
 bkz aşkım şimdi biz neyiz diyen ak totoş
 bkz aşkım  ... diyen erkek başlığına entry giriyorum diyen ak totoşlu ergen
