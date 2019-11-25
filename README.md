@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz telefon cu ekremle gogocunun mesaisini bitmek üzere olması
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-yemeyip-i%C3%A7meyip-ince-ile-u%C4%9Fra%C5%9Fmas%C4%B1/
 bkz wiccasoft un altı ok logosunu değiştirmesi
 bkz parti tüzüğünden devletçilik halkçılık milletçilik ilkeleri çıkartıp kafa dinlemek
