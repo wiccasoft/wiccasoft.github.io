@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!--
-bkz canım ülkemdeki diye cümle kuran yumoşu ciddiye almak
+bkz canım ülkemdeki diye cümle kuran yumoşu ciddiye almak 
 https://www.uludagsozluk.com/k/can-yaman-a-instagram-dan-gelen-mesaj/ bkz can yumoşu yakışıklı bulan ak totoş evet
 bkz ülkücü ergenlerin alfa erkek bulamamasının sebebi sorunsalı
 https://www.uludagsozluk.com/k/fondoten-kullanan-erkek/&w=bg bkz gama mı beta mı sorunsalı evet 
