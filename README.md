@@ -3,6 +3,7 @@
  
  <!--
 bkz muharrem ince nin ince gördüğü espri
+https://www.uludagsozluk.com/e/42465579/ bkz zallın abi dediği genç
 bkz fondoten kullanan erkeğine  ses etmeyen gavat
 bkz zall hep ona oç derin 10 dakikdaır entry girmemesi sorunsalı
 bkz zall ona hep oç der entry girerken topkek çay getiren annesi
