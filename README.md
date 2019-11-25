@@ -1,7 +1,7 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- 
-bkz 
+bkz hayatında kız eli tutmamış totoşun olmayan kız arkadaşını aldatması
 bkz aktotoşların ak kamaloş hayranlığı
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
 bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
