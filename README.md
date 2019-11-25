@@ -3,10 +3,7 @@
  <!-- 
 bkz can yamanı yakışıklı bulan ak totoş
 bkz can yaman a instagram da gelen mesaj
-bkz kilctoris in yemeyip içmeyip incenin götünü gondiklemesi
-bkz rus kadını sikerek öldüren adam
-bkz chp nin sitesini hekleyip ak hack team yazmak
-bkz kılıçtarisin muharremoşun götünü gondiklemesi
+bkz kilictoris in yemeyip içmeyip incenin götünü gondiklemesi
 bkz ak kamaloş ak türbanoş evliliğinden doğacak olan çocuklar
 bkz ak kamaloşlarla ak totoşların güldürmesi evet
 bkz hayatında kız eli tutmamış totoşun olmayan kız arkadaşını aldatması
