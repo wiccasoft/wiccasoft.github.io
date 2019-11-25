@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!--
+bkz ak totoşları kızdırtıp hunharca entry girmelerin sağlamak
 bkz ak totoşların yine güldürmesi
 bkz ak totoşların avrupadan damızlık erkek ithal etmeye çalışması
 bkz aynaya baksa korkacak ak totoşların can yamana sarması
