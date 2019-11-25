@@ -2,6 +2,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
  <!-- 
+https://www.uludagsozluk.com/k/12-ki%C5%9Fiyi-%C3%B6ld%C3%BCren-t%C3%BCrk-seri-katil/ bkz hüdaverdi
 bkz devlet bahçelinin kılıççıolanı artık siklememesi
 bkz yalovalı kürtlerin marremi satmasına sesi çıkmayan chpkklılar
 bkz kürtlerin yalovalı marremi satması
