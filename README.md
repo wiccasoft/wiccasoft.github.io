@@ -1,7 +1,11 @@
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  <!-- bkz aktotoşların ak kamaloş hayranlığı
-https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ -->
+https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
+bkz aktotoşların can yamanı takip etme sebebi bkz güldürmüştür evet
+https://www.uludagsozluk.com/e/42464342/ bkz güldürmüştür evet 
+bkz aktotoşların deep webte can yamanı övmesi https://www.youtube.com/watch?v=H0760kGB-vw 
+-->
  
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
