@@ -3,6 +3,8 @@
  
  <!--
 bkz aktotoşların ak kamaloş hayranlığı
+bkz hayatında kız eli tutumamış ergenin başlıklarla yaşaması
+https://www.uludagsozluk.com/k/bir-kere-aldatt%C4%B1n%C4%B1z-diye-hemen-ayr%C4%B1lan-k%C4%B1z-arkada%C5%9F/&w=bg
 https://galeri.uludagsozluk.com/r/alparslan-t%C3%BCrke%C5%9F-1629570/ 
 bkz türklerdeki eşcinsellik genini lab de incelemek
 bkz türban lı kızların can yaman hayranlığı https://www.youtube.com/watch?v=H0760kGB-vw 
