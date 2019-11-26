@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://www.youtube.com/watch?v=UqWJbHVfPwQ
 https://www.facebook.com/horrorhdmovie/videos/the-best-scene-of-crank-high-voltage/418688188881779/
 https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 99% turk
 https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb
