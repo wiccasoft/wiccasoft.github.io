@@ -10,8 +10,6 @@
 bkz haluk un iki emmy aldı diye götünün kalkması
 bkz incenin kürtlerin oyunu almak için sahnelere oynaması
 bkz ince nin tören öncesi ince gör haluk demesi https://www.youtube.com/watch?v=kR8uLbrbsQ8
-bkz muharrem incenin haluk a tören öncesi attığı bakış
-bkz ali poyrazoğlunu törende haluk un popusunu sıkması
 bkz ayşegül aldinçin törende haluka halukçum demesi
 bkz muharrem incenin akrep burcu erkeği olduğu gerçeği
 bkz muharrem ince nin muharrem bir ayda doğma ihtimali
