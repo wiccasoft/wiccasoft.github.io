@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz merve boğulurun şaka maka kızım yaşımda olması
 bkz selin ciğercinin erkek halinin görüp kusmak
 bkz selin ciğercinin erkek halinin uludaki tipsiz ergenlere benziyor olması
 bkz tipsiz siyasetçiler bile karı sikiyorken kraliçe elizabeth
