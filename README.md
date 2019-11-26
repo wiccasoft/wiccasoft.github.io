@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz 35+6 yaşında hiç aşkım dememiş erkek
 bkz 35+6 yaşında seksten vazgeçen adam
 bkz selin ciğercinin aşkitosuna eliyle yedirdiği börek
 bkz selin ciğercinin kaınalr matinesinde yaptığı börek
