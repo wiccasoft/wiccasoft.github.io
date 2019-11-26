@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz selin ciğercinin erke halinin uludaki tiplere benziyor olması
 bkz tipsiz siyasetçiler bile karı sikiyorken kraliçe elizabeth
 bkz kaka marremin karı sikebildiği ülke
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
