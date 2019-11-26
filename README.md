@@ -4,6 +4,7 @@
      bkz can yumoşun yaman delikanlı çıkması 
      bkz layt erkeği selami vs taş fırın erkeği haluk
      bkz selin ciğerci nin merve boğulura orospu demesi
+     bkz e eşitter em ce kare marrem emice
      bkz ali babaoşcanın davutoğluna ne oldi saha böyle bi anda oldun layt erkeği demesi
      bkz cerrahpaşa tıp bitirip nelerle uğraşmak
 -->
