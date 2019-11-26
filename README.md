@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+https://www.youtube.com/watch?v=bcFuhAq1sJs bkz haluk bilginer
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz kılıcdaroglu vs erdogan
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu vs erdogan
 https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomar belgeseli
