@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz 41 yaşından seksten vageçen adamı hayata döndüren kız
 bkz diyojen erkek vs homojen erkek
 bkz ... .diyen erkek vs ... demeyen erkek
 bkz muharrem incenin annesi vs imamaoğlunun annesi
