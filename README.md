@@ -8,7 +8,6 @@
 
 <!-- 
 bkz siyasi partilere siyasi liderlerin oğulları geçsin kampanyası
-https://www.uludagsozluk.com/k/kk-dan-sonra-chp-genelba%C5%9Fkan%C4%B1-kim-olmal%C4%B1/ bkz kk kerem kılıccıoglu
 bkz halukçum tebrik ederim https://www.youtube.com/watch?v=7n6llWsjFwc
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 bkz mekan üstüme zimmetli ha dokunmyaın sikerun 
