@@ -5,18 +5,7 @@
 <!-- 
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz koskoca kakanın allah yoksa niye kakan geliyo demesi
-bkz sürekli kaka maka yani kaka hani yani bidliğin kaka diyen tip
-bkz te set tür lü kızın tür ban la ması
-bkz teset tür lü şeri atçı kıza topkek yen mi demek
-bkz sürekli diyen erkekli başlık açan ak nonoşa topkeke ısmarlamak
-bkz sürekli hani ve yani diyen ak nonoş
-bkz şaka maka ak nonoşlar için çanların çalması
-bkz şaka maka ak nonoşlara aktrollük maaaşları ödenmesin diye alkol ve sigarayı bırakma kararı almak
-bkz şaka maka ak nonoşlara su veren itfaiyyenin hortumunu sikeyim
-bkz şaka maka aknonoşların aç kalacakları günlerin yaklaşıyor olması
-bkz aknonoşları gelecekte aç bırakarak nüfusu dengelemek sorunsalları çözmek
-bkz nonoşların kürtleri sorun olarak görmesi sorunsalı
-bkz ak nonoşların kürt sorununu nasıl çözecekleri sorunsalı
+bkz sürekli kaka maka yani kaka hani yani bildiğin kaka yani diyen tip
 bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
 bkz ağlaycaksanız oynamayalım ak nonoşlar diyen erkek
 bkz aşkım efsane indirim günleri flo aykkab alsana bana diyen ak totoş
