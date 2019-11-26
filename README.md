@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz muharrem incenin akrep burcu erkeği olduğu gerçeği
 bkz muharrem ince nin muharrem bir ayda doğma ihtimali
 bkz siyasi partilere siyasi liderlerin oğulları geçsin kampanyası https://www.youtube.com/watch?v=dZxZjk6QOG8
 bkz halukçum tebrik ederim https://www.youtube.com/watch?v=7n6llWsjFwc
