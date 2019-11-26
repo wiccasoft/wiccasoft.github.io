@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz layt erkek selami vs taş fırın erkeği haluk
 bkz haluk un götünün kalkmasına ses etmeyen kamalcılar
 bkz selin ciğercinin merve boğulurlara ders çalışmaya gitmesi
 bkz sevdiceğine kuzum diyen erkek https://www.youtube.com/watch?v=GtyqAw2DOEk
