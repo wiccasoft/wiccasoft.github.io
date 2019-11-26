@@ -3,7 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz haluk biliner incide sorularınız cevaplıyor
+bkz haluk biliner inciciler 15 temmuz destanı buluşması
 bkz i know what u did last 15 july
 bkz 15 temmuz da kamalcılar nabıyodu
 bkz haluk levent ekşide entryleriniz okuyor
