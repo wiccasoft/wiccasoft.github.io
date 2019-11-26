@@ -3,10 +3,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz haluk bilginerin ulusözlükle yazışması
+bkz haluk bilginer ulusözlük buluşması
 -tebrikler halukçum
 sağol niyazicim
-https://www.uludagsozluk.com/e/42467217/ eywallah kardeş sağolun varolun levent kırca da adam dır
 bkz haluk biliner inciciler 15 temmuz destanı buluşması
 bkz i know what u did last 15 july
 bkz 15 temmuz da kamalcılar nabıyodu
