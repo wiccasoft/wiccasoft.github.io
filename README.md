@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz selin ciğercinin kocasına ciğer yedirmesi
 bkz aleyna tilkinin şeyma subaşıya tablo gibisin demesi
 bkz merve taşkının merve boğulura tablo gibisin demesi
 bkz merve boğulurun resmi instagramından tablo gibiyim paylaşımı
