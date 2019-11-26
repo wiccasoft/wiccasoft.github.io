@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz şeriatçı türbancı kızlar şeriatçı türbansız kızları kıskanması
 bkz haluk bilginer ulusözlük buluşması
 -tebrikler halukçum
 sağol niyazicim
