@@ -1,5 +1,6 @@
 
 <!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
+<!-- bkz can yumoşun yaman delikanlı çıkması -->
 
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
 <!-- 
