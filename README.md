@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz şak makak kakamın gelmesi
 bkz koskoca koskocanın allah yoksa niye inkar ediyosun demesi
 bkz koskoca allahın koskoca elma ya apple demesi
 bkz te set tür lü kızın tür ban la ması
