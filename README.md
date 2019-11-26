@@ -3,7 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz madem allah koskoca niye kocam ddeğil diyen ak nonoş
+bkz madem allah koskoca niye kocam değil diyen ak nonoşa bi sus amk demek
 bkz sürekli kafa siken ak nonoşa  terendyolda dildo hediye puanı göndermek
 bkz sürekli diye erkekli başlık açan totoş un hayattaki amacı
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
