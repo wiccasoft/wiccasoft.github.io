@@ -14,6 +14,7 @@ bkz haluk bilginerin kavuğu halo dayıya bırakması
 bkz ezeldeki dayı vs ahlat ağacındaki seyfi dayı
 bkz haluk bilginer töreni piç etmesi
 bkz 25 kasım 2019 neler dönmüş yahu emmeli gömmeli sanat camiası
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-ayet-say%C4%B1s%C4%B1n%C4%B1-yanl%C4%B1%C5%9F-bilmesi/
 https://eksisozluk.com/25-kasim-2019-haluk-bilginerin-emmy-odulu-almasi--6260181?a=popular
 https://eksisozluk.com/haluk-bilginerin-torende-turkce-konusmamasi--6260342?a=popular
 https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
