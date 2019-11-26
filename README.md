@@ -13,6 +13,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://www.youtube.com/watch?v=C9pzkemBmMM bkz ak müminlere günah yazmamak 
 https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve seytan
 https://www.youtube.com/watch?v=7P8UwHEnKas bkz i know what you did last 15 july 
 https://www.facebook.com/gencosmantv/videos/amerikan-osuru%C4%9Fu/1078061402233165/
