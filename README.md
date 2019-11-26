@@ -6,21 +6,22 @@
 
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
-<!-- https://www.youtube.com/watch?v=jVEKDcDEN1w bkz akkoyunlara günah yazmamak -->
-<!-- https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek -->
-<!-- https://www.youtube.com/watch?v=ktmzyChfPmk bkz osmanlı torunu olmadığını anlayan çomar -->
-
- [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
- 
 <!-- 
+https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.youtube.com/watch?v=C9pzkemBmMM bkz ak müminlere günah yazmamak 
 https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve seytan
 https://www.youtube.com/watch?v=7P8UwHEnKas bkz i know what you did last 15 july 
 https://www.facebook.com/gencosmantv/videos/amerikan-osuru%C4%9Fu/1078061402233165/
 https://www.facebook.com/gencosmantv/videos/fet%C3%B6-tatbikatta-2-b%C3%B6l%C3%BCm/1164891110216860/
-bkz i know what you did last 15 july https://www.youtube.com/watch?v=dR3ccmWmLhk
+https://www.youtube.com/watch?v=jVEKDcDEN1w bkz akkoyunlara günah yazmamak 
+https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek 
+https://www.youtube.com/watch?v=ktmzyChfPmk bkz osmanlı torunu olmadığını anlayan çomar 
+-->
+
+ [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
+ 
+<!-- 
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.facebook.com/horrorhdmovie/videos/the-best-scene-of-crank-high-voltage/418688188881779/
 https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 99% turk
 https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb
