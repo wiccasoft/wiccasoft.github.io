@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+https://www.youtube.com/watch?v=JdhJq-53J-w bkz çomarlar üzerinde oynanan büyük oyun
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.youtube.com/watch?v=C9pzkemBmMM bkz ak müminlere günah yazmamak 
 https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve seytan
