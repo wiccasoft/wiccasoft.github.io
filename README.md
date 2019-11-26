@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz saray üstüme zimmetli ha dokunmyaın sikerun
 bkz nuri bilge ceylanın haluk bilginere ustam demesi
 bkz cerrahpaşalıların halo dayıyı tebrik etmemesi
 bkz ezeldeki ramiz dayının haluk dayıya usta demesi
