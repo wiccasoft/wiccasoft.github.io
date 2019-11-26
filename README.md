@@ -7,8 +7,8 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz kılıcdaroglu erdogan
-https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamaoglu vs erdogan
+https://www.youtube.com/watch?v=h6Q9id4Q_js bkz kılıcdaroglu vs erdogan
+https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu vs erdogan
 https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomar belgeseli
 https://www.youtube.com/watch?v=JdhJq-53J-w bkz çomarlar üzerinde oynanan büyük oyun
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz çomarların sabah akşam güldürmesi evet
