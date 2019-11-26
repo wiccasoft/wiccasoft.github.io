@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz cerrrahpaşa tıp bitirip lise mezunu tiplerle muhatap olmak
 bkz madem allah koskoca niye kocam değil diyen ak nonoşa bi sus amk demek
 bkz sürekli kafa siken ak nonoşa  terendyolda dildo hediye puanı göndermek
 bkz sürekli diye erkekli başlık açan totoş un hayattaki amacı
