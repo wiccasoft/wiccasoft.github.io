@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz ak nonoşların 2023 de açacakları başlıklar
 bkz aykut kocamının koskoca apple ın lafını yapmaması
 bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
 bkz ağlaycaksanız oynamayalım ak nonoşlar diyen erkek
