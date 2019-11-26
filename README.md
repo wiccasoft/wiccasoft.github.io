@@ -3,7 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların güldürmesi
+https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların güldürmesi evet
 https://www.youtube.com/watch?v=qo5jnBJvGUs bkz ak nonoşlarla muhattap olmamak
 https://www.youtube.com/watch?v=9_-wndK57Ls bkz akkoyunların sürekli anlamaması sorunsalı
 https://www.youtube.com/watch?v=nVp0Dvh1XQM ak koyunların geleceği n'olacak sorunsalı
