@@ -19,29 +19,7 @@ bkz üç isimli erkek karizması vs iki isimli erkek ezikliği
 bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım swh
 bkz ismimi sol frame e altın harflerle yazdıracam diyen adam
 bkz marrem em ce kare nasıl espri
-bkz zdp lilerin marrem emckareyi destekleme sebebi
-bkz 41 yaşından seksten vageçen adamı hayata döndüren kız
-bkz diyojen erkek vs homojen erkek
-bkz ... .diyen erkek vs ... demeyen erkek
-bkz muharrem incenin annesi vs imamaoğlunun annesi
-bkz 35+6 yaşında hiç aşkım dememiş erkek
-bkz 35+6 yaşında seksten vazgeçen adam
-bkz selin ciğercinin aşkitosuna eliyle yedirdiği börek
-bkz selin ciğercinin kaınalr matinesinde yaptığı börek
-bkz aşkitosuna aşkım diyen erkek
-bkz aşkım diyen erkeğe uçan tekme atarım diyen kız
-bkz selin ciğercinin kocasına ciğer yedirmesi
-bkz aleyna tilkinin şeyma subaşıya tablo gibisin demesi
-bkz merve taşkının merve boğulura tablo gibisin demesi
-bkz merve boğulurun resmi instagramından tablo gibiyim paylaşımı
-bkz aleyna tilkinin merve boğulur  ablaya tablo gibisin demesi
-bkz 41 yaşında aşk istemeyen erkekğin yüreğine aşk sokmaya çalışan ergenler
-bkz 41 yaşında ve yalnız kalmak istiyor olmam
-bkz 41 yaşında aşkım demeyen erkek
-bkz merve boğulurun şaka maka kızım yaşımda olması
-bkz selin ciğercinin erkek halinin görüp kusmak
-bkz selin ciğercinin erkek halinin uludaki tipsiz ergenlere benziyor olması
-bkz tipsiz siyasetçiler bile karı sikiyorken kraliçe elizabeth
+bkz tipsiz siyasetçiler bile karı sikiyorken kraliçe elizabeth diyen adam
 bkz kaka marremin karı sikebildiği ülke
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
