@@ -4,7 +4,7 @@
  
 <!-- 
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
-bkz koskoca koskocanın allah yoksa niye inkar ediyosun demesi
+bkz koskoca kakanın allah yoksa niye kakan geliyo demesi
 bkz koskoca allahın koskoca elma ya apple demesi
 bkz te set tür lü kızın tür ban la ması
 bkz teset tür lü şeri atçı kıza topkek yen mi demek
