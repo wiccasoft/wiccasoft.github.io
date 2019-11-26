@@ -6,7 +6,7 @@
 
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
-<!-- https://www.youtube.com/watch?v=e9drKXN5qsE bkz akboyları gaza getirmek -->
+<!-- https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek -->
  
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
