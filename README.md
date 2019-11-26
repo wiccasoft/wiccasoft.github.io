@@ -7,13 +7,14 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz muharrem incenin ibrahim kalın a yaptığı terbiyesizlik
+
 bkz nuri bilge ceylanın haluk bilginere ustam demesi
 bkz cerrahpaşalıların halo dayıyı tebrik etmemesi
 bkz ezeldeki ramiz dayının haluk dayıya usta demesi
 bkz haluk bilginerin kavuğu halo dayıya bırakması
 bkz ezeldeki dayı vs ahlat ağacındaki seyfi dayı
-bkz haluk bilginer töreni piç etmesi
+bkz 25 kasım 2019 halukun töreni piç etmesi
+bkz muharrem incenin ibrahim kalın a yaptığı terbiyesizlik
 bkz 25 kasım 2019 neler dönmüş yahu emmeli gömmeli sanat camiası
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-ayet-say%C4%B1s%C4%B1n%C4%B1-yanl%C4%B1%C5%9F-bilmesi/
 https://eksisozluk.com/25-kasim-2019-haluk-bilginerin-emmy-odulu-almasi--6260181?a=popular
