@@ -7,7 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz 26 kasım 2019 incenin kk nın koltuğuna talibim açıklması
+bkz 26 kasım 2019 incenin kaka nın koltuğuna talibim açıklması
 bkz haluk un iki emmy aldı diye götünün kalkması
 bkz incenin kürtlerin oyunu almak için sahnelere oynaması
 bkz ince nin tören öncesi ince gör haluk demesi https://www.youtube.com/watch?v=kR8uLbrbsQ8
