@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz incide 17 yaşındaki kızlara nasihat veren ağır abiler
 bkz 33 yaşındaki ergen kızlara nasihat ver
 bkz selin ciğercinin erkek halini alıp yetiştirmek
 bkz nerde o eski taş fırın erkekleri diyen kızı tekme tokat dövmek
