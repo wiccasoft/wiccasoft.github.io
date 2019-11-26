@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aykut kocamının koskoca apple ı kullanmaması
 bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
 bkz ağlaycaksanız oynamayalım ak nonoşlar diyen erkek
 bkz aşkım efsane indirim günleri flo aykkab alsana bana diyen ak totoş
