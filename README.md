@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://www.youtube.com/watch?v=dSy2DcATYUo
 bkz cerrrahpaşa tıp bitirip işletme mezunu tiplerle muhatap olmak https://www.youtube.com/watch?v=2q05iJ6jHu8
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 -->
