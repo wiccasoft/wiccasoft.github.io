@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz 41 yaşından sonra kızların peşinden koşmayan adam
 bkz selin ciğerci kocasının babasına ne diyor sorunsalı
 bkz selin ciğercinini erkek halinin sanki uluculara benzemesi 
 bkz reisin türkçe olimpiyatlarında yaptığı konuşma vs haluk un emmy de yaptığı konuşma
