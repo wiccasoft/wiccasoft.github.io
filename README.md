@@ -7,9 +7,10 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz 26 kasım 2019 incenin kaka nın koltuğuna talibim açıklması
+
 bkz haluk un iki emmy aldı diye götünün kalkması
 bkz incenin kürtlerin oyunu almak için sahnelere oynaması
+bkz 26 kasım 2019 incenin kaka nın koltuğuna talibim açıklması
 bkz ince nin tören öncesi ince gör haluk demesi https://www.youtube.com/watch?v=kR8uLbrbsQ8
 bkz ayşegül aldinçin törende haluka halukçum demesi
 bkz muharrem incenin akrep burcu erkeği olduğu gerçeği
