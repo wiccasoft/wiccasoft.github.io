@@ -9,75 +9,15 @@
 
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
-<!-- 
-bkz daha mala vuramamış ergenin 41 yaşında am üstünde ceviz kırmış adamı kıskanması
-bkz selin ciğercinin erkek halini alıp yetiştirmek
-bkz nerde o eski taş fırın erkekleri diyen kızı tekme tokat dövmek
-https://www.youtube.com/watch?v=VtyTLni5gu0
-bkz şaka maka 26 kasım 2019 rte nin erken batması
-bkz layt erkek selami vs taş fırın erkeği haluk
-bkz haluk un götünün kalkmasına ses etmeyen kamalcılar
-bkz selin ciğercinin merve boğulurlara ders çalışmaya gitmesi
-bkz sevdiceğine kuzum diyen erkek https://www.youtube.com/watch?v=GtyqAw2DOEk
-https://www.uludagsozluk.com/e/42469303/ bkz 26 kasım 2019 tayybin erken batması
-https://www.uludagsozluk.com/k/26-kas%C4%B1m-2019-istanbul-karanl%C4%B1%C4%9F%C4%B1/ bkz tayybin çökmesi
-bkz tayybin zamanı bile durdurması  https://www.uludagsozluk.com/e/29973320/
-https://www.uludagsozluk.com/k/saatlerin-geri-al%C4%B1nmamas%C4%B1/
-https://www.uludagsozluk.com/e/42467302/ bkz tayyibin kuran kursları için yaptığı jest
-bkz üç isimli erkek karizması vs iki isimli erkek ezikliği
-bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım swh
-bkz ismimi sol frame e altın harflerle yazdıracam diyen adam
-bkz marrem em ce kare nasıl espri
-bkz tipsiz siyasetçiler bile karı sikiyorken kraliçe elizabeth diyen adam
-bkz kaka marremin karı sikebildiği ülke
-bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
-bkz dişi sineklerin uçmasının asıl amacı
-bkz dişisini uçuran erkeğin asıl amacı
-bkz cerrrahpaşa tıp bitirip liseli totoşlarla muhattap olmak
-bkz haluk un iki emmy aldı diye götünün kalkması
-bkz incenin kürtlerin oyunu almak için sahnelere oynaması
-bkz 26 kasım 2019 incenin kaka nın koltuğuna talibim açıklması
-bkz ince nin tören öncesi ince gör haluk demesi https://www.youtube.com/watch?v=kR8uLbrbsQ8
-bkz ayşegül aldinçin törende haluka halukçum demesi
-bkz muharrem incenin akrep burcu erkeği olduğu gerçeği
-bkz muharrem ince nin muharrem bir ayda doğma ihtimali
-bkz siyasi partilere siyasi liderlerin oğulları geçsin kampanyası https://www.youtube.com/watch?v=dZxZjk6QOG8
-bkz halukçum tebrik ederim https://www.youtube.com/watch?v=7n6llWsjFwc
-https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
-bkz mekan üstüme zimmetli değil rahat takılın
-bkz nuri bilge ceylanın haluk bilginere ustam demesi
-bkz cerrahpaşalıların halo dayıyı tebrik etmemesi
-bkz ezeldeki ramiz dayının haluk dayıya usta demesi
-bkz haluk bilginerin kavuğu halo dayıya bırakması
-bkz ezeldeki dayı vs ahlat ağacındaki dayı
-bkz 25 kasım 2019 halukun töreni piç etmesi
-bkz muharrem incenin ibrahim kalın a yaptığı terbiyesizlik
-bkz 25 kasım 2019 neler dönmüş yahu emmeli gömmeli sanat camiası
-https://eksisozluk.com/haluk-bilginerin-torende-turkce-konusmamasi--6260342?a=popular
-https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
-https://www.youtube.com/watch?v=bcFuhAq1sJs bkz ahlat ağacı
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz kılıcdaroglu vs erdogan
-https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu vs erdogan
-https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomar belgeseli
-https://www.youtube.com/watch?v=JdhJq-53J-w bkz çomarlar üzerinde oynanan büyük oyun
-https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz çomarların sabah akşam güldürmesi evet
-https://www.youtube.com/watch?v=C9pzkemBmMM bkz ak müminlere günah yazmamak 
-https://www.youtube.com/watch?v=H0760kGB-vw bkz merve ve seytan
-https://www.youtube.com/watch?v=7P8UwHEnKas bkz i know what you did last 15 july 
-https://www.facebook.com/gencosmantv/videos/amerikan-osuru%C4%9Fu/1078061402233165/
-https://www.facebook.com/gencosmantv/videos/fet%C3%B6-tatbikatta-2-b%C3%B6l%C3%BCm/1164891110216860/
-https://www.youtube.com/watch?v=jVEKDcDEN1w bkz akkoyunlara günah yazmamak 
-https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek 
-https://www.youtube.com/watch?v=ktmzyChfPmk bkz osmanlı torunu olmadığını anlayan çomar 
-https://www.youtube.com/watch?v=EfAsNffCjsM bkz allah ne kadar super lan
-https://www.youtube.com/watch?v=6g6g2mvItp4 bkz isis ne kadar süper lan
--->
-
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-https://www.facebook.com/horrorhdmovie/videos/the-best-scene-of-crank-high-voltage/418688188881779/
+https://www.uludagsozluk.com/e/42469303/ bkz 26 kasım 2019 tayybin erken batması
+https://www.uludagsozluk.com/k/26-kas%C4%B1m-2019-istanbul-karanl%C4%B1%C4%9F%C4%B1/ bkz tayybin çökmesi
+bkz şaka maka 26 kasım 2019 rte nin erken batması
+bkz layt erkek selami vs taş fırın erkeği haluk
+bkz haluk un götünün kalkmasına ses etmeyen kamalcılar
+https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
 https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 99% turk
 https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb
 https://www.youtube.com/watch?v=dSy2DcATYUo when the DNA test reveals that you're 1% german
