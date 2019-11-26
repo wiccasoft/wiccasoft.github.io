@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz marrem em ce kare nasıl espri
 bkz zdp lilerin marrem emckareyi destekleme sebebi
 bkz 41 yaşından seksten vageçen adamı hayata döndüren kız
 bkz diyojen erkek vs homojen erkek
