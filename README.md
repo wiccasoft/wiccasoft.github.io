@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz sürekli diye erkekli başlık açan totoş un hayattaki amacı
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz koskoca kakanın allah yoksa niye kakan geliyo demesi
 bkz sürekli kaka maka yani kaka hani yani bildiğin kaka yani diyen tip
