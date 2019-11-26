@@ -5,7 +5,10 @@
      bkz layt erkeği selami vs taş fırın erkeği haluk
      bkz selin ciğerci nin merve boğulura orospu demesi
      bkz e eşitter em ce kare marrem emice
+     bkz sevdiceğine kuzum diyen erkek vs bebişkom diyen erkek
      bkz ali babaoşcanın davutoğluna ne oldi saha böyle bi anda oldun layt erkeği demesi
+     bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
+     bkz dişisini uçuran erkeğin asıl amacı
      bkz cerrahpaşa tıp bitirip nelerle uğraşmak
 -->
 
