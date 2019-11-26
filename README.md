@@ -7,6 +7,10 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
+bkz dişi sineklerin uçmasının asıl amacı
+bkz dişisini uçuran erkeğin asıl amacı
+bkz cerrrahpaşa tıp bitirip liseli totoşlarla muhattap olmak
 bkz selin ciğercinin kocasının aykalarını yıkamasına sese etmeyen 41 lik adam
 bkz selin ciğercinin erkek hali vs burcu ersoyun erkek hali
 bkz 41 yaşında karı kız derdi çekemem diyen adam
