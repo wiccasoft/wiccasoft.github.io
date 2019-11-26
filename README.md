@@ -7,7 +7,6 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-
 bkz haluk un iki emmy aldı diye götünün kalkması
 bkz incenin kürtlerin oyunu almak için sahnelere oynaması
 bkz 26 kasım 2019 incenin kaka nın koltuğuna talibim açıklması
