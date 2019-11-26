@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz koskoca allahın koskoca elma ya apple demesi
 bkz te set tür lü kızın tür ban la ması
 bkz teset tür lü şeri atçı kıza topkek yen mi demek
 bkz sürekli diyen erkekli başlık açan ak nonoşa topkeke ısmarlamak
