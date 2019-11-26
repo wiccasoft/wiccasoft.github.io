@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz haluk bilginerin bilgin bi er olması
 bkz türk de olsa insan yazık lan
 bkz zall ona hep oç derin 30 dk dır entry girmemesi sorunsalı
 bkz akboylarla muhattap olmadıkça coşmaları :))))))))))))
