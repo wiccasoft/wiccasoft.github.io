@@ -13,6 +13,8 @@ bkz ezeldeki ramiz dayının haluk dayıya usta demesi
 bkz haluk bilginerin kavuğu halo dayıya bırakması
 bkz ezeldeki dayı vs ahlat ağacındaki seyfi dayı
 bkz haluk bilginer töreni piç etmesi
+bkz 25 kasım 2019 neler dönmüş yahu
+https://eksisozluk.com/25-kasim-2019-haluk-bilginerin-emmy-odulu-almasi--6260181?a=popular
 https://eksisozluk.com/haluk-bilginerin-torende-turkce-konusmamasi--6260342?a=popular
 https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
 https://www.youtube.com/watch?v=bcFuhAq1sJs bkz ahlat ağacı
