@@ -5,6 +5,7 @@
 <!-- 
 bkz okuyomuşum gibi yaz pampa evet 
 bkz i know what you did last 15 july
+https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 bkz beni siktir edin kamalcılar okuyomuş gibi yazarsanız çok hit alırsınız
 bkz daha gerçeğe yakın diyaloglu başlıklar açarsanız olur olacak çalışın
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
