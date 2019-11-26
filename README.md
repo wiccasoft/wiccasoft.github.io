@@ -3,6 +3,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz türk de olsa insan yazık lan
+bkz zall ona hep oç derin 30 dk dır entry girmemesi sorunsalı
 bkz akboylarla muhattap olmadıkça coşmaları :))))))))))))
 bkz sürekli .. diyen erkek tipli monolog açan akboyların ne kafası yaşaması sorunsalı
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
