@@ -7,7 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz halukçum tebrik ederim
+bkz halukçum tebrik ederim 
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 bkz mekan üstüme zimmetli ha dokunmyaın sikerun 
 bkz nuri bilge ceylanın haluk bilginere ustam demesi
