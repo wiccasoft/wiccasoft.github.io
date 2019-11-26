@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz ali poyrazoğlunu törende haluk un popusunu sıkması
 bkz ayşegül aldinçin törende haluka halukçum demesi
 bkz muharrem incenin akrep burcu erkeği olduğu gerçeği
 bkz muharrem ince nin muharrem bir ayda doğma ihtimali
