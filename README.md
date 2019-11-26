@@ -7,7 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz muharrem ince nin ince gör haluk demesi https://www.youtube.com/watch?v=kR8uLbrbsQ8
+bkz ince nin tören öncesi ince gör haluk demesi https://www.youtube.com/watch?v=kR8uLbrbsQ8
 bkz muharrem incenin haluk a törende attığı bakış
 bkz ali poyrazoğlunu törende haluk un popusunu sıkması
 bkz ayşegül aldinçin törende haluka halukçum demesi
