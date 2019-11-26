@@ -1,6 +1,7 @@
 
 <!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
 <!-- 
+     bkz emre morun yine yürümesi
      bkz can yumoşun yaman delikanlı çıkması 
      bkz layt erkeği selami vs taş fırın erkeği haluk
      bkz selin ciğerci nin merve boğulura orospu demesi
