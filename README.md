@@ -11,20 +11,6 @@
 
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
-<!-- 
-https://www.uludagsozluk.com/e/42469303/ bkz 26 kasım 2019 tayybin erken batması
-https://www.uludagsozluk.com/k/26-kas%C4%B1m-2019-istanbul-karanl%C4%B1%C4%9F%C4%B1/ bkz tayybin çökmesi
-bkz şaka maka 26 kasım 2019 rte nin erken batması
-bkz layt erkek selami vs taş fırın erkeği haluk
-bkz haluk un götünün kalkmasına ses etmeyen kamalcılar
-https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
-https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 99% turk
-https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb
-https://www.youtube.com/watch?v=dSy2DcATYUo when the DNA test reveals that you're 1% german
-bkz cerrrahpaşa tıp bitirip işletme mezunu tiplerle muhatap olmak https://www.youtube.com/watch?v=2q05iJ6jHu8
-bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
--->
-
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
 
