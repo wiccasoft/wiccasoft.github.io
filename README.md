@@ -8,7 +8,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
-https://www.youtube.com/watch?v=bcFuhAq1sJs bkz haluk bilginer
+https://www.youtube.com/watch?v=bcFuhAq1sJs bkz ahlat ağacı
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz kılıcdaroglu vs erdogan
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu vs erdogan
 https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomar belgeseli
