@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz merve taşkının merve boğulura tablo gibisin demesi
 bkz merve boğulurun resmi instagramından tablo gibiyim paylaşımı
 bkz aleyna tilkinin merve boğulur  ablaya tablo gibisin demesi
 bkz 41 yaşında aşk istemeyen erkekğin yüreğine aşk sokmaya çalışan ergenler
