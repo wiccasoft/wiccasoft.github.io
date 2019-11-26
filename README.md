@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz haluk un götünün kalkmasına ses etmeyen kamalcılar
 bkz selin ciğercinin merve boğulurlara ders çalışmaya gitmesi
 bkz sevdiceğine kuzum diyen erkek https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/e/42469303/ bkz 26 kasım 2019 tayybin erken batması
