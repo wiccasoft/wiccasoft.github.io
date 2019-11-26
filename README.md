@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 bkz ismimi sol frame e altın harflerle yazdıracam diyen adam
 bkz marrem em ce kare nasıl espri
 bkz zdp lilerin marrem emckareyi destekleme sebebi
