@@ -7,7 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz tipsiz siyasetçiler bile karı sikiyorken elizabeth
+bkz tipsiz siyasetçiler bile karı sikiyorken kraliçe  elizabeth
 bkz kaka oğlan tayyip oğlan muharrem incenin karı sikebildiği ülke
 bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
