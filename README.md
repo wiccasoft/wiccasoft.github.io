@@ -1,17 +1,5 @@
 
 <!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
-<!-- 
-     bkz emre morun yine yürümesi
-     bkz can yumoşun yaman delikanlı çıkması 
-     bkz layt erkeği selami vs taş fırın erkeği haluk
-     bkz selin ciğerci nin merve boğulura orospu demesi
-     bkz e eşitter em ce kare marrem emice
-     bkz sevdiceğine kuzum diyen erkek vs bebişkom diyen erkek
-     bkz ali babaoşcanın davutoğluna ne oldi saha böyle bi anda oldun layt erkeği demesi
-     bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
-     bkz dişisini uçuran sineğin asıl amacı
-     bkz cerrahpaşa tıp bitirip nelerle uğraşmak
--->
 
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
 <!-- 
