@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz selin ciğerci kocasının babasına ne diyor sorunsalı
 bkz selin ciğercinini erkek halinin sanki uluculara benzemesi 
 bkz reisin türkçe olimpiyatlarında yaptığı konuşma vs haluk un emmy de yaptığı konuşma
 bkz haluk un iki emmy aldı diye götünün kalkması
