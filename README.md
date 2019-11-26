@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz ayşegül aldinçin törende halukçum demesi
 bkz muharrem incenin akrep burcu erkeği olduğu gerçeği
 bkz muharrem ince nin muharrem bir ayda doğma ihtimali
 bkz siyasi partilere siyasi liderlerin oğulları geçsin kampanyası https://www.youtube.com/watch?v=dZxZjk6QOG8
