@@ -7,7 +7,8 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz ... .dyien erkek vs ... demeyen erkek
+bkz diyojen erkek vs homojen erkek
+bkz ... .diyen erkek vs ... demeyen erkek
 bkz muharrem incenin annesi vs imamaoğlunun annesi
 bkz 35+6 yaşında hiç aşkım dememiş erkek
 bkz 35+6 yaşında seksten vazgeçen adam
