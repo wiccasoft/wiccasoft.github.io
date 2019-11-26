@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz 15 temmuz da kamalcılar nabıyodu
 bkz haluk levent ekşide entryleriniz okuyor
 bkz haluk bilginerin bilgin bi er olması
 bkz türk de olsa insan yazık lan
