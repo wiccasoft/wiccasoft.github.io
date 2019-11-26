@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz ezeldeki ramiz dayının haluk dayıya usta demesi
 bkz haluk bilginerin kavuğu halo dayıya bırakması
 bkz ezeldeki dayı vs ahlat ağacındaki seyfi dayı
 bkz haluk bilginer töreni piç etmesi
