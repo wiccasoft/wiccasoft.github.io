@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz şaka maka ak nonoşlara su veren itfaiyyenin hortumunu sikeyim
 bkz şaka maka aknonoşların aç kalacakları günlerin yaklaşıyor olması
 bkz aknonoşları gelecekte aç bırakarak nüfusu dengelemek sorunsalları çözmek
 bkz nonoşların kürtleri sorun olarak görmesi sorunsalı
