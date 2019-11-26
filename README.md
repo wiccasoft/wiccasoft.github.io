@@ -7,7 +7,8 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz tayybin zamanı bile durdurması 
+bkz tayybin zamanı bile durdurması  https://www.uludagsozluk.com/e/29973320/
+https://www.uludagsozluk.com/k/saatlerin-geri-al%C4%B1nmamas%C4%B1/
 https://www.uludagsozluk.com/e/42467302/ bkz tayyibin kuran kursları için yaptığı jest
 bkz üç isimli erkek karizması vs iki isimli erkek ezikliği
 bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım swh
