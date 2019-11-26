@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+https://www.uludagsozluk.com/k/26-kas%C4%B1m-2019-istanbul-karanl%C4%B1%C4%9F%C4%B1/ bkz tayybin çökmesi
 bkz tayybin zamanı bile durdurması  https://www.uludagsozluk.com/e/29973320/
 https://www.uludagsozluk.com/k/saatlerin-geri-al%C4%B1nmamas%C4%B1/
 https://www.uludagsozluk.com/e/42467302/ bkz tayyibin kuran kursları için yaptığı jest
