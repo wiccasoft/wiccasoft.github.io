@@ -4,6 +4,7 @@
      bkz can yumoşun yaman delikanlı çıkması 
      bkz layt erkeği selami vs taş fırın erkeği haluk
      bkz selin ciğerci nin merve boğulura orospu demesi
+     bkz ali babaoşcanın davutoğluna ne oldi daha böyle bi anda oldun layt erkeği demesi
 -->
 
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
