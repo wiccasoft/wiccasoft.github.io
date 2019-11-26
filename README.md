@@ -4,37 +4,8 @@
  
 <!-- 
 bkz cerrrahpaşa tıp bitirip işletme mezunu tiplerle muhatap olmak
-bkz madem allah koskoca niye kocam değil diyen ak nonoşa bi sus amk demek
-bkz sürekli kafa siken ak nonoşa  terendyolda dildo hediye puanı göndermek
-bkz sürekli diye erkekli başlık açan totoş un hayattaki amacı
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
-bkz koskoca kakanın allah yoksa niye kakan geliyo demesi
-bkz sürekli kaka maka yani kaka hani yani bildiğin kaka yani diyen tip
-bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
-bkz ağlaycaksanız oynamayalım ak nonoşlar diyen erkek
-bkz aşkım efsane indirim günleri flo aykkab alsana bana diyen ak totoş
-bkz aşkım şimdi biz neyiz diyen ak totoş
-bkz aşkım  ... diyen erkek başlığına entry giriyorum diyen ak totoşlu ergen
-bkz aşkım  ... diyen erkek başlığı açacam okurmusun diyen ak totoş
-bkz aşkım ak totoşumla yola çıktım diyen ak totoşlu ergen
-bkz aşkım ak totoşum nasıl diyen ak totoş
-bkz aşkım ak totoş ne diyen ak totoşlu ergen
-bkz ak nonoşların zek zeviyesi
-bkz ak nonoşlara aşkım diyen erkek
-bkz ak nonoş aşkiştom kapışak mı diyen erkek
-bkz aşkım kapışmak diyen erkek
-bkz fondoten kullanan erkek taş gibi olması hadise
-bkz kamer genç 2009 meclis konuşması
-bkz aşkım ak nonoş götünü yerim diyen erkek
-bkz aşkım kapışmak izleyen erkek
-bkz trendyolun sitesinin cpu yu kastırdığı gerçeği
-https://www.uludagsozluk.com/e/42466742/ bkz ak nonoşların yakında aç kalacakları gerçeği
-bkz 15 temmuz da türkiyeyi kim krtardı sorunsalı
-bkz kemalistler sigara ve içki almasa ak totoşların aç kalacağı gerçeği :))))))))))
-https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
-https://www.uludagsozluk.com/k/kemalistler-2-kat-vergi-vermelidirler/&w=bg bkz aktroll maaaşları
-https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-diyen-erkek/&w=bg bka aşkım kaldırdın indir diye erkek
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
+-->
 
  [![Image](smartdata/crash.png)](  https://www.youtube.com/watch?v=xPtJj0EIQdY )
 
