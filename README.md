@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz şaka maka ak nonoşlar için çanların çalması
 bkz ak nonoşlara para gitmesin diye alkol ve sigarayı bırakma kararı almak
 bkz şaka maka ak nonoşlara su veren itfaiyyenin hortumunu sikeyim
 bkz şaka maka aknonoşların aç kalacakları günlerin yaklaşıyor olması
