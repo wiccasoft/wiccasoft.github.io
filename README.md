@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 1% turk
 https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb
 https://www.youtube.com/watch?v=dSy2DcATYUo when the DNA test reveals that you're 1% german
 bkz cerrrahpaşa tıp bitirip işletme mezunu tiplerle muhatap olmak https://www.youtube.com/watch?v=2q05iJ6jHu8
