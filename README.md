@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz beni siktir edin kamalcılar okuyomuş gib yazarsanız çok hit alırsınız
 bkz okuyomuşum gibi yaz pampa evet 
 bkz i know what you did last 15 july
 bkz daha gerçeğe yakın diyaloglu başlıklar açarsanız olur olacak çalışın
