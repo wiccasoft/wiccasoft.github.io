@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz okuyomuşum gibi yaz pampa
 bkz i know what you did last 15 july
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.youtube.com/watch?v=9_-wndK57Ls bkz akkoyunların sürekli anlamaması sorunsalı
