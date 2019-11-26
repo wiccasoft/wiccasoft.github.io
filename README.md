@@ -5,6 +5,7 @@
      bkz layt erkeği selami vs taş fırın erkeği haluk
      bkz selin ciğerci nin merve boğulura orospu demesi
      bkz ali babaoşcanın davutoğluna ne oldi saha böyle bi anda oldun layt erkeği demesi
+     bkz cerrahpaşa tıp bitirip nelerle uğraşmak
 -->
 
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
