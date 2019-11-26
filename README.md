@@ -18,12 +18,12 @@ bkz muharrem ince nin muharrem bir ayda doğma ihtimali
 bkz siyasi partilere siyasi liderlerin oğulları geçsin kampanyası https://www.youtube.com/watch?v=dZxZjk6QOG8
 bkz halukçum tebrik ederim https://www.youtube.com/watch?v=7n6llWsjFwc
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
-bkz mekan üstüme zimmetli ha dokunmyaın sikerun 
+bkz mekan üstüme zimmetli değil rahat takılın
 bkz nuri bilge ceylanın haluk bilginere ustam demesi
 bkz cerrahpaşalıların halo dayıyı tebrik etmemesi
 bkz ezeldeki ramiz dayının haluk dayıya usta demesi
 bkz haluk bilginerin kavuğu halo dayıya bırakması
-bkz ezeldeki dayı vs ahlat ağacındaki seyfi dayı
+bkz ezeldeki dayı vs ahlat ağacındaki dayı
 bkz 25 kasım 2019 halukun töreni piç etmesi
 bkz muharrem incenin ibrahim kalın a yaptığı terbiyesizlik
 bkz 25 kasım 2019 neler dönmüş yahu emmeli gömmeli sanat camiası
