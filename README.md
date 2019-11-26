@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz selin ciğercinin erkek hali vs burcu esmersoyu erkek hali
 bkz 41 yaşında karı kız derdi çekemem diyen adam
 bkz 41 yaşından sonra kızların peşinden koşmayan adam
 bkz selin ciğerci kocasının babasına ne diyor sorunsalı
