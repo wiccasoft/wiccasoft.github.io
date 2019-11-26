@@ -25,13 +25,6 @@ bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
 bkz dişi sineklerin uçmasının asıl amacı
 bkz dişisini uçuran erkeğin asıl amacı
 bkz cerrrahpaşa tıp bitirip liseli totoşlarla muhattap olmak
-bkz selin ciğercinin kocasının aykalarını yıkamasına sese etmeyen 41 lik adam
-bkz selin ciğercinin erkek hali vs burcu ersoyun erkek hali
-bkz 41 yaşında karı kız derdi çekemem diyen adam
-bkz 41 yaşından sonra kızların peşinden koşmayan adam
-bkz selin ciğerci kocasının babasına ne diyor sorunsalı
-bkz selin ciğercinini erkek halinin sanki uluculara benzemesi 
-bkz reisin türkçe olimpiyatlarında yaptığı konuşma vs haluk un emmy de yaptığı konuşma
 bkz haluk un iki emmy aldı diye götünün kalkması
 bkz incenin kürtlerin oyunu almak için sahnelere oynaması
 bkz 26 kasım 2019 incenin kaka nın koltuğuna talibim açıklması
