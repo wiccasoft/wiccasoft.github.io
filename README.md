@@ -3,9 +3,9 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz daha gerçeğe yakın diyaloglu başlıklar açarsanız olur olacak çalışın
-bkz okuyomuşum gibi yaz pampa evet
+bkz okuyomuşum gibi yaz pampa evet 
 bkz i know what you did last 15 july
+bkz daha gerçeğe yakın diyaloglu başlıklar açarsanız olur olacak çalışın
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.facebook.com/horrorhdmovie/videos/the-best-scene-of-crank-high-voltage/418688188881779/
 https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 99% turk
