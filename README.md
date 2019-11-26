@@ -4,7 +4,7 @@
  
 <!-- 
 bkz şaka maka ak nonoşlar için çanların çalması
-bkz ak nonoşlara para gitmesin diye alkol ve sigarayı bırakma kararı almak
+bkz şaka maka ak nonoşlara aktrollük maaaşları ödenmesin diye alkol ve sigarayı bırakma kararı almak
 bkz şaka maka ak nonoşlara su veren itfaiyyenin hortumunu sikeyim
 bkz şaka maka aknonoşların aç kalacakları günlerin yaklaşıyor olması
 bkz aknonoşları gelecekte aç bırakarak nüfusu dengelemek sorunsalları çözmek
