@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://www.youtube.com/watch?v=9_-wndK57Ls bkz akkoyunların ne dediğini duyamamak
 https://www.youtube.com/watch?v=nVp0Dvh1XQM ak koyunların geleceği n'olacak sorunsalı
 https://www.facebook.com/horrorhdmovie/videos/the-best-scene-of-crank-high-voltage/418688188881779/
 https://www.youtube.com/watch?v=QIAVaw_Qpkc when the DNA test reveals that you're 99% turk
