@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=jVEKDcDEN1w bkz akkoyunlara günah yazmamak
 https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek 
 https://www.youtube.com/watch?v=ktmzyChfPmk bkz osmanlı torunu olmadığını anlayan çomar 
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz allah ne kadar super lan
+https://www.youtube.com/watch?v=6g6g2mvItp4 bkz isis ne kadar süper lan
 -->
 
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
