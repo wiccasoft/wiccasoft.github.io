@@ -3,7 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz okuyomuşum gibi yaz pampa evet 
+bkz sikliyomuşum gibi yaz pampa evet 
 bkz i know what you did last 15 july
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 bkz beni siktir edin kamalcılar okuyomuş gibi yazarsanız çok hit alırsınız
