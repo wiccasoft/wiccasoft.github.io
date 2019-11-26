@@ -8,7 +8,8 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz i know what you did last 15 july
+
+bkz i know what you did last 15 july https://www.youtube.com/watch?v=dR3ccmWmLhk
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.facebook.com/horrorhdmovie/videos/the-best-scene-of-crank-high-voltage/418688188881779/
