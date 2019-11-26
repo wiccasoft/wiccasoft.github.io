@@ -12,6 +12,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://www.youtube.com/watch?v=7P8UwHEnKas bkz i know what you did last 15 july 
 https://www.facebook.com/gencosmantv/videos/amerikan-osuru%C4%9Fu/1078061402233165/
 https://www.facebook.com/gencosmantv/videos/fet%C3%B6-tatbikatta-2-b%C3%B6l%C3%BCm/1164891110216860/
 bkz i know what you did last 15 july https://www.youtube.com/watch?v=dR3ccmWmLhk
