@@ -7,7 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
-bkz nerde o eski taş fırın erkkeleri diyen kızı tekme tokat dövmek
+bkz nerde o eski taş fırın erkekleri diyen kızı tekme tokat dövmek
 https://www.youtube.com/watch?v=VtyTLni5gu0
 bkz şaka maka 26 kasım 2019 rte nin erken batması
 bkz layt erkek selami vs taş fırın erkeği haluk
