@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb
 https://www.youtube.com/watch?v=dSy2DcATYUo when the DNA test reveals that you're 1% german
 bkz cerrrahpaşa tıp bitirip işletme mezunu tiplerle muhatap olmak https://www.youtube.com/watch?v=2q05iJ6jHu8
 bkz şaka maka mada faka kakamın gelmesi https://www.youtube.com/watch?v=r-Qp9CWaba4
