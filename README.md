@@ -3,19 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz şeriatçı türbancı kızlar şeriatçı türbansız kızları kıskanması
-bkz haluk bilginer ulusözlük buluşması
--tebrikler halukçum
-sağol niyazicim
-bkz haluk biliner inciciler 15 temmuz destanı buluşması
-bkz i know what u did last 15 july
-bkz 15 temmuz da kamalcılar nabıyodu
-bkz haluk levent ekşide entryleriniz okuyor
-bkz haluk bilginerin bilgin bi er olması
-bkz türk de olsa insan yazık lan
-bkz zall ona hep oç derin 30 dk dır entry girmemesi sorunsalı
-bkz akboylarla muhattap olmadıkça coşmaları :))))))))))))
-bkz sürekli .. diyen erkek tipli monolog açan akboyların ne kafası yaşaması sorunsalı
+bkz i know what you did last 15 july
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.youtube.com/watch?v=9_-wndK57Ls bkz akkoyunların sürekli anlamaması sorunsalı
 https://www.youtube.com/watch?v=nVp0Dvh1XQM ak koyunların geleceği n'olacak sorunsalı
