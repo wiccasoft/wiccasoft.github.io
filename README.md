@@ -6,6 +6,7 @@
 
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
+<!-- https://www.youtube.com/watch?v=jVEKDcDEN1w bkz akkoyunlara günah yazmamak -->
 <!-- https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek -->
 <!-- https://www.youtube.com/watch?v=ktmzyChfPmk bkz osmanlı torunu olmadığını anlayan çomar -->
 
