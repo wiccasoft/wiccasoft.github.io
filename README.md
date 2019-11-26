@@ -9,9 +9,8 @@
 
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 <!-- https://www.youtube.com/watch?v=vrDtuMR2xuw
-http://www.kanalv.com.tr/haber/Didem-Soydan-Cem-Adrianin-Tasiyici-Anne-Ariyorum-Paylasimina-Yazdigi-Yorum-Dikkat-cekti-66053  
-
--->
+https://www.youtube.com/watch?v=DdIdZwDqkmg the grid
+http://www.kanalv.com.tr/haber/Didem-Soydan-Cem-Adrianin-Tasiyici-Anne-Ariyorum-Paylasimina-Yazdigi-Yorum-Dikkat-cekti-66053  -->
 
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
