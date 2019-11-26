@@ -3,7 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
-bkz akboylarla muhattap olmadıkça coşmaları
+bkz akboylarla muhattap olmadıkça coşmaları :))))))))))))
 bkz sürekli .. diyen erkek tipli monolog açan akboyların ne kafası yaşaması sorunsalı
 https://www.youtube.com/watch?v=Mnb_3ibUp38 bkz akboyların sabah akşam güldürmesi evet
 https://www.youtube.com/watch?v=9_-wndK57Ls bkz akkoyunların sürekli anlamaması sorunsalı
