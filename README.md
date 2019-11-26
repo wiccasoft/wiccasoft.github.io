@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz aşkitosuna aşkım diyen erkek
 bkz aşkım diyen erkeğe uçan tekme atarım diyen kız
 bkz selin ciğercinin kocasına ciğer yedirmesi
 bkz aleyna tilkinin şeyma subaşıya tablo gibisin demesi
