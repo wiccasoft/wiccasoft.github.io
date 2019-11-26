@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz ezeldeki dayı vs ahlat ağacındaki seyfi dayı
 bkz haluk bilginer töreni piç etmesi
 https://eksisozluk.com/haluk-bilginerin-torende-turkce-konusmamasi--6260342?a=popular
 https://www.youtube.com/watch?v=R-q9go-xi1M bkz avatardaki ağaç
