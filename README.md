@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz sürekli hani ve yani diyen ak nonoş
 bkz şaka maka ak nonoşlar için çanların çalması
 bkz şaka maka ak nonoşlara aktrollük maaaşları ödenmesin diye alkol ve sigarayı bırakma kararı almak
 bkz şaka maka ak nonoşlara su veren itfaiyyenin hortumunu sikeyim
