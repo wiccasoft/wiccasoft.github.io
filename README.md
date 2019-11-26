@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz selin ciğercinin aşkitosuna eliyle yedirdiği börek
 bkz selin ciğercinin kaınalr matinesinde yaptığı börek
 bkz aşkitosuna aşkım diyen erkek
 bkz aşkım diyen erkeğe uçan tekme atarım diyen kız
