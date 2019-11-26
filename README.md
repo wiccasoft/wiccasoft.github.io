@@ -17,6 +17,7 @@ https://www.facebook.com/gencosmantv/videos/fet%C3%B6-tatbikatta-2-b%C3%B6l%C3%B
 https://www.youtube.com/watch?v=jVEKDcDEN1w bkz akkoyunlara günah yazmamak 
 https://www.youtube.com/watch?v=e9drKXN5qsE bkz akkoyunları gaza getirmek 
 https://www.youtube.com/watch?v=ktmzyChfPmk bkz osmanlı torunu olmadığını anlayan çomar 
+https://www.youtube.com/watch?v=EfAsNffCjsM bkz allah ne kadar super lan
 -->
 
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
