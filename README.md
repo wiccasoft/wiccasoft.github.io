@@ -3,6 +3,7 @@
  [![Image](smartdata/loc-time.png)](  https://www.youtube.com/watch?v=p-zJzffx3FM )
  
 <!-- 
+bkz aknonoşları gelecekte aç bırakarak nüfusu dengelemek sorunsalları çözmek
 bkz nonoşların kürtleri sorun olarak görmesi sorunsalı
 bkz ak nonoşların kürt sorununu nasıl çözecekleri sorunsalı
 bkz ak nonoş zeka zeviyesi vs ak koyun zeka seviyesi
