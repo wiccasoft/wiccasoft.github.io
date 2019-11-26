@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz 41 yaşında ve yalnız kalmak istiyor olmam
 bkz 41 yaşında aşkım demeyen erkek
 bkz merve boğulurun şaka maka kızım yaşımda olması
 bkz selin ciğercinin erkek halinin görüp kusmak
