@@ -7,6 +7,7 @@
 [![Image](smartdata/markIII.png)](  https://www.youtube.com/watch?v=ZwOxM0-byvc )
 
 <!-- 
+bkz aleyna tilkinin merve boğulur  ablaya tablo gibisin demesi
 bkz 41 yaşında aşk istemeyen erkekğin yüreğine aşk sokmaya çalışan ergenler
 bkz 41 yaşında ve yalnız kalmak istiyor olmam
 bkz 41 yaşında aşkım demeyen erkek
