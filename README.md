@@ -8,7 +8,7 @@
      bkz sevdiceğine kuzum diyen erkek vs bebişkom diyen erkek
      bkz ali babaoşcanın davutoğluna ne oldi saha böyle bi anda oldun layt erkeği demesi
      bkz erkeğine dişi sinek yediren erkek örümceğin asıl amacı
-     bkz dişisini uçuran erkeğin asıl amacı
+     bkz dişisini uçuran sineğin asıl amacı
      bkz cerrahpaşa tıp bitirip nelerle uğraşmak
 -->
 
