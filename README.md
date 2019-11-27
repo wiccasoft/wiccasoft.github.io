@@ -5,9 +5,10 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz 
 bkz berat albayrakın paylaştığı beyin resmi
-bkz eğitim bakanın paylaştığı en iyi kürt ölü kürt öğrencidir paylaşımı
-bkz diyanet işleri nin paylaştığı imalı foto
+bkz eğitim bakanın paylaştığı en iyi kürt öğrenci ölü kürt öğrencidir demesi
+bkz diyanet işleri nin paylaştığı  rasputin kral adamdı paylaşımı
 bkz erdoğanın internet omurgasından yeni bir data center kuracaz paylaşımı
 bkz damadın kırmızı beyin paylaşması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz damadın hoşlandığı kürt kızın kyk borcunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
