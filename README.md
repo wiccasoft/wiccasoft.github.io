@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz ferdi bence tay fur diyen erkek
 bkz zulum 1453 te başladı diyen erkek
 bkz orhan bence gay diyen erkek
 bkz ülkücü bıyığı bırakan ülküsüz erkek vs kürt sakalı bırakan ülkücü erkek
