@@ -1,7 +1,7 @@
+[![Image](smartdata/Screenshot_2019-11-27_02-52-43.png)]( https://www.youtube.com/watch?v=LRFWb1gZu1M )
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
-https://www.youtube.com/watch?v=LRFWb1gZu1M
 https://www.uludagsozluk.com/e/42471638/ lol
 https://www.uludagsozluk.com/e/42472703/
 https://www.uludagsozluk.com/k/hekimler-t%C3%BCrkiye-den-ka%C3%A7%C4%B1yor/&w=gd
