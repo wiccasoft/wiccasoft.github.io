@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz berat albayrakın bütçe açığını sşigara ve alkol ile kapatması
 bkz berat albayrak ithal ürünlere zam müjdesi
 bkz berat albayrak sigara zammı açıklaması
 bkz berat albayrak kyk müjdesi
