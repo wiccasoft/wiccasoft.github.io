@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+https://www.uludagsozluk.com/k/can-yaman/&w=bg bkz canım övdüm diyorum
 https://www.uludagsozluk.com/k/serenay-sar%C4%B1kaya/&w=bg bkz canım övdüm diyorum ısrar etme
 https://eksisozluk.com/nihat-gencin-haluk-bilginere-saygi-duymam-demesi--6261799?a=popular  canım övdüm diyorum ısrar etme
 https://eksiup.com/s2/7517f081a89.png bkz canım dövdüm diyorum ısrar etme
