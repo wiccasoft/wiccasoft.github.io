@@ -8,7 +8,7 @@ bkz bahceliden 2020 de beka sözü
 bkz mia khalifa nın pornoyu bırakıp evlenmesi
 bkz selin şekercinin nihat gence götelek demesi
 bkz magazin gündemine bi gün bomba gibi düşecem 
-bkz bilal erdogan dan siyasete atılma sözü
+bkz bilal erdogan dan siyasete boöba gibi düşecem sözü
 bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım https://www.youtube.com/watch?v=2q05iJ6jHu8
 bkz nihat doğanın can yamana saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
 bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
