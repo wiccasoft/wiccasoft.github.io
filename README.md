@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz bilal erdoganin 2023 te dönüp cumhurbaşkanlığını devr alacam sözü https://www.youtube.com/watch?v=dZxZjk6QOG8
 bkz kılıccioğlan ın sskyı batırıp ülkeden kaçma planları yapması
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana
 https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
