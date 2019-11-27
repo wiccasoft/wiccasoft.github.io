@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz osmanlı ocakları başkanını paylaştığı erkeğin kralı benim paylaşımı
 bkz aşkım ütünü yaptım diyen erkek vs aşkım ütümü yap diyen erkek
 bkz slip don giyen erkek vs boxer giyen erkek
 bkz ülkücü bıyığı vırakan erkek vs kürt sakalı bırakan erkek
