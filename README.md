@@ -8,7 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
-bkz kılıccioğlan sskyı batırıp ülkeden kaçma planları yapması
+bkz kılıccioğlan ın sskyı batırıp ülkeden kaçma planları yapması
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana
 https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
 bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
