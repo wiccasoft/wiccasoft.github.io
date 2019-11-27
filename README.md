@@ -4,10 +4,9 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- ali babacan  yeni parti sinyalleri çaktığı iddaları -->
 <!-- ali babacan ben sizin babanızım ben ne dersem o olur dedi  https://www.youtube.com/watch?v=4RpMzsA1VOw-->
 <!-- nihat genç ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY -->
-<!-- imamağlu namazda erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo -->
+<!-- imamoğlu namazda erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
