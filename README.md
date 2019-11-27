@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz atatürke benzeyenadama tayt giydiren erkeğin asıl amacı
 bkz akatürke benzeyen adama tayt gidririp gezdirmek
 bkz beyni yok fikri var deyince akla geleln ilk erkek
 bkz leonarda da messi deyince akla gelen ilk top
