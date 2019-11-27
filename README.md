@@ -1,6 +1,6 @@
 <!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
 
-[![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc )
+<!-- [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) -->
 <!-- https://www.youtube.com/watch?v=2q05iJ6jHu8 reserved ->
 
 [![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
