@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/hekimler-t%C3%BCrkiye-den-ka%C3%A7%C4%B1yor/&w=gd
 iyi aklıma getirdin ben bunları doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=ABDKQ_S1xDk
 https://www.youtube.com/watch?v=JIPDfMy377M lambs
 https://www.youtube.com/watch?v=OLBotH5Bki8 Screaming Lambs
+https://www.youtube.com/watch?v=6fisto7CrRk yav he he
 -->
  
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
