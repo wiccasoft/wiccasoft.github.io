@@ -1,10 +1,11 @@
-<!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
 <!-- 
+https://www.youtube.com/watch?v=2q05iJ6jHu8 reserved
+https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree 
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) -->
-<!-- https://www.youtube.com/watch?v=2q05iJ6jHu8 reserved ->
+
+[![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
 [![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
 
