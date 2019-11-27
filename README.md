@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- 
 bkz sedat pekerin vatan partililerle yediği akşam yemeği
 bkz damadın maliye.gov.tr ye kürtleri sokmaması
-bkz damadın kyk myk beni bağlamaz hacı zmamanında ödeyin amuğu guyim açıklaması
+bkz damadın kyk myk beni bağlamaz hacı zamanında ödeyin amuğu guyim açıklaması
 bkz damadın paylaştığı kırmızı beyinden rahatsız olan kürtler
 bkz diyanet işleri nin paylaştığı rasputin kral adamdı paylaşımı
 bkz damadın beyni olan kyk almaz açıklaması https://www.youtube.com/watch?v=TA6y-oRT1w0
