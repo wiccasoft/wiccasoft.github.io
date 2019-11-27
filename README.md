@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz erdoğanın internet omurgası  paylaşımı
-bkz redflag ın kyk atamalarını açıklması https://www.youtube.com/watch?v=TA6y-oRT1w0
-bkz damadın hoşlandığı kürt kızın kyk borcuunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
+bkz erdoğanın internet omurgası paylaşımı
+bkz redflag https://www.youtube.com/watch?v=TA6y-oRT1w0
+bkz damadın hoşlandığı kürt kızın kyk borcunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
 -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
