@@ -5,10 +5,10 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz damadın ben kadında beyine bakarım paylaşımı
 bkz albayrakın soğan cücüğü kadar beyniniz yok açıklaması
 bkz aşkım kyk borcu ne diyen erkek vs aşkım kyk borcunu ben ödeyeyim diyen erkek
 bkz aşkım soğan doğra diyen erkek vs kalk kız soğan doğra diyen erkek
-bkz damadın ben kadında beyine bakarım paylaşımı
 bkz damadın kürtlerin kyk hakkında kararname hakkını imzalamaması
 bkz karısının kyk borcunu ödemeyen ruhsuz ve duygusuz erkek
 bkz duygusal erkek vs duygusalmayan erkek
