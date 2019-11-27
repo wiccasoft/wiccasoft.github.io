@@ -11,9 +11,7 @@ bkz omega erkek vs alfa erkek
 bkz pasiflerdeki barzo erkek aşkı
 bkz türk dizilerinde kaş göz yapan erkekleri alfa sanmak
 https://www.uludagsozluk.com/k/alfa-erkek-deyince-akla-gelen-ilk-ki%C5%9Fi/
-https://www.uludagsozluk.com/k/karpuz-almayan-kocaya-k%C4%B1z%C4%B1p-mangalc%C4%B1ya-ka%C3%A7an-kad%C4%B1n/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-tapmak-i%C3%A7in-3-neden/ bkz taptım canum evladum ısrar etme
-https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
 https://www.uludagsozluk.com/k/can-yaman/&w=bg bkz canım övdüm diyorum
 https://www.uludagsozluk.com/k/serenay-sar%C4%B1kaya/&w=bg bkz canım övdüm diyorum ısrar etme
 https://eksisozluk.com/nihat-gencin-haluk-bilginere-saygi-duymam-demesi--6261799?a=popular  canım övdüm diyorum ısrar etme
