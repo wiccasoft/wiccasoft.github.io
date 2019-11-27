@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42472703/
 https://www.uludagsozluk.com/k/hekimler-t%C3%BCrkiye-den-ka%C3%A7%C4%B1yor/&w=gd
 iyi aklıma getirdin ben bunları doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=ABDKQ_S1xDk
 https://www.youtube.com/watch?v=JIPDfMy377M
+https://www.youtube.com/watch?v=OLBotH5Bki8
 https://www.bbc.com/turkce/haberler-turkiye-46403077
 https://www.haberturk.com/youtuberlar-cok-kazaniyor-peki-vergi-veriyorlar-mi-2511144-magazin
 -->
