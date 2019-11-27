@@ -5,10 +5,11 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz karısının kyk borcunu ödeyen koca
 bkz damadın ben kadın da beyine bakarım açıklaması
 bkz kızına duygu ismini koyan duygusal baba
 bkz duygusal erkek vs duygusalmayan erkek
-bkz rte nin perdelerimi kaldırdığımda kedigi duygusalım açıklaması
+bkz rte nin perdelerimi kaldırdığımda kedi gibi duygusalım açıklaması
 bkz kürtlerin yine mağdur olması
 bkz sedat pekerin vatan partililerle yediği akşam yemeği
 bkz damadın maliye.gov.tr ye kürtleri sokmaması
