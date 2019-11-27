@@ -4,27 +4,6 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!--
-bkz 524 mhz altı müzik dinleyenlerin beyin işlevinin azalması
-bkz arabesk müzik dinleyenlerin düşük zekalı olması
-bkz eko deyince akla gelen ilk imgelem
-bkz imamoğlu deyince akla gelen ilk imgelem
-bkz ekrem deyince aklınıza gelen ilk imgelem
-bkz ekremi köşeye çekip tokat manyağı yapmak
-bkz lpg deyince akla gelen ilk örgüt
-bkz göksel kayaya tayt giydirip gezdirmek
-bkz göksel kaya vs ahmet kaya
-bkz beyni yok fikri var deyince akla gelen ilk erkek
-bkz leonarda da messi deyince akla gelen ilk top
-bkz alfa deyince akla gelen ilk ışın
-bkz dünya lideri deyince akla gelen ilk isim
-bkz burası çokommelli deyince akla gelen ilk isim
-bkz diyanet işleri nin paylaştığı rasputin kral adamdı paylaşımı
-bkz her şey çok güzel zaten  https://www.youtube.com/watch?v=TA6y-oRT1w0
-bkz eğitim bakanın paylaştığı en iyi kürt öğrenci ölü kürt öğrencidir imalı paylaşım
-bkz erdoğanın internet omurgasından yeni bir data center kuracaz açıklaması
-bkz damadın hoşlandığı kürt kızın kyk borcunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
--->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
