@@ -6,9 +6,6 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
 bkz beyni yok fikri var deyince akla geleln ilk erkek
-bkz erkek deyince akıldan çıkmayan ilk isim
-bkz akla erkek gelince akıldan çıkan ilk isim
-bkz türkiyenin erkek ihtiyacını kapatabilir deyince akla gelen ilk isim
 bkz leonarda da messi deyince akla gelen ilk top
 bkz alfa deyince akla gelen ilk ışın
 bkz dünya lideri deyince akla gelen ilk isim
