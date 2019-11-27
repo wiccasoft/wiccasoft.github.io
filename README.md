@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz alfa erkek diyince akla gelen ilk erkek
 bkz imamaoğlu nun aynı safta olması https://www.youtube.com/watch?v=ssrTMAW7mIo
 bkz fatih bence karadan yürüttü diyen erkek
 bkz ferdi bence tay fur diyen erkek
