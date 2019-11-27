@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
 <!--
+bkz gama erkek vs alfa erkek
 bkz omega erkek vs alfa erkek
 bkz pasiflerdeki barzo erkek aşkı
 bkz hepsini toptan övdün canum evladum
