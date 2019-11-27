@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz ben kyk borcunu öderim diyen erkek
 bkz fatih diyince akla gelen ilk üç erkek
 bkz erkek diyince akla ilk gelen erkek
 bkz alfa erkek diyince akla gelen ilk erkek
