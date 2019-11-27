@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz sende çocuğum olsun istiyorum deyince akla gelen ilk mardinli
 bkz senin versinler ellere bana kurşunlar deyince akla gelen ilk kişi
 bkz sen kimsin ya deyince akla gelen ilk kişi
 bkz penis yüzüğü deyince akla gelen ilk kişi
