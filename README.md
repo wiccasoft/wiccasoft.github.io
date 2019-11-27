@@ -8,13 +8,9 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 bkz albayrakın soğan cücüğü kadar beyniniz yok açıklaması
 bkz aşkım kyk borcu ne diyen erkek vs aşkım kyk borcunu ben ödeyeyim diyen erkek
 bkz aşkım soğan doğra diyen erkek vs kalk kız soğan doğra diyen erkek
-bkz damadın kadın beyni anlamaz açıklaması
-bkz damadın kırmızı beyin paylaşması
-bkz damadın kyk borcu olanın beyni yoktur açıklaması
-bkz damadın duygusal bir erkeğim ayrıca duygusal zekam da yüksektir açıklaması
 bkz damadın ben kadında beyine bakarım paylaşımı
 bkz damadın kürtlerin kyk hakkında kararname hakkını imzalamaması
-bkz karısının kyk borcunu ödemeyen ruhsuz ve duygusuz erkek
+bkz karısının lys borcunu ödemeyen ruhsuz ve duygusuz erkek
 bkz kızına duygu ismini koyan duygusal baba
 bkz duygusal erkek vs duygusalmayan erkek
 bkz rte nin perdelerimi kaldırdığımda kedi gibi duygusalım açıklaması
