@@ -8,7 +8,8 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
-bkz imamaoğlanın 204 da bitecek suları içip bitirmesi
+bkz rte nin yks sınavına hazırlanan türbanlılara 10 puan hediye bonusu sözü
+bkz imamoğlanın 204 da bitecek suları içip bitirmesi
 bkz mısıroğlanın osmanlı geliyor açıklması
 bkz türkiye batarken önce farelerin kaçması
 bkz bahcelinin kılışdara verdiği ayar
