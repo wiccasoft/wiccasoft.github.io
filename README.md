@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz can yumoşu yakışıklı bulmayan erkek
 bkz rte nin imamaoğlanı tokat manyağı yapması
 bkz rte nin beni seven şu mereti içmez demesi
 bkz tangır budun doganın iman dolu göğsü vs rte nin iman dolu göğsü
