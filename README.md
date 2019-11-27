@@ -10,10 +10,8 @@ bkz aşkım kyk borcu ne diyen erkek vs aşkım kyk borcunu ben ödeyeyim diyen 
 bkz aşkım soğan doğra diyen erkek vs kalk kız soğan doğra diyen erkek
 bkz damadın ben kadında beyine bakarım paylaşımı
 bkz damadın kürtlerin kyk hakkında kararname hakkını imzalamaması
-bkz karısının lys borcunu ödemeyen ruhsuz ve duygusuz erkek
-bkz kızına duygu ismini koyan duygusal baba
+bkz karısının kyk borcunu ödemeyen ruhsuz ve duygusuz erkek
 bkz duygusal erkek vs duygusalmayan erkek
-bkz rte nin perdelerimi kaldırdığımda kedi gibi duygusalım açıklaması
 bkz kürtlerin yine mağdur olması
 bkz sedat pekerin vatan partililerle yediği akşam yemeği
 bkz damadın maliye.gov.tr ye kürtleri sokmaması
