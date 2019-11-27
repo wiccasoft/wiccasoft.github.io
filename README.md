@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz erdoğanın internet omurgası paylaşımı
-bkz redflag https://www.youtube.com/watch?v=TA6y-oRT1w0
+bkz damadın kırmızı beyin paylaşması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz damadın hoşlandığı kürt kızın kyk borcunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
 -->
 
