@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz fatih sultan mehmetin karadan yürüdüğü yalanı
 bkz biskolata erkeği vs ülkücü erkeği
 bkz portakallı tarçınlı çikolatalı sos yapıp üstüne döküp yala beni diyen erkek
 bkz bakir olmayan ülkücü erkek vs bakir olan ülkücü erkek
@@ -12,7 +13,6 @@ bkz telefonu olmayan ülkücü erkek vs telefonu olan ülküsüz erkek
 bkz ben seni üzerim diyen erkek vs üzmem diyen erkek
 bkz çin malı telefon alan ülkücü erkek vs amerikan malı alan kürtçü erkek
 bkz bakir erkek vs bakir olmayan erkek
-bkz fatih portakal vs fatih terim
 bkz beyninin içine tek erkek sığdırabilen kadın kadındır
 bkz iki erkeği karşılaştıran kadından da cacık olmaz
 bkz beyninin içi erkek dolu kadından bi bok olmaz
