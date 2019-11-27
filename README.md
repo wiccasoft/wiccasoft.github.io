@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz haluk leventi sevmek zorunda mıyım diyen erkek
 bkz haluk seni seviyorsa sende haluk sevmelisin diyen erkek
 bkz haluka inanamam saygı da duymama tamam mı diyen erkek
 bkz akıldan çıkınca yine akla gelen hınzır erkek
