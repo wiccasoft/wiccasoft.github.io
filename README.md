@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz küçük emrah vs küçük ibo
 bkz arabesk rap yapan erkek vs arabesk yapan erkek
 bkz fatih altaylı vs teke tek
 bkz orhan bence gay dinleyen astronot
