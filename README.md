@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
 bkz imamaoğlanın 204 da bitecek suları içip bitirmesi
+bkz mısıroğlanın osmanlı geliyor açıklması
 bkz türkiye batarken önce farelerin kaçması
 bkz bahcelinin kılışdara verdiği ayar
 bkz 41 yaşında ilişki istemeyen erkek 22 yaşında ilişki isteyen kız ilişkisi
