@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz kaslara çikolota sürmek deyince akla gelen ilk erkek
 bkz burası çokomelli deuince akla gelen ilk şey
 bkz çokomelli deyince akla gelen ilk kişi
 bkz ben aslında yoğum deyince akla gelen ilk erkek
