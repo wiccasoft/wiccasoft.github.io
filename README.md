@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- bkz ekşicilerin sabah beni diyanet işleri bakanı sanması olayı -->
 <!-- bkz ekşicilerin akşam beni tc cumhurbaşkanlığı sanması olayı -->
 <!-- bkz ekşicilerin akşam üstü beni tc maliye bakanlığı sanması olayı -->
-<!-- bkz ekşicilerin beni tc eğitim bakanlığı sanması olayına girmiyorum bile -->
+<!-- bkz ekşicilerin geçen ay beni tc eğitim bakanlığı sanması olayına girmiyorum bile -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
