@@ -3,37 +3,7 @@
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc )
 
 [![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
-<!--
-https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz hepsini toptan övdün canum evladum
-bkz gama erkek vs sigma erkek 
-bkz omega erkek vs alfa erkek 
-bkz türk dizilerinde kaş göz yapan erkekleri alfa sanmak
-https://www.uludagsozluk.com/k/alfa-erkek-deyince-akla-gelen-ilk-ki%C5%9Fi/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-tapmak-i%C3%A7in-3-neden/ bkz taptım canum evladum ısrar etme
-https://www.uludagsozluk.com/k/can-yaman/&w=bg bkz canım övdüm diyorum
-https://www.uludagsozluk.com/k/serenay-sar%C4%B1kaya/&w=bg bkz canım övdüm diyorum ısrar etme
-https://eksisozluk.com/nihat-gencin-haluk-bilginere-saygi-duymam-demesi--6261799?a=popular  canım övdüm diyorum ısrar etme
-https://eksiup.com/s2/7517f081a89.png bkz canım dövdüm diyorum ısrar etme
-https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz ısrar etme övdüm de geldim
-bkz herkeşe benden çay herkeş benim sevdiğimi sevecek 
-bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-bkz saraydan kaçak elektrik çeken kürtlere laf etmeyen kamalcılar https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz layt selaminin haluka saygı duyması
-bkz fatih terimin alex e saygı duyuyorum demesi
-https://www.uludagsozluk.com/k/coni-sins-in-adam-gibi-adam-olmas%C4%B1/ eywallah bro
-bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
-bkz merve özbeyin can yamana inanmıyosan saygı göstereceksin demesi https://www.youtube.com/watch?v=H0760kGB-vw
-bkz nihat genç in haluk bilgineri yalamam demesi https://www.youtube.com/watch?v=ndlChldbRIE
-bkz aralarından su sızmadı https://www.youtube.com/watch?v=-AdnJiuDGVU
-bkz imamaoglu nun saf tutması https://www.youtube.com/watch?v=ssrTMAW7mIo
-bkz bilal erdoganin gümbür gümdür geldiği gerçeği https://www.youtube.com/watch?v=2H853-L2oRg
-bkz bilal edogandan 2023 te dönüp cumhurbaşkanlığını devr alacam sözü https://www.youtube.com/watch?v=dZxZjk6QOG8
-bkz ez oglim https://www.youtube.com/watch?v=2V7jLQgW4mk
-https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana
--->
- 
+
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
 
 <!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
