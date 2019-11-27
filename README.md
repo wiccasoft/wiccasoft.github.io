@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz lpg deyince akla gelen ilk örgüt
 bkz göksel kayaya tayt giydirip gezdirmek
 bkz göksel kaya vs ahmet kaya
 bkz beyni yok fikri var deyince akla gelen ilk erkek
