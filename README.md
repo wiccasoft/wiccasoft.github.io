@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz redflag ın kyk atamalarını açıklması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz damadın hoşlandığı kürt kızın kyk borcuunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
 -->
 
