@@ -8,12 +8,6 @@ https://eksisozluk.com/nihat-gencin-haluk-bilginere-saygi-duymam-demesi--6261799
 https://eksiup.com/s2/7517f081a89.png bkz canım dövdüm diyorum ısrar etme
 https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz ısrar etme övdüm de geldim
 bkz herkeşe benden çay herkeş benim sevdiğimi sevecek 
-bkz benim sevdiğime saygı duymuyorsan o kulağını keserler aga
-bkz ver yansın tv izlerken gaza gelip mehter marşı açmak
-bkz hurdacı kürt dayının kadir mısıroğlana saygı duyuyorum demesi
-bkz kadir mısıroğlan ın naim süleymanoğlan a saygı duymuyorum demesi
-bkz kadir mısıroğlan ın sabetaycı olduğu iddiası
-bkz naim süleymanoğlan ın 320 kilo silkerken taytından fırlayan taşşakları
 bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 bkz saraydan kaçak elektrik çeken kürtlere laf etmeyen kamalcılar https://www.youtube.com/watch?v=LTs9MH0Ny-k
