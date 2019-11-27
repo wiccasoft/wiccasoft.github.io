@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz bahçeli deyince akla gelen ilk imge
 bkz leo deyince akla gelen ilk isim 
 a)leo messi 
 b)leonardo di caprio
