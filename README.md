@@ -16,18 +16,12 @@ bkz imamoğlanın 204 da bitecek suları içip bitirmesi
 bkz mısıroğlanın osmanlı geliyor açıklması
 bkz türkiye batarken önce farelerin kaçması
 bkz bahcelinin kılışdara verdiği ayar
-bkz 41 yaşında ilişki istemeyen erkek 22 yaşında ilişki isteyen kız ilişkisi
-bkz 41 yaşında erkek 19 yaşında sivilceli kız ilişkisi
 bkz rte nini 2020 de teöröre sıfır çekecez inlerinde girecez sözü
 bkz 41 yaşında ülkeden kaçmış erkek vs koca götlü ergen türk kızı ilişkisi
-bkz ibrahim talısesein rte ye küfreden beni kaşısında bulur demesi
 bkz imamoğlan nın yasin okuması vs tayyipoğlanın yasin okuması
 bkz imamaoglu vs müftüoğlu vs marremoğlu
 bkz aşkım diyen erkek vs aşkım demeyen erkek
-bkz halil inancıkın halil inamacık a götelek demesi
-bkz ido tatlısesin babasını savunması
 bkz duydusal erkek vs duygusalmayan erkek
-bkz re ce tay yi er do van  re ce  tay yi er do van
 bkz rte nin ülkeyi 17 sene de batırması
 bkz ez oglim https://www.youtube.com/watch?v=2V7jLQgW4mk
 bkz muharrem incenin ibrahim tatlısesi ziyaret etmesine ses atmeyen kamalcılar
