@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz mia khlafa nın pornoyu bırakıp evlenmesi
 bkz bahcelinni kobani de terörü bitirecem sözü
 bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım https://www.youtube.com/watch?v=2q05iJ6jHu8
 bkz nihat doğanın can yamana saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
