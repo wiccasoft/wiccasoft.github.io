@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz nihat gencin yaslılara saygı duymam demesi
 bkz bahceliden 2020 de beka sözü
 bkz mia khalifa nın pornoyu bırakıp evlenmesi
 bkz selin şekercinin nihat gence götelek demesi
