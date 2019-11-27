@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42471638/
 https://www.uludagsozluk.com/e/42472703/
 bkz türkiye batarken önce farelerin kaçması
 bkz re ce tay yi er do van  rece  tay yi er do van
+bkz rte nin ülkeyi 17 sene de batırması
 https://www.uludagsozluk.com/k/hekimler-t%C3%BCrkiye-den-ka%C3%A7%C4%B1yor/&w=gd
 iyi aklıma getirdin ben bunları doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=ABDKQ_S1xDk
 https://www.youtube.com/watch?v=JIPDfMy377M lambs
