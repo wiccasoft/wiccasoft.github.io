@@ -5,10 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz kulis deyince akla gelen ilk imge
-bkz khk deyince akla gelen ilk şey
-bkz liseli deyince akla gelen ilk kişi
-bkz lys deyince akla gelen ilk şey
+bkz hulusi deyince aklınıza akan ilk isim
 bkz berat deyince akla gelen ilk şey
 a)kandil
 b)muaf olmak
