@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz benim sevdiğime saygı duymuyorsan o kulağını keserler karşim
 bkz inanmıyorsan saygı duyacaksın arkadaşım
 bkz ver yansın tv izlerken gaza gelip mehter marşı açmak
 bkz hurdacı kürt dayının kadir mısıroğlana saygı duyuyorum demesi
