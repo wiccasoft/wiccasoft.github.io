@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz mehmet ali deyince akla gelen ilk parmak
 bkz kaya han deyince akla gelen ilk kurşun
 bkz ekşcici deyince aklınıza gelen ilk ergen
 bkz cep herkülü deyince aklınıza gelen ilk şey
