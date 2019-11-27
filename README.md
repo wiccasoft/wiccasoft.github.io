@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz hurdacı kürt dayının kadir mısıroğlana saygı duyuyorum demesi
 bkz kadir mısıroğlan ın naim süleymanoğlan a saygı duymuyorum demesi
 bkz kadir mısıroğlan ın sabetaycı olduğu iddiası
 bkz naim süleymanoğlan ın 320 kilo silkerken taytından fırlayan taşşakları
