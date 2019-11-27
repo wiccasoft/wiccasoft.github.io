@@ -4,11 +4,9 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- ekşicilerin devlet diye beni takip etmesi komedisi :))))) -->
-<!-- bkz ekşicilerin sabah beni diyanet işleri bakanı sanması olayı -->
-<!-- bkz ekşicilerin akşam beni tc cumhurbaşkanlığı sanması olayı -->
-<!-- bkz ekşicilerin akşam üstü beni tc maliye bakanlığı sanması olayı -->
-<!-- bkz ekşicilerin geçen ay beni tc eğitim bakanlığı sanması olayına girmiyorum bile -->
+<!-- 
+bkz damasdın hoşlandığı kızın kyk borcuunu silmesi ekşicininkini silmemesi https://www.youtube.com/watch?v=ktmzyChfPmk
+-->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
