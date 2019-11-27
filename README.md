@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
 
+
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
 
 [![Image](smartdata/Screenshot_2019-11-26_11-37-02.png)](  https://www.youtube.com/watch?v=0lZ5t7Fz_fw )
