@@ -8,8 +8,7 @@ https://eksisozluk.com/nihat-gencin-haluk-bilginere-saygi-duymam-demesi--6261799
 https://eksiup.com/s2/7517f081a89.png bkz canım dövdüm diyorum ısrar etme
 https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz ısrar etme övdüm de geldim
 bkz herkeşe benden çay herkeş benim sevdiğimi sevecek 
-bkz benim sevdiğime saygı duymuyorsan o kulağını keserler karşim
-bkz inanmıyorsan saygı duyacaksın arkadaşım
+bkz benim sevdiğime saygı duymuyorsan o kulağını keserler aga
 bkz ver yansın tv izlerken gaza gelip mehter marşı açmak
 bkz hurdacı kürt dayının kadir mısıroğlana saygı duyuyorum demesi
 bkz kadir mısıroğlan ın naim süleymanoğlan a saygı duymuyorum demesi
