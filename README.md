@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
+<!-- bkz nihat doğanın türkçülere küfretmesi -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-yabanc%C4%B1-k%C4%B1z-merak%C4%B1/&w=bg türk olmadığım için siklemediğim kızlar -->
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
