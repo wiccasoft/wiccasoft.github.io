@@ -5,6 +5,7 @@
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
 bkz hepsini toptan övdün canum evladum
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-tapmak-i%C3%A7in-3-neden/ bkz taptım canum evladum ısrar etme
 https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
 https://www.uludagsozluk.com/k/can-yaman/&w=bg bkz canım övdüm diyorum
 https://www.uludagsozluk.com/k/serenay-sar%C4%B1kaya/&w=bg bkz canım övdüm diyorum ısrar etme
