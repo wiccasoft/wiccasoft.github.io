@@ -42,11 +42,8 @@ bkz bakir olmayan ülkücü erkek vs bakir olan ülkücü erkek
 bkz telefonu olmayan ülkücü erkek vs telefonu olan ülküsüz erkek
 bkz ben seni üzerim diyen erkek vs üzmem diyen erkek
 bkz çin malı telefon alan ülkücü erkek vs amerikan malı alan kürtçü erkek
-bkz bakir erkek vs bakir olmayan erkek
-bkz beyninin içine tek erkek sığdırabilen kadın kadındır
 bkz iki erkeği karşılaştıran kadından da cacık olmaz
-bkz beyninin içi erkek dolu kadından bi bok olmaz
-bkz damadın ben kadında beyine bakarım paylaşımı
+bkz albayrakın ben kadında beyine bakarım paylaşımı
 bkz albayrakın soğan cücüğü kadar beyniniz yok açıklaması
 bkz aşkım kyk borcu ne diyen erkek vs aşkım kyk borcunu ben ödeyeyim diyen erkek
 bkz aşkım soğan doğra diyen erkek vs kalk kız soğan doğra diyen erkek
