@@ -1,13 +1,11 @@
-<!-- https://www.youtube.com/watch?v=2q05iJ6jHu8 reserved ->
+<!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc )
+<!-- https://www.youtube.com/watch?v=2q05iJ6jHu8 reserved ->
 
 [![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
 
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
-
-<!-- https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree -->
-<!-- https://www.youtube.com/watch?v=kAGU0__47vI oscar -->
 
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
 <!-- 
@@ -20,6 +18,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- https://www.youtube.com/watch?v=ZXYjLAqbFrs -->
 <!-- https://www.youtube.com/watch?v=Z4d4yB-cm6E -->
 <!-- https://www.youtube.com/watch?v=TfPQXTHPW8w -->
+
 [![Image](smartdata/missionlocknhead.png)](  https://www.youtube.com/watch?v=6OiWfZYARio )
 <!--https://www.youtube.com/watch?v=ZXYjLAqbFrs -->
 
