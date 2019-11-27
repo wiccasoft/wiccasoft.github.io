@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=OLBotH5Bki8 Screaming Lambs
 https://www.youtube.com/watch?v=EfAsNffCjsM allah ne kadar super lan
 https://www.youtube.com/watch?v=6fisto7CrRk yav he he
 bkz yetişkin bir akpli ye türkiyenin battığını anlatmak
+https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 -->
  
