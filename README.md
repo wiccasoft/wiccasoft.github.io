@@ -5,6 +5,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
 
+
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
 
 [![Image](smartdata/Screenshot_2019-11-26_13-12-05.png)](  https://www.youtube.com/watch?v=wzIU_yc01nQ )
