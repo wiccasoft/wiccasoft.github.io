@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz telefonu olmayan ülkücü erkek vs telefonu olan ülküsüz erkek
 bkz kavanoz kapağını ben açarım aşkım diyen erkek vs onu da ben mi açam amg diyen erkek
 bkz ben seni üzerim diyen erkek vs üzmem diyen erkek
 bkz çin malı telefon alan ülkücü erkek vs amerikan malı alan kürtçü erkek
