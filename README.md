@@ -3,8 +3,9 @@
  <!--
 https://www.youtube.com/watch?v=LRFWb1gZu1M
 https://www.uludagsozluk.com/e/42471638/ lol
+https://www.uludagsozluk.com/k/hekimler-t%C3%BCrkiye-den-ka%C3%A7%C4%B1yor/&w=gd lol
+https://www.uludagsozluk.com/e/42472703/
 iyi aklıma getirdin ben bunları doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=ABDKQ_S1xDk
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-sayg%C4%B1-g%C3%B6sterin-deyip-erdo%C4%9Fan-a-s%C3%B6vmek/&w=gd 
 https://www.youtube.com/watch?v=JIPDfMy377M
 https://www.bbc.com/turkce/haberler-turkiye-46403077
 https://www.haberturk.com/youtuberlar-cok-kazaniyor-peki-vergi-veriyorlar-mi-2511144-magazin
