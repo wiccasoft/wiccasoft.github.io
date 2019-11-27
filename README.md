@@ -4,7 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
-bkz yere sümük atan adama alfa diyen yurdum genci
+bkz yere sümük atan adama alfa diyen yurdum pasif genci
 bkz pasiflerin barzolara alfa demesi sorunsalı
 bkz pasiflerdeki barzo erkek aşkı
 bkz hepsini toptan övdün canum evladum
