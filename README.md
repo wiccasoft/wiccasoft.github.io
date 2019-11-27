@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
 bkz yakışıklı ve kaslı diye can yumoşu takip eden ezikler
 bkz can yumoş kim diye aratmaya üşenmek
 bkz can yumoşu yakışıklı bulmayan erkek
