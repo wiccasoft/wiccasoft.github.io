@@ -11,7 +11,8 @@ https://www.haberturk.com/video/haber/izle/cumhurbaskani-erdogan-ile-imamoglu-ar
 ali babacanın babacan tavırları halkın sevgi seline neden oldu 
 erdoğan istanbul çok hojdır dedi  https://www.youtube.com/watch?v=4RpMzsA1VOw
 nihat genç ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY
-<!-- imamoğlu namazda erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo -->
+imamoğlu erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
+-->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
