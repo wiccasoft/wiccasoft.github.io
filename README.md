@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz kürtlerin yine mağdur olması
 bkz sedat pekerin vatan partililerle yediği akşam yemeği
 bkz damadın maliye.gov.tr ye kürtleri sokmaması
 bkz damadın kyk myk beni bağlamaz hacı zamanında ödeyin amuğu guyim açıklaması
