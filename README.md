@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
-<!-- nihat genç yaşlıya saygı duymam dedi ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY -->
+<!-- nihat genç ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY -->
 <!-- imamağlu namazda erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
