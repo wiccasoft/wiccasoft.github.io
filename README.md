@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz damadın kyk borcu olanın beyni yoktur açıklaması
 bkz damadın duygusal bir erkeğim ayrıca duygusal zekam da yüksektir açıklaması
 bkz damadın ben kadında beyine bakarım paylaşımı
 bkz damadın kürtlerin kyk hakkında kararname hakkını imzalamaması
