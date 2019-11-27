@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz burası çokomelli deyince aklınıza gelen ilk marka
+bkz burası çokomelli deyince aklınıza gelen ilk şey
 bkz hulusi deyince aklınıza akan ilk isim
 bkz berat deyince akla gelen ilk şey
 a)kandil
