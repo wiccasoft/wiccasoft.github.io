@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz ben aslında yoğum deyince akla gelen ilk erkek
-bkz beta ışını deyince akla gelen ilk erkek
+bkz alfa ışını deyince akla gelen ilk erkek
 bkz gama deyince akla gelen ilk erkek
 bkz duygu deyince akla gelen ilk erkek vs sal deyince akla gelen ilk erkek
 bkz adam deyince akla gelen ilk adam
