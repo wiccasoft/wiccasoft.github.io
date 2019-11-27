@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz bahçeli deyince akla gelen ilk imge
-bkz leo deyince akla gelen ilk isim 
+bkz leo deyince akla gelen ilk imge
 a)leo messi 
 b)leonardo di caprio
 c)leonardo da vinci
