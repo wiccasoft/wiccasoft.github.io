@@ -20,6 +20,9 @@ bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-eme
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
+[![Image](smartdata/Screenshot_2019-11-27_07-50-42.png)]( https://www.youtube.com/watch?v=-371LmCinrY ) 
+
+
 [![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
 
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
