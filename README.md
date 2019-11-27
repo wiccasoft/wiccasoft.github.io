@@ -8,7 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
-bkz nihat ın haluk götelek ver yansın demesi https://www.youtube.com/watch?v=ndlChldbRIE
+bkz nihat ın haluk a ver yansın etmesi https://www.youtube.com/watch?v=ndlChldbRIE
 bkz aralarından su sızmadı https://www.youtube.com/watch?v=-AdnJiuDGVU
 bkz imamaoglu nun saf tutması https://www.youtube.com/watch?v=ssrTMAW7mIo
 bkz bilal erdoganin gümbür gümdür geldiği gerçeği https://www.youtube.com/watch?v=2H853-L2oRg
