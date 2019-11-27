@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
 bkz türkiye batarken önce farelerin kaçması
+bkz ibrahim talısesein rte ye küfreden beni kaşısında bulur demesi
 bkz imamoğlan nın yasin okuması vs tayyipoğlanın yasin okuması
 bkz imamaoglu vs müftüoğlu vs marremoğlu
 bkz aşkım diyen erkek vs aşkım demeyen erkek
