@@ -8,7 +8,6 @@ https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz hepsini toptan övdün canum evladum
 bkz gama erkek vs sigma erkek 
 bkz omega erkek vs alfa erkek 
-bkz pasiflerdeki barzo erkek aşkı
 bkz türk dizilerinde kaş göz yapan erkekleri alfa sanmak
 https://www.uludagsozluk.com/k/alfa-erkek-deyince-akla-gelen-ilk-ki%C5%9Fi/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-tapmak-i%C3%A7in-3-neden/ bkz taptım canum evladum ısrar etme
