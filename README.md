@@ -5,7 +5,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
-bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
+bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 bkz nihat doğanın can yamana saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
 bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
 bkz merve özbeyin can yamana inanmıyosan saygı göstereceksin demesi https://www.youtube.com/watch?v=H0760kGB-vw
