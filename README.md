@@ -5,9 +5,6 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
-https://www.youtube.com/watch?v=ovvCdyz7JnI
-https://www.uludagsozluk.com/e/42471638/ 
-https://www.uludagsozluk.com/e/42472703/
 bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
 bkz nihat doğanın can yamana saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
 bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
@@ -19,36 +16,6 @@ bkz bilal erdoganin gümbür gümdür geldiği gerçeği https://www.youtube.com
 bkz bilal erdoganin 2023 te dönüp cumhurbaşkanlığını devr alacam sözü https://www.youtube.com/watch?v=dZxZjk6QOG8
 bkz kılıccioğlan ın sskyı batırıp ülkeden kaçma planları yapması
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana
-https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
-bkz can yumoş kim diye aratmaya üşenmek
-bkz can yumoşu yakışıklı bulmayan erkek
-bkz rte nin imamaoğlanı tokat manyağı yapması
-bkz rte nin beni seven şu mereti içmez demesi
-bkz tangır budun doganın iman dolu göğsü vs rte nin iman dolu göğsü
-bkz rte nin yks sınavına hazırlanan türbanlılara 10 puan hediye bonusu sözü
-bkz imamoğlanın 204 da bitecek suları içip bitirmesi
-bkz mısıroğlanın osmanlı geliyor açıklması
-bkz türkiye batarken önce farelerin kaçması
-bkz bahcelinin kılışdara verdiği ayar
-bkz rte nini 2020 de teöröre sıfır çekecez inlerinde girecez sözü
-bkz 41 yaşında ülkeden kaçmış erkek vs koca götlü ergen türk kızı ilişkisi
-bkz imamoğlan nın yasin okuması vs tayyipoğlanın yasin okuması
-bkz imamaoglu vs müftüoğlu vs marremoğlu
-bkz aşkım diyen erkek vs aşkım demeyen erkek
-bkz duydusal erkek vs duygusalmayan erkek
-bkz rte nin ülkeyi 17 sene de batırması
-bkz ez oglim https://www.youtube.com/watch?v=2V7jLQgW4mk
-bkz muharrem incenin ibrahim tatlısesi ziyaret etmesine ses atmeyen kamalcılar
-https://www.uludagsozluk.com/k/hekimler-t%C3%BCrkiye-den-ka%C3%A7%C4%B1yor/&w=gd
-iyi aklıma getirdin ben bunları doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=ABDKQ_S1xDk
-https://www.youtube.com/watch?v=JIPDfMy377M lambs
-https://www.youtube.com/watch?v=OLBotH5Bki8 Screaming Lambs
-https://www.youtube.com/watch?v=EfAsNffCjsM allah ne kadar super lan
-https://www.youtube.com/watch?v=6fisto7CrRk yav he he
-bkz yetişkin bir akpli ye türkiyenin battığını anlatmak
-https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
-https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-https://www.uludagsozluk.com/k/istiklal-mar%C5%9F%C4%B1na-sayg%C4%B1s%C4%B1zl%C4%B1k-yapan-tarikat%C3%A7%C4%B1lar/&w=gd
 -->
  
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
