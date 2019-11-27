@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz fathi terimin alex e saygı duymuyorum demesi
 https://www.uludagsozluk.com/k/coni-sins-in-adam-gibi-adam-olmas%C4%B1/ eywallah bro
 bkz nihat gençten yaşlılara saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
 bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
