@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz aşkım diyen erkek vs kalk kız soğan doğra diyen erkek
 bkz duygusal erkek vs alfa erkek
 bkz damadın kadın beyni anlamaz açıklaması
 bkz damadın kırmızı beyin paylaşması
