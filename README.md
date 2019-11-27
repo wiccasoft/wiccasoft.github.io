@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+https://twitter.com/tolgayuksel65/status/651993698868314112
 https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz ısrar etme övdüm de geldim
 bkz herkeşe benden çay herkeş benim sevdiğimi sevecek 
 bkz benim sevdiğime saygı duymuyorsan o kulağını keserler karşim
