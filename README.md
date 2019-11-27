@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+https://www.yenisafak.com/video-galeri/gundem/kilicdaroglu-ince-atismasi-sosyal-medyayi-salladi-2179895
 bkz bahceli babacan davutoğlan görüşmesine olumlu baktığını iletti
 bkz ali babacanın babacan tavırları siyaset dünyasına renk kattı
 bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
