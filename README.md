@@ -6,9 +6,6 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz sen kimsin ya deyince akla gelen ilk kişi
-bkz atarlı deyince akla ilk gelen kişi
-bkz teröre 2020 de sıfır çekecem diyince akla gelen ilk kişi
-bkz beka reis deyince akla gelen ilk kişi
 bkz penis yüzüğü deyince akla gelen ilk kişi
 bkz kaslara çikolota sürmek deyince akla gelen ilk erkek
 bkz burası çokomelli deuince akla gelen ilk şey
