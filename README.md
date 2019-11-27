@@ -4,11 +4,9 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
-bkz mia khalifanın türbanlı porno çekip türbanlı bacılarımızı hakaret etmesi
-bkz yeni nesil incicilerin mia khlifa yı tanımaması
-bkz mia khalifa izlerken odaya babanın girmesi
+bkz bahcceliden 2020 de beka sözü
 bkz mia khalifa nın pornoyu bırakıp evlenmesi
-bkz bahcelinni kobani de terörü bitirecem sözü
+bkz bahcelinin kobani de terörü bitirecem sözü
 bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım https://www.youtube.com/watch?v=2q05iJ6jHu8
 bkz nihat doğanın can yamana saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
 bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
