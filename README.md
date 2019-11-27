@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz damadın soğan cücüğü kadar beyniniz yok açıklaması
 bkz aşkım kyk borcu ne diyen erkek vs aşkım kyk borcunu ben ödeyeyim diyen erkek
 bkz aşkım soğan doğra diyen erkek vs kalk kız soğan doğra diyen erkek
-bkz duygusal erkek vs alfa erkek
 bkz damadın kadın beyni anlamaz açıklaması
 bkz damadın kırmızı beyin paylaşması
 bkz damadın kyk borcu olanın beyni yoktur açıklaması
