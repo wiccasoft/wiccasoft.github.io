@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz kyk deyince akla hep ekşcilerin gelmesi
 bkz evlat olsa sevilmez deyince akla gelen ilk ekşici
 bkz ekşici deyince aklınıza gelen ilk ergen
 bkz cep herkülü deyince aklınıza gelen ilk şey
