@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz zulum 1453 te başladı diyen erkek
+bkz orhan bence gay diyen erkek
 bkz ülkücü bıyığı bırakan ülküsüz erkek vs kürt sakalı bırakan ülkücü erkek
 bkz biskolata erkeği vs ülkücü erkeği
 bkz portakallı tarçınlı çikolatalı sos yapıp üstüne döküp yala beni diyen erkek
