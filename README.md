@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz imamaoglu nun saf tutması https://www.youtube.com/watch?v=ssrTMAW7mIo
 bkz bilal erdoganin gümbür gümdür geldiği gerçeği https://www.youtube.com/watch?v=2H853-L2oRg
 bkz bilal erdoganin 2023 te dönüp cumhurbaşkanlığını devr alacam sözü https://www.youtube.com/watch?v=dZxZjk6QOG8
 bkz kılıccioğlan ın sskyı batırıp ülkeden kaçma planları yapması
