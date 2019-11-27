@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+https://www.uludagsozluk.com/k/muharrem-isimli-erkekle-sevgili-olmak/
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ ak den babacana yanıt gecikmedi
 https://www.yenisafak.com/video-galeri/gundem/kilicdaroglu-ince-atismasi-sosyal-medyayi-salladi-2179895
 bkz bahceli babacan davutoğlan görüşmesine olumlu baktığını iletti
