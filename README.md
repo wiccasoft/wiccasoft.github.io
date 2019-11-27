@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz beyni yok fikri var diyince akla gelen ilk erkek
-bkz 524 mhz deyince aklınızda imgelenen şey
+bkz 524 mhz deyince aklınızda imgelenen ilk erkek
 bkz gözlerinizi kapatın ahmet dediğim zaman ne imgelendiğini söyleyin
 bkz ahmet deyince aklınıza ilk imgelenen resim
 bkz bora deyince aklınıza gelmeyen erkek
