@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz rte nin imamaoğlanı tokat manyağı yapması
 bkz rte nin yks sınavına hazırlanan türbanlılara 10 puan hediye bonusu sözü
 bkz imamoğlanın 204 da bitecek suları içip bitirmesi
 bkz mısıroğlanın osmanlı geliyor açıklması
