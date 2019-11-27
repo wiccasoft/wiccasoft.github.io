@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
-bkz arabesk ve düşük hertz nüzik zeka geriliği yapar
+bkz arabesk ve düşük hertz sözlü müzik zeka geriliği yapar
 bkz aklınızda hep aynı isimlerin olması dünyanızın dar olduğu anlamına gelir
 bkz boğulur deyince akla gelen ilk isim
 bkz bülent ersoy deyince akla gelen ilk isim
