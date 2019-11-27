@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
 bkz re  ce tay yi er do van re ce tay yi er do van
 bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
 bkz yakışıklı ve kaslı diye can yumoşu takip eden ezikler
