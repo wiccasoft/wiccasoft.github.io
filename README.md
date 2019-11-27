@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz burası çokomelli deyince akla maliye bakanlığı gelmesi
 bkz çokomelli deyince akla gelen ilk bakan
 bkz kyk deyince akla hep ekşcilerin gelmesi
 bkz evlat olsa sevilmez deyince akla gelen ilk ekşici
