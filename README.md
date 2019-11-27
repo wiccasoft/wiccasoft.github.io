@@ -6,9 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz berat albayrakın paylaştığı beyin resmi
-bkz eğitim bakanlığının paylaştığı en iyi kürt ölü kürt öğrencidir paylaşımı
+bkz eğitim bakanın paylaştığı en iyi kürt ölü kürt öğrencidir paylaşımı
 bkz diyanet işleri nin paylaştığı imalı foto
-bkz ülkücü öğretmenler facebook grubunun paylaştığı imalı paylaşımı
 bkz erdoğanın internet omurgasından yeni bir data center kuracaz paylaşımı
 bkz damadın kırmızı beyin paylaşması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz damadın hoşlandığı kürt kızın kyk borcunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
