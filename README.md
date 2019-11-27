@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz 524 mhz altı müzik dinleyenlerin beyin işlevinin azalması
 bkz arabesk müzik dinleyenlerin düşük zekalı olması
 bkz eko deyince akla gelen ilk imgelem
 bkz imamoğlu deyince akla gelen ilk imgelem
