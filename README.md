@@ -3,7 +3,7 @@
  <!--https://www.uludagsozluk.com/e/42471638/ lol -->
  
  <!-- 
-iyi aklıma getirdin ben bunu doğuranın taaaaaaaaaaa....
+iyi aklıma getirdin ben bunu doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=vOZpy7Rk8H0
 https://www.uludagsozluk.com/k/atat%C3%BCrk-e-sayg%C4%B1-g%C3%B6sterin-deyip-erdo%C4%9Fan-a-s%C3%B6vmek/&w=gd -->
  
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
