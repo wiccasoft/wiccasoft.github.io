@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz slip don giyen erkek vs boxer giyen erkek
 bkz ülkücü bıyığı vırakan erkek vs kürt sakalı bırakan erkek
 bkz biskolata erkeği vs ülkücü erkeği
 bkz portakallı tarçınlı çikolatalı sos yapıp üstüne döküp yala beni diyen erkek
