@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz beyninin içi erkek dolu adamdan bi bok olmaz
+bkz beyninin içi erkek dolu kadından bi bok olmaz
 bkz damadın ben kadında beyine bakarım paylaşımı
 bkz albayrakın soğan cücüğü kadar beyniniz yok açıklaması
 bkz aşkım kyk borcu ne diyen erkek vs aşkım kyk borcunu ben ödeyeyim diyen erkek
