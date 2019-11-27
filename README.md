@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz damadın maliye.gov.tr ye kürtleri sokmaması
 bkz damadın kyk myk beni bağlamaz açıklaması
 bkz damadın paylaştığı kırmızı beyinden rahatsız olan kürtler
 bkz diyanet işleri nin paylaştığı rasputin kral adamdı paylaşımı
