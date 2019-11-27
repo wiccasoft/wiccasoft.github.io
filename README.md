@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz ali babacanın babacan tavırları siyaset dünyasına renk kattı
 bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
 https://www.haberturk.com/video/haber/izle/cumhurbaskani-erdogan-ile-imamoglu-arasinda-gulduren-diyalog/653600 
 ali babacanın babacan tavırları halkın sevgi seline neden oldu 
