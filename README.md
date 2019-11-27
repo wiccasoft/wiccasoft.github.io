@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+https://www.uludagsozluk.com/k/coni-sins-in-adam-gibi-adam-olmas%C4%B1/ eywallah bro
 bkz nihat gencin yaslılara saygı duymam demesi
 bkz bahceliden 2020 de beka sözü
 bkz mia khalifa nın pornoyu bırakıp evlenmesi
