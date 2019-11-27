@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz kenana imirzaliğlu tarafında saatlerce sikimek isteyen pasifler
 bkz türk dizilerinde kaş göz yapan erkekleri alfa bulan türk kızları
 bkz yere sümük atan adama alfa diyen yurdum pasif genci
 bkz pasiflerin barzolara alfa demesi sorunsalı
