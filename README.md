@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz berat albyrak kyk hakkında yaptığı basın toplantısı
 bkz berat albayrak kyk müjdesi
 bkz berat albayrak kyk borcu açıklaması
 bkz merve boğulur deyince aklıma hiç bişey gelmemesi aramaya üşenmek
