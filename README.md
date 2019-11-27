@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz inanmıyorsan saygı duyacaksın arkadaşım
 bkz ver yansın tv izlerken gaza gelip mehter marşı açmak
 bkz hurdacı kürt dayının kadir mısıroğlana saygı duyuyorum demesi
 bkz kadir mısıroğlan ın naim süleymanoğlan a saygı duymuyorum demesi
