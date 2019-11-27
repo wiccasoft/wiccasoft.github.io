@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz haluk deyince akla gelen ilk imge
 bkz burası çokommelli deyince akla gelen ilk isim
 bkz diyanet işleri nin paylaştığı rasputin kral adamdı paylaşımı
 bkz damadın beyni olan kyk almaz açıklaması https://www.youtube.com/watch?v=TA6y-oRT1w0
