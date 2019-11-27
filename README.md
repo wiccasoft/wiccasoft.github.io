@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz eğitim bakanlığının paylaştığı en iyi kürt ölü kürt öğrencidir paylaşımı
 bkz diyanet işleri nin paylaştığı imalı foto
 bkz ülkücü öğretmenler facebook grubunun paylaştığı imalı paylaşımı
 bkz erdoğanın internet omurgasından yeni bir data center kuracaz paylaşımı
