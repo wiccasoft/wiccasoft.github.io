@@ -3,15 +3,8 @@
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc )
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
- <!--
-bkz sert erkek vs alfa erkek
-bkz ay çok alfa ayol haşin erkek bi kere bakışları sert bi kere
-bkz maganda erkek tarafında dövülerek sikilmek isteyen garip yaratıklar
-bkz pasiflerin maganda erkek aşkı
-bkz kenan imirzaliğlu tarafında saatlerce sikimek isteyen pasifler
-bkz türk dizilerinde kaş göz yapan erkekleri alfa bulan türk kızları
-bkz yere sümük atan adama alfa diyen yurdum pasif genci
-bkz pasiflerin barzolara alfa demesi sorunsalı
+<!--
+bkz omega erkek vs alfa erkek
 bkz pasiflerdeki barzo erkek aşkı
 bkz hepsini toptan övdün canum evladum
 https://www.uludagsozluk.com/k/alfa-erkek-deyince-akla-gelen-ilk-ki%C5%9Fi/
