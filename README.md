@@ -2,7 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc )
 
-[![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
+[![Image](smartdata/itsnotrocketscience.png)]( https://www.youtube.com/watch?v=2q05iJ6jHu8  )
 <!--
 https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz hepsini toptan övdün canum evladum
