@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz https://www.uludagsozluk.com/e/42475752/ bkz aşkım aayaklarını da yıkayaım mi diyen erkek
 bkz bakir olmayan ülkücü erkek vs bakir olan ülkücü erkek
 bkz telefonu olmayan ülkücü erkek vs telefonu olan ülküsüz erkek
 bkz ben seni üzerim diyen erkek vs üzmem diyen erkek
