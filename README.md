@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz ay çok alfa ayol
 bkz maganda erkek tarafında dövülerek sikilmek isteyen garip yaratıklar
 bkz pasiflerin maganda erkek aşkı
 bkz kenan imirzaliğlu tarafında saatlerce sikimek isteyen pasifler
