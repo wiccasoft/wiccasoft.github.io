@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
 bkz nihat doğanın can yamana saygı duymuyorum açıklaması https://www.youtube.com/watch?v=B-emeManrfY
 bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
 bkz merve özbeyin can yamana inanmıyosan saygı göstereceksin demesi https://www.youtube.com/watch?v=H0760kGB-vw
@@ -19,7 +20,6 @@ bkz bilal erdoganin 2023 te dönüp cumhurbaşkanlığını devr alacam sözü h
 bkz kılıccioğlan ın sskyı batırıp ülkeden kaçma planları yapması
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana
 https://www.uludagsozluk.com/k/televizyonda-rte-%C3%A7%C4%B1k%C4%B1nca-yap%C4%B1lanlar/&w=gd
-bkz hala adıma başlık açılmamış bu demek oluyor ki doğru yoldayım
 bkz can yumoş kim diye aratmaya üşenmek
 bkz can yumoşu yakışıklı bulmayan erkek
 bkz rte nin imamaoğlanı tokat manyağı yapması
