@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
-bkz lonarda da messi deyince akla gelen ilk top
+bkz leonarda da messi deyince akla gelen ilk top
 bkz alfa deyince akla gelen ilk ışın
 bkz dünya lideri deyince akla gelen ilk isim
 bkz burası çokommelli deyince akla gelen ilk isim
