@@ -1,5 +1,8 @@
 [![Image](smartdata/Screenshot_2019-11-27_04-42-08.png)]( https://www.youtube.com/watch?v=LRFWb1gZu1M )
 
+
+[![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc )
+
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
 https://www.uludagsozluk.com/e/42471638/ lol
