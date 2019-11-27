@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
+bkz zeki deyince akla müren balığı gelmesi
 bkz vergi dairesi deyince akla devlet binası gelmesi
 bkz burası çokomelli deyince akla nutella gelmesi
 bkz çokomelli deyince akla gelen ilk bakan
