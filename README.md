@@ -8,6 +8,7 @@
 https://www.youtube.com/watch?v=ovvCdyz7JnI
 https://www.uludagsozluk.com/e/42471638/ 
 https://www.uludagsozluk.com/e/42472703/
+bkz nihat sırdar ın nihat genç e verdiği ayar https://www.youtube.com/watch?v=Mw8NR6p8gyI
 bkz merve özbeyin can yamana inanmıyosan saygı göstereceksin demesi https://www.youtube.com/watch?v=H0760kGB-vw
 bkz nihat genç in haluk bilgineri yalamam demesi https://www.youtube.com/watch?v=ndlChldbRIE
 bkz aralarından su sızmadı https://www.youtube.com/watch?v=-AdnJiuDGVU
