@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
+<!-- bkz ekşiciler resmi devlet hesaplarını takip ediniz tc devletiyse hiç bir alakm yoktur -->
 <!-- bkz ekşicilerin sabah beni diyanet işleri bakanı sanması olayı -->
 <!-- bkz ekşicilerin akşam beni tc cumhurbaşkanlığı sanması olayı -->
 <!-- bkz ekşicilerin akşam üstü beni tc maliye bakanlığı sanması olayı -->
