@@ -5,8 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz 
-bkz berat albayrakın paylaştığı beyin resmi
+bkz berat albayrakın paylaştığı beyni olan kyk almaz paylaşımı
 bkz eğitim bakanın paylaştığı en iyi kürt öğrenci ölü kürt öğrencidir imalı paylaşım
 bkz diyanet işleri nin paylaştığı rasputin kral adamdı paylaşımı
 bkz erdoğanın internet omurgasından yeni bir data center kuracaz paylaşımı
