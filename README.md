@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz abdurrahim deyince akla gelen ilk şey
 bkz bahçeli deyince akla gelen ilk imge
 bkz leo deyince akla gelen ilk imge
 a)leo messi 
