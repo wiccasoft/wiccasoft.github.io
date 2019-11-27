@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz gülün haluk a layt erkeği demesi
+bkz davutoğlunun haluk a layt erkeği demesi
 bkz ver yansın tv izlemiyoruz kampanyası
 bkz nihat doğanın türkçülere küfretmesi 
 bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
