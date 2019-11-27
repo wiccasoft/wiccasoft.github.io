@@ -7,7 +7,7 @@
 bkz naim süleymanoğlun 320 kilo silkerken taytından fırlayan taşşakları
 bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
-bkz saraydan kaçak elektrik çeken kürtlere laf etmeyen kamalcılar
+bkz saraydan kaçak elektrik çeken kürtlere laf etmeyen kamalcılar https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz layt selaminin haluka saygı duyması
 bkz fatih terimin alex e saygı duyuyorum demesi
 https://www.uludagsozluk.com/k/coni-sins-in-adam-gibi-adam-olmas%C4%B1/ eywallah bro
