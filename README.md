@@ -13,8 +13,8 @@ bkz nihat genç in haluk bilgineri yalamam demesi https://www.youtube.com/watch?
 bkz aralarından su sızmadı https://www.youtube.com/watch?v=-AdnJiuDGVU
 bkz imamaoglu nun saf tutması https://www.youtube.com/watch?v=ssrTMAW7mIo
 bkz bilal erdoganin gümbür gümdür geldiği gerçeği https://www.youtube.com/watch?v=2H853-L2oRg
-bkz bilal erdoganin 2023 te dönüp cumhurbaşkanlığını devr alacam sözü https://www.youtube.com/watch?v=dZxZjk6QOG8
-bkz kılıccioğlan ın sskyı batırıp ülkeden kaçma planları yapması
+bkz billa edogan 2023 te dönüp cumhurbaşkanlığını devr alacam sözü https://www.youtube.com/watch?v=dZxZjk6QOG8
+bkz ez oglim https://www.youtube.com/watch?v=2V7jLQgW4mk
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz istanbul çok hojdır ama benana
 -->
  
