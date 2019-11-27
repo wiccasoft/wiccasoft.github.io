@@ -4,7 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
-bkz alfa erkek tarafında dövülerek sikimek isteyen garip yaratıklar
+bkz maganda erkek tarafında dövülerek sikilmek isteyen garip yaratıklar
 bkz pasiflerin maganda erkek aşkı
 bkz kenan imirzaliğlu tarafında saatlerce sikimek isteyen pasifler
 bkz türk dizilerinde kaş göz yapan erkekleri alfa bulan türk kızları
