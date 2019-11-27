@@ -4,19 +4,6 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- 
-bkz haluk leventin haluk kırcıyı savunmasına ses etmeyen kamalcılar
-bkz fan boyların bokunu çıkarması https://www.youtube.com/watch?v=-371LmCinrY
-bkz ısrar etme canım hepsini övdüm https://www.youtube.com/watch?v=-371LmCinrY
-https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz hepsini toptan övdüm canum evladum
-bkz gama erkek vs sigma erkek 
-bkz omega erkek vs alfa erkek 
-bkz davutoğlunun haluk a layt erkeği demesi
-bkz ver yansın tv izlemiyoruz kampanyası
-bkz nihat doğanın türkçüleri övmesi
-bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
--->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
