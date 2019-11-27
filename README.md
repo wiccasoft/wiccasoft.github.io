@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz çin malı telefon alan ülkücü erkek vs amerikan malı alan kürtçü erkek
 bkz bakir erkek vs bakir olmayan erkek
 bkz fatih portakal vs fatih terim
 bkz beyninin içine tek erkek sığdırabilen kadın kadındır
