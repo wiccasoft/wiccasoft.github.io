@@ -4,7 +4,9 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- bkz nihat doğanın türkçülere küfretmesi 
+<!-- 
+bkz ver yansın tv izlemiyoruz kampanyası
+bkz nihat doğanın türkçülere küfretmesi 
 bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
 -->
 
