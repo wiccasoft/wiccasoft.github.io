@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+https://www.uludagsozluk.com/k/orhan-gencebay-vs-ferdi-tayfur-vs-m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
 bkz haluk deyince akla gelen üç erkek
 bkz haluk leventi sevmek zorunda mıyım diyen erkek
 bkz haluk seni seviyorsa sende haluk sevmelisin diyen erkek
