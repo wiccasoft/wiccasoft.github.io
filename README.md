@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz leo deyince akla gelen ilk isim 
-a)leonardo di caprio
-b)leo messi 
+a)leo messi 
+b)leonardo di caprio
 c)leonardo da vinci
 bkz sende çocuğum olsun istiyorum deyince akla gelen ilk mardinli
 bkz senin versinler ellere bana kurşunlar deyince akla gelen ilk kişi
