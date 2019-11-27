@@ -4,8 +4,8 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-
-<!-- bkz ekşiciler devlet ben değilim resmi sosyal medya hesaplarını takip edin başımı belaya sokmayın -->
+<!-- ekşicilerin devlet diyer beni takip etmesi komedisi :))))) -->
+<!-- bkz ekşiciler devlet ben değilim resmi sosyal medya hesaplarını takip edin -->
 <!-- bkz ekşicilerin sabah beni diyanet işleri bakanı sanması olayı -->
 <!-- bkz ekşicilerin akşam beni tc cumhurbaşkanlığı sanması olayı -->
 <!-- bkz ekşicilerin akşam üstü beni tc maliye bakanlığı sanması olayı -->
