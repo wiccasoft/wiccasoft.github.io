@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!--
 bkz vergi dairesi deyince akla devlet binası gelmesi
-bkz burası çokomelli deyince akla damadın gelmemesi
+bkz burası çokomelli deyince akla nutella gelmesi
 bkz çokomelli deyince akla gelen ilk bakan
 bkz kyk deyince akla hep ekşcilerin gelmesi
 bkz evlat olsa sevilmez deyince akla gelen ilk ekşici
