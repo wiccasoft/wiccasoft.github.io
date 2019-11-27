@@ -1,8 +1,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
- <!--https://www.uludagsozluk.com/e/42471638/ lol -->
- 
- <!-- 
+ <!--
+https://www.uludagsozluk.com/e/42471638/ lol
 iyi aklıma getirdin ben bunları doğuranın taaaaaaaaaaa.... https://www.youtube.com/watch?v=ABDKQ_S1xDk
 https://www.uludagsozluk.com/k/atat%C3%BCrk-e-sayg%C4%B1-g%C3%B6sterin-deyip-erdo%C4%9Fan-a-s%C3%B6vmek/&w=gd -->
  
