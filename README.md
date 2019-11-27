@@ -4,6 +4,8 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+bkz saraydan kaçak elektrik çeken kürtlere laf etmeyen kamalcılar
+bkz layt semainin puşt gibin kaçak doğalgaz kullanması
 bkz layt selmainin haluka saygı duyması
 bkz fatih terimin alex e saygı duymuyorum demesi
 https://www.uludagsozluk.com/k/coni-sins-in-adam-gibi-adam-olmas%C4%B1/ eywallah bro
