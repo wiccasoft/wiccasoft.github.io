@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz cep herkülü deyince aklınıza gelen ilk şey
 bkz burası çokomelli deyince aklınıza gelen ilk şey
 bkz hulusi deyince aklınıza akan ilk isim
 bkz berat deyince akla gelen ilk şey
