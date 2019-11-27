@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz teröre 2020 de sıfır çekecem diyince akla gelen ilk kişi
 bkz beka reis deyince akla gelen ilk kişi
 bkz penis yüzüğü deyince akla gelen ilk kişi
 bkz kaslara çikolota sürmek deyince akla gelen ilk erkek
