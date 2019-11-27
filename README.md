@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
 bkz haluk leventin haluk kırcıyı savunmasına ses etmeyen kamalcılar
-bkz fan boyların bokunu çıkarması
-bkz ısrar etme canım hepsini övdüm
+bkz fan boyların bokunu çıkarması https://www.youtube.com/watch?v=-371LmCinrY
+bkz ısrar etme canım hepsini övdüm https://www.youtube.com/watch?v=-371LmCinrY
 https://www.youtube.com/watch?v=LTs9MH0Ny-k
 bkz hepsini toptan övdüm canum evladum
 bkz gama erkek vs sigma erkek 
