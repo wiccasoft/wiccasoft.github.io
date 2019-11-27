@@ -4,9 +4,10 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
 <!--
-bkz gama erkek vs alfa erkek
+bkz gama erkek vs sigma erkek
 bkz omega erkek vs alfa erkek
 bkz pasiflerdeki barzo erkek aşkı
+bkz türk dizilerinde kaş göz yapan erkekleri alfa sanmak
 bkz hepsini toptan övdün canum evladum
 https://www.uludagsozluk.com/k/alfa-erkek-deyince-akla-gelen-ilk-ki%C5%9Fi/
 https://www.uludagsozluk.com/k/karpuz-almayan-kocaya-k%C4%B1z%C4%B1p-mangalc%C4%B1ya-ka%C3%A7an-kad%C4%B1n/
