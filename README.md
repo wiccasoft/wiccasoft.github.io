@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz 524 mhz deyince aklınzda imgelenen şey
 bkz gözlerinizi kapatın ahmet dediğim zaman ne imgelendiğini söyleyin
 bkz ahmet deyince aklınıza ilk imgelenen resim
 bkz bora deyince aklınıza gelmeyen erkek
