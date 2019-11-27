@@ -4,11 +4,13 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- bkz imamaoğlu erdoğan arasında güldüren diyalog kameralara böyle yansıdı -->
-<!-- https://www.haberturk.com/video/haber/izle/cumhurbaskani-erdogan-ile-imamoglu-arasinda-gulduren-diyalog/653600 -->
-<!-- ali babacanın babacan tavırları halkın sevgi seline neden oldu -->
-<!-- ali babacan ben sizin babanızım ben ne dersem o olur dedi  https://www.youtube.com/watch?v=4RpMzsA1VOw-->
-<!-- nihat genç ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY -->
+
+<!-- 
+bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
+https://www.haberturk.com/video/haber/izle/cumhurbaskani-erdogan-ile-imamoglu-arasinda-gulduren-diyalog/653600 
+ali babacanın babacan tavırları halkın sevgi seline neden oldu 
+erdoğan istanbul çok hojdır dedi  https://www.youtube.com/watch?v=4RpMzsA1VOw
+nihat genç ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY
 <!-- imamoğlu namazda erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
