@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42471638/
 https://www.uludagsozluk.com/e/42472703/
 bkz türkiye batarken önce farelerin kaçması
 bkz bahcelinin kılışdara verdiği ayar
+bkz 41 yaşında ilişki istemeyen erkek 22 yaşında ilişki isteyen kız ilişkisi
 bkz 41 yaşında erkek 19 yaşında sivilceli kız ilişkisi
 bkz rte nini 2020 de teöröre sıfır çekecez inlerinde girecez sözü
 bkz 41 yaşında ülkeden kaçmış erkek vs koca götlü ergen türk kızı ilişkisi
