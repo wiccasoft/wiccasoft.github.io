@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42471638/
 https://www.uludagsozluk.com/e/42472703/
 bkz türkiye batarken önce farelerin kaçması
 bkz imamoğlan nın yasin okuması
+bkz aşkım diyen erkek vs aşkım demeyen erkek
 bkz halil inancıkın halil inamacık a götelek demesi
 bkz ido tatlısesin babasını savunması
 bkz duydusal erkek vs duygusalmayan erkek
