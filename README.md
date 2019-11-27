@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz duygusal deyince akla gelen ilk erkek
 bkz beyni yok fikri var diyince akla gelen ilk erkek
 bkz 524 mhz deyince aklınızda imgelenen ilk imge
 bkz ahmet deyince aklınıza ilk imgelenen resim
