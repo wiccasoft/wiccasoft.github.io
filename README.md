@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
-https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ akp den babacana yanıt gecikmedi
-https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853
+https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ akp den babacana yanıt gecikmedi tıkla
+https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853  tıkla kankağ çok komiğ
 https://www.uludagsozluk.com/k/muharrem-isimli-erkekle-sevgili-olmak/ 
 https://www.yenisafak.com/video-galeri/gundem/kilicdaroglu-ince-atismasi-sosyal-medyayi-salladi-2179895
 bkz bahceli babacan davutoğlan görüşmesine olumlu baktığını iletti
