@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+https://www.tccb.gov.tr/kabine/hazine-ve-maliye-bakani albayrak ın gülümseyen yüzü halkı bir nebze olsun gülümsetti
 berat albayrak çokomelli açıklamalard bulundu tıkla https://www.haberturk.com/berat-albayrak-kimdir
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ akp den babacana yanıt gecikmedi tıkla
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853  tıkla kankağ çok komiğ
