@@ -1,3 +1,5 @@
+
+ [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
 
