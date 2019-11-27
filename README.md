@@ -5,7 +5,6 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz fatih sultan mehmetin karadan yürüdüğü yalanı
 bkz biskolata erkeği vs ülkücü erkeği
 bkz portakallı tarçınlı çikolatalı sos yapıp üstüne döküp yala beni diyen erkek
 bkz bakir olmayan ülkücü erkek vs bakir olan ülkücü erkek
