@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz gözleriniz kapatın ahmet dediğim zaman ne imgelendiğini söyleyin
+bkz gözlerinizi kapatın ahmet dediğim zaman ne imgelendiğini söyleyin
 bkz ahmet deyince aklınıza ilk imgelenen resim
 bkz bora deyince aklınıza gelmeyen erkek
 bkz neşet deyince akla gelen ilk erkek
