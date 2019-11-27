@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz orhan bence gay dinleyen kamyon şöförü
+bkz orhan bence gay dinleyen astronot
 bkz fatih altaylı vs fatih terim vs fatih tezcan vs fatih sultan mehmet
 bkz müslüm ibo izzet alişan vs haluk
 bkz haluk deyince akla gelen üç erkek
