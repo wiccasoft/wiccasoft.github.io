@@ -8,12 +8,12 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 bkz fan boyların bokunu çıkarması
 bkz ısrar etme canım hepsini övdüm
 https://www.youtube.com/watch?v=LTs9MH0Ny-k
-bkz hepsini toptan övdün canum evladum
+bkz hepsini toptan övdüm canum evladum
 bkz gama erkek vs sigma erkek 
 bkz omega erkek vs alfa erkek 
 bkz davutoğlunun haluk a layt erkeği demesi
 bkz ver yansın tv izlemiyoruz kampanyası
-bkz nihat doğanın türkçülere küfretmesi 
+bkz nihat doğanın türkçüleri övmesi
 bkz nihat gencin yaşlılara verdiği ayar https://www.youtube.com/watch?v=B-emeManrfY
 -->
 
