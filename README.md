@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz damasdın hoşlandığı kızın kyk borcuunu silmesi ekşicininkini silmemesi https://www.youtube.com/watch?v=ktmzyChfPmk
+bkz damadın hoşlandığı kürt kızın kyk borcuunu silmesi  https://www.youtube.com/watch?v=ktmzyChfPmk
 -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
