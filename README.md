@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=6fisto7CrRk yav he he
 bkz yetişkin bir akpli ye türkiyenin battığını anlatmak
 https://www.sozcu.com.tr/2018/ekonomi/butceyi-sigara-ve-icki-de-kurtarmadi-2804262/
 https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
+https://www.uludagsozluk.com/k/istiklal-mar%C5%9F%C4%B1na-sayg%C4%B1s%C4%B1zl%C4%B1k-yapan-tarikat%C3%A7%C4%B1lar/&w=gd
+istiklal marşınıza sokayım senin rte çakması tangır budun doğan
 -->
  
 [![Image](smartdata/Screenshot_2019-11-26_15-55-05.png)]( https://www.youtube.com/watch?v=kAGU0__47vI )
