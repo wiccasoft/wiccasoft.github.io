@@ -5,7 +5,10 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
-bkz leo deyince akla gelen ilk isim leonardo di caprio mu messi mi
+bkz leo deyince akla gelen ilk isim 
+a)leonardo di caprio
+b)leo messi 
+c)leonardo da vinci
 bkz sende çocuğum olsun istiyorum deyince akla gelen ilk mardinli
 bkz senin versinler ellere bana kurşunlar deyince akla gelen ilk kişi
 bkz sen kimsin ya deyince akla gelen ilk kişi
