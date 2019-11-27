@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz damadın ben kadın da beyine bakarım açıklaması
 bkz damadın kürtlerin kyk hakkında kararname hakkını imzalamaması
 bkz karısının kyk borcunu ödemeyen ruhsuz ve duygusuz erkek
-bkz damadın ben kadın da beyine bakarım açıklaması
 bkz kızına duygu ismini koyan duygusal baba
 bkz duygusal erkek vs duygusalmayan erkek
 bkz rte nin perdelerimi kaldırdığımda kedi gibi duygusalım açıklaması
