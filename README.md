@@ -4,6 +4,7 @@
 
 [![Image](smartdata/itsnotrocketscience.png)](  https://www.youtube.com/watch?v=gcZPWkNY6x8 )
  <!--
+https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/
 bkz saraydan kaçak elektrik çeken kürtlere laf etmeyen kamalcılar
 bkz layt selaminin haluka saygı duyması
 bkz fatih terimin alex e saygı duyuyorum demesi
