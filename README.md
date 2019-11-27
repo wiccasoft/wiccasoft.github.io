@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz fatih portakal vs fatih terim
 bkz beyninin içine tek erkek sığdırabilen kadın kadındır
 bkz iki erkeği karşılaştıran kadından da cacık olmaz
 bkz beyninin içi erkek dolu kadından bi bok olmaz
