@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/e/42471638/
 https://www.uludagsozluk.com/e/42472703/
 bkz türkiye batarken önce farelerin kaçması
 bkz imamoğlan nın yasin okuması
+bkz duydusal erkek vs duygusalmayan erkek
 bkz re ce tay yi er do van  re ce  tay yi er do van
 bkz rte nin ülkeyi 17 sene de batırması
 bkz ez oglim https://www.youtube.com/watch?v=2V7jLQgW4mk
