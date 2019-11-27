@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- 
+bkz fatih deyince akla gelen ilk erkek
 bkz beynini kullanan erkek vs kullanmayan erkek
 bkz arabesk rap yapan erkek vs arabesk yapan erkek
 bkz orhan bence gay dinleyen astronot
