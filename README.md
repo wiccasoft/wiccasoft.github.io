@@ -8,7 +8,9 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- 
 bkz brainstorm
 bkz üst akıl oyunları
-bkz rte nin kobani hamlesi ne olur sorunalı
+bkz rte nin s400 hamlesi n olur sorunsalı
+bkz erdogan s 400 leri kullanabiliriz derken ne demek istedi sorunsalı
+https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
 bkz ya osmanlı dönmezse ne olacak sorunsalı
 bkz osmanlı dönerse ne olacak sorunsalı https://www.youtube.com/watch?v=dZxZjk6QOG8
 https://www.uludagsozluk.com/k/osmanl%C4%B1-geri-gelse-kim-padi%C5%9Fah-olacak-sorunsal%C4%B1/
