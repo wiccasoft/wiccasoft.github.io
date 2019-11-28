@@ -5,14 +5,6 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
-<!-- osmanlı gelirse kim şey olacak sorunsalı ali babacan bilocan recepcan 
-     bkz ya osmanlı geri gelmezse sorunsalı 
-     bkz fatih sultan mehemet karadan yürüttü yalanı
-     bkz 2023 te bilal erdoğan ın bomba gibi geleceği gerçeği
-https://www.uludagsozluk.com/e/42476992/ bkz sikerler aga hepmizi sikerler
-     bkz arınç yeni parti kurarsa kimle ittifak kurar sorunsalı
--->
-
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
 [![Image](smartdata/Screenshot_2019-11-27_07-50-42.png)]( https://www.youtube.com/watch?v=-371LmCinrY ) 
