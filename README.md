@@ -379,47 +379,14 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](almanac/Global_Seed_Vault.jpg)](https://www.seedvault.no/)
 
 
-<div class="video-container">
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/born-to-bounce&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>
-
-[![Image](almanac/erdogan-grip.png)](https://www.theguardian.com/world/2019/apr/01/erdogan-party-loses-ankara-in-turkish-local-elections-blow)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/302431286" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
-
-
-[![Image](almanac/imamoglu.png)](https://www.theguardian.com/world/2019/apr/02/ekrem-imamoglu-unifying-political-force-to-take-on-erdogan-istanbul)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/301396956" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
 [![Image](almanac/march23-vernal-equinox.png)](https://www.timeanddate.com/calendar/spring-equinox.html)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/283181724" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 [![Image](almanac/autec.png)](https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center#/media/File:AUTEC_from_the_air.jpg)
-
-<!--
-<div class="video-container">
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/wicca&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>-->
 
 [![Image](almanac/where-bias-lies.png)](https://www.youtube.com/watch?v=wLEGfnxMPfc)
 
 [![Image](web5.0/mateX.png)](https://www.youtube.com/watch?v=01SXLx0MOTs)
-
-
-
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/308978947" frameborder="0" allowfullscreen></iframe>
-</div>-->
 
 
 [![Image](appstores/windows-appstore-before-packing.png)](https://www.youtube.com/watch?v=mWvdsMwnGmM)
@@ -482,11 +449,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](bsd/brain.png)](http://giselebundchen.com/)
 
 [![Image](almanac/spain-tax.png)](https://www.theguardian.com/football/2019/jan/22/ronaldo-fine-tax-fraud-case-madrid)
-<!--
-<div class="video-container">
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com//wiccasoft/canda&color=%239c9c9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</div>-->
-
 
 [![Image](bsd/total-lunar-eclipse-21.1.19.png)](https://www.bbc.com/news/world-us-canada-46943592)
 
@@ -524,23 +486,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](us-shutdown.png)](https://www.theguardian.com/us-news/2019/jan/14/trump-says-he-will-devastate-turkey-economically-if-it-attacks-kurds?CMP=twt_a-world_b-gdnworld)
 
 
-[![Image](economy.png)](https://www.bbc.com/news/world-46866661)
-
-
-[![Image](turkey-over-kurds.png)](https://www.bbc.com/news/world-europe-46860902)
-
-
-[![Image](ces.png)](https://www.bbc.co.uk/news/technology-46790015)
-
-
-[![Image](712019.png)](https://www.bbc.com/news/world-asia-46773504)
-
-
-
-[![Image](icy.png)](https://www.bbc.co.uk/news/world-asia-china-46769610)
-
-
-
 
 [![Image](epiphany+solar-clipse.png)](https://www.timeanddate.com/eclipse/solar/2019-january-6)
 
@@ -572,7 +517,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 
 [![Image](etna.png)](https://www.bbc.com/news/av/world-europe-46689502/mount-etna-aerial-footage-shows-damage-from-italy-quakes)
-
 
 
 
@@ -641,11 +585,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](fuel-protests.png)](https://www.bbc.com/news/world-europe-46233560)
 
 ![Image](nt5.0.png)
-
-[![Image](inspiring.png)](http://thefappeningblog.com/seyma-subasi-sexy-17-photos/)
-
-
-![Image](Ballond'Or.png)
 
 [![Image](pringles.png)](https://www.youtube.com/watch?v=5avdB-w1Tqk)
 
