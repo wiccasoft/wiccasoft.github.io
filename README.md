@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
-bkz şaka maka osmanlının bomba gibi geleceği gerçeği https://www.youtube.com/watch?v=2H853-L2oRg
+bkz bilalin 3 hilal tekniğiyle geri dönmesi  https://www.youtube.com/watch?v=2H853-L2oRg
 bkz ali babacan gelince ak itlerin susması
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/
 bkz ali babacanın bomba gibi geldiği gerçeği  https://www.youtube.com/watch?v=Q0YpfEB5w6c
