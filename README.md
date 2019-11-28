@@ -8,7 +8,6 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- bkz ibb ye ibne sevici diyen akp li -->
 <!-- bkz oktay kaynarca alfa erkek mi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=aeytLBm62eo sıfırladım bıbıcım -->
-<!-- https://www.youtube.com/watch?v=MuWwCUXGzWE bkz götümden ayrılmayan ulucu bebelerle taşşak geçmek  -->
 <!-- https://www.youtube.com/watch?v=MuWwCUXGzWE bkz ulucuların burnunu patates sokmak -->
 <!-- william shakespeare vs nietcshe vs dostoyevski-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs erdogan-->
