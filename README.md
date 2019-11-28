@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
-bkz bülent arınç polemiğe giremem dedi
+bkz bülent arınç babacan akp arasındaki polemiğe giremem dedi
 bkz ali babacana akp den yanıt gecikmedi
 bkz nihat genç ver haluk selami kavgasına ver yansın etti
 bkz recep tayyip erdoğan damadıyla gurur duyduğunu iletirken beline kuvvet damadımın dedi
