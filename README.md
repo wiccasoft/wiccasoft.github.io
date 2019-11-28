@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 
 <!-- 
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/
-bkz ali babacanın bomba gibi geldiği gerçeği 
+bkz ali babacanın bomba gibi geldiği gerçeği  https://www.youtube.com/watch?v=Q0YpfEB5w6c
 -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
