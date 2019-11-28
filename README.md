@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- bkz 41 yaşında ölü babasından harçlık alan cerrahpaşalı -->
 <!-- bkz şuruğp gibiyim şuruğp turup gibiyim turup -->
 <!-- bkz ulucuların wiccasoft u tokat manyağı yapması -->
-<!-- bkz ajdar anık ın alihanda yediği tokat https://www.youtube.com/watch?v=Ooru55prkC0-->
+<!-- bkz ajdar anık ın alihandan yediği tokat https://www.youtube.com/watch?v=Ooru55prkC0-->
 <!-- william shakespeare vs nietcshe vs dostoyevski-->
 <!-- https://www.uludagsozluk.com/k/izzet-y%C4%B1ld%C4%B1zhan-%C4%B1n-giydi%C4%9Fi-sar%C4%B1-ceket/-->
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
