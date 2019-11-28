@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz imamaoğlu ibb 5. olağan toplantısını açtı
 https://www.youtube.com/watch?v=a3uu43HjhfY bkz vergi konseyi 134. kurulu halkın yüreğini ferahlattı
 bkz bi gülüşü var sanırsın güneş doğuyor https://www.tccb.gov.tr/kabine/hazine-ve-maliye-bakani 
 bkz albayrak ın gülümseyen yüzü halkı bir nebze olsun gülümsetti
