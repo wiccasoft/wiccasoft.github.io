@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- https://www.youtube.com/watch?v=fR9ZLJo6Pc4 inceye verdiğim ayar -->
+<!-- https://www.youtube.com/watch?v=fR9ZLJo6Pc4 inceye verdiğim kalın ayar -->
 <!-- bkz oktay itinin her şeye kaynaması -->
 <!-- bkz oktay kaynarca nın cerrahpaşlılardan it gibi korkması -->
 <!-- bkz cerrahpaşalı halitin racon kesmiyorum kafa kesiyorum demesi -->
