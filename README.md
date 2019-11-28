@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
+<!-- bkz götümden ayrılmayan ulucularla taşşak geçmek ttps://www.youtube.com/watch?v=MuWwCUXGzWE-->
 <!-- https://www.youtube.com/watch?v=MuWwCUXGzWE bkz ulucuların burnunu patates sokmak -->
 <!-- william shakespeare vs nietcshe vs dostoyevski-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs erdogan-->
