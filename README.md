@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- william shakespeare vs nietcshe vs dostoyevski-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs erdogan-->
 <!-- https://www.youtube.com/watch?v=GPa85nu0-ho çakır seferiliğini ilan ediyor -->
-<!-- bkz 41 yaşında ölü babasından harçlık alan insan -->
+<!-- bkz 41 yaşında ölü babasından harçlık alan cerrahpaşalı -->
 <!-- bkz şuruğp gibiyim şuruğp turup gibiyim turup -->
 <!-- bkz ulucuların wiccasoft u tokat manyağı yapması -->
 <!-- bkz ajdar anık ın alihanda yediği tokat https://www.youtube.com/watch?v=Ooru55prkC0-->
