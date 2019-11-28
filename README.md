@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
-<!-- bkz bilala erdoğan 2023 te başbakan olma sinyallerini şimdiden yakması
+<!-- bkz bilal erdoğan 2023 te başbakan olma sinyallerini şimdiden yakması bkz osmanlı torunu
      bkz şaka maka bilal erdoğanın 2023 te gümbür gümbür geleceği gerçeği
      bkz ya erdoğan ali babacan ın bi oyunuysa sorunsalı 
      bkz kurtuluş osmanlı dizisinde babacan erdoğan göndermesi yapılan sahne
