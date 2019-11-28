@@ -11,7 +11,7 @@ bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdo�
 bkz recep tayyip erdoğanın attığı tweete trumpın esprili yanıtı sosyal medya da sıcak bir hava estirdi
 bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
 imamoğlu erdoğanla aynı safta yeraldı ahanda linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
-bkz erdogan s-400leri 2020 de kullanırım dedi
+bkz erdogan s-400leri 2020 de kullanırım dedi  https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
 https://www.sozcu.com.tr/2019/gundem/son-dakika-ibb-baskani-imamoglu-canli-yayinda-sorulari-cevapliyor-5476893/
 https://www.youtube.com/watch?v=a3uu43HjhfY bkz vergi konseyi 134. kurulu halkın yüreğini ferahlattı
