@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!--
+bkz erdogan s-400leri 2020 de kullanırım dedi  https://www.youtube.com/watch?v=TA6y-oRT1w0
+https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245
 bkz ali babacan gelince it gibi dağılan ak itler https://www.youtube.com/watch?v=B-emeManrfY
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ 
 bkz şaka maka ali babacanın bomba gibi gelmesi https://www.youtube.com/watch?v=8f78z5Rd1nE 
