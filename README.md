@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz osmanlı dönerse ne olacak sorunsalı https://www.youtube.com/watch?v=dZxZjk6QOG8
+https://www.uludagsozluk.com/k/osmanl%C4%B1-geri-gelse-kim-padi%C5%9Fah-olacak-sorunsal%C4%B1/ bkz bilal
 bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdoğanı gülümsetti
 bkz bilalin 3 hilal tekniğiyle geri dönmesi  https://www.youtube.com/watch?v=2H853-L2oRg
 bkz ali babacan gelince ak itlerin çil yavrusu gibi dağılması
