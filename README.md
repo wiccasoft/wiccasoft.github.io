@@ -4,7 +4,8 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-<!-- bkz oktay kaynarca nın racon kesmiyorum kafa kesiyoprum demesi -->
+<!-- bkz cerrahpaşalı halitin racon kesmiyorum kafa kesiyorum demesi -->
+<!-- bkz oktay kaynarca nın cerrahpaşlılardan it gibi korkması -->
 <!-- bkz ibb nin ibne gigibin puşt gibin bişey olması -->
 <!-- bkz ibb ye ibne sevici diyen akp li -->
 <!-- bkz oktay kaynarca alfa erkek mi sorunsalı -->
