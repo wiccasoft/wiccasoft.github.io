@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz recep tayyip erdoğanın damadıyla gurur duyduğunu söyledi
 bkz imamogluyla albayrakın ingilizce işletme okumaları aralarında sıcak sohbetlere sebep oldu
 bkz erdogan s-400leri 2020 de kullanırım dedi
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
