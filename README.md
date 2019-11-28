@@ -6,7 +6,6 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- ,
-bkz erdoğan paraları sıfırlarsam bi terör operasyonu çakarız dedi
 bkz erdogan s-400leri 2020 de kullanırım dedi
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
 https://www.sozcu.com.tr/2019/gundem/son-dakika-ibb-baskani-imamoglu-canli-yayinda-sorulari-cevapliyor-5476893/
