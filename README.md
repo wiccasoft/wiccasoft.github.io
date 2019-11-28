@@ -5,13 +5,6 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
-<!-- bkz devletlümüz abdulhamid dizisi
-     bkz şaka maka bilal erdoğanın 2023 te gümbür gümbür geleceği gerçeği bkz osmanlı nın geri dönmesi
-     bkz bilala erdoğan geliyor diye it gibi korkan kürtler
-     bkz ya erdoğan ali babacan ın bi oyunuysa sorunsalı 
-     bkz kurtuluş osmanlı dizisinde babacan erdoğan göndermesi yapılan sahne
--->
-
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
 [![Image](smartdata/Screenshot_2019-11-27_07-50-42.png)]( https://www.youtube.com/watch?v=-371LmCinrY ) 
