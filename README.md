@@ -4,7 +4,16 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
-
+<!-- https://www.youtube.com/watch?v=fR9ZLJo6Pc4 inceye verdiğim ayar -->
+<!-- bkz oktay itinin her şeye kaynaması -->
+<!-- bkz oktay kaynarca nın cerrahpaşlılardan it gibi korkması -->
+<!-- bkz cerrahpaşalı halitin racon kesmiyorum kafa kesiyorum demesi -->
+<!-- bkz ibb nin ibne gigibin puşt gibin bişey olması -->
+<!-- bkz ibb ye ibne sevici diyen akp li -->
+<!-- bkz oktay kaynarca alfa erkek mi sorunsalı -->
+<!-- https://www.youtube.com/watch?v=aeytLBm62eo sıfırladım bıbıcım -->
+<!-- https://www.youtube.com/watch?v=MuWwCUXGzWE bkz ulucuların burnunu patates sokmak -->
+<!-- william shakespeare vs nietcshe vs dostoyevski-->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
