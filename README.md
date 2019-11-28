@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 
 <!-- 
 bkz ali babacana akp den yanıt gecikmedi
+bkz wiccasoft haber botum varken niye elle haber linki giriyorum dedi
 bkz bülent arınç babacan akp arasındaki polemiğe giremem dedi
 bkz nihat genç ver haluk selami kavgasına ver yansın etti
 bkz erdoğan damadıyla gurur duyduğunu iletirken beline kuvvet damadımın dedi
