@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- osmanlı gelirse kim şey olacak sorunsalı ali babacan bilocan recepcan 
-     bkz ya osmanlı geri gelmezse sorunsalı -->
+     bkz ya osmanlı geri gelmezse sorunsalı 
+     bkz fatih sultan mehemet karadan yürüttü yalanı
+-->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
