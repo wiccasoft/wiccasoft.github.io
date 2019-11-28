@@ -6,9 +6,11 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs erdogan-->
 <!-- https://www.youtube.com/watch?v=GPa85nu0-ho çakır seferiliğini ilan ediyor -->
-<!-- bkz 41 yaşında ölü babasından harçlık alan insn -->
-<!--bkz ajdar anık ın alihanda yediği tokat https://www.youtube.com/watch?v=Ooru55prkC0-->
+<!-- bkz 41 yaşında ölü babasından harçlık alan insan -->
+<!-- bkz şururp gibiyim şurupğ turup gibiyim turup -->
+<!-- bkz ajdar anık ın alihanda yediği tokat https://www.youtube.com/watch?v=Ooru55prkC0-->
 <!-- william shakespeare vs nietcshe vs dostoyevski-->
+<!-- https://www.uludagsozluk.com/k/izzet-y%C4%B1ld%C4%B1zhan-%C4%B1n-giydi%C4%9Fi-sar%C4%B1-ceket/-->
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
 [![Image](smartdata/Screenshot_2019-11-27_07-50-42.png)]( https://www.youtube.com/watch?v=-371LmCinrY ) 
