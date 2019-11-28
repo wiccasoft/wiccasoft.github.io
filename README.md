@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!--
+https://www.youtube.com/watch?v=8f78z5Rd1nE şaka maka ali babacanın bomba gibi gelmesi
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ 
 bkz ali babacan gelince it gibi titreyen ak itler -->
 -->
