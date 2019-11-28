@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 bkz erdoğan damadıyla gurur duyduğunu iletirken beline kuvvet damadımın dedi
 bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdoğanı gülümsetti
 bkz recep tayyip erdoğanın attığı tweete trumpın esprili yanıtı sosyal medya da sıcak bir hava estirdi
-bkz albayrak ın gülümseyen yüzü kyklıları  bir nebze olsun gülümsetti
+bkz albayrak ın kyk lılara yaptığı kıyak kyklıları gülümsetti
 bkz erdogan s-400leri 2020 de kullanırım dedi  https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245
 bkz ali babacan gelince it gibi dağılan ak itler https://www.youtube.com/watch?v=B-emeManrfY
