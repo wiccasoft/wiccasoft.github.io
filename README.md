@@ -886,14 +886,7 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 ![Image](rihanna.com.png)
 
 
-
-
 ### Track
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/271851924" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
 
 
 ![Image](pinterest.png)
@@ -909,10 +902,7 @@ For those who think the world is flat, it is just side-ways.
 
 
 ### source(铬)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/336047527" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 [![Image](there-is-no-place-like.jpg)](https://www.youtube.com/watch?v=Rh47oTsRf-w)
 
