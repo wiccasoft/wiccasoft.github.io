@@ -18,10 +18,7 @@ bkz imamoğlu erdoğanla aynı safta yeraldı  https://www.youtube.com/watch?v=s
 bkz erdogan s-400leri 2020 de kullanırım dedi  https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
 https://www.sozcu.com.tr/2019/gundem/son-dakika-ibb-baskani-imamoglu-canli-yayinda-sorulari-cevapliyor-5476893/
-https://www.youtube.com/watch?v=a3uu43HjhfY bkz vergi konseyi 134. kurulu halkın yüreğini ferahlattı
-bkz bi gülüşü var sanırsın güneş doğuyor https://www.tccb.gov.tr/kabine/hazine-ve-maliye-bakani 
 bkz albayrak ın gülümseyen yüzü halkı bir nebze olsun gülümsetti
-albayrak çokomelli açıklamalarda bulundu tıkla https://www.haberturk.com/berat-albayrak-kimdir
 https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ akp den babacana yanıt gecikmedi tıkla
 https://www.yenisafak.com/video-galeri/haber/sosyal-medyayi-sallayan-muharrem-sarkisi-2093853  tıkla kankağ çok komiğ
 https://www.uludagsozluk.com/k/muharrem-isimli-erkekle-sevgili-olmak/ 
