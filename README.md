@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz trumpın attığı tweet gülümsetti erdoğanın altına bro naptın yazması gülüşmelere sebep oldu
 bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
 imamoğlu erdoğanla aynı safta yeraldı ahanda linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
 bkz recep tayyip erdoğan damadıyla gurur duyduğunu söyledi
