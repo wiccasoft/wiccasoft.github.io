@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- osmanlı gelirse kim şey olacak sorunsalı ali babacan bilocan recepcan 
      bkz ya osmanlı geri gelmezse sorunsalı 
      bkz fatih sultan mehemet karadan yürüttü yalanı
+     bkz 2023 te bilal erdoğan ın bomba gibi geleceği gerçeği
 -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
