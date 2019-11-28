@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
+<!-- bkz oktay itinin her şeye kaynaması -->
 <!-- bkz oktay kaynarca nın cerrahpaşlılardan it gibi korkması -->
 <!-- bkz cerrahpaşalı halitin racon kesmiyorum kafa kesiyorum demesi -->
 <!-- bkz ibb nin ibne gigibin puşt gibin bişey olması -->
