@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 
 <!-- 
      bkz şaka maka bilal erdoğanın 2023 te gümbür gümbür geleceği gerçeği bkz osmanlı nın geri dönmesi
+     bkz bilala erdoğan geliyor diye it gibi korkan kürtler
      bkz ya erdoğan ali babacan ın bi oyunuysa sorunsalı 
      bkz kurtuluş osmanlı dizisinde babacan erdoğan göndermesi yapılan sahne
 -->
