@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree
 https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
+<!-- william shakespeare vs nietcshe vs dostoyevski-->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs erdogan-->
 <!-- https://www.youtube.com/watch?v=GPa85nu0-ho çakır seferiliğini ilan ediyor -->
 <!-- bkz 41 yaşında ölü babasından harçlık alan insan -->
