@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!--
+bkz erdoğan ını internet omurgasını yeniden yapın talimatı
 bkz erdoğan damadıyla gurur duyduğunu iletirken beline kuvvet damadımın dedi
 bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdoğanı gülümsetti
 bkz recep tayyip erdoğanın attığı tweete trumpın esprili yanıtı sosyal medya da sıcak bir hava estirdi
