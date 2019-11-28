@@ -692,11 +692,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 ![Image](awe.png)
 
 [![Image](trump-v-world.png)](https://www.bbc.co.uk/news/business-46450630)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/OLvz5E61UNs" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
 
 
 [![Image](golden-globes-constance-wu.png)](https://www.msn.com/en-gb/money/technology/the-giant-that-no-one-trusts-why-huawei’s-history-haunts-it/ar-BBQF9Fm?ocid=spartanntp)
@@ -738,10 +733,7 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 [![Image](gilets-jaunes.png)](https://www.theguardian.com/world/gallery/2018/nov/24/gilets-jaunes-protest-against-macron-policies-in-paris-and-across-france-in-pictures)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/4llnekYxDwM" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 ![Image](If-else-may.png)
 
@@ -858,76 +850,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 [![Image](portrait-by-ai.png)](https://bit.ly/2EFHUkq)
 
 
-
-[![Image](INF-treaty.png)](https://www.online-xxx-show.com/iammery/)
-
-
-
-![Image](nato-war-games.png)
-
-
-![Image](sas-first.png)
-
-
-![Image](национальные-проекты.png)
-
-
-
-![Image](lebron-la.png)
-
-![Image](wherelifeisreal.png)
-
-![Image](monsantounderpressure.png)
-
-![Image](khashoggi-murder.png)
-
-[![Image](africanews.png)](https://www.pornhub.com/view_video.php?viewkey=ph56e65b1f53d37)
-
-![Image](free-gal.png)
-
-[![Image](mob-app-data.png)](https://www.online-xxx-show.com/mykinkydope/)
-
-
-[![Image](teleSUR.png)](https://www.youtube.com/embed/live_stream?channel=UCbHFKMtqLYkIBRiPHJwxu_w)
-
-
-[![Image](stream-reader.png)](https://www.youtube.com/watch?v=AnWBlBvdK0w)
-
-
-[![Image](nuclear-arsenal.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
-
-
-[![Image](nuclear-treaty.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
-
-
-[![Image](world-apart-with-live-streams.png)](https://en.wikipedia.org/wiki/List_of_news_television_channels)
-
-
-[![Image](ibex.png)](https://www.youtube.com/watch?v=Ek7K4pq0jZY)
-
-
-
-[![Image](anger-in-uk.png)](https://www.online-xxx-show.com/raquelle_star/)
-
-
-[![Image](dolardomination.png)](https://www.youtube.com/watch?v=IFAcqaNzNSc)
-
-
-[![Image](weareallviews.png)](https://www.youtube.com/watch?v=5-ipK8oPVw0)
-
-[![Image](Вести-недели.png)](https://www.youtube.com/watch?v=K59KKnIbIaM)
-[![Image](turkishnews-ntv.png)](https://www.youtube.com/watch?v=JZ8QhI0pz1A)
-[![Image](الإخبار.png)](https://www.youtube.com/watch?v=iygNrT5d27U)
-
-[![Image](中国舆论界.png)](https://www.youtube.com/watch?v=samRCVQTa-M)
-
-
-
-[![Image](大黑客.png)](https://www.youtube.com/watch?v=vCDDYb_M2B4)
-
-![Image](inrehearlsitworkedeverytime.png)
-
-
 [![Image](colombo-2-mercury.png)](https://www.bbc.com/news/amp/science-environment-45838991)
 
 
@@ -936,9 +858,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 [![Image](banksy.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
-
-
-![Image](instagram-diplomacy.png)
 
 
 
@@ -951,25 +870,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 
 ![Image](brussel-summit.png)
-
-
-
-[![Image](Davos-of-the-Desert.png)](https://www.bbc.com/news/business-45885396)
-
-![Image](us-saudi.png)
-
-
-
-![Image](netflix.png)
-
-
-![Image](elizabeth-dna.png)
-
-![Image](saudis-in-khashoggi.png)
-
-![Image](horseface-v-tiny.png)
-
-![Image](backslash.png)
 
 
 ![Image](uk-saudi.png)
@@ -987,13 +887,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 </div>
 -->
 
-![Image](zero-carbon-economy.png)
-
-
-
-[![Image](FTSE100.png)](https://www.londonstockexchange.com)
-
-
 
 
 ![Image](bloodhound.png)
@@ -1004,43 +897,16 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](1920x1080.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
 
-![Image](sweet-things.png)
-
-
-
-![Image](jamal-case.png)
-
-
-
-
-![Image](turk-saudi-sanc.png)
-
-
-![Image](week-in-pictures.png)
-
-![Image](fergie-time-in-windsdor.png)
-
 
 
 ![Image](royal-society-of-biology.png)
 
 
 [![Image](MAGA.png)]()
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/bB192WZHKRw" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<!--![Image](headfirst/bullied.png)-->
-
 
 
 
 [![Image](Soyuz-MS-10.png)](headfirst/bullied.png)
-
-
-
-<!--!![Image](headfirst/cocky.jpg)-->
 
 
 
