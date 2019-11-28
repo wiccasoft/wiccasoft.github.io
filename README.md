@@ -6,11 +6,11 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz recep tayyip erdoğan damadıyla gurur duyduğunu söyledi
 bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdoğanı gülümsetti
 bkz recep tayyip erdoğanın attığı tweete trumpın esprili yanıtı sosyal medya da sıcak bir hava estirdi
 bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
 imamoğlu erdoğanla aynı safta yeraldı ahanda linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
-bkz recep tayyip erdoğan damadıyla gurur duyduğunu söyledi
 bkz erdogan s-400leri 2020 de kullanırım dedi
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
 https://www.sozcu.com.tr/2019/gundem/son-dakika-ibb-baskani-imamoglu-canli-yayinda-sorulari-cevapliyor-5476893/
