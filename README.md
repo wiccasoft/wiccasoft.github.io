@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
+bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdoğanı gülümsetti
 bkz recep tayyip erdoğanın attığı tweete trumpın esprili yanıtı sosyal medya da sıcak bir hava estirdi
 bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube.com/watch?v=-AdnJiuDGVU 
 imamoğlu erdoğanla aynı safta yeraldı ahanda linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
