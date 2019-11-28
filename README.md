@@ -6,7 +6,8 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
 <!-- 
-bkz recep tayyip erdoğanın damadıyla gurur duyduğunu söyledi
+imamoğlu erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
+bkz recep tayyip erdoğan damadıyla gurur duyduğunu söyledi
 bkz imamogluyla albayrakın ingilizce işletme okumaları aralarında sıcak sohbetlere sebep oldu
 bkz erdogan s-400leri 2020 de kullanırım dedi
 https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245 
@@ -23,7 +24,6 @@ bkz imamoğlu erdoğan arasında sıcak diyalog gülümsetti https://www.youtube
 https://www.haberturk.com/video/haber/izle/cumhurbaskani-erdogan-ile-imamoglu-arasinda-gulduren-diyalog/653600 
 erdoğan istanbul çok hojdır dedi  https://www.youtube.com/watch?v=4RpMzsA1VOw
 nihat genç ver yansın etti tıkla https://www.youtube.com/watch?v=B-emeManrfY
-imamoğlu erdoğanla aynı safta yeraldı işte linki  https://www.youtube.com/watch?v=ssrTMAW7mIo 
 -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
