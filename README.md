@@ -1,3 +1,7 @@
+
+
+[![Image](smartdata/Screenshot_2019-11-28_11-31-05.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo ) 
+
 [![Image](smartdata/Screenshot_2019-11-28_11-31-19.png)]( https://www.theguardian.com/world/2019/nov/28/macron-defends-brain-dead-nato-remarks-as-summit-approaches) 
 
 <!-- 
