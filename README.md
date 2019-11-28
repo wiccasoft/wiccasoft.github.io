@@ -519,66 +519,34 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](gilet-jaunes-9x7.png)](https://www.theguardian.com/world/2019/jan/11/france-braced-for-ninth-weekend-of-gilets-jaunes-protests)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/273128930" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 [![Image](us-shutdown.png)](https://www.theguardian.com/us-news/2019/jan/14/trump-says-he-will-devastate-turkey-economically-if-it-attacks-kurds?CMP=twt_a-world_b-gdnworld)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/301364295" frameborder="0" allowfullscreen></iframe>
-</div>-->
 
 [![Image](economy.png)](https://www.bbc.com/news/world-46866661)
 
 
 [![Image](turkey-over-kurds.png)](https://www.bbc.com/news/world-europe-46860902)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/310790367" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 [![Image](ces.png)](https://www.bbc.co.uk/news/technology-46790015)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/279966078" frameborder="0" allowfullscreen></iframe>
-</div>-->
 
 
 [![Image](712019.png)](https://www.bbc.com/news/world-asia-46773504)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/291240209" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 
 [![Image](icy.png)](https://www.bbc.co.uk/news/world-asia-china-46769610)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/305368670" frameborder="0" allowfullscreen></iframe>
-</div> 
--->
 
 
 
 [![Image](epiphany+solar-clipse.png)](https://www.timeanddate.com/eclipse/solar/2019-january-6)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/309676008" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
 
 [![Image](prophecy.png)](https://www.bbc.com/news/world-europe-46748282)
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/273944226" frameborder="0" allowfullscreen></iframe>
-</div> 
--->
 
 
 [![Image](dark-side-of-the-moon.png)](https://www.bbc.com/news/business-46743472)
@@ -595,26 +563,12 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 [![Image](new-horizons.png)](https://www.bbc.com/news/science-environment-46729898)
 
 
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/308482722" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
-
 [![Image](question-asked-in.png)](https://www.youtube.com/watch?v=0pKjN17eYvY)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/274490332" frameborder="0" allowfullscreen></iframe>
-</div>-->
 
 
 [![Image](blackmirror.png)](https://www.youtube.com/watch?v=iLPWuDQIl70)
 
 [![Image](ny-skyline.png)](https://www.online-xxx-show.com/mae_malone/)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/271072938" frameborder="0" allowfullscreen></iframe>
-</div>-->
 
 
 [![Image](etna.png)](https://www.bbc.com/news/av/world-europe-46689502/mount-etna-aerial-footage-shows-damage-from-italy-quakes)
@@ -641,12 +595,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 [![Image](eye-in-the-sky.png)](https://www.youtube.com/embed/QpS6auP9zdY)
 
-[![Image](headfirst/4-133_101.jpg)](https://www.youtube.com/watch?v=kQTW7Pd1vqc)
-
-[![Image](decorations.png)](https://www.bbc.com/news/world-africa-46071479)
-
-[![Image](ethiopian-run.png)](https://www.youtube.com/watch?v=Xn599R0ZBwg)
-[![Image](diavik.png)](https://www.bbc.com/news/world-us-canada-46562131)
 [![Image](france-taxes.png)](https://www.bbc.co.uk/news/business-46591576)
 
 [![Image](softbank.png)](https://www.bbc.com/news/business-46548527)
@@ -667,17 +615,9 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 
 [![Image](voyager2.png)](https://voyager.jpl.nasa.gov/news/details.php?article_id=112)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/302132807" frameborder="0" allowfullscreen></iframe>
-</div>-->
+
 
 [![Image](月.png)](https://bit.ly/2zUgPoT)
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/Cugvqaca1ac" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
 
 [![Image](見る.jpeg)](https://www.amazon.co.jp/japanese-calligraphy/s?page=1&rh=i%3Aaps%2Ck%3Ajapanese%20calligraphy)
 
@@ -699,12 +639,6 @@ https://www.reuters.com/article/us-syria-security-turkey-usa-erdogan/erdogan-say
 
 
 [![Image](fuel-protests.png)](https://www.bbc.com/news/world-europe-46233560)
-
-[![Image](
-Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://www.youtube.com/watch?v=6skizQlC-uU)
-
-[![Image](yellow-vests.png)](https://www.bbc.com/news/av/world-europe-46405583/france-fuel-protests-who-are-the-people-in-the-yellow-vests)
-
 
 ![Image](nt5.0.png)
 
@@ -776,19 +710,11 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
 
 [![Image](skynet.png)](http://dbpedia.org/page/Semantic_Web)
 
-<div class="video-container">
-  <iframe width="100%" src="https://www.youtube.com/embed/BaTd_F2yIrU" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 [![Image](Wikidata.png)](https://www.youtube.com/watch?v=BaTd_F2yIrU/)
 
 ### wikidata
-<!--
-<div class="video-container">
-  <iframe width="100%" src="https://player.vimeo.com/video/274365756" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
 
 [![Image](witchita.png)](https://www.w3.org/DesignIssues/LinkedData.html)
 
@@ -886,33 +812,6 @@ Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg)](https://w
   <iframe width="100%" src="https://www.youtube.com/embed/tjqxq1HTkB0" frameborder="0" allowfullscreen></iframe>
 </div>
 -->
-
-
-
-![Image](bloodhound.png)
-
-![Image](death-penalty.png)
-
-
-
-[![Image](1920x1080.png)](https://deviceatlas.com/blog/most-used-smartphone-screen-resolutions)
-
-
-
-![Image](royal-society-of-biology.png)
-
-
-[![Image](MAGA.png)]()
-
-
-
-[![Image](Soyuz-MS-10.png)](headfirst/bullied.png)
-
-
-
-![Image](windswept.png)
-
-
 
 
 [![Image](sphinx.png)](https://www.online-xxx-show.com/secretgoddess0/)
