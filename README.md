@@ -5,19 +5,6 @@ https://www.youtube.com/watch?v=wzIU_yc01nQ alcala
 https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 -->
 
-<!--
-bkz jared ile berat arasındaki şakalaşma kulislerde eğlenceli anlara sebep oldu
-bkz erdoğan damadıyla gurur duyduğunu iletirken beline kuvvet damadımın dedi
-bkz trumpın damadı jared ile berat arasındaki isim benzerliği trump la erdoğanı gülümsetti
-bkz recep tayyip erdoğanın attığı tweete trumpın esprili yanıtı sosyal medya da sıcak bir hava estirdi
-bkz albayrak ın kyk lılara yaptığı kıyak kyklıları gülümsetti
-bkz erdogan s-400leri 2020 de kullanırım dedi  https://www.youtube.com/watch?v=TA6y-oRT1w0
-https://www.dw.com/tr/erdo%C4%9Fan-s-400leri-2020den-itibaren-kullanaca%C4%9F%C4%B1z/a-49755245
-bkz ali babacan gelince it gibi dağılan ak itler https://www.youtube.com/watch?v=B-emeManrfY
-https://www.sozcu.com.tr/2019/gundem/akpden-babacana-ilk-yanit-5475809/ 
-bkz şaka maka ali babacanın bomba gibi gelmesi https://www.youtube.com/watch?v=8f78z5Rd1nE 
- -->
-
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
 
 [![Image](smartdata/Screenshot_2019-11-27_07-50-42.png)]( https://www.youtube.com/watch?v=-371LmCinrY ) 
