@@ -1,3 +1,6 @@
+
+[![Image](smartdata/Screenshot_2019-11-28_11-31-19.png)]( https://www.theguardian.com/world/2019/nov/28/macron-defends-brain-dead-nato-remarks-as-summit-approaches) 
+
 <!-- 
 https://www.youtube.com/watch?v=2q05iJ6jHu8 reserved
 https://www.youtube.com/watch?v=-gP_Q2myNWo apple tree 
