@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
      bkz ya osmanlı geri gelmezse sorunsalı 
      bkz fatih sultan mehemet karadan yürüttü yalanı
      bkz 2023 te bilal erdoğan ın bomba gibi geleceği gerçeği
+https://www.uludagsozluk.com/e/42476992/ bkz sikerler aga hepmizi sikerler
 -->
 
 [![Image](smartdata/Screenshot_2019-11-27_05-17-11.png)]( https://www.youtube.com/watch?v=YwTqpWRGmYc ) 
