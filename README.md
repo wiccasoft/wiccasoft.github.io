@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=lN_MSyrq6-U before the crypt
 <!-- 
 bkz brainstorm
 bkz üst akıl oyunları
+bkz rte nin kobani hamlesi ne olur sorunalı
 bkz ya osmanlı dönmezse ne olacak sorunsalı
 bkz osmanlı dönerse ne olacak sorunsalı https://www.youtube.com/watch?v=dZxZjk6QOG8
 https://www.uludagsozluk.com/k/osmanl%C4%B1-geri-gelse-kim-padi%C5%9Fah-olacak-sorunsal%C4%B1/
