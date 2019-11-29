@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+bkz sagopa vs hayko
 bkz sopl lob vs sağ lob 
  https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
  https://twitter.com/mervetasskin/status/1199404714451861504 
