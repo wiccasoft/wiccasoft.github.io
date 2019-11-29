@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz muhammed atatürk yüzü suyu hörmetine ay tutlamsı olması 
 bkz mohammedin aya pençe atıp ayı ikiye yarması
 bkz hitlerin türkiyeye saldırmamasının sebebi : mohammedin ayı barnağıyla ikiye yarması
 -->
