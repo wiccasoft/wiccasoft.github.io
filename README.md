@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz ali babuşcanın bomba gibi gelmesi https://www.youtube.com/watch?v=OIOqFBa7htQ
 bkz muhammedin göt loblarını ikiye ayırıp ayı ikiye yardım diye kandırması
 bkz muhammed salah mı muhammed bin salman mı hz muhammed mi
 bkz mehmet ali erbilin parmapıyla kamalcıları ikiye bölmesi
