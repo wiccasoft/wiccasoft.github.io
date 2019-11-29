@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz müslüm gürses mi orhan bence gay mi
 bkz davutoğlanın bomba gibi dönmesi https://www.youtube.com/watch?v=iteqUmkms9M
 bkz babuşcanın daha bi babacan gelmesi https://www.youtube.com/watch?v=OIOqFBa7htQ
 bkz muhammedin göt loblarını ikiye ayırıp ayı ikiye yardım diye kandırması
