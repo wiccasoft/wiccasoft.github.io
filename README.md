@@ -1,10 +1,8 @@
 <!-- bkz en sevdiğim kullar asyalı kullar https://www.youtube.com/watch?v=3ttlU1-bCzM -->
 <!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- bkz haluk bilginer vs bilgin haluker -->
-<!-- bkz haluk bilginer mi selçuk yönetm mi -->
-<!-- bkz o da benim adım değil -->
-<!-- bkz cüneyt cüreklibatur ben -->
-<!-- bkz hala adıma başlık açmamışlar demek ki hala doğru yoldayım -->
+<!-- bkz haluk bilginer mi selçuk yöntem mi -->
+
 
 [![Image](smartdata/Screenshot_2019-11-29_15-44-48.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 [![Image](smartdata/Screenshot_2019-11-29_10-09-52.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
