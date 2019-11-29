@@ -4,7 +4,7 @@
 
 <!--
 bkz davutoğlanın bomba gibi dönmesi https://www.youtube.com/watch?v=iteqUmkms9M
-bkz ali babuşcanın bomba gibi gelmesi https://www.youtube.com/watch?v=OIOqFBa7htQ
+bkz babuşcanın daha bi babacan gelmesi https://www.youtube.com/watch?v=OIOqFBa7htQ
 bkz muhammedin göt loblarını ikiye ayırıp ayı ikiye yardım diye kandırması
 bkz muhammed salah mı muhammed bin salman mı hz muhammed mi
 bkz mehmet ali erbilin parmapıyla kamalcıları ikiye bölmesi
