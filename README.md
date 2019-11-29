@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+https://www.youtube.com/watch?v=Q0YpfEB5w6c şaka makak ali baboşcanın bomba gibi gelmesi
 https://www.youtube.com/watch?v=EfAsNffCjsM muhammed ne kadar super lan
 bkz muhammedin ayıya pençe atıp ayı ikiye yarması https://www.youtube.com/watch?v=H0760kGB-vw
 bkz sağdaki merveye saygı görmesi için memelerini açıp teşhis koymasını tavsiye ediyorum 
