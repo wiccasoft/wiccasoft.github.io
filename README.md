@@ -4,7 +4,7 @@
 <!-- 
 bkz nisanurun çilesi https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz iyi olan kazansın https://www.youtube.com/watch?v=H0760kGB-vw
-bkz müzik zevkiniz bana uymuyor şekerim içinde söz olan müzik dinlemem dinleyen de de tiksinirim
+bkz müzik zevkiniz bana uymuyor aşkolar içinde söz olan müzik dinlemem dinleyenden de tiksinirim
 bkz hala ibret almazlar şüphesiz ki onlar ziyandadırlar https://www.youtube.com/watch?v=PeIVhIwE8zU
 https://www.uludagsozluk.com/k/muhammed-in-ay-%C4%B1-parma%C4%9F%C4%B1yla-ikiye-b%C3%B6lmesi/
 bkz ali babacan ın gümbür gümbür geldiği gerçeği https://www.youtube.com/watch?v=Q0YpfEB5w6c
