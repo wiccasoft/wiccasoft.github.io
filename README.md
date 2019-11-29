@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+bkz nisanurun çilesi https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz iyi olan kazansın https://www.youtube.com/watch?v=H0760kGB-vw
 bkz müzik zevkiniz bana uymuyor şekerim içinde söz olan müzik dinlemem dinleyen de de tiksinirim
 bkz hala ibret almazlar şüphesiz ki onlar ziyandadırlar https://www.youtube.com/watch?v=PeIVhIwE8zU
