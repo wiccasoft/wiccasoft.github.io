@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
-bkz sağdaki merveye saygı görmesi için memelerini açıp ameliyata girmesini tavsiye ediyorum
+bkz sağdaki merveye saygı görmesi için memelerini açıp teşhis koymasını tavsiye ediyorum
 bkz sağdaki merveye futbolcu saygı sevgi ve maaşlarını anlatsın biri beyni yok fikri var
 https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k aşkolar
 bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 
