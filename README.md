@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
+<!-- gerdek gecesi dadından yinmez https://www.youtube.com/watch?v=ox93sf0-tPQ  -->
 [![Image](smartdata/Screenshot_2019-11-29_09-00-00.png)]( https://www.youtube.com/watch?v=8-uvOpMyPgI ) 
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
