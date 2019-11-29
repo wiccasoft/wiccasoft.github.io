@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
-[![Image](smartdata/Screenshot_2019-11-29_04-15-04.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
+[![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
 bkz türbanlı doktor mu olur lan asdasdas https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz türbanlı doktor merve nin beyin spazmı gerçimesi https://www.youtube.com/watch?v=H0760kGB-vw
