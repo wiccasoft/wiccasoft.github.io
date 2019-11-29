@@ -3,7 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
 bkz sağdaki merveye saygı görmesi için memelerini açıp ameliyata girmesini tavsiye ediyorum
-bkz sağdaki merveye futbolcu maaşlarını anlatsın biri beyni yok fikri var
+bkz sağdaki merveye futbolcu saygı sevgi ve maaşlarını anlatsın biri beyni yok fikri var
 https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k  aşkolar
 bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 
 bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
