@@ -4,6 +4,8 @@
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
+bkz kuş beyinliler
+https://www.uludagsozluk.com/k/reis-in-kay%C4%B1nbiraderlerinin-isimlerini-koymas%C4%B1/&w=gd
 bkz uludaki ortaokul terk ergenlerin mesleği sorunsalı
 bkz torbacının telefonunu unutması 
 https://www.uludagsozluk.com/k/torbac%C4%B1n%C4%B1n-telefonlar%C4%B1-a%C3%A7mamas%C4%B1/
