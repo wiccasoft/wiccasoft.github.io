@@ -3,6 +3,7 @@
 <!-- bkz haluk bilginer vs bilgin haluker -->
 <!-- bkz adımı altın harflerle gökyüzüne yazdım ama göremezsiniz -->
 <!-- bkz o da benim adım değil -->
+<!-- bkz hayır haluk ta değil adım -->
 <!-- bkz hala adıma başlık açmamışlar demek ki hala doğru yoldayım -->
 
 [![Image](smartdata/Screenshot_2019-11-29_15-44-48.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
