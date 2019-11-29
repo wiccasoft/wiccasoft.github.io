@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz mehmet ali erbilin parmapıyla kamalcıları ikiye bölmesi
 bkz ezel dizisindeki bıyıkl dayı mı kurtlar vadisinde ki halo dayı mı
 bkz allah  ne kadar super lan https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz ali babuşcan mı ahemt davutoğlan mı https://www.youtube.com/watch?v=Q0YpfEB5w6c
