@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz hitler korkmayın hindilere saldırmama açıklaması
 bkz şaka maka ayı yapay zekayla ikiye böldüm lan nasıl bi ayıysam
 bkz müslüm gürses mi orhan bence gay mi
 bkz davutoğlanın bomba gibi dönmesi https://www.youtube.com/watch?v=iteqUmkms9M
