@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+http://www.mynet.com/cevaplar/beyin-cerrahi-ne-kadar-maas-alir/6993173
 bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 
 bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
 https://www.kariyer.net/is-ilani/gizli-firma-beyin-ve-sinir-cerrahi-uzmani-2411446
