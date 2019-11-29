@@ -1,7 +1,6 @@
 <!-- bkz en sevdiğim kullar asyalı kullar https://www.youtube.com/watch?v=3ttlU1-bCzM -->
 <!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- bkz haluk bilginer vs bilgin haluker -->
-<!-- bkz adımı altın harflerle gökyüzüne yazdım ama göremezsiniz -->
 <!-- bkz o da benim adım değil -->
 <!-- bkz cüneyt cüreklibatur ben -->
 <!-- bkz hala adıma başlık açmamışlar demek ki hala doğru yoldayım -->
