@@ -2,10 +2,8 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
-bkz hangisi aşkolar
-bkz sol lob vs sağ lob 
- https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
- https://twitter.com/mervetasskin/status/1199404714451861504 
+bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 
+bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
 -->
 
 [![Image](smartdata/Screenshot_2019-11-28_18-41-47.png)]( https://www.theguardian.com/world/2019/nov/28/apple-under-fire-for-labelling-crimea-as-part-of-russia-in-its-apps ) 
