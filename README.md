@@ -3,9 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
-bkz hitlerin türkiyeye saldırmamasının sebebi : hitler ayı barnağıyla ikiye yarması
-https://www.uludagsozluk.com/k/hitler-in-t%C3%BCrkiye-ye-sald%C4%B1rmamas%C4%B1n%C4%B1n-sebepleri/&w=bg 
-https://www.uludagsozluk.com/k/muhammed-in-ay-%C4%B1-parma%C4%9F%C4%B1yla-ikiye-b%C3%B6lmesi/
+bkz hitlerin türkiyeye saldırmamasının sebebi : mohammedin ayı barnağıyla ikiye yarması
 -->
 [![Image](smartdata/Screenshot_2019-11-29_05-34-42.png)]( https://www.youtube.com/watch?v=8-uvOpMyPgI ) 
 
