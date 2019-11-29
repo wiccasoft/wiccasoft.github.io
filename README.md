@@ -2,7 +2,7 @@
 <!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- bkz nihat doğanın haluka saygı duymuyorum demesi https://www.youtube.com/watch?v=B-emeManrfY -->
 <!-- bkz irem sakın haluk bilginerin tozunu alacam açıklaması --->
-<!-- bkz  selçuk yöntemin haluk bilginer i kutlamaması -->
+<!-- bkz selçuk yöntemin haluk bilginer i kutlamaması -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_15-44-48.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
