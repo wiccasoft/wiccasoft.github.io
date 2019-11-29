@@ -3,35 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
-<!-- 
-bkz türklerin kuş beyinli bi ırk olması 
-bkz araba önünde poz vermeyi zenginlik sanan çulsuzlar
-https://www.uludagsozluk.com/k/akp-%C3%A7ocuklar%C4%B1/&w=bg 
-bkz kuş beyinliler
-https://www.uludagsozluk.com/k/reis-in-kay%C4%B1nbiraderlerinin-isimlerini-koymas%C4%B1/&w=gd
-bkz uludaki ortaokul terk ergenlerin mesleği sorunsalı
-bkz torbacının telefonunu unutması 
-https://www.uludagsozluk.com/k/torbac%C4%B1n%C4%B1n-telefonlar%C4%B1-a%C3%A7mamas%C4%B1/
-bkz falcaonun bir oturuşta 5 kilo et yemesi
-bkz yakın mesafe ilişkisi açmıyorum diyen taksici
-bkz mustafa ceceli vs mustada topaloğlu
-https://www.uludagsozluk.com/k/1-kg-etle-mangal-yapan-adama-ka%C3%A7an-evli-kad%C4%B1n/
-bkz mehmet ali erbilin parmağıyla parmaktan sonra demesi 
-bkz türbanlı doktor mu olur lan asdasdas https://www.youtube.com/watch?v=XsbksXXgXwQ
-bkz türbanlı doktor merve nin beyin spazmı gerçimesi https://www.youtube.com/watch?v=H0760kGB-vw
-bkz saygı ve sevgi görmek için beyin cerrahı olmak vs sevdiğin işi yapmak
-https://www.youtube.com/watch?v=Q0YpfEB5w6c şaka maka ali baboşcanın bomba gibi gelmesi
-https://www.youtube.com/watch?v=EfAsNffCjsM muhammed ne kadar super lan
-bkz muhammedin ayıya pençe atıp ayı ikiye yarması https://www.youtube.com/watch?v=H0760kGB-vw
-bkz sağdaki merveye saygı görmesi için memelerini açıp teşhis koymasını tavsiye ediyorum 
-https://www.youtube.com/watch?v=Psz-fc9VGNQ https://www.youtube.com/watch?v=gCB5Lk2x8QA
-bkz sağdaki merveye futbolcu saygı sevgi ve maaşlarını anlatsın biri beyni yok fikri var
-https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k aşkolar
-bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 
-bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
-https://www.kariyer.net/is-ilani/gizli-firma-beyin-ve-sinir-cerrahi-uzmani-2411446
-https://www.kariyer.net/is-ilani/medipol-universitesi-hastanesi-beyin-ve-sinir-cerrahi-2383394
--->
+
 
 [![Image](smartdata/Screenshot_2019-11-28_18-41-47.png)]( https://www.theguardian.com/world/2019/nov/28/apple-under-fire-for-labelling-crimea-as-part-of-russia-in-its-apps ) 
 
