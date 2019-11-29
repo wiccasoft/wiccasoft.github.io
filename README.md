@@ -4,6 +4,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
+bkz mehmet ali erbilin parmağıyla parmaktan sonra demesi 
 bkz türbanlı doktor mu olur lan asdasdas https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz türbanlı doktor merve nin beyin spazmı gerçimesi https://www.youtube.com/watch?v=H0760kGB-vw
 bkz saygı ve sevgi görmek için beyin cerrahı olmak vs sevdiğin işi yapmak
