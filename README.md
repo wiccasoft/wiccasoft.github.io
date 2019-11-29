@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz bi saat sonra ayın tamamen greenwitch ny ist olarak ikiye bölüncecek olması
 bkz hitler korkmayın hindilere saldırmama açıklaması
 bkz şaka maka ayı yapay zekayla ikiye böldüm lan nasıl bi ayıysam
 bkz müslüm gürses mi orhan bence gay mi
