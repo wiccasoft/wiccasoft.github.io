@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+bkz hala adıma başlık açılmamaış bu demnek oluyor ki hala doğru yoldayım
 bkz nisanurun çilesi https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz iyi olan kazansın aşkolar https://www.youtube.com/watch?v=H0760kGB-vw
 bkz müzik zevkiniz bana uymuyor aşkolar içinde söz olan müzik dinlemem dinleyenden de tiksinirim
