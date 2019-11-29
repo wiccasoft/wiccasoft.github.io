@@ -6,7 +6,7 @@
 <!-- https://www.youtube.com/watch?v=MKcKtjrL5bc LOST: Flight 815 Crash in Real Time -->
 <!-- https://www.youtube.com/watch?v=GdT8eqMO4qk LOST in 8 minutes -->
 
-[![Image](smartdata/Screenshot_2019-11-29_09-00-00.png)]( https://www.youtube.com/watch?v=8-uvOpMyPgI ) 
+[![Image](smartdata/Screenshot_2019-11-29_09-00-00.png)](  https://www.youtube.com/watch?v=GdT8eqMO4qk ) 
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 
