@@ -5,7 +5,8 @@
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
 bkz türklerin kuş beyinli bi ırk olması 
-https://www.uludagsozluk.com/k/akp-%C3%A7ocuklar%C4%B1/&w=bg bkz araba önünde poz vermeyi zenginlik sanan çulsuzlar
+bkz araba önünde poz vermeyi zenginlik sanan çulsuzlar
+https://www.uludagsozluk.com/k/akp-%C3%A7ocuklar%C4%B1/&w=bg 
 bkz kuş beyinliler
 https://www.uludagsozluk.com/k/reis-in-kay%C4%B1nbiraderlerinin-isimlerini-koymas%C4%B1/&w=gd
 bkz uludaki ortaokul terk ergenlerin mesleği sorunsalı
