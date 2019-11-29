@@ -2,24 +2,6 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
-<!--
-bkz bi saat sonra ayın tamamen greenwitch ny ist olarak ikiye bölüncecek olması
-bkz hitler korkmayın hindilere saldırmama açıklaması
-bkz şaka maka ayı yapay zekayla ikiye böldüm lan nasıl bi ayıysam
-bkz müslüm gürses mi orhan bence gay mi
-bkz davutoğlanın bomba gibi dönmesi https://www.youtube.com/watch?v=iteqUmkms9M
-bkz babuşcanın daha bi babacan gelmesi https://www.youtube.com/watch?v=OIOqFBa7htQ
-bkz muhammedin göt loblarını ikiye ayırıp ayı ikiye yardım diye kandırması
-bkz muhammed salah mı muhammed bin salman mı hz muhammed mi
-bkz mehmet ali erbilin parmapıyla kamalcıları ikiye bölmesi
-bkz ezel dizisindeki bıyıkl dayı mı kurtlar vadisinde ki halo dayı mı
-bkz allah  ne kadar super lan https://www.youtube.com/watch?v=EfAsNffCjsM
-bkz ali babuşcan mı ahemt davutoğlan mı https://www.youtube.com/watch?v=Q0YpfEB5w6c
-bkz denize muhammed mi düşse kurtarırsın atatürk mü
-bkz muhammed yüzünden ayın doğup batması olayı
-bkz mohammedin aya pençe atıp ayı ikiye yarması
-bkz hitlerin türkiyeye saldırmamasının sebebi : mohammedin ayı barnağıyla ikiye yarması
--->
 [![Image](smartdata/Screenshot_2019-11-29_05-34-42.png)]( https://www.youtube.com/watch?v=8-uvOpMyPgI ) 
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
