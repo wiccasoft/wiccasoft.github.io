@@ -1,7 +1,7 @@
 <!-- bkz en sevdiğim kullar asyalı kullar https://www.youtube.com/watch?v=3ttlU1-bCzM -->
 <!-- bkz küpe takan erkek te bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w-->
 
-[![Image](smartdata/Screenshot_2019-11-29_15-14-06.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
+[![Image](smartdata/Screenshot_2019-11-29_15-44-48.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 [![Image](smartdata/Screenshot_2019-11-29_10-09-52.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
 <!-- https://lostpedia.fandom.com/wiki/Juliet_Burke -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
