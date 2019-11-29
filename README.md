@@ -5,7 +5,7 @@
 <!--
 bkz ali babuşcan mı ahemt davutoğlan mı https://www.youtube.com/watch?v=Q0YpfEB5w6c
 bkz denize muhammed mi düşse kurtarırsın atatürk mü
-bkz muhammed atatürk yüzü suyu hörmetine ay tutlamsı olması 
+bkz muhammed yüzünden ayın doğup batması olayı
 bkz mohammedin aya pençe atıp ayı ikiye yarması
 bkz hitlerin türkiyeye saldırmamasının sebebi : mohammedin ayı barnağıyla ikiye yarması
 -->
