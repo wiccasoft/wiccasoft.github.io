@@ -4,7 +4,9 @@
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
-blz falcaonun bir oturuşta 5 kilo et yemesi
+bkz torbacının telefonunu unutması 
+https://www.uludagsozluk.com/k/torbac%C4%B1n%C4%B1n-telefonlar%C4%B1-a%C3%A7mamas%C4%B1/
+bkz falcaonun bir oturuşta 5 kilo et yemesi
 bkz yakın mesafe ilişkisi açmıyorum diyen taksici
 bkz mustafa ceceli vs mustada topaloğlu
 https://www.uludagsozluk.com/k/1-kg-etle-mangal-yapan-adama-ka%C3%A7an-evli-kad%C4%B1n/
