@@ -4,7 +4,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
-bkz kocasını aldatıp kasapla kaçan kadın
+bkz 5 kilo etle mangal yapan adam kaç etçil kadın
 bkz yakın mesafe ilişkisi açmıyorum diyen taksici
 bkz mustafa ceceli vs mustada topaloğlu
 https://www.uludagsozluk.com/k/1-kg-etle-mangal-yapan-adama-ka%C3%A7an-evli-kad%C4%B1n/
