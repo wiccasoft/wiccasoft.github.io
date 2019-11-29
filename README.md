@@ -5,6 +5,7 @@
 [![Image](smartdata/Screenshot_2019-11-29_04-24-40.png)]( https://www.youtube.com/watch?v=QgpBjS3HCJI ) 
 <!-- 
 bkz mustafa ceceli vs mustada topaloğlu
+https://www.uludagsozluk.com/k/1-kg-etle-mangal-yapan-adama-ka%C3%A7an-evli-kad%C4%B1n/
 bkz mehmet ali erbilin parmağıyla parmaktan sonra demesi 
 bkz türbanlı doktor mu olur lan asdasdas https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz türbanlı doktor merve nin beyin spazmı gerçimesi https://www.youtube.com/watch?v=H0760kGB-vw
