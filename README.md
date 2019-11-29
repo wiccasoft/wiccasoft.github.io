@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz mohammedin aya pençe atıp ayı ikiye yarması
 bkz hitlerin türkiyeye saldırmamasının sebebi : mohammedin ayı barnağıyla ikiye yarması
 -->
 [![Image](smartdata/Screenshot_2019-11-29_05-34-42.png)]( https://www.youtube.com/watch?v=8-uvOpMyPgI ) 
