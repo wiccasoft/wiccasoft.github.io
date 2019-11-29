@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+bkz ali babacan ın gümbür gümbür geldiği gerçeği https://www.youtube.com/watch?v=Q0YpfEB5w6c
 bkz 40 yaşından sonra rap ve metal yapan insan zekası
 bkz sagopa vs hayko https://www.youtube.com/watch?v=WRzOwJdqCqg
 bkz sopl lob vs sağ lob 
