@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+bkz hiç bişeyi üsütüne alınmamanın verdiği keyf
 bkz sagopa vs hayko
 bkz sopl lob vs sağ lob 
  https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
