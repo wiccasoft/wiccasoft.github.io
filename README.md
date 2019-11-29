@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
-
+https://www.youtube.com/watch?v=EfAsNffCjsM muhammed ne kadar super lan
 bkz muhammedin ayıya pençe atıp ayı ikiye yarması https://www.youtube.com/watch?v=H0760kGB-vw
 bkz sağdaki merveye saygı görmesi için memelerini açıp teşhis koymasını tavsiye ediyorum 
 https://www.youtube.com/watch?v=Psz-fc9VGNQ https://www.youtube.com/watch?v=gCB5Lk2x8QA
