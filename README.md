@@ -2,6 +2,7 @@
 <!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- bkz haluk bilginer vs bilgin haluker -->
 <!-- bkz adımı altın harflerle gökyüzüne yazdım ama göremezsiniz -->
+<!-- bkz o da benim adım değil -->
 
 [![Image](smartdata/Screenshot_2019-11-29_15-44-48.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 [![Image](smartdata/Screenshot_2019-11-29_10-09-52.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
