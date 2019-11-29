@@ -1,4 +1,5 @@
 <!-- bkz peki sagopa da bizi görecek mi -->
+<!-- bkz küpe takan erkek te bizi görecek mi -->
 [![Image](smartdata/Screenshot_2019-11-29_15-14-06.png)]( https://www.youtube.com/watch?v=lvEfEFpgni4 ) 
 [![Image](smartdata/Screenshot_2019-11-29_10-09-52.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
 <!-- https://lostpedia.fandom.com/wiki/Juliet_Burke -->
