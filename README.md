@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
+bkz türbanlı doktor mu olur lan https://www.youtube.com/watch?v=XsbksXXgXwQ
 bkz türbanlı doktor merve nin beyin spazmı gerçimesi https://www.youtube.com/watch?v=H0760kGB-vw
 bkz saygı ve sevgi görmek için beyin cerrahı olmak vs sevdiğin işi yapmak
 https://www.youtube.com/watch?v=Q0YpfEB5w6c şaka maka ali baboşcanın bomba gibi gelmesi
