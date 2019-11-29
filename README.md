@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz allah muhammed ne kadar super lan https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz ali babuşcan mı ahemt davutoğlan mı https://www.youtube.com/watch?v=Q0YpfEB5w6c
 bkz denize muhammed mi düşse kurtarırsın atatürk mü
 bkz muhammed yüzünden ayın doğup batması olayı
