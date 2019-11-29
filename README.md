@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz ali babuşcan mı ahemt davutoğlan mı
 bkz denize muhammed mi düşse kurtarırsın atatürk mü
 bkz muhammed atatürk yüzü suyu hörmetine ay tutlamsı olması 
 bkz mohammedin aya pençe atıp ayı ikiye yarması
