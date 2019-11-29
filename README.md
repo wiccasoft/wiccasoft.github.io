@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- 
-bkz rapin ve hatta arabesk rapin her kafa sikmesi
+bkz kafa siken rapçiler vs kafa siken arabesk rapçiler
 bkz sagopa vs hayko https://www.youtube.com/watch?v=WRzOwJdqCqg
 bkz sopl lob vs sağ lob 
  https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 
