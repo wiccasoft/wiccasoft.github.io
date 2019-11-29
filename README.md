@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 
 <!--
+bkz muhammed salah mı muhammed bin salman mı hz muhammed mi
 bkz mehmet ali erbilin parmapıyla kamalcıları ikiye bölmesi
 bkz ezel dizisindeki bıyıkl dayı mı kurtlar vadisinde ki halo dayı mı
 bkz allah  ne kadar super lan https://www.youtube.com/watch?v=EfAsNffCjsM
