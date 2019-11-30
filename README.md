@@ -2,7 +2,7 @@
 <!-- bkz sagopa kajmer vs killa hakan -->
 <!-- https://www.youtube.com/watch?v=cCqW36BqBIo ersun yanal gider mi sorunsalı -->
 <!-- bkz isyankar rapçi sagopa vs isyankar rokçı arzı bela ersun-->
-<!-- https://www.uludagsozluk.com/k/baltac%C4%B1-mehmet-pa%C5%9Fa/&w=bg adam tokmakçı beyler -->
+<!-- https://www.uludagsozluk.com/e/42492159/ bkz adam tokmakçı beyler -->
 <!-- bkz en sevmediğim şeylerle ilişkilendirilmem  -->
 <!-- bkz en sevmediğim müzik rap en sevmediğim takım fenerbahçe -->
 <!-- bkz sagopa kajmer vs ceza vs eminem vsa metallica-->
