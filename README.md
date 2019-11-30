@@ -1,4 +1,5 @@
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
+<!-- bkz arabesk rapçi sagopa kajmer vs isyankar rokçı cem karaca -->
 <!-- https://www.youtube.com/watch?v=upyhXMifMwM bkz ersun yanalı getir -->
 <!-- bkz ali koçu ve siktiriboktan acıların takımı fenerbahçeyi siklemediğim gerçeği -->
 <!-- bkz aykut kocaman vs ersun yanal https://www.youtube.com/watch?v=DXXhXaBWgx0-->
