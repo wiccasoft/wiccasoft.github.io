@@ -1,3 +1,4 @@
+<!-- bkz türkler sosyal medyayı en iyi kullanan ırk olması -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz filistin için ağlamayan götler -->
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
