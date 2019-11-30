@@ -3,6 +3,7 @@
 <!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
 <!-- imamaoğlu vs haluk bilginer -->
+<!-- sagopa vs isyankar serseri -->
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 [![Image](smartdata/Screenshot_2019-11-29_11-09-01.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
