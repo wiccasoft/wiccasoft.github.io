@@ -6,6 +6,17 @@
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
+<!-- imamaoğlu performansı vs maçoğlu performansı -->
+<!-- imamoğlu dese ki iski miski hikaye napardınız -->
+<!-- haluk bilginer karizması vs imamoğlu karizması -->
+<!-- imamaoğlu pencereye tıklayıp nabıyon hacı götünün mü parmaklıyon dese napardınız -->
+<!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
+<!-- isyankar rokçı vs arabesk rapçi -->
+<!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
+<!-- filistin de çocuklar ölürken hala arkadaşının götünü parmaklayan tipler olması -->
+<!-- haluk bilginer le bi gece vs sagopa kajmerle bi gece-->
+<!-- haluk bilginer heteroseksüelim dese napardınız -->
+<!-- orhan gence bay gay değilim dese napardınız -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
