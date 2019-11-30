@@ -1,11 +1,9 @@
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz filistin için ağlamayan götler -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim beyin öldi mi ıssz acun kalir oglim -->
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
 <!-- https://www.uludagsozluk.com/e/42487495/ bkz öpüjem abicim ponçik ponçik -->
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
 <!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
-<!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
 <!-- filistine doyulur mu https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
 <!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz yeah şappi -->
