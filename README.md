@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/orhun-topkaya-youtube-kanal%C4%B1/ adam top beyler eppek çıkmaz -->
 <!-- bkz orospu sıçmıkları ulucular hala adıma başlık açamamış bu demek oluyor ki hala doğru yoldayım -->
 <!-- bkz hala adıma başlık açamayan oç ları -->
 <!-- https://www.uludagsozluk.com/k/nusret-g%C3%B6k%C3%A7e/&w=bg bkz oç nusret -->
