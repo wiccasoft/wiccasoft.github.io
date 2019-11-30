@@ -1,5 +1,5 @@
 
-[![Image](smartdata/Screenshot_2019-11-30_11-44-46.png)]( https://www.youtube.com/watch?v=DgtKLrT9_GI ) 
+[![Image](smartdata/Screenshot_2019-11-30_11-44-46.png)]( https://www.dailymotion.com/video/xcuch5 ) 
 <!-- https://www.uludagsozluk.com/e/42489856/ bkz zeitgeist -->
 
 [![Image](smartdata/Screenshot_2019-11-29_22-57-15.png)]( https://www.youtube.com/watch?v=BfVIUPqVXv4 ) 
