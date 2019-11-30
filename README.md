@@ -3,17 +3,9 @@
 <!-- https://www.youtube.com/watch?v=cCqW36BqBIo ersun yanal gider mi sorunsalı -->
 <!-- bkz isyankar rapçi sagopa vs isyankar rokçı arzı bela ersun-->
 <!-- https://www.uludagsozluk.com/e/42492159/ bkz adam tokmakçı beyler -->
-<!-- bkz en sevmediğim şeylerle ilişkilendirilmem  -->
-<!-- bkz en sevmediğim müzik rap en sevmediğim takım fenerbahçe -->
-<!-- bkz sagopa kajmer vs ceza vs eminem vsa metallica-->
-<!-- bkz fatih terim vs dieger drogba vs matte karatta -->
-<!-- bkz arabesk rapçi sagopa kajmer vs isyankar rokçı cem karaca -->
 <!-- https://www.youtube.com/watch?v=upyhXMifMwM bkz ersun yanalı getir be koçum -->
-<!-- bkz ali koçu ve siktiriboktan acıların takımı fenerbahçeyi siklemediğim gerçeği -->
 <!-- bkz aykut kocaman vs ersun yanal https://www.youtube.com/watch?v=DXXhXaBWgx0-->
-<!-- bkz fatih erim vs alikoç vs ersun yanal-->
 <!-- bkz ersun yan al efso soyunma odası konuşması -->
-<!-- https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz ali koçun siktiri çekeceği yalak -->
 <!-- https://www.fanatik.com.tr/fenerbahcede-ersun-yanalin-goz-bebegi-volkan-demirel-2087344 -->
 <!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
 
