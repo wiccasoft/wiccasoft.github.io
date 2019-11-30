@@ -1,12 +1,6 @@
-<!-- bkz ibrahim talısesin paylaştığı filistin müziği -->
-<!-- bkz wiccasoft un ibrahim tatlıses idobay müzik olma ihtimali -->
-<!-- bkz wiccasoft un filistin kurtuluş örgütü paylaşımı -->
-<!-- bkz hala filistinidiye ağlayan götler bu fgece gösterdi vatan hayınlarını -->
-<!-- bkz ibrahim tatlısesin hala ararpları savunması -->
-<!-- bkz hala kürtleri ve arapları savunan orospu çocukları -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
-<!-- ido tatlıses vs ibrahim tatlıses https://www.youtube.com/watch?v=PeIVhIwE8zU -->
-<!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler adres versin aldıralım evden-->
+<!-- filistine doyulur mu https://www.youtube.com/watch?v=PeIVhIwE8zU -->
+<!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
 <!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz entry girmeye değmez haluk levent gib olamaz -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35-->
