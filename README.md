@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BC-sevme-sebepleri/&w=bg arap sevicilere ayarı anında vermeleri -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
 <!-- ido tatlıses vs ibrahim tatlıses https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler adres versin aldıralım evden-->
