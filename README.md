@@ -1,4 +1,4 @@
-<!-- bkz steven speilberg nuri bilge ceyaln tarantinoyla aynı eve çıkmak -->
+<!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
 <!-- filistine doyulur mu https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
