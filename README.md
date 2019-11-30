@@ -1,32 +1,7 @@
-<!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
-<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz yeah şappi -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
-<!-- https://www.uludagsozluk.com/k/orhun-topkaya-youtube-kanal%C4%B1/ adam top beyler -->
-<!-- https://www.uludagsozluk.com/k/nusret-g%C3%B6k%C3%A7e/&w=bg bkz oç nusret -->
-<!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
-<!-- https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz filistin için ağlamayan götler -->
-<!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
-<!-- https://www.uludagsozluk.com/e/42487495/ bkz öpüjem abicim ponçik ponçik -->
-<!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
-<!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
-<!-- imamaoğlu performansı vs maçoğlu performansı -->
-<!-- imamoğlu dese ki iski miski hikaye napardınız -->
-<!-- haluk bilginer karizması vs imamoğlu karizması -->
-<!-- imamaoğlu pencereye tıklayıp nabıyon hacı götünün mü parmaklıyon dese napardınız -->
-<!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
-<!-- isyankar rokçı vs arabesk rapçi -->
-<!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
-<!-- filistin de çocuklar ölürken hala arkadaşının götünü parmaklayan tipler olması -->
-<!-- haluk bilginer le bi gece vs sagopa kajmerle bi gece-->
-<!-- haluk bilginer heteroseksüelim dese napardınız -->
-<!-- orhan gence bay gay değilim dese napardınız -->
-
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35-->
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
-<!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
+<!-- bkz en sevdiğim kullar asyalı kullar https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
-
-
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 
