@@ -1,5 +1,5 @@
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler adres versin aldıralım evden-->
-<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ido sen misin lan -->
+<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz entry girmeye değmez haluk levent gib olamaz -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35-->
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
