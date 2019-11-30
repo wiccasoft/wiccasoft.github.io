@@ -1,4 +1,3 @@
-<!-- filistine doyulur mu https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
 <!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz yeah şappi -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
