@@ -4,6 +4,7 @@
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
 <!-- https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar asyalı kullar -->
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
+<!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 
 
