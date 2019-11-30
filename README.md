@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=E_zUxFrJ_SE her wiji kırane -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim beyin öldi mi ıssz acun kalir oglim -->
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
 <!-- https://www.uludagsozluk.com/e/42487495/ bkz öpüjem abicim ponçik ponçik -->
