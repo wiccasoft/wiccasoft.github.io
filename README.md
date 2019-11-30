@@ -4,8 +4,7 @@
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
 <!-- https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar asyalı kullar -->
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4 tatlı hayat 39-->
-<!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
-<!-- bkz isyankar rockçı vs arabesk rapçi -->
+<!-- https://www.youtube.com/watch?v=fZ0L7cidBvo bkz isyankar rockçı vs arabesk rapçi  -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
