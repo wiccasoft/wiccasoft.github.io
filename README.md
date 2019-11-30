@@ -11,6 +11,7 @@
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
 <!-- imamoğlu dese ki iski miski hikaye napardınız -->
+<!-- rafet inceye entry girereken bi yandan ibrahim tatlısese e girmek -->
 <!-- haluk bilginer karizması vs imamoğlu karizması -->
 <!-- imamaoğlu pencereye tıklayıp nabıyon hacı götünün mü parmaklıyon dese napardınız -->
 <!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
