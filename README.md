@@ -10,6 +10,7 @@
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
+<!-- bkz hüzünlü eşcinsellerin çaresizliği --> 
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın yine gelirler -->
 <!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
