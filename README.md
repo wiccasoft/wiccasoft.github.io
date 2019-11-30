@@ -9,24 +9,7 @@
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
-<!-- imamaoğlu performansı vs maçoğlu performansı -->
-<!-- bkz hüzünlü eşcinsellerin çaresizliği --> 
-<!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
-<!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın yine gelirler -->
-<!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
-<!-- bu kadar mı araplar kürtler kaka haluk bilginer çok seksi imamaoğlu seksi başka nusret ekşi başka -->
-<!-- https://www.uludagsozluk.com/k/neden-bu-saatte-uyan%C4%B1ks%C4%B1n/&w=gd eee sonra -->
-<!-- imamoğlu dese ki iski miski hikaye napardınız -->
-<!-- rafet inceye entry girereken bi yandan ibrahim tatlısese e girmek -->
-<!-- haluk bilginer karizması vs imamoğlu karizması -->
-<!-- imamaoğlu pencereye tıklayıp nabıyon hacı götünün mü parmaklıyon dese napardınız -->
-<!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
-<!-- isyankar rokçı vs arabesk rapçi -->
-<!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
-<!-- filistin de çocuklar ölürken hala arkadaşının götünü parmaklayan tipler olması -->
-<!-- haluk bilginer le bi gece vs sagopa kajmerle bi gece-->
-<!-- haluk bilginer heteroseksüelim dese napardınız -->
-<!-- orhan gence bay gay değilim dese napardınız -->
+
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
