@@ -9,10 +9,11 @@
 <!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
 <!-- isyankar rokçı vs arabesk rapçi -->
 <!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
-<!-- filistin de çocuklar ölürken hala arkadaşına anal fistin yapan tipler olması --<
+<!-- filistin de çocuklar ölürken hala arkadaşına anal fistin yapan tipler olması -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
+
 [![Image](smartdata/Screenshot_2019-11-29_11-09-01.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
 <!-- https://lostpedia.fandom.com/wiki/Juliet_Burke -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
