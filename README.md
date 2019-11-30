@@ -1,5 +1,5 @@
 
-[![Image](smartdata/Screenshot_2019-11-29_21-38-59.png)]( https://www.youtube.com/watch?v=Lw3sz4fOe-c ) 
+[![Image](smartdata/Screenshot_2019-11-29_21-38-59.png)]( https://www.youtube.com/watch?v=TtJjSVIw-Uo ) 
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35 -->
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
 <!-- https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar asyalı kullar -->
