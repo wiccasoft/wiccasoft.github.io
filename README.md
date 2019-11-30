@@ -10,6 +10,7 @@
 <!-- isyankar rokçı vs arabesk rapçi -->
 <!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
 <!-- filistin de çocuklar ölürken hala arkadaşına anal fistin yapan tipler olması -->
+<!-- haluk bilginer le bi gece seks vs sagopa kajmerle bi gece seks -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
