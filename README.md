@@ -3,7 +3,7 @@
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
 <!-- filistine doyulur mu https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
-<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz entry girmeye değmez haluk levent gib olamaz -->
+<!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz yeah şappi -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35-->
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
