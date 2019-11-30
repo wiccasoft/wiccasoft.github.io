@@ -8,6 +8,7 @@
 <!-- imamaoğlu pencereye tıklaup nabıyon hacı dese napardınız -->
 <!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
 <!-- isyankar rokçı vs arabesk rapçi -->
+<!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
