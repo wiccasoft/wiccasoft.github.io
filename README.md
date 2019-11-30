@@ -1,3 +1,4 @@
+<!-- https://b-e-n-d-e-n-a-d-a-m-o-l-m-a-z.uludagsozluk.com/ bkz ağır gay -->
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
 <!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
