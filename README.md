@@ -2,7 +2,6 @@
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim beyin öldi mi ıssz acun kalir oglim -->
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
 <!-- https://www.uludagsozluk.com/e/42487495/ bkz öpüjem abicim ponçik ponçik -->
-<!-- https://b-e-n-d-e-n-a-d-a-m-o-l-m-a-z.uludagsozluk.com/ bkz ağır ponçik -->
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
 <!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
