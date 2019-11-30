@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
 <!-- imamoğlu dese ki iski miski hikaye napardınız -->
+<!-- haluk bilginer karizması vs imamoğlu karizması -->
 <!-- imamaoğlu kpencereye yıklaup nabıyon hacı dese napardınız -->
 <!-- isyankar rokçı vs arabesk rapçi -->
 
