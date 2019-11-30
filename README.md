@@ -10,8 +10,8 @@
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
-<!-- bkz uludaki ortaokul terklerden öğrendiklerim -->
-<!-- bu kadar mı haluk bilginer çok seksi imamaoğlu seksi başka nusret ekşi başka -->
+<!-- bkz uludaki lise terklerden öğrendiklerim -->
+<!-- bu kadar mı araplar kürtler kaka haluk bilginer çok seksi imamaoğlu seksi başka nusret ekşi başka -->
 <!-- https://www.uludagsozluk.com/k/neden-bu-saatte-uyan%C4%B1ks%C4%B1n/&w=gd eee sonra -->
 <!-- bugün en çok kime entry girdiniz sorunsalı -->
 <!-- imamoğlu dese ki iski miski hikaye napardınız -->
