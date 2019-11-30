@@ -4,6 +4,7 @@
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
 <!-- sagopa vs isyankar serseri -->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
+<!-- imamaoğlu kapıyı çalsa gelse ne yapardınız sorunsalı -->
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 [![Image](smartdata/Screenshot_2019-11-29_11-09-01.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
