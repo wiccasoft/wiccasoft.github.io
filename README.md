@@ -1,3 +1,4 @@
+<!-- bkz ibrahim tatlısesin hala ararpları savunması -->
 <!-- bkz hala kürtleri ve arapları savunan orospu çocukları -->
 <!-- https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BC-sevme-sebepleri/&w=bg arap sevicilere ayarı anında vermeleri -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
