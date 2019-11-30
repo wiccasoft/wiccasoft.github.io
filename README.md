@@ -10,6 +10,7 @@
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
+<!-- bugün en çok kime entry girdiniz sorunsalı -->
 <!-- imamoğlu dese ki iski miski hikaye napardınız -->
 <!-- rafet inceye entry girereken bi yandan ibrahim tatlısese e girmek -->
 <!-- haluk bilginer karizması vs imamoğlu karizması -->
