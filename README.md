@@ -1,3 +1,4 @@
+<!-- bkz ibrahim talısesin paylaştığı filistin müziği -->
 <!-- bkz wiccasoft un ibrahim tatlıses idobay müzik olma ihtimali -->
 <!-- bkz wiccasoft un filistin kurtuluş örgütü paylaşımı -->
 <!-- bkz hala filistinidiye ağlayan götler bu fgece gösterdi vatan hayınlarını -->
