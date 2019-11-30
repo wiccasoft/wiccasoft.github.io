@@ -1,3 +1,4 @@
+<!-- haluk levent vs ibrahim tatlıses https://www.youtube.com/watch?v=PeIVhIwE8zU -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler adres versin aldıralım evden-->
 <!-- https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg bkz entry girmeye değmez haluk levent gib olamaz -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
