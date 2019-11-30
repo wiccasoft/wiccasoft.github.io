@@ -1,6 +1,6 @@
 <!-- bkz orospu sıçmıkları ulucular hala adıma başlık açamamış bu demek oluyor ki hala doğru yoldayım -->
 <!-- bkz hala adıma başlık açamayan oç ları -->
-<!-- https://www.uludagsozluk.com/k/nusret-g%C3%B6k%C3%A7e/&w=bg bkz oç -->
+<!-- https://www.uludagsozluk.com/k/nusret-g%C3%B6k%C3%A7e/&w=bg bkz oç nusret -->
 <!-- bkz türkler sosyal medyayı en iyi kullanan ırk olması -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
 <!-- https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz filistin için ağlamayan götler -->
