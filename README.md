@@ -1,4 +1,5 @@
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz kim lan o götler -->
+<!-- lan orospunun sıçtığı lise terkler sizi de sikeyimarap düşmalığınızı da oç ları -->
 <!-- bkz işimle ilgili paylaştığım herşeyden anlam çıkarmaya çalışan lise terkler -->
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35-->
 <!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
