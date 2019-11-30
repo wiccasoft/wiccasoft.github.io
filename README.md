@@ -9,7 +9,7 @@
 <!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
 <!-- isyankar rokçı vs arabesk rapçi -->
 <!-- filistin diye ağlayan göt vs israil diye ağlayan göt -->
-<!-- filistin de çocuklar ölürken hala arkadaşına anal fistin yapan tipler olması -->
+<!-- filistin de çocuklar ölürken hala arkadaşının götünü parmaklayan tipler olması -->
 <!-- haluk bilginer le bi gece vs sagopa kajmerle bi gece-->
 <!-- haluk bilginer heteroseksüelim dese napardınız -->
 
