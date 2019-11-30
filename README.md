@@ -6,6 +6,8 @@
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 <!-- bkz imamaoğlu köfte vs köfteci yusuf vs köfteci nusret -->
+<!-- bkz nusret gökçe vs nusret -->
+<!-- bkz isimden firma kurulmalı mı sorunsalı-->
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 
