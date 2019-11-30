@@ -5,7 +5,7 @@
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
 <!-- imamoğlu dese ki iski miski hikaye napardınız -->
 <!-- haluk bilginer karizması vs imamoğlu karizması -->
-<!-- imamaoğlu deseki biseksüelim napardınız sorunsalı-->
+<!-- imamaoğlu dese ki biseksüelim napardınız sorunsalı-->
 <!-- imamaoğlu kpencereye yıklaup nabıyon hacı dese napardınız -->
 <!-- isyankar rokçı vs arabesk rapçi -->
 
