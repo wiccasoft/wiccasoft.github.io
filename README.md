@@ -1,4 +1,4 @@
-<!-- bkz orospu sıçmıklarıhala adıma başlık açamamış bu demek oluyor ki hala doğru yoldayım -->
+<!-- bkz orospu sıçmıkları ulucular hala adıma başlık açamamış bu demek oluyor ki hala doğru yoldayım -->
 <!-- bkz hala adıma başlık açamayan oç ları -->
 <!-- https://www.uludagsozluk.com/k/nusret-g%C3%B6k%C3%A7e/&w=bg bkz oç -->
 <!-- bkz türkler sosyal medyayı en iyi kullanan ırk olması -->
