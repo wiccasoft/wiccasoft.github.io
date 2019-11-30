@@ -1,4 +1,5 @@
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
+<!-- bkz en sevmediğim müzik rap en sevmediğim takım fenerbahçe -->
 <!-- bkz en sevmediğim tiplerle muhattap edilmem -->
 <!-- bkz sagopa kajmer vs ceza vs eminem vsa metallica-->
 <!-- bkz fatih terim vs dieger drogba vs matte karatta -->
