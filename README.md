@@ -11,6 +11,7 @@
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo -->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
+<!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın yine gelirler -->
 <!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
 <!-- bu kadar mı araplar kürtler kaka haluk bilginer çok seksi imamaoğlu seksi başka nusret ekşi başka -->
 <!-- https://www.uludagsozluk.com/k/neden-bu-saatte-uyan%C4%B1ks%C4%B1n/&w=gd eee sonra -->
