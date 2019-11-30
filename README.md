@@ -1,5 +1,6 @@
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 <!-- bkz ali koçu ve siktiriboktan acıların takımı fenerbahçeyi siklemediğim gerçeği -->
+<!-- https://www.fanatik.com.tr/fenerbahcede-ersun-yanalin-goz-bebegi-volkan-demirel-2087344 -->
 
 [![Image](smartdata/Screenshot_2019-11-30_15-40-03.png)]( https://www.dailymotion.com/video/x5frzub ) 
 
