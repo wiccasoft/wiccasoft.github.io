@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/e/42487495/ bkz öpüjem abicim ponçik ponçik -->
 <!-- https://b-e-n-d-e-n-a-d-a-m-o-l-m-a-z.uludagsozluk.com/ bkz ağır gay -->
 <!-- bkz eşcinsel kamalcılardan kurtulma yolları: ölü kürt arap taklidi yapın -->
 <!-- bkz steven speilberg nuri bilge ceylan tarantinoyla aynı eve çıkmak -->
