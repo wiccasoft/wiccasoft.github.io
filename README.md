@@ -1,4 +1,4 @@
-<!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
+<!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece çok oç yaptı-->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
 <!-- https://www.uludagsozluk.com/k/hala-filistin-diye-a%C4%9Flayan-g%C3%B6tler/&w=bg bkz oç ları -->
 <!-- https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz filistin için ağlamayan götler -->
