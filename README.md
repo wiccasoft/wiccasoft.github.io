@@ -3,6 +3,7 @@
 <!-- bkz şeytan da bizi görecek mi https://www.youtube.com/watch?v=jVEKDcDEN1w -->
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4  tatlı hayat 39-->
 <!-- imamaoğlu performansı vs maçoğlu performansı -->
+<!-- imamoğlu dese ki iski miski hikaye napardınız -->
 <!-- imamaoğlu kpencereye yıklaup nabıyon hacı dese napardınız -->
 <!-- isyankar rokçı vs arabesk rapçi -->
 
