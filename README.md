@@ -1,4 +1,4 @@
-<!-- bkz ibrahim tatısesin beyin ölümünün gerçekleşimesi -->
+<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oğlim -->
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-araplara-ihanet-etmesi/ bkz buralar değerlenir -->
 <!-- https://www.uludagsozluk.com/e/42487495/ bkz öpüjem abicim ponçik ponçik -->
 <!-- https://b-e-n-d-e-n-a-d-a-m-o-l-m-a-z.uludagsozluk.com/ bkz ağır ponçik -->
