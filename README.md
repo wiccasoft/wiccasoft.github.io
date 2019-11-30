@@ -12,6 +12,7 @@
 <!-- filistin de çocuklar ölürken hala arkadaşının götünü parmaklayan tipler olması -->
 <!-- haluk bilginer le bi gece vs sagopa kajmerle bi gece-->
 <!-- haluk bilginer heteroseksüelim dese napardınız -->
+<!-- orhan gence bay gay değilim dese napardınız -->
 
 
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
