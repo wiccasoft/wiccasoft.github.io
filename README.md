@@ -1,5 +1,5 @@
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
-<!-- bkz isyankar rapçi dagopa vs isyankar rokçı arzı bela -->
+<!-- bkz isyankar rapçi sagopa vs isyankar rokçı arzı bela -->
 <!-- https://www.uludagsozluk.com/k/baltac%C4%B1-mehmet-pa%C5%9Fa/&w=bg adam tokmakçı beyler -->
 <!-- bkz en sevmediğim şeylerle ilişkilendirilmem  -->
 <!-- bkz en sevmediğim müzik rap en sevmediğim takım fenerbahçe -->
