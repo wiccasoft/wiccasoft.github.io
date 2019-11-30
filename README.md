@@ -1,4 +1,4 @@
-<!-- bkz 3 sene sonra youtube ı satın alacağım gerçeği -->
+<!-- bkz 3 sene sonra youtube ı satın alacağım gerçeği https://www.youtube.com/watch?v=1zd4lTPxuB0 -->
 <!-- https://www.uludagsozluk.com/k/orhun-topkaya-youtube-kanal%C4%B1/ adam top beyler -->
 <!-- https://www.uludagsozluk.com/k/nusret-g%C3%B6k%C3%A7e/&w=bg bkz oç nusret -->
 <!-- https://www.uludagsozluk.com/e/42487414/ bkz bu gece herkesin çok ponçik olması -->
