@@ -1,5 +1,5 @@
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
-<!-- bkz sagopa kajmer sorun var avm remix dinlerken gülmek-->
+<!-- bkz sagopa kajmer vs killa hakan -->
 <!-- https://www.youtube.com/watch?v=cCqW36BqBIo ersun yanal gider mi sorunsalı -->
 <!-- bkz isyankar rapçi sagopa vs isyankar rokçı arzı bela ersun-->
 <!-- https://www.uludagsozluk.com/k/baltac%C4%B1-mehmet-pa%C5%9Fa/&w=bg adam tokmakçı beyler -->
