@@ -2,6 +2,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz taklacı kerata -->
 <!-- https://www.uludagsozluk.com/k/kerem-bursin-in-seksi-foto%C4%9Fraflar%C4%B1/ bkz ergenleri tatmin eder -->
 <!-- bkz azından it ogli diye tükürükler saçarak entry giren kamalcılar -->
 <!-- bkz deep web teki it ogli hav hav hav diye konuşan ergenler -->
