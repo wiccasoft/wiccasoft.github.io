@@ -2,6 +2,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- bkz unakıtan aşiretinin yurt dışına kaçma planı -->
 <!-- bkz deep türkish web teki korkunç ibneler -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 bkz seni pazar günü klisede göremedim -->
 <!-- https://www.uludagsozluk.com/k/cemaat-tarikat-denen-%C5%9Feyin-bok-oldu%C4%9Funu-g%C3%B6rememek/&w=bg -->
