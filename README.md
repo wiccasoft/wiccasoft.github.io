@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!-- imamaoğlunun oğlunu fetö evlerine yollamasına ses etmeyen akpliler --> 
+<!-- bkz necip hablemitoğlunun imamoğluna fetöcü demesi -->
+<!-- bkz imamaoğlunun oğlunu fetö evlerine yollamasına ses etmeyen akpliler --> 
 <!-- https://www.youtube.com/watch?v=TJsJmX3iQkY bkz ahmet kaçarı trollemek -->
 <!-- https://www.youtube.com/watch?v=ssrTMAW7mIo bkz birklikte saf tuttular -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlunun nusret e gitmesi -->
