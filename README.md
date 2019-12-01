@@ -1,8 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!-- bkz kolpaçino bomba yılan serdar -->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-k%C4%B1z%C4%B1n%C4%B1-fet%C3%B6-evlerine-g%C3%B6ndermi%C5%9F-ak-partili/&w=bg bkz hanımı kızı yolladım kafam rahat --->
-<!-- https://www.youtube.com/watch?v=Q0YpfEB5w6c bkz ali babacan ın bomba gibi dönmesi --<
+<!-- https://www.youtube.com/watch?v=Q0YpfEB5w6c bkz ali babacan ın bomba gibi dönmesi -->
 <!-- bkz can dündarın uğur dündar götelek demesi -->
 <!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
 <!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
