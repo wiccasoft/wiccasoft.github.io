@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- bkz can dündarın uğur dündar götelek demesi -->
 <!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
 <!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
 <!-- bkz necati şaşmazın enes baturn karısını götürmesi -->
