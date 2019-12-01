@@ -13,7 +13,6 @@
 [![Image](smartdata/Screenshot_2019-11-29_18-43-39.png)]( https://www.youtube.com/watch?v=3ttlU1-bCzM) 
 
 [![Image](smartdata/Screenshot_2019-11-29_11-09-01.png)]( https://www.youtube.com/watch?v=MKcKtjrL5bc ) 
-<!-- https://lostpedia.fandom.com/wiki/Juliet_Burke -->
 <!-- https://www.youtube.com/watch?v=DgtKLrT9_GI -->
 <!-- https://www.youtube.com/watch?v=mOHMLuwTKWQ -->
 <!-- https://www.youtube.com/watch?v=MKcKtjrL5bc LOST: Flight 815 Crash in Real Time -->
