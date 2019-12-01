@@ -5,7 +5,7 @@
 <!-- https://www.youtube.com/watch?v=mtKWWcg60qE hasat zamanı -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın ? -->
 <!-- https://www.youtube.com/watch?v=lvEfEFpgni4 lafımdan çıkmayacaksını< bak -->
-<!-- https://www.youtube.com/watch?v=xTJav-ar6IQ babanda vakitsiz öterdi it oğli -->
+<!-- https://www.youtube.com/watch?v=xTJav-ar6IQ babanda vakitsiz öterdi it oğli cay koy -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
