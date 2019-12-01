@@ -2,12 +2,11 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!--bkz kore gazisi arut kösenin köse olduğu gerçeği -->
 <!-- bkz teen girl budun vs menzil şeyhi https://www.youtube.com/watch?v=0sE9xCDfuuU -->
 <!-- bkz ahsen unakıtanın gelini bahsen unakıtanın california daki lük malikanesi -->
 <!-- bkz kamal unakatınanın içgüveysi cafer unakıtan ı görmezden gelen kamalcılar -->
 <!-- https://www.uludagsozluk.com/k/ahsen-unak%C4%B1tan/&w=bg bkz unakıtan bi karı -->
-<!--bkz teen girl budunun ne zaman öleceği sorunsalı -->
-<!--bkz kore gazisi arut kösenin köse olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/k/vurduruyordur-entrylerinin-silinmesi/ bkz vurduruyordur yazdığım 5 milyon kişi nin mundar olması ->
 <!-- bkz muhammed mi denize düşse sikersin atatürk mü -->
 <!-- https://www.uludagsozluk.com/k/kore-gazisi-arut-k%C3%B6se/ bkz içimizdeki götveren hain  -->
