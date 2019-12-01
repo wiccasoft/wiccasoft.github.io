@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!-- bnk zenes batur vs batur baturhan -->
-<!-- https://www.youtube.com/watch?v=00iWQ7lfR7o ara koçum yala koçum -->
+<!-- bkz zenes batur vs batur baturhan -->
+<!-- bkz hala adıma başlık açılmamaış bu demek oluyor ki hala doğru yoldayım -->
 <!-- https://www.uludagsozluk.com/e/42492149/ lol -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
