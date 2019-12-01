@@ -2,14 +2,6 @@
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
-<!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
-<!-- bkz sagopa kajmer vs killa hakan https://www.youtube.com/watch?v=crXRtDWWrSQ  -->
-<!-- bkz isyankar rapçi sagopa vs isyankar rokçı arzı bela ersun-->
-<!-- https://www.youtube.com/watch?v=cCqW36BqBIo ersun yanal gider mi sorunsalı -->
-<!-- https://www.youtube.com/watch?v=upyhXMifMwM bkz ersun yanalı gönder be koçum -->
-<!-- bkz aykut kocaman vs ersun yanal https://www.youtube.com/watch?v=DXXhXaBWgx0-->
-<!-- https://www.fanatik.com.tr/fenerbahcede-ersun-yanalin-goz-bebegi-volkan-demirel-2087344 -->
-<!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
 
 [![Image](smartdata/Screenshot_2019-11-30_15-40-03.png)]( https://www.dailymotion.com/video/x5frzub ) 
 
