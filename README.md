@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
 <!--bkz kore gazisi arut kösenin köse olduğu gerçeği -->
+<!-- https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-k%C3%B6pek-o%C4%9Flu-k%C3%B6peklerin-menzil-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/ bkz it ogliler lo -->
 <!-- bkz teen girl budun vs menzil şeyhi https://www.youtube.com/watch?v=0sE9xCDfuuU -->
 <!-- bkz ahsen unakıtanın gelini bahsen unakıtanın california daki lük malikanesi -->
 <!-- bkz kamal unakatınanın içgüveysi cafer unakıtan ı görmezden gelen kamalcılar -->
