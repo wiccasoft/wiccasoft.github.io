@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- bkz türklerin ünlü diye saydığı isimleri googlamaya üşenmek -->
 <!-- bkz ünlü feride cansel in magazin dünyasına ateş püskürmesi -->
 <!-- bkz necati şaşmazın enes baturn karısını götürmesi -->
 <!-- bkz sen yerinde dur karşında enes baturrrrrrrr -->
