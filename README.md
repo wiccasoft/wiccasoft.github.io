@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298)]
-<!--bkz kadir mısıroğluna duyulan öfkenin sebebi -->
+<!--bkz kadir mısıroğluna duyulan öfkenin ana sebebi ne sorunsalı olması sorunsalı-->
 <!-- bkz ayfone un sosyal statü göstergesi olduğu karanlık ülke https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 
 
