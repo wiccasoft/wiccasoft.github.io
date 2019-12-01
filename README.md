@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-
+<!--bkz aay fone ayol 12 alamayan yıkık -->
 <!-- https://www.youtube.com/watch?v=lvEfEFpgni4 bkz huawei mate x almayan yıkık -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
