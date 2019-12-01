@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- bkz aşık mahzunu şerfini neşet ertaş ın götünü pandiklemesi -->
 <!-- bkz uğur dündarın can dündara baba demesi -->
 <!-- bkz enes batur dışında saydığınız isimleri tanımıyor oluşum -->
 <!-- bkz türklerin ünlü diye saydığı isimleri googlamaya üşenmek -->
