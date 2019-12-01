@@ -4,6 +4,7 @@
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
 <!-- https://www.youtube.com/watch?v=mtKWWcg60qE hasat zamanı -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın ? -->
+<!-- https://www.youtube.com/watch?v=lvEfEFpgni4 lafımdan çıkmayacaksını< bak -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
