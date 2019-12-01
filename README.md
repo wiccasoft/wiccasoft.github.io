@@ -3,7 +3,7 @@
 <!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
 <!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
 <!-- bkz necati şaşmazın enes baturn karısını götürmesi -->
-<!-- bkz sen yerinde dur karşında enes baturrrrrrrr -->
+<!-- bkz sen yerinde dur karşında ersun baturrrrrrrr -->
 <!-- bkz emre morun enes baturun lise arkadaşı olması -->
 <!-- bkz enes batur vs batur baturhan -->
 
