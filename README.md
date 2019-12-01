@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298)]
+<!--bkz muhamazarlardaki kadir mısıroğlu türban düşmanlığı -->
 <!--bkz erman toroğlunun fatih moroğluya mısıroğlu demesi -->
 <!--bkz ersun yanal gelince it gibi titreyen gsliler -->
 <!--bkz kadir mısıroğluna duyulan öfkenin ana sebebi ne sorunsalı olması sorunsalı-->
