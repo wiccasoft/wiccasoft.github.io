@@ -1,7 +1,8 @@
 
 
 
-[![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) ,
+[![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!--bkz deep türkish web teki korkunç ibneler -->
 <!-- https://www.uludagsozluk.com/k/vurduruyordur-entrylerinin-silinmesi/ bkz vurduruyordur -->
 <!-- https://www.uludagsozluk.com/k/younes-belhanda/&w=bg bkz taklacı kerata -->
 <!-- https://www.uludagsozluk.com/k/kerem-bursin-in-seksi-foto%C4%9Fraflar%C4%B1/ bkz ergenleri tatmin eder -->
