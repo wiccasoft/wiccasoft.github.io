@@ -1,3 +1,6 @@
+
+[![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 <!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
 <!-- bkz sagopa kajmer vs killa hakan https://www.youtube.com/watch?v=crXRtDWWrSQ  -->
