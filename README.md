@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=lvEfEFpgni4 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!-- bkz teen girl budun vs menzil şeyhi -->
+<!-- bkz teen girl budun vs menzil şeyhi https://www.youtube.com/watch?v=0sE9xCDfuuU -->
 <!-- bkz tangır budunun menzil şeyhine savaş açması -->
 <!-- bkz tangır budunun mini eteğiyle menzil şeyhini tehdit etmesi -->
 <!-- bkz araştırmacı bunak tangır budunun menzil şeyhine seni mezar gömecem oğlum demesi -->
