@@ -10,7 +10,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-29_22-57-15.png)]( https://www.youtube.com/watch?v=BfVIUPqVXv4 ) 
 <!-- https://www.youtube.com/watch?v=6izKNP_UQ_0 tatlı hayat 35 -->
-<!-- https://www.dailymotion.com/video/xcuch5 sky giant -->
 <!-- https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar asyalı kullar -->
 <!-- https://www.youtube.com/watch?v=ZXRqvVgG2G4 tatlı hayat 39-->
 <!-- https://www.youtube.com/watch?v=fZ0L7cidBvo bkz isyankar rockçı vs arabesk rapçi  -->
