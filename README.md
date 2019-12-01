@@ -2,7 +2,7 @@
 <!-- bkz sagopa kajmer vs killa hakan https://www.youtube.com/watch?v=crXRtDWWrSQ  -->
 <!-- bkz isyankar rapçi sagopa vs isyankar rokçı arzı bela ersun-->
 <!-- https://www.youtube.com/watch?v=cCqW36BqBIo ersun yanal gider mi sorunsalı -->
-<!-- https://www.youtube.com/watch?v=upyhXMifMwM bkz ersun yanalı getir be koçum -->
+<!-- https://www.youtube.com/watch?v=upyhXMifMwM bkz ersun yanalı gönder be koçum -->
 <!-- bkz aykut kocaman vs ersun yanal https://www.youtube.com/watch?v=DXXhXaBWgx0-->
 <!-- https://www.fanatik.com.tr/fenerbahcede-ersun-yanalin-goz-bebegi-volkan-demirel-2087344 -->
 <!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
