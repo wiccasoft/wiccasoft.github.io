@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!--bkz azından it ogli diye tükürükler saçarak entry giren kamalcıalr -->
+<!-- bkz azından it ogli diye tükürükler saçarak entry giren kamalcılar -->
 <!-- bkz eşek bafileyen it ogli kürtler -->
 <!-- https://www.uludagsozluk.com/k/e%C5%9Fek-bafileyen-ka%C3%A7ak-elektrik-kullanan-ito%C4%9Fluit/ -->
 <!-- bkz göbekli şeyh vs göbelitepe -->
