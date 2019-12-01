@@ -5,7 +5,6 @@
 <!-- bkz necati şaşmazın enes baturn karısını götürmesi -->
 <!-- bkz sen yerinde dur karşında enes baturrrrrrrr -->
 <!-- bkz emre morun enes baturun lise arkadaşı olması -->
-<!-- bkz enes baturun saçını sarıya boyaması -->
 <!-- bkz enes batur vs batur baturhan -->
 <!-- bkz hala adıma başlık açılmamaış bu demek oluyor ki hala doğru yoldayım -->
 <!-- https://www.uludagsozluk.com/e/42492149/ lol -->
