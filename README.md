@@ -2,6 +2,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- https://www.uludagsozluk.com/k/peygamber-efendimiz-vs-allah-efendimiz/&w=bg bkz efendi kıymetlimis -->
 <!-- bkz unakıtan aşiretinin yurt dışına kaçma planı -->
 <!-- bkz sare davutoğlu ahsen unakıtanoğlu dostluğu -->
 <!-- bkz deep türkish web teki korkunç ibneler -->
