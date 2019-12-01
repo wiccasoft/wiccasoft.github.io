@@ -2,17 +2,10 @@
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
 <!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
 <!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
-<!-- bkz aşık mahzunu şerfini neşet ertaş ın götünü pandiklemesi -->
-<!-- bkz uğur dündarın can dündara baba demesi -->
-<!-- bkz enes batur dışında saydığınız isimleri tanımıyor oluşum -->
-<!-- bkz türklerin ünlü diye saydığı isimleri googlamaya üşenmek -->
-<!-- bkz ünlü feride cansel in magazin dünyasına ateş püskürmesi -->
 <!-- bkz necati şaşmazın enes baturn karısını götürmesi -->
 <!-- bkz sen yerinde dur karşında enes baturrrrrrrr -->
 <!-- bkz emre morun enes baturun lise arkadaşı olması -->
 <!-- bkz enes batur vs batur baturhan -->
-<!-- bkz hala adıma başlık açılmamaış bu demek oluyor ki hala doğru yoldayım -->
-<!-- https://www.uludagsozluk.com/e/42492149/ lol -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
