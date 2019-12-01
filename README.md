@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298)]
-<!-- bkkz tayyip erdoğanın beni seven  sigara içmez açıklması --->
+<!--bkz kim trilyoner olmak ister katılmayan yıkık -->
+<!--bkz tayyip erdoğanın beni seven  sigara içmez açıklması --->
 <!--bkz tayyip erdoğanın sigaraya olan neeretinin ana sebebi -->
 <!--bkz muhamazarlardaki kadir mısıroğlu türban düşmanlığı -->
 <!--bkz erman toroğlunun fatih moroğluya mısıroğlu demesi -->
