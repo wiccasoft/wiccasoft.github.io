@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=lvEfEFpgni4 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- https://www.uludagsozluk.com/k/vurduruyordur-entrylerinin-silinmesi/ bkz vurduruyordur yazdığım 5 milyon kişi ->
 <!-- bkz muhammed mi deniz dişse kurtarırısn atatürk mü -->
 <!-- https://www.uludagsozluk.com/k/kore-gazisi-arut-k%C3%B6se/ bkz içimizdeki götveren hain  -->
 <!-- https://www.youtube.com/watch?v=mtKWWcg60qE hasat zamanı -->
