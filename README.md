@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!--bkz karısıyla kızıyla rakı içen gavat vs karısıyla kızıyla camiye giden gavat -->
 <!-- bkz necati şaşmaz racon kesmiyorum kafa kesiyorum  çıkışı -->
 <!-- bkz muharrem ince den ibrahim kalın a kalın gavat göndermesi --->
 <!-- bkz can dündar dan uğur dündar a gavat göndermesi -->
