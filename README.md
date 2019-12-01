@@ -1,14 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298)]
-<!--bkz kim trilyoner olmak ister katılmayan yıkık -->
-<!--bkz tayyip erdoğanın beni seven sigara içmez açıklması --->
-<!--bkz tayyip erdoğanın sigaraya olan nefretinin ana sebebi -->
-<!--bkz muhamazarlardaki kadir mısıroğlu türban düşmanlığı -->
-<!--bkz erman toroğlunun fatih moroğluya mısıroğlu demesi -->
-<!--bkz ersun yanal gelince it gibi titreyen gsliler -->
-<!--bkz kadir mısıroğluna duyulan öfkenin ana sebebi ne sorunsalı olması sorunsalı-->
-<!-- bkz ayfone un sosyal statü göstergesi olduğu karanlık ülke https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
-
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
