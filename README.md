@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=lvEfEFpgni4 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- bkz hala oç larıo adıma başlık açmamaış bu demek oluyor ki hala doğru yoldayım -->
 <!-- https://www.uludagsozluk.com/k/ahsen-unak%C4%B1tan/&w=bg bkz unakıtan bi karı -->
 <!--bkz teen girl budunun ne zaman öleceği sorunsalı -->
 <!--bkz kore gazisi arut kösenin köse olduğu gerçeği -->
