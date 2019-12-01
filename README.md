@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=lvEfEFpgni4 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!-- bkz menzil şeyhinin unakıtanlarla dostluğu -->
+<!-- bkz menzil şeyhinin unakıtanlarla dostluğunu ses çıkarmayan kamalcılar-->
 <!-- bkz unakıtanlar aşiretinin rusyadaki bağları -->
 <!-- bkz ahsen unakıtanın gelini bahsen unakıtanın california daki lük malikanesi -->
 <!-- bkz kamal unakatınanın içgüveysi cafer unakıtan ı görmezden gelen kamalcılar -->
