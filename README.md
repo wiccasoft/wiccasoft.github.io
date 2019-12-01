@@ -2,13 +2,11 @@
 [![Image](smartdata/Screenshot_2019-12-01_04-54-12.png)]( https://www.youtube.com/watch?v=lvEfEFpgni4 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- https://www.uludagsozluk.com/k/kore-gazisi-arut-k%C3%B6se/ bkz içimizdeki götveren hain  -->
 <!-- https://www.youtube.com/watch?v=mtKWWcg60qE hasat zamanı -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın ? -->
 <!-- https://www.youtube.com/watch?v=lvEfEFpgni4 lafımdan çıkmayacaksını< bak -->
 <!-- https://www.youtube.com/watch?v=xTJav-ar6IQ baban da vakitsiz öterdi it oğli cay koy -->
-<!-- https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k aşkolar
-<!-- bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504  -->
-<!-- bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
