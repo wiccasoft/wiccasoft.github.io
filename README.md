@@ -5,7 +5,7 @@
 <!-- bkz azından it ogli diye tükürükler saçarak entry giren kamalcılar -->
 <!-- bkz eşek bafileyen it ogli kürtler -->
 <!-- https://www.uludagsozluk.com/k/e%C5%9Fek-bafileyen-ka%C3%A7ak-elektrik-kullanan-ito%C4%9Fluit/ -->
-<!-- bkz göbekli şeyh vs göbelitepe -->
+<!-- bkz göbekli şeyh vs göbeklitepe -->
 <!-- bkz süleymancıların menzil şeyhini kıskanması --> 
 <!-- bkz menzil şeyhinin menzile gelmesi -->
 <!-- bkz kore gazisi arut kösenin köse olduğu gerçeği -->
