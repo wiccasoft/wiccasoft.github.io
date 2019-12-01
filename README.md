@@ -2,7 +2,8 @@
 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!--bkz it oğlu it soylarının yılan unakıtan düşmanlığı -->
+<!-- bkz it oğlu it islamcıların tarikat düşmanlığı -->
+<!-- bkz it oğlu it soylarının yılan unakıtan düşmanlığı -->
 <!-- bkz fedöcü köpek oğlu köpeklerin yılşan serdar düşmanlığı -->
 <!-- bkz celal kılışdaroğlu ahsen unakatan dostluğu -->
 <!-- https://www.uludagsozluk.com/k/ankaral%C4%B1-serdar/ bkz yılan serdar -->
