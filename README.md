@@ -1,7 +1,7 @@
 
-
-
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-
+<!-- https://www.youtube.com/watch?v=lvEfEFpgni4 bkz kayfon almayan yıkık -->
+
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
 [![Image](smartdata/Screenshot_2019-11-30_15-40-03.png)]( https://www.dailymotion.com/video/x5frzub ) 
