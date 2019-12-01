@@ -2,6 +2,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
+<!-- bkz fatih terim gelince it gibi korkan fenerliler -->
 <!-- bkz it oğlu it islamcıların tarikat düşmanlığı -->
 <!-- bkz it oğlu it soylarının yılan unakıtan düşmanlığı -->
 <!-- bkz fedöcü köpek oğlu köpeklerin yılşan serdar düşmanlığı -->
