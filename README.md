@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
 <!-- bkz azından it ogli diye tükürükler saçarak entry giren kamalcılar -->
+<!-- bkz deep web teki it ogli hav hav hav diye konuşan ergenler -->
 <!-- bkz eşek bafileyen it ogli kürtler -->
 <!-- https://www.uludagsozluk.com/k/e%C5%9Fek-bafileyen-ka%C3%A7ak-elektrik-kullanan-ito%C4%9Fluit/ -->
 <!-- bkz göbekli şeyh vs göbeklitepe -->
