@@ -1,23 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
-<!-- bkz karısıyla kızıyla rakı içen gavat vs karısıyla kızıyla camiye giden gavat -->
-<!-- bkz necati şaşmaz racon kesmiyorum kafa izni kesiyorum  çıkışı -->
-<!-- bkz muharrem ince den ibrahim kalın a kalın gavat göndermesi --->
-<!-- bkz can dündar dan uğur dündar a gavat göndermesi -->
-<!-- bkz uğu dündar halk evlerine karısını kızını yollaması -->
-<!-- bkz necip hablemitoğlunun imamoğluna fetöcü demesi -->
-<!-- bkz imamaoğlunun oğlunu fetö evlerine yollamasına ses etmeyen akpliler --> 
-<!-- https://www.youtube.com/watch?v=TJsJmX3iQkY bkz ahmet kaçarı trollemek -->
-<!-- https://www.youtube.com/watch?v=ssrTMAW7mIo bkz birklikte saf tuttular -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlunun nusret e gitmesi -->
-<!-- https://www.youtube.com/watch?v=Q0YpfEB5w6c bkz ali babacan ın bomba gibi dönmesi -->
-<!-- bkz can dündarın uğur dündar götelek demesi -->
-<!-- http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374 -->
-<!-- bkz ersun yanalın beşiktaşa göz dikmesi -->
-<!-- bkz necati şaşmazın enes baturn karısını götürmesi -->
-<!-- bkz sen yerinde dur karşında ersun baturrrrrrrr -->
-<!-- bkz emre morun enes baturun lise arkadaşı olması -->
-<!-- bkz enes batur vs batur baturhan -->
 
 [![Image](smartdata/Screenshot_2019-11-30_16-38-43.png)]( https://www.dailymotion.com/video/x99fx6 ) 
 
