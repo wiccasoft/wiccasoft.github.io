@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-11-30_20-58-04.png)]( https://news.sky.com/story/north-korea-calls-japanese-pm-shinzo-abe-imbecile-and-political-dwarf-in-row-over-missiles-11874298 ) 
 <!-- bkz celal kılışdaroğlu ahsen unakatan dostluğu -->
+<!-- https://www.uludagsozluk.com/k/ankaral%C4%B1-serdar/ bkz yılan serdar -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg bkz menzil şeyhi -->
 <!-- https://www.uludagsozluk.com/k/ahsen-unak%C4%B1tan/&w=bg bkz unakıtan lebleciler zinciri -->
 <!-- https://www.uludagsozluk.com/k/ankaral%C4%B1-serdar/ bkz arkadan vurdun mu önden sallanacak -->
