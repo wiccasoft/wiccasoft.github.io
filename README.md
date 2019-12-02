@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/  braking news tıklağ -->
 <!-- https://www.cnnturk.com/video/ekonomi/son-dakika-asgari-ucrette-zam-pazarligi-2020de-asgari-ucret-ne-kadar-olacak -->
 <!-- https://www.uludagsozluk.com/e/42498121/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42497202/ bkz haber botları vs kamalcılar -->
