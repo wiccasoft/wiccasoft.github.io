@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz selin ciğercinin araplara benzemesi -->
 <!-- bkz selin ciğercinin kocişkom bana ada alacak açıklaması -->
 <!-- bkz selin ciğercinin götüm yere yakın değil açıklaması -->
 <!-- bkz selin ciğercinin bugattiyle verdiği poz -->
