@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz atatürk gençliği ->
 <!-- bkz selin ciğerci magazincilere ateş püskürdü -->
 <!-- bkz selin ciğerci nin kadınlar matinasına katılması -->
