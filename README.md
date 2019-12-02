@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz selin ciğerci vs haluk bilginer -->
 <!-- bkz selin ciğerciye benzeyen ergenlerin çoşması -->
 <!-- https://www.uludagsozluk.com/k/alacaksan%C4%B1z-1-50-k%C4%B1z-al%C4%B1n/ tavuk mu alıyosun amın feryadı -->
 <!-- bkz selin ciğerci fanboyları vs can yaman fanboyları -->
