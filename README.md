@@ -2,7 +2,8 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
-<!-- bkz tayyipin demirtaşın çizgisini beğeniyorum açıklaması https://www.youtube.com/watch?v=Adsxn-aXSwk-->
+<!-- bkz demirtaşın en iyi kürt ölü kürttür çıkışı https://www.youtube.com/watch?v=Adsxn-aXSwk -->
+<!-- bkz tayyipin demirtaşın çizgisini beğeniyorum açıklaması https://www.youtube.com/watch?v=Adsxn-aXSwk -->
 <!-- bkz imamaoğlunun en iyi kürt ölü kürttür açıklaması -->
 <!-- bkz trump açlık orucunu bıraktığını açıkladı -->
 <!-- bkz putin gözlatında öldürüldü haberlerini yalanladı -->
