@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 <!-- https://www.uludagsozluk.com/e/42498467/ bkz ortaokulluların coşması -->
+<!-- bkz çalışmak zorunda olmayan  ulucu ergenler -->
 <!-- bkz babasından izin almadan bakkala gidemeyen ergenlerin frank lucas gibi nickler alması -->
 <!-- https://www.uludagsozluk.com/e/42498484/ 
 <!-- bkz can yaman fanbyoyları vs kıvanç tatlıtuğ fanboyları -->
