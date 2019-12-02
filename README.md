@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
+<!-- bkz trump açlık orucunu bıraktığını açıkladı -->
 <!-- bkz putin gözlatında öldürüldü haberlerini yalanladı -->
 <!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
 <!-- bkz tayyip vefat etti haberlerinin yalan olması -->
