@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
+<!-- bkz 1978 li adama sus ve yalamaya devam et diyen mor klavyeli ergen ergen -->
 <!-- bkz uludaki ergenler 2009 lu mu acaba sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz kendini tarif etmiş -->
 <!-- https://www.uludagsozluk.com/e/42498467/ bkz ortaokulluların coşması -->
