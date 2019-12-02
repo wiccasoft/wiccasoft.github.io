@@ -2,14 +2,14 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 <!-- bkz demirtaşın paylaştığı cenaze postu https://www.pinterest.com/wiccasoft/ -->
 <!-- bkz göksel kaya vs ahmet kaya -->
-<!-- https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k aşkolar -->
-<!-- bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 -->
-<!-- bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-vefat-etmesi/ bkz demirtaşın cenaze paylaşımı -->
 <!-- https://www.uludagsozluk.com/k/rus-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg kazak erkeğinin hoplatacağı versus --> 
 <!-- https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-erkeklerin-belki-sevi%C5%9Firim-%C3%A7abalar%C4%B1/ bkz hayallerde yaşıyor bazı ergenler -->
 <!-- https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=gd bkz ülkücü bıyıklı erkekler -->
 <!-- bkz yürüyemeyen emre morun tedavi eden ekşici doktora yürümesi -->
+<!-- https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k aşkolar -->
+<!-- bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 -->
+<!-- bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 -->
 <!--- https://eksisozluk.com/muayene-edilen-hastanin-sosyal-medyadan-yurumesi--6267677?a=popular bkz dezenformasyon -->
 <!-- https://eksisozluk.com/selahattin-demirtasin-bilincinin-kapanmasi--6267375?a=popular bkz demirtaşın bilin altı -->
 <!-- https://www.dunya.com/rss -->
