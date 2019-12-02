@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!--https://www.uludagsozluk.com/e/42497202/ bkz haber botları vs kamalcılar -->
+<!-- https://www.uludagsozluk.com/e/42498121/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- https://www.uludagsozluk.com/e/42497202/ bkz haber botları vs kamalcılar -->
 <!-- https://www.uludagsozluk.com/e/42497992/ bkz haber botları versus kamalcılar -->
 <!-- bkz kürt kızı vs selin ciğerci erkek hali -->
 <!-- https://www.uludagsozluk.com/e/42498113/ bkz shao kahn ın ikisinde hoplatacağı versuslar yapan ergenler -->
