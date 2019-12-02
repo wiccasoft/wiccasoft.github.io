@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 <!-- bkz demirtaşın paylaştığı cenaze postu https://www.pinterest.com/wiccasoft/ -->
+<!-- bkz göksel kaya vs ahmet kaya -->
 <!-- https://www.kizlarsoruyor.com/diger/q1974480-beyin-cerrahi-ne-kadar-maas-alir amerikada 50 k aşkolar -->
 <!-- bkz hangisi aşkolar https://twitter.com/mervetasskin/status/1199404714451861504 -->
 <!-- bkz sol lob vs sağ lob https://twitter.com/bos_cerrahisi/status/1199745773296066560?s=21 -->
