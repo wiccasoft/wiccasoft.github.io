@@ -5,39 +5,10 @@
 <!-- bkz imamoğlu nun mahalle karılarına benzediği için ciddiye alamamak -->
 <!-- bkz emine erdoğan selin ciğerci erkek hali  benzerliği -->
 <!-- bkz bira içen türbanlı kız başlığının açılmamış olması https://www.youtube.com/watch?v=XsbksXXgXwQ -->
-<!-- bkz kocişko parası yemek varken başlık açacak kadar sala olmak https://www.uludagsozluk.com/e/42497534/ -->
-<!-- bkz chivas regal içmeyen erkek başlığını açılmamış olması -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam-ve-chivas-kongresi/ -->
-<!-- bkz kakatürke benzeyen adam ve chivas regal kongresi -->
-<!-- bkz başlık açaraken annenin topkek getirip aferin oğlum demesi -->
-<!-- bkz iş vakti türbanlıların üstüne işemeli  başlık açaçacak kadar rahat olmak -->
-<!-- bkz bira içip işsiz türbanlıların üstüne işemek -->
-<!-- https://sweet-mandarine.uludagsozluk.com/ bkz türkiyenin umut kaynağı -->
-<!-- bkz başlık açarak ekonomiyi kalkındıran kamalcılar -->
-<!-- bkz uludaki ergen işsiz kamalcılarla işsiz türbanlıların ekonomiye katkısı -->
-<!-- https://www.uludagsozluk.com/k/benim-t%C3%BCrbanl%C4%B1-bac%C4%B1m%C4%B1n-%C3%BCzerine-i%C5%9Fediler/&w=bg -->
-<!-- uludaki ergen ibnelerin selin ciğerci erkek haline benzediği gerçeği -->
-<!-- https://www.uludagsozluk.com/k/k%C4%B1rk-haramilerin-ma%C4%9Fara-%C5%9Fifresini-de%C4%9Fi%C5%9Ftirmesi/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/&w=bg vurduruyordur akımının level atlaması -->
-<!-- bkz mustafa kemalin ibne olduğu gerçeği -->
-<!-- https://www.uludagsozluk.com/e/42497534/ bkz bahaneleri alayım -->
-<!-- https://galeri.uludagsozluk.com/r/selin-ci%C4%9Ferci-1826444/ bkz selinciğerci nin sanki şeye benzemesi -->
-<!-- bkz selin ciğerci erkek hali vs selin ciğersiz erkek hali -->
-<!-- bkz selin ciğerci erkek hali vs bülent ersoy erkek hali -->
+<!-- bkz kocişko parası yemek varken başlık açacak kadar salak olmak https://www.uludagsozluk.com/e/42497534/ -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz hayalerde yaşıyo bazı ibneler ->
-<!-- bkz selin ciğerci magazincilere ateş püskürdü -->
-<!-- bkz selin ciğerci nin kadınlar matinasına katılması -->
-<!-- bkz selin ciğercinin kocasının aykalarını yıkaması -->
 <!-- bkz enes batur fanboyları vs selin ciğerci fanboyları -->
-<!-- bkz selin ciğerci erkek hali fotoşoksuz -->
-<!-- https://www.uludagsozluk.com/k/mezars%C4%B1z-hewaller/ bkz işsiz hewaller-->
-<!-- bkz selin ciğercinin kayınbabası vs helin ciğercinin eltisi -->
-<!-- bkz selin ciğerci erkek hali fotoşoksuz -->
-<!-- bkz t,rk ekonomisinin lokomotifi türbanlılar -->
-<!-- bkz mustafa kamalın atayız olduğu gerçeği -->
-<!-- bkz türbanlıların ekonomiye katkısı yüksek ıolduğu için saldırıya uğramaları -->
-<!-- https://www.uludagsozluk.com/k/2-aral%C4%B1k-2019-chp-lilerin-t%C3%BCrbanl%C4%B1-k%C4%B1za-sald%C4%B1rmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/yunan-sevdal%C4%B1s%C4%B1-fesli/ bkz fesli bunak -->
 <!-- https://www.youtube.com/watch?v=OIOqFBa7htQ ali babuşcan ve akboylar -->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
