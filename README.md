@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- bkz hayallerde yaşyıyor bazı ergenler -->
+<!-- bkz 41 yaşından sonra ergenlerin hiç çekilmemesi -->
 <!-- https://www.uludagsozluk.com/e/42499575/ bkz hayallerde yaşıyor bazı liseliler -->
 <!-- bkz selin ciğerci bugattiye biniyomuş kankağğ sikerler ben de kestiriyommm kankaağğ  -->
 <!-- bkz emre morun yürüdüğü doktorun beyin cerrahı çıkması -->
