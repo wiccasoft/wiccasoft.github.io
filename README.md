@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!--v bkz mucize doktordaki bözek suratlı liseli vs uludaki selin ciğerci erkek hali tipli ibneler -->
 <!--https://www.uludagsozluk.com/k/mucize-doktor-ali-vs-%C3%A7ukur-ali%C3%A7o/ bkz mucize doktordakşi böcek suratlı ergen -->
 <!-- bkz evden dışarı çıkmaya korkan ulucu ibnelerin güldürmesi -->
 <!-- https://www.uludagsozluk.com/e/42497099/ bkz hayallerde yaşıyor bazı ibneler -->
