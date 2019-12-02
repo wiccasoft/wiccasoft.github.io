@@ -4,8 +4,6 @@
 <!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
 <!-- bkz tayyip vefat etti haberlerinin yalan olması -->
 <!-- bkz demirtaşın odasında ölü bulunması -->
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-hi%C3%A7bir-kurala-d%C3%BCzene-uymamas%C4%B1/ en iyi kürt ölü küttür -->
-<!-- bkz demirtaşın en iyi kürt ölü kürttür çıkışı https://www.youtube.com/watch?v=Adsxn-aXSwk -->
 <!-- bkz tayyipin demirtaşın çizgisini beğeniyorum açıklaması https://www.youtube.com/watch?v=Adsxn-aXSwk -->
 <!-- bkz imamaoğlunun en iyi kürt ölü kürttür açıklaması -->
 <!-- bkz trump açlık orucunu bıraktığını açıkladı -->
