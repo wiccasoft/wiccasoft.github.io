@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!--bkz kakatürke benzeyen adam ve sivas kongresi -->
 <!-- bkz başlık açaraken annenin topkek getirip aferin oğlum demesi -->
 <!-- bkz iş vakti türbanlıların üstüne işemeli  başlık açaçacak kadar rahat olmak -->
 <!-- bkz bira içip işsiz türbanlıların üstüne işemek -->
