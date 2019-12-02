@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
-<!-- bkz macronun bilincini yitirip hapiste ölmesi -->
+<!-- bkz macronun bilincini yitirip ölü taklidi yapması-->
 <!-- https://www.uludagsozluk.com/e/42497784/ bkz iyi ki sigara içiyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/&w=gd bkz vurdururyordurun tanga giysine gönmesi -->
 <!-- bkz selocan google arat haberler paylaş link https://www.youtube.com/watch?v=UNFDHgjrlK8 -->
