@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz işsiz kamalcılarla işsiz türbanlıların ekonomiye katkısı -->
+<!-- https://www.uludagsozluk.com/k/benim-t%C3%BCrbanl%C4%B1-bac%C4%B1m%C4%B1n-%C3%BCzerine-i%C5%9Fediler/&w=bg -->
 <!-- uludaki ergen ibnelerin selin ciğerci erkek haline benzediği gerçeği -->
 <!-- https://www.uludagsozluk.com/k/k%C4%B1rk-haramilerin-ma%C4%9Fara-%C5%9Fifresini-de%C4%9Fi%C5%9Ftirmesi/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/&w=bg vurduruyordur akımının level atlaması -->
