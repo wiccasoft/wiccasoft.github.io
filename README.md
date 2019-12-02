@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!--bkz 41 yaşında erkek selin ciğerci ilişkisi -->
 <!--bkz selin ciğerci vs emine erdoğan vs bugatti -->
 <!-- bkz selin ciğerci vs haluk bilginer -->
 <!-- bkz selin ciğerciye benzeyen ergenlerin çoşması -->
