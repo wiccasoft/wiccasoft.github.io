@@ -1,12 +1,12 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- https://www.uludagsozluk.com/k/sinirli-hocan%C4%B1n-dersine-e%C4%9Flenmek-i%C3%A7in-girmek/ hayallerde yaşıyor bazı ibneler -->
+
 <!-- https://www.uludagsozluk.com/e/42497534/ bkz bahaneleri alayım -->
 <!-- https://galeri.uludagsozluk.com/r/selin-ci%C4%9Ferci-1826444/ bkz selinciğerci nin sanki şeye benzemesi -->
 <!-- bkz selin ciğerci erkek hali vs selin ciğersiz erkek hali -->
 <!-- bkz selin ciğerci erkek hali vs bülent ersoy erkek hali -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
-<!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz atatürk gençliği ->
+<!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz hayalerde yaşıyo bazı ibneler ->
 <!-- bkz selin ciğerci magazincilere ateş püskürdü -->
 <!-- bkz selin ciğerci nin kadınlar matinasına katılması -->
 <!-- bkz selin ciğercinin kocasının aykalarını yıkaması -->
