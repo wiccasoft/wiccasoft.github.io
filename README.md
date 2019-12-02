@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 <!-- https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg deep webte selocanlı haber linki paylaşırlar -->
-<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-fenala%C5%9Fmas%C4%B1/ bkz  anladık aleynacım-->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-fenala%C5%9Fmas%C4%B1/ bkz anladık aleynacım sakin-->
 <!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz 23 lük abiler-->
 <!-- bkz buldum selocan goole arat haberler paylaş link -->
 <!-- bkz selaocan intihar ettikaynak aha bi dakka bakim -->
