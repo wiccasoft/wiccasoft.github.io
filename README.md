@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz selin ciğerci fanboyları vs can yaman fanboyları -->
+<!-- https://www.uludagsozluk.com/k/uluda-s%C3%BCrekli-can-yaman-ba%C5%9Fl%C4%B1klar%C4%B1-a%C3%A7an-fanlar%C4%B1/ -->
 <!-- bkz bu nick kullanılmazın her entry e ekrem imamaoğlunu üzecek haber yazması -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/ ay hadi inşallah -->
 <!-- https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz adam mıdır sorunsalı -->
