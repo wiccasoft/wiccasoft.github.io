@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 
-
+<!-- https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/&w=gd bkz vurdururyordurun tanga gyisine gönmesi -->
 <!-- bkz selocan google arat haberler paylaş link https://www.youtube.com/watch?v=UNFDHgjrlK8 -->
 <!-- https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg deep webte selocanlı haber linki paylaşırlar -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-fenala%C5%9Fmas%C4%B1/ bkz anladık aleynacım sakin-->
