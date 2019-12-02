@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz bu nick kullanılmazın her entry e ekrem imamaoğlunu üzecek haber yazması -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/ ay hadi inşallah -->
 <!-- https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz adam mıdır sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42497842/ hadi bakalım inşallah selin ciğerci gibi kestir kurtul --->
