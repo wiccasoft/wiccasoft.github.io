@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-
+<!-- bkz true nun  ameliyat parasını topluyoruz kampanyası -->
 <!-- bkz uludaki ergen işsiz kamalcılarla işsiz türbanlıların ekonomiye katkısı -->
 <!-- https://www.uludagsozluk.com/k/benim-t%C3%BCrbanl%C4%B1-bac%C4%B1m%C4%B1n-%C3%BCzerine-i%C5%9Fediler/&w=bg -->
 <!-- uludaki ergen ibnelerin selin ciğerci erkek haline benzediği gerçeği -->
