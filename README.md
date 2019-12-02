@@ -3,6 +3,7 @@
 <!-- bkz selin ciğerci erkek hali vs emine erdoğan -->
 <!-- bkz devlet başa kuzgun leşe https://www.youtube.com/watch?v=3vXPo7lNYzk -->
 <!-- bkz seranay aktaş ın rt yi desteklemesi https://www.dunya.com/rss -->
+<!-- bkz bi beyin cerrahanın kendini futbolcuyla kıyaslama ihtimali -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 
