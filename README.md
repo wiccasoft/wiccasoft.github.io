@@ -2,10 +2,9 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
+<!-- https://www.uludagsozluk.com/e/42498467/ bkz ortaokulluların coçması -->
 <!-- bkz babasından izin almadan bakkala gidemeyen ergenlerin frank lucas gibi nickler alması -->
-<!-- bkz frank lucas ın sivilceliannesinin türbanlı olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/e/42498484/ 
-bkz benim hayran olduğum eykek senin hayran oldugun erkeki senin baban dövey -->
 <!-- bkz can yaman fanbyoyları vs kıvanç tatlıtuğ fanboyları -->
 <!-- bkz shao khanın hoplatacağı versuslar yapan ergenler -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-m%C4%B1-d%C3%B6ver-k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-mu/&w=bg -->
