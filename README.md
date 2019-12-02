@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 <!-- bkz göksel kaya vs ahmet kaya -->
+<!-- https://www.uludagsozluk.com/k/bursal%C4%B1-top-folkan/&w=bg bkz arkadan furdunmu önden sallanacak aga -->
 <!-- bkz demirtaşın paylaştığı cenaze postu https://www.pinterest.com/wiccasoft/ -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-vefat-etmesi/ bkz demirtaşın cenaze paylaşımı -->
 <!-- https://www.uludagsozluk.com/k/rus-erke%C4%9Fi-vs-t%C3%BCrk-erke%C4%9Fi/&w=bg kazak erkeğinin hoplatacağı versus --> 
