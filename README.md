@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- https://www.youtube.com/watch?v=OIOqFBa7htQ ali babuşcan ve akboylar -->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-32-43.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU)
