@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz mezarsız hewaller -->
 <!-- bkz selin ciğercinin erkek haline benzeyen ulucular -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- bkz t,rk ekonomisinin lokomotifi türbanlılar -->
