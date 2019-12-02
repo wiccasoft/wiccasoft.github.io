@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
-<!-- bkz babasından izin almadan bakkala gidemyene ergenlerin frank lucas ghibi nickler alması -->
+<!-- bkz babasından izin almadan bakkala gidemeyen ergenlerin frank lucas gibi nickler alması -->
 <!-- bkz frank lucas ın sivilceliannesinin türbanlı olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/e/42498484/ 
 bkz benim hayran olduğum eykek senin hayran oldugun erkeki senin baban dövey -->
