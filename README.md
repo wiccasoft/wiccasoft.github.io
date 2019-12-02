@@ -2,7 +2,9 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
-<!--b bkz 41 yaşında ergenlerin daha bi kafa sikmesi -->
+<!-- bkz 41 yaşında ergenlerin daha bi kafa sikmesi -->
+<!-- bkz shao khanın hoplatacağı versuslar yapan ergenler -->
+<!-- https://www.uludagsozluk.com/k/can-yaman-m%C4%B1-d%C3%B6ver-k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-mu/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz 23 yaşındaki abiler -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-hi%C3%A7bir-kurala-d%C3%BCzene-uymamas%C4%B1/ en iyi kürt ölü küttür -->
 <!-- bkz demirtaşın en iyi kürt ölü kürttür çıkışı https://www.youtube.com/watch?v=Adsxn-aXSwk -->
@@ -36,8 +38,6 @@
 <!-- https://www.uludagsozluk.com/k/say%C4%B1n-demirta%C5%9F%C4%B1n-siyasi-%C3%A7izgisini-be%C4%9Feniyorum/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/ ata fava bekle kanka -->
 <!-- bkz alacaksanız az kullanılmış az yakan patlak kız alın -->
-<!--bkz 41 yaşında erkek selin ciğerci ilişkisi -->
-<!--bkz selin ciğerci vs emine erdoğan vs bugatti -->
 <!-- bkz selin ciğerci vs haluk bilginer -->
 <!-- bkz selin ciğerciye benzeyen ergenlerin çoşması -->
 <!-- https://www.uludagsozluk.com/k/alacaksan%C4%B1z-1-50-k%C4%B1z-al%C4%B1n/ tavuk mu alıyosun amın feryadı -->
@@ -54,9 +54,6 @@
 <!-- bkz selin ciğercinin bugattiyle verdiği poz -->
 <!-- bkz selin ciğerci erkek hali vs emine erdoğan kadın hali -->
 <!-- bkz imamoğlu nun mahalle karılarına benzediği için ciddiye alamamak -->
-<!-- bkz emine erdoğan selin ciğerci erkek hali benzerliği -->
-<!-- bkz bira içen türbanlı kız başlığının açılmamış olması https://www.youtube.com/watch?v=XsbksXXgXwQ -->
-<!-- bkz kocişko parası yemek varken başlık açacak kadar salak olmak https://www.uludagsozluk.com/e/42497534/ -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz hayalerde yaşıyo bazı ibneler ->
 <!-- bkz enes batur fanboyları vs selin ciğerci fanboyları -->
