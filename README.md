@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz selahattin demirtaşın bilinci kapalı yaptığı paylaşım -->
 <!-- https://www.dunya.com/rss -->
 <!-- bkz serenay aktaş ın rt yi desteklemesi -->
 <!-- https://www.uludagsozluk.com/k/rte-nin-baca-filtresi-d%C3%BCzenlemesini-veto-etmesi/ bkz dirty jobs -->
