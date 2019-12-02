@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- bkz selin ciğerci bugattiyle geziyomuş kankağğğ bwen dekestirecem kankaaaaağğğğğğ -->
-<!-- bkz sikerler öyle işi aga ben de kestirecem aga selin ciğerci erkek hali gibiyim kankağğğğğğ -->
+<!-- bkz selin ciğerci bugattiyle geziyomuş kankağğğ bwen dekestirecem kankaaağğğğğğ k -->
+<!-- bkz sikerler öyle işi aga ben de kestirecem aga https://www.youtube.com/watch?v=RHBoMuNszu -->
 <!-- bkz selin ciğerci haberleri için bot yazmak -->
 <!-- bkz selin ciğercinin yaptığı son paylaşım işte o link hadi be kankağ tıklağ beğ kankağ -->
 <!-- https://www.uludagsozluk.com/e/42359037/  hadi be kankağ tıklağğ be kankağ selin ciğerci annesi full galeriğ -->
