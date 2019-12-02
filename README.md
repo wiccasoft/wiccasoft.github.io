@@ -1,6 +1,61 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
+<!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-hi%C3%A7bir-kurala-d%C3%BCzene-uymamas%C4%B1/ en iyi kürt ölü küttür -->
+<!-- bkz demirtaşın en iyi kürt ölü kürttür çıkışı https://www.youtube.com/watch?v=Adsxn-aXSwk -->
+<!-- bkz tayyipin demirtaşın çizgisini beğeniyorum açıklaması https://www.youtube.com/watch?v=Adsxn-aXSwk -->
+<!-- bkz imamaoğlunun en iyi kürt ölü kürttür açıklaması -->
+<!-- bkz trump açlık orucunu bıraktığını açıkladı -->
+<!-- bkz putin gözlatında öldürüldü haberlerini yalanladı -->
+<!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
+<!-- bkz tayyip vefat etti haberlerinin yalan olması -->
+<!-- bkz macronun bilincini yitirip ölü taklidi yapması-->
+<!-- https://www.uludagsozluk.com/e/42497784/ bkz iyi ki sigara içiyorum denilen anlar -->
+<!-- https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/&w=gd bkz vurdururyordurun tanga giysine gönmesi -->
+<!-- bkz selocan google arat haberler paylaş link https://www.youtube.com/watch?v=UNFDHgjrlK8 -->
+<!-- https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler/&w=bg deep webte selocanlı haber linki paylaşırlar -->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-fenala%C5%9Fmas%C4%B1/ bkz anladık aleynacım sakin-->
+<!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz 23 lük abiler-->
+<!-- bkz selaocan intihar ettikaynak aha bi dakka bakim -->
+<!-- bkz birazdan mynetten  haber paylaşacam uplayın beyler -->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/  braking news tıklağ -->
+<!-- https://www.cnnturk.com/video/ekonomi/son-dakika-asgari-ucrette-zam-pazarligi-2020de-asgari-ucret-ne-kadar-olacak -->
+<!-- https://www.uludagsozluk.com/e/42498121/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- https://www.uludagsozluk.com/e/42497202/ bkz haber botları vs kamalcılar -->
+<!-- https://www.uludagsozluk.com/e/42497992/ bkz haber botları versus kamalcılar -->
+<!-- bkz kürt kızı vs selin ciğerci erkek hali -->
+<!-- https://www.uludagsozluk.com/e/42498113/ bkz shao kahn ın ikisinde hoplatacağı versuslar yapan ergenler -->
+<!-- bkz mucize doktordaki böcek suratlı liseli vs uludaki selin ciğerci erkek hali tipli ergenler -->
+<!--https://www.uludagsozluk.com/k/mucize-doktor-ali-vs-%C3%A7ukur-ali%C3%A7o/ bkz mucize doktordakşi böcek suratlı ergen -->
+<!-- bkz evden dışarı çıkmaya korkan ulucu ibnelerin güldürmesi -->
+<!-- https://www.uludagsozluk.com/e/42497099/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- bkz frank lucas ın uzun zmanadır imamaoğlu entry si girmemesi -->
+<!-- https://www.uludagsozluk.com/k/say%C4%B1n-demirta%C5%9F%C4%B1n-siyasi-%C3%A7izgisini-be%C4%9Feniyorum/&w=bg -->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/ ata fava bekle kanka -->
+<!-- bkz alacaksanız az kullanılmış az yakan patlak kız alın -->
+<!-- bkz selin ciğerci vs haluk bilginer -->
+<!-- bkz selin ciğerciye benzeyen ergenlerin çoşması -->
+<!-- https://www.uludagsozluk.com/k/alacaksan%C4%B1z-1-50-k%C4%B1z-al%C4%B1n/ tavuk mu alıyosun amın feryadı -->
+<!-- bkz selin ciğerci fanboyları vs can yaman fanboyları -->
+<!-- https://www.uludagsozluk.com/k/uluda-s%C3%BCrekli-can-yaman-ba%C5%9Fl%C4%B1klar%C4%B1-a%C3%A7an-fanlar%C4%B1/ -->
+<!-- bkz bu nick kullanılmazın her entry e ekrem imamaoğlunu üzecek haber yazması -->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/ ay hadi inşallah -->
+<!-- https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz adam mıdır sorunsalı -->
+<!-- https://www.uludagsozluk.com/e/42497842/ hadi bakalım inşallah selin ciğerci gibi kestir kurtul --->
+<!-- https://www.uludagsozluk.com/k/adam-sandler/&w=bg bkz tru nun selin ciğerci yolunda ilerlemesi -->
+<!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg inşallah ölürsün pis şey -->
+<!-- bkz selin ciğercinin kocişkom bana ada alacak açıklaması -->
+<!-- bkz selin ciğercinin götüm yere yakın değil açıklaması -->
+<!-- bkz selin ciğercinin bugattiyle verdiği poz -->
+<!-- bkz selin ciğerci erkek hali vs emine erdoğan kadın hali -->
+<!-- bkz imamoğlu nun mahalle karılarına benzediği için ciddiye alamamak -->
+<!-- bkz selin ciğerci erkek hali fotoşoksuz -->
+<!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz hayalerde yaşıyo bazı ibneler ->
+<!-- bkz enes batur fanboyları vs selin ciğerci fanboyları -->
+<!-- https://www.uludagsozluk.com/k/yunan-sevdal%C4%B1s%C4%B1-fesli/ bkz fesli bunak -->
+<!-- https://www.youtube.com/watch?v=OIOqFBa7htQ ali babuşcan ve akboylar -->
+<!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
+
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 
 [![Image](smartdata/Screenshot_2019-12-02_03-32-43.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU)
