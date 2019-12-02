@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz bira içip işsiz türbanlıların üstüne işemek -->
 <!-- https://sweet-mandarine.uludagsozluk.com/ bkz türkiyenin umut kaynağı -->
 <!-- bkz başlık açarak ekonomiyi kalkındıran kamalcılar -->
 <!-- bkz uludaki ergen işsiz kamalcılarla işsiz türbanlıların ekonomiye katkısı -->
