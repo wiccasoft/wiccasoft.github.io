@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz mustafa kamalın türklere zekidir demesi -->
 <!-- bkz bira içen türbalı kız başlığının açılmamaış olması -->
 <!-- bkz kocişko parası yemek varken başlık açacak kadar sala olmak https://www.uludagsozluk.com/e/42497534/ -->
 <!-- bkz chivas regal içmeyen erkek başlığını açılmamış olması -->
