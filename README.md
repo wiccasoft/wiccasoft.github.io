@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
+<!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz 23 yaşındaki abiler -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-hi%C3%A7bir-kurala-d%C3%BCzene-uymamas%C4%B1/ en iyi kürt ölü küttür -->
 <!-- bkz demirtaşın en iyi kürt ölü kürttür çıkışı https://www.youtube.com/watch?v=Adsxn-aXSwk -->
 <!-- bkz tayyipin demirtaşın çizgisini beğeniyorum açıklaması https://www.youtube.com/watch?v=Adsxn-aXSwk -->
