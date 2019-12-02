@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-
+<!-- bkz mustafa kemalin ibne olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/e/42497534/ bkz bahaneleri alayım -->
 <!-- https://galeri.uludagsozluk.com/r/selin-ci%C4%9Ferci-1826444/ bkz selinciğerci nin sanki şeye benzemesi -->
 <!-- bkz selin ciğerci erkek hali vs selin ciğersiz erkek hali -->
