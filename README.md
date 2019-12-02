@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 <!-- bkz 41 yaşında ergenlerin daha bi kafa sikmesi -->
+<!-- bkz can yasman fanbyotlar vs kıvanç tatlıtuğ fanboyları --<
 <!-- bkz shao khanın hoplatacağı versuslar yapan ergenler -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-m%C4%B1-d%C3%B6ver-k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-mu/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz 23 yaşındaki abiler -->
