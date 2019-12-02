@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 <!-- bkz putin gözlatında öldürüldü haberlerini yalanladı -->
-<!-- bkz tayybin öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
+<!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
 <!-- bkz tayyip vefat etti haberlerinin yalan olması -->
 <!-- bkz macronun bilincini yitirip ölü taklidi yapması-->
 <!-- https://www.uludagsozluk.com/e/42497784/ bkz iyi ki sigara içiyorum denilen anlar -->
