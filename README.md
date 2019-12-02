@@ -1,22 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- bkz ergenlerin hiç çekilmemesi sorunsalı https://www.youtube.com/watch?v=qDjHtmmnXiI -->
-<!-- https://www.uludagsozluk.com/e/42499575/ bkz hayallerde yaşıyor bazı liseliler -->
-<!-- bkz selin ciğerci bugattiye biniyomuş kankağğ sikerler ben de kestiriyommm kankaağğ  -->
-<!-- bkz emre morun yürüdüğü doktorun beyin cerrahı çıkması -->
-<!-- bkz demirtaşın 3 gün önce paylaştığı cenaze fotosu https://www.pinterest.com/wiccasoft/ -->
-<!-- bkz selin ciğerci bugattiyle geziyomuş kankağğğ ben de kestirecem kankaaağğğğğğ  -->
-<!-- bkz sikerler öyle işi aga ben de kestirecem aga https://www.youtube.com/watch?v=RHBoMuNszu -->
-<!-- bkz selin ciğerci haberleri için bot yazmak https://www.youtube.com/watch?v=RHBoMuNszu -->
-<!-- bkz selin ciğercinin yaptığı son paylaşım işte o link hadi be kankağ tıklağ beğ kankağ -->
-<!-- https://www.uludagsozluk.com/e/42359037/  hadi be kankağ tıklağğ be kankağ selin ciğerci annesi full galeriğ -->
-<!-- https://www.uludagsozluk.com/e/42497534/ bkz selin ciğerci kestirmeden önceki hali silinmeden bak hadi be kankağ  -->
-<!-- bkz selin ciğerci erkek hali fotoşoksuz -->
-<!-- bkz selin ciğerci erkek hali vs emine erdoğan -->
-<!-- bkz hala adıma başlık açmamış embesiller demek ki hala doğru yoldayım -->
-<!-- bkz devlet başa kuzgun leşe https://www.youtube.com/watch?v=3vXPo7lNYzk -->
-<!-- bkz seranay aktaş ın rt yi desteklemesi https://www.dunya.com/rss -->
-<!-- bkz bi beyin cerrahanın kendini futbolcuyla kıyaslama ihtimali -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 
