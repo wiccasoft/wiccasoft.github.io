@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz emre morun yürüdüğü doktorun beyin cerrahı çıkması -->
 <!-- bkz demirtaşın 3 gün önce paylaştığı cenaze fotosu https://www.pinterest.com/wiccasoft/ -->
 <!-- bkz selin ciğerci bugattiyle geziyomuş kankağğğ ben de kestirecem kankaaağğğğğğ  -->
 <!-- bkz sikerler öyle işi aga ben de kestirecem aga https://www.youtube.com/watch?v=RHBoMuNszu -->
@@ -9,7 +10,6 @@
 <!-- https://www.uludagsozluk.com/e/42497534/ bkz selin ciğerci kestirmeden önceki hali silinmeden bak hadi be kankağ  -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- bkz selin ciğerci erkek hali vs emine erdoğan -->
-<!-- bkz emre morun yürüdüğü doktorun beyin cerrahı çıkması -->
 <!-- bkz hala adıma başlık açmamış embesiller demek ki hala doğru yoldayım -->
 <!-- bkz devlet başa kuzgun leşe https://www.youtube.com/watch?v=3vXPo7lNYzk -->
 <!-- bkz seranay aktaş ın rt yi desteklemesi https://www.dunya.com/rss -->
