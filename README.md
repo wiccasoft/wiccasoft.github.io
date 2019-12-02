@@ -5,7 +5,7 @@
 <!-- https://www.uludagsozluk.com/k/rte-nin-baca-filtresi-d%C3%BCzenlemesini-veto-etmesi/ bkz dirty jobs -->
 <!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
 <!-- bkz tayyip vefat etti haberlerinin yalan olması -->
-<!-- bkz macronun bilincini yitirip ölü taklidi yapması-->
+<!-- bkz macronun bilincini yitirip ölü taklidi yapması https://www.youtube.com/watch?v=3vXPo7lNYzk -->
 <!-- https://www.uludagsozluk.com/e/42497784/ bkz iyi ki sigara içiyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/sigara-i%C3%A7meyen-erkek/&w=gd bkz vurdururyordurun tanga giysine gönmesi -->
 <!-- bkz selocan google arat haberler paylaş link https://www.youtube.com/watch?v=UNFDHgjrlK8 -->
