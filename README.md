@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- https://www.uludagsozluk.com/k/buhar-olup-u%C3%A7an-k%C3%BCrtler/ bkz madem türksün işe de görsün ->
 <!-- bkz selin ciğerci magazincilere ateş püskürdü -->
 <!-- bkz selin ciğerci nin kadınlar matinasına katılması -->
 <!-- bkz selin ciğercinin kocasının aykalarını yıkaması -->
