@@ -1,8 +1,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz selin ciğercinin erkek haline benzeyen ulucular -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- bkz t,rk ekonomisinin lokomotifi türbanlılar -->
-<!--bkz mustafa kamalın atayız olduğu gerçeği -->
+<!-- bkz mustafa kamalın atayız olduğu gerçeği -->
 <!-- bkz türbanlıların ekonomiye katkısı yüksek ıolduğu için saldırıya uğramaları -->
 <!-- https://www.uludagsozluk.com/k/2-aral%C4%B1k-2019-chp-lilerin-t%C3%BCrbanl%C4%B1-k%C4%B1za-sald%C4%B1rmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/yunan-sevdal%C4%B1s%C4%B1-fesli/ bkz fesli bunak -->
