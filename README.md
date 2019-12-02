@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- https://www.uludagsozluk.com/e/42359037/ lol
+
+<!-- https://www.uludagsozluk.com/e/42359037/ lol hadi be kankağ tıklağğ be kankağ selin ciğerci annesi full galeriğ -->
 <!-- https://www.uludagsozluk.com/e/42497534/ bkz selin ciğerci kestirmeden önceki hali silinmeden bak  -->
 <!-- bkz selin ciğerci erkek hali fotoşoksuz -->
 <!-- bkz selin ciğerci erkek hali vs emine erdoğan -->
