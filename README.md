@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
+<!-- https://www.uludagsozluk.com/k/seks-esnas%C4%B1nda-yol-yapt%C4%B1lar-yol-diye-ba%C4%9F%C4%B1ran-k%C4%B1z/&w=bg sus ve inlemeye devam et -->
 <!-- https://www.uludagsozluk.com/k/20-ya%C5%9F%C4%B1ndaki-zibidinin-akp-yi-ele%C5%9Ftirmesi/ bkz kendini tarif etmiş -->
 <!-- https://www.uludagsozluk.com/e/42498467/ bkz ortaokulluların coşması -->
 <!-- bkz babasından izin almadan bakkala gidemeyen ergenlerin frank lucas gibi nickler alması -->
