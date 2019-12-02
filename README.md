@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 <!-- bkz yürüyemeyen emre morun tedavi eden doktora yürümesi -->
 <!--- https://eksisozluk.com/muayene-edilen-hastanin-sosyal-medyadan-yurumesi--6267677?a=popular bkz dezenformasyon -->
+<!-- https://eksisozluk.com/selahattin-demirtasin-bilincinin-kapanmasi--6267375?a=popular bkz demirtaşın bilin altı -->
 <!-- https://www.dunya.com/rss -->
 <!-- bkz serenay aktaş ın rt yi desteklemesi -->
 <!-- https://www.uludagsozluk.com/k/rte-nin-baca-filtresi-d%C3%BCzenlemesini-veto-etmesi/ bkz dirty jobs -->
