@@ -1,13 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- bkz can yaman fanboyları vs kıvanç tatlıoğlan fanboyları --->
-<!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
-<!-- bkz tayyip vefat etti haberlerinin yalan olması -->
-<!-- bkz demirtaşın odasında ölü bulunması -->
-<!-- bkz tayyipin demirtaşın çizgisini beğeniyorum açıklaması https://www.youtube.com/watch?v=Adsxn-aXSwk -->
-<!-- bkz imamaoğlunun en iyi kürt ölü kürttür açıklaması -->
-<!-- bkz trump açlık orucunu bıraktığını açıkladı -->
-<!-- bkz putin gözlatında öldürüldü haberlerini yalanladı -->
+
 <!-- bkz tayyip öldürüldü iddalarını yalanlayıp hepsini gömecek kadar sağlıklıyım dedi -->
 <!-- bkz tayyip vefat etti haberlerinin yalan olması -->
 <!-- bkz macronun bilincini yitirip ölü taklidi yapması-->
