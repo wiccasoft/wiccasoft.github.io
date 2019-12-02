@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!--bkz uludaki ibnelerin güldürmesi olayı -->
+<!-- bkz uludaki iğrenç ibnelerin aslında hayli korkunç olması -->
+<!-- bkz uludaki ibnelerin güldürmesi olayı -->
 <!-- bkz frank lucas ın uzun zmanadır imamaoğlu entry si girmemesi -->
 <!-- https://www.uludagsozluk.com/k/say%C4%B1n-demirta%C5%9F%C4%B1n-siyasi-%C3%A7izgisini-be%C4%9Feniyorum/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-vefat-etti/ ata fava bekle kanka -->
