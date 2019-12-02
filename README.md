@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
-<!-- bkz tayyibe muhalif olduğumu sanan kamalcı ergenler -->
+<!-- bkz tayyibe muhalif olduğumu sanan kamalcı ergenler olm tayyip kuklam zaten niye muhalif olayım-->
 <!-- bkz 20 lik ulucu ergenlerin sürekli başlık açarak hayata tutunma çabaları -->
 <!-- bkz 21 yaşındaki ergeninn 23 yaşındaki ergene posta koyması --->
 <!-- bkz uludaki ergenler 2009 lu mu acaba sorunsalı -->
