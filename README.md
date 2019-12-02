@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
+<!-- bkz evden dışarı çıkmaya korkan ulucu ibnelerin güldürmesi -->
 <!-- https://www.uludagsozluk.com/e/42497099/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz uludaki iğrenç ibnelerin aslında hayli korkunç olması -->
 <!-- bkz uludaki ibnelerin güldürmesi olayı -->
