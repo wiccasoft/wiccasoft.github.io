@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz pıçakladığı eşini çöpe atan profösör -->
 <!-- bkz hala adıma başlık açamamış embesiller bu demek oluyor ki hala doğru yoldayım -->
 <!-- bkz can yaman ın dont make stupid people make famous demesi -->
 <!-- bkz düşün ki can yaman orayı okuyor -->
