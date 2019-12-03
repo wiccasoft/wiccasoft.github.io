@@ -1,50 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-<!-- bkz dişe diş kana kan kansız kürtler -->
-<!-- https://www.uludagsozluk.com/k/fad%C4%B1l-akg%C3%BCnd%C3%BCz/&w=bg bkz  siirt lisesi 94 mezunları -->
-<!-- https://www.uludagsozluk.com/e/42502640/ hay maşşalah hocam kolay gelsin vazelin sür-->
-<!-- bkz kürtlerin iyice çığrından çıkması türkün dişina kan buşaltı kaaaaaaaan -->
-<!-- bkz kılışdaroğlu demirtaşı istiyosan türke boyun eğeceksin köpek kürt -->
-<!-- bkz https://www.uludagsozluk.com/e/42502662/ bırakmayalım beyler -->
-<!-- bkz türkün yurduna göz dikene ez oglim gafasını ez oglimmmmmmm -->
-<!-- bkz sonra döndüm dedim ki ne mutlu türküm türkün türk ülküsü ölüsü dirisi birgün hepinizi  -->
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrt-vs-suriyeli/&w=bg bkz türkün türkten başka dostu yoktur -->
-<!-- https://www.uludagsozluk.com/e/42502762/ bkz kürtleri sabun yapmak -->
-<!-- bkz türkün vatyanında kürt görünce sinirlerin bozulması -->
-<!-- bkz türkün ülküsü kürdün leş i bir gün hepinizi bir gün leşinizi  -->
-<!-- bkz hipokrat yemini etmeyen birini ciddiye almak -->
-<!-- kz en iyi kürt ölü kürttür bir gün hepinizi hergüb dirinizi geberteceğiz -->
-<!-- bkz kürtlerden sabun yapmanın vakitinin gelmesi -->
-<!-- bkz atatürkün öldürmediğim her kürt için küfr edeceksiniz sözü -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-k%C3%BCrtleri-tam-24-defa-tokatlamas%C4%B1/ -->
-<!-- bkz kürtlerin saraydan kaçırdığı elektriğe ses etmeyen kürt sevici kamalcılar -->
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrt-denince-akla-gelen-ilk-%C5%9Fey/&w=bg bkz elektrik kaçırmak -->
-<!-- bkz işletme turizm otelcilik iktisat gibi bölümler bitiren birini cidiye almak -->
-<!-- iktisadi ve idari bilimler fakültesi bitirip diplomayı bakkal duvarına asmak -->
-<!-- bkz atatürkün kürtlerin sabun yapmadığı için pişman olması -->
-<!-- bkz türklerin asil damarlarında akan kana saygı duymayan kürtler -->
-<!-- bkz türk kanı vs şerefsiz kürt kanı -->
-<!-- bkz türklerin çelik üretimi yerine demir üretimine yüklenemsi olayı -->
-<!-- https://www.uludagsozluk.com/e/42502662/ bkz başaramayacaksınız demirtaşı alamayaksınız -->
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
-<!-- bkz m.facebook linki paylaşan bi ümmetçiyi ciddiye almak -->
-<!-- https://www.uludagsozluk.com/e/42502662/ bkz bırakacakmıyğız m.facebook? -->
-<!-- bkz ümmüt üğlüyü https://www.youtube.com/watch?v=zEvF-2-0LWk -->
-<!-- https://www.uludagsozluk.com/k/%C3%BCmmetin-liderinin-itibardan-tasarruf-konvoyu/ bkz tengir budun başlığı -->
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrt-vs-suriyeli/&w=bg bkz safkan türklükten aldığım keyf gibisi yok -->
-<!-- bkz rte ikttisadi ve idari bilimler fakültesi https://www.uludagsozluk.com/e/42501912/-->
-<!-- https://www.uludagsozluk.com/e/42501873/ bkz türk önde türk ileri -->
-<!-- https://www.uludagsozluk.com/e/42502719/ bkz konuşma lan hakkımda emcük -->
-<!-- bkz 3 yıl sonra demirtaşın heykelini dikecek olan kamalcılar -->
-<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz kafa siken türkçü zırvaları -->
-<!-- https://www.youtube.com/watch?v=QIAVaw_Qpkc bkz türklerin sanki biraz *** -->
-<!-- https://www.uludagsozluk.com/e/42502665/ bkz nsa dan güçlü olmak -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-k%C3%BCrtleri-tam-24-defa-tokatlamas%C4%B1/ -->
-<!-- bkz kürt düşmanlığı yaparken olmayan beynini yitiren türkçüler -->
-<!-- https://www.uludagsozluk.com/e/42502640/ bkz deep webin dipsiz çukuruna düştüm yine -->
-<!-- https://www.uludagsozluk.com/e/42501762/ bkz aman aman neler dönmüş serkhat ya -->
-<!-- https://www.uludagsozluk.com/e/42502662/ bkz aman aman nereye geldim daha demin sarayımdaydim -->
-<!-- bkz kamalcı profili https://www.youtube.com/watch?v=LTs9MH0Ny-k -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
