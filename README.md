@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
  
-<!-- bkz can yaman tarafında saatlerce düzülmek vs mehmet akif alakurt tarafından saatlerce düzülmek -->
+<!-- bkz can yaman tarafından saatlerce düzülmek vs mehmet akif alakurt tarafından saatlerce düzülmek -->
 <!-- bkz mehmet akif alakurt u görünce can yamanı unutan liboşlar -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak aga -->
 <!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
