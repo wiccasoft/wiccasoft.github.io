@@ -1,7 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!--bkz fatih portakalın cuckold olması sorunsalı -->
+<!-- bkz macun kaplıcalı cuckold mu sorunsalı -->
+<!-- bkz fatih portakalın cuckold olması sorunsalı -->
 <!-- bkz acun yılın gavatı mı sorunsalı -->
 <!-- bkz can yamanı takipten çıkıyoruz kampannyası -->
 <!-- bkz fartih portakal mı  vs fatih altaylı mı vs fatih tezcan mı sorunsalı-->
