@@ -1,21 +1,6 @@
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
-<!-- https://www.uludagsozluk.com/e/42497534/ bkz kestir kurtul kankaağğğ https://www.youtube.com/watch?v=RHBoMuNszuk -->
-<!-- bkz deep turkis web  selin ciğerci erkek haline benzeyen garip yaratıklar -->
-<!-- bkz iktisadi ve idari bilimler bitiren birini ciddiye almak https://www.youtube.com/watch?v=-AdnJiuDGVU -->
-<!-- 1978 doğumlu olup turancı ümmetçi ergenleri siklememek https://www.youtube.com/watch?v=zEvF-2-0LWk -->
-<!-- bkz 1991 doğumluların mal olması https://www.uludagsozluk.com/e/42502974/  -->
-<!-- bkz mehmet aydına tosunum diyen insan zekası -->
-<!-- bkz mehmet aydın ın softbankı japonyaya taşıması https://www.youtube.com/watch?v=otohjMymyYE -->
-<!-- https://www.youtube.com/watch?v=xtgxGMWjEuk bkz softbank mağdurları -->
-<!-- https://www.youtube.com/watch?v=0iTts0sUzH4 https://www.uludagsozluk.com/e/42502974/ -->
-<!-- https://www.youtube.com/watch?v=otohjMymyYE mehmet aydın style -->
-<!-- https://www.youtube.com/watch?v=mSVKiiPei0s erdogan style -->
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-
-<!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramaycaksınız -->
-<!--bkz iktisadi ve idari bilimler yemini edenler https://www.youtube.com/watch?v=zEvF-2-0LWk  -->
-<!-- bkz kamalcı profili https://www.youtube.com/watch?v=LTs9MH0Ny-k -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
