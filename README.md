@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 <!-- https://www.uludagsozluk.com/e/42502662/ bkz bırakacakmıyğız m.facebook? -->
-<!--bkz ümmüt üğlüyü https://www.youtube.com/watch?v=zEvF-2-0LWk -->
+<!-- bkz ümmüt üğlüyü https://www.youtube.com/watch?v=zEvF-2-0LWk -->
 <!-- https://www.uludagsozluk.com/k/%C3%BCmmetin-liderinin-itibardan-tasarruf-konvoyu/ bkz tengir budun başlığı -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrt-vs-suriyeli/&w=bg bkz safkan türklükten aldığım keyf gibisi yok -->
 <!-- bkz rte ikttisadi ve idari bilimler fakültesi https://www.uludagsozluk.com/e/42501912/-->
