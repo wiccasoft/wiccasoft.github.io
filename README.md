@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 <!-- bkz dişe diş kana kan kansız kürtler -->
-<!-- https://www.uludagsozluk.com/k/fad%C4%B1l-akg%C3%BCnd%C3%BCz/&w=bg bkz emine erdoğanın siirt lisesinden arkadaşı -->
+<!-- https://www.uludagsozluk.com/k/fad%C4%B1l-akg%C3%BCnd%C3%BCz/&w=bg bkz  siirt lisesi 94 mezunları -->
 <!-- https://www.uludagsozluk.com/e/42502640/ hay maşşalah hocam kolay gelsin vazelin sür-->
 <!-- bkz kürtlerin iyice çığrından çıkması türkün dişina kan buşaltı kaaaaaaaan -->
 <!-- bkz kılışdaroğlu demirtaşı istiyosan türke boyun eğeceksin köpek kürt -->
