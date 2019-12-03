@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 
-<!--bkz iktisadi ve idari bilimler yemini eden ulucular vs rte  -->
+<!--bkz iktisadi ve idari bilimler yemini edenler rte  -->
 <!-- bkz kamalcı profili https://www.youtube.com/watch?v=LTs9MH0Ny-k -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
