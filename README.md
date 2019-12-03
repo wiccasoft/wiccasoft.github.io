@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- bkz arkadaşın eski tokmakçısını sikerken eski seviglisini odaya girmesi sorunsalı -->
+
+<!-- bkz arkadaşın eski tokmakçısını sikerken eski sevg,lisini odaya girmesi sorunsalı -->
 <!-- bkz arkdaşın karısının üstünde kızını sikerken odaya girmesi sorunsalı-->
 <!-- https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n%C4%B1n-sevgilisine-g%C3%B6z-diken-gavat/&w=bg bkz ramiz dayı -->
 <!-- bkz can yamanın erkek hayranları vs kadın hayranları -->
