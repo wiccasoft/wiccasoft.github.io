@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz kibariyenin annesi vs şöförrrrrr -->
 <!-- bkz kaısını kızını sinyal vermeyen gavat araba -->
 <!-- bkz karısını kızıznı ses etmeyen gavata oy vermek kozmik oda -->
 <!-- bkz rte solcusu vs devlet bahceşi sağcısı -->
