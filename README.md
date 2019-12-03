@@ -1,32 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!-- bkz can yaman kavgası olaylı bitti fanboylar arasında kavga çıktı -->
-<!-- bkz haluk bilginere laf eden oda arkadaşını bıçakladı -->
-<!-- bkz dan bilzerian ın paylaştığı can yaman delikanlısın postu -->
-<!-- bkz bim poşeti götüne sokup balon yapan genç -->
-<!-- bkz can yaman ın kozmik odada hoplattığı hatunlar -->
-<!-- bkz 17 yerinden pıçakladığı eşini çöpe atan profösör -->
-<!-- bkz hala adıma başlık açamamış embesiller bu demek oluyor ki hala doğru yoldayım -->
-<!-- bkz can yaman ın dont make stupid people make famous demesi -->
-<!-- bkz düşün ki can yaman orayı okuyor -->
-<!-- bkz instagram kapanırsa can yaman da mı kapanacak sorunsalı -->
-<!-- bkz can yamanı kim yönetiyor sorunsalı -->
-<!-- bkz can yaman parası yiyen aciz kız -->
-<!-- bkz trump ölünce can yamanı kim yönetecek sorunsalı-->
-<!-- bkz bi milyon verinler can yamana sakso çekerim diyen genç -->
-<!-- bkz çocuklar duymasın haluk un ba ba ba ba can yaman mı alfa erkek demesi -->
-<!-- bkz halukun can yaman a sıcak bakıyorum demesi -->
-<!-- bkz 40 yaşından sonra can yaman fanboyu olmak-->
-<!-- bkz can yamanın yaman delikanlı olması-->
-<!-- https://www.uludagsozluk.com/e/42504613/ bkz kıvanç tatlıtuğun haluka sıcak bakması -->
-<!-- https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz 70 yaşına merdicen dayamış iş bitmemiş
-<!-- bkz can yamanın kadın hayranlarını kozmik odaya çağırması -->
-<!-- https://www.uludagsozluk.com/k/emre-cemil-ayval%C4%B1/&w=bg bkz can yaman ı beğenmeyen çomar -->
-<!-- bkz dan bilzerian vs can yaman vs mehmet ali alakurt -->
-<!-- https://www.youtube.com/watch?v=xTJav-ar6IQ bkz türkiye uyuşturamama kartelleri -->
-<!-- https://www.youtube.com/watch?v=3vXPo7lNYzk -->
-
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
 
