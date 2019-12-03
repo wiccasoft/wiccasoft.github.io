@@ -1,9 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!--bkz şaka maka fenerin tersten sağplaması -->
-<!--bkz dünya tarihindeki efso komutanlar -->
-<!--bkz rte nin şaka maka iibf yi bitirmesi -->
-<!-- https://www.uludagsozluk.com/k/rte-nin-tahsiline-laf-eden-tipler/ bkz iibf mezunları vs rte -->
+
+<!-- https://eksisozluk.com/can-yamanin-hayranina-arka-odaya-gecelim-demesi--6268683?a=popular bkz şeffaf oda -->
+
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
