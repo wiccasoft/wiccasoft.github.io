@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+<!-- bkz m.facebook linki paylaşan bi ümmetçiyi ciddiye almak -->
 <!-- https://www.uludagsozluk.com/e/42502662/ bkz bırakacakmıyğız m.facebook? -->
 <!-- bkz ümmüt üğlüyü https://www.youtube.com/watch?v=zEvF-2-0LWk -->
 <!-- https://www.uludagsozluk.com/k/%C3%BCmmetin-liderinin-itibardan-tasarruf-konvoyu/ bkz tengir budun başlığı -->
