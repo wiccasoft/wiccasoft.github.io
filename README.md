@@ -1,14 +1,13 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!--b kz mehmet akif alakurtun ulucu ibnelere askıntı olması -->
+<!-- bkz mehmet akif alakurtun ulucu ibnelere askıntı olması -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak aga -->
 <!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
 <!-- https://www.uludagsozluk.com/e/42504787/ bkz https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 <!--bkz norm enderci bebelerin göt olması -->
 <!--bkz can yaman soktukça hala entry kasan orospunun sıçtıkları -->
 <!--bkz can yamanın orul orul sikerttiği fanboylar -->
-<!--bkz can yaman soktukça kasan ekşiciler -->
 <!--bkz can yaman hoplattıkça coşan oç ları -->
 <!--bkz can yamanın hoplattığı karıların çocuklarının entry kasması -->
 <!--https://www.uludagsozluk.com/e/42504871/ ay hepimizi siker bunlar ayol-->
