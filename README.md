@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-
+<!--bkz türkün ülküsü kürdün leşini  görmektir -->
 <!-- bkz hipokrat yemini etmeyen birini ciddiye almak -->
 <!-- kz en iyi kürt ölü kürttür bir gün hepinizi hergüb dirinizi geberteceğiz -->
 <!-- bkz kürtlerden sabun yapmanın vakitinin gelmesi -->
