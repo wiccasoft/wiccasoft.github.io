@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-
+<!-- bkz apğlilerin şems mevlana aşkını yadırgaması cüppeli mürit aşkını onaylaması -->
 <!-- bkz akplilerin uğramadığı başlıklar -->
 <!-- bkz tayip puyçu çomar vs kamal putçu çomar -->
 <!-- https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n%C4%B1n-sevgilisine-g%C3%B6z-diken-gavat/&w=bg bkz ramiz dayı -->
