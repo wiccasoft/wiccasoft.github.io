@@ -1,14 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- bkz kibariyenin annesi vs sinayl kullanmayan şöförrrrrr -->
-<!-- bkz kaısını kızını sinyal vermeyen gavat araba -->
-<!-- bkz karısını kızıznı ses etmeyen gavata oy vermek kozmik oda -->
-<!-- bkz rte solcusu vs devlet bahceşi sağcısı -->
-<!-- https://www.uludagsozluk.com/k/rap-denince-akla-ilk-gelen-isim/&w=bg bkz killa hakan norm ender sagopa baba -->
-<!-- bkz tayip puyçu çomar vs kamal putçu çomar -->
-<!---bkz kozmik oda solcusu erkek vs odatv sağcısı erkek-->
-<!-- bkz kozmik oda sağcılarının pısması -->
-<!-- bkz kozmik odanın sıdırdığı bilgilere ses etmeyen tayyip putçu çomar -->
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
