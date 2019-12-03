@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz mevlana şems aşkı vs cübbeli kamalcı aşkı -->
 <!-- bkz cübbeli kamalcı aşkı -->
 <!-- bkz kamalcılar sabaha kadar başlık açarken sikişen ahlaksız akpliler -->
 <!-- bkz apğlilerin şems mevlana aşkını yadırgaması cüppeli mürit aşkını onaylaması -->
