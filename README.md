@@ -1,4 +1,4 @@
-<!-- bkz mehmet aydın ın wiccasoft u brezilyaya taşıması -->
+<!-- bkz mehmet aydın ın wiccasoft u brezilyaya taşıması https://www.youtube.com/watch?v=otohjMymyYE -->
 <!-- https://www.youtube.com/watch?v=xtgxGMWjEuk bkz wiccasoft mağdurları -->
 <!-- https://www.youtube.com/watch?v=0iTts0sUzH4 https://www.uludagsozluk.com/e/42502974/ -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE mehmet aydın style -->
