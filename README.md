@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz ekşide can yaman hakkında girilen ilginç entry -->
 <!-- bkz alfa erkek sürünün lideridir ayol yürüyeceksin miilet yürüyecek arkandan  -->
 <!-- bkz can yaman ın gama erkeğiyim ayol açıklaması -->
 <!-- bkzcan yamanın  ayol ben alfa erkeği değilim betayım ayol demesi -->
