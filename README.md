@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!-- bkz mehmet akif alakurt un can yamanı hoplata hoplata sikeceği gerçeği -->
+<!-- bkz mehmet akif alakurt un can yamanı hhopur hopur hoplatacağı gerçeği -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak aga -->
 <!-- https://www.youtube.com/watch?v=7Drl8LeKipA aptala anlatır gibi anlatmak -->
 <!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
