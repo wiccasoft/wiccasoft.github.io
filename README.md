@@ -1,5 +1,5 @@
 <!-- https://www.uludagsozluk.com/e/42497534/ bkz kestir kurtul kankaaaaaağğ -->
-<!-- bkz deep turkish web teki  selin ciğerci erkek haline benzeyen garip yaratıklar -->
+<!-- bkz deep turkis web  selin ciğerci erkek haline benzeyen garip yaratıklar -->
 <!-- bkz iktisadi ve idari bilimler bitiren birini ciddiye almak https://www.youtube.com/watch?v=-AdnJiuDGVU -->
 <!-- 1978 doğumlu olup turancı ümmetçi ergenleri siklememek https://www.youtube.com/watch?v=zEvF-2-0LWk -->
 <!-- bkz 1991 doğumluların mal olması https://www.uludagsozluk.com/e/42502974/  -->
