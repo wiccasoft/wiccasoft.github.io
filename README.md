@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-
-<!--bkz erkek dedikodusu yapan oğlanlara osmanlı da ne deniyordu sorunsalı -->
+<!-- bkz osmanlı da erkek dedikodusu yapan oğlanlara taşşak oğlanı denirdi  -->
+<!-- bkz erkek dedikodusu yapan oğlanlara osmanlı da ne deniyordu sorunsalı -->
 <!-- bkz başkalarının özellikle erkeklerin özel hayatını konuşarak yaşayan organizma sorunsalı --> 
 <!-- bkz canyaman fanboyları sorunsalı -->
 <!-- bkz berat albyayrakın penis yüzüğüyle seks yapması sorunsalı -->
