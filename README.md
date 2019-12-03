@@ -1,10 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!--bkz dan bilzerian mehmet akif ala kurt vs can yaman vs kıvanç tatlıyaman -->
 <!--bkz can yaman a yaman delikanlıymışsıun demek -->
-<!--bkz şaka maka bu sene iyi can yaman yapması -->
-<!-- bkz can yaman fantezisi olan kız -->
-<!-- bkz can yaman ın paylaştığı rus hatunlar -->
 <!-- https://eksisozluk.com/can-yamanin-hayranina-arka-odaya-gecelim-demesi--6268683?a=popular bkz kozmik oda -->
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
