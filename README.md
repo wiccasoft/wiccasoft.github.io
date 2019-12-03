@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+<!-- https://www.youtube.com/watch?v=0iTts0sUzH4 https://www.uludagsozluk.com/e/42502974/ -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE mehmet aydın style -->
 <!-- https://www.youtube.com/watch?v=mSVKiiPei0s erdogan style -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramaycaksınız -->
