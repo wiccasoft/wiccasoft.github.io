@@ -1,3 +1,4 @@
+<!-- 1978 doğumlu olup ergenleri siklememek -->
 <!-- bkz 1991 doğumluların mal olması https://www.uludagsozluk.com/e/42502974/  -->
 <!-- bkz mehmet aydına tosunum diyen insan zekası -->
 <!-- bkz mehmet aydın ın softbankı japonyaya taşıması https://www.youtube.com/watch?v=otohjMymyYE -->
