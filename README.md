@@ -1,7 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!-- bkz ahmet kaya dinleyen gay limp bizkit dinleyen tübanlı ilişkisi -->
+<!-- bkz neşet ertaş gay miydi sorunsalı-->
+<!-- bkz ahmet kaya dinleyen gay limp bizkit dinleyen türbanlı ilişkisi -->
 <!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 jeff bezosun acunu siklememesi sorunsalı-->
 <!-- bkz tarkanın çişim geldi diyip kaçması sorunsalı-->
 <!-- bkz ahmet kaya işemeli seks severdi iddiası -->
