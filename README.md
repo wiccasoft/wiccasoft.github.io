@@ -1,22 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
  
-<!-- bkz can yaman tarafından saatlerce düzülmek vs mehmet akif alakurt tarafından saatlerce düzülmek -->
-<!-- bkz mehmet akif alakurt u görünce can yamanı unutan liboşlar -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak aga -->
-<!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
-<!-- https://www.uludagsozluk.com/e/42504787/ bkz https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
-<!--bkz norm enderci bebelerin göt olması -->
-<!--bkz can yaman soktukça hala entry kasan orospunun sıçtıkları -->
-<!--bkz can yamanın orul orul sikerttiği fanboylar -->
-<!--bkz can yaman hoplattıkça coşan oç ları -->
-<!--bkz can yamanın hoplattığı karıların çocuklarının entry kasması -->
-<!--https://www.uludagsozluk.com/e/42504871/ ay hepimizi siker bunlar ayol-->
-<!--bkz can yaman tarfından saatlerce düzülmek vs kenan imirzalıoğlu tafadından saatlerce sikilmek -->
-<!-- https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-%C3%A7ekici-k%C4%B1lan-detaylar/&w=bg bkz hepinizi sikerum -->
-<!--bkz dan bilzerian mehmet akif ala kurt vs can yaman vs kıvanç tatlıyaman -->
-<!--bkz can yaman a yaman delikanlıymışsıun demek -->
-<!-- https://eksisozluk.com/can-yamanin-hayranina-arka-odaya-gecelim-demesi--6268683?a=popular bkz kozmik oda -->
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
