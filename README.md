@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- https://www.uludagsozluk.com/k/fatih-portakal-olmasayd%C4%B1/ bkz fatih portakla anlatır gibi anlatmak -->
 <!-- https://www.uludagsozluk.com/e/42503457/ bkz kürtlerikaçırdığı elektrink -->
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
