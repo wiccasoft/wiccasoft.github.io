@@ -1,8 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- https://www.uludagsozluk.com/e/42503611/ seviyosan git konuş bence -->
-<!-- bkz pempe götlü kamalıstı sıkıştırık sinyal vermek -->
-<!-- https://www.uludagsozluk.com/k/bo%C5%9F-yolda-bile-sinyal-veren-pembe-g%C3%B6tl%C3%BC-kamalist/ -->
+<!-- https://www.uludagsozluk.com/e/42503611/ bkz seviyosan git konuş bence -->
 <!-- bkz selocana güvenen kitle vs rte ye güvenen kitle -->
 <!-- bkz kibariyenin sinyal kullanmayan şöförü -->
 <!-- bkz fanboylar olmasa matrix in duracağı gerçeği -->
