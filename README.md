@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+<!-- bkz türklerin çelik üretimi yerine demir üretimine yüklenemsi olayı -->
 <!-- https://www.uludagsozluk.com/e/42502662/ bkz başaramayacaksınız demirtaşı alamayaksınız -->
 <!-- https://www.facebook.com/tcbestepe/videos/15-temmuz-%C5%9Fehitlerimizi-rahmet-ve-minnetle-an%C4%B1yoruz/1999718343387016/ başaramayacaksınız -->
 <!-- bkz m.facebook linki paylaşan bi ümmetçiyi ciddiye almak -->
