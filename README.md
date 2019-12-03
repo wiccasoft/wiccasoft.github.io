@@ -1,44 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!---bkz kozmik oda solcusu erkek  vs odatv sağcısı erkek-->
-<!-- bkz kozmik oda sağcılarının pısması -->
-<!-- bkz kozmik odanın sıdırdığı bilgilere ses etmeyen tayyip putçu çomar -->
-<!-- https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-fet%C3%B6-ye-a%C3%A7anlara-oy-veren-%C3%A7omar/&w=bg -->
-<!-- bkz götten konulan tayyip putçu çomarın pısması sorunsalı -->
-<!-- bkz tayyip putçu çomarların sesinin çıkmaması -->
-<!-- bkz içinde gezdireilen akçomarın sesinin çıkmaması noldu lan koduk muu amuna koduuumm -->
-<!-- bkz aktroller noldi seseiniz çıkmiyyyyyyyyyyyy -->
-<!-- https://www.uludagsozluk.com/e/42503449/ bkz yusuf yusuf içinde gezdirmek -->
-<!-- bkz karısını kızını fetö evlerine yollayan gavat sese etmeyen aktroller -->
-<!-- bkz acele etme papaz efendiye cevab ceremeyen fetöcüler -->
-<!-- bkz acele etme papaz efendinin karısını kızını fetö evlerine gönderen gavat bsşlığına hergün entry girmesi -->
-<!-- bkz acele etme papaz efendinin seri şekilde ak gavatlara verdiği ayarlar -->
-<!-- bkz karısını kızını fetö evlerin gönderen gavat -->
-<!-- bkz kozmik oda solcusu vs kozmik oda kamalcısı -->
-<!-- bkz mevlana şems aşkı vs cübbeli kamalcı aşkı -->
-<!-- bkz cübbeli kamalcı aşkı -->
-<!-- bkz kamalcılar sabaha kadar başlık açarken sikişen ahlaksız akpliler -->
-<!-- bkz apğlilerin şems mevlana aşkını yadırgaması cüppeli mürit aşkını onaylaması -->
-<!-- bkz akplilerin uğramadığı başlıklar -->
-<!-- bkz tayip puyçu çomar vs kamal putçu çomar -->
-<!-- https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n%C4%B1n-sevgilisine-g%C3%B6z-diken-gavat/&w=bg bkz ramiz dayı -->
-<!-- bkz can yamanın erkek hayranları vs kadın hayranları -->
-<!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-kad%C4%B1n-hayran%C4%B1na-yapt%C4%B1%C4%9F%C4%B1-terbiyesizlik/ -->
-<!-- https://www.uludagsozluk.com/k/fatih-portakal-olmasayd%C4%B1/ bkz fatih portakal ordakal 
-<!-- https://www.uludagsozluk.com/e/42503068/ bkz kadın hayran olası gelmek sorunsalı--> 
-<!-- https://www.uludagsozluk.com/k/can-yaman-vs-fatih-altayl%C4%B1/ bkz iki yakışıklı -->
-<!-- https://www.uludagsozluk.com/k/ramiz-day%C4%B1-vs-s%C3%BCleyman-%C3%A7ak%C4%B1r/ dayo götten çakar diyorum -->
-<!-- https://www.uludagsozluk.com/e/42497534/ bkz kestir kurtul kankaağğğ https://www.youtube.com/watch?v=RHBoMuNszuk -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/&w=bg bkz iki baba yiğidin aşkı -->
-<!-- https://www.uludagsozluk.com/k/ramiz-day%C4%B1-vs-s%C3%BCleyman-%C3%A7ak%C4%B1r/ bkz iki babayiğit -->
-<!-- https://www.uludagsozluk.com/k/emin-adanur/&w=bg bkz nisanurun çilesi -->
-<!-- https://www.uludagsozluk.com/e/42503157/ bkz enes baturun emre mor arasındaki gerilim -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/ bkz aşkların en güzeli -->
-<!-- https://www.uludagsozluk.com/e/42503157/ bkz burhan kuzu -->
-<!-- bkz recep tayyip erdoğan diye yazılır adam diye okunur -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/ bkz duydum ki götten veriyisın -->
-<!-- https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-in-m%C3%BCritlerinin-anal-diye-tutturmas%C4%B1/ şems cübbeli aşkı -->
-<!-- https://www.uludagsozluk.com/e/42502924/ bkz izole hata yaşamanın keyfi -->
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
