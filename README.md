@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz rte solcusu vs devlet bahceşi sağcısı -->
 <!-- https://www.uludagsozluk.com/k/rap-denince-akla-ilk-gelen-isim/&w=bg bkz killa hakan norm ender sagopa baba -->
 <!-- bkz tayip puyçu çomar vs kamal putçu çomar -->
 <!---bkz kozmik oda solcusu erkek vs odatv sağcısı erkek-->
