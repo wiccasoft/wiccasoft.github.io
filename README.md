@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-
+<!-- bkz araba ön farını parlatıp arka sinyali açık bırakıp ilk buluşmaya gitmek -->
 <!-- bkz ilk bulumada selamun aleykum deli oğlan diyip kafa tokuşturan kız -->
 <!-- bkz can yamanın patlattığı kız ciddiye almak -->
 <!-- bkz ilk buluşmada can yaman beni patlattı diyen kız -->
