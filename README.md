@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!--bkz acunun beyazıtı siktiği iddiaları -->
 <!--bkz beyazıt göttürkün işemeli sıçmalı seks sevmesi sorunsalı-->
 <!--bkz vallahi selocanı özledik -->
 <!-- bkz vallahi apoyu özledik başlığı olması vallah ahmet kaya özleidk olmaması sorunsalı-->
