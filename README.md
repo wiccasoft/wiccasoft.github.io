@@ -3,7 +3,7 @@
 
 <!-- bkz tayyip putçu çomarların sesinin çıkmaması -->
 <!-- bkz aktroller noldi seseiniz çıkmiyyyyyyyyyyyy -->
-<!-- https://www.uludagsozluk.com/e/42503449/ bkz içinde gezdirmek -->
+<!-- https://www.uludagsozluk.com/e/42503449/ bkz yusuf yusuf içinde gezdirmek -->
 <!-- bkz karısını kızını fetö evlerine yollayan gavat sese etmeyen aktroller -->
 <!-- bkz acele etme papaz efendiye cevab ceremeyen fetöcüler -->
 <!-- bkz acele etme papaz efendinin karısını kızını fetö evlerine gönderen gavat bsşlığına hergün entry girmesi -->
