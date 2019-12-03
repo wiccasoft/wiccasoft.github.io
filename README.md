@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-
+<!-- bkz kolpaçino tayfur vs can yaman -->
 <!-- bkz imamaoğlunun can yamanın çizgisini beğeniyorum açıklması -->
 <!-- bkz aktaşın demirtaşın tahliyesine sıcak bakmasına sese etmeyen kamalcılar -->
 <!-- bkz chp heyetinin cemirtaşı ziyretine ses etmyen kamalcılar -->
