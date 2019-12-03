@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz hayyam nasreddin hoca mevlana şems aşkı -->
 <!-- bkz facebook a araba önünde resim atıp ceo yazmak -->
 <!-- bkz araba ön farını parlatıp arka sinyali açık bırakıp ilk buluşmaya gitmek -->
 <!-- bkz ilk bulumada selamun aleykum deli oğlan diyip kafa tokuşturan kız -->
