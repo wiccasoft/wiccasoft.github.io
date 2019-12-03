@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!-- bkz alfa erkek sürünün lideridir ayol -->
+<!-- bkz alfa erkek sürünün lideridir ayol yürüyeceksin miilet yürüyecek arkandan  -->
 <!-- bkz can yaman ın alfa ve omega erkeğiyim açıklaması -->
 <!-- bkzcan yamanın  ayol ben alfa erkeği değilim betayım ayol demesi -->
 <!-- https://www.uludagsozluk.com/k/makat%C4%B1na-kalem-sokarken-kendini-if%C5%9Fa-eden-gay/&w=bg aa bu benim -->
