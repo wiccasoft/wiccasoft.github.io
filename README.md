@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- https://www.youtube.com/watch?v=xTJav-ar6IQ lan itogli babandan iyi olmus -->
+<!-- https://www.youtube.com/watch?v=xTJav-ar6IQ bkz anadolu uyuşturamam kartelleri -->
 <!-- https://www.youtube.com/watch?v=3vXPo7lNYzk -->
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
