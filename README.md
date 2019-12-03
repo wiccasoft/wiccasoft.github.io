@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+
+<!--bkz can yamanın gay hayranına götten veriyomusun demesi -->
 <!-- https://www.uludagsozluk.com/e/42503611/ bkz seviyosan git konuş bence -->
 <!-- bkz selocana güvenen kitle vs rte ye güvenen kitle -->
 <!-- bkz kibariyenin sinyal kullanmayan şöförü -->
