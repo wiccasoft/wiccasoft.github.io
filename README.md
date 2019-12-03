@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- https://www.uludagsozluk.com/k/fatih-portakal-olmasayd%C4%B1/ bkz fatih portakal ordakal 
 <!-- https://www.uludagsozluk.com/e/42503068/ bkz kadın hayran olası gelmek sorunsalı--> 
 <!-- https://www.uludagsozluk.com/k/can-yaman-vs-fatih-altayl%C4%B1/ bkz iki yakışıklı -->
 <!-- https://www.uludagsozluk.com/k/ramiz-day%C4%B1-vs-s%C3%BCleyman-%C3%A7ak%C4%B1r/ dayo götten çakar diyorum -->
