@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-<!--bkz kılışdaroğlu demirtaşı istiyosan türke boyun eğeceksin köpek kürt -->
+<!-- bkz kılışdaroğlu demirtaşı istiyosan türke boyun eğeceksin köpek kürt -->
 <!-- bkz https://www.uludagsozluk.com/e/42502662/ bırakmayalım beyler -->
 <!-- bkz türkün yurduna göz dikene ez oglim gafasını ez oglimmmmmmm -->
 <!-- bkz sonra döndüm dedim ki ne mutlu türküm türkün türk ülküsü ölüsü dirisi birgün hepinizi  -->
