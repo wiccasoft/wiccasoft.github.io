@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz fartih portakal vs fatih altaylı vs fatih tezcan sorunsalı-->
 <!-- bkz annoying orange va annoying fatih-->
 <!-- erkek dedikodusu yapan oğlanlara osmanlı da ne deniyordu sorunsalı bkz taşşak oğlanları-->
 <!-- bkz berat albyayrakın penis yüzüğüyle seks yapması sorunsalı -->
