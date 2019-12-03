@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!--https://www.uludagsozluk.com/k/tu%C4%9Frul-selmano%C4%9Flu/&w=bg bkz tuğrulun işemeli seks sorunsalı -->
 <!-- bkz fatih portakalın swinger ilişkide kırbaçlanmayı sevmesi  sorunsalı -->
 <!-- bkz acunun azına üstüne işetmesi sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/beyaz%C4%B1t-%C3%B6zt%C3%BCrk%C3%BCn-%C3%BCst%C3%BCne-i%C5%9Fetmesi-sorunsal%C4%B1/ -->
