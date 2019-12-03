@@ -3,7 +3,7 @@
 <!-- https://www.uludagsozluk.com/e/42502665/ bkz nsa dan güçlü olmak -->
 <!-- https://www.uludagsozluk.com/e/42502640/ bkz deep webin dipsiz çukuruna düştüm yine -->
 <!-- https://www.uludagsozluk.com/e/42501762/ bkz aman aman nelerde dönmüş serkhat ya -->
-<!-- https://www.uludagsozluk.com/e/42502662/ bkz aman aman nereye geldim daha demin saraydaydim -->
+<!-- https://www.uludagsozluk.com/e/42502662/ bkz aman aman nereye geldim daha demin sarayımdaydim -->
 <!-- bkz kamalcı profili https://www.youtube.com/watch?v=LTs9MH0Ny-k -->
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
