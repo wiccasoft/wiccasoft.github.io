@@ -1,4 +1,5 @@
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
+<!-- https://www.uludagsozluk.com/k/ramiz-day%C4%B1-vs-s%C3%BCleyman-%C3%A7ak%C4%B1r/ bkz iki babayiğit -->
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 
