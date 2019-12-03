@@ -1,8 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!--bkz can yaman koydukçu entry kasan beta ibneler -->
-<!-- bkz can yamanın orul orul sikerttiği fanboylar -->
+<!--bkz can yaman koydukça entry kasan ibne nin evlatları orospu sıçmıkları-->
+<!--bkz can yamanın orul orul sikerttiği fanboylar -->
 <!--bkz can yaman soktukça kasan ekşiciler -->
 <!--bkz can yaman hoplattıkça coşan oç ları -->
 <!--bkz can yamanın hoplattığı karıların çocuklarının entry kasması -->
