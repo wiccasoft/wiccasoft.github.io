@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+<!-- bkz türkün yurduna göz dikene ez oglim gafasını ez oglimmmmmmm -->
 <!-- bkz sonra döndüm dedim ki ne mutlu türküm türkün türk ülküsü ölüsü dirisi birgün hepinizi  -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrt-vs-suriyeli/&w=bg bkz türkün türkten başka dostu yoktur -->
 <!-- https://www.uludagsozluk.com/e/42502762/ bkz kürtleri sabun yapmak -->
