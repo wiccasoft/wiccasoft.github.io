@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 <!-- bkz sevmeyi bilmeyen oğlanın yüreğine sevgi koyan rte -->
-<!--bkz aslan yürekli rte vs göt yürekli davutoğlu -->
+<!-- bkz aslan yürekli rte vs göt yürekli davutoğlu -->
 <!-- bkz karizmanın oülu rte vs portakalın oğlu fatih -->
 <!-- bkz fatih portakala anlatır gibi anlatmak -->
 <!-- bkz reynmenle bir gece vs ene batur la bir gece -->
