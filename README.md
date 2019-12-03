@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!--bkz can yamanın kadın hayranına kutuna girerim demesi-->
-<!--bkz can yamanın erkek hayranına arkadan alıyon mu demesi-->
+<!--bkz can yamanın kadın hayranına kutuna girerim demesi sorunsalı-->
+<!--bkz can yamanın erkek hayranına arkadan alıyon mu demesi sorunsalı-->
 <!--bkz ya can yaman hayranıyla kozmik odada seviştiyse sorunsalı-->
 <!--bkz can yamannı hayranına odaya geçelim demesi sorunsalı-->
 <!--bkz ya can yaman hayranına odaya geçelim demeseydi sorunsalı-->
@@ -9,11 +9,11 @@
 <!--bkz fatih portakal ordakal olsaydı sorunsalı-->
 <!--bkz ya fatih portakal elma olsaydı sorunsalı-->
 <!--bkz ya can yaman  olmasaydı sorunsalı-->
-<!--bkz canyaman kim diye aratmaya üşenmek-->
-<!--bkz fatih altaylıdan fazla fatih terime entry girmek-->
+<!--bkz canyaman kim diye aratmaya üşenmek sorunsalı -->
+<!--bkz fatih altaylıdan fazla fatih terime entry girmek sorunsalı -->
 <!--bkz ya fatih altaylı fatih terim olmasaydı sorunsalı-->
 <!--bkz ya fatih portakal da vitamin olsaydı sorunsalı-->
-<!--bkz 3 gündür can yumoş kim lan diye düşünmek -->
+<!--bkz 3 gündür can yumoş kim lan diye düşünmek sorunsalı-->
 <!--bkz taksimin renkli siması jeff bezos-->
 <!--bkz pencereyi tıklayıp çiçcek alin mi diyen cin geni-->
 <!--bkz vallahi ibrahim erkalı özlemişek -->
