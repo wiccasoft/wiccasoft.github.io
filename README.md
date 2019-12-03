@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+
+<!--https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-%C3%A7ekici-k%C4%B1lan-detaylar/&w=bg -->
 <!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
 <!-- https://www.uludagsozluk.com/e/42504787/ bkz elimde  yarrak var sen taşşakları üfle  -->
 <!-- https://www.uludagsozluk.com/k/elimde-de%C4%9Fil-hala-seviyirum-diye-a%C4%9Flayan-h%C4%B1rbo/ elimde yarrak var -->
