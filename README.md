@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz kolpaçino tayfurun can yamanı kıskanması -->
 <!-- bkz can yamanın betayı atlayıp alfa sürümde yayın yapacam açıklaması https://www.pinterest.com/wiccasoft/  -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-alfa-erke%C4%9Fi-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ -->
 <!-- https://www.pinterest.com/wiccasoft/ bkz acan yaman ın kadın hayranlarıyla barışması -->
