@@ -1,4 +1,5 @@
-<!-- bkz mehmet aydınıa tosunum diyen insan zekası -->
+
+<!-- bkz mehmet aydına tosunum diyen insan zekası -->
 <!-- bkz mehmet aydın ın softbankı japonyaya taşıması https://www.youtube.com/watch?v=otohjMymyYE -->
 <!-- https://www.youtube.com/watch?v=xtgxGMWjEuk bkz softbank mağdurları -->
 <!-- https://www.youtube.com/watch?v=0iTts0sUzH4 https://www.uludagsozluk.com/e/42502974/ -->
