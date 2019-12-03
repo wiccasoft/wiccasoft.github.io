@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- bkz yakışıklı karakterli erkeğe entry girmek vs yakışıksızk karaktersiz erkeğe entry girmek -->
+<!-- bkz yakışıklı karakterli erkeğe entry girmek vs yakışıksız karaktersiz erkeğe entry girmek -->
 <!-- bkz can yaman a entry girmek vs rte ye entry girmek -->
 <!-- bkz can yaman vs kenan imirzalıoğlu -->
 <!-- bkz can yamanla bir gece vs kıvanç tatlıtuğla öğle yemeği -->
