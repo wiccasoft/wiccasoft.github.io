@@ -1,3 +1,5 @@
+
+<!-- bkz iktisadi ve idari bilimler bitiren birini ciddiye almak -->
 <!-- 1978 doğumlu olup turancı ümmetçi ergenleri siklememek https://www.youtube.com/watch?v=zEvF-2-0LWk -->
 <!-- bkz 1991 doğumluların mal olması https://www.uludagsozluk.com/e/42502974/  -->
 <!-- bkz mehmet aydına tosunum diyen insan zekası -->
