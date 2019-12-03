@@ -1,5 +1,6 @@
 
-[![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+[![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 ),
+<!-- iktisadi ve idari bilimler bitirip diplomayı bakkal duvarına asmak -->
 <!-- bkz atatürkün kürtlerin sabun yapmadığı için pişman olması -->
 <!-- bkz türklerin asil damarlarında akan kana saygı duymayan kürtler -->
 <!-- bkz türk kanı vs şerefsiz kürt kanı -->
