@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+
+<!-- bkz ahmet kaya işemeli seks severdi iddiası -->
 <!-- bkz nisanurun çilesi https://www.youtube.com/watch?v=XsbksXXgXwQ -->
 <!-- bkz hayran kitlesi olmayan ezik -->
 <!-- bkz can yumoşu hayranları vs kerimcan durmaz  hayranları -->
