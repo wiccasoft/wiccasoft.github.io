@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 <!-- https://www.uludagsozluk.com/e/42502665/ bkz nsa dan güçlü olmak -->
+<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-k%C3%BCrtleri-tam-24-defa-tokatlamas%C4%B1/ -->
 <!-- bkz kürt düşmanlığı yaparken olmayan beynini yitiren türkçüler -->
 <!-- https://www.uludagsozluk.com/e/42502640/ bkz deep webin dipsiz çukuruna düştüm yine -->
 <!-- https://www.uludagsozluk.com/e/42501762/ bkz aman aman neler dönmüş serkhat ya -->
