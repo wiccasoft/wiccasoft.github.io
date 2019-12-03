@@ -1,6 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz can yaman kavgası olaylı bitti fanboylar arasında kavga çıktı -->
+<!-- bkz haluk bilginere laf eden oda arkadaşını bıçakladı -->
 <!-- bkz dan bilzerian ın paylaştığı can yaman delikanlısın postu -->
 <!-- bkz bim poşeti götüne sokup balon yapan genç -->
 <!-- bkz can yaman ın kozmik odada hoplattığı hatunlar -->
