@@ -1,8 +1,7 @@
 
+[![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
-<!-- bkz can yaman ın kıvaç tatlıtuğ anca getir götürümü yapar demesi-->
-<!-- bkz eminer erdoğanın selin ciğerciyi kıskanması -->
-<!-- bkz selin ciğercinin paylaştığı ciğere uzanamayan mundar der paylaşımı -->
+
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 
