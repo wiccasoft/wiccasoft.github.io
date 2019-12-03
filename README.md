@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz can yaman tarfından saatlerce düzülmek vs kenan imirzalıoğlu tafadından saatlerce sikilmek -->
 <!-- https://www.uludagsozluk.com/k/bir-erke%C4%9Fi-%C3%A7ekici-k%C4%B1lan-detaylar/&w=bg bkz hepinizi sikerum -->
 <!--bkz dan bilzerian mehmet akif ala kurt vs can yaman vs kıvanç tatlıyaman -->
 <!--bkz can yaman a yaman delikanlıymışsıun demek -->
