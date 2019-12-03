@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/ bkz duydum ki götten veriyosun -->
 <!-- https://www.uludagsozluk.com/k/fatih-portakal-olmasayd%C4%B1/ bkz fatih portakla anlatır gibi anlatmak -->
 <!-- https://www.uludagsozluk.com/e/42503457/ bkz kürtlerikaçırdığı elektrink -->
 
