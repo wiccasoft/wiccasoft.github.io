@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-
+<!-- https://www.pinterest.com/wiccasoft/ bkz aktaşın chp heyetiyle fotoları -->
 <!-- bkz kerimcan durmazın can yamanı savunması -->
 <!-- bkz can yamman ın aktaşın çizgisini beğeniyorum açıklaması -->
 <!-- bkz aktaşın chp heyetini geri çevirmesi -->
