@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--https://www.uludagsozluk.com/e/42504613/ bkz kıvanç tatlıtuğun haluka sıcak bakması -->
 <!-- https://www.uludagsozluk.com/k/haluk-bilginer/&w=bg bkz 70 yaşına merdicen dayamış iş bitmemiş
 <!-- bkz can yamanın kadın hayranlarını kozmik odaya çağırması -->
 <!-- https://www.uludagsozluk.com/k/emre-cemil-ayval%C4%B1/&w=bg bkz can yaman ı beğenmeyen çomar -->
