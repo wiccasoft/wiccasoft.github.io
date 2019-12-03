@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- https://www.uludagsozluk.com/e/42504199/ bkz yaza doğru alınacak ilk yerler -->
+<!-- https://www.uludagsozluk.com/e/42504199/ bkz  yatırım amaçlı alınacak  yerler -->
 <!-- bkz burahna altıntop vs rte -->
 <!-- bkz şaka maka rte nin iibf yi bitirmesi -->
 <!-- bkz iibf bitmeyi kolay sanmak vs rte -->
