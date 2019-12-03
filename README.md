@@ -1,4 +1,4 @@
-<!-- bkz 1991 doğumluların mal olması -->
+<!-- bkz 1991 doğumluların mal olması https://www.uludagsozluk.com/e/42502974/  -->
 <!-- bkz mehmet aydına tosunum diyen insan zekası -->
 <!-- bkz mehmet aydın ın softbankı japonyaya taşıması https://www.youtube.com/watch?v=otohjMymyYE -->
 <!-- https://www.youtube.com/watch?v=xtgxGMWjEuk bkz softbank mağdurları -->
