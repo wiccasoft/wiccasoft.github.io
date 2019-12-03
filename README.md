@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 <!--- bkz can yaman vs kıvanç tatlıtuğ -->
+<!-- bkz eski sevdiceğin whatsuptan tokmaktayım diye mesaj atması -->
 <!-- bkz öğretmen ders anlatırken can yaman izleyen öğrenci -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-ders-anlat%C4%B1rken-sigara-i%C3%A7en-%C3%B6%C4%9Frenci/ -->
 <!-- bkz can yaman ın yaman delikanlı çıkması -->
