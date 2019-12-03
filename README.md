@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+
+<!-- bkz bi milyon verinler can yamana sakso çekerim diyen genç -->
 <!-- bkz çocuklar duymasın haluk un ba ba ba ba can yaman mı alfa erkek demesi -->
 <!-- bkz halukun can yaman a sıcak bakıyorum demesi -->
 <!-- bkz 40 yaşından sonra can yaman fanboyu olmak-->
