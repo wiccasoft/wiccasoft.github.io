@@ -19,36 +19,6 @@
 <!--bkz taksimin renkli siması jeff bezos-->
 <!--bkz pencereyi tıklayıp çiçcek alin mi diyen cin geni-->
 <!--bkz vallahi ibrahim erkalı özlemişek -->
-<!--bkz yakışıklıkta ibrahim erkala benzetilmek -->
-<!--bkz ibrahim erkal gibi saç traşı olmask -->
-<!--bkz mustafa cengizin diego transferine sıcak bakması-->
-<!--bkz ibrahim erkalın ahmet kayaya pkklı demesi -->
-<!--bkz pencereyi açıp can yaman diye bağırma isteği -->
-<!--bkz yaman delikanlısın can yaman -->
-<!--bkz can yamanın çok yaman olması-->
-<!--bkz vallahi can yamanı özledik-->
-<!--bkz can yamana entry girerken kim lan bu diye düşünmek -->
-<!--bkz can yaman ın bayadır sesinin çıkmaması sorunsalı-->
-<!--bkz acunun beyazıtı siktiği iddiaları -->
-<!--bkz beyazıt göttürkün işemeli sıçmalı seks sevmesi sorunsalı-->
-<!--bkz vallahi selocanı özledik -->
-<!-- bkz vallahi apoyu özledik başlığı olması vallah ahmet kaya özleidk olmaması sorunsalı-->
-<!-- bkz vallahi apoyu özledik başlığına kürtçülerin dadanması sorunsalı-->
-<!-- bkz vallahi apoyu özledik e entry girerken banaın odaya girip enseye tokat atması sorunsalı-->
-<!-- bkz vallahi apoyu özledik -->
-<!-- bkz ahmet kaya gay miydi sorunsalı -->
-<!-- bkz ahmet kaya mı yılmaz güney mi sorunsalı --> 
-<!-- bkz ahmet kaya hayatı özetleyici cümlesi deyince aklına ne geliy-->
-<!-- bkz vallah apoyu özledik -->
-<!-- bkz neşet ertaş gay mıydı sorunsalı-->
-<!-- bkz ahmet kaya gafama sıkar giderim dinlerken odaya babanın girmesi -->
-<!-- bkz ahmet kayanın içimde ölen biri var derken titremesi-->
-<!-- bkz beyin bedavaysa niye enrtry giriyom diyen genç -->
-<!-- bkz ahmet kaya dinleyen ülkücülerin kafalarına sıkmaması sorunsalı -->
-<!-- bkz ahmet kaya acılara tutunmak dinlerken babanın odaya girip dövmesi -->
-<!-- bkz neşet ertaş gay miydi sorunsalı-->
-<!-- bkz ahmet kaya dinleyen gay limp bizkit dinleyen türbanlı ilişkisi -->
-<!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 jeff bezosun acunu siklememesi sorunsalı-->
 <!-- bkz tarkanın çişim geldi diyip kaçması sorunsalı-->
 <!-- bkz ahmet kaya işemeli seks severdi iddiası -->
 <!-- bkz nisanurun çilesi https://www.youtube.com/watch?v=XsbksXXgXwQ -->
