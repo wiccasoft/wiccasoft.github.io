@@ -1,41 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!-- bkz ekşide can yaman hakkında girilen ilginç entry -->
-<!-- bkz alfa erkek sürünün lideridir ayol yürüyeceksin miilet yürüyecek arkandan  -->
-<!-- bkz can yaman ın gama erkeğiyim ayol açıklaması -->
-<!-- bkzcan yamanın  ayol ben alfa erkeği değilim betayım ayol demesi -->
-<!-- https://www.uludagsozluk.com/k/makat%C4%B1na-kalem-sokarken-kendini-if%C5%9Fa-eden-gay/&w=bg aa bu benim -->
-<!-- bkz kurtlar vadisi polatın alfa erkeği olduğu gerçeği -->
-<!-- bkz kolpaçino tayfurun kurtlar vadisi seyfo dayını çizgisini beğeniyorum açıklaması -->
-<!-- bkz kerimcan durmazın can yamanın çizgisin beğeniyorum demesi->
-<!-- bkz can yamman ın aktaşın çizgisini beğeniyorum açıklaması -->
-<!-- bkz aktaşın chp heyetini geri çevirmesi -->
-<!-- bkz can yaman ı takipten çıkıyoruz kampanyası -->
-<!-- bkz can yaman ın kadın hayranına yaptığı terbiyesizlik -->
-<!-- bkz bi beyin cerrahının futbolculara hayran olma ihtimali-->
-<!-- bkz bi beyin cerrahının can yaman hayranı olma ihtimali-->
-<!-- bkz beyin cerrahlarının ekşide duyar kasması-->
-<!-- bkz bir burhan altıntop kolay yetişmiy deyip inci sözlüğü bırakmak -->
-<!-- bkz iibf okuyup entry açarak ömür geçirmek -->
-<!-- bkz ekşideki astronotların can yaman a yürümesi -->
-<!-- bkz incideki doktorların yürüttüğü kızlar -->
-<!-- bkz ekşici doktorların muayene ettiği futbolcuların yürümesi -->
-<!-- bkz kolpaçino tayfur vs kurtlar vadisi seyfo dayı -->
-<!-- bkz can yamanını demirtaşın çizgisini beğeniyorum açıklaması -->
-<!-- bkz kolpaçino tayfur vs can yaman -->
-<!-- bkz imamaoğlunun can yamanın çizgisini beğeniyorum açıklması -->
-<!-- bkz aktaşın demirtaşın tahliyesine sıcak bakmasına sese etmeyen kamalcılar -->
-<!-- bkz chp heyetinin cemirtaşı ziyretine ses etmyen kamalcılar -->
-<!-- bkz can yamanın kadın hayranın götelek demesine kızan tipler -->
-<!-- bkz can yamanın kadın hayrnına götelek demesi -->
-<!-- bkz burhan altıntop vs rte -->
-<!-- bkz şaka maka rte nin iibf yi bitirmesi -->
-<!-- https://www.uludagsozluk.com/k/rte-nin-tahsiline-laf-eden-tipler/ bkz iibf mezunlarının salak olması -->
-<!-- https://www.uludagsozluk.com/e/42504199/ bkz yatırım amaçlı alınacak  yerler -->
-<!-- https://eksisozluk.com/halk-bilginer-vs-can-yaman--6268989?a=popular iyi olan kazansın şukulayın -->
-<!-- https://eksisozluk.com/can-yamanin-hayranina-arka-odaya-gecelim-demesi--6268683?a=popular bkz şeffaf oda -->
-
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
