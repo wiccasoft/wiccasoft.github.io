@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz can yamanı takipten çıkıyoruz kampannyası -->
 <!-- bkz fartih portakal mı  vs fatih altaylı mı vs fatih tezcan mı sorunsalı-->
 <!-- bkz annoying orange va annoying fatih-->
 <!-- erkek dedikodusu yapan oğlanlara osmanlı da ne deniyordu sorunsalı bkz taşşak oğlanları-->
