@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-<!-- https://www.uludagsozluk.com/e/42501762/ bkz mana aman nelerde dönmüş serkhat ya -->
+<!-- https://www.uludagsozluk.com/e/42502640/ bkz deep webi n dipsiz çıukuruna düştüm yine -->
+<!-- https://www.uludagsozluk.com/e/42501762/ bkz aman aman nelerde dönmüş serkhat ya -->
 <!-- https://www.uludagsozluk.com/e/42502662/ bkz aman aman nereye geldim daha demin saraydaydim -->
 <!-- bkz kamalcı profili https://www.youtube.com/watch?v=LTs9MH0Ny-k -->
 
