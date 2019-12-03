@@ -1,37 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- bkz götüne sinyal takan aktroll vs götünden eksoz çıkaran aktroll -->
-<!-- bkz sinyal kullamayan kamlcıyla trafikte aşk yaşamak -->
-<!-- https://www.uludagsozluk.com/e/42503611/ bkz seviyosan git konuş bence  -->
-<!-- https://www.youtube.com/watch?v=XPLDKA8MPLc bkz sinyal kullanmayanların aşkı -->
-<!-- bkz can yamanın gay hayranına götten alıyo musun  demesi -->
-<!-- https://www.uludagsozluk.com/e/42503611/ bkz seviyosan git konuş bence -->
-<!-- bkz selocana güvenen kitle vs rte ye güvenen kitle -->
-<!-- bkz kibariyenin sinyal kullanmayan şöförü -->
-<!-- bkz fanboylar olmasa matrix in duracağı gerçeği -->
-<!-- bkz fanboyların dünyayı sırtın da taşıdığu gerçeği -->
-<!-- bkz can yaman fanboylarının coşması -->
-<!-- bkz can yamanın alem bena heyran benim gönlüm eyran  demesi -->
-<!-- bkz can yaman kadın hayranı profili  vs can yaman erkek hayranı profili -->
-<!-- bkz hayyam nasreddin hoca mevlana şems aşkı -->
-<!-- bkz facebook a araba önünde resim atıp ceo yazmak -->
-<!-- bkz araba ön farını parlatıp arka sinyali açık bırakıp ilk buluşmaya gitmek -->
-<!-- bkz ilk bulumada selamun aleykum deli oğlan diyip kafa tokuşturan kız -->
-<!-- bkz can yamanın patlattığı kız ciddiye almak -->
-<!-- bkz ilk buluşmada can yaman beni patlattı diyen kız -->
-<!-- bkz patlak kızın yaman abi yakışıklı mı diye sorması -->
-<!-- bkz can yaman ın yaman delikanlı olduğu gerçeği-->
-<!-- bkz can yaman vs yamansın delikanlı -->
-<!-- bkz can yaman vs kıvanç tatlıtuğ -->
-<!-- bkz eski sevdiceğin whatsuptan tokmaktayım naber diye mesaj atması -->
-<!-- bkz öğretmen ders anlatırken can yaman izleyen öğrenci -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-ders-anlat%C4%B1rken-sigara-i%C3%A7en-%C3%B6%C4%9Frenci/ -->
-<!-- bkz can yaman ın yaman delikanlı çıkması -->
-<!-- bkz can yamanın hayranına gel arka odaya geçelim demesi -->
-<!-- bkz futbolculara  helal be oğlum boynumuza dola diyen tipler -->
-<!-- https://eksisozluk.com/entry/98629520 bkz çıkarıp masaya vurmak -->
-<!--https://eksisozluk.com/ferdi-kadioglu--5226262?a=popular bkz kadı beni bilin cink etmem -->
-<!--bkz can yamanın arkda oda solcusuna kozmik odaya geçelim demesi-->  
+
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
