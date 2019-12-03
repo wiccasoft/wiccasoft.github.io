@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
 <!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
-<!-- https://www.uludagsozluk.com/e/42504787/ bkz elimde yarrak var sen taşşakları üfle babuşcan -->
+<!-- https://www.uludagsozluk.com/e/42504787/ bkz https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 <!--bkz norm enderci bebelerin göt olması -->
 <!--bkz can yaman soktukça hala entry kasan orospunun sıçtıkları -->
 <!--bkz can yamanın orul orul sikerttiği fanboylar -->
