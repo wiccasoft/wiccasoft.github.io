@@ -2,9 +2,6 @@
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
 <!-- bkz can yamman ın aktaşın çizgisini beğeniyorum açıklaması -->
-<!-- bkz aktaşın demirtaşı savunması -->
-<!-- bkz demir taşın demir üreticileri götelek demesi -->
-<!-- bkz chp nin aktaşı ziyareti -->
 <!-- bkz aktaşın chp heyetini geri çevirmesi -->
 <!-- bkz can yaman ı takipten çıkıyoruz kampanyası -->
 <!-- bkz can yaman ın kadın hayranına yaptığı terbiyesizlik -->
