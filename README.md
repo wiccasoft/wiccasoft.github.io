@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-<!-- bkz safkan türküm arı ırkım yani -->
+<!-- https://www.uludagsozluk.com/k/k%C3%BCrt-vs-suriyeli/&w=bg bkz safkan türklükten aldığım keyf gibisi yok -->
+<!-- bkz rte ikttisadi ve idari bilimler fakültesi https://www.uludagsozluk.com/e/42501912/-->
 <!-- https://www.uludagsozluk.com/e/42501873/ bkz türk önde türk ileri -->
 <!-- https://www.uludagsozluk.com/e/42502719/ bkz konuşma lan hakkımda emcük -->
 <!-- bkz 3 yıl sonra demirtaşın heykelini dikecek olan kamalcılar -->
