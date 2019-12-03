@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+<!-- https://www.uludagsozluk.com/e/42502719/ bkz konuşma lan hakkımda emcük -->
 <!-- bkz 3 yıl sonra demirtaşın heykelini dikecek olan kamalcılar -->
 <!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz kafa siken türkçü zırvaları -->
 <!-- https://www.youtube.com/watch?v=QIAVaw_Qpkc bkz türklerin sanki biraz *** -->
