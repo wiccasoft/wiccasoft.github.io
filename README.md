@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz fatih altaylıdan fazla fatih terime entry girmek-->
 <!--bkz ya fatih altaylı fatih terim olmasaydı sorunsalı-->
 <!--bkz ya fatih portakal da vitamin olsaydı sorunsalı-->
 <!--bkz 3 gündür can yumoş kim lan diye düşünmek -->
