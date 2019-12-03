@@ -1,7 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- bkz iibf okuyup entry açarak ömür geçrimek -->
-<!-- bkz ekşideki astronotların can yaman a yürümesi --< 
+ 
+<!-- bkz iibf okuyup entry açarak ömür geçirmek -->
+<!-- bkz ekşideki astronotların can yaman a yürümesi -->
 <!-- bkz incideki doktorların yürüttüğü kızlar -->
 <!-- bkz ekşici doktorların muayene ettiği futbolcuların yürümesi -->
 <!-- bkz kolpaçino tayfur vs kurtlar vadisi seyfo dayı -->
