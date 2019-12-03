@@ -1,7 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- https://www.uludagsozluk.com/e/42503157/ bkz enes baturun emre mor arasındaki gerilim -->
 <!--- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/ bkz aşkların en güzeli -->
-<!--https://www.uludagsozluk.com/e/42503157/ bkz burhan kuzu -->
+<!-- https://www.uludagsozluk.com/e/42503157/ bkz burhan kuzu -->
 <!-- bkz recep tayyip erdoğan diye yazılır adam diye okunur -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bk< adam gibi adam -->
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
