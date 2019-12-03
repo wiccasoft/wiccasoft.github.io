@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!--bkz macun kaplıcalının beyazın azına sıçması -->
+<!-- bkz macun kaplıcalının beyazın azına sıçması sorunsalı -->
 <!-- bkz beyazıt öztürkün işemeli sıçmalı seks fantazisi sorunsalı https://www.uludagsozluk.com/e/42505048/ -->
 <!-- bkz mehmet akif alakurt un can yamanı hhopur hopur hoplatacağı gerçeği -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak aga -->
