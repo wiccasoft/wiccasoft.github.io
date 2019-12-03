@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz iibf bitmeyi kolay sanmak vs rte -->
 <!-- https://eksisozluk.com/halk-bilginer-vs-can-yaman--6268989?a=popular iyi olan kazansın şukulayın -->
 <!-- https://eksisozluk.com/can-yamanin-hayranina-arka-odaya-gecelim-demesi--6268683?a=popular bkz şeffaf oda -->
 
