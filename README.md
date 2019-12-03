@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz kozimk odayı götüne sokrken iyidi ama noldiiiiiiiiiii rencinix soldiiiiii -->
+<!-- https://www.uludagsozluk.com/k/kozmik-oday%C4%B1-fet%C3%B6-ye-a%C3%A7anlara-oy-veren-%C3%A7omar/&w=bg -->
 <!---bkz kozmik oda solcusunu kozmik odada sikmek -->
 <!-- bkz götten konulan tayyip putçu çomarın pısması sorunsalı -->
 <!-- bkz tayyip putçu çomarların sesinin çıkmaması -->
