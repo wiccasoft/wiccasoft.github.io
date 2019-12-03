@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz rte akciğeri vs kamalcı akciğeri -->
 <!-- bkz rte nin sigara içmemiş körpecik sevgi dolu yüreği -->
 <!-- bkz sevmeyi bilmeyen oğlanın yüreğine sevgi koyan rte -->
 <!-- bkz aslan yürekli rte vs göt yürekli davutoğlu -->
