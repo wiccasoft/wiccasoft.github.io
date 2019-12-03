@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz can yamanın erkek hayranları vs kadın hayranları -->
+<!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-kad%C4%B1n-hayran%C4%B1na-yapt%C4%B1%C4%9F%C4%B1-terbiyesizlik/ -->
 <!-- https://www.uludagsozluk.com/k/fatih-portakal-olmasayd%C4%B1/ bkz fatih portakal ordakal 
 <!-- https://www.uludagsozluk.com/e/42503068/ bkz kadın hayran olası gelmek sorunsalı--> 
 <!-- https://www.uludagsozluk.com/k/can-yaman-vs-fatih-altayl%C4%B1/ bkz iki yakışıklı -->
