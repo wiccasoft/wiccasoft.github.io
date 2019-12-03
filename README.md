@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-
+<!---bkz kozmik oda solcusunu kozmik odada sikmek -->
 <!-- bkz götten konulan tayyip putçu çomarın pısması sorunsalı -->
 <!-- bkz tayyip putçu çomarların sesinin çıkmaması -->
 <!-- bkz içinde gezdireilen akçomarın sesinin çıkmaması noldu lan koduk muu amuna koduuumm -->
