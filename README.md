@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!--bkz can yamanın kadın hayranın götelek demesine kızan tipler -->
+<!-- bkz chp heyetinin cemirtaşı ziyretine ses etmyen kamalcılar -->
+<!-- bkz can yamanın kadın hayranın götelek demesine kızan tipler -->
 <!-- bkz can yamanın kadın hayrnına götelek demesi -->
 <!-- bkz burhan altıntop vs rte -->
 <!-- bkz şaka maka rte nin iibf yi bitirmesi -->
