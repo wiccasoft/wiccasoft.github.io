@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!--bkz hadisenin strtaponla beyazzıtı siktiği iddası sorunsalı-->
 <!-- bkz mustafa cecelinin işemeli seks sevdiği iddiası soprunsalı --> 
 <!-- bkz murat bozun götten vurdurmasına ses etmeyen kamalcıalr sorunsalı-->
 <!-- bkz macun kaplıcalının beyazın azına sıçması sorunsalı -->
