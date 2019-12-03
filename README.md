@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz incideki doktorların yürüttüğü kızlar -->
 <!-- bkz ekşici doktorlara yürüyen futbolcu eskisi kızlar -->
 <!-- bkz kolpaçino tayfur vs kurtlar vadisi seyfo dayı -->
 <!-- bkz can yamanını demirtaşın çizgisini beğeniyorum açıklaması -->
