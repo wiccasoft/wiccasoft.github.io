@@ -1,5 +1,10 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- https://www.uludagsozluk.com/k/can-yaman-vs-fatih-altayl%C4%B1/ bkz iki yakışıklı -->
+<!-- https://www.uludagsozluk.com/k/ramiz-day%C4%B1-vs-s%C3%BCleyman-%C3%A7ak%C4%B1r/ dayo götten çakar diyorum -->
+<!-- https://www.uludagsozluk.com/e/42497534/ bkz kestir kurtul kankaağğğ https://www.youtube.com/watch?v=RHBoMuNszuk -->
+<!-- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/&w=bg bkz iki baba yiğidin aşkı -->
+<!-- https://www.uludagsozluk.com/k/ramiz-day%C4%B1-vs-s%C3%BCleyman-%C3%A7ak%C4%B1r/ bkz iki babayiğit -->
 <!-- https://www.uludagsozluk.com/k/emin-adanur/&w=bg bkz nisanurun çilesi -->
 <!-- https://www.uludagsozluk.com/e/42503157/ bkz enes baturun emre mor arasındaki gerilim -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Fems-ile-mevlana-n%C4%B1n-a%C5%9Fk%C4%B1/ bkz aşkların en güzeli -->
