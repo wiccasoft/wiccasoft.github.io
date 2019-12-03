@@ -1,4 +1,4 @@
-
+<!-- https://www.youtube.com/watch?v=xtgxGMWjEuk wiccasoft mağdurları -->
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 <!-- https://www.youtube.com/watch?v=0iTts0sUzH4 https://www.uludagsozluk.com/e/42502974/ -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE mehmet aydın style -->
