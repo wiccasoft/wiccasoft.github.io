@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!--bkz dan bilzerian vs can yaman vs mehmet ali alakurt -->
+<!-- bkz dan bilzerian vs can yaman vs mehmet ali alakurt -->
 <!-- https://www.youtube.com/watch?v=xTJav-ar6IQ bkz türkiye uyuşturamama kartelleri -->
 <!-- https://www.youtube.com/watch?v=3vXPo7lNYzk -->
 
