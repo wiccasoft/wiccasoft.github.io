@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz can yaman vs kıvanç tatlıtuğ -->
 <!-- bkz can yaman ın yaman delikanlı çıkması -->
 <!-- bkz can yamanın hayranına gel arka odaya geçelim demesi -->
 <!-- bkz futbolculara  helal be oğlum boynumuza dola diyen tipler -->
