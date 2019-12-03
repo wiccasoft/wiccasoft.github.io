@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz sol sinyal farı yanmayan şöför -->
 <!-- https://eksisozluk.com/entry/98629520 bkz çıkarıp masaya vurmak -->
 <!--https://eksisozluk.com/ferdi-kadioglu--5226262?a=popular bkz kadı beni bilin cink etmem -->
 <!--bkz can yamanın arkda oda solcusuna kozmik odaya geçelim demesi-->  
