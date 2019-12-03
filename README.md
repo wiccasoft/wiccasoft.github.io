@@ -1,12 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
-<!-- https://www.uludagsozluk.com/k/akademisyen-e%C5%9Fini-17-yerinden-b%C4%B1%C3%A7aklayan-adam/ bkz iyi yapmış -->
-<!-- bkz kolpaçino tayfurun can yamanı kıskanması -->
-<!-- bkz can yamanın betayı atlayıp alfa sürümde yayın yapacam açıklaması https://www.pinterest.com/wiccasoft/  -->
-<!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-alfa-erke%C4%9Fi-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/ -->
-<!-- https://www.pinterest.com/wiccasoft/ bkz acan yaman ın kadın hayranlarıyla barışması -->
-<!-- https://www.pinterest.com/wiccasoft/ bkz aktaşın chp heyetiyle fotoları -->
 <!-- bkz kerimcan durmazın can yamanı savunması -->
 <!-- bkz can yamman ın aktaşın çizgisini beğeniyorum açıklaması -->
 <!-- bkz aktaşın chp heyetini geri çevirmesi -->
