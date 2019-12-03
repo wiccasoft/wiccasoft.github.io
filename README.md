@@ -1,6 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-02_03-21-48.png)]( https://www.theguardian.com/science/2019/dec/01/island-states-want-decisive-action-to-prevent-inundation)
 
+<!-- bkz selin ciğercinin paylaştığı ciğere uzanamayan mundar der paylaşımı -->
+
 [![Image](smartdata/Screenshot_2019-12-02_03-21-59.png)]( https://www.youtube.com/watch?v=UNFDHgjrlK8 )
 
 [![Image](smartdata/Screenshot_2019-12-02_03-32-43.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU)
