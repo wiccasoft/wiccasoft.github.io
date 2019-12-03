@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz fatih portakal ordakal olsaydı sorunsalı-->
 <!--bkz ya fatih portakal elma olsaydı sorunsalı-->
 <!--bkz ya can yaman  olmasaydı sorunsalı-->
 <!--bkz canyaman kim diye aratmaya üşenmek-->
