@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
 <!-- bkz hipokrat yemini etmeyen birini ciddiye almak -->
+<!-- bkz kürtleri sabun yapmanın vakitinin gelmesi -->
 <!-- bkz atatürkün öldürmediğim her kürt için küfr edeceksiniz sözü -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-k%C3%BCrtleri-tam-24-defa-tokatlamas%C4%B1/ -->
 <!-- bkz kürtlerin saraydan kaçırdığı elektriğe ses etmeyen kürt sevici kamalcılar -->
