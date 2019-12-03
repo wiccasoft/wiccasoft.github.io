@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!--https://eksisozluk.com/ferdi-kadioglu--5226262?a=popular bkz kadı beni bilin sevişmem -->
+<!-- https://eksisozluk.com/entry/98629520 bkz çıkarıp masaya vurmak -->
+<!--https://eksisozluk.com/ferdi-kadioglu--5226262?a=popular bkz kadı beni bilin cink etmem -->
 <!--bkz can yamanın arkda oda solcusuna kozmik odaya geçelim demesi-->  
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
