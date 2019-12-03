@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
+<!-- bkz kurtlar vadisi polatın alfa erkeği olduğu gerçeği -->
 <!-- bkz kolpaçino tayfurun kurtlar vadisi seyfo dayını çizgisini beğeniyorum açıklaması -->
 <!-- bkz kerimcan durmazın can yamanın çizgisin beğeniyorum demesi->
 <!-- bkz can yamman ın aktaşın çizgisini beğeniyorum açıklaması -->
