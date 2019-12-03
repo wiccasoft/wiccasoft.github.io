@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
 <!-- bkz tayyip putçu çomarların sesinin çıkmaması -->
-<!--bkz içinde gezdireilen akçomarın sesinin çıkmaması noldu lan koduk muu amuna koduuumm -->
+<!-- bkz içinde gezdireilen akçomarın sesinin çıkmaması noldu lan koduk muu amuna koduuumm -->
 <!-- bkz aktroller noldi seseiniz çıkmiyyyyyyyyyyyy -->
 <!-- https://www.uludagsozluk.com/e/42503449/ bkz yusuf yusuf içinde gezdirmek -->
 <!-- bkz karısını kızını fetö evlerine yollayan gavat sese etmeyen aktroller -->
