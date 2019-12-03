@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
+<!-- https://www.uludagsozluk.com/e/42502762/ bkz kürtleri sabun yapmak -->
 <!-- bkz türkün vatyanında kürt görünce sinirlerin bozulması -->
 <!-- bkz türkün ülküsü kürdün leş i bir gün hepinizi bir gün leşinizi  -->
 <!-- bkz hipokrat yemini etmeyen birini ciddiye almak -->
