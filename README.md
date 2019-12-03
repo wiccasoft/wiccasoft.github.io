@@ -1,3 +1,5 @@
+[![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
+
 <!-- https://www.uludagsozluk.com/e/42497534/ bkz kestir kurtul kankaağğğ https://www.youtube.com/watch?v=RHBoMuNszuk -->
 <!-- bkz deep turkis web  selin ciğerci erkek haline benzeyen garip yaratıklar -->
 <!-- bkz iktisadi ve idari bilimler bitiren birini ciddiye almak https://www.youtube.com/watch?v=-AdnJiuDGVU -->
