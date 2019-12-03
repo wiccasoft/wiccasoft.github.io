@@ -1,10 +1,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!-- https://www.uludagsozluk.com/k/rte-nin-tahsiline-laf-eden-tipler/ bkz iibf mezunlarının salak olması -->
-<!-- https://www.uludagsozluk.com/e/42504199/ bkz  yatırım amaçlı alınacak  yerler -->
-<!-- bkz burahna altıntop vs rte -->
+<!-- bkz burhan altıntop vs rte -->
 <!-- bkz şaka maka rte nin iibf yi bitirmesi -->
-<!-- bkz iibf bitmeyi kolay sanmak vs rte -->
+<!-- https://www.uludagsozluk.com/k/rte-nin-tahsiline-laf-eden-tipler/ bkz iibf mezunlarının salak olması -->
+<!-- https://www.uludagsozluk.com/e/42504199/ bkz yatırım amaçlı alınacak  yerler -->
 <!-- https://eksisozluk.com/halk-bilginer-vs-can-yaman--6268989?a=popular iyi olan kazansın şukulayın -->
 <!-- https://eksisozluk.com/can-yamanin-hayranina-arka-odaya-gecelim-demesi--6268683?a=popular bkz şeffaf oda -->
 
