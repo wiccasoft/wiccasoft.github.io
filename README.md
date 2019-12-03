@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_02-47-15.png)]( https://www.dunya.com/dunya/abd-fransanin-dijital-hizmet-vergisine-misilleme-yapmaya-hazirlaniyor-haberi-458021 )
-<!-- bkz türk asil damarlarında akan kana saygı duymayan kürtler -->
+<!-- bkz türklerin asil damarlarında akan kana saygı duymayan kürtler -->
 <!-- bkz türk kanı vs şerefsiz kürt kanı -->
 <!-- bkz türklerin çelik üretimi yerine demir üretimine yüklenemsi olayı -->
 <!-- https://www.uludagsozluk.com/e/42502662/ bkz başaramayacaksınız demirtaşı alamayaksınız -->
