@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 <!-- bkz karizmanın oülu rte vs portakalın oğlu fatih -->
 <!-- bkz fatih portakala anlatır gibi anlatmak -->
+<!-- bkz reynmenle bir gece vs ene batur la bir gece -->
 <!-- bkz rte ile bir gece vs fatih portakalla bir gece -->
 <!-- https://www.uludagsozluk.com/k/rte-deki-y%C3%BCrek/ bkz rte yüreği -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-ak%C4%B1ll%C4%B1-ol/ yav he he -->
