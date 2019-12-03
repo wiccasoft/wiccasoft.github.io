@@ -2,8 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
 
 <!--bkz norm enderci bebelerin göt olması -->
-<!--bkz can yaman soktukça hala entry kasan lavuk oğlanları -->
-<!--bkz can yaman koydukça entry kasan ibne nin evlatları orospu sıçmıkları-->
+<!--bkz can yaman soktukça hala entry kasan orospunun sıçtıkları -->
 <!--bkz can yamanın orul orul sikerttiği fanboylar -->
 <!--bkz can yaman soktukça kasan ekşiciler -->
 <!--bkz can yaman hoplattıkça coşan oç ları -->
