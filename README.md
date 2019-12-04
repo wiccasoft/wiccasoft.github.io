@@ -5,7 +5,7 @@
 <!--bkz yamanın şişirilmiş bir can olduğu gerçeği-->
 <!--bkz can yamansa yaman can mı sorunsalı-->
 <!--bkz canın yaman çıktığı gerçeği-->
-<!--bkz can yaman esprisine gülmeyen kezban -->
+<!--bkz can yaman esprisine gülmeyen kezban fan girl -->
 <!--bkz her canlı can yamanı tadacaktır -->
 <!--bkz can yamandan çıkmadıkça ümit kesilmez-->
 <!--bkz sıkı can iyidir yaman olur -->
