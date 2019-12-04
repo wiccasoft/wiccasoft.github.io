@@ -12,7 +12,6 @@
 <!--bkz can yamanın sorunsallı olmadıüını iddia edebilmek-->
 <!--bkz can yaman hayatı boyunca hayransal promlemseller yaşar mı soprunsalı -->
 <!--bkz can yaman hayranına bi daha yürür mü sorunsalı -->
-<!--bz bkz emre mor yürüyomudur sorunsalı->
 <!--bkz sorunun ne diyen adama sensin diyen adam sorunsalı-->
 <!--bkz can yamanın sorunsalı var mı sorunsalı-->
 <!--bkz hayatı boyunca sorunsalları olmamaış adam sorunsalı-->
@@ -21,48 +20,7 @@
 <!--bkz can yaman ın hayranına hayran olması sorunsalı -->
 <!--bkz can yamanın kadın hayranına kutuna girerim demesi sorunsalı-->
 <!--bkz can yamanın erkek hayranına arkadan alıyon mu demesi sorunsalı-->
-<!--bkz ya can yaman hayranıyla kozmik odada seviştiyse sorunsalı-->
-<!--bkz can yamannı hayranına odaya geçelim demesi sorunsalı-->
-<!--bkz ya can yaman hayranına odaya geçelim demeseydi sorunsalı-->
-<!--bkz ya fatih terim fatih sinyor kerim olsayudı sorunsalı-->
-<!--bkz fatih portakal ordakal olsaydı sorunsalı-->
-<!--bkz ya fatih portakal elma olsaydı sorunsalı-->
-<!--bkz ya can yaman  olmasaydı sorunsalı-->
-<!--bkz canyaman kim diye aratmaya üşenmek sorunsalı -->
-<!--bkz fatih altaylıdan fazla fatih terime entry girmek sorunsalı -->
-<!--bkz ya fatih altaylı fatih terim olmasaydı sorunsalı-->
-<!--bkz ya fatih portakal da vitamin olsaydı sorunsalı-->
-<!--bkz 3 gündür can yumoş kim lan diye düşünmek sorunsalı-->
-<!--bkz taksimin renkli siması jeff bezos-->
-<!--bkz pencereyi tıklayıp çiçcek alin mi diyen cin geni-->
-<!--bkz vallahi ibrahim erkalı özlemişek -->
-<!-- bkz tarkanın çişim geldi diyip kaçması sorunsalı-->
-<!-- bkz ahmet kaya işemeli seks severdi iddiası -->
-<!-- bkz nisanurun çilesi https://www.youtube.com/watch?v=XsbksXXgXwQ -->
-<!-- bkz hayran kitlesi olmayan ezik -->
-<!-- bkz can yumoşu hayranları vs kerimcan durmaz  hayranları -->
-<!-- bkz macun kaplıcalı cuckold mu sorunsalı -->
-<!-- bkz fatih portakalın cuckold olması sorunsalı -->
-<!-- bkz acun yılın gavatı mı sorunsalı -->
-<!-- bkz can yamanı takipten çıkıyoruz kampannyası -->
-<!-- bkz fartih portakal mı  vs fatih altaylı mı vs fatih tezcan mı sorunsalı-->
-<!-- bkz annoying orange va annoying fatih-->
-<!-- erkek dedikodusu yapan oğlanlara osmanlı da ne deniyordu sorunsalı bkz taşşak oğlanları-->
-<!-- bkz berat albyayrakın penis yüzüğüyle seks yapması sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/vecihi-h%C3%BCrku%C5%9F/&w=bg bkz kuşum vecihi -->
-<!-- https://www.uludagsozluk.com/k/tu%C4%9Frul-selmano%C4%9Flu/&w=bg bkz tuğrulun işemeli seks sorunsalı -->
-<!-- bkz fatih portakalın swinger ilişkide kırbaçlanmayı sevmesi  sorunsalı -->
-<!-- bkz acunun azına üstüne işetmesi sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/beyaz%C4%B1t-%C3%B6zt%C3%BCrk%C3%BCn-%C3%BCst%C3%BCne-i%C5%9Fetmesi-sorunsal%C4%B1/ -->
-<!--bkz hadisenin strtaponla beyazzıtı siktiği iddası sorunsalı-->
-<!-- bkz mustafa cecelinin işemeli seks sevdiği iddiası soprunsalı --> 
-<!-- bkz murat bozun götten vurdurmasına ses etmeyen kamalcıalr sorunsalı-->
-<!-- bkz macun kaplıcalının beyazın azına sıçması sorunsalı -->
-<!-- bkz beyazıt öztürkün işemeli sıçmalı seks fantazisi sorunsalı https://www.uludagsozluk.com/e/42505048/ -->
-<!-- bkz mehmet akif alakurt un can yamanı hhopur hopur hoplatacağı gerçeği -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden sallanacak aga -->
-<!-- https://www.youtube.com/watch?v=7Drl8LeKipA aptala anlatır gibi anlatmak -->
-<!-- https://www.uludagsozluk.com/e/42504871/ bkz ananızı götten sikerun bakışı -->
+
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
 
