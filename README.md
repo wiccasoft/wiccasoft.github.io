@@ -1,9 +1,11 @@
 <!-- https://www.uludagsozluk.com/e/42509717/ lol -->
 <!-- https://www.uludagsozluk.com/e/42509722/ lol ->
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
-<!-- https://tr.sputniknews.com/abd/201912041040754638-google-kuruculari-page-ile-brin-ceolugu-birakiyor/ -->
+
 
 [![Image](smartdata/Screenshot_2019-12-04_15-05-30.png)]( https://www.youtube.com/watch?v=itkl7cHcX_E )
+<!-- https://tr.sputniknews.com/abd/201912041040754638-google-kuruculari-page-ile-brin-ceolugu-birakiyor/ -->
+<!-- http://www.cumhuriyet.com.tr/haber/dunya/1706101/sergey-brin-ile-larry-page-google-ve-alphabetteki-gorevlerini-pichaye.html -->
 
 [![Image](smartdata/Screenshot_2019-12-04_11-20-43.png)]( https://www.timeanddate.com/moon/phases/turkey/istanbul )
 
