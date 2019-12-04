@@ -1,11 +1,12 @@
+
+[![Image](smartdata/Screenshot_2019-12-04_10-27-53.png)]( https://www.youtube.com/watch?v=Jqlf9Ob0bpw  )
+
 <!--bkz ronaldonun messi ye racon kesmiyorum kafa kesiyorum demesi-->
 <!--bkz kinayet işleri başkanının kinaye yaptım demesi-->
 <!--bkz ekrem imamoğlunun 50 kin görevlisini işe alması-->
 <!--bkz ekrem imamoğlunun babasının oğluma dokunaı sikerun diye tehdit etmesi-->
 <!--bkz ekrem imamoğlunun çatapat patlatması -->
 <!--bkz ekrem imamaoğlunun ibb şefinin kafasını kesmesi -->
-
-[![Image](smartdata/Screenshot_2019-12-04_10-27-53.png)]( https://www.youtube.com/watch?v=Jqlf9Ob0bpw  )
 
 [![Image](smartdata/Screenshot_2019-12-04_10-05-48.png)]( https://www.dunya.com/gundem/turkiye-natonun-baltik-planini-onayladi-haberi-458154 )
 
