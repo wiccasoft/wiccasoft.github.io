@@ -1,6 +1,8 @@
 
 
 
+[![Image](smartdata/Screenshot_2019-12-04_10-27-53.png)]( https://www.youtube.com/watch?v=Jqlf9Ob0bpw  )
+
 [![Image](smartdata/Screenshot_2019-12-04_10-05-48.png)]( https://www.dunya.com/gundem/turkiye-natonun-baltik-planini-onayladi-haberi-458154 )
 
 <!-- bkz can yamanın kim olduğunu öğreneeksiniz https://www.youtube.com/watch?v=Jqlf9Ob0bpw -->
