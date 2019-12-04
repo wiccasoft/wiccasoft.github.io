@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!-- bkz can yamandan çıkmadıkça ümit kesilmez-->
 <!--bkz sıkı can iyidir yaman olur -->
 <!--bkz el mi yaman ben mi yaman diyen ergene can yaman diyip tartışmayı bitirmek-->
 <!--bkz hayatı boyunca hayran kitlesi oluşturamamış adam vs can yaman-->
