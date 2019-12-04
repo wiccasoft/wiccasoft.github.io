@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-b%C3%BCstlerine-harcanan-para/&w=bg bkz 1 trilyon dolar -->
 <!-- https://www.uludagsozluk.com/k/umudu-olmadan-ya%C5%9Fayan-insan/&w=bg bkz burak özçivit -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7%C4%B1kma-teklifine-ne-evet-ne-de-hay%C4%B1r-diyen-erkek/  -->
 <!-- https://www.youtube.com/watch?v=hL8O7BKpdMA bkz burak ın hem kamalcıları hem osmanlıcıları keklemesi-->
