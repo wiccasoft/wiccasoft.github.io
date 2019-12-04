@@ -1,4 +1,6 @@
 
+[![Image](smartdata/Screenshot_2019-12-04_06-00-52.png)]( https://www.theguardian.com/world/video/2019/dec/04/emmanuel-macron-defends-calling-nato-brain-dead-video )
+
 [![Image](smartdata/Screenshot_2019-12-04_06-02-17.png)]( https://www.theguardian.com/world/2019/dec/03/macron-clashes-with-erdogan-over-anti-isis-kurdish-fighters )
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
