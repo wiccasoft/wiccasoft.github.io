@@ -1,8 +1,3 @@
-<!--https://www.uludagsozluk.com/e/42505881/ bkz murat koyim de turat -->
-<!--bkz çağatay ulusoy vs can alçaksoy https://www.uludagsozluk.com/e/42508898/ -->
-<!--bkz https://www.uludagsozluk.com/e/42508853/ bi gülüşü var sanki güneş doğuyor tombik yanaklarına -->
-<!--https://www.uludagsozluk.com/e/42508595/ bi yönetişi var sanırsın amına parande atıyolar -->
-
 [![Image](smartdata/Screenshot_2019-12-04_11-20-43.png)]( https://www.timeanddate.com/moon/phases/turkey/istanbul )
 
 [![Image](smartdata/Screenshot_2019-12-04_11-17-41.png)]( https://www.theguardian.com/world/2019/dec/04/turkey-agrees-to-back-nato-plan-for-baltic-states-and-poland )
