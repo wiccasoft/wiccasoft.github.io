@@ -9,10 +9,10 @@
 <!--bkz can yamandan çıkmadıkça ümit kesilmez-->
 <!--bkz sıkı can iyidir yaman olur -->
 <!--bkz el mi yaman ben mi yaman diyen ergene can yaman diyip tartışmayı bitirmek-->
-<!--bkz hayatı boyunca hayran kitlesi oluşturamamış adam vs can yaman-->
-<!--bkz hayran kitlesi oluşturamamaış ezik -->
+<!--bkz hayatı boyunca hayran kitlesi oluşturamamış can vs can yaman-->
+<!--bkz hayran kitlesi oluşturamamaış ezik can-->
 <!--bkz can yamanın alem bena heyran ben sena heyran demesi-->
-<!--bkz can yamanın sorunsallı olmadıüını iddia edebilmek-->
+<!--bkz can yamanın sorunsallı olmadığını iddia edebilmek-->
 <!--bkz can yaman hayatı boyunca hayransal promlemseller yaşar mı soprunsalı -->
 <!--bkz can yaman hayranına bi daha yürür mü sorunsalı -->
 <!--bkz sorunun ne diyen adama sensin diyen adam sorunsalı-->
