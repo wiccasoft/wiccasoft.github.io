@@ -1,7 +1,7 @@
 <!-- https://www.uludagsozluk.com/e/42509717/ lol -->
 <!-- https://www.uludagsozluk.com/e/42509722/ lol ->
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
-<!-- bkz x kuşağının tavsiye vermemesi -->
+<!-- bkz x kuşağının tavsiye vermemesi https://www.youtube.com/watch?v=GvKcmdSEJLY -->
 <!-- https://www.uludagsozluk.com/e/42509906/ bkz millet aç aç -->
 <!-- https://www.uludagsozluk.com/e/42488819/ bkz instagram da villa önünde araba paylaşmak -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg bkz tamam  -->
