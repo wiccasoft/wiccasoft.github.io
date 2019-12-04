@@ -1,13 +1,12 @@
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag akboyları 2020 ye çelik gibi yetiştirmek -->
-<!-- bkz akboyların büyüyüp ne köy ne kasaba olur cümlesi kurabilmeleri -->
 <!-- https://www.youtube.com/watch?v=KtFX5cCejG0 bkz büzüklerin efendisi  -->
+<!-- bkz akboyların büyüyüp ne köy ne kasaba olur cümlesi kurabilmeleri -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-b%C3%BCstlerine-harcanan-para/&w=bg bkz 1 trilyon dolar -->
 <!-- https://www.uludagsozluk.com/e/42509717/ lol -->
 <!-- https://www.uludagsozluk.com/e/42509722/ lol ->
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
 <!-- https://www.uludagsozluk.com/e/42510128/ ben seni kasabadan ararım -->
 <!-- https://www.uludagsozluk.com/e/42509792/ bkz agam bizimle egleniy -->
-<!-- https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-dizide-fetih-suresini-okumas%C4%B1/ -->
 <!-- bkz x kuşağının tavsiye vermemesi https://www.youtube.com/watch?v=GvKcmdSEJLY -->
 <!-- https://www.uludagsozluk.com/e/42509906/ bkz millet aç aç -->
 <!-- https://www.uludagsozluk.com/e/42488819/ bkz instagram da villa önünde araba paylaşmak -->
