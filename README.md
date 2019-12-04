@@ -1,10 +1,5 @@
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag akboyları 2020 ye çelik gibi yetiştirmek -->
-<!-- bkz ekrem çoşkun döner vs imamoğlu köfte https://www.youtube.com/watch?v=-AdnJiuDGVU -->
-<!-- bkz atatürk büstüne harcanan para vs kinayet bütçesi https://www.youtube.com/watch?v=o6EayWHL-ag -->
-<!-- bkz atatürk büstüne garezi olan akboyun götünde diyaneti ezanı çalmak -->
-<!-- bkz büyümüş bi akoğlanı selin ciğerci gibi yetiştirmek -->
 <!-- bkz akboyların büyüyüp ne köy ne kasaba olur cümlesi kurabilmeleri -->
-<!-- bkz akboyun çıkma teklifine çıkmayalım diyen erkeğe laf etmeyen kamalcılar -->
 <!-- bkz çıkma teklifine ne bileyim diyen erkek https://twitter.com/drsinanogan/status/972094339542372352?lang=en -->
 <!-- https://www.youtube.com/watch?v=KtFX5cCejG0 bkz büzüklerin efendisi  -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-b%C3%BCstlerine-harcanan-para/&w=bg bkz 1 trilyon dolar -->
