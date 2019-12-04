@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz canın sağolsun diyen adama yaman ol demek-->
 <!--bkz gece terler içinde can yaman diye uyanmak-->
 <!--bkz canın şişirilmiş bir yaman olduğu gerçeği-->
 <!--bkz yamanın şişirilmiş bir can olduğu gerçeği-->
