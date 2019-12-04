@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz sıkı can iyidir yaman olur -->
 <!--bkz can yaman vs can dündar -->
 <!--bkz canı sıkkın ergene sıkma canını okşa can yamanı demek -->
 <!--bkz canım tatlı diyen ergene can yamandır demek -->
