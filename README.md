@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=hL8O7BKpdMA bkz burak ın hem kamalcıları hem osmanlıcıları keklemesi-->
 <!-- https://www.uludagsozluk.com/e/42509717/ lol -->
 <!-- https://www.uludagsozluk.com/e/42509722/ lol ->
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
