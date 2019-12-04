@@ -6,12 +6,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-04_10-27-53.png)]( https://www.youtube.com/watch?v=Jqlf9Ob0bpw  )
 
-<!--bkz ronaldonun messi ye racon kesmiyorum kafa kesiyorum demesi-->
-<!--bkz kinayet işleri başkanının kinaye yaptım demesi-->
-<!--bkz ekrem imamoğlunun 50 kin görevlisini işe alması-->
-<!--bkz ekrem imamoğlunun babasının oğluma dokunaı sikerun diye tehdit etmesi-->
-<!--bkz ekrem imamoğlunun çatapat patlatması -->
-<!--bkz ekrem imamaoğlunun ibb şefinin kafasını kesmesi -->
+
 
 [![Image](smartdata/Screenshot_2019-12-04_10-05-48.png)]( https://www.dunya.com/gundem/turkiye-natonun-baltik-planini-onayladi-haberi-458154 )
 
@@ -22,33 +17,6 @@
 [![Image](smartdata/Screenshot_2019-12-04_06-02-17.png)]( https://www.theguardian.com/world/2019/dec/03/macron-clashes-with-erdogan-over-anti-isis-kurdish-fighters )
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
-<!--bkz chp nin demirtaşı hastahanede ziyaret etmesine ses etmeyen kamalcı gavatlar-->
-<!--bkz macun kaplıcalının yılın gavatı ödülünü alması--> 
-<!--bkz canın sağolsun diyen adama yaman ol demek-->
-<!--bkz gece terler içinde can yaman diye uyanmak-->
-<!--bkz canın şişirilmiş bir yaman olduğu gerçeği-->
-<!--bkz yamanın şişirilmiş bir can olduğu gerçeği-->
-<!--bkz can yamansa yaman can mı sorunsalı-->
-<!--bkz canın yaman çıktığı gerçeği-->
-<!--bkz can yaman esprisine gülmeyen fan girl -->
-<!--bkz her canlı can yamanı tadacaktır -->
-<!--bkz can yamandan çıkmadıkça ümit kesilmez-->
-<!--bkz sıkı can iyidir yaman olur -->
-<!--bkz el mi yaman ben mi yaman diyen ergene can yaman diyip tartışmayı bitirmek-->
-<!--bkz hayatı boyunca hayran kitlesi oluşturamamış can vs can yaman-->
-<!--bkz hayran kitlesi oluşturamamaış ezik can-->
-<!--bkz can yamanın alem bena heyran ben sena heyran demesi-->
-<!--bkz can yamanın sorunsallı olmadığını iddia edebilmek-->
-<!--bkz can yaman hayatı boyunca hayransal promlemseller yaşar mı soprunsalı -->
-<!--bkz can yaman hayranına bi daha yürür mü sorunsalı -->
-<!--bkz sorunun ne diyen adama sensin diyen adam sorunsalı-->
-<!--bkz can yamanın sorunsalı var mı sorunsalı-->
-<!--bkz hayatı boyunca sorunsalları olmamaış adam sorunsalı-->
-<!--bkz osurunca götten gaz mı çıkıyor sorunsalı-->
-<!--bkz can yamanın hayranının bookunu çıkarması sorunsalı -->
-<!--bkz can yaman ın hayranına hayran olması sorunsalı -->
-<!--bkz can yamanın kadın hayranına kutuna girerim demesi sorunsalı-->
-<!--bkz can yamanın erkek hayranına arkadan alıyon mu demesi sorunsalı-->
 
 
 [![Image](smartdata/Screenshot_2019-12-03_09-58-52.png)]( https://www.theguardian.com/world/2019/dec/03/trump-macron-brain-dead-nato-remarks )
