@@ -1,3 +1,4 @@
+<!--bkz ekrem mimamaoğlunun babasının oğluma dokunaı sikerun diye tehdit etmesi-->
 <!--bkz ekrem imamaoğlunun çatapat patlatması -->
 <!--bkz ekrem imamaoğlu nun ibb şefinin kafasını kesmesi -->
 
