@@ -1,4 +1,7 @@
 
+f
+[![Image](smartdata/Screenshot_2019-12-04_11-20-43png)]( https://www.timeanddate.com/moon/phases/turkey/istanbul )
+
 [![Image](smartdata/Screenshot_2019-12-04_11-17-41.png)]( https://www.theguardian.com/world/2019/dec/04/turkey-agrees-to-back-nato-plan-for-baltic-states-and-poland )
 
 [![Image](smartdata/Screenshot_2019-12-04_10-27-53.png)]( https://www.youtube.com/watch?v=Jqlf9Ob0bpw  )
