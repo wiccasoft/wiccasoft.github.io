@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=7A9l_op4Sno bunlardan ne köy olur ne kasaba -->
+<!-- bkz akboyun çıkma teklifine çıkmayalım diyen erkeğe laf etmeyen kamalcılar -->
 <!-- bkz çıkma teklifine ne bileyim diyen erkek https://twitter.com/drsinanogan/status/972094339542372352?lang=en -->
 <!-- https://www.youtube.com/watch?v=KtFX5cCejG0 bkz büzüklerin efendisi  -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-b%C3%BCstlerine-harcanan-para/&w=bg bkz 1 trilyon dolar -->
