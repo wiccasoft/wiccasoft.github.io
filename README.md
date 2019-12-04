@@ -1,3 +1,4 @@
+<!-- bkz çıkma teklifine ne bileyim diyen erkek https://twitter.com/drsinanogan/status/972094339542372352?lang=en -->
 <!-- https://www.youtube.com/watch?v=KtFX5cCejG0 bkz büzüklerin efendisi  -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-b%C3%BCstlerine-harcanan-para/&w=bg bkz 1 trilyon dolar -->
 <!-- https://www.uludagsozluk.com/k/umudu-olmadan-ya%C5%9Fayan-insan/&w=bg bkz burak özçivit -->
