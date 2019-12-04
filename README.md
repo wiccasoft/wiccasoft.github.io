@@ -3,6 +3,7 @@
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
 <!-- https://www.uludagsozluk.com/e/42510128/ ben seni kasabadan ararım -->
 <!-- https://www.uludagsozluk.com/e/42509792/ bkz agam bizimle egleniy -->
+<!-- https://www.uludagsozluk.com/k/burak-%C3%B6z%C3%A7ivit-in-dizide-fetih-suresini-okumas%C4%B1/ -->
 <!-- bkz x kuşağının tavsiye vermemesi https://www.youtube.com/watch?v=GvKcmdSEJLY -->
 <!-- https://www.uludagsozluk.com/e/42509906/ bkz millet aç aç -->
 <!-- https://www.uludagsozluk.com/e/42488819/ bkz instagram da villa önünde araba paylaşmak -->
