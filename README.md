@@ -2,7 +2,7 @@
 <!-- https://www.uludagsozluk.com/e/42509722/ lol ->
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
 <!-- https://www.uludagsozluk.com/e/42509906/ bkz millet aç aç -->
-<!-- https://www.uludagsozluk.com/e/42488819/ lol  bkz instagram da villa önünde araba paylaşmak-->
+<!-- https://www.uludagsozluk.com/e/42488819/ bkz instagram da villa önünde araba paylaşmak -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg bkz tamam  -->
 <!-- https://www.uludagsozluk.com/e/42510068/ bkz arkadan vurnu mu önden sallanacak aga -->
 
