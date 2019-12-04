@@ -1,4 +1,5 @@
 <!-- https://www.youtube.com/watch?v=hL8O7BKpdMA -->
+<!-- bkz mor ve ötesi ne entry girmeyecek kadar ezik olmak -->
 <!-- https://www.uludagsozluk.com/e/42509792/ bkz agam bizimle egleniy -->
 <!-- https://www.uludagsozluk.com/e/42509717/ lol -->
 <!-- https://www.uludagsozluk.com/e/42509722/ lol ->
