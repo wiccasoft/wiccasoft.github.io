@@ -1,4 +1,4 @@
-<!---bkz çağatay ulusayo vs can alçaksoy-->
+<!---bkz çağatay ulusoy vs can alçaksoy https://www.uludagsozluk.com/e/42508898/ -->
 <!--https://www.uludagsozluk.com/e/42508595/ bi yönetişi var sanırsın amına parande atıyolar -->
 <!--bkz https://www.uludagsozluk.com/e/42508853/ bi gülüşü var sanki güneş doğuyor tombik yanaklarına -->
 
