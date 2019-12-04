@@ -1,3 +1,4 @@
+<!-- bkz atatürk büstüne harcanan para vs kinayet bütçesi https://www.youtube.com/watch?v=o6EayWHL-ag -->
 <!-- bkz atatürk büstüne garezi olan akboyun götünde diyaneti ezanı çalmak -->
 <!-- bkz büyümüş bi akoğlanı selin ciğerci gibi yetiştirmek -->
 <!-- bkz akboyların büyüyüp ne köy ne kasaba olur cümlesi kurabilmeleri -->
