@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-03_10-09-51.png)]( https://www.dunya.com/gundem/trump-turkiye-savas-ucagi-icin-rusya-veya-cine-yonelebilir-haberi-458069 )
+<!--bkz el mi yaman can mı yaman diyen ergene can yaman diyip tartışmayı bitirmek-->
 <!--bkz hayatı boyunca hayran kitlesi oluşturamamış adam vs can yaman-->
 <!--bkz hayran kitlesi oluşturamamaış ezik -->
 <!--bkz can yamanın alem bena heyran ben sena heyran demesi-->
