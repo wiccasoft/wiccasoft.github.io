@@ -3,6 +3,7 @@
 <!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
 <!-- https://www.uludagsozluk.com/k/masterchef-g%C3%BCzide-nin-l%C3%BCks-villas%C4%B1/&w=bg lol -->
 <!---bkz türklerin instgaramı hava atma aracı olarak kullanması -->
+<!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg bkz ay tamama ayol -->
 
 [![Image](smartdata/Screenshot_2019-12-04_15-05-30.png)]( https://www.youtube.com/watch?v=itkl7cHcX_E )
 <!-- https://tr.sputniknews.com/abd/201912041040754638-google-kuruculari-page-ile-brin-ceolugu-birakiyor/ -->
