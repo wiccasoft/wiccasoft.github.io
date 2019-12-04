@@ -1,3 +1,4 @@
+<!-- bkz ekrem imamoğlunun 50 kin görevlisini işe alması-->
 <!--bkz ekrem imamoğlunun babasının oğluma dokunaı sikerun diye tehdit etmesi-->
 <!--bkz ekrem imamoğlunun çatapat patlatması -->
 <!--bkz ekrem imamaoğlunun ibb şefinin kafasını kesmesi -->
