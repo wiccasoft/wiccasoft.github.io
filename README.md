@@ -1,4 +1,4 @@
-
+<!--https://www.uludagsozluk.com/e/42508595/ bi yönetişi var sanırsın amına parande atıyolar -->
 <!--bkz https://www.uludagsozluk.com/e/42508853/ bi gülüşü var sanki güneş doğuyor tombik yanaklarına -->
 
 [![Image](smartdata/Screenshot_2019-12-04_11-20-43.png)]( https://www.timeanddate.com/moon/phases/turkey/istanbul )
