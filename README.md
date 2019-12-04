@@ -1,4 +1,4 @@
-<!-- bkz büyümüş bi akoğlanı dürbbss dürbbss diye yetiştirmek -->
+<!-- bkz büyümüş bi akoğlanı selin ciğerci gibi yetiştirmek -->
 <!-- bkz akboyların büyüyüp ne köy ne kasaba olur cümlesi kurabilmeleri -->
 <!-- bkz akboyun çıkma teklifine çıkmayalım diyen erkeğe laf etmeyen kamalcılar -->
 <!-- bkz çıkma teklifine ne bileyim diyen erkek https://twitter.com/drsinanogan/status/972094339542372352?lang=en -->
