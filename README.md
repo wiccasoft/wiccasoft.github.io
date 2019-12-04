@@ -1,4 +1,4 @@
-
+<!--bkz ekrem imamaoğlunun çatapat patlatması -->
 <!--bkz ekrem imamaoğlu nun ibb şefinin kafasını kesmesi -->
 
 [![Image](smartdata/Screenshot_2019-12-04_10-27-53.png)]( https://www.youtube.com/watch?v=Jqlf9Ob0bpw  )
