@@ -1,4 +1,4 @@
-<!--https://www.uludagsozluk.com/e/42505881/ ay hepsi aynı şekerim murat koyim de turat-->
+<!--https://www.uludagsozluk.com/e/42505881/ bkzmurat koyim de turat -->
 <!--bkz çağatay ulusoy vs can alçaksoy https://www.uludagsozluk.com/e/42508898/ -->
 <!--bkz https://www.uludagsozluk.com/e/42508853/ bi gülüşü var sanki güneş doğuyor tombik yanaklarına -->
 <!--https://www.uludagsozluk.com/e/42508595/ bi yönetişi var sanırsın amına parande atıyolar -->
