@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/umudu-olmadan-ya%C5%9Fayan-insan/&w=bg bkz burak özçivit -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7%C4%B1kma-teklifine-ne-evet-ne-de-hay%C4%B1r-diyen-erkek/  -->
 <!-- https://www.youtube.com/watch?v=hL8O7BKpdMA bkz burak ın hem kamalcıları hem osmanlıcıları keklemesi-->
 <!-- https://www.uludagsozluk.com/e/42509717/ lol -->
