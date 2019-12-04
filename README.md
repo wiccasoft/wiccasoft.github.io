@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/e/42498420/ yav he he -->
 
 [![Image](smartdata/Screenshot_2019-12-04_15-05-30.png)]( https://www.youtube.com/watch?v=itkl7cHcX_E )
 
