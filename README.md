@@ -2,6 +2,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ 
+ 
+ <!-- https://www.uludagsozluk.com/k/rte-nin-%C3%BClkeyi-b%C4%B1rak%C4%B1p-ka%C3%A7mas%C4%B1/ -->
  <!--bkz rte nin ülkeyi batırıp kaçmasına entry girmeyen kamalcılar -->
  <!--bkz kamalcılar imamoğlu vs rte -->
  <!--bkz kamalcılar sabaha kadar trollük yaparken hayvan gibi kod yazmak -->
