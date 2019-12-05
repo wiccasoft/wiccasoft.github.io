@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz menzil şeyhinin 15 milyon dolar dolandırdğı cücük kamalcı -->
  <!-- https://www.uludagsozluk.com/k/dejan-bodiroga/&w=bg bkz futbolu bırakmayan adam gibi adam -->
  <!--bkz menzil şeyhinin mercedesle verdiği poz -->
  <!-- bkz kürtler ve suryeliler vs damarlarında asil kan dolaşanlar -->
