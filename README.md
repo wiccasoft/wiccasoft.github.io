@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
+<!-- bkz abdulhamid vs  2 mecid -->
 <!-- bkz imamaoglunun kızı için imam hatip kapatması https://www.youtube.com/watch?v=H0760kGB-vw -->
 <!-- bkz rte nin kızını 15 temmuz da  orkid almaya yollaması -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlunun babasının oğlu içi bakkala gitmesi -->
