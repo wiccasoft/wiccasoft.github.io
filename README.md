@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz ülkeyi rte nin batırması -->
  <!--bkz politkacının ülkeyi dünya lideri yapması -->
  <!--bkz rte nin türkiyeyi dünya lideri yapması -->
  <!--bkz imamaoglu cumhurbaşkanı olunca dünya lideri olacak olan ülke -->
