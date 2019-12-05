@@ -4,6 +4,7 @@
  )
 
 <!--bkz lost adasında türk olmama sebebi -->
+<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz falcao vs oç kürtler --->
 <!--bkz oç suriyeli steve jobs oç kürt aziz sancar vs kamalcılar --->
 <!--https://www.youtube.com/watch?v=AFx8ElwfMBQ türkleri futbol adasına yollayıp kafa dinlemek -->
 <!--bkz lost adası yapımcılarının dinci yoğbaz türk düşmanı foğşik olması -->
