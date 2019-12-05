@@ -8,7 +8,7 @@
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entel feridun -->
 
-[![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
+[![Image](smartdata/Screenshot_2019-12-05_14-03-26.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
 
 [![Image](smartdata/Screenshot_2019-12-04_15-05-30.png)]( https://www.youtube.com/watch?v=itkl7cHcX_E )
 <!-- https://tr.sputniknews.com/abd/201912041040754638-google-kuruculari-page-ile-brin-ceolugu-birakiyor/ -->
