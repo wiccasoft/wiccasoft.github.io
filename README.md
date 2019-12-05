@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz kakatürk e benzeyen adamın biseps çalışması -->
  <!--https://www.youtube.com/watch?v=-AdnJiuDGVU dünya lideri imamoğlan görüşmesi -->
  <!-- https://www.youtube.com/watch?v=cnQFareYaHA dünya liderini kekleyen şeyh -->
  <!-- bkz dünya liderini vetoyu keto etmesi -->
