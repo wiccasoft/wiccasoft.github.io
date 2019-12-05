@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz dünya liderinin beni seven sigarayı bıraksın demesi -->
  <!-- bkz dünya liderinin veto etmeyecem şaka şaka demesi -->
  <!-- bkz erdoğanın beştepeden paylaştığı video -->
  <!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacaksınız -->
