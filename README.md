@@ -3,7 +3,7 @@
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
  
- <!--bkz orta altı maymun üstü zekalı bi kamalcıya dünyay şirketlerin yönettiğini anlatmak -->
+ <!--bkz orta altı maymun üstü zekalı bi kamalcıya dünyayı şirketlerin yönettiğini anlatmak -->
  <!--bkz imamaoğlu cumöhurbaşkanı olunca dünya lideri olacağınıu sanan kamalcı -->
  <!--bkz imamaoğlu anamın üstünde yakalansa orospuluk anamdadır loading -->
  <!--bkz imamoğlu nun karizma oğlu karizma olduğu gerçeği -->
