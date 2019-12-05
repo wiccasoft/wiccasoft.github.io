@@ -4,7 +4,7 @@
  )
 
 <!--bkz lost adasında türk olmama sebebi -->
-<!--bkz oç suriyeli steve jobs  oç kürt aziz sancar vs kamalcılar --->
+<!--bkz oç suriyeli steve jobs oç kürt aziz sancar vs kamalcılar --->
 <!--https://www.youtube.com/watch?v=AFx8ElwfMBQ türkleri futbol adasına yollayıp kafa dinlemek -->
 <!--bkz lost adası yapımcılarının dinci yoğbaz türk düşmanı foğşik olması -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE man adası vs lost adası -->
