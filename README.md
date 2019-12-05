@@ -1,7 +1,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
- )
+ <!-- https://www.sozcu.com.tr/2019/gundem/cumhurbaskani-erdogan-terorle-islami-yan-yana-getiremezsiniz-5492524/ -->
  <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hazretleri-recep-tayyip-erdo%C4%9Fan/ -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!--bkz lost adasına cami yapıp  minaresine bu ezanlarki şehadaetleri dinin temeli yazmak -->
