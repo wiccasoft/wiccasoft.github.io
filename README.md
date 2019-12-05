@@ -19,6 +19,7 @@
 <!-- https://tr.sputniknews.com/abd/201912041040754638-google-kuruculari-page-ile-brin-ceolugu-birakiyor/ -->
 <!-- http://www.cumhuriyet.com.tr/haber/dunya/1706101/sergey-brin-ile-larry-page-google-ve-alphabetteki-gorevlerini-pichaye.html -->
 <!-- https://www.youtube.com/watch?v=QpS6auP9zdY&list=PLqtKSosRRdgESzDEzrReEKvVSHui1N9R4&index=3 -->
+<!-- https://www.youtube.com/watch?v=czq2Hr7C_Qk clickbait-->
 
 [![Image](smartdata/Screenshot_2019-12-04_11-20-43.png)]( https://www.timeanddate.com/moon/phases/turkey/istanbul )
 
