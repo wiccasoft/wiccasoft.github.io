@@ -4,6 +4,7 @@
  )
  
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 
 [![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
 
