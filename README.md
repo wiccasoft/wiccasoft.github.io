@@ -2,9 +2,10 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- >1-- 
+<!-- bkz imamoğlu kariması altın ezilen dünya lideri https://www.youtube.com/watch?v=-AdnJiuDGVU -->
  <!--bkz rtenin kızını orkid almaya yollaması -->
- <!-- bkz rte nin cumhurbaşkanlığı logosunu çalığ kaçması-->
+ <!-- bkz rte nin cumhurbaşkanlığı logosunu çalıp kaçması-->
+ <!-- https://www.uludagsozluk.com/k/rte-nin-imamo%C4%9Flu-nun-karizmas%C4%B1n%C4%B1n-alt%C4%B1nda-ezilmesi/ -->
  <!-- https://www.uludagsozluk.com/k/rte-nin-%C3%BClkeyi-b%C4%B1rak%C4%B1p-ka%C3%A7mas%C4%B1/ -->
  <!--facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
  <!--bkz imamaoğlunun kzıı için bakkal gitmesini çekemyen aktroller -->
