@@ -3,7 +3,7 @@
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
 
-<!--bkz lost adasına cami yapıp huzuru getirmek -->
+<!--bkz lost adasına cami yapıp  minaresine bu ezanlarki şehadaetleri dinin temeli yazmak -->
 <!--facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaracaksınız -->
 <!--bkz https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ -->
 <!--bkz lost adasında türk olmama sebebi -->
