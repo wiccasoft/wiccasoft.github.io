@@ -2,65 +2,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- <!--bkz imamoglu gelince çok hoj oliy herşey oh kebap  https://www.youtube.com/watch?v=4RpMzsA1VOw -->
- <!--bkz orta altı maymun üstü zekalı bi kamalcıya dünyayı şirketlerin yönettiğini anlatmak -->
- <!--bkz imamaoğlu cumöhurbaşkanı olunca dünya lideri olacağınıu sanan kamalcı -->
- <!--bkz imamaoğlu anamın üstünde yakalansa orospuluk anamdadır loading -->
- <!--bkz imamoğlu nun karizma oğlu karizma olduğu gerçeği -->
-<!-- bkz imamoğlu kariması altın ezilen dünya lideri https://www.youtube.com/watch?v=-AdnJiuDGVU -->
- <!--bkz rtenin kızını orkid almaya yollaması -->
- <!-- bkz rte nin cumhurbaşkanlığı logosunu çalıp kaçması-->
- <!-- https://www.uludagsozluk.com/k/rte-nin-imamo%C4%9Flu-nun-karizmas%C4%B1n%C4%B1n-alt%C4%B1nda-ezilmesi/ -->
- <!-- https://www.uludagsozluk.com/k/rte-nin-%C3%BClkeyi-b%C4%B1rak%C4%B1p-ka%C3%A7mas%C4%B1/ -->
- <!--facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
- <!--bkz imamaoğlunun kzıı için bakkal gitmesini çekemyen aktroller -->
- <!--bkz imamoglunun merkele attığı bakış vs erdoğanın trumpa attığı bakış -->
- <!-- https://eksisozluk.com/feridun-duz-agaca-tirmanabilir-misin--6267449?a=popular bk zuhahahahahha -->
- <!--bkzrte nin tc cumhurbaşkanlığı forsunu alıp kaçması -->
- <!--bkz rte vs imamoglan-->
- <!--bkz gılışdar vs bahceli -->
- <!--bkz imamoğlunun tam bir aile babası olmasını çekemeyen aktroller -->
- <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-k%C4%B1z%C4%B1-i%C3%A7in-k%C4%B1rtasiyeye-gitmesi/ -->
-<!-- https://www.uludagsozluk.com/e/42512727/ bkz iki gözümün çiçeği --->
- <!--bkz rte nin türkiyeyi dünya lideri yapması -->
- <!--bkz imamaoglu cumhurbaşkanı olunca dünya lideri olacak olan ülke -->
- <!--bkz erdoganin türkiyeyi dünya lideri yapmasına ses etmeyen kamalcılar -->
- <!--bkz imamaoğunun makam arabalarını büstleri satıp türkiyeyi dünya lideri yapacam sözü -->
- <!--bkz trumpın ülkeyi batırıp kaçması -->
- <!-- https://www.uludagsozluk.com/k/rte-nin-%C3%BClkeyi-b%C4%B1rak%C4%B1p-ka%C3%A7mas%C4%B1/ -->
- <!--bkz rte nin ülkeyi batırıp kaçmasına entry girmeyen kamalcılar -->
- <!--bkz kamalcılar imamoğlu vs rte -->
- <!--bkz kamalcılar sabaha kadar trollük yaparken hayvan gibi kod yazmak -->
- <!--bkz kamalcıların başlık açmak dışında yaptığı işler ? -->
- <!--bkz akşama kadar başlık açan işsiz kamalcının cebmizdeki para demesi -->
- <!--bkz akplilerin cebimizden kamalcılara harcadığı para -->
- <!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg -->
- <!--bkz cumhur ittifakı vs zillet ittifakı-->
- <!-- bkz iki gözümünün çiçeği https://www.youtube.com/watch?v=gnIFwhjpH3s -->
- <!-- https://www.uludagsozluk.com/e/42512727/ kudurun oç ları imamoğlan geliyo --->
- <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hıjdır ama benena -->
- <!-- bkz imamaoğlunu cumhurbaşkanı olmasını beklemek sonra ver elini dünya liderliği-->
- <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-cumhurba%C5%9Fkan%C4%B1-olacak-diye-kuduran-g%C3%BCruh/&w=bg -->
- <!--bkz kakatürk vs makatürk -->
- <!--bkz imamaoğlunun oğlum için götümüm veririm demesi -->
- <!--bkz kakatürk e benzeyen adamın biseps çalışması -->
- <!--https://www.youtube.com/watch?v=-AdnJiuDGVU dünya lideri imamoğlan görüşmesi -->
- <!-- https://www.youtube.com/watch?v=cnQFareYaHA dünya liderini kekleyen şeyh -->
- <!-- bkz dünya liderini vetoyu keto etmesi -->
- <!-- bkz dünya liderinin cuck old olması -->
- <!-- bkz dünya liderinin beni seven sigarayı bıraksın demesi -->
- <!-- bkz dünya liderinin veto etmeyecem şaka şaka demesi -->
- <!-- bkz erdoğanın beştepeden paylaştığı video -->
- <!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacaksınız -->
- <!-- https://www.uludagsozluk.com/k/erkeklerin-ya%C5%9Fland%C4%B1k%C3%A7a-ta%C5%9Faklar%C4%B1n%C4%B1n-b%C3%BCy%C3%BCmesi/ kesin bilgiymiş yayalım beyler-->
-<!--bkz erdoğanın emineyi zencilere peşkeş çekmesi--> 
-<!--bkz erdoğanın cuckold olması --<
-<!-- bkz ümmet lideri vs dünya lideri vs mars lideri -->
-<!-- bkz ümmüty ağliyo reis  https://www.youtube.com/watch?v=zEvF-2-0LWk  -->
-<!-- bkz dünya lideri recep tay yi erdo ğan ---> 
-<!-- bkz feridun düzağaç can bonomoya götleke demesi -->
-<!-- bkz dünya liderinin paylaştığı imalı paylaşım -->
-
 
 [![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
 
