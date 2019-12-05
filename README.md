@@ -2,7 +2,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- <!--bkz feridun abi ağaca tırmanasan yahu -->
+ <!--bkz yine seks hikayese mi yazıyosun feridun abüüüüüüü -->
+ <!--bkz feridun abi düzağaca tırmanasan yahu -->
  <!--bkz ersun yanalın gatih terime tuzluk uzatması -->
  <!--bkz fatih terimmi tuzlu paylaştığı salatalaık -->
 
