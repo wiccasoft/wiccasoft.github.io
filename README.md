@@ -2,7 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- <!-- https://www.uludagsozluk.com/e/42512727/ kudurun oç ları imamaoğlan geliyo --->
+ <!-- https://www.uludagsozluk.com/e/42512727/ kudurun oç ları imamoğlan geliyo gönlümün sultanı imamaoğlan--->
  <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hıjdır ama benena -->
  <!-- bkz imamaoğlunu cumhurbaşkanı olmasını beklemek sonra ver elini dünya liderliği-->
  <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-cumhurba%C5%9Fkan%C4%B1-olacak-diye-kuduran-g%C3%BCruh/&w=bg -->
