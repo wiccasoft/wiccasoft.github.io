@@ -2,6 +2,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkzi mamaoğlunu cumhurbaşkanı olmasını beklemek sonra ver elini dünya liderliği-->
+ <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-cumhurba%C5%9Fkan%C4%B1-olacak-diye-kuduran-g%C3%BCruh/&w=bg -->
  <!--bkz kakatürk vs makatürk -->
  <!--bkz imamaoğlunun oğlum için götümüm veririm demesi -->
  <!--bkz kakatürk e benzeyen adamın biseps çalışması -->
