@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
-
+<!-- bkz rte nin kızını 15 temmuz da  orkid almaya yollaması -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlunun babasının oğlu içi bakkala gitmesi -->
 <!-- bkz menzil şeyhini 15 milyon tl dolandıran adam  https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=FT3zuBuqnsk başamayacesiniz -->
