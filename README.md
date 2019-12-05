@@ -2,19 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- <!--bkz imamaoglunun fatihogluna tuzluk esprisi yapması-->
- <!--bkz imamoğlu yüzde 44 5 erdoğan yüzde 39 7 -->
- <!--bkz feridun abüüüü yüne düzağacamu durmanuyon abüü -->
- <!--bkz menzil şeyhinin 15 milyon dolar dolandırdğı cücük kamalcı -->
- <!--https://www.uludagsozluk.com/k/dejan-bodiroga/&w=bg bkz futbolu bırakmayan adam gibi adam -->
- <!--bkz menzil şeyhinin mercedesle verdiği poz -->
- <!-- bkz kürtler ve suryeliler vs damarlarında asil kan dolaşanlar -->
- <!--bkz menzi cemaatini paylaştığı ip atlayan greata paylaşımı-->
- <!--bkz imamaoğlunun oğlunu bakkala göndermesi-->
- <!--bkz yine seks hikayese mi yazıyosun feridun abüüüüüüü -->
- <!--bkz feridun abi düzağaca tırmanasan yahu -->
- <!--bkz ersun yanalın gatih terime tuzluk uzatması -->
- <!--bkz fatih terimmi tuzlu paylaştığı salatalaık -->
+
 
 [![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
 
