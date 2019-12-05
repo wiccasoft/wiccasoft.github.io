@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz imamoğlu yüzde 44 5 erdoğan yüzde 39 7 -->
  <!--bkz feridun abüüüü yüne düzağacamu durmanuyon abüü -->
  <!--bkz menzil şeyhinin 15 milyon dolar dolandırdğı cücük kamalcı -->
  <!--https://www.uludagsozluk.com/k/dejan-bodiroga/&w=bg bkz futbolu bırakmayan adam gibi adam -->
