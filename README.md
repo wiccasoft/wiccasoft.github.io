@@ -1,3 +1,7 @@
+
+
+[![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
+
 [![Image](smartdata/Screenshot_2019-12-04_15-05-30.png)]( https://www.youtube.com/watch?v=itkl7cHcX_E )
 <!-- https://tr.sputniknews.com/abd/201912041040754638-google-kuruculari-page-ile-brin-ceolugu-birakiyor/ -->
 <!-- http://www.cumhuriyet.com.tr/haber/dunya/1706101/sergey-brin-ile-larry-page-google-ve-alphabetteki-gorevlerini-pichaye.html -->
