@@ -1,23 +1,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
-<!-- https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-vs-zeki-erkek/&w=bg -->
-<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk vakit gelir yotupır oluruk -->
-<!-- https://twitter.com/tcbestepe/status/1018093857047707648?lang=en -->
-<!-- https://www.tccb.gov.tr/faaliyetler/15temmuz/ başaramayacaksınız külliyeyi hackleyemeksiniz -->
- <!-- https://www.siyasetcafe.com/erdogan-ile-imamoglu-ayni-safta-57605h.htm -->
- <!--https://www.aspor.com.tr/galeri/galatasaray/gorenler-sasti-kaldi-galatasarayli-falcao-taninmaz-halde -->
- <!-- https://www.sozcu.com.tr/2019/gundem/cumhurbaskani-erdogan-terorle-islami-yan-yana-getiremezsiniz-5492524/ -->
- <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-hazretleri-recep-tayyip-erdo%C4%9Fan/ -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!--bkz lost adasına cami yapıp  minaresine bu ezanlarki şehadaetleri dinin temeli yazmak -->
-<!--facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaracaksınız -->
-<!--bkz https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ -->
-<!--bkz lost adasında türk olmama sebebi -->
-<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz falcao vs oç kürtler --->
-<!--bkz oç suriyeli steve jobs oç kürt aziz sancar vs kamalcılar --->
-<!--https://www.youtube.com/watch?v=AFx8ElwfMBQ türkleri futbol adasına yollayıp kafa dinlemek -->
-<!--bkz lost adası yapımcılarının dinci yoğbaz türk düşmanı foğşik olması -->
+
 <!-- https://www.youtube.com/watch?v=otohjMymyYE man adası vs lost adası -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
