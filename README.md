@@ -2,7 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- 
+ <!--bkz erdoganin türkiyeyi dünya lideri yapmasına ses etmeyen kamalcılar -->
  <!--bkz imamaoğunun makam arabalarını büstleri satıp türkiyeyi dünya lideri yapacam sözü -->
  <!--bkz trumpın ülkeyi batırıp kaçması -->
  <!-- https://www.uludagsozluk.com/k/rte-nin-%C3%BClkeyi-b%C4%B1rak%C4%B1p-ka%C3%A7mas%C4%B1/ -->
