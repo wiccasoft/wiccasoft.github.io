@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
+<!--bkz hamile komşusunu kaçırıp kuma yapan adam -->
 <!--bkz sapımna kadar galtasaraylıyım diyen erkek vs saray köpeğin olsun diyen erkek -->
 <!--bkz sapıma kadar liderim diyen erkek vs pasif özgüvensiz erkek -->
 <!--bkz hem karizmaoğlu hem führer nitelikli erkek -->
