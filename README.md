@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
+<!--bkz sapına kadar lider erkek vs layt erkek -->
 <!--bkz lider erkek vs lidermeyen erkek -->
 <!--bkz imamaoğlu vs dünya lideri erkek vs mars lideri erkek-->
 <!--https://www.youtube.com/watch?v=c7IoBRRBiX8 alfa erkek vs hem alfa hem erkek -->
