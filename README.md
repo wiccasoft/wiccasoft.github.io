@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+<!-- bkz ümmet lideri vs dünya lideri vs mars lideri -->
 <!-- bkz ümmüty ağliyo reis  https://www.youtube.com/watch?v=zEvF-2-0LWk  -->
 <!-- bkz dünya lideri recep tay yi erdo ğan ---> 
 <!-- bkz feridun düzağaç can bonomoya götleke demesi -->
