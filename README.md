@@ -1,7 +1,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
-<!-- https://www.tccb.gov.tr/faaliyetler/15temmuz/ başaramayacaksınız -->
+<!-- https://www.tccb.gov.tr/faaliyetler/15temmuz/ başaramayacaksınız külliyeyi hackleyemeksiniz -->
  <!-- https://www.siyasetcafe.com/erdogan-ile-imamoglu-ayni-safta-57605h.htm -->
  <!--https://www.aspor.com.tr/galeri/galatasaray/gorenler-sasti-kaldi-galatasarayli-falcao-taninmaz-halde -->
  <!-- https://www.sozcu.com.tr/2019/gundem/cumhurbaskani-erdogan-terorle-islami-yan-yana-getiremezsiniz-5492524/ -->
