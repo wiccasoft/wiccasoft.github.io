@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz kamalcıların başlık açmak dışında yaptığı işler ? -->
  <!--bkz akşama kadar başlık açan işsiz kamalcının cebmizdeki para demesi -->
  <!--bkz akplilerin cebimizden kamalcılara harcadığı para -->
  <!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg -->
