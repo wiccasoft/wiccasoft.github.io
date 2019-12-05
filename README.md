@@ -5,7 +5,7 @@
 
 <!--bkz lost adasında türk olmama sebebi -->
 <!--https://www.youtube.com/watch?v=AFx8ElwfMBQ türkleri futbol adasına yollayıp kafa dinlemek -->
-<!--bkz lost adası yapımcılarının dinci yoğbaz  türk düşmanı foğşik olması -->
+<!--bkz lost adası yapımcılarının dinci yoğbaz türk düşmanı foğşik olması -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE man adası vs lost adası -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
