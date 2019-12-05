@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ <!--bkz menzi cemaatini paylaştığı ip atlayan greata paylaşımı-->
  <!--bkz imamaoğlunun oğlunu bakkala göndermesi-->
  <!--bkz yine seks hikayese mi yazıyosun feridun abüüüüüüü -->
  <!--bkz feridun abi düzağaca tırmanasan yahu -->
