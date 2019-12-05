@@ -1,5 +1,5 @@
 
-[![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
+[![Image](smartdata/Screenshot_2019-12-05_14-02-27.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
 
 
 [![Image](smartdata/Screenshot_2019-12-05_14-03-26.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
