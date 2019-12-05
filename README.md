@@ -4,6 +4,8 @@
  )
  >1-- 
  <!--bkz rtenin kızını orkid almaya yollaması -->
+ <!-- bkz rte nin cumhurbaşkanlığı logosunu çalığ kaçması-->
+ <!-- https://www.uludagsozluk.com/k/rte-nin-%C3%BClkeyi-b%C4%B1rak%C4%B1p-ka%C3%A7mas%C4%B1/ -->
  <!--facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
  <!--bkz imamaoğlunun kzıı için bakkal gitmesini çekemyen aktroller -->
  <!--bkz imamoglunun merkele attığı bakış vs erdoğanın trumpa attığı bakış -->
