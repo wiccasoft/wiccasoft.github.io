@@ -5,7 +5,7 @@
  
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
-<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entel feridun düzağaç vs ekşiciler -->
+<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entel feridun -->
 
 [![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
 
