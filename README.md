@@ -1,17 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
 <!--bkz menzil şeyhini 15 milyon tl dolandıran adam  https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
-<!--bkz hamile komşusunu kaçırıp kuma yapan adam -->
-<!--bkz sapımna kadar galtasaraylıyım diyen erkek vs saray köpeğin olsun diyen erkek -->
-<!--bkz sapıma kadar liderim diyen erkek vs pasif özgüvensiz erkek -->
-<!--bkz hem karizmaoğlu hem führer nitelikli erkek -->
-<!--bkz hem yakışıklı hem zeki hem führer erkek -->
-<!--bkz führer erkek vs pasif erkek -->
-<!--bkz sapına kadar lider erkek vs layt erkek -->
-<!--bkz lider erkek vs lidermeyen erkek -->
-<!--bkz imamaoğlu vs dünya lideri erkek vs mars lideri erkek-->
-<!--https://www.youtube.com/watch?v=c7IoBRRBiX8 alfa erkek vs hem alfa hem erkek -->
-<!-- bkz yakışıklı erkek vs karizmanın oğlu erkek -->
 <!-- https://www.youtube.com/watch?v=FT3zuBuqnsk başamayacesiniz -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE man adası vs lost adası -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
