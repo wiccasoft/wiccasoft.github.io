@@ -2,8 +2,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- <!--bkz dünya liderinin veto etmeyecem şaka şaka demesi -->
- <!--bkz erdoğanın beştepeden paylaştığı video -->
+ <!-- bkz dünya liderinin veto etmeyecem şaka şaka demesi -->
+ <!-- bkz erdoğanın beştepeden paylaştığı video -->
+ <!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacaksınız -->
  <!-- https://www.uludagsozluk.com/k/erkeklerin-ya%C5%9Fland%C4%B1k%C3%A7a-ta%C5%9Faklar%C4%B1n%C4%B1n-b%C3%BCy%C3%BCmesi/ kesin bilgiymiş yayalım beyler-->
 <!--bkz erdoğanın emineyi zencilere peşkeş çekmesi--> 
 <!--bkz erdoğanın cuckold olması --<
@@ -12,7 +13,7 @@
 <!-- bkz dünya lideri recep tay yi erdo ğan ---> 
 <!-- bkz feridun düzağaç can bonomoya götleke demesi -->
 <!-- bkz dünya liderinin paylaştığı imalı paylaşım -->
-<!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacaksınız -->
+
 
 [![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
 
