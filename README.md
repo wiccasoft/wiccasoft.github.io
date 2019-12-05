@@ -2,6 +2,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
+ 
+ <!--bkz tayyiple bahcelinin be kalın mı görüyorum demesi -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M entel feridun vs ekşiciler -->
 
 [![Image](smartdata/Screenshot_2019-12-05_06-29-14.png)]( https://www.youtube.com/watch?v=eG7pRObJq1U )
