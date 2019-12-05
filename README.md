@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
 
+<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk başamayacesiniz -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE man adası vs lost adası -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
