@@ -12,7 +12,7 @@
 <!-- https://www.uludagsozluk.com/e/42509906/ bkz millet aç aç -->
 <!-- https://www.uludagsozluk.com/e/42488819/ bkz instagram da villa önünde araba paylaşmak -->
 <!-- https://www.uludagsozluk.com/k/erkeklerden-erkeklere-tavsiyeler/&w=bg bkz tamam  -->
-<!-- https://www.uludagsozluk.com/e/42510068/ bkz arkadan vurnu mu önden sallanacak aga -->
+<!-- https://www.uludagsozluk.com/e/42510068/ bkz arkadan vurdun mu önden sallanacak aga -->
 
 
 [![Image](smartdata/Screenshot_2019-12-04_15-05-30.png)]( https://www.youtube.com/watch?v=itkl7cHcX_E )
