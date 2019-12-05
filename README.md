@@ -2,7 +2,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
- <!-- bkz imamaoğlunun kzıı için bakkal gitmesini çekemyen aktroller -->
+ <!--bkz rtenin kızını orkid almaya yollaması -->
+ <!--bkz imamaoğlunun kzıı için bakkal gitmesini çekemyen aktroller -->
  <!--bkz imamoglunun merkele attığı bakış vs erdoğanın trumpa attığı bakış -->
  <!-- https://eksisozluk.com/feridun-duz-agaca-tirmanabilir-misin--6267449?a=popular bk zuhahahahahha -->
  <!--bkzrte nin tc cumhurbaşkanlığı forsunu alıp kaçması -->
