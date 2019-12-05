@@ -3,6 +3,8 @@
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
  )
 
+<!-- kz lost adasına cami yapıp huzuru getirmek -->
+<!--bkz https://www.uludagsozluk.com/k/%C5%9Fu-ezanlar-ki-%C5%9Fehadetleri-dinin-temeli/ -->
 <!--bkz lost adasında türk olmama sebebi -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz falcao vs oç kürtler --->
 <!--bkz oç suriyeli steve jobs oç kürt aziz sancar vs kamalcılar --->
