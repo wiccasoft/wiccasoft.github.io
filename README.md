@@ -1,7 +1,7 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-05_10-55-04.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691
-
+<!-- https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-vs-zeki-erkek/&w=bg -->
 <!-- https://www.youtube.com/watch?v=FT3zuBuqnsk vakit gelir yotupır oluruk -->
 <!-- https://twitter.com/tcbestepe/status/1018093857047707648?lang=en -->
 <!-- https://www.tccb.gov.tr/faaliyetler/15temmuz/ başaramayacaksınız külliyeyi hackleyemeksiniz -->
