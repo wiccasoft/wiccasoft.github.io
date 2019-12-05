@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=SF0w2B6DNUE -->
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag akboyları 2020 ye çelik gibi yetiştirmek -->
 <!-- https://www.youtube.com/watch?v=KtFX5cCejG0 bkz büzüklerin efendisi  -->
 <!-- bkz akboyların büyüyüp ne köy ne kasaba olur cümlesi kurabilmeleri -->
