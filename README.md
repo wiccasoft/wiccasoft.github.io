@@ -1,5 +1,5 @@
 <!-- https://www.uludagsozluk.com/k/taxi-driver-filmindeki-pezevenk/ bkz vurduruyordur -->
-<!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği -->
+<!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği https://www.youtube.com/watch?v=h6Q9id4Q_js -->
 <!--bkz recebin ilaç firmalarının kuklası olduğu gerçeğini bilmeyen ergenler -->
 <!--bkz recepi siklemedikçe coşan ergenler https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!--bkz erdoğanı ve acuncu ulucu ergenlerini siklememek -->
