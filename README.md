@@ -1,3 +1,5 @@
+<!--bkz erdoğanı ve acuncu ulucu ergenlerini siklememek -->
+<!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-7-s%C3%BClalesinden-hesap-soraca%C4%9F%C4%B1z/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/masterchef-yasin/&w=bg bkz masterchefyasin vs mastercheftalat -->
 <!--bkz kürtler vs reisçiler https://www.youtube.com/watch?v=_-J6MZMaM9c -->
 <!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz reis anamın amına çam dik -->
