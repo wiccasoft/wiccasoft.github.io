@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_06-02-12.png)]( https://www.youtube.com/watch?v=6RwAWZtK5Uw )
 <!-- 
+bkz yılbaşında travestiye gitmek
 bkz arkadan vurdun mu önden allah diye bağıracak
 https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz arkadan vurdukça allah diye bağıran kafir
