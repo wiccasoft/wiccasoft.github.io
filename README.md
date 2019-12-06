@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/e/42519518/ yav he he -->
 <!-- https://www.uludagsozluk.com/e/42519524/ inanmayın kızlar olta atıyo -->
 <!-- bkz ismail alpen mi can yaman mı sorunsalı -->
 <!-- bkz can yaman ve cem uzan -->
