@@ -1,3 +1,4 @@
+<!--bkz aleyna tilki adına fikir beyan eden eşcinsel https://www.uludagsozluk.com/e/42518975/ -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 <!--bkz aleyna tilkinin travestileri devlet niye tedavi etmiyor açıklaması https://www.uludagsozluk.com/e/42518975/-->
 <!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik devletçi olması -->
