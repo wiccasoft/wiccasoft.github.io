@@ -1,4 +1,4 @@
-<!--bkz acunun lise mezunu bir gavat olduğu gerçeğini kabul edemeyen acuncular-->
+<!--bkz acunun lise mezunu cahil bir gavat olduğu gerçeğini kabul edemeyen acuncular-->
 <!--bkz acuna gavat diyince kızan aleyna tilki -->
 <!--bkz şaka maka acunla büyüyen ergenlerin başlık açması -->
 <!-- bkz masterchef yasin vs masterchef macun -->
