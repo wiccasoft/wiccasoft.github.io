@@ -1,3 +1,4 @@
+<!--bkz yeni nesil kızlarına arabayla seks yapması -->
 <!-- bkz müjde arın arabaya vermesi -->
 <!-- https://www.uludagsozluk.com/k/yeni-nesildeki-t%C4%B1rtl%C4%B1%C4%9F%C4%B1n-sebepleri/ 
 <!-- bkz 90 doğumuyuym sekste güçlüyüm -->
