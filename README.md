@@ -1,5 +1,7 @@
 
 <!-- 
+bkz koplatılan karının evli çıkması sorunsalı
+https://www.youtube.com/watch?v=j-V12tL78Mc 
 https://www.youtube.com/watch?v=84mGKTTv5Gc
 bkz vur joker vur karının dibine dibine vur 
 bkz turkish music org daki cuck old kavgası
