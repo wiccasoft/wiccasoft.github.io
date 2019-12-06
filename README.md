@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
 <!--bkz can yamanın emre mora yürümesi -->
 <!--bkz emre morun can yamana yürümesi -->
-<!--bkz derdi erkek olanın götü fındık gibi olurmuş -->
+<!--bkz siyanurla intihar eden gencin yaşlanması -->
 <!--bkz kürt erkeği mi türk erkeği mi sorunsalı -->
 <!--bkz türklerin haber yapamaması sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-neden-bilim-geli%C5%9Fmiyor/&w=bg bkz mucize doktor -->
