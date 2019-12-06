@@ -1,9 +1,10 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
-<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M lol -->
+
 <!-- bkz can yamanın emre mora yürümesi -->
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
+<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M lol -->
 <!-- https://www.uludagsozluk.com/e/42511325/ bkz taşşak uzmanı tırrrek li konuşan bi yaratık-->
 <!-- bkz kızlarsoruyor com daki kapalı kız kavgası yapan liseliler -->
 <!-- bkz kapalı kızların o kadar çirkin olması ki  kapanmaları -->
