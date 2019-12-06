@@ -1,8 +1,5 @@
 <!--bkz can yaman vs tatlıtuğ vs özçivit -->
-<!-- bkz can yamana dmden yürümek vs öçivite dmden yürümek -->
 <!-- bkz can yaman vs özçivit https://www.youtube.com/watch?v=GvKcmdSEJLY --> 
-<!-- https://www.uludagsozluk.com/e/42519518/ yav he he -->
-<!-- https://www.uludagsozluk.com/e/42519524/ inanmayın kızlar olta atıyo -->
 <!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=OPqV4ipyMsg -->
 <!-- bkz emre belezoğlunun kaliteyi yükseltmesi https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
 <!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
