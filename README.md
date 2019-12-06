@@ -1,3 +1,4 @@
+<!--bkz mustafa kamal atatürk vs mustafa cemşit atakürt -->
 <!-- bkz 41 yaşından sonra ergenlerin çekilmemesi sorunsalı https://www.youtube.com/watch?v=GuJWBCqVUU0  -->
 <!--bkz x kuşağı vs y kuşağı vs z kuşağı -->
 <!--bkz burak özçivit vs can yaman -->
