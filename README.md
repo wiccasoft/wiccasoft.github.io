@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
+<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri -->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
 <!-- bkz can yamanın emre mora yürümesi -->
 <!-- bkz emre morun can yamana yürümesi -->
