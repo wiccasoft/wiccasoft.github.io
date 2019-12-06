@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_06-02-12.png)]( https://www.youtube.com/watch?v=6RwAWZtK5Uw )
 <!-- 
+https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz götten vurdukça allah diye bağıran kafir
 https://www.youtube.com/watch?v=EfAsNffCjsM 
 bkz karıyı kafa dağıtsın diye flörte yollamak
