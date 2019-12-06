@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
 <!--bkz can yamanın emre mora yürümesi -->
 <!--bkz emre morun can yamana yürümesi -->
-<!--bkz 41 yaşından sonra ergenlerin hiç çekilmemesi -->
+<!--bkz 41 yaşından sonra ergenlerin hiç çekilmemesi sorunsalı-->
 <!--bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyimin fransızcası -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-neden-bilim-geli%C5%9Fmiyor/&w=bg bkz mucize böcek dizisi-->
 <!-- https://eksisozluk.com/z-kusaginin-kurumsal-koleliligi-bitirecek-olmasi--6271497?a=popular bkz x kuşağının siklemediği köleler -->
