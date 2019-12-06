@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=j-V12tL78Mc
 https://www.youtube.com/watch?v=84mGKTTv5Gc
 bkz vur joker vur karının dibine dibine vur 
 https://www.youtube.com/watch?v=x7GizCUcWCM
-bkz karıyı herkes hopur hopur hoplatırken horul horul uyumak
+bkz karıyı hopur hopur hoplatırlarken horul horul uyumak
 bkz turkish music org daki cuck old kavgası
 -->
 
