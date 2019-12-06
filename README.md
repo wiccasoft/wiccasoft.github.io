@@ -1,3 +1,4 @@
+<!--bkz aleyna tilkinin travestileri devlet niye tedavi etmiyor açıklaması -->
 <!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik devletçi olması -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz renklilerin çoşması -->
 <!-- bkz belezoğlan vs melezoğlan sorunsalı  https://www.youtube.com/watch?v=jdjsGMl-yWI-->
