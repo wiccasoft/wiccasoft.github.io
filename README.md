@@ -1,4 +1,4 @@
-<!-- bkz homofobiklerin %90 ının eşcinsel olması sorunsalı -->
+<!-- bkz homofobiklerin %90'nın eşcinsel olması sorunsalı -->
 <!-- bkz aleyna tilki adına fikir beyan eden gsli homofobik eşcinsel https://www.uludagsozluk.com/e/42518975/ -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 <!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik devletçi olması -->
