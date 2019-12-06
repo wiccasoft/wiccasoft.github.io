@@ -1,8 +1,4 @@
-<!--bkz yeni nesil kızlarına arabayla seks yapması -->
-<!-- bkz müjde arın arabaya vermesi -->
-<!-- https://www.uludagsozluk.com/k/yeni-nesildeki-t%C4%B1rtl%C4%B1%C4%9F%C4%B1n-sebepleri/ 
-<!-- bkz 90 doğumuyuym sekste güçlüyüm -->
-<!-- bkz yeninesil 1978 li kızların arabaya vermesi -->
+<!--bkz yeni nesil kızların arabaya vermesi -->
 <!-- bkz can yaman vs tatlıtuğ vs özçivit vs bahoz erdal -->
 <!-- bkz can yaman vs özçivit https://www.youtube.com/watch?v=GvKcmdSEJLY --> 
 <!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=OPqV4ipyMsg -->
