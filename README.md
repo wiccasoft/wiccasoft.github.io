@@ -1,6 +1,6 @@
 <!--bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
 <!--bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
-
+<!--bkz playboy ekrem https://www.youtube.com/watch?v=GuJWBCqVUU0 -->
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
