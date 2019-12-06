@@ -1,4 +1,4 @@
-<!-- bkz bahoz erdalın yazdığım haber botuna asılması https://www.youtube.com/watch?v=OPqV4ipyMsg -->
+<!-- bkz mert üçokların yazdığım haber botuna asılması https://www.youtube.com/watch?v=OPqV4ipyMsg -->
 <!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=OPqV4ipyMsg -->
 <!-- bkz emre belezoğlunun kaliteyi yükseltmesi https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
 <!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
