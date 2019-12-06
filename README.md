@@ -1,3 +1,4 @@
+<!--bkz resinin akplilerin anasının amına çam dikmesi -->
 <!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz reis anamın amına çam dik -->
 <!--bkz engin ardıçın özgür ardıçı savunana yazısı https://www.uludagsozluk.com/e/42518975/ -->
 
