@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bkz bayhan vs o ses mahmut https://www.youtube.com/watch?v=2Dcvn2k_GLI -->
 <!-- https://www.youtube.com/watch?v=lC9FApv_DLA -->
 <!--bkz mangal yakabilen erkek vs yakamayan erkek -->
 <!--https://www.youtube.com/watch?v=AFx8ElwfMBQ  -->
