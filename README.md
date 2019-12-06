@@ -1,3 +1,4 @@
+<!--bkz aklgbtli ergenlerin sabah akşam güldürmesi -->
 <!--bkz aklgbtli bi ergeni üzmek -->
 <!--bkz akboyların anasının amında perande atmak --->
 <!--bkz o değil de zall ona hep oç der vardı noldu ona -->
