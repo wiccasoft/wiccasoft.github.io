@@ -1,5 +1,5 @@
 
-
+<!-- bkz 1978 li kızların arabaya vermesi -->
 <!-- bkz can yaman vs tatlıtuğ vs özçivit vs bahoz erdal -->
 <!-- bkz can yaman vs özçivit https://www.youtube.com/watch?v=GvKcmdSEJLY --> 
 <!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=OPqV4ipyMsg -->
