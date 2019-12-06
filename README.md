@@ -1,5 +1,5 @@
 
-<!--bkz ali koç vs fatih terim -->
+<!--bkz ali koç vs fatih terim https://www.youtube.com/watch?v=GLwzQvO3abU -->
 <!-- bkz ali palabıyık vs ivanka bebek https://www.youtube.com/watch?v=J5N7pcOGFXo -->
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY -->
 <!--bkz ivan bebek vs ivanka trump -->
