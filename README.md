@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
-<!--https://www.uludagsozluk.com/e/42518055/ bkz kız haklı beyler-->
+<!--https://www.uludagsozluk.com/e/42518055/ bkz kız haklı kızler -->
 <!--bkz gavat türk erkeği vs acun türk erkeki --->
 <!--bkz bayhan vs o ses mahmut https://www.youtube.com/watch?v=2Dcvn2k_GLI -->
 <!-- https://www.youtube.com/watch?v=lC9FApv_DLA -->
