@@ -1,4 +1,4 @@
-<!-- bkz 94 lü kız can yaman ilşkisi -->
+<!-- bkz 94 lü kızlar can yaman ilşkisi -->
 <!-- bkz arabaya veren kızlar vs can yamana veren kızlar -->
 <!-- bkz mehmet akif alakurt vs can yaman -->
 <!-- bkz can yaman vs turabi -->
