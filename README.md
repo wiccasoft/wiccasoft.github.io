@@ -5,6 +5,7 @@
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M lol -->
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdun mu önden can yaman diyecek aga -->
 <!-- bkz deep turkish webin irreversible filmi gibi gibi bir yer olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/e/42511325/ bkz taşşak uzmanı tırrrek li konuşan bi yaratık-->
 <!-- bkz kızlarsoruyor com daki kapalı kız kavgası yapan liseliler -->
