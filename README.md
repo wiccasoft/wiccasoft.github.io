@@ -1,4 +1,4 @@
-<!-- bkz belezoğlan vs melezoğlan sorunsalı vs safkanoğlan  https://www.youtube.com/watch?v=jdjsGMl-yWI-->
+<!-- bkz belezoğlan vs melezoğlan sorunsalı  https://www.youtube.com/watch?v=jdjsGMl-yWI-->
 <!-- bkz kürtler sorunsalı vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg -->
 <!-- bkz ali koç vs comolli sorunsalı https://www.youtube.com/watch?v=GLwzQvO3abU -->
 <!-- bkz ali palabıyık vs ivanka bebek https://www.youtube.com/watch?v=J5N7pcOGFXo -->
