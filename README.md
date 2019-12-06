@@ -1,6 +1,6 @@
 
 <!-- 
-bkz karıyı flörte yollamak
+bkz karıyı kafa dağıtsın diye flörte yollamak
 https://www.youtube.com/watch?v=SmFsHvtDUh8 
 bkz hoplatılan karının evli çıkması sorunsalı
 https://www.youtube.com/watch?v=j-V12tL78Mc 
