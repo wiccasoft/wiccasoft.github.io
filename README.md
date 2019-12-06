@@ -1,4 +1,4 @@
-<!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz boru gibi saplamış -->
+<!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz reis anamın amına çam dik -->
 <!--bkz engin ardıçın özgür ardıçı savunana yazısı https://www.uludagsozluk.com/e/42518975/ -->
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
