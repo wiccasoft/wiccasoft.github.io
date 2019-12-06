@@ -1,6 +1,4 @@
-<!-- bkz 3 isimli erkek karizması -->
-<!-- bkz mustafa kamal atatürk vs recep tayyip erdoğan  -->
-<!-- bkz x kuşağı vs y kuşağı vs z kuşağı -->
+<!--bkz emre morun can yamanla vedat mürüçün üstüne yürümesi -->
 <!-- bkz burak özçivit vs can yaman -->
 <!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
 <!-- bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
