@@ -1,4 +1,4 @@
-<!--bkz kürtler vs reisçiler -->
+<!--bkz kürtler vs reisçiler https://www.youtube.com/watch?v=_-J6MZMaM9c -->
 <!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz reis anamın amına çam dik -->
 <!--bkz engin ardıçın özgür ardıçı savunana yazısı https://www.uludagsozluk.com/e/42518975/ -->
 
