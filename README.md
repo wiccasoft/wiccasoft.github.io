@@ -1,5 +1,4 @@
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz renklilerin çoşması -->
-<!-- bkz futbolu sevmeyen kürdün yüreğine futbolsokan koca yürekli türk https://www.youtube.com/watch?v=AFx8ElwfMBQ -->
 <!-- bkz belezoğlan vs melezoğlan sorunsalı  https://www.youtube.com/watch?v=jdjsGMl-yWI-->
 <!-- bkz kürtler sorunsalı vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg -->
 <!-- bkz ali koç vs comolli sorunsalı https://www.youtube.com/watch?v=GLwzQvO3abU -->
