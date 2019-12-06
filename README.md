@@ -1,9 +1,8 @@
-<!--bkz taxi filmindeki robert de niro nun uluculara vurdurması -->
+
 <!-- https://www.uludagsozluk.com/k/taxi-driver-filmindeki-pezevenk/ bkz vurduruyordur -->
 <!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği https://www.youtube.com/watch?v=h6Q9id4Q_js -->
 <!--bkz recebin ilaç firmalarının kuklası olduğu gerçeğini bilmeyen ergenler -->
 <!--bkz recepi siklemedikçe coşan ergenler https://www.youtube.com/watch?v=4RpMzsA1VOw -->
-<!--bkz erdoğanı ve acuncu ulucu ergenlerini siklememek -->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-7-s%C3%BClalesinden-hesap-soraca%C4%9F%C4%B1z/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/masterchef-yasin/&w=bg bkz masterchefyasin vs mastercheftalat -->
 <!--bkz kürtler vs reisçiler https://www.youtube.com/watch?v=_-J6MZMaM9c -->
