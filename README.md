@@ -1,11 +1,10 @@
 <!-- bkz 3 isimli erkek karizması -->
 <!-- bkz mustafa kamal atatürk vs recep tayyip erdoğan  -->
-<!-- bkz 41 yaşından sonra ergenlerin çekilmemesi sorunsalı https://www.youtube.com/watch?v=GuJWBCqVUU0  -->
-<!--bkz x kuşağı vs y kuşağı vs z kuşağı -->
-<!--bkz burak özçivit vs can yaman -->
-<!--bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
-<!--bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
-<!--bkz playboy ekrem https://www.youtube.com/watch?v=GuJWBCqVUU0 -->
+<!-- bkz x kuşağı vs y kuşağı vs z kuşağı -->
+<!-- bkz burak özçivit vs can yaman -->
+<!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
+<!-- bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
+<!-- bkz playboy ekrem https://www.youtube.com/watch?v=GuJWBCqVUU0 -->
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
