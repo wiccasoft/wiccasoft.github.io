@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bk alfa avcı erkek vs beta avlanan erkek -->
 <!--bkz gavat türk erkeği vs acun türk erkeki --->
 <!--bkz bayhan vs o ses mahmut https://www.youtube.com/watch?v=2Dcvn2k_GLI -->
 <!-- https://www.youtube.com/watch?v=lC9FApv_DLA -->
