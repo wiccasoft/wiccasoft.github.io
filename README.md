@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
-<!-- https://www.youtube.com/watch?v=AFx8ElwfMBQ volkan demirel vs maz kruse -->
+<!--https://www.youtube.com/watch?v=AFx8ElwfMBQ  -->
 <!--bkz max kruse vs alex vs hagi  -->
 <!--bkz ferdi kadıoğlu vs emre mor -->
 <!--bkz celal şengör vs ilber ortaylı -->
