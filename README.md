@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bkz celal şengör vs ilber ortaylı -->
 <!--bkz şeyma subaşı vs vedat mürüqü vs ali koç vs ersun yanal -->
 [![Image](smartdata/Screenshot_2019-12-06_06-02-12.png)]( https://www.youtube.com/watch?v=6RwAWZtK5Uw )
 
