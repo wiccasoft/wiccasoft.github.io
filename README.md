@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
-
+<!-- https://www.youtube.com/watch?v=k9Y9-xueg5M lol -->
 <!-- bkz can yamanın emre mora yürümesi -->
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
