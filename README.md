@@ -1,4 +1,4 @@
-<!--bkz kürtler sorunsalı  vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg -->
+<!-- bkz kürtler sorunsalı vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg -->
 <!-- bkz ali koç vs comolli sorunsalı https://www.youtube.com/watch?v=GLwzQvO3abU -->
 <!-- bkz ali palabıyık vs ivanka bebek https://www.youtube.com/watch?v=J5N7pcOGFXo -->
 <!-- vedat mürüç sorunsalı https://www.youtube.com/watch?v=s3BGryfktXY -->
