@@ -1,4 +1,4 @@
-
+<!-- https://www.uludagsozluk.com/k/cicikuscicikus-piremses-bulu%C5%9Fmas%C4%B1/&w=gd bkz vurduruyordur -->
 <!-- https://www.uludagsozluk.com/k/taxi-driver-filmindeki-pezevenk/ bkz vurduruyordur -->
 <!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği https://www.youtube.com/watch?v=h6Q9id4Q_js -->
 <!--bkz recebin ilaç firmalarının kuklası olduğu gerçeğini bilmeyen ergenler -->
