@@ -1,3 +1,4 @@
+<!--bkz o değil de sira da sir oğlanın 23 yaşında eşcinsel olması -->
 <!-- bkz aleyna tilki ile sira dan sir adamı evlendiriyoruz kampanyası -->
 <!--bkz reisin akplilerin anasının amına çam dikmesi -->
 <!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz reis anamın amına çam dik -->
