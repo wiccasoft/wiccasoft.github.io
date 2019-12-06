@@ -4,7 +4,6 @@
 <!-- bkz masterchef yasin vs masterchef macun -->
 <!-- bkz aleyna tilkinin süt gibi götü -->
 <!-- https://www.uludagsozluk.com/e/42515774/ bkz yürü be kim tutar seni yavruuuuuuu -->
-
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 <!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik devletçi olması -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz renklilerin çoşması -->
