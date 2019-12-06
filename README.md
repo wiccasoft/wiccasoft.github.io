@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
-<!-- https://eksisozluk.com/z-kusaginin-kurumsal-koleliligi-bitirecek-olmasi--6271497?a=popular bkz x kuşağını siklemediği köleler -->
+<!--bkz emre morun can yamana yürümesi -->
+<!-- https://eksisozluk.com/z-kusaginin-kurumsal-koleliligi-bitirecek-olmasi--6271497?a=popular bkz x kuşağının siklemediği köleler -->
 
 [![Image](smartdata/Screenshot_2019-12-05_14-02-27.png)]( https://www.la-croix.com/Monde/Afrique/Operation-Barkhane-Emmanuel-Macron-reclame-appui-clair-pays-Sahel-2019-12-05-1201064691)
 
