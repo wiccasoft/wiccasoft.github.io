@@ -1,4 +1,5 @@
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY -->
+<!--bkz ivan bebek vs ivanka trump -->
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
