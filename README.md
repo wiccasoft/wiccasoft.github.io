@@ -5,7 +5,7 @@
 <!-- 
 bkz arkadan vurdun mu önden allah diye bağıracak
 https://www.youtube.com/watch?v=NXQJ9iR5BkA
-bkz götten vurdukça allah diye bağıran kafir
+bkz arkadan vurdukça allah diye bağıran kafir
 https://www.youtube.com/watch?v=EfAsNffCjsM 
 bkz karıyı kafa dağıtsın diye flörte yollamak
 https://www.youtube.com/watch?v=SmFsHvtDUh8 
