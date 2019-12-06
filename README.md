@@ -7,8 +7,8 @@
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M lol -->
-<!--bkz deeep webin deepsiz çukurundaki iğrenç tipler --->
-<!-- bkz turkishgayssozlukteki yaşlı erkek taşşağı nasıldır muhabbeti --->
+<!-- bkz deeep webin deepsiz çukurundaki iğrenç tipler --->
+<!-- bkz turkishgayssozlukteki taşşak muhabbeti --->
 <!-- https://www.uludagsozluk.com/k/erkeklerin-ya%C5%9Fland%C4%B1k%C3%A7a-ta%C5%9Faklar%C4%B1n%C4%B1n-b%C3%BCy%C3%BCmesi/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/turkishmusic-org-daki-sezen-aksu-tart%C4%B1%C5%9Fmas%C4%B1/&w=bg -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdun mu önden can yaman diyecek aga -->
