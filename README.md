@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/e/42515774/ bkz yürü be kim tutar seni yavruuuuuuu -->
 <!-- bkz homofobiklerin %90'nın eşcinsel olması sorunsalı -->
 <!-- bkz aleyna tilki adına fikir beyan eden gsli homofobik eşcinsel https://www.uludagsozluk.com/e/42518975/ -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
