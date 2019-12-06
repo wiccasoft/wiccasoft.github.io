@@ -4,6 +4,7 @@
 <!-- bkz can yamanın emre mora yürümesi -->
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
+<!-- bkz kızlarsoruyor com daki kapalı kız kavgası yapan liseliler -->
 <!-- bkz kapalı kızların o kadar çirkin olması ki  kapanmaları -->
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri -->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
