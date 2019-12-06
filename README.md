@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bkz max kruse vs alex vs hagi  -->
 <!--bkz ferdi kadıoğlu vs emre mor -->
 <!--bkz celal şengör vs ilber ortaylı -->
 <!--bkz falcao vs vedat mürüq https://www.youtube.com/watch?v=s3BGryfktXY -->
