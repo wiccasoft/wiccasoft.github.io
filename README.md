@@ -1,3 +1,4 @@
+<!--bkz hadi ben kaçar gençler kavga etmeden kumda oynayın -->
 <!--bkz acunun lise mezunu cahil bir gavat olduğu gerçeğini kabul edemeyen acuncular-->
 <!--bkz acuna gavat diyince kızan aleyna tilki -->
 <!--bkz şaka maka acunla büyüyen ergenlerin başlık açması -->
