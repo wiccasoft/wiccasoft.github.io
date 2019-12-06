@@ -1,3 +1,4 @@
+<!--bkz o değil de zall ona hep oç der vardı boldu ona -->
 <!--bkz o değil de sira da sir oğlanın 23 yaşında eşcinsel olması -->
 <!-- bkz aleyna tilki ile sira dan sir adamı evlendiriyoruz kampanyası -->
 <!--bkz reisin akplilerin anasının amına çam dikmesi -->
