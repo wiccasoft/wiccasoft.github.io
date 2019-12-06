@@ -1,4 +1,4 @@
-<!-- özgür ardıç vs cem garipoğlu -->
+<!--- bkz yılın gavat macun kaplıcalı vs yılın gavatı recep -->
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
