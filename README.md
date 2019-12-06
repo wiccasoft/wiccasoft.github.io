@@ -1,7 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
-
-<!--bkz feridün düzağaca tırmanıyo -->
+<!--max kruse vs berat albayrak -->
 <!--bkz emre belezoğlu vs zokaranın tekmesi -->
 <!--https://www.uludagsozluk.com/e/42518055/ bkz kız haklı beyler -->
 <!--bkz gavat türk erkeği vs acun türk erkeki --->
