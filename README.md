@@ -1,25 +1,7 @@
 
-
+[![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=b1XmPAIHZkk )
 
 [![Image](smartdata/Screenshot_2019-12-06_06-02-12.png)]( https://www.youtube.com/watch?v=6RwAWZtK5Uw )
-<!-- 
-https://www.uludagsozluk.com/e/42514203/ lol 
-https://www.youtube.com/watch?v=4jb59zq5Kgk
-bkz yılbaşında küçük oğlanı ayağı alışsın diye travestiye götürmek
-bkz arkadan vurdun mu önden allah diye bağıracak
-https://www.youtube.com/watch?v=NXQJ9iR5BkA
-bkz arkadan vurdukça allah diye bağıran kafir
-https://www.youtube.com/watch?v=EfAsNffCjsM 
-bkz karıyı kafa dağıtsın diye flörte yollamak
-https://www.youtube.com/watch?v=SmFsHvtDUh8 
-bkz hoplatılan karının evli çıkması sorunsalı
-https://www.youtube.com/watch?v=j-V12tL78Mc 
-https://www.youtube.com/watch?v=84mGKTTv5Gc
-bkz vur joker vur karının dibine dibine vur 
-https://www.youtube.com/watch?v=x7GizCUcWCM
-bkz karıyı hopur hopur hoplatırlarken horul horul uyumak
-bkz turkish music org daki cuck old kavgası
--->
 
 [![Image](smartdata/Screenshot_2019-12-06_02-17-01.png)]( https://www.youtube.com/watch?v=OrZB5n0tNAI )
 
