@@ -1,3 +1,4 @@
+<!-- bkz müjde arın arabaya vermesi -->
 <!-- https://www.uludagsozluk.com/k/yeni-nesildeki-t%C4%B1rtl%C4%B1%C4%9F%C4%B1n-sebepleri/ 
 <!-- bkz 90 doğumuyuym sekste güçlüyüm -->
 <!-- bkz yeninesil 1978 li kızların arabaya vermesi -->
