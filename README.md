@@ -1,3 +1,4 @@
+<!--bkz küçük kızı taciz eden sapık akraba -->
 <!--bkz gora filmindeki pelerinli adam --> 
 <!--bkz maçoğlu vs imamoğlu -->
 <!--bkz erdoğanın 7 sülalesinin götünü kurtarması https://www.youtube.com/watch?v=h6Q9id4Q_js -->
