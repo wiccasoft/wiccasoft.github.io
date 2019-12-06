@@ -1,3 +1,4 @@
+<!-- bkz cem uzana hapis şoku -->
 <!-- bkz ismail alpenin sergey brinden  yakışıklı olması https://www.youtube.com/watch?v=OPqV4ipyMsg -->
 <!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=OPqV4ipyMsg -->
 <!-- bkz emre belezoğlunun kaliteyi yükseltmesi https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
