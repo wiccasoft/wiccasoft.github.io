@@ -1,3 +1,4 @@
+<!--bkz x kuşağı vs y kuşağı vs z kuşağı -->
 <!--bkz burak özçivit vs can yaman -->
 <!--bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
 <!--bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
