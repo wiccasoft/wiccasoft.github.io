@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bkz ferdi kadıoğlu vs emre mor -->
 <!--bkz celal şengör vs ilber ortaylı -->
 <!--bkz falcao vs vedat mürüq https://www.youtube.com/watch?v=s3BGryfktXY -->
 <!--bkz şeyma subaşı vs vedat mürüqü vs ali koç vs ersun yanal -->
