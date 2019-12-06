@@ -1,3 +1,4 @@
+<!--bkz can yaman vs tatlıtuğ vs özçivit -->
 <!-- bkz can yamana dmden yürümek vs öçivite dmden yürümek -->
 <!-- bkz can yaman vs özçivit https://www.youtube.com/watch?v=GvKcmdSEJLY --> 
 <!-- https://www.uludagsozluk.com/e/42519518/ yav he he -->
