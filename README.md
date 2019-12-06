@@ -1,4 +1,4 @@
-
+<!--bkz şaka maka acunla büyüyen ergenlerin başlık açması -->
 <!-- bkz masterchef yasin vs masterchef macun -->
 <!-- bkz aleyna tilkinin süt gibi götü -->
 <!-- https://www.uludagsozluk.com/e/42515774/ bkz yürü be kim tutar seni yavruuuuuuu -->
