@@ -1,5 +1,7 @@
 
 <!-- 
+bkz karıyı flörte yollamak
+https://www.youtube.com/watch?v=SmFsHvtDUh8 
 bkz hoplatılan karının evli çıkması sorunsalı
 https://www.youtube.com/watch?v=j-V12tL78Mc 
 https://www.youtube.com/watch?v=84mGKTTv5Gc
