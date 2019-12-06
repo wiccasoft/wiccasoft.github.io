@@ -1,4 +1,4 @@
-<!-- özgür ardıç vs garipoğlu -->
+<!-- özgür ardıç vs cem garipoğlu -->
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
