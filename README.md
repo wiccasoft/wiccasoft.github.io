@@ -1,6 +1,7 @@
 
 <!-- 
 bkz vur joker vur 
+bkz trukish music org daki cuck old kavgası
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-baska-adama-becerten-koca/&w=bg bkz kafa raat kankaaaa iç şarabı sik benim karıyı-->
 
 [![Image](smartdata/Screenshot_2019-12-06_02-17-01.png)]( https://www.youtube.com/watch?v=OrZB5n0tNAI )
