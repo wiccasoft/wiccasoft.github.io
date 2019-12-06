@@ -1,3 +1,4 @@
+<!-- bkz vedat mürüç vs can yaman -->
 <!-- bkz can yaman vs kılıçdaroğlu -->
 <!-- bkz yeni nesil kızların arabaya vermesi -->
 <!-- bkz can yaman vs tatlıtuğ vs özçivit vs bahoz erdal -->
