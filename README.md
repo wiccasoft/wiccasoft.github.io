@@ -1,3 +1,4 @@
+<!--bkz aleyna tilki nin kapıyı sike eşşeğe hallenmesi -->
 <!--bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
 <!--bkz maçoğlu vs imamoğlu -->
 <!--bkz erdoğanın 7 sülalesinin götünü kurtarması https://www.youtube.com/watch?v=h6Q9id4Q_js -->
