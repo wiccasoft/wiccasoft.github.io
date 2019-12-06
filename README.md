@@ -1,3 +1,4 @@
+<!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=ojQa7QqC3kM -->
 <!-- bkz emre belezoğlunun kaliteyi yükseltmesi https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
 <!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
 <!-- bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
