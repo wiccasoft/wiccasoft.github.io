@@ -1,7 +1,4 @@
 <!--bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
-<!--bkz kızını siken baba vs sikmeyen baba -->
-<!--bkz küçük kızı taciz eden sapık akraba -->
-<!--bkz gora filmindeki pelerinli adam --> 
 <!--bkz maçoğlu vs imamoğlu -->
 <!--bkz erdoğanın 7 sülalesinin götünü kurtarması https://www.youtube.com/watch?v=h6Q9id4Q_js -->
 <!-- https://www.uludagsozluk.com/k/cicikuscicikus-piremses-bulu%C5%9Fmas%C4%B1/&w=gd bkz vurduruyordur -->
