@@ -1,17 +1,6 @@
 <!--bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
 <!--bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
-<!--bkz maçoğlu vs imamoğlu https://www.youtube.com/watch?v=If3RhrDzKcQ -->
-<!--bkz erdoğanın 7 sülalesinin götünü kurtarması https://www.youtube.com/watch?v=h6Q9id4Q_js -->
-<!-- https://www.uludagsozluk.com/k/cicikuscicikus-piremses-bulu%C5%9Fmas%C4%B1/&w=gd bkz vurduruyordur -->
-<!-- https://www.uludagsozluk.com/k/taxi-driver-filmindeki-pezevenk/ bkz vurduruyordur -->
-<!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği https://www.youtube.com/watch?v=h6Q9id4Q_js -->
-<!--bkz recebin ilaç firmalarının kuklası olduğu gerçeğini bilmeyen ergenler -->
-<!--bkz recepi siklemedikçe coşan ergenler https://www.youtube.com/watch?v=4RpMzsA1VOw -->
-<!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-7-s%C3%BClalesinden-hesap-soraca%C4%9F%C4%B1z/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/masterchef-yasin/&w=bg bkz masterchefyasin vs mastercheftalat -->
-<!--bkz kürtler vs reisçiler https://www.youtube.com/watch?v=_-J6MZMaM9c -->
-<!-- https://www.uludagsozluk.com/k/reisin-gezicilere-dikti%C4%9Fi-11-milyon-fidan/ bkz reis anamın amına çam dik -->
-<!--bkz engin ardıçın özgür ardıçı savunana yazısı https://www.uludagsozluk.com/e/42518975/ -->
+
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
