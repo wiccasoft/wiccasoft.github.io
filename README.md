@@ -1,4 +1,5 @@
-<!--bkz emre morun can yamanla vedat mürüçün üstüne yürümesi -->
+<!-- bkz burak özçivitin attığı aşırtma gol -->
+<!-- bkz emre morun can yamanla vedat mürüçün üstüne yürümesi -->
 <!-- bkz burak özçivit vs can yaman -->
 <!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
 <!-- bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
