@@ -1,6 +1,7 @@
 
 <!-- 
-bkz vur joker vur karının dibine dibine vur
+https://www.youtube.com/watch?v=84mGKTTv5Gc
+bkz vur joker vur karının dibine dibine vur 
 bkz turkish music org daki cuck old kavgası
 -->
 
