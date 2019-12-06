@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bkz obrodovic vs modrodobic https://www.youtube.com/watch?v=DWrFAQBQSeY -->
 <!--bkz pele vs platini https://www.youtube.com/watch?v=jdjsGMl-yWI -->
 <!--bkz hasan şaş vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg-->
 <!--bkz hakan şükür vs selçuk inan -->
