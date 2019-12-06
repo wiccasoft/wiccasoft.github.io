@@ -1,10 +1,11 @@
 
 [![Image](smartdata/Screenshot_2019-12-05_14-44-07.png)]( https://www.youtube.com/watch?v=k-Rg51azVlg )
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw merve ve şeytan -->
-<!--bkz can yamanın emre mora yürümesi -->
-<!--bkz emre morun can yamana yürümesi -->
-<!--bkz izole hayat kurup kafa dinlemek -->
-<!--bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyimin fransızcası -->
+<!-- bkz can yamanın emre mora yürümesi -->
+<!-- bkz emre morun can yamana yürümesi -->
+<!-- bkz izole hayat kurup kafa dinlemek -->
+<!-- bkz en sevdiğim kullar asyalı kullar https://www.youtube.com/watch?v=jVEKDcDEN1w
+<!-- bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyimin fransızcası -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-neden-bilim-geli%C5%9Fmiyor/&w=bg bkz mucize böcek dizisi-->
 <!-- https://eksisozluk.com/z-kusaginin-kurumsal-koleliligi-bitirecek-olmasi--6271497?a=popular bkz x kuşağının siklemediği köleler -->
 
