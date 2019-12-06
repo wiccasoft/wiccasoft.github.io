@@ -6,6 +6,7 @@
 <!-- bkz can yamanın emre mora yürümesi -->
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
+<!-- bkz homofobik değilim siz iğrençsiniz -->
 <!-- https://www.youtube.com/watch?v=k9Y9-xueg5M lol -->
 <!-- bkz deeep webin deepsiz çukurundaki iğrenç tipler --->
 <!-- bkz iğrençsizini ibnelerdeki ibnelerin takıldığı sözlük -->
