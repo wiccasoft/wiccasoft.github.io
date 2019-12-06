@@ -1,19 +1,3 @@
-<!--bkz hadi ben kaçar gençler kavga etmeden kumda oynayın -->
-<!--bkz acunun lise mezunu cahil bir gavat olduğu gerçeğini kabul edemeyen acuncular-->
-<!--bkz acuna gavat diyince kızan aleyna tilki -->
-<!--bkz şaka maka acunla büyüyen ergenlerin başlık açması -->
-<!-- bkz masterchef yasin vs masterchef macun -->
-<!-- bkz aleyna tilkinin süt gibi götü -->
-<!-- https://www.uludagsozluk.com/e/42515774/ bkz yürü be kim tutar seni yavruuuuuuu -->
-<!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
-<!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik devletçi olması -->
-<!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz renklilerin çoşması -->
-<!-- bkz belezoğlan vs melezoğlan sorunsalı  https://www.youtube.com/watch?v=jdjsGMl-yWI-->
-<!-- bkz kürtler sorunsalı vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg -->
-<!-- bkz ali koç vs comolli sorunsalı https://www.youtube.com/watch?v=GLwzQvO3abU -->
-<!-- bkz ali palabıyık vs ivanka bebek https://www.youtube.com/watch?v=J5N7pcOGFXo -->
-<!-- vedat mürüç sorunsalı https://www.youtube.com/watch?v=s3BGryfktXY -->
-
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
