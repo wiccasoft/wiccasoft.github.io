@@ -1,30 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
-<!-- bkz gavatspor vs godoşspor -->
-<!-- https://www.youtube.com/watch?v=-j6xrBeYdVM tuzla spor vs tuzlusaray -->
-<!--bkz obrodovic vs modrodobic https://www.youtube.com/watch?v=DWrFAQBQSeY -->
-<!--bkz pele vs platini https://www.youtube.com/watch?v=jdjsGMl-yWI -->
-<!--bkz hasan şaş vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg-->
-<!--bkz hakan şükür vs selçuk inan -->
-<!--bkz https://www.youtube.com/watch?v=0Myg-5Oz9Gs -->
-<!--bkz melezoğlanın 51 yaşında futbolu bırakması -->
-<!--bkz belezoğlan vs melezoğlan -->
-<!--bkz emre belezoğlanın koşmaması -->
-<!--bkz atatürkü libero oynatıp keyf yapmak -->
-<!--bkz hasan şaş ve vedat mürüqü vs atattük -->
-<!--max kruse vs berat albayrak -->
-<!--bkz emre belezoğlu vs zokaranın tekmesi -->
-<!--https://www.uludagsozluk.com/e/42518055/ bkz kız haklı beyler -->
-<!--bkz gavat türk erkeği vs acun türk erkeki --->
-<!--bkz bayhan vs o ses mahmut https://www.youtube.com/watch?v=2Dcvn2k_GLI -->
-<!-- https://www.youtube.com/watch?v=lC9FApv_DLA -->
-<!--bkz mangal yakabilen erkek vs yakamayan erkek -->
-<!--https://www.youtube.com/watch?v=AFx8ElwfMBQ  -->
-<!--bkz max kruse vs alex vs hagi  -->
-<!--bkz ferdi kadıoğlu vs emre mor -->
-<!--bkz celal şengör vs ilber ortaylı -->
-<!--bkz falcao vs vedat mürüq https://www.youtube.com/watch?v=s3BGryfktXY -->
-<!--bkz şeyma subaşı vs vedat mürüqü vs ali koç vs ersun yanal -->
 
 [![Image](smartdata/Screenshot_2019-12-06_06-02-12.png)]( https://www.youtube.com/watch?v=6RwAWZtK5Uw )
 
