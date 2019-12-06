@@ -1,7 +1,7 @@
 
 
 
-[![Image](smartdata/Screenshot_2019-12-06_06-10-44.png)]( https://www.youtube.com/watch?v=SrGmmitc62Q)
+[![Image](smartdata/Screenshot_2019-12-06_06-10-34.png)]( https://www.youtube.com/watch?v=SrGmmitc62Q)
 <!-- 
 bkz karıyı kafa dağıtsın diye flörte yollamak
 https://www.youtube.com/watch?v=SmFsHvtDUh8 
