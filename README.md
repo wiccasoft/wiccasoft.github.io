@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
-<!--bkz pele vs platini -->
+<!--bkz pele vs platini https://www.youtube.com/watch?v=jdjsGMl-yWI -->
 <!--bkz hasan şaş vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg-->
 <!--bkz hakan şükür vs selçuk inan -->
 <!--bkz https://www.youtube.com/watch?v=0Myg-5Oz9Gs -->
