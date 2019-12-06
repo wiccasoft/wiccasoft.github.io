@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
+<!--bkz https://www.youtube.com/watch?v=0Myg-5Oz9Gs -->
 <!--bkz melezoğlanın 51 yaşında futbolu bırakması -->
 <!--bkz belezoğlan vs melezoğlan -->
 <!--bkz emre belezoğlanın koşmaması -->
