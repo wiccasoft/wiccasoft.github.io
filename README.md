@@ -1,4 +1,4 @@
-<!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik olması -->
+<!-- https://www.uludagsozluk.com/e/42518975/ bkz aleyna tilki nin homofobik devletçi olması -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz renklilerin çoşması -->
 <!-- bkz belezoğlan vs melezoğlan sorunsalı  https://www.youtube.com/watch?v=jdjsGMl-yWI-->
 <!-- bkz kürtler sorunsalı vs skirtel https://www.youtube.com/watch?v=gglfXekbHbg -->
