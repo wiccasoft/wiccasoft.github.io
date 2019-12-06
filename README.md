@@ -1,7 +1,7 @@
 
 <!-- bkz ali koç vs comolli sorunsalı https://www.youtube.com/watch?v=GLwzQvO3abU -->
 <!-- bkz ali palabıyık vs ivanka bebek https://www.youtube.com/watch?v=J5N7pcOGFXo -->
-<!-- https://www.youtube.com/watch?v=s3BGryfktXY -->
+<!-- vedat mürüç sorunsalı https://www.youtube.com/watch?v=s3BGryfktXY -->
 
 
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
