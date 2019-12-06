@@ -1,4 +1,4 @@
-<!-- bkz ferdi kadıoğlu nun basın toplantısı https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
+<!-- bkz emre belezoğlunun kaliteyi yükseltmesi https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
 <!-- bkz burak özçivitin attığı aşırtma gol -->
 <!-- bkz emre morun can yamanla vedat mürüçün üstüne yürümesi -->
 <!-- bkz burak özçivit vs can yaman -->
