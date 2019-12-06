@@ -1,3 +1,4 @@
+<!--bkz taxi filmindeki robert de niro nun uluculara vurdurması -->
 <!-- https://www.uludagsozluk.com/k/taxi-driver-filmindeki-pezevenk/ bkz vurduruyordur -->
 <!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği https://www.youtube.com/watch?v=h6Q9id4Q_js -->
 <!--bkz recebin ilaç firmalarının kuklası olduğu gerçeğini bilmeyen ergenler -->
