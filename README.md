@@ -1,4 +1,4 @@
-
+<!--bkz can yamana dmden yürümek vs öçivite dmden yürümek -->
 <!-- bkz can yaman vs özçivit https://www.youtube.com/watch?v=GvKcmdSEJLY --> 
 <!-- https://www.uludagsozluk.com/e/42519518/ yav he he -->
 <!-- https://www.uludagsozluk.com/e/42519524/ inanmayın kızlar olta atıyo -->
