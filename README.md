@@ -1,3 +1,4 @@
+<!--bkz recepin 7 sülalesinin uludaki ergenleri gömeceği gerçeği -->
 <!--bkz recebin ilaç firmalarının kuklası olduğu gerçeğini bilmeyen ergenler -->
 <!--bkz recepi siklemedikçe coşan ergenler https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!--bkz erdoğanı ve acuncu ulucu ergenlerini siklememek -->
