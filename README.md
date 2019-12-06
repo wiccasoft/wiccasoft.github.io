@@ -4,7 +4,7 @@
 <!-- bkz can yamanın emre mora yürümesi -->
 <!-- bkz emre morun can yamana yürümesi -->
 <!-- bkz izole hayat kurup kafa dinlemek -->
-<!-- https://www.uludagsozluk.com/k/erkeklerin-ya%C5%9Fland%C4%B1k%C3%A7a-ta%C5%9Faklar%C4%B1n%C4%B1n-b%C3%BCy%C3%BCmesi/&w=gd bkz taşşak uzmanı-->
+<!-- https://www.uludagsozluk.com/e/42511325/ bkz taşşak uzmanı tırrrek li konuşan bi yaratık-->
 <!-- bkz kızlarsoruyor com daki kapalı kız kavgası yapan liseliler -->
 <!-- bkz kapalı kızların o kadar çirkin olması ki  kapanmaları -->
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri -->
