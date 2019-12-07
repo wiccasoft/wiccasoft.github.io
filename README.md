@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=NEmmswWU3KI bkz can yamanın odatv ye geçelim demesi -->
 <!-- https://odatv.com/yeni-dizide-can-yaman-krizi-06121941.html -->
 <!-- bkz 40 yaşından sonra ergenlerin hiç çekilmemesi -->
 <!-- bkz 94 lü kızların 30 luk erkeklere daha kolay vermesi -->
