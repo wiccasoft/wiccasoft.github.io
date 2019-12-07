@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=OFeJCJziVCk skirtel sorunsalı -->
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY vedat mürüç sorunsalı -->
 <!-- https://www.youtube.com/watch?v=kgc_47bnsyc bkz melo nun yine köpeklere sokması -->
 <!-- https://www.youtube.com/watch?v=5eBvWyoh_Cw bkz zor karar verilen anlar -->
