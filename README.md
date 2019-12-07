@@ -1,4 +1,5 @@
-<!--bkz can yamanın wiccasoftu kapatıp kaçması --<
+<!--bkz wiccasoft can yamanın mı süleyman soylunun mu sorunsalı -->
+<!--bkz can yamanın wiccasoftu kapatıp kaçması -->
 <!--bkz wiccasoft un iç işleri bakanlığı na bağlanması -->
 <!--bkz süleyman soylunun ayak kırın emri paylaşımı -->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk bu ney ahu ben mi kıram onu da -->
