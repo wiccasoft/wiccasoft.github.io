@@ -1,3 +1,4 @@
+<!-- -https://www.youtube.com/watch?v=GSgCcoo9Rws ayağı kırıla kellesi kesile -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
 <!--karaambarcılarsözlükçorg taki süleyman soylu kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
 <!--bkz süleyman soylunun ayaklarını kırın talimatı -->
