@@ -1,4 +1,5 @@
 <!-- bkz muslera vs alex  vs melo -->
+<!-- bkz 7 aralık 2019 davutoğlanın yeni partis sinyalleri yakması -->
 <!-- bkz durduk yere adamın amcığına koyan şarkılar https://www.youtube.com/watch?v=OIOqFBa7htQ -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun -->
 <!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-ile-akp-sava%C5%9Flar%C4%B1/&w=bg -->
