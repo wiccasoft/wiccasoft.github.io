@@ -1,4 +1,4 @@
-<!--bkz darbeli matkap can yaman https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
+<!--bkz filmin adı darbali matkap https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
 <!--bkz can yamanı seks kölesi yapıp paranın dibine vurmak -->
 <!--bkz can yaman çok seksi olduğu iddiaları -->
 <!--bkz can yaman la bi gece seks vs slin ciğerci ile bir gece seks -->
