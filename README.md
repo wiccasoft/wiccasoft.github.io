@@ -1,4 +1,4 @@
-<!-- karaambarcılarsözlükte dönen garip olaylar https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
+<!--karaambarcılarsözlükçorg taki süleyman soylu kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
 <!--bkz süleyman soylunun ayaklarını kırın talimatı -->
 <!--bkz diyanet ezan çalıştayının ellerini kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!--bkz süleyma soylunun uyuşmayanların ayaklarını kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
