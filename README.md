@@ -1,3 +1,5 @@
+
+<!--bkz can yaman  selin ciğerci iç işleri bakanlığı yerine wiccasoft u takip etmek -->
 <!--bkz wiccasoft can yamanın mı süleyman soylunun mu sorunsalı -->
 <!--bkz can yamanın wiccasoftu kapatıp kaçması -->
 <!--bkz wiccasoft un iç işleri bakanlığı na bağlanması -->
