@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ibb nin ezan vakitlerini değiştirmesi ->
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ibb nin ezan vakitlerini değiştirmesi -->
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
