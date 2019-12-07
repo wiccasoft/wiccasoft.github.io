@@ -1,3 +1,4 @@
+<!--bkz bi kamalcıya devletin resmi sitelerini sosyla medya hesaplarını takip etmesini öğretmek-->
 <!--bkz bi kamalcıya wiccasoft un tc iç işleri bakanlığı olmadığı anlatmak -->
 <!--bkz kamalcıların wiccasoft u tc cumhurbaşkanlığına bağlı devlet kurumu sanması olayı -->
 <!-- bkz tc iç işleri bakanlığını yaptığı ayak kırın emri paylaşımı -->
