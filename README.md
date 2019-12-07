@@ -1,3 +1,4 @@
+<!-- bkz doğu perinçek iin amacına emin adımlarla ilerlemesi http://vatanpartisi.org.tr/genel-merkez -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 <!-- bkz can yamanın selin ciğerci ile aşk iddalarını hala yalanlamaması -->
 <!-- bkz selin ciğercinin kerimcan durmaz la küsmesi -->
