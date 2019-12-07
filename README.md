@@ -1,5 +1,4 @@
 <!-- bkz muslera vs alex  vs melo -->
-<!-- bkz davutoğlunun ak itlerini amcığını dağıtacağı gerçeği -->
 <!-- bkz ak itlerin davutoğlanı görünce it gibi dağılması -->
 <!-- https://odatv.com/davutoglu-ekibine-katilan-unlu-is-adami-kim-07121911.html -->
 <!-- bkz 7 aralık 2019 davutoğlanın kulislerin amına koyacağım açıklaması -->
