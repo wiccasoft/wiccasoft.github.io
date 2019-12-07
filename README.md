@@ -1,5 +1,5 @@
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM imamoğlanın ezan vakitlerini değiştirmesi -->
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM akboyların laiklik kousunu alamaması-->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 
 
