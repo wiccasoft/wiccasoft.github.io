@@ -1,3 +1,4 @@
+<!-- bkz can yamanın ayak kırın talimatına uyması -->
 <!-- bkz meral akşenerin yediği ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
 <!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
 <!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
