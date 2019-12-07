@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/uyu%C5%9Fturucu-sat%C4%B1c%C4%B1s%C4%B1-g%C3%B6rd%C3%BC%C4%9F%C3%BCn%C3%BCz-zaman-aya%C4%9F%C4%B1n%C4%B1-k%C4%B1r%C4%B1n/ ben kıram bu yaştan sonra-->
 <!--bkz can yaman ın selin ciğerci ile aşk iddalarını yalanlamaması --->
 <!--bkz  selinciğercinin ilkokularkadaşları diye karaaambarcılarsözlüğü övmesi -->
 <!-- https://www.haberturk.com/selin-cigerci-kimdir-babasi-kimdir-selin-cigerci-nin-eski-halleri-2535174-magazin -->
