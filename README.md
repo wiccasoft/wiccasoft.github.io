@@ -1,3 +1,4 @@
+<!-- bkz aleyna tilkinin kapıyı tutan erkeklere zahafının olması -->
 <!-- bkz aleyna tilki can yaman ilişkisi -->
 <!-- bkz 94 lü kızlar can yaman ilşkisi -->
 <!-- bkz arabaya veren kızlar vs can yamana veren kızlar -->
