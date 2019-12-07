@@ -1,4 +1,4 @@
-<!-- bkz 20 lik ulucuların 40 lık dayılara tavsiye vermesi -->
+<!-- bkz 40 yaşından sonra ergenlein hiç çekilmemesi -->
 <!-- bkz 94 lü kızların 30 luk erkeklere daha kolay vermesi -->
 <!-- bkz 94 lü ulucu kız 91 li ekşici kız ilişkisi -->
 <!-- bkz aleyna tilkinin kapıyı tutan erkeklere zahafının olması -->
