@@ -1,4 +1,4 @@
-<!-- -https://www.youtube.com/watch?v=_z5LSGqYkk4&list=PUv-_BP9wl8LMGcNcjGnjaCQ&index=126 -->
+<!-- https://www.youtube.com/watch?v=8uFvi7ptsOY ne battı size meral hanım boru gibi talimat işte -->
 <!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
 <!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
