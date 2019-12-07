@@ -4,6 +4,7 @@
 <!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
+<!-- https://www.youtube.com/watch?v=0sE9xCDfuuU nerde kalmıştık -->
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
