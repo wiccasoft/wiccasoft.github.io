@@ -1,4 +1,4 @@
-<!--bkz imamaoğlunun karaambarcılar sözlüğe üye olması  https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
+<!--bkz rte nin karaambarcılar sözlüğe üye olması  https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
 <!--bkz kamalcı görünce gelen ayaklarını kırma isteği --> 
 <!--bkz kamalcıları mancınıkla kürdistana fırlatma projesi -->
 <!--bkz imamaoğlunun işpark hewallerini kamalcılara vermesi -->
