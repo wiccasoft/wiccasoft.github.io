@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/g%C3%BC%C3%A7l%C3%BC-erkek-mi-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-mi/&w=bg -->
 <!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
 <!-- https://stackoverflow.com/a/9049823 -->
 <!-- https://www.uludagsozluk.com/k/bayrampa%C5%9Fa-da-okulda-silahla-olay-%C3%A7%C4%B1karan-%C3%B6%C4%9Frenci/&w=gd -->
