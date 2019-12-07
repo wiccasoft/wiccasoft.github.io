@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=5eBvWyoh_Cw bkz zor karar verilen anlar -->
 <!-- bzk ben ferre vs messi vs johnny sins->
 <!-- bkz muslera vs alex  vs melo -->
 <!-- bkz ak itlerin davutoğlanı görünce it gibi dağılması -->
