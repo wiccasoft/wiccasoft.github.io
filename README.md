@@ -1,4 +1,4 @@
-<!-- bkz turkishmusic.org un webmaster ının sayfayı yenilemesi -->
+<!-- bkz turkishmusic.org un kavgalara engel olmak için engel ol butonu eklemesi -->
 <!-- bkz can yamanın ak parti saflarına geçmesi https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
 <!-- bkz meral akşenerin yediği efso ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
 <!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
