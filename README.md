@@ -2,15 +2,7 @@
 <!-- https://www.youtube.com/watch?v=uIBDomdpK7Y -->
 <!-- https://stackoverflow.com/a/9049823 https://www.youtube.com/watch?v=2RhaBv3vEao -->
 <!-- https://www.zen-cart.com/showthread.php?121221-Problems-with-displaying-Russian-characters-and-UTF-8 -->
-<!-- bkz karaambarcılarsözlükteki üye kayıt kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
-<!-- bkz turkishmusic.org un kavgalara engel olmak için engel ol butonu eklemesi -->
-<!-- bkz can yamanın ak parti saflarına geçmesi https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
-<!-- bkz meral akşenerin yediği efso ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
-<!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
-<!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
-<!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
-<!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
-<!-- https://www.youtube.com/watch?v=0sE9xCDfuuU nerde kalmıştık -->
+
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
