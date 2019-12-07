@@ -1,4 +1,4 @@
-<!--bkz selin ciğercininin kocasının selin ciğercinin götüne ayak parmağını sokması-->
+<!--bkz selin ciğerciğinin imamoğlunun oğluyka akşam yemeği yemesi -->
 <!--bkz selin ciğercinin babasının keşke can yamanı damat alsaydım çıkışı -->
 <!--bkz selin ciğercinin can yaman la aşk yaşadığı iddaları -->
 <!--bkz rte nin karaambarcılar sözlüğe üye olması  https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
