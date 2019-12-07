@@ -1,4 +1,4 @@
-
+<!-- bkz tc iç işleri bakanlığını yaptığı ayak kırın emri paylaşımı -->
 <!--bkz can yaman  selin ciğerci iç işleri bakanlığı yerine wiccasoft u takip etmek -->
 <!--bkz wiccasoft can yamanın mı süleyman soylunun mu sorunsalı -->
 <!--bkz can yamanın wiccasoftu kapatıp kaçması -->
