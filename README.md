@@ -1,3 +1,4 @@
+<!-- bkz can kan ın killa hakan ve ismail yk ile barışması -->
 <!--bkz selin ciğerciğinin imamoğlunun oğluyka akşam yemeği yemesi -->
 <!--bkz selin ciğercinin babasının keşke can yamanı damat alsaydım çıkışı -->
 <!--bkz selin ciğercinin can yaman la aşk yaşadığı iddaları -->
