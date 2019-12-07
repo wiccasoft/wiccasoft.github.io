@@ -1,4 +1,5 @@
 <!-- bkz muslera vs alex  vs melo -->
+<!-- bkz aklilerin davutoğlanı görünce it gibi kaçması -->
 <!-- https://odatv.com/davutoglu-ekibine-katilan-unlu-is-adami-kim-07121911.html -->
 <!-- bkz 7 aralık 2019 davutoğlanın kulislerin amına koyacağım açıklaması -->
 <!-- bkz durduk yere adamın amcığına koyan şarkılar https://www.youtube.com/watch?v=OIOqFBa7htQ -->
