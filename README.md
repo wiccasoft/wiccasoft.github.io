@@ -1,3 +1,4 @@
+<!-- bkz can yamanın selin ciğerci aşk iddalarını hala yalanlamaması -->
 <!-- bkz selin ciğercinin kerimcan durmaz la küsmesi -->
 <!-- https://www.internethaber.com/selin-cigerci-kimdir-futbolcu-kocasi-bakin-kim-dosta-dusmana-gosterdi-foto-galerisi-1861277.htm -->
 <!--bkz selin ciğercinin kocasının ayaklarını paylaşması -->
