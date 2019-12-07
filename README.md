@@ -1,4 +1,6 @@
-<!-- -https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk bu ney ahu ben mi kıram onu da -->
+
+<!--bkz süleyman soylunun ayak kırın emri -->
+<!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk bu ney ahu ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
 <!--karaambarcılarsözlükçorg taki süleyman soylu kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
 <!--bkz süleyman soylunun ayaklarını kırın talimatı -->
