@@ -1,4 +1,4 @@
-
+<!--bkz süleyman soylunun suçluların ayaklarını kırın emri -->
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
