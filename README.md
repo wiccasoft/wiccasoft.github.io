@@ -1,25 +1,4 @@
 
-<!-- bkz can yamanın yeni nesil kızlar çok tırt demesi -->
-<!-- https://www.youtube.com/watch?v=NEmmswWU3KI bkz can yamanın odatv ye geçelim demesi -->
-<!-- https://odatv.com/yeni-dizide-can-yaman-krizi-06121941.html -->
-<!-- bkz 40 yaşından sonra ergenlerin hiç çekilmemesi -->
-<!-- bkz 94 lü kızlar can yaman ilşkisi -->
-<!-- bkz arabaya veren kızlar vs can yamana veren kızlar -->
-<!-- bkz mehmet akif alakurt vs can yaman -->
-<!-- bkz can yaman vs turabi -->
-<!-- bkz can yaman vs kenan imirzalıoğlu -->
-<!-- bkz doğan görünümlü şahin -->
-<!-- bkz vedat mürüç vs can yaman -->
-<!-- bkz can yaman vs kılıçdaroğlu -->
-<!-- bkz yeni nesil kızların arabaya vermesi -->
-<!-- bkz can yaman vs tatlıtuğ vs özçivit vs bahoz erdal -->
-<!-- bkz can yaman vs özçivit https://www.youtube.com/watch?v=GvKcmdSEJLY --> 
-<!-- bkz cem garipoğlunun intihar etmesi https://www.youtube.com/watch?v=OPqV4ipyMsg -->
-<!-- bkz emre belezoğlunun kaliteyi yükseltmesi https://www.youtube.com/watch?v=CuZ_qIYJQcY -->
-<!-- bkz kapı benim kapım olduğundan problem yok https://www.youtube.com/watch?v=yARdqcVcPeI -->
-<!-- bkz kaçoğlu vs maçoğlu https://www.youtube.com/watch?v=yxXX9hu4YXE -->
-<!-- bkz playboy ekrem https://www.youtube.com/watch?v=GuJWBCqVUU0 -->
-
 [![Image](smartdata/Screenshot_2019-12-06_07-53-46.png)]( https://www.youtube.com/watch?v=LYZScAAbfns )
 
 [![Image](smartdata/Screenshot_2019-12-06_06-02-12.png)]( https://www.youtube.com/watch?v=6RwAWZtK5Uw )
