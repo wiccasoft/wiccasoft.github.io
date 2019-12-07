@@ -1,5 +1,6 @@
 <!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
 <!-- https://stackoverflow.com/a/9049823 -->
+<!-- https://www.uludagsozluk.com/k/bayrampa%C5%9Fa-da-okulda-silahla-olay-%C3%A7%C4%B1karan-%C3%B6%C4%9Frenci/&w=gd -->
 <!-- https://www.zen-cart.com/showthread.php?121221-Problems-with-displaying-Russian-characters-and-UTF-8 -->
 
 
