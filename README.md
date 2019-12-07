@@ -1,4 +1,6 @@
 <!-- bkz ak boyların noel ile yılbaşını karıştırması -->
+<!-- In 2019 the Northern Hemisphere's winter solstice – the shortest day of the year – falls on Sunday 22 December. It is the first time in four years that it hasn't fallen on 21 December, the solstice's most common date, although on rare occasion it can also occur on 20 or 23 December instead.3 days ago
+When is the winter solstice 2019? Shortest day of the year date -->
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM akboyların laiklik kokusunu alamaması-->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
