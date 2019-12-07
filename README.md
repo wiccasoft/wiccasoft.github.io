@@ -1,3 +1,4 @@
+<!--bkz imamaoğlunun işpark hewallerini kamalcılara vermesi -->
 <!--bkz kamalcı gördüğünüz zaman ayağınızı kırın -->
 <!--bkz yılbaşını ezan dinleyerek kutlayan kamalcılar https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!--bkz seli ciğerci can yaman aşkı iddaları -->
