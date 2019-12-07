@@ -1,31 +1,4 @@
-<!-- https://www.uludagsozluk.com/k/uyu%C5%9Fturucu-sat%C4%B1c%C4%B1s%C4%B1-g%C3%B6rd%C3%BC%C4%9F%C3%BCn%C3%BCz-zaman-aya%C4%9F%C4%B1n%C4%B1-k%C4%B1r%C4%B1n/ ben kıram bu yaştan sonra-->
-<!--bkz can yaman ın selin ciğerci ile aşk iddalarını yalanlamaması --->
-<!--bkz  selinciğercinin ilkokularkadaşları diye karaaambarcılarsözlüğü övmesi -->
-<!-- https://www.haberturk.com/selin-cigerci-kimdir-babasi-kimdir-selin-cigerci-nin-eski-halleri-2535174-magazin -->
-<!--bkz selin ciğercinin karaambarcılar sözlük dostluğu -->
-<!--bkz selin ciğercinin paylaştığı karaambarcılar sözlükteyim paylaşımı-->
-<!--bkz selinciğercinin karambarcılar sözlük yıllık reklam anlaşması -->
-<!--bkz selinciğercinin karaambarcılarsözlüğe başlık açsınlar diye parar vermesi -->
-<!--bkz karaambarsözlükçülerin selin ciğerciyle ilkokul arkadaşı çıkması -->
-<!--bkz arsız bela feat cankan deli ettin yar remix -->
-<!--bkz adana01 dizisi vs karaambarcılarsözlükteki veletler -->
-<!--bkz fetönün imamaoğlu projesi olduğu iddaları -->
-<!--bkz can kan ın killa hakan ve ismail yk ile barışması -->
-<!--bkz selin ciğerciğinin imamoğlunun oğluyka akşam yemeği yemesi -->
-<!--bkz selin ciğercinin babasının keşke can yamanı damat alsaydım çıkışı -->
-<!--bkz selin ciğercinin can yaman la aşk yaşadığı iddaları -->
-<!--bkz rte nin karaambarcılar sözlüğe üye olması  https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
-<!--bkz kamalcı görünce gelen ayaklarını kırma isteği --> 
-<!--bkz kamalcıları mancınıkla kürdistana fırlatma projesi -->
-<!--bkz imamaoğlunun işpark hewallerini kamalcılara vermesi -->
-<!--bkz kamalcı gördüğünüz zaman ayağınızı kırın -->
-<!--bkz yılbaşını ezan dinleyerek kutlayan kamalcılar https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!--bkz seli ciğerci can yaman aşkı iddaları -->
-<!--bkz filmin adı darbali matkap https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
-<!--bkz can yamanı seks kölesi yapıp paranın dibine vurmak -->
-<!--bkz can yaman çok seksi olduğu iddiaları -->
-<!--bkz can yaman la bi gece seks vs slin ciğerci ile bir gece seks -->
-<!--bkz selin ciğerci vs can yaman vs arnold vs arnold schwarzenegger -->
+
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
