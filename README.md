@@ -1,4 +1,4 @@
-
+<!-- bkz selin ciğercinin kocasının aykalarını paylaşması -->
 <!--https://www.uludagsozluk.com/e/42521728/ onu da ben mi kıram amk -->
 <!--bkz selin ciğerci can yaman aşkı iddaları -->
 <!--bkz süleyman soylunun suçluların ayaklarını kırın emri -->
