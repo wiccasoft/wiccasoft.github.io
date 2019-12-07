@@ -1,4 +1,4 @@
-<!--bkz masterchef yasin yemekteyiz hasan kavgası youtube videosu -->
+<!-- bkz masterchef yasin yemekteyiz hasan kavgası  -->
 <!-- bkz bahcelinin akp yi bitirme projesi 
 https://www.facebook.com/pg/milliyetcihareketpartisi/posts/?ref=page_internal -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun? -->
