@@ -1,4 +1,4 @@
-<!-- bkz karaambarcılarsözlükteki üye kayıt kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4
+<!-- bkz karaambarcılarsözlükteki üye kayıt kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
 <!-- bkz turkishmusic.org un kavgalara engel olmak için engel ol butonu eklemesi -->
 <!-- bkz can yamanın ak parti saflarına geçmesi https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
 <!-- bkz meral akşenerin yediği efso ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
