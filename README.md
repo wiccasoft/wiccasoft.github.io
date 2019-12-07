@@ -1,3 +1,4 @@
+<!--bkz can yaman ın selin ciğerci ile aşk iddalarını yalanlamaması --->
 <!--bkz  selinciğercinin ilkokularkadaşları diye karaaambarcılarsözlüğü övmesi -->
 <!-- https://www.haberturk.com/selin-cigerci-kimdir-babasi-kimdir-selin-cigerci-nin-eski-halleri-2535174-magazin -->
 <!--bkz selin ciğercinin karaambarcılar sözlük dostluğu -->
