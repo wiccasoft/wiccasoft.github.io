@@ -1,5 +1,4 @@
-
-<!--bkz selin ciğerci erkek hali vs karaambarcılarsözlükçüler -->
+<!--bkz karaambarsözlükçülerin selin ciğerciyle ilkokul arkadaşı çıkması -->
 <!--bkz arsız bela feat cankan deli ettin yar remix -->
 <!--bkz adana01 dizisi vs karaambarcılarsözlükteki veletler -->
 <!--bkz fetönün imamaoğlu projesi olduğu iddaları -->
