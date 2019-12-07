@@ -1,6 +1,6 @@
 <!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
 <!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
-<!-- https://www.youtube.com/watch?v=GSgCcoo9Rws ayaklarını kırın amk ben mi kıram onu da -->
+<!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
 <!--bkz diyanet ezan çalıştayının ellerini kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!--bkz süleyma soylunun uyuşmayanların ayaklarını kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
