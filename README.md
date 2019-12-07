@@ -1,3 +1,4 @@
+<!--bkz sagopanın cankan la düeti -->
 <!--bkz adana01 dizisi vs karaambarcılarsözlükteki veletler -->
 <!--bkz fetönün imamaoğlu projesi olduğu iddaları -->
 <!--bkz can kan ın killa hakan ve ismail yk ile barışması -->
