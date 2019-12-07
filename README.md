@@ -1,3 +1,4 @@
+<!--bkz selin ciğerci can yaman aşkı iddaları -->
 <!--bkz süleyman soylunun suçluların ayaklarını kırın emri -->
 <!--bkz selin ciğercinin kocasının ayaklarını kırması -->
 
