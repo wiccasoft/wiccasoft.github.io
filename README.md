@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ibb nin ezan vakitlerini değiştirmesi -->
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM imamaoğlanın ezan vakitlerini değiştirmesi -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->,
 <!--bkz uludaki ergen zombilerin güldürmesi -->
 
