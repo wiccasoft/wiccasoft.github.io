@@ -1,4 +1,4 @@
-<!-- bzk fernondo muslera vs messi -->
+<!-- bzk ben ferre vs messi vs johnny sins->
 <!-- bkz muslera vs alex  vs melo -->
 <!-- bkz ak itlerin davutoğlanı görünce it gibi dağılması -->
 <!-- https://odatv.com/davutoglu-ekibine-katilan-unlu-is-adami-kim-07121911.html -->
