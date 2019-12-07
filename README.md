@@ -1,4 +1,4 @@
-<!--bkz yılbaşında ezan dinleyen kamalcılar https://www.youtube.com/watch?v=EfAsNffCjsM -->
+<!--bkz yılbaşını ezan dinleyerek kutlayan kamalcılar https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!--bkz seli ciğerci can yaman aşkı iddaları -->
 <!--bkz filmin adı darbali matkap https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
 <!--bkz can yamanı seks kölesi yapıp paranın dibine vurmak -->
