@@ -1,3 +1,4 @@
+<!--bkz süleyman soylunun ayaklarını kırın talimatı -->
 <!--bkz diyanet ezan çalıştayının ellerini kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!--bkz süleyma soylunun uyuşmayanların ayaklarını kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!--bkz karambarcılarsözlükteki yemekteyiz hasan kavgası https://www.youtube.com/watch?v=EfAsNffCjsM -->
