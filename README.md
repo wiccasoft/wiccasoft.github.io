@@ -1,4 +1,5 @@
 <!-- bkz muslera vs alex  vs melo -->
+<!-- https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg bkz amınasokarım -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun -->
 <!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-ile-akp-sava%C5%9Flar%C4%B1/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/g%C3%BC%C3%A7l%C3%BC-erkek-mi-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-mi/&w=bg -->
