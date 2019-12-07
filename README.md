@@ -1,5 +1,5 @@
 
-<!--bkz süleyman soylunun ayak kırın emri -->
+<!--bkz süleyman soylunun ayak kırın emri resmi gazete paylaşımı -->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk bu ney ahu ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
 <!--karaambarcılarsözlükçorg taki süleyman soylu kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
