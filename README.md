@@ -1,24 +1,8 @@
-<!-- bkz meral akşenerin ayak kırın talimatına göt olması -->
-<!-- https://www.youtube.com/watch?v=8uFvi7ptsOY ne battı size meral hanım boru gibi talimat işte -->
+<!-- bkz meral akşenerin yediği ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
 <!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
 <!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
-<!--bkz diyanet ezan çalıştayının ellerini kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
-<!-- bkz bahcelinin akp yi bitirme projesi 
-https://www.facebook.com/pg/milliyetcihareketpartisi/posts/?ref=page_internal -->
-<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun? -->
-<!-- https://www.youtube.com/watch?v=agNEuSy1aqA resul dindar düeti -->
-<!-- bkz doğu perinçek in amacına emin adımlarla ilerlemesi http://vatanpartisi.org.tr/genel-merkez -->
-<!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
-<!-- bkz can yamanın selin ciğerci ile aşk iddalarını hala yalanlamaması -->
-<!-- bkz selin ciğercinin kerimcan durmaz la küsmesi -->
-<!-- https://www.internethaber.com/selin-cigerci-kimdir-futbolcu-kocasi-bakin-kim-dosta-dusmana-gosterdi-foto-galerisi-1861277.htm -->
-<!--bkz selin ciğercinin kocasının ayaklarını paylaşması -->
-<!--https://www.uludagsozluk.com/e/42521728/ onu da ben mi kıram amk -->
-<!--bkz selin ciğerci can yaman aşkı iddaları -->
-<!--bkz süleyman soylunun suçluların ayaklarını kırın emri -->
-<!--bkz imamoğlunun fetö nün suyunu kesmesi -->
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
