@@ -1,4 +1,4 @@
-
+<!--bkz wiccasoft un iç işleri bakanlığı na bağlanması -->
 <!--bkz süleyman soylunun ayak kırın emri paylaşımı -->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk bu ney ahu ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
