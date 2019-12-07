@@ -1,4 +1,4 @@
-
+<!--bkz cankaanın gözlüksüz hali -->
 <!--bkz sagopanın cankan la düeti -->
 <!--bkz selin ciğerci sagopa aşk iddaları -->
 <!--bkz adana01 dizisi vs karaambarcılarsözlükteki veletler -->
