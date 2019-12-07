@@ -1,3 +1,4 @@
+<!--bkz bi kamalcıya wiccasoft un iç işleri bakanlığı olmadığı anlatmak -->
 <!--bkz kamalcıların wiccasoft u tc cumhurbaşkanlığına bağlı devlet kurumu sanması olayı -->
 <!-- bkz tc iç işleri bakanlığını yaptığı ayak kırın emri paylaşımı -->
 <!--bkz can yaman  selin ciğerci iç işleri bakanlığı yerine wiccasoft u takip etmek -->
