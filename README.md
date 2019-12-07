@@ -1,16 +1,6 @@
-<!--bkz bi kamalcıya devletin resmi sitelerini sosyla medya hesaplarını takip etmesini öğretmek-->
-<!--bkz bi kamalcıya wiccasoft un tc iç işleri bakanlığı olmadığı anlatmak -->
-<!--bkz kamalcıların wiccasoft u tc cumhurbaşkanlığına bağlı devlet kurumu sanması olayı -->
-<!-- bkz tc iç işleri bakanlığını yaptığı ayak kırın emri paylaşımı -->
-<!--bkz can yaman  selin ciğerci iç işleri bakanlığı yerine wiccasoft u takip etmek -->
-<!--bkz wiccasoft can yamanın mı süleyman soylunun mu sorunsalı -->
-<!--bkz can yamanın wiccasoftu kapatıp kaçması -->
-<!--bkz wiccasoft un iç işleri bakanlığı na bağlanması -->
-<!--bkz süleyman soylunun ayak kırın emri paylaşımı -->
+
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk bu ney ahu ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
-<!--karaambarcılarsözlükçorg taki süleyman soylu kavgası https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
-<!--bkz süleyman soylunun ayaklarını kırın talimatı -->
 <!--bkz diyanet ezan çalıştayının ellerini kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!--bkz süleyma soylunun uyuşmayanların ayaklarını kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!--bkz karambarcılarsözlükteki yemekteyiz hasan kavgası https://www.youtube.com/watch?v=EfAsNffCjsM -->
