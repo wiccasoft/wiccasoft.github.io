@@ -1,4 +1,4 @@
-
+<!--https://www.uludagsozluk.com/e/42521728/ ayaklarını kırın onu da ben mi kıram amk -->
 <!--bkz selin ciğerci can yaman aşkı iddaları -->
 <!--bkz süleyman soylunun suçluların ayaklarını kırın emri -->
 <!--bkz imamoğlunun fetö nün suyunu kesmesi -->
