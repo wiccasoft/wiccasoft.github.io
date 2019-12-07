@@ -1,5 +1,5 @@
 <!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
-<!-- https://stackoverflow.com/a/9049823 https://www.youtube.com/watch?v=uIBDomdpK7Y -->
+<!-- https://stackoverflow.com/a/9049823 -->
 <!-- https://www.zen-cart.com/showthread.php?121221-Problems-with-displaying-Russian-characters-and-UTF-8 -->
 
 
