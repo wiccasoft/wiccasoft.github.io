@@ -3,9 +3,6 @@
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
 <!-- https://www.uludagsozluk.com/e/42521728/ ben mi kıram amk-->
 <!--bkz diyanet ezan çalıştayının ellerini kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
-<!--bkz süleyma soylunun uyuşmayanların ayaklarını kırın talimatı  https://www.youtube.com/watch?v=EfAsNffCjsM  -->
-<!--bkz karambarcılarsözlükteki yemekteyiz hasan kavgası https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- bkz masterchef yasin yemekteyiz hasan kavgası  -->
 <!-- bkz bahcelinin akp yi bitirme projesi 
 https://www.facebook.com/pg/milliyetcihareketpartisi/posts/?ref=page_internal -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun? -->
