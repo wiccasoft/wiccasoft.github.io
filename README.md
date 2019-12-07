@@ -1,3 +1,4 @@
+<!--bkz seli ciğerci can yaman aşkı iddaları -->
 <!--bkz filmin adı darbali matkap https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
 <!--bkz can yamanı seks kölesi yapıp paranın dibine vurmak -->
 <!--bkz can yaman çok seksi olduğu iddiaları -->
