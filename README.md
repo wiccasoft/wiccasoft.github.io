@@ -1,3 +1,4 @@
+<!--bkz kamalcı görünce gelen ayaklarını kırma isteği --> 
 <!--bkz kamalcıları mancınıkla kürdistana fırlatma projesi -->
 <!--bkz imamaoğlunun işpark hewallerini kamalcılara vermesi -->
 <!--bkz kamalcı gördüğünüz zaman ayağınızı kırın -->
