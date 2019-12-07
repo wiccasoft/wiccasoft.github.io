@@ -1,4 +1,4 @@
-<!-- bkz ak boyların noel le yılbaşını karıştırması -->
+<!-- bkz ak boyların noel ile yılbaşını karıştırması -->
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM akboyların laiklik kokusunu alamaması-->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
