@@ -1,3 +1,4 @@
+<!--bkz selinciğercinin karaambarcılarsözlüğe başlık açsınlar diye parar vermesi -->
 <!--bkz karaambarsözlükçülerin selin ciğerciyle ilkokul arkadaşı çıkması -->
 <!--bkz arsız bela feat cankan deli ettin yar remix -->
 <!--bkz adana01 dizisi vs karaambarcılarsözlükteki veletler -->
