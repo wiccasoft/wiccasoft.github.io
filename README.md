@@ -1,6 +1,6 @@
-<!--bkz selin ciğercinin kerimcan durmaz la küsmesi -->
+<!-- bkz selin ciğercinin kerimcan durmaz la küsmesi -->
 <!-- https://www.internethaber.com/selin-cigerci-kimdir-futbolcu-kocasi-bakin-kim-dosta-dusmana-gosterdi-foto-galerisi-1861277.htm -->
-<!--bkz selin ciğercinin kocasının aykalarını paylaşması -->
+<!--bkz selin ciğercinin kocasının ayaklarını paylaşması -->
 <!--https://www.uludagsozluk.com/e/42521728/ onu da ben mi kıram amk -->
 <!--bkz selin ciğerci can yaman aşkı iddaları -->
 <!--bkz süleyman soylunun suçluların ayaklarını kırın emri -->
