@@ -3,7 +3,6 @@
 When is the winter solstice 2019? Shortest day of the year date -->
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var -->
 <!-- bkz akboy taklidi yapan kamalcılar vs  kamalcı taklidi yapan akboylar -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM akboyların laiklik kokusunu alamaması-->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 
 
