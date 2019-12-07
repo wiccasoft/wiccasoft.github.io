@@ -1,6 +1,7 @@
+<!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM imamaoğlanın ezan vakitlerini değiştirmesi -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->,
-<!--bkz uludaki ergen zombilerin güldürmesi -->
+
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
