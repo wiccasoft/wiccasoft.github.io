@@ -1,3 +1,4 @@
+<!--bkz karambarcılarsözlükteki yemekteyiz hasan kavgası-->
 <!-- bkz masterchef yasin yemekteyiz hasan kavgası  -->
 <!-- bkz bahcelinin akp yi bitirme projesi 
 https://www.facebook.com/pg/milliyetcihareketpartisi/posts/?ref=page_internal -->
