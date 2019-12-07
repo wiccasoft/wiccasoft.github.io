@@ -1,8 +1,6 @@
-<!-- bkz 40 yaşından sonra ergenlein hiç çekilmemesi -->
+<!-- bkz 40 yaşından sonra ergenlerin hiç çekilmemesi -->
 <!-- bkz 94 lü kızların 30 luk erkeklere daha kolay vermesi -->
 <!-- bkz 94 lü ulucu kız 91 li ekşici kız ilişkisi -->
-<!-- bkz aleyna tilkinin kapıyı tutan erkeklere zahafının olması -->
-<!-- bkz aleyna tilki can yaman ilişkisi -->
 <!-- bkz 94 lü kızlar can yaman ilşkisi -->
 <!-- bkz arabaya veren kızlar vs can yamana veren kızlar -->
 <!-- bkz mehmet akif alakurt vs can yaman -->
