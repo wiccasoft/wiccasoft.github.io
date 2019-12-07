@@ -2,7 +2,7 @@
 https://www.facebook.com/pg/milliyetcihareketpartisi/posts/?ref=page_internal -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun? -->
 <!-- https://www.youtube.com/watch?v=agNEuSy1aqA resul dindar düeti -->
-<!-- bkz doğu perinçek iin amacına emin adımlarla ilerlemesi http://vatanpartisi.org.tr/genel-merkez -->
+<!-- bkz doğu perinçek in amacına emin adımlarla ilerlemesi http://vatanpartisi.org.tr/genel-merkez -->
 <!-- https://www.uludagsozluk.com/e/42518975/ aleynacılar hadi bunu da açıklayın -->
 <!-- bkz can yamanın selin ciğerci ile aşk iddalarını hala yalanlamaması -->
 <!-- bkz selin ciğercinin kerimcan durmaz la küsmesi -->
