@@ -2,8 +2,6 @@
 <!-- https://www.youtube.com/watch?v=NEmmswWU3KI bkz can yamanın odatv ye geçelim demesi -->
 <!-- https://odatv.com/yeni-dizide-can-yaman-krizi-06121941.html -->
 <!-- bkz 40 yaşından sonra ergenlerin hiç çekilmemesi -->
-<!-- bkz 94 lü kızların 30 luk erkeklere daha kolay vermesi -->
-<!-- bkz 94 lü ulucu kız 91 li ekşici kız ilişkisi -->
 <!-- bkz 94 lü kızlar can yaman ilşkisi -->
 <!-- bkz arabaya veren kızlar vs can yamana veren kızlar -->
 <!-- bkz mehmet akif alakurt vs can yaman -->
