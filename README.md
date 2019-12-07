@@ -1,4 +1,5 @@
-<!-- bkz bahcelinin akp yi bitirme projesi -->
+<!-- bkz bahcelinin akp yi bitirme projesi 
+https://www.facebook.com/pg/milliyetcihareketpartisi/posts/?ref=page_internal -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun? -->
 <!-- https://www.youtube.com/watch?v=agNEuSy1aqA resul dindar düeti -->
 <!-- bkz doğu perinçek iin amacına emin adımlarla ilerlemesi http://vatanpartisi.org.tr/genel-merkez -->
