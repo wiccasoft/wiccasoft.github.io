@@ -1,5 +1,5 @@
 <!-- bkz can yamanın ak parti saflarına geçmesi https://www.youtube.com/watch?v=a3TTFSWFaA8 -->
-<!-- bkz meral akşenerin yediği ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
+<!-- bkz meral akşenerin yediği efso ayar https://www.youtube.com/watch?v=8uFvi7ptsOY  -->
 <!-- bkz 7 aralık 2019 süleyman soylunun ayakları kırın talimatını vermesi -->
 <!-- bkz 6 aralık 2019 bahçelinin akp nin ayak kırma talimatına sıcak bakması-->
 <!-- https://www.youtube.com/watch?v=GSgCcoo9Rws kırın amk ben mi kıram onu da -->
