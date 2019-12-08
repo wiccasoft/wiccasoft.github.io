@@ -1,7 +1,7 @@
 <!-- 
 bkz bir top kek size bir saray bana
 bkz bir futbolcu size bir saray bana
-https://www.uludagsozluk.com/e/42527585/ adam loser beyler biz entry girmeye devam edelim boşverin
+https://www.uludagsozluk.com/e/42527585/ adam loser beyler durmak yok yola devam
 https://eksisozluk.com/arda-kardesler--4475914?a=popular
 https://eksisozluk.com/jeremain-lens--1935794?a=popular
 https://eksisozluk.com/umut-nayir--4037721?a=popular 
