@@ -1,5 +1,5 @@
 <!-- bkz fena şirk dönen ülkeler -->
-<!--bkz acele etme papaz efendinin fetöyü bir bir ifşa etmesi -->
+<!-- bkz acele etme papaz efendinin gavat fetöcü kardeşeri bir bir ifşa etmesi -->
 <!-- https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-karde%C5%9F-ve-damatlardan-habersiz-akp-liler/ -->
 <!-- bkz türk oğlu türk olup camiler kışlamız minariler süngümüz diyen diyen türkçü -->
 <!-- bkz türk doğrdum türk ölürüm diyen kürt -->
