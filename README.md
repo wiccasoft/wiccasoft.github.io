@@ -3,43 +3,12 @@
 <!-- bkz ulugaylerin alakavatlar gibi kafa sikmesi -->
 <!-- bkz can yaman ın ulugayleri siklememesi -->
 <!-- bkz çağatay ulusoyun gavatlara verdiği ayar -->
-<!-- https://www.uludagsozluk.com/k/can-yaman/&w=bg bkz gaylerin yeni fenomeni -->
-<!-- https://www.uludagsozluk.com/k/%C3%A7a%C4%9Fatay-ulusoy-un-can-yaman-a-verdi%C4%9Fi-ayar/ -->
-<!--bkz ekrem imamaoğlunun davutoğluna swinger ilişki teklif etmesi -->
 <!-- bkz beyler herkeş hoşlandığı gavata saldırsın -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=bg bkz kavatçı başı -->
+<!-- bkz one flew over the cuckold -->
 <!-- bkz karısını kızını ala gavat evlerine yollamış akp li --> 
 <!-- https://www.uludagsozluk.com/e/42525962/ adam kavat zaten beyler -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ kavat yardırıyo beyler -->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-k%C4%B1z%C4%B1n%C4%B1-fet%C3%B6-evlerine-g%C3%B6ndermi%C5%9F-ak-partili/&w=bg
-<!--https://www.uludagsozluk.com/k/adolf-hitler-in-iyi-bir-insan-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
-<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1klar%C4%B1-alt-alta-okumak/&w=bg bkz kavatları alt alta okumak -->
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-k%C4%B1z%C4%B1n%C4%B1-fet%C3%B6-evlerine-g%C3%B6ndermi%C5%9F-ak-partili/&w=bg saldırın beyler kavat ölmemeiş -->
-<!-- https://www.uludagsozluk.com/k/can-yaman/&w=gd beyler ben can yaman entry giriyurom siz kavata saldırın -->
-<!-- https://www.youtube.com/watch?v=4jb59zq5Kgk adam kavat zaten beyler -->
-<!-- https://www.uludagsozluk.com/e/42525962/ adam kavat zaten beyler -->
 <!-- bkz kayınçoyu kuk olda götürmek https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
-<!-- bkz atatürk ün  türk önde türk ileri demesi -->
-<!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bir kuk old enişteyi köşede sıkıştırıp yalamak -->
-<!-- https://www.uludagsozluk.com/e/42525940/ bkz gavat haklı beyler -->
-<!-- https://www.uludagsozluk.com/k/swinger/&w=bg bkz kuk old vs swingerold -->
-<!-- https://www.uludagsozluk.com/k/erkeklerin-ho%C5%9Flanma-belirtileri/&w=bg bkz kukold olması -->
-<!-- https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg bkz uzak durulması gereken cuckold erkekler -->
-<!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bkz enişte baldan tatlıdır -->
-<!-- https://www.uludagsozluk.com/e/42525921/ bkz eniştem niye beni öptü -->
-<!-- https://www.uludagsozluk.com/e/42525876/ bkz ak boyun özüne dönmesi -->
-<!-- https://www.uludagsozluk.com/e/42525892/ bkz annesini alışveriş sitesinde gören ala gavatın oğlu -->
-<!-- https://www.uludagsozluk.com/e/42525851/ ha şunu bileydin kamalcı gavat -->
-<!-- bkz mısıroğlunun ala gavatların açığını bulması -->
-<!-- bkz adam zaten ala gavat beyler https://www.youtube.com/watch?v=BcQKsQ5NY7I -->
-<!-- https://www.uludagsozluk.com/e/42525773/ ala gavat haklı beyler -->
-<!-- https://www.uludagsozluk.com/e/42515469/ bkz hitler benim ala gavatım -->
-<!-- bkz bir kukold diğer kukolda gel kukları kukoldlayalım demiş -->
-<!-- bkz alexa istatistiklerine göre türklerin en çok cuckold aratması -->
-<!-- https://www.uludagsozluk.com/k/cuckold/&w=bg  bkz one flew over the cuckold -->
-<!-- https://www.uludagsozluk.com/e/42524760/ adam zaten kukold beyler -->
-<!-- https://www.uludagsozluk.com/e/42525647/ bkz içinde gezdirmiş beyler-->
-<!-- https://www.uludagsozluk.com/e/42525703/ bkz kamalcıların ala gavatlara savaş açması -->
 
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://github.com/mathiasbynens/windows-1251 that's what i've been lookin' for -->
