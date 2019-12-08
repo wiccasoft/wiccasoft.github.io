@@ -1,6 +1,6 @@
 <!-- 
-https://github.com/danmactough/node-feedparser/issues/129
 bkz floating witchcraft after life  https://www.youtube.com/watch?v=k-T7vGdH_ek
+https://github.com/danmactough/node-feedparser/issues/129
 bkz floating witchcraft https://www.youtube.com/watch?v=01SXLx0MOTs 
 request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
