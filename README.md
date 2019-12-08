@@ -1,48 +1,5 @@
-<!--bkz acele etme papaz efendinin fedöcüleri bir bir tespit etmesi -->
-<!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz acele etme fedöcü efendi -->
-<!-- https://www.uludagsozluk.com/e/42525589/ bkz fedöcü olduğu belli kardeşler -->
-<!-- bkz fena şirk dönen ülkeler -->
-<!-- bkz hitlerin tv de islamçok güzel gelsene falan demesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- bkz hitlerin zorla islamı yayma projesi -->
-<!-- bkz pkk lı cesedlerin ak gezenleri tehdit etmesi -->
-<!-- bkz ergenlerin kafa sikmesi --->
-<!-- https://www.uludagsozluk.com/e/42526378/ bkz akboyun her türk müslüman doğar demesi -->
-<!-- bkz hitlerin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- https://www.uludagsozluk.com/e/42525589/ bkz karısını kızını kavat evlerine yollayan kavatov kardeşler -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ bkz her türk müslüman doğar -->
-<!-- https://www.uludagsozluk.com/e/42525647/ bkz yall bana hep üstad der -->
-<!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 azi petrus aşkına neden acaba -->
 
-<!-- bkz fedöcü cesetlerine uygulanan işkence https://www.youtube.com/watch?v=EfAsNffCjsM  -->
-<!-- bkz acele etme papaz efendinin istediğini fedöcü gavat ilan etmesi olayı -->
-<!-- bkz acele etme papaz efendinin akp ümraniye il başkanı çıkması -->
-<!-- bkz acele etme papaz efendinin fetöcü kardeşleri ve damdı bir bir ifşa etmesi -->
-<!-- https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-karde%C5%9F-ve-damatlardan-habersiz-akp-liler/ -->
-<!-- bkz karısını kızını apo evlerine yollamış pkklı -->
-<!-- bkz acele etme ala papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
-<!-- https://www.uludagsozluk.com/k/b%C3%BClent-ecevit-ve-fetullah-g%C3%BClen-a%C5%9Fk%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ kara kafa ne diyon amk-->
-<!-- https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-ben-mi-k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-mu-diyen-erkek/&w=bg -->
-<!-- bkz kamalcılarla ak boyların baya baya hayallerde yaşması -->
-<!-- bkz türklerin neye taptıklarını dahi bilmemesi https://www.youtube.com/watch?v=EfAsNffCjsM  -->
-<!-- https://www.uludagsozluk.com/k/hz-yakup/&w=bg bkz türklerin araplara yahudilere hazreti demesi-->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arapça bilmeyi islamı kötülemeyen tipler -->
-<!-- bkz macun gavat değil tamam mı diyen kamalcı -->
-<!-- bkz atayızlar atatürkçü yse atatürkçüler atayız mı oluyo sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ateist-olmas%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ala kavatları kudurtan -->
-<!-- https://www.uludagsozluk.com/k/yav%C5%9Fak-ahmet-denince-ilk-akla-gelen-ahmet/&w=bg bkz hangi ahmet la bu -->
-<!-- https://www.uludagsozluk.com/k/zeybek-oynayan-semazen-atat%C3%BCrk-heykeli/ bkz ala renkli kavat -->
-<!-- https://www.uludagsozluk.com/k/chp-li-belediyenin-yapt%C4%B1%C4%9F%C4%B1-renkli-atat%C3%BCrk-heykeli/ -->
-<!-- https://www.uludagsozluk.com/k/gerilla-analar%C4%B1n%C4%B1n-%C3%B6n%C3%BCnde-sayg%C4%B1-ile-e%C4%9Filiyorum/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-b%C3%BCstlerinin-okullardan-fazla-olmas%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/yav%C5%9Fak-ahmet-denince-ilk-akla-gelen-ahmet/&w=bg bkz alla hangi ahmet bu -->
-<!-- https://www.uludagsozluk.com/k/akp-li-olmak-istiyorum-ne-yapmal%C4%B1y%C4%B1m/&w=gd bkz beyler bi el atın -->
-<!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla niye acaba -->
-<!-- bkz acele etme ala papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
-<!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs hitler vs rte -->
 <!-- https://toster.ru/q/353548 ура -->
-<!-- https://www.youtube.com/watch?v=RHBoMuNszuk tam benlik -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
 <!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
 <!--https://helperbyte.com/questions/257624/how-to-convert-encoding-from-windows1251-to-utf8-in-nodejs -->
