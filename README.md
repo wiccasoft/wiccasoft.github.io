@@ -1,5 +1,6 @@
 <!-- bkz fena şirk dönen ülkeler -->
 <!-- bkz kayyum un ne olduğunu bilmeyen türkler -->
+<!-- https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-ben-mi-k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-mu-diyen-erkek/&w=bg -->
 <!-- bkz kamalcılarla ak boyların baya baya hayallerde yaşması -->
 <!-- bkz türklerin neye taptıklarını dahi bilmemesi https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!-- https://www.uludagsozluk.com/k/hz-yakup/&w=bg bkz türklerin araplara yahudilere hazreti demesi-->
