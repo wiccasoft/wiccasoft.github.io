@@ -1,5 +1,6 @@
 
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.npmjs.com/package/iconv-lite -->
 <!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
 <!--https://helperbyte.com/questions/257624/how-to-convert-encoding-from-windows1251-to-utf8-in-nodejs -->
 <!-- https://github.com/mathiasbynens/windows-1251 that's what i've been lookin' for -->
