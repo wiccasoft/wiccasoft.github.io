@@ -1,25 +1,4 @@
 <!-- 
-bkz bir top kek size bir saray bana
-bkz bir futbolcu size bir saray bana
-bkz siysal islam düğünleri vs siyasal ak futbol
-bkz siyasal islam  düğünleri yüzünden siyasal islamcı koca bulmak için gafasını örten kız
-https://www.uludagsozluk.com/k/koca-bulmak-i%C3%A7in-ba%C5%9F%C4%B1n%C4%B1-kapatan-k%C4%B1z/&w=bg
-beyler akşama hagi mi alex mi tartışması yapalım https://www.youtube.com/watch?v=9sPHaPhBhzU
-beyler ben umut nayıra entry giriyorum takla atan fransıza girin
-https://www.uludagsozluk.com/k/simon-kjaer/&w=bg olm biz buna kaç para saydık hala mı hasta
-https://eksisozluk.com/jeremain-lens--1935794?a=popular abi bunu satsan başa bela satmasan ne bilem ya
-https://www.uludagsozluk.com/e/42527585/ adam loser beyler durmak yok yola devam
-https://eksisozluk.com/arda-kardesler--4475914?a=popular
-https://eksisozluk.com/jeremain-lens--1935794?a=popular
-https://eksisozluk.com/umut-nayir--4037721?a=popular 
-https://www.uludagsozluk.com/k/abdullah-avc%C4%B1-n%C4%B1n-gene-son-hafta-tak%C4%B1lacak-olmas%C4%B1/
-bkz ulucuların uzay gemileri vs ekşicilerin uzay gemileri
-https://eksisozluk.com/8-aralik-2019-kasimpasa-besiktas-maci--6160475?a=popular bkz anlatılmaz yaşanır
-https://eksisozluk.com/yazarlarin-uzay-gemilerine-koyacagi-isim--6274837?a=popular
-bkz sabah akşam entry gireceğinize çalışsaydınız kod yazsaydınız genşler
-https://www.uludagsozluk.com/k/seni-saraylarda-ya%C5%9Fatacam-emine/&w=bg
-walla genşler ben kendim için saray yaptırıyorum zombilerden izole insan gibi bi yaşam için :)))
-https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı zombiler 
 https://cyber.harvard.edu/404 what the fuck 
 https://www.youtube.com/watch?v=VXmohPX9zuE
 request({url,encoding:null}, function(error, response, body){
