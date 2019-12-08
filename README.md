@@ -1,4 +1,4 @@
-
+<!-- https://www.uludagsozluk.com/e/42525589/ bkz fedöcü olduğu belli kardeşler -->
 <!-- bkz fena şirk dönen ülkeler -->
 <!-- bkz hitlerin tv de islamçok güzel gelsene falan demesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz hitlerin zorla islamı yayma projesi -->
