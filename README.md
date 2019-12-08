@@ -1,4 +1,5 @@
 <!-- 
+bkz ekşicilerin fenerli futbolculara daha bi övgülü yazılar yazması
 bkz ekşide falcao hakkında girilen entryler vs umut nayır hakkında girilen entrler
 bkz counter strike global defence oynarken annesini çağıran velet
 bkz baş örtülü siyasal islamcı bacılarımız saldırılarına karşı feminiklerin sessiz kalması 
