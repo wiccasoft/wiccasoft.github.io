@@ -1,4 +1,5 @@
 <!-- 
+bkz ekşide falcao hakkında girilen entryler vs umut nayır hakkında girilen entrler
 bkz counter strike global defence oynarken annesini çağıran velet
 bkz baş örtülü siyasal islamcı bacılarımız saldırılarına karşı feminiklerin sessiz kalması 
 https://cyber.harvard.edu/404 what the fuck 
