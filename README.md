@@ -1,5 +1,5 @@
 <!-- 
-bkz kadınlı erkekli seks haramdır
+bkz kadınlı erkekli seks haramdır şaka sanıyolar amk yasak ettiğim olay evet
 bkz cinsel ilişki bütün kötülüklerin anasıdır
 bkz cinsel ilişkili seks sevmeyen erkek
 bkz cinsel ilşkili seks teklif edilen kızın erkek çıkması
