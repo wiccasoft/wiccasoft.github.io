@@ -1,4 +1,4 @@
-<!-- bkz en yakışıklı siyasetçi kim sorunsalı -->
+<!-- bkz en yakışıklı lider kim sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/adolf-hitler/ bkz çıktı açık alınla -->
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte nin ala kavatlara döşediği ceyhan boru hattı -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ala kavatları kudurtan -->
