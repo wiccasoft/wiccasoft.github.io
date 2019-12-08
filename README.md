@@ -1,4 +1,5 @@
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- bkz tayyibini türklere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz feödcü cesetlerine uygulanan işkence https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!-- bkz annesini bacısını karısını kızını  fetö evlerine yollamış hdpli -->
 <!-- bkz acele etme papaz efendinin gavat fetöcü kardeşeri bir bir ifşa etmesi -->
