@@ -1,4 +1,5 @@
 <!-- 
+bkz melo başlığına entry girerken yine kekeldin bizi keranacı yazmak
 bkz one flew over cuckold yani kuku sunun üstünde yeller esiyo
 https://www.uludagsozluk.com/e/42527748/ bkz karıyı cuckold başlığına sokmak
 bkz kürt islam zenteziyle yoğrulmuş bir türkçü ak futbolcu olmak
