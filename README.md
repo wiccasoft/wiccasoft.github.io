@@ -1,5 +1,4 @@
-<!-- bkz ata türk ün ata cı atayız olması -->
-<!-- bkz atatürk ün türk önde türk ileri demesi -->
+
 <!-- bkz atayızlar atatürkçü yse atatürkçüler atayız mı oluyo sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ateist-olmas%C4%B1/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ala kavatları kudurtan -->
