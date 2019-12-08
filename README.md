@@ -1,5 +1,6 @@
 
 <!-- https://toster.ru/q/353548 ура -->
+<!-- bkz karısını kızını ala gavat evlerine yollamış akp li --> 
 <!-- https://www.uludagsozluk.com/e/42525962/ adam kavat zaten beyler -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ kavat yardırıyo beyler -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-k%C4%B1z%C4%B1n%C4%B1-fet%C3%B6-evlerine-g%C3%B6ndermi%C5%9F-ak-partili/&w=bg
