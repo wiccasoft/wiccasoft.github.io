@@ -1,6 +1,7 @@
 <!-- 
 bkz bir top kek size bir saray bana
 bkz bir futbolcu size bir saray bana
+beyler ben umut nayıra entry giriyorum takla atan fransıza girin
 https://www.uludagsozluk.com/k/simon-kjaer/&w=bg olm biz buna kaç para saydık hala mı hasta
 https://eksisozluk.com/jeremain-lens--1935794?a=popular abi bunu satsan başa bela satmasan ne bilem ya
 https://www.uludagsozluk.com/e/42527585/ adam loser beyler durmak yok yola devam
