@@ -7,7 +7,7 @@ request({url,encoding:null}, function(error, response, body){
 });,
 https://github.com/danmactough/node-feedparser/blob/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce/examples/iconv.js
 -->
-<!-- https://toster.ru/q/353548 ура -->
+<!-- https://toster.ru/q/353548 -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
 <!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
 <!--https://helperbyte.com/questions/257624/how-to-convert-encoding-from-windows1251-to-utf8-in-nodejs -->
