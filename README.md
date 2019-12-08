@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=H0760kGB-vw imam hatipli merve ve şeytan -->
 <!-- bkz atatürkün diyaneti kurma sebebi https://www.youtube.com/watch?v=S-m1WImjqsE -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz türk olup islamı kötülemeyen kitle -->
 <!-- https://toster.ru/q/353548 ура -->
