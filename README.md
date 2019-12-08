@@ -1,4 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.uludagsozluk.com/k/can-yaman/&w=gd beyler ben can yaman entry giriyurom siz kavata saldırın -->
 <!-- https://www.youtube.com/watch?v=4jb59zq5Kgk adam kavat zaten beyler -->
 <!-- https://www.uludagsozluk.com/e/42525962/ adam kavat zaten beyler -->
 <!-- bkz kayınçoyu kuk olda götürmek https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
