@@ -1,9 +1,9 @@
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla niye acaba -->
+<!--bkz acele etme papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
 <!-- https://www.youtube.com/watch?v=OFeJCJziVCk bkz alakavatların pazarları daha bi coşması -->
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi https://www.youtube.com/watch?v=RHBoMuNszuk -->
 <!-- bkz karısını kızını kavatevlerine yollamış kaleci muslera -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1-k%C4%B1skanan-s%C3%B6zl%C3%BCk-obezleri/ -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-tarihinin-en-iyi-cumhurba%C5%9Fkanlar%C4%B1/&w=bg
 <!-- https://www.uludagsozluk.com/k/adolf-hitler-in-iyi-bir-insan-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
 <!-- bkz karısını kızını trendyolda satan ala gavat -->
 
