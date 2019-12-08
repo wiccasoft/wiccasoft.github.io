@@ -1,4 +1,6 @@
+
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- https://www.uludagsozluk.com/e/42525647/ bkz yall bana hep üstad der -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla neden acaba -->
 <!-- bkz tayyibin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz fedöcü cesetlerine uygulanan işkence https://www.youtube.com/watch?v=EfAsNffCjsM  -->
