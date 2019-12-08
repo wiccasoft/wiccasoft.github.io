@@ -1,4 +1,5 @@
 <!-- 
+https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacunu yisinler gari
 https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz lahmacun yiyin gari
 https://www.youtube.com/watch?v=HlY1eDlWwAw
 https://www.youtube.com/watch?v=9sPHaPhBhzU
