@@ -1,5 +1,5 @@
 
-
+<!-- bkz karısını kızını trednyolda satan ala gavat -->
 <!-- bkz ulugaylerin alakavatlar gibi kafa sikmesi -->
 <!-- bkz can yaman ın ulugayleri siklememesi -->
 <!-- bkz çağatay ulusoyun gavatlara verdiği ayar -->
