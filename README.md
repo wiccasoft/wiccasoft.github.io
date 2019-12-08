@@ -1,32 +1,4 @@
 <!-- 
-bkz uludaki oç ları vs ekşideki oç ları
-bkz deep turkish webteki ergenlerin baya baya iğrenç tipler olması
-bkz umut nayıra entry girereken heyacan yapan şişko ekşici
-bkz zenci olup türk islam sentezini kötüleyen tip
-bkz ekşicilerin futbolcular okuyomuşcasına hunharca entry  girmesi bkz güldüren olay evet
-bkz ekşide futbolculara sayfalarca aşk mektubu yazan ergenler
-bkz melo başlığına entry girerken yine kekeldin bizi keranacı yazmak
-bkz one flew over cuckold yani kuku sunun üstünde yeller esiyo
-https://www.uludagsozluk.com/e/42527748/ bkz karıyı cuckold başlığına sokmak
-bkz kürt islam zenteziyle yoğrulmuş bir türkçü ak futbolcu olmak
-bkz küğrt olup islamı camileri ezanı çok seven kürt
-bkz umut nayıra entry girerken  okuyomuş gibi girmek
-bkz umut nayır başlığına sevdim seni be tosunum yazmak
-bkz türk olup beyaz futbolu kötüleyen tip
-bkz başörtülü bacıların üstüne işenmesine ses etmeyen rte
-bkz başörtülü bacıların katledilmesine ses etmeyen feminik rte
-bkz reisin ak futbola kazandırdığı yenilikler
-bkz başörtülü bacıları öldüren kamalcılar
-bkz başörtlü cinayetlerinin artmasına ses etmeyen kamalcı gavatlar
-https://eksisozluk.com/umut-nayir--4037721?a=popular bkz olm bunu satmayalım walla yenir lan bu
-https://eksisozluk.com/8-aralik-2019-kasimpasa-besiktas-maci--6160475?a=popular
-https://www.uludagsozluk.com/k/8-aral%C4%B1k-2019-kas%C4%B1mpa%C5%9Fa-be%C5%9Fikta%C5%9F-ma%C3%A7%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ bkz ne mutlu islamım diyene
-https://www.uludagsozluk.com/k/daniel-sturridge/&w=bg bkz ekşicilerin uğramadığı sakat
-bkz ekşicilerin fenerli futbolculara daha bi övgülü yazılar yazması
-bkz ekşide falcao hakkında girilen entryler vs umut nayır hakkında girilen entrler
-bkz counter strike global defence oynarken annesini çağıran velet
-bkz baş örtülü siyasal islamcı bacılarımız saldırılarına karşı feminiklerin sessiz kalması 
 https://cyber.harvard.edu/404 what the fuck 
 https://www.youtube.com/watch?v=VXmohPX9zuE
 request({url,encoding:null}, function(error, response, body){
