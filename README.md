@@ -1,5 +1,6 @@
 
 <!-- https://toster.ru/q/353548 ура -->
+<!--https://helperbyte.com/questions/257624/how-to-convert-encoding-from-windows1251-to-utf8-in-nodejs -->
 <!-- https://github.com/mathiasbynens/windows-1251 that's what i've been lookin' for -->
 <!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
 <!-- https://stackoverflow.com/a/9049823 -->
