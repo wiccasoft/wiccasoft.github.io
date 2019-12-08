@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arap olup islamı kötüleyen tip -->
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arap olup islamı kötülemeyen tipler -->
 <!-- bkz acun gavat değil tamam mı diyen kamalcı -->
 <!-- bkz ece seçkin in ben seçilmem seçerim şarkısı -->
 <!-- bkz damarlarda asil kürt kanı taşımanın verdiği gurur -->
