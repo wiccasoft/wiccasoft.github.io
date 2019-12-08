@@ -1,4 +1,5 @@
 <!-- 
+bkz kürt islam zenteziyle yoğrulmuş bir türkçü ak futbolcu olmak
 bkz küğrt olup islamı camileri ezanı çok seven kürt
 bkz umut nayıra entry girerken  okuyomuş gibi girmek
 bkz umut nayır başlığına sevdim seni be tosunum yazmak
