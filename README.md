@@ -1,4 +1,5 @@
 <!-- 
+bkz ekşicilerin uzay gemileri vs floating witchcraft
 bkz türkler internetin virusleri mi sorunsalı
 bkz hepimiz aynı gemide değiliz yahu dert etmeyin 
 bkz floatin witchcraft  https://www.youtube.com/watch?v=k-T7vGdH_ek
