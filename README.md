@@ -1,5 +1,6 @@
 <!-- 
-bkz kadınlı erkekli seks haramdır şaka sanıyolar amk yasak ettiğim olay evet ademle havva yı niye kovduk cennetten
+bkz kadınlı erkekli seks haramdır
+bkz ademle havva yı niye kovduk cennetten
 bkz cinsel ilişki bütün kötülüklerin anasıdır
 bkz cinsel ilişkili seks sevmeyen erkek
 bkz cinsel ilşkili seks teklif edilen kızın erkek çıkması
