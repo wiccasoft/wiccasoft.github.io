@@ -2,15 +2,9 @@
 <!-- bkz tayyibin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz fedöcü cesetlerine uygulanan işkence https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!-- bkz acele papaz etme papaz efendinin istediğini fedöcü gavat ilan etmesi olayı -->
-<!-- bkz annesini bacısını karısını kızını  fetö evlerine yollamış hdpli -->
+<!--bkz acelet etmem papaz efendinin akp ümraniye il başkanı çıkması -->
 <!-- bkz acele etme papaz efendinin fetöcü kardeşleri ve damdı bir bir ifşa etmesi -->
 <!-- https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-karde%C5%9F-ve-damatlardan-habersiz-akp-liler/ -->
-<!-- bkz türk oğlu türk olup camiler kışlamız minariler süngümüz diyen diyen türkçü -->
-<!-- bkz türk doğrdum türk ölürüm diyen kürt -->
-<!-- bkz atakürt ün kürtçü deist olması -->
-<!-- bkz atatürk vs atarus vs atabelarus -->
-<!-- bkz kayyum un ne olduğunu bilmeyen türkler -->
-<!-- bkz aşkım ben mi can yaman mı diyen erkek -->
 <!-- bkz karısını kızını apo evlerine yollamış pkklı -->
 <!-- bkz acele etme ala papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
 <!-- https://www.uludagsozluk.com/k/b%C3%BClent-ecevit-ve-fetullah-g%C3%BClen-a%C5%9Fk%C4%B1/&w=bg -->
