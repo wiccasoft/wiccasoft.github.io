@@ -1,5 +1,6 @@
 <!-- https://toster.ru/q/353548 ура -->
 <!-- bkz atatürk ün  türk önde türk ileri demesi -->
+<!-- https://www.uludagsozluk.com/e/42525940/ bkz gavat haklı beyler -->
 <!-- https://www.uludagsozluk.com/k/swinger/&w=bg bkz kuk old vs swingerold -->
 <!-- https://www.uludagsozluk.com/k/erkeklerin-ho%C5%9Flanma-belirtileri/&w=bg bkz kukold olması -->
 <!-- https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg bkz uzak durulması gereken cuckold erkekler -->
