@@ -1,11 +1,12 @@
 
 <!-- bkz fena şirk dönen ülkeler -->
-<!-- bkz hitlerin zorla islamı yayam projesi -->
+<!-- bkz hitlerin zorla islamı yayma projesi -->
+<!-- bkz tayyibin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- https://www.uludagsozluk.com/e/42525589/ bkz karısını kızını kavat evlerine yollayan kavatov kardeşler -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ bkz her türk müslüman doğar -->
 <!-- https://www.uludagsozluk.com/e/42525647/ bkz yall bana hep üstad der -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 azi petrus aşkına neden acaba -->
-<!-- bkz tayyibin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
+
 <!-- bkz fedöcü cesetlerine uygulanan işkence https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!-- bkz acele etme papaz efendinin istediğini fedöcü gavat ilan etmesi olayı -->
 <!-- bkz acele etme papaz efendinin akp ümraniye il başkanı çıkması -->
