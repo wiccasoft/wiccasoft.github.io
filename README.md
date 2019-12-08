@@ -1,6 +1,6 @@
 <!-- 
 bkz uludaki oç ları vs ekşideki oç ları
-bkz deep turkish webteki ergenlerin baya baya iğrenç olması
+bkz deep turkish webteki ergenlerin baya baya iğrenç tipler olması
 bkz umut nayıra entry girereken heyacan yapan şişko ekşici
 bkz zenci olup türk islam sentezini kötüleyen tip
 bkz ekşicilerin futbolcular okuyomuşcasına hunharca entry  girmesi
