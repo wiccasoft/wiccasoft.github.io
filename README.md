@@ -1,6 +1,5 @@
 
 <!-- https://toster.ru/q/353548 ура -->
-<!--bkz bu devirde gavat olmayan adam bulmak zor diyen chpli -->
 <!-- bkz beyler herkeş hoşlandığı gavata saldırsın -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=bg bkz kavatçı başı -->
 <!-- bkz karısını kızını ala gavat evlerine yollamış akp li --> 
