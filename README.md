@@ -1,5 +1,5 @@
 <!-- 
-bkz türkleri amerikan sosyal medyasına hapsedip keyf yapmak
+bkz türklerin internetin virusleri mi sorunsalı
 bkz hepimiz aynı gemide değiliz yahu dert etmeyin 
 bkz floatin witchcraft  https://www.youtube.com/watch?v=k-T7vGdH_ek
 https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun yiyebilisiniz yiyin gari
