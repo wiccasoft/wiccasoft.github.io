@@ -1,5 +1,5 @@
 <!-- 
-bkz başörtülü bacıların katledilmesine ses etmeyen rte
+bkz başörtülü bacıların katledilmesine ses etmeyen feminik rte
 bkz reisin ak futbola kazandırdığı yenilikler
 bkz başörtülü bacıları öldüren kamalcılar
 bkz başörtlü cinayetlerinin artmasına ses etmeyen kamalcı gavatlar
