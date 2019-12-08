@@ -1,5 +1,5 @@
 
-<!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs  hitler vs rte -->
+<!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs hitler vs rte -->
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk tam benlik -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
