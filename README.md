@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz cinsel seks ney lan
 https://www.uludagsozluk.com/k/ismail-yk-%C5%9Fu-an-ne-yap%C4%B1yor/ bkz yoksa zurnamıyım hee
 https://github.com/nodejs/node-v0.x-archive/issues/2190 lol
 bkz floating witchcraft after life  https://www.youtube.com/watch?v=k-T7vGdH_ek
