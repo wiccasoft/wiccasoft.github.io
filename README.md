@@ -1,4 +1,8 @@
-
+<!-- request({url,encoding:null}, function(error, response, body){
+		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
+        console.log(body.toString()); // кракозябры: ура ура ура
+});,
+-->
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
 <!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
