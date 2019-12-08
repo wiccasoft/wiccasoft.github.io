@@ -2,6 +2,7 @@
 <!-- bkz fena şirk dönen ülkeler -->
 <!-- bkz hitlerin zorla islamı yayma projesi -->
 <!-- bkz pkk lı cesedlerin ak gezenleri tehdit etmesi -->
+<!-- bkz ergenlerin kafa sikmesi --->
 <!-- https://www.uludagsozluk.com/e/42526378/ bkz akboyun her türk müslüman doğar demesi -->
 <!-- bkz hitlerin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- https://www.uludagsozluk.com/e/42525589/ bkz karısını kızını kavat evlerine yollayan kavatov kardeşler -->
