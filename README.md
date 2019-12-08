@@ -1,5 +1,6 @@
 <!-- 
 bkz kadınlı erkekli seks haramdır yoksa hala ibret almaz mısınız
+https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
 bkz ademle havva yı niye kovduk cennetten sığır sürüsü yahu
 bkz cinsel ilişki bütün kötülüklerin anasıdır
 bkz sene olmuş 2020 hala cinsel ilişkili seks yapanlar var 
