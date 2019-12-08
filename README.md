@@ -1,3 +1,5 @@
+
+<!-- https://www.uludagsozluk.com/e/42526791/ beyler -->
 <!-- bkz acele etme papaz efendinin fedöcüleri bir bir tespit etmesi -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz acele etme fedöcü efendi -->
 <!-- bkz acele etme ala papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
