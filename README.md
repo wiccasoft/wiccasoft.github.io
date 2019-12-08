@@ -1,5 +1,6 @@
 
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz pkk cesedlerine yapılan işkence -->
 <!-- bkz hitlerin zorla islamı yayma projesi -->
 <!-- bkz hitlerin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- https://www.uludagsozluk.com/e/42525589/ bkz karısını kızını kavat evlerine yollayan kavatov kardeşler -->
