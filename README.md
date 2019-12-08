@@ -1,4 +1,5 @@
 <!-- 
+bkz skrtel vs smom kjaer 
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı zombiler 
 https://cyber.harvard.edu/404 what the fuck 
 https://www.youtube.com/watch?v=VXmohPX9zuE
