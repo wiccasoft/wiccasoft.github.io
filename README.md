@@ -2,7 +2,7 @@
 
 <!-- bkz acele etme papaz efendinin fedöcüleri bir bir tespit etmesi -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz acele etme fedöcü efendi -->
-<!-- bkz acele etme ala papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
+<!-- bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 azi petrus aşkına neden acaba -->
 
 <!-- https://toster.ru/q/353548 ура -->
