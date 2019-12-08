@@ -1,5 +1,5 @@
 <!-- 
-bkz türklerin internetin virusleri olmaları
+bkz türkler rahat olun size göre değil floatin witchcraft
 bkz hepimiz aynı gemide değiliz yahu dert etmeyin 
 bkz floatin witchcraft  https://www.youtube.com/watch?v=k-T7vGdH_ek
 https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun yiyebilisiniz yiyin gari
