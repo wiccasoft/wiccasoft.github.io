@@ -1,6 +1,6 @@
 <!-- 
+bkz umut nayıra entry girerken  okuyomuş gibi girmek
 bkz umut nayır başlığına sevdim seni be tosunum yazmak
-bkz umut nayır nolamaz yapma diyen tip
 bkz türk olup beyaz futbolu kötüleyen tip
 bkz başörtülü bacıların üstüne işenmesine ses etmeyen rte
 bkz başörtülü bacıların katledilmesine ses etmeyen feminik rte
