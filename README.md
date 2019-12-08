@@ -1,6 +1,5 @@
 <!-- 
-bkz skrtel vs smom kjaer 
- bkz bir top kek size bir saray bana
+bkz bir top kek size bir saray bana
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı zombiler 
 https://cyber.harvard.edu/404 what the fuck 
 https://www.youtube.com/watch?v=VXmohPX9zuE
