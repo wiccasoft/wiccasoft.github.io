@@ -1,4 +1,6 @@
-<!-- request({url,encoding:null}, function(error, response, body){
+<!-- 
+https://cyber.harvard.edu/404 what the fuck
+request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
         console.log(body.toString()); // кракозябры: ура ура ура
 });,
