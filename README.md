@@ -3,7 +3,7 @@ bkz uludaki oç ları vs ekşideki oç ları
 bkz deep turkish webteki ergenlerin baya baya iğrenç tipler olması
 bkz umut nayıra entry girereken heyacan yapan şişko ekşici
 bkz zenci olup türk islam sentezini kötüleyen tip
-bkz ekşicilerin futbolcular okuyomuşcasına hunharca entry  girmesi
+bkz ekşicilerin futbolcular okuyomuşcasına hunharca entry  girmesi bkz güldüren olay evet
 bkz ekşide futbolculara sayfalarca aşk mektubu yazan ergenler
 bkz melo başlığına entry girerken yine kekeldin bizi keranacı yazmak
 bkz one flew over cuckold yani kuku sunun üstünde yeller esiyo
