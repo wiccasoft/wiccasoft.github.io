@@ -1,4 +1,5 @@
 <!-- 
+https://github.com/danmactough/node-feedparser/issues/129
 bkz floating witchcraft after life  https://www.youtube.com/watch?v=k-T7vGdH_ek
 bkz floating witchcraft https://www.youtube.com/watch?v=01SXLx0MOTs 
 request({url,encoding:null}, function(error, response, body){
