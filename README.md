@@ -1,3 +1,4 @@
+<!-- https://www.uludagsozluk.com/k/yav%C5%9Fak-ahmet-denince-ilk-akla-gelen-ahmet/&w=bg bkz alla hangi ahmet bu -->
 <!-- https://www.uludagsozluk.com/k/akp-li-olmak-istiyorum-ne-yapmal%C4%B1y%C4%B1m/&w=gd bkz beyler bi el atın -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla niye acaba -->
 <!-- bkz acele etme ala papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
