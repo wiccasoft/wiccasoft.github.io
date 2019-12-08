@@ -1,4 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.uludagsozluk.com/e/42525892/ bkz annesini alışverisş sitesinde gören ala gavat -->
 <!-- https://www.uludagsozluk.com/e/42525851/ ha şunu bileydin kamalcı gavat -->
 <!-- bkz mısıroğlunun ala gavatların açığını bulması -->
 <!-- bkz adam zaten ala gavat beyler https://www.youtube.com/watch?v=BcQKsQ5NY7I -->
