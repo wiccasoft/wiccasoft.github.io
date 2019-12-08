@@ -1,9 +1,3 @@
-<!-- https://www.uludagsozluk.com/k/adres-sorma-bahanesiyle-k%C4%B1za-penis-g%C3%B6stermek/ -->
-<!-- https://www.uludagsozluk.com/e/42526791/ bkkz tanınmayna kızın gulağuna yalarun demek -->
-<!-- bkz acele etme papaz efendinin fedöcüleri bir bir tespit etmesi -->
-<!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz acele etme fedöcü efendi -->
-<!-- bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
-<!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 azi petrus aşkına neden acaba -->
 
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
