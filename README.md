@@ -1,4 +1,5 @@
 <!-- 
+bkz türk olup beyaz futbolu kötüleyen tip
 bkz başörtülü bacıların üstüne işenmesine ses etmeyen rte
 bkz başörtülü bacıların katledilmesine ses etmeyen feminik rte
 bkz reisin ak futbola kazandırdığı yenilikler
