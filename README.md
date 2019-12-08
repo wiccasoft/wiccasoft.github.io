@@ -1,4 +1,4 @@
-<!-- bkz atatürkün diyaneti kurma sebebi https://www.youtube.com/watch?v=EfAsNffCjsM -->
+<!-- bkz atatürkün diyaneti kurma sebebi https://www.youtube.com/watch?v=S-m1WImjqsE -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz türk olup islamı kötülemeyen kitle -->
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
