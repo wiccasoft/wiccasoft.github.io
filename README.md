@@ -1,4 +1,5 @@
 <!-- 
+bkz reisin ak futbola kazandırdığı yenilikler
 https://eksisozluk.com/umut-nayir--4037721?a=popular bkz olm bunu satmayalım walla yenir lan bu
 https://eksisozluk.com/8-aralik-2019-kasimpasa-besiktas-maci--6160475?a=popular
 https://www.uludagsozluk.com/k/8-aral%C4%B1k-2019-kas%C4%B1mpa%C5%9Fa-be%C5%9Fikta%C5%9F-ma%C3%A7%C4%B1/&w=bg
