@@ -1,6 +1,5 @@
 <!-- https://www.uludagsozluk.com/k/adolf-hitler-in-iyi-bir-insan-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
-<!-- kavatı tranddyolda satan karısı kızı -->
-<!-- bkz karısını kızını trednyolda satan ala gavat -->
+<!-- bkz karısını kızını trendyolda satan ala gavat -->
 <!-- bkz ulugaylerin alakavatlar gibi kafa sikmesi -->
 <!-- bkz can yaman ın ulugayleri siklememesi -->
 <!-- bkz çağatay ulusoyun gavatlara verdiği ayar -->
