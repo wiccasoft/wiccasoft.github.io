@@ -1,10 +1,4 @@
-<!-- https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar -->
-<!-- https://www.youtube.com/watch?v=C9pzkemBmMM şeytanın hilesi içki -->
-<!-- https://www.youtube.com/watch?v=PYg7mylbM0c camiler kışlamız minareler süngü -->
-<!-- https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri -->
-<!-- https://www.youtube.com/watch?v=H0760kGB-vw imam hatipli merve ve şeytan -->
-<!-- bkz atatürkün diyaneti kurma sebebi https://www.youtube.com/watch?v=S-m1WImjqsE -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz türk olup islamı kötülemeyen kitle -->
+
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
 <!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
