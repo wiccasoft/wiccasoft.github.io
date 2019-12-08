@@ -1,4 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
+<!-- bkz kayınçoyu kuk olda götürmek https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 <!-- bkz atatürk ün  türk önde türk ileri demesi -->
 <!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bir kuk old enişteyi köşede sıkıştırıp yalamak -->
 <!-- https://www.uludagsozluk.com/e/42525940/ bkz gavat haklı beyler -->
