@@ -1,3 +1,4 @@
+<!--bkz ece erken vs ece seçkin -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arap olup islamı kötülemeyen tipler -->
 <!-- bkz acun gavat değil tamam mı diyen kamalcı -->
 <!-- bkz ece seçkin in ben seçilmem seçerim şarkısı -->
