@@ -1,4 +1,5 @@
 <!--bkz ece erken vs ece seçkin -->
+<!-- https://www.uludagsozluk.com/k/hz-yakup/&w=bg bkz cuck old -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arap olup islamı kötülemeyen tipler -->
 <!-- bkz acun gavat değil tamam mı diyen kamalcı -->
 <!-- bkz ece seçkin in ben seçilmem seçerim şarkısı -->
