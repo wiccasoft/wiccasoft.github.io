@@ -1,6 +1,6 @@
 
 
-<!--bkz gaylerin kavat gibi kafa sikmesi -->
+<!-- bkz ulugaylerin alakavatlar gibi kafa sikmesi -->
 <!-- bkz can yaman ın ulugayleri siklememesi -->
 <!-- bkz çağatay ulusoyun gavatlara verdiği ayar -->
 <!-- https://www.uludagsozluk.com/k/can-yaman/&w=bg bkz gaylerin yeni fenomeni -->
