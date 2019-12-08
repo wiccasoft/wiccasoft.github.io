@@ -1,4 +1,5 @@
 <!--bkz ece erken vs ece seçkin -->
+<!--bkz türklerin araplara yahudilere hazreti demesi -->
 <!-- https://www.uludagsozluk.com/k/hz-yakup/&w=bg bkz cuck old -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arap olup islamı kötülemeyen tipler -->
 <!-- bkz acun gavat değil tamam mı diyen kamalcı -->
