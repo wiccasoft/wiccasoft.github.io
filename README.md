@@ -1,6 +1,6 @@
 <!-- 
 bkz türklerin internetin virusleri olmaları
-bkz hepimiz aynı gemide değiliz yahu dert etmeyin türkleri almayacağım içeriye
+bkz hepimiz aynı gemide değiliz yahu dert etmeyin 
 bkz floatin witchcraft  https://www.youtube.com/watch?v=k-T7vGdH_ek
 https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun yiyebilisiniz yiyin gari
 https://www.youtube.com/watch?v=OFeJCJziVCk lahmacun yiyin ete para vermeyin
