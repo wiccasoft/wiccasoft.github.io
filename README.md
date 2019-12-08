@@ -1,4 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.uludagsozluk.com/e/42525773/ ala gavat haklı beyler -->
 <!-- https://www.uludagsozluk.com/e/42515469/ bkz hitler benim ala gavatım -->
 <!-- bkz bir kukold diğer kukolda gel kukları kukoldlayalım demiş -->
 <!-- bkz alexa istatistiklerine göre türklerin en çok cuckold aratması -->
