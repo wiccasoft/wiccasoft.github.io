@@ -1,5 +1,5 @@
 <!-- bkz fena şirk dönen ülkeler -->
-<!-- bkz türk oğlu türk olup camiler kışlamız diyen diyen türkçü -->
+<!-- bkz türk oğlu türk olup camiler kışlamız minariler süngümüz diyen diyen türkçü -->
 <!-- bkz türk doğrdum türk ölürüm diyen kürt -->
 <!-- bkz atakürt ün kürtçü deist olması -->
 <!-- bkz atatürk vs atarus vs atabelarus -->
