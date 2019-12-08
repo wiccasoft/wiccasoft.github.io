@@ -1,6 +1,7 @@
 <!-- 
 bkz bir top kek size bir saray bana
 bkz bir futbolcu size bir saray bana
+bkz entry gireceğinize çalışsaydınız kod yazsaydınız genşler
 https://www.uludagsozluk.com/k/seni-saraylarda-ya%C5%9Fatacam-emine/&w=bg
 walla genşler ben kendim için saray yaptırıyorum zombilerden izole insan gibi bi yaşam için :)))
 https://www.uludagsozluk.com/ bkz hayallerde yaşıyor bazı zombiler 
