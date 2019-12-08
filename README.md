@@ -1,6 +1,6 @@
 <!-- 
 https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun yiyebilisiniz yiyin gari
-https://www.youtube.com/watch?v=OFeJCJziVCk adana kebap
+https://www.youtube.com/watch?v=OFeJCJziVCk lahmacun yiyin ete para vermeyin
 request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
         console.log(body.toString()); // кракозябры: ура ура ура
