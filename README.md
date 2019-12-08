@@ -1,4 +1,5 @@
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ala kavatları kudurtan --<
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ala kavatları kudurtan -->
+<!-- https://www.uludagsozluk.com/k/yav%C5%9Fak-ahmet-denince-ilk-akla-gelen-ahmet/&w=bg bkz hangi ahmet la bu -->
 <!-- https://www.uludagsozluk.com/k/zeybek-oynayan-semazen-atat%C3%BCrk-heykeli/ bkz ala renkli kavat -->
 <!-- https://www.uludagsozluk.com/k/chp-li-belediyenin-yapt%C4%B1%C4%9F%C4%B1-renkli-atat%C3%BCrk-heykeli/ -->
 <!-- https://www.uludagsozluk.com/k/gerilla-analar%C4%B1n%C4%B1n-%C3%B6n%C3%BCnde-sayg%C4%B1-ile-e%C4%9Filiyorum/&w=bg -->
