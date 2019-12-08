@@ -1,4 +1,5 @@
 <!-- bkz fena şirk dönen ülkeler -->
+<!--bkz tü,rk doğrdum türk ölürüm diyen kürt -->
 <!-- bkz atakürt ün kürtçü deist olması -->
 <!-- bkz atatürk vs atarus vs atabelarus -->
 <!-- bkz kayyum un ne olduğunu bilmeyen türkler -->
