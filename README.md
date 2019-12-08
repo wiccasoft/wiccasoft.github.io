@@ -2,6 +2,7 @@
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
         console.log(body.toString()); // кракозябры: ура ура ура
 });,
+https://github.com/danmactough/node-feedparser/blob/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce/examples/iconv.js
 -->
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
