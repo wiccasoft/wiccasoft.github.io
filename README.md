@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ bkz ne mutlu islamım diyene
 https://www.uludagsozluk.com/k/daniel-sturridge/&w=bg bkz ekşicilerin uğramadığı sakat
 bkz ekşicilerin fenerli futbolculara daha bi övgülü yazılar yazması
 bkz ekşide falcao hakkında girilen entryler vs umut nayır hakkında girilen entrler
