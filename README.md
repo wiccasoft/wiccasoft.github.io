@@ -1,3 +1,5 @@
+<!--bkz acele etme papaz efendinin fedöcüleri bir bir tespit etmesi -->
+<!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz acele etme fedöcü efendi -->
 <!-- https://www.uludagsozluk.com/e/42525589/ bkz fedöcü olduğu belli kardeşler -->
 <!-- bkz fena şirk dönen ülkeler -->
 <!-- bkz hitlerin tv de islamçok güzel gelsene falan demesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
