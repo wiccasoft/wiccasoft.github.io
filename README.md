@@ -1,19 +1,6 @@
-<!-- https://www.youtube.com/watch?v=OFeJCJziVCk skirtel sorunsalı -->
-<!-- https://www.youtube.com/watch?v=s3BGryfktXY vedat mürüç sorunsalı -->
-<!-- https://www.youtube.com/watch?v=kgc_47bnsyc bkz melo nun yine köpeklere sokması -->
-<!-- https://www.youtube.com/watch?v=5eBvWyoh_Cw bkz zor karar verilen anlar -->
-<!-- bzk ben ferre vs messi vs johnny sins->
-<!-- bkz muslera vs alex  vs melo https://www.youtube.com/watch?v=Qkuu0Lwb5EM-->
-<!-- bkz ak itlerin davutoğlanı görünce it gibi dağılması -->
-<!-- https://odatv.com/davutoglu-ekibine-katilan-unlu-is-adami-kim-07121911.html -->
-<!-- bkz 7 aralık 2019 davutoğlanın kulislerin amına koyacağım açıklaması -->
-<!-- bkz durduk yere adamın amcığına koyan şarkılar https://www.youtube.com/watch?v=OIOqFBa7htQ -->
-<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın yok musun -->
-<!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-ile-akp-sava%C5%9Flar%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/g%C3%BC%C3%A7l%C3%BC-erkek-mi-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-mi/&w=bg -->
+
 <!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
 <!-- https://stackoverflow.com/a/9049823 -->
-<!-- https://www.uludagsozluk.com/k/bayrampa%C5%9Fa-da-okulda-silahla-olay-%C3%A7%C4%B1karan-%C3%B6%C4%9Frenci/&w=gd -->
 <!-- https://www.zen-cart.com/showthread.php?121221-Problems-with-displaying-Russian-characters-and-UTF-8 -->
 
 
