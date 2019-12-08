@@ -1,20 +1,3 @@
-<!-- bkz kamalcıların(alakavatlar) baya baya akplilerden aptal olması -->
-<!-- bkz kamalcı kavatların herkeşin parti ve takım tutuğunu sanması -->
-<!-- bkz deep turkish web te devleti öven ala ergen kamalcı kavatların güldürmesi -->
-<!-- bkz hitlerin ala kavatlara saldırmama sebebi -->
-<!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1-k%C4%B1skanan-s%C3%B6zl%C3%BCk-obezleri/ -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-tarihinin-en-iyi-cumhurba%C5%9Fkanlar%C4%B1/&w=bg
-<!-- https://www.uludagsozluk.com/k/adolf-hitler-in-iyi-bir-insan-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
-<!-- bkz karısını kızını trendyolda satan ala gavat -->
-<!-- bkz ulugaylerin alakavatlar gibi kafa sikmesi -->
-<!-- bkz can yaman ın ulugayleri siklememesi -->
-<!-- bkz çağatay ulusoyun gavatlara verdiği ayar -->
-<!-- bkz beyler herkeş hoşlandığı gavata saldırsın -->
-<!-- bkz one flew over the cuckold -->
-<!-- bkz karısını kızını ala gavat evlerine yollamış akp li --> 
-<!-- https://www.uludagsozluk.com/e/42525962/ adam kavat zaten beyler -->
-<!-- https://hitler-benim-atam.uludagsozluk.com/ kavat yardırıyo beyler -->
-<!-- bkz kayınçoyu kuk olda götürmek https://www.youtube.com/watch?v=NXQJ9iR5BkA -->
 
 <!-- https://toster.ru/q/353548 ура -->
 <!-- https://github.com/mathiasbynens/windows-1251 that's what i've been lookin' for -->
