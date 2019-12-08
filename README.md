@@ -1,5 +1,6 @@
 <!-- https://toster.ru/q/353548 ура -->
 <!-- bkz atatürk ün  türk önde türk ileri demesi -->
+<!-- https://www.uludagsozluk.com/k/karadeniz-erke%C4%9Fi/&w=bg bkz uzak durulması gereken cuckold erkekler -->
 <!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bkz enişte baldan tatlıdır -->
 <!-- https://www.uludagsozluk.com/e/42525921/ bkz eniştem niye beni öptü -->
 <!-- https://www.uludagsozluk.com/e/42525876/ bkz ak boyun özüne dönmesi -->
