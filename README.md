@@ -1,6 +1,6 @@
 <!-- https://toster.ru/q/353548 ура -->
 <!-- bkz atatürk ün  türk önde türk ileri demesi -->
-<!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bir kuku old enişteyi köşede sıkıştırıp yalamak -->
+<!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bir kuk old enişteyi köşede sıkıştırıp yalamak -->
 <!-- https://www.uludagsozluk.com/e/42525940/ bkz gavat haklı beyler -->
 <!-- https://www.uludagsozluk.com/k/swinger/&w=bg bkz kuk old vs swingerold -->
 <!-- https://www.uludagsozluk.com/k/erkeklerin-ho%C5%9Flanma-belirtileri/&w=bg bkz kukold olması -->
