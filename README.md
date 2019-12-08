@@ -1,6 +1,7 @@
 <!-- 
 bkz bir top kek size bir saray bana
 bkz bir futbolcu size bir saray bana
+bkz siysal islam düğünleri vs siyasal ak futbol
 bkz siyasal islam  düğünleri yüzünden siyasal islamcı koca bulmak için gafasını örten kız
 https://www.uludagsozluk.com/k/koca-bulmak-i%C3%A7in-ba%C5%9F%C4%B1n%C4%B1-kapatan-k%C4%B1z/&w=bg
 beyler akşama hagi mi alex mi tartışması yapalım https://www.youtube.com/watch?v=9sPHaPhBhzU
