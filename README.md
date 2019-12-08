@@ -1,6 +1,9 @@
 <!-- 
 bkz bir top kek size bir saray bana
 bkz bir futbolcu size bir saray bana
+https://eksisozluk.com/arda-kardesler--4475914?a=popular
+https://eksisozluk.com/jeremain-lens--1935794?a=popular
+https://eksisozluk.com/umut-nayir--4037721?a=popular 
 bkz sabah akşam entry gireceğinize çalışsaydınız kod yazsaydınız genşler
 https://www.uludagsozluk.com/k/seni-saraylarda-ya%C5%9Fatacam-emine/&w=bg
 walla genşler ben kendim için saray yaptırıyorum zombilerden izole insan gibi bi yaşam için :)))
