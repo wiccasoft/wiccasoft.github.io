@@ -1,5 +1,6 @@
 
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- bkz hitlerin zorla islamı yayam projesi -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ bkz her türk müslüman doğar -->
 <!-- https://www.uludagsozluk.com/e/42525647/ bkz yall bana hep üstad der -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 azi petrus aşkına neden acaba -->
