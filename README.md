@@ -1,14 +1,4 @@
 <!-- 
-https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacunu yisinler gari
-https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz lahmacun yiyin gari
-https://www.youtube.com/watch?v=HlY1eDlWwAw
-https://www.youtube.com/watch?v=9sPHaPhBhzU
-https://www.youtube.com/watch?v=OFeJCJziVCk
-https://cyber.harvard.edu/404 what the fuck 
-https://www.youtube.com/watch?v=VXmohPX9zuE
-bkz ulucuların uzay gayleri vs ekşicilerin uzay gayleri
-https://www.uludagsozluk.com/k/175-cm-g%C3%B6bekli-g%C3%BCne%C5%9F-g%C3%B6zl%C3%BCkl%C3%BC-tinder-erke%C4%9Fi/
-https://www.uludagsozluk.com/k/gaybar-da-gaybana-geceler-s%C3%B6yleyen-gay/ bkz hayallerde yaşıyo bazı ibneler
 request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
         console.log(body.toString()); // кракозябры: ура ура ура
