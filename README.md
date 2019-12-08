@@ -1,3 +1,4 @@
+<!--bkz kamalcıların baya baya akplilerden aptal olması -->
 <!-- bkz kamalcı kavatların herkeşin parti ve takım tutuğunu sanması -->
 <!-- bkz deep turkish web te devleti öven ala ergen kamalcı kavatların güldürmesi -->
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi -->
