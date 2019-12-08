@@ -2,10 +2,7 @@
 bkz kadınlı erkekli seks haramdır
 bkz ademle havva yı niye kovduk cennetten
 bkz cinsel ilişki bütün kötülüklerin anasıdır
-bkz cinsel ilişkili seks sevmeyen erkek
-bkz cinsel ilşkili seks teklif edilen kızın erkek çıkması
-bkz akrep burcu erkeğine cinsel ilişkili skis teklif etmek
-bkz sene olmuş 2020 hala cinsel ilişkili seks yapanlar var amk
+bkz sene olmuş 2020 hala cinsel ilişkili seks yapanlar var 
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz cinsel ilişki ney lan
 https://www.uludagsozluk.com/k/ismail-yk-%C5%9Fu-an-ne-yap%C4%B1yor/ bkz yoksa zurnamıyım hee
 https://github.com/nodejs/node-v0.x-archive/issues/2190 lol
