@@ -1,4 +1,4 @@
-<!-- bkz deep turkish web te devleti öven ala ergen kavatların güldürmesi -->
+<!-- bkz deep turkish web te devleti öven ala ergen kamalcı kavatların güldürmesi -->
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-tarihinin-en-iyi-cumhurba%C5%9Fkanlar%C4%B1/&w=bg
 <!-- https://www.uludagsozluk.com/k/adolf-hitler-in-iyi-bir-insan-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
