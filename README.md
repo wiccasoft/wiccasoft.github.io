@@ -1,5 +1,6 @@
 
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=bg bkz kavatçı başı -->
 <!-- bkz karısını kızını ala gavat evlerine yollamış akp li --> 
 <!-- https://www.uludagsozluk.com/e/42525962/ adam kavat zaten beyler -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ kavat yardırıyo beyler -->
