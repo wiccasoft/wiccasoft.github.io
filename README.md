@@ -1,4 +1,5 @@
 <!-- 
+bkz başörtülü bacıların üstüne işenmesine ses etmeyen rte
 bkz başörtülü bacıların katledilmesine ses etmeyen feminik rte
 bkz reisin ak futbola kazandırdığı yenilikler
 bkz başörtülü bacıları öldüren kamalcılar
