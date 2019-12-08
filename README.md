@@ -1,3 +1,4 @@
+<!-- bkz atatürk ün türk önde türk ileri demesi -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ala kavatları kudurtan -->
 <!-- https://www.uludagsozluk.com/k/yav%C5%9Fak-ahmet-denince-ilk-akla-gelen-ahmet/&w=bg bkz hangi ahmet la bu -->
 <!-- https://www.uludagsozluk.com/k/zeybek-oynayan-semazen-atat%C3%BCrk-heykeli/ bkz ala renkli kavat -->
