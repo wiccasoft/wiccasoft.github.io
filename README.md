@@ -1,3 +1,4 @@
+<!-- bkz kamalcı kavatların herkeşin parti ve takım tutuğunu sanması -->
 <!-- bkz deep turkish web te devleti öven ala ergen kamalcı kavatların güldürmesi -->
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-tarihinin-en-iyi-cumhurba%C5%9Fkanlar%C4%B1/&w=bg
