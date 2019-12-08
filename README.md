@@ -1,5 +1,6 @@
 
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.uludagsozluk.com/k/%C3%A7a%C4%9Fatay-ulusoy-un-can-yaman-a-verdi%C4%9Fi-ayar/ -->
 <!--bkz ekrem imamaoğlunun davutoğluna swinger ilişki teklif etmesi -->
 <!-- bkz beyler herkeş hoşlandığı gavata saldırsın -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-yapt%C4%9F%C4%B1-skandal-atama/&w=bg bkz kavatçı başı -->
