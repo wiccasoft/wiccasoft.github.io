@@ -1,14 +1,10 @@
 <!-- https://toster.ru/q/353548 ура -->
-<!-- bkz adam zaten ala gavat beyler -->
+<!-- bkz adam zaten ala gavat beyler https://www.youtube.com/watch?v=BcQKsQ5NY7I -->
 <!-- https://www.uludagsozluk.com/e/42525773/ ala gavat haklı beyler -->
 <!-- https://www.uludagsozluk.com/e/42515469/ bkz hitler benim ala gavatım -->
 <!-- bkz bir kukold diğer kukolda gel kukları kukoldlayalım demiş -->
 <!-- bkz alexa istatistiklerine göre türklerin en çok cuckold aratması -->
 <!-- https://www.uludagsozluk.com/k/cuckold/&w=bg  bkz one flew over the cuckold -->
-<!-- bkz xhamster cuckold kategoriğ de alal gavat teyze oğlunu görmek  -->
-<!-- bkz foğşik puşt pornhub ın türklere cuckold kategori yi kaldırması -->
-<!-- bkz karısını kızını doktora elleten ala gavat https://www.youtube.com/watch?v=BcQKsQ5NY7I -->
-<!-- bkz one flew over the cuckold yani kukum ötmüyo nun inciliccesi -->
 <!-- https://www.uludagsozluk.com/e/42524760/ adam zaten kukold beyler -->
 <!-- https://www.uludagsozluk.com/e/42525647/ bkz içinde gezdirmiş beyler-->
 <!-- https://www.uludagsozluk.com/e/42525703/ bkz kamalcıların ala gavatlara savaş açması -->
