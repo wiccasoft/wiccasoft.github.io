@@ -1,5 +1,5 @@
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla niye acaba -->
-<!--bkz acele etme papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
+<!-- bkz acele etme papaz efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
 <!-- https://www.youtube.com/watch?v=OFeJCJziVCk bkz alakavatların pazarları daha bi coşması -->
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi https://www.youtube.com/watch?v=RHBoMuNszuk -->
 <!-- bkz karısını kızını kavatevlerine yollamış kaleci muslera -->
