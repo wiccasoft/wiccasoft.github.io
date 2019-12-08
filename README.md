@@ -1,6 +1,6 @@
 <!-- 
 bkz kadınlı erkekli seks haramdır
-bkz ademle havva yı niye kovduk cennetten
+bkz ademle havva yı niye kovduk cennetten sığır sürüsü yahu
 bkz cinsel ilişki bütün kötülüklerin anasıdır
 bkz sene olmuş 2020 hala cinsel ilişkili seks yapanlar var 
 https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz cinsel ilişki ney lan
