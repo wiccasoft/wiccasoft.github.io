@@ -1,7 +1,7 @@
 
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 rte vs putin vs hitler -->
 <!-- https://toster.ru/q/353548 ура -->
-<!-- https://www.uludagsozluk.com/ https://www.youtube.com/watch?v=RHBoMuNszuk -->
+<!-- https://www.youtube.com/watch?v=RHBoMuNszuk tam benlik -->
 <!-- https://www.npmjs.com/package/iconv-lite  -->
 <!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
 <!--https://helperbyte.com/questions/257624/how-to-convert-encoding-from-windows1251-to-utf8-in-nodejs -->
