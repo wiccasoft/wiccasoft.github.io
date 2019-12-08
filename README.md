@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı  kullar -->
+<!-- https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar -->
 <!-- https://www.youtube.com/watch?v=C9pzkemBmMM şeytanın hilesi içki -->
 <!-- https://www.youtube.com/watch?v=PYg7mylbM0c camiler kışlamız minareler süngü -->
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri -->
