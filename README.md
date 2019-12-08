@@ -1,4 +1,5 @@
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- bkz kayyum un ne olduğunu bilmeyen türkler -->
 <!-- bkz kamalcılarla ak boyların baya baya hayallerde yaşması -->
 <!-- bkz türklerin neye taptıklarını dahi bilmemesi https://www.youtube.com/watch?v=EfAsNffCjsM  -->
 <!-- https://www.uludagsozluk.com/k/hz-yakup/&w=bg bkz türklerin araplara yahudilere hazreti demesi-->
