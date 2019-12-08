@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=OFeJCJziVCk bkz alakavatların pazarları daha bi coşması -->
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi https://www.youtube.com/watch?v=RHBoMuNszuk -->
 <!-- bkz karısını kızını kavatevlerine yollamış kaleci muslera -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1-k%C4%B1skanan-s%C3%B6zl%C3%BCk-obezleri/ -->
