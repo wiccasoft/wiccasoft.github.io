@@ -1,7 +1,7 @@
 
 <!-- bkz fena şirk dönen ülkeler -->
 <!-- bkz hitlerin zorla islamı yayma projesi -->
-<!-- bkz tayyibin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
+<!-- bkz hitlerin yahudilere işkence için ezanı yardırması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- https://www.uludagsozluk.com/e/42525589/ bkz karısını kızını kavat evlerine yollayan kavatov kardeşler -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ bkz her türk müslüman doğar -->
 <!-- https://www.uludagsozluk.com/e/42525647/ bkz yall bana hep üstad der -->
