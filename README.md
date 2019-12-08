@@ -1,5 +1,5 @@
 
-
+<!-- https://www.uludagsozluk.com/e/42526791/ bkkz tanınmayna kızın gulağuna yalarun demek -->
 <!-- bkz acele etme papaz efendinin fedöcüleri bir bir tespit etmesi -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz acele etme fedöcü efendi -->
 <!-- bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ -->
