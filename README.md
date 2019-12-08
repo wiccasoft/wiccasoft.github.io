@@ -1,6 +1,6 @@
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz arap olup islamı kötüleyen tip -->
 <!-- bkz acun gavat değil tamam mı diyen kamalcı -->
-<!--bkz ece seçkin in ben seçilmem seçerim şarkısı -->
+<!-- bkz ece seçkin in ben seçilmem seçerim şarkısı -->
 <!-- bkz damarlarda asil kürt kanı taşımanın verdiği gurur -->
 <!-- bkz atayızlar atatürkçü yse atatürkçüler atayız mı oluyo sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ateist-olmas%C4%B1/&w=bg -->
