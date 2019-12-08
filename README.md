@@ -1,4 +1,4 @@
-<!--https://www.uludagsozluk.com/e/42525978/ bkz aleyna tilki vs mareşal kökenliler -->
+
 <!-- bkz hitlerin ala kavatlara saldırmama sebebi -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-tarihinin-en-iyi-cumhurba%C5%9Fkanlar%C4%B1/&w=bg
 <!-- https://www.uludagsozluk.com/k/adolf-hitler-in-iyi-bir-insan-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
