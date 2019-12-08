@@ -1,5 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
-<!-- bkz alexa istatistiklerine türklerin en çok cuckold aratması -->
+<!-- bkz alexa istatistiklerine göre türklerin en çok cuckold aratması -->
 <!-- https://www.uludagsozluk.com/k/cuckold/&w=bg  bkz one flew over the cuckold -->
 <!-- bkz xhamster cuckold kategoriğ de alal gavat teyze oğlunu görmek  -->
 <!-- bkz foğşik puşt pornhub ın türklere cuckold kategori yi kaldırması -->
