@@ -2,6 +2,7 @@
 <!-- bkz kayyum un ne olduğunu bilmeyen türkler -->
 <!-- bkz aşkım ben mi can yaman mı diyen erkek -->
 <!-- bkz sarışın mavi gözlü türk mü olur amk  -->
+<!-- https://www.uludagsozluk.com/k/b%C3%BClent-ecevit-ve-fetullah-g%C3%BClen-a%C5%9Fk%C4%B1/&w=bg -->
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrk-olup-islami-k%C3%B6t%C3%BCleyen-tip/ kara kafa ne diyon amk-->
 <!-- https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-ben-mi-k%C4%B1van%C3%A7-tatl%C4%B1tu%C4%9F-mu-diyen-erkek/&w=bg -->
 <!-- bkz kamalcılarla ak boyların baya baya hayallerde yaşması -->
