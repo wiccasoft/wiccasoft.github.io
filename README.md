@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=PYg7mylbM0c camiler kışlamız minareler süngü -->
 <!-- https://www.youtube.com/watch?v=RDxn3OuKO8w şeytanın hileleri -->
 <!-- https://www.youtube.com/watch?v=H0760kGB-vw imam hatipli merve ve şeytan -->
 <!-- bkz atatürkün diyaneti kurma sebebi https://www.youtube.com/watch?v=S-m1WImjqsE -->
