@@ -1,4 +1,5 @@
 <!-- 
+bkz hepimiz aynı gemide değiliz yahu dert etmeyin 
 floatin witchcraft bkz yüzen uzay gemimin adı
 https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun yiyebilisiniz yiyin gari
 https://www.youtube.com/watch?v=OFeJCJziVCk lahmacun yiyin ete para vermeyin
