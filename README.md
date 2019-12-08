@@ -4,6 +4,7 @@ bkz bir futbolcu size bir saray bana
 https://eksisozluk.com/arda-kardesler--4475914?a=popular
 https://eksisozluk.com/jeremain-lens--1935794?a=popular
 https://eksisozluk.com/umut-nayir--4037721?a=popular 
+bkz ulucuların uzay gemileri vs ekşicilerin uzay gemileri
 https://eksisozluk.com/yazarlarin-uzay-gemilerine-koyacagi-isim--6274837?a=popular
 bkz sabah akşam entry gireceğinize çalışsaydınız kod yazsaydınız genşler
 https://www.uludagsozluk.com/k/seni-saraylarda-ya%C5%9Fatacam-emine/&w=bg
