@@ -1,10 +1,6 @@
 <!-- 
-bkz ekşicilerin uzay gemileri vs floating witchcraft https://www.youtube.com/watch?v=01SXLx0MOTs
-bkz türkler internetin virusleri mi sorunsalı
-bkz hepimiz aynı gemide değiliz yahu dert etmeyin 
-bkz floatin witchcraft  https://www.youtube.com/watch?v=k-T7vGdH_ek
-https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun yiyebilisiniz yiyin gari
-https://www.youtube.com/watch?v=OFeJCJziVCk lahmacun yiyin ete para vermeyin
+bkz floating witchcraft after life  https://www.youtube.com/watch?v=k-T7vGdH_ek
+bkz floating witchcraft https://www.youtube.com/watch?v=01SXLx0MOTs 
 request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
         console.log(body.toString()); // кракозябры: ура ура ура
