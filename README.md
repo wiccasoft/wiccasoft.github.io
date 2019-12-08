@@ -1,6 +1,6 @@
 <!-- https://toster.ru/q/353548 ура -->
 <!-- bkz atatürk ün  türk önde türk ileri demesi -->
-<!-- bkz enişte baldan tatlıdır -->
+<!-- https://www.uludagsozluk.com/k/cuckold/&w=bg bkz enişte baldan tatlıdır -->
 <!-- https://www.uludagsozluk.com/e/42525921/ bkz eniştem niye beni öptü -->
 <!-- https://www.uludagsozluk.com/e/42525876/ bkz ak boyun özüne dönmesi -->
 <!-- https://www.uludagsozluk.com/e/42525892/ bkz annesini alışveriş sitesinde gören ala gavatın oğlu -->
