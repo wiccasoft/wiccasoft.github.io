@@ -1,5 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
-<!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan-olmasa-babam%C4%B1z-kimdi-bilmezdik/&w=gd bkz hitler benim ala gavatım -->
+<!-- https://www.uludagsozluk.com/e/42515469/ bkz hitler benim ala gavatım -->
 <!-- bkz bir kukold diğer kukolda gel kukları kukoldlayalım demiş -->
 <!-- bkz alexa istatistiklerine göre türklerin en çok cuckold aratması -->
 <!-- https://www.uludagsozluk.com/k/cuckold/&w=bg  bkz one flew over the cuckold -->
