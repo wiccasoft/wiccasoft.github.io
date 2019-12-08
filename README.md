@@ -1,5 +1,6 @@
 
 <!-- https://toster.ru/q/353548 ура -->
+<!-- https://www.uludagsozluk.com/k/ba%C5%9Fl%C4%B1klar%C4%B1-alt-alta-okumak/&w=bg bkz kavatları alt alta okumak -->
 <!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-k%C4%B1z%C4%B1n%C4%B1-fet%C3%B6-evlerine-g%C3%B6ndermi%C5%9F-ak-partili/&w=bg saldırın beyler kavat ölmemeiş -->
 <!-- https://www.uludagsozluk.com/k/can-yaman/&w=gd beyler ben can yaman entry giriyurom siz kavata saldırın -->
 <!-- https://www.youtube.com/watch?v=4jb59zq5Kgk adam kavat zaten beyler -->
