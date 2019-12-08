@@ -1,4 +1,5 @@
 <!-- 
+bkz deep webteki ergenlerin baya baya iğrenç olması
 bkz umut nayıra entry girereken heyacan yapan şişko ekşici
 bkz zenci olup türk islam sentezini kötüleyen tip
 bkz ekşicilerin futbolcular okuyomuşcasına hunharca entry  girmesi
