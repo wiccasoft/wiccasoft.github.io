@@ -1,4 +1,5 @@
 <!-- https://toster.ru/q/353548 ура -->
+<!-- bkz one flew over the cuckold yani kukum ötmüyo nun inciliccesi -->
 <!-- https://www.uludagsozluk.com/e/42524760/ adam zaten kukold beyler -->
 <!-- https://www.uludagsozluk.com/e/42525647/ bkz içinde gezdirmiş beyler-->
 <!-- https://www.uludagsozluk.com/e/42525703/ bkz kamalcıların ala gavatlara savaş açması -->
