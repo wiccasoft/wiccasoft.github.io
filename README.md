@@ -1,5 +1,6 @@
 
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- bkz hitlerin tv de islamçok güzel gelsene falan demesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz hitlerin zorla islamı yayma projesi -->
 <!-- bkz pkk lı cesedlerin ak gezenleri tehdit etmesi -->
 <!-- bkz ergenlerin kafa sikmesi --->
