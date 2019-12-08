@@ -1,4 +1,5 @@
 <!-- bkz fena şirk dönen ülkeler -->
+<!-- bkz sülalesi fedöcü olan wiccasoft -->
 <!-- bkz annesini bacısını karısını kızını  fetö evlerine yollamış hdpli -->
 <!-- bkz acele etme papaz efendinin gavat fetöcü kardeşeri bir bir ifşa etmesi -->
 <!-- https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-karde%C5%9F-ve-damatlardan-habersiz-akp-liler/ -->
