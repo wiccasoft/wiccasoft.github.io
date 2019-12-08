@@ -1,4 +1,5 @@
 <!-- 
+bkz ekşicilerin futbolcular okuyomuşcasına hunharca entry  girmesi
 bkz ekşide futbolculara sayfalarca aşk mektubu yazan ergenler
 bkz melo başlığına entry girerken yine kekeldin bizi keranacı yazmak
 bkz one flew over cuckold yani kuku sunun üstünde yeller esiyo
