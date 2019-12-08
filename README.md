@@ -1,4 +1,5 @@
 <!-- 
+bkz türk olup islamı camileri ezanı çok seven türk 
 bkz umut nayıra entry girerken  okuyomuş gibi girmek
 bkz umut nayır başlığına sevdim seni be tosunum yazmak
 bkz türk olup beyaz futbolu kötüleyen tip
