@@ -1,3 +1,4 @@
+<!-- https://toster.ru/q/353548 ура -->
 <!-- https://github.com/mathiasbynens/windows-1251 that's what i've been lookin' for -->
 <!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
 <!-- https://stackoverflow.com/a/9049823 -->
