@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=9sPHaPhBhzU
 https://www.youtube.com/watch?v=OFeJCJziVCk
 https://cyber.harvard.edu/404 what the fuck 
 https://www.youtube.com/watch?v=VXmohPX9zuE
+bkz ulucuların uzay gemileri vs ekşicilerin uzay gemileri
 https://www.uludagsozluk.com/k/gaybar-da-gaybana-geceler-s%C3%B6yleyen-gay/
 request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
