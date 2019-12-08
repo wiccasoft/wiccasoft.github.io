@@ -1,5 +1,6 @@
 <!-- bkz fena şirk dönen ülkeler -->
 <!--bkz atatkürt ün kürtçü deist olması -->
+<!--bkz atatürk vs atarus vs atabelarus -->
 <!-- bkz kayyum un ne olduğunu bilmeyen türkler -->
 <!-- bkz aşkım ben mi can yaman mı diyen erkek -->
 <!-- bkz karısını kızını apo evlerine yollamış pkklı -->
