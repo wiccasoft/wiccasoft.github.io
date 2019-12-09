@@ -1,4 +1,5 @@
 <!-- 
+bkz yobazdoganin secimle gideceğini sanmak https://www.youtube.com/watch?v=RVHLdQuZ6nI
 bkz yobazdagan family https://www.youtube.com/watch?v=h6Q9id4Q_js
 bkz selçuk bayraktarın camilerin kuvvetini arttıran sihalar yapması https://www.dailymotion.com/video/x6yi7r7
 bkz iyi ki yobazdoganin damadi değilim diye şükretmek https://www.youtube.com/watch?v=TA6y-oRT1w0
