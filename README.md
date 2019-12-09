@@ -1,4 +1,5 @@
 <!--
+bkz cinsel ilişki istemeyen erkeğe naparsınız sorunsalı
 bkz mahsun kırmızıgül denize düşse kurtarır mısın sorunsalı
 bkz bülent ecevit denizden slip mayolu çıksa naparsın sorunsalı
 bkz tansu çillerin eşi denize düşse kurtarır mısın sorunsalı
