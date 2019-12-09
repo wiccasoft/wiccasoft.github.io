@@ -1,4 +1,6 @@
 <!--
+bkz ıssız bi adaya düşsen kimi alırsın sounsal https://www.youtube.com/watch?v=0XaTDfxSmvk
+bkz ahmet çakar denize düşse naparsın sorunsalı
 bkz emre belezoğlu denize düşse naparsın sorundalı
 bkz şeyma subaşı denize düşse naparsın sorunsalı
 bkz ermeni toroğlan denize düşse kurtarırmısın sorunsalı
