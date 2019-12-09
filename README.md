@@ -1,4 +1,5 @@
 <!--
+bkz an itibariyle kıskanıldığımız gerçeği
 bkz bütün dünyanın türkleri kıskanması
 bkz denize kürt dökülse naparsın sorunsalı
 bkz denize kürt ve türk olmayan düşse naparsın sorunsalı
