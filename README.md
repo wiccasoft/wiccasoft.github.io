@@ -1,5 +1,5 @@
 <!-- 
-bkz almayada kızına bale yaptırmayan fedöcü pkk lı baba https://www.youtube.com/watch?v=JdhJq-53J-w
+bkz almanyada kızına bale yaptırmayan fedöcü pkk lı baba https://www.youtube.com/watch?v=JdhJq-53J-w
 bkz yobazdoganin örtülü dünyası https://www.youtube.com/watch?v=pjzgb3abXEI
 bkz yobazdoganin daha da güçlenerek gelmesi https://www.youtube.com/watch?v=VI757x-_wKQ
 bkz yobazdoganin secimle gideceğini sanmak https://www.youtube.com/watch?v=yGDkkHnGRxo
