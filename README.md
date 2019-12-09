@@ -1,4 +1,5 @@
 <!--
+bkz twitter nsa gözetiminde olsa nolurdu sorunsalı
 bkz devlet gözetiminde facebook olsaydı nolurdu sorunsalı
 bkz erdoğan ailesinin yediği trilyonları öğrenseniz napardınız sorunsalı
 https://www.uludagsozluk.com/e/42531311/bkz çok yahşi adamdır
