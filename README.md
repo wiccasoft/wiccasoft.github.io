@@ -1,4 +1,5 @@
 <!--
+bkz daudoğlanın bacanağı deniz düşse naparsın sorunsalı
 bkz hz musa denizi yarsa denizde eşşek şakası yaparmısın sorunsalı
 bkz yangında yanan aleviyi kurtarırmısın sorunsalı
 bkz yangında yanan kafirleri kurtarırmısın sorunsalı
