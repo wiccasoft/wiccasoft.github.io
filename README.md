@@ -1,9 +1,8 @@
 <!--
-bkz erdoğanın trilyonlarını kıskanan komünikler
-bkz erdoğan trilyonları götürmesin diye komunik mi olalım yani
+bkz uzun adamın trilyonlarını kıskanan komünikler
 bkz komuniklerin terörük olması
-bkz erdoganin trilyonlarında gözü olan komünikler
-bkz erdogan trilyonları götürmesin diye çirkeflik yapan 3 beş komunik
+bkz uzun adamın  trilyonlarında gözü olan komünikler
+bkz uzun adamın  trilyonları götürmesin diye çirkeflik yapan 3 beş komunik
 bkz erdoganizm varken baska ideolojilerde bogulmask
 bkz gavatların genelde solcu olması
 bkz kurban vahşettir deyip noelde hindi kesen gavat
