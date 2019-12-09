@@ -1,5 +1,5 @@
 <!--
-bkzx kamalcının kulağına eğilip yılbaşı yaklaşıyo demek
+bkz pasif bi kamalcının kulağına eğilip yılbaşı yaklaşıyo demek
 bkz yılbaşı yarramın başı diyen deist müslüman 
 bkz yılbaşı yaklaştıkça yarrağının başı agresfileşen müslüman
 bkz küçük emrah hülya avşara çaktı mı sorunsalı 
