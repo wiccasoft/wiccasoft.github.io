@@ -1,4 +1,5 @@
 <!--
+bkz karısını çalıştırmayan gavat
 bkz gavatların acun abiye yüklenemesi
 bkz gavatların genelde deniz gezmiş solcusu olması
 bkz gavat kaypakkaya nın karısını paylaşması
