@@ -1,4 +1,5 @@
 <!--
+bkz erdoğan trilonları götürmesin diye komunik mi olalım yani
 bkz komuniklerin terörük olması
 bkz erdoganin trilyonlarında gözü olan komünikler
 bkz erdogan trilyonları götürmesin diye çirkeflik yapan 3 beş komunik
