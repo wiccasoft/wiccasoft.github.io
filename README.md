@@ -1,5 +1,5 @@
 <!--
-bkz il başkanı gece camı yıklayıp yenge de erik gibiymiş dese naparsınız
+bkz il başkanı gece camı tıklayıp yenge de erik gibiymiş dese naparsınız
 bkz il başkanı çıkıp gel lan buraya oç dese gider mişsiniz sorunsalı
 bkz ayakkabı kutusu partisi kurulsa oy verir misiniz sorunsalı
 bkz tevfik göksu imamoğlunu tokatlayıp  ayakkabılarını boyatsa naparsınız
