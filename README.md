@@ -1,4 +1,5 @@
 <!--
+bkz erdogan trilyonları götürmesin diye çirkeflik yapan 3 beş komunik
 bkz erdoganizm varken baska ideolojilerde bogulmask
 bkz gavatların genelde solcu olması
 bkz kurban vahşettir deyip noelde hindi kesen gavat
