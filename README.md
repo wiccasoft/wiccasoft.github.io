@@ -1,4 +1,5 @@
 <!-- 
+bkz hz yakup asaleti vs ibrahim kaypakkaya kaypaklığı
 bkz peygamber efendilerimiz vs solcuların taptığı zavallılar
 bkz mahir çayan solcusu vs deniz gezmiş solcusu
 bkz hz ömer kızına gömdü mü sorunsalı
