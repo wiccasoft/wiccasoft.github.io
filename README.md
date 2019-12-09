@@ -1,4 +1,5 @@
 <!--
+bkz yaşıtları kafelerde kız kovalarken 40 lık amcalarına sulanan ergenler
 https://www.uludagsozluk.com/k/tevfik-g%C3%B6ksu-nun-imamo%C4%9Flu-nu-tokat-delisi-yapmas%C4%B1/
 bkz cinselli cinselsiz ilişki istemeyen 1978 li işi arabası evi olmayan erkek
 https://www.uludagsozluk.com/k/sevgilisinin-tayt-giymesine-izin-veren-gavat/&w=bg bkz şeytanın hileleri
