@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/eskiden-insanlar-t%C3%BCp-gaz-kuyru%C4%9Funa-girerdi/
 bkz serdar ortaçın cinsel seks teklifini reddetmemesi
 bkz serdar ortaçın yerim uzun adamın yeridir paylaşımı
 bkz serdar ortaçın orta asyanın sahipleri çekik gözlülerdir açıklaması
