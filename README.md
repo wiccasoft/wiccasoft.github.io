@@ -1,5 +1,6 @@
 <!-- 
 bkz cankan vs ismail yk
+bkz almancıların hitleri kötülemesi https://www.youtube.com/watch?v=JdhJq-53J-w
 bkz hitlerin islamı avrupaya yayma procesi https://www.youtube.com/watch?v=S-m1WImjqsE
 https://www.youtube.com/watch?v=Afq6UM-01Xs bkz führer
 https://www.uludagsozluk.com/k/almanya-da-k%C4%B1z%C4%B1n%C4%B1-y%C3%BCzme-dersine-g%C3%B6ndermeyen-baba/
