@@ -1,4 +1,5 @@
-<!-- 
+<!--
+bkz gavatların karılarını paylaşmasına ses etmeyen rte
 bkz gavat kürtçülerin karılarını paylaşmaları
 bkz serdar ortaçın gavat kürtçülere verdiği ayar
 bkz gavat komunistlerin xhamster da  karılarını paylaşmaları
