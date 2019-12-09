@@ -1,4 +1,5 @@
 <!-- 
+bkz hz ömer dincisi vs ebu leheb siyasal islamcısı
 bkz che guevera solcusu vs deniz gezmiş solcusu
 bkz ibrahim kaypakyaya deniz gezmiş mahir çayan solcusu
 bkz trt2 de yayınlanan deniz gezmiş ibrahim kaypakkaya belgeseli
