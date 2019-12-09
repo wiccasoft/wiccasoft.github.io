@@ -1,4 +1,5 @@
 <!--
+bkz hz muhammed camı tıklasa kırk bakireden dadmaya geldim dese napardınız
 bkz il başkanı gece camı tıklayıp yenge de erik gibiymiş dese naparsınız
 bkz il başkanı çıkıp gel lan buraya oç dese gider mişsiniz sorunsalı
 bkz ayakkabı kutusu partisi kurulsa oy verir misiniz sorunsalı
