@@ -1,4 +1,5 @@
 <!--
+bkz denize erdoğan mı düşse atatürk mü düşse naparsın sorunsalı
 bkz denize baan düşse naparsın sorunsalı
 bkz denizden babam çıksa yerim diyen birini denizde kurtarırmısın sorunsalı
 bkz denizden kurt çıksa yerim diyen kürt
