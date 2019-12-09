@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortraçın kamalıst olmlasını çekemeyen çapulcular
 bkz serdar ortaçın pkk lı ahmet kayaya 10. yıl marşıyla verdiği cevap
 bkz serdar ortçaın ahmet kayay verdiği efso ayar
 bkz hz ebu lehep asaletini ahlakını almak
