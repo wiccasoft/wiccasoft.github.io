@@ -1,4 +1,5 @@
 <!--
+bkz türkün üstün ırk olması deniz düşen kürtü kurtarmaması
 bkz türkün üstün ırk olmasını çekemeyen köpek soylular (bkz kürtler ve araplar )
 bkz an itibariyle kıskanıldığımız gerçeği
 bkz bütün dünyanın türkleri kıskanması
