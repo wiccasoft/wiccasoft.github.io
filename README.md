@@ -1,8 +1,7 @@
 <!-- 
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
-bkz madem ellek yok bu ezanlar nasıl inliyo yobazların üstünde
+bkz madem ellek yok bu ezanlar nasıl inliyo yobazların üstünde https://www.youtube.com/watch?v=EfAsNffCjsM
 https://twitter.com/drbetulsayan/status/1104511912589647878?lang=en
-https://www.youtube.com/watch?v=EfAsNffCjsM
 https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte
 https://twitter.com/radikal lol
 bkz kadınlı erkekli seks haramdır yoksa hala ibret almaz mısınız
