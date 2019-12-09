@@ -1,4 +1,5 @@
 <!--
+bkzx cinsel sek yapılan incicinin annesinin performnsın çoh eyi demesi
 bkz cinsel seks yapılan kadının oğlunun incici çıkması
 bkz cinsel seks yapılan kadının oğlunun sözlükte başlık açması
 bkz annesiyle cinsel seks esnasında ekonomiğ çoh eyi diyen sözlük oğlanı
