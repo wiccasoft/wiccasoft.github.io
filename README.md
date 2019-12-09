@@ -1,4 +1,5 @@
 <!--
+bkz yerim uzun adamın yeri demek varken yerim kaypakların yeri demek
 bkz uzun adam varken kaypakkayaya tapmak
 bkz uzun adamın yanında olmak varken gavatların yanında olmak
 bak gavat ve hain ruhsuz erkeklerdeki yobazdogan düşmanlığı
