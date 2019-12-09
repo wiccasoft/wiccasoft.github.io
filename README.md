@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaçın orta asyanı asıl sagibi biz çekik gözlüleriz demesi
 bkz serdar ortaçın türkçü olmasını çekemeyen kürtçü pkklılar
 bkz serdar ortaçın pkk lı ahmet kayaya 10. yıl marşıyla verdiği cevap
 bkz serdar ortçaın ahmet kayay verdiği efso ayar
