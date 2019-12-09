@@ -1,4 +1,5 @@
 <!--
+bkz uzun adamın yatı vs ata cüce nin yatı
 bkz uzun adamın kamalcı olmasını çekemeyen komunükler
 bkz komunüklere hz öme  hz ebu musaf  sevgisi vermek
 bkz uzun adamın trilyonlarını kıskanan komünikler
