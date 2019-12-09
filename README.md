@@ -1,4 +1,5 @@
 <!--
+bkz denize rus mu düşse kurtarırsın yahudi mi ?
 bkz denize apo mu düşse kurtarırsın tatlıses mi 
 bkz denize yunan düşse kurtarır mısın sorunsalı
 bkz denize düşse kürt düşse kürt sorunu çözülürmü sorunsalı
