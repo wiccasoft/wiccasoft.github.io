@@ -1,5 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
+bkz ekşcilerin neymara hiç entry girmemesi sorunsalı
 https://kaybedince-daha-cok-seveceksin.uludagsozluk.com/ bkz yahudileri ırk sanan kamalcı
 bkz aponun odasına dsmart ligtv kamalcılara gavat acun tv bağlatan dünya lideri
 https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg
