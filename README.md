@@ -1,8 +1,5 @@
 <!--
-bkz bkz 140 journos tayyiple yolu ayrılana tayyipçiler
-bkz tayyipten kurtulmak için ada satın almak
-bkz tayyip gözetiminde yüzen ada
-bkz tayyipin eminenin götünün dağılmasını engeleyememesi
+bkz isyanbul çok hojdır amam benena https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz denizden hz osman çıksa yerim diyen yahudi https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz yılbaşı yaklaştıkça pasifleşen türklerin heyecan yapması https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz yılbaşı yaklaşıyo diyo heyecan yapan suriyeli https://www.youtube.com/watch?v=NXQJ9iR5BkA
