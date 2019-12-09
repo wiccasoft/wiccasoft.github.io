@@ -1,4 +1,5 @@
 <!--
+bkz saçları örgülü solcu kızların zencefilli çay içmesi
 bkz yobazdoganın kaypakdoganları tokat manyaa yapması
 bkz yerim uzun adamın yeri demek varken yerim kaypakların yeri demek
 bkz uzun adam varken kaypakkayaya tapmak
