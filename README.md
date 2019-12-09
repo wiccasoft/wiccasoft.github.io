@@ -1,5 +1,6 @@
 <!-- 
 bkz cankan vs ismail yk vs hilla kahan
+bkz kız çocuğu olacak kadar gavat olmak
 bkz almayanda kızına mini etek giydirmeyen baba
 bkz almayada kızını sikiş kursuna göndermeyen baba https://www.youtube.com/watch?v=JdhJq-53J-w
 bkz hitlerin islamı avrupaya yayma procesi https://www.youtube.com/watch?v=S-m1WImjqsE
