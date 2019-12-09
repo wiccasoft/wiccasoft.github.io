@@ -4,7 +4,7 @@ bkz ekşcilerin neymara hiç entry girmemesi sorunsalı
 https://kaybedince-daha-cok-seveceksin.uludagsozluk.com/ bkz yahudileri ırk sanan kamalcı
 bkz aponun odasına dsmart ligtv kamalcılara gavat acun tv bağlatan dünya lideri
 https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg
-bkz topkekini yerken yaparken acun abi çıktı tvye anne diyengavat
+bkz topkekini yerken yaparken acun abi çıktı tvye anne diyen gavat
 bkz kamalcı gavatlar odalarında tvibu mu izliyo dsmart mı izliyor sorunsalı
 bkz apple tv nin kamalcı gavatları siklememesi
 bkz gavatlara dsmart bağlatıp mağara soğuk mu demek
