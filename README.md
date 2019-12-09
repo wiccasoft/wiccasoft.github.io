@@ -1,4 +1,5 @@
 <!--
+bkz küçük emrah hülya avşara çaktı mı sorunsalı 
 bkz ibrahim talıseksin hülya avşar a 3 kere çaktım ne olay yaptınız çıkışı
 bkz erdonun sanna marin kim amk demesi
 bkz sanna marin in erdonun kılına zarar gelsin hele bi gelsin çıkışı
