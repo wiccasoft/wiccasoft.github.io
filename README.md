@@ -1,4 +1,5 @@
 <!--
+bkz sanna marin in erdonun kızlına zarar gelsin hele bi gelsin çıkışı
 bkz netanyahunun erdonun kılına zarar gelirse karşınızda beni bulursunuz çıkışı
 bkz ibrahim tatlıseksin uzun adamı yedirmem açıklaması
 bkz orhan bencegayin yerim uzun adamın yeri paylaşımı
