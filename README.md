@@ -1,6 +1,5 @@
 <!--
 bkz işsiz erkeklere tavsiye veren şeker kızlar eqlesin
-bkz cem uzanın telsimi ve genç partiyi yeniden kuracam demesi
 bkz sike sürülecek aklı olmayanların akıl vermesi olayı
 bkz yılbaşını entry girerek geçirecek olan ergenlerin şimdiden akıl vermesi
 bkz yılbaşı bitince yine yarramın başını alacak olan ergenler
