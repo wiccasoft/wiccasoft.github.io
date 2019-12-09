@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaçın kamalıkları göt etmesi
 https://www.uludagsozluk.com/k/%C5%9Fu-an-t%C3%BCrkiye-de-lider-olarak-bir-tek-erdo%C4%9Fan-var/
 bkz serdar ortaçın çekik gözlüler anadolunun sahipleridir açıklaması
 bkz e devletten ermeni torunu olduğunu öğrenip derin bi ohh çekmek
