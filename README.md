@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaçın yerim uzun adamın yeridir paylaşımı
 bkz serdar ortaçın orta asyanın sahipleri çekik gözlülerdir açıklaması
 bkz e devletten ermeni torunu olduğunu öğrenip derin bi ohh çekmek
 bkz fesli bunağın keşke denize yunan dölü düşseydi açıklaması
