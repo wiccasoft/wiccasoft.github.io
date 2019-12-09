@@ -1,6 +1,7 @@
 <!--
 https://twitter.com/MarinSanna
 https://tr.sputniknews.com/avrupa/201912091040792271-finlandiyada-sanna-marin-dunyanin-en-genc-basbakani-oldu/
+https://www.uludagsozluk.com/k/tevfik-g%C3%B6ksu-nun-imamo%C4%9Flu-nu-tokat-delisi-yapmas%C4%B1/&w=gd
 https://github.com/danmactough/node-feedparser/tree/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce 
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
 https://twitter.com/radikal lol
