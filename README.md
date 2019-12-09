@@ -1,4 +1,5 @@
 <!--
+bkz cinsel seks ilişki istemeyen şeytan
 bkz https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
 bkz cinsel ilişki istemeyen erkeğe tecavüz etmeye çalışan türkler
 bkz mahsun kırmızıgül denize düşse kurtarır mısın sorunsalı
