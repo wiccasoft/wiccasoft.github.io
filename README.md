@@ -1,5 +1,5 @@
 <!--
-bkz uzun adam varken kaypakayaya tapmak
+bkz uzun adam varken kaypakkayaya tapmak
 bkz uzun adamın yanında olmak varken gavatların yanında olmak
 bak gavat ve hain ruhsuz erkeklerdeki yobazdogan düşmanlığı
 bkz karısını çalıştırmayan gavat
