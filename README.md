@@ -1,4 +1,5 @@
 <!--
+bkz deniz yılanı denzie düşse naparsın sorunsalı
 bkz denize düşse yılana sarılır msıın sorunsalı
 bkz denize düşmese denize dmökeceğin ırklar hangileri sorunsalı
 bkz denize düşse kurtarmayacağın isimler kimler sorunsalı
