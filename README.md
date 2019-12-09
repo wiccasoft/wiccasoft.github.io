@@ -1,4 +1,5 @@
 <!--
+bkz devletin malı deniz yemeyen keriz
 bkz bilal vakıf paraları ibiza da bi gece de yese napardınız
 bkz facebook cia gözetiminde olsa napardınız sorunsalı
 bkz twitter nsa gözetiminde olsa nolurdu sorunsalı
