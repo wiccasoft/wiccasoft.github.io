@@ -1,4 +1,5 @@
 <!--
+bkz türkiye ekonomisi denize düşse kurtarırmısın sorunsalı
 bkz deniz yılanı denzie düşse naparsın sorunsalı
 bkz denize düşse yılana sarılır msıın sorunsalı
 bkz denize düşmese denize dmökeceğin ırklar hangileri sorunsalı
