@@ -1,4 +1,5 @@
 <!--
+bkz işsiz ama yakışıklı 1978 li erkeğine tavsiye vermeyen ergen
 bkz cinsel ilişki seks istemeyen 1978 li erkek
 https://www.uludagsozluk.com/k/sevgilisinin-tayt-giymesine-izin-veren-gavat/&w=bg bkz şeytanın hileleri
 bkz https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
