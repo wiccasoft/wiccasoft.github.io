@@ -1,4 +1,5 @@
 <!--
+bkz türklerin refahını çekemeyen norveçli yobaz
 bkz türklerin çok mutlu olmasını çekemeyen çomar
 bkz türklerin çok eğlenceli olmasını çekemyen dünya
 bkz eğlenen türklere tahammülü olmayan çomar
