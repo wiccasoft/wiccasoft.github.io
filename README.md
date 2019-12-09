@@ -1,4 +1,5 @@
 <!--
+bkz müslümanların üstün ırk olması
 bkz deniz kürt düşse üstüne sıçarmısın sorunsalı
 bkz akp ümranye il başkanının yerim uzun adamın yeridir paylaşımı
 https://www.youtube.com/watch?v=Afq6UM-01Xs
