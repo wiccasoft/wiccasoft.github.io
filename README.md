@@ -1,4 +1,5 @@
 <!--
+bkz denize kürt dökülse naparsın sorunsalı
 bkz denize kürt ve türk olmayan düşse naparsın sorunsalı
 bkz denizden türk çıksa yer misin 10. yıl marşı mı söylersin sorunsalı
 bkz deniz kürt mü düşse kurtarırsın  müslüman mı
