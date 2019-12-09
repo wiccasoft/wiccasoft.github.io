@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/e/42531437/ lol
 bkz hz muhammed camı tıklasa kırk bakireden dadmaya geldim dese napardınız
 bkz il başkanı gece camı tıklayıp yenge de erik gibiymiş dese naparsınız
 bkz il başkanı çıkıp gel lan buraya oç dese gider mişsiniz sorunsalı
