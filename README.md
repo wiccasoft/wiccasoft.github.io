@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+https://www.uludagsozluk.com/k/erke%C4%9Fi-evcille%C5%9Ftirmek/&w=bg bkz 41 yaşında evi arabası olmayan ezik erkek
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/
 bkz konstantinapolis çok hojdır ama benena https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz imamoglanin konstantinapolisi bırakıp fintechle ilgilenmesi 
