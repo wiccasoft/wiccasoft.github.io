@@ -1,4 +1,5 @@
 <!--
+bkz deniz kürt düşse üstüne sıçarmısın
 bkz akp ümranye il başkanının yerim uzun adamın yeridir paylaşımı
 https://www.youtube.com/watch?v=Afq6UM-01Xs
 bkz tayip doğanın israfı önlemek için heykelleri tayyip şeklinde yaptırması
