@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/joffrey-in-kad%C4%B1k%C3%B6y-de-g%C3%B6r%C3%BClmesi/
 bkz serdar ortaçın türk düşmanlarına 10. yıl marşıyla verdiği efso cevap
 https://www.uludagsozluk.com/k/kemalistlerin-kurdu%C4%9Fu-%C3%BClkede-kemalizmi-k%C3%B6t%C3%BClemek/
 bkz yaşıtları kadıköyde kız kovalarken 40 lık amcalarına sulanan ergenler
