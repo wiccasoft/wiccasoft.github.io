@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaçın denizden çıkıp 10. yıl marşı söylemesi
 bkz su çok güzel gelsene diyen kutup ayısı
 bkz denizde koltuk altıyla osuruk sesi yapan kutup ayısı görsen naparsın sorunssalı
 bkz daudoğlanın bacanağı denize düşse naparsın sorunsalı
