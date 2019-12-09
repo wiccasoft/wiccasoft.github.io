@@ -1,4 +1,6 @@
 <!--
+bkz serdar ortaçın türk düşmanlarına 10. yıl marşıyla verdiği efso cevap
+https://www.uludagsozluk.com/k/kemalistlerin-kurdu%C4%9Fu-%C3%BClkede-kemalizmi-k%C3%B6t%C3%BClemek/
 bkz yaşıtları kadıköyde kız kovalarken 40 lık amcalarına sulanan ergenler
 https://www.uludagsozluk.com/k/tevfik-g%C3%B6ksu-nun-imamo%C4%9Flu-nu-tokat-delisi-yapmas%C4%B1/
 bkz cinselli cinselsiz ilişki istemeyen 1978 li işi arabası evi olmayan erkek
