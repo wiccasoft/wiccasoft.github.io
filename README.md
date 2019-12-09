@@ -1,4 +1,5 @@
 <!--
+bkz hiç sevişmemiş cinselli cinselsiz ilişki istemeyen mutlu 1978 li erkek
 https://www.uludagsozluk.com/k/hayat%C4%B1nda-hi%C3%A7-sevilmemi%C5%9F-insan/&w=bg bkz a bu benim
 https://www.uludagsozluk.com/k/joffrey-in-kad%C4%B1k%C3%B6y-de-g%C3%B6r%C3%BClmesi/
 bkz serdar ortaçın türk düşmanlarına 10. yıl marşıyla verdiği efso cevap
