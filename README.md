@@ -1,6 +1,6 @@
 <!-- 
-bkz cankan vs ismail yk vs hilla kahan
-bkz erdoğanın kızlarını sikecek kadar midesiz olmak
+bkz cankan vs ismail yk vs hilla kahan https://www.youtube.com/watch?v=TA6y-oRT1w0
+bkz erdoğanın kızlarını sikecek kadar midesiz olmak https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz kız çocuğu olacak kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
 bkz kızını başka erkeklere siktirecek kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
 bkz almayada kızını sikiş kursuna göndermeyen baba https://www.youtube.com/watch?v=JdhJq-53J-w
