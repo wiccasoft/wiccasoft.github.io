@@ -1,4 +1,5 @@
 <!--
+bkz türklerin çok eğlenceli olmasını çekemyen dünya
 bkz eğlenen türklere tahammülü olmayan çomar
 bkz noel yaklaştıkça pasifleşen gay
 bkz erdoğanın damatlarıyla aynı havuza düşsen naparsın sorunsalı
