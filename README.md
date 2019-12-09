@@ -1,4 +1,5 @@
 <!--
+bkz yılbaşında yılsonu diyenlere tavsiye
 bkz yılsonu yaklaştıkça yılbaşı espirisi yapacam diyen müslüman
 bkz yılsonu yaklaştıkça yılbaşını kıskanan yobaz
 bkz her gece barda gönlüm hovarda söyleyen çomarlara tahamamülü olmayan insan
