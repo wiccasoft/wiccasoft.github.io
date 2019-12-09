@@ -1,4 +1,5 @@
 <!--
+bkz cinsel seks yapılan kadının oğlunun sözlükte başlık açması
 bkz annesiyle cinsel seks esnasında ekonomiğ çoh eyi diyen sözlük oğlanı
 bkz recep tayyip erdogan anamın üstünde yakalansa orospuluk anamdadır diyen sözlükçü
 bkz annesiyle cinsel seks esnasında başlık açan sözlük oğlanı
