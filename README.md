@@ -1,4 +1,5 @@
 <!--
+bkz devlet vergi alırken yorulmasın diye özel vergi dairesi kurulsun kampanyası
 bkz devletin süper bişi olması
 bkz devlet gözetiminde sözlük istiyoruz kampanyası
 bkz kadir mısıroğlunun atatürk 161 boyunda videsu
