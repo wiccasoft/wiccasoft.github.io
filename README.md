@@ -1,4 +1,6 @@
 <!-- 
+"Bu ezanlar, ki şehadetleri dinin temeli,
+Ebedî, yurdumun üstünde benim inlemeli." https://www.youtube.com/watch?v=18eqJ-CLa1c
 https://twitter.com/drbetulsayan/status/1104511912589647878?lang=en
 https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte
 https://twitter.com/radikal lol
