@@ -1,4 +1,5 @@
 <!-- 
+bkz ibrahim kaypakyaya deniz gezmiş mahir çayan solcusu
 bkz trt2 de yayınlanan deniz gezmiş ibrahim kaypakkaya belgeseli
 bkz masterchef yasinnin ferhat ile şirin dizisin övmesi
 bkz 3 gün dsmart macun tv izletilen farenin beyin faaliyetlerini yitirmesi
