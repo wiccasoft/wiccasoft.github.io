@@ -1,4 +1,5 @@
 <!--
+bkz bkz 140 journos tayyiple yolu ayrılana tayyipçiler
 bkz tayyipten kurtulmak için ada satın almak
 bkz tayyip gözetiminde yüzen ada
 bkz tayyipin eminenin götünün dağılmasını engeleyememesi
