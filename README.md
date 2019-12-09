@@ -1,4 +1,5 @@
 <!-- 
+https://github.com/danmactough/node-feedparser/tree/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce 
 bkz karısını çalıştırmayan gavatların güldürmesi :))))))))
 bkz kozmik odadaki sırların açığa çıkartan karı
 https://www.uludagsozluk.com/e/42529089/bkz atatürk ün domalırken hiç fotosunun olmaması
