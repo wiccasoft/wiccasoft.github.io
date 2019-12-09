@@ -1,5 +1,5 @@
 <!-- 
-bkz deniz gezmiş in çok gezmesi
+bkz deniz gezmiş in deniz baykal eleştirisi
 bkz masterchef yasinnin ferhat ile şirin dizisin övmesi
 bkz 3 gün dsmart macun tv izletilen farenin beyin faaliyetlerini yitirmesi
 bkz doğuda dsmartı gavat macun tv si interneti olmayanlar varken şikayet etmek cık cık cık 
