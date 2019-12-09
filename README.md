@@ -4,7 +4,7 @@ bkz cinsel sek yapılan incicinin annesinin performnsın çoh eyi demesi
 bkz cinsel seks yapılan kadının oğlunun incici çıkması
 bkz cinsel seks yapılan kadının oğlunun sözlükte başlık açması
 bkz annesiyle cinsel seks esnasında ekonomiğ çoh eyi diyen sözlük oğlanı
-bkz recep tayyip erdogan anamın üstünde yakalansa orospuluk anamdadır diyen sözlükçü
+bkz recep tayyip erdogan anamın üstünde yakalansa orospuluk anamdadır diyen ekşici
 bkz annesiyle cinsel seks esnasında başlık açan sözlük oğlanı
 bkz sevdiceğime aleyna tilki nin oyuncak ayısından alırım diyen il başkanı
 bkz tatildeki il başkanının kızlara sarkması
