@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+bkz karısını kızını fetö evlerine yollayan gavatın meriç çıkması
 bkz o adam zaten gavattı be kızım boşver
 bkz karısını kızını fetö evlerine yollayan gavatın türkiyeyi terk etme planları yapması
 bkz kendimi ak sevdalılara saklıyorum diyen çıtır erkek https://www.youtube.com/watch?v=RHBoMuNszuk
