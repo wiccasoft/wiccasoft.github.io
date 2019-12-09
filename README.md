@@ -1,5 +1,5 @@
 <!--
-bkz denizde koltuk altıyla osuruk sesi yapan kürt görsen naparsın sorunssalı
+bkz denizde koltuk altıyla osuruk sesi yapan kutup ayısı görsen naparsın sorunssalı
 bkz daudoğlanın bacanağı denize düşse naparsın sorunsalı
 bkz hz musa denizi yarsa deniz yarılır mı sorunsalı
 bkz yangında yanan aleviyi kurtarırmısın sorunsalı
