@@ -1,4 +1,5 @@
 <!--
+bkz netanyahunun erdonun kılına zarar gelirse karşınızda beni bulursunuz çıkışı
 bkz ibrahim tatlıseksin uzun adamı yedirmem açıklaması
 bkz orhan bencegayin yerim uzun adamın yeri paylaşımı
 bkz akil adamların il milli eğitim müdürünü desteklemesi
