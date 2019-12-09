@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/tevfik-g%C3%B6ksu-nun-imamo%C4%9Flu-nu-tokat-delisi-yapmas%C4%B1/
 bkz cinselli cinselsi ilişki istemeyen 1978 li işi arabası evi olmayan erkek
 bkz erkeğin 1978 li olduğunu öürenince göt olan ulucu kız
 bkz işsiz ama yakışıklı 1978 li erkeğine tavsiye vermeyen ergen
