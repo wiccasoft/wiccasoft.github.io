@@ -1,4 +1,5 @@
 <!-- 
+swan song for a nation
 https://twitter.com/drbetulsayan/status/1104511912589647878?lang=en
 https://www.youtube.com/watch?v=EfAsNffCjsM
 https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte
