@@ -1,4 +1,5 @@
 <!--
+bkz denize düşmese en çok kimi lider olarak görürsün
 bkz killa kahan denize düşse almanlar napar sorunsalı
 bkz denize kakatürk mü düşse boğarsın serdar ortaç mı
 bkz kakatürke benzeyen adam vs serdar ortaça benzeyen japon
