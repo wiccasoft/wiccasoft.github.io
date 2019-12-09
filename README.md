@@ -1,4 +1,5 @@
 <!-- 
+bkz iyi ki erdoganin damadi değilim diye şükretmek https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz cankan vs ismail yk vs hilla kahan https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz erdoğanın kızlarını sikecek kadar midesiz olmak https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz kız çocuğu olacak kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
