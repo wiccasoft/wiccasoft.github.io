@@ -1,6 +1,8 @@
 <!--
 https://twitter.com/MarinSanna
 bkz tivibu dsmart bağlatan dünya lideri
+bkz sezai temelli nin devlet bahçeliyle tokalaşması
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7elinin-sezai-temelli-ile-tokala%C5%9Fmas%C4%B1/
 bkz acun abi gavat değil tamam mı diyen kamalcı https://www.uludagsozluk.com/e/42531944/
 bkz karısınıa kızına tayt giydirip fetöş evlerine yollayan gavat
 bkz fetöş evlerinde dönen kahkaha tufanı 
