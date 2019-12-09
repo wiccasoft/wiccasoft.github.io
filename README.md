@@ -1,6 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
-bkz ak sevdayla ölüme bile giderim https://www.youtube.com/watch?v=iteqUmkms9M
+bkz ak sevdaya ben de varım sen de var mısın deli oğlan https://www.youtube.com/watch?v=iteqUmkms9M
 bkz küçük oğlana apple tv bağlatan dünya lideri https://www.youtube.com/watch?v=iteqUmkms9M
 bkz sezai temelli nin devlet bahçeliyle tokalaşması yeni parti sinyalleri anlamına mı geliyor
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7elinin-sezai-temelli-ile-tokala%C5%9Fmas%C4%B1/
