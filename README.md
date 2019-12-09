@@ -1,4 +1,5 @@
 <!--
+bkz cinsel ilişki istemeyen erkeğie tecavüz eden karılar
 bkz cinsel ilişki teklifine türk lütfen demek
 bkz mahsun kırmızıgül denize düşse kurtarır mısın sorunsalı
 bkz bülent ecevit denizden slip mayolu çıksa naparsın sorunsalı
