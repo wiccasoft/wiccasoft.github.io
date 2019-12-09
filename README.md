@@ -1,4 +1,5 @@
 <!--
+bkz denizde cinsel seks teklifini reddedden erkeğe naparsın sorunsalı
 bkz havuza kim düşse şey yaparsın https://www.youtube.com/watch?v=2SzDVoaY8mg
 bkz denize rus mu düşse kurtarırsın yahudi mi ?
 bkz denize apo mu düşse kurtarırsın tatlıses mi 
