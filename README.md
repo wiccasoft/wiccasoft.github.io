@@ -1,7 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
-bkz devlet bahceli geri vitesi
-bkz devlet bahcelinin finteche geçiyoruz sinyalleri yakması
+bkz devlet bahcelinin finteche geçiyoruz sinyalleri yakması https://www.youtube.com/watch?v=yP9Qt-bSz40
 bkz devlet bahcelinin sosyal demokrat parti başkanı sanna marin i debrik edmesi
 https://tr.sputniknews.com/avrupa/201912091040792271-finlandiyada-sanna-marin-dunyanin-en-genc-basbakani-oldu/
 https://www.uludagsozluk.com/k/tevfik-g%C3%B6ksu-nun-imamo%C4%9Flu-nu-tokat-delisi-yapmas%C4%B1/&w=gd
