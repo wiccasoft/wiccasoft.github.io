@@ -1,5 +1,5 @@
 <!--
-bkz tenzile erdoganin dogurdugu yiğit vs zübeydenin doğurduğu piç
+bkz tenzile erdoganin dogurdugu yiğit vs zübeydenin doğurduğu it
 bkz orhan bencegayin erdoganin annesine dokunan olursa karşında beni bulur demesi
 bkz erdoğanın damadim da eyidir he demesi
 bkz cinsel seks yapılan kadının beline kuvvet yiğidim oğlan entry giriyo devam et çok eyi demesi
