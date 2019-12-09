@@ -1,4 +1,5 @@
 <!--
+bkz erdoganizm varken baska ideolojilerde bogulmask
 bkz gavatların genelde solcu olması
 bkz kurban vahşettir deyip noelde hindi kesen gavat
 bkz saçları örgülü solcu kızların zencefilli çay içmesi
