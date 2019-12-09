@@ -1,5 +1,6 @@
 <!--
 bkz devletin malı deniz yemeyen keriz 
+https://www.uludagsozluk.com/k/bir-d%C3%BCzine-kar%C4%B1s%C4%B1-olan-gavad/ bkz a bu benim
 bkz bilal vakıf paraları ibiza da bi gece de yese napardınız
 bkz facebook cia gözetiminde olsa napardınız sorunsalı
 bkz twitter nsa gözetiminde olsa nolurdu sorunsalı
