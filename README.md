@@ -1,6 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
-bkz küçük oğlana tivibu dsmart bağlatan dünya lideri
+bkz küçük oğlana apple tv bağlatan dünya lideri
 bkz sezai temelli nin devlet bahçeliyle tokalaşması yeni parti sinyalleri anlamına mı geliyor
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7elinin-sezai-temelli-ile-tokala%C5%9Fmas%C4%B1/
 bkz acun abi gavat değil tamam mı diyen kamalcı https://www.uludagsozluk.com/e/42531944/
