@@ -1,6 +1,6 @@
 <!--
 bkz türklerdeki denize giren insanı kurtarma içgüdüsü sebebi?
-bkz 7 yıldır denize girmemek
+bkz 7 yıldır fakirlikten  denize girmemiş olamk
 bkz denize türkün düşmemesi sorunsalı
 bkz türkün üstün ırk olması deniz düşen kürtü kurtarmaması
 bkz türkün üstün ırk olmasını çekemeyen köpek soylular (bkz kürtler ve araplar )
