@@ -1,5 +1,6 @@
 <!--
-bkz rece patatyyip doğanın israfı önlemek için heykelleri tayyip şeklinde yaptırması
+https://www.youtube.com/watch?v=Afq6UM-01Xs
+bkz tayip doğanın israfı önlemek için heykelleri tayyip şeklinde yaptırması
 bkz serdar ortaçın sinan bolata 10. yıl marşıyla verdiği ayar
 bkz sinan bolatın serdar ortaça şarkı vermewyeceğim demesi
 bkz serdar ortaçın yerim asyalıların  yeridir paylaşımı
