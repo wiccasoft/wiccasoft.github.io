@@ -1,4 +1,5 @@
 <!--
+bkz erdoğanın damadim da eyidir he demesi
 bkz cinsel seks yapılan kadının beline kuvvet yiğidim oğlan entry giriyo devam et çok eyi demesi
 bkz cinsel sek yapılan incicinin annesinin performnsın çoh eyi demesi
 bkz cinsel seks yapılan kadının oğlunun incici çıkması
