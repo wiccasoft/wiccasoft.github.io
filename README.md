@@ -1,4 +1,5 @@
 <!--
+bkz cinselli cinselsi ilişki istemeyen 1978 li işi arabası evi olmayan erkek
 bkz erkeğin 1978 li olduğunu öürenince göt olan ulucu kız
 bkz işsiz ama yakışıklı 1978 li erkeğine tavsiye vermeyen ergen
 bkz cinsel ilişki seks istemeyen 1978 li erkek
