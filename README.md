@@ -1,6 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
-bkz apo gavat acun tv izlediği gerçeği
+bkz apo nun hücresinde  gavat acun tv izlediği gerçeği
 https://www.uludagsozluk.com/k/%C3%B6calan-tvbu-mu-dsmart-m%C4%B1-digit%C3%BCrk-m%C3%BC-izliyor/ bkz rt (recep tayyip )
 bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla neden acaba
