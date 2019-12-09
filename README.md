@@ -1,4 +1,6 @@
 <!--
+bkz akil adamların il milli eğitim müdürünü desteklemesi
+bkz orhan bence gayin il milli eğitim müdürünü desteklemesi
 bkz kaymakamın il milli müdürüne ne ayaksın sen demesi
 bkz il milli eğitim müdürünün kzıalrın eteke altlarına kamera koyması
 bkz onu boşverde hz süleyman ın kırk kaplan gücüde olması
