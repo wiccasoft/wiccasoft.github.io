@@ -1,4 +1,5 @@
 <!--
+bkz hoşlandığını gavat ormanda kırk kaplan gücündeyim dese napardınız
 bkz hoşlandığınız gavat denize düşse napardınız sorunsalı
 bkz devletin malı deniz yemeyen keriz 
 https://www.uludagsozluk.com/k/bir-d%C3%BCzine-kar%C4%B1s%C4%B1-olan-gavad/ bkz a bu benim
