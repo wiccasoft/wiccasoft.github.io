@@ -1,5 +1,7 @@
 <!-- 
 bkz aktrollerin iş başı yapması
+bkz aponun odasına dsmart ulucu kamalcılar acun tv 
+https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg
 bkz topkekini yerken yaparken acun abi çıktı tvye  anne diyen ulucu gavat
 bkz ulucu gavatlar odalarında tvibiu mu izliyo dsmart da umut nayır mı izliyor sorunsalı
 bkz apple tv nin kamalcı gavatları siklememesi
