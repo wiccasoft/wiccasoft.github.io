@@ -1,4 +1,5 @@
 <!--
+bkz tayyipten kurtulmak için ada satın almak
 bkz tayyip gözetiminde yüzen ada
 bkz tayyipin eminenin götünün dağılmasını engeleyememesi
 bkz denizden hz osman çıksa yerim diyen yahudi https://www.youtube.com/watch?v=RHBoMuNszuk
