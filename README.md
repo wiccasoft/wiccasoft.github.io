@@ -1,4 +1,5 @@
 <!--
+bkz yılbaşında cübbeli izleyecem diyen yahudi
 bkz yılbaşında yılsonu diyenlere tavsiye
 bkz yılsonu yaklaştıkça yılbaşı espirisi yapacam diyen müslüman
 bkz yılsonu yaklaştıkça yılbaşını kıskanan yobaz
