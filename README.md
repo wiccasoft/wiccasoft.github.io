@@ -1,7 +1,7 @@
 <!--
 https://twitter.com/MarinSanna
 bkz karısını kızını fetöş evlerine yollayan gavat
-bkz https://www.youtube.com/watch?v=nx-F_0s-Cxs lol adasdasdasdada
+bkz https://www.youtube.com/watch?v=nx-F_0s-Cxs adasdasdasdada
 bkz erdonun iett şöförlüğünden trilyonerliğe varan serüveni https://www.youtube.com/watch?v=nx-F_0s-Cxs
 bkz erdonun necmettine hoca efendi dediği yıllar vs tayyipin fetöşün dizinde büyüdüğü yıllar
 https://www.youtube.com/watch?v=zx3F_W2lr7M&feature=youtu.be bkz herkesin osmanlı torunu olduğu malum ülke
