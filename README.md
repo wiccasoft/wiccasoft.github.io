@@ -8,11 +8,8 @@ https://www.uludagsozluk.com/k/devlet-bah%C3%A7elinin-sezai-temelli-ile-tokala%C
 bkz acun abi gavat değil tamam mı diyen kamalcı https://www.uludagsozluk.com/e/42531944/
 bkz karısınıa kızına tayt giydirip fetöş evlerine yollayan gavat
 bkz fetöş evlerinde dönen kahkaha tufanı 
-bkz https://www.youtube.com/watch?v=nx-F_0s-Cxs adasdasdasdada h
-bkz erdonun iett şöförlüğünden trilyonerliğe varan serüveni https://www.youtube.com/watch?v=nx-F_0s-Cxs
-bkz erdonun necmettine hoca efendi dediği yıllar vs tayyipin fetöşün dizinde büyüdüğü yıllar
-https://www.youtube.com/watch?v=zx3F_W2lr7M&feature=youtu.be bkz herkesin osmanlı torunu olduğu malum ülke
-https://www.uludagsozluk.com/k/erke%C4%9Fi-evcille%C5%9Ftirmek/&w=bg bkz 41 yaşında evi olmayan ezik soysuz erkek
+bkz https://www.youtube.com/watch?v=nx-F_0s-Cxs adasdasdasdada 
+https://www.youtube.com/watch?v=zx3F_W2lr7M&feature=youtu.be bkz osmanlı torunu
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-nokia-3310-kullanmas%C4%B1/
 bkz konstantinapolis çok hojdır ama benena https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz imamoglanin konstantinapolisi bırakıp fintechle ilgilenmesi 
