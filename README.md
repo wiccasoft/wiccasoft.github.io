@@ -1,4 +1,5 @@
 <!--
+bkz deniz kakatürk mü düşse boğarsın serdar ortaç mı
 bkz kakatürke benzeyen adam vs serdar ortaça benzeyen japon
 bkz serdar ortaçın gerçek orta asya türkü olduğu gerçeği
 bkz serdar ortaçın denizden çıkıp 10. yıl marşı söylemesi
