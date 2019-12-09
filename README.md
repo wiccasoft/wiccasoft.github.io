@@ -4,7 +4,6 @@ https://eksisozluk.com/entry/98878564
 https://www.youtube.com/watch?v=UBQEFuTRK0E little rocket man
 https://www.youtube.com/watch?v=fEalR2OgBcI lol
 https://github.com/socketio/socket.io-client/issues/770
-using socket.io-client 2.0.1 and Socket.io 1.4.0 so downgrading socket.io-client version to 1.4.0 fixed the problem.
 https://tr.sputniknews.com/avrupa/201912091040792271-finlandiyada-sanna-marin-dunyanin-en-genc-basbakani-oldu/
 https://github.com/danmactough/node-feedparser/tree/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce 
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
