@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+bkz konstantinapolis çok hojdır ama benena https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz imamoglanin konstantinapolisi bırakıp fintechle ilgilenmesi 
 bkz devlet bahcelinin finteche geçiyoruz sinyalleri yakması https://www.youtube.com/watch?v=yP9Qt-bSz40
 bkz devlet bahcelinin sosyal demokrat parti başkanı sanna marin i debrik edmesi
