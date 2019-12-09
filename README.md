@@ -1,4 +1,5 @@
 <!--
+bkz tayyipin metal yorgunluğu https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz tayyipin akp grup toplantısında yaptığı efso konuşmas
 bkz akp nni tayyipin dağılışını engelleyememesi
 bkz devleti koruyan özel halk kuvvetleri kurulsun kampanyası
