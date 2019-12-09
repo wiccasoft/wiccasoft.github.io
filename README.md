@@ -1,5 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
+bkz dsmart bağlatıp umut nayır ın kaslarını izlemek
 bkz apo nun hücresinde  gavat acun tv izlediği gerçeği
 https://www.uludagsozluk.com/k/%C3%B6calan-tvbu-mu-dsmart-m%C4%B1-digit%C3%BCrk-m%C3%BC-izliyor/ bkz rt (recep tayyip )
 bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ 
