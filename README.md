@@ -1,4 +1,5 @@
 <!--
+bkz yılbaşı yaklaştıkça pasifleşen kamalcı
 bkz pasif bi kamalcının kulağına eğilip yılbaşı yaklaşıyo demek
 bkz yılbaşı yarramın başı diyen deist müslüman 
 bkz yılbaşı yaklaştıkça yarrağının başı agresfileşen müslüman
