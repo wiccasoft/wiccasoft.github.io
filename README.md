@@ -1,4 +1,5 @@
 <!-- 
+bkz yobazdogan dsmart bağlatti diye kıskanan ekşciciler
 bkz aktrollerin iş başı yapması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz ekşcilerin neymara hiç entry girmemesi sorunsalı
 https://kaybedince-daha-cok-seveceksin.uludagsozluk.com/ bkz yahudileri ırk sanan kamalcı
