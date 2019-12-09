@@ -37,62 +37,8 @@ bkz deniz kürt düşse üstüne sıçarmısın sorunsalı
 bkz akp ümranye il başkanının yerim uzun adamın yeridir paylaşımı
 https://www.youtube.com/watch?v=Afq6UM-01Xs
 bkz tayip doğanın israfı önlemek için heykelleri tayyip şeklinde yaptırması
-bkz serdar ortaçın sinan bolata 10. yıl marşıyla verdiği ayar
-bkz sinan bolatın serdar ortaça şarkı vermewyeceğim demesi
-bkz serdar ortaçın yerim asyalıların  yeridir paylaşımı
-bkz kamalcılarla müslümanlar denize düşse üstlerine dahi işemem amk
-bkz kamalcılarla yobazdogan basçalanın aynı kafada olduğu gerçeği
-bkz türklerdeki denize giren insanı kurtarma içgüdüsü sebebi?
-bkz 7 yıldır fakirlikten  denize girmemiş olamk
 bkz denize türkün düşmemesi sorunsalı
-bkz türkün üstün ırk olması deniz düşen kürtü kurtarmaması
-bkz türkün üstün ırk olmasını çekemeyen köpek soylular (bkz kürtler ve araplar )
-bkz an itibariyle kıskanıldığımız gerçeği
-bkz bütün dünyanın türkleri kıskanması
-bkz denize kürt dökülse naparsın sorunsalı
-bkz denize kürt ve türk olmayan düşse naparsın sorunsalı
-bkz denizden türk çıksa yer misin 10. yıl marşı mı söylersin sorunsalı
 bkz deniz kürt mü düşse kurtarırsın  müslüman mı
-bkz kemalist ve serdar ortaç tan ödü patlayan kürtçüler
-bkz serdar ortaçın orta asyanı asıl sagibi biz çekik gözlüleriz demesi
-bkz serdar ortaçın türkçü olmasını çekemeyen kürtçü pkklılar
-bkz serdar ortaçın pkk lı ahmet kayaya 10. yıl marşıyla verdiği cevap
-bkz serdar ortçaın ahmet kayay verdiği efso ayar
-bkz hz ebu lehep asaletini ahlakını almak
-bkz uzun adamın yüzen sarayı vs ata cüce nin siktirboktan vapuru
-bkz uzun adamın kamalcı olmasını çekemeyen komunükler
-bkz komunüklere hz öme  hz ebu musaf  sevgisi vermek
-bkz uzun adamın trilyonlarını kıskanan komünikler
-bkz komuniklerin terörük olması
-bkz uzun adamın  trilyonlarında gözü olan komünikler
-bkz uzun adamın  trilyonları götürmesin diye çirkeflik yapan 3 beş komunik
-bkz erdoganizm varken baska ideolojilerde bogulmask
-bkz gavatların genelde solcu olması
-bkz kurban vahşettir deyip noelde hindi kesen gavat
-bkz saçları örgülü solcu kızların zencefilli çay içmesi
-bkz yobazdoganın kaypakdoganları tokat manyaa yapması
-bkz yerim uzun adamın yeri demek varken yerim kaypakların yeri demek
-bkz uzun adam varken kaypakkayaya tapmak
-bkz uzun adamın yanında olmak varken gavatların yanında olmak
-bak gavat ve hain ruhsuz erkeklerdeki yobazdogan düşmanlığı
-bkz karısını çalıştırmayan gavat
-bkz gavatların acun abiye yüklenemesi
-bkz gavatların genelde deniz gezmiş solcusu olması
-bkz gavat kaypakkaya nın karısını paylaşması
-bkz gavatların karılarını paylaşmasına ses etmeyen rte
-bkz gavat kürtçülerin karılarını paylaşmaları
-bkz serdar ortaçın gavat kürtçülere verdiği ayar
-bkz gavat komunistlerin xhamster da  karılarını paylaşmaları
-bkz hz yakup asaleti vs ibrahim kaypakkaya kaypaklığı
-bkz peygamber efendilerimiz vs solcuların taptığı zavallılar
-bkz mahir çayan solcusu vs deniz gezmiş solcusu
-bkz hz ömer kızına gömdü mü sorunsalı
-bkz hz ömer dincisi vs ebu leheb siyasal islamcısı
-bkz che guevera solcusu vs deniz gezmiş solcusu
-bkz ibrahim kaypakyaya deniz gezmiş mahir çayan solcusu
-bkz trt2 de yayınlanan deniz gezmiş ibrahim kaypakkaya belgeseli
-bkz masterchef yasinnin ferhat ile şirin dizisin övmesi
-bkz 3 gün dsmart macun tv izletilen farenin beyin faaliyetlerini yitirmesi
 bkz doğuda dsmartı gavat macun tv si interneti olmayanlar varken şikayet etmek cık cık cık 
 bkz yobazdogan odama dsmart şifresiz lig tv umut nayır hd bağlatti diye kıskanan ekşiciler
 bkz aktrollerin iş başı yapması https://www.youtube.com/watch?v=TA6y-oRT1w0
