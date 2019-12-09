@@ -1,4 +1,5 @@
 <!--
+bkz denizden babam çıksa yerim diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz denize düşen kürtü silip suriyeliyi kurtarmam foğşikmiyim diyen türk oğlu tük
 bkz yılbaşında denize düşecem diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
 https://www.youtube.com/watch?v=RHBoMuNszuk bkz yılbaşında agresifleşmeyen kürt
