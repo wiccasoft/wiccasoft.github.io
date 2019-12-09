@@ -1,4 +1,5 @@
 <!--
+bkz yılbaşı bitince yine yarramın başını alacak olan ergenler
 bkz yılbaşı yaklaştıkça yarramın başını alacak olan ergenler
 bkz yılbaşı yaklaştıkça tavsiye veren ergenler
 bkz yılbaşında pasif bi kamalcıyı dansöz gibi oynatmak
