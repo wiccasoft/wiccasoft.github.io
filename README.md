@@ -1,7 +1,5 @@
 <!--
-bkz cinserl seks ilişki ihtiyacı olmayan 1978 li erkek
-bkz cinsel seks düşünmüyorum diyen 1978 li erkek
-bkz cinsel seks ilişki istemeyen şeytan
+bkz cinsel ilişki seks istemeyen 1978 li erkek
 https://www.uludagsozluk.com/k/sevgilisinin-tayt-giymesine-izin-veren-gavat/&w=bg bkz şeytanın hileleri
 bkz https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
 bkz cinsel ilişki istemeyen erkeğe tecavüz etmeye çalışan türkler
