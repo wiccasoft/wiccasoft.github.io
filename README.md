@@ -1,4 +1,5 @@
 <!--
+bkz il başkanının kızlara sarkması
 bkz işsiz erkeklere tavsiye veren şeker kızlar eqlesin
 bkz sike sürülecek aklı olmayanların akıl vermesi olayı
 bkz yılbaşını entry girerek geçirecek olan ergenlerin şimdiden akıl vermesi
