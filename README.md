@@ -1,4 +1,5 @@
 <!--
+bkz denizden türk çıksa yer misin 10. yhıl marşı mı söylersin sorunsalı
 bkz deniz kürt mü düşse kurtarırsın  müslüman mı
 bkz kemalist ve serdar ortaç tan ödü patlayan kürtçüler
 bkz serdar ortaçın orta asyanı asıl sagibi biz çekik gözlüleriz demesi
