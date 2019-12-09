@@ -1,5 +1,6 @@
 <!--
-bkzx cinsel sek yapılan incicinin annesinin performnsın çoh eyi demesi
+bkz cinsel seks yapılan kadının beline kuvvet yiğidim oğlan başlık açıyo demesi
+bkz cinsel sek yapılan incicinin annesinin performnsın çoh eyi demesi
 bkz cinsel seks yapılan kadının oğlunun incici çıkması
 bkz cinsel seks yapılan kadının oğlunun sözlükte başlık açması
 bkz annesiyle cinsel seks esnasında ekonomiğ çoh eyi diyen sözlük oğlanı
