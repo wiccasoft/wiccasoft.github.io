@@ -1,4 +1,5 @@
 <!--
+bkz komunüklere hz ömer sevgisi vermek
 bkz uzun adamın trilyonlarını kıskanan komünikler
 bkz komuniklerin terörük olması
 bkz uzun adamın  trilyonlarında gözü olan komünikler
