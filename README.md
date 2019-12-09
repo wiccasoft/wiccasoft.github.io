@@ -1,4 +1,5 @@
 <!--
+bkz killa kahan denize düşse almanlar napar sorunsalı
 bkz denize kakatürk mü düşse boğarsın serdar ortaç mı
 bkz kakatürke benzeyen adam vs serdar ortaça benzeyen japon
 bkz serdar ortaçın gerçek orta asya türkü olduğu gerçeği
