@@ -1,4 +1,5 @@
 <!--
+bkz mahsun kırmızıgül denize düşse kurtarırsmısın sorunsalı
 bkz bülent ecevit denizden slip mayolu çıksa naparsın sorunsalı
 bkz tansu çillerin eşi denize düşse kurtarır mısın sorunsalı
 bkz angela merkel denize düşse kurtarır mısın sorunsalı
