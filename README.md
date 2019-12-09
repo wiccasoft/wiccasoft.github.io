@@ -1,4 +1,5 @@
 <!--
+bkz denizden ali sami yen çıksa naparsın sorunsalı
 bkz serdar ortaç denizden ıslak çıksa 10.yıl marşi söylese naparsın sorunsalı
 bkz denize kamalcı serdar ortaç mı pkklı ahmet kaya mı kurtarırsın sorunsalı
 bkz ıssız bi adaya düşsen kimi alırsın sounsal https://www.youtube.com/watch?v=0XaTDfxSmvk
