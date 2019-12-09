@@ -1,4 +1,5 @@
 <!--
+bkz denizden babam çıksa yerim diyen birini denizde kurtarırmısın sorunsalı
 bkz denizden kurt çıksa yerim diyen kürt
 bkz denize kurt düşse kurtarırmısın sorunsalı
 bkz il başkanınını denize kürt düşse kurtarmama demesi
