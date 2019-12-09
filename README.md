@@ -1,4 +1,5 @@
 <!--
+bkz türklerdeki denize giren insanı kurtarma içgüdüsü sebebi?
 bkz 7 yıldır denize girmemek
 bkz denize türkün düşmemesi sorunsalı
 bkz türkün üstün ırk olması deniz düşen kürtü kurtarmaması
