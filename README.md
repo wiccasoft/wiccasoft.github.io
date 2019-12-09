@@ -1,7 +1,5 @@
 <!--
 bkz annesiyle cinsel seks esnasında başlık açan sözlük oğlanı
-bkz cinsel seks esnasında yarrağı kaldırıp araya giren oğlanaın kafasına vurup ekonomiğ çoh eyi demek
-bkz cinsel sekste güçlüyüm diyen 1978 li erkek
 bkz sevdiceğime aleyna tilki nin oyuncak ayısından alırım diyen il başkanı
 bkz tatildeki il başkanının kızlara sarkması
 bkz işsiz erkeklere tavsiye veren şeker kızlar eqlesin
