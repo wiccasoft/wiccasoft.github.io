@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+bkz acun abi gavat değil tamam mı diyen kamalcı
 bkz karısınıa kızına tayt giydirip fetöş evlerine yollayan gavat
 bkz fetöş evlerinde dönen kahkaha tufanı 
 bkz https://www.youtube.com/watch?v=nx-F_0s-Cxs adasdasdasdada h
