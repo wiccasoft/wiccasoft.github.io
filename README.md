@@ -1,4 +1,5 @@
 <!-- 
+https://twitter.com/drbetulsayan/status/1104511912589647878?lang=en
 https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte
 https://twitter.com/radikal lol
 bkz kadınlı erkekli seks haramdır yoksa hala ibret almaz mısınız
