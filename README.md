@@ -1,4 +1,5 @@
 <!-- 
+bkz aktrollerin iş başı yapması
 https://hitler-benim-atam.uludagsozluk.com/ bkz akp vergileri nereye harcıyor sorunsalı
 https://www.uludagsozluk.com/k/adolf-hitler-i-koruma-kanunu/&w=bg bkz erdogana küfreden troll
 https://www.ahaber.com.tr/video/gundem-videolari/selcuk-bayraktar-paylasti-ilk-kez-gokyuzuyle-bulustu
