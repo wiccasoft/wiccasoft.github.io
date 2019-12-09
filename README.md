@@ -1,4 +1,5 @@
 <!--
+bkz erdonun sanna marin kim amk demesi
 bkz sanna marin in erdonun kılına zarar gelsin hele bi gelsin çıkışı
 bkz netanyahunun erdonun kılına zarar gelirse karşınızda beni bulursunuz çıkışı
 bkz ibrahim tatlıseksin uzun adamı yedirmem açıklaması
