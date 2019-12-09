@@ -1,4 +1,5 @@
 <!--
+bkz emre belezoğlu denize düşse naparsın sorundalı
 bkz şeyma subaşı denize düşse naparsın sorunsalı
 bkz ermeni toroğlan denize düşse kurtarırmısın sorunsalı
 bkz deniz yılanı denzie düşse naparsın sorunsalı
