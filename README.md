@@ -1,4 +1,5 @@
 <!--
+bkz rece patatyyip doğanın israfı önlemek için heykelleri kaldırması
 bkz serdar ortaçın sinan bolata 10. yıl marşıyla verdiği ayar
 bkz sinan bolatın serdar ortaça şarkı vermewyeceğim demesi
 bkz serdar ortaçın yerim asyalıların  yeridir paylaşımı
