@@ -1,9 +1,6 @@
 <!--
 https://www.uludagsozluk.com/k/tevfik-g%C3%B6ksu-nun-imamo%C4%9Flu-nu-tokat-delisi-yapmas%C4%B1/
-bkz cinselli cinselsi ilişki istemeyen 1978 li işi arabası evi olmayan erkek
-bkz erkeğin 1978 li olduğunu öürenince göt olan ulucu kız
-bkz işsiz ama yakışıklı 1978 li erkeğine tavsiye vermeyen ergen
-bkz cinsel ilişki seks istemeyen 1978 li erkek
+bkz cinselli cinselsiz ilişki istemeyen 1978 li işi arabası evi olmayan erkek
 https://www.uludagsozluk.com/k/sevgilisinin-tayt-giymesine-izin-veren-gavat/&w=bg bkz şeytanın hileleri
 bkz https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
 bkz cinsel ilişki istemeyen erkeğe tecavüz etmeye çalışan türkler
