@@ -1,4 +1,5 @@
 <!--
+bkz erdoganin trilyonlarında gözü olan komünikler
 bkz erdogan trilyonları götürmesin diye çirkeflik yapan 3 beş komunik
 bkz erdoganizm varken baska ideolojilerde bogulmask
 bkz gavatların genelde solcu olması
