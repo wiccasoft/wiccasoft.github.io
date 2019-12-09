@@ -1,6 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
-bkz kendimi ak sevdalı kızlara saklıyorum diyen çıtır erkek https://www.youtube.com/watch?v=RHBoMuNszuk
+bkz kendimi ak sevdalılara saklıyorum diyen çıtır erkek https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz ak sevdalı suriyelinin coşması
 bkz ak sevdaya ben de varım sen de var mısın deli oğlan https://www.youtube.com/watch?v=iteqUmkms9M
 bkz küçük oğlana apple tv bağlatan dünya lideri https://www.youtube.com/watch?v=iteqUmkms9M
