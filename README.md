@@ -1,4 +1,5 @@
 <!--
+bkz ılık denize putin düşse kurtarırmısın sorunsalı
 bkz denizden kürt çıksa o denzie girer msini sorunsalı
 bkz denizden ali sami yen çıksa naparsın sorunsalı
 bkz serdar ortaç denizden ıslak çıksa 10.yıl marşi söylese naparsın sorunsalı
