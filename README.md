@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=T_eNn2t-4Jc 2023 - 100
 https://www.youtube.com/watch?v=UBQEFuTRK0E little rocket man
 https://www.youtube.com/watch?v=fEalR2OgBcI lol
 https://github.com/gooddata/gooddata-java/issues/837
+https://www.youtube.com/watch?v=eMqtd3MotJc
 https://github.com/socketio/socket.io-client/issues/770
 https://github.com/Azure/azure-functions-host/issues/2896
 https://tr.sputniknews.com/avrupa/201912091040792271-finlandiyada-sanna-marin-dunyanin-en-genc-basbakani-oldu/
