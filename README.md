@@ -1,4 +1,5 @@
 <!--
+bkz düğünlerde oynarım diyen adam https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz yılbaşında cübbeli izleyecem diyen yahudi
 bkz yılbaşında yılsonu diyenlere tavsiye
 bkz yılsonu yaklaştıkça yılbaşı espirisi yapacam diyen müslüman
