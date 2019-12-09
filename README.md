@@ -1,4 +1,5 @@
 <!--
+bkz sevdiceğime aleyna tilki nin oyuncak ayısından alırım diyen il başkanı
 bkz tatildeki il başkanının kızlara sarkması
 bkz işsiz erkeklere tavsiye veren şeker kızlar eqlesin
 bkz sike sürülecek aklı olmayanların akıl vermesi olayı
