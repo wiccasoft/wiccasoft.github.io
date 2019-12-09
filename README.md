@@ -1,6 +1,6 @@
 <!-- 
 bkz karısını çalıştırmayan gavatların güldürmesi :))))))))
-bkz kozmik odadaki sırların açığa çıkartan parti
+bkz kozmik odadaki sırların açığa çıkartan karı
 https://www.uludagsozluk.com/e/42529089/bkz atatürk ün domalırken hiç fotosunun olmaması
 bkz almanya belediyesinin yaptığı renki atayobaz heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
 bkz yobazdoganin ülkesinde yaşayıp başlık açabildiği halde şikayet eden mallar
