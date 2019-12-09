@@ -1,4 +1,5 @@
 <!-- 
+bkz yobazdoganin örtülü dünyası https://www.youtube.com/watch?v=pjzgb3abXEI
 bkz yobazdoganin daha da güçlenerek gelmesi https://www.youtube.com/watch?v=VI757x-_wKQ
 bkz yobazdoganin secimle gideceğini sanmak https://www.youtube.com/watch?v=yGDkkHnGRxo
 bkz yobazdagan family https://www.youtube.com/watch?v=h6Q9id4Q_js
