@@ -1,4 +1,5 @@
 <!--
+bkz yangında yanan kafirleri kurtarırmısın sorunsalı
 bkz ılık denize putin düşse kurtarırmısın sorunsalı
 bkz denizden kürt çıksa o denzie girer msini sorunsalı
 bkz denizden ali sami yen çıksa naparsın sorunsalı
