@@ -1,4 +1,5 @@
 <!--
+bkz ibrahim talıseskin hülya avşar 3 kere çaktım ne olay yaptınız çıkışı
 bkz erdonun sanna marin kim amk demesi
 bkz sanna marin in erdonun kılına zarar gelsin hele bi gelsin çıkışı
 bkz netanyahunun erdonun kılına zarar gelirse karşınızda beni bulursunuz çıkışı
