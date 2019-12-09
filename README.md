@@ -1,7 +1,6 @@
 <!--
 bkz https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
 bkz cinsel ilişki istemeyen erkeğe tecavüz etmeye çalışan türkler
-bkz cinsel ilişki teklifine türk lütfen demek 
 bkz mahsun kırmızıgül denize düşse kurtarır mısın sorunsalı
 bkz bülent ecevit denizden slip mayolu çıksa naparsın sorunsalı
 bkz tansu çillerin eşi denize düşse kurtarır mısın sorunsalı
