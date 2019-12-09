@@ -2,7 +2,7 @@
 bkz karısını çalıştırmayan gavatların güldürmesi :))))))))
 bkz kozmik odadaki sırların açığa çıkartan parti
 https://www.uludagsozluk.com/e/42529089/bkz atatürk ün domalırken hiç fotosunun olmaması
-bkz almanya belediyesinin renki atayobaz heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
+bkz almanya belediyesinin yaptığı renki atayobaz heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
 bkz yobazdoganin ülkesinde yaşayıp başlık açabildiği halde şikayet eden mallar
 bkz almanyada kızına bale yaptırmayan fedöcü pkk lı baba https://www.youtube.com/watch?v=JdhJq-53J-w
 bkz yobazdoganin örtülü dünyası https://www.youtube.com/watch?v=pjzgb3abXEI
