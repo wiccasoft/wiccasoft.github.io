@@ -1,5 +1,5 @@
 <!--
-bkz cinsel ilişki istemeyen deniz görmemiş kürdü kurtarırmısınız sorunsalı
+bkz cinsel ilişki teklifine türk lütfen demek
 bkz mahsun kırmızıgül denize düşse kurtarır mısın sorunsalı
 bkz bülent ecevit denizden slip mayolu çıksa naparsın sorunsalı
 bkz tansu çillerin eşi denize düşse kurtarır mısın sorunsalı
