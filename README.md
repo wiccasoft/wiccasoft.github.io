@@ -1,4 +1,5 @@
 <!--
+bkz e devletten ermeni torunu olduğunu öğrenip derin bi ohh çekmek
 bkz fesli bunağın keşke denize yunan dölü düşseydi açıklaması
 bkz denize ermeni dölü mü düşse yunan dölü mü düşse kurtarırsınız 
 bkz tayyipin metal yorgunluğu https://www.youtube.com/watch?v=PAlwP6oeJpA
