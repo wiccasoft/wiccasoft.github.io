@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+bkz çocuğu acun izleyerek büyütmek https://www.uludagsozluk.com/e/42531944/
 bkz acun abi gavat değil tamam mı diyen kamalcı
 bkz karısınıa kızına tayt giydirip fetöş evlerine yollayan gavat
 bkz fetöş evlerinde dönen kahkaha tufanı 
