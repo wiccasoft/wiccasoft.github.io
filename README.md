@@ -1,5 +1,5 @@
 <!-- 
-bkz dsmartı gavat macun tv si interneti olmayanlar varken şikayet etmek cık cık cık 
+bkz doğuda dsmartı gavat macun tv si interneti olmayanlar varken şikayet etmek cık cık cık 
 bkz yobazdogan odama dsmart şifresiz lig tv umut nayır hd bağlatti diye kıskanan ekşiciler
 bkz aktrollerin iş başı yapması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz ekşcilerin neymara hiç entry girmemesi sorunsalı
