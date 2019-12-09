@@ -1,4 +1,5 @@
 <!--
+bkz kadir mısıroğlunun atatürk 161 boyunda videsu
 bkz üç isimli lider karizması
 bkz mustafa kamal atatürk vs repe tayyip doğan
 bkz tayyip çok hojdır amam benena https://www.youtube.com/watch?v=PAlwP6oeJpA
