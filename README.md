@@ -1,4 +1,5 @@
 <!--
+bkz serdr ortaçın yılbaşı yaklaştıkça yılbaşı konserlerine hazırlanması
 bkz serdar ortaçın recep tayyip erdoğan diye yazılır karizma diye okunur açıklaması
 https://www.uludagsozluk.com/k/%C5%9Fu-an-t%C3%BCrkiye-de-lider-olarak-bir-tek-erdo%C4%9Fan-var/
 https://www.uludagsozluk.com/k/eskiden-insanlar-t%C3%BCp-gaz-kuyru%C4%9Funa-girerdi/
