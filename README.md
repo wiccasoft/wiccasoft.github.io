@@ -1,7 +1,7 @@
 <!-- 
+https://www.youtube.com/watch?v=YWZoZj1JJUI ellek ellek ekbeeeeeeer
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
 bkz madem ellek yok bu ezanlar nasıl inliyo yobazların üstünde https://www.youtube.com/watch?v=EfAsNffCjsM
-bkz şaka maka tayyibin türkiyenin anasını bellemesi
 https://twitter.com/drbetulsayan/status/1104511912589647878?lang=en
 https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte oç ları
 https://twitter.com/radikal lol
