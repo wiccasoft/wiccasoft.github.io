@@ -1,4 +1,5 @@
 <!--
+bkz il başkanınını kürt düşse kurtarmama demesi
 bkz chp il başkanının yerim uzun heykelin yeridir paylaşımı
 bkz müslümanların üstün ırk olması
 bkz deniz kürt düşse üstüne sıçarmısın sorunsalı
