@@ -1,5 +1,6 @@
 <!--
-bkz tevfik göksu imamaoğlunu tokatlayıp  ayakkabılarını boyatsa naparsınız
+bkz ayakkabı kutusu partisi kurulsa oy verir misiniz
+bkz tevfik göksu imamoğlunu tokatlayıp  ayakkabılarını boyatsa naparsınız
 bkz devlet bahçeli atıl kurt dese atılırmısınız
 bkz süleyman soylu devlete karşı gelenlerin  ayağını kırın dese napardınız
 bkz hoşlandığınızgavat ormanda kırk kaplan gücündeyim dese napardınız
