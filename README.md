@@ -1,4 +1,5 @@
 <!--
+bkz devlet gözetiminde sözlük istiyoruz kampanyası
 bkz kadir mısıroğlunun atatürk 161 boyunda videsu
 bkz üç isimli lider karizması
 bkz mustafa kamal atatürk vs repe tayyip doğan
