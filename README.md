@@ -1,11 +1,5 @@
 <!--
 bkz tayyipin metal yorgunluğu https://www.youtube.com/watch?v=PAlwP6oeJpA
-bkz tayyipin akp grup toplantısında yaptığı efso konuşmas
-bkz akp nni tayyipin dağılışını engelleyememesi
-bkz devleti koruyan özel halk kuvvetleri kurulsun kampanyası
-bkz devletin süper bişi olması
-bkz devlet gözetiminde sözlük istiyoruz kampanyası
-bkz kadir mısıroğlunun atatürk 161 boyunda videsu
 bkz üç isimli lider karizması
 bkz mustafa kamal atatürk vs repe tayyip doğan
 bkz tayyip çok hojdır amam benena https://www.youtube.com/watch?v=PAlwP6oeJpA
