@@ -1,8 +1,7 @@
 <!--
 https://twitter.com/MarinSanna
-bkz o adam zaten gavattı be kızım boşver
+bkz karısını kızını fetö evlerine yollayan gavatın kendimi yeni karıma saklim demesi
 bkz karısını kızını fetö evlerine yollayan gavatın meriç çıkması
-bkz karısını kızını fetö evlerine yollayan gavatın türkiyeyi terk etme planları yapması
 bkz kendimi ak sevdalılara saklıyorum diyen çıtır erkek https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz ak sevdalı suriyelinin coşması
 bkz ak sevdaya ben de varım sen de var mısın deli oğlan https://www.youtube.com/watch?v=iteqUmkms9M
