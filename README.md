@@ -1,10 +1,9 @@
 <!-- 
 bkz iyi ki yobazdoganin damadi değilim diye şükretmek https://www.youtube.com/watch?v=TA6y-oRT1w0
-bkz cankan vs ismail yk vs hilla kahan https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz erdoğanın kızlarını sikecek kadar midesiz olmak https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz kız çocuğu olacak kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
 bkz kızını başka erkeklere siktirecek kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
-bkz alamnyada çomarları eğiten baba https://www.youtube.com/watch?v=JdhJq-53J-w
+bkz alamanyada çomarları eğiten baba https://www.youtube.com/watch?v=JdhJq-53J-w
 bkz hitlerin islamı avrupaya yayma procesi https://www.youtube.com/watch?v=S-m1WImjqsE
 https://www.youtube.com/watch?v=Afq6UM-01Xs bkz führer
 https://www.uludagsozluk.com/k/almanya-da-k%C4%B1z%C4%B1n%C4%B1-y%C3%BCzme-dersine-g%C3%B6ndermeyen-baba/
