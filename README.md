@@ -1,5 +1,5 @@
 <!-- 
-bkz yobazdoganin oyuncakları https://www.youtube.com/watch?v=VI757x-_wKQ
+bkz yobazdoganin daha da güçlenerek gelmesi https://www.youtube.com/watch?v=VI757x-_wKQ
 bkz yobazdoganin secimle gideceğini sanmak https://www.youtube.com/watch?v=yGDkkHnGRxo
 bkz yobazdagan family https://www.youtube.com/watch?v=h6Q9id4Q_js
 bkz selçuk bayraktarın camilerin kuvvetini arttıran sihalar yapması https://www.dailymotion.com/video/x6yi7r7
