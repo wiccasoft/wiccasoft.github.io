@@ -1,5 +1,5 @@
 <!--
-bkz denizden hz ebu keleb çıksa yerim diyen müslüman https://www.youtube.com/watch?v=RHBoMuNszuk
+bkz denizden hz osman çıksa yerim diyen yahudi https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz yılbaşı yaklaştıkça pasifleşen türklerin heyecan yapması https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz yılbaşı yaklaşıyo diyo heyecan yapan suriyeli https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz denizden babam çıksa yerim diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
