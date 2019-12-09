@@ -1,5 +1,5 @@
 <!--
-bkz yılbaşı yaklaşıyo diyo heyecan yapan kürt https://www.youtube.com/watch?v=NXQJ9iR5BkA
+bkz yılbaşı yaklaşıyo diyo heyecan yapan suriyeli https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz denizden babam çıksa yerim diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz denize düşen kürtü silip suriyeliyi kurtarmam foğşikmiyim diyen türk oğlu tük
 bkz yılbaşında denize düşecem diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
