@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaç denize düşse ahmet kayayı kurtarırmısın sorunsalı
 bkz ıssız bi adaya düşsen kimi alırsın sounsal https://www.youtube.com/watch?v=0XaTDfxSmvk
 bkz ahmet çakar denize düşse naparsın sorunsalı
 bkz emre belezoğlu denize düşse naparsın sorundalı
