@@ -1,4 +1,5 @@
 <!-- 
+bkz gavat kürtçülerin karılarını paylaşmaları
 bkz serdar ortaçın gavat kürtçülere verdiği ayar
 bkz gavat komunistlerin xhamster da  karılarını paylaşmaları
 bkz hz yakup asaleti vs ibrahim kaypakkaya kaypaklığı
