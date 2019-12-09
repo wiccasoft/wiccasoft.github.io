@@ -1,5 +1,5 @@
 <!--
-bkz erdoğanın damatları yla aynı havuza düşsen naparsın sorunsalı
+bkz erdoğanın damatlarıyla aynı havuza düşsen naparsın sorunsalı
 bkz erdogan havuza düşse naparsın sorunsalı
 bkz denize erdoğan mı düşse atatürk mü düşse naparsın sorunsalı
 bkz denize baan düşse naparsın sorunsalı
