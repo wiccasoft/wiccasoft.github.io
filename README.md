@@ -1,4 +1,5 @@
 <!--
+bkz cxcinsel seks esnasında yarrağı kaldırıp araya giren oğlanaın kafasına vurup ekonomiğ çoh eyi demek
 bkz cinsel sekste güçlüyüm diyen 1978 li erkek
 bkz sevdiceğime aleyna tilki nin oyuncak ayısından alırım diyen il başkanı
 bkz tatildeki il başkanının kızlara sarkması
