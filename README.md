@@ -1,4 +1,5 @@
 <!--
+bkz rte cinsel seks teklifini reddetse naparsın soundalı
 bkz rte denize düşse kurtarırı mısın sorunsalı
 bkz cinsel sekse düşse kimi kurtarırsın sorunsalı
 bkz denizde kime cinsel seks teklifi edersin sorunsalı
