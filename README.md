@@ -1,5 +1,5 @@
 <!--
-bkz yılbaşını entry girerek geçirecek olan ergenler akıl vermesi
+bkz yılbaşını entry girerek geçirecek olan ergenlerin şimdiden akıl vermesi
 bkz yılbaşı bitince yine yarramın başını alacak olan ergenler
 bkz yılbaşı yaklaştıkça yarramın başını alacak olan ergenler
 bkz yılbaşı yaklaştıkça tavsiye veren ergenler
