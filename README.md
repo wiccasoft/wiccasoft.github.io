@@ -1,4 +1,5 @@
 <!--
+bkz fesli bunağın keşke yunan dölü düşseydi demesi
 bkz denize ermeni dölü mü düşse yunan dölü mü düşse kurtarırsınız sounsalı
 bkz tayyipin metal yorgunluğu https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz üç isimli lider karizması
