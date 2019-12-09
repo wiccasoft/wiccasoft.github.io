@@ -1,5 +1,6 @@
 <!--
-bkz serdar otçaın ahmet kayay verdiği efso ayar
+bkz serdar ortaçın pkk lı ahmet kayaya 10. yıl marşıyla verdiği cevap
+bkz serdar ortçaın ahmet kayay verdiği efso ayar
 bkz hz ebu lehep asaletini ahlakını almak
 bkz uzun adamın yüzen sarayı vs ata cüce nin siktirboktan vapuru
 bkz uzun adamın kamalcı olmasını çekemeyen komunükler
