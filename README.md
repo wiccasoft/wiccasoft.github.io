@@ -1,5 +1,5 @@
 <!--
-bkz denize düşen kürtü silip suriyeliyi kurtarmam diyen türk oğlu tük
+bkz denize düşen kürtü silip suriyeliyi kurtarmam foğşikmiyim diyen türk oğlu tük
 bkz yılbaşında denize düşecem diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
 https://www.youtube.com/watch?v=RHBoMuNszuk bkz yılbaşında agresifleşmeyen kürt
 https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCnde-geline-osmanl%C4%B1-tokad%C4%B1-atan-damat/
