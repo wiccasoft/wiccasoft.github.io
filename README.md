@@ -1,5 +1,5 @@
 <!--
-bkz yılbaşında denize düşecem diyen kürt
+bkz yılbaşında denize düşecem diyen kürt https://www.youtube.com/watch?v=RHBoMuNszuk
 https://www.youtube.com/watch?v=RHBoMuNszuk bkz yılbaşında agresifleşmeyen kürt
 https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCnde-geline-osmanl%C4%B1-tokad%C4%B1-atan-damat/
 bkz düğünlerde oynarım diyen adam https://www.youtube.com/watch?v=RHBoMuNszuk
