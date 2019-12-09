@@ -1,4 +1,5 @@
 <!--
+bkz cem uzanın türkiyeyi terk etme planları yapması
 bkz sike sürülecek aklı olmayanların akıl vermesi olayı
 bkz yılbaşını entry girerek geçirecek olan ergenlerin şimdiden akıl vermesi
 bkz yılbaşı bitince yine yarramın başını alacak olan ergenler
