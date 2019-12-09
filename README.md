@@ -1,5 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
+https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg lol
 bkz aktroll maaşları kesilince napacaklar sorunsalı https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://hitler-benim-atam.uludagsozluk.com/ bkz akp vergileri nereye harcıyor sorunsalı
 https://www.uludagsozluk.com/k/adolf-hitler-i-koruma-kanunu/&w=bg bkz erdogana küfreden troll
