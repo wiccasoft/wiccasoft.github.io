@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+https://eksisozluk.com/entry/98878564 
 https://www.youtube.com/watch?v=UBQEFuTRK0E little rocket man
 https://www.youtube.com/watch?v=fEalR2OgBcI lol
 https://github.com/socketio/socket.io-client/issues/770
