@@ -1,4 +1,5 @@
 <!--
+bkz denize düşmese denize dmökeceğin ırklar hangileri sorunsalı
 bkz denize düşse kurtarmayacağın isimler kimler sorunsalı
 bkz rte denize düşse cinsel seks yaparmısın sorunsalı
 bkz rte cinsel seks teklifini reddetse naparsın soundalı
