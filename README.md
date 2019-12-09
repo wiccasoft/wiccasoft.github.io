@@ -1,4 +1,5 @@
 <!--
+bkz kaymakamın il milli müdürüne ne ayaksın sen demesi
 bkz il milli eğitim müdürünün kzıalrın eteke altlarına kamera koyması
 bkz onu boşverde hz süleyman ın kırk kaplan gücüde olması
 https://www.uludagsozluk.com/e/42531437/ lol
