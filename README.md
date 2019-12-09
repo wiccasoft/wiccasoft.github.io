@@ -1,7 +1,7 @@
 <!--
 https://twitter.com/MarinSanna
 bkz karısını kızını fetöş evlerine yollayan gavat
-bkz erdonun iett şöförlüğünden trilyonerliğe varan serüveni
+bkz erdonun iett şöförlüğünden trilyonerliğe varan serüveni https://www.youtube.com/watch?v=nx-F_0s-Cxs
 bkz erdonun necmettine hoca efendi dediği yıllar vs tayyipin fetöşün dizinde büyüdüğü yıllar
 https://www.youtube.com/watch?v=zx3F_W2lr7M&feature=youtu.be bkz herkesin osmanlı torunu olduğu malum ülke
 https://www.uludagsozluk.com/k/erke%C4%9Fi-evcille%C5%9Ftirmek/&w=bg bkz 41 yaşında evi olmayan ezik soysuz erkek
