@@ -1,4 +1,6 @@
 <!--
+bkz entry girmek varken karısını çalıştıran gavat
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg
 bkz acun abi nin gavatları ayar manyaa yapması
 bak gavat ve hain ruhsuz erkek
 bkz karısını çalıştırmayan gavat
