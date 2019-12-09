@@ -1,4 +1,5 @@
 <!--
+bkz hz ebu lehep asaletini ahlakını almak
 bkz uzun adamın yüzen sarayı vs ata cüce nin siktirboktan vapuru
 bkz uzun adamın kamalcı olmasını çekemeyen komunükler
 bkz komunüklere hz öme  hz ebu musaf  sevgisi vermek
