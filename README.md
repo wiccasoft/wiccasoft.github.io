@@ -1,4 +1,5 @@
 <!--
+bkz kurban vahşettir deyip noelde hindi kesen gavat
 bkz saçları örgülü solcu kızların zencefilli çay içmesi
 bkz yobazdoganın kaypakdoganları tokat manyaa yapması
 bkz yerim uzun adamın yeri demek varken yerim kaypakların yeri demek
