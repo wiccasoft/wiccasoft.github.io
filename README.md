@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaçın yerim asyalıların  yeridir paylaşımı
 bkz kamalcılarla müslümanlar denize düşse üstlerine dahi işemem amk
 bkz kamalcılarla yobazdogan basçalanın aynı kafada olduğu gerçeği
 bkz türklerdeki denize giren insanı kurtarma içgüdüsü sebebi?
