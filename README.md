@@ -1,5 +1,5 @@
 <!--
-bkz kamalcılarla erdoganin aynı kafada olduğu gerçeği
+bkz kamalcılarla yobazdogan basçalanın aynı kafada olduğu gerçeği
 bkz türklerdeki denize giren insanı kurtarma içgüdüsü sebebi?
 bkz 7 yıldır fakirlikten  denize girmemiş olamk
 bkz denize türkün düşmemesi sorunsalı
