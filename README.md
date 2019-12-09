@@ -1,4 +1,5 @@
 <!--
+bkz akp nni tayyipin dağılışını engelleyememesi
 bkz devleti koruyan özel halk kuvvetleri kurulsun kampanyası
 bkz devletin süper bişi olması
 bkz devlet gözetiminde sözlük istiyoruz kampanyası
