@@ -1,5 +1,5 @@
 <!-- 
-https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan amına koduklarım
+https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte
 https://twitter.com/radikal lol
 bkz kadınlı erkekli seks haramdır yoksa hala ibret almaz mısınız
 https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
