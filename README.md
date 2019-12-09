@@ -1,6 +1,6 @@
 <!--
 bkz daudoğlanın bacanağı deniz düşse naparsın sorunsalı
-bkz hz musa denizi yarsa denizde eşşek şakası yaparmısın sorunsalı
+bkz hz musa denizi yarsa deniz yarılır mı sorunsalı
 bkz yangında yanan aleviyi kurtarırmısın sorunsalı
 bkz yangında yanan kafirleri kurtarırmısın sorunsalı
 bkz ılık denize putin düşse kurtarırmısın sorunsalı
