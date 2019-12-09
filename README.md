@@ -1,4 +1,5 @@
 <!--
+bkz recep tayyip erdogan anamın üstünde yakalansa orospuluk anamdadır diyen sözlükçü
 bkz annesiyle cinsel seks esnasında başlık açan sözlük oğlanı
 bkz sevdiceğime aleyna tilki nin oyuncak ayısından alırım diyen il başkanı
 bkz tatildeki il başkanının kızlara sarkması
