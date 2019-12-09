@@ -1,4 +1,5 @@
 <!--
+bkz devletin süper bişi olması
 bkz devlet gözetiminde sözlük istiyoruz kampanyası
 bkz kadir mısıroğlunun atatürk 161 boyunda videsu
 bkz üç isimli lider karizması
