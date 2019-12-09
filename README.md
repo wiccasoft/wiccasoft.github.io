@@ -1,4 +1,5 @@
 <!--
+bkz gavat kaypakkaya nın karısını paylaşması
 bkz gavatların karılarını paylaşmasına ses etmeyen rte
 bkz gavat kürtçülerin karılarını paylaşmaları
 bkz serdar ortaçın gavat kürtçülere verdiği ayar
