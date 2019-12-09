@@ -1,7 +1,7 @@
 <!--
 bkz tayyipin metal yorgunluğu https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz üç isimli lider karizması
-bkz mustafa kamal atatürk vs repe tayyip doğan
+bkz mustafa kamal doğan vs receğ tayyiğ doğan
 bkz tayyip çok hojdır amam benena https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz denizden hz osman çıksa yerim diyen yahudi https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz yılbaşı yaklaştıkça pasifleşen türklerin heyecan yapması https://www.youtube.com/watch?v=NXQJ9iR5BkA
