@@ -1,4 +1,5 @@
 <!--
+bkz  orhan bencegayin yerim uzun adamın yeri paylaşımı
 bkz akil adamların il milli eğitim müdürünü desteklemesi
 bkz orhan bence gayin il milli eğitim müdürünü desteklemesi
 bkz kaymakamın il milli müdürüne ne ayaksın sen demesi
