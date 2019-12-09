@@ -1,6 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
-bkz apple tv nin ulucu gavatları siklememesi
+bkz apple tv nin kamalcı gavatları siklememesi
 bkz ulucu gavatlara dsmart bağlatıp mağara soğuk mu demek
 bkz apo nun hücresinde  gavat acun tv izlediği gerçeği
 https://www.uludagsozluk.com/k/%C3%B6calan-tvbu-mu-dsmart-m%C4%B1-digit%C3%BCrk-m%C3%BC-izliyor/ bkz rt (recep tayyip )
