@@ -1,5 +1,5 @@
 <!-- 
-bkz aktrollerin iş başı yapması
+bkz aktrollerin iş başı yapması https://www.youtube.com/watch?v=TA6y-oRT1w0
 bkz ekşcilerin neymara hiç entry girmemesi sorunsalı
 https://kaybedince-daha-cok-seveceksin.uludagsozluk.com/ bkz yahudileri ırk sanan kamalcı
 bkz aponun odasına dsmart ligtv kamalcılara gavat acun tv bağlatan dünya lideri
