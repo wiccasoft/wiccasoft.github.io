@@ -1,4 +1,5 @@
 <!--
+bkz cinsel sekse düşse kimi kurtarırsın sorunsalı
 bkz denizde kime cinsel seks teklifi edersin sorunsalı
 bkz denizde kim düşse sakso çekersin sorunsalı
 bkz denizde cinsel seks teklifini reddedden erkeğe naparsın sorunsalı
