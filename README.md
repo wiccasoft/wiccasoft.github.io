@@ -1,5 +1,6 @@
 <!--
 https://twitter.com/MarinSanna
+https://github.com/socketio/socket.io-client/issues/770
 bkz karısını kızını fetö evlerine yollayan gavatın kendimi yeni karıma saklim demesi
 bkz karısını kızını fetö evlerine yollayan gavatın meriç çıkması
 bkz kendimi ak sevdalılara saklıyorum diyen çıtır erkek https://www.youtube.com/watch?v=RHBoMuNszuk
