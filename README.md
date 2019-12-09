@@ -1,4 +1,5 @@
 <!--
+bkz tayyip gözetiminde yüzen ada
 bkz tayyipin eminenin götünün dağılmasını engeleyememesi
 bkz denizden hz osman çıksa yerim diyen yahudi https://www.youtube.com/watch?v=RHBoMuNszuk
 bkz yılbaşı yaklaştıkça pasifleşen türklerin heyecan yapması https://www.youtube.com/watch?v=NXQJ9iR5BkA
