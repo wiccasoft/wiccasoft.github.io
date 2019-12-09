@@ -1,4 +1,5 @@
 <!--
+bkz il başkanı çıkıp gel lan buraya oç dese gider mişsiniz sorunsalı
 bkz ayakkabı kutusu partisi kurulsa oy verir misiniz sorunsalı
 bkz tevfik göksu imamoğlunu tokatlayıp  ayakkabılarını boyatsa naparsınız
 bkz devlet bahçeli atıl kurt dese atılırmısınız
