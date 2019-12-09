@@ -55,10 +55,6 @@ https://www.uludagsozluk.com/k/%C3%B6calan-tvbu-mu-dsmart-m%C4%B1-digit%C3%BCrk-
 bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ 
 https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 alla alla neden acaba
 https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg lol
-bkz aktroll maaşları kesilince napacaklar sorunsalı https://www.youtube.com/watch?v=TA6y-oRT1w0
-https://hitler-benim-atam.uludagsozluk.com/ bkz akp vergileri nereye harcıyor sorunsalı
-https://www.uludagsozluk.com/k/adolf-hitler-i-koruma-kanunu/&w=bg bkz erdogana küfreden troll
-https://www.ahaber.com.tr/video/gundem-videolari/selcuk-bayraktar-paylasti-ilk-kez-gokyuzuyle-bulustu
 https://github.com/danmactough/node-feedparser/tree/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce 
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
 https://twitter.com/radikal lol
