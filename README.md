@@ -1,4 +1,5 @@
 <!--
+bkz denize apo mu düşse kurtarırsın tatlıses mi 
 bkz denize yunan düşse kurtarır mısın sorunsalı
 bkz denize düşse kürt düşse kürt sorunu çözülürmü sorunsalı
 bkz serdr ortaçın yılbaşı yaklaştıkça yılbaşı konserlerine hazırlanması
