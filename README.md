@@ -1,4 +1,5 @@
 <!--
+bkz noel yaklaştıkça pasifleşen gay
 bkz erdoğanın damatlarıyla aynı havuza düşsen naparsın sorunsalı
 bkz erdogan havuza düşse naparsın sorunsalı
 bkz denize erdoğan mı düşse atatürk mü düşse naparsın sorunsalı
