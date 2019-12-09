@@ -1,7 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
-bkz yahudileri ırk sanan kamalcı
-https://www.uludagsozluk.com/k/yahudilerin-%C3%BCst%C3%BCn-%C4%B1rk-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
+https://www.uludagsozluk.com/e/42530097/ bkz yahudileri ırk sanan kamalcı
 bkz aponun odasına dsmart ligtv kamalcılara gavat acun tv bağlatan dünya lideri
 https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg
 bkz topkekini yerken yaparken acun abi çıktı tvye  anne diyen ulucu gavat
