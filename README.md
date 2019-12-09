@@ -1,37 +1,7 @@
 <!-- 
 https://github.com/danmactough/node-feedparser/tree/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce 
-bkz karısını çalıştırmayan gavatların güldürmesi :))))))))
-bkz kozmik odadaki sırların açığa çıkartan karı
-https://www.uludagsozluk.com/e/42529089/bkz atatürk ün domalırken hiç fotosunun olmaması
-bkz almanya belediyesinin yaptığı renki atayobaz heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
-bkz yobazdoganin ülkesinde yaşayıp başlık açabildiği halde şikayet eden mallar
-bkz almanyada kızına bale yaptırmayan fedöcü pkk lı baba https://www.youtube.com/watch?v=JdhJq-53J-w
-bkz yobazdoganin örtülü dünyası https://www.youtube.com/watch?v=pjzgb3abXEI
-bkz yobazdoganin daha da güçlenerek gelmesi https://www.youtube.com/watch?v=VI757x-_wKQ
-bkz yobazdoganin secimle gideceğini sanmak https://www.youtube.com/watch?v=yGDkkHnGRxo
-bkz yobazdagan family https://www.youtube.com/watch?v=h6Q9id4Q_js
-bkz selçuk bayraktarın camilerin kuvvetini arttıran sihalar yapması https://www.dailymotion.com/video/x6yi7r7
-bkz iyi ki yobazdoganin damadi değilim diye şükretmek https://www.youtube.com/watch?v=TA6y-oRT1w0
-bkz erdoğanın kızlarını sikecek kadar midesiz olmak https://www.youtube.com/watch?v=TA6y-oRT1w0
-bkz kız çocuğu olacak kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
-bkz kızını başka erkeklere siktirecek kadar gavat olmak https://www.dailymotion.com/video/x6yi7r7
-bkz alamanyada çomarları eğiten baba https://www.youtube.com/watch?v=JdhJq-53J-w
-bkz hitlerin islamı avrupaya yayma procesi https://www.youtube.com/watch?v=S-m1WImjqsE
-https://www.youtube.com/watch?v=Afq6UM-01Xs bkz führer
-https://www.uludagsozluk.com/k/almanya-da-k%C4%B1z%C4%B1n%C4%B1-y%C3%BCzme-dersine-g%C3%B6ndermeyen-baba/
-https://www.youtube.com/watch?v=YWZoZj1JJUI ellek ellek ekbeeeeeeer
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
-bkz madem ellek yok bu ezanlar nasıl inliyo yobazların üstünde https://www.youtube.com/watch?v=EfAsNffCjsM
-https://twitter.com/drbetulsayan/status/1104511912589647878?lang=en
-https://www.youtube.com/watch?v=HlWPAUqqYTs kalkın işe gidin lan ellek ekber işte oç ları
 https://twitter.com/radikal lol
-bkz kadınlı erkekli seks haramdır yoksa hala ibret almaz mısınız
-https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar
-bkz ademle havva yı niye kovduk cennetten sığır sürüsü yahu
-bkz cinsel ilişki bütün kötülüklerin anasıdır
-bkz sene olmuş 2020 hala cinsel ilişkili seks yapanlar var 
-https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz cinsel ilişki ney lan
-https://www.uludagsozluk.com/k/ismail-yk-%C5%9Fu-an-ne-yap%C4%B1yor/ bkz yoksa zurnamıyım hee
 https://github.com/nodejs/node-v0.x-archive/issues/2190 lol
 bkz floating witchcraft after life  https://www.youtube.com/watch?v=k-T7vGdH_ek
 https://github.com/danmactough/node-feedparser/issues/129
