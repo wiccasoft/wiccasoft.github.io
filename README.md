@@ -1,5 +1,7 @@
 <!-- 
 bkz aktrollerin iş başı yapması
+bkz acele etme fedöcü efendi vs https://hitler-benim-atam.uludagsozluk.com/ 
+https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 
 https://www.uludagsozluk.com/k/%C3%B6calan-%C4%B1n-h%C3%BCcresine-televizyon-koydurtan-lider/&w=bg lol
 bkz aktroll maaşları kesilince napacaklar sorunsalı https://www.youtube.com/watch?v=TA6y-oRT1w0
 https://hitler-benim-atam.uludagsozluk.com/ bkz akp vergileri nereye harcıyor sorunsalı
