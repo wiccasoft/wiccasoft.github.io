@@ -1,4 +1,5 @@
 <!-- 
+https://www.youtube.com/watch?v=Afq6UM-01Xs bkz führer
 https://www.uludagsozluk.com/k/almanya-da-k%C4%B1z%C4%B1n%C4%B1-y%C3%BCzme-dersine-g%C3%B6ndermeyen-baba/
 https://www.youtube.com/watch?v=YWZoZj1JJUI ellek ellek ekbeeeeeeer
 https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
