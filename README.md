@@ -1,4 +1,5 @@
 <!-- 
+bkz mahir çayan solcusu vs deniz gezmiş solcusu
 bkz hz ömer kızına gömdü mü sorunsalı
 bkz hz ömer dincisi vs ebu leheb siyasal islamcısı
 bkz che guevera solcusu vs deniz gezmiş solcusu
