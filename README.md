@@ -1,4 +1,5 @@
 <!--
+bkz bilal paraları sıfırlasa napardınız sorunsalı
 bkz facebook cia gözetiminde olsa napardınız sorunsalı
 bkz twitter nsa gözetiminde olsa nolurdu sorunsalı
 bkz devlet gözetiminde facebook olsaydı nolurdu sorunsalı
