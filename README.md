@@ -1,5 +1,6 @@
 <!-- 
 bkz aktrollerin iş başı yapması
+bkz ulucu gavatlar odalarında tvibiu mu izliyo dsmart da umut nayır mı izliyor sorunsalı
 bkz apple tv nin kamalcı gavatları siklememesi
 bkz ulucu gavatlara dsmart bağlatıp mağara soğuk mu demek
 bkz apo nun hücresinde  gavat acun tv izlediği gerçeği
