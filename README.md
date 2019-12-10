@@ -45,15 +45,6 @@ https://www.pornhub.com/view_video.php?viewkey=ph5b55b7bf16d50
 https://github.com/danmactough/node-feedparser/blob/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce/examples/iconv.js
 https://www.pornhub.com/view_video.php?viewkey=ph5a2b1947246d6
 -->
-<!-- https://toster.ru/q/353548 -->
-<!-- https://www.npmjs.com/package/iconv-lite  -->
-<!-- https://www.unix.com/shell-programming-and-scripting/248845-trying-convert-utf-8-windows-1251-a.html -->
-<!--https://helperbyte.com/questions/257624/how-to-convert-encoding-from-windows1251-to-utf8-in-nodejs -->
-<!-- https://github.com/mathiasbynens/windows-1251 that's what i've been lookin' for -->
-<!-- windows-1251 https://www.youtube.com/watch?v=wpFBJDI1I_g -->
-<!-- https://stackoverflow.com/a/9049823 -->
-<!-- https://www.zen-cart.com/showthread.php?121221-Problems-with-displaying-Russian-characters-and-UTF-8 -->
-
 
 [![Image](smartdata/Screenshot_2019-12-09_12-04-19.png)]( https://www.youtube.com/watch?v=EF19q4ok6Is )
 
