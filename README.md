@@ -7,6 +7,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 
 <!--
+https://www.uludagsozluk.com/e/42535114/ bkz abi nabim enişte sikecek ablamı
 https://www.youtube.com/watch?v=fa5MUJmd5bk oy gelin oy damat
 https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
 https://www.youtube.com/watch?v=70nK5h3xLiw çatlasın düşmanımız
