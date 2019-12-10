@@ -1,4 +1,7 @@
 
+
+[![Image](smartdata/Screenshot_2019-12-10_04-28-49.png)]( https://www.youtube.com/watch?v=fa5MUJmd5bk )
+
 [![Image](smartdata/Screenshot_2019-12-10_04-27-58.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
