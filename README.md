@@ -10,7 +10,7 @@
 bk karısını kızını içkili düğüne gönderen gavatın coşması
 bkz annesini siken adama baba diyen godoşun düğünlerde oynaması
 https://www.uludagsozluk.com/k/g%C3%BCl-davuto%C4%9Flu-babacan-%C5%9Fim%C5%9Fek/ bkz alişan ibo izzat bebecen
-https://www.uludagsozluk.com/e/42535114/ bkz abi nabim enişte sikecek diye oyanmimi vurma abi tamam abi
+https://www.uludagsozluk.com/e/42535114/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.youtube.com/watch?v=fa5MUJmd5bk oy gelin oy damat
 https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
 https://www.youtube.com/watch?v=70nK5h3xLiw çatlasın düşmanımız
