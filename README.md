@@ -1,3 +1,6 @@
+
+[![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
+
 <!--
 https://twitter.com/MarinSanna
 https://eksisozluk.com/entry/98878564 
