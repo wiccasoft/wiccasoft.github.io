@@ -5,6 +5,7 @@
 
 <!--
 https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
+https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn%C3%BCn-ortas%C4%B1nda-sinir-krizine-giren-damat/ bkz düğünlerde oynarım
 https://www.uludagsozluk.com/k/kendini-osmanl%C4%B1-torunu-sanan-%C3%A7omar/&w=bg bkz öz hakiki osmanlı torunu
 https://www.uludagsozluk.com/k/ibb-nin-i%C3%A7kili-personel-e%C4%9Flencesi/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ye%C5%9Fil-alanlara-izin-vermemesi/
