@@ -15,20 +15,6 @@
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 -->
 <!--
-https://hitler-benim-atam.uludagsozluk.com/ https://www.youtube.com/watch?v=GtyqAw2DOEk
-https://www.uludagsozluk.com/e/42535175/ https://www.youtube.com/watch?v=GtyqAw2DOEk
-https://www.uludagsozluk.com/e/42535172/ https://www.youtube.com/watch?v=GtyqAw2DOEk
-https://www.uludagsozluk.com/e/42535114/ https://www.youtube.com/watch?v=GtyqAw2DOEk
-bk karısını kızını içkili düğüne gönderen gavatın coşması 
-bkz annesini siken adama baba diyen godoşun düğünlerde oynaması
-https://www.uludagsozluk.com/k/g%C3%BCl-davuto%C4%9Flu-babacan-%C5%9Fim%C5%9Fek/ bkz alişan ibo izzat bebecen
-https://www.youtube.com/watch?v=fa5MUJmd5bk oy gelin oy damat
-https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
-https://www.youtube.com/watch?v=70nK5h3xLiw çatlasın düşmanımız
-https://www.uludagsozluk.com/k/kendini-osmanl%C4%B1-torunu-sanan-%C3%A7omar/&w=bg bkz hanginiz kara murat
-https://www.uludagsozluk.com/k/ibb-nin-i%C3%A7kili-personel-e%C4%9Flencesi/
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ye%C5%9Fil-alanlara-izin-vermemesi/
-https://www.uludagsozluk.com/k/2020-de-125-milyar-zarar-etmeyi-hedefleyen-%C3%BClke/
 https://www.codota.com/code/javascript/functions/iconv-lite/encode
 https://www.pornhub.com/view_video.php?viewkey=ph5828fd34b3913
 https://www.youtube.com/watch?v=Kzuic55j7jI forbidden apple
