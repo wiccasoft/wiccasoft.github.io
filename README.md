@@ -7,8 +7,8 @@
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 
 <!--
-bk karısını kızını içkili düğüne gönderen gavatın coşması
-bkz annesini siken adama baba diyen godoşun düğünlerde oynaması
+bk karısını kızını içkili düğüne gönderen gavatın coşması https://www.youtube.com/watch?v=GtyqAw2DOEk
+bkz annesini siken adama baba diyen godoşun düğünlerde oynaması https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/k/g%C3%BCl-davuto%C4%9Flu-babacan-%C5%9Fim%C5%9Fek/ bkz alişan ibo izzat bebecen
 https://www.uludagsozluk.com/e/42535114/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.youtube.com/watch?v=fa5MUJmd5bk oy gelin oy damat
