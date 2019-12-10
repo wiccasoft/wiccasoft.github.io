@@ -1,7 +1,5 @@
 
-
-
-[![Image](smartdata/Screenshot_2019-12-10_07-04-56.png)](https://www.youtube.com/watch?v=zJYiKve84Fk)
+[![Image](smartdata/Screenshot_2019-12-10_07-04-56.png)]( https://www.youtube.com/watch?v=zJYiKve84Fk )
 
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
@@ -10,7 +8,6 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-10_06-54-36.png)]( https://www.theguardian.com/commentisfree/2019/dec/09/the-guardian-view-on-finlands-new-pm-a-different-type-of-leadership )
-
 
 <!--
 [![Image](smartdata/Screenshot_2019-12-10_05-29-16.png)]( https://www.youtube.com/watch?v=GtyqAw2DOEk )
@@ -71,6 +68,8 @@ https://www.pornhub.com/view_video.php?viewkey=ph5a2b1947246d6
 <!-- https://stackoverflow.com/a/9049823 -->
 <!-- https://www.zen-cart.com/showthread.php?121221-Problems-with-displaying-Russian-characters-and-UTF-8 -->
 
+
+[![Image](smartdata/Screenshot_2019-12-09_12-04-19.png)]( https://www.youtube.com/watch?v=EF19q4ok6Is )
 
 [![Image](smartdata/Screenshot_2019-12-06_19-22-23.png)]( https://www.youtube.com/watch?v=YGix73dqF0I )
 
