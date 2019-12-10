@@ -10,6 +10,7 @@
 https://www.youtube.com/watch?v=fa5MUJmd5bk oy gelin oy damat
 https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
 https://www.youtube.com/watch?v=70nK5h3xLiw çatlasın düşmanımız
+https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Finin-d%C3%BC%C4%9F%C3%BCn%C3%BCnde-oynayan-godo%C5%9F/&w=bg bkz ben
 https://www.uludagsozluk.com/k/tayyip-ile-fet%C3%B6-n%C3%BCn-bar%C4%B1%C5%9Fmas%C4%B1-ihtimali/&w=bg bkz barıştıralım 
 https://www.uludagsozluk.com/k/konya-da-canl%C4%B1-yay%C4%B1nda-dayak-yiyen-muhabir/ bkz a bu benim
 https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn%C3%BCn-ortas%C4%B1nda-sinir-krizine-giren-damat/ bkz düğünlerde oynarım
