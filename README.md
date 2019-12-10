@@ -3,6 +3,7 @@
 
 <!--
 https://www.youtube.com/watch?v=RHBoMuNszuk
+https://www.uludagsozluk.com/k/2020-de-125-milyar-zarar-etmeyi-hedefleyen-%C3%BClke/
 https://www.codota.com/code/javascript/functions/iconv-lite/encode
 https://www.pornhub.com/view_video.php?viewkey=ph5828fd34b3913
 https://www.youtube.com/watch?v=Kzuic55j7jI forbidden apple
