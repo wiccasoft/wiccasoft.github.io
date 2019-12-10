@@ -4,12 +4,15 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_06-23-42.png)](https://www.theguardian.com/world/2019/dec/09/white-island-eruption-what-we-know-so-far)
 
+
+[![Image](smartdata/Screenshot_2019-12-10_06-54-36.png)]( https://www.theguardian.com/commentisfree/2019/dec/09/the-guardian-view-on-finlands-new-pm-a-different-type-of-leadership )
+
+
+<!--
 [![Image](smartdata/Screenshot_2019-12-10_05-29-16.png)]( https://www.youtube.com/watch?v=GtyqAw2DOEk )
-
 [![Image](smartdata/Screenshot_2019-12-10_04-27-58.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
-
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
-
+-->
 <!--
 https://hitler-benim-atam.uludagsozluk.com/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/e/42535175/ https://www.youtube.com/watch?v=GtyqAw2DOEk
