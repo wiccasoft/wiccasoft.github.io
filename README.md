@@ -11,17 +11,13 @@ https://hitler-benim-atam.uludagsozluk.com/ https://www.youtube.com/watch?v=Gtyq
 https://www.uludagsozluk.com/e/42535175/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/e/42535172/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/e/42535114/ https://www.youtube.com/watch?v=GtyqAw2DOEk
-bk karısını kızını içkili düğüne gönderen gavatın coşması https://www.youtube.com/watch?v=GtyqAw2DOEk
-bkz annesini siken adama baba diyen godoşun düğünlerde oynaması https://www.youtube.com/watch?v=GtyqAw2DOEk
+bk karısını kızını içkili düğüne gönderen gavatın coşması 
+bkz annesini siken adama baba diyen godoşun düğünlerde oynaması
 https://www.uludagsozluk.com/k/g%C3%BCl-davuto%C4%9Flu-babacan-%C5%9Fim%C5%9Fek/ bkz alişan ibo izzat bebecen
 https://www.youtube.com/watch?v=fa5MUJmd5bk oy gelin oy damat
 https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
 https://www.youtube.com/watch?v=70nK5h3xLiw çatlasın düşmanımız
-https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Finin-d%C3%BC%C4%9F%C3%BCn%C3%BCnde-oynayan-godo%C5%9F/&w=bg bkz ben
-https://www.uludagsozluk.com/k/tayyip-ile-fet%C3%B6-n%C3%BCn-bar%C4%B1%C5%9Fmas%C4%B1-ihtimali/&w=bg bkz barıştıralım 
-https://www.uludagsozluk.com/k/konya-da-canl%C4%B1-yay%C4%B1nda-dayak-yiyen-muhabir/ bkz a bu benim
-https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn%C3%BCn-ortas%C4%B1nda-sinir-krizine-giren-damat/ bkz düğünlerde oynarım
-https://www.uludagsozluk.com/k/kendini-osmanl%C4%B1-torunu-sanan-%C3%A7omar/&w=bg bkz öz hakiki osmanlı torunu
+https://www.uludagsozluk.com/k/kendini-osmanl%C4%B1-torunu-sanan-%C3%A7omar/&w=bg bkz hanginiz kara murat
 https://www.uludagsozluk.com/k/ibb-nin-i%C3%A7kili-personel-e%C4%9Flencesi/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ye%C5%9Fil-alanlara-izin-vermemesi/
 https://www.uludagsozluk.com/k/2020-de-125-milyar-zarar-etmeyi-hedefleyen-%C3%BClke/
