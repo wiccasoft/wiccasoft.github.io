@@ -24,6 +24,7 @@ request({url,encoding:null}, function(error, response, body){
 		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
         console.log(body.toString()); // кракозябры: ура ура ура
 });,
+https://www.pornhub.com/view_video.php?viewkey=ph5b55b7bf16d50
 https://github.com/danmactough/node-feedparser/blob/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce/examples/iconv.js
 -->
 <!-- https://toster.ru/q/353548 -->
