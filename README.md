@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 
 <!--
+https://www.youtube.com/watch?v=RHBoMuNszuk
 https://www.codota.com/code/javascript/functions/iconv-lite/encode
 https://www.pornhub.com/view_video.php?viewkey=ph5828fd34b3913
 https://www.youtube.com/watch?v=Kzuic55j7jI forbidden apple
