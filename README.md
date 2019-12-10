@@ -7,6 +7,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 
 <!--
+https://www.uludagsozluk.com/e/42535175/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/e/42535172/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 https://www.uludagsozluk.com/e/42535114/ https://www.youtube.com/watch?v=GtyqAw2DOEk
 bk karısını kızını içkili düğüne gönderen gavatın coşması https://www.youtube.com/watch?v=GtyqAw2DOEk
