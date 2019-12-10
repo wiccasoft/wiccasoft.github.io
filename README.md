@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 
 <!--
-https://www.youtube.com/watch?v=RHBoMuNszuk
+https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım
 https://www.uludagsozluk.com/k/ibb-nin-i%C3%A7kili-personel-e%C4%9Flencesi/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-ye%C5%9Fil-alanlara-izin-vermemesi/
 https://www.uludagsozluk.com/k/2020-de-125-milyar-zarar-etmeyi-hedefleyen-%C3%BClke/
