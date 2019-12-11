@@ -19,6 +19,7 @@
 <!-- bkz düğünde gerginlik yapan dayının kaçması -->
 <!-- bkz 3 kelime ile özlenen futbolcuyu anlatmak -->
 <!-- bkz futbol topunu sevmeyen adamın yüreğine sevgi koyan ekşici -->
+<!--bkz ilberin celal e şişko demesi -->
 
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
