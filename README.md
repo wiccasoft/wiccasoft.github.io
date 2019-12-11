@@ -8,24 +8,8 @@
 <!-- https://www.youtube.com/watch?v=P4EQQ7fht-4 phoenix -->
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
-<!-- bkz gretanın bolsanora ya verdiği ayar -->
-<!-- bkz hüzeyin nihat atsız ın at burcu olması -->
-<!-- bkz fatih tezcan ın tuğçe kazaza yürümesi -->
-<!-- bkz ilber ortaylı celal şengöre şişko demesi -->
-<!-- bkz tayyibin torunun tayybin torunu benim demesi -->
-<!-- bkz hüseyin nihal atsızın at üstünde olan fotosu -->
-<!-- bkz ali koç un nokia3210 kullanması -->
-<!-- bkz davutoğlanın yeni parti sinyalleri çakması -->
-<!-- bkz recep tayyip erdoğanın kyk yasasını imazlaması -->
-<!-- bkz macun kaplıcalının nafakayı geciktirmesi -->
-<!-- bkz bahcelinin hüseyin nihal atsızı at aldığı için tebrik etmesi -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
-<!-- bkz çin ile rusyanın hayallerde yaşadığı gerçeği -->
-<!-- bkz denize alev alev yanan kürt düşse naparsın sorunsalı -->
-<!-- bkz aleviyi yangından kurtarır mısın sorunsalı -->
-<!-- bkz fathi terimin meloya attığı bakış-->
-<!-- bkz düğünde gerginlik sergileyen dayının kyk yı batırıp kaçması -->
-<!-- bkz ekşici yeğeninin kyk borcunu ödemeden ülkeden kaçan dayı --> 
+
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
