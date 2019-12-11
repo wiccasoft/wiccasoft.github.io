@@ -8,6 +8,7 @@
 <!-- https://www.youtube.com/watch?v=P4EQQ7fht-4 phoenix -->
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
+<!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
 <!-- bkz çin ile rusyanın hayallerde yaşadığı gerçeği -->
 <!-- bkz denize alev alev yanan kürt düşse naparsın sorunsalı -->
 <!-- bkz aleviyi yangından kurtarır mısın sorunsalı -->
