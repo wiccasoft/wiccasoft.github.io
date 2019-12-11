@@ -5,7 +5,7 @@
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
 <!-- https://www.youtube.com/watch?v=EF19q4ok6Is safe from harm -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
-<!-- https://www.youtube.com/watch?v=kOyGbSW9pNE çok coolum  -->
+<!-- https://www.youtube.com/watch?v=kOyGbSW9pNE çok coolum ben -->
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
 
