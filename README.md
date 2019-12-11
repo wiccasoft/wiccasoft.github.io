@@ -17,8 +17,8 @@
 <!-- bkz tayyibin torunun tayybin torunu benim demesi -->
 <!-- bkz hüseyin nihal atsızın at üstünde olan fotosu -->
 <!-- bkz düğünde gerginlik yapan dayının kaçması -->
-<!-- bkz 3 kelime ile futbolcuyu anlatmak -->
-<!-- bkz ekşicilerin özlediği futbolcunun mankenlerle yatıyor olduğu gerçeği -->
+<!-- bkz 3 kelime ile özlenen futbolcuyu anlatmak -->
+
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
