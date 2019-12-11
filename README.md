@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 <!-- https://www.youtube.com/watch?v=oYq1cI0E13Q -->
-<!-- https://www.youtube.com/watch?v=Gf6lJYonpyw she's got the look -->
+<!-- https://www.youtube.com/watch?v=Gf6lJYonpyw she got the look -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
