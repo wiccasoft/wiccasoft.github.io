@@ -10,11 +10,10 @@
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- bkz kk nın dersim alevisi olduğu gerçeği -->
 <!-- bkz denize alevi kürt düşse naparsın sorunsalı -->
-<!-- bkz nicola tesla chp li edison akpli olduğu gerçeği --> 
+<!-- bkz nicola tesla chp liyse edison akpli mi sorunsalı --> 
 <!-- bkz düğünde gerginlik sergileyen dayının kyk yı batırıp kaçması -->
-<!-- bkz ekşici yeğenini kyk borcunu ödemeden ülkeden kaçan dayı --> 
+<!-- bkz ekşici yeğeninin kyk borcunu ödemeden ülkeden kaçan dayı --> 
 <!-- bkz mersinli dayı vs rte -->
-<!-- bkz kk vs rte vs apple -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
