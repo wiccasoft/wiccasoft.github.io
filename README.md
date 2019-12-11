@@ -1,14 +1,13 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 <!-- https://www.youtube.com/watch?v=oYq1cI0E13Q -->
+<!-- https://www.youtube.com/watch?v=v3JZUzFRrr4 mk ultra -->
 <!-- https://www.youtube.com/watch?v=Gf6lJYonpyw she got the look -->
 <!-- https://www.youtube.com/watch?v=mviTS_cIWXg power of defaults -->
 <!-- https://www.youtube.com/watch?v=OE0iIs9MCk0 what jesus would do -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
-<!-- https://www.youtube.com/watch?v=v3JZUzFRrr4 mk ultra -->
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
-<!-- https://www.youtube.com/watch?v=EF19q4ok6Is safe from harm -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
 <!-- https://www.youtube.com/watch?v=kOyGbSW9pNE çok coolum ben -->
 <!-- https://www.youtube.com/watch?v=5wBTdfAkqGU cali -->
