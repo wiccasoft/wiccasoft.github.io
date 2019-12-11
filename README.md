@@ -10,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
 
+<!-- bkz futbol zekası olmadığı halde özgüveni olan aptal insan -->
 <!-- bkz fatih tezanın analiz merkezini kapatıp tuğçe kazaz a katılması -->
 <!-- bkz hüzeyin bihal atsızın at burcu olduğu gerçeği -->
 <!-- bkz hüzeyin nihal atsızın atı alan üsküdarı geçti demesi -->
