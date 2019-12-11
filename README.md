@@ -10,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- bkz kk nın dersim alevisi olduğu gerçeği -->
 <!-- bkz denize alevi kürt düşse naparsın sorunsalı -->
+<!-- bkz aleviyi yangından kurtarır mısın sorunsalı -->
 <!-- bkz nicola tesla chp liyse edison akpli mi sorunsalı --> 
 <!-- bkz düğünde gerginlik sergileyen dayının kyk yı batırıp kaçması -->
 <!-- bkz ekşici yeğeninin kyk borcunu ödemeden ülkeden kaçan dayı --> 
