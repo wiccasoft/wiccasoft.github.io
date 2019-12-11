@@ -3,6 +3,7 @@
 <!-- https://www.youtube.com/watch?v=oYq1cI0E13Q -->
 <!-- https://www.youtube.com/watch?v=Gf6lJYonpyw she got the look -->
 <!-- https://www.youtube.com/watch?v=mviTS_cIWXg power of defaults -->
+<!-- https://www.youtube.com/watch?v=OE0iIs9MCk0 what jesus would do -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=v3JZUzFRrr4 mk ultra -->
