@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 <!-- https://www.youtube.com/watch?v=oYq1cI0E13Q -->
 <!-- https://www.youtube.com/watch?v=Gf6lJYonpyw she got the look -->
+<!-- https://www.youtube.com/watch?v=mviTS_cIWXg power of defaults -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=v3JZUzFRrr4 mk ultra -->
@@ -11,9 +12,9 @@
 <!-- https://www.youtube.com/watch?v=kOyGbSW9pNE çok coolum ben -->
 <!-- https://www.youtube.com/watch?v=5wBTdfAkqGU cali -->
 <!-- https://www.youtube.com/watch?v=WjDLin6Egyw nsa -->
-<!-- https://www.youtube.com/watch?v=2ZwVPmVb7IU call the cops wchen you see tupac -->
+<!-- https://www.youtube.com/watch?v=2ZwVPmVb7IU call the cops when you see tupac -->
 <!-- https://www.youtube.com/watch?v=H9YxpwWNK9k nsa vs homeland -->
-<!-- https://www.youtube.com/watch?v=mviTS_cIWXg power of defaults -->
+
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
 
