@@ -8,6 +8,7 @@
 <!-- https://www.youtube.com/watch?v=P4EQQ7fht-4 phoenix -->
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
+<!-- bkz ekşici yeğenini kyk borcunu ödemeden ülkeden kaçan dayı --> 
 <!-- bkz mersinli dayı vs rte -->
 <!-- bkz kk vs rte vs apple -->
 
