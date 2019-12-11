@@ -10,25 +10,7 @@
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
 <!-- bkz gretanın bolsanora ya verdiği ayar -->
-<!-- bkz türklerin dünya çağında erdoğan dışında pek bi başarısının olmaması -->
 <!-- bkz sarte nin hüseyin nihal atsız kim lan bakışı -->
-<!-- bkz asker selamı veren milliler vs asker kaçakları -->
-<!-- bkz cengiz ünderin verdiği asker selamı -->
-<!-- bkz avrupa fatihi vs dünya lideri -->
-<!-- bkz hüzeyin bihal atsızın at burcu olduğu gerçeği -->
-<!-- bkz hüzeyin nihal atsızın atı alan üsküdarı geçti demesi -->
-<!-- bkz hüzeyin nihat atsız ın at burcu olması -->
-<!-- bkz fatih terimin meloya attığı bakış -->
-<!-- bkz fatih tezcan ın tuğçe kazaza yürümesi -->
-<!-- bkz ilber ortaylı celal şengöre şişko demesi -->
-<!-- bkz tayyibin torunun tayybin torunu benim demesi -->
-<!-- bkz hüseyin nihal atsızın at üstünde olan fotosu -->
-<!-- bkz düğünde gerginlik yapan dayının kaçması -->
-<!-- bkz 3 kelime ile özlenen futbolcuyu anlatmak -->
-<!-- bkz futbol topunu sevmeyen adamın yüreğine sevgi koyan ekşici -->
-<!-- bkz düğünde gerginlik yaratan dayının ekşicilerin pfdk borçlarını ödemeden kaçması -->
-<!-- bkz ilberin celal e şişko demesi -->
-
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
