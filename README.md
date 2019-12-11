@@ -13,6 +13,7 @@
 <!-- bkz m kemalin kudüsü ingilizlere peşkeş çekmesi -->
 <!-- bkz memurlar.net teki emekli astsubay emekliüstsubay kabgası -->
 <!-- bkz kamalın kudüslülere götten vermesi -->
+<!-- bkz kamal iti vs ümmet lideri erdogan -->
 
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
