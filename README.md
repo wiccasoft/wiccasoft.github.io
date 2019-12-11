@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
-<!-- bkz erdoganın gretaya osmanlı torunu demesi -->
+<!-- bkz yahudi madalyalı erdoganın gretaya osmanlı torunu demesi -->
 <!-- bkz me myself & one nation under sky https://www.youtube.com/watch?v=bcIlQFPbPnM -->
 <!-- bkz tek dünya devletini nereye kursam sorunsalı https://www.youtube.com/watch?v=QBf118bdeEc -->
 
