@@ -4,7 +4,7 @@
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
 <!-- bkz erdoganın gretaya osmanlı torunu demesi -->
 <!-- bkz me myself & one nation under sky https://www.youtube.com/watch?v=bcIlQFPbPnM -->
-<!-- bkz tek dünya devletini nereye kursam sorunsalı osx win lin -->
+<!-- bkz tek dünya devletini nereye kursam sorunsalı https://www.youtube.com/watch?v=QBf118bdeEc -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
