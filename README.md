@@ -10,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- bkz denize alev alev yanan kürt düşse naparsın sorunsalı -->
 <!-- bkz aleviyi yangından kurtarır mısın sorunsalı -->
+<!-- bkz fathi terimin meloya attığı bakış-->
 <!-- bkz düğünde gerginlik sergileyen dayının kyk yı batırıp kaçması -->
 <!-- bkz ekşici yeğeninin kyk borcunu ödemeden ülkeden kaçan dayı --> 
 
