@@ -15,6 +15,7 @@
 <!-- bkz kamalın kudüslülere götten vermesi -->
 <!-- bkz kamal iti vs ümmet lideri erdogan -->
 <!-- bkz erdoganin one minute çıkışı vs kamal itinin kudüsü ingilizlere vermesi -->
+<!-- bkz it oğlu it kamal olması vs recep yiğitdoğan -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
