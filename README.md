@@ -19,6 +19,7 @@
 <!-- bkz m kamal itinin kudüsü vermesine ses etmeyen kamalcı itler -->
 <!-- bkz erdoganin ülkesinde m kamal itini savunmak -->
 <!-- bkz ma kamal ın it soyundan olması -->
+<!-- bkz m kamal it soyu deyince deliren ekşiciler -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
