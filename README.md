@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
+<!-- bkz yobazdoganin israilin kuklası olması -->
 <!-- bkz yobazadogan vs kamaldogan -->
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
 <!-- bkz yahudi madalyalı yobazdoganin gretaya osmanlı torunu demesi -->
