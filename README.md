@@ -10,6 +10,7 @@
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- bkz hüseyin nihal atsızın at üstünde olan fotosu -->
 <!-- bkz ali koç un nokia3210 kullanması -->
+<!-- bkz davutoğlanın yeni parti sinyalleri çakması -->
 <!-- bkz recep tayyip erdoğanın kyk yasasını imazlaması -->
 <!-- bkz macun kaplıcalının nafakayı geciktirmesi -->
 <!-- bkz bahcelinin hüseyin nihal atsızı at aldığı için tebrik etmesi -->
