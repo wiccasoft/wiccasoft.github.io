@@ -6,7 +6,7 @@
 <!-- bkz kamala küfretmekten başka iş yapayan ak itlerin aç kalacağı gerçeği -->
 <!-- bkz yobazdoganin israilin kuklası olmasını kabul edemeyen ak itlerin dramı -->
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
-<!-- bkz yahudi madalyalı yobazdoganin gretaya osmanlı torunu demesi -->
+<!-- bkz erdoganin gretaya osmanlı torunu demesi -->
 <!-- bkz me myself & one nation under sky https://www.youtube.com/watch?v=bcIlQFPbPnM -->
 <!-- bkz tek dünya devletini nereye kursam sorunsalı https://www.youtube.com/watch?v=QBf118bdeEc -->
 
