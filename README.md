@@ -10,6 +10,7 @@
 <!-- bkz erdoganin gretaya osmanlı torunu demesi -->
 <!-- bkz me myself & one nation under sky https://www.youtube.com/watch?v=bcIlQFPbPnM -->
 <!-- bkz tek dünya devletini nereye kursam sorunsalı https://www.youtube.com/watch?v=QBf118bdeEc -->
+<!-- https://www.youtube.com/watch?v=fjIDLIJZom4 güneş girmeyen eve doktor mu girer ? -->
 
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
