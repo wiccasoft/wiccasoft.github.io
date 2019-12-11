@@ -9,6 +9,7 @@
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
+<!-- bkz gretanın bolsanora ya verdiği ayar -->
 <!-- bkz türklerin dünya çağında erdoğan dışında pek bi başarısının olmaması -->
 <!-- bkz asker selamı veren milliler vs asker kaçakları -->
 <!-- bkz cengiz ünderin verdiği asker selamı -->
@@ -16,7 +17,6 @@
 <!-- bkz türklerin çok zeki olmasının sebebi ne sorunsalı -->
 <!-- bkz hüzeyin bihal atsızın at burcu olduğu gerçeği -->
 <!-- bkz hüzeyin nihal atsızın atı alan üsküdarı geçti demesi -->
-<!-- bkz gretanın bolsanora ya verdiği ayar -->
 <!-- bkz hüzeyin nihat atsız ın at burcu olması -->
 <!-- bkz fatih terimin meloya attığı bakış -->
 <!-- bkz fatih tezcan ın tuğçe kazaza yürümesi -->
