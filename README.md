@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
-<!-- bkz kamala küfretmekten iş yapayan ak itlerin aç kalacağı gerçeği -->
+<!-- bkz kamala küfretmekten başka iş yapayan ak itlerin aç kalacağı gerçeği -->
 <!-- bkz yobazdoganin israilin kuklası olmasını kabul edemeyen ak itlerin dramı -->
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
 <!-- bkz yahudi madalyalı yobazdoganin gretaya osmanlı torunu demesi -->
