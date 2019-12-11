@@ -12,6 +12,7 @@
 <!-- bkz şener şenin ilyas salmana kürt demesi -->
 <!-- bkz m kemalin kudüsü ingilizlere peşkeş çekmesi -->
 
+
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
