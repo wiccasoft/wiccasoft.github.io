@@ -8,6 +8,7 @@
 <!-- https://www.youtube.com/watch?v=P4EQQ7fht-4 phoenix -->
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
+<!-- bkz mersinli dayı vs rte -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
