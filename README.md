@@ -5,25 +5,6 @@
 <!-- bkz erdoganın gretaya osmanlı torunu demesi -->
 <!-- bkz me myself & one nation under sky https://www.youtube.com/watch?v=bcIlQFPbPnM -->
 <!-- bkz tek dünya devletini nereye kursam sorunsalı https://www.youtube.com/watch?v=QBf118bdeEc -->
-<!-- bkz ilberin celala şişko demesi -->
-<!-- bkz m kemalin sivas kongresinde kudüs pazarlığı yapması --> 
-<!-- bkz m kemalin bartını ruslara peşkeş çekmesi -->
-<!-- bkz ilyas salman ın sefil bilo dan sonra oyunculuğun zirvesini yaşaması -->
-<!-- bkz şener şenin ilyas salmana kürt demesi -->
-<!-- bkz m kemalin kudüsü ingilizlere peşkeş çekmesi -->
-<!-- bkz memurlar.net teki emekli astsubay emekliüstsubay kabgası -->
-<!-- bkz kamalın kudüslülere götten vermesi -->
-<!-- bkz kamal iti vs ümmet lideri erdogan -->
-<!-- bkz erdoganin one minute çıkışı vs kamal itinin kudüsü ingilizlere vermesi -->
-<!-- bkz it oğlu it kamal vs yiğit oğlu recep tayyip doğan -->
-<!-- bkz m kamal itinin kudüsü vermesine ses etmeyen kamalcı itler -->
-<!-- bkz erdoganin ülkesinde m kamal itini savunmak -->
-<!-- bkz m kamal it soyu deyince deliren ekşiciler -->
-<!-- bka m kamalı it soyu olduğunu kabul eden chpliler -->
-<!-- bkz ülkesinin kurucusuna kamal diyen akboylar https://www.uludagsozluk.com/e/42540495/ -->
-<!-- bkz ak it lerin yine çoşması https://www.youtube.com/watch?v=EfAsNffCjsM --->
-<!-- bkz ak it lerin müslüman olmayanları kamalcı sanması olayı -->
-<!-- https://www.uludagsozluk.com/k/kemalist-seccadesi/&w=bg -->
 
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
