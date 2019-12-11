@@ -12,7 +12,6 @@
 <!-- bkz aleviyi yangından kurtarır mısın sorunsalı -->
 <!-- bkz düğünde gerginlik sergileyen dayının kyk yı batırıp kaçması -->
 <!-- bkz ekşici yeğeninin kyk borcunu ödemeden ülkeden kaçan dayı --> 
-<!-- bkz mersinli dayı vs rte -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 <!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
