@@ -8,6 +8,7 @@
 <!-- https://www.youtube.com/watch?v=P4EQQ7fht-4 phoenix -->
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
+<!-- bkz hüzeyin nihat atsız ın at burcu olması -->
 <!-- bkz fatih tezcan ın tuğçe kazaza yürümesi -->
 <!-- bkz ilber ortaylı celal şengöre şişko demesi -->
 <!-- bkz tayyibin torunun tayybin torunu benim demesi -->
