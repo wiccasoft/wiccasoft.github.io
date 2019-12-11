@@ -9,7 +9,7 @@
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- bkz kk nın dersim alevisi olduğu gerçeği -->
-<!-- bkz denize alevi kürt düşse naparsın sorunsalı -->
+<!-- bkz denize alev alev yanan alevi kürt düşse naparsın sorunsalı -->
 <!-- bkz aleviyi yangından kurtarır mısın sorunsalı -->
 <!-- bkz nicola tesla chp liyse edison akpli mi sorunsalı --> 
 <!-- bkz düğünde gerginlik sergileyen dayının kyk yı batırıp kaçması -->
