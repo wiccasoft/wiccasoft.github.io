@@ -9,6 +9,7 @@
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- bkz hüseyin nihal atsızın at üstünde olan fotosu -->
+<!-- bkz recep tayyip erdoğanın kyk yasasını imazlaması -->
 <!-- bkz macun kaplıcalının nafakayı geciktirmesi -->
 <!-- bkz bahcelinin hüseyin nihal atsızı at aldığı için tebrik etmesi -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
