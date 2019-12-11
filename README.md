@@ -9,7 +9,7 @@
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
-<!-- bkz düğünde gerginlik yaratan dayının ekşicilerin pfdk borçlarını ödemeden kaçması -->
+
 <!-- bkz hüzeyin bihal atsızın at burcu olduğu gerçeği -->
 <!-- bkz hüzeyin nihal atsızın atı alan üsküdarı geçti demesi -->
 <!-- bkz gretanın bolsanora ya verdiği ayar -->
@@ -22,7 +22,8 @@
 <!-- bkz düğünde gerginlik yapan dayının kaçması -->
 <!-- bkz 3 kelime ile özlenen futbolcuyu anlatmak -->
 <!-- bkz futbol topunu sevmeyen adamın yüreğine sevgi koyan ekşici -->
-<!--bkz ilberin celal e şişko demesi -->
+<!-- bkz düğünde gerginlik yaratan dayının ekşicilerin pfdk borçlarını ödemeden kaçması -->
+<!-- bkz ilberin celal e şişko demesi -->
 
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
