@@ -1,26 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
-<!-- https://www.youtube.com/watch?v=oYq1cI0E13Q -->
-<!-- https://www.youtube.com/watch?v=v3JZUzFRrr4 mk ultra -->
-<!-- https://www.youtube.com/watch?v=Gf6lJYonpyw she got the look -->
-<!-- https://www.youtube.com/watch?v=mviTS_cIWXg power of defaults -->
-<!-- https://www.youtube.com/watch?v=OE0iIs9MCk0 what jesus would do -->
-<!-- https://www.youtube.com/watch?v=P4EQQ7fht-4 phoenix -->
-<!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
-<!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
-<!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
-<!-- bkz gretanın bolsanora ya verdiği ayar -->
-<!-- bkz sarte nin hüseyin nihal atsız kim lan bakışı -->
+
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
-<!-- https://www.youtube.com/watch?v=YBZirx5vqZU На будущее -->
-<!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
-<!-- https://www.youtube.com/watch?v=kOyGbSW9pNE çok coolum ben -->
-<!-- https://www.youtube.com/watch?v=5wBTdfAkqGU cali -->
-<!-- https://www.youtube.com/watch?v=WjDLin6Egyw nsa -->
-<!-- https://www.youtube.com/watch?v=2ZwVPmVb7IU call the cops when you see tupac -->
-<!-- https://www.youtube.com/watch?v=H9YxpwWNK9k nsa vs homeland -->
-
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
 
@@ -33,37 +15,6 @@
 [![Image](smartdata/Screenshot_2019-12-10_05-29-16.png)]( https://www.youtube.com/watch?v=GtyqAw2DOEk )
 [![Image](smartdata/Screenshot_2019-12-10_04-27-58.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
--->
-<!--
-https://www.codota.com/code/javascript/functions/iconv-lite/encode
-https://www.pornhub.com/view_video.php?viewkey=ph5828fd34b3913
-https://www.youtube.com/watch?v=Kzuic55j7jI forbidden apple
-https://twitter.com/MarinSanna
-https://eksisozluk.com/entry/98878564 
-https://www.youtube.com/watch?v=T_eNn2t-4Jc 2023 - 100
-https://www.pornhub.com/view_video.php?viewkey=ph57a7a34ef3d3e
-https://www.youtube.com/watch?v=UBQEFuTRK0E little rocket man
-https://www.youtube.com/watch?v=fEalR2OgBcI lol
-https://github.com/gooddata/gooddata-java/issues/837
-https://www.youtube.com/watch?v=eMqtd3MotJc
-https://github.com/socketio/socket.io-client/issues/770
-https://github.com/Azure/azure-functions-host/issues/2896
-https://tr.sputniknews.com/avrupa/201912091040792271-finlandiyada-sanna-marin-dunyanin-en-genc-basbakani-oldu/
-https://github.com/danmactough/node-feedparser/tree/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce 
-https://www.youtube.com/watch?v=GQAk5T93CQk swan song for a nation
-https://twitter.com/radikal lol
-https://www.pornhub.com/view_video.php?viewkey=ph591b1fffbc7dd
-https://github.com/nodejs/node-v0.x-archive/issues/2190 lol
-bkz floating witchcraft after life  https://www.youtube.com/watch?v=k-T7vGdH_ek
-https://github.com/danmactough/node-feedparser/issues/129
-bkz floating witchcraft https://www.youtube.com/watch?v=01SXLx0MOTs 
-request({url,encoding:null}, function(error, response, body){
-		body = iconv.encode (iconv.decode (new Buffer (body, 'binary'), 'win1251'), 'utf8');
-        console.log(body.toString()); // кракозябры: ура ура ура
-});,
-https://www.pornhub.com/view_video.php?viewkey=ph5b55b7bf16d50
-https://github.com/danmactough/node-feedparser/blob/fb2377e2525a4ab26e998e20021f4a60ab6dd7ce/examples/iconv.js
-https://www.pornhub.com/view_video.php?viewkey=ph5a2b1947246d6
 -->
 
 [![Image](smartdata/Screenshot_2019-12-09_12-04-19.png)]( https://www.youtube.com/watch?v=VfB6xynzT_E )
