@@ -9,6 +9,7 @@
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
+<!-- bkz asker selamı veren milliler vs asker kaçakları -->
 <!-- bkz cengiz ünderin verdiği asker selamı -->
 <!-- bkz avrupa fatihi vs dünya lideri -->
 <!-- bkz türklerin çok zeki olmasının sebebi ne sorunsalı -->
