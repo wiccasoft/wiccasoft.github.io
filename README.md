@@ -6,6 +6,7 @@
 <!-- https://www.youtube.com/watch?v=EF19q4ok6Is safe from harm -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
 <!-- https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1r%C4%B1m-demir%C3%B6ren/&w=bg bkz demirörerim -->
+<!-- https://www.youtube.com/watch?v=kOyGbSW9pNE aşırı coolum -->
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
 
