@@ -4,8 +4,7 @@
 <!-- bkz ak itlerin 2023 de aç kalacağı gerçeğinin güldürmesi -https://www.youtube.com/watch?v=TNth6Pdtslk -->
 <!-- bkz şaka maka yobazdoganin ak itlerin anasını sikeceği gerçeği https://www.youtube.com/watch?v=MhPz5PNLdoM -->
 <!-- bkz müslümlerin sümük gibi bişey olması https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- bkz kamala küfretmekten başka iş yapayan ak itlerin aç kalacağı gerçeği -->
-<!-- bkz yobazdoganin israilin kuklası olmasını kabul edemeyen ak itlerin dramı -->
+<!-- bkz erdoganin israilin kuklası olmasını kabul edemeyen ak itlerin dramı -->
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
 <!-- bkz erdoganin gretaya osmanlı torunu demesi -->
 <!-- bkz me myself & one nation under sky https://www.youtube.com/watch?v=bcIlQFPbPnM -->
