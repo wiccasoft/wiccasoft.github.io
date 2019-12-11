@@ -1,7 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 <!-- bkz ak itlerin 2023 de aç kalacağı gerçeğinin güldürmesi -->
-<!-- bkz şaka maka yobazdoganin ak itlerin anasını sikeceği gerçeği -->
+<!-- bkz şaka maka yobazdoganin ak itlerin anasını sikeceği gerçeği https://www.youtube.com/watch?v=MhPz5PNLdoM -->
 <!-- bkz müslümlerin sümük gibi bişey olması https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz kamala küfretmekten başka iş yapayan ak itlerin aç kalacağı gerçeği -->
 <!-- bkz yobazdoganin israilin kuklası olmasını kabul edemeyen ak itlerin dramı -->
