@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
+<!-- https://www.youtube.com/watch?v=ovLBvaS5XpQ -->
 <!-- bkz zall ona hep oç derin yall lah yardırması https://www.youtube.com/watch?v=IJgS6tBT984 -->
 <!-- bkz ak itlerin 2023 de aç kalacağı gerçeğinin güldürmesi -https://www.youtube.com/watch?v=TNth6Pdtslk -->
 <!-- bkz şaka maka yobazdoganin ak itlerin anasını sikeceği gerçeği https://www.youtube.com/watch?v=MhPz5PNLdoM -->
