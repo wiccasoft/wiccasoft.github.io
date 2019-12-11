@@ -7,6 +7,7 @@
 <!-- bkz tek dünya devletini nereye kursam sorunsalı https://www.youtube.com/watch?v=QBf118bdeEc -->
 <!-- bkz ilberin celala şişko demesi -->
 <!-- bkz m kemalin sivas kongresinde kudüs pazarlığı yapması --> 
+<!-- bkz m kemalin bartını ruslara peşkeş çekmesi -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
