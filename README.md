@@ -9,7 +9,7 @@
 <!-- https://www.cbc.ca/news/world/democrats-us-senate-seat-arizona-1.4902632 -->
 <!-- https://www.youtube.com/watch?v=iKxnCGziUVA From Glastonbury Festival 2008 -->
 <!-- https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment -->
-
+<!-- bkz üretim yapmadığı halde özgüveni olan işçi -->
 <!-- bkz futbol zekası olmadığı halde özgüveni olan aptal insan -->
 <!-- bkz fatih tezanın analiz merkezini kapatıp tuğçe kazaz a katılması -->
 <!-- bkz hüzeyin bihal atsızın at burcu olduğu gerçeği -->
