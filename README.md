@@ -22,8 +22,9 @@
 <!-- bka m kamalı it soyu olduğunu kabul eden chpliler -->
 <!-- bkz ülkesinin kurucusuna kamal diyen akboylar https://www.uludagsozluk.com/e/42540495/ -->
 <!-- bkz ak it lerin yine çoşması https://www.youtube.com/watch?v=EfAsNffCjsM --->
-<!-- bkz ak it lerin müslüman olmayan ları kamalcı sanması olayı -->
+<!-- bkz ak it lerin müslüman olmayanları kamalcı sanması olayı -->
 <!-- https://www.uludagsozluk.com/k/kemalist-seccadesi/&w=bg -->
+
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
