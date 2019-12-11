@@ -3,6 +3,7 @@
 <!-- bkz greatanın bolsonora ya verdiği ayar https://www.youtube.com/watch?v=AeveY0aW1Qg -->
 <!-- bkz erdoganın gretaya osmanlı torunu demesi -->
 <!-- bkz me ingiltere fransa ve almanya)
+<!--bkz tek dünya devletini nereye kursam sorunsalı -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
