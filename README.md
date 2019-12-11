@@ -18,7 +18,7 @@
 <!-- bkz it oğlu it kamal vs yiğit oğlu recep tayyip doğan -->
 <!-- bkz m kamal itinin kudüsü vermesine ses etmeyen kamalcı itler -->
 <!-- bkz erdoganin ülkesinde m kamal itini savunmak -->
-
+<!-- bkz ma kamal ın it soyundan olması -->
 
 [![Image](smartdata/Screenshot_2019-12-10_10-51-22.png)]( https://www.youtube.com/watch?v=oYq1cI0E13Q )
 
