@@ -12,6 +12,7 @@
 <!-- https://www.youtube.com/watch?v=5wBTdfAkqGU cali -->
 <!-- https://www.youtube.com/watch?v=WjDLin6Egyw nsa -->
 <!-- https://www.youtube.com/watch?v=2ZwVPmVb7IU call the cops wchen you see tupac -->
+<!-- https://www.youtube.com/watch?v=H9YxpwWNK9k nsa vs homeland -->
 
 [![Image](smartdata/Screenshot_2019-12-10_06-42-53.png)](https://www.theguardian.com/world/2019/dec/09/how-tourists-became-first-aiders-on-seas-off-white-island-volcano-new-zealand)
 
