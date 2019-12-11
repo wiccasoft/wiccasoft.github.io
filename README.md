@@ -16,6 +16,7 @@
 <!-- bkz avrupa fatihi vs dünya lideri -->
 <!-- bkz türklerin çok zeki olmasının sebebi ne sorunsalı -->
 <!-- bkz hüzeyin bihal atsızın at burcu olduğu gerçeği -->
+<!-- bkz sarte nin hüseyin nihal atsız kim lan bakışı -->
 <!-- bkz hüzeyin nihal atsızın atı alan üsküdarı geçti demesi -->
 <!-- bkz hüzeyin nihat atsız ın at burcu olması -->
 <!-- bkz fatih terimin meloya attığı bakış -->
