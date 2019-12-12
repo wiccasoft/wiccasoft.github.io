@@ -1,5 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
+
+<!-- https://www.youtube.com/watch?v=AeveY0aW1Qg -->
 <!-- https://www.fanatik.com.tr/fatih-terimden-son-dakika-falcao-aciklamasi-2107943 -->
 <!-- https://www.youtube.com/watch?v=2T6uZi6Nw7o ay nasıl yarıldı sorunsalı -->
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag bir kilo pamuk mu demir mi sorunsalı -->
