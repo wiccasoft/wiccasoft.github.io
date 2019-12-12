@@ -1,19 +1,11 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-11_07-03-17.png)]( https://www.youtube.com/watch?v=E-7qra5xs6E )
-<!-- Screenshot_2019-09-23_11-03-40.png-->
+
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 
 <!-- https://www.youtube.com/watch?v=E1cxEgjHrm8 bebeleri pitten alalım -->
 <!-- bkz avrupafatihahahaaha https://www.youtube.com/watch?v=E1cxEgjHrm8 -->
-<!-- bkz fenerlilerin gassarayın başarılarını kıskanması -->
-<!-- bkz erdonun kamalı tokat manyağı yapması -->
-<!-- bkz kamalın kudüsü inciliclere vermesi -->
-<!-- bkz kamalın mal mal hareketler yapması -->
-<!-- bkz fatih terimin meloya attığı bakış -->
-<!-- bkz Dünya Kupası'nın en yakışıklı 11'i https://www.youtube.com/watch?v=HekprKp07gQ -->
-<!-- bkz re re re gassaray gasssaray cimbom bom bom-->
-<!-- https://www.uludagsozluk.com/k/falcao-yu-pariste-g%C3%B6rm%C3%BC%C5%9Fler/ bkz iki gözümüm çiçeği -->
 <!-- http://gmt.soest.hawaii.edu/boards/1/topics/3649 -->
 <!-- https://www.youtube.com/watch?v=Zq9UMYeCBHo test -->
 <!-- https://www.youtube.com/watch?v=JR9eB4JjYBY psg nin döşediği boru -->
