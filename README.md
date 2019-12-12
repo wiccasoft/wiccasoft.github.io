@@ -1,5 +1,6 @@
 <!--Screenshot_2019-12-12_11-02-32--> 
 [![Image](smartdata/Screenshot_2019-12-12_09-23-42.png)]( https://www.youtube.com/watch?v=zRAGv61QkHc )
+<!-- https://www.dunya.com/yurttan-haberler/doktora-ogrencileri-barutcu-tekstilde-bilimsel-calisma-yapacak-haberi-458606 -->
 
 [![Image](smartdata/Screenshot_2019-12-12_09-23-42.png)]( https://www.theguardian.com/environment/2019/dec/06/greta-thunberg-says-school-strikes-have-achieved-nothing )
 
