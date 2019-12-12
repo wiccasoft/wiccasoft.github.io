@@ -1,4 +1,8 @@
 <!--Screenshot_2019-12-12_11-02-32--> 
+
+
+[![Image](smartdata/Screenshot_2019-12-12_14-56-33.png)]( https://www.youtube.com/watch?v=YBZirx5vqZU )
+
 [![Image](smartdata/Screenshot_2019-12-12_13-46-44.png)]( https://www.youtube.com/watch?v=zRAGv61QkHc )
 <!-- https://www.dunya.com/yurttan-haberler/doktora-ogrencileri-barutcu-tekstilde-bilimsel-calisma-yapacak-haberi-458606 -->
 
