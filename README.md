@@ -2,6 +2,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-11_07-03-17.png)]( https://www.youtube.com/watch?v=E-7qra5xs6E )
 
+<!--https://www.jstor.org/stable/2304185?seq=1 -->
+
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 
 
