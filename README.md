@@ -1,4 +1,5 @@
 
+[![Image](smartdata/Screenshot_2019-12-12_09-23-42.png)]( https://www.theguardian.com/environment/2019/dec/06/greta-thunberg-says-school-strikes-have-achieved-nothing )
 
 [![Image](smartdata/Screenshot_2019-12-12_05-39-38.png)]( https://www.youtube.com/watch?v=E-7qra5xs6E )
 
