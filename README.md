@@ -1,6 +1,6 @@
 
 
-[![Image](smartdata/Screenshot_2019-12-11_07-03-17.png)]( https://www.youtube.com/watch?v=E-7qra5xs6E )
+[![Image](smartdata/Screenshot_2019-12-12_05-39-38.png)]( https://www.youtube.com/watch?v=E-7qra5xs6E )
 
 <!--
 https://www.jstor.org/stable/2304185?seq=1 
