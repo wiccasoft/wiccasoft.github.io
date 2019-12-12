@@ -1,6 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
-<!-- bkz kamalın kudüsü incililere vermesi -->
+<!-- bkz kamalın kutsal kudüsü inciliclere vermesi -->
 <!-- bkz kamalın mal mal hareketler yapması -->
 <!-- bkz fatih terimin meloya attığı bakış -->
 <!-- https://www.uludagsozluk.com/k/falcao-yu-pariste-g%C3%B6rm%C3%BC%C5%9Fler/ bkz iki gözümüm çiçeği -->
