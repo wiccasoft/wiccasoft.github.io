@@ -4,16 +4,14 @@
 <!-- https://www.youtube.com/watch?v=Zq9UMYeCBHo test -->
 <!-- https://www.youtube.com/watch?v=JR9eB4JjYBY psg nin döşediği boru -->
 <!-- https://www.youtube.com/watch?v=hacCw29knzI türban olayı çok iyi oldu -->
-<!-- bkz emre morun yine yürümesi sorunsalı https://www.youtube.com/watch?v=JR9eB4JjYBY -->
-<!-- bkz fatih terim in meloya attığı bakış sorunsalı https://www.youtube.com/watch?v=hacCw29knzI -->
 <!-- https://www.youtube.com/watch?v=ONqn1bxjatM mi casa su casa -->
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg south algorithm -->
 <!-- denize namaza kılan recep tayyip erdoğan mı düşse kurtarırsın rakı içen kamal mı sorunsalı -->
+<!-- bkz alnı secde görmeyen türk değildir https://www.youtube.com/watch?v=IJgS6tBT984 -->
 <!-- https://www.youtube.com/watch?v=tn66JWh30rE alex mi hagi mi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=2T6uZi6Nw7o ay nasıl yarıldı sorunsalı -->
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag bir kilo pamuk mu demir mi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=ovLBvaS5XpQ petrol tarım ünümüdür? -->
-<!-- bkz alnı secde görmeyen türk değildir https://www.youtube.com/watch?v=IJgS6tBT984 -->
 <!-- https://www.youtube.com/watch?v=fjIDLIJZom4 güneş girmeyen eve doktor mu girer ? -->
 
 
