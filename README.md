@@ -12,6 +12,12 @@ The conversion rules are:
 x = R sin (phi) cos (theta)
 y = R sin (phi) sin (theta)
 z = R cos (phi)
+R(final) = sqrt(x^2+y^2+z^2)
+Theta(final) = arctan(y/x)
+Phi(final) = arctan(sqrt(x^2+y^2)/z^2)
+The latitude and longitude are then:
+Lat = 90 - Phi(final)
+Long = Theta(final)
 -->
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
