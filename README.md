@@ -2,7 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 
 <!-- bkz emre morun yine yürümesi sorunsalı https://www.youtube.com/watch?v=JR9eB4JjYBY -->
-<!-- bkz fatih terim in meloya attığı bakış sorunsalı -->
+<!-- bkz fatih terim in meloya attığı bakış sorunsalı https://www.youtube.com/watch?v=hacCw29knzI -->
 <!-- https://www.youtube.com/watch?v=ONqn1bxjatM mi casa su casa -->
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg south algorithm -->
 <!-- denize namaza kılan recep tayyip erdoğan mı düşse kurtarırsın rakı içen kamal mı sorunsalı -->
