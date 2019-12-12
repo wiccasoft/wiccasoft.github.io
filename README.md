@@ -1,5 +1,3 @@
-<!--Screenshot_2019-12-12_11-02-32--> 
-
 
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
