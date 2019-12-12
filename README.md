@@ -4,6 +4,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 
+<!-- bkz psg nin kamalcılara döşediği boru -->
 <!-- https://www.youtube.com/watch?v=E1cxEgjHrm8 bebeleri pitten alalım -->
 <!-- bkz avrupafatihahahaaha https://www.youtube.com/watch?v=E1cxEgjHrm8 -->
 <!-- http://gmt.soest.hawaii.edu/boards/1/topics/3649 -->
