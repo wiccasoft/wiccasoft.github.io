@@ -5,7 +5,7 @@
 <!-- bkz fatih terim in meloya attığı bakış sorunsalı -->
 <!-- https://www.youtube.com/watch?v=ONqn1bxjatM mi casa su casa -->
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg south algorithm -->
-<!-- denize namaza kılan recep tayyip erdoğan mı düşse kurtarırsın rakı içen atatürk mü sorunsalı -->
+<!-- denize namaza kılan recep tayyip erdoğan mı düşse kurtarırsın rakı içen kamal mı sorunsalı -->
 <!-- https://www.youtube.com/watch?v=tn66JWh30rE alex mi hagi mi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=2T6uZi6Nw7o ay nasıl yarıldı sorunsalı -->
 <!-- https://www.youtube.com/watch?v=o6EayWHL-ag bir kilo pamuk mu demir mi sorunsalı -->
