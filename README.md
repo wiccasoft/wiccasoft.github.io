@@ -1,3 +1,5 @@
+<!--Screenshot_2019-12-12_11-02-32--> 
+[![Image](smartdata/Screenshot_2019-12-12_09-23-42.png)]( https://www.youtube.com/watch?v=6Um7G1N86KU )
 
 [![Image](smartdata/Screenshot_2019-12-12_09-23-42.png)]( https://www.theguardian.com/environment/2019/dec/06/greta-thunberg-says-school-strikes-have-achieved-nothing )
 
@@ -34,8 +36,6 @@ Long = Theta(final)
 [![Image](smartdata/Screenshot_2019-12-10_06-54-36.png)]( https://www.theguardian.com/commentisfree/2019/dec/09/the-guardian-view-on-finlands-new-pm-a-different-type-of-leadership )
 
 <!--
-[![Image](smartdata/Screenshot_2019-12-10_05-29-16.png)]( https://www.youtube.com/watch?v=GtyqAw2DOEk )
-[![Image](smartdata/Screenshot_2019-12-10_04-27-58.png)]( https://www.youtube.com/watch?v=RHBoMuNszuk )
 [![Image](smartdata/Screenshot_2019-12-10_01-43-28.png)]( https://www.theguardian.com/world/2019/dec/09/new-zealand-eruption-dead-missing-white-island )
 -->
 
