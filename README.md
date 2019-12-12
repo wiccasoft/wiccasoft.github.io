@@ -3,6 +3,7 @@
 
 <!-- https://www.youtube.com/watch?v=ONqn1bxjatM mi casa su casa -->
 <!-- https://www.youtube.com/watch?v=AeveY0aW1Qg south algorithm -->
+<!-- bkz avrupa fatihi fatih terim in meloya attığı bakış -->
 <!-- denize namaza kılan recep tayyip erdoğan mı düşse kurtarırsın rakı içen atatürk mü sorunsalı -->
 <!-- https://www.youtube.com/watch?v=tn66JWh30rE alex mi hagi mi sorunsalı -->
 <!-- https://www.youtube.com/watch?v=2T6uZi6Nw7o ay nasıl yarıldı sorunsalı -->
