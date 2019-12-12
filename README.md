@@ -5,6 +5,13 @@
 <!--
 https://www.jstor.org/stable/2304185?seq=1 
 https://www.sciencedirect.com/science/article/pii/S2405535217300219
+R = Range
+Theta = Azimuth
+Phi = 90 - Elevation
+The conversion rules are:
+x = R sin (phi) cos (theta)
+y = R sin (phi) sin (theta)
+z = R cos (phi)
 -->
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
