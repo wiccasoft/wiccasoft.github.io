@@ -3,6 +3,7 @@
 <!-- bkz kamalın kutsal kudüsü inciliclere vermesi -->
 <!-- bkz kamalın mal mal hareketler yapması -->
 <!-- bkz fatih terimin meloya attığı bakış -->
+<!-- bkz re re re gassaray gasssaray cimbom bom bom-->
 <!-- https://www.uludagsozluk.com/k/falcao-yu-pariste-g%C3%B6rm%C3%BC%C5%9Fler/ bkz iki gözümüm çiçeği -->
 <!-- http://gmt.soest.hawaii.edu/boards/1/topics/3649 -->
 <!-- https://www.youtube.com/watch?v=Zq9UMYeCBHo test -->
