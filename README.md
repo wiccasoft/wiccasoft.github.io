@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz abdullah gülün ak parti tabanına katılma ihtimali -->
 <!-- bkz 100 tane parti kurup tayyip doganı indiremeyen ezikler -->
 <!-- bkz anavatan partisinin ana muhalefet partisine verdiği ayar -->
 <!-- bkz mhp tabanının saadet tabanına geçme ihtimali -->
