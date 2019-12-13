@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!-- bkz zekereya özün rabia olayından tayyip doğanı tutması -->
+<!-- bkz zekereya özün rabia olayında tayyip doğanı tutması -->
 <!-- bkz ak it taklidi yapan franc lucas it oğlunun 15 dakkadır recep tayyip itdoğana entry girmemesi -->
 <!-- bkz 15 dakikadır ekrem itoğluna entry girmeyen ak itin sağlığı -->
 <!-- bkz norm ender fanboylarının 15 yaşında oldukları gerçeği -->
