@@ -8,7 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!--bkz rap dinleyenlerin genelde 15 yaşında olması -->
+<!-- bkz rap dinleyenlerin genelde 15 yaşında olması -->
 <!-- bkz rapin asi abisinin norm enderi kanatları altına aLması -->
 <!-- bkz norm enderin killa hakan la düete sıcak bakması -->
 <!-- bkz mazhar alanoğlu nun fuat özkanla barışması -->
