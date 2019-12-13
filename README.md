@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!--bkz mashar alansonun yandım şarkısını mekkede yazması -->
+<!-- bkz mazhar alansonun fuat özkanla ayrılması -->
+<!--b kz mashar alansonun yandım şarkısını mekkede yazması https://www.youtube.com/watch?v=MVvmxbXfa6w -->
 <!-- bkz cerrahpaşalaların raconu kesmesi -->
 <!-- bkz kurtlar vadisiyle büyüyen akkoyunların kesilecek seviyeye gelmesi -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısınız ak gönüller -->
