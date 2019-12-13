@@ -5,13 +5,12 @@
 
 <!-- bkz emine erdoğanın ayakkabısını türbanı ile kombin yapması -->
 <!-- bkz it oğlunun istanbulu parsel parsel satmasına ses etmeyen ak itler-->
-<!-- bkz i oğlunun ezan sesinin kısmasına ses etmeyen ak itler -->
-<!-- bkz akp nin para veriği trollerin bütün gün oğluna küfr etmesi -->
+<!-- bkz it oğlunun ezan sesinin kısmasına ses etmeyen ak itler -->
 <!-- bkz emine erdoğanıun türbanı ile ayakkabısını kombin yapması -->
 <!-- bkz zalla one hep oç derin yalldırması -->
-<!-- bkz i oğlunun camiye atla girmesine ses etmeyen ak itler -->
+<!-- bkz it oğlunun camiye atla girmesine ses etmeyen ak itler -->
 <!-- bkz rte nin imamahatipleri kapamasına ses etmeyen ak itler -->
-<!-- bkz i oğlunun istanbulu parsel parsel satmasına ses etmeyen ak itler -->
+<!-- bkz it oğlunun istanbulu parsel parsel satmasına ses etmeyen ak itler -->
 <!-- bkz davud oğlanın bilim oğlanı olduğu iddiaları -->
 <!-- i.oğlu egosu vs tayyip egosu -->
 <!--https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-istanbul-u-parsel-parsel-satmas%C4%B1/&w=bg -->
