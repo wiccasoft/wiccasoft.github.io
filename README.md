@@ -10,10 +10,10 @@
 
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var-->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
-<!-- bkz ekrem imamaıopğlunun namaz kılan işçileri kırbaçlamasına ses etmeyen ak itler -->
-<!-- bkz ekremm imamaoğlunun camilerin içine sıçmasına ses etmeyen ak itler -->
-<!-- bkz ekrem imamaoğlunu ibb başkanı olduğu gerçeği -->
-<!-- bkz ekrem imamaoğlunun ibbye yerleşmesi -->
+<!-- bkz ekrem imamoğlunun namaz kılan işçileri kırbaçlamasına ses etmeyen ak itler -->
+<!-- bkz ekremm imamoğlunun camilerin içine sıçmasına ses etmeyen ak itler -->
+<!-- bkz ekrem imamoğlunu ibb başkanı olduğu gerçeği -->
+<!-- bkz ekrem imamoğlunun ibbye yerleşmesi -->
 <!-- bkz ibb öncesi imamaoğlu vs imamaoğlu öncesi ibb -->
 <!-- bkz rapin asi emosu şanı şer barış özcan düeti -->
 <!-- bkz ekrem imamoğlunun oğluyla halı saha maçı yapmak -->
