@@ -8,8 +8,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!--bkz denize mıstıfı ata tırt mı düşse kurtarırsın recep tayyip dogan mı -->
-<!--bkz mustafa kamal atatırt vs recep tayyap dogan -->
+<!-- bkz bot yazıp entry girmeyen ezik erkek -->
+<!-- bkz denize mıstıfı ata tırt mı düşse kurtarırsın recep tayyip dogan mı -->
+<!-- bkz mustafa kamal atatırt vs recep tayyap dogan -->
 <!-- bkz ... diyen erkek -->
 <!-- bkz 2020 yılında haber botu varken hala entry girmek -->
 <!-- https://www.uludagsozluk.com/e/42552819/ bkz haber linkini ekledim tıklayın  -->
