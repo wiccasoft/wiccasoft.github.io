@@ -14,7 +14,7 @@
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg -->
 <!-- bkz imam oğlunun oğlu şuan ne yapıyordur sorunsalı -->
 <!-- bkz imamaoğlunun imam ın oğlu olmasına ses etmeyen ak itler -->
-<!-- bkz rektörlerin imamoğluna siktiri çekmesi -->
+<!-- bkz imamahatipli rektörlerin imamoğluna siktiri çekmesi -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-davetine-rekt%C3%B6rlerin-kat%C4%B1lmamas%C4%B1/ -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
