@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz ibb nin kürt işçi alımlarını kapaması -->
 <!-- bkz okan buruk erol bulut arasındaki gerginlik -->
 <!-- bkz fetöyle rte nin 13. cuma da barışması -->
 <!-- bkz karısını kızın fetö evlerine yollayan gavatın yeni parti kurması -->
