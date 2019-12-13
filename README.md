@@ -10,10 +10,6 @@
 
 <!-- https://www.uludagsozluk.com/e/42551983/ aaa ibne sen 2030 u görebilecen mi bakalım -->
 <!-- bkz norm ender fanboyu vs arzıbela fanboyu -->
-<!-- bkz ekrem itoğlunun camileri ahıra çevirmesi -->
-<!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
-<!-- bkz ekrem itoğlunun camilerin bakım ihalesini kendi firmasına ses etmeyen ak itler -->
-<!-- bkz norm ender fanboylarının 15 yaşında olduğu gerçeği -->
 <!-- bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/k/suriyelilerin-t%C3%BCrkiye-de-siyasi-bir-parti-kurmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/chp-e%C5%9Fittir-hdp-vs-akp-e%C5%9Fittir-hdp/ bkz ak itlerin uğramadığı başlıklar-->
