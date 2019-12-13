@@ -10,43 +10,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- https://www.youtube.com/watch?v=2oK76PIY8Uk bi şiir okuyuşu var sanırsın gün doğuyor -->
-<!-- https://www.youtube.com/watch?v=mtKWWcg60qE erdoganın bomba gibi geldiği gerçeği -->
-<!-- https://www.youtube.com/watch?v=SG0gOek2mbM bkz fesleğen gibi oturturum anlamı da çıkabilir -->
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibin -->
-<!-- https://twitter.com/RT_com/status/945559827249381376 iki gözümün çiçeği -->
-<!-- bkz tayyp doğanın bağımlılık yapması https://www.youtube.com/watch?v=2KErN9bMrwM -->
-<!-- bkz tayyip doğanı uyurken izlemek uyanmasın diye gözlerini öpmek -->
-<!-- bkz lenardo di caprio nun tayyip doğan hayranı olması -->
-<!-- bkz ahmet hakan vs ahmet hakmayan-->
-<!-- bkz recep tayyip dopğanın 2030 a kadar iktidarda oalcağını bile bile muhalefet etmek -->
-<!-- bkz recep tayyip doğanın dişime göre parti kurun demesi -->
-<!-- https://galeri.uludagsozluk.com/r/karizman%C4%B1n-%C3%B6z-o%C4%9Flu-1947379/ -->
-<!-- bkz recep tayyip doğanın beraber yürüdük biz bu yollarda şarkısını parti şarkısı yapması -->
-<!-- bkz ali bebecanın yaşında küçük göstermesi sorunsalı -->
-<!-- bkz orhan yamukun parti kurabilirim sinyalleri yakması -->
-<!-- bkz ak parti gibi bi parti varken başka partilerde sürtmek-->
-<!-- bkz abdullah gülün ak parti tabanına katılma ihtimali -->
-<!-- bkz 100 tane parti kurup tayyip doganı indiremeyen ezikler -->
-<!-- bkz anavatan partisinin ana muhalefet partisine verdiği ayar -->
-<!-- bkz mhp tabanının saadet tabanına geçme ihtimali -->
-<!-- bkz we like the party -->
-<!-- bkz führerrin partisi vs siktiriboktan partiler -->
-<!-- bkz tayyip doganın 155 tane partiyle uğraşamam demesi -->
-<!-- bkz kamal kılıçcanoğlu nun kulislerde davutoğlunu tebrik etmesi -->
-<!-- bkz tayyip budun doganın dişime gör parti kurun demesi -->
-<!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
-<!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
-<!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
-<!-- bkz abdulrahim albayrakın üj mülyon yuro daha verip nejmarı alalım önerisi -->
-<!-- bkz galatasarayda steven nzonzi'nin kadro dışı kalmasına ses etmeyen ak itler -->
-<!-- bkz hiç gelmeyecek bi partiyi bekleyen ibneler -->
-<!-- https://www.uludagsozluk.com/e/42551983/ aaa ibne sen 2030 u görebilecen mi bakalım -->
-<!-- bkz norm ender fanboyu vs arzıbela fanboyu -->
-<!-- bkz hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42551890/ bkz yallın belediyenin zehirlediği bir köpek olma ihtimali -->
-<!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var-->
-
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
 [![Image](smartdata/Screenshot_2019-12-12_16-11-23.png)]( https://www.youtube.com/watch?v=9phBVY2q2ng )
