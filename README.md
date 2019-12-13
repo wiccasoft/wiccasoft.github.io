@@ -8,6 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
+<!-- bkz ak partiyi kirletmeye çalışan kara partili itler -->
+<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-inci-s%C3%B6zl%C3%BCk-yazar%C4%B1-olmas%C4%B1/&w=bg -->
 <!-- bkz evreninin tayyip yüzü suyu hüremetine yaratılmışi olması -->
 <!-- https://www.uludagsozluk.com/k/hz-ali-ekrem-imamo%C4%9Flu-suretinde-yery%C3%BCz%C3%BCne-inmi%C5%9Ftir/ -->
 <!-- fetyullah güleni tayyipe itelemeye çalışan tip https://www.uludagsozluk.com/e/42552155/ -->
