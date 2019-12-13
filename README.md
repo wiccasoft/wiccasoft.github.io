@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz iki kişinin bildiği sır sır değildir -->
 <!-- bkz seyfo dayı halo dayı diyaloğu bırak -->
 <!-- bkz kurtlar vadisinden efsane raconlu bir cümle bırak -->
 <!-- bkz geliyorum partisi nin gelmiyorum partisiyle birleşmesi -->
