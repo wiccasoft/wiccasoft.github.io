@@ -4,8 +4,8 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
 <!-- bkz allahın 99 ismini bilmeyen cahil -->
-<!-- bkz hayyum hayyum allah ise allahın makamı nerede sorunsalı -->
 <!-- bkz ben makama ismimle yakışırım diyen dünya lideri -->
+<!-- bkz hayyum hayyum allah ise allahın makamı nerede sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/mehmet-tevfik-g%C3%B6ksu/&w=bg bkz ismiyle müstesna hem de karizma --->
 <!-- bkz üç isimli erkek karizmasının her makama yakışması --> 
 <!-- https://www.youtube.com/watch?v=criYKxCGpLM önemli işler daire başkanlığına yakışan isim -->
