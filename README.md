@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz recep tayyip dopğanın 2030 a kadar iktidarda oalcağını bile bile muhalefet etmek -->
 <!-- bkz recep tayyip doğanın dişime göre parti kurun demesi -->
 <!-- https://galeri.uludagsozluk.com/r/karizman%C4%B1n-%C3%B6z-o%C4%9Flu-1947379/ -->
 <!-- bkz recep tayyip doğanın beraber yürüdük biz bu yollarda şarkısını parti şarkısı yapması -->
