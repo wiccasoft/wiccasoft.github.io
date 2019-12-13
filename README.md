@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!--bkz denize mıstıfı ata tırt mı düşse kurtarırısın recep tayyip dogan mı -->
 <!--bkz mustafa kamal atatırt vs recep tayyap dogan -->
 <!-- bkz ... diyen erkek -->
 <!-- bkz 2020 yılında haber botu varken hala entry girmek -->
