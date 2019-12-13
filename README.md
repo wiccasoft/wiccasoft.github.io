@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz akboyları entry girme dışında yaptığı bir iş var mı sorunsalı -->
 <!-- bkz akboyların entry girmedikleri zamanlar var mı sorunsalı --> 
 <!-- bkz akboyların sürekli entry girmesi -->
 <!-- bkz annesi topkek yaparken sürekli entry giren başlık açan akboylar -->
