@@ -8,30 +8,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz rap dinleyenlerin  yaş ortalamasının 15-18 olduğu gerçeği -->
-<!-- bkz rapin asi abisinin norm enderi kanatları altına aLması -->
-<!-- bkz norm enderin killa hakan la düete sıcak bakması -->
-<!-- bkz mazhar alanoğlu nun fuat özkanla barışması -->
-<!-- bkz kurtlar vadisiyle büyüyen bir ergen olmak -->
-<!-- bkz kurtlar vadisi efsane replikler veritabanı -->
-<!-- bkz iki kişinin bildiği sır sır değildir -->
-<!-- bkz seyfo dayı halo dayı diyaloğu bırak -->
-<!-- bkz kurtlar vadisinden efsane raconlu bir cümle bırak -->
-<!-- bkz geliyorum partisi nin gelmiyorum partisiyle birleşmesi -->
-<!-- bkz emre aydın mustafa ceceli düeti -->
-<!-- bkz mazhar alanoğlu vs fuatözkan-->
-<!-- bkz mazhar alansonun fuat özkanla ayrılması -->
-<!-- bkz mashar alansonun yandım şarkısını mekkede yazması https://www.youtube.com/watch?v=MVvmxbXfa6w -->
-<!-- bkz cerrahpaşalaların raconu kesmesi -->
-<!-- bkz kurtlar vadisiyle büyüyen akkoyunların kesilecek seviyeye gelmesi -->
-<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısınız ak gönüller -->
-<!-- bkz ekrem imamoğlunun sabah akşam çamur at izi kalmasın diye ak partiye saldırması -->
-<!-- bkz ekrem imamoğlunun iftira attığı akboylar -->
-<!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg -->
-<!-- bkz imam oğlunun oğlu şuan ne yapıyordur sorunsalı -->
-<!-- bkz imamaoğlunun imam ın oğlu olmasına ses etmeyen ak itler -->
-<!-- bkz imamahatipli rektörlerin imamoğluna siktiri çekmesi -->
-<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-davetine-rekt%C3%B6rlerin-kat%C4%B1lmamas%C4%B1/ -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
 <!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
