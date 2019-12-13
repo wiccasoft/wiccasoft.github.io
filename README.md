@@ -5,7 +5,6 @@
 
 <!-- bkz allahın 99 ismini bilmeyen cahil -->
 <!-- bkz hayyum hayyum allah ise allahın makamı nerede sorunsalı -->
-<!-- bkz hem kayyum hem hayyum erkek karizması-->
 <!-- bkz ben makama ismimle yakışırım diyen dünya lideri -->
 <!-- https://www.uludagsozluk.com/k/mehmet-tevfik-g%C3%B6ksu/&w=bg bkz ismiyle müstesna hem de karizma --->
 <!-- bkz üç isimli erkek karizmasının her makama yakışması --> 
