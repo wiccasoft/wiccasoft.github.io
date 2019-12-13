@@ -1,7 +1,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
-<!-- bkz süleyman soylunun gazeteci olmak istiyorum açıklaması --<
+<!--bkz 13 aralık 2019 cuma hutbesine fetöyle rte nin barışması --->
+<!-- bkz süleyman soylunun gazeteci olmak istiyorum açıklaması -->
 <!-- bkz rte nin maliye bakanından damadım diye bahsetimesi -->
 <!-- https://www.youtube.com/watch?v=HlY1eDlWwAw bkz lahmacuna karatay onayı -->
 <!-- https://www.uludagsozluk.com/e/42550179/ bkz ibb nin ibne gibi puşt gibin bişey olması -->
