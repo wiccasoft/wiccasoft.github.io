@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz tayyip doğanı uyurken izlemek uyanmasın diye gözlerini öpmek -->
 <!-- bkz lenardo di caprio nun tayyip doğan hayranı olması -->
 <!-- bkz ahmet hakan vs ahmet hakmayan-->
 <!-- bkz can dündarın can yamanı kıskanması -->
