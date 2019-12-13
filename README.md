@@ -13,7 +13,7 @@
 <!-- https://www.uludagsozluk.com/k/hakk%C4%B1-bulut/&w=bg taşşaklarına beton yetmez hakkı baabaaaa -->
 <!-- https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-tetik%C3%A7i-demesi/ vaziyet alın -->
 <!-- https://www.uludagsozluk.com/k/okan-buruk/&w=bg bkz erol bulut vs okan buruk -->
-<!-- https://www.uludagsozluk.com/e/42551890/ bkz yallın belediyenin zehirlediği birr köpek olmas ihtimali -->
+<!-- https://www.uludagsozluk.com/e/42551890/ bkz yallın belediyenin zehirlediği bir köpek olma ihtimali -->
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
