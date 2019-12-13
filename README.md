@@ -8,7 +8,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz ekrem imamoğlunun bokunu çıkarması -->
 <!-- bkz ekrem imamoğlunun sabah akşam çamur at izi kalmasın diye ak partiye saldırması -->
 <!-- bkz ekrem imamoğlunun iftira attığı akboylar -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg -->
