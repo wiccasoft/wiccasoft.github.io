@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!--bkz mhp tabanının saadet tabanına geçme ihtimali -->
+<!-- bkz anavatan partisinin ana muhalefet partisine verdiği ayar -->
+<!-- bkz mhp tabanının saadet tabanına geçme ihtimali -->
 <!-- bkz we like the party -->
 <!-- bkz führerrin partisi vs siktiriboktan partiler -->
 <!-- bkz tayyip doganın 155 tane partiyle uğraşamam demesi -->
