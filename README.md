@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
-<!-- bkz imamaoğlanlı yeni başlık açarken düşünmek -->
+<!-- bkz ak partiy övmeli entry girerken annenin topkek getirmesi -->
+<!-- bkz imamoğlanlı yeni başlık açarken düşünmek -->
 <!-- fetö ve hdpkk'yı akp'ye itelemeye çalışan tip -->
 <!-- bkz ak partiyi kirletmeye çalışan kara partili itler -->
 <!-- fetyullah güleni tayyipe itelemeye çalışan tip https://www.uludagsozluk.com/e/42552155/ -->
