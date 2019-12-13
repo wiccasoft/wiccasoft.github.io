@@ -6,7 +6,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 -->
 
-[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=0rjItOxZAgg )
+[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var-->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
