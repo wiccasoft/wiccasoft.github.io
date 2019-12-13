@@ -2,6 +2,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- bkz davudioğlana bilime önem veren birisi olduğu iddaları -->
 <!-- bkz 13 aralık 2019 cuma hutbesine rte nin kara cuma hutbesi demesi -->
 <!-- bkz 13 aralık 2019 murat ongun köşe yazısı --> 
 <!-- bkz sare davutoğlunun türbanlıları da kucaklayacağız açıklaması -->
