@@ -8,7 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!--bkz orhan yamukyan vs pamuk osmanoğlu -->
+<!-- bkz orhan pamukoğlam vs pamuk osmanoğlu -->
 <!-- bkz erdogan ailesinin 2070 i garantilemesi -->
 <!-- bkz 2030 da bilal erdoğanın cumhurbaşkanı olacağı gerçeği -->
 <!-- bkz recep tayyip dopğanın 2030 a kadar iktidarda oalcağını bile bile muhalefet etmek -->
