@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz 41 yaşında 180 boyunda sarışın mavi gözlü ama homofobik erkek -->
+<!-- bkz tangır budun dogan vs recap tayyp dogan --->
+<!-- bkz 41 yaşında yazılım fabrikası olan 180 boyunda sarışın mavi gözlü ama homofobik erkek -->
 <!-- bkz eytliler kyk lılar skimde değil diyen erkek -->
 <!-- bkz 10000 dolar maaşı olan ama homofobik erkek -->
 <!-- bkz bot yazıp entry girmeyen ezik erkek -->
