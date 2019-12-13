@@ -9,6 +9,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- bkz top kekler partisi -->
+<!-- bkz ibb öncesi imamaoğlu vs imamaoğlu öncesi ibb -->
 <!-- bkz rapin asi emosu şanı şer barış özcan düeti -->
 <!-- bkz ekrem imamoğlunun oğluyla halı saha maçı yapmak -->
 <!-- bkz ekrem imamaoğlu nun babası imam mı sorunsalı -->
