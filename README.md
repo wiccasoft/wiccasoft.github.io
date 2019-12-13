@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
+<!-- https://www.youtube.com/watch?v=0rjItOxZAgg başlık mı açıyosun lan ergen -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz ekrem imamaıopğlunun namaz kılan işçileri kırbaçlamasına ses etmeyen ak itler -->
 <!-- bkz ekremm imamaoğlunun camilerin içine sıçmasına ses etmeyen ak itler -->
