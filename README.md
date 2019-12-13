@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs 
 
+<!--bkz rte nin ezanları susturamayacsksınız demesi https://www.youtube.com/watch?v=FT3zuBuqnsk -->
 <!-- bkz rte nin kızını orkid almaya yollaması https://www.youtube.com/watch?v=FT3zuBuqnsk -->
 <!-- https://www.uludagsozluk.com/k/bir-yere-giderken-sevgilisinden-izin-alan-erkek/&w=bg -->
 <!-- bkz karısını kızını fetö evlerine gönderen cuckold -->
