@@ -12,7 +12,7 @@
 <!-- bkz ekrem imamoğlunun sabah akşam çamur at izi kalmasın diye ak partiye saldırması -->
 <!-- bkz ekrem imamoğlunun iftira attığı akboylar -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg -->
-<!-- bkz imam oğlu şuan ne yapıyordur sorunsalı -->
+<!-- bkz imam oğlunun oğlu şuan ne yapıyordur sorunsalı -->
 <!-- bkz imamaoğlunun imam ın oğlu olmasına ses etmeyen ak itler -->
 <!-- bkz rektörlerin imamoğluna siktiri çekmesi -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-davetine-rekt%C3%B6rlerin-kat%C4%B1lmamas%C4%B1/ -->
