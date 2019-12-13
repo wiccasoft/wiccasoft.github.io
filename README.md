@@ -2,8 +2,8 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 <!-- 
 bkz oğuz atay vs hüseyin nihal atsız
-bkz aykut elmas vs erol bulut vs okan kırık 
-bkz oğlunu döven öğrenciyi sikerek öldüren baba
+bkz aykut elmas vs erol bulut vs okan buruk
+bkz kızını döven öğrenciyi sikerek öldüren konyalı baba
 https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ bkz havada bulut erol bulut
 bkz adıma başlık açılmamış hala demek ki doğru yoldayım 
 https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/
