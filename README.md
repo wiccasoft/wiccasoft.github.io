@@ -2,6 +2,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
 <!-- bkz fetöyle rte nin 13. cuma da barışması -->
+<!-- bkz karısını kızın fetö evlerine yollayan gavatın yeni parti kurması -->
 <!-- bkz 13 aralık 2019 cuma hutbesine fetöyle rte nin barışması --->
 <!-- bkz süleyman soylunun gazeteci olmak istiyorum açıklaması -->
 <!-- bkz rte nin maliye bakanından damadım diye bahsetimesi -->
