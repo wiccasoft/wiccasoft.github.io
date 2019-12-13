@@ -3,8 +3,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!-- bkz ekrem itoğlunun ibb yi ahıra çevirmesi -->
-<!-- bkz ekrem itoğlunun ibb yi ahıra çevirmesine ses etmeyen ak itler -->
+<!-- bkz ekrem itoğlunun camileri ahıra çevirmesi -->
+<!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
 <!-- bkz mazhar alansonun mekke yi tavafından sonra fuat la özkanın ayrılması -->
 <!-- bkz imamoğlunun dayıoğlunun ibb 15. oturum da ihale pazarlığı yapması -->
 <!-- bkz ibb nin ihalelerini imamaoglanın şrirketlerine vermesi -->
