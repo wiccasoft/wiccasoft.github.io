@@ -8,8 +8,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
+<!-- bkz falcao 100 milyon yuro len mq -->
 <!-- bkz erdal eren vs erdal erzincanlı -->
-<!--- bkz aydemir akbaşın karıyı satarım gassarayı satmam çıkışı -->
+<!---bkz aydemir akbaşın karıyı satarım gassarayı satmam çıkışı -->
 <!-- bkz abdulrahimö albayrakın üj mülyon yuro daha verip falcoyu satıp  nejmarı alalım önerisi -->
 <!-- bkz galatasarayda steven nzonzi'nin kadro dışı kalması -->
 <!-- bkz hiç gelmeyecek bi partiyi bekleyen ibneler -->
