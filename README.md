@@ -2,15 +2,15 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!--bkz i oğlunun mezarlık işçilerinin tazminatını vermemesi -->
+<!-- bkz i oğlunun mezarlık işçilerinin tazminatını vermemesi -->
 <!-- https://www.uludagsozluk.com/e/42550179/ bkz i oglunun ibne gibi puşt gibin bişey olması -->
-<!--bkz babacanın davudioğlanı hoplatacağı gerçeği https://www.youtube.com/watch?v=OIOqFBa7htQ -->
-<!--bkz davutoğlanın gümbür gümbür geldiği gerçeği-->
-<!--https://www.youtube.com/watch?v=iteqUmkms9M var mısın partiye -->
+<!-- bkz babacanın davudioğlanı hoplatacağı gerçeği https://www.youtube.com/watch?v=OIOqFBa7htQ -->
+<!-- bkz davutoğlanın gümbür gümbür geldiği gerçeği-->
+<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın partiye -->
 <!-- bkz rte nin kızını orkid almaya yollaması https://www.youtube.com/watch?v=FT3zuBuqnsk -->
-<!--13 aralık 2019 bkz davudi oğlunun parti sinyallerini yakması -->
-<!--bkz davudi oğlunu görünce it gibi kaçan ak itler -->
-<!--https://www.uludagsozluk.com/k/davuto%C4%9Flu-bilime-%C3%B6nem-veren-birisi/ -->
+<!-- 13 aralık 2019 bkz davudi oğlunun parti sinyallerini yakması -->
+<!-- bkz davudi oğlunu görünce it gibi kaçan ak itler -->
+<!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-bilime-%C3%B6nem-veren-birisi/ -->
 
 
 
