@@ -9,6 +9,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
 
+<!-- bkz lan türkler cumhurbaşkanınlığınızda da meclisinize kafam girsin amın feryatları -->
 <!-- bkz türkleri siklemedikçe coşmaları -->
 <!-- bkz yazdığım yapay zekayı ak partinin rakibi sanan türkler -->
 <!-- bkz google ın ak partinin dişine göre rakip bulamaması-->
