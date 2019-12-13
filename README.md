@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+
 <!-- bkz mazhar alanoğlu nun fuat özkanla barışması -->
 <!-- bkz kurtlar vadisiyle büyüyen bir ergen olmak -->
 <!-- bkz kurtlar vadisi efsane replikler veritabanı -->
