@@ -2,7 +2,8 @@
 [![Image](smartdata/Screenshot_2019-12-13_07-40-12.png)]( https://www.youtube.com/watch?v=DHWLYkBcoNw )
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
-<!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz karimz oğlu karizma foto galeriğ -->
+
+<!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/&w=bg bkz karizma oğlu karizma foto galeriğ -->
 <!-- bkz fatih terimin meloya attığı bakışa ses etmeyen ak itler -->
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesi -->
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
