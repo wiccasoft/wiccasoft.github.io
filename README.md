@@ -4,9 +4,7 @@
 bkz oğuz atay vs hüseyin nihal atsız
 bkz aykut elmas vs erol bulut vs okan buruk
 bkz kızını döven öğrenciyi sikerek öldüren finli baba
-https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ bkz havada bulut erol bulut
 bkz adıma başlık açılmamış hala demek ki doğru yoldayım 
-https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/
 https://www.uludagsozluk.com/k/emeklilik-sistemini-reforme-edece%C4%9Fiz-diyen-berat/ bkz sikmese bari damat
 https://www.uludagsozluk.com/k/murat-ongun-a-45-bin-tl-maa%C5%9F-ba%C4%9Flanmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/y%C3%BCr%C3%BC-be-davuto%C4%9Flu-tarihe-ge%C3%A7-lanetle-an%C4%B1l/
