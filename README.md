@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!-- bkz ismiyyle karizmanın oğluyum diyen lider kim sorunsalı -->
+<!-- bkz ismiyle karizmanın oğluyum diyen lider kim sorunsalı -->
 <!-- bkz oturduğu makama en çok yakışan isim kim sorunsalı -->
 <!-- bkz hiç gelmeyecek bir partiyi beklemek -->
 <!-- bkz ekrem imam oğlanın yeni parti sinyalleri yakması --Z
