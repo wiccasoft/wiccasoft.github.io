@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- https://www.uludagsozluk.com/k/cami-hocas%C4%B1yla-tart%C4%B1%C5%9Fan-day%C4%B1/ bkz tıklağ kankağ -->
 <!-- bkz su veren itfaiyyenin hortumunu sikeyim https://www.uludagsozluk.com/e/42551052/ -->
 <!-- bkz sözlük barzolarının akşamları kız moduna geçmesi -->
 <!-- bkz ismiyle karizmanın oğluyum diyen lider kim sorunsalı -->
