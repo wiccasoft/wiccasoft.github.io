@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw çok hojdır ama benena -->
 <!-- bkz tayyip doğanın ezanları susturamayacaksınız açıklaması  https://www.youtube.com/watch?v=FT3zuBuqnsk -->
 <!-- bkz googleın tayyip doğan haberlerini arkaya atması -->
 <!-- https://www.uludagsozluk.com/k/cami-hocas%C4%B1yla-tart%C4%B1%C5%9Fan-day%C4%B1/ bkz tıklağ kankağ -->
