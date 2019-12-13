@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
-<!-- bkz topkekler partisi bkz top(zirve)-->
+<!-- bkz top kekler partisi -->
+<!-- bkz tayyip koyun suretinde yeryüzüne inmiştir -->
 <!-- bkz ak partiy övmeli entry girerken annenin topkek getirmesi -->
 <!-- bkz imamoğlanlı yeni başlık açarken düşünmek -->
 <!-- fetö ve hdpkk'yı akp'ye itelemeye çalışan tip -->
