@@ -3,6 +3,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- bkz hiç gelmeyecek bir partiyi beklemek -->
+<!-- bkz ekrem imam oğlanın yeni parti sinyalleri yakması --Z
 <!-- bkz tayyip doğanın 155 partiyle ayrı ayrı uğraşması -->
 <!-- bkz yeni partinin meclis ödeneğinden alacağı pay --> 
 <!-- bkz recep tayyip doğanın suriyeliler partisinin meclise girmesini onaylaması -->
