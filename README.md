@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz annesi topkek yaparken başlık açan akboylar -->
+<!-- bkz akboyların sürekli entry girmesi -->
+<!-- bkz annesi topkek yaparken sürekli entry giren başlık açan akboylar -->
 <!-- bkz arama motorumu imamoğlu sanan akboyların güldürmesi -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
