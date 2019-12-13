@@ -1,18 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
-<!--bkz mazhar vs fuart vs özkan -->
-<!-- bkz erdal eren vs mahir çayan -->
-<!-- bkz yiyin birbiriniz ete para vermeyin diyen beraat -->
-<!-- bkz beratın emeklilik sisteminin reforme etmeyeceğiz demesi -->
-<!-- bkz michael edwardın ibnelerin takımı gassaraya geçmem demesi -->
-<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın -->
-<!-- bkz davutoğlanın gelecek partisini açması -->
-<!-- https://www.uludagsozluk.com/k/avrupa-fatihi-vs-avrupa-fato%C5%9F-mino%C5%9Fu/ -->
-<!-- bkz süleyman soylunun gazeteci olmak istiyorum açıklması -->
-<!-- https://www.uludagsozluk.com/k/murat-ongun-a-45-bin-tl-maa%C5%9F-ba%C4%9Flanmas%C4%B1/ bkz parası neyse verdik -->
-<!-- https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ adıma başlık açılmamış demek ki hala doğru yoldayım -->
-
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
 [![Image](smartdata/Screenshot_2019-12-12_16-11-23.png)]( https://www.youtube.com/watch?v=9phBVY2q2ng )
