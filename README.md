@@ -9,6 +9,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- bkz top kekler partisi -->
+<!-- bkz 100 mülyon yuro para mı lan it diyen fenerli -->  
 <!-- https://www.uludagsozluk.com/k/eyt-li-forvet-almak/ -->
 <!-- bkz steven n zonzi e entry girerkene annenin topkeke getirmesi -->
 <!-- steven n zonzi nin kadro dışı kalması -->
