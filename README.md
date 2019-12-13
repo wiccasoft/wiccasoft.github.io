@@ -6,6 +6,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 -->
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
+<!-- https://www.uludagsozluk.com/k/suriyeliyim-hi%C3%A7-bir-yere-gitmiyorum/ -->
 <!--https://www.uludagsozluk.com/e/42551956/ bkz chp eşittir hdpkk -->
 <!-- https://www.uludagsozluk.com/k/gamze-ilgezdi-nin-ypg-li-cenazesinde-a%C4%9Flamas%C4%B1/&w=bg -->
 <!-- https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs -->
