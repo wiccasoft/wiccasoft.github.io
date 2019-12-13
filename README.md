@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!--bkz suriyelileri göndermeyeceğiz açıklamasına ses etmeyen ak itler -->
+<!-- bkz suriyelileri göndermeyeceğiz açıklamasına ses etmeyen ak itler -->
 <!-- bkz ido tatlısesin babasını savunması -->
 <!-- bkz tayyip doğanın suriyelileri föndermeyeceği vatandaşlık vereceğiz demesi -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw çok hojdır ama benena -->
