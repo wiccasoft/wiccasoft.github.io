@@ -17,18 +17,6 @@
 <!-- bkz tayyip doğanı uyurken izlemek uyanmasın diye gözlerini öpmek -->
 <!-- bkz lenardo di caprio nun tayyip doğan hayranı olması -->
 <!-- bkz ahmet hakan vs ahmet hakmayan-->
-<!-- bkz can dündarın can yamanı kıskanması -->
-<!-- can dündar vs upur dündar vs can yaman -->
-<!-- https://www.instagram.com/rterdogan/?hl=en sabaha bi yakışıklı bırak
-<!-- https://www.facebook.com/watch/?v=10156304603514411 sabaha bir erdo hayranı bırak
-<!-- https://www.youtube.com/watch?v=4Fn84I34azs sabaha bir gsli bırak -->
-<!-- bkz geceye bir tayyip doğan şiir bırak https://www.youtube.com/watch?v=_LzgA-iNdZI -->
-<!-- bkz güne bir şiir bırak https://www.youtube.com/watch?v=_LzgA-iNdZI -->
-<!-- bkz sabaha bir recep yayyip doğan sözü bırak -->
-<!-- bkz geceye bir recep tayyip doğan sözü bırak -->
-<!-- bkz orhan pamukoğlam vs pamuk osmanoğlu -->
-<!-- bkz erdogan ailesinin 2070 i garantilemesi -->
-<!-- bkz 2030 da bilal erdoğanın cumhurbaşkanı olacağı gerçeği -->
 <!-- bkz recep tayyip dopğanın 2030 a kadar iktidarda oalcağını bile bile muhalefet etmek -->
 <!-- bkz recep tayyip doğanın dişime göre parti kurun demesi -->
 <!-- https://galeri.uludagsozluk.com/r/karizman%C4%B1n-%C3%B6z-o%C4%9Flu-1947379/ -->
