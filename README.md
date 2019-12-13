@@ -12,6 +12,7 @@
 <!-- bkz kurtlar vadisinden efsane raconlu bir cümle bırak -->
 <!-- bkz geliyorum partisi nin gelmiyorum partisiyle birleşmesi -->
 <!-- bkz emre aydın mustafa ceceli düeti -->
+<!-- bkz mazhar alanoğlu vs fuatözkan-->
 <!-- bkz mazhar alansonun fuat özkanla ayrılması -->
 <!-- bkz mashar alansonun yandım şarkısını mekkede yazması https://www.youtube.com/watch?v=MVvmxbXfa6w -->
 <!-- bkz cerrahpaşalaların raconu kesmesi -->
