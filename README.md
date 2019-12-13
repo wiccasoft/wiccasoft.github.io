@@ -11,6 +11,7 @@
 <!-- https://www.youtube.com/watch?v=zFHi_X_Q6PM abdulrrahim albyrak -->
 <!-- https://www.youtube.com/watch?v=wtLgUDE1-HI karıyı satarım karıyı -->
 <!-- https://www.uludagsozluk.com/k/hakk%C4%B1-bulut/&w=bg taşşaklarına beton yetmez hakkı baabaaaa -->
+<!-- https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-tetik%C3%A7i-demesi/ vaziyet alın -->
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
