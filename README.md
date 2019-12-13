@@ -12,7 +12,7 @@
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
 <!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
 <!-- bkz abdulrahim albayrakın üj mülyon yuro daha verip nejmarı alalım önerisi -->
-<!-- bkz galatasarayda steven nzonzi'nin kadro dışı kalması -->
+<!-- bkz galatasarayda steven nzonzi'nin kadro dışı kalmasına ses etmeyen ak itler -->
 <!-- bkz hiç gelmeyecek bi partiyi bekleyen ibneler -->
 <!-- https://www.uludagsozluk.com/e/42551983/ aaa ibne sen 2030 u görebilecen mi bakalım -->
 <!-- bkz norm ender fanboyu vs arzıbela fanboyu -->
