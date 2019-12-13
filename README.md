@@ -11,6 +11,8 @@
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
 <!-- bkz ekrem itoğlunun camilerin bakım ihalesini kendi firmasına ses etmeyen ak itler -->
 <!-- bkz norm ender fanboylarının 15 yaşında olduğu gerçeği -->
+<!-- bkz hayallerde yaşıyor bazı ibneler -->
+<!-- https://www.uludagsozluk.com/k/suriyelilerin-t%C3%BCrkiye-de-siyasi-bir-parti-kurmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/chp-e%C5%9Fittir-hdp-vs-akp-e%C5%9Fittir-hdp/ bkz ak itlerin uğramadığı başlıklar-->
 <!--https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz e devletten ermeni tohumu olduğunu öğrenmek -->
 <!-- https://www.uludagsozluk.com/k/suriyeliyim-hi%C3%A7-bir-yere-gitmiyorum/ -->
