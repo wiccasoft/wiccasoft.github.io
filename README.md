@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- bkz it oğlunun istyanbulu parsel parsel satmasına ses etmeyen ak itler-->
 <!-- bkz i oğlunun ezan sesinin kısmasına ses etmeyen ak itler -->
 <!-- bkz akp nin para veriği trollerin bütün gün oğluna küfr etmesi -->
 <!-- bkz emine erdoğanıun türbanı ile ayakkabısını kombin yapması -->
