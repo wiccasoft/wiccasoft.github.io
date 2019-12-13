@@ -9,6 +9,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- bkz top kekler partisi -->
+<!-- bkz ekrem imamaıopğlunun namaz kılan işçileri kırbaçlamasına ses etmeyen ak itler -->
 <!-- bkz ekremm imamaoğlunun camilerin içine sıçmasına ses etmeyen ak itler -->
 <!-- bkz ekrem imamaoğlunu ibb başkanı olduğu gerçeği -->
 <!-- bkz ekrem imamaoğlunun ibbye yerleşmesi -->
