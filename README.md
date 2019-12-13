@@ -8,7 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-
+<!-- bkz ahmet hakan vs ahmet hakmayan-->
 <!-- bkz can dündarın can yamanı kıskanması -->
 <!-- can dündar vs upur dündar vs can yaman -->
 <!-- https://www.instagram.com/rterdogan/?hl=en sabaha bi yakışıklı bırak
