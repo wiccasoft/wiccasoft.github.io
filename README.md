@@ -1,7 +1,6 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.alwatan.com.sa/article/1030826/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D9%85%D8%A8%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%D9%8A-%D9%84-%D8%A7%D9%84%D9%88%D8%B7%D9%86-%D9%84%D9%86-%D9%86%D8%AA%D9%86%D8%A7%D8%B2%D9%84-%D8%B9%D9%86-%D8%AD%D9%82-%D8%B1%D8%A7%D8%AC%D8%AD-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A )
 
-
 <!-- [![Image](smartdata/Screenshot_2019-12-13_07-40-12.png)]( https://www.youtube.com/watch?v=DHWLYkBcoNw ) -->
 <!--
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )-->
