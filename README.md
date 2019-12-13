@@ -5,14 +5,14 @@
 <!--
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 -->
-[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=N4_nQF-CpBY )
+[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 <!-- https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs -->
 
 <!-- bkz fatih tezcanın fatih terime tetikçi demesi -->
 <!-- https://www.uludagsozluk.com/k/okan-buruk/&w=bg bkz taşşaklarına beton yetmez -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamaoglu vs erdogan -->
 <!-- https://www.youtube.com/watch?v=zFHi_X_Q6PM abdulrrahim albyrak -->
-<!-- https://www.youtube.com/watch?v=wtLgUDE1-HI karıyı satarım karıyı -->
+<!-- https://www.youtube.com/watch?v=N4_nQF-CpBY karıyı satarım karıyı -->
 <!-- https://www.uludagsozluk.com/k/hakk%C4%B1-bulut/&w=bg taşşaklarına beton yetmez hakkı baabaaaa -->
 <!-- https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-tetik%C3%A7i-demesi/ vaziyet alın -->
 <!-- https://www.uludagsozluk.com/k/okan-buruk/&w=bg bkz erol bulut vs okan buruk -->
