@@ -8,7 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz can dündarın parti sinyalleri yakması -->
+<!--bkz orhan yamukun parti kurabilirim sinyalleri yakması -->
 <!-- bkz ak parti gibi bi parti varken başka partilerde sürtmek-->
 <!-- bkz abdullah gülün ak parti tabanına katılma ihtimali -->
 <!-- bkz 100 tane parti kurup tayyip doganı indiremeyen ezikler -->
