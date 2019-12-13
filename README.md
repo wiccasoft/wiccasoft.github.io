@@ -8,7 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
-<!-- https://www.uludagsozluk.com/e/42551983/ aaa ibnenin sıçtığı sen 2030 u görebilecen mi bakalım -->
+<!-- https://www.uludagsozluk.com/e/42551983/ aaa ibne sen 2030 u görebilecen mi bakalım -->
 <!-- bkz norm ender fanboyu vs arzıbela fanboyu -->
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesi -->
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
