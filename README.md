@@ -8,7 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz küçük enişte google ın ak partiye direnmesi -->
+<!-- bkz google ın ak partinin dişine göre yapay zeka bulamaması-->
 <!-- bkz tangır budun doganın mersinli cihangir olma ihtimali -->
 <!-- bkz tangır budun doganın küçük enişte yi salın hele salın demesi -->
 <!-- bkz tangır budun dogan vs recep tayyip dogan --->
