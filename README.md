@@ -3,7 +3,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-
+<!--bkz fatih tezcan ın imamaoğlana tetikçi demesi -->
+<!-- https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-imamo%C4%9Flu-na-tetik%C3%A7i-demesi/ neler dönmüş amk-->
 <!-- bkz erdal eren vs erdal erzincalı vs eren erdem -->
 <!-- https://www.uludagsozluk.com/e/42551708/ bkz zamanında söylemiştim dersiniz -->
 <!-- bkz tayyip doğanın suriyelileri göndermeyeceğim demesi -->
