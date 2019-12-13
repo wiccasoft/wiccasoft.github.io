@@ -5,6 +5,7 @@
 
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesi -->
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
+<!-- bkz ekrem itoğlunun camilerin bakım ihalesini kendi firmasına ses etmeyen ak itler -->
 <!-- bkz mazhar alansonun mekke yi tavafından sonra fuat la özkanın ayrılması -->
 <!-- bkz imamoğlunun dayıoğlunun ibb 15. oturum da ihale pazarlığı yapması -->
 <!-- bkz ibb nin ihalelerini imamaoglanın şrirketlerine vermesi -->
