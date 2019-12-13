@@ -8,18 +8,13 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz ekrem imamaoğlunun sabah akşam çamur at izi kalmasın diye ak partiye saldırması -->
+<!-- bkz ekrem imamoğlunun sabah akşam çamur at izi kalmasın diye ak partiye saldırması -->
 <!-- bkz ekrem imamoğlunun iftira attığı akboylar -->
 <!-- https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/&w=bg -->
 <!-- bkz imam oğlu şuan ne yapıyordur sorunsalı -->
 <!-- bkz imamaoğlunun imam ın oğlu olmasına ses etmeyen ak itler -->
 <!-- bkz rektörlerin imamoğluna siktiri çekmesi -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-davetine-rekt%C3%B6rlerin-kat%C4%B1lmamas%C4%B1/ -->
-<!-- bkz akboyları entry girme dışında yaptığı bir iş var mı sorunsalı -->
-<!-- bkz akboyların entry girmedikleri zamanlar var mı sorunsalı --> 
-<!-- bkz akboyların sürekli entry girmesi -->
-<!-- bkz annesi topkek yaparken sürekli entry giren başlık açan akboylar -->
-<!-- bkz arama motorumu imamoğlu sanan akboyların güldürmesi -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
 <!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
