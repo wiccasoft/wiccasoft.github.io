@@ -3,7 +3,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
 <!-- bkz davutoğlanın gümbür gümbür geldiği gerçeği-->
-<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın partiye -->
+<!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın gelecek partiye -->
 <!-- bkz mezarlıklar genel müdürünün i.oğlunu yalanlaması https://www.youtube.com/watch?v=4RpMzsA1VOw -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M bkz gelecek partisinin gümbür gümbür geldiği gerçeği -->
 <!-- bkz i oğlunun mezarlık işçilerinin tazminatını vermemesi -->
