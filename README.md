@@ -3,7 +3,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs 
 
-<!--bkz davutoğlu bilime önem veren birisi https://www.youtube.com/watch?v=iteqUmkms9M -->
+<!-- bkz fetöcü abilerin ılık olduğu iddiası -->
+<!-- bkz davutoğlu bilime önem veren birisi https://www.youtube.com/watch?v=iteqUmkms9M -->
 <!-- bkz tayyip erdogan ananın üstünde yakalansa naparsın sorunsalı --<
 <!-- bkz imamaoglu vs imamhatipli -->
 <!-- https://www.uludagsozluk.com/e/42550179/ bkz i oglunun ibne gibi puşt gibin bişey olması -->
