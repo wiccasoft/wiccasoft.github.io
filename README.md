@@ -5,7 +5,7 @@
 <!--
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 -->
-[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=wtLgUDE1-HI )
+[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=N4_nQF-CpBY )
 <!-- https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamaoglu vs erdogan -->
 <!-- https://www.youtube.com/watch?v=zFHi_X_Q6PM abdulrrahim albyrak -->
