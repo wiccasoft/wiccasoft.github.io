@@ -1,8 +1,9 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 
-[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
+[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs 
 
+<!-- bkz karataydan lahmacuna onay -->
 <!-- bkz ibb nin mezarlıklara zam yapması -->
 <!-- bkz ibb resmi sitesinin çökmesi -->
 <!-- bkz ibb 15. oturumunda çıkan kavga -->
