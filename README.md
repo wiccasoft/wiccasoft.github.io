@@ -7,43 +7,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
-<!-- bkz macronun rte yi siklememesi -->
-<!-- bkz rte nin macrona ezanları susturamayacsksınız demesi https://www.youtube.com/watch?v=FT3zuBuqnsk -->
-<!-- bkz rte nin kızını orkid almaya yollaması https://www.youtube.com/watch?v=FT3zuBuqnsk -->
-<!-- https://www.uludagsozluk.com/k/bir-yere-giderken-sevgilisinden-izin-alan-erkek/&w=bg -->
-<!-- bkz karısını kızını fetö evlerine gönderen cuckold -->
-<!-- bkz fetöcü abilerin ılık olduğu iddiası -->
-<!-- bkz davutoğlu bilime önem veren birisi https://www.youtube.com/watch?v=iteqUmkms9M -->
-<!-- bkz tayyip erdogan ananın üstünde yakalansa naparsın sorunsalı --<
-<!-- bkz imamaoglu vs imamhatipli -->
-<!-- https://www.uludagsozluk.com/e/42550179/ bkz i oglunun ibne gibi puşt gibin bişey olması -->
-<!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-karakol-bas%C4%B1p-polisleri-tehdit-etmesi/ -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs imamhatipli -->
-<!-- bkz imamoğlu dönemi beylikdüzü belediyesi vs imamoğlusuz dönemi beyliksüzü belediyesi -->
-<!-- bkz karataydan lahmacuna onay -->
-<!-- bkz ibb nin mezarlıklara zam yapması -->
-<!-- bkz ibb resmi sitesinin çökmesi -->
-<!-- bkz ibb 15. oturumunda çıkan kavga -->
-<!-- bkz recep tayyip erdoğan vs allah -->
-<!-- bkz allahın egoist bir pezevenk olması -->
-<!-- bkz allahın 99 ismini bilmeyen cahil -->
-<!-- bkz ben makama ismimle yakışırım diyen dünya lideri -->
-<!-- bkz hayyum hayyum allah ise allahın makamı nerede sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/mehmet-tevfik-g%C3%B6ksu/&w=bg bkz ismiyle müstesna hem de karizma --->
-<!-- bkz üç isimli erkek karizmasının her makama yakışması --> 
-<!-- https://www.youtube.com/watch?v=criYKxCGpLM önemli işler daire başkanlığına yakışan isim -->
-<!-- https://www.uludagsozluk.com/k/ibb-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-en-%C3%A7ok-yak%C4%B1%C5%9Fan-isim/ -->
-<!-- bkz i.oglunun ibb 15. oturum canlı yayınını ak gönüllülere kesmesi -->
-<!-- bkz ergin atamanın obrodovice attığı bakış -->
-<!-- bkz ibb nin kürt işçi alımlarını kapaması https://www.youtube.com/watch?v=gnIFwhjpH3s -->
-<!-- bkz okan buruk erol bulut arasındaki gerginlik -->
-<!-- bkz fetöyle rte nin 13. cuma da barışması -->
-<!-- bkz karısını kızın fetö evlerine yollayan gavatın yeni parti kurması -->
-<!-- bkz 13 aralık 2019 cuma hutbesine fetöyle rte nin barışması --->
-<!-- bkz süleyman soylunun gazeteci olmak istiyorum açıklaması -->
-<!-- bkz rte nin maliye bakanından damadım diye bahsetimesi -->
-<!-- https://www.youtube.com/watch?v=HlY1eDlWwAw bkz lahmacuna karatay onayı -->
-<!-- https://www.uludagsozluk.com/e/42550179/ bkz ibb nin ibne gibi puşt gibin bişey olması -->
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
