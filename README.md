@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz allahın 99 ismini bilmeyen cahil -->
 <!-- bkz hayyum hayyum allah ise allahın makamı nerede sorunsalı -->
 <!-- bkz hem kayyum hem hayyum erkek karizması-->
 <!-- bkz ben makama ismimle yakışırım diyen dünya lideri -->
