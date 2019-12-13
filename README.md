@@ -8,7 +8,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var-->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
 <!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
@@ -19,6 +18,7 @@
 <!-- bkz norm ender fanboyu vs arzıbela fanboyu -->
 <!-- bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42551890/ bkz yallın belediyenin zehirlediği bir köpek olma ihtimali -->
+<!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var-->
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
