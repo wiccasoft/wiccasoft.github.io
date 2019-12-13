@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz tayyip doganın 155 tane partiyle uğraşamam demesi -->
 <!-- bkz kamal kılıçcanoğlu nun kulislerde davutoğlunu tebrik etmesi -->
 <!-- bkz tayyip budun doganın dişime gör parti kurun demesi -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
