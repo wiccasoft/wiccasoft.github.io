@@ -8,27 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz küçük eniştenin parti iç tüzüğünü belirlemesi -->
-<!-- bkz gelebilir partisinin gelmeyebilir partisiyle gelmesi -->
-<!-- bkz gelecek partisinin gelemeycek partisiyle birleşmesi -->
-<!-- bkz türkleri siklemedikçe coşmaları -->
-<!-- bkz tangır budun doganın mersinli cihangir olma ihtimali -->
-<!-- bkz tangır budun doganın küçük enişte yi salın hele salın demesi -->
-<!-- bkz tangır budun dogan vs recep tayyip dogan --->
-<!-- bkz 41 yaşında yazılım fabrikası olan 180 boyunda sarışın mavi gözlü ama homofobik erkek -->
-<!-- bkz eytliler kyk lılar skimde değil diyen erkek -->
-<!-- bkz 10000 dolar maaşı olan ama homofobik erkek -->
-<!-- bkz bot yazıp entry girmeyen ezik erkek -->
-<!-- bkz denize mıstıfı ata tırt mı düşse kurtarırsın recep tayyip dogan mı -->
-<!-- bkz mustafa kamal atatırt vs recep tayyap dogan -->
-<!-- bkz ... diyen erkek -->
-<!-- bkz 2020 yılında haber botu varken hala entry girmek -->
-<!-- https://www.uludagsozluk.com/e/42552819/ bkz haber linkini ekledim tıklayın  -->
-<!-- https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCk-kullanan-insan/&w=bg bkz davutoğlu imamoğlu -->
-<!-- https://www.uludagsozluk.com/k/d%C3%B6vmeli-erkeklerin-%C3%A7ekici-olmas%C4%B1/&w=bg dövmemi sildiriyorum -->
-<!-- bkz uçakta açlıktan bayılan işsiz oç adam -->
-<!-- bkz tayyibin ülkesinde yaşayıp tayyibi sevmeyen oç ler -->
-<!-- bkz imamaoğlunun akboylardan af dilemesi -->
+
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
 <!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
