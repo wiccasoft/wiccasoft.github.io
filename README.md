@@ -3,6 +3,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz üç isimli erkek karizmasının her makama yakışması --> 
+<!-- https://www.youtube.com/watch?v=criYKxCGpLM önemli işler daire başkanlığına yakışan isim -->
 <!-- https://www.uludagsozluk.com/k/ibb-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-en-%C3%A7ok-yak%C4%B1%C5%9Fan-isim/ -->
 <!-- bkz i.oglunun ibb 15. oturum canlı yayınını ak gönüllülere kesmesi -->
 <!-- bkz ergin atamanın obrodovice attığı bakış -->
