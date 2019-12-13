@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- bkz i oğlunun istanbulu parsel parsel satmasına ses etmeyen ak itler -->
 <!-- bkz davud oğlanın bilim oğlanı olduğu iddiaları -->
 <!-- i.oğlu egosu vs tayyip egosu -->
 <!--https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-istanbul-u-parsel-parsel-satmas%C4%B1/&w=bg -->
