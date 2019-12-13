@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- bkz fatih terimin falcoyu yedek klubesine koyması -->
 <!-- bkz kazizmanın öz oğlu başlığında kavga eden ak itlerin güldürmesi -->
 <!-- https://galeri.uludagsozluk.com/r/karizman%C4%B1n-%C3%B6z-o%C4%9Flu-1947379/ -->
 <!-- bkz frank lucas vs zall hep bana oç der vs yall vs agca vs folkan iyeste nonoş-->
