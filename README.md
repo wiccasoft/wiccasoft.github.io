@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz michael edwardın ibnelerin takımı gassaraya geçmem demesi -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısın -->
 <!-- bkz davutoğlanın gelecek partisini açması -->
 <!-- https://www.uludagsozluk.com/k/avrupa-fatihi-vs-avrupa-fato%C5%9F-mino%C5%9Fu/ -->
