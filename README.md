@@ -3,7 +3,7 @@
 <!-- 
 bkz oğuz atay vs hüseyin nihal atsız
 bkz aykut elmas vs erol bulut vs okan buruk
-bkz kızını döven öğrenciyi sikerek öldüren isveçli baba
+bkz kızını döven öğrenciyi sikerek öldüren finli baba
 https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ bkz havada bulut erol bulut
 bkz adıma başlık açılmamış hala demek ki doğru yoldayım 
 https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/
