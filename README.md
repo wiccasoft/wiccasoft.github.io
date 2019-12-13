@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz tayyibin ülkesinde yaşayıp tayyibi sevmeyen oç ler -->
 <!-- bkz imamaoğlunun akboylardan af dilemesi -->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
