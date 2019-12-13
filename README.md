@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- güne bir şiir bırak https://www.youtube.com/watch?v=_LzgA-iNdZI -->
 <!-- bkz sabaha bir recep yayyip doğan sözü bırak -->
 <!-- bkz geceye bir recep tayyip doğan sözü bırak -->
 <!-- bkz orhan pamukoğlam vs pamuk osmanoğlu -->
