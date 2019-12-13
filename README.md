@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- can dündar vs upur dündar vs can yaman -->
 <!-- https://www.instagram.com/rterdogan/?hl=en sabaha bi yakışıklı bırak
 <!-- https://www.facebook.com/watch/?v=10156304603514411 sabaha bir erdo hayranı bırak
 <!-- https://www.youtube.com/watch?v=4Fn84I34azs sabaha bir gsli bırak -->
