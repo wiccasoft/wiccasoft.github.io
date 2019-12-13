@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz ibb nin mezarlıklara zam yapması -->
 <!-- bkz ibb resmi sitesinin çökmesi -->
 <!-- bkz ibb 15. oturumunda çıkan kavga -->
 <!-- bkz recep tayyip erdoğan vs allah -->
