@@ -5,6 +5,7 @@
 
 <!-- bkz davud oğlanın bilim oğlanı olduğu iddiaları -->
 <!-- i.oğlu egosu vs tayyip egosu -->
+<!--https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-istanbul-u-parsel-parsel-satmas%C4%B1/&w=bg -->
 <!-- bkz davud oğlu kobrayı salınca it gibi kaçan ak itler https://www.youtube.com/watch?v=zb86tVAuZNg -->
 <!-- bkz i.oğlunun 13 aralık 2019 cum hutbesinin kara hutbe diye nitelendirmesi -->
 <!-- bkz rte nin imamahtipleri kapatmaya çalışanların elleri kırılır hutbesi -->
