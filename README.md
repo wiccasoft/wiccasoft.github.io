@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz erdal eren vs mahir çayan -->
 <!-- bkz yiyin birbiriniz ete para vermeyin diyen beraat -->
 <!-- bkz beratın emeklilik sisteminin reforme etmeyeceğiz demesi -->
 <!-- bkz michael edwardın ibnelerin takımı gassaraya geçmem demesi -->
