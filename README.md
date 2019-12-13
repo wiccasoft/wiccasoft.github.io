@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- https://twitter.com/RT_com/status/945559827249381376 iki gözümün çiçeği -->
 <!-- bkz tayyp doğanın bağımlılık yapması https://www.youtube.com/watch?v=2KErN9bMrwM -->
 <!-- bkz tayyip doğanı uyurken izlemek uyanmasın diye gözlerini öpmek -->
 <!-- bkz lenardo di caprio nun tayyip doğan hayranı olması -->
