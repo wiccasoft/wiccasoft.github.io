@@ -9,7 +9,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- bkz fatih tezcan dan fatih terime işine yap uyarısı -->
-<!-- bkz abdulrahimö albayrakın üj mülyon yuro daha verip falcoyu satıp  nejmarı alalım önerisi -->
+<!-- bkz abdulrahim albayrakın üj mülyon yuro daha verip nejmarı alalım önerisi -->
 <!-- bkz galatasarayda steven nzonzi'nin kadro dışı kalması -->
 <!-- bkz hiç gelmeyecek bi partiyi bekleyen ibneler -->
 <!-- https://www.uludagsozluk.com/e/42551983/ aaa ibne sen 2030 u görebilecen mi bakalım -->
