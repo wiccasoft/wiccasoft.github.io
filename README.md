@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+<!-- https://www.uludagsozluk.com/k/ali-bebecan-%C4%B1n-ya%C5%9F%C4%B1n%C4%B1-g%C3%B6stermemesi/ -->
 <!-- bkz ali bebecenin yaşını göstermemesi -->
 <!-- bkz suriyelileri göndermeyeceğiz açıklamasına ses etmeyen ak itler -->
 <!-- bkz ido tatlısesin babasını savunması -->
