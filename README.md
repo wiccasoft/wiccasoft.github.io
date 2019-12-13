@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz tangır budunu doganın mersinli cihangir olma ihtimali -->
 <!-- bkz tangır budun doganın küçük enişte yi salın hele salın demesi -->
 <!-- bkz tangır budun dogan vs recep tayyip dogan --->
 <!-- bkz 41 yaşında yazılım fabrikası olan 180 boyunda sarışın mavi gözlü ama homofobik erkek -->
