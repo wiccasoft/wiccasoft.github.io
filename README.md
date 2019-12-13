@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!--bkz her yerinin dövdürmek isteyen lgbt lilerden dli gibi korkmak -->
 <!-- https://www.uludagsozluk.com/k/d%C3%B6vmeli-erkeklerin-%C3%A7ekici-olmas%C4%B1/&w=bg dövmemi sildiriyorum -->
 <!-- bkz uçakta açlıktan bayılan işsiz oç adam -->
 <!-- bkz tayyibin ülkesinde yaşayıp tayyibi sevmeyen oç ler -->
