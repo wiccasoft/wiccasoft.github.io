@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
-<!-- bkz i.oglunun ibb 5. oturum canlı yayınını kesmesi -->
+<!-- bkz i.oglunun ibb 15. oturum canlı yayınını ak gönüllülere kesmesi -->
 <!-- bkz ergin atamanın obrodovice attığı bakış -->
 <!-- bkz ibb nin kürt işçi alımlarını kapaması https://www.youtube.com/watch?v=gnIFwhjpH3s -->
 <!-- bkz okan buruk erol bulut arasındaki gerginlik -->
