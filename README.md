@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz geliyorum partisi nin gelmiyorum partisiyle birleşmesi -->
 <!-- bkz emre aydın mustafa ceceli düeti -->
 <!-- bkz mazhar alansonun fuat özkanla ayrılması -->
 <!-- bkz mashar alansonun yandım şarkısını mekkede yazması https://www.youtube.com/watch?v=MVvmxbXfa6w -->
