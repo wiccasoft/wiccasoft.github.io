@@ -1,7 +1,8 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
-<!--bkz babacanın davudu hoplatacağı gerçeği https://www.youtube.com/watch?v=OIOqFBa7htQ -->
+
+<!--bkz babacanın davudioğlanı hoplatacağı gerçeği https://www.youtube.com/watch?v=OIOqFBa7htQ -->
 <!--bkz davutoğlanın gümbür gümbür geldiği gerçeği-->
 <!--https://www.youtube.com/watch?v=iteqUmkms9M var mısın partiye -->
 <!-- bkz rte nin kızını orkid almaya yollaması https://www.youtube.com/watch?v=FT3zuBuqnsk -->
