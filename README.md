@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!-- bkz 13 aralık 2019 fatih terimin basın açıklaması -->
+<!-- bkz fatih terimin 2001 efso soyunma odası konuşması -->
 <!-- bkz fatih terim vs fatih altaylı vs fatih tezcan -->
 <!-- bkz gassaray için karıyı satarım diyen adam vs takım tutmayan adam -->
 <!-- bkz makamına ismiyle en çok yakışan lider https://www.youtube.com/watch?v=PAlwP6oeJpA -->
