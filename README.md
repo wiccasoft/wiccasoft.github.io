@@ -1,6 +1,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
+<!-- bkz davutoğlanın gelecek partisini açması -->
 <!-- https://www.uludagsozluk.com/k/avrupa-fatihi-vs-avrupa-fato%C5%9F-mino%C5%9Fu/ -->
 <!-- bkz süleyman soylunun gazeteci olmak istiyorum açıklması -->
 <!-- https://www.uludagsozluk.com/k/murat-ongun-a-45-bin-tl-maa%C5%9F-ba%C4%9Flanmas%C4%B1/ bkz parası neyse verdik -->
