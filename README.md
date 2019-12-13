@@ -1,8 +1,10 @@
 
+[![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
 [![Image](smartdata/Screenshot_2019-12-12_16-11-23.png)]( https://www.youtube.com/watch?v=9phBVY2q2ng )
+
 
 [![Image](smartdata/Screenshot_2019-12-12_14-56-33.png)]( https://www.youtube.com/watch?v=YBZirx5vqZU )
 
@@ -12,6 +14,7 @@
 [![Image](smartdata/Screenshot_2019-12-12_09-23-42.png)]( https://www.theguardian.com/environment/2019/dec/06/greta-thunberg-says-school-strikes-have-achieved-nothing )
 
 [![Image](smartdata/Screenshot_2019-12-12_05-39-38.png)]( https://www.youtube.com/watch?v=E-7qra5xs6E )
+
 
 <!--
 https://www.jstor.org/stable/2304185?seq=1 
@@ -30,6 +33,9 @@ The latitude and longitude are then:
 Lat = 90 - Phi(final)
 Long = Theta(final)
 -->
+
+[![Image](smartdata/Screenshot_2019-12-13_03-24-14.png)]( https://www.theguardian.com/world/commentisfree/2019/dec/10/when-i-was-growing-up-volcanic-activity-on-waakari-was-continuous-yesterday-was-different )
+
 
 [![Image](smartdata/Screenshot_2019-12-10_18-29-24.png)]( https://www.theguardian.com/environment/2019/dec/10/greenland-ice-sheet-melting-seven-times-faster-than-in-1990s )
 
