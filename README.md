@@ -10,25 +10,6 @@
 
 <!-- https://www.youtube.com/watch?v=0rjItOxZAgg havada laiklik kokusu var-->
 <!-- bkz top kekler partisi https://www.youtube.com/watch?v=0rjItOxZAgg -->
-<!-- bkz ekrem imamoğlunun namaz kılan işçileri kırbaçlamasına ses etmeyen ak itler -->
-<!-- bkz ekremm imamoğlunun camilerin içine sıçmasına ses etmeyen ak itler -->
-<!-- bkz ekrem imamoğlunu ibb başkanı olduğu gerçeği -->
-<!-- bkz ekrem imamoğlunun ibbye yerleşmesi -->
-<!-- bkz ibb öncesi imamaoğlu vs imamaoğlu öncesi ibb -->
-<!-- bkz rapin asi emosu şanı şer barış özcan düeti -->
-<!-- bkz ekrem imamoğlunun oğluyla halı saha maçı yapmak -->
-<!-- bkz ekrem imamaoğlu nun babası imam mı sorunsalı -->
-<!-- bkz norm enderin enes baturla düet yapması -->
-<!-- bkz 100 mülyon yuro para mı lan it diyen fenerli -->  
-<!-- https://www.uludagsozluk.com/k/eyt-li-forvet-almak/ -->
-<!-- bkz steven n zonzi e entry girerkene annenin topkeke getirmesi -->
-<!-- steven n zonzi nin kadro dışı kalması -->
-<!-- bkz tayyip koyun suretinde yeryüzüne inmiştir -->
-<!-- bkz ak partiy övmeli entry girerken annenin topkek getirmesi -->
-<!-- bkz imamoğlanlı yeni başlık açarken düşünmek -->
-<!-- fetö ve hdpkk'yı akp'ye itelemeye çalışan tip -->
-<!-- bkz ak partiyi kirletmeye çalışan kara partili itler -->
-<!-- fetyullah güleni tayyipe itelemeye çalışan tip https://www.uludagsozluk.com/e/42552155/ -->
 <!-- bkz fatih tezcan dan tayyipe fişini çekerim uyarısı -->
 <!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
 <!-- bkz abdulrahim albayrakın üj mülyon yuro daha verip nejmarı alalım önerisi -->
