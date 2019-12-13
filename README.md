@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- bkz emekliler skimde değil diyen erkek -->
 <!-- bkz 10000 dolar maaşı olan ama homofobik erkek -->
 <!-- bkz bot yazıp entry girmeyen ezik erkek -->
 <!-- bkz denize mıstıfı ata tırt mı düşse kurtarırsın recep tayyip dogan mı -->
