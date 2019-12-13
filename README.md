@@ -3,6 +3,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
+
+<!-- bkz saadet vatan içten partinin yahşi paritide birleşme ihtimali -->
 <!-- bkz ak partinin ampul logosu vs gelecek partisi nin badem bıyıklı ampul logosu -->
 <!-- bkz gelecek partisi logsundaki badem bıyık ne anlama geliyor sorunsalı -->
 <!-- bkz fatih tezcan fatih altaylı fatih terim efso soyunma odası konuşması -->
