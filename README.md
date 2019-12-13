@@ -9,6 +9,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
 <!-- bkz cerrahpaşalaların raconu kesmesi -->
+<!-- bkz kurtlar vadisiyle büyüyen akkoyunların kesilecek seviyeye gelmesi -->
 <!-- https://www.youtube.com/watch?v=iteqUmkms9M var mısınız ak gönüller -->
 <!-- bkz ekrem imamoğlunun sabah akşam çamur at izi kalmasın diye ak partiye saldırması -->
 <!-- bkz ekrem imamoğlunun iftira attığı akboylar -->
