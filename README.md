@@ -8,6 +8,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
+<!-- https://www.youtube.com/watch?v=2oK76PIY8Uk bi şiir okuyuşu var sanırsın gün doğuyor -->
 <!-- https://www.youtube.com/watch?v=mtKWWcg60qE erdoganın bomba gibi geldiği gerçeği -->
 <!-- https://www.youtube.com/watch?v=SG0gOek2mbM bkz fesleğen gibi oturturum anlamı da çıkabilir -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig aynı model gibin -->
