@@ -1,5 +1,6 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
+
 <!-- https://www.uludagsozluk.com/k/murat-ongun-a-45-bin-tl-maa%C5%9F-ba%C4%9Flanmas%C4%B1/ bkz parası neyse verdik -->
 <!-- https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ adıma başlık açılmamış demek ki hala doğru yoldayım -->
 
