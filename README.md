@@ -1,15 +1,5 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
-<!-- 
-bkz oğuz atay vs hüseyin nihal atsız
-bkz aykut elmas vs erol bulut vs okan buruk
-bkz kızını döven öğrenciyi sikerek öldüren finli baba
-bkz adıma başlık açılmamış demek ki hala doğru yoldayım 
-https://www.uludagsozluk.com/k/emeklilik-sistemini-reforme-edece%C4%9Fiz-diyen-berat/ bkz sikmese bari damat
-https://www.uludagsozluk.com/k/murat-ongun-a-45-bin-tl-maa%C5%9F-ba%C4%9Flanmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/y%C3%BCr%C3%BC-be-davuto%C4%9Flu-tarihe-ge%C3%A7-lanetle-an%C4%B1l/
-https://www.uludagsozluk.com/k/g%C3%B6kten-meteor-d%C3%BC%C5%9Fse-imamo%C4%9Flu-ndan-bilecek-cahil/
--->
 
 [![Image](smartdata/Screenshot_2019-12-12_17-00-01.png)]( https://www.dunya.com/finans/haberler/garanti-bbva-yatirimci-iliskileri-alaninda-turkiyenin-en-iyisi-secildi-haberi-458591 )
 
@@ -27,8 +17,6 @@ https://www.uludagsozluk.com/k/g%C3%B6kten-meteor-d%C3%BC%C5%9Fse-imamo%C4%9Flu-
 
 
 <!--
-https://www.jstor.org/stable/2304185?seq=1 
-https://www.sciencedirect.com/science/article/pii/S2405535217300219
 R = Range
 Theta = Azimuth
 Phi = 90 - Elevation
@@ -39,7 +27,6 @@ z = R cos (phi)
 R(final) = sqrt(x^2+y^2+z^2)
 Theta(final) = arctan(y/x)
 Phi(final) = arctan(sqrt(x^2+y^2)/z^2)
-The latitude and longitude are then:
 Lat = 90 - Phi(final)
 Long = Theta(final)
 -->
