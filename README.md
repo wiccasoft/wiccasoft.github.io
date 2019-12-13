@@ -3,6 +3,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
 <!-- bkz davud oğlanın bilim oğlanı olduğu iddiaları -->
+<!-- bkz davud oğlunu görünce it gibi kaçan ak itler -->
 <!-- bkz i.oğlunun 13 aralık 2019 cum hutbesinin kara hutbe diye nitelendirmesi -->
 <!-- bkz rte nin imamahtipleri kapatmaya çalışanların elleri kırılır hutbesi -->
 <!-- bkz davudioğlanın sözlerim bilimle çatışıyorsa bilimi seçiniz demesi -->
@@ -23,7 +24,6 @@
 <!-- bkz babacanın davudioğlanı hoplatacağı gerçeği https://www.youtube.com/watch?v=OIOqFBa7htQ -->
 <!-- bkz rte nin kızını orkid almaya yollaması https://www.youtube.com/watch?v=FT3zuBuqnsk -->
 <!-- 13 aralık 2019 bkz davudi oğlunun parti sinyallerini yakması -->
-<!-- bkz davudi oğlunu görünce it gibi kaçan ak itler -->
 <!-- https://www.uludagsozluk.com/k/davuto%C4%9Flu-bilime-%C3%B6nem-veren-birisi/ -->
 
 
