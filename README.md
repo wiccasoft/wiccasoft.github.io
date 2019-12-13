@@ -3,6 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs 
 
+<!--bkz imamaoglu vs imamhatipli -->
 <!-- https://www.uludagsozluk.com/e/42550179/ bkz i oglunun ibne gibi puşt gibin bişey olması -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-karakol-bas%C4%B1p-polisleri-tehdit-etmesi/ -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamoglu vs imamhatipli -->
