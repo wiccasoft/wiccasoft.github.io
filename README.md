@@ -3,7 +3,7 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
-<!--bkz makamına ismiyle en çok yakışan lider -->
+<!--bkz makamına ismiyle en çok yakışan lider https://www.youtube.com/watch?v=PAlwP6oeJpA -->
 <!-- bkz recep tayyip doğan vs karizmadan imam doğan -->
 <!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ -->
 <!-- https://www.uludagsozluk.com/e/42551635/ bkz inanma bebeksi suratına -->
