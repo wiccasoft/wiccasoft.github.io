@@ -6,10 +6,11 @@
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 -->
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
-<!-- bkz norm ender fanboylarının 15 yaşındao lduğu gerçeği -->
+
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesi -->
 <!-- bkz ekrem itoğlunun camileri ahıra çevirmesine ses etmeyen ak itler -->
 <!-- bkz ekrem itoğlunun camilerin bakım ihalesini kendi firmasına ses etmeyen ak itler -->
+<!-- bkz norm ender fanboylarının 15 yaşında olduğu gerçeği -->
 <!-- https://www.uludagsozluk.com/k/chp-e%C5%9Fittir-hdp-vs-akp-e%C5%9Fittir-hdp/ bkz ak itlerin uğramadığı başlıklar-->
 <!--https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz e devletten ermeni tohumu olduğunu öğrenmek -->
 <!-- https://www.uludagsozluk.com/k/suriyeliyim-hi%C3%A7-bir-yere-gitmiyorum/ -->
