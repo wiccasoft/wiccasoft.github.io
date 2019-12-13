@@ -8,7 +8,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=N4_nQF-CpBY )
 <!-- https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs -->
 
-<!-- bkz fatih tezcanın fathi terime tetikçi demesi -->
+<!-- bkz fatih tezcanın fatih terime tetikçi demesi -->
 <!-- https://www.uludagsozluk.com/k/okan-buruk/&w=bg bkz taşşaklarına beton yetmez -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU imamaoglu vs erdogan -->
 <!-- https://www.youtube.com/watch?v=zFHi_X_Q6PM abdulrrahim albyrak -->
