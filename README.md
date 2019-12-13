@@ -1,11 +1,12 @@
 
 
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
+<!--bkz davutoğlanın gümbür gümbür geldiği gerçeği-->
+<!--https://www.youtube.com/watch?v=iteqUmkms9M var mısın partiye -->
 <!--13 aralık 2019 bkz davudi oğlunun parti sinyallerini yakması -->
 <!--bkz davudi oğlunu görünce it gibi kaçan ak itler -->
 <!--https://www.uludagsozluk.com/k/davuto%C4%9Flu-bilime-%C3%B6nem-veren-birisi/ -->
-<!--bkz davutoğlanın gümbür gmdür geldiği gerçeği-->
-<!--https://www.youtube.com/watch?v=iteqUmkms9M var mısın -->
+
 
 
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
