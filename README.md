@@ -8,7 +8,8 @@
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.youtube.com/watch?v=zFHi_X_Q6PM )
 
-<!-- bkz imamoğlunu amın oğlu mu imamaın oğlu mu sorunsalı-->
+
+<!-- bkz imam oğlu şuan ne yapıyordur sorunsalı -->
 <!-- bkz imamaoğlunun imam ın oğlu olmasına ses etmeyen ak itler -->
 <!-- bkz rektörlerin imamoğluna siktiri çekmesi -->
 <!-- https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-davetine-rekt%C3%B6rlerin-kat%C4%B1lmamas%C4%B1/ -->
