@@ -4,6 +4,7 @@
 [![Image](smartdata/Screenshot_2019-12-13_07-01-50.png)]( https://www.la-croix.com/Monde/Europe/Bapteme-feu-europeen-Charles-Michel-Ursula-von-der-Leyen-2019-12-13-1201066274 )
 
 <!-- bkz fatih terim vs fatih altaylı vs fatih tezcan -->
+<!-- bkz gassaraya için karıyı satarım diyen adam vs takım tutmayan adam -->
 <!-- bkz makamına ismiyle en çok yakışan lider https://www.youtube.com/watch?v=PAlwP6oeJpA -->
 <!-- bkz recep tayyip doğan vs karizmadan imam doğan -->
 <!-- https://www.uludagsozluk.com/k/karizman%C4%B1n-%C3%B6z-o%C4%9Flu/ -->
