@@ -2,7 +2,7 @@
 
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedder süper looo -->
 <!-- bkz serkan is my girl https://www.youtube.com/watch?v=ueptJlYwka0 -->
-<!-- bkz since 2009 aynı model gibi https://www.youtube.com/watch?v=FFkBaGqXLig -->
+<!-- bkz aynı model gibi https://www.youtube.com/watch?v=FFkBaGqXLig -->
 <!-- bkz yakala getir olm denilen akboyu eğitmek https://www.youtube.com/watch?v=9P18cC9Am_s -->
 <!-- bkz bak bakam ben ordamıyım akboy https://www.youtube.com/watch?v=9P18cC9Am_s -->
 <!-- bkz izmirli kızı dm den trolleyen konyalı https://www.youtube.com/watch?v=9P18cC9Am_s -->
