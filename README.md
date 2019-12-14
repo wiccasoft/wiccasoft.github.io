@@ -10,6 +10,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!--bkz fatih terimin geyleri üzmesi -->
 <!--bkz fatih terimin geysarayı kapatıp uyuması -->
 <!--bkz özlenen futbolcular başlığında meloya sevdim seni tosunum yazan gencin pişman olması -->
 <!--bkz bütün totoş geylerin kapılmış olması -->
