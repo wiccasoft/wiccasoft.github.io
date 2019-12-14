@@ -1,7 +1,7 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
-<!-- https://www.uludagsozluk.com/e/42553963/ gece gece bunu anana sorsana delikanlı sorunsalı -->
+<!-- https://www.uludagsozluk.com/e/42553963/ bkz bunu anana sorsana delikanlı -->
 
 <!-- [![Image](smartdata/Screenshot_2019-12-13_07-40-12.png)]( https://www.youtube.com/watch?v=DHWLYkBcoNw ) -->
 <!--
