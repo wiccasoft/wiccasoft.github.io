@@ -10,6 +10,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!--bkz geysarayın logosunun bile çok gey olması -->
 <!--bkz geysaraylılar neden adam gibi takım tutmuyorlar sorunsalı -->
 <!--bkz mesut özilin uygurlu müslümanlar için zırlaması -->
 <!--bkz adolf hitlerin geysaraylılara 3 lü çektirmesi -->
