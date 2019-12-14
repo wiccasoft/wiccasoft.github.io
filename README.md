@@ -6,6 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz silvester stallone mi vruş li me sorunsal ı -->
 <!-- bkz çiftlikbank ceosunun finlandiyaya açılması -->
 <!-- bkz elinoğlu futbol entrylerine değil yaptığın pilava bakar -->
 <!-- bkz selçuk inanın zencilerin arasında ne yaptığı sorunsalı -->
