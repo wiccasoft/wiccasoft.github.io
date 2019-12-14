@@ -7,7 +7,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- bkz ankaragücünün geysaraya dööşeyeceği boru -->
-<!-- bkz fakir akboyların kamalcıların komunistlere bi şey bırakması -->
+<!-- bkz fakir akboyların ve kamalcıların komunistlere bi şey bırakması -->
 <!-- bkz czn burak ın fahriye evcanın eline çocuğu vermesi -->
 <!-- bkz ulusözlükteki başlıkları okumanın bile zeka geriliği yaratması -->
 <!-- https://www.uludagsozluk.com/e/42555711/ bkz başörtülü bacılarımı domaltmışlar bi cinayet daha çek -->
