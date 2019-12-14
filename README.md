@@ -6,7 +6,6 @@
 <!-- bkz ahmet hakanın orhan yamuk yazısı -->
 <!-- bkz jose morinhonun  ronaldoya attığı bakış -->
 <!-- bkz okan burak la erol bulutla arasından su sızmaması -->
-<!-- https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ -->
 <!-- bkz fatih tezcan dan fatih terime işine yap uyarısı -->
 <!-- bkz ceren özdemirin katilinin chpli olması-->
 <!-- bkz czn burak ın tayyipe eliyle dürüm yedirmesi -->
