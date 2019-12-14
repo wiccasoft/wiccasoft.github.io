@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- bkz hala adıma başlık açamamış totoşlar demek ki hala doğru yoldayım -->
-<!-- bkz adımı bilmediği halde ısrarla başlık açan totoşlar --> 
+<!-- bkz adımı bilmediği halde ısrarla ben mişim gibi başlık açan totoşlar --> 
 <!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 -->
 <!-- bkz hayallerde yaşıyor bazı pezevenkler -->
 <!-- https://www.youtube.com/watch?v=hGWTLNknVgc zuhahaha-->
