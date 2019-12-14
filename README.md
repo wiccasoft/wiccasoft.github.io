@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz czn burak styla https://www.youtube.com/watch?v=vkh5d0gZgxQ -->
 <!-- bkz tayyipin ceren özdemir in katilini dosta güven düşmana korku salmak için sürekli göstertmesi-->
 <!-- https://www.uludagsozluk.com/e/42555928/ bkz hayallerde yaşıyor bazı gavatlar --->
 <!-- https://www.uludagsozluk.com/e/42555842/ bkz karizmanın öz oğlu -->
