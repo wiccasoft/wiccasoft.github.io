@@ -6,6 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz yersiz otomobil göklerde -->
 <!-- bkz ankaragücünün geysaraya dööşeyeceği boru -->
 <!-- 14 aralık 2019 geysaray.. shhh anlatmayın olm izlemedim daha -->
 <!-- https://eksisozluk.com/14-aralik-2019-galatasaray-ankaragucu-maci--6171271?a=popular -->
