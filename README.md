@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz ceren özdemirin katilinin chpli olmasına ses etmeyen chpkk itler -->
 <!-- bkz czn burak ın tayyipe eliyle dürüm yedirmesi -->
-<!-- bkz ceren özdemirin katilinin chpli olması -->
 <!-- bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
 <!-- bkz tayyipin ceren özdemir in katilini dosta güven düşmana korku salmak için sürekli göstertmesi-->
 <!-- bkz czn burakın dağ kebapı işine girmesi https://www.timeanddate.com/astronomy/finland/helsinki -->
