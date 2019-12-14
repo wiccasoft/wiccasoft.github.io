@@ -2,6 +2,7 @@
 
 <!-- bkz enes abinin yeni video atması -->
 <!-- bkz enes abiye çamur atanların norm enderci tayfa olması -->
+<!-- bkz fatih tezcanın imamaoğlana sana ne meteordan işini yap ikazı -->
 <!-- bkz donald trump cem uzan ilişkisi bkz koç erkeği oğlak erkeği ilişkisi -->
 <!-- https://www.uludagsozluk.com/e/42556363/ bkz imam oğlanın meteorlu paylaşımı -->
 <!-- bkz götlerine meteor girse czn buraktan bilecek ak nonoşlar -->
