@@ -1,7 +1,7 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
-<!-- bkz yetişkin bi akbaşın tayyibini de al git deyince anlamaması -->
+<!-- bkz yetişkin bi akbaşın tayyibini de al git deyince anlamaması sorunsalı -->
 <!-- bkz akboyların yine güldürmesi -->
 <!-- bkz psg nin altısarayın ezik ibnelerini siklememesi -->
 <!-- bkz psg nin altısaraya döşediği boru https://www.youtube.com/watch?v=N4_nQF-CpBY -->
