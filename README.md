@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- görtlerine steven n zonzi girse fatih tezcan dan bilecek malum kesim -->
 <!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
 <!-- https://www.uludagsozluk.com/e/42556473/ bkz o paraya ramosun ayak parmağı alınmaz amk -->
 <!-- https://www.uludagsozluk.com/e/42556385/ bkz sus gözlerin konuşsun işareti yapan libero -->
