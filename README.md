@@ -6,7 +6,8 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz yersiz espirilerim göklerde -->
+
+<!-- bkz atatürk gibi vizyoner bi adam nasıl bu sığırlarla uğraşmış sorunsalı -->
 <!-- bkz kakatürkün hüç türklere benzememesi sorunsalı -->
 <!-- bkz kakatürkün geysaraylı olduğu iddası -->
 <!-- bkz geysaraylıların yine göt olması https://www.youtube.com/watch?v=gglfXekbHbg -->
