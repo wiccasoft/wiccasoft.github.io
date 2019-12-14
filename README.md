@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://www.uludagsozluk.com/e/42549889/ aa bu benim  -->
 <!-- bkz izmirli kızı trolleyen konyalı https://www.youtube.com/watch?v=FqDSaTKtQYA -->
 <!-- steven n zonzi fatih tezcan a işini yap demesi -->
 <!-- bkz üj mülyün yuro daha verelim nejmarı alalım diyen geyseli-->
