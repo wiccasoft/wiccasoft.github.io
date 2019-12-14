@@ -6,8 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!--bkz sarayın fatih tezcana drogbayı oyuna sok demesi -->
-<!-- bkz fatih tezcanın mbayeye drogbanin kobra taktiğini uygulatması-->
+<!-- bkz altı saray üstü bahçe nin hala güldürmesi -->
 <!-- görtlerine steven n zonzi girse fatih tezcan dan bilecek malum kesim -->
 <!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
 <!-- https://www.uludagsozluk.com/e/42556473/ bkz o paraya ramosun ayak parmağı alınmaz amk -->
