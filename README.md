@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://www.uludagsozluk.com/e/42556363/ bkz imam oğlanın meteorlu paylaşımı -->
 <!-- bkz götlerine meteor girse czn buraktan bilecek ak nonoşlar -->
 <!-- bkz izmirli kıza dm den pandik atan konyalının czn burak çıkması -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone x i olmayan ezikler -->
