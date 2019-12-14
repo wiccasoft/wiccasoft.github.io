@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz zirvedeyim sesin duyulmuyor diyen ak nonoş-->
 <!-- bkz ateist gencin babasına tekme atması --->
 <!-- bkz babasına kuran fırlatan akp düşmanı ceren özdemirin hakkettiğini bulması -->
 <!-- bkz czn burakın tayyip kebabını tescil ettirmesi -->
