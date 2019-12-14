@@ -1,9 +1,9 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz yakala getir olm denilen akboyu eğitmek -->
-<!-- bkz bak bakam ben ordamıyım akboy -->
-<!-- bkz izmirli kızı dm den trolleyen konyalı -->
-<!-- bkz babasına topkek fırlatan akboyun hazin sonu -->
+<!-- bkz yakala getir olm denilen akboyu eğitmek https://www.youtube.com/watch?v=9P18cC9Am_s -->
+<!-- bkz bak bakam ben ordamıyım akboy https://www.youtube.com/watch?v=9P18cC9Am_s -->
+<!-- bkz izmirli kızı dm den trolleyen konyalı https://www.youtube.com/watch?v=9P18cC9Am_s -->
+<!-- bkz babasına topkek fırlatan akboyun hazin sonu -https://www.youtube.com/watch?v=9P18cC9Am_s ->
 <!-- bkz zirvedeyim sesin duyulmuyor diyen ak nonoş-->
 <!-- bkz ateist gencin babasına tekme atması --->
 <!-- bkz babasına kuran fırlatan akp düşmanı ceren özdemirin hakkettiğini bulması -->
