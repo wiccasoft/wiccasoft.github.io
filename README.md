@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedder süper looo -->
 <!-- bkz serkan is my girl https://www.youtube.com/watch?v=ueptJlYwka0 -->
 <!-- bkz since 2009 aynı model gibi https://www.youtube.com/watch?v=FFkBaGqXLig -->
 <!-- bkz yakala getir olm denilen akboyu eğitmek https://www.youtube.com/watch?v=9P18cC9Am_s -->
