@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz karan özçivitin 2099 lu  kızları kudurtacağı gerçeği-->
+<!-- bkz karan özçivitin 2099 lu onay bekleyen kızları kudurtacağı gerçeği-->
 <!-- https://www.uludagsozluk.com/k/karan-%C3%B6z%C3%A7ivit/ bkz karizmanın özçivit oğlu --> 
 <!-- https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz karizmanın öz oğlu vz karizma -->
 <!-- https://www.uludagsozluk.com/e/42549889/ aa bu benim  -->
