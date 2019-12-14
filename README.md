@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- https://www.uludagsozluk.com/e/42555928/ bkz hayallerde yaşıyor bazı gavatlar --->
-<!-- https://www.uludagsozluk.com/e/42555842/ bkz karimanın oğlu -->
+<!-- https://www.uludagsozluk.com/e/42555842/ bkz karizmanın öz oğlu -->
 <!-- bkz mersinin renkli siması cenkin kendini ifşa etmesi -->
 <!-- bkz hala adıma başlık açamamış totoşlar demek ki hala doğru yoldayım -->
 <!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 -->
