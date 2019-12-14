@@ -1,7 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz cinconluların parası neyse alalım nedir gardaş demesi -->
-<!-- bkz abdurrahim albyrakın üj mülyün yuro daha verelim nejmartı alalım demesi -->
+<!-- bkz abdurrahim albyrakın üj mülyün yuro daha verelim nejmarı alalım demesi -->
 <!-- bkz enes abinin yeni video atması bi bak be kankağ belki atmıştır heğğ-->
 <!-- bkz imamoğlanın izlandaya meteor fırlatması -->
 <!-- bkz ergin atamanın obrodoviçe attığı bakış -->
