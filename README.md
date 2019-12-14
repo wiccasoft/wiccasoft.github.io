@@ -6,7 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz tatlıses hülya avşara çakmışmıdır sorunsalı gece gece aklıma takılan sorunsal  -->
+<!-- bkz tatlıseks hülya avşara çakmışmıdır sorunsalı gece gece aklıma takılan sorunsal  -->
 <!-- bkz tanju çolak hülya avşara kaç kere çakmıştır sorunsslı -->
 <!-- bkz rıdvan dilmenin şeytani çalımları vs tanju çolak hülya avşara çaktı mı sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/r%C4%B1dvan-dilmen/&w=bg bkz şeytan gibi topçu -->
