@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz 2009 dan beri ekşi onay listesini beklerken kendi işini kurmak https://www.youtube.com/watch?v=FFkBaGqXLig -->
 <!-- bkz yakala getir olm denilen akboyu eğitmek https://www.youtube.com/watch?v=9P18cC9Am_s -->
 <!-- bkz bak bakam ben ordamıyım akboy https://www.youtube.com/watch?v=9P18cC9Am_s -->
 <!-- bkz izmirli kızı dm den trolleyen konyalı https://www.youtube.com/watch?v=9P18cC9Am_s -->
