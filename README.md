@@ -1,7 +1,7 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
-<!-- bkz bi ak boyun kulağına 2023 te ananı sikmeyeceğim demek -->
+<!-- bkz bi ak boyun kulağına seni de ananı da sikmeyeceğim demek -->
 <!-- bkz akboyların yine güldürmesi -->
 <!-- bkz psg nin altısarayın ezik ibnelerini siklememesi -->
 <!-- bkz psg nin altısaraya döşediği boru https://www.youtube.com/watch?v=N4_nQF-CpBY -->
