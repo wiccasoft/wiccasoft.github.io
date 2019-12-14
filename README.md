@@ -10,7 +10,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!--bkz telefonu masaya koyup şekil yapılan karanlık dönemden sonraki daha da karanlık dönem -->
+<!--bkz telefonların masaya konup şekil yapılan dönemden sonraki daha da karanlık dönem -->
 <!--bkz graham bell telefonu icad ettiğine pişman mıdır sorunsalı -->
 <!--bkz instagramın logosu neden değişti sorunsalı -->
 <!--bkz geysarayın logosunun bile çok gey olması -->
