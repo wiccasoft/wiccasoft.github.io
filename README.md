@@ -1,4 +1,8 @@
 
+
+[![Image](newsbot/Screenshot_2019-12-14_02-48-53.png)]( https://www.theguardian.com/environment/2019/dec/13/michelle-obama-greta-thunberg-message-support-trump )
+
+
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
 [![Image](newsbot/Screenshot_2019-12-14_02-07-41.png)]( https://www.youtube.com/watch?v=60JAciOhi2A )
@@ -10,6 +14,10 @@
 <!--
 [![Image](smartdata/Screenshot_2019-12-13_05-59-59.png)]( https://www.zeit.de/kultur/film/2019-12/fernsehpodcast-die-schaulustigen-13-dezember-2019 )
 -->
+
+[![Image](newsbot/Screenshot_2019-12-14_02-55-47.png)]( https://www.theguardian.com/science/2019/dec/13/richer-nations-accused-of-stalling-progress-on-climate-crisis )
+
+
 
 [![Image](smartdata/Screenshot_2019-12-13_03-22-30.png)]( https://www.theguardian.com/business/2019/dec/12/us-china-trade-deal-in-principle-tariffs )
 
