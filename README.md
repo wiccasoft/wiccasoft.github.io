@@ -2,7 +2,7 @@
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
 <!-- bkz psg nin altısarayın ibnelerini siklememesi -->
-<!-- bkz psg nin altısaraya döşediği boru -->
+<!-- bkz psg nin altısaraya döşediği boru https://www.youtube.com/watch?v=N4_nQF-CpBY -->
 <!-- https://www.uludagsozluk.com/e/42553963/ bkz bunu anana sorsana delikanlı -->
 <!-- https://www.uludagsozluk.com/e/42553923/ bkz hayallerde yaşıyor bazı ibneler -->
 
