@@ -1,4 +1,5 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
+<!--bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.youtube.com/watch?v=hGWTLNknVgc zuhahaha-->
 
 [![Image](newsbot/Screenshot_2019-12-14_02-55-47.png)]( https://www.theguardian.com/science/2019/dec/13/richer-nations-accused-of-stalling-progress-on-climate-crisis )
