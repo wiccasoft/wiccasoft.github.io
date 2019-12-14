@@ -2,7 +2,7 @@
 
 <!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
 <!-- https://www.uludagsozluk.com/e/42556473/ bkz o paraya ramosun ayak parmağı alınmaz amk -->
-<!-- https://www.uludagsozluk.com/e/42556385/ bkz sus gözlerin konuşsun işareti yapan forvet -->
+<!-- https://www.uludagsozluk.com/e/42556385/ bkz sus gözlerin konuşsun işareti yapan libero -->
 <!-- bkz https://www.uludagsozluk.com/e/42556385/ türk önde türk ileri olmasının sebepleri -->
 <!-- https://www.uludagsozluk.com/k/serkan-asan/&w=bg bkz çok canlar yakacak çok -->
 <!-- bkz karan özçivitin 2099 lu onay bekleyen kızları kudurtacağı gerçeği-->
