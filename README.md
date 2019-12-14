@@ -2,7 +2,7 @@
 
 
 <!-- bkz enes abinin yeni video atması -->
-<!-- bkz cumartesi enrtry girmeyen ezik oğlan -->
+<!-- bkz cumartesi entry girmeyen ezik oğlan -->
 <!-- bkz ekotrollerin ekotayyip hazımsızlığı -->
 <!-- bkz enes abiye çamur atanların norm enderci tayfa olması -->
 <!-- bkz fatih tezcanın imamaoğlana sana ne meteordan işini yap ikazı -->
