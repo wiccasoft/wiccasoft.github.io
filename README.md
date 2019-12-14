@@ -6,6 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz ulusözlükteki başlıkları okumanın bile zeka geriliği yaratması --->
 <!-- https://www.uludagsozluk.com/e/42555711/ bkz başörtülü bacılarımı domaltmışlar bi cinayet daha çek -->
 <!-- bkz arnold sivastanegezer mi silvester stand alone mi döver -->
 <!-- bkz çiftlikbank ceosunun finlandiyaya açılması -->
