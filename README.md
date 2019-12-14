@@ -1,6 +1,7 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
+<!-- bkz yetişkin bi akboyun ananı da al git deyince anlamaması -->
 <!-- bkz bi ak boyun kulağına seni de ananı da sikmeyeceğim demek -->
 <!-- bkz akboyların yine güldürmesi -->
 <!-- bkz psg nin altısarayın ezik ibnelerini siklememesi -->
