@@ -21,29 +21,14 @@
 <!--bkz özlenen futbolcular başlığında meloya sevdim seni tosunum yazan gencin pişman olması -->
 <!--bkz bütün totoş geylerin kapılmış olması -->
 <!--bkz geysarayalıların ali samiyeni basması -->
-<!-- bkz kakatürk geysaraylı mıydı sorunsalı -->
 <!-- bkz geysaraylıların yine göt olması https://www.youtube.com/watch?v=gglfXekbHbg -->
-<!-- bkz fatih tezcanın fatih terime verdiği ayar oynat uğurcum geri al pozisyonu oyşşş -->
 <!-- bkz ankaragücünün geysaraya dööşeyeceği boru -->
 <!-- 14 aralık 2019 geysaray.. shhh anlatmayın olm izlemedim daha -->
 <!-- https://eksisozluk.com/14-aralik-2019-galatasaray-ankaragucu-maci--6171271?a=popular -->
-<!-- bkz fakir akboyların ve kamalcıların komunistlere bi şey bırakması -->
-<!-- bkz czn burak ın fahriye evcanın eline çocuğu vermesi -->
 <!-- bkz ulusözlükteki başlıkları okumanın bile zeka geriliği yaratması -->
-<!-- https://www.uludagsozluk.com/e/42555711/ bkz başörtülü bacılarımı domaltmışlar bi cinayet daha çek -->
-<!-- bkz arnold sivastanegezer mi silvester stand alone mi döver -->
-<!-- bkz çiftlikbank ceosunun finlandiyaya açılması -->
 <!-- bkz elinoğlu futbol entrylerine değil yaptığın pilava bakar -->
 <!-- bkz selçuk inanın zencilerin arasında ne yaptığı sorunsalı -->
 <!-- bkz ana bababababa hele yarrama bak hele -->
-<!-- bkz pezevenklerin elinden kurtarma numarasıyla kızları hoplatmak -->
-<!-- bkz tatlıseks hülya avşara çakmışmıdır sorunsalı gece gece aklıma takılan sorunsal  -->
-<!-- bkz tanju çolak hülya avşara kaç kere çakmıştır sorunsslı -->
-<!-- bkz rıdvan dilmenin şeytani çalımları vs tanju çolak hülya avşara çaktı mı sorunsalı -->
-<!-- https://www.uludagsozluk.com/e/42557407/ bababa hele yarrama bah hele-->
-<!-- bkz tamer karadağlı nın ana bababa dağ gibi adamım demesi -->
-<!-- https://www.galatasaray.org/haber/gs-sportif-a-s/selcuk-inanin-sozlesmesi-uzatildi/44417 -->
-<!-- https://www.youtube.com/watch?v=zFHi_X_Q6PM -->
 <!-- bkz altı saray üstü bahçe nin hala güldürmesi -->
 <!-- görtlerine steven n zonzi girse fatih tezcan dan bilecek malum kesim -->
 <!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
@@ -56,15 +41,6 @@
 <!-- https://www.uludagsozluk.com/e/42549889/ aa bu benim  -->
 <!-- bkz izmirli kızı trolleyen konyalı https://www.youtube.com/watch?v=FqDSaTKtQYA -->
 <!-- steven n zonzi fatih tezcan a işini yap demesi -->
-<!-- bkz üj mülyün yuro daha verelim nejmarı alalım diyen geyseli-->
-<!-- bkz enes abinin yeni video atması bi bak be kankağ belki atmıştır heğğ-->
-<!-- bkz imamoğlanın izlandaya meteor fırlatması -->
-<!-- bkz ergin atamanın obrodoviçe attığı bakış -->
-<!-- bkz enes abinin yeni video atması -->
-<!-- bkz cumartesi entry girmeyen ezik oğlan -->
-<!-- bkz ekotrollerin ekotayyip hazımsızlığı -->
-<!-- bkz enes abiye çamur atanların norm enderci tayfa olması -->
-<!-- bkz fatih tezcanın imamaoğlana sana ne meteordan işini yap ikazı -->
 <!-- bkz götlerine meteor girse czn buraktan bilecek ak nonoşlar -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone x i olmayan ezikler -->
 
