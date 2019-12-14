@@ -10,6 +10,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!--bkz stalin gavat mıydı sorunsalı -->
 <!--bkz şerner şeninin sessizliğin bozması -->
 <!--bkz adolf hitler neden saldırmıyor sorunsalı -->
 <!--bkz fatih terimin geyleri üzmesi -->
