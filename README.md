@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- bkz ateist gencin babasına tekme atması --->
-<!-- bkz babasına kuran fırlatan ceren özdemirin hakkettiğini bulması -->
+<!-- bkz babasına kuran fırlatan akp düşmanı ceren özdemirin hakkettiğini bulması -->
 <!-- bkz czn burakın tayyip kebabını tescil ettirmesi -->
 <!-- bkz ahmet hakanın orhan yamuk yazısı -->
 <!-- bkz jose morinhonun  ronaldoya attığı bakış -->
