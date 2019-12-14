@@ -11,8 +11,7 @@
 <!-- bkz tatlıseks hülya avşara çakmışmıdır sorunsalı gece gece aklıma takılan sorunsal  -->
 <!-- bkz tanju çolak hülya avşara kaç kere çakmıştır sorunsslı -->
 <!-- bkz rıdvan dilmenin şeytani çalımları vs tanju çolak hülya avşara çaktı mı sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/r%C4%B1dvan-dilmen/&w=bg bkz şeytan gibi topçu -->
-<!-- https://www.uludagsozluk.com/e/42557407/ bababa -->
+<!-- https://www.uludagsozluk.com/e/42557407/ bababa hele yarrama bah hele-->
 <!-- bkz tamer karadağlı nın ana bababa dağ gibi adamım demesi -->
 <!-- https://www.galatasaray.org/haber/gs-sportif-a-s/selcuk-inanin-sozlesmesi-uzatildi/44417 -->
 <!-- https://www.youtube.com/watch?v=zFHi_X_Q6PM -->
