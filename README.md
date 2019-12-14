@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone x i olmayan ezikler -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedder süper looo -->
 <!-- bkz serkan is my girl https://www.youtube.com/watch?v=ueptJlYwka0 -->
 <!-- bkz aynı model gibi https://www.youtube.com/watch?v=FFkBaGqXLig -->
