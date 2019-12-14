@@ -1,13 +1,8 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
-<!-- bkz yetişkin bi akbaşın tayyibini de al git deyince anlamaması sorunsalı -->
-<!-- bkz akboyların yine güldürmesi -->
-<!-- bkz psg nin altısarayın ezik ibnelerini siklememesi -->
-<!-- bkz psg nin altısaraya döşediği boru https://www.youtube.com/watch?v=N4_nQF-CpBY -->
-<!-- https://www.uludagsozluk.com/e/42553963/ bkz bunu anana sorsana delikanlı -->
-<!-- https://www.uludagsozluk.com/e/42553923/ bkz hayallerde yaşıyor bazı ibneler -->
 
+[![Image](newsbot/Screenshot_2019-12-14_02-07-41.png)]( https://www.youtube.com/watch?v=60JAciOhi2A )
 
 <!-- [![Image](smartdata/Screenshot_2019-12-13_07-40-12.png)]( https://www.youtube.com/watch?v=DHWLYkBcoNw ) -->
 <!--
