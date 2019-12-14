@@ -7,8 +7,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- https://www.uludagsozluk.com/e/42555711/ bkz başörtülü bacılarımı domaltmışlar bi cinayet daha çek -->
-<!--bkz arnold sivastanegezer mi silvester stallone mi döver -->
-<!-- bkz silvester stallone mi vruş li me sorunsal ı -->
+<!-- bkz arnold sivastanegezer mi silvester stallone mi döver -->
 <!-- bkz çiftlikbank ceosunun finlandiyaya açılması -->
 <!-- bkz elinoğlu futbol entrylerine değil yaptığın pilava bakar -->
 <!-- bkz selçuk inanın zencilerin arasında ne yaptığı sorunsalı -->
