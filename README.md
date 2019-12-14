@@ -6,7 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz yersiz otomobil göklerde -->
+<!-- bkz yersiz espirilerim göklerde -->
 <!-- bkz geysaraylıların yine göt olması https://www.youtube.com/watch?v=gglfXekbHbg -->
 <!-- bkz fatih tezcanın fatih terime verdiği ayar oynat uğurcum geri al pozisyonu oyşşş -->
 <!-- bkz ankaragücünün geysaraya dööşeyeceği boru -->
