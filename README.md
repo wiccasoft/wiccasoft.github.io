@@ -20,10 +20,6 @@
 <!--bkz özlenen futbolcular başlığında meloya sevdim seni tosunum yazan gencin pişman olması -->
 <!--bkz bütün totoş geylerin kapılmış olması -->
 <!--bkz geysarayalıların ali samiyeni basması -->
-<!--bkz şener şenin geysaray rezaletine sesszi kalması -->
-<!--bkz şener şenin sessizliğini koruması -->
-<!--bkz şener şen vs ilyas salman -->
-<!--bkz kakasaray vs kakatürk -->
 <!-- bkz kakatürk geysaraylı mıydı sorunsalı -->
 <!-- bkz geysaraylıların yine göt olması https://www.youtube.com/watch?v=gglfXekbHbg -->
 <!-- bkz fatih tezcanın fatih terime verdiği ayar oynat uğurcum geri al pozisyonu oyşşş -->
