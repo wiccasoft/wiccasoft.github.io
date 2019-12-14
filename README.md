@@ -6,6 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!--https://www.uludagsozluk.com/e/42557407/ bababa -->
 <!-- bkz selçuk inanın inanın çocuklar gey günler göreceğiz demesi -->
 <!-- bkz tamer karadağlı nın ana bababa dağ gibi adamım demesi -->
 <!-- https://www.galatasaray.org/haber/gs-sportif-a-s/selcuk-inanin-sozlesmesi-uzatildi/44417 -->
