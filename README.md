@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- bkz jose morinhonun  ronaldoya attığı bakış -->
+<!-- https://www.uludagsozluk.com/k/okan-buruk-vs-erol-bulut/ -->
 <!-- bkz fatih tezcan dan fatih terime işine yap uyarısı -->
 <!-- bkz ceren özdemirin katilinin chpli olması-->
 <!-- bkz czn burak ın tayyipe eliyle dürüm yedirmesi -->
