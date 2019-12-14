@@ -1,7 +1,9 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+
 <!-- bkz enes abinin yeni video atması -->
 <!-- bkz cumartesi enrtry girmeyen ezik oğlan -->
+<!-- bkz ekotrollerin ekotayyip hazımsızlığı -->
 <!-- bkz enes abiye çamur atanların norm enderci tayfa olması -->
 <!-- bkz fatih tezcanın imamaoğlana sana ne meteordan işini yap ikazı -->
 <!-- bkz donald trump cem uzan ilişkisi bkz koç erkeği oğlak erkeği ilişkisi -->
