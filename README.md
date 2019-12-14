@@ -1,4 +1,8 @@
 
+
+[![Image](skynet/Screenshot_2019-12-14_16-24-03.png)]( https://www.aljazeera.com/programmes/listeningpost/2019/12/offline-silenced-internet-blackouts-global-191212001936530.html)
+
+
 [![Image](skynet/Screenshot_2019-12-14_14-06-56.png)]( http://world.people.com.cn/n1/2019/1214/c1002-31506249.html )
 
 
