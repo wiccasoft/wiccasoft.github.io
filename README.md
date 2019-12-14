@@ -1,9 +1,10 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz czn burakın dağ kebapı işine girmesi https://www.timeanddate.com/astronomy/finland/helsinki -->
-<!-- https://www.youtube.com/watch?v=uZxBfHO6CiU&list=LLO-wEhhJhnwMsIN1I_-eD_Q&index=300  -->
 <!-- bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
 <!-- bkz tayyipin ceren özdemir in katilini dosta güven düşmana korku salmak için sürekli göstertmesi-->
+<!-- bkz czn burakın dağ kebapı işine girmesi https://www.timeanddate.com/astronomy/finland/helsinki -->
+<!-- https://www.youtube.com/watch?v=uZxBfHO6CiU&list=LLO-wEhhJhnwMsIN1I_-eD_Q&index=300  -->
+
 <!-- https://www.uludagsozluk.com/e/42555928/ bkz hayallerde yaşıyor bazı gavatlar --->
 <!-- https://www.uludagsozluk.com/e/42555842/ bkz karizmanın öz oğlu -->
 <!-- bkz mersinin renkli siması cenkin kendini ifşa etmesi -->
