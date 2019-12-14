@@ -6,7 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!-- bkz aydemir akbaşın geysaray için karıyı satarım çıkışı -->
+
 <!-- bkz altı saray üstü bahçe nin hala güldürmesi -->
 <!-- görtlerine steven n zonzi girse fatih tezcan dan bilecek malum kesim -->
 <!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
