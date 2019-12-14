@@ -6,6 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!--bkz geysarayalıların ali samiyeni basması -->
 <!--bkz şener şenin geysaray rezaletine sesszi kalması -->
 <!--bkz şener şenin sessizliğini koruması -->
 <!--bkz şener şen vs ilyas salman -->
