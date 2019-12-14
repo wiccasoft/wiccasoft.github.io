@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- bkz jose morinhonun  ronaldoya attığı bakış -->
 <!-- bkz ceren özdemirin katilinin chpli olmasına ses etmeyen chpkk itler -->
 <!-- bkz czn burak ın tayyipe eliyle dürüm yedirmesi -->
 <!-- bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
