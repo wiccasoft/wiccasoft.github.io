@@ -8,7 +8,7 @@
 <!-- https://www.uludagsozluk.com/e/42555928/ bkz hayallerde yaşıyor bazı gavatlar --->
 <!-- https://www.uludagsozluk.com/e/42555842/ bkz karizmanın öz oğlu -->
 <!-- bkz mersinin renkli siması cenkin kendini ifşa etmesi -->
-<!-- bkz hala adıma başlık açamamış totoşlar demek ki hala doğru yoldayım -->
+<!-- bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım -->
 <!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 -->
 <!-- bkz hayallerde yaşıyor bazı pezevenkler -->
 <!-- https://www.youtube.com/watch?v=hGWTLNknVgc zuhahaha-->
