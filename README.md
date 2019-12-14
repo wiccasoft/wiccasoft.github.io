@@ -1,8 +1,8 @@
 
 [![Image](newsbot/Screenshot_2019-12-13_18-16-43.png)]( https://www.youtube.com/watch?v=0sE9xCDfuuU )
 
-
 [![Image](newsbot/Screenshot_2019-12-14_02-07-41.png)]( https://www.youtube.com/watch?v=60JAciOhi2A )
+
 
 <!-- [![Image](smartdata/Screenshot_2019-12-13_07-40-12.png)]( https://www.youtube.com/watch?v=DHWLYkBcoNw ) -->
 <!--
