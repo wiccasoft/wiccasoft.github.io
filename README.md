@@ -10,6 +10,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://support.apple.com/en-us/HT201559 lol -->
 <!-- https://www.quora.com/What-happens-if-my-phone-switches-off-during-a-software-update -->
 <!--bkz amerika telefonları kapatsa zombilerin mal gibi kalacağı gerçeği -->
 <!--bkz sokaktaki her 10 zombiden 8 inin telefonla konuşması 2 sinin de kurcalaması -->
