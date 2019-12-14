@@ -10,7 +10,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!--bkz sokaktaki her 10 zombiden 8 inin telefonla konuşması -->
+<!--bkz sokaktaki her 10 zombiden 8 inin telefonla konuşması 2 sinin de kurcalaması -->
 <!--bkz telefonların masaya konup şekil yapılan dönemden sonraki daha da karanlık dönem -->
 <!--bkz graham bell telefonu icad ettiğine pişman mıdır sorunsalı -->
 <!--bkz instagramın logosu neden değişti sorunsalı -->
