@@ -1,4 +1,4 @@
-[![Image](newsbot/Screenshot_2019-12-14_07-18-27.png)]( https://www.youtube.com/watch?v=ajijl2_CBvg )
+[![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.youtube.com/watch?v=ajijl2_CBvg )
 
 
 [![Image](newsbot/Screenshot_2019-12-14_02-55-47.png)]( https://www.theguardian.com/science/2019/dec/13/richer-nations-accused-of-stalling-progress-on-climate-crisis )
