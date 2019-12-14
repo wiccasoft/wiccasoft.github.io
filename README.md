@@ -1,3 +1,7 @@
+
+
+[![Image](skynet/Screenshot_2019-12-14_13-46-08.png)]( https://www.theguardian.com/books/2019/dec/11/from-greek-myth-to-the-monkey-pig-what-is-a-chimera2 )
+
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
 <!-- görtlerine steven n zonzi girse fatih tezcan dan bilecek malum kesim -->
