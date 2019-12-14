@@ -2,8 +2,7 @@
 
 <!-- bkz ateist gencin babasına tekme atması --->
 <!-- bkz babasına kuran fırlatan ceren özdemirin hakkettiğini bulması -->
-<!-- bkz emre morun czn burakla fotosu -->
-<!-- bkz czn burakın kebaplara osurduğu iddaları -->
+<!-- bkz czn burakın tayyip kebabını tescil ettirmesi -->
 <!-- bkz ahmet hakanın orhan yamuk yazısı -->
 <!-- bkz jose morinhonun  ronaldoya attığı bakış -->
 <!-- bkz okan burak la erol bulutla arasından su sızmaması -->
