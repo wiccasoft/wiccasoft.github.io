@@ -12,9 +12,8 @@
 
 <!--bkz adolf hitlerin geysaraylılara 3 lü çektirmesi -->
 <!--bkz stalin gavat mıydı sorunsalı -->
-<!--bkz şerner şeninin sessizliğin bozması -->
+<!--bkz şener şeninin sessizliğin bozması -->
 <!--bkz adolf hitler neden saldırmıyor sorunsalı -->
-<!--bkz fatih terimin geyleri üzmesi -->
 <!--bkz fatih terimin geysarayı kapatıp uyuması -->
 <!--bkz özlenen futbolcular başlığında meloya sevdim seni tosunum yazan gencin pişman olması -->
 <!--bkz bütün totoş geylerin kapılmış olması -->
