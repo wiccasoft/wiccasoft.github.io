@@ -3,7 +3,6 @@
 <!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
 <!-- https://www.uludagsozluk.com/e/42556473/ bkz o paraya ramosun ayak parmağı alınmaz amk -->
 <!-- https://www.uludagsozluk.com/e/42556385/ bkz sus gözlerin konuşsun işareti yapan libero -->
-<!-- bkz https://www.uludagsozluk.com/e/42556385/ türk önde türk ileri olmasının sebepleri -->
 <!-- https://www.uludagsozluk.com/k/serkan-asan/&w=bg bkz çok canlar yakacak çok -->
 <!-- bkz karan özçivitin 2099 lu onay bekleyen kızları kudurtacağı gerçeği-->
 <!-- https://www.uludagsozluk.com/k/karan-%C3%B6z%C3%A7ivit/ bkz karizmanın özçivit oğlu --> 
@@ -20,40 +19,9 @@
 <!-- bkz ekotrollerin ekotayyip hazımsızlığı -->
 <!-- bkz enes abiye çamur atanların norm enderci tayfa olması -->
 <!-- bkz fatih tezcanın imamaoğlana sana ne meteordan işini yap ikazı -->
-<!-- bkz donald trump cem uzan ilişkisi bkz koç erkeği oğlak erkeği ilişkisi -->
-<!-- https://www.uludagsozluk.com/e/42556363/ bkz imam oğlanın meteorlu paylaşımı -->
 <!-- bkz götlerine meteor girse czn buraktan bilecek ak nonoşlar -->
-<!-- bkz izmirli kıza dm den pandik atan konyalının czn burak çıkması -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone x i olmayan ezikler -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedder süper looo -->
-<!-- bkz serkan is my girl https://www.youtube.com/watch?v=ueptJlYwka0 -->
-<!-- bkz aynı model gibi https://www.youtube.com/watch?v=FFkBaGqXLig -->
-<!-- bkz yakala getir olm denilen akboyu eğitmek https://www.youtube.com/watch?v=9P18cC9Am_s -->
-<!-- bkz bak bakam ben ordamıyım akboy https://www.youtube.com/watch?v=9P18cC9Am_s -->
-<!-- bkz izmirli kızı dm den trolleyen konyalı https://www.youtube.com/watch?v=9P18cC9Am_s -->
-<!-- bkz babasına topkek fırlatan akboyun hazin sonu -https://www.youtube.com/watch?v=9P18cC9Am_s ->
-<!-- bkz zirvedeyim sesin duyulmuyor diyen ak nonoş-->
-<!-- bkz ateist gencin babasına tekme atması --->
-<!-- bkz babasına kuran fırlatan akp düşmanı ceren özdemirin hakkettiğini bulması -->
-<!-- bkz czn burakın tayyip kebabını tescil ettirmesi -->
-<!-- bkz ahmet hakanın orhan yamuk yazısı -->
-<!-- bkz jose morinhonun  ronaldoya attığı bakış -->
-<!-- bkz okan burak la erol bulutla arasından su sızmaması -->
-<!-- bkz fatih tezcan dan fatih terime işine yap uyarısı -->
-<!-- bkz ceren özdemirin katilinin chpli olması-->
-<!-- bkz czn burak ın tayyipe eliyle dürüm yedirmesi -->
-<!-- bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
-<!-- bkz tayyipin ceren özdemir in katilini dosta güven düşmana korku salmak için sürekli göstertmesi-->
-<!-- bkz czn burakın dağ kebapı işine girmesi https://www.timeanddate.com/astronomy/finland/helsinki -->
-<!-- https://www.youtube.com/watch?v=uZxBfHO6CiU&list=LLO-wEhhJhnwMsIN1I_-eD_Q&index=300  -->
 
-<!-- https://www.uludagsozluk.com/e/42555928/ bkz hayallerde yaşıyor bazı gavatlar --->
-<!-- https://www.uludagsozluk.com/e/42555842/ bkz karizmanın öz oğlu -->
-<!-- bkz mersinin renkli siması cenkin kendini ifşa etmesi -->
-<!-- bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım -->
-<!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 -->
-<!-- bkz hayallerde yaşıyor bazı pezevenkler -->
-<!-- https://www.youtube.com/watch?v=hGWTLNknVgc zuhahaha-->
 
 [![Image](newsbot/Screenshot_2019-12-14_02-55-47.png)]( https://www.theguardian.com/science/2019/dec/13/richer-nations-accused-of-stalling-progress-on-climate-crisis )
 
