@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!--bkz türk önde türk ileri olmasının sebepleri -->
 <!-- https://www.uludagsozluk.com/k/serkan-asan/&w=bg bkz çok canlar yakacak çok -->
 <!-- bkz karan özçivitin 2099 lu onay bekleyen kızları kudurtacağı gerçeği-->
 <!-- https://www.uludagsozluk.com/k/karan-%C3%B6z%C3%A7ivit/ bkz karizmanın özçivit oğlu --> 
