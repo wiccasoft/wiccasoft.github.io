@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 zuahahaah -->
 <!-- bkz hayallerde yaşıyor bazı pezevenkler -->
 <!-- https://www.youtube.com/watch?v=hGWTLNknVgc zuhahaha-->
 
