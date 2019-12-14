@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
+<!-- https://www.uludagsozluk.com/e/42556473/ o paraya iki forvet alınır amk -->
 <!-- https://www.uludagsozluk.com/e/42556385/ bkz sus gözlerin konuşsun işareti yapan forvet -->
 <!-- bkz https://www.uludagsozluk.com/e/42556385/ türk önde türk ileri olmasının sebepleri -->
 <!-- https://www.uludagsozluk.com/k/serkan-asan/&w=bg bkz çok canlar yakacak çok -->
