@@ -2,7 +2,6 @@
 
 <!-- bkz mersinin renkli siması cenkin kendini ifşa etmesi -->
 <!-- bkz hala adıma başlık açamamış totoşlar demek ki hala doğru yoldayım -->
-<!-- bkz adımı bilmediği halde ısrarla ben mişim gibi başlık açan totoşlar --> 
 <!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 -->
 <!-- bkz hayallerde yaşıyor bazı pezevenkler -->
 <!-- https://www.youtube.com/watch?v=hGWTLNknVgc zuhahaha-->
