@@ -4,10 +4,6 @@
 <!-- https://www.youtube.com/watch?v=otohjMymyYE -->
 
 <!--bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
-<!--bkz amerika telefonları kapatsa zombilerin mal gibi kalacağı gerçeği -->
-<!--bkz sokaktaki her 10 zombiden 8 inin telefonla konuşması 2 sinin de kurcalaması -->
-<!--bkz telefonların masaya konup şekil yapılan dönemden sonraki daha da karanlık dönem -->
-<!--bkz graham bell telefonu icad ettiğine pişman mıdır sorunsalı -->
 <!--bkz instagramın logosu neden değişti sorunsalı -->
 <!--bkz geysarayın logosunun bile çok gey olması -->
 <!--bkz geysaraylılar neden adam gibi takım tutmuyorlar sorunsalı -->
