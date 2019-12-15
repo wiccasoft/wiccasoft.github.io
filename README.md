@@ -8,7 +8,7 @@
 <!--bkz mansur yavaş vs ekrem hızlı -->
 <!--bkz cenk tosunun ama yol yabdılar demesi -->
 <!--bkz celal şengörün kanal istanbulu desteklemesi -->
-<!--bkz libya erdoğanda biz ettik sen etme abi demesi -->
+<!--bkz libyanın erdoğana biz ettik sen etme abi demesi -->
 <!-- https://www.youtube.com/watch?v=otohjMymyYE zuhahahah -->
 <!--bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
 <!--bkz instagramın logosu neden değişti sorunsalı -->
