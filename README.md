@@ -7,6 +7,9 @@
 [![Image](skynet/Screenshot_2019-12-15_04-02-49.png)]( https://www.youtube.com/watch?v=nLaV08oxHLU )
 
 
+[![Image](skynet/Screenshot_2019-12-15_06-00-26.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA )
+
+
 [![Image](skynet/Screenshot_2019-12-14_16-24-03.png)]( https://www.aljazeera.com/programmes/listeningpost/2019/12/offline-silenced-internet-blackouts-global-191212001936530.html)
 
 
