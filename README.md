@@ -5,6 +5,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
+<!-- https://www.youtube.com/watch?v=DHtJDR_8WfA mevzu fenerbahçeyse gerisi teferruattır -->
 <!--bkz 15 aralık 2019 türklerin ab nin yarı refah seviyesinde yaşaması -->
 <!--bkz 15 aralık 2018 erdoganın amerikaya ne bu şiddet bu celal demesi -->
 <!--bkz 15 aralık 2019 fenerbahce sivasspor maçında verilmeyen penaltı -->
