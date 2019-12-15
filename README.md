@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
-<!-- https://www.youtube.com/watch?v=otohjMymyYE -->
+<!-- https://www.youtube.com/watch?v=otohjMymyYE zuhahahah -->
 
 <!--bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
 <!--bkz instagramın logosu neden değişti sorunsalı -->
