@@ -3,6 +3,20 @@
 
 <!-- https://www.youtube.com/watch?v=otohjMymyYE -->
 
+<!--bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
+<!--bkz amerika telefonları kapatsa zombilerin mal gibi kalacağı gerçeği -->
+<!--bkz sokaktaki her 10 zombiden 8 inin telefonla konuşması 2 sinin de kurcalaması -->
+<!--bkz telefonların masaya konup şekil yapılan dönemden sonraki daha da karanlık dönem -->
+<!--bkz graham bell telefonu icad ettiğine pişman mıdır sorunsalı -->
+<!--bkz instagramın logosu neden değişti sorunsalı -->
+<!--bkz geysarayın logosunun bile çok gey olması -->
+<!--bkz geysaraylılar neden adam gibi takım tutmuyorlar sorunsalı -->
+<!--bkz mesut özilin uygurlu müslümanlar için zırlaması -->
+<!--bkz adolf hitlerin geysaraylılara 3 lü çektirmesi -->
+<!--bkz stalin gavat mıydı sorunsalı -->
+<!--bkz şener şeninin sessizliğin bozması -->
+<!--bkz adolf hitler neden saldırmıyor sorunsalı -->
+
 [![Image](skynet/Screenshot_2019-12-15_04-42-33.png)]( https://www.theguardian.com/football/2019/dec/14/megan-rapinoe-endorses-elizabeth-warren-for-president )
 
 <!-- https://www.youtube.com/watch?v=uZxBfHO6CiU&list=LLO-wEhhJhnwMsIN1I_-eD_Q&index=300 -->
@@ -23,19 +37,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
 
-<!--bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
-<!--bkz amerika telefonları kapatsa zombilerin mal gibi kalacağı gerçeği -->
-<!--bkz sokaktaki her 10 zombiden 8 inin telefonla konuşması 2 sinin de kurcalaması -->
-<!--bkz telefonların masaya konup şekil yapılan dönemden sonraki daha da karanlık dönem -->
-<!--bkz graham bell telefonu icad ettiğine pişman mıdır sorunsalı -->
-<!--bkz instagramın logosu neden değişti sorunsalı -->
-<!--bkz geysarayın logosunun bile çok gey olması -->
-<!--bkz geysaraylılar neden adam gibi takım tutmuyorlar sorunsalı -->
-<!--bkz mesut özilin uygurlu müslümanlar için zırlaması -->
-<!--bkz adolf hitlerin geysaraylılara 3 lü çektirmesi -->
-<!--bkz stalin gavat mıydı sorunsalı -->
-<!--bkz şener şeninin sessizliğin bozması -->
-<!--bkz adolf hitler neden saldırmıyor sorunsalı -->
+
 <!--bkz fatih terimin geysarayı kapatıp uyuması -->
 <!--bkz özlenen futbolcular başlığında meloya sevdim seni tosunum yazan gencin pişman olması -->
 <!--bkz bütün totoş geylerin kapılmış olması -->
