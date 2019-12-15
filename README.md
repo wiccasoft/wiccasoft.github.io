@@ -5,29 +5,6 @@
 
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
-<!-- https://www.youtube.com/watch?v=DHtJDR_8WfA mevzu fenerbahçeyse gerisi teferruattır -->
-<!--bkz 15 aralık 2019 türklerin ab nin yarı refah seviyesinde yaşaması -->
-<!--bkz 15 aralık 2018 erdoganın amerikaya ne bu şiddet bu celal demesi -->
-<!--bkz 15 aralık 2019 fenerbahce sivasspor maçında verilmeyen penaltı -->
-<!--bkz amerikanın erdoğandan af dilemesi -->
-<!--bkz taylor swift in sadık çiftpınara yürümesi https://www.youtube.com/watch?v=wyx6JDQCslE -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
-<!--bkz celal şengörün ibb iyi çöp topluyor açıklaması -->
-<!--bkz en iyi çöpü hangi belediyeler topluyor sorunsalı-->
-<!--bkz mansur yavaş vs ekrem hızlı -->
-<!--bkz cenk tosunun ama yol yabdılar demesi -->
-<!--bkz celal şengörün kanal istanbulu desteklemesi -->
-<!--bkz libyanın erdoğana biz ettik sen etme abi demesi -->
-<!-- https://www.youtube.com/watch?v=otohjMymyYE zuhahahah -->
-<!--bkz remove kebap styla https://www.youtube.com/watch?v=xoEP2X1bYKI -->
-<!--bkz instagramın logosu neden değişti sorunsalı -->
-<!--bkz geysarayın logosunun bile çok gey olması -->
-<!--bkz geysaraylılar neden adam gibi takım tutmuyorlar sorunsalı -->
-<!--bkz mesut özilin uygurlu müslümanlar için zırlaması -->
-<!--bkz adolf hitlerin geysaraylılara 3 lü çektirmesi -->
-<!--bkz stalin gavat mıydı sorunsalı -->
-<!--bkz şener şeninin sessizliğin bozması -->
-<!--bkz adolf hitler neden saldırmıyor sorunsalı -->
 
 [![Image](skynet/Screenshot_2019-12-15_04-42-33.png)]( https://www.theguardian.com/football/2019/dec/14/megan-rapinoe-endorses-elizabeth-warren-for-president )
 
@@ -48,34 +25,6 @@
 [![Image](skynet/Screenshot_2019-12-14_13-46-08.png)]( https://www.theguardian.com/books/2019/dec/11/from-greek-myth-to-the-monkey-pig-what-is-a-chimera)
 
 [![Image](skynet/Screenshot_2019-12-14_07-18-27.png)]( https://www.businessinsider.com/geminids-meteor-shower-how-to-see-shooting-stars-2019-12 )
-
-
-<!--bkz fatih terimin geysarayı kapatıp uyuması -->
-<!--bkz özlenen futbolcular başlığında meloya sevdim seni tosunum yazan gencin pişman olması -->
-<!--bkz bütün totoş geylerin kapılmış olması -->
-<!--bkz geysarayalıların ali samiyeni basması -->
-<!-- bkz geysaraylıların yine göt olması https://www.youtube.com/watch?v=gglfXekbHbg -->
-<!-- bkz ankaragücünün geysaraya dööşeyeceği boru -->
-<!-- 14 aralık 2019 geysaray.. shhh anlatmayın olm izlemedim daha -->
-<!-- https://eksisozluk.com/14-aralik-2019-galatasaray-ankaragucu-maci--6171271?a=popular -->
-<!-- bkz ulusözlükteki başlıkları okumanın bile zeka geriliği yaratması -->
-<!-- bkz elinoğlu futbol entrylerine değil yaptığın pilava bakar -->
-<!-- bkz selçuk inanın zencilerin arasında ne yaptığı sorunsalı -->
-<!-- bkz ana bababababa hele yarrama bak hele -->
-<!-- bkz altı saray üstü bahçe nin hala güldürmesi -->
-<!-- görtlerine steven n zonzi girse fatih tezcan dan bilecek malum kesim -->
-<!-- bkz üj mülyün yürü daha verelim nejmarı alalım diyen geyseli-->
-<!-- https://www.uludagsozluk.com/e/42556473/ bkz o paraya ramosun ayak parmağı alınmaz amk -->
-<!-- https://www.uludagsozluk.com/e/42556385/ bkz sus gözlerin konuşsun işareti yapan libero -->
-<!-- https://www.uludagsozluk.com/k/serkan-asan/&w=bg bkz çok canlar yakacak çok -->
-<!-- bkz karan özçivitin 2099 lu onay bekleyen kızları kudurtacağı gerçeği-->
-<!-- https://www.uludagsozluk.com/k/karan-%C3%B6z%C3%A7ivit/ bkz karizmanın özçivit oğlu --> 
-<!-- https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz karizmanın öz oğlu vz karizma -->
-<!-- https://www.uludagsozluk.com/e/42549889/ aa bu benim  -->
-<!-- bkz izmirli kızı trolleyen konyalı https://www.youtube.com/watch?v=FqDSaTKtQYA -->
-<!-- steven n zonzi fatih tezcan a işini yap demesi -->
-<!-- bkz götlerine meteor girse czn buraktan bilecek ak nonoşlar -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone x i olmayan ezikler -->
 
 
 [![Image](newsbot/Screenshot_2019-12-14_02-55-47.png)]( https://www.theguardian.com/science/2019/dec/13/richer-nations-accused-of-stalling-progress-on-climate-crisis )
