@@ -5,7 +5,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
-<!--bkz taylor swift in sadık çiftpınara yürümesi -->
+<!--bkz taylor swift in sadık çiftpınara yürümesi https://www.youtube.com/watch?v=wyx6JDQCslE -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!--bkz celal şengörün ibb iyi çöp topluyor açıklaması -->
 <!--bkz en iyi çöpü hangi belediyeler topluyor sorunsalı-->
