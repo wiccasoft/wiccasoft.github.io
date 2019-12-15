@@ -1,4 +1,7 @@
 
+[![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Sq-uMIZGETs )
+
+
 [![Image](skynet/Screenshot_2019-12-15_04-42-33.png)]( https://www.theguardian.com/football/2019/dec/14/megan-rapinoe-endorses-elizabeth-warren-for-president )
 
 <!-- https://www.youtube.com/watch?v=uZxBfHO6CiU&list=LLO-wEhhJhnwMsIN1I_-eD_Q&index=300 -->
