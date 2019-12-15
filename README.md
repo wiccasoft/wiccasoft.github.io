@@ -5,6 +5,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
+<!--bkz en iyi çöpü hangi belediyeler topluyor sorunsalı-->
 <!--bkz mansur yavaş vs ekrem hızlı -->
 <!--bkz cenk tosunun ama yol yabdılar demesi -->
 <!--bkz celal şengörün kanal istanbulu desteklemesi -->
