@@ -8,7 +8,6 @@
 
 [![Image](skynet/Screenshot_2019-12-15_10-34-07.png)]( https://www.youtube.com/watch?v=jPeheoBa2_Y  )
 
-
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
 
