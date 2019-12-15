@@ -5,6 +5,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_03-12-42.png)]( https://www.youtube.com/watch?v=Ksgily0Ln4U )
 
+<!-- 15 aralık 2019 bkz türklerin ab nin yarı refah seviyesinde yaşaması -->
 <!--bkz 15 aralık 2018 erdoganın amerikaya ne bu şiddet bu celal demesi -->
 <!--bkz 15 aralık 2019 fenerbahce sivasspor maçında verilmeyen penaltı -->
 <!--bkz amerikanın erdoğandan af dilemesi -->
