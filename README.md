@@ -4,6 +4,8 @@
 
 [![Image](skynet/Screenshot_2019-12-15_18-45-41.png)]( https://www.youtube.com/watch?v=h4rZE_J1beA  )
 
+[![Image](almanac/Global_Seed_Vault.jpg)]( https://www.seedvault.no/ )
+
 [![Image](skynet/Screenshot_2019-12-15_10-23-10.png)]( https://www.youtube.com/watch?v=PDboaDrHGbA  )
 
 [![Image](skynet/Screenshot_2019-12-15_10-34-07.png)]( https://www.youtube.com/watch?v=jPeheoBa2_Y  )
