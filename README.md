@@ -1,4 +1,3 @@
-<!-- https://www.suncalc.org/#/40.7805,-76.1133,3/2019.12.16/06:17/1/3 -->
 
 [![Image](skynet/Screenshot_2019-12-15_14-56-14.png)]( https://www.youtube.com/watch?v=tbCMNdxeh14 )
 
@@ -14,8 +13,6 @@
 
 
 [![Image](skynet/Screenshot_2019-12-15_04-42-33.png)]( https://www.theguardian.com/football/2019/dec/14/megan-rapinoe-endorses-elizabeth-warren-for-president )
-
-<!-- https://www.youtube.com/watch?v=uZxBfHO6CiU&list=LLO-wEhhJhnwMsIN1I_-eD_Q&index=300 -->
 
 
 [![Image](skynet/Screenshot_2019-12-15_04-02-49.png)]( https://www.youtube.com/watch?v=nLaV08oxHLU )
