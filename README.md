@@ -1,5 +1,5 @@
 
-[![Image](skynet/Screenshot_2019-12-16_12-11-43.png)]( https://www.youtube.com/watch?v=WysWKKiqWUA )
+[![Image](skynet/Screenshot_2019-12-16_12-02-20.png)]( https://www.youtube.com/watch?v=WysWKKiqWUA )
 
 [![Image](skynet/Screenshot_2019-12-16_10-41-44.png)]( https://www.youtube.com/watch?v=mxsJc4xGS58 )
 
