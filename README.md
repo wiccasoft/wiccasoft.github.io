@@ -1,4 +1,5 @@
-<!-- bkz miillet açken radamel falcao garcia anrtrenmanı izleyen ahpli -->
+<!--bkz radamel falcao garcia kaç mülyün yurü len emq -->
+<!-- bkz millet açken radamel falcao garcia antrenmanı izleyen ahpli -->
 <!-- bkz radamel falcao garcia açken milyon yuroluk kahvaltı yapan ahpli -->
 <!-- bkz radamel falcao garcia açken golf oynayıp ok atmak -->
 <!-- bkz radamel falcao garcia üj mülyun yurü para mı lan it demesi -->
