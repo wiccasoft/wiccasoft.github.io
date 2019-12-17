@@ -1,3 +1,4 @@
+<!--bkz abdurrahim albyrakın üjyüz mülyün yürü daha verip ramosu alalım önerisi -->
 <!-- bkz radamel falcao garcianın kazandığı mülyün yürüleri kıskanan fakir fenerliler -->
 <!-- bkz radamel falcao garcia kaç yüz mülyün yurü len emq -->
 <!-- bkz millet açken radamel falcao garcia antrenmanı izleyen ahpli -->
