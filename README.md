@@ -1,6 +1,7 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
-<!-- fathi terimin bkz falcaoyu mundar etmesi -->
+<!-- bkz fatih terimin melo kozunu oynayacam basın açıklması -->
+<!-- fatih terimin bkz falcaoyu mundar etmesi -->
 <!-- bkz abdurrahim albayrakın uj mulyun yuru daha toslayın ramosu alalım demesi -->
 <!-- bkz banu berberoğlunun yeni video atması -->
 <!-- bkz fatih terimin meloyla tuzlasporu bitirecem demesi -->
