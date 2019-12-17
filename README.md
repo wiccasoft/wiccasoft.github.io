@@ -1,3 +1,4 @@
+<!-- bkz fatih tezcanın falcao kozunu iyi oynaması -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- bkz bahçeli devletin topunuz gelindemesi -->
 <!-- bkz bahçeli devletin ben tek hepiniz demesi -->
