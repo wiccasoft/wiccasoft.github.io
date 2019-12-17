@@ -1,4 +1,5 @@
-<!--bkz radamel falcao gharcia nın ya hak diye ok atmayı öğrenmesi -->
+<!-- bkz radamel falcao garcia üj mülyun yurü para mı lan it demesi -->
+<!-- bkz radamel falcao gharcia nın ya hak diye ok atmayı öğrenmesi -->
 <!-- bkz radamel falcao garcia nın geceleri ay ışığında bilal erdoğan ile ok atması -->
 <!-- bkz 19 aralık 2019 fatih terimin radamel falcao garcia ya fırçayı kayması -->
 <!-- bkz 19 aralık 2019 radamel falcao garcia nın sesinin çıkmaması--> 
