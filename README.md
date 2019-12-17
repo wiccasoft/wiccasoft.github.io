@@ -1,43 +1,7 @@
 <!-- bkz devlet bahçelinin yeni partiler meclisi renklendirir paylaşımı -->
 <!-- bkz devlet bahçelinin yeni partiler meclisi renklendirir açıklması -->
 <!-- bkz tayyipin gürcü eşinin arap olduğu söylentisi iddiaları sorunsalı -->
-<!-- bkz tayyipin yeni partilere ödenek için sigara zammına hazırlanması -->
-<!-- bkz devlet bahçelinin yeni partiler meclis kulislerini renklendirir açıklaması -->
-<!-- bkz hitlerin tanklarla rusyaya saldırma sebebi sorunlası --<
-<!-- bkz damadın kyk borcu olan tatlı kızları affedecem açıklaması -->
-<!-- tayyip'in kpss skandalı hakkındaki açıklamaları -->
-<!-- bkz erdonun danışmanlık yardımcılığı maaşlarına zam yapması -->
-<!-- bkz bahçeli devletlinin topunuz gelin demesi -->
-<!-- bkz deep turkish webe girince düşen zeka seviyesi -->
-<!-- bkz melo kaç para len mq diyen fenerli -->
-<!-- bkz fatih termin melo kozunu doğru zamanda oynması  -->
-<!-- bkz fatih termin meloyla drogbayı fenerlilere salması -->
-<!-- bkz fatih terim efso soyunma odası konuşması -->
-<!-- bkz fatih altaylı fatih termin fatih tezcana destek çıkması -->
-<!-- bkz fatih tezcanın falcao kozunu iyi oynaması -->
-<!-- bkz erdonun daha sigaraya orkide zam yapmayacam demesi -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-<!-- bkz bahçeli devletin ben tek hepiniz demesi -->
-<!-- bkz devlet bahçelinin yeni partilere kudurması --> 
-<!-- bkz devlet bahçelinin tunus beka meselesidir açıklması -->
-<!-- radamel falcao garcia nın maç öncesi bilal erdoganla ok atması -->
-<!-- bkz fatih tezcanla fatih altaylının fatih terimi savunması -->
-<!-- bkz fatih terimin tuzla maçına salatalıkla gelmesi -->
-<!-- bkz fatih terimin melo drogba muslera kozunu iyi oynaması -->
-<!-- fatih terimin bkz falcaoyu mundar etmesi -->
-<!-- bkz abdurrahim albayrakın uj mulyun yuru daha toslayın ramosu alalım demesi -->
-<!-- bkz banu berberoğlunun yeni video atması -->
-<!-- bkz fatih terimin meloyla tuzlasporu bitirecem demesi -->
-<!-- bkz fatih terimin tuzlasporla bitmemiş işimiz var demesi -->
-<!-- bkz fatih tezcandan fatih terime işini yap uyarısı -->
-<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz adam gibi adam -->
-<!--bkz fatih terimin falcaoya attığı bakış -->
-<!--bkz iibf işletme bitirmiş adama müdürlük vermeyen işyeri -->
-<!--bkz tayyipin iibf diplomasını saklaması -->
-<!-- https://www.uludagsozluk.com/e/42570982/ bkz bir burhan altıntop kolay yetişmiy -->
-<!--bkz müdürlük yüksekokulu bitirmiş kalifiye müdür vs meslek lisesi mezunu müdür -->
-<!--bkz lise mezunu müdür vs üniversite mezunu müdür -->
-<!--bkz müdür naptın -->
 <!--bkz müdür bu buna konuş https://www.youtube.com/watch?v=RZggU7gRsWI -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
