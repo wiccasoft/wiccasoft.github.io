@@ -1,3 +1,4 @@
+<!-- bkz 19 aralık 2019 radamel falcao garcia nın sesinin çıkmaması--> 
 <!-- bkz devlet bahceliye sızan yapay zeka -->
 <!-- bkz 19 aralık 2019 bahceli geri vitesi -->
 <!-- bkz devlet bahçelinin yapay zekaya vatandaşlık verelim teklifi -->
