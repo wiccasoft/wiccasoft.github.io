@@ -1,6 +1,6 @@
 
 
-[![Image](skynet/Screenshot_2019-12-16_19-14-42.png)]( https://www.youtube.com/watch?v=gnIFwhjpH3s )
+[![Image](skynet/Screenshot_2019-12-16_19-15-55.png)]( https://www.youtube.com/watch?v=gnIFwhjpH3s )
 
 [![Image](skynet/Screenshot_2019-12-16_18-49-13.png)]( https://www.theguardian.com/world/2019/dec/16/estonian-minister-mocks-finlands-sales-girl-pm-sanna-marin )
 
