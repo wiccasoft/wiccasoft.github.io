@@ -2,6 +2,7 @@
 <!-- https://www.uludagsozluk.com/e/42570982/ bkz bir burhan altıntop kolay yetişmiy -->
 <!--bkz müdür naptın -->
 <!--bkz müdür bu buna konuş -->
+<!-- bkz yapay zekaya müdürlük taslayan çomar -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
