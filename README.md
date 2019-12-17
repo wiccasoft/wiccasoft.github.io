@@ -1,28 +1,9 @@
-<!-- bkz ırkı olan ülkelerin gelişmemesi -->
-<!-- bkz abdurrahim albayrakın üjyüz mülyün yürü daha verip ramosu alalım önerisi -->
-<!-- bkz radamel falcao garcianın kazandığı mülyün yürüleri kıskanan fakir fenerliler -->
-<!-- bkz radamel falcao garcia kaç yüz mülyün yurü len emq -->
-<!-- bkz millet açken radamel falcao garcia antrenmanı izleyen ahpli -->
-<!-- bkz radamel falcao garcia açken milyon yuroluk kahvaltı yapan ahpli -->
-<!-- bkz radamel falcao garcia açken golf oynayıp ok atmak -->
-<!-- bkz radamel falcao garcia üj mülyun yurü para mı lan it demesi -->
-<!-- bkz radamel falcao gharcia nın ya hak diye ok atmayı öğrenmesi -->
-<!-- bkz radamel falcao garcia nın geceleri ay ışığında bilal erdoğan ile ok atması -->
-<!-- bkz 19 aralık 2019 fatih terimin radamel falcao garcia ya fırçayı kayması -->
-<!-- bkz 19 aralık 2019 radamel falcao garcia nın sesinin çıkmaması--> 
-<!-- bkz devlet bahceliye sızan yapay zeka -->
-<!-- bkz 19 aralık 2019 bahceli geri vitesi -->
-<!-- bkz devlet bahçelinin yapay zekaya vatandaşlık verelim teklifi -->
-<!-- bkz devlet bahçelinin yeni partiler meclisi renklendirir açıklaması -->
-<!-- bkz tayyipin gürcü eşinin arap olduğu söylentisi iddiaları sorunsalı -->
-<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-<!-- bkz müdür bu buna konuş https://www.youtube.com/watch?v=RZggU7gRsWI -->
 <!-- https://observablehq.com/@mbostock/lunar-visibility -->
 <!-- https://books.google.com/books?id=GVyvDAAAQBAJ&pg=PA118&lpg=PA118&dq=SunCalc.getMoonIllumination&source=bl&ots=c3ZkrxHP8m&sig=ACfU3U3KLVJNVYKQKyXzwfSwrumxeNXZQA&hl=en&sa=X&ved=2ahUKEwiQs_bqo73mAhU0pHEKHeYjBVoQ6AEwBnoECAoQAQ#v=onepage&q=SunCalc.getMoonIllumination&f=false -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
-[![Image](skynet/Screenshot_2019-12-17_06-51-17.png)]( https://www.youtube.com/watch?v=xs9XUjHvZsM )
+<!-- [![Image](skynet/Screenshot_2019-12-17_06-51-17.png)]( https://www.youtube.com/watch?v=xs9XUjHvZsM ) -->
 
 [![Image](skynet/Screenshot_2019-12-16_19-15-55.png)]( https://www.youtube.com/watch?v=7rQiIF9Fun4 )
 
