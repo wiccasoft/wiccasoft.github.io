@@ -1,4 +1,4 @@
-
+<!-- bkz melo kaç para len mq diyen fenerli -->
 <!-- bkz fatih termin melo kozunu doğru zamanda oynması  -->
 <!-- bkz fatih termin meloyla drogbayı fenerlilere salması -->
 <!-- bkz fatih terim efso soyunma odası konuşması -->
