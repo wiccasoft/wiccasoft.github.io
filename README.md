@@ -1,5 +1,6 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
+<!--bkz iibf işletme bitirdim diyen adamı ceo yapmayan lise mezunu  -->
 <!--bkz iibf işletme bitirmiş adama müdürlük vermeyen işyeri -->
 <!--bkz tayyipin iibf diplomasını saklaması -->
 <!-- https://www.uludagsozluk.com/e/42570982/ bkz bir burhan altıntop kolay yetişmiy -->
