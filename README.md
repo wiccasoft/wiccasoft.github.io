@@ -1,3 +1,4 @@
+<!-- bkz hitlerin tanklarla rusyaya saldırma sebebi sorunlası --<
 <!-- bkz damadın kyk borcu olan tatlı kızları affedecem açıklaması -->
 <!-- tayyip'in kpss skandalı hakkındaki açıklamaları -->
 <!-- bkz erdonun danışmanlık yardımcılığı maaşlarına zam yapması -->
