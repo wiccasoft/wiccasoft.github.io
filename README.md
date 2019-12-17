@@ -1,5 +1,6 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
+<!-- bkz abdurrahim albayrakın uj mulyun yuru daha toslayın ramosu alalım demesi -->
 <!-- bkz banu berberoğlunun yeni video atması -->
 <!-- bkz fatih terimin meloyla tuzlasporu bitirecem demesi -->
 <!-- bkz fatih terimin tuzlasporla bitmemiş işimiz var demesi -->
