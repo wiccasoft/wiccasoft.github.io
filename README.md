@@ -1,10 +1,11 @@
-<!-- bkz erdonun daha sigaraya zam yapmayacam demesi -->
+
 <!-- bkz melo kaç para len mq diyen fenerli -->
 <!-- bkz fatih termin melo kozunu doğru zamanda oynması  -->
 <!-- bkz fatih termin meloyla drogbayı fenerlilere salması -->
 <!-- bkz fatih terim efso soyunma odası konuşması -->
 <!-- bkz fatih altaylı fatih termin fatih tezcana destek çıkması -->
 <!-- bkz fatih tezcanın falcao kozunu iyi oynaması -->
+<!-- bkz erdonun daha sigaraya orkide zam yapmayacam demesi -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- bkz bahçeli devletin topunuz gelindemesi -->
 <!-- bkz bahçeli devletin ben tek hepiniz demesi -->
