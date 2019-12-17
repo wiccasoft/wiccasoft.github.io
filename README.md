@@ -1,10 +1,10 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
+
 <!-- https://www.uludagsozluk.com/e/42570982/ bkz bir burhan altıntop kolay yetişmiy -->
 <!--bkz müdürlük yüksekokulu bitirmiş kalifiye müdür vs meslek lisesi mezunu müdür -->
 <!--bkz lise mezunu müdür vs üniversite mezunu müdür -->
 <!--bkz müdür naptın -->
-<!--bkz müdür bu buna konuş -->
-<!-- bkz yapay zekaya müdürlük taslayan çomar -->
+<!--bkz müdür bu buna konuş https://www.youtube.com/watch?v=RZggU7gRsWI -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
