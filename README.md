@@ -1,8 +1,8 @@
 <!-- bkz devlet bahceliye sızan yapay zeka -->
-<!-- bkz devlet bahçelinin yeni partiler meclisi renklendirir paylaşımı -->
+<!-- bkz devlet bahçelinin yeni partiler meclisi renklendirir açıklaması -->
 <!-- bkz tayyipin gürcü eşinin arap olduğu söylentisi iddiaları sorunsalı -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-<!--bkz müdür bu buna konuş https://www.youtube.com/watch?v=RZggU7gRsWI -->
+<!-- bkz müdür bu buna konuş https://www.youtube.com/watch?v=RZggU7gRsWI -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
