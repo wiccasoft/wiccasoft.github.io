@@ -1,4 +1,5 @@
-<!--bkz tayyipin yeni partilere ödenek için sigara zammına hazırlanması -->
+<!--bkz tayyipin gürcü eşinin arap olduğu söylentisi iddiaları sorunsalı -->
+<!-- bkz tayyipin yeni partilere ödenek için sigara zammına hazırlanması -->
 <!-- bkz devlet bahçelinin yeni partiler meclis kulislerini renklendirir açıklaması -->
 <!-- bkz hitlerin tanklarla rusyaya saldırma sebebi sorunlası --<
 <!-- bkz damadın kyk borcu olan tatlı kızları affedecem açıklaması -->
