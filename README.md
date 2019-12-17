@@ -1,4 +1,4 @@
-
+<!-- bkz deep turkish webe girince düşen zeka seviyesi -->
 <!-- bkz melo kaç para len mq diyen fenerli -->
 <!-- bkz fatih termin melo kozunu doğru zamanda oynması  -->
 <!-- bkz fatih termin meloyla drogbayı fenerlilere salması -->
