@@ -1,3 +1,4 @@
+<!-- bkz devlet bahçelinin yeni partiler meclis kulislerini renklendirir açıklaması -->
 <!-- bkz hitlerin tanklarla rusyaya saldırma sebebi sorunlası --<
 <!-- bkz damadın kyk borcu olan tatlı kızları affedecem açıklaması -->
 <!-- tayyip'in kpss skandalı hakkındaki açıklamaları -->
