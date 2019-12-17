@@ -3,7 +3,6 @@
 <!-- bkz fatih tezcandan fatih terime işini yap uyarısı -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz adam gibi adam -->
 <!--bkz fatih terimin falcaoya attığı bakış -->
-<!--bkz iibf işletme bitirdim diyen adamı ceo yapmayan lise mezunu  -->
 <!--bkz iibf işletme bitirmiş adama müdürlük vermeyen işyeri -->
 <!--bkz tayyipin iibf diplomasını saklaması -->
 <!-- https://www.uludagsozluk.com/e/42570982/ bkz bir burhan altıntop kolay yetişmiy -->
