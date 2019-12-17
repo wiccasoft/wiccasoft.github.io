@@ -1,6 +1,6 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
-<!-- bkz devlet bahçelinin ben tek hepiniz demesi -->
+<!-- bkz bahçeli devletin ben tek hepiniz demesi -->
 <!-- bkz devlet bahçelinin yeni partilere kudurması --> 
 <!-- bkz devlet bahçelinin tunus beka meselesidir açıklması -->
 <!-- radamel falcao garcia nın maç öncesi bilal erdoganla ok atması -->
