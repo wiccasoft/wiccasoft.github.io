@@ -1,3 +1,4 @@
+<!-- bkz fatih termin meloyla drogbayı fenerlilere salması -->
 <!-- bkz fatih terim efso soyunma odası konuşması -->
 <!-- bkz fatih altaylı fatih termin fatih tezcana destek çıkması -->
 <!-- bkz fatih tezcanın falcao kozunu iyi oynaması -->
