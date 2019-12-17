@@ -1,3 +1,4 @@
+<!-- bkz millet açken golf oynayıp ok atmak -->
 <!-- bkz radamel falcao garcia üj mülyun yurü para mı lan it demesi -->
 <!-- bkz radamel falcao gharcia nın ya hak diye ok atmayı öğrenmesi -->
 <!-- bkz radamel falcao garcia nın geceleri ay ışığında bilal erdoğan ile ok atması -->
