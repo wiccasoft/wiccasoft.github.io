@@ -1,4 +1,5 @@
 <!-- bkz devlet bahceliye sızan yapay zeka -->
+<!-- bkz 19 aralık 2019 bahceli geri vitesi -->
 <!-- bkz devlet bahçelinin yapay zekaya vatandaşlık verelim teklifi -->
 <!-- bkz devlet bahçelinin yeni partiler meclisi renklendirir açıklaması -->
 <!-- bkz tayyipin gürcü eşinin arap olduğu söylentisi iddiaları sorunsalı -->
