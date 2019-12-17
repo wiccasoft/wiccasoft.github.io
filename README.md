@@ -2,7 +2,7 @@
 
 <!-- bkz fatih tezcanla fatih altaylının fatih terimi savunması -->
 <!-- bkz fatih terimin tuzla maçına salatalıkla gelmesi -->
-<!-- bkz fatih terimin melo kozunu oynayacam basın açıklması -->
+<!-- bkz fatih terimin melo drogba muslera kozunu iyi oynaması -->
 <!-- fatih terimin bkz falcaoyu mundar etmesi -->
 <!-- bkz abdurrahim albayrakın uj mulyun yuru daha toslayın ramosu alalım demesi -->
 <!-- bkz banu berberoğlunun yeni video atması -->
