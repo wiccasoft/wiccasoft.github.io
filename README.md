@@ -1,5 +1,6 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
+<!-- bkz fatih terimin tuzlasporla bitmemeiş işimiz var demesi -->
 <!-- bkz fatih tezcandan fatih terime işini yap uyarısı -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz adam gibi adam -->
 <!--bkz fatih terimin falcaoya attığı bakış -->
