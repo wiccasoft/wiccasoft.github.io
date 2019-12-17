@@ -1,4 +1,4 @@
-<!-- bkz damadın kyk borcu olan kızları affedecem açıklaması -->
+<!-- bkz damadın kyk borcu olan tatlı kızları affedecem açıklaması -->
 <!-- tayyip'in kpss skandalı hakkındaki açıklamaları -->
 <!-- bkz erdonun danışmanlık yardımcılığı maaşlarına zam yapması -->
 <!-- bkz bahçeli devletlinin topunuz gelin demesi -->
