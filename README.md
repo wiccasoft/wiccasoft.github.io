@@ -5,7 +5,7 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- bkz müdür bu buna konuş https://www.youtube.com/watch?v=RZggU7gRsWI -->
 <!-- https://observablehq.com/@mbostock/lunar-visibility -->
-<!-- https://books.google.com.se/books?id=GVyvDAAAQBAJ&pg=PA118&lpg=PA118&dq=SunCalc.getMoonIllumination&source=bl&ots=c3ZkrxHP8m&sig=ACfU3U3KLVJNVYKQKyXzwfSwrumxeNXZQA&hl=en&sa=X&ved=2ahUKEwiQs_bqo73mAhU0pHEKHeYjBVoQ6AEwBnoECAoQAQ#v=onepage&q=SunCalc.getMoonIllumination&f=false -->
+<!-- https://books.google.com/books?id=GVyvDAAAQBAJ&pg=PA118&lpg=PA118&dq=SunCalc.getMoonIllumination&source=bl&ots=c3ZkrxHP8m&sig=ACfU3U3KLVJNVYKQKyXzwfSwrumxeNXZQA&hl=en&sa=X&ved=2ahUKEwiQs_bqo73mAhU0pHEKHeYjBVoQ6AEwBnoECAoQAQ#v=onepage&q=SunCalc.getMoonIllumination&f=false -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
