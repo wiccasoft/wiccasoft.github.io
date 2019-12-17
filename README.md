@@ -1,6 +1,6 @@
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
-<!-- bk< fatih tezcanla fatih altaylının fatih terimim savunması -->
+<!-- bkz fatih tezcanla fatih altaylının fatih terimi savunması -->
 <!-- bkz fatih terimin tuzla maçına salatalıkla gelmesi -->
 <!-- bkz fatih terimin melo kozunu oynayacam basın açıklması -->
 <!-- fatih terimin bkz falcaoyu mundar etmesi -->
