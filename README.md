@@ -1,4 +1,4 @@
-<!-- bkz bahçeli devletin topunuz gelindemesi -->
+<!-- bkz bahçeli devletlinin topunuz gelin demesi -->
 <!-- bkz deep turkish webe girince düşen zeka seviyesi -->
 <!-- bkz melo kaç para len mq diyen fenerli -->
 <!-- bkz fatih termin melo kozunu doğru zamanda oynması  -->
