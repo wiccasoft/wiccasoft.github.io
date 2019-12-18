@@ -1,5 +1,5 @@
 
-
+<!-- https://www.uludagsozluk.com/k/g%C3%B6khan-%C3%A7%C4%B1ra/&w=bg bkz selin ciğercinin kocası -->
 
 [![Image](skynet/Screenshot_2019-12-18_04-33-51.png)]( https://www.youtube.com/watch?v=db5f-A-vSyw )
 <!-- https://www.youtube.com/watch?v=BdzZvhNc5a8&list=RDzIFm8TYDzFE&index=12 -->
