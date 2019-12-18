@@ -2,45 +2,6 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
-<!-- bkz tayyip tr yi batırırken keyifle seyretmek -->
-<!-- bkz demirtaşın misvak dergide işe başlaması -->
-<!-- bkz tayyibin ben f-16 yla saldırıyorum beyler demesi -->
-<!-- bkz arap gökhan ın gürcü tayyibi siklememesi -->
-<!-- bkz arap gökhan ın türkiyeden korkmuyoruz sıcak sıcak sikebiliriz demesi -->
-<!-- bkz arap gökhan ın misvak dergiyle taşşak geçmesi -->
-<!-- bkz selahattin demirtaşın demir ambargosu götünüze girdi mi demesi -->
-<!-- bkz gökhan aktaş barutçu nun serdar06 yavşağını siklememesi -->
-<!-- bkz recebin askerlik anılarını hiç anlatmaması https://www.youtube.com/watch?v=2V7jLQgW4mk -->
-<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk ümmeti ağlatamayacaksınız-->
-<!-- https://www.youtube.com/watch?v=zEvF-2-0LWk ümmet ağliy -->
-<!-- https://www.youtube.com/watch?v=dKhgGX-jwTM ablalar 2017 -->
-<!-- bkz recep tayip doğanın ama beton döktük sıcak asfalt yaptık demesi -->
-<!-- bkz dava adamı recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
-<!-- bkz recep tayyip doğanın yavaş dön ümmet reis yetişemiyo demesi -->
-<!-- bkz recep tayyip doğanın 100% dışa bağımlı tr istemesinin asıl sebebi -->
-<!-- bkz recep tayyip doğanın kağıt şeker ve buğdayı bile dışardan getirtmesi -->
-<!-- bkz dış mihrakların tr yi kıskanması -->
-
-<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacasınız ümmetin ezanını susturamayacanız
--->
-<!-- bkz binaliye benzeyen adam  https://www.youtube.com/watch?v=TWIET1Ehz_Y -->
-<!-- bkz recep tayyip doğana benzeyen adam vs mustafa kamal doğana benzeyen adam -->
-<!-- bkz recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
-<!-- bkz recep tayyip doğanın yavaş dön ümmet reis yetişemiyo demesi -->
-<!-- bkz recep tayyip doğanın 2023 hedeflerine yaklaşması --> 
-<!-- bkz selocanın siyasete dönebilirim havai fişekleri çakması -->
-<!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
-<!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
-<!-- bkz 2009/3 devrelerin büyümesi https://www.youtube.com/watch?v=ueptJlYwka0 -->
-
-<!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
-<!-- bkz tayyip in tr yi ithalata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
-<!-- bkz ethem sancakın sarıların ethem isyanını övmesi -->
-<!-- bkz bahçelinin finim demek ayıp mıdır ne mutlu finim diyene demesi -->
-<!-- bkz demirtaşın paylaştığı re re ra tayyip çok yaşa  gas saray gas saray cimbom bom videosu -->
-<!-- bkz radamel falcao garcia nın selin ciğercinin erkek hali gibi bir kısmet araması -->
-
-
 [![Image](skynet/Screenshot_2019-12-18_07-22-10.png)]( https://www.youtube.com/watch?v=14EztMXh5vQ )
 
 [![Image](skynet/Screenshot_2019-12-18_04-33-51.png)]( https://www.youtube.com/watch?v=db5f-A-vSyw )
