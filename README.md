@@ -1,4 +1,4 @@
-<!-- bkz 2009/3 devrelerin büyümesi -->
+<!-- bkz 2009/3 devrelerin büyümesi https://www.youtube.com/watch?v=ueptJlYwka0 -->
 <!-- bkz selin ciğercinin gökhan çıranın askerlik arkadaşı olduğu iddaları -->
 <!-- bkz tayyip in tr yi ithalata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
 <!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
