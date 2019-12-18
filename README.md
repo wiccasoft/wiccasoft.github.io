@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
+<!--bkz ama sıcak aslfat yaptı diyen ergene al topkek ye demek -->
 <!--bkz futbolculara 31 çeken bir ergenin ofsaytı anlatmaya çalışması -->
 <!--bkz ekşici ibneye bir sıcak bir soğuk davranan homofobik forvet -->
 <!--bkz fatih terimin radamel falcao garciayı eliyle beslemesini kıskanan fenerliler -->
