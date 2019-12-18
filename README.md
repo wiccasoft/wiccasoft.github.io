@@ -8,6 +8,7 @@
 <!--bkz 13.nesil ekşicilerle askerde bot bağlamış olmamız enseye tokat göte parmak takılmamız -->
 <!--bkz 41 yaşındaki internetten tanıştığı adama amca diyen ekşici oğlan -->
 <!--https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz neslican tay vs canan karatay -->
+<!-- https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-ofsayt%C4%B1-anlamamas%C4%B1/ bkz kafalarının basmaması -->
 <!--https://www.uludagsozluk.com/k/ofsayt-kalkarsa-futbolda-neler-olabilir/&w=bg bkz yok daha neler-->
 <!--https://www.uludagsozluk.com/k/rte-nin-kanal-istanbul-bile%C5%9Fik-kaplar-a%C3%A7%C4%B1klamas%C4%B1/ -->
 <!--https://www.uludagsozluk.com/k/rte-nin-hocas%C4%B1n%C4%B1n-mehmet-akif-ersoy-a-kafir-demesi/ -->
