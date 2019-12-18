@@ -1,5 +1,16 @@
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
-<!-- bkz demirtaşın hapisten paylaştığı suomi finland videosu -->
+
+<!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
+<!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
+<!-- bkz 2009/3 devrelerin büyümesi https://www.youtube.com/watch?v=ueptJlYwka0 -->
+
+<!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
+<!-- bkz tayyip in tr yi ithalata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
+<!-- bkz ethem sancakın sarıların ethem isyanını övmesi -->
+<!-- bkz bahçelinin finim demek ayıp mıdır ne mutlu finim diyene demesi -->
+<!-- bkz demirtaşın paylaştığı re re ra tayyip çok yaşa  gas saray gas saray cimbom bom videosu -->
+<!-- bkz radamel falcao garcia nın selin ciğercinin erkek hali gibi bir kısmet araması -->
+
 
 [![Image](skynet/Screenshot_2019-12-18_07-22-10.png)]( https://www.youtube.com/watch?v=14EztMXh5vQ )
 
