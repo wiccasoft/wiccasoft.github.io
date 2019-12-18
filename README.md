@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz atatürke benzeyen adam  https://www.youtube.com/watch?v=TWIET1Ehz_Y -->
 <!-- bkz binali yıldırıma benzeyen adam vs mustafa kamal doğana benzeyen adam -->
 <!-- bkz recep tayyip doğana benzeyen adam vs mustafa kamal doğana benzeyen adam -->
 <!-- bkz tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
