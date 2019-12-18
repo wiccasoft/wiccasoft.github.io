@@ -1,6 +1,8 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
+<!--bkz fatih terimin meloyu salması -->
+<!-- https://www.uludagsozluk.com/k/fatih-terim-in-bir-kad%C4%B1n%C4%B1-tartaklamas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/e/42576890/ bkz eziklik -->
 <!--bkz ama beton döktü asfalt yaptı diyen ergeni üzmek -->
 <!--bkz gökhan aktaş barutçunun gazsarayı siklememesi -->
