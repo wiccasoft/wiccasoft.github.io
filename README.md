@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz arap gökhanın türkiyeden korkmuyoruz sıcak sıcak sikebiliriz demesi -->
 <!-- bkz arap gökhan ın misvak dergiyle taşşak geçmesi -->
 <!-- bkz selahattin demirtaşın demir ambargosu götünüze girdi mi demesi -->
 <!-- bkz gökhan aktaş barutçu nun serdar06 yavşağını siklememesi -->
