@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
+<!--bkz 13.nesil ekşicilerle askerde bot bağlamış olmamız enseye tokat göte parmak takılmamız -->
 <!--bkz 41 yaşındaki adama amca diyen ekşici oğlan -->
 <!--https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz neslican tay vs canan karatay -->
 <!--https://www.uludagsozluk.com/k/ofsayt-kalkarsa-futbolda-neler-olabilir/&w=bg -->
