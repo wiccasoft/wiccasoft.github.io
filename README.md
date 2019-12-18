@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz tayyibin ben f-16 yla saldırıyorum n-beyler demesi -->
 <!-- bkz arap gökhan ın gürcü tayyibi siklememesi -->
 <!-- bkz arap gökhan ın türkiyeden korkmuyoruz sıcak sıcak sikebiliriz demesi -->
 <!-- bkz arap gökhan ın misvak dergiyle taşşak geçmesi -->
