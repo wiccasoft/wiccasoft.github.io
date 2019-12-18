@@ -1,3 +1,4 @@
+<!-- bkz gökhan çıranın gs ye tuzlanmamış hıyar göndermesi -->
 <!-- bkz ethem sancakın sarıların ethem isyanını övmesi -->
 <!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
 <!-- bkz bahçelinin finim demek ayıp mıdır ne mutlu finim diyene demesi -->
