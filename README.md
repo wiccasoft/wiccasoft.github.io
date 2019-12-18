@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!--bkz gökhan aktaş barutçu nun serdar06 yavşağını siklememesi -->
 <!-- bkz ankaranın yavşağı serdar06 nın gökhan aktaşa meydan okuması -->
 <!-- bkz gökhan aktaşın türkiyeden korkmuyorum sıcak çatışmaya hazırım açıklaması -->
 <!-- bkz abdullah avcı vs koray avcı -->
