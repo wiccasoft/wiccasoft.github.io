@@ -2,7 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
-
+<!-- bkz gökhan aktaşın kargo solistine zevzek demesi --> 
 <!-- bkz abdullah avcı vs koray avcı -->
 <!-- bkz koray avcı nın beni kargo solisti koray la karıştırmayın demesi -->
 <!-- bkz koray avcının paylaştığı finliyim ezelden avcıyım dededen paylaşımı -->
