@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
+<!--https://www.uludagsozluk.com/k/rte-nin-hocas%C4%B1n%C4%B1n-mehmet-akif-ersoy-a-kafir-demesi/ hadi ak boylar göreve -->
 <!--bkz rte nin halkı 10 yılda 3 kat fakirleştirmesi bileşik kaplar açıklaması -->
 <!--bkz bir milyon verseler götünü drogbaya siktirir misin sorun salı -->
 <!--bkz gazsarayın 500 milyon borcunu ben öderim diyen aslan taraftar -->
