@@ -6,7 +6,6 @@
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
-<!-- [![Image](skynet/Screenshot_2019-12-17_06-51-17.png)]( https://www.youtube.com/watch?v=xs9XUjHvZsM ) -->
 
 [![Image](skynet/Screenshot_2019-12-16_19-15-55.png)]( https://www.youtube.com/watch?v=7rQiIF9Fun4 )
 
