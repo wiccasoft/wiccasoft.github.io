@@ -1,3 +1,5 @@
+<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk ezanları susuturamayacasınız ümmeti üzmeyecesiniz-->
+
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacasınız ümmetin ezanını susturamayacanız
