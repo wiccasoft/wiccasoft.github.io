@@ -1,3 +1,4 @@
+<!-- bkz sadık çiftpınar alayına fener gidere gider demesi -->
 <!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
 <!-- bkz ethem sancakın sarıların ethem isyanını övmesi -->
