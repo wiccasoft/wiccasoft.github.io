@@ -1,4 +1,5 @@
-<!--bkz demirtaşın paylaştığı suomi finland kutlaması -->
+<!-- bkz radamel falcao garcia nın selin ciğercinin erkek hali gibi bir kısmet araması -->
+<!-- bkz demirtaşın paylaştığı suomi finland kutlaması -->
 <!-- bkz 40 yaşından sonra pasif sikecek kadare alçalmak -->
 <!-- bkz selin ciğercinin erkek halinin uludaki pasiflere benzemesi -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6khan-%C3%A7%C4%B1ra/&w=bg bkz selin ciğercinin kocası -->
