@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
-<!--bkz annesinden izin almadan adıma başlık açan ekşici -->
+<!--bkz annesinden izin almadan adıma başlık amaya çalışan ekşici ergenin dramı -->
 <!--bkz 13.nesil ekşicilerle askerde bot bağlamış olmamız enseye tokat göte parmak takılmamız -->
 <!--bkz 41 yaşındaki internetten tanıştığı adama amca diyen ekşici oğlan -->
 <!--https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz neslican tay vs canan karatay -->
