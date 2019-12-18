@@ -3,9 +3,6 @@
 <!-- bkz darudeoğlunun keşke finlandiya kazanmasaydı demesi -->
 <!-- bkz demirtaşın paylaştığı re re ra tayyip çok yaşa  gas saray gas saray cimbom bom videosu -->
 <!-- bkz radamel falcao garcia nın selin ciğercinin erkek hali gibi bir kısmet araması -->
-<!-- bkz demirtaşın paylaştığı suomi finland kutlaması -->
-<!-- bkz 40 yaşından sonra pasif sikecek kadare alçalmak -->
-<!-- bkz selin ciğercinin erkek halinin uludaki pasiflere benzemesi -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6khan-%C3%A7%C4%B1ra/&w=bg bkz selin ciğercinin kocası -->
 
 [![Image](skynet/Screenshot_2019-12-18_04-33-51.png)]( https://www.youtube.com/watch?v=db5f-A-vSyw )
