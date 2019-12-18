@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=FT3zuBuqnsk ümmeti ağlatamayacaksınız-->
 <!-- https://www.youtube.com/watch?v=zEvF-2-0LWk ümmet ağliy -->
 <!-- https://www.youtube.com/watch?v=dKhgGX-jwTM ablalar 2017 -->
-<!-- bkz görev adamı recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
+<!-- bkz dava adamı recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
