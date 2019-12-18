@@ -1,9 +1,9 @@
+<!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
+<!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
 <!-- bkz 2009/3 devrelerin büyümesi https://www.youtube.com/watch?v=ueptJlYwka0 -->
 <!-- bkz tayyip in tr yi ithalata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
 <!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
-<!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
 <!-- bkz ethem sancakın sarıların ethem isyanını övmesi -->
-<!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
 <!-- bkz bahçelinin finim demek ayıp mıdır ne mutlu finim diyene demesi -->
 <!-- bkz ethem sancakın meclis başkanının üstüne yürümesi -->
 <!-- bkz darudeoğlunun keşke finlandiya kazanmasaydı demesi -->
