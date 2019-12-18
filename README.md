@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz koray avcı nın beni kargo solisti koray la karıştırmayın demesi --->
 <!-- bkz abdullah avcı vs koray avcı -->
 <!-- bkz koray avcının paylaştığı finliyim ezelden avcıyım dededen paylaşımı -->
 <!-- bkz recebin askerlik anılarını hiç anlatmaması https://www.youtube.com/watch?v=2V7jLQgW4mk -->
