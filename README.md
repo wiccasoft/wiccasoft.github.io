@@ -11,7 +11,6 @@
 <!-- bkz recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
 <!-- bkz recep tayyip doğanın yavaş dön ümmet reis yetişemiyo demesi -->
 <!-- bkz recep tayyip doğanın 2023 hedeflerine çok yaklaşması --> 
-<!-- bkz bkz recep tayyip doğanın selocanın çizgisini beğeniyorum açıklaması -->
 <!-- bkz selocanın siyasete dönebilirim havai fişekleri çakması -->
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
 <!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
