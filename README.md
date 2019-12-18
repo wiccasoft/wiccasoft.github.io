@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk ezanları susuturamayacasınız ümmeti üzmeyecesiniz-->
+<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk ümmeti ağlatamayacksınız-->
 <!-- https://www.youtube.com/watch?v=zEvF-2-0LWk ümmet ağliy -->
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
