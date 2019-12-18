@@ -8,7 +8,7 @@
 -->
 <!-- bkz binaliye benzeyen adam  https://www.youtube.com/watch?v=TWIET1Ehz_Y -->
 <!-- bkz recep tayyip doğana benzeyen adam vs mustafa kamal doğana benzeyen adam -->
-<!-- bkz tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
+<!-- bkz recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
 <!-- bkz recep tayyip doğanın yavaş dön ümmet reis yetişemiyo demesi -->
 <!-- bkz recep tayyip doğanın 2023 hedeflerine çok yaklaşması --> 
 <!-- bkz bkz recep tayyip doğanın selocanın çizgisini beğeniyorum açıklaması -->
