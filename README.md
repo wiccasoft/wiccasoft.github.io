@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz recep tayyip doğanın 2023 hedeflerine yaklaşması --> 
 <!-- bkz bkz recep tayyip doğanın selocanın çizgisini beğeniyorum açıklaması -->
 <!-- bkz selocanın siyasete dönebilirim havai fişekleri çakması -->
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
