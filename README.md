@@ -1,4 +1,5 @@
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
+<!-- bkz demirtaşın hapisten paylaştığı suomi finland videosu -->
 
 [![Image](skynet/Screenshot_2019-12-18_07-22-10.png)]( https://www.youtube.com/watch?v=14EztMXh5vQ )
 
