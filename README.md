@@ -1,4 +1,4 @@
-
+<!-- bkz selin ciğercinin gökhan çıranın askerlik arkadaşı olduğu iddaları -->
 <!-- bkz tayyip in tr yi ithalata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
 <!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
