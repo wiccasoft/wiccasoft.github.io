@@ -7,6 +7,7 @@
 <!-- https://www.youtube.com/watch?v=dKhgGX-jwTM ablalar 2017 -->
 <!-- bkz dava adamı recep tayyip doğanın tr nin refah seviyesini 10 senede 3 kat azaltması --> 
 <!-- bkz recep tayyip doğanın yavaş dön ümmet reis yetişemiyo demesi -->
+<!-- bkz recep tayyip doğanın 100% dışa bağımlı tr istemesinin asıl sebebi -->
 
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ başaramayacasınız ümmetin ezanını susturamayacanız
 -->
