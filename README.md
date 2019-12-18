@@ -1,3 +1,4 @@
+<!-- bkz ethem sancakın meclis başkanının üstüne yürümesi -->
 <!-- bkz darudeoğlunun keşke finlandiya kazanmasaydı demesi -->
 <!-- bkz demirtaşın paylaştığı re re ra tayyip çok yaşa  gas saray gas saray cimbom bom videosu -->
 <!-- bkz radamel falcao garcia nın selin ciğercinin erkek hali gibi bir kısmet araması -->
