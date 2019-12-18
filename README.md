@@ -1,7 +1,8 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
-<!-- https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz neslican tay vs canan karatay -->
+<!--bkz 41 yaşındaki adama amca diyen ekşici oğlan -->
+<!--https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz neslican tay vs canan karatay -->
 <!--https://www.uludagsozluk.com/k/ofsayt-kalkarsa-futbolda-neler-olabilir/&w=bg -->
 <!--https://www.uludagsozluk.com/k/rte-nin-kanal-istanbul-bile%C5%9Fik-kaplar-a%C3%A7%C4%B1klamas%C4%B1/ -->
 <!--https://www.uludagsozluk.com/k/rte-nin-hocas%C4%B1n%C4%B1n-mehmet-akif-ersoy-a-kafir-demesi/ -->
