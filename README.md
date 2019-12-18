@@ -1,3 +1,5 @@
+<!-- https://www.youtube.com/watch?v=BdzZvhNc5a8&list=RDzIFm8TYDzFE&index=12 -->
+<!-- https://www.youtube.com/watch?v=ZqDQTb4rQ4g -->
 
 [![Image](skynet/Screenshot_2019-12-17_17-10-45.png)]( https://www.youtube.com/watch?v=zIFm8TYDzFE )
 
