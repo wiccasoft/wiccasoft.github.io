@@ -1,30 +1,6 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
-<!--bkz ama eti şekeri kağıdı buğdayı da dışardan alıyoruz diyen ergene aferin oğlum demek -->
-<!--bkz ama rusyadan 3 milyar dolar silah aldık diyen ergeni mancınıkla rusyaya fırlatmak -->
-<!--bkz ama sıcak aslfat yaptı diyen ergene al topkek ye beynine kan gitsin demek -->
-<!--bkz futbolculara 31 çeken bir ergenin ofsaytı anlatmaya çalışması -->
-<!--bkz ekşici ibneye bir sıcak bir soğuk davranan homofobik forvet -->
-<!--bkz fatih terimin radamel falcao garciayı eliyle beslemesini kıskanan fenerliler -->
-<!--bkz rte nin halkı 10 yılda 3 kat fakirleştirmesi bileşik kaplar açıklaması -->
-<!--bkz bir milyon verseler götünü drogbaya siktirir misin sorun salı -->
-<!--bkz gazsarayın 500 milyon borcunu ben öderim diyen aslan taraftar -->
-<!--bkz deep turkish web teki ergenlerin güldürmesi -->
-
-<!--bkz topkek yiyip sarı dişleriyle futbolculara 31 çeken bir ekşici olmak  -->
-<!--bkz ekşici ergenlerin topkek karşılığı ekşide çalışmaya başlaması -->
-<!--bkz annesinden izin almadan adıma başlık amaya çalışan ekşici ergenin dramı -->
-<!--bkz 13.nesil ekşicilerle askerde bot bağlamış olmamız enseye tokat göte parmak takılmamız -->
-<!--bkz 41 yaşındaki internetten tanıştığı adama amca diyen ekşici oğlan -->
-<!--https://www.uludagsozluk.com/k/neslican-tay/&w=bg bkz neslican tay vs canan karatay -->
-<!-- https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-ofsayt%C4%B1-anlamamas%C4%B1/ bkz kafalarının basmaması -->
-<!--https://www.uludagsozluk.com/k/ofsayt-kalkarsa-futbolda-neler-olabilir/&w=bg bkz yok daha neler-->
-<!--https://www.uludagsozluk.com/k/rte-nin-kanal-istanbul-bile%C5%9Fik-kaplar-a%C3%A7%C4%B1klamas%C4%B1/ -->
-<!--https://www.uludagsozluk.com/k/rte-nin-hocas%C4%B1n%C4%B1n-mehmet-akif-ersoy-a-kafir-demesi/ -->
-<!--https://www.uludagsozluk.com/k/t%C3%BCrkiye-den-korkmuyoruz-s%C4%B1cak-%C3%A7at%C4%B1%C5%9Fmaya-da-haz%C4%B1r%C4%B1z/&w=gdb kz vuruşmaya hazırız reis emrin yeter bi işaretinle dalarım ben -->
-
-
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
 
@@ -39,7 +15,6 @@
 [![Image](skynet/Screenshot_2019-12-17_17-10-45.png)]( https://www.youtube.com/watch?v=F7_LTvwGLv0 )
 
 <!-- https://observablehq.com/@mbostock/lunar-visibility -->
-<!-- https://books.google.com/books?id=GVyvDAAAQBAJ&pg=PA118&lpg=PA118&dq=SunCalc.getMoonIllumination&source=bl&ots=c3ZkrxHP8m&sig=ACfU3U3KLVJNVYKQKyXzwfSwrumxeNXZQA&hl=en&sa=X&ved=2ahUKEwiQs_bqo73mAhU0pHEKHeYjBVoQ6AEwBnoECAoQAQ#v=onepage&q=SunCalc.getMoonIllumination&f=false -->
 
 [![Image](skynet/Screenshot_2019-12-17_11-01-43.png)]( https://www.youtube.com/watch?v=RZggU7gRsWI )
 
