@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz tayyip tr yi batırırken keyifle seyretmek -->
 <!-- bkz demirtaşın misvak dergide işe başlaması -->
 <!-- bkz tayyibin ben f-16 yla saldırıyorum beyler demesi -->
 <!-- bkz arap gökhan ın gürcü tayyibi siklememesi -->
