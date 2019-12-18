@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!--bkz recep tayyip erdoğanın yahudi sermayesinin emirlerine uyması -->
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
 <!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
 <!-- bkz 2009/3 devrelerin büyümesi https://www.youtube.com/watch?v=ueptJlYwka0 -->
