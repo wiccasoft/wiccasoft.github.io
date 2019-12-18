@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+<!-- bkz koray avcının paylaştığı finliyem ezelden ecelim tezekten paylaşımı-->
 <!-- bkz recebin askerlik anılarını hiç anlatmaması https://www.youtube.com/watch?v=2V7jLQgW4mk -->
 <!-- https://www.youtube.com/watch?v=FT3zuBuqnsk ümmeti ağlatamayacaksınız-->
 <!-- https://www.youtube.com/watch?v=zEvF-2-0LWk ümmet ağliy -->
