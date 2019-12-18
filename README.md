@@ -1,3 +1,4 @@
+<!-- bkz gökhan çıranın yengeyle havuza girmesi -->
 <!-- bkz bahçelinin finim demek ayıp mıdır ne mutlu finim diyene demesi -->
 <!-- bkz ethem sancakın meclis başkanının üstüne yürümesi -->
 <!-- bkz darudeoğlunun keşke finlandiya kazanmasaydı demesi -->
