@@ -1,4 +1,4 @@
-
+<!--bkz ethem sancakın sarıların ethem isyanını övmesi -->
 <!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
 <!-- bkz bahçelinin finim demek ayıp mıdır ne mutlu finim diyene demesi -->
 <!-- bkz ethem sancakın meclis başkanının üstüne yürümesi -->
