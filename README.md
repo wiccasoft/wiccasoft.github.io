@@ -1,3 +1,5 @@
+[![Image](skynet/Screenshot_2019-12-18_07-10-03.png)]( https://www.youtube.com/watch?v=14EztMXh5vQ )
+
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
 <!-- bkz gökhan çıranın selini üzenin çırasını yakarım demesi -->
 <!-- bkz 2009/3 devrelerin büyümesi https://www.youtube.com/watch?v=ueptJlYwka0 -->
