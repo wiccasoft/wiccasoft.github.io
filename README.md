@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
-<!--bkz topkek yiyp futbolculara 31 çeken bir ekşici olmak -->
+<!--bkz topkek yiyip sarı dişleriyle futbolculara 31 çeken bir ekşici olmak  -->
 <!--bkz ekşici ergenlerin topkek karşılığı ekşide çalışmaya başlaması -->
 <!--bkz annesinden izin almadan adıma başlık amaya çalışan ekşici ergenin dramı -->
 <!--bkz 13.nesil ekşicilerle askerde bot bağlamış olmamız enseye tokat göte parmak takılmamız -->
