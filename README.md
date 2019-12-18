@@ -3,12 +3,14 @@
 
 [![Image](skynet/Screenshot_2019-12-18_07-45-33.png)]( https://www.youtube.com/watch?v=2DMpqplvADQ )
 
+
 [![Image](skynet/Screenshot_2019-12-18_07-22-10.png)]( https://www.youtube.com/watch?v=14EztMXh5vQ )
 
 [![Image](skynet/Screenshot_2019-12-18_04-33-51.png)]( https://www.youtube.com/watch?v=db5f-A-vSyw )
 <!-- https://www.youtube.com/watch?v=BdzZvhNc5a8&list=RDzIFm8TYDzFE&index=12 -->
 <!-- https://www.youtube.com/watch?v=ZqDQTb4rQ4g -->
 <!-- https://www.youtube.com/watch?v=L4DxP0irRy8 since 1907-->
+
 
 [![Image](skynet/Screenshot_2019-12-17_17-10-45.png)]( https://www.youtube.com/watch?v=F7_LTvwGLv0 )
 
