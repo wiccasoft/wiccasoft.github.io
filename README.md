@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
+<!--https://www.uludagsozluk.com/k/ofsayt-kalkarsa-futbolda-neler-olabilir/&w=bg -->
 <!--https://www.uludagsozluk.com/k/rte-nin-kanal-istanbul-bile%C5%9Fik-kaplar-a%C3%A7%C4%B1klamas%C4%B1/ -->
 <!--https://www.uludagsozluk.com/k/rte-nin-hocas%C4%B1n%C4%B1n-mehmet-akif-ersoy-a-kafir-demesi/ -->
 <!--https://www.uludagsozluk.com/k/t%C3%BCrkiye-den-korkmuyoruz-s%C4%B1cak-%C3%A7at%C4%B1%C5%9Fmaya-da-haz%C4%B1r%C4%B1z/&w=gdb kz vuruşmaya hazırız reis emrin yeter bi işaretinle dalarım ben -->
