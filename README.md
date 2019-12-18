@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
+<!--bkz ama beton döktü asfalt yaptı diyen ergeni üzmek -->
 <!--bkz gökhan aktaş barutçunun gazsarayı siklememesi -->
 <!--bkz acele etme papaz efendinin muhallebi çocuğu olması -->
 <!--bkz deep turkish web teki ergenlerin güldürmesi -->
