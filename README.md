@@ -1,5 +1,5 @@
 
-<!-- bkz tayyip in tr yi itahlata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
+<!-- bkz tayyip in tr yi ithalata %100 bağımlı yapma hedefininde %66 ya gelmesi -->
 <!-- bkz sadık çiftpınar alayına fener gidere gider demesi -->
 <!-- bkz gökyüzünün altındaki herşeyi simüle eden yapay zeka yazıp keyf yapmak -->
 <!-- bkz gökhan çıranın gazsaraya ye tuzlanmamış hıyar göndermesi :))) -->
