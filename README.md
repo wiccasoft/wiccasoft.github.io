@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
 
-<!--bkz ama şekeri kağıdı buğdayı da dışardan alıyoruz diyen ergene aferin oğlum demek -->
+<!--bkz ama eti şekeri kağıdı buğdayı da dışardan alıyoruz diyen ergene aferin oğlum demek -->
 <!--bkz ama rusyadan 3 milyar dolar silah aldık diyen ergeni mancınıkla rusyaya fırlatmak -->
 <!--bkz ama sıcak aslfat yaptı diyen ergene al topkek ye beynine kan gitsin demek -->
 <!--bkz futbolculara 31 çeken bir ergenin ofsaytı anlatmaya çalışması -->
