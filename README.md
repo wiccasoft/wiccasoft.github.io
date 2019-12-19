@@ -1,6 +1,6 @@
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
-<!--bkz mucize doktor dizisindeki böcek suratlı ergen -->
+<!--bkz mucize doktor dizisindeki böcek suratlı ergenin rte şeklinde gülen surata bakması -->
 <!--bkz tayyipin kasatçı kamala verdiği efso ayar -->
 <!--bkz tayyipin saraya giden ismi açıklaması -->
 <!--bkz kasetçi kamalın akp ye celal kılıççıyı bırakıp kaçması -->
