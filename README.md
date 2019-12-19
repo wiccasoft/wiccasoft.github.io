@@ -1,6 +1,7 @@
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
 <!--bkz tayyipin kasatçı kamala verdiği efso ayar -->
+<!--bkz kasetçi kamalın sskyı batırıp kaçması -->
 <!--bkz rte nin nasıl böyle bir imanı boğarsınız şiiri -->
 <!--bkz elinde kaset olan bay kamalın yatırımcıları tahdit etmesi -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
