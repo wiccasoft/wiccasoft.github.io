@@ -5,6 +5,7 @@
 <!--bkz gözleri rte şeklinde gülen surat bokunda boğulunca notification atın -->
 <!--bkz içkisi sigarası kumarı ve çapkınlığı olan erkek was here-->
 
+
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
 <!--bkz falcaoya bakarak osbir çekmek -->
