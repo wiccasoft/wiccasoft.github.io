@@ -4,6 +4,7 @@
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz akplilerin gebermesini zevkle beklemek -->
 <!--bkz tayyipi sonuna kadar desteklemek -->
+<!--bkz falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
 <!--bkz bir burhan altın top kolay yetişmiy -->
 <!--bkz nası böyle bir imanı boğar diyen akplinin bokunda boğulması -->
 
