@@ -2,9 +2,10 @@
 <!--bkz zer0 fucks given that day -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz can yamanın burcu esmersoya üstüne rahat bişeyler giy arka odaya geçelim demesi -->
+<!--bkz göt deliği rte şeklinde atan ak nonoş yüreyedur azrail was here -->
 <!--bkz gözleri rte şeklinde gülen surat bokunda boğulunca notification atın -->
 <!--bkz topkeki ak kefeni rte si olan aknonoş vs içkisi kumarı seksi olan karizmatik alfa erkek -->
-<!--bkz göt deliği rte şeklinde atan ak nonoş yüreyedur azrail was here -->
+
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
