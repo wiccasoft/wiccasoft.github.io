@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E köfteci hüseyin -->
+<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E analcı hüseyin -->
 <!-- https://www.uludagsozluk.com/e/42574860/ lol -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
