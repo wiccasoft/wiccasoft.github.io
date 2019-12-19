@@ -1,3 +1,4 @@
+<!--bkz burcu esmersoya bakara osbir çekiyorum azoına almak isteyen var mı? -->
 <!--bkz süleymancıların şeyhlerinin pipilerini öpmekten beyinlerinin erimesi -->
 <!--bkz gözleri rte ve beton şeklinde gülen suratın da bokunda boğulacağı gerçeği -->
 <!--bkz kızını orkid almaya yollayana gavat cuckold baba -->
