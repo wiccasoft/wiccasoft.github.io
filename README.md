@@ -4,6 +4,7 @@
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz akplilerin gebermesini zevkle beklemek -->
 <!--bkz tayyipi sonuna kadar desteklemek -->
+<!--bkz burcu esmersoya bakkarak osbir çekiyom abi diyen ergen-->
 <!--bkz kızını orkid almaya yollayana gavat cuckold baba -->
 <!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
 <!--bkz bir burhan altın top kolay yetişmiy -->
