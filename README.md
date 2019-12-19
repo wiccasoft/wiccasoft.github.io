@@ -1,7 +1,8 @@
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E analcı hüseyin -->
-<!-- https://www.uludagsozluk.com/e/42574860/ lol -->
+
+
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
+<!-- https://www.uludagsozluk.com/e/42574860/ lol -->
 <!-- https://www.uludagsozluk.com/e/42581285/ -->
 <!-- https://www.uludagsozluk.com/e/42580136/ -->
 <!-- https://socratic.org/questions/how-do-you-solve-tan-x-1-2 -->
