@@ -1,5 +1,6 @@
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
+<!--bkz elinde kaset olan bay kamalın yatırımcıları tahdit etmesi -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz can yamanın burcu esmersoya üstüne rahat bişeyler giy arka odaya geçelim demesi -->
 <!--bkz göt deliği rte şeklinde atan ak nonoş yüreyedur azrail was here -->
