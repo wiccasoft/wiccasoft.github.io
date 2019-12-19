@@ -1,24 +1,7 @@
 
-<!--bkz deep sky algorithm -->
-<!--bkz zer0 fucks given that day -->
-<!--bkz falcaoya bakarak osbir çekmek -->
-<!--bkz deep turkish web e girince düşen zeka seviyesi -->
-<!--bkz burcu ermersoya bakarak 31 çeken adama bakarak osbir çekmek-->
-<!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
-<!--bkz kızını orkid almaya yollayan gavat cuckold baba -->
-<!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
-<!--bkz bir burhan altın top kolay yetişmiy -->
-<!--bkz nası böyle bir imanı boğar diyen akplinin bokunda boğulması -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
-<!-- https://www.uludagsozluk.com/e/42581927/ lol -->
-<!-- https://www.uludagsozluk.com/e/42579992/ lol -->
-<!-- https://www.uludagsozluk.com/e/42581847/ lol -->
-<!-- https://www.uludagsozluk.com/e/42574860/ lol -->
-<!-- https://www.uludagsozluk.com/e/42581285/ -->
-<!-- https://www.uludagsozluk.com/e/42580136/ -->
-<!-- https://socratic.org/questions/how-do-you-solve-tan-x-1-2 -->
-<!-- https://stackoverflow.com/questions/39501187/how-does-math-tanx-actually-work-javascript -->
+
 
 [![Image](skynet/Screenshot_2019-12-18_18-33-19.png)]( https://www.theguardian.com/business/2019/dec/15/british-steel-bid-still-on-insists-chinese-firm-jingye )
 
