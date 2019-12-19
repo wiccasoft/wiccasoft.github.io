@@ -3,6 +3,7 @@
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz rıza çalımbayın ersun yanala çalım atması -->
 <!--bkz ali koçun ersun yanala mekik çektirmesi -->
+<!--bkz ersun yanalın mevzu mekikse çekerim demesi -->
 <!--bkz can yamanın burcu esmersoya  üstüne rahat bişeyler giy arka odaya geçelim demesi -->
 <!--bkz gözleri rte şeklinde gülen surat bokunda boğulunca notification atın brolar -->
 
