@@ -1,3 +1,4 @@
+<!--bkz manevi değerleri incinmiş bir akpli olmak -->
 <!--bkz ersun yanalın sadık çiftpınarı yedeğ alması -->
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
