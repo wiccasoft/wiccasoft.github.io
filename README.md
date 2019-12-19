@@ -8,6 +8,7 @@
 <!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
 <!--bkz bir burhan altın top kolay yetişmiy -->
 <!--bkz nası böyle bir imanı boğar diyen akplinin bokunda boğulması -->
+<!--bkz gözleri rte sıcak asfalt şeklinde gülen surat -->
 
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
