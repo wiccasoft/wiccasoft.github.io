@@ -4,6 +4,7 @@
 <!--bkz rıza çalımbayın ersun yanala çalım atması -->
 <!--bkz ali koçun ersun yanala mekik çektirmesi -->
 <!--bkz can yamanın burcu esmersoya  üstüne rahat bişeyler giy arka odaya geçelim demesi -->
+<!--bkz gözleri rte şeklinde gülen surat ölünce notification atın brolar -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
