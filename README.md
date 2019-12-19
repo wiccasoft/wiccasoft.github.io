@@ -1,4 +1,4 @@
-<!--bkz acele etme papaz efendiyi inciten şeyh -->
+<!--bkz acele etme papaz efendiyi badeleyen şeyh -->
 <!--bkz acele etme papaz efendinin yumuşak bir süleymancı olduğu gerçeği -->
 <!--bkz süleymancıların muhallebi yerken şeyhlerinin pipilerini öpmesi -->
 <!--bkz manevi değerleri incinmiş bir akpli olmak -->
