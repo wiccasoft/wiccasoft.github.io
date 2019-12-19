@@ -1,5 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
+<!-- https://socratic.org/questions/how-do-you-solve-tan-x-1-2 -->
+<!-- https://stackoverflow.com/questions/39501187/how-does-math-tanx-actually-work-javascript -->
 
 [![Image](skynet/Screenshot_2019-12-18_18-33-19.png)]( https://www.theguardian.com/business/2019/dec/15/british-steel-bid-still-on-insists-chinese-firm-jingye )
 
