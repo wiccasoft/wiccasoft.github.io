@@ -3,7 +3,6 @@
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz can yamanın burcu esmersoya üstüne rahat bişeyler giy arka odaya geçelim demesi -->
 <!--bkz gözleri rte şeklinde gülen surat bokunda boğulunca notification atın -->
-<!--bkz içkisi sigarası kumarı ve çapkınlığı olan erkek was here-->
 <!--bkz topkeki ak kefeni rte si olan aknonoş vs içkisi kumarı seksi olan karizmatik alfa erkek -->
 
 
