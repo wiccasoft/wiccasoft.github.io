@@ -1,5 +1,6 @@
 
 <!--bkz deep sky algorithm -->
+<!--bkz zer0 fucks given that day -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
