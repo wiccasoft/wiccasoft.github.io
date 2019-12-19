@@ -1,5 +1,6 @@
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
+<!--bkz can yaman ın burcu esmersoya arka odaya geçelim demesi ->
 <!--bkz falcaoya bakarak osbir çekmek -->
 <!--bkz deep turkish web e girince düşen zeka seviyesi -->
 <!--bkz burcu ermersoya bakarak mekik çeken adama bakarak osbir çekmek-->
