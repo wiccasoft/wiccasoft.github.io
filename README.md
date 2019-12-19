@@ -1,5 +1,6 @@
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
+<!--bkz rıza çalımbayın rızam olmadan osbir çekmeyin demesi-->
 <!--bkz ersun yanalın mevzu fenerse mekik çektirirm demesi -->
 <!--bkz can yaman ın burcu esmersoya arka odaya geçelim demesi ->
 <!--bkz falcaoya bakarak osbir çekmek -->
