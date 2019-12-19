@@ -1,11 +1,3 @@
-<!--bkz burcu esmersoya bakarak osbir çekiyorum azına almak isteyen var mı? -->
-<!--bkz süleymancıların şeyhlerinin pipilerini öpmekten beyinlerinin erimesi -->
-<!--bkz gözleri rte ve beton şeklinde gülen suratın da bokunda boğulacağı gerçeği -->
-<!--bkz kızını orkid almaya yollayana gavat cuckold baba -->
-<!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
-<!--bkz nasıl böyle bir imanı boğar diyen akplinin bokunda boğulması -->
-<!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
-<!--bkz bir burhan altın top kolay yetişmiy -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
