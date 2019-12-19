@@ -1,5 +1,6 @@
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
+<!--bkz tayyipin kasatçı kamala verdiği efso ayar -->
 <!--bkz elinde kaset olan bay kamalın yatırımcıları tahdit etmesi -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz can yamanın burcu esmersoya üstüne rahat bişeyler giy arka odaya geçelim demesi -->
