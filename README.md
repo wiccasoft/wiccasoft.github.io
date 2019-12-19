@@ -2,12 +2,6 @@
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
-<!--bkz falcaoya bakarak osbir çekmek -->
-<!--bkz deep turkish web e girince düşen zeka seviyesi -->
-<!--bkz burcu ermersoya bakarak 31 çeken adama bakarak osbir çekmek-->
-<!--bkz kızını orkid almaya yollayana gavat cuckold baba -->
-<!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
-<!--bkz bir burhan altın top kolay yetişmiy -->
 <!--bkz nası böyle bir imanı boğar diyen akplinin bokunda boğulması -->
 
 [![Image](skynet/Screenshot_2019-12-18_18-33-19.png)]( https://www.theguardian.com/business/2019/dec/15/british-steel-bid-still-on-insists-chinese-firm-jingye )
