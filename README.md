@@ -1,3 +1,14 @@
+<!--bkz deep sky algorithm -->
+<!--bkz zer0 fucks given that day -->
+<!--bkz falcaoya bakarak osbir çekmek -->
+<!--bkz deep turkish web e girince düşen zeka seviyesi -->
+<!--bkz burcu ermersoya bakarak 31 çeken adama bakarak osbir çekmek-->
+<!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
+<!--bkz kızını orkid almaya yollayana gavat cuckold baba -->
+<!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
+<!--bkz bir burhan altın top kolay yetişmiy -->
+<!--bkz nası böyle bir imanı boğar diyen akplinin bokunda boğulması -->
+
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
