@@ -1,3 +1,4 @@
+<!--bkz nasıl böyle bir imanı boğar diyen akplinin bokunda boğulması -->
 <!--bkz acele etme papaz efendiyi badeleyen şeyh -->
 <!--bkz acele etme papaz efendinin yumuşak bir süleymancı olduğu gerçeği -->
 <!--bkz süleymancıların muhallebi yerken şeyhlerinin pipilerini öpmesi -->
