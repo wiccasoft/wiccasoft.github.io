@@ -1,3 +1,4 @@
+<!--bkz gözleri beton şeklinde gülen suratın da bokunda boğulacağı gerçeği -->
 <!--bkz kızını orkid almaya yollayana gavat cuckold baba -->
 <!--bkz bir falcao kaç yürü len emq biliyon mu diyen gassaraylı --> 
 <!--bkz nasıl böyle bir imanı boğar diyen akplinin bokunda boğulması -->
