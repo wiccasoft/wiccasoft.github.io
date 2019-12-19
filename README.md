@@ -2,6 +2,7 @@
 <!--bkz zer0 fucks given that day -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz rıza çalımbayın ersun yanala çalım atması -->
+<!--bkz ali koçun ersun yanala mekik çektirmesi -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
