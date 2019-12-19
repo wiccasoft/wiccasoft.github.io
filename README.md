@@ -1,7 +1,7 @@
 
 <!--bkz deep sky algorithm -->
 <!--bkz zer0 fucks given that day -->
-<!--bkz burcu ermsrsoya bakarak 31 çeken adam bakarak  osbir çekmek-->
+<!--bkz burcu ermersoya bakarak 31 çeken adam bakarak osbir çekmek-->
 <!--bkz burcu esmersoya bakkarak osbir çekiyom abi diyen ergen-->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!--bkz akplilerin gebermesini zevkle beklemek -->
