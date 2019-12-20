@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz macun kaplıcalının ben gavat değilim demesi -->
 <!-- bkz kozmik odayı fetöcülere açan genel kurmay başkanı -->
 <!-- bkz ekremin pazar günü kliseye gitmesi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 -->
