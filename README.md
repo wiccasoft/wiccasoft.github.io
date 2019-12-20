@@ -1,5 +1,4 @@
 <!-- bkz recep tayyip doğan karizması vs recep tayyip doğamayan ezikliği -->
-<!-- bkz recep tayyip doğmak vs it doğmak -->
 <!-- bkz dünya lideri deyince akla onun adı gelir -->
 <!-- bkz dünyayı dize getiren karizmatik imam hatipli lider -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
