@@ -7,7 +7,6 @@
 <!-- https://www.youtube.com/watch?v=ZSejVBDETqY -->
 <!-- https://www.youtube.com/watch?v=JKVtQBQlVEs ar ge -->
 <!-- https://www.youtube.com/watch?v=PgHzDZJwGW8 ural altay yol ayrımı -->
-<!-- https://www.youtube.com/watch?v=ghQ5Aq39Gn4 nedir problam gardaş -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz ağır bdsm fantazisi olan bi veledi zina -->
 
 
