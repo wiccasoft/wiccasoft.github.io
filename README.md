@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!--bkz anüsünden çıkan bira şişeni götüyle açıp içen erkek -->
 <!-- https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCnden-%C5%9Fi%C5%9Fe-%C3%A7%C4%B1kan-insan/ bkz bu benim -->
 <!--bkz anüsünden şişe çıkan gavat erkek -->
 <!--bkz götünde 18 cm soda şişseyile gezen ablasınaı sikenlere enişte diyen erkek-->
