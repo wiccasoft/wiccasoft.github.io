@@ -2,8 +2,6 @@
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
-<!--bkz nası böyle bir imanı boğar diyen akplinin bokunda boğulması -->
-
 [![Image](skynet/Screenshot_2019-12-18_18-33-19.png)]( https://www.theguardian.com/business/2019/dec/15/british-steel-bid-still-on-insists-chinese-firm-jingye )
 
 [![Image](skynet/Screenshot_2019-12-18_10-55-56.png)]( https://www.theguardian.com/business/2019/dec/18/peugeot-and-fiat-chrysler-agree-terms-of-38bn-merger )
