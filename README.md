@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
 <!-- bkz ekremin cuma domalmaya gelmemesi https://www.youtube.com/watch?v=c9MccLlEVLw -->
-<!-- bkz ekremin pazar günü klise de olması -->
+<!-- bkz ekremin pazar günü klise ye gitmesi -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 -->
 <!-- bkz ekremin babasının oğlunu savunması -->
 <!-- bkz ekremin cuma namazına gitmemesi https://www.youtube.com/watch?v=_NxOJXAH60k -->
