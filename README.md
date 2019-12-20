@@ -2,6 +2,7 @@
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
 <!-- bkz türk önde türk ileri -->
+<!-- bkz vuruşmaktan korkan kürt -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-en-b%C3%BCy%C3%BCk-iki-sorunu/ bkz fakirlik ve cehalet = kürt -->
 <!-- https://www.uludagsozluk.com/k/galatasaray-a-kayyum-atanmas%C4%B1/&w=bg bkz fatih terimi kayyum atamak -->
 <!-- bkz recep tayyip errdoğanın kamuon şöförüne benzemesi sorunsalı -->
