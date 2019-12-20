@@ -7,6 +7,7 @@
 <!-- https://www.youtube.com/watch?v=PgHzDZJwGW8 ural altay yol ayrımı -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz ağır bdsm fantazisi olan bi veledi zina -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-en-b%C3%BCy%C3%BCk-iki-sorunu/&w=bg bkz kürt olmaları -->
+<!-- bkz bir kürde ceddin deden neslin baban dinletmek -->
 
 [![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
