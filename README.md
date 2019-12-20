@@ -1,69 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
+<!-- https://www.youtube.com/watch?v=SyqGap7usls -->
 
-<!-- bkz türk önde türk ileri -->
-<!-- bkz vuruşmaktan korkan kürt -->
-<!-- bkz kürtlerin delikanlıca vuruşmaması -->
-<!-- bkz bir kürde recep tayyip erdoğan sevgisini anlatabilmek -->
-<!-- bkz nasıl böyle bir imanı boğar diyen akplinin bokunda boğulması -->
-<!-- https://puhutv.com/jet-sosyete-3-sezon-3-bolum-izle -->
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-en-b%C3%BCy%C3%BCk-iki-sorunu/ bkz fakirlik ve cehalet = kürt -->
-<!-- https://www.uludagsozluk.com/k/galatasaray-a-kayyum-atanmas%C4%B1/&w=bg bkz fatih terimi kayyum atamak -->
-<!-- bkz recep tayyip errdoğanın kamuon şöförüne benzemesi sorunsalı -->
-<!-- bkz bir kürde türk sevgisi aşağılamak https://www.youtube.com/watch?v=0vVqoZ0Xi_4  -->
-<!-- bkz bir zombiye sarımsak sevgisi aşılamak -->
-<!-- bkz bir gavata ay dede sevgisini anlatmak -->
-<!-- bkz bir ssl liye http sevgisini anlatmak --> 
-<!-- https://www.uludagsozluk.com/e/42586397/ bkz tv izlemeyen insan -->
-<!-- bkz gavatların macun kaplıcalı hayranlığı sebebi -->
-<!-- bkz 2020 yılında hala macunun soytarılarını izleyen gavatlar -->
-<!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-survivor-italya-program%C4%B1n%C4%B1-sunmas%C4%B1/ -->
-<!-- bkz sürvivor ünlüler götçüler vs masterchef os ses türkiy -->
-<!-- https://www.uludagsozluk.com/k/solcular%C4%B1n-delikanl%C4%B1-olmamas%C4%B1/ bkz delikanlı adam arıyorum diyen gay -->
-<!-- https://eksisozluk.com/masterchef-turkiye--2620416?a=popular bkz masterchef murat -->
-<!-- https://www.uludagsozluk.com/k/%C3%A7orbac%C4%B1ya-hunharca-isyan-eden-adam/&w=bg bkz gavat -->
-<!-- https://eksisozluk.com/acilacak-pompaci-icin-isim-onerileri--6289649?a=popular pompalamasyon bu bizim misyon -->
-<!-- bkz vuruşmaktan korkan erkek https://www.uludagsozluk.com/e/42586341/-->
-<!-- https://www.uludagsozluk.com/e/42586341/ bkz delikanlı gibi vuruşmamaları evet -->
-<!-- bkz acunun şeymanın tokmakçısıyla bro olması -->
-<!-- bkz acunun nafakayı tokmakçı için arttırması -->
-<!-- bkz acunun şeymaya tokmakçın nasıl demesi  -->
-<!-- bkz mansur yavaşın 25 milyon dolarlık yatına ses etmeyen ak şitler -->
-<!-- bkz melih gökçekin ekremi döve döve imana getirmesi -->
-<!-- bkz akpnin kindar değil dindar nesil istiyoruz açıklaması -->
-<!-- bkz mansur yavaşın ekrem hızlıya yavşak demesi  -->
-<!-- bkz macun kaplıcalının erdoyla bro olması https://www.youtube.com/watch?v=yFG3266htmQ -->
-<!-- bkz macun kaplıcalının hadiseyi jüride tutma kararının asıl sebebi ne sorunsalı -->
-<!-- bkz şeyma subaşının tokmakçısının tatil masrafı için acunu araması  -->
-<!-- bkz masterchef yasin vs masterchef murat https://www.youtube.com/watch?v=-tox0xxFuE4 -->
-<!-- bkz macun abi gavat değil tamam mı diyen kamalcı -->
-<!-- bkz macun kaplıcalının ben gavat değilim demesi -->
-<!-- bkz kozmik odayı fetöcülere açan genel kurmay başkanı -->
-<!-- bkz ekremin pazar günü kliseye gitmesi https://www.youtube.com/watch?v=0rjItOxZAgg -->
-<!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 -->
-<!-- bkz ekremin cuma gıybetini kaçırması https://www.youtube.com/watch?v=c9MccLlEVLw -->
-<!-- bkz ekremin babasının oğlunu savunması -->
-<!-- bkz ekremin cuma namazına gitmemesi https://www.youtube.com/watch?v=_NxOJXAH60k -->
-<!-- bkz erdoganin emineye aşkım bilale oğluşum demesi -->
-<!-- https://www.youtube.com/watch?v=I5bIQWjUS7o 190 mercedesle gezerim ben -->
-<!-- bkz anüsüyle egsoz sesi çıkaran bir erkeği üzmek -->
-<!-- bkz anüsüyle egsoz sokup yerli arabayım diyen erkek -->
-<!-- bkz %100 yüz tesettürlü arabanın vrank vrank diye gelmesi -->
-<!-- bkz anüsüyle egsoz sesi çıkartıp %100 yerliyim diyen erkek -->
-<!-- bkz anüsüyle egsoz çıkartıp birasını yudumlayan erkek -->
-<!-- bkz çocuğuna eski tokmakçısının adını veren erkek -->
-<!-- bkz anüsüyle egsoz sesi çıkaran erkek -->
-<!---bkz varanktan %100 yerli batmobil paylaşımı -->
-<!-- bkz anüsünden çıkan bira şişeni göt deliğiyle  açıp içen erkek -->
-<!-- https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCnden-%C5%9Fi%C5%9Fe-%C3%A7%C4%B1kan-insan/  -->
-<!-- bkz anüsünden şişe çıkan gavat erkek -->
-<!-- bkz götünde 18 cm soda şişseyile gezen ablasınaı sikenlere enişte diyen erkek-->
-<!-- bkz annesinin sikerken babasına beline kuvvet diyen erkek -->
-<!-- https://www.uludagsozluk.com/k/%C5%9Feyhimi-%C3%B6pt%C3%BC%C4%9F%C3%BCmde-bakan-de%C4%9Fildim/ -->
-<!-- bkz çocuğuna eniştesinin adını veren erkek -->
-<!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-18-cm-soda-%C5%9Fi%C5%9Fesiyle-gezen-insan/ bkz aa bu benim -->
-<!-- bkz çok küfr eden annesini siken adan baba gavat ablasını sokan adama enişte diyen erkek -->
-<!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 imamoglu destanı -->
 <!-- https://www.youtube.com/watch?v=JKVtQBQlVEs ar ge -->
 <!-- https://www.youtube.com/watch?v=PgHzDZJwGW8 ural altay yol ayrımı -->
 <!-- https://www.youtube.com/watch?v=ghQ5Aq39Gn4 nedir problam gardaş -->
