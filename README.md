@@ -4,7 +4,7 @@
 <!-- bkz gavatların macun kaplıcalı hayranlığı sebebi -->
 <!-- bkz 2020 yılında hala tv soytarıları izleyen gavatlar -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-survivor-italya-program%C4%B1n%C4%B1-sunmas%C4%B1/ -->
-<!--bkz sürvivor ünlüler götçüler vs masterchef os ses türkiy -->
+<!-- bkz sürvivor ünlüler götçüler vs masterchef os ses türkiy -->
 <!-- https://www.uludagsozluk.com/k/solcular%C4%B1n-delikanl%C4%B1-olmamas%C4%B1/ bkz delikanlı adam arıyorum diyen gay -->
 <!-- https://eksisozluk.com/masterchef-turkiye--2620416?a=popular bkz masterchef murat -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7orbac%C4%B1ya-hunharca-isyan-eden-adam/&w=bg bkz gavat -->
