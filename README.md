@@ -1,5 +1,6 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
+<!-- https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-geliyor-olmas%C4%B1/&w=bg-- >
 
 [![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
