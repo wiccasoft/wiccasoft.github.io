@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz acunun nafakayı tokmakçı için arttırması -->
 <!-- bkz acunun şeymaya tokmakçın nasıl demesi  -->
 <!-- bkz mansur yavaşın 25 milyon dolarlık yatına ses etmeyen ak şitler -->
 <!-- bkz melih gökçekin ekremi döve döve imana getirmesi -->
