@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz ekremin pazar günü kliseye gitmesi -->
+<!-- bkz ekremin pazar günü kliseye gitmesi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 -->
 <!-- bkz ekremin cuma gıybetini kaçırması https://www.youtube.com/watch?v=c9MccLlEVLw -->
 <!-- bkz ekremin babasının oğlunu savunması -->
