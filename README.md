@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!--bkz çocuğuna eski tokmakçısının isminin veren erkek -->
+<!-- bkz çocuğuna eski tokmakçısının adını veren erkek -->
 <!-- bkz anüsüyle egsoz sesi çıkaran erkek -->
 <!---bkz varanktan %100 yerli batmobil paylaşımı -->
 <!-- bkz anüsünden çıkan bira şişeni göt deliğiyle  açıp içen erkek -->
