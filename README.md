@@ -1,6 +1,8 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz anasına sokan adama baba diyen erkek -->
+<!-- https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=gd bk vatan sevgisi ney lan -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz dünya lideri -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-un-faydalar%C4%B1/ bkz kanal istanbul ne lan -->
 <!-- https://www.uludagsozluk.com/k/japonya-ve-t%C3%BCrkiye-iki-devlet-tek-millettir/ -->
