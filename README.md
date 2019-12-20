@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz çok küdr edene annesii siken adan baba gavat ablasını sokan adama enişte diyen erkek -->
+<!-- bkz çok küfr eden annesini siken adan baba gavat ablasını sokan adama enişte diyen erkek -->
 <!-- https://www.youtube.com/watch?v=vgQhuGOMvr0 imamoglu destanı -->
 <!-- https://www.youtube.com/watch?v=JKVtQBQlVEs ar ge -->
 <!-- https://www.youtube.com/watch?v=PgHzDZJwGW8 ural altay yol ayrımı -->
