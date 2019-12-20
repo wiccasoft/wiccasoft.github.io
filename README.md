@@ -5,6 +5,7 @@
 <!-- bkz vuruşmaktan korkan kürt -->
 <!-- bkz kürtlerin delikanlıca vuruşmaması -->
 <!-- bkz bir kürde recep tayyip erdoğan sevgisini anlatabilmek -->
+<!-- bkz nasıl böyle bir imanı boğar diyen akplinin bokunda boğulması -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-en-b%C3%BCy%C3%BCk-iki-sorunu/ bkz fakirlik ve cehalet = kürt -->
 <!-- https://www.uludagsozluk.com/k/galatasaray-a-kayyum-atanmas%C4%B1/&w=bg bkz fatih terimi kayyum atamak -->
 <!-- bkz recep tayyip errdoğanın kamuon şöförüne benzemesi sorunsalı -->
