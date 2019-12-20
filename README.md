@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz ekremin cuma namazına gitmemesi https://www.youtube.com/watch?v=_NxOJXAH60k -->
 <!-- bkz erdoganin emineye aşkım bilale oğluşum demesi -->
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o 190 mercedesle gezerim ben -->
 <!-- bkz anüsüyle egsoz sesi çıkaran bir erkeği üzmek -->
