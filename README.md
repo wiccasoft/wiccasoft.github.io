@@ -1,3 +1,4 @@
+<!-- bkz dünyayı dize getiren karizmatik lider -->
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- https://www.youtube.com/watch?v=dZxZjk6QOG8 bkz karizmanın öz oğluşu -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
