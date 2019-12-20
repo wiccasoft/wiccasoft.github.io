@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 <!-- bkz ak boyların fakirleştikçe rte yi sevmeleri -->
+<!-- bkz rte nin herşeyi dışa bağımlı yapmasına sevinen akboylar :))))))) -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/2910/ bkz tr yi 10 senede 3 kat fakirleştiren dünya lideri -->
 
 [![Image](skynet/Screenshot_2019-12-18_18-33-19.png)]( https://www.theguardian.com/business/2019/dec/15/british-steel-bid-still-on-insists-chinese-firm-jingye )
