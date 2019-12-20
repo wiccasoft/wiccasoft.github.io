@@ -8,7 +8,7 @@
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz ağır bdsm fantazisi olan bi veledi zina -->
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-en-b%C3%BCy%C3%BCk-iki-sorunu/&w=bg bkz kürt olmaları -->
 <!-- bkz folkan iyesta cicişlerin ibb sitesini gün boyu pinglemesi https://www.youtube.com/watch?v=0rjItOxZAgg -->
-<!-- https://www.youtube.com/watch?v=PCM9j7Q5YXw --->
+<!-- https://www.youtube.com/watch?v=PCM9j7Q5YXw lol --->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
