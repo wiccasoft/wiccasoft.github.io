@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-
+<!-- bkz bir zombiye sarımsak sevgisi aşılamak -->
 <!-- bkz bir gavata ay dede sevgisini anlatmak -->
 <!-- bkz bir ssl liye http sevgisini anlatmak --> 
 <!-- https://www.uludagsozluk.com/e/42586397/ bkz tv izlemeyen insan -->
