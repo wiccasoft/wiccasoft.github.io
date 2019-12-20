@@ -1,9 +1,8 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- https://hitler-benim-atam.uludagsozluk.com/ shh bana bah hele seni ananın önünde sikerim baba dersin bana -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz ağır bdsm fantazisi olan bi veledi zina -->
-<!-- https://hitler-benim-atam.uludagsozluk.com/ bkz anasına sokan adama baba diyen oğlan -->
+<!-- https://hitler-benim-atam.uludagsozluk.com/ bkz anasına sokan adama baba diyen veledi zina -->
 <!-- https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=gd bk vatan sevgisi ney lan -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz dünya lideri -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-un-faydalar%C4%B1/ bkz kanal istanbul ne lan -->
