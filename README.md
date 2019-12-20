@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hıjdır -->
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
 <!-- başaramayacaksınız ezanları susturmayacasınız 
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
