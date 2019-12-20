@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=btMzn2rG8sQ hehehehe -->
+<!-- https://www.youtube.com/watch?v=btMzn2rG8sQ oğluşu -->
 <!-- https://www.youtube.com/watch?v=2H853-L2oRg bkz kamal putçu çomarların göt olması -->
 <!-- bkz tayyipi muhammed alinin cenazesine almamalarına ses etmeyen kamal putçu atayızlar -->
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 bkz doğuştan lider -->
