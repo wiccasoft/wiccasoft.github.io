@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!---bkz sanayi bakakını varanktan %100 yerli batmobil paylaşımı -->
+<!---bkz varanktan %100 yerli batmobil paylaşımı -->
 <!-- bkz anüsünden çıkan bira şişeni göt deliğiyle  açıp içen erkek -->
 <!-- https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCnden-%C5%9Fi%C5%9Fe-%C3%A7%C4%B1kan-insan/  -->
 <!-- bkz anüsünden şişe çıkan gavat erkek -->
