@@ -2,7 +2,7 @@
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
 <!-- bkz macun kaplıcalının erdoyla bro olması https://www.youtube.com/watch?v=yFG3266htmQ -->
-<!-- bkz macun kaplıcalının hadiseyi jüride tutma kararı -->
+<!-- bkz macun kaplıcalının hadiseyi jüride tutma kararının asıl sebebi ne sorunsalı -->
 <!-- bkz şeyma subaşının tokmakçısının tatil masrafı için acunu araması  -->
 <!-- bkz masterchef yasin vs masterchef murat https://www.youtube.com/watch?v=-tox0xxFuE4 -->
 <!-- bkz macun abi gavat değil tamam mı diyen kamalcı -->
