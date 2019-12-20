@@ -5,7 +5,6 @@
 <!-- https://www.youtube.com/watch?v=PgHzDZJwGW8 ural altay yol ayrımı -->
 <!-- https://www.youtube.com/watch?v=ghQ5Aq39Gn4 nedir problam gardaş -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz ağır bdsm fantazisi olan bi veledi zina -->
-<!-- https://hitler-benim-atam.uludagsozluk.com/ bkz anasına sokan adama baba diyen veledi zina -->
 
 
 [![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
