@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz bir kkpliye ttp sevgisini anlatmak --> 
 <!-- https://www.uludagsozluk.com/e/42586397/ bkz tv izlemeyen insan -->
 <!-- bkz gavatların macun kaplıcalı hayranlığı sebebi -->
 <!-- bkz 2020 yılında hala macunun soytarılarını izleyen gavatlar -->
