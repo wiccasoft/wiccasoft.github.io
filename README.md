@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- https://www.uludagsozluk.com/k/solcular%C4%B1n-delikanl%C4%B1-olmamas%C4%B1/ bkz delikanlı adam arıyorum diyen gay -->
 <!-- https://eksisozluk.com/masterchef-turkiye--2620416?a=popular bkz masterchef murat -->
 <!-- https://www.uludagsozluk.com/k/%C3%A7orbac%C4%B1ya-hunharca-isyan-eden-adam/&w=bg bkz gavat -->
 <!-- https://eksisozluk.com/acilacak-pompaci-icin-isim-onerileri--6289649?a=popular pompalamasyon bu bizim misyon -->
