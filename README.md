@@ -3,6 +3,7 @@
 
 <!-- https://eksisozluk.com/27-aralik-2019-yerli-otomobilin-tanitimi--6289295?a=popular -->
 <!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=gd -->
+<!-- https://www.uludagsozluk.com/k/kanal-istanbul-yap%C4%B1l%C4%B1rsa-trakya-y%C4%B1-savunamay%C4%B1z/ -->
 <!-- https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-mansur-yava%C5%9F-r%C3%BC%C5%9Fvet-iddias%C4%B1-tweeti/ -->
 <!-- https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-geliyor-olmas%C4%B1/&w=bg-- >
 
