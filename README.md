@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=2H853-L2oRg bkz kamal putçu çomarların göt olması -->
 <!-- bkz tayyipi muhammed alinin cenazesine almamalarına ses etmeyen kamal putçu atayızlar -->
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 bkz doğuştan lider -->
 <!-- bkz ıstırırım yalarım bi de https://www.youtube.com/watch?v=Jt10Yp8Q0K0 ->
