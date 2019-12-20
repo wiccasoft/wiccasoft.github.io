@@ -1,4 +1,4 @@
-<!-- bkz recep tayyip doğan onu doğurana gurban -->
+<!-- bkz recep tayyip doğan onu doğurana gurban -https://www.youtube.com/watch?v=Jt10Yp8Q0K0 ->
 <!-- bkz analar var it doğurur analar var recep tayyip doğurur -->
 <!-- bkz recep tayyip doğan karizması vs recep tayyip doğamayan ezikliği -->
 <!-- bkz dünya lideri deyince akla onun adı gelir -->
