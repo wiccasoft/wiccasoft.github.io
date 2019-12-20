@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz 2020 yılında hala tv izleyen gavatlar -->
+<!-- bkz 2020 yılında hala tv soytarıları izleyen gavatlar -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-survivor-italya-program%C4%B1n%C4%B1-sunmas%C4%B1/ -->
 <!--bkz sürvivor ünlüler götçüler vs masterchef os ses türkiy -->
 <!-- https://www.uludagsozluk.com/k/solcular%C4%B1n-delikanl%C4%B1-olmamas%C4%B1/ bkz delikanlı adam arıyorum diyen gay -->
