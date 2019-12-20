@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- https://www.uludagsozluk.com/k/%C5%9Feyhimi-%C3%B6pt%C3%BC%C4%9F%C3%BCmde-bakan-de%C4%9Fildim/ -->
 <!-- bkz çocuğuna eniştesinin adını veren erkek -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-18-cm-soda-%C5%9Fi%C5%9Fesiyle-gezen-insan/ bkz aa bu benim -->
 <!-- bkz çok küfr eden annesini siken adan baba gavat ablasını sokan adama enişte diyen erkek -->
