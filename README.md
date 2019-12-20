@@ -6,17 +6,7 @@
 <!-- https://www.youtube.com/watch?v=ghQ5Aq39Gn4 nedir problam gardaş -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz ağır bdsm fantazisi olan bi veledi zina -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz anasına sokan adama baba diyen veledi zina -->
-<!-- https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=gd bk vatan sevgisi ney lan -->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz dünya lideri -->
-<!-- https://www.uludagsozluk.com/k/kanal-istanbul-un-faydalar%C4%B1/ bkz kanal istanbul ne lan -->
-<!-- https://www.uludagsozluk.com/k/japonya-ve-t%C3%BCrkiye-iki-devlet-tek-millettir/ -->
-<!-- https://www.uludagsozluk.com/k/ilker-ba%C5%9Fbu%C4%9F-un-kanal-istanbul-uyar%C4%B1s%C4%B1/ -->
-<!-- https://eksisozluk.com/27-aralik-2019-yerli-otomobilin-tanitimi--6289295?a=popular -->
-<!-- https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-geliyor-olmas%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=gd -->
-<!-- https://www.uludagsozluk.com/k/kanal-istanbul-yap%C4%B1l%C4%B1rsa-trakya-y%C4%B1-savunamay%C4%B1z/ -->
-<!-- https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-mansur-yava%C5%9F-r%C3%BC%C5%9Fvet-iddias%C4%B1-tweeti/ -->
-<!-- https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-geliyor-olmas%C4%B1/&w=bg-- >
+
 
 [![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
