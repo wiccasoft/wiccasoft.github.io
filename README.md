@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz ekremin cuma domalmaya gelmemesi -->
 <!-- bkz ekremin pazar günü klise de olması -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 -->
 <!-- bkz ekremin babasının oğlunu savunması -->
