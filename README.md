@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz dünya lideri -->
 <!-- https://www.uludagsozluk.com/k/japonya-ve-t%C3%BCrkiye-iki-devlet-tek-millettir/ -->
 <!-- https://www.uludagsozluk.com/k/ilker-ba%C5%9Fbu%C4%9F-un-kanal-istanbul-uyar%C4%B1s%C4%B1/ -->
 <!-- https://eksisozluk.com/27-aralik-2019-yerli-otomobilin-tanitimi--6289295?a=popular -->
