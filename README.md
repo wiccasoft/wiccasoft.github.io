@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz melih gökçekin ekremi övmesi -->
+<!-- bkz melih gökçekin ekremi döve döve imana getirmesi -->
 <!-- bkz akpnin kindar değil dindar nesil istiyoruz açıklaması -->
 <!-- bkz mansur yavaşın ekrem hızlıya yavşak demesi  -->
 <!-- bkz macun kaplıcalının erdoyla bro olması https://www.youtube.com/watch?v=yFG3266htmQ -->
