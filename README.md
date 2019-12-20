@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz acun kaplıcalının hadiseyi jüride tutma kararı -->
 <!-- bkz şeyma subaşının tokmakçısının tatil masrafı için acunu araması  -->
 <!-- bkz masterchef yasin vs masterchef murat https://www.youtube.com/watch?v=-tox0xxFuE4 -->
 <!-- bkz macun abi gavat değil tamam mı diyen kamalcı -->
