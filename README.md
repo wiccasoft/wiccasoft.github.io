@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz gavatların macun kaplıcalı hayranlığı sebebi -->
 <!-- bkz 2020 yılında hala tv soytarıları izleyen gavatlar -->
 <!-- https://www.uludagsozluk.com/k/can-yaman-%C4%B1n-survivor-italya-program%C4%B1n%C4%B1-sunmas%C4%B1/ -->
 <!--bkz sürvivor ünlüler götçüler vs masterchef os ses türkiy -->
