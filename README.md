@@ -1,3 +1,4 @@
+<!-- bkz recep tayyip doğan onu doğurana gurban -->
 <!-- bkz recep tayyip doğan karizması vs recep tayyip doğamayan ezikliği -->
 <!-- bkz dünya lideri deyince akla onun adı gelir -->
 <!-- bkz dünyayı dize getiren karizmatik imam hatipli lider -->
