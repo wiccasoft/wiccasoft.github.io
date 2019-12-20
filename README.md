@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz anüsüyle egsoz çıkartıp birasını yudumlayan erkek -->
 <!-- bkz çocuğuna eski tokmakçısının adını veren erkek -->
 <!-- bkz anüsüyle egsoz sesi çıkaran erkek -->
 <!---bkz varanktan %100 yerli batmobil paylaşımı -->
