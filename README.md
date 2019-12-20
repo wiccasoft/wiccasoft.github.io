@@ -1,3 +1,4 @@
+<!-- https://twitter.com/RTErdogan? adam gibi adam -->
 <!-- https://www.instagram.com/rterdogan/?hl=en adamın ham maddesi-->
 <!-- https://www.tccb.gov.tr/en/receptayyiperdogan/ bkz karizmanın öz oğlu -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
