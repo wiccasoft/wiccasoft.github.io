@@ -1,24 +1,5 @@
-<!-- https://www.youtube.com/watch?v=nx-F_0s-Cxs hehehehe -->
-<!-- https://www.youtube.com/watch?v=4Fn84I34azs cinconlu ziyareti -->
-<!-- https://www.youtube.com/watch?v=baM2BXtrK6Q yav he he -->
-<!-- https://eksisozluk.com/acun-denilince-akla-gelen-ilk-sey--6288735?a=popular bkz gavat -->
-<!-- https://www.youtube.com/watch?v=btMzn2rG8sQ bkz karizmanın oğluşu -->
-<!-- https://www.youtube.com/watch?v=2H853-L2oRg bkz kamal putçu ezik çomarların göt olması -->
-<!-- bkz tayyipi muhammed alinin cenazesine almamalarına ses etmeyen kamal putçu atayızlar -->
-<!-- https://www.youtube.com/watch?v=b2iHljAKDT8 bkz doğuştan lider -->
-<!-- bkz ıstırırım yalarım bi de https://www.youtube.com/watch?v=Jt10Yp8Q0K0 ->
-<!-- bkz analar var it doğurur analar var recep tayyip doğurur -->
-<!-- bkz recep tayyip doğan karizması vs recep tayyip doğamayan ezikliği -->
-<!-- bkz dünya lideri deyince akla onun adı gelir -->
-<!-- bkz dünyayı dize getiren karizmatik imam hatipli lider -->
-<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
-<!-- https://www.youtube.com/watch?v=dZxZjk6QOG8 bkz karizmanın öz oğluşu -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
-<!-- başaramayacasınız ezanları susturmayacasınız dünya beşten küçüktür
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
-
 
 [![Image](skynet/Screenshot_2019-12-18_18-33-19.png)]( https://www.theguardian.com/business/2019/dec/15/british-steel-bid-still-on-insists-chinese-firm-jingye )
 
