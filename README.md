@@ -1,3 +1,4 @@
+<!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- https://www.youtube.com/watch?v=dZxZjk6QOG8 bkz karizmanın öz oğluşu -->
 <!-- bkz üç isimli imam hatipli rizeli eşi arap sigarası kumarı olmayan erkek karizması -->
 <!-- https://twitter.com/tcbestepe beş parmağında beş marifet -->
