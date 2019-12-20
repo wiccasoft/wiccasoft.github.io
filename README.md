@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz anüsüyle egsoz sesi çıkaran bi erkeği üzmek -->
+<!-- bkz anüsüyle egsoz sesi çıkaran bir erkeği üzmek -->
 <!-- bkz anüsüyle egsoz sokup yerli arabayım diyen erkek -->
 <!-- bkz %100 yüz tesettürlü arabanın vrank vrank diye gelmesi -->
 <!-- bkz anüsüyle egsoz sesi çıkartıp %100 yerliyim diyen erkek -->
