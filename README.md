@@ -1,11 +1,11 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!--bkz anüsünden çıkan bira şişeni göt deliğiyle  açıp içen erkek -->
-<!-- https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCnden-%C5%9Fi%C5%9Fe-%C3%A7%C4%B1kan-insan/ bkz bu benim -->
-<!--bkz anüsünden şişe çıkan gavat erkek -->
-<!--bkz götünde 18 cm soda şişseyile gezen ablasınaı sikenlere enişte diyen erkek-->
-<!--bkz annesinin sikerken babasına beline kuvvet diyen erkek -->
+<!-- bkz anüsünden çıkan bira şişeni göt deliğiyle  açıp içen erkek -->
+<!-- https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCnden-%C5%9Fi%C5%9Fe-%C3%A7%C4%B1kan-insan/  -->
+<!-- bkz anüsünden şişe çıkan gavat erkek -->
+<!-- bkz götünde 18 cm soda şişseyile gezen ablasınaı sikenlere enişte diyen erkek-->
+<!-- bkz annesinin sikerken babasına beline kuvvet diyen erkek -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Feyhimi-%C3%B6pt%C3%BC%C4%9F%C3%BCmde-bakan-de%C4%9Fildim/ -->
 <!-- bkz çocuğuna eniştesinin adını veren erkek -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-18-cm-soda-%C5%9Fi%C5%9Fesiyle-gezen-insan/ bkz aa bu benim -->
