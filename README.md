@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz masterchef yasin vs masterchef murat -->
+<!-- bkz masterchef yasin vs masterchef murat https://www.youtube.com/watch?v=-tox0xxFuE4 -->
 <!-- bkz macun abi gavat değil tamam mı diyen kamalcı -->
 <!-- bkz macun kaplıcalının ben gavat değilim demesi -->
 <!-- bkz kozmik odayı fetöcülere açan genel kurmay başkanı -->
