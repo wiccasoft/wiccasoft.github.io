@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz bir kürde türk sevgisi aşağılamak -->
 <!-- bkz bir zombiye sarımsak sevgisi aşılamak -->
 <!-- bkz bir gavata ay dede sevgisini anlatmak -->
 <!-- bkz bir ssl liye http sevgisini anlatmak --> 
