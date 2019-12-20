@@ -10,7 +10,7 @@
 <!-- bkz folkan iyesta cicişlerin ibb sitesini gün boyu pinglemesi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- https://www.youtube.com/watch?v=PCM9j7Q5YXw lol --->
 
-[![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
+[![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 <!-- 
 This is where it all begins.
 https://chaturbate.com/solar_kate/
