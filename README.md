@@ -9,6 +9,7 @@
 <!-- https://www.uludagsozluk.com/k/k%C3%BCrtlerin-en-b%C3%BCy%C3%BCk-iki-sorunu/&w=bg bkz kürt olmaları -->
 <!-- bkz bir kürde ceddin deden neslin baban dinletmek -->
 <!-- bkz vuruşmaktan korkan kürt -->
+<!-- bkz folkan iyesta cicişlerin ibb sitesini gün boyu pinglemesi -->
 
 [![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
