@@ -1,3 +1,5 @@
+
+[![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
 This is where it all begins.
 https://www.rapidtables.com/calc/math/Arctan_Calculator.html
