@@ -1,4 +1,7 @@
-<!-- https://forums.parallax.com/discussion/154838/azimuth-angle-conversion-from-east-to-west -->
+<!-- 
+https://forums.parallax.com/discussion/154838/azimuth-angle-conversion-from-east-to-west 
+https://astronomy.stackexchange.com/questions/31877/how-to-calculate-solar-coordinates-right-ascension-declination-and-ultimatel
+-->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
