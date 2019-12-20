@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz kozmik odayı fetöcülere açan wiccasoft başkanı-->
+<!-- bkz kozmik odayı fetöcülere açan wiccasoft kurmay başkanı -->
 <!-- bkz ekremin pazar günü kliseye gitmesi https://www.youtube.com/watch?v=0rjItOxZAgg -->
 <!-- https://eksisozluk.com/pazar-gunu-seni-kilisede-goremedim-john--915278 -->
 <!-- bkz ekremin cuma gıybetini kaçırması https://www.youtube.com/watch?v=c9MccLlEVLw -->
