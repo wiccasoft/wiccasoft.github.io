@@ -1,5 +1,5 @@
 
-<!-- bkz üç isimli imama hatipli rizeli erkek karizması -->
+<!-- bkz üç isimli imam hatipli rizeli eşi arap erkek karizması -->
 <!-- https://twitter.com/tcbestepe beş parmağında beş marifet -->
 <!-- https://twitter.com/RTErdogan? adam gibi adam -->
 <!-- https://www.instagram.com/rterdogan/?hl=en adamın ham maddesi-->
