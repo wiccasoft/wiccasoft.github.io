@@ -3,7 +3,7 @@
 
 
 <!-- bkz bir gavata ay dede sevgisini anlatmak -->
-<!-- bkz bir kkpliye ttp sevgisini anlatmak --> 
+<!-- bkz bir ssl liye http sevgisini anlatmak --> 
 <!-- https://www.uludagsozluk.com/e/42586397/ bkz tv izlemeyen insan -->
 <!-- bkz gavatların macun kaplıcalı hayranlığı sebebi -->
 <!-- bkz 2020 yılında hala macunun soytarılarını izleyen gavatlar -->
