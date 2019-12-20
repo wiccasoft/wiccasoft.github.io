@@ -1,5 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
+
+<!-- https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-mansur-yava%C5%9F-r%C3%BC%C5%9Fvet-iddias%C4%B1-tweeti/ -->
 <!-- https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCnden-%C5%9Fi%C5%9Fe-%C3%A7%C4%B1kan-insan/ -->
 <!-- https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-geliyor-olmas%C4%B1/&w=bg-- >
 
