@@ -11,7 +11,7 @@
 <!-- bkz vuruşmaktan korkan kürt -->
 <!-- bkz folkan iyesta cicişlerin ibb sitesini gün boyu pinglemesi -->
 
-[![Image](skynet/Screenshot_2019-12-19_16-52-13.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
+[![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
 This is where it all begins.
 https://chaturbate.com/solar_kate/
