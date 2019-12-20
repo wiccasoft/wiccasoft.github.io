@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz kozmik odayı açıp ışınlar saçan lider -->
+<!-- bkz mansur yavaşın ekrem hızlıya yavşak demesi  -->
 <!-- bkz macun kaplıcalının erdoyla bro olması https://www.youtube.com/watch?v=yFG3266htmQ -->
 <!-- bkz macun kaplıcalının hadiseyi jüride tutma kararının asıl sebebi ne sorunsalı -->
 <!-- bkz şeyma subaşının tokmakçısının tatil masrafı için acunu araması  -->
