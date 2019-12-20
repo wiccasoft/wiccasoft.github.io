@@ -1,7 +1,8 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!--bkz anüsüyle egsoz sesi çıkartıp %100 yerliyim diyen erkek -->
+<!-- bkz %100 yüz tesettürlü arabanın cran vrank diye gelmesi -->
+<!-- bkz anüsüyle egsoz sesi çıkartıp %100 yerliyim diyen erkek -->
 <!-- bkz anüsüyle egsoz çıkartıp birasını yudumlayan erkek -->
 <!-- bkz çocuğuna eski tokmakçısının adını veren erkek -->
 <!-- bkz anüsüyle egsoz sesi çıkaran erkek -->
