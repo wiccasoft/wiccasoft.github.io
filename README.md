@@ -2,7 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
 
-<!-- bkz dünya lideri deyince hemen onun adı gelir nedir nedir nedir -->
+<!-- bkz dünya lideri deyince akla hemen onun adı gelir nedir nedir nedir -->
 <!-- bkz rece tay yi er do van  re ce tay yi er do van -->
 <!-- bkz tr yi 10 senede 3 kat fakirleştiren dünya lideri -->
 
