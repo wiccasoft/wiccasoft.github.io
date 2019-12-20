@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- https://eksisozluk.com/acilacak-pompaci-icin-isim-onerileri--6289649?a=popular pompalamasyon bu bizim misyon -->
 <!-- bkz vuruşmaktan korkan erkek https://www.uludagsozluk.com/e/42586341/-->
 <!-- https://www.uludagsozluk.com/e/42586341/ bkz delikanlı gibi vuruşmamaları evet -->
 <!-- bkz acunun şeymanın tokmakçısıyla bro olması -->
