@@ -1,4 +1,5 @@
 <!-- 
+https://www.rapidtables.com/calc/math/Arctan_Calculator.html
 https://forums.parallax.com/discussion/154838/azimuth-angle-conversion-from-east-to-west 
 https://astronomy.stackexchange.com/questions/31877/how-to-calculate-solar-coordinates-right-ascension-declination-and-ultimatel
 -->
