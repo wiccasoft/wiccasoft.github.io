@@ -1,3 +1,5 @@
+
+<!-- https://twitter.com/tcbestepe beş parmağında beş marifet -->
 <!-- https://twitter.com/RTErdogan? adam gibi adam -->
 <!-- https://www.instagram.com/rterdogan/?hl=en adamın ham maddesi-->
 <!-- https://www.tccb.gov.tr/en/receptayyiperdogan/ bkz karizmanın öz oğlu -->
