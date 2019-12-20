@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz erdoganin emineye aşkım demesi -->
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o 190 mercedesle gezerim ben -->
 <!-- bkz anüsüyle egsoz sesi çıkaran bir erkeği üzmek -->
 <!-- bkz anüsüyle egsoz sokup yerli arabayım diyen erkek -->
