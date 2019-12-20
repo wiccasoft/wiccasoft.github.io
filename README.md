@@ -1,4 +1,4 @@
-
+<!-- https://www.youtube.com/watch?v=dZxZjk6QOG8 bkz karizmanın öz oğluşu -->
 <!-- bkz üç isimli imam hatipli rizeli eşi arap sigarası kumarı olmayan erkek karizması -->
 <!-- https://twitter.com/tcbestepe beş parmağında beş marifet -->
 <!-- https://twitter.com/RTErdogan? adam gibi adam -->
