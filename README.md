@@ -1,8 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz akpnin dindar değil kindar nesil istiyoruz rüyasından uyanmaması -->
-<!-- bkz akpnin beraber yürüdük biz bu kozmik yollarda şarkısını jingle yapması -->
+<!-- bkz akpnin kindar değil dindar nesil istiyoruz açıklaması -->
 <!-- bkz mansur yavaşın ekrem hızlıya yavşak demesi  -->
 <!-- bkz macun kaplıcalının erdoyla bro olması https://www.youtube.com/watch?v=yFG3266htmQ -->
 <!-- bkz macun kaplıcalının hadiseyi jüride tutma kararının asıl sebebi ne sorunsalı -->
