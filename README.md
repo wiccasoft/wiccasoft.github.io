@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- https://hitler-benim-atam.uludagsozluk.com/ shh bana bah hele seni ananın önünde sikerim baba dersin bana-->
+<!-- https://hitler-benim-atam.uludagsozluk.com/ shh bana bah hele seni ananın önünde sikerim baba dersin bana ;)-->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz gavat seven bi oğlan -->
 <!-- https://hitler-benim-atam.uludagsozluk.com/ bkz anasına sokan adama baba diyen oğlan -->
 <!-- https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=gd bk vatan sevgisi ney lan -->
