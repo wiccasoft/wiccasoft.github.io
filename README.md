@@ -1,8 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!-- bkz bir kara ambarcıya kamyon sevgisi aşılamak https://www.youtube.com/watch?v=0vVqoZ0Xi_4 -->
-<!-- bkz bir kürde türk sevgisi aşağılamak -->
+<!-- bkz bir kürde türk sevgisi aşağılamak https://www.youtube.com/watch?v=0vVqoZ0Xi_4  -->
 <!-- bkz bir zombiye sarımsak sevgisi aşılamak -->
 <!-- bkz bir gavata ay dede sevgisini anlatmak -->
 <!-- bkz bir ssl liye http sevgisini anlatmak --> 
