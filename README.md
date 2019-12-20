@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim -->
 <!-- https://www.youtube.com/watch?v=dZxZjk6QOG8 bkz karizmanın öz oğluşu -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
-<!-- başaramayacasınız ezanları susturmayacasınız 
+<!-- başaramayacasınız ezanları susturmayacasınız dünya beşten küçüktür
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
 [![Image](skynet/Screenshot_2019-12-18_19-46-05.png)]( https://www.youtube.com/watch?v=5dF0a6LuPsc )
