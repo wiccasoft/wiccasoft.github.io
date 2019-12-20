@@ -1,3 +1,4 @@
+<!-- bkz tayyipi muhammed alinin cenazesine almamaları -->
 <!-- https://www.youtube.com/watch?v=b2iHljAKDT8 bkz doğuştan lider -->
 <!-- bkz ıstırırım yalarım bi de https://www.youtube.com/watch?v=Jt10Yp8Q0K0 ->
 <!-- bkz analar var it doğurur analar var recep tayyip doğurur -->
