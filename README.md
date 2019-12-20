@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz anüsüne egsoz sokup yerli arabayım diyen erkek -->
 <!-- bkz %100 yüz tesettürlü arabanın vrank vrank diye gelmesi -->
 <!-- bkz anüsüyle egsoz sesi çıkartıp %100 yerliyim diyen erkek -->
 <!-- bkz anüsüyle egsoz çıkartıp birasını yudumlayan erkek -->
