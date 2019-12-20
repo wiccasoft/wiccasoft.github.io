@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=nx-F_0s-Cxs hehehehe -->
 <!-- https://www.youtube.com/watch?v=4Fn84I34azs cinconlu ziyareti -->
 <!-- https://www.youtube.com/watch?v=baM2BXtrK6Q yav he he -->
+<!-- https://eksisozluk.com/acun-denilince-akla-gelen-ilk-sey--6288735?a=popular bkz gavat -->
 <!-- https://www.youtube.com/watch?v=btMzn2rG8sQ bkz karizmanın oğluşu -->
 <!-- https://www.youtube.com/watch?v=2H853-L2oRg bkz kamal putçu ezik çomarların göt olması -->
 <!-- bkz tayyipi muhammed alinin cenazesine almamalarına ses etmeyen kamal putçu atayızlar -->
