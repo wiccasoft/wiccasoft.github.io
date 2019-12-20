@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz mansur yavaşın 25 milyon dolarlık yatı -->
 <!-- bkz melih gökçekin ekremi döve döve imana getirmesi -->
 <!-- bkz akpnin kindar değil dindar nesil istiyoruz açıklaması -->
 <!-- bkz mansur yavaşın ekrem hızlıya yavşak demesi  -->
