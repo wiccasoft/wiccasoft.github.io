@@ -1,7 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
-<!--bkz iyestanın sanki biraz şey olması -->
+<!-- bkz iyestanın sanki biraz şey olması https://www.youtube.com/watch?v=I5bIQWjUS7o -->
 <!-- https://www.uludagsozluk.com/k/g%C3%BCvenlik-g%C3%B6revlisinin-imamo%C4%9Flu-na-selam-durmas%C4%B1/&w=gd -->
 <!-- https://www.youtube.com/watch?v=I5bIQWjUS7o 190 mercedesle gezerim ben -->
 <!-- bkz anüsüyle egsoz sesi çıkaran bir erkeği üzmek -->
