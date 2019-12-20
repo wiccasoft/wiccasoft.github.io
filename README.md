@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- bkz recep tayyip errdoğanın kamuon şöförüne benzemesi sorunsalı -->
 <!-- bkz bir kürde türk sevgisi aşağılamak https://www.youtube.com/watch?v=0vVqoZ0Xi_4  -->
 <!-- bkz bir zombiye sarımsak sevgisi aşılamak -->
 <!-- bkz bir gavata ay dede sevgisini anlatmak -->
