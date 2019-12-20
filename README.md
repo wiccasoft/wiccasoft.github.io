@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!-- https://www.uludagsozluk.com/k/galatasaray-a-kayyum-atanmas%C4%B1/&w=bg bkz fatih terimi kayyum atamak -->
 <!-- bkz recep tayyip errdoğanın kamuon şöförüne benzemesi sorunsalı -->
 <!-- bkz bir kürde türk sevgisi aşağılamak https://www.youtube.com/watch?v=0vVqoZ0Xi_4  -->
 <!-- bkz bir zombiye sarımsak sevgisi aşılamak -->
