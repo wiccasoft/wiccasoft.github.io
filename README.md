@@ -1,6 +1,7 @@
 <!-- https://www.youtube.com/watch?v=LA-Z4NZZnhk -->
 <!-- https://www.youtube.com/watch?v=pneoCZSiofI -->
 
+<!--bkz anüsünden şişe çıkan gavat erkek -->
 <!--bkz götünde 18 cm soda şişseyile gezen ablasınaı sikenlere enişte diyen erkek-->
 <!--bkz annesinin sikerken babasına beline kuvvet diyen erkek -->
 <!-- https://www.uludagsozluk.com/k/%C5%9Feyhimi-%C3%B6pt%C3%BC%C4%9F%C3%BCmde-bakan-de%C4%9Fildim/ -->
