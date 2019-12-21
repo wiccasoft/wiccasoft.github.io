@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz reisine vurduramayan ergenin sölzükte çıldırması -->
 <!-- bkz sağcıların gay olma sebepleri -->
 <!-- bkz fatih terimin efso gay soyunma odası konuşması -->
 <!-- bkz tayyibni ak nonoşların hoplatacağı gerçeği -->
