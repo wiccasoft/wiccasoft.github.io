@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 <!--
+https://www.esrl.noaa.gov/gmd/grad/solcalc/
 https://en.wikipedia.org/wiki/Solar_azimuth_angle 
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
