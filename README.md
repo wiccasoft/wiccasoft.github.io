@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- https://www.youtube.com/watch?v=r-Qp9CWaba4  -->
 <!-- bkz kılıçdaroğlunun oğlunun pipisini ak nonoşların götüne sokup sigara yakıp izlemek -->
 <!-- bkz ak nonoşun götünü parmaklayıp ameno okutmak -->
 <!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz gel beri gel beri götüne koyam ben seni -->
