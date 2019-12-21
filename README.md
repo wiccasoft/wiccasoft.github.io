@@ -7,7 +7,8 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!--bkz barış atayın erdonun saray artı holosco teklifin reddetmesi -->
+<!-- bkz barış atayın meclis komisyonunna verdiği dilekçe -->
+<!-- bkz barış atayın erdonun saray artı holosco teklifin reddetmesi -->
 <!-- bkz erdonun barış atayı saraya çağırdır iddiaları -->
 <!-- bkz barış atayın oğuz atayı anması -->
 <!-- bkz barış atay ın paylaştığı oğuz atay fotosu -->
