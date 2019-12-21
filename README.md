@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
+<!-- https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flunun-fox-tvde-program-yapmas%C4%B1/ bkz hoşgeldin mümin kardeş -->
 <!-- https://www.uludagsozluk.com/k/behzat-%C3%A7/&w=bg bkz hoşgeldin harun abi -->
 <!-- https://www.uludagsozluk.com/k/behzat-%C3%A7-harun-ve-ailesi/ bkz harun abi hoşgeldin-->
 <!-- bkz recep tayyip doğanın simit sarayı çarkı geri vitesi -->
