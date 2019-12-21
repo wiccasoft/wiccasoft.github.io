@@ -17,6 +17,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 <!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-i%C3%A7ler-ac%C4%B1s%C4%B1-durumu/&w=bg güldürür evet -->
 <!--https://www.uludagsozluk.com/k/chp-li-sinan-ayg%C3%BCn-%C3%BCn-r%C3%BC%C5%9Fvet-ses-kayd%C4%B1-iddias%C4%B1/ -->
 <!-- bkz zall ona hep oç derin başlıklarına uğramayan akitler -->
+<!-- bkz şaka maka tayyipin tr nin anasını sikmesi -->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
