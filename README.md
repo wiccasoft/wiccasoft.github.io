@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
+<!-- bkz ak nonoşların siklenmedikçe entry girmeleri -->
 <!-- bkz bi ergeni bi ak nonoşun kulağına ananın amı demek -->
 <!-- bkz kadir mısıroğlu anasının üstünde yakalansa diye dua eden ak nonoş -->
 <!-- https://www.uludagsozluk.com/e/42591325/ bkz ak nonoşların karıştığı olaylar -->
