@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz fatih terimin 10 zenci arasında gangbang yapması -->
 <!-- bkz gavatsaray logsunun çok gey olması -->
 <!-- bkz bi ak ve ergen nonoşun kulağına kefenin hazır mı diye fısıldamak -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-sevdal%C4%B1lar%C4%B1/&w=gd bkz ak nonoşlar -->
