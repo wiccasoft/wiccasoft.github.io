@@ -11,32 +11,6 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz sarayın elektrik kaçırma iddialarını yalanlaması --> 
-<!-- bkz saraydan elektrik kaçıran kürt -->
-<!-- bkz saraydan taner karadağlıya tokat gibi cevap -->
-<!-- bkz saraya giden o isim kim tartışması -->
-<!-- bkz chp nin paylaştığı erdoğanın arkasındayız paylaşımı --> 
-<!-- bkz taner karadağlı nın ana babababa layt erkeği demesi -->
-<!-- bkz selohottin demirtaşın demir ambargosu götünüze girdi mi paylaşımı -->
-<!-- bkz taner karadağlının paylaştığı dağ fotosu -->
-<!-- bkz hayallerde yaşıyor bazı ak nonoşlar -->
-<!-- bkz bir topkekli internet sanağ  bir saray banağ -->
-<!-- bkz fatih terimin fenerlilere drogbayı salması -->
-<!-- bkz fatih tezcanın fatih terime verdiği efso ayar -->
-<!-- bkz selçuk inanın üçlü çektirmesi -->
-<!-- bkz abdurrahim albayrakın gerçekleri galat yazar onu da galatasaray paylaşımı -->
-<!-- bkz fatih terimin efso soyunma odası konuşması -->
-<!-- bkz reisine vurduramayan ergenin sölzükte çıldırması -->
-<!-- bkz sağcıların gay olma sebepleri -->
-<!-- bkz fatih terimin efso gay soyunma odası konuşması -->
-<!-- bkz tayyibni ak nonoşların hoplatacağı gerçeği -->
-<!-- bkz fatih terimin 10 zenci arasında gangbang yapması -->
-<!-- bkz gavatsaray logsunun çok gey olması -->
-<!-- bkz bi ak ve ergen nonoşun kulağına kefenin hazır mı diye fısıldamak -->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-sevdal%C4%B1lar%C4%B1/&w=gd bkz ak nonoşlar -->
-<!-- https://www.uludagsozluk.com/e/42591016/ bkz pasif gayler-->
-<!-- https://www.uludagsozluk.com/e/42591004/ bkz götünü rte sikse kamal diyecek ergen -->
-
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
 https://chaturbate.com/solar_kate/
