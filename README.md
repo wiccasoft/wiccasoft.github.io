@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
+<!-- bkz tayyipin ak nonoşların götlerine minare bağlayıp coşturması -->
 <!-- bkz buz ezanlarki yurdumun üstünde inlemeli nasıl böyle bir imanı boğar diyen ak nonoşun bokunda boğulması -->
 <!-- bkz ülkene götten sokarım diyen ak nonoşun tayyipe şikayet etmesi -->
 <!-- bkz vatan elden gidiyo diyen ak nonoşa ananı da al git demek -->
