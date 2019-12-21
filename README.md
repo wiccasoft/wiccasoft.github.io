@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- https://www.uludagsozluk.com/k/iktidar-i%C3%A7in-papaz-elbisesi-giyen-%C3%BCmmet-lideri/&w=bg bkz acele etme papaz-->
 <!-- https://www.uludagsozluk.com/k/hatem-ben-arfa-n%C4%B1n-galatasaray-a-transfer-olmas%C4%B1/ bkz yakışıklı -->
 <!-- bkz gassarayaın bir buçuk milyar borcu için forma alıyoruz kampanyası -->
 <!-- https://www.uludagsozluk.com/k/galatasaray-bal%C4%B1/&w=bg bkz sarayı ziyaret eden takım -->
