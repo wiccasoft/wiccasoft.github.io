@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz fatih tezcan fatih erbakan dostluğu -->
 <!-- bkz fatih tezcanın fatih atalylıya verdiği ayar -->
 <!-- bkz fatih erbakanın paylaştığı ay dede fotoğrafı -->
 <!-- bkz kamal kılıççıoğlanın celal kılıççıoğlanı kardeşlikten redetmesi --<
