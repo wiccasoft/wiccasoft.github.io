@@ -8,7 +8,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 -->
 
 <!-- bkz enes abi anamı sik  https://www.youtube.com/watch?v=ddqDvlmZkFY  siiiik --->
-<!-- bkz enes abi tıklağ be abiğ hadi tıklağ beğ abiğ ne kaybeden -->
+<!-- bkz enes abi tıklağ be abiğ hadi tıklağ beğ abiğ ne kaybeden bi kere anmı siksen öür müsün be abiğ -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz zuahahahahaha -->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-ekonomiden-yak%C4%B1nmas%C4%B1/ bkz hayallerde yaşıyor.. -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz erdoğanın ekonomiden yakınıp kendine zam yapması :)) -->
