@@ -12,7 +12,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
-<!--bkz kadıköyde çadırı kuran adamın yarrağı -->
+<!-- bkz al bunu alamaz mısın denilen sen nasıl ak nonoşsun ak nonoşun uluda ağlaması -->
+<!-- bkz kadıköyde çadırı kuran adamın yarrağı -->
 <!-- bkz tayyip ak nonoşları hemen öldürme tek eğlencemiz lan -->
 <!-- bkz ak nonoşların marmara denizinin taban profilini incerlemesi -->
 <!-- bkz tayyipin sözlükte zor tuttuğu ak nonoşlar :)))))) -->
