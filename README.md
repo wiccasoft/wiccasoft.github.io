@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
+
+<!-- https://www.uludagsozluk.com/k/mbaye-diagne-nin-galatasaray-a-d%C3%B6nmesi/ bkz iki gözümün çiçeği -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz üç isimli erkek karizması -->
 <!-- https://www.youtube.com/watch?v=YWZoZj1JJUI papaz efendi acele etme -->
 <!-- https://www.youtube.com/watch?v=S-m1WImjqsE bkz acele etme papaz efendi -->
