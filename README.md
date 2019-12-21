@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz fatih tezcanın mansır yavaş a verdiği efso ayar -->
 <!-- bkz fatih terimin efso soyunma odası konuşması -->
 <!-- bkz aydemir akbaşın galata için karıyı satarım çıkışı -->
 <!-- bkz göztepenin oçlarına tersten saplaması -->
