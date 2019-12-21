@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
-
+<!--bk< hayallerde yaşıyor bazı ak nonoşlar -->
 <!-- bkz bir topkekli internet sanağ  bir saray banağ -->
 <!-- bkz fatih terimin fenerlilere drogbayı salması -->
 <!-- bkz fatih tezcanın fatih terime verdiği efso ayar -->
