@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
+<!-- bkz kadir mısırcıoğlanın atasıçmığına boru gibi geçirdiği konuşma -->
 <!-- bkz iyesta cicişlerin imamaoğluna bu gün başlık açmaması sorunsalı -->
 <!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F-insan-i%C3%A7ine-%C3%A7%C4%B1kamayacak-hale-gelecek/ bkz folkan -->
 <!-- https://www.uludagsozluk.com/k/adile-na%C5%9Fit-in-ermeni-as%C4%B1ll%C4%B1-olmas%C4%B1/&w=bg bkz sazan avi -->
