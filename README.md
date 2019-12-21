@@ -12,7 +12,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
-<!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz si-ra-dan-sir-gay  -->
+<!-- https://hitler-benim-atam.uludagsozluk.com bkz ağır bdsm fantazileri olan ergen -->
+<!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz si-ra-dan-sir-gay -->
 <!-- bkz rte nin alt dudaklarına yapışıp adam gibi adamsın demek -->
 <!-- bkz fatih terimin dudaklarını ısırıp bunadın mı demek -->
 <!-- https://www.uludagsozluk.com/e/42591160/ bk aknonoşun pipilerini severek öptüğü şeyhler -->
