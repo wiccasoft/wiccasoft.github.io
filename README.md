@@ -11,7 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz uludaki gay ergenlerin güldürmesi -->
+<!-- bkz ulugaylerinin güldürmesi -->
 <!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz si-ra-dan-sir-gay  -->
 <!-- bkz rte nin alt dudaklarına yapışıp adam gibi adamsın demek -->
 <!-- bkz fatih terimin dudaklarını ısırıp bunadın mı demek -->
