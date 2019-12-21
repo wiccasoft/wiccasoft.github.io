@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
+
+<!-- bkz baykalın seks kasedi vs sinana yagünün seks kasedi -->
 <!-- bkz chpli sinana aygününp paylaştığı seks kasedi -->
 <!-- bkz radamel falcao garcia nın bu yaştan sonra ben mi koşacam demesi -->
 <!-- bkz radamel falcao garcia nın paylaştığı et fotoğrafı -->
