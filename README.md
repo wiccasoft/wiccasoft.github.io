@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!--https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-ilk-se%C3%A7imde-gidece%C4%9Fi-ger%C3%A7e%C4%9Fi/  bkz hayallerde yaşıyor bazı ibneler -->
+<!--https://www.uludagsozluk.com/e/42590148/  bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI bkz karizmanın seçimle gitmem diyen hali -->
 <!-- bkzyunan dölü vs recep tayyipten doğan -->
 <!-- https://www.tccb.gov.tr/receptayyiperdogan/ bkz karizmanın özünden doğan -->
