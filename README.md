@@ -7,7 +7,8 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!--b kz fatih erbanakandan bir yaş büyük olmama ama erdoğanın damadı olmamam -->
+<!-- bkz celal kılıçtıroğlanın abisini kötülemesi -->
+<!-- bkz fatih erbanakandan bir yaş büyük olmama ama erdoğanın damadı olmamam -->
 <!-- bkz deep turkish web teki ibnelerin beni yaşıtları sanması olayı -->
 <!-- bkz ramael falcao garcia abi anamı sik be abi hadi beğ abiğ  -->
 <!-- bkz enes abi anamı sik  https://www.youtube.com/watch?v=ddqDvlmZkFY  siiiik --->
