@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
+<!-- https://www.uludagsozluk.com/e/42591325/ bkz ak nonoşların karıştığı olaylar -->
 <!-- bkz yall ile zall ona hep oç derin 10 dakikadır entry girmemesi -->
 <!-- https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz ağır nonoş -->
 <!-- https://hitler-benim-atam.uludagsozluk.com bkz ağır bdsm fantazileri olan ergen -->
