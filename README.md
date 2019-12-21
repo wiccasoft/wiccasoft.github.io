@@ -11,7 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz bi ak nonoşun kulağına 2023 kefenin hazır mı diye fısıldamak -->
+<!-- bkz bi ak ve ergen nonoşun kulağına kefenin hazır mı diye fısıldamak -->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-sevdal%C4%B1lar%C4%B1/&w=gd bkz ak nonoşlar -->
 <!-- https://www.uludagsozluk.com/e/42591016/ bkz pasif gayler-->
 <!-- https://www.uludagsozluk.com/e/42591004/ bkz götünü rte sikse kamal diyecek ergen -->
