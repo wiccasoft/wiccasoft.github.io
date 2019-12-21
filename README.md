@@ -7,7 +7,8 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!--bkz fatih terimin falcaoya soyunma odasında attığı bakış -->
+<!-- bkz radamel falcao garcia nın 3 kilo et yiyp yatması -->
+<!-- bkz fatih terimin falcaoya soyunma odasında attığı bakış -->
 <!-- https://www.uludagsozluk.com/k/mbaye-diagne-nin-galatasaray-a-d%C3%B6nmesi/ bkz iki gözümün çiçeği -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz üç isimli erkek karizması -->
 <!-- https://www.youtube.com/watch?v=YWZoZj1JJUI papaz efendi acele etme -->
