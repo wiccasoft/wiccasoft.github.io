@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI bkz karizmanın seçimle gitmem diyen hali -->
 <!-- bkz yunan dölü vs recep tayyipten doğan -->
 <!-- https://www.tccb.gov.tr/receptayyiperdogan/ bkz karizmanın özünden doğan -->
 <!-- bkz recep tayyip doğan karizmasının atasıçmığını bitirmesi -->
