@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 <!--
+This is where it all begins.
 https://www.esrl.noaa.gov/gmd/grad/solcalc/
 https://en.wikipedia.org/wiki/Solar_azimuth_angle 
 https://en.wikipedia.org/wiki/Position_of_the_Sun
@@ -9,74 +10,9 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz fatih tezcanın analiz merkezi maaşına zam istemesi -->
-<!-- bkz fatih tezcanın mansır yavaş a verdiği efso ayar -->
-<!-- bkz fatih terimin efso soyunma odası konuşması -->
-<!-- bkz aydemir akbaşın galata için karıyı satarım çıkışı -->
-<!-- bkz göztepenin oçlarına tersten saplaması -->
-<!-- bkz gerçekleri oçları yazar galatahahahahahaha --->
-<!-- bkz hasan şaşın verimyene penaltısınıa ses etmeyen oç ları -->
-<!-- bkz fatih terimin radamel falcao garciayı eliyle beslemesi -->
-<!-- bkz barış atayın oğzu atay anısına paylaştığı ay dede paylaşımı -->
-<!-- bkz abdurrahim albayrakın paylaştığı gerçekleri tarih yazar onu da galatyazar paylaşımı  -->
-<!-- bkz ramael falcao garcia abi anamı sik be abi hadi beğ abiğ  -->
-<!-- bkz enes abi anamı sik  https://www.youtube.com/watch?v=ddqDvlmZkFY  siiiik --->
-<!-- bkz enes abi tıklağ be abiğ hadi tıklağ beğ abiğ ne kaybeden bi kere anmı siksen öür müsün be abiğ -->
-<!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz zuahahahahaha -->
-<!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-ekonomiden-yak%C4%B1nmas%C4%B1/ bkz hayallerde yaşıyor.. -->
-<!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz erdoğanın ekonomiden yakınıp kendine zam yapması :)) -->
-<!-- https://www.uludagsozluk.com/k/mbaye-diagne-nin-galatasaray-a-d%C3%B6nmesi/ bkz iki gözümün çiçeği -->
-<!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz üç isimli erkek karizması -->
-<!-- https://www.youtube.com/watch?v=YWZoZj1JJUI papaz efendi acele etme -->
-<!-- https://www.youtube.com/watch?v=S-m1WImjqsE bkz acele etme papaz efendi -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz erdonun papazları deli etmek için ezanlara yüklenmesi -->
-<!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz papazların korkulu rüyası badem bıyıklı -->
-<!-- bkz ecele etme papaz efendinin papaz düşmanı mümin dostu olması -->
-<!-- https://www.uludagsozluk.com/k/iktidar-i%C3%A7in-papaz-elbisesi-giyen-%C3%BCmmet-lideri/&w=bg bkz acele etme papaz-->
-<!-- https://www.uludagsozluk.com/k/hatem-ben-arfa-n%C4%B1n-galatasaray-a-transfer-olmas%C4%B1/ bkz yakışıklı -->
-<!-- bkz gassarayaın bir buçuk milyar borcu için forma alıyoruz kampanyası -->
-<!-- https://www.uludagsozluk.com/k/galatasaray-bal%C4%B1/&w=bg bkz sarayı ziyaret eden takım -->
-<!-- https://www.uludagsozluk.com/e/42590148/  bkz hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI bkz karizmanın seçimle gitmem diyen hali -->
-<!-- bkzyunan dölü vs recep tayyipten doğan -->
-<!-- https://www.tccb.gov.tr/receptayyiperdogan/ bkz karizmanın özünden doğan -->
-<!-- bkz recep tayyip doğan karizmasının atasıçmığını bitirmesi -->
-<!-- bkz mustafa kamal itten sıçarak doğan vs tayyip karizmadan doğan -->
-<!-- bkz analar var kamalit doğurur analar var tayyip doğurur -->
-<!-- bkz atasıçmıklarının osmanlı torunu erdoğan görünce it gibi kaçmaları -->
-<!-- bkz erdoganin ezanlarki yurdumun üstünde inlemeli demesini çekemeyne atasıçmıkları -->
-<!-- bkz atasıçmıkın mezarına işeyip nasıl koydu erdogan demek -->
-<!-- bkz recep tayyip doğan vs atasıçmık -->
-<!-- bkz recep tayyip doğanın atatsıçmıklarına döşediği kanal-->
-<!-- bkz atasıçmıkçıları vs tayyip doğanın yiğitleri -->
-<!-- bkz atasıçmığı vs recep tayyip doğan -->
-<!-- bkz kadir mısırcıoğlanın atasıçmığına boru gibi geçirdiği konuşma -->
-<!-- bkz iyesta cicişlerin imamaoğluna bu gün başlık açmaması sorunsalı -->
-<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F-insan-i%C3%A7ine-%C3%A7%C4%B1kamayacak-hale-gelecek/ bkz folkan -->
-<!-- https://www.uludagsozluk.com/k/adile-na%C5%9Fit-in-ermeni-as%C4%B1ll%C4%B1-olmas%C4%B1/&w=bg bkz sazan avi -->
-<!-- https://www.uludagsozluk.com/k/nihat-hatipo%C4%9Flunun-fox-tvde-program-yapmas%C4%B1/ bkz hoşgeldin mümin kardeş -->
-<!-- https://www.uludagsozluk.com/k/behzat-%C3%A7/&w=bg bkz hoşgeldin harun abi -->
-<!-- https://www.uludagsozluk.com/k/behzat-%C3%A7-harun-ve-ailesi/ bkz harun abi hoşgeldin-->
-<!-- bkz recep tayyip doğanın simit sarayı çarkı geri vitesi -->
-<!-- bkz recep tayyip doğanın seçimle gideceğini sanan saflar -->
-<!-- https://www.youtube.com/watch?v=ktmzyChfPmk lol -->
-<!-- https://www.youtube.com/watch?v=P1dj8oP55eI --->
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-sevdal%C4%B1lar%C4%B1/ bkz ak kefenliler -->
-<!-- https://www.uludagsozluk.com/k/ekrem-den-mansur-a-h%C4%B1zl%C4%B1-ge%C3%A7i%C5%9F-evresi/ bkz vakit kazanmak -->
-<!-- https://www.uludagsozluk.com/k/nas%C4%B1l-s%C3%BCvey%C5%9F-ve-cebelitar%C4%B1k-varsa-bu-da-olacak/ bkz ama kanal yabdı -->
-<!-- bkz bi akplinin kulağına 2023 kefenenin hazır mı diye fısıldamak -->
-<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz mansurun gümbür gümbür gelmesi -->
-<!-- https://www.uludagsozluk.com/k/kemalistlerin-ortak-%C3%B6zelli%C4%9Fi/ bk< kamalcı olmaları -->
-<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-i%C3%A7ler-ac%C4%B1s%C4%B1-durumu/&w=bg güldürür evet -->
-<!--https://www.uludagsozluk.com/k/chp-li-sinan-ayg%C3%BCn-%C3%BCn-r%C3%BC%C5%9Fvet-ses-kayd%C4%B1-iddias%C4%B1/ -->
-<!-- bkz zall ona hep oç derin başlıklarına uğramayan akitler -->
-<!-- bkz şaka maka tayyipin tr nin anasını sikmesi -->
-<!-- https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz hayallerde yaşıyor ergenler -->
-<!-- https://www.uludagsozluk.com/k/asalaklar-idam-edilsin-kampanyas%C4%B1/ bkz entry girmeyen asalaklar --->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
-This is where it all begins.
 https://chaturbate.com/solar_kate/
 https://chaturbate.com/photo_videos/photo/big/solar_kate/15098225/
 https://www.rapidtables.com/calc/math/Arctan_Calculator.html
