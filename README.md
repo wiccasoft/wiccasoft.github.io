@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
-
+<!-- https://www.youtube.com/watch?v=yGDkkHnGRxo bkz erdoganin geçinemiyorum isyanı -->
 <!-- https://www.tccb.gov.tr/receptayyiperdogan/ bkz karizmanın özünden doğan -->
 <!-- bkz recep tayyip doğan karizmasının atasıçmığını bitirmesi -->
 <!-- bkz mustafa kamal itten sıçarak doğan vs tayyip karizmadan doğan -->
