@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
+<!-- bkz tayyip ak nonoşları hemen öldürme tek eğlencemiz lan -->
 <!-- bkz ak nonoşların marmara denizinin taban profilini incerlemesi -->
 <!-- bkz tayyipin sözlükte zor tuttuğu ak nonoşlar :)))))) -->
 <!-- bkz tayyip aknonoşları ithal etlerle ne zaman zehirleyecek sorunsalı -->
