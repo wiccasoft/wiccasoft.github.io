@@ -1,11 +1,12 @@
 
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
-<!--https://en.wikipedia.org/wiki/Solar_azimuth_angle -->
+<!--
+https://en.wikipedia.org/wiki/Solar_azimuth_angle 
+https://en.wikipedia.org/wiki/Position_of_the_Sun
+-->
 <!--bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw -->
-<!--bkz zer0 fucks given that day -->
-<!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
-<!-- https://www.uludagsozluk.com/k/google-vs-yandex/&w=gd bkz tarık -->
+>
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
