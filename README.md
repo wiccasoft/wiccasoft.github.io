@@ -1,6 +1,8 @@
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- https://www.uludagsozluk.com/k/google-vs-yandex/&w=gd bkz tarık -->
+
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
 This is where it all begins.
