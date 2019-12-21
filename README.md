@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
-<!-- bkz tayyip şu aknonoşları ithal etlerle ne zaman zehirleyecek sorunsalı -->
+<!-- bkz tayyip aknonoşları ithal etlerle ne zaman zehirleyecek sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42591492/ bkz hayallerde yaşıyor bazı ak nonoşlar -->
 <!-- https://napacuhh.uludagsozluk.com/ bkz yazık la kimim sıçmığıysa -->
 <!-- https://www.uludagsozluk.com/e/42591486/ bkz hacca giden teyzesi getirmiş beyler :)) -->
