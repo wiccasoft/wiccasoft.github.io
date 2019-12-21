@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!-- bkz enes abi anamı sik abiiii --->
+<!-- bkz enes abi anamı sik abiiii https://www.youtube.com/watch?v=k9Y9-xueg5M --->
 <!-- bkz enes abinin haterlarının enes abiyi kıskanması -->
 <!-- bkz enes abinin paylaştığı video bi bak be abiğ belki paylaşmıştır hadi beğ tıklağ beğ abiğ -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz zuahahahahaha -->
