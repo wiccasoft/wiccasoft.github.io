@@ -10,8 +10,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
-
-<!-- bkz ak nonoşların annlerinin çok ateşli milf olması -->
+<!-- bkz ak nonoşların annelerinin çok ateşli milf olması -->
 <!--- https://www.uludagsozluk.com/e/42591119/ annenin daha ateşli bir orospu olması -->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
