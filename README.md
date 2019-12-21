@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 <!-- https://www.youtube.com/watch?v=ktmzyChfPmk lol -->
+<!-- https://www.youtube.com/watch?v=P1dj8oP55eI --->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
