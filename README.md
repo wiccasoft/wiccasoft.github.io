@@ -4,9 +4,9 @@
 <!--
 https://en.wikipedia.org/wiki/Solar_azimuth_angle 
 https://en.wikipedia.org/wiki/Position_of_the_Sun
+bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
-<!--bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw -->
->
+
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
