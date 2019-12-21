@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
-
+<!-- bkz radamel falcao garcia nın paylaştığı et fotoğrafı -->
 <!-- bkz radamel falcao garcia nın 3 kilo et yiyip yatması -->
 <!-- bkz fatih terimin falcaoya soyunma odasında attığı bakış -->
 <!-- https://www.uludagsozluk.com/k/mbaye-diagne-nin-galatasaray-a-d%C3%B6nmesi/ bkz iki gözümün çiçeği -->
