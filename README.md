@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz hasan şaşın verimyene penaltısınıa ses etmeyen oç ları -->
 <!-- bkz fatih terimin radamel falcao garciayı eliyle beslemesi -->
 <!-- bkz barış atayın oğzu atay anısına paylaştığı ay dede paylaşımı -->
 <!-- bkz abdurrahim albayrakın paylaştığı gerçekleri tarih yazar onu da galatyazar paylaşımı  -->
