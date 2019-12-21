@@ -14,6 +14,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 <!-- bkz bi akplinin kulağına 2023 kefenenin hazır mı diye fısıldamak -->
 <!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg bkz mansurun gümbür gümbür gelmesi -->
 <!-- https://www.uludagsozluk.com/k/kemalistlerin-ortak-%C3%B6zelli%C4%9Fi/ bk< kamalcı olmaları -->
+<!-- https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-i%C3%A7ler-ac%C4%B1s%C4%B1-durumu/&w=bg güldürür evet -->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
