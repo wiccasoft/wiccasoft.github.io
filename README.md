@@ -7,7 +7,8 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!-- bkz wiccasoft  un radamel falcao garcia  mı acaba sorunsalı -->
+<!-- bkz wiccasoft berat albayrak olabilir mi acaba sorunsalı -->
+<!-- bkz wiccasoft radamel falcao garcia  mı acaba sorunsalı -->
 <!-- bkz wiccasoftun erdoğana muhalefet etmemesi -->
 <!-- bkz wiccasoft akp mi acaba sorualı -->
 <!-- bkz wiccasoftun 2020 seçimlerine katılmama açıklaması -->
