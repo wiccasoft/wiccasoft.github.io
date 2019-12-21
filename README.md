@@ -10,15 +10,6 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz zuahahahahaha -->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-ekonomiden-yak%C4%B1nmas%C4%B1/ bkz hayallerde yaşıyor.. -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz erdoğanın ekonomiden yakınıp kendine zam yapması :)) -->
-<!-- bkz seksi konuşan seksi erkeği seksi bulmayan akpli -->
-<!-- bkz sinana aygünnü seksi değilmiyim ben demesi --> 
-<!-- bkz bir erkeğin en seksi olduğu an -->
-<!-- bkz baykalın seks kasedi vs sinana yagünün seks kasedi -->
-<!-- bkz chpli sinan aygünün paylaştığı seks kasedi -->
-<!-- bkz radamel falcao garcia nın bu yaştan sonra ben mi koşacam demesi -->
-<!-- bkz radamel falcao garcia nın paylaştığı et fotoğrafı -->
-<!-- bkz radamel falcao garcia nın 3 kilo et yiyip yatması -->
-<!-- bkz fatih terimin falcaoya soyunma odasında attığı bakış -->
 <!-- https://www.uludagsozluk.com/k/mbaye-diagne-nin-galatasaray-a-d%C3%B6nmesi/ bkz iki gözümün çiçeği -->
 <!-- https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=gd bkz üç isimli erkek karizması -->
 <!-- https://www.youtube.com/watch?v=YWZoZj1JJUI papaz efendi acele etme -->
