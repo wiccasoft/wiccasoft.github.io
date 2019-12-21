@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz gel beri gel beri götüne koyam ben seni -->
-<!-- bkz sigara içerken sigara içmeyen bi ak nonoşun azına malafatı vermek -->
+<!-- bkz sigara içerken sigara içmeyen bi ak nonoşun azına malafatı verip kafasını bastırmak -->
 <!-- bkz nası koydu ama recep tayyip erdoğan oooooooo ooooo -->
 <!-- bkz ak nonoşların güldürmesi -->
 <!-- bkz tayyip koydukça vıyaklayan ak nonoşlar -->
