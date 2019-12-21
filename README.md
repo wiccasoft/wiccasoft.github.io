@@ -10,6 +10,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 <!-- https://www.youtube.com/watch?v=P1dj8oP55eI --->
 <!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-sevdal%C4%B1lar%C4%B1/ bkz ak kefenliler -->
 <!-- https://www.uludagsozluk.com/k/ekrem-den-mansur-a-h%C4%B1zl%C4%B1-ge%C3%A7i%C5%9F-evresi/ bkz vakit kazanmak -->
+<!-- https://www.uludagsozluk.com/k/nas%C4%B1l-s%C3%BCvey%C5%9F-ve-cebelitar%C4%B1k-varsa-bu-da-olacak/ bkz ama kanal yabdı -->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
