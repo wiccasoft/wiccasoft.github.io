@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!--b kz mansur yavaşın wiccasoft altından ankarayı parsel parsel satması -->
 <!-- bkz wiccasoftu fetö ihbar hattına şikayet ediyoruz kampanyası -->
 <!-- bkz mansur yavaşın fetöcü olmasını itiraf etmesi -->
 <!-- bkz barış atayın oğzu atayın kardeşi olmasını kullanması -->
