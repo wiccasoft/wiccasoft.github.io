@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!-- bkz recep tayyip doğanın atatsıçmıklarıana döşediği kanal-->
+<!-- bkz recep tayyip doğanın atatsıçmıklarına döşediği kanal-->
 <!-- bkz atasıçmıkçıları vs tayyip doğanın yiğitleri -->
 <!-- bkz atasıçmığı vs recep tayyip doğan -->
 <!-- bkz kadir mısırcıoğlanın atasıçmığına boru gibi geçirdiği konuşma -->
