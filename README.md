@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz mansur yavaşın saat heykelini kaldırmaması -->
 <!-- bkz celal kılıçtıroğlanın abisini kötülemesi -->
 <!-- bkz fatih erbanakandan bir yaş büyük olmama ama erdoğanın damadı olmamam -->
 <!-- bkz deep turkish web teki ibnelerin beni yaşıtları sanması olayı -->
