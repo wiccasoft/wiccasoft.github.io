@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz wiccasoft kemal kılıçdaroğlu olabilir mi sorunsalı -->
 <!-- bkz wiccasoft un fatih erbakan olmas ihtimali -->
 <!-- bkz wiccasoft rte mi mansur yavaşmı imamaoğlu mu barış atay mı sorunsalı-->
 <!-- bkz mansur yavaşın wiccasoft altından ankarayı parsel parsel satması -->
