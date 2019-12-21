@@ -8,7 +8,6 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 -->
 
 <!-- bkz abdurrahim albayrakın paylaştığı gerçekleri tarih yazar onu da galatyazar paylaşımı  -->
-<!-- bkz wiccasoft un istifa etmemesi -->
 <!-- bkz wiccasoft berat albayrak olabilir mi acaba sorunsalı -->
 <!-- bkz wiccasoft radamel falcao garcia  mı acaba sorunsalı -->
 <!-- bkz wiccasoftun erdoğana muhalefet etmemesi -->
