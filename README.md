@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz tayyip şu aknonoşları ithal etlerle ne zaman zehirleyecek sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42591492/ bkz hayallerde yaşıyor bazı ak nonoşlar -->
 <!-- https://napacuhh.uludagsozluk.com/ bkz yazık la kimim sıçmığıysa -->
-<!-- https://www.uludagsozluk.com/e/42591486/ bkz hacca giden teyzesi getirmeiş beyler -->
+<!-- https://www.uludagsozluk.com/e/42591486/ bkz hacca giden teyzesi getirmiş beyler :)) -->
 <!-- bkz bi ak nonoşun götüne telefon sokup alo tayip orda mı demek -->
 <!-- https://www.uludagsozluk.com/k/telefonu-hi%C3%A7-susmayan-berber/ bkz telefoncu ekrem -->
 <!-- https://www.uludagsozluk.com/e/42590732/ bkz ak nonoş götüne başka erkek sokmasın mühendiliği -->
