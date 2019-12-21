@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
+<!-- https://www.uludagsozluk.com/k/telefonu-hi%C3%A7-susmayan-berber/ bkz kola koymak -->
 <!-- https://www.uludagsozluk.com/e/42590732/ bkz ak nonoş götüne başka erkek sokmasın mühendiliği -->
 <!-- bkz ak nonoşlara sadece johny sisns gözüyle bakabilmek -->
 <!-- https://www.uludagsozluk.com/e/42591449/ bk ak nonoşun coşması -->
