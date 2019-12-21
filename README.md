@@ -19,6 +19,8 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 <!-- bkz zall ona hep oç derin başlıklarına uğramayan akitler -->
 <!-- bkz şaka maka tayyipin tr nin anasını sikmesi -->
 <!-- https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz hayallerde yaşıyor ergenler -->
+<!-- https://www.uludagsozluk.com/k/asalaklar-idam-edilsin-kampanyas%C4%B1/ bkz entry girmeyen asalaklar --->
+
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
 This is where it all begins.
