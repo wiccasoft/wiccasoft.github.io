@@ -4,6 +4,7 @@
 <!--
 This is where it all begins.
 https://www.esrl.noaa.gov/gmd/grad/solcalc/
+https://www.esrl.noaa.gov/gmd/grad/solcalc/azel.html
 https://en.wikipedia.org/wiki/Solar_azimuth_angle 
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
