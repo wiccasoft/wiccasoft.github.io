@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
-<!-- https://telefoncu-ekrem-ii.uludagsozluk.com/ bbkz ağır nonoş -->
+<!-- https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz ağır nonoş -->
 <!-- https://hitler-benim-atam.uludagsozluk.com bkz ağır bdsm fantazileri olan ergen -->
 <!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz si-ra-dan-sir-gay -->
 <!-- bkz rte nin alt dudaklarına yapışıp adam gibi adamsın demek -->
