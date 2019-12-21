@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz erdonun papazları deli etmek için ezanlara yüklenmesi -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz papazların korkulu rüyası badem bıyıklı -->
 <!-- bkz ecele etme papaz efendinin papaz düşmanı mümin dostu olması -->
 <!-- https://www.uludagsozluk.com/k/iktidar-i%C3%A7in-papaz-elbisesi-giyen-%C3%BCmmet-lideri/&w=bg bkz acele etme papaz-->
