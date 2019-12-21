@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz barış atayın paylaştığı rasputin benim atam fotosu --> 
 <!-- bkz can yaman ın papaz elbiseli paylaştığı foto -->
 <!-- bkz barış atayın paylaştığı ay dede rasputin fotosu -->
 <!-- bkz barış atayın patlaştığı raputin fotosu -->
