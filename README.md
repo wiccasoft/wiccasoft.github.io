@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
-
+<!-- https://www.youtube.com/watch?v=YWZoZj1JJUI papaz efendi acele etme -->
 <!-- https://www.youtube.com/watch?v=S-m1WImjqsE bkz acele etme papaz efendi -->
 <!-- https://www.youtube.com/watch?v=EfAsNffCjsM bkz erdonun papazları deli etmek için ezanlara yüklenmesi -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz papazların korkulu rüyası badem bıyıklı -->
