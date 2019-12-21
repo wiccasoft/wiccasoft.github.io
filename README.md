@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz sinana aygünnü seksi değilmiyim ben demesi --> 
 <!-- bkz bir erkeğin en seksi olduğu an -->
 <!-- bkz baykalın seks kasedi vs sinana yagünün seks kasedi -->
 <!-- bkz chpli sinan aygünün paylaştığı seks kasedi -->
