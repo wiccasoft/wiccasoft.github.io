@@ -8,7 +8,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 -->
 
 <!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI bkz karizmanın seçimle gitmem diyen hali -->
-<!-- bkz yunan dölü vs recep tayyipten doğan -->
+<!-- bkzyunan dölü vs recep tayyipten doğan -->
 <!-- https://www.tccb.gov.tr/receptayyiperdogan/ bkz karizmanın özünden doğan -->
 <!-- bkz recep tayyip doğan karizmasının atasıçmığını bitirmesi -->
 <!-- bkz mustafa kamal itten sıçarak doğan vs tayyip karizmadan doğan -->
