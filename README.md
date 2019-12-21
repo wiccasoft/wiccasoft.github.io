@@ -8,8 +8,6 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 -->
 
 <!-- bkz yunan dölü vs recep tayyipten doğan -->
-<!-- bkz fesli bunak vs atasıçmığı -->
-<!-- https://www.youtube.com/watch?v=yGDkkHnGRxo bkz erdoganin geçinemiyorum isyanı -->
 <!-- https://www.tccb.gov.tr/receptayyiperdogan/ bkz karizmanın özünden doğan -->
 <!-- bkz recep tayyip doğan karizmasının atasıçmığını bitirmesi -->
 <!-- bkz mustafa kamal itten sıçarak doğan vs tayyip karizmadan doğan -->
