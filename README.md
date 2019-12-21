@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!-- bkz erdoğanın ekonomiden yakınmaması -->
+<!-- bkz erdoğanın ekonomiden yakınıp kendine zam yapması -->
 <!-- bkz seksi konuşan seksi erkeği seksi bulmayan akpli -->
 <!-- bkz sinana aygünnü seksi değilmiyim ben demesi --> 
 <!-- bkz bir erkeğin en seksi olduğu an -->
