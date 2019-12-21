@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!--bkz enes abinin paylaştığı video bi bak be abiğ belki paylaşmıştır hadi beğ tıklağ beğ abiğ -->
+<!-- bkz enes abinin paylaştığı video bi bak be abiğ belki paylaşmıştır hadi beğ tıklağ beğ abiğ -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz zuahahahahaha -->
 <!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-ekonomiden-yak%C4%B1nmas%C4%B1/ bkz hayallerde yaşıyor.. -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz erdoğanın ekonomiden yakınıp kendine zam yapması :)) -->
