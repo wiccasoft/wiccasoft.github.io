@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz wiccasoft akp mi acaba sorualı -->
 <!-- bkz wiccasoftun 2020 seçimlerine katılmama açıklaması -->
 <!-- bkz wiccasoft hem rte ci hem fetöcü olduğu gerçeği -->
 <!-- bkz wiccasoft un erdoğanı ve siktiriboktan ülkesini siklememesi sorunsalı -->
