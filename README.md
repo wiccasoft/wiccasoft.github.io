@@ -8,6 +8,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 -->
 <!-- https://www.youtube.com/watch?v=ktmzyChfPmk lol -->
 <!-- https://www.youtube.com/watch?v=P1dj8oP55eI --->
+<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-sevdal%C4%B1lar%C4%B1/ bkz ak kefenliler -->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
