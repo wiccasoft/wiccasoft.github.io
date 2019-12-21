@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!-- bkz üj mülyon yüro paramı lan it -->
+<!-- bkz falcao 100 müülyün yürü lan it -->
 <!-- bkz gassarayaın bir buçuk milyar borcu için forma alıyoruz kampanyası -->
 <!-- https://www.uludagsozluk.com/k/galatasaray-bal%C4%B1/&w=bg bkz sarayı ziyaret eden takım -->
 <!-- https://www.uludagsozluk.com/e/42590148/  bkz hayallerde yaşıyor bazı ibneler -->
