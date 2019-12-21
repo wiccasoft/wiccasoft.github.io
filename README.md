@@ -13,6 +13,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz ak nonoşların güldürmesi -->
 <!-- bkz tayyip koydukça vıyaklayan ak nonoşlar -->
+<!-- bkz ak nonoşların bi de kız taklidi yapmaları -->
 <!-- bkz elinde topkeke yakışıklı erkek resimlerine attıran ak nonoşlar -->
 <!-- https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/ bkz nası koydu ama tayyip -->
 <!-- bkz o değil de patates soğan nasıl koydu ama tayyip erdoğan https://www.youtube.com/watch?v=TNth6Pdtslk -->
