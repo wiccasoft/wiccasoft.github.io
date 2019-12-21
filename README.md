@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ak nonoşların güldürmesi -->
+<!-- https://www.uludagsozluk.com/e/42591492/ bkz hayallerde yaşıyor bazı ak nonşlar -->
 <!-- https://napacuhh.uludagsozluk.com/ bkz yazık la kimim sıçmığıysa -->
 <!-- https://www.uludagsozluk.com/e/42591486/ bkz hacca giden teyzesi getirmeiş beyler -->
 <!-- bkz bi ak nonoşun götüne telefon sokup alo tayip orda mı demek -->
