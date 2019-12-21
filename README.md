@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!--bkz recep tayyip erdoğan koydukça götlerinden soluyan ak nonoşlar -->
 <!-- bkz ak nonoşların güldürmesi -->
 <!-- bkz tayyip koydukça vıyaklayan ak nonoşlar -->
 <!-- bkz ak nonoşların tayyip koydukça yumuşamaları -->
