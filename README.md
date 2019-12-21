@@ -7,7 +7,8 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!--bkz kamal kılıççıoğlanın celal kılıççıoğlanı kardeşlikten redetmesi --<
+<!-- bkz fatih erbakanın paylaştığı ay dede fotoğrafı -->
+<!-- bkz kamal kılıççıoğlanın celal kılıççıoğlanı kardeşlikten redetmesi --<
 <!-- bkz barış atayın pazartesi meclise gelmeyeceğim açıklaması -->
 <!-- bkz mansur yavaşın saat heykelini kaldırmaması -->
 <!-- bkz celal kılıçtıroğlanın abisini kötülemesi -->
