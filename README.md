@@ -7,41 +7,8 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz barış atayın oğzu atay anısına paylaştığı ay dede paylaşımı -->
 <!-- bkz abdurrahim albayrakın paylaştığı gerçekleri tarih yazar onu da galatyazar paylaşımı  -->
-<!-- bkz wiccasoft berat albayrak olabilir mi acaba sorunsalı -->
-<!-- bkz wiccasoft radamel falcao garcia  mı acaba sorunsalı -->
-<!-- bkz wiccasoftun erdoğana muhalefet etmemesi -->
-<!-- bkz wiccasoft akp mi acaba sorualı -->
-<!-- bkz wiccasoftun 2020 seçimlerine katılmama açıklaması -->
-<!-- bkz wiccasoft hem rte ci hem fetöcü olduğu gerçeği -->
-<!-- bkz wiccasoft un erdoğanı ve siktiriboktan ülkesini siklememesi sorunsalı -->
-<!-- bkz wiccasoft davutoğlan mı ali babacan cı mı sorunsalı -->
-<!-- bkz wiccasoft kemal kılıçdaroğlu olabilir mi sorunsalı -->
-<!-- bkz wiccasoft un fatih erbakan olmas ihtimali -->
-<!-- bkz wiccasoft rte mi mansur yavaşmı imamaoğlu mu barış atay mı sorunsalı-->
-<!-- bkz mansur yavaşın wiccasoft altından ankarayı parsel parsel satması -->
-<!-- bkz wiccasoftu fetö ihbar hattına şikayet ediyoruz kampanyası -->
-<!-- bkz mansur yavaşın fetöcü olmasını itiraf etmesi -->
-<!-- bkz barış atayın oğzu atayın kardeşi olmasını kullanması -->
-<!-- bkz barış atayın meclis komisyonunna verdiği dilekçe -->
-<!-- bkz barış atayın erdonun saray artı holosco teklifin reddetmesi -->
-<!-- bkz erdonun barış atayı saraya çağırdır iddiaları -->
-<!-- bkz barış atayın oğuz atayı anması -->
-<!-- bkz barış atay ın paylaştığı oğuz atay fotosu -->
-<!-- bkz barış tayyip atayın papaz elbiseli paylaştığı rasputin benim atam fotosu --> 
-<!-- bkz can yaman ın papaz elbiseli paylaştığı foto -->
-<!-- bkz barış atayın paylaştığı ay dede rasputin fotosu -->
-<!-- bkz barış atayın patlaştığı raputin fotosu -->
-<!-- bkz barış atayın efso meclis konuşması -->
-<!-- bkz fatih tezcan fatih erbakan dostluğu -->
-<!-- bkz fatih tezcanın fatih atalylıya verdiği ayar -->
-<!-- bkz fatih erbakanın paylaştığı ay dede fotoğrafı -->
-<!-- bkz kamal kılıççıoğlanın celal kılıççıoğlanı kardeşlikten redetmesi --<
-<!-- bkz barış atayın pazartesi meclise gelmeyeceğim açıklaması -->
-<!-- bkz mansur yavaşın saat heykelini kaldırmaması -->
-<!-- bkz celal kılıçtıroğlanın abisini kötülemesi -->
-<!-- bkz fatih erbanakandan bir yaş büyük olmama ama erdoğanın damadı olmamam -->
-<!-- bkz deep turkish web teki ibnelerin beni yaşıtları sanması olayı -->
 <!-- bkz ramael falcao garcia abi anamı sik be abi hadi beğ abiğ  -->
 <!-- bkz enes abi anamı sik  https://www.youtube.com/watch?v=ddqDvlmZkFY  siiiik --->
 <!-- bkz enes abi tıklağ be abiğ hadi tıklağ beğ abiğ ne kaybeden bi kere anmı siksen öür müsün be abiğ -->
