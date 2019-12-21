@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!--bkz atanın sıçırdığı kamalcılar vs tayyip doğanın yiğitler -->
 <!-- bkz atasıçmığı vs recep tayyip doğan -->
 <!-- bkz kadir mısırcıoğlanın atasıçmığına boru gibi geçirdiği konuşma -->
 <!-- bkz iyesta cicişlerin imamaoğluna bu gün başlık açmaması sorunsalı -->
