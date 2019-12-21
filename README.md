@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
-<!-- bkz ramael falcao garcia abi anamı sik be abi -->
+<!-- bkz ramael falcao garcia abi anamı sik be abi hadi beğ abiğ bi kere siksen -->
 <!-- bkz enes abi anamı sik  https://www.youtube.com/watch?v=ddqDvlmZkFY  siiiik --->
 <!-- bkz enes abi tıklağ be abiğ hadi tıklağ beğ abiğ ne kaybeden bi kere anmı siksen öür müsün be abiğ -->
 <!-- https://www.youtube.com/watch?v=VI757x-_wKQ bkz zuahahahahaha -->
