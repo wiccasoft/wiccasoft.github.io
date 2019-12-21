@@ -7,6 +7,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
 
+<!-- bkz deep turkish web teki ibnelerin beni yaşıtları sanması olayı -->
 <!-- bkz ramael falcao garcia abi anamı sik be abi hadi beğ abiğ  -->
 <!-- bkz enes abi anamı sik  https://www.youtube.com/watch?v=ddqDvlmZkFY  siiiik --->
 <!-- bkz enes abi tıklağ be abiğ hadi tıklağ beğ abiğ ne kaybeden bi kere anmı siksen öür müsün be abiğ -->
