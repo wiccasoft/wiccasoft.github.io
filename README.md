@@ -1,6 +1,6 @@
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
-<!--bkz deep sky algorithm -->
+<!--bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw -->
 <!--bkz zer0 fucks given that day -->
 <!--bkz apple google nsa ve nasa dan güçlü olmanın verdiği rahatlık -->
 <!-- https://www.uludagsozluk.com/k/google-vs-yandex/&w=gd bkz tarık -->
