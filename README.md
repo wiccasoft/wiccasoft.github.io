@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/Solar_azimuth_angle
 https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 -->
+<!-- bkz radamel falcao garcia nın bu yaştan sonra ben mi koşacam demesi -->
 <!-- bkz radamel falcao garcia nın paylaştığı et fotoğrafı -->
 <!-- bkz radamel falcao garcia nın 3 kilo et yiyip yatması -->
 <!-- bkz fatih terimin falcaoya soyunma odasında attığı bakış -->
