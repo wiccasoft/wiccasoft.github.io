@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz kısa boylu erkeklerdekş uzun boylu erkekler verme tutkusu -->
 <!-- bkz koca türkiyenin iett şöförüne eywwallah çekmesi -->
 <!-- bkz kamyoncu recep vs iettten prof arkadaşları -->
 <!-- bkz uzun boylu erkeklerdeki kısa boylu erkekleri sikme tutkusu -->
