@@ -19,17 +19,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!--bkz sevişirken parmak arasındaki pislikleri temizleyen erkek -->
 <!--bkz sevişirkene sazımı da yala diyen erkek -->
 <!--bkz yavuz bingöl sevişmesi vs erdal erzincanlı sevişmesi vs erkan oğur sevişmesi -->
-<!--bkz erkan oğurun iyi sevişmediği iddaları -->
-<!--bkz neşet ertaşın erkan oğurla sevişti iddası -->
-<!--bkz ahmet nur çebinin soyunma osadında fatih terime attığı bakış -->
-<!--bkz şaka maka türklerin amele gibi tipler olması -->
-<!-- bkz fatih terim vs ali koç -->
-<!--bkz şaka maka tayyipin ali koçu köpeği yapması --<
-<!--bkz ali koçun maç sonraı  nası koydu ama recep tayyi perdoğan tezahuratıı -->
-<!--bkz erkan oğuru götten vurdurmadığı iddası -->
-<!--bkz pispisini bacaklarının arasına alıp kız oğlan kızım diyen ibnelerin güldürmesi -->
-<!--https://www.uludagsozluk.com/e/42596421/ bkz götünü siktiremeyen ibne davranışları -->
-<!--bkz direksiyonu tek eliyle çeviren erkek vs iki eliyle çeviren erkek -->
 <!--bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
 <!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
 <!--bkz reis kanal sitanbulu boru gibi döşediği halde chp yi savunma mantığı -->
