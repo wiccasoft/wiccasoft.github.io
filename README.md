@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz tayyip ve kamyoncu arkadaşlarının güldürmesi -->
+<!--bkz tayyip ve kamyoncu arkadaşlarının güldürmesi :)))))))) -->
 <!--bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
 <!--bkz sevişirken parmak arasındaki pislikleri temizleyen erkek -->
 <!--bkz sevişirkene sazımı da yala diyen erkek -->
