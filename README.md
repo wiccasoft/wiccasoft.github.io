@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--https://www.uludagsozluk.com/e/42596421/ bkz yardır kız -->
 <!-- bkz sözlük hanzolarının arabaları vs sözlük barzolarının arabaları --> 
 <!-- bkz reis kanal sitanbulu boru gibi döşediği halde chp yi savunma mantığı -->
 <!-- bkz reisin fıstık yiyerek ankaradan istanbula yüzen sarayıyla geri vites gitmesi -->
