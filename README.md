@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz gel beri gel beri götüne koyam ben seni -->
 <!-- https://www.youtube.com/watch?v=wgastCO7Clo bkz koyduk mu oç ları -->
 <!-- bkz 1978 doğumlu yakışıklı tuttuğunu siken alfa erkek -->
 <!-- bkz 1978 doğumlu olup ergenlerle muhatap olmak -->
