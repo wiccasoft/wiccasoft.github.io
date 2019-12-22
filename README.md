@@ -15,14 +15,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
 <!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
-<!-- https://www.uludagsozluk.com/e/42596421/ bkz sakso kaç para bacım -->
-<!-- https://www.uludagsozluk.com/e/42596793/ bkz tamam -->
-<!-- https://www.uludagsozluk.com/e/42596777/ bkz tamam -->
-<!-- https://www.uludagsozluk.com/e/42596779/ bkz peki 
-<!--bkz https://www.uludagsozluk.com/e/42596711/ uludaki ibnelerin ne kafası yaşaması -->
-<!--bkz uludaki ibnelerin güldürmesi -->
-<!--bkz ibne cenneti türkiye -->
-<!--bkz sözlük ibnelerinin güldürmesi -->
 <!--bkz arabasıyla bile götünü siktiremeyen ibneler -->
 <!--bkz günümüz erkeğiyim amam amına patlamam diyen erkek -->
 <!--bkz patlatılmışsan bi daha patlatmam diyen erkek -->
