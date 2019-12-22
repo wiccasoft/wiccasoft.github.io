@@ -16,12 +16,12 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 
 <!-- bkz rte nin kanalının güldürmesi -->
+<!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
 <!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
 <!-- bkz kamyon şöförü vs rte https://www.youtube.com/watch?v=SxIac4HkFl0 -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 <!-- bkz teengirl budunun türkiye gibi bi ibne cennetinde yaşayacağımı sanacak kadar saf olması -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
-<!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
 <!-- bkz ankarayı 4 bir yana kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
 <!-- bkz fetönün derbi sonrası yine kalkışma yapma ihtimali https://www.youtube.com/watch?v=EPn45VYf_lE -->
