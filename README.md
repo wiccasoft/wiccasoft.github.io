@@ -16,7 +16,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz mustafa kemalin kanal istanbula döktüğü yunan dölleri -->
 <!-- bkz mustafa kemale senin adın mustafa kemal olsun diyen seniha hanım -->
-<!-- bkz mustafa kemal ceceli vs mustafa kemal kemali -->
 <!-- bkz binalinin instaya attığı mumları üfledim postu -->
 <!-- bkz binaliye benzeyen adam vs kakatürke benzeyen adam -->
 <!-- bkz binalinin mumları üflerken çok seksi olması -->
