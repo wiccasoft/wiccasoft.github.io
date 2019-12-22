@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- https://www.uludagsozluk.com/k/jeremain-lens/&w=bg bkz jeramain lensin lens kullanmıyorum demesi -->
 <!-- https://www.uludagsozluk.com/k/sen-kar%C4%B1n%C4%B1-amdan-sikme-g%C3%B6tten-sik-diyen-ev-sahibi/ -->
 <!-- https://www.uludagsozluk.com/k/am-sikmek-i%C3%A7in-v%C3%BCcut-geli%C5%9Ftiren-erkekler/&w=bg -->
 <!-- bkz iett şöförü atarlı uzun adam ve ülkesi-->
