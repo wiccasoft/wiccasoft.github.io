@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz götten cinsel kaysan diyen erkeğe sağol canım canım almim demek -->
 <!--bkz cinsel seks teklifin redden erkeğe sakso yapan erkek -->
 <!-- bkz arabada götten kayılan travler of secret  karının reisçi çıkması -->
 <!--bkz arabasında sakso çektirilen kızın ulu sözlük yazarı çıkması -->
