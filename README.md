@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz vedat mürriyle bir gece vs maro gomezle 10 gece -->
+<!-- bkz vedat müriqiyle bir gece vs mario gomezle 10 gece -->
 <!-- bkz sakalsız erkek vs götünü traş etmeyen erkek -->
 <!-- bkz vedat muriqi vs veli küçük -->
 <!-- bkz kaslı erkeklerin kilolu iette şöförü kılıklı amcaların kalçalarını çatlata çatlata sikme merakı -->
