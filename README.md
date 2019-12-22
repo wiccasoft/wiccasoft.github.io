@@ -11,8 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz şakak maka madafaka -->
-<!-- bkz tayyip anadolunun anasını sikerken keyifle izlemek --> 
+<!-- bkz https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamolunun kanala köfteci açalım teklifi -->
 <!-- bkz ankara yı boşaltıp göl yapma procesi size mi soracam vol 2 -->
 <!-- bkz bi ak nonoşun anasının amından kanal geçirip size mi soracam demek -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bi ak nonoş olsa da siksek-->
