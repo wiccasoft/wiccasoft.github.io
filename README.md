@@ -17,7 +17,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz rte nin kanalının güldürmesi -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
 <!-- bkz fetönün derbi sonrası yine kalkışma yapma ihtimali https://www.youtube.com/watch?v=EPn45VYf_lE -->
-<!-- bkz kamer gençin fetö konusunda rte yi uyarması https://www.youtube.com/watch?v=XzryBfBggsQ -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz mansur yavaşın ankaradan istanbula hızlı kanal projesinin onaylaması-->
 <!-- bkz rte nin ankara istanbul arası kanal projesine sıcak bakması -->
