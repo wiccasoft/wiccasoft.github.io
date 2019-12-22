@@ -14,9 +14,9 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz tayyip ve kamyoncu arkadaşlarının güldürmesi :)))))))) -->
-<!--bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
-<!--bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
+<!-- bkz tayyip ve kamyoncu arkadaşlarının güldürmesi :)))))))) -->
+<!-- bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
+<!-- bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
 <!-- bkz reisin gençler am patlatsın diye kanal sitanbulu yardırması -->
 <!-- bkz rte nin kanal açarken size mi soracam demesi  https://www.youtube.com/watch?v=SxIac4HkFl0 -->
 <!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
