@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 
-<!-- bkz amerikan mandası türkiye nin güldürmesi -->
+<!-- bkz amerikan mandası türkiye nin güldürmesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz erdoğanın davos ta yedi düvele raconu kesmesi -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY lol -->
 <!-- bkz rte ak nonoşları ithal mandalarla ne zaman zehirleyecek sorunsalı -->
