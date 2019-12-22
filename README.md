@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz mustaf kamal it in ingliz valisi olmasına ses etmeyen ata it çi çomarlar -->
+<!--bkz mustafa kamal itin it gibi bişey olması -->
+<!--bkz mustafa kamal it in ingliz valisi olmasına ses etmeyen ata it çi çomarlar -->
 <!--bkz ata it vs recep tayyip doğan -->
 <!--bkz türklerin it olamsını hazmedemeyen kamal it çiler -->
 <!--bkz mustafa orospudan doğan kamalcı it vs recep kutlu sevgiden doğan -->
