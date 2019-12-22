@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz kamer gençin fetö konusunda rte yi uyarması https://www.youtube.com/watch?v=XzryBfBggsQ -->
 <!--bkz birbilerine al bunu lamaz mısın sen nasıl delikanlısın diyen itler -->
 <!--tayyipin itlerinin siklenmedikçe çoşmaları -->
 <!--bkz itlerin liderlerine başbuğ demesi -->
