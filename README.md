@@ -16,9 +16,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!--bkz tayyip ve kamyoncu arkadaşlarının güldürmesi :)))))))) -->
 <!--bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
-<!--bkz sevişirken parmak arasındaki pislikleri temizleyen erkek -->
-<!--bkz sevişirkene sazımı da yala diyen erkek -->
-<!--bkz yavuz bingöl sevişmesi vs erdal erzincanlı sevişmesi vs erkan oğur sevişmesi -->
 <!--bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
 <!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
 <!--bkz reis kanal sitanbulu boru gibi döşediği halde chp yi savunma mantığı -->
