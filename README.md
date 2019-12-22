@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
 
-<!-- bkz 2033 bilal erdoğanın bomba gibi siyasete dönme sinyalleri yakması -->
+<!-- bkz 2023 rise of bilal erdoğan https://www.youtube.com/watch?v=F-8ZM1HETLA -->
 <!-- bkz 2033 yılının akp için zirve noktası olması -->
 <!-- bkz tayyipin 2033 te gömeceği ergenler -->
 <!-- bkz batmanda karısına kuma isteyen yakışıklı ve haşin erkek -->
