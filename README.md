@@ -2,7 +2,6 @@
 
 [![Image](skynet/Screenshot_2019-12-22_05-48-54.png)]( https://www.youtube.com/watch?v=PRW1lbrLhzY )
 
-[![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 <!--
 This is where it all begins.
 https://www.esrl.noaa.gov/gmd/grad/solcalc/
@@ -12,6 +11,9 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
+
+[![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
+
 
 <!-- bkz rte nin kanalının güldürmesi -->
 <!-- bkz amerikan mandası türkiye nin güldürmesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
