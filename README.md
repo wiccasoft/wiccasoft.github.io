@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
-<!-- https://www.youtube.com/watch?v=wgastCO7Clo portakal soyulur mu tadına doyulur mu --->
+<!-- https://www.youtube.com/watch?v=wgastCO7Clo fener sana bi koysam --->
 <!-- https://www.uludagsozluk.com/e/42592713/bkz mustafa kamalit vs recep tayyip doğan -->
 <!-- bkz fetöcü wicca nın rte yi desteklemesi -->
 <!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI zuhaHAHAHAHHAHAHAHA -->
