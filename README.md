@@ -14,6 +14,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+
+<!-- https://www.youtube.com/watch?v=mtKWWcg60qE iki gözümün çiceği -->
 <!-- bkz abdurrahim albayrakın tarihi rte yazar onu da iyi yazar demesi -->
 <!-- bkz kakatürk 10 sende yaşasaydı 10 . yıl marşı 20 . yıl marşı mı olurdu sorunsalı -->
 <!-- bkz kaddafinin rt yi övmesi -->
