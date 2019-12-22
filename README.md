@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 
+<!-- bkz trunmpın fetöcü olduğunu itiraf etmesi -->
 <!-- bkz rte nin ikinci atatürk olması --> 
 <!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
 <!-- bkz rte vs fatih sultan mehmet -->
