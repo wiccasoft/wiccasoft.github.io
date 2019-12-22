@@ -16,6 +16,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!--bkz ibne cenneti türkiye -->
 <!--bkz sözlük ibnelerinin güldürmesi -->
+<!--bkz arabasıyla bile götünü siktiremeyen ibneler -->
 <!--bkz günümüz erkeğiyim amam amına patlamam diyen erkek -->
 <!--bkz patlatılmışsan bi daha patlatmam diyen erkek -->
 <!--bkz amına patlarım ama çocuğu üstlenme diyen erkek -->
