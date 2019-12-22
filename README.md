@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- bkz enes baturun efe aydala göndermeli videosu https://www.youtube.com/watch?v=FT3zuBuqnsk -->
 <!-- bkz yozdilin kamalcılara verdiği ayar -->
 <!-- bkz efe aydalın kamal istanbul için hazırladığı video -->
