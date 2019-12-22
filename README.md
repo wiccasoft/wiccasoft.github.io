@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz mansur yavşaka bi yalaklık da sen yap -->
 <!-- bkz imamaoğlanın kanal istanbuldan kazancağı rantları hesaplaması -->
-<!-- bkz imamaoğlanın kanal istanbula imamaoğlu köfte açacam ısrarını rte nin  kırmaması -->
+<!-- bkz imamaoğlanın kanal istanbula imamaoğlu köfte açacam ısrarı https://www.youtube.com/watch?v=-AdnJiuDGVU  -->
 <!-- bkz mansur yavaşın ankara istanul kanal hattına onayı yakması -->
 <!-- bkz saraydan elektrink su kaçıran kürtlere ses çıkarmayan kürt putçu çomarlar -->
 <!-- bkz tangır budun doğanın rte yle taşşak geçen incilic gastasına verdiği ayar -->
