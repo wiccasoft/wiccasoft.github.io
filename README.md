@@ -13,6 +13,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz osmanlı torunu rte vs ermeni tohumları --> 
 <!-- bkz adile naşitin ermeni olması -->
 <!-- bkz kamalit lerin kanalı görünce imana gelmeleri -->
 <!-- bkz kanalit vs kamalit -->
