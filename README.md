@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--https://www.uludagsozluk.com/e/42596421/ bkz götünü siktiremeyen ibne davranışları -->
 <!--bkz direksiyonu tek eliyle çeviren erkek vs iki eliyle çeviren erkek -->
 <!--bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
 <!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
