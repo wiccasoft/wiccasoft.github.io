@@ -15,7 +15,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
 <!-- bkz kanal stanbul da ne lan diye bakıp gülme krizine girmek -->
-<!-- bkz türkiyeyi gülmek için takip etmek -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
 <!-- bkz tayyip ve kamyoncu arkadaşlarının güldürmesi :)))))))) -->
 <!-- bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
