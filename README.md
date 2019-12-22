@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz sezgin allahkulunun paylaştığı allahın dostları olalım paylaşımı -->
+<!-- bkz sezgin allahkulunun paylaştığı rte nin dostları olalım paylaşımı -->
 <!-- bkz sezgin allahkulunun attığı yerim uzun adamın yanıdır tweeti -->
 <!-- bkz batmanda karısına ceza yazan yakışıklı haşin polis -->
 <!-- https://www.youtube.com/watch?v=2H853-L2oRg bkz bilalin bomba gibi geleceği gerçeği -->
