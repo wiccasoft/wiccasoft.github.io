@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz ivanka trump ın  rap sanattır demesi -->
-<!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz sen kimsin yahu amın feryadı -->
+<!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz sen kimsin yahu amın feryadı rantlarım seni -->
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
 <!-- https://www.youtube.com/watch?v=wgastCO7Clo fener sana bi koysam --->
 <!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI zuhaHAHAHAHHAHAHAHA -->
