@@ -11,7 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!--bkz rte nin f-35 leri alamadı diye türkiyenin anasını sikmesi -->
+<!-- bkz tayyip in f-35 leri alamadı diye türkiyenin anasını sikmesi -->
 <!-- bkz batıya R orta anadoluya T doğuya da E şeklinde dev kanal projesi 2023 -->
 <!-- bkz türkiyenin doğusuna uzaydan görünecek şekilde RTE yazdırma projesi -->
 <!-- bkz azeri kızlarının tayyip sevgisi -->
