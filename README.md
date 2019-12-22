@@ -16,7 +16,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz tangır budun doğanın rte yle taşşak geçen incilic gastasına verdiği ayar -->
 <!-- bkz sezgin allahkulunun paylaştığı rte nin dostları olalım paylaşımı -->
-<!-- bkz sezgin allahkulunun attığı yerim uzun adamın yanıdır tweeti -->
 <!-- bkz batmanda karısına ceza yazan yakışıklı haşin kürt polis -->
 <!-- https://www.youtube.com/watch?v=2H853-L2oRg bkz bilalin bomba gibi geleceği gerçeği -->
 <!-- bkz 2033 yılının bilal erdoğan akp si için zirve noktası olması -->
