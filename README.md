@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz sinana yaygünün saraya geceleri giden isim chp li açıklaması -->
+<!--bkz sinana yaygünün polemiği ateşlemesi -->
+<!-- bkz sinan yaygünün saraya geceleri giden isim chp li açıklaması -->
 <!-- bkz imamaoğlana rüşvet verip kanal istanbulun kenarına köfteci ihalesini şimdiden kapmak -->
 <!-- bkz sinan akçil in gündüz vasap ihalesini örtpas etmsi -->
 <!-- bkz hızlı bi bld.bşk varken yavaş bld.bşk seçmek -->
