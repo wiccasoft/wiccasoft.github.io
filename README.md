@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz boğazlar sorununu tek hamlede çözen dünya lideri -->
 <!-- bkz mansur yavaşın tayyipten 25 milyon yürü roşvet aldığını onaylaması -->
-<!-- bkz mansur yavaşın ankara istanbul kanalı yol açın padişah geliyor 2023 ü onaylaması -->
+<!-- bkz mansur yavaşın ankara istanbul kanalı yol açın yüzen saraylı padişah geliyor 2023 ü onaylaması -->
 <!-- bkz karısını kanal istanbulda gezmeye gönderen laikçi gavat -->
 <!-- bkz türkiyeyi kanallarla ingiliz bayrağı şeklinde bölmek asdsadasda :))))) --> 
 <!-- bkz istanbulun anasının sikilmesine tepki göstermeyen laikçi çomarlar -->
