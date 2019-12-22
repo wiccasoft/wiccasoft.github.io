@@ -13,7 +13,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz recep tayyip in kamal itini pıstırması -->
+<!-- bkz recep tayyip in ingiliz yunana tohumu kamal itini pıstırması -->
 <!-- bkz mustaf kamal it vs recep tayyipten doğan --->
 <!-- bkz kamalın mal olması -->
 <!-- bkz ivanka trump ın rap sanattır demesi -->
