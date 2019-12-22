@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz mansur yavaşın yavaş yavaş gelmesi  https://www.youtube.com/watch?v=h1fUNL5wo_g -->
 <!-- bkz sinan yaygünün sinan oğanının ihraç talepine ret oyu atması -->
 <!-- bkz şiwan perwer ibrahim tatlıseks düetine fake diyen ak teyze --> 
 <!-- https://www.uludagsozluk.com/e/42594693/ bkz it ürür kervan yürür -->
