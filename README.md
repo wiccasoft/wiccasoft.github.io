@@ -17,28 +17,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!--bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
 <!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
-<!--bkz arabasıyla bile götünü siktiremeyen ibneler -->
-<!--bkz günümüz erkeğiyim ama amına patlamam diyen erkek -->
-<!--bkz patlatılmışsan bi daha patlatmam diyen erkek -->
-<!--bkz amına patlarım ama çocuğu üstlenme diyen erkek -->
-<!--bkz mangal yaparkene am patlatmam diyen erkek -->
-<!--bkz mangalcı duygusuz ve ruhsuz erkek -->
-<!--bkz tamir işlerinden anlamayan yarrağı büyük mangalcı arabasız erkek -->
-<!--bkz götündeki kılları mangal yaparken dışarı çıkartan erkek -->
-<!--bkz sakaryadan da bi kanal yarıp ortada mangal mı yapsak la amq -->
-<!--https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlanın kanal istanbul dan iyi rant döşerik demesi -->
-<!--bkz imamaoğlanın kanal istanbulun köşesine bkz imamoğlan köfte yerini ayırması -->
-<!--bkz kanal istanbulu yardırarak am patlatmaya geldim diyen erkek -->
-<!--bkz tayyipin yarrarım amına bile gorum istanbulun demesi -->
-<!--bkz tayyipin denizaltısıyla kanal istanbuldan yardırması -->
-<!--bkz sözlük kızlarının düz otobanda 300 e yardırması -->
-<!--bkz kanal istanbul sıcak aslfat varkene chpyi savunma mantııı -->
-<!--bkz haham böceği götünce ay ben ezemem diyen erkek -->
-<!-- bkz turgut özalın yardırırkene  bi kaset koyda şenlenek semra demesi -->
-<!-- bkz arabada la bize her yer ankara dinlerken kanal istanbula yardırmak -->
-<!--https://www.uludagsozluk.com/e/42596421/ bkz yardır kız -->
-<!-- bkz sözlük hanzolarının arabaları vs sözlük barzolarının arabaları --> 
-<!-- bkz reis kanal sitanbulu boru gibi döşediği halde chp yi savunma mantığı -->
+<!--bkz reis kanal sitanbulu boru gibi döşediği halde chp yi savunma mantığı -->
 <!-- bkz reisin fıstık yiyerek ankaradan istanbula yüzen sarayıyla geri vites gitmesi -->
 <!-- bkz la bize her yer angara ganalıyla la biz e hery sitanbulun birlerşmesi -->
 <!-- bkz mansur yavaşın yavaş yavaş kanal istanbula bağlayan kanalı hazırlaması -->
