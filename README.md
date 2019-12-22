@@ -26,8 +26,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz ankarayı 4 bir yana kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
-<!-- bkz kanal stanbul ne diye bakıp gülme krizne girmek -->
-
+<!-- bkz kanal stanbul ne diye bakıp gülme krizine girmek -->
+<!-- bkz türkiyeyi gülmek için takip etmek -->
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
