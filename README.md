@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz uludaki ibnelerin ne kafası yaşaması -->
 <!--bkz uludaki ibnelerin güldürmesi -->
 <!--bkz ibne cenneti türkiye -->
 <!--bkz sözlük ibnelerinin güldürmesi -->
