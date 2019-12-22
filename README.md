@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz mansur yavaşın ankarada istanbula kanal projesine olumlu bakması -->
 <!-- bkz istanbulun anasının sikilmesine tepki göstermeyen laikçi çomarlar -->
 <!-- bkz muhammed salahın bir gecede yarrağı bi karıdan öbür karıya sokması -->
 <!-- bkz muhammed salahın hikayesi https://www.youtube.com/watch?v=HWX_vTS-cdM -->
