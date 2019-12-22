@@ -16,6 +16,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 
 <!-- bkz rte nin kanalının güldürmesi -->
+<!-- bkz rte nin size mi kanal açarken soracam demesi -->
 <!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
 <!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
 <!-- bkz kamyon şöförü vs rte https://www.youtube.com/watch?v=SxIac4HkFl0 -->
