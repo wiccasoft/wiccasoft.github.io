@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz ulusalcı türkçü itlerin güldürmesi -->
+<!--bkz türkçü itlerin güldürmesi -->
 <!--bkz mustafa kamal itinin geberdiği gerçeğini kabul edemeyen it -->
 <!--bkz itlerdeki atait sevgisi :))))) -->
 <!--bkz mustafa kamal itinin türk itlerini fazlaca şişirmesi  --> 
