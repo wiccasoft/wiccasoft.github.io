@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-
+<!--bkz mangal yaparkene am patlatmam diyen erkek -->
 <!--bkz mangalcı duygusuz ve ruhsuz erkek -->
 <!--bkz tamir işlerinden anlamayan yarrağı büyük mangalcı arabasız erkek -->
 <!--bkz götündeki kılları mangal yaparken dışarı çıkartan erkek -->
