@@ -14,8 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-
-<!-- bkz milletçi harkete bereket partisinin beka sorununu çözme sözü -->
+<!-- bkz bahçelinin kanal islanbul beka sorunu çözer açıklaması -->
 <!-- bkz sinan yaygünü arapça siklal marşı üzerinden başlattığı polemiğ -->
 <!-- bkz bu ezanlarki yurdunuzun üstünde inlemeli https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz milliyetsiz wiccasoft un arapça ezana ses çıkarmaması  -->
