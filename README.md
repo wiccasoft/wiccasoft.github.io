@@ -14,7 +14,9 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+
 <!-- bkz rte nin kanalının güldürmesi -->
+<!-- bkz emine erdoğanın kanal istanbulun rio karnavalı gibi olacak açıklaması --<
 <!-- bkz kamyon şöförü vs rte https://www.youtube.com/watch?v=SxIac4HkFl0 -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 <!-- bkz teengirl budunun türkiye gibi bi ibne cennetinde yaşayacağımı sanacak kadar saf olması -->
