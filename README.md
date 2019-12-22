@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz göt sikmek için vücut geliştirmeyen erkek -->
+<!-- bkz göt sikmemek için vücut geliştirmeyen erkek -->
 <!-- bkz fener ol kampanyasına götünü bağışlayan fenerli --> 
 <!-- bkz am sikmek için vücut geliştiren erkekler başlığında kavga eden kızlar -->
 <!-- bkz vedat müriqiyle bir gece vs mario gomezle 10 gece -->
