@@ -13,7 +13,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz doğunun %90 ının saraydan elektirink kaçırmasına ses etmeyen ak itler  -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ https://www.youtube.com/watch?v=S-m1WImjqsE --->
-<!-- https://www.uludagsozluk.com/e/42592718/ bkzk acele etme imama efendi -->
+<!-- https://www.uludagsozluk.com/e/42592718/ bkzk acele etme imam efendi -->
 <!-- https://www.youtube.com/watch?v=FDiAL9SQHqc asdasddsasdsadada -->
 <!-- bkz tayyip in f-35 leri alamadı diye türkiyenin anasını sikmesi asdasdasdas-->
 <!-- bkz batıya R orta anadoluya T doğuya da E şeklinde dev kanal projesi 2023 -->
