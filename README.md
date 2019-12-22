@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 
 <!-- https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomarların güldürmesi -->
-<!--bkz kakatürkün amerikan mandası istediği mektup -->
+<!-- bkz mustafa kamalit kakatürkün amerikan mandası istediği mektup -->
 <!-- bkz rte nin ikinci atatürk olması https://www.youtube.com/watch?v=S-m1WImjqsE --> 
 <!-- bkz ezan varken yılbaşı kutlaması yapmak https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
