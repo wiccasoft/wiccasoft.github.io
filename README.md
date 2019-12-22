@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz rte vs fatih sultan mehmet -->
-<!-- bkz rte nin ikinci atatürk olması bkz yüzen saray --> 
+<!-- bkz rte nin ikinci atatürk olması --> 
 <!-- bkz kürtlerin saraydan elektrik kaçırması -->
 <!-- bkz osmanlı torunu rte vs ermeni tohumları --> 
 <!-- bkz adile naşitin ermeni olması -->
