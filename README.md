@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz karısının kanal istanbulda gezmeye gönderen gavat -->
+<!-- bkz karısını kanal istanbulda gezmeye gönderen laikçi gavat -->
 <!-- bkz türkiyeyi kanallarla ingiliz bayrağı şeklinde bölmek asdsadasda :))))) --> 
 <!-- bkz istanbulun anasının sikilmesine tepki göstermeyen laikçi çomarlar -->
 <!-- bkz muhammed salahın bir gecede yarrağı bi karıdan öbür karıya sokması -->
