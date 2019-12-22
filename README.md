@@ -23,7 +23,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
-<!-- bkz ankarayı 4 bir yana kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
+<!-- bkz ankarayı 4 bir yandan kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
 <!-- bkz kanal stanbul ne diye bakıp gülme krizine girmek -->
 <!-- bkz türkiyeyi gülmek için takip etmek -->
