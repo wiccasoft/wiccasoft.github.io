@@ -14,15 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz pipisini bacaklarının arasına alıp kızım ben diyen ergenlerin güldürmesi -->
-<!--bkz kız taklidi yapan ibnelerin akşam mesaiye direksiyonda devam etmesi -->
-<!--bkz kız taklidi yapan ibnelerin aşırı itici olması -->
-<!--bkz cinsel seks diye tutturan ibnenin azını bantlayıp kurtulmak -->
-<!--bkzgötten cinsel kaysan diyen erkeğe sağol canım canım almim demek -->
-<!--bkz cinsel seks teklifin redden erkeğe sakso yapan erkek -->
-<!-- bkz arabada götten kayılan travler of secret  karının reisçi çıkması -->
-<!--bkz arabasında sakso çektirilen kızın ulu sözlük yazarı çıkması -->
-<!-- bkz raveler of secretin arabada sakso çekerken araba kullanması -->
+<!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
 <!-- https://www.uludagsozluk.com/e/42596421/ bkz sakso kaç para bacım -->
 <!-- https://www.uludagsozluk.com/e/42596793/ bkz tamam -->
 <!-- https://www.uludagsozluk.com/e/42596777/ bkz tamam -->
