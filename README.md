@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz zeki mürenin ibne olduğu halde dinleyen gay -->
+<!-- bkz zeki müreni ibne olduğu halde dinleyen gay -->
 <!-- bkz barış mançonun fetöcü olması -->
 <!-- bkz zeki mürenin ibne olduğu gerçeği -->
 <!-- bkz mustafa kamalın kamal istanbula döktüğü yunan dölleri -->
