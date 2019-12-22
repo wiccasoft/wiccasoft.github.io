@@ -11,7 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz türkiyenin doğusuna uzaydan görünecek şeklide RTE şeklinde bir kanal yaptırsak mı? -->
+<!-- bkz türkiyenin doğusuna uzaydan görünecek şekilde RTE şeklinde bir kanal yaptırsak mı? -->
 <!-- bkz azeri kızlarının tayyip sevgisi -->
 <!-- bkz istanbulun tepesine ikinci kat çıkma projesi vol 3  -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamolunun kanala köfteci açalım teklifi -->
