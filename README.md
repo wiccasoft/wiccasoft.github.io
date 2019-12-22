@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz cuckold erkeğinin penisini emen ak nonoşu kafasını bastırıp kafayı kaldırıp sigara içmek --> 
+<!-- bkz cuckold erkeğinin penisini emen ak nonoşun kafasını bastırıp sigara içme qeyfi --> 
 <!-- bkz mansur yavaş ciğerime soktun diyen oğlan --->
 <!-- bkz 1978 doğumlu olup ergenlerle muhatap olmak -->
 <!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz gel beri gel beri götüne koyam ben seni -->
