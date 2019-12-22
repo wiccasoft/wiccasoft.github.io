@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 
 
-<!-- bkz rte nin ikinci atatürk olması --> 
+<!-- bkz rte nin ikinci atatürk olması https://www.youtube.com/watch?v=S-m1WImjqsE --> 
 <!-- bkz ezan varken yılbaşı kutlaması yapmak https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
 <!-- bkz rte vs fatih sultan mehmet -->
