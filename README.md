@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-
+<!--bkz sakaryaydan da bi kanal yarıp ortada mangal yapak la amuğa goyyem -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoğlanın kanal istanbul dan iyi rant döşerik demesi -->
 <!--bkz imamaoğlanın kanal istanbulun köşesine bkz imamoğlan köfte yerini ayırması -->
 <!--bkz kanal istanbulu yardırarak am patlatmaya geldim diyen erkek -->
