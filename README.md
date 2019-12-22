@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Position_of_the_Sun
 bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
-
+<!-- https://www.youtube.com/watch?v=FDiAL9SQHqc asdasddsasdsadada -->
 <!-- bkz tayyip in f-35 leri alamadı diye türkiyenin anasını sikmesi asdasdasdas-->
 <!-- bkz batıya R orta anadoluya T doğuya da E şeklinde dev kanal projesi 2023 -->
 <!-- bkz türkiyenin doğusuna uzaydan görünecek şekilde RTE yazdırma projesi -->
