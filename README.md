@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz pipisini bacaklarının arasına alıp kızım ben diyen ergenlerin güldürmesi -->
 <!--bkz kız taklidi yapan ibnelerin akşam mesaiye direksiyonda devam etmesi -->
 <!--bkz kız taklidi yapan ibnelerin aşırı itici olması -->
 <!--bkz cinsel seks diye tutturan ibnenin azını bantlayıp kurtulmak -->
