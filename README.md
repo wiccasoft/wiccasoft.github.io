@@ -17,40 +17,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!--bkz tayyip ve kamyoncu arkadaşlarının güldürmesi :)))))))) -->
 <!--bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
 <!--bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
-<!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
-<!--bkz reis kanal sitanbulu boru gibi döşediği halde chp yi savunma mantığı -->
-<!-- bkz reisin fıstık yiyerek ankaradan istanbula yüzen sarayıyla geri vites gitmesi -->
-<!-- bkz la bize her yer angara ganalıyla la biz e hery sitanbulun birlerşmesi -->
-<!-- bkz mansur yavaşın yavaş yavaş kanal istanbula bağlayan kanalı hazırlaması -->
 <!-- bkz reisin gençler am patlatsın diye kanal sitanbulu yardırması -->
-<!-- bkz kanal istanbulda yardıra yardıra arabayala drift yapıp am patlatmak -->
-<!-- bkz yüzde yüz yerli arabamla am patlatmaya geldim diyen erkek -->
-<!-- bkz sinan oğanın cumhurbaşkanımıza iettli ama saygı duyacaksınız demesi -->
-<!-- bkz arabayla kanal istanbulda  drip yapıp kızların götüne talibim diyen erkek ->
-<!-- bkz fesli bunağın göt sikmek için fes takması -->
-<!-- bkz göt sikmemek için vücut geliştirmeyen erkek -->
-<!-- bkz fener ol kampanyasına götünü bağışlayan fenerli --> 
-<!-- bkz am sikmek için vücut geliştiren erkekler başlığında kavga eden kızlar -->
-<!-- bkz vedat müriqiyle bir gece vs mario gomezle 10 gece -->
-<!-- bkz sakalsız erkek vs götünü traş etmeyen erkek -->
-<!-- bkz vedat muriqi vs veli küçük -->
-<!-- bkz iett şöförü atarlı uzun adam ve ülkesi-->
-<!-- bkz kısa boylu erkeklerdeki uzun boylu erkeklere verme tutkusu -->
-<!-- bkz koca türkiyenin iett şöförüne eywwallah çekmesi -->
-<!-- bkz kamyoncu recep vs iettten prof arkadaşları -->
-<!-- bkz uzun boylu erkeklerdeki kısa boylu erkekleri sikme tutkusu -->
-<!-- bkz jeramain lene benzeyen adam vs lens kullanmayan adam -->
-<!-- bkz binaliye benzeyen adam vs göksel kaya ya bezneyen adam -->
-<!-- bkz burak yılmaz adam mıdır sorunsalı -->
-<!-- bkz tayyipin iett de attığı boru gibi goller -->
-<!-- bkz tayyipin iettden arkadaşlarını prof diye tvye çıkarması -->
-<!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
-<!-- bkz ali koçun nasıl koydu ama recep tayyip erdoğan tezarühatı -->
-<!-- bkz ozan tufanın boruyu fenerliler için döşedim öpücüğü atması -->
-<!-- bkz abdullah avcının döşenen borunun üzerinde zıplaması -->
-<!-- bkz burak yılmazın döşenen borusunu öttüremem açıklaması  -->
-<!-- bkz kamyon şöförü tayyipin istanbula döşeyeceği muazzam boru -->
-<!-- bkz iett şöförü rte nin kanalının güldürmesi -->
 <!-- bkz rte nin kanal açarken size mi soracam demesi  https://www.youtube.com/watch?v=SxIac4HkFl0 -->
 <!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
 <!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
