@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz batıya R orta anadoluya T doğuya da E şeklinde dev kanal projesi 2023 -->
 <!-- bkz türkiyenin doğusuna uzaydan görünecek şekilde RTE şeklinde bir kanal yaptırsak mı? -->
 <!-- bkz azeri kızlarının tayyip sevgisi -->
 <!-- bkz istanbulun tepesine ikinci kat çıkma projesi vol 3  -->
