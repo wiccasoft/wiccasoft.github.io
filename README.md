@@ -13,7 +13,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!--bkz rte nin gemisiyle bandırmadan istanbula varması -->
+<!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
 <!-- bkz rte vs fatih sultan mehmet -->
 <!-- bkz rte nin ikinci atatürk olması --> 
 <!-- bkz kürtlerin saraydan elektrik kaçırması -->
