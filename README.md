@@ -16,7 +16,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!--bkz türkçü itlerin güldürmesi -->
 <!--bkz mustafa kamal itinin geberdiği gerçeğini kabul edemeyen it -->
-<!--bkz itlerdeki atait sevgisi :))))) -->
 <!--bkz mustafa kamal itinin türk itlerini fazlaca şişirmesi  --> 
 <!--bkz mustafa kamal itinin türk itlerini övme sebebi -->
 <!--bkz mustafa kamal itine it diyince deliren itler-->
