@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz small beden erkek vs large giyen erkek aşkı -->
+<!-- bkz small beden atlet giyen erkek vs x large atlet giyen erkek aşkı -->
 <!-- bkz fıs fıs ismail vs ismail türüt -->
 <!-- https://www.youtube.com/watch?v=fxwgmMQ7lMo kutlu sevgiden emanet doğan -->
 <!-- bkz abdurrahim albayrakın tarihi rte yazar onu da iyi yazar demesi -->
