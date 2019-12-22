@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz hz muhammedin 9 karısını bir gecede boşaltması -->
 <!--bkz small beden boxer giyen erkeğin pipisi vs large beden boxer giyen erkeğin pipisi -->
 <!--bkz polis akademisindeki bıyıklı adam -->
 <!-- bkz small beden atlet giyen erkek x large atlet giyen erkek sevişmesi -->
