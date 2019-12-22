@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz yavuz bingöl sevişmesi vs erkan oğur sevişmesi -->
+<!--bkz yavuz bingöl sevişmesi vs erdal erzincanlı sevişmesi vs erkan oğur sevişmesi -->
 <!--bkz erkan oğurun iyi sevişmediği iddaları -->
 <!--bkz neşet ertaşın erkan oğurla sevişti iddası -->
 <!--bkz ahmet nur çebinin soyunma osadında fatih terime attığı bakış -->
