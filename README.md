@@ -13,8 +13,8 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz ivanka trump ın  rap sanattır demesi -->
-<!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz melih sen misin -->
+<!-- bkz ivanka trump ın rap sanattır demesi -->
+<!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz rantçı melih sen misin -->
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
 <!-- https://www.youtube.com/watch?v=wgastCO7Clo fener sana bi koysam --->
 <!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI zuhaHAHAHAHHAHAHAHA -->
