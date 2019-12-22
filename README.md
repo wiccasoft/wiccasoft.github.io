@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz erkan oğur götten vurdurmadığı iddası -->
+<!--bkz ali koçun maç sonraı  nası koydu ama recep tayyi perdoğan tezahuratıı -->
+<!--bkz erkan oğuru götten vurdurmadığı iddası -->
 <!--bkz pispisini bacaklarının arasına alıp kız oğlan kızım diyen ibnelerin güldürmesi -->
 <!--https://www.uludagsozluk.com/e/42596421/ bkz götünü siktiremeyen ibne davranışları -->
 <!--bkz direksiyonu tek eliyle çeviren erkek vs iki eliyle çeviren erkek -->
