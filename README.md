@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz mustafa kamal itinin sivas kongresi -->
 <!--bkz mustafa kamal itini ingiliz valisi olmasına ses etmeyen itler -->
 <!--bkz hz isa nın hz musa ya götelek demesi -->
 <!--bkz ata köpek mustafa nın kamal iti olmasına ses etmeyen kamal it ler --<
