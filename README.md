@@ -16,9 +16,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz kamalit lerin kanalı görünce imana gelmeleri -->
 <!-- bkz kanalit vs kamalit -->
 <!-- https://www.uludagsozluk.com/k/mustafa-kamal-%C4%B1n-ingiliz-valisi-olmas%C4%B1/&w=bg bkz kamalitlerin göt olması -->
-<!-- bkz recep tayyip in ingiliz yunana tohumu kamal itini pıstırması -->
-<!-- bkz mustaf kamal it vs recep tayyipten doğan --->
-<!-- bkz kamalın mal olması -->
 <!-- bkz ivanka trump ın rap sanattır demesi -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz rantçı melih sen misin -->
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
