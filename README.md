@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz tangır budun doğanın rte ye terörik diyen incilic gastasına verdiği ayar -->
+<!-- bkz tangır budun doğanın rte yle taşşak geçen incilic gastasına verdiği ayar -->
 <!-- bkz sezgin allahkulunun paylaştığı rte nin dostları olalım paylaşımı -->
 <!-- bkz sezgin allahkulunun attığı yerim uzun adamın yanıdır tweeti -->
 <!-- bkz batmanda karısına ceza yazan yakışıklı haşin polis -->
