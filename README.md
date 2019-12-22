@@ -16,6 +16,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz rte nin kanalının güldürmesi -->
 <!-- bkz rte nin ingiliz bayrağı şeklide kanallar projesi --> 
+<!-- bkz ankara yı göl yapıp 4 bir yana kanallarla bağlayıp sorunu çözmek -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
 <!-- bkz fetönün derbi sonrası yine kalkışma yapma ihtimali https://www.youtube.com/watch?v=EPn45VYf_lE -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
