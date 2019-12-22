@@ -16,67 +16,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- bkz teengirl budunun türkiye gibi bi ibne cennetinde yaşayacağımı sanacak kadar saf olması -->
 <!-- bkz teengirl buduna mumları üfleyip taşşaklarımı yalamaya başlaması -->
-<!-- bkz binalinin mumları üfleyip teengirl budunla akşam yemeğine geçmesi -->
-<!-- https://www.uludagsozluk.com/e/42595013/  boru sana girmiş kankaaaaaaaaağğ soğmuşlar boruyaağ --> 
-<!-- bkz sevim koş kocanı sikiyolar -->
-<!-- bkz civcivlerin hayallerde yaşamaları --> 
-<!-- bkz ciddi ciddi beşiktaşlı yarrağını alabileceğini sanan fener li -->
-<!-- bkz ozan tufanın binalinin karısı ne öyle ya tweeti -->
-<!-- bkz hayallerde yaşıyor bazı ibnelerin ingilizcesi -->
-<!-- bkz jeremain lens cüneyt çakırdan in alt dudak istemesi -->
-<!-- bkz cüneyt çakırın kırmızı kart verdiği futbolcular -->
-<!-- bkz aziz nesinin ibne oğlunun jerami lens sevgisi -->
-<!-- bkz ibnelerin hayallerde yaşadığı gerçeği -->
-<!-- bkz zeki müreni ibne olduğu halde dinleyen gay -->
-<!-- bkz barış mançonun fetöcü olması -->
-<!-- bkz zeki mürenin ibne olduğu gerçeği -->
-<!-- bkz mustafa kamalın kamal istanbula döktüğü yunan dölleri -->
-<!-- bkz mustafa kemale senin adın mustafa kemal olsun diyen seniha hanım -->
-<!-- bkz binalinin instaya attığı mumları üfledim postu -->
-<!-- bkz binaliye benzeyen adam vs kakatürke benzeyen adam -->
-<!-- bkz binalinin mumları üflerken çok seksi olması -->
-<!-- bkz binalinin mumlara of deme puf de demesi -->
-<!-- bkz binalinin mumları üflemedn söndürmesi -->
-<!-- bkz atatürkün amerikan donu giymesi -->
-<!-- bkz kakatürkün amerikan mandası sipariş etmesine ses etmeyen  ak itler -->
-<!-- bkz kaka türkün kurban için  amerikan mandası sipariş etmesi -->
-<!-- bkz binali seniha başlığına entry giremeyen laikçi itler -->
-<!-- bkz binali beyin seniha hanımı simit sarayına özel uçağıyla götürmesi -->
-<!-- binali'nin simit sarayının özel uçağını kullanması -->
-<!-- binali yıldırımın mumları üflemedn söndürmesi -->
-<!-- bkz sinana oğanın reise havlayan itlere verdiği ayar -->
-<!-- bkz ak partiye giremediler diye havlayan chp itleri -->
-<!-- bkz rte nin parti tüzüğünü değiştirmesine ses etmeyen chpli itler -->
-<!-- bkz bahcelinin sinan aygünü kanatlarının altına alması -->
-<!-- bkz bahçelinin sinana yaygünün ihraç kararına beka sorundur açıklaması --> 
-<!-- bkz ağpden ihraç kararına sert tepki -->
-<!-- bkz ağplilerin beyin göçü olmasın diye ülkelerini kanallara bölmesi -->
-<!-- bkz ağplilerin ingiliz bayrağı şeklinde kanal projesi -->
-<!-- bkz atatürkün nutukta akp lilerin üstün zekasından bahsetmesi -->
-<!-- bkz ak partili zekası vs chpl i zekası -->
-<!-- bkz sinan oğanın sina aygünü mhp ye ithal etmesi -->
-<!-- bkz mansur yavaşın yavaş yavaş gelmesi  https://www.youtube.com/watch?v=h1fUNL5wo_g -->
-<!-- bkz sinan yaygünün sinan oğanının ihraç talepine ret oyu atması -->
-<!-- bkz şiwan perwer ibrahim tatlıseks düetine fake diyen ak teyze --> 
-<!-- https://www.uludagsozluk.com/e/42594693/ bkz it ürür kervan yürür -->
-<!-- https://www.uludagsozluk.com/e/42594577/ bkz kızlar götünüze sahip olun -->
-<!-- bkz şiwan perwer erdoğan düeti -->
-<!-- bkz berkin elvanın siyasete dönme  sinyalleri yakması -->
-<!-- bkz berkin elvan vs recep tayyip erdoğan -->
-<!-- bkz amerikan mandası akarı kokar olmaz https://www.youtube.com/watch?v=ox93sf0-tPQ -->
-<!-- bkz kız taklidi yapan ak nonoşları  mansur taklidi yapıp sikmek https://www.youtube.com/watch?v=h1fUNL5wo_g -->
-<!-- bkz ak nonoşlarla taşşak geçmek https://www.youtube.com/watch?v=h1fUNL5wo_g  -->
-<!-- bkz 1978 doğumlu ultra yakışıklı 178 boyuyla kız beğenmeyen erkeğe kız taklidi yapan pigme ak nonoş oğlan -->
-<!-- https://www.uludagsozluk.com/e/42594667/ bkz 2020 de alacağım adalar -->
-<!-- bkz ak nonoşların cuckold aratırken cocklara gelmesi -->
-<!-- bkz bi ak nonoşu cucukolda  siktirerek imana getirmek -->
-<!-- bkz cuckold erkeğinin penisini emen ak nonoşun kafasını bastırıp sigara içme qeyfi --> 
-<!-- bkz mansur yavaş ciğerime soktun diyen oğlan --->
-<!-- bkz 1978 doğumlu olup ergenlerle muhatap olmak -->
-<!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz gel beri gel beri götüne koyam ben seni -->
-<!-- https://www.youtube.com/watch?v=wgastCO7Clo bkz koyduk mu oç ları -->
-<!-- bkz 1978 doğumlu yakışıklı tuttuğunu siken alfa erkek -->
-<!-- https://www.uludagsozluk.com/e/42594527/ abi napim yarrak sığmıyo ali koç ibnesi giy diyo-->
 <!-- bkz rte nin kanalının güldürmesi -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
