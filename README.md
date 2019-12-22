@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 
+<!--bkz yahudi lobisinin köpeği rteyi deli gibi savunana liseli ergen -->
 <!-- https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomarların güldürmesi -->
 <!-- bkz mustafa kamalit kakatürkün amerikan mandası istediği mektup -->
 <!-- bkz rte nin ikinci atatürk olması https://www.youtube.com/watch?v=S-m1WImjqsE --> 
