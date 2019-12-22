@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
 <!-- https://www.uludagsozluk.com/k/formsuz-teknik-direkt%C3%B6r/ bkz fatih terim -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz mansur yavaşın ankaradan istanbula kanal projesinin onaylaması-->
