@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz tayyipin ieet de attığı boru gibi goller -->
 <!-- bkz burak yılmaz adam mıdır sorunsalı -->
 <!-- bkz tayyipin iettden arkadaşlarını prof diye tvye çıkarması -->
 <!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
