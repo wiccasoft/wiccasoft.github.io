@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz sabri bey napıyosunuz  -->
+<!-- bkz milliyetsiz wiccasoft un arapça ezana ses çıkarmaması  -->
 <!-- bkz mustafa sarıgülün sinan yaygün sinan oğanoğlan polemiğine girmem demesi -->
 <!-- bkz sinan oğanın sinan yaygüne verdiği efso ayar -->
 <!-- bkz sinana yaygünün polemiği ateşlemesi -->
