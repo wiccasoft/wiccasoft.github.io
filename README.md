@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz berkin elvanın siyasete dönme  sinyalleri yakması -->
+<!-- bkz şiwan perwer erdoğan düeti -->
+<!-- bkz berkin elvanın siyasete dönme  sinyalleri yakması -->
 <!-- bkz berkin elvan vs recep tayyip erdoğan -->
 <!-- bkz amerikan mandası akarı kokar olmaz https://www.youtube.com/watch?v=ox93sf0-tPQ -->
 <!-- bkz kız taklidi yapan ak nonoşları  mansur taklidi yapıp sikmek https://www.youtube.com/watch?v=h1fUNL5wo_g -->
