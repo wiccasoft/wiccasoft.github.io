@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz kaddafinin rt yi övmesi -->
 <!-- bkz rte nin heykellerimi yıkın demesi -->
 <!-- bkz rte nin yeni atatürk olmasını çekemeyen laik putçu çomarlar -->
 <!-- bkz xl giyen erkek large giyen erkek sevişmesi -->
