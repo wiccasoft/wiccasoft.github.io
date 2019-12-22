@@ -27,9 +27,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz ankarayı 4 bir yana kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
 <!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
-<!-- bkz fetönün derbi sonrası yine kalkışma yapma ihtimali https://www.youtube.com/watch?v=EPn45VYf_lE -->
-<!-- bkz mansur yavaşın ankaradan istanbula hızlı kanal projesini onaylaması-->
-<!-- bkz rte nin ankara istanbul arası kanal projesine sıcak bakması -->
 
 
 
