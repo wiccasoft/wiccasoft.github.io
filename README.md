@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz mustafa kamalın kamal istanbula döktüğü yuna dölleri -->
+<!-- bkz mustafa kamalın kamal istanbula döktüğü yunan dölleri -->
 <!-- bkz mustafa kemale senin adın mustafa kemal olsun diyen seniha hanım -->
 <!-- bkz binalinin instaya attığı mumları üfledim postu -->
 <!-- bkz binaliye benzeyen adam vs kakatürke benzeyen adam -->
