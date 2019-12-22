@@ -26,42 +26,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz nası koydu ama recep tayyip erdoğan oooooooo ooooo -->
 <!-- bkz ak nonoşların güldürmesi -->
 <!-- bkz tayyip koydukça vıyaklayan ak nonoşlar -->
-<!-- bkz ak nonoşların tayyip koydukça yumuşamaları -->
-<!-- bkz elinde topkeke yakışıklı erkek resimlerine attıran ak nonoşlar -->
-<!-- https://www.uludagsozluk.com/k/geceye-bir-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-b%C4%B1rak/ bkz nası koydu ama tayyip -->
-<!-- bkz o değil de patates soğan nasıl koydu ama tayyip erdoğan https://www.youtube.com/watch?v=TNth6Pdtslk -->
-<!-- https://www.uludagsozluk.com/e/42591819/ bkz tayyipin gdo ile memelerini büyttüğü ergenler -->
-<!-- bkz tayyipin ak nonoşların götlerine minare bağlayıp coşturması -->
-<!-- bkz bu ezanlarki yurdumun üstünde inlemeli nasıl böyle bir imanı boğar diyen ak nonoşun bokunda boğulması -->
-<!-- bkz ülkene götten sokarım diyen ak nonoşun tayyipe şikayet etmesi -->
-<!-- bkz vatan elden gidiyo diyen ak nonoşa ananı da al git demek -->
-<!-- bkz al bunu alamaz mısın denilen sen nasıl ak nonoşsun ak nonoşun uluda ağlaması -->
-<!-- bkz kadıköyde çadırı kuran adamın yarrağı -->
-<!-- bkz tayyip ak nonoşları hemen öldürme tek eğlencemiz lan -->
-<!-- bkz ak nonoşların marmara denizinin taban profilini incerlemesi -->
-<!-- bkz tayyipin sözlükte zor tuttuğu ak nonoşlar :)))))) -->
-<!-- bkz tayyip aknonoşları ithal etlerle ne zaman zehirleyecek sorunsalı -->
-<!-- https://www.uludagsozluk.com/e/42591492/ bkz hayallerde yaşıyor bazı ak nonoşlar -->
-<!-- https://napacuhh.uludagsozluk.com/ bkz yazık la kimim sıçmığıysa -->
-<!-- https://www.uludagsozluk.com/e/42591486/ bkz hacca giden teyzesi getirmiş beyler :)) -->
-<!-- bkz bi ak nonoşun götüne telefon sokup alo tayip orda mı demek -->
-<!-- https://www.uludagsozluk.com/k/telefonu-hi%C3%A7-susmayan-berber/ bkz telefoncu ekrem -->
-<!-- https://www.uludagsozluk.com/e/42590732/ bkz ak nonoş götüne başka erkek sokmasın mühendiliği -->
-<!-- bkz ak nonoşlara sadece johny sisns gözüyle bakabilmek -->
-<!-- https://www.uludagsozluk.com/e/42591449/ bk ak nonoşun coşması -->
-<!-- bkz ak nonoşların siklenmedikçe entry girmeleri -->
-<!-- bkz bi ergeni bi ak nonoşun kulağına ananın amı demek -->
-<!-- bkz kadir mısıroğlu anasının üstünde yakalansa diye dua eden ak nonoş -->
-<!-- https://www.uludagsozluk.com/e/42591325/ bkz ak nonoşların karıştığı olaylar -->
-<!-- bkz yall ile zall ona hep oç derin 10 dakikadır entry girmemesi -->
-<!-- https://telefoncu-ekrem-ii.uludagsozluk.com/ bkz ağır nonoş -->
-<!-- https://hitler-benim-atam.uludagsozluk.com bkz ağır bdsm fantazileri olan ergen -->
-<!-- https://si-ra-dan-sir-adam.uludagsozluk.com/ bkz si-ra-dan-sir-gay -->
-<!-- bkz rte nin alt dudaklarına yapışıp adam gibi adamsın demek -->
-<!-- bkz fatih terimin dudaklarını ısırıp bunadın mı demek -->
-<!-- https://www.uludagsozluk.com/e/42591160/ bk aknonoşun pipilerini severek öptüğü şeyhler -->
-<!-- bkz ak nonoşların annelerinin çok ateşli milf olması -->
-<!--- https://www.uludagsozluk.com/e/42591119/ annenin daha ateşli bir orospu olması -->
+
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
 <!-- 
