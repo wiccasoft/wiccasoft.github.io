@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz sevim koş kocanı sikiyolar -->
 <!-- bkz civcivlerin hayallerde yaşamaları --> 
 <!-- bkz ciddi ciddi beşiktaşlı yarrağını alabileceğini sanan fener li -->
 <!-- bkz ozan tufanın binalinin karısı ne öyle ya tweeti -->
