@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!--bkz pipisini bacaklarının arasına alıp kız oğlan kızım ben diyen ergenlerin güldürmesi -->
 <!--bkz arabasıyla bile götünü siktiremeyen ibneler -->
-<!--bkz günümüz erkeğiyim amam amına patlamam diyen erkek -->
+<!--bkz günümüz erkeğiyim ama amına patlamam diyen erkek -->
 <!--bkz patlatılmışsan bi daha patlatmam diyen erkek -->
 <!--bkz amına patlarım ama çocuğu üstlenme diyen erkek -->
 <!--bkz mangal yaparkene am patlatmam diyen erkek -->
