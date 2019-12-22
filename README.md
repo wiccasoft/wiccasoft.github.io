@@ -16,8 +16,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 
 <!-- bkz binalinin mumları üfleyip  teengirl budunla akşam yemeğine geçmesi -->
-<!-- https://www.uludagsozluk.com/e/42595013/  boru sana girmiş kankaaaaaaaaağğ --> 
-<!--bkz sevim koş kocanı sikiyolar -->
+<!-- https://www.uludagsozluk.com/e/42595013/  boru sana girmiş kankaaaaaaaaağğ soğmuşlar boruyaağ --> 
+<!-- bkz sevim koş kocanı sikiyolar -->
 <!-- bkz civcivlerin hayallerde yaşamaları --> 
 <!-- bkz ciddi ciddi beşiktaşlı yarrağını alabileceğini sanan fener li -->
 <!-- bkz ozan tufanın binalinin karısı ne öyle ya tweeti -->
