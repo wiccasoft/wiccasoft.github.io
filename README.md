@@ -21,6 +21,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz rte nin kanal yararken size mi soracam demesi  https://www.youtube.com/watch?v=SxIac4HkFl0 -->
 <!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
 <!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
+<!-- bkz tayyipin iettden arkadaşlarını prof diye tvye çıkarması -->
+<!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz ankarayı 4 bir yandan kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
