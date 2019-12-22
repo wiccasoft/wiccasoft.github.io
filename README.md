@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz atatürkün nutukta akp lilerin üstün zekasından bahsetmesi -->
 <!-- bkz ak partili zekası vs chpl i zekası -->
 <!-- bkz sinan oğanın sina aygünü mhp ye ithal etmesi -->
 <!-- bkz mansur yavaşın yavaş yavaş gelmesi  https://www.youtube.com/watch?v=h1fUNL5wo_g -->
