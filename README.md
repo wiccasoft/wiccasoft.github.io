@@ -21,9 +21,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!--bkz mustafa kamal itinin türk itlerini övme sebebi -->
 <!--bkz mustafa kamal itine it diyince deliren itler-->
 <!--bkz mustafa kamal itinin ingiliz valisi köpeği olması -->
-<!--bkz hz musa denizi yardı yalanı -->
-<!--bkz hz isa çarmıha gerildi yalanı -->
-<!--bkz mustafa kamal itin it gibi bişey olması -->
 <!--bkz mustafa kamal it in ingliz valisi olmasına ses etmeyen ata it çi çomarlar -->
 <!--bkz ata it vs recep tayyip doğan -->
 <!--bkz türklerin it olamsını hazmedemeyen kamal it çiler -->
