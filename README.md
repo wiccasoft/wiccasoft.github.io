@@ -13,6 +13,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- https://www.youtube.com/watch?v=Ww5jScH4fXY lol -->
 <!-- bkz rte ak nonoşları ithal mandalarla ne zaman zehirleyecek sorunsalı -->
 <!-- bkz yahudi lobisinin köpeği rteyi deep webte deli gibi savunan liseli ergenin güldürmesi -->
 <!-- https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomarların güldürmesi -->
