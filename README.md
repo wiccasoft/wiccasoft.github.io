@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
 <!-- bkz ak nonoşlarla taşşak geçmek https://www.youtube.com/watch?v=h1fUNL5wo_g  -->
-<!-- bkz 1978 doğumlu ultra yakışıklı 178 boyuyla kız beğenmeyen erkeğe kız taklidi yapan pigme kel ak nonoş oğlan -->
+<!-- bkz 1978 doğumlu ultra yakışıklı 178 boyuyla kız beğenmeyen erkeğe kız taklidi yapan pigme ak nonoş oğlan -->
 <!-- https://www.uludagsozluk.com/e/42594667/ bkz 2020 de alacağım adalar -->
 <!-- bkz ak nonoşların cuckold aratırken cocklara gelmesi -->
 <!-- bkz bi ak nonoşu cucukolda  siktirerek imana getirmek -->
