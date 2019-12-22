@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!--bkz mustafa orospudan doğan it vs recep kutlu sevgiden doğan -->
 <!--bkz mustafa ka mal it it oğlu it türklerin iti kamAL it -->
 <!--bkz mustafa kamal ın it olmasını hazmedemeyen kamal it ler -->
 <!--bkz mustafa kamal itinin sivas kongresi -->
