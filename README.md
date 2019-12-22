@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
 <!-- bkz teengirl budunun türkiye gibi bi ibne cennetinde yaşayacağımı sanacak kadar saf olması -->
-<!-- bkz teengirl buduna mumları üfletip taşşak yalatmak -->
+<!-- bkz teengirl buduna mumları üfleyip taşşaklarımı yalamaya başlaması -->
 <!-- bkz binalinin mumları üfleyip teengirl budunla akşam yemeğine geçmesi -->
 <!-- https://www.uludagsozluk.com/e/42595013/  boru sana girmiş kankaaaaaaaaağğ soğmuşlar boruyaağ --> 
 <!-- bkz sevim koş kocanı sikiyolar -->
