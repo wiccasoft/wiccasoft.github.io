@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz kaka türkün amerikan mandası siğeriş etmesi -->
+<!-- bkz kaka türkün kurban için  amerikan mandası sipariş etmesi -->
 <!-- bkz binali seniha başlığına entry giremeyen laikçi itler -->
 <!-- bkz binali beyin seniha hanımı simit sarayına özel uçağıyla götürmesi -->
 <!-- binali'nin simit sarayının özel uçağını kullanması -->
