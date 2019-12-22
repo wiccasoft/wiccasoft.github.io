@@ -13,6 +13,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz kamalın mal olması -->
 <!-- bkz ivanka trump ın rap sanattır demesi -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz rantçı melih sen misin -->
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
