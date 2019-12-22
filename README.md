@@ -18,7 +18,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
 <!-- bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
 <!-- bkz reisin gençler am patlatsın diye kanal sitanbulu yardırması -->
-<!-- bkz rte nin kanal açarken size mi soracam demesi  https://www.youtube.com/watch?v=SxIac4HkFl0 -->
+<!-- bkz rte nin kanal yararken size mi soracam demesi  https://www.youtube.com/watch?v=SxIac4HkFl0 -->
 <!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
 <!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
 <!-- bkz kamyon şöförü vs rte -->
