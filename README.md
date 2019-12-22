@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz jeramain lene benzeyen adam vs lens kullanmayan adam -->
 <!-- bkz binaliye benzeyen adam vs göksel kaya ya bezneyen adam -->
 <!-- bkz burak yılmaz adam mıdır sorunsalı -->
 <!-- bkz tayyipin iett de attığı boru gibi goller -->
