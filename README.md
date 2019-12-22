@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- https://www.youtube.com/watch?v=cRvwcoKOc3s -->
+<!-- bkz batmanda karısına kuma isteyen erkek https://www.youtube.com/watch?v=cRvwcoKOc3s -->
 <!-- bkz rte 2033 istanbulun üstüne bir kat daha çıkıp nüfus sorunu çözme projesi -->
 <!-- bkz boğazlar sorununu tek hamlede çözen dünya lideri -->
 <!-- bkz mansur yavaşın tayyipten 25 milyon yürü roşvet aldığını onaylaması -->
