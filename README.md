@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!--bkz doğunun %90 ının saraydan elektirink kaçırması -->
 <!-- https://acele-etme-papaz-efendi.uludagsozluk.com/ https://www.youtube.com/watch?v=S-m1WImjqsE --->
 <!-- https://www.uludagsozluk.com/e/42592718/ bkzk acele etme imama efendi -->
 <!-- https://www.youtube.com/watch?v=FDiAL9SQHqc asdasddsasdsadada -->
