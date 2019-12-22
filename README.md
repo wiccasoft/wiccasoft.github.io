@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz tayyipten istanbulun üstüne bir kat daha çıkıp nüfus sorunu çözerim sözü -->
 <!-- bkz boğazlar sorununu tek hamlede çözen dünya lideri -->
 <!-- bkz mansur yavaşın tayyipten 25 milyon yürü roşvet aldığını onaylaması -->
 <!-- bkz mansur yavaşın ankara istanbul kanalı yol açın yüzen saraylı padişah geliyor 2023 ü onaylaması -->
