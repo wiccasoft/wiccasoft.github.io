@@ -21,7 +21,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz reisin gençler am patlatsın diye kanal sitanbulu yardırması -->
 <!-- bkz kanal istanbulda yardıra yardıra arabayala drift yapıp am patlatmak -->
 <!-- bkz yüzde yüz yerli arabamla am patlatmaya geldim diyen erkek -->
-<!-- bkz evlernirken amı patlamamaış arayan erkek -->
 <!-- bkz sinan oğanın cumhurbaşkanımıza iettli ama saygı duyacaksınız demesi -->
 <!-- bkz arabayla kanal istanbulda  drip yapıp kızların götüne talibim diyen erkek ->
 <!-- bkz fesli bunağın göt sikmek için fes takması -->
