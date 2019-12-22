@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!--bkz mustafa ceceli pipisi vs mustafa kamal pipisi -->
+<!--bkz mustafa ceceli pipisi vs mustafa kamal pipisi vs mustafa sandal pipisi -->
 <!--bkz mustafa kamalın pipisinin kalmadığı halde uu önder demek -->
 <!--bkz hz muhammedin hz ayşenin amını ay gibi ikiye yarması -->
 <!--bkz hz muhammedin hz ayşenin amını parmaklarken boşaltması -->
