@@ -20,7 +20,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz kamer gençin fetö konusunda rte yi uyarması https://www.youtube.com/watch?v=XzryBfBggsQ -->
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz mansur yavaşın ankaradan istanbula hızlı kanal projesinin onaylaması-->
-<!-- bkz rte nin kanalının güldürmesi -->
 <!-- bkz rte nin ankara istanbul arası kanal projesine sıcak bakması -->
 
 
