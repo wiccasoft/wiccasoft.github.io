@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz mansur yavaşın tayyipyten 25 milyon yürü rüşvüt aldığını onaylaması -->
 <!-- bkz mansur yavaşın ankara istanbul kanalı yol açın padişah geliyor 2023 ü onaylaması -->
 <!-- bkz karısını kanal istanbulda gezmeye gönderen laikçi gavat -->
 <!-- bkz türkiyeyi kanallarla ingiliz bayrağı şeklinde bölmek asdsadasda :))))) --> 
