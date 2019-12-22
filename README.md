@@ -16,27 +16,16 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 <!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
 <!-- bkz mansur yavaşın ankaradan istanbula hızlı kanal projesinin onaylaması-->
-<!-- bkz fatih tezcan dan fatih terime işini yap uyarısı -->
-<!-- https://www.uludagsozluk.com/k/formsuz-teknik-direkt%C3%B6r/ bkz fatih terim -->
 <!-- bkz rte nin kanalının güldürmesi -->
-<!-- bkz amerikan mandası türkiye nin güldürmesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- bkz erdoğanın davos ta yedi düvele raconu kesmesi -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY lol -->
 <!-- bkz rte ak nonoşları ithal mandalarla ne zaman zehirleyecek sorunsalı -->
 <!-- bkz yahudi lobisinin köpeği rteyi deep webte deli gibi savunan liseli ergenin güldürmesi -->
 <!-- https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomarların güldürmesi -->
-<!-- bkz mustafa kamalit kakatürkün amerikan mandası istediği mektup -->
 <!-- bkz rte nin ikinci atatürk olması https://www.youtube.com/watch?v=S-m1WImjqsE --> 
 <!-- bkz ezan varken yılbaşı kutlaması yapmak https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
-<!-- bkz rte vs fatih sultan mehmet -->
-<!-- bkz kürtlerin saraydan elektrik kaçırması -->
-<!-- bkz osmanlı torunu rte vs ermeni tohumları --> 
-<!-- bkz ivanka trump ın rap sanattır demesi -->
-<!-- bkz trunmpın fetöcü olduğunu itiraf etmesi -->
-<!-- bkz muhammedin bir gecede 9 karısını sikertmesi -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz rantçı melih sen misin -->
-<!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
+<!-- bkz muhammedin bir gece 10 ak nonoşu sikertmesi -->
 <!-- https://www.youtube.com/watch?v=wgastCO7Clo fener sana bi koysam --->
 <!-- https://www.youtube.com/watch?v=RVHLdQuZ6nI zuhaHAHAHAHHAHAHAHA -->
 <!-- bkz doğunun %90 ının saraydan elektirink kaçırmasına ses etmeyen ak itler  -->
