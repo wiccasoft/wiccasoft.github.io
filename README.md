@@ -11,6 +11,7 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz bi ak nonoşun anasının amında kanal geçirmek -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bi ak nonoş olsa da siksek-->
 <!-- bkz kılıçdaroğlunun oğlunun pipisini ak nonoşların götüne sokup sigara yakıp izlemek -->
 <!-- bkz ak nonoşun götünü parmaklayıp ameno okutmak -->
