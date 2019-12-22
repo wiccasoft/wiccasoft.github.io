@@ -12,6 +12,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 <!-- bkz azxeri kızlarının tayyip sevgisi -->
+<!-- bkz sakarya dan bi kanal yardırsak mı la size mi soracam yardırın gitsin --> 
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamolunun kanala köfteci açalım teklifi -->
 <!-- bkz ankara yı boşaltıp göl yapma procesi size mi soracam vol 2 -->
 <!-- bkz bi ak nonoşun anasının amından kanal geçirip size mi soracam demek -->
