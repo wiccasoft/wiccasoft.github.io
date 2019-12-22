@@ -13,10 +13,6 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
-<!-- bkz 2023 te beton yiyecek kurtlar vadisiyle büyümüş tayyipçi nesil --> 
-<!-- bkz o değil de bi şeker fabrikası vardı noldu ona -->
-<!-- bkz müslümanların rantçı pislik ve aşağılık itler olması -->
-<!-- bkz rte ye sormadan başlık açan ak nonoş -->
 <!-- bkz rte ak nonoşları ithal etlerler ne zaman zehirleyecek sorunsalı -->
 <!-- bkz yahudi lobisinin köpeği rteyi deep webte deli gibi savunan liseli ergen -->
 <!-- https://www.youtube.com/watch?v=yPqDUC2tDIo bkz çomarların güldürmesi -->
