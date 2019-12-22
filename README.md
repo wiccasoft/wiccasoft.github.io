@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!--bkz erkan oğurun iyi sevişmediği iddaları -->
 <!--bkz neşet ertaşın erkan oğurla sevişti iddası -->
 <!--bkz ahmet nur çebinin soyunma osadında fatih terime attığı bakış -->
-<!--bkz şaka maka türklerin amele ibi tipler olması -->
+<!--bkz şaka maka türklerin amele gibi tipler olması -->
 <!-- bkz fatih terim vs ali koç -->
 <!--bkz şaka maka tayyipin ali koçu köpeği yapması --<
 <!--bkz ali koçun maç sonraı  nası koydu ama recep tayyi perdoğan tezahuratıı -->
