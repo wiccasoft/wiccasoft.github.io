@@ -20,13 +20,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 <!-- bkz vedat müriqiyle bir gece vs mario gomezle 10 gece -->
 <!-- bkz sakalsız erkek vs götünü traş etmeyen erkek -->
 <!-- bkz vedat muriqi vs veli küçük -->
-<!-- bkz kaslı erkeklerin kilolu iette şöförü kılıklı amcaların kalçalarını çatlata çatlata sikme merakı -->
-<!-- bkz uzun boylu erkeklerin göbekli erkek sikme merakı -->
-<!-- https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg bkz göbeği olan pipili canlı -->
-<!-- https://www.uludagsozluk.com/k/ardahanl%C4%B1-erkekler/&w=bg bkz ardahanlı pipisi olan canlılar -->
-<!-- https://www.uludagsozluk.com/k/jeremain-lens/&w=bg bkz jeramain lensin lens kullanmıyorum demesi -->
-<!-- https://www.uludagsozluk.com/k/sen-kar%C4%B1n%C4%B1-amdan-sikme-g%C3%B6tten-sik-diyen-ev-sahibi/ -->
-<!-- https://www.uludagsozluk.com/k/am-sikmek-i%C3%A7in-v%C3%BCcut-geli%C5%9Ftiren-erkekler/&w=bg -->
 <!-- bkz iett şöförü atarlı uzun adam ve ülkesi-->
 <!-- bkz kısa boylu erkeklerdeki uzun boylu erkeklere verme tutkusu -->
 <!-- bkz koca türkiyenin iett şöförüne eywwallah çekmesi -->
