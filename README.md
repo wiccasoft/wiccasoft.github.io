@@ -14,13 +14,14 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 -->
 
 
-<!-- bkz trunmpın fetöcü olduğunu itiraf etmesi -->
+
 <!-- bkz rte nin ikinci atatürk olması --> 
 <!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
 <!-- bkz rte vs fatih sultan mehmet -->
 <!-- bkz kürtlerin saraydan elektrik kaçırması -->
 <!-- bkz osmanlı torunu rte vs ermeni tohumları --> 
 <!-- bkz ivanka trump ın rap sanattır demesi -->
+<!-- bkz trunmpın fetöcü olduğunu itiraf etmesi -->
 <!-- bkz muhammedin bir gecede 9 karısını sikertmesi -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz rantçı melih sen misin -->
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
