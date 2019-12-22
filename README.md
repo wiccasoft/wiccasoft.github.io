@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz atat itin manda ithal etmesi --> 
+
+<!-- bkz ata itin amerikan mandası istediği mektup --> 
 <!-- bkz kız taklidi yapan ak nonoşları  mansur taklidi yapıp sikmek https://www.youtube.com/watch?v=h1fUNL5wo_g -->
 <!-- bkz ak nonoşlarla taşşak geçmek https://www.youtube.com/watch?v=h1fUNL5wo_g  -->
 <!-- bkz 1978 doğumlu ultra yakışıklı 178 boyuyla kız beğenmeyen erkeğe kız taklidi yapan pigme ak nonoş oğlan -->
