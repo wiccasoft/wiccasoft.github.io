@@ -13,15 +13,11 @@ bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw
 https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
 -->
 
+<!-- bkz rte nin ikinci atatürk olması --> 
 <!-- bkz rte nin yüzen sarayı için ankaradan istanbula kanal projesi 2023 -->
 <!-- bkz rte vs fatih sultan mehmet -->
-<!-- bkz rte nin ikinci atatürk olması --> 
 <!-- bkz kürtlerin saraydan elektrik kaçırması -->
 <!-- bkz osmanlı torunu rte vs ermeni tohumları --> 
-<!-- bkz adile naşitin ermeni olması -->
-<!-- bkz kamalit lerin kanalı görünce imana gelmeleri -->
-<!-- bkz kanalit vs kamalit -->
-<!-- https://www.uludagsozluk.com/k/mustafa-kamal-%C4%B1n-ingiliz-valisi-olmas%C4%B1/&w=bg bkz kamalitlerin göt olması -->
 <!-- bkz ivanka trump ın rap sanattır demesi -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-vs-alt%C4%B1n-frank/ bkz rantçı melih sen misin -->
 <!-- bkz muhammedin bir gece 10 ak nonoşu sikmesi -->
