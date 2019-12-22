@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz uzun boylu erkeklerin göbeklei erkek sikme merakı -->
 <!-- https://www.uludagsozluk.com/k/g%C3%B6bekli-erkek/&w=bg bkz göbeği olan pipili canlı -->
 <!-- https://www.uludagsozluk.com/k/ardahanl%C4%B1-erkekler/&w=bg bkz ardahanlı pipisi olan canlılar -->
 <!-- https://www.uludagsozluk.com/k/jeremain-lens/&w=bg bkz jeramain lensin lens kullanmıyorum demesi -->
