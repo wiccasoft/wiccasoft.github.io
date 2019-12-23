@@ -14,6 +14,7 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
+<!-- bkz 23 aralık 2019 hayallerde yaşıyor bazı ibneler moduna geçmem -->
 <!-- https://www.youtube.com/watch?v=0vVqoZ0Xi_4 --->
 <!-- https://www.uludagsozluk.com/e/42597329/ bkz hayalerde yaşıyor bazı ibneler -->
 <!-- bkz hafriyatçı tayyip ve kamyoncu arkadaşlarının güldürmesi -->
