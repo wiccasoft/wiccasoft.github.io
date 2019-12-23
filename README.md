@@ -16,6 +16,8 @@
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
+[![Image](skynet/Screenshot_2019-12-23_11-51-42.png.png)]( https://www.theguardian.com/world/2019/dec/19/moscow-shooting-russia-people-shot-dead-intelligence-agency )
+
 [![Image](skynet/Screenshot_2019-12-22_05-48-54.png)]( https://www.youtube.com/watch?v=PRW1lbrLhzY )
 
 <!--
