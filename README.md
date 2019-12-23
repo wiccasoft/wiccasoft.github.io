@@ -5,6 +5,7 @@
 <!-- 
 https://www.youtube.com/watch?v=_OXskGao8Nw
 bkz dini beton imanı rant olanların güldürmesi
+https://www.uludagsozluk.com/k/bana-burada-kad%C4%B1n-var-dediler&w=gd/2/ 
 https://www.uludagsozluk.com/e/42601196/ lol
 https://www.uludagsozluk.com/e/42597329/  a bu benim 
 bkz tayyip kanal istanbulu yapmasın diye rüşvet vermek https://www.youtube.com/watch?v=ehcVomMexkY
