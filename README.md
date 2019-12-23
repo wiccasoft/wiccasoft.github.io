@@ -1,7 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-
 <!-- https://www.uludagsozluk.com/k/apple-vs-samsung-vs-huawei-vs-oppo-vs-xiaomi/ xaos un hakim süreceği versus -->
 
 [![Image](skynet/Screenshot_2019-12-23_04-33-03.png)]( https://www.youtube.com/watch?v=PP2hWvVyyUM )
