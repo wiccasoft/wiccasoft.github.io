@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
+<!-- bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi --->
 <!-- https://www.uludagsozluk.com/k/uzaklardaki-t%C4%B1rrek-vs-mal/ lol -->
 <!-- bkz karan özçivite kız kardeş geleceği iddaları -->
 <!-- bkz burak özçivit vs çivit özburak-->
