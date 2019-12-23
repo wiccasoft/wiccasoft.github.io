@@ -1,4 +1,8 @@
 
+
+[![Image](skynet/Screenshot_2019-12-23_17-50-29.png)]( https://www.nytimes.com/2019/12/23/opinion/philanthropists-college-debt.html )
+
+
 [![Image](skynet/Screenshot_2019-12-23_15-33-23.png)]( https://www.youtube.com/watch?v=qNPguBobQPY )
 
 
