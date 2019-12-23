@@ -8,7 +8,6 @@
 
 <!-- bkz taksimin renkli siması cenkin paylaştığı video -->
 <!-- bkz tayyip budun doganla büyümüş ergenlerin güldürmesi -->
-<!-- https://www.youtube.com/watch?v=fJar-khwOkQ ersun yanal files-->
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
