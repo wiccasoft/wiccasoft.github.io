@@ -16,17 +16,6 @@ https://www.uludagsozluk.com/k/ser%C3%A7e-parmakla-entry-girmek/ lol
 -->
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-<!-- bkz mbaya dyagne vs drogba vs vedat mürüqü-->
-<!-- bkz sinan aygün vs hakan aygün -->
-<!-- bkz süleyman soysuz vs süleyman soylu -->
-<!-- bkz skandinav futbolcuları vs fransız futbolcuları-->
-<!-- bkz patlatılmış bir futbolcunun götünü tutacak kadar alçalmak -->
-<!-- bkz alper potuk götü vs radamel falcao garcia götü -->
-<!-- bkz skandinav futbolcusu götü vs alper potuk götü -->
-<!-- bkz fener ol kampanyası vs galata ol kampanyası -->
-<!-- bkz fatih terim vs ersun yanal vs rıza çalımbay-->
-<!-- https://www.transfermarkt.com/fatih-terim/profil/trainer/253 -->
-<!-- https://www.transfermarkt.com.tr/ersun-yanal/profil/trainer/811 -->
 <!-- http://www.hurriyet.com.tr/sporarena/mustafa-kocabey-aykut-kocaman-merih-demirali-kulak-arkasi-etmis-41402838 -->
 <!-- https://www.uludagsozluk.com/k/apple-vs-samsung-vs-huawei-vs-oppo-vs-xiaomi/ xaos un hakim süreceği versus -->
 <!-- bkz yersiz mobil varken yerli mobil kullanmak -->
