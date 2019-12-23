@@ -5,7 +5,7 @@
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
 <!-- bkz fatih terim vs ersun yanal vs rıza çalımbay-->
-<!-- bkz hamsilerin ersun yanalı kıskanması --> 
+<!-- bkz hamsilerin ersun yanalı kıskanmasına ses etmeyen gassaraylılar --> 
 <!-- https://www.transfermarkt.com/fatih-terim/profil/trainer/253 -->
 <!-- https://www.transfermarkt.com.tr/ersun-yanal/profil/trainer/811 -->
 <!-- http://www.hurriyet.com.tr/sporarena/mustafa-kocabey-aykut-kocaman-merih-demirali-kulak-arkasi-etmis-41402838 -->
