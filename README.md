@@ -3,6 +3,7 @@
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
 <!-- 
+https://www.youtube.com/watch?v=_OXskGao8Nw
 bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi 
 https://www.uludagsozluk.com/e/42601196/ lol
 https://www.uludagsozluk.com/e/42597329/ bkz a bu benim 
