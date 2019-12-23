@@ -6,40 +6,7 @@
 
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
-<!-- 
-https://www.youtube.com/watch?v=ehcVomMexkY
-bkz hafriyatçı tipli heriflere ülke teslim edip zırlamak https://www.youtube.com/watch?v=fPO76Jlnz6c
-https://www.youtube.com/watch?v=_OXskGao8Nw
-bkz dini beton imanı rant olanların güldürmesi https://www.uludagsozluk.com/e/42601433/
-https://www.uludagsozluk.com/k/e-postadan-kad%C4%B1na-yav%C5%9Fayan-day%C4%B1/&w=gd lol
-https://www.uludagsozluk.com/k/bana-burada-kad%C4%B1n-var-dediler&w=gd/2/ 
-https://www.uludagsozluk.com/e/42601196/ lol
-https://www.uludagsozluk.com/e/42597329/  a bu benim 
-bkz tayyip kanal istanbulu yapmasın diye rüşvet vermek https://www.youtube.com/watch?v=ehcVomMexkY
-https://www.uludagsozluk.com/k/kanal-istanbul-un-%C3%A7ed-raporunu-haz%C4%B1rlayan-firma/ a bu ben değilim
-https://www.uludagsozluk.com/k/fakirler-neden-ya%C5%9F%C4%B1yor-sorunsal%C4%B1/&w=bg lol
-https://www.uludagsozluk.com/k/dedenin-dedesinin-isko%C3%A7ya-dan-gelmesi/ lol
-https://www.uludagsozluk.com/k/uzaklardaki-t%C4%B1rrek-vs-mal/ lol 
-https://www.uludagsozluk.com/k/bana-burada-kad%C4%B1n-var-dediler/&w=gd lol
-https://www.uludagsozluk.com/k/y%C3%B6resel-%C3%BCr%C3%BCnleri-internetten-satmak/ lol
-https://www.uludagsozluk.com/k/yerli-otomobili-ekrem-imamo%C4%9Flu-yapt%C4%B1/ bkz azıyla araba sesi yapan akpli
-https://www.uludagsozluk.com/k/tc-iyesta-sert-den-makas-almak/
-https://www.uludagsozluk.com/e/42600900/ sad but true
-https://www.uludagsozluk.com/e/42597853/ lol 
-https://www.uludagsozluk.com/e/42600758/ lol
-https://www.uludagsozluk.com/k/ser%C3%A7e-parmakla-entry-girmek/ lol 
- https://www.uludagsozluk.com/k/hatay-mutfa%C4%9F%C4%B1-vs-%C3%A7%C3%B6p/&w=bg lol
--->
-
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-<!-- http://www.hurriyet.com.tr/sporarena/mustafa-kocabey-aykut-kocaman-merih-demirali-kulak-arkasi-etmis-41402838 -->
-<!-- https://www.uludagsozluk.com/k/apple-vs-samsung-vs-huawei-vs-oppo-vs-xiaomi/ xaos un hakim süreceği versus -->
-<!-- bkz yersiz mobil varken yerli mobil kullanmak -->
-<!-- https://www.uludagsozluk.com/k/yerli-otomobilin-g%C3%B6zleri-g%C3%B6r%C3%BCnd%C3%BC/ lol -->
-<!-- https://www.uludagsozluk.com/k/boyu-1-70-bile-olmayan-erkek/ bkz hayır bu benim -->
-<!-- https://www.uludagsozluk.com/k/yerli-otomobili-ekrem-imamo%C4%9Flu-yapt%C4%B1/ bkz azıyla araba sesi yapan akpli -->
-<!-- https://www.haberturk.com/ersun-yanal-dan-mac-sonu-cok-sert-sozler-2552203-spor -->
-<!-- https://www.uludagsozluk.com/e/42599962/ bkz hayallerde yaşıyor bazı köylüler -->
 
 [![Image](skynet/Screenshot_2019-12-23_04-33-03.png)]( https://www.youtube.com/watch?v=PP2hWvVyyUM )
 
@@ -64,20 +31,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
-<!-- bkz hafriyatçı tayyip ve kamyoncu arkadaşlarının güldürmesi -->
-<!-- bkz kanal stanbul da ne lan diye bakıp gülme krizine girmek -->
-<!-- bkz fetö kanal istanbula gece kum doldurmasın diye nöbet tutmak -->
-<!-- bkz tayyipin yüzen denizaltısıyla geri vites kanal istanbula girmesi -->
-<!-- bkz rte nin fıstık yiyerek istanbul kanal eyi oldu yararık ankarayada bağlarık demesi -->
-<!-- bkz reisin gençler am patlatsın diye kanal sitanbulu yardırması -->
-<!-- bkz rte nin kanal yararken size mi soracam demesi https://www.youtube.com/watch?v=SxIac4HkFl0 -->
-<!-- bkz rte nin ingiliz bayrağı şeklinde kanallar projesi 2023 --> 
-<!-- bkz emine erdoğanın kanal istanbul rio karnavalı gibi olacak açıklaması -->
-<!-- bkz tayyipin iettden arkadaşlarını prof diye tvye çıkarması -->
-<!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
-<!-- https://www.uludagsozluk.com/e/42593377/ zuhahahahah -->
-<!-- bkz ankarayı 4 bir yandan kanallarla bağlayıp boğazlar sorununu tek hamlede çözmek -->
 
 
 [![Image](skynet/Screenshot_2019-12-20_17-59-18.png)]( https://www.youtube.com/watch?v=liZm1im2erU )
