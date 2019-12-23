@@ -4,6 +4,7 @@
 <!-- https://www.uludagsozluk.com/k/apple-vs-samsung-vs-huawei-vs-oppo-vs-xiaomi/ xaos un hakim süreceği versus -->
 <!-- bkz yersiz mobil varken yerli mobil kullanmak -->
 <!-- https://www.uludagsozluk.com/k/yerli-otomobilin-g%C3%B6zleri-g%C3%B6r%C3%BCnd%C3%BC/ lol -->
+<!-- https://www.uludagsozluk.com/k/boyu-1-70-bile-olmayan-erkek/ bkz hayır bu benim -->
 
 [![Image](skynet/Screenshot_2019-12-23_04-33-03.png)]( https://www.youtube.com/watch?v=PP2hWvVyyUM )
 
