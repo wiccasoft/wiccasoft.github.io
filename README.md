@@ -5,7 +5,7 @@
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
 <!-- bkz alper potuk götü vs radamel falcao garcia götü -->
-<!-- bkz iskandinav futbolcusu götü vs alper potuk götü -->
+<!-- bkz skandinav futbolcusu götü vs alper potuk götü -->
 <!-- bkz fener ol kampanyası vs galata ol kampanyası -->
 <!-- bkz fatih terim vs ersun yanal vs rıza çalımbay-->
 <!-- bkz hamsilerin ersun yanalı kıskanmasına ses etmeyen gassaraylılar --> 
