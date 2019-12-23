@@ -6,13 +6,6 @@
 
 <!-- bkz taksimin renkli siması cenkin paylaştığı video -->
 <!-- bkz tayyiple büyümüş ergenlerin güldürmesi -->
-<!-- bkz vedat mürüqün paylaştığı koyduk mu video su -->
-<!-- bkz ersun yanal mevzu fenerbahçeye boru gib koyarız demesi -->
-<!-- bkz ali koçun nasıl koydu ama tayyip erdoğan tezaruhatı -->
-<!-- bkz şaka maka tayyipin ali koçu köpeği yapması -->
-<!-- https://www.youtube.com/watch?v=dO4tsVUkRYs bkz alper potukun çıldırması-->
-<!-- bkz ali koçun kanal istanbul iyi oldu futbolcular yara yara geçer açıklaması -->
-<!-- https://www.youtube.com/watch?v=2rqHCEIIjck ersun yanal ın bomba gibi dönmesi -->
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
