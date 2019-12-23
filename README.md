@@ -15,12 +15,6 @@ https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-da
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
 <!-- https://www.uludagsozluk.com/e/42597305/ bkz hayallerde yaşıyor bazı ibneler -->
-<!-- bkz şaka maka türklerin iğrenç yaratıklar olması -->
-<!-- bkz taharetten çıkınca göt deliğini yıkayan mal --->
-<!-- bkz erkeklerin emcük görünce verdüğü emcük tepkisi -->
-<!-- bkz iki erkeğe emcüğünü aşırı belleden kız -->
-<!-- bkz tayyipin barış atay sen ki köpek demesi -->
-<!-- bkz tayyipin yarrarık montröyü amına bile koruk demesi -->
 <!-- bkz barış atayın kara ambar hafriyat ve kamyoncular derneğini bırakma planları -->
 <!-- bkz barış atayın 2023 e kadar kara ambar cumburlop seçimlerine adaylığımı koymayacağım açıklaması -->
 <!-- https://www.youtube.com/watch?v=0vVqoZ0Xi_4 --->
