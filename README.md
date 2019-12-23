@@ -6,6 +6,7 @@
 bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi 
 https://www.uludagsozluk.com/e/42601196/ lol
 https://www.uludagsozluk.com/e/42597329/ bkz a bu benim tabi ki
+bkz tayyip kanal istanbulu yapmasın diye rüşvet vermek https://www.youtube.com/watch?v=ehcVomMexkY
 https://www.uludagsozluk.com/k/kanal-istanbul-un-%C3%A7ed-raporunu-haz%C4%B1rlayan-firma/ a bu ben değilim
 https://www.uludagsozluk.com/k/fakirler-neden-ya%C5%9F%C4%B1yor-sorunsal%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/dedenin-dedesinin-isko%C3%A7ya-dan-gelmesi/ lol
