@@ -1,13 +1,14 @@
 [![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-<!-- https://www.youtube.com/watch?v=fJar-khwOkQ -->
+
 <!-- https://www.uludagsozluk.com/k/apple-vs-samsung-vs-huawei-vs-oppo-vs-xiaomi/ xaos un hakim süreceği versus -->
 
 [![Image](skynet/Screenshot_2019-12-23_04-33-03.png)]( https://www.youtube.com/watch?v=PP2hWvVyyUM )
 
 <!-- bkz taksimin renkli siması cenkin paylaştığı video -->
 <!-- bkz tayyiple büyümüş ergenlerin güldürmesi -->
+<!-- https://www.youtube.com/watch?v=fJar-khwOkQ ersun yanal files-->
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
