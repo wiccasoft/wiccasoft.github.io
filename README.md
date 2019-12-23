@@ -4,7 +4,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=ehcVomMexkY
-bkz hafriyatçı tipli heriflere ülke teslim edip zırlamak https://www.youtube.com/watch?v=5RDSkR8_AQ0
+bkz hafriyatçı tipli heriflere ülke teslim edip zırlamak https://www.youtube.com/watch?v=fPO76Jlnz6c
 https://www.youtube.com/watch?v=_OXskGao8Nw
 bkz dini beton imanı rant olanların güldürmesi https://www.uludagsozluk.com/e/42601433/
 https://www.uludagsozluk.com/k/e-postadan-kad%C4%B1na-yav%C5%9Fayan-day%C4%B1/&w=gd lol
