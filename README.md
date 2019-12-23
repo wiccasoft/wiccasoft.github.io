@@ -7,6 +7,7 @@
 <!-- bkz vedat mürüqün paylaştığı koyduk mu video su -->
 <!-- bkz ersun yanal mevzu fenerbahçeye boru gib koyarız demesi -->
 <!-- bkz ali koçun nasıl koydu ama tayyip erdoğan tezaruhatı -->
+<!-- bkz şaka maka tayyipin ali koçu köpeği yapması --<
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
