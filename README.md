@@ -6,6 +6,7 @@
 bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi 
 https://www.uludagsozluk.com/e/42597329/ bkz a bu benim tabi ki
 https://www.uludagsozluk.com/k/uzaklardaki-t%C4%B1rrek-vs-mal/ lol 
+https://www.uludagsozluk.com/k/bana-burada-kad%C4%B1n-var-dediler/&w=gd lol
 https://www.uludagsozluk.com/k/y%C3%B6resel-%C3%BCr%C3%BCnleri-internetten-satmak/ lol
 https://www.uludagsozluk.com/k/yerli-otomobili-ekrem-imamo%C4%9Flu-yapt%C4%B1/ bkz azıyla araba sesi yapan akpli
 https://www.uludagsozluk.com/k/tc-iyesta-sert-den-makas-almak/
