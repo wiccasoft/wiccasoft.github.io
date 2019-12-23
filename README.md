@@ -3,8 +3,9 @@
 
 <!-- https://www.youtube.com/watch?v=Lj4-RWqNr6U barış atayın döşediği boru-->
 
-[![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
 
+[![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
+<!-- https://www.youtube.com/watch?v=j8VvmeAV6hs smoke weed -->
 
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
