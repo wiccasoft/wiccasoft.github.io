@@ -4,7 +4,7 @@
 
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-<!-- bkz alper potuk vs radamel falcao garcia -->
+<!-- bkz alper potuk götü vs radamel falcao garcia götü -->
 <!-- bkz fatih terim vs ersun yanal vs rıza çalımbay-->
 <!-- bkz hamsilerin ersun yanalı kıskanmasına ses etmeyen gassaraylılar --> 
 <!-- https://www.transfermarkt.com/fatih-terim/profil/trainer/253 -->
