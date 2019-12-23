@@ -4,6 +4,7 @@
 
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
+<!-- bkz mbaya dyagne vs drogba -->
 <!-- bkz patlatılmış bir futbolcunun götünü tutacak kadar alçalmak -->
 <!-- bkz alper potuk götü vs radamel falcao garcia götü -->
 <!-- bkz skandinav futbolcusu götü vs alper potuk götü -->
