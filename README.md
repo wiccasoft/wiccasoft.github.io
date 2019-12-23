@@ -2,15 +2,17 @@
 
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
-<!-- bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi --->
-<!-- https://www.uludagsozluk.com/k/uzaklardaki-t%C4%B1rrek-vs-mal/ lol -->
-<!-- bkz karan özçivite kız kardeş geleceği iddaları -->
-<!-- bkz burak özçivit vs çivit özburak-->
-<!-- https://www.uludagsozluk.com/e/42600900/ sad but true -->
-<!-- https://www.uludagsozluk.com/e/42597853/ lol -->
-<!-- https://www.uludagsozluk.com/e/42600758/ lol -->
-<!-- https://www.uludagsozluk.com/k/ser%C3%A7e-parmakla-entry-girmek/ lol -->
-<!-- https://www.uludagsozluk.com/k/hatay-mutfa%C4%9F%C4%B1-vs-%C3%A7%C3%B6p/&w=bg lol -->
+<!-- 
+bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi 
+https://www.uludagsozluk.com/k/uzaklardaki-t%C4%B1rrek-vs-mal/ lol 
+https://www.uludagsozluk.com/k/yerli-otomobili-ekrem-imamo%C4%9Flu-yapt%C4%B1/ bkz azıyla araba sesi yapan akpli
+https://www.uludagsozluk.com/k/tc-iyesta-sert-den-makas-almak/
+https://www.uludagsozluk.com/e/42600900/ sad but true
+https://www.uludagsozluk.com/e/42597853/ lol 
+https://www.uludagsozluk.com/e/42600758/ lol
+https://www.uludagsozluk.com/k/ser%C3%A7e-parmakla-entry-girmek/ lol 
+ https://www.uludagsozluk.com/k/hatay-mutfa%C4%9F%C4%B1-vs-%C3%A7%C3%B6p/&w=bg lol
+-->
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
 <!-- bkz mbaya dyagne vs drogba vs vedat mürüqü-->
