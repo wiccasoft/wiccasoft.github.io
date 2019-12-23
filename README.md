@@ -3,6 +3,7 @@
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
 <!-- https://www.uludagsozluk.com/e/42597853/ lol -->
+<!-- https://www.uludagsozluk.com/e/42600758/ lol -->
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
 <!-- bkz mbaya dyagne vs drogba vs vedat mürüqü-->
 <!-- bkz sinan aygün vs hakan aygün -->
