@@ -5,6 +5,7 @@
 <!-- bkz taksimin renkli siması cenkin paylaştığı video -->
 <!-- bkz tayyiple büyümüş ergenlerin güldürmesi -->
 <!-- bkz vedat mürüqün paylaştığı koyduk mu video su -->
+<!-- bkz ersun yanal mevzu fenerbahçeye boru gib koyarız demesi -->
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
