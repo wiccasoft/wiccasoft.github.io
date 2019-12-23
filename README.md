@@ -4,7 +4,7 @@
 
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-<!-- bkz mbaya dyagne vs drogba -->
+<!-- bkz mbaya dyagne vs drogba vs vedat mürüqü-->
 <!-- bkz sinan aygün vs hakan aygün -->
 <!-- bkz süleyman soysuz vs süleyman soylu -->
 <!-- bkz skandinav futbolcuları vs fransız futbolcuları-->
