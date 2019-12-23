@@ -7,6 +7,7 @@
 <!-- https://www.uludagsozluk.com/k/boyu-1-70-bile-olmayan-erkek/ bkz hayır bu benim -->
 <!-- https://www.uludagsozluk.com/k/yerli-otomobili-ekrem-imamo%C4%9Flu-yapt%C4%B1/ bkz azıyla araba sesi yapan akpli -->
 <!-- https://www.haberturk.com/ersun-yanal-dan-mac-sonu-cok-sert-sozler-2552203-spor -->
+<!-- https://www.uludagsozluk.com/e/42599962/ bkz hayallerde yaşıyor bazı köylüler -->
 
 [![Image](skynet/Screenshot_2019-12-23_04-33-03.png)]( https://www.youtube.com/watch?v=PP2hWvVyyUM )
 
