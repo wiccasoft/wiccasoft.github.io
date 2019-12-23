@@ -2,11 +2,12 @@
 
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
+<!-- bkz burak özçivit vs çivit özburak-->
 <!-- https://www.uludagsozluk.com/e/42597853/ lol -->
 <!-- https://www.uludagsozluk.com/e/42600758/ lol -->
 <!-- https://www.uludagsozluk.com/k/ser%C3%A7e-parmakla-entry-girmek/ lol -->
 <!-- https://www.uludagsozluk.com/k/hatay-mutfa%C4%9F%C4%B1-vs-%C3%A7%C3%B6p/&w=bg lol -->
-<!-- bkz burak özçivit vs çivit özburak-->
+
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
 <!-- bkz mbaya dyagne vs drogba vs vedat mürüqü-->
 <!-- bkz sinan aygün vs hakan aygün -->
