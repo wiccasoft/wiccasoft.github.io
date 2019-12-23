@@ -4,7 +4,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=_OXskGao8Nw
-bkz dini beton imanı rant olanların güldürmesi
+bkz dini beton imanı rant olanların güldürmesi https://www.uludagsozluk.com/e/42601433/
 https://www.uludagsozluk.com/k/e-postadan-kad%C4%B1na-yav%C5%9Fayan-day%C4%B1/&w=gd lol
 https://www.uludagsozluk.com/k/bana-burada-kad%C4%B1n-var-dediler&w=gd/2/ 
 https://www.uludagsozluk.com/e/42601196/ lol
