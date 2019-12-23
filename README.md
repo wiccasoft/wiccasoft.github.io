@@ -8,7 +8,7 @@
 <!-- bkz ersun yanal mevzu fenerbahçeye boru gib koyarız demesi -->
 <!-- bkz ali koçun nasıl koydu ama tayyip erdoğan tezaruhatı -->
 <!-- bkz şaka maka tayyipin ali koçu köpeği yapması -->
-<!-- https://www.youtube.com/watch?v=dO4tsVUkRYs alper potukun çıldırması-->
+<!-- https://www.youtube.com/watch?v=dO4tsVUkRYs bkz alper potukun çıldırması-->
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
