@@ -4,7 +4,7 @@
 
 
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
-<!-- bkz patlatışmış bir futbolcunun götünü tutacak kadar alçalmak -->
+<!-- bkz patlatılmış bir futbolcunun götünü tutacak kadar alçalmak -->
 <!-- bkz alper potuk götü vs radamel falcao garcia götü -->
 <!-- bkz skandinav futbolcusu götü vs alper potuk götü -->
 <!-- bkz fener ol kampanyası vs galata ol kampanyası -->
