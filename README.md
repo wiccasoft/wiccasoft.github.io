@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=_OXskGao8Nw
+bkz dini imanı para olanları parayla eğitmek
 bkz 23 aralık 2019 uluda dönen geyiğin güldürmesi 
 https://www.uludagsozluk.com/e/42601196/ lol
 https://www.uludagsozluk.com/e/42597329/ bkz a bu benim 
