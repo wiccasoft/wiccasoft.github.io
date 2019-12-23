@@ -3,6 +3,7 @@
 [![Image](skynet/Screenshot_2019-12-23_11-56-45.png)]( https://www.theguardian.com/world/gallery/2019/dec/19/unrising-sun-the-polar-nights-of-murmansk-in-pictures )
 
 <!-- 
+https://www.youtube.com/watch?v=ehcVomMexkY
 bkz hafriyatçı tipli heriflere ülke teslim edip zırlamak
 https://www.youtube.com/watch?v=_OXskGao8Nw
 bkz dini beton imanı rant olanların güldürmesi https://www.uludagsozluk.com/e/42601433/
