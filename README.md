@@ -6,7 +6,7 @@
 <!-- https://www.almanac.com/astronomy/moon/calendar -->
 <!-- bkz mbaya dyagne vs drogba -->
 <!-- bkz sinan aygün vs hakan aygün -->
-<!-- bkz süleyman soyusz vs süleyman soylu -->
+<!-- bkz süleyman soysuz vs süleyman soylu -->
 <!-- bkz skandinav futbolcuları vs fransız futbolcuları-->
 <!-- bkz patlatılmış bir futbolcunun götünü tutacak kadar alçalmak -->
 <!-- bkz alper potuk götü vs radamel falcao garcia götü -->
