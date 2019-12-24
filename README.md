@@ -6,9 +6,6 @@
 
 [![Image](skynet/Screenshot_2019-12-23_15-33-23.png)]( https://www.youtube.com/watch?v=qNPguBobQPY )
 
-<!-- https://www.youtube.com/watch?v=Lj4-RWqNr6U  -->
-<!-- https://www.youtube.com/watch?v=ZpHB1WEtrXM  -->
-<!-- https://www.youtube.com/watch?v=ki0dgwdiLao lost tr-->
 
 [![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
 <!-- https://www.youtube.com/watch?v=j8VvmeAV6hs smoke weed -->
@@ -19,8 +16,6 @@
 
 [![Image](skynet/Screenshot_2019-12-23_04-33-03.png)]( https://www.youtube.com/watch?v=PP2hWvVyyUM )
 
-<!-- bkz taksimin renkli siması cenkin paylaştığı video -->
-<!-- bkz tayyip budun doganla büyümüş ergenlerin güldürmesi -->
 
 [![Image](skynet/Screenshot_2019-12-22_21-30-57.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 
