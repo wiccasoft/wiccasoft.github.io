@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-23_15-33-23.png)]( https://www.youtube.com/watch?v=qNPguBobQPY )
 <!-- https://www.uludagsozluk.com/e/42602533/ -->
+<!-- https://www.uludagsozluk.com/e/42602094/ nkz somurtkan tesellisi-->
 <!-- https://www.youtube.com/watch?v=Lj4-RWqNr6U  -->
 <!-- https://www.youtube.com/watch?v=ZpHB1WEtrXM  -->
 <!-- https://www.youtube.com/watch?v=ki0dgwdiLao lost tr-->
