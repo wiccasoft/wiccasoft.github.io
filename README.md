@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-23_15-33-23.png)]( https://www.youtube.com/watch?v=qNPguBobQPY )
 
 <!-- https://www.youtube.com/watch?v=Lj4-RWqNr6U barış atay -->
-
+<!-- https://www.youtube.com/watch?v=ZpHB1WEtrXM lol -->
 
 [![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
 <!-- https://www.youtube.com/watch?v=j8VvmeAV6hs smoke weed -->
