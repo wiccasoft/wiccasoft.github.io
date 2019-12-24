@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/k/%C3%A7atlasan%C4%B1z-da-patlasan%C4%B1z-da-isa-ta
 https://www.uludagsozluk.com/k/cinden-bahseden-bir-dini-ciddiye-almak/&w=bg lol
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz müslümanların güldürmesi
 bkz ak showun yeniden başlaması
-
+bkz yersiz mobil varken yerli mobil kullanmak
 -->
 
 [![Image](skynet/Screenshot_2019-12-24_06-11-56.png)]( https://www.youtube.com/watch?v=_S6gK9EzhBI )
