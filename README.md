@@ -3,6 +3,7 @@
 
 <!-- https://www.youtube.com/watch?v=Lj4-RWqNr6U barış atay -->
 <!-- https://www.youtube.com/watch?v=ZpHB1WEtrXM lol -->
+<!-- https://www.youtube.com/watch?v=ki0dgwdiLao lost tr-->
 
 [![Image](skynet/Screenshot_2019-12-23_09-12-12.png)]( https://www.youtube.com/watch?v=D1iBkt355Ss )
 <!-- https://www.youtube.com/watch?v=j8VvmeAV6hs smoke weed -->
