@@ -1,6 +1,9 @@
 
 [![Image](skynet/Screenshot_2019-12-24_09-11-27.png)]( https://www.youtube.com/watch?v=f2kVywKOn9Q )
-
+<!-- 
+https://www.uludagsozluk.com/k/%C3%A7atlasan%C4%B1z-da-patlasan%C4%B1z-da-isa-tanr%C4%B1n%C4%B1n-o%C4%9Fludur/
+https://www.uludagsozluk.com/k/cinden-bahseden-bir-dini-ciddiye-almak/&w=bg lol
+-->
 
 [![Image](skynet/Screenshot_2019-12-24_06-11-56.png)]( https://www.youtube.com/watch?v=_S6gK9EzhBI )
 
