@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz adold hitler niye ingiltireye saldırmadı sorunsalı
 bkz adolf hitler türkiyeye niye saldırmıyor sorunsalı
 bkz adolf hitlerin rusyaya saldırma sebebi
 bkz fakirlerin fakir olma sebebi https://www.youtube.com/watch?v=R-q9go-xi1M
