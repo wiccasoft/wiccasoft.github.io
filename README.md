@@ -5,6 +5,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 [![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
 
+<!-- bkz herkesin hayatı karışmaz https://www.youtube.com/watch?v=hacCw29knzI -->
 <!-- bkz mesihin konstantinopoliste zuhur eylemesi -->
 <!-- bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 -->
 <!-- bkz konstantinopolisi verin bu iş tatlıya bağlansın https://www.youtube.com/watch?v=_OXskGao8Nw --> 
