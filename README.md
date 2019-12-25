@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+https://www.uludagsozluk.com/e/42613028/ bkz hayallerde yaşıyor bazı ibneler 
 bkz antalyayı özlemek
 bkz noelin süper bişi olması
 bkz hagi vs alex vs falcao
