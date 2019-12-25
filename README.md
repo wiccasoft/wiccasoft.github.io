@@ -8,6 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz fakirlerin fakir olma sebebi
+bkz mercedes erkeği vs bmw erkeği
 bkz kurtlar vadisi izleyerek büyümüş neslin güldürmesi
 bkz sağcılardan neden mafya çıkmıyor sorunsalı
 bkz 41 yaşında hala seks yapmaya çalışan adam
