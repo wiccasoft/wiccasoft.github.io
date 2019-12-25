@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz gaga bulut un nihat doğanı tehdit etmesi 
 bkz elton john nun kraliçeden özür dilemesi
 bkz mesihin zuhur eylemesi https://www.youtube.com/watch?v=hacCw29knzI 
 bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
