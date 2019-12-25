@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz sedat pekerin hapiste sadewce ülkücülere vurdurdum açıklaması
 bkz homoseksüellerin kafa siktiği gerçeği
 bkz ükücülerin homoseksüel olduklarını çözmeleri
 bkz ükücülerdeki mafya erkeği hastalığını sebebi
