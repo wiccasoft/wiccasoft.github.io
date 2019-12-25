@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ceza sogopa yı hoplattı mı sorunsalı
 bkz halo dayının seyfo dayıyı hoplattığı gerçeği
 bkz ortamda vuruşacak erkek kalmayınca sinirlenmek
 bkz adam gibi vuruşan erkek vs karı gibi kaçan erkek
