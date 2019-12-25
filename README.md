@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz volkan sütçüoğlu gay miydi sorunsalı
 bkz adolf hitler hittiyse hititler hitmedi mi sorunsalı
 bkz adolf hitler hitit li olabilir mi sorunsalı
 bkz adolf hitler hit ti mi sorunsalı
