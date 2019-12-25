@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz antalyayı özlemek
 bkz tam zengin olacakken fakirlerin ayaklanması 
 https://www.uludagsozluk.com/k/scooter-a-binip-kiliseyi-terk-eden-rahip/ bkz gigi d'agostino
 https://www.uludagsozluk.com/k/testislerine-okyanus-suyu-de%C4%9Fmemi%C5%9F-erkek/ bkz testisleri yalanası erkek
