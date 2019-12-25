@@ -8,7 +8,6 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!-- 
 https://www.uludagsozluk.com/k/scooter-a-binip-kiliseyi-terk-eden-rahip/ bkz gigi d'agostino
-bkz tam zengin olacaken fakirlerin ayaklanması sorunsalı
 https://www.uludagsozluk.com/k/testislerine-okyanus-suyu-de%C4%9Fmemi%C5%9F-erkek/ bkz testisleri yalanası erkek
 https://www.uludagsozluk.com/k/erkek-dans%C3%B6z/ bkz kalçaları ısırılası erkekler
 bkz arda turan götü vs vedat mürüq götü
