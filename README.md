@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz adolf hitler neden darth vader e saldırmıyor sorunsalı
 bkz fakirlerin fakir olma sebebi
 bkz kurtlar vadisi izleyerek büyümüş neslin güldürmesi
 bkz sağcılardan neden mafya çıkmıyor sorunsalı
