@@ -8,6 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!-- 
 bkz antalyayı özlemek
+bkz selman öğütün hasan mezarcıya verdiği ayar
 bkz tam sıcak denizlere inecekken fakirlerin ayaklanması 
 bkz ruhban sınıfının sanki biraz şey olması
 bkz hasan mezarcının mesih suretinde zühur eylemesi
