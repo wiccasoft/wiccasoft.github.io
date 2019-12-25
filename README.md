@@ -13,6 +13,7 @@ bkz hagi vs alex vs falcao
 bkz ismet inönü vs kamal 
 bkz rte vs kanal
 bkz bülent ersoy vs burcu esmersoy
+bkz deniz gezmişin son fotosu vs isanın son akşam yemeği 
 bkz eşcinsellerin erkek merkezli yaşama sebebi
 bkz ekşicinin noelde mini etek giyme diyen prof e verdiği ayar
 bkz bülent ersoyun noel için pipisini kaldırması
