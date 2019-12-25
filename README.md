@@ -8,7 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz hasan mezarcı mesih mi sorunsalı
-bkz mesih hasna mezarcı deilse deccal kim sorunsalı
+bkz mesih hasan mezarcı deilse deccal kim sorunsalı
 bkz mesihin ben mesihim demeyecem diyeceğim hadisi sorunsalı
 bkz adolf hitler in populer olma sebbi
 bkz adolf hitlerin size mi soracaz demesi
