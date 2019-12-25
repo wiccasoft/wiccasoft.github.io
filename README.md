@@ -8,6 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!-- 
 bkz antalyayı özlemek
+bkz rte ni beni seven yılbaşı kutlamaz açıklaması
 bkz recep tayyip erdoğanın yılbaşı günahtır açıklaması
 bkz noel yerine yılbaşı kutlayan fakirler in güldürmesi
 bkz 31 aralık'ı bekleyen fakirler
