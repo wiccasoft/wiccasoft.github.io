@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-24_21-19-40.png)]( https://www.youtube.com/watch?v=4F9DxYhqmKw&list=PLc3eJp_V3PgV1oU7sXOwqVjjl7_OiyykS )
 
+<!--bkz 25 aralık 2019 imparatorun real madrid le yarım kalan işimiz var paylaşımı -->
 
 [![Image](skynet/Screenshot_2019-12-24_21-48-10.png)]( https://www.youtube.com/watch?v=KG7Bs_BCC5w )
 
