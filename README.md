@@ -7,8 +7,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz fakirlerin fakir olma sebebi
-bkz mercedes erkeği vs bmw erkeği
 bkz fakirlerin araba ve telefon tutkusunun asıl sebebi
 bkz kurtlar vadisi izleyerek büyümüş neslin güldürmesi
 bkz sağcılardan neden mafya çıkmıyor sorunsalı
