@@ -5,20 +5,6 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
-<!-- bkz kanal istanbulun iki yakasına dev cami projesi -->
-<!-- bkz yerli otoya mini etekle binme diyen prof -->
-<!-- bkz yazın yerli otoyla kanal istanbuldan karı kaldırmak -->
-<!-- bkz ekremin imamın oğlu olduğu söylentileri -->
-<!-- bkz 25 aralık 2019 imamoğlu geri vitesi -->
-<!-- bkz otomoil de cartel araba yok çalış kanal istanbul da yardırmak -->
-<!-- https://www.uludagsozluk.com/k/yerli-otoyu-hangi-%C3%BClkeden-y%C3%BCr%C3%BCtt%C3%BCk-sorunsal%C4%B1/ -->
-<!-- https://eksisozluk.com/trafikte-en-temkinli-yaklasilmasi-gereken-araclar--4684798?a=popular -->
-<!-- https://eksisozluk.com/yerli-otomobilin-panjurunun-goruntusu--6295357?a=popular -->
-<!-- bkz yerli otombille kanal istanbul da yardıra yadıra gitmek -->
-<!-- bkz mini etekle protestoya gelemezsin diyen prof -->
-<!-- https://eksisozluk.com/mini-etek-giyene-burasi-pavyon-mu-diyen-prof--6294944?a=popular -->
-<!-- bkz akpliler kanal istanbul direnişçilerini dövmelerinin sebebi -->
-<!-- bkz kuzey ümraniye güney beylikdüzü kanal istanbul protestoları -->
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ -->
 <!-- https://www.uludagsozluk.com/k/havva-ile-adem-t%C4%B1rnaklar%C4%B1n%C4%B1-nas%C4%B1l-keserdi/ -->
