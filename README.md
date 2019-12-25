@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz adolf hitler niye amerikaya saldırmadı sorunsalı düşünmeyen gençlik
+bkz adolf hitler niye amerikaya saldırmadı sorunsalını düşünmeyen gençlik
 bkz adold hitler niye ingiltireye saldırmadı sorunsalı
 bkz adolf hitler türkiyeye niye saldırmıyor sorunsalı
 bkz adolf hitlerin rusyaya saldırma sebebi
