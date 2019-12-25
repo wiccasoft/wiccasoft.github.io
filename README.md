@@ -7,6 +7,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz delikanlıca vuruşulan erkeğin reisin yaveri çıkması
+bkz götüne attırılan erkeğin ankaralı çıkması
 bkz yerli arabayla la bize her yer ankara çalmak
 bkz vuruşmaktan korkan erkek vs delikanlı gibi vuruşan ekrek
 bkz delikanlı gibi vurduran erkeğe isim önerileri
