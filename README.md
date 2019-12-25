@@ -9,6 +9,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!-- 
 bkz antalyayı özlemek
 bkz noelin süper bişi olması
+bkz noelde mini etek giyme diyen prof
 bkz bülent ersoyun noel için pipisini kaldırması
 bkz cem garipoğlunun ekşicileri deli eden noel paylaşımı
 bkz rte nin ekşiciler yerli otomobile mini etek giyerek binmesin demesi
