@@ -13,11 +13,6 @@ bkz ruhban sınıfının sanki biraz şey olması
 https://www.uludagsozluk.com/k/scooter-a-binip-kiliseyi-terk-eden-rahip/ bkz gigi d'agostino
 https://www.uludagsozluk.com/k/testislerine-okyanus-suyu-de%C4%9Fmemi%C5%9F-erkek/ bkz testisleri yalanası erkek
 https://www.uludagsozluk.com/k/erkek-dans%C3%B6z/ bkz kalçaları ısırılası erkekler
-bkz arda turan götü vs vedat mürüq götü
-bkz burak özçivit memesi vs kenan imirzalıoğlu memesi
-bkz gaga bulutun öpüştürdüğü gençlerin ekşide yazar olması
-bkz burak çivitin basur memesini jineloğa göstermesi
-bkz elton john nun kraliçeden özür dilemesi
 bkz mesihin zuhur eylemesi https://www.youtube.com/watch?v=hacCw29knzI 
 bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
 bkz konstantinopolisi verin bu iş tatlıya bağlansın https://www.youtube.com/watch?v=_OXskGao8Nw 
