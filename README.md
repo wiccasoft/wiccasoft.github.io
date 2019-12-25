@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ortamda vuruşacak erkek kalmayınca sinirlenmek
 bkz adam gibi vuruşan erkek vs karı gibi kaçan erkek
 bkz vuruşmaktan korkan erkek vs delikanlıca vuruşan erkek
 bkz vuruşulan erkeğin yeniden doğuş partili çıkması
