@@ -7,13 +7,6 @@
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
 
-<!-- bkz beyin cerrahı olup kimlerle uğraşmak -->
-<!-- bkz teengirl budunun annesini hoplatırken psikanalizim gelişiminden bahsetmek -->
-<!-- bkz babası maç izlerken freud e götelek diye entry giren ergen -->
-<!-- bkz lacanın freudçuların annelerini hopur hopur hoplatması -->
-<!-- bkz lacanın freudçuların kulağına anan yanımda demesi -->
-<!-- bkz ekşicinin maç izleyen babasının kulağına oğlunu da hiç sevmezdim diye fısıldamak -->
-<!-- bkz ekşideki sevimsiz fanatik ergenlerin baya büyümesi -->
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY vedat murüğü -->
 <!-- bkz hafriyatçı tayyipin kendini bld.bşk. sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
