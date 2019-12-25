@@ -2,7 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
-<!-- bkz ekşideki sevimsiz ergenlerin baya büyümesi -->
+<!-- bkz ekşideki sevimsiz fanatik ergenlerin baya büyümesi -->
 <!-- https://www.youtube.com/watch?v=s3BGryfktXY vedat murüğü -->
 <!-- bkz hafriyatçı tayyipin kendini bld.bşk. sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
