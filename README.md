@@ -8,7 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz hasan mezarcı mesih mi sorunsalı
-bkz mesihin ben mesihim demeyecem demesi hadisi
+bkz mesihin ben mesihim demeyecem diyeceğim hadisi sorunsalı
 bkz adolf hitler in populer olma sebbi
 bkz adolf hitlerin size mi soracaz demesi
 bkz çatlasanızda patlasanızdakanal açacam diyen birini ciddiye almak
