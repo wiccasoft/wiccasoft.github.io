@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-24_21-19-40.png)]( https://www.youtube.com/watch?v=4F9DxYhqmKw&list=PLc3eJp_V3PgV1oU7sXOwqVjjl7_OiyykS )
 
-<!--bkz 25 aralık 2019 fetönün kanala kum dökmesi -->
+<!--bkz 25 aralık 2019 fetö kanala kum dökmesin diye nöbet tutmam -->
 <!--bkz 25 aralık 2019 gamze özçelikin adam yerine konmak için sakal bırakması  -->
 <!--bkz 25 aralık 2019 ali koçun ingiliz bayrağı şeklinde kanallar projesi önerisi -->
 <!--bkz 25 aralık 2019 fatih tezcan kanal sakarya yalova önerisi -->
