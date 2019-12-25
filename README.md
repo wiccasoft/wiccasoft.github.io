@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz tayyip kanal açmazsa kim açaçcak sorunsalı
+bkz tayyip kanal açmazsa kim açaçak sorunsalı
 bkz adolf hitlerin tayyipe saldırmaması sorunsalı bkz https://www.youtube.com/watch?v=FqDSaTKtQYA 
 bkz tayyip ölürse bizi kşim yönetçek sorunalıhttps://www.youtube.com/watch?v=FqDSaTKtQYA 
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-bizi-kim-y%C3%B6netecek/&w=bg
