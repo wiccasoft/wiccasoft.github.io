@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
+<!-- bkz akpliler kanal istanbul direnişçilerini dövmelerinin sebebi -->
 <!-- bkz kuzey ümraniye güney beylikdüzü kanal istanbul protestoları -->
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ -->
