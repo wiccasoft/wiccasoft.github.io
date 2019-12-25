@@ -12,6 +12,7 @@ bkz noelin süper bişi olması
 bkz hagi vs alex vs falcao
 bkz ismet inönü vs kamal 
 bkz rte vs kanal
+bkz bülent ersoy nereli sorunsalı
 bzk recep isminde kamnyoncu kılıklı liderleri olan komik ülke
 bkz recep tayyip erdoğanın kanalı yardıracam demesi
 bkz bülent ersoy vs burcu esmersoy
