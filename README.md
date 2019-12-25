@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz erkeksen bana alfa olduğu göster diyen pasifi siklememek
 https://www.uludagsozluk.com/e/42613028/ bkz hayallerde yaşıyor bazı ibneler 
 bkz antalyayı özlemek
 bkz noelin süper bişi olması
