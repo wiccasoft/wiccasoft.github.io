@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz hasan mezarcı mezarcı mı sorunsalı
+bkz hasan mezarcı mesih mi sorunsalı
 bkz adolf hitler in populer olma sebbi
 bkz adolf hitlerin size mi soracaz demesi
 bkz çatlasanızda patlasanızdakanal açacam diyen birini ciddiye almak
