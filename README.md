@@ -7,7 +7,6 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- bkz mesihin zuhur eylemesi -->
-<!-- https://www.uludagsozluk.com/k/allah-%C4%B1n-yaratt%C4%B1%C4%9F%C4%B1-bo%C4%9Faz-varken-yapay-bo%C4%9Faz-yapmak/ -->
 <!-- bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 -->
 <!-- bkz konstantinopolisi verin bu iş tatlıya bağlansın https://www.youtube.com/watch?v=_OXskGao8Nw --> 
 <!-- bkz konstantinopolisi kaç saatte alırız sorunsalı -->
