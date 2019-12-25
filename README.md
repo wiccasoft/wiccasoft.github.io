@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
+<!-- bkz lacanın freudçuları hopur hopur hoplatması -->
 <!-- bkz lacanın freudçuların kulağına anan yanımda demesi -->
 <!-- bkz ekşicinin maç izleyen babasının kulağına oğlunu da hiç sevmezdim diye fısıldamak -->
 <!-- bkz ekşideki sevimsiz fanatik ergenlerin baya büyümesi -->
