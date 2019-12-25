@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
+<!-- bkz karadeniz patlamadan zamanında önlem almak --> 
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ -->
 <!-- https://www.uludagsozluk.com/k/havva-ile-adem-t%C4%B1rnaklar%C4%B1n%C4%B1-nas%C4%B1l-keserdi/ -->
