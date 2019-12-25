@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-24_21-19-40.png)]( https://www.youtube.com/watch?v=4F9DxYhqmKw&list=PLc3eJp_V3PgV1oU7sXOwqVjjl7_OiyykS )
 
+<!--bkz 25 aralık 2019 karadeniz patlamasın analar ağlamasın kampanyası-->
 <!--bkz 25 aralık 2019 fetö kanala kum dökmesin diye kanala bal porsuğu atmam -->
 <!--bkz 25 aralık 2019 gamze özçelikin adam yerine konmak için sakal bırakması  -->
 <!--bkz 25 aralık 2019 ali koçun ingiliz bayrağı şeklinde kanallar projesi önerisi -->
