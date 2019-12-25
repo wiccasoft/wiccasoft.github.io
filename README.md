@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz ükücülerin homo olduklarını çözmeleri
 bkz ükücülerdeki mafya erkeği hastalığını sebebi
 bkz hüseyin nihal atsız yazarken yorulamk kim olduğunu hala bilmemek
 bkz ülkücülerin adamsan götüme çakarsın hareketlerinin sebebi
