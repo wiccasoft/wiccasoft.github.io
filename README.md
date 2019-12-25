@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
-bkz hüseyin nihal atsız yazarken yorulmak
+bkz hüseyin nihal atsız yazarken yorulamk kim olduğunu hala bilmemek
 bkz ülkücülerin adamsan götüme çakarsın hareketlerinin sebebi
 bkz ülkücülerin gay olma sebebi 
 bkz delikanlıysan bana götten çakar mafya olursun diyen ülkücü
