@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ya tayyip erdoğan gibi bi beyin yönetmezse nereye yönetilecez sorunsalı
 bzk tayyip le büyüyüp tayyipsiz n'olacak diye düşünmek
 bkz tayyip giderse kanal açılmayacak mı sorunsalı
 bkz tayyip kanal açmazsa kim açaçak sorunsalı
