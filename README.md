@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz ülkücülerin erkekesen götüme çakarsın hareketlerinin sebebi
 bkz ülkücülerin gay olma sebebi 
 bkz delikanlıysan bana götten çakar mafya olursun diyen ülkücü
 bkz hüseyin nihal atsıza entry giren ülkücü
