@@ -13,6 +13,7 @@ bkz hagi vs alex vs falcao
 bkz ismet inönü vs kamal 
 bkz rte vs kanal
 bkz bülent ersoy vs burcu esmersoy
+bkz sedat pekerin tayyipe dokunana karşında beni bulur demesi
 bkz aşık olduğun erkeğin ofsaytı bilmemesi hatta futbol bile izlememesi
 bkz deniz gezmişin son fotosu vs isanın son akşam yemeği 
 bkz eşcinsellerin erkek merkezli yaşama sebebi
