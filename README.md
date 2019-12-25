@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-vkz adolf hitler in populer olma sebbi
+bkz adolf hitler in populer olma sebbi
 bkz adolf hitlerin size mi soracaz demesi
 bkz çatlasanızda patlasanızdakanal açacam diyen birini ciddiye almak
 bkz recep tayyip dogan vs adolf hitler dogan
