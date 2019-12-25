@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz vuruşmaktan korkan erkek vs delikanlıca vuruşan erkek
 bkz vuruşulan erkeğin yeniden doğuş partili çıkması
 https://www.youtube.com/watch?v=0iTts0sUzH4
 bkz delikanlıca vuruşulan erkeğin reisin yaveri çıkması
