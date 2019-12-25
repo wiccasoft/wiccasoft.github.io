@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz çatlasanızda patlasanızda diyen birini ciddiye almak
+bkz çatlasanızda patlasanızdakanal açacam diyen birini ciddiye almak
 bkz recep tayyip dogan vs adolf hitler dogan
 bkz adolf hitler dogan vs recep tayyip dogan
 bkz tayyip olmasydı napardık sorunsalı
