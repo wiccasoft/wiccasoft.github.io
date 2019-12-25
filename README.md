@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
+<!-- bkz hafriyatçı tayyipin kendini bld.bşk. sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
 <!-- bkz karadeniz patlamadan zamanında önlem almak --> 
 <!-- bkz ali koçun kanal istanbul kenarına stad yapalım teklifi -->
