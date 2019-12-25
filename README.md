@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz adolf hitlerin size mi soracaz demesi
 bkz çatlasanızda patlasanızdakanal açacam diyen birini ciddiye almak
 bkz recep tayyip dogan vs adolf hitler dogan
 bkz adolf hitler dogan vs recep tayyip dogan
