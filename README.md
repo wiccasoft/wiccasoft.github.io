@@ -9,6 +9,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!-- 
 bkz antalyayı özlemek
 bkz noelin süper bişi olması
+bkz cem garipoğlunun noel paylaşımı
 bkz rte nin ekşiciler yerli otomobile mini etek giyerek binmesin demesi
 bkz rte nin beni seven yılbaşında çerezle sigara içmez açıklaması
 bkz recep tayyip erdoğanın yılbaşı günahtır açıklaması
