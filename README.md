@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz vuruşmaktan korkan erkek vs delikanlı gibi vuruşan ekrek
 bkz delikanlı gibi vurduran erkeğe isim önerileri
 bkz solcuların delikanlı gibi vurdurmaması
 https://www.uludagsozluk.com/k/zeki-cevik-ve-ahlakli/&w=bg bkz hangısı
