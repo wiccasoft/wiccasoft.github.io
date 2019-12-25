@@ -8,7 +8,6 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz fakirlerin fakir olma sebebi
-bkz coooooooooooooooooooooooooool
 bkz kurtlar vadisi izleyerek büyümüş neslin güldürmesi
 bkz solculardan neden mafya çıkmıyor sorunsalı
 bkz 41 yaşında hala seks yapmaya çalışan adam
