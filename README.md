@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz 41 yaiında hala seks yapmaya çalışan adam
 bkz fakirlerin saçma sapan şeylerle uğraştığı gerçeği
 bkz adolf hitler niye sedat pekere saldırmıyor sorunsalı
 bkz sedat pekerin hapiste sadece ülkücülere vurdurdum açıklaması
