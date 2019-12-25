@@ -7,6 +7,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz tayyip ölürse bizi kşim yönetçek sorunalıhttps://www.youtube.com/watch?v=FqDSaTKtQYA 
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-bizi-kim-y%C3%B6netecek/&w=bg
 bkz https://www.youtube.com/watch?v=FqDSaTKtQYA  bkz çaycı hüseyini hoplatmak
 bkz https://www.youtube.com/watch?v=FqDSaTKtQYA bkz darth vader vs gevşekler
 bkz killa hakancıların saopacılardan götüm götüm kaçması
