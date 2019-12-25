@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
 
-<!-- bkz yazın yerli otoyla kanal istanuldan karı kaldırmak -->
+<!-- bkz yazın yerli otoyla kanal istanbuldan karı kaldırmak -->
 <!-- bkz ekremin imamın oğlu olduğu söylentileri -->
 <!-- bkz 25 aralık 2019 imamoğlu geri vitesi -->
 <!-- bkz otomoil de cartel araba yok çalış kanal istanbul da yardırmak -->
