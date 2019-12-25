@@ -6,8 +6,7 @@
 bkz kemalistlerin kendini komik sanması 
 https://www.uludagsozluk.com/k/%C3%A7atlasan%C4%B1z-da-patlasan%C4%B1z-da-isa-tanr%C4%B1n%C4%B1n-o%C4%9Fludur/
 https://www.uludagsozluk.com/k/cinden-bahseden-bir-dini-ciddiye-almak/&w=bg lol
-bkz fatih terimin real madrid le yarım kalan bi işimiz var demesi
-bkz imparatorun attığı weet
+https://www.uludagsozluk.com/k/gamze-%C3%B6z%C3%A7elik-in-tesett%C3%BCre-girmesi/&w=gd
 -->
 
 [![Image](skynet/Screenshot_2019-12-24_06-11-56.png)]( https://www.youtube.com/watch?v=_S6gK9EzhBI )
