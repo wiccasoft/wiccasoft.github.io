@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz https://www.youtube.com/watch?v=FqDSaTKtQYA alayına gider
 bkz hitlerin döşediği boru https://www.youtube.com/watch?v=FqDSaTKtQYA
 bkz killa hakancıların saopacılardan götüm götüm kaçması
 bkz norm önderin saopaya döşediği boruya sese etmeyen sagopacılar
