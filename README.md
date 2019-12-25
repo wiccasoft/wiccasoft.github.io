@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz yeni arabayla la bize her yer ankara çalmak
+bkz yerli arabayla la bize her yer ankara çalmak
 bkz vuruşmaktan korkan erkek vs delikanlı gibi vuruşan ekrek
 bkz delikanlı gibi vurduran erkeğe isim önerileri
 bkz solcuların delikanlı gibi vurdurmaması
