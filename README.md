@@ -2,6 +2,8 @@
 
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
+
+<!-- bkz beyin cerrahı olup kimlerle uğraşmak -->
 <!-- bkz teengirl budunun annesini hoplatırken psikanalizim gelişiminden bahsetmek -->
 <!-- bkz babası maç izlerken freud e götelek diye entry giren ergen -->
 <!-- bkz lacanın freudçuların annelerini hopur hopur hoplatması -->
