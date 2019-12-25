@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz adolf hitler niye avrupaya saldırmayıyor sorunsalı
+bkz adolf hitler niye sedat pekere saldırmayıyor sorunsalı
 bkz sedat pekerin hapiste sadece ülkücülere vurdurdum açıklaması
 bkz homoseksüellerin kafa siktiği gerçeği
 bkz ükücülerin homoseksüel olduklarını çözmeleri
