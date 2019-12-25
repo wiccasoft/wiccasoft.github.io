@@ -5,13 +5,16 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 [![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
 
-[![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
-
 <!-- bkz zulüm 1453 başladı -->
 <!-- bkz konstantinopolisi kaç saatte alırız sorunsalı -->
+<!-- bkz karadeniz patlamadan zamanında önlem almak --> 
+
+[![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
+
+
 <!-- bkz hafriyatçı tayyipin kendini bld.bşk. sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
-<!-- bkz karadeniz patlamadan zamanında önlem almak --> 
+
 <!-- bkz ali koçun kanal istanbul kenarına stad yapalım teklifi -->
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ --
