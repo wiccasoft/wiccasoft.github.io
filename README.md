@@ -8,7 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!-- 
 bkz antalyayı özlemek
-bkz noel yerine yılbaşı kutlayan fakirler 
+bkz noel yerine yılbaşı kutlayan fakirler in güldürmesi
 bkz 31 aralık'ı bekleyen fakirler
 bkz selman öğütün hasan mezarcıya verdiği ayar
 bkz tam sıcak denizlere inecekken fakirlerin ayaklanması 
