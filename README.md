@@ -7,8 +7,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
-bkz gaga bulutun öpüştürdüğü gençlerin ekşide yazar olması
 bkz eşcinsellerin kafa sikmesi
+bkz gaga bulutun öpüştürdüğü gençlerin ekşide yazar olması
 bkz burak çivitin basur memesini jineloğa göstermesi
 bkz gaga bulut un noel isa zuhur etmedi demesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz elton john nun kraliçeden özür dilemesi
