@@ -3,7 +3,6 @@
 <!-- bkz kemalistlerin kendini komik sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
 <!-- bkz karadeniz patlamadan zamanında önlem almak --> 
-<!-- https://www.uludagsozluk.com/k/kanal-istanbul-%C5%9Fart-%C3%A7%C3%BCnk%C3%BC-karadeniz-patlayabilir/ -->
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ --
 <!-- https://www.uludagsozluk.com/k/kktc-nin-t%C3%BCrkiye-den-%C3%B6nce-yerli-otomobil-yapmas%C4%B1/ -->
