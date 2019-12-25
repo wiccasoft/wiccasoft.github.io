@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz norm önderin saopaya döşediği boru
+bkz norm önderin saopaya döşediği boruya sese etmeyen sagopacılar
 https://www.uludagsozluk.com/k/5-ki%C5%9Fiye-tek-ba%C5%9F%C4%B1na-d%C3%B6vemeyen-ezik/ bkz erkekimsi
 bkz ceza sogopa yı hoplattı mı sorunsalı
 bkz halo dayının seyfo dayıyı hoplattığı gerçeği
