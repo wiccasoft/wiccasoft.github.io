@@ -12,7 +12,6 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!-- bkz konstantinopolisi kaç saatte alırız sorunsalı -->
 <!-- bkz karadeniz patlamadan zamanında önlem almak --> 
 <!-- https://www.uludagsozluk.com/e/42611727/ bkz adamı cinnete getirmeyin -->
-<!-- bkz kemalistlerin kendini bi bok sanması-->
 
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
