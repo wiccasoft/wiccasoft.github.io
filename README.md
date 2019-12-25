@@ -7,7 +7,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
-bkz hüseyin nihal atsızaz entry giren ülkücü
+bkz delikanlıysan bana götten çakar mafya olursun diyen ülkücü
+bkz hüseyin nihal atsıza entry giren ülkücü
 bkz pasif gaylerin güldürmesi
 bkz erkeksen bana alfa olduğu göster diyen pasifi siklememek
 https://www.uludagsozluk.com/e/42613028/ bkz hayallerde yaşıyor bazı ibneler 
