@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz süper babadaki baba  vs bülent ortaçgil
 bkz bülent ortaçgil sütçüoğlu gillerle akrabab mı sorunsalı
 bkz volkan sütçüoğlu gay miydi sorunsalı
 bkz adolf hitler hittiyse hititler hitmedi mi sorunsalı
