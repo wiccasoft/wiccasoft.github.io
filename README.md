@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.youtube.com/watch?v=0iTts0sUzH4
 bkz delikanlıca vuruşulan erkeğin reisin yaveri çıkması
 bkz götüne attırılan erkeğin ankaralı çıkması
 bkz yerli arabayla la bize her yer ankara çalmak
