@@ -7,8 +7,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz recep tayyi pdogan vs adolf hitler dogan
-bkz adolf hitler vs recep tayyip dogan
+bkz recep tayyip dogan vs adolf hitler dogan
+bkz adolf hitler dogan vs recep tayyip dogan
 bkz tayyip olmasydı napardık sorunsalı
 bkz tayyip yönetmezse nasıl yönetilecez sorunsalı
 bzk tayyip le büyüyüp tayyipsiz n'olacak diye düşünmek
