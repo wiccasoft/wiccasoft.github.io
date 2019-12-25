@@ -8,6 +8,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!-- bkz zulüm 1453 başladı -->
 <!-- bkz mesihin zuhur eylemesi -->
 <!-- bkz ayasofyayı verin bu iş tatlıya bağlansın --> 
+<!-- bkz türklerin doğal dokuyu mahfetmesi -->
 <!-- bkz konstantinopolisi kaç saatte alırız sorunsalı -->
 <!-- bkz karadeniz patlamadan zamanında önlem almak --> 
 <!-- https://www.uludagsozluk.com/e/42611727/ bkz adamı cinnete getirmeyin -->
