@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.uludagsozluk.com/k/kavga-an%C4%B1nda-kibarla%C5%9Fan-dingil/&w=bg bkz götü kaşınan dingil
 bkz süper babadaki baba  vs bülent ortaçgil
 bkz bülent ortaçgil sütçüoğlu gillerle akrabab mı sorunsalı
 bkz volkan sütçüoğlu gay miydi sorunsalı
