@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
-<!-- https://eksisozluk.com/yerli-otomobilin-panjurunun-goruntusu--6295357?a=popular --<
+<!-- https://eksisozluk.com/trafikte-en-temkinli-yaklasilmasi-gereken-araclar--4684798?a=popular -->
+<!-- https://eksisozluk.com/yerli-otomobilin-panjurunun-goruntusu--6295357?a=popular -->
 <!-- bkz yerli otombille kanal istanbul da yardıra yadıra gitmek -->
 <!-- bkz mini etekle protestoya gelemezsin diyen prof -->
 <!-- https://eksisozluk.com/mini-etek-giyene-burasi-pavyon-mu-diyen-prof--6294944?a=popular -->
