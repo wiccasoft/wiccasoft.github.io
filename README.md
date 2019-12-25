@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz tayyip giderse kanal açılmayacak mı sorunsalı
 bkz tayyip kanal açmazsa kim açaçak sorunsalı
 bkz adolf hitlerin tayyipe saldırmaması sorunsalı bkz https://www.youtube.com/watch?v=FqDSaTKtQYA 
 bkz tayyip ölürse bizi kşim yönetçek sorunalıhttps://www.youtube.com/watch?v=FqDSaTKtQYA 
