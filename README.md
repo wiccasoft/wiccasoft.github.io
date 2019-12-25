@@ -1,7 +1,8 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
 
-<!-- bkz ekşicilerin otomobilleri savunma sebebi -->
+<!-- bkz otomoil de cartel araba yok çalış kanal istanbul da yardırmak -->
+<!-- https://www.uludagsozluk.com/k/yerli-otoyu-hangi-%C3%BClkeden-y%C3%BCr%C3%BCtt%C3%BCk-sorunsal%C4%B1/ -->
 <!-- https://eksisozluk.com/trafikte-en-temkinli-yaklasilmasi-gereken-araclar--4684798?a=popular -->
 <!-- https://eksisozluk.com/yerli-otomobilin-panjurunun-goruntusu--6295357?a=popular -->
 <!-- bkz yerli otombille kanal istanbul da yardıra yadıra gitmek -->
