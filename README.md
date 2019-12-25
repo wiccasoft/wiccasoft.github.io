@@ -2,6 +2,7 @@
 
 <!--bkz 25 aralık 2019 imparatorun real madrid le yarım kalan işimiz var paylaşımı -->
 <!--bkz 25 aralık 2019 en kısa gün olması :))) -->
+<!--bkz 25 aralık 2019 en uzun gece olması :))) -->
 
 [![Image](skynet/Screenshot_2019-12-24_21-48-10.png)]( https://www.youtube.com/watch?v=KG7Bs_BCC5w )
 
