@@ -1,6 +1,5 @@
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
-<!-- bkz kemalistlerin kendini komik sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
 <!-- bkz karadeniz patlamadan zamanında önlem almak --> 
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
