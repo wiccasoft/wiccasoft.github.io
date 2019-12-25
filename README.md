@@ -4,6 +4,7 @@
 <!-- https://www.uludagsozluk.com/e/42608505/ bkz paranın açamayacağı kanal yoktur -->
 
 
+
 [![Image](skynet/Screenshot_2019-12-25_05-26-42.png)]( https://www.youtube.com/watch?v=ehcVomMexkY)
 
 
