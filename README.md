@@ -11,7 +11,7 @@ bkz arda turan götü vs vedat mürüq götü
 bkz burak özçivit memesi vs kenan imirzalıoğlu memesi
 bkz gaga bulutun öpüştürdüğü gençlerin ekşide yazar olması
 bkz burak çivitin basur memesini jineloğa göstermesi
-bkz gaga bulut un noel isa zuhur etmedi demesi https://www.youtube.com/watch?v=r-Qp9CWaba4
+bkz gaga bulut un noel de isa zuhur etmedi demesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz elton john nun kraliçeden özür dilemesi
 bkz mesihin zuhur eylemesi https://www.youtube.com/watch?v=hacCw29knzI 
 bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
