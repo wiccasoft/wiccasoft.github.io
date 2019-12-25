@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
-<!--bkz imamoğlunu kızının kanal istanbul iyi oldu açıklaması -->
+<!--bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 
 [![Image](skynet/Screenshot_2019-12-25_05-48-09.png)]( https://www.youtube.com/watch?v=MZBRWqxmAjw)
 
