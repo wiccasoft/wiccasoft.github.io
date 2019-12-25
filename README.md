@@ -6,7 +6,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 [![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
 
 
-<!-- 
+<!--
 bkz sedat pekerin hapiste sadece ülkücülere vurdurdum açıklaması
 bkz homoseksüellerin kafa siktiği gerçeği
 bkz ükücülerin homoseksüel olduklarını çözmeleri
