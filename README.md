@@ -1,13 +1,13 @@
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
-
+<!-- bkz kemalistlerin kendini komik sanması -->
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
 <!-- bkz karadeniz patlamadan zamanında önlem almak --> 
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
+<!-- https://www.uludagsozluk.com/k/chanel-istanbul/ --
 <!-- https://www.uludagsozluk.com/k/kktc-nin-t%C3%BCrkiye-den-%C3%B6nce-yerli-otomobil-yapmas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/chanel-istanbul/ -->
 <!-- https://www.uludagsozluk.com/k/havva-ile-adem-t%C4%B1rnaklar%C4%B1n%C4%B1-nas%C4%B1l-keserdi/ -->
-<!-- bkz kemalistlerin kendini komik sanması -->
+
 
 [![Image](skynet/Screenshot_2019-12-25_08-08-58.png)]( https://www.theguardian.com/environment/2019/dec/25/2020-set-to-be-year-of-the-electric-car-say-industry-analysts )
 
