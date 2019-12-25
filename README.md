@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+bkz burak çivitin basur memesini jineloğa göstermesi
 bkz gaga bulut un noel isa zuhur etmedi demesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz elton john nun kraliçeden özür dilemesi
 bkz mesihin zuhur eylemesi https://www.youtube.com/watch?v=hacCw29knzI 
