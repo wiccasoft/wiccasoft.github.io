@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-24_21-19-40.png)]( https://www.youtube.com/watch?v=4F9DxYhqmKw&list=PLc3eJp_V3PgV1oU7sXOwqVjjl7_OiyykS )
 
+<!-- bkz mini eteke giyene burası mnin etek mi diyen teknik direktör -->
 <!-- bkz 25 aralık 2019 melonun attığı tarihi ince ayar tweet -->
 <!-- bkz 24 aralık 2019 fatih terimin attığı fatihi tweet -->
 <!-- bkz 25 aralık 2019 emre morun taylor swift e yürümesi -->
