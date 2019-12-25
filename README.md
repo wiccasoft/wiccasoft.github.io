@@ -4,6 +4,7 @@
 
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
+<!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
 <!-- bkz kanal istanbulun iki yakasına dev cami projesi -->
 <!-- bkz yerli otoya mini etekle binme diyen prof -->
 <!-- bkz yazın yerli otoyla kanal istanbuldan karı kaldırmak -->
