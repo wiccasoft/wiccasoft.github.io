@@ -7,7 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
-bkz gaga bulut un noel isa zuhur etmedi demesi
+bkz gaga bulut un noel isa zuhur etmedi demesi https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz elton john nun kraliçeden özür dilemesi
 bkz mesihin zuhur eylemesi https://www.youtube.com/watch?v=hacCw29knzI 
 bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
