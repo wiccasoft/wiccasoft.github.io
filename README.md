@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!-- 
+https://www.uludagsozluk.com/k/erkek-dans%C3%B6z/ bkz kalçaları ısırılası erkekler
 bkz arda turan götü vs vedat mürüq götü
 bkz burak özçivit memesi vs kenan imirzalıoğlu memesi
 bkz gaga bulutun öpüştürdüğü gençlerin ekşide yazar olması
