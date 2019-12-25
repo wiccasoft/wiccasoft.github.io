@@ -22,6 +22,7 @@ bkz avustralya patlamadan zamanında önlem almak
 https://thumbs.gfycat.com/PowerlessImmediateCrane-size_restricted.gif
 https://www.uludagsozluk.com/e/42611727/ bkz adamı cinnete getirmeyin 
 https://www.uludagsozluk.com/k/fakirler-neden-isyan-edip-silahlanm%C4%B1yor/ bkz adamı cinnete getirmeyin
+bkz tam zengin olacaken fakirlerin ayaklanması 
 -->
 
 
