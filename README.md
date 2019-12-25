@@ -1,14 +1,16 @@
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
 
-[![Image](skynet/Screenshot_2019-12-25_08-08-58.png)]( https://www.theguardian.com/environment/2019/dec/25/2020-set-to-be-year-of-the-electric-car-say-industry-analysts )
-
-[![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
-
 <!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
 <!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ -->
 <!-- https://www.uludagsozluk.com/k/havva-ile-adem-t%C4%B1rnaklar%C4%B1n%C4%B1-nas%C4%B1l-keserdi/ -->
 <!-- bkz kemalistlerin kendini komik sanması -->
+
+[![Image](skynet/Screenshot_2019-12-25_08-08-58.png)]( https://www.theguardian.com/environment/2019/dec/25/2020-set-to-be-year-of-the-electric-car-say-industry-analysts )
+
+[![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
+
+
 
 [![Image](skynet/Screenshot_2019-12-25_05-48-09.png)]( https://www.youtube.com/watch?v=MZBRWqxmAjw)
 
