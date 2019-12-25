@@ -1,14 +1,5 @@
 [![Image](skynet/Screenshot_2019-12-24_21-19-40.png)]( https://www.youtube.com/watch?v=4F9DxYhqmKw&list=PLc3eJp_V3PgV1oU7sXOwqVjjl7_OiyykS )
 
-<!-- bkz 25 aralık 2019 imapartorun var deplasman maçlarına mini etek serbesti getirmesi -->
-<!-- bkz 25 aralık 2019 imparatorun fenerlilere haddini bildirmesi -->
-<!-- bkz mini etek giyene burası mini etek mi diyen teknik direktör -->
-<!-- bkz 25 aralık 2019 melonun attığı tarihi ince ayar tweet -->
-<!-- bkz 24 aralık 2019 fatih terimin attığı fatihi tweet -->
-<!-- bkz 25 aralık 2019 emre morun taylor swift e yürümesi -->
-<!-- bkz mini etek giyen futbolcuya burası pavyonu mu diyen teknik direktör -->
-<!-- bkz gs nin var kayıtlarının çaıklanmak istenmemesi -->
-<!-- bkz recep tayyip erdoğanın g unit fotoğrafı -->
 
 [![Image](skynet/Screenshot_2019-12-24_21-48-10.png)]( https://www.youtube.com/watch?v=KG7Bs_BCC5w )
 
