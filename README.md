@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-25_01-57-12.png)](https://xhamster.com/videos/periscope-7587668 )
 
+<!-- bkz yazın yerli otombille kanal istanbul yardıra yadıra gitmek -->
 <!-- bkz mini etekle protestoya gelemezsin diyen prof -->
 <!-- https://eksisozluk.com/mini-etek-giyene-burasi-pavyon-mu-diyen-prof--6294944?a=popular -->
 <!-- bkz akpliler kanal istanbul direnişçilerini dövmelerinin sebebi -->
