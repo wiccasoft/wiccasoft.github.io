@@ -11,6 +11,7 @@ bkz antalyayı özlemek
 bkz noelin süper bişi olması
 bkz hagi vs alex vs falcao
 bkz ismet inönü vs kamal 
+bkz rte vs kanal
 bkz ekşicinin noelde mini etek giyme diyen prof e verdiği ayar
 bkz bülent ersoyun noel için pipisini kaldırması
 bkz cem garipoğlunun ekşicileri deli eden noel paylaşımı
