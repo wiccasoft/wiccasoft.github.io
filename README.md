@@ -2,7 +2,7 @@
 
 
 <!-- bkz ekremin imamın oğlu olduğu söylentileri -->
-<!-- bkz imamoğlu geri vitesi -->
+<!-- bkz 25 aralık 2019 imamoğlu geri vitesi -->
 <!-- bkz otomoil de cartel araba yok çalış kanal istanbul da yardırmak -->
 <!-- https://www.uludagsozluk.com/k/yerli-otoyu-hangi-%C3%BClkeden-y%C3%BCr%C3%BCtt%C3%BCk-sorunsal%C4%B1/ -->
 <!-- https://eksisozluk.com/trafikte-en-temkinli-yaklasilmasi-gereken-araclar--4684798?a=popular -->
