@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.uludagsozluk.com/k/volkan-s%C3%BCt%C3%A7%C3%BCo%C4%9Flu/&w=bg bkz pek sevilen fenerli
 https://www.uludagsozluk.com/k/zeki-cevik-ve-ahlakli/&w=bg bkz hangısı
 https://www.uludagsozluk.com/k/kavga-an%C4%B1nda-kibarla%C5%9Fan-dingil/&w=bg bkz götü kaşınan dingil
 bkz süper babadaki baba  vs bülent ortaçgil
