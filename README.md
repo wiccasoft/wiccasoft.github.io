@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz adolf hitler hitit li olabilir mi sorunsalı
 bkz adolf hitler hit ti mi sorunsalı
 bkz adolf hitler niye amerikaya saldırmadı sorunsalını düşünmeyen gençlik
 bkz adold hitler niye ingiltireye saldırmadı sorunsalı
