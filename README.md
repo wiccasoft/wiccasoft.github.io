@@ -3,7 +3,7 @@
 <!--bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 <!-- https://www.uludagsozluk.com/k/chanel-istanbul/ -->
 <!-- https://www.uludagsozluk.com/k/havva-ile-adem-t%C4%B1rnaklar%C4%B1n%C4%B1-nas%C4%B1l-keserdi/ -->
-<!-- bk< kemalistlerin kendinin komik sanması -->
+<!-- bkz kemalistlerin kendini komik sanması -->
 
 [![Image](skynet/Screenshot_2019-12-25_05-48-09.png)]( https://www.youtube.com/watch?v=MZBRWqxmAjw)
 
