@@ -12,6 +12,7 @@ bkz noelin süper bişi olması
 bkz hagi vs alex vs falcao
 bkz ismet inönü vs kamal 
 bkz rte vs kanal
+bkz recep tayyip erdoğanın kanalı yardıracam demesi
 bkz bülent ersoy vs burcu esmersoy
 bkz sedat pekerin tayyipe dokunan karşında beni bulur demesi
 bkz aşık olduğun erkeğin ofsaytı bilmemesi hatta futbol bile izlememesi
