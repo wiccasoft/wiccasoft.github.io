@@ -10,6 +10,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 bkz antalyayı özlemek
 bkz tam sıcak denizlere inecekken fakirlerin ayaklanması 
 bkz ruhban sınıfının sanki biraz şey olması
+bkz hasan mezarcının mesih suretinde zühur eylemesi
 https://www.uludagsozluk.com/k/scooter-a-binip-kiliseyi-terk-eden-rahip/ bkz gigi d'agostino
 https://www.uludagsozluk.com/k/testislerine-okyanus-suyu-de%C4%9Fmemi%C5%9F-erkek/ bkz testisleri yalanası erkek
 https://www.uludagsozluk.com/k/erkek-dans%C3%B6z/ bkz kalçaları ısırılası erkekler
