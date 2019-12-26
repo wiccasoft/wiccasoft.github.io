@@ -20,6 +20,7 @@ bkz saddamın oğlunun karıları oynatması
 bkz ali koçun gassraryalılara vedatı salması
 bkz fatih terimin real madridle yarım kalan işimiz var paylaşımı
 bkz emre morun ramosa yürümesi
+bkz ramosun salahı siklememesi
 bkz mohammed salahın paylaştığı ramoslu aile fotoğrafı 
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
 bkz mesihin mesihim ama olmayabilirim de diyecek olması 
