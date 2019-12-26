@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz vedat mürüqwnün antrenmanda göt kaslarını gevşetmesi
 bkz fatih terimin rademla falcao fgarciaı eliyle beslemesi
 bkz ismet inönün erdal inönü kavgası
 bkz fatih terimin real madridle yarım kalan işimiz var paylaşımı
