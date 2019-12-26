@@ -13,6 +13,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!--
 bkz emre morun ramosa yürümesi
 bkz ya hasan mzercaı mesihse sorunsalı
+bkz messinin mesih değilim demesi
 bkz hüseyin nihal atsızın selçuk inanı övmesi
 bkz ekrem imamoğlanın babasının ramosçu olması
 bkz kurtlar vadisi izleyerek futbolculara 31 çeken ergenlerin güldürmesi
