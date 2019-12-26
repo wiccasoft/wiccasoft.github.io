@@ -11,8 +11,9 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz 25 aralıkta doğmayıp mesihim diye dolana tipler
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
-bkz mesihin mesihim ama olmayabilirm de diyecek olması https://www.uludagsozluk.com/e/42615077/
+https://www.uludagsozluk.com/e/42615077/ bkz mesihin mesihim ama olmayabilirim de diyecek olması 
 bkz 25 aralık 2019 mesih in zühur eylemesi 
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
