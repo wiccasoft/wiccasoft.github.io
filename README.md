@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
-bkz davi beckhama 31 çekerken babanın odaya girmesi
+bkz david beckhama 31 çekerken babanın odaya girmesi
 https://www.uludagsozluk.com/k/david-beckham/&w=bg bkz ultra yakışıklı futbolcular
 https://www.uludagsozluk.com/k/neymar-da-silva-santos-junior/&w=bg bkz santos
 bkz oğzu sasi nin emro mor teknik olarak kötü demesi
