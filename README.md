@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismetin anafartalar kongresinde yaptığı konuşma
 bkz ismet inönünün kendi remsmini paraya koyması
 bkz erkek diyince akla gelen ilk erkek
 bkz kız ismet diyince akla gelen ilk erkek
