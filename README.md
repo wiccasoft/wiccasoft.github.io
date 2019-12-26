@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz melonun pauylaştığı fenerlilerin götüne gömdükmü paylaşımı
 bkz gassarayaın formaları almıyosanız kaldıralım demesi
 bkz gasssarayın paylştığı fenelilerin anaısın hoplatacaz paylaşımı
 bkz fatih terimin fenerlileri sikertecez açıklaması https://www.youtube.com/watch?v=Zw_WUGrgrQ8
