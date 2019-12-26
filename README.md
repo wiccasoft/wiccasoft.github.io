@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz saddamın oğlunun karıları oynatması
 bkz ali koçun gassraryalılara vedatı salması
 bkz fatih terimin paylaştığı ananız soktuk mu fener paylaşımı
 bkz abdulrahim albayrakın paylaştığı drogba ananızı sikecek paylaşım
