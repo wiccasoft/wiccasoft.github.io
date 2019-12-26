@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.youtube.com/watch?v=GcuH0cfYZIw bka inönünnü kıskançılığ
 bkz emre morun ramosa yürümesi
 bkz ismet inönü kamalın yaveriydi diyebilmek
 bkz celala şeninin ismet inönü hakkındaki yorumu 
