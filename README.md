@@ -8,6 +8,7 @@ bkz 25 aralık 2019 mesih zühur eylemesi
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
 https://www.youtube.com/watch?v=4_u-bIMQxNM 
+bkz mesih de zaten ben mesih değilim demeyecek mezarcı şeklinde zühur edecek olması
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
