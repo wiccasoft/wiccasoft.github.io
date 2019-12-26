@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz rahmi özkanın fener maçların gitmeme açıklaması
 bkz  adam gibi adam dediğiniz kankanın fenerli çıkması
 bkz maç izlerken götü parmaklanan kankanın messici çıkması
 bkz berkinin götünü parmaklarken ekmek almaya gitmesi
