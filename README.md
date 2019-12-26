@@ -15,82 +15,14 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 [![Image](skynet/Screenshot_2019-12-26_04-34-14.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 
-<!--
-bkz kaka yı geyseye alıp akçomarları çıldırtmak
-bkz üj mülyün yürü daha verip kaka yı geyseye alsak mı sorunsalı 
-bkz akp çocujları sayfasının geri vites yapması
-bkz akp çocuklarına facebuk sayfasına nispet olsun diye yersiz araba önünde foto atmak
-bkz fener ol kampanyasında rekor forma satılmasını çekemeyen gsliler
-bkz mahmut özalın macun firarda masterchefe katılması
-bkz ahmet özalın babamı öldürenler keyif çatıyo açıklaması
-bkz turgut özalın semra hanım bi kaset koy  da şenlenelim demesi 
-bkz ismet inönünün turgut özala götveren çeneli dediği iddası
-bkz ozan tufanın paylaştığı kedi fotosu
-bkz ramdel falcao garcia nın ozan tufana götün yiyosa ali samiyene gel demesi
-https://www.youtube.com/watch?v=2FxpNCvBV_s bkz Chicks Dig the Car
-bkz tayyipin yeni tomobile tayyip diyelim önerisi
-bkz ışıkhan altuğ şekercigil in yeni otomobile altuğ diyelim önerisi
-bkz arda turan yeni arabaya turan diyelim önerisi  https://www.youtube.com/watch?v=jdjsGMl-yWI
-bkz tayyipin attığı aşırtma gol https://www.youtube.com/watch?v=uwSBu9fHo2w
-bkz saddamın oğlunun karıları oynatması
-bkz ali koçun gassraryalılara vedatı salması
-bkz fatih terimin real madridle yarım kalan işimiz var paylaşımı
-bkz emre morun ramosa yürümesi
-bkz ramosun salahı siklememesi
-bkz mohammed salahın paylaştığı ramoslu aile fotoğrafı 
-https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
-bkz mesihin mesihim ama olmayabilirim de diyecek olması 
-bkz 25 aralık 2019 mesih in zühur eylemesi 
-https://www.youtube.com/watch?v=R-q9go-xi1M
-bkz cubbelinin sahte mesih olması
-https://www.youtube.com/watch?v=4_u-bIMQxNM 
-bkz mesihin de zaten ben mesih değilim demeyecek olması
-bkz mesihin yeni ayın xmas gecesine denk geldiği gün ineceği hadisi 
-bkz mesihin gök bilimlerine hakim olacağı hadisi
-bkz deccalin mesihin indiğini onaylaması https://www.youtube.com/watch?v=hYPEarIYHEU
-bkz gavs hazretlerinin gavs hazretleri değilim demesi
-bkz dabbet-ül arzın mesih in gelişini kutlaması
-bkz mesihin dinler kavgasına son vermesi https://www.youtube.com/watch?v=nYOLHwdhDhQ
-bkz mesihin kanal istanbulla birlikte müjdelenmesi
-https://www.uludagsozluk.com/k/sahameless-frank-gallagher-vs-zeynep-erg%C3%BCl/ lol
-https://www.uludagsozluk.com/k/star-trekteki-insanlar%C4%B1n-tuzunu-s%C3%B6m%C3%BCren-uzayl%C4%B1/ lol
-https://www.uludagsozluk.com/k/murat-y%C4%B1lmazy%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz adam haklı beyler
-https://www.uludagsozluk.com/k/fatih-bulut/&w=bg bkz bulut teknolojisinin mimari
-bkz zeynep bastık vs melek subaşı
-https://www.uludagsozluk.com/e/42612904/
--->
-
-
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
-
-<!--
-bkz 31 aralık'ı bekleyen fakirler
-bkz noel yerine yılbaşı kutlayan fakirler in güldürmesi
-bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
-bkz konstantinopolisi verin bu iş tatlıya bağlansın https://www.youtube.com/watch?v=_OXskGao8Nw 
-bkz konstantinopolisi kaç saatte alırız sorunsalı
-bkz avustralya patlamadan zamanında önlem almak 
-https://thumbs.gfycat.com/PowerlessImmediateCrane-size_restricted.gif
-https://www.uludagsozluk.com/e/42611727/ bkz adamı cinnete getirmeyin 
-https://www.uludagsozluk.com/k/fakirler-neden-isyan-edip-silahlanm%C4%B1yor/ bkz adamı cinnete getirmeyin
-bkz tam zengin olacakken fakirlerin ayaklanması 
--->
 
 [![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
 
 
 
 [![Image](skynet/Screenshot_2019-12-25_11-05-16.png)]( https://www.youtube.com/watch?v=TautiJV2j9Q )
-
-
-<!-- bkz hafriyatçı tayyipin kendini bld.bşk. sanması -->
-<!-- bkz istanbulun üstüne bir kat daha çıkma projesi -->
-<!-- https://www.uludagsozluk.com/k/chanel-istanbul/ --
-<!-- https://www.uludagsozluk.com/k/kktc-nin-t%C3%BCrkiye-den-%C3%B6nce-yerli-otomobil-yapmas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/havva-ile-adem-t%C4%B1rnaklar%C4%B1n%C4%B1-nas%C4%B1l-keserdi/ -->
-<!-- bkz ali koçun kanal istanbul kenarına stad yapalım teklifi -->
-<!-- bkz imamoğlunu kızının kanal istanbul hadislerle müjdelendi açıklaması -->
 
 
 [![Image](skynet/Screenshot_2019-12-25_08-08-58.png)]( https://www.theguardian.com/environment/2019/dec/25/2020-set-to-be-year-of-the-electric-car-say-industry-analysts )
@@ -101,9 +33,6 @@ bkz tam zengin olacakken fakirlerin ayaklanması
 
 [![Image](skynet/Screenshot_2019-12-25_05-48-09.png)]( https://www.youtube.com/watch?v=MZBRWqxmAjw)
 
-<!-- https://www.uludagsozluk.com/e/42608505/ bkz paranın açamayacağı kanal yoktur -->
-
-
 
 [![Image](skynet/Screenshot_2019-12-25_05-26-42.png)]( https://www.youtube.com/watch?v=ehcVomMexkY)
 
@@ -111,16 +40,6 @@ bkz tam zengin olacakken fakirlerin ayaklanması
 [![Image](skynet/Screenshot_2019-12-24_21-19-40.png)]( https://www.youtube.com/watch?v=4F9DxYhqmKw&list=PLc3eJp_V3PgV1oU7sXOwqVjjl7_OiyykS )
 
 
-<!--bkz 25 aralık 2019 imamoğlunun rant için kanala köfteci açması  -->
-<!--bkz 25 aralık 2019 karadeniz patlamasın analar ağlamasın kampanyası -->
-<!--bkz 25 aralık 2019 fetö kanala kum dökmesin diye kanala bal porsuğu atmam -->
-<!--bkz 25 aralık 2019 gamze özçelikin adam yerine konmak için sakal bırakması  -->
-<!--bkz 25 aralık 2019 ali koçun ingiliz bayrağı şeklinde kanallar projesi önerisi -->
-<!--bkz 25 aralık 2019 fatih tezcan kanal sakarya yalova önerisi -->
-<!--bkz 25 aralık 2019 imparatorun real madrid le yarım kalan işimiz var paylaşımı -->
-<!--bkz 25 aralık 2019 en kısa gün olması :))) -->
-<!--bkz 25 aralık 2019 en uzun gece olması :))) -->
-<!-- https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCmanlar%C4%B1n-do%C4%9Fal-se%C3%A7ilimle-elenecek-olmas%C4%B1/&w=gd -->
 
 [![Image](skynet/Screenshot_2019-12-24_21-48-10.png)]( https://www.youtube.com/watch?v=KG7Bs_BCC5w )
 
