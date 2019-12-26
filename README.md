@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz 25 aralık 2019 ramosun hala dünyanın en iyi defansı olması
 bkz norveç prensesinin eski eşi vs hasan mezarcı
 bkz murat yılmazyıldırım kim diye aratmaya üşenmek
 bkz ramosun mohammed salahla selçuk inanı siklememesi
