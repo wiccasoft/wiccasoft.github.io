@@ -14,8 +14,8 @@ bkz mesihin ben mesihim demeyecem diyeceğim hadisi sorunsalı
 
 
 <!--
-bkz noel yerine yılbaşı kutlayan fakirler in güldürmesi
 bkz 31 aralık'ı bekleyen fakirler
+bkz noel yerine yılbaşı kutlayan fakirler in güldürmesi
 bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
 bkz konstantinopolisi verin bu iş tatlıya bağlansın https://www.youtube.com/watch?v=_OXskGao8Nw 
 bkz konstantinopolisi kaç saatte alırız sorunsalı
