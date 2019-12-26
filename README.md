@@ -11,7 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz yen iarabanın üstünde zıplıyoruz kampanyası
+bkz yeni arabaya mahmut diyelim kampnayası
 bkz yeni arabaya amblem önerileri
 bkz yeni arabayla kanal istanbulda yardırmak
 bkz erdoğan ölürse napacuk sorunsalı
