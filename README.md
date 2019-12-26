@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismetle kakatürkün hayallerde yaşaması
 bkz ismet inönünü time dergisine kapak olması
 bkz ibnelerin hayal dünyası
 bkz ibnelerin ne kafası yaşaması sorunsalı
