@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1-vuran-polisb/
 bkz tayyiş erdoğanın ekşicilere ayrı bi ilgi göstermesi
 bkz tayyip erdoğanın gsliyi ziyareti https://www.youtube.com/watch?v=4Fn84I34azs
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-bizi-kim-y%C3%B6netecekt/
