@@ -11,9 +11,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz 25 aralık 2019 mesih in doğumu https://tr.sputniknews.com/turkiye/201912261040916381-kendisini-mesih-ilan-eden-mezarci-noelde-dogum-gunu-kutladi/
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
-bkz hasan mezarcının mesih değilim ama mesih de mesih değilim diyecek açıklaması
+bkz mesihin mesih değilim diyecek olması
 bkz 25 aralık 2019 mesih in zühur eylemesi 
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
