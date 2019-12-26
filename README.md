@@ -11,7 +11,9 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-https://www.youtube.com/watch?v=HWX_vTS-cdM bkz mohammed salahın paylaştığı aile fotoğrafı 
+bkz mohammed salahın ramos beni itti diye dünya şampiyonu olmadık açıklaması
+https://www.youtube.com/watch?v=HWX_vTS-cdM 
+bkz mohammed salahın paylaştığı aile fotoğrafı 
 bkz 25 aralıkta doğmayıp mesihim diye dolana tipler
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
 https://www.uludagsozluk.com/e/42615077/ bkz mesihin mesihim ama olmayabilirim de diyecek olması 
