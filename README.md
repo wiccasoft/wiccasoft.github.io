@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismet inönü diyine akla ilk gelenler
 bkz erkeksiz kalsanız ilk kimi emciklerdiniz
 bkz mercedes erkeği vs bmw erkeği
 bkz ismet inönün vs kasım kara bekir
