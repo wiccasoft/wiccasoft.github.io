@@ -26,6 +26,7 @@ bkz mesihin kanal istanbulla birlikte müjdelenmesi
 https://www.uludagsozluk.com/k/sahameless-frank-gallagher-vs-zeynep-erg%C3%BCl/ lol
 https://www.uludagsozluk.com/k/star-trekteki-insanlar%C4%B1n-tuzunu-s%C3%B6m%C3%BCren-uzayl%C4%B1/ lol
 https://www.uludagsozluk.com/k/murat-y%C4%B1lmazy%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz adam haklı beyler
+https://www.uludagsozluk.com/k/fatih-bulut/&w=bg bkz bulut teknolojisinin mimari
 -->
 
 
