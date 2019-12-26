@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismet inönü gay mi sorunsalıydı
 bkz hamile eşine ev işlerinde yardım eden kocah
 bkz berkin elvana götveren diyecek kadar kana kusamak
 bkz erdal erenin siken erkeğin galasaraylıyım demesi
