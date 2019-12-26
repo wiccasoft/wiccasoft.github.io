@@ -1,3 +1,6 @@
+
+[![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?time_continue=15&v=YFXHfEqMcis&feature=emb_title )
+
 <!-- 
 https://www.timeanddate.com/astronomy/usa/new-york
 -->
