@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
-bkz 190 cm boyunsa 19 cm pipili erkek
+bkz 190 cm boyunsa 19 cm pipili erkekin berkin elvanı siken erkek çıkması
 bkz itiraz edenin endirekt kafir olacağı kanal procesi
 bkz erogan ve bahçelinin millet bahçelirini kaptıması
 bkz berkin elvanı vuran polisin messi ye tekme atan defans çıkması
