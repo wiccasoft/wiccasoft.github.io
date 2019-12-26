@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz yerli otomobile amblemle slogan önerileri https://www.youtube.com/watch?v=XPLDKA8MPLc 
 bkz arda turan götü vs vedat müqü götü
 bkz yerli arabay la bize her yer angara sloganı önerisi
 bkz yerli arabaya jingle önerileri https://www.youtube.com/watch?v=XPLDKA8MPLc 
