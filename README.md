@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz yeni arabayla kanal istanbulda yardırmak
 bkz erdoğan ölürse napacuk sorunsalı
 bkz berkin elvanı vuran polisin erdoğanın teyze oğlu çıkması
 https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1-vuran-polisb/
