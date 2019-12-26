@@ -13,7 +13,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!--
 bkz emre morun ramosa yürümesi
 bkz norveç prensesinin eski eşi vs hasan mezarcı
-bkz murat yılmazyıldırım kim diye aramaya üşenmek
+bkz murat yılmazyıldırım kim diye aratmaya üşenmek
 bkz ramosun mohammed salahla selçuk inanı siklememesi
 bkz selçuk inanın ramosla bitmemiş işimiz var tweeti
 bkz mohammed salahın ramos beni itti diye dünya şampiyonu olmadık açıklaması
