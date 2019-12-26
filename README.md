@@ -9,7 +9,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
 <!--
-https://www.youtube.com/watch?v=4_u-bIMQxNM sahte mesih
+https://www.youtube.com/watch?v=4_u-bIMQxNM 
 bkz mesihin mezarcı şeklinde zühur eylmesi
 bkz mesihin de zaten mesih değilim demesi hilesi
 bkz ilber ortaçgil vs celal şengil
