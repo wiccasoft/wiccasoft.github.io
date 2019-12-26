@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz seni ismetle aldattım diyen karının entry kasması
 bkz hamile eşi ismete entry girerkekn yardım eden kocah
 bkz ismetten hamile kalmak
 bkz ismetin islami teöröre geçit vermesi
