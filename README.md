@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz mercedes erkeği vs bmw erkeği
 bkz karıcıhı entry girerkene entry favlayan kocah
 bkz ismetin is met olması
 bkz ismet inönünün ismetin önünde olması
