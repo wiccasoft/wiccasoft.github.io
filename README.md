@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz selçuk inanın ramos oalyında mohammed salahı savunması
 bkz mohammed salahın ramos beni itti diye dünya şampiyonu olmadık açıklaması
 https://www.youtube.com/watch?v=HWX_vTS-cdM 
 bkz mohammed salahın paylaştığı aile fotoğrafı 
