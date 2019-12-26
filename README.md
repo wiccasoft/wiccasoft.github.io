@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz en çok attırdığınızı erkeğin aile fotosu paylaşması
 bkz deniz gezmişin son fotoğrafına attırmak
 bkz ya hasan mzercaı mesihse sorunsalı
 bkz messinin mesih değilim demesi
