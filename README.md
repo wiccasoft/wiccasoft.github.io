@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz sarayın ramosa onay vermesi
 bkz abdulrrahim albayrakın uj mulyon yurü daha verelim ramsou alalım açıklamsaı
 bkz vedat mürüqwnün antrenmanda göt kaslarını gevşetmesi
 bkz fatih terimin rademla falcao fgarciaı eliyle beslemesi
