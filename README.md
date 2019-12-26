@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz fener ol kampanyasında rekor forma satılmasını çekemeyen gsliler
 bkz mahmut özalın macun firarda master chefe katılması
 bkz ahmet özalın babamı öldürenler keyif çatıyo açıklaması
 bkz turgut özalın semra hanım bi kaset koy  da şenlenelim demesi 
