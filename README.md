@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-bizi-kim-y%C3%B6netecekt/
 bkz tayyipin attığı aşırtma gol https://www.youtube.com/watch?v=uwSBu9fHo2w
 bkz tyayyipin oğlunun rizesporu tutuması
 bkz saddamın oğlunun karıları oynatması
