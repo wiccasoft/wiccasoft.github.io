@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz itiraz edenin kafir ilan edildiği kafir kanal projesi
 bkz 190 cm boyunsa 19 cm pipili erkekin berkin elvanı siken erkek çıkması
 bkz itiraz edenin endirekt kafir olacağı kanal procesi
 bkz erogan ve bahçelinin millet bahçelirini kaptıması
