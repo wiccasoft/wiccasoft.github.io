@@ -3,7 +3,10 @@ https://en.wikipedia.org/wiki/New_moon
 https://www.timeanddate.com/astronomy/moon/new-moon.html
 -->
 
-<!--bkz 25 aralık 2019 mesih zühur eylemesi -->
+<!--
+bkz 25 aralık 2019 mesih zühur eylemesi 
+https://www.youtube.com/watch?v=R-q9go-xi1M
+-->
 
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
