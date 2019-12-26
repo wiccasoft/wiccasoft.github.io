@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=4_u-bIMQxNM
 bkz mesihin de zaten ben mesih değilim demeyecek olması
 bkz mesihin yeni ayın xmas gecesine denk geldiği gün ineceği hadisi
 bkz mesihin gök bilimlerine hakim olacağı hadisi
-bkz deccalin mesihin kitap gibi indiğini onaylaması https://www.youtube.com/watch?v=hYPEarIYHEU
+bkz deccalin mesihin indiğini onaylaması https://www.youtube.com/watch?v=hYPEarIYHEU
 bkz gavs hazretlerinin gavs hazretleri değilim demesi
 bkz dabbet-ül arzın mesih in gelişini kutlaması
 bkz mesihin dinler kavgasına son vermesi https://www.youtube.com/watch?v=nYOLHwdhDhQ
