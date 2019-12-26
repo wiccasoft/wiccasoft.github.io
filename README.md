@@ -1,3 +1,8 @@
+
+
+[![Image](skynet/Screenshot_2019-12-26_03-17-53.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
+
+
 <!-- 
 https://en.wikipedia.org/wiki/New_moon
 https://www.timeanddate.com/astronomy/moon/new-moon.html
@@ -17,8 +22,6 @@ bkz dabbet-ül arzın mesih in gelişini kutlaması
 bkz mesihin dinler kavgasına son vermesi https://www.youtube.com/watch?v=nYOLHwdhDhQ
 bkz mesihin kanal istanbulla birlikte müjdelenmesi
 -->
-
-[![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
