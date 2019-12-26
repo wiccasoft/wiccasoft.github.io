@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz mahmut özalın macun firardaya master chefe katılması
 bkz ahmet özalın babamı öldürenler keyif çatıyo açıklaması
 bkz turgut özalın semra hanım bi kaset koy  da şenlenelim demesi 
 bkz ismet inönünün turgut özala götveren çeneli dediği iddası
