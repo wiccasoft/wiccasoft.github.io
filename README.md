@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
-bkz mesihin mesih değilim diyecek olması
+bkz mesihin mesihim ama olmayabilirm de diyecek olması
 bkz 25 aralık 2019 mesih in zühur eylemesi 
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
