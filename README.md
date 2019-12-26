@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz deniz gezmişi asan erkeğin fenerli çıkması
 bkz berkin elvana tekme atan polisin galsaraylı çıkması
 bkz selçuk inanın eğlenilecek erkeğim açıklması
 bkz melihin attığı yerli arabama göklerde tweeti
