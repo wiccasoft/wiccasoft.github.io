@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz topkeke yedikten sonra facebuka tek yol devrim yazan ergen
 bkz berkinin intikamın alacam olm diyen ergen topkeke getirip sakinleştiren annesi
 bkz berkin elvana teörrik diyecek kada kana susamak
 bkz selçuk inanın mohammed salaha aile fotosuna girme çabası
