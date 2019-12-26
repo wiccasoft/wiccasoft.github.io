@@ -19,54 +19,8 @@ bkz saddamın oğlunun karıları oynatması
 bkz ali koçun gassraryalılara vedatı salması
 bkz fatih terimin real madridle yarım kalan işimiz var paylaşımı
 bkz emre morun ramosa yürümesi
-bkz ismet inönü kamalın yaveriydi diyebilmek
-bkz celala şeninin ismet inönü hakkındaki yorumu 
-bkz kanal istanbula berkin lahmacun açıp parayı vurmak
-bkz berkin elvanın babasının yahudi cesaret madalyası alması
-bkz mohamed salahın paylaştığı foto vs selçuk inanın paylaştığı foto
-bkz annesinin aldığı topkekini yedikten sonra facebuka tek yol devrim yazan ergen
-bkz berkinin intikamın alacam olm diyen ergen topkeke getirip sakinleştiren annesi
-bkz berkin elvana teörrik diyecek kada kana susamak
-bkz selçuk inanın mohammed salaha aile fotosuna girme çabası
-bkz mohomed salahın facebuka ailesiyle attığı foto
-acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz erdonun facebuktan ezanların susturmayacanız açıklaması
-bkz erdonun kanal projesine facebuktan itiraz ertmek serbest açıklaması
-bkz 190 cm boyunsa 19 cm pipili erkekin berkin elvanı siken erkek çıkması
-bkz itiraz edenin endirekt kafir olacağı kanal procesi
-bkz erogan ve bahçelinin millet bahçelirini kaptıması
-bkz berkin elvanı vuran polisin messi ye tekme atan defans çıkması
-bkz deniz gezmiş fotosuyla uyuyup sağcılara savaş açmak
-bkz berkin elvana götten vuran polisin messici çıkması
-bkz seyfo dayı pala dayıyı hoplattımı sorunsalı
-bkz rahmi özkanın fener maçların gitmeme açıklaması
-bkz  adam gibi adam dediğiniz kankanın fenerli çıkması
-bkz maç izlerken götü parmaklanan kankanın messici çıkması
-bkz berkinin götünü parmaklarken ekmek almaya gitmesi
-bkz berikin elvanı vuran polisi messici olması
-bkz david beckhama 31 çekerken babanın odaya girmesi
-https://www.uludagsozluk.com/k/david-beckham/&w=bg bkz ultra yakışıklı futbolcular
-https://www.uludagsozluk.com/k/neymar-da-silva-santos-junior/&w=bg bkz santos
-bkz oğzu sasi nin emro mor teknik olarak kötü demesi
-bkz adam gibi adamdır dediğiniz erkeğin rasmosçu messi düşmanı olması 
-bkz askerde göt parmaklatılan devrenni tayyipçi gayseraylı olması
-bkz askerde götünü parmakladttığıınız devrenin ramosçu çıkması
-bkz en çok attırdığınızı müslüm  forvetin aile fotosu paylaşması
-bkz deniz gezmişin son fotoğrafına attırmak
-bkz ya hasan mzercaı mesihse sorunsalı
-bkz messinin mesih değilim demesi
-bkz hüseyin nihal atsızın selçuk inanı övmesi
-bkz ekrem imamoğlanın babasının ramosçu olması
-bkz kurtlar vadisi izleyerek futbolculara 31 çeken ergenlerin güldürmesi
-bkz 25 aralık 2019 ramosun hala dünyanın en iyi defansı olması
-bkz norveç prensesinin eski eşi vs hasan mezarcı
-bkz murat yılmazyıldırım kim diye aratmaya üşenmek
-bkz ramosun mohammed salahla selçuk inanı siklememesi
-bkz selçuk inanın ramosla bitmemiş işimiz var tweeti
-bkz mohammed salahın ramos beni itti diye dünya şampiyonu olmadık açıklaması
-https://www.youtube.com/watch?v=HWX_vTS-cdM 
 bkz mohammed salahın paylaştığı aile fotoğrafı 
-bkz 25 aralıkta doğmayıp mesihim diye dolana tipler
+bkz 25 aralıkta doğmayıp mesihim diye dolanan tipler
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
 https://www.uludagsozluk.com/e/42615077/ bkz mesihin mesihim ama olmayabilirim de diyecek olması 
 bkz 25 aralık 2019 mesih in zühur eylemesi 
