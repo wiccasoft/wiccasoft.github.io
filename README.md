@@ -4,6 +4,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 -->
 
 <!--
+bkz mesihin yeni ayın christmas gecesine denk geldiği gün ineceği hadisi
 bkz 25 aralık 2019 mesih in zühur eylemesi 
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
