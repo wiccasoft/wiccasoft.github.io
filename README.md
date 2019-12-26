@@ -11,7 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz kocişkosu çalışırken entry giren karı
+bkz kocişkosu çalışırken entry giren karıh
 bkz ismet innnü deyince akla ilk ne geliy
 bkz hamile eşine ev işlerinde yardım eden kocah gib kocah
 bkz ismetin anafartalar daki karizmatik fotosu
