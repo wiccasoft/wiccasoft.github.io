@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
 bkz hasan mezarcının mesih değilim ama mesih de mesih değilim diyecek açıklaması
 bkz 25 aralık 2019 mesih in zühur eylemesi 
 https://www.youtube.com/watch?v=R-q9go-xi1M
