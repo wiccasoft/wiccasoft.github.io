@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
-bkz berkin elvanı vuran polsini messi ye tekme atan defans çıkması
+bkz berkin elvanı vuran polisin messi ye tekme atan defans çıkması
 bkz deniz gezmiş fotosuyla uyuyup sağcılara savaş açmak
 bkz berkin elvana götten vuran polisin messici çıkması
 bkz seyfo dayı pala dayıyı hoplattımı sorunsalı
