@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz maç izlerken götü parmaklanan kankanın messici çıkması
 bkz  berkni elvanın götünü parmaklarken ekmek almaya gitmesi
 bkz berikin elvanı vuran polisi messici olması
 bkz david beckhama 31 çekerken babanın odaya girmesi
