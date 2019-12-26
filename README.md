@@ -11,6 +11,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz hamile eşine ev işlerinde yardım eden kocah gib kocah
+bkz ismetin anafartalar daki karizmatik fotosu
 bkz ismetin innünün kazım karabekirler olan fotosu
 bkz ismetin anafartalar kongresinde yaptığı konuşma
 bkz ismet inönünün kendi remsmini paraya koyması
