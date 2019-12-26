@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
-bkz seyfo dayı pala dayı yı sorunsalı
+bkz seyfo dayı pala dayıyı hoplattımı sorunsalı
 bkz rahmi özkanın fener maçların gitmeme açıklaması
 bkz  adam gibi adam dediğiniz kankanın fenerli çıkması
 bkz maç izlerken götü parmaklanan kankanın messici çıkması
