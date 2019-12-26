@@ -1,6 +1,6 @@
 
 
-[![Image](skynet/Screenshot_2019-12-26_03-17-53.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
+[![Image](skynet/Screenshot_2019-12-26_04-34-14.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 
 <!-- 
