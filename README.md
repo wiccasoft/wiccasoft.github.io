@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismet innnü deyince akla ilk ne geliy
 bkz hamile eşine ev işlerinde yardım eden kocah gib kocah
 bkz ismetin anafartalar daki karizmatik fotosu
 bkz ismetin innünün kazım karabekirler olan fotosu
