@@ -14,6 +14,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 bkz ismete götten veren karıyı boşamak
 bkz ya ismet ya ben diyen karıya siktir git entry gir demek
 bkz ismete götten veren karının mahmuta da vermesi
+bkz kocişkosu çalışırken entr giren karılar
 bkz ismete götten verdim diyen karının ev işlerine yardım etmemesi
 bkz seni ismetle aldattım diyen karının entry kasması
 bkz hamile eşi ismete entry girerkekn yardım eden kocah
