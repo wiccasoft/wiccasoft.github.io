@@ -13,6 +13,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!--
 bkz ismete götten veren karıyı boşamak
 bkz karısını entry girmeye yollayan gavat
+bkz karısnın başka erkeklere entry girmesine izin veren gavat
 bkz kocişkosuna yemek yapmayan karının ismet diye tuturması
 bkz ya ismet ya ben diyen karıya siktir git entry gir demek
 bkz ismete götten veren karının mahmuta da vermesi
