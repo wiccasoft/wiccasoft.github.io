@@ -11,8 +11,9 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz tayyipin yeni arabaya tayyip diyelim önerisi
-bkz ışıkhan altuğ şekercigil in yeni arabaya altuğ diyelim önerisi
+https://www.youtube.com/watch?v=2FxpNCvBV_s bkz chiks dig the car
+bkz tayyipin yeni tomobile tayyip diyelim önerisi
+bkz ışıkhan altuğ şekercigil in yeni otomobile altuğ diyelim önerisi
 bkz arda turan yeni arabaya turan diyelim önerisi  https://www.youtube.com/watch?v=jdjsGMl-yWI
 bkz tayyipin attığı aşırtma gol https://www.youtube.com/watch?v=uwSBu9fHo2w
 bkz saddamın oğlunun karıları oynatması
