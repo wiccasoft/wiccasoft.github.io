@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz gasssarayın paylştığı fenelilerin anaısın hoplatacaz paylaşımı
 bkz fatih terimin fenerlileri sikertecez açıklaması https://www.youtube.com/watch?v=Zw_WUGrgrQ8
 bkz geysarayın paylaştığı mbaye ananızın içinde geçecek paylaşımı
 bkz mbaye dyagnenin bomba gibi dönmesi
