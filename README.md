@@ -11,7 +11,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz kız ismet diyince akla gelen erkek
+bkz erkek diyince akla gelen ilk erkek
+bkz kız ismet diyince akla gelen ilk erkek
 bkz ismet inönü diyine akla ilk gelenler
 bkz erkeksiz kalsanız ilk kimi emciklerdiniz
 bkz mercedes erkeği vs bmw erkeği
