@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz geysarayın paylaştığı mbaye ananızın içinde geçecek paylaşımı
 bkz mbaye dyagnenin bomba gibi dönmesi
 bkz sarayın falcao anternmandaydı dinlemiyorduk açıklaması
 bkz sarayın ramosa onay vermesi
