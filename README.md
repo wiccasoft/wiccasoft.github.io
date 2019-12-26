@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz yerli arabaya jingle önerileri https://www.youtube.com/watch?v=XPLDKA8MPLc 
 bkz yerli arabaya amblem önerileri
 bkz ismetin götten siktiği karıya yürüyecek kadar kana susamak
 bkz ismete götten veren karıyı boşamak
