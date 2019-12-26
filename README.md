@@ -11,6 +11,8 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz erkeksiz kalsanız ilk kimi emciklerdiniz
+bkz mercedes erkeği vs bmw erkeği
 bkz ismet inönün vs kasım kara bekir
 bkz melih gökçekin oğlu yakışıklı mı sorunsalı
 bkz ismet inönü gay mi sorunsalıydı
