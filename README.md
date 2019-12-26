@@ -12,6 +12,7 @@ bkz mesihin de zaten ben mesih değilim demeyecek olması
 bkz mesihin gök bilimlerine hakim olacağı hadisi
 bkz deccalin mesihin indiğini onaylaması
 bkz gavs hazretlerinin gavs hazretleri değilim demesi
+bkz dabbet-ül arzın mesih in gelişini kutlaması
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
