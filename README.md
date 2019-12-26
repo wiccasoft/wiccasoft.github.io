@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ışıkhan altuğ şekercigil in yeni arabaya altuğ diyelim önerisi
 bkz arda turan yeni arabaya turan diyelim önerisi  https://www.youtube.com/watch?v=jdjsGMl-yWI
 bkz yerli otomobile amblemle slogan önerileri https://www.youtube.com/watch?v=XPLDKA8MPLc 
 bkz arda turan götü vs vedat müqü götü
