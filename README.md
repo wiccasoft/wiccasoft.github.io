@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz yerli arabaya amblem önerileri
 bkz ismetin götten siktiği karıya yürüyecek kadar kana susamak
 bkz ismete götten veren karıyı boşamak
 bkz karısını entry girmeye yollayan gavat
