@@ -14,6 +14,7 @@ bkz mesihin gök bilimlerine hakim olacağı hadisi
 bkz deccalin mesihin indiğini onaylaması
 bkz gavs hazretlerinin gavs hazretleri değilim demesi
 bkz dabbet-ül arzın mesih in gelişini kutlaması
+bkz mesihin dinler kavgasına son vermesi https://www.youtube.com/watch?v=nYOLHwdhDhQ
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
