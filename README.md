@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz celala şenini ismet inönü hakkındaki yorumu 
 bkz kanal istanbula berkin lahmacun açıp parayı vurmak
 bkz berkin elvanın babasının yahudi cesaret madalyası alması
 bkz mohamed salahın paylaştığı foto vs selçuk inanın paylaştığı foto
