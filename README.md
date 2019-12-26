@@ -11,7 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-https://www.youtube.com/watch?v=GcuH0cfYZIw bka inönünnü kıskançılığ
+https://www.youtube.com/watch?v=GcuH0cfYZIw bk< kkatğrk le inönünün araları nasıl açıldı
 bkz emre morun ramosa yürümesi
 bkz ismet inönü kamalın yaveriydi diyebilmek
 bkz celala şeninin ismet inönü hakkındaki yorumu 
