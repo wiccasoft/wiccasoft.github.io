@@ -11,7 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz ismet inönünün götünü yarıp götten gir demesi
+bkz ismet inönünün ismetin önünde olması
 bkz whatsapp isteyen erkek 
 bkz ismetle kakatürkün hayallerde yaşaması
 bkz ismet inönünü time dergisine kapak olması
