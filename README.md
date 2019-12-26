@@ -2,6 +2,11 @@
 https://en.wikipedia.org/wiki/New_moon
 https://www.timeanddate.com/astronomy/moon/new-moon.html
 -->
+[![Image](skynet/Screenshot_2019-12-26_02-06-59.png.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
+
+
+
+
 
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
