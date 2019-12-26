@@ -5,7 +5,6 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz 25 aralık 2019 mesih zühur eylemesi 
-bkz mesihin karısına sultan demesi
 https://www.youtube.com/watch?v=R-q9go-xi1M
 -->
 
