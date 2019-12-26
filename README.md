@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismetin götten siktiği karıyayürüyecek kada kana susamak
 bkz ismete götten veren karıyı boşamak
 bkz karısını entry girmeye yollayan gavat
 bkz karısnın başka erkeklere entry girmesine izin veren gavat
