@@ -20,7 +20,6 @@ bkz ali koçun gassraryalılara vedatı salması
 bkz fatih terimin real madridle yarım kalan işimiz var paylaşımı
 bkz emre morun ramosa yürümesi
 bkz mohammed salahın paylaştığı aile fotoğrafı 
-bkz 25 aralıkta doğmayıp mesihim diye dolanan tipler
 https://www.youtube.com/watch?v=8144l37GS-c bkz kemalistlerin mizah anlayışı
 https://www.uludagsozluk.com/e/42615077/ bkz mesihin mesihim ama olmayabilirim de diyecek olması 
 bkz 25 aralık 2019 mesih in zühur eylemesi 
