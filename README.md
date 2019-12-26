@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz eroğdan ve bahçelnini millet bahçelirini kapatması
 bkz ortaokul çıkışıtopkeke yiyip annenin yaptığı çayşa entry girmek
 bkz ortaokulların kapanma satinde entry giren liseli abilerin dönmesi
 bkz berkin elvanı vuran polisin messi ye tekme atan defans çıkması
