@@ -11,7 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz ahmet özalın babamı öldürenler keyif çaıtoy açıklaması
+bkz ahmet özalın babamı öldürenler keyif çatıyo açıklaması
 bkz turgut özalın semra hanım bi kaset koy  da şenlenelim demesi 
 bkz ismet inönünün turgut özala götveren çeneli dediği iddası
 bkz ozan tufanın paylaştığı kedi fotosu
