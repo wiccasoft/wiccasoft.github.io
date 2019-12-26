@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz ozan tufanın paylaştığı kedi fotosu
+bkz ramdel falcao garcia nın ozan tufana götün yiyosa ali samiyene gel demesi
 https://www.youtube.com/watch?v=2FxpNCvBV_s bkz Chicks Dig the Car
 bkz tayyipin yeni tomobile tayyip diyelim önerisi
 bkz ışıkhan altuğ şekercigil in yeni otomobile altuğ diyelim önerisi
