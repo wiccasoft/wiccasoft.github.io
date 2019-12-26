@@ -2,9 +2,7 @@
 https://en.wikipedia.org/wiki/New_moon
 https://www.timeanddate.com/astronomy/moon/new-moon.html
 -->
-[![Image](skynet/Screenshot_2019-12-26_02-06-59.png.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
-
-
+[![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 
 
