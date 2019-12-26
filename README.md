@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz abdulrahim albayrakın paylaştığı drogba ananızı sikecek paylaşım
 bkz melonun pauylaştığı fenerlilerin götüne gömdükmü paylaşımı
 bkz gassarayaın formaları almıyosanız kaldıralım demesi
 bkz gasssarayın paylştığı fenelilerin anaısın hoplatacaz paylaşımı
