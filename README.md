@@ -5,105 +5,17 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
-[![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
-
-
 <!--
 bkz hasan mezarcı mesih mi sorunsalı
 bkz mesih hasan mezarcı deilse deccal kim sorunsalı
 bkz mesihin ben mesihim demeyecem diyeceğim hadisi sorunsalı
-bkz adolf hitler in populer olma sebbi
-bkz adolf hitlerin size mi soracaz demesi
-bkz çatlasanızda patlasanızdakanal açacam diyen birini ciddiye almak
-bkz recep tayyip dogan vs adolf hitler dogan
-bkz adolf hitler dogan vs recep tayyip dogan
-bkz tayyip olmasydı napardık sorunsalı
-bkz tayyip yönetmezse nasıl yönetilecez sorunsalı
-bzk tayyip le büyüyüp tayyipsiz n'olacak diye düşünmek
-bkz tayyip giderse kanal açılmayacak mı sorunsalı
-bkz tayyip kanal açmazsa kim açaçak sorunsalı
-bkz adolf hitlerin tayyipe saldırmaması sorunsalı bkz https://www.youtube.com/watch?v=FqDSaTKtQYA 
-bkz tayyip ölürse bizi kşim yönetçek sorunalıhttps://www.youtube.com/watch?v=FqDSaTKtQYA 
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-bizi-kim-y%C3%B6netecek/&w=bg
-bkz https://www.youtube.com/watch?v=FqDSaTKtQYA  bkz çaycı hüseyini hoplatmak
-bkz https://www.youtube.com/watch?v=FqDSaTKtQYA bkz darth vader vs gevşekler
-bkz killa hakancıların saopacılardan götüm götüm kaçması
-bkz norm önderin saopaya döşediği boruya sese etmeyen sagopacılar
-https://www.uludagsozluk.com/k/5-ki%C5%9Fiye-tek-ba%C5%9F%C4%B1na-d%C3%B6vemeyen-ezik/ bkz erkekimsi
-bkz ceza sogopa yı hoplattı mı sorunsalı
-bkz halo dayının seyfo dayıyı hoplattığı gerçeği
-bkz ortamda vuruşacak erkek kalmayınca sinirlenmek
-bkz adam gibi vuruşan erkek vs karı gibi kaçan erkek
-bkz vuruşmaktan korkan erkek vs delikanlıca vuruşan erkek
-bkz vuruşulan erkeğin yeniden doğuş partili çıkması
-https://www.youtube.com/watch?v=0iTts0sUzH4
-bkz delikanlıca vuruşulan erkeğin reisin yaveri çıkması
-bkz götüne attırılan erkeğin ankaralı çıkması
-bkz yerli arabayla la bize her yer ankara çalmak
-bkz vuruşmaktan korkan erkek vs delikanlı gibi vuruşan ekrek
-bkz delikanlı gibi vurduran erkeğe isim önerileri
-bkz solcuların delikanlı gibi vurdurmaması
-https://www.uludagsozluk.com/k/zeki-cevik-ve-ahlakli/&w=bg bkz hangısı
-https://www.uludagsozluk.com/k/kavga-an%C4%B1nda-kibarla%C5%9Fan-dingil/&w=bg bkz götü kaşınan dingil
-bkz süper babadaki baba  vs bülent ortaçgil
-bkz bülent ortaçgil sütçüoğlu gillerle akrabab mı sorunsalı
-bkz volkan sütçüoğlu gay miydi sorunsalı
-bkz adolf hitler hittiyse hititler hitmedi mi sorunsalı
-bkz adolf hitler hitit li olabilir mi sorunsalı
-bkz adolf hitler hit ti mi sorunsalı
-bkz adolf hitler niye amerikaya saldırmadı sorunsalını düşünmeyen gençlik
-bkz adold hitler niye ingiltireye saldırmadı sorunsalı
-bkz adolf hitler türkiyeye niye saldırmıyor sorunsalı
-bkz adolf hitlerin rusyaya saldırma sebebi
-bkz fakirlerin fakir olma sebebi https://www.youtube.com/watch?v=R-q9go-xi1M
-bkz fakirlerin araba ve telefon tutkusunun asıl sebebi
-bkz kurtlar vadisi izleyerek büyümüş neslin güldürmesi
-bkz sağcılardan neden mafya çıkmıyor sorunsalı
-bkz 41 yaşında hala seks yapmaya çalışan adam
-bkz adolf hitler neden darth vader e saldırmıyor sorunsalı
-bkz fakirlerin saçma sapan şeylerle uğraştığı gerçeği
-bkz adolf hitler niye sedat pekere saldırmıyor sorunsalı
-bkz sedat pekerin hapiste sadece ülkücülere vurdurdum açıklaması
-bkz homoseksüellerin kafa siktiği gerçeği
-bkz ükücülerin homoseksüel olduklarını çözmeleri
-bkz ükücülerdeki mafya erkeği hastalığını sebebi
-bkz hüseyin nihal atsız yazarken yorulamk kim olduğunu hala bilmemek
-bkz ülkücülerin adamsan götüme çakarsın hareketlerinin sebebi
-bkz ülkücülerin gay olma sebebi 
-bkz delikanlıysan bana götten çakar mafya olursun diyen ülkücü
-bkz hüseyin nihal atsıza entry giren ülkücü
-bkz pasif gaylerin güldürmesi
-bkz erkeksen bana alfa olduğu göster diyen pasifi siklememek
-https://www.uludagsozluk.com/e/42613028/ bkz hayallerde yaşıyor bazı ibneler 
-bkz antalyayı özlemek
-bkz noelin süper bişi olması
-bkz hagi vs alex vs falcao
-bkz ismet inönü vs kamal 
-bkz rte vs kanal
-bkz bülent ersoy nereli sorunsalı
-bzk recep isminde kamnyoncu kılıklı liderleri olan komik ülke
-bkz recep tayyip erdoğanın kanalı yardıracam demesi
-bkz bülent ersoy vs burcu esmersoy
-bkz sedat pekerin tayyipe dokunan karşında beni bulur demesi
-bkz aşık olduğun erkeğin ofsaytı bilmemesi hatta futbol bile izlememesi
-bkz deniz gezmişin son fotosu vs isanın son akşam yemeği 
-bkz eşcinsellerin erkek merkezli yaşama sebebi
-bkz ekşicinin noelde mini etek giyme diyen prof e verdiği ayar
-bkz bülent ersoyun noel için pipisini kaldırması
-bkz cem garipoğlunun ekşicileri deli eden noel paylaşımı
-bkz rte nin ekşiciler yerli otomobile mini etek giyerek binmesin demesi
-bkz rte nin beni seven yılbaşında çerezle sigara içmez açıklaması
-bkz recep tayyip erdoğanın yılbaşı günahtır açıklaması
+-->
+[![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
+
+
+<!--
 bkz noel yerine yılbaşı kutlayan fakirler in güldürmesi
 bkz 31 aralık'ı bekleyen fakirler
-bkz selman öğütün hasan mezarcıya verdiği ayar
-bkz tam sıcak denizlere inecekken fakirlerin ayaklanması 
-bkz ruhban sınıfının sanki biraz şey olması
-bkz hasan mezarcının mesih suretinde zühur eylemesi
-https://www.uludagsozluk.com/k/scooter-a-binip-kiliseyi-terk-eden-rahip/ bkz gigi d'agostino
-https://www.uludagsozluk.com/k/testislerine-okyanus-suyu-de%C4%9Fmemi%C5%9F-erkek/ bkz testisleri yalanası erkek
-https://www.uludagsozluk.com/k/erkek-dans%C3%B6z/ bkz kalçaları ısırılası erkekler
-bkz mesihin zuhur eylemesi https://www.youtube.com/watch?v=hacCw29knzI 
 bkz zulüm 1453 başladı https://www.youtube.com/watch?v=L0fIynv3lh4 
 bkz konstantinopolisi verin bu iş tatlıya bağlansın https://www.youtube.com/watch?v=_OXskGao8Nw 
 bkz konstantinopolisi kaç saatte alırız sorunsalı
