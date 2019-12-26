@@ -13,6 +13,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz üj mülyün yürü daha verip kaka yı geyseye alsak mı sorunsalı 
 bkz akp çocujları sayfasının geri vites yapması
 bkz akp çocuklarına facebuk sayfasına nispet olsun diye yersiz araba önünde foto atmak
 bkz fener ol kampanyasında rekor forma satılmasını çekemeyen gsliler
