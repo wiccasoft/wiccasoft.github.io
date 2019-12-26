@@ -13,6 +13,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 <!--
 bkz emre morun ramosa yürümesi
 bkz mohomed salahın facebuka ailesiyle attığı foto
+acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz erdonun facebuktan ezanların susturmayacanız açıklaması
 bkz erdonun kanal projesine facebuktan itiraz ertmek serbest açıklaması
 bkz 190 cm boyunsa 19 cm pipili erkekin berkin elvanı siken erkek çıkması
