@@ -14,94 +14,10 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 bkz tayyipin yeni arabaya tayyip diyelim önerisi
 bkz ışıkhan altuğ şekercigil in yeni arabaya altuğ diyelim önerisi
 bkz arda turan yeni arabaya turan diyelim önerisi  https://www.youtube.com/watch?v=jdjsGMl-yWI
-bkz yerli otomobile amblemle slogan önerileri https://www.youtube.com/watch?v=XPLDKA8MPLc 
-bkz arda turan götü vs vedat müqü götü
-bkz yerli arabay la bize her yer angara sloganı önerisi
-bkz yerli arabaya jingle önerileri https://www.youtube.com/watch?v=XPLDKA8MPLc 
-bkz yerli arabaya amblem önerileri
-bkz ismetin götten siktiği karıya yürüyecek kadar kana susamak
-bkz ismete götten veren karıyı boşamak
-bkz karısını entry girmeye yollayan gavat
-bkz karısnın başka erkeklere entry girmesine izin veren gavat
-bkz kocişkosuna yemek yapmayan karının ismet diye tuturması
-bkz ya ismet ya ben diyen karıya siktir git entry gir demek
-bkz ismete götten veren karının mahmuta da vermesi
-bkz kocişkosu çalışırken entr giren karılar
-bkz ismete götten verdim diyen karının ev işlerine yardım etmemesi
-bkz seni ismetle aldattım diyen karının entry kasması
-bkz hamile eşi ismete entry girerkekn yardım eden kocah
-bkz ismetten hamile kalmak
-bkz ismetin islami teöröre geçit vermesi
-bkz erkeklerin favlıyoruz kampanyası
-bkz ismet inönü diyince akla ilk gelen şey
-bkz erkeksiz kalsanız ilk hangi erkek aklınıza gelirdi sorunsalı
-bkz mercedes erkeği vs bmw erkeği
-bkz karıcıhı entry girerkene entry favlayan kocah
-bkz ismetin is met olması
-bkz ismet inönünün ismetin önünde olması
-bkz whatsapp isteyen erkek 
-bkz ismetle kakatürkün hayallerde yaşaması
-bkz ismet inönünü time dergisine kapak olması
-bkz ibnelerin hayal dünyası
-bkz ibnelerin ne kafası yaşaması sorunsalı
-bkz yerli arabaya türklerin imgesi ibne amblemi koyalım 
-bkz merhaba mesajından sonra whatsapp isteyen erkek
-bkz kocişkosu çalışırken entry giren karıh
-bkz ismet innnü deyince akla ilk ne geliy
-bkz hamile eşine ev işlerinde yardım eden kocah gib kocah
-bkz ismetin anafartalar daki karizmatik fotosu
-bkz ismetin innünün kazım karabekirler olan fotosu
-bkz ismetin anafartalar kongresinde yaptığı konuşma
-bkz ismet inönünün kendi remsmini paraya koyması
-bkz erkek diyince akla gelen ilk erkek
-bkz kız ismet diyince akla gelen ilk erkek
-bkz ismet inönü diyine akla ilk gelenler
-bkz erkeksiz kalsanız ilk kimi emciklerdiniz
-bkz mercedes erkeği vs bmw erkeği
-bkz ismet inönün vs kasım kara bekir
-bkz melih gökçekin oğlu yakışıklı mı sorunsalı
-bkz ismet inönü gay mi sorunsalıydı
-bkz hamile eşine ev işlerinde yardım eden kocah
-bkz berkin elvana götveren diyecek kadar kana kusamak
-bkz erdal erenin siken erkeğin galasaraylıyım demesi
-bkz deniz gezmişi asan erkeğin fenerli çıkması
-bkz berkin elvana tekme atan polisin galsaraylı çıkması
-bkz selçuk inanın eğlenilecek erkeğim açıklması
-bkz melihin attığı yerli arabama göklerde tweeti
-bkz melih06 nın yemni arabanın adı melih olsun teklifi
-bkz tayyipini yeni arabaya tayyip amblemi koyaım teklifi
-bkz götü parmaklanan arkdaşın yeni arabacı çıkması
-bkz yeni arabaya mahmut diyelim kampnayası
-bkz yeni arabaya amblem önerileri
-bkz yeni arabayla kanal istanbulda yardırmak
-bkz erdoğan ölürse napacuk sorunsalı
-bkz berkin elvanı vuran polisin erdoğanın teyze oğlu çıkması
-https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1-vuran-polisb/
-bkz tayyiş erdoğanın ekşicilere ayrı bi ilgi göstermesi
-bkz tayyip erdoğanın gsliyi ziyareti https://www.youtube.com/watch?v=4Fn84I34azs
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C3%B6l%C3%BCrse-bizi-kim-y%C3%B6netecekt/
 bkz tayyipin attığı aşırtma gol https://www.youtube.com/watch?v=uwSBu9fHo2w
-bkz tyayyipin oğlunun rizesporu tutuması
 bkz saddamın oğlunun karıları oynatması
-bkz saddamın yakışıklı oğlunun ıslarması
 bkz ali koçun gassraryalılara vedatı salması
-bkz fatih terimin paylaştığı ananız soktuk mu fener paylaşımı
-bkz abdulrahim albayrakın paylaştığı drogba ananızı sikecek paylaşım
-bkz melonun pauylaştığı fenerlilerin götüne gömdükmü paylaşımı
-bkz gassarayaın formaları almıyosanız kaldıralım demesi
-bkz gasssarayın paylştığı fenelilerin anaısın hoplatacaz paylaşımı
-bkz fatih terimin fenerlileri sikertecez açıklaması https://www.youtube.com/watch?v=Zw_WUGrgrQ8
-bkz geysarayın paylaştığı mbaye ananızın içinde geçecek paylaşımı
-bkz mbaye dyagnenin bomba gibi dönmesi
-bkz sarayın falcao anternmandaydı dinlemiyorduk açıklaması
-bkz sarayın ramosa onay vermesi
-bkz abdulrrahim albayrakın uj mulyon yurü daha verelim ramsou alalım açıklamsaı
-bkz vedat mürüqwnün antrenmanda göt kaslarını gevşetmesi
-bkz fatih terimin rademla falcao fgarciaı eliyle beslemesi
-bkz ismet inönün erdal inönü kavgası
 bkz fatih terimin real madridle yarım kalan işimiz var paylaşımı
-bkz abdurrahim albyrakın real madrid açıklaması https://www.youtube.com/watch?v=zFHi_X_Q6PM
-https://www.youtube.com/watch?v=GcuH0cfYZIw bk< kkatğrk le inönünün araları nasıl açıldı
 bkz emre morun ramosa yürümesi
 bkz ismet inönü kamalın yaveriydi diyebilmek
 bkz celala şeninin ismet inönü hakkındaki yorumu 
