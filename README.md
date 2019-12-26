@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
-bkz askerde göt parmaklatılan devrenni tayyipçi olması
+bkz askerde göt parmaklatılan devrenni tayyipçi gayseraylı olması
 bkz askerde götünü parmakladttığıınız devrenin ramosçu çıkması
 bkz en çok attırdığınızı müslüm  forvetin aile fotosu paylaşması
 bkz deniz gezmişin son fotoğrafına attırmak
