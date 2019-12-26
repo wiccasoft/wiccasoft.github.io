@@ -23,6 +23,8 @@ bkz gavs hazretlerinin gavs hazretleri değilim demesi
 bkz dabbet-ül arzın mesih in gelişini kutlaması
 bkz mesihin dinler kavgasına son vermesi https://www.youtube.com/watch?v=nYOLHwdhDhQ
 bkz mesihin kanal istanbulla birlikte müjdelenmesi
+https://www.uludagsozluk.com/k/sahameless-frank-gallagher-vs-zeynep-erg%C3%BCl/ lol
+https://www.uludagsozluk.com/k/star-trekteki-insanlar%C4%B1n-tuzunu-s%C3%B6m%C3%BCren-uzayl%C4%B1/ lol
 -->
 
 
