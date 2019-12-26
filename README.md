@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz melih gökçekin oğlu yakışıklı mı sorunsalı
 bkz ismet inönü gay mi sorunsalıydı
 bkz hamile eşine ev işlerinde yardım eden kocah
 bkz berkin elvana götveren diyecek kadar kana kusamak
