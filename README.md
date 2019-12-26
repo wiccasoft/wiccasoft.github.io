@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz kız taklidi yapan ibnelerin güldürmesi
 bkz whatsapp isteyen erkek 
 bkz ismetle kakatürkün hayallerde yaşaması
 bkz ismet inönünü time dergisine kapak olması
