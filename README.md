@@ -11,7 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
-bkz tayyipin acunla maçta attığı gol
+bkz tayyipin attığı aşırtma gol https://www.youtube.com/watch?v=uwSBu9fHo2w
 bkz tyayyipin oğlunun rizesporu tutuması
 bkz saddamın oğlunun karıları oynatması
 bkz saddamın yakışıklı oğlunun ıslarması
