@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismet inönü diyince akla ilk gelen şey
 bkz erkeksiz kalsanız ilk hangi erkek aklınıza gelirdi sorunsalı
 bkz mercedes erkeği vs bmw erkeği
 bkz karıcıhı entry girerkene entry favlayan kocah
