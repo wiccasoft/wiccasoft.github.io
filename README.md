@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz ibnelerin hayal dünyası
+bkz ibnelerin ne kafası yaşaması sorunsalı
 bkz yerli arabaya türklerin imgesi ibne amblemi koyalım 
 bkz merhaba mesajından sonra whatsapp isteyen erkek
 bkz kocişkosu çalışırken entry giren karıh
