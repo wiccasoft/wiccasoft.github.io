@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ibnelerin hayal dünyası
 bkz merhaba mesajından sonra whatsapp isteyen erkek
 bkz kocişkosu çalışırken entry giren karıh
 bkz ismet innnü deyince akla ilk ne geliy
