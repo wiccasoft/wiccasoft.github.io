@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz oğzu sasi nin emro mor teknik olarak kötü demesi
 bkz adam gibi adamdır dediğiniz erkeğin rasmosçu messi düşmanı olması 
 bkz askerde göt parmaklatılan devrenni tayyipçi gayseraylı olması
 bkz askerde götünü parmakladttığıınız devrenin ramosçu çıkması
