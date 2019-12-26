@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz selçuk inanın eğlenilecek erkeğim açıklması
 bkz melihin attığı yerli arabama göklerde tweeti
 bkz melih06 nın yemni arabanın adı melih olsun teklifi
 bkz tayyipini yeni arabaya tayyip amblemi koyaım teklifi
