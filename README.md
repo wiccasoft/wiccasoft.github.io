@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+https://www.uludagsozluk.com/k/david-beckham/&w=bg bkz ultra yakışıklı futbolcular
 https://www.uludagsozluk.com/k/neymar-da-silva-santos-junior/&w=bg bkz santos
 bkz oğzu sasi nin emro mor teknik olarak kötü demesi
 bkz adam gibi adamdır dediğiniz erkeğin rasmosçu messi düşmanı olması 
