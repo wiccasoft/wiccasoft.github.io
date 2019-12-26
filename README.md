@@ -15,19 +15,11 @@ bkz deccalin mesihin indiğini onaylaması https://www.youtube.com/watch?v=hYPEa
 bkz gavs hazretlerinin gavs hazretleri değilim demesi
 bkz dabbet-ül arzın mesih in gelişini kutlaması
 bkz mesihin dinler kavgasına son vermesi https://www.youtube.com/watch?v=nYOLHwdhDhQ
+bkz mesihin kanal istanbulla birlikte müjdelenmesi
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
-<!--
-https://www.youtube.com/watch?v=4_u-bIMQxNM 
-bkz mesihin mezarcı şeklinde zühur eylmesi
-bkz mesihin de zaten mesih değilim demesi hilesi
-bkz ilber ortaçgil vs celal şengil
-bkz hasan mezarcı mesih mi sorunsalı
-bkz mesih hasan mezarcı deilse deccal kim sorunsalı
-bkz mesihin ben mesihim demeyecem diyeceğim hadisi sorunsalı
--->
 
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
