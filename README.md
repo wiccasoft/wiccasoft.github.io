@@ -4,10 +4,6 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 -->
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
-
-
-[![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
-
 <!--
 https://www.youtube.com/watch?v=4_u-bIMQxNM 
 bkz mesihin mezarcı şeklinde zühur eylmesi
@@ -17,7 +13,8 @@ bkz hasan mezarcı mesih mi sorunsalı
 bkz mesih hasan mezarcı deilse deccal kim sorunsalı
 bkz mesihin ben mesihim demeyecem diyeceğim hadisi sorunsalı
 -->
-[![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
+
+[![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
 
 <!--
@@ -32,6 +29,8 @@ https://www.uludagsozluk.com/e/42611727/ bkz adamı cinnete getirmeyin
 https://www.uludagsozluk.com/k/fakirler-neden-isyan-edip-silahlanm%C4%B1yor/ bkz adamı cinnete getirmeyin
 bkz tam zengin olacakken fakirlerin ayaklanması 
 -->
+
+[![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
 
 
 
