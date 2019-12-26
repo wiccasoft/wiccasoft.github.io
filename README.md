@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz turgut özalın semra hanım bi kaset koy  da şenlenelim demesi 
 bkz ismet inönünün turgut özala götveren çeneli dediği iddası
 bkz ozan tufanın paylaştığı kedi fotosu
 bkz ramdel falcao garcia nın ozan tufana götün yiyosa ali samiyene gel demesi
