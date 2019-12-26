@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
 https://www.youtube.com/watch?v=4_u-bIMQxNM 
 bkz mesihin de zaten ben mesih değilim demeyecek olması
-bkz mesihin yeni ayın xmas gecesine denk geldiği gün ineceği hadisi
+bkz mesihin yeni ayın xmas gecesine denk geldiği gün ineceği hadisi 
 bkz mesihin gök bilimlerine hakim olacağı hadisi
 bkz deccalin mesihin indiğini onaylaması https://www.youtube.com/watch?v=hYPEarIYHEU
 bkz gavs hazretlerinin gavs hazretleri değilim demesi
