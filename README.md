@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz hüseyin nihal atsızın selçuk inanı övmesi
 bkz ekrem imamoğlanın babasının ramosçu olması
 bkz kurtlar vadisi izleyerek futbolculara 31 çeken ergenlerin güldürmesi
 bkz 25 aralık 2019 ramosun hala dünyanın en iyi defansı olması
