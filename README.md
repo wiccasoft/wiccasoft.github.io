@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=4_u-bIMQxNM
 bkz mesihin de zaten ben mesih değilim demeyecek olması
 bkz mesihin gök bilimlerine hakim olacağı hadisi
 bkz deccalin mesihin indiğini onaylaması
-bkz gavs hazretlerinin istiareye çökmesi
+bkz gavs hazretlerinin gavs hazretleri değilim demesi
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_02-06-59.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
