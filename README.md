@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz tayyipini yeni arabaya tayyip amblemi koyaım teklifi
 bkz götü parmaklanan arkdaşın yeni arabacı çıkması
 bkz yeni arabaya mahmut diyelim kampnayası
 bkz yeni arabaya amblem önerileri
