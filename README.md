@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz hasan mezarcının mesih değilim ama olabilirim de açıklaması
 bkz 25 aralık 2019 mesih in zühur eylemesi 
 https://www.youtube.com/watch?v=R-q9go-xi1M
 bkz cubbelinin sahte mesih olması
