@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismetin innünün kazım karabekirler olan fotosu
 bkz ismetin anafartalar kongresinde yaptığı konuşma
 bkz ismet inönünün kendi remsmini paraya koyması
 bkz erkek diyince akla gelen ilk erkek
