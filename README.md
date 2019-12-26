@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+bkz berkin elvana teörrik diyecek kada kana kusmak 
 bkz selçuk inanın mohammed salaha aile fotosuna girme çabası
 bkz mohomed salahın facebuka ailesiyle attığı foto
 acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
