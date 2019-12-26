@@ -13,6 +13,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz akp çocukları sayfasına menderesin yaptığı baraj fotosu atmak
 bkz akp çocuklarına facebuk sayfasına nispet olsun diye yersiz araba önünde foto atmak
 bkz fener ol kampanyasında rekor forma satılmasını çekemeyen gsliler
 bkz mahmut özalın macun firarda masterchefe katılması
