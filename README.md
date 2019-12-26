@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismetten hamile kalmak
 bkz ismetin islami teöröre geçit vermesi
 bkz erkeklerin favlıyoruz kampanyası
 bkz ismet inönü diyince akla ilk gelen şey
