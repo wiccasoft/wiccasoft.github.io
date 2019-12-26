@@ -12,7 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
-bkz mohamed salahın paylaştığı aile fotosu vs selçuk inanın paylaştığı foto
+bkz mohamed salahın paylaştığı foto vs selçuk inanın paylaştığı foto
 bkz annesinin aldığı topkekini yedikten sonra facebuka tek yol devrim yazan ergen
 bkz berkinin intikamın alacam olm diyen ergen topkeke getirip sakinleştiren annesi
 bkz berkin elvana teörrik diyecek kada kana susamak
