@@ -12,6 +12,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 <!--
 bkz emre morun ramosa yürümesi
+nbkz erdonun facebuktan ezanların susturmayacanız açıklaması
 bkz erdonun kanla projesine facebuktan itiraz ertmek serbest açıklaması
 bkz 190 cm boyunsa 19 cm pipili erkekin berkin elvanı siken erkek çıkması
 bkz itiraz edenin endirekt kafir olacağı kanal procesi
