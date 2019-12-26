@@ -11,6 +11,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 
 <!--
+bkz ismet inönünü time dergisine kapak olması
 bkz ibnelerin hayal dünyası
 bkz ibnelerin ne kafası yaşaması sorunsalı
 bkz yerli arabaya türklerin imgesi ibne amblemi koyalım 
