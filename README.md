@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz kadir mısıroğlan vs bartu küçükoğlan
 https://www.facebook.com/watch/?v=1010463862392162 ver mehteri
 https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
 https://www.uludagsozluk.com/k/in%C5%9Faat-m%C3%BChendisi-erke%C4%9Fin-yads%C4%B1namaz-%C3%A7ekicili%C4%9Fi/ 
