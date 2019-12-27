@@ -3,15 +3,8 @@
 <!-- 
 https://www.youtube.com/watch?v=2FxpNCvBV_s  chicks dig the car
 bkz https://www.youtube.com/watch?v=P5hnHmsUjn4 bkz yerli arabasını vermeyen akp çocukları
-https://www.uludagsozluk.com/e/42620268/ eywallah  kardeş irtibatı koparmayalım
-bkz şener şenin sesiziliğini bozması yerli arabaya ne diyem mahmut deyem demesi
-https://www.youtube.com/watch?v=I5bIQWjUS7o bkz 190 yerli arabayla gezerim ben
-https://www.uludagsozluk.com/e/42620236/ bkz aleyna tilkinin ayısı
-https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz yatiy 
 bkz reisin wiki yi açmasına ses etmeyen akitler
 bkz reis pornhub ı açsın kampanyası
-bkz reis anamın üstünde beni yakalasa orospuluk anamdadır
-bkz pornhub ta rte nin  üstünde anneyi görmek
 bkz kardeşimsin pornhub
 -->
 
