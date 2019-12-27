@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 https://www.youtube.com/watch?v=2rqHCEIIjck mevzu fenerse
 https://www.youtube.com/watch?v=6xEIwJx0m_w en güzeli kazanmadıklarımızdır
 https://www.youtube.com/watch?v=Yn4fQFC3lSE mevzu teknik adamlıksa gerisi teferruattır
+https://www.uludagsozluk.com/k/keman-%C3%A7alan-1-78-m-boyundaki-m%C3%BChendis/ vurduruyodur
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg mevzu iticilikse gerisi teferruattır
 https://t24.com.tr/haber/ersun-yanal-nazim-hikmet-in-siirini-fenerbahce-ye-uyarladi-en-guzel-sampiyonluklarimiz-henuz-kazanmadiklarimizdir,838652
 -->
