@@ -1,6 +1,6 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
-
+<!-- https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz yatiy -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
 
