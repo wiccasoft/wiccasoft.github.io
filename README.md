@@ -2,30 +2,6 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
 bkz yersiz otomobilin yer bildirimi atması https://www.youtube.com/watch?v=2FxpNCvBV_s
-bkz şeyh said in gemi kazasında parmağı olması
-bkz emin adanurun gemiz kazasına sevinmesi
-bkz şey said vs said nursi
-bkz adolf hitler niye türkiye saldırmıyor sorunsalı
-bkz şey said şeyh miy şıh mıydı sorunsalı
-bkz rte nin instagrama attığı yerli araba fotosu
-bkz facebook 15 temmuz gazileri grubuna yeni üyeler katılması
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz facebook dersimli atatürkçüler grubunun kapanması
-bkz hüseyin bihal atsız vs mehemet akif ersoy vs bülent ersoy
-bkz kemal kılıçtaroğlunun grup toplantısında levent göke sayın göt demesi
-bkz rte'nin hocasının mehmet akif ersoy'a kafir demesi
-bkz kemal kılıçtaroğlanın grup toplantısı
-bkz işsizlerin ne kafası yaşaması
-bkz rte nefretinin insanların gözünü kör etmesi
-bkz cemal enginyurtu sahneden indiren adam https://www.youtube.com/watch?v=2KErN9bMrwM
-bkz cemal enginyurtun mhp ye sokulmuş ajan olduğu iddaları
-https://www.uludagsozluk.com/e/42619877/ bkz akpnin kanalı açmak için kaza bile yaptırması
-bkz emin çölaşan vs şener şen
-https://www.youtube.com/watch?v=2FxpNCvBV_s  chicks dig the car
-bkz https://www.youtube.com/watch?v=P5hnHmsUjn4 bkz yerli arabasını vermeyen akp çocukları
-bkz reisin wiki yi açmasına ses etmeyen akitler
-bkz reis pornhub ı açsın kampanyası
-bkz kardeşimsin pornhub
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
