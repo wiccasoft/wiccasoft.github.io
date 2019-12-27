@@ -2,8 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz erkan tanın tan vakti çanı çalması
-bkz erkan tanın zangoçlık yapması
+bkz erkan tanın zangoçluk yapması
 bkz herşeyi bırakıp sahil kasabasında entry girmek
 bkz 61 yaşından sonra ben mi çalışacam amk zangoçları
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz/&w=bg beyler sözleşmeyi uzatmış
