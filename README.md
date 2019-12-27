@@ -5,7 +5,7 @@
 bkz erkan tanın zangoçluk yapması
 bkz haylaz şirine meslek önerileri
 bkz ergenlerin sürekli iş yüklemesi
-bkz işsiz bi forum ergenine hayaımın sonuna kadar çalışmadan yaşayabileceğimi anlatmam
+bkz işsiz bi forum ergenine hayatımın sonuna kadar çalışmadan yaşayabileceğimi anlatmmak
 bkz herşeyi bırakıp sahil kasabasında entry girmek
 bkz 61 yaşından sonra ben mi çalışacam amk zangoçları
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz/&w=bg beyler sözleşmeyi uzatmış
