@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz vestel venüs vs atatürk heykeli
 bkz toplama bilgisayar vs atatürk kellesi
 bkz yerli arabanın arkaasına atatürk heykeli atıp gezdirmek
 bkz atatürk heykeli vs yerli ve milli araba
