@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz yersiz otomobilin yer bildirimi atması
 bkz şeyh said in gemi kazasında parmağı olması
 bkz emin adanurun gemiz kazasına sevinmesi
 bkz şey said vs said nursi
