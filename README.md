@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz süleyman yurdunda ilik gibi oğlanlar olduğu iddası
 https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdunda-defalarca-tecav%C3%BCz-edilen-%C3%A7ocuk/ bkz avukat fatih
 bkz heykel ile arabayı kıyaslayan cuckoldcu farelerle aynı oksijeni solumak
 bkz vestel venüs vs rte heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
