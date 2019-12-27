@@ -5,8 +5,8 @@
 
 <!-- 
 bkz heykel ile arabayı kıyaslayan cuckoldcu farelerle aynı oksijeni solumak
-bkz vestel venüs vs atatürk heykeli
-bkz toplama bilgisayar vs atatürk kellesi
+bkz vestel venüs vs rte heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
+bkz toplama bilgisayar vs  rte heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
 bkz yerli arabanın arkaasına atatürk heykeli atıp gezdirmek
 bkz atatürk heykeli vs yerli ve milli araba
 bkz hoşlanılan cucukoldun başka cucukolda yazması
