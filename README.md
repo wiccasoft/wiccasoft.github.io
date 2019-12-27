@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-27_02-29-27.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
+
 <!-- 
 bkz yersiz otomobilin yer bildirimi atması https://www.youtube.com/watch?v=2FxpNCvBV_s
 -->
