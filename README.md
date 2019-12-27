@@ -1,8 +1,8 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
-<!-- https://twitter.com/selwestere2626 
 <!-- 
+https://twitter.com/selwestere2626 
 bkz twitterin kukold kaynaması
 bkz one flew over the cuckoo's nest
 bkz elizabeth hurleyin oğlu kukold mu sorunsalı
