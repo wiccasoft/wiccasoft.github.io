@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz attığı golden sonra secdeye yatan futbolcu bkz mohammed salah
+https://www.uludagsozluk.com/k/att%C4%B1%C4%9F%C4%B1-golden-sonra-secdeye-yatan-futbolcu/&w=bg bkz mohammed salah
 bkz mehmet gürcan karakaş vs emin demin çölaşan
 bkz chp nin attığı yersiz tweet
 bkz norm enderin yerli arabaya sponsor olması
