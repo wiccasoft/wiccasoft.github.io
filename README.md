@@ -4,6 +4,8 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz masterchefmurat cuckold mu sorunsalı
+bkz masterchef rıfatın çok seksi olması
 bkz atatürk heykeli vs kanal istanbul
 bkz rte varken bık bık bık öten akboylar
 bkz rte nin çatlasanız da patlasanız da kanalı yardıracağı gerçeği
