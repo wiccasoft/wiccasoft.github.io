@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz kemal kılıçtaroğlanın grup toplantısı
 bkz işsizlerin ne kafası yaşaması
 bkz rte nefretinin insanların gözünü kör etmesi
 bkz cemal enginyurtu sahneden indiren adam https://www.youtube.com/watch?v=2KErN9bMrwM
