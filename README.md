@@ -1,7 +1,8 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
-bkz cemla enginyurtun mhp ye sokulmuş ajan olduğu iddaları
+bkz cemal enginyurtu sahneden indiren adam https://www.youtube.com/watch?v=2KErN9bMrwM
+bkz cemal enginyurtun mhp ye sokulmuş ajan olduğu iddaları
 https://www.uludagsozluk.com/e/42619877/ bkz akpnin kanalı açmak için kaza bile yaptırması
 bkz emin çölaşan vs şener şen
 https://www.youtube.com/watch?v=2FxpNCvBV_s  chicks dig the car
