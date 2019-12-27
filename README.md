@@ -5,6 +5,7 @@
 
 <!-- 
 bkz alex de souza va george hagi
+bkz ekrem imamopğlunun yerli otomobil tweeti ben üşünüyore
 bkz attığı golden sonra domalan futbolcular
 bkz attığı golden sonra emzik işareti yapan futbolcular
 bkz souyunma odasında seccade bulunduran futbolcula
