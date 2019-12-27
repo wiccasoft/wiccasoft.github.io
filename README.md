@@ -1,10 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
-bkz şeyh said niye isyan etmiyor sorunsalı
-bkz şeyh said şeyh mi şıh sorunsalı
-bkz şeyh said vatan haini mi sorunsalı
-bkz cerrahpaşalıların kanalın kuyusunu kazması
+bkz şeyh said in gemi kazasında parmağı olması
 bkz emin adanurun gemiz kazasına sevinmesi
 bkz şey said vs said nursi
 bkz adolf hitler niye türkiye saldırmıyor sorunsalı
