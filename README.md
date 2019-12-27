@@ -6,7 +6,7 @@ https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz ya
 bkz reisin wiki yi açmasına ses etmeyen akitler
 bkz reis pornhub ı açsın kampanyası
 bkz reis anamın üstünde beni yakalasa orospuluk anamdadır
-bkz pornhub ta anneyi rte nin üstünde görmek
+bkz pornhub ta rte nin  üstünde anneyi görmek
 bkz kardeşimsin pornhub
 -->
 
