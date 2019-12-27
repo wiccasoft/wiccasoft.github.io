@@ -5,6 +5,7 @@
 
 <!-- 
 bkz cuckoldcu dayı vs swingercı dayı
+bkz karl marx ın sakalları vs stalin bıyığı
 bkz bi milyon dolar verseler karının zencilere siktiri misin sorunsalı
 bkz tayyip emineyi bi gece sik dese siker misin sorunalı
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
