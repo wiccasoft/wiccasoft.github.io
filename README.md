@@ -7,6 +7,7 @@ https://www.timeanddate.com/astronomy/usa/new-york
 https://www.youtube.com/watch?v=jdjsGMl-yWI bi buçuk maçlık hatır
 https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 https://www.youtube.com/watch?v=2rqHCEIIjck mevzu fenerse
+https://t24.com.tr/haber/ersun-yanal-nazim-hikmet-in-siirini-fenerbahce-ye-uyarladi-en-guzel-sampiyonluklarimiz-henuz-kazanmadiklarimizdir,838652
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
