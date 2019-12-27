@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz heykel ile machinery equipment kıyaslayan farlerle aynı oksijeni solumak
+bkz heykel ile arabayı kıyaslayan farelerle aynı oksijeni solumak
 bkz vestel venüs vs atatürk heykeli
 bkz toplama bilgisayar vs atatürk kellesi
 bkz yerli arabanın arkaasına atatürk heykeli atıp gezdirmek
