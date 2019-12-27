@@ -4,7 +4,8 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz rte nin çatşasanız da patlasanız da kanalı yardıracağı gerçeği
+bkz rte varken bık bık bık öten akboylar
+bkz rte nin çatlasanız da patlasanız da kanalı yardıracağı gerçeği
 bkz rte nefretiyle kanal istanbula karşı çıkmak
 bkz cuckoldcu dayı vs swingercı dayı
 bkz karl marx ın sakalları vs stalin bıyığı
