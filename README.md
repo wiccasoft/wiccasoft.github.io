@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz muhammed salaha meslek önerileri
+bkz ussain bolta meslek önerileri
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the batmobile
 bkz arda turanın batmobile e osmanlı tuğrası koyalım önerisi
 -->
