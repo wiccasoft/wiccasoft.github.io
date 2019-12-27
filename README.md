@@ -10,7 +10,7 @@ bkz pornhub 2019 kukoldun en çok aratılan kategoriğ olması
 bkz kukold kategoriğde gezinirken enişteyi görmek
 bkz abisine sokan adama enişte diyen gavat
 bkz abisini istemeye gelen damadı terlik kovalayan velet
-https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahhaha
+https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahaha
  -->
 
 -->
