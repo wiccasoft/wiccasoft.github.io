@@ -2,39 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz yersiz mobil verken yerli mobil kullanmak
-bkz yerli otomobile amblem  önerileri
-bkz 96 lı veletlerin meslek önermesi 95 yılında üni ye girdim sağol almim evlat
-bkz mohammed salaha meslek önerileri
-bkz türkiyeyi siklememenin verdiği rahatlık
-bkz erkan tanın tan vakitleri zangoçluk yapması
-bkz haylaz şirine meslek önerileri
-bkz ergenlerin sürekli iş yüklemesi
-bkz herşeyi bırakıp sahil kasabasında entry girmek
-bkz 61 yaşından sonra ben mi çalışacam amk zangoçları
-bkz işsiz bi forum ergenine hayatımın sonuna kadar çalışmadan yaşayabileceğimi anlatmmak
-https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz/&w=bg beyler sözleşmeyi uzatmış
-https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-meslek-%C3%B6nerileri/
-bkz meslek odasının meslekten men etmesi
-https://www.youtube.com/watch?v=n31wcx2eZWA aldığım karar
-https://www.facebook.com/watch/?v=1010463862392162 ver mehteri
-https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
-bkz kadir mısıroğlan vs bartu küçükoğlan
-https://www.uludagsozluk.com/k/in%C5%9Faat-m%C3%BChendisi-erke%C4%9Fin-yads%C4%B1namaz-%C3%A7ekicili%C4%9Fi/ 
-https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg beyler adam it
-https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg adam itici beyler
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the car
-https://www.timeanddate.com/astronomy/usa/new-york
-https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır
-https://www.youtube.com/watch?v=jdjsGMl-yWI bi buçuk maçlık hatır
-https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
-https://www.youtube.com/watch?v=2rqHCEIIjck mevzu fenerse
-https://www.youtube.com/watch?v=6xEIwJx0m_w en güzeli kazanmadıklarımızdır
-https://www.youtube.com/watch?v=Yn4fQFC3lSE mevzu teknik adamlıksa gerisi teferruattır
-https://www.uludagsozluk.com/k/bu%C4%9Fra-%C3%B6ner/&w=bg beyler 91 liymiş 
-https://www.uludagsozluk.com/k/keman-%C3%A7alan-1-78-m-boyundaki-m%C3%BChendis/ vurduruyodur
-https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg mevzu iticilikse gerisi teferruattır
-https://t24.com.tr/haber/ersun-yanal-nazim-hikmet-in-siirini-fenerbahce-ye-uyarladi-en-guzel-sampiyonluklarimiz-henuz-kazanmadiklarimizdir,838652
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
