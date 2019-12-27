@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=jdjsGMl-yWI bi buçuk maçlık hatır
 https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 https://www.youtube.com/watch?v=2rqHCEIIjck mevzu fenerse
 https://www.youtube.com/watch?v=6xEIwJx0m_w en güzeli kazanmadıklarımızdır
+https://www.youtube.com/watch?v=Yn4fQFC3lSE mevzu teknik adamlıksa gerisi teferruattır
 https://t24.com.tr/haber/ersun-yanal-nazim-hikmet-in-siirini-fenerbahce-ye-uyarladi-en-guzel-sampiyonluklarimiz-henuz-kazanmadiklarimizdir,838652
 -->
 
