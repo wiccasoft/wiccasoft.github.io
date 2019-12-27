@@ -4,6 +4,8 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz yerli arabanın arkaasına atatürk heykeli atıp gezdirmek
+bkz atatürk heykeli vs yerli ve milli araba
 bkz hoşlanılan cucukoldun başka cucukolda yazması
 bkz masterchefmurat cuckold mu sorunsalı
 bkz masterchef rıfatın çok seksi olması
