@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.facebook.com/watch/?v=1010463862392162 ver mehteri
+https://www.uludagsozluk.com/e/42619001/ zuhhahaha
 https://www.uludagsozluk.com/k/in%C5%9Faat-m%C3%BChendisi-erke%C4%9Fin-yads%C4%B1namaz-%C3%A7ekicili%C4%9Fi/ 
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg beyler adam it
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg adam itici beyler
