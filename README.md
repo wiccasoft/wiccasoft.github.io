@@ -5,6 +5,7 @@
 bkz erkan tanın tan vakti çanı çalması
 bkz erkan tanın zangoçlık yapması
 bkz 61 yaşından sonra ben mi çalışacam amk zangoçları
+https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-meslek-%C3%B6nerileri/
 bkz meslek odasının meslekten men etmesi
 https://www.youtube.com/watch?v=n31wcx2eZWA aldığım karar
 https://www.facebook.com/watch/?v=1010463862392162 ver mehteri
