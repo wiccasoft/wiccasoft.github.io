@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
 bkz şey said şeyh miy şıh mıydı sorunsalı
+bkz rte nin instagrama attığı yerli araba fotosu
 bkz facebook 15 temmuz gazileri grubuna yeni üyeler katılması
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz facebook dersimli atatürkçüler grubunun kapanması
