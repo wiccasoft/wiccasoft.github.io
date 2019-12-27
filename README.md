@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz rte nefretiyle kanal istanbula karşı çıkmak
 bkz cuckoldcu dayı vs swingercı dayı
 bkz karl marx ın sakalları vs stalin bıyığı
 bkz bi milyon dolar verseler karının zencilere siktiri misin sorunsalı
