@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
-https://www.uludagsozluk.com/e/42620268/ eywallah gözümsün kardeş
+https://www.uludagsozluk.com/e/42620268/ eywallah gözümsün kardeş irtibatı koparmayalım
 bkz şener şenin sesiziliğini bozması yerli arabaya ne diyem mahmut deyem demesi
 https://www.youtube.com/watch?v=I5bIQWjUS7o bk 190 yerli arabayla gezerim ben
 https://www.uludagsozluk.com/e/42620236/ bkz aleyna tilkinin ayısı
