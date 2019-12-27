@@ -7,9 +7,8 @@
 bkz alex de souza va george hagi
 bkz attığı golden sonra domalan futbolcular
 bkz attığı golden sonra emzik işareti yapan futbolcular
-bkz souyunma odasında seccade bulunduran futbolcular
-bkz ekrem imamaoğlunun kaleciyken çok gol kurtardım demesi
-bkz attığı golden sonra susu işareti yapan futbolcular
+bkz souyunma odasında seccade bulunduran futbolcula
+bkz attığı golden sonra sus işareti yapaıp sırt göt çatalı gösteren futbolcular
 bkz radamel falcao garica nın göt kasları vs arda turanın göt kasları
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg bkz hantal forvet
 https://www.uludagsozluk.com/k/att%C4%B1%C4%9F%C4%B1-golden-sonra-secdeye-yatan-futbolcu/&w=bg bkz mohammed salah
