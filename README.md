@@ -3,10 +3,10 @@
 
 <!-- https://twitter.com/selwestere2626 
 <!-- 
-bkz 2019 kukoldun en çok aratılan kategoriğ olması
+bkz one flew over the cuckoo's nest
+bkz pornhub 2019 kukoldun en çok aratılan kategoriğ olması
 bkz kukold kategoriğ
 bkz sagopanın kukulu arabesk rapi bırakması
-bkz one flew over the cuckoo's nest
 bkz abisine sokan adama enişte diyen gavat
 bkz abisini istemeye gelen damadı terlik kovalayan velet
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz hayallerde yaşıyor bazı ibneler
