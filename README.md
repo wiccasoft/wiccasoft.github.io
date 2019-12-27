@@ -1,6 +1,8 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz facebook rte hayranları sayfasının artması
+https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz facebook dersimli atatürkçüler grubunun kapanması
 bkz hüseyin bihal atsız vs mehemet akif ersoy vs bülent ersoy
 bkz kemal kılıçtaroğlunun grup toplantısında levent göke sayın göt demesi
