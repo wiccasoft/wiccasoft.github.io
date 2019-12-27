@@ -5,6 +5,8 @@ https://www.uludagsozluk.com/e/42620236/ bkz aleyna tilkinin ayısı
 https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz yatiy 
 bkz reisin wiki yi açmasına ses etmeyen akitler
 bkz reis pornhub ı açsın kampanyası
+bkz reis anamın üstünde yakalasa orospuluk anamdadır
+bkz pornhub ta anneyi rte nin üstünde görmek
 bkz kardeşimsin pornhub
 -->
 
