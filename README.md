@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
-https://www.uludagsozluk.com/e/42619877/ bkz akpnin köprüyüy yapmak için kaza bile yaptırması
+https://www.uludagsozluk.com/e/42619877/ bkz akpnin kanalı açmak için kaza bile yaptırması
 bkz emin çölaşan vs şener şen
 https://www.youtube.com/watch?v=2FxpNCvBV_s  chicks dig the car
 bkz https://www.youtube.com/watch?v=P5hnHmsUjn4 bkz yerli arabasını vermeyen akp çocukları
