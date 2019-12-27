@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz erkan tanın ver mehteri demesi
+https://www.youtube.com/watch?v=n31wcx2eZWA aldığım karar
 bkz kadir mısıroğlan vs bartu küçükoğlan
 bkz erkan tanın tan vakti çanı çalması
 bkz erkan tanın zangoçlık yapması
