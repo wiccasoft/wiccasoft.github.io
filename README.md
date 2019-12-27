@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz emin adanurun gemiz kazasına sevinmesi
 bkz şey said vs said nursi
 bkz adolf hitler niye türkiye saldırmıyor sorunsalı
 bkz şey said şeyh miy şıh mıydı sorunsalı
