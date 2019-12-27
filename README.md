@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
-bkz 61 yaşında ailesiyle yaşayan erkek
+bkz 61 yaşında dünürüyle yaşayan erkek
 https://www.uludagsozluk.com/e/42620268/ eywallah  kardeş irtibatı koparmayalım
 bkz şener şenin sesiziliğini bozması yerli arabaya ne diyem mahmut deyem demesi
 https://www.youtube.com/watch?v=I5bIQWjUS7o bk 190 yerli arabayla gezerim ben
