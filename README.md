@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+https://www.youtube.com/watch?v=2FxpNCvBV_s bkz chicks dig the car
 bkz https://www.youtube.com/watch?v=P5hnHmsUjn4 bkz yerli arabasını vermeyen akp çocukları
 https://www.uludagsozluk.com/e/42620268/ eywallah  kardeş irtibatı koparmayalım
 bkz şener şenin sesiziliğini bozması yerli arabaya ne diyem mahmut deyem demesi
