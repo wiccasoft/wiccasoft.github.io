@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz 27 aralık 2019 cemal enginyurt köşe yazısı
 https://www.uludagsozluk.com/e/42619877/ bkz akpnin kanalı açmak için kaza bile yaptırması
 bkz emin çölaşan vs şener şen
 https://www.youtube.com/watch?v=2FxpNCvBV_s  chicks dig the car
