@@ -1,13 +1,6 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
-<!-- 
-bkz usain bolta meslek önerileri
-https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the batmobile
-https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
-https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
--->
-
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
 
 <!-- 
