@@ -1,12 +1,10 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
-bkz 61 yaşında dünürüyle yaşayan erkek
 bkz https://www.youtube.com/watch?v=P5hnHmsUjn4 bkz yerli arabasını vermeyen akp çocukları
-https://www.uludagsozluk.com/k/heykel-dururken-araba-yapmak/ bkz nası koydu ama tayyip erdoğan
 https://www.uludagsozluk.com/e/42620268/ eywallah  kardeş irtibatı koparmayalım
 bkz şener şenin sesiziliğini bozması yerli arabaya ne diyem mahmut deyem demesi
-https://www.youtube.com/watch?v=I5bIQWjUS7o bk 190 yerli arabayla gezerim ben
+https://www.youtube.com/watch?v=I5bIQWjUS7o bkz 190 yerli arabayla gezerim ben
 https://www.uludagsozluk.com/e/42620236/ bkz aleyna tilkinin ayısı
 https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz yatiy 
 bkz reisin wiki yi açmasına ses etmeyen akitler
