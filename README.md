@@ -4,40 +4,6 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz alex de souza va george hagi
-bkz ekrem imamopğlunun yerli otomobil tweeti ben üşünüyore
-bkz attığı golden sonra domalan futbolcular
-bkz attığı golden sonra emzik işareti yapan futbolcular
-bkz souyunma odasında seccade bulunduran futbolcula
-bkz attığı golden sonra sus işareti yapaıp sırt göt çatalı gösteren futbolcular
-bkz radamel falcao garica nın göt kasları vs arda turanın göt kasları
-https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg bkz hantal forvet
-https://www.uludagsozluk.com/k/att%C4%B1%C4%9F%C4%B1-golden-sonra-secdeye-yatan-futbolcu/&w=bg bkz mohammed salah
-bkz mehmet gürcan karakaş vs emin demin çölaşan
-bkz chp nin attığı yersiz tweet
-bkz norm enderin yerli arabaya sponsor olması
-https://www.youtube.com/watch?v=kKRmbS_b250 bkz zuahhahaha
-bkz pogba vs zlatan https://www.youtube.com/watch?v=kKRmbS_b250
-bkz yersiz otomobile akboyları atıp yardımak https://www.youtube.com/watch?v=I5bIQWjUS7o
-bkz karl marx'in sakallari vs ahmet kayanın sakalları
-bkz süleyman yurdunda ilik gibi oğlanlar olduğu iddası
-bkz süleymancı oğlan hoplatırken dikkat edilecek hususlar
-https://www.uludagsozluk.com/k/s%C3%BCleymanc%C4%B1-yurdunda-defalarca-tecav%C3%BCz-edilen-%C3%A7ocuk/ bkz avukat fatih
-bkz heykel ile arabayı kıyaslayan cuckoldcu farelerle aynı oksijeni solumak
-bkz vestel venüs vs rte heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
-bkz toplama bilgisayar vs  rte heykeli https://www.youtube.com/watch?v=Afq6UM-01Xs
-bkz yerli arabanın arkaasına atatürk heykeli atıp gezdirmek
-bkz atatürk heykeli vs yerli ve milli araba
-bkz hoşlanılan cucukoldun başka cucukolda yazması
-bkz masterchefmurat cuckold mu sorunsalı
-bkz masterchef rıfatın çok seksi olması
-bkz atatürk heykeli vs kanal istanbul
-bkz rte varken bık bık bık öten akboylar
-bkz rte nin çatlasanız da patlasanız da kanalı yardıracağı gerçeği
-bkz cuckoldcu dayı vs swingercı dayı
-bkz karl marx ın sakalları vs stalin bıyığı
-bkz bi milyon dolar verseler karının zencilere siktiri misin sorunsalı
-bkz tayyip emineyi bi gece sik dese siker misin sorunalı
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz yersiz otomobilin yer bildirimi atması https://www.youtube.com/watch?v=2FxpNCvBV_s
 https://www.youtube.com/watch?v=HnIlcjd2GAY lol
