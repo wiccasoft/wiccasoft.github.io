@@ -3,6 +3,7 @@
 
 <!-- https://twitter.com/selwestere2626 
 <!-- 
+bkz kukusu yanan erkek
 bkz türklerin cockold a cuckold demesi
 bkz one flew over the cuckoo's nest
 bkz abisine sokan adama enişte diyen gavat
