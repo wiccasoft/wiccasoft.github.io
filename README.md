@@ -4,6 +4,7 @@
 <!-- 
 bkz erkan tanın tan vakti çanı çalması
 bkz erkan tanın zangoçlık yapması
+bkz meslek odasının meslekten men etmesi
 https://www.youtube.com/watch?v=n31wcx2eZWA aldığım karar
 https://www.facebook.com/watch/?v=1010463862392162 ver mehteri
 https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
