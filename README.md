@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz rte'nin hocasının mehmet akif ersoy'a kafir demesi
 bkz kemal kılıçtaroğlanın grup toplantısı
 bkz işsizlerin ne kafası yaşaması
 bkz rte nefretinin insanların gözünü kör etmesi
