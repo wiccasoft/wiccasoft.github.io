@@ -3,6 +3,7 @@
 
 <!-- 
 bkz erkan tanın zangoçluk yapması
+bkz haylaz şirine meslek önerileri
 bkz herşeyi bırakıp sahil kasabasında entry girmek
 bkz 61 yaşından sonra ben mi çalışacam amk zangoçları
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz/&w=bg beyler sözleşmeyi uzatmış
