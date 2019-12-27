@@ -5,6 +5,7 @@
 
 <!-- 
 bkz alex de souza va george hagi
+bkz ekrem imamaoğlunun kaleciyken çok gol kurtardım demesi
 bkz attığı golden sonra susu işareti yapan futbolcular
 bkz radamel falcao garica nın göt kasları vs arda turanın göt kasları
 https://www.uludagsozluk.com/k/zlatan-ibrahimovic/&w=bg bkz hantal forvet
