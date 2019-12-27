@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz şener şenin sesziliğini bozması n diyem mahmut deyem
 https://www.youtube.com/watch?v=I5bIQWjUS7o bk 190 yerli arabayla gezerim ben
 https://www.uludagsozluk.com/e/42620236/ bkz aleyna tilkinin ayısı
 https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz yatiy 
