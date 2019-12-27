@@ -1,13 +1,6 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
-<!-- 
-bkz one flew over the cuckoo's nest
-bkz abisine sokan adama enişte diyen gavat
-bkz abisini istemeye gelen damadı terlik kovalayan velet
-https://www.uludagsozluk.com/k/cuckold/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahhaha
- -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
 
