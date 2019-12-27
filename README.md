@@ -1,19 +1,6 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
-<!-- 
-https://twitter.com/selwestere2626 
-bkz twitterin kukold kaynaması
-bkz one flew over the cuckoo's nest
-bkz elizabeth hurleyin oğlu kukold mu sorunsalı
-bkz pornhub 2019 kukoldun en çok aratılan kategoriğ olması
-bkz kukold kategoriğde gezinirken enişteyi görmek
-bkz abisine sokan adama enişte diyen gavat
-bkz abisini istemeye gelen damadı terlik kovalayan velet
-https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahaha
- -->
-
-
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
 
