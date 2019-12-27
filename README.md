@@ -4,6 +4,7 @@
 <!-- 
 https://www.timeanddate.com/astronomy/usa/new-york
 https://www.youtube.com/watch?v=jdjsGMl-yWI bi buçuk maçlık hatır yok muydu
+https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
