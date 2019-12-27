@@ -3,9 +3,9 @@
 
 <!-- 
 bkz usain bolta meslek önerileri
-https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the batmobile
 https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
+https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 https://www.uludagsozluk.com/k/bu%C4%9Fra-%C3%B6ner/&w=bg beyler 91 liymiş 
 https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg beyler adam tam bi it
 https://www.uludagsozluk.com/k/keman-%C3%A7alan-1-78-m-boyundaki-m%C3%BChendis/ vurduruyodur
