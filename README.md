@@ -2,9 +2,9 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-https://www.youtube.com/watch?v=n31wcx2eZWA aldığım karar
 bkz erkan tanın tan vakti çanı çalması
 bkz erkan tanın zangoçlık yapması
+https://www.youtube.com/watch?v=n31wcx2eZWA aldığım karar
 https://www.facebook.com/watch/?v=1010463862392162 ver mehteri
 https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
 bkz kadir mısıroğlan vs bartu küçükoğlan
