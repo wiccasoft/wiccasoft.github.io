@@ -4,7 +4,7 @@
 https://www.uludagsozluk.com/e/42620232/ beyler adam öldü galiba hareketsiz yatiy 
 bkz reisin wiki yi açmasına ses etmeyen akitler
 bkz reis pornhub ı açsın kampanyası
-bkz kardeşimsin ponhub
+bkz kardeşimsin pornhub
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
