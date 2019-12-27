@@ -13,7 +13,7 @@ bkz abisini istemeye gelen damadı terlik kovalayan velet
 https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahaha
  -->
 
--->
+
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
 
