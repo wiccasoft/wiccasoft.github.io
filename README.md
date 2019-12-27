@@ -6,6 +6,7 @@
 <!-- 
 bkz alex de souza va george hagi
 bkz attığı golden sonra domalan futbolcular
+bkz attığı golden sonra emzik işareti yapan futbolcular
 bkz souyunma odasında seccade bulunduran futbolcular
 bkz ekrem imamaoğlunun kaleciyken çok gol kurtardım demesi
 bkz attığı golden sonra susu işareti yapan futbolcular
