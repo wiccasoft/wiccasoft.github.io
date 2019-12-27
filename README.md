@@ -3,7 +3,7 @@
 
 <!-- 
 bkz one flew over the cuckoo's nest
-bkz kız istemeye gelen damadı terlik kovalayan velet
+bkz kardeşini istemeye gelen damadı terlik kovalayan velet
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahhaha
  -->
