@@ -5,6 +5,7 @@
 
 <!-- 
 bkz yersiz otomobilin yer bildirimi atması https://www.youtube.com/watch?v=2FxpNCvBV_s
+https://www.youtube.com/watch?v=HnIlcjd2GAY lol
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
