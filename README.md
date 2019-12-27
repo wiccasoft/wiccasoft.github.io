@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the batmobile
+bkz arda turanın batmobile e osmanlı tuğrası koyalım önerisi
 -->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
