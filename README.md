@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz hoşlanılan cucukoldun başka cucukolda yazması
 bkz masterchefmurat cuckold mu sorunsalı
 bkz masterchef rıfatın çok seksi olması
 bkz atatürk heykeli vs kanal istanbul
