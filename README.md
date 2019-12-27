@@ -4,6 +4,7 @@
 <!-- https://twitter.com/selwestere2626 
 <!-- 
 bkz kukusu yanan erkek
+bkz kukold kategoriğ
 bkz sagopanın kukulu arabesk rapi bırakması
 bkz türklerin cockold a cuckold demesi
 bkz one flew over the cuckoo's nest
