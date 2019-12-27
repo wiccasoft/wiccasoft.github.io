@@ -3,6 +3,7 @@
 
 <!-- 
 bkz one flew over the cuckoo's nest
+bkz abisine sokan adama enişte diyen gavat
 bkz abisini istemeye gelen damadı terlik kovalayan velet
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/e/42619001/ zuhahahaahahahahhaha
