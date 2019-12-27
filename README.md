@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the car
 https://www.timeanddate.com/astronomy/usa/new-york
+https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır
 https://www.youtube.com/watch?v=jdjsGMl-yWI bi buçuk maçlık hatır
 https://www.youtube.com/watch?v=KXnzNbuV84c barbaros hayret paşa
 https://www.youtube.com/watch?v=2rqHCEIIjck mevzu fenerse
