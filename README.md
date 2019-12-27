@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz yerli otomobile amblem  önerileri
 bkz 96 lı veletlerin meslek önermesi 95 yılında üni ye girdim sağol almim evlat
 bkz mohammed salaha meslek önerileri
 bkz türkiyeyi siklememenin verdiği rahatlık
