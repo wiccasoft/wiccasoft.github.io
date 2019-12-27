@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+bkz norm enderin yerli arabaya sponsor olması
 https://www.youtube.com/watch?v=kKRmbS_b250 bkz zuahhahaha
 bkz pogba vs zlatan https://www.youtube.com/watch?v=kKRmbS_b250
 bkz yersiz otomobile akboyları atıp yardımak https://www.youtube.com/watch?v=I5bIQWjUS7o
