@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz şeyh said vatan haini mi sorunsalı
 bkz cerrahpaşalıların kanalın kuyusunu kazması
 bkz emin adanurun gemiz kazasına sevinmesi
 bkz şey said vs said nursi
