@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg adam itici beyler
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the car
 https://www.timeanddate.com/astronomy/usa/new-york
 https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır
