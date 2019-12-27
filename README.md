@@ -4,6 +4,9 @@
 <!-- 
 bkz usain bolta meslek önerileri
 https://www.youtube.com/watch?v=2FxpNCvBV_s chicks dig the batmobile
+https://www.uludagsozluk.com/e/42619001/ zuhhahahaahahahahhaha
+https://www.uludagsozluk.com/k/bartu-k%C3%BC%C3%A7%C3%BCk%C3%A7a%C4%9Flayan/&w=bg beyler adam tam bi it
+https://www.uludagsozluk.com/k/keman-%C3%A7alan-1-78-m-boyundaki-m%C3%BChendis/ vurduruyodur
 bkz arda turanın batmobile e osmanlı tuğrası koyalım önerisi
 -->
 
