@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz 96 lı veletlerin meslek önermesi
+bkz 96 lı veletlerin meslek önermesi 94 yılında üni ye girdim sağol almim evlat
 bkz mohammed salaha meslek önerileri
 bkz türkiyeyi siklememenin verdiği rahatlık
 bkz erkan tanın tan vakitleri zangoçluk yapması
