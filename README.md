@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz erkan tanın zangoçluk yapması
+bkz erkan tanın tan vakitleri zangoçluk yapması
 bkz haylaz şirine meslek önerileri
 bkz ergenlerin sürekli iş yüklemesi
 bkz herşeyi bırakıp sahil kasabasında entry girmek
