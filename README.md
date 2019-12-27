@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 <!-- 
+bkz emin çölaşan vs şener şen
 https://www.youtube.com/watch?v=2FxpNCvBV_s  chicks dig the car
 bkz https://www.youtube.com/watch?v=P5hnHmsUjn4 bkz yerli arabasını vermeyen akp çocukları
 bkz reisin wiki yi açmasına ses etmeyen akitler
