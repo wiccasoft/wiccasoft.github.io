@@ -1,18 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
 
-<!-- bkz boy kompleksi olmayan 151 cm lik küçük pipili esprili erkek -->
-<!-- bkz taylan antalyalıysa atlan alanyalı mı sorunsalı -->
-<!-- bkz berat albayrakın penis yüzüğü sipariş etmesi -->
-<!-- bkz tayyipin berata kıza çakarken krem sür demesi -->
-<!-- bkz masterchef shao kahn neden masterchef turkeyden kovuldu sorunsalı -->
-<!-- berat albayrak abdurrahim albayraka kayınpeder mi diyor sorunsalı -->
-<!-- bkz azer bülbül dinleyen 5 feeetlik kız -->
-<!-- bkz berat albayrak  vs abdurrahim albayrak -->
 <!-- bkz kanal istanbul hangi frekansta sorunsalı -->
-<!-- bkz kadir mısıroğlu vs migros poşeti -->
-<!-- bkz arda alanyalının taylan antalyalıya yavşak demesi -->
-<!-- bkz karl marxın sakalı vs freddie mercury nin bıyıkları -->
 <!-- https://www.youtube.com/watch?v=-tox0xxFuE4 zuahhahahaha -->
 
 
