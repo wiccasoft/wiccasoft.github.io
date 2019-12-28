@@ -5,6 +5,7 @@
 
 <!-- bkz yerli otosu olmayan erkeğin namusu -->
 <!-- bkz sözlük kızlarının yerli otoya bakışı -->
+<!--bkz sözlük kızına yerli oto gönderip bi vuruş kaç vuruş demek -->
 <!-- bkz taylan antalyalı nın antalya togg un arkasında açıklaması -->
 <!-- bkz organ bencegayin yerli oto reklamında bedava oynarım teklifi -->
 <!-- bkz yerli kargonun yerli toggdan 10000 tane sipariş etmesi --> 
