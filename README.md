@@ -3,19 +3,12 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
 <!-- bkz murat kekillinin yerli sibel kekilli için beste yapması -->
 <!-- bkz murat kekilinin bu akşam yerli otoya binerim demesi -->
 <!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
-<!-- bkz yerli otoya rot balans ayarı yapılıyo mu sorunsalı --<
+<!-- bkz yerli otoya rot balans ayarı yapılıyo mu sorunsalı -->
 <!-- bkz radamel falcao garcia nın yerli otodan 4 tane sipariş etmesi -->
-<!-- bkz yerli otoda la bize her yer angara dinlemek -->
-<!-- bkz radamel falcao garcia nın togg eyi araba alacak ben demesi -->
-<!-- bkz norm ender togg a sponsor olması -->
-<!-- bkz radamel falcao garcia nın bilalden ok atmayı öğrenmesi -->
-<!-- bkz türkiyeye uzay gemisi yollayıp 23 nisan da bindirmek -->
-<!-- bkz kapısı togg sesi çıkıyosa olmuştur o araba -->
 <!-- https://www.youtube.com/watch?v=U8WQTj7iEBw bkz  yerli  oto için yaptığım yersiz beste -->
 
 [![Image](skynet/Screenshot_2019-12-27_02-24-21.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
