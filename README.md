@@ -8,6 +8,7 @@
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
 <!-- bkz türklerin kendini nimetten saymaları -->
 <!-- bkz masterchef rıfat vs masterchef murat -->
+<!--bkz masterchef güzide vs masterchef anasınamı artık -->
 <!-- bkz türklerin arap nefertinii sebebi 2 .dünya savaşında arkadan bıçaklama mevzusu mu sorunsalı-->
 <!-- bkz 2. amdulmecid vs 5. abdulmahmut -->
 <!-- bkz 2. abddulhamdi cuckold mu sorunsalı -->
