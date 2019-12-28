@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!--bkz radamel falcao garcia nın bilalden ok atmayı öğrenmesi -->
+<!-- bkz radamel falcao garcia nın bilalden ok atmayı öğrenmesi -->
 <!-- bkz türkiyeye uzay gemisi yollayıp 23 nisan da bindirmek -->
 <!-- bkz kapısı togg sesi çıkıyosa olmuştur o araba -->
 <!-- https://www.youtube.com/watch?v=U8WQTj7iEBw bkz  yerli  oto için yaptığım yersiz beste -->
