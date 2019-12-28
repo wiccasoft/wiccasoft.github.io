@@ -3,7 +3,7 @@
 
 <!-- bkz kanal istanbul hangi frekansta sorunsalı -->
 <!-- https://www.youtube.com/watch?v=-tox0xxFuE4 zuahhahahaha -->
-<!-- bkz masterchef new zealand vs mastarchef brazil vs masterchef shao kahn -->
+<!-- bkz masterchef shao kahn vs masterchef murat -->
 <!-- bkz taylan antalyalı nın toggu yalarım demesi -->
 <!-- bkz togg cuckold mu sorunsalı -->
 <!-- bkz yerli otonun açığını bulup yalamak
