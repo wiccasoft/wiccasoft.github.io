@@ -3,10 +3,8 @@
 
 <!-- https://www.youtube.com/watch?v=EhYQAnz_xG8 ring of fire -->
 
-[![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
+[![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
 
-<!-- bkz kanal istanbul hangi frekansta sorunsalı -->
-<!-- https://www.youtube.com/watch?v=-tox0xxFuE4 zuahhahahaha -->
 
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
@@ -17,7 +15,6 @@
 <!-- https://www.youtube.com/watch?v=pKB9JqLAHNY smartcity-->
 <!-- https://www.youtube.com/watch?v=o3wS2tdlZtE smartdata -->
 
-<!-- https://www.space.com/ring-of-fire-solar-eclipse-2019-photos-videos.html -->
 
 [![Image](skynet/Screenshot_2019-12-27_02-29-27.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
