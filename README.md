@@ -4,10 +4,7 @@
 <!-- bkz berat albayrak tayyipin kızına her gece çakıyo mudur sorunsalı -->
 <!-- bkz masterchef shao kahn neden masterchef turkeyden kovuldu sorunsalı -->
 <!-- berat albayrak abdurrahim albayraka kayınpeder mi diyor sorunsalı -->
-<!-- bkz azer bülbül dinleyen 160 cmlik kız -->
-<!-- bkz mahsun izzet dinleyen 5 feeetlik kız -->
-<!-- bkz 5 feet 11 inch lik erkek 5 feet 9 inchlik kız ilişkisi -->
-<!-- bkz 154 lük kız vs 155 lik erkek ilişkisi -->
+<!-- bkz azer bülbül dinleyen 5 feeetlik kız -->
 <!-- bkz berat albayrak  vs abdurrahim albayrak -->
 <!-- bkz kanal istanbul hangi frekansta sorunsalı -->
 <!-- bkz kadir mısıroğlu vs migros poşeti -->
