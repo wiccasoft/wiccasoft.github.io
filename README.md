@@ -7,6 +7,7 @@
 
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
 <!-- bkz shao khan cucukold mu sorunsalı -->
+<!-- bkz masterchef shao khan vs gevşekler -->
 <!-- bkz türklerdeki cucukold kategoriğ sevdası sebebi ney sorunsalı -->
 
 [![Image](skynet/Screenshot_2019-12-28_05-34-15.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
