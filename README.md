@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
 
-<!-- bkz masterchef shao kahn neden masterchef turkeyden kovuldu sorunsalı --<
+<!-- bkz masterchef shao kahn neden masterchef turkeyden kovuldu sorunsalı -->
 <!-- berat albayrak abdurrahim albayraka kayınpeder mi diyor sorunsalı -->
 <!-- bkz azer bülbül dinleyen 160 cmlik kız -->
 <!-- bkz 160 cmlik kız vs 155 cm lik kız -->
