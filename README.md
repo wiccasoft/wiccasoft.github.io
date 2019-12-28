@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!-- bkz yerli kargonun toggdan 10000 tane sipariş etmesi --> 
+<!-- bkz yerli kargonun yerli toggdan 10000 tane sipariş etmesi --> 
 <!-- bkz kamil koçun yerli otodan servis arabası yaparız demesi -->
 <!-- bkz sibel kekillinin yerli otodan 2 tane sipariş etmesi -->
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
