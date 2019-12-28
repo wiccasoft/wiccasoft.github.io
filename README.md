@@ -3,7 +3,6 @@
 
 <!-- bkz berat albayrakın penis yüzüğü sipariş etmesi -->
 <!-- bkz tayyipin berata kıza çakarken krem sür demesi -->
-<!-- bkz berat albayrak tayyipin kızına her gece çakıyo mudur sorunsalı -->
 <!-- bkz masterchef shao kahn neden masterchef turkeyden kovuldu sorunsalı -->
 <!-- berat albayrak abdurrahim albayraka kayınpeder mi diyor sorunsalı -->
 <!-- bkz azer bülbül dinleyen 5 feeetlik kız -->
