@@ -1,8 +1,10 @@
 
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
-<!-- https://www.timeanddate.com/eclipse/in/japan/tokyo -->
-<!-- https://www.youtube.com/watch?v=EhYQAnz_xG8 ring of fire -->
+<!-- 
+https://www.timeanddate.com/eclipse/in/japan/tokyo 
+https://www.timeanddate.com/eclipse/in.html
+-->
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
 
