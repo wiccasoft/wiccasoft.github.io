@@ -6,7 +6,10 @@
 <!-- https://www.youtube.com/watch?v=o3wS2tdlZtE smartdata -->
 <!-- bkz yapay zeka mesleklerini elinden alınca mal gibi kalacak olan insanlar -->
 <!-- bkz yapay zekanın insanlara ihtiyacı olmadığı gerçeği -->
+<!-- bkz tekbir getirip kafa kesen yapak zeka -->
 <!-- bkz şu ezanlarki şehadetlerin temeli diyip kafa kesen yapay zeka -->
+<!-- bkz ya allah bismillah alahu ekber diyen yapak zeka -->
+<!-- bkz tekbir getirip kafa kesen yapak zeka -->
 <!-- bkz ışıdın hristyan rehinelerin kafasını kesip sizin de sonunuz böyle olacak tehdidi -->
 <!-- bkz kendine kod yazmayı öğreten algoritma -->
 <!-- bkz türkler fabrika açmadan nasıl araba yaptılar sorunsalı -->
