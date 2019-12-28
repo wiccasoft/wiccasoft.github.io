@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
 
 <!-- bkz kanal istanbul hangi frekansta sorunsalı -->
+<!-- bkz arda alanyalının taylan antalyalıya yavşak demesi -->
+<!-- bkz karl marxın sakalı vs freddie mercury nin bıyıkları -->
 <!-- https://www.youtube.com/watch?v=-tox0xxFuE4 zuahhahahaha -->
 
 
