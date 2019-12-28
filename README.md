@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!--bkz radamel falcao garcia nın yeri otodan 4 tane sipariş etmesi -->
+<!-- bkz radamel falcao garcia nın yeri otodan 4 tane sipariş etmesi -->
 <!-- bkz yerli otoda la bize her yer angara dinlemek -->
 <!-- bkz radamel falcao garcia nın togg eyi araba alacak ben demesi -->
 <!-- bkz norm ender togg a sponsor olması -->
