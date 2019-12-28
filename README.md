@@ -7,7 +7,7 @@
 <!-- bkz yapay zeka mesleklerini elinden alınca mal gibi kalacak olan insanlar -->
 <!-- bkz yapay zekanın insanlara ihtiyacı olmadığı gerçeği -->
 <!-- bkz kendine kod yazmayı öğreten algoritma -->
-<!-- bkz türkler fabrika açmadan nasıl araba yaptılalar sorunsalı -->
+<!-- bkz türkler fabrika açmadan nasıl araba yaptılar sorunsalı -->
 
 [![Image](skynet/Screenshot_2019-12-27_02-29-27.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
