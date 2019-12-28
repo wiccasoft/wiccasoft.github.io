@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14)
 
-<!-- bkz masterchef new zealand vs mastarchef brazil -->
+<!-- bkz masterchef new zealand vs mastarchef brazil vs masterchef shao kahn -->
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
