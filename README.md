@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
+<!-- bkz kamil koçun yerli otodan servis arabası yaparız demesi --<
 <!-- bkz sibel kekillinin yerli otodan 2 tane sipariş etmesi -->
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
 <!-- bkz murat kekillinin yerli sibel kekilli için beste yapması -->
