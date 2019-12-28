@@ -9,15 +9,11 @@
 <!-- bkz shao khan cucukold mu sorunsalı -->
 <!-- bkz türklerdeki cucukold kategoriğ sevdadı -->
 <!-- bkz arapların türk nefreti sebebi ney sorunsalı -->
-<!-- bkz türklerin salak olma sebebi atatürk mü sorunsalı -->
-<!-- bkz türkleri kimsenin sevmeme sebebi masterchef rıfat mı sorunsalı -->
-<!-- bkz türklerdeki arap düşmanlığı sebebi abdulmecid mi  sorunsalı -->
 <!-- bkz masterchef rıfatın seksi olduğu iddaları -->
 <!-- bkz türklerin kendini nimetten saymaları -->
 <!-- bkz masterchef rıfat vs masterchef murat -->
 <!--bkz masterchef güzide vs masterchef anasınamı artık -->
-<!-- bkz türklerin arap nefertinii sebebi 2 .dünya savaşında arkadan bıçaklama mevzusu mu sorunsalı-->
-<!-- bkz 2. amdulmecid vs 5. abdulmahmut -->
+
 <!-- bkz 2. abddulhamdi cuckold mu sorunsalı -->
 
 [![Image](skynet/Screenshot_2019-12-28_05-34-15.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
