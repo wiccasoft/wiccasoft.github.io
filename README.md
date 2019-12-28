@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!-- bkz yerli otoyu açığını bulup yalamak
+<!-- bkz yerli otonun açığını bulup yalamak
 https://www.youtube.com/watch?v=vB1tFPxgK9I-->
 
 <!-- bkz yerli oto yerde mi gidecek sorunsalı -->
