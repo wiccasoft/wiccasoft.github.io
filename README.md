@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!-- bkz yerli otosu olmayan erkeğin namusu --<
+<!-- bkz yerli otosu olmayan erkeğin namusu -->
+<!-- bkz sözlük kızlarının yerli otoya bakışı -->
 <!-- bkz taylan antalyalı nın antalya togg un arkasında açıklaması -->
 <!-- bkz organ bencegayin yerli oto reklamında bedava oynarım teklifi -->
 <!-- bkz yerli kargonun yerli toggdan 10000 tane sipariş etmesi --> 
