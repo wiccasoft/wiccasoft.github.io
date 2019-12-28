@@ -8,7 +8,7 @@
 <!-- bkz yapay zekanın insanlara ihtiyacı olmadığı gerçeği -->
 <!-- bkz kendine kod yazmayı öğreten algoritma -->
 <!-- bkz türkler fabrika açmadan nasıl araba yaptılar sorunsalı -->
-<!-- bkz recep tayyip erdoğanın yapay zeka olduğu iddaları-->
+<!-- bkz recep tayyip erdoğanın yapay zeka olduğu iddaaları-->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır ama benana -->
 
 [![Image](skynet/Screenshot_2019-12-27_02-29-27.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
