@@ -3,7 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!-- bkz apple in yerli oto yu tebrik etmesi -->
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
 <!-- bkz murat kekillinin yerli sibel kekilli için beste yapması -->
 <!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
