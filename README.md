@@ -5,6 +5,7 @@
 
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
 <!-- bkz murat kekillinin yerli sibel kekilli için beste yapması -->
+<!-- bkz yerli oto yerde mi gidecek sorunsalı -->
 <!-- bkz murat kekilinin bu akşam yerli otoya binerim demesi -->
 <!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
 <!-- bkz yerli otoya rot balans ayarı yapılıyo mu sorunsalı -->
