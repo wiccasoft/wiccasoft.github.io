@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
 
-<!--bkz yerli oto cucukold mu sorunsalı -->
+<!-- bkz yerli oto cucukold mu sorunsalı -->
 <!-- bkz yerli otonun açığını bulup yalamak
 https://www.youtube.com/watch?v=vB1tFPxgK9I-->
 
