@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
 
-<!-- bkz boy komleksi olmayan 151 cm lik küçük pipili erkek -->
+<!-- bkz boy kompleksi olmayan 151 cm lik küçük pipili erkek -->
 <!-- bkz taylan antalyalıysa atlan alanyalı mı sorunsalı -->
 <!-- bkz berat albayrakın penis yüzüğü sipariş etmesi -->
 <!-- bkz tayyipin berata kıza çakarken krem sür demesi -->
