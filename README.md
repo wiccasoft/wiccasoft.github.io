@@ -5,7 +5,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
 
-
+<!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk gitt vs togg -->
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
