@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2019-12-27_17-55-29.png)]( https://www.youtube.com/watch?v=mh0EqnDnM1A )
 
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
+<!-- bkz türklerin kendini nimetten saymaları -->
 
 [![Image](skynet/Screenshot_2019-12-28_05-34-15.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
