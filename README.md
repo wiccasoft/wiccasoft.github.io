@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2019-12-27_17-55-29.png)]( https://www.youtube.com/watch?v=mh0EqnDnM1A )
 
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
+<!-- bkz shao khan cucukold mu sorunsalı --<
 <!-- bkz türklerin kendini nimetten saymaları -->
 <!-- bkz masterchef rıfat vs masterchef murat -->
 <!--bkz masterchef güzide vs masterchef anasınamı artık -->
