@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=vB1tFPxgK9I-->
 <!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
 <!-- bkz yerli otoya rot balans ayarı yapılıyo mu sorunsalı -->
 <!-- bkz radamel falcao garcia nın yerli otodan 4 tane sipariş etmesi -->
-<!-- https://www.youtube.com/watch?v=U8WQTj7iEBw bkz  yerli  oto için yaptığım yersiz beste -->
+<!-- https://www.youtube.com/watch?v=vB1tFPxgK9I bkz  yerli  oto için yaptığım yersiz beste -->
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
