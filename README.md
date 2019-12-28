@@ -8,7 +8,7 @@
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
 <!-- bkz shao khan cucukold mu sorunsalı -->
 <!-- bkz türklerdeki cucukold kategoriğ sevdadı -->
-<!-- bkz türklerin salak olma sebebi ne sorunsalı -->
+<!-- bkz türklerin salak olma sebebi atatürk mü sorunsalı -->
 <!-- bkz türkleri kimsenin sevmeme sebebi masterchef rıfat mı sorunsalı -->
 <!-- bkz türklerdeki arap düşmanlığı sebebi abdulmecid mi  sorunsalı -->
 <!-- bkz masterchef rıfatın seksi olduğu iddaları -->
