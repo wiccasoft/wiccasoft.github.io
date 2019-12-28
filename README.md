@@ -12,7 +12,7 @@
 <!-- bkz masterchef rıfatın seksi olduğu iddaları -->
 <!-- bkz türklerin kendini nimetten saymaları -->
 <!-- bkz masterchef rıfat vs masterchef murat -->
-<!--bkz masterchef güzide vs masterchef anasınamı artık -->
+<!-- bkz masterchef güzide vs masterchef anasınamı artık -->
 
 <!-- bkz 2. abddulhamdi cuckold mu sorunsalı -->
 
