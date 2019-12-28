@@ -7,6 +7,7 @@
 
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
 <!-- bkz türklerin kendini nimetten saymaları -->
+<!-- bkz arapları küçümseyen arap isimli türk -->
 <!-- bkz 2. amdulmecid vs 5. abdulmahmut -->
 <!-- bkz 2. abddulhamdi cuckold mu sorunsalı -->
 
