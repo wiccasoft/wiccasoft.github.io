@@ -3,15 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-[![Image](skynet/Screenshot_2019-12-27_17-55-29.png)]( https://www.youtube.com/watch?v=mh0EqnDnM1A )
-
-<!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
-<!-- bkz masterchef shao khan vs gevşekler -->
-<!-- bkz shao khan cucukold mu sorunsalı -->
-<!-- bkz shao kahnın cucukold esnasında karısının elini tutması -->
-<!-- bkz türklerdeki cucukold kategoriğ sevdası sebebi ney sorunsalı -->
-
-[![Image](skynet/Screenshot_2019-12-28_05-34-15.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 [![Image](skynet/Screenshot_2019-12-27_02-24-21.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
 
@@ -24,15 +15,6 @@
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
-<!-- 
-https://www.youtube.com/watch?v=kKRmbS_b250 lol
-https://www.youtube.com/watch?v=4RpMzsA1VOw rte nin yapay zeka olma ihtimali
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz yersiz otomobilin yer bildirimi atması https://www.youtube.com/watch?v=2FxpNCvBV_s
-https://www.youtube.com/watch?v=7d1WxXep7jA lol
-https://www.youtube.com/watch?v=L4PzmHKDuMA lol
-https://www.youtube.com/watch?v=HnIlcjd2GAY lol
--->
 
 [![Image](skynet/Screenshot_2019-12-26_04-44-47.png)]( https://www.youtube.com/watch?v=HyGPhJ6ki9I )
 
