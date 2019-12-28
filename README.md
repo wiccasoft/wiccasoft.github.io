@@ -8,11 +8,10 @@
 <!-- bkz togg cuckold mu sorunsalı -->
 <!-- bkz yerli otonun açığını bulup yalamak
 https://www.youtube.com/watch?v=vB1tFPxgK9I-->
-
+<!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
 <!-- bkz yerli oto yerde mi gidecek sorunsalı -->
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
 <!-- bkz murat kekilinin bu akşam yerli otoya binerim demesi -->
-<!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
 <!-- bkz yerli otoya rot balans ayarı yapılıyo mu sorunsalı -->
 <!-- bkz radamel falcao garcia nın yerli otodan 4 tane sipariş etmesi -->
 <!-- https://www.youtube.com/watch?v=vB1tFPxgK9I bkz  yerli  oto için yaptığım yersiz beste -->
