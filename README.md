@@ -7,6 +7,7 @@
 
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
 <!-- bkz türklerin kendini nimetten saymaları -->
+<!-- bkz 2 amdulmecid vs 5. abdulmahmut -->
 
 [![Image](skynet/Screenshot_2019-12-28_05-34-15.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
