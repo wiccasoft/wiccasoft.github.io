@@ -3,7 +3,9 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!-- bkz yerli otonun açığını bulmak saplamak -->
+<!-- bkz yerli otonun açığını bulmak saplamak 
+https://www.youtube.com/watch?v=vB1tFPxgK9I-->
+
 <!-- bkz yerli otosu olmayan erkeğin namusu -->
 <!-- bkz sözlük kızlarının yerli otoya bakışı -->
 <!-- bkz sözlük kızına yerli oto gönderip bi vuruş kaç kuruş demek -->
