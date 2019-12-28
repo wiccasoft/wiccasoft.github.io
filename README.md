@@ -28,6 +28,13 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 [![Image](skynet/Screenshot_2019-12-26_01-47-12.png)]( https://www.theguardian.com/world/2019/dec/21/no-christmas-mass-at-notre-dame-cathedral-for-first-time-since-1803 )
 
+<!--
+This is where it all begins.
+https://en.wikipedia.org/wiki/Solar_azimuth_angle 
+https://en.wikipedia.org/wiki/Position_of_the_Sun
+https://www.youtube.com/watch?v=U8WQTj7iEBw deep sky algorithm 
+https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
+-->
 
 [![Image](skynet/Screenshot_2019-12-25_12-56-44.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM )
 
@@ -83,15 +90,7 @@ https://www.timeanddate.com/astronomy/moon/new-moon.html
 
 [![Image](skynet/Screenshot_2019-12-22_05-48-54.png)]( https://www.youtube.com/watch?v=PRW1lbrLhzY )
 
-<!--
-This is where it all begins.
-https://www.esrl.noaa.gov/gmd/grad/solcalc/
-https://www.esrl.noaa.gov/gmd/grad/solcalc/azel.html
-https://en.wikipedia.org/wiki/Solar_azimuth_angle 
-https://en.wikipedia.org/wiki/Position_of_the_Sun
-bkz deep sky algorithm https://www.youtube.com/watch?v=U8WQTj7iEBw 
-https://stackoverflow.com/questions/8708048/position-of-the-sun-given-time-of-day-latitude-and-longitude
--->
+
 
 [![Image](skynet/Screenshot_2019-12-20_19-59-14.png)]( https://www.youtube.com/watch?v=PCM9j7Q5YXw )
 
