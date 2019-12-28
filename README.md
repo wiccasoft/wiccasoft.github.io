@@ -2,19 +2,8 @@
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
 
 <!-- bkz kanal istanbul hangi frekansta sorunsalı -->
-<!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk bkz git vs togg -->
 <!-- https://www.youtube.com/watch?v=-tox0xxFuE4 zuahhahahaha -->
-<!-- bkz masterchef shao kahn vs masterchef murat -->
-<!-- bkz taylan antalyalı nın toggu yalarım demesi -->
-<!-- bkz togg cuckold mu sorunsalı -->
-<!-- bkz yerli otonun açığını bulup yalamak
-https://www.youtube.com/watch?v=vB1tFPxgK9I-->
-<!-- bkz yerli oto yerde mi gidecek sorunsalı -->
-<!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
-<!-- bkz murat kekilinin bu akşam yerli otoya binerim demesi -->
-<!-- bkz yerli otoya rot balans ayarı yapılıyo mu sorunsalı -->
-<!-- bkz radamel falcao garcia nın yerli otodan 4 tane sipariş etmesi -->
-<!-- https://www.youtube.com/watch?v=vB1tFPxgK9I bkz  yerli  oto için yaptığım yersiz beste -->
+
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
