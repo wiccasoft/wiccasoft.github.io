@@ -25,8 +25,6 @@
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz kendine kod yazmayı öğreten algoritma
-bkz türkler fabrika açmadan nasıl araba yaptılar sorunsalı
 https://www.youtube.com/watch?v=kKRmbS_b250 lol
 https://www.youtube.com/watch?v=4RpMzsA1VOw rte nin yapay zeka olma ihtimali
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
