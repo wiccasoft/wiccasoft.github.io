@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=Uw2zw_L8rSk)
 
+<!-- bkz 5 feet 11 inch lik erkek 5 feet 9 inchlik kız ilişkisi -->
 <!-- bkz 154 lük kız vs 155 lik erkek ilişkisi -->
 <!-- bkz berat albayrak  vs abdurrahim albayrak -->
 <!-- bkz kanal istanbul hangi frekansta sorunsalı -->
