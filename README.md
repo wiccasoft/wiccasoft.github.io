@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14)
 
+<!--bkz kanal istanbul hangi frekansta sorunsalı -->
 <!-- https://www.youtube.com/watch?v=-tox0xxFuE4 zuahhahahaha -->
 <!-- bkz masterchef new zealand vs mastarchef brazil vs masterchef shao kahn -->
 <!-- bkz taylan antalyalı nın toggu yalarım demesi -->
