@@ -6,14 +6,6 @@
 <!-- bkz yerli otonun açığını bulmak saplamak 
 https://www.youtube.com/watch?v=vB1tFPxgK9I-->
 
-<!-- bkz yerli otosu olmayan erkeğin namusu -->
-<!-- bkz sözlük kızlarının yerli otoya bakışı -->
-<!-- bkz sözlük kızına yerli oto gönderip bi vuruş kaç kuruş demek -->
-<!-- bkz taylan antalyalı nın antalya togg un arkasında açıklaması -->
-<!-- bkz organ bencegayin yerli oto reklamında bedava oynarım teklifi -->
-<!-- bkz yerli kargonun yerli toggdan 10000 tane sipariş etmesi --> 
-<!-- bkz kamil koçun yerli otodan servis arabası yaparız demesi -->
-<!-- bkz sibel kekillinin yerli otodan 2 tane sipariş etmesi -->
 <!-- bkz sibel kekillinin yerli oto sesi çıkarması -->
 <!-- bkz murat kekillinin yerli sibel kekilli için beste yapması -->
 <!-- bkz yerli oto yerde mi gidecek sorunsalı -->
