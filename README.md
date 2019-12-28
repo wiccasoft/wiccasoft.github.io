@@ -7,7 +7,8 @@
 
 <!-- https://www.youtube.com/watch?v=__FGqop7QZU fatality -->
 <!-- bkz shao khan cucukold mu sorunsalı -->
-<!-- bkz türklerdeki cucukold kategoriğ sevdadı --<
+<!-- bkz türklerdeki cucukold kategoriğ sevdadı -->
+<!-- bkz masterchef rıfatın seksi olduğu iddaları -->
 <!-- bkz türklerin kendini nimetten saymaları -->
 <!-- bkz masterchef rıfat vs masterchef murat -->
 <!--bkz masterchef güzide vs masterchef anasınamı artık -->
