@@ -1,4 +1,9 @@
 
+
+
+
+[![Image](skynet/Screenshot_2019-12-28_05-34-15png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
+
 [![Image](skynet/Screenshot_2019-12-27_02-24-21.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
 
 <!-- https://www.youtube.com/watch?v=FGAyjfwK-wI smartmatch -->
@@ -6,23 +11,17 @@
 <!-- https://www.youtube.com/watch?v=o3wS2tdlZtE smartdata -->
 <!-- bkz yapay zeka mesleklerini elinden alınca mal gibi kalacak olan insanlar -->
 <!-- bkz yapay zekanın insanlara ihtiyacı olmadığı gerçeği -->
-<!-- https://www.youtube.com/watch?v=N_XNfHRLSKQbkz tekbir getirip kafa kesen yapak zeka  -->
-<!-- bkz şu ezanlarki şehadetlerin temeli diyip kafa kesen yapay zeka -->
-<!-- bkz ya allah bismillah alahu ekber diyen yapak zeka -->
-<!-- bkz tekbir getirip kafa kesen yapak zeka -->
-<!-- bkz ışıdın hristyan rehinelerin kafasını kesip sizin de sonunuz böyle olacak tehdidi -->
-<!-- bkz kendine kod yazmayı öğreten algoritma -->
-<!-- bkz türkler fabrika açmadan nasıl araba yaptılar sorunsalı -->
-<!-- bkz recep tayyip erdoğanın yapay zeka olduğu iddaaları-->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır ama benana -->
+
 
 [![Image](skynet/Screenshot_2019-12-27_02-29-27.png)]( https://www.youtube.com/watch?v=2FxpNCvBV_s )
 
 [![Image](skynet/Screenshot_2019-12-26_17-12-43.png)]( https://www.youtube.com/watch?v=YFXHfEqMcis )
 
 <!-- 
-bkz yapay zekanın taciz ettiği fanatikler
+bkz kendine kod yazmayı öğreten algoritma
+bkz türkler fabrika açmadan nasıl araba yaptılar sorunsalı
 https://www.youtube.com/watch?v=kKRmbS_b250 lol
+https://www.youtube.com/watch?v=4RpMzsA1VOw rte nin yapay zeka olma ihtimali
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz yersiz otomobilin yer bildirimi atması https://www.youtube.com/watch?v=2FxpNCvBV_s
 https://www.youtube.com/watch?v=7d1WxXep7jA lol
