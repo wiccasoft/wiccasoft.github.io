@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
-<!--bkz doğu türkistanın türkiyeden af dilemesi -->
+<!-- bkz togg sesi çıkıyosa olmuştur o araba -->
 <!-- https://www.youtube.com/watch?v=U8WQTj7iEBw bkz  yerli  oto için yaptığım yersiz beste -->
 
 [![Image](skynet/Screenshot_2019-12-27_02-24-21.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
