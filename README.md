@@ -4,7 +4,7 @@
 <!-- 
 bkz noel baba swinger mı sorunsalı
 https://www.youtube.com/watch?v=moTsS8nE-G0 
-bkz jacinda ardern kim amk
+bkz jacinda ardern kim amk https://www.youtube.com/watch?v=yuP0Wjh7ceo
 bkz jacinda ardern e bir iftira da sen bırak
 bkz 12 ayvanlı mankurt takvimi vs gavat noel takvimi
 https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/ 
