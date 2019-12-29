@@ -2,34 +2,12 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
-https://www.youtube.com/watch?v=UCP47yVoeE4
-bkz kimsenin siklemediği mankurtların güldürmesi
-https://www.youtube.com/watch?v=yuP0Wjh7ceo
-bkz yılbaşıyla noeli karıştıran mankurtlar
-bkz at burcu erkeği noel anne ilişkisi
-bkz yılbaşında noel babanın evlerine geleceğini sanan mankurtlar
-bkz çin takvimini türk takvimmi sanan mankurtlar
-https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/
-bkz mankurt yavaşa bir iftra da sen at kampanyasının fos çıkması
-bkz mankurt yavaşa atılan iftiraların balon gibi patlaması
-bkz mankurt yavaşa bi iftirada sen at
-bkz mankurt yavaş gelince ak itlerin dağılması
-bkz mankurt yavaş gelince it gibi dağılan ak itler
-bkz mankurtun yavaş yavaş gelemsi
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
 https://www.timeanddate.com/eclipse/in/japan/tokyo 
 https://www.timeanddate.com/eclipse/in.html
 https://www.nytimes.com/2019/12/26/science/ring-of-fire-eclipse-asia.html
 bkz noel baba cuckold mu sorunsalı
-bkz tayyipin diktiği ağaçları kesen alkolik noel baba
-bkz mansur yavaşın gökçeğin saatini tekrar koyması
-bkz manskurtun yavaş yavaş geldiği gerçeği
-bkz taylan antalyalının hakem hatalarının vara götürecem demesi
-bkz sinan aygünün ihraç istemine ses etmeyen ak itler 
-bkz mansur yavaşın bomba gibi gelmesi
-bkz neclican tayın rizeli olduğu iddaları
-bkz ferdi tayfurun hadi gel nezlican köyümüze geri dönelim demesi
 -->
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
