@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz mankurt yavaş gelince ak itlerin dağılması
 bkz mankurt yavaş gelince it gibi dağılan ak itler
 bkz mankurtun yavaş yavaş gelemsi
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
