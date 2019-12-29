@@ -8,6 +8,7 @@ https://www.timeanddate.com/eclipse/in/japan/tokyo
 https://www.timeanddate.com/eclipse/in.html
 https://www.nytimes.com/2019/12/26/science/ring-of-fire-eclipse-asia.html
 bkz noel baba cucukold mu sorunsalı
+bkz laikçilerin noel babayı savunma sebebi
 -->
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
