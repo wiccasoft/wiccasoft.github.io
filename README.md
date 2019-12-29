@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz noel baba swinger mı sorunsalı
 https://www.youtube.com/watch?v=moTsS8nE-G0 
 bkz 12 ayvanlı mankurt takvimi vs gavat noel takvimi
 https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/ 
@@ -10,7 +11,6 @@ https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
 https://www.timeanddate.com/eclipse/in/japan/tokyo 
 https://www.timeanddate.com/eclipse/in.html
 https://www.nytimes.com/2019/12/26/science/ring-of-fire-eclipse-asia.html
-bkz noel baba cuckold mu sorunsalı
 -->
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
