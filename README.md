@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz mankurtun yavaş yavaş gelemsi
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
 https://www.timeanddate.com/eclipse/in/japan/tokyo 
