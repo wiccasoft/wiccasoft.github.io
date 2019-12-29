@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=yuP0Wjh7ceo
+bkz yılbaşında noel babanın evlerine geleceğini sanan mankurtlar
 bkz çin takvimini türk takvimmi sanan mankurtlar
 https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/
 bkz mankurt yavaşa bir iftra da sen at kampanyasının fos çıkması
