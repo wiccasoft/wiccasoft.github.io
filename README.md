@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=yuP0Wjh7ceo
+bkz çin takvimini türk takvimmi sanan mankurtlar
 bkz mankurt yavaşa bir iftra da sen at kampanyasının fos çıkması
 bkz mankurt yavaşa atılan iftiraların balon gibi patlaması
 bkz mankurt yavaşa bi iftirada sen at
