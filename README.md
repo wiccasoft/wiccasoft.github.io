@@ -13,6 +13,7 @@ bkz mansur yavaşın gökçeğin saatini tekrar koyması
 bkz manskurtun yavaş yavaş geldiği gerçeği
 bkz taylan antalyalının hakem hatalarının vara götürecem demesi
 bkz sinan aygünün ihraç istemine ses etmeyen ak itler 
+bkz mansur yavaşın bomba gibi gelmesi
 -->
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
