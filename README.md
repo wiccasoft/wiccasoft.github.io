@@ -15,6 +15,7 @@ bkz taylan antalyalının hakem hatalarının vara götürecem demesi
 bkz sinan aygünün ihraç istemine ses etmeyen ak itler 
 bkz mansur yavaşın bomba gibi gelmesi
 bkz neclican tayın rizeli olduğu iddaları
+bkz ferdi tayfurun hadi gel nezlican köyümüze geri dönelim demesi
 -->
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
