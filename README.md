@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+https://www.youtube.com/watch?v=yuP0Wjh7ceo
 bkz mankurt yavaşa bir iftra da sen at kampanyasının fos çıkması
 bkz mankurt yavaşa atılan iftiraların balon gibi patlaması
 bkz mankurt yavaşa bi iftirada sen at
