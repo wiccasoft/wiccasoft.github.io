@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+https://www.youtube.com/watch?v=UCP47yVoeE4
 bkz kimsenin siklemediği mankurtların güldürmesi
 https://www.youtube.com/watch?v=yuP0Wjh7ceo
 bkz yılbaşıyla noeli karıştıran mankurtlar
