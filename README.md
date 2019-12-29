@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=yuP0Wjh7ceo
 bkz yılbaşıyla noeli karıştıran mankurtlar
+bkz at burcu erkeği noel anne ilişkisi
 bkz yılbaşında noel babanın evlerine geleceğini sanan mankurtlar
 bkz çin takvimini türk takvimmi sanan mankurtlar
 https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/
