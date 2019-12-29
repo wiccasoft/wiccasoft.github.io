@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+https://www.youtube.com/watch?v=moTsS8nE-G0 
 bkz 12 ayvanlı mankurt takvimi vs gavat noel takvimi
 https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/ 
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
