@@ -3,8 +3,8 @@
 
 <!-- 
 bkz togg vs tesla
-bkz daha araba üretmeden lansman yapan malum ırk
 bkz togg un dünya markası olması
+bkz daha araba üretmeden lansman yapan malum ırk
 bkz putine atatürk rolü teklif edilmesi
 bkz türklerin süper güç olmasının sebebi
 bkz kıvanç tatlıoğlanın atatürk rolünün reddetmesi
