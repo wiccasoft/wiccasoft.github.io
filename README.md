@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkzinkılap tarihi taraflı anlatılıyor diyen mal dinci
 bkz atatürk sivas kongresinde ki pozu
 bkz atatürk hüseyin nihal atsız doslugu
 bkz allah ne kadar süpe rvs atatürk ne kadar süper
