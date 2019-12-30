@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
-bkz kaka türk ismet ünönünün araları neden açıldı sorunsalı
+bkz kaka türkle ismet ünönünün araları neden açıldı sorunsalı
 bkz kaka türkle vedat ziya uşaklıgül dosluğu
 bkz kaka türk neye dikte ediyor sorunsalı
 bkz kakatürk dick tatör mü
