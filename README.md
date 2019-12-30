@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-30_08-41-52.png)]( https://www.theguardian.com/world/2019/nov/18/jacinda-ardern-says-she-was-kept-in-the-dark-over-arrival-of-manus-refugee-behrouz-boochani )
 
+<!---bkz resin gay olup olmadığı nasıl anlaşılır sounsalı --<
 <!-- bkz reis domal dese napardınız sorunsalı -->
 <!-- bkz tayyip erdoğam bacadan girse nabıyon kanka dese napardınız sorunsalı --<
 <!-- bkz tayyip erdoğan görünce akla gelenler nedir sorunsalı -->
