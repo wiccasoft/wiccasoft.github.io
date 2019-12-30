@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-30_08-41-52.png)]( https://www.theguardian.com/world/2019/nov/18/jacinda-ardern-says-she-was-kept-in-the-dark-over-arrival-of-manus-refugee-behrouz-boochani )
 
+<!-- bkz gay erkek nasıl anlaşılır sorunsalı -->
 <!-- türk noel babayı türkiye de istemeyen araplar -->
 <!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
 <!-- bkz enes abinin reynmen kerimcan polemiğine sessiz kalması -->
