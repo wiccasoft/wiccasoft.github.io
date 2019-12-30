@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
-<!-- bkz 5 ocak 2019 ünal kahraman geri vitesi -->
+<!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
 <!-- bkz uzun adamın arabada 5 evde 15 ayarı çakması -->
 <!-- bkz hasan kaçanın yerim uzun adamın yanıdır tweeti -->
 <!-- bkz metin kahramanın düğününde kekeoların kavga etmesi -->
