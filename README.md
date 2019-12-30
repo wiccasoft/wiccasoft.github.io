@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz atatürk hüseyin nihal atsız doslugu
 bkz allah ne kadar süpe rvs atatürk ne kadar süper
 bkz kanıtkabre gitmeyen kendine türk demesin ulusun nasıl böyle bir imanı boğar
 bkz tatlısesin en atatürkçü benim demesi
