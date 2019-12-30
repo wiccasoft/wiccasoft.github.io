@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
-bkz mehdide zaten mehdiyim demeyecek hadisi
+bkz mehdi zaten mehdiyim demeyecek hadisi
 bkz cem dizdar vs cem dizgeniş
 bkz sevişirken seneye görüşürüz demek
 bkz tam sevişecekken yılbaşına girmek
