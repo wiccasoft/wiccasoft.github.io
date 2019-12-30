@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz kıvanç tatlıoğlanın atatürk rolünün reddetmesi
 bkz türklerin atası diktatör mü sorunsalı
 https://timeanddate.com.websiteoutlook.com/
 https://stackoverflow.com/q/45165893 good luck with that
