@@ -1,4 +1,4 @@
-[![Image](skynet/Screenshot_2019-12-30_11-01-27.png.png)]( https://www.theguardian.com/australia-news/2019/nov/14/a-long-flight-to-freedom-how-refugee-behrouz-boochani-finally-left-his-island-jail-behind )
+[![Image](skynet/Screenshot_2019-12-30_11-01-27.png)]( https://www.theguardian.com/australia-news/2019/nov/14/a-long-flight-to-freedom-how-refugee-behrouz-boochani-finally-left-his-island-jail-behind )
 
 
 [![Image](skynet/Screenshot_2019-12-30_08-24-38.png)]( https://www.theguardian.com/film/2019/dec/30/zac-efron-falls-ill-while-filming-reality-show-killing-zac-efron )
