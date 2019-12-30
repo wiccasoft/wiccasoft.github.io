@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz şaka maka kaka -->
 <!-- bkz şaka maka 2020 erken seçim ihtimali -->
 <!-- bkz şaka maka akpnin adam akıllı iş yapması -->
 <!-- bkz cem dizdarın cem diz genişe senin bildiğin kadar benim unuttuğum var demesi -->
