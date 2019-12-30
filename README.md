@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
 <!---https://www.youtube.com/watch?v=x0Vp56rU0AE bkz darth vaderin ziyareti -->
-<1-- bkz kenan sofuoglunun yasama faaliyetleri -->
+<!-- https://www.youtube.com/watch?v=RHBoMuNszuk bkz kenan sofuoglunun yasama faaliyetleri -->
 <!-- bkz yemekteyiz hasan vs yemekte değiliz mahmut -->
 <!-- bkz masterchef alican vs masterchef rıfat -->
 <!-- bkz hasan mezarcının darth vader zaten darh varderim demeyecek demesi -->
