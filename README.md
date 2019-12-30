@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz togg vs kakatürk heykelleri -->
 <!-- bkz şaka kaka chpnin adam akıllı iş koymaması -->
 <!-- bkz hasan mezarcının mehdi zaten mehdi değilim demeyecek demesi -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk bkz mehmet karamanın düğününde kavga eden kekokolar
