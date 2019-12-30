@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
 <!-- bkz recep tayyip erdoğanın yüzer hastane yapalım önerisi -->
 <!-- bkz mansur yavaşın ankara kanalını istanbula bağlayalım önerisi -->
