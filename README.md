@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz 10 yıldır sevişmeyen ezik erkek
 bkz cem dizdar vs cem dizgeniş
 bkz frank lucas vs recep tayyip erdoğan
 bkz taylan antalyalı vs togg
