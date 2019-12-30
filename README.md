@@ -1,4 +1,5 @@
 
+[![Image](skynet/Screenshot_2019-12-30_08-24-38.png)]( https://www.theguardian.com/film/2019/dec/30/zac-efron-falls-ill-while-filming-reality-show-killing-zac-efron )
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
