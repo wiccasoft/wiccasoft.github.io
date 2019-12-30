@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz kadir mısıroğlalanın iyice bunaması
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg
 https://www.youtube.com/watch?v=irUgulsrElg atatürk put mu sorunsalı
 bkz kaka türkle vedat ziya uşaklıgül dosluğu
 bkz kaka türkle ismet ünönünün araları neden açıldı sorunsalı
