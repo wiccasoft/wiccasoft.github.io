@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz kakatürk dick tatör mü
 bkz sevişirken kapının çalması
 bkz mehdi aseksüel olacak iddaları
 bkz aseksüel olmanın faydaları
