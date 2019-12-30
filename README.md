@@ -4,7 +4,7 @@
 <!-- 
 bkz ben ferro vs norm ender
 bkz iibf mezunları derneğinden karı kaldırmak
-bkz iibf bitirp sözlükte ergenlerle sidik yarıştırmak
+bkz iibf bitirip sözlükte ergenlerle sidik yarıştırmak
 bkz iibf mezunlarının biraz mal olamsı
 bkz iibf bitiren burhan altıntop karizması
 bkz seni diplomamla döverim diyen işletme mezunu ergenin güldürmesi
