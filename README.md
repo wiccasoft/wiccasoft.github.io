@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz ünal kahramanın cem dizgeniş polemiğine girmemesi -->
 <!-- bkz cem dizdar cem dizgeniş arasındaki gerilim -->
 <!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
