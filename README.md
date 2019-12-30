@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz kıvanç tatlıoğlanın atatürk rolünü reddetmesi
 bkz atatürke benzeyen adam vs binaliye benzeyen adam
 bkz denize atatürk mü düşse kurtarırsın hz muhammed mi
 bkz inkılap tarihi taraflı anlatılıyor diyen mal dinci
