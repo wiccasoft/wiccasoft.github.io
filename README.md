@@ -3,6 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz hasan kaçanın yerim uzun adamın yanıdır tweeti -->
+<!-- bkz metin kahramanın düğününde kekeoların kavga etmesi -->
 <!-- bkz ünal kahramanın cem dizgeniş polemiğine girmemesi -->
 <!-- bkz cem dizdar cem dizgeniş arasındaki gerilim -->
 <!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
