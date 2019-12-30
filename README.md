@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
-<!-- bkz attatürk ün asgari müdahaleye karşı olmaması --<
+<!-- bkz asgari ücreti beğenmeyen vasıfsızlar -->
+<!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
 <!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
 <!-- bkz yahudi cesaret madalyası olmayıp kahraman diye dolaşmak -->
 <!-- bkz uzun adamın arabada 5 evde 15 ayarı çakması -->
