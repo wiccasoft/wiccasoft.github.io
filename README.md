@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
 <!-- bkz recep tayyip erdoğanın yüzer hastane yapalım önerisi -->
+<!-- bkz mansur yavaşın ankara kanalını istanbula bağlayalım önerisi -->
 <!-- bkz recep tayyip erdoğanın çılgın proje önerilerinizi bekliyorum demesi -->
 <!-- bkz recep tayyip erdoğahan havalimanı vs mecep mayyip maydoğan limanı -->
 <!-- bkz şaka maka ünal kahramanın kahraman olması -->
