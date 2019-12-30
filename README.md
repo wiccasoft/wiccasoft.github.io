@@ -2,9 +2,8 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
-bkz yılbaşında noel anneyle sevişecek ezik erkek
-https://www.uludagsozluk.com/k/y%C4%B1lba%C5%9F%C4%B1n%C4%B1-sevi%C5%9Ferek-ge%C3%A7iremeyecek-ezik-erkek/
-bkz 10 yıldır sevişmeyen ezik erkek
+https://www.uludagsozluk.com/e/42635652/bkz yılbaşında noel anneyle sevişecek ezik erkek
+bkz 10 yıldır sevişmeyen 41 yaşındaki ezik erkek
 bkz cem dizdar vs cem dizgeniş
 bkz frank lucas vs recep tayyip erdoğan
 bkz taylan antalyalı vs togg
