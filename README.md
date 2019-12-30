@@ -5,7 +5,7 @@
 
 
 <!-- https://www.youtube.com/watch?v=KXnzNbuV84c şaka maka türklerin baya aptal olması -->
-<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz şaka maka bokunda boğulacak olanlar -->
+<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ şaka maka bokunda boğulacak olanlar -->
 <!-- bkz şaka maka kaka deyince akla gelenler -->
 <!-- bkz şaka maka 2020 erken seçim ihtimali -->
 <!-- bkz şaka maka akpnin adam akıllı iş yapması -->
