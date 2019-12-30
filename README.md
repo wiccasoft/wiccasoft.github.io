@@ -2,51 +2,6 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
-bkz ben ferro vs norm ender
-bkz iibf işletme mezunu karıyı işletip hoplatmak
-bkz iibf mezunları derneğinden karı kaldırmak
-bkz iibf bitirip sözlükte ergenlerle sidik yarıştırmak
-bkz iibf mezunlarının biraz mal olamsı
-bkz iibf bitiren burhan altıntop karizması
-bkz seni diplomamla döverim diyen işletme mezunu ergenin güldürmesi
-https://www.uludagsozluk.com/e/42635996/ bkz bi tayyip erdoğan kolay yetişmiy
-bkz benim eşim de arap zaten
-bkz safkan türklerin ezik muamalesi görmesi
-bkz araplaşmaya hayır demenin ırkçılık sayılması
-bkz mehdi zaten mehdiyim demeyecek hadisi
-bkz ali şanın atatürk rolüne sıcak bakması
-bkz kıvanç tatlıoğlanın atatürk rolünü reddetmesi
-bkz atatürke benzeyen adam vs binaliye benzeyen adam
-bkz denize atatürk mü düşse kurtarırsın hz muhammed mi
-bkz inkılap tarihi taraflı anlatılıyor diyen mal dinci
-bkz atatürk sivas kongresinde ki pozu
-bkz atatürk hüseyin nihal atsız doslugu
-bkz allah ne kadar süper vs atatürk ne kadar süper
-bkz kanıtkabre gitmeyen kendine türk demesin ulusun nasıl böyle bir imanı boğar
-bkz türk önde türk ileri demenin suç sayılması
-bkz türklüğü yaymanın ırkçlık olarak algılanması
-https://www.youtube.com/watch?v=4yEKBNrTlxw bkz rte nin devraldığı türkiye
-bkz katatur fasulye pilav severdi iddaları
-bkz kadir mısıroğlalanın iyice bunaması
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg
-https://www.youtube.com/watch?v=irUgulsrElg atatürk put mu sorunsalı
-bkz cem dizdar vs cem dizgeniş
-bkz sevişirken seneye görüşürüz demek
-bkz tam sevişecekken yılbaşına girmek
-https://www.uludagsozluk.com/e/42635652/bkz yılbaşında noel anneyle sevişecek ezik erkek
-bkz 40 yıldır sevişmeyen ezik aseksüel erkek
-bkz cem dizdar vs cem dizgeniş
-bkz frank lucas vs recep tayyip erdoğan
-bkz taylan antalyalı vs togg
-bkz cem dizdar vs togg
-bkz togg vs tesla
-bkz togg un dünya markası olması
-bkz dışardan araba toplatıp araba yaptık diyen malum ırk
-bkz daha araba üretmeden lansman yapan malum ırk
-bkz putine atatürk rolü teklif edilmesi
-bkz türklerin süper güç olmasının sebebi
-bkz kıvanç tatlıoğlanın atatürk rolünün reddetmesi
-bkz türklerin atası diktatör mü sorunsalı
 https://timeanddate.com.websiteoutlook.com/
 https://stackoverflow.com/q/45165893 good luck with that
 https://stackoverflow.com/questions/45165893/three-js-casting-shadows-as-umbra-and-penumbra 
