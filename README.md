@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz şaka maka ünal kahramanın kahraman olması -->
 <!-- bkz şaka maka ulusalcı kamoşların göt olması -->
 <!-- bkz şaka maka türklerin adam akıllı hiç bişey üretememesi -->
 <!-- https://www.youtube.com/watch?v=KXnzNbuV84c şaka maka türklerin baya aptal olması -->
