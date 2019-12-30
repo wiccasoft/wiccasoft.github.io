@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz kata tur kadir mısırolan dosluğu
 bkz kadir mısıropğlan vs kata tür
 bkz kadir mısıroğlalanın iyice bunaması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg
