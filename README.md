@@ -6,10 +6,8 @@ bkz denize ataatürk mü düşse kurtarırsın hz muhammed mi
 bkz inkılap tarihi taraflı anlatılıyor diyen mal dinci
 bkz atatürk sivas kongresinde ki pozu
 bkz atatürk hüseyin nihal atsız doslugu
-bkz allah ne kadar süpe rvs atatürk ne kadar süper
+bkz allah ne kadar süper vs atatürk ne kadar süper
 bkz kanıtkabre gitmeyen kendine türk demesin ulusun nasıl böyle bir imanı boğar
-bkz tatlısesin en atatürkçü benim demesi
-bkz en iyi kürt ölü kürttür demenin ırkçılık olarak algınlanması
 bkz türk önde türk ileri demenin suç sayılması
 bkz türklüğü yaymanın ırkçlık olarak algılanması
 https://www.youtube.com/watch?v=4yEKBNrTlxw bkz rte nin devraldığı türkiye
