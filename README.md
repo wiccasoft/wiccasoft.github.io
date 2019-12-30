@@ -1,6 +1,20 @@
 
 [![Image](skynet/Screenshot_2019-12-30_08-41-52.png)]( https://www.theguardian.com/world/2019/nov/18/jacinda-ardern-says-she-was-kept-in-the-dark-over-arrival-of-manus-refugee-behrouz-boochani )
 
+<!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
+<!-- bkz enes abinin reynmen kerimcan polemiğine sessiz kalması -->
+<!-- https://www.youtube.com/watch?v=kSh-g-aZG8A reynmen neden bu fotoları gönderdi sorunsalı -->
+<!-- bkz reynmen'in kerimcana gönderdiği çıplak fotoları -->
+<!-- bkz asgari ücreti beğenmeyen asgari zekalılar -->
+<!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
+<!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
+<!-- bkz yahudi cesaret madalyası olmayıp kahraman diye dolaşmak -->
+<!-- bkz uzun adamın arabada 5 evde 15 ayarı çakması -->
+<!-- bkz hasan kaçanın yerim uzun adamın yanıdır tweeti -->
+<!-- bkz metin kahramanın düğününde kekoların kavga etmesi -->
+<!-- bkz ünal kahramanın cem dizgeniş polemiğine girmemesi -->
+<!-- bkz cem dizdar cem dizgeniş arasındaki gerilim -->
+
 
 [![Image](skynet/Screenshot_2019-12-30_11-01-27.png)]( https://www.theguardian.com/australia-news/2019/nov/14/a-long-flight-to-freedom-how-refugee-behrouz-boochani-finally-left-his-island-jail-behind )
 
