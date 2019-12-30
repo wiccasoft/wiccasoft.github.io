@@ -15,20 +15,9 @@ bkz türk önde türk ileri demenin suç sayılması
 bkz türklüğü yaymanın ırkçlık olarak algılanması
 https://www.youtube.com/watch?v=4yEKBNrTlxw bkz rte nin devraldığı türkiye
 bkz katatur fasulye pilav severdi iddaları
-bkz katatur kmisiroğlan nın arası neden acıldı
-bkz katatur vedat uzaklıgül dosluğu
-bkz kata tur kadir mısırolan dosluğu
-bkz kadir mısıropğlan vs kata tür
 bkz kadir mısıroğlalanın iyice bunaması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg
 https://www.youtube.com/watch?v=irUgulsrElg atatürk put mu sorunsalı
-bkz kaka türkle vedat ziya uşaklıgül dosluğu
-bkz kaka türkle ismet ünönünün araları neden açıldı sorunsalı
-bkz kaka türk neye dikte ediyor sorunsalı
-bkz kakatürk dick tatör mü
-bkz sevişirken kapının çalması
-bkz mehdi aseksüel olacak iddaları
-bkz aseksüel olmanın faydaları
 bkz mehdi zaten mehdiyim demeyecek hadisi
 bkz cem dizdar vs cem dizgeniş
 bkz sevişirken seneye görüşürüz demek
