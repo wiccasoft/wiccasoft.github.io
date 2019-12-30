@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+https://www.youtube.com/watch?v=irUgulsrElg atatürk put mu sorunsalı
 bkz kaka türkle vedat ziya uşaklıgül dosluğu
 bkz kaka türkle ismet ünönünün araları neden açıldı sorunsalı
 bkz kaka türk neye dikte ediyor sorunsalı
