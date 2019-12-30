@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ben ferro vs norm ender
+bkz seni diplomamla döverim diyen işletme mezunu ergenin güldürmesi
 https://www.uludagsozluk.com/e/42635996/ bkz bi tayyip erdoğan kolay yetişmiy
 bkz benim eşim de arap zaten
 bkz safkan türklerin ezik muamalesi görmesi
