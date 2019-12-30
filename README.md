@@ -3,61 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
-<!-- bkz enes abinin reynmen kerimcan polemiğine sessiz kalması -->
-<!-- https://www.youtube.com/watch?v=kSh-g-aZG8A reynmen neden bu fotoları gönderdi sorunsalı -->
-<!-- bkz reynmen'in kerimcana gönderdiği çıplak fotoları -->
-<!-- bkz asgari ücreti beğenmeyen asgari zekalılar -->
-<!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
-<!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
-<!-- bkz yahudi cesaret madalyası olmayıp kahraman diye dolaşmak -->
-<!-- bkz uzun adamın arabada 5 evde 15 ayarı çakması -->
-<!-- bkz hasan kaçanın yerim uzun adamın yanıdır tweeti -->
-<!-- bkz metin kahramanın düğününde kekeoların kavga etmesi -->
-<!-- bkz ünal kahramanın cem dizgeniş polemiğine girmemesi -->
-<!-- bkz cem dizdar cem dizgeniş arasındaki gerilim -->
-<!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
-<!-- bkz recep tayyip erdoğanın yüzer hastane yapalım önerisi -->
-<!-- bkz mansur yavaşın ankara kanalını istanbula bağlayalım önerisi -->
-<!-- bkz recep tayyip erdoğanın çılgın proje önerilerinizi bekliyorum demesi -->
-<!-- bkz recep tayyip erdoğahan havalimanı vs mecep mayyip maydoğan limanı -->
-<!-- bkz şaka maka ünal kahramanın kahraman olması -->
-<!-- bkz şaka maka ulusalcı kamoşların göt olması -->
-<!-- bkz şaka maka türklerin adam akıllı hiç bişey üretememesi -->
-<!-- https://www.youtube.com/watch?v=KXnzNbuV84c şaka maka türklerin baya aptal olması -->
-<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ şaka maka bokunda boğulacak olanlar -->
-<!-- bkz şaka maka kaka deyince akla gelenler -->
-<!-- bkz şaka maka 2020 erken seçim ihtimali -->
-<!-- bkz şaka maka akpnin adam akıllı iş yapması -->
-<!-- bkz cem dizdarın cem diz genişe senin bildiğin kadar benim unuttuğum var demesi -->
-<!-- bkz şaka maka rte nin adam gibi adam olması --<
-<!-- bkz şaka maka adam akıllı iş yapan tek partinin ahepe olması -->
-<!-- bkz togg vs kakatürk heykelleri -->
-<!-- bkz tengir buduna saldıran ak itler -->
-<!-- bkz türklüğe sahip çıkmasının ırkçılık sayılması -->
-<!-- bkz şaka kaka chpnin adam akıllı iş koymaması -->
-<!-- bkz hasan mezarcının mehdi zaten mehdi değilim demeyecek demesi -->
-<!-- https://www.youtube.com/watch?v=RHBoMuNszuk bkz mehmet karamanın düğününde kavga eden kekokolar
-<!-- https://www.youtube.com/watch?v=2H853-L2oRg darth vaderden sonra kim gelecek sorunsalı -->
-<!---https://www.youtube.com/watch?v=x0Vp56rU0AE bkz darth vaderin ziyareti -->
-<!-- https://www.youtube.com/watch?v=RHBoMuNszuk bkz kenan sofuoglunun yasama faaliyetleri -->
-<!-- bkz yemekteyiz hasan vs yemekte değiliz mahmut -->
-<!-- bkz masterchef alican vs masterchef rıfat -->
-<!-- bkz hasan mezarcının darth vader zaten darh varderim demeyecek demesi -->
-<!-- bkz darth vader vs zac efron -->
-<!-- bkz darth vader vs akp -->
-<!-- bkz darth vader vs bilal erdogan https://www.youtube.com/watch?v=Lbjru5CQIW4 --> 
-<!-- bkz kemal ışınkılıcdaroglu vs darth vader -->
-<!-- bkz recep tayyip erdoğan vs darth sidious -->
-<!-- bkz guardianın galaksi liderini övmesi -->
-<!-- bkz akpnin galaksi lideri erdoğan paylaşımı -->
-<!-- bkz erdoğanın sigara paketlerine kendi resmini koyması -->
-<!-- bkz rte nin iibf den arkadaşlarıyla arasının açılması -->
-<!-- bkz tayyipin iettden arkadaşlarının prof olması -->
-<!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
-<!-- https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-vs-darth-sidious/ -->
-<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
