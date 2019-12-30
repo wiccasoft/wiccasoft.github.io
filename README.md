@@ -6,7 +6,7 @@
 <!-- bkz enes abinin reynmen kerimcan polemiğine sessiz kalması -->
 <!-- https://www.youtube.com/watch?v=kSh-g-aZG8A reynmen neden bu fotoları gönderdi sorunsalı -->
 <!-- bkz reynmen'in kerimcana gönderdiği çıplak fotoları -->
-<!-- bkz asgari ücreti beğenmeyen vasıfsızlar -->
+<!-- bkz asgari ücreti beğenmeyen asgari zekalılar -->
 <!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
 <!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
 <!-- bkz yahudi cesaret madalyası olmayıp kahraman diye dolaşmak -->
