@@ -1,39 +1,4 @@
 
-[![Image](skynet/Screenshot_2019-12-30_08-41-52.png)]( https://www.theguardian.com/world/2019/nov/18/jacinda-ardern-says-she-was-kept-in-the-dark-over-arrival-of-manus-refugee-behrouz-boochani )
-
-<!-- bkz ünal kahramanın popusunu ısırıp gay olup olmadığını anlamak -->
-<!---bkz reisin gay olup olmadığı nasıl anlaşılır sounsalı -->
-<!-- bkz tayyip erdoğan bacadan girse ben noel tayyip nabıyon kanka dese napardınız sorunsalı -->
-<!-- bkz tayyip erdoğan görünce akla gelenler nedir sorunsalı -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 noel baba adam mıdır sorunsalı -->
-<!-- bkz noel babanın gay olup olmadığı nasıl anlaşılır sorunsalı -->
-<!-- bkz noel baba zaten ben gayim demeyecekmiş sorunsalı -->
-<!-- bkz şaka maka adam akıllı gay bulmanın zorlaşması -->
-<!-- bkz gay erkek nasıl anlaşılır sorunsalı -->
-<!-- bkz götüne parmak atılan geysaraylının gay çıkması -->
-<!-- bkz ünal hakramanın kahramanca yaptığı yorum -->
-<!-- bkz enes abinin reynmen kerimcan polemiğine sessiz kalması -->
-<!-- https://www.youtube.com/watch?v=kSh-g-aZG8A reynmen neden bu fotoları gönderdi sorunsalı -->
-<!-- bkz reynmen'in kerimcana gönderdiği çıplak fotoları -->
-<!-- bkz asgari ücreti beğenmeyen asgari zekalılar -->
-<!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
-<!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
-<!-- bkz yahudi cesaret madalyası olmayıp kahraman diye dolaşmak -->
-<!-- bkz uzun adamın arabada 5 evde 15 ayarı çakması -->
-<!-- bkz hasan kaçanın yerim uzun adamın yanıdır tweeti -->
-<!-- bkz metin kahramanın düğününde kekoların kavga etmesi -->
-<!-- bkz ünal kahramanın cem dizgeniş polemiğine girmemesi -->
-<!-- bkz cem dizdar cem dizgeniş arasındaki gerilim -->
-
-
-[![Image](skynet/Screenshot_2019-12-30_11-01-27.png)]( https://www.theguardian.com/australia-news/2019/nov/14/a-long-flight-to-freedom-how-refugee-behrouz-boochani-finally-left-his-island-jail-behind )
-
-
-[![Image](skynet/Screenshot_2019-12-30_08-24-38.png)]( https://www.theguardian.com/film/2019/dec/30/zac-efron-falls-ill-while-filming-reality-show-killing-zac-efron )
-
-[![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
-
-
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
