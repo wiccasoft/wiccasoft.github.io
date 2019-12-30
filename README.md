@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz şaka maka bokunda boğulacak olanlar -->
 <!-- bkz şaka maka kaka deyince akla gelenler -->
 <!-- bkz şaka maka 2020 erken seçim ihtimali -->
 <!-- bkz şaka maka akpnin adam akıllı iş yapması -->
