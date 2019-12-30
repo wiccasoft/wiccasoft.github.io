@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- bkz hasan mezarcının darth vader zaten darh varderim demeyecek demesi -->
 <!-- bkz darth vader vs zac efron -->
 <!-- bkz darth vader vs akp -->
 <!-- bkz darth vader vs bilal erdogan https://www.youtube.com/watch?v=Lbjru5CQIW4 --> 
