@@ -3,6 +3,7 @@
 
 <!-- 
 bkz togg vs tesla
+bkz elijah wood'a atatürk rolü teklif edilmesi
 bkz kıvanç tatlıoğlanın atatürk rolünün reddetmesi
 bkz türklerin atası diktatör mü sorunsalı
 https://timeanddate.com.websiteoutlook.com/
