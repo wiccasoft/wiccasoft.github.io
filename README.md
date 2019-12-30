@@ -2,7 +2,8 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
-bkz taylyan antalyalı vs togg
+bkz frank lucas vs recep tayyip erdoğan
+bkz taylan antalyalı vs togg
 bkz cem dizdar vs togg
 bkz togg vs tesla
 bkz togg un dünya markası olması
