@@ -4,6 +4,7 @@
 <!-- 
 bkz togg vs tesla
 bkz togg un dünya markası olması
+bkz dışardan araba toplatıp araba yaptık diyen malum ırk
 bkz daha araba üretmeden lansman yapan malum ırk
 bkz putine atatürk rolü teklif edilmesi
 bkz türklerin süper güç olmasının sebebi
