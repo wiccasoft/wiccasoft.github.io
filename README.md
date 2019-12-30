@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz sevişirken seneye görüşürüz demek
 bkz tam sevişecekken yılbaşına girmek
 https://www.uludagsozluk.com/e/42635652/bkz yılbaşında noel anneyle sevişecek ezik erkek
 bkz 10 yıldır sevişmeyen ezik erkek
