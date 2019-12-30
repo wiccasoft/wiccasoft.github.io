@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz mehdi zaten mehdiyim demeyecek hadisi
 bkz ali şanın atatürk rolüne sıcak bakması
 bkz kıvanç tatlıoğlanın atatürk rolünü reddetmesi
 bkz atatürke benzeyen adam vs binaliye benzeyen adam
@@ -18,7 +19,6 @@ bkz katatur fasulye pilav severdi iddaları
 bkz kadir mısıroğlalanın iyice bunaması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-deli-olmas%C4%B1/&w=bg
 https://www.youtube.com/watch?v=irUgulsrElg atatürk put mu sorunsalı
-bkz mehdi zaten mehdiyim demeyecek hadisi
 bkz cem dizdar vs cem dizgeniş
 bkz sevişirken seneye görüşürüz demek
 bkz tam sevişecekken yılbaşına girmek
