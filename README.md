@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz katatur vedat uzaklıgül dosluğu
 bkz katatur vs kmisiroğlan bkz iki ölü
 bkz kata turun ölü olduğunu kabul edemeyen ergenler
 bkz kata tur kadir mısırolan dosluğu
