@@ -3,6 +3,7 @@
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=4ku2g8tLGr4 )
 
 <!-- bkz erdoğanın sigara paketlerine keni resmini koyması -->
+<!-- bkz rte nin iibf den arkadaşlarıyla arasının açılması -->
 <!-- bkz recep tayyip erdoğanın galaksi lideri olma yolunda hızla ilerlemesi -->
 <!-- https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-vs-darth-sidious/ -->
 <!-- bkz galaksi lideri darth erdoğan vs dünya lideri rte -->
