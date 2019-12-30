@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz türklüğü yaymanın ırkçlık olarak algılanması
 https://www.youtube.com/watch?v=4yEKBNrTlxw bkz rte nin devraldığı türkiye
 bkz katatur fasulye pilav severdi iddaları
 bkz katatur kmisiroğlan nın arası neden acıldı
