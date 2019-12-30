@@ -3,6 +3,7 @@
 
 <!-- 
 bkz togg vs tesla
+bkz putine atatürk rolü teklif edilmesi
 bkz türklerin süper güç olmasının sebebi
 bkz elijah wood'a atatürk rolü teklif edilmesi
 bkz kıvanç tatlıoğlanın atatürk rolünün reddetmesi
