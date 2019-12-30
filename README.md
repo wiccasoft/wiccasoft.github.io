@@ -2,8 +2,8 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=4ku2g8tLGr4 )
 
-<!--bkz adalet ve kalkınma partisinin galaksi lideri erdoğan paylaşımı -->
-<!-- bkz erdoğanın sigara paketlerine keni resmini koyması -->
+<!-- bkz akpnin galaksi lideri erdoğan paylaşımı -->
+<!-- bkz erdoğanın sigara paketlerine kendi resmini koyması -->
 <!-- bkz rte nin iibf den arkadaşlarıyla arasının açılması -->
 <!-- bkz tayyipin iettden arkadaşlarının prof olması -->
 <!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
