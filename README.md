@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=4ku2g8tLGr4 )
 
+<!-- bkz kemal ışınkılıcdaroglu vs darth vader -->
 <!-- bkz recep tayyip erdoğan vs darth sidious -->
 <!-- bkz guardianın galaksi liderini övmesi -->
 <!-- bkz akpnin galaksi lideri erdoğan paylaşımı -->
