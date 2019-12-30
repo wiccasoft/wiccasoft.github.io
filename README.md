@@ -12,9 +12,7 @@
 <!-- bkz tayyipin iettden arkadaşlarının prof olması -->
 <!-- bkz prof.dr mustafa ılıcalı nın fatih altaylıya verdiği efsane boru gibi geri vites ayar --> 
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır ama benena -->
-<!-- bkz recep tayyip erdoğanın galaksi lideri olma yolunda hızla ilerlemesi -->
 <!-- https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-vs-darth-sidious/ -->
-<!-- bkz galaksi lideri darth erdoğan vs dünya lideri rte -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
 
