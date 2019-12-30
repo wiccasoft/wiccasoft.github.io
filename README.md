@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz benim eşim de arap zaten
+bkz araplaşmaya hayır demenin ırkçılık sayılması
 bkz mehdi zaten mehdiyim demeyecek hadisi
 bkz ali şanın atatürk rolüne sıcak bakması
 bkz kıvanç tatlıoğlanın atatürk rolünü reddetmesi
