@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz cem dizdar vs togg
 bkz togg vs tesla
 bkz togg un dünya markası olması
 bkz dışardan araba toplatıp araba yaptık diyen malum ırk
