@@ -3,6 +3,7 @@
 
 <!-- 
 bkz benim eşim de arap zaten
+bkz safkan türklerin ezik muamalesi görmesi
 bkz araplaşmaya hayır demenin ırkçılık sayılması
 bkz mehdi zaten mehdiyim demeyecek hadisi
 bkz ali şanın atatürk rolüne sıcak bakması
