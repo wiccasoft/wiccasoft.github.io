@@ -3,7 +3,7 @@
 
 <!-- 
 bkz ben ferro vs norm ender
-bkz iibf işletme mezunu karı hoplatmak
+bkz iibf işletme mezunu karıyı işletip hoplatmak
 bkz iibf mezunları derneğinden karı kaldırmak
 bkz iibf bitirip sözlükte ergenlerle sidik yarıştırmak
 bkz iibf mezunlarının biraz mal olamsı
