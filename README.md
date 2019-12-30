@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz ben ferro vs norm ender
 https://www.uludagsozluk.com/e/42635996/ bkz bi tayyip erdoğan kolay yetişmiy
 bkz benim eşim de arap zaten
 bkz safkan türklerin ezik muamalesi görmesi
