@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
-<!-- https://www.youtube.com/watch?v=kSh-g-aZG8A reynmenin neden bu fotoları gönderdi sorunalı -->
+<!-- https://www.youtube.com/watch?v=kSh-g-aZG8A reynmen neden bu fotoları gönderdi sorunsalı -->
 <!-- bkz reynmen'in kerimcana gönderdiği çıplak fotoları -->
 <!-- bkz asgari ücreti beğenmeyen vasıfsızlar -->
 <!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
