@@ -7,7 +7,7 @@ bkz cem dizdar vs cem dizgeniş
 bkz sevişirken seneye görüşürüz demek
 bkz tam sevişecekken yılbaşına girmek
 https://www.uludagsozluk.com/e/42635652/bkz yılbaşında noel anneyle sevişecek ezik erkek
-bkz 10 yıldır sevişmeyen ezik erkek
+bkz 40 yıldır sevişmeyen ezik aseksüel erkek
 bkz cem dizdar vs cem dizgeniş
 bkz frank lucas vs recep tayyip erdoğan
 bkz taylan antalyalı vs togg
