@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2019-12-28_16-43-29.png)]( https://www.youtube.com/watch?v=EhYQAnz_xG8 )
 
 <!-- 
+bkz kanıtkabre gitmeyen kendine türk demesin ulusun nasıl böyle bir imanı boğar
 bkz tatlısesin en atatürkçü benim demesi
 bkz en iyi kürt ölü kürttür demenin ırkçılık olarak algınlanması
 bkz türk önde türk ileri demenin suç sayılması
