@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2019-12-30_08-41-52.png)]( https://www.theguardian.com/world/2019/nov/18/jacinda-ardern-says-she-was-kept-in-the-dark-over-arrival-of-manus-refugee-behrouz-boochani )
 
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 noel baba adam mıdır sorunsalı -->
 <!-- bkz noel babanın gay olup olmadığı nasıl anlaşılır sorunsalı -->
 <!-- bkz noel baba zaten ben gayim demeyecekmiş sorunsalı -->
 <!-- bkz şaka maka adam akıllı gay bulmanın zorlaşması -->
