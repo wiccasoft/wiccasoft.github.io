@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- reynmen'in kerimcana gönderdiği çıplak fotoları -->
 <!-- bkz asgari ücreti beğenmeyen vasıfsızlar -->
 <!-- bkz attatürk ün asgari müdahaleye karşı olmaması -->
 <!-- bkz 5 ocak 2020 ünal kahraman geri vitesi -->
