@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!--bkz şaka maka adam akıllı iş yapan tek partinin ahepe olması -->
 <!-- bkz togg vs kakatürk heykelleri -->
 <!-- bkz tengir buduna saldıran ak itler -->
 <!-- bkz türklüğe sahip çıkmasının ırkçılık sayılması -->
