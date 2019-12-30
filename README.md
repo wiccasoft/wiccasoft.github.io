@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-29_19-17-17.png)]( https://www.youtube.com/watch?v=Lbjru5CQIW4 )
 
+<!-- https://www.youtube.com/watch?v=2H853-L2oRg darth vaderden sonra kim gelecek sorunsalı -->
 <!---https://www.youtube.com/watch?v=x0Vp56rU0AE bkz darth vaderin ziyareti -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk bkz kenan sofuoglunun yasama faaliyetleri -->
 <!-- bkz yemekteyiz hasan vs yemekte değiliz mahmut -->
