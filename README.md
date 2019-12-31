@@ -5,6 +5,7 @@
 
 <!-- bkz keşke orospunun sıçtıkları olmasaydı -->
 <!-- bkz orospunun sıçtıklarının genelde kamalcı olmaları -->
+<!-- bkz orospunun sıçtığı kamalcıların dürekli küfr etmeleri -->
 <!-- bkz keşke babanız dışarı boşalsaydı orospunun sıçtıkları -->
 <!-- https://www.uludagsozluk.com/k/fesli-orospu-evlad%C4%B1/&w=bg keşke orospu evladları keşke  -->
 <!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=bg keşke -->
