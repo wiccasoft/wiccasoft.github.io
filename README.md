@@ -5,6 +5,7 @@
 
 <!-- bkz nusretin meydan okuyan pozu -->
 <!-- bkz nusretin apple a meydan okuması -->
+<!-- bkz apple ın nusreti siklememesi --<
 <!-- bkz hadisenin hadise dürüm açması --> 
 <!-- bkz 2020 dürümcülerin kapışması yılı olacak -->
 <!-- bkz nusretin yusufa atara atar gidere gider demesi -->
