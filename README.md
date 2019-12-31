@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- https://www.youtube.com/watch?v=irUgulsrElg atatürk yılbaşı kutlarmıydı -->
-<!-- https://www.youtube.com/watch?v=TADBUKI-7-Q bkz ismet inönü caner erkin dosluğu -->
+<!-- https://www.youtube.com/watch?v=TADBUKI-7-Q ismet inönü caner erkin dosluğu -->
 <!-- https://www.youtube.com/watch?v=bJyzair0Oi8 -->
 <!-- bkz selaniklilerin orospu evladı olması -->
 <!-- https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC-neden-atat%C3%BCrk-%C3%BCn-cenazesine-kat%C4%B1lmad%C4%B1/&w=bg -->
