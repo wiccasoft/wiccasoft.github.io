@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz fesli orospu evladının insansı robotlara vatandaşlık verelim demesi -->
 <!-- bkz akınsoftun insansı robotlarının insanlığı tehdit edeceği gerçeği -->
 <!-- bkz akınsoft vs softbank vs çiftlikbank -->
 
