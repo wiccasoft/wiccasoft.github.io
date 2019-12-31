@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz o ses türkiye finallerinin tekrar yayınlanması -->
 <!-- bkz sedanın acuna yürümesi -->
 <!-- bkz acunun sedaya yürümesi -->
 <!-- bkz seda sayanının acuna yürümesi -->
