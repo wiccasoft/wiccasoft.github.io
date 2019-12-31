@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz viski varken rakı bira içmeyi modernlik sanan kamalcılar -->
 <!-- bkz sayın sayaanın yılbaşı kutlamam demesi -->
 <!-- bkz savcı sayanın çok yakışıklı olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42642506/ bkz savcı erkek seksiliği -->
