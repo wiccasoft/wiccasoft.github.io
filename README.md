@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz üstad kadirm ısıroğlanın paylaştığı keşkek yunan fener maçı izahı -->
+<!-- bkz üstad kadir mısıroğlanın paylaştığı keşkek olimpos fener maçı izahı -->
 <!-- https://www.youtube.com/watch?v=03gmK43m3w8 keşke yunan dölü galip gelseydi izahı --> 
 <!-- https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse yunan dölleri teferruattır -->
 <!-- bkz fesli orospu evladı sıçmığının yine ortalığı karıştırması -->
