@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!--bkz 2020 yi bir yiğit bırak -->
+<!--bkz akp nin paylaştığı recep tayyip doğanla girelim videosu --<
 <!--bkz recep tayyip doğanın ulusa sesleniş yapmaması -->
 <!--bkz köfteci yusufun paylaştığı yeni yılınız köfte gibi olsun paylaşımı -->
 <!-- bkz yusuf yazıcının paylaştığı imamoğlu paylaşımı -->
