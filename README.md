@@ -5,6 +5,7 @@
 
 <!-- bkz türküyeyi güzel bir yer sanan çomarlar -->
 <!-- bkz cennet ülkeyi yedirmeyiz şaka lan şaka yiyin birbirinizi -->
+<!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
 <!-- bkz cennet ülke türküyü kimin sorunsalı https://www.youtube.com/watch?v=wrWW9OpFtbo -->
 <!-- https://www.youtube.com/watch?v=yuP0Wjh7ceo -->
 <!-- bkz yerli otomobili kıskanan wolkswagen -->
@@ -25,7 +26,7 @@
 <!-- https://www.uludagsozluk.com/k/ekonomi-u%C3%A7tu-ama-star-ile-g%C3%BCne%C5%9F-kapand%C4%B1/ sad but true -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-15-temmuz-u-g%C3%B6rse-ne-derdi/&w=bg irdelenmeli -->
 <!-- https://www.uludagsozluk.com/k/rte-1881-de-do%C4%9Fsa-%C5%9Fu-an-d%C3%BCnya-lideriydik/&w=bg lol -->
-<!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
+
 
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
