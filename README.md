@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz macun kaplıcalının nusrete karı yollaması -->
+<!-- bkz dücane cündioğlunun nusrete kafa atması -->
+<!-- bkz macun kaplıcalının nusrete karı yollaması -->
 <!-- bkz nusretin acuna kelle paça yollaması -->
 <!-- bkz nusretin ali koç a koç kafası yollaması -->
 
