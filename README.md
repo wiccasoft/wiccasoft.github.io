@@ -1,4 +1,6 @@
 
+[![Image](skynet/Screenshot_2019-12-31_04-36-32.png)]( https://www.theguardian.com/technology/2019/dec/31/huawei-says-survival-is-our-first-priority-in-2020-as-western-boycott-bites )
+
 
 [![Image](skynet/Screenshot_2019-12-30_19-05-45.png)]( https://www.youtube.com/watch?v=pKa2ThQ6aeY )
 
