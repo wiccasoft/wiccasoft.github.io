@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz akınsoft vs softbank -->
 <!-- bkz türklerin isimlerini soyisimlerini firmalara verme nedeni -->
 <!-- bkz akınsoft un insansı robotlarının softbank robotlarına kafa tutması -->
 <!-- bkz imamaoglunun avmlere elektrik sayacı bedeve vaadi -->
