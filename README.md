@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz mustafa kemal atatürk yılbaşı kutlar mıydı -->
 <!-- bkz fesli orospu evladının çizmeyi aşması -->
 <!-- bkz fesli orospu evladının türklere hizmet etmeyecem demesi -->
 <!-- bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
