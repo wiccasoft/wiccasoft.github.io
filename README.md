@@ -4,31 +4,10 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!--bkz 2020 yi bir yiğit bırak -->
-<!--bkz recep tayyip doğanın yeni yıla güneş gib doğması -->
-<!--bkz doğu ğperinçek yeni yıl türk için türküyeli için paylaşımı -->
-<!--bkz doğu perinçekin payalaştığı yeni türk yılı fotosu -->
-<!--bkz halkların demokratip partisinin cumhuriyet kalk paritisiyle koalisyona hazırız demesi -->
-<!--bkz cumhuriyer halk partisinin ilçe başkanlıklarına çam ağacı asması -->
-<!--bkz cumhuriye halk partisini paylaştığı halkçılık fotosu -->
-<!--bkz kemal kılıççıoğlanın paylaştığı recep tayyip oğlan fotosu -->
-<!--bkz recep tayyip doğanın kemal kılıççıoğlanlı paylaştığı resim -->
-<!--bkz recep tayyip doğan oğlanın paylaştığı yeni yıl fotosu -->
-<!--bkz kemal kılıçdaroğlanın paylaştığı altı oklu yıl paylaşımı -->
-<!--bkz celal kılıçdaroğlanın abime iyi yılar demiyorum demesi -->
-<!--bkz kemal kılıçdaroğlunun celal kılıçdaroğlanla barışması -->
-<!--bkz kemal kılıçdaroğlunun yeni yıla atatürkle girelim açıklaması -->
-<!--bkz celal kılıçdaroğlanın yeni yıla uzun adamla girmesi -->
-<!--bkz kemal kılıççıoğlunun evindeki balkondan ulusa seslenmesi -->
+<!--bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
 <!--bkz recep tayyip doğanın 2020 balkon konuşması -->
 <!--bkz akp nin paylaştığı 2020 ye  recep tayyip doğanla girelim videosu --<
 <!--bkz recep tayyip doğanın ulusa sesleniş yapmaması -->
-<!--bkz köfteci yusufun paylaştığı yeni yılınız köfte gibi olsun paylaşımı -->
-<!-- bkz yusuf yazıcının paylaştığı imamoğlu paylaşımı -->
-<!-- bkz kılıççıoğlunun ulusa seslenişi iptal etmesi -->
-<!-- bkz mısıroğlu vs imamoğlu vs dündioğlu vs kılıçoğlu -->
-<!-- bkz mısır kadiroğlunun keşke yunanlıoğlular yeni yıla girmeseydi demesi --<
-<!-- bkz mısır kadiroğlunun kılıç dücaneoüluyla paylaştığı paylaşım -->
-<!-- bkz cündi dücaneoglunun kıllıçoğlunun oğluyla yeni yıla girmesi -->
 <!-- bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır paylaşımı -->
 <!-- bkz recep teyyip oğlanın emine ulusa imamaoğlan seslensin demesi -->
 <!-- bkz kılıçdaroğlanın paylaştığı imamaoğlan cündioüan hepsi bizim yiğitlerimiz paylaşımı -->
