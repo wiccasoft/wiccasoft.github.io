@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz cündioğlanlar vs imamoğlanlar -->
+
+<!-- bkz cündioğlanlar vs imamoğlanlar vs kılıçdaroğlanlar-->
 <!-- bkz imamoğlunun imamoğlanlar paylaşımı -->
 <!-- bkz dücane cündioğlunun cündiler aşireti paylaşımı -->
 <!-- bkz dücane cündioğlunun paylaştığı noel imamoğlan fotosu -->
