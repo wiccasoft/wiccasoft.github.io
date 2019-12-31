@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz savcı sayanın yetkilerimi alırım demesi -->
 <!-- bkz masterchef rıfat vs masterchef kerim -->
 <!-- bkz hadisenin o ses türkiye kekeme yarışmacıyı azarlamsı -->
 <!-- bkz kerem bursinin sırt kasları -->
