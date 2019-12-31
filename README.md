@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz dünyanın türkiyeyi kıskanması -->
 <!-- bkz tayyip doğan vs kamal mustafa doğan -->
 <!-- bkz cumhurbaşkanı kimse ülke onundur -->
 <!-- bkz götüne parmak atılan geysaraylının gey çıkması -->
