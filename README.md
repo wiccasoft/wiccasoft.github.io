@@ -5,32 +5,6 @@
 
 <!-- bkz akınsoftun insansı robotlarının insanlığı tehdit edeceği gerçeği -->
 <!-- bkz akınsoft vs softbank vs çiftlikbank -->
-<!-- bkz türklerin isimlerini soyisimlerini firmalara verme nedeni -->
-<!-- bkz akınsoft un insansı robotlarının softbank robotlarına kafa tutması -->
-<!-- bkz imamaoglunun avmlere elektrik sayacı bedeve vaadi -->
-<!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 imamaoglu vs binali -->
-<!-- bkz ekrem imamoğlunun akpli çöpçüleri işe geri alması -->
-<!-- bkz pkknın dam kadrosunu genişletmesi -->
-<!-- bkz ido tatlısesin takipten çıkması -->
-<!-- bkz kukusu emilen adamın cuck old çıkması -->
-<!-- bkz hoşlanılan cuckold un ido tatlısesin babası çıkması -->
-<!-- bkz noel baba cuckold mu sorunsalı -->
-<!-- bkz ido tatlıses neyse boşver klibi -->
-<!-- bkz atanın yatı vs rte nin gemisi --> 
-<!-- bkz rte heykelleri vs ata heykelleri -->
-<!-- bkz rte nin ikinci atatürk olduğu gerçeği -->
-<!-- bkz üçüncü atatürk ün bilal erdoğanın torunu olma ihtimali -->
-<!-- bkz ikinci atatürk rte mi imamaoğlan mı sorunsalı -->
-<!-- bkz zeki mürenin ido tatlısese yürümesi -->
-<!-- bkz şaka maka ido tatlısesin çok yakışıklı olması -->
-<!-- bkz ido tatlısese in 360 derece klibi -->
-<!-- bkz zeki mürenin yılbaşı programını ipral etmesi -->
-<!-- bkz 2020 doğumluların küfr edeceliği yıllarda keyf çatmak -->
-<!-- bkz 2020 yılının ilk bebişinin adı ne olacak sorunalı -->
-<!-- bkz orospu evladı feslinin çizmeyi aşması -->
-<!-- bkz bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
-<!-- bkz 31 aralık 2019 fesli orospu evladının çizmeyi aşması -->
-<!-- bkz fesli orospu evladının keşke yunan gelseydi açıklaması -->
 
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
