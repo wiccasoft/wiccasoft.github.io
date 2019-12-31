@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz mansur yavaşın kanal ankara ile kanak istanbulu bağlayalım teklifi -->
+<!-- bkz mansur yavaşın kanal ankara ile kanal istanbulu bağlayalım teklifi -->
 <!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9Fa-iftira-atan-necmettin-kesgine-ceza/ -->
 <!-- https://www.uludagsozluk.com/k/ekonomi-u%C3%A7tu-ama-star-ile-g%C3%BCne%C5%9F-kapand%C4%B1/ sad but true -->
 <!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-15-temmuz-u-g%C3%B6rse-ne-derdi/&w=bg irdelenmeli -->
