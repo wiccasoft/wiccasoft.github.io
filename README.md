@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-y%C4%B1lba%C5%9F%C4%B1-program%C4%B1/ -->
+<!-- bkz savcı sayanın çok yakışıklı olması sorunsalı -->
 <!-- bkz savcı sayanın yetkilerimi alırım demesi -->
 <!-- bkz masterchef rıfat vs masterchef kerim -->
 <!-- bkz hadisenin o ses türkiye kekeme yarışmacıyı azarlamsı -->
