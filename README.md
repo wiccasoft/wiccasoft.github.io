@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz türklerin isimlerini firmalara verme nedeni -->
+<!-- bkz türklerin isimlerini firmalara verme nedeni -->
 <!-- bkz akınsoft un insansı robotlarının softbank robotlarına kafa tutması -->
 <!-- bkz imamaoglunun avmlere elektrik sayacı bedeve vaadi -->
 <!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 imamaoglu vs binali -->
