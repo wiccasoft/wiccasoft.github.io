@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz hoşlanılan cuckold un ido tatlısesin babası çıkması -->
 <!-- bkz noel baba cuckold mu sorunsalı -->
 <!-- bkz ido tatlıses neyse boşver klibi -->
 <!-- bkz atanın yatı vs rte nin gemisi --> 
