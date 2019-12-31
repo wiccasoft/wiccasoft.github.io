@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz senin bildiğinin yarısını unuttum diyen ergene yav he he demek -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
 <!-- bkz küpe takan erkek https://www.youtube.com/watch?v=wrWW9OpFtbo -->
 <!-- bkz albayın içtima aldığını hayal eden ergen-->
