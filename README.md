@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz fesli orospu evladının yine ortalığı karıştırması -->
 <!-- bkz türküyeyi güzel bir yer sanan çomarlar -->
 <!-- bkz cennet ülkeyi yedirmeyiz şaka lan şaka yiyin birbirinizi -->
 <!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
