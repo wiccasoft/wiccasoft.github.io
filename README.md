@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.youtube.com/watch?v=tkSkUbhqtWs -->
 <!-- https://www.youtube.com/watch?v=PAlwP6oeJpA -->
 <!-- bkz erkem imamoğlan vs recep imam tayyip i hatip oğlan -->
 <!-- bkz badou ndiaye nin sevgili olmak siteyenler kapım açık demesi -->
