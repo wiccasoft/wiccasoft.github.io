@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz üçüncü atatürk ün bilalaerdoğanın torunu olma ihtimali -->
+<!-- bkz üçüncü atatürk ün bilal erdoğanın torunu olma ihtimali -->
 <!-- bkz ikinci atatürk rte mi imamaoğlan mı sorunsalı -->
 <!-- bkz zeki mürenin ido tatlısese yürümesi -->
 <!-- bkz şaka maka ido tatlısesin çok yakışıklı olması -->
