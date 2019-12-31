@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!--bkz imamaoglunun avmlere elektrik sayacı bedeve vaadi -->
 <!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 imamaoglu vs binali -->
 <!-- bkz ekrem imamoğlunun akpli çöpçüleri işe geri alması -->
 <!-- bkz pkknın dam kadrosunu genişletmesi -->
