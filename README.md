@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz hadisenin o ses türkiye kekeme yarışmacıyı azarlamsı -->
 <!-- bkz kerem bursinin sırt kasları -->
 <!-- bkz tayyip erdoğan ikinci atatürk mü sorunsalı -->
 <!-- bkz orospu evladı sıçmık feslinin çizmeyi aşması -->
