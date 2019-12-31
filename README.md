@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
  
+<!-- bkz noel baba vs yılbaşı baba -->
 <!-- bkz ikinci atatürk rte ise üçüncü atatürk kim sorunsalı -->
 <!-- bkz fesli orospu evladının çizmeyi aşması -->
 <!-- bkz fesli orospu evladının türklere hizmet etmeyecem demesi -->
