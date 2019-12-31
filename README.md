@@ -5,8 +5,7 @@
 
 <!-- bkz zeki mürenin ido tatlısese yürümesi -->
 <!-- bkz şaka maka ido tatlısesin çok yakışıklı olması -->
-<!-- bkz ido tatlısese in 360 derece klibi vs ibrahim tatlıses neşet ertaş düeti -->
-<!-- bkz zeki mürenin 2020 de yeni zelandaya kaçma planları -->
+<!-- bkz ido tatlısese in 360 derece klibi -->
 <!-- bkz zeki mürenin yılbaşı programını ipral etmesi -->
 <!-- bkz 2020 doğumluların küfr edeceliği yıllarda keyf çatmak -->
 <!-- bkz 2020 yılının ilk bebişinin adı ne olacak sorunalı -->
