@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz nusretin mekkenin fethini kutlaması -->
 <!-- bkz akınsoftun türk düşmanlarını tespit eden robot geliştirmesi -->
 <!-- bkz akınsoftun yaptığı türkçü robotların türkçü olmayanlara orospu evlatları demesi-->
 <!-- bkz akınsoftun akıncılar robotunun yunanlıları taciz etmesi -->
