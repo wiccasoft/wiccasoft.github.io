@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/e/42643978/ bkz bi am uğruna ne güneşler batıyo ya rab -->
 <!-- https://www.uludagsozluk.com/e/42644148/ lol -->
 <!-- https://www.youtube.com/watch?v=Zi4PffZzRkc hemp -->
 <!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
