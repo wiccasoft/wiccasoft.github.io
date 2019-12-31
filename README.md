@@ -3,64 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz kemal kılıççoğlanın beyaz atlet giyip fes takması -->
-<!-- https://www.uludagsozluk.com/k/akplilerdeki-yunan-sevdas%C4%B1n%C4%B1n-sebebi/ -->
-<!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1-sevmemek-hastal%C4%B1kt%C4%B1r/ -->
-<!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=gd keşke banan dışarı boşalsaydı-->
-<!-- https://www.uludagsozluk.com/k/biraz-sonra-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-%C3%A7omarlara-kalacak-olmas%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/%C3%B6h%C3%B6%C3%B6-%C3%B6h%C3%B6%C3%B6-%C5%9Feklinde-%C3%B6ks%C3%BCren-dede/ -->
-<!-- https://www.uludagsozluk.com/k/2019-biterken-k%C3%BCf%C3%BCr-edilecekler-veritaban%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-fes-takmas%C4%B1/&w=bg -->
-<!-- https://www.uludagsozluk.com/k/dedikodu-yapan-erkek/&w=bg bkz vurduruyordur -->
-<!-- bkz keşke yunan gelip gelseydi orrrspunın sıçtıkları yahu -->
-<!-- bkz türklerin orrrooooooospu sıçmıkları olması --->
-<!-- bkz orrrrrrrrrrrossspuu sıçmıklarııııııııııııııııı türkler -->
-<!-- bkz fessiz orospu evlatları -->
-<!-- bkz türklerin orospu sıçmığı olması sebepleri -->
-<!-- bkz türklerin orospu sıçmıkları olması -->
-<!-- bkz ilber ortaylının orosğu sıçmıklarına verdiği ayar -->
-<!-- bkz mustafa kamal sıçmığı vs rte sıçmığı -->
-<!-- bkz fesli mustafa kamal sıçmıkları -->
-<!-- bkz kamalcı orospunun sıçtıklarının yşne tad kaçırması -->
-<!-- bkz keşke kamalcı orospunun sıçtıkları olmasydı --<
-<!-- bkz orospunun sıçtıklarının genelde kamalcı olmaları -->
-<!-- bkz orospunun sıçtığı kamalcıların dürekli küfr etmeleri -->
-<!-- bkz keşke babanız dışarı boşalsaydı orospunun sıçtıkları -->
-<!-- https://www.uludagsozluk.com/k/fesli-orospu-evlad%C4%B1/&w=bg keşke orospu evladları keşke  -->
-<!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=bg keşke -->
-<!-- bkz selanik göçmenlerinin orospu çocuğu olması -->
-<!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-kazansayd%C4%B1-diyene-%C3%BCstad-diyen-%C3%A7omar/ -->
-<!-- bkz azından bal damlayan kamalcılar -->
-<!-- keşke yunan kazansaydı diyene üstad diyen çomar -->
-<!-- bkz fesli orospu sıçmığının yine kaşınması -->
-<!-- bkz fesli orospunun sıçtığı vs fessiz orospunun sıçtığı -->
-<!-- bkz fesli orospu evladının yine ortalığı karıştırması -->
-<!-- bkz türküyeyi güzel bir yer sanan çomarlar -->
-<!-- bkz cennet ülkeyi yedirmeyiz şaka lan şaka yiyin birbirinizi -->
-<!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
-<!-- bkz cennet ülke türküyü kimin sorunsalı https://www.youtube.com/watch?v=wrWW9OpFtbo -->
-<!-- https://www.youtube.com/watch?v=yuP0Wjh7ceo -->
-<!-- bkz yerli otomobili kıskanan wolkswagen -->
-<!-- bkz geyler cenneti türküyüde gözü olan dış mihraklar -->
-<!-- bkz cumhurbaşkanı kimse ülke onundur -->
-<!-- bkz dünyanın türkiyeyi kıskanması -->
-<!-- bkz tayyip doğan vs kamal mustafa doğan -->
-<!-- bkz cumhurbaşkanı kimse ülke onundur -->
-<!-- bkz götüne parmak atılan geysaraylının gey çıkması -->
-<!-- bkz içtima alan albaya hadi lan amk diyen er -->
-<!-- https://www.uludagsozluk.com/k/i%C3%A7tima-alan-albay-a-hadi-lan-donduk-amk-diyen-er/&w=bg -->
-<!-- bkz mustafa kemal atatürk vs recep tayyip doğan -->
-<!-- bkz ümmeti kemal vs ümmeti muhammed -->
-<!-- bkz bir erkeğin gay olup olmadığını anlamının yolları -->
-<!-- https://www.uludagsozluk.com/k/tarikat-seyhleri-neden-hep-e%C5%9Fcinsel-olur/  irdelenmeli -->
-<!-- bkz mansur yavaşın kanal ankara ile kanal istanbulu bağlayalım teklifi -->
-<!-- https://www.uludagsozluk.com/k/mansur-yava%C5%9Fa-iftira-atan-necmettin-kesgine-ceza/ -->
-<!-- https://www.uludagsozluk.com/k/ekonomi-u%C3%A7tu-ama-star-ile-g%C3%BCne%C5%9F-kapand%C4%B1/ sad but true -->
-<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-15-temmuz-u-g%C3%B6rse-ne-derdi/&w=bg irdelenmeli -->
-<!-- https://www.uludagsozluk.com/k/rte-1881-de-do%C4%9Fsa-%C5%9Fu-an-d%C3%BCnya-lideriydik/&w=bg lol -->
-
-
-
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
 
