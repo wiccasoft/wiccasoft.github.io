@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-
+<!-- bkz mustafa kamal atatürkün ne mutlu 2020 ye türk girene demesi -->
 <!-- bkz mustafa kamal atatürkün en iyi yıl türklerin yılıdır demesi -->
 <!-- bkz ekrem imamaoğlanın taksimi bok götürüyo demesi -->
 <!-- bkz ekrem imamaoğlanın çöpçülere çöpleri toplamayın demesi -->
