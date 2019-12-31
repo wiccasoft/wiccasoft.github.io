@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz erkeme imamoğlan vs recep tayyip imam hatip oğlan -->
+<!-- bkz erkem imamoğlan vs recep imam tayyip i hatip oğlan -->
 <!-- bkz badou ndiaye nin sevgili olmak siteyenler kapım açık demesi -->
 <!-- bkz fesli orospu evladının sevgili istememek konusunda ısrar etmesi -->
 <!-- bkz fesli orospu evladının sevgili istememesi. -->
