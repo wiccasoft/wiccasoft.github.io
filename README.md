@@ -4,27 +4,6 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz busretin acuna kelle paça yollaması -->
-<!-- bkz kusretin paylaştığı viskilerin iskoç malı çıkması -->
-<!-- bkz hepsiorada.com un yaptığı yılbaşı terbiyesizliği -->
-<!-- bkz macunun seda sayan memelerini sansürlemesi -->
-<!-- bkz beyazıt öztürkün paylaştığı öz türk benim pozu -->
-<!-- https://www.uludagsozluk.com/e/42643367/ bkz mahsunun paylaştığı yılbaşı pozu -->
-<!-- https://www.uludagsozluk.com/e/42643311/ bkz nusretin paylaştığı suudi viskiler --->
-<!-- bkz nusretin rahatsız bir tip olması --
-<!-- bkz akınsoftun kamalsız robotlarının insanlığı tehdit edeceği gerçeği -->
-<!-- https://www.uludagsozluk.com/e/42643220/ bkz akınsoftun geliştirdiği kamalsız robot -->
-<!---https://www.uludagsozluk.com/e/42643220/ bkz nusretin prim kokan 2020 pozu -->
-<!-- bkz orospu evlatlarının atatürk yerine noel babaya girmesi -->
-<!-- bkz orospu evlatlarının yeni yıla atatürksüz girmesi --<
-<!-- bkz 2020 ye bi atatürk sözü bırak orospu evladı -->
-<!-- bkz orospu evladı feslinin yine kaşınması -->
-<!-- bkz ikinci atatürk rte ise üçüncü rte kim sorunsalı -->
-<!-- bkz fesli orospu evladının çizmeyi aşması -->
-<!-- bkz fesli orospu evladının türklere hizmet etmeyecem demesi -->
-<!-- bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
-<!-- bkz fesli orospu evladının insansı robotlara vatandaşlık verelim demesi -->
-<!-- bkz akınsoftun insansı robotlarının insanlığı tehdit edeceği gerçeği -->
-<!-- bkz akınsoft vs softbank vs çiftlikbank -->
 
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
