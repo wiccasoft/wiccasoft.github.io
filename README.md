@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz tayyip erdoğan ikinci atatürk mü sorunsalı -->
 <!-- bkz orospu evladı sıçmık feslinin çizmeyi aşması -->
 <!-- bkz orospu evladı feslinin aseksüel olması -->
 <!-- bkz bkz fesli orospu sıçmığı evladının keşke gassaray galip gelseydi demesi --<
