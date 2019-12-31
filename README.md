@@ -4,60 +4,8 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz 2020 yi bir yiğit bırak -->
-<!--bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
-<!-- bkz eykeklerin am uğruna neler yamsı neley --< 
-<!-- bkz uludaki ibnelerin bemi imamaoglan cündiolan tayyipolan kılışdaroğlan falan sanması asdasdasdasdasd --->
-<!-- bkz türklerle ilgili tek bir şey paylaşmadığım halde beni takip etmeleri olm skimde değilsiniz ln:)))) -->
-<!-- bkz türkler niye beni takip ediyor sorunsalı ben sizin köye bağlı değilim kardeş -->
-<!-- bkz minik serçenin paylaştığı imamoğlu videosu -->
-<!-- bkz sezen aksu makyajsız hali -->
-<!-- bkz otomotik vites kullanan iki elle direksiyon çeviren ılık erkek -->
-<!-- bkz yeni yıl parti yaparken bi anda ihraç edilmek -->
-<!-- bkz dücane cündioğlunun am için partiyi satması -->
-<!-- bkz dücane cündiolunun partiden ihraç edilmesi -->
-<!-- bkz halkların cumhuriyetçi partisinin yön değiştirmesi -->
-<!-- bkz milliyetçi hareket partisini cuhmuriyet halk partisiyle ilişiğimiz kalmamıştır açıklaması -->
-<!-- bkz cumhuriyet halk partisinin paylaştığı çam ağaclı doğu perinçek fotosu -->
-<!-- bkz bahcelinin paylaştığı recep tayyip doğan kafası -->
 <!-- bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
-<!-- bkz recep tayyip doğanın 2020 balkon konuşması -->
-<!-- bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır paylaşımı -->
-<!-- bkz recep teyyip oğlanın emine ulusa imamaoğlan seslensin demesi -->
-<!-- bkz kılıçdaroğlanın paylaştığı imamaoğlan cündioüan hepsi bizim yiğitlerimiz paylaşımı -->
-<!-- bkz mustafa kemal kılıçdaroğlanın mevzu yeni yıl ise gireriz açıklaması -->
-<!-- bkz cündioğlanlar vs imamoğlanlar vs kılıçdaroğlanlar-->
-<!-- bkz imamoğlunun imamoğlanlar paylaşımı -->
-<!-- bkz dücane cündioğlunun cündiler aşireti paylaşımı -->
-<!-- bkz dücane cündioğlunun paylaştığı noel imamoğlan fotosu -->
-<!-- bkz dücane cündioğlunun ekremm imamaoğlunun babasıyla olan dostluğu -->
-<!-- bkz ekrem imamaoğlu nun babasının noel baba kılığına girmesi -->
-<!-- bkz ekreem imamoğlu yeni yıla girmişmidir sorunsalı -->
-<!-- bkz mustafa kemal atatürk yeni yıla nasıl girerdi sorunsalı -->
-<!-- https://www.uludagsozluk.com/e/42643715/  yollamayın zaten siken yok -->
-<!-- https://www.uludagsozluk.com/k/kamalizm/&w=bg komik bi ideoloji evet  -->
-<!-- bkz 2020 ye önce türklerin girmesi -->
-<!-- bkz ne mutlu mustafa kemal atatürküm diyene -->
-<!-- bkz hepimiz kemaliz hepimiz atatürküz ne mutlu 2020 ye atatürküm diyene -->
-<!-- https://www.youtube.com/watch?v=BSzFIAXtXmk bkz ne mutlu 2020 ye türk girene -->
-<!-- bkz 2020 ye türk giren en asil duyguların insanıdır mk.atatürk -->
-<!-- bkz mustafa kamal atatürkün ne mutlu 2020 ye türk girene demesi -->
-<!-- bkz mustafa kamal atatürkün en iyi yıl türklerin yılıdır demesi -->
-<!-- bkz ekrem imamaoğlanın taksimi bok götürüyo demesi -->
-<!-- bkz ekrem imamaoğlanın çöpçülere çöpleri toplamayın demesi -->
-<!-- bkz kemal kılıçdaroğlanın yeni yıl konuşması -->
-<!-- bkz ekrem  imamaoğlanın yeni yıl istanbul konuşması -->
-<!-- bkz ekrem imamaoğlanın recep tayyip doğanın yeni yılını kutlaması -->
-<!-- bkz recep tayyip doğanın ulusa sesleniş konuşması -->
-<!-- bkz recep tayyip perdoğanın dücane cündioglunu makamında kaul etmesi -->
-<!-- bkz dücane cündibeyoğlunun kamalcıalr kafirdir demesi -->
-<!-- bkz dücane cündioğlunun nusretle acuna karı için teşekkür etmesi -->
-<!-- https://www.uludagsozluk.com/e/42643577/ bkz okumadım pampa kaç sayfa bu -->
-<!-- bkz dücane cündioğlunun cündioğullarındanız demesi -->
-<!-- bkz ali koçun fenerbahçeyi kapatması -->
-<!-- bkz dücane cündioğlunun nusrete kafa atması -->
-<!-- bkz macun kaplıcalının nusrete karı yollaması -->
-<!-- bkz nusretin acuna kelle paça yollaması -->
-<!-- bkz nusretin ali koç a koç kafası yollaması -->
+
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
