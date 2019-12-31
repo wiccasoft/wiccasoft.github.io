@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz 2020 yi bir yiğit bırak -->
-<!--bkz türklerle ilgili tek bir şey paylaşmadığım halde beni takip etmeleri -->
+<!-- bkz türklerle ilgili tek bir şey paylaşmadığım halde beni takip etmeleri :)))))) -->
 <!-- bkz türkler niye beni takip ediyor sorunsalı ben sizin köye bağlı değilim kardeş -->
 <!-- bkz minik serçenin paylaştığı imamoğlu videosu -->
 <!-- bkz sezen aksu makyajsız hali -->
