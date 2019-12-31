@@ -3,8 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz 31 aralık 2019 fesli orospu evladının çzimeyi aşması -->
-<!-- bkz fesli orospu evladının keşke yunan gelseydi izahı -->
+<!-- bkz 31 aralık 2019 fesli orospu evladının çizmeyi aşması -->
+<!-- bkz fesli orospu evladının keşke yunan gelseydi açıklaması -->
 <!-- bkz selanikli orospu evladı vs türk oğlu türk -->
 <!-- bkz fesli orospu evladının yine keşke yunan diyerek türkleri kışkırtması -->
 
