@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz cennet ülkeyi yedirmeyiz şaka lan şaka yiyin birbiriniz -->
+<!-- bkz cennet ülkeyi yedirmeyiz şaka lan şaka yiyin birbirinizi -->
 <!-- bkz cennet ülke türküyü kimin sorunsalı -->
 <!-- https://www.youtube.com/watch?v=yuP0Wjh7ceo -->
 <!-- bkz yerli otomobili kıskanan wolkswagen -->
