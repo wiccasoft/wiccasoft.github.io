@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz köfteci yusufun etçi nusrete kalıbını alırım demesi -->
 <!-- bkz nusretin mekkenin fethini kutlaması -->
 <!-- bkz masterchef rıfatın seda sayana yürümesi -->
 <!-- bkz akınsoftun türk düşmanlarını tespit eden robot geliştirmesi -->
