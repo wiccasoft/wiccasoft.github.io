@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=gd keşke banan dışarı boşalsaydı-->
 <!-- https://www.uludagsozluk.com/k/biraz-sonra-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-%C3%A7omarlara-kalacak-olmas%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/k/%C3%B6h%C3%B6%C3%B6-%C3%B6h%C3%B6%C3%B6-%C5%9Feklinde-%C3%B6ks%C3%BCren-dede/ -->
 <!-- https://www.uludagsozluk.com/k/2019-biterken-k%C3%BCf%C3%BCr-edilecekler-veritaban%C4%B1/ -->
