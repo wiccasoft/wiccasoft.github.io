@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz yerli otomobili kıskanan wolkwagen -->
+<!-- bkz yerli otomobili kıskanan wolkswagen -->
 <!-- bkz geyler cenneti türküyüde gözü olan dış mihraklar -->
 <!-- bkz cumhurbaşkanı kimse ülke onundur -->
 <!-- bkz dünyanın türkiyeyi kıskanması -->
