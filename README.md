@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz türklerin orrrooooooospu sıçmıkları olması --->
 <!-- bkz orrrrrrrrrrrossspuu sıçmıklarııııııııııııııııı türkler -->
 <!-- bkz fessiz orospu evlatları -->
 <!-- bkz türklerin orospu sıçmığı olması sebepleri -->
