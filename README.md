@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz hadisenin hadise dürüm açması --> 
 <!-- bkz 2020 dürümcülerin kapışması yılı olacak -->
 <!-- bkz nusretin yusufa atara atar gidere gider demesi -->
 <!-- bkz tatlıses lahmacunun nusret polemiğine sessiz kalması -->
