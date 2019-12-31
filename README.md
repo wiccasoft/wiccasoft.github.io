@@ -4,9 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 
-<!---bkz nusretin prim kokan 2020 pozu -->
-<!-- bkz yeni yıla bir üstad sözü bırak -->
-<!-- https://www.uludagsozluk.com/e/42643220/  -->
+<!---https://www.uludagsozluk.com/e/42643220/ bkz nusretin prim kokan 2020 pozu -->
 <!-- bkz orospu evlatlarının atatürk yerine noel babaya girmesi -->
 <!-- bkz orospu evlatlarının yeni yıla atatürksüz girmesi --<
 <!-- bkz 2020 ye bi atatürk sözü bırak orospu evladı -->
