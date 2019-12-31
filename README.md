@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-kazansayd%C4%B1-diyene-%C3%BCstad-diyen-%C3%A7omar/ -->
 <!-- bkz azından bal damlayan kamalcılar -->
 <!-- keşke yunan kazansaydı diyene üstad diyen çomar -->
 <!-- bkz fesli orospu sıçmığının yine kaşınması -->
