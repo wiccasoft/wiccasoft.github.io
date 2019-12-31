@@ -3,6 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+
+<!---bkz nusretin prim kokan 2020 pozu -->
 <!-- bkz yeni yıla bir üstad sözü bırak -->
 <!-- https://www.uludagsozluk.com/e/42643220/  -->
 <!-- bkz orospu evlatlarının atatürk yerine noel babaya girmesi -->
