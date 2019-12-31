@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz 2020 yi bir yiğit bırak -->
+<!-- bkz yeni yıl parti yaparken bi anda ihraç edilmek -->
 <!-- bkz dücane cündioğlunun am için partiyi satması -->
 <!-- bkz dücane cündiolunun partiden ihraç edilmesi -->
 <!-- bkz halkların cumhuriyetçi partisinin yön değiştirmesi -->
