@@ -6,6 +6,7 @@
 <!-- bkz 2020 yi bir yiğit bırak -->
 <!-- bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
 <!-- bkz celal kılıçdaroğlanın paylaştığı güneş gibi doğan rte fotosu -->
+<!-- bkz celal kılıçdaroğlanın yerim uzun adamın yeridir paylaşımı -->
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
