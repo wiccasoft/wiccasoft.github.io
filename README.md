@@ -5,6 +5,7 @@
 
 <!-- https://www.uludagsozluk.com/e/42644148/ lol -->
 <!-- https://www.youtube.com/watch?v=Zi4PffZzRkc hemp -->
+<!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
