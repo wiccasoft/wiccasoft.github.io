@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz pkknın dam kadrosunu genişletmesi -->
+<!-- bkz ido tatlısesin takipten çıkması -->
 <!-- bkz kukusu emilen adamın cuck old çıkması -->
 <!-- bkz hoşlanılan cuckold un ido tatlısesin babası çıkması -->
 <!-- bkz noel baba cuckold mu sorunsalı -->
