@@ -3,13 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz 2020 yi bir yiğit bırak -->
-<!-- bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
-<!-- bkz recep tayyip doğanın ulusa sesleniş videosu -->
-<!-- bkz şaka maka yeni yıl partimin süper geçmesi -->
-<!-- bkz recep tayyip doğanın çatlasanız da patlasnız da yeni yıl partisi verecem demesi -->
-<!-- bkz celal kılıçdaroğlanın paylaştığı güneş gibi doğan rte fotosu -->
-<!-- bkz celal kılıçdaroğlanın yerim uzun adamın yeridir paylaşımı -->
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
