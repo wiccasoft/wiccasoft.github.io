@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 
+<!-- https://www.uludagsozluk.com/k/akplilerdeki-yunan-sevdas%C4%B1n%C4%B1n-sebebi/ -->
 <!-- https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1n%C4%B1-sevmemek-hastal%C4%B1kt%C4%B1r/ -->
 <!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=gd keşke banan dışarı boşalsaydı-->
 <!-- https://www.uludagsozluk.com/k/biraz-sonra-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-%C3%A7omarlara-kalacak-olmas%C4%B1/ -->
