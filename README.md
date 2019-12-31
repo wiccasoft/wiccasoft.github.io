@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz sayın syaanın yılbaşı kutlamam demesi -->
+<!-- bkz sayın sayaanın yılbaşı kutlamam demesi -->
 <!-- bkz savcı sayanın çok yakışıklı olması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42642506/ bkz savcı erkek seksiliği -->
 <!-- bkz savcı sayanın yetkilerimi alırım demesi -->
