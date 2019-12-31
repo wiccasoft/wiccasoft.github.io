@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz ekrem imamaoğlanın recep tayyip doğanın yeni yılını kutlaması -->
 <!-- bkz recep tayyip doğanın ulusa sesleniş konuşması -->
 <!-- bkz recep tayyip perdoğanın dücane cündioglunu makamında kaul etmesi -->
 <!-- bkz dücane cündibeyoğlunun kamalcıalr kafirdir demesi -->
