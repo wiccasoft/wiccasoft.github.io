@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz ilber ortaylının orosğu sıçmıklarına verdiği ayar -->
+<!-- bkz türklerin orospu sıçmıkları olması -->
+<!-- bkz ilber ortaylının orosğu sıçmıklarına verdiği ayar -->
 <!-- bkz mustafa kamal sıçmığı vs rte sıçmığı -->
 <!-- bkz fesli mustafa kamal sıçmıkları -->
 <!-- bkz kamalcı orospunun sıçtıklarının yşne tad kaçırması -->
