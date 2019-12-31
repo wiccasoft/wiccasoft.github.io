@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- fesli orospu evladının askesüel olması ve sevgili istememesi -->
 <!-- bkz fesli orospu evladının lokur lokur viski içmesi -->
 <!-- bkz ekrem imamoğlanın rte nin yılbaşını kutlamaması -->
 <!-- bkz şaka maka bi şişe viskinin yılbaşından önce bitmesi -->
