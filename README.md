@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz cumhurbaşkanı kimse ülke onundur -->
 <!-- bkz götüne parmak atılan geysaraylının gey çıkması -->
 <!-- bkz içtima alan albaya hadi lan amk diyen er -->
 <!-- https://www.uludagsozluk.com/k/i%C3%A7tima-alan-albay-a-hadi-lan-donduk-amk-diyen-er/&w=bg -->
