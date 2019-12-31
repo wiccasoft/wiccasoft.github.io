@@ -3,41 +3,14 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz busretim acuna kelle paça yollaması -->
-<!-- bkz sedanın acuna yürümesi -->
-<!-- bkz acunun sedaya yürümesi -->
-<!-- bkz seda sayanının acuna yürümesi -->
-<!-- bkz hadisenin acuna memelerini sallaması -->
-<!-- bkz murat bozun acun benim babam gibi demesi -->
-<!-- bkz nusretin paylaştığı viskilerin iskoç malı çıkması -->
+<!-- bkz busretin acuna kelle paça yollaması -->
+<!-- bkz kusretin paylaştığı viskilerin iskoç malı çıkması -->
 <!-- bkz hepsiorada.com un yaptığı yılbaşı terbiyesizliği -->
 <!-- bkz macunun seda sayan memelerini sansürlemesi -->
 <!-- bkz beyazıt öztürkün paylaştığı öz türk benim pozu -->
 <!-- https://www.uludagsozluk.com/e/42643367/ bkz mahsunun paylaştığı yılbaşı pozu -->
 <!-- https://www.uludagsozluk.com/e/42643311/ bkz nusretin paylaştığı suudi viskiler --->
-<!-- bkz nusretin rahatsız bir tip olması -->
-<!-- bkz nusretin microsoft a kelle yolaması -->
-<!-- bkz nusretin meydan okuyan pozu -->
-<!-- bkz nusretin apple a meydan okuması -->
-<!-- bkz apple ın nusreti siklememesi --<
-<!-- bkz hadisenin hadise dürüm açması --> 
-<!-- bkz 2020 dürümcülerin kapışması yılı olacak -->
-<!-- bkz nusretin yusufa atara atar gidere gider demesi -->
-<!-- bkz tatlıses lahmacunun nusret polemiğine sessiz kalması -->
-<!-- bkz yusufun nusrete primci demesi -->
-<!-- bkz akının paylaştığı nusret fotosu -->
-<!-- bkz czn burakın prim kokmayan postu -->
-<!-- bkz nusretin prim kokan 2020 pozu -->
-<!-- bkz nusretin mekke nin fethini akıncı robotla kutlaması -->
-<!-- bkz hadisenin o ses zortu bırakması -->
-<!-- bkz macunun seda sayanın memelerini paylaşması -->
-<!-- bkz köfteci yusufun etçi nusrete kalıbını alırım demesi -->
-<!-- bkz nusretin mekkenin fethini kutlaması -->
-<!-- bkz masterchef rıfatın seda sayana yürümesi -->
-<!-- bkz akınsoftun türk düşmanlarını tespit eden robot geliştirmesi -->
-<!-- bkz akınsoftun yaptığı türkçü robotların türkçü olmayanlara orospu evlatları demesi-->
-<!-- bkz akınsoftun akıncılar robotunun yunanlıları taciz etmesi -->
-<!-- bkz pkklıların paylaştığı kamal kafalı yılbaşı postu -->
+<!-- bkz nusretin rahatsız bir tip olması --
 <!-- bkz akınsoftun kamalsız robotlarının insanlığı tehdit edeceği gerçeği -->
 <!-- https://www.uludagsozluk.com/e/42643220/ bkz akınsoftun geliştirdiği kamalsız robot -->
 <!---https://www.uludagsozluk.com/e/42643220/ bkz nusretin prim kokan 2020 pozu -->
