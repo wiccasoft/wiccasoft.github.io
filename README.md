@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--b kz zeki mürenin yılbaşı programını ipral etmesi -->
+<!-- bkz zeki mürenin 2020 de yeni zelandaya kaçma planları -->
+<!-- bkz zeki mürenin yılbaşı programını ipral etmesi -->
 <!-- bkz 2020 doğumluların küfr edeceliği yıllarda keyf çatmak -->
 <!-- bkz 2020 yılının ilk bebişinin adı ne olacak sorunalı -->
 <!-- bkz orospu evladı feslinin çizmeyi aşması -->
