@@ -3,6 +3,9 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+
+<!-- https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-fes-takmas%C4%B1/&w=bg -->
+<!-- https://www.uludagsozluk.com/k/dedikodu-yapan-erkek/&w=bg bkz vurduruyordur -->
 <!-- bkz keşke yunan gelip gelseydi orrrspunın sıçtıkları yahu -->
 <!-- bkz türklerin orrrooooooospu sıçmıkları olması --->
 <!-- bkz orrrrrrrrrrrossspuu sıçmıklarııııııııııııııııı türkler -->
