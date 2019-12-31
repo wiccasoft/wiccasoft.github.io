@@ -1,5 +1,10 @@
 
+[![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
+
+
 [![Image](skynet/Screenshot_2019-12-31_04-36-32.png)]( https://www.theguardian.com/technology/2019/dec/31/huawei-says-survival-is-our-first-priority-in-2020-as-western-boycott-bites )
+
+[![Image](skynet/Screenshot_2019-12-31_04-42-19.png)]( https://www.youtube.com/watch?v=1i5EVsT6aUE )
 
 
 [![Image](skynet/Screenshot_2019-12-30_19-05-45.png)]( https://www.youtube.com/watch?v=pKa2ThQ6aeY )
