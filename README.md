@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/k/kamalizm/&w=bg komik bi ideoloji evet -->
 <!-- bkz 2020 ye önce türklerin girmesi -->
 <!-- bkz ne mutlu mustafa kemal atatürküm diyene -->
 <!-- bkz hepimiz kemaliz hepimiz atatürküz ne mutlu 2020 ye atatürküm diyene -->
