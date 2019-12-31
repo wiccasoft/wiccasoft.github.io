@@ -1,4 +1,9 @@
 
+
+[![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
+
+<!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
+
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
 
