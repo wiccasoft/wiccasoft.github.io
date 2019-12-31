@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!--bkz keşke babanız dışarı boşalsaydı -->
 <!-- https://www.uludagsozluk.com/k/fesli-orospu-evlad%C4%B1/&w=bg keşke orospu evladları keşke  -->
 <!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=bg keşke -->
 <!-- bkz selanik göçmenlerinin orospu çocuğu olması -->
