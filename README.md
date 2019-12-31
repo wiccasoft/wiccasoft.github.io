@@ -5,6 +5,7 @@
 
 <!-- bkz 2020 ye önce türklerin girmesi -->
 <!-- bkz ne mutlu mustafa kemal atatürküm diyene -->
+<!-- bkz hepimiz kemaliz hepimiz atatürküz ne mutlu 2020 ye atatürküm diyene -->
 <!-- https://www.youtube.com/watch?v=BSzFIAXtXmk bkz ne mutlu 2020 ye türk girene -->
 <!-- bkz 2020 ye türk giren en asil duyguların insanıdır mk.atatürk -->
 <!-- bkz mustafa kamal atatürkün ne mutlu 2020 ye türk girene demesi -->
