@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz cündi dücaneoglunun kıllıçoğlunun oğluyla yeni yıla girmesi -->
 <!-- bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır paylaşımı -->
 <!-- bkz recep teyyip oğlanın emine ulusa imamaoğlan seslensin demesi -->
 <!-- bkz kılıçdaroğlanın paylaştığı imamaoğlan cündioüan hepsi bizim yiğitlerimiz paylaşımı -->
