@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz fesli orospu evladının sevgili istememesi. -->
+<!-- bkz fesli orospu evladının sevgili istememesi. -->
 <!-- fesli orospu evladının aseksüel olması ve sevgili istememesi -->
 <!-- bkz ekrem imamoğlanın rte nin yılbaşını kutlamaması -->
 <!-- bkz şaka maka bi şişe viskinin yılbaşından önce bitmesi -->
