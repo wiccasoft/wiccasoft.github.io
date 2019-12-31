@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz dücane cündioğlunun nusrete teşekür etmesi -->
 <!-- https://www.uludagsozluk.com/e/42643577/ bkz okumadım pampa kaç sayfa bu -->
 <!-- bkz dücane cündioğlunun cündioğullarındanız demesi -->
 <!-- bkz ali koçun fenerbahçeyi kapatması -->
