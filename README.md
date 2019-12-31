@@ -3,18 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz mbaye dyagnenin abisinin trapzone'a transfer olması -->
-<!-- bkz viski varken rakı bira içmeyi modernlik sanan kamalcılar -->
-<!-- bkz sayın sayanın yılbaşı kutlamam demesi -->
-<!-- bkz savcı sayanın çok yakışıklı olması sorunsalı -->
-<!-- https://www.uludagsozluk.com/e/42642506/ bkz savcı erkek seksiliği -->
-<!-- bkz savcı sayanın yetkilerimi alırım demesi -->
-<!-- bkz masterchef rıfat vs masterchef kerim -->
-<!-- bkz hadisenin o ses türkiye kekeme yarışmacıyı azarlamsı -->
-<!-- bkz kerem bursinin sırt kasları -->
-<!-- bkz tayyip erdoğan ikinci atatürk mü sorunsalı -->
-<!-- bkz orospu evladı sıçmık feslinin çizmeyi aşması -->
-<!-- bkz orospu evladı feslinin aseksüel olması -->
+<!-- bkz orospu evladı feslinin çizmeyi aşması -->
 <!-- bkz bkz fesli orospu sıçmığı evladının keşke gassaray galip gelseydi demesi --<
 <!-- bkz 31 aralık 2019 fesli orospu evladının çizmeyi aşması -->
 <!-- bkz fesli orospu evladının keşke yunan gelseydi açıklaması -->
