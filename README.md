@@ -3,17 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
  
-<!-- bkz birisinin kendini kurtaracağını sanan kekolar -->
-<!-- bkz noel baba vs yılbaşı baba -->
-<!-- what jesus would do -->
-<!-- bkz ikinci atatürk rte ise ikinci rte kim sorunsalı -->
-<!-- bkz fesli orospu evladının çizmeyi aşması -->
-<!-- bkz fesli orospu evladının türklere hizmet etmeyecem demesi -->
-<!-- bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
-<!-- bkz fesli orospu evladının insansı robotlara vatandaşlık verelim demesi -->
-<!-- bkz akınsoftun insansı robotlarının insanlığı tehdit edeceği gerçeği -->
-<!-- bkz akınsoft vs softbank vs çiftlikbank -->
-
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
