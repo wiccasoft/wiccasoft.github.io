@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz recep tayyip perdoğanın dücane cündioglunu makamında kaul etmesi -->
 <!-- bkz dücane cündibeyoğlunun kamalcıalr kafirdir demesi -->
 <!-- bkz dücane cündioğlunun nusretle acuna karı için teşekkür etmesi -->
 <!-- https://www.uludagsozluk.com/e/42643577/ bkz okumadım pampa kaç sayfa bu -->
