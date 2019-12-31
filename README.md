@@ -4,7 +4,8 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz 2020 yi bir yiğit bırak -->
-<!--bkz bahcelinin paylaştığı recep tayyip doğan kafası -->
+<!-- bkz cumhuriyet halk partisinin paylaştığı çam ağacı -->
+<!-- bkz bahcelinin paylaştığı recep tayyip doğan kafası -->
 <!-- bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
 <!-- bkz recep tayyip doğanın 2020 balkon konuşması -->
 <!-- bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır paylaşımı -->
