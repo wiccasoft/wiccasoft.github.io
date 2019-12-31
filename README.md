@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
  
- <!-- bkz ikinci atatürk rte ise üçüncü rte kim sorunsalı -->
+<!-- bkz çaycı hüseyin vs tamer karadağlı -->
+<!-- bkz ikinci atatürk rte ise üçüncü rte kim sorunsalı -->
 <!-- bkz fesli orospu evladının çizmeyi aşması -->
 <!-- bkz fesli orospu evladının türklere hizmet etmeyecem demesi -->
 <!-- bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
