@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz 2020 yılının ilk bebişinin adı ne olacak sorunalı -->
 <!-- bkz zeki mürenin fesli deliye ben seni geysellerin olsun mdiye sevdim demesi -->
 <!-- bkz orospu evladı feslinin çizmeyi aşması -->
 <!-- bkz bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
