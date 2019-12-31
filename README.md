@@ -3,6 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+
+<!-- https://www.uludagsozluk.com/k/mahsun-un-juventus-formal%C4%B1-y%C4%B1lba%C5%9F%C4%B1-gecesi-program%C4%B1/ -->
 <!-- bkz nusretin rahatsız bir tip olması -->
 <!-- bkz nusretin microsoft a kelle yolaması -->
 <!-- bkz nusretin meydan okuyan pozu -->
