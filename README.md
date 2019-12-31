@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!--bkz 2020 yi bir yiğit bırak -->
+<!--bkz kemal kılıçdaroğlanın paylaştığı altı oklu yıl paylaşımı -->
 <!--bkz celal kılıçdaroğlanın abime iyi yılar demiyorum demesi -->
 <!--bkz kemal kılıçdaroğlunun celal kılıçdaroğlanla barışması -->
 <!--bkz kemal kılıçdaroğlunun yeni yıla atatürkle girelim açıklaması -->
