@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/e/42642506/ bkz savcı erkek seksiliği -->
 <!-- bkz savcı sayanın çok yakışıklı olması sorunsalı -->
 <!-- bkz savcı sayanın yetkilerimi alırım demesi -->
 <!-- bkz masterchef rıfat vs masterchef kerim -->
