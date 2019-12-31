@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz ido tatlısese in 360 derece klibi vs ibrahim tatlıses neşet ertaş düeti -->
+<!-- bkz şaka maka ido tatlısesin çok yakışıklı olması -->
+<!-- bkz ido tatlısese in 360 derece klibi vs ibrahim tatlıses neşet ertaş düeti -->
 <!-- bkz zeki mürenin 2020 de yeni zelandaya kaçma planları -->
 <!-- bkz zeki mürenin yılbaşı programını ipral etmesi -->
 <!-- bkz 2020 doğumluların küfr edeceliği yıllarda keyf çatmak -->
