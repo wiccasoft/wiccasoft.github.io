@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz 2020 yi bir yiğit bırak -->
+<!-- bkz halkların cumhuriyetçi partisinin yön değiştirmesi -->
 <!-- bkz milliyetçi hareket partisini cuhmuriyet halk partisiyle ilişiğimiz kalmamıştır açıklaması -->
 <!-- bkz cumhuriyet halk partisinin paylaştığı çam ağaclı doğu perinçek fotosu -->
 <!-- bkz bahcelinin paylaştığı recep tayyip doğan kafası -->
