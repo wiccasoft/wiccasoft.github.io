@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
  
+<!-- bkz birisinin kendini kurtaracağını sanan kekolar -->
 <!-- bkz noel baba vs yılbaşı baba -->
 <!-- what jesus would do -->
 <!-- bkz ikinci atatürk rte ise ikinci rte kim sorunsalı -->
