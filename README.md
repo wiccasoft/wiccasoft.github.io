@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz tatlısese lahmacunun nusret polemiğine sessiz kalması -->
 <!-- bkz yusufun nusrete primci demesi -->
 <!-- bkz akının paylaştığı nusret fotosu -->
 <!-- bkz czn burakın prim kokmayan postu -->
