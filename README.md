@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.youtube.com/watch?v=03gmK43m3w8 keşke yunan galip gelseydi izahı -->
 <!-- https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır -->
 
 
