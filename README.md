@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz ekrem imamoğlanın rte nin yılbaşını kutlamaması -->
+<!-- bkz şaka maka bi şişe viskinin yılbaşından önce bitmesi -->
 <!-- bkz fatih terimin radamel falcao garicaya attığı yılbaşı bakışı -->
 <!-- https://www.uludagsozluk.com/k/badou-ndiaye/&w=bg bkz mbaye dyangenin abisi -->
 <!-- bkz götü parmaklanan geysaraylının gey çıkması -->
