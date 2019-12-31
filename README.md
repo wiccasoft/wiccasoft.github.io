@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz macunun seda sayan memelerini sansürlemesi -->
 <!-- bkz beyazıt öztürkün paylaştığı öz türk benim pozu -->
 <!-- https://www.uludagsozluk.com/e/42643367/ bkz mahsunun paylaştığı yılbaşı pozu -->
 <!-- https://www.uludagsozluk.com/e/42643311/ bkz nusretin paylaştığı suudi viskiler --->
