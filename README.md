@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz pkk nın elindeki türk askerlerini salması -->
+<!-- bkz akınsoftun türk düşmanlarını tespit eden robot geliştirmesi -->
 <!-- bkz akınsoftun yaptığı türkçü robotların yunan dölü orospu evlatları demesi-->
 <!-- bkz akınsoftun akıncılar robotunun yunanlıları taciz etmesi -->
 <!-- bkz pkklıların paylaştığı kamal kafalı yılbaşı postu -->
