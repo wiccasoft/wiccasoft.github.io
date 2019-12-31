@@ -10,12 +10,8 @@ https://timeanddate.com.websiteoutlook.com/
 https://stackoverflow.com/q/45165893 good luck with that
 https://stackoverflow.com/questions/45165893/three-js-casting-shadows-as-umbra-and-penumbra 
 https://suncalc.org.websiteoutlook.com/
-bkz noel baba swinger mı sorunsalı
 https://deets.feedreader.com/suncalc.org
 https://www.youtube.com/watch?v=moTsS8nE-G0 
-bkz jacinda ardern kim amk https://www.youtube.com/watch?v=yuP0Wjh7ceo
-bkz jacinda ardern e bir iftira da sen bırak
-bkz 12 ayvanlı mankurt takvimi vs gavat noel takvimi
 https://www.ajanimo.com/cin-astrolojisi-ve-12-hayvan-takvimi/ 
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
 https://eclipse.gsfc.nasa.gov/JLEX/JLEX-SA.html
