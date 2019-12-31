@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-
+<!-- bkz kılıçdaroğlu nun soyumuzu dersimli kılıççılara dayanır paylaşımı --> 
 <!-- bkz mısıroğlu vs imamoğlu vs dündioğlu vs kılıçoğlu -->
 <!-- bkz mısır kadiroğlunun keşke yunanlıoğlular yeni yıla girmeseydi demesi --<
 <!-- bkz mısır kadiroğlunun kılıç dücaneoüluyla paylaştığı paylaşım -->
