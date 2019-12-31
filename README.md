@@ -3,8 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz akınsoftun akıncı robotun orospu evladı yunanlar demesi -->
-<!-- bkz akınsoftun akıncılar robotunun yunanlıları denize dökmeye programlanması -->
+<!-- bkz nusretin mekke nin fethini akıncı robotla kutlaması -->
 <!-- bkz hadisenin o ses zortu bırakması -->
 <!-- bkz macunun seda sayanın memelerini paylaşması -->
 <!-- bkz köfteci yusufun etçi nusrete kalıbını alırım demesi -->
