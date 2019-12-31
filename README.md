@@ -5,6 +5,7 @@
 
 <!-- bkz 2020 yi bir yiğit bırak -->
 <!-- bkz recep tayyip doğanın yeni yıla güneş gibi doğması -->
+<!-- bkz recep tayyip doğanın ulusa sesleniş videosu -->
 <!-- bkz celal kılıçdaroğlanın paylaştığı güneş gibi doğan rte fotosu -->
 <!-- bkz celal kılıçdaroğlanın yerim uzun adamın yeridir paylaşımı -->
 
