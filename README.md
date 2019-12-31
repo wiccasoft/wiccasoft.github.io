@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz orospu evlatlarının atatürk yerine noel babaya girmesi -->
+<!-- https://www.uludagsozluk.com/e/42643220/  -->
+<!-- bkz orospu evlatlarının atatürk yerine noel babaya girmesi -->
 <!-- bkz orospu evlatlarının yeni yıla atatürksüz girmesi --<
 <!-- bkz 2020 ye bi atatürk sözü bırak orospu evladı -->
 <!-- bkz orospu evladı feslinin yine kaşınması -->
