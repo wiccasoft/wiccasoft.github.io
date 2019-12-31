@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz kemal kılıçdaroğlanın yeni yıl konuşması -->
 <!-- bkz ekrem  imamaoğlanın yeni yıl istanbul konuşması -->
 <!-- bkz ekrem imamaoğlanın recep tayyip doğanın yeni yılını kutlaması -->
 <!-- bkz recep tayyip doğanın ulusa sesleniş konuşması -->
