@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!--bkz 2020 yi bir yiğit bırak -->
+<!--bkz recep tayyip doğanın kemal kılıççıoğlanlı paylaştığı resim -->
 <!--bkz recep tayyip doğan oğlanın paylaştığı yeni yıl fotosu -->
 <!--bkz kemal kılıçdaroğlanın paylaştığı altı oklu yıl paylaşımı -->
 <!--bkz celal kılıçdaroğlanın abime iyi yılar demiyorum demesi -->
