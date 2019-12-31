@@ -6,9 +6,7 @@
 <!-- https://www.youtube.com/watch?v=rgUdF_TTdb0 sarı göllü emreh vs gavat salih -->
 <!-- https://www.youtube.com/watch?v=tn66JWh30rE hagi vs alex -->
 <!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 imamoğlan vs binalioğlan -->
-<!-- https://www.youtube.com/watch?v=tkSkUbhqtWs -->
-<!-- https://www.youtube.com/watch?v=PAlwP6oeJpA -->
-<!-- bkz erkem imamoğlan vs recep imam tayyip i hatip oğlan -->
+<!-- https://www.youtube.com/watch?v=PAlwP6oeJpA hojdır ama bojdır -->
 <!-- bkz badou ndiaye nin sevgili olmak siteyenler kapım açık demesi -->
 <!-- bkz fesli orospu evladının sevgili istememek konusunda ısrar etmesi -->
 <!-- bkz fesli orospu evladının sevgili istememesi. -->
