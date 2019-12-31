@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz mısır kadiroğlunun kılıç dücaneoüluyla paylaştığı paylaşım -->
 <!-- bkz cündi dücaneoglunun kıllıçoğlunun oğluyla yeni yıla girmesi -->
 <!-- bkz celal kılıçdaroğlanın yerim uzun adamın yanıdır paylaşımı -->
 <!-- bkz recep teyyip oğlanın emine ulusa imamaoğlan seslensin demesi -->
