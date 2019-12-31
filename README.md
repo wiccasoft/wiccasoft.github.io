@@ -5,6 +5,7 @@
 
 <!-- bkz selaniklilerin orospu evladı olması -->
 <!-- bkz üstad kadir mısıroğlanın paylaştığı keşkek olimpos fener maçı izahı -->
+<!-- bkz türklerin yunan ve türk olmayan herşeye düşmanlığının asıl sebebi -->
 <!-- https://www.youtube.com/watch?v=03gmK43m3w8 keşke yunan dölü galip gelseydi izahı --> 
 <!-- https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse yunan dölleri teferruattır -->
 <!-- bkz fesli orospu evladı sıçmığının yine ortalığı karıştırması -->
