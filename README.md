@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz nusretin rahatsız bir tip olması -->
+<!-- bkz nusretin ürkütücü rahatsız bir tip olması -->
 <!-- bkz nusretin microsoft a kelle yolaması -->
 <!-- bkz nusretin meydan okuyan pozu -->
 <!-- bkz nusretin apple a meydan okuması -->
