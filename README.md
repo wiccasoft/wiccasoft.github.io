@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz dücane cündioğlunun ekremm imamaoğlunun babasıyla olan dostluğu -->
+<!--bkz dücane cündioğlunun paylaştığı noel imamoğlan fotosu -->
+<!-- bkz dücane cündioğlunun ekremm imamaoğlunun babasıyla olan dostluğu -->
 <!-- bkz ekrem imamaoğlu nun babasının noel baba kılığına girmesi -->
 <!-- bkz ekreem imamoğlu yeni yıla girmişmidir sorunsalı -->
 <!-- bkz mustafa kemal atatürk yeni yıla nasıl girerdi sorunsalı -->
