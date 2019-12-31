@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz pkklıların paylaştığı kamal kafalı yılbaşı postu --<
 <!-- bkz akınsoftun kamalsız robotlarının insanlığı tehdit edeceği gerçeği -->
 <!-- https://www.uludagsozluk.com/e/42643220/ bkz akınsoftun geliştirdiği kamalsız robot -->
 <!---https://www.uludagsozluk.com/e/42643220/ bkz nusretin prim kokan 2020 pozu -->
