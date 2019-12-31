@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!--bkz 2020 yi bir yiğit bırak -->
+<!--bkz doğu ğperinçek yeni yıl türk için türküyeli için paylaşımı -->
 <!--bkz doğu perinçekin payalaştığı yeni türk yılı fotosu -->
 <!--bkz halkların demokratip partisinin cumhuriyet kalk paritisiyle koalisyona hazırız demesi -->
 <!--bkz cumhuriyer halk partisinin ilçe başkanlıklarına çam ağacı asması -->
