@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 <!-- https://www.youtube.com/watch?v=03gmK43m3w8 keşke yunan dölü galip gelseydi izahı --> 
 <!-- https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse yunan dölleri teferruattır -->
+<!-- bkz fesli orospu sıçmığının yine ortalığı karıştırması -->
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
