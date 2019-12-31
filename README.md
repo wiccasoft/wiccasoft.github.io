@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz murat bozun acun benim babam gibi demesi -->
 <!-- bkz beyazıt öztürkün acunu işten kovması -->
 <!-- bkz nusretin paylaştığı viskilerin iskoç malı çıkması -->
 <!-- bkz hepsiorada.com un yaptığı yılbaşı terbiyesizliği -->
