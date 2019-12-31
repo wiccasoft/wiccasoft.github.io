@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/k/atat%C3%BCrk-15-temmuz-u-g%C3%B6rse-ne-derdi/&w=bg irdelenmeli -->
 <!-- https://www.uludagsozluk.com/k/rte-1881-de-do%C4%9Fsa-%C5%9Fu-an-d%C3%BCnya-lideriydik/&w=bg lol -->
 <!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
 
