@@ -4,9 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!--bkz 2020 yi bir yiğit bırak -->
-<!--bkz kemal kılıçdaroğlunun yarın meclise gelmeyecem çok içtim demesi -->
-<!--bbkz kemal kılışdaroğlunun meclise 2020 de eyi olacak eyi demesi --<
-<!--bkz cumhuriyet halk partisinin paylaştığı yeni yıl ata yıl paylaşımı -->
+<!--bkz kemal kılıçdaroğlunun yeni yıla atatürkle girelim açıklaması -->
 <!--bkz celal kılıçdaroğlanın yeni yıla uzun adamla girmesi -->
 <!--bkz kemal kılıççıoğlunun evindeki balkondan ulusa seslenmesi -->
 <!--bkz recep tayyip doğanın 2020 balkon konuşması -->
