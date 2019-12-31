@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.youtube.com/watch?v=bJyzair0Oi8 -->
 <!-- bkz selaniklilerin orospu evladı olması -->
 <!-- bkz üstad kadir mısıroğlanın paylaştığı keşkek olimpos fener maçı izahı -->
 <!-- bkz türklerin yunan ve türk olmayan herşeye düşmanlığının asıl sebebi -->
