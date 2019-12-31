@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz götüne parmak atılan geysaraylının gey çıkması -->
-<!-- bkz içtima alırken alan albaya götten girsene diyen ergen -->
+<!-- bkz içtima alan albaya hadi lan götten girsene diyen ergen -->
 <!-- https://www.uludagsozluk.com/k/i%C3%A7tima-alan-albay-a-hadi-lan-donduk-amk-diyen-er/&w=bg bkz götü güzel er-->
 <!-- https://www.uludagsozluk.com/k/koca-bulman%C4%B1n-giderek-zorla%C5%9Fmas%C4%B1/&w=bg bkz kocaalioğlu -->
 <!-- https://www.uludagsozluk.com/k/yavuz-a%C4%9F%C4%B1ralio%C4%9Flu/&w=bg bkz ağır ama adam gibi adam -->
