@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz akınsoftun yaptığı türkçü robotların çığrından çıkması -->
 <!-- bkz akınsoftun akıncılar robotunun yunanlıları taciz etmesi -->
 <!-- bkz pkklıların paylaştığı kamal kafalı yılbaşı postu -->
 <!-- bkz akınsoftun kamalsız robotlarının insanlığı tehdit edeceği gerçeği -->
