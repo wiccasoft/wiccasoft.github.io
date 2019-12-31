@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz 2020 yi bir yiğit bırak -->
-<!-- bkz uludaki ibnelerin bemni imamaoglu erdoğan kılışdaroğaln falan sanması asdasdasdasdasd --->
+<!-- bkz uludaki ibnelerin bemi imamaoglan cündiolan tayyipolan kılışdaroğlan falan sanması asdasdasdasdasd --->
 <!-- bkz türklerle ilgili tek bir şey paylaşmadığım halde beni takip etmeleri olm skimde değilsiniz ln:)))) -->
 <!-- bkz türkler niye beni takip ediyor sorunsalı ben sizin köye bağlı değilim kardeş -->
 <!-- bkz minik serçenin paylaştığı imamoğlu videosu -->
