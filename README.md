@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz mustafa kemal atatürk yeni yıla nasıl girerdi sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42643715/  yollamayın zaten siken yok -->
 <!-- https://www.uludagsozluk.com/k/kamalizm/&w=bg komik bi ideoloji evet  -->
 <!-- bkz 2020 ye önce türklerin girmesi -->
