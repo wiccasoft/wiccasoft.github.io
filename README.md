@@ -3,26 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- https://www.youtube.com/watch?v=rgUdF_TTdb0 sarı göllü emreh vs gavat salih -->
-<!-- https://www.youtube.com/watch?v=tn66JWh30rE hagi vs alex -->
-<!-- https://www.youtube.com/watch?v=9FJHDkx1Gv8 imamoğlan vs binalioğlan -->
-<!-- https://www.youtube.com/watch?v=PAlwP6oeJpA hojdır ama bojdır -->
-<!-- bkz badou ndiaye nin sevgili olmak siteyenler kapım açık demesi -->
-<!-- bkz fesli orospu evladının sevgili istememek konusunda ısrar etmesi -->
-<!-- bkz fesli orospu evladının sevgili istememesi. -->
-<!-- fesli orospu evladının aseksüel olması ve sevgili istememesi -->
-<!-- bkz ekrem imamoğlanın rte nin yılbaşını kutlamaması -->
-<!-- bkz şaka maka bi şişe viskinin yılbaşından önce bitmesi -->
-<!-- bkz fatih terimin radamel falcao garicaya attığı yılbaşı bakışı -->
-<!-- https://www.uludagsozluk.com/k/badou-ndiaye/&w=bg bkz mbaye dyangenin abisi -->
-<!-- bkz götü parmaklanan geysaraylının gey çıkması -->
-<!-- https://www.uludagsozluk.com/k/namaz-k%C4%B1lan-ki%C5%9Fiye-pandik-atan-arap/ -->
-<!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 keşke huawei galip gelmeseydi izahı -->
-<!-- https://www.youtube.com/watch?v=thZTyI4GNBg keşke geysaray galip gelseydi izahı -->
-<!-- https://www.youtube.com/watch?v=ccI6jw8XEZ8 gavs hazretleri hakkında izah -->
-<!-- https://www.youtube.com/watch?v=03gmK43m3w8 keşke yunan galip gelseydi izahı -->
-<!-- https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır -->
-
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
