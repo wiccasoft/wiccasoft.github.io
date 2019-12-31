@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/k/badou-ndiaye/&w=bg bkz mbaye diyangenin abisi -->
 <!-- bkz götü parmaklanan geysaraylının gey çıkması -->
 <!-- https://www.uludagsozluk.com/k/namaz-k%C4%B1lan-ki%C5%9Fiye-pandik-atan-arap/ -->
 <!-- https://www.youtube.com/watch?v=Zw_WUGrgrQ8 keşke huawei galip gelmeseydi izahı -->
