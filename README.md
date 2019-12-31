@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz mustafa kemal atatürk vs recep tayyip doğan -->
 <!-- bkz ümmeti kemal vs ümmeti muhammed -->
 <!-- bkz bir erkeğin gay olup olmadığını anlamının yolları -->
 <!-- https://www.uludagsozluk.com/k/tarikat-seyhleri-neden-hep-e%C5%9Fcinsel-olur/  irdelenmeli -->
