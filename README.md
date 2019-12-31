@@ -3,9 +3,6 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- bkz imamaoğlan cuck oldmu sorunsalı -->
-<!-- bkz fesli orospu evladının çizmeyi aşması -->
-<!-- bkz imamoğlan ido tatlıses 360 derece klibi -->
 <!-- bkz fesli orospu evladının keşke gassaray galip gelseydi demesi -->
 <!-- bkz fesli orospu evladının insansı robotlara vatandaşlık verelim demesi -->
 <!-- bkz akınsoftun insansı robotlarının insanlığı tehdit edeceği gerçeği -->
