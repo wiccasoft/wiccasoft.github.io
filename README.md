@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/k/yavuz-a%C4%9F%C4%B1ralio%C4%9Flu/&w=bg bkz ağır ama adam gibi adam -->
 <!-- bkz mansur yavaşın kanal ankarayla kanal istanbulu birleştirelim teklifi -->
 <!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
 
