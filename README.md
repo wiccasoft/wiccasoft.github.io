@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- https://www.uludagsozluk.com/k/kemalistlerin-dini-inanc%C4%B1-nedir/ orospunun nsıçtıkları olmaları -->
+<!-- bkz keşke orospunun sıçtıkları olmasaydı -->
 <!-- bkz keşke babanız dışarı boşalsaydı orospunun sıçtıkları -->
 <!-- https://www.uludagsozluk.com/k/fesli-orospu-evlad%C4%B1/&w=bg keşke orospu evladları keşke  -->
 <!-- https://www.uludagsozluk.com/k/ke%C5%9Fke-yunan-galip-gelseydi/&w=bg keşke -->
