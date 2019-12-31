@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz 2020 ye önce türklerin girmesi -->
 <!-- https://www.youtube.com/watch?v=BSzFIAXtXmk bkz ne mutlu 2020 ye türk girene -->
 <!-- bkz 2020 ye türk giren en asil duyguların insanıdır mk.atatürk -->
 <!-- bkz mustafa kamal atatürkün ne mutlu 2020 ye türk girene demesi -->
