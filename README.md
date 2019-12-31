@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz atanın yatı vs rte nin gemisi --> 
+<!-- bkz rte heykelleri vs ata heykelleri -->
 <!-- bkz rte nin ikinci atatürk olduğu gerçeği -->
 <!-- bkz üçüncü atatürk ün bilal erdoğanın torunu olma ihtimali -->
 <!-- bkz ikinci atatürk rte mi imamaoğlan mı sorunsalı -->
