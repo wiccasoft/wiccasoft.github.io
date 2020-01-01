@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
+<!-- bkz nusretin verdiği mesajı doğru anlayan gençlik -->
 <!-- https://www.uludagsozluk.com/k/killa-hakan-%C4%B1n-silahl%C4%B1-y%C4%B1lba%C5%9F%C4%B1-kutlamas%C4%B1/&w=gd -->
 <!-- https://github.com/puppeteer/puppeteer getting jiggy with it -->
 <!-- https://www.youtube.com/watch?v=ARt3zDHSsd4 Web Scraping With Puppeteer-->
