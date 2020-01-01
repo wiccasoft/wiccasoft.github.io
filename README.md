@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz ömer dededin gence verdiği ayar --> 
-<!-- bkz yeni yıla girmenin günah olduğunu yeni öğrenen tayyipçi genç -->
+<!-- bkz yeni yıla girmenin günah olduğunu yeni öğrenen tayyipçi alamancı genç -->
 <!-- bkz eğlenmek günah olduğu halde halkı kin ve düşmanlığa sürükleyen genç -->
 <!-- bkz polat alemdarın eğlenen gence racon kesmesi -->
 <!-- nkz mehmet erdemin gencin kulağını sıkıp kaç yaşındasın sen demesi -->
