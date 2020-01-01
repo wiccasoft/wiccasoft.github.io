@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz şaka maka ulucuların çocuğum yaşında olmaları -->
+<!-- bkz şaka maka forumcuların çocuğum yaşında olmaları -->
 <!-- bkz kurtlar vadisi izlemekten olmayan beyni erimiş gençlerin güldürmesi -->
 <!-- bkz gençli mençli konuşan 97 lilerin üniye girdiğim senede doğmaları -->
 <!-- bkz son jenerasyonun çok başarısız diyen 97 li başarılı incici -->
