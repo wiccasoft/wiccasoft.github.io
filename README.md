@@ -9,7 +9,7 @@
 <!-- bkz bülent yapraklıoğluna ciddili entry gürerkene odaya güren gevşek genç -->
 <!-- bkz bülent yapraklıoğlu na entry girerkene ciddileşen abüüler -->
 <!-- bkz abüler entry gürerkenü deli sükmüşçesüne entry gürecem düye günç -->
-<!-- bkz entry girmek çok mu zevkli lan abüü diyen ilkokul öğrencisi -->
+<!-- bkz entry girmek çok zevkli lan abüü diyen ilkokul öğrencisi -->
 <!-- bkz abi nolur götünü yiyem abüü bana da entry gir diyen genç -->
 <!-- bkz abi bana da entry açsana diyen genç -->
 <!-- abi öğrenciyim indirim yapsana diyen öğrenci -->
