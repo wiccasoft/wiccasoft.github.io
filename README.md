@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz polat alemdarın yılbaşına eğlenerek giren genci pataklaması -->
 <!-- bkz ağır abilerin kurtlar vadisi modunda yılbaşına girmesi -->
 <!-- bkz gencin babasının deli sikmiş gibi genç -->
 <!-- bkz gencin deli babasının sikmiş gibi giren geç-->
