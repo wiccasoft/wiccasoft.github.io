@@ -7,6 +7,7 @@
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
 https://twitter.com/elifsahinkls zuhahahahahah
+bkz devlet ve hükümet arasındaki farkı bilmeyen ezik
 https://www.youtube.com/watch?v=JJfHHmjzkjs bkz kalender meşrep olmanın faydaları
 https://twitter.com/elifsahinkls/status/1212338838586171394?s=19 bkz sevim koş ali koçu harcayacaklar
 https://eksisozluk.com/entry/99924354 lol
