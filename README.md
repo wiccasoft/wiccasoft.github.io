@@ -6,6 +6,7 @@
 <!-- bkz x kuşağının çok bozması  -->
 <!-- bkz şaka maka türklerin iyice şamar oğlanı olması -->
 <!-- bkz la siggi git denilen türk askerlerinin bayması -->
+<!-- bkz götünde don olmayan elinde sdadece telefon olan kara kafalı boş adamı nabacazz lan aa ibineler -->
 <!-- bkz kara kafalı asgari beyinli türklerin kendilerini esir aldırma çabaları -->
 <!-- bkz kara kafalı pis kokan türk askerlerini esir alacak kadar midesiz olmak -->
 <!-- bkz fakirlikten eğlenemeyen başarısız milletlerin güldürmesi -->
