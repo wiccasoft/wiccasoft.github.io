@@ -3,10 +3,10 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz x kuşağının çok bozması -->
 <!-- bkz güldür güldür şovun elindeki pkklılar -->
 <!-- bkz ibda c nin elindeki gerizekalılar -->
 <!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
-<!-- bkz x kuşağının çok bozması -->
 <!-- https://www.youtube.com/watch?v=paYPtUviLMA olm bu nedir yahu aç izle ne zırlıyon
 <!-- bkz memet ali erbille büyümüş gerizekalı neslin güldürmesi -->
 <!-- bkz televoleyi özledim lan diye ağlayan adam -->
