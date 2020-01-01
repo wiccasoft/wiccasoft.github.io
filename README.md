@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz islami terör son bulacak diyen islamcı terörist -->
 <!-- bkz cübbelinin esir askerleri cübbbeyle dövmesi -->
 <!-- bkz ezanı bile özlem kokan cennet ülke https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz mehmet ali ağcanın ben de özledim yorumu  -->
