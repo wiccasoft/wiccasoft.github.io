@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!-- bkz entry girerken yaşlanan ülkücüler -->
+<!-- bkz entry girerken yaşlanan bordo klavyeliler -->
 <!-- bkz reis sikmişcesine bordo klavyemler yeni yıla hazırım diyen yaşlı -->
 <!-- bkz beka reis sikmişcesine entry giren ülkücünün yaşlanması -->
 <!-- bkz tayyip sikmişcesine heyecanlı entry giren genç -->
