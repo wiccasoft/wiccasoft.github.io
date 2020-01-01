@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
+<!-- bkz 1978 li yeni jenerasyonun çok bozması -->
 <!-- https://www.youtube.com/watch?v=paYPtUviLMA olm bu nedir yahu aç izle ne zırlıyon
 <!-- bkz memet ali erbille büyümüş gerizekalı neslin güldürmesi -->
 <!-- bkz televoleyi özledim lan diye ağlayan adam -->
