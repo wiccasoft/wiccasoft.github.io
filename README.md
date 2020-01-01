@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz erkan tanın tan vakti ver mehteri diye coşması -->
 <!-- bkz ekşici abileyin açtığı başlığı çalan ulucu abbiley -->
 <!-- bkz yaşlıların forum sitelerinde kafa sikmesi -->
 <!-- bkz sen giderken ben dönüyordum diyen incici -->
