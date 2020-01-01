@@ -5,13 +5,13 @@
 
 <!-- bkz x kuşağının çok bozması  -->
 <!-- bkz fakirlikten eğlenemeyen başarısız milletlerin güldürmesi -->
+<!-- bkz yılbaşına adam gibi giren adam gibi genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=_0KMSc7Jz_Y genclerin çok bozması -->
 <!-- bkz şaka maka forumcuların çocuğum yaşında olmaları -->
 <!-- bkz kurtlar vadisi izlemekten olmayan beyni erimiş gençlerin güldürmesi -->
 <!-- bkz gençli mençli konuşan 97 lilerin üniye girdiğim senede doğmaları -->
 <!-- bkz son jenerasyonun çok başarısız diyen 97 li başarılı incici -->
 <!-- bkz hasan kaçanın cem yılmaza ben de yılbaşına giriyorum ama senin gibi değil ayarı --> 
-<!-- bkz yılbaşına adam gibi giren adam gibi genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- bkz mehmet ali alaboranın mehmet erdemle barışması -->
 <!-- bkz mehmet erdemin mehmetçik vakfına yaptığı erdemli bağış-->
 <!-- bkz new zealandcı tayyipçi olup olaylara fransız olmak -->
