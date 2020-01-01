@@ -4,8 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz nargile cafede şal isteyen genç -->
-<!-- bkz nusretin verdiği anlamlı mesajı doğru okuyan gençlikin gururlandırması -->
+<!-- bkz nusretin verdiği anlamlı mesajı doğru okuyan gençlik -->
 <!-- bkz enes abinin deli sikmiş genci polise şikayet etmesi -->
 <!-- bkz tayyip anamın üstünde yakalansa orospuluk anamdadır diyen gençin seyfo dayı çıkması -->
 <!-- bkz deli anasının amına sokmuşcasına eğlenen genç -->
