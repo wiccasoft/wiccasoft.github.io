@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=lJdjqGzO1Hk
 https://www.uludagsozluk.com/e/42644726/ lol
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
-https://www.uludagsozluk.com/e/42648621/ 
+https://www.uludagsozluk.com/e/42648621/ bkz dont be to evil
 https://www.uludagsozluk.com/e/42648153/ bkz olmayan şeye kafa tutulmaz
 bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
 bkz atatürke fesli orospu evladı diyenler ne içiyorlar acaba
