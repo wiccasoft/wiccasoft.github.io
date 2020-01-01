@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
+<!-- bkz fakirlikten eğlenemeyen milletlerin güldürmesi -->
 <!-- https://www.youtube.com/watch?v=_0KMSc7Jz_Y genclerin çok bozması -->
 <!-- bkz şaka maka forumcuların çocuğum yaşında olmaları -->
 <!-- bkz kurtlar vadisi izlemekten olmayan beyni erimiş gençlerin güldürmesi -->
