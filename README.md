@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!-- bkz 24 yaşında gencli konuşan ergen -->
+<!-- bkz 24 yaşında gencli konuşan kurtlar vadisi ergeni -->
 <!-- bkz genclerin yılbaşına deli gibi girmesi -->
 <!-- bkz deli sikmişcesine yılbaşına giren gencimn babasının alamancı çıkması -->
 <!-- bkz killa hakanın dövdüğü dazlakların tayyipçi çıkması -->
