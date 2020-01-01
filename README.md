@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!--bkz entr girmek çok mu zevkli lan abüü diyen ilkokul öğrencisi -->
+<!-- bkz entry girmek çok mu zevkli lan abüü diyen ilkokul öğrencisi -->
 <!-- bkz abi nolur götünü yiyem abüü bana da entry gir diyen genç -->
 <!-- bkz abi bana da entry açsana diyen genç -->
 <!-- abi öğrenciyim indirim yapsana diyen öğrenci -->
