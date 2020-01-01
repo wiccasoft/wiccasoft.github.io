@@ -5,7 +5,8 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!-- bkz senin bildiğini yarısını unuttum diyen incici -->
+<!-- bkz sen giderken ben dönüyordum diyen incici -->
+<!-- bkz senin bildiğinin yarısını unuttum diyen incici -->
 <!-- bkz senin yaşında kadar bilmişliğim var diyen keko -->
 <!-- bkz gençli konuşanların genelde loser ve ergen kekolar olması -->
 <!-- bkz 24 yaşında gencli konuşan kurtlar vadisi ergeni -->
