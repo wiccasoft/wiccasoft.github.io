@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
+<!-- bkz mahsun kırmızıgülün pkkyı salarım diye tehdit etmesi -->
 <!-- https://twitter.com/kamilmakarna/status/1024737292123037696 -->
 <!-- bkz microsoftun dağ kadrosunu güçlendirmesi -->
 <!-- bkz pkknın ezik türklere skype açtırması -->
