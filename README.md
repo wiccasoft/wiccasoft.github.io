@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
+<!--abi öğrenciyim indirim yapsana diyen öğrenci -->
 <!-- bkz tayyip sikmişcesine yılbaşına giremeyen genç -->
 <!-- bkz tayyip sikmişcesine entry giren genc -->
 <!-- bkz tayyip sikmişcesine eğlenemeyen halk -->
