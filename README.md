@@ -6,6 +6,7 @@
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz ömer dededin gence verdiği ayar --> 
 <!-- bkz 41 yaşında olup hala eğlenebilmek -->
+<!-- bkz mehmet ali alaboranın mehmet erdemle barışması -->
 <!-- bkz mehmet erdemin mehmetçik vakfına yaptığı erdemli bağış-->
 <!-- bkz new zealandcı tayyipçi olup olaylara fransız olmak -->
 <!-- bkz yeni yıla girmenin günah olduğunu yeni öğrenen tayyipçi alamancı genç -->
