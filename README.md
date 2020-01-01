@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması  -->
 <!--bkz entry girerken yaşlanan ülkücüler -->
+<!--bkz bordo klavyemler yeni yıla hazırım diyen ülkücü -->
 <!-- bkz beka reis sikmişcesine entry giren ülkücünün yaşlanması -->
 <!-- bkz tayyip sikmişcesine heyecanlı entry giren genç -->
 <!-- bkz çöpe atılan askerlerin deli sikmişcesine geri dönmesi -->
