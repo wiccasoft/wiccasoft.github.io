@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması  -->
 <!-- bkz pkknın orospu yaptığı türk askerler -->
+<!--bkz pkknın telefonlarını götüne soktuğu türk askerleri -->
 <!-- bkz götten girilen türk askerlerin uluda askerlik anısı anlatması -->
 <!-- bz sikilen esir askerlerin götüne bi daha girmek -->
 <!-- bz pkknın elindeki esir türk askerlerini sikip atmak -->
