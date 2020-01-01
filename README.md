@@ -5,7 +5,7 @@
 
 <!-- bkz oğuzhan uğurun götlek olması -->
 <!-- bkz güldür güldür şovun elindeki pkklılar -->
-<!-- bkz ibda c nin elindeki gerizekalı türkler -->
+<!-- bkz ibda c nin elindeki gerizekalılar -->
 <!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
 <!-- bkz 1978 li yeni jenerasyonun çok bozması -->
 <!-- https://www.youtube.com/watch?v=paYPtUviLMA olm bu nedir yahu aç izle ne zırlıyon
