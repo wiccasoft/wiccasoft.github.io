@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!-- bkz almanyada yaşakyacak kadar fakir olacağımı sanan ergenler -->
+<!-- bkz tayyipçi ve almanyada yaşakyacak kadar fakir olacağımı sanan ergenler -->
 <!-- bkz yatalak dededin son jenerasyon çok bozdu demesi -->
 <!-- bkz yatalak dedelerin kafa sikmesi -->
 <!-- bkz mutluluktan 3 şişe viski bitirmek -->
