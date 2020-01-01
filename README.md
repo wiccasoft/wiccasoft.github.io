@@ -4,6 +4,7 @@
 <!-- https://github.com/puppeteer/puppeteer getting jiggy with it -->
 <!-- https://www.youtube.com/watch?v=ARt3zDHSsd4 Web Scraping With Puppeteer-->
 
+<!-- bkz şaka maka tek dünya devletinin kuruyor olmam -->
 <!-- https://www.uludagsozluk.com/e/42647056/ bkz ya ne olacağıdı sığır -->
 <!-- https://www.uludagsozluk.com/e/42647177/ bkz mikrofon mansur la imamoğlan da -->
 <!-- https://www.uludagsozluk.com/e/42644578/ bkz hayallerde yaşıyor bazı zombiler -->
