@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz ömer dededin gence verdiği ayar --> 
+<!-- bkz new zealandcı tayyipçi olup olaylara fransız olmak -->
 <!-- bkz yeni yıla girmenin günah olduğunu yeni öğrenen tayyipçi alamancı genç -->
 <!-- bkz eğlenmek günah olduğu halde halkı kin ve düşmanlığa sürükleyen genç -->
 <!-- bkz polat alemdarın eğlenen gence racon kesmesi -->
