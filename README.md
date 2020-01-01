@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
+<!-- bkz nusretin verdiği anlamlı mesaj -->
 <!-- bkz tayyip anamın üstünde yakalansa orospuluk anamdadır diyen gençin seyfo dayı çıkması -->
 <!-- bkz deli anasının amına sokmuşcasına eğlenen genç -->
 <!-- bkz eğlenen gencin mehmet ali erbilci çıkması -->
