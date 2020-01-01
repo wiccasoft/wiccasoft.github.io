@@ -12,6 +12,7 @@ https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
 https://www.mappingworlds.nl/
 bkz kontantinopolisi kaç milisaniyede alırız sorunsalı
+https://www.amazon.com/Tricia-Helfer-Photo-Picture-SHIPS/dp/B07PXHP4ZF
 https://www.uludagsozluk.com/e/42648621/ bkz dont be too evil
 https://www.uludagsozluk.com/e/42648153/ bkz olmayan şeye kafa tutulmaz
 bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
