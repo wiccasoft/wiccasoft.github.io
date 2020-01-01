@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!-- bkz bülent yapraklıoğlu na entry girerkene ciddileşen abüü -->
+<!-- bkz bülent yapraklıoğlu na entry girerkene ciddileşen abüüler -->
 <!-- bkz abüler entry gürerkenü deli sükmüşçesüne entry gürecem düye günç -->
 <!-- bkz entry girmek çok mu zevkli lan abüü diyen ilkokul öğrencisi -->
 <!-- bkz abi nolur götünü yiyem abüü bana da entry gir diyen genç -->
