@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!-- https://www.uludagsozluk.com/e/42644414/  https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
+<!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
 <!-- bkz memet ali erbille büyümüş gerizekalı nesil -->
 <!-- bkz televoleyi özledim lan diye ağlayan adam -->
 <!-- bkz memet ali beey siz yılbaşımı geçirilir diye alayan adam -->
