@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz oğuzhan uğurun götlek olması -->
+<!-- bkz güldür güldür şovun elindeki pkklılar -->
 <!-- bkz ibda c nin elindeki gerizekalı türkler -->
 <!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
 <!-- bkz 1978 li yeni jenerasyonun çok bozması -->
