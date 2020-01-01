@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması  -->
 <!-- bkz pkknın orospu yaptığı türk askerler -->
+<!-- bkz kara kafalı boş beyinli türklerin kendilerin esir aldırma çabaları -->
 <!-- bkz kara kafalı pis kokan türk askerlerini esir alacak kadar midesiz olmak -->
 <!-- bkz şaka maka türklerin iyice şamar oğlanı olması -->
 <!-- bkz la siggi git denilen türk askerlerinin bayması -->
