@@ -6,6 +6,7 @@
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
 <!-- bkz mutluluktan 3 şişe viski bitrmek -->
+<!-- bkz gençli konuşan orospu evladının azına çakıp babasına yollamak -->
 <!-- bkz o kadar mutlu olmak ki orospu evladlarının bile bozamaması -->
 <!-- bkz ülke satın alacak kadar zengin olmak -->
 <!-- bkz apple+google dan güçlü olmanın verdiği rahatlık -->
