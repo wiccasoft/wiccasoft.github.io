@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz havaalanına futbolcu karşılamaya gidenlerin zeka seviyesi -->
 <!-- bkz radamel falcao garcia nın nusretten attığı foto bi bak len amq atmıştır belki -->
 <!-- bkz martin linnesin ben geldim açıktan enseye şaplak göte parmak oh şiş kebap demesi -->
 <!-- bkz celal kılışdaroğlanın pkk nın dağ kadrosuna katılması -->
