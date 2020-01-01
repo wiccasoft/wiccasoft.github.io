@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz pkknın elindeki türk askerlerine mehmet ali erbil izletmesi -->
+<!-- bkz pkknın elindeki türk askerleri https://www.youtube.com/watch?v=0iTts0sUzH4 -->
 <!-- bkz pkk nın esir türkleri siklememesi -->
 <!-- bkz pkknın elindeki esir mehmet ali erbilin askerleri -->
 <!-- bkz güneşin batışını özlemeyen nesle aşina değilim -->
