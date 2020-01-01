@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+https://www.youtube.com/watch?v=Zi4PffZzRkc
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
 bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
