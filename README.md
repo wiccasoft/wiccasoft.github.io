@@ -7,7 +7,6 @@
 <!-- bkz memet ali erbille büyümüş gerizekalı neslin güldürmesi -->
 <!-- bkz televoleyi özledim lan diye ağlayan adam -->
 <!-- bkz memet ali beey siz yılbaşımı geçirilir diye alayan adam -->
-<!-- bkz pkk nın elindeki memet ali erbilin melabaaa televole demesi -->
 <!-- bkz acunu özledim lan diye ağlayacak neslin gümbür gümbür geliyor olması -->
 <!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 -->
 <!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo memet aliyi özleyen garip adam -->
