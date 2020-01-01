@@ -15,7 +15,7 @@ bkz atatürke fesli orospu evladı diyenler ne içiyorlar acaba
 https://www.businessworldglobal.com/mustafa-kemal-ataturk/ bkz asalet nedir
 https://twitter.com/elifsahinkls zuhahahahahah
 bkz devlet ve hükümet arasındaki farkı bilmeyen ezik
-https://www.youtube.com/watch?v=JJfHHmjzkjs bkz kalender meşrep olmanın faydaları
+bkz kalender meşrep olmanın faydaları
 https://twitter.com/elifsahinkls/status/1212338838586171394?s=19 bkz sevim koş ali koçu harcayacaklar
 https://eksisozluk.com/entry/99924354 lol
 https://eksisozluk.com/entry/99912816 lol
