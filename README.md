@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
+<!-- bkz mehmet erdemin mehmetçik vakfına mehmetçik bağışlaması -->
 <!-- bkz mehmet ali ılıcakın mehmet erdemin askerlik arkadaşı çıkması -->
 <!-- bkz mehmet erdemin mehmet ali erbili özledim tweeti -->
 <!-- bkz mahsun kırmızıgülün pkknın elindeki kekoları salarım diye tehdit etmesi -->
