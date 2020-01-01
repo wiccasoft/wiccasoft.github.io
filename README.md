@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz son jenerasyonun çok bozması diyen 28 yaşındaki incici -->
+<!-- bkz son jenerasyonun çok başarısızı diyen başarılı incici -->
 <!-- bkz hasan kaçanın cem yılmaza ben de yılbaşına giriyorum ama senin gibi değil ayarı --> 
 <!-- bkz yılbaşına adam gibi giren adam gibi genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- bkz mehmet ali alaboranın mehmet erdemle barışması -->
