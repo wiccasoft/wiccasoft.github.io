@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz mehmet ali erbilin 22 yaş küçük sevdiceği -->
 <!-- bkz şaka maka mehmet ali erbil in kızlarının taş gibi olması -->
 <!-- https://www.uludagsozluk.com/e/42643978/ bkz bi am uğruna ne güneşler batıyo aşkolar -->
 <!-- https://www.uludagsozluk.com/e/42644148/ lol -->
