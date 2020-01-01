@@ -3,7 +3,8 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-<!--bkz youtube'a girip çarkıfelek açmak varken mehemet aliye entry giren ergenler -->
+<!--bkz mehmet ali beysiz yılbaşı geçirmek https://www.youtube.com/watch?v=oecgH0w2hGU -->
+<!-- bkz youtube'a girip çarkıfelek açmak varken mehemet aliye entry giren ergenler -->
 <!-- bkz iki kadeh de memet ali bey için içmek -->
 <!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil/&w=bg özleniyosun reis -->
 <!-- https://www.uludagsozluk.com/k/mehmet-al-erbil-olmadan-y%C4%B1lba%C5%9F%C4%B1-kutlamak/ üzücü -->
