@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz nusretin verdiği anlamlı mesaj -->
+<!-- bkz enes abinin genci polise şikayet etmesi -->
 <!-- bkz tayyip anamın üstünde yakalansa orospuluk anamdadır diyen gençin seyfo dayı çıkması -->
 <!-- bkz deli anasının amına sokmuşcasına eğlenen genç -->
 <!-- bkz eğlenen gencin mehmet ali erbilci çıkması -->
