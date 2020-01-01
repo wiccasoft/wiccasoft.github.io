@@ -3,12 +3,14 @@
 
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
-<!-- https://www.uludagsozluk.com/e/42647681/ lol -->
-<!-- https://www.uludagsozluk.com/e/42645283/ bkz nusretin verdiği mesajı anlamayan gençlik -->
-<!-- https://github.com/puppeteer/puppeteer getting jiggy with it -->
-<!-- https://www.youtube.com/watch?v=ARt3zDHSsd4 Web Scraping With Puppeteer-->
-<!-- https://www.youtube.com/watch?v=QtTj4cramPM hella good -->
-<!-- https://www.uludagsozluk.com/e/42647308/ lol -->
+<!-- 
+https://www.uludagsozluk.com/e/42647681/ lol
+https://www.uludagsozluk.com/e/42645283/ bkz nusretin verdiği mesajı anlamayan gençlik 
+https://github.com/puppeteer/puppeteer getting jiggy with it 
+https://www.youtube.com/watch?v=ARt3zDHSsd4 Web Scraping With Puppeteer
+https://www.youtube.com/watch?v=QtTj4cramPM hella good 
+https://www.uludagsozluk.com/e/42647308/ lol 
+-->
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
