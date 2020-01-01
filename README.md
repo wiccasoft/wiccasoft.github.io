@@ -6,6 +6,7 @@
 <!-- 
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
+bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
 https://twitter.com/elifsahinkls zuhahahahahah
 bkz devlet ve hükümet arasındaki farkı bilmeyen ezik
 https://www.youtube.com/watch?v=JJfHHmjzkjs bkz kalender meşrep olmanın faydaları
