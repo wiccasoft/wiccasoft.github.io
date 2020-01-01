@@ -6,6 +6,7 @@
 <!-- bkz x kuşağının çok bozması  -->
 <!-- bkz genç pisliğin teki çıktı rıza baba -->
 <!-- bkz serin köksal baba hikayeleri yazan bordo klavyeliler -->
+<!-- bkz şaka maka tayyipin gençleri hamam böceğine çevirmesi -->
 <!-- bkz entry girerken yaşlanan bordo klavyeliler -->
 <!-- bkz reis sikmişcesine bordo klavyemler yeni yıla hazırım diyen yaşlı -->
 <!-- bkz beka reis sikmişcesine entry giren ülkücünün yaşlanması -->
