@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!-- bkz martin linnesin pkk ya sempatim var demesi -->
+<!-- bkz martin linnesin fatih hoca göte parmak şiş kebap demesi -->
 <!-- bkz celal kılışdaroğlanın pkk nın dağ kadrosuna katılması -->
 <!-- bkz orospu evladı kamalcıların atatürk e hiç benzememeleri sorunsalı -->
 <!-- bkz kamalcılarla islamcılara salak diyen pkknın dağ kadrosu sorumlusu -->
