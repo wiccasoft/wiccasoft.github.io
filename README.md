@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz kamalcıların atatürk e hiç benzememeleri sorunsalı -->
 <!-- bkz kamalcılarla islamcılara salak diyen pkknın dağ kadrosu sorumlusu -->
 <!-- bkz kamalcılarla islamcıların ağır salak olmaları -->
 <!-- bkz melaba televoleyi özledim diyip ağlayan idiot -->
