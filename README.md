@@ -7,6 +7,7 @@
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
 bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
+bkz atatürke fesli bunak diyenler ne içiyorlar acaba
 https://www.businessworldglobal.com/mustafa-kemal-ataturk/ bkz asalet nedir
 https://twitter.com/elifsahinkls zuhahahahahah
 bkz devlet ve hükümet arasındaki farkı bilmeyen ezik
