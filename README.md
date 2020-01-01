@@ -4,10 +4,10 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!-- bkz kara kafalı asgari beyinli türklerin kendilerini esir aldırma çabaları -->
-<!-- bkz kara kafalı pis kokan türk askerlerini esir alacak kadar midesiz olmak -->
 <!-- bkz şaka maka türklerin iyice şamar oğlanı olması -->
 <!-- bkz la siggi git denilen türk askerlerinin bayması -->
+<!-- bkz kara kafalı asgari beyinli türklerin kendilerini esir aldırma çabaları -->
+<!-- bkz kara kafalı pis kokan türk askerlerini esir alacak kadar midesiz olmak -->
 <!-- bkz fakirlikten eğlenemeyen başarısız milletlerin güldürmesi -->
 <!-- bkz yılbaşına adam gibi giren adam gibi genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=_0KMSc7Jz_Y genclerin çok bozması -->
