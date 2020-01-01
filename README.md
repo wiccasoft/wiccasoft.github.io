@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz çukur çarpışma sahnesi izlerken coşan genç -->
+<!-- bkz çukur çarpışma sahnesi izlerken coşan tayyipçi genç -->
 <!-- bkz seyfo dayının yılbaşına giren gence ayarı kesmesi -->
 <!-- bkz polat alemdarın yılbaşına eğlenerek giren genci pataklaması -->
 <!-- bkz deli sikmişcesine yılbaşına giren gencimn babasının alamancı çıkması -->
