@@ -5,7 +5,7 @@
 
 <!-- 
 https://twitter.com/elifsahinkls zuhahahahahah
-bkz kalender meşrep olmanın faydaları
+https://www.youtube.com/watch?v=JJfHHmjzkjs bkz kalender meşrep olmanın faydaları
 https://twitter.com/elifsahinkls/status/1212338838586171394?s=19 bkz sevim koş ali koçu harcayacaklar
 https://eksisozluk.com/entry/99924354 lol
 https://eksisozluk.com/entry/99912816 lol
