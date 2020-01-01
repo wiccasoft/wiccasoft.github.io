@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz martin linnes sol bek açıktan pkk forması göstermesi -->
 <!-- bkz celal kılışdaroğlanın pkk nın dağ kadrosuna katılması -->
 <!-- bkz orospu evladı kamalcıların atatürk e hiç benzememeleri sorunsalı -->
 <!-- bkz kamalcılarla islamcılara salak diyen pkknın dağ kadrosu sorumlusu -->
