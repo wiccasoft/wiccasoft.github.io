@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz şaka maka ulucuların çocuğum yaşında olmaları -->
+<!-- bkz kurtlar vadisi izlemekten beyni erimiş genç -->
 <!-- bkz gençli mençli konuşan 97 lilerin üniye girdiğim senede doğmaları -->
 <!-- bkz son jenerasyonun çok başarısız diyen 97 li başarılı incici -->
 <!-- bkz hasan kaçanın cem yılmaza ben de yılbaşına giriyorum ama senin gibi değil ayarı --> 
