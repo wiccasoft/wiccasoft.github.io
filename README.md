@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz yılbaşına adam gibi giren genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
+<!-- bkz yılbaşına adam gibi giren adam gibi genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- bkz mehmet ali alaboranın mehmet erdemle barışması -->
 <!-- bkz mehmet erdemin mehmetçik vakfına yaptığı erdemli bağış-->
 <!-- bkz new zealandcı tayyipçi olup olaylara fransız olmak -->
