@@ -7,9 +7,8 @@
 <!-- bkz microsoftun dağ kadrosunu güçlendirmesi -->
 <!-- bkz pkknın ezik türklere skype açtırması -->
 <!-- bkz pkknın elindeki esir türk askerleri https://www.youtube.com/watch?v=0iTts0sUzH4 -->
-<!-- bkz pkknın elindeki esir mehmet ali erbilin askerleri -->
-<!-- bkz güneşin batışını özlemeyen nesle aşina değilim -->
 <!-- bkz bir sornaki nesle aptal diyen gerizekalı nesiller -->
+<!-- bkz güneşin batışını özlemeyen nesle aşina değilim -->
 <!-- bkz güldür güldür şovun elindeki pkklılar -->
 <!-- bkz ibda c nin elindeki gerizekalılar -->
 <!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
