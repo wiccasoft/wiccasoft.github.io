@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz ömer dededin gence verdiği ayar --> 
+<!-- bkz polat alemdarın eğlenen gence racon kesmesi -->
 <!-- nkz mehmet erdemin gencin kulağını sıkıp kaç yaşındasın sen demesi -->
 <!-- bkz nusretin verdiği anlamlı mesajı doğru okuyan gençlik -->
 <!-- bkz enes abinin deli sikmiş genci polise şikayet etmesi -->
