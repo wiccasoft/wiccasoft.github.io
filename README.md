@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz deli sikmiş gibi genç -->
 <!-- bkz memet ali eribl de deli sikmiş gibi yuvarlanan gencin büyümesi -->
 <!-- bkz erkan tanın tan vakti ver mehteri diye coşması -->
 <!-- bkz ekşici abileyin açtığı başlığı çalan ulucu abbiley -->
