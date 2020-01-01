@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.uludagsozluk.com/e/42644414/  ağlattın reis -->
 <!--bkz mehmet alisiz gyılbaşı geçirdiği için ağlayan çocuk -->
 <!-- bkz sapık mehmet aliyi özleyen malum ırk -->
 <!-- bkz mehmet ali beysiz yılbaşı geçirmek https://www.youtube.com/watch?v=oecgH0w2hGU -->
