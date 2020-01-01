@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz fesli orospu evladının esir askerleri fesle dövmesi -->
 <!-- bkz ezanı bile özlem kokan cennet ülke https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- bkz mehmet ali ağcanın ben de özledim yorumu  -->
 <!-- bkz mehmet ali alaborasız yılbaşı geçirmek -->
