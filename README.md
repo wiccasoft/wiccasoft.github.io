@@ -4,74 +4,10 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz pkknın elindeki müezzinler -->
 <!-- bkz halo dayının yılbaşına giren gence ayarı kesmesi -->
 <!-- bkz polat alemdarın yılbaşına eğlenerek giren genci pataklaması -->
 <!-- bkz deli sikmişcesine yılbaşına giren gencimn babasının alamancı çıkması -->
-<!-- bkz killa hakanın dövdüğü dazlakların tayyipçi çıkması -->
-<!-- bkz tayyipçi alamancıların mansur yavaşı desteklemesi -->
-<!-- bkz brezilya new zeland ve los angeles yeter bana kekolar-->
-<!-- bkz kamalcı çomar ergenlere ipucu cape town tarzım bi yer -->
-<!-- bkz tayyipçi ve almanya gibi boktan bi yerde yaşakayacak kadar fakir olacağımı sanan ergenlerin güldürmesi -->
-<!-- bkz yatalak dededin son jenerasyon çok bozdu demesi -->
-<!-- bkz yatalak dedelerin kafa sikmesi -->
-<!-- bkz mutluluktan 3 şişe viski bitirmek -->
-<!-- bkz gençli konuşan orospu evladının azına çakıp babasına yollamak -->
-<!-- bkz o kadar mutlu olmak ki orospu evladlarının bile bozamaması -->
-<!-- bkz ülke satın alacak kadar zengin olmak -->
-<!-- bkz apple+google dan güçlü olmanın verdiği rahatlık -->
-<!-- bkz tek dünya devletini kurup türklere siktiri çekmek -->
-<!-- bkz rus askerinin rezil ettiği türk askerleri -->
-<!-- bkz beni de esir al diyen türk askerine la siggi git demek -->
-<!-- bkz pkk nın elindeki türk askerlerin askerlik anılarının kafa sikmesi -->
-<!-- bkz havaalanına futbolcu karşılamaya gidenlerin zeka seviyesi -->
-<!-- bkz radamel falcao garcia nın nusretten attığı foto bi bak len amq atmıştır belki -->
-<!-- bkz martin linnesin ben geldim açıktan enseye şaplak göte parmak oh şiş kebap demesi -->
-<!-- bkz celal kılışdaroğlanın pkk nın dağ kadrosuna katılması -->
-<!-- bkz orospu evladı kamalcıların atatürk e hiç benzememeleri sorunsalı -->
-<!-- bkz kamalcılarla islamcılara salak diyen pkknın dağ kadrosu sorumlusu -->
-<!-- bkz kamalcılarla islamcıların ağır salak olmaları -->
-<!-- bkz melaba televoleyi özledim diyip ağlayan idiot -->
-<!-- bkz islami terör son bulacak diyen islamcı terörist -->
-<!-- bkz cübbelinin esir askerleri cübbbeyle dövmesi -->
-<!-- bkz ezanı bile özlem kokan cennet ülke https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- bkz mehmet ali ağcanın ben de özledim yorumu  -->
-<!-- bkz mehmet ali alaborasız yılbaşı geçirmek -->
-<!-- bkz mehmet erdemsiz yılbaşı vs memet alisiz yılbaşı -->
-<!-- bkz memet ali erbilsiz yılbaşı geçirirken ağlayan adam yardım ediyoruz kampanyası -->
-<!-- bkz doğanay oğuzun oğuzların kayı boyundanız demesi -->
-<!-- bkz memedim memedim sanan git demeeedeemm --->
-<!-- bkz mehmet erdemin mehmetçik vakfına mehmetçik bağışlaması -->
-<!-- bkz mehmet ali ılıcakın mehmet erdemin askerlik arkadaşı çıkması -->
-<!-- bkz mehmet erdemin mehmet ali erbili özledim tweeti -->
-<!-- bkz mahsun kırmızıgülün pkknın elindeki kekoları salarım diye tehdit etmesi -->
-<!-- https://twitter.com/kamilmakarna/status/1024737292123037696 -->
-<!-- bkz microsoftun dağ kadrosunu güçlendirmesi -->
-<!-- bkz pkknın ezik türklere skype açtırması -->
-<!-- bkz pkknın elindeki esir türk askerleri https://www.youtube.com/watch?v=0iTts0sUzH4 -->
-<!-- bkz bir sornaki nesle aptal diyen gerizekalı nesiller -->
-<!-- bkz güneşin batışını özlemeyen nesle aşina değilim -->
-<!-- bkz güldür güldür şovun elindeki pkklılar -->
-<!-- bkz ibda c nin elindeki gerizekalılar -->
-<!-- https://www.youtube.com/watch?v=vNpF8wnP_Kw -->
-<!-- https://www.youtube.com/watch?v=paYPtUviLMA olm bu nedir yahu aç izle ne zırlıyon
-<!-- bkz memet ali erbille büyümüş gerizekalı neslin güldürmesi -->
-<!-- bkz televoleyi özledim lan diye ağlayan adam -->
-<!-- bkz memet ali beey siz yılbaşımı geçirilir diye alayan adam -->
-<!-- bkz acunu özledim lan diye ağlayacak neslin gümbür gümbür geliyor olması -->
-<!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 -->
-<!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo memet aliyi özleyen garip adam -->
-<!-- https://www.uludagsozluk.com/e/42644409/ https://www.youtube.com/watch?v=KH-Ag4uhFjo -->
-<!-- https://www.uludagsozluk.com/e/42644414/  ağlattın lan   -->
-<!-- https://www.uludagsozluk.com/k/mehmet-al-erbil-olmadan-y%C4%B1lba%C5%9F%C4%B1-kutlamak/ üzücü -->
-<!-- bkz memet ali beeeeyy bi yardım etseniz diyen karıların teyze olması -->
-<!-- bkz mehmet ali erbilin parmaktan sonra çok bozması -->
-<!-- bkz mehmet ali erbilin 22 yaş küçük sevdiceği -->
-<!-- bkz şaka maka mehmet ali erbil in kızlarının taş gibi olması -->
-<!-- https://www.uludagsozluk.com/e/42643978/ bkz bi am uğruna ne güneşler batıyo aşkolar -->
-<!-- https://www.uludagsozluk.com/e/42644148/ lol -->
-<!-- https://www.youtube.com/watch?v=Zi4PffZzRkc hemp -->
-<!-- https://www.youtube.com/watch?v=lJdjqGzO1Hk lol -->
+
 
 [![Image](skynet/Screenshot_2019-12-31_04-41-03.png)]( https://www.theguardian.com/world/2019/dec/31/new-zealands-year-of-style-over-substance )
 
