@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz tek dünya devletini kurup türklere siktiri çekmek -->
 <!-- bkz rus askerinin rezil ettiği türk askerleri -->
 <!-- bkz beni de esir al diyen türk askerine la siggi git demek -->
 <!-- bkz pkk nın elindeki türk askerlerin askerlik anılarının kafa sikmesi -->
