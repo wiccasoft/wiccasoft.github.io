@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz tayyipçi alamancıların mansur yavaşı desteklemesi -->
 <!-- bkz brezilya new zeland ve los angeles yeter bana kekolar-->
 <!-- bkz kamalcı çomar ergenlere ipucu cape town tarzım bi yer -->
 <!-- bkz tayyipçi ve almanya gibi boktan bi yerde yaşakayacak kadar fakir olacağımı sanan ergenlerin güldürmesi -->
