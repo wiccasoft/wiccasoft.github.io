@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz yatalak dededin son jenerasyon çok bozdu demesi -->
 <!-- bkz mutluluktan 3 şişe viski bitirmek -->
 <!-- bkz gençli konuşan orospu evladının azına çakıp babasına yollamak -->
 <!-- bkz o kadar mutlu olmak ki orospu evladlarının bile bozamaması -->
