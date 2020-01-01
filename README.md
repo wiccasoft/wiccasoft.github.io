@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!--b kz kamalcılarla islamcılara salak diyen pkknın dağ kadrosu sorumlusu -->
 <!-- bkz kamalcılarla islamcıların ağır salak olmaları -->
 <!-- bkz melaba televoleyi özledim diyip ağlayan idiot -->
 <!-- bkz islami terör son bulacak diyen islamcı terörist -->
