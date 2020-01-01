@@ -4,19 +4,10 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!-- bkz pkknın orospu yaptığı türk askerler -->
-<!-- bkz kara kafalı boş beyinli türklerin kendilerin esir aldırma çabaları -->
+<!-- bkz kara kafalı boş beyinli türklerin kendilerini esir aldırma çabaları -->
 <!-- bkz kara kafalı pis kokan türk askerlerini esir alacak kadar midesiz olmak -->
 <!-- bkz şaka maka türklerin iyice şamar oğlanı olması -->
 <!-- bkz la siggi git denilen türk askerlerinin bayması -->
-<!-- bkz sikilen türk askerinin tekrar dönüp abi bi daha sik demesi -->
-<!-- bkz türk askerlerini telefonla dövüp birliğine yollamak -->
-<!-- bkz götü sikilen türk askerlerinin abi telefonumun modeli bu demesi -->
-<!-- bkz pkknın telefonlarını götüne soktuğu türk askerleri -->
-<!-- bkz götten girilen türk askerlerin uluda askerlik anısı anlatması -->
-<!-- bz sikilen esir askerlerin götüne bi daha girmek -->
-<!-- bz pkknın elindeki esir türk askerlerini sikip atmak -->
-<!-- bkz pkknın elindeki türk askerlerinin yardım çığlığına kulak ver -->
 <!-- bkz fakirlikten eğlenemeyen başarısız milletlerin güldürmesi -->
 <!-- bkz yılbaşına adam gibi giren adam gibi genç https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- https://www.youtube.com/watch?v=_0KMSc7Jz_Y genclerin çok bozması -->
