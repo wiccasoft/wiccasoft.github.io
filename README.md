@@ -1,5 +1,5 @@
 
-[![Image](skynet/ Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
+[![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 
 <!-- https://github.com/puppeteer/puppeteer getting jiggy with it -->
