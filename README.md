@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!--bkz sapık mehmet aliyi özleyen malum ırk -->
 <!--bkz mehmet ali beysiz yılbaşı geçirmek https://www.youtube.com/watch?v=oecgH0w2hGU -->
 <!-- bkz youtube'a girip çarkıfelek açmak varken mehemet aliye entry giren ergenler -->
 <!-- bkz iki kadeh de memet ali bey için içmek -->
