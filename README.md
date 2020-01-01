@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması  -->
 <!-- bkz pkknın orospu yaptığı türk askerler -->
-<!--b kz sikilen türk askerinin tekrar dönüp abi bi daha sik demesi -->
+<!-- bkz sikilen türk askerinin tekrar dönüp abi bi daha sik demesi -->
 <!-- bkz türk askerlerini telefonla dövüp birliğine yollamak -->
 <!-- bkz götü sikilen türk askerlerinin abi telefonumun modeli bu demesi -->
 <!-- bkz pkknın telefonlarını götüne soktuğu türk askerleri -->
