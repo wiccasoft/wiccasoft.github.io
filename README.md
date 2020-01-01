@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
+<!-- bkz müslüm gürsesin gence verdiği ayar --> 
 <!-- bkz mehmet erdem erdem ola gönül dola pirler demesi -->
 <!-- bkz nusretin verdiği anlamlı mesajı doğru okuyan gençlik -->
 <!-- bkz enes abinin deli sikmiş genci polise şikayet etmesi -->
