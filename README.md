@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
+<!-- bkz pkknın orospu yaptığı türk askerler -->
 <!-- bkz götten girilen türk askerlerin uluda askerlik anısı anlatması -->
 <!-- bz sikilen esir askerlerin götüne bi daha girmek -->
 <!-- bz pkknın elindeki esir türk askerlerini sikip atmak -->
