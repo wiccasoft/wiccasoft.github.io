@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz gençli konuşanların genelde loser ve ergen olması -->
 <!-- bkz 24 yaşında gencli konuşan kurtlar vadisi ergeni -->
 <!-- bkz genclerin yılbaşına deli gibi girmesi -->
 <!-- bkz deli sikmişcesine yılbaşına giren gencimn babasının alamancı çıkması -->
