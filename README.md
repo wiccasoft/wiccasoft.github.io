@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz genclerin yılbaşına deli gibi girmesi -->
 <!-- bkz deli sikmişcesine yılbaşına giren gencimn babasının alamancı çıkması -->
 <!-- bkz killa hakanın dövdüğü dazlakların tayyipçi çıkması -->
 <!-- bkz tayyipçi alamancıların mansur yavaşı desteklemesi -->
