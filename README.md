@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz kamalcı ergenlere ipucu cape town tarzım -->
 <!-- bkz tayyipçi ve almanya gibi boktan bi yerde yaşakayacak kadar fakir olacağımı sanan ergenlerin güldürmesi -->
 <!-- bkz yatalak dededin son jenerasyon çok bozdu demesi -->
 <!-- bkz yatalak dedelerin kafa sikmesi -->
