@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
+<!-- https://www.uludagsozluk.com/e/42644848/ kucakta hoplatıcalakların heyecana gelmesi -->
 <!-- https://www.uludagsozluk.com/e/42644871/ adammıdır abi yalarun abğğğğğğ --->
 <!-- bkz bülent yapraklıoğluna ciddili entry gürerkene odaya güren gevşek genç -->
 <!-- bkz bülent yapraklıoğlu na entry girerkene ciddileşen abüüler -->
