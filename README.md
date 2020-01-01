@@ -7,6 +7,7 @@
 bkz youtuberların kontent çalması
 https://www.youtube.com/watch?v=Zi4PffZzRkc
 https://www.youtube.com/watch?v=lJdjqGzO1Hk
+https://www.uludagsozluk.com/e/42644726/ lol
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
 bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
