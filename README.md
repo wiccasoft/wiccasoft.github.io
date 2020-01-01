@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!-- https://www.youtube.com/watch?v=XPLiJYcz1P4 -->
+<!-- https://www.youtube.com/watch?v=XPLiJYcz1P4 lol -->
 <!-- bkz tayyipin deli sikmişcesine ezeceği hamam böceklerinin eğlendirmesi -->
 <!-- https://www.uludagsozluk.com/e/42644848/ kucakta hoplatıcalakların yeni uyanması -->
 <!-- https://www.uludagsozluk.com/e/42644871/ adammıdır abi yalarun abğğğğğğ --->
