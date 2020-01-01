@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz gencin deli babasının sikmiş gibi giren geç-->
 <!-- bkz gencin deli sikmiş gibi başlık açması -->
 <!-- bkz babanın açtığı başlığa deli sikmiş gibi yazan genç -->
 <!-- bkz deli sikmişçesine yılbaşına giren gencin babasının ekşici çıkması -->
