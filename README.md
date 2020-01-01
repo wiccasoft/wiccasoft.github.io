@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
+<!-- bkz doğanay oğuzun oğuzların kayı boyundanız demesi -->
 <!-- bkz memedim memedim sanan git demeeedeemm --->
 <!-- bkz mehmet erdemin mehmetçik vakfına mehmetçik bağışlaması -->
 <!-- bkz mehmet ali ılıcakın mehmet erdemin askerlik arkadaşı çıkması -->
