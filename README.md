@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo mememet aliyi özleyen garip adam -->
 <!-- https://www.uludagsozluk.com/e/42644409/ https://www.youtube.com/watch?v=KH-Ag4uhFjo -->
 <!-- https://www.uludagsozluk.com/e/42644414/  ağlattın lan memet alisi yokmuş beyler  -->
 <!--bkz mehmet alisiz gyılbaşı geçirdiği için ağlayan çocuk -->
