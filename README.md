@@ -4,7 +4,6 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması -->
-<!-- bkz google chrome un pkklı olması -->
 <!-- bkz microsoftun dağ kadrosunu güçlendirmesi -->
 <!-- bkz pkknın ezik türklere skype açtırması -->
 <!-- bkz pkknın elindeki esir türk askerleri https://www.youtube.com/watch?v=0iTts0sUzH4 -->
