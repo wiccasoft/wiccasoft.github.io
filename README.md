@@ -5,24 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!--bkz polat alemdar ın racon kesmiyoruz kafa kesiyoruz deyip yılbaşına deli sikmiş gibi giren genci kesmesi -->
 <!-- bkz polat alemdarın yılbaşına eğlenerek giren genci pataklaması -->
-<!-- bkz ağır abilerin kurtlar vadisi modunda yılbaşına girmesi -->
-<!-- bkz gencin babasının deli sikmiş gibi genç -->
-<!-- bkz gencin deli babasının sikmiş gibi giren geç-->
-<!-- bkz gencin deli sikmiş gibi başlık açması -->
-<!-- bkz babanın açtığı başlığa deli sikmiş gibi yazan genç -->
-<!-- bkz deli sikmişçesine yılbaşına giren gencin babasının ekşici çıkması -->
-<!-- bkz memet ali eribl de deli sikmiş gibi yuvarlanan gencin büyümesi -->
-<!-- bkz erkan tanın tan vakti ver mehteri diye coşması -->
-<!-- bkz ekşici abileyin açtığı başlığı çalan ulucu abbiley -->
-<!-- bkz yaşlıların forum sitelerinde kafa sikmesi -->
-<!-- bkz sen giderken ben dönüyordum diyen incici -->
-<!-- bkz senin bildiğinin yarısını unuttum diyen incici -->
-<!-- bkz senin yaşında kadar bilmişliğim var diyen keko -->
-<!-- bkz gençli konuşanların genelde loser ve ergen kekolar olması -->
-<!-- bkz 24 yaşında gencli konuşan kurtlar vadisi ergeni -->
-<!-- bkz genclerin yılbaşına deli gibi girmesi -->
 <!-- bkz deli sikmişcesine yılbaşına giren gencimn babasının alamancı çıkması -->
 <!-- bkz killa hakanın dövdüğü dazlakların tayyipçi çıkması -->
 <!-- bkz tayyipçi alamancıların mansur yavaşı desteklemesi -->
