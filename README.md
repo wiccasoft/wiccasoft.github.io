@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz babanın açtığı başlığa deli sikmiş gibi yazan genç -->
 <!-- bkz deli sikmişçesine yılbaşına giren gencin babasının ekşici çıkması -->
 <!-- bkz memet ali eribl de deli sikmiş gibi yuvarlanan gencin büyümesi -->
 <!-- bkz erkan tanın tan vakti ver mehteri diye coşması -->
