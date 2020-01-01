@@ -6,13 +6,7 @@
 <!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 -->
 <!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo memet aliyi özleyen garip adam -->
 <!-- https://www.uludagsozluk.com/e/42644409/ https://www.youtube.com/watch?v=KH-Ag4uhFjo -->
-<!-- https://www.uludagsozluk.com/e/42644414/  ağlattın lan memet alisi yokmuş beyler  -->
-<!--bkz mehmet alisiz gyılbaşı geçirdiği için ağlayan çocuk -->
-<!-- bkz sapık mehmet aliyi özleyen malum ırk -->
-<!-- bkz mehmet ali beysiz yılbaşı geçirmek https://www.youtube.com/watch?v=oecgH0w2hGU -->
-<!-- bkz youtube'a girip çarkıfelek açmak varken mehemet aliye entry giren ergenler -->
-<!-- bkz iki kadeh de memet ali bey için içmek -->
-<!-- https://www.uludagsozluk.com/k/mehmet-ali-erbil/&w=bg özleniyosun reis -->
+<!-- https://www.uludagsozluk.com/e/42644414/  ağlattın lan   -->
 <!-- https://www.uludagsozluk.com/k/mehmet-al-erbil-olmadan-y%C4%B1lba%C5%9F%C4%B1-kutlamak/ üzücü -->
 <!-- bkz memet ali beeeeyy bi yardım etseniz diyen karıların teyze olması -->
 <!-- bkz mehmet ali erbilin parmaktan sonra çok bozması -->
