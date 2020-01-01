@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=lJdjqGzO1Hk
 https://www.uludagsozluk.com/e/42644726/ lol
 https://eksisozluk.com/entry/99911934
 https://eksisozluk.com/entry/99911349 lol
+https://www.uludagsozluk.com/e/42648691/ lol
 https://www.mappingworlds.nl/
 bkz kontantinopolisi kaç milisaniyede alırız sorunsalı
 https://www.amazon.com/Tricia-Helfer-Photo-Picture-SHIPS/dp/B07PXHP4ZF
