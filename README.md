@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz ömer dededin gence verdiği ayar --> 
-<!-- bkz eğlenemk günah olduğu halde halkı kin ve düşmanlığa sürükleyen genç -->
+<!-- bkz eğlenmek günah olduğu halde halkı kin ve düşmanlığa sürükleyen genç -->
 <!-- bkz polat alemdarın eğlenen gence racon kesmesi -->
 <!-- nkz mehmet erdemin gencin kulağını sıkıp kaç yaşındasın sen demesi -->
 <!-- bkz nusretin verdiği anlamlı mesajı doğru okuyan gençlik -->
