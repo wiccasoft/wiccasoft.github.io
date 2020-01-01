@@ -5,6 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
+<!-- bkz beni de esir al diyen türk askerine la siggi git demek -->
 <!-- bkz pkk nın elindeki türk askerlerin askerlik anılarının kafa sikmesi -->
 <!-- bkz havaalanına futbolcu karşılamaya gidenlerin zeka seviyesi -->
 <!-- bkz radamel falcao garcia nın nusretten attığı foto bi bak len amq atmıştır belki -->
