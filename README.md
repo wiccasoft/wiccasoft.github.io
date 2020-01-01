@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!-- bkz killa hakanın döcdüğü dazlakların tayyipçi çıkması -->
+<!-- bkz killa hakanın dövdüğü dazlakların tayyipçi çıkması -->
 <!-- bkz tayyipçi alamancıların mansur yavaşı desteklemesi -->
 <!-- bkz brezilya new zeland ve los angeles yeter bana kekolar-->
 <!-- bkz kamalcı çomar ergenlere ipucu cape town tarzım bi yer -->
