@@ -5,7 +5,7 @@
 
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
-<!-- bkz martin linnesin ben geldim açıktan göte parmak şiş kebap demesi -->
+<!-- bkz martin linnesin ben geldim açıktan göte parmak oh şiş kebap demesi -->
 <!-- bkz celal kılışdaroğlanın pkk nın dağ kadrosuna katılması -->
 <!-- bkz orospu evladı kamalcıların atatürk e hiç benzememeleri sorunsalı -->
 <!-- bkz kamalcılarla islamcılara salak diyen pkknın dağ kadrosu sorumlusu -->
