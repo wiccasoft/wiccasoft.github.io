@@ -6,6 +6,7 @@
 <!-- bkz x kuşağının çok bozması -->
 <!-- bkz pkknın elindeki müezzinler -->
 <!-- bkz ülke satın alacak kadar zengin olmak -->
+<!-- bkz apple+google dan güçlü olmanın verdiği rahatlık -->
 <!-- bkz tek dünya devletini kurup türklere siktiri çekmek -->
 <!-- bkz rus askerinin rezil ettiği türk askerleri -->
 <!-- bkz beni de esir al diyen türk askerine la siggi git demek -->
