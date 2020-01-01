@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 <!-- bkz x kuşağının çok bozması  -->
-<!-- bkz kara kafalı boş beyinli ağızlarından tükürük saçan türklerin kendilerini esir aldırma çabaları -->
+<!-- bkz kara kafalı boş beyinli türklerin kendilerini esir aldırma çabaları -->
 <!-- bkz kara kafalı pis kokan türk askerlerini esir alacak kadar midesiz olmak -->
 <!-- bkz şaka maka türklerin iyice şamar oğlanı olması -->
 <!-- bkz la siggi git denilen türk askerlerinin bayması -->
