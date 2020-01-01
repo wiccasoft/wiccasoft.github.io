@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
+<!-- bkz memet ali beeeeyy diyen karıların teyze olması -->
 <!-- bkz mehmet ali erbilin parmaktan sonra çok bozması -->
 <!-- bkz mehmet ali erbilin 22 yaş küçük sevdiceği -->
 <!-- bkz şaka maka mehmet ali erbil in kızlarının taş gibi olması -->
