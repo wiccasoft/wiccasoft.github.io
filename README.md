@@ -5,6 +5,7 @@
 <!-- https://www.youtube.com/watch?v=ARt3zDHSsd4 Web Scraping With Puppeteer-->
 
 <!-- bkz şaka maka tek dünya devletini kuruyor olmam -->
+<!--bkz pkk nın hepatit c li askerleri salması -->
 <!-- https://www.uludagsozluk.com/e/42647056/ bkz ya ne olacağıdı sığır -->
 <!-- https://www.uludagsozluk.com/e/42647177/ bkz mikrofon mansur la imamoğlan da -->
 <!-- https://www.uludagsozluk.com/e/42644578/ bkz hayallerde yaşıyor bazı zombiler -->
