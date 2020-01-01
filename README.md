@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
-
+<!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 -->
 <!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo memet aliyi özleyen garip adam -->
 <!-- https://www.uludagsozluk.com/e/42644409/ https://www.youtube.com/watch?v=KH-Ag4uhFjo -->
 <!-- https://www.uludagsozluk.com/e/42644414/  ağlattın lan memet alisi yokmuş beyler  -->
