@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
-bkz viskisini yudumlarken evinde noel ağacı süsleyen müslüman 
+bkz viskisini yudumlarken (evinde) noel ağacı süsleyen müslüman 
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapin kralı
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
