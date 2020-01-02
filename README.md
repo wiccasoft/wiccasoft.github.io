@@ -5,7 +5,7 @@
 
 <!--https://www.uludagsozluk.com/e/42653181/ lol -->
 <!--bkz çakal carlos vs carlos ghosn https://www.youtube.com/watch?v=cpleQasfUjw -->
-<!--bkz kırmızı bültenle aranmanın verdiği haz-->
+<!--bkz kırmızı bültenle aranmanın verdiği haz -->
 
 <!-- [![Image](skynet/Screenshot_2020-01-02_07-27-29.png)]( https://www.youtube.com/watch?v=b5RAgn-ZP3E ) -->
 
