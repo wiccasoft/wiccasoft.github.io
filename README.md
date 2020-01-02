@@ -6,7 +6,7 @@
 <!-- 
 bkz viskisini yudumlarken evinde noel ağacı süsleyen müslüman yahudi
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
-https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapçisi
+https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapin kralı
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
 bkz apple huawei ve samsunga bedava işletim sistemi verip savaşa son vermek
 https://www.uludagsozluk.com/e/42648722/ bkz zombi araç ordusu
