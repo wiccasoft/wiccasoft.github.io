@@ -7,6 +7,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+bkz çakal carlos vs carlos ghosn
 bkz kırmızı bültenle aranmanın verdiği heyecan
 https://www.youtube.com/watch?v=cUcCg3c09xM
 https://www.youtube.com/watch?v=7DMDscGOUpg
