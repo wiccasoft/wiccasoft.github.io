@@ -7,6 +7,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+https://www.dunya.com/finans/haberler/tcmbden-doviz-tevdiat-artisina-karsi-onlem-haberi-459813 bkz sik kafalılar
 https://www.uludagsozluk.com/e/42649462/ 
 https://www.youtube.com/watch?v=Hj5vERbLtYI 
 https://www.uludagsozluk.com/e/42309684/ lol
