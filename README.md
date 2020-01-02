@@ -6,6 +6,7 @@
 <!-- 
 bkz noel ağacıyla prim kasan evanjelist
 https://www.youtube.com/watch?v=zvtUrjfnSnA
+https://www.youtube.com/watch?v=5tNiEq4lUOU
 https://dergipark.org.tr/en/download/article-file/89188 bkz makale nedir nasıl yazılır
 bkz viskisini yudumlarken (evinde) noel ağacı süsleyen reformist evanjelist
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
