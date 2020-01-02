@@ -5,6 +5,7 @@
 
 <!-- 
 bkz hz muhammedin ayı ikiye yarması
+bkz donald trump ın 2020 de mümin olması
 https://www.uludagsozluk.com/e/42648731/ bkz doanld trump
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapçisi
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
