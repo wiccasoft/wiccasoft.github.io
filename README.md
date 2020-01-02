@@ -5,7 +5,7 @@
 
 <!-- 
 bkz hz muhammedin ayı ikiye yarması
-https://www.uludagsozluk.com/e/42648731/ bkz islami kesimli noel ağacı
+https://www.uludagsozluk.com/e/42648731/ bkz doanld trump
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapçisi
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
 bkz apple huawei ve samsunga bedava işletim sistemi verip savaşa son vermek
