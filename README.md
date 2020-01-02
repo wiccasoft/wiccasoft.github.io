@@ -1,9 +1,10 @@
 
 [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )
+
+<!--bkz çakal carlos vs carlos ghosn -->
 <!--bkz kırmızı bültenle aranmanın verdiği haz-->
-<!--https://www.uludagsozluk.com/k/rizeli-erkekler/&w=bg bkz sedat peker -->
-<!--https://www.uludagsozluk.com/k/ferhan-%C5%9Fensoy/&w=bg eywallah bro -->
-<!-- https://www.uludagsozluk.com/k/ali-yerlikayan%C4%B1n-m%C3%BCtevazi-odas%C4%B1/ eywallah bro -->
+
+
 
 [![Image](skynet/Screenshot_2020-01-02_07-27-29.png)]( https://www.youtube.com/watch?v=b5RAgn-ZP3E )
 
