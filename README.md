@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-02_17-04-06.png)]( https://www.theguardian.com/business/2020/jan/02/japan-issues-interpol-wanted-notice-for-carlos-ghosn )
 
-[![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )
+<!-- [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )-->
 
 <!--https://www.uludagsozluk.com/e/42653181/ lol -->
 <!--bkz çakal carlos vs carlos ghosn https://www.youtube.com/watch?v=cpleQasfUjw -->
@@ -10,7 +10,7 @@
 <!-- [![Image](skynet/Screenshot_2020-01-02_07-27-29.png)]( https://www.youtube.com/watch?v=b5RAgn-ZP3E ) -->
 
 
-[![Image](skynet/Screenshot_2020-01-01_13-49-38.png)](https://www.youtube.com/watch?v=cUcCg3c09xM)
+[![Image](skynet/Screenshot_2020-01-01_13-49-38.png)]( https://www.youtube.com/watch?v=cUcCg3c09xM )
 
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
