@@ -4,7 +4,8 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
-bkz apple ve samsunga işletim sistemi satıp savaşa son vermek
+https://www.uludagsozluk.com/k/huawei-vs-samsung/
+bkz apple huawei ve samsunga bedava işletim sistemi verip savaşa son vermek
 https://www.uludagsozluk.com/e/42648722/ bkz zombi araç ordusu
 bkz youtuberların kontent çalması
 https://www.youtube.com/watch?v=Zi4PffZzRkc
