@@ -11,6 +11,7 @@ bkz viskisini yudumlarken (evinde) noel ağacı süsleyen reformist evanjelist
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapin kralı
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
+https://www.youtube.com/watch?v=eCKRI2wEw7I
 bkz apple huawei ve samsunga bedava işletim sistemi verip savaşa son vermek
 https://www.uludagsozluk.com/e/42648722/ bkz zombi araç ordusu
 bkz youtuberların kontent çalması
