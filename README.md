@@ -1,7 +1,7 @@
 
 
 [![Image](skynet/Screenshot_2020-01-02_07-27-29.png)]( https://www.youtube.com/watch?v=cUcCg3c09xM )
-https://www.youtube.com/watch?v=7DMDscGOUpg
+<!-- https://www.youtube.com/watch?v=7DMDscGOUpg -->
 
 [![Image](skynet/Screenshot_2020-01-01_13-49-38.png)]( https://www.youtube.com/watch?v=QtTj4cramPM )
 
