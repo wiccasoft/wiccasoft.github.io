@@ -7,6 +7,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+https://www.uludagsozluk.com/k/app-store-vs-google-play/ xaos store'un ikisini hoplatacağı versus
 bkz paranın kokusunu 100 ışık yılı öteden alan akplilerin icraatları
 https://www.dunya.com/finans/haberler/tcmbden-doviz-tevdiat-artisina-karsi-onlem-haberi-459813 
 https://www.uludagsozluk.com/e/42649462/ 
