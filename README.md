@@ -31,10 +31,7 @@ https://www.amazon.com/Tricia-Helfer-Photo-Picture-SHIPS/dp/B07PXHP4ZF
 https://www.uludagsozluk.com/e/42648621/ bkz dont be too evil
 https://www.uludagsozluk.com/e/42648153/ bkz olmayan şeye kafa tutulmaz
 bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
-bkz atatürke fesli orospu evladı diyenler ne içiyorlar acaba
 https://www.businessworldglobal.com/mustafa-kemal-ataturk/ bkz asalet nedir
-https://twitter.com/elifsahinkls zuhahahahahah
-bkz devlet ve hükümet arasındaki farkı bilmeyen ezik
 bkz kalender meşrep olmanın faydaları
 https://twitter.com/elifsahinkls/status/1212338838586171394?s=19 bkz sevim koş ali koçu harcayacaklar
 https://eksisozluk.com/entry/99924354 lol
