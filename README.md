@@ -6,60 +6,6 @@
 
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
-<!-- 
-https://www.uludagsozluk.com/k/app-store-vs-google-play/ xaos store'un ikisini hoplatacağı versus
-bkz paranın kokusunu 100 ışık yılı öteden alan akplilerin icraatları
-https://www.dunya.com/finans/haberler/tcmbden-doviz-tevdiat-artisina-karsi-onlem-haberi-459813 
-https://www.uludagsozluk.com/e/42649462/ 
-https://www.youtube.com/watch?v=Hj5vERbLtYI 
-https://www.uludagsozluk.com/e/42309684/ lol
-https://www.youtube.com/watch?v=4aCqQQ24Zbg
-bkz çakal carlos vs carlos ghosn 
-https://www.uludagsozluk.com/e/42651411/ lol
-bkz kırmızı bültenle aranmanın verdiği heyecan
-https://www.youtube.com/watch?v=cUcCg3c09xM
-https://www.youtube.com/watch?v=7DMDscGOUpg
-https://www.youtube.com/watch?v=nbwv1MD2bAs
-https://eksisozluk.com/entry/99923591 lol
-https://www.npmjs.com/package/imdb-scrapper
-https://www.youtube.com/watch?v=XEusZhzfv5g
-bkz noel ağacıyla prim kasan evanjelist
-https://www.youtube.com/watch?v=mnWVY2j3CLo 
-https://www.youtube.com/watch?v=zvtUrjfnSnA
-https://www.youtube.com/watch?v=5tNiEq4lUOU
-https://dergipark.org.tr/en/download/article-file/89188 bkz makale nedir nasıl yazılır
-https://www.uludagsozluk.com/e/42648674/ bkz islami avam rapin kralı
-https://www.uludagsozluk.com/k/huawei-vs-samsung/
-bkz youtuberların kontent çalması
-https://www.youtube.com/watch?v=Zi4PffZzRkc
-https://www.youtube.com/watch?v=lJdjqGzO1Hk
-https://www.uludagsozluk.com/e/42644726/ lol
-https://eksisozluk.com/entry/99911934
-https://eksisozluk.com/entry/99911349 lol
-https://www.uludagsozluk.com/e/42648691/ lol
-https://www.uludagsozluk.com/e/42647061/ lol
-https://www.mappingworlds.nl/
-bkz kontantinopolisi kaç milisaniyede alırız sorunsalı
-https://www.npmjs.com/package/imdb-scrapper
-https://www.amazon.com/Tricia-Helfer-Photo-Picture-SHIPS/dp/B07PXHP4ZF
-https://www.uludagsozluk.com/e/42648621/ bkz dont be too evil
-https://www.uludagsozluk.com/e/42648153/ bkz olmayan şeye kafa tutulmaz
-bkz yılbaşında eğitilmezlere anayasa kitapçığı fırlatmak
-https://www.businessworldglobal.com/mustafa-kemal-ataturk/ bkz asalet nedir
-bkz kalender meşrep olmanın faydaları
-https://twitter.com/elifsahinkls/status/1212338838586171394?s=19 bkz sevim koş ali koçu harcayacaklar
-https://eksisozluk.com/entry/99924354 lol
-https://eksisozluk.com/entry/99912816 lol
-https://eksisozluk.com/entry/99903195 lol
-https://www.uludagsozluk.com/e/42647681/ lol
-https://www.uludagsozluk.com/e/42645283/ bkz nusretin verdiği mesajı anlamayan gençlik 
-https://github.com/puppeteer/puppeteer getting jiggy with it 
-https://www.youtube.com/watch?v=ARt3zDHSsd4 Web Scraping With Puppeteer
-https://www.youtube.com/watch?v=QtTj4cramPM hella good 
-https://www.uludagsozluk.com/e/42647308/ lol 
-https://www.youtube.com/watch?v=fWVkWND02Nc
--->
-
 [![Image](skynet/Screenshot_2019-12-31_05-20-15.png)]( https://www.youtube.com/watch?v=VG3WkiL0d_U )
 
 
