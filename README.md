@@ -6,6 +6,7 @@
 <!-- 
 bkz noel ağacıyla prim kasan evanjelist
 bkz müslüyen müslümansa süsleyen süslüman mı sorunsalı
+https://dergipark.org.tr/en/download/article-file/89188
 bkz viskisini yudumlarken (evinde) noel ağacı süsleyen reformist evanjelist
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapin kralı
