@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+https://www.youtube.com/watch?v=95vgB6OJfbg
 bkz donald trumpın ne güzeldir kabe yolları demesi
 bkz donald trumpın kendini zikre vermesi
 bkz donald trump ın 2020 de mümin olması
