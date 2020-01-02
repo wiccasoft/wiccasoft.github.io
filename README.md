@@ -25,6 +25,7 @@ https://www.uludagsozluk.com/e/42648691/ lol
 https://www.uludagsozluk.com/e/42647061/ lol
 https://www.mappingworlds.nl/
 bkz kontantinopolisi kaç milisaniyede alırız sorunsalı
+https://www.npmjs.com/package/imdb-scrapper
 https://www.amazon.com/Tricia-Helfer-Photo-Picture-SHIPS/dp/B07PXHP4ZF
 https://www.uludagsozluk.com/e/42648621/ bkz dont be too evil
 https://www.uludagsozluk.com/e/42648153/ bkz olmayan şeye kafa tutulmaz
