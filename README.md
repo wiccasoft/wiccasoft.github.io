@@ -8,6 +8,7 @@ https://eksisozluk.com/entry/99923591 lol
 https://www.npmjs.com/package/imdb-scrapper
 https://www.youtube.com/watch?v=XEusZhzfv5g
 bkz noel ağacıyla prim kasan evanjelist
+https://www.youtube.com/watch?v=mnWVY2j3CLo 
 https://www.youtube.com/watch?v=zvtUrjfnSnA
 https://www.youtube.com/watch?v=5tNiEq4lUOU
 https://dergipark.org.tr/en/download/article-file/89188 bkz makale nedir nasıl yazılır
