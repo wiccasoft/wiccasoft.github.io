@@ -5,9 +5,7 @@
 
 <!-- 
 bkz viskisini yudumlarken evinde noel ağacı süsleyen müslüman yahudi
-bkz nihat hatipoğlunun islami usle göre kestiği ağaç
-bkz noel ağacının islamiusle göre süsleyen müslüman
-https://www.uludagsozluk.com/e/42648731/ bkz doanld trump
+https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapçisi
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
 bkz apple huawei ve samsunga bedava işletim sistemi verip savaşa son vermek
