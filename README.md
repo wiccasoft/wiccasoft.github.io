@@ -4,8 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
-bkz müslüman ne demek sorunsalı
-bkz müslümcüler müslüman mı oluyor sorunsalı
+bkz müslüyen müslümansa süsleyen süslüman mı sorunsalı
 bkz viskisini yudumlarken (evinde) noel ağacı süsleyen müslüman 
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapin kralı
