@@ -5,6 +5,7 @@
 
 <!-- 
 bkz müslüman ne demek sorunsalı
+bkz müslümcüler müslüman mı oluyor sorunsalı
 bkz viskisini yudumlarken (evinde) noel ağacı süsleyen müslüman 
 https://www.uludagsozluk.com/e/42648731/ bkz sogapa kajmer
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapin kralı
