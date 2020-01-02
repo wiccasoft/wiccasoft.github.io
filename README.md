@@ -4,10 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
-https://www.youtube.com/watch?v=95vgB6OJfbg
-bkz donald trumpın ne güzeldir kabe yolları demesi
-bkz donald trumpın kendini zikre vermesi
-bkz donald trump ın 2020 de mümin olması
+bkz noel ağacının islamiusle göre süsleyen müslüman
 https://www.uludagsozluk.com/e/42648731/ bkz doanld trump
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapçisi
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
