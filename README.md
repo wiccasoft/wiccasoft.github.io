@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+bkz hz muhammedin ayı ikiye yarması
 https://www.uludagsozluk.com/e/42648731/ bkz islami kesimli noel ağacı
 https://www.uludagsozluk.com/e/42648674/ bkz islami avm rapçisi
 https://www.uludagsozluk.com/k/huawei-vs-samsung/
