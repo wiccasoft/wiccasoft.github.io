@@ -7,6 +7,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+bkz napolyonun boyu vs atatürkün boyu
 https://www.youtube.com/watch?v=4aCqQQ24Zbg
 bkz çakal carlos vs carlos ghosn 
 https://www.uludagsozluk.com/e/42651411/ lol
