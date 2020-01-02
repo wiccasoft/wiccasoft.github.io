@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-01_12-23-04.png)]( https://www.youtube.com/watch?v=YTKZ5vQ6Kk8 )
 
 <!-- 
+https://www.npmjs.com/package/imdb-scrapper
 https://www.youtube.com/watch?v=XEusZhzfv5g
 bkz noel ağacıyla prim kasan evanjelist
 https://www.youtube.com/watch?v=zvtUrjfnSnA
