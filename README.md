@@ -8,6 +8,7 @@
 
 <!-- 
 bkz çakal carlos vs carlos ghosn
+https://www.uludagsozluk.com/e/42651411/ lol
 bkz kırmızı bültenle aranmanın verdiği heyecan
 https://www.youtube.com/watch?v=cUcCg3c09xM
 https://www.youtube.com/watch?v=7DMDscGOUpg
