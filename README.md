@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )
 
+<!--https://www.uludagsozluk.com/e/42653171/ lol -->
 <!--bkz çakal carlos vs carlos ghosn https://www.youtube.com/watch?v=cpleQasfUjw -->
 <!--bkz kırmızı bültenle aranmanın verdiği haz-->
 
