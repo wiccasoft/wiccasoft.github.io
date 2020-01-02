@@ -1,5 +1,6 @@
 
 [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )
+<!--bkz kırmızı bültenle aranmanın verdiği haz- ->
 
 [![Image](skynet/Screenshot_2020-01-02_07-27-29.png)]( https://www.youtube.com/watch?v=b5RAgn-ZP3E )
 
