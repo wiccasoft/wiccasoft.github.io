@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+
 <!-- https://www.uludagsozluk.com/k/tc-iyesta-ekstra-soft/&w=gd lol -->
-<!-- bkz kadir mısıroğlu kim amk --->
 <!-- https://www.youtube.com/watch?v=WJ6Nws_nQZc realism -->
 <!-- https://i4.hurimg.com/i/hurriyet/75/750x422/589c63fac03c0e27401ffba8.jpg lol -->
 <!-- https://eksisozluk.com/entry/99990202 cause & effect-->
