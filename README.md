@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+<!-- bkz tc turizm bakanlığının paylaştığı viskiler -->
 <!-- bkz türklere sosyal medyayı kullanmayı öğretmek google-search tc bilmem ne rte mhp devlet bahceli -->
 <!-- bkz yazılım test arka bahçem wiccasoft'u bahceli sanan kamalcılar -->
 <!-- bkz bahcelinin meclis komisyonuna verdiği 274 derecelik süleyman ayarı -->
