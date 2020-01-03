@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz killa hakanın sagopaya savaş açması -->
 <!-- bkz 3. çıkmassa ben saldırıyorum beyler -->
 <!-- bkz hayallerde yaşıyor bazı ergenler -->
 <!-- bkz enes abicilerle enes abiye 3 müttefik seçiyoruz kampanyası -->
