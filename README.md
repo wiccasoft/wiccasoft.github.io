@@ -1,10 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
-<!-- bkz türk önde türk ileri diyen türbanlı -->
-<!-- bkz emine erdoğanın türkün dişine kan değdi açıklaması -->
 <!-- bkz türbanında nutuk taşıyan türbanlı -->
 <!-- bkz türbanlı türkçü vs türkçü türban -->
-<!-- bkz türbanlıların türk intikam yemini etmesi -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
 <!-- bkz enes abinin karın kasları vs jıhny sins karın kasları -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
