@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+<!-- bkz bahçelinin koltuk sevdası için yaptığı 190 derecelik geri vites --<
 <!-- bkz bahçelinin paylaştığı kınama insta mesajı -->
 <!-- bkz kadir mısıroğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
 <!-- https://www.uludagsozluk.com/k/vatan-%C5%9Fa%C5%9Fmaz/&w=bg bkz şaşmayan nadir insanlardan --->
