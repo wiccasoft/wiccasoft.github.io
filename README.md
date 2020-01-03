@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz recep tayyip erdoğanın trumpı arayıp tebrik etmesi -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
