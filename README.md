@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+<!-- bkz kürt telekomun paylaştığı ırkçı paylaşım -->
 <!-- bkz bahcelinin paylaştığı orak çekiçli viski -->
 <!-- bkz tc turizm bakanlığının paylaştığı kadir mısıroğlu fotosu -->
 <!-- bkz türklere sosyal medyayı kullanmayı öğretmek  -->
