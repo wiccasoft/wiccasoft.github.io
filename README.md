@@ -1,3 +1,5 @@
+[![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
+
 [![Image](skynet/Screenshot_2020-01-02_18-28-46.png)]( https://www.youtube.com/watch?v=eOIeindJCe0 )
 
 
