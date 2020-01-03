@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz not impressed -->
 <!-- bkz sen tahtında durrr durrrr karşında 3. savaş çıkadurrr -->
 <!-- bkz killa hakanın sagopaya savaş açması -->
 <!-- bkz 3. çıkmassa ben saldırıyorum beyler -->
