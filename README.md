@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz ne mutlu türküm diyenene diyen türbanlı -->
 <!-- bkz türkün türkten başka dostu yoktur diyen türbanlı first ladyi -->
 <!-- bkz türkçülerin gümbür gümbür gelmesi türk önde türk ileriiiiiii -->
 <!-- bkz türk önde türk ileri diye bağıran türbanlı -->
