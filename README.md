@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz enes abinin saçını sarıya boyması -->
 <!-- bkz kadir arpaoğlunun ruhanici olması -->
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden bir yapay zeka yazması -->
 <!-- bkz kadir arpaoğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
