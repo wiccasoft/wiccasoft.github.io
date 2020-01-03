@@ -4,7 +4,8 @@
 <!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 <!-- bkz enes abinin ficut yapması -->
-<!-- bkz akboyların 3. dünya savaşı müütefiki araması -->
+<!-- bkz akboyların 3. dünya savaşı müttefiki araması -->
+<!-- bkz akboyların 3. dünya savaşı hazırlıklarına başlaması -->
 <!-- bkz akboyların amerikayı kaç saaatte alırız hesabı -->
 <!-- bkz akboyların ardaturanı istememesi kampanyası-->
 
