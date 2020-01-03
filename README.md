@@ -11,9 +11,6 @@
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
-<!-- bkz bahcelinin soyal medya hesaplarını tek yerde toplaması -->
-<!-- bkz bahcelinin yavas 274 derece dön reis ümmet yetişemiy paylaşımı -->
-<!-- bkz kadir mısıroğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
 <!-- https://www.uludagsozluk.com/k/vatan-%C5%9Fa%C5%9Fmaz/&w=bg bkz şaşmayan nadir insanlardan --->
 <!-- https://www.uludagsozluk.com/k/bah%C3%A7eli-neden-3490-derece-de%C4%9Fi%C5%9Fti/ bkz koltuk sevdası-->
 <!-- https://eksisozluk.com/instagramda-yoksan-yasamiyorsun--6306105?a=popular lol -->
