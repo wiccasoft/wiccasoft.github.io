@@ -10,6 +10,7 @@
 <!-- https://eksisozluk.com/entry/99989155 lol -->
 <!-- https://www.uludagsozluk.com/e/42651411/ lol -->
 <!-- https://www.uludagsozluk.com/e/42653181/ lol -->
+<!-- https://eksisozluk.com/entry/99996325 lol -->
 
 [![Image](skynet/Screenshot_2020-01-02_18-28-46.png)]( https://www.youtube.com/watch?v=eOIeindJCe0 )
 
