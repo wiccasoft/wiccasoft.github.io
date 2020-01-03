@@ -1,13 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
 <!-- bkz enes abinin karın kasları vs jıhny sins karın kasları -->
-<!-- bkz sigara ve viski için sert kodu mu oturtan maço erkek -->
-<!-- bkz niçenin kasım öldü demesi -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
-<!-- bkz türk bayrağı tüğrban takan türkçü -->
-<!-- bkz ne mutlu türküm diyenene diyen türbanlı -->
-<!-- bkz türkün türkten başka dostu yoktur diyen türbanlı first ladyi -->
-<!-- bkz türkçülerin gümbür gümbür gelmesi türk önde türk ileriiiiiii -->
 <!-- bkz türk önde türk ileri diye bağıran türbanlı -->
 <!-- bkz türbanlı almancı vs fesli osmanlıcı -->
 <!-- bkz züppeli kürtçü vs türbanlı türkçü -->
