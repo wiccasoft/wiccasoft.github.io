@@ -5,6 +5,7 @@
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 <!-- bkz enes abinin ficut yapması -->
 <!-- bkz akboyların 3. dünya savaşı müütefiki araması -->
+<!-- bkz akboyların amerikayı kaç saaatte alırız hesabı -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
