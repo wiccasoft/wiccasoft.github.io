@@ -4,6 +4,7 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+<!-- https://eksisozluk.com/kasim-suleymaninin-oldurulmesinin-ibretlik-olmasi--6306750?a=popular -->
 <!-- https://eksisozluk.com/instagramda-yoksan-yasamiyorsun--6306105?a=popular lol -->
 <!-- https://eksisozluk.com/cubbeli-ahmetin-kasim-suleymani-paylasimi--6306889?a=popular lol -->
 <!-- https://www.uludagsozluk.com/k/tc-iyesta-ekstra-soft/&w=gd lol -->
