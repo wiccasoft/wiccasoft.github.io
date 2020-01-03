@@ -7,7 +7,8 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
-<!--bkz turizm bakanlığının viskili paylaşimı -->
+<!-- bkz yazılım firmamı bahceli sanan kamoşlar -->
+<!-- bkz turizm bakanlığının viskili paylaşimı -->
 <!-- bkz bahcelinin bahceyi vermem demesi -->
 <!-- bkz bahcelinin meclis komisyonuna verdiği 274 derecelik süleyman ayarı -->
 <!-- bkz bahcelinin yavas 274 derece dön reis ümmet yetişemiy paylaşımı -->
