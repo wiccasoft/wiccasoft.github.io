@@ -8,7 +8,7 @@
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
 <!-- bkz bahcelinin paylaştığı orak çekiçli viski -->
-<!-- bkz tc turizm bakanlığının paylaştığı viskiler -->
+<!-- bkz tc turizm bakanlığının paylaştığı kadir mısıroğlu fotosu -->
 <!-- bkz türklere sosyal medyayı kullanmayı öğretmek google-search tc bilmem ne rt bahceliıvır zıvır -->
 <!-- bkz yazılım test arka bahçem wiccasoft'u bahceli sanan kamalcılar -->
 <!-- bkz bahcelinin meclis komisyonuna verdiği 274 derecelik süleyman ayarı -->
