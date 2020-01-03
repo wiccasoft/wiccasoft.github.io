@@ -1,6 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
 <!-- bkz 3. çıkmassa ben saldırıyorum beyler -->
+<!-- bkz hayallerde yaşıyor bazı ergenler -->
 <!-- bkz enes abicilerle enes abiye 3 müttefik seçiyoruz kampanyası -->
 <!-- bkz enes abinin vicut yapıp devrim muhafızı olacam demesi -->
 <!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
