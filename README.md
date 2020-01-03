@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz züppeli kürtçü vs türbanlı türkçü -->
 <!-- bkz enes abinin yotuberlerın atatürk ü olması -->
 <!-- bkz enes abinin paylaştığı karın kaslarıyla meksika dalgası yapma videosu -->
 <!-- bkz enes abinin youtube kanalını kaç saatte alırız sorunsalı --> 
