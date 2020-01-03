@@ -1,6 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
-<!--bkz emine erdoğanın türkün dişine kan değdi açıklaması -->
+<!-- bkz türk önde türk ileri diyen türbanlı -->
+<!-- bkz emine erdoğanın türkün dişine kan değdi açıklaması -->
 <!-- bkz türbanında nutuk taşıyan türbanlı -->
 <!-- bkz türbanlı türkçü vs türkçü türban -->
 <!-- bkz türbanlıların türk intikam yemini etmesi -->
