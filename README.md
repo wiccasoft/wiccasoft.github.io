@@ -3,11 +3,8 @@
 <!-- bkz enes abinin vicut yapıp devrim muhafızı olacam demesi -->
 <!-- bkz kadir arpaoğlunun ruhanici olması -->
 <!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
-<!-- bkz kadir arpaoğlunun geleceği tahmin eden bir yapay zeka yazması -->
+<!-- bkz kadir arpaoğlunun geleceği tahmin eden yapay olması -->
 <!-- bkz kadir arpaoğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
-<!-- bkz cüppeli türkçü vs türbancı kürtçü -->
-<!-- bkz türbanında nutuk taşıyan türbanlı -->
-<!-- bkz türbanlı türkçü vs türkçü türban -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
 <!-- bkz enes abinin karın kasları vs jıhny sins karın kasları -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
