@@ -1,5 +1,8 @@
-[![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+[![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
+
+
+[![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
 <!-- https://www.uludagsozluk.com/k/tc-iyesta-ekstra-soft/&w=gd lol -->
 <!-- https://www.youtube.com/watch?v=WJ6Nws_nQZc realism -->
