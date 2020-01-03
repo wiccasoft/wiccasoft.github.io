@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!--bkz cüppeli türkçü vs türbancı kürtçü -->
 <!-- bkz türbanında nutuk taşıyan türbanlı -->
 <!-- bkz türbanlı türkçü vs türkçü türban -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
