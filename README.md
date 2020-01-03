@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz sigara ve viski için sert kodu mu oturtan maço erkek -->
 <!-- bkz niçenin kasım öldü demesi -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
 <!-- bkz türk bayrağı tüğrban takan türkçü -->
