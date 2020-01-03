@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+<!-- https://eksisozluk.com/entry/99990202 cause & effect-->
 <!-- https://www.uludagsozluk.com/e/42653860/ lol https://eksisozluk.com/entry/99990062 -->
 <!-- https://eksisozluk.com/entry/99988964 lol -->
 <!-- https://eksisozluk.com/entry/99988543 lol -->
