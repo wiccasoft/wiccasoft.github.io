@@ -3,10 +3,8 @@
 <!-- bkz 3. çıkmassa ben saldırıyorum beyler -->
 <!-- bkz enes abicilerle enes abiye 3 müttefik seçiyoruz kampanyası -->
 <!-- bkz enes abinin vicut yapıp devrim muhafızı olacam demesi -->
-<!-- bkz kadir arpaoğlunun ruhanici olması -->
 <!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden yapay olması -->
-<!-- bkz kadir arpaoğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
 <!-- bkz enes abinin karın kasları vs jıhny sins karın kasları -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
