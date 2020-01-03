@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-02_17-04-06.png)]( https://www.theguardian.com/business/2020/jan/02/japan-issues-interpol-wanted-notice-for-carlos-ghosn )
 
 <!-- [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )-->
-
+<!--https://www.uludagsozluk.com/e/42651411/ lol -->
 <!--https://www.uludagsozluk.com/e/42653181/ lol -->
 <!--bkz çakal carlos vs carlos ghosn https://www.youtube.com/watch?v=cpleQasfUjw -->
 <!--bkz kırmızı bültenle aranmanın verdiği haz -->
