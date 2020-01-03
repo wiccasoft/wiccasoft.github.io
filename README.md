@@ -3,11 +3,8 @@
 <!-- bkz jahrein'in twitch ten enes abi videolarıyla dalga geçmesi -->
 <!-- bkz recep tayyip erdoğanın trumpı arayıp tebrik etmesi -->
 <!-- bkz züppelinin intikam yemini etmesi -->
-<!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 <!-- bkz enes abinin ficut yapması -->
-<!-- bkz ekşideki ergenler reşit mi sorunsalı -->
-<!-- bkz enes abisi için vicut yapmış diye başlık açan akboy -->
 <!-- bkz akboyların 3. dünya savaşı müttefiki araması -->
 <!-- bkz akboyların 3. dünya savaşı hazırlıklarına başlaması -->
 <!-- bkz akboyların amerikayı kaç saaatte alırız hesabı -->
