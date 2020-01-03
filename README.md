@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz enes abinin paylaştığı karın kasları videosu -->
 <!-- bkz enes abinin youtube kanalını kaç saatte alırız sorunsalı --> 
 <!-- bkz jahrein'in youtube kanalını unsubscribe ediyoruz kampanyası --->
 <!-- bkz jahrein'in twitch ten enes abi videolarıyla dalga geçmesi -->
