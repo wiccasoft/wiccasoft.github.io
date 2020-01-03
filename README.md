@@ -1,6 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
-<!-- bkz enes abinin saçını sarıya boyması -->
+<!-- bkz enes abinin iranı müüttefik almayalım önerisi -->
 <!-- bkz kadir arpaoğlunun ruhanici olması -->
 <!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden bir yapay zeka yazması -->
