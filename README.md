@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz türbanlıların türk intikam yemini etmesi -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
 <!-- bkz enes abinin karın kasları vs jıhny sins karın kasları -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
