@@ -1,6 +1,8 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
-
+<!-- bkz züppelinin intikam yemini etmesi -->
+<!-- bkz ortadoğunun game of thrones a dönmesi -->
+<!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
@@ -8,9 +10,6 @@
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
 
-<!-- bkz züppelinin intikam yemini etmesi -->
-<!-- bkz ortadoğunun game of thrones a dönmesi -->
-<!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 <!-- https://eksisozluk.com/instagramda-yoksan-yasamiyorsun--6306105?a=popular lol -->
 <!-- https://eksisozluk.com/cubbeli-ahmetin-kasim-suleymani-paylasimi--6306889?a=popular lol -->
 <!-- https://www.uludagsozluk.com/k/tc-iyesta-ekstra-soft/&w=gd lol -->
