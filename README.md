@@ -6,6 +6,7 @@
 <!-- bkz enes abinin ficut yapması -->
 <!-- bkz akboyların 3. dünya savaşı müütefiki araması -->
 <!-- bkz akboyların amerikayı kaç saaatte alırız hesabı -->
+<!-- bkz akboyların ardaturanı istememesi kampanyası-->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
