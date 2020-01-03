@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz niçenin kasım öldü demesi -->
 <!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
 <!-- bkz türk bayrağı tüğrban takan türkçü -->
 <!-- bkz ne mutlu türküm diyenene diyen türbanlı -->
