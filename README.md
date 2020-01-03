@@ -7,9 +7,7 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
-<!-- bkz yazılım için kulandığım test sayfamı bahçeli tc bakanlığı falan sanan kamoşlar -->
-<!-- bkz turizm bakanlığının viskili paylaşimı -->
-<!-- bkz bahcelinin bahceyi vermem demesi -->
+<!-- bkz türklere sosyal medyayı kullanmayı öğretmek -->
 <!-- bkz bahcelinin meclis komisyonuna verdiği 274 derecelik süleyman ayarı -->
 <!-- bkz bahcelinin yavas 274 derece dön reis ümmet yetişemiy paylaşımı -->
 <!-- bkz bahçelinin paylaştığı kınama insta mesajı -->
