@@ -1,16 +1,20 @@
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
+
+<!-- https://eksisozluk.com/entry/99988964 lol -->
+<!-- https://eksisozluk.com/entry/99988543 lol -->
+<!-- https://eksisozluk.com/entry/99989155 lol -->
+<!-- https://www.uludagsozluk.com/e/42651411/ lol -->
+<!-- https://www.uludagsozluk.com/e/42653181/ lol -->
+
 [![Image](skynet/Screenshot_2020-01-02_18-28-46.png)]( https://www.youtube.com/watch?v=eOIeindJCe0 )
 
 
 [![Image](skynet/Screenshot_2020-01-02_17-04-06.png)]( https://www.theguardian.com/business/2020/jan/02/japan-issues-interpol-wanted-notice-for-carlos-ghosn )
 
-<!-- https://eksisozluk.com/entry/99988964 lol -->
-<!-- https://eksisozluk.com/entry/99988543 lol -->
-<!-- https://eksisozluk.com/entry/99989155 lol -->
+
 <!-- [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )-->
-<!--https://www.uludagsozluk.com/e/42651411/ lol -->
-<!--https://www.uludagsozluk.com/e/42653181/ lol -->
+
 <!--bkz çakal carlos vs carlos ghosn https://www.youtube.com/watch?v=cpleQasfUjw -->
 <!--bkz kırmızı bültenle aranmanın verdiği haz -->
 
