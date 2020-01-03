@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz türk önde türk ileri diye bağıran türbanlı -->
 <!-- bkz türbanlı almancı vs fesli osmanlıcı -->
 <!-- bkz züppeli kürtçü vs türbanlı türkçü -->
 <!-- bkz enes abinin yotuberlerın atatürk ü olması -->
