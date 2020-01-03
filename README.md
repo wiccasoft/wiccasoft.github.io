@@ -2,6 +2,7 @@
 
 <!-- bkz enes abinin saçını sarıya boyması -->
 <!-- bkz kadir arpaoğlunun ruhanici olması -->
+<!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden bir yapay zeka yazması -->
 <!-- bkz kadir arpaoğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
 <!-- bkz cüppeli türkçü vs türbancı kürtçü -->
