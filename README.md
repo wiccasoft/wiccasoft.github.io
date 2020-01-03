@@ -3,6 +3,7 @@
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
+<!-- bkz enes abinin ficut yapması -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
