@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
 <!-- bkz türk bayrağı tüğrban takan türkçü -->
 <!-- bkz ne mutlu türküm diyenene diyen türbanlı -->
 <!-- bkz türkün türkten başka dostu yoktur diyen türbanlı first ladyi -->
