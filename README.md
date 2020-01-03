@@ -1,3 +1,6 @@
+[![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
+
+
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
