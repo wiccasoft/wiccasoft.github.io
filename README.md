@@ -11,7 +11,6 @@
 <!-- bkz bahcelinin paylaştığı orak çekiçli viski -->
 <!-- bkz tc turizm bakanlığının paylaştığı kadir mısıroğlu fotosu -->
 <!-- bkz türklere sosyal medyayı kullanmayı öğretmek  -->
-<!-- bkz yazılım test arka bahçem wiccasoft'u bahceli sanan kamoşlar -->
 <!-- bkz bahcelinin meclis komisyonuna verdiği 274 derecelik süleyman ayarı -->
 <!-- bkz bahcelinin yavas 274 derece dön reis ümmet yetişemiy paylaşımı -->
 <!-- bkz bahçelinin paylaştığı kınama insta mesajı -->
