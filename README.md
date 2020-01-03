@@ -1,6 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
-<!-- bkz kadir mısıroğlunun ruhanici olması --<
+<!-- bkz kadir mısıroğlunun ruhanici olması -->
+<!-- bkz kadir mısıroğlunun geleceği tahmin eden bir yapay zeka yazması -->
 <!-- bkz kadir mısıroğlunun paylaştığı süleymanın mekanı cennet olsun paylaşımı -->
 <!-- bkz cüppeli türkçü vs türbancı kürtçü -->
 <!-- bkz türbanında nutuk taşıyan türbanlı -->
