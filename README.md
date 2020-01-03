@@ -1,5 +1,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
+<!-- bkz 3. çıkmassa ben saldırıyorum beyler -->
 <!-- bkz enes abicilerle enes abiye 3 müttefik seçiyoruz kampanyası -->
 <!-- bkz enes abinin vicut yapıp devrim muhafızı olacam demesi -->
 <!-- bkz kadir arpaoğlunun ruhanici olması -->
