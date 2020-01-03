@@ -9,7 +9,7 @@
 
 <!-- bkz bahcelinin paylaştığı orak çekiç -->
 <!-- bkz tc turizm bakanlığının paylaştığı viskiler -->
-<!-- bkz türklere sosyal medyayı kullanmayı öğretmek google-search tc bilmem ne rte mhp devlet bahceli -->
+<!-- bkz türklere sosyal medyayı kullanmayı öğretmek google-search tc bilmem ne rt bahceliıvır zıvır -->
 <!-- bkz yazılım test arka bahçem wiccasoft'u bahceli sanan kamalcılar -->
 <!-- bkz bahcelinin meclis komisyonuna verdiği 274 derecelik süleyman ayarı -->
 <!-- bkz bahcelinin yavas 274 derece dön reis ümmet yetişemiy paylaşımı -->
