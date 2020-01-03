@@ -7,7 +7,7 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
-<!-- bkz bahcelinin intikam yemini etmesi -->
+<!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 <!-- bkz bahcelinin soyal medya hesaplarını tek yerde toplaması -->
