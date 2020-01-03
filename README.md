@@ -11,8 +11,6 @@
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz ortadoğunun game of thrones a dönmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
-<!-- https://www.uludagsozluk.com/k/vatan-%C5%9Fa%C5%9Fmaz/&w=bg bkz şaşmayan nadir insanlardan --->
-<!-- https://www.uludagsozluk.com/k/bah%C3%A7eli-neden-3490-derece-de%C4%9Fi%C5%9Fti/ bkz koltuk sevdası-->
 <!-- https://eksisozluk.com/instagramda-yoksan-yasamiyorsun--6306105?a=popular lol -->
 <!-- https://eksisozluk.com/cubbeli-ahmetin-kasim-suleymani-paylasimi--6306889?a=popular lol -->
 <!-- https://www.uludagsozluk.com/k/tc-iyesta-ekstra-soft/&w=gd lol -->
