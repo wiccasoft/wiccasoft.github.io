@@ -1,4 +1,6 @@
-[![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
+[![Image](skynet/Screenshot_2020-01-04_04-52-15.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
+
+[![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
 <!-- bkz iranın soğan cücüğü gibi bi ülke olması -->
