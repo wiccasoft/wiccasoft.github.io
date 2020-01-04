@@ -3,27 +3,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
-<!-- bkz iranın soğan cücüğü gibi bi ülke olması -->
-<!-- bkz mollaların güldürmesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- https://www.youtube.com/watch?v=Ww5jScH4fXY intikam zikri -->
-<!-- bkz pkk nın elindeki iran  askerlerinin patlatması -->
-<!-- https://www.youtube.com/watch?v=0sDMY3N5sBA imamaoğlunun hz mehdinin zuhür eylemesi müjdelemesi -->
-<!-- bkz imamoğlu rabbani hazretlerinin intikam yemini etmesi -->
-<!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
-<!-- bkz sen tahtında durrrr karşında 3. savaş çıkadurrr -->
-<!-- bkz killa hakanın sagopaya savaş açması -->
-<!-- bkz 3. çıkmassa ben saldırıyorum beyler -->
-<!-- bkz hayallerde yaşıyor bazı ergenler -->
-<!-- bkz enes abicilerle enes abiye 3 müttefik seçiyoruz kampanyası -->
-<!-- bkz enes abinin vicut yapıp devrim muhafızı olacam demesi -->
-<!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
-<!-- bkz kadir arpaoğlunun geleceği tahmin eden yapay olması -->
-<!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
-<!-- https://www.uludagsozluk.com/e/42658819/ lol -->
-<!-- https://www.uludagsozluk.com/e/42658905/ lol -->
-<!-- bkz recep tayyip erdoğanın trumpı arayıp tebrik etmesi -->
-<!-- bkz züppelinin intikam yemini etmesi -->
-<!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
@@ -32,16 +11,7 @@
 
 <!-- https://www.youtube.com/watch?v=WJ6Nws_nQZc realism -->
 <!-- https://i4.hurimg.com/i/hurriyet/75/750x422/589c63fac03c0e27401ffba8.jpg lol -->
-<!-- https://eksisozluk.com/instagramda-yoksan-yasamiyorsun--6306105?a=popular lol -->
-<!-- https://eksisozluk.com/cubbeli-ahmetin-kasim-suleymani-paylasimi--6306889?a=popular lol -->
-<!-- https://www.uludagsozluk.com/k/tc-iyesta-ekstra-soft/&w=gd lol -->
-<!-- https://www.uludagsozluk.com/e/42654497/ lol -->
-<!-- https://eksisozluk.com/entry/99988964 lol -->
-<!-- https://eksisozluk.com/entry/99988543 lol -->
-<!-- https://eksisozluk.com/entry/99989155 lol -->
-<!-- https://www.uludagsozluk.com/e/42651411/ lol -->
-<!-- https://www.uludagsozluk.com/e/42653181/ lol -->
-<!-- https://eksisozluk.com/entry/99996325 lol -->
+
 
 [![Image](skynet/Screenshot_2020-01-02_18-28-46.png)]( https://www.youtube.com/watch?v=eOIeindJCe0 )
 
@@ -51,8 +21,6 @@
 
 <!-- [![Image](skynet/Screenshot_2020-01-02_15-25-34.png)]( https://www.youtube.com/watch?v=G3jaPBFXFTU )-->
 
-<!--bkz çakal carlos vs carlos ghosn https://www.youtube.com/watch?v=cpleQasfUjw -->
-<!--bkz kırmızı bültenle aranmanın verdiği haz -->
 
 <!-- [![Image](skynet/Screenshot_2020-01-02_07-27-29.png)]( https://www.youtube.com/watch?v=b5RAgn-ZP3E ) -->
 
