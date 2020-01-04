@@ -2,9 +2,9 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz amerikanın 800 askeri üssü niye var acaba sorunsalı -->
 <!-- bkz amerikadan izin almadan dünya savaşı çıkarmaya çalışan ergenler -->
 <!-- bkz iranın incirliği vurup dünya savaşı çıkarması -->
-<!-- bkz iranlı kardeşlerimiz vs ıraklı kardeşlerimiz -->
 <!-- bkz beyler 3. dünya savaşı çıkmayacakmış ben saldırıyorum -->
 <!-- bkz 3. dünya savaşı planları yapan ergenlerin güldürmesi -->
 <!-- bkz x i kaç saatte alırız sorunsalı -->
