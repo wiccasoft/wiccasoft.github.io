@@ -5,7 +5,8 @@
 <!-- bkz not impressed -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 <!-- https://www.uludagsozluk.com/e/42660041/ bkz burak aksak kim amk -->
-<!-- bkz enes abinin vicut yapması -->
+<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
+<!-- https://www.uludagsozluk.com/e/42659961/ ezan susmaz bayrak inmez-->
 <!-- https://www.uludagsozluk.com/e/42660099/ bkz ümmet ağliy -->
 <!-- https://twitter.com/ryohey_nakatake/status/1155052166622531584 -->
 
