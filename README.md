@@ -2,25 +2,10 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz x i kaç saatte alırız sorunsalına olmayan beynini yoran akboylar -->
 <!-- bkz kendini askeri deha sanan mollalar  -->
 <!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz kaleyi içten fethetmek -->
-<!-- bkz kasım süleymanın niye indirildiğini bilale anlatır gibi anlatmak -->
-<!-- Safevi Devleti #2 - Bağdat Kuşatması / Urumiye Muharebesi / Şah Abbas
-https://www.youtube.com/watch?v=6ihlTjPDgts -->
-<!-- bkz iran devriminin hangi yılda yapıldığını bilmeyen nesil -->
-<!-- bkz kadir arpaolan vs kadir inanır -->
-<!-- bkz burak aksakın futbolu aksatması -->
-<!-- bkz salman rushdie vs salman öğüt -->
-<!-- bkz züppelinin kaleyi içten fethettik demesi -->
-<!-- bkz pkk nın elindeki iran askerlerini patlatması -->
-<!-- bkz ömer halisdemir heykeline kuş sıçması -->
-<!-- bkz selmam öğüt kim amk diye aratmaya üşenmek -->
-<!-- bkz 3. abdul mecid vs 5. abdul muttap -->
-<!-- https://www.uludagsozluk.com/e/42660129/ bkz en iyi aktif gayler-->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
-<!-- https://twitter.com/ryohey_nakatake/status/1155052166622531584 -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
