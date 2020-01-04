@@ -1,6 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
 <!-- bkz not impressed -->
+<!-- bkz iranın soğan cücüğü gibi bi ülke olması -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY intikam zikri -->
 <!-- bkz pkk nın elindeki türk askerlerinin patlatması -->
 <!-- https://www.youtube.com/watch?v=0sDMY3N5sBA imamaoğlunun hz mehdinin zuhür eylemesi müjdelemesi -->
