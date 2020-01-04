@@ -3,7 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
-<!-- bkz kadir arpaoğlu vs kadir inanır -->
+<!-- bkz kadir arpaolan vs kadir inanır -->
 <!-- bkz burak aksakın futbolu aksatması -->
 <!-- bkz selmam öğüt kim amk diye aratmaya üşenmek -->
 <!-- bkz 3. abdul mecid vs 5. abdul muttap -->
