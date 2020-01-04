@@ -7,13 +7,8 @@
 <!-- bkz burak aksakın futbolu aksatması -->
 <!-- bkz selmam öğüt kim amk diye aratmaya üşenmek -->
 <!-- bkz 3. abdul mecid vs 5. abdul muttap -->
-<!-- https://www.uludagsozluk.com/e/42660052/ bkz ömer halisdemir vs kadir arpaolan --->
 <!-- https://www.uludagsozluk.com/e/42660129/ bkz en iyi aktif gayler-->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
-<!-- https://www.uludagsozluk.com/e/42660041/ bkz burak aksak kim amk -->
-<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-<!-- https://www.uludagsozluk.com/e/42659961/ ezan susmaz bayrak inmez-->
-<!-- https://www.uludagsozluk.com/e/42660099/ bkz ümmet ağliy -->
 <!-- https://twitter.com/ryohey_nakatake/status/1155052166622531584 -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
