@@ -4,6 +4,7 @@
 
 <!-- bkz not impressed -->
 <!-- bkz selma öğüt kim amk diye aratmaya üşenmek -->
+<!-- bkz 3. abudulmecid vs 2. abdul muttap vecih -->
 <!-- https://www.uludagsozluk.com/e/42660052/ bkz ömer halisdemir vs kadir arpaolan --->
 <!-- https://www.uludagsozluk.com/e/42660129/ bkz en iyi aktif gayler-->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
