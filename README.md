@@ -1,6 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
 <!-- bkz not impressed -->
+<!-- https://www.youtube.com/watch?v=Wz0RzgPTNts hz mehdinin zuhür eylemesi -->
 <!-- bkz gavs imamoğlunun intikam yemini etmesi -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
 <!-- bkz sen tahtında durrrr karşında 3. savaş çıkadurrr -->
