@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
+<!-- bkz burak aksakın futbolu aksatması -->
 <!-- bkz selmam öğüt kim amk diye aratmaya üşenmek -->
 <!-- bkz 3. abdul mecid vs 5. abdul muttap -->
 <!-- https://www.uludagsozluk.com/e/42660052/ bkz ömer halisdemir vs kadir arpaolan --->
