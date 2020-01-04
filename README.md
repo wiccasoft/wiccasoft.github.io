@@ -2,7 +2,7 @@
 
 <!-- bkz not impressed -->
 <!-- bkz pkk nın elindeki türk askerlerinin patlatması -->
-<!-- https://www.youtube.com/watch?v=Wz0RzgPTNts hz mehdinin zuhür eylemesi -->
+<!-- https://www.youtube.com/watch?v=0sDMY3N5sBA hz mehdinin zuhür eylemesi -->
 <!-- bkz gavs imamoğlunun intikam yemini etmesi -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
 <!-- bkz sen tahtında durrrr karşında 3. savaş çıkadurrr -->
