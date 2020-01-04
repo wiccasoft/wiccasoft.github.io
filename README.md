@@ -1,6 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
 <!-- bkz not impressed -->
+<!-- bkz pkk nın elindeki türk askerlerinin patlatması -->
 <!-- https://www.youtube.com/watch?v=Wz0RzgPTNts hz mehdinin zuhür eylemesi -->
 <!-- bkz gavs imamoğlunun intikam yemini etmesi -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
