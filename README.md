@@ -11,6 +11,7 @@
 <!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden yapay olması -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
+<!-- https://www.uludagsozluk.com/e/42658819/ lol -->
 <!-- bkz recep tayyip erdoğanın trumpı arayıp tebrik etmesi -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
@@ -19,7 +20,6 @@
 
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
-
 
 <!-- https://eksisozluk.com/instagramda-yoksan-yasamiyorsun--6306105?a=popular lol -->
 <!-- https://eksisozluk.com/cubbeli-ahmetin-kasim-suleymani-paylasimi--6306889?a=popular lol -->
