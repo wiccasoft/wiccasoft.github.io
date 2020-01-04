@@ -2,8 +2,8 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz kaç saatte alırız sorunsalına olmayan beynini yoran akboylar -->
-<!-- bkz kendini askeri deha sanan mollalar ve akboylar  -->
+<!-- bkz x i kaç saatte alırız sorunsalına olmayan beynini yoran akboylar -->
+<!-- bkz kendini askeri deha sanan mollalar  -->
 <!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz kaleyi içten fethetmek -->
 <!-- bkz kasım süleymanın niye indirildiğini bilale anlatır gibi anlatmak -->
