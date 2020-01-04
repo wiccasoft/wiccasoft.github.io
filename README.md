@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz 3. dünya savaşı müttefiki arayan ergenlerin güldürmesi -->
 <!-- bkz mustafa kemalin sünnetsiz olma sebebi -->
 <!-- bkz elif şafakın arpaoğlunu siklememesi -->
 <!-- bkz kadir arpaoğlunun züppeliye zevzek demesi -->
