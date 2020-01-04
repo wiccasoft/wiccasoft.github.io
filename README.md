@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz amerikanın 800 askeri üssü niye var acaba sorunsalı -->
+<!-- bkz amerikanın 808 askeri üssü niye var acaba sorunsalı -->
 <!-- bkz amerikadan izin almadan dünya savaşı çıkarmaya çalışan ergenler -->
 <!-- bkz iranın incirliği vurup dünya savaşı çıkarması -->
 <!-- bkz beyler 3. dünya savaşı çıkmayacakmış ben saldırıyorum -->
