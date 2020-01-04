@@ -18,6 +18,7 @@
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden yapay olması -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
 <!-- https://www.uludagsozluk.com/e/42658819/ lol -->
+<!-- https://www.uludagsozluk.com/e/42658905/ lol -->
 <!-- bkz recep tayyip erdoğanın trumpı arayıp tebrik etmesi -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
