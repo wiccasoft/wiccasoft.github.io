@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz salman rushdie nin salman söğütü ölüm listesine alması -->
 <!-- bkz killah hakanın sagopacılara meydan okuması -->
 <!-- bkz kendini askeri deha sanan mollalar https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- https://www.youtube.com/watch?v=hXlkuKvzbhk not impressed -->
