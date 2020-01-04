@@ -4,6 +4,7 @@
 
 <!-- bkz not impressed -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
+<!-- https://www.uludagsozluk.com/e/42660041/ bkz burak aksak kim amk -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
