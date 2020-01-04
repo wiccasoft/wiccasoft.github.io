@@ -4,6 +4,9 @@
 
 <!-- bkz not impressed -->
 <!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz kaleyi içten fethetmek -->
+<!-- bkz kasım süleymanın niye indirildiğinin bilale anlatır gibi anlatmak -->
+<!-- Safevi Devleti #2 - Bağdat Kuşatması / Urumiye Muharebesi / Şah Abbas
+https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- bkz iran devriminin hangi yılda yapıldığını bilmeyen nesil -->
 <!-- bkz kadir arpaolan vs kadir inanır -->
 <!-- bkz burak aksakın futbolu aksatması -->
