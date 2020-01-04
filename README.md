@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz not impressed -->
+<!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz kaleyi içten fethetmek -->
 <!-- bkz kasım süleymanın niye indirildiğini bilale anlatır gibi anlatmak -->
 <!-- Safevi Devleti #2 - Bağdat Kuşatması / Urumiye Muharebesi / Şah Abbas
