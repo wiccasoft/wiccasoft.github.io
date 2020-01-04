@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz elif şafakın arpaoğlunun siklememesi -->
 <!-- bkz kadir arpaoğlunun züppeliye zevzek demesi -->
 <!-- bkz salman rushdie nin salman söğütü ölüm listesine alması -->
 <!-- bkz killah hakanın sagopacılara meydan okuması -->
