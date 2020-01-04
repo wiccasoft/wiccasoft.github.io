@@ -4,7 +4,6 @@
 
 <!-- bkz kendini askeri deha sanan mollalar  -->
 <!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
-<!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz kaleyi içten fethetmek -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
