@@ -11,16 +11,6 @@
 <!-- bkz hakan muhafızın devrim muhafızlarına katılması -->
 <!-- bkz kadir arpaoğlunun geleceği tahmin eden yapay olması -->
 <!-- https://www.uludagsozluk.com/e/42656479/ şaşırdık mı -->
-<!-- bkz enes abinin karın kasları vs jıhny sins karın kasları -->
-<!-- bkz ahmet altanın meme için türkçü olurum açıklaması -->
-<!-- bkz türk önde türk ileri diye bağıran türbanlı -->
-<!-- bkz türbanlı almancı vs fesli osmanlıcı -->
-<!-- bkz züppeli kürtçü vs türbanlı türkçü -->
-<!-- bkz enes abinin yotuberlerın atatürk ü olması -->
-<!-- bkz enes abinin paylaştığı karın kaslarıyla meksika dalgası yapma videosu -->
-<!-- bkz enes abinin youtube kanalını kaç saatte alırız sorunsalı --> 
-<!-- bkz jahrein'in youtube kanalını unsubscribe ediyoruz kampanyası --->
-<!-- bkz jahrein'in twitch ten enes abi videolarıyla dalga geçmesi -->
 <!-- bkz recep tayyip erdoğanın trumpı arayıp tebrik etmesi -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi -->
