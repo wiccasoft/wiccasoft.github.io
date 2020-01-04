@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!--bkz iranlı kardeşlerimiz vs ıraklı kardeşlerimiz -->
 <!-- bkz beyler 3. dünya savaşı çıkmayacakmış ben saldırıyorum -->
 <!-- bkz 3. dünya savaşı planları yapan ergenlerin güldürmesi -->
 <!-- bkz x i kaç saatte alırız sorunsalı -->
