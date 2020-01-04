@@ -5,6 +5,7 @@
 <!-- bkz not impressed -->
 <!-- bkz kadir arpaolan vs kadir inanır -->
 <!-- bkz burak aksakın futbolu aksatması -->
+<!-- bkz salman rushdie vs salman öğüt -->
 <!-- bkz selmam öğüt kim amk diye aratmaya üşenmek -->
 <!-- bkz 3. abdul mecid vs 5. abdul muttap -->
 <!-- https://www.uludagsozluk.com/e/42660129/ bkz en iyi aktif gayler-->
