@@ -6,6 +6,7 @@
 <!-- bkz kadir arpaolan vs kadir inanır -->
 <!-- bkz burak aksakın futbolu aksatması -->
 <!-- bkz salman rushdie vs salman öğüt -->
+<!-- bkz pkk nın elindeki iran askerlerini patlatması -->
 <!-- bkz ömer halisdemir heykeline kuş sıçması -->
 <!-- bkz selmam öğüt kim amk diye aratmaya üşenmek -->
 <!-- bkz 3. abdul mecid vs 5. abdul muttap -->
