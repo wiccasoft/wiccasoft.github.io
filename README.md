@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz amerikadan izin almadan dünya savaşı çıkarmaya çalışan ergenler -->
 <!-- bkz iranın incirliği vurup dünya savaşı çıkarması -->
 <!-- bkz iranlı kardeşlerimiz vs ıraklı kardeşlerimiz -->
 <!-- bkz beyler 3. dünya savaşı çıkmayacakmış ben saldırıyorum -->
