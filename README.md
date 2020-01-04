@@ -3,7 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz kendini askeri deha sanan mollalar https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- https://www.youtube.com/watch?v=hXlkuKvzbhk not ipressed -->
+<!-- https://www.youtube.com/watch?v=hXlkuKvzbhk not impressed -->
 <!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
