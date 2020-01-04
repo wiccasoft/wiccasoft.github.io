@@ -6,6 +6,7 @@
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 <!-- https://www.uludagsozluk.com/e/42660041/ bkz burak aksak kim amk -->
 <!-- bkz enes abinin vicut yapması -->
+<!-- https://twitter.com/ryohey_nakatake/status/1155052166622531584 -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
