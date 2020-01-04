@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz mustafa kemalin sünnetsiz olma sebebi --<
+<!-- bkz mustafa kemalin sünnetsiz olma sebebi -->
 <!-- bkz elif şafakın arpaoğlunu siklememesi -->
 <!-- bkz kadir arpaoğlunun züppeliye zevzek demesi -->
 <!-- bkz salman rushdie nin salman söğütü ölüm listesine alması -->
