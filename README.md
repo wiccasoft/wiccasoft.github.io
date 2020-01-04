@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
+<!-- bkz ömer halisdemir heykeline kuş sıçması -->
 <!-- bkz kadir arpaolan vs kadir inanır -->
 <!-- bkz burak aksakın futbolu aksatması -->
 <!-- bkz salman rushdie vs salman öğüt -->
