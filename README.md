@@ -3,7 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
-<!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz bilale anlatır gibi anlatmak -->
+<!-- https://www.youtube.com/watch?v=hXlkuKvzbhk bkz kaleyi içten fethetmek -->
 <!-- bkz iran devriminin hangi yılda yapıldığını bilmeyen nesil -->
 <!-- bkz kadir arpaolan vs kadir inanır -->
 <!-- bkz burak aksakın futbolu aksatması -->
