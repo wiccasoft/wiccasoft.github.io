@@ -3,7 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
-<!-- https://www.uludagsozluk.com/e/42660129/ bkz aktif gayler-->
+<!-- https://www.uludagsozluk.com/e/42660129/ bkz en iyi aktif gayler-->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 <!-- https://www.uludagsozluk.com/e/42660041/ bkz burak aksak kim amk -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
