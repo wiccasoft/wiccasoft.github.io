@@ -1,7 +1,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=mJHvSp9AKYg )
 
 <!-- bkz not impressed -->
-<!--bkz ekrem imamaoğlunun yasin suresi okuyup intikam yemini etmesi -->
+<!-- bkz gavs imamoğlunun intikam yemini etmesi -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
 <!-- bkz sen tahtında durrrr karşında 3. savaş çıkadurrr -->
 <!-- bkz killa hakanın sagopaya savaş açması -->
