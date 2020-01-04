@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz not impressed -->
+<!-- https://www.uludagsozluk.com/e/42660052/ bkz ömer halisdemir vs kadir arpaolan --->
 <!-- https://www.uludagsozluk.com/e/42660129/ bkz en iyi aktif gayler-->
 <!-- bkz selma öğüt kim amk diye aratmaya üşenmek -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
