@@ -4,7 +4,7 @@
 <!-- bkz iranın soğan cücüğü gibi bi ülke olması -->
 <!-- bkz mollaların güldürmesi https://www.youtube.com/watch?v=EfAsNffCjsM -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY intikam zikri -->
-<!-- bkz pkk nın elindeki türk askerlerinin patlatması -->
+<!-- bkz pkk nın elindeki iran  askerlerinin patlatması -->
 <!-- https://www.youtube.com/watch?v=0sDMY3N5sBA imamaoğlunun hz mehdinin zuhür eylemesi müjdelemesi -->
 <!-- bkz imamoğlu rabbani hazretlerinin intikam yemini etmesi -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
