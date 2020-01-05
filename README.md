@@ -2,22 +2,6 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz jeff bezos vs erkan tan vs fatih portakal-->
-<!-- bkz jeff bezosun hadisenin ayaklarını yaladığı iddaları -->
-<!-- bkz alo orası bilmem kaç 013 mü canım -->
-<!-- bkz macun kapılıcalının gavat olduğu iddaları -->
-<!-- bkz kurtlar vadisi vs silikon vadisi -->
-<!-- bkz erkan tan vs fatih portakal -->
-<!-- bkz erdal özyağcıların ayak fetişisti olduğu iddaları -->
-<!-- https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz geceye bi replik bırak -->
-<!-- bkz beyazın işemeli seks sevdiği idaaları -->
-<!-- bkz erdal özyağcıların ayak fetişisti olduğu iddaları -->
-<!-- https://www.uludagsozluk.com/k/pargal%C4%B1-damat-ibrahim-pa%C5%9Fa/&w=bg bkz damadın pargalı çıkması -->
-<!-- https://www.uludagsozluk.com/e/42669244/ adam pisliğin teki çıktı rıza baba --> 
-<!-- bkz halife halterin dve sidiği içip türkiyeyi haritadan silerim demesi -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 nusret vs yavşak burak -->
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E hüseyin vs czn burak-->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
