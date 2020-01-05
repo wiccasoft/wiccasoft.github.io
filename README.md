@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz 7 numaradaki armağan karakteriyle arka odada oynamak -->
 <!-- bkz czn burakın nusrete op op gangam styla cevabı -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
