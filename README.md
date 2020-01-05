@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz sibel ünlinin ünli olmasi -->
 <!-- bkz zeynep bastıkın yarraklara yan basması -->
 <!-- bkz jeff bezosun apple samsung savaşına hunharca gülmesi asdasdadasdas -->
 <!-- bkz jeff bezosun cnz burakla olan fotosu -->
