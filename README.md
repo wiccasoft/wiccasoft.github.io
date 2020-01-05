@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=lS-af9Q-zvQ -->
 <!-- bkz y ve z kuşağının sanki biraz mankafa olması -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E -->
 <!-- bkz tostçu erol vs czn burak -->
