@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/k/erkan-tan/&w=bg adam pisliğin teki çıktı rıza baba -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
