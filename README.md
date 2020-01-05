@@ -2,41 +2,6 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz ayak fetişleri için tik tok videoları çeken türbanlı karının sibel ünlinin kardeşi çıkması-->
-<!-- bkz hoşlanılan kızı enes abi anamı sik derken görmek -->
-<!-- bkz hoşlanılan kızın kardeşinin enes baturu takip etmesi -->
-<!-- bkz hoşlanılan kızın czn burak hayranı olması -->
-<!-- bkz czn burakın sibel ünli den prim kasması -->
-<!-- https://www.youtube.com/watch?v=qwn3QzsZJGY -->
-<!-- bkz o kim amk denilen karının ünli çıkması -->
-<!-- bkz zeynep bastıkın yarraklara yan basması -->
-<!-- bkz jeff bezosun apple samsung savaşına hunharca gülmesi asdasdadasdas -->
-<!-- bkz jeff bezosun cnz burakla olan fotosu -->
-<!-- bkz czn burakın aynur aydın sütyensiz paylaşımı -->
-<!-- bkz şaka maka facebook un mezarlığa dönüşmesi -->
-<!-- bkz facebook ta eltisinin görümcesinin resimlerine attıran adam --> 
-<!-- bkz türk ifşa sitesinin sahibinin türbanlı çıkması -->
-<!-- bkz ayak fetişlerin için tik tok videoları çeken türbanlı türkçü hanım-->
-<!-- bkz sibel ünilin üne ihtiyacım yok açıklaması -->
-<!-- bkz hasan ruhaninin cenaze evinde neden sırıttığı sorunsalı -->
-<!-- bkz czn burak sırıtışı vs hasan ruhani sırıtışı -->
-<!-- bkz czn burak sırıtışı vs nusret sırıtışı -->
-<!-- https://www.youtube.com/watch?v=lS-af9Q-zvQ -->
-<!-- bkz y ve z kuşağının sanki biraz mankafa olması -->
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E -->
-<!-- bkz tostçu erol vs czn burak -->
-<!-- bkz zeynep bastıkın yarraklara yan basması -->
-<!-- bkz sibel ünli nin ünli olmaya ihtiyacım yok açıklaması -->
-<!-- https://www.youtube.com/watch?v=67oHwqzR4yM bkz sibel ünli nin meltem miraloğlunun kocasına gavat demesi -->
-<!-- bkz czn burak vs burak erdoğan vs burak aksak vs burak yılmaz -->
-<!-- bkz czn burakın paylaştığı op op gangam styla videosu -->
-<!-- https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz czn burak vs nusret vs canan karatay -->
-<!-- https://www.uludagsozluk.com/k/muhammed-cang%C3%B6ren/&w=bg bkz adam gibi adam-->
-<!-- bkz canan karataydan lahmacuna onay -->
-<!-- https://www.tercihiniyap.net/yasam/czn-burak-ozdemir-kimdir-nerelidir-kac-yasindadir-kac-yildir-h7230.html -->
-<!-- bkz 7 numaradaki armağan karakteriyle arka odada oynamak -->
-<!-- bkz czn burakın nusrete op op gangam styla cevabı -->
-<!-- bkz züppelinin intikam yemini etmesi -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY ortadoğu farelerinin güldürmesi --->
 <!-- bkz elif şafakın arpaoğlunu siklememesi -->
