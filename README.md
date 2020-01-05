@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz ergenlerin yavaş yavaş gebermesi -->
 <!-- https://www.uludagsozluk.com/e/42668902/ bkz ergenlerin kafa sikmesi -->
 <!-- https://www.uludagsozluk.com/e/42668899/ darbe gecesi kamalıklar nerdeydininiz -->
 <!-- https://www.uludagsozluk.com/e/42668756/ sibel ünilin başını yediniz oç ları --->
