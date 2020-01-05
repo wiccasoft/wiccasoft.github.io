@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz canan karataydan lahmacuna onay -->
+<!-- https://www.tercihiniyap.net/yasam/czn-burak-ozdemir-kimdir-nerelidir-kac-yasindadir-kac-yildir-h7230.html -->
 <!-- bkz 7 numaradaki armağan karakteriyle arka odada oynamak -->
 <!-- bkz czn burakın nusrete op op gangam styla cevabı -->
 <!-- bkz züppelinin intikam yemini etmesi -->
