@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz new caledonia yı haritadan sileriz haaaaaa -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çoh hojdır  -->
 <!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yenge de erik gibiymiş abi -->
 <!-- bkz yeni sevgiliyi arayıp yaaaaa önce sen kapat demek -->
