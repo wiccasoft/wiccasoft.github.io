@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!--https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 sabah adamın hammaddesini bırak -->
 <!-- https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg geceye adam gibi adam bırak kampanyası -->
 <!-- https://www.youtube.com/watch?v=EFDE96Oh53M bkz czn burak vs çiğ köfteci ali usta -->
