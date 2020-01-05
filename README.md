@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=zNhHhtJ1reM -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY ortadoğu farelerinin güldürmesi --->
