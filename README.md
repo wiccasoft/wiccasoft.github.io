@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz hasan ruhaninin cenaze evinde neden sırıttığı sorunsalı -->
 <!-- bkz czn burak sırıtışı vs hasan ruhani sırıtışı -->
 <!-- bkz czn burak sırıtışı vs nusret sırıtışı -->
 <!-- https://www.youtube.com/watch?v=lS-af9Q-zvQ -->
