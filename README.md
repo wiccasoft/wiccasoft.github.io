@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!--bkz zeynep bastıkın murat bastıkolanın ayağına basması -->
 <!-- bkz sibel ünli nin ünli olmaya ihtiyacım yok açıklaması -->
 <!-- https://www.youtube.com/watch?v=67oHwqzR4yM bkz sibel ünli nin meltem miraloğlunun kocasına gavat demesi -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E -->
