@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz macun kapılıcalının gavat olduğu iddaları -->
 <!-- bkz kurtlar vadisi vs silikon vadisi -->
 <!-- bkz erkan tan vs fatih portakal -->
 <!-- bkz erdal özyağcıların ayak fetişisti olduğu iddaları -->
