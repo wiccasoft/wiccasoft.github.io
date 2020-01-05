@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz erdal özyağcıların ayak fetişisti olduğu iddaları -->
 <!-- https://www.uludagsozluk.com/k/pargal%C4%B1-damat-ibrahim-pa%C5%9Fa/&w=bg bkz damadın pargalı çıkması -->
 <!-- https://www.uludagsozluk.com/e/42669244/ adam pisliğin teki çıktı rıza baba --> 
 <!-- bkz halife halterin dve sidiği içip türkiyeyi haritadan silerim demesi -->
