@@ -3,7 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E köfteci hüseyin vs czn b -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU nusret vs imamaoglu -->
+<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU nusret vs imamoglu -->
 <!-- https://www.youtube.com/watch?v=qwn3QzsZJGY sibel ünli -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=zNhHhtJ1reM -->
