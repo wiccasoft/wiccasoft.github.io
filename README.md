@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır hoj -->
 <!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yenge de erik gibiymiş abi -->
 <!-- bkz yeni sevgiliyi arayıp yaaaaa önce sen kapat demek -->
 <!-- https://www.youtube.com/watch?v=eVAptQBfCGQ bkz agam bizimle eğleniy -->
