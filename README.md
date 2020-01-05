@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz liseli ergenler geberdikçe rahatlamak -->
+<!-- bkz kafa siken liseli ergenler geberdikçe rahatlamak -->
 <!-- bkz czn burak abiy sibel ünli ablaya niye yaydım etmedi amca -->
 <!-- bkz yedekte erkek bulundurmayan ergenlerin yavaş yavaş gebermesi -->
 <!-- https://www.uludagsozluk.com/e/42668902/ bkz ergenlerin kafa sikmesi -->
