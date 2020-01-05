@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz macun kaplıcalı vsd jeff bezos -->
 <!-- bkz czn burak vs jeff bezos vs erkan tan-->
 <!-- bkz jeff bezos vs fatih portakal -->
 <!-- bkz fartih portakal vs erkan tan vs erdal özyağcılar vs jeff bezos-->
