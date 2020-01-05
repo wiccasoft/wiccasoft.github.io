@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/e/42669244/ adam pisliğin teki çıktı rıza baba --> 
 <!-- bkz halife halterin dve sidiği içip türkiyeyi haritadan silerim demesi -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 nusret vs yavşak burak -->
