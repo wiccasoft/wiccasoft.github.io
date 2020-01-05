@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz beyazın işemeli seks sevdiği idaaları -->
 <!-- bkz erdal özyağcıların ayak fetişisti olduğu iddaları -->
 <!-- https://www.uludagsozluk.com/k/pargal%C4%B1-damat-ibrahim-pa%C5%9Fa/&w=bg bkz damadın pargalı çıkması -->
 <!-- https://www.uludagsozluk.com/e/42669244/ adam pisliğin teki çıktı rıza baba --> 
