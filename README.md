@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- https://www.uludagsozluk.com/k/i%C3%A7ip-i%C3%A7ip-eski-sevgiliyi-aramak/&w=bg bkz alo orası bilmeme kaç 013 mü canım -->
+<!-- bkz alo orası bilmeme kaç 013 mü canım -->
 <!-- bkz kafa siken liseli ergenler geberdikçe rahatlamak -->
 <!-- bkz czn burak abiy sibel ünli ablaya niye yaydım etmedi amca -->
 <!-- bkz yedekte erkek bulundurmayan ergenlerin yavaş yavaş gebermesi -->
