@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz ayak fetişleri için tik tok videoları çeken türbanlı karının sibel ünlinin kardeşi çıkması-->
 <!-- bkz hoşlanılan kızı enes abi anamı sik derken görmek -->
 <!-- bkz hoşlanılan kızın kardeşinin enes baturu takip etmesi -->
 <!-- bkz hoşlanılan kızın czn burak hayranı olması -->
