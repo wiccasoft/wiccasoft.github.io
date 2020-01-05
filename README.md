@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz jeff bezosun hadisenin ayaklarını yaladığı iddaları -->
 <!-- bkz alo orası bilmem kaç 013 mü canım -->
 <!-- bkz macun kapılıcalının gavat olduğu iddaları -->
 <!-- bkz kurtlar vadisi vs silikon vadisi -->
