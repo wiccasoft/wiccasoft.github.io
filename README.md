@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz czn burak vs burak erdoğan vs bırak bu ayakları hepsi bayat şamata gırgır -->
 <!-- bkz czn burakın tayyip erdoğan olan fotosu -->
 <!-- bkz czn burak vs nusret vs köfteci yusuf-->
 <!-- bkz recep tayyip erdoğan vs tayyip recep doğan -->
