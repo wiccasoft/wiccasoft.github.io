@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/e/42668756/ sibel ünilin başını yediniz oç ları --->
 <!-- https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E köfteci hüseyin vs sibel ünli -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU nusret vs imamoglu -->
