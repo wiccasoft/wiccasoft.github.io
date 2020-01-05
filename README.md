@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg geceye adam gibi adam bırak kampanyası -->
 <!-- https://www.youtube.com/watch?v=EFDE96Oh53M bkz czn burak vs çiğ köfteci ali usta -->
 <!-- https://www.youtube.com/watch?v=ReKv8HDwoII götün yiyosa gelsene güngörene -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çoh hojdır  -->
