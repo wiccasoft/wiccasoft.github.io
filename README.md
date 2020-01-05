@@ -5,17 +5,6 @@
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY ortadoğu farelerinin güldürmesi --->
 <!-- bkz amerikanın 808 askeri üssü niye var acaba sorunsalı -->
 <!-- bkz amerikadan izin almadan dünya savaşı çıkarmaya çalışan ergenler -->
-<!-- bkz iranın incirliği vurup dünya savaşı çıkarması -->
-<!-- bkz beyler 3. dünya savaşı çıkmayacakmış ben saldırıyorum -->
-<!-- bkz 3. dünya savaşı planları yapan ergenlerin güldürmesi -->
-<!-- bkz x i kaç saatte alırız sorunsalı -->
-<!-- bkz mustafa kemalin sünnetsiz olma sebebi -->
-<!-- bkz elif şafakın arpaoğlunu siklememesi -->
-<!-- bkz kadir arpaoğlunun züppeliye zevzek demesi -->
-<!-- bkz salman rushdie nin salman söğütü ölüm listesine alması -->
-<!-- bkz killah hakanın sagopacılara meydan okuması -->
-<!-- bkz kendini askeri deha sanan mollalar https://www.youtube.com/watch?v=EfAsNffCjsM -->
-<!-- https://www.youtube.com/watch?v=hXlkuKvzbhk not impressed -->
 <!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
