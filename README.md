@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz czn burak vs çiğ köfteci ali usta -->
 <!-- https://www.youtube.com/watch?v=ReKv8HDwoII götün yiyosa gelsene güngörene -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çoh hojdır  -->
 <!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yenge de erik gibiymiş abi -->
