@@ -1,8 +1,10 @@
 
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
+
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY ortadoğu farelerinin güldürmesi --->
+<!-- bkz elif şafakın arpaoğlunu siklememesi -->
 <!-- bkz amerikanın 808 askeri üssü niye var acaba sorunsalı -->
 <!-- bkz amerikadan izin almadan dünya savaşı çıkarmaya çalışan ergenler -->
 <!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
