@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz agam bizimle eğleniy -->
+<!-- bkz içip içip eski sevgiliyi arayıp whatsss uppp diyer bağırmak -->
 <!-- bkz entry girerken odaya babanın girip bakkala yollaması -->
 <!-- https://www.uludagsozluk.com/e/42668779/ adam vakit öldürmüş beyler -->
 <!-- bkz alo orası bilmeme kaç 013 mü canım -->
