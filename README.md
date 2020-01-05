@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz czn burakın aynur aydın sütyensiz paylaşımı -->
 <!-- bkz şaka maka facebook un mezarlığa dönüşmesi -->
 <!-- bkz facebook ta eltisinin görümcesinin resimlerine attıran adam --> 
 <!-- bkz eski sevgilinin tokmakçısının facebook resmine attıran adam -->
