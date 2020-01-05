@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-
+<!-- bkz şaka maka facebook un mezarlığa dönüşmesi -->
 <!-- bkz eski sevgilinin tokmakçısının facebook resmine attıran adam -->
 <!-- bkz türklerin sosyal medyada beni hala bulamaması sorunsalı -->
 <!-- bkz tik tok videoalrı çeken türkçü türbanlı hanımın ifşa olması -->
