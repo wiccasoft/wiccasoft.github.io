@@ -2,14 +2,13 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır hoj -->
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çoh hojdır  -->
 <!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yenge de erik gibiymiş abi -->
 <!-- bkz yeni sevgiliyi arayıp yaaaaa önce sen kapat demek -->
 <!-- https://www.youtube.com/watch?v=eVAptQBfCGQ bkz agam bizimle eğleniy -->
 <!-- bkz telefona eski sevgilinin tokmakçısının resmini walpaper yapmak -->
-<!-- bkz telefona içki içirip nabıyon hacı demek --<
+<!-- bkz telefona içki içirip nabıyon hacı demek -->
 <!-- bkz koko çekip eski sevgiliyi arayıp whatss uppp diye bağırmak -->
-<!-- bkz entry girerken odaya babanın girip bakkala yollaması -->
 <!-- https://www.uludagsozluk.com/e/42668779/ adam vakit öldürmüş beyler -->
 <!-- bkz alo orası bilmeme kaç 013 mü canım -->
 <!-- bkz kafa siken liseli ergenler geberdikçe rahatlamak -->
