@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çok hojdır -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 nusret vs yavşak burak -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E hüseyin vs czn burak-->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
