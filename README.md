@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz czn burak vs nusret vs köfteci yusuf-->
+<!--bkz recep tayyip erdoğan vs tayyip recep doğan -->
 <!-- bkz recep tayyip erdoğan derken akla gelen re ce ta y yi er do van deme isteği -->
 <!-- https://www.youtube.com/watch?v=mtKWWcg60qE adamın karekökü -->
 <!--https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
