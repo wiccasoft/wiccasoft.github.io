@@ -10,9 +10,8 @@
 
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
-<!-- https://www.youtube.com/watch?v=WJ6Nws_nQZc realism -->
 <!-- https://i4.hurimg.com/i/hurriyet/75/750x422/589c63fac03c0e27401ffba8.jpg lol -->
-
+<!-- https://www.youtube.com/watch?v=WJ6Nws_nQZc realism -->
 
 [![Image](skynet/Screenshot_2020-01-02_18-28-46.png)]( https://www.youtube.com/watch?v=eOIeindJCe0 )
 
@@ -53,7 +52,6 @@ https://www.nytimes.com/2019/12/26/science/ring-of-fire-eclipse-asia.html
 
 [![Image](skynet/Screenshot_2019-12-28_14-07-45.png)]( https://www.youtube.com/watch?v=ivEsmQ-XY14 )
 
-<!-- https://www.youtube.com/watch?v=Uw2zw_L8rSk gitt vs togg -->
 
 [![Image](skynet/Screenshot_2019-12-28_06-02-34.png)]( https://www.youtube.com/watch?v=__FGqop7QZU )
 
