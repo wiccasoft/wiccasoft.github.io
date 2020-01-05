@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz agam bizimle eğleniy -->
+<!-- bkz telefona eski sevgilinin tokmakçısının resmini walpaper yapmak -->
 <!-- bkz telefona içki içirip nabıyon hacı demek --<
 <!-- bkz koko çekip eski sevgiliyi arayıp whatss uppp diye bağırmak -->
 <!-- bkz entry girerken odaya babanın girip bakkala yollaması -->
