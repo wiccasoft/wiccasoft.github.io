@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E hüseyin vs malaklar -->
 <!-- bkz macun kaplıcalı vs macun firarda vs erkan tan vs fatih portakal -->
 <!-- bkz jeff bezosun siklemediği versuslar yapan ergenler -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
