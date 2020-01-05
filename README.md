@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz czn burak vs nusret vs canan karatay -->
 <!-- https://www.uludagsozluk.com/k/muhammed-cang%C3%B6ren/&w=bg bkz adam gibi adam-->
 <!-- bkz canan karataydan lahmacuna onay -->
 <!-- https://www.tercihiniyap.net/yasam/czn-burak-ozdemir-kimdir-nerelidir-kac-yasindadir-kac-yildir-h7230.html -->
