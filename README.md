@@ -2,44 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz czn burak vs burak erdoğan vs bırak bu ayakları hepsi bayat şamata gırgır -->
-<!-- bkz czn burakın tayyip erdoğan olan fotosu -->
-<!-- bkz czn burak vs nusret vs köfteci yusuf-->
-<!-- bkz recep tayyip erdoğan vs tayyip recep doğan -->
-<!-- bkz recep tayyip erdoğan derken akla gelen re ce ta y yi er do van deme isteği -->
-<!-- https://www.youtube.com/watch?v=mtKWWcg60qE adamın karekökü -->
-<!--https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 sabah adamın hammaddesini bırak -->
-<!-- https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg geceye adam gibi adam bırak kampanyası -->
-<!-- https://www.youtube.com/watch?v=EFDE96Oh53M bkz czn burak vs çiğ köfteci ali usta -->
-<!-- https://www.youtube.com/watch?v=ReKv8HDwoII götün yiyosa gelsene güngörene -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul çoh hojdır  -->
-<!-- https://www.youtube.com/watch?v=qN2ybLGhZ2Y yenge de erik gibiymiş abi -->
-<!-- bkz yeni sevgiliyi arayıp yaaaaa önce sen kapat demek -->
-<!-- https://www.youtube.com/watch?v=eVAptQBfCGQ bkz agam bizimle eğleniy -->
-<!-- bkz telefona eski sevgilinin tokmakçısının resmini walpaper yapmak -->
-<!-- bkz telefona içki içirip nabıyon hacı demek -->
-<!-- bkz koko çekip eski sevgiliyi arayıp whatss uppp diye bağırmak -->
-<!-- https://www.uludagsozluk.com/e/42668779/ adam vakit öldürmüş beyler -->
-<!-- bkz alo orası bilmeme kaç 013 mü canım -->
-<!-- bkz kafa siken liseli ergenler geberdikçe rahatlamak -->
-<!-- bkz czn burak abiy sibel ünli ablaya niye yaydım etmedi amca -->
-<!-- bkz yedekte erkek bulundurmayan ergenlerin yavaş yavaş gebermesi -->
-<!-- https://www.uludagsozluk.com/e/42668902/ bkz ergenlerin kafa sikmesi -->
-<!-- https://www.uludagsozluk.com/e/42668899/ kamalıklar nerdeydininiz hadi cavab verin hadi hadi -->
-<!-- https://www.uludagsozluk.com/e/42668756/ sibel ünilin başını yediniz oç ları --->
-<!-- https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun -->
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E köfteci hüseyin vs sibel ünli -->
-<!-- https://www.youtube.com/watch?v=-AdnJiuDGVU nusret vs imamoglu -->
-<!-- https://www.youtube.com/watch?v=qwn3QzsZJGY sibel ünli -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
-<!-- https://www.youtube.com/watch?v=zNhHhtJ1reM -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
-<!-- https://www.youtube.com/watch?v=Ww5jScH4fXY ortadoğu farelerinin güldürmesi --->
-<!-- bkz elif şafakın arpaoğlunu siklememesi -->
-<!-- bkz amerikanın 808 askeri üssü niye var acaba sorunsalı -->
-<!-- bkz amerikadan izin almadan dünya savaşı çıkarmaya çalışan ergenler -->
-<!-- bkz not impressed https://www.youtube.com/watch?v=6ihlTjPDgts -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
