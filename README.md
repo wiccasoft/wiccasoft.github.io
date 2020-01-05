@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://eksisozluk.com/czn-burakin-fakir-ailenin-evini-dayayip-dosemesi--6309493?a=popular bkz czn burak abiy -->
 <!-- bkz yedekte erkek bulundurmayan ergenlerin yavaş yavaş gebermesi -->
 <!-- https://www.uludagsozluk.com/e/42668902/ bkz ergenlerin kafa sikmesi -->
 <!-- https://www.uludagsozluk.com/e/42668899/ kamalıklar nerdeydininiz hadi cavab verin hadi hadi -->
