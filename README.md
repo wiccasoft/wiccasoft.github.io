@@ -7,10 +7,8 @@
 <!-- bkz czn burakın aynur aydın sütyensiz paylaşımı -->
 <!-- bkz şaka maka facebook un mezarlığa dönüşmesi -->
 <!-- bkz facebook ta eltisinin görümcesinin resimlerine attıran adam --> 
-<!-- bkz eski sevgilinin tokmakçısının facebook resmine attıran adam -->
-<!-- bkz türklerin sosyal medyada beni hala bulamaması sorunsalı -->
-<!-- bkz tik tok videoalrı çeken türkçü türbanlı hanımın ifşa olması -->
-<!-- bkz ayak fetişlerin için tik tok videoları .şeken türbanlı türkçü hanım-->
+<!-- bkz türk ifşa sitesinin sahibinin türbanlı çıkması -->
+<!-- bkz ayak fetişlerin için tik tok videoları çeken türbanlı türkçü hanım-->
 <!-- bkz sibel ünilin üne ihtiyacım yok açıklaması -->
 <!-- bkz hasan ruhaninin cenaze evinde neden sırıttığı sorunsalı -->
 <!-- bkz czn burak sırıtışı vs hasan ruhani sırıtışı -->
