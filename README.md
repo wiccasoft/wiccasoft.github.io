@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E -->
 <!-- bkz tostçu erol vs czn burak -->
 <!-- bkz czn burak vs burak erdoğan vs burak aksak vs burak yılmaz -->
 <!-- bkz czn burakın paylaştığı op op gangam styla videosu -->
