@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz türklerin sosyal medyada beni bulamamsı sorunsalı -->
 <!-- bkz tik tok videoalrı çeken türkçü türbanlı hanımın ifşa olması -->
 <!-- bkz ayak fetişlerin için tik tok videoları .şeken türbanlı türkçü hanım-->
 <!-- bkz sibel ünilin üne ihtiyacım yok açıklaması -->
