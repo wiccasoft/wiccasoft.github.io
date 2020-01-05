@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz czn burak vs burak erdoğan vs burak aksak vs burak yılmaz -->
 <!-- bkz czn burakın paylaştığı op op gangam styla videosu -->
 <!-- https://www.uludagsozluk.com/k/czn-burak/&w=bg bkz czn burak vs nusret vs canan karatay -->
 <!-- https://www.uludagsozluk.com/k/muhammed-cang%C3%B6ren/&w=bg bkz adam gibi adam-->
