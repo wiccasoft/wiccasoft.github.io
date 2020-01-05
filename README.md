@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz hoşlanılan kızın kardeşinin enes baturu takip etmesi -->
 <!-- bkz hoşlanılan kızın czn burak hayranı olması -->
 <!-- bkz czn burakın sibel ünli den prim kasması -->
 <!-- https://www.youtube.com/watch?v=qwn3QzsZJGY -->
