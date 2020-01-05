@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz ayak fetişlerin için tik tok videoları .şeken türbanlı türkçü hanım-->
 <!-- bkz sibel ünilin üne ihtiyacım yok açıklaması -->
 <!-- bkz hasan ruhaninin cenaze evinde neden sırıttığı sorunsalı -->
 <!-- bkz czn burak sırıtışı vs hasan ruhani sırıtışı -->
