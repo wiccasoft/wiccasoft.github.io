@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn-pastas%C4%B1n%C4%B1n-%C3%BCst%C3%BCne-s%C4%B1%C3%A7an-damat/ -->
 <!-- https://www.uludagsozluk.com/k/erkan-tan/&w=bg adam pisliğin teki çıktı rıza baba -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri -->
 <!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
