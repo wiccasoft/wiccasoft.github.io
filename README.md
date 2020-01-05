@@ -4,7 +4,7 @@
 
 <!-- bkz yedekte erkek bulundurmayan ergenlerin yavaş yavaş gebermesi -->
 <!-- https://www.uludagsozluk.com/e/42668902/ bkz ergenlerin kafa sikmesi -->
-<!-- https://www.uludagsozluk.com/e/42668899/ darbe gecesi kamalıklar nerdeydininiz -->
+<!-- https://www.uludagsozluk.com/e/42668899/ kamalıklar nerdeydininiz hadi cavab verin hadi hadi -->
 <!-- https://www.uludagsozluk.com/e/42668756/ sibel ünilin başını yediniz oç ları --->
 <!-- https://www.youtube.com/watch?v=HlY1eDlWwAw lahmacun -->
 <!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E köfteci hüseyin vs sibel ünli -->
