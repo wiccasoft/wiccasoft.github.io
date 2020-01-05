@@ -2,6 +2,8 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz agam bizimle eğleniy -->
+<!-- https://www.uludagsozluk.com/e/42668779/ adam vakit öldürmüş beyler -->
 <!-- bkz alo orası bilmeme kaç 013 mü canım -->
 <!-- bkz kafa siken liseli ergenler geberdikçe rahatlamak -->
 <!-- bkz czn burak abiy sibel ünli ablaya niye yaydım etmedi amca -->
