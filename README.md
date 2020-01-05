@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=mtKWWcg60qE adamın karekökü -->
 <!--https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 sabah adamın hammaddesini bırak -->
 <!-- https://www.uludagsozluk.com/k/geceye-bir-adam-b%C4%B1rak/&w=bg geceye adam gibi adam bırak kampanyası -->
