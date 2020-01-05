@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz kurtlar vadisi vs silikon vadisi -->
 <!-- bkz erdal özyağcıların ayak fetişisti olduğu iddaları -->
 <!-- https://www.uludagsozluk.com/k/kurtlar-vadisi/&w=bg bkz geceye bi replik bırak -->
 <!-- bkz beyazın işemeli seks sevdiği idaaları -->
