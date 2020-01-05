@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
 <!-- bkz huawei p20 vs iphone4s vs amazon web services -->
 <!-- bkz macun kaplıcalı vsd jeff bezos -->
 <!-- bkz czn burak vs jeff bezos vs erkan tan-->
