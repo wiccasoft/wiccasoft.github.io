@@ -2,11 +2,10 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz macun kaplıcalı vs melaba televole vs erkan tan vs fatih portakal -->
+<!-- bkz macun kaplıcalı vs macun firarda vs erkan tan vs fatih portakal -->
 <!-- bkz jeff bezosun siklemediği versuslar yapan ergenler -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
-<!-- bkz huawei p20 vs iphone4s vs amazon web services -->
-<!-- bkz macun kaplıcalı vsd jeff bezos -->
+<!-- bkz macun kaplıcalı vs jeff bezos -->
 <!-- bkz czn burak vs jeff bezos vs erkan tan-->
 <!-- bkz jeff bezos vs fatih portakal -->
 <!-- bkz fartih portakal vs erkan tan vs erdal özyağcılar vs jeff bezos-->
