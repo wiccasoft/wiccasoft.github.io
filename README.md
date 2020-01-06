@@ -2,10 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz tel avivi haritadan silmeyceğiz şaka lan şaka -->
-<!-- bkz tel avivi haritadan silipi hakkariyi yerine koyacağız -->
-<!-- bkz muşu haritadan silmeyeceğiz -->
-<!-- bkz hakkariyi haritadan sileceğiz -->
+<!-- bkz czn burak vs jeff bezos -->
 <!-- https://www.uludagsozluk.com/e/42668540/ -->
 <!-- bkz apple ın tel avivi haritadan silmemesi -->
 <!-- https://www.ted.com/talks/jeff_bezos_the_electricity_metaphor_for_the_web_s_future/ -->
