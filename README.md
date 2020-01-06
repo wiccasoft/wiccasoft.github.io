@@ -2,8 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz ortadoğu farelerinin güldürmesi -->
-<!-- bkz ortadoğu farlerinin haritadan silecem diyip silememesi -->
+<!-- https://www.uludagsozluk.com/k/tel-aviv-haritadan-silinecek/ silinecek diyosam silinecek  -->
 <!-- http://www.solartopo.com/daylength.htm  şimdi ananızı laciverde boyadım -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
