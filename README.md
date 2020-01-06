@@ -4,7 +4,6 @@
 
 <!-- http://www.jgiesen.de/astro/solarday.htm -->
 <!-- http://www.solartopo.com/daylength.htm  bkz şimdi ananızı laciverde boyadım yavudi dölleri -->
-<!-- https://www.uludagsozluk.com/e/42669607/ bkz tel aviv haritadan silinmeeeeecek -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
