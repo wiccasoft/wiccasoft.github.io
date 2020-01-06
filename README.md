@@ -3,10 +3,10 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz apple ın tel avivi haritadan silmemesi -->
-<!-- https://www.youtube.com/watch?v=ikDgAuzglzI fakirlere erkek yollayıp sevap kazanmak -->
+<!-- https://www.youtube.com/watch?v=ikDgAuzglzI bkz fakirlere erkek yollayıp sevap kazanmak -->
 <!-- bkz tel haviv daha haritalara eklenecek çok işvar hacı --> 
 <!-- bkz czn burakın fakirlere yardım etmesi linklere attım sevabına tıklayın -->
-<!-- https://eksisozluk.com/entry/100100225 bkz kendinin kanıtlamış bi abimiz hem sosyal mecrada olsun hem manen olsun-->
+<!-- https://eksisozluk.com/entry/100100225 bkz hem sosyal mecrada olsun hem manen olsun feyizli bi abi -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY tel aviv haritalarda tavaf edilecek -->
 <!-- https://www.uludagsozluk.com/k/tel-aviv-haritadan-silinecek/ -->
