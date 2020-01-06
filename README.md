@@ -2,8 +2,9 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz czn burakın fakirlere yardım etmesi linklere attım sevabına tıklayın -->
+<!-- https://eksisozluk.com/entry/100100225 bkz kendinin kanıtlamış bi abimiz-->
 <!-- bkz züppelinin intikam yemini etmesi -->
-<!-- bkz czn burakın fakirlere yardım etmesi -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY tel aviv haritalarda tavaf edilecek -->
 <!-- https://www.uludagsozluk.com/k/tel-aviv-haritadan-silinecek/ -->
 <!-- http://www.solartopo.com/daylength.htm  şimdi ananızı laciverde boyadım -->
