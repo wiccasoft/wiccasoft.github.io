@@ -4,9 +4,9 @@
 
 <!-- bkz muşu haritadan silmeyeceğiz -->
 <!-- bkz hakkariyi haritadan sileceğiz -->
-<!-- https://www.youtube.com/watch?v=8rwGz5C84IM -->
 <!-- https://www.uludagsozluk.com/e/42668540/ -->
 <!-- bkz apple ın tel avivi haritadan silmemesi -->
+<!-- https://www.ted.com/talks/jeff_bezos_the_electricity_metaphor_for_the_web_s_future/ -->
 <!-- https://www.youtube.com/watch?v=ikDgAuzglzI bkz fakirlere erkek yollayıp sevap kazanmak -->
 <!-- bkz tel haviv daha haritalara eklenecek çok işvar hacı --> 
 <!-- bkz czn burakın fakirlere yardım etmesi linklere attım sevabına tıklayın -->
