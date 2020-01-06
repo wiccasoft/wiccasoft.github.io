@@ -11,10 +11,6 @@
 [![Image](skynet/Screenshot_2020-01-03_03-00-36.png)]( https://www.nytimes.com/2020/01/02/us/politics/us-iran-war.html )
 
 
-<!-- https://www.youtube.com/watch?v=V0aDEvmf5u0 lol -->
-<!-- https://i4.hurimg.com/i/hurriyet/75/750x422/589c63fac03c0e27401ffba8.jpg lol -->
-<!-- https://www.youtube.com/watch?v=WJ6Nws_nQZc realism -->
-
 [![Image](skynet/Screenshot_2020-01-02_18-28-46.png)]( https://www.youtube.com/watch?v=eOIeindJCe0 )
 
 [![Image](skynet/Screenshot_2020-01-01_13-49-38.png)]( https://www.youtube.com/watch?v=cUcCg3c09xM )
