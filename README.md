@@ -5,6 +5,7 @@
 <!-- https://www.youtube.com/watch?v=dONzWxA0jEc -->
 <!-- http://www.solartopo.com/daylength.htm -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
+<!-- https://onedio.com/haber/czn-burak-in-ben-bunu-neden-izledim-dedirtecek-tuhafliktaki-kebap-style-klibi-ve-o-klibe-gelen-tepkiler-864662 -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
