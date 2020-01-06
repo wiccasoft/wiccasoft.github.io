@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- https://www.uludagsozluk.com/e/42668540/ -->
 <!-- bkz apple ın tel avivi haritadan silmemesi -->
 <!-- https://www.youtube.com/watch?v=ikDgAuzglzI bkz fakirlere erkek yollayıp sevap kazanmak -->
 <!-- bkz tel haviv daha haritalara eklenecek çok işvar hacı --> 
