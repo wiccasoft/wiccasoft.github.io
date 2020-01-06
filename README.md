@@ -2,13 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz czn burak vs jeff bezos -->
-<!-- https://www.uludagsozluk.com/e/42668540/ -->
-<!-- bkz züppelinin intikam yemini etmesi -->
-<!-- bkz apple ın tel avivi haritalardan silmesi -->
-<!-- https://www.youtube.com/watch?v=Ww5jScH4fXY tel aviv haritalarda tavaf edilecek -->
-<!-- https://www.uludagsozluk.com/k/tel-aviv-haritadan-silinecek/ -->
-<!-- http://www.solartopo.com/daylength.htm  şimdi ananızı laciverde boyadım -->
+<!-- http://www.solartopo.com/daylength.htm -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
