@@ -3,12 +3,6 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz ortadoğu farelerinin güldürmesi -->
-<!-- bkz türklerin kendilerini ortadoğu faresi sanmaması -->
-<!-- https://www.uludagsozluk.com/e/42669622/ siklenmeyen blok -->
-<!-- bkz beyler başlık açıyom haritadan silecem limite takıldı -->
-<!-- https://www.uludagsozluk.com/e/42669607/ haritadan sildim seni -->
-<!-- https://www.uludagsozluk.com/e/42669425/ benim taşşaklar daha lezzetli-->
-<!-- http://www.jgiesen.de/astro/solarday.htm hhakkariyi haritadan silecem -->
 <!-- http://www.solartopo.com/daylength.htm  şimdi ananızı laciverde boyadım -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
