@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz tel avivi haritadan silmeyceğiz şaka lan şaka -->
 <!-- bkz tel avivi haritadan silipi hakkariyi yerine koyacağız -->
 <!-- bkz muşu haritadan silmeyeceğiz -->
 <!-- bkz hakkariyi haritadan sileceğiz -->
