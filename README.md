@@ -2,6 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
+<!-- bkz czn burak vs jeff bezos -->
 <!-- https://www.uludagsozluk.com/e/42668540/ -->
 <!-- bkz züppelinin intikam yemini etmesi -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY tel aviv haritalarda tavaf edilecek -->
