@@ -3,6 +3,7 @@
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
 <!-- bkz ortadoğu farelerinin güldürmesi -->
+<!-- bkz türklerin kendilerini ortadoğu faresi sanmaması -->
 <!-- https://www.uludagsozluk.com/e/42669622/ siklenmeyen blok -->
 <!-- bkz beyler başlık açıyom haritadan silecem limite takıldı -->
 <!-- https://www.uludagsozluk.com/e/42669607/ haritadan sildim seni -->
