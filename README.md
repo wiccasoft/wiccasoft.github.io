@@ -2,7 +2,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz muşu haritadan silmeyeceiz -->
+<!-- bkz muşu haritadan silmeyeceğiz -->
 <!-- bkz hakkariyi haritadan sileceğiz -->
 <!-- https://www.youtube.com/watch?v=8rwGz5C84IM -->
 <!-- https://www.uludagsozluk.com/e/42668540/ -->
