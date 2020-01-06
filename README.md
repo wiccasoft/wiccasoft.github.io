@@ -2,11 +2,6 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- bkz ortadoğu fareleri ve hayal dünyaları -->
-<!-- https://www.uludagsozluk.com/e/42669425/ bkz iğrençsiniz ibneler -->
-<!-- https://www.uludagsozluk.com/e/42668540/ bkz hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42664792/ bkz hayallerde yaşıyor bazı ibneler -->
-<!-- https://eksisozluk.com/entry/100120511 bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz czn burak vs jeff bezos -->
 <!-- https://www.uludagsozluk.com/e/42668540/ -->
 <!-- bkz züppelinin intikam yemini etmesi -->
