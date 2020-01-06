@@ -2,18 +2,6 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- https://www.youtube.com/watch?v=ZP2YtHCXM6E hüseyin vs malaklar -->
-<!-- bkz macun kaplıcalı vs macun firarda vs erkan tan vs fatih portakal -->
-<!-- bkz jeff bezosun siklemediği versuslar yapan ergenler -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 -->
-<!-- bkz macun kaplıcalı vs jeff bezos -->
-<!-- bkz czn burak vs jeff bezos vs erkan tan-->
-<!-- bkz jeff bezos vs fatih portakal -->
-<!-- bkz fartih portakal vs erkan tan vs erdal özyağcılar vs jeff bezos-->
-<!-- https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn-pastas%C4%B1n%C4%B1n-%C3%BCst%C3%BCne-s%C4%B1%C3%A7an-damat/ -->
-<!-- https://www.uludagsozluk.com/k/erkan-tan/&w=bg adam pisliğin teki çıktı rıza baba -->
-<!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri -->
-<!-- https://www.youtube.com/watch?v=RHBoMuNszuk düğünlerde oynarım -->
 <!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
 <!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
