@@ -1,7 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 <!-- https://www.uludagsozluk.com/e/42679450/ bkz cariyelerin gazlaması -->
-<!-- https://www.internethaber.com/erkan-tandan-kemal-kilicdarogluna-oruc-sorusu-video-galerisi-1783108.htm -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri kılışdar -->
 <!-- bkz telefon şifresini vermeyen kız oğlan kız -->
 <!-- bkz beni hüzünlü ibnelerim adlı kitabım yakında yayında -->
