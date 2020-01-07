@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://www.uludagsozluk.com/e/42678803/ bkz kabullenememek -->
 <!-- bkz george michaelin ibne olmasını kabullenemek-->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz vurduruyordur -->
 <!-- bkz manuş babanın saklasız hali vs can yaman sakalsız hali -->
