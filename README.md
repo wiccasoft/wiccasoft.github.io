@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz hulusi theodopolis sen misin -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz teodopolisin türk erine ılık demesi -->
 <!-- https://www.uludagsozluk.com/e/42677549/ bkz kadın şöför yazarların ılıkları sevmemesi -->
 <!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz keşke yunan galip gelmeseydi -->
