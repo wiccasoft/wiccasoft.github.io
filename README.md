@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://www.uludagsozluk.com/e/42677554/ vurduruyordur pampa at arabadan -->
 <!-- https://www.uludagsozluk.com/e/42677549/ bkz kadın şöför yazarlar -->
 <!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz keşke yunan galip gelmeseydi -->
 <!-- https://www.uludagsozluk.com/e/42677373/  hayallerde yaşıyor bazı ibneler -->
