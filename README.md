@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- bkz arda turan vs alex de sousa -->
 <!-- bkz fatih terimin arda turana sarılıp kariyerin gaysarayda bitsin demesi -->
 <!-- https://www.uludagsozluk.com/e/42677583/ bkz mersinli delinin menzil şeyhinin konvoyuna atlaması --<
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya koyan erkek -->
