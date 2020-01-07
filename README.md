@@ -5,7 +5,7 @@
 <!-- bkz 1978 doğumlu olmanın faydaları -->
 <!-- https://www.uludagsozluk.com/e/42677222/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42677480/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-gay-var/&w=bg zuahhahaha olmayan var mı-->
+<!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-gay-var/&w=bg zuahhahaha -->
 <!-- https://www.uludagsozluk.com/e/42677450/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42677455/ bkz babası fıs fıs sıkarken entry girmek -->
 <!-- https://www.uludagsozluk.com/e/42677457/ güldüren gaylerdir evet -->
