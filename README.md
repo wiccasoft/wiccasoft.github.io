@@ -1,8 +1,9 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 
+<!-- https://www.uludagsozluk.com/e/42677911/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42677809/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42677694/ bkez pedofili  -->
+<!-- https://www.uludagsozluk.com/e/42677694/ bkz pedofili  -->
 <!-- bkz atatürkün muhteşem bir adam olduğu gerçeği -->
 <!-- bkz son ikibin yirmi üç yılın gelmiş geçmiş en büyük lideri atatürk için özel program yapmak -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
