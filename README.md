@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
-<!--bkz pipisi uzun olan kankasıyla yakalanan 3. nesil dede -->
+<!-- bkz telefon şifresini vermeyen kız oğlan kız -->
+<!-- bkz pipisi uzun olan kankasıyla yakalanan 3. nesil dede -->
 <!-- https://www.uludagsozluk.com/e/42678855/ bkz o şimdi asker canı neler ister -->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz üzerine 5 tane can yaman atsan yine doymayacak  ibnelerin namustan bahsetmesi -->
