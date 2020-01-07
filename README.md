@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz afedersin yunan kardeş -->
 <!-- https://www.uludagsozluk.com/e/42677373/  hayallerde yaşıyor bazı ibneler -->
 <!-- https://eksisozluk.com/aykut-elmasin-avustralya-tweeti--6311892?a=popular bkz arda turanın retweet yaptığı tweet -->
 <!-- https://www.uludagsozluk.com/e/42677493/ hayallerde yaşıyor bazı ibneler -->
