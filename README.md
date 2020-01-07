@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://www.youtube.com/watch?v=JgQVj4iMm8Y -->
 <!-- bkz ronaldonun burak yılmazın tweetin retweetlemesi -->
 <!-- bkz sibel ünlinin attığı son tweet --> 
 <!-- https://www.uludagsozluk.com/e/42677844/ -->
