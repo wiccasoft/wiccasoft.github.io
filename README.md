@@ -1,4 +1,4 @@
-<!-- https://www.youtube.com/watch?v=WDaNJW_jEBo give it to me -->
+<!-- https://www.youtube.com/watch?v=WDaNJW_jEBo know how -->
 <!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
 <!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
 
