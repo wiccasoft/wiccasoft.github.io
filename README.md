@@ -2,6 +2,7 @@
 
 <!-- george rr martin vs celal şengör -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b --> 
+<!-- bkz burak yılmaz vs burak aksak -->
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bir buçuk iskender-->
 <!-- https://www.youtube.com/watch?v=S6GhiP8wPwA like a cıncık -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig like a model -->
