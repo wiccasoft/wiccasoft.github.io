@@ -3,6 +3,7 @@
 https://www.youtube.com/watch?v=16ayns00qok Ayo Technology (SZD 2009) -->
 <!-- https://www.youtube.com/watch?v=glQDy9_7pp0 2009 -->
 <!-- https://www.youtube.com/watch?v=WDaNJW_jEBo know how -->
+<!-- https://www.youtube.com/watch?v=K52LctkjXuU total touch -->
 <!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
 <!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
 
