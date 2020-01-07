@@ -4,8 +4,6 @@
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz götten verilesi erkek -->
 <!-- https://www.uludagsozluk.com/e/42677019/ bkz siki de büyükse okutulur bu -->
 <!-- https://www.uludagsozluk.com/e/42675811/ bkz arda turanla kanka olmak gibi bişey -->
-<!-- bkz arda turanın türklüğe karşı çıkanlar beni karşısında bulur açıklaması --> 
-<!-- bkz celal kılıçdaroğlunun hala abisini savunması -->
 <!-- https://www.uludagsozluk.com/e/42678731/ hadi dersimliler bunu da açıklayın -->
 <!-- https://www.youtube.com/watch?v=QNoC_mVojhc -->
 <!-- bkz arda turanın smokinlerini ütületmek için eleman tutması -->
