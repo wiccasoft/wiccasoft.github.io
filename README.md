@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz arda turanın sosyal medya uzmanına dolgun maaş vereceğim demesi -->
 <!-- bkz arda turanın sosyal medya hesapları için soyal medya uzmanı  araması -->
 <!-- bkz duygu özarslanın tweetlerini bota attırması -->
 <!-- bkz melihin tartışma tweetlerini tartışma tweetleri diye ayırması -->
