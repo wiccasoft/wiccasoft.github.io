@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://www.uludagsozluk.com/e/42678731/ hadi dersimliler bunu da açıklayın -->
 <!-- https://www.youtube.com/watch?v=QNoC_mVojhc -->
 <!-- bkz arda turanın smokinlerini ütületmek için eleman tutması -->
 <!-- bkz arda turanın kırmızı halı taşımak için eleman araması -->
