@@ -1,15 +1,12 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
-<!-- bkz burak yılmaz vs burak aksak -->
-<!-- george rr martin vs celal şengör -->
-<!-- bkz arda turan vs alex de sousa -->
+<!-- bkz atatürkün muhteşem bir adam olduğu gerçeği -->
+<!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 <!-- bkz petrol bitince atarlı homoların napacağı sorunsalı https://www.youtube.com/watch?v=XPLDKA8MPLc -->
 <!-- https://www.uludagsozluk.com/e/42677734/ bkz göt verilecek takım -->
 <!-- https://www.uludagsozluk.com/e/42677727/ bkz bıldırcın hurmalar gelir götünü tırmalar -->
 <!-- https://www.uludagsozluk.com/e/42677549/ bkz burcu esmersoy -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
-<!-- https://eksisozluk.com/hagi-mi-alex-mi--2110033 alex siker atar diyorum -->
-<!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b --> 
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bir buçuk iskender-->
 <!-- https://www.youtube.com/watch?v=S6GhiP8wPwA like a cıncık -->
 <!-- https://www.youtube.com/watch?v=FFkBaGqXLig like a model -->
