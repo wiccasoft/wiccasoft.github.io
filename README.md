@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://www.uludagsozluk.com/e/42677373/ bkz thedopolisin ordudaki disiplinsizliğe işret etmesi -->
 <!-- https://www.uludagsozluk.com/e/42677583/ bkz menzil şeyininin mersinli deliyle imtihanı --<
 <!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz hulusi theodopolis sen misin -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz teodopolisin türk erine ılık demesi -->
