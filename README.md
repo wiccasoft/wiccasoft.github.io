@@ -3,6 +3,7 @@
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
 <!-- bkz 1978 doğumlu olmanın faydaları -->
+<!-- https://www.uludagsozluk.com/e/42677480/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-gay-var/&w=bg zuahhahaha olmayan var mı-->
 <!-- https://www.uludagsozluk.com/e/42677450/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42677455/ bkz babası fıs fıs sıkarken entry girmek -->
