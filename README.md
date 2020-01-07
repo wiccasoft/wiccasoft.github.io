@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-kalkt%C4%B1-valla-diyen-erkek/ bkz kaldırıp masaya vurmak -->
 <!-- https://www.uludagsozluk.com/k/arda-turan/&w=bg bkz düşün ki arda turan yazdıkların okuyor -->
 <!-- https://www.uludagsozluk.com/e/42677623/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://eksisozluk.com/arda-turan--963149?a=popular bkz ömrünün yarısını arda turana entry girerecek geçiren nesil -->
