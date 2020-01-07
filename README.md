@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://www.uludagsozluk.com/e/42678806/ bkz yalanası hal -->
 <!-- https://www.uludagsozluk.com/e/42675811/ bkz kankanın penisi öperek uyandırmak -->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz götten verilesi erkek -->
 <!-- https://www.uludagsozluk.com/e/42677019/ bkz siki de büyükse okutulur bu -->
