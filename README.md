@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz telefon şifresini vermeyen sert maço erkek -->
 <!-- https://www.uludagsozluk.com/e/42679450/ bkz cariyelerin gazlaması -->
 <!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri kılışdar -->
 <!-- bkz telefon şifresini vermeyen kız oğlan kız -->
