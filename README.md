@@ -2,7 +2,7 @@
 
 
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz hayallerde yaşıyor bazı ibneler -->
-<!-- bkz üzerine 5 tan can yaman atsan yine doymayacak orospuların namustan bahsetmesi -->
+<!-- bkz üzerine 5 tane can yaman atsan yine doymayacak  ibnelerin namustan bahsetmesi -->
 <!-- https://www.uludagsozluk.com/e/42678803/ bkz kabullenememek ama yine de sevmeler doyamamak -->
 <!-- bkz george michaelin ibne olmasını kabullenemek-->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz vurduruyordur -->
