@@ -2,7 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-07_05-14-15.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
 
-<!-- https://www.youtube.com/watch?v=chpu6p_S8BY appstore -->
+<!-- https://www.youtube.com/watch?v=chpu6p_S8BY snapstore -->
 <!-- https://www.youtube.com/watch?v=WDaNJW_jEBo know how -->
 <!-- https://www.youtube.com/watch?v=K52LctkjXuU total touch -->
 <!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
