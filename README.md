@@ -3,7 +3,7 @@
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
 <!-- bkz arda turan vs alex de sousa -->
-<!-- bkz petrol bitince arabalı homoların napacağı sorunsalı https://www.youtube.com/watch?v=XPLDKA8MPLc -->
+<!-- bkz petrol bitince atarlı homoların napacağı sorunsalı https://www.youtube.com/watch?v=XPLDKA8MPLc -->
 <!-- https://www.uludagsozluk.com/e/42677734/ bkz göt verilecek takım -->
 <!-- https://www.uludagsozluk.com/e/42677727/ bkz bıldırcın hurmalar gelir götünü tırmalar -->
 <!-- https://www.uludagsozluk.com/e/42677549/ bkz burcu esmersoy -->
