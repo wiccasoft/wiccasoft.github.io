@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- bkz 1978 doğumlu olmanın faydaları -->
 <!-- https://www.uludagsozluk.com/e/42677455/ bkz babası fıs fıs sıkarken entry girmek -->
 <!-- https://www.uludagsozluk.com/e/42677457/ güldüren gaylerdir evet -->
 <!-- https://www.uludagsozluk.com/e/42677373/ oğlan tiktokçu beyler -->
