@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 
+<!-- bkz üzerine 5 tan can yaman atsan yine doymayacak orospuların namustan bahsetmesi -->
 <!-- https://www.uludagsozluk.com/e/42678803/ bkz kabullenememek ama yine de sevmeler doyamamak -->
 <!-- bkz george michaelin ibne olmasını kabullenemek-->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz vurduruyordur -->
