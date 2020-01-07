@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://www.youtube.com/watch?v=9uoAvjurcBQ ver mehteri kılışdar -->
 <!-- bkz telefon şifresini vermeyen kız oğlan kız -->
 <!-- bkz beni hüzünlü ibnelerim adlı kitabım yakında yayında -->
 <!-- bkz pipisi uzun olan kankasıyla yakalanan 3. nesil dede -->
