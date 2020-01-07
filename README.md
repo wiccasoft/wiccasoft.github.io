@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz sibel ünlinin attığı son tweet --> 
 <!-- https://www.uludagsozluk.com/e/42677844/ -->
 <!-- bkz arda turan ın süleymancı olması -->
 <!-- bkz melih gökçekin burası kasıyo instagram a geçecem tweeti -->
