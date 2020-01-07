@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://eksisozluk.com/arda-turan--963149?a=popular bkz ömrünün yarısını arda turana entry girerecek geçiren nesil -->
 <!-- https://www.uludagsozluk.com/e/42677603/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz iş bilmeyen çavuşlar -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz yeteri kadar entry girilmeyen başlıklar -->
