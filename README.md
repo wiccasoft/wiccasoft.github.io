@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=16ayns00qok Ayo Technology (SZD 2009) -->
 <!-- https://www.youtube.com/watch?v=K52LctkjXuU total touch -->
 <!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
 <!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
+<!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
