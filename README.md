@@ -2,7 +2,7 @@
 
 
 <!-- bkz atatürkün muhteşem bir adam olduğu gerçeği -->
-<!-- bkz yüzyılın gelmiş geçmiş en büyük lideri atatürk için özel program yapmak -->
+<!-- bkz son ikibin yüz yirmi üç yılın gelmiş geçmiş en büyük lideri atatürk için özel program yapmak -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 <!-- bkz petrol bitince atarlı homoların napacağı sorunsalı https://www.youtube.com/watch?v=XPLDKA8MPLc -->
 <!-- https://www.uludagsozluk.com/e/42677734/ bkz göt verilecek takım -->
