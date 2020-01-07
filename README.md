@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://www.uludagsozluk.com/e/42677373/ oğlan tiktokçu beyler -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b --> 
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bir buçuk iskender-->
 <!-- https://www.youtube.com/watch?v=S6GhiP8wPwA like a cıncık -->
