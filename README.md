@@ -4,7 +4,6 @@
 <!-- george rr martin vs celal şengör -->
 <!-- bkz arda turan vs alex de sousa -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
-<!-- https://www.uludagsozluk.com/k/genelkurmay-ba%C5%9Fkan%C4%B1n%C4%B1n-arkas%C4%B1ndan-selfie-%C3%A7eken-er/&w=gd -->
 <!-- https://eksisozluk.com/hagi-mi-alex-mi--2110033 alex siker atar diyorum -->
 <!-- bkz fatih terimin arda turana sarılıp kariyerin gaysarayda bitsin demesi -->
 <!-- https://www.uludagsozluk.com/e/42677583/ bkz mersinli delinin menzil şeyhinin konvoyuna atlaması --<
