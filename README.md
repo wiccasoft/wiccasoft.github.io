@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-07_03-36-26.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
 
 <!--
+https://www.youtube.com/watch?v=quLIDftlBpM
 https://www.youtube.com/watch?v=16ayns00qok Ayo Technology (SZD 2009) -->
 <!-- https://www.youtube.com/watch?v=glQDy9_7pp0 2009 -->
 <!-- https://www.youtube.com/watch?v=WDaNJW_jEBo know how -->
