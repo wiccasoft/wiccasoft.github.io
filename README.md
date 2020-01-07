@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz melihin tweetlerini düzene sokması -->
 <!-- https://www.uludagsozluk.com/e/23490290/ vurduruyordur -->
 <!-- bkz tartışma tweetinin altında kavga edenleri bloklamak -->
 <!-- bkz 20 yıl önce atılan tweeti favorilerden çıkarmak -->
