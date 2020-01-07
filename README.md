@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://www.uludagsozluk.com/e/42677583/ bkz mersinli delinin menzil şeyhinin konvoyuna atlaması --<
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya koyan erkek -->
 <!-- https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-kalkt%C4%B1-valla-diyen-erkek/ bkz kaldırıp masaya vurmak -->
 <!-- https://www.uludagsozluk.com/k/arda-turan/&w=bg bkz düşün ki arda turan yazdıkların okuyor -->
