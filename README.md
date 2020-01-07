@@ -2,6 +2,7 @@
 
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
+<!-- https://www.uludagsozluk.com/e/42677603/ hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz iş bilmeyen çavuşlar -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz yeteri kadar entry girilmeyen başlıklar -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz thedopolisin erleri hizaya sokması -->
