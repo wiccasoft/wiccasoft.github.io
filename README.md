@@ -4,8 +4,8 @@
 <!-- https://www.uludagsozluk.com/e/42678803/ bkz kabullenememek ama yine de sevmeler doyamamak -->
 <!-- bkz george michaelin ibne olmasını kabullenemek-->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz vurduruyordur -->
-<!-- bkz manuş babanın saklasız hali vs can yaman sakalsız hali -->
-<!-- https://www.uludagsozluk.com/e/42678809/ bkz ibne kardeşi de yılnaşında öldü -->
+<!-- bkz manuş babanın sakalsız hali vs can yaman sakalsız hali -->
+<!-- https://www.uludagsozluk.com/e/42678809/ bkz bu ibne kardeşi de yılbaşında öldü -->
 <!-- https://www.uludagsozluk.com/e/42678806/ bkz yalanası hal -->
 <!-- https://www.uludagsozluk.com/e/42675811/ bkz kankanın penisi öperek uyandırmak -->
 <!-- https://www.uludagsozluk.com/e/42678785/ bkz götten verilesi erkek -->
