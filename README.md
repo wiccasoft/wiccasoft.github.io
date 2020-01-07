@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz george michaelin ibne olmasını kabullenemek-->
 <!-- bkz manuş babanın saklasız hali vs can yaman sakalsız hali -->
 <!-- https://www.uludagsozluk.com/e/42678809/ bkz ibne kardeşi de yılnaşında öldü -->
 <!-- https://www.uludagsozluk.com/e/42678806/ bkz yalanası hal -->
