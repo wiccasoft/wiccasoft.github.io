@@ -2,7 +2,7 @@
 
 <!-- https://www.youtube.com/watch?v=JgQVj4iMm8Y -->
 <!-- bkz ronaldonun burak yılmazın tweetin retweetlemesi -->
-<!-- bkz sibel ünlinin attığı son tweet --> 
+<!-- bkz sibel ünlinin attığı son tweet https://www.youtube.com/watch?v=t2oVUxTV4WA --> 
 <!-- https://www.uludagsozluk.com/e/42677844/ -->
 <!-- bkz arda turan ın süleymancı olması -->
 <!-- bkz melih gökçekin burası kasıyo instagram a geçecem tweeti -->
