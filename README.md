@@ -1,7 +1,8 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
-<!-- bkz 2023 atatürk için özel program yapmak -->
+
 <!-- bkz atatürkün muhteşem bir adam olduğu gerçeği -->
+<!-- bkz yüzyılın gelmiş geçmiş en büyük lideri atatürk için özel program yapmak -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 <!-- bkz petrol bitince atarlı homoların napacağı sorunsalı https://www.youtube.com/watch?v=XPLDKA8MPLc -->
 <!-- https://www.uludagsozluk.com/e/42677734/ bkz göt verilecek takım -->
