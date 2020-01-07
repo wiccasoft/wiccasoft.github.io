@@ -1,5 +1,5 @@
 
-[![Image](skynet/Screenshot_2020-01-07_03-36-26.png.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
+[![Image](skynet/Screenshot_2020-01-07_03-36-26png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
 
 <!--
 https://www.youtube.com/watch?v=16ayns00qok Ayo Technology (SZD 2009) -->
