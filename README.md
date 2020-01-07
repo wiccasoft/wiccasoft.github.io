@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!--ttps://www.youtube.com/watch?v=JgQVj4iMm8Y bkz melih gökçek in tweetini favorilere eklemek -->
 <!-- bkz kılıçdaroğlunun oğlunun intihar edecem tweeti -->
 <!-- https://www.youtube.com/watch?v=JgQVj4iMm8Y -->
 <!-- bkz ronaldonun burak yılmazın tweetin retweetlemesi -->
