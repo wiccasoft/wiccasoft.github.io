@@ -9,33 +9,6 @@
 <!-- https://www.uludagsozluk.com/e/42677549/ bkz burcu esmersoy -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
 <!-- https://eksisozluk.com/hagi-mi-alex-mi--2110033 alex siker atar diyorum -->
-<!-- bkz fatih terimin arda turana sarılıp kariyerin gaysarayda bitsin demesi -->
-<!-- https://www.uludagsozluk.com/e/42677583/ bkz mersinli delinin menzil şeyhinin konvoyuna atlaması --<
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya koyan erkek -->
-<!-- https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-kalkt%C4%B1-valla-diyen-erkek/ bkz kaldırıp masaya vurmak -->
-<!-- https://www.uludagsozluk.com/k/arda-turan/&w=bg bkz düşün ki arda turan yazdıkların okuyor -->
-<!-- https://www.uludagsozluk.com/e/42677623/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://eksisozluk.com/arda-turan--963149?a=popular bkz düşünki arda okuyor yazdıklarını -->
-<!-- https://www.uludagsozluk.com/e/42677603/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42677373/ bkz iş bilmeyen çavuşlar -->
-<!-- https://www.uludagsozluk.com/e/42677373/ bkz yeteri kadar entry girilmeyen başlıklar -->
-<!-- https://www.uludagsozluk.com/e/42677373/ bkz thedopolisin erleri hizaya sokması -->
-<!-- https://www.uludagsozluk.com/e/42677373/ bkz thedopolisin ordudaki disiplinsizliğe işret etmesi -->
-<!-- https://www.uludagsozluk.com/e/42677583/ bkz menzil şeyininin mersinli deliyle imtihanı --<
-<!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz hulusi theodopolis sen misin -->
-<!-- https://www.uludagsozluk.com/e/42677373/ bkz teodopolisin türk erine ılık demesi -->
-<!-- https://www.uludagsozluk.com/e/42677549/ bkz kadın şöför yazarların ılıkları sevmemesi -->
-<!-- https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz keşke yunan galip gelmeseydi -->
-<!-- https://www.uludagsozluk.com/e/42677373/  hayallerde yaşıyor bazı ibneler -->
-<!-- https://eksisozluk.com/aykut-elmasin-avustralya-tweeti--6311892?a=popular bkz arda turanın retweet yaptığı tweet -->
-<!-- https://www.uludagsozluk.com/e/42677493/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42677222/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42677480/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-gay-var/&w=bg zuahhahaha -->
-<!-- https://www.uludagsozluk.com/e/42677450/ hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42677455/ bkz babası fıs fıs sıkarken entry girmek -->
-<!-- https://www.uludagsozluk.com/e/42677457/ güldüren gaylerdir evet -->
-<!-- https://www.uludagsozluk.com/e/42677373/ oğlan tiktokçu beyler -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b --> 
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bir buçuk iskender-->
 <!-- https://www.youtube.com/watch?v=S6GhiP8wPwA like a cıncık -->
