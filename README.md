@@ -1,3 +1,4 @@
+<!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b --> 
 
 [![Image](skynet/Screenshot_2020-01-07_03-36-26.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
 
