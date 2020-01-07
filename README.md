@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://www.uludagsozluk.com/e/42677019/ bkz siki de büyükse yalanır bu -->
 <!-- https://www.uludagsozluk.com/e/42675811/ bkz arda turanla kanka olmak gibi bişey -->
 <!-- bkz arda turanın türklüğe karşı çıkanlar beni karşısında bulur açıklaması --> 
 <!-- bkz celal kılıçdaroğlunun hala abisini savunması -->
