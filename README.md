@@ -2,6 +2,8 @@
 
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b --> 
 <!-- https://www.youtube.com/watch?v=jdjsGMl-yWI bir buçuk maçlık hatır -->
+<!-- https://www.youtube.com/watch?v=S6GhiP8wPwA like a cıncık -->
+<!-- https://www.youtube.com/watch?v=FFkBaGqXLig like a model -->
 <!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
 
 
@@ -13,7 +15,7 @@
 <!-- https://www.youtube.com/watch?v=WDaNJW_jEBo know how -->
 <!-- https://www.youtube.com/watch?v=K52LctkjXuU total touch -->
 <!-- https://www.youtube.com/watch?v=hV8C-k2q8Hw art -->
-<!-- https://www.youtube.com/watch?v=FFkBaGqXLig likeamodel -->
+
 <!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
 <!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
 
