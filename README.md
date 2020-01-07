@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 <!-- bkz arda turan ın süleymancı olması -->
+<!-- bkz türklerin amerikan sosyal medyasını neden u kadar sevmesi sorunsalı -->
 <!-- bkz 07 ocak 2019 melih gökçek in facebook postu -->
 <!-- bkz melih gökçekin telefonu götüne sokup tweet atması -->
 <!-- bkz arda turanın telefonu götüne sokarak uyuması -->
