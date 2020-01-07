@@ -3,6 +3,7 @@
 <!-- bkz burak yılmaz vs burak aksak -->
 <!-- george rr martin vs celal şengör -->
 <!-- bkz arda turan vs alex de sousa -->
+<!-- https://www.uludagsozluk.com/e/42677734/ bkz göt verilecek takım -->
 <!-- https://www.uludagsozluk.com/e/42677727/ bkz bıldırcın hurmalar gelir götünü tırmalar -->
 <!-- https://www.uludagsozluk.com/e/42677549/ bkz burcu esmersoy -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
