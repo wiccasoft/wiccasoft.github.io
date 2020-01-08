@@ -2,6 +2,7 @@
 
 <!-- https://www.uludagsozluk.com/e/42679834/ boom -->
 <!-- https://www.uludagsozluk.com/e/42679794/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- bkz işsizlerin dünya savaşı çıkacak diye beklemesi -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 
 [![Image](skynet/Screenshot_2020-01-07_05-14-15.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
