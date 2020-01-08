@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 <!-- bkz siki tutanlar(dizi) -->
+<!-- bkz 9 ocak 2020 hani 3. dünya savaşı çıkacaktı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42679834/ boom -->
 <!-- bkz olm bak 3. dünya savaşı çıkacak dedim bak çıkmadı her an çıkabilir çünkü çıksın lütfen --> 
 <!-- https://www.uludagsozluk.com/e/42679841/ bkz çok pis duyumlar aldım faik abi-->
