@@ -8,6 +8,8 @@
 <!-- https://www.uludagsozluk.com/e/42679788/ sakin ol evlat sığınağına gir geçer -->
 <!-- https://eksisozluk.com/entry/100222269  bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42679794/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- https://www.uludagsozluk.com/e/42678855/ bkz o şimdi asker canı neler ister -->
+<!-- https://www.uludagsozluk.com/e/42678785/ bkz hayallerde yaşıyor bazı ibneler -->
 
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 
