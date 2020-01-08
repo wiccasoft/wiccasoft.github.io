@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz ekrem imamoğlunun dilek imamaoğluna min etek giydirmediğ iddası -->
 <!-- bkz fatih portakalın aptala anlatır gibi haber sunması-->
 <!-- bkz deep sky algorithm -->
 <!-- bkz skywalker'ın atatürkçü olduğu gerçeği -->
