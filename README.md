@@ -5,6 +5,7 @@
 <!-- google ve apple dan güçlü olmanaın verdiğ rahatlık -->
 <!-- bkz fatih portakalın aptala anlatır gibi haber sunması-->
 <!-- bkz atatürkün son 2023 yılın en büyük lideri olduğu gerçeği -->
+<!-- bkz deep sky algorithm -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 <!-- https://www.uludagsozluk.com/e/42681821/ muhteşem detay -->
 <!-- https://www.uludagsozluk.com/e/42682264/ sikerler -->
