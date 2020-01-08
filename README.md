@@ -13,6 +13,7 @@
 
 <!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
 <!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
+<!-- https://www.uludagsozluk.com/e/42681035/ lol -->
 
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
