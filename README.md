@@ -2,6 +2,8 @@
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz bir kere ihone11 alıyorum diyen kız -->
+<!-- bkz geline iphone 11 alana kayınbaba -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya iphone11 koyan erkek -->
 <!-- https://www.uludagsozluk.com/e/42683344/ bkz sevdiceğinin telefonunu kurcayalan erkek -->
 <!-- https://www.youtube.com/watch?v=JKVtQBQlVEs afrika kökenli ar ge elelemanı -->
