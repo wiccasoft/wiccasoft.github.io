@@ -3,6 +3,10 @@
 <!-- bkz manuş baba vs can yaman -->
 <!-- bkz 
 <!-- bkz biy eykeği kaliteli kılan detaylay -->
+<!-- https://www.uludagsozluk.com/e/42678806/ bkz yalanası hal -->
+<!-- https://www.uludagsozluk.com/e/42675811/ bkz kankanın penisi öperek uyandırmak -->
+<!-- https://www.uludagsozluk.com/e/42678785/ bkz götten verilesi erkek -->
+<!-- https://www.uludagsozluk.com/e/42677019/ bkz siki de büyükse okutulur bu -->
 <!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
 <!-- https://www.uludagsozluk.com/e/42679910/ bkz siki tutanlar(dizi) -->
 <!-- bkz 9 ocak 2020 hani 3. dünya savaşı çıkacaktı ibneler -->
