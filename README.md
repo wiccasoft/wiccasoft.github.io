@@ -2,7 +2,6 @@
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
-<!-- google ve apple dan güçlü olmanaın verdiğ rahatlık -->
 <!-- bkz fatih portakalın aptala anlatır gibi haber sunması-->
 <!-- bkz deep sky algorithm -->
 <!-- bkz skywalker'ın atatürkçü olduğu gerçeği -->
