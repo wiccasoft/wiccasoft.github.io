@@ -2,7 +2,7 @@
 
 <!-- bkz siki tutanlar(dizi) -->
 <!-- https://www.uludagsozluk.com/e/42679834/ boom -->
-<!-- bkz 3 .dünya savaşı başladı hanımlar sığınaklara erkek depolayın -->
+<!-- bkz 3 .dünya savaşı başladı hanımlar sığınaklara bol bol çekirdek ve erkek depolayın -->
 <!-- https://eksisozluk.com/entry/100222269  bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42679794/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
