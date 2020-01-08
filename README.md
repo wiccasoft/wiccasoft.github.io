@@ -2,7 +2,8 @@
 
 <!-- bkz siki tutanlar(dizi) -->
 <!-- https://www.uludagsozluk.com/e/42679834/ boom -->
-<!-- https://www.uludagsozluk.com/e/42679841/ bkz çok pis duyumlar aldım faik abi -->
+<!-- bkz olm bak 3. dünya savaşı çıkacak dedim bak çıkmadı her an çıkabilir çünkü çıksın lütfen --> 
+<!-- https://www.uludagsozluk.com/e/42679841/ bkz çok pis duyumlar aldım faik abi-->
 <!-- https://www.uludagsozluk.com/e/42679788/ sakin ol evlat sığınağına gir geçer -->
 <!-- https://eksisozluk.com/entry/100222269  bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42679794/ bkz hayallerde yaşıyor bazı ibneler -->
