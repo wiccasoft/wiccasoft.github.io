@@ -1,26 +1,5 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
-<!-- bkz manuş baba vs can yaman -->
-<!-- bkz 
-<!-- bkz biy eykeği kaliteli kılan detaylay -->
-<!-- https://www.uludagsozluk.com/e/42679921/ bkz sevdiceğine nükleer kodları yollayan erkek -->
-<!-- https://www.uludagsozluk.com/e/3659302/ bkz telefonu olmayan ezik ve sinirsiz erkek -->
-<!-- https://www.uludagsozluk.com/e/42678806/ bkz yalanası hal -->
-<!-- https://www.uludagsozluk.com/e/42675811/ bkz kankanın penisi öperek uyandırmak -->
-<!-- https://www.uludagsozluk.com/e/42678785/ bkz götten verilesi erkek -->
-<!-- https://www.uludagsozluk.com/e/42677019/ bkz siki de büyükse okutulur bu -->
-<!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
-<!-- https://www.uludagsozluk.com/e/42679910/ bkz siki tutanlar(dizi) -->
-<!-- bkz 9 ocak 2020 hani 3. dünya savaşı çıkacaktı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42679834/ boom -->
-<!-- bkz olm bak 3. dünya savaşı çıkacak dedim bak çıkmadı her an çıkabilir çünkü çıksın lütfen --> 
-<!-- https://www.uludagsozluk.com/e/42679841/ bkz çok pis duyumlar aldım faik abi-->
-<!-- https://www.uludagsozluk.com/e/42679788/ sakin ol evlat sığınağına gir geçer -->
-<!-- https://eksisozluk.com/entry/100222269  bkz hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42679794/ bkz hayallerde yaşıyor bazı ibneler -->
-<!-- https://www.uludagsozluk.com/e/42678855/ bkz o şimdi asker canı neler ister -->
-<!-- https://www.uludagsozluk.com/e/42678785/ bkz hayallerde yaşıyor bazı ibneler -->
-
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 
 [![Image](skynet/Screenshot_2020-01-07_05-14-15.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
