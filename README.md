@@ -8,6 +8,7 @@
 <!-- https://www.uludagsozluk.com/e/42679788/ sakin ol evlat sığınağına gir geçer -->
 <!-- https://eksisozluk.com/entry/100222269  bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42679794/ bkz hayallerde yaşıyor bazı ibneler -->
+
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
 
 [![Image](skynet/Screenshot_2020-01-07_05-14-15.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
