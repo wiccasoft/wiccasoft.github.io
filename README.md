@@ -1,7 +1,9 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 <!-- bkz manuş baba vs can yaman -->
+<!-- bkz 
 <!-- bkz biy eykeği kaliteli kılan detaylay -->
+<!-- https://www.uludagsozluk.com/e/42677373/ bkz ben genel kurmay başkanınızım -->
 <!-- https://www.uludagsozluk.com/e/42679910/ bkz siki tutanlar(dizi) -->
 <!-- bkz 9 ocak 2020 hani 3. dünya savaşı çıkacaktı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42679834/ boom -->
