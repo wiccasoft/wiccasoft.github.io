@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-07_09-40-30.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- bkz siki tutanlar(dizi) -->
 <!-- https://www.uludagsozluk.com/e/42679834/ boom -->
 <!-- bkz 3 .dünya savaşı başladı hanımlar sığınaklara erkek depolayın -->
 <!-- https://eksisozluk.com/entry/100222269  bkz hayallerde yaşıyor bazı ibneler -->
