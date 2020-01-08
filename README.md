@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- google ve apple dan güçlü olmanaın verdiğ rahatlık -->
 <!-- bkz fatih portakalın aptala anlatır gibi haber sunması-->
 <!-- bkz atatürkün son 2023 yılın en büyük lideri olduğu gerçeği -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
