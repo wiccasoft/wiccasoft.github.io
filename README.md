@@ -5,6 +5,7 @@
 <!-- bkz fatih portakalın aptala anlatır gibi haber sunması-->
 <!-- bkz deep sky algorithm -->
 <!-- bkz skywalker'ın atatürkçü olduğu gerçeği -->
+<!-- bkz apple ve google dan güçlü olamanın verdiği rahatlık -->
 <!-- https://www.turkishnews.com/tr/content/2015/01/17/riza-sah-pehlevi-ve-ataturk-men-leskerem-sen-serdarsen/ -->
 <!-- bkz atatürkün son 2023 yılın en büyük lideri olduğu gerçeği -->
 <!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
