@@ -1,25 +1,9 @@
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
-[![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
-
 <!-- https://eksisozluk.com/entry/100254373 lol -->
 <!-- bkz nagehanın imamaoğlana saplayacağı boru -->
-<!-- bkz ekrem imamoğlanın eşcinsel çöp toplaycıları işten çıkarması -->
-<!-- bkz bir kere ihone11 alıyorum diyen kız -->
-<!-- bkz geline beşi bir yerde yerine iphone 11 alana kayınbaba -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya iphone11 koyan erkek -->
-<!-- https://www.uludagsozluk.com/e/42683344/ bkz sevdiceğinin telefonunu kurcayalan erkek -->
-<!-- https://www.youtube.com/watch?v=JKVtQBQlVEs afrika kökenli ar ge elelemanı -->
-<!-- bkz ekrem imamoğlunun dilek imamaoğluna min etek giydirmediğ iddası -->
-<!-- bkz fatih portakalın aptala anlatır gibi haber sunması-->
-<!-- bkz deep sky algorithm -->
-<!-- bkz skywalker'ın atatürkçü olduğu gerçeği -->
-<!-- bkz apple ve google dan güçlü olamanın verdiği rahatlık -->
-<!-- https://www.turkishnews.com/tr/content/2015/01/17/riza-sah-pehlevi-ve-ataturk-men-leskerem-sen-serdarsen/ -->
-<!-- bkz atatürkün son 2023 yılın en büyük lideri olduğu gerçeği -->
-<!-- https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
-<!-- https://www.uludagsozluk.com/e/42681821/ muhteşem detay -->
-<!-- https://www.uludagsozluk.com/e/42682264/ sikerler -->
+
+[![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 
 [![Image](skynet/Screenshot_2020-01-07_05-14-15.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
