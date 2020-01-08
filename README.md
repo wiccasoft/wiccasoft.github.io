@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
+<!-- https://eksisozluk.com/entry/100254373 lol -->
 <!-- bkz nagehanın imamaoğlana saplayacağı boru -->
 <!-- bkz ekrem imamoğlanın eşcinsel çöp toplaycıları işten çıkarması -->
 <!-- bkz bir kere ihone11 alıyorum diyen kız -->
