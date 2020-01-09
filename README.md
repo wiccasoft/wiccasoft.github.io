@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz rafet el romanının penisini ifşa eden kız -->
+<!-- bkz rafet el romanının penisini dm den ifşa eden kız -->
 <!-- bkz instagram hack hilesi ile çıblak şarkıcı resimleri ifşa eden kız -->
 <!-- bkz ferdi özbeğenin çıblak resimlerini ifşa eden kızın imamoğlunun kızı çıkması -->
 <!-- bkz kasım süleymani vs sultan süleyman -->
