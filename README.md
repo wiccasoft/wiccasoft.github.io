@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz kamalcıların atatürkün boyunun 167 olduğunu kabullenmesi --<
 <!-- bkz brad pitti ifşalayn kızın safiye inci çıkması -->
 <!-- bkz atatürkün boyu 167 ydi nası subay yaptılar sorunsalı -->
 <!-- bkz emre morun ifşalanmamak için demeyi kapaması -->
