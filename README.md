@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz recep tayyip erdoğan ikinci atatürk ise 3. rte kim olacak sorunsalı-->
 <!--bkz atacüce vs erdoğan -->
 <!--bkz kadir arpaoğlunun atacücükle taşşak geçmesi -->
 <!--bkz atatürkün boyu 167 ise pipsi demi kısaydı sorunalı -->
