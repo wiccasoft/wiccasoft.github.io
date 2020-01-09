@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- https://www.youtube.com/watch?v=EKaDDlFANnA rönt -->
+<!-- https://www.youtube.com/watch?v=EKaDDlFANnA&list=PL1QDHDaT6nXSEW0kPXKmK97Y6aO9dWkYW rönt -->
 <!-- https://www.youtube.com/watch?v=3vXPo7lNYzk stayin alive -->
 <!-- https://www.youtube.com/watch?v=W2rWnh4HvFY tinderci kızın hazin sonu -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 yorum yaz beğ kankağ -->
