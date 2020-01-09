@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!--bkz cemal süreya nın sana demeden yürünen yollAr kapalı şiiri -->
+<!-- bkz cemal süreya nın sana demeden yürünen yollar kapalı şiiri -->
 <!-- bkz jeff bezosun emre morun yürüdüğü kıza dmden yürümesi -->
 <!-- bkz jeff bezosun rafet in dm den meşajlarını ifşa etmesi -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj -->
