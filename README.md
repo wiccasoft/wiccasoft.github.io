@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz türklerin siklenmeme sebepleri -->
 <!-- bkz sağol canım tıklağmim haber botum var zaten başlıklar otomatik geliyor  -->
 <!-- bkz 11 ocak 2020 arda turan transfer linki tıklağ kankağğğğ -->
 <!-- bkz 10 ocak 2020 çokomelli açıklaması internethaber linki tıklağ kankağğğ -->
