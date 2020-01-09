@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 1978 doğumlu olgun erkek ergen oğlan ilşkisi -->
 <!-- bkz yazılım firmamı rte sanan ergen -->
 <!-- bkz türklere sosyal medyayı kullanmayı öğretmek -->
 <!-- bkz türklerin eğitilmez olduğu gerçeği -->
