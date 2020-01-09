@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz celal şengörü lazkiti şengördüm açıklaması -->
 <!-- bkz celal şengörün lazkit şengör yorumu -->
 <!-- bkz ilber ortaylının celal şengöre  hadi ordan deprem dede demesi -->
 <!-- bkz celal şengörün 10 ocak 2020 rte açıklamasını şengörmek lazım açıklaması-->
