@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz shpli kadınların zdp li kadınlara saldırması -->
 <!--bkz diyanet ezan çalıştayının kara çarşaflılar camilere işediler açıklaması -->
 <!--bkz türbanlı kızlar instagram sayfasını pompalıyla basan robot -->
 <!--bkz facebook gerçek atatürkçüler sayfasında kavga eden chp kadın kolları -->
