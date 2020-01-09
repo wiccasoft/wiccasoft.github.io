@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz jeff bezosun deme meşajlarını ifşalayan kız safiye inci çıkması -->
 <!--bkz instagramda meşaj ifşacılar grubunun demeyi kapaması -->
 <!--bkz emre morun meşajlarını ifşalayan kız -->
 <!--bkz rafet el romanın meşajlarını ifşalayan kıza demeden yürümek -->
