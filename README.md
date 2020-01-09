@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=w6g_YBvK3WU imamaoglu reklamı yapıp imamoğlundan ihale kapmak -->
 <!-- https://www.uludagsozluk.com/e/42686132/ bkz iyi sosyal medya kullanmıyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
 <!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak sedatın birasz mal olması -->
