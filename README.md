@@ -8,50 +8,6 @@
 <!--bkz erdoğanın ifşacılar için yasa çıkarması -->
 <!--bkz emre morun ifşalanmamak için demeyi kapaması -->
 <!--bkz türklerin neden birbirlerini ifşaladıkları sorunsalı -->
-<!--bkz 2020 nin türklerin ifşalama yılı olması -->
-<!--bkz emre moru ifşalayan kızı demeded ifşalayan kız --> 
-<!--bkz mucize doktor dizisindeki ergeni ifşalayan kız -->
-<!--bkz türklerin instagramda harcadığı vakit -->
-<!--bkz ifşalayan kızın safiye inci çıkması -->
-<!--bkz instagram ifşacılar ve gönüllüler -->
-<!--bkz recep tayyip erdoğanı meşajlarını ifşa eden kız -->
-<!--bkz nihat doğanın kızlar kızlar gelemmi demeden ifşa verem mi demesi -->
-<!--bkz hüseyin avni mutlunun meşajlarını ifşalayan kız -->
-<!--bkz mucize doktor dizisindeki böcek suratlı ergenin demeyi kapaması -->
-<!--bkz sagopanın meşajları ifşalanmasın diye demeyi kapaması -->
-<!--bkz 24 lük kızın frafetini ömeşajlarını ifşalaması -->
-<!--bkz jeff bezosun deme meşajlarını ifşalayan kız safiye inci çıkması -->
-<!--bkz instagramda meşaj ifşacılar grubunun demeyi kapaması -->
-<!--bkz emre morun meşajlarını ifşalayan kız -->
-<!--bkz rafet el romanın meşajlarını ifşalayan kıza demeden yürümek -->
-<!--bkz 167 boyundaki pigmeye ulu önder demek -->
-<!--bkz 167 boyundaki pigme için anıtkabirde törene katılmak -->
-<!--bkz atatürkün pipisidemi kısaydı sorunsalı -->
-<!--bkz ekrem imamolu nun 171 rte nin 185 olması -->
-<!--bkz 167 boyunda ki adama ulu önder diyen kamalcıların güldürmesi -->
-<!--bkz recep tayyip erdoğan ikinci atatürk ise 3. rte kim olacak sorunsalı-->
-<!--bkz kadir arpaoğlunun atacücükle taşşak geçmesi -->
-<!--bkz atatürkün boyu 167 ise pipsi demi kısaydı sorunalı -->
-<!--bkz 10 ocak 2020 erdoğanın trumpın kızından adap mı öğreneceğiz tweeti -->
-<!--bkz 9 ocak 2020 erdoğanın evlilik açıklaması -->
-<!--bkz ekrem imamoğlunun fetö evlerine baskın yapması -->
-<!--bkz shpli kadınların zdp li kadınlara saldırması -->
-<!--bkz diyanet ezan çalıştayının kara çarşaflılar camilere işediler açıklaması -->
-<!--bkz türbanlı kızlar instagram sayfasını pompalıyla basan robot -->
-<!--bkz facebook gerçek atatürkçüler sayfasında kavga eden chp kadın kolları -->
-<!--bkz akp kadın kollarına demeden yürüyen chp il başkanı -->
-<!--bkz akp kadın kollarının paylaştığı kamalın itleri paylaşımı -->
-<!--bkz jeff bezosun kamalın itleri korkutamaz bizleri demesi -->
-<!--bkz kamalın itlerinin akp çocukları sayfasına saldırması -->
-<!--bkz kamalcıalrın akpli kadınlar instagram sayfasına saldırması -->
-<!--bkz karısını kızın ibbb evlerin yollayan gavat -->
-<!--bkz atatürkün pipisi sünnetli değil diye mi diyaneti kurdu sorunalı -->
-<!--bkz atatürkün boyu 167 ise nasıl subaylığa aldırlar sorunsalı --<
-<!-- bkz gerçek atatürkçülerin instagramı daha iyi kullanması -->
-<!-- bkz facebook gerçek atatürkçüler sayfasının instagram a gelmesi -->
-<!-- bkz sagopa kajmerin demeyi kapaması -->
-<!-- bkz erdoğanın putine demeden konuşalım meşajı -->
-<!-- bkz buraközçivitin pelin batu ya demeden yürümesi -->
 <!-- bkz rafet el romanın demeden yürüdüğü kızı iphone cu çıkması -->
 <!-- bkz 10 ocak 2020 jhonny sins in emekliler devlet yüktür açıklaması -->
 <!-- bkz 10 ocak 2020 erdoğanın ezanlarımızı susturamayacasınız açıklaması -->
@@ -59,17 +15,6 @@
 <!-- bkz 10 ocak 2020 beratın arabada beş evde 15 açıklaması -->
 <!-- bkz 9 ocak 2020 erdoğanın evlenenlere kyk yardımı açıklaması -->
 <!-- bkz jeff bezosun fahriye evcana yürümesi -->
-<!-- bkz jeff bezosun demeden yürüdüğü kızın rafetin meşajlarını ifşa eden kız çıkması -->
-<!-- bkz jhonny sins in kobrayı demeden salması -->
-<!-- bkz instagram takipçi hilesiyle türkleri keklemek -->
-<!-- bkz intagram deme meşaj hilesiyle ünlüleri avlayan kız -->
-<!-- bkz oya şengörün celali ilber ortaylıyla aldattı iddaları -->
-<!-- bkz pelin batunun buraközçivit deme maşajlarını ifşa etmesi -->
-<!-- bkz pelin batunun buraközçivitle boşandığı iddaları -->
-<!-- bkz kamalcıların kamala camel demesi -->
-<!-- bkz hafterin erdoğana 20 tane kamal göndermesi -->
-<!-- bkz erdoğanın demeden hafterin karısına yürümesi -->
-<!-- bkz jeff bezosun sana demeden yürünen yollar kapalı şiiri -->
 <!-- bkz jeff bezosun emre morun yürüdüğü kıza dmden yürümesi -->
 <!-- bkz jeff bezosun rafet in dm den meşajlarını ifşa etmesi -->
 <!-- https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj -->
