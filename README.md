@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!--bkz atacüce vs erdoğan -->
+<!--bkz kadir arpaoğlunun atacücükle taşşak geçmesi -->
 <!--bkz atatürkün boyu 167 ise pipsi demi kısaydı sorunalı -->
 <!--bkz 10 ocak 2020 erdoğanın trumpın kızından adap mı öğreneceğiz tweeti -->
 <!--bkz 9 ocak 2020 erdoğanın evlilik açıklaması -->
