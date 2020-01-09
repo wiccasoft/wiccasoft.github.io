@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz facebook gerçek atatürkçüler sayfasının instagram a gelmesi -->
 <!-- bkz sagopa kajmerin demeyi kapaması -->
 <!-- bkz erdoğanın putine demeden konuşalım meşajı -->
 <!-- bkz buraközçivitin pelin batu ya demeden yürümesi -->
