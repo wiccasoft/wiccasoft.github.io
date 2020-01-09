@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- bkz 10 ocak 2020 beratın arabada beş evde 15 açıklaması -->
 <!-- bkz 9 ocak 2020 erdoğanın evlenenlere kyk yardımı açıklaması -->
 <!-- bkz jeff bezosun fahriye evcana yürümesi -->
