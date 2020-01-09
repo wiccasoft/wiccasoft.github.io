@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz doğu perinçekin paylaştığı iran yalnız değildir paylaşımı -->
 <!-- bkz sibel ünlinin 1 lira at be abi demesi -->
 <!-- bkz johny sinsin abi bana da yazarlık verin beee abi demesi -->
 <!-- https://www.youtube.com/watch?v=z9VE4v2U-4g 2.5 yaşında 35 kilo -->
