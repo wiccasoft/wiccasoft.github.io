@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernard redflag -->
 <!-- https://www.youtube.com/watch?v=qNa38FQJftg Klanpesiamus -->
 <!-- https://www.youtube.com/watch?v=EKaDDlFANnA&list=PL1QDHDaT6nXSEW0kPXKmK97Y6aO9dWkYW rönt -->
 <!-- https://www.youtube.com/watch?v=3vXPo7lNYzk stayin alive -->
