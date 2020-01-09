@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz yılbaşında deli sikmişcesine eğlenen gencin intihar etmesi --> 
 <!-- bkz 10 ocak  2020 erdoğanın damadımın beline kuvvet açıklması -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz bazı ibnelerin erkek açığını kapatacak erkek -->
 <!-- bkz bazı ibnelerin hayallerde yaşaması sorunsalı -->
