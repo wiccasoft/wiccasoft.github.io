@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=dYLGqDd7whM tak tak sedatın katili delirtmesi -->
 <!-- https://www.youtube.com/watch?v=pXngYOovE5I imamoğlunun zabt tuttuturum tehdidi -->
 <!-- https://www.youtube.com/watch?v=QJYoB4kieFI katil cafer imamoğluna destek oluyor -->
 <!-- https://www.uludagsozluk.com/e/42686099/ ilk den sonrasını okumadım -->
