@@ -3,7 +3,10 @@
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
-
+<!-- https://www.youtube.com/watch?v=dONzWxA0jEc -->
+<!-- http://www.solartopo.com/daylength.htm -->
+<!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
+<!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
@@ -13,10 +16,7 @@
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
 
-<!-- https://www.youtube.com/watch?v=dONzWxA0jEc -->
-<!-- http://www.solartopo.com/daylength.htm -->
-<!-- https://astronomy.stackexchange.com/questions/29932/how-to-calculate-declination-of-moon -->
-<!-- https://en.wikipedia.org/wiki/January_2020_lunar_eclipse -->
+
 
 [![Image](skynet/Screenshot_2020-01-03_08-22-52.png)]( https://www.youtube.com/watch?v=h2JF66qwF2E )
 
