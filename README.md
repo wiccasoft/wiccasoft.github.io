@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz celal şengörün oğlunun ilberin kızına yürümesi --<
+<!-- bkz oya şengörün celal şengörü aldattığı idaaları -->
+<!-- bkz celal şengörün oğlunun ilberin kızına yürümesi -->
 <!-- bkz celal şengörü lazkiti şengördüm açıklaması -->
 <!-- bkz celal şengörün lazkit şengör yorumu -->
 <!-- bkz ilber ortaylının celal şengöre  hadi ordan deprem dede demesi -->
