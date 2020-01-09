@@ -1,7 +1,8 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz deeep turkish webin oç kaynaması -->
-<!-- z türküm türkçüyüm diyen orospu evladına bana ne yarrak kafası demek -->
+<!-- bkz denize kim düşse yardım edersin sorunalı -->
+<!-- bkzz türküm türkçüyüm diyen orospu evladına bana ne yarrak kafası demek -->
 <!-- bkz vatan partisi internet sitesini kürtlerin hacklemesi -->
 <!-- https://www.uludagsozluk.com/e/42687712/ bir oç olarak -->
 <!-- bkz osmanlı torunu değil oç yuz diyen türkçülerin güldürmesi -->
