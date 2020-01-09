@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz erdoğanın amazondan 20 tane deve sipariş etmesi -->
 <!-- bkz erdoğanın demeden hafterin karısına yürümesi -->
 <!-- bkz jeff bezosun sana demeden yürünen yollar kapalı şiiri -->
 <!-- bkz jeff bezosun emre morun yürüdüğü kıza dmden yürümesi -->
