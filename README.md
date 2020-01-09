@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!--bkz arda turanın paylaştığı osmanlı turası -->
+<!-- bkz türk haberlerini takip edecek kadar ezik olmak --<
+<!-- bkz arda turanın paylaştığı osmanlı turası -->
 <!-- bkz haber botu varken haber sunana ezikler -->
 <!-- bkz fatih portakal vs erkan tan https://www.youtube.com/watch?v=9uoAvjurcBQ -->
 <!-- https://www.youtube.com/watch?v=00oLzqyPYAA bkz fatih mandalina nın haber müdür olması -->
