@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz deeep turkish webin oç kaynaması -->
+<!-- bkz deeep turkish webin ergen oç kaynaması -->
 <!-- bkz tek tokatla bayıltılacak tiplerin deep webte ahkam kesmesi -->
 <!-- bkz türkishmüsic.orga daki kürt nikli yuzırların türkçü çıkması -->
 <!-- bkz deep webteki ortaokul terk ergenlerin güldürmesi -->
