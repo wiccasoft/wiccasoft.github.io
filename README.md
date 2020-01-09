@@ -2,6 +2,7 @@
 
 <!-- bkz kamala camel diyen kamalcılar -->
 <!-- bkz atatürke benzeyen adamın 171 olması -->
+<!-- bkz imamaolunun 171 erdoğanın 185 olmasını kabullenemeyen kamalcılar -->
 <!-- bkz atatürk 167 ise niye heykelleri niye 180 yapıyolar sorunsalı -->
 <!-- bkz 167 boyundaki adam için her gün tören yapan ülke -->
 <!-- bkz kamalcıların atatürkün boyunun 167 olduğunu kabullenmesi --<
