@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz deeep turkish webin oç kaynaması -->
+<!-- bkz uluddaki türkçü oçlarının kürt nikiyle coşturması -->
 <!-- bkz bu kadar oç ergeni kim doğurdu acaba sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42687670/ bkz kürt ismiyle entry giren türkçü oç -->
 <!-- https://www.uludagsozluk.com/e/42685937/ bkz karısını kızını ibb evlerine gönderen kavat -->
