@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz brad pittin meşajlarını ifşa eden kız -->
 <!-- bkz instagram takipçi hilesi programını yazanın türk çıkması --> 
 <!-- bkz dm den meşaj ifşa eden kızın dilan dere çıkması -->
 <!-- bkz instagram hack hilesi ile çıblak şarkıcı resimleri ifşa eden kız -->
