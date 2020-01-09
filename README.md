@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden entry girecek -->
 <!--https://www.uludagsozluk.com/e/42687492/ bkz kadınların piç erkek sevdas -->
 <!--https://www.uludagsozluk.com/e/42687488/ atatürke sokayım sana da amın feryadı-->
 <!-- https://www.youtube.com/watch?v=17NNpb1Ou-E zuahahhahaha -->
