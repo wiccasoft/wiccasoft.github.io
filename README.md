@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!--bkz instagram ifşa team -->
+<!--bkz 2020 nin türklerin ifşalama yılı olması -->
 <!--bkz emre moru ifşalayan kızı demeded ifşalayan kız --> 
 <!--bkz mucize doktor dizisindeki ergeni ifşalayan kız -->
 <!--bkz türklerin instagramda harcadığı vakit -->
