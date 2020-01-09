@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz rafet el romanın mşajlarını ifşalayan kıza demeden yürümek -->
 <!--bkz 167 boyundaki pigmeye ulu önder demek -->
 <!--bkz 167 boyundaki pigme için anıtkabirde törene katılmak -->
 <!--bkz atatürkün pipisidemi kısaydı sorunsalı -->
