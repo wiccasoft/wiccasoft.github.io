@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz akp kadın kollarının paylaştığı kamalın itleri paylaşımı -->
 <!--bkz jeff bezosun kamalın itleri korkutamaz bizleri demesi -->
 <!--bkz kamalın itlerinin akp çocukları sayfasına saldırması -->
 <!--bkz kamalcıalrın akpli kadınlar instagram sayfasına saldırması -->
