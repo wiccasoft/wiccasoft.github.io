@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=17NNpb1Ou-E zuahahhahaha -->
 <!-- bkz haberleri yorumlayan yavşakların güldürmesi -->
 <!-- bkz türk haberlerini takip edecek kadar ezik olmak -->
 <!-- bkz arda turanın paylaştığı osmanlı turası -->
