@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz rafet el romanın östrojen seviyesi tavan yaptı diyen ifşacı kız -->
 <!-- bkz 24 yaşın kızların ifşalama yaşı olması -->
 <!-- bkz 24 yaşındaki ifşacı kızın safiye inci çıkması -->
 <!-- bkz rafet ayak romanın yine ifşa olması -->
