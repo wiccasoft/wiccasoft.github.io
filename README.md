@@ -1,5 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz atatürkün pipisi sünnetli değil diye mi diyaneti kurdu sorunalı -->
+<!--bkz atatürkün boyu 167 ise nasıl subaylığa aldırlar sorunsalı --<
 <!-- bkz gerçek atatürkçülerin instagramı daha iyi kullanması -->
 <!-- bkz facebook gerçek atatürkçüler sayfasının instagram a gelmesi -->
 <!-- bkz sagopa kajmerin demeyi kapaması -->
