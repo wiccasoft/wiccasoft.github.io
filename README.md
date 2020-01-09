@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz 167 boyundaki pigme için anıtkabirde törene katılmak -->
 <!--bkz atatürkün pipisidemi kısaydı sorunsalı -->
 <!--bkz ekrem imamolu nun 171 rte nin 185 olması -->
 <!--bkz 167 boyunda ki adama ulu önder diyen kamalcıların güldürmesi -->
