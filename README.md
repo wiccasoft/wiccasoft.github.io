@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz atatürkün sünnetli penisinin fotoğrafı olmaması -->
 <!-- bkz rafet el romana dm den yürüyen kızın imamoğlunun kızı çıkması -->
 <!-- https://www.youtube.com/watch?v=w6g_YBvK3WU  bkz dilek imamoğluna araba alıp ihale kapmak -->
 <!-- https://www.uludagsozluk.com/e/42686132/ bkz iyi sosyal medya kullanmıyorum denilen anlar -->
