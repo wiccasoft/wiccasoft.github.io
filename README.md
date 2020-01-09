@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2020 jhonny sins in emekliler devlet yüktür açıklaması -->
 <!-- bkz 10 ocak 2020 erdoğanın ezanlarımızı susturamayacasınız açıklaması -->
 <!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- bkz 10 ocak 2020 beratın arabada beş evde 15 açıklaması -->
