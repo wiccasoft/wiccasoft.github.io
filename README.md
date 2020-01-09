@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.uludagsozluk.com/e/42687454/ bkz koçlar ilke hedefiniz akdeniz -->
 <!-- bkz müslümün hamam böceklerine ya gel kalbimde tahta sahip ol demesi -->
 <!-- bkz arda turan cnn turk röportajı https://www.youtube.com/watch?v=rVcvEE3zwwo -->
 <!-- bkz haber botu varken haber linki paylaşmak -->
