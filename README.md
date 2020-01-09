@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz obamanın 188 olmasını kabullenmeyen kamalcılar -->
 <!-- bkz kamala camel diyen kamalcılar -->
+<!-- bkz obamanın 188 olmasını kabullenmeyen kamalcılar -->
 <!-- bkz atatürke benzeyen adamın 171 olması -->
 <!-- bkz imamaolunun 171 erdoğanın 185 olmasını kabullenemeyen kamalcılar -->
 <!-- bkz atatürk 167 ise niye heykelleri niye 180 yapıyolar sorunsalı -->
