@@ -5,6 +5,7 @@
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 yorum yaz beğ kankağ -->
 <!-- https://www.internethaber.com/celal-sengor-ekrem-imamoglunu-yalanladi-video-galerisi-2075165.htm -->
 <!-- https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar -->
+<!-- https://www.youtube.com/watch?v=Jl9pvncOh3Y zuckandınız -->
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
