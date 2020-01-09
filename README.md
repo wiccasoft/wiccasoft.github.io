@@ -1,8 +1,8 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz fahriye evcanın paylaştığı kaan bebekin yürümesi -->
 <!-- bkz bkz fahriye evcan kim amk diye aratmaya üşenmek -->
 <!-- https://www.uludagsozluk.com/e/42687189/ bkz deneyim konuşuyor -->
-<!-- bkz fahriye evcanın paylaştığı kaan bebekin yürümesi -->
 <!-- bkz esra erol da dostuna kaçan hüsne hanım ın instagram hesabı açması -->
 <!-- bkz fahriye evcanın paylaştığı kaan bebek fotosu -->
 <!-- bkz burak özçivitin fahriyeye evden yüyümesi -->
