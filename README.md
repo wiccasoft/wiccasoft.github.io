@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://github.com/nfriedly/node-unblocker/blob/HEAD/examples/simple/server.js -->
 <!-- bkz 10 ocak 2020 berat albayrakın damatlara çokomelli süpriz paket açıklaması -->
 <!-- bkz 9 ocak 2020 erdoğanın evlilik açıklaması -->
 <!-- https://pics.wikifeet.com/Kylie-Worthy-Feet-2368464.jpg -->
