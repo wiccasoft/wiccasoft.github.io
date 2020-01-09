@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- https://www.youtube.com/watch?v=9zbF578--dE bkz brad pittin meşajlarını ifşa eden kız -->
+<!-- https://www.youtube.com/watch?v=9zbF578--dE open source -->
 <!-- bkz dm den meşaj ifşa eden kızın dilan dere çıkması -->
 <!-- bkz instagram takipçi hilesi programını yazanın türk çıkması --> 
 <!-- bkz ferdi özbeğenin çıblak resimlerini ifşa eden kızın imamoğlunun kızı çıkması -->
