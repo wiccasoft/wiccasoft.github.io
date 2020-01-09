@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2019 üçüncü dünya savaşı başlayacak iddaları-->
 <!-- bkz ergenlerin bi türlü 3. dünya savaşı çıkaramaması -->
 <!-- bkz 3. dünya savaşı müttefikleri seçiyoruz brolarla -->
 <!-- bkz cengiz ünderin golü atıp devrelerine  asker selamı çakması -->
