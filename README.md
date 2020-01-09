@@ -1,60 +1,14 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!--bkz instagram ifşa team -->
-<!--bkz brad pitti ifşalayan kızın safiye inci çıkması -->
-<!--bkz kerimcan durmazın ifşacılara kobrayı salması -->
-<!--bkz demede pusuda bekleyen ifşacı kızlar -->
-<!--bkz burak kutun ifşacılara önlem alması -->
-<!--bkz burak özçivitin ifşacılara tuzak kurması -->
-<!--bkz erdoğanın ifşacılar için yasa çıkarması -->
-<!--bkz emre morun ifşalanmamak için demeyi kapaması -->
-<!--bkz türklerin neden birbirlerini ifşaladıkları sorunsalı -->
-<!-- bkz rafet el romanın demeden yürüdüğü kızı iphone cu çıkması -->
-<!-- bkz 10 ocak 2020 jhonny sins in emekliler devlet yüktür açıklaması -->
-<!-- bkz 10 ocak 2020 erdoğanın ezanlarımızı susturamayacasınız açıklaması -->
-<!-- facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-<!-- bkz 10 ocak 2020 beratın arabada beş evde 15 açıklaması -->
-<!-- bkz 9 ocak 2020 erdoğanın evlenenlere kyk yardımı açıklaması -->
-<!-- bkz jeff bezosun fahriye evcana yürümesi -->
-<!-- bkz jeff bezosun emre morun yürüdüğü kıza dmden yürümesi -->
-<!-- bkz jeff bezosun rafet in dm den meşajlarını ifşa etmesi -->
-<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj -->
-<!-- bkz 11 ocak 2020 erdoğanın beni seven sigara içmez açıklamaları -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdun mu önden sallanacak aga -->
-<!-- bkz 10 ocak 2020 ay tutulmasını yakalayan programın yetişmesi -->
-<!-- bkz 10 ocak 2020 erdoğanın damadımın beline kuvvet açıklaması -->
-<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz türklerin siklenmeme sebepleri -->
-
-<!-- https://pics.wikifeet.com/Kylie-Worthy-Feet-2368464.jpg -->
-<!-- https://www.wikifeet.com/Kylie_Worthy#&gid=1&pid=1945864 -->
-<!-- https://commons.wikimedia.org/wiki/File:Kylie_G._Worthy_at_Protecting_Adult_Welfare_event_2.jpg -->
-<!-- https://www.youtube.com/watch?v=9zbF578--dE  open source -->
-<!-- https://www.youtube.com/watch?v=w6g_YBvK3WU  bkz dilek imamoğluna araba alıp ihale kapmak -->
-<!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
-<!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak sedatın biraz mal olması -->
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
-<!-- https://www.youtube.com/watch?v=_E3CPGoCG3g good vibrations-->
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
-<!-- https://eksisozluk.com/entry/100254373 lol -->
-<!-- bkz nagehanın imamaoğlana saplayacağı boru -->
+
 
 [![Image](skynet/Screenshot_2020-01-08_07-51-56.png)]( https://www.youtube.com/watch?v=chpu6p_S8BY  )
 
 
 [![Image](skynet/Screenshot_2020-01-07_05-14-15.png)]( https://www.youtube.com/watch?v=BNCGOq30bd4 )
-
-<!-- https://www.youtube.com/watch?v=WMiisjomKQ0 sopot 2010 -->
-<!-- https://www.youtube.com/watch?v=ujoMPO6Okbg boyister -->
-<!-- https://www.youtube.com/watch?v=chpu6p_S8BY snapstore -->
-<!-- https://www.youtube.com/watch?v=WDaNJW_jEBo know how -->
-<!-- https://www.youtube.com/watch?v=K52LctkjXuU total touch -->
-<!-- https://www.youtube.com/watch?v=hV8C-k2q8Hw art -->
-
-<!-- https://www.youtube.com/watch?v=9bZkp7q19f0 duck duck go styla--->
-<!-- https://www.youtube.com/watch?v=xoEP2X1bYKI kebap styla-->
-<!-- https://www.uludagsozluk.com/e/42681035/ lol -->
 
 
 [![Image](skynet/hippocraticoath.png)]( https://www.youtube.com/watch?v=-gP_Q2myNWo )
