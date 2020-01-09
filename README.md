@@ -1,4 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
+
+<!-- bkz ekrem imamoğlandan sonrasını okumadım -->
+<!-- https://www.uludagsozluk.com/e/42686099/ ilk den sonrasını okumadım -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=_E3CPGoCG3g good vibrations-->
 
