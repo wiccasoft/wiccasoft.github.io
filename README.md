@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2020 rte nin evlilere yürümeyelim açıklaması -->
 <!-- bkz tayyibin demeden hayrünüsaya yürümesi -->
 <!-- bkz jeff bezosun fahriye evgene yürümesi -->
 <!-- bkz buraközçivitin fahriyeyi elif şafakla aldattığı iddası -->
