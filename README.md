@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz kamala camel diyen kamalcılar -->
+<!-- bkz atatürke benzeyen adamın 171 olması -->
 <!-- bkz atatürk 167 ise niye heykelleri niye 180 yapıyolar sorunsalı -->
 <!-- bkz 167 boyundaki adam için her gün tören yapan ülke -->
 <!-- bkz kamalcıların atatürkün boyunun 167 olduğunu kabullenmesi --<
