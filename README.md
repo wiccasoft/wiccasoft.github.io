@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz ifşalayan kızın safiye inci çıkması -->
 <!--bkz recep tayyip erdoğanı meşajlarını ifşa eden kız -->
 <!--bkz nihat doğanın kızlar kızlar gelemmi demeden ifşa verem mi demesi -->
 <!--bkz hüseyin avni mutlunun meşajlarını ifşalayan kız -->
