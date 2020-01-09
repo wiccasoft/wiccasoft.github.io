@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz arda turan cnn turk röportajı https://www.youtube.com/watch?v=rVcvEE3zwwo -->
 <!-- bkz haber botu varken haber linki paylaşmak -->
 <!-- bkz jeff bezosun chp genel bşk lığını bırakması -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU  zuhahahahha -->
