@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz tayyibin demeden hayrünüsaya yürümesi -->
 <!-- bkz buraközçivitin fahriyeyi elif şafakla aldattığı iddası -->
 <!-- bkz pelin batunun buraözçivitle boşanacağı iddaları -->
 <!-- bkz fahriye evcanın paylaştığı kaan bebekin yürümesi -->
