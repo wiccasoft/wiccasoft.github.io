@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz sibel ünlinin ünli olmak için intihar ettim açıklaması -->
 <!-- https://www.uludagsozluk.com/e/42687670/ bkz ortadoğu -->
 <!-- bkz sibel ünlinin akranlarıyla entry girmesi -->
 <!-- bkz mucize doktor dizisindeki böcek suratlı ergenin adı ney sorunsalı -->
