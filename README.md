@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 9 ocak 2020 beratın çokomelli paketini açması -->
 <!-- bkz iran devrim muhafızının üçüncü bşir saldırı planlaması -->
 <!-- https://www.uludagsozluk.com/e/42687133/ bkz hala yiyorlar -->
 <!-- https://www.uludagsozluk.com/e/42687111/ bkz nasıl yediler ama -->
