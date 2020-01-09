@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.uludagsozluk.com/e/42685878/ bi el atın genşler -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42684479/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42687492/ bkz hayallerde yaşıyor bazı ibneler -->
