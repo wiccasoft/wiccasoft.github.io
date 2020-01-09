@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz buraközçivitin pelin batu ya demeden yürümesi --<
 <!-- bkz rafet el romanın demeden yürüdüğü kızı iphone cu çıkması -->
 <!-- bkz 10 ocak 2020 jhonny sins in emekliler devlet yüktür açıklaması -->
 <!-- bkz 10 ocak 2020 erdoğanın ezanlarımızı susturamayacasınız açıklaması -->
