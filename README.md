@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz 167 lik atacücenin güldürmesi -->
 <!--bkz 167 boyunda ki adama ulu önder diyen kamalcılar -->
 <!--bkz recep tayyip erdoğan ikinci atatürk ise 3. rte kim olacak sorunsalı-->
 <!--bkz atacüce vs erdoğan -->
