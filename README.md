@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz nagehan alçının refet el romanı ifşalaması -->
+<!-- bkz nagehan alçının imamaoglanı ifşalaması -->
 <!-- bkz erdoğanın ifşacılarla ilgi yasa çıkarması -->
 <!-- bkz emre morun ifşalanmamak için demeyi kapaması -->
 
