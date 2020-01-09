@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!--bkz emre morun ifşalanmamak için demeyi kapaması -->
+<!--bkz atatürkün boyu 167 ydi nası subay yaptıalr sorunsalı -->
+<!-- bkz emre morun ifşalanmamak için demeyi kapaması -->
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
