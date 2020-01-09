@@ -2,7 +2,7 @@
 
 <!-- https://www.uludagsozluk.com/e/42686132/ bkz iyi sosyal medya kullanmıyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
-<!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak göksunun tak tak sedatı haşlaması -->
+<!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak sedatın birasz mal olması -->
 <!-- https://www.youtube.com/watch?v=pXngYOovE5I imamoğlunun zabt tuttuturum tehdidi -->
 <!-- https://www.youtube.com/watch?v=QJYoB4kieFI katil cafer imamoğluna destek oluyor -->
 <!-- https://www.uludagsozluk.com/e/42686099/ ilk den sonrasını okumadım -->
