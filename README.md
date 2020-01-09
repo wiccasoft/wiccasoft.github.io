@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz deepturkishwebteki ortaokul terk ibnelerin ben akranı sanması -->
+<!-- bkz deepturkishwebteki ortaokul terk tipsiz ibnelerin ben akranı sanması -->
 <!-- bkz bazı ibnelerin hayallerde yaşaması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42689003/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42684479/ bkz hayallerde yaşıyor bazı ibneler -->
