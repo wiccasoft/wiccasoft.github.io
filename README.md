@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2020 damad çokomelli açıklamalar kaynak: link hadi tıklağ kankağğğ --->
 <!-- bkz 9 ocak 2020 erdoğan evlilik açıklaması kaynak:tr.sputnik link tıklağğ be kankağğ-->
 <!-- bkz 1978 doğumlu olgun erkek ergen oğlan ilişkisi -->
 <!-- bkz yazılım firmamı rte sanan ergen -->
