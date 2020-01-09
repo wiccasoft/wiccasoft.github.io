@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz fikret kızılok vs siktiret ferdi tayfur -->
 <!-- bkz atatürkün diyaneti sünnet olmak için kurdu iddaları -->
 <!-- bkz atatürkün sünnetli penisinin fotoğrafı olmaması -->
 <!-- bkz rafet el romana dm den yürüyen kızın imamoğlunun kızı çıkması -->
