@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=3vXPo7lNYzk bkz ölü taklidi yapan nefes alan erkek -->
 <!-- bkz yılbaşında deli sikmişcesine eğlenen gencin intihar etmesi --> 
 <!-- bkz 10 ocak  2020 erdoğanın damadımın beline kuvvet açıklması -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz bazı ibnelerin erkek açığını kapatacak erkek -->
