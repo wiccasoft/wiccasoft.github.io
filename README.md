@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.uludagsozluk.com/e/42687492/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42687545/ bkz hayallerde yaşıyor bazı ibneler -->
 <!-- https://www.uludagsozluk.com/e/42687582/ bkz türklerin lut kavmi gibi bi kavim olması -->
 <!-- https://www.youtube.com/watch?v=QIAVaw_Qpkc bkz türklerin mankafalı olması -->
