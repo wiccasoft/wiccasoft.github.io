@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz emre morun yine dm den yürümesi -->
 <!-- bkz libyanın erdoğandan porno siteleri aç oalyı ytatlıya bağlıyalım ikazı -->
 <!-- https://github.com/nfriedly/node-unblocker/blob/HEAD/examples/simple/server.js -->
 <!-- bkz 10 ocak 2020 berat albayrakın damatlara çokomelli süpriz paket açıklaması -->
