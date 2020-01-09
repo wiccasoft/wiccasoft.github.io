@@ -1,5 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=0sPF8ynK7V4 emre mor büyük takım topçusu mu sorunsalı -->
+<!-- bkz emre morun asker selamı çakması -->
 <!-- bkz emre morun enes baturla asker arkadaşı olduğu iddaları -->
 <!-- bkz emre morun yine dm den yürümesi -->
 <!-- bkz libyanın erdoğandan porno siteleri aç oalyı ytatlıya bağlıyalım ikazı -->
