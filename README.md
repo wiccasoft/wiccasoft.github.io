@@ -1,16 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- https://www.youtube.com/watch?v=9zbF578--dE open source -->
-<!-- bkz dm den meşaj ifşa eden kızın dilan dere çıkması -->
-<!-- bkz instagram takipçi hilesi programını yazanın türk çıkması --> 
-<!-- bkz ferdi özbeğenin çıblak resimlerini ifşa eden kızın imamoğlunun kızı çıkması -->
-<!-- bkz kasım süleymani vs sultan süleyman -->
-<!-- bkz fikret kızılok vs siktiret ferdi tayfur -->
-<!-- bkz atatürkün diyaneti sünnet olmak için kurdu iddaları -->
-<!-- bkz atatürkün sünnetli penisinin fotoğrafı olmaması -->
-<!-- bkz rafet el romana dm den yürüyen kızın imamoğlunun kızı çıkması -->
+<!-- https://www.youtube.com/watch?v=9zbF578--dE  open source -->
 <!-- https://www.youtube.com/watch?v=w6g_YBvK3WU  bkz dilek imamoğluna araba alıp ihale kapmak -->
-<!-- https://www.uludagsozluk.com/e/42686132/ bkz iyi sosyal medya kullanmıyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
 <!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak sedatın biraz mal olması -->
 <!-- https://www.uludagsozluk.com/e/42686099/ ilk den sonrasını okumadım -->
