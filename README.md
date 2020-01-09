@@ -4,7 +4,6 @@
 <!-- https://www.uludagsozluk.com/e/42687670/ bkz kürt ismiyle entry giren türkçü oç -->
 <!-- https://www.uludagsozluk.com/e/42685937/ bkz karısını kızını ibb evlerine gönderen kavat -->
 <!-- bkz sibel ünlinin ünli olmak için intihar ettim açıklaması -->
-<!-- bkz sibel ünlinin akranlarıyla entry girmesi -->
 <!-- bkz mucize doktor dizisindeki böcek suratlı ergenin adı ney sorunsalı -->
 <!-- https://odatv.com/dogu-perincekin-20-gun-once-ziyaret-ettigi-cumhurbaskanligi-binasi-basildi-09012005.html -->
 <!-- bkz doğu perinçekin paylaştığı iran yalnız değildir paylaşımı -->
