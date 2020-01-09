@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2020 beratın arabada beş evde 15 açıklaması -->
 <!-- bkz 9 ocak 2020 erdoğanın evlenenlere kyk yardımı açıklaması -->
 <!-- bkz jeff bezosun fahriye evcana yürümesi -->
 <!-- bkz jeff bezosun demeden yürüdüğü kızın rafetin meşajlarını ifşa eden kız çıkması -->
