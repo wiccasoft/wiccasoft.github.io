@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz türklerin siklenmeme sebepleri -->
 <!-- bkz ibnenin evladı türklerin sevilmeme nedenleri -->
 <!-- bkz ibnenin evladı türklerin insanlığa yoğurt dışında katkıları -->
 <!-- https://www.uludagsozluk.com/e/42687530/ yarramı yersin anca ibnenin evladı -->
