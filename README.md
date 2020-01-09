@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz deepturkishwebteki ibnelerin erkek açığını kapatacak erkek -->
 <!-- bkz deepturkishwebteki ortaokul terk tipsiz ibnelerin ben akranı sanması -->
 <!-- bkz bazı ibnelerin hayallerde yaşaması sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42689003/ bkz hayallerde yaşıyor bazı ibneler -->
