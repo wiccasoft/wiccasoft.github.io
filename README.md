@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz celal şengörün imamolunun ayarını şengörmesi -->
 <!-- bkz imamolanın celal şengöre teke tekte döşedği boru -->
 <!-- bkz oya şengörün celal şengör ifşalarını sızdırması -->
 <!-- bkz imamaolanın 171 erdoğanın 185 olması  -->
