@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-
+<!-- bkz rafet el romana dm den yürüyen kızın imamoğlunun kızı çıkması -->
 <!-- https://www.youtube.com/watch?v=w6g_YBvK3WU  bkz dilek imamoğluna araba alıp ihale kapmak -->
 <!-- https://www.uludagsozluk.com/e/42686132/ bkz iyi sosyal medya kullanmıyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
