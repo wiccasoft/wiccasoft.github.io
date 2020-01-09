@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz pelin batunun buraközçivitle boşandığı iddaları -->
 <!-- bkz kamalcıların kamala camel demesi -->
 <!-- bkz hafterin erdoğana 20 tane kamal göndermesi -->
 <!-- bkz erdoğanın demeden hafterin karısına yürümesi -->
