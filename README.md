@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz jeff bezosun demeden yürüdüğü kızın rafetin meşajlarını ifşa eden kız çıkması -->
 <!-- bkz jhonny sins in kobrayı demeden salması -->
 <!-- bkz instagram takipçi hilesiyle türkleri keklemek -->
 <!-- bkz intagram deme meşaj hilesiyle ünlüleri avlayan kız -->
