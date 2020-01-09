@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz fatih mandalina nın haber müdür olması -->
-<!-- bkz fatih portakalın aptala anlatır gibi haber sunması -->
+<!-- bkz fatih mandalinanın aptala anlatır gibi haber sunması -->
 <!-- bkz annoying orange'ın fatih portakala verdiği ayar -->
 <!-- bkz celal şengör teke teke 27 aralık 2018 yayını -->
 <!-- bkz celal şengör gülüşü vs ilber ortaylı gülüşü --->
