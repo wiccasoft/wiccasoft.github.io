@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 20 ocak 2020 damadın çokomelli açıklamaları --->
 <!-- bkz ramiz dayıyı köşeye sıkıştırıp haber linkine tıklağ laağn demek --<
 <!-- bkz biy eykeğin kalitesiz olduğunu anlama yollayı https://www.youtube.com/watch?v=tVfyO37ARpQ -->
 <!-- bkz 10 ocak 2020 ruhani çokomelli açıklamalar linki kaynak aha tıklağ --->
