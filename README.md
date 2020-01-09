@@ -1,20 +1,9 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz annemi sik diyen inciciye siggi git lan demek -->
-<!-- bkz ben sözlükçülerin annelirinn amcıklarına  bakarım diyen erkek -->
-<!-- bkz ben oğlanların olmayan zekasına değil göt deliklerine bakarım diyen erkek -->
-<!-- bkz ben oğlanda göt deliğine bakarım diyen erkek -->
-<!-- bkz ben garıda memeye önem vermem arkadan vurdun mu önden sallanacak aga diyen erkek -->
-<!-- bkz ben garıda ama değel zekaya bakarım diyen erkek -->
-<!-- bkz ilber ortaylının celal şengöre orta açması --> 
-<!-- bkz celal şengörün imamolunun ayarını şengörmesi -->
-<!-- bkz imamolanın celal şengöre teke tekte döşedği boru -->
-<!-- bkz oya şengörün celal şengör ifşalarını sızdırması -->
-<!-- bkz imamaolanın 171 erdoğanın 185 olması  -->
-<!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo -->
-<!-- bkz nagehan alçının imamoglanı ifşalaması -->
-<!-- bkz erdoğanın ifşacılarla ilgi yasa çıkarması -->
-<!-- bkz emre morun ifşalanmamak için demeyi kapaması -->
+<!-- https://www.uludagsozluk.com/e/42684479/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- https://www.uludagsozluk.com/e/42687492/ bkz hayallerde yaşıyor bazı ibneler -->
+<!-- https://www.uludagsozluk.com/e/42687545/ bkz hayallerde yaşıyor bazı ibneler -->
+
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
