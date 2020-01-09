@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
 <!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak göksunun tak tak sedatı haşlaması -->
 <!-- https://www.youtube.com/watch?v=pXngYOovE5I imamoğlunun zabt tuttuturum tehdidi -->
 <!-- https://www.youtube.com/watch?v=QJYoB4kieFI katil cafer imamoğluna destek oluyor -->
