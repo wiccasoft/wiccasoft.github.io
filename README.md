@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz annemi sik diyen inciciye siggi git lan demek -->
 <!-- bkz ben sözlükçülerin annelirinn amcıklarına  bakarım diyen erkek -->
 <!-- bkz ben oğlanların olmayan zekasına değil göt deliklerine bakarım diyen erkek -->
 <!-- bkz ben oğlanda göt deliğine bakarım diyen erkek -->
