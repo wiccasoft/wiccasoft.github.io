@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz rafet ayak romanın yine ifşa olması -->
 <!-- bkz safiye incinin ifşaladığı futbolcular -->
 <!-- bkz okan yalabık ın ifşa olmamak için demeyi kapaması -->
 <!-- bkz brad pittin genşliğe ifşa ile dalga geçmesi -->
