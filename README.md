@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!--bkz türklerin hayallerde yaşayan ibneler olduğu greçeği -->
+<!-- bkz türklerin hayallerde yaşayan ibneler olduğu greçeği -->
 <!-- https://www.youtube.com/watch?v=QIAVaw_Qpkc bkz türklerin mankafalı olması -->
 <!-- https://www.youtube.com/watch?v=tVfyO37ARpQ bkz türklerin siklenmeme sebepleri -->
 <!-- bkz türklerin insanlığa yoğurt dışında katkıları -->
