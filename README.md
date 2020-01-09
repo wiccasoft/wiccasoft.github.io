@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2020 erdoğanın evlilerin kyk borcunu ödeyeceğiz açıklaması -->
 <!-- bkz 9 ocak 2020 erdoğanın evlilik açıklaması -->
 <!-- https://pics.wikifeet.com/Kylie-Worthy-Feet-2368464.jpg -->
 <!-- https://www.wikifeet.com/Kylie_Worthy#&gid=1&pid=1945864 -->
