@@ -1,22 +1,5 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz rafet el romanın östrojen seviyesi tavan yaptı diyen ifşacı kız -->
-<!-- bkz 24 yaşın kızların ifşalama yaşı olması -->
-<!-- bkz 24 yaşındaki ifşacı kızın safiye inci çıkması -->
-<!-- bkz rafet ayak romanın yine ifşa olması -->
-<!-- bkz safiye incinin ifşaladığı futbolcular -->
-<!-- bkz okan yalabık ın ifşa olmamak için demeyi kapaması -->
-<!-- bkz brad pittin genşliğe ifşa ile dalga geçmesi -->
-<!-- bkz brad pittin yeniden ifşa edilmesi -->
-<!-- bkz kamala camel diyen kamalcılar -->
-<!-- bkz obamanın 188 olmasını kabullenmeyen kamalcılar -->
-<!-- bkz atatürke benzeyen adamın 171 olması -->
-<!-- bkz imamaolunun 171 erdoğanın 185 olmasını kabullenemeyen kamalcılar -->
-<!-- bkz atatürk 167 ise niye heykelleri niye 180 yapıyolar sorunsalı -->
-<!-- bkz 167 boyundaki adam için her gün tören yapan ülke -->
-<!-- bkz kamalcıların atatürkün boyunun 167 olduğunu kabullenmesi --<
-<!-- bkz brad pitti ifşalayn kızın safiye inci çıkması -->
-<!-- bkz atatürkün boyu 167 ydi nası subay yaptılar sorunsalı -->
 <!-- bkz emre morun ifşalanmamak için demeyi kapaması -->
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
