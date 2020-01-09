@@ -1,16 +1,9 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdunmu önden entry girecek -->
-<!--https://www.uludagsozluk.com/e/42687492/ bkz kadınların piç erkek sevdas -->
-<!--https://www.uludagsozluk.com/e/42687488/ atatürke sokayım sana da amın feryadı-->
+<!--https://www.uludagsozluk.com/e/42687492/ bkz kadınların piç erkek sevdası -->
 <!-- https://www.youtube.com/watch?v=17NNpb1Ou-E zuahahhahaha -->
-<!-- https://www.uludagsozluk.com/e/42687454/ bkz koçlar ilke hedefiniz akdeniz -->
-<!-- bkz müslümün hamam böceklerine ya gel kalbimde tahta sahip ol demesi -->
-<!-- bkz arda turan cnn turk röportajı https://www.youtube.com/watch?v=rVcvEE3zwwo -->
-<!-- bkz haber botu varken haber linki paylaşmak -->
-<!-- bkz jeff bezosun chp genel bşk lığını bırakması -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU  zuhahahahha -->
-
 <!-- bkz haberleri yorumlayan yavşakların güldürmesi -->
 <!-- bkz türk haberlerini takip edecek kadar ezik olmak -->
 <!-- bkz arda turanın paylaştığı osmanlı turası -->
