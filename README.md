@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz icelal şengörü 10 ocak 2020 rte açıklamasını şengörmek lazım açıklaması-->
+<!-- bkz celal şengörün 10 ocak 2020 rte açıklamasını şengörmek lazım açıklaması-->
 <!-- bkz 10 ocak 2020 xin y açıklaması kaynak: haber linki -->
 <!-- bkz erdonun evli karılar cıbıl cıbıl gezmesin açıklaması --->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi --->
