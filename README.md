@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz deveden yürümek -->
+<!-- bkz rafetin demeden yürüğüğü kızın fake çıkması -->
 <!-- bkz emre morun yine dm den yürümesi -->
 <!-- bkz hafterin erdoğana 20 tane deve yollaması -->
 <!-- bkz cengiz ünderin golü atıp devrelerine  asker selamı çakması -->
