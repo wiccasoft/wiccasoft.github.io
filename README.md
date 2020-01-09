@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz ekrem imamoğlunun fetö evlerine baskın yapması -->
 <!--bkz shpli kadınların zdp li kadınlara saldırması -->
 <!--bkz diyanet ezan çalıştayının kara çarşaflılar camilere işediler açıklaması -->
 <!--bkz türbanlı kızlar instagram sayfasını pompalıyla basan robot -->
