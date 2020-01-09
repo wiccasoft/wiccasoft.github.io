@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=fGtOMTpk-kE 30 yaşında 222 kilo -->
 <!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 <!-- https://www.uludagsozluk.com/e/42685878/ bi el atın genşler -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz hayallerde yaşıyor bazı ibneler -->
