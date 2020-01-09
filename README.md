@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz jeff bezosu celal şengör sanan ergen -->
 <!-- bkz deep webteki ortaokul terk ergenlerin güldürmesi -->
 <!-- bkz tek tokatla bayıltılacak tiplerin deep webte ahkam kesmesi -->
 <!-- bkz türkishmüsic.orga daki kürt nikli yuzırların türkçü çıkması -->
