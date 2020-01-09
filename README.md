@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz  katatürk iphone mu kullanırdı sorunalı huawei mi -->
 <!-- bkz katatürkün ilk hedefiniz demeden ifşa açıklaması -->
 <!-- bkz erdoğanın demeden yürüdüğü kızın rafete meşajlarını ifşa eden kız çıkması -->
 <!-- bkz 10 ocak 2020 jhonny sins in emekliler devlet yüktür açıklaması -->
