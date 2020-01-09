@@ -1,6 +1,5 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz napolyonun 166 atatürkün 167 olduğu gerçeği -->
 <!-- bkz kamala camel diyen kamalcılar -->
 <!-- bkz obamanın 188 olmasını kabullenmeyen kamalcılar -->
 <!-- bkz atatürke benzeyen adamın 171 olması -->
