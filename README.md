@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz instagram takipçi hilesiyle türkleri keklemek -->
 <!-- bkz intagram deme meşaj hilesiyle ünlüleri avlayan kız -->
 <!-- bkz oya şengörün celali ilber ortaylıyla aldattı iddaları -->
 <!-- bkz pelin batunun buraközçivit deme maşajlarını ifşa etmesi -->
