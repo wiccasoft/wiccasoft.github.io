@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!--bkz instagram ifşa team -->
+<!--bkz demede pusuda bekleyen ifşacı kızlar -->
 <!--bkz burak kutun ifşacılara önlem alması -->
 <!--bkz burak özçivitin ifşacılara tuzak kurması -->
 <!--bkz erdoğanın ifşacılar için yasa çıkarması -->
