@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz sosyal medya kullanacak kadar fakir olmak -->
 <!-- bkz dm den bulunamayan jeff bezos ezikliği -->
 <!-- bkz kemal kılıçdaroğlunun yürüdüğü karının akp il başkanı çıkması -->
 <!-- bkz 10 ocak 2020 rte nin evli karılara yürümeyelim açıklaması -->
