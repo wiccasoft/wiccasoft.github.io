@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj -->
 <!-- bkz 11 ocak 2020 erdoğanın beni seven sigara içmez açıklamaları -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdun mu önden sallanacak aga -->
 <!-- bkz 10 ocak 2020 ay tutulmasını yakalayan programın yetişmesi -->
