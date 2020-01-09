@@ -11,7 +11,7 @@
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1-torunu-de%C4%9Fil-t%C3%BCrk-torunuyuz/&w=bg bkz oçları -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz uludaki ergenleri bulup eşşek sudan gelinceye kadar dövme isteği -->
-<!-- https://www.uludagsozluk.com/e/42687530/ yarramın başını yersin orospunu sıçtığı -->
+<!-- https://www.uludagsozluk.com/e/42687530/ yarramın başını yersin orospunun sıçtığı -->
 <!-- bkz uluddaki türkçü oçlarının kürt nikiyle coşturması -->
 <!-- bkz bu kadar oç ergeni kim doğurdu acaba sorunsalı -->
 <!-- https://www.uludagsozluk.com/e/42687670/ bkz kürt ismiyle entry giren türkçü oç -->
