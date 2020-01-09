@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://odatv.com/dogu-perincekin-20-gun-once-ziyaret-ettigi-cumhurbaskanligi-binasi-basildi-09012005.html -->
 <!-- bkz doğu perinçekin paylaştığı iran yalnız değildir paylaşımı -->
 <!-- bkz sibel ünlinin 1 lira at be abi demesi -->
 <!-- bkz johny sinsin abi bana da yazarlık verin beee abi demesi -->
