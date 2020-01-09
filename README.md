@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!--bkz instagram ifşa team -->
+<!--bkz türklerin instagramda harcadığı vakit -->
 <!--bkz ifşalayan kızın safiye inci çıkması -->
 <!--bkz instagram ifşacılar ve gönüllüler -->
 <!--bkz recep tayyip erdoğanı meşajlarını ifşa eden kız -->
