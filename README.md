@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz karısını sikiyle döven adam -->
 <!--bkz kamalcıalrın akpli kadınlar instagram sayfasına saldırması -->
 <!--bkz karısını kızın ibbb evlerin yollayan gavat -->
 <!--bkz atatürkün pipisi sünnetli değil diye mi diyaneti kurdu sorunalı -->
