@@ -3,9 +3,7 @@
 <!-- https://www.youtube.com/watch?v=w6g_YBvK3WU  bkz dilek imamoğluna araba alıp ihale kapmak -->
 <!-- https://www.uludagsozluk.com/e/42686132/ bkz iyi sosyal medya kullanmıyorum denilen anlar -->
 <!-- https://www.uludagsozluk.com/k/kanal-istanbul-t%C3%BCrkiyenin-borcunu-%C3%B6der/ zuhahahaha -->
-<!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak sedatın birasz mal olması -->
-<!-- https://www.youtube.com/watch?v=pXngYOovE5I imamoğlunun zabt tuttuturum tehdidi -->
-<!-- https://www.youtube.com/watch?v=QJYoB4kieFI katil cafer imamoğluna destek oluyor -->
+<!-- https://www.youtube.com/watch?v=YKEHWlLM5Ew tak tak sedatın biraz mal olması -->
 <!-- https://www.uludagsozluk.com/e/42686099/ ilk den sonrasını okumadım -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 <!-- https://www.youtube.com/watch?v=_E3CPGoCG3g good vibrations-->
