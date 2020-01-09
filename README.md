@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz erdonun evli karılar cıbıl cıbıl gezmesin açıklaması --->
 <!-- bkz bahcelinin 274 derece dönmesinin asıl sebebi --->
 <!-- bkz kemal kılıçtaroğlunun paylaştığı skk binası -->
 <!-- bkz sosyal medya kullanacak kadar fakir olmak -->
