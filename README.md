@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz şaka maka bu sene demeden iyi yüründü -->
+<!-- bkz erdoğnın dmden hafterin karısına yürümesi -->
 <!-- bkz emre morun demeden yürürken rakibine çalım atması -->
 <!-- bkz rafetin demeden yürüğüğü kızın fake çıkması -->
 <!-- bkz emre morun yine dm den yürümesi -->
