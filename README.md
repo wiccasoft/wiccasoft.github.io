@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ hangi oç yaptı bunu -->
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernard redflag -->
 <!-- https://www.youtube.com/watch?v=qNa38FQJftg Klanpesiamus -->
 <!-- https://www.youtube.com/watch?v=EKaDDlFANnA&list=PL1QDHDaT6nXSEW0kPXKmK97Y6aO9dWkYW rönt -->
