@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz deeep turkish webin oç kaynaması -->
+<!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz uludaki ergenleri bulup eşşek sudan gelinceye kadar dövme isteği -->
 <!-- https://www.uludagsozluk.com/e/42687530/ yarramın başını yersin orospunu sıçtığı -->
 <!-- bkz uluddaki türkçü oçlarının kürt nikiyle coşturması -->
