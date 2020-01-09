@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz deeep turkish webin oç kaynaması -->
+<!--bkz osmanlı torunu değil oç yuz diyen türkçülerin güldürmesi -->
 <!-- https://www.uludagsozluk.com/k/osmanl%C4%B1-torunu-de%C4%9Fil-t%C3%BCrk-torunuyuz/&w=bg bkz oçları -->
 <!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 bkz hayallerde yaşıyor bazı ibneler -->
 <!-- bkz uludaki ergenleri bulup eşşek sudan gelinceye kadar dövme isteği -->
