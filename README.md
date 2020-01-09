@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=pXngYOovE5I imamoğlunun zabt tuttuturum tehdidi -->
 <!-- https://www.youtube.com/watch?v=QJYoB4kieFI bkz katil cafer imamaoğluna destek oluyor -->
 <!-- https://www.uludagsozluk.com/e/42686099/ ilk den sonrasını okumadım -->
 <!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
