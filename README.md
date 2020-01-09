@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz kamala camel diyen kamalcılar -->
+<!-- bkz 167 boyundaki adam için her gün tören yapan ülke -->
 <!-- bkz kamalcıların atatürkün boyunun 167 olduğunu kabullenmesi --<
 <!-- bkz brad pitti ifşalayn kızın safiye inci çıkması -->
 <!-- bkz atatürkün boyu 167 ydi nası subay yaptılar sorunsalı -->
