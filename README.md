@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz türklerin insanlığa yoğurt dışında katkıları -->
 <!-- https://www.uludagsozluk.com/e/42687530/ yarramı yersin anca ibnenin evladı -->
 <!-- bkz vasıfsız türklere arkadan çakıp entry girme işi vermek -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA bkz arkadan vurdunmu önden entry girecek aga -->
