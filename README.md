@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz ferdi özbeğenin çıblak resimlerini ifşa eden kızın imamaoğlunun kız çıkması -->
 <!-- bkz kasım süleymani vs sultan süleyman -->
 <!-- bkz fikret kızılok vs siktiret ferdi tayfur -->
 <!-- bkz atatürkün diyaneti sünnet olmak için kurdu iddaları -->
