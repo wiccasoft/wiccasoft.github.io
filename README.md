@@ -1,18 +1,10 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz gargamelin istanbul şirinler köyüne saldırı planlaması -->
-<!-- https://www.uludagsozluk.com/e/42687002/ bam bam bam -->
-<!-- bkz 20 ocak 2020 çinin savaşı bitirmek için atom bombası atması -->
-<!-- bkz frans ferdinand vs kasım süleymani -->
-<!-- bkz 10 ocak 2019 üçüncü dünya savaşı başlayacak iddaları-->
-<!-- bkz ergenlerin bi türlü 3. dünya savaşı çıkaramaması -->
-<!-- bkz 3. dünya savaşı müttefikleri seçiyoruz brolarla -->
+<!-- bkz emre morun yine dm den yürümesi -->
 <!-- bkz cengiz ünderin golü atıp devrelerine  asker selamı çakması -->
 <!-- https://www.youtube.com/watch?v=WxiwWSTafBg&list=PUIu9zJq00ev2xj37kvyHtZQ&index=135 -->
 <!-- https://www.youtube.com/watch?v=0sPF8ynK7V4 emre mor büyük takım topçusu mu sorunsalı -->
-<!-- bkz emre morun asker selamı çakması -->
 <!-- bkz emre morun enes baturla asker arkadaşı olduğu iddaları -->
-<!-- bkz emre morun yine dm den yürümesi -->
 <!-- bkz libyanın erdoğandan porno siteleri aç oalyı ytatlıya bağlıyalım ikazı -->
 <!-- https://github.com/nfriedly/node-unblocker/blob/HEAD/examples/simple/server.js -->
 <!-- bkz 10 ocak 2020 berat albayrakın damatlara çokomelli süpriz paket açıklaması -->
