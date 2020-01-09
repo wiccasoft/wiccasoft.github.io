@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 3. dünya savaşı müttefikleri seçiyoruz brolarla -->
 <!-- bkz cengiz ünderin golü atıp devrelerine  asker selamı çakması -->
 <!-- https://www.youtube.com/watch?v=WxiwWSTafBg&list=PUIu9zJq00ev2xj37kvyHtZQ&index=135 -->
 <!-- https://www.youtube.com/watch?v=0sPF8ynK7V4 emre mor büyük takım topçusu mu sorunsalı -->
