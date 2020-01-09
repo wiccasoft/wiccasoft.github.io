@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=ZfwUiw49Aqo -->
 <!-- bkz nagehan alçının imamoglanı ifşalaması -->
 <!-- bkz erdoğanın ifşacılarla ilgi yasa çıkarması -->
 <!-- bkz emre morun ifşalanmamak için demeyi kapaması -->
