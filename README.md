@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- https://pics.wikifeet.com/Kylie-Worthy-Feet-2368464.jpg -->
+<!-- https://www.wikifeet.com/Kylie_Worthy#&gid=1&pid=1945864 -->
 <!-- https://commons.wikimedia.org/wiki/File:Kylie_G._Worthy_at_Protecting_Adult_Welfare_event_2.jpg -->
 <!-- https://www.youtube.com/watch?v=9zbF578--dE  open source -->
 <!-- https://www.youtube.com/watch?v=w6g_YBvK3WU  bkz dilek imamoğluna araba alıp ihale kapmak -->
