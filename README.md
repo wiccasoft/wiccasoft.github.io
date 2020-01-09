@@ -9,7 +9,6 @@
 <!-- https://www.youtube.com/watch?v=WxiwWSTafBg&list=PUIu9zJq00ev2xj37kvyHtZQ&index=135 -->
 <!-- https://www.youtube.com/watch?v=0sPF8ynK7V4 emre mor büyük takım topçusu mu sorunsalı -->
 <!-- bkz emre morun enes baturla asker arkadaşı olduğu iddaları -->
-<!-- bkz libyanın erdoğandan porno siteleri aç oalyı ytatlıya bağlıyalım ikazı -->
 <!-- https://github.com/nfriedly/node-unblocker/blob/HEAD/examples/simple/server.js -->
 <!-- bkz 10 ocak 2020 berat albayrakın damatlara çokomelli süpriz paket açıklaması -->
 <!-- bkz 9 ocak 2020 erdoğanın evlilik açıklaması -->
