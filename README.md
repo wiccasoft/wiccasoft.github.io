@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz deeep turkish webin oç kaynaması -->
+<!-- bkz deep webteki ortaokul terk ergenlerin güldürmesi -->
 <!-- bkz denize muhammed mi kakatürk mü düşse kurtarırsın sorunsalı -->
 <!-- bkzz türküm türkçüyüm diyen orospu evladına bana ne yarrak kafası demek -->
 <!-- bkz vatan partisi internet sitesini kürtlerin hacklemesi -->
