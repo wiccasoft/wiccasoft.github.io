@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz jeff bezosun chp genel bşk lığını bırakması --<
+<!-- bkz haber botu varken haber linki paylaşmak -->
+<!-- bkz jeff bezosun chp genel bşk lığını bırakması -->
 <!-- https://www.youtube.com/watch?v=-AdnJiuDGVU  zuhahahahha -->
 <!-- https://www.youtube.com/watch?v=17NNpb1Ou-E zuahahhahaha -->
 <!-- bkz haberleri yorumlayan yavşakların güldürmesi -->
