@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!--bkz ekreme memikoğlanın atacücükçü olması -->
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz türklerin atacücükü fazla büyütmesi -->
 <!--bkz komünüzüm parayı bulana kadardır -atacücü -->
