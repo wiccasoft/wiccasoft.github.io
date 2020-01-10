@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz rte nin yine ay gibi gecelere doğması -->
 <!-- https://horoscopes.astro-seek.com/astrology-aspects-transits-online-calendar-january-2020 -->
 <!-- bkz adalet bakanın rte ye gider ayak posta çakması -->
 <!-- bkz yecüc mecücü zühur eyleyince it gibi dağılan akpliler -->
