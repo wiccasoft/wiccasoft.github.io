@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- 10 ocak 2020 bkz rafet el romanın yine yürümesi -->
 <!-- https://twitter.com/hollywillslover/status/849374947512332288 face invaders -->
 <!-- https://www.youtube.com/watch?v=llZWUutejao geniş aile ulvi -->
 <!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak cinayettir -->
