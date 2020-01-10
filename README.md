@@ -3,13 +3,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz 10 ocak 2020 ifşalananların rezil olması -->
-<!-- https://www.youtube.com/watch?v=ueptJlYwka0 serkan is my girl -->
-<!-- https://www.youtube.com/watch?v=I0HlhQ9L99A does he look like a bitch -->
-<!-- https://www.youtube.com/watch?v=aircAruvnKk neural network -->
-<!-- https://www.youtube.com/watch?v=192Acm_S-Ss 15 Things You Didn't Know About ERich Schmidt -->
-<!-- https://www.youtube.com/watch?v=FT3zuBuqnsk 15 Things You Didn't Know About Recep taYyip eRdoğan -->
-<!-- https://www.youtube.com/watch?v=bPEknYYYotw 15 Things You Didn't Know About Gisele Bundchen -->
-<!-- https://www.youtube.com/watch?v=JEA5saVv4Ek 15 Things You Didn't Know About Jeff Bezos -->
 <!-- https://www.kaanintavsiyesi.com/kesfet/vardir-bir-bildikleri-instagram-kullanmayan-16-unlu-oyuncu-70 -->
 <!-- https://www.youtube.com/watch?v=t2oVUxTV4WA Celebrities Read Mean Tweets #11 -->
 <!-- https://www.youtube.com/watch?v=JgQVj4iMm8Y Celebrities Read Mean Tweets #10 -->
