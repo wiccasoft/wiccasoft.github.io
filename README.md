@@ -1,12 +1,12 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz komünüzüm parayı bulana kadardır -atacücü -->
 <!-- https://www.youtube.com/watch?v=6KxL0X9MZRA bkz atacücünün komünüzm karşıtlığı -->
 <!-- https://www.uludagsozluk.com/e/42685363/ 
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
 <!-- https://www.uludagsozluk.com/r/mustafa-kemal-ahlaks%C4%B1zl%C4%B1k-getirdi-1961435/ oyş -->
 <!-- bkz türklerin atacücükü fazla büyütmesi -->
 <!-- https://www.porngo.com/videos/84843/elena-is-all-about-teasing-you-today./ -->
-<!-- bkz komünüzüm parayı bulana kadardır -atacücü -->
 <!-- bkz adalet bakanın iki posta zikr çakması -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
 <!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
