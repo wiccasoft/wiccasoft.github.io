@@ -3,7 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- bkz ay tutulmasında oluşan atacüc silüeti -->
+<!-- bkz ay tutulmasında oluşacak atacüc silüeti -->
 <!-- https://eclipse.gsfc.nasa.gov/JLEX/JLEX-AS.html -->
 <!-- https://www.ntv.com.tr/galeri/yasam/ay-tutulmasi-ne-zaman-ve-saat-kacta-10-ocak-2020-ay-tutulmasi-burclara-etkiler,2JWsni4q1UaSes04ouJoEA -->
 <!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz öcü gibi korkuyorlar mao zedong yoldaşımdan -->
