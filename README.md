@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=tC4D-bzCWJc gerizekalı ibneler -->
 <!-- https://www.youtube.com/watch?v=t0xeNrqwWco peçete artıkları -->
 <!-- https://www.youtube.com/watch?v=I0HlhQ9L99A does he look like a bitch -->
 <!-- https://www.youtube.com/watch?v=aircAruvnKk neural network -->
