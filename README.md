@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz johnny depp in yine demeden yürümesi -->
 <!-- bkz celal şengörün imamoğlandan yediği ayar -->
 <!-- bkz ekotrollerin imamoğlan basuru -->
 <!-- bkz masterchef rıfat bıyığı vs ekrem imamoğlan göbeği -->
