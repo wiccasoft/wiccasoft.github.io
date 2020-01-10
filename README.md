@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-
+<!-- bkz adalet bakanın iki posta zikr çakması -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
 <!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
 <!-- https://www.youtube.com/watch?v=nQCfR4waWpI bence güzel olur -->
