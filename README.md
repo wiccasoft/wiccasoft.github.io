@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz sergey brinin demeden ifşaladığı kız -->
 <!-- bkz ali koçun demeden yürüdüğü kızın rüzgar erkoçlar çıkması -->
 <!-- bkz rüzgar erkoçların demeyi açması -->
 <!-- bkz emre yalabıkın ifşalanmamak için demeyi kapaması -->
