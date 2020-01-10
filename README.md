@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
 <!-- bkz atacücünün komünüzm karşıtlığı -->
-<!-- https://www.uludagsozluk.com/e/42685363/ bkz panteist şovenizmin baya prim yapması -->
+<!-- https://www.uludagsozluk.com/e/42685363/ 
 <!-- https://www.uludagsozluk.com/r/mustafa-kemal-ahlaks%C4%B1zl%C4%B1k-getirdi-1961435/ oyş -->
 <!-- bkz türklerin atacücükü fazla büyütmesi -->
 <!-- bkz komünüzüm parayı bulana kadardır -atacücü -->
