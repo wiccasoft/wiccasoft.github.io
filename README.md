@@ -9,16 +9,7 @@
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz türklerin atacücükü fazla büyütmesi -->
 <!--bkz komünüzüm parayı bulana kadardır -atacücü -->
-<!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak süper olur -->
-<!-- https://www.youtube.com/watch?v=tT4TjDj12uI atatcücükün emrettiği maç -->
-<!--bkz tr.sputnik linki attım postayı koyması diye değiştirdim tıklayğın iki posta -->
-<!-- https://www.uludagsozluk.com/e/42690870/ bkz adalet bakanının rte ye postayı koyması -->
 <!-- https://www.youtube.com/watch?v=cHvLJ3RKgxs zuahhahahaha -->
-<!-- bkz celal şengörün imamoğlandan yediği ayar -->
-<!-- bkz ekotrollerin imamoğlan basuru -->
-<!-- bkz masterchef rıfat bıyığı vs ekrem imamoğlan göbeği -->
-<!-- bkz ekrem imamolanın camilere demeyi kapaması -->
-<!-- bkz johnny depp in demeden yine yürümesi -->
 <!-- https://www.uludagsozluk.com/e/42691008/ bkz 16 milyon zombinin bidenesi -->
 <!-- https://www.uludagsozluk.com/e/42690906/ engel olmak isteyen kim geberin amk -->
 <!-- bkz 10 ocak 202 rafet el romanın takipten çıkıyoruz kampanyası -->
