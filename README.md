@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz emre yalabıkın ifşalanmamk için demeyi kapması --< 
 <!-- bkz emre morun yürüdüğü kızın ifşacı çıkması -->
 <!-- bkz rüzgar erkoçların paylaştığı ifşaya hayır videosu -->
 <!-- bkz fahriye evcanın ifşalanmadı iddaları -->
