@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz uludaki ergenler reşit mi sorunsalı -->
 <!-- bkz şaka maka ulucuların selin ciğercinin erkek haline benzemesi -->
 <!-- bkz selin ciğercinin rüzgar erkoçlara adamsın demesi -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 eywallak koçlar -->
