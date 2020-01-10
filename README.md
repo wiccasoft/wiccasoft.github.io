@@ -12,17 +12,9 @@
 <!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
 <!-- https://www.youtube.com/watch?v=nQCfR4waWpI bence güzel olur -->
 <!-- https://www.porngo.com/videos/84843/elena-is-all-about-teasing-you-today./ -->
-<!-- https://www.youtube.com/watch?v=cHvLJ3RKgxs zuahhahahaha -->
-<!-- https://www.uludagsozluk.com/e/42691008/ bkz 16 milyon zombinin bidenesi -->
-<!-- https://www.uludagsozluk.com/e/42690906/ engel olmak isteyen kim geberin amk -->
-<!-- bkz 10 ocak 202 rafet el romanın takipten çıkıyoruz kampanyası -->
-<!-- bkz 10 ocak 2020 bkz rafet el romanın yine yürümesi -->
-<!-- https://twitter.com/hollywillslover/status/849374947512332288 face invaders -->
-<!-- https://www.youtube.com/watch?v=llZWUutejao geniş aile ulvi -->
-
-<!-- https://onedio.com/haber/dm-den-mesaj-attigi-fitness-egitmeni-kadin-tarafindan-ifsa-edilen-rafet-el-roman-yine-hayal-kirikligina-ugradi-893994 -->
 <!-- https://www.youtube.com/watch?v=cVDY443zTkI 250 gr -->
 <!-- https://moonblink.info/Eclipse/eclipse/2020_01_10 -->
+<!-- https://www.timeanddate.com/eclipse/lunar/2020-january-10 -->
 
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
