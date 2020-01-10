@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
 <!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
 <!-- https://www.youtube.com/watch?v=y55092MhqZQ kamalcıların güldürmesi -->
 <!-- https://www.youtube.com/watch?v=5Hhhk7UOiHU kamalcıları hizaya sokmak  -->
