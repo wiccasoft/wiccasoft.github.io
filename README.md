@@ -10,7 +10,6 @@
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 kolpaçino özgürün sülalem raad tavırları -->
 <!-- https://www.youtube.com/watch?v=twNjR6B9fpU zuahhahahahah -->
 <!-- https://www.youtube.com/watch?v=ZrK7LyLEgeI bkz deep türkish webe girince düşen zeka seviyesi -->
-<!-- bkz cerrahpaşıların kolpaçino tayfura raconu kesmesi -->
 <!-- https://www.youtube.com/watch?v=t0OT7tkrDrI kamalcıların özgürün ekibine etek giydirmesi -->
 <!-- https://www.youtube.com/watch?v=9RA6AN3vq88 kolpaçino kamalcıların kolpaçino tayfura faydası -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
