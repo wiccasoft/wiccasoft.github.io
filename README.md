@@ -2,6 +2,7 @@
 
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz komünüzüm parayı bulana kadardır -atacücü -->
+<!--bkz türklerin atacücükü fazla büyütmesi -->
 <!--bkz tr.sputnik linki attım postayı koyması diye değiştirdim tıklayğın iki posta -->
 <!-- https://www.uludagsozluk.com/e/42690870/ bkz adalet bakanının rte ye postayı koyması -->
 <!-- https://www.youtube.com/watch?v=cHvLJ3RKgxs zuahhahahaha -->
