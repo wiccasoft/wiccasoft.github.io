@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!--bkz tr.sputnik linki attım postayı koyması diye değiştirdim tıklayğın iki posta -->
 <!-- https://www.uludagsozluk.com/e/42690870/ bkz adalet bakanının rte ye postayı koyması -->
 <!-- https://www.youtube.com/watch?v=cHvLJ3RKgxs zuahhahahaha -->
 <!-- bkz celal şengörün imamoğlandan yediği ayar -->
