@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
 <!-- bkz adalet bakanın rte ye gider ayak posta çakması -->
+<!-- https://astrologyking.com/lunar-eclipse-january-2020/ yecüc mecüc -->
 <!-- bkz 10 ocak 2020 yecüc mecücün zühur eylemesi -->
 <!-- bkz ay tutulmasında oluşacak atacüc silüeti -->
 <!-- https://eclipse.gsfc.nasa.gov/JLEX/JLEX-AS.html -->
