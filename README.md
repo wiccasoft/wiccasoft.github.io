@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- https://www.youtube.com/watch?v=8omHX8cm1rY halisin küsmesi --> 
 <!-- https://www.youtube.com/watch?v=LrtoWDnIiFk sevim koş dunkof halis geldi -->
 <!-- bkz adalet bakanın iki posta zikr çakması -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
