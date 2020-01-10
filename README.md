@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- https://www.youtube.com/watch?v=5Hhhk7UOiHU kamalcıları hizaya sokmak  -->
 <!-- bkz kolpaçino özgürü geysaraya üçlü çektirmesi -->
 <!-- bkz kolpaçino özgürün benim mermiye kafa atan yiğenlerim var demesi -->
 <!-- bkz kolpaçino özgürün erdoğancı olması -->
