@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz 10 ocak 2020 fappening ifşaları fırtınası -->
 <!-- bkz brad pittin rüzgar erkoçları ifşlaması -->
 <!-- bkz jeff bezosun demeden ifşaladığı kızın rafeti ifşalayan kız çıkması -->
 <!-- bkz deme ifşalananlar tüm arşiv .zip -->
