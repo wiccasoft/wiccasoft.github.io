@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz johnny depp in demeden yine yürümesi -->
 <!-- https://www.uludagsozluk.com/e/42691008/ bkz 16 milyon zombinin bidenesi --<
 <!-- https://www.uludagsozluk.com/e/42690906/ engel olmak isteyen kim geberin amk -->
 <!-- bkz 10 ocak 202 rafet el romanın takipten çıkıyoruz kampanyası -->
