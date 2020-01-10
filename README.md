@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz atacücenin boyu 167 ise nasıl subay yaptılar sorunsalı -->
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
 <!-- https://www.youtube.com/watch?v=LrtoWDnIiFk sevim koş dunkof halis geldi -->
 <!-- bkz adalet bakanın iki posta zikr çakması -->
