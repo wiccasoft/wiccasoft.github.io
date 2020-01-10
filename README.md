@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz uludaki ergenlerin pipisine mikrofon tutup büllük ötüyo mu la şakası yapmak -->
 <!-- bkz uludaki ergenler reşit mi sorunsalı -->
 <!-- bkz şaka maka ulucuların selin ciğercinin erkek haline benzemesi -->
 <!-- bkz selin ciğercinin rüzgar erkoçlara adamsın demesi -->
