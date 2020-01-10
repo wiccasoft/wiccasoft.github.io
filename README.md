@@ -6,22 +6,7 @@
 <!-- bkz brad pittin rüzgar erkoçları ifşlaması -->
 <!-- bkz jeff bezosun demeden ifşaladığı kızın rafeti ifşalayan kız çıkması -->
 <!-- bkz deme ifşalananlar tüm arşiv .zip -->
-<!-- bkz adolf hitler niye deme açmıyo sorunsalı -->
-<!-- bkz sergey brinin demeden ifşaladığı kız -->
-<!-- bkz ali koçun demeden yürüdüğü kızın rüzgar erkoçlar çıkması -->
-<!-- bkz rüzgar erkoçların demeyi açması -->
-<!-- bkz emre yalabıkın ifşalanmamak için demeyi kapaması -->
-<!-- bkz emre morun yürüdüğü kızın ifşacı çıkması -->
-<!-- bkz rüzgar erkoçları ifşalayan oğlanın demeden emre mora yürüyen oğlan çıkması -->
-<!-- bkz öğrencisini badeleyen din hocasının  kyk borcunun çıkması -->
-<!-- https://www.youtube.com/watch?v=ueptJlYwka0 rüzgar erkoçlar is my  girl -->
-<!-- bkz uludaki ergenlerin pipisine mikrofon tutup büllük ötüyo mu la demek  -->
-<!-- bkz şaka maka ulucuların selin ciğercinin erkek haline benzemesi -->
-<!-- bkz selin ciğercinin rüzgar erkoçlara adamsın demesi -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 eywallak koçlar -->
-<!-- https://www.uludagsozluk.com/e/42689744/ eywalla koçum götün kaşınırsa gel ara sıra -->
-<!-- https://www.youtube.com/watch?v=tC4D-bzCWJc gerizekalı ibneler -->
-<!-- https://www.youtube.com/watch?v=t0xeNrqwWco peçete artıkları -->
+<!-- https://www.youtube.com/watch?v=ueptJlYwka0 rüzgar erkoçlar is my girl -->
 <!-- https://www.youtube.com/watch?v=I0HlhQ9L99A does he look like a bitch -->
 <!-- https://www.youtube.com/watch?v=aircAruvnKk neural network -->
 <!-- https://www.youtube.com/watch?v=192Acm_S-Ss 15 Things You Didn't Know About ERich Schmidt -->
