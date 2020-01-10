@@ -3,6 +3,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz 10 ocak 2020 yecüc mecücün zühur eylemesi -->
 <!-- bkz ay tutulmasında oluşacak atacüc silüeti -->
 <!-- https://eclipse.gsfc.nasa.gov/JLEX/JLEX-AS.html -->
 <!-- https://www.ntv.com.tr/galeri/yasam/ay-tutulmasi-ne-zaman-ve-saat-kacta-10-ocak-2020-ay-tutulmasi-burclara-etkiler,2JWsni4q1UaSes04ouJoEA -->
