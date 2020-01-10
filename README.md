@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- https://www.youtube.com/watch?v=nQCfR4waWpI bence güzel olur -->
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz türklerin atacücükü fazla büyütmesi -->
 <!--bkz komünüzüm parayı bulana kadardır -atacücü -->
