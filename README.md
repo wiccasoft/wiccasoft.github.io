@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz rüzgar erkoçların demeyi açması -->
 <!-- bkz emre yalabıkın ifşalanmamak için demeyi kapaması -->
 <!-- bkz emre morun yürüdüğü kızın ifşacı çıkması -->
 <!-- bkz rüzgar erkoçları ifşalayan oğlanın demeden emre mora yürüyen oğlan çıkması -->
