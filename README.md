@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!--bkz imamaoglunun en çok bana soracaksınız saksı değilim tavırları -->
 <!-- https://www.youtube.com/watch?v=o3klq5Ic7HE imamaoglunun ne dediğinni anlaşılmaması-->
 <!-- https://www.uludagsozluk.com/e/42102395/ zuahahahahaha -->
 <!-- https://www.youtube.com/watch?v=zxdUHrtl57g ifşalandınız -->
