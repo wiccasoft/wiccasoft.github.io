@@ -1,15 +1,15 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!--bkz atacücünün komünüzm karşıtlığı -->
+<!--bkz türklerin atacücükü fazla büyütmesi -->
+<!--bkz komünüzüm parayı bulana kadardır -atacücü -->
 <!-- bkz atacücenin boyu 167 ise nasıl subay yaptılar sorunsalı -->
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
-<!-- https://www.youtube.com/watch?v=LrtoWDnIiFk sevim koş dunkof halis geldi -->
 <!-- bkz adalet bakanın iki posta zikr çakması -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
 <!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
 <!-- https://www.youtube.com/watch?v=nQCfR4waWpI bence güzel olur -->
-<!--bkz atacücünün komünüzm karşıtlığı -->
-<!--bkz türklerin atacücükü fazla büyütmesi -->
-<!--bkz komünüzüm parayı bulana kadardır -atacücü -->
+
 <!-- https://www.youtube.com/watch?v=cHvLJ3RKgxs zuahhahahaha -->
 <!-- https://www.uludagsozluk.com/e/42691008/ bkz 16 milyon zombinin bidenesi -->
 <!-- https://www.uludagsozluk.com/e/42690906/ engel olmak isteyen kim geberin amk -->
