@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!--bkz kolpaçino özgürü hüseyin abilerle parti yapması -->
 <!-- bkz kolpaçino özgürün erdoğancı olması -->
 <!-- bkz erdoğanizmin gümbür gümbür geldiği gerçeği -->
 <!-- bkz erdoğan karizması eziklğinden müzdarip kamalcılar -->
