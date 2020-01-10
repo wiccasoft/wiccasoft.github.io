@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- bkz rüzgar erkoçların paylaştığı ifşaya hayır videosu -->
 <!-- bkz fahriye evcanın ifşalanmadı iddaları -->
 <!-- bkz burak özçivitin pelin batuyu ifşalaması -->
 <!-- bkz rüzgar erkoçları ifşalayan oğlanın demeden emre mora yürüyen oğlan çıkması -->
