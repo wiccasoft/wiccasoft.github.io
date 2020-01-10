@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
 
-<!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo öcü gibi korkuyorlar mao zedong yoldaşımdan -->
+<!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz öcü gibi korkuyorlar mao zedong yoldaşımdan -->
 <!-- https://www.youtube.com/watch?v=6KxL0X9MZRA bkz atacücünün komünüzm karşıtlığı -->
 <!-- bkz türklükten aldığım keyf bambaşka - atacücü -->
 <!-- bkz komünüzüm parayı bulana kadardır - atacücü -->
