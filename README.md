@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz erdoğan karizması eziklğinden müzdadarip kamalcılar -->
 <!-- bkz facebook profilinin başına tc koyan savaş gemisi -->
 <!-- https://www.dailymotion.com/video/xcuch5 bkz erdoğanın yine ay gibi gecelere doğması -->
 <!-- https://horoscopes.astro-seek.com/neptune-retrograde-astrology-calendar-2020 -->
