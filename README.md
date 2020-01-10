@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz kolpaçino özgürün çok ta skimde size vergi mi vercem ibişler demesi -->
 <!-- bkz enes baturun vergi levhası -->
 <!-- bkz büfeci aydının vergi levhası -->
 <!-- bkz czn burakın vergi levhasını çıkarıp masaya vurması -->
