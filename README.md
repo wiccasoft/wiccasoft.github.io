@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak cinayettir -->
 <!-- https://onedio.com/haber/dm-den-mesaj-attigi-fitness-egitmeni-kadin-tarafindan-ifsa-edilen-rafet-el-roman-yine-hayal-kirikligina-ugradi-893994 -->
 <!-- https://www.youtube.com/watch?v=cVDY443zTkI 250 gr -->
 <!-- https://moonblink.info/Eclipse/eclipse/2020_01_10 -->
