@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.uludagsozluk.com/e/42102395/ zuahahahahaha -->
 <!-- bkz 10 ocak 2020 ifşalananların rezil olması -->
 <!-- https://www.kaanintavsiyesi.com/kesfet/vardir-bir-bildikleri-instagram-kullanmayan-16-unlu-oyuncu-70 -->
 <!-- https://www.youtube.com/watch?v=t2oVUxTV4WA Celebrities Read Mean Tweets #11 -->
