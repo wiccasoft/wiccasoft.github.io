@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz czn burakın vergi levhasını çıkarıp masaya vurması -->
 <!-- https://www.youtube.com/watch?v=twNjR6B9fpU zuahhahahahah -->
 <!-- https://www.youtube.com/watch?v=ZrK7LyLEgeI bkz deep türkish webe girince düşen zeka seviyesi -->
 <!-- bkz cerrahpaşıların kolpaçino tayfura raconu kesmesi -->
