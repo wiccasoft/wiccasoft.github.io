@@ -7,7 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- bkz ekşcii abilerin özgürü madara etmesi -->
+<!-- bkz ekşici abilerin özgürü madara etmesi -->
 <!-- https://www.youtube.com/watch?v=t0OT7tkrDrI kamalcıların özgürün ekibine etek giydirmesi -->
 <!-- https://www.youtube.com/watch?v=9RA6AN3vq88 kolpaçino kamalcıların ülkelerine faydası -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
