@@ -3,7 +3,7 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
 <!-- bkz imamoglunun en çok bana soracaksınız saksı değilim tavırlarının güldürmesi -->
-<!-- https://www.youtube.com/watch?v=o3klq5Ic7HE imamaoglunun ne dediğinni anlaşılmaması-->
+<!-- https://www.youtube.com/watch?v=o3klq5Ic7HE en çok bana soracaksınız -->
 <!-- https://www.uludagsozluk.com/e/42102395/ zuahahahahaha -->
 <!-- https://www.youtube.com/watch?v=zxdUHrtl57g ifşalandınız -->
 <!-- https://www.kaanintavsiyesi.com/kesfet/vardir-bir-bildikleri-instagram-kullanmayan-16-unlu-oyuncu-70 -->
