@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz kolpaçino özgürün fenerli futbolcuya demeden yürümesi -->
 <!-- bkz kolpaçino özgürün mermiye kafa atan yiğenleri olduğu iddası -->
 <!-- bkz kolpaçino özgürü hüseyin abilerle parti yapması -->
 <!-- bkz kolpaçino özgürün erdoğancı olması -->
