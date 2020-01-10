@@ -5,6 +5,7 @@
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz türklerin atacücükü fazla büyütmesi -->
 <!--bkz komünüzüm parayı bulana kadardır -atacücü -->
+<!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak  süper olur -->
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atatcücükün emrettiği maç -->
 <!--bkz tr.sputnik linki attım postayı koyması diye değiştirdim tıklayğın iki posta -->
 <!-- https://www.uludagsozluk.com/e/42690870/ bkz adalet bakanının rte ye postayı koyması -->
@@ -20,12 +21,11 @@
 <!-- bkz 10 ocak 2020 bkz rafet el romanın yine yürümesi -->
 <!-- https://twitter.com/hollywillslover/status/849374947512332288 face invaders -->
 <!-- https://www.youtube.com/watch?v=llZWUutejao geniş aile ulvi -->
-<!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak cinayettir -->
+
 <!-- https://onedio.com/haber/dm-den-mesaj-attigi-fitness-egitmeni-kadin-tarafindan-ifsa-edilen-rafet-el-roman-yine-hayal-kirikligina-ugradi-893994 -->
 <!-- https://www.youtube.com/watch?v=cVDY443zTkI 250 gr -->
 <!-- https://moonblink.info/Eclipse/eclipse/2020_01_10 -->
-<!-- https://www.youtube.com/watch?v=5_jp9CwJhcA sophia -->
-<!-- https://www.xvideos.com/video4886356/my_horny_teacher_ -->
+
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
