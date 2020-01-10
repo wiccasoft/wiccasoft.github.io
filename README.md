@@ -5,6 +5,7 @@
 
 <!-- bkz ay tutulmasında oluşan atacüc silüeti -->
 <!-- https://eclipse.gsfc.nasa.gov/JLEX/JLEX-AS.html -->
+<!-- https://www.ntv.com.tr/galeri/yasam/ay-tutulmasi-ne-zaman-ve-saat-kacta-10-ocak-2020-ay-tutulmasi-burclara-etkiler,2JWsni4q1UaSes04ouJoEA -->
 <!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz öcü gibi korkuyorlar mao zedong yoldaşımdan -->
 <!-- https://www.youtube.com/watch?v=6KxL0X9MZRA bkz atacücünün komünüzm karşıtlığı -->
 <!-- bkz türklükten aldığım keyf bambaşka - atacücü -->
