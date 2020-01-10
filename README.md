@@ -2,11 +2,11 @@
 
 <!-- bkz atacücünün komünüzm karşıtlığı -->
 <!-- https://www.uludagsozluk.com/e/42685363/ 
+<!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
 <!-- https://www.uludagsozluk.com/r/mustafa-kemal-ahlaks%C4%B1zl%C4%B1k-getirdi-1961435/ oyş -->
 <!-- https://www.porngo.com/videos/84843/elena-is-all-about-teasing-you-today./ -->
 <!-- bkz türklerin atacücükü fazla büyütmesi -->
 <!-- bkz komünüzüm parayı bulana kadardır -atacücü -->
-<!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
 <!-- bkz adalet bakanın iki posta zikr çakması -->
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
 <!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
