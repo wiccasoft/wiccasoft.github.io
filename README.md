@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz rüzgar erkoçların ifşalanmaması -->
 <!-- https://www.uludagsozluk.com/e/42102395/ zuahahahahaha -->
 <!-- bkz 10 ocak 2020 ifşalananların rezil olması -->
 <!-- https://www.kaanintavsiyesi.com/kesfet/vardir-bir-bildikleri-instagram-kullanmayan-16-unlu-oyuncu-70 -->
