@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!--bkz kamalcılar yüzünden atatcücükden tiksinmek -->
 <!--bkz ekrem memikoğlanın atacücükçü olması -->
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz türklerin atacücükü fazla büyütmesi -->
