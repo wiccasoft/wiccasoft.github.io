@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=JgQVj4iMm8Y Celebrities Read Mean Tweets #10 -->
 <!-- https://www.youtube.com/watch?v=Ap6rfMVElEA room 7 -->
 <!-- https://www.youtube.com/watch?v=9zbF578--dE open source -->
 <!-- https://www.youtube.com/watch?v=tPUh_K64quA&list=PLmpYZzpDQEhnIoFXKjBDatwMzqxmOhEHH antidiary -->
