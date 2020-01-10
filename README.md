@@ -4,7 +4,7 @@
 <!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo öcü gibi korkuyorlar mao zedong yoldaşımdan -->
 <!-- https://www.youtube.com/watch?v=6KxL0X9MZRA bkz atacücünün komünüzm karşıtlığı -->
 <!-- bkz türklükten aldığım keyf bambaşka - atacücü -->
-<!-- komünüzüm parayı bulana kadardır -atacücü -->
+<!-- bkz komünüzüm parayı bulana kadardır - atacücü -->
 <!-- https://www.uludagsozluk.com/e/42685363/ 
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
 <!-- https://www.uludagsozluk.com/r/mustafa-kemal-ahlaks%C4%B1zl%C4%B1k-getirdi-1961435/ oyş -->
