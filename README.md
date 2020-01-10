@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- bkz atacücünün komünüzm karşıtlığı -->
+<!-- https://www.youtube.com/watch?v=6KxL0X9MZRA bkz atacücünün komünüzm karşıtlığı -->
 <!-- https://www.uludagsozluk.com/e/42685363/ 
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
 <!-- https://www.uludagsozluk.com/r/mustafa-kemal-ahlaks%C4%B1zl%C4%B1k-getirdi-1961435/ oyş -->
