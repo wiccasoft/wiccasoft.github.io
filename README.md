@@ -9,7 +9,7 @@
 
 <!-- bkz kolpaçino özgürün fenerli futbolcuya demeden yürümesi -->
 <!-- bkz kolpaçino özgürün mermiye kafa atan yiğenleri olduğu iddası -->
-<!-- bkz kolpaçino özgürü hüseyin abilerle parti yapması -->
+<!-- bkz kolpaçino özgürü geysaraya üçlü çektirmesi -->
 <!-- bkz kolpaçino özgürün erdoğancı olması -->
 <!-- bkz erdoğanizmin gümbür gümbür geldiği gerçeği -->
 <!-- bkz erdoğan karizması eziklğinden müzdarip kamalcılar -->
