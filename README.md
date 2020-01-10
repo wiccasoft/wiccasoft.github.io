@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz ekotrollerin imamoğlan basuru -->
 <!-- bkz masterchef rıfat bıyığı vs ekrem imamoğlan göbeği -->
 <!-- bkz ekrem imamolanın camilere demeyi kapaması -->
 <!-- bkz johnny depp in demeden yine yürümesi -->
