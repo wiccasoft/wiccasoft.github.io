@@ -2,11 +2,8 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- bkz emre yalabıkın ifşalanmamk için demeyi kapması --< 
+<!-- bkz emre yalabıkın ifşalanmamak için demeyi kapaması -->
 <!-- bkz emre morun yürüdüğü kızın ifşacı çıkması -->
-<!-- bkz rüzgar erkoçların paylaştığı ifşaya hayır videosu -->
-<!-- bkz fahriye evcanın ifşalanmadı iddaları -->
-<!-- bkz burak özçivitin pelin batuyu ifşalaması -->
 <!-- bkz rüzgar erkoçları ifşalayan oğlanın demeden emre mora yürüyen oğlan çıkması -->
 <!-- bkz öğrencisini badeleyen din hocasının  kyk borcunun çıkması -->
 <!-- https://www.youtube.com/watch?v=ueptJlYwka0 rüzgar erkoçlar is my  girl -->
