@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
 <!-- bkz evden babası tarafından alınana nişanlı -->
 <!-- bkz ekşici abilerin özgürü madara etmesi -->
 <!-- https://www.youtube.com/watch?v=t0OT7tkrDrI kamalcıların özgürün ekibine etek giydirmesi -->
