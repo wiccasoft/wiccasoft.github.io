@@ -7,7 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!--bkz kolpaçino özgürün vibratör üstünde zıplaması -->
+<!-- bkz kolpaçino özgürün babasının  vibratörü üstünde zıplaması -->
 <!-- bkz götüne babasının vibratörünü sokan 41 yaşındaki erkek -->
 <!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
 <!-- bkz evden babası tarafından alınana nişanlı -->
