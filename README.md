@@ -9,17 +9,10 @@
 
 <!-- bkz kolpaçino rıfatın yine yürümesi -->
 <!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 kolpaçino özgürün sülalem raad tavırları -->
-<!-- https://www.youtube.com/watch?v=twNjR6B9fpU zuahhahahahah -->
-<!-- https://www.youtube.com/watch?v=ZrK7LyLEgeI bkz deep türkish webe girince düşen zeka seviyesi -->
-<!-- https://www.youtube.com/watch?v=t0OT7tkrDrI kamalcıların özgürün ekibine etek giydirmesi -->
-<!-- https://www.youtube.com/watch?v=9RA6AN3vq88 kolpaçino kamalcıların kolpaçino tayfura faydası -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
 <!-- https://www.youtube.com/watch?v=mp2bgDltfbE kolpaçino tayfur -->
 <!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
 <!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
-<!-- https://www.youtube.com/watch?v=y55092MhqZQ kamalcıların güldürmesi -->
-<!-- https://www.youtube.com/watch?v=5Hhhk7UOiHU kamalcıları hizaya sokmak  -->
 <!-- bkz kolpaçino özgürü geysaraya üçlü çektirmesi -->
 <!-- bkz kolpaçino özgürün benim mermiye kafa atan yiğenlerim var demesi -->
 <!-- bkz kolpaçino özgürün erdoğancı olması -->
