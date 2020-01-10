@@ -12,7 +12,6 @@
 <!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
 <!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
 <!-- https://www.youtube.com/watch?v=nQCfR4waWpI bence güzel olur -->
-<!-- https://www.porngo.com/videos/84843/elena-is-all-about-teasing-you-today./ -->
 <!-- https://www.youtube.com/watch?v=cVDY443zTkI 250 gr -->
 <!-- https://moonblink.info/Eclipse/eclipse/2020_01_10 -->
 <!-- https://www.timeanddate.com/eclipse/lunar/2020-january-10 -->
