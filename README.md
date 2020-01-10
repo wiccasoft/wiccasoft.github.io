@@ -1,11 +1,9 @@
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!--bkz kamalcılar yüzünden atatcücükden tiksinmek -->
-<!--bkz ekrem memikoğlanın atacücükçü olması -->
 <!--bkz atacücünün komünüzm karşıtlığı -->
 <!--bkz türklerin atacücükü fazla büyütmesi -->
 <!--bkz komünüzüm parayı bulana kadardır -atacücü -->
-<!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak  süper olur -->
+<!-- https://www.youtube.com/watch?v=tEHQLxducl0 Kanal deprem yapmaz ama kanalda şehir kurmak süper olur -->
 <!-- https://www.youtube.com/watch?v=tT4TjDj12uI atatcücükün emrettiği maç -->
 <!--bkz tr.sputnik linki attım postayı koyması diye değiştirdim tıklayğın iki posta -->
 <!-- https://www.uludagsozluk.com/e/42690870/ bkz adalet bakanının rte ye postayı koyması -->
