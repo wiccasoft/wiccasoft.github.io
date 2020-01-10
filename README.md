@@ -7,11 +7,6 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- bkz kolpaçino özgürün babasının  vibratörü üstünde zıplaması -->
-<!-- bkz götüne babasının vibratörünü sokan 41 yaşındaki erkek -->
-<!-- bkz 40 yaşından sonra ergenlerin kafa siktiği gerçeği -->
-<!-- bkz evden babası tarafından alınana nişanlı -->
-<!-- bkz ekşici abilerin özgürü madara etmesi -->
 <!-- https://www.youtube.com/watch?v=t0OT7tkrDrI kamalcıların özgürün ekibine etek giydirmesi -->
 <!-- https://www.youtube.com/watch?v=9RA6AN3vq88 kolpaçino kamalcıların ülkelerine faydası -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
