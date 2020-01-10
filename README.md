@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=PD6kGkP0FTc lol -->
 <!-- https://www.youtube.com/watch?v=Mnb_3ibUp38 big kahuna burger -->
 <!-- https://www.youtube.com/watch?v=hXfbVIFc6t4 zuhahaha-->
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernard redflag -->
