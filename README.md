@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
+<!-- https://www.youtube.com/watch?v=ruh5nAGlvMY laz mütehaitler -->
 <!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 rüzgar erkoçlar ifşası -->
 <!-- https://www.youtube.com/watch?v=o3klq5Ic7HE en çok bana soracaksınız -->
 <!-- https://www.uludagsozluk.com/e/42102395/ zuahahahahaha -->
