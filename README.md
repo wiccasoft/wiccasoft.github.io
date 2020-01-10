@@ -7,7 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- bkz kolpaçino rafetin yine yürümesi -->
+<!-- bkz kolpaçino rıfatın yine yürümesi -->
 <!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 kolpaçino özgürün sülalem raad tavırları -->
 <!-- https://www.youtube.com/watch?v=twNjR6B9fpU zuahhahahahah -->
