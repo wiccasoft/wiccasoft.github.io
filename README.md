@@ -2,7 +2,6 @@
 
 [![Image](skynet/Screenshot_2020-01-11_05-43-11.png)]( https://www.youtube.com/watch?v=GdT8eqMO4qk  )
 
-<!-- https://www.youtube.com/watch?v=X2Uusu6n2cs itogli -->
 <!-- bkz iranın yanlışlıkla kırdım demesi -->
 <!-- https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan itogli -->
 <!-- https://www.youtube.com/watch?v=IgzFPOMjiC8 pretty please sugar on top -->
