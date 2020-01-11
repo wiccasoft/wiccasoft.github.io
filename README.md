@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
-<!--bkz meyhmet aydının ekşicilerle taşşak geçmesi -->
+<!--bkz mehmet aydının ganyotçu ekşicilerle taşşak geçmesi -->
 <!--bkz softbak robotları vs çiftlikbank robotları -->
 <!--bkz akınrobotics robotlarının insanoğlunu işsizliğe sürüklemesi -->
 <!--bkz kolppaçino cüneytin kolpaçino jeff e verdiği ayar -->
