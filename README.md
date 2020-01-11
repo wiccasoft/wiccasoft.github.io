@@ -13,6 +13,7 @@
 <!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
 <!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
+<!-- https://www.dailymotion.com/video/x99fx6 kolpaçino barut -->
 
 [![Image](skynet/Screenshot_2020-01-10_15-02-08.png)]( https://astrologyking.com/lunar-eclipse-january-2020/  )
 
