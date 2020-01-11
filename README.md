@@ -6,6 +6,9 @@
 <!-- https://www.youtube.com/watch?v=Z_ka9soPeck odasına hafter posteri asan kız -->
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY hafterin olunun yumuşak yumuşak takılması -->
 <!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
+<!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
+<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
+<!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
 
 [![Image](skynet/Screenshot_2020-01-10_15-02-08.png)]( https://astrologyking.com/lunar-eclipse-january-2020/  )
 
