@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-11_15-22-26.png)]( https://www.youtube.com/watch?v=YGix73dqF0I  )
 
+<!-- https://www.youtube.com/watch?v=71cOHxYMDl4 zuahhahahahahahhaha -->
 <!-- https://www.youtube.com/watch?v=cpleQasfUjw bkz büfeci aydının imamogluna küfretmesi -->
 <!-- https://www.youtube.com/watch?v=GdT8eqMO4qk bkz iranın ukrayna jetini kazayla kırdık demesi -->
 <!-- https://www.youtube.com/watch?v=JD9wTmCP2kk kırarım boynuzunu iblis -->
