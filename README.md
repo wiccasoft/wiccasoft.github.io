@@ -7,7 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- https://www.youtube.com/watch?v=X5Yuz8L1zKQ yumuşak yumuşak -->
+<!-- https://www.youtube.com/watch?v=Z_ka9soPeck odasına hafter posteri asan kız -->
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY hafterin olunun yumuşak yumuşak takılması -->
 <!-- https://www.youtube.com/watch?v=3-gsMd9VsZc hafterin erdoya bebeğimsin çekmesi -->
 <!-- https://tr.wiktionary.org/wiki/Kam%C3%A2l hadi yine iyisiniz kamalcılar -->
