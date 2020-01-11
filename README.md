@@ -1,5 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
+<!-- loiz suarez vs kolpaçino özgür -->
+
 [![Image](skynet/Screenshot_2020-01-11_07-21-32.png)]( https://www.youtube.com/watch?v=HkyVTxH2fIM  )
 
 [![Image](skynet/Screenshot_2020-01-11_05-43-11.png)]( https://www.youtube.com/watch?v=GdT8eqMO4qk  )
