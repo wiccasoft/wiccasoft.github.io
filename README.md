@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
+<!--bkz iranın füzeyi yanluşlukla incici yiğenim atmış demesi -->
 <!--bkz ardanın bir buçuk maçlık hatrını kıran ekşiciler -->
 <!--bkz kolpaçino messinin kolpaçino suarez ısırması -->
 <!--bkz mehmet aydının ganyotçu ekşicilerle taşşak geçmesi -->
