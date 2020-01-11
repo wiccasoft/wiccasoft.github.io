@@ -1,4 +1,7 @@
 
+
+[![Image](skynet/Screenshot_2020-01-11_05-43-11.png)]( https://www.youtube.com/watch?v=GdT8eqMO4qk  )
+
 [![Image](skynet/Screenshot_2020-01-10_15-02-08.png)]( https://astrologyking.com/lunar-eclipse-january-2020/  )
 
 
