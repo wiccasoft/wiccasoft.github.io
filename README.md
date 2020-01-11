@@ -2,7 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-11_05-43-11.png)]( https://www.youtube.com/watch?v=GdT8eqMO4qk  )
 
-
+<!-- https://www.youtube.com/watch?v=o6EayWHL-ag pamuk vs demir -->
 <!-- https://www.youtube.com/watch?v=DpAHqn9w0zA beni güçlü eder -->
 <!-- https://www.youtube.com/watch?v=nvYPCNCGEK8 kolpaçino arda -->
 <!-- https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan itogli -->
