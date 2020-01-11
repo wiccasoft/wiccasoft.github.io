@@ -2,7 +2,8 @@
 
 [![Image](skynet/Screenshot_2020-01-11_05-43-11.png)]( https://www.youtube.com/watch?v=GdT8eqMO4qk  )
 
-<!-- bkz iranın yanlışlıkla kırdım demesi -->
+
+<!-- https://www.youtube.com/watch?v=DpAHqn9w0zA beni güçlü eder -->
 <!-- https://www.youtube.com/watch?v=nvYPCNCGEK8 kolpaçino arda -->
 <!-- https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan itogli -->
 <!-- https://www.youtube.com/watch?v=IgzFPOMjiC8 pretty please sugar on top -->
