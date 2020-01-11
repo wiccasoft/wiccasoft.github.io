@@ -14,11 +14,10 @@
 <!-- https://www.dailymotion.com/video/xcuch5 bkz erdoğanın yine ay gibi gecelere doğması -->
 <!-- https://horoscopes.astro-seek.com/neptune-retrograde-astrology-calendar-2020 -->
 <!-- https://horoscopes.astro-seek.com/astrology-aspects-transits-online-calendar-january-2020 -->
-<!-- bkz adalet bakanın rte ye gider ayak posta çakması -->
-<!-- bkz yecüc mecücü zühur eyleyince it gibi dağılan akpliler -->
+<!-- bkz yecüc mecücü zühur eyleyince it gibi dağılan ganyotçular -->
 <!-- https://astrologyking.com/lunar-eclipse-january-2020/ yecüc mecüc -->
 <!-- bkz 10 ocak 2020 yecüc mecücün zühur eylemesi -->
-<!-- bkz ay tutulmasında oluşacak atacüc silüeti -->
+<!-- bkz ay tutulmasında oluşan atacüc silüeti -->
 <!-- https://eclipse.gsfc.nasa.gov/JLEX/JLEX-AS.html -->
 <!-- https://www.ntv.com.tr/galeri/yasam/ay-tutulmasi-ne-zaman-ve-saat-kacta-10-ocak-2020-ay-tutulmasi-burclara-etkiler,2JWsni4q1UaSes04ouJoEA -->
 <!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz öcü gibi korkuyorlar mao zedong yoldaşımdan -->
