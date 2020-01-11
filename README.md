@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
-<!--bkz kolpaçino erdoğan kolpaçino loiz bırakırsa ben de bırakırım açıklaması -->
+<!--bkz kolpaçino erdoğanın kolpaçino loiz bırakırsa ben de bırakırım açıklaması -->
 <!--bkz erdoğanın paylaştığı lois suarez fotosu -->
 <!--bkz emre morun yine yürümesi -->
 <!--bkz loiz suarezin dişlerine bakım yaptırması -->
