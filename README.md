@@ -3,7 +3,7 @@
 <!--bkz emre morun yine yürümesi -->
 <!--bkz loiz suarezin ısırdığı köpeğin ölmesi -->
 <!--bkz arda turan vs rafet el roman -->
-<!--bkz loiz suarez vs kolpaçino özgür -->
+<!--bkz kolpaçino ekrem vs kolpaçino özgür -->
 
 [![Image](skynet/Screenshot_2020-01-11_07-21-32.png)]( https://www.youtube.com/watch?v=HkyVTxH2fIM  )
 
