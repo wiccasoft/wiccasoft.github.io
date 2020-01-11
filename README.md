@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
 <!--bkz emre morun yine yürümesi -->
+<!--bkz akınroboticsin ronotlarının kolpaçina loiz suarezi ısırması -->
 <!--bkz loiz suarezin ısırdığı köpeğin ölmesi -->
 <!--bkz arda turan vs rafet el roman -->
 <!--bkz kolpaçino ekrem vs kolpaçino özgür -->
