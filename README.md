@@ -10,70 +10,12 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- https://www.youtube.com/watch?v=GdT8eqMO4qk bkz iranın ukrayna jetini kazayla kırdık demesi -->
-<!-- https://www.youtube.com/watch?v=JD9wTmCP2kk kırarım boynuzunu iblis -->
-<!-- https://www.youtube.com/watch?v=Z_ka9soPeck odasına hafter posteri asan kız -->
-<!-- https://www.youtube.com/watch?v=8omHX8cm1rY hafterin olunun yumuşak yumuşak takılması -->
-<!-- https://www.youtube.com/watch?v=3-gsMd9VsZc hafterin erdoya bebeğimsin çekmesi -->
-<!-- https://tr.wiktionary.org/wiki/Kam%C3%A2l hadi yine iyisiniz kamalcılar -->
-<!-- https://odatv.com/kaml-ismi-nereden-geliyor-1411151200.html bkz hafterin erdoya 8 kamal yollaması -->
-<!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
-<!-- https://www.facebook.com/watch/?v=1000076430031663 rte nin kartları adam gibi dağıt demesi -->
-<!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
-<!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
-<!-- https://www.dailymotion.com/video/xcuch5 bkz erdoğanın yine ay gibi gecelere doğması -->
-<!-- https://horoscopes.astro-seek.com/neptune-retrograde-astrology-calendar-2020 -->
-<!-- https://horoscopes.astro-seek.com/astrology-aspects-transits-online-calendar-january-2020 -->
-<!-- bkz yecüc mecücü zühur eyleyince it gibi dağılan ganyotçular -->
-<!-- https://astrologyking.com/lunar-eclipse-january-2020/ yecüc mecüc -->
-<!-- bkz 10 ocak 2020 yecüc mecücün zühur eylemesi -->
-<!-- bkz ay tutulmasında oluşan atacüc silüeti -->
-<!-- https://eclipse.gsfc.nasa.gov/JLEX/JLEX-AS.html -->
-<!-- https://www.ntv.com.tr/galeri/yasam/ay-tutulmasi-ne-zaman-ve-saat-kacta-10-ocak-2020-ay-tutulmasi-burclara-etkiler,2JWsni4q1UaSes04ouJoEA -->
-<!-- https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz öcü gibi korkuyorlar mao zedong yoldaşımdan -->
-<!-- https://www.youtube.com/watch?v=6KxL0X9MZRA bkz atacücünün komünüzm karşıtlığı -->
-<!-- bkz komünüzüm parayı bulana kadardır - atacücü -->
-<!-- https://www.uludagsozluk.com/e/42685363/ 
-<!-- https://www.youtube.com/watch?v=8omHX8cm1rY iyestanın yumuşak yumaşak takılması --> 
-<!-- https://www.uludagsozluk.com/r/mustafa-kemal-ahlaks%C4%B1zl%C4%B1k-getirdi-1961435/ oyş -->
-<!-- bkz türklerin atacücükü fazla büyütmesi -->
-<!-- https://www.porngo.com/videos/84843/elena-is-all-about-teasing-you-today./ -->
-<!-- bkz adalet bakanın iki posta zikr çakması -->
-<!-- https://www.youtube.com/watch?v=Ww5jScH4fXY cuma zikri -->
-<!-- https://www.youtube.com/watch?v=hT_nvWreIhg cuma zikri sonrası gelen rahatlık -->
-<!-- https://www.youtube.com/watch?v=nQCfR4waWpI bence güzel olur -->
-<!-- https://www.youtube.com/watch?v=cVDY443zTkI 250 gr -->
 <!-- https://moonblink.info/Eclipse/eclipse/2020_01_10 -->
 <!-- https://www.timeanddate.com/eclipse/lunar/2020-january-10 -->
 
 
 [![Image](skynet/Screenshot_2020-01-08_09-48-48.png)]( https://www.youtube.com/watch?v=kO8fTk6oKQg  )
 
-<!-- https://www.youtube.com/watch?v=ruh5nAGlvMY laz müteahhitler -->
-<!-- https://www.youtube.com/watch?v=o3klq5Ic7HE en çok bana soracaksınız -->
-<!-- https://www.uludagsozluk.com/e/42102395/ zuahahahahaha -->
-<!-- https://www.youtube.com/watch?v=zxdUHrtl57g ifşalandınız -->
-<!-- https://www.porngo.com/videos/87656/elena-is-ready-to-sightsee--but-wants-to-be-naughty-first./?sid=12320 -->
-<!-- https://www.youtube.com/watch?v=c7IoBRRBiX8 rüzgar erkoçlar ifşası -->
-<!-- https://www.kaanintavsiyesi.com/kesfet/vardir-bir-bildikleri-instagram-kullanmayan-16-unlu-oyuncu-70 -->
-<!-- https://www.youtube.com/watch?v=t2oVUxTV4WA Celebrities Read Mean Tweets #11 -->
-<!-- https://www.youtube.com/watch?v=JgQVj4iMm8Y Celebrities Read Mean Tweets #10 -->
-<!-- https://www.youtube.com/watch?v=Ap6rfMVElEA room 7 -->
-<!-- https://www.youtube.com/watch?v=9zbF578--dE open source -->
-<!-- https://www.youtube.com/watch?v=PD6kGkP0FTc patriots -->
-<!-- https://www.youtube.com/watch?v=Mnb_3ibUp38 big kahuna burger -->
-<!-- https://www.youtube.com/watch?v=hXfbVIFc6t4 zuhahaha-->
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bernard redflag -->
-<!-- https://www.youtube.com/watch?v=qNa38FQJftg Klanpesiamus -->
-<!-- https://www.youtube.com/watch?v=EKaDDlFANnA&list=PL1QDHDaT6nXSEW0kPXKmK97Y6aO9dWkYW rönt -->
-<!-- https://www.youtube.com/watch?v=3vXPo7lNYzk stayin alive -->
-<!-- https://www.youtube.com/watch?v=W2rWnh4HvFY tinderci kızın hazin sonu -->
-<!-- https://www.youtube.com/watch?v=r-Qp9CWaba4 my friends hot mom -->
-<!-- https://www.xvideos.com/video10617581/kylie_worthy_gets_a_lot_of_lee_stone -->
-<!-- https://www.reddit.com/r/rule34celebs/comments/cz5gse/ivanka_and_vladimir/ hangi oç yaptı bunu -->
-<!-- https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar asyalı kullar -->
-<!-- https://www.youtube.com/watch?v=Jl9pvncOh3Y zucklandınız -->
 
 [![Image](skynet/Screenshot_2020-01-08_07-42-36.png)]( https://www.youtube.com/watch?v=v83FvlLIqAk  )
 
