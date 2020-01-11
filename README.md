@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-11_15-22-26.png)]( https://www.youtube.com/watch?v=YGix73dqF0I  )
 
-<!-- https://www.youtube.com/watch?v=ssPSRBU1AkM -->
+<!-- https://www.youtube.com/watch?v=ssPSRBU1AkM kolpaçino demet-->
 
 [![Image](skynet/Screenshot_2020-01-11_13-56-48.png)]( https://www.youtube.com/watch?v=nmkv8whDmz0  )
 
