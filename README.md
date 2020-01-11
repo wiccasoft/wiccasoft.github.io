@@ -7,7 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
-<!-- bkz iranın ukrayna jetini kazayla vurduk demesi -->
+<!-- bkz iranın ukrayna jetini kazayla kırdık demesi -->
 <!-- https://www.youtube.com/watch?v=JD9wTmCP2kk kırarım boynuzunu iblis -->
 <!-- https://www.youtube.com/watch?v=Z_ka9soPeck odasına hafter posteri asan kız -->
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY hafterin olunun yumuşak yumuşak takılması -->
