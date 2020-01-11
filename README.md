@@ -4,24 +4,6 @@
 
 [![Image](skynet/Screenshot_2020-01-11_05-43-11.png)]( https://www.youtube.com/watch?v=GdT8eqMO4qk  )
 
-<!-- https://www.youtube.com/watch?v=QsaG8rJGlyQ blackmamba -->
-<!-- https://www.youtube.com/watch?v=EfAsNffCjsM müptezel samet -->
-<!-- https://www.youtube.com/watch?v=o6EayWHL-ag pamuk vs demir -->
-<!-- https://www.youtube.com/watch?v=DpAHqn9w0zA beni güçlü eder -->
-<!-- https://www.youtube.com/watch?v=nvYPCNCGEK8 kolpaçino arda -->
-<!-- https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan itogli -->
-<!-- https://www.youtube.com/watch?v=IgzFPOMjiC8 pretty please sugar on top -->
-<!-- https://www.facebook.com/watch/?v=1000076430031663 restine rest ulan -->
-<!-- https://www.youtube.com/watch?v=JD9wTmCP2kk kırarım boynuzunu iblis -->
-<!-- https://www.youtube.com/watch?v=Z_ka9soPeck odasına hafter posteri asan kız -->
-<!-- https://www.youtube.com/watch?v=8omHX8cm1rY hafterin olunun yumuşak yumuşak takılması -->
-<!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
-<!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
-<!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
-<!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
-<!-- https://www.dailymotion.com/video/x99fx6 kolpaçino barut -->
-<!-- https://www.youtube.com/watch?v=1zd4lTPxuB0 kolpaçino gabriel -->
-
 [![Image](skynet/Screenshot_2020-01-10_15-02-08.png)]( https://astrologyking.com/lunar-eclipse-january-2020/  )
 
 
