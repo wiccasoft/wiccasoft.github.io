@@ -9,11 +9,8 @@
 
 <!-- https://www.youtube.com/watch?v=plRA82CVgNY pozitif adam -->
 <!-- https://www.youtube.com/watch?v=NXQJ9iR5BkA sapık ismet -->
-<!-- https://www.youtube.com/watch?v=mp2bgDltfbE kolpaçino tayfur -->
 <!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
 <!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydın -->
-<!-- bkz erdoğan karizması eziklğinden müzdarip kamalcılar -->
-<!-- bkz facebook profilinin başına tc koyan savaş gemisi -->
 <!-- https://www.dailymotion.com/video/xcuch5 bkz erdoğanın yine ay gibi gecelere doğması -->
 <!-- https://horoscopes.astro-seek.com/neptune-retrograde-astrology-calendar-2020 -->
 <!-- https://horoscopes.astro-seek.com/astrology-aspects-transits-online-calendar-january-2020 -->
