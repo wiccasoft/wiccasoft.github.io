@@ -1,6 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
-
+<!--bkz kolpaçino messinin kolpaçino suarez ısırması -->
 <!--bkz mehmet aydının ganyotçu ekşicilerle taşşak geçmesi -->
 <!--bkz kolpaçino ekrem vs kolpaçino özgür -->
 
