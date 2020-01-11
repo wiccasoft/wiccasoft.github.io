@@ -1,8 +1,11 @@
 [![Image](skynet/Screenshot_2020-01-11_13-56-48.png)]( https://www.youtube.com/watch?v=nmkv8whDmz0  )
 
+<!-- https://www.youtube.com/watch?v=nmkv8whDmz0 bkz suarezin kolpaçino erdalı yemesi -->
+
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
 <!--https://www.youtube.com/watch?v=XjFh4Jtvupo kolpaçino karayel -->
+
 
 [![Image](skynet/Screenshot_2020-01-11_07-21-32.png)]( https://www.youtube.com/watch?v=HkyVTxH2fIM  )
 
