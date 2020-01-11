@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
+<!--bkz erdoğanın paylaştığı lois suarez fotosu -->
 <!--bkz emre morun yine yürümesi -->
 <!--bkz loiz suarezin dişlerine bakım yaptırması -->
 <!--bkz akınroboticsin robotlarının kolpaçina loizi ısırması -->
