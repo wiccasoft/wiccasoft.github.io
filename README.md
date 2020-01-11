@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_13-56-48.png)]( https://www.youtube.com/watch?v=nmkv8whDmz0  )
 
+<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel -->
 <!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo jessin kılları -->
 <!-- https://www.youtube.com/watch?v=nmkv8whDmz0 bkz suarezin kolpaçino erdalı yemesi -->
 
