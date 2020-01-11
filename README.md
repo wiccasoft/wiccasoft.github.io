@@ -7,6 +7,7 @@
 <!-- bkz memet ali erbilin yürüdüğü kızları affetmemesi -->
 <!-- bkz memet ali erbilin kendinden 22 yaş küçük sevgilisi -->
 <!-- bkz kolpaçibo özgürün memet ali erbilin yürüdüğü kıza yürümesi -->
+<!-- bkz azrailin memet ali erbili komik diye öldürmemesi -->
 <!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 JHAHAHAHHAA ->
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel -->
 <!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo jessin kılları -->
