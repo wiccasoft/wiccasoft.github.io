@@ -7,6 +7,7 @@
 
 [![Image](skynet/Screenshot_2019-12-14_02-47-07.png)]( https://www.youtube.com/watch?v=aircAruvnKk  )
 
+<!-- https://tr.wiktionary.org/wiki/Kam%C3%A2l hadi yine iyisiniz kamalcılar -->
 <!-- https://odatv.com/kaml-ismi-nereden-geliyor-1411151200.html bkz hafterin erdoya 20 kamal yollaması -->
 <!-- https://www.youtube.com/watch?v=54yDb6ikFAE ganyotçu ekrem ve arkadaşları -->
 <!-- https://www.facebook.com/watch/?v=1000076430031663 rte nin kartları adam gibi dağıt demesi -->
