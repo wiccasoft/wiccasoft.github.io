@@ -1,10 +1,10 @@
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
 
+<!-- bkz ogün samast vs cem garipoğlu -->
+<!-- bkz ulucu kızların koca adamlara çocuk demesi -->
 <!--bkz recep tayyip erdoğanın paylaştığı tuğçe kazaz pozu -->
 <!-- https://www.uludagsozluk.com/e/42699856/ bkz dilek imamoglu pkklı buluşması -->
 <!-- https://www.uludagsozluk.com/e/42699734/ bkz ak pkk lıların it gibi kaçtığı gerçek -->
-<!-- bkz ogün samast vs cem garipoğlu -->
-<!-- bkz ulucu kızların koca adamlara çocuk demesi -->
 <!--bkz 41 yaşında uzun boylu kaslı zengin sarışın yakışıklı mavi gözlü ülkücü -->
 <!-- https://www.uludagsozluk.com/e/42699837/ abdullah çatlının hoplatacağı versus -->
 <!-- https://www.uludagsozluk.com/e/42698981/ lol -->
