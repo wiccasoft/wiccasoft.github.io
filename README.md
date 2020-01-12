@@ -1,18 +1,8 @@
 
 [![Image](skynet/Screenshot_2020-01-11_15-22-26.png)]( https://www.youtube.com/watch?v=YGix73dqF0I  )
 
-<!-- https://www.youtube.com/watch?v=71cOHxYMDl4 zuahhahahahahahhaha -->
-<!-- https://www.youtube.com/watch?v=cpleQasfUjw büfeci aydının imamogluna küfretmesi -->
-<!-- https://www.youtube.com/watch?v=GdT8eqMO4qk iranın ukrayna jetini kazayla kırdık demesi -->
-<!-- https://www.youtube.com/watch?v=JD9wTmCP2kk kırarım boynuzunu iblis -->
-<!-- https://www.youtube.com/watch?v=8omHX8cm1rY hafterin olunun yumuşak yumuşak takılması -->
-<!-- https://www.youtube.com/watch?v=w6g_YBvK3WU horoz dövüşü -->
-<!-- https://www.youtube.com/watch?v=ssPSRBU1AkM kolpaçino demet-->
-
 [![Image](skynet/Screenshot_2020-01-11_13-56-48.png)]( https://www.youtube.com/watch?v=nmkv8whDmz0  )
 
-<!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 JHAHAHAHHAA ->
-<!-- https://www.youtube.com/watch?v=nmkv8whDmz0 bkz suarezin kolpaçino erdalı yemesi -->
 
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
 
