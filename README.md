@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
 
+<!-- https://www.uludagsozluk.com/e/42699904/ lol -->
 <!-- https://www.youtube.com/watch?v=8omHX8cm1rY zuahahahhahaha -->
 <!-- https://www.youtube.com/watch?v=224nx8msD8k bkz ganyotçu ekrem -->
 <!-- https://www.youtube.com/watch?v=w6g_YBvK3WU bkz dilek imamaoğlunun ihale için kocasını hazırlaması -->
