@@ -12,14 +12,9 @@
 [![Image](skynet/Screenshot_2020-01-11_13-56-48.png)]( https://www.youtube.com/watch?v=nmkv8whDmz0  )
 
 <!-- https://www.youtube.com/watch?v=TCcSrDzRRJk&list=RDwQI_MVUEjA8&index=11 JHAHAHAHHAA ->
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel -->
-<!-- https://www.youtube.com/watch?v=KH-Ag4uhFjo jessin kılları -->
 <!-- https://www.youtube.com/watch?v=nmkv8whDmz0 bkz suarezin kolpaçino erdalı yemesi -->
 
 [![Image](skynet/Screenshot_2020-01-11_09-44-42.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ  )
-
-<!--https://www.youtube.com/watch?v=XjFh4Jtvupo kolpaçino karayel -->
-
 
 [![Image](skynet/Screenshot_2020-01-11_07-21-32.png)]( https://www.youtube.com/watch?v=HkyVTxH2fIM  )
 
