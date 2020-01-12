@@ -1,4 +1,4 @@
-[![Image]((skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.youtube.com/watch?v=d8-soriINcA  )
+[![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.youtube.com/watch?v=d8-soriINcA  )
 
 [![Image](skynet/Screenshot_2020-01-11_18-56-03.png)]( https://www.nytimes.com/2020/01/11/world/middleeast/iran-air-flight-655-history.html  )
 
