@@ -1,6 +1,8 @@
 
 [![Image](skynet/Screenshot_2020-01-11_15-22-26.png)]( https://www.youtube.com/watch?v=YGix73dqF0I  )
 
+<!-- https://meghanhetrick.com/wp-content/uploads/2017/11/birth-of-venus-sandro-botticelli.jpg venus enters pisces -->
+
 [![Image](skynet/Screenshot_2020-01-11_13-56-48.png)]( https://www.youtube.com/watch?v=nmkv8whDmz0  )
 
 
