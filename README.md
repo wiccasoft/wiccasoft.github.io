@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
 
+<!-- https://www.uludagsozluk.com/e/42698981/ lol -->
 
 [![Image](skynet/Screenshot_2020-01-11_18-56-03.png)]( https://www.nytimes.com/2020/01/11/world/middleeast/iran-air-flight-655-history.html  )
 
