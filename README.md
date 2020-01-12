@@ -1,14 +1,12 @@
 
 [![Image](skynet/Screenshot_2020-01-12_16-13-45.png)]( https://www.youtube.com/watch?v=X189pdWjRjA  )
 
+
 [![Image](skynet/Screenshot_2020-01-12_10-47-22.png)]( https://www.youtube.com/watch?v=-GOa4h_qSrM  )
 
 <!-- 
 https://www.youtube.com/watch?v=X189pdWjRjA spontane
 https://www.youtube.com/watch?v=9sPHaPhBhzU 3 in 1
-https://www.youtube.com/watch?v=WAMupz_a07M get in line
-https://www.youtube.com/watch?v=r8zI7f-AxJI get in right point
-https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır 
 --> 
 
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
