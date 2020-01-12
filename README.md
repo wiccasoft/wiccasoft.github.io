@@ -1,10 +1,12 @@
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
 
+
 [![Image](skynet/Screenshot_2020-01-11_18-56-03.png)]( https://www.nytimes.com/2020/01/11/world/middleeast/iran-air-flight-655-history.html  )
 
 [![Image](skynet/Screenshot_2020-01-11_15-22-26.png)]( https://www.youtube.com/watch?v=YGix73dqF0I  )
 
 <!-- 
+https://github.com/mgvez/planet-positions
 https://www.youtube.com/watch?v=d8-soriINcA venus enters pisces
 https://meghanhetrick.com/wp-content/uploads/2017/11/birth-of-venus-sandro-botticelli.jpg  
 -->
