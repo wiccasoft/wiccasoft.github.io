@@ -8,6 +8,7 @@
 <!-- 
 https://github.com/mgvez/planet-positions
 https://www.youtube.com/watch?v=d8-soriINcA venus enters pisces
+http://www.galatasarayhamami.com/2013/02/
 https://meghanhetrick.com/wp-content/uploads/2017/11/birth-of-venus-sandro-botticelli.jpg  
 -->
 
