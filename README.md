@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-12_10-47-22.png)]( https://www.youtube.com/watch?v=-GOa4h_qSrM  )
 
+<!-- https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır --> 
 
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
 
