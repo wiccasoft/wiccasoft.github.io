@@ -1,5 +1,5 @@
 
-[![Image](skynet/Screenshot_2020-01-12_19-51-59.png.png)]( https://www.theguardian.com/technology/2020/jan/12/huawei-technology-poses-no-threat-to-uk-security-ex-mi5-head )
+[![Image](skynet/Screenshot_2020-01-12_19-51-59.png)]( https://www.theguardian.com/technology/2020/jan/12/huawei-technology-poses-no-threat-to-uk-security-ex-mi5-head )
 
 
 [![Image](skynet/Screenshot_2020-01-12_18-54-11.png)]( https://www.youtube.com/watch?v=wIft-t-MQuE  )
