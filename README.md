@@ -1,6 +1,6 @@
 
 <!--
-bkz serdar ortaçın orta asyadan geldiğinin kanıtı
+bkz serdar ortaçın asıl türk biziz açıklaması
 bkz turancılar kürtçüler arasındaki elektrink
 bkz enver paşa ispet paşa arasındaki dostluk
 bkz ahmet kayanın ülkü ocaklarına girip gafama sıgar giderim demesi
