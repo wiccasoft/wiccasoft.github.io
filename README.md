@@ -1,5 +1,6 @@
 
 <!--
+bkz biy eykeğin telefonu yoksa tavlama yollayı
 bkz telefonu olmayan biy eykeği whatsupta ekleme yolları
 https://www.youtube.com/watch?v=VJOKPJVYwNM
 bkz uzaydaki türk değilse yüktür diyen türk
