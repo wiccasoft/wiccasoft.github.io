@@ -1,5 +1,6 @@
 
 <!--
+bkz uludaki ergenlerin babalarını sikerek öldürme isteği
 https://www.uludagsozluk.com/e/42710628/ baabanın götüne koyayım oç
 bkz telefonu olmayan mutlu erkek
 bkz telefonu olmayan erkeği sosyal medyada arayan kızların güldürmesi
