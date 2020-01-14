@@ -1,5 +1,6 @@
 
 <!-- 
+bkz hande erçel ben poça suratlı değilim tamam maaaaaaaa demesi
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
 bkz fatih portakalı kapatıp güneye yerleşmek
 https://twitter.com/kamilmakarna/status/1024737292123037696 bkz gel gel panayır var
