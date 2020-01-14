@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+https://www.uludagsozluk.com/k/lazistan-k%C3%BCrdistan-sava%C5%9F%C4%B1/ bkz ismail türüt cengiz ümren kavgası
 bkz tuğçe kazazın yerim uzun adamın yeridir tweetine tehditler yağması
 https://www.youtube.com/watch?v=VJOKPJVYwNM 
 bkz tuğçe kazazın hayallerde yaşadığı gerçeği
