@@ -1,5 +1,6 @@
 
 <!-- 
+bkz uzaydaki türk değilse yüktür diyen türk
 bkz türklükten aldığım keyfi başk hiç bişeyden almadım diyen türk
 bkz ilk türk astronotun türk önde türk ileri diyip uzayda yürümesi
 bkz ayrılıkçı türklerin türk önde türk ileri demesi
