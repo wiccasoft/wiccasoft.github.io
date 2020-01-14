@@ -1,7 +1,7 @@
 
 <!--
+bkz facebook tan eklenen dayının turancı çıkması
 https://www.youtube.com/watch?v=PCmHE7juO9I adam gibi anlat oç
-bkz fakirlerin sosyal medyaya hapsolması 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz facebook instagram twitter kullanacak kadar fakir olmak
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
