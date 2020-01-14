@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
-bkz calbin harrisin tuğçe kazaz a yürümesi
+https://www.youtube.com/watch?v=ebXbLfLACGM bkz calvin harrisin tuğçe kazaz a yürümesi
 https://www.uludagsozluk.com/e/42709318/ sevdiceğime laf etmeyün bacanağınızı sükerün ha
 https://www.uludagsozluk.com/e/42709182/ din dediğin nedir gülüm ben senin için sünnet olurum
 https://www.uludagsozluk.com/k/dinsiz-bir-erke%C4%9Fin-size-a%C5%9F%C4%B1k-olmas%C4%B1/
