@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz boyunu 1 cm uzun söyleyen ruhsuz ve hain erkek
+bkz 171 boyundaki erkek vs 169 boyundaki erkek
 bkz 170 boyundaki erkek vs 168 boyundaki erkek
 bkz 168 oğlak erkeği 188 balık erkeği ilişkisi
 https://www.uludagsozluk.com/e/42708875/ bkz türklerin bomba gibi geldiği gerçeği
