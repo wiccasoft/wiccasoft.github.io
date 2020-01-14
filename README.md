@@ -1,5 +1,6 @@
 
 <!-- 
+bkz ilk türk astronotun türk önde türk ileri diyip uzayda yürümesi
 bkz ayrılıkçı türklerin türk önde türk ileri demesi
 bkz ayrılıkçı türkleri sikertip atrıkıçı kürt yapmak
 bkz hojlaşılan kızını babasını sikertip öldürüp jest yapmak
