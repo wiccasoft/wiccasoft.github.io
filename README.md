@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz 167 boyunda ince belli ince elli erkek
 bkz atacücün 167 boyunda olduğu gerçei
 bkz calvin harris  171 lik erkek ilişkisi
 bkz taylor swiftin uzun erkek tercihi
