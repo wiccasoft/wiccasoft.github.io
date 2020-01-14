@@ -1,5 +1,6 @@
 
 <!--
+https://www.youtube.com/watch?v=VJOKPJVYwNM zuhahahahahha
 bkz serdar ortaçın asıl türk biziz açıklaması
 bkz turancılar kürtçüler arasındaki elektrink
 bkz enver paşa ispet paşa arasındaki dostluk
