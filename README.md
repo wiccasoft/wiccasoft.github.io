@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+https://www.uludagsozluk.com/e/42709182/ din dediğin nedir gülüm ben senin için sünnet olurum
+https://www.uludagsozluk.com/k/dinsiz-bir-erke%C4%9Fin-size-a%C5%9F%C4%B1k-olmas%C4%B1/
 bkz tuğçe kazanın atacüccülerden ölüm tehdidi alması
 bkz sevilen sanatçının ölüm tehditleri yüzünden tweeter ı kapaması
 bkz aleyna tilkinin ölüm tehditleri vız gelir tırıs gider tweeti
