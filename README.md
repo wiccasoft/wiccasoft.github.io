@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz ilk buluşmaya 5 cm topukluyla gelen erkek
 bkz 166 olup 167 im diyen erkek
 bkz boyunu 1 cm uzun söyleyen ruhsuz ve hain erkek
 bkz 171 boyundaki erkek vs 169 boyundaki erkek
