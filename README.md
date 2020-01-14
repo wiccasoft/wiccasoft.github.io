@@ -1,5 +1,6 @@
+<!-- bkz fatih portakalı kapatıp güneye yerleşmek -->
 <!-- bkz fatih portakalın portakallı viski içmesi -->
-<!--bkz bileği ince işveli ince belli erkek -->
+<!-- bkz bileği ince işveli ince belli erkek -->
 <!-- bkz fatih portakal kapatılsın kampanyası -->
 <!-- https://www.uludagsozluk.com/e/42709502/ zuahhahaha -->
 <!-- https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-vs-osmanl%C4%B1-kad%C4%B1n%C4%B1/ -->
