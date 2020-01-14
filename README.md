@@ -2,7 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
-https://twitter.com/kamilmakarna/status/1024737292123037696 geleceğiniz varsa göreceğiniz de var
+geleceğiniz varsa göreceğiniz de var
+https://twitter.com/kamilmakarna/status/1024737292123037696 
 https://www.uludagsozluk.com/k/pkk-bitti-bitiyor/&w=bg bitti demediniz mi lan
 https://www.uludagsozluk.com/k/hafter-ne-istiyor/ beence yarrak istiyor
 bkz ismail türüt cengiz ümren kavgası
