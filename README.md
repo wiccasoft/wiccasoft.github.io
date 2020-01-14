@@ -1,5 +1,6 @@
 
 <!-- 
+bkz türk olmayan oç leri gebertip yeni ne mutlu türkçü dünya düzenini kurmak
 bkz alpaslan türkeşin hande erçele yürümesi
 bkz hande erçel ben poça suratlı değilim tamam maaaaaaaa demesi
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
