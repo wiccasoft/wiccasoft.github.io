@@ -2,44 +2,6 @@
 <!--
 bkz fakirlerin sosyal medyaya hapsolması 
 bkz facebook instagram twitter kullancak kadar fakir olmak
-bkz jeff bezosun rihanna ya demeden yürümesi
-bkz facebook instagram tweeterı olmayan ezik erkek 
-bkz enver paşa ismet paşa arasındaki dostluk
-bkz rte nin instagramı bırakması
-https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama benena
-https://www.uludagsozluk.com/e/42706938/ hayallerde yaşıyor bazı zombiler
-https://www.uludagsozluk.com/e/42710663/ ibb çok seven ibneler
-https://www.uludagsozluk.com/e/42710656/ ananı bile siker oç
-https://www.youtube.com/watch?v=PCmHE7juO9I adam gibi başlık aç oç
-bkz uludaki ergenlerin babalarını sikerek öldürme isteği
-https://www.uludagsozluk.com/e/42710628/ babanın götüne koyayım oç
-bkz telefonu olmayan mutlu erkek
-bkz telefonu olmayan erkeği sosyal medyada arayan kızların güldürmesi
-https://www.youtube.com/watch?v=VJOKPJVYwNM zuhahahahahha
-bkz serdar ortaçın asıl türk biziz açıklaması
-bkz turancılar kürtçüler arasındaki elektrink
-bkz enver paşa ispet paşa arasındaki dostluk
-bkz ahmet kayanın ülkü ocaklarına girip gafama sıgar giderim demesi
-bkz facebook turancı ülkücüler grubundan erkek düşürmek
-bkz turancı erkeği facebooktan dürtüp eklemek
-bkz facebook twşitter instagtter kullnamayan erkek adam mıdır sorunsalı
-bkz facebook instagram twiter kullanmayan erkekleri tespit edip cimere şikayet etmek
-bkz rasgele biy eykeği arayıp alo ne goyyim demek
-https://www.dailymotion.com/video/xjp0z9
-bkz biy eykeğin tewlefon numarasını alma yolları
-bkz biy eykeğin telefonu yoksa tavlama yollayı
-bkz telefonu olmayan biy eykeği whatsupta ekleme yolları
-https://www.youtube.com/watch?v=VJOKPJVYwNM
-bkz uzaydaki türk değilse yüktür diyen türk
-bkz türklükten aldığım keyfi başk hiç bişeyden almadım diyen türk
-bkz ilk türk astronotun türk önde türk ileri diyip uzayda yürümesi
-bkz ayrılıkçı türklerin türk önde türk ileri demesi
-bkz ayrılıkçı türkleri sikertip atrıkıçı kürt yapmak
-bkz hojlaşılan kızını babasını sikertip öldürüp jest yapmak
-bkz hande reçelin poaçayı reçelli yemesi
-bkz türk olmayan oç leri gebertip yeni ne mutlu türkçü dünya düzenini kurmak
-bkz alpaslan türkeşin hande erçele yürümesi
-bkz hande erçel ben poça suratlı değilim tamam maaaaaaaa demesi
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
 bkz fatih portakalı kapatıp güneye yerleşmek
 https://twitter.com/kamilmakarna/status/1024737292123037696 bkz gel gel panayır var
