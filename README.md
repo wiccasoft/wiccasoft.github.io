@@ -1,5 +1,6 @@
 
 <!-- 
+bkz ayrılıkçı türkleri sikertip atrıkıçı kürt yapmak
 bkz hojlaşılan kızını babasını sikertip öldürüp jest yapmak
 bkz hande reçelin poaçayı reçelli yemesi
 bkz türk olmayan oç leri gebertip yeni ne mutlu türkçü dünya düzenini kurmak
