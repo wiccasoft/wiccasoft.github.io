@@ -1,9 +1,12 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
-<!-- https://biblehub.com/genesis/1-3.htm 
+<!-- 
+https://biblehub.com/genesis/1-3.htm 
 https://www.youtube.com/watch?v=3OYJVrjdUrI
-Then God said, “Let there be light,” and there was light. -->
+Then God said, “Let there be light,” and there was light. 
+https://www.porngo.com/videos/87656/elena-is-ready-to-sightsee--but-wants-to-be-naughty-first./
+-->
 
 [![Image](skynet/Screenshot_2020-01-12_19-51-59.png)]( https://www.theguardian.com/technology/2020/jan/12/huawei-technology-poses-no-threat-to-uk-security-ex-mi5-head )
 
@@ -15,10 +18,7 @@ Then God said, “Let there be light,” and there was light. -->
 
 [![Image](skynet/Screenshot_2020-01-12_10-47-22.png)]( https://www.youtube.com/watch?v=-GOa4h_qSrM  )
 
-<!-- 
-https://www.youtube.com/watch?v=X189pdWjRjA spontane
-https://www.youtube.com/watch?v=9sPHaPhBhzU 3 in 1
---> 
+
 
 [![Image](skynet/Screenshot_2020-01-11_21-56-50.png)]( https://www.nytimes.com/2020/01/11/sports/football/49ers-vikings-score.html  )
 
