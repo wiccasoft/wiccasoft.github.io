@@ -1,6 +1,8 @@
 <!-- bkz fatih portakalın portakallı viski içmesi -->
 <!-- https://www.uludagsozluk.com/e/42709484/ bkz bacını hazırladım kardeş -->
 <!-- https://www.uludagsozluk.com/e/42709482/ bkz yarramı yersiniz anca -->
+<!-- https://www.uludagsozluk.com/k/en-iyi-k%C3%BCrt-do%C4%9Fmam%C4%B1%C5%9F-k%C3%BCrtt%C3%BCr/&w=bg -->
+<!-- bkz kürtleri azaltıp dünyayı yaşanılır hale getirmek -->
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://twitter.com/kamilmakarna/status/1024737292123037696 )
 
