@@ -1,5 +1,6 @@
 
 <!--
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz fakirlerin sosyal medyaya hapsolması 
 bkz facebook instagram twitter kullancak kadar fakir olmak
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
