@@ -1,8 +1,8 @@
 
 <!--
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz fakirlerin sosyal medyaya hapsolması 
-bkz facebook instagram twitter kullancak kadar fakir olmak
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
+bkz facebook instagram twitter kullanacak kadar fakir olmak
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
 bkz fatih portakalı kapatıp güneye yerleşmek
 https://twitter.com/kamilmakarna/status/1024737292123037696 bkz gel gel panayır var
