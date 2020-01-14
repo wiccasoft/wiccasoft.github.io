@@ -7,7 +7,6 @@ bkz 167 boyunda ince belli ince elli işveli erkek
 bkz atacücün 167 boyunda olduğu gerçei
 bkz calvin harris  171 lik erkek ilişkisi
 bkz taylor swiftin uzun erkek tercihi
-https://www.google.com.tr/search?q=taylor+swift+beach&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY7dH9sYPnAhXyxaYKHVBgBpAQ_AUoAXoECAsQAw&biw=869&bih=788
 bkz ferhat göçerin 171 den uzun görüktüğü gerçeği
 bkz cengiz imrenin 171 boyunda olduğu gerçeği
 https://www.uludagsozluk.com/e/42709160/ bkz kızların efendi yerine cengiz imren tercihi
