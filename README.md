@@ -2,7 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
-bkz atacüc sünnet olma için diyaneti kurdu yalanı
+https://www.youtube.com/watch?v=6ACl8s_tBzE 
+bkz atacüc sünnet olmak için diyaneti kurdu yalanı
 bkz 167 boyunda ince belli ince elli işveli erkek
 bkz atacücün 167 boyunda olduğu gerçei
 bkz calvin harris  cengiz imren ilişki
