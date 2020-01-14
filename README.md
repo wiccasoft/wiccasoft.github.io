@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz obamanın 171 olduğu gerçeği
 bkz ferhat göçerin 171 den uzun görüktüğü gerçeği
 bkz cengiz imrenin 171 boyunda olduğu gerçeği
 https://www.uludagsozluk.com/e/42709160/ bkz kızların efendi yerine cengiz imren tercihi
