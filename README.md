@@ -1,5 +1,6 @@
 
 <!--
+bkz ahmet kayanın ülkü ocaklarına girip gafama sıgar giderim demesi
 bkz facebook turancı ülkücüler grubundan erkek düşürmek
 bkz turancı erkeği facebooktan dürtüp eklemek
 bkz facebook twşitter instagtter kullnamayan erkek adam mıdır sorunsalı
