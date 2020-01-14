@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz enes batuun ölüm tehditleri aldığı iddası
+https://www.uludagsozluk.com/k/kerem-in-yutuburlu-do%C4%9Fum-g%C3%BCn%C3%BC-pastas%C4%B1/&w=gd
 bkz ferhat göçerin ölüm tehditi senin elindense bi dal alırım gülüm demesi
 bkz calvin harrisin ölüm tehditleri aldığı yalanı
 bkz cengiz imrenin ölüm tehditlerine karnım tok demesi
