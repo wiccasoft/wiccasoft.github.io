@@ -1,5 +1,6 @@
 
 <!--
+https://www.uludagsozluk.com/e/42710656/ ananı bile siker oç
 https://www.youtube.com/watch?v=PCmHE7juO9I adam gibi başlık aç oç
 bkz uludaki ergenlerin babalarını sikerek öldürme isteği
 https://www.uludagsozluk.com/e/42710628/ babanın götüne koyayım oç
