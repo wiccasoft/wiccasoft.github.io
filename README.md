@@ -1,5 +1,6 @@
 
 <!-- 
+bkz ayrılıkçı türklerin türk önde türk ileri demesi
 bkz ayrılıkçı türkleri sikertip atrıkıçı kürt yapmak
 bkz hojlaşılan kızını babasını sikertip öldürüp jest yapmak
 bkz hande reçelin poaçayı reçelli yemesi
