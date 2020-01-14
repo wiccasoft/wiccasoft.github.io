@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+https://www.uludagsozluk.com/k/pkk-bitti-bitiyor/&w=bg bitti demediniz mi lan
 https://www.uludagsozluk.com/k/hafter-ne-istiyor/ beence yarrak istiyor
 bkz ismail türüt cengiz ümren kavgası
 https://www.uludagsozluk.com/k/lazistan-k%C3%BCrdistan-sava%C5%9F%C4%B1/
