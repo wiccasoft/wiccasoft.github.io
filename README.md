@@ -1,6 +1,7 @@
 
 <!--
-bkjz facebook twşitter instagtter kullnamayan erkek adam mıdır sorunsalı
+bkz turancı erkeği facebooktan dürtüp eklemek
+bkz facebook twşitter instagtter kullnamayan erkek adam mıdır sorunsalı
 bkz facebook instagram twiter kullanmayan erkekleri tespit edip cimere şikayet etmek
 bkz rasgele biy eykeği arayıp alo ne goyyim demek
 https://www.dailymotion.com/video/xjp0z9
