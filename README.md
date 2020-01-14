@@ -1,5 +1,6 @@
 
 <!--
+https://www.instagram.com/p/B3x8FuDHOvQ/  aga bu nedir ya suya götürür susuz getirir
 https://www.uludagsozluk.com/e/42711413/ bkz ay hoş ulan amuna godum
 bkz facebook tan eklenen dayının turancı çıkması
 https://www.youtube.com/watch?v=PCmHE7juO9I adam gibi anlat oç
