@@ -2,10 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
-bkz atacücün sünnet olma için diyaneti kurdu yalanı
-bkz hande erçelin asansörde yiyğitiği kronun cengiz ünder çıkması
-bkz hande erçelin poğaça suratlı değilim ben ya offf demesi
-bkz 167 boyunda ince belli ince elli erkek
+bkz atacüc sünnet olma için diyaneti kurdu yalanı
+bkz 167 boyunda ince belli ince elli işveli erkek
 bkz atacücün 167 boyunda olduğu gerçei
 bkz calvin harris  171 lik erkek ilişkisi
 bkz taylor swiftin uzun erkek tercihi
