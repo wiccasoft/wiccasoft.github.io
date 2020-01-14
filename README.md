@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz aleyna tilkinin ölüm tehditleri vız gelir tırıs gider tweeti
 bkz tuğçe kazazın ölüm tehditlerin karnım tok tweeti
 bkz enes baturun ölüm tehditleri aldığı iddası
 https://www.uludagsozluk.com/k/kerem-in-yutuburlu-do%C4%9Fum-g%C3%BCn%C3%BC-pastas%C4%B1/&w=gd
