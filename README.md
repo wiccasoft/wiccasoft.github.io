@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz atacücün 167 boyunda olduğu gerçei
 bkz calvin harris  171 lik erkek ilişkisi
 bkz taylor swiftin uzun erkek tercihi
 https://www.google.com.tr/search?q=taylor+swift+beach&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY7dH9sYPnAhXyxaYKHVBgBpAQ_AUoAXoECAsQAw&biw=869&bih=788
