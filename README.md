@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz sevilen sanaçının ölüm tehditleri yüzünden tweeter ı kapaması
 bkz aleyna tilkinin ölüm tehditleri vız gelir tırıs gider tweeti
 bkz tuğçe kazazın ölüm tehditlerin karnım tok tweeti
 bkz enes baturun ölüm tehditleri aldığı iddası
