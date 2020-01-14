@@ -1,15 +1,11 @@
 
-<!-- https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha -->
-<!-- bkz fatih portakalı kapatıp güneye yerleşmek -->
-<!-- bkz fatih portakalın portakallı viski içmesi -->
-<!-- bkz bileği ince işveli ince belli erkek -->
-<!-- bkz fatih portakal kapatılsın kampanyası -->
-<!-- https://www.uludagsozluk.com/e/42709502/ zuahhahaha -->
-<!-- https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-vs-osmanl%C4%B1-kad%C4%B1n%C4%B1/ -->
-<!-- https://www.uludagsozluk.com/e/42709484/ bkz bacını hazırladım kardeş -->
-<!-- https://www.uludagsozluk.com/e/42709482/ bkz yarramı yersiniz anca -->
-<!-- https://www.uludagsozluk.com/k/en-iyi-k%C3%BCrt-do%C4%9Fmam%C4%B1%C5%9F-k%C3%BCrtt%C3%BCr/&w=bg -->
-<!-- bkz kürtleri azaltıp dünyayı yaşanılır hale getirmek -->
+<!-- 
+https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
+bkz fatih portakalı kapatıp güneye yerleşmek
+geleceğiniz varsa göreceğiniz de var
+https://twitter.com/kamilmakarna/status/1024737292123037696 
+-->
+
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=VJOKPJVYwNM )
 
@@ -20,52 +16,6 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
-geleceğiniz varsa göreceğiniz de var
-https://twitter.com/kamilmakarna/status/1024737292123037696 
-https://www.uludagsozluk.com/k/pkk-bitti-bitiyor/&w=bg bitti demediniz mi lan
-https://www.uludagsozluk.com/k/hafter-ne-istiyor/ beence yarrak istiyor
-bkz ismail türüt cengiz ümren kavgası
-https://www.uludagsozluk.com/k/lazistan-k%C3%BCrdistan-sava%C5%9F%C4%B1/
-bkz tuğçe kazazın yerim uzun adamın yeridir tweetine tehditler yağması
-https://www.youtube.com/watch?v=VJOKPJVYwNM 
-bkz tuğçe kazazın hayallerde yaşadığı gerçeği
-https://www.youtube.com/watch?v=ebXbLfLACGM bkz calvin harrisin tuğçe kazaz a yürümesi
-https://www.uludagsozluk.com/e/42709318/ sevdiceğime laf etmeyün bacanağınızı sükerün ha
-https://www.uludagsozluk.com/e/42709182/ din dediğin nedir gülüm ben senin için sünnet olurum
-https://www.uludagsozluk.com/k/dinsiz-bir-erke%C4%9Fin-size-a%C5%9F%C4%B1k-olmas%C4%B1/
-bkz tuğçe kazanın atacüccülerden ölüm tehdidi alması
-bkz sevilen sanatçının ölüm tehditleri yüzünden tweeter ı kapaması
-bkz aleyna tilkinin ölüm tehditleri vız gelir tırıs gider tweeti
-bkz tuğçe kazazın ölüm tehditlerin karnım tok tweeti
-bkz enes baturun ölüm tehditleri aldığı iddası
-https://www.uludagsozluk.com/k/kerem-in-yutuburlu-do%C4%9Fum-g%C3%BCn%C3%BC-pastas%C4%B1/&w=gd
-bkz ferhat göçerin ölüm tehditi senin elindense bi dal alırım gülüm demesi
-bkz calvin harrisin ölüm tehditleri aldığı yalanı
-bkz cengiz imrenin ölüm tehditlerine karnım tok demesi
-bkz ekrem imamoğlunun 171 olduğu gerçeği
-https://www.youtube.com/watch?v=6ACl8s_tBzE 
-bkz atacüc sünnet olmak için diyaneti kurdu yalanı
-bkz 167 boyunda ince belli ince elli işveli erkek
-bkz atacücün 167 boyunda olduğu gerçei
-bkz calvin harris  cengiz imren ilişki
-bkz taylor swiftin uzun erkek tercihi
-bkz ferhat göçerin 171 den uzun görüktüğü gerçeği
-bkz cengiz imrenin 171 boyunda olduğu gerçeği
-https://www.uludagsozluk.com/e/42709160/ bkz kızların efendi yerine cengiz imren tercihi
-bkz uzun göstersin diye çizgili forma giyen erkek
-bkz ilk buluşmaya 5 cm topukluyla gelen erkek
-bkz 166 olup 167 im diyen erkek
-bkz boyunu 1 cm uzun söyleyen ruhsuz ve hain erkek
-bkz 171 boyundaki erkek vs 169 boyundaki erkek
-bkz 170 boyundaki erkek vs 168 boyundaki erkek
-bkz 168 oğlak erkeği 188 balık erkeği ilişkisi
-https://www.uludagsozluk.com/e/42708875/ bkz türklerin bomba gibi geldiği gerçeği
-bkz hakan şükür ün youtube sayfası açması
-bkz 167 boyundaki erkeğe ulu önder demek
-bkz atacücün 167 boyunda olduğu gerçeği
-bkz atacüc diyaneti sünnet olmak için kurdu iddası
-https://www.uludagsozluk.com/e/42707626/ bkz zübeydenin dünyayı değiştirmesi
-https://www.uludagsozluk.com/e/42708647/ bkz benden 25 cm uzun erkek
 https://biblehub.com/genesis/1-3.htm 
 https://www.youtube.com/watch?v=3OYJVrjdUrI
 Then God said, “Let there be light,” and there was light. 
