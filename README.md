@@ -1,5 +1,6 @@
 
 <!--
+bkz turancılar kürtçüler arasındaki elektrink
 bkz enver paşa ispet paşa arasındaki dostluk
 bkz ahmet kayanın ülkü ocaklarına girip gafama sıgar giderim demesi
 bkz facebook turancı ülkücüler grubundan erkek düşürmek
