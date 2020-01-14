@@ -1,5 +1,6 @@
 
 <!--
+bkz serdar ortaç asıl türk benim açıklaması
 bkz ahmet kaya vs serdar ortaç
 bkz turancılar kürtçüler arasındaki elektrink
 bkz enver paşa ispet paşa arasındaki dostluk
