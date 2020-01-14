@@ -1,3 +1,5 @@
+
+<!-- https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha -->
 <!-- bkz fatih portakalı kapatıp güneye yerleşmek -->
 <!-- bkz fatih portakalın portakallı viski içmesi -->
 <!-- bkz bileği ince işveli ince belli erkek -->
