@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz tuğçe kazazın yerim uzun adamın yeridir tweetine tehditler yağması
 https://www.youtube.com/watch?v=VJOKPJVYwNM 
 bkz tuğçe kazazın hayallerde yaşadığı gerçeği
 https://www.youtube.com/watch?v=ebXbLfLACGM bkz calvin harrisin tuğçe kazaz a yürümesi
