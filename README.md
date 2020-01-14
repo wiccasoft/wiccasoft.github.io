@@ -1,5 +1,6 @@
 
 <!--
+bkz enver paşa nın sarıkamışa kamış yollaması
 bkz turancılar kürtçüler arasındaki elektrink
 bkz enver paşa ispet paşa arasındaki dostluk
 bkz ahmet kayanın ülkü ocaklarına girip gafama sıgar giderim demesi
