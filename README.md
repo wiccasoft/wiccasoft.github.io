@@ -1,4 +1,4 @@
-
+<!-- bkz fatih portakalın portakallı viski içmesi -->
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://twitter.com/kamilmakarna/status/1024737292123037696 )
 
