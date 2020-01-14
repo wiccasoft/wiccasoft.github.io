@@ -1,5 +1,6 @@
 
 <!--
+bkz telefonu olmayan erkeği sosyal medyada arayan kızların güldürmesi
 https://www.youtube.com/watch?v=VJOKPJVYwNM zuhahahahahha
 bkz serdar ortaçın asıl türk biziz açıklaması
 bkz turancılar kürtçüler arasındaki elektrink
