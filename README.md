@@ -11,7 +11,7 @@
 <!-- https://www.uludagsozluk.com/k/en-iyi-k%C3%BCrt-do%C4%9Fmam%C4%B1%C5%9F-k%C3%BCrtt%C3%BCr/&w=bg -->
 <!-- bkz kürtleri azaltıp dünyayı yaşanılır hale getirmek -->
 
-[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://twitter.com/kamilmakarna/status/1024737292123037696 )
+[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=VJOKPJVYwNM )
 
 <!-- https://www.youtube.com/watch?v=EYIxJMNXNCA 13 ocak 2020 fatih portakal yayını -->
 
