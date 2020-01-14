@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz cengiz imrenin ölüm tehditlerine karnım tok demesi
 bkz ekrem imamoğlunun 171 olduğu gerçeği
 https://www.youtube.com/watch?v=6ACl8s_tBzE 
 bkz atacüc sünnet olmak için diyaneti kurdu yalanı
