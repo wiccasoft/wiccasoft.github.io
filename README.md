@@ -1,5 +1,6 @@
 
 <!--
+bkz rte nin instagramı bırakması
 https://www.uludagsozluk.com/e/42706938/ hayallerde yaşıyor bazı zombiler
 https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama benena
 https://www.uludagsozluk.com/e/42710663/ ibb çok seven ibneler
