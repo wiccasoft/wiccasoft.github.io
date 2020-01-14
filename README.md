@@ -1,6 +1,6 @@
 
 <!--
-bkz yemediği bok kalmayan erkeği adam ederim diyen kız
+https://www.uludagsozluk.com/e/42711413/ bkz ay hoş ulan amuna godum
 bkz facebook tan eklenen dayının turancı çıkması
 https://www.youtube.com/watch?v=PCmHE7juO9I adam gibi anlat oç
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
