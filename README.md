@@ -1,4 +1,5 @@
 <!-- bkz fatih portakalın portakallı viski içmesi -->
+<!-- https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-vs-osmanl%C4%B1-kad%C4%B1n%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/e/42709484/ bkz bacını hazırladım kardeş -->
 <!-- https://www.uludagsozluk.com/e/42709482/ bkz yarramı yersiniz anca -->
 <!-- https://www.uludagsozluk.com/k/en-iyi-k%C3%BCrt-do%C4%9Fmam%C4%B1%C5%9F-k%C3%BCrtt%C3%BCr/&w=bg -->
