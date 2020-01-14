@@ -1,5 +1,6 @@
 
 <!--
+bkz fakirlerin sosyal medyaya hapsolması 
 bkz facebook instagram twitter kullancak kadar fakir olmak
 bkz jeff bezosun rihanna ya demeden yürümesi
 bkz facebook instagram tweeterı olmayan ezik erkek 
