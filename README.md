@@ -1,5 +1,6 @@
 
 <!--
+bkz facebook turancı ülkücüler grubundan erkek düşürmek
 bkz turancı erkeği facebooktan dürtüp eklemek
 bkz facebook twşitter instagtter kullnamayan erkek adam mıdır sorunsalı
 bkz facebook instagram twiter kullanmayan erkekleri tespit edip cimere şikayet etmek
