@@ -2,6 +2,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://twitter.com/kamilmakarna/status/1024737292123037696 )
 
+<!-- https://www.youtube.com/watch?v=EYIxJMNXNCA 13 ocak 2020 fatih portakal yayını -->
 
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
