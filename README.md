@@ -1,5 +1,6 @@
 
 <!-- 
+bkz alpaslan türkeşin hande erçele yürümesi
 bkz hande erçel ben poça suratlı değilim tamam maaaaaaaa demesi
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
 bkz fatih portakalı kapatıp güneye yerleşmek
