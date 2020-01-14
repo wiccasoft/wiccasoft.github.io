@@ -1,4 +1,6 @@
 <!-- bkz fatih portakalın portakallı viski içmesi -->
+<!- -bkz bileği ince işveli ince belli erkek -->
+<!-- https://www.uludagsozluk.com/e/42709502/ zuahhahaha -->
 <!-- https://www.uludagsozluk.com/k/cumhuriyet-kad%C4%B1n%C4%B1-vs-osmanl%C4%B1-kad%C4%B1n%C4%B1/ -->
 <!-- https://www.uludagsozluk.com/e/42709484/ bkz bacını hazırladım kardeş -->
 <!-- https://www.uludagsozluk.com/e/42709482/ bkz yarramı yersiniz anca -->
