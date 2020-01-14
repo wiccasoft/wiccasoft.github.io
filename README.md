@@ -2,8 +2,7 @@
 <!-- 
 https://www.youtube.com/watch?v=VJOKPJVYwNM  zuahhahahaha 
 bkz fatih portakalı kapatıp güneye yerleşmek
-geleceğiniz varsa göreceğiniz de var
-https://twitter.com/kamilmakarna/status/1024737292123037696 
+https://twitter.com/kamilmakarna/status/1024737292123037696 bkz gel gel panayır var
 -->
 
 
