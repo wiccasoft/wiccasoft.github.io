@@ -4,6 +4,7 @@
 <!-- 
 bkz 167 boyundaki erkeğe ulu önder demek
 bkz atacücün 167 boyunda olduğu gerçeği
+bkz atacüc diyaneti sünnet olmak için kurdu iddası
 https://www.uludagsozluk.com/e/42707626/ bkz zübeydenin dünyayı değiştirmesi
 https://www.uludagsozluk.com/e/42708647/ bkz benden 25 cm uzun erkek
 https://biblehub.com/genesis/1-3.htm 
