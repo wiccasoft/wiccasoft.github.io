@@ -6,7 +6,7 @@ https://twitter.com/kamilmakarna/status/1024737292123037696 bkz gel gel panayır
 -->
 
 
-[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=VJOKPJVYwNM )
+[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=QzseCgiS-qQ )
 
 <!-- https://www.youtube.com/watch?v=EYIxJMNXNCA 13 ocak 2020 fatih portakal yayını -->
 
