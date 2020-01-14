@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz hakan şükür ün youtube sayfası açması
 bkz 167 boyundaki erkeğe ulu önder demek
 bkz atacücün 167 boyunda olduğu gerçeği
 bkz atacüc diyaneti sünnet olmak için kurdu iddası
