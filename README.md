@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz cengiz imrenin 171 boyunda olduğu gerçeği
 https://www.uludagsozluk.com/e/42709160/ bkz kızların efendi yerine cengiz imren tercihi
 bkz uzun göstersin diye çizgili forma giyen erkek
 bkz ilk buluşmaya 5 cm topukluyla gelen erkek
