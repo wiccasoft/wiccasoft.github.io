@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz ferhat göçerin ölüm tehditi senin elindense bi dal alırım gülüm demesi
 bkz calvin harrisin ölüm tehditleri aldığı yalanı
 bkz cengiz imrenin ölüm tehditlerine karnım tok demesi
 bkz ekrem imamoğlunun 171 olduğu gerçeği
