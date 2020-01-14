@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+bkz 167 boyundaki erkeğe ulu önder demek
 bkz atacücün 167 boyunda olduğu gerçeği
 https://www.uludagsozluk.com/e/42707626/ bkz zübeydenin dünyayı değiştirmesi
 https://www.uludagsozluk.com/e/42708647/ bkz benden 25 cm uzun erkek
