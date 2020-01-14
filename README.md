@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
 <!-- 
+https://www.uludagsozluk.com/e/42708647/ bkz benden 25 cm uzun erkek
 https://biblehub.com/genesis/1-3.htm 
 https://www.youtube.com/watch?v=3OYJVrjdUrI
 Then God said, “Let there be light,” and there was light. 
