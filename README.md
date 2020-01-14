@@ -1,5 +1,7 @@
 
 <!--
+https://www.dailymotion.com/video/xjp0z9
+bkz biy eykeğin tewlefon numarasını alma yolları
 bkz biy eykeğin telefonu yoksa tavlama yollayı
 bkz telefonu olmayan biy eykeği whatsupta ekleme yolları
 https://www.youtube.com/watch?v=VJOKPJVYwNM
