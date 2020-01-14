@@ -5,7 +5,7 @@
 bkz atacüc sünnet olma için diyaneti kurdu yalanı
 bkz 167 boyunda ince belli ince elli işveli erkek
 bkz atacücün 167 boyunda olduğu gerçei
-bkz calvin harris  171 lik erkek ilişkisi
+bkz calvin harris  cengiz imren ilişki
 bkz taylor swiftin uzun erkek tercihi
 bkz ferhat göçerin 171 den uzun görüktüğü gerçeği
 bkz cengiz imrenin 171 boyunda olduğu gerçeği
