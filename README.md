@@ -2,8 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz mekik çekerken kucağına kilolu ergen alan adam
 bkz yarrağıyla barfiks çeken erkek
-bkz diyanetin fazili işleme onay fetvası vermesi
 bkz ebu leheb ebu cehile çaktı mı sorunsalı
 bkz amuda kalkamayan erkek (amuda kalkamaz)
 bkz mekik çekemeyen erkek ( göbeklidir)
