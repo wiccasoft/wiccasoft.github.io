@@ -1,5 +1,6 @@
 
 <!--
+bkz siki tutanlar dizinin yayından kaldırılması
 bkz hakan şükürün youtube kanalı açması
 bkz atacüc telefonuy efendiler diye mi açıyordu sorunsalı
 bkz tanrı varsa sıçıyo mudur sorunsalı
