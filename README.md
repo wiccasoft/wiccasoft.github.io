@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz abdullah çatlının abdullah öcalanın infazısını istemesi
 bkz öcalanın hiç işleri bakanıyla görüşmesi
 https://www.uludagsozluk.com/e/42711716/
 https://www.youtube.com/watch?v=uegfr5__EAQ bordo klavyeliler
