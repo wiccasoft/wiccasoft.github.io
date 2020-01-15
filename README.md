@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz ayda nereye secde ediliyor sorunsalı
+bkz müslüman astronot olmaması sorunsalı
 bkz facebook gay müslümler sayfasının kaapnması
 bkz muhammedin sakalı şerifini okşayıp boşalan mümin
 bkz ebu lehebi sakalı şerifinin götüne sürten erkek
