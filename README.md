@@ -1,5 +1,6 @@
 
 <!--
+bkz facebuk instagram twitter
 bkz facebuk instagrater twitgram kullanmıyom ama tinderim var diyen erkek
 bkz facebooka eltisini dünür diye taglayan ekleyen erkek
 bkz hergün sevdiceğinin facebook profilini okşayan erkek
