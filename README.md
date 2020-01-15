@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz rte nin abdullah öcalana karı yollaması
 bkz abdullah öcalanın imralıya karı yollayın açıklaması
 bkz abdullah öcalanın öcümü aldım daha ne kasacam tavırları
 bkz abdullah öcalanın imralıdan paylaştığı henryy miller kitabı
