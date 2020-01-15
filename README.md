@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
 https://www.youtube.com/watch?v=-bmH4AHOKFM
+https://www.youtube.com/watch?v=EfAsNffCjsM bkz koray avcı ezan remix
 bkz abdullah öcalanı cimere şikayet ediyoruz kampanyası
 bkz johny sinsin çıkarıp masaya koyması
 bkz abdullah öcalanın henry miller kitabı paylaşması
