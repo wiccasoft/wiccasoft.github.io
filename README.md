@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz diyanetin gay ilişkiye onay vermesi
 bkz mekik çerken kucağına ulucu alan erkek
 https://www.youtube.com/watch?v=ktmzyChfPmk zuahhahahahahhaha
 https://www.youtube.com/watch?v=mLPc83ctnqg bkz türklerin geri kalma nedenleri
