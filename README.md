@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz 3.amdülmecid cilerin 2 abdulhamidcilerle kavgası
 bkz berat albyrakın nihat doğanın kılına zara r gelirse bedelini ödersiniz çıkışı
 bkz ali şanın nihat doğanı koruması
 bkz cüppelinin süleymancılara verdiği ayar
