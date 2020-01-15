@@ -2,11 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz barfikse çeken erkeğe entry gireyim mi baba diyen erkek
-bkz hoşlandıoğı erkeği babasına anlatan ulucu
-bkz babişkosuna türk oğülu türküz dimi babişko diyen ulucu
-bkz babadan gizli gizli e devlet soyacına bakmak
-bkz babadan gizli gizli ses kayıtları izlemek
+bkz mekik çeken erkeğe entry gireyim mi babişko diyen oğlan
+bkz barfiks çeken erkeğe entry gireyim mi baba diyen oğlan
 https://www.uludagsozluk.com/e/42711719/ tıklağ kankağ izleyek beraber gizli gizli
 https://www.youtube.com/watch?v=XbdkchtDzDU zuhahaha sikerler 
 https://www.uludagsozluk.com/e/42711704/ açık ibne
