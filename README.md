@@ -1,7 +1,8 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
-<!-- 
-kz müge amlıdaki ismail aksunun pkklı cenazesinde görükmesi
+<!--
+bkz binali yıldırımoğlanın oğlunun pkklı cenazesine gitmesi
+bkz müge amlıdaki ismail aksunun pkklı cenazesinde görükmesi
 bkz ekrem amınoğlunun pkklı konserine gitmesi
 https://www.youtube.com/watch?v=GECCFTj3Ugo 
 http://www.aydinlikgazete.com/apo-akpli-olmustur-makale,19380.html
