@@ -1,5 +1,6 @@
 
 <!--
+bkz telefonun facebook twitter instagram olmayan erkek
 bkz telefonu götüne sokarak uyuyan adam
 bkz atacüc yaşaydı götünü sildirirmiydi sorunsalı
 bkz atacüc heykeline şarılıp uyuyan çocuk
