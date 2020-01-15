@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+https://www.youtube.com/watch?v=9FJHDkx1Gv8 amınoğlu yaaa
 https://www.youtube.com/watch?v=-AdnJiuDGVU ekrem amınoğlu
 bkz ekrem amınoğlunun anasının amına selam çakmak
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel
