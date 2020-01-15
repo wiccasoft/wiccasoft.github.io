@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=5D3crqpClPY soytarıların tek eğlencem olması
 https://www.youtube.com/watch?v=5RDSkR8_AQ0 soytarıların yine kaşınması
 https://www.youtube.com/watch?v=qdsTUfDTEhQ where there is a shell there is a way
 https://www.youtube.com/watch?v=ItFXByWukjs aydınlık sanat 1
-https://www.youtube.com/watch?v=XNtPl_EoESM bazı soytarıların güldürmesi -->
+https://www.youtube.com/watch?v=XNtPl_EoESM bazı soytarıların güldürmesi 
+https://www.pornhub.com/view_video.php?viewkey=ph582aef2acdef2 lol
+-->
 
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
 
