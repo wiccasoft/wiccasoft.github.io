@@ -1,5 +1,6 @@
 
 <!--
+bkz yarım saattir konuşuyoruz bi mustafa kamal atacüc demedik yahu
 bkz mustaf kamal atatürkün götünü silermiydiniz sorunsalı
 bkz telefonu olan erkek
 bkz saat 303 te bordo klavyesiyle entry giren ibnenin evladının yarramı kaldırması
