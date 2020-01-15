@@ -1,15 +1,11 @@
 
 <!--
-bkz saat 0905 te atacüce atam atam sen kalk ta ben yatam entry si girip yatmak
+bkz tanrı varsa sıçıyo mudur sorunsalı
 bkz mustafa kamal atacüc osurur muydu sorunsalı
-bkz yarım saattir konuşuyoruz bi mustafa kamal atacüc demedik yahu
-bkz mustafa kamal atacücün götünü silermiydiniz sorunsalı
-bkz telefonu olan erkek
-bkz saat 303 te bordo klavyesiyle entry giren ibnenin evladının yarramı kaldırması
+bkz saat 0905 te atacüce atam atam sen kalk ta ben yatam entry si girip yatmak
 bkz saat 303 de yarrağmı kaldıran gebeşin entry girmesi
 bkz saat 303 de yarrağımın kalkması
 bkz saat 905 de dıçarken pört diye ses çıkarmak
-bkz tanrı varsa sıçıyo mudur sorunsalı
 bkz tanrının facebooku instagram twiterı var mıdır sorunsalı
 bkz telefonu efendiler diye açan erkek
 bkz sırtına atacüc dövmesi yaptıran facebook tweeter tinder instagramı olan erkek
