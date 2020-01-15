@@ -1,5 +1,5 @@
 
-[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
+[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 <!--
 bkz pkklı cenazelerinde görükenler sıralı tam liste
 bkz binali yıldırımoğlanın oğlunun pkklı cenazesine gitmesi
