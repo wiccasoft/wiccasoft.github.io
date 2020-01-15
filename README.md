@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
-bkz johny sinsin türk hayranlıran kek ikram etmesi
+https://www.youtube.com/watch?v=-bmH4AHOKFM
 bkz abdullah öcalanı cimere şikayet ediyoruz kampanyası
 bkz johny sinsin çıkarıp masaya koyması
 bkz abdullah öcalanın henry miller kitabı paylaşması
