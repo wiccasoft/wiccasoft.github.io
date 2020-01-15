@@ -2,7 +2,6 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 <!--
 bkz reisin damadımın beline kuvvet demesi
-bkz reisin bahçelinin sırtına vurup beline kuvvet demesi
 https://www.uludagsozluk.com/k/reisin-bize-%C3%B6rnek-olmas%C4%B1-i%C3%A7in-bah%C3%A7eli-yi-evermesi/
 bkz pkklı cenazelerinde görükenler sıralı tam liste
 bkz binali yıldırımoğlanın oğlunun pkklı cenazesine gitmesi
