@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz ekrem amınoğlunun paylaştığı amınoğlu resmi
 bkz ekrem amınoğlunun amınoğluna benzemesi
 bkz ekrem amınoğlu
 bkz ekrem amınoğluna amoğlu diyince üzülen akboy
