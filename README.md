@@ -2,8 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-ebu zındıkın ebu hanzalanın karısını düdüklemesi
 bkz ebu lehebin ebu cehille yiyişmesi
+bkz ebu zındık ebu leheb ebu cehilille yiyişirken ebu hanzalanın karısını düdüklemesi
 bkz jeff bezosun facebook instagram tweeterı bırakması
 bkz deep turkish webteki iğrenç yaratıkların güldürmesi
 https://www.uludagsozluk.com/e/42711067/
