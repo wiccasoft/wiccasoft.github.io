@@ -1,5 +1,5 @@
 
-[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
+[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=5D3crqpClPY )
 
 <!-- 
 https://www.youtube.com/watch?v=5D3crqpClPY soytarıların tek eğlencem olması
