@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz ekrem amınoğlunun aptal suratının amcığa benzemesi
+bkz ekrem amınoğlunun aptal suratı
 bkz ekrem amınoğlunun babasının oğlum amınoğludur açıklaması
 bkz ekrem amınoğlunun paylaştığı amınoğlu resmi
 bkz ekrem amınoğlunun amınoğluna benzemesi
