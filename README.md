@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!-- 
+https://www.youtube.com/watch?v=WRmrC9hFt4g kzılar kızlar gelemmi götünüzden ütemm mi
 https://www.youtube.com/watch?v=e9drKXN5qsE
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
 https://www.haberler.com/cumhurbaskani-erdogan-ile-ekrem-imamoglu-ayni-12816993-haberi/
