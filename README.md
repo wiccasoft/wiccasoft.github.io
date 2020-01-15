@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz cüppelinin süleymancılara verdiği ayar
 bkz kasım süleymanın intikam yemini etmesi
 bkz nihat genc nihat doğan dostluğu
 bkz bihat gencin nihat doğana veremediği ayar
