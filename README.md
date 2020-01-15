@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz yarrakişleri bakanınıza yarrak veririm 
+bkz yarrakişleri bakanınıza yarrak veririm öle kalırısınız amın sıçtıkları zuhaahaha
 bkz devletinizi sikerim amınoğlu gibi kalırsınıuz
 bkz devleti siklenmeyince köpüren ülkücü
 bkz kim sikler içişler bakanını
