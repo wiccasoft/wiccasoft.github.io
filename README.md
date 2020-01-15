@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 <!--
+bkz 15 ocak 2020 johnny sins'in çıkarıp masaya vurması
 bkz çocuk isteyen erkeğine çocuk vermeyen karı
 bkz reisin devlet için kurşun atanda yiyen de şehittir demesi
 bkz reisin damadımın beline kuvvet demesi
