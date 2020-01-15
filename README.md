@@ -1,5 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-15_10-51-40.png)]( https://www.youtube.com/watch?v=GECCFTj3Ugo )
 
+<!-- https://www.youtube.com/watch?v=NXh8DHAej78 ...dan sonra  -->
+
 [![Image](skynet/Screenshot_2020-01-15_10-25-00.png)]( https://www.dunya.com/gundem/wikipediaya-erisimin-engellenmesi-karari-kaldirildi-haberi-460599 )
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=5D3crqpClPY )
