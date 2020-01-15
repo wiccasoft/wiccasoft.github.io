@@ -1,6 +1,6 @@
 
 <!--
-bkz atacüc kafası çizen çocuk
+https://www.uludagsozluk.com/e/42711479/  bkz me kafası olm bu
 bkz ebu hanefe ebu cehil dostluğu
 bkz ebu cehil muhammedin karıya çakmışmıdır sorunsalı
 bkz ebu leheb leblebi markası olur mu sorunsalı
