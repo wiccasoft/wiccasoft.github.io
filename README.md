@@ -75,7 +75,7 @@ https://www.beatport.com/track/confusion-original-mix/11132703
 -->
 
 
-[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=QzseCgiS-qQ )
+[![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!-- https://www.youtube.com/watch?v=EYIxJMNXNCA 13 ocak 2020 fatih portakal yayını -->
 
