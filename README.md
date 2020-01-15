@@ -9,14 +9,6 @@ bkz ekrem amınoğlunun paylaştığı amınoğlu resmi
 bkz ekrem amınoğlunun amınoğluna benzemesi
 bkz ekrem amınoğluna amoğlu diyince üzülen akboy
 bkz ekrem amınoğlunun amın oğlu olması
-bkz ülkücülerin gün booyunca üst soy bilgisi sorgulaması
-bkz e devleti götten sikildikçe üzülen ülkücü
-bkz aponun içişleri bakanını götten sikertmesi
-bkz e devlet alt üst soy sorgularken yorulan akboy
-bkz e devleti soy sorgulama sitesinin göçerten işsizler
-bkz pkknın imamoğlanı taşşakoğlan etmesi
-bkz pkknın erdoyu götten sikertmesi
-bkz götten sikildiği halde hala entry giren ergen
 bkz içişleri bakanın sikilen götün davası olmaz demesi
 bkz götten sikilen ibnenin içişleri bakanı şikayet etmesi
 https://www.uludagsozluk.com/e/42711716/ bkz aponun içişleri bakanını götten sikmesi
