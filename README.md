@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz barfikse çeken erkeğe entry gireyim mi baba diyen erkek
 bkz hoşlandıoğı erkeği babasına anlatan ulucu
 bkz babişkosuna türk oğülu türküz dimi babişko diyen ulucu
 bkz babadan gizli gizli e devlet soyacına bakmak
