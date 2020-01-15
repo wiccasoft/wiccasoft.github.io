@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz ibnelerin gizli gizli öcalan videoları izlemesi
 https://www.uludagsozluk.com/e/42711704/ açık ibne
 https://www.uludagsozluk.com/e/42711719/ gizli ibne
 bkz mustafa kamal atacücüsüne sarılıp uyuyan kamalcı
