@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 <!--
+bkz ahmet nur çebinin 2 yabancı stoper daha alacaz açıklaması
 bkz müge amlıdaki ismail aksu seksiliği vs masterchef rıfat seksiliği
 bkz telefonu alo ne goyyim diyer açan erkek
 bkz 15 ocak 2020 johnny sins'in çıkarıp masaya vurması
