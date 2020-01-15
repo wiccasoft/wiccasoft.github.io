@@ -1,12 +1,12 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz telefonu alo ne goyyim diye açan erkek
 https://www.youtube.com/watch?v=g6t8g6ka4W0
 bkz arkadan vurdun mu önden sallanacak aga 
 bkz müge amlıdaki ismail aksunun çıkarıp masaya vurması
 bkz ahmet nur çebinin 2 yabancı stoper daha alacaz açıklaması
 bkz müge amlıdaki ismail aksu seksiliği vs masterchef rıfat seksiliği
-bkz telefonu alo ne goyyim diyer açan erkek
 bkz 15 ocak 2020 johnny sins'in çıkarıp masaya vurması
 bkz çocuk isteyen erkeğine çocuk vermeyen karı
 bkz reisin devlet için kurşun atanda yiyen de şehittir demesi
