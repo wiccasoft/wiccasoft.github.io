@@ -1,6 +1,7 @@
 
 <!--
 bkz telefonu olan erkek
+bkz saat 303 de yarrağımın kalkması
 bkz saat 905 de dıçarken pört diye ses çıkarmak
 bkz tanrı varsa sıçıyo mudur sorunsalı
 bkz tanrının facebooku instagram twiterı var mıdır sorunsalı
