@@ -1,5 +1,6 @@
 
 <!--
+bkz ebu leheb leblebi markası olur mu sorunsalı
 bkz niçe ağlarken sen ağlama kıyamammmmmm dinlemek
 bkz atacüc hiç karıya çaktımı sorunsalı
 bkz niçenin aşık olduğu kadın solome miydi sorunsalı
