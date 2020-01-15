@@ -5,7 +5,6 @@
 bkz ekrem amınoğlunun babasının oğlum amınoğludur açıklaması
 bkz ekrem amınoğlunun paylaştığı amınoğlu resmi
 bkz ekrem amınoğlunun amınoğluna benzemesi
-bkz ekrem amınoğlu
 bkz ekrem amınoğluna amoğlu diyince üzülen akboy
 bkz ekrem amınoğlunun amın oğlu olması
 bkz ülkücülerin gün booyunca üst soy bilgisi sorgulaması
