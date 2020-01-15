@@ -1,6 +1,6 @@
 
 <!--
-bkz facebook twitter instagram kullanan erkek
+bkz facebook twitter instagram ı olan erkek
 bkz biy eykeğin telefon numarasını istemek
 bkz telefonun facebook twitter instagram olmayan erkek
 bkz telefonu götüne sokarak uyuyan adam
