@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+https://www.youtube.com/watch?v=5Hhhk7UOiHU nihatın aapoya ayarı çekmesi
 https://www.youtube.com/watch?v=-bmH4AHOKFM al topkek ye kanka
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz koray avcı ezan remix
 bkz abdullah öcalanı cimere şikayet ediyoruz kampanyası
