@@ -1,5 +1,6 @@
 
 <!--
+https://www.youtube.com/watch?v=yVPi8T-zDpY aga neyin kafası bu ya
 bkz mustafa kamal atacüc pipisi vs niçe pipisi
 bkz tam facebook u kapatim derken yengenin dürtmesi
 aga facebook instagram twiitter derken kafalar güzel oldu iyi mi
