@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz babdanb gizli gizli e devlet soyacına bakmak
 bkz babadan gizli gizli ses kayıtları izlemek
 https://www.uludagsozluk.com/e/42711719/ tıklağ kankağ izleyek beraber gizli gizli
 https://www.youtube.com/watch?v=XbdkchtDzDU zuhahaha sikerler 
