@@ -1,5 +1,6 @@
 
 <!--
+bkz mümin müminin pisliğin örter diyen mümin
 bkz kediyle köpekle uyuyan insan pislik
 bkz pisliğiyle uyuyan köpek insan
 bkz köpek giren eve ebu leheb girmez diyen erkek
