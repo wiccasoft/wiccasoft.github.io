@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz çokomelli işler daire başkanının çokomelli açıklamalar yapması
 bkz diyanet ezan çalıştayının 10 milyar açık vermesi
 bkz yarrakişleri bakanının yarrak yediğini teyit etmesi
 bkz aponun yarrakişleri bakanının eline yarrak vermesi
