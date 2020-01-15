@@ -3,7 +3,7 @@
 
 <!--
 bkz muhammedin sakalı şerifini okşayıp boşalan mümin
-bkz ebu lehebi hırkai şefinin götüne sürten erkek
+bkz ebu lehebi sakalı şerifinin götüne sürten erkek
 bkz ebu cehil hurma severmiydi sorunsalı
 bkz ebu lehebin ebu cehille yiyişmesi
 bkz ebu zındık ebu leheb ebu cehilille yiyişirken ebu hanzalanın karısını düdüklemesi
