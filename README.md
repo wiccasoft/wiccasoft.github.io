@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
 bkz öcalanın hiç işleri bakanıyla görüşmesi
-https://www.uludagsozluk.com/k/%C3%B6calan%C4%B1n-i%C3%A7i%C5%9Fleri-bakan%C4%B1n%C4%B1-g%C3%B6revden-ald%C4%B1rmas%C4%B1/&w=gd
+https://www.uludagsozluk.com/e/42711716/
 https://www.youtube.com/watch?v=uegfr5__EAQ bordo klavyeliler
 https://www.youtube.com/watch?v=FT5CF12wU6Y atacüc dicktatör mü sorunsalı
 https://www.youtube.com/watch?v=0vVqoZ0Xi_4 bkz barış atayın kaşınması
