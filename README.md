@@ -2,7 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz yarrak işleri bakan ını bakanlığs 3000 yarrak sipariş etmesi
+bkz yarrak işleri bakanını yarrak gibi bakması
+bkz yarrak işleri bakanını bakanlığa 3000 yarrak sipariş etmesi
 bkz yarrak işleri bakanını yarrakları bana bırakın işlerim demesi
 bkz yarrak işleri bakanınnı yarrak görevindeyim açıklaması
 bkz götten ütülen ibnenin hala car car kafa sikmesi
