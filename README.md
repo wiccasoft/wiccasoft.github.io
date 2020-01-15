@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=ktmzyChfPmk lol
 https://www.youtube.com/watch?v=tVfyO37ARpQ lol
+https://www.youtube.com/watch?v=KXnzNbuV84c lol
 bkz orta zekalı bi kamalcıya (bkz şempanze beyni) sorunun atacüc değil kendileri olduğunu anlatmak
 https://www.youtube.com/watch?v=5D3crqpClPY soytarıların tek eğlencem olması
 https://www.youtube.com/watch?v=5RDSkR8_AQ0 soytarıların yine kaşınması
