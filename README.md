@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz sikiyle barfiks çeken erkek
 bkz ayda nereye secde ediliyor sorunsalı
 bkz müslüman astronot olmaması sorunsalı
 bkz facebook gay müslümler sayfasının kaapnması
