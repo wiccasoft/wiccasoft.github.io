@@ -1,5 +1,6 @@
 
 <!--
+bkz kediyle köpekle uyuyan insan pislik
 bkz pisliğiyle uyuyan köpek insan
 bkz köpek giren eve ebu leheb girmez diyen erkek
 bkz timsahla uyuyan pislik erkek
