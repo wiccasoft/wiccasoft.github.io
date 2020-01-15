@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz mustafa camal atacücün tüklükten aldığım keyf başka hiç bişeyde yok demesi
 bkz johny sinsin mustaf camalın eline vermesi
 bkz mustaf kamal atatcüc pipisi vs johny sins malafatı
 bkz johny sinsin çıkarıp masaya vurması
