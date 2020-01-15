@@ -1,15 +1,8 @@
 
 <!--
+bkz babası uyuren entry giren mümin insan
 bkz bodrum katında babası uyurken entry giren mümin
-bkz entry girerken parmak arasındaki pislikleri klavyeye dökülen mümin
-bkz entry girmeden uyuyan pislik insan
-bkz entry girerken uyuyan pislik insan
 bkz müminle uyuyan pislik zombi
-bkz mümin müminin pisliğin örter diyen mümin
-bkz kediyle köpekle uyuyan insan pislik
-bkz pisliğiyle uyuyan köpek insan
-bkz köpek giren eve ebu leheb girmez diyen erkek
-bkz timsahla uyuyan pislik erkek
 bkz facebook profil arka planını ebu leheb yapan erkek
 bkz ebu lehebin ebu cehili arkadan ütmesi
 bkz ebu zındık ebu leheb dostluğu
