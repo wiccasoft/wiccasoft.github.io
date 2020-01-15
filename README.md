@@ -1,6 +1,7 @@
 
 <!--
-bkz mustaf kamal atacüc osurur muydu sorunsalı
+bkz saat 0905 te atacüce atam atam sen kalk ta ben yatam entry si girip yatmak
+bkz mustafa kamal atacüc osurur muydu sorunsalı
 bkz yarım saattir konuşuyoruz bi mustafa kamal atacüc demedik yahu
 bkz mustafa kamal atacücün götünü silermiydiniz sorunsalı
 bkz telefonu olan erkek
