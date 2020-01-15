@@ -1,5 +1,6 @@
 
 <!--
+bkz hoşlaşılan kızın senin ananın amına sokarım demesi
 bkz facebuk instagram twitter
 bkz facebuk instagrater twitgram kullanmıyom ama tinderim var diyen erkek
 bkz facebooka eltisini dünür diye taglayan ekleyen erkek
