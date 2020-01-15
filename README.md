@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz bilalin ya hakk deyu hallacı mansuru götünden vurması
 bkz bordo klavyelilerin öğle yemeğine çıkması
 https://www.youtube.com/watch?v=Z85m0eNUR-Q
 bkz kamalın yine kaşınması
