@@ -1,5 +1,6 @@
 
 <!--
+bkz mustaf kamal atatürkün götünü silermiydiniz sorunsalı
 bkz telefonu olan erkek
 bkz saat 303 te bordo klavyesiyle entry giren ibnenin evladının yarramı kaldırması
 bkz saat 303 de yarrağmı kaldıran gebeşin entry girmesi
