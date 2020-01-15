@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz devleti götten sikildikçe üzülen ülkücü
+bkz e devleti götten sikildikçe üzülen ülkücü
 bkz aponun içişleri bakanını götten sikertmesi
 bkz e devlet alt üst soy sorgularken yorulan akboy
 bkz e devleti soy sorgulama sitesinin göçerten işsizler
