@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz muhammedin sakalı şerifini okşayıp boşalan mümin
 bkz ebu lehebi hırkai şefinin götüne sürten erkek
 bkz ebu cehil hurma severmiydi sorunsalı
 bkz ebu lehebin ebu cehille yiyişmesi
