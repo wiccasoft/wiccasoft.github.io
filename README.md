@@ -3,6 +3,7 @@
 
 <!--
 bkz badelenip badelenip ebu cehile hönküren gayler
+https://istanbul.diyanet.gov.tr/fatih/Sayfalar/contentdetail.aspx?ContentId=342&MenuCategory=Kurumsal
 bkz ebu cehile entry kasan kzıgın gay mslüm 
 bkz islamın tam bir gay dini olması
 bkz camide yiyişirken hocanın içeri girmesi
