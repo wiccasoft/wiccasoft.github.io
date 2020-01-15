@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz erdoğans gün geçtikçe daha çok bağlanmak
 bkz abdullah öcalnın imralıya tv istemesi
 bkz necmettin erbakanın kamalızmı savunması
 bkz abdullah çatlının abdullah öcalanın infazısını istemesi
