@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz sakine cansızın babasının pkklı olşduğun itiraf etmesi
 https://www.uludagsozluk.com/e/42711719/ bkz üst akılın gizli kayıtları açığa çıkarması
 https://www.uludagsozluk.com/e/42711741/ tıklağ kankağ maaş yattı hayat bize güzel amk
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz üst akıl
