@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz diyanet ezan çalıştayının sitesinin atayızların  hacklenmesi
 https://www.uludagsozluk.com/e/42711654/ peki bu bilgi ne işimize yarayacak
 bkz ayda nereye secde ediliyor sorunsalı
 bkz müslüman astronot olmaması sorunsalı
