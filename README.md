@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz götten sikilen akboyun kimliğini sorgulaması
 bkz götten sikilen müminin içişleri bakanı yiğeni çıkması
 bkz öcalanın yarrakişlerin bakanına yarrak yalatması
 bkz diyanetin hoşlandığınız mümini camide sıkıştırabilirsiniz fetvası
