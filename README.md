@@ -1,5 +1,6 @@
 
 <!--
+bkz entry girerken uyuyan pislik insan
 bkz müminle uyuyan pislik zombi
 bkz mümin müminin pisliğin örter diyen mümin
 bkz kediyle köpekle uyuyan insan pislik
