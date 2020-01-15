@@ -1,7 +1,7 @@
 
 <!--
 bkz telefonu olan erkek
-bkz telefonu mka diye açan erkek
+bkz telefonu efendiler diye açan erkek
 bkz sırtına atacüc dövmesi yaptıran facebook tweeter tinder instagramı olan erkek
 bkz atacüc imzalı doblosu olan erkek
 bkz telefona atacücü wallpaper yapan erkek
