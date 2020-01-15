@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+https://www.uludagsozluk.com/k/ibb-nin-pkk-l%C4%B1-sakine-cans%C4%B1z-%C4%B1n-kitab%C4%B1n%C4%B1-satmas%C4%B1/
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz üst akıl
 https://www.uludagsozluk.com/e/42711719/  çok acukluğ amk
 https://www.uludagsozluk.com/e/42711719/ tıklağ kankağ izleyek beraber gizli gizli
