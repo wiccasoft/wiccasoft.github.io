@@ -1,5 +1,6 @@
 
 <!--
+bkz atacüc kafası çizen çocuk
 bkz ebu hanefe ebu cehil dostluğu
 bkz ebu cehil muhammedin karıya çakmışmıdır sorunsalı
 bkz ebu leheb leblebi markası olur mu sorunsalı
