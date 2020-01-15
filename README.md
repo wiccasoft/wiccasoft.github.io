@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz ekrem amınoğlunun amın oğlu olması
 bkz ülkücülerin gün booyunca üst soy bilgisi sorgulaması
 bkz e devleti götten sikildikçe üzülen ülkücü
 bkz aponun içişleri bakanını götten sikertmesi
