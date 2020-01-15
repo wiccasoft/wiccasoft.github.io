@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz mekik çekerken kucağına kilolu ergen alan adam
+bkz mekik çekerken kucağına kilolu ergen alan erkek
 bkz yarrağıyla barfiks çeken erkek
 bkz ebu leheb ebu cehile çaktı mı sorunsalı
 bkz amuda kalkamayan erkek (amuda kalkamaz)
