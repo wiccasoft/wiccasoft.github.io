@@ -1,5 +1,6 @@
 
 <!--
+bkz ebu cehil muhammedin karıya çakmışmıdır sorunsalı
 bkz ebu leheb leblebi markası olur mu sorunsalı
 bkz niçe ağlarken sen ağlama kıyamammmmmm dinlemek
 bkz atacüc hiç karıya çaktımı sorunsalı
