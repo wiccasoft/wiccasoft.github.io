@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz aponun yarrakişleri bakanının eline yarrak vermesi
 bkz aponun apollo 11 hikaye ya demesi
 bkz ibbnin pkklıların evlerine kebap yollaması
 bkz ibb nin ibnelik olsun diye çöpleri toplamaması
