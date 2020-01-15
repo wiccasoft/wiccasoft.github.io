@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz pkknın erdoyu götten sikertmesi
 bkz götten sikildiği halde hala entry giren ergen
 bkz içişleri bakanın sikilen götün davası olmaz demesi
 bkz götten sikilen ibnenin içişleri bakanı şikayet etmesi
