@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz imamaoğlanın azını cart diye yırtarım demesi
 https://www.youtube.com/watch?v=Zimt8PP2iNs
 bkz hiç işleri bakanının taşşak geçmesi
 https://www.youtube.com/watch?v=VJOKPJVYwNM zuhahahahahah
