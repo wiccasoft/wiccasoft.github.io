@@ -1,6 +1,6 @@
 
 <!--
-bkz atatcüccülerin ne kafası yaşaması
+https://www.youtube.com/watch?v=ZSNyiSetZ8Y bkz atatcüccülerin ne kafası yaşaması
 https://www.uludagsozluk.com/e/42711479/  bkz me kafası olm bu
 bkz ebu hanefe ebu cehil dostluğu
 bkz ebu cehil muhammedin karıya çakmışmıdır sorunsalı
