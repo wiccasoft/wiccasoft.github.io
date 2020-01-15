@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz hafterin kaşınması
 bkz mustafa camel ın beni övme sözlerini bırakınız demesi
 bkz mustafa camel atacüc ismet inönü dosluğu
 bkz mustafa camal atacücün tüklükten aldığım keyf başka hiç bişeyde yok demesi
