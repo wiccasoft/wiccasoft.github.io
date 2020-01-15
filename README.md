@@ -1,5 +1,6 @@
 
 <!--
+bkz atacüc hiç karıya çaktımı sorunsalı
 bkz niçenin aşık olduğu kadın solome miydi sorunsalı
 bkz albert einstein marlyn monroe ya çaktı mı sorunsalı
 https://www.uludagsozluk.com/e/42711479/ aga ne kafası yaşıyosun sen ya
