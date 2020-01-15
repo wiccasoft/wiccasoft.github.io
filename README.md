@@ -1,5 +1,6 @@
 
 <!--
+bkzm ustaf kamal atacüc osurur muydu sorunsalı
 bkz yarım saattir konuşuyoruz bi mustafa kamal atacüc demedik yahu
 bkz mustafa kamal atacücün götünü silermiydiniz sorunsalı
 bkz telefonu olan erkek
