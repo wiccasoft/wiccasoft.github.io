@@ -2,10 +2,9 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz babasını annesini sikerken entry kasan ergen
-bkz kızların büllüğü kalkıyo mu sorunsalı (bunu anana sorsana delikanlı)
 bkz amuda kalkamayan erkek (amuda kalkamaz)
 bkz mekik çekemeyen erkek ( göbeklidir)
+bkz kızların büllüğü kalkıyo mu sorunsalı (bunu anana sorsana delikanlı)
 bkz götten alamayan erkek başlığına kimsenin entry girmemesi sorunsalı
 https://www.uludagsozluk.com/k/barfiks-%C3%A7ekemeyen-erkek/ vurduruyordur
 bkz diyanet ezan çalıştayının sitesinin atayızların  hacklenmesi
