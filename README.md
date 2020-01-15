@@ -1,6 +1,7 @@
 
 <!--
 bkz telefonu olan erkek
+bkz tanrı varsa sıçıyo mudur sorunsalı
 bkz tanrının facebooku instagram twiterı var mıdır sorunsalı
 bkz telefonu efendiler diye açan erkek
 bkz sırtına atacüc dövmesi yaptıran facebook tweeter tinder instagramı olan erkek
