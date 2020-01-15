@@ -1,7 +1,7 @@
 
 <!--
 bkz telefonu olan erkek
-bkz sırtına atacüc silueti dövmesi yaptıran erkek
+bkz sırtına atacüc dövmesi yaptıran facebook tweeter tinder instagramı olan erkek
 bkz atacüc imzalı doblosu olan erkek
 bkz telefona atacücü wallpaper yapan erkek
 bkz sevdiceğiyle ortak facebook kullanan erkek
