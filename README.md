@@ -1,5 +1,6 @@
 
 <!--
+bkz bodrum katında babası uyurken entry giren mümin
 bkz entry girerken parmak arasındaki pislikleri klavyeye dökülen mümin
 bkz entry girmeden uyuyan pislik insan
 bkz entry girerken uyuyan pislik insan
