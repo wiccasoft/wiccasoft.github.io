@@ -1,6 +1,7 @@
 
 <!--
 bkz telefonu olan erkek
+bkz saat 303 te bordo klavyesiyle entry giren ibnenin evladı
 bkz saat 303 de yarrağmı kaldıran gebeşin entry girmesi
 bkz saat 303 de yarrağımın kalkması
 bkz saat 905 de dıçarken pört diye ses çıkarmak
