@@ -1,5 +1,6 @@
 
 <!--
+bkz telefonu götüne sokarak uyuyan adam
 bkz atacüc yaşaydı götünü sildirirmiydi sorunsalı
 bkz atacüc heykeline şarılıp uyuyan çocuk
 bkz atacücü çok şeviyom ben diyen çocuk
