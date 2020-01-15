@@ -1,5 +1,6 @@
 
 <!--
+bkz timsahla fille uyuyan pislik 
 bkz kediyle köpekle uyumayan pislik insan
 bkz babası uyuren entry giren mümin insan
 bkz bodrum katında babası uyurken entry giren mümin
