@@ -3,26 +3,13 @@
 
 <!--
 https://www.youtube.com/watch?v=9FJHDkx1Gv8 amınoğlunu ciddeye alamamak
-https://www.youtube.com/watch?v=-AdnJiuDGVU ekrem amınoğlu
-bkz ekrem amınoğlunun anasının amına selam çakmak
+https://www.youtube.com/watch?v=-AdnJiuDGVU amınoğlu
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel
-bkz yarrakişleri bakanınıza yarrak veririm öle kalırısınız amın sıçtıkları zuhaahaha
-bkz devletinizi sikerim amınoğlu gibi kalırsınıuz
-bkz devleti siklenmeyince köpüren ülkücü
-bkz kim sikler içişler bakanını
-bkz içişleri bakanı götten sikilince erdosuna şikayet eden ibne
-bkz amınoğlu diyince akla ekrem amınoğlu gelmesi
-bkz ekrem amınoğlunun aptal suratı
-bkz ekrem amınoğlunun babasının oğlum amınoğludur açıklaması
-bkz ekrem amınoğlunun paylaştığı amınoğlu resmi
-bkz ekrem amınoğlunun amınoğluna benzemesi
-bkz ekrem amınoğluna amoğlu diyince üzülen akboy
-bkz ekrem amınoğlunun amın oğlu olması
+bkz yarrakişleri bakanına yarrak vermek
 bkz içişleri bakanın sikilen götün davası olmaz demesi
 bkz götten sikilen ibnenin içişleri bakanı şikayet etmesi
 https://www.uludagsozluk.com/e/42711716/ bkz aponun içişleri bakanını götten sikmesi
-bkz mekik çekerken kucağına ulucu alan erkek
-bkz ibbnin yine ibnelik yapması
+bkz mekik çekerken kucağına ergen alan erkek
 https://www.uludagsozluk.com/e/42711716/ bkz aponun yine neler karıştırması
 bkz gizli ses kayıtlarını üst akılın açığa çıkarması amk
 bkz sakine cansızın babasının pkklı olşduğun itiraf etmesi
