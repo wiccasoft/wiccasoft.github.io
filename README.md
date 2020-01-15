@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+https://www.uludagsozluk.com/e/42711716/ bkz aponun yine neler karıştırması
 bkz ibbnin yine ibnelik yapması
 bkz gizli ses kayıtlarını üst akılın açığa çıkarması amk
 bkz sakine cansızın babasının pkklı olşduğun itiraf etmesi
