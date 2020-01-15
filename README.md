@@ -1,5 +1,6 @@
 
 <!--
+bkz albert einstein marlyn monroe ya çaktı mı sorunsalı
 https://www.uludagsozluk.com/e/42711479/ aga ne kafası yaşıyosun sen ya
 https://www.youtube.com/watch?v=yVPi8T-zDpY aga neyin kafası bu ya
 bkz mustafa kamal atacüc pipisi vs niçe pipisi
