@@ -1,6 +1,7 @@
 
 <!--
-https://www.youtube.com/watch?v=6_PAHbqq-o4 bkz timsahla uyuyan pislik
+bkz timsahla fareyle uyuyan pislik
+https://www.youtube.com/watch?v=6_PAHbqq-o4 
 bkz pelikanla uyuyan pislik insan
 bkz sırtlanla uyuyan pislik hayvan
 bkz timsahla fille uyuyan pislik 
