@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz içişleri bakanın sikilen götün davası olmaz demesi
 bkz götten sikilen ibnenin içişleri bakanı şikayet etmesi
 https://www.uludagsozluk.com/e/42711716/ bkz aponun içişleri bakanını götten sikmesi
 bkz mekik çekerken kucağına ulucu alan erkek
