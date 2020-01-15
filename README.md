@@ -1,5 +1,6 @@
 
 <!--
+bkz ebu lehebin ebu cehil arkadan ütmesi
 bkz ebu zındık ebu leheb dostluğu
 bkz leheble ebu cehili yiyişirken yakalamak
 bkz ebu cehil ebu leheb dosluğu
