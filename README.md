@@ -1,6 +1,6 @@
 
 <!--
-bkz sırtlanla uyuyan pislik
+bkz sırtlanla uyuyan pislik hayvan
 bkz timsahla fille uyuyan pislik 
 bkz kediyle köpekle uyumayan pislik insan
 bkz babası uyuren entry giren mümin insan
