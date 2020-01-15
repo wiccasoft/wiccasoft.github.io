@@ -1,5 +1,6 @@
 
 <!--
+bkz 170 boyundakşi erkek 198 boyundaki erkek ilişkisi
 bkz siki tutanlar dizinin yayından kaldırılması
 bkz hakan şükürün youtube kanalı açması
 bkz atacüc telefonuy efendiler diye mi açıyordu sorunsalı
