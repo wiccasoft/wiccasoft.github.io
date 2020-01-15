@@ -1,5 +1,6 @@
 
 <!--
+bkz pelikanla uyuyan pislik insan
 bkz sırtlanla uyuyan pislik hayvan
 bkz timsahla fille uyuyan pislik 
 bkz kediyle köpekle uyumayan pislik insan
