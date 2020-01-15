@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 
 <!-- 
-https://www.youtube.com/watch?v=qdsTUfDTEhQ
+https://www.youtube.com/watch?v=qdsTUfDTEhQ where there is a shell there is a way
 https://www.youtube.com/watch?v=ItFXByWukjs aydınlık sanat 1
 https://www.youtube.com/watch?v=XNtPl_EoESM bazı soytarıların güldürmesi -->
 
