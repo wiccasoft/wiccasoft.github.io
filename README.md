@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz ebu leheb ebu cehile çaktı mı sorunsalı
 bkz götten girilen ergenin ulucu çıkması
 bkz camide badelenen ergenin ulu yazarı çıkması
 bkz barfiks çekerken altına kilolu ergen sokan adam
