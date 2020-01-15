@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 <!-- 
-https://www.youtube.com/watch?v=GECCFTj3Ugo wohoooooooooooooo
+https://www.youtube.com/watch?v=GECCFTj3Ugo 
 http://www.aydinlikgazete.com/apo-akpli-olmustur-makale,19380.html
 https://www.youtube.com/watch?v=cNGuOkTNDQI heheheheh
 https://www.youtube.com/watch?v=QGZ3C3KA2Co zuhahahahah
