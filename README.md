@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz götten ütütülen ibnenin ben de ben seni üterim demesi
 bkz yarrak işleri başkanının öcalacam açıklması
 bkz diyanet işleri başkanının amınoğlunun yasini bozduğu iddası
 bkz ekrem amınoğlunun çöppleri toğlama komisyon bşk nını değiştirmesi
