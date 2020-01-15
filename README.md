@@ -1,5 +1,6 @@
 
 <!--
+https://www.youtube.com/watch?v=6_PAHbqq-o4 bkz timsahla uyuyan pislik
 bkz pelikanla uyuyan pislik insan
 bkz sırtlanla uyuyan pislik hayvan
 bkz timsahla fille uyuyan pislik 
