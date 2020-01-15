@@ -1,5 +1,6 @@
 
 <!--
+bkz timsahla uyuyan pislik erkek
 bkz facebook profil arka planını ebu leheb yapan erkek
 bkz ebu lehebin ebu cehili arkadan ütmesi
 bkz ebu zındık ebu leheb dostluğu
