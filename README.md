@@ -1,5 +1,6 @@
 
 <!--
+bkz atacüc cüclerin mi atası sorunsalı
 bkz atacüc 167 boyundaysa nasıl subay oldu sorunsalı
 bkz atacüc ölmedi içimde yaşıyo diyen çocuk 
 https://www.youtube.com/watch?v=ZSNyiSetZ8Y 
