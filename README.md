@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-bkz götten girilen ergenin mekik çekemeyen erkek başlığına entry kasması,
+bkz götten girilen ergenin ulucu çıkması
 bkz camide badelenen ergenin ulu yazarı çıkması
 bkz barfiks çekerken altına kilolu ergen sokan adam
 bkz mekik çekerken kucağına kilolu ergen alan erkek
