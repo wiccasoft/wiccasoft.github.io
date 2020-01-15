@@ -1,5 +1,6 @@
 
 <!--
+https://www.youtube.com/watch?v=T8_wHWzAaSc aga bu nedir ya 
 https://www.reddit.com/r/rule34celebs/ hangi oç yaptı lan bunları
 https://www.instagram.com/p/B6-r8AnHk1Z/ yaqıosun hanny
 https://www.instagram.com/p/B3x8FuDHOvQ/ aga bu nedir ya suya götürür susuz getirir
