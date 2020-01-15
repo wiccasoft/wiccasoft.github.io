@@ -1,5 +1,6 @@
 
 <!--
+bkz atacüc heykeline şarılıp uyuyan çocuk
 bkz atacücü çok şeviyom ben diyen çocuk
 bkz atacüc cüclerin mi atası sorunsalı
 bkz atacüc 167 boyundaysa nasıl subay oldu sorunsalı
