@@ -1,5 +1,6 @@
 
 <!--
+bkz pisliğiyle uyuyan köpek insan
 bkz köpek giren eve ebu leheb girmez diyen erkek
 bkz timsahla uyuyan pislik erkek
 bkz facebook profil arka planını ebu leheb yapan erkek
