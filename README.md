@@ -7,17 +7,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=5D3crqpClPY )
 
 <!-- 
-https://www.youtube.com/watch?v=t1L_x0wz1Mw lol
-https://www.youtube.com/watch?v=ktmzyChfPmk lol
-https://www.youtube.com/watch?v=tVfyO37ARpQ lol
-https://www.youtube.com/watch?v=KXnzNbuV84c lol
 https://www.uludagsozluk.com/k/arap%C3%A7adaki-algoritma-ve-vav/ bkz beyniyle algoritma kurabilen biri
-bkz orta zekalı bi kamalcıya sorunun atacüc değil kendileri olduğunu anlatmak
-https://www.youtube.com/watch?v=5D3crqpClPY soytarıların tek eğlencem olması
-https://www.youtube.com/watch?v=5RDSkR8_AQ0 soytarıların yine kaşınması
-https://www.youtube.com/watch?v=qdsTUfDTEhQ where there is a shell there is a way
-https://www.youtube.com/watch?v=ItFXByWukjs aydınlık sanat 1
-https://www.youtube.com/watch?v=XNtPl_EoESM bazı soytarıların güldürmesi 
 https://www.pornhub.com/view_video.php?viewkey=ph582aef2acdef2 
 -->
 
