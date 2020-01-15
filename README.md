@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-https://www.uludagsozluk.com/e/42711719/ amk erdoğandan akıllı çok acukluğ amuğa goyyam
+https://www.uludagsozluk.com/e/42711719/  bkz vergiler kimlere gidiyor
 https://www.uludagsozluk.com/e/42711719/ tıklağ kankağ izleyek beraber gizli gizli
 https://www.youtube.com/watch?v=XbdkchtDzDU zuhahaha sikerler 
 https://www.uludagsozluk.com/e/42711704/ açık ibne
