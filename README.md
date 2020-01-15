@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
-nkz kızlarını büllüğü kalkıyo mu sorunsalı (bunu anana sorsana delikanlı)
+nkz kızların büllüğü kalkıyo mu sorunsalı (bunu anana sorsana delikanlı)
 bkz amuda kalkamayan erkek (amuda kalkamaz)
 bkz mekik çekemeyen erkek ( göbeklidir)
 bkz götten alamayan erkek başlığına kimsenin entry girmemesi sorunsalı
