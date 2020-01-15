@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz imralı canisinin paylaştığı götünüzü sikerim paylaşımı
 https://www.youtube.com/watch?v=9FJHDkx1Gv8 amınoğlunu ciddeye alamamak
 https://www.youtube.com/watch?v=-AdnJiuDGVU amınoğlu
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel
