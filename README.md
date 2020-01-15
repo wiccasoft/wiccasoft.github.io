@@ -1,5 +1,6 @@
 
 <!--
+bkz kediyle köpekle uyumayan pislik insan
 bkz babası uyuren entry giren mümin insan
 bkz bodrum katında babası uyurken entry giren mümin
 bkz müminle uyuyan pislik zombi
