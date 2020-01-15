@@ -3,6 +3,7 @@
 
 <!--
 bkz diyanetin gay ilişkiye onay vermesi
+https://www.diyanet.tv/diyanet-isleri-baskanliginda-ezan-calistayi
 bkz mekik çerken kucağına ulucu alan erkek
 https://www.youtube.com/watch?v=ktmzyChfPmk zuahhahahahahhaha
 https://www.youtube.com/watch?v=mLPc83ctnqg bkz türklerin geri kalma nedenleri
