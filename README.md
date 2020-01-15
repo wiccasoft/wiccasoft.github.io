@@ -1,6 +1,7 @@
 
 <!--
 bkz telefonu olan erkek
+bkz telefona sevdiceği sevdicek diye kaydeden erkek
 bkz facebook twitter instagram ı olan erkek
 bkz biy eykeğin telefon numarasını istemek
 bkz telefonun facebook twitter instagram olmayan erkek
