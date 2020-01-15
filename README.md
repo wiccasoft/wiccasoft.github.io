@@ -7,7 +7,7 @@
 https://www.youtube.com/watch?v=t1L_x0wz1Mw lol
 https://www.youtube.com/watch?v=ktmzyChfPmk lol
 https://www.youtube.com/watch?v=tVfyO37ARpQ lol
-https://www.youtube.com/watch?v=KXnzNbuV84c lol,
+https://www.youtube.com/watch?v=KXnzNbuV84c lol
 https://www.uludagsozluk.com/k/arap%C3%A7adaki-algoritma-ve-vav/ bkz beyniyle algoritma kurabilen biri
 bkz orta zekalı bi kamalcıya sorunun atacüc değil kendileri olduğunu anlatmak
 https://www.youtube.com/watch?v=5D3crqpClPY soytarıların tek eğlencem olması
