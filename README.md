@@ -1,5 +1,6 @@
 
 <!--
+bkz niçenin aşık olduğu kadın solome miydi sorunsalı
 bkz albert einstein marlyn monroe ya çaktı mı sorunsalı
 https://www.uludagsozluk.com/e/42711479/ aga ne kafası yaşıyosun sen ya
 https://www.youtube.com/watch?v=yVPi8T-zDpY aga neyin kafası bu ya
