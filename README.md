@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz badelenip badelenip ebu cehile hönküren gayler
 bkz ebu cehile entry kasan kzıgın gay mslüm 
 bkz islamın tam bir gay dini olması
 bkz camide yiyişirken hocanın içeri girmesi
