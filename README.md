@@ -1,5 +1,6 @@
 
 <!--
+bkz leheble ebu cehili yiyişirken yakalamak
 bkz ebu cehil ebu leheb dosluğu
 bkz hoşlaşılan kızın senin ananın amına sokarım demesi
 bkz facebuk instagram twitter
