@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz kamalın yine kaşınması
 bkz johny sinsin çıkarıp kamalın masaya vurması
 bkz kalkmışı indiririm diyen kamalcı
 bkz hafterin azdım lan kamalcılar indirin demesi
