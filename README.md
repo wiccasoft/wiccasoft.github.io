@@ -2,6 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz e devletten gay olduğunu öğrenen ibne
+https://www.uludagsozluk.com/k/e-devlet-alt-%C3%BCst-soy-bilgisi-sorgulama/&w=bg
 https://www.uludagsozluk.com/e/42711704/ bkz şüphesiz büyük aşklar mektupla doğar
 bkz badelenip badelenip ebu cehile hönküren gayler
 https://istanbul.diyanet.gov.tr/fatih/Sayfalar/contentdetail.aspx?ContentId=342&MenuCategory=Kurumsal
