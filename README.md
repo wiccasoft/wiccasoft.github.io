@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+https://www.youtube.com/watch?v=FT5CF12wU6Y atacüc dicktatör mü sorunsalı
 https://www.youtube.com/watch?v=0vVqoZ0Xi_4 bkz barış atayın kaşınması
 bkz bilalin ya hakk deyu hallacı mansuru götünden vurması
 bkz bordo klavyelilerin öğle yemeğine çıkması
