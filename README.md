@@ -1,5 +1,6 @@
 
 <!--
+bkz tam facebook u kapatim derken yengenin dürtmesi
 aga facebook instagram twiitter derken kafalar güzel oldu iyi mi
 https://www.youtube.com/watch?v=BfDZj-sAH74 neyin kafasıdır aga bu 
 https://www.youtube.com/watch?v=T8_wHWzAaSc aga bu nedir ya 
