@@ -1,5 +1,6 @@
 
 <!--
+bkz niçe ağlarken sen ağlama kıyamammmmmm dinlemek
 bkz atacüc hiç karıya çaktımı sorunsalı
 bkz niçenin aşık olduğu kadın solome miydi sorunsalı
 bkz albert einstein marlyn monroe ya çaktı mı sorunsalı
