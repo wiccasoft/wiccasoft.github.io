@@ -1,6 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=g6t8g6ka4W0 )
 <!--
+bkz johny sins hayranlarının hepsinin erkek olması
 bkz johny sins türk hayranlarının izdiham yaratması
 bkz bir erkeğe en çok yakışan erkek
 bkz türklerin çok sevilmesinin nedenleri sorunsalı
