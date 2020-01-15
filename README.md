@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)](https://www.youtube.com/watch?v=6_PAHbqq-o4 )
 
 <!--
+bkz yarrak işleri bakanınnı yarrak görevindeyim açıklaması
 bkz götten ütülen ibnenin hala car car kafa sikmesi
 bkz ekrem amınoğlunun babasının aksanıyla dalga geçmesi
 bkz götten ütütülen ibnenin ben de ben seni üterim demesi
