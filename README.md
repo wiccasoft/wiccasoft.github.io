@@ -1,3 +1,6 @@
+[![Image](skynet/Screenshot_2020-01-16_07-57-53.png)]( https://www.dunya.com/gundem/erdogan-uretimi-ihracati-istihdami-guclendirerek-yeni-donemi-baslatiyoruz-haberi-460639 )
+
+
 [![Image](skynet/Screenshot_2020-01-15_10-51-40.png)]( https://www.youtube.com/watch?v=GECCFTj3Ugo )
 
 <!-- 
