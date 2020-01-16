@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!-- 
+https://www.uludagsozluk.com/e/42718149/ asdasdasdasd
 https://www.uludagsozluk.com/e/42718176/ gözümsün
 https://www.uludagsozluk.com/e/42718269/ eywallah bro
 https://www.youtube.com/watch?v=gnr5RvV9HKw 15 ocak 2020 
