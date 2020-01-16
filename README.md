@@ -1,5 +1,6 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
+
 [![Image](skynet/Screenshot_2020-01-16_07-57-53.png)]( https://www.dunya.com/gundem/erdogan-uretimi-ihracati-istihdami-guclendirerek-yeni-donemi-baslatiyoruz-haberi-460639 )
 
 
