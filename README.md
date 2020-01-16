@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=nQLd2JtHeUw close to the edge
 how to create shadow gov.
 https://www.youtube.com/watch?v=ZRwO2ylQBhs
 bkz 17 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
-bkz ekrem imamaoğlunun gelince şit gibi dağılan akabeliler
+bkz ekrem imamaoğlunun gelince şit gibi dağılan cehabebeliler
 https://www.uludagsozluk.com/e/263286/ diyarbakırlıymış beyler. yayalım
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
 https://www.uludagsozluk.com/e/42719551/ bkz kamalcı abilerini üzen orospunun sıçtığı genç
