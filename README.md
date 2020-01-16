@@ -7,6 +7,7 @@
 how to create shadow gov.
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
 https://www.uludagsozluk.com/k/conor-mcgregor/&w=bg bkz kavga etmekten korkan erkek
+https://www.uludagsozluk.com/k/telefonu-a%C3%A7ar-a%C3%A7maz-nerdesin-diyen-tip/ bkz sevdiceğine hesap soran erkek
 https://eksisozluk.com/sisman-kizla-sevgili-olan-erkek--3757367?a=popular bkz ıstırılası erkek
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
