@@ -3,7 +3,7 @@
 
 <!-- 
 bkz şaka maka  iyi gülmem
-https://www.uludagsozluk.com/k/mayk%C4%B1l-ceks%C4%B1n-%C3%B6lmedi-mi/ hey mayk versene borç olmaz corç ben de yok
+bkz hey mayk versene borç olmaz corç ben de yok
 https://www.uludagsozluk.com/e/42720034/ bkz buyrun benim
 https://www.uludagsozluk.com/e/42720059/ lol
 https://www.uludagsozluk.com/e/42720078/ lol
