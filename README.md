@@ -3,7 +3,8 @@
 <!-- 
 https://eksisozluk.com/entry/100609978 lol
 https://www.youtube.com/watch?v=EtunN6ZdcfU 90'lar
-https://www.youtube.com/watch?v=NXh8DHAej78 ...dan sonra  -->
+https://www.youtube.com/watch?v=NXh8DHAej78 ...dan sonra 
+https://dergipark.org.tr/en/download/article-file/89188-->
 
 [![Image](skynet/Screenshot_2020-01-15_10-25-00.png)]( https://www.dunya.com/gundem/wikipediaya-erisimin-engellenmesi-karari-kaldirildi-haberi-460599 )
 
