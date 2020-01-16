@@ -3,6 +3,7 @@
 
 <!-- 
 bkz şaka maka  iyi gülmem
+https://www.uludagsozluk.com/e/42720034/ bkz buyrun benim
 https://www.uludagsozluk.com/e/42720059/ lol
 https://www.uludagsozluk.com/e/42720078/ lol
 https://www.uludagsozluk.com/e/42718568/ lol
