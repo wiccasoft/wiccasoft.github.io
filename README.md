@@ -4,8 +4,6 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!--
-https://www.youtube.com/watch?v=TtEpdiLN5wU osman sarıgüne çomar diyen çomar
-https://www.uludagsozluk.com/e/42718581/ bkz osman sarıgünün hoplatacağı versus
 https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
 https://www.youtube.com/watch?v=1r9TXTt8gaY
 https://www.uludagsozluk.com/e/42718525/ bkz gerizekalı
