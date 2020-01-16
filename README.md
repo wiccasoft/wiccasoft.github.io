@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)](https://www.cnet.com/news/huawei-ban-full-timeline-us-government-britain-5g-china-trump-ban-security-threat-mate-x/ )
 
 <!-- 
+bkz hey mayk versen borç olmaz corç ben de de yok
 bkz şaka maka yakında zengin olacak olmam
 bkz hey mayk versene borç olmaz corç ben de yok
 bkz freddie mercurynin transit geçmesi
