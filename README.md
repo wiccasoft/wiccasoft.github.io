@@ -5,6 +5,7 @@
 bkz şaka maka  iyi gülmem
 bkz hey mayk versene borç olmaz corç ben de yok
 bkz freddie mercurynin transit geçmesi
+bkz hagi mi alex mi sorunsalı
 https://www.uludagsozluk.com/e/42720034/ bkz buyrun benim
 https://www.uludagsozluk.com/e/42720059/ lol
 https://www.uludagsozluk.com/e/42720078/ lol
