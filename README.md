@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!-- 
+https://twitter.com/okemal35/status/1217734106118807552 asdfasdasdasdsa
 https://www.uludagsozluk.com/e/42718149/ asdasdasdasd
 https://www.uludagsozluk.com/e/42718176/ gözümsün
 https://www.uludagsozluk.com/e/42718269/ eywallah bro
