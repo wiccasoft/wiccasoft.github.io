@@ -8,10 +8,9 @@
 
 <!--
 how to create shadow gov.
-https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
 bkz 15 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
+https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
 bkz kamalcıların küfr futbolcu muhabbeti dışında üretime katkıları ne sorunsalı
-bkz donanımhaber de xiomi huawei kavgası yapan genc
 https://www.uludagsozluk.com/e/42719551/ bkz kamalcı abilerini üzen orospunun sıçtığı genç
 https://www.uludagsozluk.com/k/travestiyle-yatan-erke%C4%9Fin-e%C5%9Fcinsel-oldu%C4%9Funu-sanmak/&w=gd lol
 https://www.uludagsozluk.com/e/42719003/ lol
