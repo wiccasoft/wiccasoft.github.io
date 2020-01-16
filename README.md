@@ -5,7 +5,7 @@
 
 <!--
 bkz orta zekalı bi kamalcıya shadow government kurmayı öğretmek
-https://www.uludagsozluk.com/e/42718828/ eywallah hoca
+https://www.uludagsozluk.com/e/42718828/ eywallah hacıt
 bkz ekşicilerin ben de futbolcu beyni var sanması
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
