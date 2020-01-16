@@ -1,6 +1,16 @@
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)](https://www.cnet.com/news/huawei-ban-full-timeline-us-government-britain-5g-china-trump-ban-security-threat-mate-x/ )
 
+<!-- 
+https://www.uludagsozluk.com/e/42718568/ lol
+https://www.uludagsozluk.com/e/42718685/ lol
+https://www.reddit.com/r/rule34celebs/ gerizekalı ergenler
+https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
+https://www.uludagsozluk.com/e/42706728/ adssadasd
+https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
+https://www.youtube.com/watch?v=1r9TXTt8gaY
+https://www.uludagsozluk.com/e/42718525/ bkz gerizekalı
+-->
 [![Image](skynet/Screenshot_2020-01-16_15-25-35.png)]( https://www.youtube.com/watch?v=hfby7XwoBl0 )
 
 [![Image](skynet/Screenshot_2020-01-16_12-19-17.png)]( https://www.youtube.com/watch?v=9VBTcDF1eVQ )
