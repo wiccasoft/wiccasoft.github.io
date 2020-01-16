@@ -10,6 +10,7 @@
 how to create shadow gov.
 bkz 17 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
 bkz ekrem imamaoğlunun gelince şit gibi dağılan akabeliler
+https://www.uludagsozluk.com/e/263286/ diyarbakırlıymış beyler.
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
 https://www.uludagsozluk.com/e/42719551/ bkz kamalcı abilerini üzen orospunun sıçtığı genç
 https://www.uludagsozluk.com/k/travestiyle-yatan-erke%C4%9Fin-e%C5%9Fcinsel-oldu%C4%9Funu-sanmak/&w=gd lol
