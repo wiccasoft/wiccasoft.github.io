@@ -8,13 +8,8 @@ https://www.youtube.com/watch?v=PeIVhIwE8zU hey gidi günler
 bkz bu halıyı dokuyan çocuk kör oldu
 https://www.uludagsozluk.com/e/42719913/ 
 bkz o kadar fakirdik ki masraf olmasın diye 5 yaşında doğdum
-bkz insanlığımızı sorgular günler yaşadık
-bkz şaka maka idonun artık üşümeyecek olması
-bkz hey mayk versen borç olmaz corç ben de de yok
-bkz şaka maka yakında zengin olacak olmam
 bkz hey mayk versene borç olmaz corç ben de yok
 bkz freddie mercurynin transit geçmesi
-bkz hagi mi alex mi sorunsalı
 https://www.uludagsozluk.com/e/42720034/ bkz buyrun benim
 https://www.uludagsozluk.com/e/42720059/ lol
 https://www.uludagsozluk.com/e/42720078/ lol
