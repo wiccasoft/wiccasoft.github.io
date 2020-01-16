@@ -9,6 +9,7 @@
 <!--
 how to create shadow gov.
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
+bkz cübbeli ahmet hocanın hagiye küfr etmesi
 bkz kamalcıların küfr futbolcu muhabbeti dışında üretime katkıları ne sorunsalı
 bkz donanımhaber de xiomi huawei kavgası yapan genc
 https://www.uludagsozluk.com/e/42719551/ bkz kamalcı abilerini üzen orospunun sıçtığı genç
