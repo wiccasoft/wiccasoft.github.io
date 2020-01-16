@@ -9,6 +9,7 @@
 <!--
 how to create shadow gov.
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
+https://www.uludagsozluk.com/k/gecenin-k%C3%B6r%C3%BCnde-abarth-egsoz-%C3%B6tt%C3%BCren-%C3%A7%C4%B1lg%C4%B1n-gen%C3%A7/&w=bg bkz abilerini üzen genç
 https://www.uludagsozluk.com/k/travestiyle-yatan-erke%C4%9Fin-e%C5%9Fcinsel-oldu%C4%9Funu-sanmak/&w=gd lol
 https://www.uludagsozluk.com/e/42719003/ lol
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 
