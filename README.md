@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!--
+https://www.youtube.com/watch?v=mLB937pCKZA
 bkz orta zekalı bi kamalcıya shadow government kurmayı öğretmek
 https://www.uludagsozluk.com/e/42718828/ eywallah hacıt
 bkz ekşicilerin ben de futbolcu beyni var sanması
