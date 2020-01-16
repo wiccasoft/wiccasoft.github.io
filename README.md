@@ -7,36 +7,6 @@
 
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
-<!--
-bkz samsung vs opet
-bkz artık opet var ido artık üşümeyecek
-https://www.youtube.com/watch?v=nQLd2JtHeUw close to the edge
-how to create shadow gov.
-https://www.youtube.com/watch?v=ZRwO2ylQBhs
-bkz 17 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
-bkz ekrem imamaoğlunun gelince şit gibi dağılan cehabebeliler
-https://www.uludagsozluk.com/e/263286/ diyarbakırlıymış beyler. yayalım
-https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
-https://www.uludagsozluk.com/e/42719551/ bkz kamalcı abilerini üzen orospunun sıçtığı genç
-https://www.uludagsozluk.com/k/travestiyle-yatan-erke%C4%9Fin-e%C5%9Fcinsel-oldu%C4%9Funu-sanmak/&w=gd lol
-https://www.uludagsozluk.com/e/42719003/ lol
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-https://www.uludagsozluk.com/e/42718568/ lol
-https://www.uludagsozluk.com/e/42718685/ lol
-https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
-https://www.youtube.com/watch?v=1r9TXTt8gaY
-https://www.uludagsozluk.com/e/42718525/ bkz gerizekalı
-https://www.reddit.com/r/rule34celebs/ gerizekalı ergenler
-https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
-https://www.uludagsozluk.com/e/42706728/ adssadasd
-https://twitter.com/okemal35/status/1217734106118807552 asdfasdasdasdsa
-https://www.uludagsozluk.com/e/42718149/ asdasdasdasd
-https://www.youtube.com/watch?v=gnr5RvV9HKw 15 ocak 2020 
-https://www.facebook.com/watch/?v=1969457053160659 what a days
-https://www.uludagsozluk.com/k/tengir-budun-un-cumhurba%C5%9Fkan%C4%B1n%C4%B1-cimer-e-bildirmesi/ lol
--->
-
 [![Image](skynet/Screenshot_2020-01-16_07-57-53.png)]( https://www.dunya.com/gundem/erdogan-uretimi-ihracati-istihdami-guclendirerek-yeni-donemi-baslatiyoruz-haberi-460639 )
 
 
