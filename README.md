@@ -7,9 +7,9 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!--
+bkz samsung vs opet
 how to create shadow gov.
 https://www.youtube.com/watch?v=ZRwO2ylQBhs
-bkz samsung vs opet
 bkz 17 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
 bkz ekrem imamaoğlunun gelince şit gibi dağılan akabeliler
 https://www.uludagsozluk.com/e/263286/ diyarbakırlıymış beyler. yayalım
