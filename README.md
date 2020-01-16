@@ -4,8 +4,9 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!--
+bkz orta zekalı bi kamalcıya shadow government kurmayı öğretmek
 https://www.uludagsozluk.com/e/42718828/ eywallah hoca
-bkz ekşcilerin ben de futbolcu beyni var sanması
+bkz ekşicilerin ben de futbolcu beyni var sanması
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.uludagsozluk.com/e/42718568/ lol
