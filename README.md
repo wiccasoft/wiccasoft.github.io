@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!--
+https://www.uludagsozluk.com/e/42718685/ lol
 https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
 https://www.youtube.com/watch?v=1r9TXTt8gaY
 https://www.uludagsozluk.com/e/42718525/ bkz gerizekalı
