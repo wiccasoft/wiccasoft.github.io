@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-15_10-51-40.png)]( https://www.youtube.com/watch?v=GECCFTj3Ugo )
 
 <!-- 
+https://eksisozluk.com/entry/100609978 lol
 https://www.youtube.com/watch?v=EtunN6ZdcfU 90'lar
 https://www.youtube.com/watch?v=NXh8DHAej78 ...dan sonra  -->
 
