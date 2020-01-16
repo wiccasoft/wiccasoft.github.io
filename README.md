@@ -6,7 +6,6 @@
 <!--
 how to create shadow gov.
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
-bkz ekşicilerin ben de futbolcu beyni var sanması
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.uludagsozluk.com/e/42718568/ lol
