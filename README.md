@@ -2,6 +2,7 @@
 
 <!-- https://www.youtube.com/watch?v=gnr5RvV9HKw 15 ocak 2020 
 https://www.facebook.com/watch/?v=1969457053160659 what a days
+https://www.uludagsozluk.com/k/tengir-budun-un-cumhurba%C5%9Fkan%C4%B1n%C4%B1-cimer-e-bildirmesi/ lol
 -->
 
 [![Image](skynet/Screenshot_2020-01-16_07-57-53.png)]( https://www.dunya.com/gundem/erdogan-uretimi-ihracati-istihdami-guclendirerek-yeni-donemi-baslatiyoruz-haberi-460639 )
