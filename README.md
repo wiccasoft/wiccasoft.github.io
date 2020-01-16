@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)](https://www.cnet.com/news/huawei-ban-full-timeline-us-government-britain-5g-china-trump-ban-security-threat-mate-x/ )
 
 <!-- 
-bkz steve jobs ölmedi mi sorunsalı
+bkz bu halıyı dokuyan çocuk kör oldu
 https://www.uludagsozluk.com/e/42719913/ 
 bkz o kadar fakirdik ki masraf olmasın diye 5 yaşında doğdum
 bkz insanlığımızı sorgular günler yaşadık
