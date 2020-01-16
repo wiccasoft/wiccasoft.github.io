@@ -3,8 +3,6 @@
 <!-- 
 https://twitter.com/okemal35/status/1217734106118807552 asdfasdasdasdsa
 https://www.uludagsozluk.com/e/42718149/ asdasdasdasd
-https://www.uludagsozluk.com/e/42718176/ gözümsün
-https://www.uludagsozluk.com/e/42718269/ eywallah bro
 https://www.youtube.com/watch?v=gnr5RvV9HKw 15 ocak 2020 
 https://www.facebook.com/watch/?v=1969457053160659 what a days
 https://www.uludagsozluk.com/k/tengir-budun-un-cumhurba%C5%9Fkan%C4%B1n%C4%B1-cimer-e-bildirmesi/ lol
