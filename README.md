@@ -8,7 +8,7 @@
 
 <!--
 how to create shadow gov.
-bkz 15 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
+bkz 17 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
 https://www.youtube.com/watch?v=mLB937pCKZA&list=RDWtsNpHiHmFY&index=4
 bkz kamalcıların küfr futbolcu muhabbeti dışında üretime katkıları ne sorunsalı
 https://www.uludagsozluk.com/e/42719551/ bkz kamalcı abilerini üzen orospunun sıçtığı genç
