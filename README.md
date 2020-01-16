@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-01-16_09-10-26.png)]( https://www.youtube.com/watch?v=dCAh-dNtPH0 )
 
 <!-- 
+https://www.reddit.com/r/rule34celebs/ gerizekalı ergenler
 https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
 https://www.uludagsozluk.com/e/42706728/ adssadasd
 https://twitter.com/okemal35/status/1217734106118807552 asdfasdasdasdsa
