@@ -8,6 +8,7 @@
 
 <!--
 bkz samsung vs opet
+bkz artık opet var ido artık üşümeyecek
 https://www.youtube.com/watch?v=nQLd2JtHeUw close to the edge
 how to create shadow gov.
 https://www.youtube.com/watch?v=ZRwO2ylQBhs
