@@ -1,5 +1,5 @@
 
-[![Image](skynet/Screenshot_2020-01-16_17-13-42.png)](https://www.cnet.com/news/huawei-ban-full-timeline-us-government-britain-5g-china-trump-ban-security-threat-mate-x/ )
+[![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
 https://www.youtube.com/watch?v=RaJHr9ThK5k ben aslında yoğum
