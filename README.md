@@ -8,7 +8,7 @@
 
 <!--
 bkz samsung vs opet
-https://www.youtube.com/watch?v=nQLd2JtHeUw
+https://www.youtube.com/watch?v=nQLd2JtHeUw close to edge
 how to create shadow gov.
 https://www.youtube.com/watch?v=ZRwO2ylQBhs
 bkz 17 ocak 2020 cübbeli ahmet hocanın cübbesini çıkarması
