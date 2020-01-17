@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!--
+https://www.uludagsozluk.com/e/42722359/ bkz vurdu göt deliğine gooooooooooool
 bkz masaya malafatı koyup müdür bu buna konuş diyen erkek
 bkz telefonu götüne sokup konuşan erkek
 bkz telefonu efendiler diye açan erkek
