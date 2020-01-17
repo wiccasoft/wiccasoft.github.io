@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
+https://www.uludagsozluk.com/e/42720208/ senin yerin ayrı be olm
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj
 https://www.youtube.com/watch?v=224nx8msD8k akıyo maşallah
 https://www.youtube.com/watch?v=PeIVhIwE8zU doyulur mu
