@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.youtube.com/watch?v=WAMupz_a07M 
 bkz akınsoftun bokunu çıkarması
 bkz akınsoftun zeybek oynayan kamalcı robot üretecem sözü
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
