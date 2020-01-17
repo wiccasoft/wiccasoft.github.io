@@ -3,7 +3,7 @@
 
 
 <!-- 
-ülkücüler ülküyosa ülkümeyenler ülkmüyo mu sorunsalı
+bkz ülkücüler ülküyosa ülkümeyenler ülkmüyo mu sorunsalı
 https://www.uludagsozluk.com/e/42713393/ madem çalışmıyo o zaman ülkücüler nası giriyo
 bkz akınsoftun bokunu çıkarması
 https://eksisozluk.com/madem-solcular-cok-zeki-neden-iktidar-olamiyorlar--4540613?a=popular bkz gafaları basmiy oglim
