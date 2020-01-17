@@ -1,26 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
-<!-- 
-https://www.youtube.com/watch?v=RaJHr9ThK5k ben aslında yoğum
-https://www.youtube.com/watch?v=2Vq1pdAHBcs ben ölmeden önce
-https://www.youtube.com/watch?v=PeIVhIwE8zU hey gidi günler
-bkz bu halıyı dokuyan çocuk kör oldu
-https://www.uludagsozluk.com/e/42719913/ 
-bkz o kadar fakirdik ki masraf olmasın diye 5 yaşında doğdum
-bkz hey mayk versene borç olmaz corç ben de yok
-bkz freddie mercurynin transit geçmesi
-https://www.uludagsozluk.com/e/42720034/ bkz buyrun benim
-https://www.uludagsozluk.com/e/42720059/ lol
-https://www.uludagsozluk.com/e/42720078/ lol
-https://www.uludagsozluk.com/e/42718568/ lol
-https://www.uludagsozluk.com/e/42718685/ lol
-https://www.reddit.com/r/rule34celebs/ gerizekalı ergenler
-https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
-https://www.uludagsozluk.com/e/42706728/ adssadasd
-https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
-https://www.youtube.com/watch?v=1r9TXTt8gaY
-https://www.uludagsozluk.com/e/42718525/ bkz gerizekalı
+uludagsozluk.com/e/42718525/ bkz gerizekalı
 -->
 [![Image](skynet/Screenshot_2020-01-16_15-25-35.png)]( https://www.youtube.com/watch?v=hfby7XwoBl0 )
 
