@@ -2,7 +2,8 @@
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=THNUuxQc73k )
 
 <!-- 
-https://www.youtube.com/watch?v=nvYPCNCGEK8 akınsoftun bokunu çıkarması
+akınsoftun bokunu çıkarması
+https://www.youtube.com/watch?v=nvYPCNCGEK8 
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
 https://eksisozluk.com/geceye-parayla-satin-alinamayacak-bir-sey-birak--6326374?a=popular  
 -->
