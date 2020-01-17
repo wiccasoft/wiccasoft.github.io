@@ -1,7 +1,7 @@
 
-[![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.theguardian.com/business/2020/jan/16/us-china-tensions-could-slow-global-economy-un-warns )
+[![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
-[![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
+[![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
 https://www.youtube.com/watch?v=BnJJUj8DALs
