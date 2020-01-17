@@ -6,18 +6,18 @@
 <!-- 
 https://www.youtube.com/watch?v=7DMDscGOUpg bkz yapay avukat
 https://www.uludagsozluk.com/e/42720842/  asdasdasdsada yüzyılın hastalığı
-https://www.uludagsozluk.com/e/42720078/ bkz hey mayk versene borç olmaz corç bende de yok
 https://www.uludagsozluk.com/e/42718568/ 
 https://www.youtube.com/watch?v=BnJJUj8DALs
 https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
 https://www.uludagsozluk.com/e/42706728/ adssadasd
+https://www.uludagsozluk.com/e/42720078/ bkz hey mayk versene borç olmaz corç bende de yok
 https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
 https://www.uludagsozluk.com/e/42718149/ asdsadasdasdasdada
 https://www.uludagsozluk.com/e/42718259/ eywallah bro gözümsün
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj
 https://www.youtube.com/watch?v=224nx8msD8k akıyo maşallah
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
-https://www.uludagsozluk.com/k/haftada-4-gece-sevi%C5%9Fen-%C3%A7ift/ bkz benim küçük oğlan la gelin -->
+-->
 
 [![Image](skynet/Screenshot_2020-01-16_15-25-35.png)]( https://www.youtube.com/watch?v=hfby7XwoBl0 )
 
