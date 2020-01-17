@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
+https://www.youtube.com/watch?v=lhOQ1Lwy0qo hole in the roof
 https://www.youtube.com/watch?v=7DMDscGOUpg bkz yapay avukat
 https://www.uludagsozluk.com/e/42720842/  asdasdasdsada yüzyılın hastalığı
 https://www.uludagsozluk.com/e/42718568/ 
