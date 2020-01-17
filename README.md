@@ -11,20 +11,8 @@ bkz gözleri mustafa ata cüc şekline gülen surat
 bkz mustafa ata cücü nün emrettiği maç
 https://www.youtube.com/watch?v=tT4TjDj12uI
 bkz keşke bursaspor galip gelseydi hakkında izah
-bkz mustafa ata cücü ismet mağaraönü arasındaki dostluk
-bkz mustafa ata cücü nün yonanları denize dökmesi
 https://www.uludagsozluk.com/e/42722280/ bkz a bu benim
-https://www.uludagsozluk.com/e/42722359/ bkz vurdu göt deliğine gooooooooooool
 bkz masaya malafatı koyup müdür bu buna konuş diyen erkek
-bkz telefonu götüne sokup konuşan erkek
-bkz telefonu efendiler diye açan erkek
-bkz mustafa kamal atacücü instagram twitter kullanmayan erkek
-bkz telefonu mustafa kamal atacücü diye açan erkek
-bkz mustafa kamal atacücü fenerli miydi sorunsalı
-bkz mustafa kamal atacücü fasulye yer miydi sorunsalı
-bkz denize mustafa kamal atacücü mü düşse kurtarırsın recep tayyip doğan mı
-bkz mustafa kamal atacücü 167 boyla nasıl subay oldu sorunsalı
-bkz mustafa kamal atacücü poposu vs recep tayyip erdoğan poposu
 https://www.uludagsozluk.com/e/42722297/ bkz hayallerde yaşıyor bazı ibneler
 https://www.youtube.com/watch?v=lhOQ1Lwy0qo hole in the roof
 https://www.youtube.com/watch?v=7DMDscGOUpg bkz yapay avukat
