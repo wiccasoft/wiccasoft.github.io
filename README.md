@@ -4,6 +4,7 @@
 
 <!-- 
 bkz akınsoftun bokunu çıkarması
+https://eksisozluk.com/madem-solcular-cok-zeki-neden-iktidar-olamiyorlar--4540613?a=popular bkz gafaları basmiy oglim
 https://www.facebook.com/watch/?v=601162903415939 solcu robot
 https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robotların çektiği çileler 
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
