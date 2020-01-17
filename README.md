@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!--
+bkz keşkek almanlar galip gelseydi hakkında izah
 bkz mustafa ata cücü ismet mağaraönü arasındaki dostluk
 bkz mustafa ata cücü nün yonanları denize dökmesi
 https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa ata cücü nün emrettiği maç
