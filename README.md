@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=THNUuxQc73k )
 
 <!-- 
-akınsoftun bokunu çıkarması 
+akın robotics in bokunu çıkarması 
 https://www.youtube.com/watch?v=nvYPCNCGEK8 
 https://www.youtube.com/watch?v=V0aDEvmf5u0 
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
