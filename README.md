@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz cevab vermedi
+bkz madem maymundan geldik niye maymunlar insan olmuyo
 bkz madem allah yok niye inkar ediyolar
 bkz madem solcular çok niye iktidar olamıyo 
 bkz ülkücüler ülküyosa ülkümeyenler ülkmüyo mu sorunsalı
