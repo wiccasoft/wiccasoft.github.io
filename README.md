@@ -6,10 +6,11 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!--
+bkz mustafa ata cücü nün emrettiği maç
+https://www.youtube.com/watch?v=tT4TjDj12uI
 bkz keşke bursaspor galip gelseydi hakkında izah
 bkz mustafa ata cücü ismet mağaraönü arasındaki dostluk
 bkz mustafa ata cücü nün yonanları denize dökmesi
-https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa ata cücü nün emrettiği maç
 https://www.uludagsozluk.com/e/42722280/ bkz a bu benim
 https://www.uludagsozluk.com/e/42722359/ bkz vurdu göt deliğine gooooooooooool
 bkz masaya malafatı koyup müdür bu buna konuş diyen erkek
