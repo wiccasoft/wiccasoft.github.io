@@ -3,10 +3,9 @@
 
 
 <!-- 
-https://www.facebook.com/watch/?v=601162903415939 solcu robot
 bkz akınsoftun bokunu çıkarması
-bkz akınsoftun zeybek oynayan kamalcı robot üretecem sözü
-https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robot projesi
+https://www.facebook.com/watch/?v=601162903415939 solcu robot
+https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robotların çektiği çileler 
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
 bkz rahşanı aramayıp sormayıp ölünce kına yakan ekşiciler
 https://www.youtube.com/watch?v=nvYPCNCGEK8 bkz akınsoftun bokunu çıkarması
