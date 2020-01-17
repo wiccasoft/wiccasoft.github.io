@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
-https://www.uludagsozluk.com/e/42720842/  asdasdasdsada
+https://www.uludagsozluk.com/e/42720842/  asdasdasdsada yüzyılın hastalığı
 https://www.uludagsozluk.com/e/42720078/ bkz hey mayk versene borç olmaz corç bende de yok
 https://www.uludagsozluk.com/e/42718568/ 
 https://www.youtube.com/watch?v=BnJJUj8DALs
