@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!--
+bkz masaya malafatı koyup müdür bu buna konuş diyen erkek
 bkz telefonu götüne sokup konuşan erkek
 bkz telefonu efendiler diye açan erkek
 bkz mustafa kamal atacücü instagram twitter kullanmayan erkek
