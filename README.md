@@ -1,14 +1,6 @@
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=THNUuxQc73k )
 
-<!-- 
-akın robotics in bokunu çıkarması 
-https://www.youtube.com/watch?v=nvYPCNCGEK8 
-https://www.youtube.com/watch?v=V0aDEvmf5u0 
-https://www.youtube.com/watch?v=jdjsGMl-yWI 
-https://eksisozluk.com/geceye-parayla-satin-alinamayacak-bir-sey-birak--6326374?a=popular  
--->
-
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
