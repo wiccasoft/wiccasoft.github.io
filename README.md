@@ -4,6 +4,7 @@
 
 <!-- 
 bkz cevab vermedi
+bkz madem akın robotics robot üretiyo niye robotlar isyan  etmiyo
 bkz madem allah yok niye inkar ediyolar
 bkz madem maymundan geldik niye maymunlar insan olmuyo
 bkz madem solcular çok niye iktidar olamıyo 
