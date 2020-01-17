@@ -6,7 +6,6 @@ https://www.uludagsozluk.com/e/42720208/ senin yerin de ayrı be olm
 https://www.uludagsozluk.com/e/42718259/ eywallah bro gözümsün
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj
 https://www.youtube.com/watch?v=224nx8msD8k akıyo maşallah
-https://www.youtube.com/watch?v=PeIVhIwE8zU doyulur mu
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 https://www.uludagsozluk.com/k/haftada-4-gece-sevi%C5%9Fen-%C3%A7ift/ bkz benim küçük oğlan la gelin -->
 
