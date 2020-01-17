@@ -1,7 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=THNUuxQc73k )
 
-<!-- https://eksisozluk.com/geceye-parayla-satin-alinamayacak-bir-sey-birak--6326374?a=popular bkz ramos -->
+<!-- https://eksisozluk.com/geceye-parayla-satin-alinamayacak-bir-sey-birak--6326374?a=popular bkz arda turan -->
 
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
