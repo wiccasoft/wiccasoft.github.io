@@ -4,6 +4,9 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
+https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
+https://www.uludagsozluk.com/e/42706728/ adssadasd
+https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
 https://www.uludagsozluk.com/e/42718149/ asdsadasdasdasdada
 https://www.uludagsozluk.com/e/42718259/ eywallah bro gözümsün
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj
