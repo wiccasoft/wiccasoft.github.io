@@ -5,7 +5,8 @@
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
-<!-- 
+<!--
+bkz telefonu götüne sokup konuşan erkek
 bkz telefonu efendiler diye açan erkek
 bkz mustafa kamal atacücü instagram twitter kullanmayan erkek
 bkz telefonu mustafa kamal atacücü diye açan erkek
