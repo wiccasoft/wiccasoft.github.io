@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!--
+bkz gözleri mustafa ata cüc şekline gülen surat
 bkz mustafa ata cücü nün emrettiği maç
 https://www.youtube.com/watch?v=tT4TjDj12uI
 bkz keşke bursaspor galip gelseydi hakkında izah
