@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz akınsoftun ekşcilerin yaptığı işleri yapan robot üretecem açıklaması
+bkz akınsoftun zeybek dalı oynayan robot üretecem sözü
 bkz akınsoftun bokunu çıkarması
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
 bkz beni ülkücü sanan ekşiciler
