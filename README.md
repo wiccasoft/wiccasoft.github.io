@@ -3,7 +3,6 @@
 
 
 <!-- 
-bkz ülkü ocaklarında ocak mı var sorunsalı
 bkz ülkücüler ülküyosa ülkümeyenler ülkmüyo mu sorunsalı
 https://www.uludagsozluk.com/e/42713393/ madem çalışmıyo o zaman ülkücüler nası giriyo
 bkz akınsoftun bokunu çıkarması
