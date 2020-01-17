@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.facebook.com/watch/?v=601162903415939 solcu robot
 bkz akınsoftun bokunu çıkarması
 bkz akınsoftun zeybek oynayan kamalcı robot üretecem sözü
 https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robot projesi
