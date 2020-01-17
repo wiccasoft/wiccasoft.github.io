@@ -6,6 +6,7 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!-- 
+bkz mustafa kamal atacücü fenerli miydi sorunsalı
 bkz mustafa kamal atacücü fasulye yer miydi sorunsalı
 bkz denize mustafa kamal atacücü mü düşse kurtarırsın recep tayyip doğan mı
 bkz mustafa kamal atacücü 167 boyla nasıl subay oldu sorunsalı
