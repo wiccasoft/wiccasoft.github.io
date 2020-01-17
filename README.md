@@ -6,7 +6,7 @@
 <!-- 
 https://www.youtube.com/watch?v=lhOQ1Lwy0qo hole in the roof
 https://www.youtube.com/watch?v=7DMDscGOUpg bkz yapay avukat
-https://www.uludagsozluk.com/e/42720842/  asdasdasdsada yüzyılın hastalığı
+https://www.uludagsozluk.com/e/42720842/ asdasdasdsada yüzyılın hastalığı
 https://www.uludagsozluk.com/e/42718568/ 
 https://www.youtube.com/watch?v=BnJJUj8DALs
 https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
