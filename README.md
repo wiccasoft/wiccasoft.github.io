@@ -6,7 +6,8 @@
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
 <!--
-https://www.uludagsozluk.com/k/k%C4%B1%C5%9F%C4%B1n-yazl%C4%B1kta-kalan-insan/&w=bg bkz a bu benim
+https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa ata cücü nün emrettiği maç
+https://www.uludagsozluk.com/e/42722280/ bkz a bu benim
 https://www.uludagsozluk.com/e/42722359/ bkz vurdu göt deliğine gooooooooooool
 bkz masaya malafatı koyup müdür bu buna konuş diyen erkek
 bkz telefonu götüne sokup konuşan erkek
