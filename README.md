@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=THNUuxQc73k )
 
 <!-- 
+bkz rahşanın eşşek cennetini boylaması
 https://www.youtube.com/watch?v=nvYPCNCGEK8 bkz akınsoftun bokunu çıkarması
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304 
 https://www.youtube.com/watch?v=V0aDEvmf5u0 bkz beni akınsoft sanan ekşiciler
