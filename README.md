@@ -1,7 +1,9 @@
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
-<!-- https://www.uludagsozluk.com/k/haftada-4-gece-sevi%C5%9Fen-%C3%A7ift/ bkz benim küçük oğlan la gelin -->
+<!-- 
+https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
+https://www.uludagsozluk.com/k/haftada-4-gece-sevi%C5%9Fen-%C3%A7ift/ bkz benim küçük oğlan la gelin -->
 
 [![Image](skynet/Screenshot_2020-01-16_15-25-35.png)]( https://www.youtube.com/watch?v=hfby7XwoBl0 )
 
