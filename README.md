@@ -1,8 +1,7 @@
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
+<!-- https://www.uludagsozluk.com/k/haftada-4-gece-sevi%C5%9Fen-%C3%A7ift/ bkz benim olan la gelin -->
 
-uludagsozluk.com/e/42718525/ bkz gerizekalı
--->
 [![Image](skynet/Screenshot_2020-01-16_15-25-35.png)]( https://www.youtube.com/watch?v=hfby7XwoBl0 )
 
 [![Image](skynet/Screenshot_2020-01-16_12-19-17.png)]( https://www.youtube.com/watch?v=9VBTcDF1eVQ )
