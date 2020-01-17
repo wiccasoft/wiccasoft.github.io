@@ -5,31 +5,6 @@
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
 
-<!--
-https://www.youtube.com/watch?v=Bznxx12Ptl0 
-bkz gözleri mustafa ata cüc şekline gülen surat
-bkz mustafa ata cücü nün emrettiği maç
-https://www.youtube.com/watch?v=tT4TjDj12uI
-bkz keşke bursaspor galip gelseydi hakkında izah
-https://www.uludagsozluk.com/e/42722280/ bkz a bu benim
-bkz masaya malafatı koyup müdür bu buna konuş diyen erkek
-https://www.uludagsozluk.com/e/42722297/ bkz hayallerde yaşıyor bazı ibneler
-https://www.youtube.com/watch?v=lhOQ1Lwy0qo hole in the roof
-https://www.youtube.com/watch?v=7DMDscGOUpg bkz yapay avukat
-https://www.uludagsozluk.com/e/42720842/ asdasdasdsada yüzyılın hastalığı
-https://www.uludagsozluk.com/e/42718568/ 
-https://www.youtube.com/watch?v=BnJJUj8DALs
-https://www.uludagsozluk.com/e/42713673/ bkz melek yatırımcı
-https://www.uludagsozluk.com/e/42706728/ adssadasd
-https://www.uludagsozluk.com/e/42720078/ bkz hey mayk versene borç olmaz corç bende de yok
-https://www.youtube.com/watch?v=u7wzgchI7-Y ticon from columbia
-https://www.uludagsozluk.com/e/42718149/ asdsadasdasdasdada
-https://www.uludagsozluk.com/e/42718259/ eywallah bro gözümsün
-https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır hoj
-https://www.youtube.com/watch?v=224nx8msD8k akıyo maşallah
-https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
--->
-
 [![Image](skynet/Screenshot_2020-01-16_15-25-35.png)]( https://www.youtube.com/watch?v=hfby7XwoBl0 )
 
 [![Image](skynet/Screenshot_2020-01-16_12-19-17.png)]( https://www.youtube.com/watch?v=9VBTcDF1eVQ )
@@ -43,8 +18,6 @@ https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 
 <!-- 
 https://eksisozluk.com/entry/100609978 lol
-https://www.youtube.com/watch?v=EtunN6ZdcfU 90'lar
-https://www.youtube.com/watch?v=NXh8DHAej78 ...dan sonra 
 https://dergipark.org.tr/en/download/article-file/89188-->
 
 [![Image](skynet/Screenshot_2020-01-15_10-25-00.png)]( https://www.dunya.com/gundem/wikipediaya-erisimin-engellenmesi-karari-kaldirildi-haberi-460599 )
