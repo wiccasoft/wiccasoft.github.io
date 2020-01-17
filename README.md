@@ -5,7 +5,7 @@
 <!-- 
 bkz akınsoftun bokunu çıkarması
 bkz akınsoftun zeybek oynayan kamalcı robot üretecem sözü
-https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robot
+https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robot projesi
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
 bkz rahşanı aramayıp sormayıp ölünce kına yakan ekşiciler
 https://www.youtube.com/watch?v=nvYPCNCGEK8 bkz akınsoftun bokunu çıkarması
