@@ -7,7 +7,6 @@ https://www.youtube.com/watch?v=nvYPCNCGEK8
 https://www.youtube.com/watch?v=V0aDEvmf5u0 lol
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
 https://eksisozluk.com/geceye-parayla-satin-alinamayacak-bir-sey-birak--6326374?a=popular  
-
 -->
 
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
