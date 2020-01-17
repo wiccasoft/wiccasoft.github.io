@@ -2,7 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=THNUuxQc73k )
 
 <!-- 
-https://www.youtube.com/watch?v=nvYPCNCGEK8
+https://www.youtube.com/watch?v=nvYPCNCGEK8 bkz akınsoftun bokunu çıkarması
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304 
 -->
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
