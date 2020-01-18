@@ -1,6 +1,11 @@
 
 [![Image](skynet/Screenshot_2020-01-18_13-46-38.png)](  https://www.youtube.com/watch?v=nuBLt_kaEQw )
 
+<!-- 
+https://www.youtube.com/watch?v=eX2-qhdvYdA dedim dedim inanamadınız
+https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
+-->
+
 [![Image](skynet/Screenshot_2020-01-18_13-21-44.png)](  https://www.youtube.com/watch?v=dg0xN11VVDo )
 
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
