@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+bkz radamel falco garcianın vedat mürçünün elini sıkmaması
 bkz trumpın vedat mürüçüyü soyunma odasında tebrik etmesi
 bkz vedat mürüçünün türkleree arkadadan vuracaz öndene sallanacak demesi
 https://www.uludagsozluk.com/k/anneci-erkekler/ bkz koca olmayacak erkekler
