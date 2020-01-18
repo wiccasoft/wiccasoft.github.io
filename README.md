@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42726135/ tıklağ ma hilesi
-https://www.uludagsozluk.com/e/42726595/ bkz boru gibi girdi boruuuuuuuu amuga godum
+https://www.uludagsozluk.com/e/42726595/ bkz boru gibi girdi boruuuuuuuu 
 https://www.youtube.com/watch?v=U_c8_kWj1ow 15 temmuz un renkli siması
 https://www.youtube.com/watch?v=eX2-qhdvYdA dedim dedim inanamadınız
 https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
