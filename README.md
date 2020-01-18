@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bklz enes abinni seni karıya götürüyeim demesi
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
 bkz hitlerin türklükten aldığım keyfi hiç bişeyden almadım demesi
 bkz hitlerin türkiyeye saldırmama sebebi
