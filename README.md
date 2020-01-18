@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
+bkz bana kız ayarlasana diyen erkek
 bkz eline kız eli değmemiş sünnetsiz erkek
 bkz sadık çiftpınar vedat mürüçü dostluğu
 bkz sadık çiftpınara yürüyern kızın vedat mürüçününü yürüdüğü kıza yürümesi
