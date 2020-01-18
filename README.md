@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
+<!-- https://onedio.com/haber/annesine-asirili-bagli-erkeklerden-uzak-durmaniz-icin-gayet-yeterli-12-durum-888959 -->
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
