@@ -5,6 +5,7 @@
 bkz annen mi ben mi diyen kıza evladım siggi git kumda yaşıtlarınla oyna demek
 bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
+bkz vedat mürüç doğduğunda üniversiteye başlamam
 https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
 https://www.youtube.com/watch?v=Vvn8GyynHDE bkz narkotik özlemi annenin beğenmemesi
 https://www.youtube.com/watch?v=fcu2wVY5siI bkz anişkoya kız beğendirememek
