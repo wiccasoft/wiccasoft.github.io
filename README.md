@@ -4,7 +4,7 @@
 
 <!-- 
 bkz cevab vermedi
-https://www.youtube.com/watch?v=zcrSZ6K5Fcw ekşiciler için özel robot yapmak
+https://www.youtube.com/watch?v=zcrSZ6K5Fcw
 bkz ekşicilere sosyal medya kullanmayı öğreten robot tasarlamak
 https://www.youtube.com/watch?v=y3RIHnK0_NE 
 bkz kına yakan robotun davulcuya kaçması
