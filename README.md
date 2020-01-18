@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!--
+bkz buket aydının anneci erkek istemem tribi
 https://www.uludagsozluk.com/e/42726877/
 bkz buket aydının türkiyenin en güzel kızı olması
 bkz buket aydın arda turan röportajı
