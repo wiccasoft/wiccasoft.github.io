@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
-bkz türklerin siklenmedikçe coçmaları
+bkz trumpın vedat mürüçüyü tebrik etmesi
+bkz türklerin siklenmedikçe coşmaları
 bkz vedat mürüçünün türkleree arkadadan vuracaz öndene sallanacak demesi
 https://www.uludagsozluk.com/k/anneci-erkekler/ bkz koca olmayacak erkekler
 bkz buket aydının  mia khalfaya güzel diyen bana demesin demesi
