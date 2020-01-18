@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+https://galeri.uludagsozluk.com/r/annen-mi-ben-mi-1965810/ bkz anneci erkeğin sinir yapması
 https://www.uludagsozluk.com/e/42727482/ bkz anan reis
 bkz seneye sünnet olacam diyen anneci erkek
 bkz pipisi yeni kalkmış eline kız amcuğu değmemiş erkek
