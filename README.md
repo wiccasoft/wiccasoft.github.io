@@ -1,48 +1,10 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
-<!--
-bkz annesi taş gibi sözlük oğlanlarının güldürmesi
-bkz annem mi ben mi diyen ibneye tabi ki annen demek
-bkz 94 de hoplata hoplata siktiğim karının sözlükçünün annesi çıkması
-bkz mother i like to fuck
-bkz hoşlanılmayan ibneye m.i.l.f ne demek anlatmak
-bkz olgun kadınlardan hoşlanan anneci erkek
-bkz kaynananın en öpülesi yeri
-bkz abe kaynana yaktın beni diyen erkek
-https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
-https://galeri.uludagsozluk.com/r/annen-mi-ben-mi-1965810/ bkz anneci erkeğin sinir yapması
-https://www.uludagsozluk.com/e/42727482/ bkz anan reis
-bkz seneye sünnet olacam diyen anneci erkek
-bkz pipisi yeni kalkmış eline kız amcuğu değmemiş erkek
-bkz anneme anne babama buba diyesin diyen kızın patlak çıkması
-bkz anne senden genç gösteriyo diyen kız
-bkz annen mi ben mi diyen kızı lise çıkışı anneyle tanıştırmak
-bklz enes abinni seni karıya götürüyeim demesi
-bkz hitlerin türklükten aldığım keyfi hiç bişeyden almadım demesi
-bkz hitlerin türkiyeye saldırmama sebebi
-https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş erkek
-https://www.youtube.com/watch?v=ueptJlYwka0 bkz patlak kız anneci oğlan ilşkisi
-bkz eline kız eli değmemeiş erkeğin kalbine sevgi sokan kız
-https://www.youtube.com/watch?v=FFzk_MX1DCo la gloria
-bkz ergenler niye yaşıtlarıyla kumda oynamıyorlar sorunsalı
-bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
-bkz vedat mürüç doğduğunda üniversiteye başlamış olmam
-bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
-bkz annen mi ben mi diyen kıza evladım siggi git kumda yaşıtlarınla oyna demek
-https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
-https://www.youtube.com/watch?v=Vvn8GyynHDE bkz narkotik özlemi annenin beğenmemesi
-https://www.youtube.com/watch?v=fcu2wVY5siI bkz anişkoya kız beğendirememek
-https://www.uludagsozluk.com/k/anneci-erkekler/&w=bg aman diyim kızlar 
-https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg kızlar uzak durun 
-https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg bkz anneci erkek
-https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz anneci erkek
--->
+
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
-
 [![Image](skynet/Screenshot_2020-01-18_13-46-38.png)](  https://www.youtube.com/watch?v=nuBLt_kaEQw )
-
 
 [![Image](skynet/Screenshot_2020-01-18_13-21-44.png)](  https://www.youtube.com/watch?v=dg0xN11VVDo )
 
