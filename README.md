@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!-- 
+https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-sar%C4%B1ya-boyatan-erkek/&w=bg bkz enes abi
 bkz arda turanın götümüm siktiririm beşiktaşta oynamam demesi
 bkz cenk tosunun hakiki tosun paşa benim paylaşımı
 bkz pkknın elindeki türk askerleri salması
