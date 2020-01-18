@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
-bkz annen mi ben mi diyen kıza evladım siggi git uluda yaşıylarınla oynademek
+bkz annen mi ben mi diyen kıza evladım siggi git kumda yaşıtlarınla oyna demek
 bkz bana kız ayarlasana diyen erkek
 bkz eline kız eli değmemiş sünnetsiz erkek
 bkz sadık çiftpınar vedat mürüçü dostluğu
