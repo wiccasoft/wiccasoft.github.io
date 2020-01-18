@@ -5,6 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42725198/ bkz akın roboticsin güldürmesi
 https://eksisozluk.com/ronaldinho-gaucho--877945?a=popular adam top cambazı beyler
+https://eksisozluk.com/zeynep-bastik-turkiyenin-adeleidir--6326916?a=popular zeynep bastık kim amk
 -->
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
