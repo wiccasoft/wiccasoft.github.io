@@ -2,15 +2,12 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
-bkz 94 de hoplata hoplata siktiğim karının sözlükçünün annesi çıkması
 bkz annesi taş gibi sözlük oğlanlarının güldürmesi
 bkz annem mi ben mi diyen ibneye tabi ki annen demek
-bkz 94 de siktiğim karının oğlunun uluda başlık kasması
+bkz 94 de hoplata hoplata siktiğim karının sözlükçünün annesi çıkması
 bkz mother i like to fuck
 bkz hoşlanılmayan ibneye m.i.l.f ne demek anlatmak
-bkz milfi kategoriğ en sevdiğim
 bkz olgun kadınlardan hoşlanan anneci erkek
-bkz şaka maka hoşlanılmayan kızın annesini götürmek
 bkz kaynananın en öpülesi yeri
 bkz abe kaynana yaktın beni diyen erkek
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
