@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
+bkz loris kariusa yürüyekn kız
 bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
 https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
