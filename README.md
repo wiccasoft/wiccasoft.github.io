@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!--
+bkz buket aydının türkiyenin en güzel kızı olması
 bkz buket aydın arda turan röportajı
 https://www.uludagsozluk.com/e/42726862/ bkz askerlik anısı anlatan erkek
 bkz 94 doğumlu hanımcı forvet
