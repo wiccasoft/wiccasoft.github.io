@@ -1,16 +1,5 @@
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
-<!-- 
-https://www.uludagsozluk.com/e/42725748/ https://www.youtube.com/watch?v=0iTts0sUzH4
-https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-sar%C4%B1ya-boyatan-erkek/&w=bg bkz enes abi
-bkz arda turanın götümüm siktiririm beşiktaşta oynamam demesi
-bkz cenk tosunun hakiki tosun paşa benim paylaşımı
-bkz pkknın elindeki türk askerleri salması
-https://www.youtube.com/watch?v=CJXSnmJGrUk size her yer angara 
-bkz mehdinin mehdi değilim diyecek olması
-bkz cenk tosun vs arda turan
-https://www.uludagsozluk.com/k/t%C3%BCrk-askerlerinin-sonunu-getirece%C4%9Fiz/ 
--->
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
