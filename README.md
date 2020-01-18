@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
 <!-- 
+bkz ilk buluşmada malafatı masaya koyan erkek
 bkz telefonu olmayan sinirsiz erkek
 bkz ekrem imamoğlanın recep tayyipoğlan gönderdiği mektup
 bkz boşalırken sperm tutan koyunun suratına boaşalan erkek
