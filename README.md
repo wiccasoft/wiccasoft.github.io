@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-18_13-46-38.png)](  https://www.youtube.com/watch?v=nuBLt_kaEQw )
 
 <!-- 
+https://www.uludagsozluk.com/e/42726168/ bkz utanmıştır abisi 
 https://www.uludagsozluk.com/e/42726591/ bkz ayol hangi erkek o kız
 https://www.uludagsozluk.com/e/42725690/ bkz kızlar duruşuma hasta
 https://www.youtube.com/watch?v=s3BGryfktXY bkz duran toplara iyi vuran forvet
