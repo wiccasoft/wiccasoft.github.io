@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
 <!--
+https://www.uludagsozluk.com/e/42726331/ zuhahahahahahaha
 bkz kaostan düzen doğar yiyin birbiriniz ibneler
 bkz siklenmedikçe coşan türkler
 bkz türk askerine arkadan vuracaz önden sallanacak
