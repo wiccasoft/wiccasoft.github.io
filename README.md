@@ -2,6 +2,8 @@
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
+<!-- https://eksisozluk.com/ronaldinho-gaucho--877945?a=popular adam top cambazı beyler -->
+
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
