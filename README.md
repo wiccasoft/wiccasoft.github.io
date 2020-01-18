@@ -3,6 +3,7 @@
 
 <!-- 
 bkz adam zaten fenerli beyler
+bkz goyduk eğleniyozzzzz kankağğğğğğğğğğğğ
 https://www.uludagsozluk.com/e/42726645/ eywalla bro
 https://www.uludagsozluk.com/e/42726632/ bkz goduk eğleniyoz bro
 https://www.uludagsozluk.com/e/42726168/ bkz utanmıştır abisi 
