@@ -3,6 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.youtube.com/watch?v=1DpCyNmZKzk bkz hakan şükürün akın roboticsle dalga geçmesi
 https://www.uludagsozluk.com/e/42725198/ bkz akın roboticsin güldürmesi
 https://eksisozluk.com/ronaldinho-gaucho--877945?a=popular adam top cambazı beyler
 https://eksisozluk.com/zeynep-bastik-turkiyenin-adeleidir--6326916?a=popular zeynep bastık kim amk
