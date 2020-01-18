@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!-- 
+https://www.youtube.com/watch?v=BaTd_F2yIrU bkz v8 engine
 https://www.youtube.com/watch?v=Og5YkhCg6cY bkz bi ozan kabak vardı noldu ona
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz hey gidi hey
 bkz şaka maka emre morun yürümeye başlaması
