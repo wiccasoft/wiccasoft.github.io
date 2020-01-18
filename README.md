@@ -3,8 +3,6 @@
 
 [![Image](skynet/Screenshot_2020-01-18_13-21-44.png)](  https://www.youtube.com/watch?v=dg0xN11VVDo )
 
-<!-- [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.youtube.com/watch?v=dg0xN11VVDo ) -->
-
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
