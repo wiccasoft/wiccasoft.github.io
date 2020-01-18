@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+bkz türklerin siklenmedikçe coçmaları
 https://www.uludagsozluk.com/k/anneci-erkekler/ bkz koca olmayacak erkekler
 bkz buket aydının  mia khalfaya güzel diyen bana demesin demesi
 https://www.uludagsozluk.com/k/buket-ayd%C4%B1n%C4%B1n-t%C3%BCrkiyenin-en-g%C3%BCzel-kad%C4%B1n%C4%B1-olmas%C4%B1/
