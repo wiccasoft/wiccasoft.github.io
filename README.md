@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bkz seneye sünnet olacam diyen anneci erkek
 bkz pipisi yeni kalkmış eline kız amcuğu değmemiş erkek
 bkz anneme anne babama buba diyesin diyen kızın patlak çıkması
 bkz anne senden genç gösteriyo diyen kız
