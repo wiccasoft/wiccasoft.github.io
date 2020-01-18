@@ -4,7 +4,7 @@
 
 <!-- 
 bkz cevab vermedi
-bkz kına yakan robot
+bkz kına yakan robotun davulcuya kaçması
 bkz madem akın robotics robot üretiyo niye robotlar isyan etmiyo
 bkz madem allah yok niye inkar ediyolar
 bkz madem maymundan geldik niye maymunlar insan olmuyo
