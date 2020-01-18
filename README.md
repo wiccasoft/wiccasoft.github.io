@@ -3,7 +3,7 @@
 
 <!-- 
 bkz vedat mürüçüye entry giren bi ergen en fazla kaç yaşındadır sorunsalı
-https://www.youtube.com/watch?v=lF_5DT43x0g bkz şaka maka vedat mürüçüye entry girerken zamanın geçmesi
+https://www.youtube.com/watch?v=lF_5DT43x0g bkz şaka maka madafaka
 https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz babam sünnet ol öle dokan diyo
 https://eksisozluk.com/vedat-muriqi--4467915?a=popular beyler adam 94 lü çocuğunuz yaşında lan
 https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular bkz şaka maka madafaka -->
