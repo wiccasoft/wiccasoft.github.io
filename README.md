@@ -5,22 +5,6 @@
 
 [![Image](skynet/Screenshot_2020-01-18_13-46-38.png)](  https://www.youtube.com/watch?v=nuBLt_kaEQw )
 
-<!-- 
-bkz adam zaten fenerli beyler
-https://www.youtube.com/watch?v=S15agXCPvC8 bkz goyduk eğleniyozzzzz kankağğğğğğğğğğğğ
-https://www.uludagsozluk.com/e/42726645/ eywalla bro
-https://www.uludagsozluk.com/e/42726632/ bkz goduk eğleniyoz bro
-https://www.uludagsozluk.com/e/42726168/ bkz utanmıştır abisi 
-https://www.uludagsozluk.com/e/42726591/ bkz ayol hangi erkek o kız
-https://www.uludagsozluk.com/e/42725690/ bkz kızlar duruşuma hasta
-https://www.youtube.com/watch?v=s3BGryfktXY  goyduk eğleniyoz
-https://www.uludagsozluk.com/e/179371/ bkz mesihin mesih değilim deyecek olması hilesi
-https://www.uludagsozluk.com/e/42726595/ bkz boru gibi girdi boruuuuuuuu kankağ
-https://www.youtube.com/watch?v=U_c8_kWj1ow 15 temmuz un renkli siması
-https://www.youtube.com/watch?v=eX2-qhdvYdA koydum koydum inanmadınız
-https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
-https://www.youtube.com/watch?v=39bTjy3q74g dinle
--->
 
 [![Image](skynet/Screenshot_2020-01-18_13-21-44.png)](  https://www.youtube.com/watch?v=dg0xN11VVDo )
 
