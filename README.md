@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
-bkz vedaty mürüqünün üniversiteye girdiğim yıl doğması
+bkz vedat mürüqünün üniversiteye girdiğim yıl doğması
 bkz mere morun yürüdüğü kızın loris kariusun a yürüyen kız çıkması
 bkz loris karius un yine yürümesi
 bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
