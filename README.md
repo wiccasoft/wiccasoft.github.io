@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+bkz 94 doğumlu hanımcı forvet
 https://www.uludagsozluk.com/e/42726848/ bkz hanımcı erkek
 https://www.uludagsozluk.com/k/hamile-kalmak-istemek-ama-koci%C5%9Fin-olmamas%C4%B1/ üzücü durumlar
 https://onedio.com/haber/annesine-asirili-bagli-erkeklerden-uzak-durmaniz-icin-gayet-yeterli-12-durum-888959
