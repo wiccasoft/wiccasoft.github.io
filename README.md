@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
+bkz ergenlere 41 yaşımda olduğumuçocuğum yaşında oluklarını baba bi dille anlatmak
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
 https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
 https://www.youtube.com/watch?v=Vvn8GyynHDE bkz narkotik özlemi annenin beğenmemesi
