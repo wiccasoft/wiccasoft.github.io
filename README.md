@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bkz abe kaynana yaktın beni diyen erkek
+https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
 https://galeri.uludagsozluk.com/r/annen-mi-ben-mi-1965810/ bkz anneci erkeğin sinir yapması
 https://www.uludagsozluk.com/e/42727482/ bkz anan reis
 bkz seneye sünnet olacam diyen anneci erkek
@@ -10,7 +12,6 @@ bkz anneme anne babama buba diyesin diyen kızın patlak çıkması
 bkz anne senden genç gösteriyo diyen kız
 bkz annen mi ben mi diyen kızı lise çıkışı anneyle tanıştırmak
 bklz enes abinni seni karıya götürüyeim demesi
-https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
 bkz hitlerin türklükten aldığım keyfi hiç bişeyden almadım demesi
 bkz hitlerin türkiyeye saldırmama sebebi
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş erkek
