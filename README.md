@@ -4,7 +4,7 @@
 <!-- 
 bkz adam zaten fenerli beyler
 https://www.uludagsozluk.com/e/179371/ bkz mesihin mesih değilim deyecek olması hilesi
-https://www.uludagsozluk.com/e/42726632/ bkz amın goduk başgan goyacaz da
+https://www.uludagsozluk.com/e/42726632/ bkz goduk eğleniyoz bro
 https://www.uludagsozluk.com/e/42726168/ bkz utanmıştır abisi 
 https://www.uludagsozluk.com/e/42726591/ bkz ayol hangi erkek o kız
 https://www.uludagsozluk.com/e/42725690/ bkz kızlar duruşuma hasta
