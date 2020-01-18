@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+https://www.uludagsozluk.com/k/adanal%C4%B1lar/&w=bg bkz anneci erkeklerin mensubu olduğu il
 https://www.uludagsozluk.com/k/ferda-an%C4%B1l-yark%C4%B1n/&w=bg bkz anneci erkek
 https://www.uludagsozluk.com/k/anneci-erkekler/ bkz mahsun kırmızıgül -->
 
