@@ -3,6 +3,7 @@
 
 <!-- 
 bkz adam zaten fenerli beyler
+https://www.uludagsozluk.com/e/42726650/ adam gibi konuş lan amına gorum
 https://www.uludagsozluk.com/e/179371/ bkz mesihin mesih değilim deyecek olması hilesi
 https://www.uludagsozluk.com/e/42726632/ bkz goduk eğleniyoz bro
 https://www.uludagsozluk.com/e/42726168/ bkz utanmıştır abisi 
