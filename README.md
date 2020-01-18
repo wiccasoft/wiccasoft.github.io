@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bkz baldızcı erkek
 bkz abe kaynana yaktın beni diyen erkek
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
 https://galeri.uludagsozluk.com/r/annen-mi-ben-mi-1965810/ bkz anneci erkeğin sinir yapması
