@@ -1,7 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
-<!-- 
+<!--
+bkz buket aydın arda turan röportajı
 https://www.uludagsozluk.com/e/42726862/ bkz askerlik anısı anlatan erkek
 bkz 94 doğumlu hanımcı forvet
 bkz ya annen ya ben diyen 99 doğumlu kız
