@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemeiş erkek
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz patlak kız anneci oğlan ilşkisi
 bkz eline kız eli değmemeiş erkeğin kalbine sevgi sokan kız
 https://www.youtube.com/watch?v=FFzk_MX1DCo la gloria
