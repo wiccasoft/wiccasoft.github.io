@@ -1,8 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
-<!-- 
-bk eline kız eli değmemeiş erkeğin kalbine sevgi sokan kız
+<!--
+bkz patlak kızın anneci oğlan ilşkisi
+bkz eline kız eli değmemeiş erkeğin kalbine sevgi sokan kız
 https://www.youtube.com/watch?v=FFzk_MX1DCo la gloria
 bkz ergenler niye yaşıtlarıyla kumda oynamıyorlar sorunsalı
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
