@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!-- 
+https://eksisozluk.com/18-ocak-2020-gaziantep-fk-fenerbahce-maci--6318631?a=popular at fava torun tombalak okusun ilerde
+https://eksisozluk.com/18-ocak-2020-vedat-muriqinin-gordugu-kirmizi-kart--6327468?a=popular şaka maka ne karttı ha
 https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular şaka maka pipileri de kalkıyodur bunların
 bkz vedat mürüçüye entry giren bi ergen en fazla kaç yaşındadır sorunsalı
 https://www.youtube.com/watch?v=lF_5DT43x0g bkz şaka maka madafaka
