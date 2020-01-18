@@ -4,11 +4,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42725198/ bkz akın roboticsin güldürmesi
-https://www.youtube.com/watch?v=1DpCyNmZKzk bkz hakan şükürün youtube kanalı açması
-https://www.youtube.com/watch?v=OFeJCJziVCk bkz hasan şaşın akın robotisle dalga geçmesi
-bkz akın roboticsin robotlarının testeredeki adama benzemesi 
-https://eksisozluk.com/ronaldinho-gaucho--877945?a=popular adam top cambazı beyler 
-https://eksisozluk.com/zeynep-bastik-turkiyenin-adeleidir--6326916?a=popular bkz zeynep bastık kim amk
 -->
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
