@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
 <!--
-bkz boşalırken sperm tutan çocuk
+bkz porno filmde boşalırken arkada sperm tutan çocuk
 bkz boşalırken mustafa ata cücü diyen erkek
 bkz mustafa ata cücü sünnetlimiydi sorunsalı
 https://www.uludagsozluk.com/k/t%C3%BCrk-askerlerinin-sonunu-getirece%C4%9Fiz/
