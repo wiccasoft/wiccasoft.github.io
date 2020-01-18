@@ -5,7 +5,6 @@ https://www.youtube.com/watch?v=dg0xN11VVDo sıkıcısın amk
 https://www.uludagsozluk.com/e/42726331/ zuhahahahahahaha
 bkz kaostan düzen doğar yiyin birbiriniz ibneler
 bkz siklenmedikçe coşan türkler
-bkz türk askerine arkadan vuracaz önden sallanacak
 https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdun mu önden sallanacak aga
 https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
 bkz deep turkish web teki iğrenç ibnelerin seks hayatı var mı sorunsalı
@@ -13,19 +12,6 @@ bkz 30 yaşında hala 31 çeken erkek
 bkz 41 yaşında 41 çeken erkek
 bkz drogbanın kobrayı salması
 bkz türkiye gay cenneti ben çok seviyor diyen aktif forvet
-bkz altay bayındırn paylaştığı pfdk puan tablosu
-bkz mehdiyin mehdi değilim deyecek olması
-bkz boşalırken mustafa ata cücü diyen erkek
-bkz mustafa ata cücü sünnetlimiydi sorunsalı
-https://www.uludagsozluk.com/k/t%C3%BCrk-askerlerinin-sonunu-getirece%C4%9Fiz/
-https://www.uludagsozluk.com/k/papatya-%C3%A7ay%C4%B1-i%C3%A7en-erkek/&w=bg bkz boşalırken ıhlamur gibi boşalan erkek
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz mustafa ata cücü
-https://www.uludagsozluk.com/k/bo%C5%9Fal%C4%B1rken-ay-bo%C5%9Fald%C4%B1m-diyen-erkek/&w=bg zuahahahahah
-bkz 41 yaşında gelip 26 yaşındaki ibnelerle dalga geçen erkek
-bkz ilk boşalmada sperm tutan oğlanın suratına boşalmak
-bkz ilk boşalmada abdulhamid torunuyum diyen erkek
-https://www.youtube.com/watch?v=8omHX8cm1rY
-bkz ilk buluşmada malafatı masaya koyan erkek
 bkz telefonu ve surata boşalma sorunu olmayan sinirsiz erkek
 https://www.uludagsozluk.com/k/bo%C5%9Fal%C4%B1rken-ay-bo%C5%9Fald%C4%B1m-diyen-erkek/&w=bg 
 -->
