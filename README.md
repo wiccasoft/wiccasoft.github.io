@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!-- 
+https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular şaka maka pipileri de kalkıyodur bunların
 bkz vedat mürüçüye entry giren bi ergen en fazla kaç yaşındadır sorunsalı
 https://www.youtube.com/watch?v=lF_5DT43x0g bkz şaka maka madafaka
 https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz babam sünnet ol öle dokan diyo
