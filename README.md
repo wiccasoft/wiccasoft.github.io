@@ -4,8 +4,7 @@
 <!-- 
 https://eksisozluk.com/18-ocak-2020-gaziantep-fk-fenerbahce-maci--6318631?a=popular at fava bekle ne maçtı haaaaaa
 https://eksisozluk.com/18-ocak-2020-vedat-muriqinin-gordugu-kirmizi-kart--6327468?a=popular şaka maka ne karttı ha
-https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular şaka maka pipileri de kalkıyodur bunların
-bkz vedat mürüçüye entry giren bi ergen en fazla kaç yaşındadır sorunsalı
+https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular şaka maka futbol da oynar bunlar
 https://www.youtube.com/watch?v=lF_5DT43x0g bkz şaka maka madafaka
 https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz babam sünnet ol öle dokan diyo
 https://eksisozluk.com/vedat-muriqi--4467915?a=popular beyler adam 94 lü çocuğunuz yaşında lan
