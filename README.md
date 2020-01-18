@@ -1,7 +1,12 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
-
+<!-- 
+https://www.uludagsozluk.com/k/anneci-erkekler/&w=bg aman diyim kızlar 
+https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg kızlar uzak durun 
+https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg bkz anneci erkek
+https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz anneci erkek
+-->
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
 
