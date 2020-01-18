@@ -1,32 +1,6 @@
 
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
-
-<!-- 
-bkz cevab vermedi
-https://www.youtube.com/watch?v=zcrSZ6K5Fcw
-bkz ekşicilere sosyal medya kullanmayı öğreten robot tasarlamak
-https://www.youtube.com/watch?v=y3RIHnK0_NE 
-bkz kına yakan robotun davulcuya kaçması
-bkz madem akın robotics robot üretiyo niye robotlar isyan etmiyo
-bkz madem allah yok niye inkar ediyolar
-bkz madem maymundan geldik niye maymunlar insan olmuyo
-bkz madem solcular çok niye iktidar olamıyo 
-bkz ülkücüler ülküyosa ülkümeyenler ülkmüyo mu sorunsalı
-https://www.uludagsozluk.com/e/42713393/ madem çalışmıyo o zaman ülkücüler nası giriyo
-bkz akınsoftun bokunu çıkarması
-https://eksisozluk.com/madem-solcular-cok-zeki-neden-iktidar-olamiyorlar--4540613?a=popular bkz gafaları basmiy oglim
-https://www.facebook.com/watch/?v=601162903415939 solcu robot
-https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robotların çektiği çileler 
-http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
-https://www.youtube.com/watch?v=tC4D-bzCWJc bkz rahşanı aramayıp sormayıp ölünce kına yakan ekşiciler
-https://www.youtube.com/watch?v=nvYPCNCGEK8 bkz akınsoftun bokunu çıkarması
-http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304 
-https://www.youtube.com/watch?v=V0aDEvmf5u0 bkz beni akınsoft un sahibi akın sanan ekşiciler
-https://www.youtube.com/watch?v=V0aDEvmf5u0 bkz beni önemli biri sanan ekşiciler
-https://www.uludagsozluk.com/e/42723467/ bkz gözlerini kısıp senin göt deliğini sikerim bakışı atan erkek
--->
-
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
 
 [![Image](skynet/Screenshot_2020-01-16_17-13-42.png)]( https://www.youtube.com/watch?v=RaJHr9ThK5k )
