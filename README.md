@@ -3,8 +3,8 @@
 
 <!-- 
 bkz ergenler niye yaşıtlarıyla kumda oynamıyorlar sorunsalı
-bkz vedat mürüç doğduğunda üniversiteye başlamış olmam
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
+bkz vedat mürüç doğduğunda üniversiteye başlamış olmam
 bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
 bkz annen mi ben mi diyen kıza evladım siggi git kumda yaşıtlarınla oyna demek
 https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
