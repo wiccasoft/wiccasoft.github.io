@@ -3,7 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
-bkz kaz gelecek yerden tavuk esirgemem https://www.youtube.com/watch?v=OFeJCJziVCk
+bkz kaz gelecek yerden horoz esirgemem https://www.youtube.com/watch?v=OFeJCJziVCk
 bkz futbol fanatiklerinin zeka seviyesi https://www.youtube.com/watch?v=jdjsGMl-yWI
 https://www.uludagsozluk.com/k/fatih-terim-in-arda-turan-a-bekle-demesi/
 https://www.uludagsozluk.com/e/42722070/ dincilerden bir tık alttadır evet
