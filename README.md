@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=eX2-qhdvYdA dedim dedim inanamadınız
 https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
+https://www.youtube.com/watch?v=39bTjy3q74g dinle
 -->
 
 [![Image](skynet/Screenshot_2020-01-18_13-21-44.png)](  https://www.youtube.com/watch?v=dg0xN11VVDo )
