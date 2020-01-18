@@ -19,7 +19,7 @@ https://eksisozluk.com/madem-solcular-cok-zeki-neden-iktidar-olamiyorlar--454061
 https://www.facebook.com/watch/?v=601162903415939 solcu robot
 https://www.youtube.com/watch?v=hvWg_vmFuDI ülkücü robotların çektiği çileler 
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304  
-bkz rahşanı aramayıp sormayıp ölünce kına yakan ekşiciler
+https://www.youtube.com/watch?v=tC4D-bzCWJc bkz rahşanı aramayıp sormayıp ölünce kına yakan ekşiciler
 https://www.youtube.com/watch?v=nvYPCNCGEK8 bkz akınsoftun bokunu çıkarması
 http://www.hurriyet.com.tr/gundem/sonunda-bu-da-oldu-kina-gecesi-robotu-41422304 
 https://www.youtube.com/watch?v=V0aDEvmf5u0 bkz beni akınsoft un sahibi akın sanan ekşiciler
