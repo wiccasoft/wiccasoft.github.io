@@ -6,17 +6,10 @@ https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
 bkz deep turkish web teki iğrenç ibnelerin seks hayatı var mı sorunsalı
 bkz 30 yaşında hala 31 çeken erkek
 bkz 41 yaşında 41 çeken erkek
-bkz telefonu olmayan erkek
-bkz telefonuna şifre koymayan erkek
-bkz ilk buluşmada telefonu masaya koyan erkek
-bkz ilk buluşmdaya spermli telefonla gelen erkek
-bkz ilk buluşmada masaya boşalan erkek
 bkz drogbanın kobrayı salması
 bkz türkiye gay cenneti ben çok seviyor diyen aktif forvet
 bkz altay bayındırn paylaştığı pfdk puan tablosu
 bkz mehdiyin mehdi değilim deyecek olması
-bkz pfdk nın türk askerilerine götten kayacaz demesi
-bkz porno filmde boşalırken arkada sperm tutan çocuk
 bkz boşalırken mustafa ata cücü diyen erkek
 bkz mustafa ata cücü sünnetlimiydi sorunsalı
 https://www.uludagsozluk.com/k/t%C3%BCrk-askerlerinin-sonunu-getirece%C4%9Fiz/
