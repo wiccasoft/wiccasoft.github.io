@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!--
+bkz buket aydının mia khalfadan güzel olması
 bkz buket aydının ya annen ya ben demesi
 bkz buket aydının anneci erkek istemem tribi
 https://www.uludagsozluk.com/e/42726877/
