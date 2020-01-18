@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
+https://www.youtube.com/watch?v=FFzk_MX1DCo la gloria
 bkz ergenler niye yaşıtlarıyla kumda oynamıyorlar sorunsalı
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
 bkz vedat mürüç doğduğunda üniversiteye başlamış olmam
