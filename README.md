@@ -1,5 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
+<!-- bkz bordo klavyeli ibnelerin güldürmesi -->
+
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
