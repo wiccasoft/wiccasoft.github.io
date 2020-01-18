@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
 <!-- 
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz mustafa ata cücü
 https://www.uludagsozluk.com/k/bo%C5%9Fal%C4%B1rken-ay-bo%C5%9Fald%C4%B1m-diyen-erkek/&w=bg zuahahahahah
 bkz 41 yaşında gelip 26 yaşındaki ibnelerle dalga geçen erkek
 bkz ilk boşalmada sperm tutan oğlanın suratına boşalmak
