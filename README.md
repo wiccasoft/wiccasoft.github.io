@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 94 doğumlu hanımcı forvet
+bkz ya annene ya ben diyen 96 doğumlu kız
 https://www.uludagsozluk.com/e/42726848/ bkz hanımcı erkek
 https://www.uludagsozluk.com/k/hamile-kalmak-istemek-ama-koci%C5%9Fin-olmamas%C4%B1/ üzücü durumlar
 https://onedio.com/haber/annesine-asirili-bagli-erkeklerden-uzak-durmaniz-icin-gayet-yeterli-12-durum-888959
