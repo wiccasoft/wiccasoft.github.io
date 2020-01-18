@@ -2,14 +2,14 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
+https://www.youtube.com/watch?v=39bTjy3q74g dinle
 https://galeri.uludagsozluk.com/r/vedat-muriqi-1913263/ adam fenerli zaten beyler
 https://www.youtube.com/watch?v=s3BGryfktXY adam zaten fenerli beyler
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg adam zaten fenerli beyler
 https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg adam anneci beyler
 bkz adam zaten fenerli beyler https://www.youtube.com/watch?v=S15agXCPvC8
 https://www.youtube.com/watch?v=eX2-qhdvYdA koydum koydum inanmadınız
-https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
-https://www.youtube.com/watch?v=39bTjy3q74g dinle
 https://www.uludagsozluk.com/k/adanal%C4%B1lar/&w=bg bkz anneci erkeklerin mensubu olduğu il
 https://www.uludagsozluk.com/k/ferda-an%C4%B1l-yark%C4%B1n/&w=bg bkz anneci erkek
 https://www.uludagsozluk.com/k/anneci-erkekler/ bkz mahsun kırmızıgül -->
