@@ -4,13 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=y3RIHnK0_NE
 bkz akın robotics in robotlarının güldürmesi
-bkz radamel falco garcianın vedat mürçünün elini sıkmaması
-bkz trumpın vedat mürüçüyü soyunma odasında tebrik etmesi
-bkz vedat mürüçünün türkleree arkadadan vuracaz öndene sallanacak demesi
-https://www.uludagsozluk.com/k/anneci-erkekler/ bkz koca olmayacak erkekler
-bkz buket aydının  mia khalfaya güzel diyen bana demesin demesi
-https://www.uludagsozluk.com/k/buket-ayd%C4%B1n%C4%B1n-t%C3%BCrkiyenin-en-g%C3%BCzel-kad%C4%B1n%C4%B1-olmas%C4%B1/
-https://onedio.com/haber/annesine-asirili-bagli-erkeklerden-uzak-durmaniz-icin-gayet-yeterli-12-durum-888959 -->
+-->
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
