@@ -3,7 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
-bkz mekanın sahibi erkek seksiliği
+https://www.youtube.com/watch?v=ehwyKUGmHas bkz mekanın sahibi erkek seksiliği
 https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
 https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/fetullah-g%C3%BClen-in-b%C3%BClent-ecevit-e-veda-ilan%C4%B1/
