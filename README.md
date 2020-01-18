@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bkz annem mi ben mi diyen ibneye tabi ki annen demek
 bkz 94 de siktiğim karının oğlunun uluda başlık kasması
 bkz mother i like to fuck
 bkz hoşlanılmayan ibneye m.i.l.f ne demek anlatmak
