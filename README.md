@@ -1,30 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
-<!--
-bkz buket aydının mia khalfaya güzel diyuen bana demesin demesi
-bkz buket aydının mia khalfadan güzel olması
-bkz buket aydının ya annen ya ben demesi
-bkz buket aydının anneci erkek istemem tribi
-bkz buket aydının türkiyenin en güzel kızı olması
-bkz buket aydın arda turan röportajı
-https://www.uludagsozluk.com/e/42726862/ bkz askerlik anısı anlatan erkek
-bkz 94 doğumlu hanımcı forvet
-bkz ya annen ya ben diyen 99 doğumlu kız
-https://www.uludagsozluk.com/e/42726848/ bkz hanımcı erkek
-https://www.uludagsozluk.com/k/hamile-kalmak-istemek-ama-koci%C5%9Fin-olmamas%C4%B1/ üzücü durumlar
-https://onedio.com/haber/annesine-asirili-bagli-erkeklerden-uzak-durmaniz-icin-gayet-yeterli-12-durum-888959
-https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
-https://www.youtube.com/watch?v=39bTjy3q74g dinle
-https://galeri.uludagsozluk.com/r/vedat-muriqi-1913263/ adam fenerli zaten beyler
-https://www.youtube.com/watch?v=s3BGryfktXY adam zaten fenerli beyler
-https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg adam zaten fenerli beyler
-https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg adam anneci beyler
-bkz adam zaten fenerli beyler https://www.youtube.com/watch?v=S15agXCPvC8
-https://www.youtube.com/watch?v=eX2-qhdvYdA koydum koydum inanmadınız
-https://www.uludagsozluk.com/k/adanal%C4%B1lar/&w=bg bkz anneci erkeklerin mensubu olduğu il
-https://www.uludagsozluk.com/k/ferda-an%C4%B1l-yark%C4%B1n/&w=bg bkz anneci erkek
-https://www.uludagsozluk.com/k/anneci-erkekler/ bkz mahsun kırmızıgül -->
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
