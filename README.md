@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
+bkz ergenler niye yaşıtlarıyla kumda oynamıyorlar sorunsalı
 bkz vedat mürüç doğduğunda üniversiteye başlamış olmam
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
 bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
