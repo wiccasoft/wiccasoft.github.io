@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+https://onedio.com/haber/annesine-asirili-bagli-erkeklerden-uzak-durmaniz-icin-gayet-yeterli-12-durum-888959
 https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
 https://www.youtube.com/watch?v=39bTjy3q74g dinle
 https://galeri.uludagsozluk.com/r/vedat-muriqi-1913263/ adam fenerli zaten beyler
