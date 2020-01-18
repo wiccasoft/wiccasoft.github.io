@@ -3,7 +3,9 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+bkz akın robotics robotlarının insalık için tehdit ouşturması
 https://www.youtube.com/watch?v=jdjsGMl-yWI
+https://www.uludagsozluk.com/k/evlilik-fuar%C4%B1nda-tan%C4%B1t%C4%B1lan-k%C4%B1na-gecesi-robotu/
 https://www.uludagsozluk.com/k/kom%C3%BCnist-belediye-ba%C5%9Fkan%C4%B1-f-ma%C3%A7o%C4%9Flu-na-haciz-%C5%9Foku/
 https://www.uludagsozluk.com/k/czn-burak-%C4%B1-cezene-burak-diye-okuyan-tip/
 https://www.uludagsozluk.com/k/mevl%C3%BCt-%C3%A7avu%C5%9Fo%C4%9Flu-nun-gen%C3%A7lik-foto%C4%9Fraf%C4%B1/
