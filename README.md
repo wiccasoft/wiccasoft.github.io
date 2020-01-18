@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
 <!--
+bkz türkiye gay cenneti ben çok seviyor diyen aktif forvet
 bkz altay bayındırn paylaştığı pfdk puan tablosu
 bkz mehdiyin mehdi değilim deyecek olması
 bkz pfdk nın türk askerilerine götten kayacaz demesi
