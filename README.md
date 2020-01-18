@@ -3,6 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+bkz ırkçılarla dincilerin kullanışları aptallar olması
 https://www.youtube.com/watch?v=5vyQwv9N92I bkz fettullah gülenin yeni kalkışma planlaması
 https://www.youtube.com/watch?v=ehwyKUGmHas bkz mekanın sahibi erkek seksiliği
 https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
