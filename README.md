@@ -3,14 +3,6 @@
 
 <!-- 
 bkz annen mi ben mi diyen kıza evladım siggi git kumda yaşıtlarınla oyna demek
-bkz bana kız ayarlasana diyen erkek
-bkz eline kız eli değmemiş sünnetsiz erkek
-bkz sadık çiftpınar vedat mürüçü dostluğu
-bkz sadık çiftpınara yürüyern kızın vedat mürüçününü yürüdüğü kıza yürümesi
-bkz vedat mürüçünüm yürüdüğü kızın loris kariusun hoplattığı kız çıkması
-bkz vedat mürüqünün üniversiteye girdiğim yıl doğması
-bkz mere morun yürüdüğü kızın loris kariusun a yürüyen kız çıkması
-bkz loris karius un yine yürümesi
 bkz seninle şöyle olabiliydik diyen ergeninin çocuğum yaşında olması
 bkz hoşlanılmayan kıza vedat mürüçüyü ayarlayıp kurtulmak
 https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
