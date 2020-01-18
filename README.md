@@ -3,6 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.youtube.com/watch?v=OFeJCJziVCk bkz hasan şaşın akın robotisle dalga geçmesi
 bkz akın roboticsin robotlarının testeredeki adama benzemesi 
 https://www.uludagsozluk.com/e/42725198/ bkz akın roboticsin güldürmesi
 bkz akın robotics robotlarının insalık için tehdit ouşturması
