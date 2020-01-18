@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bkz olfun kadınlardan hoşlanan anneci erkek
 bkz şaka maka hoşlanılmayan kızın annesini götürmek
 bkz kaynananın en öpülesi yeri
 bkz abe kaynana yaktın beni diyen erkek
