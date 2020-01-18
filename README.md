@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
-bz adam zaten fenerli beyler https://www.youtube.com/watch?v=S15agXCPvC8
+https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg adam anneci beyler
+bkz adam zaten fenerli beyler https://www.youtube.com/watch?v=S15agXCPvC8
 https://www.youtube.com/watch?v=eX2-qhdvYdA koydum koydum inanmadınız
 https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
 https://www.youtube.com/watch?v=39bTjy3q74g dinle
