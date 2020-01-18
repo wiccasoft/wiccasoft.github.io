@@ -1,6 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
-<!-- https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular bkz şaka maka madafaka -->
+
+<!-- 
+https://eksisozluk.com/vedat-muriqi--4467915?a=popular beyler adam 94 lü  çocuğunuyz yaşında lan
+https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular bkz şaka maka madafaka -->
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
