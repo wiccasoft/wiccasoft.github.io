@@ -1,4 +1,4 @@
-[![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
+[![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.youtube.com/watch?v=dg0xN11VVDo )
 
 <!--
 https://www.youtube.com/watch?v=dg0xN11VVDo sıkıcısın amk
