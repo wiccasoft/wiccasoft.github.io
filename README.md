@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
-bkz verdat mürüçünüm yürüdüğü kızın loris kariusun hoplattığı kız çıkması
+bkz sadık çiftpınara yürüyern kızın vedat mürüçününü yürüdüğü kıza yürümesi
+bkz vedat mürüçünüm yürüdüğü kızın loris kariusun hoplattığı kız çıkması
 bkz vedat mürüqünün üniversiteye girdiğim yıl doğması
 bkz mere morun yürüdüğü kızın loris kariusun a yürüyen kız çıkması
 bkz loris karius un yine yürümesi
