@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
-https://www.youtube.com/watch?v=Vvn8GyynHDE bkz narkoptik özlemi annenin beğenmemesi
+https://www.youtube.com/watch?v=PrxP01xmrKo zuahhahahahahahaa
+https://www.youtube.com/watch?v=Vvn8GyynHDE bkz narkotik özlemi annenin beğenmemesi
 https://www.youtube.com/watch?v=fcu2wVY5siI bkz anişkoya kız beğendirememek
 https://www.uludagsozluk.com/k/anneci-erkekler/&w=bg aman diyim kızlar 
 https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg kızlar uzak durun 
