@@ -3,6 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
 https://www.uludagsozluk.com/k/fetullah-g%C3%BClen-in-b%C3%BClent-ecevit-e-veda-ilan%C4%B1/
 https://www.uludagsozluk.com/k/sagopa-kajmer-in-savc%C4%B1l%C4%B1%C4%9Fa-ifade-vermesi/
 https://www.uludagsozluk.com/k/t%C3%BCrk-askerlerinin-sonunu-getirece%C4%9Fiz/&w=gd
