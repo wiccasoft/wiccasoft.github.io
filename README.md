@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
-bkz baldızcı erkek
+bkz şaka maka hoşlanılmayan ibnenin annesinin taş gibi olması
 bkz kaynananın en öpülesi yeri
 bkz abe kaynana yaktın beni diyen erkek
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
