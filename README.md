@@ -4,6 +4,7 @@
 
 <!-- 
 bkz cevab vermedi
+https://www.youtube.com/watch?v=y3RIHnK0_NE 
 bkz kına yakan robotun davulcuya kaçması
 bkz madem akın robotics robot üretiyo niye robotlar isyan etmiyo
 bkz madem allah yok niye inkar ediyolar
