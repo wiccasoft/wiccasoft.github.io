@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=y3RIHnK0_NE )
 
 <!-- 
+bkz sadık çiftpınar vedat mürüçü dostluğu
 bkz sadık çiftpınara yürüyern kızın vedat mürüçününü yürüdüğü kıza yürümesi
 bkz vedat mürüçünüm yürüdüğü kızın loris kariusun hoplattığı kız çıkması
 bkz vedat mürüqünün üniversiteye girdiğim yıl doğması
