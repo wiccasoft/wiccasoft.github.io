@@ -3,6 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/fatih-terim-in-arda-turan-a-bekle-demesi/
 https://www.uludagsozluk.com/e/42722070/ dincilerden bir tık alttadır evet
 bkz vatanserverlik korkakların sığınağıdır
 bkz ırkçılarla dincilerin kullanışları aptallar olması
