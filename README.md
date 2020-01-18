@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!-- 
+bkz vedat mürüçüye enmtry giren bi ergen en fazla kaç yaşındadır sorunsalı
 https://www.youtube.com/watch?v=lF_5DT43x0g bkz şaka maka vedat mürüçüye entry girerken zamanın geçmesi
 https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz babam sünnet ol öle dokan diyo
 https://eksisozluk.com/vedat-muriqi--4467915?a=popular beyler adam 94 lü çocuğunuz yaşında lan
