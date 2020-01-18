@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.theguardian.com/uk-news/2020/jan/17/greenpeace-included-with-neo-nazis-on-uk-counter-terror-list )
 
 <!-- 
+bkz 41 yaşında gelip 26 yaşındaki ibnelerle dalga geçen erkek
 bkz ilk boşalmada sperm tutan oğlanın suratına boşalmak
 bkz ilk boşalmada abdulhamid torunuyum diyen erkek
 https://www.youtube.com/watch?v=8omHX8cm1rY
