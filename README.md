@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-18_13-46-38.png)](  https://www.youtube.com/watch?v=nuBLt_kaEQw )
 
 <!-- 
+https://www.uludagsozluk.com/e/42726595/ bkz boru gibi girdi boruuuuuuuu amuga godum
 https://www.youtube.com/watch?v=U_c8_kWj1ow 15 temmuz un renkli siması
 https://www.youtube.com/watch?v=eX2-qhdvYdA dedim dedim inanamadınız
 https://www.youtube.com/watch?v=1DpCyNmZKzk iddalara cevap
