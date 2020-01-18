@@ -3,6 +3,7 @@
 
 <!--
 bkz baldızcı erkek
+bkz kaynananın en öpülesi yeri
 bkz abe kaynana yaktın beni diyen erkek
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
 https://galeri.uludagsozluk.com/r/annen-mi-ben-mi-1965810/ bkz anneci erkeğin sinir yapması
