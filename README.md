@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 <!--
+bkz anne senden genç gösteriyo diyen kız
 bkz annen mi ben mi diyen kızı lise çıkışı anneyle tanıştırmak
 bklz enes abinni seni karıya götürüyeim demesi
 https://www.youtube.com/watch?v=ueptJlYwka0 bkz eline kız eli değmemiş anneci erkek
