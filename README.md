@@ -2,6 +2,7 @@
 [![Image](skynet/Screenshot_2020-01-18_13-46-38.png)](  https://www.youtube.com/watch?v=nuBLt_kaEQw )
 
 <!-- 
+https://www.uludagsozluk.com/e/42725690/ bkz kızlar duruşuma hasta
 https://www.youtube.com/watch?v=s3BGryfktXY bkz duran toplara iyi vuran forvet
 https://www.uludagsozluk.com/e/42726595/ bkz boru gibi girdi boruuuuuuuu kankağ
 https://www.youtube.com/watch?v=U_c8_kWj1ow 15 temmuz un renkli siması
