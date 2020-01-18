@@ -4,11 +4,9 @@
 bkz ilk boşalmada abdulhamid torunuyum diyen erkek
 https://www.youtube.com/watch?v=8omHX8cm1rY
 bkz ilk buluşmada malafatı masaya koyan erkek
-bkz telefonu olmayan sinirsiz erkek
-bkz ekrem imamoğlanın recep tayyipoğlan gönderdiği mektup
-bkz boşalırken sperm tutan koyunun suratına boaşalan erkek
-https://www.uludagsozluk.com/k/bo%C5%9Fal%C4%B1rken-ay-bo%C5%9Fald%C4%B1m-diyen-erkek/&w=bg bkkz erkeğini tanıyan ibne
-bkz bordo klavyeli ibnelerin güldürmesi -->
+bkz telefonu ve surata boşalma sorunu olmayan sinirsiz erkek
+https://www.uludagsozluk.com/k/bo%C5%9Fal%C4%B1rken-ay-bo%C5%9Fald%C4%B1m-diyen-erkek/&w=bg 
+-->
 
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
