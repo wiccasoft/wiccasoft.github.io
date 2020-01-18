@@ -3,6 +3,7 @@
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
 <!-- 
+https://www.uludagsozluk.com/k/hakan-%C5%9F%C3%BCk%C3%BCr-%C3%BCn-doland%C4%B1r%C4%B1ld%C4%B1m-demesi/
 https://eksisozluk.com/ronaldinho-gaucho--877945?a=popular adam top cambazı beyler 
 https://eksisozluk.com/zeynep-bastik-turkiyenin-adeleidir--6326916?a=popular bkz zeynep bastık kim amk
 -->
