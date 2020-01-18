@@ -4,7 +4,7 @@
 <!--
 bkz 94 de siktiğim karının oğlunun uluda başlık kasması
 bkz mother i like to fuck
-bkz hoşlanılmayan kıza m.i.l.f ne demek anlatmak
+bkz hoşlanılmayan ibneye m.i.l.f ne demek anlatmak
 bkz milfi kategoriğ en sevdiğim
 bkz olgun kadınlardan hoşlanan anneci erkek
 bkz şaka maka hoşlanılmayan kızın annesini götürmek
