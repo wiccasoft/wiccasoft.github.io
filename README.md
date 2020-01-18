@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
-<!-- https://www.uludagsozluk.com/k/anneci-erkekler/ bkz mahsun kırmızıgül -->
+<!-- 
+https://www.uludagsozluk.com/k/ferda-an%C4%B1l-yark%C4%B1n/&w=bg bkz anneci erkek
+https://www.uludagsozluk.com/k/anneci-erkekler/ bkz mahsun kırmızıgül -->
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
