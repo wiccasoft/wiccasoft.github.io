@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!-- 
-bkz cenk tosunun hakiki tosun benim paylaşımı
+bkz cenk tosunun hakiki tosun paşa benim paylaşımı
 bkz pkknın elindeki türk askerleri salması
 https://www.youtube.com/watch?v=CJXSnmJGrUk size her yer angara 
 bkz mehdinin mehdi değilim diyecek olması
