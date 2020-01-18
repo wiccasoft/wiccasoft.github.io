@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=Og5YkhCg6cY bkz bi ozan kabak vardı noldu ona
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz hey gidi hey
+bkz şaka maka emre morun yürümeye başlaması
 https://eksisozluk.com/18-ocak-2020-gaziantep-fk-fenerbahce-maci--6318631?a=popular at fava oku ne maçtı haaaaaa
 https://eksisozluk.com/18-ocak-2020-vedat-muriqinin-gordugu-kirmizi-kart--6327468?a=popular şaka maka ne karttı ha
 https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular şaka maka futbol da oynar bunlar
