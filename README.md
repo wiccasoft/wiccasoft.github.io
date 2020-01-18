@@ -1,20 +1,7 @@
-[![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.youtube.com/watch?v=dg0xN11VVDo )
 
-<!--
-https://www.youtube.com/watch?v=dg0xN11VVDo sıkıcısın amk
-https://www.uludagsozluk.com/e/42726331/ zuhahahahahahaha
-bkz kaostan düzen doğar yiyin birbiriniz ibneler
-bkz siklenmedikçe coşan türkler
-https://www.youtube.com/watch?v=NXQJ9iR5BkA arkadan vurdun mu önden sallanacak aga
-https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
-bkz deep turkish web teki iğrenç ibnelerin seks hayatı var mı sorunsalı
-bkz 30 yaşında hala 31 çeken erkek
-bkz 41 yaşında 41 çeken erkek
-bkz drogbanın kobrayı salması
-bkz türkiye gay cenneti ben çok seviyor diyen aktif forvet
-bkz telefonu ve surata boşalma sorunu olmayan sinirsiz erkek
-https://www.uludagsozluk.com/k/bo%C5%9Fal%C4%B1rken-ay-bo%C5%9Fald%C4%B1m-diyen-erkek/&w=bg 
--->
+[![Image](shadow/Screenshot_2020-01-18_13-21-44.png)](  https://www.youtube.com/watch?v=dg0xN11VVDo )
+
+<!-- [![Image](shadow/Screenshot_2020-01-17_16-27-03.png)]( https://www.youtube.com/watch?v=dg0xN11VVDo ) -->
 
 [![Image](shadow/Screenshot_2020-01-18_08-36-01.png)]( https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
@@ -43,8 +30,7 @@ https://dergipark.org.tr/en/download/article-file/89188-->
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=5D3crqpClPY )
 
 <!-- 
-https://www.uludagsozluk.com/k/arap%C3%A7adaki-algoritma-ve-vav/ bkz dindar beyniyle dindar algoritma kurabilen biri
-https://www.pornhub.com/view_video.php?viewkey=ph582aef2acdef2 
+https://www.pornhub.com/view_video.php?viewkey=ph582aef2acdef2  lol
 -->
 
 [![Image](skynet/Screenshot_2020-01-13_14-07-03.png)]( https://www.youtube.com/watch?v=WQ-sKXuauTY)
