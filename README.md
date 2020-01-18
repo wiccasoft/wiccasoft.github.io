@@ -2,28 +2,6 @@
 
 [![Image](shell/Screenshot_2020-01-17_23-06-26.png)]( https://www.nytimes.com/2020/01/17/technology/antitrust-hearing-boulder-colorado.html )
 
-<!-- 
-https://www.youtube.com/watch?v=AeveY0aW1Qg bkz pkknın elindeki çürük türk askerlerini salması
-bkz kaz gelecek yerden horoz esirgemem https://www.youtube.com/watch?v=OFeJCJziVCk
-bkz futbol fanatiklerinin zeka seviyesi https://www.youtube.com/watch?v=jdjsGMl-yWI
-https://www.uludagsozluk.com/k/fatih-terim-in-arda-turan-a-bekle-demesi/
-https://www.uludagsozluk.com/e/42722070/ dincilerden bir tık alttadır evet
-bkz vatanserverlik korkakların sığınağıdır
-bkz ırkçılarla dincilerin kullanışları aptallar olması
-https://www.youtube.com/watch?v=5vyQwv9N92I bkz fettullah gülenin yeni kalkışma planlaması
-https://www.youtube.com/watch?v=ehwyKUGmHas bkz mekanın sahibi erkek seksiliği
-https://www.youtube.com/watch?v=XsbksXXgXwQ nisanurun çilesi
-https://www.uludagsozluk.com/k/norm-ender-in-a%C5%9F%C4%B1r%C4%B1-seksi-olmas%C4%B1/&w=bg 
-https://www.uludagsozluk.com/k/fetullah-g%C3%BClen-in-b%C3%BClent-ecevit-e-veda-ilan%C4%B1/
-https://www.uludagsozluk.com/k/sagopa-kajmer-in-savc%C4%B1l%C4%B1%C4%9Fa-ifade-vermesi/
-https://www.uludagsozluk.com/k/t%C3%BCrk-askerlerinin-sonunu-getirece%C4%9Fiz/&w=gd
-https://www.youtube.com/watch?v=1DpCyNmZKzk bkz hakan şükürün akın roboticsle dalga geçmesi
-https://www.uludagsozluk.com/e/42725198/ bkz akın roboticsin güldürmesi
-https://eksisozluk.com/ronaldinho-gaucho--877945?a=popular adam top cambazı beyler
-https://eksisozluk.com/zeynep-bastik-turkiyenin-adeleidir--6326916?a=popular zeynep bastık kim amk
-bkz aşk acısı çeken kız vocal
--->
-
 [![Image](skynet/Screenshot_2020-01-17_04-52-15.png)]( https://www.youtube.com/watch?v=V0aDEvmf5u0 )
 
 [![Image](shadow/Screenshot_2020-01-16_19-37-26.png)]( https://www.youtube.com/watch?v=BnJJUj8DALs )
@@ -47,7 +25,7 @@ https://dergipark.org.tr/en/download/article-file/89188-->
 [![Image](skynet/Screenshot_2020-01-13_14-34-43.png)]( https://www.youtube.com/watch?v=5D3crqpClPY )
 
 <!-- 
-https://www.uludagsozluk.com/k/arap%C3%A7adaki-algoritma-ve-vav/ bkz beyniyle algoritma kurabilen biri
+https://www.uludagsozluk.com/k/arap%C3%A7adaki-algoritma-ve-vav/ bkz dindar beyniyle dindar algoritma kurabilen biri
 https://www.pornhub.com/view_video.php?viewkey=ph582aef2acdef2 
 -->
 
