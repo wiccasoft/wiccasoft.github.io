@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=mWvdsMwnGmM )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/vedat-muriqi-1913263/ adam fenerli zaten beyler
 https://www.youtube.com/watch?v=s3BGryfktXY adam zaten fenerli beyler
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg adam zaten fenerli beyler
 https://www.uludagsozluk.com/k/ersay-%C3%BCner/&w=bg adam anneci beyler
