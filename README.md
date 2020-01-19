@@ -5,7 +5,6 @@
 
 <!--
 https://www.youtube.com/watch?v=Lbjru5CQIW4 im your father ekşici
-bkz bi ekşicinin kulağına baban benim artık demek
 bkz annesini vermeyen ekşiciyi güzelce dövüp ikna etmek
 https://www.youtube.com/watch?v=tC4D-bzCWJc bırak çocuklar oynasın hanım :)))
 bkz pompadan sonra ayak yıkatılan karının ekşici akboyun annesi çıkması
