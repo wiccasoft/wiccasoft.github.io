@@ -1,18 +1,6 @@
 
-
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
-<!-- 
-bkz volkanın kariusa attığı şimdi ananı laciverde boyadım bakışı
-bkz ali koçun volkan a gösterdiği yeşil kart
-bkz rte nin benim laikçiye bafiletecek kızım yok demesi
-bkz rte nin dünyayı dize getiren konuşması
-bkz hafterin arm ci olması
-bkz rte vs apple
-https://eksisozluk.com/entry/100765083 lol
-bkz karius un kale direğini küçültmesi 
-https://www.uludagsozluk.com/e/42721594/ bkz mehdinin göreve başlaması
--->
 
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
