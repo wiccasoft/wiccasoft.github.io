@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+bkz ayak yıkatılan karının ekşicinin annesi çıkması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 bkz kaynana baldan dadlıdır diyen milföycü erkek
 https://www.youtube.com/watch?v=xTJav-ar6IQ
