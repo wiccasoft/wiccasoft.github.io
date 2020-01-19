@@ -1,9 +1,10 @@
 
+
+[![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=DdIdZwDqkmg )
+
 <!-- 
 https://eksisozluk.com/entry/100765083 lol
 https://eksisozluk.com/loris-karius--3546063?a=popular bkz karius un kale direğini küçültmesi -->
-
-[![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=DdIdZwDqkmg )
 
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
