@@ -3,7 +3,6 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-bkz kariusun emre belezoğluna ananı laciverde boyarım demesi
 bkz volkanın kariusa attığı şimdi ananı laciverde boyadım bakışı
 bkz ali koçun volkan a gösterdiği yeşil kart
 bkz rte nin benim laikçiye bafiletecek kızım yok demesi
