@@ -3,6 +3,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+bkz kızım olsaydı ilk sana siktirirdim diyen baba
 bkz imamaoğlanın ben çöpçüye kız vermem demesi
 bkz kızını başka erkeklere siktirecek kadar gavat olmak
 https://www.youtube.com/watch?v=uRbEjK3-1B4 imamoğlanın dans ederken göbeğinin sallanması
