@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+https://www.youtube.com/watch?v=Lbjru5CQIW4 im your father ekşici
 bkz bi ekşicinin kulağına baban benim artık demek
 bkz annesini vermeyen ekşiciyi güzelce dövüp ikna etmek
 https://www.youtube.com/watch?v=tC4D-bzCWJc bırak çocuklar oynasın hanım :)))
