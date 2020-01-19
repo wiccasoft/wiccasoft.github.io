@@ -1,4 +1,5 @@
 
+<!-- https://eksisozluk.com/loris-karius--3546063?a=popular bkz karius un kale direğini lüçültmesi -->
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=DdIdZwDqkmg )
 
