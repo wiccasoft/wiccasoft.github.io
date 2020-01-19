@@ -3,6 +3,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamoğlanın dans ederken göbeğinin sallanması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.youtube.com/watch?v=w6g_YBvK3WU imamoğlanın karısına araba alıp ihale kapmak
