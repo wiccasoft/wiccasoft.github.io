@@ -4,6 +4,7 @@
 
 <!--
 bkz imamaoğlanın ben çöpçüye kız vermem demesi
+bkz kızını başka erkeklere siktirecek kadar gavat olmak
 https://www.youtube.com/watch?v=uRbEjK3-1B4 imamoğlanın dans ederken göbeğinin sallanması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
