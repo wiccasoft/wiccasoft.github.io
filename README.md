@@ -4,10 +4,10 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
-bkz imamaoğlanın babasının benim akpliye verecek oğlum yok demesi
-bkz imamaoğlanın oğlunun babişkomu size yedirmem çıkışı
-bkz imamaoğlanın karısının o benim kocam size gaptırmam demesi
-bkz imamaoğlanın bakan varanka göbeğiyle nanik yapması
+bkz imamoğlanın babasının benim akpliye verecek oğlum yok demesi
+bkz imamoğlanın oğlunun babişkomu size yedirmem çıkışı
+bkz imamoğlanın karısının o benim kocam size gaptırmam demesi
+bkz imamoğlanın bakan varanka göbeğiyle nanik yapması
 https://www.youtube.com/watch?v=kVTNMsVnM-g
 bkz kızım olsaydı ilk sana siktirirdim diyen baba
 bkz imamaoğlanın ben çöpçüye kız vermem demesi
