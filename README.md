@@ -4,8 +4,8 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
-bkz anneini vermeyen ekşiciyi güzelce dövüp ikna etmek
-https://www.youtube.com/watch?v=tC4D-bzCWJc çocuklar oynasın lo
+bkz annesini vermeyen ekşiciyi güzelce dövüp ikna etmek
+https://www.youtube.com/watch?v=tC4D-bzCWJc çocuklar oynasın hanım :)))
 bkz pompadan sonra ayak yıkatılan karının ekşici akboyun annesi çıkması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 bkz kaynana baldan dadlıdır diyen milföycü erkek
