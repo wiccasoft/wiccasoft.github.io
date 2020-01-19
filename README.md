@@ -4,6 +4,7 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
+https://www.youtube.com/watch?v=w6g_YBvK3WU imamoğlanın karısına araba alıp ihale kapmak
 https://www.youtube.com/watch?v=8omHX8cm1rY bkz bizimkiler köyünü imamoğlu yönetmese olacaklar
 https://www.youtube.com/watch?v=rNK04rMZAq0 bkz imamoğlunun gerizekalı oğlu
 https://eksisozluk.com/ekrem-imamoglunun-dugun-goruntuleri--6328071?a=popular 
