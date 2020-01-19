@@ -1,6 +1,6 @@
 
 
-[![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=DdIdZwDqkmg )
+[![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
 https://eksisozluk.com/entry/100765083 lol
