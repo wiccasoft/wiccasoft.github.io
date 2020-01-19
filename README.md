@@ -4,7 +4,7 @@
 
 <!--
 https://www.youtube.com/watch?v=8omHX8cm1rY bkz bizimkiler köyünü imamoğlu yönetmese olacaklar
-https://www.youtube.com/watch?v=rNK04rMZAq0 bkz imamaoğlunun gerizekalı oğlu
+https://www.youtube.com/watch?v=rNK04rMZAq0 bkz imamoğlunun gerizekalı oğlu
 https://eksisozluk.com/ekrem-imamoglunun-dugun-goruntuleri--6328071?a=popular 
 https://eksisozluk.com/ben-kizimi-asgari-ucretli-erkege-vermem-diyen-baba--6327935?a=popular bkz ekrem imamaoğlu
 -->
