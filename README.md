@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+bkz kaynatasını vermeyen erkek
 https://www.youtube.com/watch?v=xTJav-ar6IQ
 bkz imamaoğlanın karısının kayınbabasına kahve yapması
 bkz imamoğlanın babasının benim akpliye verecek oğlum yok demesi
