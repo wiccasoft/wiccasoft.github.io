@@ -1,20 +1,8 @@
 
 
-[![Image](skynet/Screenshot_2020-01-18_18-43-07.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
+[![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
-
-<!-- 
-https://www.youtube.com/watch?v=BaTd_F2yIrU bkz v8 engine
-https://www.youtube.com/watch?v=Og5YkhCg6cY bkz bi ozan kabak vardı noldu ona
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz hey gidi hey
-bkz şaka maka emre morun yürümeye başlaması
-bkz vedat mürüçe entry girerkene babanın odaya girip hadi yat oglim demesi
-https://eksisozluk.com/18-ocak-2020-gaziantep-fk-fenerbahce-maci--6318631?a=popular at fava oku ne maçtı haaaaaa
-https://eksisozluk.com/18-ocak-2020-vedat-muriqinin-gordugu-kirmizi-kart--6327468?a=popular şaka maka ne karttı ha
-https://eksisozluk.com/92-dogumlularin-28-yasina-basmasi--6327562?a=popular şaka maka futbol da oynar bunlar
-https://www.uludagsozluk.com/k/eline-k%C4%B1z-eli-de%C4%9Fmemi%C5%9F-erkek/ bkz babam sünnet ol öle dokan diyo
--->
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
 
