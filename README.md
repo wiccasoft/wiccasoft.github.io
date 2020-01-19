@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz volkanın kariusa şimdi attığı ananı laciverde boyadım bakışı
 bkz ali koçun volkan a beş maç ceza vermesi
 bkz rte nin benim laikçiye bafiletecek kızım yok demesi
 bkz rte nin dünyayı dize getiren konuşması
