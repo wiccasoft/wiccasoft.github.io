@@ -6,36 +6,6 @@
 
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
-<!--
-https://eksisozluk.com/ekrem-imamogluna-lakap-buluyoruz-kampanyasi--6010578 bkz köçekoğlan
-bkz imamoglanın oynarken göbeğinin sallanması
-https://www.youtube.com/watch?v=uRbEjK3-1B4 
-https://www.youtube.com/watch?v=r-Qp9CWaba4
-bkz annesini vermeyen ekşiciyi güzelce dövüp ikna etmek
-https://www.youtube.com/watch?v=tC4D-bzCWJc bırak hanım oynasın çocuklar :))
-bkz pompadan sonra ayak yıkatılan karının ekşici akboyun annesi çıkması
-https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
-bkz kaynana baldan dadlıdır diyen milföycü erkek
-https://www.youtube.com/watch?v=xTJav-ar6IQ
-bkz imamaoğlanın karısının kayınbabasına kahve yapması
-bkz imamoğlanın babasının benim akpliye verecek oğlum yok demesi
-bkz imamoğlanın oğlunun babişkomu size yedirmem çıkışı
-bkz imamoğlanın karısının o benim kocam size gaptırmam demesi
-bkz imamoğlanın bakan varanka göbeğiyle nanik yapması
-https://www.youtube.com/watch?v=kVTNMsVnM-g
-bkz kızım olsaydı ilk sana siktirirdim diyen baba
-bkz imamaoğlanın ben çöpçüye kız vermem demesi
-bkz kızını başka erkeklere siktirecek kadar gavat olmak
-https://www.youtube.com/watch?v=uRbEjK3-1B4 imamoğlanın dans ederken göbeğinin sallanması
-https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-https://www.youtube.com/watch?v=w6g_YBvK3WU imamoğlanın karısına araba alıp ihale kapmak
-https://www.youtube.com/watch?v=8omHX8cm1rY bkz bizimkiler köyünü imamoğlu yönetmese olacaklar
-https://www.youtube.com/watch?v=rNK04rMZAq0 bkz imamoğlunun gerizekalı oğlu
-https://eksisozluk.com/ekrem-imamoglunun-dugun-goruntuleri--6328071?a=popular 
-https://eksisozluk.com/ben-kizimi-asgari-ucretli-erkege-vermem-diyen-baba--6327935?a=popular bkz ekrem imamaoğlu
--->
-
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)]( https://www.youtube.com/watch?v=FFzk_MX1DCo  )
 
 [![Image](shadow/Screenshot_2020-01-18_00-11-08.png)](  https://www.youtube.com/watch?v=S15agXCPvC8 )
