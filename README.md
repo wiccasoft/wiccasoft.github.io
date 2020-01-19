@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+bkz imamaoğlanın karısının kayınbabasına kahve yapması
 bkz imamoğlanın babasının benim akpliye verecek oğlum yok demesi
 bkz imamoğlanın oğlunun babişkomu size yedirmem çıkışı
 bkz imamoğlanın karısının o benim kocam size gaptırmam demesi
