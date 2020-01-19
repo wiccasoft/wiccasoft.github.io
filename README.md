@@ -4,9 +4,8 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
-bkz annesinin vermeyen ekşiciyi güzelce gövüp ikna etmek
-https://www.youtube.com/watch?v=Lbjru5CQIW4 im your father ekşici
-bkz annesini vermeyen ekşiciyi güzelce dövüp ikna etmek
+https://www.youtube.com/watch?v=r-Qp9CWaba4
+bkz annesini vermeyen ekşiciyi güzelce gövüp ikna etmek
 https://www.youtube.com/watch?v=tC4D-bzCWJc bırak çocuklar oynasın hanım :)))
 bkz pompadan sonra ayak yıkatılan karının ekşici akboyun annesi çıkması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
