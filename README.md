@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+bkz imamaoğlanın babasının benim akpliye verecek oğlum yok demesi
 bkz imamaoğlanın oğlunun babişkomu size yedirmem çıkışı
 bkz imamaoğlanın karısının o benim kocam size gaptırmam demesi
 bkz imamaoğlanın bakan varanka göbeğiyle nanik yapması
