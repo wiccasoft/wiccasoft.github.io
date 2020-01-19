@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+https://eksisozluk.com/ekrem-imamogluna-lakap-buluyoruz-kampanyasi--6010578 bkz köçekoğlan
 bkz imamoglanın oynarken göbeğinin sallanması
 https://www.youtube.com/watch?v=uRbEjK3-1B4 
 https://www.youtube.com/watch?v=r-Qp9CWaba4
