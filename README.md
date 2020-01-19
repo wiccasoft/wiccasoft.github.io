@@ -9,7 +9,7 @@ bkz imamoglanın oynarken göbeğinin sallanması
 https://www.youtube.com/watch?v=uRbEjK3-1B4 
 https://www.youtube.com/watch?v=r-Qp9CWaba4
 bkz annesini vermeyen ekşiciyi güzelce dövüp ikna etmek
-https://www.youtube.com/watch?v=tC4D-bzCWJc bırak çocuklar oynasın hanım :)))
+https://www.youtube.com/watch?v=tC4D-bzCWJc bırak hanım oynasın çocuklar :))
 bkz pompadan sonra ayak yıkatılan karının ekşici akboyun annesi çıkması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 bkz kaynana baldan dadlıdır diyen milföycü erkek
