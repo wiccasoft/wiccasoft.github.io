@@ -4,6 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
+bkz imamaoğlanın karısının o benim kocam size gaptırmam demesi
 bkz imamaoğlanın bakan varanka göbeğiyle nanik yapması
 https://www.youtube.com/watch?v=kVTNMsVnM-g
 bkz kızım olsaydı ilk sana siktirirdim diyen baba
