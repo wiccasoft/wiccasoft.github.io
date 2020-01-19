@@ -3,11 +3,10 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
-https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamoğlanın dans ederken göbeğinin sallanması
+https://www.youtube.com/watch?v=uRbEjK3-1B4 imamoğlanın dans ederken göbeğinin sallanması
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.youtube.com/watch?v=w6g_YBvK3WU imamoğlanın karısına araba alıp ihale kapmak
-bkz imamaoğlanın altına yatacak kadar midesiz olmak
 https://www.youtube.com/watch?v=8omHX8cm1rY bkz bizimkiler köyünü imamoğlu yönetmese olacaklar
 https://www.youtube.com/watch?v=rNK04rMZAq0 bkz imamoğlunun gerizekalı oğlu
 https://eksisozluk.com/ekrem-imamoglunun-dugun-goruntuleri--6328071?a=popular 
