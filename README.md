@@ -4,7 +4,7 @@
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
 
 <!--
-bkz yanana baldan dadlıdır diyen erkek
+bkz yanana baldan dadlıdır diyen milfçi erkek
 bkz kaynatasını vermeyen erkek
 https://www.youtube.com/watch?v=xTJav-ar6IQ
 bkz imamaoğlanın karısının kayınbabasına kahve yapması
