@@ -2,9 +2,9 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz karius un kale direğini küçültmesi 
 bkz volkanın kariusa attığı şimdi ananı laciverde boyadım bakışı
 https://eksisozluk.com/entry/100765083 lol
-bkz karius un kale direğini küçültmesi 
 https://www.uludagsozluk.com/e/42721594/ bkz mehdinin göreve başlaması
 bkz ali koçun volkan a gösterdiği yeşil kart
 bkz rte nin benim laikçiye bafiletecek kızım yok demesi
