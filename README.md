@@ -4,7 +4,7 @@
 
 <!-- 
 bkz volkanın kariusa attığı şimdi ananı laciverde boyadım bakışı
-bkz ali koçun volkan a gösterdiği kırmızı kart
+bkz ali koçun volkan a gösterdiği yeşil kart
 bkz rte nin benim laikçiye bafiletecek kızım yok demesi
 bkz rte nin dünyayı dize getiren konuşması
 bkz hafterin arm ci olması
