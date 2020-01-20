@@ -1,7 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 <!--
-bkz arda turanın iddaları reddetmesi
+bkz arda turanın iddaları reddetmesi tweeti
 bkz demirkolun demir gibi kalktı tweeti
 https://bit.ly/30B2cTs bkz brad pitt yavşağının hoplatmadığı karı kaldı mı sorunsalı 
 bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü türkiyenin çoşkun seli olacak demek istemesi
