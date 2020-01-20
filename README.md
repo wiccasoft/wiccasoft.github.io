@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.uludagsozluk.com/e/42735594/ bkz ılıktır
 https://www.uludagsozluk.com/e/42735586/ bkz annenin ispatladığı olay
 https://www.uludagsozluk.com/e/42735589/ bkz ultragayler
 https://www.uludagsozluk.com/e/42735594/ ılıktır 
