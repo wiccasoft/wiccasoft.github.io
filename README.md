@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz arda turanın naçiz vücudum bir gün elbety gs de oynayacaktır tweeti
 bkz efe aydalın nihat doğana yayında geçirmesi
 bkz arda turanın ülkemin gençlerine güveniyorum tweeti
 bkz hasan mezarcının mezarlık satın alması
