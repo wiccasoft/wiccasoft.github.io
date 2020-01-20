@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz efe aydalın efe dansı yapması
 bkz arda abisini kucağa alınca kızan geyseli
 bkz arda turanı kucağa alıp sen büyüyünce ne olacaksın demek
 bkz arda turanın geyse nin ata cücüsü olması
