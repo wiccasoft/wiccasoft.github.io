@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü bir istanbul için güzel bir adım tweeti
 https://www.uludagsozluk.com/e/42733618/ eywallah bro
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel
 https://www.uludagsozluk.com/e/42733558/ 2. dünya savaşında yunanistandan yüzerek istanbula gelmiştir 
