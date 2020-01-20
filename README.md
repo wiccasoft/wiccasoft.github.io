@@ -1,11 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
-<!-- https://rule34.paheal.net/post/view/1605549#search=Gwyneth_Paltrow 
-https://iris.paheal.net/_images/0a3f0b471818e78fa8a8f0782da12e0c/915769%20-%20Big_Daddy_%28artist%29%20Gwyneth_Paltrow%20Iron_Man%20Marvel%20Pepper_Potts%20fakes.jpg
--->
-
-
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
