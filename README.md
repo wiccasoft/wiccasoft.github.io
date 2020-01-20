@@ -2,7 +2,6 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-https://www.youtube.com/watch?v=YrXjn9N96YY come to daddy
 https://www.youtube.com/watch?v=RrXf0fppgGE ananızı sikmeye geliyorum oç ları
 https://www.youtube.com/watch?v=FI4BrXPMeZo adamı cinnete getirmeyin
 https://www.youtube.com/watch?v=l7otWEt-fBM karıyı boşayıp serap sapazı almak
