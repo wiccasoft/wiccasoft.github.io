@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz hasan mezarcının mezarlık satın alması
 bkz enes abinin efe abiye dava açması
 https://www.uludagsozluk.com/e/42735370/ hayallerde yaşıyo bazı ibneler
 bkz efe aydalın efe dansı yapması
