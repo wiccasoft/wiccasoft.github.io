@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-bkz demirtaşın kanal istanbul güçlü türkiyenin anahtarı olacak demek istemesi
+bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü türkiyenin çoşkun seli olacak demek istemesi
 https://www.youtube.com/watch?v=OeA9yeqG91A
 bkz 20 ocak 2020 demirtaşın lağım suları nereye akacak tweeti
 bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü bir istanbul için güzel bir adım tweeti
