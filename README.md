@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz 20 ocak 2020 arda turanın tweeti
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
 https://eksisozluk.com/arda-turan--963149?a=popular abi ne gelme gel dersiniz gelirim 
 https://eksisozluk.com/hagi-mi-alex-mi--2110033
