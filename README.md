@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-https://rule34.paheal.net/post/view/2340930#search=Iron_Man
+https://rule34.paheal.net/post/list/Iron_Man/5
 bkz arda turanın iddaları reddetmesi
 bkz demirkolun demir gibi kalktı tweeti
 https://bit.ly/30B2cTs bkz brad pitt yavşağının hoplatmadığı karı kaldı mı sorunsalı 
