@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=LABGimhsEys big bird lookin bitch
 https://www.youtube.com/watch?v=t2oVUxTV4WA zuhahahahaha
+bkz bafi dı vampir slayır izlerken tayyibin odaya girmesi
 bkz tayyibin fakir lakçiye bafiletecek kız yok ben de demesi
 https://www.youtube.com/watch?v=EfAsNffCjsM aptal fakirler için her şey düşünüldü
 https://www.uludagsozluk.com/e/42732997/ aptal fakirler bizi öldürmesin diye
