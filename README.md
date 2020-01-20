@@ -3,23 +3,6 @@
 
 <!-- 
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahahahahah
-https://www.youtube.com/watch?v=ZrK7LyLEgeI aadsadas bu nedir olm ya
-https://www.uludagsozluk.com/e/42735370/ hayallerde yaşıyor bazı ibneler
-bkz türkiyenin ultragay cenneti olma sebepleri
-bkz ultragaylerin ultragay oldukları gerçeği
-bkz karısına kilot giydiren gavat
-bkz kızını başka erkeğe siktiren gavat
-https://www.uludagsozluk.com/e/42735594/ bkz ılıktır
-https://www.uludagsozluk.com/e/42735586/ bkz annenin ispatladığı olay
-https://www.uludagsozluk.com/e/42735589/ bkz ultragayler
-https://www.uludagsozluk.com/e/42735594/ ılıktır 
-https://www.uludagsozluk.com/e/42735615/ bkz erkekçe vuruşmaktan korkan gavat
-https://www.youtube.com/watch?v=jdjsGMl-yWI 
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mini-etek-giydiren-gavat/&w=bg vurduruyordur
-https://eksisozluk.com/arda-turan--963149?a=popular abi ne gelme gel dersiniz gelirim 
-https://eksisozluk.com/hagi-mi-alex-mi--2110033
-https://eksisozluk.com/20-ocak-2020-arda-turan-tweeti--6329978?a=popular 
-https://eksisozluk.com/ugur-isilakin-gunumuzun-neset-ertasi-olmasi--6329971?a=popular adam haklı beyler
 -->
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
