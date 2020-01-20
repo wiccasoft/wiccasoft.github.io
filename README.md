@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
-bkz 21 ocak 2020 selçuk şahinin tweeti
+bkz 21 ocak 2020 fatih terimin misilleme tweeti
 https://www.uludagsozluk.com/e/42735497/ icraat derken?
 https://www.uludagsozluk.com/e/42735495/ eywallah bro 
 bkz 21 ocak 2020 abdullah avcı arda turan arasındaki yakınlaşma
