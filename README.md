@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz beratın cimbomluyum açıklamas
+https://iris.paheal.net/_images/462876816184171cffb96416a0401c04/2002107%20-%20Avengers%20FromHolland%20Gwyneth_Paltrow%20Iron_Man%20Marvel%20Pepper_Potts%20Robert_Downey_Jr.%20Tony_Stark%20fakes.jpg
 https://rule34.paheal.net/post/list/Iron_Man/5
 bkz arda turanın iddaları reddetmesi
 bkz demirkolun demir gibi kalktı tweeti
