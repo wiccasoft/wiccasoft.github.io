@@ -5,12 +5,7 @@
 bkz 20 ocak 2020 messinin arda nın tweetini retweetlemesi
 bkz 20 ocak 2020 arda turanın tweeti
 bkz rte nin damadım işini bilir demesi
-bkz berat albayarkın kanal güzergahından arazi bakması
-bkz berat albyarakın amazondan penis yüzüğü sipariş etmesi
-bkz 20 ocak 2020 arda turnın çıkaraıp masaya vurması
 bkz burhan kuzunun işte kuzu kuzu geldim tweeti
-bkz arda hasan mezarcı berat
-bkz hep aynı isimler sıktınız amk
 bkz hasan mezarcının mezarlık satın alması
 bkz enes abinin efe abiye dava açması
 https://www.uludagsozluk.com/e/42735370/ hayallerde yaşıyo bazı ibneler
