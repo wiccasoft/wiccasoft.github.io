@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.youtube.com/watch?v=FI4BrXPMeZo adamı cinnete getirmeyin
 https://www.youtube.com/watch?v=l7otWEt-fBM karıyı boşayıp serap sapazı almak
 https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat
 https://www.youtube.com/watch?v=vl85xsabHFI herkes rütbesini bilecek
