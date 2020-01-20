@@ -3,7 +3,6 @@
 
 <!--
 bkz berkayın arda turan tweetini retweetlemesi
-https://www.uludagsozluk.com/k/sakall%C4%B1-kel/ bkz berkay
 bkz 23 ocak 2020 cengiz ünderin son noktayı koyan tweeti
 bkz 22 ocak 2020 abdullah avcının polemiğe giremem demesi
 bkz 21 ocak 2020 fatih terimin misilleme tweeti
