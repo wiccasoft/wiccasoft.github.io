@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.youtube.com/watch?v=mRfYOWPDTos herkes rütbesini bilecek
 https://www.youtube.com/watch?v=ZrK7LyLEgeI haddinizi bileceksiniz oç ları
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahahahahah
 https://www.youtube.com/watch?v=BP6ssBwMy54 babanız kim lan orospunun sıçtıkları
