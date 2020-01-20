@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.uludagsozluk.com/e/42733137/ yav he he
 bkz reisin merkele yanık yanık bakması
 https://www.uludagsozluk.com/e/42733420/ bkz pavalı köpeklev 
 bkz cell o reklamı yapan turkcell kulanmıyoruz kampanyası
