@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 <!--
+bkz tweeter ın deep turkish webe dönüşmesi asdsadadasas
 https://www.youtube.com/watch?v=dX5luTk8xpo bkz tweety mnin attığı tweet
 bkz arda turanın iddaları reddetmesi tweeti
 bkz demirkolun demir gibi kalktı tweeti
