@@ -3,6 +3,7 @@
 
 <!-- 
 gerçekleri tarih yazar tarihi de arda yazar
+https://www.youtube.com/watch?v=wIoxxkNj6AM orospu çocukları
 https://www.youtube.com/watch?v=RrXf0fppgGE ananızı sikmeye geliyorum oç ları
 https://www.youtube.com/watch?v=FI4BrXPMeZo adamı cinnete getirmeyin
 https://www.youtube.com/watch?v=l7otWEt-fBM karıyı boşayıp serap sapazı almak
