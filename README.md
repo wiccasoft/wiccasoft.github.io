@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz kürtlerin saraydan kaçak eletrik çekmesine ses etmeyen akitler
 bkz reisin racon kesmiyorum vergi kesiyorum demesi
 bkz reisin haraca bağladığı kumarhaneler
 bkz reisin fakir laikçiye bafiletecek kız yok bende demesi
