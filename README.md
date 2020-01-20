@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42733420/ bkz pavalı köpeklev 
-bkz selo reklamı yapan turkcell kulanmıyoruz kampanyası
+bkz cell o reklamı yapan turkcell kulanmıyoruz kampanyası
 https://en.wikipedia.org/wiki/Great_conjunction neler dönmüş selo ya
 https://www.youtube.com/watch?v=LABGimhsEys big bird lookin bitch
 https://www.youtube.com/watch?v=t2oVUxTV4WA zuhahahahaha
