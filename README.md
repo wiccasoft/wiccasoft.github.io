@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz 20 ocak 2020 messinin arda nın tweetini retweetlemesi
 bkz 20 ocak 2020 arda turanın tweeti
 bkz rte nin damadım işini bilir demesi
 bkz berat albayarkın kanal güzergahından arazi bakması
