@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz burhan kuzunun işte kuzu kuzu geldim tweeti
 bkz arda hasan mezarcı berat
 bkz hep aynı isimler sıktınız amk
 bkz hasan mezarcının mezarlık satın alması
