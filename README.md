@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-https://www.uludagsozluk.com/e/42733558/ 2. dünya savaşında selanikten yüzerek istanbula gelmiştir 
+https://www.uludagsozluk.com/e/42733558/ 2. dünya savaşında yunanistandan yüzerek istanbula gelmiştir 
 https://www.uludagsozluk.com/e/42733555/ eywallah bro
 https://galeri.uludagsozluk.com/r/brad-pitt-1966512/ bu nasıl göttür aga
 https://www.uludagsozluk.com/e/42733527/ o göte bül bül öte jennifer
