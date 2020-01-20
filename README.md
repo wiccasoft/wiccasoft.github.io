@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.uludagsozluk.com/e/42735644/ bk ultragayler
 bkz karısını sokağa yollayan gavat
 bkz karısını amcığına orkid alan gavat
 bkz karısına kilot giydiren gavat
