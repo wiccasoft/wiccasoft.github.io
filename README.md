@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
-bkz arda turanın gs illebet payidar kalacaktır tweeti
+bkz arda turanın geyse illebet payidar kalacaktır tweeti
 bkz efe aydalın nihat doğana yayında geçirmesi
 bkz arda turanın ülkemin gençlerine güveniyorum tweeti
 bkz hasan mezarcının mezarlık satın alması
