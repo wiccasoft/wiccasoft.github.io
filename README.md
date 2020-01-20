@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.youtube.com/watch?v=LABGimhsEys big bird lookin bitch
 https://www.youtube.com/watch?v=t2oVUxTV4WA zuhahahahaha
 https://www.youtube.com/watch?v=EfAsNffCjsM aptal fakirler için her şey düşünüldü
 https://www.uludagsozluk.com/e/42732997/ aptal fakirler bizi öldürmesin diye
