@@ -3,8 +3,6 @@
 
 <!-- 
 bkz ultragaylerin ultragay oldukları gerçeği
-bkz karısını sokağa yollayan gavat
-bkz karısını amcığına orkid alan gavat
 bkz karısına kilot giydiren gavat
 bkz kızını başka erkeğe siktiren gavat
 https://www.uludagsozluk.com/e/42735594/ bkz ılıktır
