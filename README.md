@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-https://www.uludagsozluk.com/e/42733610/ bkz ağaçlara sürten sapık dede
+https://www.uludagsozluk.com/e/42733610/ bkz ağaçlara sürten sapıka özvgüler yağdıran liboşlar 
 bkz ağaçlara sürten sapıkın ölmesi
 https://www.youtube.com/watch?v=syWxxbZ4l34 
 bkz hayrettin dedenin ağaçlara sürtmesi
