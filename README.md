@@ -4,8 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42732997/ aptal fakirler bizi öldürmesin diye
 https://www.uludagsozluk.com/e/42732951/ eşşeğin amından dolayı
-https://www.uludagsozluk.com/e/42732771/ 
-bkz babamın bir lafı vardır sikmeyeceğin eşeğin önüne havuç koyma 
+https://www.uludagsozluk.com/e/42732771/ babamın bir lafı vardır sikmeyeceğin eşeğin önüne havuç koyma 
 -->
 
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
