@@ -3,8 +3,6 @@
 
 <!--
 bkz kürtlerin saraydan kaçak eletrik çekmesine ses etmeyen akitler
-bkz reisin racon kesmiyorum vergi kesiyorum demesi
-bkz reisin haraca bağladığı kumarhaneler
 bkz reisin fakir laikçiye bafiletecek kız yok bende demesi
 https://www.uludagsozluk.com/e/42735127/ bkz adam iron man beyler 
 https://www.uludagsozluk.com/e/42734940/ eywalla abi taksimin renkli siması olmaya devam -->
