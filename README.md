@@ -3,9 +3,10 @@
 
 <!-- 
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
-https://eksisozluk.com/arda-turan--963149?a=popular abi ne gelme özledim sizi be abi
+https://eksisozluk.com/arda-turan--963149?a=popular abi ne gelme gel dersiniz gelirim 
 https://eksisozluk.com/hagi-mi-alex-mi--2110033
 https://eksisozluk.com/20-ocak-2020-arda-turan-tweeti--6329978?a=popular 
+https://eksisozluk.com/ugur-isilakin-gunumuzun-neset-ertasi-olmasi--6329971?a=popular adam haklı beyler
 -->
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
