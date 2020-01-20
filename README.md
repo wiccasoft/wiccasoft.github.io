@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
-bkz hasan mezarcının mezarlıktan yer ayırtması
+bkz hasan mezarcının mezarlık satın alması
 bkz arda turanın fatih terimle başışması
 bkz arda turanın hasan mezarcıyı ciddye almıyorum tweeti
 bkz hasan mezarcının demirkol mehdi değil açıklaması
