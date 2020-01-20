@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahahahahah
-https://www.youtube.com/watch?v=BP6ssBwMy54 babanız kim lan oç ları
+https://www.youtube.com/watch?v=BP6ssBwMy54 babanız kim lan orospunun sıçtıkları
 -->
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
