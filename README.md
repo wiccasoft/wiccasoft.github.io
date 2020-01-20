@@ -1,54 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
-<!--
-bkz berkayın arda turan tweetini retweetlemesi
-bkz 23 ocak 2020 cengiz ünderin son noktayı koyan tweeti
-bkz 22 ocak 2020 abdullah avcının polemiğe giremem demesi
-bkz 21 ocak 2020 fatih terimin misilleme tweeti
-https://www.uludagsozluk.com/e/42735497/ icraat derken?
-https://www.uludagsozluk.com/e/42735495/ eywallah bro 
-bkz 21 ocak 2020 abdullah avcı arda turan arasındaki yakınlaşma
-bkz 20 ocak 2020 abdullah avcının arda turanı istemesi
-bkz 20 ocak 2020 arda turanın tweeti
-bkz 20 ocak 2020 ardanın imparatorla barışması
-https://www.youtube.com/watch?v=jdjsGMl-yWI
-bkz ardanın bir buçuk maçlık hatrım yok muydu tweeti
-bkz 20 ocak 2020 messinin arda nın tweetini retweetlemesi
-bkz 20 ocak 2020 arda turanın tweeti
-bkz rte nin damadım işini bilir demesi
-bkz burhan kuzunun işte kuzu kuzu geldim tweeti
-bkz hasan mezarcının mezarlık satın alması
-bkz enes abinin efe abiye dava açması
-https://www.uludagsozluk.com/e/42735370/ hayallerde yaşıyo bazı ibneler
-bkz efe aydalın efe dansı yapması
-bkz arda abisini kucağa alınca kızan geyseli
-bkz arda turanı kucağa alıp sen büyüyünce ne olacaksın demek
-bkz arda turanın geyse nin ata cücüsü olması
-bkz arda turanın kürt şımarıklığı elbet bir gün sona erecektir tweeti 
-bkz arda turanın geyse illebet payidar kalacaktır tweeti
-bkz efe aydalın nihat doğana yayında geçirmesi
-bkz arda turanın ülkemin gençlerine güveniyorum tweeti
-bkz hasan mezarcının mezarlık satın alması
-bkz arda turanın fatih terimle başışması
-bkz arda turanın hasan mezarcıyı ciddye almıyorum tweeti
-bkz hasan mezarcının demirkol mehdi değil açıklaması
-bkz 20 ocak 2020 arda turan tweeti
-bkz arda turanın iddaları reddetmesi
-bkz berat alburakın hasan mezarcıyı savunması
-bkz 20 ocak 2020 mezarcının mehdiyi müjdelemesi
-bkz demirkolun mehdi değilim demesi
-bkz mehdi nin mehdiyim demeyecek olması hilesi
-bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü bir istanbul için güzel bir adım tweeti
-bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü türkiyenin çoşkun seli olacak demek istemesi
-https://www.youtube.com/watch?v=OeA9yeqG91A
-bkz 20 ocak 2020 demirtaşın lağım suları nereye akacak tweeti
-bkz berat albayrakın amazondan penis yüzüğü sipariş etmesi
-bkz kürtlerin saraydan kaçak eletrik çekmesine ses etmeyen akitler
-bkz reisin fakir laikçiye bafiletecek kız yok bende demesi
-https://www.uludagsozluk.com/e/42735127/ bkz adam iron man beyler 
-https://www.uludagsozluk.com/e/42734940/ eywalla abi  -->
-
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
