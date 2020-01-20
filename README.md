@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+https://www.uludagsozluk.com/e/42735495/ eywallah bro 
 bkz 21 ocak 2020 abdullah avcı arda turan arasındaki yakınlaşma
 bkz 20 ocak 2020 abdullah avcının arda turanı istemesi
 bkz 20 ocak 2020 arda turanın tweeti
