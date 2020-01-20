@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz kariusun oğuzhan koça ananı laciverde boyarım itoğlu it demesi
 bkz kürtlerin saraydan kaçak eletrik çekmesine ses etmeyen akitler
 bkz reisin fakir laikçiye bafiletecek kız yok bende demesi
 https://www.uludagsozluk.com/e/42735127/ bkz adam iron man beyler 
