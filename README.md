@@ -3,7 +3,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42735589/ bkz ultragayler
-https://www.uludagsozluk.com/e/42735589/ bkz arda turan
 https://www.uludagsozluk.com/e/42735594/ ılıktır 
 https://www.uludagsozluk.com/e/42735615/ bkz erkekçe vuruşmaktan korkan gavat
 bkz 20 ocak 2020 arda turanın tweeti
