@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-https://www.youtube.com/watch?v=rQlRJPZc718 tam beni tarif etmişsin evlat
+https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat
 https://www.youtube.com/watch?v=vl85xsabHFI herkes rütbesini bilecek
 https://www.youtube.com/watch?v=ZrK7LyLEgeI haddinizi bileceksiniz oç ları
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahahahahah
