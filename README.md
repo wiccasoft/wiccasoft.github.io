@@ -2,8 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-https://www.google.com.tr/search?q=brad+pitt+gwyneth+naked&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi66PTUmZLnAhWJFcAKHcQkCWIQ_AUoAXoECAsQAw&biw=994&bih=688#imgrc=4RyUY8izyjR2-M:
 bkz brad pitt yavşağının hoplatmadığı karı kaldı mı sorunsalı 
+https://www.google.com.tr/search?q=brad+pitt+gwyneth+naked&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi66PTUmZLnAhWJFcAKHcQkCWIQ_AUoAXoECAsQAw&biw=994&bih=688#imgrc=4RyUY8izyjR2-M:
 bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü türkiyenin çoşkun seli olacak demek istemesi
 https://www.youtube.com/watch?v=OeA9yeqG91A
 bkz 20 ocak 2020 demirtaşın lağım suları nereye akacak tweeti
