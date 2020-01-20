@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz 20 ocak 2020 arda turan tweeti
 bkz arda turanın iddaları reddetmesi
 bkz 20 ocak 2020 mezarcının mehdiyi müjdelemesi
 bkz demirkolun mehdi değilim demesi
