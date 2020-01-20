@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/brad-pitt-1966512/ bu nasıl göttür aga
 https://www.uludagsozluk.com/e/42733527/ o göte bül bül öte jennifer
 bkz reisin çatlasanız da patlasanız da http tunnel kuracam demesi
 https://www.uludagsozluk.com/e/42733301/ adam mason beyler
