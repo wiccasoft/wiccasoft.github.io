@@ -12,7 +12,6 @@ https://www.uludagsozluk.com/e/42735586/ bkz annenin ispatladığı olay
 https://www.uludagsozluk.com/e/42735589/ bkz ultragayler
 https://www.uludagsozluk.com/e/42735594/ ılıktır 
 https://www.uludagsozluk.com/e/42735615/ bkz erkekçe vuruşmaktan korkan gavat
-bkz 20 ocak 2020 arda turanın tweeti
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mini-etek-giydiren-gavat/&w=bg vurduruyordur
 https://eksisozluk.com/arda-turan--963149?a=popular abi ne gelme gel dersiniz gelirim 
