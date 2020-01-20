@@ -4,6 +4,7 @@
 <!--
 bkz 20 ocak 2020 arda turan tweeti
 bkz arda turanın iddaları reddetmesi
+bkz berat alburakın hasan mezarcıyı savunması
 bkz 20 ocak 2020 mezarcının mehdiyi müjdelemesi
 bkz demirkolun mehdi değilim demesi
 bkz mehdi nin mehdiyim demeyecek olması hilesi
