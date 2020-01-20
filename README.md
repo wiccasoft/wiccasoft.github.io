@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz berkayın arda turan tweetini retweetlemesi
 https://www.uludagsozluk.com/k/sakall%C4%B1-kel/ bkz berkay
 bkz 23 ocak 2020 cengiz ünderin son noktayı koyan tweeti
 bkz 22 ocak 2020 abdullah avcının polemiğe giremem demesi
