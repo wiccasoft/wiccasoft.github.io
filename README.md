@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.youtube.com/watch?v=ZrK7LyLEgeI aadsadas bu nedir olm ya
 https://www.uludagsozluk.com/e/42735370/ hayallerde yaşıyor bazı ibneler
 bkz türkiyenin ultragay cenneti olma sebepleri
 bkz ultragaylerin ultragay oldukları gerçeği
