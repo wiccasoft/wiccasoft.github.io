@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!--
+bkz 20 ocak 2020 trumpın ardayı arayıp attığı tweet için tebrik etmesi
 bkz 20 ocak 2020 ardanın imparatorla barışması
 https://www.youtube.com/watch?v=jdjsGMl-yWI
 bkz ardanın bir buçuk maçlık hatrım yok muydu tweeti
