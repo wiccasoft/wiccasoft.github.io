@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
-bkz selo reklamı yapan turkcell ökulanmıyoruz kampanyası
+bkz selo reklamı yapan turkcell kulanmıyoruz kampanyası
 https://en.wikipedia.org/wiki/Great_conjunction neler dönmüş selo ya
 https://www.youtube.com/watch?v=LABGimhsEys big bird lookin bitch
 https://www.youtube.com/watch?v=t2oVUxTV4WA zuhahahahaha
