@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+https://www.uludagsozluk.com/e/42735615/ bkz erkekçe vuruşmaktan korkan gavat
 bkz 20 ocak 2020 arda turanın tweeti
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mini-etek-giydiren-gavat/&w=bg vurduruyordur
