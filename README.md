@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz mere belezoğlunun arda turana attığı ananı laciverde boyarım bakışı
 bkz tengir bidonun ağaç dedeye yazdığı mektup
 bkz beratın cimbomluyum ironi yapmıyorum açıklamas
 https://rule34.paheal.net/post/view/2002107#search=Iron_Man
