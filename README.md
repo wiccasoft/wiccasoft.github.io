@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz köpek zekası vs türk zekası
 https://www.uludagsozluk.com/e/42733353/ yav he he
 https://www.uludagsozluk.com/e/42733276/ biri siksin la şunu
 https://www.uludagsozluk.com/e/42733137/ yav he he
