@@ -4,6 +4,7 @@
 <!-- 
 bkz 20 ocak 2020 arda turanın tweeti
 https://www.youtube.com/watch?v=jdjsGMl-yWI 
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1na-mini-etek-giydiren-gavat/&w=bg vurduruyordur
 https://eksisozluk.com/arda-turan--963149?a=popular abi ne gelme gel dersiniz gelirim 
 https://eksisozluk.com/hagi-mi-alex-mi--2110033
 https://eksisozluk.com/20-ocak-2020-arda-turan-tweeti--6329978?a=popular 
