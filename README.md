@@ -8,8 +8,6 @@ bkz 20 ocak 2020 demirtaşın lağım suları nereye akacak tweeti
 bkz 20 ocak 2020 demirtaşın kanal istanbul güçlü bir istanbul için güzel bir adım tweeti
 https://www.uludagsozluk.com/e/42733618/ eywallah bro
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel
-https://www.uludagsozluk.com/e/42733558/ 2. dünya savaşında yunanistandan yüzerek istanbula gelmiştir 
-https://www.uludagsozluk.com/e/42733555/ eywallah bro
 https://galeri.uludagsozluk.com/r/brad-pitt-1966512/ bu nasıl göttür aga
 https://www.uludagsozluk.com/e/42733527/ o göte bül bül öte jennifer
 bkz reisin çatlasanız da patlasanız da http tunnel kuracam demesi
