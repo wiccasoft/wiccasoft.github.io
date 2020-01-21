@@ -5,22 +5,6 @@
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
-<!-- 
-bkz hasan mezarcı vs fesli deli
-https://www.youtube.com/watch?v=TPPPmCbDEdA
-gerçekleri tarih yazar tarihi de ben yazarım oç ları sizi
-https://www.youtube.com/watch?v=fE5OUx2qzqY hepiniz önümde eğileceksiniz
-https://www.youtube.com/watch?v=zfQwtyl3WHU amın evlatları sizi
-https://www.youtube.com/watch?v=wIoxxkNj6AM orospu çocukları
-https://www.youtube.com/watch?v=RrXf0fppgGE ananızı sikmeye geliyorum oç ları
-https://www.youtube.com/watch?v=FI4BrXPMeZo adamı cinnete getirmeyin
-https://www.youtube.com/watch?v=l7otWEt-fBM karıyı boşayıp serap sapazı almak
-https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat
-https://www.youtube.com/watch?v=vl85xsabHFI herkes rütbesini bilecek
-https://www.youtube.com/watch?v=ZrK7LyLEgeI haddinizi bileceksiniz oç ları
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahahahahah
-https://www.youtube.com/watch?v=BP6ssBwMy54 babanız kim lan orospunun sıçtıkları
--->
 [![Image](shadow/Screenshot_2020-01-19_05-59-28.png)]( https://www.businessinsider.com/space-force-uniforms-camo-camouflage-print-pentagon-command-2020-1  )
 
 [![Image](skynet/Screenshot_2020-01-18_19-07-09.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU  )
