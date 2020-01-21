@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hasan mezarcının güncellemelere freeBSD lisans kasması
 bkz hasan mezarcının jennifer anistonun göte kitlenmesi
 bkz hasan mezarcının pfdkya motorla gitmesi
 bkz hasan mezarcının 2020 ios güncelleme yılı olcak demesi
