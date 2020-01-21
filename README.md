@@ -4,6 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz pfdk nın pasif futbolcuları hasan mezarcıya sevk etmesi
+https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
 bkz ali koçun vedat mürüçü satalım cengiz ünderi alalım önerisi
 https://twitter.com/kamilmakarna/status/1024737292123037696 
 bkz pkknın şehirlere ineceğiz tehdidi
