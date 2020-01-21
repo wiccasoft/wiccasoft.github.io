@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz enes abinin vedat abiyi savunması
 https://www.uludagsozluk.com/e/42739012/
 bkz 21 ocak 2020 jeff bezosun pfdk ne lan bakışı
 bkz hasan mezarcının ekşiden başlık çalması
