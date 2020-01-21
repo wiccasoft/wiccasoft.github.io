@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz çağatay ulusoyun askerde canı neler ç.ekeceği gerçeği
 bkz burak özçivitin askerlik anısın paylaşması
 bkz çağatay ulusoyun paylaşttığı askerlik videosu
 https://www.uludagsozluk.com/e/42738827/ bkz enes abi
