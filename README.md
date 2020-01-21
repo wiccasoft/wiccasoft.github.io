@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+https://www.uludagsozluk.com/k/enes-batur-un-komando-olarak-askere-gitmesi/ bkz enes abi anamı sik abi
 bkz şehirde yaşadığımı sanan çomarlar
 bkz manuş babanın askerden dönmesi
 https://www.youtube.com/watch?v=XPLDKA8MPLc la bize her yer angara
