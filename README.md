@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
-bkz rakı haramsa tayyip niye yasaklamıyo amın feryadı
+https://www.uludagsozluk.com/e/42740655/ bkz rakı haramsa tayyip niye yasaklamıyo amın feryadı
 https://www.youtube.com/watch?v=0rjItOxZAgg
 https://ayetullah-humeyni.uludagsozluk.com/
 bkz her gece yarım kilo topkek yiyen dini bütün adam
