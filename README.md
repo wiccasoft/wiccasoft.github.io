@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz manuş babanın askerden dönmesi
 https://www.youtube.com/watch?v=XPLDKA8MPLc la bize her yer angara
 https://www.uludagsozluk.com/e/42738782/ eywallah bro
 https://www.uludagsozluk.com/e/42738766/  aktif geyim diyorum bunlar hala 
