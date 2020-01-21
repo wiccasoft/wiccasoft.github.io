@@ -10,9 +10,6 @@ https://www.uludagsozluk.com/e/42738343/ benim bu arkadan  vurdun mu önden sall
 https://www.youtube.com/watch?v=FFkBaGqXLig ekşi çaylak onayı beklerken
 https://www.youtube.com/watch?v=ueptJlYwka0 zall is my girl
 https://www.youtube.com/watch?v=tC4D-bzCWJc zuhahahahaha
-bkz hasan mezarcının uludaki ibnelerle taşşak geçmesi
-bkz uludaki bilim adamlarının harcanması
-bkz hasan mezarcının güncellemeleri yarın atarım demesi
 https://www.uludagsozluk.com/k/33-ya%C5%9F%C4%B1nda-erkek-23-ya%C5%9F%C4%B1nda-k%C4%B1z-ili%C5%9Fkisi/ yürümez
 https://www.uludagsozluk.com/e/42738302/ asdasdasda olm o ne lan sümük gibi
 https://www.uludagsozluk.com/e/42737894/ dağdaki hırboyla şeherle bir olur mu
