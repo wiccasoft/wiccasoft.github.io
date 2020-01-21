@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+https://www.youtube.com/watch?v=uRbEjK3-1B4 ananızı sikecem oç ları
 https://www.youtube.com/watch?v=6-tYHvnGV3Y daha yeni başlıyoruz
 bkz ekrem imamaoğlu destanı
 bkz mansur yavaş ciğerimi söktün diyen kız
