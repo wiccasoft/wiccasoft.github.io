@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
-bkz vedat mürüçün pfdk ta fırçayı yemesi
+bkz alikoçun vedat mürüçe attığı ananı laciverde boyarım bakışı
 bkz misvakın hasan mezarcı kariçatürü vs vedat mürüç kariçatürü
 bkz pfdk nın pasif futbolcuları hasan mezarcıya sevk etmesi
 https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
