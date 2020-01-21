@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz pfdk pasif kalması
 bkz alikoçun vedat mürüçün anasını sikmesi
 bkz alikoçun vedat mürüçe attığı ananı laciverde boyarım bakışı
 bkz misvakın hasan mezarcı kariçatürü vs vedat mürüç kariçatürü
