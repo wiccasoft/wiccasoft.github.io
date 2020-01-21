@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+bkz ekrem imamaoğlanın amazon kadınlarını kızdırması
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır ama benena
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel 
