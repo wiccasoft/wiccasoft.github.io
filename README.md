@@ -4,6 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hasan mezarcının ekşiden başlık çalması
+https://eksisozluk.com/21-ocak-2020-vedat-muriqinin-pfdkye-sevki--6331202?a=popular
 bkz 21 ocak 2020 vedat mürüçün pfdkya sevki
 bkz vedat mürüçün üçlü çektirmesi
 bkz sadık çiftpınarın pfdk dan çıkacak kararlara saygım sonsuz açıklaması
