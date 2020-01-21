@@ -6,6 +6,7 @@
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
+https://www.uludagsozluk.com/e/42738524/ bkz la bize her yer istanbul
 bkz türklerin üstün ırk olmasını çekemeyen milletler
 bkz türkiyenin süüper güç olma sebepleri
 https://www.uludagsozluk.com/e/42738590/ bkz türklerin çok zeki olma sebepleri
