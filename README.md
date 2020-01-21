@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
-<!-- https://www.uludagsozluk.com/e/42738161/ bkz hasan mezarcının ekşiden başlık çalması-->
+<!-- 
+bkz mehdinin ben mehdiyiym demeyeceğim demesi hilesi
+https://www.uludagsozluk.com/e/42738161/ bkz hasan mezarcının ekşiden başlık çalması-->
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
