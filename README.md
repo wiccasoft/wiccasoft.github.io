@@ -2,8 +2,11 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!-- 
+bkz mehdinin sopasıyla gelip gs feneri ikiye yaracığı hadisi
 bkz mehdinin ben mehdiyiym demeyeceğim demesi hilesi
-https://www.uludagsozluk.com/e/42738161/ bkz hasan mezarcının ekşiden başlık çalması-->
+https://www.uludagsozluk.com/e/42738161/ bkz hasan mezarcının ekşiden başlık çalması
+https://www.uludagsozluk.com/k/mevlevi-tarikat%C4%B1-%C5%9Feyhinden-skandal-s%C3%B6zler/ 
+-->
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
