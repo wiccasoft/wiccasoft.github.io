@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+https://www.uludagsozluk.com/e/42740954/ bkz tunç soyer
 bkz kadir mısıroğlu vs ajdar başlığı açmak için gereken zeka seviyesi
 https://vexillarius-of-theodopolis.uludagsozluk.com/ zuhahahahahahah
 https://www.youtube.com/watch?v=0rjItOxZAgg zuahhahahahahhahaha
