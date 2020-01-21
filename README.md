@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+https://www.uludagsozluk.com/e/42738766/ bz olm aktif geyim diyorum bunlar hala
 bkz gerdek gecesi yengenin amını gerdim diyen erkek
 https://www.uludagsozluk.com/e/42738765/ bu şimdi asker canı neler ister
 https://www.uludagsozluk.com/e/42738347/ arakdan vurdun mu önden sallanacak aga
