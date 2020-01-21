@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz her gece rakı içip karısını siken gavat
 bkz her gece rakı içen erkeğini düşünen cariye
 bkz her gece rakı içen erkeğine entry giren dinci
 bkz vedat mürüçün rakı içmesine ses etmeyen geyseliler
