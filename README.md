@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+bkz imamoğlandan kurtulma yolları
 bkz taksim dayı vs taksimin renkli siması imamaoğlan
 bkz ekrem imamaoğlanın ekrem imamoğlan olduğu gerçeği
 bkz hasan mezarcının yarın güncelleme atmayacam bot yazacam o atar demesi
