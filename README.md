@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+https://www.youtube.com/watch?v=tC4D-bzCWJc zuhahahahaha
 bkz hasan mezarcının uludaki ibnelerle taşşak geçmesi
 bkz uludaki bilim adamlarının harcanması
 bkz hasan mezarcının güncellemeleri yarın atarım demesi
