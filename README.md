@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
-bkz bradi pittin götçü olduğu iddası
+bkz brad pittin yürüdüğü kızın emre morun yürüdüğü kız çıkması
+bkz brad pittin götçü olduğu iddası
 bkz enes abinin abin komandoydu demesi
 bkz imamoğlanın türkler yerine gavatlar demesi
 bkz gerdek gecesinde yengenin amını gerdim bu da seni germiş diyen erkek
