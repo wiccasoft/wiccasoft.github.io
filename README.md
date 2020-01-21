@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+https://www.uludagsozluk.com/e/42738366/ 
 bkz hasan mezarcının güncellemeleri notification atarım demesi
 bkz ekrem imamoğlanın babasının benim akpliye verecek olm yok çıkışı
 https://www.uludagsozluk.com/e/42738355/ vay mamuğa goyim poğaça gibi hala
