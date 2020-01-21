@@ -1,16 +1,5 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
-<!-- 
-bkz pargalı ibrahim paşa süleymana vurdur du mu sorunsalı
-bkz mustafa camel ata cücü neden fedöncülerin siyasi ayağını desktekledi sorunsalı
-bkz mustafa camel ata cücü sünnetsiz miydi sorunsalı
-bkz mustafa camel ata cücü tomri hatuna çaktı mı sorunsalı
-bkz mustafa camel ata cücü neden sivas kongresini yabdı sorunsalı
-bkz mustafa camel ata cücü her geçe litre alkol içiyosa nasıl rakı yasaklı değil sorunsalı
-bkz mustafa camel atacücü müslümse neden hilafeti kaldırdı hıysneti kurdu sorunsalı
-bkz 5 .abdulmecid vs pargalı damat ferit paşa
-bkz ilber ortaçlı vs celal horgörlü -->
-
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
