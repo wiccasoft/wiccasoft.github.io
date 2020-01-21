@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+bkz ajdar yotüp kanalını kapaması
 bkz entry girilecek adam gibi adam bulamamak
 bkz seni abdul bin muttap yalnızlığında bırakmayacağız denilen adamın ortadan kaybolması
 bkz seni abdulmecid yalnızlığında bırakmayacağız
