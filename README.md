@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!--
+https://www.instagram.com/p/B7dOt1kpa5t/ aşko bu nedir ya
 bkz 21 ocak 2020 hasan mezarcının çizgili osmanlıspor forması giymesi
 bkz 23 ocak 2020 ultrageyselilerin arda turan hazımsızlığı
 bkz ultra feybelilerin ultageyseliler sayfasına saldıraması
