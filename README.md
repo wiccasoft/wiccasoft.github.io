@@ -1,5 +1,6 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
+<!-- https://www.uludagsozluk.com/k/youtuber-olmak-i%C3%A7in-gerekenler/&w=bg bkz dahi çocukların yütüpür olmaması -->
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
