@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz bütün mahalle tren yaparken izleyen adam
 bkz türklerin lut kavmi gibi bi kavim olması
 bkz abisinin karısıyla ilişki yaşayan adam
 bkz çocuklarını 9 yıl mahzende tutan baba
