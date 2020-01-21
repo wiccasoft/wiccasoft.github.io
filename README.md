@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz vedat millörün vedat mürüç hakkındaki yorumu
 bkz cem garipoğlunun hasan mezarcıyı desteklemesi
 bkz freeBSD çekirdeğinden closed source kasmak
 bkz hasan mezarcının güncelleme paketlerine freeBSD lisans kasması
