@@ -1,26 +1,5 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
-<!--
-bkz ajdarın yotüp kanalını kapaması
-bkz entry girilecek adam gibi adam bulamamak
-bkz seni abdul bin muttap yalnızlığında bırakmayacağız denilen adamın ortadan kaybolması
-bkz seni abdulmecid yalnızlığında bırakmayacağız
-https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg 
-https://www.uludagsozluk.com/k/abd-nin-t%C3%BCrkiye-olmadan-bir-hi%C3%A7-olmas%C4%B1/ zuahhahahahah
-bkz adam gibi adam vs adam gibi olamayan adam
-https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg adam şaka maka adam gibi adam la
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-ajdar/&w=bg irdelenmeli
-bkz otoriter erkek vs otoriter olmayan erkek
-bkz kadir mısıroğlan vs ajdar arpaoğlan
-bkz ikinci abülhamdi vs 4. murat
-bkz pargalı damat ibrahim paşa vs 3 .selim
-bkz kakacücün her gece rakı içmesi
-bkz hayallerde yaşıyor bazı fakirler
-https://vexillarius-of-theodopolis.uludagsozluk.com/ zuhahahahahahah
-https://www.youtube.com/watch?v=0rjItOxZAgg zuahhahahahahhahaha
-https://ayetullah-humeyni.uludagsozluk.com/ zuahhahahahhahahaha
--->
-
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
