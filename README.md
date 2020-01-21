@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
-bkz ulutuber olmak için gerekenler
+bkz kadir mısıoğlu vs ajdar başlığı açmak için gerekenler
 https://vexillarius-of-theodopolis.uludagsozluk.com/ zuhahahahahahah
 https://www.youtube.com/watch?v=0rjItOxZAgg zuahhahahahahhahaha
 https://ayetullah-humeyni.uludagsozluk.com/ zuahhahahahhahahaha
