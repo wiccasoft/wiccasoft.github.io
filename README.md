@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz karısıyla kızıyla rakı içen gavat
 bkz atacücünün her gece yarım rakı içmesi
 bkz pargalı damat ibrahim paşanın itleri vs kanun sultan damat bin muttapın itleri
 bkz mustafa kamalın itleri vs tayyip doğanın itleri
