@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
-bkz arda turanın her gece yarım litre rakı içmesi
+bkz vedat mürüçün rakı içmesine ses etmeyen geyseliler
 bkz arda turanın her gece yarım litre rakı içmesi
 bkz arda turanın itleri vs vedat mürüçün itleri
 bkz ekrem imamoğlanın babası ve recep tayyip doğanın babası
