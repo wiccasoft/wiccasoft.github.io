@@ -1,72 +1,7 @@
 
 
-
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
-<!-- 
-https://www.uludagsozluk.com/k/brad-pitt-in-tinder-da-tak%C4%B1lmas%C4%B1/ 
-bkz instagram demesini açıp kapayan kızın asıl amacı
-bkz arapların leş türk eti satması
-bkz brad pittin emre morla dostluğumuz eskiye dayanır demesi
-bkz brad pittin yürüdüğü kızın emre morun yürüdüğü kız çıkması
-bkz brad pittin götçü olduğu iddası
-bkz enes abinin abin komandoydu demesi
-bkz imamoğlanın türkler yerine gavatlar demesi
-bkz gerdek gecesinde yengenin amını gerdim bu da seni germiş diyen erkek
-bkz ultra feybelilerin ultrageyseliler sayfasına saldırması
-bkz 23 ocak 2020 hasan mezarcının güncellemeleri botla yollaması
-bkz 22 ocak 2020 vedat mürüçün üçlü çektirecem demesi
-bkz imamoğlanın osururken terlediği iddaları
-bkz 21 ocak 2020 enes abinin vedat abiyi savunması
-https://www.uludagsozluk.com/e/42739012/
-bkz 21 ocak 2020 jeff bezosun pfdk ne lan bakışı
-bkz hasan mezarcının ekşiden başlık çalması
-https://eksisozluk.com/21-ocak-2020-vedat-muriqinin-pfdkye-sevki--6331202?a=popular
-bkz 21 ocak 2020 vedat mürüçün pfdkya sevki
-bkz vedat mürüçün üçlü çektirmesi
-bkz sadık çiftpınarın pfdk dan çıkacak kararlara saygım sonsuz açıklaması
-bkz pfdk nın var kararlarını incelensin talebi
-bkz pfdk pasif kalması
-bkz alikoçun vedat mürüçün anasını sikmesi
-bkz alikoçun vedat mürüçe attığı ananı laciverde boyarım bakışı
-bkz misvakın hasan mezarcı kariçatürü vs vedat mürüç kariçatürü
-bkz pfdk nın pasif futbolcuları hasan mezarcıya sevk etmesi
-https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
-bkz ali koçun vedat mürüçü satalım cengiz ünderi alalım önerisi
-https://twitter.com/kamilmakarna/status/1024737292123037696 
-bkz pkknın şehirlere ineceğiz tehdidi
-https://twitter.com/kamilmakarna/status/1024737292123037696
-https://www.uludagsozluk.com/k/pkk-sevici-akp/
-bkz hasan mezarcıdan kurtulamıyorum diyen kızın içine cin girmesi hadisesi
-https://www.uludagsozluk.com/k/evli-bir-adamdan-kurtulman%C4%B1n-yollar%C4%B1/ bkz hasan mezarcı
-bkz misvak apollo heyçelleri kariçatürü
-bkz hasan mezarcı facebook fan peyçte kavga eden laikçiler
-bkz misvakın paylaştığı apollo heykeli vidyosu
-bkz apollonun heykellerini yıkacağız
-bkz hasan mezarcının paylaştığı enes batur komando vidyosu
-bkz hasan mezarcının yarın güncelleme atmayacam bot yazacam o atar demesi
-https://www.uludagsozluk.com/e/42738871/ güncellemeleri yarın çocukları üyütüp yütüp kanalımdan atarım
-https://www.uludagsozluk.com/e/42738811/ bkz enes abinim an itibariyle paylaştığı gerçek
-https://www.uludagsozluk.com/e/42738865/ yüzyılın en güzel tespiti
-https://www.uludagsozluk.com/e/42738855/ adam açık açık sikişe davet ediyo beyler
-https://www.uludagsozluk.com/e/42738720/ eywallah bro çıkıncı haberleşiriz
-bkz enes abisi yerine beni takip eden ergen
-https://www.uludagsozluk.com/e/42738811/ bkz enes abinim an itibariyle paylaştığı gerçek
-https://www.youtube.com/watch?v=FPKz5f_zszA sen yerinde duuuuuuur karşında komonda batuuuurr
-bkz çağatay ulusoyun askerde canı neler ç.ekeceği gerçeği
-bkz burak özçivitin askerlik anısın paylaşması
-bkz çağatay ulusoyun paylaşttığı askerlik videosu
-https://www.uludagsozluk.com/e/42738827/ bkz enes abi
-https://www.uludagsozluk.com/k/enes-batur-un-komando-olarak-askere-gitmesi/ bkz enes abi anamı sik abi
-bkz şehirde yaşadığımı sanan çomarlar
-bkz manuş babanın askerden dönmesi
-https://www.youtube.com/watch?v=XPLDKA8MPLc la bize her yer angara
-https://www.uludagsozluk.com/e/42738782/ eywallah bro
-bkz gerdek gecesi yengenin amını gerdim diyen erkek
-https://www.uludagsozluk.com/e/42738765/ bu şimdi asker canı neler ister
-https://www.uludagsozluk.com/e/42738347/ arakdan vurdun mu önden sallanacak aga
-bkz hasan mezarcının güncellemeleri notification atarım demesi 
--->
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
