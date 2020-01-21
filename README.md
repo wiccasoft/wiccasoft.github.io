@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz okunmayacağı halde entry giren ergenler
 https://www.uludagsozluk.com/e/42740795/ pargalıdan sonrasını okumadım
 https://www.uludagsozluk.com/e/42740790/ az önceden sonrasını okumadım sen kimsin amk ya
 https://www.uludagsozluk.com/e/42740794/ burası karışır beyler vaziyet alın
