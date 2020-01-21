@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
-bkz her gece yarım kilo topkek yiyen adam
+bkz her gece yarım kilo topkek yiyen dini bütün adam
 bkz imamoğlanını karısıyla rakı içmesi
 bkz her gece yarrağını rakı bardağına sokan adam
 bkz recep tayyip doğanla bir gece vs ekrem imamoğlanla bir gece
