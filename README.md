@@ -7,59 +7,6 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 
-https://www.uludagsozluk.com/e/42738673/ arkadan vurdun mu önden sallanacak aga bayılırım 
-https://www.uludagsozluk.com/e/42738643/ bkz tarantino inc
-https://www.uludagsozluk.com/e/42738678/ bkz biri siksin la şunu
-https://www.uludagsozluk.com/e/42738524/ bkz la bize her yer istanbul
-bkz türklerin üstün ırk olmasını çekemeyen milletler
-bkz türkiyenin süüper güç olma sebepleri
-https://www.uludagsozluk.com/e/42738590/ bkz türklerin çok zeki olma sebepleri
-https://www.uludagsozluk.com/k/arap-%C3%BClkelerinin-su-g%C3%B6t%C3%BCrmez-bir-salak-olmalar%C4%B1/
-bkz gerdek gecesi yengenin amını gerdim diyen erkek
-https://www.youtube.com/watch?v=8PxwH8IHAB8 bkz gerdek gecesini anlatan erkek
-https://www.uludagsozluk.com/k/gerdek-gecesini-arkada%C5%9Flar%C4%B1na-anlatan-erkek/&w=bg bkz imamoğlan
-bkz ekrem imamaoğlanın amazon kadınlarını kızdırması
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır ama benena
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel 
-https://www.youtube.com/watch?v=uRbEjK3-1B4 oyna bakalım delioğlan
-https://www.youtube.com/watch?v=6-tYHvnGV3Y daha yeni başlıyoruz
-bkz mansur yavaş ciğerimi söktün diyen kız
-https://www.uludagsozluk.com/e/42738418/ bkz imamoğlan
-bkz imamoğlandan kurtulma yolları
-bkz taksim dayı vs taksimin renkli siması imamaoğlan
-bkz ekrem imamaoğlanın ekrem imamoğlan olduğu gerçeği
-bkz hasan mezarcının yarın güncelleme atmayacam bot yazacam o atar demesi
-bkz hasan mezarcının ölürsem kabrime gelmeyin demesi
-bkz ekrem imamoğlunu imamın oğlu olduğu iddaları
-bkz ekrem imamoğlunun bugünkü güncellemeleri
-bkz ekrem imamoğlunun oğluyla babası arasında kalması
-bkz ekrem imamoğlunun babasının oğülunu övmesi
-bkz ekrem imamoğlunun çok yakışıklı olduğu gerçeği
-https://www.uludagsozluk.com/e/42738100/ bkz ekrem imamaoğlunun balık burcu olması
-https://www.uludagsozluk.com/e/42738366/ 
-bkz hasan mezarcının güncellemeleri notification atarım demesi
-bkz ekrem imamoğlanın babasının benim akpliye verecek olm yok çıkışı
-https://www.uludagsozluk.com/e/42738355/ vay mamuğa goyim poğaça gibi hala
-https://www.uludagsozluk.com/e/42738343/ benim bu arkadan  vurdun mu önden sallanacak aga
-https://www.youtube.com/watch?v=FFkBaGqXLig ekşi çaylak onayı beklerken
-https://www.youtube.com/watch?v=ueptJlYwka0 zall is my girl
-https://www.youtube.com/watch?v=tC4D-bzCWJc zuhahahahaha
-https://www.uludagsozluk.com/k/33-ya%C5%9F%C4%B1nda-erkek-23-ya%C5%9F%C4%B1nda-k%C4%B1z-ili%C5%9Fkisi/ yürümez
-https://www.uludagsozluk.com/e/42738302/ asdasdasda olm o ne lan sümük gibi
-https://www.uludagsozluk.com/e/42737894/ dağdaki hırboyla şeherle bir olur mu
-https://www.uludagsozluk.com/e/42738292/ ılıktır
-bkz imamaoğlanın istabulu karantinaya alması
-bkz deccalin şehirlere saldıracağı iddası
-https://twitter.com/kamilmakarna/status/1024737292123037696 geleceğiniz varsa göreceğiniz de var
-bkz mehdinin sopasıyla gelip gs feneri ikiye yaracığı hadisi
-bkz mehdinin ben mehdiyiym demeyeceğim demesi hilesi
-https://www.uludagsozluk.com/k/da%C4%9Fdaki-%C3%A7obanla-benim-oyum-bir-mi/&w=bg 
-https://www.uludagsozluk.com/k/tayland-da-allahu-ekber-diye-ba%C4%9F%C4%B1ran-t%C3%BCrk/ hay allahına kurban
-https://www.uludagsozluk.com/e/42738161/ bkz hasan mezarcının ekşiden başlık çalması
-https://www.uludagsozluk.com/k/mevlevi-tarikat%C4%B1-%C5%9Feyhinden-skandal-s%C3%B6zler/ 
--->
-
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
