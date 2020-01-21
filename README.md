@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
-bkz instagram kilidini açıp kapayan kızın asıl amacı
+bkz instagram demesini açıp kapayan kızın asıl amacı
 bkz arapların leş türk eti satması
 bkz brad pittin emre morla dostluğumuz eskiye dayanır demesi
 bkz brad pittin yürüdüğü kızın emre morun yürüdüğü kız çıkması
