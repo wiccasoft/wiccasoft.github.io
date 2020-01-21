@@ -1,7 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
-<!-- 
+<!--
+bkz uludaki bilim adamlarının harcanması
 bkz hasan mezarcının güncellemeleri yarın atarım demesi
 https://www.uludagsozluk.com/k/33-ya%C5%9F%C4%B1nda-erkek-23-ya%C5%9F%C4%B1nda-k%C4%B1z-ili%C5%9Fkisi/ yürümez
 https://www.uludagsozluk.com/e/42738302/ asdasdasda olm o ne lan sümük gibi
