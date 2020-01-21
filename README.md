@@ -4,7 +4,9 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+https://twitter.com/kamilmakarna/status/1024737292123037696 bkz pkknın twittera geliyoruz açıklaması
 bkz pkknın şehirlere ineceğiz tehdidi
+https://twitter.com/kamilmakarna/status/1024737292123037696
 https://www.uludagsozluk.com/k/pkk-sevici-akp/
 bkz hasan mezarcıdan kurtulamıyorum diyen kızın içine cin girmesi hadisesi
 https://www.uludagsozluk.com/k/evli-bir-adamdan-kurtulman%C4%B1n-yollar%C4%B1/ bkz hasan mezarcı
