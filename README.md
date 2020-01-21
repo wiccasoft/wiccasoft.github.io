@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
-bkz ekrem imamaoğlunun balık burcu olması
+https://www.uludagsozluk.com/e/42738100/ bkz ekrem imamaoğlunun balık burcu olması
 https://www.uludagsozluk.com/e/42738366/ 
 bkz hasan mezarcının güncellemeleri notification atarım demesi
 bkz ekrem imamoğlanın babasının benim akpliye verecek olm yok çıkışı
