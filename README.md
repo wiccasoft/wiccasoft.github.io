@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz misvakın vedat mürüç kariçatürü
 bkz pfdk nın pasif futbolcuları hasan mezarcıya sevk etmesi
 https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
 bkz ali koçun vedat mürüçü satalım cengiz ünderi alalım önerisi
