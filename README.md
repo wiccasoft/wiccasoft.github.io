@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
-bkzmansur yavaş ciğerimi söktün diyen kız
+bkz ekrem imamaoğlu destanı
+bkz mansur yavaş ciğerimi söktün diyen kız
 https://www.uludagsozluk.com/e/42738418/ bkz imamoğlan
 bkz imamoğlandan kurtulma yolları
 bkz taksim dayı vs taksimin renkli siması imamaoğlan
