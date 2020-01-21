@@ -5,7 +5,7 @@
 
 <!--
 https://www.instagram.com/p/B7dOt1kpa5t/ aşko bu nedir ya
-https://www.instagram.com/p/B7lyJc-lluY/ zuahahahahaha
+https://www.instagram.com/p/B7lyJc-lluY/ mokar hastası nihan
 bkz 21 ocak 2020 hasan mezarcının çizgili osmanlıspor forması giymesi
 bkz 23 ocak 2020 ultrageyselilerin arda turan hazımsızlığı
 bkz ultra feybelilerin ultageyseliler sayfasına saldıraması
