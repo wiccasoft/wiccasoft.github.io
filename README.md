@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz kızını siken adama damat diyen gavat
 bkz kaynına atlarken eniştesine yakalanan adam
 bkz imamoğlanın türklere gavat demesi
 bkz bütün mahalle tren yaparken izleyen adam
