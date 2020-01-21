@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+https://www.youtube.com/watch?v=FPKz5f_zszA sen yerinde duuuuuuur karşında komonda batuuuurr
 bkz çağatay ulusoyun askerde canı neler ç.ekeceği gerçeği
 bkz burak özçivitin askerlik anısın paylaşması
 bkz çağatay ulusoyun paylaşttığı askerlik videosu
