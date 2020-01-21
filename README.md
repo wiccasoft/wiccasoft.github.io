@@ -2,7 +2,7 @@
 
 <!-- 
 bkz her gece yarım kilo topkek yiyen dini bütün adam
-bkz imamoğlanını karısıyla rakı içmesi
+bkz gavatoğlanın karısıyla rakı içmesi
 bkz her gece yarrağını rakı bardağına sokan adam
 bkz recep tayyip doğanla bir gece vs ekrem imamoğlanla bir gece
 bkz ekrem imamoğlunun babası vs ragip tayyipdoğanın babası
