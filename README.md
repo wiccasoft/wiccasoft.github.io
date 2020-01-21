@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+https://www.uludagsozluk.com/k/brad-pitt-in-tinder-da-tak%C4%B1lmas%C4%B1/ 
 bkz instagram demesini açıp kapayan kızın asıl amacı
 bkz arapların leş türk eti satması
 bkz brad pittin emre morla dostluğumuz eskiye dayanır demesi
