@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
-bkz gerdek gecesini yengenin amını gerdim diyen erkek
+bkz gerdek gecesi yengenin amını gerdim diyen erkek
 https://www.youtube.com/watch?v=8PxwH8IHAB8 bkz gerdek gecesini anlatan erkek
 https://www.uludagsozluk.com/k/gerdek-gecesini-arkada%C5%9Flar%C4%B1na-anlatan-erkek/&w=bg bkz imamoğlan
 bkz ekrem imamaoğlanın amazon kadınlarını kızdırması
