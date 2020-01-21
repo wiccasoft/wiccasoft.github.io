@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!--
+bkz 22 ocak 2020 vedat mölllüç pfdk ya sevkü
 bkz hasan mezarcı vs arda turan vs vadat möllüç
 bkz arda turanın bileğine osmanlı turası dövmesi yaptırması
 bkz abisinin karısını götten siken adam
