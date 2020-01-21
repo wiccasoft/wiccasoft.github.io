@@ -3,26 +3,7 @@
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
-<!--
-https://www.instagram.com/p/B7dOt1kpa5t/ aşko o nasıl kasedir
-https://www.instagram.com/p/B7lyJc-lluY/ mokar hastası nihan
-bkz 21 ocak 2020 hasan mezarcının çizgili osmanlıspor forması giymesi
-bkz 23 ocak 2020 ultrageyselilerin arda turan hazımsızlığı
-bkz ultra feybelilerin ultageyseliler sayfasına saldıraması
-bkz 23 ocak 2020 vedat mürüçün arda turan a attığı ananı laciverde boyarım bakışı
-bkz 22 ocak 2020 arda turanın arda turna olması
-bkz google carın arabasına kanal istanbul giydirmesi yapması
-bkz hasan mezarcının güncellemeleri notification atarım demesi
-bkz hasan mezarcının ekşiden başlık çalması
-https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
-bkz 21 ocak 2020 jeff bezosun pfdk ne lan bakışı
-bkz gerdek gecesi yengenin amını gerdim bu da seni germiş diyen adam
-bkz vedat mürüçün pfdkya motorla gitmesi
-bkz mehmet aydının uruguaydan sevgiler yollaması
--->
-
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
-
 
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
