@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
-<!-- bkz ilber ortaçlı vs celal horgörlü -->
+<!-- 
+bkz 5 .abdulmecid vs pargalı damat ferit paşa
+bkz ilber ortaçlı vs celal horgörlü -->
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
