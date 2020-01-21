@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-ajdar/&w=bg irdelenmeli
 bkz otoriter erkek vs otoriter olmayan erkek
 bkz kadir mısıroğlan vs ajdar arpaoğlan
 bkz ikinci abülhamdi vs 4. murat
