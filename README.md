@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hasan mezarcının mezarlık ihalesine yatırım yapması
 bkz ibb nin paylaştığı it ürür kervan yürür paylaşımı
 bkz eniştemyengemeatladı.com un şikayet panosunu kapaması
 bkz hepsiananınamında.com un yaptığı terbiyesizlik
