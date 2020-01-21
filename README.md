@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz apollonun heykellerini yıkacağız
 https://www.uludagsozluk.com/e/42738871/ güncellemeleri yarın çocukları üyütüp yütüp kanalımdan atarım
 https://www.uludagsozluk.com/e/42738811/ bkz enes abinim an itibariyle paylaştığı gerçek
 https://www.uludagsozluk.com/e/42738865/ yüzyılın en güzel tespiti
