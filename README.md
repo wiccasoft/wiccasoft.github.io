@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz mehmet aydının çiftlibankı dünya markası yapacam demesi
 bkz ceren özdemiri siken adamın pişman değilim demesi
 bkz vinvent van gogh un kulağı kesiklerden olması
 bkz hasan mezarcının wicca nın 2020 güncelleme yılı olacak demesi
