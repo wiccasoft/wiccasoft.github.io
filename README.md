@@ -5,7 +5,7 @@
 <!-- 
 bkz hasan mezarcının jennifer anistonun göte kitlenmesi
 bkz hasan mezarcının pfdkya motorla gitmesi
-bkz hasan mezarcının 2020 güncelleme yılı olcak demesi
+bkz hasan mezarcının 2020 ios güncelleme yılı olcak demesi
 bkz mehmet aydının çiftlikbankı dünya markası yapacam demesi
 bkz ceren özdemiri siken adamın pişman değilim demesi
 bkz vinvent van gogh un kulağı kesiklerden olması
