@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!--
+bkz arda turanın bileğine osmanlı turası dövmesi yaptırması
 bkz abisinin karısını götten siken adam
 bkz arda turanın imparatorla barışması
 bkz 21 ocak 2020 arda turanın attığı tweet
