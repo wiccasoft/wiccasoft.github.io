@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!-- 
+https://www.uludagsozluk.com/e/42738292/ ılıktır
 bkz imamaoğlanın istabulu karantinaya alması
 bkz deccalin şehirlere saldıracağı iddası
 https://twitter.com/kamilmakarna/status/1024737292123037696 geleceğiniz varsa göreceğiniz de var
