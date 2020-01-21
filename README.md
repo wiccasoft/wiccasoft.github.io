@@ -4,6 +4,7 @@
 <!-- 
 bkz mehdinin sopasıyla gelip gs feneri ikiye yaracığı hadisi
 bkz mehdinin ben mehdiyiym demeyeceğim demesi hilesi
+https://www.uludagsozluk.com/k/da%C4%9Fdaki-%C3%A7obanla-benim-oyum-bir-mi/&w=bg 
 https://www.uludagsozluk.com/k/tayland-da-allahu-ekber-diye-ba%C4%9F%C4%B1ran-t%C3%BCrk/ hay allahına kurban
 https://www.uludagsozluk.com/e/42738161/ bkz hasan mezarcının ekşiden başlık çalması
 https://www.uludagsozluk.com/k/mevlevi-tarikat%C4%B1-%C5%9Feyhinden-skandal-s%C3%B6zler/ 
