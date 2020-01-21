@@ -3,7 +3,8 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
-bkz cinvent van gogh un kulağı kesiklerden olması
+bkz ceren özdemiri siken adamın pişman değilim demesi
+bkz vinvent van gogh un kulağı kesiklerden olması
 bkz hasan mezarcının wicca nın 2020 güncelleme yılı olacak demesi
 bkz hasan mezarcının ibb nin mezarlık ihalesine hemen atlaması
 bkz ibb nin paylaştığı it ürür kervan yürür paylaşımı
