@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz abisinin karısıyla ilişki yaşayan adam
 bkz çocuklarını 9 yıl mahzende tutan baba
 bkz hasan mezarcının güncellemeleri notification atarım demesi
 bkz hasan mezarcının ekşiden başlık çalması
@@ -11,7 +12,6 @@ bkz 21 ocak 2020 jeff bezosun pfdk ne lan bakışı
 bkz gerdek gecesi yengenin amını gerdim bu da seni germiş diyen adam
 bkz vedat mürüçün pfdkya motorla gitmesi
 bkz mehmet aydının uruguaydan sevgiler yollaması
-bkz abisinin karısıyla ilişki yalayan adam
 -->
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
