@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
-bkz mustafa atacücü müslümse neden hilafeti kaldırdı hıysneti kurdu sorunsalı
+bkz mustafa camel atacücü müslümse neden hilafeti kaldırdı hıysneti kurdu sorunsalı
 bkz 5 .abdulmecid vs pargalı damat ferit paşa
 bkz ilber ortaçlı vs celal horgörlü -->
 
