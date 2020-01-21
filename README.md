@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz recepo tayyip doğanla bir gece vs ekrem imamoğlanla bir gece
 bkz ekrem imamoğlunun babası vs ragip tayyipdoğanın babası
 bkz her gece rakı içip karısını siken gavat
 bkz her gece rakı içen erkeğini düşünen cariye
