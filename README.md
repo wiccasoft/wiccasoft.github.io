@@ -2,7 +2,10 @@
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
-<!-- bkz vedat mürüçün pfdkya motorla gitmesi -->
+<!-- 
+bkz vedat mürüçün pfdkya motorla gitmesi
+bkz mehmet aydının uruguaydan sevgiler yollaması
+-->
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
