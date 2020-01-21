@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hepsiananınamında.com un yaptığı terbiyesizlik
 bkz çocuklarına yat almayan baba
 bkz çocuklarını 9 yıl bodrum katında yaşatan baba
 bkz kayınçonun yengesine atlamasına izin veren gavat
