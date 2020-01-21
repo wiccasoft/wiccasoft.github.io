@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+bkz hasan mezarcının ölürsem kabrime gelmeyin demesi
 bkz ekrem imamoğlunu imamın oğlu olduğu iddaları
 bkz ekrem imamoğlunun bugünkü güncellemeleri
 bkz ekrem imamoğlunun oğluyla babası arasında kalması
