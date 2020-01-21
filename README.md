@@ -8,44 +8,7 @@ bkz 23 ocak 2020 ultrageyselilerin arda turan hazımsızlığı
 bkz ultra feybelilerin ultageyseliler sayfasına saldıraması
 bkz 23 ocak 2020 vedat mürüçün arda turan a attığı ananı laciverde boyarım bakışı
 bkz 22 ocak 2020 arda turanın arda turna olması
-bkz radamel falco garcianın arda turanın tweetini retweetlemesi
-bkz arda turanın geri dönüyuorum demesi
-bkz 22 ocak 2020 vedat mölllüç pfdk ya sevkü
-bkz hasan mezarcı vs arda turan vs vadat möllüç
-bkz arda turanın bileğine osmanlı turası dövmesi yaptırması
-bkz abisinin karısını götten siken adam
-bkz arda turanın imparatorla barışması
-bkz 21 ocak 2020 arda turanın attığı tweet
 bkz google carın arabasına kanal istanbul giydirmesi yapması
-bkz bi yandan baldızını hoplatırken bi yandan eltisinin azına veren adam
-bkz abisinin karısıyla sikişen adamın hasan mezarcı çıkması
-bkz vedat millörün vedat mürüç hakkındaki yorumu
-bkz cem garipoğlunun hasan mezarcıyı finanse etmesi
-bkz freeBSD çekirdeğinden closed source kasmak
-bkz hasan mezarcının güncelleme paketlerine freeBSD lisans kasması
-bkz hasan mezarcının jennifer anistonun göte kitlenmesi
-bkz hasan mezarcının pfdkya motorla gitmesi
-bkz hasan mezarcının 2020 ios güncelleme yılı olcak demesi
-bkz mehmet aydının çiftlikbankı dünya markası yapacam demesi
-bkz ceren özdemiri siken adamın pişman değilim demesi
-bkz vinvent van gogh un kulağı kesiklerden olması
-bkz hasan mezarcının wicca nın 2020 güncelleme yılı olacak demesi
-bkz hasan mezarcının ibb nin mezarlık ihalesine hemen atlaması
-bkz ibb nin paylaştığı it ürür kervan yürür paylaşımı
-bkz eniştemyengemeatladı.com un şikayet panosunu kapaması
-bkz hepsiananınamında.com un yaptığı terbiyesizlik
-bkz çocuklarına yat almayan baba
-bkz çocuklarını 9 yıl bodrum katında yaşatan baba
-bkz kayınçonun yengesine atlamasına izin veren gavat
-bkz götünü eniştesine siktiren baldız
-bkz abisinin karısını hoplatan adam
-bkz kızını siken adama damat diyen gavat
-bkz kaynına atlarken eniştesine yakalanan adam
-bkz imamoğlanın türklere gavat demesi
-bkz bütün mahalle tren yaparken izleyen adam
-bkz türklerin lut kavmi gibi bi kavim olması
-bkz abisinin karısıyla ilişki yaşayan adam
-bkz çocuklarını 9 yıl mahzende tutan baba
 bkz hasan mezarcının güncellemeleri notification atarım demesi
 bkz hasan mezarcının ekşiden başlık çalması
 https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
