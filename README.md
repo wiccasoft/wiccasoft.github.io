@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=0rjItOxZAgg
+https://ayetullah-humeyni.uludagsozluk.com/
 bkz her gece yarım kilo topkek yiyen dini bütün adam
 bkz gavatoğlanın karısıyla rakı içmesi
 bkz her gece yarrağını rakı bardağına sokan adam
