@@ -5,6 +5,7 @@
 <!-- 
 bkz vedat mürüçün pfdkya motorla gitmesi
 bkz mehmet aydının uruguaydan sevgiler yollaması
+bkz abisinin karısıyla ilişki yalayan adam
 -->
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
