@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-19_09-24-34.png)]( https://www.youtube.com/watch?v=lN_MSyrq6-U )
 
 <!-- 
+bkz hasan mezarcı vs fesli deli
 https://www.youtube.com/watch?v=TPPPmCbDEdA
 gerçekleri tarih yazar tarihi de ben yazarım oç ları sizi
 https://www.youtube.com/watch?v=fE5OUx2qzqY hepiniz önümde eğileceksiniz
