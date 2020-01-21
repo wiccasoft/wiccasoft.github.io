@@ -1,50 +1,9 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
-bkz kamalcı erkek vs erdoğancı erkek
-bkz erdoğanın itleri vs kamalın itleri
-bkz ajdar arpaoğlan vs kadir mısıroğlan
-bkz kadir mısıroğlan vs tolstoy
-bkz celal horgör vs ilber şengör
-bkz kadir arpaoğlan vs ajdar mısıroğlan
-bkz atacücünün yaruım lite rakıyı fondip yapması
-bkz fakirlerin içki içemediği iddaları
-bkz vahdettin vs abdulmecid
-bkz 4 .murat vs 2. selim
-bkz ismet inönü vs enver paşa
-https://www.uludagsozluk.com/e/42740821/ bkz çok namussuz bi adammış beyler
-https://www.uludagsozluk.com/e/42740655/ bkz rakı haramsa tayyip niye yasaklamıyo amın feryadı
-https://www.youtube.com/watch?v=0rjItOxZAgg
-https://ayetullah-humeyni.uludagsozluk.com/
-bkz her gece yarım kilo topkek yiyen dini bütün adam
-bkz gavatoğlanın karısıyla rakı içmesi
-bkz her gece yarrağını rakı bardağına sokan adam
-bkz recep tayyip doğanla bir gece vs ekrem imamoğlanla bir gece
-bkz ekrem imamoğlunun babası vs ragip tayyipdoğanın babası
-bkz her gece rakı içip karısını siken gavat
-bkz her gece rakı içen erkeğini düşünen cariye
-bkz her gece rakı içen erkeğine entry giren dinci
-bkz vedat mürüçün rakı içmesine ses etmeyen geyseliler
-bkz arda turanın her gece yarım litre rakı içmesi
-bkz arda turanın itleri vs vedat mürüçün itleri
-bkz ekrem imamoğlanın babası ve recep tayyip doğanın babası
-bkz karısıyla kızıyla rakı içen gavat
-bkz atacücünün her gece yarım rakı içmesi
-bkz pargalı damat ibrahim paşanın itleri vs kanun sultan damat bin muttapın itleri
-bkz mustafa kamalın itleri vs tayyip doğanın itleri
-bkz erdoğanıcı çomarlar vs vedat mürüççü çomarlar
-bkz ince memed vs pargalı damart ibrahim paşa
-bkz pargalı damat ibrahim paşa
-bkz okunmayacağı halde entry giren ergenler
-https://www.uludagsozluk.com/e/42740795/ pargalıdan sonrasını okumadım
-https://www.uludagsozluk.com/e/42740790/ az önceden sonrasını okumadım sen kimsin amk ya
-https://www.uludagsozluk.com/e/42740794/ burası karışır beyler vaziyet alın
-bkz joker vs batman
-bkz fakirlerin güldürmesi
-https://www.uludagsozluk.com/e/42740678/ zuahhahaha the island 2030
-bkz arpa mısıroğlan vs ilber ortacıoğlan
-https://ayetullah-humeyni.uludagsozluk.com/ kanka fıstık ataim mi sanağ zuahhahahahahhaha
-https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b -->
+https://www.youtube.com/watch?v=0rjItOxZAgg zuahhahahahahhahaha
+https://ayetullah-humeyni.uludagsozluk.com/ zuahhahahahhahahaha
+-->
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
