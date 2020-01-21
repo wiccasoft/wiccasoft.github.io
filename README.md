@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!--
-https://www.instagram.com/p/B7dOt1kpa5t/ aşko bu nedir ya
+https://www.instagram.com/p/B7dOt1kpa5t/ aşko o nasıl kasedir
 https://www.instagram.com/p/B7lyJc-lluY/ mokar hastası nihan
 bkz 21 ocak 2020 hasan mezarcının çizgili osmanlıspor forması giymesi
 bkz 23 ocak 2020 ultrageyselilerin arda turan hazımsızlığı
