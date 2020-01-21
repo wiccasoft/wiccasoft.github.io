@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz çocuklarını 9 yıl bodrum katında yaşatan baba
 bkz kayınçonun yengesine atlamasına izin veren gavat
 bkz götünü eniştesine siktiren baldız
 bkz abisinin karısını hoplatan adam
