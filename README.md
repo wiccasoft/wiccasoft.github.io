@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz çağatay ulusoyun paylaşttığı askerlik videosu
 https://www.uludagsozluk.com/e/42738827/ bkz enes abi
 https://www.uludagsozluk.com/e/42738811/ bkz enes abinni an itibariyle paylaştığı gerçek
 https://www.uludagsozluk.com/k/enes-batur-un-komando-olarak-askere-gitmesi/ bkz enes abi anamı sik abi
