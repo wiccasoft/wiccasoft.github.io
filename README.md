@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz 22 ocak 2020 vedat mürüçün üçlü çektirecem demesi
 bkz imamoğlanın osururken terlediği iddaları
 bkz 21 ocak 2020 enes abinin vedat abiyi savunması
 https://www.uludagsozluk.com/e/42739012/
