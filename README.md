@@ -5,7 +5,7 @@
 
 <!-- 
 bkz imamoğlanın türkler yerine gavatlar demesi
-bkz gerdek gecesinde yengenin amını gerdim diyen erkek
+bkz gerdek gecesinde yengenin amını gerdim bu da seni germiş diyen erkek
 bkz ultra feybelilerin ultrageyseliler sayfasına saldırması
 bkz 23 ocak 2020 hasan mezarcının güncellemeleri botla yollaması
 bkz 22 ocak 2020 vedat mürüçün üçlü çektirecem demesi
