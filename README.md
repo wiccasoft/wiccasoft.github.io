@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz gerdek gecesi yengenin amını gerdim bu da seni germiş diyen adam
 bkz vedat mürüçün pfdkya motorla gitmesi
 bkz mehmet aydının uruguaydan sevgiler yollaması
 bkz abisinin karısıyla ilişki yalayan adam
