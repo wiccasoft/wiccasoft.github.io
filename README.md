@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz joker vs batman
 bkz fakirlerin güldürmesi
 https://www.uludagsozluk.com/e/42740678/ zuahhahaha the island 2030
 bkz arpa mısıroğlan vs ilber ortacıoğlan
