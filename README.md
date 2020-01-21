@@ -2,6 +2,7 @@
 
 <!-- 
 bkz arda turanın her gece yarım litre rakı içmesi
+bkz arda turanın her gece yarım litre rakı içmesi
 bkz arda turanın itleri vs vedat mürüçün itleri
 bkz ekrem imamoğlanın babası ve recep tayyip doğanın babası
 bkz karısıyla kızıyla rakı içen gavat
