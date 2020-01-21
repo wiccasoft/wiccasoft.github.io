@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+bkz türklerin üstün ırk olmasını çekemeyen dünya
 bkz türkiyenin süüper güç olma sebepleri
 https://www.uludagsozluk.com/e/42738590/ bkz türklerin çok zeki olma sebepleri
 https://www.uludagsozluk.com/k/arap-%C3%BClkelerinin-su-g%C3%B6t%C3%BCrmez-bir-salak-olmalar%C4%B1/
