@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz imamoğlanın türkler yerine gavatlar demesi
 bkz ultra feybelilerin ultrageyseliler sayfasına saldırması
 bkz 23 ocak 2020 hasan mezarcının güncellemeleri botla yollaması
 bkz 22 ocak 2020 vedat mürüçün üçlü çektirecem demesi
