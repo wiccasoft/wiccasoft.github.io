@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz mustafa camel ata cücü tomri hatuna çaktı mı sorunsalı
 bkz mustafa camel ata cücü neden sivas kongresini yabdı sorunsalı
 bkz mustafa camel ata cücü her geçe litre alkol içiyosa nasıl rakı yasaklı değil sorunsalı
 bkz mustafa camel atacücü müslümse neden hilafeti kaldırdı hıysneti kurdu sorunsalı
