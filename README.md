@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+https://www.uludagsozluk.com/e/42738355/ vay mamuğa goyim poğaça gibi hala
 https://www.uludagsozluk.com/e/42738343/ benim bu arkadan  vurdun mu önden sallanacak aga
 https://www.youtube.com/watch?v=FFkBaGqXLig ekşi çaylak onayı beklerken
 https://www.youtube.com/watch?v=ueptJlYwka0 zall is my girl
