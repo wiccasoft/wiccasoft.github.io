@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!--
+bkz hasan mezarcının çizgili istanbulspor forması giymesi
 bkz 23 ocak 2020 ultrageyselilerin arda turan hazımsızlığı
 bkz ultra feybelilerin ultageyseliler sayfasına saldıraması
 bkz 23 ocak 2020 vedat mürüçün arda turan a attığı ananı laciverde boyarım bakışı
