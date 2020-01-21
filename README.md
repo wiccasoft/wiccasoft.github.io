@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+bkz fakirlerin içki içemediği iddaları
 bkz vahdettin vs abdulmecid
 bkz 4 .murat vs 2. selim
 bkz ismet inönü vs enver paşa
