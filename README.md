@@ -4,7 +4,7 @@
 
 <!-- 
 bkz vedat millörün vedat mürüç hakkındaki yorumu
-bkz cem garipoğlunun hasan mezarcıyı desteklemesi
+bkz cem garipoğlunun hasan mezarcıyı finanse etmesi
 bkz freeBSD çekirdeğinden closed source kasmak
 bkz hasan mezarcının güncelleme paketlerine freeBSD lisans kasması
 bkz hasan mezarcının jennifer anistonun göte kitlenmesi
