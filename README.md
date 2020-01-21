@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
+bkz pargalı ibrahim paşa süleymana vurdur du mu sorunsalı
 bkz mustafa camel ata cücü neden fedöncülerin siyasi ayağını desktekledi sorunsalı
 bkz mustafa camel ata cücü sünnetsiz miydi sorunsalı
 bkz mustafa camel ata cücü tomri hatuna çaktı mı sorunsalı
