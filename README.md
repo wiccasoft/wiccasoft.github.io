@@ -5,6 +5,7 @@
 
 <!-- 
 bkz apollonun heykellerini yıkacağız
+bkz hasan mezarcının paylaştığı enes batur komando vidyosu
 bkz hasan mezarcının yarın güncelleme atmayacam bot yazacam o atar demesi
 https://www.uludagsozluk.com/e/42738871/ güncellemeleri yarın çocukları üyütüp yütüp kanalımdan atarım
 https://www.uludagsozluk.com/e/42738811/ bkz enes abinim an itibariyle paylaştığı gerçek
