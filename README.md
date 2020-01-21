@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+bkz kadir mısıroğlan vs ajdar arpaoğlan
 bkz ikinci abülhamdi vs 4. murat
 bkz pargalı damat ibrahim paşa vs 3 .selim
 bkz kakacücün her gece rakı içmesi
