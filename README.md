@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+https://www.uludagsozluk.com/e/42738855/ adam çaık açık sikişe davet ediyo beyler
 https://www.uludagsozluk.com/e/42738720/ eywallah bro çıkıncı haberleşiriz
 bkz enes abisi yerine beni takip eden ergen
 https://www.uludagsozluk.com/e/42738811/ bkz enes abinim an itibariyle paylaştığı gerçek
