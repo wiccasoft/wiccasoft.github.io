@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz freeBSD çekirdeğinden closed source kasmak
 bkz hasan mezarcının güncelleme paketlerine freeBSD lisans kasması
 bkz hasan mezarcının jennifer anistonun göte kitlenmesi
 bkz hasan mezarcının pfdkya motorla gitmesi
