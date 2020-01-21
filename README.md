@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hasan mezarcı facebook fan peyçte kavga eden laikçiler
 bkz misvakın paylaştığı apollo heykeli vidyosu
 bkz apollonun heykellerini yıkacağız
 bkz hasan mezarcının paylaştığı enes batur komando vidyosu
