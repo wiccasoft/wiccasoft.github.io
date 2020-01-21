@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz brad pittin emre morla dostluğumuz eskiye dayanır demesi
 bkz brad pittin yürüdüğü kızın emre morun yürüdüğü kız çıkması
 bkz brad pittin götçü olduğu iddası
 bkz enes abinin abin komandoydu demesi
