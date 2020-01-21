@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hasan mezarcının güncellemeleri notification atarım demesi
 bkz hasan mezarcının ekşiden başlık çalması
 https://www.uludagsozluk.com/k/vedat-muri%C3%A7-in-pfdk-ya-sevk-edilmesi/
 bkz 21 ocak 2020 jeff bezosun pfdk ne lan bakışı
