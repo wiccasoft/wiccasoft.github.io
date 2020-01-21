@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+bkz hasan mezarcıdan kurtulmanın yolları
 https://www.uludagsozluk.com/e/42738418/ bkz imamoğlan
 bkz imamoğlandan kurtulma yolları
 bkz taksim dayı vs taksimin renkli siması imamaoğlan
