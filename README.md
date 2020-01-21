@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
-bkz pargalı damat ibrahim paşa vs tunç soyer
+bkz pargalı damat ibrahim paşa vs 3 .selim
 bkz kakacücün her gece rakı içmesi
 bkz hayallerde yaşıyor bazı fakirler
 https://vexillarius-of-theodopolis.uludagsozluk.com/ zuhahahahahahah
