@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+bkz erdoğanın itleri vs kamalın itleri
 bkz ajdar arpaoğlan vs kadir mısıroğlan
 bkz kadir mısıroğlan vs tolstoy
 bkz celal horgör vs ilber şengör
