@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz vedat mürüçün üçlü çektirmesi
 bkz sadık çiftpınarın pfdk dan çıkacak kararlara saygım sonsuz açıklaması
 bkz pfdk nın var kararlarını incelensin talebi
 bkz pfdk pasif kalması
