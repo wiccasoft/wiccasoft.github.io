@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz hasan mezarcının jennifer anistonun göte kitlenmesi
 bkz hasan mezarcının pfdkya motorla gitmesi
 bkz hasan mezarcının 2020 güncelleme yılı olcak demesi
 bkz mehmet aydının çiftlikbankı dünya markası yapacam demesi
