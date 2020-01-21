@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
-https://www.uludagsozluk.com/e/42738871/ güncellemeleri yarın yutüp kanalımdan atarım
+https://www.uludagsozluk.com/e/42738871/ güncellemeleri yarın çocukları üyütüp yütüp kanalımdan atarım
 https://www.uludagsozluk.com/e/42738811/ bkz enes abinim an itibariyle paylaştığı gerçek
 https://www.uludagsozluk.com/e/42738865/ yüzyılın en güzel tespiti
 https://www.uludagsozluk.com/e/42738855/ adam açık açık sikişe davet ediyo beyler
