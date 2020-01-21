@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
 
 <!--
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel 
 https://www.youtube.com/watch?v=uRbEjK3-1B4 oyna bakalım delioğlan
 https://www.youtube.com/watch?v=6-tYHvnGV3Y daha yeni başlıyoruz
