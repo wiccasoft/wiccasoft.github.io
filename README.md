@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!-- 
+bkz gsana mezarcıdan kurtulamıyorum diyen kızın içine cin girmesi hadisesi
 https://www.uludagsozluk.com/k/evli-bir-adamdan-kurtulman%C4%B1n-yollar%C4%B1/ bkz hasan mezarcı
 bkz misvak apollo heyçelleri kariçatürü
 bkz hasan mezarcı facebook fan peyçte kavga eden laikçiler
