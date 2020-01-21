@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 <!--
+bkz 23 ocak 2020 vedat mürüçün arda turan a attığı ananı laciverde boyarım bakışı
 bkz 22 ocak 2020 arda turanın arda turna olması
 bkz radamel falco garcianın arda turanın tweetini retweetlemesi
 bkz arda turanın geri dönüyuorum demesi
