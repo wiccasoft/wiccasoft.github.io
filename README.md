@@ -1,7 +1,9 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
-https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg bkz seni abdulmecid yalnızlığında bırakmayacağız
+bkz seni abdul bin muttap yalnızlığında bırakmayacağız denilen adamın ortadan kaybolması
+bkz seni abdulmecid yalnızlığında bırakmayacağız
+https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg 
 https://www.uludagsozluk.com/k/abd-nin-t%C3%BCrkiye-olmadan-bir-hi%C3%A7-olmas%C4%B1/ zuahhahahahah
 bkz adam gibi adam vs adam gibi olamayan adam
 https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg adam şaka maka adam gibi adam la
