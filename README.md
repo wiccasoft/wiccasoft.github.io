@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz ekrem imamaoğlanın babasının benim akpliye verecek oğlum yok çıkışı
 bkz loris karius un ananızı laciverde boyarım bakışı
 bkz recep tayyip erdoğanın ben recep tayyip erdoğanım açıklaması
 bkz recep tayyip erdoğanın üç isimli olduğu gerçeği
