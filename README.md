@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz recep tayyip erdoğan vs ekrem imamoğlan
 https://www.uludagsozluk.com/e/42744982/ zuahahahhaha
 bkz rte nin  mgk yı toplaması
 bkz bahcelinin rte nin kararlarına saygım sonsuz açıklaması
