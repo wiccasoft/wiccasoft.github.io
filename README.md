@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz yeni işletyim sistemim : xaos (kaostan düzen doğar) nasıl kankağğğ iş yapar he
 https://www.uludagsozluk.com/k/i-phone-da-16gb-yetmemesi-sorunu/ xaos ile çörülecek sorun
 https://www.uludagsozluk.com/k/konu-nerelere-geldi/ bak ne anlatiyodum volkan
 bkz burak özçivinin oğlu kaan vs özcan denizin oğlu kuzey
