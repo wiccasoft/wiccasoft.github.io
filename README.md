@@ -3,6 +3,7 @@
 
 <!-- 
 bkz 22 ocak 2020 ultrageyselilerin arda turan hazımsızlığı 
+https://galeri13.uludagsozluk.com/648/benimle-seks-yapmadan-oleceksin_1967459.jpg lol
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ a bu benim -->
 
 [![Image](shadow/Screenshot_2020-01-22_01-01-43.png)]( https://www.youtube.com/watch?v=rcOwvZ26KFQ )
