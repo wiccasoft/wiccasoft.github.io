@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-nkz recep tayyip erdoğanın ben recepo tayyip erdoğanım açıklaması
+nkz recep tayyip erdoğanın ben recep tayyip erdoğanım açıklaması
 bkz recep tayyip erdoğanın üç isimli olduğu gerçeği
 bkz recep tayyip erdoğanın bilali yıldızı kurtarsın diye canadaya yollaması
 bkz iboyla rte nin yıldız için kavga etmesi
