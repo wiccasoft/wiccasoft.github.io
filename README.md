@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
-<!-- https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ a bu benim -->
+<!-- 
+bkz 22 ocak 2020 ultrageyselilerin arda turan hazımsızlığı 
+https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ a bu benim -->
 
 [![Image](shadow/Screenshot_2020-01-22_01-01-43.png)]( https://www.youtube.com/watch?v=rcOwvZ26KFQ )
 
