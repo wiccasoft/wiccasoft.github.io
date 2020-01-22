@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz sinirlenince mustafa ata cücüyü yere fırlatan insan
 bkz mustafa ata cücünün kendini seksi sanması
 bkz mustafa ata cücü vs ismet inönü
 bkz mustafa ata cücü vs enver paşa
