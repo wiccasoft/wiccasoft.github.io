@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
+//https://www.instagram.com/p/BSIUFMNDbH3/ shape of you
 https://www.instagram.com/didemsoydan/ aga bu nedir ya bu karıyı alırım
 https://www.uludagsozluk.com/k/benimle-seks-yapmadan-%C3%B6leceksin/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-fakir-insan%C4%B1n-4-dairesi-var/ asdasdas
