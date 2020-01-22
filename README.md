@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+forum da entry giren ergen özgüveni
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-%C3%B6zg%C3%BCveni/ zuahhahahahahahah
 https://www.uludagsozluk.com/k/bebe%C4%9Fim-dedi%C4%9Fim-anda-vur-bana-ahhh/ zuhahahah
 bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl aşkolar iş yapar he
