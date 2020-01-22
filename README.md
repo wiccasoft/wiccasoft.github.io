@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+https://eksisozluk.com/tarkana-megastar-sifatini-kazandiran-ozelligi--6332740?a=popular bkz kuzu kuzu şarkısındaki dansı
 https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
 bkz işe dans ederek gitmiyorsanız o işi bırakın
