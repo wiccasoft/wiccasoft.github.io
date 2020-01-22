@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz keşke yunan galip gelseydi hakkında izah
 bkz mustafa ata cücünün yunanları deniz dökmesi
 bkz cengiz ünder vs mustafa ata cücü
 bkz mustafa ceceli vs mustafa ata cücü
