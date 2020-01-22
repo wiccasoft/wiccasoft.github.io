@@ -2,6 +2,7 @@
 
 <!--
 bkz yancı olmanın verdiği rahatlık
+bzkz hasan mezarcının ekşiden başlık çalması
 https://www.uludagsozluk.com/k/mete-yarar-vs-abdullah-a%C4%9Far/ ben mete yaraktan yanayım
 bkz abdulhey vs memati 
 bkz seni abdulmecid yalnızlığında bırakmayacağım diyen ergen
