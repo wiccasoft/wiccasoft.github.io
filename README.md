@@ -3,6 +3,7 @@
 <!-- 
 https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b 
 bkz ajdar vs kadir arpaoğlan
+bkz celalettin demirbaş vs selahattin altınbaş
 -->
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
