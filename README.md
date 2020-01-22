@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
-bkz abdulhey vs memati
+bkz abdulhey vs memati (bkz henüz açılmamaış başlık)
 bkz seni abdulmecid yalnızlığında bırakmayacağım diyen ergen
 bkz ismi abdul le başlayan erkek karizması
 bkz 5. abdulmuttap yarak vs 12. abdulmecid bin talip
