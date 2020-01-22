@@ -6,16 +6,6 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-bkz telefonu efendiler diye açan insan
-bkz sinirlenince mustafa ata cücüyü yere fırlatan insan
-bkz mustafa ata cücünün kendini seksi sanması
-bkz mustafa ata cücü vs ismet inönü
-bkz mustafa ata cücü vs enver paşa
-bkz keşke yunan galip gelseydi hakkında izah
-bkz mustafa ata cücünün yunanları deniz dökmesi
-bkz cengiz ünder vs mustafa ata cücü
-bkz mustafa ceceli vs mustafa ata cücü
-bkz mustafa kamal ata cücü vs  recep tayyip erdoğan
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
 bkz işe dans ederek gitmiyorsanız o işi bırakın
 https://www.youtube.com/watch?v=juESkJY2ySw bkz ekremin rte hazımsızlığı
