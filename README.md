@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+https://www.youtube.com/watch?v=juESkJY2ySw bkz ekremin rte hazımsızlığı
 bkz ekrem imamaoğlanın rte ye gönderdiği mektup un örtbas edilmesi
 bkz ekrem imamoğlan vs recep tayyip erdoğan
 bkz recep tayyip erdoğan vs ekrem imamoğlan
