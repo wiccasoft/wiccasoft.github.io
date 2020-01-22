@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!-- 
-https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b 
+bkz ikinci abddulmuttap vs 5. muttap bin selim 
 bkz ikinci abdulhamide entry girerken babanın odaya girmesi
 bkz sürekli başlık açan entry giren tip
 bkz telefon da bi isteğin var mı gardaş diyen tip
