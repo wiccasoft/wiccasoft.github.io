@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-bkz mustafa ata cücüyle ismetin araları neden açıldı sorunsalı
+bkz mustafa ata cücü ile ismetin araları neden açıldı sorunsalı
 bkz mustafa ata cücü vs ismet inönü
 bkz mustafa ata cücü vs enver paşa
 bkz mustafa ata cücü 167 boyundaysa nasıl subay oldu sorunsalı
