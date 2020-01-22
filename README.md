@@ -6,8 +6,9 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz rte ile imamaoğlunun aynı fakülteyi bitirmesi
 bkz ibo nun yıldızı ilkokul mezunu iye aşağılması
-bkz ekrem imamaoğlanın babası vs recep tayyip erdoğanın babası
+bkz bi ekrem imamoğlanın kolay yetişmediği gerçeği
 bkz loris karius un ananızı laciverde boyarım bakışı
 bkz recep tayyip erdoğanın ben recep tayyip erdoğanım açıklaması
 bkz recep tayyip erdoğanın üç isimli olduğu gerçeği
