@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz cengiz ünderin enes abiye asker selamı çakması
 https://eksisozluk.com/entry/100922375 zuahahahaha
 https://eksisozluk.com/tarkana-megastar-sifatini-kazandiran-ozelligi--6332740?a=popular bkz kuzu kuzu şarkısındaki dansı
 https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
