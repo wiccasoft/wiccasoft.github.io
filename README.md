@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+bkz ismi abdul le başlayan erkek karizması
 bkz 5. abdulmuttap yarak vs 12. abdulmecid bin talip
 bkz mete yarak vs abdullah ağar
 https://www.uludagsozluk.com/e/42741263/ bkz mete yarak -->
