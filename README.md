@@ -7,17 +7,9 @@
 
 <!--
 bkz rte ile imamaoğlunun aynı fakülteyi bitirmesi
-bkz ibo nun yıldızı ilkokul mezunu iye aşağılması
+bkz ibo nun yıldızı ilkokul mezunu diye aşağılması
 bkz bi ekrem imamoğlanın kolay yetişmediği gerçeği
 bkz loris karius un ananızı laciverde boyarım bakışı
-bkz recep tayyip erdoğanın ben recep tayyip erdoğanım açıklaması
-bkz recep tayyip erdoğanın üç isimli olduğu gerçeği
-bkz recep tayyip erdoğanın bilali yıldızı kurtarsın diye canadaya yollaması
-bkz iboyla rte nin yıldız için kavga etmesi
-bkz sevdiceğini pezevenklerin elinde kurtaran erkek sevimliliği
-bkz recep tayyip erdoğanın yıldız tilbeyi pezevenklerin elinden kurtaracam demesi
-bkz recep tayyip erdoğanın paylaştığı tıldız tilbe şarkısı
-bkz ibo nun wiccasoft u pezevenklerin elinden kurtarması
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-%C3%B6zg%C3%BCveni/ zuahhahahahahahah
 https://www.uludagsozluk.com/k/bebe%C4%9Fim-dedi%C4%9Fim-anda-vur-bana-ahhh/ zuhahahah
 bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl aşkolar iş yapar he
