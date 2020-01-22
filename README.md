@@ -4,8 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-bkz fesli bunağın yazılım işine girmesi
-bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl kankağğğ iş yapar he
+bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl aşkolar iş yapar he
 https://www.uludagsozluk.com/k/i-phone-da-16gb-yetmemesi-sorunu/ xaos ile çörülecek sorun
 https://www.uludagsozluk.com/k/konu-nerelere-geldi/ bak ne anlatiyodum volkan
 bkz burak özçivinin oğlu kaan vs özcan denizin oğlu kuzey
@@ -23,9 +22,6 @@ https://www.uludagsozluk.com/e/42743072/ zuahhahahahahahhaha
 https://www.uludagsozluk.com/e/42743556/ acınası tipler evet
 https://www.uludagsozluk.com/e/42743559/ semiha yengeni gönderim yazlığa geliyorum kankağ
 bkz fatih portakalın bitinin kanlanması
-https://www.instagram.com/p/Bm5S0ETndvB/ kevser
-https://www.instagram.com/p/BSIUFMNDbH3/ shape of you
-https://www.instagram.com/didemsoydan/ aga bu nedir ya
 https://www.uludagsozluk.com/k/benimle-seks-yapmadan-%C3%B6leceksin/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-fakir-insan%C4%B1n-4-dairesi-var/ asdasdas
 https://www.uludagsozluk.com/k/i%C5%9Fe-dans-ederek-gitmiyorsan%C4%B1z-o-i%C5%9Fi-b%C4%B1rak%C4%B1n/
