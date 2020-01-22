@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
+bkz burak özçivinin oğlu kaan vs özcan denizin oğlu kuzey
 https://twitter.com/drsinanogan/status/972094339542372352 kadere bak
 https://www.uludagsozluk.com/k/caner-erkin/&w=bg nerden nereye
 https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-o%C4%9Flu-kuzey-deniz/ nerden nereye 
