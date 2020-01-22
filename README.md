@@ -1,6 +1,9 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
-<!--https://www.uludagsozluk.com/e/42741263/ bkz mete yarak -->
+<!--
+bkz abulmuttap uyarak vs 12. abdulmecid
+bkz mete yarak vs abdullah ağar
+https://www.uludagsozluk.com/e/42741263/ bkz mete yarak -->
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
