@@ -3,7 +3,8 @@
 
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/i-phone-da-16gb-yetmemesi-sorunu/ xaos ile çörülecek sorun
 https://www.uludagsozluk.com/k/konu-nerelere-geldi/ bak ne anlatiyodum volkan
 bkz burak özçivinin oğlu kaan vs özcan denizin oğlu kuzey
 https://twitter.com/drsinanogan/status/972094339542372352 kadere bak
