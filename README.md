@@ -5,10 +5,8 @@ bkz yancı olmanın verdiği rahatlık
 bkz hasan mezarcının ekşiden başlık çalması
 https://www.uludagsozluk.com/k/mete-yarar-vs-abdullah-a%C4%9Far/ ben mete yaraktan yanayım
 bkz abdulhey vs memati 
-bkz seni abdulmecid yalnızlığında bırakmayacağım diyen ergen
 bkz ismi abdul le başlayan erkek karizması
 bkz 5. abdulmuttap yarak vs 12. abdulmecid bin talip
-bkz mete yarak vs abdullah ağar
 https://www.uludagsozluk.com/e/42741263/ bkz mete yarak -->
 
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
