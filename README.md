@@ -2,7 +2,7 @@
 
 <!-- 
 https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b 
-https://www.uludagsozluk.com/e/42741172/ bkz bunlara acıyorum şöyle vısı vıdı bıdı
+https://www.uludagsozluk.com/e/42741172/ bkz bunlara acıyorum şöyle vıdı vıdı bıdı bıdı
 https://www.uludagsozluk.com/e/42741212/ bkz sıkınta varsa söyle gardaş
 -->
 
