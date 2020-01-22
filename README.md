@@ -6,12 +6,12 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+https://www.uludagsozluk.com/k/bebe%C4%9Fim-dedi%C4%9Fim-anda-vur-bana-ahhh/ zuhahahah
 bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl aşkolar iş yapar he
 https://www.uludagsozluk.com/k/i-phone-da-16gb-yetmemesi-sorunu/ xaos ile çörülecek sorun
 https://www.uludagsozluk.com/k/konu-nerelere-geldi/ bak ne anlatiyodum volkan
 bkz burak özçivinin oğlu kaan vs özcan denizin oğlu kuzey
 https://twitter.com/drsinanogan/status/972094339542372352 kadere bak
-https://www.uludagsozluk.com/k/bebe%C4%9Fim-dedi%C4%9Fim-anda-vur-bana-ahhh/ zuhahahah
 https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-kebap%C3%A7%C4%B1-ziyareti/&w=bg tey tey
 https://www.uludagsozluk.com/k/caner-erkin/&w=bg nerden nereye
 https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-o%C4%9Flu-kuzey-deniz/ nerden nereye 
