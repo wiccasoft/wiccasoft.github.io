@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+https://www.uludagsozluk.com/e/42744982/ zuahahahhaha
 bkz rte nin  mgk yı toplaması
 bkz bahcelinin rte nin kararlarına saygım sonsuz açıklaması
 bkz ekrem imamaoğlunun ibb. 5. oturumunda verdiği ayar
@@ -13,6 +14,7 @@ bkz rte ile imamaoğlunun aynı fakülteyi bitirmesi
 bkz ibo nun yıldızı ilkokul mezunu diye aşağılması
 bkz bi ekrem imamoğlanın kolay yetişmediği gerçeği
 bkz loris karius un ananızı laciverde boyarım bakışı
+https://www.uludagsozluk.com/k/cumhuriyet-in-vir%C3%BCs-haberinde-kullan%C4%B1ld%C4%B1%C4%9F%C4%B1-g%C3%B6rsel/
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-%C3%B6zg%C3%BCveni/ zuahhahahahahahah
 https://www.uludagsozluk.com/k/bebe%C4%9Fim-dedi%C4%9Fim-anda-vur-bana-ahhh/ zuhahahah
 bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl aşkolar iş yapar he
