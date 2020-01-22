@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
+https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-nin-yeni-imaj%C4%B1/&w=gd nerden nereye
 https://www.youtube.com/watch?v=DWrFAQBQSeY nerden nereye
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel
 https://www.uludagsozluk.com/e/42743624/ zuahhaha kayınço delirdi
