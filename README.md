@@ -2,8 +2,9 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
-bkz 22 ocak 2020 ultrageyselilerin arda turan hazımsızlığı 
-https://galeri13.uludagsozluk.com/648/benimle-seks-yapmadan-oleceksin_1967459.jpg lol
+https://www.uludagsozluk.com/k/benimle-seks-yapmadan-%C3%B6leceksin/
+https://www.uludagsozluk.com/k/i%C5%9Fe-dans-ederek-gitmiyorsan%C4%B1z-o-i%C5%9Fi-b%C4%B1rak%C4%B1n/
+https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ 
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ a bu benim -->
 
 [![Image](shadow/Screenshot_2020-01-22_01-01-43.png)]( https://www.youtube.com/watch?v=rcOwvZ26KFQ )
