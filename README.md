@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz cengiz ünder vs mustafa ata cücü
 bkz mustafa ceceli vs mustafa ata cücü
 bkz mustafa kamal ata cücü vs  recep tayyip erdoğan
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
