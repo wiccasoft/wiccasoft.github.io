@@ -2,6 +2,7 @@
 
 <!-- 
 https://medium.com/t%C3%BCrkiye/i%CC%87stikbal-g%C3%B6klerdedir-1a788732ba7b 
+bkz telefona da bi isteğin var mı gardaş diyen tip
 https://www.uludagsozluk.com/e/42741096/ bkz şimdi şöyle olurdu vıdı vıdı bıdı bıdı
 https://www.uludagsozluk.com/e/42741250/ bkz hoj değildir vıdı vıdı bıdı bıdı
 https://www.uludagsozluk.com/e/42741172/ bkz bunlara acıyorum şöyle vıdı vıdı bıdı bıdı
