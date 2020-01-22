@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-kyk-borcunu-%C3%B6deyen-erkek/&w=bg kyk ne lan gerizekalı ergenler
+https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
 bkz işe dans ederek gitmiyorsanız o işi bırakın
 https://www.youtube.com/watch?v=juESkJY2ySw bkz ekremin rte hazımsızlığı
