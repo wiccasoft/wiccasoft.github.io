@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz recep tayyip erdoğanın bilali yıldızı kurtarsın diye canadaya yollaması
 bkz iboyla rte nin yıldız için kavga etmesi
 bkz sevdiceğini pezevenklerin elinde kurtaran erkek sevimliliği
 bkz recep tayyip erdoğanın yıldız tilbeyi pezevenklerin elinden kurtaracam demesi
