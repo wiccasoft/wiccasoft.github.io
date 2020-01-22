@@ -7,10 +7,8 @@
 
 <!--
 bkz mustafa ata cücünün kendini seksi sanması
-bkz mustafa ata cücü ile ismetin araları neden açıldı sorunsalı
 bkz mustafa ata cücü vs ismet inönü
 bkz mustafa ata cücü vs enver paşa
-bkz mustafa ata cücü 167 boyundaysa nasıl subay oldu sorunsalı
 bkz keşke yunan galip gelseydi hakkında izah
 bkz mustafa ata cücünün yunanları deniz dökmesi
 bkz cengiz ünder vs mustafa ata cücü
