@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
+https://www.youtube.com/watch?v=JdhJq-53J-w çomar avı
 https://www.uludagsozluk.com/e/42743072/ zuahhahahahahahhaha
 https://www.uludagsozluk.com/e/42743556/ acınası tipler evet
 https://www.uludagsozluk.com/e/42743559/ semiha yengeni gönderim yazlığa geliyorum kankağ
