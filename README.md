@@ -2,6 +2,7 @@
 
 <!--
 bkz abdulhey vs memati
+bkz seni abdulmecid yalnızlığında bırakmayacağım diyen ergene la oglum siggi git demek
 bkz ismi abdul le başlayan erkek karizması
 bkz 5. abdulmuttap yarak vs 12. abdulmecid bin talip
 bkz mete yarak vs abdullah ağar
