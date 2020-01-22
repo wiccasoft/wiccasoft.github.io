@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
 <!--
+https://www.uludagsozluk.com/k/mete-yarar-vs-abdullah-a%C4%9Far/ ben mete yaraktan yanayım
 bkz abdulhey vs memati (bkz henüz açılmamaış başlık)
 bkz seni abdulmecid yalnızlığında bırakmayacağım diyen ergen
 bkz ismi abdul le başlayan erkek karizması
