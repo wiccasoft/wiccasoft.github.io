@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-bkz sevdiceğini pezebenklerin elinde kurtaran erkek sevimliliği
+bkz iboyla rte nin yıldız için kavga etmesi
+bkz sevdiceğini pezevenklerin elinde kurtaran erkek sevimliliği
 bkz recep tayyip erdoğanın yıldız tilbeyi pezevenklerin elinden kurtaracam demesi
 bkz recep tayyip erdoğanın paylaştığı tıldız tilbe şarkısı
 bkz ibo nun wiccasoft u pezevenklerin elinden kurtarması
