@@ -7,6 +7,7 @@
 
 <!--
 bkz rte nin  mgk yı toplaması
+bkz bahcelinin rte nin kararlarına saygım sonsuz açıklaması
 bkz ekrem imamaoğlunun ibb. 5. oturumunda verdiği ayar
 bkz rte ile imamaoğlunun aynı fakülteyi bitirmesi
 bkz ibo nun yıldızı ilkokul mezunu diye aşağılması
