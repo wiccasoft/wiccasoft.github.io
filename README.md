@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+zuhahahahahhahahahahahahhahahahahahhahahahahahhaha
 bkz rte ile imamaoğlunun aynı fakülteyi bitirmesi
 bkz ibo nun yıldızı ilkokul mezunu diye aşağılması
 bkz bi ekrem imamoğlanın kolay yetişmediği gerçeği
