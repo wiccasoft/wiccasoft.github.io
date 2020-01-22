@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
-bkz recep tayuyip erdoğanın yıldız tilbeyi pezevenklerin elinden kurtaracam demesi
+bkz sevdiceğini pezebenklerin elinde kurtaran erkek sevimliliği
+bkz recep tayyip erdoğanın yıldız tilbeyi pezevenklerin elinden kurtaracam demesi
 bkz recep tayyip erdoğanın paylaştığı tıldız tilbe şarkısı
 bkz ibo nun wiccasoft u pezevenklerin elinden kurtarması
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-%C3%B6zg%C3%BCveni/ zuahhahahahahahah
