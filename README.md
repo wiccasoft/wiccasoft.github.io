@@ -2,8 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
+https://www.uludagsozluk.com/e/42743559/ semiha yengeni gönderim yazlığa geliyorum kankağ
 bkz fatih portakalın bitinin kanlanması
-https://www.uludagsozluk.com/k/binali-y%C4%B1ld%C4%B1r%C4%B1m-%C4%B1n-ortal%C4%B1klarda-g%C3%B6z%C3%BCkmemesi/&w=bg
 https://www.instagram.com/p/Bm5S0ETndvB/ kevser
 https://www.instagram.com/p/BSIUFMNDbH3/ shape of you
 https://www.instagram.com/didemsoydan/ aga bu nedir ya
