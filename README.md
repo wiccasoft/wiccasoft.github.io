@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!-- 
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel
 https://www.uludagsozluk.com/e/42743624/ zuahhaha kayınço delirdi
 https://www.youtube.com/watch?v=JdhJq-53J-w çomar avı
 https://www.uludagsozluk.com/e/42743072/ zuahhahahahahahhaha
