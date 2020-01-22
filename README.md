@@ -1,16 +1,5 @@
 [![Image](shadow/Screenshot_2020-01-20_21-54-03.png)]( https://www.youtube.com/watch?v=Jl4bj76dKWc )
 
-<!-- 
-bkz ikinci abddulmuttap vs 5. muttap bin selim 
-bkz ikinci abdulhamide entry girerken babanın odaya girmesi
-bkz sürekli başlık açan entry giren tip
-bkz telefon da bi isteğin var mı gardaş diyen tip
-https://www.uludagsozluk.com/e/42741096/ bkz şimdi şöyle olurdu vıdı vıdı bıdı bıdı
-https://www.uludagsozluk.com/e/42741250/ bkz hoj değildir vıdı vıdı bıdı bıdı
-https://www.uludagsozluk.com/e/42741172/ bkz bunlara acıyorum şöyle vıdı vıdı bıdı bıdı
-https://www.uludagsozluk.com/e/42741212/ bkz sıkınta varsa söyle gardaş
--->
-
 [![Image](shadow/Screenshot_2020-01-21_09-13-13.png)]( https://www.youtube.com/watch?v=YwLAmlrkWyY )
 
 [![Image](shadow/Screenshot_2020-01-19_15-12-52.png)]( https://www.youtube.com/watch?v=fE5OUx2qzqY )
