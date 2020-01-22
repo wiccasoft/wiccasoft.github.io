@@ -4,7 +4,7 @@
 <!-- 
 https://www.instagram.com/p/Bm5S0ETndvB/ kevser
 https://www.instagram.com/p/BSIUFMNDbH3/ shape of you
-https://www.instagram.com/didemsoydan/ aga bu nedir ya bu karıyı alırım
+https://www.instagram.com/didemsoydan/ aga bu nedir ya
 https://www.uludagsozluk.com/k/benimle-seks-yapmadan-%C3%B6leceksin/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-fakir-insan%C4%B1n-4-dairesi-var/ asdasdas
 https://www.uludagsozluk.com/k/i%C5%9Fe-dans-ederek-gitmiyorsan%C4%B1z-o-i%C5%9Fi-b%C4%B1rak%C4%B1n/
