@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz ibo nun yıldızı ilkokul mezunu iye aşağılması
 bkz ekrem imamaoğlanın babası vs recep tayyip erdoğanın babası
 bkz loris karius un ananızı laciverde boyarım bakışı
 bkz recep tayyip erdoğanın ben recep tayyip erdoğanım açıklaması
