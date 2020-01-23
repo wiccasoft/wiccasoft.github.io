@@ -1,6 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz 230 ocak 2020 tahkim kararlarının ultrageyselileri it gibi dağıtması
+https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
+https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
 bkz demirtaşın istanbul kanalı güzel bir adım açıklaması
 bkz vedat mürüçün asker selamı çakmaması
 bkz cengiz ünderin gol sonrası asker selamı çakması
