@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
 <!--
+bkz paşa dönerin uğur mumcuya sponsor olması
 bkz paşa döner vs nusret
 https://pasa-doner.com.tr/?utm_source=ms&utm_medium=uludagsozluk&utm_campaign=tema
 https://www.uludagsozluk.com/e/42749412/ bkz this day in history
