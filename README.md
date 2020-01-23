@@ -1,17 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
-<!-- 
-https://eksisozluk.com/fakirlerin-cok-sayida-ureme-hevesinin-sebebi--6282042?a=popular
-https://eksisozluk.com/baba-parasiyla-ulke-ulke-gezen-universiteli-kiz--6333727?a=popular
-https://eksisozluk.com/melih-gokcek-sonrasi-hizmetlerin-azalmasi--6333844?a=popular
-https://eksisozluk.com/hasan-mezarcinin-namazi-kaldirmasi--6333663?a=popular
-https://eksisozluk.com/adi-orkun-olanlarin-ortak-ozellikleri--6333898?a=popular
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular 
-https://eksisozluk.com/fernando-muslera-vs-loris-karius--5801606?a=popular
-https://eksisozluk.com/adi-omer-faruk-olanlarin-ortak-ozellikleri--6333444?a=popular
--->
-
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
 
