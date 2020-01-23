@@ -1,7 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-bkz rte nin camı tıklayıp nabıyon kankağ 31 mi çekiyon demesi
 bkz kakarken odaya sevişme girmesi
 bkz kakanın bomba gibi geldiği gerçeği
 bkz sevişirken kakanın gelmesi
@@ -11,6 +10,7 @@ bkz kk nın tuğçe kazazın tweetinni retweetlemesi
 bkz tuğçe kazazın hırsıızn suçu varda katilin yok mu tweeti
 bkz tuğçe kazazın akp ananızı mı sikti tweeti
 bkz ali koçun vedat millöçü lost adasına yollaması
+bkz rte nin camı tıklayıp nabıyon kankağ 31 mi çekiyon demesi
 https://www.uludagsozluk.com/k/sevi%C5%9Firken-odaya-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-girmesi/&w=bg
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCnden-%C3%B6l%C3%BCrken-illumunatiye-s%C3%B6vmek/ zuhahaha
 bkz pasifikten ada satın alıp zombilerin saldırmasını beklemek
