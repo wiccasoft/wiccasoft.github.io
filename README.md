@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz 24 ocak 2020 adanademirsporun döşeyeceği boru
 türk futbolunu türk hakemlerine emanet ediniz - mustafa kamal ata cücü
 bkz mustafa kamal ata cücünün var hatalarını türk hakemlerine yüklemek yersizdir sözü
 https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa kamal ata cücünün emrettiği maç
