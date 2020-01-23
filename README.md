@@ -3,7 +3,7 @@
 
 <!-- 
 bkz tayt giyip solda iyi mi diyen forvet
-bkz şortunun altına tayt giyen forvet görmek istemiyoruz kampanyası
+bkz tayt giyen forvet görmek istemiyoruz kampanyası
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd vurduruyordur
 bkz türklere football manager app atıp köşeyi dönmek
 https://www.youtube.com/watch?v=AFx8ElwfMBQ 
