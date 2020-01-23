@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
-<!-- https://www.uludagsozluk.com/e/42749640/ eywalla bro gaffar okanın askerleriyiz -->
+<!-- 
+https://www.uludagsozluk.com/e/42749439/ ben de seni unutmadım küçük adam
+https://www.uludagsozluk.com/e/42749640/ eywalla bro gaffar okanın askerleriyiz -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
