@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz vedat mürüçün pfdk ya sevk edilmesi
 bkz ediz hunun tesladan patent çalması
 bkz kk nın fatih portakala portakal kafalı demesi
 bkz hasan mezarcının rükuyu 3 e indirmesi
