@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/steven-n-zonzi/&w=bg bkz öyle göte böyle yarra
 https://www.uludagsozluk.com/k/sevgilisini-yedirip-i%C3%A7irip-kendi-%C3%A7ay-i%C3%A7en-insan/ bkz fatih terim
 https://www.uludagsozluk.com/k/fatih-terim-in-sicili/&w=bg bkz fenerlilileri kudurtan sicil
 https://www.uludagsozluk.com/e/42748547/ bkz ablan seninle aynı takımdan bebeğim
-https://www.uludagsozluk.com/k/2500-y%C4%B1ll%C4%B1k-mumyaya-tecav%C3%BCz-eden-adam/ zuhaahahha
+https://www.uludagsozluk.com/k/2500-y%C4%B1ll%C4%B1k-mumyaya-tecav%C3%BCz-eden-adam/ a bu benim
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
