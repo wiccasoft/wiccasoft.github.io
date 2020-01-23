@@ -5,19 +5,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42748547/ bkz ablan seninle aynı takımdan bebeğim
-https://www.uludagsozluk.com/k/21-ya%C5%9F%C4%B1ndaki-spor-kul%C3%BCb%C3%BC-ba%C5%9Fkan%C4%B1/ oyşşşş
-bkz nihat özdemirin ablan galatsaraylı bebeğim paylaşımı
-https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ablana galatsaraylı bebeğim
-https://www.uludagsozluk.com/k/tayt-giyen-erkek/ bkz top
-https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ne diyin lan top
-https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd vurduruyordur
-https://www.youtube.com/watch?v=AFx8ElwfMBQ zuhahahaahahahah
-bkz 23 ocak 2020 ali koçun parası neyse kakayı alalım önerisi
-bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
-https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
-https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerbahve vs galatsaray
-bkz 23 ocak 2020 türkiyenin boş yapmaya devam etmesi
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
