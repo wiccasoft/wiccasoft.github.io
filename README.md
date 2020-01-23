@@ -6,9 +6,9 @@ bkz paşa döner vs nusret
 https://pasa-doner.com.tr/?utm_source=ms&utm_medium=uludagsozluk&utm_campaign=tema
 https://www.uludagsozluk.com/e/42749412/ bkz this day in history
 https://www.uludagsozluk.com/e/42749735/ eywalla reis ocaktakilere selam söyle
-https://www.uludagsozluk.com/e/42749733/ söz ver unutmayacağız de ayol
+https://www.uludagsozluk.com/e/42749733/ söz ver unutmayacağım de ayol
 https://www.uludagsozluk.com/e/42749439/ ben de seni unutmadım küçük adam
-https://www.uludagsozluk.com/e/42749640/ eywalla bro gaffar okanın askerleriyiz -->
+https://www.uludagsozluk.com/e/42749640/ eywalla bro mustafa ata cücü askerleriyiz -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
