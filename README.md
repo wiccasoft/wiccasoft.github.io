@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz ali babacanın ben sizin babanızın ben ne dersem o olur demesi
 bkz ekrem imamaoğlanın acil durum ekibini devreye sokması
 https://www.uludagsozluk.com/k/telefon-numaras%C4%B1n%C4%B1-vermeyen-erkek/&w=gd bkz kaka
 bkz ekrem imamoğlanın kakanın levent gök göt demesini savunması
