@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+https://www.youtube.com/watch?v=9L7mZH2u3Qc
 bkz abdullah avcının karius u karantinaya alması
 https://www.youtube.com/watch?v=DWrFAQBQSeY 
 ya ne oluyir demeyecesin ne olacağım diyecesin sen istiyor antivus alacak kaspersky
