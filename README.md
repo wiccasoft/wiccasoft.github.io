@@ -12,6 +12,7 @@ bkz tuğçe kazazın hırsıızn suçu varda katilin yok mu tweeti
 bkz tuğçe kazazın akp ananızı mı sikti tweeti
 bkz ali koçun vedat millöçü lost adasına yollaması
 bkz rte nin camı tıklayıp nabıyon kankağ 31 mi çekiyon demesi
+https://www.uludagsozluk.com/k/merkez-bankas%C4%B1-fed-kadar-ba%C4%9F%C4%B1ms%C4%B1zd%C4%B1r/ zuahhahahaha
 https://www.uludagsozluk.com/k/sevi%C5%9Firken-odaya-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-girmesi/&w=bg
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCnden-%C3%B6l%C3%BCrken-illumunatiye-s%C3%B6vmek/ zuhahaha
 bkz pasifikten ada satın alıp zombilerin saldırmasını beklemek
