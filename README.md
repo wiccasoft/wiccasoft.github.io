@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+,https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-tayyip-demek/&w=bg bkz ne diyem mahmut mu diyem
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=bg bkz erkek götü seksiliği
 https://www.uludagsozluk.com/k/erkeklerin-gay-gibi-giyinmesi/ bkz erkeklerin orospu olması
 -->
