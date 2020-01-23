@@ -1,7 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-bkz ediz hunun oğlunun tesladan patent çalması
+bkz ediz hunun tesladan patent çalması
 bkz kk nın fatih portakala portakal kafalı demesi
 bkz hasan mezarcının rükuyu 3 e indirmesi
 bkz karius un fenerlilere ananızı laciverde boyarım demesi
