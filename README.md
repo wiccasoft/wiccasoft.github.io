@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerbahve vs galatsaray
 bkz 23 ocak 2020 fenerbahçe galatsaray maçı
 bkz 23 ocak 2020 kakanın levent gök e levent göt demesi 
 bkz tahkim kurulunun fenerbahçe var kararlarına uyacak açıklaması
