@@ -4,6 +4,7 @@
 <!--
 bkz paşa dönerin sponsor olduuğu garip yer
 bkz paşa döner vs nusret
+bkz ölmüş adama iyi uyu öptüm falan yazan  garip tipler
 https://pasa-doner.com.tr/?utm_source=ms&utm_medium=uludagsozluk&utm_campaign=tema
 https://www.uludagsozluk.com/e/42749412/ bkz this day in history
 https://www.uludagsozluk.com/e/42749735/ eywalla reis ocaktakilere selam söyle
