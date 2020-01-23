@@ -5,6 +5,7 @@
 
 <!-- 
 bkz what can i do sometimes
+https://www.youtube.com/watch?v=OFeJCJziVCk zuahahhaha
 bkz 24 ocak 2020 galtasarayın tahkim kurulu üyelerine döşeyeceği boru
 bkz ablan galatalı bebeğimin inciliccesi
 https://eksisozluk.com/23-ocak-2020-caykur-rizesporun-verilmeyen-golu--6334331?a=popular bkz fenerlilerin ağlaması
