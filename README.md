@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz erkan tanın ver mheteri virüse demesi
 bkz şener şeninin sessizliğini koruması
 bkz ali babacanın kurultaya fezleke verdiği iddası
 bkz celal şengörün depremin virüsü tetiklediği iddası
