@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
 <!-- 
-bkz zi jiping in çocuğu wuhana giden kyk lıların borcunu silmesi
+bkz xi jiping in çocuğu wuhana giden türkmenlerin kyk borcunu silmesi
 bkz siz istiyor antivirüs satın alacak kaspersky
 bkz virusun sebebinin zina ve domuz eti olması
 bkz abdullah avcının karantinaya alacağı futbolcular
