@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz bütük yarraklı şortunun altına tayt giyen forvet
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd vurduruyordur
 bkz türklere football manager app atıp köşeyi dönmek
 https://www.youtube.com/watch?v=AFx8ElwfMBQ 
