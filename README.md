@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
-bkz fatih tezcan nın analiz merkezinin londra ta taşıması
+bkz fatih tezcan nın analiz merkezinin washington a taşıması
 bkz erkan tanın fatih tazcan la aşk yaşadığı iddaları
 bkz erkan tanın la bize her yer angara dansı yapması
 bkz erkan tanın ver mehteri virüse paylaşımı
