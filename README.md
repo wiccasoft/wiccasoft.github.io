@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz ali koçun soyunma odasında fatih terimi azarlaması
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz fatih terim ali koç
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz ali koçun fatihe sicili bozu demesi
 bkz 23 ocak 2030 fatih terimini b asın toplantısı
