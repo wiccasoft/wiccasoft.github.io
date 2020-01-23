@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
-bkz doğıı perinçekin ali babacan türkiyenin kurtuluşudur demesi
+bkz doğu perinçekin ali babacan türkiyenin kurtuluşudur demesi
 bkz ali babacanın benden babacan adam mı bulacaksınız tweeti
 bkz 23 ovak 2020 celal şengörü rejime başlaması
 bkz celal şengörün egemen bağış için soytarı demesi
