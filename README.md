@@ -1,9 +1,5 @@
 
-[![Image](shadow/Screenshot_2020-01-23_13-40-30.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
-
-[![Image](shadow/Screenshot_2020-01-23_13-26-46.png)]( https://www.youtube.com/watch?v=6YUw7_q33Zs )
-
-[![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
+[![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
