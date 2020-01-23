@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz mustafa kamal ata cücün fenerbahçe li olması
 https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa kamal ata cücünün emrettiği maç
 bkz ali koçun mustafa kamal ata cücü de fenerliydi demesi
 bkz ali koçun soyunma odasında fatih terimi azarlaması
