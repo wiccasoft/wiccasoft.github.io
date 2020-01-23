@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz cengiz ünderin gol sonrası asker selamı çakması
 bkz vedat mürüçün üçlü çektirmesi
 bkz ali koçun vedat mürüçü yedek kulübesine kitlemesi
 bkz cengiz ünderin enes baturla dosluğumuz eskiye dayanır demesi
