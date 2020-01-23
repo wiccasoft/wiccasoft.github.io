@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz 23 ovak 2020 celal şengörü rejime başlaması
 bkz celal şengörün egemen bağış için soytarı demesi
 bkz ali babacanın ihraç edilen mhpliler için fezleke sunması
 bkz ali babacanın ikili görüşmeler olumlu geçti demesi
