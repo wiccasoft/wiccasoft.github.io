@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-bkz adalet bakanlığını fatih terim le fatyih portakalın sicil kaydı temiz açıklaması
+bkz adalet bakannının fatih terim le fatih portakalın sicil kaydı temiz açıklaması
 bkz fatih terimini fenerlilere götelek demesi
 bkz fathi terimin  çaykur rizesporla bitmemiş işimiz var demesi
 https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu-ve-ali-gaffar-okkan/&w=bg bkz deliyürek bumerang cehennemi
