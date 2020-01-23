@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
 <!-- 
+https://www.youtube.com/watch?v=6KxL0X9MZRA 
+https://eksisozluk.com/rusyanin-s-400-kodlarini-turkiyeye-vermemesi--5464734?p=23
 bkz xi jiping in çocuğu wuhana giden türkmenlerin kyk borcunu silmesi
 bkz siz istiyor antivirüs satın alacak kaspersky
 bkz virusun sebebinin zina ve domuz eti olması
