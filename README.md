@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-bkz kşm kardashian nın akp kötü de diğerleri iyi mi sanki tweeti
+bkz tuğçe kazazın corono virüsünü akp mi yaydı sanki tweeti
+https://www.uludagsozluk.com/k/istanbul-t%C3%BCrkiyenin-g%C3%B6t-deli%C4%9Fi/
+bkz kim kardashian nın akp kötü de diğerleri iyi mi sanki tweeti
 bkz esra balamirin akp nin de hatalır vardır ama iyi yanında bakalım tweeti
 bkz tuğçe kazazın niye beni siklemiyosunuz tweeti
 bkz cicişlerin fenerin hiç mi hatası yok tweeti
