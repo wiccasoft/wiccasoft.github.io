@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz kakanın levent gök e levent göt demesi
 bkz cicişlerin tuğçe kazaz tweetini retweetlemesi
 bkz tuğçe kazazın attığı hırsızın hiç mi suçu yok tweeti
 bkz kakanın fenerbahçe nin tweetini retweetlemesi
