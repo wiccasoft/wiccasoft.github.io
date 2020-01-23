@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!-- 
+bkz kk nın fatih portakala portakal kafalı demesi
 bkz hasan mezarcının rükuyu 3 e indirmesi
 bkz karius un fenerlilere ananızı laciverde boyarım demesi
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-levent-g%C3%B6k-e-say%C4%B1n-levent-g%C3%B6t-demesi/&w=bg -->
