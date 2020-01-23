@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-https://www.youtube.com/watch?v=AFx8ElwfMBQ anladık kardeş sakin
+bkz türklere football manager gibi bir app atalım önerisi
+https://www.youtube.com/watch?v=AFx8ElwfMBQ ok ok
 bkz 23 ocak 2020 ali koçun parası neyse kakayı alalım önerisi
 bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
