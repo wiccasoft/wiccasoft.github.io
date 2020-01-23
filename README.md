@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz ben de nsa ya verecek telefon numarası yok diyen erkek
 bkz fatih tezcanın telefon numarasını nsa ya vermesi
 bkz fatih tezcan nın analiz merkezinin washington a taşıması
 bkz erkan tanın fatih tazcan la aşk yaşadığı iddaları
