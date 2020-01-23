@@ -1,43 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
-<!--
-bkz ben de nsa ya verecek telefon numarası yok diyen erkek
-bkz fatih tezcanın telefon numarasını nsa ya vermesi
-bkz fatih tezcan nın analiz merkezinin washington a taşıması
-bkz erkan tanın fatih tazcan la aşk yaşadığı iddaları
-bkz erkan tanın la bize her yer angara dansı yapması
-bkz erkan tanın ver mehteri virüse paylaşımı
-https://www.uludagsozluk.com/k/a%C5%9F%C4%B1r%C4%B1-gerizekal%C4%B1-bir-neslin-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-gelmesi/&w=bg zuahhahahahahahah
-https://www.uludagsozluk.com/k/telefon-numaras%C4%B1n%C4%B1-vermeyen-erkek/&w=bg bkz ruhsuz ve hain erkek
-bkz kamalcıların virüsü yonana gibin denize dökecez demesi
-https://www.uludagsozluk.com/e/42746002/ bkz fatih tezcanın erkan tanı ingiltere kaçırma planları
-bkz erkan tanın ver mehteri virüse demesi
-bkz şener şeninin sessizliğini koruması
-bkz ali babacanın kurultaya fezleke verdiği iddası
-bkz celal şengörün depremin virüsü tetiklediği iddası
-bkz doğu perinçekin il başkanlık binalarını ilaşşatması
-bkz doğu perinçekin ali babacan türkiyenin kurtuluşudur demesi
-bkz ali babacanın benden babacan adam mı bulacaksınız tweeti
-bkz 23 ovak 2020 celal şengörü rejime başlaması
-bkz celal şengörün egemen bağış için soytarı demesi
-bkz ali babacanın ihraç edilen mhpliler için fezleke sunması
-bkz ali babacanın ikili görüşmeler olumlu geçti demesi
-bkz ali babacanın ben sizin babanızın ben ne dersem o olur demesi
-bkz ekrem imamaoğlanın acil durum ekibini devreye sokması
-https://www.uludagsozluk.com/k/telefon-numaras%C4%B1n%C4%B1-vermeyen-erkek/&w=gd bkz kaka
-bkz ekrem imamoğlanın kakanın levent gök göt demesini savunması
-bkz kakanın levent gök e levent göt demesi
-bkz cicişlerin tuğçe kazaz tweetini retweetlemesi
-bkz tuğçe kazazın attığı hırsızın hiç mi suçu yok tweeti
-bkz kakanın fenerbahçe nin tweetini retweetlemesi
-bkz ali babacanın attığı ben sizin babanızım tweeti
-bkz burhan kuzunun attığı imamaoğlu kendini ne sanıyor tweeti
-bkz ekrem imamaoğlanın attığı akp de olsa o da insan tweeti
-bkz binli yıldırımın attığı akp nin hiç mi hatası yok tweeti
-bkz vedat mürüçün sağlık kontrolünden geçmem demesi
-bkz 23 ocak 2020 ekrem imamoğlanın istanbulu karantinaya alması 
--->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
