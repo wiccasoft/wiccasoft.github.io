@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz 203 ocvak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerbahve vs galatsaray
 bkz 23 ocak 2020 fenerbahçe galatsaray maçında verilmeyen penaltı
 bkz 23 ocak 2020 kakanın levent gök e levent göt demesi 
