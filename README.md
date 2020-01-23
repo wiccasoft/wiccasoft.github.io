@@ -11,21 +11,11 @@ bkz big pharma is my girl
 bkz abdullah avcının cengi ünderi stoper olarak alalım teklifi
 bkz cengiz ünderin gol sonrası enes abiye asker selamı çakması
 https://eksisozluk.com/entry/100922375 zuahahahaha
-https://eksisozluk.com/tarkana-megastar-sifatini-kazandiran-ozelligi--6332740?a=popular bkz kuzu kuzu şarkısındaki dansı
 https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
 bkz işe dans ederek gitmiyorsanız o işi bırakın
 https://www.youtube.com/watch?v=juESkJY2ySw bkz ekremin rte hazımsızlığı
-bkz ekrem imamaoğlanın rte ye gönderdiği mektup un örtbas edilmesi
-bkz ekrem imamoğlan vs recep tayyip erdoğan
-bkz recep tayyip erdoğan vs ekrem imamoğlan
 https://www.uludagsozluk.com/e/42744982/ zuahahahhaha
-bkz rte nin  mgk yı toplaması
-bkz bahcelinin rte nin kararlarına saygım sonsuz açıklaması
-bkz ekrem imamaoğlunun ibb. 5. oturumunda verdiği ayar
-bkz rte ile imamaoğlunun aynı fakülteyi bitirmesi
-bkz ibo nun yıldızı ilkokul mezunu diye aşağılması
-bkz bi ekrem imamoğlanın kolay yetişmediği gerçeği
 bkz loris karius un ananızı laciverde boyarım bakışı
 https://www.uludagsozluk.com/k/cumhuriyet-in-vir%C3%BCs-haberinde-kullan%C4%B1ld%C4%B1%C4%9F%C4%B1-g%C3%B6rsel/
 https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-%C3%B6zg%C3%BCveni/ zuahhahahahahahah
