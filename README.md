@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz burahan kuzunun attığı imamaoğlu kendini ne sanıyor tweeti
 bkz ekrem imamaoğlanın attığı akp de olsa o da insan tweeti
 bkz binli yıldırımın attığı akp nin hiç mi hatası yok tweeti
 bkz vedat mürüçün sağlık kontrolünden geçmem demesi
