@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
 bkz tuğçe kazazın akp nin hiç hatası yok tweeti
+https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kazaz-%C4%B1n-akp-nin-hi%C3%A7-hatas%C4%B1-yok-mu-tweeti/
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenerbahce vs galatasaray
 https://www.youtube.com/watch?v=AFx8ElwfMBQ anlatma kankağ heyecanığ gitti
 https://www.youtube.com/watch?v=G_qG-f2EBb0bkz yaşanmadan anlatılmayacak futbolcular
