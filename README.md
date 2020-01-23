@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
-https://www.uludagsozluk.com/k/erkan-tan/&w=bg bkz vakti gelince kaçacak beyler
+https://www.uludagsozluk.com/e/42746002/ bkz fatih tezcanın erkan tanı ingiltere kaçırma planları
 bkz erkan tanın ver mehteri virüse demesi
 bkz şener şeninin sessizliğini koruması
 bkz ali babacanın kurultaya fezleke verdiği iddası
