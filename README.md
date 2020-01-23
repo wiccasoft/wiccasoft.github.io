@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+reset
+https://www.youtube.com/watch?v=ynFYqvnxZxY
 https://www.youtube.com/watch?v=9L7mZH2u3Qc
 bkz abdullah avcının karius u karantinaya alması
 https://www.youtube.com/watch?v=DWrFAQBQSeY 
