@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz ali babacanın ihraç edilen mhpliler için fezleke sunması
 bkz ali babacanın ikili görüşmeler olumlu geçti demesi
 bkz ali babacanın ben sizin babanızın ben ne dersem o olur demesi
 bkz ekrem imamaoğlanın acil durum ekibini devreye sokması
