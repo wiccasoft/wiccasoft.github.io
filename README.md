@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+https://www.youtube.com/watch?v=OUAuZnpoZ58
 bkz şapka takmadığı için gangdongun bombalanması
 bkz fathi rterim efso soyunma odası konuşması
 https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğ mu
