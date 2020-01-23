@@ -4,7 +4,6 @@
 bkz kşm kardashian nın akp kötü de diğerleri iyi mi sanki tweeti
 bkz esra balamirin akp nin de hatalır vardır ama iyi yanında bakalım tweeti
 bkz tuğçe kazazın niye beni siklemiyosunuz tweeti
-https://www.uludagsozluk.com/e/42747533/ ben seni var ya yirim namıssız
 bkz cicişlerin fenerin hiç mi hatası yok tweeti
 https://www.uludagsozluk.com/k/gavs-hazretlerinin-kuca%C4%9F%C4%B1na-oturup-sakal%C4%B1n%C4%B1-sevmek/&w=gd oyşş
 https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kazaz-%C4%B1n-akp-nin-hi%C3%A7-hatas%C4%B1-yok-mu-tweeti/
