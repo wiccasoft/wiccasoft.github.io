@@ -7,9 +7,6 @@ bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
 https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerbahve vs galatsaray
-bkz 23 ocak 2020 fenerbahçe galatsaray maçında verilmeyen penaltı
-bkz 23 ocak 2020 kakanın levent gök e levent göt demesi 
-bkz tahkim kurulunun fenerbahçe var kararlarına uyacak açıklaması
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
