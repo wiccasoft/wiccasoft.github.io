@@ -1,6 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+https://www.youtube.com/watch?v=AFx8ElwfMBQ anlatma kankağü heyecenığ gitti
+https://www.youtube.com/watch?v=G_qG-f2EBb0bkz yaşanmadan anlatılmayacak futbolcular
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz anlatılmaz yaşanır
 bkz 23 ocak 2020 fenerlilerin tahkim kararıyla göt olması
 bkz 23 ocak 2020 tahkim kararlarının ultrageyselileri it gibi dağıtması
