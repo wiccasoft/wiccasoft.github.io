@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-bkz what can i do sometimes
+bkz kuşların yine kafa sikmesi
 https://www.youtube.com/watch?v=OFeJCJziVCk zuahahhaha
 bkz 24 ocak 2020 galtasarayın tahkim kurulu üyelerine döşeyeceği boru
 bkz ablan galatalı bebeğimin inciliccesi
