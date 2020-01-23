@@ -1,48 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
-<!--
-bkz kakanın attığı mail
-bkz kaka yaparken beklenen mailin gelmesi
-bkz kakarken odaya sevişme girmesi
-bkz kakanın bomba gibi geldiği gerçeği
-bkz sevişirken kakanın gelmesi
-bkz tuğçe kazaz hayranı filistinli genç
-bkz ali koçun kakayı alalım önerisi
-bkz kk nın tuğçe kazazın tweetinni retweetlemesi
-bkz tuğçe kazazın hırsıızn suçu varda katilin yok mu tweeti
-bkz tuğçe kazazın akp ananızı mı sikti tweeti
-bkz ali koçun vedat millöçü lost adasına yollaması
-bkz rte nin camı tıklayıp nabıyon kankağ 31 mi çekiyon demesi
-https://www.uludagsozluk.com/k/merkez-bankas%C4%B1-fed-kadar-ba%C4%9F%C4%B1ms%C4%B1zd%C4%B1r/ zuahhahahaha
-https://www.uludagsozluk.com/k/sevi%C5%9Firken-odaya-kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-girmesi/&w=bg
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCnden-%C3%B6l%C3%BCrken-illumunatiye-s%C3%B6vmek/ zuhahaha
-bkz pasifikten ada satın alıp zombilerin saldırmasını beklemek
-bkz bu bi virüs olabilir mi lütfen olsun çünkü
-bkz tuğçe kazazın corona virüsünü akp mi yaydı tweeti
-https://www.uludagsozluk.com/k/istanbul-t%C3%BCrkiyenin-g%C3%B6t-deli%C4%9Fi/
-bkz kim kardashian nın akp kötü de diğerleri iyi mi sanki tweeti
-bkz esra balamirin akp nin de hatalır vardır ama iyi yanında bakalım tweeti
-bkz tuğçe kazazın niye beni siklemiyosunuz tweeti
-bkz cicişlerin fenerin hiç mi hatası yok tweeti
-https://www.uludagsozluk.com/k/gavs-hazretlerinin-kuca%C4%9F%C4%B1na-oturup-sakal%C4%B1n%C4%B1-sevmek/&w=gd oyşş
-https://www.uludagsozluk.com/k/tu%C4%9F%C3%A7e-kazaz-%C4%B1n-akp-nin-hi%C3%A7-hatas%C4%B1-yok-mu-tweeti/
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenerbahce vs galatasaray
-https://www.youtube.com/watch?v=AFx8ElwfMBQ anlatma kankağ heyecanığ gitti
-https://www.youtube.com/watch?v=G_qG-f2EBb0bkz yaşanmadan anlatılmayacak futbolcular
-https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz anlatılmaz yaşanır
-bkz 23 ocak 2020 tahkim kararlarının ultrageyselileri it gibi dağıtması
-https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
-https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
-bkz demirtaşın istanbul kanalı güzel bir adım açıklaması
-bkz vedat mürüçün asker selamı çakmaması
-bkz cengiz ünderin gol sonrası asker selamı çakması
-bkz vedat mürüçün pfdk ya sevk edilmesi
-bkz ediz hunun tesladan patent çalması
-bkz kk nın fatih portakala portakal kafalı demesi
-bkz hasan mezarcının rükuyu 3 e indirmesi
-bkz karius un fenerlilere ananızı laciverde boyarım demesi
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-aday%C4%B1-olmak-gibi-bir-hedefim-yok/
-https://www.uludagsozluk.com/k/kk-n%C4%B1n-levent-g%C3%B6k-e-say%C4%B1n-levent-g%C3%B6t-demesi/&w=bg -->
+
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
