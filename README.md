@@ -7,7 +7,8 @@
 
 <!--
 bkz abdullah avcının karius u karantinaya alması
-https://www.youtube.com/watch?v=DWrFAQBQSeY ya ne oluyir demeyecen ne olacağım diyeceksin
+https://www.youtube.com/watch?v=DWrFAQBQSeY 
+ya ne oluyir demeyecesin ne olacağım diyecesin sen istiyor antivus alacak kaspersky
 https://eksisozluk.com/entry/100922375 zuahahahaha
 https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
