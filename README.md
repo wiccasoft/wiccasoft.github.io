@@ -1,7 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-bkz rte nin camı tıklayıp nabıyon 31 mi çekiyon demesi
+bkz rte nin camı tıklayıp nabıyon kankağ 31 mi çekiyon demesi
 bkz kakarken odaya sevişme girmesi
 bkz kakanın bomba gibi geldiği gerçeği
 bkz sevişirken kakanın gelmesi
