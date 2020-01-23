@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=bg bkz iğrençsiniz ibneler 
-https://www.uludagsozluk.com/k/erkeklerin-gay-gibi-giyinmesi/ bkz erkeklerin az orospu olması
+https://www.uludagsozluk.com/k/erkeklerin-gay-gibi-giyinmesi/ bkz erkeklerin orospu olması
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
