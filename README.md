@@ -10,22 +10,14 @@ bkz nihat özdemirin ablan galatsaraylı bebeğim paylaşımı
 https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ablana galatsaraylı bebeğim
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/ bkz top
 https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ne diyin lan top
-bkz abdullah avcının zencilere tayt giydirmesi
-bkz tayt giyip solda mı iyi sağda mı iyi diyen erkek
-bkz futbolcusuna tayt giydiren erkek
-bkz abdullah avcının kariusa tayt giydirmesi
-bkz küçük pipili ulucu oğlanları delirtmek için tayt giyen erkek
-bkz tayt giyip solda iyi mi diyen erkek
-bkz tayt giyen forvet görmek istemiyoruz kampanyası
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd vurduruyordur
-bkz türklere football manager app atıp köşeyi dönmek
-https://www.youtube.com/watch?v=AFx8ElwfMBQ 
+https://www.youtube.com/watch?v=AFx8ElwfMBQ zuhahahaahahahah
 bkz 23 ocak 2020 ali koçun parası neyse kakayı alalım önerisi
 bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
 https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerbahve vs galatsaray
-bkz 203 ocak 2020 türkiyenin boş yapmaya devam etmesi
+bkz 23 ocak 2020 türkiyenin boş yapmaya devam etmesi
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
