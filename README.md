@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+https://www.youtube.com/watch?v=tT4TjDj12uI ata cücünün emrettiği maç
 bkz ali koçun mustafa kamal ata cücü de fenerliydi demesi
 bkz ali koçun soyunma odasında fatih terimi azarlaması
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz fatih terim ali koç
