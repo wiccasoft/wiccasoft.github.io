@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz tuğçe kazazın niye beni siklemiyosunuz tweeti
 https://www.uludagsozluk.com/e/42747533/ ben seni var ya yirim namıssız
 bkz cicişlerin fenerin hiç mi hatası yok tweeti
 https://www.uludagsozluk.com/k/gavs-hazretlerinin-kuca%C4%9F%C4%B1na-oturup-sakal%C4%B1n%C4%B1-sevmek/&w=gd oyşş
