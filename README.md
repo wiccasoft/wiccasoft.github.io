@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-bkz ali koçun kakayı alalım önerisi
+bkz ali koçun parası neyse kakayı alalım önerisi
 bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
 https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
