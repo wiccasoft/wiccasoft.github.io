@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğ mu
 https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu/&w=bg bkz gaffar okan suikastı
 https://www.uludagsozluk.com/k/ahlaki-%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BCn-sebepleri/&w=bg bkz fatih terim
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
