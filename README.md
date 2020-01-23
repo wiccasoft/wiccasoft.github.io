@@ -5,6 +5,7 @@ bkz ediz hunun oğlunun tesladan patent çalması
 bkz kk nın fatih portakala portakal kafalı demesi
 bkz hasan mezarcının rükuyu 3 e indirmesi
 bkz karius un fenerlilere ananızı laciverde boyarım demesi
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-aday%C4%B1-olmak-gibi-bir-hedefim-yok/
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-levent-g%C3%B6k-e-say%C4%B1n-levent-g%C3%B6t-demesi/&w=bg -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
