@@ -5,6 +5,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42748547/ bkz ablan seninle aynı takımdan bebeğim
+https://www.uludagsozluk.com/k/2500-y%C4%B1ll%C4%B1k-mumyaya-tecav%C3%BCz-eden-adam/ zuhaahahha
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
