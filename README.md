@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+https://www.uludagsozluk.com/k/tutunamayanlar-dizisi/&w=bg bkz siki tutuanlar (dizi)
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenerbahce vs galatasaray
 https://www.uludagsozluk.com/k/galatasaray-vs-fenerbah%C3%A7e/&w=bg 
 https://www.uludagsozluk.com/k/diziyle-filmle-kafay%C4%B1-bozmu%C5%9F-bo%C5%9F-insan/ bkz vedat mürüç
