@@ -8,7 +8,9 @@ https://www.uludagsozluk.com/e/42749412/ bkz this day in history
 https://www.uludagsozluk.com/e/42749735/ eywalla reis ocaktakilere selam söyle
 https://www.uludagsozluk.com/e/42749733/ söz ver unutmayacağım de ayol
 https://www.uludagsozluk.com/e/42749439/ ben de seni unutmadım küçük adam
-https://www.uludagsozluk.com/e/42749640/ eywalla bro mustafa ata cücü askerleriyiz -->
+https://www.uludagsozluk.com/e/42749640/ eywalla bro mustafa ata cücü askerleriyiz
+bkz uğurlar ola uğurcum unurmadık seni öptüm kib bye
+-->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
