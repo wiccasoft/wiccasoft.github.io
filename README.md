@@ -7,6 +7,7 @@
 
 <!-- 
 bkz kuşların yine kafa sikmesi
+https://www.uludagsozluk.com/k/16-mart-2013-g%C3%B6khan-zan-%C4%B1n-cezas%C4%B1n%C4%B1n-ertelenmesi/&w=bg
 https://www.youtube.com/watch?v=OFeJCJziVCk zuahahhaha
 bkz 24 ocak 2020 galtasarayın tahkim kurulu üyelerine döşeyeceği boru
 https://eksisozluk.com/23-ocak-2020-caykur-rizesporun-verilmeyen-golu--6334331?a=popular bkz fenerlilerin ağlaması
