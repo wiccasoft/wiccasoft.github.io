@@ -1,8 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
+
 <!-- 
-bkz avdullah avcının var kararları için pfdk ya gitmesi
 bkz abdullah avcının karantinaya alacağı futbolcular
+bkz avdullah avcının var kararları için pfdk ya gitmesi
 bkz macun kaplıcalının hadiseyi karantinaya alması
 https://eksisozluk.com/entry/100928131 lol
 https://eksisozluk.com/entry/66423788 lol 
