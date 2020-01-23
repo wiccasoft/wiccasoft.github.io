@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz erkan tanın fatih tazcan la aşk yaşadığı iddaları
 bkz erkan tanın la bize her yer angara dansı yapması
 bkz erkan tanın ver mehteri virüse paylaşımı
 https://www.uludagsozluk.com/k/telefon-numaras%C4%B1n%C4%B1-vermeyen-erkek/&w=bg bkz ruhsuz ve hain erkek
