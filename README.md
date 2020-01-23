@@ -8,6 +8,7 @@ bkz fatih tezcan nın analiz merkezinin washington a taşıması
 bkz erkan tanın fatih tazcan la aşk yaşadığı iddaları
 bkz erkan tanın la bize her yer angara dansı yapması
 bkz erkan tanın ver mehteri virüse paylaşımı
+https://www.uludagsozluk.com/k/a%C5%9F%C4%B1r%C4%B1-gerizekal%C4%B1-bir-neslin-g%C3%BCmb%C3%BCr-g%C3%BCmb%C3%BCr-gelmesi/&w=bg zuahhahahahahahah
 https://www.uludagsozluk.com/k/telefon-numaras%C4%B1n%C4%B1-vermeyen-erkek/&w=bg bkz ruhsuz ve hain erkek
 bkz kamalcıların virüsü yonana gibin denize dökecez demesi
 https://www.uludagsozluk.com/e/42746002/ bkz fatih tezcanın erkan tanı ingiltere kaçırma planları
