@@ -5,6 +5,7 @@
 
 <!-- 
 bkz ablan galatalı bebeğimin inciliccesi
+https://eksisozluk.com/23-ocak-2020-caykur-rizesporun-verilmeyen-golu--6334331?a=popular bkz fenerlilerin ağlaması
 https://www.uludagsozluk.com/k/steven-n-zonzi/&w=bg bkz öyle göte böyle yarrak
 https://www.uludagsozluk.com/k/sevgilisini-yedirip-i%C3%A7irip-kendi-%C3%A7ay-i%C3%A7en-insan/ bkz fatih terim
 https://www.uludagsozluk.com/k/fatih-terim-in-sicili/&w=bg bkz fenerlilileri kudurtan sicil
