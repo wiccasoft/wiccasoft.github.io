@@ -3,7 +3,7 @@
 
 <!-- 
 bkz türklere football manager gibi bir app atıp köşeyi dönmek
-https://www.youtube.com/watch?v=AFx8ElwfMBQ ok ok
+https://www.youtube.com/watch?v=AFx8ElwfMBQ 
 bkz 23 ocak 2020 ali koçun parası neyse kakayı alalım önerisi
 bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
