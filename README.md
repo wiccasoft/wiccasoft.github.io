@@ -1,6 +1,24 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
+<!--
+https://www.youtube.com/watch?v=AFx8ElwfMBQ anlatma kankağü heyecenığ gitti
+https://www.youtube.com/watch?v=G_qG-f2EBb0bkz yaşanmadan anlatılmayacak futbolcular
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz anlatılmaz yaşanır
+bkz 23 ocak 2020 fenerlilerin tahkim kararıyla göt olması
+bkz 23 ocak 2020 tahkim kararlarının ultrageyselileri it gibi dağıtması
+https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
+https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
+bkz demirtaşın istanbul kanalı güzel bir adım açıklaması
+bkz vedat mürüçün asker selamı çakmaması
+bkz cengiz ünderin gol sonrası asker selamı çakması
+bkz vedat mürüçün pfdk ya sevk edilmesi
+bkz ediz hunun tesladan patent çalması
+bkz kk nın fatih portakala portakal kafalı demesi
+bkz hasan mezarcının rükuyu 3 e indirmesi
+bkz karius un fenerlilere ananızı laciverde boyarım demesi
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-aday%C4%B1-olmak-gibi-bir-hedefim-yok/
+https://www.uludagsozluk.com/k/kk-n%C4%B1n-levent-g%C3%B6k-e-say%C4%B1n-levent-g%C3%B6t-demesi/&w=bg -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
