@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz abdullah avcının karius u karantinaya alması
 bkz resident evil loading
 bkz big pharma is my girl
 bkz abdullah avcının cengi ünderi stoper olarak alalım teklifi
