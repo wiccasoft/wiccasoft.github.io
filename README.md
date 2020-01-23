@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 <!-- 
+bkz abdullah avcının karius virus kapmasın diye instasını kapatması
 bkz macun kaplıcalının hadiseyi karantinaya alması
 https://eksisozluk.com/entry/100928131 lol
 https://eksisozluk.com/entry/66423788 lol 
