@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz türklerin ölümcül virus yayılırken futbolcu konuşması
 bkz bi gülüşü var sanırsın şampiyonlar ligi
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular 
 https://eksisozluk.com/fernando-muslera-vs-loris-karius--5801606?a=popular
