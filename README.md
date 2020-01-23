@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz nihat özdemirin ablan galatsaraylı bebeğim paylaşımı
 https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ablana galatsaraylı bebeğim
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/ bkz top
 https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ne diyin lan top
