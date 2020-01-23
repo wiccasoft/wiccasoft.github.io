@@ -1,18 +1,9 @@
 
+[![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
+
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
-<!-- 
-https://www.youtube.com/watch?v=6KxL0X9MZRA 
-https://eksisozluk.com/rusyanin-s-400-kodlarini-turkiyeye-vermemesi--5464734?p=23
-bkz xi jiping in çocuğu wuhana giden türkmenlerin kyk borcunu silmesi
-bkz siz istiyor antivirüs satın alacak kaspersky
-bkz virusun sebebinin zina ve domuz eti olması
-bkz abdullah avcının karantinaya alacağı futbolcular
-bkz avdullah avcının var kararları için pfdk ya gitmesi
-bkz macun kaplıcalının hadiseyi karantinaya alması
-https://eksisozluk.com/entry/100928131 lol
-https://eksisozluk.com/entry/66423788 lol 
--->
+
 [![Image](shadow/Screenshot_2020-01-22_19-42-25.png)]( https://www.youtube.com/watch?v=9L7mZH2u3Qc )
 
 [![Image](shadow/Screenshot_2020-01-22_13-52-17.png)]( https://www.youtube.com/watch?v=Dm6sSQ-UhJg )
