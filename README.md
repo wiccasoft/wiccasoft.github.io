@@ -1,10 +1,10 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-https://www.youtube.com/watch?v=AFx8ElwfMBQ anlatma kankağü heyecenığ gitti
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenerbahce vs galatasaray
+https://www.youtube.com/watch?v=AFx8ElwfMBQ anlatma kankağ heyecanığ gitti
 https://www.youtube.com/watch?v=G_qG-f2EBb0bkz yaşanmadan anlatılmayacak futbolcular
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz anlatılmaz yaşanır
-bkz 23 ocak 2020 fenerlilerin tahkim kararıyla göt olması
 bkz 23 ocak 2020 tahkim kararlarının ultrageyselileri it gibi dağıtması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
 https://eksisozluk.com/23-ocak-2020-pfdknin-vedat-muriqi-karari--6334042?a=popular
