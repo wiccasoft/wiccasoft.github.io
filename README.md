@@ -5,38 +5,6 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
-<!-- 
-https://www.youtube.com/watch?v=OUAuZnpoZ58
-bkz şapka takmadığı için gangdongun bombalanması
-bkz fathi rterim efso soyunma odası konuşması
-https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğ mu
-https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu/&w=bg bkz gaffar okan suikastı
-https://www.uludagsozluk.com/k/ahlaki-%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BCn-sebepleri/&w=bg bkz fatih terim
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
-bkz 24 ocak 2020 adanademirsporun döşeyeceği boru
-türk futbolunu türk hakemlerine emanet ediniz - mustafa kamal ata cücü
-bkz mustafa kamal ata cücünün var hatalarını türk hakemlerine yüklemek yersizdir sözü
-https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa kamal ata cücünün emrettiği maç
-bkz ali koçun mustafa kamal ata cücü de fenerliydi demesi
-bkz ali koçun soyunma odasında fatih terimi azarlaması
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz fatih terim ali koç
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz ali koçun fatihe sicili bozu demesi
-bkz 23 ocak 2030 fatih terimini b asın toplantısı
-bkz adalet bakannının fatih terim le fatih portakalın sicil kaydı temiz açıklaması
-bkz fatih terimini fenerlilere götelek demesi
-bkz fathi terimin  çaykur rizesporla bitmemiş işimiz var demesi
-https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu-ve-ali-gaffar-okkan/&w=bg bkz deliyürek bumerang cehennemi
-bkz 23 ocak 2020 caner erkinin fatih terime attığı ananı laciverde boyarım bakışı
-https://www.uludagsozluk.com/k/16-mart-2013-g%C3%B6khan-zan-%C4%B1n-cezas%C4%B1n%C4%B1n-ertelenmesi/&w=bg
-https://www.youtube.com/watch?v=OFeJCJziVCk zuahahhaha
-bkz 24 ocak 2020 galtasarayın tahkim kurulu üyelerine döşeyeceği boru
-https://eksisozluk.com/23-ocak-2020-caykur-rizesporun-verilmeyen-golu--6334331?a=popular bkz fenerlilerin ağlaması
-https://www.uludagsozluk.com/k/steven-n-zonzi/&w=bg bkz öyle göte böyle yarrak
-https://www.uludagsozluk.com/k/sevgilisini-yedirip-i%C3%A7irip-kendi-%C3%A7ay-i%C3%A7en-insan/ bkz fatih terim
-https://www.uludagsozluk.com/k/fatih-terim-in-sicili/&w=bg bkz fenerlilileri kudurtan sicil
-https://www.uludagsozluk.com/e/42748547/ bkz ablan seninle aynı takımdan bebeğim
-https://www.uludagsozluk.com/k/2500-y%C4%B1ll%C4%B1k-mumyaya-tecav%C3%BCz-eden-adam/ a bu benim
--->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
