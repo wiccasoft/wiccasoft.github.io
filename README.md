@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz fenerbahve vs galatsaray
-bkz 23 ocak 2020 fenerbahçe galatsaray maçı
+bkz 23 ocak 2020 fenerbahçe galatsaray maçında verilmeyen penaltı
 bkz 23 ocak 2020 kakanın levent gök e levent göt demesi 
 bkz tahkim kurulunun fenerbahçe var kararlarına uyacak açıklaması
 -->
