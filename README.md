@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz ali koçun kakayı alalım önerisi
 bkz kk nın tuğçe kazazın tweetinni retweetlemesi
 bkz tuğçe kazazın hırsıızn suçu varda katilin yok mu tweeti
 bkz tuğçe kazazın akp ananızı mı sikti tweeti
