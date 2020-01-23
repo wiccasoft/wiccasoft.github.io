@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-bkz bi gülüşü var sanırsın şampiyonlar ligi
+https://eksisozluk.com/hasan-mezarcinin-namazi-kaldirmasi--6333663?a=popular
 https://eksisozluk.com/adi-orkun-olanlarin-ortak-ozellikleri--6333898?a=popular
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular 
 https://eksisozluk.com/fernando-muslera-vs-loris-karius--5801606?a=popular
