@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-bkz türklere football manager gibi bir app atalım önerisi
+bkz türklere football manager gibi bir app atıp köşeyi dönmek
 https://www.youtube.com/watch?v=AFx8ElwfMBQ ok ok
 bkz 23 ocak 2020 ali koçun parası neyse kakayı alalım önerisi
 bkz 23 ocak 2020 kakanın tahkim kararları beni bağlamaz açıklaması
