@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+https://eksisozluk.com/melih-gokcek-sonrasi-hizmetlerin-azalmasi--6333844?a=popular
 https://eksisozluk.com/hasan-mezarcinin-namazi-kaldirmasi--6333663?a=popular
 https://eksisozluk.com/adi-orkun-olanlarin-ortak-ozellikleri--6333898?a=popular
 https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular 
