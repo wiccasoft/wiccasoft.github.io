@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz celal şengörün artık teke teke çıkmaycağım açıklaması
 bkz doğu perinçekin il başkanlık binalarını ilaşşatması
 bkz doğu perinçekin ali babacan türkiyenin kurtuluşudur demesi
 bkz ali babacanın benden babacan adam mı bulacaksınız tweeti
