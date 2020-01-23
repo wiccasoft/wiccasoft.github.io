@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+https://www.youtube.com/watch?v=6YUw7_q33Zs ne diyin lan top
 bkz abdullah avcının zencilere tayt giydirmesi
 bkz tayt giyip solda mı iyi sağda mı iyi diyen erkek
 bkz futbolcusuna tayt giydiren erkek
