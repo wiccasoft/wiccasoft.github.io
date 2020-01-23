@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz ablan galatalı bebeğimin inciliccesi
 https://www.uludagsozluk.com/k/sevgilisini-yedirip-i%C3%A7irip-kendi-%C3%A7ay-i%C3%A7en-insan/ bkz fatih terim
 https://www.uludagsozluk.com/k/fatih-terim-in-sicili/&w=bg bkz fenerlilileri kudurtan sicil
 https://www.uludagsozluk.com/e/42748547/ bkz ablan seninle aynı takımdan bebeğim
