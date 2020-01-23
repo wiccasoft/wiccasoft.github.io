@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz futbolcusuna tayt giydiren erkek
 bkz abdullah avcının kariusa tayt giydirmesi
 bkz küçük pipili ulucu oğlanları delirtmek için tayt giyen erkek
 bkz tayt giyip solda iyi mi diyen erkek
