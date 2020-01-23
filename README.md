@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
+bkz fathi terimin nerde kalmıştık demesi
 https://www.uludagsozluk.com/k/u%C4%9Fur-mumcu-ve-ali-gaffar-okkan/&w=bg bkz deliyürek bumerang cehennemi
 bkz 23 ocak 2020 caner erkinin fatih terime attığı ananı laciverde boyarım bakışı
 https://www.uludagsozluk.com/k/16-mart-2013-g%C3%B6khan-zan-%C4%B1n-cezas%C4%B1n%C4%B1n-ertelenmesi/&w=bg
