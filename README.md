@@ -1,7 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-bkz vecat mürüçün asker selamı çakmaması
+bkz demirtaşın istanbul kanalı güzel bir adım açıklaması
+bkz vedat mürüçün asker selamı çakmaması
 bkz cengiz ünderin gol sonrası asker selamı çakması
 bkz vedat mürüçün pfdk ya sevk edilmesi
 bkz ediz hunun tesladan patent çalması
