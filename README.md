@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!-- 
-bkz ulucu oğlanları delirtmek için tayt giyen erkek
+bkz jüçük pipili ulucu oğlanları delirtmek için tayt giyen erkek
 bkz tayt giyip solda iyi mi diyen erkek
 bkz tayt giyen forvet görmek istemiyoruz kampanyası
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd vurduruyordur
