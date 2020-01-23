@@ -6,9 +6,9 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz resident evil loading
 bkz big pharma is my girl
 bkz abdullah avcının cengi ünderi stoper olarak alalım teklifi
-bkz resident evil loading
 bkz cengiz ünderin gol sonrası enes abiye asker selamı çakması
 https://eksisozluk.com/entry/100922375 zuahahahaha
 https://eksisozluk.com/tarkana-megastar-sifatini-kazandiran-ozelligi--6332740?a=popular bkz kuzu kuzu şarkısındaki dansı
