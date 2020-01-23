@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
 <!--
+bkz big pharma is my girl
 bkz abdullah avcının cengi ünderi stoper olarak alalım teklifi
 bkz resident evil loading
 bkz cengiz ünderin gol sonrası enes abiye asker selamı çakması
