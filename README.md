@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz kakarken odaya sevişme girmesi
 bkz kakanın bomba gibi geldiği gerçeği
 bkz sevişirken kakanın gelmesi
 bkz tuğçe kazaz hayranı filistinli genç
