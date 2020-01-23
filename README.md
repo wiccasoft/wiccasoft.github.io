@@ -3,9 +3,6 @@
 <!--
 bkz vecat mürüçün asker selamı çakmaması
 bkz cengiz ünderin gol sonrası asker selamı çakması
-bkz vedat mürüçün üçlü çektirmesi
-bkz ali koçun vedat mürüçü yedek kulübesine kitlemesi
-bkz cengiz ünderin enes baturla dosluğumuz eskiye dayanır demesi
 bkz vedat mürüçün pfdk ya sevk edilmesi
 bkz ediz hunun tesladan patent çalması
 bkz kk nın fatih portakala portakal kafalı demesi
