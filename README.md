@@ -1,7 +1,10 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
-<!--bkz 23 ocak 2020 ekrem imamoğlanın istanbulu karantinaya alması -->
+<!--
+bkz vedat mürüçün sağlık kontrolünden geçmem demesi
+bkz 23 ocak 2020 ekrem imamoğlanın istanbulu karantinaya alması 
+-->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
