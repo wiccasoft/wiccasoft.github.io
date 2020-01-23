@@ -8,46 +8,6 @@
 
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
 
-<!--
-reset
-https://www.youtube.com/watch?v=ynFYqvnxZxY
-https://www.youtube.com/watch?v=9L7mZH2u3Qc
-bkz abdullah avcının karius u karantinaya alması
-https://www.youtube.com/watch?v=DWrFAQBQSeY 
-ya ne oluyir demeyecesin ne olacağım diyecesin sen istiyor antivus alacak kaspersky
-https://eksisozluk.com/entry/100922375 zuahahahaha
-https://www.youtube.com/watch?v=8cW8kAFbnik mezuniyet
-https://www.uludagsozluk.com/e/42743537/ zuahahaha
-bkz işe dans ederek gitmiyorsanız o işi bırakın
-https://www.youtube.com/watch?v=juESkJY2ySw bkz ekremin rte hazımsızlığı
-https://www.uludagsozluk.com/e/42744982/ zuahahahhaha
-bkz loris karius un ananızı laciverde boyarım bakışı
-https://www.uludagsozluk.com/k/cumhuriyet-in-vir%C3%BCs-haberinde-kullan%C4%B1ld%C4%B1%C4%9F%C4%B1-g%C3%B6rsel/
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-%C3%B6zg%C3%BCveni/ zuahhahahahahahah
-https://www.uludagsozluk.com/k/bebe%C4%9Fim-dedi%C4%9Fim-anda-vur-bana-ahhh/ zuhahahah
-bkz yeni işletim sistemim : xaos (kaostan düzen doğar) nasıl aşkolar iş yapar he
-https://www.uludagsozluk.com/k/i-phone-da-16gb-yetmemesi-sorunu/ xaos ile çörülecek sorun
-https://www.uludagsozluk.com/k/konu-nerelere-geldi/ bak ne anlatiyodum volkan
-bkz burak özçivinin oğlu kaan vs özcan denizin oğlu kuzey
-https://twitter.com/drsinanogan/status/972094339542372352 kadere bak
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-benzeyen-adam%C4%B1n-kebap%C3%A7%C4%B1-ziyareti/&w=bg tey tey
-https://www.uludagsozluk.com/k/caner-erkin/&w=bg nerden nereye
-https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-o%C4%9Flu-kuzey-deniz/ nerden nereye 
-https://www.uludagsozluk.com/k/y%C4%B1ld%C4%B1z-tilbe-nin-yeni-imaj%C4%B1/&w=gd nerden nereye
-https://www.youtube.com/watch?v=DWrFAQBQSeY nerden nereye
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel
-https://www.uludagsozluk.com/e/42743624/ zuahhaha kayınço delirdi
-https://www.youtube.com/watch?v=JdhJq-53J-w çomar avı
-https://www.uludagsozluk.com/e/42743072/ zuahhahahahahahhaha
-https://www.uludagsozluk.com/e/42743556/ acınası tipler evet
-https://www.uludagsozluk.com/e/42743559/ semiha yengeni gönderim yazlığa geliyorum kankağ
-bkz fatih portakalın bitinin kanlanması
-https://www.uludagsozluk.com/k/benimle-seks-yapmadan-%C3%B6leceksin/
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-fakir-insan%C4%B1n-4-dairesi-var/ asdasdas
-https://www.uludagsozluk.com/k/i%C5%9Fe-dans-ederek-gitmiyorsan%C4%B1z-o-i%C5%9Fi-b%C4%B1rak%C4%B1n/
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ 
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1-kutsal-olarak-g%C3%B6ren-meri%C3%A7ler/ a bu benim -->
-
 [![Image](shadow/Screenshot_2020-01-22_01-01-43.png)]( https://www.youtube.com/watch?v=rcOwvZ26KFQ )
 
 [![Image](shadow/Screenshot_2020-01-22_00-03-39.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
