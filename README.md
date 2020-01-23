@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
 <!--
+bkz tuğçe kazazın attığı hırsızın hiç mi suçu yok tweeti
 bkz kakanın fenerbahçe nin tweetini retweetlemesi
 bkz ali babacanın attığı ben sizin babanızım tweeti
 bkz burhan kuzunun attığı imamaoğlu kendini ne sanıyor tweeti
