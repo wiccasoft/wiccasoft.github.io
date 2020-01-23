@@ -1,7 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
-bkz ali koçun vedart millöçü lost adasına yollaması
+bkz ali koçun vedat millöçü lost adasına yollaması
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCnden-%C3%B6l%C3%BCrken-illumunatiye-s%C3%B6vmek/ zuhahaha
 bkz pasifikten ada satın alıp zombilerin saldırmasını beklemek
 bkz bu bi virüs olabilir mi lütfen olsun çünkü
