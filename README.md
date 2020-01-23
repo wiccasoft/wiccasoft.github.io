@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765 bkz anlatılmaz yaşanır
 bkz 23 ocak 2020 fenerlilerin tahkim kararıyla göt olması
 bkz 23 ocak 2020 tahkim kararlarının ultrageyselileri it gibi dağıtması
 https://eksisozluk.com/23-ocak-2020-tahkimin-fenerbahce-karari--6334009?a=popular
