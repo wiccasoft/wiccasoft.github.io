@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
 <!--
-https://www.uludagsozluk.com/e/42749412/ unutmadım yiğidim 
+https://www.uludagsozluk.com/e/42749412/ bkz this day in history
 https://www.uludagsozluk.com/e/42749735/ eywalla reis ocaktakilere selam söyle
 https://www.uludagsozluk.com/e/42749733/ söz ver unutmayacağız de ayol
 https://www.uludagsozluk.com/e/42749439/ ben de seni unutmadım küçük adam
