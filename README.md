@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
-<!-
+<!--
+bkz pasifikten ada satın alıp zombilerin saldırmasını beklemek
 bkz bu bi virüs olabilir mi lütfen olsun çünkü
 bkz tuğçe kazazın corona virüsünü akp mi yaydı tweeti
 https://www.uludagsozluk.com/k/istanbul-t%C3%BCrkiyenin-g%C3%B6t-deli%C4%9Fi/
