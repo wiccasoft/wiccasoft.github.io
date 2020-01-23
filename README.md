@@ -7,7 +7,7 @@
 
 <!-- 
 türk futbolunu türk hakemlerine emanet ediniz - mustafa kamal ata cücü
-bkz mustafa kamal ata cücünün var hatalarını türk hakemlerine yüklemek yersizdir açıklaması
+bkz mustafa kamal ata cücünün var hatalarını türk hakemlerine yüklemek yersizdir sözü
 https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa kamal ata cücünün emrettiği maç
 bkz ali koçun mustafa kamal ata cücü de fenerliydi demesi
 bkz ali koçun soyunma odasında fatih terimi azarlaması
