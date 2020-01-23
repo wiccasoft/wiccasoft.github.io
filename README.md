@@ -3,7 +3,10 @@
 
 <!-- 
 bkz hasan mezarcı wuhanı karantinaya alması
-bkz fernanado muslera vs loris karius vs yıldız tilbe vs pezevenkler-->
+bkz fernanado muslera vs loris karius vs yıldız tilbe vs pezevenkler
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765?a=popular 
+bkz bi gülüşü var sanırsın şampiyonlar ligi
+-->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
