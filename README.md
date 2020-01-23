@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-22_21-53-57.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 <!--
+bkz esra balamirin akp nin de hatalır vardır ama iyi yanında bakalım tweeti
 bkz tuğçe kazazın niye beni siklemiyosunuz tweeti
 https://www.uludagsozluk.com/e/42747533/ ben seni var ya yirim namıssız
 bkz cicişlerin fenerin hiç mi hatası yok tweeti
