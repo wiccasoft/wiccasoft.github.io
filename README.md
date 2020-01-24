@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz türklerin internetin virüsleri olduğu gerçeği
 bkz uğurum uğurlar ola yiğidim unurmadık ayol seni
 bkz mehmet ali erbile seni özledim beee diye entry giren ergen
 bkz erkekler neden ali gaffar okan başlığına entry giymiyor diyen deliyürek izleyen kız
