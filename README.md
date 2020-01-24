@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz erkekler neden tayt giyen erkeğe entry fgirmiyor sorunsalı
 bkz gaffar okan vs uğur mumcu
 bkz tayt giyip sağa yatıran erkek vs sola yatıran erkek
 https://www.youtube.com/watch?v=eX4f_uvc4PM bkz imparatorun oynadığı reklam
