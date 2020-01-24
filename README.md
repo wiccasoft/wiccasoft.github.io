@@ -1,5 +1,5 @@
 
-[![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
+[![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
 
 <!-- 
 https://www.uludagsozluk.com/e/42743537/ zuhahahah
