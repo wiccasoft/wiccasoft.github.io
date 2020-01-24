@@ -8,6 +8,7 @@ bkz fatih terim ve arda turanın barışması
 bkz mustafa cengiz'in terim'e sayın antrenör demesi
 bkz buralar karışır beyler vaziyet alın
 bkz imparatorun ali sami yene girişi
+bkz ali koçun imparatoru kıskanması
 bkz ali koçun arda turanın sicili bozuk demesi
 bkzx arda turanın emre morun yürüdüğü karıya yürümesi
 https://www.uludagsozluk.com/k/mustafa-cengiz-in-terim-e-say%C4%B1n-antren%C3%B6r-demesi/ 
