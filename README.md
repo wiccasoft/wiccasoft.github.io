@@ -3,6 +3,7 @@
 
 <!--
 bkz ramosu 3 kelimeyle anlatamayan nonoş
+bkz ekşideki şişman yağlı kafalı nonoşların güldürmesi
 bkz sevdiği futbolcuya dokunamayıp entry giren ezik
 bkz irreversible da götünü parmaklayan tiplerin olduğu garip yer
 bkz nonoşların ölene kadar erkeklere entry girecekleri gerçeği
