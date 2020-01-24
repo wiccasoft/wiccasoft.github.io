@@ -4,6 +4,7 @@
 
 <!--
 bkz nonoşların eğlence kaynağım olması
+bkz irreversible da götünü parmaklayan tiplerin güldürmesi.
 https://www.uludagsozluk.com/e/42752962/ bkz hayallerde yaşıyor bazı nonoşlar
 https://www.uludagsozluk.com/e/42752950/ bkz güldüren bi nonoş
 https://www.uludagsozluk.com/e/30500045/ bkz güldüren nonoşlar
