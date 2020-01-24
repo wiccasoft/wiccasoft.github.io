@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz deliyürek bumerang cehennemi yusuf
 bkz uğur mumcu nun bomba gibi dönmesi gaffar okan cinayetinin aydınlatması
 bkz türkerin beni fatih terim sanması
 bkz türklerin internetin virüsleri olduğu gerçeği
