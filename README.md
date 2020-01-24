@@ -3,15 +3,10 @@
 
 <!-- 
 bkz tan vakti ilk buluşulan erkeğin erkan tan çıkması
-bkz erkan tanı 3 kelime ile anlatamayan nonoş
-bkz kamalcıların nonoş olma sebepleri
 bkz nonoşların zeka seviyesi
 bkz fatih portakalı 5 kelime ile anlat 
 bkz fatih portakal vs erkan tan
-bkz nonoşların erkan tanın verdiği mehter altında ezilmesi
-bkz Gün Ay Yıl vs traveler of secret moments
 bkz traveler of secret moments ın bilgisayarındaki erkek arşivi
-bkz traveler of secret moments ın attığı olgun erkek resimlerini kapıyoruz kızlar
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ ay hoşt ulan 
 https://www.youtube.com/watch?v=G_qG-f2EBb0 ay 3 kelime yetmez ayol
 bkz 3 kelimelik erkekleri hayatımıza sokmuyoruz kampanyası
