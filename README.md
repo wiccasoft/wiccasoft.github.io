@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+bkz tek yıldızlı tinerciler
 bkz uğurum uğurlar ola yiğidim unurmadık ayol seni
 bkz mehmet ali erbile seni özledim beee diye entry giren ergen
 bkz uğur mumcuya seni nasıl unuturum yiğidim yazan ergen
