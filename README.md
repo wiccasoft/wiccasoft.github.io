@@ -8,28 +8,6 @@ https://www.youtube.com/watch?v=yphjF2e2Izg
 https://www.youtube.com/watch?v=2rqHCEIIjck
 https://www.youtube.com/watch?v=cvfbnKbZJNY 
 https://www.youtube.com/watch?v=HL0g0JOA-uU
-bkz ersun yanal vs fatih terim
-bkz abdullah avcıyı 3 kelimeyle anlat
-bkz hayalindeki teknik direktörü 3 kelimeyle anlat
-bkz fatih terimi kelimelere sığdır
-bkz 2500 yıllık mumyaya tecavüz eden ruhsuz ve hain erkek
-bkz erkan tan vs fatih portakal vs fatih terim
-bkz fesli bunak vs hagi vs ramos
-bkz sergey brin vs hagi vs alex
-bkz sergey brini 3 kelimeyle anlat
-bkz ramosu 3 kelimeyle anlatamayan nonoş
-bkz abdullah çatlı vs abdullah avcı vs abdullah gül
-bkz cips yerken sevdiğin futbolcuyu beş kelimeye sığdırarak anlat
-bkz 25 ocak 2020 ekşideki şişman yağlı kafalı nonoşların güldürmesi
-bkz sevdiği futbolcuya dokunamayıp entry giren ezik
-bkz irreversible da götünü parmaklayan tiplerin olduğu garip yer
-bkz nonoşların ölene kadar erkeklere entry girecekleri gerçeği
-bkz mumyaya tecavüz ediyosun bana niye etmiyosun diyen nonoş
-bkz fatih terim vs fatih portakal vs fatih sultan mehmet
-bkz 25 ocak 2020 pascal noumanın ekşicileri hala siklememesi
-bkz 25 ocak 2020 pascal nouma vs pembe kafalı nonoş
-bkz neo nun ekşcilerin futbolculara girdiği entryleri hacklemesi
-bkz fatih terime girilen 3 milyar entry hangi binada saklanıyor sorunsalı
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
 https://eksisozluk.com/5-diplomasi-olup-asgari-ucret-alan-adam--6335489?a=popular zuahahahah beşi bi yerde
 bkz 24 ocak 2020 mustafa cengiz basın toplantısı -->
