@@ -3,6 +3,7 @@
 
 <!-- 
 bkz nonoşların zeka seviyesi
+bkz nonoşların erkan tanın verdiği mehter altında ezilmesi
 bkz Gün Ay Yıl vs traveler of secret moments
 bkz traveler of secret moments ın bilgisayarındaki erkek arşivi
 bkz traveler of secret moments ın attığı olgun erkek resimlerini kapıyoruz kızlar
