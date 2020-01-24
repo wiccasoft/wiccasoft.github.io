@@ -3,7 +3,7 @@
 
 <!-- https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ bkz ali koç 
 https://www.uludagsozluk.com/k/sevmiyorum-dedikten-sonra-hala-engellemeyen-erkek/ bkz fatih terim 
-https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg ayol anlatılmaz yaşanır-->
+https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg ayol anlatılmaz yaşanır ver mehteri ayol -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
 
