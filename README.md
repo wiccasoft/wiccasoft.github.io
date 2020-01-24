@@ -3,6 +3,7 @@
 
 <!--
 bkz deliyürek bumerang cehenemi
+bkz türklerin siklenmeme nedenleri
 https://www.uludagsozluk.com/e/42749412/ bkz this day in history (Gün Ay Yıl)
 https://www.uludagsozluk.com/k/ali-gaffar-okkan/&w=bg rahat uyu yiğidim seni unuttum mu sandın şapşik
 bkz uğurlar ola uğurcum unurmadık seni öptüm kib bye
