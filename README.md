@@ -3,7 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
-bkz mustafa cengizin üj mülüyü yuro daha verek ramosu alak önerisi
+bkz mustafa cengizin üj mülyün yuro daha verek ramosu alak önerisi
 bkz abdulrahim albayrakın abdullah avcıya attığı ananı sarı kırmızıya boyarım bakışı
 bkz ekrem imamoğlanın komik yasin okuyuşu
 bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
