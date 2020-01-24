@@ -4,6 +4,7 @@
 <!--
 bkz tek yıldızlı tinerciler
 bkz quaresma vs hagi vs alex
+bkz üç kelimeyle anlatılamayacak futbolcular
 bkz ultra geyselilerin beşiktaş fan sayfasına dönerler saldırması
 bkz abdullah avcının geyselilerin kupasına süt kupası demesi
 bkz abdullah avcının kızlar ısırmasın diye karius karantinaya alması
