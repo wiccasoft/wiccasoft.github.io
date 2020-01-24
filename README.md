@@ -3,7 +3,6 @@
 
 <!--
 bkz pascal nouma vs pembe kafalı nonoş
-bkz sarı kırmızı döner reklamı ve futbol fanatikleri olan garip yer
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/e/42752077/ bkz hayallerde yaşıyor bazı ibneler
 bkz fatih portakal vs fatih terim
@@ -17,48 +16,13 @@ https://www.youtube.com/watch?v=DWrFAQBQSeY nerden nereye
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 cevabı zor sorular
 https://www.youtube.com/watch?v=2rqHCEIIjck ersunum yanalım gel be vefasız gel be insafsız
 https://www.youtube.com/watch?v=FPqoKFGkSTM ah be arda ah be yiğidim
-bkz üç kelimeyle anlatılamayacak futbolcular
-bkz ultra geyselilerin beşiktaş fan sayfasına dönerler saldırması
-bkz abdullah avcının geyselilerin kupasına süt kupası demesi
-bkz abdullah avcının kızlar ısırmasın diye karius karantinaya alması
-bkz tayt giyen erkek vs çizgili şort giyen erkek
-bkz deliyürek bumerang cehennemi yusuf
-bkz uğur mumcu nun bomba gibi dönmesi gaffar okan cinayetinin aydınlatması
-bkz türkerin beni fatih terim sanması
-bkz türklerin internetin virüsleri olduğu gerçeği
-bkz bütün sosyal medya hesaplarımı futbol fanatiği türkler yüzünden kapatmam
-bkz uğurum uğurlar ola yiğidim unurmadık ayol seni
-bkz mehmet ali erbile seni özledim beee diye entry giren ergen
-bkz erkekler neden ali gaffar okan başlığına entry giymiyor diyen deliyürek izleyen kız
-bkz uğur mumcu başlığına unutmadık seni rahat uyu koç yazmak
-bk ali gaffar okan başlığına yiğidim rahat uyu yazmk
-bkz fatih terimin arda turandan 3 santim uzunum açıklaması
-bkz erkekler neden tayt giyen erkeğe entry fgirmiyor sorunsalı
-bkz gaffar okan vs uğur mumcu
-bkz tayt giyip sağa yatıran erkek vs sola yatıran erkek
 https://www.youtube.com/watch?v=eX4f_uvc4PM bkz imparatorun oynadığı reklam
-https://www.youtube.com/watch?v=XjFh4Jtvupo bkz uluda entry giren ergen özgüveni
-https://www.youtube.com/watch?v=mct0UtijBSw buralar karışır beyler vaziyet alın
-bkz putinin ulucuların hakkında yazdığı entryleri okuması
-bkz ulucuların deep webe girmeyiz arda turanla fatih terime entry gireriz ısrarı
-https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz paşa dönerin reklam verdiği yer
-https://www.uludagsozluk.com/k/deep-web/&w=bg bkz paşa dönerin reklam verdiği yer
-https://www.youtube.com/watch?v=JSVfLljV5aM ulucuların kendilerini genç ve başarılı sanması
-https://www.uludagsozluk.com/e/42751950/ bkz güzel futbol muhabbeti paşa dönerli yerler
-https://www.youtube.com/watch?v=81SCD2mUyAU futbolun atası fenerliydi iddası
-https://www.youtube.com/watch?v=BV1RcLhMFYs goooooooooooooooooaal
 https://www.uludagsozluk.com/e/42751948/ hamsi kafalı
 https://www.youtube.com/watch?v=jdjsGMl-yWI bir buşuk
 https://www.uludagsozluk.com/e/42751858/ bkz sarı kırmızı 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 adam fenerli zaten beyler
 https://www.uludagsozluk.com/e/42743537/ zuhahahah
 https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanır
-bkz fatih terim ve arda turanın barışması
-bkz mustafa cengiz'in terim'e sayın antrenör demesi
-bkz buralar karışır beyler vaziyet alın
-bkz imparatorun ali sami yene girişi
-bkz ali koçun imparatoru kıskanması
-bkz ali koçun arda turanın sicili bozuk demesi
 bkzx arda turanın emre morun yürüdüğü karıya yürümesi
 https://www.uludagsozluk.com/k/mustafa-cengiz-in-terim-e-say%C4%B1n-antren%C3%B6r-demesi/ 
  -->
