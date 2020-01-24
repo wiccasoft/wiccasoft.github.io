@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
 
 <!-- 
-https://www.uludagsozluk.com/e/42751858/ bkz sarı kırmızı paşaaaaa döneeerrr
+https://www.uludagsozluk.com/e/42751858/ bkz sarı kırmızı 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 adam fenerli zaten beyler
 https://www.uludagsozluk.com/e/42743537/ zuhahahah
 https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanır
