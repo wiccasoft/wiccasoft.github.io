@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+https://www.youtube.com/watch?v=2rqHCEIIjck gel be vefasız gel be insafsız ayol
 https://www.youtube.com/watch?v=cvfbnKbZJNY ozan tufanı 3 kelime ile anlat ayol
 https://www.dailysabah.com/football/2019/05/28/turkish-football-fan-mentality-needs-to-change
 https://www.youtube.com/watch?v=HL0g0JOA-uU
