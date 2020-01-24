@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz fenerbahçe büyüklüğünü kelimelere sığdırabilmek
 bkz ali koçun fenerbahçe sevgisi anlatılmaz yaşanır demesi
 bkz ilk buluşmada fatih portakalı 3 kelime ile anlatan erkek
 bkz fatih portakalı kelimelere sığdırabilmek
