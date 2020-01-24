@@ -4,9 +4,6 @@
 
 <!--
 bkz ekrem imamoğlanın komik yasin okuyuşu
-bkz kaka yaparken ekrem imamoğlanın sifonu çekmesi
-bkz ekrem imamaoğlanın komik inciliccesi
-bkz ekrem imamaoğlanın iguanaya benzediği gerçeği
 bkz ekrem imamoğlanın babasının oğlunu savunması
 bkz nonoşların eğlence kaynağım olması
 bkz 94 de hoplattığım karının ulucu ibnenin annesi çıkması
