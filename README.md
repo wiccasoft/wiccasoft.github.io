@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+bkz erkan tan vs fatih portakal vs fatih terim
 bkz fesli bunak vs hagi vs ramos
 bkz sergey brin vs hagi vs alex
 bkz sergey brini 3 kelimeyle anlat
