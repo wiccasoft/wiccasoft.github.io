@@ -7,6 +7,7 @@
 https://www.youtube.com/watch?v=9UYuX-O3eFc
 bkz pascal nouma nın taylor swifte süt kupası demesi
 bkz fikret ormanın taylor swiftin kaseye süt kasesi demesi
+bkz imamaoğlanın taylor swifte süt maşşalah süt demesi
 bkz fatih terimin ortaçlıya teke tekte verdiği ayar
 bkz celal şengörün serdar ortaçla olan dostluğu
 bkz arda turanın taylor swifte yürümesi
