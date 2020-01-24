@@ -3,7 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
-bkz abdullah avcının gslilerin kupasına süt kupası demesi
+bkz abdullah avcının geyselilerin kupasına süt kupası demesi
 bkz abdullah avcının kızlar ısırmasın diye karius karantinaya alması
 bkz tayt giyen erkek vs çizgili şort giyen erkek
 bkz deliyürek bumerang cehennemi yusuf
