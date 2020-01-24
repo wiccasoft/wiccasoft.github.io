@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
 
 <!-- 
-https://www.uludagsozluk.com/e/42751950/ bkz güzel futbol muhabbeti dönen yerler
+https://www.uludagsozluk.com/e/42751950/ bkz güzel futbol muhabbeti paşa dönerli yerler
 https://www.youtube.com/watch?v=81SCD2mUyAU atatürk fenerliydi iddası
 https://www.youtube.com/watch?v=BV1RcLhMFYs goooooooooooooooooaal
 https://www.uludagsozluk.com/e/42751948/ hamsi kafalı
