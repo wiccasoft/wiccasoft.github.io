@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz celal şengörün ardayı horgörmeyin çıkışı
 bkz arda turanın taylor swifte yürümesi
 bkz kariusun nereye geldim lan ben bakışı
 bkz kariusun ananızı laviverde boyarım bakışı
