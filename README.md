@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
-bkzx ulucuların deep webe girmeyiz arda turanla fatih terime entry gireriz ısrarı
+bkz putinini ulucuların yazdığı entryleri okuması
+bkz ulucuların deep webe girmeyiz arda turanla fatih terime entry gireriz ısrarı
 https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz paşa dönerin reklam verdiği yer
 https://www.uludagsozluk.com/k/deep-web/&w=bg bkz paşa dönerin reklam verdiği yer
 https://www.youtube.com/watch?v=JSVfLljV5aM ulucuların kendilerini genç ve başarılı sanması
