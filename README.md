@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+https://www.uludagsozluk.com/e/42752962/ bkz hayallerde yaşıyor bazı nonoşlar
 https://www.uludagsozluk.com/e/42752950/ bkz güldüren bi nonoş
 https://www.uludagsozluk.com/e/30500045/ bkz güldüren nonoşlar
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-komik-ingilizcesi/&w=bg bkz güldürmüştür
