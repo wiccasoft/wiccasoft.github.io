@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
-bkz tayt giyen erkek
+bkz tayt giyip sağa yatıran erkek vs sola yatıran erkek
 https://www.youtube.com/watch?v=eX4f_uvc4PM bkz imparatorun oynadığı reklam
 https://www.youtube.com/watch?v=XjFh4Jtvupo bkz uluda entry giren ergen özgüveni
 https://www.youtube.com/watch?v=mct0UtijBSw buralar karışır beyler vaziyet alın
