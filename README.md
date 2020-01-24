@@ -1,11 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
-<!--
-bkz türklerin güldürmesi
-https://www.youtube.com/watch?v=BV1RcLhMFYs 
-bkz türklerin siklenmeme nedenleri
--->
 
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
 
