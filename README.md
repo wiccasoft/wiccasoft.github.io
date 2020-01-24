@@ -4,15 +4,9 @@
 <!--
 https://www.izlesene.com/video/tuncay-sanli-bir-baba-hindi-cimboma-bindi/8470132 zuahahhaha
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahah
-bkz türklerin futbolun gay eğlencesi olduğunu anlaması
-https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı 11
-bkz emre mor çok tatlı diyen kız
-bkz sergen yalçını 3 kelimyle anlat
-bkz sergen yalçın çok yakışıklı diyen kız
-https://www.uludagsozluk.com/k/fatih-terimin-yine-ku%C5%9Fa-sokmas%C4%B1/ hayallerde yaşıyor bazı ibneler
-https://www.youtube.com/watch?v=2rqHCEIIjck gel be vefasız gel be insafsız ayol
-https://www.youtube.com/watch?v=cvfbnKbZJNY ozan tufanı 3 kelime ile anlat ayol
-https://www.dailysabah.com/football/2019/05/28/turkish-football-fan-mentality-needs-to-change
+https://www.youtube.com/watch?v=yphjF2e2Izg 
+https://www.youtube.com/watch?v=2rqHCEIIjck
+https://www.youtube.com/watch?v=cvfbnKbZJNY 
 https://www.youtube.com/watch?v=HL0g0JOA-uU
 bkz ersun yanal vs fatih terim
 bkz abdullah avcıyı 3 kelimeyle anlat
