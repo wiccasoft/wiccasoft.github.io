@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+https://www.uludagsozluk.com/k/2500-y%C4%B1ll%C4%B1k-mumyaya-tecav%C3%BCz-eden-adam/&w=gd
 https://www.izlesene.com/video/tuncay-sanli-bir-baba-hindi-cimboma-bindi/8470132 zuahahhaha
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahah
 https://www.youtube.com/watch?v=yphjF2e2Izg 
