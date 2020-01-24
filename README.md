@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
-bkz gün ay yıl vs traveler of secret moments
+bkz Gün Ay Yıl vs traveler of secret moments
 bkz traveler of secret moments ın bilgisayarındaki erkek arşivi
 bkz traveler of secret moments ın attığı olgun erkek resimlerini kapıyoruz kızlar
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ ay hoşt ulan 
