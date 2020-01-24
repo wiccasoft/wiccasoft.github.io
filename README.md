@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz türkerin beni fatih terim sanması
 bkz türklerin internetin virüsleri olduğu gerçeği
 bkz bütün sosyal medya hesaplarımı futbol fanatiği türkler yüzünden kapatmam
 bkz uğurum uğurlar ola yiğidim unurmadık ayol seni
