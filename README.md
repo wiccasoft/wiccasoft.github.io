@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı 11
 bkz emre mor çok tatlı diyen kız
 bkz sergen yalçını 3 kelimyle anlat
 bkz sergen yalçın çok yakışıklı diyen kız
