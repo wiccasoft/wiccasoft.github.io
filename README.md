@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+https://www.dailysabah.com/football/2019/05/28/turkish-football-fan-mentality-needs-to-change
 https://www.youtube.com/watch?v=HL0g0JOA-uU
 bkz ersun yanal vs fatih terim
 bkz abdullah avcıyı 3 kelimeyle anlat
