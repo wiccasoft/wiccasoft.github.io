@@ -3,7 +3,6 @@
 
 <!-- 
 bkz 25 ocak 2020 pascal noumanın ekşicileri hala siklememesi
-bkz pascal nouma koşmuyo diyen ekşici ergen
 bkz 25 ocak 2020 pascal nouma vs pembe kafalı nonoş
 bkz neo nun ekşcilerin futbolculara girdiği entryleri hacklemesi
 bkz fatih terime girilen 3 milyar entry hangi binada saklanıyor sorunsalı
