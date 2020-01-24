@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
 <!--
-bkz ölü taklidi yapın beyler
+bkz adam ölmemiş beyler
+bkz adam zaten fenerli beyler
 bkz deliyürek bumerang cehenemi
 bkz türklerin siklenmeme nedenleri
 https://www.uludagsozluk.com/e/42749412/ bkz this day in history (Gün Ay Yıl)
