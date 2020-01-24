@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+bkz ramosu 3 kelimeyle anlatamayan nonoş
 bkz sevdiği futbolcuya dokunamayıp entry giren ezik
 bkz irreversible da götünü parmaklayan tiplerin olduğu garip yer
 bkz nonoşların ölene kadar erkeklere entry girecekleri gerçeği
