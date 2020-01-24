@@ -1,24 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
-<!-- 
-bkz kadınları aşağılayanların genelde eşcinsel olması
-bkz ilk buluşmaya mehter takımıyla gelen erkek
-bkz ilk buluşmaya fatih terimle gelen stoper erkek
-bkz ilk buluşmaya fatih tezcanla gelen erkek
-bkz ilk buluşulan erkeğin fatih portakalı 3 kelime ile anlatması
-bkz tan vakti ilk buluşulan erkeğin erkan tan çıkması
-bkz nonoşların zeka seviyesi
-bkz fatih portakalı 5 kelime ile anlat 
-bkz fatih portakal vs erkan tan
-bkz traveler of secret moments ın bilgisayarındaki erkek arşivi
-https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ ay hoşt ulan 
-https://www.youtube.com/watch?v=G_qG-f2EBb0 ay 3 kelime yetmez ayol
-bkz 3 kelimelik erkekleri hayatımıza sokmuyoruz kampanyası
-https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ bkz ali koç 
-https://www.uludagsozluk.com/k/sevmiyorum-dedikten-sonra-hala-engellemeyen-erkek/ bkz fatih terim 
-https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg ayol anlatılmaz yaşanır ver mehteri ayol -->
-
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
 
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
