@@ -4,6 +4,7 @@
 <!--
 bkz tek yıldızlı tinerciler
 bkz quaresma vs hagi vs alex
+https://www.youtube.com/watch?v=DWrFAQBQSeY nerden nereye
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 cevabı zor sorular
 https://www.youtube.com/watch?v=2rqHCEIIjck ersunum yanalım gel be vefasız gel be insafsız
 https://www.youtube.com/watch?v=FPqoKFGkSTM ah be arda ah be yiğidim
