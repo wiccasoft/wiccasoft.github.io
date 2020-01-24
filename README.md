@@ -3,13 +3,13 @@
 
 <!--
 bkz deliyürek bumerang cehenemi
+https://www.uludagsozluk.com/e/42749412/ bkz this day in history (Gün Ay Yıl)
 https://www.uludagsozluk.com/k/ali-gaffar-okkan/&w=bg rahat uyu yiğidim seni unuttum mu sandın şapşik
 bkz uğurlar ola uğurcum unurmadık seni öptüm kib bye
 bkz paşa dönerin sponsor olduuğu garip yer
 bkz paşa döner vs nusret
 bkz ölmüş adama iyi uyu öptüm falan yazan  garip tipler
 https://pasa-doner.com.tr/?utm_source=ms&utm_medium=uludagsozluk&utm_campaign=tema
-https://www.uludagsozluk.com/e/42749412/ bkz this day in history
 https://www.uludagsozluk.com/e/42749735/ eywalla reis ocaktakilere selam söyle
 https://www.uludagsozluk.com/e/42749733/ söz ver unutmayacağım de ayol
 https://www.uludagsozluk.com/e/42749439/ ben de seni unutmadım küçük adam
