@@ -2,9 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
-bkz hayalindeki teknik direktörü 3 kelimeyle anlat
-bkz abdulmecid vs abdullah avcı
 bkz abdullah avcıyı 3 kelimeyle anlat
+bkz hayalindeki teknik direktörü 3 kelimeyle anlat
 bkz fatih terimi kelimelere sığdır
 bkz 2500 yıllık mumyaya tecavüz eden ruhsuz ve hain erkek
 bkz erkan tan vs fatih portakal vs fatih terim
