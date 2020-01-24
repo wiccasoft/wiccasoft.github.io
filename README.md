@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz erkekler neden ali gaffar okan başlığına entry giymiyor diyen deliyürek izleyen kız
 bkz uğur mumcu başlığına unutmadık seni rahat uyu koç yazmak
 bk ali gaffar okan başlığına yiğidim rahat uyu yazmk
 bkz fatih terimin arda turandan 3 santim uzunum açıklaması
