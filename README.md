@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
+<!-- bkz 24 ocak 2020 mustafa cengiz basın toplantısı -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
 
