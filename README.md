@@ -6,8 +6,6 @@
 bkz fikret ormanın taylor swiftin kaseye süt kupası demesi
 bkz fatih terimin ortaçlıya teke tekte verdiği ayar
 bkz celal şengörün serdar ortaçla olan dostluğu
-bkz abdullah avcının taylor swifte süt gibi maşşallah demesi
-bkz abdullah avcının taylor swifte yürümesi
 bkz arda turanın taylor swifte yürümesi
 bkz kariusun nereye geldim lan ben bakışı
 bkz fatih terimin ramos la yarım kalmış bi işimiz var bakışı
