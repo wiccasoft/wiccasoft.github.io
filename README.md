@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
-bkz pascal naumo vs pembe kafalı nonoş
+bkz pascal nouma vs pembe kafalı nonoş
 bkz sarı kırmızı döner reklamı ve futbol fanatikleri olan garip yer
 https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/e/42752077/ bkz hayallerde yaşıyor bazı ibneler
