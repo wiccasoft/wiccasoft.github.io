@@ -17,7 +17,6 @@ bkz mustafa cengizin üj mülyün yuro daha verek ramosu alak önerisi
 bkz abdulrahim albayrakın abdullah avcıya attığı ananı sarı kırmızıya boyarım bakışı
 bkz ekrem imamoğlanın komik yasin okuyuşu
 bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
-https://www.youtube.com/watch?v=-AdnJiuDGVU karadenizlilerin güldürmesi
 -->
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
