@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=BV1RcLhMFYs bkz türklerin güldürmesi
 bkz burak özçivitin efe dansı yapması
 bkz adam ölmemiş beyler
 bkz adam zaten fenerli beyler
-bkz deliyürek bumerang cehenemi
+bkz deliyürek bumerang cehennemi
 bkz türklerin siklenmeme nedenleri
 https://www.uludagsozluk.com/e/42749412/ bkz this day in history (Gün Ay Yıl)
 https://www.uludagsozluk.com/k/ali-gaffar-okkan/&w=bg rahat uyu yiğidim seni unuttum mu sandın şapşik
