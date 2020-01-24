@@ -1,8 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
-<!-- 
-nkz nonoşların ölene kadar erkeklere entry girecekleri gerçeği
+<!--
+bkz irreversible da götünü parmaklayan tiplerin olduğu garip yer
+bkz nonoşların ölene kadar erkeklere entry girecekleri gerçeği
 bkz mumyaya tecavüz ediyosun bana niye etmiyosun diyen nonoş
 bkz fatih terim vs fatih portakal vs fatih sultan mehmet
 bkz 25 ocak 2020 pascal noumanın ekşicileri hala siklememesi
