@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz abdulrahim albyarakın abdullah avcıya attığı ananı sarı kırmızıya boyarım bakışı
 bkz ekrem imamoğlanın komik yasin okuyuşu
 bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
 https://www.youtube.com/watch?v=-AdnJiuDGVU karadenizlilerin güldürmesi
