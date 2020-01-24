@@ -4,9 +4,8 @@
 <!-- 
 bkz ilk buluşmada fatih portakalı 3 kelime ile anlatan erkek
 bkz fatih portakalı kelimelere sığdırabilmek
-bkz abc haberi 3 kelime ile anlat
 bkz tam erkan tanı 3 kelime ile anlatacakken kovulması
-bkz erkan tanın virüse ver mehteri demesi -->
+ -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
 
