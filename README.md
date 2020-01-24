@@ -3,16 +3,8 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
-bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
 bkz ekrem imamoğlanın komik yasin okuyuşu
-bkz ekrem imamoğlanın babasının oğlunu savunması
-bkz nonoşların eğlence kaynağım olması
-bkz 94 de hoplattığım karının ulucu ibnenin annesi çıkması
-bkz irreversible da götünü parmaklayan tiplerin güldürmesi.
-https://www.uludagsozluk.com/e/42752962/ bkz hayallerde yaşıyor bazı nonoşlar
-https://www.uludagsozluk.com/e/42752950/ bkz güldüren bi nonoş
-https://www.uludagsozluk.com/e/30500045/ bkz güldüren nonoşlar
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-komik-ingilizcesi/&w=bg bkz güldürmüştür
+bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
 -->
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
