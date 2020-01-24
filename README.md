@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
-https://www.uludagsozluk.com/e/42752077/ hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/e/42752077/ bkz hayallerde yaşıyor bazı ibneler
 bkz fatih portakal vs fatih terim
 https://www.youtube.com/watch?v=HL0g0JOA-uU
 bkz tek yıldızlı tinerciler
