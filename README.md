@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42743537/ zuhahahah
+https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanır
 bkz fenerbahçe büyüklüğünü kelimelere sığdırabilmek
 bkz ilk buluşmada fatih portakalı 3 kelime ile anlatan erkek
 bkz fatih portakalı kelimelere sığdırabilmek
