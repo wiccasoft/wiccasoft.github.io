@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz tayt giyen erkek vs çizgili şort giyen erkek
 bkz deliyürek bumerang cehennemi yusuf
 bkz uğur mumcu nun bomba gibi dönmesi gaffar okan cinayetinin aydınlatması
 bkz türkerin beni fatih terim sanması
