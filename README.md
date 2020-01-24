@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz kadınları aşağılayanların genelde eşcinsel olması
 bkz ilk buluşmaya mehter takımıyla gelen erkek
 bkz ilk buluşmaya fatih terimle gelen stoper erkek
 bkz ilk buluşmaya fatih tezcanla gelen erkek
