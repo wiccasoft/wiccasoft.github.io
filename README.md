@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
-https://eksisozluk.com/bir-baba-hindi--173748?p=2 
+https://www.izlesene.com/video/tuncay-sanli-bir-baba-hindi-cimboma-bindi/8470132 zuahahhaha
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahah
 bkz türklerin futbolun gay eğlencesi olduğunu anlaması
 https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı 11
