@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz bütün sosyal medya jhesaplarımı futbol fanatiği türkler yüzünden kapatmam
 bkz türklerin internetin virüsleri olduğu gerçeği
 bkz uğurum uğurlar ola yiğidim unurmadık ayol seni
 bkz mehmet ali erbile seni özledim beee diye entry giren ergen
