@@ -4,10 +4,6 @@
 <!-- 
 https://www.uludagsozluk.com/e/42743537/ zuhahahah
 https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanır
-bkz fenerbahçe büyüklüğünü kelimelere sığdırabilmek
-bkz ilk buluşmada fatih portakalı 3 kelime ile anlatan erkek
-bkz fatih portakalı kelimelere sığdırabilmek
-bkz tam erkan tanı 3 kelime ile anlatacakken kovulması
  -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
