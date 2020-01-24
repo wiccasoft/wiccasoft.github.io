@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+bkz ersun yanal vs fatih terim
 bkz abdullah avcıyı 3 kelimeyle anlat
 bkz hayalindeki teknik direktörü 3 kelimeyle anlat
 bkz fatih terimi kelimelere sığdır
