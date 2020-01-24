@@ -4,7 +4,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-komik-ingilizcesi/&w=bg bkz güldürmüştür
-https://www.uludagsozluk.com/k/annesi-%C3%B6l%C3%BCnce-salya-s%C3%BCm%C3%BCk-a%C4%9Flayan-erkekler/&w=bg bkz vurduran erkekler
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
