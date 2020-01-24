@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz uluda entry giren ergen özgüveni
 bkz putinin ulucuların hakkında yazdığı entryleri okuması
 bkz ulucuların deep webe girmeyiz arda turanla fatih terime entry gireriz ısrarı
 https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz paşa dönerin reklam verdiği yer
