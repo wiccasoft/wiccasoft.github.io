@@ -5,13 +5,10 @@
 bkz tek yıldızlı tinerciler
 bkz uğurum uğurlar ola yiğidim unurmadık ayol seni
 bkz mehmet ali erbile seni özledim beee diye entry giren ergen
-bkz uğur mumcuya seni nasıl unuturum yiğidim yazan ergen
-bkz ölülere karşındaymış gibi entry giren ergen
 bkz erkekler neden ali gaffar okan başlığına entry giymiyor diyen deliyürek izleyen kız
 bkz uğur mumcu başlığına unutmadık seni rahat uyu koç yazmak
 bk ali gaffar okan başlığına yiğidim rahat uyu yazmk
 bkz fatih terimin arda turandan 3 santim uzunum açıklaması
-bkz boyu 155 olan kız vs 154 olan kız
 bkz erkekler neden tayt giyen erkeğe entry fgirmiyor sorunsalı
 bkz gaffar okan vs uğur mumcu
 bkz tayt giyip sağa yatıran erkek vs sola yatıran erkek
