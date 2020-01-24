@@ -3,6 +3,8 @@
 
 <!-- 
 bkz nonoşların zeka seviyesi
+bkz fatih portakalı 5 kelime ile anlat 
+bkz fatih portakal vs erkan tan
 bkz nonoşların erkan tanın verdiği mehter altında ezilmesi
 bkz Gün Ay Yıl vs traveler of secret moments
 bkz traveler of secret moments ın bilgisayarındaki erkek arşivi
