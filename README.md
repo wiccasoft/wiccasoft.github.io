@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
 
 <!-- 
+https://www.uludagsozluk.com/k/deep-web/&w=bg bkz paşa dönerin reklam verdiği yer
 https://www.youtube.com/watch?v=JSVfLljV5aM ulucuların kendilerini genç ve başarılı sanması
 https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz ulucuların deep webe gelmesi
 https://www.uludagsozluk.com/e/42751950/ bkz güzel futbol muhabbeti paşa dönerli yerler
