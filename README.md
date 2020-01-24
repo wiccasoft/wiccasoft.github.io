@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=G_qG-f2EBb0 ay 3 kelime yetmez ayol
+bkz 3 kelimelik erkekleri hayatımıza sokmuyoruz kampanyası
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ bkz ali koç 
 https://www.uludagsozluk.com/k/sevmiyorum-dedikten-sonra-hala-engellemeyen-erkek/ bkz fatih terim 
 https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg ayol anlatılmaz yaşanır ver mehteri ayol -->
