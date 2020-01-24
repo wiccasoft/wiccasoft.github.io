@@ -2,8 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
 <!--
-https://www.youtube.com/watch?v=BV1RcLhMFYs bkz türklerin güldürmesi
-bkz burak özçivitin efe dansı yapması
+bkz türklerin güldürmesi
+https://www.youtube.com/watch?v=BV1RcLhMFYs 
 bkz adam ölmemiş beyler
 bkz adam zaten fenerli beyler
 bkz deliyürek bumerang cehennemi
