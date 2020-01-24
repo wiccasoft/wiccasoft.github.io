@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+https://www.reddit.com/r/rule34celebs/ hangi oç yaptı bunları
 https://www.youtube.com/watch?v=9UYuX-O3eFc
 bkz pascal nouma nın taylor swifte süt kupası demesi
 bkz fikret ormanın taylor swiftin kaseye süt kasesi demesi
