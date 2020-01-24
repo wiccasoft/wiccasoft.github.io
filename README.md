@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
 bkz ekrem imamoğlanın komik yasin okuyuşu
 bkz ekrem imamoğlanın babasının oğlunu savunması
 bkz nonoşların eğlence kaynağım olması
