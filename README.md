@@ -6,6 +6,8 @@ https://www.uludagsozluk.com/e/42743537/ zuhahahah
 https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanır
 bkz fatih terim ve arda turanın barışması
 bkz mustafa cengiz'in terim'e sayın antrenör demesi
+bkz buralar karışır beyler vaziyet alın
+https://www.uludagsozluk.com/k/mustafa-cengiz-in-terim-e-say%C4%B1n-antren%C3%B6r-demesi/ 
  -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
