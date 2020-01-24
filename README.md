@@ -3,7 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
-bkz abdullah avcının kariusu köye yollaması
+bkz abdullah avcının kızlar ısırmasın diye karius karantinaya alması
 bkz tayt giyen erkek vs çizgili şort giyen erkek
 bkz deliyürek bumerang cehennemi yusuf
 bkz uğur mumcu nun bomba gibi dönmesi gaffar okan cinayetinin aydınlatması
