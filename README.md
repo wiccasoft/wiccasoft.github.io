@@ -3,8 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
-bkz celal şengörünserdar ortaçla arasının bozulması
-bkz celal şengörün abdullah avcıyı horgörmesi
+bkz celal şengörün serdar ortaçla olan dostluğu
 bkz abdullah avcının taylor swifte süt gibi maşşallah demesi
 bkz abdullah avcının taylor swifte yürümesi
 bkz celal şengörün rejime başlaması
