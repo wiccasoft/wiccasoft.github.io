@@ -4,6 +4,7 @@
 <!--
 bkz tek yıldızlı tinerciler
 bkz quaresma vs hagi vs alex
+https://www.youtube.com/watch?v=FPqoKFGkSTM ah be arda ah be yiğidim
 bkz üç kelimeyle anlatılamayacak futbolcular
 bkz ultra geyselilerin beşiktaş fan sayfasına dönerler saldırması
 bkz abdullah avcının geyselilerin kupasına süt kupası demesi
