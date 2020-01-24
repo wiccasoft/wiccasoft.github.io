@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+bkz abdullah avcıyı 3 kelimeyle anlat
 bkz fatih terim posteriyle uyuyan nonoş
 bkz 2500 yıllık mumyaya tecavüz eden ruhsuz ve hain erkek
 bkz erkan tan vs fatih portakal vs fatih terim
