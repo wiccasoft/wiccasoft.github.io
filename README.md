@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz boyu 155 olan kız vs 154 olan kız
 bkz erkekler neden tayt giyen erkeğe entry fgirmiyor sorunsalı
 bkz gaffar okan vs uğur mumcu
 bkz tayt giyip sağa yatıran erkek vs sola yatıran erkek
