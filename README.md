@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+https://www.youtube.com/watch?v=HL0g0JOA-uU
 bkz tek yıldızlı tinerciler
 bkz quaresma vs hagi vs alex
 bkz abdullah avcı vs fatih terim
