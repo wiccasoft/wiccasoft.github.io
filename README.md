@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
-bkz pascal noumanın ekşicileri siklememesi
+bkz 25 ocak 2020 pascal noumanın ekşicileri hala siklememesi
 bkz pascal nouma koşmuyo diyen ekşici ergen
 bkz 25 ocak 2020 pascal nouma vs pembe kafalı nonoş
 bkz neo nun ekşcilerin futbolculara girdiği entryleri hacklemesi
