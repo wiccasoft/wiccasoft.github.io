@@ -4,17 +4,6 @@
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
-<!--
-https://www.uludagsozluk.com/k/2500-y%C4%B1ll%C4%B1k-mumyaya-tecav%C3%BCz-eden-adam/&w=gd
-https://www.izlesene.com/video/tuncay-sanli-bir-baba-hindi-cimboma-bindi/8470132 zuahahhaha
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahah
-https://www.youtube.com/watch?v=yphjF2e2Izg 
-https://www.youtube.com/watch?v=2rqHCEIIjck
-https://www.youtube.com/watch?v=cvfbnKbZJNY 
-https://www.youtube.com/watch?v=HL0g0JOA-uU
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
-https://eksisozluk.com/5-diplomasi-olup-asgari-ucret-alan-adam--6335489?a=popular zuahahahah beşi bi yerde
-bkz 24 ocak 2020 mustafa cengiz basın toplantısı -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
 
