@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanı
 bkz fatih terim ve arda turanın barışması
 bkz mustafa cengiz'in terim'e sayın antrenör demesi
 bkz buralar karışır beyler vaziyet alın
+bkzx arda turanın emre morun yürüdüğü karıya yürümesi
 https://www.uludagsozluk.com/k/mustafa-cengiz-in-terim-e-say%C4%B1n-antren%C3%B6r-demesi/ 
  -->
 
