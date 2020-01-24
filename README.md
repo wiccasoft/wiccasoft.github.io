@@ -2,8 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!--
+bkz sergen yalçını 3 kelimyle anlat
 bkz sergen yalçın çok yakışıklı diyen kız
-bkz ben de geyseliyim diyen kız
 https://www.uludagsozluk.com/k/fatih-terimin-yine-ku%C5%9Fa-sokmas%C4%B1/ hayallerde yaşıyor bazı ibneler
 https://www.youtube.com/watch?v=2rqHCEIIjck gel be vefasız gel be insafsız ayol
 https://www.youtube.com/watch?v=cvfbnKbZJNY ozan tufanı 3 kelime ile anlat ayol
