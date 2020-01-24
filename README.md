@@ -3,7 +3,7 @@
 
 <!--
 bkz deliyürek bumerang cehenemi
-https://www.uludagsozluk.com/k/ali-gaffar-okkan/&w=bg rahat uyu yiğidim 
+https://www.uludagsozluk.com/k/ali-gaffar-okkan/&w=bg rahat uyu yiğidim seni unuttum mu sandın şapşik
 bkz uğurlar ola uğurcum unurmadık seni öptüm kib bye
 bkz paşa dönerin sponsor olduuğu garip yer
 bkz paşa döner vs nusret
