@@ -8,12 +8,8 @@ bkz fatih terimin ortaçlıya teke tekte verdiği ayar
 bkz celal şengörün serdar ortaçla olan dostluğu
 bkz abdullah avcının taylor swifte süt gibi maşşallah demesi
 bkz abdullah avcının taylor swifte yürümesi
-bkz celal şengörün rejime başlaması
-bkz oya şengörün celal şengörü aldayyığı iddaları
-bkz celal şengörün ardayı horgörmeyin çıkışı
 bkz arda turanın taylor swifte yürümesi
 bkz kariusun nereye geldim lan ben bakışı
-bkz kariusun ananızı laviverde boyarım bakışı
 bkz fatih terimin ramos la yarım kalmış bi işimiz var bakışı
 bkz mustafa cengizin üj mülyün yuro daha verek ramosu alak önerisi
 bkz abdulrahim albayrakın abdullah avcıya attığı ananı sarı kırmızıya boyarım bakışı
