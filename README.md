@@ -4,7 +4,7 @@
 <!--
 bkz abdulmecid vs abdullah avcı
 bkz abdullah avcıyı 3 kelimeyle anlat
-bkz fatih terim posteriyle uyuyan nonoş
+bkz fatih terimi kelimelere sığdır
 bkz 2500 yıllık mumyaya tecavüz eden ruhsuz ve hain erkek
 bkz erkan tan vs fatih portakal vs fatih terim
 bkz fesli bunak vs hagi vs ramos
