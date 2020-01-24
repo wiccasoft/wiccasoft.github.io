@@ -4,7 +4,6 @@
 <!-- 
 https://www.uludagsozluk.com/e/42743537/ zuhahahah
 bkz fenerbahçe büyüklüğünü kelimelere sığdırabilmek
-bkz ali koçun fenerbahçe sevgisi anlatılmaz yaşanır demesi
 bkz ilk buluşmada fatih portakalı 3 kelime ile anlatan erkek
 bkz fatih portakalı kelimelere sığdırabilmek
 bkz tam erkan tanı 3 kelime ile anlatacakken kovulması
