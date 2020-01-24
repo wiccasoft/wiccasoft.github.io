@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ ay hoş ulan amınakodum
 https://www.youtube.com/watch?v=G_qG-f2EBb0 ay 3 kelime yetmez ayol
 bkz 3 kelimelik erkekleri hayatımıza sokmuyoruz kampanyası
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmada-s%C3%BCrekli-penisi-ile-oynayan-erkek/ bkz ali koç 
