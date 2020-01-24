@@ -8,8 +8,7 @@ bkz 25 ocak 2020 pascal nouma vs pembe kafalı nonoş
 bkz neo nun ekşcilerin futbolculara girdiği entryleri hacklemesi
 bkz fatih terime girilen 3 milyar entry hangi binada saklanıyor sorunsalı
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
-https://eksisozluk.com/5-diplomasi-olup-asgari-ucret-alan-adam--6335489?a=popular zuahahahah
-bkz 17 diploması olup fakir olan adam
+https://eksisozluk.com/5-diplomasi-olup-asgari-ucret-alan-adam--6335489?a=popular zuahahahah beşi bi yerde
 bkz 24 ocak 2020 mustafa cengiz basın toplantısı -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
