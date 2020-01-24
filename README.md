@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+https://www.facebook.com/KimsinnnSennnn/posts/809207775884057/
 https://www.tutorialspoint.com/answers/Anjana/2 bkz zallın tasarımını çalmış ibneler
 https://www.youtube.com/watch?v=ZP2YtHCXM6E see you later aligator
 https://www.reddit.com/r/rule34celebs/ hangi oç yaptı bunları
