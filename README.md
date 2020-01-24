@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz pascal nouma nın taylor swifte süt kupası demesi
 bkz fikret ormanın taylor swiftin kaseye süt kupası demesi
 bkz fatih terimin ortaçlıya teke tekte verdiği ayar
 bkz celal şengörün serdar ortaçla olan dostluğu
