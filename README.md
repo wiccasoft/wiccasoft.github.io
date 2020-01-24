@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz uğur mumcu nun bomba gibi dönmesi gaffar okan cinayetinin aydınlatması
 bkz türkerin beni fatih terim sanması
 bkz türklerin internetin virüsleri olduğu gerçeği
 bkz bütün sosyal medya hesaplarımı futbol fanatiği türkler yüzünden kapatmam
