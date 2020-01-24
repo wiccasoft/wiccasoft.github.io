@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
 
 <!--
+bkz deliyürek bumerang cehenemi
 https://www.uludagsozluk.com/k/ali-gaffar-okkan/&w=bg rahat uyu yiğidim 
 bkz uğurlar ola uğurcum unurmadık seni öptüm kib bye
 bkz paşa dönerin sponsor olduuğu garip yer
