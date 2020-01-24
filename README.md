@@ -3,6 +3,7 @@
 
 <!--
 bkz tek yıldızlı tinerciler
+bkz ultra geyselilerin beşiktaş fan sayfasına dönerler saldırması
 bkz abdullah avcının geyselilerin kupasına süt kupası demesi
 bkz abdullah avcının kızlar ısırmasın diye karius karantinaya alması
 bkz tayt giyen erkek vs çizgili şort giyen erkek
