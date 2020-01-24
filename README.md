@@ -1,31 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
-<!--
-bkz pascal nouma vs pembe kafalı nonoş
-https://www.uludagsozluk.com/k/tayt-giyen-erkek/&w=gd bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/e/42752077/ bkz hayallerde yaşıyor bazı ibneler
-bkz fatih portakal vs fatih terim
-https://www.youtube.com/watch?v=HL0g0JOA-uU
-bkz tek yıldızlı tinerciler
-bkz quaresma vs hagi vs alex
-bkz abdullah avcı vs fatih terim
-https://eksisozluk.com/fatih-terim--37577?a=popular
-https://eksisozluk.com/abdullah-avci--1268510?a=popular
-https://www.youtube.com/watch?v=DWrFAQBQSeY nerden nereye
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 cevabı zor sorular
-https://www.youtube.com/watch?v=2rqHCEIIjck ersunum yanalım gel be vefasız gel be insafsız
-https://www.youtube.com/watch?v=FPqoKFGkSTM ah be arda ah be yiğidim
-https://www.youtube.com/watch?v=eX4f_uvc4PM bkz imparatorun oynadığı reklam
-https://www.uludagsozluk.com/e/42751948/ hamsi kafalı
-https://www.youtube.com/watch?v=jdjsGMl-yWI bir buşuk
-https://www.uludagsozluk.com/e/42751858/ bkz sarı kırmızı 
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 adam fenerli zaten beyler
-https://www.uludagsozluk.com/e/42743537/ zuhahahah
-https://www.youtube.com/watch?v=m_V82rMIoLA bu bir kin kuna anlatılmaz yaşanır
-bkzx arda turanın emre morun yürüdüğü karıya yürümesi
-https://www.uludagsozluk.com/k/mustafa-cengiz-in-terim-e-say%C4%B1n-antren%C3%B6r-demesi/ 
- -->
 
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
 
