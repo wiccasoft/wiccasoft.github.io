@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
 
 <!-- 
+https://www.youtube.com/watch?v=BV1RcLhMFYs goooooooooooooooooaal
 https://www.uludagsozluk.com/e/42751948/ hamsi kafalı
 https://www.youtube.com/watch?v=jdjsGMl-yWI bir buşuk
 https://www.uludagsozluk.com/e/42751858/ bkz sarı kırmızı 
