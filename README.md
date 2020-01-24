@@ -4,6 +4,7 @@
 
 <!--
 bkz nonoşların eğlence kaynağım olması
+bkz 94 de hoplattığım karının ulucu ibnenin annesi çıkması
 bkz irreversible da götünü parmaklayan tiplerin güldürmesi.
 https://www.uludagsozluk.com/e/42752962/ bkz hayallerde yaşıyor bazı nonoşlar
 https://www.uludagsozluk.com/e/42752950/ bkz güldüren bi nonoş
