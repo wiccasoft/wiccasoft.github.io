@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz mehmet ali erbile seni özledim beee diye entry giren ergen
 bkz uğur mumcuya seni nasıl unuturum yiğidim yazan ergen
 bkz ölülere karşındaymış gibi entry giren ergen
 bkz erkekler neden ali gaffar okan başlığına entry giymiyor diyen deliyürek izleyen kız
