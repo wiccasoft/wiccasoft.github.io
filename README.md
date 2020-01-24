@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz mumyayatecavüz ediyosun bana niye etmiyosun diyen nonoş
 bkz fatih terim vs fatih portakal vs fatih sultan mehmet
 bkz ramosun ekşicilere nonoş demesi
 bkz 25 ocak 2020 pascal noumanın ekşicileri hala siklememesi
