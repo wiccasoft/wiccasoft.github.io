@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
+bkz ilk buluşmaya fatih terimle gelen erkek
 bkz ilk buluşmaya fatih tezcanla gelen erkek
 bkz ilk buluşulan erkeğin fatih portakalı 3 kelime ile anlatması
 bkz tan vakti ilk buluşulan erkeğin erkan tan çıkması
