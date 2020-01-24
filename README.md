@@ -1,5 +1,5 @@
 
-[![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=m_V82rMIoLA )
+[![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
 <!-- 
 https://www.youtube.com/watch?v=ZP2YtHCXM6E bkz paşa dönerin reklam verdiği yer
