@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan
 https://www.youtube.com/watch?v=An7ylfOhlOs
 https://www.facebook.com/KimsinnnSennnn/posts/809207775884057/
 https://www.tutorialspoint.com/answers/Anjana/2 
