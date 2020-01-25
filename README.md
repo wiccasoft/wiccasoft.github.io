@@ -2,6 +2,7 @@
 
 <!--
 bkz reis diyen ergen salaklığı
+bkz ülkücülerin zeka seviyesi
 bkz reisim sen rahat uyu ben entry girerim
 bkz ölü kişiye okuyomuş gibi yazı yazmak
 bkz okunmayacağını bildiği halde entry giren ergenler
