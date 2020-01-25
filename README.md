@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz çinlilerin yeni yıla göt olarak girmesi
 bkz donanımhaberin donanınmlı başlık açan eleman araması
 bkz donanımhaber ölücüleri
 bkz donanımhaberdeki feyizli abinin açtığı başlık
