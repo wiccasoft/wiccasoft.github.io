@@ -1,3 +1,5 @@
+[![Image](shadow/SScreenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
+
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!-- https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamaoğlan  -->
