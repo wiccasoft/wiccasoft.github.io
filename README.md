@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz recep tayyip erdoğan imzası vs fatih terim imzası
 bkz 25 ocak 2020 donanıhaber de fatih terim imzalı iphone kılıfı bulmam
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 
 https://www.youtube.com/watch?v=An7ylfOhlOs
