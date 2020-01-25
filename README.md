@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
-bkz salak ergenlerin salak salak başlıklar açtığı yere sözlük demeleri güldürür evet
+bkz salak ergenlerin salak salak başlıklar açtığı yere sözlük demeleri
 bkz türklerin internet hayatı facebook twitter instagram hepsiorada forumsiteleri donanımhaber
 bkz stackoverlow haber ölücüleri
 bkz recep tayyip perdoğanın merkele attığı bakış
