@@ -4,8 +4,8 @@
 
 <!-- 
 https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamaoğlan
-bkz dilek imamoğlan çağırdığı halde pompaya gitmeyen erkek
 bkz eve çağırılan erkeğin yanına gitmeyen çomar
+bkz eve erkek çağıran çomar
 -->
 
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
