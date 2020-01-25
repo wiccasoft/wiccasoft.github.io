@@ -3,7 +3,7 @@
 <!--
 bkz kakacücü uzaylımıydı sorunsalı
 bkz kakacücünün kaka yaparken hiç fotoğrafının olmaması
-https://www.uludagsozluk.com/e/42755255/ bkz hayallerde yaşıyor bazı ibneler
+https://lloser.uludagsozluk.com/ bkz hayallerde yaşayan bi loser
 bkz kakacücü hakkında çok bilgi olmaması
 bkz uğur mumcunun leşlerle taşşak geçmesi
 bkz muhalefetin her şeye ağlaması
