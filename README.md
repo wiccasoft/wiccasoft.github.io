@@ -1,7 +1,6 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
-bkz soysuzların depremde gebermesi
 bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
 bkz çin yeni yıla girerken deprem diye zırlayan yavşak
 bkz where is the money lebowski
