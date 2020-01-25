@@ -3,7 +3,7 @@
 <!--
 bkz elazılıyıh allahın adamayık diyen adam
 bkz her ortama girdim diyen adanalı adam
-bkz sevan çinaynaın elzzığ depremi yorumu
+bkz sevan nişanyanın nişanı atması
 bkz haluk levent te adanalı fatih teridm de hani adandan adam çıkmazdı
 bkz pkk nın haluk leventi devletinni yanında diye tehdit etmesi
 bkz fetullah gülenin elazığ depremini üstlenmesi
