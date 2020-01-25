@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz mumyaya tecavüz eden adam
+bkz almanyada ailesinden 6 kişiyi öldüren adam
 bkz ilk buluşmaya alper potukla gelen erkek
 bkz en sevdiğim kullar asyalı kullar
 https://www.youtube.com/watch?v=jVEKDcDEN1w 
