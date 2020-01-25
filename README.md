@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+https://www.uludagsozluk.com/e/42754488/ reisim yiğidim
 bkz kakacününün seranat yaptığı loserlar
 bkz gaffar okanın olay yerine gelmesi
 bkz araştırmacı gastecilerin dramı
