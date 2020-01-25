@@ -1,39 +1,5 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
-<!--
-https://www.youtube.com/watch?v=FRjI-Ea6wcU
-bkz ersun yanalın mevzu fenerse gerisi teferruattır demesi
-bkz mumyaya tecavüz eden adam
-bkz almanyada ailesinden 6 kişiyi öldüren adam
-bkz ilk buluşmaya alper potukla gelen erkek
-bkz ilk buluşmada masaya iphone x koyan erkek
-bkz en sevdiğim kullar asyalı kullar
-https://www.youtube.com/watch?v=jVEKDcDEN1w 
-bkz ilk buluşmada bir babah indi kartala bindi diyen ergen
-bkz ilk buluşmada vatandaşa cart curt yok diyen ergen
-bkz ilk buluşmada elezığ merkezdenim diyen erkek
-bkz ilk buluşmada nasıl koyduk cincona diyen erkek
-bkz ilk buluşmada ersun yanalcıyım diyen erkek
-bkz ilk buluşmada recep tayyip erdoğanın korumasıyım diyen erkek
-bkz kakacücü nün sıçarken hiç fotoğrafının olmaması
-bkz ilk buluşmada her ortamın adamıyım adanalıyım diyen adam
-bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
-bkz çin yeni yıla girerken deprem diye zırlayan yavşak
-https://www.youtube.com/watch?v=c7IoBRRBiX8
-bkz elazılıyıh allahın adamayık diyen adam
-bkz her ortama girdim diyen adanalı adam
-bkz sevan nişanyanın nişanı atması
-bkz haluk levent te adanalı fatih teridm de hani adandan adam çıkmazdı
-bkz pkk nın haluk leventi devletinni yanında diye tehdit etmesi
-bkz fetullah gülenin elazığ depremini üstlenmesi
-bkz devlet bahçeli haluk levent hemşerim dir demesi
-bkz fettullah gülenin elazığ lı olduğu gerçeği
-https://www.youtube.com/watch?v=JkyiKIpJQVY
-bkz haluk levent vs emre karayel
-https://www.youtube.com/watch?v=XjFh4Jtvupo
-bkz ekrem imamaoğlanın haluk kırcıya atayız demesi
-https://www.uludagsozluk.com/e/42755584/ atayızlar hadi bunu da açıklayın 
-https://www.uludagsozluk.com/k/haluk-levent-de-adanal%C4%B1-fatih-terim-de/ bkz adamı derin derin düşündüren gerçek -->
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
 
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
