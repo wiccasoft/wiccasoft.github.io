@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz imamoğlanın leşler için erzuruma gitmesi
 bkz leşler için bile recep tayyip erdoğanı suçlamak
 bkz imamaoğlanın leşler için yasin okuması
 https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
