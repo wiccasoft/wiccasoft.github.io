@@ -12,7 +12,8 @@ https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kul
 bkz en sevdiğim kullar asyalı kullar
 bkz 25 ocak 2020 çinlilerin yeni yıla göt olarak girmesi
 bkz lut kavminin depremlerden korkması
-https://www.uludagsozluk.com/k/depremle-dalga-ge%C3%A7en-yav%C5%9Fak/ noldii rencin soldiiiiiiii
+https://www.uludagsozluk.com/k/depremle-dalga-ge%C3%A7en-yav%C5%9Fak/ 
+bkz noldii rencin soldiiiiiiii
 bkz chpli belediyelerin leşleri toplamaması
 https://space.stackexchange.com/ bkz çomarların uğramadığı başlıklar
 bkz stackoverlow haber ölücüleri
