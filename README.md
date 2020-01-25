@@ -2,7 +2,7 @@
 
 <!--
 bkz fetullah gülenin elazığ depremini üstlenmesi
-bkz devlet bahçeli de adanalı fatih terim de
+bkz devlet bahçeli haluk levent hemşerim dir demesi
 bkz fettullah gülenin elazığ lı olduğu gerçeği
 https://www.youtube.com/watch?v=JkyiKIpJQVY
 bkz haluk levent vs emre karayel
