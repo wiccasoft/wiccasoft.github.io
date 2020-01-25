@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz reis diyen ergen salaklığı
 bkz idol edindiği (bkz reis) ölen kişiyle duygusal bağ kuran kişilerin düşük zekalı olduğu gerçeği
 bkz ölen kişiye kırk yıllık ahbabıymış gibi entry giren loserlar
 bkz ölen kişilere reisim yiğidim rahat uyu yazan sosyopatik tiplerin akıl sağlığı
