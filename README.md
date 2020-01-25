@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz ölen kişiyle duygusal bağ kurmak
 https://www.uludagsozluk.com/e/42755280/ denizim gezmişim yiğidom
 https://www.uludagsozluk.com/e/42749735/ nur içinde yat reis ülküc ocakları bize emanet
 https://www.uludagsozluk.com/e/42754488/ reisim yiğidim
