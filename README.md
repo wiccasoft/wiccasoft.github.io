@@ -4,8 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
-https://www.youtube.com/watch?v=FFkBaGqXLig çaylak onayı beklerkene
-https://www.youtube.com/watch?v=jVEKDcDEN1w 
+https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onayı beklerkene
+https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
 bkz en sevdiğim kullar asyalı kullar
 bkz 25 ocak 2020 çinlilerin yeni yıla göt olarak girmesi
 bkz lut kavminin depremlerden korkması
