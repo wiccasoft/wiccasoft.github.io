@@ -1,14 +1,14 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
 bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
 bkz çin yeni yıla girerken deprem diye zırlayan yavşak
 bkz where is the money lebowski
+bkz murat belge nin belgelerle konuşması
 https://www.uludagsozluk.com/k/deprem-vergileri-nerede/ zuhaha yedik onu biz
 https://www.uludagsozluk.com/k/fikret-orman-paralar-nerede/&w=bg zuahha yedik bitti kankağğ
-bkz murat belge nin belgrlerle konuşması
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onayı beklerkene
-https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
 bkz en sevdiğim kullar asyalı kullar
 bkz 25 ocak 2020 çinlilerin yeni yıla göt olarak girmesi
 bkz lut kavminin depremlerden korkması
