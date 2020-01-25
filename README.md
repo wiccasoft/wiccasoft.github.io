@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+https://www.youtube.com/watch?v=ZP2YtHCXM6E see you later aligator
 bkz uludagsözlük.com vs donanımhaber.com
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw zuhahahaha
 bkz recep tayyip erdoğan imzası vs fatih terim imzası
