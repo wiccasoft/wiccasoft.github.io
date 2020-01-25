@@ -4,6 +4,9 @@
 
 <!-- 
 bkz hayallerde yaşıyor bazı ibneler
+https://eksisozluk.com/birini-surekli-dusunmek--5829136?a=popular
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
+bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg 
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
