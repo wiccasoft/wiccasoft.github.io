@@ -1,7 +1,6 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
-bkz kakacücü uzaylımıydı sorunsalı
 bkz kakacücünün kaka yaparken hiç fotoğrafının olmaması
 https://lloser.uludagsozluk.com/ bkz hayallerde yaşayan bi loser
 bkz kakacücü hakkında çok bilgi olmaması
