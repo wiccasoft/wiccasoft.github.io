@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz pkk nı haluk leventi tehdit etmesi
 bkz fetullah gülenin elazığ depremini üstlenmesi
 bkz devlet bahçeli haluk levent hemşerim dir demesi
 bkz fettullah gülenin elazığ lı olduğu gerçeği
