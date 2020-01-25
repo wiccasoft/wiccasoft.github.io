@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
 bkz ilk buluşmada bir babah indi kartala bindi diyen ergen
 bkz ilk buluşmada vatandaşa cart curt yok diyen ergen
 bkz ilk buluşmada elezığ merkezdenim diyen erkek
