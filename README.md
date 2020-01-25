@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
-bkz vatandaşa cart curt yok diyen ergen
+bkz ilk buluşmada vatandaşa cart curt yok diyen ergen
 bkz ilk buluşmada elezığ merkezdenim diyen erkek
 bkz ilk buluşmada nasıl koyduk cincona diyen erkek
 bkz ilk buluşmada ersun yanalcıyım diyen erkek
