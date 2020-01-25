@@ -4,6 +4,8 @@
 
 <!--
 bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/uefa-kupas%C4%B1-olmayan-b%C3%BCy%C3%BCk-tak%C4%B1m/&w=bg
+bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-tokat-atan-%C3%A7ocuk/
 bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/birini-surekli-dusunmek--5829136?a=popular
