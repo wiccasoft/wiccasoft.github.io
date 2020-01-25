@@ -6,7 +6,7 @@
 <!--
 https://www.youtube.com/watch?v=An7ylfOhlOs
 https://www.facebook.com/KimsinnnSennnn/posts/809207775884057/
-https://www.tutorialspoint.com/answers/Anjana/2 bkz zallın tasarımını çalmış ibneler
+https://www.tutorialspoint.com/answers/Anjana/2 
 https://www.youtube.com/watch?v=ZP2YtHCXM6E see you later aligator
 https://www.reddit.com/r/rule34celebs/ hangi oç yaptı bunları
 https://www.youtube.com/watch?v=9UYuX-O3eFc
