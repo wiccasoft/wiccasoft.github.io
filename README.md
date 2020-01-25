@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz sevan çinaynaın elzzığ depremi yorumu
 bkz haluk levent te adanalı fatih teridm de hani adandan adam çıkmazdı
 bkz pkk nın haluk leventi devletinni yanında diye tehdit etmesi
 bkz fetullah gülenin elazığ depremini üstlenmesi
