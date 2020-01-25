@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!-- 
-bkz mansur yavaş tuzluğu söktün
+bkz haluk leventini sensizken ankarada şarkısını mnasur yavaş için yazdım açıklaması
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-belediyeye-ald%C4%B1%C4%9F%C4%B1-tuz/ 
 bkz ekrem imamaoğlanın haluk kırcıya atayız demesi
 https://www.uludagsozluk.com/e/42755584/ atayızlar hadi bunu da açıklayın 
