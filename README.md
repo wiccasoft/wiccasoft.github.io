@@ -5,7 +5,7 @@
 
 <!--
 bkz müslümanların kafa siktiği gerçeği
-https://www.youtube.com/watch?v=EfAsNffCjsM bkz kafa siken orta doğulu maymunlar
+https://www.youtube.com/watch?v=EfAsNffCjsM 
 bkz where is the money lebowski
 https://www.youtube.com/watch?v=-4MSXous61Y 
 bkz web 5.0 ın bomba gibi geldiği gerçeği
