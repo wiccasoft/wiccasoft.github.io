@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
-<!-- https://www.uludagsozluk.com/k/haluk-levent-de-adanal%C4%B1-fatih-terim-de/ bkz adamı derin derin düşündüren gerçek -->
+<!-- 
+https://www.uludagsozluk.com/e/42755584/ atayızlar hadi bunu da açıklayın 
+https://www.uludagsozluk.com/k/haluk-levent-de-adanal%C4%B1-fatih-terim-de/ bkz adamı derin derin düşündüren gerçek -->
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
 
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
