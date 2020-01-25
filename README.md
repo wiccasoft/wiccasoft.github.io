@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz kakacücü hakkında çok bilgi olmaması
 bkz uğur mumcunun leşlerle taşşak geçmesi
 bkz muhalefetin her şeye ağlaması
 bkz imamoğlanın leşler için erzuruma gitmesi
