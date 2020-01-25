@@ -3,32 +3,8 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+https://www.youtube.com/watch?v=tC4D-bzCWJc
 bkz imamoğlanın ekşiciler benim oğlanla arka odada oynayabilirler demesi
-bkz 94 doğumlu sünnetsiz forvet vs 97 doğumlu sünnetli forvet
-bkz sünnetsiz erkek vs sünnetli erkek
-bkz vedat mürüçü vs serdar aziz
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/uefa-kupas%C4%B1-olmayan-b%C3%BCy%C3%BCk-tak%C4%B1m/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-tokat-atan-%C3%A7ocuk/
-bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/birini-surekli-dusunmek--5829136?a=popular
-bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/eve-cagiran-kizin-yanina-gitmeyen-erkek--6337271?a=popular
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/
-bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd
-bkz hayallerde yaşıyor bazı ibneler
-https://eksisozluk.com/birini-surekli-dusunmek--5829136?a=popular
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
-bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg 
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
