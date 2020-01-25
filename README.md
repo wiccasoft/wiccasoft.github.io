@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz müslümanların kafa siktiği gerçeği
 https://www.youtube.com/watch?v=EfAsNffCjsM bkz kafa siken orta doğulu maymunlar
 bkz where is the money lebowski
 https://www.youtube.com/watch?v=-4MSXous61Y 
