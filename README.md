@@ -4,7 +4,7 @@
 bkz muhalefetin her şeye ağlaması
 bkz imamoğlanın leşler için erzuruma gitmesi
 bkz leşler için bile recep tayyip erdoğanı suçlamak
-bkz imamaoğlanın leşler için yasin okuması
+bkz imamoğlanın leşler için yasin okuması
 https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
 bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
 bkz çin yeni yıla girerken deprem diye zırlayan yavşak
