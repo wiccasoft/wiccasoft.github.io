@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
-bkz ekrem imamaoğlan da trabzonlu ismail türütte
+bkz ekrem imamaoğlanın 16 milyonun cumhurbaşkanıyım demesi
+bkz ekrem imamoğlan da trabzonlu ismail türütte
 bkz ilk buluşmada adanalıyıh allahın adamıyıh diyen erkek
 bkz haluk de adanalı emre karayel de hasan şaşa da adanalı hadi açıklayın atayızlar
 bkz saray verilen aileye mutlu musunuz diye sormak
