@@ -1,5 +1,44 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
+<!--
+bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
+bkz çin yeni yıla girerken deprem diye zırlayan yavşak
+bkz where is the money lebowski
+https://www.uludagsozluk.com/k/deprem-vergileri-nerede/ zuhaha yedik onu biz
+https://www.uludagsozluk.com/k/fikret-orman-paralar-nerede/&w=bg zuahha yedik bitti kankağğ
+bkz murat belge nin belgrlerle konuşması
+https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onayı beklerkene
+https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
+bkz en sevdiğim kullar asyalı kullar
+bkz 25 ocak 2020 çinlilerin yeni yıla göt olarak girmesi
+bkz lut kavminin depremlerden korkması
+https://www.uludagsozluk.com/k/depremle-dalga-ge%C3%A7en-yav%C5%9Fak/ 
+bkz noldii rencin soldiiiiiiii
+bkz chpli belediyelerin leşleri toplamaması
+https://space.stackexchange.com/ bkz çomarların uğramadığı başlıklar
+bkz stackoverlow haber ölücüleri
+https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw zuhahahaha
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 
+https://www.youtube.com/watch?v=An7ylfOhlOs
+https://www.facebook.com/KimsinnnSennnn/posts/809207775884057/
+https://www.tutorialspoint.com/answers/Anjana/2 
+https://www.reddit.com/r/rule34celebs/ hangi oç yaptı bunları
+https://www.youtube.com/watch?v=9UYuX-O3eFc
+bkz pascal nouma nın taylor swifte süt kupası demesi
+bkz fikret ormanın taylor swiftin kaseye süt kasesi demesi
+bkz celal şengörün taylor swiftin kaseye süt dök yala demesi
+bkz imamoğlanın taylor swifte süt maşşalah süt demesi
+bkz fatih terimin ortaçlıya teke tekte verdiği ayar
+bkz celal şengörün serdar ortaçla olan dostluğu
+bkz arda turanın taylor swifte yürümesi
+bkz kariusun nereye geldim lan ben bakışı
+bkz fatih terimin ramos la yarım kalmış bi işimiz var bakışı
+bkz mustafa cengizin üj mülyün yuro daha verek ramosu alak önerisi
+bkz abdulrahim albayrakın abdullah avcıya attığı ananı sarı kırmızıya boyarım bakışı
+bkz ekrem imamoğlanın komik yasin okuyuşu
+bkz tayyip doğanın yasin okuyuşu vs imamoğlanın yasin okuyuşu
+-->
+
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
 
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
