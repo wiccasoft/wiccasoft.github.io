@@ -4,6 +4,8 @@
 
 <!--
 bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/
+bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg
