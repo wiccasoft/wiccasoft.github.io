@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz sms yardım paralarıyla gömeceğim yeni mercedes
 bkz rte nin star wars evrenindeki bounty hunter olması
 bkz duman avcısı rte
 bkz recep tayyip erdoğanın beni seven elektronik sigara içmesin demesi
