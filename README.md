@@ -1,7 +1,9 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+https://www.youtube.com/watch?v=JkyiKIpJQVY
 bkz haluk levent vs emre karayel
+https://www.youtube.com/watch?v=XjFh4Jtvupo
 bkz elazığlı erkekler vs adanalı erkekler vs malatyalı erkekler
 bkz haluk leventin norm enderden yakışıklı olduğu gerçeği
 bkz haluk levent mi haluk kırcı mı taner karadağlı mı sorunsalı
