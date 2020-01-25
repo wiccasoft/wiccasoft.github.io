@@ -9,6 +9,8 @@ bkz ilk buluşmada ersun yanalcıyım diyen erkek
 bkz ilk buluşmada recep tayyip erdoğanın korumasıyım diyen erkek
 bkz kakacücü nün sıçarken hiç fotoğrafının olmaması
 bkz ilk buluşmada her ortamın adamıyım adanalıyım diyen adam
+bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
+bkz çin yeni yıla girerken deprem diye zırlayan yavşak
 https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz elazılıyıh allahın adamayık diyen adam
 bkz her ortama girdim diyen adanalı adam
