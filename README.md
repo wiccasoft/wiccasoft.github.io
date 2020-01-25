@@ -3,22 +3,10 @@
 <!--
 bkz fetullah gülenin elazığ depremini üstlenmesi
 bkz devlet bahçeli de adanalı fatih terim de
-bkz fettullah gülenin elzığ lı olduğu gerçeği
+bkz fettullah gülenin elazığ lı olduğu gerçeği
 https://www.youtube.com/watch?v=JkyiKIpJQVY
 bkz haluk levent vs emre karayel
 https://www.youtube.com/watch?v=XjFh4Jtvupo
-bkz elazığlı erkekler vs adanalı erkekler vs malatyalı erkekler
-bkz haluk leventin norm enderden yakışıklı olduğu gerçeği
-bkz haluk levent mi haluk kırcı mı taner karadağlı mı sorunsalı
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok üzel zaten
-bkz ekrem imamaoğlan trabzonluysa neden trabzonsporu tutmuyor sorunsalı
-bkz ekrem imamaoğlanın 16 milyonun cumhurbaşkanıyım demesi
-bkz ekrem imamoğlan da trabzonlu ismail türütte
-bkz ilk buluşmada adanalıyıh allahın adamıyıh diyen erkek
-bkz haluk de adanalı emre karayel de hasan şaşa da adanalı hadi açıklayın atayızlar
-bkz saray verilen aileye mutlu musunuz diye sormak
-bkz haluk leventini sensizken ankarada şarkısını mnasur yavaş için yazdım açıklaması
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-belediyeye-ald%C4%B1%C4%9F%C4%B1-tuz/ 
 bkz ekrem imamaoğlanın haluk kırcıya atayız demesi
 https://www.uludagsozluk.com/e/42755584/ atayızlar hadi bunu da açıklayın 
 https://www.uludagsozluk.com/k/haluk-levent-de-adanal%C4%B1-fatih-terim-de/ bkz adamı derin derin düşündüren gerçek -->
