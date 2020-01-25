@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz haluk leventin norm enderden yakışıklı olduğu gerçeği
 bkz haluk levent mi haluk kırcı mı taner karadağlı mı sorunsalı
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok üzel zaten
 bkz ekrem imamaoğlan trabzonluysa neden trabzonsporu tutmuyor sorunsalı
