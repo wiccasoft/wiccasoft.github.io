@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz sünnetsiz erkek vs sünnetli erkek
 bkz vedat mürüçü vs serdar aziz
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/uefa-kupas%C4%B1-olmayan-b%C3%BCy%C3%BCk-tak%C4%B1m/&w=bg
