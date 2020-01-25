@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz kakacücü uzaylımıydı sorunsalı
 https://www.uludagsozluk.com/e/42755255/ bkz hayallerde yaşıyor bazı ibneler
 bkz kakacücü hakkında çok bilgi olmaması
 bkz uğur mumcunun leşlerle taşşak geçmesi
