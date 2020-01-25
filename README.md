@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz imamoğlanın oğlu vs tayyipoğlanın oğlu
 bkz 94 doğumlu sünnetsiz forvet vs 97 doğumlu sünnetli forvet
 bkz sünnetsiz erkek vs sünnetli erkek
 bkz vedat mürüçü vs serdar aziz
