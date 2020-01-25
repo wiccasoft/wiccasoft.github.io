@@ -2,6 +2,7 @@
 
 <!--
 bkz reis diyen ergen salaklığı
+bkz ölü kişiye okuyomuş gibi yazı yazmak
 bkz idol edindiği ölmüş kişiyle duygusal bağ kuran kişilerin düşük zekalı olduğu gerçeği
 bkz ölen kişiye kırk yıllık ahbabıymış gibi entry giren loserlar
 bkz ölen kişilere reisim yiğidim rahat uyu yazan sosyopatik tiplerin akıl sağlığı
