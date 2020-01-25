@@ -3,7 +3,6 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!-- 
-bkz traveler of secret in bugün yakışıklı olgun erkek resmi atmaması
 bkz ekşici çomar vs incici çomar 
 https://www.youtube.com/watch?v=tC4D-bzCWJc
 bkz sünnetli erkek vs sünnetsiz erkek
