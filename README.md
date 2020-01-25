@@ -4,6 +4,10 @@
 
 <!--
 bkz hayallerde yaşıyor bazı ibneler
+https://eksisozluk.com/birini-surekli-dusunmek--5829136?a=popular
+bkz hayallerde yaşıyor bazı ibneler
+https://eksisozluk.com/eve-cagiran-kizin-yanina-gitmeyen-erkek--6337271?a=popular
+bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/
 bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
