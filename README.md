@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!-- 
+bkz haluk de adanalı emre karayel de
 bkz saray verilen aileye mutlu musunuz diye sormak
 bkz haluk leventini sensizken ankarada şarkısını mnasur yavaş için yazdım açıklaması
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-belediyeye-ald%C4%B1%C4%9F%C4%B1-tuz/ 
