@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+https://www.youtube.com/watch?v=L80KS7yiNrE&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI 
 https://www.youtube.com/watch?v=A8_23-SaSoA 
 https://www.youtube.com/watch?v=QpS6auP9zdY
 bkz müslümanların kafa siktiği gerçeği
