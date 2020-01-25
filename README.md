@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!-- 
+bkz vedat mürükü vs ali koç
 bkz imamoğlanın kamerasından çomarlar
 https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamaoğlan
 bkz eve çağırılan erkeğin yanına gitmeyen çomar
