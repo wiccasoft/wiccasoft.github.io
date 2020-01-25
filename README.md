@@ -2,8 +2,6 @@
 
 <!--
 bkz vatandaşa cart curt yok diyen ergen
-bkz eleziğde bina güzellikten yıkıldı diyen ergen
-https://www.uludagsozluk.com/k/elaz%C4%B1%C4%9F-da-bina-g%C3%BCzelli%C4%9Fimden-y%C4%B1k%C4%B1ld%C4%B1-diyen-ergen/
 bkz ilk buluşmada elezığ merkezdenim diyen erkek
 bkz ilk buluşmada nasıl koyduk cincona diyen erkek
 bkz ilk buluşmada ersun yanalcıyım diyen erkek
