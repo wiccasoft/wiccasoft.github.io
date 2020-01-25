@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz kakacücü nün sıçarken hiç fotoğrafının olmaması
 bkz ilk buluşmada her ortamın adamıyım adanalıyım diyen adam
 https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz elazılıyıh allahın adamayık diyen adam
