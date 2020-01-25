@@ -4,6 +4,7 @@
 bkz mumyaya tecavüz eden adam
 bkz almanyada ailesinden 6 kişiyi öldüren adam
 bkz ilk buluşmaya alper potukla gelen erkek
+bkz ilk buluşmada masaya iphone x koyan erkek
 bkz en sevdiğim kullar asyalı kullar
 https://www.youtube.com/watch?v=jVEKDcDEN1w 
 bkz ilk buluşmada bir babah indi kartala bindi diyen ergen
