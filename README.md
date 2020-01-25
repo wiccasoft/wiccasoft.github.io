@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz devlet bahçeli de adanalı fatih terim de
 bkz fettullah gülenin elzığ lı olduğu gerçeği
 https://www.youtube.com/watch?v=JkyiKIpJQVY
 bkz haluk levent vs emre karayel
