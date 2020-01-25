@@ -2,7 +2,7 @@
 
 <!--
 bkz reis diyen ergen salaklığı
-bkz idol edindiği (bkz reis) ölen kişiyle duygusal bağ kuran kişilerin düşük zekalı olduğu gerçeği
+bkz idol edindiği ölmüş kişiyle duygusal bağ kuran kişilerin düşük zekalı olduğu gerçeği
 bkz ölen kişiye kırk yıllık ahbabıymış gibi entry giren loserlar
 bkz ölen kişilere reisim yiğidim rahat uyu yazan sosyopatik tiplerin akıl sağlığı
 bkz ölen kişiyle duygusal bağ kurmak
