@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz ilk buluşmada her ortamın adamıyım diyen adam
 https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz elazılıyıh allahın adamayık diyen adam
 bkz her ortama girdim diyen adanalı adam
