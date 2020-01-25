@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz leşler için recep tayyip erdoğanı suçlamak
 bkz imamaoğlanın leşler için yasin okuması
 https://www.youtube.com/watch?v=jVEKDcDEN1w  bkz en sevdiğim kullar asyalı kullar
 bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
