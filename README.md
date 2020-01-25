@@ -5,6 +5,7 @@
 
 <!--
 bkz donanımhaber ölücüleri
+bkz donanımhaberdeki feyizli abinin açtığı başlık
 bkz lut kavminin depremlerden korkması
 https://www.uludagsozluk.com/k/depremle-dalga-ge%C3%A7en-yav%C5%9Fak/ noldii rencin soldiiiiiiii
 bkz sms yardım paralarıyla gömeceğim yeni mercedes
