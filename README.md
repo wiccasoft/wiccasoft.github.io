@@ -10,6 +10,7 @@ bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
 bkz çin yeni yıla girerken deprem diye zırlayan yavşak
 bkz where is the money lebowski
 bkz murat belge nin belgelerle konuşması
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 alex her alanda alır kankağ
 https://www.uludagsozluk.com/k/deprem-vergileri-nerede/ zuhaha yedik onu biz
 https://www.uludagsozluk.com/k/fikret-orman-paralar-nerede/&w=bg zuahha yedik bitti kankağğ
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onayı beklerkene
