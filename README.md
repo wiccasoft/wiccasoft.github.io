@@ -5,6 +5,7 @@
 
 <!--
 bkz where is the money lebowski
+https://www.youtube.com/watch?v=-4MSXous61Y 
 bkz web 5.0 ın bomba gibi geldiği gerçeği
 bkz yamuk yumuk bina yapıp deprem vergisi diye zırlamak
 bkz çin yeni yıla girerken deprem diye zırlayan yavşak
