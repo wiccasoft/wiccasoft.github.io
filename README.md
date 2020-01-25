@@ -7,33 +7,16 @@
 https://www.youtube.com/watch?v=jVEKDcDEN1w 
 bkz en sevdiğim kullar asyalı kullar
 bkz 25 ocak 2020 çinlilerin yeni yıla göt olarak girmesi
-bkz donanımhaberin donanınmlı başlık açan eleman araması
-bkz donanımhaber ölücüleri
-bkz donanımhaberdeki feyizli abinin açtığı başlık
 bkz lut kavminin depremlerden korkması
 https://www.uludagsozluk.com/k/depremle-dalga-ge%C3%A7en-yav%C5%9Fak/ noldii rencin soldiiiiiiii
-bkz sms yardım paralarıyla gömeceğim yeni mercedes
-bkz rte nin star wars evrenindeki bounty hunter olması
-bkz duman avcısı rte
-bkz recep tayyip erdoğanın beni seven elektronik sigara içmesin demesi
-bkz rise of skywalker
 bkz chpli belediyelerin leşleri toplamaması
 https://space.stackexchange.com/ bkz çomarların uğramadığı başlıklar
-bkz salak ergenlerin futbolculara entry girdiği yerler
-bkz salak ergenlerin salak salak başlıklar açtığı yere sözlük demeleri
-bkz türklerin internet hayatı facebook twitter instagram hepsiorada forumsiteleri donanımhaber
 bkz stackoverlow haber ölücüleri
-bkz recep tayyip perdoğanın merkele attığı bakış
-bkz çomarların kendilerini çok önemsemeleri
-bkz recep tayyip erdoğanın illumunati kuklası olması
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw zuhahahaha
-bkz recep tayyip erdoğan imzası vs fatih terim imzası
-bkz 25 ocak 2020 donanımhaber de fatih terim imzalı iphone kılıfı bulmam
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 
 https://www.youtube.com/watch?v=An7ylfOhlOs
 https://www.facebook.com/KimsinnnSennnn/posts/809207775884057/
 https://www.tutorialspoint.com/answers/Anjana/2 
-https://www.youtube.com/watch?v=ZP2YtHCXM6E see you later aligator
 https://www.reddit.com/r/rule34celebs/ hangi oç yaptı bunları
 https://www.youtube.com/watch?v=9UYuX-O3eFc
 bkz pascal nouma nın taylor swifte süt kupası demesi
