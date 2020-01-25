@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
 <!--
+bkz where is the money lebowski
 https://www.uludagsozluk.com/k/deprem-vergileri-nerede/ zuhaha yedik onu biz
 https://www.uludagsozluk.com/k/fikret-orman-paralar-nerede/&w=bg zuahha yedik bitti kankağğ
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz çaylak onayı beklerkene
