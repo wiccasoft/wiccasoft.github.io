@@ -2,6 +2,7 @@
 
 <!--
 bkz reis diyen ergen salaklığı
+bkz reisim sen rahat uyu ben entry girerim
 bkz ölü kişiye okuyomuş gibi yazı yazmak
 bkz okunmayacağını bildiği halde entry giren ergenler
 bkz idol edindiği ölmüş kişiyle duygusal bağ kuran kişilerin düşük zekalı olduğu gerçeği
