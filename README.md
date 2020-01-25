@@ -2,7 +2,9 @@
 
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
-<!-- 
+<!--
+bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd
 bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/birini-surekli-dusunmek--5829136?a=popular
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg
