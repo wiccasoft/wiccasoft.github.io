@@ -9,14 +9,7 @@ https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
 https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg bkz tayt giyen erkek
-bkz ekşici çomar vs incici çomar 
-https://www.youtube.com/watch?v=tC4D-bzCWJc
-bkz sünnetli erkek vs sünnetsiz erkek
-bkz vedat mürükü vs ali koç
-bkz imamoğlanın kamerasından çomarlar
-https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamaoğlan
-bkz eve çağırılan erkeğin yanına gitmeyen çomar
-bkz eve erkek çağıran çomar
+https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamoğlan
 -->
 
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
