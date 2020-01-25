@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!-- 
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
 https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg bkz tayt giyen erkek
 bkz ekşici çomar vs incici çomar 
 https://www.youtube.com/watch?v=tC4D-bzCWJc
