@@ -3,25 +3,9 @@
 
 <!-- 
 https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en
-https://www.youtube.com/watch?v=EfAsNffCjsM allahın ekber olduğu iddaları
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fener galatsaray
-bkz 26 ocak 2020 ultrageyselerin ultrafenerbahce sitesini hacklemesi
-https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamaoğlunun dans ederken göbeğinin de dans etmesi
-https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı olgun 11
-https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz futbol cahili
 https://www.uludagsozluk.com/e/42760367/ bkz garcianın en öpülesi yeri
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen karar ver
-https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa ata cücünün emrettiği maç
-https://www.uludagsozluk.com/e/42760349/ aykut sana diyo
-https://www.youtube.com/watch?v=DXXhXaBWgx0
-bkz aykut kocamanın futboldan anlamadığı iddaları
-https://www.youtube.com/watch?v=TJsJmX3iQkY 
-bkz aykut kocamanın kadın kuaförü olması 
-bkz 26 ocak 2020 ali koçun vedat mürüçü açıklaması
-bkz imamaoğlunun kamerasının bozulması
-bkz konstantinopolisi kaç saatte alırız sorunsalı
-bkz 26 ocak 2020 imamoğlanın bokunu çıkarması
-https://www.youtube.com/watch?v=9QOfjdHnN7A  tak tik maktik yok -->
+https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
+-->
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
