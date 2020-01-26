@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı olgun 11
 bkz ekrem imamoğlanın mustafa ata cücünün emrettiği maçı izlemesi
 bkz mustafa kamala ata cücünün emrettiği maç
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz futbol cahili
