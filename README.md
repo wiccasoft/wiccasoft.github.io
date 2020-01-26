@@ -3,7 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
-bkz ulu önder imamoğlan
+bkz ulu önderin sıçarken hiç fotoğrafının olmaması
 bkz 99 depreminden imamoğlanı sorumlu tutmak
 bkz imamaoğlanın kamerasından yansıyan 99 depremi
 bkz 99 depreminden beri dışarda uyuyan adam
