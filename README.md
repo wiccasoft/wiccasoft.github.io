@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz 26 ocak 2020 ali koçun vedat mürüçü açıklaması
 bkz imamaoğlunun kamerasının bozulması
 bkz konstantinopolisi kaç saatte alırız sorunsalı
 bkz 26 ocak 2020 imamoğlanın bokunu çıkarması
