@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz 27 ocak 2020 imamoğlanın bokunu çıkarması
 bkz 26 ocak 2020 emre morun vedat mürüküye yürümesi
 bkz 26 ocak 2020 ekşici ergenlerin açtığı başlıkların güldürmesi
 bkz 25 ocak 2020 imamamoğlanın kamerasından imamoğlan
