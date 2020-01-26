@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8
+https://www.youtube.com/watch?v=EfAsNffCjsM allahın ekber olduğu iddaları
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fener galatsaray
 bkz 26 ocak 2020 ultrageyselerin ultrafenerbahce sitesini hacklemesi
 https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamaoğlunun dans ederken göbeğinin de dans etmesi
 https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı olgun 11
