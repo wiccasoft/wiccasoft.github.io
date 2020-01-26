@@ -1,14 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
-<!-- 
-https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en
-https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamoğlunun dans ederken göbeğinin de dans etmesi
-https://www.uludagsozluk.com/e/42760669/ bkz sevmeyen niçanyan
-https://www.uludagsozluk.com/e/42760367/ bkz garcianın en öpülesi yeri
-https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
--->
-
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
