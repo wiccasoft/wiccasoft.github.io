@@ -3,14 +3,6 @@
 
 <!-- 
 bkz konstantinopolisi kaç saatte alırız sorunsalı
-bkz 27 ocak 2020 imamoğlanın bokunu çıkarması
-bkz 26 ocak 2020 emre morun vedat mürüküye yürümesi
-bkz 26 ocak 2020 ekşici ergenlerin açtığı başlıkların güldürmesi
-bkz 25 ocak 2020 imamamoğlanın kamerasından imamoğlan
-bkz 26 ocak 2020 ali koçun volkan demirele beş maç ceza vermesi
-bkz 27 ocak 2020 sezn aksunun sevan nişanyanı süzmesi 
-bkz 25 ocak 2020 sevan nişanyanın sevmayan nişanyana attığı bakış
-bkz 26 ocak 20230 vedat mürüçün antrenmanda yaptığı hareket
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tak tik maktik yok -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
