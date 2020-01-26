@@ -3,6 +3,7 @@
 
 <!-- 
 bkz konstantinopolisi kaç saatte alırız sorunsalı
+bkz 26 ocak 2020 imamoğlanın bokunu çıkarması
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tak tik maktik yok -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
