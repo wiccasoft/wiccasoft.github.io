@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+https://www.youtube.com/watch?v=tT4TjDj12uI bkz mustafa ata cücünün emrettiği maç
 https://www.uludagsozluk.com/e/42760349/ aykut sana diyo
 https://www.youtube.com/watch?v=DXXhXaBWgx0
 bkz aykut kocamanın futboldan anlamadığı iddaları
