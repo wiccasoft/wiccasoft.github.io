@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz depremde arapların hiç yardıma hazırız dememesi
 https://www.uludagsozluk.com/k/depremde-araplar%C4%B1n-hi%C3%A7-yard%C4%B1ma-haz%C4%B1r%C4%B1z-dememesi/&w=bg
 bkz imamoğlan kamerasından imamoğlan https://www.youtube.com/watch?v=qZowK0NAvig 
 https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar
