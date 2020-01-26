@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz 27 ocak 2020 sezn aksunun sevan nişanyanı süzmesi 
 bkz 25 ocak 2020 sevan nişanyanın sevmayan nişanyana attığı bakış
 bkz 26 ocak 20230 vedat mürüçün antrenmanda yaptığı hareket
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tak tik maktik yok -->
