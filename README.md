@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en
 https://www.youtube.com/watch?v=EfAsNffCjsM allahın ekber olduğu iddaları
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fener galatsaray
 bkz 26 ocak 2020 ultrageyselerin ultrafenerbahce sitesini hacklemesi
