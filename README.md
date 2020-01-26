@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz 26 ocak 2020 emre morun vedat mürüküye yürümesi
 bkz 26 ocak 2020 ekşici ergenlerin açtığı başlıkların güldürmesi
 bkz 25 ocak 2020 imamamoğlanın kamerasından imamoğlan
 bkz 26 ocak 2020 ali koçun volkan demirele beş maç ceza vermesi
