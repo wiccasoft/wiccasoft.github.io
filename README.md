@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.youtube.com/watch?v=vrl8fzTXCYM fener olalım
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
