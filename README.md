@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamoğlan
 https://www.instagram.com/deniscaglayan/?hl=tr yengeniz olur
 https://www.youtube.com/watch?v=tC4D-bzCWJc
 bkz imamoğlanın ekşiciler benim oğlanla arka odada oynayabilirler demesi
