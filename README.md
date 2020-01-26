@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
-bkz ekrem imamoğlanın ata cücünün emrettiği maçı izlemesi
+bkz ekrem imamoğlanın mustafa ata cücünün emrettiği maçı izlemesi
 bkz mustafa kamala ata cücünün emrettiği maç
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz futbol cahili
 https://www.uludagsozluk.com/e/42760367/ bkz garcianın en öpülesi yeri
