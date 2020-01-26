@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
-<!-- https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
+<!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
 https://www.fenerbahce.org/haberler/futbol/2019/8/alper-potuk-tan-ornek-davranis 
 -->
