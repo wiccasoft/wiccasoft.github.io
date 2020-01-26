@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz mustafa kamala ata cücünün emrettiği maç
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz futbol cahili
 https://www.uludagsozluk.com/e/42760367/ bkz garcianın en öpülesi yeri
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen karar ver
