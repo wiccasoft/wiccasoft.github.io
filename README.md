@@ -4,10 +4,7 @@
 
 <!--
 bkz imamoğlan kamerasından imamoğlan https://www.youtube.com/watch?v=qZowK0NAvig 
-bkz vedat mürükü vs vedat sümükü
-bkz serdar ortaçgilin osman pambıkoğlana verdiği ayar
 https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar
-https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamoğlan
 https://www.instagram.com/deniscaglayan/?hl=tr yengeniz olur
 https://www.youtube.com/watch?v=tC4D-bzCWJc
 bkz imamoğlanın ekşiciler benim oğlanla arka odada oynayabilirler demesi
