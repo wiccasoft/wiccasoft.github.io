@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz 26 ocak 2020 ultrageyselerin ultrafenerbahce sitesini hacklemesi
 https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamaoğlunun dans ederken göbeğinin de dans etmesi
 https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı olgun 11
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz futbol cahili
