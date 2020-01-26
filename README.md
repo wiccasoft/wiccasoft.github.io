@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
 <!--
+bkz celal şengörün atayız olduğu iddaları
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-ataist-olmas%C4%B1/
 https://www.youtube.com/watch?v=69FlmkZ23zM
 bkz ulu önderin sıçarken hiç fotoğrafının olmaması
 bkz 99 depreminden imamoğlanı sorumlu tutmak
