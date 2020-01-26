@@ -1,4 +1,5 @@
 
+[![Image](shadow/Screenshot_2020-01-26_15-18-44.png)]( https://www.theguardian.com/sport/2020/jan/26/kobe-bryant-helicopter-crash-death-nba-los-angeles-lakers  )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
