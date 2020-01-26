@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+https://www.youtube.com/watch?v=uRbEjK3-1B4 bkz imamaoğlunun dans ederken göbeğinin de dans etmesi
 https://www.uludagsozluk.com/e/42760669/ bkz sevmeyen niçanyan
 https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en
 https://www.uludagsozluk.com/e/42760367/ bkz garcianın en öpülesi yeri
