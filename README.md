@@ -3,7 +3,6 @@
 
 <!-- https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
-https://skor.sozcu.com.tr/2020/01/26/yilmaz-bal-alper-potuk-icin-fenerbahce-ile-anlasmaya-vardik-1443509/
 https://www.fenerbahce.org/haberler/futbol/2019/8/alper-potuk-tan-ornek-davranis 
 -->
 
