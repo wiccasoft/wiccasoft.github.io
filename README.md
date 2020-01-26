@@ -4,27 +4,6 @@
 
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
-<!--
-bkz celal şengörün atayız olduğu iddaları
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-%C3%BCn-ataist-olmas%C4%B1/
-https://www.youtube.com/watch?v=69FlmkZ23zM
-bkz ulu önderin sıçarken hiç fotoğrafının olmaması
-bkz 99 depreminden imamoğlanı sorumlu tutmak
-bkz imamaoğlanın kamerasından yansıyan 99 depremi
-bkz 99 depreminden beri dışarda uyuyan adam
-https://www.youtube.com/watch?v=EfAsNffCjsM
-bkz depremde arapların hiç yardıma hazırız dememesi
-bkz imamoğlan kamerasından imamoğlan https://www.youtube.com/watch?v=qZowK0NAvig 
-https://www.youtube.com/watch?v=jVEKDcDEN1w bkz en sevdiğim kullar
-https://www.instagram.com/deniscaglayan/?hl=tr yengeniz olur
-https://www.youtube.com/watch?v=tC4D-bzCWJc
-bkz imamoğlanın ekşiciler benim oğlanla arka odada oynayabilirler demesi
-https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg 
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg 
-https://www.uludagsozluk.com/k/s%C3%BCnnetsiz-erkek/&w=bg bkz tayt giyen erkek
-https://www.youtube.com/watch?v=qZowK0NAvig bkz sevan nişanyan kamerasından imamoğlan
--->
 
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
 
