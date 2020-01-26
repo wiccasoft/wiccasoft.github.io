@@ -3,8 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=yphjF2e2Izg bkz en yakışıklı olgun 11
-bkz ekrem imamoğlanın mustafa ata cücünün emrettiği maçı izlemesi
-bkz mustafa kamala ata cücünün emrettiği maç
+bkz mustafa kamal ata cücünün emrettiği maç
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz futbol cahili
 https://www.uludagsozluk.com/e/42760367/ bkz garcianın en öpülesi yeri
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen karar ver
