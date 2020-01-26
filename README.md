@@ -3,7 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-https://www.youtube.com/watch?v=BaTd_F2yIrU
+https://www.youtube.com/watch?v=BaTd_F2yIrU los angeles olalım
 https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
 https://www.youtube.com/watch?v=vrl8fzTXCYM fener olalım
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
