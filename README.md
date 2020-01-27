@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz imamaoğlab ve ergen irisi ekşciciler
 bkz imamaoğlan ekşcilerle cumhurbaşkanlığı oynayacak diye kuduran gürüh
 bkz imamoğlanın babasının oğlum ekşicilerle oynayacak bugün demesi
 bkz sitede oturan basketbol aşığı baranaın 41 yaşına geldiği gerçeği
