@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkz 27ocak 2020 abdullah avcının sergenle anlaşması
+bkz orhan bencegay in sergeni tebrik etmesi
+bkz 27 ocak 2020 abdullah avcının sergenle anlaşması
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen karar ver
 bkz 27 ocak 2020 abdullah avcının sergen yalçını salması
 bkz 27 ocak 2020 sergen yalçının antrenmanda attığı gol
