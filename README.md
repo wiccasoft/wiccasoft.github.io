@@ -6,6 +6,7 @@
 https://www.uludagsozluk.com/k/gay-erkek/&w=bg
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=gd
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=gd
+https://www.uludagsozluk.com/k/fethullah-g%C3%BClen/&w=bg
 https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=gd
 https://www.uludagsozluk.com/k/kobe-bryant-k%C3%BCrt-m%C3%BC/&w=gd
 https://www.uludagsozluk.com/k/do%C4%9Frular%C4%B1-yaz%C4%B1nca-provokat%C3%B6r-denilmesi/
