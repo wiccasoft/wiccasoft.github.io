@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+https://www.uludagsozluk.com/k/hamile-kalmak-istemek-ama-koci%C5%9Fin-olmamas%C4%B1/&w=bg 
 bkz caner erkininin alper potukun götünü parmaklaması
 bkz komünik maçoğlanın imamaoğlana götün yiyosa tunceliye gel demesi
 bkz komümik maçolanın imamolana verdiği ayar
