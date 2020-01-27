@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
-<!-- https://www.uludagsozluk.com/k/binlerce-%C5%9Feyhin-bir-akut-k%C3%B6pe%C4%9Fi-kadar-faydas%C4%B1-yok/ bkz dep webte sıradan bir gün -->
+<!-- bana daydası olmayan köyün imamaoğlanını sikeyim-->
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
