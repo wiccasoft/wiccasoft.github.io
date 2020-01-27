@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz imamaoğlanın amınoğlu olduğu gerçeği
 bkz pkknın imamaoğlana oy vermeyin kampanyası
 https://www.uludagsozluk.com/k/pkk-n%C4%B1n-ekrem-imamo%C4%9Flu-na-oy-vermeyin-%C3%A7a%C4%9Fr%C4%B1s%C4%B1/&w=bg
 bkz imamaoğlanın oğlanın babasının oğlan biraz da ekşcilerle oynasın demesi
