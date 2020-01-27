@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz imamaoğlanın babasının oynasın diye salması
 bkz imamaoğlanın babasının ekşicilerle oynamasına izin vermesi
 https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg emcüklenri olm bu
 https://www.uludagsozluk.com/k/mert-hakan-yanda%C5%9F/&w=bg adam yandaş beyler
