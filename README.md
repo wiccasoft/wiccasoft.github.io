@@ -1,37 +1,7 @@
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
-[![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
-
-<!--
-bkz imamoğlanın menzil ve ismail ağaya güven olmaz demesi
-bkz imamaoğlanın enkazdan çıkanlara yazin okuması
-bkz imamaoğlanın çok iyi gelmesi
-bkz imamaoğlandan çıkmak için fener ol diyen kadın
-bkz imamaoğlan bomba gib geldi diye kuduran akitler
-bkz sarıgöllü emrahın imamaoğlan tayfasına kayması
-bkz taksimin renkli siması cenkin imamaoğlancıyım demesi
-bkz yukarı ümraniyede arabasıyla imamoğlan yazan genco
-bkz imamoğlacıların çığ gibi büyümesini çekemeyen ak itler
-bkz imamaoğlacıların çığ gibi büyümesi
-bkz mucize doktordaki böcek suratlı ergenin imamoğlancıyım açıklaması
-bkz mucize doktor dizisindeki ergenini paylaştığı ekrem imamoğlan fotosu
-bkz ekrem imamaoğlan vs mucize doktor dizisi
-bkz ekrem imamaoğlanın dans ederken sallanan göbeği
-bkz ekrem imamaoğlanın yasin okuyuşu
-bkz ekrem imamaoğlanın iyice taşşak oğlanı olması
-bkz ekrem imamoğlanın babasının fenerli çıkması
-bkz ekrem imama oğlanın babasının mansur yavaşla barıştırması
-bkz mansur yavaşın beni ankaradan ayıramazsınız tehdidi
-bkz ekrem imamaoğlan iyice taşş oğlan olması
-bkz ekrem imamaoğlan derken ağızda oluşan kekremsi tad
-bkz ekrem imamaoğlanın babasının ekşiciler oynasın diye salması
-bkz kakacünün hiç sıçarken fotosunun olmaması
-bkz macun kaplıcalının kerizlerden toplanan 73 milyonun 70 milyonunu şeymaya yollaması
-bkz mankurt yavaş vs imamaoğlan v maçoğlan 
-bkz imamaoğlanın babasının oğlunun halı saha maçına izin vermesi
-bkz ergen irisi sitede oturan gencin imamaoğlanın oğlu çıkması
--->
+[![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
