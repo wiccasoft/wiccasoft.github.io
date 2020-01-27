@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
+bkz kedim var diyen oğlanın kaldırması
 bkz pussysi olan kız
 bkz anaokulan deftersiz gelen kızı sıkıştıran dayı
 bkz liseye deftewrsiz gelen kızı sikertmek
