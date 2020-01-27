@@ -6,6 +6,7 @@
 bkz ciddi ciddi galat ol kampanyası olmaması
 bkz ciddi ciddi fener ol kampanyasına para yollamak
 bkz ciddi ciddi fenrerin şampiyon olacağını sanmak
+https://www.uludagsozluk.com/k/c%C4%B1rt-c%C4%B1rtl%C4%B1-c%C3%BCzdan%C4%B1-olan-30-ya%C5%9F%C4%B1ndaki-erkek/
 bkz macun kaplıclının ördeklerden toplanan 73 milyon liranın 70 nilyonunu şeymaya yollaması
 bkz suri oğlanları meşaj yağmuruna tutuyoruk kampanyası
 bkz suri oğlanların türk oğlanalrdan yahuşuhlu olması
