@@ -5,7 +5,7 @@
 <!-- 
 bkz gay cenneti türkiye
 bkz fes atılan ibnenin götünü parmaklamak
-bkz bir erkeğe yaklaşıp kulağına ibne misin demek
+bkz bir erkeğe yaklaşıp kulağına fes atalım mı demek
 bkz bir erkeğin oğlan olduğunu anlamanın yolları
 bkz ibne nin arapça oğlan demek olması
 bkz erkeksiz yaşayamayan türkler
