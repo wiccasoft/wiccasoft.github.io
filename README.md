@@ -7,6 +7,7 @@
 
 <!--
 bkz pussy si olan erkek
+bkz ergenlerle sikişmeyen dayının vatan gayını olması
 bkz vatba hayını deyince akla gelen ilk isim
 bkz türkçe paylaşım yapmayanları cimere bildirmek
 bkz taksimin renkli siması cenkin yakında yutüp kanalı açacam demesi
