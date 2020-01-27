@@ -6,8 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 <!--
-bkz ben kamalcı sikmemem diyen vadan hayını dayı
-bkz taksim dayının götçü olması
+bkz ben kamalcı sikemem diyen vadan hayını dayı
+bkz taksim dayının götçü olduğu gerçeği
 bkz barış özcanı unscubscribe yapıyoruz kampanyası
 bkz köpeği olan erkeğ vs kedisi olan erkeğ
 bkz kedi olan ılık erkeğin evine gidmek
