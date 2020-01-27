@@ -1,33 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
-<!-- 
-bkz dayıların götçü olma sebebi
-bkz taksim dayının hz muhameddci çıkması
-bkz deli megolaman bi arabın tüm müslümanları keklemesi
-bkz allahın hz muhammed için evreni yaratması
-bkz allah evreni benim yüzü suyum hürmetime yarattı diyen arap
-bkz ben peygamberim hazreti diyeceksiniz diyen adam
-bkz hz mahmut vs hz şaban
-bkz lgbt nin kedisi olan erkek zaafı
-bkz kedim var diyen oğlanın kaldırması
-bkz pussysi olan kız
-bkz anaokulan deftersiz gelen kızı sıkıştıran dayı
-bkz liseye deftewrsiz gelen kızı sikertmek
-bkz kedi gibi sikemmi seni diyen dayı
-bkz kedi seven dayının götçü çıkması
-bkz bana faydası olmayan köyün imamaoğlanını sikeyim
-bkz imamoğlan vs sokak köpekleri
-bkz bi kedim bile yok diyen taksim dayının dişi köpek araması
-https://www.uludagsozluk.com/k/hamile-b%C4%B1rakan-%C3%B6zel-penisler/ 
-bkz hazreti yarrak a yarrak diye şerefsizler
-bkz cübbelinni hazreti yarrak a yarrak demeyin demesi
-bkz muhammede hazreti diyen şerefesizler
-bkz muhammedin götüne koyayım diyen dayı
-bkz kedisi olmayan götçü dayı
-bkz götten sikerim ama sahiplemem diyen dayı
-bkz ergenleri kedi seven erkek diye kadnırıp sikmek
--->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
