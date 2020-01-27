@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-https://www.uludagsozluk.com/e/42764283/ enes abiğ
+https://www.uludagsozluk.com/e/42764283/ enes abiğ anamığ sik be abiğ
 https://www.uludagsozluk.com/e/42764251/ tıklağ be kankağ çok tatlı bibe kankağ
 bkz sen yerindee duuuuur karşında enes batuuuuuur
 bkz 3 kuşak dededen zengin fenerli
