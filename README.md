@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz kadir mısıroğlanın tamam abi kamalcı oldum abi demesi
 bkz kadir mısıroğlanın akıllanması
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-ak%C4%B1llanmas%C4%B1/
 bkz karısının kızını macuna yollamış erkek
