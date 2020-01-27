@@ -7,7 +7,8 @@
 
 <!--
 bkz pussy si olan erkek
-bkz barışs özcan vs ruhi çenet vs enes batur
+bkz barış özcanın marka olması
+bkz barış özcan vs ruhi çenet vs enes batur
 bkz yutupır seksi erkek vs yutpmayan seksi erkek
 bkz türkler için türkçe yutıp yayın yapan seksi türkçü erkek
 -->
