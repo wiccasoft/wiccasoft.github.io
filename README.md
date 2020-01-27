@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz keli parlayan kel vs siyah saçları parlayan türk
 https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz ciddi ciddi rte nin bld bşk nı olduğuna inanan tip
 bkz ciddi ciddi imamaoğlanın bld bşk olduğuna inanan tip 
