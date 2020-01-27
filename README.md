@@ -4,14 +4,14 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan
+bkz enes batur abi vs ruhi çenet abi
 https://www.uludagsozluk.com/e/42762365/ hangi oç yaptı bunu
 https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz 27 ocak 2020 galatbahçe açıklaması
 https://www.youtube.com/watch?v=BaTd_F2yIrU los angeles olalım
 https://www.youtube.com/watch?v=vrl8fzTXCYM fener olalım
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan
-bkz enes batur abi vs ruhi çenet abi
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
