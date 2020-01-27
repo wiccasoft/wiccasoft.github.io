@@ -5,6 +5,7 @@
 
 <!--
 https://www.youtube.com/watch?v=c7IoBRRBiX8
+https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it ogli
 bkz türklerin zeka seviyesini iki enes batur videosuyla çözmek
 https://www.uludagsozluk.com/k/kontrpiyede-kalman%C4%B1n-t%C3%BCrk%C3%A7esi/ bkz gerizekalı
 https://www.uludagsozluk.com/k/yolda-kad%C4%B1nlara-yer-veren-tatl%C4%B1%C5%9F-erkekler/ bkz ay hoşt ulan
