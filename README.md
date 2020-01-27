@@ -7,6 +7,7 @@
 
 <!--
 bkz pussy si olan erkek
+bkz atacücü yaşasaydı yutüp kanalı açardı diyen dayı
 bkz türkler için yutüp kanalı açmak
 bkz taksim dayıonın yutüp kanalı açması
 bkz barış özcanın klonuyum diyen erkek
