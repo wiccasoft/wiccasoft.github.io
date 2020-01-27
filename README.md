@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz 38 santim zıplayamam diyen türkler
 bkz türklerin ortalama zekasından 38 point fazla iq mun olması
 bkz zeka seviyeme yetişmesi için zıplaması gereken türkler
 bkz deprem çadırında türkleri sikiştiren suriyeli
