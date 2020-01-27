@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
+bkz deli megolaman bi arabın tüm müslümanları keklemesi
 bkz allahın hz muhammed için evreni yaratması
 bkz allah evreni benim yüzü suyum hürmetime yarattı diyen arap
 bkz ben peygamberim hazreti diyeceksiniz diyen adam
