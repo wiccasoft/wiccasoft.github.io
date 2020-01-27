@@ -12,6 +12,7 @@ bkz muhammede hazreti diyen şerefesizler
 bkz muhammedin götüne koyayım diyen dayı
 bkz kedisi olmayan götçü dayı
 bkz götten sikerim ama sahiplemem diyen dayı
+bkz ergenleri kedi seven erkek diye kadnırıp sikmek
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
