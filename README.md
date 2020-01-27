@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz yukarı ümraniyede arabasıyla imamoğlan yazan genco
 bkz imamoğlacıların çığ gibi büyümesini çekemeyen ak itler
 bkz imamaoğlacıların çığ gibi büyümesi
 bkz mucize doktordaki böcek suratlı ergenin imamoğlancıyım açıklaması
