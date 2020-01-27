@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkz türklerin internetin virüsleri olma ihtimali
+https://www.youtube.com/watch?v=jVEKDcDEN1w bkz türklerin internetin virüsleri olma ihtimali
 https://www.uludagsozluk.com/k/yolda-kad%C4%B1nlara-yer-veren-tatl%C4%B1%C5%9F-erkekler/ bkz ay hoşt ulan
 https://www.uludagsozluk.com/k/gay-olsan%C4%B1z-ilk-kime-vurdururdunuz/ bkz gaylerin ne kafası yaşaması
 https://www.youtube.com/watch?v=KXnzNbuV84c
