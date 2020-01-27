@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
-<!-- ,
+<!-- 
+bkz şişma özgübeği vs zayıf özgüveni
 bkz aptal insan ve fenerli insan
 bkz caner erkinin alper potuka çaktığı iddaları
 bkz cenar erkin alper potuk antrenamı eğlenceli dakikalar vidyosu
