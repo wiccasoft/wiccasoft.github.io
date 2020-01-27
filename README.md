@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz enes baturun şaka maka çocuğum yaşında olması
 bkz enes baturdan 20 yaş büyük olmam
 bkz sergen yalçın vs rıdvan dilmen
 bkz sen yerinde duuuuuuuur karşında enes batur
