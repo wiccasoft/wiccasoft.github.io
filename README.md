@@ -7,7 +7,7 @@
 
 <!--
 bkz kedi amı vs ergen götü
-bkz ben sana kedi gibi am olurum diyen ergen
+bkz ergen ibnelerin güldürmesi
 bkz bi kedim bile yok amuğu yiyim diyen erkek
 bkz ben kamalcı sikemem diyen vadan hayını dayı
 -->
