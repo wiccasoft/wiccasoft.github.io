@@ -6,7 +6,9 @@
 bkz gay cenneti türkiye
 bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
+bkz deprem paralarının depremzedelere gittiğini sanan mal
 bkz enkazdan çıkmak için fener ol 3188 e yolla diyen kadın
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1n%C4%B1n-elaz%C4%B1%C4%9F-i%C3%A7in-73-milyon-tl-toplamas%C4%B1/ 
 https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=gd bkz emcüklenesi erkek
 https://www.uludagsozluk.com/k/27-haziran-1998-adana-depremi/&w=bg bkz bi çomar daha ölmüş
 https://www.uludagsozluk.com/k/hazreti-muhammed-e-sade-muhammed-diyen-%C5%9Ferefsizler/&w=bg buralar karışır oğlanlar
