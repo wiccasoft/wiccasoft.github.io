@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 <!--
+bkz sana götten vermemek için vadan hayını olacam diyen kız
 bkz vadana hayınlık yapan kız
 bkz vadan hayını deyince amı kaşınan kız
 bkz kedi amı vs ergen götü
