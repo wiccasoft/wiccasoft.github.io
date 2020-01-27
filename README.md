@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz mustaf kamal ata cücü vs ekram mamikoğlan
 bkz ekrem imamaoğlanın babama söyleycem yaaaağ demesi
 bkz dilek imamaoğlanın kayınbabişkoma dokandırmam demesi
 bkz imamaoğlanın babası ölene kadar kafa sikeceği gerçeği
