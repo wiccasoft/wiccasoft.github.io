@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz sen yerindee duuuuur karşında enes batuuuuuur
 bkz 3 kuşak dededen zengin fenerli
 bkz vehbi koç vs rahmi koç vs sergen yalçın
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan
