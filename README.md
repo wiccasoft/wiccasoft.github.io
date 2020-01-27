@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz amerika telefonları kapatsa malak gibi kalacak türkler
 bkz green card hüseyin vs çaycı hüseyin
 https://www.youtube.com/watch?v=ZP2YtHCXM6E
 https://www.youtube.com/watch?v=jVEKDcDEN1w bkz türklerin internetin virüsleri olma ihtimali
