@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz imamaoğlan göbeği vs maçoğlan göbeği
 bkz şişman özgübeği vs zayıf özgüveni
 bkz aptal insan ve fenerli insan
 bkz caner erkinin alper potuka çaktığı iddaları
