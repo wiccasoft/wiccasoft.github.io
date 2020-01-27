@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz ekrem imamaoğlanın yasin okuyuşu
 bkz ekrem imamaoğlanın iyice taşşak oğlanı olması
 bkz ekrem imamoğlanın babasının fenerli çıkması
 bkz ekrem imama oğlanın babasının mansur yavaşla barıştırması
