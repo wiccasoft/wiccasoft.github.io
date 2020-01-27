@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 https://www.uludagsozluk.com/e/42765006/ bkz dayı götçü çıktı beyler
-https://www.uludagsozluk.com/k/turkiyede-e%C5%9Fcinsel-oranlar%C4%B1/ bkz %50
+https://www.uludagsozluk.com/k/turkiyede-e%C5%9Fcinsel-oranlar%C4%B1/ bkz %99
 bkz biy eykeğin gay olduğunu anlama yollayı
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-ibne-oldu%C4%9Funu-belli-eden-detaylar/
 bkz fetöşün kalkışma planlaması
