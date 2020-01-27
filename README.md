@@ -6,11 +6,9 @@ bkz bir soğuk bir sıcak davranan erkek. ılıktır evet
 bkz soğuk suyla yıkanan erkek. sıcaktır evet.
 bkz ılık suyla yıkanan erkek. ılıktır evet
 bkz kukusu olmayan erkek. vurduramıyordur evet
-bkz kukuuu olan erkek. vurduruyodur evet
-bkz erkek adam erkek. köpek besler evet
+bkz kukusu olan erkek. vurduruyodur evet
 bkz köpeğine siktiren erkek. adam gibi adamdır evet
-https://www.uludagsozluk.com/e/42766994/ ılıktır evet
-https://www.uludagsozluk.com/e/42767482/ m.facebook tıklağ kankağğ --->
+-->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
