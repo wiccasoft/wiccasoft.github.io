@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz bir erkeğin götünü parmaklayıp gay oldup olmadığı anlamak
 bkz götü parmaklamalık fenerli ciciş bulamamak
 bkz pes atılan ibnenin ultra geyseli çıkması
 bkz bir erkeği pes bahanesiyle sikmek
