@@ -3,8 +3,10 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
-<!-- 
-nkz ekrem imamaoğlanın babasının ekşiciler oynasın diye salması
+<!--
+bkz ekrem imamaoğlan iyice taşş oğlan olması
+bkz ekrem imamaoğlan derken ağızda oluşan kekremsi tad
+bkz ekrem imamaoğlanın babasının ekşiciler oynasın diye salması
 bkz kakacünün hiç sıçarken fotosunun olmaması
 bkz macun kaplıcalının kerizlerden toplanan 73 milyonun 70 milyonunu şeymaya yollaması
 bkz mankurt yavaş vs imamaoğlan v maçoğlan 
