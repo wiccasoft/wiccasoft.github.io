@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz kürtlerin kaşınması
 bkz kadri mısıroülanın türk önde türk ileri demesi
 bkz kadir mısıroğlanın depremden sonra türk olu türküm demesi
 bkz fesli bunağın özür kamalcılardan özür dileyip af dilemesi
