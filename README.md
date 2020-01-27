@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz kürtlükten aldığım tadı hiç bişeyden almadım
 bkz kürt olması en çok şaşrıtan ünlüler
 bkz orhan bencegay in sergeni tebrik etmesi
 bkz 27 ocak 2020 abdullah avcının sergenle anlaşması
