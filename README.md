@@ -5,18 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
-<!--
-bkz şanışerle barış özcanın sanki biraz şey olması
-bkz am sikmediğim vadan benim vadanım değildir diyen dayı
-bkz götten vermeyen kızı cimer şikayet etmem
-bkz sana götten vermemek için vadan hayını olacam diyen kız
-bkz kedi amı vs ergen götü
-bkz ergen ibnelerin güldürmesi
-bkz ergen ibnelerin amcı olduğu örenmesi
-bkz ruhi çenet varken barış özcan takip eden ergen
-bkz bi kedim bile yok amuğu yiyim diyen erkek
-bkz ben kamalcı sikemem diyen vadan hayını dayı
--->
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
