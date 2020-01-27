@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.uludagsozluk.com/e/42762365/ hangi oç yaptı bunu
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz 27 ocak 2020 galatbahçe açıklaması
 https://www.youtube.com/watch?v=BaTd_F2yIrU los angeles olalım
 https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
