@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz enes abiğnin yotüpü bırakmayacağm açıklaması
 bkz 27 ocak 2020 sergen yalçının futbolu bırakıyorum açıklaması
 bkz enes abiğnin amcası vs sergen yalçının yeğeni
 bkz abdullah avcının canerin gülüşünü düzeltmesi
