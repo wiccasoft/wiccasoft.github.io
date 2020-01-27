@@ -5,6 +5,7 @@
 
 <!--
 bkz abdullah avcı vs abdullah gül
+https://www.uludagsozluk.com/k/gay-olsan%C4%B1z-ilk-kime-vurdururdunuz/
 bkz sergen yalçın vs şeytan rıdvan
 bkz abdullah avcı yallah arabistana
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
