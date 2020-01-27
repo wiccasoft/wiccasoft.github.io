@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz bir erkeğin oğlan olduğunu anlamanın yolları
 bkz ibne nin arapça oğlan demek olması
 bkz erkeksiz yaşayamayan türkler
 bkz erkekçe vuruşamayan korkak erkek
