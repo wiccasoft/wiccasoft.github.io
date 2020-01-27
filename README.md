@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz fesli bunağın özür kamalcılardan dilemesi
 bkz kadir mısıroğlanın akıllanması
 bkz putinin uludagsözlük deep turkish web ten uzak durmalı açıklaması
 bkz kadir mısıroğlanın tamam abi kamalcı oldum abi demesi
