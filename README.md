@@ -6,6 +6,7 @@ bkz bana faydası olmayan köyün imamaoğlanını sikeyim
 bkz imamoğlan vs sokak köpekleri
 bkz bi kedim bile yok diyen taksim dayının dişi köpek araması
 https://www.uludagsozluk.com/k/hamile-b%C4%B1rakan-%C3%B6zel-penisler/ 
+bkz hazreti yarrak a yarrak diye şerefsizler
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
