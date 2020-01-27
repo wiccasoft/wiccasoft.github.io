@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz kılıçdaroğlan vs imamoğlan
 bkz götten siklen oğlanın imamaoğlan diye tutturması
 bkz imamoğlanın ananasının amına sokayım oç ları
 bkz imamoğlanın amınoğlu olduğu gerçeği
