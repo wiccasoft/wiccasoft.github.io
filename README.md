@@ -5,7 +5,7 @@
 <!-- 
 bkz gay cenneti türkiye
 bkz erkeksiz yaşayamayan türkler
-bkz erkekeçe vuruşamayan korkak erkek
+bkz erkekçe vuruşamayan korkak erkek
 https://www.uludagsozluk.com/k/babas%C4%B1-rahmetli-olmam%C4%B1%C5%9F-erkek/ bkz erkekçe vuruşamayan erkek
 https://eksisozluk.com/28-30-ocakta-erkek-yazarlari-mesaja-boguyoruz--4209564?a=popular orayı yıkarlar beyler
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-ibne-oldu%C4%9Funu-belli-eden-detaylar/
