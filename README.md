@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkzsuri oğlan türk kızı ilişkisi
 bkz eleziğ seferi bedeve diye eleziğe gitmek
 bkz koç türizmin fenerlilere elazüğ seferini bedeve yepmesi
 bkz suriyeli erkek götü vs türkiyeli ierkek götü
