@@ -8,6 +8,7 @@ bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
 bkz sergen yalçın vs rıza çalımbay
 bkz ben ekremoluyum diyen türk
+bkz ekremin dans ederken göbeğinin sallanması
 bkz ekrem imamağlanın olıyum diyen türk oğlu
 bkz acun ve ali koçun keklediği fakirler
 bkz ben türk oğlu türükün kafam da kara diyen türk
