@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz enes baturun saçını sarıya boyaması
 bkz enes batur vs ruhi çenet
 bkz sergen yalçın vs sermeyen yalçın
 bkz abdullah avcı vs abdullah gül
