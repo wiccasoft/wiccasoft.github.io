@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 <!--
+bkz kedisi olan ılık erkeğ
 bkz pussy si olan erkek
 bkz ergenlerle sikişmeyen dayının vatan gayını olması
 bkz vatba hayını deyince akla gelen ilk isim
