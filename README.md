@@ -4,10 +4,10 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz türklerin internetin virüsleri olma ihtimali
 bkz cerrahpaşa tıp bitirip kurtlar vadisiyle büyüyen ergenlerle muhattap olmak
 bkz green card hüseyin vs çaycı hüseyin
 https://www.youtube.com/watch?v=ZP2YtHCXM6E
-bkz türklerin internetin virüsleri olma ihtimali
 https://www.uludagsozluk.com/k/yolda-kad%C4%B1nlara-yer-veren-tatl%C4%B1%C5%9F-erkekler/
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz adam çaycı beyler
 https://www.uludagsozluk.com/k/arap-isimlerine-hay%C4%B1r/ bkz abdullah avcı yallah arabistana
