@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkzk tayyip abdullah yallah arabistana
+bkzk abdullah avcı yallah arabistana
 https://www.uludagsozluk.com/k/arap-isimlerine-hay%C4%B1r/ 
 https://www.youtube.com/watch?v=pHKlrP9Pte4
 bkz enes batura evlat büyüyünce ne olacan demek
