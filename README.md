@@ -7,6 +7,7 @@
 
 <!--
 bkz pussy si olan erkek
+bkz vatba hayını deyince akla gelen ilk isim
 bkz türkçe paylaşım yapmayanları cimere bildirmek
 bkz taksimin renkli siması cenkin yakında yutüp kanalı açacam demesi
 bkz atacücü yaşasaydı yutüp kanalı açardı diyen dayı
