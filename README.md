@@ -5,11 +5,8 @@
 
 <!--
 https://www.youtube.com/watch?v=pHKlrP9Pte4
-bkz enes baturua evlat büyüyünce ne olacan demek
+bkz enes batura evlat büyüyünce ne olacan demek
 bkz enes baturun şaka maka çocuğum yaşında olması
-bkz sergen yalçın vs rıdvan dilmen
-bkz sen yerinde duuuuuuuur karşında enes batur
-bkz enes batur kim amk diye aramaya üşenmek
 https://www.uludagsozluk.com/k/enes-batur-u-k%C4%B1skanmak/
 bkz enes baturun fan kitlesi vs cem yılmaz fan kitlesi
 bkz enes baturun zeka yaşının 13 olması
