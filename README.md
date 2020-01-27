@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz caner erkininin alper potukun götünü parmaklaması
 bkz komünik maçoğlanın imamaoğlana götün yiyosa tunceliye gel demesi
 bkz komümik maçolanın imamolana verdiği ayar
 bkz kardaşım köz getir seri
