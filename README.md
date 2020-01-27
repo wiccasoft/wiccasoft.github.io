@@ -6,6 +6,7 @@
 bkz gay cenneti türkiye
 bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
+bkz sergen yalçın vs rıza çalımbay
 bkz acun ve ali koçun keklediği fakirler
 bkz acunun şeyöaya deprem parasında bonus tokmakçı parası yollaması
 bkz deprem paralarının depremzedelere gittiğini sanan mal
