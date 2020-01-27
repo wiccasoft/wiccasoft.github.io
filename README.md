@@ -1,7 +1,10 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
-<!-- bana faydası olmayan köyün imamaoğlanını sikeyim-->
+<!-- 
+bkz bana faydası olmayan köyün imamaoğlanını sikeyim
+bkz imamoğlan vs sokak köpekleri
+-->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
