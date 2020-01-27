@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gizli gay cenneti türkiye
-bkz türkiyenin gay cenneti olma sebepleri
+bkz türkiyenin gay cenneti olma sebepleri https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.uludagsozluk.com/e/42765006/ bkz dayı götçü çıktı beyler
 https://www.uludagsozluk.com/k/turkiyede-e%C5%9Fcinsel-oranlar%C4%B1/ bkz %99
 bkz biy eykeğin gay olduğunu anlama yollayı
