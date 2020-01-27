@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkz imamaoğlanın kobe bryantı bahane ederek kayak yapması
+nkz imamaoğlanın babasının oğlunu savunması
+bkz imamoğlanın kobe bryantı bahane ederek kayak yapması
 bkz ekrem imamaoğlanın babası imammı sorunsalı
 bkz yarım sattir konuşuyoruz bi  ekrem imamağlan demedik
 bkz ekrem imamaoğlan derken ağızda oluşan kekremsi tad
