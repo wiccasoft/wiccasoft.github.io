@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
+bkz taksim de dolaşan erkek
 https://www.uludagsozluk.com/e/42766994/ ılıktır evet
 https://www.uludagsozluk.com/e/42767482/ m.facebook tıklağ kankağğ --->
 
