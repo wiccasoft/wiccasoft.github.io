@@ -2,13 +2,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
-bkz kuksuu olan erkek vurduruyodur evet
-bkz erkek adam erkek köpek besler evet
-bkz köpeğine siktiren erkek adam gibi adamdır evet
-bkz köpeği olan erkek ılık değildir ayol
-bkz dalgalı saçlı erkek ılıktır evet
-bkz saçı olan erkek ılıktır evet
-bkz taksim de dolaşan erkek ılıktır evet
+bkz kukusu olmayan erkek. vurduramıyordur evet
+bkz kukuuu olan erkek. vurduruyodur evet
+bkz erkek adam erkek. köpek besler evet
+bkz köpeğine siktiren erkek. adam gibi adamdır evet
 https://www.uludagsozluk.com/e/42766994/ ılıktır evet
 https://www.uludagsozluk.com/e/42767482/ m.facebook tıklağ kankağğ --->
 
