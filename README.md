@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!-- 
+bkz macun kaplıcalını kerizlerden toplanan 73 milyonun 70 milyonunu şeymaya yollaması
 bkz mankurt yavaş vs imamaoğlan v maçoğlan 
 bkz imamaoğlanın babasının oğlunun halı saha maçına izin vermesi
 bkz ergen irisi sitede oturan gencin imamaoğlanın oğlu çıkması
