@@ -2,12 +2,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
-bkz uludaki kızların hoşalnacağı alfa erkek olmak
-bkz uludaki kızların ota boka ılıktyır vurduruyodur yazması
-bkz ulucu kızların erkek beğenmemesi
 https://www.uludagsozluk.com/e/42766994/ ılıktır evet
 https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır vurduruyodur kankağğğ
 https://www.uludagsozluk.com/e/42767482/ m.facebook tıklağ kankağğ --->
+
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
