@@ -8,6 +8,7 @@ bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
 bkz sergen yalçın vs rıza çalımbay
 bkz acun ve ali koçun keklediği fakirler
+https://www.uludagsozluk.com/k/a%C5%9Fka-d%C3%BC%C5%9Ft%C3%BCm-diyem-t%C3%BCrk/ 
 bkz acunun şeyöaya deprem parasında bonus tokmakçı parası yollaması
 bkz deprem paralarının depremzedelere gittiğini sanan mal
 bkz enkazdan çıkmak için fener ol 3188 e yolla diyen kadın
