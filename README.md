@@ -2,7 +2,15 @@
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
-
+<!-- 
+https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=gd
+https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=gd
+https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=gd
+https://www.uludagsozluk.com/k/kobe-bryant-k%C3%BCrt-m%C3%BC/&w=gd
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yabanc%C4%B1-dil-bilmemesi/&w=gd
+https://www.uludagsozluk.com/k/k%C3%BCrt-olmas%C4%B1-en-%C3%A7ok-%C5%9Fa%C5%9F%C4%B1rtan-%C3%BCnl%C3%BCler/&w=gd
+https://www.uludagsozluk.com/k/angela-merkel-recep-tayyip-erdo%C4%9Fan-a%C5%9Fk%C4%B1/ 
+-->
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
