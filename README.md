@@ -3,7 +3,9 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
-bkz fetöşün kalkışma planlamaı
+bkz biy eykeğin gay olduğunu anlama yollayı
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-ibne-oldu%C4%9Funu-belli-eden-detaylar/
+bkz fetöşün kalkışma planlaması
 bkz fetöşün erdoyla barışmaya geliyorum demesi
 https://www.uludagsozluk.com/k/gay-erkek/&w=bg
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=gd
