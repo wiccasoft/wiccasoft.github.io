@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz ekrem imamoğlanı acun kaplıcalıyla karşılaştırmak
 bkz ekrem imamaoğlan vs acun kaplıcalı
 bkz ekrem imamaoğlanın babasının oğlundan yahuşuhlu olduğu iddaları
 bkz erkem imamaoplan ve mustafa ata cücü oğlan
