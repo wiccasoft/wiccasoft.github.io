@@ -6,6 +6,7 @@
 bkz gay cenneti türkiye
 bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
+bkz acun ve ali koçun keklediği fakirler
 bkz deprem paralarının depremzedelere gittiğini sanan mal
 bkz enkazdan çıkmak için fener ol 3188 e yolla diyen kadın
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1n%C4%B1n-elaz%C4%B1%C4%9F-i%C3%A7in-73-milyon-tl-toplamas%C4%B1/ 
