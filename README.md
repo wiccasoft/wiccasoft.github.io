@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz erke adam erkek köpek besler evet
 bkz köpeğine siktiren erkek adam gibi adamdır evet
 bkz köpeği olan erkek ılık değildir ayol
 bkz dalgalı saçlı erkek ılıktır evet
