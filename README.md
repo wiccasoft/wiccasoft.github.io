@@ -5,6 +5,7 @@
 <!-- 
 bkz gay cenneti türkiye
 bkz kürtlerin kaşınması
+bkz kadri mısıroğlanın depremden sonra en iyi kürt ölü kürttür demesi
 bkz kadri mısıroülanın türk önde türk ileri demesi
 bkz kadir mısıroğlanın depremden sonra türk olu türküm demesi
 bkz fesli bunağın özür kamalcılardan özür dileyip af dilemesi
