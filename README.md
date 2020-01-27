@@ -6,6 +6,7 @@
 <!--
 bkz sergen yalçın vs şeytan rıdvan
 bkz abdullah avcı yallah arabistana
+bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/arap-isimlerine-hay%C4%B1r/ 
 https://www.youtube.com/watch?v=pHKlrP9Pte4
 bkz enes batura evlat büyüyünce ne olacan demek
