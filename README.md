@@ -3,7 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
-bkz 41 yyaşında sonra ergenlerin güldürmesi
+bkz 41 yaşından sonra ergenlerin güldürmesi
 bkz boru sesli 41 yaşında babasıyla yaşayan ergen irisi bora
 https://www.uludagsozluk.com/k/boru-sesli-basketbol-a%C5%9F%C4%B1%C4%9F%C4%B1-%C5%9Fi%C5%9Fko-ergen/
 bkz imamaoğlanın babasının oğlum ekşicilerle oynayacak demesi
