@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkz enea batur kim amk diye aramaya üşenmek
+bkz sen yerinde duuuuuuuur karşında enes batur
+bkz enes batur kim amk diye aramaya üşenmek
 https://www.uludagsozluk.com/k/enes-batur-u-k%C4%B1skanmak/
 bkz enes baturun fan kitlesi vs cem yılmaz fan kitlesi
 bkz enes baturun zeka yaşının 13 olması
