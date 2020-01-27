@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz imamaoğlanın babasının oğlum ekşicilerle oynayacak demesi
 bkz imamaoğlanın oğlan çocuğu gibi olması
 bkz oğlanların olgun erkek merakı
 bkz cırt cırtlı cüzdanı olmayan 41 yaşında erkek
