@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz enes baturla aramızdaki ilişki
 bkz enes baturun saçını sarıya boyaması
 bkz enes batur vs ruhi çenet
 bkz sergen yalçın vs sermeyen yalçın
