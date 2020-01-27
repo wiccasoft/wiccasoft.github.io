@@ -3,7 +3,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42766994/ ılıktır evet
-https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır vurduruyodur kankağğğ
 https://www.uludagsozluk.com/e/42767482/ m.facebook tıklağ kankağğ --->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
