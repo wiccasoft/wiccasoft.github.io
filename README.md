@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
+bkz dayıların götçü olma sebebi
 bkz taksim dayının hz muhameddci çıkması
 bkz deli megolaman bi arabın tüm müslümanları keklemesi
 bkz allahın hz muhammed için evreni yaratması
