@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
-bkz kürtlerin kaşınması
+bkz fettullah gülenin erzincanlı hemşolarım için üzülmüyorum açıklaması
 bkz kadri mısıroğlanın depremden sonra en iyi kürt ölü kürttür demesi
 bkz kadri mısıroülanın türk önde türk ileri demesi
 bkz kadir mısıroğlanın depremden sonra türk olu türküm demesi
