@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz imamaoğlandan çıkmak için fener ol diyen kadın
 bkz imamaoğlan bomba gib geldi diye kuduran akitler
 bkz sarıgöllü emrahın imamaoğlan tayfasına kayması
 bkz taksimin renkli siması cenkin imamaoğlancıyım demesi
