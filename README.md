@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz ali koçun soyunma odasında futbolcularla terli terli sevişmesi
 bkz ali koçun volkan demirele götten verdiği iddası
 bkz alper potukun un selçuk inana gel sen ifenerli yapam demesi
 https://www.uludagsozluk.com/k/en-antipatik-tak%C4%B1m%C4%B1n-fenerbah%C3%A7e-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
