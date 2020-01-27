@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
+bkz hz mahmut vs hz şaban
 bkz lgbt nin kedisi olan erkek zaafı
 bkz kedim var diyen oğlanın kaldırması
 bkz pussysi olan kız
