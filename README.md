@@ -5,6 +5,7 @@
 <!-- 
 bkz gay cenneti türkiye
 bkz türklerin gaylik yapmaktan bi şey üretememesi
+https://www.uludagsozluk.com/k/babas%C4%B1-rahmetli-olmam%C4%B1%C5%9F-erkek/ emiklenecek erkek
 bkz türkiyenin gay cenneti olma sebepleri https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.uludagsozluk.com/e/42765006/ bkz dayı götçü çıktı beyler
 https://www.uludagsozluk.com/k/turkiyede-e%C5%9Fcinsel-oranlar%C4%B1/ bkz %99
