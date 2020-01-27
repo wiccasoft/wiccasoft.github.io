@@ -7,6 +7,7 @@
 
 <!--
 bkz pussy si olan erkek
+bkz taksim dayıonın yutüp kanalı açması
 bkz barış özcanın klonuyum diyen erkek
 bkz barış özcancılar vs ruhi çenetçiler
 bkz barış özcanın marka olması
