@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkz enes abiğnin amcası
+bkz enes abiğnin amcası vs sergen yalçının yeğeni
 bkz abdullah avcının canerin gülüşünü düzeltmesi
 bkz enes abiğ nin yeni vidyo atması kankağğ
 https://www.uludagsozluk.com/e/42764283/ enes abiğ anamığ sik be abiğ
