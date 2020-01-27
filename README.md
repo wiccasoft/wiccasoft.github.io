@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bjkz bilal oğlanın emine erdoğan la ok atmaya gitmesi
+bkz bilal oğlanın emine erdoğan la ok atmaya gitmesi
 bkz imamaoğlanın babasının kaymasına izin vermesi
 bkz imamaoğlanın babasının oğlunu savunması
 bkz imamoğlanın kobe bryantı bahane ederek kayak yapması
