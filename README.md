@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz fetöşün kalkışma planlamaı
 bkz fetöşün erdoyla barışmaya geliyorum demesi
 https://www.uludagsozluk.com/k/gay-erkek/&w=bg
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=gd
