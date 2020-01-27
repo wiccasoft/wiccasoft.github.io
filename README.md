@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz imamaoğlanın hiç sevdiceği olmamış oğlu
 bkz imamaoğlanın taşşak oğlanı olması
 bkz imamaoğlanın babasının oynasın diye salması
 bkz imamaoğlanın babasının ekşicilerle oynamasına izin vermesi
