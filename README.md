@@ -5,6 +5,7 @@
 <!-- 
 bkz gay cenneti türkiye
 bkz 38 santim zıplayamam diyen türkler
+bkz macun kaplıcalının fener olalım kampanyası
 bkz türklerin ortalama zekasından 38 point fazla iq mun olması
 bkz zeka seviyeme yetişmesi için zıplaması gereken türkler
 bkz deprem çadırında türkleri sikiştiren suriyeli
