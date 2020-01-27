@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz acu kaplıcalının fener ol kapmanyası
 bkz acun kaplıcalının rte ile maçı
 bkz ekrem imamaoğlanla bir gece vs recep tayyip erdovanla bir gece
 bkz ekrem imamoğlanı acun kaplıcalıyla karşılaştırmak
