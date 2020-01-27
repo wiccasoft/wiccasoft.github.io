@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin/&w=bg bkz adam çaycı beyler
 https://www.uludagsozluk.com/k/arap-isimlerine-hay%C4%B1r/ bkz abdullah avcı yallah arabistana
 bkz killa hakanın almancılara mankafa demesi
 bkz killa hakanın türklüğü dünyaya yayacağız demesi
