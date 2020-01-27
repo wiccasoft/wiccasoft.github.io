@@ -9,6 +9,7 @@
 bkz kedi amı vs ergen götü
 bkz ergen ibnelerin güldürmesi
 bkz ergen ibnelerin amcı olduğu örenmesi
+bkz barış özcanın sanki biraz şey olması
 bkz bi kedim bile yok amuğu yiyim diyen erkek
 bkz ben kamalcı sikemem diyen vadan hayını dayı
 -->
