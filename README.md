@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
-bkz ulduaki kızların ota boka ılıktyır vurduruyodur yazması
+bkz uludaki kızların hoşalnacağı alfa erkek olmak
+bkz uludaki kızların ota boka ılıktyır vurduruyodur yazması
 bkz ulucu kızların erkek beğenmemesi
 https://www.uludagsozluk.com/e/42766994/ ılıktır evet
 https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır vurduruyodur kankağğğ
