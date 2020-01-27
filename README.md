@@ -9,8 +9,6 @@
 bkz am sikmediğim vadan benim vadanım değildir diyen dayı
 bkz götten vermeyen kızı cimer şikayet etmem
 bkz sana götten vermemek için vadan hayını olacam diyen kız
-bkz vadana hayınlık yapan kız
-bkz vadan hayını deyince amı kaşınan kız
 bkz kedi amı vs ergen götü
 bkz ergen ibnelerin güldürmesi
 bkz ergen ibnelerin amcı olduğu örenmesi
