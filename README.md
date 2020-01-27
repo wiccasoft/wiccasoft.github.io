@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fenol-fidan/&w=bg 
 https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it ogli
 bkz türklerin zeka seviyesini iki enes batur videosuyla çözmek
