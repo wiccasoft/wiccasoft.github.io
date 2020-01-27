@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=gd
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen/&w=bg
 https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=gd
 https://www.uludagsozluk.com/k/kobe-bryant-k%C3%BCrt-m%C3%BC/&w=gd
+https://www.uludagsozluk.com/k/yolda-kad%C4%B1nlara-yer-veren-tatl%C4%B1%C5%9F-erkekler/
 https://www.uludagsozluk.com/k/do%C4%9Frular%C4%B1-yaz%C4%B1nca-provokat%C3%B6r-denilmesi/
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-pedofil-olmas%C4%B1/
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-ak%C4%B1llanmas%C4%B1/
