@@ -3,6 +3,8 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+https://www.uludagsozluk.com/k/hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-erkek/&w=bg emcüklenri olm bu
+https://www.uludagsozluk.com/k/mert-hakan-yanda%C5%9F/&w=bg adam yandaş beyler
 bkz cnz burakoğlanın fan peyçine imamaoğlancıların saldırması
 bkz czn burakoğlanın instasının çökmesi
 bkz cnz burakoğlanın çökmesi
