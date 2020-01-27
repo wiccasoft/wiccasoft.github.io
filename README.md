@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bz mansur yavaşın beni ankaradan ayıramazsınız tehdidi
+bkz ekrem imama oğlanın babasının mansur yavaşla barıştırması
+bkz mansur yavaşın beni ankaradan ayıramazsınız tehdidi
 bkz ekrem imamaoğlan iyice taşş oğlan olması
 bkz ekrem imamaoğlan derken ağızda oluşan kekremsi tad
 bkz ekrem imamaoğlanın babasının ekşiciler oynasın diye salması
