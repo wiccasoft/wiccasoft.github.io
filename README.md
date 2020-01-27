@@ -3,7 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
-bkz maçoülanın imamoğlan götün yiyosa tuncelispora gel demesi
+bkz maçolanın imamoğlana götün yiyosa tunceliye gel demesi
 bkz ali koçun soyunma odasında futbolcularla terli terli sevişmesi
 bkz ali koçun volkan demirele götten verdiği iddası
 bkz alper potukun un selçuk inana gel sen ifenerli yapam demesi
