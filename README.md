@@ -5,7 +5,7 @@
 
 <!--
 bkz abdullah avcı vs abdullah gül
-bkz yüzde yüz türküm diyen esmer çocuk
+bkz ben var yüzde yüz türk diyen sarışın adam
 https://www.uludagsozluk.com/k/gay-olsan%C4%B1z-ilk-kime-vurdururdunuz/
 bkz sergen yalçın vs şeytan rıdvan
 bkz abdullah avcı yallah arabistana
