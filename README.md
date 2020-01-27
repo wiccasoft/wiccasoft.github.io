@@ -1,38 +1,33 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
+
+<!-- bana faydası olmayan köyün imamaoğlanını sikeyim-->
+
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
+
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
+
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
+
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
-<!-- bana daydası olmayan köyün imamaoğlanını sikeyim-->
+
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-35-52.png)]( https://www.youtube.com/watch?v=IlsLUaccKWo&list=PLqtKSosRRdgHbhWROZK8Wi_QqDMpdkYzI&index=2 )
 
-
 [![Image](shadow/Screenshot_2020-01-24_14-42-44.png)]( https://www.youtube.com/watch?v=nFicXlvJBdo )
 
 [![Image](shadow/Screenshot_2020-01-24_13-36-50.png)]( https://www.youtube.com/watch?v=XGgrUslhJU8 )
 
-
 [![Image](shadow/Screenshot_2020-01-23_23-15-50.png)]( https://www.youtube.com/watch?v=W6qbHYRqkbU )
 
-
 [![Image](shadow/Screenshot_2020-01-23_20-55-14.png)]( https://www.youtube.com/watch?v=wBfA-C1gNF8 )
-
 [![Image](shadow/Screenshot_2020-01-23_17-08-18.png)]( https://www.youtube.com/watch?v=OUAuZnpoZ58 )
-
-
 [![Image](shadow/Screenshot_2020-01-22_18-13-51.png)]( https://www.youtube.com/watch?v=KM6SXusmzYw )
-
-
 [![Image](shadow/Screenshot_2020-01-22_19-42-25.png)]( https://www.youtube.com/watch?v=9L7mZH2u3Qc )
-
 [![Image](shadow/Screenshot_2020-01-22_13-52-17.png)]( https://www.youtube.com/watch?v=Dm6sSQ-UhJg )
-
-
 [![Image](shadow/Screenshot_2020-01-22_11-43-54.png)]( https://www.youtube.com/watch?v=JdhJq-53J-w )
 
 [![Image](shadow/Screenshot_2020-01-22_08-40-48.png)]( https://www.youtube.com/watch?v=eZP_Rv-mBwU )
