@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/hamile-b%C4%B1rakan-%C3%B6zel-penisler/
 bkz hazreti yarrak a yarrak diye şerefsizler
 bkz cübbelinni hazreti yarrak a yarrak demeyin demesi
 bkz muhammede hazreti diyen şerefesizler
+bkz muhammedin götüne koyayım diyen dayı
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
