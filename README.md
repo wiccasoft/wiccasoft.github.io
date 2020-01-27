@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz imamoğlanın menzil ve ismail ağaya güven olmaz demesi
 bkz menzil ve ismail ağanın imamaoğlanı cemaatten men etmesi
 bkz imamoğlanın benim aile elazılı zaten açıklaması
 bkz imamaoğlanın enkazdan çıkanlara yazin okuması
