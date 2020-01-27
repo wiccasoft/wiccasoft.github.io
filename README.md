@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz liseye amcığıyya helen kızın asıl amacı
+bkz kakacünün sıçarken fotosunun olmaması sorunsalı
 bkz bir soğuk bir sıcak davranan erkek. ılıktır evet
 bkz soğuk suyla yıkanan erkek. sıcaktır evet.
 bkz ılık suyla yıkanan erkek. ılıktır evet
