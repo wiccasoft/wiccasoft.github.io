@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz cırt cırtlı cüzdanı olmayan 41 yaşında erkek
 bkz ciddi ciddi galat ol kampanyası olmaması
 bkz ciddi ciddi fener ol kampanyasına para yollamak
 bkz ciddi ciddi fenrerin şampiyon olacağını sanmak
