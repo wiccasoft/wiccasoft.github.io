@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.uludagsozluk.com/k/gay-olsan%C4%B1z-ilk-kime-vurdururdunuz/ bkz gaylerin ne kafası yaşaması
 https://www.youtube.com/watch?v=KXnzNbuV84c
 bkz türklerin internetin virüsleri olma ihtimali
 bkz cerrahpaşa tıp bitirip kurtlar vadisiyle büyüyen ergenlerle muhattap olmak
