@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz 27 ocak 2020 abdullah avcının sergen yalçını eğitmesi
 bkz 27 ocak 2020 sergen yalçının antrenmanda attığı gol
 bkz 27 ocak 2020 abdulah avcı açıklamaları
 bkz 27 ocak 2020 ak partinin paylaştığı kobe fotosu
