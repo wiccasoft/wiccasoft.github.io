@@ -4,12 +4,12 @@
 
 <!--
 https://www.uludagsozluk.com/e/42762365/ hangi oç yaptı bunu
+https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz 27 ocak 2020 galatbahçe açıklaması
 https://www.youtube.com/watch?v=BaTd_F2yIrU los angeles olalım
 https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
 https://www.youtube.com/watch?v=vrl8fzTXCYM fener olalım
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=en 
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
 https://www.fenerbahce.org/haberler/futbol/2019/8/alper-potuk-tan-ornek-davranis 
 -->
