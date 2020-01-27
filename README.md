@@ -5,6 +5,7 @@
 
 <!--
 bkz hiç sevdiceği olmamı şeykek
+bkz ekrem imamaoğlanın virüs gibi dünyaya yayılması
 bkz ekrem imamaoğlanın kaldığı otelde vurdurması
 bkz hiç sevgilisi olammış eykeğin ekyem imamaoğlanın oğlu çıkması
 bkz ekyem imamoğlu vs ekşici ergenler
