@@ -6,26 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 <!--
+bkz bi kedim bile yok amuğu yiyim diyen erkek
 bkz ben kamalcı sikemem diyen vadan hayını dayı
-bkz taksim dayının götçü olduğu gerçeği
-bkz barış özcanı unscubscribe yapıyoruz kampanyası
-bkz köpeği olan erkeğ vs kedisi olan erkeğ
-bkz kedi olan ılık erkeğin evine gidmek
-bkz kedisi olan ılık erkeğ
-bkz pussy si olan erkek
-bkz ergenlerle sikişmeyen dayının vatan gayını olması
-bkz vatba hayını deyince akla gelen ilk isim
-bkz türkçe paylaşım yapmayanları cimere bildirmek
-bkz taksimin renkli siması cenkin yakında yutüp kanalı açacam demesi
-bkz atacücü yaşasaydı yutüp kanalı açardı diyen dayı
-bkz türkler için yutüp kanalı açmak
-bkz taksim dayıonın yutüp kanalı açması
-bkz barış özcanın klonuyum diyen erkek
-bkz barış özcancılar vs ruhi çenetçiler
-bkz barış özcanın marka olması
-bkz barış özcan vs ruhi çenet vs enes batur
-bkz yutupır seksi erkek vs yutpmayan seksi erkek
-bkz türkler için türkçe yutıp yayın yapan seksi türkçü erkek
 -->
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
