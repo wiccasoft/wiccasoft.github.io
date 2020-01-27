@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz ekrem imamaoğşlunun kayarmısın demesi
 bkz hiç ekrem imamoğlunu olmamış erkekle evlenmek
 bkz hiç ekrem imamaoğlanı olmamış erkek
 bkz recep tayyi erdoğan vs kamal kılcıçdaroığlan vs ekram imamoğlan
