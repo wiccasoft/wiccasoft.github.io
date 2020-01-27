@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!-- 
-nkz liseye deftewrsiz gelen kızı sikertmek
+bkz anaokulan deftersiz gelen kızı sıkıştıran dayı
+bkz liseye deftewrsiz gelen kızı sikertmek
 bkz kedi gibi sikemmi seni diyen dayı
 bkz kedi seven dayının götçü çıkması
 bkz bana faydası olmayan köyün imamaoğlanını sikeyim
