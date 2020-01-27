@@ -7,7 +7,7 @@
 https://www.uludagsozluk.com/e/42764283/ enes abiğ anamığ sik be abiğ
 https://www.uludagsozluk.com/e/42764251/ tıklağ be kankağ çok tatlı bibe kankağ
 bkz sen yerindee duuuuur karşında enes batuuuuuur
-bkz 3 kuşak dededen zengin fenerli
+bkz 3 kuşak dededen zengin fenerli şımarık velet
 bkz vehbi koç vs rahmi koç vs sergen yalçın
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan
 bkz enes batur abi vs ruhi çenet abi
