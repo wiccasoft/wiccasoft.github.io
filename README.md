@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz sergen yalçın vs rıdvan dilmen
 bkz sen yerinde duuuuuuuur karşında enes batur
 bkz enes batur kim amk diye aramaya üşenmek
 https://www.uludagsozluk.com/k/enes-batur-u-k%C4%B1skanmak/
