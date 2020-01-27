@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz caner erkinin alper potuka çaktığı iddaları
 bkz cenar erkin alper potuk antrenamı eğlenceli dakikalar vidyosu
 bkz maçolanın imamoğlana götün yiyosa tunceliye gel demesi
 bkz ali koçun soyunma odasında futbolcularla terli terli sevişmesi
