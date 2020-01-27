@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=BaTd_F2yIrU los angeles olalım
 https://www.youtube.com/watch?v=vrl8fzTXCYM fener olalım
 https://www.youtube.com/watch?v=9QOfjdHnN7A  tik tok mik tok yok 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan
+bkz enes batur abi vs ruhi çenet abi
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
