@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz ibne nin arapça oğlan demek olması
 bkz erkeksiz yaşayamayan türkler
 bkz erkekçe vuruşamayan korkak erkek
 https://www.uludagsozluk.com/k/babas%C4%B1-rahmetli-olmam%C4%B1%C5%9F-erkek/ bkz erkekçe vuruşamayan erkek
