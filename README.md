@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=gd
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=gd
 https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=gd
 https://www.uludagsozluk.com/k/kobe-bryant-k%C3%BCrt-m%C3%BC/&w=gd
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-pedofil-olmas%C4%B1/
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-nun-ak%C4%B1llanmas%C4%B1/
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-ter%C3%B6ristlerle-%C3%A7ekilmi%C5%9F-resimleri/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yabanc%C4%B1-dil-bilmemesi/&w=gd
