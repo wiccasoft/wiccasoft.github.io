@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz rte nin damat geline kayacak tabi demesi
 bkz bilal oğlanın emine erdoğan la ok atmaya gitmesi
 bkz imamaoğlanın babasının kaymasına izin vermesi
 bkz imamaoğlanın babasının oğlunu savunması
