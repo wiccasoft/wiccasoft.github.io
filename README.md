@@ -3,30 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
-<!--
-bkz rte nin damat geline kayacak tabi demesi
-bkz bilal oğlanın emine erdoğan la ok atmaya gitmesi
-bkz imamaoğlanın babasının kaymasına izin vermesi
-bkz imamaoğlanın babasının oğlunu savunması
-bkz imamoğlanın kobe bryantı bahane ederek kayak yapması
-bkz ekrem imamaoğlanın babası imammı sorunsalı
-bkz yarım sattir konuşuyoruz bi  ekrem imamağlan demedik
-bkz ekrem imamaoğlan derken ağızda oluşan kekremsi tad
-bkz ekrem imamaoğlanın ekrem imamaoğlan olması
-bkz ekrem imamaoğşlunun kayarmısın demesi
-bkz hiç ekrem imamoğlunu olmamış erkekle evlenmek
-bkz hiç ekrem imamaoğlanı olmamış erkek
-bkz recep tayyi erdoğan vs kamal kılcıçdaroığlan vs ekram imamoğlan
-bkz hiç sevdiceği olmamı şeykek
-bkz ekrem imamaoğlanın virüs gibi dünyaya yayılması
-bkz ekrem imamaoğlanın kaldığı otelde vurdurması
-bkz hiç sevgilisi olammış eykeğin ekyem imamaoğlanın oğlu çıkması
-bkz ekyem imamoğlu vs ekşici ergenler
-bkz ekyem imamaoğlanın iyice taşşak oğlanı olmaşı
-bkz ekyem imamaolunu babasının ekşcileyle oynamaşına izin veymeşi
-bkz ekyem imamaoğlu benim babam diyen ergen
-bkz ekyem imamaoğlu amca sayesinde yüzüğümüz hizmey göyecek diyen ergen
-bkz hiç devdiceği olmamış sitede oturan basketbolcu ergen irisi eykek -->
+
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
 
 [![Image](shadow/Screenshot_2020-01-24_14-15-15.png)]( https://www.youtube.com/watch?v=qZowK0NAvig  )
