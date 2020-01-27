@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz ılık suyla yıkanan erkek. ılıktır evet
 bkz kukusu olmayan erkek. vurduramıyordur evet
 bkz kukuuu olan erkek. vurduruyodur evet
 bkz erkek adam erkek. köpek besler evet
