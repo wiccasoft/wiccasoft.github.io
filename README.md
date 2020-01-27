@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz macun kaplıclının deprem için toplanan 73 milyon liranın 70 nilyonunu şeymaya yollaması
 bkz suri oğlanları meşaj yağmuruna tutuyoruk kampanyası
 bkz suri oğlanların türk oğlanalrdan yahuşuhlu olması
 bkz bayramda suri oğlanların elini öpmek
