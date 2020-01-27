@@ -4,8 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
-bkz türkleri gazlamak için rise of empires ottomans yayınlamak
-bkz türklerin süper güç olmasını çekmeyen dünya
+bkz kardaşım köz getir seri
 bkz enkazdan çıkmak için fener ol 3188 e yolla diyen kadın
 bkz fettullah gülenin erzincanlı hemşolarım için üzülmüyorum açıklaması
 bkz kadri mısıroğlanın depremden sonra en iyi kürt ölü kürttür demesi
