@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 <!--
+bkz ben sana kedi gibi am olurum diyen ergen
 bkz bi kedim bile yok amuğu yiyim diyen erkek
 bkz ben kamalcı sikemem diyen vadan hayını dayı
 -->
