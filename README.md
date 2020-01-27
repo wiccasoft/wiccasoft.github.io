@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz hiç ekrem imamaoğlanı olmamış erkek
 bkz recep tayyi erdoğan vs kamal kılcıçdaroığlan vs ekram imamoğlan
 bkz hiç sevdiceği olmamı şeykek
 bkz ekrem imamaoğlanın virüs gibi dünyaya yayılması
