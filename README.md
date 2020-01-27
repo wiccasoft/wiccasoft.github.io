@@ -3,6 +3,8 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
+bkz alper potukun un selçuk inana gel sen ifenerli yapam demesi
+https://www.uludagsozluk.com/k/en-antipatik-tak%C4%B1m%C4%B1n-fenerbah%C3%A7e-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
 https://www.uludagsozluk.com/k/hamile-kalmak-istemek-ama-koci%C5%9Fin-olmamas%C4%B1/&w=bg 
 bkz caner erkininin alper potukun götünü parmaklaması
 bkz komünik maçoğlanın imamaoğlana götün yiyosa tunceliye gel demesi
