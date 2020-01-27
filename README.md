@@ -8,6 +8,7 @@ bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
 bkz sergen yalçın vs rıza çalımbay
 bkz ben ekremoluyum diyen türk
+bkz ekrem immaoğlanın babasından ekremi istemek
 bkz ekrem imamoğlanın babaını oğlan dans ediy ne var demesi
 bkz ekremin dans ederken göbeğinin sallanması
 bkz ekrem imamağlanın olıyum diyen türk oğlu
