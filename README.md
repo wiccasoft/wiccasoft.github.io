@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz karısının kızını macuna yollamış erkek
 bkz 38 santim zıplayamam diyen türkler
 bkz macun kaplıcalının gavat olduğu iddaları
 bkz macun kaplıcalının fener olalım kampanyası
