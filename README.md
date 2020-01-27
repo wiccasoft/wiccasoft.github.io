@@ -11,6 +11,7 @@ bkz kürtlükten aldığım tadı hiç bişeyden almadım
 bkz kürt olması en çok şaşrıtan ünlüler
 bkz orhan bencegay in sergeni tebrik etmesi
 bkz 27 ocak 2020 abdullah avcının sergenle anlaşması
+https://eksisozluk.com/28-30-ocakta-erkek-yazarlari-mesaja-boguyoruz--4209564?a=popular bkz hayallerde yaşıyor bazı ibneler
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen karar ver
 bkz 27 ocak 2020 abdullah avcının sergen yalçını salması
 bkz 27 ocak 2020 sergen yalçının antrenmanda attığı gol
