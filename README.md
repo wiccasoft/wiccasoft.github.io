@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz ekrem imamaoğlan derken ağızda oluşan kekremsi tad
 bkz ekrem imamaoğlanın ekrem imamaoğlan olması
 bkz ekrem imamaoğşlunun kayarmısın demesi
 bkz hiç ekrem imamoğlunu olmamış erkekle evlenmek
