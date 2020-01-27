@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz ekyem imamaolunu babasının ekşcileyle oynamaşına izin veymeşi
 bkz ekyem imamaoğlu benim babam diyen ergen
 bkz ekyem imamaoğlu amca sayesinde yüzüğümüz hizmey göyecek diyen ergen
 bkz hiç devdiceği olmamış sitede oturan basketbolcu ergen irisi eykek -->
