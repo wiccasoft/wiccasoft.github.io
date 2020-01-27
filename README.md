@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+https://www.uludagsozluk.com/k/yolda-kad%C4%B1nlara-yer-veren-tatl%C4%B1%C5%9F-erkekler/ bkz ay hoşt ulan
 bkz amerika telefonları kapatsa malak gibi kalacak türkler
 bkz green card hüseyin vs çaycı hüseyin
 https://www.youtube.com/watch?v=ZP2YtHCXM6E
