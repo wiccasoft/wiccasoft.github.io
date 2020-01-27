@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz sarıgöllü emrahın imamaoğlan tayfasına kayması
 bkz taksimin renkli siması cenkin imamaoğlancıyım demesi
 bkz yukarı ümraniyede arabasıyla imamoğlan yazan genco
 bkz imamoğlacıların çığ gibi büyümesini çekemeyen ak itler
