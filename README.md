@@ -6,6 +6,7 @@
 <!-- 
 bkz mankurt yavaş vs imamaoğlan v maçoğlan 
 bkz imamaoğlanın babasının oğlunun halı saha maçına izin vermesi
+bkz ergen irisi sitede oturan gencin imamaoğlanın oğlu çıkması
 -->
 
 [![Image](shadow/Screenshot_2020-01-22_18-14-17.png)]( https://www.youtube.com/watch?v=69FlmkZ23zM  )
