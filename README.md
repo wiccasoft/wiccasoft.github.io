@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
-bkz hiç sevdieği olmamı şeykek
+bkz hiç sevdiceği olmamı şeykek
+bkz hiç sevgilisi olammış eykeğin ekyem imamaoğlanın oğlu çıkması
 bkz ekyem imamoğlu vs ekşici ergenler
 bkz ekyem imamaoğlanın iyice taşşak oğlanı olmaşı
 bkz ekyem imamaolunu babasının ekşcileyle oynamaşına izin veymeşi
