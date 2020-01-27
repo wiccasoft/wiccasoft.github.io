@@ -7,6 +7,7 @@ bkz gay cenneti türkiye
 bkz kardaşım köz getir seri
 bkz fesli bunağın köz istemesi
 bkz enkazdan çıkmak için fener ol 3188 e yolla diyen kadın
+https://www.uludagsozluk.com/k/hazreti-muhammed-e-sade-muhammed-diyen-%C5%9Ferefsizler/&w=bg buralar karışır oğlanlar
 bkz fettullah gülenin erzincanlı hemşolarım için üzülmüyorum açıklaması
 bkz kadri mısıroğlanın depremden sonra en iyi kürt ölü kürttür demesi
 bkz kadri mısıroğlanın türk önde türk ileri demesi
