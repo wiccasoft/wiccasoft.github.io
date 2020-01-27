@@ -5,6 +5,7 @@
 <!-- 
 bkz gay cenneti türkiye
 bkz rise of empires ottomans
+bkz türklerin süper güç olmasını çekmeyen dünya
 bkz enkazdan çıkmak için fener ol 3188 e yolla diyen kadın
 bkz fettullah gülenin erzincanlı hemşolarım için üzülmüyorum açıklaması
 bkz kadri mısıroğlanın depremden sonra en iyi kürt ölü kürttür demesi
