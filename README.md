@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz sitede oturan ergen irisi basketçinin imamaoğlanın oğlu çıkması
 bkz libyayaı kaç saate alrııh sorunsalı
 bkz libyanın asgari yardım dilenmesi
 bkz imamoğlanın hiç sevdiceği olmamış oğlu
