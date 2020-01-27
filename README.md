@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA )
 
 <!--
+bkz barış özcanı unscubscribe yapıyoruz kampanyası
 bkz köpeği olan erkeğ vs kedisi olan erkeğ
 bkz kedi olan ılık erkeğin evine gidmek
 bkz kedisi olan ılık erkeğ
