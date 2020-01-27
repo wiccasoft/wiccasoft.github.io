@@ -4,8 +4,9 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
-bkz fes atılan ibnenin götünü parmaklamak
-bkz bir erkeğe yaklaşıp kulağına fes atalım mı demek
+bkz bir erkeği pes bahanesiyle sikmek
+bkz pes atılan ibnenin götünü parmaklamak
+bkz bir erkeğe yaklaşıp kulağına pes atalım mı demek
 bkz bir erkeğin oğlan olduğunu anlamanın yolları
 bkz ibne nin arapça oğlan demek olması
 bkz erkeksiz yaşayamayan türkler
