@@ -7,7 +7,6 @@
 
 <!--
 bkz şanışerle barış özcanın sanki biraz şey olması
-bkz şanışerin barış özcanı takip etmesi
 bkz am sikmediğim vadan benim vadanım değildir diyen dayı
 bkz götten vermeyen kızı cimer şikayet etmem
 bkz sana götten vermemek için vadan hayını olacam diyen kız
