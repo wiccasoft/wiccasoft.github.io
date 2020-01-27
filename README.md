@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!-- 
 bkz gay cenneti türkiye
+bkz enkazdan çıkmak için fener ol diyen kadın
 bkz fettullah gülenin erzincanlı hemşolarım için üzülmüyorum açıklaması
 bkz kadri mısıroğlanın depremden sonra en iyi kürt ölü kürttür demesi
 bkz kadri mısıroğlanın türk önde türk ileri demesi
