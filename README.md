@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-26_15-17-19.png)]( https://www.youtube.com/watch?v=BaTd_F2yIrU )
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 <!--
+bkz basketbol aşığı 20 yaşında ergen irisi baran
 bkz imamaoğlanın babasının oğlum ulucularla oynasın demesi
 bkz ergenlerin 1979 li olduğuma inanmaması
 bkz basket bol aşığı 1978 li sitede babsişkosuyla oturan ergen irisi
