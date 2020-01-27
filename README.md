@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-26_09-27-28.png)]( https://www.youtube.com/watch?v=TPPPmCbDEdA  )
 
 <!--
+bkz abdullah avcı vs abdullah gül
 bkz sergen yalçın vs şeytan rıdvan
 bkz abdullah avcı yallah arabistana
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
