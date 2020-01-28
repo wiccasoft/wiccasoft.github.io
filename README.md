@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz kedisi olan erkek vs taytı olan erkek
 bkz kukusu olan kızları düşürmek için kedi olan erkek gibi davranan erkek
 bkz kedisi olan erkeğin trbünlere oynaması
 bkz binlerce akut köpeğinin kedisi olan erkek kadar faydası yok
