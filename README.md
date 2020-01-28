@@ -5,6 +5,7 @@ bkz atılkurt diyince ayılan kurt
 bkz eve akut köpeği alan erkek
 bkz korkudan 5 tane akut köpeği almak
 bkz binlerce şeyhin akut kadda faydası yok
+bu şıh dediğiniz gavatın dinden de haberi yok
 https://www.uludagsozluk.com/k/99-depremi-vs-2020-depremi/ 
 bkzk imamoglanın kamerasından 99 depremi
 bkz mushin yazıcıoğlunu helikopterini abdullah avcının düşürmesi
