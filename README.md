@@ -6,6 +6,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz menzil ol kampanyası
 bkz menzilbahçe vs galatbahce
+bkz madem kural hatası var niye menzilciler vara gitmiyo
 https://www.youtube.com/watch?v=XCvCoXtXu00 zuhahahaha
 bkz milyonlarca menzilbahcelinni aklıyla dalga geçmek 
 bkz 28 ocak 2020 menzilbahçe açıklaması
