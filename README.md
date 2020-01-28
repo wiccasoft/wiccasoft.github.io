@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz erkekler entry girmiyoyus kampanyası
+bkz erkeklerin neden kedisi vay soyunsalı
+bkz erkeklere entry girmiyoyus kampanyası
 bkz entry girilen erkekin şımarması
 bkz erkeki olan tayt vs kedisi olan erkek
 bkz taytı olan erkek vs kedisi olan erkek
