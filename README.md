@@ -4,8 +4,7 @@
 bkz baba akü yok
 bkzher olayı şeyhlere bağlayan şempanzeler
 bkz benzinciler vs menzilciler
-bkz kobe bryantı şeyhler kadar faydası yoh amuga gopyymi
-bkz konuyu şeyhlere bağlama eşihi 
+bkz her olaydan sonra konuyu şeyhlere bağlama eşihi 
 bkz tc şeyh şıhların ülçesi olmaz mçe atatçüç
 bkz ekşideki tek hücreli canlıların faydası vs uludaki tek hücrelilerin faydası
 bkz binlerce şeyhin akut köpeği kadar faydası yok ay hoş ulan aamına kodumm
