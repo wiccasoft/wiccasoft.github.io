@@ -7,6 +7,7 @@ bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz feslinin düşürdüğü helikopterin güldürmesi
 bkz what mustafa kamal atacücü do
+bkz aydemir akbaşın galatsarayai çin karıyı satarım demesi
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg bkz aşk için karıyı satatım
 bkz mustafa kamal ata cücü deyince akla gelen ilk vatanperver
 https://www.uludagsozluk.com/k/k%C3%BCrt-isyanlar%C4%B1/&w=bg bkz mustafa kamal ata cücünün kızdığı isyanlar
