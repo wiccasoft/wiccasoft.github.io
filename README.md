@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kızı kediyle oyalayan erkek
 bkz erkeklerin kuku için kedisi olduğu gerçeği
 bkz kukusu olan tatlişko erkek vs kukusu olmayan erkek
 bkz erkeklerin kedisi olarak ne yapmaya çalıştığı sorunsalı
