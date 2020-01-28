@@ -6,6 +6,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg
+https://eksisozluk.com/direk-dansi-yapan-turbanli-abla--6341233?a=popular
 bkz şeyma subaşı direk dansı vs esra albayrak direk dansı
 bkz esra albyarakın direk dansı yapması
 https://www.youtube.com/watch?v=N4_nQF-CpBY 
