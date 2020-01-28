@@ -5,8 +5,8 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz atıl kurt diyince atılmayan kurt
-bkz benim niye kurtum yok diyo
 https://www.youtube.com/watch?v=QmH-anEoBYE
+bkz benim niye kurtum yok diyo
 https://www.instagram.com/p/B7e8p-ipX8S/
 https://www.youtube.com/watch?v=S-m1WImjqsE bu nedir lo
 https://www.facebook.com/watch/?v=825028694513117 bu nedir lo
