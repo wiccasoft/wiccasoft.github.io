@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 100 yıldır kakacücüyü öven adam
 bkz türklerin kakacücüyü çok abartmasının zararları
 bkz kakacücü ölmedi mi hala sorunsalı
 bkz facebooktaki teyzeler ölmedi mi hala sorunsalı
