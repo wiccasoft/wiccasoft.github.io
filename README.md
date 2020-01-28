@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz eve akut köpeği alan erkek
 bkz binlerce şeyhin akut kadda faydası yok
 https://www.uludagsozluk.com/k/99-depremi-vs-2020-depremi/ 
 bkzk imamoglanın kamerasından 99 depremi
