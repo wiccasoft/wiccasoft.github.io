@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz benzinciler vs menzilciler
+bkz tc şeyh şıhların ülçesi olmaz mçe atatçüç
 bkz ekşideki tek hücreli canlıların faydası vs uludaki tek hücrelilerin faydası
 bkz binlerce şeyhin akut köpeği kadar faydası yok ay hoş ulan aamına kodumm
 bkz gavsını torununun aküt köpeği alması
