@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://eksisozluk.com/inanilmaz-tatli-gogusleri-olan-dost--1640635 bkz rte
 bkz recep tayyip erdoğan varken façebuk twittebook instagram da takılan ezik
 bkz recep tayyip erdoğan premiyum amunüyüm üyeliği olmayan ezük
 bkz gss prim borcu için niye galat ol kampanyası yok sorunsalı
