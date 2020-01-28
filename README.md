@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz sayko kemal vs imamoğlan
+https://www.youtube.com/watch?v=S-m1WImjqsE 
 bkz biy eykeğin eykek olduğunu anlamanın yollayi
 bkz biy eykeği yuytupıy diye semek
 bkz biy eykeğin kedisi vay diye sevmek
