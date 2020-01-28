@@ -6,33 +6,8 @@ bkz türklerin erkek merkezli yaşam sebepleri
 bkz türkler neden bu kadar erkek takıntılı sorunsalı
 bkz erkeği olan kedi vs kedisi olan erkek
 bkz amcığı olan erkek vs kukusu olan erkek
-bkz recep tayyi perdoğan vs mustafa kamal atacücdoğan
-bkz recep tayyip erdoğan 2. atacüc mü sorunsalı
-bkz atacücün tyelefonu olsa android mi olurdu ios mu sorunsalı
-bkz atacüc kedi olan erkeke ılık mı derdi sorunsalı
-bkz atacüc neden kargaları kovalıyordu sorunsalı
-bkz atacüc ikizler burcumuydu sorunsalı
-bkz atacüc neden istikbal göklerddir dedi sorunsalı
-bkz atacücün boyu 167 mi 171 mi sorunsalı
-bkz atacüc 167 boyla nasıl subay oldu sorunsalı 
-bkz zübeyde hanım atacücüün gerçek annesi mi sorunsalı
-bkz atacüc cüclerin atasımıydı sorunsalı
-bkz atacüc osorurmuydu sorunsalı
-bkz atacücün doğum günü neden belli değil sorunsalı
 bkz atacüce laf etme sebepsiz anan kimdi bilemezdin şerefsiz
-bkz atacücü zübeyde hanım mı doğurdu sorunsalı
-bkz atacücü yaşasaydı sevgilisini ne diye kaydederdi sorunsalı
-bkz atacücüc türkleri niye bu kadar övdü sorunsalı
-bkz atacücüc yonanları niye denize döktü sorunsalı
-bkz atacücüc fasulye pilav yer miydi sorunsalı
-bkz atacücüc neden samsunga ayak bastı sorunsalı
-bkz atacücüe harcadığımız zaman ne çabuk geçti sorunsalı
-bkz atacücüc ün doğduğu saatte dolunay var mıydı sorundalı
-bkz atacücüc hangi saatte doğdu sorunsalı
 bkz atacücüc sıçaarmıydı sorunsalı
-bkz atacücüc ismet cücüyle neden darıldı sorunsalı
-bkz atacücünün cücüler ilk hedefiniz cücükler demesi
-bkz atacücünün süper bişi olması sorunsalı
 bkz atacücü neden doğdu sorunsalı
 bkz kişi merkezli ideolojilerin asıl amacı
 bkz kamalizm vs recebizm
