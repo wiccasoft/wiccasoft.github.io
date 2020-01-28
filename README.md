@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz erkeği olan kedi vs kedisi olan erkek
 bkz amcığı olan erkek vs kukusu olan erkek
 bkz recep tayyi perdoğan vs mustafa kamal atacücdoğan
 bkz recep tayyip erdoğan 2. atacüc mü sorunsalı
