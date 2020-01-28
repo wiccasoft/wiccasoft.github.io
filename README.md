@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz benim niye şeyhim yok diyo
+bkz şeyhlerin akut köpeklerin protesto etmesi
 bkz her olayı şeyhlere bağlayan şempanzeler
 bkz benzinciler vs menzilciler
 bkz her olaydan sonra konuyu şeyhlere bağlama eşihi 
