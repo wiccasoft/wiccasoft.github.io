@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz entry girilen erkekin şımarması
 bkz erkeki olan tayt vs kedisi olan erkek
 bkz taytı olan erkek vs kedisi olan erkek
 bkz babet çorabı olan erkek vs taytı olan erkek
