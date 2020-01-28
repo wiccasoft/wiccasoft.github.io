@@ -3,7 +3,7 @@
 
 <!--
 bkz kedi olan erkek vs taytı olan erkek 
-bkz kedisi olamayn gay vs kedisi olan gay
+bkz bir erkeğin kedisi olup olmadığını anlama yolları
 -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
