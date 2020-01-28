@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+https://www.youtube.com/watch?v=S-m1WImjqsE bu nedir lo
 https://www.facebook.com/watch/?v=825028694513117 bu nedir lo
 bkz şeyh zındık efendi hazretlerinin kedisi
 bkz şeyh zındık efendi hz lerinin madem faydamız yok niye inkar ediyosunuz demesi
