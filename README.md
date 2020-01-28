@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz instagram kullanmayan erkek vs twitter kullanan erkek
 bkz o şimdi asker canı neler ister
 bkz vadansever erkekleri meşaj yağmuruna tutuyorus kampanyası
 bkz mısır arpaoğlunun akıllanması vadansever olması
