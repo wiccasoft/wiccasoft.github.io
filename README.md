@@ -4,6 +4,7 @@
 <!--
 bkz kedi olan erkek vs taytı olan erkek 
 bkz bir erkeğin kedisi olup olmadığını anlama yolları
+bkz kedisi olan erkekleri meşaj yağmuruna tutuyoruz kampnayası
 -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
