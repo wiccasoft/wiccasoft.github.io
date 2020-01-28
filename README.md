@@ -1,7 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
-bkz iki bina yıkıldı diye kafa siken türkler
+bkz iki bina yıkıldı diye beş gündür kafa siken türkler
 bkz acunun topladığı 74 milyon nereye gitti sorunsalı
 bkz galat ol kampanyası neden yok sorunsalı
 bkz fener ol kampanyası vs akut ol kampnayası
