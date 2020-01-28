@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz 28 ocak 2020 ultra aslan açıklaması
 bkz ultrgeyseliler vs menzilciler
 bkz bi şempanze neden galatbahceli olmak ister
 bkz hagi vs alex vs sergen
