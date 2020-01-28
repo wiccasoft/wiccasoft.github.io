@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz feslinin türbanlılar direk dansı yapamaz mı diye savunması
 bkz türbanlıların direk dansına sarmaları
 bkz şeyma subaşının direk dansının türbanlı bacının dansından dahah güzel olduğu iddası
 bkz direkt dansı yapan türbanlı abla
