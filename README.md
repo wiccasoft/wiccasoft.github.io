@@ -7,6 +7,7 @@ bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz feslinin düşürdüğü helikopterin güldürmesi
 bkz what mustafa kamal atacücü do
+https://www.uludagsozluk.com/k/k%C3%BCrt-isyanlar%C4%B1/&w=bg bkz mustafa kamal ata cücünün kızdığı isyanlar
 bkz kaklıstlar yüzünden mustafa kamal ata cücüden tiksinmek
 bkz recep tayyip erdoğanın ikinci ata cücüyse 2 . rte kim olacak sorunsalı
 bkz mustaf kamal ata cücü neden ismete sayanora alamdı sorunsalı
