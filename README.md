@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 2020 yılında atacxücünü doüumn günü neden belli değil sorunsalı diye olmayan kafasını yoran ergen
 bkz kişi merkezli ideolojilerin asıl amacı
 bkz kamalizm vs recebizm
 bkz 100 yıldır kakacücüyü öven adam
