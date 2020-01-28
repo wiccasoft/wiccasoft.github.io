@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ekşi hesabı satan olursa alırım
 bkz ekşide yazar olsam çok komik başlıklar açacağım gerçeği
 bkz facebooktaki teyzeler ölmedi mi hala sorunsalı
 bkz 10 senedir erkekleri mesaja boğamayan ekşici kızlar
