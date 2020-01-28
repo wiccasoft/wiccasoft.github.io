@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz şeyhin yağmur duvasına çıkması
 bkz bana faydası olmayan şeyhi dikeyim diyen dayı
 bkz binlerce badeci şeyh vs akut köpeği
 bkz kadir mısıroğlanın akut köpeği alması
