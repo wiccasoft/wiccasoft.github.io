@@ -5,7 +5,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz hagi vs alex vs sergen
 bkz binlerce dangöz var
-bkz şeyhin kamerasında 99 depremi
+bkz şeyhin kamerasından 99 depremi
 bkz atıl kurt diyince atılan türkçü köpek
 bkz mankurtların binlerce şeyh kadar faydası var
 bkz atatürkçülerin kızak hayvanıyız biz demesi
