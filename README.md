@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacücüc ün doğduğu saatte dolunay var mıydı sorundalı
 bkz atacücüc hangi saatte doğdu sorunsalı
 bkz atacücüc sıçaarmıydı sorunsalı
 bkz atacücüc ismet cücüyle neden darıldı sorunsalı
