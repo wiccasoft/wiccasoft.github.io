@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz amcığı olan erkekin asıl amacı
 bkz amcığı olan erkek (19)
 bkz zübeyda hanım kaka cücüyü çok mu dövüyodu sorunsalı
 bkz mustafa kaka cücünün doüum günü neden belli değil sorunsalı
