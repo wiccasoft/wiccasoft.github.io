@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz atıl kurt diyince atılmayan kurt
 https://www.instagram.com/p/B7e8p-ipX8S/
 https://www.youtube.com/watch?v=S-m1WImjqsE bu nedir lo
 https://www.facebook.com/watch/?v=825028694513117 bu nedir lo
