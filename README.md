@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz baba akü yok
+bkz ankaralı turgut vs ankaralı namık
 bkz benim niye şeyhim yok diyo
 bkz şeyhlerin akut köpeklerin protesto etmesi
 bkz her olayı şeyhlere bağlayan şempanzeler
