@@ -1,8 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
-bkz iki bina yıkıldı diye beş gündür kafa siken türkler
-bkz acunun topladığı 74 milyon nereye gitti sorunsalı
+bkz binlerce şeyh var binler akut köpeği niye yok
 bkz galat ol kampanyası neden yok sorunsalı
 bkz fener ol kampanyası vs akut ol kampnayası
 bkz atılkurt diyince ayılan kurt
