@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz depremi bahane edip ultrataraftara saldıran menzilciler
 bkz 28 ocak 2020 menzilcilerin ultraaslanlar grubuna saldırması
 bkz 28 ocak 2020 ultra aslan açıklaması
 bkz ultrgeyseliler vs menzilciler
