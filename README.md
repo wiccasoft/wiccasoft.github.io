@@ -10,63 +10,9 @@ bkz şeyh zındık efendi hz lerinin madem faydamız yok niye inkar ediyosunuz d
 bkz elazığlı müteahhitler vs laz müteahhitler
 bkz 1 şubat 2020 maçların başlayacak olması
 bkz imamoğlan kamerasından alex golleri
-bkz 99 depreminden beri dışarda yatan adam
 bkz imamoğlanın kobe u bahane edip tatil yapması
 bkz işten çıkarken ingilizce kedi günü yağ
-bkz gözleri kedi şeklinde gülen surat atan erkek
-bkz erkekleri kedi yağmuruna tutuyoruz
-bkz kedisi olan erkek vs taytı olan erkek
-bkz kukusu olan kızları düşürmek için kedi olan erkek gibi davranan erkek
-bkz kedisi olan erkeğin trbünlere oynaması
-bkz binlerce akut köpeğinin kedisi olan erkek kadar faydası yok
-bkz menzil ol kampanyası
-bkz menzilbahçe vs galatbahce
-bkz madem kural hatası var niye menzilciler vara gitmiyo
-https://www.youtube.com/watch?v=XCvCoXtXu00 zuhahahaha
-bkz milyonlarca menzilbahcelinni aklıyla dalga geçmek 
-bkz 28 ocak 2020 menzilbahçe açıklaması
-bkz 29 ocak 2020 menzilcilerin döşediği boru gibi gol
-bkz 28 ocak 2020 menzilciler fenerbahçe maçı
-bkz menzilciler gelince fenerbahçelilerin it gibi dağılması
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 menzilciler vs fenerbahçeliler
-bkz aydemir akbaşın menzilb ahçe çin karıyı sataram demesi
-bkz bi maymun neden gavatsaray kongre üyesi olmak ister
-bkz menzilcilerin ultrageyleri siklemediği gerçeği
-bkz depremi bahane edip ultrataraftara saldıran menzilciler
-bkz 28 ocak 2020 menzilcilerin ultraaslanlar grubuna saldırması
-bkz 28 ocak 2020 ultra aslan açıklaması
-bkz ultrgeyseliler vs menzilciler
-bkz bi şempanze neden galatbahceli olmak ister
-bkz hagi vs alex vs sergen
-bkz binlerce mankurt var
-bkz radamel falco garcia kadar faydası yok
-bkz binlerce futbol takımı varken galatsaraylı olmak
-bkz tam zikr çekerken belediyenin kapaması
-bkz imamaoğlanın tekk ve zaviyeleri kapaması
-bkz binlerce tarikatlar tekkeler zaviyeler var
-bkz tangırtungurun ekşici ergenlerden başlık çalması
-bkz onların şeyhi var benim niye yok diyo
-bkz şeyhin kamerasından 99 depremi
-bkz atıl kurt diyince atılan türkçü köpek
-bkz mankurtların binlerce şeyh kadar faydası var
-bkz atatürkçülerin kızak hayvanıyız biz demesi
-bkz atatürkçüleri kızağa bağlayıp kızak hayvanı olarak kullanma önerisi
-bkz binlerce atatürkçünün köpek kadar faydası yok
-bkz binlerce şeyh olması binlerce dansöz niye olmaması
-bkz çocuklar diyo neden bizim şeyhimiz yok diyo
-bkz binlerce şeyhin imamolan kadar faydası yok
-bkz imamoğlanın kamerasından 99 depremi
-bkz bi atıl kurt deyince atılan şeyh olmaması
-bkz binlerce şeyhin ankaralı turgut kadar faydası yok
-bkz ankaralı turgut vs ankaralı namık
-bkz benim niye şeyhim yok diyo
-bkz şeyhlerin akut köpeklerin protesto etmesi
-bkz her olayı şeyhlere bağlayan şempanzeler
-bkz benzinciler vs menzilciler
-bkz her olaydan sonra konuyu şeyhlere bağlama eşihi 
-bkz bu şıh dediğiniz gavatın dinden de haberi yok
-https://www.uludagsozluk.com/k/99-depremi-vs-2020-depremi/ 
-bkzk imamoglanın kamerasından 99 depremi
+bkz gözleri kedi şeklinde gülen surat 
 bkz muhsin yazıcıoğlunun helikopterini abdullah avcının düşürmesi
 -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
