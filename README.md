@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz imamoğlanın kurtu bahane edip yine tatile çıkması
 bkz atıl kurt diyince atılmayan kurt
 https://www.youtube.com/watch?v=QmH-anEoBYE
 bkz benim niye kurtum yok diyo
