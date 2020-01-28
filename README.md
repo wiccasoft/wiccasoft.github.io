@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz menzil ol kampanyası
 bkz menzilbahçe vs galatbahce
 https://www.youtube.com/watch?v=XCvCoXtXu00 zuhahahaha
 bkz milyonlarca menzilbahcelinni aklıyla dalga geçmek 
