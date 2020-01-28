@@ -4,6 +4,7 @@
 bkz baba akü yok
 bkz binlerce dansöz var
 bkz atıl kurt diyince atılan türkçü köpek
+bkz mankurtların binlerce şeyh kadar faydası var
 bkz atatürkçülerin kızak hayvanıyız biz demesi
 bkz atatürkçüleri kızağa bağlayıp kızak hayvanı olarak kullanma önerisi
 bkz binlerce atatürkçünün köpek kadar faydası yok
