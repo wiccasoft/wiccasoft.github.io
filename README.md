@@ -3,6 +3,7 @@
 
 <!--
 bkz köpeği olan erkek
+bkz last man stand vs man stand last
 bkz köpeği olan erkeği meşsj yağmuruna tutuyoruz
 bkz türklerin erkek merkezli yaşama sebepleri
 bkz erkeği olan kedi vs kedisi olan erkek
