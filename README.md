@@ -3,6 +3,8 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+https://www.youtube.com/watch?v=XCvCoXtXu00 zuhahahaha
+bkz milyonlarca menzilbahcelinni aklıyla dalga geçmek 
 bkz 28 ocak 2020 menzilbahçe açıklaması
 bkz 29 ocak 2020 menzilcilerin döşediği boru gibi gol
 bkz 28 ocak 2020 menzilciler fenerbahçe maçı
