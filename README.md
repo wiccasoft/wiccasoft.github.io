@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz netflizin tam bi kezban çıkması
 bkz netfliz premium amcık almak
 bkz takip edilesi amcıklı kanal 
 bkz hiç amcığı olmamış erkek
