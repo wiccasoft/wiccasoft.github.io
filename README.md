@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz gss prim borcu için niye galat ol kampanyası yok sorunsalı
 bkz sorunsal mı sorunmasal mı sorunsalı
 bkz iki bina yıkıldı diye beş gündür kafa siken türkler
 bkz 75 milyon liraya yeni bir şehir kurulacağı gerçeği
