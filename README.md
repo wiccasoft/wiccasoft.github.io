@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz binlerce dansöz var
+bkz binlerce atatürkçünün köpek kadar faydası yok
 bkz binlerce şeyh olması binlerce dansöz niye olmaması
 bkz çocuklar diyo neden bizim şeyhimiz yok diyo
 bkz binlerce şeyhin imamolan kadar faydası yok
