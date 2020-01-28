@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz fesli bunak vs aydemir akbaş
 bkz feslinin düşürdüğü helikopterin güldürmesi
 bkz what mustafa kamal atacücü do
 bkz aydemir akbaşın galatsarayai çin karıyı satarım demesi
