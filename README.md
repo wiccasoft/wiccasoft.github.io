@@ -3,7 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
-bkz bi maymun neden galatasaray kongre üyesi olmak ister
+bkz bi maymun neden gavatsaray kongre üyesi olmak ister
 bkz menzilcilerin ultrageyleri siklemediği gerçeği
 bkz depremi bahane edip ultrataraftara saldıran menzilciler
 bkz 28 ocak 2020 menzilcilerin ultraaslanlar grubuna saldırması
