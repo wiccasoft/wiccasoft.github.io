@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacüc neden istikbal göklerddir dedi sorunsalı
 bkz atacücün boyu 167 mi 171 mi sorunsalı
 bkz atacüc 167 boyla nasıl subay oldu sorunsalı 
 bkz zübeyde hanım atacücüün gerçek annesi mi sorunsalı
