@@ -5,6 +5,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz hagi vs alex vs sergen
 bkz binlerce mankurt var
+bkz radamel falco garcia kadar faydası yok
 bkz binlerce futbol takımı varken galatsaraylı olmak
 bkz tam zikr çekerken belediyenin kapaması
 bkz imamaoğlanın tekk ve zaviyeleri kapaması
