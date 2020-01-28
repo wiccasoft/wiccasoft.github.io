@@ -4,6 +4,7 @@
 bkz atılkurt diyince ayılan kurt
 bkz eve akut köpeği alan erkek
 bkz korkudan 5 tane akut köpeği almak
+bkz menzilciler vs süleymancılar
 bkz binlerce şeyhin akut kadda faydası yok
 bu şıh dediğiniz gavatın dinden de haberi yok
 https://www.uludagsozluk.com/k/99-depremi-vs-2020-depremi/ 
