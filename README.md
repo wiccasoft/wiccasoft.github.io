@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz gözleri kedi şeklinde gülen surat atan erkek
 bkz erkekleri kedi yağmuruna tutuyoruz
 bkz kedisi olan erkek vs taytı olan erkek
 bkz kukusu olan kızları düşürmek için kedi olan erkek gibi davranan erkek
