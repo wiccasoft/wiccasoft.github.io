@@ -5,8 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
-bkz atacününü çok ta skimdesiniz amk demesi 
-bkz kamalızm parayı buluncaya komünizim kocayı buluncaya kadardır
+bkz kamalızm parayı buluncaya komünizim kocayı buluncaya kadardır yok lan feminizmdi o neyse
 bkz halk fakirken atacücünün savannorayı alması
 https://www.uludagsozluk.com/k/%C3%BClkede-yoksulluk-varken-atat%C3%BCrk-%C3%BCn-savarona-almas%C4%B1/&w=bg
 bkz fener ol kampanyası paralarıyla direk dansı yapan abla
