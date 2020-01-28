@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz 29 ocak 2020 menzilciler döşediği boru gibi gol
 bkz 28 ocak 2020 fc menzilciler fenerbahçe maçı
 bkz menzilciler gelince fenerbahçelilerin it gibi dağılması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 menzilciler vs fenerbahçeliler
