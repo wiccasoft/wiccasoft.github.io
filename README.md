@@ -6,11 +6,6 @@ bkz hiç amcığı olmamış erkek
 bkz amcığını bi kere sevdirmeyen erkek
 bkz amcığı olan erkekin asıl amacı
 bkz amcığı olan erkek (19)
-bkz zübeyda hanım kaka cücüyü çok mu dövüyodu sorunsalı
-bkz mustafa kaka cücünün doüum günü neden belli değil sorunsalı
-bkz fatih sultan mehmet saplı sultan mıydı sorunsalı
-bkz liseye amcığıyla gelen kızın asıl amacı
-bkz kakacünün sıçarken fotosunun olmaması sorunsalı
 bkz bir soğuk bir sıcak davranan erkek. ılıktır evet
 bkz soğuk suyla yıkanan erkek. sıcaktır evet.
 bkz ılık suyla yıkanan erkek. ılıktır evet
