@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz baba akü yok
+bkzher olayı şeyhlere bağlayan şempanzeler
 bkz benzinciler vs menzilciler
 bkz kobe bryantı şeyhler kadar faydası yoh amuga gopyymi
 bkz konuyu şeyhlere bağlama eşihi 
