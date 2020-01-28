@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacücüc türkleri niye bu kadar övdü sorunsalı
 bkz atacücüc yonanları niye denize döktü sorunsalı
 bkz atacücüc fasulye pilav yer miydi sorunsalı
 bkz atacücüc neden samsunga ayak bastı sorunsalı
