@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ılık davranan kıza soğuk davranan erkek
 bkz bir soğuk bir ılık davranan erkek
 bkz ılık suyla duş alan erkek
 bkz faresi olan erkek başlığını hala açmamış ılıklar
