@@ -6,6 +6,8 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz direkt dansı yapan türbanlı abla
+bkz fesliye inana özürlü kitle vs direk dansı yapan türbanlı abla
+https://www.uludagsozluk.com/k/fesliye-inanan-okuma-%C3%B6z%C3%BCrl%C3%BC-kitle/
 https://www.uludagsozluk.com/k/direk-dans%C4%B1-yapan-t%C3%BCrbanl%C4%B1-abla/
 bkz şyma subaşı vs direk dansı yapan türbanlı abla
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg
