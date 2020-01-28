@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz binlerce dansöz var
+bkzx atatürkçülerin kızak hayvanıyız biz demesi
 bkz atatürkçüleri kızağa bağlayıp kızak hayvanı olarak kullanma önerisi
 bkz binlerce atatürkçünün köpek kadar faydası yok
 bkz binlerce şeyh olması binlerce dansöz niye olmaması
