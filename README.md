@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
+bkz akp mi ak parti mi sorunsalı
 bkz iki bina yıkıldı diye beş gündür kafa siken türkler
 bkz 75 milyon liraya yeni bir şehir kurulacağı gerçeği
 bkz acun ol kampanyasında toplanan 75 milyon lira nereye gitti sorunsalı
