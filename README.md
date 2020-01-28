@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
 bkz google da türbanlı vidyosu aratınca direk dansı mı demek istediniz demesi
 bkz karısına zorla direk dansı yaptıran ruhsuz ve hain erkek
 bkz ben karıma direk dansı yaptırmam diyen erkek
