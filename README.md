@@ -3,6 +3,8 @@
 <!-- 
 bkz baba akü yok
 bkz binlerce dansöz var
+bkz nerde kalmıştık
+bkz hagi vs alex vs sergen
 bkz atıl kurt diyince atılan türkçü köpek
 bkz mankurtların binlerce şeyh kadar faydası var
 bkz atatürkçülerin kızak hayvanıyız biz demesi
