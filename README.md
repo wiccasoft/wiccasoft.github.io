@@ -1,5 +1,5 @@
 
-[![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
+[![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=5z8nZV7WlJI )
 
 <!--
 bkz gss prim borcu için niye galat ol kampanyası yok sorunsalı
