@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz atacücünün türklerin nuhammedi olması
+bkz mankurtlar da onların aküt köpeği var benim niye yok düyü
 bkz binlerce şeyh var binler akut köpeği niye yok
 bkz galat ol kampanyası neden yok sorunsalı
 bkz fener ol kampanyası vs akut ol kampnayası
