@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz mustafa kemal atacücü neden şeyhleri kapattı diyaneti kurdu sorunsalı
 bkz can yamanın terhis olması
 bkz terhis olan erkek
 bkz imamoğlanın kurtu bahane edip dünya turuna çıkması
