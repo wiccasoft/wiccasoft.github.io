@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz baba akü yok
-bkzher olayı şeyhlere bağlayan şempanzeler
+bkz benim niye şeyhim yok diyo
+bkz her olayı şeyhlere bağlayan şempanzeler
 bkz benzinciler vs menzilciler
 bkz her olaydan sonra konuyu şeyhlere bağlama eşihi 
 bkz tc şeyh şıhların ülçesi olmaz mçe atatçüç
