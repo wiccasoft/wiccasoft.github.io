@@ -2,10 +2,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekşi hesabı satan olursa alırım
-bkz ekşide yazar olsam çok komik başlıklar açacağım gerçeği
+bkz kakatürk ölmedi mi hala sorunsalı
 bkz facebooktaki teyzeler ölmedi mi hala sorunsalı
 bkz 10 senedir erkekleri mesaja boğamayan ekşici kızlar
+bkz ekşide yazar olsam çok komik başlıklar açacağım gerçeği
 https://eksisozluk.com/28-30-ocakta-erkek-yazarlari-mesaja-boguyoruz--4209564?a=popular on senedir aynı muhabbet
 https://eksisozluk.com/inanilmaz-tatli-gogusleri-olan-dost--1640635 bkz rte
 bkz recep tayyip erdoğan varken façebuk twittebook instagram da takılan ezik
