@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz benim türbanlı bacılarıma direk dansı yaptırmışlar
 https://www.uludagsozluk.com/k/t%C3%BCrk-kan%C4%B1-ve-k%C3%BCrd-kan%C4%B1-birdir/ bkz kürt lütfen
 bkz emre morun direk dansı yapan türbanlı ablaya yürümesi
 bkz feslinin türbanlılar direk dansı yapamaz mı diye savunması
