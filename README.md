@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz menzilciler gelince fenerbahçelilerin it gibi dağılması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 menzilciler vs fenerbahçeliler
 bkz aydemir akbaşın galatsaray için karıyı sataram haa demesi
 bkz bi maymun neden gavatsaray kongre üyesi olmak ister
