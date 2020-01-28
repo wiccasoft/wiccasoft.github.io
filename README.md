@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz kedisi olan erkeğin trbünlere oynaması
 bkz binlerce akut köpeğinin kedisi olan erkek kadar faydası yok
 bkz menzil ol kampanyası
 bkz menzilbahçe vs galatbahce
