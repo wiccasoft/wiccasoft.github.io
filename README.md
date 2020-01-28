@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz erkeklerin pussy için kedisi olan erkek olduğu gerçeği
 bkz pul koleksiyonu olan erkek vs kedisi olan erkek
 bkz kedi olan erkek vs taytı olan erkek 
 bkz bir erkeğin kedisi olup olmadığını anlama yolları
