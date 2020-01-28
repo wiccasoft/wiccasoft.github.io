@@ -7,6 +7,8 @@ bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz feslinin direk dansı yapan bacıya bakışı
 bkz benim türbanlı bacılarıma direk dansı yaptırmışlar
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-d%C3%B6ven-erkek/&w=bg
+https://www.uludagsozluk.com/k/muhammed-e-kainat%C4%B1n-efendisi-demek/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-son-ba%C5%9Fbu%C4%9Fu/&w=bg
 https://www.uludagsozluk.com/k/mansur-yava%C5%9Fa-benzeyen-pornocu/ bkz mansur yavaş ciğerimi söktün
 https://www.uludagsozluk.com/k/t%C3%BCrk-kan%C4%B1-ve-k%C3%BCrd-kan%C4%B1-birdir/ bkz kürt lütfen
