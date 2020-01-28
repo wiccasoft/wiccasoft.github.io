@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz recep tayyip erdoğan premiyum amunüyüm üyeliği olamayan ezük
+bkz recep tayyip erdoğan premiyum amunüyüm üyeliği olmayan ezük
 bkz gss prim borcu için niye galat ol kampanyası yok sorunsalı
 bkz iki bina yıkıldı diye beş gündür kafa siken türkler
 bkz 75 milyon liraya yeni bir şehir kurulacağı gerçeği
