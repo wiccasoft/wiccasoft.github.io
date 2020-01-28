@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz şeyma subaşının direk dansının türbanlı bacının dansından dahah güzel olduğu iddası
 bkz direkt dansı yapan türbanlı abla
 bkz şeyma vs direk dansı yapan türbanlı abla
 https://www.uludagsozluk.com/k/mansur-yava%C5%9Fa-benzeyen-pornocu/ bkz mansur yavaş ciğerimi söktün
