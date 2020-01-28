@@ -4,7 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
-bkz şeyh sıddık hazretlerinin kedisi
+bkz şeyh sıddık efendi hazretlerinin kedisi
 bkz şeyh sıddık efendi hz lerinin madem faydamız yok niye inkar ediyosunuz demesi
 bkz elazığlı müteahhitler vs laz müteahhitler
 bkz 1 şubat 2020 maçların başlayacak olması
