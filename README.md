@@ -3,7 +3,7 @@
 
 <!--
 bkz fatih sultan mehmet saplı sultan mıydı sorunsalı
-bkz liseye amcığıyya helen kızın asıl amacı
+bkz liseye amcığıyla gelen kızın asıl amacı
 bkz kakacünün sıçarken fotosunun olmaması sorunsalı
 bkz bir soğuk bir sıcak davranan erkek. ılıktır evet
 bkz soğuk suyla yıkanan erkek. sıcaktır evet.
