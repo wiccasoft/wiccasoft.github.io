@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
-bkz takip edilesi amcıklı erkek
+bkz takip edilesi amcıklı kanal
 bkz hiç amcığı olmamış erkek
 bkz amcığını bi kere sevdirmeyen erkek
 bkz amcığı olan erkekin asıl amacı
