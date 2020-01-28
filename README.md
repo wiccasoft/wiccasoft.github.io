@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz recep tayyip erdoğan varken facebuk twitter instagram da takılan ezik
+bkz recep tayyip erdoğan varken façebuk twittebook instagram da takılan ezik
 bkz recep tayyip erdoğan premiyum amunüyüm üyeliği olmayan ezük
 bkz gss prim borcu için niye galat ol kampanyası yok sorunsalı
 bkz iki bina yıkıldı diye beş gündür kafa siken türkler
