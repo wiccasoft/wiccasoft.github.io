@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz binlerce dansöz var
+bkz binlerce şeyhin imamolan kadar faydası yok
 bkz imamoğlanın kamerasından 99 depremi
 bkz bi atıl kurt deyince atılan şeyh olmaması
 bkz binlerce şeyhin ankaralı turgut kadar faydası yok
