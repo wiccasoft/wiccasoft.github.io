@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz vadansever erkekleri meşaj yağmuruna tutuyorus kampanyası
 bkz mısır arpaoğlunun akıllanması vadansever olması
 bkz vadan hayını deyince akla gelen ilk erkek
 bkz mustafa kemal atacücü neden şeyhleri kapattı diyaneti kurdu sorunsalı
