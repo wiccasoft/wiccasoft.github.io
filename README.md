@@ -3,7 +3,6 @@
 
 <!--
 bkz gss prim borcu için niye galat ol kampanyası yok sorunsalı
-bkz sorunsal mı sorunmasal mı sorunsalı
 bkz iki bina yıkıldı diye beş gündür kafa siken türkler
 bkz 75 milyon liraya yeni bir şehir kurulacağı gerçeği
 bkz acun ol kampanyasında toplanan 75 milyon lira nereye gitti sorunsalı
