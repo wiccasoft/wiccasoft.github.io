@@ -2,8 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz yarın hangi erkeğe entry giriyoruz sorunsalı
-bkz kedisi olan erkekleri şapşikliyoruz kampanyası
+bkz taytı olan erkek vs kedisi olan erkek
 bkz babet çorabı olan erkek vs taytı olan erkek
 bkz erkeği olan kedi vs kedisi olan erkek
 bkz kedisi olan erkek vs kedisi olmayan erkek
