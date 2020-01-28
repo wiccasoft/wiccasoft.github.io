@@ -2,8 +2,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz atacücücün doğum günü neden belli değil sorunsalı
-bkz atacücüe laf etme sebepsiz anan kimdi bilemezdin şerefsiz
+bkz atacüc osorurmuydu sorunsalı
+bkz atacücün doğum günü neden belli değil sorunsalı
+bkz atacüce laf etme sebepsiz anan kimdi bilemezdin şerefsiz
 bkz atacücü zübeyde hanım mı doğurdu sorunsalı
 bkz atacücü yaşasaydı sevgilisini ne diye kaydederdi sorunsalı
 bkz atacücüc türkleri niye bu kadar övdü sorunsalı
