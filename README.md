@@ -2,8 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz türklerin erkek merkezli yaşam sebepleri
-bkz türkler neden bu kadar erkek takıntılı sorunsalı
+bkz türklerin erkek merkezli yaşama sebepleri
 bkz erkeği olan kedi vs kedisi olan erkek
 bkz amcığı olan erkek vs kukusu olan erkek
 bkz atacüce laf etme sebepsiz anan kimdi bilemezdin şerefsiz
