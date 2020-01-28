@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz baba akü yok
+bkz benzinciler vs menzilciler
 bkz ekşideki tek hücreli canlıların faydası vs uludaki tek hücrelilerin faydası
 bkz binlerce şeyhin akut köpeği kadar faydası yok ay hoş ulan aamına kodumm
 bkz gavsını torununun aküt köpeği alması
