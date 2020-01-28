@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacücüc ismet cücüyle neden darıldı sorunsalı
 bkz atacücünün cücüler ilk hedefiniz cücükler demesi
 bkz atacücünün süper bişi olması sorunsalı
 bkz atacücü neden doğdu sorunsalı
