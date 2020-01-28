@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz neden erkeğin yok sorunsalı
 bkz erkeği olan kedi vs kedisi olan erkek
 bkz kedisi olan erkek vs kedisi olmayan erkek
 bkz kedisi olan erkeğin taytı olan erkek çıkması
