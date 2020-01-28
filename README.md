@@ -3,9 +3,6 @@
 
 <!--
 bkz yütüp premiyum amunüyüm olmayan ezik erkek
-bkz paraya basıp netfliz ultra gold premium almak
-bkz netflizin tam bi kezban çıkması
-bkz netfliz premium amcık almak
 bkz takip edilesi amcıklı kanal 
 bkz hiç amcığı olmamış erkek
 bkz amcığını bi kere sevdirmeyen erkek
