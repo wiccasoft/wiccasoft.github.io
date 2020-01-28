@@ -3,6 +3,7 @@
 
 <!--
 bkz köpeği olan erkek
+bkz köpeği olan erkeği meşsj yağmuruna tutuyoruz
 bkz türklerin erkek merkezli yaşama sebepleri
 bkz erkeği olan kedi vs kedisi olan erkek
 bkz amcığı olan erkek vs kukusu olan erkek
