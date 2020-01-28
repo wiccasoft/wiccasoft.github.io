@@ -5,7 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
-bkz karısının döverek direk dansı yaptıran erkek
+bkz karısına zorla direk dansı yaptıran ruhsuz ve hain erkek
 bkz ben karıma direk dansı yaptırmam diyen erkek
 bkz feslinin direk dansı yapan bacıya bakışı
 bkz benim türbanlı bacılarıma direk dansı yaptırmışlar
