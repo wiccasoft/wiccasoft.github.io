@@ -6,6 +6,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz feslinin düşürdüğü helikopter
+bkz mustafa kamal ata cücü vs recep tayyip erdoğan
 https://www.uludagsozluk.com/k/devletin-rak%C4%B1-vergisiden-kar-de%C4%9Fil-zarar-etmesi/ zuahahhaha
 bkz kamalızm parayı buluncaya komünizim kocayı buluncaya kadardır yok lan feminizmdi o 
 https://www.uludagsozluk.com/k/%C3%BClkede-yoksulluk-varken-atat%C3%BCrk-%C3%BCn-savarona-almas%C4%B1/&w=bg
