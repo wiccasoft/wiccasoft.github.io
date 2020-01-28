@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz ben karıma direk dansı yaptırmam diyen erkek
 bkz feslinin direk dansı yapan bacıya bakışı
 bkz benim türbanlı bacılarıma direk dansı yaptırmışlar
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-d%C3%B6ven-erkek/&w=bg
