@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz bi şempanze neden galatbahceli olmak ister
 bkz hagi vs alex vs sergen
 bkz binlerce mankurt var
 bkz radamel falco garcia kadar faydası yok
