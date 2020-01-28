@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz 1 şubat 2020 maçların başlayacak olması
 bkz 99 depremi artçılarını kameraya alan adam
 bkz 99 depreminden beri dışarda yatan adam
 bkz imamoğlanın kobe u bahane edip tatil yapması
