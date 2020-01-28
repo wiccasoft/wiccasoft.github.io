@@ -5,7 +5,8 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
-bkz esra albyarakın dirrk dansı yapması
+bkz şeyma subaşı direk dansı vs esra albayrak direk dansı
+bkz esra albyarakın direk dansı yapması
 https://www.youtube.com/watch?v=N4_nQF-CpBY helal reis
 bkz fesli bunak vs aydemir akbaş
 bkz feslinin düşürdüğü helikopterin güldürmesi
