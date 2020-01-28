@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz aydemir akbaşın galatsaray için karıyı sataram haa demesi
 bkz bi maymun neden gavatsaray kongre üyesi olmak ister
 bkz menzilcilerin ultrageyleri siklemediği gerçeği
 bkz depremi bahane edip ultrataraftara saldıran menzilciler
