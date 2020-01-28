@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz elazığlı müteahhitler vs laz müteahhitler
 bkz 1 şubat 2020 maçların başlayacak olması
 bkz imamoğlan kamerasından alex golleri
 bkz 99 depreminden beri dışarda yatan adam
