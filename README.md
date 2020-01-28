@@ -3,7 +3,7 @@
 
 <!--
 bkz 100 yıldır kakacücüyü öven adam
-bkz türklerin kakacücüyü çok abartmasının zararları
+bkz türklerin kakacücüyü çok abartması sorunsalı
 bkz facebooktaki teyzeler ölmedi mi hala sorunsalı
 bkz 10 senedir erkekleri mesaja boğamayan ekşici kızlar
 bkz ekşide yazar olsam çok komik başlıklar açacağım gerçeği
