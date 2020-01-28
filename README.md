@@ -4,6 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
+bkz imamaoğlanın kobe u bahane edip tatil yapması
 bkz işten çıkarken ingilizce kedi günü yağ
 bkz gözleri kedi şeklinde gülen surat atan erkek
 bkz erkekleri kedi yağmuruna tutuyoruz
