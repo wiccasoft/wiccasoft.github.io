@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz amcığı olan erkeğin tayt giyen erkek başlığını bastırması
 bkz amcığı olan erkek vs tayt giyen erkek
 bkz tayt giyen erkek başlığına uğramayan ibneler
 bkz tayt giyen erkek vs kedi seven erkek
