@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kedi olan erkek vurdurur mu sorunsalı
 bkz recep tayyip erdoğan ılık mı sorunsalı
 bkz bir erkeğin ılık mı soğuk mu olduğunu anlama yolları
 bkz ılık davranan erkeğe soğuk davranan erkek
