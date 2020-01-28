@@ -6,7 +6,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
-bkz türklükrten aldığı keyfi hiç bişeyden almadım diyen türbanlı
+bkz türklükrten aldığım keyfi hiç bişeyden almadım diyen türbanlı
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
 bkz google da türbanlı vidyosu aratınca direk dansı mı demek istediniz demesi
 bkz karısına zorla direk dansı yaptıran ruhsuz ve hain erkek
