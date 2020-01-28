@@ -1,33 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-bkz sayko kemal vs imamoğlan
-https://www.youtube.com/watch?v=S-m1WImjqsE 
-bkz biy eykeğin eykek olduğunu anlamanın yollayi
-bkz biy eykeği yuytupıy diye semek
-bkz biy eykeğin kedisi vay diye sevmek
-bkz biy eykeğin kedisi olduğunu anlama yollayı
-bkz eykeklerin neden kedisi vay soyunsalı
-bkz erkeklere entry girmiyoyus kampanyası
-bkz entry girilen erkekin şımarması
-bkz erkeki olan tayt vs kedisi olan erkek
-bkz taytı olan erkek vs kedisi olan erkek
-bkz babet çorabı olan erkek vs taytı olan erkek
-bkz erkeği olan kedi vs kedisi olan erkek
-bkz kedisi olan erkek vs kedisi olmayan erkek
-bkz kedisi olan erkeğin taytı olan erkek çıkması
-bkz kızı kediyle oyalayan erkek
-bkz erkeklerin kuku için kedisi olduğu gerçeği
-bkz kukusu olan tatlişko erkek vs kukusu olmayan erkek
-bkz erkeklerin kedisi olarak ne yapmaya çalıştığı sorunsalı
-bkz erkeklerin pussy için kedisi olan erkek olduğu gerçeği
-bkz pul koleksiyonu olan erkek vs kedisi olan erkek
-bkz kedi olan erkek vs taytı olan erkek 
-bkz bir erkeğin kedisi olup olmadığını anlama yolları
-bkz kedisi olan erkekleri meşaj yağmuruna tutuyoruz kampanyası
-bkz 10 senedir erkekleri mesaja boğamayan ekşici kızlar
--->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
