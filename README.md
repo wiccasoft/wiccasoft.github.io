@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
-bkz redtüp premiyum amünüyüm olamayan ezik kız
+bkz redtüp premiyum amünüyüm olmayan ezik kız
 bkz yütüp premiyum amunüyüm olmayan ezik erkek
 bkz takip edilesi amcıklı kanal 
 bkz hiç amcığı olmamış erkek
