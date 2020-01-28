@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz binlerce dansöz var
+bkz yerli otomobil vs yerli akut köpeğ
 bkz binlerce şeyhin ankaralı turgut kadar faydası yok
 bkz ankaralı turgut vs ankaralı namık
 bkz benim niye şeyhim yok diyo
