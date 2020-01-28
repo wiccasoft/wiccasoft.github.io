@@ -2,9 +2,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz baba akü yok
-bkz binlerce dansöz var
 bkz nerde kalmıştık
 bkz hagi vs alex vs sergen
+bkz binlerce dangöz var
 bkz atıl kurt diyince atılan türkçü köpek
 bkz mankurtların binlerce şeyh kadar faydası var
 bkz atatürkçülerin kızak hayvanıyız biz demesi
