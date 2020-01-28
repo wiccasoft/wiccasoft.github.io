@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacüc 167 boyla nasıl subay oldu sorunsalı 
 bkz zübeyde hanım atacücüün gerçek annesi mi sorunsalı
 bkz atacüc cüclerin atasımıydı sorunsalı
 bkz atacüc osorurmuydu sorunsalı
