@@ -3,6 +3,7 @@
 <!-- 
 bkz baba akü yok
 bkz binlerce dansöz var
+https://www.uludagsozluk.com/e/42768459/ bkz atıl kurt
 bkz bi atıl kurt deyince atılan şeyh olmaması
 bkz binlerce şeyhin ankaralı turgut kadar faydası yok
 bkz ankaralı turgut vs ankaralı namık
