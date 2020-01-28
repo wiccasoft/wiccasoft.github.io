@@ -6,6 +6,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz feslinin düşürdüğü helikopter
+bkz mustaf kamal ata cücü neden ismete sayanora alamdı sorunsalı
 bkz mustafa kamal ata cücü sünnetlimiydi sorunsalı
 bkz mustafa kamal ata cücü vs recep tayyip erdoğan
 https://www.uludagsozluk.com/k/devletin-rak%C4%B1-vergisiden-kar-de%C4%9Fil-zarar-etmesi/ zuahahhaha
