@@ -3,6 +3,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
+<!-- https://eksisozluk.com/entry/101200966 lol -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
