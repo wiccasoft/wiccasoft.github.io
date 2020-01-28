@@ -3,7 +3,7 @@
 
 <!--
 bkz facebooktaki teyzeler ölmedi mi hala sorunsalı
-bkz ekşicilerin 10 senedir erkekleri mesaja boğamaması 
+bkz 10 senedir erkekleri mesaja boğamayan ekşici kızlar
 https://eksisozluk.com/28-30-ocakta-erkek-yazarlari-mesaja-boguyoruz--4209564?a=popular on senedir aynı muhabbet
 https://eksisozluk.com/inanilmaz-tatli-gogusleri-olan-dost--1640635 bkz rte
 bkz recep tayyip erdoğan varken façebuk twittebook instagram da takılan ezik
