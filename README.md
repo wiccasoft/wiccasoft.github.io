@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz atılkurtun türkleri muhammedi olması
 bkz eve akut köpeği alan erkek
 bkz korkudan 5 tane akut köpeği almak
 bkz binlerce şeyhin akut kadda faydası yok
