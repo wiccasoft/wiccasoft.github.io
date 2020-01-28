@@ -1,5 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
+
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
@@ -47,24 +48,10 @@ bkz şeyhlerin akut köpeklerin protesto etmesi
 bkz her olayı şeyhlere bağlayan şempanzeler
 bkz benzinciler vs menzilciler
 bkz her olaydan sonra konuyu şeyhlere bağlama eşihi 
-bkz tc şeyh şıhların ülçesi olmaz mçe atatçüç
-bkz ekşideki tek hücreli canlıların faydası vs uludaki tek hücrelilerin faydası
-bkz binlerce şeyhin akut köpeği kadar faydası yok ay hoş ulan aamına kodumm
-bkz gavsını torununun aküt köpeği alması
-bkz menzilcilerin menzilden çıkması
-bkz ülkücüc bebeler onların aküt köpeği var benim niye yok düyü
-bkz binlerce şeyh var binler akut köpeği niye yok
-bkz galat ol kampanyası neden yok sorunsalı
-bkz fener ol kampanyası vs akut ol kampnayası
-bkz atılkurt diyince ayılan kurt
-bkz eve akut köpeği alan erkek
-bkz korkudan 5 tane akut köpeği almak
-bkz menzilciler vs süleymancılar
-bkz binlerce şeyhin akut kadda faydası yok
-bu şıh dediğiniz gavatın dinden de haberi yok
+bkz bu şıh dediğiniz gavatın dinden de haberi yok
 https://www.uludagsozluk.com/k/99-depremi-vs-2020-depremi/ 
 bkzk imamoglanın kamerasından 99 depremi
-bkz mushin yazıcıoğlunu helikopterini abdullah avcının düşürmesi
+bkz muhsin yazıcıoğlunun helikopterini abdullah avcının düşürmesi
 -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
