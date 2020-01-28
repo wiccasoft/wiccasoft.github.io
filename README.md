@@ -4,7 +4,7 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
-bkz binlerce şeyhin faydası olmadığı gerçeği
+bkz binlerce şeyhin madem faydamız yok niye inkar ediyosunu demesi
 bkz elazığlı müteahhitler vs laz müteahhitler
 bkz 1 şubat 2020 maçların başlayacak olması
 bkz imamoğlan kamerasından alex golleri
