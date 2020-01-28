@@ -3,11 +3,12 @@
 <!-- 
 bkz baba akü yok
 bkz nerde kalmıştık
-bkz 29 ocak 2020 menzilciler döşediği boru gibi gol
-bkz 28 ocak 2020 fc menzilciler fenerbahçe maçı
+bkz 28 ocak 2020 menzilbahçe açıklaması
+bkz 29 ocak 2020 menzilcilerin döşediği boru gibi gol
+bkz 28 ocak 2020 menzilciler fenerbahçe maçı
 bkz menzilciler gelince fenerbahçelilerin it gibi dağılması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 menzilciler vs fenerbahçeliler
-bkz aydemir akbaşın galatsaray için karıyı sataram haa demesi
+bkz aydemir akbaşın menzilb ahçe çin karıyı sataram demesi
 bkz bi maymun neden gavatsaray kongre üyesi olmak ister
 bkz menzilcilerin ultrageyleri siklemediği gerçeği
 bkz depremi bahane edip ultrataraftara saldıran menzilciler
