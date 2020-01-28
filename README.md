@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.uludagsozluk.com/e/42767773/ bkz kedisi olan eykek yazınca bulduğu site
+https://www.uludagsozluk.com/e/42767773/ bkz kedisi olan eykek yazınca bulduğum ultra gay site
 bkz yarın recep tayyi perdoğana entry girecem diyen erkek
 bkz recep tayyi perdoğana sesli entry girerkene babanın odaya girmesi
 bkz recep tayyip perdoğana entry girmeyen ezik
