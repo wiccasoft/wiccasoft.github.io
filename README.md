@@ -6,6 +6,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz direkt dansı yapan türbanlı abla
+bkz şeyma vs direk dansı yapan türbanlı abla
 https://www.uludagsozluk.com/k/mansur-yava%C5%9Fa-benzeyen-pornocu/ bkz mansur yavaş ciğerimi söktün
 bkz feslinni direk dansı yapan tüerbanlı ablaya olan tepkisi
 bkz feslinin direk dansı yapan türbanlı ablaya esra albayrak sanması
