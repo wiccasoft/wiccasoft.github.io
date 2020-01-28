@@ -5,6 +5,7 @@
 bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
+bkz fener ol kampanyası paralarıyla direk dansı yapan abla
 bkz instagram kullanmayan erkek vs twitter kullanan erkek
 bkz o şimdi asker canı neler ister
 bkz vadansever erkekleri meşaj yağmuruna tutuyorus kampanyası
