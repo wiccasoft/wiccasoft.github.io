@@ -5,6 +5,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz hagi vs alex vs sergen
 bkz binlerce mankurt var
+bkz binlerce tarikatlar tekkeler zaviyeler var
 bkz tangırtungurun ekşici ergenlerden başlık çalması
 bkz onların şeyhi var benim niye yok diyo
 bkz şeyhin kamerasından 99 depremi
