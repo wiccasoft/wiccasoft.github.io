@@ -6,6 +6,7 @@ bkz baba akü yok
 bkz nerde kalmıştık
 bkz kurtu olan erkek 
 bkz feslinin düşürdüğü helikopter
+bkz recep tayyip erdoğanın ikinci ata cücüyse 2 . rte kim olacak sorunsalı
 bkz mustaf kamal ata cücü neden ismete sayanora alamdı sorunsalı
 bkz mustafa kamal ata cücü sünnetlimiydi sorunsalı
 bkz mustafa kamal ata cücü vs recep tayyip erdoğan
