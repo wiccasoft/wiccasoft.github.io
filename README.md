@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=fYTyeqycN90 )
 
 <!--
-bkz binlerce badei şeyh vs akut köpeği
+bkz bana faydası olmayan şeyhi dikeyim diyen dayı
+bkz binlerce badeci şeyh vs akut köpeği
 bkz kadir mısıroğlanın akut köpeği alması
 bkz redtüp premiyum amünüyüm olmayan ezik kız
 bkz yütüp premiyum amunüyüm olmayan ezik erkek
