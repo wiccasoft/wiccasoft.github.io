@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ilker baş buğunu uluyup türke dokunanı sikerun ha demesi
+bkz türkeşin türke meydan okuyanın alnını karışlarım demesi
 bkz ilker başbuğun baç buğa meydan okumak nedir öğretmesi
 https://www.uludagsozluk.com/e/42777309/bkz çıkarığ masaya vurmak nedir nasıl yapılır
 bkz iki kadın için takla atarım diyen erkek
