@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün sivas kongresi öncesi ismeti çağırtması
 bkz ata cücünün kuşatma altındayken çarşaf giymesi
 bkz ata cücünün türklük düşmanlarını gelecekleri varsa görecekleri de var demesi
 bkz başbuğun türklüğe karşı çıkanların kafasını kesecez demesi
