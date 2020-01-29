@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacücünün her gece yarım litre rakı içmesi
 bkz atacücünün evlenelim seni çalıştırmayacam demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-her-gece-yar%C4%B1m-litre-rak%C4%B1-i%C3%A7mesi/&w=bg
