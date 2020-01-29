@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=OIOqFBa7htQ ben sizin babanızım
 bkz ekrem imamaoğlanın kayarken havada spin atması
 bkz rte ikinci ata cücü olduğuna göre 2. rte kim olacak sorunsalı
 bkz belediyeci ismet vs ekrem imamoğlan
