@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamoğlanın pkk yı sıcak denizlere davet etmesi
 bkz pkk nın sıcak denizlere inecez açıklaması
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz imamaoğlanın pkk ya yüz vermesi
