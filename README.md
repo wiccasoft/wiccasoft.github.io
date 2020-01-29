@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ilker başbuğunu başbuğ benim demesi
 bkz ekrem imamaoğlanın hdplilerle dans etmesi
 bkz türkeşin türke zara vereni sikerem demesi
 bkz ilker başbuğun uluyup tanrı türke zeval eylemesin demesi
