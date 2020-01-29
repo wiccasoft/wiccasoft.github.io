@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bir kadının ayaklarını yıkamayan erkek
 bkz bir travesti için çabalamayan erkek
 bkz bir kadın için servet dökemeyen erkek
 bkz bir kadın için demeden yürümeyen erkek
