@@ -5,7 +5,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-https://www.youtube.com/watch?v=i4aEm8zTK5Y bkz tom cruise un reynmeni yalanlaması
+bkz france 24 ün reynmen corono virüsünü yayadı haberini yalanlaması
+https://www.youtube.com/watch?v=i4aEm8zTK5Y 
+bkz tom cruise un reynmeni yalanlaması
 bkz reynmenin stop corono virus make famous açıklaması
 bkz reynmenin demeden corona virüsü kaptığın iddaları
 bkz reynmenin fransada corona virüsü kaptığı iddaları
