@@ -9,6 +9,7 @@ https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ
 bkz evlenirsek üstüne şampanya döker yalarım diyen erkek
 https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
+https://www.uludagsozluk.com/k/tinderdan-wuhanl%C4%B1-k%C4%B1z-ile-e%C5%9Fle%C5%9Fmek/
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
