@@ -7,6 +7,7 @@
 <!--
 bkz istanbul boş kay coş
 bkz kaymak için kaybedecek vaktimiz çok
+https://www.uludagsozluk.com/k/ali-t%C3%BCrk%C5%9Fen/&w=bg bkz ikkinci atacücü
 https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/ 
 https://www.youtube.com/watch?v=4RpMzsA1VOw bkz fakirlerin kayamıyorlar diye kafa sikmesi
 https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/
