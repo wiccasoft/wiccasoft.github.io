@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz pkk energia nın türk askerlerini çürük düye salması
 bkz yenge de erik gibiymiş kütr kütr reis
 bkz muhsin yazıcıoğlanın helikopteri
 bkz evlenince sana entry girdirmem yatarsın bütün gün diyen erkek
