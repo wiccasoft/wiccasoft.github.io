@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz istanbul boş kay coş
+https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/
 bkz imamaoğlanın babasının ne var oğlan bi kayak yaptıysa dmemesi
 bkz bay kemalın tepkileri önemsememei
 https://eksisozluk.com/entry/101200966 lol
