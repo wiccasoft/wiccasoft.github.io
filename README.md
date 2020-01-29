@@ -6,6 +6,7 @@
 
 <!--
 https://eksisozluk.com/entry/101200966 lol
+bkz ali koçunuali sergenin sicili temiz değil demesi
 https://www.youtube.com/watch?v=RDxn3OuKO8w bkz imamoğlanın istanbulu terketmesi
 https://www.uludagsozluk.com/k/tommy-vercetti-vs-sonny-forelli/&w=bg bkz iki babayiğit
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayar mısın
