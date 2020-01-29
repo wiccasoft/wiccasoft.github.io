@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacücünün her gece yarım kilo yoğurt yemesi
 bkz atacücünün yoğurttan aldığı yadı türklükten alamadım demesi
 bkz atacücünün her gece yarım litre yunan dökmesi
 bkz atacücünün evlenelim seni çalıştırmayacam demesi
