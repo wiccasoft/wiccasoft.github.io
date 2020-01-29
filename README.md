@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-https://www.youtube.com/watch?v=i4aEm8zTK5Y
+https://www.youtube.com/watch?v=i4aEm8zTK5Y bkz enes baturun sessizliğini koruması
 http://www.hurriyet.com.tr/kelebek/hayat/reynmen-oldu-gundemi-sosyal-medyayi-karistirdi-41414807
 https://www.youtube.com/watch?v=hvWg_vmFuDI vuhan virüsü vs ülküc ocakları
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9Fin-son-anda-prensesi-kurtarmas%C4%B1/
