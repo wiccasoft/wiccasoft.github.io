@@ -6,6 +6,7 @@
 
 <!--
 https://eksisozluk.com/entry/101200966 lol
+https://www.uludagsozluk.com/k/apo-ya-pembe-oda-getiren-zihniyet/
 bkz ali koçunuali sergenin sicili temiz değil demesi
 bkz tarkanın megastar olmayaı ben seçmedim demesi
 https://www.youtube.com/watch?v=RDxn3OuKO8w bkz imamoğlanın istanbulu terketmesi
