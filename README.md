@@ -6,6 +6,7 @@
 
 
 <!--
+bkz keriz gelecek yerden tavuk esirgememek
 https://www.youtube.com/watch?v=otohjMymyYE
 bkz türklerin kerizlenmeye doyamaması
 bkz acununun yeni bir fener ol kampanyası yapma zamanı geldi demesi
