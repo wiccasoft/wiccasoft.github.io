@@ -6,7 +6,6 @@
 
 <!--
 bkz bir travesti için çabalamayan erkek
-bkz bir kadın için canımı veririm demeyen erkek
 bkz bir kadın için servet dökemeyen erkek
 bkz bir kadın için demeden yürümeyen erkek
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz demeden yürüyemeyen erkek
