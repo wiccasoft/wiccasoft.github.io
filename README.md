@@ -6,6 +6,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=ZP2YtHCXM6E
 bkz keriz gelecek yerden tavuk esirgememek
 https://www.youtube.com/watch?v=otohjMymyYE
 bkz türklerin kerizlenmeye doyamaması
