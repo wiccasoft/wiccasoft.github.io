@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz türkler kuşatma altındayken kaça büyük önder
 bkz ata cücünün kuşatma altındayken çarşaf giyip kaçması
 bkz osman pamukoğlunun ben askerime leş toplatmam çıkışı
 bkz ilker başbuğun fetönün siyasi ayağını çıkarıp masaya vurması
