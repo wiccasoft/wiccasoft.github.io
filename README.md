@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=ZP2YtHCXM6E
 bkz keriz gelecek yerden tavuk esirgememek
 https://www.youtube.com/watch?v=otohjMymyYE
 bkz türklerin kerizlenmeye doyamaması
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-emek%C3%A7i-day%C4%B1ya-wuhan-vir%C3%BCs%C3%BC-att%C4%B1/
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1lay-a-sms-ile-ba%C4%9F%C4%B1%C5%9F-yapmak/&w=bg zuhahahaha
 bkz acununun yeni bir fener ol kampanyası yapma zamanı geldi demesi
 bkz ensarın deprem paralarıyla snowboard yapması
