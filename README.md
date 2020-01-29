@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz 41 yaşından sonra ergenöelerin kafa siktiği gerçeği
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz rüzgar erkoçların seni kadınım yapacam sözü vermesi
 bkz enes abinnin senin için yutupırlık yapıyorum gülüm demesi
 bkz enes abinin evlenince seni çalıştırmam sözü vermesi
