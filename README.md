@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün gelekleri varsa görecekleri de var demesi
 bkz başbuğun türklüğe karşı çıkanların kafasını kesecez demesi
 bkz başbuğun türkler ulusun düşmanları korksun demesi
 bkz kara muratın asıl kara murat benim demesi
