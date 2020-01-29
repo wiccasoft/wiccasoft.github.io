@@ -6,6 +6,7 @@
 
 
 <!--
+bkz elçin sangunun büyüyünce amele olacam demesi
 bkz aptal x kuşağının deep webte yaşını söylemesi
 bkz z ve y kuşağının aptal olma nedenleri
 bkz 90 lı ergenlerin elçin sanguyu tanıması
