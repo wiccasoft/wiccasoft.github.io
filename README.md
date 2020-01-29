@@ -7,6 +7,7 @@
 <!-- 
 https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ
+https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
 bkz atacücünün evlenirsek seni çalıştırmam demesi
 bkz burak özçivitin fahriye evcanı çalıştırmaması
