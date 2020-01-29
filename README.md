@@ -5,7 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz türklerin eğitilmez olduğu grçeği
 bkz yeşilyoldaki arabın kuşatma altında türkleşmeden kaçması
 https://www.youtube.com/watch?v=iOxzG3jjFkY
 bkz kamalcıların eğitilmez olduğu gerçeği
