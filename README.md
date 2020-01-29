@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bay kemalın tepkileri önemsememei
 https://eksisozluk.com/entry/101200966 lol
 bkz halk fakirken ata cücünün snowboard yapması
 https://www.uludagsozluk.com/k/apo-ya-pembe-oda-getiren-zihniyet/
