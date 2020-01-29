@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 3 yıldır dışarı çıkmayan adam
 bkz ek rem takınca makinanın uçması
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCc%C3%BCk-bebe%C4%9Fe-hulki-diye-isim-koymak/
