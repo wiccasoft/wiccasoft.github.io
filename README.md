@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yeşilyoldaki arabın sanki  zenci olması
 bkz istanbuldaki zombilerin tam red alertlik olması
 bkz istanbuldaki zombilerin suratındaki yedi cedddinizi sikerim ifadesi
 bkz vampirlerin şehirleri istila ederiz tehdidi
