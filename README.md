@@ -5,7 +5,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kamalcıların eğitilmez olduğu gerçeği
 bkz yeşilyoldaki arabın zencileşmek istemiyorum demesi
+https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ 
 https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
 https://www.uludagsozluk.com/e/42777323/ demin kız taklidi yapan deil mi bu
 https://www.youtube.com/watch?v=ZP2YtHCXM6E 
