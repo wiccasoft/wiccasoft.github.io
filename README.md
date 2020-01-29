@@ -8,8 +8,6 @@
 https://www.youtube.com/watch?v=otohjMymyYE zuahahahaha
 bkz kamalcıların dünyaya faydası
 bkz kamalcıların geri kalma sebepleri
-bkz kmalcıların tırnak makası dışında ürettiği şey
-bkz kamalcıların ırkçılık yapmaktan olmayan beyinlerini yitirmeleri
 bkz kamalacı beyni vs şempanze beyni
 bkz ülkücülerin çin sarayını basıp virüsü dövmeleri
 bkz tek dünya devletini kurup türklere siktiri çekmek
