@@ -6,6 +6,7 @@
 
 
 <!--
+bkz ibb nin sikiş teklifini reddetmesi
 bkz ibb nin ibnelik yapması
 bkz 2009 lu hatunların çatır çutur vermeye başlaması
 bkz imamoğlanın pkk yı sıcak denizlere davet etmesi
