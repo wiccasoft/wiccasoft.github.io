@@ -6,6 +6,7 @@
 
 <!--
 https://eksisozluk.com/entry/101200966 lol
+bkz halk fakirken ata cücünün snowboard yapması
 https://www.uludagsozluk.com/k/apo-ya-pembe-oda-getiren-zihniyet/
 bkz ali koçunuali sergenin sicili temiz değil demesi
 bkz tarkanın megastar olmayaı ben seçmedim demesi
