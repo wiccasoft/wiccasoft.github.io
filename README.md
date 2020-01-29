@@ -7,6 +7,7 @@
 
 <!--
 bkz huawei yi yazılım firması sanan ergen
+https://www.uludagsozluk.com/k/huawei-g%C3%BCncellemesi-indirsem-corona-bula%C5%9F%C4%B1r-m%C4%B1/
 bkz elçin sangunun büyüyünce amele olacam demesi
 bkz aptal x kuşağının deep webte yaşını söylemesi
 bkz z ve y kuşağının aptal olma nedenleri
