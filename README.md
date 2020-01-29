@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayar mısın
 bkz ekrem imamoğlanın iyice  taşşak oğlanı olması
 bkz ekrem imamoğlanın babasının oğla biraz kaysın oğlanı yollayacam demesi
 bkz ekrem imamoğlanın oğlum kayıyo size ne demesi
+bkz ben kadir mısıroğlu sorularınız cevaplamıyorum
 https://www.uludagsozluk.com/k/el%C3%A7in-sangu-nun-biz-pahal%C4%B1-ameleleriz-demesi/&w=bg bkz elçin sangu kim amk
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
 https://www.uludagsozluk.com/k/ali-r%C4%B1za-sergen-yal%C3%A7%C4%B1n/&w=bg bkz ali rıza efendi
