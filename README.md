@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz mustafa ata cücünün beni türk hakemlerine emanet ediniz demesi
 bkz mustafa ata cücünün habire yatması
 bkz mustafa ata cücüye kalk ta az ben yatam demek
 bkz mustafa ata cücünün evlenince sen yatarsın ben çalışırım demesi
