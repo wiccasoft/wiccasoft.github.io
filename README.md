@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ata cücnünü türk önde türk ileri tweeti
+bkz ata cücünün türk önde türk ileri tweeti
 bkz ata cücünün nmadem türksün göster ürksün tweeti
 bkz ata cücünün ikisi de elazığ'a gitti tweeti
 bkz ata cücünün türklükten aldığım keyf snowboard ta yok şerefsizim demesi
