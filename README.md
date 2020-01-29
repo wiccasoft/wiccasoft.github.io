@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz akpli naci bostancıdan skandal sözler
 bkz evlenince sana entry girdirmem diyen erkek
 bkz ata cücünün en yüksek millet türk milleti zaten demesi
 bkz ata cücün türk milleti harikadır demesi
