@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz fettullah gülenin fotosu olmadığı siyasetçi var mı sorunsalı
+https://www.uludagsozluk.com/k/t%C3%BCrke%C5%9Fin-fet%C3%B6yle-ili%C5%9Fkisi/
 https://www.youtube.com/watch?v=i4aEm8zTK5Y bkz enes baturun sessizliğini koruması
 http://www.hurriyet.com.tr/kelebek/hayat/reynmen-oldu-gundemi-sosyal-medyayi-karistirdi-41414807
 https://www.youtube.com/watch?v=hvWg_vmFuDI vuhan virüsü vs ülküc ocakları
