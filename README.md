@@ -7,7 +7,7 @@
 <!--
 bkz bilalin ensar vakfında snowboard yapması
 bkz recep tayyip erdoğan vs ata cücü
-bkz türklerin beni atacücüsanmaları
+bkz türklerin beni atacücü sanmaları
 https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
 bkz atacücünün her gece yarım kilo yoğurt yemesi
 bkz atacücünün yoğurttan aldığı yadı türklükten alamadım demesi
