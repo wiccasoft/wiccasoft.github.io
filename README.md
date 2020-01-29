@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz nasıl zengin oldum
 https://www.e-motivasyon.net/ise-dans-ederek-gitmiyorsaniz-o-isi-birakin-yuksek-ihtimalle-para-kazanamayacak-ve-servet-yaratamayacaksiniz-warren-buffett.html
 https://www.uludagsozluk.com/e/42743537/ zuahahaha
 https://www.youtube.com/watch?v=uRbEjK3-1B4 bence dans etmek süper
