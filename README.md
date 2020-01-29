@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/ bkz evlenin entry girmezsin kız
 https://www.youtube.com/watch?v=Og5YkhCg6cY ozan kabak
 bkz türk futbolunu türk fitbolculara emanet ediniz -ata cücü
 https://www.uludagsozluk.com/k/mustafa-fettaho%C4%9Flu/ bkz 2001 doğumlu yiğido
