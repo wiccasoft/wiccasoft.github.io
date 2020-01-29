@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz evlenince seni çalıştırmama diyen erkek
 bkz bilalin ensar vakfında snowboard yapması
 bkz recep tayyip erdoğan vs ata cücü
 bkz türklerin beni atacücü sanmaları
