@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz süleyman soylu nun reynmenin durumu iyi açıklaması
 bkz reynmenin demeyi kapaması
 https://www.youtube.com/watch?v=i4aEm8zTK5Y
 bkz reynmenin enes abiyle arası neden bozuldu sorunsalı
