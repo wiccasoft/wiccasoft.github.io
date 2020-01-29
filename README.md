@@ -6,6 +6,7 @@
 
 
 <!--
+bkz acununnun yeni bir fener ol kampanyası yapma zamanı geldi demesi
 bkz ensarın deprem paralarıyla snowboard yapması
 bkz ibb nin sikiş teklifini reddetmesi
 bkz ibb nin ibnelik yapması
