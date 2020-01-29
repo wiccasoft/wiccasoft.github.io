@@ -6,6 +6,7 @@
 
 <!-- https://eksisozluk.com/entry/101200966 lol
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayar mısın
+https://www.uludagsozluk.com/k/el%C3%A7in-sangu-nun-biz-pahal%C4%B1-ameleleriz-demesi/&w=bg bkzx elçin sangu kim amk
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
 https://www.uludagsozluk.com/k/ali-r%C4%B1za-sergen-yal%C3%A7%C4%B1n/&w=bg bkz ali rıza efendi
 https://eksisozluk.com/mehmet-ali-erbil-denince-akla-gelenler--6342358?a=popular bkz jess
