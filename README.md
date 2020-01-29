@@ -7,6 +7,7 @@
 <!--
 bkz türklerin ego sorunu vs ata cücü
 bkz türklerin kendini çok önemsemesi
+bkz internette görüdğü herşeyi kendileriyle ilgili sanan türkler
 bkz güneşin bile türklerin etrafında dönmesi
 bkz ata cücünün bir eleziğli dünyaya bedeldir tweeti
 bkz ata cücünün türk önde türk ileri tweeti
