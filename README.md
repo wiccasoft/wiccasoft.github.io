@@ -6,6 +6,7 @@
 
 <!-- 
 bkz ata cücü nün türkleri çok şişrmesi
+https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-a%C4%9Faca-ba%C4%9Flay%C4%B1p-d%C3%B6verek-%C3%B6ld%C3%BCren-konyal%C4%B1/
 bkz türklerin tembel ve aptal ve ahlaksız olması
 https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
 https://www.youtube.com/watch?v=otohjMymyYE zuahahahaha
