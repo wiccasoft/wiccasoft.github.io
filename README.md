@@ -5,8 +5,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz kamal ata cücünün futbolu türk hakemlerine bırakınız demesi
-bkz mustafa kamal ata cücünün gavurları denize dökmesi
+bkz ata cücü  nünü türklükten aldığım keyf snowboard ta yok şerefesizim demesi
+bkz ata cücünün futbolu türk hakemlerine bırakınız demesi
+bkz ata cücünün gavurları denize dökmesi
 bkz istanbul boş kay coş
 bkz bence her şey çok güzel zaten
 https://www.youtube.com/watch?v=TA6y-oRT1w0 
