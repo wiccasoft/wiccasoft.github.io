@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/e/42777323/ her zaman söylüyorum bu adamı yemeyecektiniz
 https://www.youtube.com/watch?v=ZP2YtHCXM6E 
 bkz yeşilyodaki arabın zencileşmek istemiyorum demesi
 https://www.uludagsozluk.com/k/ilker-ba%C5%9Fbu%C4%9F/&w=bg
