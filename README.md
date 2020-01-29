@@ -6,6 +6,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz antrikot ekrem yemek haramdır - ekocu gençler
 https://www.youtube.com/watch?v=ZP2YtHCXM6E
 bkz keriz gelecek yerden tavuk esirgememek
