@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz tek dünya devletini kurup türklere siktiri çekmek
 bkz mustafa kamal ata cücünün kafa sikmesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
 bkz mustafa ata cücünün beni türk hakemlerine emanet ediniz demesi
