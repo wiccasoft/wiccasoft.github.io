@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz türkeş in türkler eş demesi
 bkz reynmenin demeyi kapaması
 bkz fettullah gülenin türklerin jokeri olması :)))))))
 bkz fettullah gülenin fotosu olmadığı siyasetçi var mı sorunsalı
