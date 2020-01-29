@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz başbuğunu türkler ulusun düşmanları korksun demesi
+bkz başbuğun türklüğe lakarşı çıkanların kafasını kesecez demesi
+bkz başbuğun türkler ulusun düşmanları korksun demesi
 bkz kara muratın asıl kara murat benim demesi
 bkz ilker başbuğunu başbuğ benim demesi
 bkz ekrem imamaoğlanın hdplilerle dans etmesi
