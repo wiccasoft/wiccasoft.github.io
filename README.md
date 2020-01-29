@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz siklemedikçe çoşan türkler
+bkz siklemedikçe çoşan zombiler
 bkz istanbuldaki zombilerin iyice çığrından çıkması
 https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama benena
 https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
