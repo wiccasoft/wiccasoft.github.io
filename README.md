@@ -5,8 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz la bize her yer wuhan
-bkz bize heryer wuhan atara atar gidere gider
+bkz bize heryer wuhan atara atar gidere gider 
 https://www.uludagsozluk.com/k/wuhan-merkez-giremez-herkes/ 
 bkz rte nin fakir taklidi yaparak keklediği aktroller
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
