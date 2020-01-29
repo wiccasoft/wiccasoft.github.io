@@ -5,8 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz istanbulun zombi kaynaması
-https://www.youtube.com/watch?v=4RpMzsA1VOw zombiler hojdır ama benena
+https://www.youtube.com/watch?v=4RpMzsA1VOw bkz zombiler hojdır ama benena
 bkz ek rem takınca makinanın uçması
 https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg tarihte bugün 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
