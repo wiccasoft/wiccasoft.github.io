@@ -11,6 +11,8 @@ bkz gözleri imamoğlan diye gülen surat
 bkz devlet memurlarını gözünde çok büyüten surat
 bkz imamaoğlanın elazığ çok hojdır amam benena demesi
 bkz imamaoğlanın elazığa godoşlar diyarı demesi
+bkz kürtlerin ötünün kalkaması
+https://www.uludagsozluk.com/k/haval%C4%B1-ve-zengin-g%C3%B6r%C3%BCnmeye-%C3%A7al%C4%B1%C5%9Fan-k%C3%BCrtler/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-erzuruma-giderken-elaz%C4%B1%C4%9Fa-u%C4%9Framas%C4%B1/
 bkz dilek imamaoğlanın kayarken niye telefona bakmıyosun eko demesi
 https://www.youtube.com/watch?v=y55092MhqZQ kay kay klüp
