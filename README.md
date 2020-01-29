@@ -6,6 +6,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/42777309/
+bkz ilker başbuğun fetönün siyasi ayağını çıkarıp masaya vurması
 bkz ilker başbuğunu allah allah diye saldıracaz demesi
 bkz ilker başbuğun türklere başbuğmak kolay değildir hele bi gelsinler demesi
 bkz ata cücünün coronaya karşı milli mücadeleyi başlatması
