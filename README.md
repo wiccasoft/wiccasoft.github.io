@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-23-y%C4%B1ld%C4%B1r-%C3%A7al%C4%B1%C5%9Fan-i%C5%9F%C3%A7iyi-kovmas%C4%B1/
 bkz pkk energia nın kabataş caaart kabakaat demesi
 bkz pkk energia nın muhsin yazıcıoğlan sevgisi
 bkz pkk energia nın türk askerlerini çürük düye salması
