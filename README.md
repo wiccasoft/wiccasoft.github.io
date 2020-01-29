@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=iOxzG3jjFkY
 bkz kamalcıların eğitilmez olduğu gerçeği
 bkz yeşilyoldaki arabın zencileşmek istemiyorum demesi
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ 
