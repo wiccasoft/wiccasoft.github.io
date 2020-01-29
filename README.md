@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekrem imamoğlanın babası
+https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır hoj
 bkz ekrem imamaoğlşanın taşşak oğlanı gibi bişey olması
 bkz belediyeci ismet vs ekrem imamoğlan
 https://www.youtube.com/watch?v=ZP2YtHCXM6E belediyeci ismet
