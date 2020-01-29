@@ -5,77 +5,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
-bkz atacücünün türkler süperdir zekidir çalışkandır demesi
-bkz atacücünün yatarak para kazanması
-bkz akpli naci bostancıdan skandal sözler
-bkz evlenince sana entry girdirmem diyen erkek
-bkz ata cücünün en yüksek millet türk milleti zaten demesi
-bkz ata cücün türk milleti harikadır demesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
-bkz ata cücünün türk milleti zekidir çalışkandır demesi
-bkz evlenince seni çalıştırmam diye erkek
-https://eksisozluk.com/evlenince-seni-calistirmam-diyen-erkek--6342871?a=popular
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-a%C4%9Faca-ba%C4%9Flay%C4%B1p-d%C3%B6verek-%C3%B6ld%C3%BCren-konyal%C4%B1/
-bkz türklerin tembel ve aptal ve ahlaksız olması
-https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
-https://www.youtube.com/watch?v=otohjMymyYE zuahahahaha
-bkz kamalcıların dünyaya faydası
-bkz kamalcıların geri kalma sebepleri
-bkz kamalacı beyni vs şempanze beyni
-bkz ülkücülerin çin sarayını basıp virüsü dövmeleri
-bkz tek dünya devletini kurup türklere siktiri çekmek
-bkz mustafa kamal ata cücünün kafa sikmesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
-bkz mustafa ata cücünün beni türk hakemlerine emanet ediniz demesi
-bkz mustafa ata cücünün habire yatması
-bkz mustafa ata cücüye kalk ta az ben yatam demek
-bkz mustafa ata cücünün evlenince sen yatarsın ben çalışırım demesi
-bkz mustafa ata cücünün türklükten aldığı keyfi snowboard tan almadım demesi
-bkz mustafa ata cücünün türklük muhteşem bişey demesi
-bkz mustafa ata cücünün gavurları denize dökmesi
-bkz süleyman soylunun arap zencilere vatandaşlık vermesi
-https://www.uludagsozluk.com/k/d%C3%BCnya-t%C3%BCrk%C3%A7e-%C3%B6%C4%9Freniyor/
-bkz zencilere arap diyen ülkücülerin zeka seviyesi
-bkz yeşilyodaki arabın sanki zenci olması
-https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ 
-bkz bilalin ensar vakfını kapayıp güneye yerleşmesi
-bkz süleyman soylunun instagram düzeldi girebilirsiniz demesi
-bkz emre morun yürüdüğü kızın reynmenin patlatığı kız çıkması
-bkz süleyman soylu nun reynmenin durumu iyi açıklaması
-bkz reynmenin demeyi kapaması
-https://www.youtube.com/watch?v=i4aEm8zTK5Y
-bkz reynmenin enes abiyle arası neden bozuldu sorunsalı
-bkz fettullah gülenin türklerin jokeri olması :)))))))
-bkz fettullah gülenin fotosu olmadığı siyasetçi var mı sorunsalı
-https://www.uludagsozluk.com/k/t%C3%BCrke%C5%9Fin-fet%C3%B6yle-ili%C5%9Fkisi/
 https://www.youtube.com/watch?v=i4aEm8zTK5Y bkz enes baturun sessizliğini koruması
 http://www.hurriyet.com.tr/kelebek/hayat/reynmen-oldu-gundemi-sosyal-medyayi-karistirdi-41414807
-https://www.youtube.com/watch?v=hvWg_vmFuDI vuhan virüsü vs ülküc ocakları
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9Fin-son-anda-prensesi-kurtarmas%C4%B1/
-https://www.youtube.com/watch?v=OIOqFBa7htQ
-bkz reynmenin ela şarkısıs depremzedelere bağışlması
-bkz ali babacanın ben sizin babanızım demesi
-bkz türklerin birbirini düdüklemes sebepleri
-bkz yıkılan iki bina için 74 milyon toplamak
-bkz macun kaplıcalının elazığ için para toplaması
-bkz putinin elazığda dadaşlara soyuz dağıtması
-bkz süleyman soylu nun soyuz mc ler gururumuz demesi
-bkz macron'un reynmeni karantinaya alalım önerisi
-bkz france 24 ün reynmen corono virüsünü yayadı haberini yalanlaması
-https://www.youtube.com/watch?v=i4aEm8zTK5Y 
-bkz tom cruise un reynmeni yalanlaması
-bkz reynmenin stop corono virus make famous açıklaması
-bkz reynmenin demeden corona virüsü kaptığın iddaları
-bkz reynmenin fransada corona virüsü kaptığı iddaları
-https://eksisozluk.com/reynmenin-fransada-corona-virusune-yakalanmasi--6343130?a=popular
-bkz reynmenin cem yılmazın yeğeni olduğu iddaları
-https://www.youtube.com/watch?v=c7IoBRRBiX8 
-bkz enes abinin evlenince seni çalıştırmam sözü vermesi
-bkz enes abinin reynmen abiden sonra izole bölge yaratması
 https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ 
-https://www.youtube.com/watch?v=OIt8zscDjeM 
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
