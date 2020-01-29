@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz imamaoğlanın emre morun yürüdüğü kıza yürümesi
+https://www.youtube.com/watch?v=ZP2YtHCXM6E 
 https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
 bkz ata cücünün kuşatma altındayken travestilerden dayak yiyip kaçması
 bkz alper tunga nın acuna çıkması
