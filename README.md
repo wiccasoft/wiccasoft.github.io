@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünnü türklere zavallı gavatlar demesi
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
 https://www.youtube.com/watch?v=h6Q9id4Q_js bkz recep tayyip erdoğan mütevaziliği
 bkz evlenince gerdek gecesini arkadaşlıma anlatmam diyen erkek
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
