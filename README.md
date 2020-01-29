@@ -6,7 +6,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
-https://www.uludagsozluk.com/e/42777323/ her zaman söylüyorum bu adamı yemeyecektiniz
+https://www.uludagsozluk.com/e/42777323/ demin kız taklidi yapan deil mi bu
 https://www.youtube.com/watch?v=ZP2YtHCXM6E 
 bkz yeşilyodaki arabın zencileşmek istemiyorum demesi
 https://www.uludagsozluk.com/k/ilker-ba%C5%9Fbu%C4%9F/&w=bg
