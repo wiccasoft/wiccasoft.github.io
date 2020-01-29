@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.youtube.com/watch?v=OIOqFBa7htQ
 bkz reynmenin ela şarkısıs depremzedelere bağışlması
 bkz ali babacanın ben sizin babanızım demesi
 bkz türklerin birbirini düdüklemes sebepleri
