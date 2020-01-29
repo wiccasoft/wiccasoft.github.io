@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz 3 yıldır dışarı çıkmayan adam
+bkz istanbulun zombi kaynaması
 bkz ek rem takınca makinanın uçması
 https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg tarihte bugün 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
