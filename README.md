@@ -6,6 +6,7 @@
 
 
 <!--
+bkz ensarın deprem paralarıyla snowboard yapması
 bkz ibb nin sikiş teklifini reddetmesi
 bkz ibb nin ibnelik yapması
 bkz 2009 lu hatunların çatır çutur vermeye başlaması
