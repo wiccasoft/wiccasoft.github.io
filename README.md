@@ -6,7 +6,7 @@
 
 <!--
 bkz istanbul boş kay coş
-bkz kaymak için kaybedecek vaktimiz çok
+bkz kaymak için kaybedecek vaktimiz yok
 bkz gözleri imamoğlan diye gülen surat
 bkz imamaoğlanın elazığ çok hojdır amam benena demesi
 bkz imamaoğlanın elazığa godoşlar diyarı demesi
