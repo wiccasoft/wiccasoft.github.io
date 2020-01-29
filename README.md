@@ -7,9 +7,7 @@
 <!-- 
 bkz zencilere arap diyen ülkücülerin zeka seviyesi
 bkz yeşilyodaki arabın sanki zenci olması
-bkz süleyman soyulunun soyumuz kıpçaklara dayanır demesi
-bkz süleyman soylunun patlamak istemiyorum demesi
-https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ patlamak istemiyorum patron
+https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ 
 bkz bilalin ensar vakfını kapayıp güneye yerleşmesi
 bkz süleyman soylunun instagram düzeldi girebilirsiniz demesi
 bkz emre morun yürüdüğü kızın reynmenin patlatığı kız çıkması
