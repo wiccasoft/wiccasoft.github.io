@@ -6,9 +6,6 @@
 
 <!--
 bkz izole yaşamak için şehir dışına malikane yaptıran erkek
-bkz travestilerden  dayak yememk için saray yaptıran erkek
-bkz ayak parmaklarımdaki kiri kadına tercih ederim diyen erkek
-bkz bir kadının ayaklarını yıkamayan erkek
 bkz bir travesti için çabalamayan erkek
 bkz bir kadın için servet dökemeyen erkek
 bkz bir kadın için demeden yürümeyen erkek
