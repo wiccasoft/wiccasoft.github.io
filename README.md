@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ilke başbuğunu allah allah diye saldıracaz demesi
 bkz ilker başbuğun türklere başbuğmak kolay değildir hele bi gelsinler demesi
 bkz ata cücünün coronaya karşı milli mücadeleyi başlatması
 bkz ata cücünün virüse karşı ittihat ve terakkiyi kurması
