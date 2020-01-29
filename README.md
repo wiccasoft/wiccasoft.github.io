@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz 2009 lu hatunları çatır çutur vermeye başlaması
+bkz 2009 lu hatunların çatır çutur vermeye başlaması
 bkz imamoğlanın pkk yı sıcak denizlere davet etmesi
 bkz pkk nın sıcak denizlere inecez açıklaması
 https://www.uludagsozluk.com/k/mart%C4%B1-d%C3%B6ner-yiyip-en-pahal%C4%B1-telefonu-kullanmak/ güldürür eet
