@@ -6,6 +6,7 @@
 
 <!--
 bkz istanbul boş kay coş
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
 bkz kaymak için kaybedecek vaktimiz yok
 bkz gözleri imamoğlan diye gülen surat
 bkz devlet memurlarını gözünde çok büyüten surat
