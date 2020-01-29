@@ -11,6 +11,7 @@ bkz pkk energia nın türk askerlerini çürük düye salması
 bkz yenge de erik gibiymiş kütr kütr reis
 bkz pkk energianın muhsin yazıcıoğlanın helikopterini düşürmesi
 bkz evlenince sana entry girdirmem yatarsın bütün gün diyen erkek
+https://www.uludagsozluk.com/k/hayatta-herkesin-kendi-g%C3%B6t%C3%BCn%C3%BC-kurtarmas%C4%B1/&w=bg bir realite
 https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
 https://www.youtube.com/watch?v=Og5YkhCg6cY ozan kabak
 bkz türk futbolunu türk fitbolculara emanet ediniz -ata cücü
