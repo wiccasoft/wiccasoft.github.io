@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
 https://www.uludagsozluk.com/e/42777323/ her zaman söylüyorum bu adamı yemeyecektiniz
 https://www.youtube.com/watch?v=ZP2YtHCXM6E 
 bkz yeşilyodaki arabın zencileşmek istemiyorum demesi
