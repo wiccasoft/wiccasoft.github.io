@@ -7,6 +7,7 @@
 <!--
 bkz alper tunga nın acuna çıkması
 bkz bir travesti için çabalamayan adam
+bkz osman pamukoğlunun leş toplamam demesi
 bkz türkeşin türke meydan okuyanın alnını karışlarım demesi
 bkz ilker başbuğun baç buğa meydan okumak nedir öğretmesi
 https://www.uludagsozluk.com/e/42777309/bkz çıkarığ masaya vurmak nedir nasıl yapılır
