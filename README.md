@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz siklemedikçe çoşan türkler
+https://www.youtube.com/watch?v=tVfyO37ARpQ
 bkz türklerin sevilmeme nedenleri
 bkz türklerin ego sorunu vs ata cücü
 bkz türklerin kendini çok önemsemesi sorunsalı
