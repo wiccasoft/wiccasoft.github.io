@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz mustafa ata cücünün evlenince sen yatarsın ben çalışırım demesi
 bkz mustafa ata cücünün türklükten aldığı keyfi snowboard tan almadım demesi
 bkz mustafa ata cücünün türklük muhteşem bişey demesi
 bkz mustafa ata cücünün gavurları denize dökmesi
