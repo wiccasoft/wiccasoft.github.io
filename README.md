@@ -8,32 +8,6 @@
 bkz osman pamukoğlunun ben askerime leş toplatmam çıkışı
 https://www.uludagsozluk.com/e/42777309/
 bkz ilker başbuğun fetönün siyasi ayağını çıkarıp masaya vurması
-bkz ilker başbuğunu allah allah diye saldıracaz demesi
-bkz ilker başbuğun türklere başbuğmak kolay değildir hele bi gelsinler demesi
-bkz ata cücünün coronaya karşı milli mücadeleyi başlatması
-bkz ata cücünün virüse karşı ittihat ve terakkiyi kurması
-bkz ata cücünün her gece yarım litre rakı içmesi
-bkz ata cücünün sivas kongresi öncesi ismeti çağırtması
-bkz ata cücünün kuşatma altındayken çarşaf giymesi
-bkz ata cücünün türklük düşmanlarını gelecekleri varsa görecekleri de var demesi
-bkz başbuğun türklüğe karşı çıkanların kafasını kesecez demesi
-bkz başbuğun türkler ulusun düşmanları korksun demesi
-bkz kara muratın asıl kara murat benim demesi
-bkz ilker başbuğunu başbuğ benim demesi
-bkz ekrem imamaoğlanın hdplilerle dans etmesi
-bkz türkeşin türke zara vereni sikerem demesi
-bkz ilker başbuğun uluyup tanrı türke zeval eylemesin demesi
-bkz imamaoğlanın yine yürümesi
-bkz bir kadın için demeden yürümeyen erkek
-bkz yedi arap için çabalamayn erkek
-bkz yedi ceddini arapların sikmişlerin arap fobisi
-bkz kara kafalıların araplaşmayacaz demesi
-bkz yeşilyokdaki arabın zencileşmek istemiyorum demesi
-bkz damarlarımda asil kan var diyen zombi
-bkz yeşilyoldaki arabın sanki  zenci olması
-bkz istanbuldaki zombilerin tam red alertlik olması
-bkz istanbuldaki zombilerin suratındaki yedi cedddinizi sikerim ifadesi
-bkz vampirlerin şehirleri istila ederiz tehdidi
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz polat alemdarın istanbulu zombiler istila etmesin diye nöbet tutması
 bkz ek rem takınca makinanın uçması
