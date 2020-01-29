@@ -6,7 +6,6 @@
 
 <!--
 bkz osman pamukoğlunun ben askerime leş toplatmam çıkışı
-https://www.uludagsozluk.com/e/42777309/
 bkz ilker başbuğun fetönün siyasi ayağını çıkarıp masaya vurması
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz polat alemdarın istanbulu zombiler istila etmesin diye nöbet tutması
