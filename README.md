@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz ata cücünün türk milleti zekidir çalışkandır demesi
 bkz evlenince seni çalıştırmam diye erkek
 https://eksisozluk.com/evlenince-seni-calistirmam-diyen-erkek--6342871?a=popular
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-a%C4%9Faca-ba%C4%9Flay%C4%B1p-d%C3%B6verek-%C3%B6ld%C3%BCren-konyal%C4%B1/
