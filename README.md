@@ -6,7 +6,7 @@
 
 <!--
 bkz türklerin ego sorunu vs ata cücü
-bkz türklerin kendini çok önemsemesi
+bkz türklerin kendini çok önemsemesi sorunsalı
 bkz gözleri garip şekilleri kendisiyle ilgili sanan suratın göt olması
 bkz internette görüdğü herşeyi kendileriyle ilgili sanan türkler
 bkz güneşin bile türklerin etrafında dönmesi
