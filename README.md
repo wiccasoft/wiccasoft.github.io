@@ -6,6 +6,7 @@
 
 <!--
 bkz türklerin beni atacücüsanmaları
+https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
 bkz atacücünün her gece yarım kilo yoğurt yemesi
 bkz atacücünün yoğurttan aldığı yadı türklükten alamadım demesi
 bkz atacücünün her gece yarım litre yunan dökmesi
