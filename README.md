@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ata cücünün yunanları deniz döküp nasıl döktüm ama demesi
+bkz ata cücünün yunanları denize döküp nasıl döktüm ama demesi
 bkz ata cücünün kuşatma altındayken ilk hedefiniz akdeniz demesi
 bkz ata cücünün kuşatma altındayken çarşaf giyip kaçması
 bkz osman pamukoğlunun ben askerime leş toplatmam çıkışı
