@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz türklerin birbirini düdüklemes sebepleri
 bkz yıkılan iki bina için 74 milyon toplamak
 bkz macun kaplıcalının elazığ için para toplaması
 bkz putinin elazığda dadaşlara soyuz dağıtması
