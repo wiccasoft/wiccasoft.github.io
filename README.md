@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yenge de erik gibiymiş kütr kütr reis
 bkz muhsin yazıcıoğlanın helikopteri
 bkz evlenince sana entry girdirmem yatarsın bütün gün diyen erkek
 https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
