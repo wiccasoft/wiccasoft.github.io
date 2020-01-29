@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz imamaoğlanın pkk ya yüz vermesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-23-y%C4%B1ld%C4%B1r-%C3%A7al%C4%B1%C5%9Fan-i%C5%9F%C3%A7iyi-kovmas%C4%B1/
