@@ -6,7 +6,7 @@
 
 <!--
 bkz istanbul boş kay coş
-bkz fakirlerin kayamıyorlar diye kafa sikmesi
+https://www.youtube.com/watch?v=4RpMzsA1VOw bkz fakirlerin kayamıyorlar diye kafa sikmesi
 https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/
 bkz imamaoğlanın babasının ne var oğlan bi kayak yaptıysa dmemesi
 bkz bay kemalın tepkileri önemsememei
