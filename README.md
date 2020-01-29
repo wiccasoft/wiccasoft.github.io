@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz evlenince sana dananın kuyruk sokumundan yediririm diyen erkek
+bkz evlenince sana antrikot yediririm diyen erkek
 bkz 3 metre boyundaki erkek 2.5 metre boyundaki kız ilişkisi
 bkz evlenince sana entry girdirmem diyen erkek
 bkz evlenince seni çalıştırmama diyen erkek
