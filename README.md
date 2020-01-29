@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCc%C3%BCk-bebe%C4%9Fe-hulki-diye-isim-koymak/
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg 
 https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
 https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır 
