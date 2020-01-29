@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin fakir taklidi yaparak keklediği aktroller
 https://www.youtube.com/watch?v=h6Q9id4Q_js 
 bkz recep tayyip erdoğan mütevaziliği
 bkz ekşicilerin ne kafası yaşaması
