@@ -6,6 +6,7 @@
 
 <!-- 
 bkz reynmenin demeyi kapaması
+https://www.youtube.com/watch?v=i4aEm8zTK5Y
 bkz reynmenin enes abiyle arası neden bozuldu sorunsalı
 bkz fettullah gülenin türklerin jokeri olması :)))))))
 bkz fettullah gülenin fotosu olmadığı siyasetçi var mı sorunsalı
