@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bir kadın için demeden yürümeyen erkek
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz demeden yürüyemeyen erkek
 bkz ekrem imamoğlanın demeden yürüdüğü kız
 https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
