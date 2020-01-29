@@ -5,8 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz istanbuldaki insanların suratındaki nur
-bkz son insanların yaşadığı şehrin istanbul olması
+bkz istanbuldaki zombilerin suratındaki nur
 bkz vampirlerin şehirleri istila ederiz tehdidi
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz polat alemdarın istanbulu zombiler istila etmesin diye nöbet tutması
