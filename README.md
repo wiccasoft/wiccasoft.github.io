@@ -5,11 +5,11 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- https://eksisozluk.com/entry/101200966 lol
-bkz ekrem imamaoğlanın iyice  taşşak oğlanı olması
-bkz ekrem imamaoğlanın babasının oğla biraz kaysın oğlanı yollayacam demesi
-bkz ekrem imamaoğlanın oğlum kayıyo size ne demesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayar mısın
-https://www.uludagsozluk.com/k/el%C3%A7in-sangu-nun-biz-pahal%C4%B1-ameleleriz-demesi/&w=bg bkzx elçin sangu kim amk
+bkz ekrem imamoğlanın iyice  taşşak oğlanı olması
+bkz ekrem imamoğlanın babasının oğla biraz kaysın oğlanı yollayacam demesi
+bkz ekrem imamoğlanın oğlum kayıyo size ne demesi
+https://www.uludagsozluk.com/k/el%C3%A7in-sangu-nun-biz-pahal%C4%B1-ameleleriz-demesi/&w=bg bkz elçin sangu kim amk
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
 https://www.uludagsozluk.com/k/ali-r%C4%B1za-sergen-yal%C3%A7%C4%B1n/&w=bg bkz ali rıza efendi
 https://eksisozluk.com/mehmet-ali-erbil-denince-akla-gelenler--6342358?a=popular bkz jess
