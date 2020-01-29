@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte ikinci atacücü olduğuna göre 2. rte bilal mi sorunsalı
 bkz atacününü sayanorayı satması
 bkz atacücünün her gece beş litre rakı içmesi
 bkz ata cücünü türklere aptal tembel ve ahlaksız millet demesi
