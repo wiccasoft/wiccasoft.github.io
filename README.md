@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=ZP2YtHCXM6E 
+bkz yeşilyodaki arabın zencileşmek istemiyorum demesi
 https://www.uludagsozluk.com/k/ilker-ba%C5%9Fbu%C4%9F/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
 https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
