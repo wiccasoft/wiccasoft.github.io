@@ -4,8 +4,9 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- 
-blökz ata cücünün en yüksek millet türk milleti zaten demesi
+<!--
+bkz evlenince sana entrt girdirmem diyen erkek
+bkz ata cücünün en yüksek millet türk milleti zaten demesi
 bkz ata cücün türk milleti harikadır demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
 bkz ata cücünün türk milleti zekidir çalışkandır demesi
