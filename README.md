@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz bir kadın için takla atmayan erkek
+bkz ata cücünün ilke hedefiniz akdeniz demesi
 bkz ata cücünün kuşatma altındayken çarşaf giyip kaçması
 bkz osman pamukoğlunun ben askerime leş toplatmam çıkışı
 bkz ilker başbuğun fetönün siyasi ayağını çıkarıp masaya vurması
