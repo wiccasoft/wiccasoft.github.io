@@ -6,12 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-bkz izole yaşamak için şehir dışına malikane yaptıran erkek
-bkz bir travesti için çabalamayan erkek
-bkz bir kadın için servet dökemeyen erkek
-bkz bir kadın için demeden yürümeyen erkek
-https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz demeden yürüyemeyen erkek
-bkz ekrem imamoğlanın demeden yürüdüğü kız
+https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg 
 https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
 https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır 
 bkz belediyeci ismet vs ekrem imamoğlan
