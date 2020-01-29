@@ -7,9 +7,6 @@
 <!--
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz polat alemdarın istanbulu zombiler istila etmesin diye nöbet tutması
-bkz ata cücünü zombileri denize dökmesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
-https://www.youtube.com/watch?v=4RpMzsA1VOw bkz zombiler hojdır ama benena
 bkz ek rem takınca makinanın uçması
 https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg tarihte bugün 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
