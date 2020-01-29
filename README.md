@@ -4,45 +4,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-bkz bize heryer wuhan atara atar gidere gider 
-https://www.uludagsozluk.com/k/wuhan-merkez-giremez-herkes/ 
-bkz rte nin fakir taklidi yaparak keklediği aktroller
-https://www.youtube.com/watch?v=h6Q9id4Q_js 
-bkz recep tayyip erdoğan mütevaziliği
-bkz ekşicilerin ne kafası yaşaması
-bkz burak özçivitin fahriye evcanı çalıştırmam demesi
-bkz evlenince evi temizlersin diyen erkek
-bkz ben işimle evliyim zaten diyen erkek
-bkz rte ikinci atacücü olduğuna göre 2. rte bilal mi sorunsalı
-bkz atacününü sayanorayı satması
-bkz atacücünün her gece beş litre rakı içmesi
-bkz ata cücünü türklere aptal tembel ve ahlaksız millet demesi
-bkz ata cücünnü türklere zavallı gavatlar demesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
-https://www.youtube.com/watch?v=h6Q9id4Q_js bkz recep tayyip erdoğan mütevaziliği
-bkz evlenince gerdek gecesini arkadaşlıma anlatmam diyen erkek
-https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz
-bkz evlenince sana antrikot yediririm diyen erkek
-bkz 3 metre boyundaki erkek 2.5 metre boyundaki kız ilişkisi
-bkz evlenince sana entry girdirmem diyen erkek
-bkz evlenince seni çalıştırmama diyen erkek
-bkz bilalin ensar vakfında snowboard yapması
-bkz recep tayyip erdoğan vs ata cücü
-bkz türklerin beni atacücü sanmaları
-https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
-bkz atacücünün her gece yarım kilo yoğurt yemesi
-bkz atacücünün yoğurttan aldığı yadı türklükten alamadım demesi
-bkz atacücünün her gece yarım litre yunan dökmesi
-bkz atacücünün evlenelim seni çalıştırmayacam demesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-her-gece-yar%C4%B1m-litre-rak%C4%B1-i%C3%A7mesi/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrk-bayra%C4%9F%C4%B1-caiz-de%C4%9Fil-diyen-islamc%C4%B1-site/
-https://www.youtube.com/watch?v=i4aEm8zTK5Y bkz enes baturun sessizliğini koruması
-http://www.hurriyet.com.tr/kelebek/hayat/reynmen-oldu-gundemi-sosyal-medyayi-karistirdi-41414807
-https://eksisozluk.com/entry/101200966 lol
-https://www.youtube.com/watch?v=y55092MhqZQ 
--->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
