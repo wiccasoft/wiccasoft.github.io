@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz mustaf ata  cücünün türklük muhteşem bişey demesi
+bkz mustafa ata cücünün türklükten aldığı keyfi snowboard tan almadım demesi
+bkz mustafa ata cücünün türklük muhteşem bişey demesi
 bkz mustafa ata cücünün gavurları denize dökmesi
 bkz süleyman soylunun arap zencilere vatandaşlık vermesi
 https://www.uludagsozluk.com/k/d%C3%BCnya-t%C3%BCrk%C3%A7e-%C3%B6%C4%9Freniyor/
