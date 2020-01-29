@@ -9,6 +9,7 @@ https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ
 bkz atatürkün her gece yarım litre şampanya içmesi
 bkz evlenirsek sana her gece yarım litre şampanya içiririm diyen erkek
+bkz evlenirsek üstüne şampanya döker yalarım diyen erkek
 https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
 https://www.uludagsozluk.com/k/efe-isimli-erke%C4%9Fin-delikanl%C4%B1-olma-ihtimali/
 https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/
