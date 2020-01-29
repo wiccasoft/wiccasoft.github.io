@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz alpaslan türkeşin türklere benzemesi
+https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9Fin-son-anda-prensesi-kurtarmas%C4%B1/
 https://www.youtube.com/watch?v=OIOqFBa7htQ
 bkz reynmenin ela şarkısıs depremzedelere bağışlması
 bkz ali babacanın ben sizin babanızım demesi
