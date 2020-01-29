@@ -6,7 +6,6 @@
 
 <!-- 
 bkz reynmenin cem yılmazın yeğeni olduğu iddaları
-bkz 41 yaşından sonra ergenlerin kafa siktiği gerçeği
 https://www.youtube.com/watch?v=c7IoBRRBiX8 
 bkz enes abinnin senin için yutupırlık yapıyorum gülüm demesi
 bkz enes abinin evlenince seni çalıştırmam sözü vermesi
