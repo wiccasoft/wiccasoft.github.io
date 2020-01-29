@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz rte ikinci ata cücü olduğuna göre 2. rte kim oalcak sorunsalı
+bkz rte ikinci ata cücü olduğuna göre 2. rte kim olacak sorunsalı
 bkz belediyeci ismet vs ekrem imamoğlan
 https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ
