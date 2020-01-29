@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yeşilyokdaki arabın zencileşmek istemiyorum demesi
 bkz damarlarımda asil kan var diyen zombi
 bkz yeşilyoldaki arabın sanki  zenci olması
 bkz istanbuldaki zombilerin tam red alertlik olması
