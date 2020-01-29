@@ -9,7 +9,7 @@ https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bile
 https://www.uludagsozluk.com/k/ali-r%C4%B1za-sergen-yal%C3%A7%C4%B1n/&w=bg bkz ali rıza efendi
 https://eksisozluk.com/mehmet-ali-erbil-denince-akla-gelenler--6342358?a=popular bkz jess
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-kayak-tatili-tepkilerini-%C3%B6nemsememesi/ 
-https://www.youtube.com/watch?v=dKeHGcTvZuE
+https://www.youtube.com/watch?v=dKeHGcTvZuE bkz ali rıza sergen yalçının snowbordçu çıkması
 -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
