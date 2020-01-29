@@ -8,6 +8,7 @@
 bkz 2009 lu hatunları çatır çutur vermeye başlaması
 bkz imamoğlanın pkk yı sıcak denizlere davet etmesi
 bkz pkk nın sıcak denizlere inecez açıklaması
+https://www.uludagsozluk.com/k/mart%C4%B1-d%C3%B6ner-yiyip-en-pahal%C4%B1-telefonu-kullanmak/ güldürür eet
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz imamaoğlanın pkk ya yüz vermesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
