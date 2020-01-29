@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz pkknın sıcak denizlere inecez açıklaması
 https://twitter.com/kamilmakarna/status/1024737292123037696
 bkz imamaoğlanın pkk ya yüz vermesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
@@ -13,7 +14,6 @@ bkz pkk energia nın kabataş caaart kabakaat demesi
 bkz pkk energia nın muhsin yazıcıoğlan sevgisi
 bkz pkk energia nın türk askerlerini çürük düye salması
 bkz yenge de erik gibiymiş kütr kütr reis
-https://www.uludagsozluk.com/k/pkk-nin-elinde-12-askerimizin-olmas%C4%B1/ hayallerde yaşıyor bazı ibneler
 bkz pkk energianın muhsin yazıcıoğlanın helikopterini düşürmesi
 bkz evlenince sana entry girdirmem yatarsın bütün gün diyen erkek
 https://www.uludagsozluk.com/k/hayatta-herkesin-kendi-g%C3%B6t%C3%BCn%C3%BC-kurtarmas%C4%B1/&w=bg bir realite
