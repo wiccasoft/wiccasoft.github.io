@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz kamalcıların ırkçılık yapmaktan olmayan beyinlerini yitirmeleri
 bkz kamalacı beyni vs şempanze beyni
 bkz ülkücülerin çin sarayını basıp virüsü dövmeleri
 bkz tek dünya devletini kurup türklere siktiri çekmek
