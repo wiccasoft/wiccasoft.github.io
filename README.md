@@ -8,6 +8,7 @@
 bkz istanbul boş kay coş
 bkz kaymak için kaybedecek vaktimiz yok
 bkz gözleri imamoğlan diye gülen surat
+bkz devlet memurlarını gözünde çok büyüten surat
 bkz imamaoğlanın elazığ çok hojdır amam benena demesi
 bkz imamaoğlanın elazığa godoşlar diyarı demesi
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-erzuruma-giderken-elaz%C4%B1%C4%9Fa-u%C4%9Framas%C4%B1/
