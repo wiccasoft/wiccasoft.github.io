@@ -7,6 +7,7 @@
 <!-- 
 bkz rte ikinci ata cücü olduğuna göre 2. rte kim olacak sorunsalı
 bkz belediyeci ismet vs ekrem imamoğlan
+bkz ekrem imamaoğlanın babasını oğlan kaysın yollarım demesi
 https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ
 bkz evlenirsek üstüne şampanya döker yalarım diyen erkek
