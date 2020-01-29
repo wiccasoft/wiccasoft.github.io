@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=uRbEjK3-1B4 bence dans etmek süper
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
 https://www.youtube.com/watch?v=OIOqFBa7htQ ben sizin babanızım
 bkz ekrem imamaoğlanın kayarken havada spin atması
