@@ -7,6 +7,7 @@
 <!--
 bkz 3 yıldır dışarı çıkmayan adam
 bkz ek rem takınca makinanın uçması
+https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg tarihte bugün 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCc%C3%BCk-bebe%C4%9Fe-hulki-diye-isim-koymak/
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg 
