@@ -8,6 +8,7 @@
 bkz istanbul boş kay coş
 bkz bence her şey çok güzel zaten
 https://www.youtube.com/watch?v=TA6y-oRT1w0 
+bkz mustafa kamal ata cücünün gavurları denize dökmesi
 bkz kaymak için kaybedecek vaktimiz yok
 bkz gözleri imamoğlan diye gülen surat
 bkz devlet memurlarını gözünde çok büyüten surat
