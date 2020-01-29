@@ -5,6 +5,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-t%C3%BCrk-milletine-zavall%C4%B1-demesi/
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-her-gece-yar%C4%B1m-litre-rak%C4%B1-i%C3%A7mesi/&w=bg
+https://www.uludagsozluk.com/k/t%C3%BCrk-bayra%C4%9F%C4%B1-caiz-de%C4%9Fil-diyen-islamc%C4%B1-site/
 https://www.youtube.com/watch?v=i4aEm8zTK5Y bkz enes baturun sessizliğini koruması
 http://www.hurriyet.com.tr/kelebek/hayat/reynmen-oldu-gundemi-sosyal-medyayi-karistirdi-41414807
 https://eksisozluk.com/entry/101200966 lol
