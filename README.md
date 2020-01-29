@@ -6,7 +6,6 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz gavurları denize döken yiğido
 bkz pkk energia nın kabataş caaart kabakaat demesi
 bkz pkk energia nın muhsin yazıcıoğlan sevgisi
 bkz pkk energia nın türk askerlerini çürük düye salması
