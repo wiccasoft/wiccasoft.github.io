@@ -6,6 +6,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/el%C3%A7in-sangu-nun-biz-pahal%C4%B1-ameleleriz-demesi/ bkz elçin sangu kim amk
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz antrikot ekrem yemek haramdır - ekocu gençler
 https://www.youtube.com/watch?v=ZP2YtHCXM6E
