@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekrem imamoğlanın demede yürüdüğü kız
+bkz ekrem imamoğlanın demeden yürüdüğü kız
 https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
 https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır 
 bkz belediyeci ismet vs ekrem imamoğlan
