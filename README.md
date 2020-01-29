@@ -8,6 +8,7 @@
 bkz istanbul boş kay coş
 bkz kaymak için kaybedecek vaktimiz çok
 bkz dilke imamaoğlanın kayarken niye telefona bakmıyosun eko demesi
+https://www.youtube.com/watch?v=y55092MhqZQ kay kay klüp
 bkz imamaoğlanın babasını oğlan biraz daha kaysın yollarım demesi
 https://www.uludagsozluk.com/k/ali-t%C3%BCrk%C5%9Fen/&w=bg bkz ikkinci atacücü
 https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/ 
