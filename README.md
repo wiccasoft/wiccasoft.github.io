@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz belediyeci ekremin imamoğluyum ben demesi
 bkz izole yaşamak için şehir dışına malikane yaptıran erkek
 bkz bir travesti için çabalamayan erkek
 bkz bir kadın için servet dökemeyen erkek
