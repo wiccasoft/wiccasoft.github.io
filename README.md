@@ -7,7 +7,9 @@
 <!--
 bkz istanbul boş kay coş
 bkz kaymak için kaybedecek vaktimiz çok
-bkz dilke imamaoğlanın kayarken niye telefona bakmıyosun eko demesi
+bkz gözleri imamoğlan diye gülen surat
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-erzuruma-giderken-elaz%C4%B1%C4%9Fa-u%C4%9Framas%C4%B1/
+bkz dilek imamaoğlanın kayarken niye telefona bakmıyosun eko demesi
 https://www.youtube.com/watch?v=y55092MhqZQ kay kay klüp
 bkz imamaoğlanın babasını oğlan biraz daha kaysın yollarım demesi
 https://www.uludagsozluk.com/k/ali-t%C3%BCrk%C5%9Fen/&w=bg bkz ikkinci atacücü
