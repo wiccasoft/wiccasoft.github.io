@@ -5,8 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz türkeş in türkler eş demesi
 bkz reynmenin demeyi kapaması
+bkz türkeşin reynmeni tebrik etmesi
 bkz fettullah gülenin türklerin jokeri olması :)))))))
 bkz fettullah gülenin fotosu olmadığı siyasetçi var mı sorunsalı
 https://www.uludagsozluk.com/k/t%C3%BCrke%C5%9Fin-fet%C3%B6yle-ili%C5%9Fkisi/
