@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz teşilyodaki arabın sanki zenci olması
+bkz zencilere arap diyen ülkücülerin zeka seviyesi
+bkz yeşilyodaki arabın sanki zenci olması
 bkz süleyman soyulunun soyumuz kıpçaklara dayanır demesi
 bkz süleyman soylunun patlamak istemiyorum demesi
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ patlamak istemiyorum patron
