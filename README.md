@@ -6,7 +6,6 @@
 
 <!--
 https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır hoj
-bkz ekrem imamaoğlşanın taşşak oğlanı gibi bişey olması
 bkz belediyeci ismet vs ekrem imamoğlan
 https://www.youtube.com/watch?v=ZP2YtHCXM6E belediyeci ismet
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz nasıl zengin oldum
