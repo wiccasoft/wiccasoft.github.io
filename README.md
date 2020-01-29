@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ata cücünün gavurları deniz dökmesi
+bkz mustaf kamal ata cücünün gavurları deniz dökmesi
 bkz istanbul boş kay coş
 bkz bence her şey çok güzel zaten
 https://www.youtube.com/watch?v=TA6y-oRT1w0 
