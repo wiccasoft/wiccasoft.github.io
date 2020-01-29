@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.youtube.com/watch?v=otohjMymyYE zuahahahaha
 bkz kamalcıların dünyaya faydası
 bkz kamalcıların geri kalma sebepleri
 bkz kmalcıların tırnak makası dışında ürettiği şey
