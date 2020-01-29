@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ilker başnuğun ilk asker baş buğ dur demesi
 bkz ata cücünün coronaya karşı milli mücadeleyi başlatması
 bkz ata cücünün virüse karşı ittihat ve terakkiyi kurması
 bkz ata cücünün her gece yarım litre rakı içmesi
