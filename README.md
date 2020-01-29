@@ -6,6 +6,7 @@
 
 <!--
 bkz istanbulun zombi kaynaması
+https://www.youtube.com/watch?v=4RpMzsA1VOw zombiler hojdır ama benena
 bkz ek rem takınca makinanın uçması
 https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg tarihte bugün 
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
