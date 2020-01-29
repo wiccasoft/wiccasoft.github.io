@@ -4,6 +4,90 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
+
+<!--
+bkz ibb nin ibnelik yapması
+bkz 2009 lu hatunların çatır çutur vermeye başlaması
+bkz imamoğlanın pkk yı sıcak denizlere davet etmesi
+bkz pkk nın sıcak denizlere inecez açıklaması
+https://www.uludagsozluk.com/k/mart%C4%B1-d%C3%B6ner-yiyip-en-pahal%C4%B1-telefonu-kullanmak/ güldürür eet
+https://twitter.com/kamilmakarna/status/1024737292123037696
+bkz imamaoğlanın pkk ya yüz vermesi
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-23-y%C4%B1ld%C4%B1r-%C3%A7al%C4%B1%C5%9Fan-i%C5%9F%C3%A7iyi-kovmas%C4%B1/
+bkz pkk energia nın kabataş caaart kabakaat demesi
+bkz pkk energia nın muhsin yazıcıoğlan sevgisi
+bkz pkk energia nın türk askerlerini çürük düye salması
+bkz yenge de erik gibiymiş kütr kütr reis
+bkz pkk energianın muhsin yazıcıoğlanın helikopterini düşürmesi
+bkz evlenince sana entry girdirmem yatarsın bütün gün diyen erkek
+https://www.uludagsozluk.com/k/hayatta-herkesin-kendi-g%C3%B6t%C3%BCn%C3%BC-kurtarmas%C4%B1/&w=bg bir realite
+https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
+https://www.youtube.com/watch?v=Og5YkhCg6cY ozan kabak
+bkz türk futbolunu türk fitbolculara emanet ediniz -ata cücü
+https://www.uludagsozluk.com/k/mustafa-fettaho%C4%9Flu/ bkz 2001 doğumlu yiğido
+https://www.uludagsozluk.com/e/42774913/ bkz yılmaz ata cücü
+bkz siklemedikçe çoşan zombiler
+https://www.youtube.com/watch?v=tVfyO37ARpQ
+bkz istanbuldaki zombilerin iyice çığrından çıkması
+https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır ama benena
+https://www.uludagsozluk.com/k/evlenince-seni-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmam-diyen-erkek/
+bkz türklerin sevilmeme nedenleri
+bkz türklerin ego sorunu vs ata cücü
+bkz türklerin kendini çok önemsemesi sorunsalı
+bkz gözleri garip şekilleri kendisiyle ilgili sanan suratın göt olması
+bkz internette görüdğü herşeyi kendileriyle ilgili sanan türkler
+bkz güneşin bile türklerin etrafında dönmesi
+bkz ata cücünün bir eleziğli dünyaya bedeldir tweeti
+bkz ata cücünün türk önde türk ileri tweeti
+bkz ata cücünün nmadem türksün göster ürksün tweeti
+bkz ata cücünün ikisi de elazığ'a gitti tweeti
+bkz ata cücünün türklükten aldığım keyf snowboard ta yok şerefsizim demesi
+bkz ata cücünün futbolu türk hakemlerine bırakınız demesi
+bkz ata cücünün gavurları denize dökmesi
+bkz istanbul boş kay coş
+bkz bence her şey çok güzel zaten
+https://www.youtube.com/watch?v=TA6y-oRT1w0 
+bkz mustafa kamal ata cücünün gavurları denize dökmesi
+bkz kaymak için kaybedecek vaktimiz yok
+bkz gözleri imamoğlan diye gülen surat
+bkz devlet memurlarını gözünde çok büyüten surat
+bkz imamaoğlanın elazığ çok hojdır amam benena demesi
+bkz imamaoğlanın elazığa godoşlar diyarı demesi
+bkz kürtlerin ötünün kalkaması
+https://www.uludagsozluk.com/k/haval%C4%B1-ve-zengin-g%C3%B6r%C3%BCnmeye-%C3%A7al%C4%B1%C5%9Fan-k%C3%BCrtler/
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-erzuruma-giderken-elaz%C4%B1%C4%9Fa-u%C4%9Framas%C4%B1/
+bkz dilek imamaoğlanın kayarken niye telefona bakmıyosun eko demesi
+https://www.youtube.com/watch?v=y55092MhqZQ kay kay klüp
+bkz imamaoğlanın babasını oğlan biraz daha kaysın yollarım demesi
+https://www.uludagsozluk.com/k/ali-t%C3%BCrk%C5%9Fen/&w=bg bkz ikkinci atacücü
+https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/ 
+https://www.youtube.com/watch?v=4RpMzsA1VOw bkz fakirlerin kayamıyorlar diye kafa sikmesi
+https://www.uludagsozluk.com/k/kaybedecek-vaktimiz-yok-deyip-tatil-yapmak/
+bkz imamaoğlanın babasının ne var oğlan bi kayak yaptıysa dmemesi
+bkz bay kemalın tepkileri önemsememei
+https://eksisozluk.com/entry/101200966 lol
+bkz halk fakirken bay kemalin snowboard yapması
+https://www.uludagsozluk.com/k/apo-ya-pembe-oda-getiren-zihniyet/
+bkz ali koçunuali sergenin sicili temiz değil demesi
+bkz tarkanın megastar olmayaı ben seçmedim demesi
+https://www.youtube.com/watch?v=RDxn3OuKO8w bkz imamoğlanın istanbulu terketmesi
+https://www.uludagsozluk.com/k/tommy-vercetti-vs-sonny-forelli/&w=bg bkz iki babayiğit
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz kayar mısın
+bkz ekrem imamoğlanın iyice  taşşak oğlanı olması
+bkz ekrem imamoğlanın babasının oğla biraz kaysın oğlanı yollayacam demesi
+bkz ekrem imamoğlanın oğlum kayıyo size ne demesi
+bkz ben kadir mısıroğlu sorularınız cevaplamıyorum
+https://www.uludagsozluk.com/k/el%C3%A7in-sangu-nun-biz-pahal%C4%B1-ameleleriz-demesi/&w=bg bkz elçin sangu kim amk
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
+https://www.uludagsozluk.com/k/ali-r%C4%B1za-sergen-yal%C3%A7%C4%B1n/&w=bg bkz ali rıza efendi
+https://eksisozluk.com/mehmet-ali-erbil-denince-akla-gelenler--6342358?a=popular bkz jess
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-kayak-tatili-tepkilerini-%C3%B6nemsememesi/ 
+https://www.youtube.com/watch?v=dKeHGcTvZuE bkz ali rıza sergen yalçının snowbordçu çıkması
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ele%C5%9Ftirilemez-olmas%C4%B1/ 
+bkz imamoğlan ın snowboardçu olacam demesi
+-->
+
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
