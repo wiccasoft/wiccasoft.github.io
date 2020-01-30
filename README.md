@@ -7,7 +7,7 @@
 <!--
 bkz selanikli oç nin ait olduğu yere kaçması
 https://www.youtube.com/watch?v=KLhFrdAGiLo
-bkz irem dericinni melekler götümüdeki bokları yesin demesi
+bkz irem dericinin götümüdeki bokları yiyin demesi
 https://www.uludagsozluk.com/k/irem-derici-nin-melekler-g%C3%B6t%C3%BCm%C3%BC-yesin-demesi/
 bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
 bkz ata cücü şeyh saidin malafatı götünce çarşaf giyip kaçması
