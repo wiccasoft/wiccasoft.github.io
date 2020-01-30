@@ -6,7 +6,6 @@
 
 <!--
 https://www.uludagsozluk.com/e/42782362/ sakin olun genşler numarasını aldım yengeniz olur
-bkz aseksüel 41 yaşında olgun erkek olmanın faydaları
 https://www.uludagsozluk.com/e/42782553/ bkz lubunya ne lan 
 bkz nihal korkmazın telefon numarasını vermesi
 bkz çağla akalının penisis 28 cm den küçüklere labunya demesi
