@@ -6,6 +6,7 @@
 <!-- 
 bkz ben feroyla reynmenini kürt olduğu gerçeği
 bkz kürt travestiye siktirmem diyen türkçü
+https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2 zuahhahaa
 https://www.youtube.com/watch?v=KXnzNbuV84c bir milyon verseler kürtçü olurmusun
 https://www.youtube.com/watch?v=tVfyO37ARpQ siklenmeyen türkçü
 bkz ırkçılların kullanışlı aptallar olması
