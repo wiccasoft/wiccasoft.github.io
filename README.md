@@ -7,7 +7,7 @@
 <!--
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ rte ye şikayet ettim silivri soğuktur nilay
 https://eksisozluk.com/30-ocak-2020-rtenin-sosyal-medya-aciklamasi--6345103?a=popular 
-bkz sosyal medyada rte ye sormadan paylaşm yapıyorlar
+bkz sosyal medyada rte ye sormadan paylaşm yapanları şikayet ediyoruz 
 https://www.youtube.com/watch?v=NXQJ9iR5BkA mahalleli ayıkmasın
 https://www.youtube.com/watch?v=VsxdlM58DZY sakso kaç para
 bkz arkadan vurdun mu önden sallanacak aga
