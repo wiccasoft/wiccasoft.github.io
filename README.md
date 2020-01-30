@@ -7,6 +7,7 @@
 <!--
 bkz travesti nilay korkmaz vs prenses ela
 bkz irem dericinin götümdeki bokları yiyin demesi
+https://www.uludagsozluk.com/k/%C3%A7in-de-vir%C3%BCs-%C3%A7%C4%B1kmas%C4%B1n%C4%B1-sa%C4%9Flayan-abi/
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ ben yürüyorum beyler
 bkz imamoğlanın asgari ücret kızımın masraflarına yetmez demesi
 https://www.uludagsozluk.com/k/imamlara-asgari-%C3%BCcretli-maa%C5%9F-verilsin/
