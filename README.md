@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/e/42782428/ eywallah kankağ okumadım sergen yalçın değilim çünkü
 https://www.uludagsozluk.com/k/tav%C5%9Fan-seven-erkek/ ılıktır
 bkz sergen yalçının bilay korkmazı yedeğ alması
 bkz hasan mezarcının nilay kokrmaz kardeşimiz kürt ama güncellenebilir demesi
