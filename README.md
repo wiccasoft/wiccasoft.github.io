@@ -7,6 +7,7 @@
 <!--
 bkz amerika üflese türkiyenin çökeceği gerçeği
 bkz türklerin teknolojide geri kalma nedenleri
+bkz türklerin ırkçılık yapmaktan hiç bişey üretememesi
 bkz türklerin dünya çapında teklonojik hiç bir icadının olmaması
 bkz celal şengörün dünya şeklinde olduğu gerçeği
 bkz celal şengörün dünya çağında ünlüyüm demesi
