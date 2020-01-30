@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamoğlanın kızımla vakit geçirmek istiyorum demesi
 bkz irem derinini götümdeki bokları yiyin demesi
 bkz iremd dericinin götümdeki bokları melekler yesin demesi
 bkz zeynep koçakın geçridği evrim
