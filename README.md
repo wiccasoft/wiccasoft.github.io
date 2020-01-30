@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz arkadan vurdun mu önden sallanacak aga
 https://www.uludagsozluk.com/e/42782362/ sakin olun genşler numarasını aldım yengeniz olur
 https://www.uludagsozluk.com/e/42782553/ bkz lubunya ne lan 
 bkz nihal korkmazın telefon numarasını vermesi
