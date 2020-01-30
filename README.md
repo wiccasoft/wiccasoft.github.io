@@ -5,7 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz yeşilyoldaki arabın cinsel seks ne patron demesi
 bkz yeşilyoldaki arabın evlenince anangillerde kalırız demesi
 bkz yeşilyoldaki arabın evlenince ayaklarını yıkarım demesi
 bkz yeşilyoldaki arabın dürüst sempatik iyi kalpli erkek çıkması
