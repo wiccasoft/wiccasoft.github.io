@@ -5,12 +5,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz imamaoğlanda dönene esrarengiz video
-bkz imamaoğlanın babasının imamoğlanı dövmesi
-bkz imamaoğlanın iyice taşakoğluna dönmesi
 bkz imamoğlanın twitterdan yürüdüğü kızın patlak çıkması
 https://eksisozluk.com/entry/101200966 lol
 https://www.youtube.com/watch?v=y55092MhqZQ
+bkz imamoğlanda dolanan esrarengiz video
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
