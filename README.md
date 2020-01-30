@@ -4,7 +4,9 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--bkz nilay korkmazın türklerden korkmuyorum demesi
+<!--
+bkz sergen yalçının nilay korkmazı karantinaya alması
+bkz nilay korkmazın türklerden korkmuyorum demesi
 bkz nilay korkmazın diyarbakırlıyım ezelden demesi
 https://www.youtube.com/watch?v=ox93sf0-tPQ
 bkz hasan mezarcının mezarlık ihalesi için imamoğluna yanaşması
