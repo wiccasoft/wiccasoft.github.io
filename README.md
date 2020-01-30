@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz putinni ortlağın amınakorum kafamı bozmayın demesi
 bkz irem dericinin türk bayrağı klozete benziyor demesi
 bkz irem dericinin türk bayrağına götünü silmesi
 https://twitter.com/travestiela8 
