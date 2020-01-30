@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=VsxdlM58DZY afa bu nedir ya sömürür adamı
 https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz arkadan vurdun mu önden sallanacak aga
 https://www.uludagsozluk.com/e/42782362/ sakin olun genşler numarasını aldım yengeniz olur
