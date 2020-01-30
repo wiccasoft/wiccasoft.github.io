@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-,bkz nilay korkmazın telefon numarasını paylaşması
+bkz kürt travestileri turkcell düşmanlığı
+bkz kürt travesti nilay korkmazın telefon numarasını paylaşması
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/&w=bg 
 bkz travesti nilay korkmazın vodafone kullanması
 bkz telefon kulanmamanın faydaları
