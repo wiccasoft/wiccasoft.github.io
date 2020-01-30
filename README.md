@@ -5,6 +5,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://twitter.com/travestiela8 
+bkz köyden gelip travesti beğenmemek
+bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
+https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2 zuahhahaa
 bkz uludaki ergenlere 2009 lu bi kız ayarlayıp kurtulmak
 bkz uludaki ergenlerin 180 boyunda kaslı 41 yaşında aseksüel bir erkek olduğumu öğrenince göt olması
 bkz irem derinini ömelekler götümü yesin demesi
