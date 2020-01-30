@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlanın benle pasif gayim diye ilgilenmemesi
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1mla-vakit-ge%C3%A7irmek-istiyorum-diyen-ibb-ba%C5%9Fkan%C4%B1/
 bkz ulucu abiley beni pasif gayim diye sevmiyolay abi
 https://www.uludagsozluk.com/k/gece-kul%C3%BCb%C3%BCndeki-bodyguarda-sata%C5%9Fan-gen%C3%A7/
