@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kürtlerin olmadığı bir dünya
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ kürt lütfen
 https://www.uludagsozluk.com/k/rojda-demirer/&w=gd kürt lütfen
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ bkz kürt lütfen
