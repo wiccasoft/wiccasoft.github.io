@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz travesit nilay korkmazın diyarbakarlıyım ama korkmuyorum demesi
 bkz sergen yalçının güncelleme hazırlaması
 bkz irem dericinin bokumu yiyin demesi
 bkz selin ciğercinni kürt travestite güzel diyen bana demesin demesi
