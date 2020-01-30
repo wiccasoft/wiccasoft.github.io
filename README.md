@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlanın zeka yaşının 15 olması
 bkz imamaoğlanın ekşici oğlanlar gibi saf olması
 bkz imamaoğlanın babasının oğlunu övmesi
 bkz imamoğlanın iyi bi oğlan olduğu gerçeği
