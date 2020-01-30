@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz yeşilyodaki arabın zencileşmek isyemiyorum demesi
 bkz bütün dünyanın türklüğe karşı çıkması
 bkz türklüğe karşı gelenlerin kafasını kopartacağız 
 bkz ata cücünün yunana bayrağına tükürüp bu n lan demesi
