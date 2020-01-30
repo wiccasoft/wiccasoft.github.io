@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz ırkçılın kulanışlı aptallar olması
 bkz türkçülerin eğitilmez olduğu gerçeği
 bkz yeşilyoldaki zenciyi arap sanan kamalcı
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ 
