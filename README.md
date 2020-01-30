@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz hasan mezarının esprisine gülmeyen selanikli
 bkz selanikli oç nin ait olduğu yere kaçması
 https://www.youtube.com/watch?v=KLhFrdAGiLo
 bkz irem dericinin götümüdeki bokları yiyin demesi
