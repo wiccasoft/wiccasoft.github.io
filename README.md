@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-kz şey saidin taşşaklarıma beton yetmez demesi
+bkz ata cücü şeyh saidin malafatı götünce çarşaf giyip kaçması
+bkz şey saidin taşşaklarıma beton yetmez demesi
 bkz travesti nilay korkmaz ın ara beni boya beni şeker türkçü demesi
 bkz hüseyin bihal atsız  vs travesti nilay korkmaz
 bkz ata cücünün kuşatma altında çarşaf giyip kaçması
