@@ -8,6 +8,7 @@ bkz adam çıkmayan iller
 bkz kızlar kızlar gelemm mi
 https://twitter.com/travestiela8 
 bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
+https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2 zuahhahaa
 bkz karabüklülerin sanki biraz şey olması 
 bkz arda turanın fatih portakalla barışması
 https://www.uludagsozluk.com/k/cahil-kesimin-a%C5%9F%C4%B1r%C4%B1-anlam-y%C3%BCkledi%C4%9Fi-%C5%9Feyler/
