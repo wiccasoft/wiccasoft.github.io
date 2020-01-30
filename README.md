@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-k%C3%BCrtler/&w=bg ölüsünü dirsinin bir gün hepsini
 https://www.uludagsozluk.com/k/pasif-gay/&w=bg ay benim ayol diyarbakırlıyam şeker şey
 bkz ekrem imamaoğlana bi kere dokunabilmek
 bkz ekrem imamaoğlanın ulaşılmaz olduğu gerçeği
