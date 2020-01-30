@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz türk hava yolalrının kürt travesti taşımayız açıklaması
 bkz kürt travesti nilayın tavsiye istemesi
 bkz travesti nilay ekrem arasındaki aşk iddaları
 bkz ekrem imamaoğlanın travesti nilayı koruması
