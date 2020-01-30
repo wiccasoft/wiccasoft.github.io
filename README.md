@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz travesti bilay korkmazı arayıp neden turkcell değil neden diye bağırmak
 bkz kürt travesti nilay korkmazın turkcell yerine vodafone kullanması
 bkz kürt travesti nilay korkmazın türk milletinin sabrını zorlaması
 bkz kürt travesti nilay korkmazın turkcell düşmanlığı yapması
