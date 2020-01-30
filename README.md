@@ -4,7 +4,10 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- bkz macronun türkün türkten başka dostu yoktur açıklaması -->
+<!-- 
+bkz ekremim imamaoğlanın ekşicilere küsmesi
+bkz macronun türkün türkten başka dostu yoktur açıklaması 
+-->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
