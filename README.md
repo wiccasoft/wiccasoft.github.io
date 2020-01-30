@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+https://www.youtube.com/watch?v=KXnzNbuV84c bir milyon verseler kürtçü olurmusun
 https://www.youtube.com/watch?v=tVfyO37ARpQ siklenmeyen türkçü
 bkz ırkçılların kullanışlı aptallar olması
 bkz türkçülerin eğitilmez olduğu gerçeği
