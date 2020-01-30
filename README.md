@@ -8,6 +8,7 @@ bkz imamoğlu sözlükte dönen geyik
 bkz sabah ter içinde imamoğlu diye uyanmak
 https://www.youtube.com/watch?v=kVTNMsVnM-g
 bkz karım olsaydı ilk sana diktirirdim diyen geniş raad erkek
+https://www.uludagsozluk.com/k/t%C3%BCrk%C3%A7%C3%BClerin-gerizekal%C4%B1-olmas%C4%B1/&w=bg bkz bir realite
 bkz ata cücünün öldürmediğim her kürty için bana küfr edeceksiniz demesi
 https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2 zuahhahaa
 bkz ata cücünün yunan bayrağına tükürüp bu ne lan demesi haçlı maçlı demesi
