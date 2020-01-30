@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/&w=gd diyarnakırlıyak her yerde dikişirek
 bkz demeyi açık bırakıp yürüyünce zırlamak
 bkz demeden yürürler diye sosyal medya kullanmak
 bkz sezgin tanrıkulu nun demeden yürüdüğü kız
