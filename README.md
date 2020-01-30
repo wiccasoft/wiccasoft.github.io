@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-https://v-s.mobi/incici-vs-ek%C5%9Fici-01:43
+https://www.youtube.com/watch?v=tC4D-bzCWJc
 bkz enes baturun suskunluğunu koruması
 bkz imamoğlan kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
