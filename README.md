@@ -4,7 +4,10 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/&w=gd numaramı demeden alın gençler --->
+<!-- 
+https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/&w=gd numaramı demeden alın gençler
+https://www.uludagsozluk.com/k/%C3%B6calan%C4%B1n-annesinin-t%C3%BCrk-olmas%C4%B1/ yanlış bilgi selanikli
+--->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
