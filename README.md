@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz her biji bizeher yerde sikişirek
 bkz travesti nilay korkmaz diyarbakıra kanla bastım mührüm ü demesi
 bkz travesti nilah korkmaz ın türk oçlerden mi korkacaz demesi
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ bkz diyarbakırlıyık her yerde dikişirik
