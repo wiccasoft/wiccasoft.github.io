@@ -5,13 +5,12 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz mansur yavaş ciğerimi söktün diyen kız
 bkz macronun türkün türkten başka dostu yoktur demesi
 bkz macronun keşke türkler galip gelseydi açıklaması
 bkz kadir mısıroğlanın keşke venüs yunanistanı transit geçmeseydi açıklaması
 https://books.google.com.tr/books?id=W3eytUUwhEIC&pg=PA947&lpg=PA947&dq=javascript+venus+position&source=bl&ots=Nm1jSWz9lA&sig=ACfU3U2RYLFyapPJFZvIuAAjWdfgSZqXpg&hl=tr&sa=X&ved=2ahUKEwi0qJbm46vnAhVBSxoKHcGfC-IQ6AEwAXoECAoQAQ#v=onepage&q=javascript%20venus%20position&f=false
 bkz cavuşoğlanın keşke yunan galip gelseydi açıklaması
-bkz mustafa keser vs gökhan keser
-bkz kadir mısıroğlan vs ata cücü oğlan
 bkz eşcinsellere seksüel canlı beğendirememek
 bkz mustafa ceceli vs diyarbakrılı travesti hilal korkmaz
 bkz köyden gelip travesti beğenmemek
@@ -21,13 +20,11 @@ bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
 bkz 30 ocak 2020 venüsün muhteşem gözükmesi
 bkz ata cücünün kuşatma altında çarşaf giyip kaçması
 bkz süleyman soylunun finlandiyalılar bunun hesabını verecek açıklaması
-bkz ata cücünü yunan savaş gemisine torpido atması
 bkz ya lan söy lem e göz lerin ele çin ki
 bkz enes baturun reynmenle barışması
 bkz sergen yalçının appstoru adam etmeye başlması
 bkz entrysine gülünmeyen oğlan
-bkz hayallerde yaşıyor bazı ibneler
-bkz imamaoğlanın ekşicilerle küstüm oynamaycam demesi
+bkz imamoğlanın ekşicilerle küstüm oynamaycam demesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/
 bkz kamalcıların devleti gözlerinde çok büyütmesi
 bkz çavuşoğlanın iş bilmez çavuşlar götünü avuçlar açıklaması
