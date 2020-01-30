@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz müslüm gürsesin kürtlerin iğrenç bir millet olduğunu biliyorduk açıklaması
 bkz ekrem imamaoğlunun hdpkklı kürt travestiyi savunması
 bkz kürt travesti nilay korkmazın turkcell düşmanlığı
 bkz türkcellin kürt travesti nilay kokrmaza hat satmıyoruz açıklaması
