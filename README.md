@@ -7,8 +7,8 @@
 <!-- 
 bkz imamaoğlanın ekşici oğlanlar gibi saf olması
 bkz imamaoğlanın babasının oğlunu övmesi
-bkz imamaoğlanın iyi bi oğlan olduğu gerçeği
-bkz imamaoğlanon yürüdüğü kızın patlak çıkması
+bkz imamoğlanın iyi bi oğlan olduğu gerçeği
+bkz imamoğlanın yürüdüğü kızın patlak çıkması
 bkz reynmenin imamoğlan iyi çocuktur zarar gelmez demesi
 bkz imamoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
