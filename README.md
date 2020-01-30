@@ -6,7 +6,7 @@
 
 <!--
 bkz kürtlerin virüs gibi çoğalması
-bkz kürtlerin olmadığı bir dünya
+https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ bkz diyarbakırlı olmaktan guru duyan oç
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ kürt lütfen
 https://www.uludagsozluk.com/k/rojda-demirer/&w=gd kürt lütfen
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ bkz kürt lütfen
