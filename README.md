@@ -4,23 +4,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- 
-https://www.youtube.com/watch?v=tC4D-bzCWJc
-bkz enes baturun suskunluğunu koruması
-bkz imamoğlan kamerasından ekşiciler
-bkz imamoğlanın iyice taşşak oğlanı olması
-bkz imamoğlanın babasının imamoğlana ekşicierle oynama cezası vermesi
-bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
-bkz emre morun yürüdüğü kızın imamoğlunun yürüdüğü kzı çıkması
-bkz reynmenin corona virüs kaptığı iddaları
-bkz imamaoğlanın iyice taşşakoğlanı olması
-bkz imamaoğlanın babasının oğlan biraz daha kaysın oynamaya yollarım demesi
-bkz imamoğlanın twitterdan yürüdüğü kızın patlak çıkması
-https://eksisozluk.com/entry/101200966 lol
-https://www.youtube.com/watch?v=y55092MhqZQ
-bkz imamoğlanda dolanan esrarengiz video
--->
-
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
