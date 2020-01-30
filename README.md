@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz ata cücü nün her gece yunanları deniz dökmesi
+https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ 
+bkz diyarbakır çocuğuyuz her yer de sikişirik numaramı kaydet yahuşuhlu türkçü
 https://www.uludagsozluk.com/k/kad%C4%B1n-muhabbeti-yapan%C4%B1-masaya-oturtmamak/ bkz ay hoşt ulan köpek
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ diyarbakırlıyık her yere sikişirik
 bkz adam çıkmayan iller
