@@ -6,7 +6,9 @@
 
 <!--
 bkz ekrem imamaoğlanın ekşicilere vakit ayıramca demesi 
-bkz travesti nilay korkmazın türkcell düşmanı olması -->
+bkz kürt travesti nilay korkmazın türkcell düşmanı olması
+bkz macronun türkün türkten başka dostur yoktur açıklaması
+-->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
