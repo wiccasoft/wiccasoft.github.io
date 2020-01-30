@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz ya lan söy lem e göz lerin ele çin ki
 bkz enes baturun reynmenle barışması
 bkz sergen yalçının appstoru adam etmeye başlması
 bkz entrysine gülünmeyen oğlan
