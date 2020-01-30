@@ -5,13 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz imamaoğlanın ibb 5. oturumda tevfik göksuya verdiği ayar
-bkz imamaoğlanın ekşici oğlanlar gibi saf olması
-bkz imamaoğlanın babasının oğlunu övmesi
-bkz imamoğlanın iyi bi oğlan olduğu gerçeği
-bkz imamoğlanın yürüdüğü kızın patlak çıkması
-bkz reynmenin imamoğlan iyi çocuktur zarar gelmez demesi
-bkz imamoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
 bkz imamoğlanın babasının imamoğlana ekşicierle oynama cezası vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
