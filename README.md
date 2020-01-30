@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz amerika üflese türkiyenin çökeceği gerçeği
 bkz türklerin teknolojide geri kalma nedenleri
 bkz türklerin dünya çapında teklonojik hiç bir icadının olmaması
 bkz celal şengörün dünya şeklinde olduğu gerçeği
