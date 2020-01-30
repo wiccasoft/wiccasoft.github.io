@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamaoğlanın imamlara asgari ücret verilsin demesi
 bkz travesit nilay korkmazın pahalıyım ama kürdüm demesi
 https://www.uludagsozluk.com/k/tu%C4%9Frul-selmano%C4%9Flu/&w=bg bkz ümmetinağliy
 bkz şeyh said deyince akla gelenler vs kürt said deyince akla gelenler
