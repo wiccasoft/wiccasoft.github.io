@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz bilali savaş çıksa ilk ben giderim demesi
+bkztravesti nilay kokrmazın telsim kullanması
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ rte ye şikayet ettim silivri soğuktur nilay
 https://eksisozluk.com/30-ocak-2020-rtenin-sosyal-medya-aciklamasi--6345103?a=popular 
 bkz sosyal medyada rte ye sormadan paylaşm yapanları şikayet ediyoruz 
