@@ -6,6 +6,8 @@
 
 <!--
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
+bkz kızımla vakit geçirmek istiyorum diyen ibne
+https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1mla-vakit-ge%C3%A7irmek-istiyorum-diyen-ibb-ba%C5%9Fkan%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=bg çok büyük adam çook
 https://www.uludagsozluk.com/k/g%C3%BClerken-eliyle-a%C4%9Fz%C4%B1n%C4%B1-kapatan-erkek/ ılıktır
 https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=bg güzel şeyler yazın büyük adam falan yazın
