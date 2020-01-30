@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz kürt travesti nilay kokrmazın turkcell düşmanlığı yapması
+bkz kürt travesti nilay korkmazın türk milletinin sabrını zorlaması
+bkz kürt travesti nilay korkmazın turkcell düşmanlığı yapması
 bkz imamaoğlanın travesti nilay korkmaza demeden yürümesü
 bkz travesti nilay korkmazın turkcellcileri proveke etmesi
 bkz ap de turkcell hattı yırtan yunan
