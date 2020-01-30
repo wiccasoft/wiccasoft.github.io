@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/mahmut-tuncer/&w=bg adam türkmenmiş byler küfretmeyin
 bkz travesti nilay kokrmazın anne olmak istiyorum demesi
 bkz kamalın öldürmediğim her kürt için bana küfr edeceksiniz demsei
 bkz her biji bizeher yerde sikişirek
