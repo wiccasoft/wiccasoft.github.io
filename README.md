@@ -6,6 +6,7 @@
 
 <!--
 bkz samsunluların genel özellikleri
+bkz kürt trtvesti nilay korkmazın türkcell i tehdit etmesi
 bkz kürt travesti nilay korkmazın iphone tasarımını çalması
 bkz samsunluların kürtlerle işimiz olmaz zaten demesi
 bkz müslüm gürsesin kürtlerin iğrenç bir millet olduğunu biliyorduk açıklaması
