@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/e/42783104/ lol
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg çok büyük adam çok
 bkz kürtlerin apple cıdafoncu türkçülerin samsung turkcellci olması
 bkz ekrem imamoğlunun yürüdüğü kızın sezgin tanrı kulun yürüdüğü kız çıkması
