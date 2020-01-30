@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz türk bayrağının klozete benzemesi
 bkz irem dericinin türk bayrağına götünü silmesi
 https://twitter.com/travestiela8 
 bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
