@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+https://www.uludagsozluk.com/k/ismi-recep-olanlar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/ bkz hani benim recebim
 bkz 41 yaşında ergenlerin ne kadar salak olduğunu bir kez daha gözlemlemek
 bkz ben feroyla reynmenini kürt olduğu gerçeği
 bkz kürt travestiye siktirmem diyen türkçü
