@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz sergen yalçının güncelleme hazırlaması
 bkz irem dericinin bokumu yiyin demesi
 bkz selin ciğercinni kürt travestite güzel diyen bana demesin demesi
 bkz ekrem imamoğlanın kürt travesti nilay korkmazı savunması
