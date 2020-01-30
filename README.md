@@ -5,8 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz soyadı oğlan la biten birini ciddiye alabilmek
-bkz imamaoğlanın kamerasından ekşiciler
+bkz imamoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
 bkz imamoğlanın ekşicilerle kumda oynaması
 bkz imamoğlanın babasının imamaoğlana ceza vermesi
