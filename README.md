@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- 
+<!--
+bkz zeynep koçak kim amk
 bkz zeynep koçakın geçirdiği evrim 
 bkz ergenlerin aseksüel olduğumu öğrenince göt olması
 bkz aktif erkek vs pasif erkek vs aseksüel erkek
