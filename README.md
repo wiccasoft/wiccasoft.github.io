@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ekrem imamoğlunun yürüdüğü kızın sezgin tanrı kulun yürüdüğü kız çıkması
 bkz geyselilerin sergen yalçın çok büyük adam çok demesi
 bkz sergen yalçının kariusun yürüdüğü karıya yürümesi
 bkz ekrem imamaoğlanın babasının benim oğlan snowboarda yatkındır demesi
