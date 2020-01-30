@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz imamaoğlunun taşşak oğlanı olması
+bkz imamaoğlunun iyice taşşak oğlanı olması
 bkz imamaoğlunun ekşicilerle kumda oynaması
 bkz imamoğlunun babasının imamaoğlana ceza vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
