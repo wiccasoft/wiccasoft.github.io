@@ -6,6 +6,7 @@
 
 <!--
 bkz hüseyin bihal atsız  vs travesti nilay korkmaz
+bkz ata cücünün kuşatma altında çarşaf giyip kaçması
 https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg eywallah bro sen de adamsın
 bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
 bkz putinin ortalığın amınakorum kafamı bozmayın demesi
