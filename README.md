@@ -8,8 +8,8 @@
 bkz soyadı oğlan la biten birini ciddiye alabilmek
 bkz imamaoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
-bkz imamaoğlanın ekşicilerle kumda oynaması
-bkz imamoğlunun babasının imamaoğlana ceza vermesi
+bkz imamoğlanın ekşicilerle kumda oynaması
+bkz imamoğlanın babasının imamaoğlana ceza vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
 bkz emre morun yürüdğü kızın imamoğlunun yürüdüğü kzı çıkması
 bkz enes baturun suskunluğunu koruması
