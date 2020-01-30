@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2
 bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
 bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
 bkz irem dericinin götümdeki bokları yiyin demesi
-bkz travesti nilay korkmazın pahalıyım ama dsiyarbakırlıyım demesi
+bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
 https://www.uludagsozluk.com/k/rojda-demirer/&w=bg roj pirez be hewal
-https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/&w=gd numaramı demeden alın gençler
+https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/&w=gd 
 https://www.uludagsozluk.com/k/%C3%B6calan%C4%B1n-annesinin-t%C3%BCrk-olmas%C4%B1/ yanlış bilgi selanikli
 bkz macronun türkün türkten başka dostu yoktur açıklaması
 https://www.uludagsozluk.com/k/fransa-dan-yunanistan-a-donanma-deste%C4%9Fi/
