@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/sezgin-tanr%C4%B1kulu/&w=bg bkz twitterda kızlara yürüyen canlı
 bkz 41 yaşında aseksüel olmanın faydaları
 bkz recep tayyip erdoğanın kızını damadına siktirdiği gerçeği
