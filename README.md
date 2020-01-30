@@ -5,8 +5,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz imamaoğlunun iyice taşşak oğlanı olması
-bkz imamaoğlunun ekşicilerle kumda oynaması
+bkz soyadı oğlan la biten birini ciddiye alabilmek
+bkz imamaoğlanın kamerasından ekşiciler
+bkz imamoğlanın iyice taşşak oğlanı olması
+bkz imamaoğlanın ekşicilerle kumda oynaması
 bkz imamoğlunun babasının imamaoğlana ceza vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
 bkz emre morun yürüdğü kızın imamoğlunun yürüdüğü kzı çıkması
