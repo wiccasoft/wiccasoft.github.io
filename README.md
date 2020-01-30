@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kılıçdaroğlanın  türkler de insan demesi
 bkz kılıçdaroğlanın dersimin hesabını verin oç türkler demesi
 bkz rojfa demirer in türkler bokumu yesin demesi
 bkz macronun türkün türkten başka dostu yoktur açıklaması
