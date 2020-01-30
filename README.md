@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz albaraka türkün kürtlere işlem yapmayacağız kararı
 bkz kürtsüz sokaklar istiyoruz kampanyası
 bkz kürt travesti nilayın diyarbakırlı olmaktan utanmaması
 bkz kürtlerin yemek yiyip sıçmaları
