@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ bkz numarının atsana kanka bende siktiririm
+https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ bkz ben yürüyorum beyler
 bkz mansur yavaş ciğerimi söktün diyen kız
 bkz macronun türkün türkten başka dostu yoktur demesi
 bkz macronun keşke türkler galip gelseydi açıklaması
