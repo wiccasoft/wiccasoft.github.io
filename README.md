@@ -6,7 +6,7 @@
 
 <!--
 bkz irem dericinin bokumu yiyin demesi
-bkz ekrem imamoğlanın kürt travesti nilay kokrmazı savunması
+bkz ekrem imamoğlanın kürt travesti nilay korkmazı savunması
 bkz travesti nilay korkmazın kürdüm ama para ben de demesi
 https://www.uludagsozluk.com/k/arabayla-fakir-mahallerinde-turlamak/&w=bg
 https://www.uludagsozluk.com/k/attila-ilhan/&w=bg çok kıymetli bi abimiz
