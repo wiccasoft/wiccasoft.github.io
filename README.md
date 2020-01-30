@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz macronun türkün türkten başka dostu yoktur açıklaması
 bkz anal seks sonrası pipide kalan domatesin çürük çürük kokması
 https://www.uludagsozluk.com/k/anal-seks-sonras%C4%B1-pipide-kalan-domates/&w=bg
 bkz öcalanın annesinin türk olması
