@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yunanların çavuşoğlanı siklememesi
 bkz mustafa keser vs gökhan keser
 bkz kadir mısıroğlan vs ata cücü oğlan
 bkz eşcinsellere seksüel canlı beğendirememek
