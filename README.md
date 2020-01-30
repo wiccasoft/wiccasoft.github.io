@@ -7,7 +7,7 @@
 <!--
 https://twitter.com/ask1903bjkiz
 http://www.prenseselaa06.xyz/hakkimda/
-bkz oğlanı travestiye götürüp hayır duası almak
+bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
 bkz cinsiyet değitirenlerin genelde kürt olması
 bkz ata cücü neden cinsiyet değiştirmedi sorunsalı
 bkz sergen yalçının cinsiyet değiştirecem açıklaması
