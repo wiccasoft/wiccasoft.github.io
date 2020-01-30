@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ekrem imamaoğlan nilay korkmazla vakit geçirmek istiyorum demesi
 bkz nilay korkmazın bokumu yiyin açıklaması
 bkz samsunluların genel özellikleri
 bkz nilay korkmazın kürtlere küfretmesi
