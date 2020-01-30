@@ -7,6 +7,7 @@
 <!--
 https://www.glonass-iac.ru/en/
 https://www.glonass-iac.ru/en/GPS/index.php
+https://www.glonass-iac.ru/en/GPS/rtgps.php  woooohoooooo 
 bkz yeşilyoldaki arabın evlenince anangillerde kalırız demesi
 bkz yeşilyoldaki arabın evlenince çalıştırmam seni demesi
 bkz yeşilyoldaki arabın kuşatma altında türkleşmeden kaçması
