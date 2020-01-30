@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz sergen yalçının nilay korkmazın sağlık kontrolüne sokması
 bkz sergen yalçının nilay korkmazı karantinaya alması
 bkz nilay korkmazın türklerden korkmuyorum demesi
 bkz nilay korkmazın diyarbakırlıyım ezelden demesi
