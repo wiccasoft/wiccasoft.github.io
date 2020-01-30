@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
-bkz sabaha ter içinde imamoğlu diye uyanmak
+bkz imamoğlu sözlükte dönen geyik
+bkz sabah ter içinde imamoğlu diye uyanmak
 https://www.youtube.com/watch?v=kVTNMsVnM-g
 bkz karım olsaydı ilk sana diktirirdim diyen geniş raad erkek
 bkz ata cücünün öldürmediğim her kürty için bana küfr edeceksiniz demesi
