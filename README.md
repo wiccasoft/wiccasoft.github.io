@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kürtlerin orospu sıçmığı olmaları
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-tavsiyeler/&w=bg 
 bkz kürtlerin yemek yedsiği yerlere sıçmaları
 bkz kürtlerin apple cı olması
