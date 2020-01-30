@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz ekrem imamaoğlanın ulaşılmaz olduğu gerçeği
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-da-bu-halktan-olmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
 bkz diyarbakırlıyak her yerde dikişirek
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/&w=gd 
 bkz demeyi açık bırakıp yürüyünce zırlamak
