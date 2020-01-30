@@ -12,8 +12,6 @@ bkz kürtlerin apple vodafoncu türkçülerin samsung turkcellci olması
 bkz ekrem imamoğlunun yürüdüğü kızın sezgin tanrı kulun yürüdüğü kız çıkması
 bkz geyselilerin sergen yalçın çok büyük adam çok demesi
 bkz sergen yalçının kariusun yürüdüğü karıya yürümesi
-bkz ekrem imamaoğlanın babasının benim oğlan snowboarda yatkındır demesi
-bkz erkem imamaoğlunun snowboard çok güzel zaten demesi
 bkz irem dericinin bokumu yiyin açıklaması
 bkz ekrem imamooğlanın nilaya vakit ayıracam demesi 
 bkz ekrem imamaoğlanın hdpkklı kürt travestiyi savunması
