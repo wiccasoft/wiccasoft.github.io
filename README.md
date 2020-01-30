@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kürt saidin dün boktunuz bugün koktunuz demesi
 bkz irem dericini götümdeki bokları yiyin demesi
 bkz imamaoğlanın imamlara asgari ücret verilsin demesi
 bkz travesit nilay korkmazın pahalıyım ama kürdüm demesi
