@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamoğlanın nilay kokrmazla vakit geçirmek istiyorum demesi
 bkz travesit nilay korkmazın diyarbakarlıyım ama korkmuyorum demesi
 bkz sergen yalçının güncelleme hazırlaması
 bkz irem dericinin bokumu yiyin demesi
