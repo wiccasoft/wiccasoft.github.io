@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=bg çok büyük adam çook
 https://www.uludagsozluk.com/k/g%C3%BClerken-eliyle-a%C4%9Fz%C4%B1n%C4%B1-kapatan-erkek/ ılıktır
 https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=bg güzel şeyler yazın büyük adam falan yazın
 https://www.uludagsozluk.com/k/tav%C5%9Fan-seven-erkek/ ılıktır
