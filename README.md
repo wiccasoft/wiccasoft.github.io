@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz uludakşi ergenlere 2009 lu bi kız ayarlayıp kurtulmak
 bkz uludaki ergenlerin 180 boyunda kaslı 41 yaşında aseksüel bir erkek olduğumu öğrenince göt olması
 bkz irem derinini ömelekler götümü yesin demesi
 https://www.uludagsozluk.com/k/irem-derici-nin-melekler-g%C3%B6t%C3%BCm%C3%BC-yesin-demesi/
