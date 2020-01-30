@@ -6,7 +6,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C3%B6zlenilen-ki%C5%9Filer/&w=bg bkz hüseyin nihal atsız
-https://www.uludagsozluk.com/k/serdar-akar-vs-onur-%C3%BCnl%C3%BC/ bkz çıkarmadan beş posta gider
+https://www.uludagsozluk.com/k/serdar-akar-vs-onur-%C3%BCnl%C3%BC/ bkz serdar çıkarmadan beş posta akar
 bkz ekremim imamaoğlanın ekşicilere küsmesi
 bkz macronun türkün türkten başka dostu yoktur açıklaması 
 -->
