@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/e/42780852/ lool
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ bkz ben yürüyorum beyler
 bkz macronun türkün türkten başka dostu yoktur demesi
 bkz macronun keşke türkler galip gelseydi açıklaması
