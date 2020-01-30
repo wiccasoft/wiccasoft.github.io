@@ -9,90 +9,10 @@ https://www.youtube.com/watch?v=NXQJ9iR5BkA
 bkz arkadan vurdun mu önden sallanacak aga
 https://www.uludagsozluk.com/e/42782362/ sakin olun genşler numarasını aldım yengeniz olur
 https://www.uludagsozluk.com/e/42782553/ bkz lubunya ne lan 
-bkz nihal korkmazın telefon numarasını vermesi
-bkz çağla akalının penisis 28 cm den küçüklere labunya demesi
-https://www.uludagsozluk.com/k/penisi-28-cm-den-k%C4%B1sa-olan-erkek/&w=bg 
-bkz sergen yalçının futbolcularımla vakit geçirmek istiyorum demesi
-bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
-bkz kızımla vakit geçirmek istiyorum diyen ibne
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1mla-vakit-ge%C3%A7irmek-istiyorum-diyen-ibb-ba%C5%9Fkan%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=bg çok büyük adam çook
-https://www.uludagsozluk.com/k/g%C3%BClerken-eliyle-a%C4%9Fz%C4%B1n%C4%B1-kapatan-erkek/ ılıktır
-https://www.uludagsozluk.com/k/sergen-yal%C3%A7%C4%B1n/&w=bg güzel şeyler yazın büyük adam falan yazın
-https://www.uludagsozluk.com/k/tav%C5%9Fan-seven-erkek/ ılıktır
-bkz sergen yalçının bilay korkmazı yedeğ alması
-bkz hasan mezarcının nilay kokrmaz kardeşimiz kürt ama güncellenebilir demesi
-bkz sergen yalçının nilay korkmazın sağlık kontrolüne sokması
-bkz sergen yalçının nilay korkmazı karantinaya alması
-bkz nilay korkmazın türklerden korkmuyorum demesi
-bkz nilay korkmazın diyarbakırlıyım ezelden demesi
-https://www.youtube.com/watch?v=ox93sf0-tPQ
-bkz hasan mezarcının mezarlık ihalesi için imamoğluna yanaşması
-bkz nilay korkmazın pahalıyım ama belasına çatarım demesi
-bkz imamaoğlanın bu gece kızımla yatacam demesi
-bkz hasan mezarcının bende kurtulmak kolay şapşik demesi
-bkz hasan mezarcının karımla vakit geçirmek istiyorum demesi
-bkz imamoğlanın nilay kokrmazla vakit geçirmek istiyorum demesi
-bkz travesit nilay korkmazın diyarbakarlıyım ama korkmuyorum demesi
-bkz sergen yalçının güncelleme hazırlaması
-bkz irem dericinin bokumu yiyin demesi
-bkz selin ciğercinni kürt travestite güzel diyen bana demesin demesi
-bkz ekrem imamoğlanın kürt travesti nilay korkmazı savunması
-bkz travesti nilay korkmazın kürdüm ama para ben de demesi
-https://www.uludagsozluk.com/k/arabayla-fakir-mahallerinde-turlamak/&w=bg
-https://www.uludagsozluk.com/k/attila-ilhan/&w=bg çok kıymetli bi abimiz
-bkz türklerin dünya çapında çok sevilmelerinin nedenleri
-bkz irem dericinin götümdeki bokları yiyin demesi
-bkz milliyetçilerin kafa sikmesi
-https://www.youtube.com/watch?v=tVfyO37ARpQ  
-bkz amerika üflese türkiyenin çökeceği gerçeği
-bkz türklerin teknolojide geri kalma nedenleri
-bkz türklerin ırkçılık yapmaktan hiç bişey üretememesi
-bkz türklerin dünya çapında teklonojik hiç bir icadının olmaması
-bkz celal şengörün dünya şeklinde olduğu gerçeği
-bkz celal şengörün dünya çağında ünlüyüm demesi
-bkz efe aydalın efe dansı yapması
-bkz hasan mezarcının en iyi kemalist ölü kemalisttir demesi
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-efe-aydal/&w=bg
-bkz kürt saidin dün boktunuz bugün koktunuz demesi
-bkz irem dericini götümdeki bokları yiyin demesi
-bkz imamaoğlanın imamlara asgari ücret verilsin demesi
-bkz travesit nilay korkmazın pahalıyım ama kürdüm demesi
-https://www.uludagsozluk.com/k/tu%C4%9Frul-selmano%C4%9Flu/&w=bg bkz ümmetinağliy
-bkz şeyh said deyince akla gelenler vs kürt said deyince akla gelenler
-https://www.uludagsozluk.com/k/k%C3%BCrt-said-denilince-akla-gelenler/
-bkz kürt said denince akla gelenler
-bkz enes baturun sen yerinde dur demesi
-bkz efe aydalın yeni vidiyo atması
-bkz imamaoğlanın kızımla ilgilenecem demesi
-bkz hasan mezarcının güncellemesini duyunca heyacanlanan kekolar
-bkz hasan mezarcının yeni güncelleme atacam demesi
-bkz hasan mezarının esprisine gülmeyen selanikli
-bkz selanikli oç nin ait olduğu yere kaçması
-https://www.youtube.com/watch?v=KLhFrdAGiLo
-bkz irem dericinin götümüdeki bokları yiyin demesi
-https://www.uludagsozluk.com/k/irem-derici-nin-melekler-g%C3%B6t%C3%BCm%C3%BC-yesin-demesi/
-bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
-bkz ata cücü şeyh saidin malafatı götünce çarşaf giyip kaçması
-bkz şey saidin taşşaklarıma beton yetmez demesi
-bkz travesti nilay korkmaz ın ara beni boya beni şeker türkçü demesi
-bkz hüseyin bihal atsız  vs travesti nilay korkmaz
-bkz ata cücünün kuşatma altında çarşaf giyip kaçması
-bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
-https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg eywallah bro sen de adamsın
-bkz putinin ortalığın amınakorum kafamı bozmayın demesi
-bkz irem dericinin türk bayrağı klozete benziyor demesi
-bkz irem dericinin türk bayrağına götünü silmesi
 https://twitter.com/travestiela8 
 http://www.prenseselaa06.xyz/hakkimda/
 https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2
 bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
-bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
-bkz irem dericinin götümdeki bokları yiyin demesi
-bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
-https://www.uludagsozluk.com/k/rojda-demirer/&w=bg roj pirez be hewal
-https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/&w=gd 
-https://www.uludagsozluk.com/k/%C3%B6calan%C4%B1n-annesinin-t%C3%BCrk-olmas%C4%B1/ yanlış bilgi selanikli
 bkz macronun türkün türkten başka dostu yoktur açıklaması
 https://www.uludagsozluk.com/k/fransa-dan-yunanistan-a-donanma-deste%C4%9Fi/
 --->
