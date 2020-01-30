@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.uludagsozluk.com/e/42782553/ lubunya ne lan travesti
+https://www.uludagsozluk.com/e/42782553/ bkz lubunya ne lan 
 bkz nihal korkmazın telefon numarasını vermesi
 bkz çağla akalının penisis 28 cm den küçüklere labunya demesi
 https://www.uludagsozluk.com/k/penisi-28-cm-den-k%C4%B1sa-olan-erkek/&w=bg 
