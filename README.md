@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz erkem imamaoğlunun snowboard çok güzel zaten demesi
 bkz irem dericinin bokumu yiyin açıklaması
 bkz ekrem imamooğlanın nilaya vakit ayıracam demesi 
 bkz ekrem imamaoğlanın hdpkklı kürt travestiyi savunması
