@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz travesti nilay korkmazın turkcell den korkmuyorum demesi
 bkz travesti nilay korkmazın pr kasması
 bkz ekrem imamaoğlunu nilayla telefonda ne konuştu sorunsalı
 bkz ekrem imamaoğlunun nilayın numarasını aldım arayacam demesi
