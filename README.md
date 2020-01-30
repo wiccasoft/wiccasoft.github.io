@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz zeynep koçakın geçridği evrim
 bkz zeynep koçakın yıllara meydan okuyan değişim
 bkz irem dericinin götümdeki bokları yiyin demesi
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ ben yürüyorum beyler
