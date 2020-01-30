@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz yeşiyodlaki arabın evlenince çalıştırmam seni demesi
+bkz yeşiyoldaki arabın evlenince seni riyadh a götürüm demesi
+bkz yeşiyoldaki arabın evlenince çalıştırmam seni demesi
 bkz yeşilyoldaki arabın kuşatma altında türkleşmeden kaçması
 https://www.youtube.com/watch?v=iOxzG3jjFkY
 bkz kamalcıların eğitilmez olduğu gerçeği
