@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlunun babasının imamaoğlana ceza vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
 bkz emre morun yürüdğü kızın imamoğlunun yürüdüğü kzı çıkması
 bkz enes baturun suskunluğunu koruması
