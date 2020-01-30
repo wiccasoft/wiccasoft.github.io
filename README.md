@@ -6,6 +6,7 @@
 
 <!--
 bkz selanikli oç nin ait olduğu yere kaçması
+https://www.youtube.com/watch?v=KLhFrdAGiLo
 bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
 bkz ata cücü şeyh saidin malafatı götünce çarşaf giyip kaçması
 bkz şey saidin taşşaklarıma beton yetmez demesi
