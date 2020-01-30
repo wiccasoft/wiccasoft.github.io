@@ -6,6 +6,7 @@
 
 <!--
 bkz samsunluların genel özellikleri
+bkz samsunluların kürtlerle işimiz olmaz zaten demesi
 bkz müslüm gürsesin kürtlerin iğrenç bir millet olduğunu biliyorduk açıklaması
 bkz ekrem imamaoğlunun hdpkklı kürt travestiyi savunması
 bkz kürt travesti nilay korkmazın turkcell düşmanlığı
