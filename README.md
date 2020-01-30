@@ -4,9 +4,11 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz ata cücü nün her gece yunanları deniz dökmesi
 bkz adam çıkmayan iller
 bkz kızlar kızlar gelemm mi
 https://twitter.com/travestiela8 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-yunan-bayra%C4%9F%C4%B1/
 bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
 https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2 zuahhahaa
 bkz karabüklülerin sanki biraz şey olması 
