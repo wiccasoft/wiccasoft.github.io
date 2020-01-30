@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz hüseyin bihal atsız  vs travesti nilay korkmaz
 https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg eywallah bro sen de adamsın
 bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
 bkz putinin ortalığın amınakorum kafamı bozmayın demesi
