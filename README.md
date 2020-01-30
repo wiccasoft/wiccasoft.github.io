@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz recep tayyip erdoğanın kızını damadına siktirdiği gerçeği
 https://www.uludagsozluk.com/k/sakals%C4%B1z-erkek/&w=bg genelde yakışıklıymış
 https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu/&w=bg rizeliymiş beyler
 bkz sezgin tanrı kulunun twitterda yürüdüğü kız
