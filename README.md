@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz irem dericinni g melekler götümdeki bokları yesin demesi
+https://www.uludagsozluk.com/k/irem-derici-nin-melekler-g%C3%B6t%C3%BCm%C3%BC-yesin-demesi/
 https://www.uludagsozluk.com/k/rojda-demirer/&w=bg ılık ve kürttür
 https://www.uludagsozluk.com/k/makyaj-yapan-erkek/&w=bg ılıktır
 https://www.uludagsozluk.com/k/el-ve-y%C3%BCz-kremi-kullanan-erkek/&w=bg ılıktır 
