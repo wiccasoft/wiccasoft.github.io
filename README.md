@@ -6,6 +6,7 @@
 
 <!--
 bkz samsunluların genel özellikleri
+bkz nilay korkmazın kürtlere küfretmesi
 bkz müslüm gürsenin şişirilmiş balona kafa atması
 bkz bilal göregenin nilay korkmaz bu kürt hainliğinin bedelini ödeyecek demesi
 bkz kürt trtvesti nilay korkmazın türkcell i tehdit etmesi
