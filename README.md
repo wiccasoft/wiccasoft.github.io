@@ -6,6 +6,7 @@
 
 <!--
 bkz samsunluların genel özellikleri
+bkz bilal göregenin nilay korkmaz bu kürt hainliğinin bedelini ödeyecek demesi
 bkz kürt trtvesti nilay korkmazın türkcell i tehdit etmesi
 bkz kürt travesti nilay korkmazın iphone tasarımını çalması
 bkz samsunluların kürtlerle işimiz olmaz zaten demesi
