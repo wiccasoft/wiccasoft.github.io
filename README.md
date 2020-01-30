@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekrem imamaoğlanın ekşicilere vakit ayıramca demesi 
+bkz ekrem imamooğlanın nilaya vakit ayıracam demesi 
 bkz ekrem imamaoğlanın hdpkklı kürt travestiyi savunması
 bkz kürt travesti nilay korkmazın türkcell düşmanı olması
 bkz macronun türkün türkten başka dostur yoktur açıklaması
