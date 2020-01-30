@@ -6,6 +6,7 @@
 
 <!-- 
 bkz irem dericinin götümdeki bokları yiyin demesi
+bkz travesti nilay korkmazın pahalıyım ama dsiyarbakırlıyım demesi
 https://www.uludagsozluk.com/k/rojda-demirer/&w=bg roj pirez be hewal
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/&w=gd numaramı demeden alın gençler
 https://www.uludagsozluk.com/k/%C3%B6calan%C4%B1n-annesinin-t%C3%BCrk-olmas%C4%B1/ yanlış bilgi selanikli
