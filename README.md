@@ -8,8 +8,6 @@
 https://twitter.com/ask1903bjkiz
 http://www.prenseselaa06.xyz/hakkimda/
 bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
-bkz cinsiyet değitirenlerin genelde kürt olması
-bkz ata cücü neden cinsiyet değiştirmedi sorunsalı
 bkz 30 ocak 2020 venüsün muhteşem gözükmesi
 bkz ata cücünün kuşatma altında çarşaf giyip kaçması
 bkz süleyman soylunun finlandiyalılar bunun hesabını verecek açıklaması
