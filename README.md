@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Feyh-said/&w=bg eywallah bro adamsın
 bkz travesti nilay korkmazın pahalıyım ama diyarbakırlıyım demesi
 bkz putinin ortalığın amınakorum kafamı bozmayın demesi
 bkz irem dericinin türk bayrağı klozete benziyor demesi
