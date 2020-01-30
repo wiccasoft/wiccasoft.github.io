@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz travesti nilay korkmazın kürdüm ama para ben de demesi
 https://www.uludagsozluk.com/k/arabayla-fakir-mahallerinde-turlamak/&w=bg
 https://www.uludagsozluk.com/k/attila-ilhan/&w=bg çok kıymetli bi abimiz
 bkz türklerin dünya çapında çok sevilmelerinin nedenleri
