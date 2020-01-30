@@ -6,6 +6,7 @@
 
 <!--
 bkz kürtlerin virüs gibi çoğalması
+bkz kürtleri yok edecek bir virüs üretip dünyayı cennete çevirmek
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ bkz diyarbakırlı olmaktan guru duyan oç
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ kürt lütfen
 https://www.uludagsozluk.com/k/rojda-demirer/&w=gd kürt lütfen
