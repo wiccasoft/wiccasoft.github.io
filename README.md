@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz kamalcıların devleti gözlerinde çok büyütmesi
 bkz çavuşoğlanın iş bilmez çavuşlar götünü avuçlar açıklaması
 https://www.uludagsozluk.com/k/mehmet-bekaro%C4%9Flu/&w=bg bkz rizeli lütfen
 https://www.uludagsozluk.com/k/eren-erdem/&w=bg bkz kürt lütfen
