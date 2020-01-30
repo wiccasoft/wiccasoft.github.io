@@ -7,7 +7,7 @@
 <!--
 https://www.uludagsozluk.com/e/42783104/ lol
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg çok büyük adamdı çok
-bkz kürtlerin apple cıdafoncu türkçülerin samsung turkcellci olması
+bkz kürtlerin apple vodafoncu türkçülerin samsung turkcellci olması
 bkz ekrem imamoğlunun yürüdüğü kızın sezgin tanrı kulun yürüdüğü kız çıkması
 bkz geyselilerin sergen yalçın çok büyük adam çok demesi
 bkz sergen yalçının kariusun yürüdüğü karıya yürümesi
