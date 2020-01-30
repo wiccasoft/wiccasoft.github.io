@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlanın babasının oğlunu övmesi
 bkz imamaoğlanın iyi bi oğlan olduğu gerçeği
 bkz imamaoğlanon yürüdüğü kızın patlak çıkması
 bkz reynmenin imamoğlan iyi çocuktur zarar gelmez demesi
