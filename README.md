@@ -5,8 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-https://www.uludagsozluk.com/k/%C3%B6zlenilen-ki%C5%9Filer/&w=bg bkz hüseyin nihal atsız
-https://www.uludagsozluk.com/k/serdar-akar-vs-onur-%C3%BCnl%C3%BC/ bkz serdar çıkarmadan beş posta akar
 bkz ekrem imamoğlanın ekşicilere küsmesi
 bkz macronun türkün türkten başka dostu yoktur açıklaması 
 -->
