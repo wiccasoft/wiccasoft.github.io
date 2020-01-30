@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlunun yürüdüğü kızın patlak çıkması
 bkz reynmenin imamoğlan iyi çocuktur zarar gelmez demesi
 bkz imamoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
