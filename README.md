@@ -6,7 +6,8 @@
 
 <!--
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ şikayet ettim slivri soğuktur nihal
-https://eksisozluk.com/30-ocak-2020-rtenin-sosyal-medya-aciklamasi--6345103?a=popular hassekter lan sen kimsin
+https://eksisozluk.com/30-ocak-2020-rtenin-sosyal-medya-aciklamasi--6345103?a=popular 
+bkz sosyal medyada rte ye sormadan paylaşm yapıyorlar
 https://www.youtube.com/watch?v=NXQJ9iR5BkA mahalleli ayıkmasın
 https://www.youtube.com/watch?v=VsxdlM58DZY sakso kaç para
 bkz arkadan vurdun mu önden sallanacak aga
