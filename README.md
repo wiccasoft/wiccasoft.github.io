@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz karabüklülerin sanki biraz şey olması 
 bkz arda turanın fatih portakalla barışması
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/&w=gd bkz diyarbakırlıyız her yer dikişirik -->
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
