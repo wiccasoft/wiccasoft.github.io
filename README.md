@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.uludagsozluk.com/e/42781339/ bkz ay ılığım ayol var mı sıcak erkek
 bkz türkçülerin hem pasif gay hem kürt olduğum için benle sikişmemeleri
 bkz ayol hem kürt hem pasif gayim diyorum niye anlmıyosunuz ayol hofff
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-k%C3%BCrtler/&w=bg ölüsünü dirsinin bir gün hepsini
