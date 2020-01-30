@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.youtube.com/watch?v=tVfyO37ARpQ 
+https://www.youtube.com/watch?v=tVfyO37ARpQ  bkz milletçilerin kafa sikmesi
 bkz amerika üflese türkiyenin çökeceği gerçeği
 bkz türklerin teknolojide geri kalma nedenleri
 bkz türklerin ırkçılık yapmaktan hiç bişey üretememesi
