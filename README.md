@@ -4,6 +4,8 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz ata cücününü yunan bayrağına tükürüp bu ne lan demesi
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-yunan-bayra%C4%9F%C4%B1/
 bkz ata cücü nün her gece yunanları deniz dökmesi
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ 
 bkz diyarbakır çocuğuyuz her yer de sikişirik numaramı kaydet yahuşuhlu türkçü
