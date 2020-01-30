@@ -4,63 +4,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-https://www.glonass-iac.ru/en/GPS/rtgps.php  
-bkz yeşilyoldaki arabın evlenince anangillerde kalırız demesi
-bkz yeşilyoldaki arabın evlenince çalıştırmam seni demesi
-bkz yeşilyoldaki arabın kuşatma altında türkleşmeden kaçması
-https://www.youtube.com/watch?v=iOxzG3jjFkY
-bkz kamalcıların eğitilmez olduğu gerçeği
-bkz yeşilyoldaki arabın zencileşmek istemiyorum demesi
-https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ 
-https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
-https://www.uludagsozluk.com/e/42777323/ demin kız taklidi yapan deil mi bu
-https://www.youtube.com/watch?v=ZP2YtHCXM6E zuahahaha
-https://www.uludagsozluk.com/k/ilker-ba%C5%9Fbu%C4%9F/&w=bg
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
-https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
-https://www.youtube.com/watch?v=otohjMymyYE 
-bkz ata cücünün kuşatma altındayken travestilerden dayak yiyip kaçması
-bkz alper tunga nın acuna çıkması
-bkz bir travesti için çabalamayan adam
-bkz osman pamukoğlunun leş toplamam demesi
-bkz türkeşin türke meydan okuyanın alnını karışlarım demesi
-bkz ilker başbuğun baç buğa meydan okumak nedir öğretmesi
-https://www.uludagsozluk.com/e/42777309/bkz çıkarığ masaya vurmak nedir nasıl yapılır
-bkz iki kadın için takla atarım diyen erkek
-bkz bir kadın için takla atmayan erkek
-bkz ata cücünün yunanları denize döküp nasıl döktüm ama ehe ehe demesi
-bkz ata cücünün kuşatma altındayken ilk hedefiniz akdeniz demesi
-bkz ata cücünün kuşatma altındayken çarşaf giyip kaçması
-bkz osman pamukoğlunun ben askerime leş toplatmam çıkışı
-bkz ilker başbuğun fetönün siyasi ayağını çıkarıp masaya vurması
-https://twitter.com/kamilmakarna/status/1024737292123037696
-bkz polat alemdarın istanbulu zombiler istila etmesin diye nöbet tutması
-bkz ek rem takınca makinanın uçması
-https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg tarihte bugün 
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCc%C3%BCk-bebe%C4%9Fe-hulki-diye-isim-koymak/
-https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg 
-https://eksisozluk.com/ekrem-imamoglunun-genc-bir-kiza-yurumesi--6343633?a=popular
-https://www.youtube.com/watch?v=4RpMzsA1VOw istanbul hojdır 
-https://www.youtube.com/watch?v=ZP2YtHCXM6E belediyeci ismet
-https://www.uludagsozluk.com/k/bir-kad%C4%B1n-i%C3%A7in-%C3%A7abalamayan-erkek/&w=bg bkz nasıl zengin oldum
-https://www.e-motivasyon.net/ise-dans-ederek-gitmiyorsaniz-o-isi-birakin-yuksek-ihtimalle-para-kazanamayacak-ve-servet-yaratamayacaksiniz-warren-buffett.html
-https://www.uludagsozluk.com/e/42743537/ zuahahaha
-https://www.youtube.com/watch?v=uRbEjK3-1B4 bence dans etmek süper
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten
-https://www.youtube.com/watch?v=OIOqFBa7htQ ben sizin babanızım
-bkz ekrem imamaoğlanın kayarken havada spin atması
-bkz rte ikinci ata cücü olduğuna göre 2. rte kim olacak sorunsalı
-bkz belediyeci ismet vs ekrem imamoğlan
-bkz ekrem imamaoğlanın babasını oğlan kaysın yollarım demesi
-https://eksisozluk.com/entry/101200966 lol
-https://www.youtube.com/watch?v=y55092MhqZQ
-bkz evlenirsek üstüne şampanya döker yalarım diyen erkek
-https://www.uludagsozluk.com/k/k%C3%B6len-yap-beni-kocac%C4%B1m-diyen-erkek/ bkz ata cücü
-https://www.uludagsozluk.com/k/tinderdan-wuhanl%C4%B1-k%C4%B1z-ile-e%C5%9Fle%C5%9Fmek/
--->
-
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
