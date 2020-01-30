@@ -9,6 +9,7 @@ bkz türk bayrağının klozete benzemesi
 bkz irem dericinin türk bayrağına götünü silmesi
 https://twitter.com/travestiela8 
 http://www.prenseselaa06.xyz/hakkimda/
+https://www.youtube.com/watch?v=4jb59zq5Kgk&list=RDeBhpptuOxPI&index=2
 bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
 bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
 bkz irem dericinin götümdeki bokları yiyin demesi
