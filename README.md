@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazma-amac%C4%B1/ ılıktır
 https://www.uludagsozluk.com/k/makyaj-yapan-erkek/&w=bg ılıktır
 bkz zeynep koçakın yıllara meydan okuyan değişimi
 https://www.uludagsozluk.com/k/zeynep-ko%C3%A7ak-%C4%B1n-ge%C3%A7irdi%C4%9Fi-evrim/&w=gd
