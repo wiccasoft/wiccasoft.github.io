@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz türklerin sevilmeme nedenleri
 https://www.uludagsozluk.com/e/42780523/ bkz vatanseverlik korkakların ilk sığınağıdır
 bkz imamoğlu sözlükte dönen geyik
 bkz sabah ter içinde imamoğlu diye uyanmak
