@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz nilay korkmazın zeynep koçaka güzel diyen bana demesin demesi
 bkz nilay korkmazın geçirdiği evrim
 bkz imamaoğlunun hdpkklı travestilerle takılması
 bkz nilay kokrmazın perde arkasında imamoğluyla işler çevirmesi
