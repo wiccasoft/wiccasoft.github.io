@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün recep tayyi perdoğan gelince göt olup kaçması
 bkz ata cücü şeyh saidin malafatı götünce çarşaf giyip kaçması
 bkz şey saidin taşşaklarıma beton yetmez demesi
 bkz travesti nilay korkmaz ın ara beni boya beni şeker türkçü demesi
