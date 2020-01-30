@@ -6,7 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=NXQJ9iR5BkA mahalleli ayıkmasın
-https://www.youtube.com/watch?v=VsxdlM58DZY 
+https://www.youtube.com/watch?v=VsxdlM58DZY sakso kaç para
 bkz arkadan vurdun mu önden sallanacak aga
 https://www.uludagsozluk.com/e/42782362/ sakin olun genşler numarasını aldım yengeniz olur
 https://www.uludagsozluk.com/e/42782553/ bkz lubunya ne lan 
