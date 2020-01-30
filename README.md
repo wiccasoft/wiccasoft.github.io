@@ -10,8 +10,6 @@ http://www.prenseselaa06.xyz/hakkimda/
 bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
 bkz cinsiyet değitirenlerin genelde kürt olması
 bkz ata cücü neden cinsiyet değiştirmedi sorunsalı
-bkz sergen yalçının cinsiyet değiştirecem açıklaması
-bkz sergen yalçının çarşaf giyip çalışmalara başlaması
 bkz 30 ocak 2020 venüsün muhteşem gözükmesi
 bkz ata cücünün kuşatma altında çarşaf giyip kaçması
 bkz süleyman soylunun finlandiyalılar bunun hesabını verecek açıklaması
