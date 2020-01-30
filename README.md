@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz demeden yürürler diye sosyal medya kullanmak
 bkz sezgin tanrıkulu nun demeden yürüdüğü kız
 bkz ekrem imamoğlanın ekşicilere küsmesi
 bkz macronun türkün türkten başka dostu yoktur açıklaması 
