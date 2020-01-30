@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz sern yalçının futbolcularımla vakit geçirmek istiyorum demesi
 bkz hala adıma başlık açılmamış demek ki hala doğru yoldayım
 bkz kızımla vakit geçirmek istiyorum diyen ibne
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1mla-vakit-ge%C3%A7irmek-istiyorum-diyen-ibb-ba%C5%9Fkan%C4%B1/&w=bg
