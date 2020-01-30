@@ -6,7 +6,7 @@
 
 <!-- 
 bkz enes baturun suskunluğunu koruması
-bkz imamaoğlan kamerasından ekşiciler
+bkz imamoğlan kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
 bkz imamoğlanın babasının imamoğlana ekşicierle oynama cezası vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
