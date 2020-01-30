@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamoğlanın asgari ücret kızımın masraflarına yetmez demesi
+https://www.uludagsozluk.com/k/imamlara-asgari-%C3%BCcretli-maa%C5%9F-verilsin/
 bkz imamoğlanın kızımla vakit geçirmek istiyorum demesi
 bkz irem derinini götümdeki bokları yiyin demesi
 bkz iremd dericinin götümdeki bokları melekler yesin demesi
