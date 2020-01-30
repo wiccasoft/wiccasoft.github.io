@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ekrem imamaoğlunu nilayla telefonda ne konuştu sorunsalı
 bkz ekrem imamaoğlunun nilayın numarasını aldım arayacam demesi
 bkz irem dericinin numaramı veririm ama turkcell değil demesi
 bkz zeynep koçakın yılalra meydan okuyan değişimi
