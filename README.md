@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/&w=bg bkz vodafone hatlı travesti
 bkz 10 senedir telefonsuz yaşayan adam
 bkz travesti nilay kokrmazın vodafone kullanması
 bkz telefon kulanmamanın faydaları
