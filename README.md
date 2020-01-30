@@ -7,6 +7,7 @@
 <!-- 
 bkz entrysine gülünmeyen oğlan
 bkz hayallerde yaşıyor bazı ibneler
+bkz imamaoğlanın ekşicilerle küstüm oynamaycam demesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/
 bkz kamalcıların devleti gözlerinde çok büyütmesi
 bkz çavuşoğlanın iş bilmez çavuşlar götünü avuçlar açıklaması
