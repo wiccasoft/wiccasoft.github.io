@@ -6,6 +6,7 @@
 
 <!--
 bkz kürtlerin virüs gibi çoğalması
+https://www.uludagsozluk.com/k/donald-trump-%C4%B1n-y%C3%BCzy%C4%B1l%C4%B1n-plan%C4%B1-n%C4%B1-a%C3%A7%C4%B1klamas%C4%B1/&w=bg
 bkz kürtleri yok edecek bir virüs üretip dünyayı cennete çevirmek
 https://www.uludagsozluk.com/k/travesti-nilay-hilal-korkmaz/ bkz diyarbakırlı olmaktan guru duyan oç
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ kürt lütfen
