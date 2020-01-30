@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz hasan mezarcının gü,ncellemesinin duyunca heyacablanan kekolar
+bkz hasan mezarcının güncellemesini duyunca heyacanlanan kekolar
 bkz hasan mezarcının yeni güncelleme atacam demesi
 bkz hasan mezarının esprisine gülmeyen selanikli
 bkz selanikli oç nin ait olduğu yere kaçması
