@@ -7,6 +7,7 @@
 <!--
 bkz kadir mısıroğlan vs ata cücü oğlan
 bkz mustafa ceceli vs diyarbakrılı travesti hilal korkmaz
+bkz köyden gelip travesti beğenmemek
 https://twitter.com/ask1903bjkiz
 http://www.prenseselaa06.xyz/hakkimda/
 bkz fenerli oğlanı berşiktaşlı travestiye götürüp hayır duası almak
