@@ -7,8 +7,7 @@
 <!-- 
 bkz imamoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
-bkz imamoğlanın ekşicilerle kumda oynaması
-bkz imamoğlanın babasının imamaoğlana ceza vermesi
+bkz imamoğlanın babasının imamaoğlana ekşicierle oynama cezası vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
 bkz emre morun yürüdğü kızın imamoğlunun yürüdüğü kzı çıkması
 bkz enes baturun suskunluğunu koruması
