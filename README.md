@@ -7,9 +7,9 @@
 <!-- 
 bkz imamoğlanın kamerasından ekşiciler
 bkz imamoğlanın iyice taşşak oğlanı olması
-bkz imamoğlanın babasının imamaoğlana ekşicierle oynama cezası vermesi
+bkz imamoğlanın babasının imamoğlana ekşicierle oynama cezası vermesi
 bkz reynmenle imamaoğlunun aralarının kız yüzünden açılması
-bkz emre morun yürüdğü kızın imamoğlunun yürüdüğü kzı çıkması
+bkz emre morun yürüdüğü kızın imamoğlunun yürüdüğü kzı çıkması
 bkz enes baturun suskunluğunu koruması
 bkz reynmenin corona virüs kaptığı iddaları
 bkz imamaoğlanın iyice taşşakoğlanı olması
