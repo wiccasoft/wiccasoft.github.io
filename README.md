@@ -6,6 +6,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/42782444/ 
+bkz imamaoğlanın bu gece kızımla yatacam demesi
 bkz hasan mezarcının bende kurtulmak kolay şapşik demesi
 bkz hasan mezarcının karımla vakit geçirmek istiyorum demesi
 bkz imamoğlanın nilay kokrmazla vakit geçirmek istiyorum demesi
