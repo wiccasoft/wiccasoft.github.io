@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz imamaoğlanın kızımla vakift geçirmek istiyorum dmesi hoffff yaaaaaaa
+bkz imamaoğlanın kızımla vakit geçirmek istiyorum dmesi hoffff yaaaaaaa aptal şey
 bkz imamaoğlanın benle pasif gayim diye ilgilenmemesi
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1mla-vakit-ge%C3%A7irmek-istiyorum-diyen-ibb-ba%C5%9Fkan%C4%B1/
 bkz ulucu abiley beni pasif gayim diye sevmiyolay abi
