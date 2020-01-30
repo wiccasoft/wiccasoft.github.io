@@ -6,6 +6,7 @@
 
 <!--
 bkz irem dericinin bokumu yiyin demesi
+bkz selin ciğercinni kürt travestite güzel diyen bana demesin demesi
 bkz ekrem imamoğlanın kürt travesti nilay korkmazı savunması
 bkz travesti nilay korkmazın kürdüm ama para ben de demesi
 https://www.uludagsozluk.com/k/arabayla-fakir-mahallerinde-turlamak/&w=bg
