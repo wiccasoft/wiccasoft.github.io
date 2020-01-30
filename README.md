@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz şeyh said deyince akla gelenler vs kürt said deyince akla gelenler
 https://www.uludagsozluk.com/k/k%C3%BCrt-said-denilince-akla-gelenler/
 bkz kürt said denince akla gelenler
 bkz enes baturun sen yerinde dur demesi
