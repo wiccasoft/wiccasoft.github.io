@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamaoğlanın travesti nilay korkmaza demeden yürümesü
 bkz travesti nilay korkmazın turkcellcileri proveke etmesi
 bkz ap de turkcell hattı yırtan yunan
 bkz imamoğlanın turkcell kullananlar türk ırkçısıdır açıklaması
