@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://twitter.com/travestiela8 
+bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
 bkz irem dericinin götümdeki bokları yiyin demesi
 bkz travesti nilay korkmazın pahalıyım ama dsiyarbakırlıyım demesi
 https://www.uludagsozluk.com/k/rojda-demirer/&w=bg roj pirez be hewal
