@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz iredem dericicinin götümden melek bokları akıyor demesi
 https://twitter.com/travestiela8 
 bkz köyden gelip travesti beğenmemek
 bkz ankaralı travesti ela varken diyarbakırlı travestilere vurdurmak
