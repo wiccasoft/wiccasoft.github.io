@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ilker başbuğun evlenince seni orospum yaparım demesi
 bkz yeşilyoldaki arabın evlenince anangillerde kalırız demesi
 bkz yeşilyoldaki arabın evlenince çalıştırmam seni demesi
 bkz yeşilyoldaki arabın kuşatma altında türkleşmeden kaçması
