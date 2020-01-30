@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz irem dericinin götümdeki bokları yiyin demesi
 bkz milliyetçilerin kafa sikmesi
 https://www.youtube.com/watch?v=tVfyO37ARpQ  
 bkz amerika üflese türkiyenin çökeceği gerçeği
