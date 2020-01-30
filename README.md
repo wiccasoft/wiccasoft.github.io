@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz turkcellin kürtlere hat satmayacağız açıklaması
 bkz turktelekomun kürtlere internet çalmasına müsade etmeyeceğiz açıklaması
 bkz albaraka türkün kürtlere işlem yapmayacağız kararı
 bkz kürtsüz sokaklar istiyoruz kampanyası
