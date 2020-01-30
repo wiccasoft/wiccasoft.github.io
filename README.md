@@ -7,6 +7,7 @@
 <!--
 bkz mustafa keser vs gökhan keser
 bkz kadir mısıroğlan vs ata cücü oğlan
+bkz eşcinsellere seksüel canlı beğendirememek
 bkz mustafa ceceli vs diyarbakrılı travesti hilal korkmaz
 bkz köyden gelip travesti beğenmemek
 https://twitter.com/ask1903bjkiz
