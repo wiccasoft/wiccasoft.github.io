@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
 bkz adam çıkmayan iller
+bkz kızlar kızlar gelemm mi
 bkz karabüklülerin sanki biraz şey olması 
 bkz arda turanın fatih portakalla barışması
 https://www.uludagsozluk.com/k/cahil-kesimin-a%C5%9F%C4%B1r%C4%B1-anlam-y%C3%BCkledi%C4%9Fi-%C5%9Feyler/
