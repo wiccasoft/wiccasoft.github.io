@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 <!-- 
+bkz bütün dünyanın türklüğe karşı çıkması
 bkz türklüğe karşı gelenlerin kafasını kopartacağız 
 bkz ata cücünün yunana bayrağına tükürüp bu n lan demesi
 https://www.uludagsozluk.com/k/apde-t%C3%BCrk-bayra%C4%9F%C4%B1n%C4%B1-y%C4%B1rtan-%C4%B1rk%C3%A7%C4%B1-yunan-milletvekli/
