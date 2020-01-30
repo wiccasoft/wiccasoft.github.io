@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz irem derinini ömelekler götümü yesin demesi
+https://www.uludagsozluk.com/k/irem-derici-nin-melekler-g%C3%B6t%C3%BCm%C3%BC-yesin-demesi/
 bkz zeynep koçak kim amk
 bkz zeynep koçakın geçirdiği evrim 
 bkz ergenlerin aseksüel olduğumu öğrenince göt olması
