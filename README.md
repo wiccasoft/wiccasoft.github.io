@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/e/42782362/ bkz kürtlerin vodafone kulanması
 bkz kürt travestilerin turkcell yerine vodafone kullnama sebebi
 bkz kürt travestileri turkcell düşmanlığı
 bkz kürt travesti nilay korkmazın telefon numarasını paylaşması
