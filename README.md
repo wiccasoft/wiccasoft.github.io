@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kadir mısıroğlanın keşke venüs yunanistanı transit geçmeseydi açıklaması
 https://books.google.com.tr/books?id=W3eytUUwhEIC&pg=PA947&lpg=PA947&dq=javascript+venus+position&source=bl&ots=Nm1jSWz9lA&sig=ACfU3U2RYLFyapPJFZvIuAAjWdfgSZqXpg&hl=tr&sa=X&ved=2ahUKEwi0qJbm46vnAhVBSxoKHcGfC-IQ6AEwAXoECAoQAQ#v=onepage&q=javascript%20venus%20position&f=false
 bkz cavuşoğlanın keşke yunan galip gelseydi açıklaması
 bkz mustafa keser vs gökhan keser
