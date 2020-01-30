@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz hasan mezarcının en iyi kemalist ölü kemalisttir demesi
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r-vs-efe-aydal/&w=bg
 bkz kürt saidin dün boktunuz bugün koktunuz demesi
 bkz irem dericini götümdeki bokları yiyin demesi
