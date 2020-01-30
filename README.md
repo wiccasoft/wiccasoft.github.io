@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kürtlerin apple cı olması
 bkz kürtsüz travesti istiyoruz kampanyası
 bkz türk hava yolalrının kürt travesti taşımayız açıklaması
 bkz kürt travesti nilayın tavsiye istemesi
