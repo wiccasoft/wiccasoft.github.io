@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz türkcellin kürt travesti nilay kokrmaza hat satmıyoruz açıklaması
 bkz türk zeynep koçakın yıllara meysan okuyan evrimi
 bkz kürt travesti nilay korkmaza bütün türk şirketlerin tavır alması
 bkz turk hava yollarının kürtlere seferleri durdurduk açıklaması
