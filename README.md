@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz ergenlerin artık güldürmemesi
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-cumhuriyeti-cumhurba%C5%9Fkan%C4%B1-mansur-yava%C5%9F/
 bkz kamalcıların devleti gözlerinde çok büyütmesi
