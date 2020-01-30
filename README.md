@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz brad pittin rte nin tweetini retweetlemesi
 bkz rte nin nilayı facebooktan eklemesi
 bkz imamoğlunun nilayı retweetlemesi
 bkz dilan dere nin nilaya güzel diyen bana demesin demesi
