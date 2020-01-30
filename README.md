@@ -5,6 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz enes baturun suskunluğunu koruması
+bkz reynmenin corona virüs kaptığı iddaları
 bkz imamaoğlanın iyice taşşakoğlanı olması
 bkz imamaoğlanın babasının oğlan biraz daha kaysın oynamaya yollarım demesi
 bkz imamoğlanın twitterdan yürüdüğü kızın patlak çıkması
