@@ -8,8 +8,8 @@
 bkz yeşilyoldaki arabın evlenince anangillerde kalırız demesi
 bkz yeşilyoldaki arabın evlenince ayaklarını yıkarım demesi
 bkz yeşilyoldaki arabın dürüst sempatik iyi kalpli erkek çıkması
-bkz yeşiyoldaki arabın evlenince seni riyadh a götürüm demesi
-bkz yeşiyoldaki arabın evlenince çalıştırmam seni demesi
+bkz yeşilyoldaki arabın evlenince seni riyadh a götürüm demesi
+bkz yeşilyoldaki arabın evlenince çalıştırmam seni demesi
 bkz yeşilyoldaki arabın kuşatma altında türkleşmeden kaçması
 https://www.youtube.com/watch?v=iOxzG3jjFkY
 bkz kamalcıların eğitilmez olduğu gerçeği
