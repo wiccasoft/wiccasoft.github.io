@@ -6,7 +6,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/travesti-nilay-korkmaz/ bkz ben yürüyorum beyler
-bkz mansur yavaş ciğerimi söktün diyen kız
 bkz macronun türkün türkten başka dostu yoktur demesi
 bkz macronun keşke türkler galip gelseydi açıklaması
 bkz kadir mısıroğlanın keşke venüs yunanistanı transit geçmeseydi açıklaması
