@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz adam sandler adam mıdır sorunsalı
+bkz allahın adam ile havvayı affetmesi
 bkz adam gibi adam diyince akla gelen ilk adam
 https://www.uludagsozluk.com/k/hac%C4%B1-amca/&w=bg
 bkz duran emminin seyfo dayıyı hoplattığı sahne
