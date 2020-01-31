@@ -7,6 +7,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz ekrem imamaoğlunun nilayla vakit geçirmek istiyorum demesi
 https://www.youtube.com/watch?v=1zd4lTPxuB0
 bkz fetönün ata cücüyü affetik açıklaması
 bkz feötnün ata cücüyü affetme sinyalleri yakması
