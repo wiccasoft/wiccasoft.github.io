@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte fenerliyim dese koyunların tepkisi
 bkz rte fener ol kampnyası yapsa kouyunların tepkisi
 bkz rte fetöcüleri ihraç ediyorum dese koyunların tepkisi
 bkz fetö rte yi affediyorum dese koyunları tepksi
