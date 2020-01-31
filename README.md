@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz alper poyuku ali koçun askeriyim demesi
+bkz tayyibin dünyaya hükmetmiş ecdadın torunlarıtız demesi
+bkz alper potukun ali koçun askeriyim demesi
 bkz kamalcıların beyni var mı sorunsalı
 bkz alper potukun atilla ve avrupa hunlarını türk sanması
 bkz alper potuk un alper tunga soyundanız demesi
