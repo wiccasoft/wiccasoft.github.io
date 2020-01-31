@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bak wallah ararın 155 i
+bak wallah ararın cineri
 bkz rte wikipedia yı affettim dese koyunların tepkisi
 bkz rte atacücüyü affetse koyunları tepkisi
 bkz rte ananın amını affetse koyunların tepkisi
