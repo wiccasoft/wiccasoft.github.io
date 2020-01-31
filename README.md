@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücücülerin globalistleri hala tanıyamaması
 https://www.youtube.com/watch?v=fR9ZLJo6Pc4 ata cücü vs rte
 bkz rte ikinci ata cücü olduğuna göre ikinci rte kim olacak sorunsalı
 bkz maduronun mağdurum demesi https://www.youtube.com/watch?v=fsRfN0UfISU
