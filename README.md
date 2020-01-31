@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
 bkz ah be muammer ne anılırımız var senle
 https://www.uludagsozluk.com/k/muammer-aksoy/&w=bg 
 bkz ekrem imamaoğlu demişken adam mıdır
