@@ -5,45 +5,15 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz macronun yunan bayrağını kınaması
 bkz imamaoğlanın yunan bayrağını öpüp sirtaki yapması
-bkz macronun yunanlıları kınaması
 bkz travesti numarası var mı sende kankağğ
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
-bkz ah be muammer ne anılırımız var senle
-https://www.uludagsozluk.com/k/muammer-aksoy/&w=bg 
-bkz ekrem imamaoğlu demişken adam mıdır
-bkz o değil de bi ekrm imamaoğlu vardı noldu ona
-bkz ağızda kekremsi bir tat bırakan adamlar
-bkz onu bırakın da sergen yalçının damlığında sual olunur mu beyler
-bkz ekrem imamaoğlunu kelimeler sığdırabilmek
-bkz ekrem imamaoğlunu 3 kelime ile anlat
-bkz ekrem imamaoğlanın taşşak oğlanına dönmesi
-bkz ekrem imamaoğlanın ekşcilerle oynayacam demesi
-bkz adam gibi adam çıkan iller
-bkz zeki alasyanın şişirilmiş balon olduğu gerçeği
-bkz kazım koyuncu irem derici arasındaki gerginlik
-bkz kazım koyuncunun müslüm gürsese balon demesi
-bkz müslüm gürsesin şişirilmiş bir azer bülbül olması
-bkz ekrem imamaoğlanın pkklı kazım koyuncuyla olan fotosu
-bkz kazım koyuncunun şair ceketli çocuk olması
-bkz ülkücülerin yirem dericiyi portakal sıkıp protesto etmesi
 bkz irem dericinin türk bayrağı klozete benziyor demesi
 bkz selin ciğercinin nihal korkmazın asker arkadaşı çıkması
 bkz selin ciğercinin nihal korkmaza güzel diyen bana demesin demesi
 bkz arda turanın türk bayrağını öpüp asker selamı vermesi
-bkz alper potukun nihal korkmaza yürümesi
-bkz kürt travesti nihal korkmazın turkcell düşmanlığı
-bkz ekrem imamaoğlanın ekşcilere zaman ayırmak istiyorum demesi
 bkz ekrem imamaoğlanın ekşiciler götümü ısırsın demesi
-bkz ekrem imamaoğlanın fener maçları varsa  gelirim demesi
-https://www.youtube.com/watch?v=Vu9t8LWFb80 fenerin sergene doşeyeceği boru
-https://www.youtube.com/watch?v=F1O_OXAHYlI fener olalım
-https://www.youtube.com/watch?v=ZEZ09WM0_5U 
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen söyle
-bkz travesti blhal korkmazın vodafone kullanması
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz ali koçun biraz mal olması
-bkz ali koçun sergen yalçının sicili bozuk demesi
-bkz ali koçun volkan demirele 5 maç ceza vermesi
 bkz travesti nilay korkmazın şişirilmiş bir balon olduğu iddası
 https://www.uludagsozluk.com/k/zeynep-ko%C3%A7ak-%C4%B1n-ge%C3%A7irdi%C4%9Fi-evrim/&w=bg
 https://www.uludagsozluk.com/k/lerzan-mutlu-nun-haf%C4%B1zas%C4%B1n%C4%B1-sildirmesi/ 
