@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz buket aydının dudaklara silkon yaptırmmi demesi
 bkz buket aydın 40ın 40 yayınları
 bkz buket aydının arda turana çok yakışıklısın demesi
 bkz buket aydın süleyman soylu ortak yayını
