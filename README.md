@@ -8,7 +8,7 @@
 bak wallah ararın cineri
 bkz rte yi rte ye şikayet etmek
 bkz steve jobs ın erdo bize maaş veriyo demesi
-https://www.uludagsozluk.com/k/serkan-inci-nas%C4%B1l-milyoner-oldu/ vay amk serkan iz my girl
+https://www.uludagsozluk.com/k/serkan-inci-nas%C4%B1l-milyoner-oldu/ serkan iz my girl
 https://www.youtube.com/watch?v=Fa3v-m3Kll0&list=PLSNulQ9_YhWg4w33JFsRDMPf-Gka5vlbg&index=18
 bkz rte wikipedia yı affettim dese koyunların tepkisi
 bkz rte atacücüyü affetse koyunları tepkisi
