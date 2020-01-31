@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ali koçun bitti diyen kıza koltuk altıyla patlak kız sesei çıkarması
 bkz ali koçun bitti diyen alper potuka siktir git demesi
 bkz ali koçun sadık çifpınarı yedeğe alması
 bkz adam levine adam mıdır sorunsalı
