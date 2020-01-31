@@ -6,6 +6,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz fetullah gülenin rte yi affetme sinyalleri yakması
 bkz fetö rte yi affediyorum dese koyunları tepkisi
 bkz rte ketoyu affediyorum dese koyunların tepkisi
 bkz jahreine twitchten yürüyen kız
