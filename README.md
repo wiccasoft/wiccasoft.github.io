@@ -6,6 +6,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz fetönün ata cücüyü affetik açıklaması
 bkz fetullah gülenin ata cücüyü affetme sinyalleri yakması
 bkz fetö rte yi affediyorum dese koyunları tepkisi
 bkz rte ketoyu affediyorum dese koyunların tepkisi
