@@ -8,7 +8,8 @@
 <!--
 bkz rte wikipedia yı affettim dese naparsınız
 https://www.youtube.com/watch?v=4RpMzsA1VOw wikipedia hojdır
-bkz rte nin koltuk ltıyla patlak kız sesi çıkarması
+bkz rte nin koltuk altıyla patlak kız sesi çıkarması
+bkz patlak kızların suda çıkardığı ses
 bkz rte nin kızımla ilgilenmek istiyorum demesi  
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/
 -->
