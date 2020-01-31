@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz macronun yunan bayrağına işeyip rte nin yanına geçmesi
+bkz macronun rte ye bişey olmasın diye savaş gemisi yollaması
 bkz imamaoğlanın yunan bayrağını öpüp sirtaki yapması
 bkz travesti numarası var mı sende kankağğ
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
