@@ -5,16 +5,11 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ali koçun vedat mürüçü yunaların üstüne salması
 bkz imamoğlanın yunan bayrağını öpüp sirtaki yapması
-bkz travesti numarası var mı sende kankağğ
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
 bkz irem dericinin türk bayrağı klozete benziyor demesi
 bkz selin ciğercinin nihal korkmazın asker arkadaşı çıkması
 bkz selin ciğercinin nihal korkmaza güzel diyen bana demesin demesi
-bkz arda turanın türk bayrağını öpüp asker selamı vermesi
-bkz ekrem imamaoğlanın ekşiciler götümü ısırsın demesi
-bkz travesti nilay korkmazın şişirilmiş bir balon olduğu iddası
 https://www.uludagsozluk.com/k/zeynep-ko%C3%A7ak-%C4%B1n-ge%C3%A7irdi%C4%9Fi-evrim/&w=bg
 https://www.uludagsozluk.com/k/lerzan-mutlu-nun-haf%C4%B1zas%C4%B1n%C4%B1-sildirmesi/ 
 https://www.uludagsozluk.com/e/42782362/ bkz ara beni boya beni
