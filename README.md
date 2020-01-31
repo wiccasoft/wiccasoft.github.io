@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlunun yahudi lobisiyle olan fotoları
+https://www.uludagsozluk.com/k/soyad%C4%B1nda-o%C4%9Flu-olanlar%C4%B1n-yahudi-oldu%C4%9Fu-iddias%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-%C3%A7in-de-tutukland%C4%B1/2/
 bkz ruhi çenet spy game deki adam benzerliği
 -->
