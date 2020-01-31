@@ -15,69 +15,11 @@ https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tep
 bkz bahçeli nin rte hdp ye meyletmesin diye yanaşması
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-rte-hdp-ye-meyletmesin-diye-yana%C5%9Fmas%C4%B1/&w=bg
 bkz bahçeli nin rte hdp ye meyletmesin diye yanaşması
-bkz suriyeli mültecilerin arapçayı unutması
-bkz buket aydın üst dudağına silikon yaptırsa koyunların tepkisi
-bkz ibb nin demeden karı yollaması
-bkz mobile.twtitter linkinin açılmaması
-bkz 31 ocak türk donanmasının yonanları denzie dökmesi
-https://www.uludagsozluk.com/k/31-ocak-2020-t%C3%BCrk-donanmas%C4%B1n%C4%B1n-yunana-m%C3%BCdahalesi/
-bkz rte fenerliyim dese koyunların tepkisi
-bkz rte fener ol kampnyası yapsa kouyunların tepkisi
-bkz rte fetöcüleri ihraç ediyorum dese koyunların tepkisi
-bkz fetö rte yi affediyorum dese koyunları tepksi
-https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/
-bkz rte fetöyü ifşa etse koyunların tepkisi
-bkz rte nin fetö ifşa ekibini takipten çıkması
-bkz rte fetöyle barıştdım dese koyunların tepkisi
-bkz rte fetöyü ben uydurdum zaten dese koyunların tepkisi
-bkz rte fetöüyü affediyorum dese koyunların tepkisi
-bkz ösym nin ifşa hesabı takip etmesi
-bkz imamaoğlan gel ananı affettim dese koyunların tepkisi
-bkz ibb dürüst erkek profili retweetlese koyunların tepkisi
-bkz rte dürüst sempatik efendi iyi kalpli erkek oldum dese koyunları tepkisi
-bkz rte fetöyü retweetlese koyunların tepkisi
-bkz rte nin  fetönün  twitter hesabını takip etmesi
-https://www.uludagsozluk.com/k/d%C3%BCr%C3%BCst-sempatik-efendi-iyi-kalpli-erkek/&w=bg okumadım kankağ
-bkz rte ananı affettim getir yarın sikeyim dese babanın tepkisi
-https://www.uludagsozluk.com/k/bakir-erkek-iticili%C4%9Fi/ bkz ay hoş ulan amunakodum
-bkz rte adem le havvayı affedyiyorum dese koyunların tepkisi
-bkz rte atacücüyü affettim dese koyunların tepkisi
-https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
-bkz kamalcı kişilik bozukluğu
-bkz kamalcıların rte yi allah sanması
-bkz bak vallah ararın 155 i
-bkz rte nin allah olma ihtimali
-bkz rte fetöyü affediyorum dese koyunları tepkisi
-https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
-bkz ensar vakfı onursal başkanın eyalet sistemi iyidir yav ne tatava yaparsanız demesi
-bkz sevdiceğinin yüreciğine eyalet sistemi sokan erkek
-bkz bilalin abisinin eyalet sistemine geçelim önerisi
-bkz tc neden eyalet bayrakları kullanmıyor sorunsalı
-https://www.uludagsozluk.com/k/%C3%BCmmet%C3%A7iden-ve-solcudan-vatansever-olmaz-olamaz/
-bkz pasifikten ada satın alıp komün hayatı kurmak
-bkz fakirlerin kapitalizm zenginlerin komunizmi savunduğu ironik çağın güldürmesi
-bkz türklerin yoğurt dışında üdnyaya kattıkları
-bkz tayyibin beni seven facebook sayfamı beğenir demesi
-https://www.youtube.com/watch?v=c7IoBRRBiX8 adamın karekökü
-bkz bilalin tek dünya devleti eş bakan yardımcısı oluyum demesi
-bkz amerika telefonları kapasa bok gibi ortada kalacakların hava kasması
-bkz kamalın askerleriyiz diyip götünde 1000 liralık telefonla dolaşmak
-bkz tayyibin dünyaya hükmetmiş ecdadın torunlarıtız demesi
-bkz alper potukun ali koçun askeriyim demesi
-bkz kamalcıların beyni var mı sorunsalı
-bkz alper potukun atilla ve avrupa hunlarını türk sanması
-bkz alper potuk un alper tunga soyundanız demesi
-bkz götünde don olmayan türklerin ortadoğu eş başkanıyım demesi
-bkz bulgaristan dan gelen cevapsız çağrı
-bkz nilay korkmazın tek dünya devleti eş başkanıyım demesi
-bkz nilay korkmazın alper potuka  yürümesi
-bkz alper potukun ne mutlu yunanım diyene demesi
 http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html 
 bkz bize her yer olimpos zeus un çocuklarıyız
 bkz konstantinopolis kaç saatte alırız sorunsalı
 bkz imamoğlanın yunan bayrağını öpüp sirtaki yapması
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
-bkz selam size, zeus’un kızları, verin bana o büyülü sesinizi, kutlayın benim dilimden ölümsüzler soyunu
 bkz irem dericinin türk bayrağı klozete benziyor demesi
 bkz selin ciğercinin nihal korkmazın asker arkadaşı çıkması
 bkz selin ciğercinin nihal korkmaza güzel diyen bana demesin demesi
