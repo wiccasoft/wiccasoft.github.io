@@ -8,6 +8,7 @@
 <!--
 bak wallah ararın cineri
 bkz rte kayacam dese naparsınız
+bkz rte aseksüelim dese naparsınız
 bkz rte hepinizi affettim dese naparsınız
 bkz eş cinseliniz cinselli konuşsa naparsınız
 bkz adam gibi adam diyince akla gelen ilk adam
