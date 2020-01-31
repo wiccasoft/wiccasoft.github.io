@@ -6,6 +6,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz rte yi rte ye şikayet etmek
 bkz rte wikipedia yı affettim dese koyunların tepkisi
 bkz rte atacücüyü affetse koyunları tepkisi
 bkz rte ananın amını affetse koyunların tepkisi
