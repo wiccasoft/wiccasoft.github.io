@@ -9,6 +9,7 @@ bkz bize her yer olimpos zeus un çocuklarıyız
 bkz konstantinopolis kaç saatte alırız sorunsalı
 bkz imamoğlanın yunan bayrağını öpüp sirtaki yapması
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
+bkz selam size, zeus’un kızları, verin bana o büyülü sesinizi, kutlayın benim dilimden ölümsüzler soyunu
 bkz irem dericinin türk bayrağı klozete benziyor demesi
 bkz selin ciğercinin nihal korkmazın asker arkadaşı çıkması
 bkz selin ciğercinin nihal korkmaza güzel diyen bana demesin demesi
