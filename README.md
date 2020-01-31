@@ -6,6 +6,7 @@
 
 <!--
 bkz bak vallah ararın 155 i
+bkz bilalin abisinin eyalet sistemine geçelim önerisi
 bkz tc neden eyalet bayrakları kullanmıyor sorunsalı
 https://www.uludagsozluk.com/k/%C3%BCmmet%C3%A7iden-ve-solcudan-vatansever-olmaz-olamaz/
 bkz pasifikten ada satın alıp komün hayatı kurmak
