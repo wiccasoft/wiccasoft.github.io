@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz  irem dericinin türk bayrağı klozete benziyor demesi
+bkz ülkücülerin yirem dericiyi portakal sıkıp protesto etmesi
+bkz irem dericinin türk bayrağı klozete benziyor demesi
 bkz selin ciğercinin nihal korkmazın asker arkadaşı çıkması
 bkz selin ciğercinin nihal korkmaza güzel diyen bana demesin demesi
 bkz arda turanın türk bayrağını öpüp asker selamı vermesi
