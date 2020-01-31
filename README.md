@@ -8,7 +8,7 @@
 bak wallah ararın cineri
 https://www.youtube.com/watch?v=1zd4lTPxuB0
 bkz fetönün ata cücüyü affetik açıklaması
-bkz fetullah gülenin ata cücüyü affetme sinyalleri yakması
+bkz feötnün ata cücüyü affetme sinyalleri yakması
 bkz fetö rte yi affediyorum dese koyunları tepkisi
 bkz rte ketoyu affediyorum dese koyunların tepkisi
 bkz jahreine twitchten yürüyen kız
