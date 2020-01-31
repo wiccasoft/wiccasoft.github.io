@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekrem imamaoğlu vs ata cücü
+bkz damat ferit paşa vs ekrem imamoğlu
+bkz ekrem imamoğlu vs ata cücü
 bkz türklerin yoğurt dışında insanlığa katkıları
 bkz ata cücücülerin globalistleri hala tanıyamaması
 https://www.youtube.com/watch?v=fR9ZLJo6Pc4 ata cücü vs rte
