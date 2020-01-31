@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/muammer-aksoy/&w=bg  ah be muammer ne anılırımız var senle
 bkz ekrem imamaoğlu demişken adam mıdır
 bkz o değil de bi ekrm imamaoğlu vardı noldu ona
 bkz ağızda kekremsi bir tat bırakan adamlar
