@@ -5,36 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-https://www.uludagsozluk.com/k/misvak-kayak-kaymak-depremi-tetikler-mi-karikat%C3%BCr%C3%BC/
-bkz uzak doğuluların türk eti yeriz daha önce de yedik bizim için fark yapmaz demesi
-bkz ali koçun bitti diyen kıza koltuk altıyla patlak kız sesi çıkarması
-bkz ali koçun sadık çifpınarı yedeğe alması
-bkz adam levine adam mıdır sorunsalı
-bkz adam sandler adam mıdır sorunsalı
-bkz allahın adam ile havvayı affetmesi
-bkz adam gibi adam diyince akla gelen ilk adam
-https://www.uludagsozluk.com/k/hac%C4%B1-amca/&w=bg
-bkz duran emminin seyfo dayıyı hoplattığı sahne
-https://www.uludagsozluk.com/k/duran-emmi/&w=bg
-bkz alper poyukun hunlar türk değil demesi
-https://www.youtube.com/watch?v=224nx8msD8k
-https://www.youtube.com/watch?v=kVTNMsVnM-g
-bkz ata cücücülerin globalistleri hala tanıyamaması
-https://www.youtube.com/watch?v=fR9ZLJo6Pc4 ata cücü vs rte
-bkz rte ikinci ata cücü olduğuna göre ikinci rte kim olacak sorunsalı
-bkz maduronun mağdurum demesi https://www.youtube.com/watch?v=fsRfN0UfISU
-bkz allah ademle havvayı affettim dese naparsınız
-bkz ekrem imamoğlu maketi yapıp parayı kırmak
-bkz ekrem imamoğlunun ekşicilerle ilgilenmek istiyorum demesi
-bkz rte wikipedia yı affettim dese naparsınız
-https://www.youtube.com/watch?v=4RpMzsA1VOw wikipedia hojdır
-bkz rte nin koltuk altıyla patlak kız sesi çıkarması
-bkz patlak kızların suda çıkardığı ses
-bkz rte nin kızımla ilgilenmek istiyorum demesi  
-https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/
--->
-
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
