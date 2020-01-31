@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/bakir-erkek-iticili%C4%9Fi/ bkz ay hoş ulan amunakodum
 bkz rte adem le havvayı affedyiyorum dese koyunların tepkisi
 bkz rte atacücüyü affettim dese koyunların tepkisi
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
