@@ -5,16 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-bkz ruhi çenetin virüsten prim kasmaası
-bkz ruhi çenet in kendini spy game deki brad pitt sanması
-bkz ekrem imamaoğluna yemek yaparken arkadan sarılmak 
-bkz ruhi çenetin corona virüsünü yaydığı gerçeği
-bkz ruhi çenetin fetöcü olması
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-%C3%A7in-de-tutukland%C4%B1/
-
--->
-
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
