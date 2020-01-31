@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html atalarımız ne güzel demiş
+http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html 
 bkz bize her yer olimpos zeus un çocuklarıyız
 bkz konstantinopolis kaç saatte alırız sorunsalı
 bkz imamoğlanın yunan bayrağını öpüp sirtaki yapması
