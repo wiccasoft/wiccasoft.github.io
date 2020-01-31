@@ -7,6 +7,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz cinsel seksi yasakladığım halde uymayan insanoğlu
 bkz rte nin hz ademi affediyorum demesi
 bkz ekrem imamaoğlunun nilayla vakit geçirmek istiyorum demesi
 https://www.youtube.com/watch?v=1zd4lTPxuB0
