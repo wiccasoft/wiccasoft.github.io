@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ibb dürüst erkek profili retweetlese koyunların tepkisi
 bkz rte dürüst sempatik efendi iyi kalpli erkek oldum dese koyunları tepkisi
 bkz rte fetöyü retweetlese koyunların tepkisi
 bkz rte nin  fetönün  twitter hesabını takip etmesi
