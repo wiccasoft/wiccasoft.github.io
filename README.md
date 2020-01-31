@@ -5,10 +5,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.youtube.com/watch?v=EfAsNffCjsM ellekin güldürmesi
-bkz ensar vakfı onursal başkanı ananı affettim dese koyunların tepkisi
 bkz rte atacücüyü affetse koyunları tepkisi
 bkz rte ananın amını affetse koyunların tepkisi
+https://www.youtube.com/watch?v=ZP2YtHCXM6E see you later aligator
 bkz rte ademle havvayı affetse koyunların tepkisi
 bkz rte fetöyü affediyorun dese koyunların tepkisi
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
