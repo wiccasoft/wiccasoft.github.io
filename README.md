@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz o değil de bi ekrm imamaoğlu vardı noldu ona
 bkz ağızda kekremsi bir tat bırakan adamlar
 bkz onu bırakın da sergen yalçının damlığında sual olunur mu beyler
 bkz ekrem imamaoğlunu kelimeler sığdırabilmek
