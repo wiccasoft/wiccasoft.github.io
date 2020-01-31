@@ -5,8 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz c++ a karşı olan solcu
-bkz götünde don olmayan kapitalist liberal
 bkz fakirlerin kapitalizm zenginlerin komunizmi savunduğu ironik çağın güldürmesi
 bkz türklerin yoğurt dışında üdnyaya kattıkları
 https://www.youtube.com/watch?v=c7IoBRRBiX8 adamın karekökü
