@@ -10,6 +10,7 @@ https://www.uludagsozluk.com/k/%C3%BCmmet%C3%A7iden-ve-solcudan-vatansever-olmaz
 bkz pasifikten ada satın alıp komün hayatı kurmak
 bkz fakirlerin kapitalizm zenginlerin komunizmi savunduğu ironik çağın güldürmesi
 bkz türklerin yoğurt dışında üdnyaya kattıkları
+bkz tayyibin beni seven facebook sayfamı beğenir demesi
 https://www.youtube.com/watch?v=c7IoBRRBiX8 adamın karekökü
 bkz bilalin tek dünya devleti eş bakan yardımcısı oluyum demesi
 bkz amerika telefonları kapasa bok gibi ortada kalacakların hava kasması
