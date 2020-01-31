@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz uzak doğuluların türk eti yeriz bizim için fark yapmaz demesi
 bkz ali koçun bitti diyen kıza koltuk altıyla patlak kız sesi çıkarması
 bkz ali koçun sadık çifpınarı yedeğe alması
 bkz adam levine adam mıdır sorunsalı
