@@ -18,6 +18,7 @@ bkz kürtlerin apple vodafoncu türkçülerin samsung turkcellci olması
 bkz macronun türkün türkten başka dostur yoktur açıklaması
 bkz türklerin beni küçümsemekten bişey üretememesi
 bkz irem dericinin bokumu yiyin demesi
+bkz innovasyon neydi sevgiydi emekti
 https://www.sozcu.com.tr/2020/dunya/yapay-zeka-somurge-koloniler-yaratacak-5587231/ 
 -->
 
