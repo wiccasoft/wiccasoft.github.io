@@ -7,6 +7,7 @@
 
 <!--
 bak wallah ararın cineri
+https://www.uludagsozluk.com/e/42786756/ adam çiğköfteci beyler
 https://www.uludagsozluk.com/e/42565460/ adam zengin beyler
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır
 https://www.youtube.com/watch?v=LJX7ONd3YdE
