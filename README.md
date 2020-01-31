@@ -8,6 +8,7 @@
 <!--
 bkz ekrem imamaoğluna yemek yaparken arkadan sarılmak 
 bkz ruhi çenetin corona virüsünü yaydığı gerçeği
+bkz ruhi çenetin fetöcü olması
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
