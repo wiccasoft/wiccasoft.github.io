@@ -15,14 +15,6 @@ https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-rte-hdp-ye-meyletmesin-diye-yana
 bkz bahçeli nin rte hdp ye meyletmesin diye yanaşması
 bkz suriyeli mültecilerin arapçayı unutması
 bkz buket aydın üst dudağına silikon yaptırsa koyunların tepkisi
-bkz buket aydının dudaklara silkon yaptırmmi demesi
-bkz buket aydın 40ın 40 yayınları
-bkz buket aydının arda turana çok yakışıklısın demesi
-bkz buket aydın süleyman soylu ortak yayını
-bkz buket aydın arda turan cnn turk yayını
-bkz buket aydının fatih portakal verdiği ayar
-bkz rte ananızı affettim dese koyunların tepkisi
-bkz rte fetöyü affediyorum dese koyunların tepkisi
 bkz ibb nin demeden karı yollaması
 bkz mobile.twtitter linkinin açılmaması
 bkz 31 ocak türk donanmasının yonanları denzie dökmesi
