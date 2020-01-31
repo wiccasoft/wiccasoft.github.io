@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz badeci hacı amca
+https://www.uludagsozluk.com/k/hac%C4%B1-amca/&w=bg
 bkz duran emminin seyfo dayıyı hoplattığı sahne
 https://www.uludagsozluk.com/k/duran-emmi/&w=bg
 bkz alper poyukun hunlar türk değil demesi
