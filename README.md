@@ -9,6 +9,8 @@
 bak wallah ararın cineri
 bkz rte hepinizi affettim dese naparsınız
 bkz eşcinseliniz cinselli konuşsa naparsınız
+bkz adam gibi adam diyince akla gelen ilk adam
+https://www.uludagsozluk.com/k/e%C5%9Fcinseller-insan-m%C4%B1d%C4%B1r/&w=bg
 bkz rte kadınlı erkekli seksi yasaklıyorum dese naparsınız
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg
 https://www.uludagsozluk.com/k/ismail-k%C3%BC%C3%A7%C3%BCkkaya-n%C4%B1n-e%C5%9Fine-verdi%C4%9Fi-tazminat/
