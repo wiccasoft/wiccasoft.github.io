@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bahçeli nin rte hdp ye meyletmesin diye yanaşması
 bkz suriyeli mültecilerin arapçayı unutması
 bkz buket aydın üst dudağına silikon yaptırsa koyunların tepkisi
 bkz buket aydının dudaklara silkon yaptırmmi demesi
