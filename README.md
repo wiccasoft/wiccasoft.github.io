@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz rte adem le havvayı affedyiroum dee koyunların tepkisi
+bkz rte adem le havvayı affedyiyorum dese koyunların tepkisi
 bkz rte atacücüyü affettim dese koyunların tepkisi
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
 bkz kamalcı kişilik bozukluğu
