@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/e/42783104/ lol
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg çok büyük adamdı çok
 bkz kürtlerin apple vodafoncu türkçülerin samsung turkcellci olması
 bkz macronun türkün türkten başka dostur yoktur açıklaması
+bkz türklerin beni küçümsemekten bişey üretememesi
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
