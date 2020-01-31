@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=ZEZ09WM0_5U
 https://www.uludagsozluk.com/k/zeynep-ko%C3%A7ak-%C4%B1n-ge%C3%A7irdi%C4%9Fi-evrim/&w=bg
 https://www.uludagsozluk.com/k/lerzan-mutlu-nun-haf%C4%B1zas%C4%B1n%C4%B1-sildirmesi/ 
 https://www.uludagsozluk.com/e/42782362/ bkz ara beni boya beni
+bkz imamaoğlunun trvesti nilaya vakit ayırmak istiyorum demesi
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/e/42783104/ lol
 https://www.uludagsozluk.com/k/azer-b%C3%BClb%C3%BCl/&w=bg çok büyük adamdı çok
