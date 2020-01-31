@@ -7,6 +7,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz şeytan coronovirüsünü affediyorum dese koyunların tepkisi
 https://www.youtube.com/watch?v=jVEKDcDEN1w
 bkz cinsel seksi yasakladığım halde uymayan insanoğlu
 bkz ekrem imamaoğlunun nilayla vakit geçirmek istiyorum demesi
