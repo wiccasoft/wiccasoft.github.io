@@ -6,7 +6,6 @@
 
 <!--
 bkz travesti numarası var mı sende kankağğ
-bkz rte nin arıyp travesti nihal aksoyun telefonunu istemesi
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
 bkz ah be muammer ne anılırımız var senle
 https://www.uludagsozluk.com/k/muammer-aksoy/&w=bg 
