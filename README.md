@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte fetöyü affediyorum dese koyunların tepkisi
 bkz ibb nin demeden karı yollaması
 bkz mobile.twtitter linkinin açılmaması
 bkz 31 ocak türk donanmasının yonanları denzie dökmesi
