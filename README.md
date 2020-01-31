@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz buket aydının fatih portakal verdiği ayar
 bkz rte ananızı affettim dese koyunların tepkisi
 bkz rte fetöyü affediyorum dese koyunların tepkisi
 bkz ibb nin demeden karı yollaması
