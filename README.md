@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd harika bi adam belediye başkanı adam adama
 bkz ekrem imamaoğlunu kelimeler sığdırabilmek
 bkz ekrem imamaoğlunu 3 kelime ile anlat
 bkz ekrem imamaoğlanın taşşak oğlanına dönmesi
