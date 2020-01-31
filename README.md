@@ -6,6 +6,8 @@
 
 <!--
 bkz bak vallah ararın 155 i
+bkz allah fetöyü affediyorum dese koyunları tepkisi
+https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
 bkz ensar vakfı onursal başkanın eyalet sistemi iyidir yav ne tatava yaparsanız demesi
 bkz sevdiceğinin yüreciğine eyalet sistemi sokan erkek
 bkz bilalin abisinin eyalet sistemine geçelim önerisi
