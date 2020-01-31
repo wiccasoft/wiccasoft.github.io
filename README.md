@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/lerzan-mutlu-nun-haf%C4%B1zas%C4%B1n%C4%B1-sildirmesi/ 
 https://www.uludagsozluk.com/e/42782362/ bkz ara beni boya beni
 https://www.youtube.com/watch?v=cs8mES3n0LY
 https://www.uludagsozluk.com/e/42783104/ lol
