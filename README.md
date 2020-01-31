@@ -6,7 +6,7 @@
 
 <!--
 bak wallah ararın cineri
-bkz rte yi rte ye şikayet etmek
+bkz enes batur reynmeni affediyorum dese koyunların tepkisi
 bkz jahrein serkan inciyi affediyorum dese koyunların tepkisi
 bkz rte fetullah güleni affediyorum dese koyunların tepkisi
 bkz steve jobs ın erdo bize maaş veriyo demesi
