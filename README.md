@@ -6,6 +6,8 @@
 
 <!--
 bak wallah ararın cineri
+bkz rte ben çok affedeciyimdir demesi
+bkz rte fetöyü affediyorum dese koyunların tepkisi
 bkz enes batur reynmeni affediyorum dese koyunların tepkisi
 bkz jahrein serkan inciyi affediyorum dese koyunların tepkisi
 bkz rte fetullah güleni affediyorum dese koyunların tepkisi
