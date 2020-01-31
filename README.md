@@ -6,8 +6,8 @@
 
 <!--
 bkz c++ a karşı olan solcu
-bkz fakirlerin kapitalizm zenginlerin komunizmi savunması
 bkz götünde don olmayan kapitalist liberal
+bkz fakirlerin kapitalizm zenginlerin komunizmi savunduğu ironik çağın güldürmesi
 bkz türklerin yoğurt dışında üdnyaya kattıkları
 https://www.youtube.com/watch?v=c7IoBRRBiX8 adamın karekökü
 bkz bilalin tek dünya devleti eş bakan yardımcısı oluyum demesi
