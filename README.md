@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekrem imamaoğlunun ekşicilerle ilgilenmek istiyorum demesi
+bkz ekrem imamoğlu maketi yapıp parayı kırmak
+bkz ekrem imamoğlunun ekşicilerle ilgilenmek istiyorum demesi
 bkz rte wikipedia yı affettim dese naparsınız
 https://www.youtube.com/watch?v=4RpMzsA1VOw wikipedia hojdır
 bkz rte nin koltuk altıyla patlak kız sesi çıkarması
