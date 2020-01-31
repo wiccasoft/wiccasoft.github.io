@@ -11,6 +11,8 @@ bkz rte kayacam dese naparsınız
 bkz rte hepinizi affettim dese naparsınız
 bkz eş cinseliniz cinselli konuşsa naparsınız
 bkz adam gibi adam diyince akla gelen ilk adam
+bkz enes batur adam mıdır
+https://www.uludagsozluk.com/k/%C3%A7o%C4%9Fu-youtuber-%C4%B1n-sabiler-%C3%BCzerinden-para-kazanmas%C4%B1/
 https://www.uludagsozluk.com/k/e%C5%9Fcinseller-insan-m%C4%B1d%C4%B1r/&w=bg
 bkz rte kadınlı erkekli seksi yasaklıyorum dese naparsınız
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg
