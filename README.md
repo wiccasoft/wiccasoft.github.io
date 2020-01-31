@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz amerika telefonları kapas bok gibi ortada kalacakların hava kasması
+bkz bilalin tek dünya devleti eş bakan yardımcısı oluyum demesi
+bkz amerika telefonları kapasa bok gibi ortada kalacakların hava kasması
 bkz kamalın askerleriyiz diyip götünde 1000 liralık telefonla dolaşmak
 bkz tayyibin dünyaya hükmetmiş ecdadın torunlarıtız demesi
 bkz alper potukun ali koçun askeriyim demesi
