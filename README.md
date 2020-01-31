@@ -8,6 +8,7 @@
 <!--
 bak wallah ararın cineri
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg
+https://www.uludagsozluk.com/k/kuran-kursunda-%C3%B6%C4%9Frencilere-%C5%9Fut-%C3%A7eken-hoca/&w=gd
 https://www.uludagsozluk.com/k/uraz-kayg%C4%B1laro%C4%9Flu-nun-ger%C3%A7ek-bir-balon-olmas%C4%B1/ 
 https://www.uludagsozluk.com/k/asurlular%C4%B1n-arap-olmas%C4%B1/ bkz yeşilyoldaki arap
 https://www.uludagsozluk.com/e/42786756/ adam çiğköfteci beyler
