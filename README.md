@@ -7,7 +7,7 @@
 
 <!--
 bak wallah ararın cineri
-bkz kızılhaçın amerikaya kaçması
+https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır
 https://www.youtube.com/watch?v=LJX7ONd3YdE
 bkz şeytan coronovirüsünü affediyorum dese koyunların tepkisi
 https://www.youtube.com/watch?v=jVEKDcDEN1w
