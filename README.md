@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ekrem imamaoğlanın ekşcilere vakit ayıracam demesi
+bkz ekrem imamaoğlanın taşşak oğlanına dönmesi
+bkz ekrem imamaoğlanın ekşcilerle oynayacam demesi
 bkz adam gibi adam çıkan iller
 bkz zeki alasyanın şişirilmiş balon olduğu gerçeği
 bkz kazım koyuncu irem derici arasındaki gerginlik
