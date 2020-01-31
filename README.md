@@ -6,9 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz kumarda damadını ortaya koyan adam
+https://www.youtube.com/watch?v=224nx8msD8k
 https://www.youtube.com/watch?v=kVTNMsVnM-g
-bkz karım olsaydı ilk sana verirdim diyen adam
 bkz damat ferit paşa vs ekrem imamoğlu
 bkz ekrem imamoğlu vs ata cücü
 bkz türklerin yoğurt dışında insanlığa katkıları
