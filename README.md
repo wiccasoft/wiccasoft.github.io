@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=F1O_OXAHYlI fener olalım
 https://www.youtube.com/watch?v=ZEZ09WM0_5U 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen söyle
 bkz travesti blhal korkmazın vodafone kullanması
