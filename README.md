@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ali koçun vedat mürüçü yunaların üstüne salması
 bkz imamoğlanın yunan bayrağını öpüp sirtaki yapması
 bkz travesti numarası var mı sende kankağğ
 https://www.youtube.com/watch?v=4RpMzsA1VOw nerde kalmıştık
