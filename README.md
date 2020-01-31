@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ekrem imamaoğlanın fener maçları varsa  gelirim demesi
 https://www.youtube.com/watch?v=Vu9t8LWFb80 fenerin sergene doşeyeceği boru
 https://www.youtube.com/watch?v=F1O_OXAHYlI fener olalım
 https://www.youtube.com/watch?v=ZEZ09WM0_5U 
