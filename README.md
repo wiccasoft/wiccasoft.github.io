@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=ZEZ09WM0_5U 
+bkz ali koçun volkan demirele 5 maç ceza vermesi
 bkz travesti nilay korkmazın şişirilmiş bir balon olduğu iddası
 https://www.uludagsozluk.com/k/zeynep-ko%C3%A7ak-%C4%B1n-ge%C3%A7irdi%C4%9Fi-evrim/&w=bg
 https://www.uludagsozluk.com/k/lerzan-mutlu-nun-haf%C4%B1zas%C4%B1n%C4%B1-sildirmesi/ 
