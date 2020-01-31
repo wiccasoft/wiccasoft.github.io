@@ -7,6 +7,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz patlak kızların suda çıkardığı ses
 bkz bakire kızı patlatıp tüpçü çağıran erkek
 bkz rte kayacam dese naparsınız
 bkz rte aseksüelim dese naparsınız
