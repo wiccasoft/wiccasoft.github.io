@@ -6,6 +6,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz rte ketoyu affediyorum dese koyunların tepkisi
 bkz jahreine twitchten yürüyen kız
 bkz jahrein in yütüp kanalı açması
 bkz rte ben çok affedeciyimdir demesi
