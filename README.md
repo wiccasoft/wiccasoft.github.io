@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ruhi çenet in kendini spy game deki brad pitt sanması
 bkz ekrem imamaoğluna yemek yaparken arkadan sarılmak 
 bkz ruhi çenetin corona virüsünü yaydığı gerçeği
 bkz ruhi çenetin fetöcü olması
