@@ -6,6 +6,7 @@
 
 <!--
 bkz c++ a karşı olan solcu
+bkz götünde don olmayan kapitalist liberal
 bkz türklerin yoğurt dışında üdnyaya kattıkları
 https://www.youtube.com/watch?v=c7IoBRRBiX8 adamın karekökü
 bkz bilalin tek dünya devleti eş bakan yardımcısı oluyum demesi
