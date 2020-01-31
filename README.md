@@ -6,8 +6,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=4RpMzsA1VOw patlak kızlar hojdır
 bkz rte nin koltuk atılyla patlak kız sesi çıkarması
-bkz rte nin kızımla ilgilenmek istiyorum demesi 
+bkz rte nin kızımla ilgilenmek istiyorum demesi  
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/
 -->
 
