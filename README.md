@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=ZEZ09WM0_5U 
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz ali koçun biraz mal olması
 bkz ali koçun sergen yalçının sicili bozuk demesi
 bkz ali koçun volkan demirele 5 maç ceza vermesi
 bkz travesti nilay korkmazın şişirilmiş bir balon olduğu iddası
