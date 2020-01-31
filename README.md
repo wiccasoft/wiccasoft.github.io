@@ -7,7 +7,6 @@
 <!--
 bkz bak vallah ararın 155 i
 bkz sevdiceğinin yüreciğine eyalet sistemi sokan erkek
-bkz eyalet sistemine geçelim diyen sevdiceği olmayan efendi iyi kalpli erkek
 bkz bilalin abisinin eyalet sistemine geçelim önerisi
 bkz tc neden eyalet bayrakları kullanmıyor sorunsalı
 https://www.uludagsozluk.com/k/%C3%BCmmet%C3%A7iden-ve-solcudan-vatansever-olmaz-olamaz/
