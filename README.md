@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bahçeli nin rte hdp ye meyletmesin diye yanaşması
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-rte-hdp-ye-meyletmesin-diye-yana%C5%9Fmas%C4%B1/&w=bg
 bkz bahçeli nin rte hdp ye meyletmesin diye yanaşması
 bkz suriyeli mültecilerin arapçayı unutması
