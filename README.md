@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kamalcı kişilik bozukluğu
 bkz kamalcıların rte yi allah sanması
 bkz bak vallah ararın 155 i
 bkz rte nin allah olma ihtimali
