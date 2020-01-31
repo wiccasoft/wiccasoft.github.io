@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte ananı amını affettim dee babanın tepkisi
 bkz rte ananı affettim dese babanın tepkisi
 bkz rte fetöyü affediyorun dese koyunların tepkisi
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
