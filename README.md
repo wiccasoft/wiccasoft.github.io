@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz mobile.twtitter linkinin açılmaması
 bkz 31 ocak türk donanmasının yonanları denzie dökmesi
 https://www.uludagsozluk.com/k/31-ocak-2020-t%C3%BCrk-donanmas%C4%B1n%C4%B1n-yunana-m%C3%BCdahalesi/
 bkz rte fenerliyim dese koyunların tepkisi
