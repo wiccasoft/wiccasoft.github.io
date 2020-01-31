@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte ikinci ata cücü olduğuna göre ikinci rte kim olacak sorunsalı
 bkz maduronun mağdurum demesi https://www.youtube.com/watch?v=fsRfN0UfISU
 bkz allah ademle havvayı affettim dese naparsınız
 bkz ekrem imamoğlu maketi yapıp parayı kırmak
