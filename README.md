@@ -8,6 +8,7 @@
 <!--
 bak wallah ararın cineri
 bkz rte hepinizi affettim dese naparsınız
+bkz eşcinseliniz cinselli konuşsa naparsınız
 bkz rte kadınlı erkekli seksi yasaklıyorum dese naparsınız
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg
 https://www.uludagsozluk.com/k/ismail-k%C3%BC%C3%A7%C3%BCkkaya-n%C4%B1n-e%C5%9Fine-verdi%C4%9Fi-tazminat/
