@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=ZEZ09WM0_5U 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan sen söyle
 bkz travesti blhal korkmazın vodafone kullanması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz ali koçun biraz mal olması
 bkz ali koçun sergen yalçının sicili bozuk demesi
