@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BC&w=bg/2/ bkz bana bişi olmaz bünya sağlam benim
 bkz koltuk altıyla patlak kız sesi çıkaran biyolog
 https://www.uludagsozluk.com/k/%C3%A7in-de-250-ki%C5%9Fiyi-%C3%B6ld%C3%BCren-%C3%B6l%C3%BCmc%C3%BCl-vir%C3%BCs/ lol
 https://www.uludagsozluk.com/k/soyad%C4%B1nda-o%C4%9Flu-olanlar%C4%B1n-yahudi-oldu%C4%9Fu-iddias%C4%B1/&w=bg
