@@ -5,7 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz fetönün yeni kalkışma planlaması
+bkz fetö rte yi affediyorum dese koyunları tepksi
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/
 bkz rte fetöyü ifşa etse koyunların tepkisi
 bkz rte nin fetö ifşa ekibini takipten çıkması
