@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kazım koyuncunun müslüm gürsese balon demesi
 bkz müslüm gürsesin şişirilmiş bir azer bülbül olması
 bkz ekrem imamaoğlanın pkklı kazım koyuncuyla olan fotosu
 bkz kazım koyuncunun şair ceketli çocuk olması
