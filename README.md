@@ -7,6 +7,7 @@
 <!--
 bak wallah ararın cineri
 bkz rte yi rte ye şikayet etmek
+bkz rte fetullah güleni affediyorum dese koyunların tepkisi
 bkz steve jobs ın erdo bize maaş veriyo demesi
 https://www.uludagsozluk.com/k/serkan-inci-nas%C4%B1l-milyoner-oldu/ serkan iz my girl
 https://www.youtube.com/watch?v=Fa3v-m3Kll0&list=PLSNulQ9_YhWg4w33JFsRDMPf-Gka5vlbg&index=18
