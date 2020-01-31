@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz nilay korkmazın alper potuka  yürümesi
 bkz alper potukun ne mutlu yunanım diyene demesi
 http://zamaninruhu.blogspot.com/2009/05/yunan-mitolojisi-1-yaradls.html 
 bkz bize her yer olimpos zeus un çocuklarıyız
