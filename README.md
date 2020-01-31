@@ -9,6 +9,7 @@
 bak wallah ararın cineri
 bkz rte hepinizi affettim dese naparsınız
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg
+https://www.uludagsozluk.com/k/ismail-k%C3%BC%C3%A7%C3%BCkkaya-n%C4%B1n-e%C5%9Fine-verdi%C4%9Fi-tazminat/
 https://www.uludagsozluk.com/k/e%C5%9Fcinsellerdeki-i%C4%9Fren%C3%A7lik/ bkz kadınlı erkekli seks varken
 https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
 https://www.uludagsozluk.com/k/kuran-kursunda-%C3%B6%C4%9Frencilere-%C5%9Fut-%C3%A7eken-hoca/&w=gd
