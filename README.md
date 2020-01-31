@@ -5,7 +5,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz buekt aydın üst dudağına silikon yaptırsa koyunların tepkisi
+bkz suriyeli mültecilerin arapçayı unutması
+bkz buket aydın üst dudağına silikon yaptırsa koyunların tepkisi
 bkz buket aydının dudaklara silkon yaptırmmi demesi
 bkz buket aydın 40ın 40 yayınları
 bkz buket aydının arda turana çok yakışıklısın demesi
