@@ -8,9 +8,6 @@
 <!--
 https://www.youtube.com/watch?v=224nx8msD8k
 https://www.youtube.com/watch?v=kVTNMsVnM-g
-bkz damat ferit paşa vs ekrem imamoğlu
-bkz ekrem imamoğlu vs ata cücü
-bkz türklerin yoğurt dışında insanlığa katkıları
 bkz ata cücücülerin globalistleri hala tanıyamaması
 https://www.youtube.com/watch?v=fR9ZLJo6Pc4 ata cücü vs rte
 bkz rte ikinci ata cücü olduğuna göre ikinci rte kim olacak sorunsalı
