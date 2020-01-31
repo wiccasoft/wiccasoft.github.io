@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte fetöyü ifşa etse koyunların tepkisi
 bkz rte nin fetö ifşa ekibini takipten çıkması
 bkz rte fetöyle barıştdım dese koyunların tepkisi
 bkz rte fetöyü ben uydurdum zaten dese koyunların tepkisi
