@@ -6,6 +6,7 @@
 
 <!--
 bkz bak vallah ararın 155 i
+bkz ensar vakfı onursal başkanın eyalet sistemi iyidir yav ne tatava yaparsanız demesi
 bkz sevdiceğinin yüreciğine eyalet sistemi sokan erkek
 bkz bilalin abisinin eyalet sistemine geçelim önerisi
 bkz tc neden eyalet bayrakları kullanmıyor sorunsalı
