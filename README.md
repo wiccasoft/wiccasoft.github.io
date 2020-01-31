@@ -6,6 +6,7 @@
 
 <!--
 bak wallah ararın cineri
+bkz jahrein in yütüp kanalı açması
 bkz rte ben çok affedeciyimdir demesi
 bkz rte fetöyü affediyorum dese koyunların tepkisi
 bkz enes batur reynmeni affediyorum dese koyunların tepkisi
