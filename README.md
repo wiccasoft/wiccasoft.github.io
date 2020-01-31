@@ -6,6 +6,7 @@
 
 <!--
 https://www.youtube.com/watch?v=ZEZ09WM0_5U 
+bkz travesti blhal korkmazın vodafone kullanması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 bkz ali koçun biraz mal olması
 bkz ali koçun sergen yalçının sicili bozuk demesi
 bkz ali koçun volkan demirele 5 maç ceza vermesi
