@@ -6,6 +6,7 @@
 
 <!--
 bkz rte atacücüyü affettim dese koyunların tepkisi
+https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=bg
 bkz kamalcı kişilik bozukluğu
 bkz kamalcıların rte yi allah sanması
 bkz bak vallah ararın 155 i
