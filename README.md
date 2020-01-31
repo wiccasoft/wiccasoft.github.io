@@ -5,6 +5,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte dürüst sempatik iyi kalpli erkek oldum dese koyunları tepkisi
 bkz rte fetöyü retweetlese koyunların tepkisi
 bkz rte nin  fetönün  twitter hesabını takip etmesi
 https://www.uludagsozluk.com/k/d%C3%BCr%C3%BCst-sempatik-efendi-iyi-kalpli-erkek/&w=bg okumadım kankağ
