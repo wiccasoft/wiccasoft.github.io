@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlu kim len aq diyen kız
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular bkz alı b ekiroğ lu kim lan abo çocukmuş lan
 bkz türkler ne zaman insan olur sorunsalı
 bkz ibb bşk danışmanı yardımcısının bekioğlanın amı götü kokuyo demesi
