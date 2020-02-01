@@ -7,6 +7,7 @@
 
 <!--
 bkz sözlüğünüzde olsaydım açacağım başlıklar
+bkz kamalcılarla akboyların güldürmesi
 bkz nonoş akboyların türkiyeyi siklediğimi sanması
 bkz götü tayyip şeklinde atan suratın sanki biraz şey olması
 bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
