@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz loris karius un nereye geldim lan bakışı
 bkz loris karius un bekir oğlana yürümesi
 bkz bekir oğlanı tanımayan yeni nesil gençlik
 bkz bekir oğlan ın kız kardeşinin kız oğlan kızım demesi
