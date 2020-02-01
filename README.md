@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+vkz orhan bencegeyin kasılırken yere düşmesi
 bkz aziz yıldırımın binali yıldırım kayak pistinden kovması
 bkz sahun white in ekrem imamaoğlan a snowboard öğretmesi
 bkz ruhi çenetin enes baturla olan vidyosu
