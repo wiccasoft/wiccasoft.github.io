@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ersun yanalın mevzu alperp otuksa eğitirim demesi
+bkz ersun yanalın mevzu alper tungaysa eğitirim demesi
 bkz bahcelinin rte yanaşıp tayyip şeklinde gülümsemesi
 bkz selocanın muhalefete akıl vermesi
 bkz sözlüğünüzde olsaydım açacağım başlıklar
