@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz 95 doğulualrın biraz mal olması
+bkz 95 doğumluların biraz mal olması
 bkz ibb sekreternin asıl imamoğlanın anasının amı kokuyor demesi
 bkz telefonla amını götünü çekip zırlayan türkler
 bkz pentagonun amınız götünüzü bile bize ait demesi
