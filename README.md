@@ -6,9 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz wiccasoft un aslında loris karius olması
-bkz wiccasoft un aziz yıldırımın eski karısı olması
-bkz wiccasoftun imamaoğlunun sekreteri olması
+bkz gökhan gönül vs goökhan keser
 bkz huawei nin aslı bekiroğlana ifşa için verdiği para
 bkz aslı bekiroğlanın apple kullanması
 bkz aziz yıldırımın türbalıların götü başı kokuyor demesi
