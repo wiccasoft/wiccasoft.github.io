@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz vedat mürüqünün o göte bül bül öte yalarun demesi
 bkz stadyum girişinde domalan iri götlü polis
 bkz karım olsa ilk sanan siktirirdim diyen olgun erkek
 bkz 40 tane skim olsa bekiroğlunun amına sokmam diyen olgun erkek
