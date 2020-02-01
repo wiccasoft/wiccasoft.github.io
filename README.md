@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular bkz bekiroğlan kim lan abo çocukmuş lan
 bkz bekiroğlana büyünce ne olacan sen demek
 bzk bekiroğlanın ilkokul arkadaşlarına rezil olması
