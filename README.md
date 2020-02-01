@@ -8,12 +8,6 @@
 <!--
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
 bkz gözleri imamoğlu şeklinde gülen suratın göt olması
-bkz zazaların kendini türk sanması
-bkz alpaslan türkeşin ne mozayığı lan demesi
-bkz tayyibin benim eşimde arap zaten demesi
-bkz yeşilyoldaki zenciyi arap sanan kamalcı arap karışımı yaratıklar
-bkz yeşilyoldaki arabın zenci olmak istemiyorum demesi
-bkz rte nin ikinci ata cücü vakası olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
 https://www.uludagsozluk.com/k/okullarda-cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-hayat%C4%B1-%C3%B6%C4%9Fretilsin/
