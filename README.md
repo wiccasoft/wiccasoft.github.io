@@ -7,6 +7,7 @@
 
 <!--
 bkz zazaların kendini türk sanması
+bkz alpaslan türkeşin ne mozayığı lan demesi
 bkz tayyibin benim eşimde arap zaten demesi
 bkz yeşilyoldaki zenciyi arap sanan kamalcı arap karışımı yaratıklar
 bkz yeşilyoldaki arabın zenci olmak istemiyorum demesi
