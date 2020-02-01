@@ -8,9 +8,6 @@
 <!--
 bkz ersun yanalın yarramın büyüklüğünü anlatması
 bkz götü tayyip şeklinde atan suratın pentagon muhalefeti bıraksın demesi
-bkz ali koçun şenolu ilk 11e alması
-bkz ali koçun pentagonun soyunma odasına girmesi
-bkz pentagonun götü tayyip şeklinde atan surata sem me ayaksın lan demesi
 bkz orhan bencegayin bıyıklarını götü tayyip şeklinde atan suratın götüne sürtmesi
 bkz orhan bencegayin götü tayyip şeklinde atan suratla sevişmesi
 bkz götü tayyip şeklinde atan suratın sözlüğe vedası
