@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+aref ghafouri nin aslı fenerbahçeli değil demesi
 https://www.youtube.com/watch?v=FRjI-Ea6wcU 
 bkz aslı bekiroğlunun asıl mevzu fenerse aslolan fenerbahçedir demesi
 bkz aslı bekiroğlunun büyük projeyim demesi
