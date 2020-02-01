@@ -17,16 +17,9 @@ bkz anası parklarda sevişen akboyların pek bi alıngan olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 bkz kerimcan durmazın ablan geyseli bebeğim demesi
 bkz götü tayyip şeklinde atan suratın pentagonu tayyipe şikayet etmesi
-bkz götü tayyip şeklinde atan suratın pentagonu jandarmaya bildirmesi
-bkz götü tayyip şeklinde atan suratın beni tayyipe bağlı sanması
-bkz götü tayyip şeklinde atan surata tayyibinin kuklam olduğunu anlatmak
-bkz götü tayyip şeklinde atan suratın hoff tayyibimi üzme demesi
 bkz ibb sekreterinin tayyibin götü kokuyor demesi
 bkz ersun yanalın yarramın büyüklüğünü anlatması
 bkz götü tayyip şeklinde atan suratın güldürmesi
-bkz götü tayyip şeklinde atan suratın pentagon muhalefeti bıraksın demesi
-bkz orhan bencegayin bıyıklarını götü tayyip şeklinde atan suratın götüne sürtmesi
-bkz orhan bencegayin götü tayyip şeklinde atan suratla sevişmesi
 bkz götü tayyip şeklinde atan suratın sözlüğe vedası
 bkz selonun ibb sekreterine akıl vermesi
 bkz ibb nin paylaştığı parkta sevişen türbanlılar vidyosu
