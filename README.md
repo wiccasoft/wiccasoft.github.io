@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz 
+bkz bekiroğlu proje diyen aktroller
+bkz bekiroğluna artık proje gelmeyeceği gerçeği
 bkz çavuşoğlanın bekiroğluna iş bilmez bekir demesi
 bkz bakiroğlunun bakiri demesi
 bkz barış mançonun viagra alıp bekiroğlan ifşasına asılacam demesi
