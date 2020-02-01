@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bzk bekiroğlanın ilkokul arkadaşlarına rezil olması
 bkz bekiroğlanın babası bekirin kızını dövmeyen dizini döver demesi
 bkz imamoğlanın bekiroğlana kayması
 bkz imamoğlanın babasının oğlum kaymayacak mı demesi
