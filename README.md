@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.youtube.com/watch?v=RDxn3OuKO8w kan davası
+https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
 bkz ibb sekreterinin parklarda sevişen türbanlı annlerinizde bacımız demesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz barış mançonun viagra alıp bekiroğlanın göte asılması
