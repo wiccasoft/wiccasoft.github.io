@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz götü tayyip şeklinde ata suratın beni tayyip bağlı sanması
+bkz götü tayyip şeklinde atan suratın beni tayyipe bağlı sanması
 bkz götü tayyip şeklinde atan surata tayyibinin kuklam olduğunu anlatmak
 bkz götü tayyip şeklinde atan suratın hoff tayyibimi üzme demesi
 bkz ibb sekreterinin tayyibin götü kokuyor demesi
