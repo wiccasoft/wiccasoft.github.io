@@ -9,6 +9,7 @@
 https://www.youtube.com/watch?v=Hfye5B91HB4
 bkz selocanın huawei'ye yazdığı işletim sistemi
 bkz selocanın huawei'ye akıl vermesi
+https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/&w=gd
 bkz soyadında oğlu olanlar yahudiyse türkiyenin yarısı yahudi mi sorunsalı
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
