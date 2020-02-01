@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yeşilyoldaki arabın zenci olmak istemiyorum demesi
 bkz rte nin ikinci ata cücü vakası olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
