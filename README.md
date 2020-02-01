@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz fakirlerin ve köylülerin istanbulda yaşama ısrarı
+https://www.youtube.com/watch?v=RDxn3OuKO8w kan davası
 bkz ibb sekreterinin parklarda sevişen türbanlı annlerinizde bacımız demesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz barış mançonun viagra alıp bekiroğlanın göte asılması
