@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ibb bşk danışmanı yardımcısının bekioğlanın amı götü kokuyo demesi
 bkz bekiroğlanaın telefonu hacklemişler aq apple ın açığı demesi
 bkz imamoğlanın başörtülüler kokuyor demesi
 bkz window95 vd 95 li nesil
