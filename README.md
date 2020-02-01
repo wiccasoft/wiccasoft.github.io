@@ -19,18 +19,6 @@ bkz anası parklarda sevişen akboyların pek bi alıngan olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 bkz kerimcan durmazın ablan geyseli bebeğim demesi
 bkz götü tayyip şeklinde atan suratın pentagonu tayyipe şikayet etmesi
-bkz ibb sekreterinin tayyibin götü kokuyor demesi
-bkz ersun yanalın yarramın büyüklüğünü anlatması
-bkz götü tayyip şeklinde atan suratın güldürmesi
-bkz götü tayyip şeklinde atan suratın sözlüğe vedası
-bkz selonun ibb sekreterine akıl vermesi
-bkz ibb nin paylaştığı parkta sevişen türbanlılar vidyosu
-bkz ibb sekreteri danışman yardımcısının imamoğlununu anasının amına koyayım demesi 
-bkz ibb sekreterinni imamaoğlanın anasının amına koyayım ban bişey olmasın demesi
-bkz ibb nin sekreterinin imamaoğlanın anasının amı kokar demesi
-https://www.youtube.com/watch?v=OKApmrgpA_U zuahahahahahhaha
-bkz ruhi çenet spy game deki adam benzerliği
-https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-giydi%C4%9Fi-ilgin%C3%A7-elbise/ 
 -->
 
