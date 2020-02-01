@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ekrem memikoğlan vs memik beberoğlan
 bkz mansur imamaoğlu vs ekrem yavaşoğlu
 bkz aslı beberoğlu vs banu bekiroğlu
 https://www.youtube.com/watch?v=emOMsftk92U 
