@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamaoğlanın babasının oğlum kaymayacak mı demesi
 bkz imamaoğlanın oğlum ben buraya beş gömlek fazlayım demesi
 bkz bekiroğlanın babasının imamaoğlanın babasını arayıp sen karışma demesi
 bkz imamoğlanın aslın bekiroğlanı oğlu soydalı diye savunması
