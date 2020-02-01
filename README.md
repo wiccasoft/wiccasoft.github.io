@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.youtube.com/watch?v=Qv5fqunQ_4I bkz türklerin sürekli bana devlet görevi yüklemesi
+https://www.youtube.com/watch?v=Qv5fqunQ_4I bkz türklerin sürekli bana devlet memuru görevi yüklemesi
 bkz türklerin beni oğlu soyadlı kara kafalı biri sanması olm ben sizin köye bağlı değilim lan
 https://eksisozluk.com/batinin-turklerden-nefret-etme-nedenleri--6346905?a=popular allah allah neden acaba
 https://eksisozluk.com/imamoglunun-turkiyeye-1-numara-buyuk-olmasi--6346411?a=popular seneye de giyersiniz be olm
