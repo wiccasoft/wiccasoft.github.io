@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-blkz pentagon tayyibini siklemiyo diye zırlayan akboylar
+bkz pentagon tayyibi siklemiyo diye zırlayan akboylar
 bkz pentagonun tayyipi siklemediği gerçeği
 bkz pentagonu ibb sekreteri sanan akboyların güldürmesi
 bkz pentagonun ibb sekreterini savunması
