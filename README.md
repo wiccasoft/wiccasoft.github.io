@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz murat övüç'ün giydiği ilginç elbise
 bkz ruhi çenet spy game deki adam benzerliği
 https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-giydi%C4%9Fi-ilgin%C3%A7-elbise/ 
