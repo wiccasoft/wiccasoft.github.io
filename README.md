@@ -7,7 +7,8 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-https://eksisozluk.com/asli-bekiroglu--4004880?a=popular bkz bekiroğlan kim lan abo çocukmuş lan
+bkz bekiroğlan kim lan abo çocukmuş lan
+https://eksisozluk.com/asli-bekiroglu--4004880?a=popular 
 bkz imamoğlanın bekiroğlana kayması
 bkz imamoğlanın babasının oğlum kaymayacak mı demesi
 bkz imamoğlanın oğlum ben buraya beş gömlek fazlayım demesi
