@@ -8,13 +8,9 @@
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular bkz bekiroğlan kim lan abo çocukmuş lan
-bkz bekiroğlana büyünce ne olacan sen demek
-bzk bekiroğlanın ilkokul arkadaşlarına rezil olması
-bkz bekiroğlanın babası bekirin kızını dövmeyen dizini döver demesi
 bkz imamoğlanın bekiroğlana kayması
 bkz imamoğlanın babasının oğlum kaymayacak mı demesi
 bkz imamoğlanın oğlum ben buraya beş gömlek fazlayım demesi
-bkz imamoğlanın babasının bekiroğlanın babasını arayıp oğlan yapmış bi eşeklik demesi
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
