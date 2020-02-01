@@ -6,13 +6,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz imamaoğlanın bekiroğlana kayması
-bkz imamaoğlanın babasının oğlum kaymayacak mı demesi
-bkz imamaoğlanın oğlum ben buraya beş gömlek fazlayım demesi
-bkz bekiroğlanın babasının imamaoğlanın babasını arayıp sen karışma demesi
-bkz imamoğlanın aslın bekiroğlanı oğlu soydalı diye savunması
-bkz aslıbekiroğlanın erkek çocuğu gibi bişey olması
-bkz hatipoğlanın aslıbekiroğlanı arayıp kim kaydı kızım sana diye sorması
+bkz imamoğlanın bekiroğlana kayması
+bkz imamoğlanın babasının oğlum kaymayacak mı demesi
+bkz imamoğlanın oğlum ben buraya beş gömlek fazlayım demesi
+bkz imamoğlanın babasının bekiroğlanın babasını arayıp oğlan yapmış bi eşeklik demesi
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
