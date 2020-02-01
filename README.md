@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu-na-art%C4%B1k-proje-gelmeyece%C4%9Fi-ger%C3%A7e%C4%9Fi/
 bkz bekiroğlunun projeler açığım açıklaması
 bkz imamaoğluna proje diyenlerin bekiroğluna da proje demesi
 bkz bekiroğlunun proje olduğu iddaları
