@@ -22,7 +22,6 @@ https://www.youtube.com/watch?v=lLaFtI_aJv0
 bkz rte ezanları ben okuyacam dese naparsınız
 https://www.youtube.com/watch?v=EfAsNffCjsM 
 bkz rte ademle havvayı affettim dese naparsınız
-https://www.uludagsozluk.com/e/42788274/ lol
 https://www.youtube.com/watch?v=NLmjKXYYRso  bu adam ne içiyo ya
 https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz imamoğlunun mao zedonga yoldaşım demesi
 https://www.uludagsozluk.com/e/42787897/ bkz imamoğlu
