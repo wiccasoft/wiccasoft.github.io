@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı beberoğlu vs banu bekiroğlu
 https://www.youtube.com/watch?v=emOMsftk92U 
 bkz hayrettinin beberoğlu olayını şakınlıkla izlemesi
 bkz banu berberoğlu'nun chp'li olduğu zamanlar
