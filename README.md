@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kerimcan durmazın ablan geyseli bebeğim demesi
 bkz anası parklarda sevişen akboyların pek bi alıngan olması
 bkz götü tayyip şeklinde atan suratın pentagonu tayyipe şikayet etmesi
 bkz götü tayyip şeklinde atan suratın pentagonu jandarmaya bildirmesi
