@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz vedat mürüçün fenerin amk ben ferrarime bakarım demesi
 bkz ibb sekreterinin imamaoğlunun amk bana bişey olmasın demesi
 bkz uğurcan çakırın ananızıın amına korum bakışı
 bkz ibb danışman yardımcısının imamaoğlu kaymasın mı demesi
