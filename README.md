@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz bedat mürüçünün aslı bekiroğlanın askerlik arkadaşı çıkması
 bkz tayyipin ibb sekreterinin amı kokuyo asıl demesi
 bkz tayyibin muhalefete boru gibi saplaması
 bkz selocanın fenere akıl vermesi
