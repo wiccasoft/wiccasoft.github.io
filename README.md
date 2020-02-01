@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz ibb sekreterinin imamaoğlan ifşası sonrası istifa etmemesi
+bkz ibb sekreterinin imamoğla ifşasını yayması
+bkz ibb sekreterinin imamoğlan ifşası sonrası istifa etmemesi
 bkz tayyipoğlanın beberoğlanın ifşasından sonra onun amı kokar demesi
 bkz ibb sekreteri yardımcı danışmanının asıl imamoğlanın anasını amı kokuyor demesi
 bkz bahceçilinin selocan huaweye akıl vermessin diye recepoğlana yanaşması
