@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ibb sekreter danışman yardımcısının  tayyibin götü kokuyor demesi
+bkz ibb sekreterinin tayyibin götü kokuyor demesi
 bkz ersun yanalın yarramın büyüklüğünü anlatması
 bkz götü tayyip şeklinde atan suratın güldürmesi
 bkz götü tayyip şeklinde atan suratın pentagon muhalefeti bıraksın demesi
