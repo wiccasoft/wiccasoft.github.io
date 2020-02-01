@@ -8,6 +8,8 @@
 <!-- 
 bkz selocanın ibb sekreterine akıl vermesi
 bkz 95 doğumluların biraz mal olması
+bkz türklerin iğrenç yaratıklar olması
+https://www.uludagsozluk.com/k/savc%C4%B1n%C4%B1n-bir-kezonun-kukusuyla-u%C4%9Fra%C5%9Faca%C4%9F%C4%B1n%C4%B1-sanmak/
 bkz ibb sekreternin asıl imamoğlanın anasının amı kokuyor demesi
 bkz telefonla amını götünü çekip zırlayan türkler
 bkz pentagonun amınız götünüzü bile bize ait demesi
