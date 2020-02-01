@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz bahceçilinin selocan huaweye akıl vermessin diye recepoğlana yanaşması
 bkz selonun huawei ye akıl vermsi
 bkz türkler ne zaman insan olur sorunsalı
 bkz koca ülkenin 95 doğumlu veledin ifşasını konuşması
