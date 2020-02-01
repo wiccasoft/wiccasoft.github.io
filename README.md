@@ -7,6 +7,7 @@
 
 <!--
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
+bkz barış mançonun viagra alıp bekiroğlanın göte asılması
 bkz gözleri imamoğlu şeklinde gülen suratın göt olması
 bkz zazaların kendini türk sanması
 bkz alpaslan türkeşin ne mozayığı lan demesi
