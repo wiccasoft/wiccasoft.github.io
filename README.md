@@ -7,6 +7,7 @@
 
 <!--
 bkz aklgbtnin gülsürmesi
+bkz ruhi çenet spy gamedeki adam benzerliği
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 bkz kerimcan durmazın ablan geyseli bebeğim demesi
 bkz anası parklarda sevişen akboyların pek bi alıngan olması
