@@ -7,10 +7,7 @@
 
 <!--
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
-bkz gözleri imamoğlu şeklinde gülen suratın göt olması
-bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
-https://www.uludagsozluk.com/k/okullarda-cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-hayat%C4%B1-%C3%B6%C4%9Fretilsin/
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır
 bkz sözlüğünüzde olsaydım açacağım başlıklar
 bkz nonoş akboyların türkiyeyi siklediğimi sanması
