@@ -5,26 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-bkz selocanın huawei'ye akıl vermesi
-https://www.youtube.com/watch?v=Hfye5B91HB4
-https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/&w=gd
-bkz soyadında oğlu olanlar yahudiyse türkiyenin yarısı yahudi mi sorunsalı
-https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
-https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır
-bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
-bkz ruhi çenetin esrarcengiz vidyolarının testeredeki adama benzemesi asdsadsad
-bkz imamoğlunun babasının noldu olan kaydıysa size mi kaydı demesi
-bkz orhan bencegay in kasılırken yere düşmesi
-bkz aziz yıldırımın binali yıldırım kayak pistinden kovması
-bkz ruhi çenet spy game deki adam benzerliği
-bkz anası parklarda sevişen akboyların pek bi alıngan olması
-bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
-bkz kerimcan durmazın ablan geyseli bebeğim demesi
-bkz götü tayyip şeklinde atan suratın pentagonu tayyipe şikayet etmesi
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-giydi%C4%9Fi-ilgin%C3%A7-elbise/ 
--->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
