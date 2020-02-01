@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekir bozdağın iğrençsiniz ibneler demesi
 bkz bekiroğlunun vedat mürqüye sapık demesi
 bkz vedat mürüqünün bekiroğlu amı tam bana göre demesi
 bkz vedat mürüqünün o göte bül bül öte yalarun demesi
