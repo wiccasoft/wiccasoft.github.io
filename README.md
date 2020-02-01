@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz avrupa birliği başkanınız ingilzicesi vs imamaoğlunuz ingilizcesi
 https://eksisozluk.com/imamoglunun-turkiyeye-1-numara-buyuk-olmasi--6346411?a=popular seneye de giyersiniz be olm
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular aslı bekiroğlu kim lan abo çocukmuş lan
 https://eksisozluk.com/avrupa-birligi-baskanimizin-muhtesem-ingilizcesi--6347203?a=popular faruk abi ne içiyon abi
