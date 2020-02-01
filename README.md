@@ -5,7 +5,10 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- bkzdevlet bahçelinin rte ye yanaşması -->
+<!-- 
+bkz selonun ibb sekreterine akıl vermesi
+https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-muhalefete-ak%C4%B1l-vermesi/
+bkz devlet bahçelinin rte ye yanaşması -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
