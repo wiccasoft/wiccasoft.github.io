@@ -7,7 +7,6 @@
 
 <!--
 bkz ibb nin parklarda sevişen türbanlı vidyosu paylaşması
-bkz ibb nin işten attığı akpli çöpçülerin beberoğlu ifşasını yayması
 bkz selonun imamoğlunun sekreterine akıl vermesi
 bkz imamaoğlanın babasının ne var yani olan kaymasın mı demesi
 bkz aslı bekiroğalnın stop make my pussy famous demesi
