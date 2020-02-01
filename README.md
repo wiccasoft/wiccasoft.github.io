@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz baba aslı bekir ogli dava açmiş
+https://www.uludagsozluk.com/k/babaaa-asl%C4%B1-bekiro%C4%9Flu-bize-dava-a%C3%A7m%C4%B1%C4%B1%C4%B1%C5%9F/
 bkz bekiroğlunun projelere açığım açıklaması
 https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu-na-art%C4%B1k-proje-gelmeyece%C4%9Fi-ger%C3%A7e%C4%9Fi/
 bkz imamaoğluna proje diyenlerin bekiroğluna da proje demesi
