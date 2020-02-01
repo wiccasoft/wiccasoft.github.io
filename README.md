@@ -12,7 +12,7 @@ bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak
 bkz ruhi çenetin esrarcengiz vidyolarının testeredeki adama benzemesi asdsadsad
 bkz imamoğlunun babasının noldu olan kaydıysa size mi kaydı demesi
 bkz orhan bencegay in kasılırken yere düşmesi
-bkz aziz yıldırımın binali yıldırım kayak pistinden kovması
+bkz aziz yıldırımın binali yıldırımı kayak pistinden kovması
 bkz ruhi çenet spy game deki adam benzerliği
 bkz anası parklarda sevişen akboyların pek bi alıngan olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
