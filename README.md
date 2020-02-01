@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz masur yavaşın ın sekreterinni asıl imamaoğlu anasının amına baksın demesi
 bkz ibb sekreteri yardımcı danışmanının asıl imamoğlanın anasını amı kokuyor demesi
 bkz bahceçilinin selocan huaweye akıl vermessin diye recepoğlana yanaşması
 bkz selonun huawei ye akıl vermsi
