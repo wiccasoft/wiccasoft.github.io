@@ -7,7 +7,7 @@
 
 <!--
 bkz olm ben sizin köye bağlı değile
-bkz türklerin beni kendileri gibi kara kafalı biri sanması
+bkz türklerin beni kendileri gibi kara kafalı oğlu soyadlı biri sanması
 bkz barış mançonun viagra alıp bekiroğluna asılması
 bkz gözleri imamoğlu şeklinde gülen suratın göt olması
 bkz zazaların kendini türk sanması
