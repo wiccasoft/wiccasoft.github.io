@@ -5,7 +5,11 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--bkz imamoğlunun aslın bekiroğlunu oğlu soydalı diye savunması-->
+<!--
+bkz imamoğlanın aslın bekiroğlanı oğlu soydalı diye savunması
+bkz aslıbekiroğlanın erkek çocuğu gibi bişey olması
+bkz hatipoğlanın aslıbekiroğlanı arayıp kim kaydı kızım sana diye sorması
+-->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
