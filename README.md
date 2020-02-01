@@ -6,8 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz rte ikinci ata cücü vakası olması
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahhahaha
+bkz rte nin ikinci ata cücü vakası olması
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
 https://www.uludagsozluk.com/k/okullarda-cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-hayat%C4%B1-%C3%B6%C4%9Fretilsin/
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır
 bkz sözlüğünüzde olsaydım açacağım başlıklar
