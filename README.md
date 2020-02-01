@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 40 tane skim olsa bekiroğlunun amına sokmam diyen olgun erkek
 bkz bakir erkekler am arıyor kanalında bekiroğlunun amının dolaşması
 bkz stadyum girişinde türbanlıyla sevişen polis
 bkz türbanlı anneyi parklarda sevişirken yakalamak
