@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz orhan bencegayin götü tayyip şeklinde atan suratla sevişmesi
 bkz götü tayyip şeklinde atan suratın sözlüğe vedası
 bkz selonun ibb sekreterine akıl vermesi
 bkz ibb nin paylaştığı parkta sevişen türbanlılar vidyosu
