@@ -11,7 +11,7 @@ bkz türklerin beni oğlu soyadlı kara kafalı biri sanması olm ben sizin köy
 https://eksisozluk.com/batinin-turklerden-nefret-etme-nedenleri--6346905?a=popular allah allah neden acaba
 https://eksisozluk.com/imamoglunun-turkiyeye-1-numara-buyuk-olmasi--6346411?a=popular seneye de giyersiniz be olm
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular aslı bekiroğlu kim lan abo çocukmuş lan
-https://eksisozluk.com/avrupa-birligi-baskanimizin-muhtesem-ingilizcesi--6347203?a=popular faruk abi ne içiyon abi
+https://eksisozluk.com/avrupa-birligi-baskanimizin-muhtesem-ingilizcesi--6347203?a=popular bkz logar abi ne içiyon abi
 bkz rte ata cücüyü bağışlıyorum dese naparsınız
 bkz rte pkkyı affettim dese nabarsınız
 bkz türklerin devlet adamlarına allah gibi davranması
