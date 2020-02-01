@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz barış mançonun viagra alıp bekiroğlan ifşasına asılacam demesi
 https://www.youtube.com/watch?v=OKApmrgpA_U
 bkz ibb sekreterininn iğrençsiniz ibneler demesi
 bkz şükrüsaçaoğlunda ifşa atan polis
