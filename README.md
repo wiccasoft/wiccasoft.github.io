@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz gözleri imamoğlu şeklinde gülen suratın göt olması
 bkz zazaların kendini türk sanması
 bkz alpaslan türkeşin ne mozayığı lan demesi
 bkz tayyibin benim eşimde arap zaten demesi
