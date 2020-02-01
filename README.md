@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz tolga ciğercininbekiroğlunun  ciğer gibi amı varmış demesi
+bkz serkan inci nin yağlı saçları vs zallın kıllı götü
+bkz tolga ciğercinin bekiroğlunun  ciğer gibi amı varmış demesi
 bkz bekiroğlu marka oldu diye kuduran ergenler
 bkz bekiroğlu nun marka olması
 bkz bekiroğlunun stop my pussy famous demesi
