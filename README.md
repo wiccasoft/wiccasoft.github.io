@@ -7,9 +7,9 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42787897/ bkz imamoğlu
+bkz e.imamoğlunun çin bayrağını öpüp sirtaki yapması
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-%C3%A7in-de-tutukland%C4%B1/2/
 bkz ruhi çenet spy game deki adam benzerliği
-bkz e.imamoğlunun yunan bayrağını öpüp sirtaki yapmasına ses etmeyen kamalcılar
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
