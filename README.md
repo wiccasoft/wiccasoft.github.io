@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ibb sekreterinni fenerlilerin amk demesi
 bkz uğurcan çakırın ananızıın amına korum bakışı
 bkz ibb danışman yardımcısının imamaoğlu kaymasın mı demesi
 bkz ibb sekreterinin bunların amı götü kokar demesi
