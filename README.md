@@ -6,8 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz memeikoğlunun çavuşoğluna sen bewkiroğlanın ifşalara bak demesi
-bkz çavuşoğlanın bekaroğluna iş bilmez çavuşlar demesi
+bkz 
+bkz çavuşoğlanın bekiroğluna iş bilmez bekir demesi
 bkz bakiroğlunun bakiri demesi
 bkz barış mançonun viagra alıp bekiroğlan ifşasına asılacam demesi
 https://www.youtube.com/watch?v=OKApmrgpA_U
