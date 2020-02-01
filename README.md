@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz bekiroğlanın babası bekirin rezil olması
+bkz bekiroğlanın babası bekirin kzını dövmeyen dizini döver demesi
 bkz imamoğlanın bekiroğlana kayması
 bkz imamoğlanın babasının oğlum kaymayacak mı demesi
 bkz imamoğlanın oğlum ben buraya beş gömlek fazlayım demesi
