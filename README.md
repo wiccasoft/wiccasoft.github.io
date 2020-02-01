@@ -6,7 +6,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz enis berberoğlu'nun chp'li olduğu zamanlar
+https://www.youtube.com/watch?v=emOMsftk92U 
+bkz hayrettinin beberoğlu olayını şakınlıkla izlemesi
+bkz banu berberoğlu'nun chp'li olduğu zamanlar
 bkz bekiroğlu vs imamaoğlu vs çavuşoğlu
 bkz imamoğlanın bekiroğlan kim aq beni konuşun az demesi
 bkz 1 şubat 2020 aslı bekiroğlan kim aq
