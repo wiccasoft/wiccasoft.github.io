@@ -6,9 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.youtube.com/watch?v=Hfye5B91HB4
-bkz selocanın huawei'ye yazdığı işletim sistemi
 bkz selocanın huawei'ye akıl vermesi
+https://www.youtube.com/watch?v=Hfye5B91HB4
 https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/&w=gd
 bkz soyadında oğlu olanlar yahudiyse türkiyenin yarısı yahudi mi sorunsalı
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
