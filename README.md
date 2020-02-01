@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz tayyibin benim eşimde arap zaten demesi
 bkz yeşilyoldaki zenciyi arap sanan türkler
 bkz yeşilyoldaki arabın zenci olmak istemiyorum demesi
 bkz rte nin ikinci ata cücü vakası olması
