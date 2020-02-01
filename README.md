@@ -8,6 +8,14 @@
 <!-- 
 https://www.youtube.com/watch?v=XHSq7slClpE ibb genel sekreteri 
 https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar 
+bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
+bkz ruhi çenetin esrarcengiz vidyolarının testeredeki adama benzemesi asdsadsad
+bkz imamoğlunun babasının noldu olan kaydıysa size mi kaydı demesi
+bkz orhan bencegay in kasılırken yere düşmesi
+bkz aziz yıldırımın binali yıldırım kayak pistinden kovması
+bkz ruhi çenet spy game deki adam benzerliği
+bkz anası parklarda sevişen akboyların pek bi alıngan olması
+bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
