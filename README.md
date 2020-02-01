@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz selocanın fenere akıl vermesi
 bkz ali koçun  vedat müriqiyi salması
 bkz selonun ibb sekreterine akıl vermesi
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F-%C4%B1n-muhalefete-ak%C4%B1l-vermesi/
