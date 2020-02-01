@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz koca ülkenin 95 doğumlu veledin ifşasını konuşması
+https://www.uludagsozluk.com/k/koca-%C3%BClkenin-g%C3%B6rd%C3%BC%C4%9F%C3%BC-if%C5%9Fay%C4%B1-g%C3%B6rememek/
 bkz türkler ne zaman insan olur sorunsalı
 bkz vedat mürükünün dil çıkarıp üçlü çektirecem demesi
 bkz imamaoğlan vs bekiroğlan vs beberoğlan
