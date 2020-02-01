@@ -5,32 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-https://www.youtube.com/watch?v=J1Yv24cM2os brexit
-https://www.youtube.com/watch?v=Qv5fqunQ_4I wasn t me canım
-bkz türklerin beni oğlu soyadlı kara kafalı biri sanması olm ben sizin köye bağlı değilim lan
-https://eksisozluk.com/batinin-turklerden-nefret-etme-nedenleri--6346905?a=popular allah allah neden acaba
-https://eksisozluk.com/imamoglunun-turkiyeye-1-numara-buyuk-olmasi--6346411?a=popular seneye de giyersiniz be olm
-https://eksisozluk.com/asli-bekiroglu--4004880?a=popular aslı bekiroğlu kim lan abo çocukmuş lan
-https://eksisozluk.com/avrupa-birligi-baskanimizin-muhtesem-ingilizcesi--6347203?a=popular bkz logar abi ne içiyon abi
-bkz rte ata cücüyü bağışlıyorum dese naparsınız
-bkz rte pkkyı affettim dese nabarsınız
-bkz türklerin devlet adamlarına allah gibi davranması
-https://www.uludagsozluk.com/k/rte-fetoyu-affediyorum-dese-akkoyunlar%C4%B1n-tepkisi/&w=gd
-https://eksisozluk.com/avrupa-birligi-baskanimizin-muhtesem-ingilizcesi--6347203?a=popular zuahhahaha ne birliği
-https://www.youtube.com/watch?v=jVEKDcDEN1w
-bkz rte seksi yasaklasa naparsınız
-https://www.youtube.com/watch?v=lLaFtI_aJv0
-bkz rte ezanları ben okuyacam dese naparsınız
-https://www.youtube.com/watch?v=EfAsNffCjsM 
-bkz rte ademle havvayı affettim dese naparsınız
-https://www.youtube.com/watch?v=NLmjKXYYRso  bu adam ne içiyo ya
-https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz imamoğlunun mao zedonga yoldaşım demesi
-https://www.uludagsozluk.com/e/42787897/ bkz imamoğlu
-bkz e.imamoğlunun çin bayrağını öpüp sirtaki yapması
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-%C3%A7in-de-tutukland%C4%B1/2/
-bkz ruhi çenet spy game deki adam benzerliği
--->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
