@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamaoğlanın oğlum ben buraya beş gmlek fazlayım la demesi
 bkz bekiroğlanın babasının imamaoğlanın babasını arayıp sen karışma demesi
 bkz imamoğlanın aslın bekiroğlanı oğlu soydalı diye savunması
 bkz aslıbekiroğlanın erkek çocuğu gibi bişey olması
