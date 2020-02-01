@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz götü tayyip şeklinde atan suratın pentagon muhalefeti bıraksın demesi
 bkz ali koçun şenolu ilk 11e alması
 bkz ali koçun pentagonun soyunma odasına girmesi
 bkz pentagonun götü tayyip şeklinde atan surata sem me ayaksın lan demesi
