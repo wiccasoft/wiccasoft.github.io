@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bakiroğlunun pr kasması
 bkz fenerbahçenin aslı bekiroğluna sponsor olması
 bkz baba aslı bekir ogli dava açmiş
 https://www.uludagsozluk.com/k/babaaa-asl%C4%B1-bekiro%C4%9Flu-bize-dava-a%C3%A7m%C4%B1%C4%B1%C4%B1%C5%9F/
