@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz beberoğlu ifşası link var mı kankaaaaaaağ
 bkz türklerin yoğurt dışında dünyaya kattıkları
 bkz selocanın ibb sekreterine akıl vermesi
 bkz 95 doğumluların biraz mal olması
