@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz cengiz ünderin bekiroğlana yürümesi
 bkz emre morun bekiroğlan nın memintolar tombiktoymuş demesi
 bkz arda turanın bekiroğlana yürümesi
 bkz loris karius un nereye geldim lan bakışı
