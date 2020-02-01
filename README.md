@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 1 şubat 2020 bekiroğlanın ünlü olması
+bkz 1 şubat 2020 bekiroğlan fappening
 bkz bekiroğlana hollywood tan teklif gelmesi
 bkz ekrem imamaoğlunun babasının olum kaymış ne var yani demesi
 bkz ekrem imamaoğlun un len amq diyen kızı
