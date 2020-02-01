@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlunun dans edememesi
+https://www.uludagsozluk.com/k/asl%C4%B1-n%C4%B1n-dans-edememesi/
 bkz aslı bekiroğlunun hollywood tekliflerine açığım demesi
 bkz ersun yanalın mevzıu fenerse gerisi teferruattır demesi
 bkz ata cücünün fenerli olması
