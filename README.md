@@ -5,59 +5,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-bkz ibb sekreterinin fenerliler oç demesi
-bkz gökhan gönülün doksana çaktığı boru gibi gol
-bkz huawei nin aslı bekiroğlana ifşa için verdiği para
-bkz aslı bekiroğlanın apple kullanması
-bkz aziz yıldırımın türbalıların götü başı kokuyor demesi
-bkz aziz yıldırım vs binali yıldırım
-bkz ibb sekreterinin asıl imamoğlanın anasının amı kouyor demesi
-https://www.youtube.com/watch?v=ZKaXuolbKJU 
-haseki başkanın sekreterininin asıl açık lar kokuyo demesi
-bkz binali yıldırım vs aziz yıldırım
-bkz ibb sekreterinin imamoğlucular kokuyor demesi
-bkz aslı bekiroğlan vs bekir bozdağ
-bkz aslı bekiroğlan vs ekrem imamoğlan
-bkz ekrem memikoğlan vs memik beberoğlan
-bkz mansur imamaoğlu vs ekrem yavaşoğlu
-bkz aslı beberoğlu vs banu bekiroğlu
-https://www.youtube.com/watch?v=emOMsftk92U 
-bkz hayrettinin beberoğlu olayını şakınlıkla izlemesi
-bkz banu berberoğlu'nun chp'li olduğu zamanlar
-bkz bekiroğlu vs imamaoğlu vs çavuşoğlu
-bkz imamoğlanın bekiroğlan kim aq beni konuşun az demesi
-bkz 1 şubat 2020 aslı bekiroğlan kim aq
-bkz 1 şubat 2020 bekiroğlan fappening olayları
-bkz bekiroğlana hollywood tan teklif gelmesi
-bkz ekrem imamaoğlunun babasının olum kaymış ne var yani demesi
-bkz ekrem imamaoğlun un len amq diyen kızı
-bkz ekrem imamaoğlanın shaun white kim aq demesi
-bkz ekrem imamoğlan vs shaun white
-bkz aslı bekiroğlunun babasının kızışkom yapmış sikiş ne abartıyosunuz demesi
-bkz aslı bekiroğlu kim len aq diyen kız
-https://eksisozluk.com/asli-bekiroglu--4004880?a=popular bkz alı b ekiroğ lu kim lan abo çocukmuş lan
-bkz türkler ne zaman insan olur sorunsalı
-bkz ibb bşk danışmanı yardımcısının bekioğlanın amı götü kokuyo demesi
-bkz bekiroğlanaın telefonu hacklemişler aq apple ın açığı demesi
-bkz imamoğlanın başörtülüler kokuyor demesi
-bkz window95 vd 95 li nesil
-bkz 95 li neslin biraz salak olması
-bkz cengiz ünderin bekiroğlana yürümesi
-bkz emre morun bekiroğlan nın memintolar tombiktoymuş demesi
-bkz arda turanın bekiroğlana yürümesi
-bkz loris karius un nereye geldim lan bakışı
-bkz loris karius un bekir oğlana yürümesi
-bkz bekir oğlanı tanımayan yeni nesil gençlik
-bkz bekir oğlan ın kız kardeşinin kız oğlan kızım demesi
-bkz bekir oğlanın bekir oğlan kim aq diyen kız kardeşi
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-bkz bekiroğlan kim lan abo çocukmuş lan
-https://eksisozluk.com/asli-bekiroglu--4004880?a=popular 
-bkz imamoğlanın bekiroğlana kayması
-bkz imamoğlanın babasının oğlum kaymayacak mı demesi
-bkz imamoğlanın oğlum ben buraya beş gömlek fazlayım demesi
--->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
