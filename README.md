@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz e.imamoğlunun koltuk altıyla patlak kız sesi çıkarması
+bkz e.imamoğlunun utanmadan koltuk altıyla patlak kız sesi çıkarması
 bkz e.imamoğlunun yunan bayrağını öpüp sirtaki yapması
 https://www.uludagsozluk.com/e/42787897/ bkz ekrem imamoğlu
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-%C3%A7in-de-tutukland%C4%B1/2/
