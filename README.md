@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/ 
 https://www.youtube.com/watch?v=XHSq7slClpE ibb genel sekreteri 
 https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar 
 bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
