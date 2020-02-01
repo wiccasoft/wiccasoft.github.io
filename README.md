@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz şükrüsaçaoğlunda ifşa atan polis
 https://www.youtube.com/watch?v=_TnXD4LEqcQ zuahahhaha
 https://www.youtube.com/watch?v=OKApmrgpA_U
 bkz bekir bozdağın iğrençsiniz ibneler demesi
