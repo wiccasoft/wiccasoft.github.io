@@ -9,9 +9,6 @@
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır
-bkz sözlüğünüzde olsaydım açacağım başlıklar
-bkz nonoş akboyların türkiyeyi siklediğimi sanması
-bkz götü tayyip şeklinde atan suratın sanki biraz şey olması
 bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
 bkz ruhi çenetin esrarcengiz vidyolarının testeredeki adama benzemesi asdsadsad
 bkz imamoğlunun babasının noldu olan kaydıysa size mi kaydı demesi
