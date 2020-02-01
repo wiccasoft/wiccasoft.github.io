@@ -9,10 +9,7 @@
 bkz loris karius un bekir oğlana yürümesi
 bkz bekir oğlanı tanımayan yeni nesil gençlik
 bkz bekir oğlan ın kız kardeşinin kız oğlan kızım demesi
-bkz zeynep koçak ın yılalra meydan okuyan evrimi
-bkz bekir oğlanın tanımayan 40 plus nesil
 bkz bekir oğlanın bekir oğlan kim aq diyen kız kardeşi
-bz bekir oğlanın babası bekir
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz bekiroğlan kim lan abo çocukmuş lan
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular 
