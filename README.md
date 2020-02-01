@@ -7,9 +7,6 @@
 
 <!--
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
-bkz ibb sekreterinin parklarda sevişen türbanlı annlerinizde bacımız demesi
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
-bkz barış mançonun viagra alıp bekiroğlanın göte asılması
 bkz gözleri imamoğlu şeklinde gülen suratın göt olması
 bkz zazaların kendini türk sanması
 bkz alpaslan türkeşin ne mozayığı lan demesi
