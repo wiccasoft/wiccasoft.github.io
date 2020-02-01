@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekir oğlanın bekir oğlan kim aq diyen kız kardeşi
 bz bekir oğlanın babası bekir
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz bekiroğlan kim lan abo çocukmuş lan
