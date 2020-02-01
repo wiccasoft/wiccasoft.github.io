@@ -6,6 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=jVEKDcDEN1w
+bkz rte seksi yasaklasa naparsınız
 https://www.youtube.com/watch?v=lLaFtI_aJv0
 bkz rte ezanları ben okuyacam dese naparsınız
 https://www.youtube.com/watch?v=EfAsNffCjsM 
