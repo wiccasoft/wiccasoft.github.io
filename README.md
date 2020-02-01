@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz selocanın huawei'ye akıl vermesi
 bkz soyadında oğlu olanlar yahudiyse türkiyenin yarısı yahudi mi sorunsalı
 https://www.youtube.com/watch?v=XHSq7slClpE ibb eski genel sekreteri
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-%C4%B1n-hayat%C4%B1-ve-ilkeleri/ zuahahahaha
