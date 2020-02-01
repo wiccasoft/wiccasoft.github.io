@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ibb sekreterinin amı götü kokar bunların demesi
 bkz aslı bekiroğlanın fenerbahçeden gelecek sponsor reklamlık tekliflerine açığım demesi
 bkz aslı bekiroğlanın ben de fenerliyim aslolan fener demesi
 bkz selin ciğercinin tolga ciğerciye güzel diyen bana demesin demesi
