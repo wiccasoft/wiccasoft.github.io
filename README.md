@@ -6,8 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz ibb  sekreterinin aslı bekiroğlanın amı kokar açıklaması
-bkz aslı bekiroğlanın akp den milletvekili olacam demesi
+bkz ibb sekreterinin aslı bekiroğlanın amı kokar açıklaması
 bkz bahçelinin bekiroğlan ifşası sonrası rte ye yanaşması
 bkz vedat mürçünün bekiroğlanın amını yalarım hareketi yapması
 bkz max kruze vs vedat mürüçü
