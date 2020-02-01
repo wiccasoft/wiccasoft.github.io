@@ -7,7 +7,7 @@
 
 <!--
 bkz tayyibin benim eşimde arap zaten demesi
-bkz yeşilyoldaki zenciyi arap sanan türkler
+bkz yeşilyoldaki zenciyi arap sanan kamalcı arap karışımı yaratıklar
 bkz yeşilyoldaki arabın zenci olmak istemiyorum demesi
 bkz rte nin ikinci ata cücü vakası olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
