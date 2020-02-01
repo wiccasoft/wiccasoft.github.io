@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz imamaoğlanın babasının ne var yani olan kaymasın mı demesi
 bkz aslı bekiroğalnın stop make my pussy famous demesi
 bkz ibb sekreterinin türbanlı ifşa linki var mı kankağ demesi
 bkz j.law amı vs bekiroğlan amı
