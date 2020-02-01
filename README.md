@@ -6,8 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz baba akü yok
-https://www.uludagsozluk.com/k/babaaa-asl%C4%B1-bekiro%C4%9Flu-bize-dava-a%C3%A7m%C4%B1%C4%B1%C4%B1%C5%9F/
+bkz bekiroğlunun proje olduğu iddaları
 bkz bekiroğlu proje diyen aktroller
 bkz bekiroğluna artık proje gelmeyeceği gerçeği
 bkz çavuşoğlanın bekiroğluna iş bilmez bekir demesi
