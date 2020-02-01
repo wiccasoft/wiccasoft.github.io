@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ibb sekreterinin imamoğlu kokuyor demesi
+bkz ibb sekreterinin imamoğlucular kokuyor demesi
 bkz aslı bekiroğlan vs bekir bozdağ
 bkz aslı bekiroğlan vs ekrem imamoğlan
 bkz ekrem memikoğlan vs memik beberoğlan
