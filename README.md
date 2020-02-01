@@ -8,9 +8,9 @@
 <!--
 bkz ruhi çenetin enes baturla olan vidyosu
 bkz ruhi çenet spy game deki adam benzerliği
+bkz anası parklarda sevişen akboyların pek bi alıngan olması
 bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
 bkz kerimcan durmazın ablan geyseli bebeğim demesi
-bkz anası parklarda sevişen akboyların pek bi alıngan olması
 bkz götü tayyip şeklinde atan suratın pentagonu tayyipe şikayet etmesi
 bkz götü tayyip şeklinde atan suratın pentagonu jandarmaya bildirmesi
 bkz götü tayyip şeklinde atan suratın beni tayyipe bağlı sanması
