@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlanın ben de fenerliyi mondan ifşa yaptım demesi
 bkz selin ciğercinin tolga ciğerciye güzel diyen bana demesin demesi
 bkz tolga ciğerci nin ciğerci sözlük ü açacam sinyalleri yakması
 bkz serkan inci nin yağlı saçları vs zallın kıllı götü
