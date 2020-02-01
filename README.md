@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+https://www.youtube.com/watch?v=NLmjKXYYRso  bu adam ne içiyo ya
 https://www.youtube.com/watch?v=TtJjSVIw-Uo bkz imamoğlunun mao zedonga yoldaşım demesi
 https://www.uludagsozluk.com/e/42787897/ bkz imamoğlu
 bkz e.imamoğlunun çin bayrağını öpüp sirtaki yapması
