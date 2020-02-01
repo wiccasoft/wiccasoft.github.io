@@ -7,7 +7,7 @@
 
 <!-- 
 bkz pentagon tayyibi siklemiyo diye zırlayan akboylar
-bkz pentagonun tayyipi siklemediği gerçeği
+bkz pentagon un tayyipi siklemediği gerçeği
 bkz pentagonu ibb sekreteri sanan akboyların güldürmesi
 bkz pentagonun ibb sekreterini savunması
 bkz pentagonun rte korkusundan ampullu paylaşımlar yapması
