@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz bahcelioğlanın kılıçoğlan ne teklif gelirse gelsin ifşa linki vermeyeceği demesi
 bkz imamaoğlanın babasının oğlan kaymasın mı demesi
 bkz aslı bekiroğlan kim diye aratmaya üşenmek
 bkz ibb sekreterinin aslı bekiroğlanın amı kokar açıklaması
