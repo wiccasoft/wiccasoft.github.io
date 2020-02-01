@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz imamoğlanın başörtülüler kokuyor demesi
 bkz window95 vd 95 li nesil
 bkz 95 li neslin biraz salak olması
 bkz cengiz ünderin bekiroğlana yürümesi
