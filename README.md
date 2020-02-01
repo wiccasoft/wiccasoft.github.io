@@ -7,7 +7,6 @@
 
 <!--
 https://eksisozluk.com/batinin-turklerden-nefret-etme-nedenleri--6346905?a=popular allah allah neden acaba
-bkz avrupa birliği başkanınız ingilzicesi vs imamaoğlunuz ingilizcesi
 https://eksisozluk.com/imamoglunun-turkiyeye-1-numara-buyuk-olmasi--6346411?a=popular seneye de giyersiniz be olm
 https://eksisozluk.com/asli-bekiroglu--4004880?a=popular aslı bekiroğlu kim lan abo çocukmuş lan
 https://eksisozluk.com/avrupa-birligi-baskanimizin-muhtesem-ingilizcesi--6347203?a=popular faruk abi ne içiyon abi
