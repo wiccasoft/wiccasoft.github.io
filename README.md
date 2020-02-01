@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz selonun ibb sekreterine asıl ben senin ananın amına koyayım demesi
+bkz selonun ibb sekreterine akıl vermesi
 bkz ibb sekreteri danışman yardımcısının imamoğlununu anasının amına koyayım demesi 
 bkz ibb sekreterinni imamaoğlanın anasının amına koyayım ban bişey olmasın demesi
 bkz ibb nin sekreterinin imamaoğlanın anasının amı kokar demesi
