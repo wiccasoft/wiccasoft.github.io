@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+http://www.hurriyet.com.tr/video/ersun-yanal-soz-konusu-fenerbahce-ise-gerisi-teferruattir-41045374
 bkz aslı bekiroğlunun büyük projeyim demesi
 https://www.uludagsozluk.com/k/asl%C4%B1-n%C4%B1n-dans-edememesi/
 bkz aslı bekiroğlunun hollywood tekliflerine açığım demesi
