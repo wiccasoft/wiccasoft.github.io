@@ -16,7 +16,6 @@ bkz aslı bekiroğlan kim diye aratmaya üşenmek
 bkz ibb sekreterinin aslı bekiroğlanın amı kokar açıklaması
 bkz bahçelinin bekiroğlan ifşası sonrası rte ye yanaşması
 bkz vedat mürçünün bekiroğlanın amını yalarım hareketi yapması
-bkz max kruze vs vedat mürüçü
 bkz j.lawrence'in aslı bekiroğlunu arayıp am sağlığı dilemesi
 bkz beberoğlu ifşası link var mı kankaaaaaaağ
 bkz türklerin yoğurt dışında dünyaya kattıkları
