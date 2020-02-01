@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ibb sekreterinni asıl imamoğlanın anasının amı kouyor demesi
+bkz ibb sekreterinin asıl imamoğlanın anasının amı kouyor demesi
 https://www.youtube.com/watch?v=ZKaXuolbKJU 
 haseki başkanın sekreterininin asıl açık lar kokuyo demesi
 bkz binali yıldırım vs aziz yıldırım
