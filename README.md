@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır
 bkz sözlüğünüzde olsaydım açacağım başlıklar
 bkz nonoş akboyların türkiyeyi siklediğimi sanması
 bkz götü tayyip şeklinde atan suratın sanki biraz şey olması
