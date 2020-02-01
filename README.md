@@ -18,6 +18,7 @@ bkz ibb sekreterinin imamoğla ifşasını yayması
 bkz ibb sekreterinin imamoğlan ifşası sonrası istifa etmemesi
 bkz tayyipoğlanın beberoğlanın ifşasından sonra onun amı kokar demesi
 bkz ibb sekreteri yardımcı danışmanının asıl imamoğlanın anasını amı kokuyor demesi
+https://www.uludagsozluk.com/k/savc%C4%B1n%C4%B1n-bir-kezonun-kukusuyla-u%C4%9Fra%C5%9Faca%C4%9F%C4%B1n%C4%B1-sanmak/
 bkz bahceçilinin selocan huaweye akıl vermessin diye recepoğlana yanaşması
 bkz selonun huawei ye akıl vermsi
 bkz türkler ne zaman insan olur sorunsalı
