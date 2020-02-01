@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz huaweinin aslı bekiroğlana ifşa için verdiği para
+bkz huawei nin aslı bekiroğlana ifşa için verdiği para
 bkz aslı bekiroğlanın apple kullanması
 bkz aziz yıldırımın türbalıların götü başı kokuyor demesi
 bkz aziz yıldırım vs binali yıldırım
