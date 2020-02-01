@@ -6,6 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz ibb nin işten attığı akpli çöpçülerin beberoğlu ifşasını yayması
 bkz selonun imamoğlunun sekreterine akıl vermesi
 bkz imamaoğlanın babasının ne var yani olan kaymasın mı demesi
 bkz aslı bekiroğalnın stop make my pussy famous demesi
