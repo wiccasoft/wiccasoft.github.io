@@ -7,6 +7,7 @@
 
 <!--
 bkz selonun ibb sekreterine akıl vermesi
+bkz ibb nin paylaştığı parkta sevişen türbanlılar vidyosu
 bkz ibb sekreteri danışman yardımcısının imamoğlununu anasının amına koyayım demesi 
 bkz ibb sekreterinni imamaoğlanın anasının amına koyayım ban bişey olmasın demesi
 bkz ibb nin sekreterinin imamaoğlanın anasının amı kokar demesi
