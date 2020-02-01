@@ -6,18 +6,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ibb sekrerteri danışman yardımcısıının imamaoğluna anasının amına koyayım demesi
+bkz ibb sekreteri danışman yardımcısının imamoğlununu anasının amına koyayım demesi 
 bkz ibb sekreterinni imamaoğlanın anasının amına koyayım ban bişey olmasın demesi
 bkz ibb nin sekreterinin imamaoğlanın anasının amı kokar demesi
 https://www.youtube.com/watch?v=OKApmrgpA_U zuahahahahahhaha
-bkz ibb sekreterinni ibnelerin amk demesi
-bkz uğurcan çakırın geyselilerin amınakorum bakışı
-bkz vedat mürüçün fenerin amk ben ferrarime bakarım demesi
-bkz ibb sekreterinin imamaoğlunun amk bana bişey olmasın demesi
-bkz uğurcan çakırın ananızıın amına korum bakışı
-bkz ibb danışman yardımcısının imamaoğlu kaymasın mı demesi
-bkz ibb sekreterinin bunların amı götü kokar demesi
-bkz murat övüç'ün giydiği ilginç elbise
 bkz ruhi çenet spy game deki adam benzerliği
 https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse gerisi teferruattır
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7-%C3%BCn-giydi%C4%9Fi-ilgin%C3%A7-elbise/ 
