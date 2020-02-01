@@ -6,9 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz olm ben sizin köye bağlı değile
-bkz türklerin beni kendileri gibi kara kafalı oğlu soyadlı biri sanması
-bkz barış mançonun viagra alıp bekiroğluna asılması
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 bkz gözleri imamoğlu şeklinde gülen suratın göt olması
 bkz zazaların kendini türk sanması
 bkz alpaslan türkeşin ne mozayığı lan demesi
