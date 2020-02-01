@@ -6,12 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz gösleri tayyip şeklinde suratın beni tayyibe şikayet etmesi
-bkz ersun yanalın mevzu alper tungaysa eğitirim demesi
-bkz bahcelinin rte yanaşıp tayyip şeklinde gülümsemesi
-bkz selocanın muhalefete akıl vermesi
 bkz sözlüğünüzde olsaydım açacağım başlıklar
-bkz kamalcılarla akboyların güldürmesi
 bkz nonoş akboyların türkiyeyi siklediğimi sanması
 bkz götü tayyip şeklinde atan suratın sanki biraz şey olması
 bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
