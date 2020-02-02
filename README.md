@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+bkz eylül öztürkün kusma pozuyla verdiği poz
 bkz ferdi tayfurun orhan bencegay beni dinleyin demesi
 bkz hasan mezarcının vernal ekinoksta güncelleme atacam demesi
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
