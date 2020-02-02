@@ -11,7 +11,6 @@ https://www.youtube.com/watch?v=cF4C4llQZaw
 bkz bekiroğlunun 2. jlo vakası olduğu gerçeği
 bkz bekiroğlunun appledan aldığı gizli reklam anlaşması
 bkz şaka maka bekiroğlunun iyi icloud reklamı yapması
-bkz bekiroğlunun icloud kurbanıyım demesi
 https://www.youtube.com/watch?v=TFsmUqJuZO8 
 https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/ 
 https://www.youtube.com/watch?v=XHSq7slClpE ibb genel sekreteri 
