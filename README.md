@@ -1,9 +1,10 @@
-<!-- https://www.uludagsozluk.com/k/orhan-gencebay/ bence gay 
+<!-- https://www.uludagsozluk.com/k/orhan-gencebay/ bencegay 
 https://www.uludagsozluk.com/e/165539/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/e/42798820/ tayyibin götdeliğini taladı beyler
 bkz orhan bencegayin tayybin göt deliğini yalaması 
 bkz orhan bencegayin komonada kıyafeti giyip tayyip diye bağırması
-bkz orhan bence gay in tayyip yalakalığı--->
+bkz orhan bencegay in tayyip yalakalığı
+bkz orhan bencega yin gay olduğu itiraf etmesi -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
