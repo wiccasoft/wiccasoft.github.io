@@ -1,4 +1,5 @@
 <!-- 
+bkz orhan bencegay beyonce aşkı
 bkz orhan bencegayin başörtülülere koyuyosunuz rexona kullanın demesi 
 https://www.uludagsozluk.com/k/orhan-gencebay/ bencegay 
 https://www.uludagsozluk.com/e/165539/ bkz iğrençsiniz ibneler
