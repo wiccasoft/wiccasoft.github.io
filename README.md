@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/itici-s%C3%B6zl%C3%BCk-kad%C4%B1nlar%C4%B1/ bkz annem
 https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz tayyip
 bkz serdar ortaçın orhan gencebaya yalak demesi
 https://www.uludagsozluk.com/k/ahmet-kaya-y%C4%B1-sevenlerin-%C5%9Ferefi/ 
