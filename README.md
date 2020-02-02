@@ -1,4 +1,5 @@
 <!--
+bkz musa anter vs yaşar kemal
 bkz alpaslan türkçe vs fettullah gülen
 bkz hüseyin nihal atsız vs hüzeyin nihal atlı
 bkz yılmaz özdil vs yılmaz güney bkz ikisi de kürt dikkatiniz çekerim
