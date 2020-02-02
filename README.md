@@ -3,7 +3,6 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
-bkz amk ibneleri sizi yakalarsam sokakta yatırıp sikecem zaten
 https://www.uludagsozluk.com/k/geni%C5%9F-omuzlu-m%C3%BChendis-20-k%C4%B1z-siken-erkek/ annen yanımda oç
 https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
 https://www.youtube.com/watch?v=MH6okUrzEJM bkz gözleri tayyip şeklinde gülen surata sahip çıkıyoruz
