@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg ah be yiğidim negzel fener ağlama diyiydin
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg hazretlim muhammedim ben sana git demedim diyemedim
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg yaşar yaşıyomusun yiğidim
 https://www.uludagsozluk.com/k/atat%C3%BCrk-alahtan-daha-b%C3%BCy%C3%BCkt%C3%BCr/ ata cücü döver
