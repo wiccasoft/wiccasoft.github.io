@@ -1,6 +1,6 @@
 <!--
 bkz façebuk u sadece farmville için kullanırım diyen erkek
-bkz aslı bekiroğlu vs vedat mürüçoğlu
+bkz aslı diyarbekiroğlu vs vedat mürüçoğlu
 bkz fegulü vs ciguli
 bkz aslolan bekiroğlu vs vedat merüçoğlu
 bkz musa anter vs muhsin yazıcıoğlan
