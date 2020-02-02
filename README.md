@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
-bkz eylül öztürkün öztürk olduğu gerçeği
+https://www.uludagsozluk.com/k/%C3%A7ekik-g%C3%B6zl%C3%BC-erkeklere-a%C5%9F%C4%B1k-t%C3%BCrk-k%C4%B1zlar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
 https://www.uludagsozluk.com/k/g%C3%BCr%C3%BClt%C3%BC-yapt%C4%B1-bahanesiyle-%C3%B6ld%C3%BCr%C3%BClen-gen%C3%A7/
 https://www.uludagsozluk.com/e/42797512/ bkz hayallerde yaşıyor bazı ibneler 
