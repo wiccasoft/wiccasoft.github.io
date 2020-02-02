@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/sofiane-feghouli/&w=bg irdelenmeli
 bkz orhan baba sik bizi babaaaaaaaaaaa
 bkz orhan bence gayin hayranlarına bıyıklarını sürtmesi
 bkz vedat mürüçünün abi satmayın 150 mülyün yürüyüm en amq demesi
