@@ -6,11 +6,7 @@
 bkz kemalin itlerinin trabzonspor taraftarı öldürebildiği özgür ülke
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg bir realite
 bkz türklerin firmalarına ismi ya da soyisimlerini koyma sebebi
-bkz sevdiceğin telfona sevdicek diye kaydeden erkek
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg 
-bkz kendi smartphone işletim sistemini yazıp kafa dinlemek
-https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun hile yapması
-bkz mustafa kemalin itleri vs trabzon aslanları
 https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
 bkz elle tututulur icraat istiyoruz
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg adını ver aşko
