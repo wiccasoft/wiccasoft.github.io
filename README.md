@@ -1,4 +1,5 @@
 <!-- 
+https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim
 bkz ibrahim talıseksin tayyip benim kankam demesi bu adama dokunana sikerim demesi
 bkz orhan gecebayın tayyip dertler benim saray senin olsun demesi
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg üşüyoruz reis
