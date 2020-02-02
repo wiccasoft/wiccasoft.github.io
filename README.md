@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz başörtülülüler çalışmasın aramızda para toplayalım bedava yaşasınlar kampanasyı
+bkz başörtülülüler çalışmasın aramızda para toplayalım adına vergi diyelim bedava yaşasınlar kampanyası
 bkz zokaranın başörtülü futbolcuları tekmelemesi
 bkz ersun yanalın mevzu fenerse gerisi teferruattır açıklaması
 https://www.uludagsozluk.com/k/akp-linin-kula%C4%9F%C4%B1na-e%C4%9Filip-vergi-demek/ lol 
