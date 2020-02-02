@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg bence gay değil
+bkz orhan bence gay 
+https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg bence gay
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg 
 bkz yeşilyoldaki arap
 https://www.uludagsozluk.com/k/kral-faysal/&w=bg oç arap
