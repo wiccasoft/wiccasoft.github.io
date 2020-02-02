@@ -1,4 +1,5 @@
 <!--
+bkz müjdat gezen ve metin akpınar
 bkz musa anter vs yaşar kemal
 bkz alpaslan türkçe vs fettullah gülen
 bkz hüseyin nihal atsız vs hüzeyin nihal atlı
