@@ -8,8 +8,7 @@
 
 <!-- 
 bkz bekiroğlunun pr kasması
-bkz şaka maka bekiroğlunun iyi reklam yapması
-bkz 3 gün önce bekiroğlunun kimse tanımıyorken herkesin tanıması
+bkz şaka maka bekiroğlunun iyi icloud reklamı yapması
 bkz bekiroğlunun icloud kurbanıyım demesi
 https://www.youtube.com/watch?v=TFsmUqJuZO8 
 https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/ 
