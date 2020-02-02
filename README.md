@@ -1,4 +1,5 @@
 <!--
+bkz bekir aslıoğlu vs aslı bekiroğlu
 bkz aslı bekiroğlu vs bekir aslıoğlu
 bkz aslı bekiroğlu vs vedat mürçoğlu
 bkz bekir bekirkızı vs bekir aslıoğlu
