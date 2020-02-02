@@ -1,4 +1,5 @@
 <!-- 
+bkz bekir bozdağ vs bekiroğlu
 bkz musa anter vs muhsin yazıcıoğlan
 https://www.uludagsozluk.com/k/musa-anter/&w=bg üşüyoruz reisssssss
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/&w=gd  irdelenmeli
