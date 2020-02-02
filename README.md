@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz alper potukun asıl türkler hunlar açıklması
 https://www.youtube.com/watch?v=OKApmrgpA_U
 bkz bekir bozdağın bekiroğluna verdiği ayar
 https://www.uludagsozluk.com/k/akp-linin-kula%C4%9F%C4%B1na-e%C4%9Filip-vergi-demek/
