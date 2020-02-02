@@ -1,4 +1,6 @@
-<!--bkz aslı diyarbekroğlu vs diyarbekirli travesti nihal 
+<!--
+bkz aslı özbekiroğlunun beyin yakan kına gecesi
+bkz aslı diyarbekroğlu vs diyarbekirli travesti nihal 
 bkz yeşilyoldaki arapın zencilere küfretmesi
 https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular tıklağ -->
 
