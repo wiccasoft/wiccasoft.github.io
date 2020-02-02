@@ -1,7 +1,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 https://www.youtube.com/watch?v=EjJiAL4Zobg bkz laz ziyanın barona raconu kesmesi
-https://www.youtube.com/watch?v=c7IoBRRBiX8 laz ziya vs baron harahanlı
+https://www.youtube.com/watch?v=c7IoBRRBiX8 baron harahanlı
 https://www.uludagsozluk.com/e/42799053/ adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg orhannn babaaaaaaaaaaaaaa gay bana babaaaaaaaa
 https://www.uludagsozluk.com/k/%C3%A7atal-f%C4%B1rlat%C4%B1ld%C4%B1-diye-haini-ba%C5%9F-tac%C4%B1-yapan-%C3%BClke/
