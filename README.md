@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz bekiroğlunun andoridim hacklendi demesi
 https://www.youtube.com/watch?v=TFsmUqJuZO8 
 https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/ 
 https://www.youtube.com/watch?v=XHSq7slClpE ibb genel sekreteri 
