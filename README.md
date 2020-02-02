@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!-- ,
+<!-- 
+https://www.uludagsozluk.com/k/en-sevdi%C4%9Finiz-%C3%BC%C3%A7-%C5%9Fark%C4%B1c%C4%B1/ müzlüm baba rte şiwan
 https://www.uludagsozluk.com/e/42797157/ eywallah hemşo 
 bkz irem dericinin götümdeki bokları yiyin demesi
 bkz şiwan perwer rte ibo izzet düeti
