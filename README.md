@@ -8,6 +8,7 @@
 
 <!-- 
 bkz bekiroğlunun pr kasması
+bkz şaka maka bekiroğlunun iyi reklam yapması
 bkz 3 gün önce bekiroğlunun kimse tanımıyorken herkesin tanıması
 bkz bekiroğlunun icloud kurbanıyım demesi
 https://www.youtube.com/watch?v=TFsmUqJuZO8 
