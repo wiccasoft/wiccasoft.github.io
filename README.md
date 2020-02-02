@@ -10,7 +10,7 @@
 
 <!--
 bkz faruk kaymakçının inciltereyi attılar bizi alacalar demesi raad olun demesi
-bkz faruk kaymakçının işin kaymağı bitti demesi
+bkz faruk kaymakçının işin kaymağı bitti sıra avroya geçmede demesi
 bkz faruk kaymakçının bekiroğlanaın amı kaymak gibiymiş demesi
 bkz bekiroğlunun xiomiden alacağı reklam teklifi
 https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
