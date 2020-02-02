@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+https://www.uludagsozluk.com/k/suudi-arabistan-da-ya%C5%9Fayan-m%C3%BCsl%C3%BCmanlar/&w=bg
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
 yapma be eylül abi 
 -->
