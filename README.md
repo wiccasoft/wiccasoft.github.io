@@ -1,4 +1,5 @@
 <!--
+bkz bekir diyarbekroğlu vs bekirurfalıoğlu
 bkz kral faik vs farid farjadoğlu
 bkz bekir damacanaoğlu vs bekir diyarbakıroğlu
 bkz aslı bakıroğlu vs bakır gümüşoğlu
