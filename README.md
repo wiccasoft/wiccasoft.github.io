@@ -1,4 +1,5 @@
 <!--
+bkz aslı siyarbekiroğlanın kürdüm ne var demesi
 bkz aslı diyarbekiroğlanın kürt olmaktan utanmıyorum demesi
 bkz aslı özbekiroğlanın beyin yakan kürt sevgilisi
 bkz diayrbekirli trevestinin mervelerde kalacam demesi
