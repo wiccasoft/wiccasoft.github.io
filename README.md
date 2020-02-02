@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz türklerin üstün ırk olması
 bkz türklerin takdir ettiği ezik ırklar
 https://www.uludagsozluk.com/k/askerlik-yapan-suriyeli/
 https://www.uludagsozluk.com/k/g%C3%BCl%C3%BCnce-g%C3%B6zleri-k%C4%B1s%C4%B1lan-erkek/&w=bg
