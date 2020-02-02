@@ -2,7 +2,10 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!-- https://www.youtube.com/watch?v=t-LeppPbouY mevzu fenerse aslolan trabzondur -->
+<!-- 
+https://twitter.com/zokoranntekmesi zuahahahha
+https://www.youtube.com/watch?v=t-LeppPbouY 
+-->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
