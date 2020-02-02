@@ -9,7 +9,7 @@
 <!-- 
 bkz gözleri tayyip şeklinde gülen suratın i.tatlıseks ifşa araması
 bkz organbencegayin çıpplak fotosunu bekleyen homolar
-https://www.uludagsozluk.com/k/homoseks%C3%BCelim-diye-ba%C4%9F%C4%B1ran-insanlar/ bkz apple türkiye temsilcisi
+https://www.uludagsozluk.com/k/homoseks%C3%BCelim-diye-ba%C4%9F%C4%B1ran-insanlar/ bkz gözleri tayyip diye gülen surat
 bkz apple türkiye nin kaz gelecek yerden ifşa mı esirgeyecez demesi
 bkz tuğçe kazaz ifşanın yakında düşeceği gerçeği
 bkz apple türkiyenin tuğçe kazazı gaza getirmesi
