@@ -2,66 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!-- 
-bkz selocanın tayyipe danışmanlık yapması
-bkz kılıştarğlanın avrasya tünelinin motorlarını ben yaptım demesi
-bzk aslı bekiroğlunun aslolan fenerbahçedir açıklaması
-bkz ersun yanalın mevzu fenerse gersi teferruattır demesi
-bkz orhan bencegayin kasılırken yere düşmesi
-bkz sonra döndüm ve dedim ki iyi trabzonluyum
-bkz zokaranın fenerin derdi ben olmuşum demek ki iyi koymuşum demesi
-bkz fenerbahcenin paylaştığı trabzon iyi koydu bize palaşımı
-bkz imamoğlunun başörtülüler kokuyo demesi
-bkz bekiroğlunun bekir gillerdeniz demesi
-bkz bekiroğlunun paylaştığı direk dansı vidyosu
-bkz ali koçun baba parası değil dede parası yiyorum demesi
-bkz alper potukun asıl türkler hunlar açıklması
-https://www.youtube.com/watch?v=OKApmrgpA_U
-bkz bekir bozdağın bekiroğluna verdiği ayar
-https://www.uludagsozluk.com/k/akp-linin-kula%C4%9F%C4%B1na-e%C4%9Filip-vergi-demek/
-bkz recep tayyip erdoğanın götün yiyosa büyük israil projesini engelleyin demesi
-bkz zokaranın belezoğlanı yerde tekmeleyip siggi git abilerin gelsin demesi
-bkz younes belhanda nın fenere gömdüğü gol sonrası attığı takla
-bkz bekir bozdağın bekiroğlana verdiği ayar
-bkz süleyman soylunun soyumuz kıpçaklara dayanır açıklaması
-bkz bekiroğlanın demeye boru döşemesi
-bkz fenerbahçeye döşediğimiz boru
-bkz ruhi çenetin videolarında testere filminde gibi hissetmek
-bkz ya lan sö y le me göz le rin çe kik çin ki
-https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ zuahahhaha yaran başlıklar
-https://www.youtube.com/watch?v=Hfye5B91HB4 selocanın kapsama alanı
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-izmir-gibi-y%C3%B6netece%C4%9Fiz/
-bkz gözleri tayyip şeklinde gülen homonun ortalarda gözükmemesi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ar%C4%B1zal%C4%B1-biri-olmas%C4%B1/ 
-bkz kemalitin özgürce homoseksüellilk yapabildiği ülke
-https://www.uludagsozluk.com/k/homoseks%C3%BCellerin-%C3%A7o%C4%9Funun-sap%C4%B1k-olmas%C4%B1/
-bkz kemalin itlerinin trabzonspor taraftarı öldürebildiği özgür ülke
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg bir realite
-bkz türklerin firmalarına ismi ya da soyisimlerini koyma sebebi
-https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg 
-https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
-bkz elle tututulur icraat istiyoruz
-https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg adını ver aşko
-bkz herşeyi bırakıp futbol klübüb satın alıp itlerle muhattap olmak
-https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular bkz kamlın itlerinin işi
-https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-elle-tutulur-icraat%C4%B1n%C4%B1n-olmamas%C4%B1/
-https://www.uludagsozluk.com/k/orhan-gencebay/ orhan bence gay kardeş
-https://www.uludagsozluk.com/k/mustafa-kemal-in-itleri/&w=bg bkz fenerin itleri
-https://www.uludagsozluk.com/k/orhan-gencebay-%C4%B1n-m%C3%BCthi%C5%9F-canl%C4%B1-performans%C4%B1/ kardel en dinle
-https://eksisozluk.com/erdoganin-ulkesinde-herkes-kendisini-ifade-ediyor--6349030?a=popular
-https://www.youtube.com/watch?v=81SCD2mUyAU bkz kamalın fenerli olduğu iddaları
-https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular zuahahhahahahaha
-https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg orhan bencegay kardeş
-https://www.youtube.com/watch?v=FPqoKFGkSTM
-https://eksisozluk.com/olgun-efendi-sakin-yakisikli-erkek--6348929?a=popular bkz trabzonlu sakin erkek
-https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular
-https://eksisozluk.com/1-subat-2020-fenerbahcenin-verilmeyen-golu--6348141?a=popular
-https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
-futbol tuzu kuru orta sınıf vatandaş işidir. gelirini sağlama almış ve dünyayla ilgili dertlerini çözmüş. 
-kendisine zarar vermeyecek bir kavganın içinde yer almak istiyor. o isteğin de cevabı futbol.
-https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular
--->
+
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
