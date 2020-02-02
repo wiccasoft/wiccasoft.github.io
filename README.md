@@ -1,4 +1,5 @@
 <!-- 
+bkz müslüm gencebay beyonce hanım aşkı
 bkz gayz nin beni ferdi tayfurla kıyaslamayın demesi
 bkz orhan bencegay beyonce aşkı
 bkz orhan bencegayin başörtülülere koyuyosunuz rexona kullanın demesi 
