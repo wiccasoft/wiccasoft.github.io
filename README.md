@@ -3,9 +3,9 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
-bkz ruhi çenetini sivilceleri
 bkz ruhi çenetin sakalları niye çıkmıyor sorunsalı
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-in-yeni-%C3%A7in-videosu/ bkz ruhi abi gel gözünün çapağını yiyem
+https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-in-yeni-%C3%A7in-videosu/ 
+bkz ruhi abi gel gözünün çapağını yiyem
 bkz ali koçun ersunu soyunma odasında tekme tokat dövmesi
 bkz ruhi çenetin testeredeki adama benzemesi
 bkz kemalitlerin kemalin arkasında it gibi kalması
