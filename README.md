@@ -1,4 +1,5 @@
 <!--
+bzk ahmet çakar vs rasim ozan kütahyalı
 bkz ahmet çakar vs alper potuk
 bkz ali koç vs fatih terim
 bkz ahmet çakar vs erman toroğlu
