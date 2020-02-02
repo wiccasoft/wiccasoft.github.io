@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz orhan gencebay
 bkz orhan gence bayın tayyip şerefine konser vermesi
 bkz müslüm gencebay beyonce hanım aşkı
 bkz gayz nin beni ferdi tayfurla kıyaslamayın demesi
