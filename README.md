@@ -8,54 +8,6 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
-https://www.youtube.com/watch?v=sU6imBv-J5g genetik asdasdasas
-bkz şaka maka bekiroğlunun iyi reklam yapması
-bkz bekiroğlu ifşa sonucu apple türkiye satışlarının çakması
-bkz bekir bozdağın bekiroğlunu arayıp iyi reklam kastın ha kerata demesi
-bkz bekiroğlunun bekir bozdağ babam demesi
-bkz sezgin tanrıkulu nun faruk k ya incilicce öğretmesi
-bkz imamaoğlanın faruk k incilicce işletmeden arkadaşım demesi
-bkz hrant dinkin nagehan alçı ifşası yakında çıkar demesi
-bkz ekrem imamaoğlanın bekirolan ifşası kaymak cibi olmuş demesi
-https://www.youtube.com/watch?v=t6YACUj6dkk azar azar geliyos avrupa
-bkz faruk kaymakçının inciltereyi attılar bizi alacalar demesi 
-bkz faruk kaymakçının işin kaymağı bitti sıra avroya geçmede demesi
-bkz faruk kaymakçının bekiroğlanaın amı kaymak gibiymiş demesi
-bkz bekiroğlunun xiomiden alacağı reklam teklifi
-https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
-bkz 2 şubat 2020 bekirin oğluna apple ı yasaklaması
-https://www.youtube.com/watch?v=Hfye5B91HB4 bkz selonun huaweye akıl vermesi
-https://www.youtube.com/watch?v=OKApmrgpA_U bekiroğlu ifşa asdfasdasda
-bkz gözleri tayyip şeklinde gülen homonun güldürmesi asffsfasfsdfsdfsd
-bkz gözleri tayyip şeklinde gülen suratın i.tatlıseks ifşa araması
-bkz organbencegayin çıplak ifşasını bekleyen homolar
-https://www.uludagsozluk.com/k/homoseks%C3%BCelim-diye-ba%C4%9F%C4%B1ran-insanlar/ bkz gözleri tayyip diye gülen surat
-bkz apple türkiye nin kaz gelecek yerden ifşa mı esirgeyecez demesi
-bkz tuğçe kazaz ifşanın yakında düşeceği gerçeği
-bkz apple türkiyenin tuğçe kazazı gaza getirmesi
-bkz apple türkiyenin e.imamoğlunun ifşası düşerse tam şenlik olur haa demesi
-https://www.youtube.com/watch?v=cF4C4llQZaw
-bkz bekiroğlunun 2. jlo vakası olduğu gerçeği
-bkz bekiroğlunun appledan aldığı gizli reklam anlaşması
-bkz şaka maka bekiroğlunun iyi icloud reklamı yapması
-https://www.youtube.com/watch?v=TFsmUqJuZO8 
-https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/ 
-https://www.youtube.com/watch?v=XHSq7slClpE ibb genel sekreteri 
-https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar 
-bkz bekiroğlunun apple in kurbanı olması
-bkz bekir bozdağın bekiroğlunu arayıp andorid e geç kankağ demesi
-bkz soyadı oğlu ile bitenler yavudiyse türkiyenin yarısı yavudi mi sorunsalı
-bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
-bkz ruhi çenetin esrarcengiz vidyolarının testeredeki adama benzemesi asdsadsad
-bkz imamoğlunun babasının noldu olan kaydıysa size mi kaydı demesi
-bkz orhan bencegay in kasılırken yere düşmesi
-bkz aziz yıldırımın binali yıldırımı kayak pistinden kovması
-bkz ruhi çenet spy game deki adam benzerliği
-bkz anası parklarda sevişen akboyların pek bi alıngan olması
-bkz murat övüçün gösleri tayyip şeklinde gülen surat çıkması
--->
-
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
 [![Image](shadow/Screenshot_2020-01-26_21-46-28.png)]( https://www.youtube.com/watch?v=QsaG8rJGlyQ )
