@@ -1,4 +1,5 @@
 <!--
+bkz yusuf güney ve orhan gencebayoğlu
 bkz yusuf güney vs aslı bekiroğlu
 bkz farid farjad vs yusuf güney
 bkz farid farjad vs abu hanefe bin muttap
