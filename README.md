@@ -9,6 +9,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bbekiroglunun iphone cu olması
 bkz bekiroğlunun asıl telefon iphone ya demesi
 bkz bekiroglunun numarasının ifşa olması
 bkz bekiroğlunun vodafone hat kullandığı iddaları
