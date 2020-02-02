@@ -4,6 +4,7 @@
 
 <!-- 
 bkz elle tututulur icraat istiyoruz
+https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg adını ver aşko
 bkz herşeyi bırakıp futbol klübüb satın alıp itlerle muhattap olmak
 https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular bkz kamlın itlerinin işi
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg
