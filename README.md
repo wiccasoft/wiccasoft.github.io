@@ -4,6 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenersaray vs geybahçe
 bkz ruhi çenet abi testeredeki adam benzerliği
+bkz ruhi çenet abi neden sakal bırakmıyor sorunsalı
 bkz ersun yanal ın zokaraya ananı sikecem bakış atması
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
 eylül abi naptın ya bensiz takılıyosun abi  
