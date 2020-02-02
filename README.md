@@ -2,64 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!-- 
-bkz kemalin itlerinin bayması
-bkz kemalin itlerinin safkan it olduğu gerçeği
-bkz orhan bence gay dinleyelim efenim 
-bkz ben ferronun şaka maka 287 olması
-https://www.uludagsozluk.com/k/ben-fero-khontkar-reynmen-burry-soprano/
-bkz enes baturun saçını sarıya boyaması izleyelim efenim
-https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
-bkz türklerin yoğurt dışında dünyaya katkısı olmadığı gerçeği
-bkz türklerin yoğurt dışında dünyaya katkısı
-bkz kemalitlerin en cahil kesim olduğu gerçeği
-https://www.uludagsozluk.com/k/sofiane-feghouli/&w=bg irdelenmeli
-bkz orhan baba sik bizi babaaaaaaaaaaa
-bkz orhan bence gayin hayranlarına bıyıklarını sürtmesi
-bkz vedat mürüçünün abi satmayın 150 mülyün yürüyüm en amq demesi
-bkz ali koçun vedat mürüçüyü satalım önerisi
-bkz orhan bence gay 
-https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg bence gay
-https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg 
-bkz yeşilyoldaki arap
-https://www.uludagsozluk.com/k/kral-faysal/&w=bg oç arap
-https://www.uludagsozluk.com/e/42793517/ bkz dinleyelim efenim
-https://www.youtube.com/watch?v=XjFh4Jtvupo oç adanalı
-bkz çemişgezeklilerin süper olması bkz ben
-bkz adanalıların oç olmaları bkz fatih terim hasan şaşa bahçeli
-bkz rizelilerin allahın sevgili kulu olmaları bkz rte
-bkz adanalıların oç olduğu gerçeği bkz hasan şaş fatih terim bahçeli
-https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg bkz oç
-bkz aslı bekiroğlanın diyarbekir li olduğu gerçeği
-bkz fatih terimin adanalı olması
-https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg bkz oçları olmaları
-bkz gözlerini kısıp senin ananı sikerim bakışı atan erkek
-https://www.uludagsozluk.com/k/%C3%A7ekik-g%C3%B6zl%C3%BC-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz serdar ortaç
-bkz paylaştığım rte resmini yırtan kamalcı
-bkz holly şirk koşiyler izleyelim efenim
-bkz şaka maka oh my rte holly shit
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-ya%C5%9F%C4%B1n-28-olmas%C4%B1/ 
-bkz aslı bekir oğlanın aslolan fenerbahçedir açıklaması
-bkz trabzonda başörtülülere işeyen dayı izleyelim holly shit
-https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/
-bkz fatih tezcanın kamalcılarla entelektüel muhabbete girmesi
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-abdullah-%C3%B6calan-sevgisi/
-bkz recep tayyip erdoğan fişini çekti  allah yapacak
-bkz recep tayyip erdoğanın apple ın fişini çekmesi
-bkz allah yıltı recep tayyip erdoğan hüloğğğğğğğğğğğğ
-https://www.youtube.com/watch?v=wB1LsAt1omI tengir budunun iyice delirmesi
-bkz tengir budun doğanın türkiyeyi amerika sanması
-bkz tengir budun doğanın desti izdivaç taksim dayıya verdiği ayar
-bkz tengir budun doğanın esra erola çıkanlara verdiği ibretlik ayarlar
-bkz tengir budun doğanın cehalete savaş açması
-bkz tayyipin apple ın fişini çekmesi
-bkz fatih tezcanın imamoğlu tweet atar diye pusuda beklemesi
-bkz zokaranın avrasya tünelinin motorlarını ben yaptım demesi
-https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
-https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/  izleyelim 
-https://www.youtube.com/watch?v=MhPz5PNLdoM zuahhahahahaha
-bkz huaweye yazdığım işletim sistemine tayyip ismini vermem
--->
+<!--bkz yeşilyokdaki arabın zencileşmek istemiyorum demesi -->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
