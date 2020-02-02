@@ -10,7 +10,7 @@
 
 <!--
 https://www.youtube.com/watch?v=t6YACUj6dkk azar azar geliyos avrupa
-bkz faruk kaymakçının inciltereyi attılar bizi alacalar demesi raad olun demesi
+bkz faruk kaymakçının inciltereyi attılar bizi alacalar demesi 
 bkz faruk kaymakçının işin kaymağı bitti sıra avroya geçmede demesi
 bkz faruk kaymakçının bekiroğlanaın amı kaymak gibiymiş demesi
 bkz bekiroğlunun xiomiden alacağı reklam teklifi
