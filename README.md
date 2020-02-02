@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz ali koçun ersunu soyunma odasında tekme tokat dövmesi
 bkz ruhi çenetin testeredeki adama benzemesi
 bkz kemalitlerin kemalin arkasında it gibi kalması
 bkz kemalitlerin sanki biraz it sürüsü olması
