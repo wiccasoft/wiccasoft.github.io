@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz sonra döndüm ve demik ki iyi ki 1978 liyim
 https://www.uludagsozluk.com/k/zorbay-k%C3%BC%C3%A7%C3%BCk/ 92 doğumluymuş beyler
 bkz müslüm baba şiwan baba düeti
 bkz ferdi tayfurun orhan bence gay açıklması
