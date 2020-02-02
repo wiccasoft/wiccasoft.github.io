@@ -1,5 +1,6 @@
 <!--
-bkz aslı bdiyarbekirlioğlu vs diyarbakırlı travesti nilay
+bkz diyarbarkılı travesti nilay vs aslı bekiroğlu
+bkz aslı diyarbekirlioğlu vs diyarbakırlı travesti nilay
 bkz farid farjadoğlu vs feridun düzoğlu
 bkz yusuf güney ve orhan gencebayoğlu
 bkz yusuf güney vs aslı bekiroğlu
