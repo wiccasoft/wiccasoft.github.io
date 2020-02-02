@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
-https://www.youtube.com/watch?v=D7nw2-MsoGM zuahahahaha
+https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
 https://www.youtube.com/watch?v=MH6okUrzEJM
 bkz ak lgbt lilerin güldürmesi
 bkz kemalin itlerine döşediğimiz boru
