@@ -4,7 +4,7 @@
 
 <!--
 https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
-https://www.youtube.com/watch?v=MH6okUrzEJM
+https://www.youtube.com/watch?v=MH6okUrzEJM bkz gözleri tayyip şeklinde gülen surata sahip çıkıyoruz
 bkz ak lgbt lilerin güldürmesi
 bkz kemalin itlerine döşediğimiz boru
 bkz trabzonlu olmayanların biraz oç olması
