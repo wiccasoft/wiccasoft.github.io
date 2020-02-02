@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz vedat mürüçünün 94 lü olmaı
+bkz ali koçun vedat mürüçüyü satalım önerisi
 bkz orhan bence gay 
 https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg bence gay
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg 
