@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz gözleri tayyip şeklinde gülen suratn pentagonu tayyipe şikayet etmesi
 bkz gözleri tayyip şeklinde gülen suratı çaycı olarak işe alıp sevap işlemek
 bkz gözleri tayyip şeklinde gülen suratın tayyipin kankası ibodan alt dudak istemesi
 bkz gözleri tayyip şeklinde gülen surat ve kokan annesi
