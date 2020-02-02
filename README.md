@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz kobe ryantın helikopterini düşüren yerli ve milli helikopter düşürücü
+https://www.uludagsozluk.com/k/yerli-ve-milli-helikopter-d%C3%BC%C5%9F%C3%BCr%C3%BCc%C3%BC/ 
 bkz gözleri tayyip şeklinde suratın bunların daha iyi günleri olması
 bkz gözleri tayyip şeklinde suratın türbanlı annesinni üstüne işeyen zenci
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg
