@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz e.imamaoğlunun ifşası düşerse tam şenlik olur haa diyen apple çalışanı
+bkz apple türkiyenin e.imamoğlunun ifşası düşerse tam şenlik olur haa demesi
 https://www.youtube.com/watch?v=cF4C4llQZaw
 bkz bekiroğlunun 2. jlo vakası olduğu gerçeği
 bkz bekiroğlunun appledan aldığı gizli reklam anlaşması
