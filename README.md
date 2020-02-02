@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
-bkz kemlait itlerinin özgürce homoseksüellilk yapabildiği ülke
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ar%C4%B1zal%C4%B1-biri-olmas%C4%B1/ ay bulaşma kız
+bkz kemalitin özgürce homoseksüellilk yapabildiği ülke
 https://www.uludagsozluk.com/k/homoseks%C3%BCellerin-%C3%A7o%C4%9Funun-sap%C4%B1k-olmas%C4%B1/
 bkz kemalin itlerinin trabzonspor taraftarı öldürebildiği özgür ülke
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg bir realite
