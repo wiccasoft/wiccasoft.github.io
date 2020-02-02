@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz süleyman soylunun soyumuz kıpçaklara dayanır açıklaması
 bkz bekiroğlanın demeye boru döşemesi
 bkz fenerbahçeye döşediğimiz boru
 bkz ruhi çenetin videolarında testere filminde gibi hissetmek
