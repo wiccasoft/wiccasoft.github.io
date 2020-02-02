@@ -9,6 +9,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekiroğlunun xiomiden alacağı reklam teklifi
 bkz bbekiroglunun iphone cu olması
 bkz bekiroğlunun asıl telefon iphone ya demesi
 bkz bekiroglunun numarasının ifşa olması
