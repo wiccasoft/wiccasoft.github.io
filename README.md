@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
-https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ bkz kay bana ekrem diyo
+https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ bkz kay bana ekrem ama ayak yapma diyen barzo
 https://www.youtube.com/watch?v=Hfye5B91HB4 selocanın kapsama alanı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-izmir-gibi-y%C3%B6netece%C4%9Fiz/
 bkz gözleri tayyip şeklinde gülen homonun ortalarda gözükmemesi
