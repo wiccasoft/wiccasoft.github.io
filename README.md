@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+https://www.youtube.com/watch?v=Hfye5B91HB4 
 bkz selonun muhalefete akıl vermesi
 bkz gözleri kemal şeklinde gülen surat
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-izmir-gibi-y%C3%B6netece%C4%9Fiz/
