@@ -1,13 +1,6 @@
 
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
-
-<!--
-https://www.uludagsozluk.com/k/norm-ender-bo%C5%9F-bir-insand%C4%B1r/&w=bg adam mekanın sahibi olm
-https://www.uludagsozluk.com/e/42798280/ eywallah bro
-https://www.uludagsozluk.com/k/ajdar-vs-demet-akal%C4%B1n/&w=bg zuahahha
-bkz yeşilyokdaki arabın zencileşmek istemiyorum demesi -->
-
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](shadow/Screenshot_2020-01-28_15-18-26.png)]( https://www.youtube.com/watch?v=zqCB8uB5bXY )
