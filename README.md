@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz bekiroğlunun bunun 8 megepiğzelliğinden var mı diye sorması
 bkz bekiroğlunun ben de huaweye geçecem demesi
 bkz bekir bozdağın bende huawei var sorun yok demesi
 bkz xiomi vs android vs win xp
