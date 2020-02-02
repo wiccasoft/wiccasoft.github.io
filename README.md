@@ -2,6 +2,12 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
+<!-- https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
+futbol tuzu kuru orta sınıf vatandaş işidir. gelirini sağlama almış ve dünyayla ilgili dertlerini çözmüş. 
+kendisine zarar vermeyecek bir kavganın içinde yer almak istiyor. o isteğin de cevabı futbol.
+https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular
+-->
+
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](shadow/Screenshot_2020-01-28_15-18-26.png)]( https://www.youtube.com/watch?v=zqCB8uB5bXY )
