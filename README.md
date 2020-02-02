@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz deeep turkish web teki kara kafalı ergenlerin güldürmesi
 bkz olm ben sizin köye bağlı değilim
 https://www.uludagsozluk.com/k/g%C3%BCr%C3%BClt%C3%BC-yapt%C4%B1-bahanesiyle-%C3%B6ld%C3%BCr%C3%BClen-gen%C3%A7/
 bkz türklerle kürtlerin hayallerde yaşadığı gerçeği
