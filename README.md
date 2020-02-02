@@ -5,6 +5,7 @@
 <!-- 
 https://www.youtube.com/watch?v=FPqoKFGkSTM
 https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular
+https://eksisozluk.com/1-subat-2020-fenerbahcenin-verilmeyen-golu--6348141?a=popular
 https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
 futbol tuzu kuru orta sınıf vatandaş işidir. gelirini sağlama almış ve dünyayla ilgili dertlerini çözmüş. 
 kendisine zarar vermeyecek bir kavganın içinde yer almak istiyor. o isteğin de cevabı futbol.
