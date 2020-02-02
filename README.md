@@ -5,7 +5,6 @@
 <!-- 
 bkz türklerin yoğurt dışında dünyaya katkısı olmadığı gerçeği
 bkz türklerin yoğurt dışında dünyaya katkısı
-bkz kemalitlerin ürettiği tek bir şey olmaması
 bkz kemalitlerin en cahil kesim olduğu gerçeği
 https://www.uludagsozluk.com/k/sofiane-feghouli/&w=bg irdelenmeli
 bkz orhan baba sik bizi babaaaaaaaaaaa
