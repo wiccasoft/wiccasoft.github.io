@@ -1,4 +1,5 @@
 <!--
+bkz şiwan perwer vs rte vs ibo
 bkz orhan bencegay vs ferdi bence gay değil
 bkz ens batur vs ruhi çenet
 bkz aslı bekiroğlan vs aleyna tiki
