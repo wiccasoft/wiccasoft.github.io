@@ -1,4 +1,5 @@
 <!--
+bkz telefon kullanmayan erkek vs aslı bekiroğlu
 bkz diyarbarkılı travesti nilay vs aslı bekiroğlu
 bkz aslı diyarbekirlioğlu vs diyarbakırlı travesti nilay
 bkz farid farjadoğlu vs feridun düzoğlu
