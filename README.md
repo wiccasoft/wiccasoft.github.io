@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz bekiroğlanın büyüyüp yaşıtlarına entry girdirmesi
 https://www.uludagsozluk.com/k/ilave-tv-muhabiri/&w=bg bkz büyüyünce ahsen tv muhabiri olacak çocuk
 bkz bekiroğlanaın şaka mamak çocuğum yaşında olması
 bkz bekiroğlanın büyüyünce direk dansı yapacam demesi
