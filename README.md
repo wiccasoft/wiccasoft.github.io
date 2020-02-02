@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz annesi türk babası türk olan çocuk vs annesi kürt babası zarap olan çocuk
 bkz babası kürt annesi arap olan çocuk
 https://www.uludagsozluk.com/k/annesi-k%C3%BCrt-babas%C4%B1-t%C3%BCrk-olan-insan/&w=bg
 https://www.uludagsozluk.com/k/suudi-arabistan-da-ya%C5%9Fayan-m%C3%BCsl%C3%BCmanlar/&w=bg
