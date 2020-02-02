@@ -1,74 +1,8 @@
 <!--
-bkz façebuk u farmville için kullanrıım diyen erkek
-bkz façebuk insta arasıra kullanırım diyen erkek
-bkz façebuk arasıra kullanan erkek vs insta sık kullanan erkek
-bkz façebok instabok twttebok whatta bok kullanmayan erkek
-bkz diyarbarkılı travesti nilay vs aslı bekiroğlu
-bkz aslı diyarbekirlioğlu vs diyarbakırlı travesti nilay
-bkz farid farjadoğlu vs feridun düzoğlu
-bkz yusuf güney ve orhan gencebayoğlu
-bkz yusuf güney vs aslı bekiroğlu
-bkz farid farjad vs yusuf güney
-bkz farid farjad vs abu hanefe bin muttap
-bkz bekir bekiroğlu vs bekirdiyarbekroğlu
-bkz bekir diyarbekroğlu vs bekirurfalıoğlu
-bkz kral faik vs farid farjadoğlu
-bkz bekir damacanaoğlu vs bekir diyarbakıroğlu
-bkz aslı bakıroğlu vs bakır gümüşoğlu
-bkz bekir diyarbekroglu vs bakirdayaroğlu
-bkz bekirdiyarbekr oğlu vs aslı diyarbekroğlu
-bkz bekir aslıoğlu vs aslı bekiroğlu
-bkz aslı bekiroğlu vs bekir aslıoğlu
-bkz aslı bekiroğlu vs vedat mürçoğlu
-bkz bekir bekirkızı vs bekir aslıoğlu
-bkz bekir aslıoğlu vs bekir bekiroğlu
-bkz aslı bekiroğlu vs abdulrrahim albyrak
-bkz gavatsaray vs salatabahçe
-bkz bekiroğlu aslı vs amınoğlu bekir
-bkz bekir aslıoğlu vs aslı bekiropğlu
-bkz aslı bekiroğlu vs bekir aslıoğlu
-bkz galatsaray vs fenersaray
-bkz aslı bekiroğlu vs vedat mürüçoğlu
-bkz aslı bekiroğlu vs bekir amın oğlu
-bkz farid farjad vs feridun düzağaç
-bkz şiwan perwer vs rte vs ibo
-bkz orhan bencegay vs ferdi bence gay değil
-bkz ens batur vs ruhi çenet
-bkz aslı bekiroğlan vs aleyna tiki
-bkz aslı bekiroğlan vs aslolan fenevbavce
-bkz orhan bencegay vs aslı bekiroğlan
-bkz aslı bekiroğlu vs bekir bozdağ
+bkz façebuk u sadece farmville için kullanırım diyen erkek
 bkz aslı bekiroğlu vs vedat mürüçoğlu
 bkz fegulü vs ciguli
 bkz aslolan bekiroğlu vs vedat merüçoğlu
-bkz orhan bencegay vs ferdi bencegaydeğil
-bkz bekiroğlu vs vedat mürüçü
-bkz hasana şaş vs ahmet çakar
-bkz beyaz futbol vs ak futbol
-bkz ahmet göte çakar vs rasim göte çakar
-bkz rasim ozan kütahlyakı vs hıncal uluç
-bzk ahmet çakar vs rasim ozan kütahyalı
-bkz ahmet çakar vs alper potuk
-bkz ali koç vs fatih terim
-bkz ahmet çakar vs erman toroğlu
-bkz fatih terim vs fatih portakal
-bkz orhan bencegay vs ferdi bencegaydeğil
-bkz müjdat gezen ve metin akpınar
-bkz musa anter vs yaşar kemal
-bkz alpaslan türkçe vs fettullah gülen
-bkz hüseyin nihal atsız vs hüzeyin nihal atlı
-bkz yılmaz özdil vs yılmaz güney bkz ikisi de kürt dikkatiniz çekerim
-bkz müjdat gezen vs yılmaz güney
-bkz yılmaz özdil vs yılmaz erdoğan
-bkz belhanda ve fegulü
-bkz yılmaz ozdil yılmaz güney
-bkz belhanda vs ciguli
-bkz loris karı vs feguli
-bkz orhan gecebay vs laz ziya
-bkz fatih terim vs laz ziya
-bkz fatih terim vs fatih portakal
-bkz vedat mürüçü vs bekiroğlu
-bkz bekir bozdağ vs bekiroğlu
 bkz musa anter vs muhsin yazıcıoğlan
 https://www.uludagsozluk.com/k/ben-bir-sigara-molas%C4%B1-veriyorum/ tamam bro gelince vs yaparız
 https://www.uludagsozluk.com/k/musa-anter/&w=bg üşüyoruz reisssssss
