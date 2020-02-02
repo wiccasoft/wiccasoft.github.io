@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/ahmet-altan/&w=bg mehmet altanın abisi
 https://www.uludagsozluk.com/k/zorbay-k%C3%BC%C3%A7%C3%BCk/ adam 92 liymiş beyler
 bkz şiwan perwer müslüm ibo ferdi baba düeti
 https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1n%C4%B1n-mesih-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
