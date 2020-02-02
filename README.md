@@ -12,7 +12,7 @@ https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/
 https://www.youtube.com/watch?v=XHSq7slClpE ibb genel sekreteri 
 https://www.youtube.com/watch?v=jVEKDcDEN1w en sevdiğim kullar 
 bkz bekiroğlunun apple in kurbanı olması
-bkz bekir bozdağın bekiroğlunun babasını araması
+bkz bekir bozdağın bekiroğlunu arayıp andorid e geç kankağ demesi
 bkz soyadı oğlu ile bitenler yavudiyse türkiyenin yarısı yavudi mi sorunsalı
 bkz gösleri tayyip şeklinde gülen suratın tayyibin kankası ibodan alt dudak istemesi
 bkz ruhi çenetin esrarcengiz vidyolarının testeredeki adama benzemesi asdsadsad
