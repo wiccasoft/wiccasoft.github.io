@@ -1,5 +1,6 @@
 <!--
-bkz hsana şaş vs ahmet çakar
+bkz bekiroğlu vs vedat mürüçü
+bkz hasana şaş vs ahmet çakar
 bkz beyaz futbol vs ak futbol
 bkz ahmet göte çakar vs rasim göte çakar
 bkz rasim ozan kütahlyakı vs hıncal uluç
