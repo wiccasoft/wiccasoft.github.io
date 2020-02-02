@@ -4,6 +4,7 @@ bkz fatih terim vs fatih portakal
 bkz vedat mürüçü vs bekiroğlu
 bkz bekir bozdağ vs bekiroğlu
 bkz musa anter vs muhsin yazıcıoğlan
+https://www.uludagsozluk.com/k/ben-bir-sigara-molas%C4%B1-veriyorum/ tamam bro gelince vs yaparız
 https://www.uludagsozluk.com/k/musa-anter/&w=bg üşüyoruz reisssssss
 https://www.uludagsozluk.com/k/orhan-gencebay/  adam mıdır
 bkz laz ziyanın imamoğluna damatttttttttttt demesi
