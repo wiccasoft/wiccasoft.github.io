@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
+bkz organbencegayin çıpplak fotosunu bekleyen homolar
 https://www.uludagsozluk.com/k/homoseks%C3%BCelim-diye-ba%C4%9F%C4%B1ran-insanlar/ bkz apple türkiye temsilcisi
 bkz apple türkiye nin kaz gelecek yerden ifşa mı esirgeyecez demesi
 bkz tuğçe kazaz ifşanın yakında düşeceği gerçeği
