@@ -1,4 +1,5 @@
 <!--
+bkz galatsaray vs fenersaray
 bkz aslı bekiroğlu vs vedat mürüçoğlu
 bkz aslı bekiroğlu vs bekir amın oğlu
 bkz farid farjad vs feridun düzağaç
