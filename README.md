@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz türklerin yoğurt dışında dünyaya katkısı olmadığı gerçeği
 bkz türklerin yoğurt dışında dünyaya katkısı
 bkz kemalitlerin ürettiği tek bir şey olmaması
 bkz kemalitlerin en cahil kesim olduğu gerçeği
