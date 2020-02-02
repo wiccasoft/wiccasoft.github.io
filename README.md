@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz zokaranın fenerin derdi ben olmuşum demekki zamanında iyi koymuşum demesi
+bkz zokaranın fenerin derdi ben olmuşum demek ki iyi koymuşum demesi
 bkz fenerbahcenin paylaştığı trabzon iyi koydu bize palaşımı
 bkz imamoğlunun başörtülüler kokuyo demesi
 bkz bekiroğlunun bekir gillerdeniz demesi
