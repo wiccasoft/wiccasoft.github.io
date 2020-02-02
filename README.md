@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/e/42799082/ ateşini yolla bana
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg ah be yiğdim yer demir gök bakır yğidim
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ izleyelim efenim
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg ah be yiğidim negzel fener ağlama diyiydin
