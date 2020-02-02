@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz orhan ben gay dinleyelim efenim
 bkz ben ferronun şaka maka 287 olması
 https://www.uludagsozluk.com/k/ben-fero-khontkar-reynmen-burry-soprano/
 bkz enes baturun saçını sarıya boyaması izleyelim efenim
