@@ -5,7 +5,7 @@
 <!-- 
 bkz holly şirk koşiyler
 bkz aslı bekir oğlanın aslolan fenerbahçedir açıklaması
-bkz trabzonda başörtülülere işeyen dayı
+bkz trabzonda başörtülülere işeyen dayı izleyelim holly shit
 https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/
 bkz fatih tezcanın kamalcılarla entelektüel muhabbete girmesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-abdullah-%C3%B6calan-sevgisi/
