@@ -1,9 +1,6 @@
 <!--
-bkz anansının amıoğlu vs yeter bdaha doğurmayın ananının amı artık aolu
+bkz anansının amıoğlu vs yeter daha doğurmayın ananının amı artık ağlu
 bkz dübünü dündüoğlu vs cüdane cüncüoğlu
-bkz aslı diyarbekroğlu kürt üm diye bağıran bir isim
-bkz aslı diyarbekroğlu vs dücünün düdüoğlu
-bkz türklerin güldüren komik isim ve soyisimleri
 bkz bübüne bümbiüoğülu vs bübüv vüvüvoülu
 bkz dücane cündioğlu vs dübüne dümbüoğlu
 bkz seninle öyle olmayalım be kardeş ben böyle iyiyim diyen erkek
