@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+bkz elle tututulur icraat istiyoruz
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-elle-tutulur-icraat%C4%B1n%C4%B1n-olmamas%C4%B1/
 https://www.uludagsozluk.com/k/orhan-gencebay/ orhan bence gay kardeş
 https://www.uludagsozluk.com/k/mustafa-kemal-in-itleri/&w=bg bkz fenerin itleri
 https://www.uludagsozluk.com/k/orhan-gencebay-%C4%B1n-m%C3%BCthi%C5%9F-canl%C4%B1-performans%C4%B1/ kardel en dinle
