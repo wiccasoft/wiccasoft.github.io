@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz tayyipi siklemeyince tengir budun doğanın bozulması
 https://www.uludagsozluk.com/k/bek%C3%A7i-maa%C5%9F%C4%B1/&w=bg zuahahahah
 https://www.uludagsozluk.com/k/annesi-laz-babas%C4%B1-bo%C5%9Fnak-biri-t%C3%BCrk-olur-mu/&w=bg
 https://www.uludagsozluk.com/e/42797512/ bkz hayallerde yaşıyor bazı ibneler 
