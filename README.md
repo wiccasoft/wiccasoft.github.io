@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz selonun huaweye akıl vermesi
+https://www.youtube.com/watch?v=Hfye5B91HB4 bkz selonun huaweye akıl vermesi
 https://www.youtube.com/watch?v=OKApmrgpA_U bekiroğlu ifşa asdfasdasda
 bkz gözleri tayyip şeklinde gülen homonun güldürmesi asffsfasfsdfsdfsd
 bkz gözleri tayyip şeklinde gülen suratın i.tatlıseks ifşa araması
