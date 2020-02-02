@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular zuahahhahahahaha
 https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg orhan bencegay kardeş
 https://www.youtube.com/watch?v=FPqoKFGkSTM
 https://eksisozluk.com/olgun-efendi-sakin-yakisikli-erkek--6348929?a=popular bkz trabzonlu sakin erkek
