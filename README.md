@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlanın mervelerde kalmaya gitmesi
 bkz bekir bozdağın aslı bekiroğlana yürümesi
 bkz aslı diyarberkioğlanın beyin yakan kürt sevgilisi
 bkz aslı diyarbekiroğlanın kürdüm ne var demesi
