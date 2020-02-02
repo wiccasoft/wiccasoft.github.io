@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz ruhi çenet abinin sakal ektirecem demesi
 bkz eylül öztürk abinin saçını sarıya boyaması
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
 https://www.uludagsozluk.com/k/irem-derici-nin-meleklere-hakaret-etmesi/
