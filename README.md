@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz safkan türklerin üstün ırk olduğu gerçeği
 bkz annesi kürt babası oç olan türk oğlu türk
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
 https://www.uludagsozluk.com/k/en-sevdi%C4%9Finiz-%C3%BC%C3%A7-%C5%9Fark%C4%B1c%C4%B1/ 
