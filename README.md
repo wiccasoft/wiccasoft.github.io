@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz tengir budun doğanın esra erola çıkanlara verdiği ibretlik ayarlar
 bkz tengir budun doğanın cehalete savaş açması
 bkz tayyipin apple ın fişini çekmesi
 bkz fatih tezcanın imamoğlu tweet atar diye pusuda beklemesi
