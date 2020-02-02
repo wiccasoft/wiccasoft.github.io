@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/sevgilim-bana-%C3%A7ok-k%C4%B1rg%C4%B1n-ne-yapmal%C4%B1y%C4%B1m/&w=bg hassiktir ibne
 https://www.uludagsozluk.com/e/42797658/ zıklağ beeğ kankağ izleyelim
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ izleyelim bütün türküyü izlesin
 https://www.uludagsozluk.com/k/yengesine-a%C5%9F%C4%B1k-olup-abisini-%C3%B6ld%C3%BCren-diyarbak%C4%B1rl%C4%B1/&w=bg 
