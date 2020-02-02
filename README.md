@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/askerlik-yapan-suriyeli/
 https://www.uludagsozluk.com/k/hekimo%C4%9Flu-vs-mucize-doktor/&w=bg
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ 
 -->
