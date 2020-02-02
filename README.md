@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/trabzonlulara-laz-demek/ bkz laz ziyanın laz daşşakları
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reisssssssss
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz ziyanın daşşaklarını çıkarığ masaya vurması
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziya nın daşşakları
