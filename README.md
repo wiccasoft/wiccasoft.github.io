@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg üşüyoruz reis
 https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz orhan gencebay
 bkz orhan gence bayın tayyip şerefine konser vermesi
 bkz müslüm gencebay beyonce hanım aşkı
@@ -12,7 +13,6 @@ bkz orhan bencegayin tayybin göt deliğini yalaması
 bkz orhan bencegayin komonada kıyafeti giyip tayyip diye bağırması
 bkz orhan bencegay in tayyip yalakalığı
 bkz orhan bencega yin gay olduğu itiraf etmesi 
-
 -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
