@@ -1,4 +1,5 @@
 <!--
+bkz aslı diyarbekroğlu vs dücünün düdüoğlu
 bkz türklerin güldüren komik isim ve soyisimleri
 bkz bübüne bümbiüoğülu vs bübüv vüvüvoülu
 bkz dücane cündioğlu vs dübüne dümbüoğlu
