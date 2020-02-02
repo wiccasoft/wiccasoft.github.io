@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/homofobikleri-toplumdan-d%C4%B1%C5%9Flamak/ bkz uludagsözlük
 bkz müjdat gezen ve metin akpınar
 bkz musa anter vs yaşar kemal
 bkz alpaslan türkçe vs fettullah gülen
