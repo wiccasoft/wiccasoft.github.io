@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+bkz kendi smartphone işletim sistemini yazıp kafa dinlemek
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun hile yapması
 bkz mustafa kemalin itleri vs trabzon aslanları
 https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
