@@ -1,4 +1,5 @@
 <!--
+bkz gavatsaray vs salatabahçe
 bkz bekiroğlu aslı vs amınoğlu bekir
 bkz bekir aslıoğlu vs aslı bekiropğlu
 bkz aslı bekiroğlu vs bekir aslıoğlu
