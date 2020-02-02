@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+https://twitter.com/zokoranntekmesi zuhahahaha
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenersaray vs geybahçe
 bkz ruhi çenet abi testeredeki adam benzerliği
 bkz ruhi çenet abi neden sakal bırakmıyor sorunsalı
