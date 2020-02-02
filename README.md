@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz şiwan perwer rte  ibo düeti
+bkz şiwan perwer rte ibo düeti
 bkz akp nin apple ın fişini çekmesi
 https://www.uludagsozluk.com/k/akp-den-tekmeyi-yemi%C5%9F-libo%C5%9Flar/
 bkz mazhar fuat özkanın barışması
