@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz gözleri tayyip şeklinde gülen homonun güldürmesi
+bkz gözleri tayyip şeklinde gülen homonun güldürmesi asffsfasfsdfsdfsd
 bkz gözleri tayyip şeklinde gülen suratın i.tatlıseks ifşa araması
 bkz organbencegayin çıplak ifşasını bekleyen homolar
 https://www.uludagsozluk.com/k/homoseks%C3%BCelim-diye-ba%C4%9F%C4%B1ran-insanlar/ bkz gözleri tayyip diye gülen surat
