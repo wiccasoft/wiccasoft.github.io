@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+bkz mazhar fuat özkanın barışması
 bkz eylül öztürkün kusma pozuyla verdiği haber
 bkz ferdi tayfurun orhan bencegay beni dinleyin demesi
 bkz hasan mezarcının vernal ekinoksta güncelleme atacam demesi
