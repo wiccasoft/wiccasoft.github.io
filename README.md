@@ -5,8 +5,7 @@ bkz vedat mürüçü vs bekiroğlu
 bkz bekir bozdağ vs bekiroğlu
 bkz musa anter vs muhsin yazıcıoğlan
 https://www.uludagsozluk.com/k/musa-anter/&w=bg üşüyoruz reisssssss
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/&w=gd  irdelenmeli
-https://www.uludagsozluk.com/k/orhan-gencebay/ bkz adam mıdır
+https://www.uludagsozluk.com/k/orhan-gencebay/  adam mıdır
 bkz laz ziyanın imamoğluna damatttttttttttt demesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-sevi%C5%9Fmek/&w=bg bkz adam gibi adamsa neden olmasın
