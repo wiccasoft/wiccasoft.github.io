@@ -1,4 +1,5 @@
 <!--bkz aslı diyarbekroğlu vs diyarbekirli travesti nihal 
+bkz yeşilyoldaki arapın zencilere küfretmesi
 https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular tıklağ -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
