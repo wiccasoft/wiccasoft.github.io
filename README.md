@@ -1,4 +1,5 @@
 <!-- 
+bkz orhan gecebayın tayyip dertler benim saray senin olsun demesi
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg üşüyoruz reis
 https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz orhan gencebay
 bkz orhan gence bayın tayyip şerefine konser vermesi
