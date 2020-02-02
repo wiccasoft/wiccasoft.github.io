@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz zokaranın emre belezoğlanı yerde tekmeleyip siggi git abilerin gelsin demesi
 bkz younes belhanda nın fenere gömdüğü gol sonrası attığı takla
 bkz bekir bozdağın bekiroğlana verdiği ayar
 bkz süleyman soylunun soyumuz kıpçaklara dayanır açıklaması
