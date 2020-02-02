@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 <!-- 
+https://www.uludagsozluk.com/e/42793666/
 https://www.milliyet.com.tr/cadde/galeri/olay-iddia-sonrasi-asli-bekiroglundan-aciklama-geldi-6134762
 https://www.sozcu.com.tr/hayatim/magazin-haberleri/asli-bekiroglu-sizdirilan-fotograflarin-ardindan-ilk-aciklamayi-yapti/ 
 -->
