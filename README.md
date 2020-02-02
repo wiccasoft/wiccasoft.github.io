@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/annesi-laz-babas%C4%B1-bo%C5%9Fnak-biri-t%C3%BCrk-olur-mu/&w=bg
 https://www.uludagsozluk.com/e/42797512/ bkz hayallerde yaşıyor bazı ibneler 
 https://www.uludagsozluk.com/k/sevgilim-bana-%C3%A7ok-k%C4%B1rg%C4%B1n-ne-yapmal%C4%B1y%C4%B1m/&w=bg
 https://www.uludagsozluk.com/k/askerlik-yapan-suriyeli/
