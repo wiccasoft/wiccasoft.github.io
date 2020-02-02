@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+bkz ruhi çenetin testeredeki adam olması
 ya lan sö y le me göz le rin e l a çin ki
 https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ zuahahhaha yaran başlıklar
 https://www.youtube.com/watch?v=Hfye5B91HB4 selocanın kapsama alanı
