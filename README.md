@@ -3,9 +3,11 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/sevgilim-bana-%C3%A7ok-k%C4%B1rg%C4%B1n-ne-yapmal%C4%B1y%C4%B1m/&w=bg
 https://www.uludagsozluk.com/k/askerlik-yapan-suriyeli/
 https://www.uludagsozluk.com/k/hekimo%C4%9Flu-vs-mucize-doktor/&w=bg
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ 
+https://www.uludagsozluk.com/k/yengesine-a%C5%9F%C4%B1k-olup-abisini-%C3%B6ld%C3%BCren-diyarbak%C4%B1rl%C4%B1/&w=bg
 -->
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
