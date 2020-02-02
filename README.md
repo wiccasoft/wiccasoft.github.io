@@ -4,7 +4,6 @@
 
 <!-- 
 bkz ersun yanalın alper potuku dövmesi
-bkz mustafa ata cünün ülkesinde herkeş ifade ediy
 bkz mustafa ata cücünün fenerli olması
 bkz zokaranın mevzu trabzonmuş demekki fenere iyi koymuşum demesi
 bkz ali koçun ersunun kulağını çekip hani mevzu fenerse gerisi teferruattı ibnenin evladı demesi
