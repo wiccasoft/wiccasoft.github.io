@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ niklere bak hizaya gel
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziya nın daşşakları
 https://www.uludagsozluk.com/k/ne-lezbiyeni-ne-gayi-top-o-top/ bkz erkekliğini göstermeyen top
 https://www.uludagsozluk.com/e/42799096/ bkz laz ziyanın karahanlıyı taşşaklarıyla tokatlayacağı versus
