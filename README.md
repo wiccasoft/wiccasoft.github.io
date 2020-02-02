@@ -2,6 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+bkz akp nin apple ın fişini çekmesi
+https://www.uludagsozluk.com/k/akp-den-tekmeyi-yemi%C5%9F-libo%C5%9Flar/
 bkz mazhar fuat özkanın barışması
 bkz eylül öztürkün kusma pozuyla verdiği haber
 bkz ferdi tayfurun orhan bencegay beni dinleyin demesi
