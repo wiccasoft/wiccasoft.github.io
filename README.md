@@ -1,4 +1,5 @@
 <!--
+bkz orhan bencegay vs ferdi bencegaydeğil
 bkz müjdat gezen ve metin akpınar
 bkz musa anter vs yaşar kemal
 bkz alpaslan türkçe vs fettullah gülen
