@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz paylaştığım rte resmini yırtan kamalcı
 bkz holly şirk koşiyler izleyelim efenim
 bkz şaka maka oh my rte holly shit
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-ya%C5%9F%C4%B1n-28-olmas%C4%B1/ 
