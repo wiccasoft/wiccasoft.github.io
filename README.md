@@ -4,6 +4,7 @@
 
 <!--
 bkz olm ben sizin köye bağlı değilim
+https://www.uludagsozluk.com/k/g%C3%BCr%C3%BClt%C3%BC-yapt%C4%B1-bahanesiyle-%C3%B6ld%C3%BCr%C3%BClen-gen%C3%A7/
 bkz türklerle kürtlerin hayallerde yaşadığı gerçeği
 https://www.uludagsozluk.com/e/42797512/ bkz hayallerde yaşıyor bazı ibneler 
 https://selia.uludagsozluk.com/ bkz yetkli bi pembişko abiye benziyo 
