@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+https://www.youtube.com/watch?v=MH6okUrzEJM
 bkz ak lgbt lilerin güldürmesi
 bkz kemalin itlerine döşediğimiz boru
 bkz trabzonlu olmayanların biraz oç olması
