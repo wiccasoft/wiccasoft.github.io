@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz fenerbahçeye döşediğimiz boru
 bkz ruhi çenetin videolarında testere filminde gibi hissetmek
 bkz ya lan sö y le me göz le rin çe kik çin ki
 https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ zuahahhaha yaran başlıklar
