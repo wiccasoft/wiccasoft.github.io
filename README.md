@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz nebşehirlilerin süper olması
-bkz adanlıların oç olması
+bkz fatih terimin adanalı olması
 https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg bkz oçları olmaları
 bkz gözlerini kısıp senin ananı sikerim bakışı atan erkek
 https://www.uludagsozluk.com/k/%C3%A7ekik-g%C3%B6zl%C3%BC-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz serdar ortaç
