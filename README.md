@@ -1,4 +1,5 @@
 <!-- 
+bkz fatih terim vs laz ziya
 bkz fatih terim vs fatih portakal
 bkz vedat mürüçü vs bekiroğlu
 bkz bekir bozdağ vs bekiroğlu
