@@ -1,5 +1,5 @@
 <!--
-bkz orhan bence gay vs ferdi bencegaydeğil
+bkz orhan bencegay vs ferdi bencegaydeğil
 bkz bekiroğlu vs vedat mürüçü
 bkz hasana şaş vs ahmet çakar
 bkz beyaz futbol vs ak futbol
