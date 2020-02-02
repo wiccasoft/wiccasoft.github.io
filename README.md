@@ -4,7 +4,7 @@
 
 <!-- 
 bkz ruhi çenetin videolarında testere filminde gibi hissetmek
-ya lan sö y le me göz le rin e l a çin ki
+bkz ya lan sö y le me göz le rin çe kik çin ki
 https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ zuahahhaha yaran başlıklar
 https://www.youtube.com/watch?v=Hfye5B91HB4 selocanın kapsama alanı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-izmir-gibi-y%C3%B6netece%C4%9Fiz/
