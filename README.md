@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-- 
-bkz bekiroğlunun pr kasması
+https://www.youtube.com/watch?v=cF4C4llQZaw
+bkz bekiroğlunun 2. jlo vakası olduğu gerçeği
 bkz bekiroğlunun appledan aldığı gizli reklam anlaşması
 bkz şaka maka bekiroğlunun iyi icloud reklamı yapması
 bkz bekiroğlunun icloud kurbanıyım demesi
