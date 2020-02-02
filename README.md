@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz ali koçun ersunun kulağını çekip hani mevzu fenerse gerisi teferruattı ibnenin evladı demesi
 bkz gözleri tayyip şeklinde gülen suratın oğlum gel tayyip amcana sevdirim seni demek
 bkz gözleri tayyip şeklinde gülen suratın bok gibi kokan türbanlı annesini kimsenin istememesi
 bkz gözleri tayyip şeklinde gülen surata babalık yapmak
