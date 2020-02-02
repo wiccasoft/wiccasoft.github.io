@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 https://www.youtube.com/watch?v=EjJiAL4Zobg bkz laz ziyanın barona raconu kesmesi
 https://www.youtube.com/watch?v=c7IoBRRBiX8 laz ziya vs baron harahanlı
 https://www.uludagsozluk.com/e/42799053/ adam mıdır sorunsalı
