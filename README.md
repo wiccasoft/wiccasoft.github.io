@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz eylül öztürk abinin saçını sarıya boyaması
+https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
+https://www.uludagsozluk.com/k/irem-derici-nin-meleklere-hakaret-etmesi/
 https://www.uludagsozluk.com/k/%C3%BCniversite-okuyan-k%C4%B1z/&w=bg bunun emcüğü kabarır olm
 https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1n%C4%B1n-%C3%B6nemi/ okumadım kardeş
 bkz hep aynı isimlere entry girmek
