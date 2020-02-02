@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis
 https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz tayyip
 https://www.youtube.com/watch?v=MhPz5PNLdoM  tayyip anamın üstünde yakalansa orospuluk anamdadır
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/&w=bg
