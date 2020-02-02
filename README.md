@@ -1,5 +1,5 @@
 <!-- 
-bkz ibrahim tatlııseks daşşağı  vs orhan gencbay daşşağı
+bkz ibrahim tatlıseks daşşağı  vs orhan gencebay daşşağı
 https://www.uludagsozluk.com/k/orhan-gencebay/ adam mıdır gay midir sorunsalı
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 https://www.youtube.com/watch?v=EjJiAL4Zobg bkz laz ziyanın barona raconu kesmesi
