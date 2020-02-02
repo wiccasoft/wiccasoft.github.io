@@ -1,4 +1,5 @@
 <!--
+bkz aslı diyarbekroğlu kürt üm diye bağıran bir isim
 bkz aslı diyarbekroğlu vs dücünün düdüoğlu
 bkz türklerin güldüren komik isim ve soyisimleri
 bkz bübüne bümbiüoğülu vs bübüv vüvüvoülu
