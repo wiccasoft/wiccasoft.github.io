@@ -2,26 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!-- 
-bkz ersun yanalın alper potuku dövmesi
-bkz mustafa ata cücünün fenerli olması
-bkz zokaranın mevzu trabzonmuş demekki fenere iyi koymuşum demesi
-bkz ali koçun ersunun kulağını çekip hani mevzu fenerse gerisi teferruattı ibnenin evladı demesi
-bkz gözleri tayyip şeklinde gülen suratın oğlum gel tayyip amcana sevdirim seni demek
-bkz gözleri tayyip şeklinde gülen suratın bok gibi kokan türbanlı annesini kimsenin istememesi
-bkz gözleri tayyip şeklinde gülen surata babalık yapmak
-bkz gözleri tayyip şeklinde gülen suratın pentagonu tayyipe şikayet etmesi
-bkz gözleri tayyip şeklinde gülen suratı çaycı olarak işe alıp sevap işlemek
-bkz gözleri tayyip şeklinde gülen suratın tayyipin kankası ibodan alt dudak istemesi
-bkz gözleri tayyip şeklinde gülen surat ve kokan annesi
-bkz gözleri tayyip şeklinde gülen suratın türbanlı annesinin üstüne işiyen zenci
-bkz başörtülülüler çalışmasın aramızda para toplayalım adına vergi diyelim bedava yaşasınlar kampanyası
-bkz zokaranın başörtülü futbolcuları tekmelemesi
-bkz ersun yanalın mevzu fenerse gerisi teferruattır açıklaması
-https://www.uludagsozluk.com/k/akp-linin-kula%C4%9F%C4%B1na-e%C4%9Filip-vergi-demek/ lol 
-https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/&w=gd
-bkz türbanlı  polis maaşları zamlansın kampanyası-->
-
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](shadow/Screenshot_2020-01-28_15-18-26.png)]( https://www.youtube.com/watch?v=zqCB8uB5bXY )
