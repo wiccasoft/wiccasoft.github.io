@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
-bkz imamoglu köfte köfteci yusuf
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg bir realite
 bkz türklerin firmalarına ismi ya da soyisimlerini koyma sebebi
 bkz sevdiceğin telfona sevdicek diye kaydeden erkek
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg 
