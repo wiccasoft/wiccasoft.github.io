@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reisssssssss
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg bkz koşmuyo olm
 https://www.uludagsozluk.com/e/42799027/ eywalla arab esintileri estirmiysek ne mutlu bize
 https://www.uludagsozluk.com/k/itici-s%C3%B6zl%C3%BCk-kad%C4%B1nlar%C4%B1/ bkz annem
