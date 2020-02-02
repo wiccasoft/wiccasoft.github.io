@@ -1,4 +1,5 @@
 <!--
+bkz ahmet çakar vs erman toroğlu
 bkz fatih terim vs fatih portakal
 bkz orhan bencegay vs ferdi bencegaydeğil
 bkz müjdat gezen ve metin akpınar
