@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
 bkz mesihim mesih değilim demeyecek olması hilesi
 https://www.youtube.com/watch?v=j5JcKkE1g60 madam haklı amk
 https://twitter.com/zokoranntekmesi zuhahahaha
