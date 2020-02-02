@@ -9,6 +9,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekiroğlu ifşa sonucu apple türkiye satışlarının çakması
 bkz bekir bozdağın bekiroğlunu arayıp iyi reklam kastın ha kerata demesi
 bkz bekiroğlunun bekir bozdağ babam demesi
 bkz sezgin tanrıkulu nun faruk k ya incilicce öğretmesi
