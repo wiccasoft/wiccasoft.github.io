@@ -4,6 +4,7 @@
 
 <!-- 
 bkz akp nin apple ın fişini çekmesi
+https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ izleyelim bütün türküyü izlesin
 https://www.uludagsozluk.com/k/bek%C3%A7i-maa%C5%9F%C4%B1/&w=bg zuahahahah
 https://www.uludagsozluk.com/k/annesi-laz-babas%C4%B1-bo%C5%9Fnak-biri-t%C3%BCrk-olur-mu/&w=bg
 https://www.uludagsozluk.com/e/42797512/ bkz hayallerde yaşıyor bazı ibneler 
