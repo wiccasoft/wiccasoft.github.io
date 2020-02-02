@@ -1,7 +1,10 @@
 
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
-<!-- https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ eylül abi naptın ya  hayranınım abi -->
+<!-- 
+https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
+eylül abi naptın ya bensiz takılıyosun abi  
+https://www.uludagsozluk.com/k/foto%C4%9Fraflar%C4%B1n-alt%C4%B1na-ooo-bizsiz-mi-yazan-tip/&w=bg-->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
