@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlu vs bekir amın oğlu
 bkz farid farjad vs feridun düzağaç
 bkz şiwan perwer vs rte vs ibo
 bkz orhan bencegay vs ferdi bence gay değil
