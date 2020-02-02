@@ -1,5 +1,5 @@
 <!-- 
-bkz orhan gencebayın komando kıyafeti giyip tayyipe katılması
+bkz orhan gencebayı nbaşörütülere rexona kullanın demesi
 bkz laz ziyanın daşşakları vs hıncal uluçun daşşakları
 bkz ibrahim tatlıseks daşşağı  vs orhan gencebay daşşağı
 https://www.uludagsozluk.com/k/orhan-gencebay/ adam mıdır gay midir sorunsalı
