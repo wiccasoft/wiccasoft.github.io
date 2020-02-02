@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz holly şirk koşiyler
+bkz holly şirk koşiyler izleyelim efenim
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-ya%C5%9F%C4%B1n-28-olmas%C4%B1/ şaka maka 41 olmam
 bkz aslı bekir oğlanın aslolan fenerbahçedir açıklaması
 bkz trabzonda başörtülülere işeyen dayı izleyelim holly shit
