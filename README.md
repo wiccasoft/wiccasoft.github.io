@@ -1,4 +1,5 @@
 <!--
+bkz bekir bozdağ vs aslı bekiroğlu
 bkx yılmaz özdiloğlu vs yılmaz güneyoğlu
 bkz aslı diyarbekiroğlu vs dücane kürtoğlu
 bkz abdulrahim albayrak vs berat albayrak
