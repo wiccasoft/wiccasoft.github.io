@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/yerli-ve-milli-helikopter-d%C3%BC%C5%9F%C3%BCr%C3%BCc%C3%BC/
 https://twitter.com/zokoranntekmesi 
 -->
 
