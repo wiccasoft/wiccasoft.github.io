@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz gözleri tayyip şeklinde suratın türbanlı annesinni üstüne işeyen zenci
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg
 https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/
 https://www.uludagsozluk.com/k/yerli-ve-milli-helikopter-d%C3%BC%C5%9F%C3%BCr%C3%BCc%C3%BC/
 https://twitter.com/zokoranntekmesi 
