@@ -1,7 +1,6 @@
-<!-- 
-bkz belhandanın fatih terime yaptığı hareket
+<!--
 bkz belhanda vs ciguli
-bkz fatih terim vs feguli
+bkz loris karı vs feguli
 bkz orhan gecebay vs laz ziya
 bkz fatih terim vs laz ziya
 bkz fatih terim vs fatih portakal
