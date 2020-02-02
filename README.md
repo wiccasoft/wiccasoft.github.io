@@ -9,6 +9,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz faruk kaymakçının işin kaymağı bitti demesi
 bkz bekiroğlunun xiomiden alacağı reklam teklifi
 https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
 bkz 2 şubat 2020 bekirin oğluna apple ı yasaklaması
