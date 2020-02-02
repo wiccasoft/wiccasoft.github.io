@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz bekioğlunun paylaştığı direk dansı vidyosu
+bkz bekiroğlunun bekir gillerdeniz demesi
+bkz bekiroğlunun paylaştığı direk dansı vidyosu
 bkz ali koçun baba parası değil dede parası yiyorum demesi
 bkz alper potukun asıl türkler hunlar açıklması
 https://www.youtube.com/watch?v=OKApmrgpA_U
