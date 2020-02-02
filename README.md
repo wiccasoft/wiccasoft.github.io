@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz ersun yanalın alper potuku dövmesi
 bkz mustafa ata cünün ülkesinde herkeş ifade ediy
 bkz mustafa ata cücünün fenerli olması
 bkz zokaranın mevzu trabzonmuş demekki fenere iyi koymuşum demesi
