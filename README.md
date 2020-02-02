@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz benim damarlarımda akan asil türk kanı var diyen çocuk
 bkz benim baba türk annede türk türk uluyum diyen çocuk
 bkz annesi türk babası türk olan çocuk vs annesi kürt babası zarap olan çocuk
 bkz babası kürt annesi arap olan çocuk
