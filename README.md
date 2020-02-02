@@ -1,4 +1,5 @@
 <!-- 
+bkz orhan gence bayın tayyip şerefine konser vermesi
 bkz müslüm gencebay beyonce hanım aşkı
 bkz gayz nin beni ferdi tayfurla kıyaslamayın demesi
 bkz orhan bencegay beyonce aşkı
