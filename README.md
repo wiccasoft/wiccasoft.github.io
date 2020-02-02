@@ -8,6 +8,7 @@
 
 <!-- 
 bkz bekiroğlunun pr kasması
+bkz bekiroğlunun appledan aldığı para
 bkz şaka maka bekiroğlunun iyi icloud reklamı yapması
 bkz bekiroğlunun icloud kurbanıyım demesi
 https://www.youtube.com/watch?v=TFsmUqJuZO8 
