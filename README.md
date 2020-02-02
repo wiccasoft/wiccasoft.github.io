@@ -1,4 +1,5 @@
 <!--
+bkz telelfon kullanmayan erkek vs sadece façebuk kullanan erkek
 bkz façebok instabok twttebok whatta bok kullanmayan erkek
 bkz diyarbarkılı travesti nilay vs aslı bekiroğlu
 bkz aslı diyarbekirlioğlu vs diyarbakırlı travesti nilay
