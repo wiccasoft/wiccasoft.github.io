@@ -5,7 +5,7 @@
 bkz first thing first stop my pussy famous 
 https://www.uludagsozluk.com/e/42793666/ 
 evet ben bekiroğlu sorunlarınız yanıtlıyoyum
-https://www.uludagsozluk.com/e/42793632/ bkz telefon kullanmadıpı için sikimde olmayan tavsiyeler
+https://www.uludagsozluk.com/e/42793632/ bkz telefon kullanmadığım için sikimde olmayan tavsiyeler
 evet genşler faruk k taklidi isteyen varsa youtube sörç faruk k 
 evet genşler başka sorusu olan yoksa ekşiye geçip ali palabıyık taklidi yapacam
 https://www.uludagsozluk.com/e/42793471/ 95 deil 97 de üniye girdim bubam bekir 2 sene erken yazmış
