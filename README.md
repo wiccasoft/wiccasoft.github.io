@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+bkz mesihim mesih değilim demeyecek olması hilesi
 https://www.youtube.com/watch?v=j5JcKkE1g60 madam haklı amk
 https://twitter.com/zokoranntekmesi zuhahahaha
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 
