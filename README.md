@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz kemalitlerin sanki biraz it sürüsü olması
 bkz kırıkkalelilerin sanki biraz kırık olması
 https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg ananın amı gibi
 https://www.uludagsozluk.com/k/geni%C5%9F-omuzlu-m%C3%BChendis-20-k%C4%B1z-siken-erkek/ annen yanımda oç
