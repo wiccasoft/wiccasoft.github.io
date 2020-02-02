@@ -4,8 +4,7 @@
 
 <!-- 
 bkz mustafa kemalin itleri vs trabzon aslanları
-https://www.uludagsozluk.com/k/mustafa-kemal-in-itleri/&w=bg 
-https://www.uludagsozluk.com/k/dhkp-c/&w=bg 
+https://www.uludagsozluk.com/k/trabzona-bir-ter%C3%B6rist-giremez-bir-de-fenerli/&w=gd
 bkz elle tututulur icraat istiyoruz
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg adını ver aşko
 bkz herşeyi bırakıp futbol klübüb satın alıp itlerle muhattap olmak
