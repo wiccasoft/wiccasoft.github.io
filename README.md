@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz recep tayyip erdoğanın götün yiyosa büyük israil i engelle demesi
+bkz recep tayyip erdoğanın götün yiyosa büyük israil projesini engelleyin demesi
 bkz bekiroğlanın büyüyüp yaşıtlarına entry girdirmesi
 https://www.uludagsozluk.com/k/ilave-tv-muhabiri/&w=bg bkz büyüyünce ahsen tv muhabiri olacak çocuk
 bkz bekiroğlanaın şaka mamak çocuğum yaşında olması
