@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%A7ekik-g%C3%B6zl%C3%BC-t%C3%BCrk-erke%C4%9Fi/&w=bg bkz serdar ortaç
 bkz paylaştığım rte resmini yırtan kamalcı
 bkz holly şirk koşiyler izleyelim efenim
 bkz şaka maka oh my rte holly shit
