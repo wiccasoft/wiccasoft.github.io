@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+https://www.uludagsozluk.com/k/s%C4%B1rr%C4%B1-sak%C4%B1k-%C4%B1n-atat%C3%BCrk%C3%A7%C3%BClere-it-s%C3%BCr%C3%BCs%C3%BC-demesi/&w=bg
 https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg ananın amı gibi
 https://www.uludagsozluk.com/k/geni%C5%9F-omuzlu-m%C3%BChendis-20-k%C4%B1z-siken-erkek/ annen yanımda oç
 https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
