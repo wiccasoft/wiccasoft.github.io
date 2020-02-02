@@ -4,6 +4,7 @@
 
 <!-- 
 bkz holly şirk koşiyler
+bkz allah yıltı recep tayyi perdoğan hüloğğğğğğğğğğğğ
 https://www.youtube.com/watch?v=wB1LsAt1omI tengir budunun iyice delirmesi
 bkz tengir budun doğanın türkiyeyi amerika sanması
 bkz tengir budun doğanın desti izdivaç taksim dayıya verdiği ayar
