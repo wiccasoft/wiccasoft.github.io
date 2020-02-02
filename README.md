@@ -2,38 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!--
-bkz kırşehirlilerin adam gibi adam olması
-bkz enes abinin saçını sarıya boyaması
-bkz ata cücünün ölürken götüme türkler pamuk soksun demesi
-bkz eylül öztürk kim amk ergeni
-https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
-bkz ruhi çenetin sakalları niye çıkmıyor sorunsalı
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet-in-yeni-%C3%A7in-videosu/ 
-bkz ruhi abi gel gözünün çapağını yiyem
-bkz ali koçun ersunu soyunma odasında tekme tokat dövmesi
-bkz ruhi çenetin testeredeki adama benzemesi
-bkz kemalitlerin kemalin arkasında it gibi kalması
-bkz kemalitlerin sanki biraz it sürüsü olması
-bkz kırıkkalelilerin sanki biraz kırık olması
-https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg ananın amı gibi
-https://www.uludagsozluk.com/k/geni%C5%9F-omuzlu-m%C3%BChendis-20-k%C4%B1z-siken-erkek/ annen yanımda oç
-https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
-https://www.youtube.com/watch?v=MH6okUrzEJM bkz gözleri tayyip şeklinde gülen surata sahip çıkıyoruz
-bkz ak lgbt lilerin güldürmesi
-bkz kemalin itlerine döşediğimiz boru
-bkz trabzonlu olmayanların biraz oç olması
-bkz yüzde yüz yerli ve milli oç larının güldürmesi
-https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg
-bkz kobe ryantın helikopterini düşüren %100 yersiz ve millisiz helikopter düşürücü
-https://www.uludagsozluk.com/k/yerli-ve-milli-helikopter-d%C3%BC%C5%9F%C3%BCr%C3%BCc%C3%BC/ 
-bkz gözleri tayyip şeklinde suratın bunların daha iyi günleri olması
-bkz gözleri tayyip şeklinde suratın türbanlı annesinni üstüne işeyen zenci
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-%C3%BClkesinde-herkes-kendisini-ifade-ediyor/&w=bg
-https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/
-https://www.uludagsozluk.com/k/yerli-ve-milli-helikopter-d%C3%BC%C5%9F%C3%BCr%C3%BCc%C3%BC/
-https://twitter.com/zokoranntekmesi 
--->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
