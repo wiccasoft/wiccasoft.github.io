@@ -1,4 +1,5 @@
 <!--
+bkz bekir diyarbekroglu vs bakirdayaroğlu
 bkz bekirdiyarbekr oğlu vs aslı diyarbekroğlu
 bkz bekir aslıoğlu vs aslı bekiroğlu
 bkz aslı bekiroğlu vs bekir aslıoğlu
