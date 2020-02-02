@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/travestilerden-dayak-yiyen-adam/&w=bg
 bkz anasının amıoğlu vs yeter daha doğurmayın ananının amı artık ağlu
 bkz dübünü dündüoğlu vs cüdane cüncüoğlu
 bkz bübüne bümbiüoğülu vs bübüv vüvüvoülu
