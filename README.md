@@ -1,6 +1,5 @@
 <!--
-https://www.uludagsozluk.com/k/facebook-instagram-whatsap-twitter-%C4%B1-olmayan-erkek/&w=bg
-bkz telefon kullanmayan erkek vs aslı bekiroğlu
+bkz façebok instabok twttebok whatta bok kullanmayan erkek
 bkz diyarbarkılı travesti nilay vs aslı bekiroğlu
 bkz aslı diyarbekirlioğlu vs diyarbakırlı travesti nilay
 bkz farid farjadoğlu vs feridun düzoğlu
