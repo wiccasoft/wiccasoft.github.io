@@ -6,7 +6,7 @@
 bkz kemalin itlerine döşediğimiz boru
 bkz trabzonlu olmayanların biraz oç olması
 https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg
-bkz kobe ryantın helikopterini düşüren yerli ve milli helikopter düşürücü
+bkz kobe ryantın helikopterini düşüren %100 yersiz ve millisiz helikopter düşürücü
 https://www.uludagsozluk.com/k/yerli-ve-milli-helikopter-d%C3%BC%C5%9F%C3%BCr%C3%BCc%C3%BC/ 
 bkz gözleri tayyip şeklinde suratın bunların daha iyi günleri olması
 bkz gözleri tayyip şeklinde suratın türbanlı annesinni üstüne işeyen zenci
