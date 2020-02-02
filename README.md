@@ -5,7 +5,7 @@
 <!-- 
 bkz holly şirk koşiyler
 bkz aslı bekir oğlanın aslolan fenerbahçedir açıklaması
-bkz fatih tezcanın tengir buduna cahil olmayan bi ikimiz kaldık azizim demesi
+bkz fatih tezcanın kamalcılarla entelektüel muhabbete girmesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-abdullah-%C3%B6calan-sevgisi/
 bkz recep tayyip erdoğan fişini çekti  allah yapacak
 bkz recep tayyip erdoğanın apple ın fişini çekmesi
