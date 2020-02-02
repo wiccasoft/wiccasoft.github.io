@@ -1,4 +1,5 @@
 <!--
+bkz fegulü vs ciguli
 bkz aslolan bekiroğlu vs vedat merüçoğlu
 bkz orhan bencegay vs ferdi bencegaydeğil
 bkz bekiroğlu vs vedat mürüçü
