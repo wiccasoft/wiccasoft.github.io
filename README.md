@@ -1,4 +1,6 @@
 <!--
+bkz anansının amıoğlu vs anansının amı artık aoğlu
+bkz dübünü dündüoğlu vs cüdane cüncüoğlu
 bkz aslı diyarbekroğlu kürt üm diye bağıran bir isim
 bkz aslı diyarbekroğlu vs dücünün düdüoğlu
 bkz türklerin güldüren komik isim ve soyisimleri
