@@ -8,6 +8,7 @@
 
 <!-- 
 bkz bekiroğlunun pr kasması
+bkz 3 gün önce bekiroğlunun kimse tanımıyorken herkesin tanıması
 bkz bekiroğlunun icloud kurbanıyım demesi
 https://www.youtube.com/watch?v=TFsmUqJuZO8 
 https://www.uludagsozluk.com/k/iki-y%C4%B1ld%C4%B1r-cinsel-hayat%C4%B1m-yok/ 
