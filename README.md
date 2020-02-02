@@ -1,4 +1,5 @@
 <!-- 
+bkz gayz nin beni ferdi tayfurla kıyaslamayın demesi
 bkz orhan bencegay beyonce aşkı
 bkz orhan bencegayin başörtülülere koyuyosunuz rexona kullanın demesi 
 https://www.uludagsozluk.com/k/orhan-gencebay/ bencegay 
