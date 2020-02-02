@@ -3,13 +3,14 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz huaweye yazdığım işletim sistemine tayyip ismin vermem
+
 bkz tayyipin apple ın fişini çekmesi
 bkz fatih tezcanın imamoğlu tweet atar diye pusuda beklemesi
 bkz zokaranın avrasya tünelinin motorlarını ben yaptım demesi
 https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/  izleyelim 
 https://www.youtube.com/watch?v=MhPz5PNLdoM zuahhahahahaha
+bkz huaweye yazdığım işletim sistemine tayyip ismini vermem
 -->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
