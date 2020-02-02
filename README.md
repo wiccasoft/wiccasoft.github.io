@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/k%C3%BCrd%C3%BCm-e%C5%9Fcinselim-ne-var-ayol/&w=bg
 https://www.uludagsozluk.com/k/homofobikleri-toplumdan-d%C4%B1%C5%9Flamak/ bkz uludagsözlük
 bkz müjdat gezen ve metin akpınar
 bkz musa anter vs yaşar kemal
