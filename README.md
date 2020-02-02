@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/&w=bg
 https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglim
 bkz ibrahim talıseksin tayyip benim kankam demesi bu adama dokunana sikerim demesi
 bkz orhan gecebayın tayyip dertler benim saray senin olsun demesi
