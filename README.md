@@ -1,4 +1,5 @@
 <!--
+bkx yılmaz özdiloğlu vs yılmaz güneyoğlu
 bkz aslı diyarbekiroğlu vs dücane kürtoğlu
 bkz abdulrahim albayrak vs berat albayrak
 bkz allahın adem le havvayı affetmesi
