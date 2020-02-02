@@ -1,4 +1,5 @@
 <!--
+bkz farid farjadoğlu vs feridun düzoğlu
 bkz yusuf güney ve orhan gencebayoğlu
 bkz yusuf güney vs aslı bekiroğlu
 bkz farid farjad vs yusuf güney
