@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 <!-- 
+bkz stop my pussy famous ayol
 evet ben bekiroğlu sorunlarınız yanıtlıyoyum
 https://www.uludagsozluk.com/e/42793471/ 95 deil 97 bubam bekir 2 sene erken yazmış
 https://www.uludagsozluk.com/e/42793666/
