@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz gözleri tayyip şeklinde gülen surata babalık yapmak
 bkz gözleri tayyip şeklinde gülen suratın oğlum gel tayyip amcana sevdirim seni demek
 bkz gözleri tayyip şeklinde gülen suratın pentagonu tayyipe şikayet etmesi
 bkz gözleri tayyip şeklinde gülen suratı çaycı olarak işe alıp sevap işlemek
