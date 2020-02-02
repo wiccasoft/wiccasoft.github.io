@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz bekiroğlanaın şaka mamak çocuğum yaşında olması
 bkz bekiroğlanın büyüyünce direk dansı yapacam demesi
 bkz zokaranın kamalcı belezoğlanı yerde tekmeleyip siggi git abilerin gelsin demesi
 bkz younes belhanda nın fenere gömdüğü gol sonrası attığı takla
