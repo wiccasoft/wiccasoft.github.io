@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz zokaranın başörtülü futbolcuları tekmelemesi
 bkz ersun yanalın mevzu fenerse gerisi teferruattır açıklaması
 https://www.uludagsozluk.com/k/akp-linin-kula%C4%9F%C4%B1na-e%C4%9Filip-vergi-demek/ lol 
 https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/&w=gd
