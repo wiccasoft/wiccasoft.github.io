@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+https://www.uludagsozluk.com/e/42797512/ hayallerde yaşıyor bazı ibneler
 https://selia.uludagsozluk.com/ bkz yetkli bi pembişko abiye benziyo 
 bkz türkler üstün ırksa niye herşeyi ithal ediyorlar sorunsalı
 bkz türklerin üstün ırk olması
