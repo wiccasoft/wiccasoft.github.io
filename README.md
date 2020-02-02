@@ -5,6 +5,7 @@
 <!-- 
 https://www.youtube.com/watch?v=OKApmrgpA_U
 bkz bekir bozdağın bekiroğluna verdiği ayar
+https://www.uludagsozluk.com/k/akp-linin-kula%C4%9F%C4%B1na-e%C4%9Filip-vergi-demek/
 bkz recep tayyip erdoğanın götün yiyosa büyük israil projesini engelleyin demesi
 bkz zokaranın belezoğlanı yerde tekmeleyip siggi git abilerin gelsin demesi
 bkz younes belhanda nın fenere gömdüğü gol sonrası attığı takla
