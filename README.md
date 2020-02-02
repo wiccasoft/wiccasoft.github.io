@@ -1,5 +1,5 @@
 <!--
-bkz anansının amıoğlu vs yeter daha doğurmayın ananının amı artık ağlu
+bkz anasının amıoğlu vs yeter daha doğurmayın ananının amı artık ağlu
 bkz dübünü dündüoğlu vs cüdane cüncüoğlu
 bkz bübüne bümbiüoğülu vs bübüv vüvüvoülu
 bkz dücane cündioğlu vs dübüne dümbüoğlu
