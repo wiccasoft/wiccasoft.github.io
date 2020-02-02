@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+https://www.uludagsozluk.com/k/norm-ender-bo%C5%9F-bir-insand%C4%B1r/&w=bg adam mekanın sahibi olm
 https://www.uludagsozluk.com/e/42798280/ eywallah bro
 https://www.uludagsozluk.com/k/ajdar-vs-demet-akal%C4%B1n/&w=bg zuahahha
 bkz yeşilyokdaki arabın zencileşmek istemiyorum demesi -->
