@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+ya lan sö y le me göz le rin e l a çin ki
 https://www.uludagsozluk.com/k/kayak-yap-ama-ayak-yapma-ekrem/ zuahahhaha yaran başlıklar
 https://www.youtube.com/watch?v=Hfye5B91HB4 selocanın kapsama alanı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-izmir-gibi-y%C3%B6netece%C4%9Fiz/
