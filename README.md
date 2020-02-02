@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz yeşilyoldaki arap
+https://www.uludagsozluk.com/k/kral-faysal/&w=bg oç arap
 https://www.uludagsozluk.com/e/42793517/ bkz dinleyelim efenim
 https://www.youtube.com/watch?v=XjFh4Jtvupo oç adanalı
 bkz çemişgezeklilerin süper olması bkz ben
