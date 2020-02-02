@@ -2,6 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 <!-- 
+bkz ersun yanal ın zokaraya ananı sikecem bakış atması
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
 eylül abi naptın ya bensiz takılıyosun abi  
 https://www.uludagsozluk.com/k/foto%C4%9Fraflar%C4%B1n-alt%C4%B1na-ooo-bizsiz-mi-yazan-tip/&w=bg-->
