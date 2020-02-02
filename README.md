@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz yüzde yüz yerli ve milli oç larının güldürmesi
 bkz kemalin itlerine döşediğimiz boru
 bkz trabzonlu olmayanların biraz oç olması
 https://www.uludagsozluk.com/k/adanal%C4%B1lar%C4%B1n-biraz-%C5%9Fey-olmas%C4%B1/&w=bg
