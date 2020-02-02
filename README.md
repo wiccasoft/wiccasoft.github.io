@@ -4,6 +4,7 @@
 
 <!-- 
 bkz elle tututulur icraat istiyoruz
+bkz herşeyi bırakıp futbol klübüb satın alıp itlerle muhattap olmak
 https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular bkz kamlın itlerinin işi
 https://www.uludagsozluk.com/k/sevgilisini-telefonuna-ad%C4%B1yla-kaydeden-erkek/&w=bg
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-elle-tutulur-icraat%C4%B1n%C4%B1n-olmamas%C4%B1/
