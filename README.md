@@ -1,4 +1,5 @@
 <!-- 
+bkz laz ziyanın imamoğluna damatttttttttttt demesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-sevi%C5%9Fmek/&w=bg bkz adam gibi adamsa neden olmasın
 bkz orhan gencebayı nbaşörütülere rexona kullanın demesi
