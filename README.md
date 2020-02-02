@@ -1,4 +1,4 @@
-
+<!-- https://www.uludagsozluk.com/k/orhan-gencebay/ bence gay -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
