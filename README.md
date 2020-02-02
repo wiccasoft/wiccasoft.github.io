@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz huaweye yazdığım işletim sistemine tayyip ismin vermem
 bkz tayyipin apple ın fişini çekmesi
 bkz fatih tezcanın imamoğlu tweet atar diye pusuda beklemesi
 bkz zokaranın avrasya tünelinin motorlarını ben yaptım demesi
