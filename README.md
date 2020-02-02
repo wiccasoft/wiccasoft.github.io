@@ -1,4 +1,5 @@
 <!--
+bkz yılmaz özdil vs yılmaz güney bkz ikisi de kürt dikkatiniz çekerim
 bkz müjdat gezen vs yılmaz güney
 bkz yılmaz özdil vs yılmaz erdoğan
 bkz belhanda ve fegulü
