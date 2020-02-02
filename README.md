@@ -3,9 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz mucize doktor dizisindeki böcek suratlı ergenin güldürmesi
 https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
-bkz tengür budun doğan tayyipsiz kalırsa nolacak sorunsalı
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/  izleyelim 
 https://www.youtube.com/watch?v=MhPz5PNLdoM zuahhahahahaha
 -->
