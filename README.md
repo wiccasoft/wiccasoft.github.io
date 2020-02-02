@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/&w=gd  irdelenmeli
 https://www.uludagsozluk.com/k/orhan-gencebay/ bkz adam mıdır
 bkz laz ziyanın imamoğluna damatttttttttttt demesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
