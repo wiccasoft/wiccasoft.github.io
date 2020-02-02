@@ -1,4 +1,5 @@
 <!--
+bkz dücane cünioğlu vs dübüne dümbüoğlu
 bkz seninle öyle olmayalım be kardeş ben böyle iyiyim diyen erkek
 bkz façebuk u sadece farmville için kullanırım diyen erkek
 bkz aslı diyarbekiroğlu vs vedat mürüçoğlu
