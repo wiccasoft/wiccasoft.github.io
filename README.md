@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=Hfye5B91HB4 selocanın kapsama alanı
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-yi-izmir-gibi-y%C3%B6netece%C4%9Fiz/
 bkz gözleri tayyip şeklinde gülen homonun ortalarda gözükmemesi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ar%C4%B1zal%C4%B1-biri-olmas%C4%B1/ ay bulaşma kız arıza walla
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-ar%C4%B1zal%C4%B1-biri-olmas%C4%B1/ 
 bkz kemalitin özgürce homoseksüellilk yapabildiği ülke
 https://www.uludagsozluk.com/k/homoseks%C3%BCellerin-%C3%A7o%C4%9Funun-sap%C4%B1k-olmas%C4%B1/
 bkz kemalin itlerinin trabzonspor taraftarı öldürebildiği özgür ülke
