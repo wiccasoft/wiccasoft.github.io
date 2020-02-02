@@ -9,6 +9,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekiroglunun numarasının ifşa olması
 bkz bekiroğlunun vodafone hat kullandığı iddaları
 bkz bekiroğlunun telefonu şarza takması
 https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
