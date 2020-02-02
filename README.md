@@ -1,4 +1,6 @@
 <!-- 
+https://www.uludagsozluk.com/k/hz-muhammed/&w=bg üşüyoruz hazretlim
+https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz tayyip
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg üşüyoruz reisssssssss
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reissssssssss
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reisssssssss
