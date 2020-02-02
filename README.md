@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz gözleri tayyip şeklinde gülen suratun türbanlı annesinin üstüne işiyen zenci
+bkz gözleri tayyip şeklinde gülen suratın türbanlı annesinin üstüne işiyen zenci
 bkz başörtülülüler çalışmasın aramızda para toplayalım adına vergi diyelim bedava yaşasınlar kampanyası
 bkz zokaranın başörtülü futbolcuları tekmelemesi
 bkz ersun yanalın mevzu fenerse gerisi teferruattır açıklaması
