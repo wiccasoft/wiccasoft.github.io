@@ -1,4 +1,5 @@
 <!--
+bkz belhanda ve fegulü
 bkz yılmaz ozdil yılmaz güney
 bkz belhanda vs ciguli
 bkz loris karı vs feguli
