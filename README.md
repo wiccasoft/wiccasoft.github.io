@@ -7,22 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz bekirin oğluna telefonu yasaklaması
-bkz bekirin oğlum yapmış bi ifşa demesi
-bkz bekiroğlunun bekirin oğluyum demesi
-bkz bekiroğlunun ios iyidir iyi demesi
-bkz bekiroğlunun ios tan android güncelleme yapması
-bkz bekiroğlunun ios la android arasında kalması
-bkz bekiroğlunun ios a geçecem demesi
-bkz bekiroğlunun android iostan iyi demesi
-bkz bekiroğlunun iphone x 16 meğapizel mi alsam demesi
-bkz bekiroğlunun babasının xiomi iyidir eyi demesi
-bkz bekiroğlunun window 95 kullanması
-bkz bekiroğlunun bunun 8 megepiğzelliğinden var mı diye sorması
-bkz bekiroğlunun ben de huaweye geçecem demesi
-bkz bekir bozdağın bende huawei var sorun yok demesi
-bkz xiomi vs android vs win xp
-bkz aslı bekiroğlunun androide geçecem demesi
+bkz 2 .şubat 2020 bekirin oğluna telefonu yasaklaması
 https://www.youtube.com/watch?v=Hfye5B91HB4 bkz selonun huaweye akıl vermesi
 https://www.youtube.com/watch?v=OKApmrgpA_U bekiroğlu ifşa asdfasdasda
 bkz gözleri tayyip şeklinde gülen homonun güldürmesi asffsfasfsdfsdfsd
