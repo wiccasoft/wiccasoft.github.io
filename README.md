@@ -5,6 +5,7 @@
 bkz first thing first stop my pussy famous 
 https://www.uludagsozluk.com/e/42793666/ 
 evet ben bekiroğlu sorunlarınız yanıtlıyoyum
+evet genşler başka sorusu olan yoksa ekşiye geçip ali palabıyık taklidi yapacam
 https://www.uludagsozluk.com/e/42793471/ 95 deil 97 de üniye girdim bubam bekir 2 sene erken yazmış
 https://www.milliyet.com.tr/cadde/galeri/olay-iddia-sonrasi-asli-bekiroglundan-aciklama-geldi-6134762
 https://www.sozcu.com.tr/hayatim/magazin-haberleri/asli-bekiroglu-sizdirilan-fotograflarin-ardindan-ilk-aciklamayi-yapti/ 
