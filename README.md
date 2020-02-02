@@ -1,4 +1,5 @@
 <!--
+bkz beyaz futbol vs ak futbol
 bkz ahmet göte çakar vs rasim göte çakar
 bkz rasim ozan kütahlyakı vs hıncal uluç
 bzk ahmet çakar vs rasim ozan kütahyalı
