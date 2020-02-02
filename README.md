@@ -1,4 +1,5 @@
 <!-- 
+bkz bekiroğlundan ses çıkmaması
 bkz bekiroğlu vs vedat mürüçü
 bkz laz ziya vs polat alemdar
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/&w=gd  irdelenmeli
