@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz kırşehirlilerin adam gibi adam olması
 bkz enes abinin saçını sarıya boyaması
 bkz ata cücünün ölürken götüme türkler pamuk soksun demesi
 bkz eylül öztürk kim amk ergeni
