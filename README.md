@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz sonra döndüm ve dedim ki iyi trabzonluyum
 bkz zokaranın fenerin derdi ben olmuşum demek ki iyi koymuşum demesi
 bkz fenerbahcenin paylaştığı trabzon iyi koydu bize palaşımı
 bkz imamoğlunun başörtülüler kokuyo demesi
