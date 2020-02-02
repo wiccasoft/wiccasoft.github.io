@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular
+https://eksisozluk.com/1-subat-2020-fenerbahcenin-verilmeyen-golu--6348141?a=popular
+https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
+https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-itici-kul%C3%BCb%C3%BC/
 bkz benim damarlarımda akan asil türk kanı var diyen çocuk
 bkz benim baba türk annede türk türk uluyum diyen çocuk
