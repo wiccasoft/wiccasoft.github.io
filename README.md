@@ -1,4 +1,6 @@
 <!-- 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/%C3%A7atal-f%C4%B1rlat%C4%B1ld%C4%B1-diye-haini-ba%C5%9F-tac%C4%B1-yapan-%C3%BClke/
 https://www.uludagsozluk.com/e/42799082/ ateşini yolla bana
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg ah be yiğdim yer demir gök bakır yğidim
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ izleyelim efenim
