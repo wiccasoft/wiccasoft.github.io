@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz müslüm baba şiwan baba düeti
 bkz ferdi tayfurun orhan bence gay açıklması
 bkz şiwan perwer rte ibo düeti
 bkz akp nin apple ın fişini çekmesi
