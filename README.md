@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/ izleyelim efenim
 https://www.uludagsozluk.com/k/wesley-sneijder/&w=bg ah be yiğidim negzel fener ağlama diyiydin
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg hazretlim muhammedim ben sana git demedim diyemedim
 https://www.uludagsozluk.com/k/ya%C5%9Far-kemal/&w=bg yaşar yaşıyomusun yiğidim
