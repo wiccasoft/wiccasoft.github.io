@@ -9,7 +9,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz faruk kaymakçının avrupa eleşkeleri eyü  eyü demesi
+bkz faruk kaymakçının inciltereyi attılar bizi alacalar demesi
 bkz faruk kaymakçının işin kaymağı bitti sıra avrupa birliğine kafayı sokmada demesi
 bkz faruk kaymakçının bekiroğlanaın amı kaymak gibiymiş demesi
 bkz bekiroğlunun xiomiden alacağı reklam teklifi
