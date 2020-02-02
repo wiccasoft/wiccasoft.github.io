@@ -1,4 +1,5 @@
 <!--
+bkz abdulrahim albayrak vs berat albayrak
 bkz allahın adem le havvayı affetmesi
 bkz aseksüel olmanın faydaları
 https://www.uludagsozluk.com/k/zevk-sahibi-erkeklerin-biseks%C3%BCel-olmas%C4%B1/
