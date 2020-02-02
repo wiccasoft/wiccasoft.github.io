@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.youtube.com/watch?v=OKApmrgpA_U
+bkz bekir bozdağın bekiroğluna verdiği ayar
 bkz recep tayyip erdoğanın götün yiyosa büyük israil projesini engelleyin demesi
 bkz zokaranın belezoğlanı yerde tekmeleyip siggi git abilerin gelsin demesi
 bkz younes belhanda nın fenere gömdüğü gol sonrası attığı takla
