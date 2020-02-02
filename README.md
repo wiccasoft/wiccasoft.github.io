@@ -4,7 +4,8 @@
 
 <!-- 
 bkz holly şirk koşiyler izleyelim efenim
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-ya%C5%9F%C4%B1n-28-olmas%C4%B1/ şaka maka 41 olmam
+bkz şaka maka oh my rte holly shit
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-ya%C5%9F%C4%B1n-28-olmas%C4%B1/ 
 bkz aslı bekir oğlanın aslolan fenerbahçedir açıklaması
 bkz trabzonda başörtülülere işeyen dayı izleyelim holly shit
 https://www.uludagsozluk.com/k/trabzon-da-ba%C5%9F%C3%B6rt%C3%BCl%C3%BC-kad%C4%B1n-polise-hakaret-edilmesi/
