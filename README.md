@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!--bkz yeşilyoldaki arabın zenciler bizi arkamızdan vurdu demesi -->
+<!--
+bkz yeşilyoldaki arabın zenciler bizi arkamızdan vurdu demesi 
+bkz ireme dericinin araplar götümü yesin demesi -->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
