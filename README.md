@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!--
+bkz ata cücünün ölürken götüme türkler pamuk soksun demesi
 bkz eylül öztürk kim amk ergeni
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
 bkz ruhi çenetin sakalları niye çıkmıyor sorunsalı
