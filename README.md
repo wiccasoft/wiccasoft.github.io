@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz tengir budun doğanın türkiyeyi amerika sanması
 bkz tengir budun doğanın desti izdivaç taksim dayıya verdiği ayar
 bkz tengir budun doğanın esra erola çıkanlara verdiği ibretlik ayarlar
 bkz tengir budun doğanın cehalete savaş açması
