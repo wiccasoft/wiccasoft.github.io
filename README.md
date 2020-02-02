@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ bkz tayyip
 bkz serdar ortaçın orhan gencebaya yalak demesi
 https://www.uludagsozluk.com/k/ahmet-kaya-y%C4%B1-sevenlerin-%C5%9Ferefi/ 
 https://eksisozluk.com/2019-2020-sezonu-galatasarayi-yukselten-gizli-el--6349402?a=popular bkz tayyipin eli
