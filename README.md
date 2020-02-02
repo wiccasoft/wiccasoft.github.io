@@ -1,4 +1,5 @@
 <!--
+bkz ahmet göte çakar vs rasim göte çakar
 bkz rasim ozan kütahlyakı vs hıncal uluç
 bzk ahmet çakar vs rasim ozan kütahyalı
 bkz ahmet çakar vs alper potuk
