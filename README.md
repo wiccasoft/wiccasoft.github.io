@@ -3,6 +3,7 @@ bkz musa anter vs muhsin yazıcıoğlan
 bkz bekiroğlundan ses çıkmaması
 bkz bekiroğlu vs vedat mürüçü
 bkz laz ziya vs polat alemdar
+https://www.uludagsozluk.com/k/musa-anter/&w=bg üşüyoruz reisssssss
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/&w=gd  irdelenmeli
 https://www.uludagsozluk.com/k/orhan-gencebay/ bkz adam mıdır
 bkz laz ziyanın imamoğluna damatttttttttttt demesi
