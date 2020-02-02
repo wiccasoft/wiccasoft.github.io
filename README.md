@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-sevi%C5%9Fmek/&w=bg bkz adam gibi adamsa neden olmasın
 bkz orhan gencebayı nbaşörütülere rexona kullanın demesi
 bkz laz ziyanın daşşakları vs hıncal uluçun daşşakları
 bkz ibrahim tatlıseks daşşağı  vs orhan gencebay daşşağı
