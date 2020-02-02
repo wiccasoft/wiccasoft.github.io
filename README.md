@@ -1,4 +1,5 @@
 <!-- 
+bkz vedat mürüçü vs bekiroğlu
 bkz bekir bozdağ vs bekiroğlu
 bkz musa anter vs muhsin yazıcıoğlan
 https://www.uludagsozluk.com/k/musa-anter/&w=bg üşüyoruz reisssssss
