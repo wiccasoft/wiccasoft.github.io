@@ -1,4 +1,5 @@
 <!--
+bkz aseksüel olmanın faydaları
 https://www.uludagsozluk.com/k/zevk-sahibi-erkeklerin-biseks%C3%BCel-olmas%C4%B1/
 https://www.uludagsozluk.com/k/travestilerden-dayak-yiyen-adam/&w=bg
 bkz anasının amıoğlu vs yeter daha doğurmayın ananının amı artık ağlu
