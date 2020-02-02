@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+bkz türklerin yoğurt dışında dünyaya katkısı
+bkz kemalitlerin ürettiği tek bir şey olmaması
 bkz kemalitlerin en cahil kesim olduğu gerçeği
 https://www.uludagsozluk.com/k/sofiane-feghouli/&w=bg irdelenmeli
 bkz orhan baba sik bizi babaaaaaaaaaaa
