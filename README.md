@@ -6,22 +6,6 @@
 https://www.uludagsozluk.com/k/%C3%A7ekik-g%C3%B6zl%C3%BC-erkeklere-a%C5%9F%C4%B1k-t%C3%BCrk-k%C4%B1zlar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
 https://www.uludagsozluk.com/k/g%C3%BCr%C3%BClt%C3%BC-yapt%C4%B1-bahanesiyle-%C3%B6ld%C3%BCr%C3%BClen-gen%C3%A7/
-https://www.uludagsozluk.com/e/42797512/ bkz hayallerde yaşıyor bazı ibneler 
-https://selia.uludagsozluk.com/ bkz yetkli bi pembişko abiye benziyo 
-bkz türkler üstün ırksa niye herşeyi ithal ediyorlar sorunsalı
-bkz türklerin üstün ırk olması
-bkz türklerin takdir ettiği ezik ırklar
-https://www.uludagsozluk.com/k/askerlik-yapan-suriyeli/
-https://www.uludagsozluk.com/k/g%C3%BCl%C3%BCnce-g%C3%B6zleri-k%C4%B1s%C4%B1lan-erkek/&w=bg
-https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular
-https://eksisozluk.com/1-subat-2020-fenerbahcenin-verilmeyen-golu--6348141?a=popular
-https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
-https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular
-https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-itici-kul%C3%BCb%C3%BC/
-bkz benim damarlarımda akan asil türk kanı var diyen çocuk
-bkz benim baba türk annede türk türk uluyum diyen çocuk
-bkz annesi türk babası türk olan çocuk vs annesi kürt babası zarap olan çocuk
-bkz babası kürt annesi arap olan çocuk
 https://www.uludagsozluk.com/k/annesi-k%C3%BCrt-babas%C4%B1-t%C3%BCrk-olan-insan/&w=bg
 https://www.uludagsozluk.com/k/suudi-arabistan-da-ya%C5%9Fayan-m%C3%BCsl%C3%BCmanlar/&w=bg
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
