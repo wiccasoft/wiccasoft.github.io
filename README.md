@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F/&w=bg adamın karekökü domal desin domalırım
 bkz fenerbahçeye döşediğimiz boru
 bkz ruhi çenetin videolarında testere filminde gibi hissetmek
 bkz ya lan sö y le me göz le rin çe kik çin ki
