@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
 <!-- 
-bkz fatih tezcanın imamoğlu tweet atar diye pusuda beklemesş
 bkz tayyipin apple ın fişini çekmesi
+bkz fatih tezcanın imamoğlu tweet atar diye pusuda beklemesi
 bkz zokaranın avrasya tünelinin motorlarını ben yaptım demesi
 https://www.youtube.com/watch?v=j5JcKkE1g60 bkz gözleri tayyip şeklinde gülen surat
 https://www.uludagsozluk.com/k/allah-y%C4%B1kt%C4%B1-tayyip-erdo%C4%9Fan-yapacak/  izleyelim 
