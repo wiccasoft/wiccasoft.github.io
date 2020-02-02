@@ -1,4 +1,5 @@
 <!--
+bkz aslı bdiyarbekirlioğlu vs diyarbakırlı travesti nilay
 bkz farid farjadoğlu vs feridun düzoğlu
 bkz yusuf güney ve orhan gencebayoğlu
 bkz yusuf güney vs aslı bekiroğlu
