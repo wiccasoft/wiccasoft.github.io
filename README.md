@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
 <!-- 
+bkz kılıçtarolanın türkiyeyi izmir gibi yöneteceğiz açıklması
 https://www.youtube.com/watch?v=Hfye5B91HB4 
 bkz selonun muhalefete akıl vermesi
 bkz gözleri kemal şeklinde gülen surat
