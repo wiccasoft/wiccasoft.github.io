@@ -1,4 +1,5 @@
 <!--
+https://eksisozluk.com/1-subat-2020-fenerbahce-kafilesine-silah-cekilmesi--6349964?a=popular
 bkz bekir bozdağ vs aslı bekiroğlu
 bkx yılmaz özdiloğlu vs yılmaz güneyoğlu
 bkz aslı diyarbekiroğlu vs dücane kürtoğlu
