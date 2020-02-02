@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
 
-<!-- https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
+<!-- 
+https://eksisozluk.com/fenerbahcenin-kemalizmin-teminati-olmasi--6348973?a=popular
+https://eksisozluk.com/yil-olmus-2020-hala-futbol-kulubu-tutmak--6349120?a=popular
 futbol tuzu kuru orta sınıf vatandaş işidir. gelirini sağlama almış ve dünyayla ilgili dertlerini çözmüş. 
 kendisine zarar vermeyecek bir kavganın içinde yer almak istiyor. o isteğin de cevabı futbol.
 https://eksisozluk.com/istanbulda-oldurulen-trabzonspor-taraftari--6348979?a=popular
