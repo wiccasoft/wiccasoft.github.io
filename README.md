@@ -11,7 +11,7 @@
 <!--
 bkz bekiroğlunun xiomiden alacağı reklam teklifi
 https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use
-bkz 2 şubat 2020 bekirin oğluna telefonu yasaklaması
+bkz 2 şubat 2020 bekirin oğluna apple ı yasaklaması
 https://www.youtube.com/watch?v=Hfye5B91HB4 bkz selonun huaweye akıl vermesi
 https://www.youtube.com/watch?v=OKApmrgpA_U bekiroğlu ifşa asdfasdasda
 bkz gözleri tayyip şeklinde gülen homonun güldürmesi asffsfasfsdfsdfsd
