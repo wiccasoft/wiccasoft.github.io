@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekiroğlunun android iostan iyi demesi
 bkz bekiroğlunun iphone x 16 meğapizel mi alsam demesi
 bkz bekiroğlunun babasının xiomi iyidir eyi demesi
 bkz bekiroğlunun window 95 kullanması
