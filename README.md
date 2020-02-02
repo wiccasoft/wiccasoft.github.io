@@ -1,20 +1,7 @@
 
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.nytimes.com/2020/01/31/your-money/hacker-cybersecurity-protection-tips.html )
-<!-- 
-bkz first thing first stop my pussy famous 
-https://www.uludagsozluk.com/e/42793666/ 
-evet ben bekiroğlu sorunlarınız yanıtlıyoyum
-https://space.stackexchange.com/questions
-bkz deep turkish webteki ergenler niye entry giriyor sorunsalı
-bkz türk ergenler neden kod yazmak yerine entry girer irdelenmeli
-https://www.uludagsozluk.com/e/42793632/ bkz telefon kullanmadığım için sikimde olmayan tavsiyeler
-evet genşler faruk k taklidi isteyen varsa youtube sörç faruk k 
-evet genşler başka sorusu olan yoksa ekşiye geçip ali palabıyık taklidi yapacam
-https://www.uludagsozluk.com/e/42793471/ 95 deil 97 de üniye girdim bubam bekir 2 sene erken yazmış
-https://www.milliyet.com.tr/cadde/galeri/olay-iddia-sonrasi-asli-bekiroglundan-aciklama-geldi-6134762
-https://www.sozcu.com.tr/hayatim/magazin-haberleri/asli-bekiroglu-sizdirilan-fotograflarin-ardindan-ilk-aciklamayi-yapti/ 
--->
+
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](shadow/Screenshot_2020-01-28_15-18-26.png)]( https://www.youtube.com/watch?v=zqCB8uB5bXY )
