@@ -2,45 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 
-<!-- 
-bkz azer bülbül rte ibo düeti dinlerken titreme gelmesi
-https://www.uludagsozluk.com/k/en-sevdi%C4%9Finiz-%C3%BC%C3%A7-%C5%9Fark%C4%B1c%C4%B1/ müzlüm baba rte şiwan
-https://www.uludagsozluk.com/e/42797157/ eywallah hemşo 
-bkz irem dericinin götümdeki bokları yiyin demesi
-bkz şiwan perwer rte ibo izzet düeti
-bkz ruhi çenet abinin sakal ektirecem demesi
-bkz eylül öztürk abinin saçını sarıya boyaması
-https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
-https://www.uludagsozluk.com/k/irem-derici-nin-meleklere-hakaret-etmesi/
-https://www.uludagsozluk.com/k/%C3%BCniversite-okuyan-k%C4%B1z/&w=bg bunun emcüğü kabarır olm
-https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1n%C4%B1n-%C3%B6nemi/ okumadım kardeş
-bkz hep aynı isimlere entry girmek
-https://www.uludagsozluk.com/k/ahmet-altan/&w=bg mehmet altanın abisi
-https://www.uludagsozluk.com/k/zorbay-k%C3%BC%C3%A7%C3%BCk/ adam 92 liymiş beyler
-bkz şiwan perwer müslüm ibo ferdi baba düeti
-https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1n%C4%B1n-mesih-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
-https://www.uludagsozluk.com/e/42797230/ bkz bıyık sikmek
-https://www.uludagsozluk.com/k/zorbay-k%C3%BC%C3%A7%C3%BCk/ 92 doğumluymuş beyler
-bkz müslüm baba şiwan baba düeti
-bkz ferdi tayfurun orhan bence gay açıklması
-bkz şiwan perwer rte ibo düeti
-bkz akp nin apple ın fişini çekmesi
-https://www.uludagsozluk.com/k/akp-den-tekmeyi-yemi%C5%9F-libo%C5%9Flar/
-bkz mazhar fuat özkanın barışması
-bkz eylül öztürkün kusma pozuyla verdiği haber
-bkz ferdi tayfurun orhan bencegay beni dinleyin demesi
-bkz hasan mezarcının vernal ekinoksta güncelleme atacam demesi
-https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/
-bkz mesihim mesih değilim demeyecek olması hilesi
-https://www.youtube.com/watch?v=j5JcKkE1g60 madam haklı amk
-https://twitter.com/zokoranntekmesi zuhahahaha
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 
-bkz ruhi çenet abi testeredeki adam benzerliği
-bkz ruhi çenet abi neden sakal bırakmıyor sorunsalı
-bkz ersun yanal ın zokaraya ananı sikecem bakış atması
-https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/ 
-eylül abi naptın ya bensiz takılıyosun abi  
-https://www.uludagsozluk.com/k/foto%C4%9Fraflar%C4%B1n-alt%C4%B1na-ooo-bizsiz-mi-yazan-tip/&w=bg-->
 
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
 [![Image](shadow/Screenshot_2020-01-30_13-17-30.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
