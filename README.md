@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-- 
+<!--
+bkz bekiroğlunun iphone x 16 meğapizel mi alsam demesi
 bkz bekiroğlunun babasının xiomi iyidir eyi demesi
 bkz bekiroğlunun window 95 kullanması
 bkz bekiroğlunun bunun 8 megepiğzelliğinden var mı diye sorması
