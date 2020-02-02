@@ -1,5 +1,5 @@
 <!--
-bkz anansının amıoğlu vs anansının amı artık aoğlu
+bkz anansının amıoğlu vs yeter bdaha doğurmayın ananının amı artık aolu
 bkz dübünü dündüoğlu vs cüdane cüncüoğlu
 bkz aslı diyarbekroğlu kürt üm diye bağıran bir isim
 bkz aslı diyarbekroğlu vs dücünün düdüoğlu
