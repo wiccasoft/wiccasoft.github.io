@@ -1,5 +1,5 @@
 <!-- 
-bkz laz ziyanın daşşakları vs karahanlının daşşakları
+https://www.uludagsozluk.com/k/orhan-gencebay/&w=bg orhannn babaaaaaaaaaaaaaa gay bana babaaaaaaaa
 https://www.uludagsozluk.com/k/%C3%A7atal-f%C4%B1rlat%C4%B1ld%C4%B1-diye-haini-ba%C5%9F-tac%C4%B1-yapan-%C3%BClke/
 https://www.uludagsozluk.com/k/trabzonlulara-laz-demek/ bkz laz ziyanın laz daşşakları
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z/&w=bg üşüyoruz reisssssssss
