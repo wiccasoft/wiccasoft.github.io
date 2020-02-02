@@ -4,7 +4,7 @@
 
 <!-- 
 bkz holly şirk koşiyler
-bkz recep tayyip erdoğan fişini çekti wiccasoft yapacak
+bkz recep tayyip erdoğan fişini çekti  allah yapacak
 bkz recep tayyip erdoğanın apple ın fişini çekmesi
 bkz allah yıltı recep tayyip erdoğan hüloğğğğğğğğğğğğ
 https://www.youtube.com/watch?v=wB1LsAt1omI tengir budunun iyice delirmesi
