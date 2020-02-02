@@ -1,4 +1,5 @@
 <!--
+bkz aslı diyarbekiroğlu vs dücane kürtoğlu
 bkz abdulrahim albayrak vs berat albayrak
 bkz allahın adem le havvayı affetmesi
 bkz aseksüel olmanın faydaları
