@@ -1,4 +1,5 @@
 <!-- 
+bkz laz ziyanın daşşakları vs hıncal uluçun daşşakları
 bkz ibrahim tatlıseks daşşağı  vs orhan gencebay daşşağı
 https://www.uludagsozluk.com/k/orhan-gencebay/ adam mıdır gay midir sorunsalı
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
