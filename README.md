@@ -1,4 +1,5 @@
 <!--
+bkz bekiroğlanın beyin kanatan mervelerde kalcam demesi
 bkz aslı bekiroğlanın beyin kanatan belezoğlan yorumu
 bkz anam avradım olsun diyen forvetin fenere geçmesi len amq
 bkz kızın yanında vedat mürüq len amq diyemeyen oğlan
