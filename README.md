@@ -1,4 +1,5 @@
 <!--
+bkz sivas kangalı vs ankara çomarı
 bkz fatih portakal izlerken portakal yemek
 bkz erkan tan ın fatih portakldan daha seksi anlattığı gerçeği
 bkz foc tv fatih portakal yazınca bütün yayınların çıkması
