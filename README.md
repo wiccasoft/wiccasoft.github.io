@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz nonoş bekçilerin güldürmesi
 https://www.uludagsozluk.com/k/bek%C3%A7i-%C3%BCniformas%C4%B1-feti%C5%9Fi-olan-k%C4%B1zlar/
 https://www.uludagsozluk.com/k/amat%C3%B6r-k%C3%BCmenin-130-kiloluk-golc%C3%BCs%C3%BC/
 bkz facebook instagram twitter cia in fişleme aracı olduğunu yeni keşfeden ergen
