@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ülkeyi terketmek için güzel zamanların sonunda gelmesi
+bkz ülkeyi terketmek uygun koşulların sonunda oluşması
 https://www.youtube.com/watch?v=bZliovcpusI bkz islami usül helal köfte
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun tükürdüğü köfteler
 https://www.uludagsozluk.com/k/siyahi-erkeklerin-%C3%A7ekicili%C4%9Fi/&w=bg bkz siyahi müslim 
