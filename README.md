@@ -1,4 +1,5 @@
 <!--
+bkz taylor swift sadık çiftpınar aşk dedikoduları
 bkz aslı bekrioğlanın vedat mürükle parası için takılması
 bkx sadık çiftpınarın aslı bekiroğlana yürümesi
 bkz aslı bekiroğlunun aslolan fenerbahçe demesi
