@@ -1,10 +1,5 @@
 <!--
-bkz ali koç vs abrurrahim alyarrak
-bkz fenerbahçe vs galatsaray
-bkz sadık çiftpınar vs feguli
-bkz fenerbahçe vs falatsaray
-bkz ersun yanal vs fatih erim
-bkz fenerbahçe vs galatsaray
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansu fenerbahçe galatsaray savşaları
 https://www.uludagsozluk.com/k/galatasaray-vs-be%C5%9Fikta%C5%9F-vs-fenerbah%C3%A7e/&w=bg
 bkz polisin 5000 lira bekçinim 500 lira öğretmenin 10000 lira alması
