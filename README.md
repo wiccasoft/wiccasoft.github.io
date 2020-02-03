@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bhz ruhi çeneti türküyünü steve jobsı barış özacanın elon musk ı olması
 bkz aburrrahim albayrakın 3 müülyün yürü daha verelim alalım ronaldoyu demesi
 bkz müezzin maaşlarını kıskanan bekçiler
 bkz camide niye topğlaşıyoz lan diyen müslümanlar
