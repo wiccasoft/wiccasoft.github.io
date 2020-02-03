@@ -1,4 +1,5 @@
 <!-- 
+bkz merve bozbeyin beyin kanatan aslı bekiroğlu yorumu
 bkz aslı bekrioğlunun vedat mürüçüyüe yürümesi
 https://www.youtube.com/watch?v=_sDlTKgfUm0 zuahhahahaha
 bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç olduğu gerçeği
