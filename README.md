@@ -7,8 +7,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz arap turidte anam avradım olsun diyen ırkçı
-bkz arap turidte arap diyen denyo ırkçı
+bkzmünin tursite arap diyen ırkçı
+bkz arap turiste anam avradım olsun diyen ırkçı
+bkz arap turiste arap diyen denyo ırkçı
 bkz mümin tursite arap diyen faşist ırkçı
 bkz müminlerin apple sevdası
 bkz ırkçı türklerin samsung savdası
