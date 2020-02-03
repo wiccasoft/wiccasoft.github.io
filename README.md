@@ -1,5 +1,5 @@
 <!-- 
-bkz fatih mandalina 100.000 lira biz nie 4053 lira diyen çomar
+bkz fatih mandalina 100.000 lira biz nie 4053 lira diyen çomar :))))))))))))
 bkz memurlar.nette dönen beyin kanırtan geyik
 bkz örtmenler odasında okey attırmam diyen müdür yardımcısı
 bkz face de okey atarken amirin nabıyon cacık demesi
