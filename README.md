@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz instagramımı yaz amm arkadaşlarına söyleme tamam mı aşkım diyen kız
 bkz evlenin ortak instagram açalım m aşkım diyen kız
 bkz ya instagram ya annem diyen kzı
 bkz ya feghuli ya belhanda karar ver diyen kız
