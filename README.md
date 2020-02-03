@@ -8,7 +8,7 @@
 
 <!--
 https://www.youtube.com/watch?v=Ww5jScH4fXY ümmetin ırkçılığa karşı zaferi
-bkz türklerin dünayda cehalet kaynaklı artan ırkçılığa dur demesi
+bkz ümmeti müslimin dünayda cehalet kaynaklı artan ırkçılığa dur demesi
 https://www.youtube.com/watch?v=HZNYislM_RI irlandalı ırkçı
 bkz arap ırkçısı ümmetçi ergenlerin güldürmesi
 bkz araplara laf ettirmem diyen ırkçı
