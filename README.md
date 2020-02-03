@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ bkz anana ne diyeceğim ibnenin evladı
 bkz elon musk 50 milyar dolar len amq
 bkz ruhi çenetin türkiyenin steve jobsı  olması
 bkz barış özcanın türkiyenin elon muskı olması
