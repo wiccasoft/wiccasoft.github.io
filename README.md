@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demireri sütyensiz çıtır çıtır yenileceği gerçeği
 bkz ata demireri duvara yaslayıp  memiklerini delice ısırmak
 bkz ata demirerin memiklerini adamı delirtiği gerçeği
 bkz ata demirer memiklerini bi emdirse rahatlayacağı gerçeği
