@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ananın amı diyorum offf
 bkz uludaki ergenler ilk öğretime başlama dımı sorunsalı
 https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ bkz anana ne diyeceğim ibnenin sıçtığı
 bkz elon musk 50 milyar dolar len amq
