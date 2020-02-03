@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz adolf hitlerin idlibe saldırmama sebebi
 bkz adolf hitlerin türk ordusu islamın ordusu demesi
 bkz nihat özdemirin gs prim borcunun iyi kitledik haa demesi
 bkz rte nin adolf hitleri tokat mayağı yapıp müslüman yapması
