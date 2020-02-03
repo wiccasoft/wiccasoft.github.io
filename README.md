@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz rte nin  bekçilere facebook instagram twitter da gbt çekin emri vermesi
+bkz rte nin bekçilere facebook instagram twitter da gbt çekin emri vermesi
 bkz rte nin instagramı olmayan kızları tespit edin emri vermesi
 bkz rte nin s400 leri satıp ronaldoyu mu  alsak demesi
 bkz rusyanın keşke s500 leri bekleseydiniz ya demesi
