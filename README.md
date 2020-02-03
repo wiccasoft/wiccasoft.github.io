@@ -1,4 +1,5 @@
 <!--
+https://space.stackexchange.com/ bkz incide dönen geyik
 bkz merve bozbeyin beyin kanatan kına gecesi
 bkz bekiroğlanın beyin kanatan mervelerde kalcam yorumu
 bkz aslı bekiroğlanın beyin kanatan belezoğlan yorumu
