@@ -1,6 +1,5 @@
 <!--
-bkz bekir bozdağın aslı bekiroğlana fetöcü demesi
-bkz aslı berkioğlanın verdat mürükle parası için takılması
+bkz aslı bekrioğlanın vedat mürükle parası için takılması
 bkx sadık çiftpınarın aslı bekiroğlana yürümesi
 bkz aslı bekiroğlunun aslolan fenerbahçe demesi
 bkz aslı bekiroğlanın beyin akıtan mervelerde kanatacam yorumu
