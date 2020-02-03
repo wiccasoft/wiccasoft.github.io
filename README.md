@@ -1,4 +1,5 @@
 <!--
+bkz aslı berkioğlanın verdat mürükle parası için takılması
 bkx sadık çiftpınarın aslı bekiroğlana yürümesi
 bkz aslı bekiroğlunun aslolan fenerbahçe demesi
 bkz aslı bekiroğlanın beyin akıtan mervelerde kanatacam yorumu
