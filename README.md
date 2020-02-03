@@ -1,4 +1,5 @@
 <!--
+bkz memurların beyin yakan merve özbey kına gecesi yorumu
 bkz memurların çalışanların vergilerini yediği gerçeği
 bkz memurların beyin kanattığı gerçeği
 bkz ronaldonun beyin kanatan memurlar.net yorumu
@@ -10,7 +11,6 @@ bkz bahcelinin bekci 5000 benim niye 10000 demesi
 bkz ibb sekreternin araba ana avrat kayması
 bkz şöferin 5000 danışman yardımcısının 6000 alması
 bkz 1 şubat fenevbavce kafilesine saldıran bekçi
-https://eksisozluk.com/1-subat-2020-fenerbahce-kafilesine-silah-cekilmesi--6349964?a=popular
 bkz bekçinin 3 ay tatil bir miktar holosko para istemesi
 bkz ana avrat polise söven arabın yahalanması
 bkz ali koçun beyin kanatan vedat mürqü yorumu
