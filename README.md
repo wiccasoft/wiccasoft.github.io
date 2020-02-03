@@ -1,5 +1,6 @@
 <!--
-bkz ronaldonun beyin yakan memurlar.net yorumu
+bkz memurların beyin kanattığı gerçeği
+bkz ronaldonun beyin kanatan memurlar.net yorumu
 bkz ronaldo niye 5071  biz niye 4013 len amq
 bkz bahcelinin niye onun 5000 niye onun 10000 demesi
 bkz merve bozbeyin beyin kanatan kına gecesi
