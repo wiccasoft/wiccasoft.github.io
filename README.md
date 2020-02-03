@@ -1,4 +1,5 @@
 <!-- 
+bkz sadık çiftpınar alper potuk hayranıyım diyen sivasporlu erkek
 bkz anne tarafı hep sivasporludur diyen erkek
 bkz hanımdan dolayı erzurumsporlu yum diyen erkek
 bkz facebook instagram twitter ı arasıra kullanırım diyen erkek
