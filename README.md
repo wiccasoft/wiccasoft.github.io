@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin acle etmem papaz efendi ananız sikecem demesi
 https://ekitap.ktb.gov.tr/TR-81464/nutuk.html rte nin ikinci ata cüc olması
 bkz tayyibin tatlı üzerine mesir macunu yiyin azdırır demesi
 bkz mümin sevdiceğine bim talısı üzerine bi kilo künefe yediren mümine
