@@ -8,6 +8,7 @@
 
 <!--
 bkz tehlikenin farkında mısınız
+https://www.uludagsozluk.com/k/t%C3%BCrk-diyince-akla-m%C3%BCsl%C3%BCman-gelir/
 bkz facebooktan gbt bakan bekçinin yenge de kütr kütr müş demesi
 bkz facebook instagram twitterı olmayan terörist
 https://www.uludagsozluk.com/k/10-y%C4%B1l-esnafl%C4%B1k-yapana-bek%C3%A7i-yetkisi/
