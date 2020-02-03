@@ -1,4 +1,5 @@
 <!--
+bkz fenevbaceye ana avrat söven yahalanması
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg bkz hoplatacağı versus
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd
 https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular tıklağ
