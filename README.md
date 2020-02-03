@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin instagramı olmayan evlerin kızlarını tespit edin emri önergesini imzalaması
 bkz müezzin maaşlarını kıskanan bekçiler
 bkz rte nin bekçi maaşlarını muasır medeniyetler seviyesine çıkartacaz sözü vermesi
 bkz ata cününü cumhuriyetin bekçileri en asil duyguların bekçileridir sözü
