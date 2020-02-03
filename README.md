@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz eylül abinin kusma pozuyla şaka maka haber pozu atması
+https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/&w=bg
 bkz aslı bekiroğlanın beuyin kanırtan ronaldo yorumu
 bkz alecmi hagi mi ronaldo mu kankağğğğ
 bkz ronaldoyu hangi takım getirtir kankağ beeee
