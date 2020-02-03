@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünü cumhuriyetin bekçileri en asil duyguların insanıdır lafı
 bkz müjdat gezenin bekçi filminn izleyip bir kez daha cumhuriyetin bekçileri olduklarını anlamak
 bkz 3 şubar dünya bekçiler güününde bekçilerin üstüne işeyen ruh hastaları
 bkz türbanlı bekçiye ana avrat isöven adamın yahalanması adalata taslım adılması
