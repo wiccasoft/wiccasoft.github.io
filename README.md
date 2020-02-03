@@ -8,7 +8,6 @@
 
 <!--
 bkz enver paşanın götveren olduğu gerçeği
-bkz mareşal fevzi çakmakın atayız olduğu gerçeği
 bkz ata demirein atayız olduğu gerçeği
 bkz ata cücünün bekçide öle yan gelip yatmayacak amk lafı
 bkz ata cücünün elbet bi bi kaç kelle gidecek olacak canım okadar lafı
