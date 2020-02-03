@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://eksisozluk.com/ataturkun-ateist-oldugu-gercegi--5123432?a=popular bkz ata cünün pipisi
 bkz ata cücünün pispisinin sünnetsiz ve küçük olduğu iddaları
 https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular
 https://eksisozluk.com/c-ronaldoyu-turkiyeye-getirebilecek-kulup--6350081?a=popular bkz fenerbahçe
