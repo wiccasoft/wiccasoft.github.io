@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook instagram twitter ı olan ama saklayan erkek
 bkz facebook instagram twitter hepsi çok güzel ama benena diyen erkek
 bkz her yere telefon numaramı veririm diyen disiplinli erkek
 bkz facebook instagram twitter olmazsa olmazlarım diyen disiplinli erkek
