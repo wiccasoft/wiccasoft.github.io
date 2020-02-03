@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiropğlunun bi daha kürt erkekle pompiş yapmayacam demesi
 bkz aslı bekiroğlunun götünü internete atanları bekir bozdağa şikayet etmesi
 bkz şişman müslümanların erkek göt küçültme ameliyatına hazırlanması
 bkz aslı bekiroğlunun kürdüm ve götüm görüktü ne var  demesi
