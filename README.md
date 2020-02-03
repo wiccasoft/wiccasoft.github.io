@@ -1,4 +1,5 @@
 <!--
+bkz solitaire oynarken yorulan devlet memuru
 bkz devlete yeni vergi önerileri arabada 5 evde 15
 bkz devlet memurlarının para sayarken yoruluyoruz demesi
 bkz polis 5000 niye biz 4000 diyen gerizekalı devlet memuru
