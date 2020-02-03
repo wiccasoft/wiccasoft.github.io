@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz tehlikenin farkında mısınız
+https://vedat-minor-combo.uludagsozluk.com/ bkz tehlikenin farkında mısınız
 https://www.uludagsozluk.com/k/t%C3%BCrk-diyince-akla-m%C3%BCsl%C3%BCman-gelir/
 bkz facebooktan gbt bakan bekçinin yenge de kütr kütr müş demesi
 bkz facebook instagram twitterı olmayan terörist
