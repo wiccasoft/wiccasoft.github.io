@@ -1,4 +1,5 @@
 <!--
+bkz facebook instagram twitter olmadan bir hiçim diyen erkek
 bkz facebook instagram twitter iphone yeter bana diyen erkek
 bkz facebook instagram twitter olmadan hayat mı olur amk
 bkz facebook instagram twitter kullanmayan erkeği kelimelere sığdır
