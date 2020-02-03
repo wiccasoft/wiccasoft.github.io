@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz trabzonda türbanlı bekçinin üstüne işeyen ruh hastaları
 bkz bekçi 1 öküz hekim 1.5 öküz parası kazanıyo diye zırlayan klavye bebesi
 bkz 4 bekçi kellesi daha gitti diye zırlayan klavye bebeleri
 bkz bill gatesin bekçi mi olsaydım diye zırlaması
