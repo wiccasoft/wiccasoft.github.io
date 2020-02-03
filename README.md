@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-
-bkz michael jordan atayız olduğu gerçeği
+bkz michael jordan müslüman mıdır kankağğ hiç namaz kılarkene görmedim kankaaaaaaağ
+bkz michael jordan ın atayız olduğu gerçeği
 bkz muhammed salah mı siker ronaldo mu kankağğğğ sence heee hangisi he
 bkz muhammed salah atayız mıdır kankağ
 bkz ronaldo atayız mı dır kankağ sence
