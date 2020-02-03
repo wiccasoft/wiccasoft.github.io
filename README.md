@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlunun beyin kanatan merve bozbey kına gecesi yorumu
 bkz aslı bekiroğlunun diyarbakırlı babası
 bkz aslı bekiroğlunun takıldığı elemanın diyarbakırlı çıkması
 bkz cimerin aslı bekiroğlunun hesabını incelemesi
