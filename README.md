@@ -1,4 +1,5 @@
 <!--
+bkz bahcelinin bekci 5000 benim niye 10000 demesi
 bkz ibb sekreternin araba ana avrat kayması
 bkz şöferin 5000 danışman yardımcısının 6000 alması
 bkz 1 şubat fenevbavce kafilesine saldıran bekçi
