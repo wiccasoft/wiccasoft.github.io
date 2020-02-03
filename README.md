@@ -1,4 +1,6 @@
 <!--
+https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu/&w=bg bekir olalım
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg fener olalım
 bkz memurlar.ner öğretmen maaşı 8000 lira olsun kampanyasına imza atıyoruz
 bkz öğretmen maaşları 8000 lira olsun kampanyası
 bkz fenerli öğretmenlerin 5000 lira galatsaraylı öğretmenleri 4500 lira alması
