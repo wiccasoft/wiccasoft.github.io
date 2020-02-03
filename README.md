@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekçi olmak için sıraya giren fakirler
 bkz rte nin bekçi maaşlarını sen sonu düzeltecez sözü vermesi
 bkz akboyların bekçi üniformalarına bayılması
 bkz rte nin fakir halk ayaklanmasın diye bekçileri salması :)))))))
