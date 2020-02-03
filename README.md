@@ -1,4 +1,5 @@
-<!-- https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9Fl%C4%B1-insan/&w=bg bkz tinerci -->
+<!-- https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9Fl%C4%B1-insan/&w=bg bkz tinerci 
+https://www.uludagsozluk.com/e/42799473/ seninle şöyle parkalar aga nigi naga nigi he çaktın -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
 [![Image](shadow/Screenshot_2020-02-01_16-03-29.png)]( https://www.youtube.com/watch?v=TFsmUqJuZO8 )
