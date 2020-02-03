@@ -1,4 +1,6 @@
 <!--
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansu fenerbahçe galatsaray savşaları
+https://www.uludagsozluk.com/k/galatasaray-vs-be%C5%9Fikta%C5%9F-vs-fenerbah%C3%A7e/&w=bg
 bkz polisin 5000 lira bekçinim 500 lira öğretmenin 10000 lira alması
 bkz bekçinin 5000 lira  fegulini 2500 lira alması
 bkz abdulrahim albyarakın fener ol kampanyası düzenlemesi
