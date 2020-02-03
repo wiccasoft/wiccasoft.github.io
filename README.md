@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://eksisozluk.com/futbolcunun-adini-soylemeden-anlatmak--5802765
 https://eksisozluk.com/soylemesi-zevkli-futbolcu-isimleri--4943232
 bkz söylemesi zevk veren futbolcu isimleri
 bkz futbolcu isimlerinin hep alengirli olması
