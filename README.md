@@ -7,8 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz bakuninin rus ırkçısı sanan ergenler
-bkz daha cümle bile kuramayan ergenlerin anarşizm dersi vermesi
+bkz daha cümle bile kuramayan ergenlerin anarşizm dersi vermesi 
 bkz neyi sevip sevmeyeceğime karışan ırkçı
 bkz hangi ırktansın diye soran ırkçı
 bkz arap turiste bile derken arapları aşağılayan ırkçı
