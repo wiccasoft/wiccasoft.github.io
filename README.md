@@ -1,5 +1,5 @@
 <!--
-bkz ruhi çenetin türkiyenin  steve jobsı  olması
+bkz ruhi çenetin türkiyenin steve jobsı  olması
 bkz barış özcanın türkiyenin elon muskı olması
 https://www.youtube.com/watch?v=vUg0gGLowCg facebooktan hoplattığım eski kızlar
 bkz demeden yürünen kızın burası kasiy facebook dan yürü demesi
