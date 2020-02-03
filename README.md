@@ -1,7 +1,4 @@
 <!--
-bkz oç devlet memurlarının kendilerini kutsal sanmaları
-bkz devlet memurlarının hırsız oç ları oldukları gerçeği
-bkz oç memurlar yemesin diye vergi kaçırmak
 bkz memurların çalışanların vergilerini yediği gerçeği
 bkz memurların beyin kanattığı gerçeği
 bkz ronaldonun beyin kanatan memurlar.net yorumu
