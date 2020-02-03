@@ -1,4 +1,5 @@
 <!-- 
+bkz telefonu olmayan ama iyi niyetli erkek
 bkz telefon alırsam facebook instagram twitter hepsini kuracam diyen erkek
 https://www.youtube.com/watch?v=BV1RcLhMFYs ben doğuştan beşiktaşlıyım diyen erkek
 bkz beşiktaş maçlarını kaçırmam quaresmacıyım diyen erkek
