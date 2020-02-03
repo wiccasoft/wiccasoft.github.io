@@ -1,5 +1,5 @@
 <!--
-bkz polislerin gbtye facebooktan bakması
+bkz polislerin gbt ye facebooktan bakması
 bkz memurların beyin yakan merve özbey kına gecesi yorumu
 bkz memurların çalışanların vergilerini yediği gerçeği
 bkz memurların beyin kanattığı gerçeği
