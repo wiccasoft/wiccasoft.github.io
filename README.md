@@ -6,7 +6,9 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--bkz ata cücünün çükünün sünnetsiz olduğu gerçeği -->
+<!--bkz ata cücünün çükünün sünnetsiz olduğu gerçeği 
+https://eksisozluk.com/bekcinin-5071-tl-hekimin-6000-tl-maas-almasi--6350072?a=popular 
+bkz bekçi vs hekim -->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
