@@ -1,4 +1,5 @@
 <!--
+bkz şöferin 5000 danışman yardımcısının 6000 alması
 bkz 1 şubat fenevbavce kafilesine saldıran bekçi
 https://eksisozluk.com/1-subat-2020-fenerbahce-kafilesine-silah-cekilmesi--6349964?a=popular
 bkz bekçinin 3 ay tatil bir miktar holosko para istemesi
