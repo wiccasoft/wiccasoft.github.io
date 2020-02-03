@@ -1,4 +1,5 @@
 <!--
+bkz fenerbahçe vs galatsaray
 bkz sadık çiftpınar vs feguli
 bkz fenerbahçe vs falatsaray
 bkz ersun yanal vs fatih erim
