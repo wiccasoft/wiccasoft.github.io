@@ -8,6 +8,7 @@
 
 <!--
 bkz tehlikenin farkında mısınız
+https://www.uludagsozluk.com/k/10-y%C4%B1l-esnafl%C4%B1k-yapana-bek%C3%A7i-yetkisi/
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 bkz laz ziyanın testere necmiye sen kim oluyonda feguliyi satıyon demesi
 bkz seyfo dayının feguliyle s400 leri satalım s500 alalım önerisi
