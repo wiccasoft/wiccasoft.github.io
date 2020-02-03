@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demirerin memişlerimi beğenmiyosan söyle aşkım demesi
 bkz ata demirerin güldürecem seni aşkı söz bak bu sefer demesi
 bkz ata demirerin aşktosu için rejime başlaması
 bkz ata demirerin tamam aşkım güldürecem seni demesi
