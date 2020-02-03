@@ -8,8 +8,7 @@
 
 <!--
 bkz araplara laf ettirmem diyen ırkçı
-bkz anam avradım olsun diyen ırkçı
-bkz ana avrata arap diyen ırkçı
+bkz anam avradım olsun aaraplara dokandırmam diyen ırkçı
 bkz daha cümle bile kuramayan ergenlerin anarşizm dersi vermesi 
 bkz neyi sevip sevmeyeceğime karışan faşist
 bkz hangi ırktansın diye soran ırkçı
