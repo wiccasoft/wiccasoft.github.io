@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz böceklerin de çok dolaşması 
 bkz polislerin böcekleri zırt pırt araması
 bkz polsi üstünü arıyo diye zırlayan böcekler
 bkz 4 nekçi kellesi daha gitti diye zırlayan klavye bebeleri
