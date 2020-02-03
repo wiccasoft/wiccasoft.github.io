@@ -1,4 +1,5 @@
 <!--
+bkz merve bozbeyin niye onun 5000 niye onun 10000 demesi
 bkz merve bozbeyin beyin kanatan kına gecesi
 bkz bahcelinin beyin kanatın bekci maası hesabı
 bkz bahcelinin bekci 5000 benim niye 10000 demesi
