@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nni kemalitler daha ananızı sikecez raad olun demesi
 bkz açık geçen balerin kızı öldüren cengaverin iyi yaptığı gerçeği
 bkz rte nin  acele etme papaz efendi ananı sikecez daha demesi
 https://www.uludagsozluk.com/k/papaz-a-ananla-ili%C5%9Fkiye-girdim-g%C3%BCnah-%C3%A7%C4%B1kart-demek/&w=bg
