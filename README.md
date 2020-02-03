@@ -1,4 +1,5 @@
 <!-- 
+bkz galsatasaray fenerbahçe beşiktaş için göt veririm diyen erkek
 bkz facebook twitter instagram olmasaydı intihar ederdim diyen erkek
 bkz facebook instagram twitter olmazsa olmazlarım diyen erkek
 bkz telefonla sabaha kadar sevdicekle kadar konuşur feyste okey atar yatarım diyen erkek
