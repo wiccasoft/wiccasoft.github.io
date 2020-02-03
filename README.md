@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz polislerin gbt ye facebooktan baktığını bilmeyen ergenler
 bkz bekçiye instagram gösteren kız
 bkz gbt mize isntagramdan baksınlar diyen kız
 bkz önce anangiller instagramdan deme atsın öle iste beni diyen kız
