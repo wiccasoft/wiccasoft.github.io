@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz seyfo dayıya köz getir seriiii 
 bkz köftecide selamun aleykum kimlik görüm diyen bekçiye aleykümselam demeyen genç
 bkz haremlik selamlık köftecilerin verdiği huzur
 bkz ilk bekçi maaşıyla mümin kardeşlerin köfte ısmarlayan dini bütün mümün
