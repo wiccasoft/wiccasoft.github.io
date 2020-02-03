@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demirerin aşktosu için rejime başlaması
 bkz ata demirerin tamam aşkım güldürecem seni demesi
 https://www.uludagsozluk.com/e/42800199/ tamam aşkım kilo vericem
 bkz ata demirerin memelerim büyük mü aşkım demesi
