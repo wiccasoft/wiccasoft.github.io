@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook instagram twitter ı arasıra kullanırım diyen erkek
 bkz facebook u farmville için kullanıyorum diyen erkek
 bkz facebooku gbt sorgulamak için kullanan erkek
 bkz  türk futbol takımı tutumayan homofobik erkek
