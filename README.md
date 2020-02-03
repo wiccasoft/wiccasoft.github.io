@@ -1,5 +1,5 @@
 <!--
-bkz hz muhammede ana avrat kayan arabın yahalanması
+bkz muhammede ana avrat kayan arabın yahalanması
 bkz kirvenin kına gecesinde 3 posta kayarım demesi
 bkz mervelerde kalan beyin yakan kına gecesinde kirvenin coşması
 bkz diyarbakırlı travesti bekirin bekiroğluna güzel diyen bana demesi demesi
