@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz afgan tursite saygısızlık ana avrat saygısızlık yapan it
 bkz suriyeli turisite saygısızlık yapan faşidt it
 bkz arap turist aba avarat söven faşist it
 bkz ümmetinin bekçisine saygısı olamayan faşist it
