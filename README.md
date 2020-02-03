@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz balerin kızı öldürenin pişman değilim demesi
 bkz islami usullere göre turist karşılamak varken cık cık cık
 bkz hac ile hilalin savaşında haçı tutan ırkçı
 bkz reisin turan birliğini kurması
