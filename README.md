@@ -1,4 +1,5 @@
-<!--
+<!--,
+bkz facebook instagram twitter olamzsa olmazlarım diyen disiplinli iş aşığı erkek
 bkz facebook instagram twitter ve telefonum diyen erkek
 bkz anamı sikin facebook instagram twitter ve telefonuma dokunmayın diyen erkek
 bkz facebook instagram twitter olmadan yaşamam diyen erkek
