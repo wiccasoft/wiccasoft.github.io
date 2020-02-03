@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook instagram twitter olmayan erkeğin erkekliği
 bkz erkek adam dediğin facebook instagram twitter kullanır diyen erkek
 bkz facebook instagram twitter olmazs olamzlarım diyen disiplinli erkek
 bkz facebook insgram twtiter olmasaydı mağara adamı olurdum diyen erkek
