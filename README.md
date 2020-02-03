@@ -1,5 +1,5 @@
 <!--
-bkz facebook instagram twitter iphone yeter bana
+bkz facebook instagram twitter iphone yeter bana diyen erkek
 bkz facebook instagram twitter olmadan hayat mı olur amk
 bkz facebook instagram twitter kullanmayan erkeği kelimelere sığdır
 https://www.uludagsozluk.com/k/facebook-instagram-whatsap-twitter-%C4%B1-olmayan-erkek/&w=bg
