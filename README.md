@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz oo paraya öküz alınır denilecek maaşlar
 bkz beçilerin dudak uçurtan maaşları
 bkz enes batur abinin bekçi mmaşlarını çok şey etmeyin demesi
 bkz ruhi çenet abinin türkiyenin steve jobsı olması kankağ
