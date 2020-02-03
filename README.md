@@ -9,7 +9,7 @@
 <!--
 bkz uludaki 13 yaşındaki ergenler
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
-bkz ekşiyi basan 16 yaşındaki ergenler
+bkz ekşiyi basan 12 yaşındaki ergenler
 bkz atacünün sünnetsiz olduğu iddaları
 bkz atacücünün feneri daha bi kayırdığı gerçeği
 bkz atayız deyince akla atademirer gelmesi
