@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün ateist bi oç olduğu gerçeği
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/&w=gd bkz laz ziyanın daşşakları
 https://eksisozluk.com/ataturkun-ateist-oldugu-gercegi--5123432?a=popular bkz ata cünün pipisi
 bkz ata cücünün pispisinin sünnetsiz ve küçük olduğu iddaları
