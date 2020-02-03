@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz gbt mize isntagramdan baksınlar diyen kız
 bkz önce anangiller instagramdan deme atsın öle iste beni diyen kız
 bkz pembe panjurlu instagramımız olsun diyen kız
 bkz aşkosu iya anaan ya instagramımız diyen kız
