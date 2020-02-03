@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin s400 leri satıp ronaldoyu mu  alsak demesi
 bkz rusyanın keşke s500 leri bekleseydiniz ya demesi
 bkz rte nin pentagona f35 leri paketle geliyom demesi
 bkz pentagonun istiyosanız f22 raptor verelim demesi
