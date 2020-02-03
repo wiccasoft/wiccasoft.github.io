@@ -8,8 +8,8 @@
 
 <!--
 bkz tayyibin tatlı üzerine mesir macunu yiyin azdırır demesi
-bkz mümin sevdiceğine bim talısı üzerine bi kilo künefe yediren kız
-bkz mümin sevdiceğine göt küçültme ameliyat hediye eden kız
+bkz mümin sevdiceğine bim talısı üzerine bi kilo künefe yediren mümine
+bkz mümin sevdiceğine göt küçültme ameliyat hediye eden mümine
 bkz feslinni ben gençken çok vurdurdum demesi
 bkz ata demirerin göt küçültme ameliyatıyla götüme küçültecem demesi
 bkz aslı bekiroğlunun iphone4s alacam onlarda böyle sorun olmuyomuş demesi
