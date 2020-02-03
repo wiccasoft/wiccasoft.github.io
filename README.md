@@ -1,4 +1,5 @@
 <!-- 
+bkz instagramı aslı bekiroğlu için kullanıyorum zaten diye erkek
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
 acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz galsatasaray fenerbahçe beşiktaş için göt veririm diyen erkek
