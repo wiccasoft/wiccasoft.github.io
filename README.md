@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlunun iphone4s alacam onlarda böyle sorun olmuyomuş demesi
 bkz aslı bekiroğlunun samsung kullanmaycam apple alacam demesi
 bkz aslı bekiroğlunun nnodlu yani seks yaptık demesi
 bkz aslı bekiropğlunun bi daha kürt erkekle pompiş yapmayacam demesi
