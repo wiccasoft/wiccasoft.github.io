@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz hac ile hilalin savaşında haçı tutan ırkçı
 bkz reisin turan birliğini kurması
 bkz ümmeti muhammedin avrupalı ırkçılara verdiği ayar
 bkz ümmeti muhammedi ülkesine almayarak ırkçılık yapan norveçli
