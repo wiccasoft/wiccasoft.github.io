@@ -1,7 +1,7 @@
 <!-- 
 bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç olduğu gerçeği
-bkz türklerin yoğurt dışında dünyaya katkıları
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
+bkz türklerin yoğurt dışında dünyaya katkıları
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 -->
