@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ruhi çenetin enes abiyle olan videolarını silmesi
 bkz ruhi çenetin türkiyenin steve jobsıysa barış özcanın elon muskı olduğu gerçeği
 bkz ruhi çenetin sakallarım çıkmadan ölmek istemiyorum demesi
 bkz ruhi çenetin testeredeki adam benim demesi
