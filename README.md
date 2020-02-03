@@ -11,13 +11,6 @@ bkz yazılım mühendisi asgari ücret alsın diyen komünist devlet memuru
 bkz maaşının arttırmak için açıköğretim okuyan devlet memuru
 bkz yazılım mühendisi 20000 dolar biz niye 4000 len amq diyen devlet memuru
 bkz bekiroğlunun beyin yakan vedat mürqü yorumu
-bkz merve beyin beyin yakan bekiroğlu gecesi
-bkz vedat mürüqü 150 milyin len amq
-bkz bekçinin 4000 kameramanın 4000 alması
-bkz emekli hakimin 12000 emekli polisin 6000 alması
-bkz merve örtmenin beyin yakan tatili
-bkz bekçinin 5000 örtmenin 4000 alması
-bkz türklerin ve kürtlerin iğrenç yaratıkları olduğu gerçeği
 bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz devlet memurlarının biraz salak olması
 bkz babasının emekli maaşını almak için hile yapan anadolulu
