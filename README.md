@@ -17,18 +17,9 @@ https://www.uludagsozluk.com/k/10-y%C4%B1l-esnafl%C4%B1k-yapana-bek%C3%A7i-yetki
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 bkz laz ziyanın testere necmiye sen kim oluyonda feguliyi satıyon demesi
 bkz seyfo dayının feguliyle s400 leri satalım s500 alalım önerisi
-bkz seyfo dayıya köz getir seriiii 
-bkz köftecide selamun aleykum kimlik görüm diyen bekçiye aleykümselam demeyen genç
-bkz haremlik selamlık köftecilerin verdiği huzur
-bkz ilk bekçi maaşıyla mümin kardeşlerin köfte ısmarlayan dini bütün mümün
-bkz islami usülde yatırım yapamayacağım kusura bakmayın mümin kardeşler
-bkz ülkeyi terketmek uygun koşulların sonunda oluşması
 https://www.youtube.com/watch?v=bZliovcpusI bkz islami usül helal köfte
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun tükürdüğü köfteler
-https://www.uludagsozluk.com/k/siyahi-erkeklerin-%C3%A7ekicili%C4%9Fi/&w=bg bkz siyahi müslim 
-bkz tangırcım sen hesabı kapat silivri soğuktur bunların şakası yok 
-kinci ve pek iyi insanlar olmadıkları da ortada
-bkz tangir budunun daha yeni anlaması
+https://www.uludagsozluk.com/k/siyahi-erkeklerin-%C3%A7ekicili%C4%9Fi/&w=bg b
 bkz gözleri tayyip şeklide gülen suratın bekçi olması
 bkz başörütülü bacılarıma işediler camide bekçilerime sıçtılar
 bkz tayyiple ve kurtlar vadisiyle büyüyen kadın düşmanı ergenlerin gittikçe tehlikeli olacağı gerçeği
