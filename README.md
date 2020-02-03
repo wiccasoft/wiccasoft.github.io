@@ -13,7 +13,7 @@ bkz 3 şubat 2020 hulki paşanın atımı getirin demesi
 bkz ata demirerin atayız olduğu gerçeği
 bkz doğu perinçekin şener şen sessizliğini bozması
 bkz o s400 işi bitsin diyen ekşici abiler
-bhz ruhi çeneti türküyünü steve jobsı barış özacanın elon musk ı olması
+bhz ruhi çeneti türküyünün steve jobsı barış özacanın elon musk ı olması
 bkz aburrrahim albayrakın 3 müülyün yürü daha verelim alalım ronaldoyu demesi
 bkz müezzin maaşlarını kıskanan bekçiler
 bkz camide niye topğlaşıyoz lan diyen müslümanlar
