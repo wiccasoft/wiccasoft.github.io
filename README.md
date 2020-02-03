@@ -1,5 +1,6 @@
 <!--
-bkz yazılım mühendilsleri niye 100 katımızı maaş alıyor len amq diyen devlety memeru
+bkz devlet memurlarının biraz salak olması
+bkz yazılım mühendilsleri niye 100 katımız maaş alıyor len amq diyen devlet memuru
 bkz san fransisco 150000 doalr maaş vs 4000 liralık sikik devlet memuru
 bkz vedat mürüqü 150 milyün yürü len amq diyen devlet memuru
 bkz amsterdam 3000 euro vs istanbul 15,000 lira maaş
