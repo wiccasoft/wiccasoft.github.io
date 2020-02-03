@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+yapma be kanka fener kafileye saldırmışlar amınakoduklarım
+https://www.uludagsozluk.com/k/1-%C5%9Fubat-2020-fenerbah%C3%A7e-kafilesine-silah-%C3%A7ekilmesi/
 bkz michael jordanın atacücücü olduğu gerçeği
 bkz micahel jotrdanın daşşaklarıyla laz ziyayı tokatlaması
 bkz michael jordanın daşşakları vs laz ziyanın pipisi
