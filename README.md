@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz facebook instagram twitter kullanan erkek
 bkz şahan gökbakarın bana niye gülmüyonuz cem yılmaza gülüyonzu demesi
 bkz bi kilo demirer mi ağırdır bi kilo yılmaz mı
 bkz ata demirerin üstünde otyurduğu askerlerin şehit olması
