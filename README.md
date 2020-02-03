@@ -1,4 +1,6 @@
 <!-- 
+bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
+acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz galsatasaray fenerbahçe beşiktaş için göt veririm diyen erkek
 bkz facebook twitter instagram olmasaydı intihar ederdim diyen erkek
 bkz facebook instagram twitter olmazsa olmazlarım diyen erkek
