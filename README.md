@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 3 şubat 2020 hulki paşanın atımı getirin demesi
 bkz 3 şubat 2020 idlib olaylarına karşı s 400 atağı planlamak
 bkz ata demirerin o s 400 işi bitecek demesi
 bkz ata demirerin ben de ata sende ata bu halkı bi ataya demesi
