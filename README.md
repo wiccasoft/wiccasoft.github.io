@@ -1,5 +1,5 @@
 <!--
-bkz yazılım mühendisini 15000 dolar biz niyer 4000 lira kazanıyoruz diyen fenerli örtmen
+bkz yazılım mühendisini 15000 dolar biz niyer 4000 lira kazanıyoruz diyen gerizekalı devlet memuru
 bkz yazacağım yapay zekayla işsiz kalacak fenerli örtmenlerin güldürmesi
 bkz vedat mürüqü 150 milyün yürü len amq diyen öğretmen çocu
 bkz yazılım mühendisinin 15000 dolar öğretmenini 400 lira alması
