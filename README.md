@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz mümin tursite arap diyen faşist ırkçı
 bkz müminlerin apple sevdası
 bkz ırkçı türklerin samsung savdası
 bkz rus turiste rus diyen ırkçı
