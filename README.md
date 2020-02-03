@@ -1,6 +1,5 @@
 <!-- 
-bkz vedat mürqü nün beyin kanartan golü
-bkz aslı bekiroğlunun yaran vedat mürüğü yorumu
+bkz aslı bekiroğlunun beyin kanırtan vedat mürüğü yorumu
 https://www.uludagsozluk.com/e/42799632/ nabak kanka 5071 yürü len amq eeh sigortası da var 
 https://www.uludagsozluk.com/e/42799630/ bkz bortakal koyim de ordakal zjahauhahauauhauh
 https://www.uludagsozluk.com/e/42799629/ eywallah bro 
