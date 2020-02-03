@@ -1,4 +1,5 @@
 <!-- 
+bkz telefon alırsam facebook kuracam diyen erkek
 bkz telefon kılıfım bile siyah beyaz diyen erkek
 https://www.youtube.com/watch?v=BV1RcLhMFYs ben doğuştan beşiktaşlıyım diyen erkek
 bkz beşiktaş maçlarını kaçırmam quaresmacıyım diyen erkek
