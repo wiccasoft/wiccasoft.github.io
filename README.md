@@ -1,4 +1,5 @@
 <!-- 
+https://www.youtube.com/watch?v=Y-2FJC9jeh0
 bkz fatih mandalinanın 80.000 lira almasını çekemeyn avakado
 bkz mandalina 80000 lira maaş alrıken sadece entry giren donsuz
 https://www.uludagsozluk.com/k/fatih-mandalina/&w=bg bkzmandalinanın 800000 lira maaş aldığı gerçeği
