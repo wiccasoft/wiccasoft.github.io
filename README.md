@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz söylemesi zevk veren futbolcu isimleri
+bkz futbolcu isimlerinin hep alengirli olması
 bkz josep guardiola nın tam bir futbolcu ismi olduğu gerçeğini bakmadan bilmem
 bkz josep guardiola nın tam bir futbolcu ismine benzemesi 
 bkz yılmaz erdoganın telsim reklamındaki sübliminal meşajlar
