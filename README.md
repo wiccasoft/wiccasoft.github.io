@@ -1,4 +1,6 @@
 <!--
+bkz ana avrat küfr eden adamın yahlanması
+https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular
 bkz bekçinin 4071 çaycının 5061 lira alması
 bkz muhtar maaşları vs savcı maaşları
 https://www.youtube.com/watch?v=ox93sf0-tPQ 
