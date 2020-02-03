@@ -1,5 +1,6 @@
 <!--
-bkz forvetin 5000 santrafor öğretmenin 2000 lira alması
+bkz polis öğretmen maaşları 20000 olsun kampanyası
+bkz polisin 5000 öğretmenin 4000 alması
 bkz fenev bavce vs gavatsaray
 bkz arabada 5000 evde 15000 hoşumada giderse bedeve
 bkz beyin yakan arap tursitin ana avrat yahalanması
