@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz tek kurşun atmadan nonoşlaştırılan türkler
 bkz türklerin gdo dan dolayı nonoş olma sebepleri 
 bkz türk erkeklerin gdo dan dolayı memelerinin sarkık olması
 https://www.uludagsozluk.com/e/42800459/ bkz ıstırılası memeler
