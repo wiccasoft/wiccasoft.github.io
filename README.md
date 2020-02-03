@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/instagram%C4%B1-olmayan-k%C4%B1z/ ip adresini bulun
 https://vedat-minor-combo.uludagsozluk.com/ annesi yok mu bu veledin sabahtan beri vık vık
 https://www.uludagsozluk.com/k/anne-%C3%BCzerinden-hakaret-etmek/ akplilerin pek sevdiği
 bkz aslıbekiroğlunun irem dericinin göte güzel diyen bana demesin demesi
