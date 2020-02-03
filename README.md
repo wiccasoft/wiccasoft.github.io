@@ -10,34 +10,6 @@
 bkz 3 şubat 2020 ata demirerin 4 askerin üstüne yanlışlıkla oturması
 bkz 3 şunat 2020 ata demirerin ataya saygı kuşağı yayımlaması
 bkz 3 şubat 2020 hulki paşanın atımı getirin demesi
-https://www.uludagsozluk.com/e/42800199/ ya neden aşkımmmmmm neyi geçeyim
-https://www.uludagsozluk.com/e/42800199/ tamam aşkım kilo vericem
-bkz ata demirerin memelerim büyük mü aşkım demesi
-https://www.uludagsozluk.com/e/42798920/ bulursan gelsin beni de siksin bayılırım öyle erkeklere
-https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ 
-bkz atacününü pipisinin kalkmadığı iddaları
-bkz aslı bekiroğlunun yeni seks pozisyonları deneyecem açıklaması
-bkz akşamüstü seksi için egzersiz yapmak
-bkz bi seks yapsalar pambık gibi olacakları gerçeği
-bkz sabah seksi yapmayanların bekçilere atarlanması
-bkz seks yapsa aslı bekiroğlan gibi rahatlayacak kızların kasması
-bkz seks yapan kızların tuvalette kucağa oturduğu söylentileri
-bkz aslı bekiroğlanın seks yaptım ortalık ondan dağınık demesi
-bkz seks yapsa aslı bekiroğlan gibi rahatlayacak ergenler
-bkz aslı bekiroğlan vedat mürüç ülişkisi söylentileri iddası
-bkz 95 li sosyal medya fenomenlerini ismlerin karıştırmak
-bkz merve özbey de mi 95 li sorunsalı
-bkz merve özbey beyin kanartan kına gecesi
-bkz şişman ve büyük memeli erkeklerin kadınlardan seksi olduğu gerçeği
-bkz şişman ve büyük memelei erkek seksiliği
-bkz ata demireri sütyensiz çıtır çıtır yenileceği gerçeği
-bkz ata demireri duvara yaslayıp  memiklerini delice ısırmak
-bkz ata demirerin memiklerini adamı delirtiği gerçeği
-bkz ata demirer memiklerini bi emdirse rahatlayacağı gerçeği
-bkz erdoğanın ülkesinde dilediğince seks yapılabildiği gerçeği
-bkz sabahtan beri seks yapmamış insanların öfkeli olması
-bkz seks yapamayan seksüel öfkesi
-bkz bi sevişse siniri geçecek insanlar
 bkz ata demirerin atayız olduğu gerçeği
 bkz doğu perinçekin şener şen sessizliğini bozması
 bkz o s400 işi bitsin diyen ekşici abiler
