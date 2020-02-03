@@ -1,4 +1,5 @@
 <!-- 
+bkz facebooktan arasıra dayıoğlanı pokelarım diyen erkek
 bkz barış özcan ruhi çenet aboneliğim var diyen erkek
 bkz facebook insgram arasıra kaydırır bakarım  diyen erkek
 bkz dayıoğlu benim koyu gsli diyen erkek
