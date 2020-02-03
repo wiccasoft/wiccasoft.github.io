@@ -1,4 +1,5 @@
 <!-- 
+bkz fatih portakalın bilale analtır gibi anlatim bi de hareketi
 bkz fatih portakalın kafanız basmıyosa yorumlim bi de duruşu
 bkz fatih portakalın anlamadıysanız bi daha anlatim duruşu
 bkz fatih portakalın el kol hareketleriyle anladınız mı hareketi
