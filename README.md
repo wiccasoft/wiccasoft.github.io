@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ne mutlu ırkı müslüman olana
 bkz ümmetçi müslümanlıktan aldığım tadı başka bişeyden almadım
 bkz ne mutlu ümmetçi müslümanım diyene
 bkz ümmetçilerin gelin beraber müslüman olalım demesi
