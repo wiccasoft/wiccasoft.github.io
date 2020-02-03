@@ -1,5 +1,5 @@
 <!-- 
-bkz ruhi çenetin sakallarının çıkmaya başlaması
+bkz ruhi çenetin neden sakallları çıkmıyor sorunsalı
 bkz hanımdan dolayı fenerliyim diyen erkek
 bkz ozan tufanı uzaktan takip ederim diyen erkek
 bkz sadık çiftpınar alper potuk hayranıyım diyen sivasporlu erkek
