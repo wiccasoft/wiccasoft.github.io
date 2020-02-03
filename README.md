@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aşşşşşkım bekçi maaşın yetmezki diyen kız
 https://www.uludagsozluk.com/e/42800780/ zuahhahahahaha
 bkz aramazsan aramayı açılış müzüğü yapan kız
 bkz telefona yusuf güneyi wallpaper yapan kız
