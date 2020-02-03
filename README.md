@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demirer memiklerini bi emdirse rahatlayacağı gerçeği
 bkz erdoğanın ülkesinde dilediğince seks yapılabildiği gerçeği
 bkz sabahtan beri seks yapmamış insanların öfkeli olması
 bkz seks yapamayan seksüel öfkesi
