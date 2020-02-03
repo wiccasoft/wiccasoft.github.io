@@ -1,5 +1,6 @@
 <!--
-bkz kzıın yanında vedat mürüq len amq diyemeyen oğlan
+bkz anma avradım olsun diyen forvetin fener geçmesi len amq
+bkz kızın yanında vedat mürüq len amq diyemeyen oğlan
 bkz kızın yanında telefonla konuşamayan oğlan
 bkz stoper 5000 vedat mürüğ 4000 len amq
 bkz muhammede ana avrat kayan arabın yahalanması
