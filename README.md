@@ -8,7 +8,7 @@
 
 <!--
 bkz rte nin diktator olsam bekçiler rahatça gezemezdi demesi
-bkz rte nin adolf hitleri tokat manyağı yapması
+bkz rte nin adolf hitleri tokat manyağı yapıp ananı laciverde boyadım demesi
 bkz rte papaza ananla ilişkiye girdim demesi
 https://www.uludagsozluk.com/k/papaz-a-ananla-ili%C5%9Fkiye-girdim-g%C3%BCnah-%C3%A7%C4%B1kart-demek/&w=bg
 bkz recep tayyi perdoğanın yaşasın ukrayna deeyip şey yapması
