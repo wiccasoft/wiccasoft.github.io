@@ -1,6 +1,5 @@
 <!--
-bkz elon musk 50 milayr dolar len amq
-bkz barış özcanın türkiyenin elon muskı olması
+bkz elon musk 50 milyar dolar len amq
 bkz ruhi çenetin türkiyenin steve jobsı  olması
 bkz barış özcanın türkiyenin elon muskı olması
 https://www.youtube.com/watch?v=vUg0gGLowCg facebooktan hoplattığım eski kızlar
