@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlunun aslolan fenerbahçe demesi
 bkz aslı bekiroğlanın beyin akıtan mervelerde kanatacam yorumu
 bkz selin ciğercinin beyin kanatan kına gecesi
 bkz anam avradım olsun diyen adamın beyin kanatan vedat mürüqü yorumu
