@@ -1,4 +1,5 @@
 <!--
+bkz beyin kanatan entry ana avrat yahalanması
 bkz beyin kanatan entry girerekene örtmen annenin kek getirmesi
 bkz beyin kanatan entry len amq
 bkz entry başına 4000 len amq
