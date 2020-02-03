@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte maaşı 80 000 fatih portakal da 80 0000
 bkz ata cününü götüne pamuk tıkarlarken selamun alaykum dediği iddaları
 bkz atacücünün pspisi vs laz ziyanın daşşahları
 bkz ata cücünün pipisinin sünnetsiz ve küçük olduğu iddaları
