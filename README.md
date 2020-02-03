@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yılmaz erdoganın telsim reklamı
 bkz ata demirerin demeden yılmaz erdoğana espiri atması
 bkz jürgen klopp un demeyi kapaması
 bkz yakalarsam tık tık denilen kızın tik tok çu çıkması
