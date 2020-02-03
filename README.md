@@ -1,4 +1,5 @@
 <!-- 
+bkz fatih portakalın anlamadıysanız bi daha anlatim duruşu
 bkz fatih portakalın el kol hareketleriyle anladınız mı hareketi
 bkz fatih portakalın daha akıcı anlattığı gerçeği 
 bkz fatih portakalın daha bi aptala anlatır gibi anlatması
