@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.youtube.com/watch?v=bZliovcpusI islami usül helal köfte
+https://www.youtube.com/watch?v=bZliovcpusI bkz islami usül helal köfte
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun tükürdüğü köfteler
 https://www.uludagsozluk.com/k/siyahi-erkeklerin-%C3%A7ekicili%C4%9Fi/&w=bg bkz siyahi müslim 
 bkz tangırcım sen hesabı kapat silivri soğuktur bunların şakası yok 
