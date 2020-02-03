@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz enes batur abinin bekçi mmaşlarını çok şey etmeyin demesi
 bkz ruhi çenet abinin türkiyenin steve jobsı olması kankağ
 bkz eylül abinin kusma pozuyla şaka maka haber pozu atması
 https://www.uludagsozluk.com/k/eyl%C3%BCl-%C3%B6zt%C3%BCrk-%C3%BCn-kusma-pozuyla-verdi%C4%9Fi-haber/&w=bg
