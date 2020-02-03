@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin putini müslüman olmaya davet etmesi
 bkz putini rus ırkçısı olması
 bkz müslümanlığı ırk sanan ümmetçiler
 bkz müslüman ırkın iphone sevdası
