@@ -1,4 +1,6 @@
 <!-- 
+https://www.facebook.com/watch/?v=1010463862392162 verrr mehteriiiiiiiiiiii
+https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-3-kelime-yak%C4%B1%C5%9Ft%C4%B1r/&w=bg
 bkz annoying orange ın 80.0000 lira maaş alması
 https://www.youtube.com/watch?v=Y-2FJC9jeh0
 bkz fatih mandalinanın 80.000 lira almasını çekemeyn avakado
