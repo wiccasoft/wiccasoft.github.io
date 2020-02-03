@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz seks yapan kızların tuvalette kucağa oturduğu söylentileri
 bkz aslı bekiroğlanın seks yaptım ortalık ondan dağınık demesi
 bkz seks yapsa aslı bekiroğlan gibi rahatlayacak ergenler
 bkz aslı bekiroğlan vedat mürüç ülişkisi söylentileri iddası
