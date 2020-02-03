@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte papaza ananla ilişkiye girdim demesi
+https://www.uludagsozluk.com/k/papaz-a-ananla-ili%C5%9Fkiye-girdim-g%C3%BCnah-%C3%A7%C4%B1kart-demek/&w=bg
 bkz recep tayyi perdoğanın yaşasın ukrayna deeyip şey yapması
 bkz rte nin idlibdeki türkleri yollarız sözü vermesi istyanbuldaki suriyelileri şey yaparız demesi
 bkz recep tayyi perdoğanın bekçi maaşları nı rakı zammıyla düzeltiriz sözü vermesi
