@@ -4,44 +4,6 @@ bkz türklerin yoğurt dışında dünyaya katkıları
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
 acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz galsatasaray fenerbahçe beşiktaş için göt veririm diyen erkek
-bkz facebook twitter instagram olmasaydı intihar ederdim diyen erkek
-bkz facebook instagram twitter olmazsa olmazlarım diyen erkek
-bkz telefonla sabaha kadar sevdicekle kadar konuşur feyste okey atar yatarım diyen erkek
-bkz facebooku dayıoğluyla okey için kullanırım diyen erkek
-bkz instagramda sadece loris karius u takip ederim diyen erkek
-bkz facebook instagram twitter whats up tiktok çok severim çok diyen erkek
-bkz facebook instagram twitter olmazsa olmazlarım beni böyle kabul et diyen erkek
-bkz facebooksuz yaşayamam zaten diyen erkek
-bkz facebook instagram twitter ı olan ama saklayan erkek
-bkz facebook instagram twitter hepsi çok güzel ama benena diyen erkek
-bkz her yere telefon numaramı veririm diyen disiplinli erkek
-bkz facebook instagram twitter olmazsa olmazlarım diyen disiplinli erkek
-bkz telefonu olmayan ama  koyu geyseli erkek
-bkz telefon alırsam facebook instagram twitter hepsini kuracam diyen erkek
-https://www.youtube.com/watch?v=BV1RcLhMFYs ben doğuştan beşiktaşlıyım diyen erkek
-bkz beşiktaş maçlarını kaçırmam quaresmacıyım diyen erkek
-bkz facebook gassaray sayfasına like attım diyen fenerli erkek
-bkz facebook u farmville için tutuyorum diyen erkek
-bkz facebook instagram twitter gün aşırı arasıra girerim diyen erkek
-bkz facebooktan arasıra dayıoğlanı pokelarım diyen erkek
-bkz barış özcan ruhi çenet aboneliğim var diyen erkek
-bkz facebook insgram arasıra kaydırır bakarım  diyen erkek
-bkz dayıoğlu benim koyu gsli diyen erkek
-bkz hanımdan dolayı fenerliyim yoksa elti hep gs li diyen erkek
-bkz fenerli erkek gassaraylı erkek aşkı
-bkz fenerli fanatik kısmet arayan beşiktaşlı erkek
-bkz ruhi çenet testeredeki adam benzerliği
-bkz ruhi çenetin neden sakallları çıkmıyor sorunsalı
-bkz hanımdan dolayı fenerliyim diyen erkek
-bkz ozan tufanı uzaktan takip ederim diyen erkek
-bkz sadık çiftpınar alper potuk hayranıyım diyen sivasporlu erkek
-bkz anne tarafı hep sivasporludur diyen erkek
-bkz hanımdan dolayı erzurumsporlu yum diyen erkek
-bkz facebook instagram twitter ı arasıra kullanırım diyen erkek
-bkz facebook u sadece farmville için kullanıyorum diyen erkek
-bkz facebooku gbt sorgulamak için kullanan erkek
-bkz  türk futbol takımı tutumayan homofobik erkek
 https://www.uludagsozluk.com/e/42799473/ seninle şöyle aga nigi naga nigi he çaktın türbanlım benim ;)
 -->
 
