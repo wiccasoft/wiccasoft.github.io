@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz instagramda aradım seni bulamadım diyen kız
 bkz aşkım instagramız da sadece ikimiz olalım diyen kız
 bkz aşkım gelince demeyi sadece sana açacam diyen kız
 bkz instagramımı yaz amm arkadaşlarına söyleme tamam mı aşkım diyen kız
