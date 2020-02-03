@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demirerin üstünde otyurduğu askerlerin şehit olması
 bkz 3 şubat 2020 ata demirerin 4 askerin üstüne yanlışlıkla oturması
 bkz 3 şunat 2020 ata demirerin ataya saygı kuşağı yayımlaması
 bkz 3 şubat 2020 hulki paşanın atımı getirin demesi
