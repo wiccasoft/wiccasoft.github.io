@@ -1,5 +1,4 @@
 <!--
-https://eksisozluk.com/eksi-sozlukte-yazar-olmanin-avantajlari--6349700?a=popular bkz beyin kanatan olmak
 bkz bekiroğlanın beyin kanatan mervelerde kalcam yorumu
 bkz aslı bekiroğlanın beyin kanatan belezoğlan yorumu
 bkz anam avradım olsun diyen forvetin fenere geçmesi len amq
