@@ -1,5 +1,5 @@
 <!--
-bkz depoisin 5000 lira bekçini 500 lira öğretmenini 10 lira alması
+bkz polisin 5000 lira bekçinim 500 lira öğretmenin 10000 lira alması
 bkz bekçinin 5000 lira  fegulini 2500 lira alması
 bkz abdulrahim albyarakın fener ol kampanyası düzenlemesi
 bkz arap turiste ana avrata kayan tursitin yahalanması tıklağ link
