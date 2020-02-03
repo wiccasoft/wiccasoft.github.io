@@ -1,4 +1,5 @@
 <!--
+bkz yazılım mühendisinin 15000 dolar öğretmenini 400 lira alması
 bkz hakim savcının 10000 öğretmenini 4000 alması
 bkz polisin 5000 profesörün 8000 alması
 bkz fenerli öğretmenlerin 4000 lira konken parasına yetmez
