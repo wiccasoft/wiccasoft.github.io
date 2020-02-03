@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ırkçı türklerin samsung sevdası
+https://www.uludagsozluk.com/k/t%C3%BCrklerin-samsung-sevdas%C4%B1/&w=bg 
 bkz ata demirerin 100 kilo verim müslüman olacam sözü vermesi
 bkz ata demirerin memlerin aldırıp müslüman olması
 bkz ne mutlu ırkı müslüman olana
