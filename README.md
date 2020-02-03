@@ -1,4 +1,5 @@
 <!--
+bkz vedat mürüq ün ben niye 150 mülyün yürüyüm len amq demesi
 bkz aslı bekiroğlunun dağdaki çobanla benim oyum bir mi demesi
 bkz polislerin enes batur niye 50000 bekci niye 5000 demesi
 bkz türklerin beyin kanatan aslı bekiroğlan yorumu
