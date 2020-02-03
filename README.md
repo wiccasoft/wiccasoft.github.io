@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz 4 bekçi kellesi daha gitti diye zırlayan klavye bebeleri
 bkz bill gatesin bekçi mi olsaydım diye zırlaması
 bkz yütüpürlerin bekçi maaşını kıskanması
 bkz bekçiler üstünü arıyo diye zırlayan böcekler
@@ -14,7 +15,6 @@ bkz bekçilerin karşısın tril tiril titreyen böcekler
 bkz böceklerin de çok dolaşması 
 bkz polislerin böcekleri zırt pırt araması
 bkz polsi üstünü arıyo diye zırlayan böcekler
-bkz 4 nekçi kellesi daha gitti diye zırlayan klavye bebeleri
 bkz kellenizi koruyacaksınız genşler yatma yeri  değil bekçilik
 bkz idlib te 4 kelle daha gitmesi
 bkz trabzonlu görünce it gibi dağılan fenerliler
