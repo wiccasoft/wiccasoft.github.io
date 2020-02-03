@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz josep guardiola tam bir futbolcu ismi olduğu gerçeğini akmadan bilmem
 bkz josep guardiola tam bir futbolcu ismine benzemesi bkz bildim yineeeeeeeee wooooooohooo
 bkz yılmaz erdoganın telsim reklamındaki sübliminal meşajlar
 bkz jürgen klopp un demeyi kapaması
