@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz nihat mzdemir cüneyt özdemire verdiği efsane ayar
 bkz rte nin bekçilerin maaşını düzeltecem sözü vermesi
 bkz nihat özdemir ata demirerere verdiği ayar
 bkz rece ptayyip erdoğanın yaşasın ukrayna demesi
