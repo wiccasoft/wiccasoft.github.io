@@ -11,7 +11,6 @@ bkz bekçiler facebook tan gbt yapsın kampanyası
 bkz reis facebook instagram twitter zorunlu üyelik yasası yapsın kampanyası
 bkz intagramı olmayan oç teröristin bekçiyi bıçaklaması
 bkz malatyada bi bekçi ağliyo sikeyim muhalefitinizi oç ları
-https://www.uludagsozluk.com/k/malatya-da-bek%C3%A7ilere-b%C4%B1%C3%A7akl%C4%B1-sald%C4%B1r%C4%B1/
 bkz mustafa cengizin grup seksin arasına kaynaması
 https://groups.google.com/forum/#!topic/turancatli/FUTca84KV9o 
 https://gaiadergi.com/osmanli-toplumunda-erillik-escinsellik-oglancilik/
