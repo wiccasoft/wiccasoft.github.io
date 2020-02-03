@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ilyas baznanın fenerle imzayı atması
 bkz ilyas baznanın demeleri açması
 bkz josep guardiola instagrama geldim beyler demesi
 bkz aslı abla gibi instagram istiyom diyen kız
