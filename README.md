@@ -1,4 +1,5 @@
 <!-- 
+bk fatih terim vs fatih portakal
 bkz babiişkonun bekçi anişkonun öğretmen olması
 bkz anneyi babayı işe yollayıp incide trollük yapmak
 bkz aslı bekiroğlunun beyin kanırtan vedat mürüğü yorumu
