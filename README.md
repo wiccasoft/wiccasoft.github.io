@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz zseni çıldırtmak için önünde domalacam diyem müslüm
 bkz müslümlerin ateistleri çıldırtıcı hareketleri
 bkz müslümlerin ateistleri çıldırmak için domalmaları
 https://www.uludagsozluk.com/e/42800142/ o göte bülbül öteeeeeee
