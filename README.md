@@ -8,7 +8,7 @@
 
 <!--
 bkz tek kurşun atmadan nonoşlaştırılan türkler
-bkz türklerin gdo dan dolayı nonoş olma sebepleri 
+bkz türklerin gdo dan dolayı nonoş gibi vücutları olması
 bkz türk erkeklerin gdo dan dolayı memelerinin sarkık olması
 https://www.uludagsozluk.com/e/42800459/ bkz ıstırılası memeler
 bkz nonoş bekçilerin güldürmesi
