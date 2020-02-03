@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz tangir budunun daha yeni anlaması
 bkz gözleri tayyip şeklide gülen suratın bekçi olması
 bkz başörütülü bacılarıma işediler camide bekçilerime sıçtılar
 bkz tayyiple ve kurtlar vadisiyle büyüyen kadın düşmanı ergenlerin gittikçe tehlikeli olacağı gerçeği
