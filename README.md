@@ -7,31 +7,11 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz çok ateist ve gerginsin uzan şöyle diyen müslüman
 bkz camide niye topğlaşıyoz lan diyen müslümanlar
 bkz cami de biz toplaşıyoz diyen müslümanlar
 bkz camiye gel orda domalarım sen de izlersin sversin diyen müslüman
-bkz pilavlıya niye gelmedin sikerdin beni diyen müslüman
 bkz beni bikere siksen sakinleşirsin diyen müslüman
-bkz götveren müslümanların çıldırtamaması
-bkz götveren müslümanları kimsenin siklemediği gerçeği
-bkz hristiyanların domalmaması
-bkz ateistleri çıldırtacak domalma bırak
-bkz allahı çıldırtacak bir şey bırak
-bkz aseksüel insanı sekse zorlamak
-bkz haytında bir kere bile seks yapmamış aseksüel insan
-bkz aslı ablanın kulağınız çekerim demesi
-bkz aslı ablanın yazarlara kızması
-bkz 2009 lu yazarların 2005 li yazarlı kıskanması
-bkz 2009 lu yazarların gümbür gümbür gelmesi
-bkz aslır bewkiroğlanın benle oynamıyolar yaa demesi
-bkz aslı bekir oğlunun ben de müslümüm demesi
-bkz seni çıldırtmak için önünde domalacam diyem müslüm
-bkz müslümlerin ateistleri çıldırtıcı hareketleri
-bkz müslümlerin ateistleri çıldırmak için domalmaları
-https://www.uludagsozluk.com/e/42800142/ o göte bülbül öteeeeeee
-bkz aslı bekiropğluyla yaşıt olan velet
-https://www.uludagsozluk.com/k/k%C4%B1zlara-ka%C5%9Far-diyip-k%C4%B1zan-erkek/ bu velet uyumadı mı la
+https://www.uludagsozluk.com/e/42800142/
 bkz sözleşmeli uzman çavuş maaşını kıskanan bekçiler
 bkz bekçi ataması bekleyen öğretmenlerin hileyle bekçilik sınavına girmesi
 bkz ata cücünü cumhuriyetin bekçileri en asil duyguların insanıdır lafı
