@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlan ki amk
+bkz aslı bekiroğlanın sıkması
 bkz aslı bekiroğlanın kürt bi ergen olduğu gerçeği
 bkz soytarı cmylmz in güldürmediği gerçeği
 bkz komedyene bi çuval para atıp güldür lan beni şaklaban demek
