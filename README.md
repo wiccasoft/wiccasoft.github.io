@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ümmetçiler vs türkler
 bkz ümmetçilerin ırkçılara başkaldırması
 bkz ümmetçilerin özel seçtiği götü boklu turistler
 bkz türklerin ümmetçi tursitlere saygısızlığı
