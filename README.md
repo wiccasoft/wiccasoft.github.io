@@ -1,4 +1,5 @@
 <!-- 
+bkz içkiye zam yapılsın biz de 8000 alalım diyen örrtmen memur
 bkz açıköğretim bitirip maaşına zam yaprıtmaya çalışan çomar
 bkz mark zuckerberg 100000000000000000000 lira biz niye 4053 lira diyen çomar
 bkz yazılım mühendileri 500000 lira biz niyer 4053 lira diyen memur
