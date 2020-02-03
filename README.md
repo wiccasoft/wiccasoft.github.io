@@ -1,5 +1,6 @@
 <!--
 bkz devlet memurlarının güldürmesi
+bkz yazılım mühendisi asgari ücret alsın diyen komünist devlet memuru
 bkz maaşının arttırmak için açıköğretim okuyan devlet memuru
 bkz yazılım mühendisi 20000 dolar biz niye 4000 len amq diyen devlet memuru
 bkz bekiroğlunun beyin yakan vedat mürqü yorumu
