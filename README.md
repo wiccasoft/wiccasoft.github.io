@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz fanatik dinciler vs ırkçılar
 bkz ırkçı olmadığını sanan din ırkçısı
 bkz benim ırkım insan diyen insan ırkçısı
 bkz arap ırkı diyen ırkçı
