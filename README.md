@@ -1,5 +1,5 @@
 <!-- 
-https://www.uludagsozluk.com/e/42799632/ nabak kanka 150 mülyün yürü len amq
+https://www.uludagsozluk.com/e/42799632/ nabak kanka 5071 yürü len amq
 https://www.uludagsozluk.com/e/42799630/ eywallah bro
 https://www.uludagsozluk.com/e/42799629/ eywallah bro 
 bkz erkantanın ver mehteri virüse demesi
