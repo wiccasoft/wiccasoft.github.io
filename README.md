@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz deep web teki ergenlerin sinirden birbirlerini sikmesi
 bkz camide niye topğlaşıyoz lan diyen müslümanlar
 bkz cami de biz toplaşıyoz diyen müslümanlar
 bkz camiye gel orda domalarım sen de izlersin sversin diyen müslüman
