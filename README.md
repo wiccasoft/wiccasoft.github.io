@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/e/42800142/ o göte bülbül öteeeeeee
 bkz aslı bekiropğluyla yaşıt olan velet
 https://www.uludagsozluk.com/k/k%C4%B1zlara-ka%C5%9Far-diyip-k%C4%B1zan-erkek/ bu velet uyumadı mı la
 bkz sözleşmeli uzman çavuş maaşını kıskanan bekçiler
