@@ -1,4 +1,5 @@
 <!--
+bkz fenevbavhe vs gavatsaray
 bkz arabada 5000 evde 15000 hoşumada giderse bedeve
 bkz beyin yakan arap tursitin ana avrat yahalanması
 bkz beyin kanatan link atana arap turistin beyin kanatması
