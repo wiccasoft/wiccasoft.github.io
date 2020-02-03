@@ -1,4 +1,5 @@
 <!-- 
+bkz facebooku gbt sorgulamak için kullanan erkek
 bkz  türk futbol takımı tutumayan homofobik erkek
 https://www.uludagsozluk.com/e/42799473/ seninle şöyle aga nigi naga nigi he çaktın türbanlım benim ;)
 -->
