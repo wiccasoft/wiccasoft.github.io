@@ -1,7 +1,7 @@
 <!--
 bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz devlet memurlarının biraz salak olması
-bkz babasının emekli maaşını almak için boşanmayan kadınlar
+bkz babasının emekli maaşını almak için hile yapan anadolulu
 bkz maaşını yükseltmek için açık öğretime giren devlet memuru
 bkz lise mezunu kameraman 4000 biz niye 4000 diyen devlet memuru
 bkz yazılım mühendilsleri niye 100 katımız maaş alıyor len amq diyen devlet memuru
