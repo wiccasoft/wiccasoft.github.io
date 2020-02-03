@@ -1,4 +1,5 @@
 <!--
+bkz fenerli öğretmenlerin 5000 lira galatsaraylı öğretmenleri 4500 lira alması
 https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular 
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd fener olalım
 bkz amsterdam 3000 uero vs istanbul 15000 lira maaş
