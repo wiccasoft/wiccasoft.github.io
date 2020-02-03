@@ -1,4 +1,6 @@
 <!-- 
+bkz erkan tanın ben niye 100.000 fatih niye 80.0000 lira alıyo demesi
+bkz erkan tyan vs fatih mandalina
 https://www.facebook.com/watch/?v=1010463862392162 verrr mehteriiiiiiiiiiii
 bkz ver mehteri ver mehteriiiiiiiiii
 bkz vergiler artırılsın biz de zengin olalım diyen devlet memuru
