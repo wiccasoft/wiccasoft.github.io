@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz akboyların bekçi üniformalarına bayılması
 bkz rte nin fakir halk ayaklanmasın diye bekçileri salması :)))))))
 bkz tek kurşun atmadan nonoşlaştırılan türkler
 bkz türklerin gdo dan dolayı nonoş gibi vücutları olması
