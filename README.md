@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlan ın beyin kanırtan aslolan fener açıklaması
 https://www.uludagsozluk.com/k/yeni-duydu%C4%9Funu-biliyormu%C5%9F-gibi-yapan-insan/&w=bg 
 bkz 1 şubat fener kafileye saldırmalarını yeni duymam
 bkz 1 şubat 2020 fener kafileye saldırmaları kankağğğğğ
