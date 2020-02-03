@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz telefonda yusuf güneyi wallpaper yapan kız
 bkz ya yusuf güney çok yakışıklı demden yürüycem diyen kız
 bkz yusuf güneyin instagramı neydi diyen kız
 bkz orhan gence bayın demeyi kapaması
