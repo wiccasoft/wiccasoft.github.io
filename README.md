@@ -1,4 +1,5 @@
 <!-- 
+bkz hanımdan dolayı fenerliyim yoksa elti hep gs li diyen erkek
 bkz fenerli erkek gassaraylı erkek aşkı
 bkz fenerli fanatik kısmet arayan beşiktaşlı erkek
 bkz ruhi çenet testeredeki adam benzerliği
