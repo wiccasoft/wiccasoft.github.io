@@ -1,6 +1,5 @@
 <!-- 
-bkz loris karius süper zaten ya diyen beşiktaşlı erkek
-bkz beşiktaş maçlarını kaçırmam diyen erkek
+bkz instagramda sadece loris karius u takip ederim diyen erkek
 bkz facebook instagram twitter whats up tiktok çok severim çok diyen erkek
 bkz facebook instagram twitter olmazsa olmazlarım beni böyle kabul et diyen erkek
 bkz facebooksuz yaşayamam zaten diyen erkek
