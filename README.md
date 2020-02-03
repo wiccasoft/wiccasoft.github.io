@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün cumhuriyetin bekçileri en yüce duyguların insanıdır demesi
 bkz bekçiler kıskanılıyosa bniye bekçi olmuyolar sorunsalı
 bkz högümet bekçilere karı veiyo mu sorunsalı
 bkz bekçiler 1 öküz parası alıyosa mürüçü kaç öküz parası eder
