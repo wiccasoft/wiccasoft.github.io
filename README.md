@@ -10,21 +10,6 @@
 expectations and reality
 https://galeri13.uludagsozluk.com/601/heidi-klum-un-gotu_1973041.jpg
 https://www.uludagsozluk.com/e/42801566/ 
-bkz ruhi çenetin enes abiyle olan videolarını silmesi
-bkz ruhi çenetin türkiyenin steve jobsıysa barış özcanın elon muskı olduğu gerçeği
-bkz ruhi çenetin sakallarım çıkmadan ölmek istemiyorum demesi
-bkz ruhi çenetin testeredeki adam benim demesi
-bkz cüneyt özdemirin giydiği gömlek
-bkz cüneyt özdemirin ruhi çeneti kıskanması
-bkz ruhi çenetin büyünce sakal bırakacam demesi
-bkz ali koçun vedat mürüçü aslı bekiroğluna ayarlayalım demesi
-bkz ali koçun vedat mürüçü bakkala yollaması
-bkz aslı bekiroğlunun ruhi çenetle reynmenin arasını yapması
-bkz ruhi çenetin enes baturla arasının açılması
-bkz aslı bekiroğlu vs 6 aylık ömrü kalmış instagramı olmayan adam
-bkz ruhi çenet vs testeredeki adam
-bkz islamofaşoların gümbür gümbür geldiği gerçeği
-https://vedat-minor-combo.uludagsozluk.com/ bkz tehlikenin farkında mısınız
 https://www.uludagsozluk.com/k/t%C3%BCrk-diyince-akla-m%C3%BCsl%C3%BCman-gelir/
 bkz facebooktan gbt bakan bekçinin yenge de kütr kütr müş demesi
 bkz facebook instagram twitterı olmayan terörist
