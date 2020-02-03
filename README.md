@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz nihat özdemir ata demirerere verdiği ayar
 bkz rece ptayyip erdoğanın yaşasın ukrayna demesi
 expectations and reality
 https://galeri13.uludagsozluk.com/601/heidi-klum-un-gotu_1973041.jpg
