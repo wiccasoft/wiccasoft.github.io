@@ -1,4 +1,5 @@
 <!--
+bkz amsterdam 3000 euro vs istanbul 15,000 lira maaş
 bkz solitaire oynarken yorulan devlet memuru
 bkz devlete yeni vergi önerileri arabada 5 evde 15
 bkz devlet memurlarının para sayarken yoruluyoruz demesi
