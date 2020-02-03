@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz fenerlilere fenerli diyen fanatik 
 bkz tayyipçi turiste tayyipçi diyen ırkçı
 bkz arap tursite ana avrat diyen ırkçı
 bkz fanatik dinciler vs ırkçılar
