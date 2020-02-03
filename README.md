@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook u farmville için tutuyorum diyen erkek
 bkz facebook instagram twitter gün aşırı arasıra girerim diyen erkek
 bkz facebooktan arasıra dayıoğlanı pokelarım diyen erkek
 bkz barış özcan ruhi çenet aboneliğim var diyen erkek
