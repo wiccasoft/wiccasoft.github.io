@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-nkz aslı bekir oğlunun ben de müslümüm demesi
+bkz aslır bewkiroğlanın benle oynamıyolar yaa demesi
+bkz aslı bekir oğlunun ben de müslümüm demesi
 bkz seni çıldırtmak için önünde domalacam diyem müslüm
 bkz müslümlerin ateistleri çıldırtıcı hareketleri
 bkz müslümlerin ateistleri çıldırmak için domalmaları
