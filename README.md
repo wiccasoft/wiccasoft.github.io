@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacünün sünnetsiz olduğu iddaları
 bkz atacücünün feneri daha bi kayırdığı gerçeği
 bkz atayız deyince akla atademirer gelmesi
 bkz adından atayız olduğu belli olan futbolcular
