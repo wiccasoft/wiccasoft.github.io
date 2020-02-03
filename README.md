@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 bkz ata cücünün pipipinin de küçük olduğu gerçeği
 bkz ata cücünün benim memurum işin bilir demesi
 bkz ata cücünün atacı olduğu gerçeği
