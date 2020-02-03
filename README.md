@@ -1,4 +1,5 @@
 <!--
+bkz işsiz öğretmen çocuklarının fener ol kampanyası düzenlemesi
 bkz polis öğretmen maaşları 20000 olsun kampanyası
 bkz polisin 5000 öğretmenin 4000 alması
 bkz fenev bavce vs gavatsaray
