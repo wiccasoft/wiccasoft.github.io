@@ -1,4 +1,5 @@
 <!-- 
+bkz fenerli fanatik kısmet arayan beşiktaşlı erkek
 bkz ruhi çenet testeredeki adam benzerliği
 bkz ruhi çenetin neden sakallları çıkmıyor sorunsalı
 bkz hanımdan dolayı fenerliyim diyen erkek
