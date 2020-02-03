@@ -1,7 +1,6 @@
 <!--
 bkz devlet memurlarının güldürmesi
-bkz mamaşının arttırmak için çift anadal takılacam diyen şark kurnazı
-bkz maaşının arttırmak için açıköğretim okuyan anadolu çakalı
+bkz maaşının arttırmak için açıköğretim okuyan anadolu çakalı asdasdasdasa
 bkz yazılım mühendisi 20000 dolar biz niye 4000 len amq diyen devlet memuru
 bkz bekiroğlunun beyin yakan vedat mürqü yorumu
 bkz merve beyin beyin yakan bekiroğlu gecesi
