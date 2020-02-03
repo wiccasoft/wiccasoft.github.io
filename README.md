@@ -1,4 +1,5 @@
 <!-- 
+bkz face de okey atarken amirin nabıyon cacık demesi
 bkz beyin kanırtan merve bozbey kınası
 bk fatih terim vs fatih portakal
 bkz babiişkonun bekçi anişkonun öğretmen olması
