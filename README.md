@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz aslı bekiroğlunun evet götüm göründü kürdüm ne var açıklması
+bkz aslı bekiroğlunun evet kürdüm suç mu açıklması
 bkz erkan tatnın ver mehteri haçlılara demesi
 bkz rte nin türk ırkçıları yeterince aç bırakırsak bölgede denge sağlanır sözü
 bkz rte nin suri din kardeşlerimize maaş konusunu tatlıya bağlarız sözü
