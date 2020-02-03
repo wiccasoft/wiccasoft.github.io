@@ -1,4 +1,5 @@
 <!-- 
+bkz beyin kanırtan merve bozbey kınası
 bk fatih terim vs fatih portakal
 bkz babiişkonun bekçi anişkonun öğretmen olması
 bkz anneyi babayı işe yollayıp incide trollük yapmak
