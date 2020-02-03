@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz sabahtan beri seks yapmamış insan öfkesi
+bkz sabahtan beri seks yapmamış insanların öfkeli olması
 bkz seks yapamayan seksüel öfkesi
 bkz bi sevişse siniri geçecek insanlar
 bkz ata demirerin atayız olduğu gerçeği
