@@ -1,4 +1,6 @@
 <!--
+bkz facebook instagram twitter kullanmayan erkeği kelimelere sığdır
+https://www.uludagsozluk.com/k/facebook-instagram-whatsap-twitter-%C4%B1-olmayan-erkek/&w=bg
 bkz erkan tanı 3 kelime ile anlat
 bkz fatih portakal vs erkan tan
 bkz sivas kangalı vs ankara çomarı
