@@ -1,4 +1,5 @@
 <!--
+bkz arap turiste ana avrata kayan tursitin yahalanması tıklağ link
 bkz aslı bekiroğlanın kürt olduğu gerçeği
 bkz aslı bekiroğlanın mervelerde kalmaya gitmesi
 bkz bekir bozdağın aslı bekiroğlana yürümesi
