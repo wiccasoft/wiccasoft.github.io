@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demirerin ata türkçü ırkçı olduğu gerçeği
 bkz ata demirerin atayızolduğu iddaları
 bkz ata demirerin arap turistin üstüne yanlışla oturdum demesi
 bkz erkek arap turiste hem cinsiyetçi hem ırkçı erkek
