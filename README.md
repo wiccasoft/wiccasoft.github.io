@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz rte nin surilere maaş konusunu tatlıya bağlarız sözü
+bkz rte nin suri din kardeşlerimize maaş konusunu tatlıya bağlarız sözü
 bkz rte nin arap turistler için bekçi aldım demesi
 bkz rte nin diktator olsam bekçilerim rahatça gezemezdi demesi
 bkz rte nin adolf hitleri tokat manyağı yapıp ananı laciverde boyadım demesi
