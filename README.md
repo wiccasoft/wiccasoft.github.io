@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz facebook instagram twitterı olmayan terörist
 bkz tehlikenin farkında mısınız
 https://www.uludagsozluk.com/k/10-y%C4%B1l-esnafl%C4%B1k-yapana-bek%C3%A7i-yetkisi/
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
