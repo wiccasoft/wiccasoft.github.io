@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz uzman çauş maaşlarını kıskanan çaycılar
 bkz bekçi ataması bekleyen öğretmenlerin hileyle bekçilik sınavına girmesi
 bkz ata cücünü cumhuriyetin bekçileri en asil duyguların insanıdır lafı
 bkz müjdat gezenin bekçi filminn izleyip bir kez daha cumhuriyetin bekçileri olduklarını anlamak
