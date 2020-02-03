@@ -1,4 +1,5 @@
 <!-- 
+bkz erkantanın ver mehteri virüse demesi
 bkz diyarbakırlı travesti bekirin aslı bekiroğlana güzel diyen bana demesin demesi
 bkz merve bozbeyin beyin kanatan aslı bekiroğlu yorumu
 bkz aslı bekrioğlunun vedat mürüçüyüe yürümesi
