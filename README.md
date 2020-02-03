@@ -1,4 +1,5 @@
 <!--
+bkz selin ciğercinin beyin kanatan kına gecesi
 bkz anam avradım olsun diyen adamın beyin kanatan vedat mürüqü yorumu
 bkz anam avradım olsun diyen adamın fenebahçeye transfer olması
 bkz anam avradım olsun diyen adamın yahalanması
