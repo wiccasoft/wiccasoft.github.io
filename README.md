@@ -1,4 +1,5 @@
 <!--
+bkz cimerin aslı bekiroğlunun hesabını incelemesi
 bkz aslı bekiroğlunun diyarbakır emniyete gitmesi
 bkz polis çocuklarının beyin kanatan merve bozbey yorumu
 bkz polislerin gbt ye facebooktan bakması
