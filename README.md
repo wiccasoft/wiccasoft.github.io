@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz bekçiler 1 öküz parası alıyosa örtmenler niye 2 öküz parası almıyo
 bkz bekçilerin her ay bir öküz parası kazanması
 bkz oo paraya öküz alınır denilecek maaşlar
 bkz beçilerin dudak uçurtan maaşları
