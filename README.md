@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ronaldo vs messi hagi alezmi kankağğğ
+bkz ronaldo vs messi hagi mi alezmi kankağğğ
 bkz rte nin sarı çıyan ata cücüyü daşşaklarıyla ezdiği gerçeği
 bkz rte nin daşşakları vs ata cücünü sünnetsiz pipisi
 bkz rte nin daşşaklarıyla ata cücüyü ezdiği gerçeği
