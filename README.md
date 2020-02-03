@@ -1,5 +1,6 @@
 <!-- 
-bkz facebook instag twitter olmazsa olmazlarım diyen disiplinli erkek
+bkz her yere telefon numaramı veririm diyen disiplinli erkek
+bkz facebook instagram twitter olmazsa olmazlarım diyen disiplinli erkek
 bkz telefonu olmayan ama  koyu geyseli erkek
 bkz telefon alırsam facebook instagram twitter hepsini kuracam diyen erkek
 https://www.youtube.com/watch?v=BV1RcLhMFYs ben doğuştan beşiktaşlıyım diyen erkek
