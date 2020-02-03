@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlunun takıldığı elemanın diyarbakırlı çıkması
 bkz cimerin aslı bekiroğlunun hesabını incelemesi
 bkz aslı bekiroğlunun diyarbakır emniyete gitmesi
 bkz polis çocuklarının beyin kanatan merve bozbey yorumu
