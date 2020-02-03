@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz michael jordanın daşşakları vs laz ziyanın pipisi
 bkz al ikoç michael jordan ı getirsin kampayası be kankağğ
 bkz michael jordanı türküyüyü getirir myiiz kankaaaağ hadi be kankağğğ
 bkz michael jordan müslüman mıdır kankağğ hiç namaz kılarkene görmedim kankaaaaaaağ
