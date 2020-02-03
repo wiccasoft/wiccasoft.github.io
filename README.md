@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkzmünin tursite arap diyen ırkçı
+bkz türk erkeği vs arap erkeği
+bkz münin tursite arap diyen ırkçı
 bkz arap turiste anam avradım olsun diyen ırkçı
 bkz arap turiste arap diyen denyo ırkçı
 bkz mümin tursite arap diyen faşist ırkçı
