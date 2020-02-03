@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz kzızı kıskandırmak için istagramda kızlara bakan erkek
+bkz kızı kıskandırmak için aslı bekiroğluyla seviştim diyen erkek
+bkz kızı kıskandırmak için istagramda kızlara bakan erkek
 bkz kızın yanında instagram açan erkek
 bkz josep guardiola imzayı atıp demeyi açması
 bkz rte nin instagramı olmayan evlerin kızlarını tespit edin emri önergesini imzalaması
