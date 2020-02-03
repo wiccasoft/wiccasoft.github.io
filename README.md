@@ -1,5 +1,5 @@
 <!-- 
-bkz facebook insgram arasıra bakar tıklar çıkarım diyen erkek
+bkz facebook insgram arasıra kaydırır bakarım  diyen erkek
 bkz dayıoğlu benim koyu gsli diyen erkek
 bkz hanımdan dolayı fenerliyim yoksa elti hep gs li diyen erkek
 bkz fenerli erkek gassaraylı erkek aşkı
