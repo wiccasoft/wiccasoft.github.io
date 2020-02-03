@@ -18,7 +18,6 @@ bkz anam avradım olsun aaraplara dokandırmam diyen ırkçı
 bkz daha cümle bile kuramayan ergenlerin anarşizm dersi vermesi 
 bkz neyi sevip sevmeyeceğime karışan faşist
 bkz hangi ırktansın diye soran ırkçı
-bkz arap turiste bile derken arapları aşağılayan ırkçı
 bkz türk vergi sistemi derken ırkçı ifade kullanan ırkçı
 bkz arap tursite ana avrat cümlesini kuran faşist
 bkz evanjesist turiste evanjelist diyen ayrımcı faşist
