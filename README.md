@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz fatih mandalina pipsi vs erkan tan daşşakları
 bkz ata cücünü sünnetsiz pipisi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ daşşakları kaç okkadır sorunsalı
 bkz ata cücünü oç bir ateist olduğu gerçeği
