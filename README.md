@@ -1,6 +1,5 @@
 <!-- 
-bkz telefon alırsam facebook kuracam diyen erkek
-bkz telefon kılıfım bile siyah beyaz diyen erkek
+bkz telefon alırsam facebook instagram twitter hepsini kuracam diyen erkek
 https://www.youtube.com/watch?v=BV1RcLhMFYs ben doğuştan beşiktaşlıyım diyen erkek
 bkz beşiktaş maçlarını kaçırmam quaresmacıyım diyen erkek
 bkz facebook gassaray sayfasına like attım diyen fenerli erkek
