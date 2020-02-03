@@ -1,4 +1,5 @@
 <!--
+bkz muhtar maaşları vs savcı maaşları
 https://www.youtube.com/watch?v=ox93sf0-tPQ 
 bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz daha cümle kuramayan tiplerin maaş beğenmemesi
