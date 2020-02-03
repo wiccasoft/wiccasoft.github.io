@@ -1,4 +1,5 @@
 <!--
+bkz anamı sikin facebook instagram twitter ve telefonuma dokunmayın diyen erkek
 bkz facebook instagram twitter olmadan yaşamam diyen erkek
 bkz facebook instagram twitter ve telefonum diyen erkek
 bkz facebook instagram twitter ve telefonum diyen erkek
