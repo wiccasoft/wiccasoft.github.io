@@ -1,4 +1,5 @@
 <!--
+bkz ali koçun beyin kanatan vedat mürqü yorumu
 bkz bekiroğlanın takıldığı elemana kirvem demesi
 bkz bekiroğlanın merve bozbeylerde beyin kınatan yoruma çıkması
 bkz bekiroğlunun diyarbekirli travestilerden dayak yemesi
