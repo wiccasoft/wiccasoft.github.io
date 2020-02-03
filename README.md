@@ -1,5 +1,6 @@
 <!--
-bkkz erkan tanın ver mehterrrrrrrrrri haçlılara  demesi
+bkz fox tv yütüp sayfasını fatih portakal için takip etmem
+bkz erkan tanın ver mehterrrrrrrrrri haçlılara  demesi
 bkz fatih mandalinanın sadece aptallar anlayamz beni duruşu
 bkz fatih madalinanın bi daha anlatim mi duruşu
 bkz fatih mandalina vs erkan tan
