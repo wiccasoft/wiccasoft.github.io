@@ -1,5 +1,5 @@
 <!--
-bkz aslı bekiroğlu vs diyarbarkılı travesti nihal
+bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz daha cümle kuramayan tiplerin maaş beğenmemesi
 bkz beyin kanatan entry ana avrat yahalanması
 bkz beyin kanatan entry girerekene örtmen annenin kek getirmesi
