@@ -1,4 +1,5 @@
 <!--
+bkz ana avrat polise söven arabın yahalanması
 bkz masörlerin 5000 polisin 5000 alması
 bkz ali koçun beyin kanatan vedat mürqü yorumu
 bkz bekiroğlanın takıldığı elemana kirvem demesi
