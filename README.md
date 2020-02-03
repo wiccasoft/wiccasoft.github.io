@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz yıldırım demrerin ata demirören taklidi
+bkz bizim atalar demirciymiş diyen 190 kilo erkek
+bkz yıldırım demirerin ata demirören taklidi
 bkz turgut özalın oğlunun ata demirer taklidi yapması
 bkz yıldırım demiröernin ata demirören vurucam kırbacı benim olcak demesi
 bkz ata demirerin gülse birselle yeni bir projem var müjdesi
