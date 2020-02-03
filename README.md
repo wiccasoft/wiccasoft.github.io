@@ -1,4 +1,5 @@
 <!-- 
+bkz türklerin götündeki dona kadar amerikaya muhtaç olduğu grçeği
 bkz türklerin ürettiği tek bir şey söyleyin
 bkz türklerin yoğurt dışında dünyaya katkıları
 bkz türklerin herkesi kendileri gibi facebook instagram twitter kullanıyor sanması
