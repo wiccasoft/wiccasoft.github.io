@@ -1,4 +1,5 @@
 <!-- 
+bkz ffacebook twitter instagram olmazsa intihar ederdim diyen erkek
 bkz facebook instagram twitter olmazsa olmazlarım diyen erkek
 bkz telefonla sabaha kadar sevdicekle kadar konuşur feyste okey atar yatarım diyen erkek
 bkz facebooku dayıoğluyla okey için kullanırım diyen erkek
