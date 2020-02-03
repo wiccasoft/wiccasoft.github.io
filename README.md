@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz mbekçiler 1 öküz parası alıyosa mürüçü kaç öküz parası eder
+bkz högümetin bekçilere karı veiyo mu sorunsalı
+bkz bekçiler 1 öküz parası alıyosa mürüçü kaç öküz parası eder
 bkz bekçiler 1 öküz parası alıyosa örtmenler niye 2 öküz parası almıyo
 bkz bekçilerin her ay bir öküz parası kazanması
 bkz oo paraya öküz alınır denilecek maaşlar
