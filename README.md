@@ -8,7 +8,8 @@
 
 <!--bkz ata cücünün çükünün sünnetsiz olduğu gerçeği 
 https://eksisozluk.com/bekcinin-5071-tl-hekimin-6000-tl-maas-almasi--6350072?a=popular 
-bkz bekçi vs hekim -->
+bkz bekçi vs hekim 
+bkz hekimlerin bekçileri protesto etmesi-->
 
 [![Image](shadow/Screenshot_2020-01-27_08-58-18.png)]( https://www.youtube.com/watch?v=mdFrn89x74k )
 
