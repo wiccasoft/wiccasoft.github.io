@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz mümin sevdiceğine göt küçültme ameliyat hediye eden kız
 bkz feslinni ben gençken çok vurdurdum demesi
 bkz ata demirerin göt küçültme ameliyatıyla götüme küçültecem demesi
 bkz aslı bekiroğlunun iphone4s alacam onlarda böyle sorun olmuyomuş demesi
