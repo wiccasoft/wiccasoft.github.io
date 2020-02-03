@@ -1,4 +1,5 @@
 <!--
+bkz ana avrat kayan turistin yahalanması
 bkz sadık çiftpınar taylor swift arasında beyin kanatan aşk olduğu dedikoduları
 bkz aslı bekrioğlanın vedat mürükle parası için takılması
 bkx sadık çiftpınarın aslı bekiroğlana yürümesi
