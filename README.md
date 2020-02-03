@@ -1,4 +1,5 @@
 <!-- 
+bkz fatih portakalın el kol hareketleriyle anladınız mı hareketi
 bkz fatih portakalın daha akıcı anlattığı gerçeği 
 bkz fatih portakalın daha bi aptala anlatır gibi anlatması
 https://www.facebook.com/watch/?v=1010463862392162 verrr mehteriiiiiiiiiiii
