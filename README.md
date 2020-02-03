@@ -1,4 +1,5 @@
 <!--
+bkz fenerli öğretmenler için fener ol kampanyası düzenliyoruz 
 bkz facebook fenerli öğretmen çocukları sayfasında dönene geyik
 bkz aslı bekieroğlu bs vedat mürüçoülu
 bkz facebook fenerli öğretmenler grubuna bekleriz poker atıyoruz orda
