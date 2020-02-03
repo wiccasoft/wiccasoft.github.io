@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://eksisozluk.com/bekcinin-5071-tl-ogretmenin-4013-tl-almasi--6349712?a=popular zuahahhaha
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ laz ziyanın daşşşakları
 https://eksisozluk.com/bekcinin-5071-tl-hekimin-6000-tl-maas-almasi--6350072?a=popular zuahahha
 https://eksisozluk.com/havaya-ates-acan-bekcinin-bekciyi-vurmasi--6350060?a=popular zuahhahaha
