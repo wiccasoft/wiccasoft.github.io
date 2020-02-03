@@ -1,4 +1,5 @@
 <!--
+https://vedat-minor-combo.uludagsozluk.com/ sabah sabah ayarı verdin abbi büyüksün cahiller çaktın lafı
 https://www.uludagsozluk.com/k/insagramdan-kar%C4%B1-k%C4%B1z-kovalayan-tayfa/ seni mi kovalasınlar sami
 https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ ananın amı artık sami
 https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ay götüm ayol
