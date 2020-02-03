@@ -1,4 +1,5 @@
 <!--
+bkz bekçinin 5000 polisin 5000 alması 
 bkz ali koçun beyin kanatan vedat mürqü yorumu
 bkz bekiroğlanın takıldığı elemana kirvem demesi
 bkz bekiroğlanın merve bozbeylerde beyin kınatan yoruma çıkması
