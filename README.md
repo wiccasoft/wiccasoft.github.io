@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz pilavlıya niye gelmedin sikerdin beni diyen müslüman
 bkz beni bikere siksen sakinleşirsin diyen müslüman
 bkz götveren müslümanların çıldırtamaması
 bkz götveren müslümanları kimsenin siklemediği gerçeği
