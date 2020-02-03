@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ersun yanalın mevzu araplarsa çalıştırırm demesi
 bkz araplara saygıyı öğrenemeyen it oğlu it türk
 bkz arapları saygıyı öğrenemeyn it soyu füğşik türk
 bkz ülkesine kutsal topraklardan misafir gelmişken itlik yapan türk
