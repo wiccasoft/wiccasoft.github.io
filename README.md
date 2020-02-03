@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz facbook u olmayan kız vs instagramı olmayan kız
 bkz instagramı olmayan kız 
 bkz aslı bekiroğlan ki amk
 bkz aslı bekiroğlanın sıkması
