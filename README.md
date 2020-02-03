@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz laz ziyanın testere necmiye sen kim oluyorda feguliyi satıyon demesi
+bkz laz ziyanın testere necmiye sen kim oluyonda feguliyi satıyon demesi
 bkz seyfo dayının feguliyle s400 leri satalım s500 alalım önerisi
 bkz seyfo dayıya köz getir seriiii 
 bkz köftecide selamun aleykum kimlik görüm diyen bekçiye aleykümselam demeyen genç
