@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-https://www.uludagsozluk.com/e/42798920/ bulursan gelsin beni de siksin bayılırm öyle erkeklere
+https://www.uludagsozluk.com/e/42798920/ bulursan gelsin beni de siksin bayılırım öyle erkeklere
 https://www.uludagsozluk.com/k/sigaras%C4%B1-alkol%C3%BC-zinas%C4%B1-kumar%C4%B1-olmayan-erkek/ 
 bkz atacününü pipisinin kalkmadığı iddaları
 bkz aslı bekiroğlunun yeni seks pozisyonları deneyecem açıklaması
