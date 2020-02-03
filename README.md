@@ -1,5 +1,5 @@
 <!--
-bkz beyin yakan polis 5000 arabda 15000 hoşuma da giderse bedeve
+bkz arabada 5000 evde 15000 hoşumada giderse bedeve
 bkz beyin yakan arap tursitin ana avrat yahalanması
 bkz beyin kanatan link atana arap turistin beyin kanatması
 bkz link atan ana avrat yahalanması link
