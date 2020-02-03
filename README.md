@@ -1,4 +1,6 @@
 <!--
+bkz ismail yk nın facebook reklamı
+bkz facebook instagram twitter
 bkz ölü akrabasını facebooktan silmeyen erkek
 bkz kuryelerin bile facebooktan adres bulması
 bkz facebook tan gbt sorgulayan türk polisi
