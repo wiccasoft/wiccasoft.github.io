@@ -1,5 +1,5 @@
 <!--
-bkkz erkan tanın ver mehterrrrrrrrrri demesi
+bkkz erkan tanın ver mehterrrrrrrrrri haçlılara  demesi
 bkz fatih mandalinanın sadece aptallar anlayamz beni duruşu
 bkz fatih madalinanın bi daha anlatim mi duruşu
 bkz fatih mandalina vs erkan tan
