@@ -1,22 +1,7 @@
 <!-- 
 bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç olduğu grçeği
-bkz türklerin ürettiği tek bir şey söyleyin
 bkz türklerin yoğurt dışında dünyaya katkıları
-bkz türklerin herkesi kendileri gibi facebook instagram twitter kullanıyor sanması
-https://www.uludagsozluk.com/k/facebook-instagram-whatsap-twitter-%C4%B1-olmayan-erkek/&w=bg
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
-bkz türkler facebook u kapatsa facebookun batacağı gerçeği :)))))))))))
-bkz biz çinde zaten hep facebook kullanıyoz diyen erkek
-bkz facebook instagram twitterı çok severim diyen çinli erkek
-bkz facebook instagram twittter erkeğiyim diyen erkek
-bkz facebook instagram twitter erkeğin aksesuarıdır diyen erkek
-bkz facebook instagram twitter bi kadında aradığım ilk özellikler diyen erkek
-bkz facebook instagram twitter olmayan erkeğin erkekliği
-bkz erkek adam dediğin facebook instagram twitter kullanır diyen erkek
-bkz facebook instagram twitter olmazs olamzlarım diyen disiplinli erkek
-bkz facebook insgram twtiter olmasaydı mağara adamı olurdum diyen erkek
-bkz facebook dayıoğlanla okey için kullanıyorum diyen erkek
-bkz instagramı aslı bekiroğlu için kullanıyorum zaten diye erkek
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
 acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz galsatasaray fenerbahçe beşiktaş için göt veririm diyen erkek
