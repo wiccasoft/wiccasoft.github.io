@@ -1,6 +1,6 @@
 <!--
-bkz kızlara hava atmak içib facebook instagram twitter adresim var demek
-bkz  kızları etkilemek için yütüp barış özcan abonesi olmak
+bkz kızlara hava atmak için facebook instagram twitter adresim var demek
+bkz kızları etkilemek için yütüp barış özcan abonesi olmak
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-%C3%B6zcan-t%C3%BCrkiyenin-elon-muskudur/ 
 bkz facebook instagram twitter da milf avına çıkmak
 bkz arkdaşın annesin göğüs çatallı facebook resmini bilgisayara indirmek
