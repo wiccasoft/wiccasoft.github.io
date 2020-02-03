@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünü elbet bekçiler müdafaı hakkı garibet eyleycektir lafı
 bkz ata cücünün beni türk bekçilerine emanet ediniz  lafı
 bkz atacücünün cumhuriyet bekçilerin damaralarındaki asil kanda mevvuttur lafı
 bkz ata cücünün cumhuriyetin bekçileri ki ne asildirler lafı
