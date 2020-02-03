@@ -1,4 +1,5 @@
 <!-- 
+bkz anne tarafı hep sivasporludur diyen erkek
 bkz hanımdan dolayı erzurumsporlu yum diyen erkek
 bkz facebook instagram twitter ı arasıra kullanırım diyen erkek
 bkz facebook u sadece farmville için kullanıyorum diyen erkek
