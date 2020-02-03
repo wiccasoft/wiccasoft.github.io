@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz josep guardiola instagrama geldim beyler demesi
 bkz aslı abla gibi instagram istiyom diyen kız
 bkz aslı ablanın instagramı vay benim niye yok diyen kız
 bkz aslı bekiroğlanın mevzu fener se niye demeyi kapıyayım demesi
