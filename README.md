@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz jürgen klopp un demeyi kapaması
 bkz yakalarsam tık tık denilen kızın tik tok çu çıkması
 bkz facebooktan yürünülen kızın instadan koşarak tik toka atlaması
 bkz facebook kasıyo instaya geçelim diyen kızın twtitter kaçması
