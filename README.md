@@ -11,8 +11,6 @@ bkz ata cücünün bekçide öle yan gelip yatmayacak amk lafı
 bkz ata cücünün elbet bi bi kaç kelle gidecek olacak canım okadar lafı
 bkz ata cücünü cumhuriyet cumhuriyeti bekleyenlerdin dir elbette lafı
 bkz ata cücünü elbet bekçiler müdafaı hakkı garibet eyleycektir lafı
-bkz ata cücünün beni türk bekçilerine emanet ediniz  lafı
-bkz atacücünün cumhuriyet bekçilerin damaralarındaki asil kanda mevvuttur lafı
 bkz ata cücünün cumhuriyetin bekçileri ki ne asildirler lafı
 bkz atacünün en asil bekçiler cumhuriyetin bekçileridir lafı
 bkz ata cücünün atacı olduğu geerçeği
