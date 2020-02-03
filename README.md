@@ -1,5 +1,5 @@
 <!--
-bkz devlete yeni vergi önerileri
+bkz devlete yeni vergi önerileri arabada 5 evde 15
 bkz devlet memurlarının para sayarken yoruluyoruz demesi
 bkz polis 5000 niye biz 4000 diyen gerizekalı devlet memuru
 bkz yazılım mühendisini 15000 dolar biz niye 4000 lira kazanıyoruz diyen gerizekalı devlet memuru
