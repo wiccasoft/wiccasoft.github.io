@@ -1,4 +1,5 @@
 <!--
+bkz amsterdam 300 uero vs istanbul 15000 lira maaş
 bkz polisin 5000 cik öğretmeninin 4000 cik alması
 bkz öğretmen maaşları 50000 olsun kampanyası
 bkz işsiz öğretmen çocuklarının fener ol kampanyası düzenlemesi
