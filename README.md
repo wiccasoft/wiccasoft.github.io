@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz yakalarsam tık tık denilen kızın tik tok çu çıkması
+bkz facebooktan yürünülen kızın instadan koşarak tik toka atlaması
 bkz facebook kasıyo instaya geçelim diyen kızın twtitter kaçması
 bkz kıskandırmak için instadan ismail yk facebook şarkısı yollayan erkek
 bkz kızı kıskandırmak için aslı bekiroğluyla seviştim diyen erkek
