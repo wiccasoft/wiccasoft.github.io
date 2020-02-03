@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz haz muhammedin arap olduğüu bilemeyn itoğlu it
 bkz araplara küfreden ırkçı köpek
 bkz kamal itinin arap düşmanı olması
 bkz arap turiste ana avrat küfr eden türkçü köpek
