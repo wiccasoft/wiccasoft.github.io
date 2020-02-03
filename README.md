@@ -1,4 +1,5 @@
 <!--
+bkz elon musk 50 milayr dolar len amq
 bkz barış özcanın türkiyenin elon muskı olması
 bkz ruhi çenetin türkiyenin steve jobsı  olması
 bkz barış özcanın türkiyenin elon muskı olması
