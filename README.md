@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ruhi çenetin testeredeki adam benim demesi
 bkz cüneyt özdemirin giydiği gömlek
 bkz cüneyt özdemirin ruhi çeneti kıskanması
 bkz ruhi çenetin büyünce sakal bırakacam demesi
