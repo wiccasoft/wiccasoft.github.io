@@ -6,7 +6,11 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--bkz ata cücünün çükünün sünnetsiz olduğu gerçeği 
+<!--
+bkz vedat mürüqü 150 mülyün yürü len amq
+bkz ata cücünü fenerli olduğu gerçeği
+https://eksisozluk.com/1-subat-2020-fenerbahce-kafilesine-silah-cekilmesi--6349964?a=popular
+bkz ata cücünün çükünün sünnetsiz olduğu gerçeği 
 https://eksisozluk.com/bekcinin-5071-tl-hekimin-6000-tl-maas-almasi--6350072?a=popular 
 bkz bekçi vs hekim 
 bkz hekimlerin bekçileri protesto etmesi-->
