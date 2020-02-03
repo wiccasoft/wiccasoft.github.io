@@ -1,4 +1,5 @@
 <!--
+bkz enes batur niye 50000 bekci niye 5000
 bkz türklerin beyin kanatan aslı bekiroğlan yorumu
 bkz abdurrahim albayrakın 3 mülyün yürü daha verelim ramosu alalım önerisi
 bkz aslı bekiroğlunun 1995 ten beri seks yapmıyordum açıklaması
