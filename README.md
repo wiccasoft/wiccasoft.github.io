@@ -1,6 +1,5 @@
 <!-- 
-https://www.facebook.com/watch/?v=1010463862392162 günaydıııııııııııın 
-https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-3-kelime-yak%C4%B1%C5%9Ft%C4%B1r/&w=bg
+https://www.facebook.com/watch/?v=1010463862392162 verrr mehteriiiiiiiiiiii
 bkz ver mehteri ver mehteriiiiiiiiii
 bkz vergiler artırılsın biz de zengin olalım diyen devlet memuru
 bkz içkiye zam yapılsın biz de 8000 alalım diyen örrtmen memur
