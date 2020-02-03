@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+nbkz tayyip verigleri arttırsın 15000 lira alsın bütün memurlar kampanyası
 https://eksisozluk.com/c-ronaldoyu-turkiyeye-getirebilecek-kulup--6350081?a=popular bkz fenerbahçe
 bkz vedat mürüqü 150 mülyün yürü len amq
 bkz ata cücünü fenerli olduğu gerçeği
