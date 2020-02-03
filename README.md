@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz seviştay abinin seks yapsan rahatlarsın demesi
+bkz bi sevişse siniri geçecek insanlar
 bkz ata demirerin atayız olduğu gerçeği
 bkz doğu perinçekin şener şen sessizliğini bozması
 bkz o s400 işi bitsin diyen ekşici abiler
