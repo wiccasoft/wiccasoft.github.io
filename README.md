@@ -7,10 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz enes abinin instagramı var benim yok diyen kız
 bkz aslı abla gibi instagram istiyom diyen kız
-bkz aslı ablanın instagramı vay benim niye yok diyern kız
-bkz instagramı olmayan kız
+bkz aslı ablanın instagramı vay benim niye yok diyen kız
 bkz aslı bekiroğlanın mevzu fener se niye demeyi kapıyayım demesi
 bkz aslı bekiroğlanın aslona fenerbahçedir paylaşımı
 bkz aslı bekiroğlanın demeyi kapaması
