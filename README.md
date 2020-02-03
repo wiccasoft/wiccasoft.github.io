@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/erkek-g%C3%B6t-k%C3%BC%C3%A7%C3%BCltme-ameliyat%C4%B1/
 https://vedat-minor-combo.uludagsozluk.com/ konuştukça dili açıylıyo veledi zinanın
 https://www.uludagsozluk.com/k/g%C3%B6t-k%C4%B1llar%C4%B1n%C4%B1-tra%C5%9F-eden-erkek/
 bkz kadı beni bilisin cink itmem tuzak kurarun
