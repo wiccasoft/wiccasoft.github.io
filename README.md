@@ -1,4 +1,5 @@
 <!--
+bkz bekçinin 3 ay tatil bir miktar holosko para istemesi
 bkz ana avrat polise söven arabın yahalanması
 bkz ali koçun beyin kanatan vedat mürqü yorumu
 bkz bekiroğlanın takıldığı elemana kirvem demesi
