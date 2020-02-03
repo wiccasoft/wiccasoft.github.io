@@ -1,4 +1,5 @@
 <!--
+bkz erkan tan ın fatih portakldan daha seksi anlattığı gerçeği
 bkz foc tv fatih portakal yazınca bütün yayınların çıkması
 https://www.youtube.com/watch?v=UfbA25A8BZY 31 ocak fatih portakal yayını
 bkz erkan tanın ver mehterrrrrrrrrri haçlılara  demesi
