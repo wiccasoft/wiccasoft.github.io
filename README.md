@@ -1,4 +1,5 @@
 <!--
+bkz facebook fenerli öğretmenler grubuna bekleriz poker atıyoruz orda
 bkz tek büyük fenerbahçe
 bkz aslonalan fenerbahcçedir geçerkeleri fenerbahçe yazar
 https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu/&w=bg bekir olalım
