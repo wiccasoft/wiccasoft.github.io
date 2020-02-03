@@ -6,7 +6,8 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!-
+<!--
+vkz michael jordanı türküyüyü getirir myiiz kankaaaağ hadi be kankağğğ
 bkz michael jordan müslüman mıdır kankağğ hiç namaz kılarkene görmedim kankaaaaaaağ
 bkz michael jordan ın atayız olduğu gerçeği
 bkz muhammed salah mı siker ronaldo mu kankağğğğ sence heee hangisi he
