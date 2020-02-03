@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kızkankağnın liseden erkek kankağlarıyla sarnaş dolaş olması kankaaaaağ napam kankağğğ
 bkz aslı bekiroğlanın beyin kanırtan pğaylaşımı 
 kankağ bi bak ben kan kaaaaağ belki paylaşmştır he kankaaaağğğğğğğğ
 bkz aslı bekiroğlunun diyarbekirgillerdeniz açıklaması
