@@ -1,4 +1,6 @@
 <!--
+bkz ersun yanal vs fatih erim
+bkz fenerbahçe vs galatsaray
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansu fenerbahçe galatsaray savşaları
 https://www.uludagsozluk.com/k/galatasaray-vs-be%C5%9Fikta%C5%9F-vs-fenerbah%C3%A7e/&w=bg
 bkz polisin 5000 lira bekçinim 500 lira öğretmenin 10000 lira alması
