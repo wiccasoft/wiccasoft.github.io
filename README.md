@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ilyas salman ilyaz bazna arasındaki kıza ilk ben demeden yürüdüm gerilimi
 bkz ilyas bazna nın aslı bekiroğlunu takipe alması
 bkz aslı bekiroğlunun instagramı kapaması
 bkz facbook u olmayan kız vs instagramı olmayan kız
