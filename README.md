@@ -3,8 +3,7 @@
 <!--
 bkz mustafa cengizin feguliyi satalım ciguli yi alalım  kararını vermesi 
 bkz arda turanın fethi portakalla barışıp yeşil sahalara dönüyorum sinyalini yakması
-bkz mustafa cengizin rece tayyi anamın üstünde yakalansa orospuluk anamdadır 
-o adama kimse bişey deyemeğ demesi
+bkz mustafa cengizin rece tayyi anamın üstünde yakalansa orospuluk anamdadır demesi
 -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
