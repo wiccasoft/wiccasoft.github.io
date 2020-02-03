@@ -1,4 +1,5 @@
 <!--
+bkz kuryelerin bile facebooktan adres bulması
 bkz facebook tan gbt sorgulayan türk polisi
 bkz polislerin bile facebooktan gbt sorgulaması
 bkz facebook instagram twitter olamzsa olmazlarım diyen disiplinli iş aşığı erkek
