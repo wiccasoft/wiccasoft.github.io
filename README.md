@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz fegulinin beyin kanırtan maaşı
 bkz gassaray feguliy satsın mı kankağ
 https://www.uludagsozluk.com/k/galatasaray-vs-be%C5%9Fikta%C5%9F-vs-fenerbah%C3%A7e/&w=bg
 bkz diyarbekirli travesti bekirin bekiroğaln güzel diyen bana demesin demesi
