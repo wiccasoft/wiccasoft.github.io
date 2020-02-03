@@ -1,5 +1,5 @@
 <!--
-bkz yazacağım yapa zekayla işsiz kalacak fenerli örtmenlerin güldürmesi
+bkz yazacağım yapay zekayla işsiz kalacak fenerli örtmenlerin güldürmesi
 bkz vedat mürüqü 150 milyün yürü len amq diyen öğretmen çocu
 bkz yazılım mühendisinin 15000 dolar öğretmenini 400 lira alması
 bkz hakim savcının 10000 öğretmenini 4000 alması
