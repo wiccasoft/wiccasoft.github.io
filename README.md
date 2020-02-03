@@ -1,4 +1,5 @@
 <!--
+bkz polisin 5000 cik öğretmeninin 4000 cik alması
 bkz öğretmen maaşları 50000 olsun kampanyası
 bkz işsiz öğretmen çocuklarının fener ol kampanyası düzenlemesi
 bkz polis öğretmen maaşları 20000 olsun kampanyası
