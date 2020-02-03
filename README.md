@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/yeni-duydu%C4%9Funu-biliyormu%C5%9F-gibi-yapan-insan/&w=bg 
+bkz 1 şubat fener kafileye saldırmalarını yeni duymam
 bkz 1 şubat 2020 fener kafileye saldırmaları kankağğğğğ
 yapma be kanka fener kafileye saldırmışlar amınakoduklarım
 https://www.uludagsozluk.com/k/1-%C5%9Fubat-2020-fenerbah%C3%A7e-kafilesine-silah-%C3%A7ekilmesi/
