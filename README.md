@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook gassaray sayfasına like attım diyen fenerli erkek
 bkz facebook u farmville için tutuyorum diyen erkek
 bkz facebook instagram twitter gün aşırı arasıra girerim diyen erkek
 bkz facebooktan arasıra dayıoğlanı pokelarım diyen erkek
