@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz bi seks yapsa bekçileri bile kıskanmaycaksın diyen erkek
+bkz sabah seksi yapmayanların bekçilere atarlanması
 bkz seks yapsa aslı bekiroğlan gibi rahatlayacak kızların kasması
 bkz seks yapan kızların tuvalette kucağa oturduğu söylentileri
 bkz aslı bekiroğlanın seks yaptım ortalık ondan dağınık demesi
