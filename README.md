@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/0544-808-7618/&w=bg kimin bu arıyorum kanka
 bkz instagram çapkın patronlarız sayfasından indirdiğim hatunlar
 bkz facebook instagram twitter whatsup tinder tiktok olmazsa olamzlarım diyen elit iş adamı
 bkz facebook instagram twitterım olmadan güne başlamam diyen erkek
