@@ -1,4 +1,5 @@
 <!--
+bkz ölü akrabasını facebooktan silmeyen erkek
 bkz kuryelerin bile facebooktan adres bulması
 bkz facebook tan gbt sorgulayan türk polisi
 bkz polislerin bile facebooktan gbt sorgulaması
