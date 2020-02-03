@@ -1,4 +1,5 @@
 <!--
+bkz beyin kanatan entry girerekene örtmen annenin kek getirmesi
 bkz beyin kanatan entry len amq
 bkz entry başına 4000 len amq
 bkz aslı bekiroğlu vs diiyarbakırlı travesti nihal vs travestilerden dayak yemeyen adam
