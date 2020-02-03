@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aşkım instagramımız olur mu diyen kız
 bkz aşım instagramda başka kızlara bakmayacaksın diyen kız
 bkz aşkım instagramımız ortak olsun bekçi tutarız diyen kız
 bkz aşkıım instagramımda bekçi üniformanı çıkar kızları deli etme diyen kız
