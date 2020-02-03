@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ata cücünün askerde yan gelip yatmayacak amk lafı
+bkz ata cücünün bekçide öle yan gelip yatmayacak amk lafı
 bkz ata cücünün elbet bi bi kaç kelle gidecek olacak canım okadar lafı
 bkz ata cücünü cumhuriyet cumhuriyeti bekleyenlerdin dir elbette lafı
 bkz ata cücünü elbet bekçiler müdafaı hakkı garibet eyleycektir lafı
