@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-ver mehteri veeeeeeeeer
+https://groups.google.com/forum/#!topic/turancatli/FUTca84KV9o mustafa cengiz aralarında
 https://gaiadergi.com/osmanli-toplumunda-erillik-escinsellik-oglancilik/
 https://gaiadergi.com/wp-content/uploads/2019/02/osmanlida-erillik-res13.jpg
 https://twitter.com/turkiyenoktanet/status/713576957368074240 haha bu işte :)))
