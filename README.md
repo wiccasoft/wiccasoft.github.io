@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz arap turiste bile derken arapları aşağılayan ırkçı
 bkz türk vergi sistemi derken ırkçı ifade kullanan ırkçı
 bkz arap tursite ana avrat cümlesini kuran faşist
 bkz evanjesist turiste evanjelist diyen ayrımcı faşist
