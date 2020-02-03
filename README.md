@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz rte nin diktator olsam bekçiler rahatça gezemezdi demesi
+bkz rte nin diktator olsam bekçilerim rahatça gezemezdi demesi
 bkz rte nin adolf hitleri tokat manyağı yapıp ananı laciverde boyadım demesi
 bkz rte papaza ananla ilişkiye girdim demesi
 https://www.uludagsozluk.com/k/papaz-a-ananla-ili%C5%9Fkiye-girdim-g%C3%BCnah-%C3%A7%C4%B1kart-demek/&w=bg
