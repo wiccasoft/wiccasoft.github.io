@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz malatyada bi bekçi ağliyo sikeyim adaletini dünya
+bkz malatyada bi bekçi ağliyo sikeyim muhalefitinizi oç ları
 https://www.uludagsozluk.com/k/malatya-da-bek%C3%A7ilere-b%C4%B1%C3%A7akl%C4%B1-sald%C4%B1r%C4%B1/
 bkz mustafa cengizin grup seksin arasına kaynaması
 https://groups.google.com/forum/#!topic/turancatli/FUTca84KV9o 
