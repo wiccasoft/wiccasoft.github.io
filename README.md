@@ -1,4 +1,5 @@
 <!-- 
+bkz dayıoğlu benim koyu gsli diyen erkek
 bkz hanımdan dolayı fenerliyim yoksa elti hep gs li diyen erkek
 bkz fenerli erkek gassaraylı erkek aşkı
 bkz fenerli fanatik kısmet arayan beşiktaşlı erkek
