@@ -1,4 +1,5 @@
 <!--
+bkz memurların çalışanların vergilerini yediği gerçeği
 bkz memurların beyin kanattığı gerçeği
 bkz ronaldonun beyin kanatan memurlar.net yorumu
 bkz ronaldo niye 5071  biz niye 4013 len amq
