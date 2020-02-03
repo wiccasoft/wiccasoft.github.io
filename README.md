@@ -1,4 +1,5 @@
 <!--
+https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular tıklağ
 bkz türklerin internetin virüsleri olduğu iddası
 bkz arap turisti ana avrat yahalanması
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg
