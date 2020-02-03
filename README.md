@@ -1,4 +1,5 @@
 <!-- 
+bkz aslı bekrioğlunun vedat mürüçüyüe yürümesi
 https://www.youtube.com/watch?v=_sDlTKgfUm0 zuahhahahaha
 bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç olduğu gerçeği
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
