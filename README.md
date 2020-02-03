@@ -1,5 +1,5 @@
 <!--
-bkz yazılım mühendisi niye 50000 dolar biz niye 4000 len amq diyen devlet memuru
+bkz yazılım mühendisi 20000 dolar biz niye 4000 len amq diyen devlet memuru
 bkz bekiroğlunun beyin yakan vedat mürqü yorumu
 bkz merve beyin beyin yakan bekiroğlu gecesi
 bkz vedat mürüqü 150 milyin len amq
