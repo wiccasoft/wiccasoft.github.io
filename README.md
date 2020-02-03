@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekioğlu dizi başına 200000 len amq
 bkz devlet memurlarının güldürmesi
 bkz yazılım mühendisi asgari ücret alsın diyen komünist devlet memuru
 bkz maaşının arttırmak için açıköğretim okuyan devlet memuru
