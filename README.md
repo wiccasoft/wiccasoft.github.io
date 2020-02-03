@@ -1,4 +1,5 @@
 <!--
+bkz bekçinin 4071 çaycının 5061 lira alması
 bkz muhtar maaşları vs savcı maaşları
 https://www.youtube.com/watch?v=ox93sf0-tPQ 
 bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
