@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata demiererin göt küçültme ameliyatı olacam ama pahalı demesi
 bkz ata demirerin sen de ata ben de ata bu atı kim ata esprisi
 bkz ata demirerin 50 kilo daha verim öle bırakim demesi
 bkz ata demirerin standupları bırakacam sözü
