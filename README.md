@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün atacı olduğu geerçeği
 bkz ata cücünün cumhuriyetin bekçileri en asil duyguların insanıdır demesi
 bkz cumhuriyetin bekçilerini kıskanan hain odaklar
 bkz ata cücünün cumhuriyetin bekçileri en yüce duyguların insanıdır demesi
