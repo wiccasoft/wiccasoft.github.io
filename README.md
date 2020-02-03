@@ -1,4 +1,5 @@
 <!--
+https://www.youtube.com/watch?v=vUg0gGLowCg facebooktan hoplattığım eski kızlar
 bkz demeden yürünen kızın burası kasiy facebook dan yürü demesi
 bkz facebook instagram twitterım var deyince kızların götünün erimesi
 bkz kızlara hava atmak için facebook instagram twitter adresim var demek
