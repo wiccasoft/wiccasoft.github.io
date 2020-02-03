@@ -1,5 +1,5 @@
 <!--
-bbkz demeden yürünen kızın burası kasiy facebook gel demesi
+bbkz demeden yürünen kızın burası kasiy facebook dan yürü demesi
 bkz facebook instagram twitterım var deyince kızların götünün erimesi
 bkz kızlara hava atmak için facebook instagram twitter adresim var demek
 bkz kızları etkilemek için yütüp barış özcan abonesi olmak
