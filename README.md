@@ -1,4 +1,5 @@
 <!--
+bkz kirvenin kına gecesinde 3 posta kayarım demesi
 bkz mervelerde kalan beyin yakan kına gecesinde kirvenin coşması
 bkz diyarbakırlı travesti bekirin bekiroğluna güzel diyen bana demesi demesi
 bkz ana avrat kayan turistin yahalanması
