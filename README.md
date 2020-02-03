@@ -1,4 +1,5 @@
 <!--
+bkz bekiroğlunun beyin yakan vedat mürqü yorumu
 bkz merve beyin beyin yakan bekiroğlu gecesi
 bkz vedat mürüqü 150 milyin len amq
 bkz bekçinin 4000 kameramanın 4000 alması
