@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz madem allak yok niye inkar ediyonuz amk
 bkz madem maymunlar evrilmiyo adem le havvvayı kim attı cennetten amk
 bkz madem ademle havva atayız dı nasıl maymunlar oluştu amk
 bkz ademle havva atayızmıydı sorunsalı 
