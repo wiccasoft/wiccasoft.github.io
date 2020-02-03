@@ -1,4 +1,5 @@
 <!--
+bkz forvetin 5000 santrafor öğretmenin 2000 lira alması
 bkz fenev bavce vs gavatsaray
 bkz arabada 5000 evde 15000 hoşumada giderse bedeve
 bkz beyin yakan arap tursitin ana avrat yahalanması
