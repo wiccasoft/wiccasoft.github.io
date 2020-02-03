@@ -1,4 +1,5 @@
 <!--
+bkz emekli hakimin 12000 emekli polisin 6000 alması
 bkz merve örtmenin beyin yakan tatili
 bkz bekçinin 5000 örtmenin 4000 alması
 bkz türklerin ve kürtlerin iğrenç yaratıkları olduğu gerçeği
