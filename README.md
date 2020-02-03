@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün bekçiyle aynı mmaaşımı alacam len amq demesi
 bk ata cücünü kendi maaşına zam yapması
 bkz bekçiler 500 se diğerleride 10000 alsın kampanyası
 bkz bekçi lerin 5000 lira alması
