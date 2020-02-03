@@ -1,4 +1,5 @@
-<!-- https://www.youtube.com/watch?v=BV1RcLhMFYs
+<!-- 
+https://www.youtube.com/watch?v=BV1RcLhMFYs ben doğuştan beşiktaşlıyım diyen erkek
 bkz beşiktaş maçlarını kaçırmam quaresmacıyım diyen erkek
 bkz facebook gassaray sayfasına like attım diyen fenerli erkek
 bkz facebook u farmville için tutuyorum diyen erkek
