@@ -1,7 +1,6 @@
 <!-- 
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
-bkz türklerin götündeki dona kadar amerikanın köpeği olduğu gerçeği
-bkz türkler facebook kapatsa facebookun batacağı gerçeği :)))))))))))
+bkz türkler facebook u kapatsa facebookun batacağı gerçeği :)))))))))))
 bkz biz çinde zaten hep facebook kullanıyoz diyen erkek
 bkz facebook instagram twitterı çok severim diyen çinli erkek
 bkz facebook instagram twittter erkeğiyim diyen erkek
