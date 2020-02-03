@@ -1,4 +1,5 @@
 <!-- 
+bkz ruhi çenet testeredeki adam benzerliği
 bkz ruhi çenetin neden sakallları çıkmıyor sorunsalı
 bkz hanımdan dolayı fenerliyim diyen erkek
 bkz ozan tufanı uzaktan takip ederim diyen erkek
