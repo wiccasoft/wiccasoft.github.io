@@ -1,4 +1,5 @@
 <!--
+bkz arkadaşın annesinin facebook resimlerine attırmak
 bkz facebooktan dürütülen hatunun arkadaşın annesi çıkması
 https://www.uludagsozluk.com/k/0544-808-7618/&w=bg kimin bu arıyorum kanka
 bkz instagram çapkın patronlarız sayfasından indirdiğim hatunlar
