@@ -6,7 +6,9 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--bkz aşkıım instagramımda bekçi üniformanı çıkar kızları deli etme diyen kız
+<!--
+bkz aşkım instagramımız ortak olsun bekçi tutarız diyen kız
+bkz aşkıım instagramımda bekçi üniformanı çıkar kızları deli etme diyen kız
 bkz aşşşşşkım bekçi maaşın yetmezki diyen kız
 https://www.uludagsozluk.com/e/42800780/ zuahhahahahaha
 bkz aramazsan aramayı açılış müzüğü yapan kız
