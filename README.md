@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz rte nni annesi zübide hanım a küfreden oç larının dersini alması
+bkz tenzile anne vs götü başı açık oç ları
+bkz rte nn annesi zübide hanım a küfreden oç larının dersini alması
 bkz rte nin kemalitler daha ananızı sikecez raad olun demesi
 bkz açık geçen balerin kızı öldüren cengaverin iyi yaptığı gerçeği
 bkz rte nin  acele etme papaz efendi ananı sikecez daha demesi
