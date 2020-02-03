@@ -1,4 +1,5 @@
 <!--
+bkz diyarbakırlı travesti nihalin bekiroğluna güzel diyen bana demesi demesi
 bkz ana avrat kayan turistin yahalanması
 bkz sadık çiftpınar taylor swift arasında beyin kanatan aşk olduğu dedikoduları
 bkz aslı bekrioğlanın vedat mürükle parası için takılması
