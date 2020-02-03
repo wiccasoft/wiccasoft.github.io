@@ -1,4 +1,5 @@
 <!--
+bkz tek büyük fenerbahçe
 bkz aslonalan fenerbahcçedir geçerkeleri fenerbahçe yazar
 https://www.uludagsozluk.com/k/asl%C4%B1-bekiro%C4%9Flu/&w=bg bekir olalım
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg fener olalım
