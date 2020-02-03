@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
 https://eksisozluk.com/1-subat-2020-fenerbahce-kafilesine-silah-cekilmesi--6349964?a=popular zuahhaha
 https://eksisozluk.com/bekcinin-5071-tl-ogretmenin-4013-tl-almasi--6349712?a=popular zuahahhaha
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ laz ziyanın daşşşakları
