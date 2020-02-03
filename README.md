@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ümmetine bekçisine saygısı olamayan faşist it
+bkz ümmetinin bekçisine saygısı olamayan faşist it
 bkz ibonun oğlu soğuktan donarken ırkçılık yapan faşist
 bkz ümmet ağlarken ırkçılık yapan faşist köpek
 bkz araplara hz muhammede saygı duymayan ırkçı faşist köpek oğlu köpek
