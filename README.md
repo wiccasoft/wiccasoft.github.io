@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlanın beyin kanırtan pğaylaşımı 
+kankağ bi bak ben kan kaaaaağ belki paylaşmştır he kankaaaağğğğğğğğ
 bkz aslı bekiroğlunun diyarbekirgillerdeniz açıklaması
 bkz aslı bekiroğlunun vedat mürüğüye yürümesi
 bkz aslı bekiroğlunun paylaştığı ata cücü fotosu
