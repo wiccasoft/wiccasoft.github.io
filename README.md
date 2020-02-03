@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kıskandırmak için instadan ismail yk facebook şarkısı yollayan erkek
 bkz kızı kıskandırmak için aslı bekiroğluyla seviştim diyen erkek
 bkz kızı kıskandırmak için istagramda kızlara bakan erkek
 bkz kızın yanında instagram açan erkek
