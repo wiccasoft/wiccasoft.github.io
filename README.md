@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook insgram twtiter olmasaydı mağara adamı olurdum diyen erkek
 bkz facebook dayıoğlanla okey için kullanıyorum diyen erkek
 bkz instagramı aslı bekiroğlu için kullanıyorum zaten diye erkek
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
