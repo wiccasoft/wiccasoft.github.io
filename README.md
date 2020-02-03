@@ -9,7 +9,7 @@
 <!--
 bkz ata demirerin atayız olduğu gerçeği
 bkz doğu perinçekin şener şen sessizliğini bozması
-bkz o s400 işi bitsin diyen ekşici abi
+bkz o s400 işi bitsin diyen ekşici abiler
 bhz ruhi çeneti türküyünü steve jobsı barış özacanın elon musk ı olması
 bkz aburrrahim albayrakın 3 müülyün yürü daha verelim alalım ronaldoyu demesi
 bkz müezzin maaşlarını kıskanan bekçiler
