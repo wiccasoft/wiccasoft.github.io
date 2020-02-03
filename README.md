@@ -1,4 +1,5 @@
 <!--
+bkz mervelerde kalan beyin yakan kına gecesinde kirvenin coşması
 bkz diyarbakırlı travesti bekirin bekiroğluna güzel diyen bana demesi demesi
 bkz ana avrat kayan turistin yahalanması
 bkz sadık çiftpınar taylor swift arasında beyin kanatan aşk olduğu dedikoduları
