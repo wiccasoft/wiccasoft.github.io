@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cücünün benim memurum işin bilir demesi
 bkz ata cücünün atacı olduğu gerçeği
 bkz ata cücünün pipimi türk bekçilerine emanet ediniz demesi
 bkz ata cücünün pipisini sünnetsiz olduğu gerçeği
