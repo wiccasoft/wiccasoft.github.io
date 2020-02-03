@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz diyarbekirli travesti bekirin bekiroğaln güzel diyen bana demesin demesi
 bkz aslı bekiroğlanaın beyin kanırtan  vedat mürüçü yorumu
 bkz aslı bekiroğlanaın beyin kanırtan aslolan fenerbahçedir yorumu
 bkz beyin kanırtan örtmen bekçi maaaşları
