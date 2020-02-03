@@ -1,4 +1,5 @@
 <!-- 
+bkz erzurumsporlu erkek
 bkz facebook instagram twitter ı arasıra kullanırım diyen erkek
 bkz facebook u sadece farmville için kullanıyorum diyen erkek
 bkz facebooku gbt sorgulamak için kullanan erkek
