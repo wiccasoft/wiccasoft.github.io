@@ -1,4 +1,5 @@
 <!--
+bkz facebook fenerli öğretmen çocukları sayfası
 bkz aslı bekieroğlu bs vedat mürüçoülu
 bkz facebook fenerli öğretmenler grubuna bekleriz poker atıyoruz orda
 bkz tek büyük fenerbahçe
