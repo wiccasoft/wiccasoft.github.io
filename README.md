@@ -1,4 +1,5 @@
 <!--
+bkz bekçinin 5000 lira  fegulini 2500 lira alması
 bkz abdulrahim albyarakın fener ol kampanyası düzenlemesi
 bkz arap turiste ana avrata kayan tursitin yahalanması tıklağ link
 bkz aslı bekiroğlanın kürt olduğu gerçeği
