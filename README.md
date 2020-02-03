@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz tayyiple ve kurtlar vadisiyle büyüyen ergenlerin gittikçe tehlikeli olacağı gerçeği
 https://www.idefix.com/Kitap/Fasizmin-Kitle-Psikolojisi/Wilhelm-Reich/Egitim-Basvuru/Psikoloji-Bilimi/urunno=0000000597453
 bkz islami usullerde gelen turiste asgari saygıyı öğrenen mümin kardeşimiz
 bkz balerin kızı öldürenin pişman değilim demesi
