@@ -1,5 +1,5 @@
 <!-- 
-bkz enes batur ruhi çenet aboneliğim var diyen erkek
+bkz barış özcan ruhi çenet aboneliğim var diyen erkek
 bkz facebook insgram arasıra kaydırır bakarım  diyen erkek
 bkz dayıoğlu benim koyu gsli diyen erkek
 bkz hanımdan dolayı fenerliyim yoksa elti hep gs li diyen erkek
