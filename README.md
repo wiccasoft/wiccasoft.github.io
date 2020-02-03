@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ya instagram ya annem diyen kzı
 bkz ya feghuli ya belhanda karar ver diyen kız
 bkz ya annen ya instagram diyen kız
 bkz instagramın yoksa bu iş burada bitsin diyen kız
