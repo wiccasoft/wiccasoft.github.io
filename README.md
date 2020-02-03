@@ -1,5 +1,5 @@
 <!--
-bkz türklerin iğrenç yaratıkları olduğu gerçeği
+bkz türklerin ve kürtlerin iğrenç yaratıkları olduğu gerçeği
 bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz devlet memurlarının biraz salak olması
 bkz babasının emekli maaşını almak için hile yapan anadolulu
