@@ -1,7 +1,5 @@
 <!--
-https://eksisozluk.com/turklerin-en-cok-yaptigi-yazim-hatasi--6349546?a=popular
 bkz abdulrahim albyarakın fener ol kampanyası düzenlemesi
-bkz fener bavçenin galatsaray prim borcu için kampanya yapması
 bkz arap turiste ana avrata kayan tursitin yahalanması tıklağ link
 bkz aslı bekiroğlanın kürt olduğu gerçeği
 bkz aslı bekiroğlanın mervelerde kalmaya gitmesi
