@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin idlibdeki türkleri yollarız sözü vermesi istyanbuldaki suriyelileri şey yaparız demesi
 bkz recep tayyi perdoğanın bekçi maaşları nı rakı zammıyla düzeltiriz sözü vermesi
 bkz nihat mzdemir cüneyt özdemire verdiği efsane ayar
 bkz rte nin bekçilerin maaşını düzeltecem sözü vermesi
