@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://www.uludagsozluk.com/k/amat%C3%B6r-k%C3%BCmenin-130-kiloluk-golc%C3%BCs%C3%BC/
 bkz facebook instagram twitter cia in fişleme aracı olduğunu yeni keşfeden ergen
 bkz rte nin bekçilere facebook instagram twitter da gbt çekin emri vermesi
 bkz rte nin instagramı olmayan kızları tespit edin emri vermesi
