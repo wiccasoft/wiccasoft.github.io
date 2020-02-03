@@ -1,4 +1,5 @@
 <!--
+bkx sadık çiftpınarın aslı bekiroğlana yürümesi
 bkz aslı bekiroğlunun aslolan fenerbahçe demesi
 bkz aslı bekiroğlanın beyin akıtan mervelerde kanatacam yorumu
 bkz selin ciğercinin beyin kanatan kına gecesi
