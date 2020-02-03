@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz laikçi itlerin iyice pısması
 bkz müminlerin laikçi itlerin anasına kayacağı gerçeği
 bkz merve bozbeyin beyin kanırtan akp nin gizli silahı olması
 bkz tenzile anne vs götü başı açık oç ları
