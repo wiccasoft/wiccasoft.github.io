@@ -1,5 +1,5 @@
 <!--
-bkz olanın iyice delirmesi
+https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ay götüm ayol
 https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ bk annene karı mı diyim olm
 https://vedat-minor-combo.uludagsozluk.com/ annen diyorum işe yolladın mı
 https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ananın amı diyorum offf
