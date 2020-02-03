@@ -1,4 +1,5 @@
 <!-- 
+bkz fatih mandalina vs erkan tan
 bkz erkan tanın ver mehterrrrrrrri ver mehteriiiiiii diyerek 100.000 lira maaş alması
 bkz fatih portakalın bilale analtır gibi anlatim bi de hareketi
 bkz fatih portakalın kafanız basmıyosa yorumlim bi de duruşu
