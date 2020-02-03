@@ -6,7 +6,7 @@
 [![Image](shadow/Screenshot_2020-01-28_09-32-34.png)]( https://www.youtube.com/watch?v=CH8p-kVRGFw )
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
-<!--
+<!--bkz pentagonun istiyosanız f22 raptor verelim demesi
 bkz ilyas bazna nın iyi top teperim demesi
 bkz ilyas baznanın fenerle imzayı atması
 bkz ilyas baznanın demeleri açması
