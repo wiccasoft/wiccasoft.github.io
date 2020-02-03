@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz reis facebook instagram twitter zorlu üyelik yasası yapsın kampanyası
+bkz bekçiler facebook tan gbt yapsın kampanyası
+bkz reis facebook instagram twitter zorunlu üyelik yasası yapsın kampanyası
 bkz intagramı olmayan oç teröristin bekçiyi bıçaklaması
 bkz malatyada bi bekçi ağliyo sikeyim muhalefitinizi oç ları
 https://www.uludagsozluk.com/k/malatya-da-bek%C3%A7ilere-b%C4%B1%C3%A7akl%C4%B1-sald%C4%B1r%C4%B1/
