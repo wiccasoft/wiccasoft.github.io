@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz alecmi hagi mi ronaldo mu kankağğğğ
 bkz ronaldoyu hangi takım getirtir kankağ beeee
 bkz fegulinin beyin kanırtan maaşı
 bkz gassaray feguliy satsın mı kankağ
