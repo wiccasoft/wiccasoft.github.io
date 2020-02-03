@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlan vedat mürüç ülişkisi söylentileri
 bkz 95 li sosyal medya fenomenlerini ismlerin karıştırmak
 bkz merve özbey de mi 95 li sorunsalı
 bkz merve özbey beyin kanartan kına gecesi
