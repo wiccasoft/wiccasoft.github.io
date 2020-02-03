@@ -8,14 +8,6 @@
 
 <!--
 bkz çok ateist ve gerginsin uzan şöyle diyen müslüman
-bkz sen çok sinirlisin zuan şöle rahatlatim diyen kız
-bkz sinirli erkeğimi rahatlatırım diyen kız
-bkz seks yapmaktan korkan trabzonlu
-bkz doğu perinçekin seks  çok yaptığım için hep gülüyorum demesi
-bkz bi seks yapsa rahatlayacak erkek
-bkz seks yapamayan aseksüel erkek öfkesi
-bkz ata demirerin sütyen takması
-bkz deep web teki ergenlerin sinirden birbirlerini sikmesi
 bkz camide niye topğlaşıyoz lan diyen müslümanlar
 bkz cami de biz toplaşıyoz diyen müslümanlar
 bkz camiye gel orda domalarım sen de izlersin sversin diyen müslüman
