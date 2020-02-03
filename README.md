@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz devlet memurlarının biraz salak olması
 bkz babasının emekli maaşını almak için boşanmayan kadınlar
 bkz maaşını yükseltmek için açık öğretime giren devlet memuru
