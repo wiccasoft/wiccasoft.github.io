@@ -1,4 +1,5 @@
 <!--
+bkz aslı bekiroğlunun 1995 ten beri seks yapmıyordum açıklaması
 bkz aslı bekiroğlunun beyin kanatan merve bozbey kına gecesi yorumu
 bkz aslı bekiroğlunun diyarbakırlı babası
 bkz aslı bekiroğlunun takıldığı elemanın diyarbakırlı çıkması
