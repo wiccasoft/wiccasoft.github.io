@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz arap tursite arap diyen ırkçı erkek
 bkz göt küçültme ameliyatı için para birikttiriyorum diyen erkek
 bkz kilo alınca evin kapılarını genişleten erkek
 bkz göbeği kaldırınca anca pipimi görebiliyorum araya sıkışıyo diyen erkek
