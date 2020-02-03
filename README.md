@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz islami usülde yatırım yapamayacağım kuraca bakmayın mümin kardeşler ırkçıyım
+bkz islami usülde yatırım yapamayacağım kusura bakmayın mümin kardeşler
 bkz ülkeyi terketmek uygun koşulların sonunda oluşması
 https://www.youtube.com/watch?v=bZliovcpusI bkz islami usül helal köfte
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun tükürdüğü köfteler
