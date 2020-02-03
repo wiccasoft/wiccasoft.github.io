@@ -7,25 +7,10 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz 3 şunat 2020 ata demirerin 4 askerin üstüne  yanlışlıkla oturması
+bkz 3 şubat 2020 ata demirerin 4 askerin üstüne  yanlışlıkla oturması
 bkz 3 şunat 2020 ata demirerin ataya saygı kuşağı yayımlaması
 bkz 3 şubat 2020 hulki paşanın atımı getirin demesi
-bkz 3 şubat 2020 idlib olaylarına karşı s 400 atağı planlamak
-bkz ata demirerin o s 400 işi bitecek demesi
-bkz ata demirerin ben de ata sende ata bu halkı bi ataya demesi
-bkz ata demirerin top şeklini alıp yuvarlanıp yaşaşın atacücü demesi
-bkz ata demirerin benim görevm seni güldürmek aşkım demesi
-bkz ata demirerin şimdi güldürcem aşkım izle demesi
-bkz ata demirerin basenlerimi aldırsam gülermisin aşkım demesi
-bkz ata demirerin ben de atacücücüyüm demesi
-bkz ulucların cem yılmazsı sevmeleri
-bkz ulucuların kiloşçluyum diye gülmemeleri cem yılamza gülmeleri
 https://www.uludagsozluk.com/e/42800199/ ya neden aşkımmmmmm neyi geçeyim
-bkz ata demirerin aşkım saçlarımı sarıya boyasam demesi
-bkz ata demirerin memişlerimi beğenmiyosan söyle aşkım demesi
-bkz ata demirerin güldürecem seni aşkı söz bak bu sefer demesi
-bkz ata demirerin aşktosu için rejime başlaması
-bkz ata demirerin tamam aşkım güldürecem seni demesi
 https://www.uludagsozluk.com/e/42800199/ tamam aşkım kilo vericem
 bkz ata demirerin memelerim büyük mü aşkım demesi
 https://www.uludagsozluk.com/e/42798920/ bulursan gelsin beni de siksin bayılırım öyle erkeklere
