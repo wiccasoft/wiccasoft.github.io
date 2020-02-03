@@ -1,5 +1,5 @@
 <!--
-bkz fox tv yütüp sayfasını fatih portakal için takip etmem
+https://www.youtube.com/watch?v=UfbA25A8BZY 31 ocak fatih portakal yayını
 bkz erkan tanın ver mehterrrrrrrrrri haçlılara  demesi
 bkz fatih mandalinanın sadece aptallar anlayamz beni duruşu
 bkz fatih madalinanın bi daha anlatim mi duruşu
