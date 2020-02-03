@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ruhi çenetin huzur veren sesi ve suratı
+bkz  cüneyt özdemirin ruhi çeneti kıskanması
 bkz ruhi çenetin büyünce sakal bırakacam demesi
 bkz ali koçun vedat mürüçü aslı bekiroğluna ayarlayalım demesi
 bkz ali koçun vedat mürüçü bakkala yollaması
