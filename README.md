@@ -7,8 +7,9 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz abaşörtülülerin üstüne işeyen ırkçı faşo köpek
 bkz younes belhanda nın yayağını yıkamayan ırkçı faşist köpek
-bkz younes belhanda yya saygı duymayan ırkçı köpek
+bkz younes belhanda ya saygı duymayan ırkçı köpek
 bkz haz muhammedin arap olduğüu bilemeyn itoğlu it
 bkz araplara küfreden ırkçı köpek
 bkz kamal itinin arap düşmanı olması
