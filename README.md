@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aşkosu iya anaan ya instagramımız diyen kız
 bkz aşkosu instagramımız olsun hadi aşkosu diyen kız
 bkz aşkım instagramımız olsun mu aşkosu diyen kız
 bkz aşkım telefona beni aşkosu diye kaydet oluy mu diyen kız
