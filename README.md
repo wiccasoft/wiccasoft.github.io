@@ -1,5 +1,6 @@
-<!-- 
-bz fatih mandalinanın sadece aptallar anlayamz beni duruşu
+<!--
+bkkz erkan tanın ver mehterrrrrrrrrri demesi
+bkz fatih mandalinanın sadece aptallar anlayamz beni duruşu
 bkz fatih madalinanın bi daha anlatim mi duruşu
 bkz fatih mandalina vs erkan tan
 bkz erkan tanın ver mehterrrrrrrri ver mehteriiiiiii diyerek 100.000 lira maaş alması
