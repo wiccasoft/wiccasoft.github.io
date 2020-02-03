@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz atacününü pipisinin kalkmadığı iddaları
 bkz aslı bekiroğlunun yeni seks pozisyonları deneyecem açıklaması
 bkz akşamüstü seksi için egzersiz yapmak
 bkz bi seks yapsalar pambık gibi olacakları gerçeği
