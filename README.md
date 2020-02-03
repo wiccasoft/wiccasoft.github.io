@@ -1,4 +1,5 @@
 <!-- 
+bkz ver mehteri ver mehteriiiiiiiiii
 bkz vergiler artırılsın biz de zengin olalım diyen devlet memuru
 bkz içkiye zam yapılsın biz de 8000 alalım diyen örrtmen memur
 bkz açıköğretim bitirip maaşına zam yaprıtmaya çalışan çomar
