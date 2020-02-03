@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz sosyal medyada beni bulamayınca sinir yapma dostum ha diyen erkek
 https://www.youtube.com/watch?v=BnJJUj8DALs biraz sakinleş dostum ha
 bkz hadi dostum sosyal medya hesaplarımdan beni takip etsene diyen erkek
 bkz facebook instagram twitter dan beni takip edebilirsiniz diyen erkek
