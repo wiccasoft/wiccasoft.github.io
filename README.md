@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz aslı bekiroğlunun paylaştığı ata cücü fotosu
 bkz aslı bekrioğlunun diyarbekirli olduğu gerçeği
 bkz ata cücünün atayız olduğu gerçeği
 bkz aslı bekiroğlanın beyin kanırtan paylaşımı
