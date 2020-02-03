@@ -1,4 +1,5 @@
 <!-- 
+bkz ozan tufanı uzaktan takip ederim diyen erkek
 bkz sadık çiftpınar alper potuk hayranıyım diyen sivasporlu erkek
 bkz anne tarafı hep sivasporludur diyen erkek
 bkz hanımdan dolayı erzurumsporlu yum diyen erkek
