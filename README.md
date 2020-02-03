@@ -1,4 +1,5 @@
 <!--
+bkz bekçinin 5000 örtmenin 4000 alması
 bkz türklerin ve kürtlerin iğrenç yaratıkları olduğu gerçeği
 bkz aslı bekiroğlu vs diyarbakırlı travesti nihal
 bkz devlet memurlarının biraz salak olması
