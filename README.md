@@ -1,4 +1,5 @@
 <!--
+bkz kızın yanında telefonla konuşamayan oğlan
 bkz stoper 5000 vedat mürüğ 4000 len amq
 bkz muhammede ana avrat kayan arabın yahalanması
 bkz kirvenin kına gecesinde 3 posta kayarım demesi
