@@ -1,5 +1,6 @@
 <!--
-bkz arap tursstin beyin kanatan link paylaşımı
+bkz link atan ana avrat yahalanması link
+bkz arap turistin beyin kanatan link paylaşımı
 bkz merve bozbeyin beyin yakan kına gecesi paylaşımı
 bkz fenevbaceye ana avrat söven yahalanması link
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg bkz hoplatacağı versus
