@@ -7,7 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz ata demirerin top şeklini alıp yuvarlanması
+bkz ata demirerin top şeklini alıp yuvarlanıp yaşaşın atacücü demesi
 bkz ata demirerin benim görevm seni güldürmek aşkım demesi
 bkz ata demirerin şimdi güldürcem aşkım izle demesi
 bkz ata demirerin basenlerimi aldırsam gülermisin aşkım demesi
