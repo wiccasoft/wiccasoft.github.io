@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz möerve özbey beyin kanartan kına gecesi
 bkz şişman ve büyük memeli erkeklerin kadınlardan seksi olduğu gerçeği
 bkz şişman ve büyük memelei erkek seksiliği
 bkz ata demireri sütyensiz çıtır çıtır yenileceği gerçeği
