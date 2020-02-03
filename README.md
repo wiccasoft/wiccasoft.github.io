@@ -1,4 +1,5 @@
 <!--
+bkz öğretmen çcouklarının fenerbahçe galatasaray kavgası yapması
 bkz işsiz kalan öğretmen çocuklarının fenerbahçe galatasaraya entry girmesi
 bkz yazacağım yapa zekayla işsiz kalacak öğretmenlerin güldürmesi
 bkz vedat mürüqü 150 milyün yürü len amq diyen öğretmen çocu
