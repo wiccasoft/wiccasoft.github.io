@@ -7,7 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
-bkz facebook instagram twtitter dan beni takip edebilirsiniz diyen erkek
+bkz sevdiklerini üzmemek için facebook instagram twitter kullanan erkek
+bkz facebook instagram twitter dan beni takip edebilirsiniz diyen erkek
 bkz tiktok u olan erkek vs tiktok u olmayan erkek
 bkz facebook instagram twitter kullanan 180 kilo erkek
 bkz bi kilo demirer mi ağırdır bi kilo yılmaz mı
