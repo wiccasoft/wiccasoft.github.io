@@ -8,7 +8,6 @@
 
 <!--
 https://vedat-minor-combo.uludagsozluk.com/ konuştukça dili açıylıyo veledi zinanın
-https://www.uludagsozluk.com/e/42802283/ oyşş beta müslim kendine geldi
 https://www.uludagsozluk.com/k/g%C3%B6t-k%C4%B1llar%C4%B1n%C4%B1-tra%C5%9F-eden-erkek/
 bkz kadı beni bilisin cink itmem tuzak kurarun
 bkz acele etme papaz efendi ananı sikeceğudu
