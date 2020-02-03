@@ -3,8 +3,7 @@ bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç oldu
 bkz türklerin yoğurt dışında dünyaya katkıları
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
-acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/e/42799473/ seninle şöyle aga nigi naga nigi he çaktın türbanlım benim ;)
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 -->
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
