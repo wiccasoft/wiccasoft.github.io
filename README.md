@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz idlib te iki kelle daha gitmesi
 bkz trabzonlu görünce it gibi dağılan fenerliler
 bkz madem allak yok niye inkar ediyonuz amk
 bkz madem maymunlar evrilmiyo adem le havvvayı kim attı cennetten amk
