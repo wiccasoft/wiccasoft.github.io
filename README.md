@@ -1,4 +1,5 @@
 <!--
+bkz erkan tanı 3 kelime ile anlat
 bkz fatih portakal vs erkan tan
 bkz sivas kangalı vs ankara çomarı
 bkz fatih portakal izlerken portakal yemek
