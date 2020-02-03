@@ -1,4 +1,5 @@
 <!--
+bkz bekiroğlanın takıldığı elemana kirvem demesi
 bkz bekiroğlanın merve bozbeylerde beyin kınatan yoruma çıkması
 bkz bekiroğlunun diyarbekirli travestilerden dayak yemesi
 https://space.stackexchange.com/ bkz amerikanın incisinde dönen beyin kanatan geyik
