@@ -1,4 +1,5 @@
 <!-- 
+bkz facebook instagram twitter olmazsa olmazlarım beni böyle kabul et diyen erkek
 bkz facebooksuz yaşayamam zaten diyen erkek
 bkz facebook instagram twitter ı olan ama saklayan erkek
 bkz facebook instagram twitter hepsi çok güzel ama benena diyen erkek
