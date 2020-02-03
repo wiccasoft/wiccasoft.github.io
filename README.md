@@ -1,6 +1,6 @@
 <!--
 https://vedat-minor-combo.uludagsozluk.com/ büyüksün abi annayan annadı reis
-bkz elon musk 50 milyar dolar len amq
+bkz elon musk 100 milyar dolar len amq
 bkz ruhi çenetin türkiyenin steve jobsı  olması
 bkz barış özcanın türkiyenin elon muskı olması
 https://www.youtube.com/watch?v=vUg0gGLowCg facebooktan hoplattığım eski kızlar
