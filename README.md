@@ -1,5 +1,5 @@
 <!--
-bkz memurlar yemesin diye vergi kaçırmak
+bkz oç memurlar yemesin diye vergi kaçırmak
 bkz memurların çalışanların vergilerini yediği gerçeği
 bkz memurların beyin kanattığı gerçeği
 bkz ronaldonun beyin kanatan memurlar.net yorumu
