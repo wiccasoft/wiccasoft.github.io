@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://gaiadergi.com/wp-content/uploads/2019/02/osmanlida-erillik-res13.jpg
 https://twitter.com/turkiyenoktanet/status/713576957368074240 haha bu işte :)))
 bkz osmanlıda birbirlerinin götlerini siken veledlere ne deniyordu
 https://www.uludagsozluk.com/k/erkek-g%C3%B6t-k%C3%BC%C3%A7%C3%BCltme-ameliyat%C4%B1/
