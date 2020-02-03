@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ırkçı türklerin samsung savdası
 bkz rus turiste rus diyen ırkçı
 bkz arap tursite arap diyen faşist köpek
 bkz arap turiste arap diyen ırkçı köpek
