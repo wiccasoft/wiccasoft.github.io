@@ -1,4 +1,5 @@
 <!--
+bkz facebooktaki 1 milyon ata cücü hayranı oluyoruz sayfası
 bkz ismail yk nın facebook reklamı
 bkz facebook instagram twitter
 bkz ölü akrabasını facebooktan silmeyen erkek
