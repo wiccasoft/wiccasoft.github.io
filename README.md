@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ata cününü götüne pamuk tıkarlarken selamun alaykum dediği iddaları
 bkz atacücünün pspisi vs laz ziyanın daşşahları
 bkz ata cücünün pipisinin sünnetsiz ve küçük olduğu iddaları
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
