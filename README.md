@@ -1,4 +1,5 @@
 <!--
+bkz türklerin internetin virüsleri olduğu iddası
 bkz arap turisti ana avrat yahalanması
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-vs-galatasaray/&w=bg
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansu fenerbahçe galatsaray savşaları
