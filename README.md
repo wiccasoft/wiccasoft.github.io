@@ -1,4 +1,5 @@
 <!-- 
+bkz sevdicekle telefonla sabah kadar konuşur feyste okey atar yatarım diyen erkek
 bkz facebooku dayıoğluyla okey için kullanırım diyen erkek
 bkz instagramda sadece loris karius u takip ederim diyen erkek
 bkz facebook instagram twitter whats up tiktok çok severim çok diyen erkek
