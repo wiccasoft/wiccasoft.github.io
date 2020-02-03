@@ -1,4 +1,5 @@
 <!--
+bkz facebook instagram twitter ve telefonum diyen erkek
 bkz facebook instagram twitter olmazsa olmazlarım diyen erkek
 bkz facebook instagram twitter iş hayatımın bir parçası diyen erkek
 bkz facebook instagram twitter olmadan bir hiçim diyen erkek
