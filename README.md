@@ -1,4 +1,5 @@
 <!--
+bkz devlet memurlarının hırsız oç ları oldukları gerçeği
 bkz oç memurlar yemesin diye vergi kaçırmak
 bkz memurların çalışanların vergilerini yediği gerçeği
 bkz memurların beyin kanattığı gerçeği
