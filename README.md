@@ -1,6 +1,5 @@
 <!--
-https://www.uludagsozluk.com/k/galatasaray-vs-be%C5%9Fikta%C5%9F-vs-fenerbah%C3%A7e/&w=bg
-bkz abdulrahim albyrakın fener ol kampanyası düzenlemesi
+bkz abdulrahim albyarakın fener ol kampanyası düzenlemesi
 bkz fener bavçenin galatsaray prim borcu için kampanya yapması
 bkz arap turiste ana avrata kayan tursitin yahalanması tıklağ link
 bkz aslı bekiroğlanın kürt olduğu gerçeği
