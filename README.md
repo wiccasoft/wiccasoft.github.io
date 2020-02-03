@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://vedat-minor-combo.uludagsozluk.com/ annesi yok mu bu evladın sabahtan beri vık vık
 https://www.uludagsozluk.com/k/anne-%C3%BCzerinden-hakaret-etmek/ akplilerin pek sevdiği
 bkz aslıbekiroğlunun irem dericinin göte güzel diyen bana demesin demesi
 bkz irem dericinin  cebrail as götümü yesin demesi
