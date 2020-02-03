@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rte nin daşşakları vs ata cücünü sünnetsiz pipisi
 bkz rte nin daşşaklarıyla ata cücüyü ezdiği gerçeği
 bkz ata cücünü sünnetsiz pipisi ve rte nin kamaşullahı
 bkz fatih mandalina pipsi vs erkan tan daşşakları
