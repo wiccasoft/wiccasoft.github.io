@@ -1,4 +1,5 @@
 <!--
+bkz fenerli öğretmenlerin 4000 lira konken parasına yetmez
 bkz fenerli öğretmenler için fener ol kampanyası düzenliyoruz 
 bkz facebook fenerli öğretmen çocukları sayfasında dönene geyik
 bkz aslı bekieroğlu bs vedat mürüçoülu
