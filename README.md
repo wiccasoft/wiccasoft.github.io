@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz rtenin arap turistler için bekçi aldım demesi
 bkz rte nin diktator olsam bekçilerim rahatça gezemezdi demesi
 bkz rte nin adolf hitleri tokat manyağı yapıp ananı laciverde boyadım demesi
 bkz rte papaza ananla ilişkiye girdim demesi
