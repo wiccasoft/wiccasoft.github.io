@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz tayyipe tayip diyen nazi grammer ırkçısı
 bkz kürt turiste ana avrat diyen türk ırkçısı
 bkz türk turiste ana avrat diyen arap ırkçısı
 bkz türk erkeği vs arap erkeği
