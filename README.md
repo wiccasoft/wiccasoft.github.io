@@ -1,4 +1,5 @@
 <!--
+bkz öğretmen maaşları 8000 lira olsun kampanyası
 bkz fenerli öğretmenlerin 5000 lira galatsaraylı öğretmenleri 4500 lira alması
 https://eksisozluk.com/arap-turiste-ana-avrat-kufur-eden-adamin-bulunmasi--6349300?a=popular 
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd fener olalım
