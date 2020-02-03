@@ -1,4 +1,5 @@
 <!-- 
+bkz diyarbakırlı travesti bekirin aslı bekiroğlana güzel diyen bana demesin demesi
 bkz merve bozbeyin beyin kanatan aslı bekiroğlu yorumu
 bkz aslı bekrioğlunun vedat mürüçüyüe yürümesi
 https://www.youtube.com/watch?v=_sDlTKgfUm0 zuahhahahaha
