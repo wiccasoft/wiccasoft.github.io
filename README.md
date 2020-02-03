@@ -1,5 +1,5 @@
 <!--
-bkz aslı bekiroğlu vs diiyarbakırlı travesti nihal
+bkz aslı bekiroğlu vs diiyarbakırlı travesti nihal vs travestilerden dayak yemeyen adam
 bkz aslı bekiroğlu dizi başına 200000 len amq
 bkz devlet memurlarının güldürmesi
 bkz yazılım mühendisi asgari ücret alsın diyen komünist devlet memuru
