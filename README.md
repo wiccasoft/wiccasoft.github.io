@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!-
+bkz muhammed salah atayız mıdır kankağ
 bkz ronaldo atayız mı dır kankağ sence
 bkz ronaldo  mu messi kankağğğğğ çabuk söyle kankağ
 bkz denize ata cücü pipsii mi düşsekurtarırısn kankağ rte pipisi mi kankağ
