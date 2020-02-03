@@ -7,6 +7,8 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+nbkz bekçi 5000 polisin 5000 alması 
+bkz şükrü saraçoğluna polis istiyoruz kampanyası
 bkz memurlar için fazla mesai yapıyoruz kampanyası
 bkz tayyip verigleri arttırsın 15000 lira alsın bütün memurlar kampanyası
 https://eksisozluk.com/c-ronaldoyu-turkiyeye-getirebilecek-kulup--6350081?a=popular bkz fenerbahçe
