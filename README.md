@@ -1,4 +1,5 @@
 <!--
+bkz faceook tan gbt sorgulayan türk polisi
 bkz polislerin bile facebooktan gbt sorgulaması
 bkz facebook instagram twitter olamzsa olmazlarım diyen disiplinli iş aşığı erkek
 bkz facebook instagram twitter ve telefonum diyen erkek
