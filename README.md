@@ -1,5 +1,5 @@
 <!-- 
-bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç olduğu grçeği
+bkz türklerin elindeki telefondan götündeki dona kadar amerikaya muhtaç olduğu gerçeği
 bkz türklerin yoğurt dışında dünyaya katkıları
 https://www.uludagsozluk.com/e/42799613/ zuahahhahahahaha
 bkz facebook tc bestepe sayfası en sevdiğim sayfa diyen erkek
