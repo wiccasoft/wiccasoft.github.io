@@ -8,7 +8,7 @@
 
 <!--
 bkz tehlikenin farkında mısınız
-bkz facebooktan gbt bakan bekçilnin yenge de kütr kütr müş demesi
+bkz facebooktan gbt bakan bekçinin yenge de kütr kütr müş demesi
 bkz facebook instagram twitterı olmayan terörist
 https://www.uludagsozluk.com/k/10-y%C4%B1l-esnafl%C4%B1k-yapana-bek%C3%A7i-yetkisi/
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
