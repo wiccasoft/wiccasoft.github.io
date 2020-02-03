@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+https://eksisozluk.com/havaya-ates-acan-bekcinin-bekciyi-vurmasi--6350060?a=popular zuahhahaha
 bkz ata cücünün pipisini sünnetsiz olduğu iddaları
 bkz 3 şubat 2020 idlib 3 tane köpeğin daha gebermesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ bkz laz ziyanın daşşakları
