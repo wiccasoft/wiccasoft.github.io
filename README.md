@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz sinirli erkeğimi rahatlatırım diyen kız
 bkz seks yapmaktan korkan trabzonlu
 bkz doğu perinçekin seks  çok yaptığım için hep gülüyorum demesi
 bkz bi seks yapsa rahatlayacak erkek
