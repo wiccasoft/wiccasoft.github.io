@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=bZliovcpusI bkz islami usül helal köfte
 https://www.uludagsozluk.com/k/k%C3%B6fteci-yusuf/&w=bg bkz yusufun tükürdüğü köfteler
 https://www.uludagsozluk.com/k/siyahi-erkeklerin-%C3%A7ekicili%C4%9Fi/&w=bg bkz siyahi müslim 
 bkz tangırcım sen hesabı kapat silivri soğuktur bunların şakası yok 
-pek iyi insanlar olmadıkları da ortada
+kinci ve pek iyi insanlar olmadıkları da ortada
 bkz tangir budunun daha yeni anlaması
 bkz gözleri tayyip şeklide gülen suratın bekçi olması
 bkz başörütülü bacılarıma işediler camide bekçilerime sıçtılar
