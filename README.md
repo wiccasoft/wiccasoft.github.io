@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz haremlik selamlık köftecilerin verdiği huzur
 https://www.uludagsozluk.com/k/o%C4%9Fuzhan-ko%C3%A7/&w=bg o da seni beğeniyomuş
 bkz ilk bekçi maaşıyla mümin kardeşlerin köfte ısmarlayan dini bütün mümün
 bkz islami usülde yatırım yapamayacağım kusura bakmayın mümin kardeşler
