@@ -1,4 +1,5 @@
 <!--
+https://vedat-minor-combo.uludagsozluk.com/ annen diyorum işe yolladın mı
 https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ananın amı diyorum offf
 bkz uludaki ergenler ilk öğretime başlama dımı sorunsalı
 https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ bkz anana ne diyeceğim ibnenin sıçtığı
