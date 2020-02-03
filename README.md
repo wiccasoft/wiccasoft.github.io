@@ -1,4 +1,5 @@
 <!-- 
+https://www.uludagsozluk.com/e/42799629/ eywallah bro 
 bkz erkantanın ver mehteri virüse demesi
 bkz diyarbakırlı travesti bekirin aslı bekiroğlana güzel diyen bana demesin demesi
 bkz merve bozbeyin beyin kanatan aslı bekiroğlu yorumu
