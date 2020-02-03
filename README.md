@@ -1,4 +1,5 @@
 <!-- 
+bkz türklerin ürettiği tek bir şey söyleyin
 bkz türklerin yoğurt dışında dünyaya katkıları
 bkz türklerin herkesi kendileri gibi facebook instagram twitter kullanıyor sanması
 https://www.uludagsozluk.com/k/facebook-instagram-whatsap-twitter-%C4%B1-olmayan-erkek/&w=bg
