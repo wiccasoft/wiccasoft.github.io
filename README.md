@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz ümmeti muhammedin avrupalı ırkçılara verdiği ayar
 bkz ümmeti muhammedi ülkesine almayarak ırkçılık yapan norveçli
 bkz ne mutlu ümmeti muhammediyim diyene
 https://www.youtube.com/watch?v=Ww5jScH4fXY ümmetin ırkçılığa karşı zaferi
