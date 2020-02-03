@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz arap ırkı diyen ırkçı
 bkz türk askeri diyen ırkçı
 bkz türk vergi sistemi diyen ırkçı
 bkz halifelik arap ların hakkıdır diyen ırkçı
