@@ -7,6 +7,7 @@
 [![Image](shadow/Screenshot_2020-01-27_17-08-17.png)]( https://www.youtube.com/watch?v=VJjW9sOAkTs )
 
 <!--
+bkz kızılayın iyi gömdük kerizlerin  paraları hacıtlar demesi
 bkz ezan çalıştayı denetleme kurulunun müftünün maaşıyla dalga geçmesi
 bkz 15000 lira maaş mı lan it diyen müftü yardımcısı
 bkz müezzinlerin bekçileri o ne lan çerez parası gibi deyip gaza getirmesi
