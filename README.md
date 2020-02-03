@@ -1,13 +1,5 @@
 <!--
-https://vedat-minor-combo.uludagsozluk.com/ sabah sabah ayarı verdin abbi büyüksün cahiller çaktın lafı
-https://www.uludagsozluk.com/k/insagramdan-kar%C4%B1-k%C4%B1z-kovalayan-tayfa/ seni mi kovalasınlar sami
-https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ ananın amı artık sami
-https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ay götüm ayol
-https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ bk annene karı mı diyim olm
-https://vedat-minor-combo.uludagsozluk.com/ annen diyorum işe yolladın mı
-https://www.uludagsozluk.com/k/tek-sohbet-bi%C3%A7imi-dedikodu-olan-erkek/ ananın amı diyorum offf
-bkz uludaki ergenler ilk öğretime başlama dımı sorunsalı
-https://www.uludagsozluk.com/k/kar%C4%B1ya-hatun-diyen-tip/ bkz anana ne diyeceğim ibnenin sıçtığı
+https://vedat-minor-combo.uludagsozluk.com/ büyüksün abi annayan annadı reis
 bkz elon musk 50 milyar dolar len amq
 bkz ruhi çenetin türkiyenin steve jobsı  olması
 bkz barış özcanın türkiyenin elon muskı olması
