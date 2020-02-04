@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- https://www.youtube.com/watch?v=7kW24ShwDbY key
+https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/ 
 https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/
 -->
 
