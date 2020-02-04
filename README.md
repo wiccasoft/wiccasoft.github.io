@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk 
+bkz aşkom acıtmadan sok diyen kızın babasının odaya girmesi
 bkz sevdiceğine deme yasağı koyan kız
 bkz aslı bekiroğlunun kumdan kürt penisi yapması
 https://www.youtube.com/watch?v=tVfyO37ARpQ
