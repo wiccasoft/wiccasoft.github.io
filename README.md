@@ -6,7 +6,7 @@
 <!--
 bkz carbon based life forms
 https://www.uludagsozluk.com/k/geceye-bir-gay-b%C4%B1rak/&w=bg bkz geceye et bırak
-bkz john obi mikel canlı yayında benim penisi görtseniz alışırsınız demesi
+bkz john obi mikel canlı yayında benim penisi görseniz alışırsınız demesi
 bzk john obi mikel kim amk 
 bkz aşkom acıtmadan sok diyen kızın babasının odaya girmesi
 bkz sevdiceğine deme yasağı koyan kız
