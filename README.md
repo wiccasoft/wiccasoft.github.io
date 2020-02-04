@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=7kW24ShwDbY
+bkz kanserken kimlerle muhattap oluyorum amk
 bkz 4 şubat 2020 tengir budun doğanın beni mafyavari ve alaycı bir dille tehdit etmesi
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/ zuahahah
 https://www.uludagsozluk.com/k/pekerface/
