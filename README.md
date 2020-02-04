@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
+bkz arada turanın ekçicilere müjdeyi vermesi
 bkz büyük resmi görmek için baya zıplamanız gerekecek 
 bkz facebook a biz burdayız atamızın izindeyiz yazan kamalcı
 bkz facebook ta isminin başına tc vatan sever yazan kamalcı
