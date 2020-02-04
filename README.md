@@ -2,7 +2,7 @@
 
 <!-- 
 bkz fatih tezcanın analiz merkezini yurt dışına taşıması
-bkz kanser hastasına sen nasıl mafyasın diyen ergen
+bkz kanser hastasına çen nasıl mafyasın çen diyen ergen
 https://www.uludagsozluk.com/k/sa%C4%9Flam-kafa-sa%C4%9Flam-v%C3%BCcuttad%C4%B1r-deyip-sirozdan-%C3%B6lmek/&w=bg lol
 https://eksisozluk.com/sedat-pekerin-yurt-disina-kacmasi--6352083?a=popular bkz pembe reis
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan bence gay
