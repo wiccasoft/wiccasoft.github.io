@@ -5,7 +5,7 @@
 
 <!-- 
 bkz sedat peker vs hakan peker
-bkz ata cücünü huawei kullanan en asil duyguların insanıdır lafı
+bjz apple cı kamalcılar vs huawei ci mao zedongcular
 bkz erkan tanın wahtzup ını kamalcılara kapaması
 bkz erkan tanın mehter ekibiyle yurtdışan kaçmaya hazırlanması
 https://www.youtube.com/watch?v=FQqo-w1qvws already read them
