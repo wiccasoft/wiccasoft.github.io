@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=7kW24ShwDbY
+bkz 4 şubat 2020 tengir budun doğanın beni tehdit etmesi
 https://www.uludagsozluk.com/e/42806538/ lol skenderun deniz alayında bi laf vardır abilerine sor
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg 
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-herbokologlar/
