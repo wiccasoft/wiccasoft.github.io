@@ -5,6 +5,7 @@
 
 <!--
 bkz carbon based life forms
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-ya%C5%9Fasa-ba%C5%9Far%C4%B1l%C4%B1-olamayacak-insanlar/ arda turan
 https://www.youtube.com/watch?v=4RpMzsA1VOw çok hojdır çok
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz pembe reis yerine atanan reis
 https://www.uludagsozluk.com/k/hi%C3%A7-koparmadan-33-cm-s%C4%B1%C3%A7mak/&w=bg 
