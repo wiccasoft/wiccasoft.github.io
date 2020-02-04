@@ -4,6 +4,7 @@
 https://www.youtube.com/watch?v=7kW24ShwDbY
 bkz 4 şubat 2020 tengir budun doğanın beni mafyavari ve alaycı bir dille tehdit etmesi
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/ zuahahah
+bkz teyzesinini kiloduna attıran ergen
 verdim ip'ini cimere mahkemede hesap verirsin artık sen kime çen diyosun köpek
 https://www.uludagsozluk.com/e/42806538/ bkz skenderun deniz alayında bi laf vardır  :))
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg 
