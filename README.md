@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!--
-bkz şişli etfalde sıçan teyzenin amerikaya kaçması
+bkz şişli etfalde sıçan adamın amerikaya kaçması
 bkz aslı bekiroğlunun profiline dm atma sedat pekerin yeğeneyim yazması
 bkz nevşin mengünün sedat pekerin yiğeniyim pozu
 bkz sedat pekerin demeyi kapaması
