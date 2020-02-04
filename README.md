@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk 
+bkz sevdiceğine deme yasağı koyan kız
 bkz aslı bekiroğlunun artık bakire değilim açıklaması
 bkz aslı bekiroğlunun kumdan penis yapması
 https://www.youtube.com/watch?v=tVfyO37ARpQ
