@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
+bkz sedat pekerin demeyi kapaması
 bkz aslı bekiroğlunun büyüdüm aytık size ne demesi
 bkz aslı bekiroğlunun hekeşe benden çay ramosa yok demesi
 bkz ramosun ekşicilere fenere dönecem sinyallerini çakması
