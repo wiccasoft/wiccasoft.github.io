@@ -2,7 +2,7 @@
 
 <!-- 
 bkz sedat peker vs hakan peker
-https://www.youtube.com/watch?v=FQqo-w1qvws
+https://www.youtube.com/watch?v=FQqo-w1qvws allready read them
 bkz ya sedat peker dönmezse sorunsalı
 bkz ata çüçünüz mü şizi kurtaçak şizi
 https://www.youtube.com/watch?v=wIoxxkNj6AM 
