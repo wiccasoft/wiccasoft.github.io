@@ -5,7 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk
-bkz ahmet kayanın fransaya kaçması
+bkz ahmet kayanın gd prim borcunu ödememek için fransaya kaçması
 bkz ata demirein rejime başlayıp sahalara dönecem sinyali vermesi
 bkz 4 şubat 2020 ekşicilerin hala beni futbolcu sanması
 bkz bu yaştan sonra ben mi koşacam o ç ları
