@@ -5,6 +5,7 @@
 
 <!-- 
 bkz sedat peker in kart atarım demesi
+bkz erkan tanın virüsü mehterle kovalaması
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz obi wan kenobinin canlı yayında fener ağlama demesi
 bkz tuncay şanlının fenerbahçe kafilesine ateş edenin intikamını alacam sözü vermesi
