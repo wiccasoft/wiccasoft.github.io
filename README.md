@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=7kW24ShwDbY
+https://www.uludagsozluk.com/e/42806538/ lol gelecem kankağ işler var
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg 
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-herbokologlar/
 https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/ 
