@@ -5,7 +5,6 @@
 
 <!-- 
 bkz ramosun ekşicilere fenere dönecem sinyallerini çakması
-bkz radamel falcao garcianın canlı yayında kırdığı pot
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz obi wan kenobinin canlı yayında fener ağlama demesi
 bkz tuncay şanlının fenerbahçe kafilesine ateş edenin intikamını alacam sözü vermesi
