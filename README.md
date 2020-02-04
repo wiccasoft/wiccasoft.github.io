@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk
+https://www.webaslan.com/babel-saclari-pembe-yapti-SXHBQ112413SXQ&1=1 zuahahahahah
 bkz pembe reise gidin hadi bakim
 bkz bu yaştan sonra ben mi koşacam o ç ları
 bkz pascal naumanın ekşicilere tombala oynatacam sinyali yakması
