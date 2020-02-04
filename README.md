@@ -5,6 +5,7 @@
 
 <!--
 bkz carbon based life forms
+https://www.youtube.com/watch?v=4RpMzsA1VOw çok hojdır çok
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz pembe reis yerine atanan reis
 https://www.uludagsozluk.com/k/hi%C3%A7-koparmadan-33-cm-s%C4%B1%C3%A7mak/&w=bg 
 bkz şişli etfale hiç koparmadamn 33 cm sıçan adamın amerikaya kaçması
