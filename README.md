@@ -5,7 +5,7 @@
 
 <!--
 bkz carbon based life forms
-https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz pembe reis yerine siya reisin gelmesi
+https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz pembe reis yerine atanan reis
 https://www.uludagsozluk.com/k/hi%C3%A7-koparmadan-33-cm-s%C4%B1%C3%A7mak/&w=bg 
 bkz şişli etfale hiç koparmadamn 33 cm sıçan adamın amerikaya kaçması
 bkz aslı bekiroğlanjın emcüğüm faha önce hiç bi erkek emcüklemedi açıklaması
