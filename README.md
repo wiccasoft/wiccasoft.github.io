@@ -4,8 +4,7 @@
 https://www.uludagsozluk.com/k/sa%C4%9Flam-kafa-sa%C4%9Flam-v%C3%BCcuttad%C4%B1r-deyip-sirozdan-%C3%B6lmek/&w=bg lol
 https://eksisozluk.com/sedat-pekerin-yurt-disina-kacmasi--6352083?a=popular bkz pembe reis
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular bkz orhan bence gay
-ha bi de rizeli değil trabzon beşikdüzülüyüm genşler mafya babası olmaya da niyetim yok şimdilik
-bkz önceliğim kanser tedavim için yeterli parayı biriktirmek
+bkz önceliğim kanser tedavim için yeterli parayı biriktirmek o yüzden yurtdışındayım
 https://www.youtube.com/watch?v=7kW24ShwDbY
 bkz kanserken kimlerle muhattap oluyorum amk
 bkz ekşideki doktorların da tehdide başlaması
