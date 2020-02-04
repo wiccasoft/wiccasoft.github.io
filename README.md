@@ -6,7 +6,7 @@
 <!--
 bzk john obi mikel kim amk
 bkz pascal naumanın ekşicilere tombala oynatacam sinyali yakması
-bkz ahmet kayanın gs prim borcunu ödememek için kafasına sıkıp fransaya kaçması
+bkz ahmet kayanın gs prim borcunu ödememek için fransaya kaçması
 bkz ata demirein rejime başlayıp sahalara dönecem sinyali vermesi
 bkz 4 şubat 2020 ekşicilerin hala beni futbolcu sanması
 bkz bu yaştan sonra ben mi koşacam o ç ları
