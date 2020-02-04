@@ -11,11 +11,6 @@ https://www.youtube.com/watch?v=4RpMzsA1VOw çok hojdır çok
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz pembe reis yerine atanan reis
 https://www.uludagsozluk.com/k/hi%C3%A7-koparmadan-33-cm-s%C4%B1%C3%A7mak/&w=bg 
 bkz şişli etfale hiç koparmadamn 33 cm sıçan adamın amerikaya kaçması
-bkz aslı bekiroğlanjın emcüğüm faha önce hiç bi erkek emcüklemedi açıklaması
-bkz aslı bekir oğlunun kız oğlan kızım hala açıklaması
-bkz aslı bekiroğlunun bir kürtle evlenmek istiyorum demesi
-bkz aslı bekiroğlunun beyin göçünü engellemek için harekete geçmesi
-https://www.uludagsozluk.com/k/geceye-bir-gay-b%C4%B1rak/&w=bg bkz geceye et bırak
 bkz john obi mikel canlı yayında benim penisi görseniz alışırsınız demesi
 bzk john obi mikel kim amk 
 bkz aşkom acıtmadan sok diyen kızın babasının odaya girmesi
