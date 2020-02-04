@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!--
-bkz carbon based life forms
+bkz carbon based life forms https://www.youtube.com/watch?v=iOxzG3jjFkY
 https://www.uludagsozluk.com/k/instagram-profiline-dm-atma-yazan-mal/
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-ya%C5%9Fasa-ba%C5%9Far%C4%B1l%C4%B1-olamayacak-insanlar/
 https://www.youtube.com/watch?v=4RpMzsA1VOw çok hojdır çok
