@@ -3,7 +3,8 @@
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
-<!--  
+<!-- 
+bkz ramosun ekşicilere fenere dönecem sinyallerini çakması
 bkz radamel falcao garcianın canlı yayında kırdığı pot
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz obi wan kenobinin canlı yayında fener ağlama demesi
