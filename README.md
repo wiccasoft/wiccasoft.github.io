@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
+bkz fatih tezcanın imamaoğluna karşı pusuda beklemesi
 bkz kanser hastasınıa sen nasıl erkesin diyen ergen
 https://www.uludagsozluk.com/k/sa%C4%9Flam-kafa-sa%C4%9Flam-v%C3%BCcuttad%C4%B1r-deyip-sirozdan-%C3%B6lmek/&w=bg lol
 https://eksisozluk.com/sedat-pekerin-yurt-disina-kacmasi--6352083?a=popular bkz pembe reis
