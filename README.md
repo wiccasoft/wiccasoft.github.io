@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
+ha bi de rizeli değil trabzon beşikdüzülüyüm genşler mafya babası olmaya niyetim yok şimdilik
 https://www.youtube.com/watch?v=7kW24ShwDbY
 bkz kanserken kimlerle muhattap oluyorum amk
 bkz ekşideki doktorların da tehdide başlaması
