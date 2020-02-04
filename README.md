@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk
+bkz zenci kaslı futbolcuymuş tahmin etmiştim
 bkz john obi mikelin antrenmanda sırt kaslarını göstermesi
 https://eksisozluk.com/john-obi-mikelin-canli-yayinda-aglamasi--6352624?a=popular
 bkz şişli etfale kiç koparmadan 33 cm sıçan adamın amerikaya kaçması
