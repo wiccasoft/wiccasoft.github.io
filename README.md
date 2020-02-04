@@ -5,6 +5,7 @@
 
 <!-- 
 bkz sedat peker vs hakan peker
+bkz erkan tanın wahtzup ını kamalcılara kapaması
 bkz erkan tanın mehter ekibiyle yurtdışan kaçmaya hazırlanması
 https://www.youtube.com/watch?v=FQqo-w1qvws already read them
 bkz ya sedat peker dönmezse sorunsalı
