@@ -3,8 +3,7 @@
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
-<!-- 
-bkz sedat peker in kart atarım demesi
+<!--  
 bkz erkan tanın virüsü mehterle kovalaması
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz obi wan kenobinin canlı yayında fener ağlama demesi
