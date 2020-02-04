@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
+bkz sedat peker vs hakan peker
 bkz ata çüçünüz mü şizi kurtaçak şizi
 https://www.youtube.com/watch?v=wIoxxkNj6AM 
 bkz 4 şubat 2020 fatih tezcanın analiz merkezini yurt dışına taşıması
