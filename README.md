@@ -5,6 +5,7 @@
 
 <!--
 bkz carbon based life forms
+bkz aslı bekir oğlunun kız oğlan kızım hala açıklaması
 bkz aslı bekiroğlunun bir kürtle evlenmek istiyorum demesi
 bkz aslı bekiroğlunun beyin göçünü engellemek için harekete geçmesi
 https://www.uludagsozluk.com/k/geceye-bir-gay-b%C4%B1rak/&w=bg bkz geceye et bırak
