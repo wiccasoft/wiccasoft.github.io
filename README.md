@@ -9,9 +9,8 @@ https://www.uludagsozluk.com/k/geceye-bir-gay-b%C4%B1rak/&w=bg bkz geceye et bı
 bkz john obi mikel canlı yayında benim penisi görseniz alışırsınız demesi
 bzk john obi mikel kim amk 
 bkz aşkom acıtmadan sok diyen kızın babasının odaya girmesi
-bkz sevdiceğine deme yasağı koyan kız
 bkz aslı bekiroğlunun kumdan kürt penisi yapması
-bkz barbarı şansalın olaylara sessiz kalması
+bkz barbari şansalın olaylara artık sessiz kalması
 https://www.youtube.com/watch?v=tVfyO37ARpQ
 bkz tengir budun doğanın ekşiden çaldığı entryler
 bkz babelin ekşiciler için kafasını pembeye boyaması
