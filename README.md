@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk
+bkz ekşicilerin beni futbolcu sanması olm 41 yaşında ne futbolu lan
 bkz zenci kaslı futbolcuymuş tahmin etmiştim
 bkz john obi mikelin antrenmanda sırt kaslarını göstermesi
 https://eksisozluk.com/john-obi-mikelin-canli-yayinda-aglamasi--6352624?a=popular
