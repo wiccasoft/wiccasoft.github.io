@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!--
+bkz john obi mikel benim canlı yayında penis te büyük demesi
 bzk john obi mikel kim amk 
 bkz aşkom acıtmadan sok diyen kızın babasının odaya girmesi
 bkz sevdiceğine deme yasağı koyan kız
