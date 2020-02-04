@@ -5,8 +5,8 @@
 
 <!--
 bkz carbon based life forms
-https://www.uludagsozluk.com/k/hi%C3%A7-koparmadan-33-cm-s%C4%B1%C3%A7mak/&w=bg adsasdasdad
-bkz şişi etfale hiç koparmadamn 33 cm sıçan adamın amerikaya kaçması
+https://www.uludagsozluk.com/k/hi%C3%A7-koparmadan-33-cm-s%C4%B1%C3%A7mak/&w=bg 
+bkz şişli etfale hiç koparmadamn 33 cm sıçan adamın amerikaya kaçması
 bkz aslı bekiroğlanjın emcüğüm faha önce hiç bi erkek emcüklemedi açıklaması
 bkz aslı bekir oğlunun kız oğlan kızım hala açıklaması
 bkz aslı bekiroğlunun bir kürtle evlenmek istiyorum demesi
