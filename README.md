@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
+bkz aslı bekiroğlunun telefonu sessize alması
+bkz aslı bekiroğlunun diyarbekirlilere dava açması
 bkz fatih tezcanın analiz merkezini yurt dışına taşıması
 bkz kanser hastasına çen nasıl mafyasın çen diyen ergen
 https://www.uludagsozluk.com/k/sa%C4%9Flam-kafa-sa%C4%9Flam-v%C3%BCcuttad%C4%B1r-deyip-sirozdan-%C3%B6lmek/&w=bg lol
