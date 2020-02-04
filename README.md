@@ -4,11 +4,12 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!--  
-bkz erkan tanın virüsü mehterle kovalaması
+bkz radamel falcao garcianın canlı yayında kırdığı pot
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz obi wan kenobinin canlı yayında fener ağlama demesi
 bkz tuncay şanlının fenerbahçe kafilesine ateş edenin intikamını alacam sözü vermesi
 bkz büyük resmi görmek için baya zıplamanız gerekecek 
+bkz erkan tanın virüsü mehterle kovalaması
 bkz facebook a biz burdayız atamızın izindeyiz yazan kamalcı
 bkz facebook ta isminin başına tc vatan sever yazan kamalcı
 bjz apple cı kamalcılar vs huawei ci mao zedongcular
