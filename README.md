@@ -1,9 +1,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!-- 
-bkz aslı bekiroğlunun telefonu sessize alıp demeden yürüyenlere dava açması
-bkz aslı bekiroğlunun diyarbekirlilere dava açması
-bkz fatih tezcanın analiz merkezini yurt dışına taşıması
+bkz 4 şubat 2020 fatih tezcanın analiz merkezini yurt dışına taşıması
 bkz kanser hastasına çen nasıl mafyasın çen diyen ergen
 https://www.uludagsozluk.com/k/sa%C4%9Flam-kafa-sa%C4%9Flam-v%C3%BCcuttad%C4%B1r-deyip-sirozdan-%C3%B6lmek/&w=bg lol
 https://eksisozluk.com/sedat-pekerin-yurt-disina-kacmasi--6352083?a=popular bkz pembe reis
@@ -18,6 +16,7 @@ https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-sp
 https://www.uludagsozluk.com/k/pekerface/
 https://www.uludagsozluk.com/e/42806538/ bkz skenderun deniz alayında bi laf vardır  :))
 verdim nik'ini cimere mahkemede hesap verirsin artık sen kime çen diyosun köpek
+bkz aslı bekiroğlunun telefonu sessize alıp demeden yürüyenlere dava açması
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg 
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-herbokologlar/
 https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/ 
