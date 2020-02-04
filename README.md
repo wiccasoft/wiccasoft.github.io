@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk
+https://www.uludagsozluk.com/k/kalbi-k%C4%B1r%C4%B1lan-erkek-hareketleri/&w=bg kafasını pembeye boyamak
 https://www.webaslan.com/babel-saclari-pembe-yapti-SXHBQ112413SXQ&1=1 zuahahahahah
 bkz pembe reise gidin hadi bakim
 bkz bu yaştan sonra ben mi koşacam o ç ları
