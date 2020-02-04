@@ -2,6 +2,7 @@
 
 <!-- 
 bkz sedat peker vs hakan peker
+bkz ya sedat peker dönmezse sorunsalı
 bkz ata çüçünüz mü şizi kurtaçak şizi
 https://www.youtube.com/watch?v=wIoxxkNj6AM 
 bkz 4 şubat 2020 fatih tezcanın analiz merkezini yurt dışına taşıması
