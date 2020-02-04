@@ -5,6 +5,7 @@
 
 <!--
 bkz carbon based life forms
+bkz aslı bekiroğlanjın emcüğüm faha önce hiç bi erkek emcüklemedi açıklaması
 bkz aslı bekir oğlunun kız oğlan kızım hala açıklaması
 bkz aslı bekiroğlunun bir kürtle evlenmek istiyorum demesi
 bkz aslı bekiroğlunun beyin göçünü engellemek için harekete geçmesi
