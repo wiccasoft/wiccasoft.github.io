@@ -5,6 +5,7 @@
 
 <!--
 bzk john obi mikel kim amk
+bkz pembe kafalıya gidin hadi bakim
 bkz bu yaştan sonra ben mi koşacam o ç ları
 bkz pascal naumanın ekşicilere tombala oynatacam sinyali yakması
 bkz ahmet kayanın gs prim borcunu ödememek için fransaya kaçması
