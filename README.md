@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!--
+bzk john obi mikel kim amk
 bkz john obi mikelin antrenmanda sırt kaslarını göstermesi
 https://eksisozluk.com/john-obi-mikelin-canli-yayinda-aglamasi--6352624?a=popular
 bkz şişli etfale kiç koparmadan 33 cm sıçan adamın amerikaya kaçması
