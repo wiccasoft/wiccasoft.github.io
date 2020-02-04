@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 <!--
-bzk john obi mikel kim amk
+bzk john obi mikel kim amk https://www.youtube.com/watch?v=tVfyO37ARpQ
 bkz tengir budun doğanın ekşiden çaldığı entryler
 bkz babelin ekşiciler için kafasını pembeye boyaması
 https://www.uludagsozluk.com/k/kalbi-k%C4%B1r%C4%B1lan-erkek-hareketleri/&w=bg kafasını pembeye boyamak
