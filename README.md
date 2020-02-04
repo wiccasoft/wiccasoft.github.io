@@ -5,6 +5,7 @@
 
 <!-- 
 bkz sedat peker vs hakan peker
+bkz facebook ta isminin başına tc vatan sever yazan kamalcı
 bjz apple cı kamalcılar vs huawei ci mao zedongcular
 bkz erkan tanın wahtzup ını kamalcılara kapaması
 bkz erkan tanın mehter ekibiyle yurtdışan kaçmaya hazırlanması
