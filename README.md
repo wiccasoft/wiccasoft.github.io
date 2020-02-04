@@ -9,6 +9,7 @@ bzk john obi mikel kim amk
 bkz aşkom acıtmadan sok diyen kızın babasının odaya girmesi
 bkz sevdiceğine deme yasağı koyan kız
 bkz aslı bekiroğlunun kumdan kürt penisi yapması
+bkz barbarı şansalın olaylara sessiz kalması
 https://www.youtube.com/watch?v=tVfyO37ARpQ
 bkz tengir budun doğanın ekşiden çaldığı entryler
 bkz babelin ekşiciler için kafasını pembeye boyaması
