@@ -6,6 +6,7 @@ https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
 bkz teyzesinin kiloduna attıran veledin güldürmesi
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg 
 https://www.uludagsozluk.com/k/pekerface
+https://www.uludagsozluk.com/k/kokainin-corona-vir%C3%BCs%C3%BCn%C3%BC-%C3%B6ld%C3%BCrmesi/ 
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-herbokologlar/
 https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/ 
 https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/
