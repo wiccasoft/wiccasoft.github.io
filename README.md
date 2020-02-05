@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz facebook ta deden ölse naparsın
 bkz denize yunan erkeği düşse naparsın sorunsalı
 bkz türk erkekleri her yünüyle vasat olduğu iddaları
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-her-y%C3%B6n%C3%BCyle-vasat-olmas%C4%B1/
