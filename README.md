@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+https://www.uludagsozluk.com/k/ibrahim-mike-baycora/ türkün gücü
 bkz ryan babelin pembişe verdiği efso ayar
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
 https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
