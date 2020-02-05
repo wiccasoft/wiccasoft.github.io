@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
-denize burahn altın top mu düşse kurtarırsın fıs fıs ismail mi
+https://www.uludagsozluk.com/k/osmanl%C4%B1-askerlerine-zehirli-ekmek-veren-araplar/&w=bg
+denize burhan altın top mu düşse kurtarırsın fıs fıs ismail mi
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg
 https://www.youtube.com/watch?v=1Q8fG0TtVAY
 bkz deniz huawei mi düşse kurtarırsın samsung mu 
