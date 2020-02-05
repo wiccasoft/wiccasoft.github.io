@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz beyin göçünün faydaları
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular
 https://www.uludagsozluk.com/k/suriyelileri-geri-g%C3%B6nderelim-kampanyas%C4%B1/&w=bg 
