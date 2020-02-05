@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz recep tayyip doğan bilal erdoğanın babası diyen tip
 bkz atacücün en büyük hatası şeydi diyen tip
 bkz facebook instagramdan iyi diyen tip
 https://www.youtube.com/watch?v=TZiA4reAP_I
