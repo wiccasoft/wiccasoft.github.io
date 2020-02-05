@@ -3,7 +3,7 @@
 
 <!--
 bkz o konuda ona ben de kırgınım diyen tip
--hangi konu da?
+-hangi konuda?
 -okunda canım
 hangi konuda oç
 https://www.uludagsozluk.com/k/pekerface
