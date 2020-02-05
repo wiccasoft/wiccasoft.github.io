@@ -2,9 +2,9 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz ekşicilerin biraz aptal olması
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg zuhahahah
 bkz obi wan kenobi fatih tezcan benzerliği
-https://www.uludagsozluk.com/k/ibrahim-mike-baycora/ türkün gücü
 bkz ryan babelin pembişe verdiği efso ayar
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
 https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
