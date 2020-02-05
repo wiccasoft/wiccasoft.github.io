@@ -3,6 +3,7 @@
 
 <!--
 bkz çakırın raconu kesmesi
+https://www.youtube.com/watch?v=YpDZGEtdycI
 bkz yeni mafya kim oalcak sorunsalı
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz sedat pekerin paylaştığı pembe ülkücü bıyığı
