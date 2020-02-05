@@ -3,23 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=exdjlYaYJE8
-bkz denize karı düşse de kurtarsak
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
-bkz bahçelinin şirinler köyüne konvoyuyla gitmesi
-bkz 5 şubat 2020 pegasusun pistten çıkan uçağının türk olmadığı için pistten çıkması
-https://www.uludagsozluk.com/k/nooldu-lan-kar-mar-diyordunuz/
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
-https://www.uludagsozluk.com/k/kurana-el-basarak-g%C3%B6reve-ba%C5%9Flayan-emniyet-m%C3%BCd%C3%BCr%C3%BC
-https://www.uludagsozluk.com/k/2-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fa-tokat-atan-kre%C5%9F-%C3%B6%C4%9Fretmeni/
-bkz deniz apple mı düşse kurtarırsın abc.xyz mi
-https://www.uludagsozluk.com/k/feminist-erkek/&w=bg
-https://www.uludagsozluk.com/k/apple-vs-google/&w=bg
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-her-y%C3%B6n%C3%BCyle-vasat-olmas%C4%B1/
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
-https://www.uludagsozluk.com/k/perin%C3%A7ek-in-g%C3%BClerek-%C5%9Fehit-vermeden-olmaz-demesi/ 
-https://eksisozluk.com/denize-perincek-mi-dusse-kurtarirsin-bahceli-mi--6353674?a=popular
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-her-y%C3%B6n%C3%BCyle-vasat-olmas%C4%B1/&w=gd
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
