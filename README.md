@@ -11,7 +11,7 @@ https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-herbokologlar/
 https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/ 
 https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/
 bkz beyin göçünün faydaları
-braking bad lost island son olarak ta battle star galactica
+braking bad lost island son olarak ta battlestar galactica
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular
 https://www.uludagsozluk.com/k/suriyelileri-geri-g%C3%B6nderelim-kampanyas%C4%B1/&w=bg 
