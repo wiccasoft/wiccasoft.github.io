@@ -4,8 +4,6 @@
 <!--
 bkz deniz muhammed mi düşse kurtarırsın ata cücü mü
 bkz deniz kılıştaroğlan düşse naparsın
-bkz denize hakkari bld bşk düşse kurtarırmısn
-bkz denize rte mi düşse kurtarırsın jeff bezos mu
 https://eksisozluk.com/sehit-yakinlarinin-chp-celengini-parcalamasi--6353615?a=popular
 https://eksisozluk.com/denize-perincek-mi-dusse-kurtarirsin-bahceli-mi--6353674?a=popular
 https://www.uludagsozluk.com/k/osmanl%C4%B1-askerlerine-zehirli-ekmek-veren-araplar/&w=bg
