@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz 5 şubat 2020 pegasus uçağının tirbulansa girmesi
 bkz oç kreş öğretmeninin göğüs kıllarını almaması
 https://www.uludagsozluk.com/k/g%C3%B6%C4%9F%C3%BCs-k%C4%B1l%C4%B1n%C4%B1-ald%C4%B1ran-erkek/&w=bg
 bkz 5 şubat 2020 pisstten çıkan uçağın fransız malı çıkması
