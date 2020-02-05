@@ -1,7 +1,11 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
-<!-- https://www.uludagsozluk.com/k/perin%C3%A7ek-in-g%C3%BClerek-%C5%9Fehit-vermeden-olmaz-demesi/ -->
+<!-- 
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
+https://www.uludagsozluk.com/k/perin%C3%A7ek-in-g%C3%BClerek-%C5%9Fehit-vermeden-olmaz-demesi/ 
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-her-y%C3%B6n%C3%BCyle-vasat-olmas%C4%B1/&w=gd
+-->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
