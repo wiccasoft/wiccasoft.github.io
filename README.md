@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz haberleri ver deyince veren tip
 bkz muhammedin 4 eşi helal kılması
 https://www.uludagsozluk.com/k/muhammed-in-kapkara-bir-zenci-olmas%C4%B1/ 
 bkz yazdığım yapay zeka olmayan işinizi elinizden alınca görüşürüz oç ları
