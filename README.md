@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz devlet bahçelinin rte yi denizden kurtarması
+bkz 5 şubat 2020 devlet bahçelinin rte yi denizden kurtarması
 bkz oç kreş öğretmenin pegasus ıuçağıyla yunanistana kaçması
 bkz denize taylan antalyalı düşse kurtarırmısın sorunsalı
 bkz ensar vakfı onursal başkanının kurana el basması
