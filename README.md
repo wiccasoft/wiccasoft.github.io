@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz en iyisin biz biliriz diyen tip
 bkz en çok bizi dinleyeceksiniz diyen tip
 bkz kampanyayı yayalım diyen tip
 bkz sedat peker pembe teskereli diyen tip
