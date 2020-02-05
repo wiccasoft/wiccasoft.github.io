@@ -4,8 +4,6 @@
 <!--
 bkz 440 hertz yeterli diyen tip
 bkz kozmonota akıl veren tip
-bkz her konuda kirpilik yapan tip
-bkz oklu kirpiyi döven suriyeliler
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
 bkz teyzesinin kiloduna attıran veledin güldürmesi
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg 
