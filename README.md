@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/apple-vs-google/&w=bg
+bkz deniz apple mı düşse kurtarırsın abc.xyz mi
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-her-y%C3%B6n%C3%BCyle-vasat-olmas%C4%B1/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
