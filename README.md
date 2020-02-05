@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz herkeşe benden çay şakire yok
+https://www.uludagsozluk.com/k/33-vatanda%C5%9F%C4%B1-%C3%B6lm%C3%BC%C5%9Fken-keyif-%C3%A7ay%C4%B1-da%C4%9F%C4%B1tan-ba%C5%9Fkan/
 https://www.uludagsozluk.com/k/4-%C5%9Fubat-2020-van-%C3%A7%C4%B1%C4%9F-felaketi/&w=bg geberin amk çocukları
 https://www.uludagsozluk.com/k/%C3%BCmit-besen/&w=bg
 bkz bir gün hepiniz oç ları
