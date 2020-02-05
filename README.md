@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz sedat pekerin yapa zeka işlerinizi tehdit edecek diye tehdid etmesi
+bkz sedat pekerin bıyık denilince akla gelen yüzleri sayan yapay zeka yazması
+bkz sedat pekerin yapay zeka işlerinizi tehdit edecek diye tehdid etmesi
 bkz sedat pekerin paylaştığı arabın ben mehdiyim demesi
 bkz sedat pekerin paylaştığı arap
 bkz barış manço ülkücümüydü sorunsalı
