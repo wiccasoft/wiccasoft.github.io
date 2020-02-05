@@ -5,6 +5,7 @@
 https://www.youtube.com/watch?v=exdjlYaYJE8
 bkz denize karı düşse de kurtarsak
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
+bkz bahçelinin şirinler köyüne konvoyuyla gitmesi
 bkz 5 şubat 2020 pegasusun pistten çıkan uçağının türk olmadığı için pistten çıkması
 https://www.uludagsozluk.com/k/nooldu-lan-kar-mar-diyordunuz/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
