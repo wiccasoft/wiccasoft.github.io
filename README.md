@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz pagasus uçağı türk olmadığı için pistten çıktı iddaları
 bkz adnan kahveciyle kahve içer miydin sorunsalı
 bkz 2 yaşındaki çocuğu tokat atan oç
 bkz pistten çıkan uçak türk olmasa napardın
