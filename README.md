@@ -2,8 +2,10 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
-https://www.uludagsozluk.com/k/%C5%9Firinler-k%C3%B6y%C3%BCn%C3%BC-akp-y%C3%B6netse-olacaklar/&w=bg ehehhehehe
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
+https://www.uludagsozluk.com/k/kurana-el-basarak-g%C3%B6reve-ba%C5%9Flayan-emniyet-m%C3%BCd%C3%BCr%C3%BC
+https://www.uludagsozluk.com/k/2-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fa-tokat-atan-kre%C5%9F-%C3%B6%C4%9Fretmeni/
+
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
