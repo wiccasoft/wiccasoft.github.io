@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Firinler-k%C3%B6y%C3%BCn%C3%BC-akp-y%C3%B6netse-olacaklar/&w=bg ehehhehehe
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
 -->
 
