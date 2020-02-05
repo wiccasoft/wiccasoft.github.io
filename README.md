@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz ata cücü atla olm dese atlar mısın
 bkz ata cücü denize dök dese kimi dökerdin
 bkz sabiha gökçen yoldan çıksa napardın
 bkz hangi milleti denize dökerdin
