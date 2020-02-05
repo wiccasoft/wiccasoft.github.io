@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz aslı bekiroğlu vs asude defne özkan
 bkz aslı bekiroğlu vs sharon stone
 bkz sharon stone vs aslı bekiroğlu
 bkz asude defne özkan ın bakire olmadığı iddaları
