@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz aslı bekiroğlanın diayrbekirli kürt olduğu iddaları
 bkz trabzonluların rum sivaslıların ermeni olması iddaları
 bkz 5 şubat 2020 pegasus uçağının airbus olduğu iddaları
 bkz 5 şubat 2020 pegasus uçağının tirbülansa girmesi
