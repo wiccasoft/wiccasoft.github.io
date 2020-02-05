@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz trabzonluların rum sivaslıların ermeni olması iddaları
 bkz 5 şubat 2020 pegasus uçağının airbus olduğu iddaları
 bkz 5 şubat 2020 pegasus uçağının tirbülansa girmesi
 https://www.uludagsozluk.com/k/trabzonlular%C4%B1n-rum-sivasl%C4%B1lar%C4%B1n-ermeni-olmas%C4%B1/&w=bg
