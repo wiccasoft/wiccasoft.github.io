@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz 4 şubat 2020 rte nin en düşük memur maaşı 4000 olacak sözü vermesi
+bkz en düşük memur maaşı 4000 olacak diyen tip
 bkz benim hanımda siirtli arap zaten diyen tip
 bkz muhammed kapkara bir zenci olması diyen tip
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır diyen tip
