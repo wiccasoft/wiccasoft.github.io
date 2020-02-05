@@ -3,7 +3,7 @@
 
 <!--
 bkz 33 oç daha öldü keyfim yerinde oç ları
-bkz youne belhandanın gebersinler oç ları demesi
+bkz younes belhandanın gebersinler oç ları demesi
 bkz kanye perinçekin oç türklere verdiği ayar
 https://www.uludagsozluk.com/k/33-vatanda%C5%9F%C4%B1-%C3%B6lm%C3%BC%C5%9Fken-keyif-%C3%A7ay%C4%B1-da%C4%9F%C4%B1tan-ba%C5%9Fkan/
 https://www.uludagsozluk.com/e/42810908/ yav bırak bro partiyi kapattıracan heee 
