@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acaba kesin sens değilsin
 https://www.youtube.com/watch?v=eSgfUu0Tb0E hassiktir lan
 bkz 440 hertz yeterli diyen tip
 bkz kozmonota akıl veren tip
