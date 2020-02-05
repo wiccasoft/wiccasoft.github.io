@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz aslı bekiroğlunun seninle aslıyla bekir olabilirdik demesi
+https://www.uludagsozluk.com/k/seninle-%C5%9F%C3%B6yle-olabilirdik/&w=bg 
 bkz aslı bekirolunun aynı kitapları okuması bu damı tesadüf ayol
 https://www.uludagsozluk.com/k/%C5%9Fu-an-okunan-kitap/&w=bg
 bkz aslı bekiroğlunun paylaştığı kitap
