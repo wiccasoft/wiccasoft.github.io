@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz denize boeing düşse kurtarır mısın
 bkz adnan oktar m düşse kurtarırsın gaffar okan mı
 bkz huawei mi suya düşse kurtarırsın samsung mu
 bkz deniz rte mi ümit sileli mi düşse kurtarırsın behçeli mi perinçek mi
