@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg okudum kanka partide çay keyfindeyim
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-%C3%B6ld%C3%BC/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/%C3%BCmit-besen/&w=bg aşk kanatlarımı takıp geleceğim sevdiceğim
 bkz herkeşe benden çay şakire yok
