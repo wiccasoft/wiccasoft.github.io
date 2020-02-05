@@ -6,15 +6,11 @@ bkz sedat pekerin bıyık denilince akla gelen yüzleri sayan yapay zeka yazmas�
 bkz sedat pekerin yapay zeka işlerinizi tehdit edecek diye tehdid etmesi
 bkz sedat pekerin paylaştığı arabın ben mehdiyim demesi
 bkz sedat pekerin paylaştığı arap
-bkz barış manço ülkücümüydü sorunsalı
-bkz ülkücü bıyığı denilince akla gelen ilk bıyıklı adam imgesi
-bkz scary moviedeki arap denilmeyince akla gelen ilk isim
 bkz instagram facebook twitter whatzzzzzzzzzzup kullanmayan arap
+https://www.youtube.com/watch?v=-Wp-A32E0zI
 https://www.uludagsozluk.com/k/muhammed-in-kapkara-bir-zenci-olmas%C4%B1/ bkz yeşilyoldaki arap
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
-bkz testere necminin sedat peker yerine atadağı reis
 https://www.youtube.com/watch?v=YpDZGEtdycI
-bkz yeni mafya kim oalcak sorunsalı
 bkz obi wan kenobi fatih tezcan benzerliği
 bkz sedat pekerin paylaştığı pembe ülkücü bıyığı
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg zuhahahah
@@ -34,7 +30,6 @@ bkz sen de o da gitsin
 bkz ryan babelin sedat pekere gönderme olsun diye kafasını pembeye boyaması
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-%C4%B1n-inan%C4%B1lmaz-ikiy%C3%BCzl%C3%BCl%C3%BC%C4%9F%C3%BC/
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz pembiş in kaçması 
-
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
