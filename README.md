@@ -1,7 +1,8 @@
 
-[![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
+[![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=mWqGJ613M5Y )
 
 <!-- 
+https://www.youtube.com/watch?v=mWqGJ613M5Y
 bkz deniz dod mu düşse kurtarırsın google x mi
 bkz deniz apple mı düşse kurtarırsın abc.xyz mi
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg
