@@ -4,7 +4,6 @@
 <!-- 
 https://kalbikara.uludagsozluk.com/ güldürdün o.ç verdim şukunu 
 bkz teyzesinin kiloduna attıran veledin güldürmesi
-https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg 
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
