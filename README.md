@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
-<!--,
+<!--
+bkz muharrem ince abduyllah gül cb adayı olsaydı
+https://www.uludagsozluk.com/k/muharrem-ince-yerine-abdullah-g%C3%BCl-cb-aday%C4%B1-olsayd%C4%B1/
 bkz giresundan adam çıksa yer misin sorunsalı
 https://www.uludagsozluk.com/k/giresun-dan-adam-%C3%A7%C4%B1kar-m%C4%B1-sorunsal%C4%B1/
 bkz atacücü yakışıklı amam sempatikti iddası
