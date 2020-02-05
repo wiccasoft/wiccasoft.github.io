@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+https://www.uludagsozluk.com/e/42810908/ yav bırak bro partiyi kapattıracan heee 
 https://www.uludagsozluk.com/k/erkek-kokusu/&w=bg ay erkek deme ayol fena oluyom
 https://www.youtube.com/watch?v=agNEuSy1aqA 
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-%C3%B6ld%C3%BC/&w=bg yalan haber meclisteyim kahve içiyom perinçekle
