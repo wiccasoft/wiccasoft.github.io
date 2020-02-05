@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz pistten çıkan uçak boeing mi olsa kurtarırsın aisbus mı
 bkz sabiha gökçen huawei kullansa napardın
 bkz ata cücü olm gel yarramı yala dese napardın
 bkz ata cücü atla olm dese atlar mısın
