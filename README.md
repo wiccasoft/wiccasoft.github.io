@@ -2,9 +2,9 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz denize karı düşse de kurtarsak
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
 bkz 5 şubat 2020 pegasusun pistten çıkan uçağının türk olmadığı için pistten çıkması
-bkz denize karı düşse de kurtarsak
 https://www.uludagsozluk.com/k/nooldu-lan-kar-mar-diyordunuz/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
 https://www.uludagsozluk.com/k/kurana-el-basarak-g%C3%B6reve-ba%C5%9Flayan-emniyet-m%C3%BCd%C3%BCr%C3%BC
