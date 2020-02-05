@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz 440 hertz yeterli diyen tip
 bkz kozmonota akıl veren tip
 bkz her konuda kirpilik yapan tip
 bkz oklu kirpiyi döven suriyeliler
