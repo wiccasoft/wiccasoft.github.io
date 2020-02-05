@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz boing hissesi mi düşse kurtarrısın airbus mı 
+bkz boing hissesi mi düşse kurtarıtsın airbus mı 
 bkz ata cüc bana laf etme edepsiz anan kimdi bilemezdin şerefsiz dese napardın
 bkz ata cüc türk değilim dese napardın
 bkz pistten çıkan uçak boeing mi olsa kurtarırsın aisbus mı
