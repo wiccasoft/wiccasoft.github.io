@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz 5 şubat 2020 payşatığım haber linki
 bkz 5 şubat 2020 haber linki paylaşmam
 https://www.uludagsozluk.com/k/kurana-el-basarak-g%C3%B6reve-ba%C5%9Flayan-emniyet-m%C3%BCd%C3%BCr%C3%BC/
 bkz 5 şubat 2020 pegasus uçağının inerken sendelemesi
