@@ -2,8 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz recep tayyip doğan beni seven sigara içmez demesi
-bkz recep tayyip doğan bilal erdoğanın babası diyen tip
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz atacücün en büyük hatası şeydi diyen tip
 bkz facebook instagramdan iyi diyen tip
 https://www.youtube.com/watch?v=TZiA4reAP_I
