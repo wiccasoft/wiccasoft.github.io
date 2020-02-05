@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz yazdığım yazpay zekaya hıh çok biliyon sen diyen tip
 bkz o konuda ona ben de kırgınım diyen tip
 -hangi konuda?
 -okunda canım
