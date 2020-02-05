@@ -2,9 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz 4 şunat 2020 recep tayyip erdoğanın bekçi maaşlarını düzeltecem sözü vermesi
+bkz bekçi maaşlarını düzeltecem sözü veren tip
 bkz benim hanımda siirtli arap zaten diyen tip
-bkz recep tayyi perdoğan rizenin gururdur diyen tip
 bkz muhammed kapkara bir zenci olması diyen tip
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır diyen tip
 bkz facebook instagramdan iyi diyen tip
