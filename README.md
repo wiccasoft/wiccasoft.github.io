@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz deniz kürt düşse naparsın
+bkz denizden çıkan kürt babamı bile yerim dese naparsın
 https://www.uludagsozluk.com/k/atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-de%C4%9Fil-ama-sempatikti-iddias%C4%B1/&w=bg
 bkz aslı bekiroğlan pegasus uçağı kullansa naparsın
 bkz aslı bekiroğlan kürdüm ne var dese naparsın
