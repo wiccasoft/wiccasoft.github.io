@@ -5,9 +5,10 @@
 https://www.youtube.com/watch?v=EU4ClC3J_yY
 bkz beyin göçününü hızlanması
 bkz sen de o da gitsin
+bkz ryan babelin sedat pekere gönderme olsun diye kafasını pembeye boyaması
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-%C4%B1n-inan%C4%B1lmaz-ikiy%C3%BCzl%C3%BCl%C3%BC%C4%9F%C3%BC/
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz pembiş in kaçması 
-bkz ryan babelin ben varım ayol demesi
+
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
