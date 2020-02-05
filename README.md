@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz ata cüc bana laf etme edepsiz anan kimdi bilemezdin şerefsi dese napardın
 bkz ata cüc türk değilim dese napardın
 bkz pistten çıkan uçak boeing mi olsa kurtarırsın aisbus mı
 bkz sabiha gökçen huawei kullansa napardın
