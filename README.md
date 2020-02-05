@@ -3,6 +3,7 @@
 
 <!--
 bkz 5 şubat 2020 pegasus uçağının tirbulansa girmesi
+https://www.uludagsozluk.com/k/kurana-el-basarak-g%C3%B6reve-ba%C5%9Flayan-emniyet-m%C3%BCd%C3%BCr%C3%BC/
 bkz oç kreş öğretmeninin göğüs kıllarını almaması
 https://www.uludagsozluk.com/k/g%C3%B6%C4%9F%C3%BCs-k%C4%B1l%C4%B1n%C4%B1-ald%C4%B1ran-erkek/&w=bg
 bkz 5 şubat 2020 pisstten çıkan uçağın fransız malı çıkması
