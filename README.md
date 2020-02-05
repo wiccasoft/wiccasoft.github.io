@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz aslı bekiroğlunun demeye kapasa napardın
+bkz emreo morun yürüüğü kız sana yürüse napardın
+bkz aslı bekiroğlu demeye kapasa napardın
 bkz isntaramı olmayan kız bubam izin vermiyo dese napardın
 bkz instagramı olmayan kız türk kızı olsaydı napardın sorunsalı
 bkz instagramı olmayan kız oğlan kızım dese napardın
