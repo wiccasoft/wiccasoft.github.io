@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
 bkz adam gibi adamların birer birer gitmesi
 https://www.youtube.com/watch?v=-Wp-A32E0zI
 bkz hakan pekerin sedat pekeri karşilaması
