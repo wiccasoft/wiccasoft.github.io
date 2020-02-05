@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
+https://www.uludagsozluk.com/k/nooldu-lan-kar-mar-diyordunuz/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
 https://www.uludagsozluk.com/k/kurana-el-basarak-g%C3%B6reve-ba%C5%9Flayan-emniyet-m%C3%BCd%C3%BCr%C3%BC
 https://www.uludagsozluk.com/k/2-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fa-tokat-atan-kre%C5%9F-%C3%B6%C4%9Fretmeni/
