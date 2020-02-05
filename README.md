@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+bkz adam gibi adamların bire birer kaçması
 https://www.youtube.com/watch?v=-Wp-A32E0zI
 bkz hakan pekerin sedat pekeri karşilaması
 bkz sedat pekerin yerine gelen reisin çıkarıp masaya vurması
