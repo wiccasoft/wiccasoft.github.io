@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz sabiha gökçen yoldan çıksa napardın
 bkz hangi milleti denize dökerdin
 bkz ata cücü göt istede verir misin
 bkz yunanistan batsa kurtarır mısın
