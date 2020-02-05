@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+bkz deniz dod mu düşse kurtarırısın google x mi
 bkz deniz apple mı düşse kurtarırsın abc.xyz mi?
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
