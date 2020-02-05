@@ -2,16 +2,14 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz sizden öğrenecek değiliz diyen tip
 bkz size soracak değiliz diyen tip
-bkz en çok bizi dinleyeceksiniz diyen tip
-bkz kampanyayı yayalım diyen tip
+bkz sizden öğrenecek değiliz diyen tip
 bkz sedat peker pembe teskereli diyen tip
 bkz suriyelileri geri dönderelim diyen tip
 bkz ahmet kaya en güzel şarkısı gafama sıkar giderim diyen tip
 bkz en düşük memur maaşı 4000 olacak diyen tip
 bkz benim hanımda siirtli arap zaten diyen tip
-bkz muhammed kapkara bir zenci olması diyen tip
+bkz muhammed kapkara bir zenci diyen tip
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır diyen tip
 bkz facebook instagramdan iyi diyen tip
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
