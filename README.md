@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz hiç bi boku beğenmeyen tip
 bkz yüzümde botoks olduğunu idda eden tip
 https://www.uludagsozluk.com/k/pekerface
 bkz uzak durmak lazım diyip duramayan tipler
