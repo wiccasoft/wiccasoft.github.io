@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz testere necminini sedat peker yerine atadağı baba
+bkz testere necminin sedat peker yerine atadağı reis
 https://www.youtube.com/watch?v=YpDZGEtdycI
 bkz yeni mafya kim oalcak sorunsalı
 bkz obi wan kenobi fatih tezcan benzerliği
