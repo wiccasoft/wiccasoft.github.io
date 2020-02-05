@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bjkz her konuda kirpilik yapan tip
+bkz kozmonota akıl veren tip
+bkz her konuda kirpilik yapan tip
 bkz oklu kirpiyi döven suriyeliler
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
 bkz teyzesinin kiloduna attıran veledin güldürmesi
