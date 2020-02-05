@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz bıyıklı deyince aklına gelen tipi söyle deyince söyleyen tip
 bkz o konuda bilgi ver deyince  veren  tip
 bkz şu konuda bilgi ver diyince veren tip
 bkz haberleri ver deyince veren tip
