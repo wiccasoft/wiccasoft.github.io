@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular
 https://www.uludagsozluk.com/k/suriyelileri-geri-g%C3%B6nderelim-kampanyas%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/koruma-alt%C4%B1ndaki-oklu-kirpiyi-avlayan-suriyeliler/
 bkz sedat pekerin bıyık denilince akla gelen yüzleri sayan yapay zeka yazması
