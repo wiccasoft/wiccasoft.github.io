@@ -1,7 +1,10 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
-<!-- https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz pembiş in kaçması -->
+<!-- 
+https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz pembiş in kaçması 
+bkz ryan babelin ben varım ayol demesi
+-->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
