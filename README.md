@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+https://www.uludagsozluk.com/k/pekerface
 bkz uzak durmak lazım diyip duramayan tipler
 bkz 440 hertz dna tahribatı yapar diyen tipler
 https://www.youtube.com/watch?v=eSgfUu0Tb0E 
@@ -9,7 +10,6 @@ https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acab
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
 bkz teyzesinin kiloduna attıran veledin güldürmesi
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg 
-https://www.uludagsozluk.com/k/pekerface
 https://www.uludagsozluk.com/k/kokainin-corona-vir%C3%BCs%C3%BCn%C3%BC-%C3%B6ld%C3%BCrmesi/ 
 https://www.uludagsozluk.com/k/%C3%BCnl%C3%BC-herbokologlar/
 https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/ 
