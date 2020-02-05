@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+https://www.uludagsozluk.com/k/4-%C5%9Fubat-2020-van-%C3%A7%C4%B1%C4%9F-felaketi/&w=bg geberin amk çocukları
 https://www.uludagsozluk.com/k/%C3%BCmit-besen/&w=bg
 bkz bir gün hepiniz oç ları
 bkz 33 oç daha öldü keyfim yerinde oç ları
