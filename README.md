@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
-bkz hakan peker sedat pekeri karşilaması
+https://www.youtube.com/watch?v=-Wp-A32E0zI
+bkz hakan pekerin sedat pekeri karşilaması
 bkz sedat pekerin yerine gelen reisin çıkarıp masaya vurması
 bkz pembiş değil simsiyah adamım diyen yeni reis
 https://www.youtube.com/watch?v=c7IoBRRBiX8
