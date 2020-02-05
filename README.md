@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz deniz kılıştaroğlan düşse naparsın
 bkz denize hakkari bld bşk düşse kurtarırmısn
 bkz denize rte mi düşse kurtarırsın jeff bezos mu
 https://eksisozluk.com/sehit-yakinlarinin-chp-celengini-parcalamasi--6353615?a=popular
