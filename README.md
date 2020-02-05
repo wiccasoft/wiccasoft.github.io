@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ryan babelin pembişe verdiği efso ayar
+https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
 https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
 bkz adam gibi adamların birer birer gitmesi
 https://www.youtube.com/watch?v=-Wp-A32E0zI
