@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz aslı bekiroğlan demeyei açsa emre mor yürüse naparsın
 bkz aslı bekiroğlan diyarbekirliyim dexe kurtarır mısın
 bkz denize boeing düşse kurtarır mısın
 bkz adnan oktar m düşse kurtarırsın gaffar okan mı
