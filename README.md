@@ -2,7 +2,6 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz kozmonota akıl veren tip
 bkz 440 hertz dna tahribatı yapar diyen tip
 https://www.youtube.com/watch?v=eSgfUu0Tb0E 
 https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acaba bu
