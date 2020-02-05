@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz o kunda kafama sıkar giderim diyen tip
 bkz yazdığım yapay zekaya hıh çok biliyon sen diyecek tipler
 bkz o konuda ona ben de kırgınım diyen tip
 -hangi konuda?
