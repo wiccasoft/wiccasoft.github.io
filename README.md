@@ -2,8 +2,6 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz amk ibneleri 33 çomar öldü diye ağalayacak mıyım
-https://www.uludagsozluk.com/k/e%C5%9Fcinsellerin-i%C4%9Fren%C3%A7-olmas%C4%B1/&w=bg
 bkz bir gün hepiniz oç ları
 bkz 33 oç daha öldü keyfim yerinde oç ları
 bkz younes belhandanın gebersinler oç ları demesi
