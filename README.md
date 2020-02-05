@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz tokat atan oç kreş öğretmeninin kaçması
+bkz 5 şubat 2020 tokat atan oç kreş öğretmeninin kaçması
 https://www.uludagsozluk.com/e/42811951/ bkz oç nin amerikaya kaçması
 bkz iki yaşındaki velede tokat atan kreş öğretmeni
 https://www.uludagsozluk.com/k/2-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fa-tokat-atan-kre%C5%9F-%C3%B6%C4%9Fretmeni/
