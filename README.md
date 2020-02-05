@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
-bkz 5 şubat 2020 33 çomarın daha gebermesi-->
+-->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
