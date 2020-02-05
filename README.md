@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz kızılhaç denize düşse kurtarır mısın
 bkz deniz düşünce kimleri kurtarırsın
 bkz arap denize düşse kurtarır mısın
 bkz mustafa kamalın askeriyim diyen it sürüsü deniz düşse kurtarır mısın
