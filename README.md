@@ -2,10 +2,10 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz 440 hertz dna tahribatı yapar diyen tip
-https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acaba bu
-https://www.youtube.com/watch?v=eSgfUu0Tb0E hassiktirin lan şarkatan sürüsü
 bkz kozmonota akıl veren tip
+bkz 440 hertz dna tahribatı yapar diyen tip
+https://www.youtube.com/watch?v=eSgfUu0Tb0E 
+https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acaba bu
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
 bkz teyzesinin kiloduna attıran veledin güldürmesi
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg 
