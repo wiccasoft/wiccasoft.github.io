@@ -3,8 +3,6 @@
 
 <!-- 
 bkz aslı bekiroğlunun paylaştığı kitap
-https://www.uludagsozluk.com/k/giresun-dan-adam-%C3%A7%C4%B1kar-m%C4%B1-sorunsal%C4%B1/&w=bg 
-bkz aslı bekiroğlunun paylaştığı kitap
 bkz aslı bekiroğlunun kürdüm ne var tehdidi
 https://www.youtube.com/watch?v=exdjlYaYJE8
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
