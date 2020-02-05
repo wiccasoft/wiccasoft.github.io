@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz barış manço denilince akla gelen ilk isim
 bkz ülkücü bıyığı denilince akla gelen ilk bıyıklı adam imgesi
 bkz scary moviedeki arap denilmeyince akla gelen ilk isim
 bkz instagram facebook twitter whatzzzzzzzzzzup kullanmayan arap
