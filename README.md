@@ -15,21 +15,12 @@ bkz obi wan kenobi fatih tezcan benzerliği
 bkz sedat pekerin paylaştığı pembe ülkücü bıyığı
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg zuhahahah
 bkz ryan babelin pembişe verdiği efso ayar
-bkz ekşicilerin sanki biraz şey olması
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
 https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
-bkz adam gibi adamların birer birer gitmesi
 https://www.youtube.com/watch?v=-Wp-A32E0zI
-bkz sedat pekerin yerine gelen reisin çıkarıp masaya vurması
-bkz pembiş değil simsiyah adamım diyen yeni reis
-https://www.youtube.com/watch?v=c7IoBRRBiX8
 bkz 4 şubat 2020 sedat pekerin beyin göçünü başlatması
 https://www.youtube.com/watch?v=EU4ClC3J_yY
-bkz beyin göçününü hızlanması
-bkz sen de o da gitsin
-bkz ryan babelin sedat pekere gönderme olsun diye kafasını pembeye boyaması
-https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-%C4%B1n-inan%C4%B1lmaz-ikiy%C3%BCzl%C3%BCl%C3%BC%C4%9F%C3%BC/
-https://www.uludagsozluk.com/k/sedat-peker/&w=bg bkz pembiş in kaçması 
+bkz sen de git o da gitsin
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
