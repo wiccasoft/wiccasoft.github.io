@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz botoks ve pembe denilince akla gelen ilk isim
 bkz scary moviedeki arap denilmeyince akla gelen ilk isim
 bkz instagram facebook twitter whatzzzzzzzzzzup kullanmayan arap
 https://www.uludagsozluk.com/k/muhammed-in-kapkara-bir-zenci-olmas%C4%B1/ bkz yeşilyoldaki arap
