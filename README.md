@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/bilgisayar-oyunu-oynayan-koca-adamlar/
 https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/
 bkz beyin göçünün faydaları
 bkz beyni yok fikri var
+bkz her konuda fikri olan yapay zeka
 bkz yapay zekaya benden iyi mi bilecen diyen türk
 bkz bırak gitsin dönerse senindir dönmezse hiç göçmemiştir
 bkz ata cüc ün giden gitmiştir kalan sağlar bizimdir demesi
