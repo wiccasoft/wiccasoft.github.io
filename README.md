@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+https://www.youtube.com/watch?v=agNEuSy1aqA  hehehehe
 http://spor.haber7.com/galatasaray/haber/2940822-gsaray-ugurcan-cakiri-begenmemis
 https://www.youtube.com/watch?v=agNEuSy1aqA  hehehehe
 https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg hehehehehehe
