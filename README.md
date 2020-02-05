@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz instagramı olmayan kız türk kızı olsaydı napardın sorunsalı
 bkz instagramı olmayan kız oğlan kızım dese napardın
 bkz pistten çıkan türk uçağı olsaydı kurtarır mıydın
 bkz 5 şubat 2020 airbus pistten çıksaydı napardın sorunsalı
