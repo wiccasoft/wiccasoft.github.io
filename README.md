@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz 5 şubat 2020 pistten çıkan uçağın amerikan malı çıkması
 bkz 5 şubat 2020 tokat atan oç kreş öğretmeninin kaçması
 https://www.uludagsozluk.com/e/42811951/ bkz oç nin amerikaya kaçması
 bkz iki yaşındaki velede tokat atan kreş öğretmeni
