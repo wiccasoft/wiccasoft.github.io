@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz benim hanımda arap zaten diyen tip
+bkz benim hanımda siirtli arap zaten diyen tip
 bkz emine erdoğan siirtli bir arap diyen tip
 bkz recep tayyi perdoğan rizenin gururdur diyen tip
 bkz muhammed kapkara bir zenci olması diyen tip
