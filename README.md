@@ -2,9 +2,9 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz 440 hertz dna tahribatı yapar diyen tip
 https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acaba bu
 https://www.youtube.com/watch?v=eSgfUu0Tb0E hassiktirin lan şarkatan sürüsü
-bkz 440 hertz yeterli diyen tip
 bkz kozmonota akıl veren tip
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
 bkz teyzesinin kiloduna attıran veledin güldürmesi
