@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
-<!--
+<!--,
+bkz giresundan adam çıksa yer misin sorunsalı
+https://www.uludagsozluk.com/k/giresun-dan-adam-%C3%A7%C4%B1kar-m%C4%B1-sorunsal%C4%B1/
 bkz atacücü yakışıklı amam sempatikti iddası
 bkz iki yaşındaki kreş çocuğuna tokat atan oç nun amerikaya kaçması
 bkz denizden çıkan kürt babamı bile yerim dese naparsın
