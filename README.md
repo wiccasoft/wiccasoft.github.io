@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz arap denize düşse kurtarır mısın
 bkz mustafa kamalın askeriyim diyen it sürüsü deniz düşse kurtarır mısın
 https://www.uludagsozluk.com/k/mustafa-kemal-in-askeriyim-diyenler-it-s%C3%BCr%C3%BCs%C3%BCd%C3%BCr/&w=bg
 bkz pistten pegasus uçağı mı çıksa kurtarırsın kürt hava yolları uçağı mı
