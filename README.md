@@ -3,6 +3,9 @@
 
 <!--
 bkz o konuda ona ben de kırgınım diyen tip
+-hangi konu da?
+-okunda canım
+hangi konuda oç
 https://www.uludagsozluk.com/k/pekerface
 bkz uzak durmak lazım diyip duramayan tipler
 bkz 440 hertz dna tahribatı yapar diyen tipler
