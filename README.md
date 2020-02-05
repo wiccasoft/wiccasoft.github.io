@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz ahmet kaya en sevilen şarkısı gafama sıkar giderim diyen tip
+bkz ahmet kaya en güzel şarkısı gafama sıkar giderim diyen tip
 bkz en düşük memur maaşı 4000 olacak diyen tip
 bkz benim hanımda siirtli arap zaten diyen tip
 bkz muhammed kapkara bir zenci olması diyen tip
