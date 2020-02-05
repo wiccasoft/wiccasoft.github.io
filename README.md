@@ -17,8 +17,8 @@ https://www.uludagsozluk.com/k/muhammed-in-kapkara-bir-zenci-olmas%C4%B1/ bkz ye
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
 https://www.youtube.com/watch?v=YpDZGEtdycI
 bkz obi wan kenobi fatih tezcan benzerliği
-bkz sedat pekerin paylaştığı pembe ülkücü bıyığı
-https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg zuhahahah
+https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg zuhahahah 
+bkz teyzesinin kiloduna attıran veledin güldürmesi
 bkz ryan babelin pembişe verdiği efso ayar
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
 https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
