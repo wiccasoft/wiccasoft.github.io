@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz rte çıkıp dese ki hadi deniz düştüm kurtar beni
 bkz deniz muhammed mi düşse kurtarırsın ata cücü mü
 bkz deniz kılıştaroğlan düşse naparsın
 https://eksisozluk.com/sehit-yakinlarinin-chp-celengini-parcalamasi--6353615?a=popular
