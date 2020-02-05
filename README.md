@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz kampanyayı yayalım diyen tip
 bkz sedat peker pembe teskereli diyen tip
 bkz suriyelileri geri dönderelim diyen tip
 bkz ahmet kaya en güzel şarkısı gafama sıkar giderim diyen tip
