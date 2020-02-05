@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz taylan antalyalının muğlalı olduğu iddaları
+https://www.uludagsozluk.com/k/taylan-antalyal%C4%B1-n%C4%B1n-mu%C4%9Flal%C4%B1-olmas%C4%B1/
 bkz denize pegasus uçağı düşse kurtarır mısın sorunsalı
 bkz 5 şubat 2020 kurana el basan o.ç vs tokat atan kreş öğretmeni
 bkz 5 şubat 2020 payşatığım haber linki
