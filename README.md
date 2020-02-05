@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=mWqGJ613M5Y )
 
 <!-- 
+bkz deniz huawei mi düşse kurtarırsın samsung mu 
 https://eksisozluk.com/denize-perincek-mi-dusse-kurtarirsin-bahceli-mi--6353674?a=popular
 https://www.youtube.com/watch?v=mWqGJ613M5Y
 bkz deniz dod mu düşse kurtarırsın google x mi
