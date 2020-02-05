@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+https://www.youtube.com/watch?v=EU4ClC3J_yY
 bkz beyin göçününü hızlanması
 bkz sen de o da gitsin
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-%C4%B1n-inan%C4%B1lmaz-ikiy%C3%BCzl%C3%BCl%C3%BC%C4%9F%C3%BC/
