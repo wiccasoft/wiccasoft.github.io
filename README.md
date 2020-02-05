@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz 2 yaşındaki çocuğu tokat atan oç
 bkz pistten çıkan uçak türk olmasa napardın
 bkz pegasus uçağı boeing mi airbus mı çıksa kurtarırsın
 bkz denizden kakatürk çıksa naparsın
