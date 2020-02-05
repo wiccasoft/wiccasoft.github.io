@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz deniz rte mi ümit sileli mi düşse kurtarırsın
 bkz en son ürettiğin şeyi söyler misin
 bkz boing hissesi mi düşse kurtarıtsın airbus mı 
 https://www.uludagsozluk.com/k/%C3%BCmit-zileli-vs-tayyip-ve-melih-g%C3%B6k%C3%A7ek-tart%C4%B1%C5%9Fmas%C4%B1/
