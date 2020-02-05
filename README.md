@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+https://www.youtube.com/watch?v=eSgfUu0Tb0E hassiktir lan
 bkz 440 hertz yeterli diyen tip
 bkz kozmonota akıl veren tip
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
