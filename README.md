@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+https://www.uludagsozluk.com/e/42810908/ yav bırak bro partiyi kapattıracan heee
+https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg y
 bkz devlet bahçelinin konvoyunun perinçek konvoyunu kovalaması
 bkz fatih terimin feguliye yüzme öretmesi
 bkz 5 şubat 2020 devlet bahçelinin rte yi denizden kurtarması
