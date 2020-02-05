@@ -1,7 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
-<!-- 
+<!--
+bkz obi wan kenobi fatih tezcan benzerliği
 https://www.uludagsozluk.com/k/ibrahim-mike-baycora/ türkün gücü
 bkz ryan babelin pembişe verdiği efso ayar
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
