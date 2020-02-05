@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bökz aslı bekiroğla ios a geçecem dese naparsın
+bkz kakatürk düşmalıarını deniz döker misin
+bkz aslı bekiroğla ios a geçecem dese naparsın
 bkz aslı bekiroğlan demeyei açsa emre mor yürüse naparsın
 bkz aslı bekiroğlan diyarbekirliyim dexe kurtarır mısın
 bkz denize boeing düşse kurtarır mısın
