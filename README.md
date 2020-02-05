@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz pegasus uçağı boeing mi airbus mı çıksa kurtarırsın
 bkz denizden kakatürk çıksa naparsın
 bkz iki yaşındaki kreş öğretmenine tokat atan öğrenci
 https://www.uludagsozluk.com/k/2-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fa-tokat-atan-kre%C5%9F-%C3%B6%C4%9Fretmeni/
