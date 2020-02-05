@@ -4,7 +4,6 @@
 <!--
 bkz sizden öğrenecek değiliz diyen tip
 bkz size soracak değiliz diyen tip
-bkz en iyisin biz biliriz diyen tip
 bkz en çok bizi dinleyeceksiniz diyen tip
 bkz kampanyayı yayalım diyen tip
 bkz sedat peker pembe teskereli diyen tip
