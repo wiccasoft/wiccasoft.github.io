@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz muhammed kapkara diyen tip
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak çok hojdır diyen tip
 bkz facebook instagramdan iyi diyen tip
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
