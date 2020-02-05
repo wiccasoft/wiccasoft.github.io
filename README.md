@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz vatan partisi milliyetçi hareket partisi çekişmesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-%C3%B6ld%C3%BC/&w=bg yalan haber meclisteyim kahve içiyom perinçekle
 https://www.uludagsozluk.com/e/42810908/ yav bırak bro partiyi kapattıracan heee 
 https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg y
