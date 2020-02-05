@@ -3,7 +3,7 @@
 
 <!--
 bkz uzak durmak lazım diyip duramayan tipler
-bkz 440 hertz dna tahribatı yapar diyen tip
+bkz 440 hertz dna tahribatı yapar diyen tipler
 https://www.youtube.com/watch?v=eSgfUu0Tb0E 
 https://www.uludagsozluk.com/k/her-konuda-fikri-olan-insan/&w=bg bkz aa kim acaba bu
 https://kalbikara.uludagsozluk.com/ güldürdün p.ç verdim şukunu
