@@ -3,7 +3,7 @@
 
 <!--
 bkz huawei mi suya düşse kurtarırsın samsung mu
-bkz deniz rte mi ümit sileli mi düşse kurtarırsın
+bkz deniz rte mi ümit sileli mi düşse kurtarırsın behçeli mi perinçek mi
 bkz en son ürettiğin şeyi söyler misin
 bkz boing hissesi mi düşse kurtarıtsın airbus mı 
 https://www.uludagsozluk.com/k/%C3%BCmit-zileli-vs-tayyip-ve-melih-g%C3%B6k%C3%A7ek-tart%C4%B1%C5%9Fmas%C4%B1/
