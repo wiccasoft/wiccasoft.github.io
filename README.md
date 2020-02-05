@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+https://www.youtube.com/watch?v=exdjlYaYJE8
 bkz denize karı düşse de kurtarsak
 https://www.youtube.com/watch?v=agNEuSy1aqA heheheheh 
 bkz 5 şubat 2020 pegasusun pistten çıkan uçağının türk olmadığı için pistten çıkması
