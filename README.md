@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+https://eksisozluk.com/sehit-yakinlarinin-chp-celengini-parcalamasi--6353615?a=popular
 https://eksisozluk.com/denize-perincek-mi-dusse-kurtarirsin-bahceli-mi--6353674?a=popular
 https://www.uludagsozluk.com/k/osmanl%C4%B1-askerlerine-zehirli-ekmek-veren-araplar/&w=bg
 denize burhan altın top mu düşse kurtarırsın fıs fıs ismail mi
