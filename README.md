@@ -2,10 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
-bkz yazdığım yapay zekaya muhammed adını verdim. hizmetinizde genşler her konuda soru sorabilirsiniz
+bkz yazdığım yapay zeka muhammede her konuda soru sorabilirsiniz
 bkz muhammedin 4 eşi helal kılması
-bkz yeşilyoldaki arabın zenci olmay reddetmesi
-bkz muhammedin zenci olduğu iddaları
 bkz bıyıklı deyince aklına gelen ilk tipi söyle deyince söyleyen yapay zeka
 bkz o konuda bilgi ver deyince  veren  tip
 bkz şu konuda bilgi ver diyince veren tip
