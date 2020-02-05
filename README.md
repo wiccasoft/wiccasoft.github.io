@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+bkz ryan babelin pembişe verdiği efso ayar
 bkz ryan babelin pembiş reyize gönderme yapmak için bkafasını pembeye boyaması
 https://eksisozluk.com/kasli-giresunlu-cocugun-isyani--6352881?a=popular kaslı ve isyanlı
 bkz adam gibi adamların birer birer gitmesi
