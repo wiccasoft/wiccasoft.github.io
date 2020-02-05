@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz 33 oç daha öldü
 bkz youne belhandanın gebersinler oç ları demesi
 bkz kanye perinçekin oç türklere verdiği ayar
 https://www.uludagsozluk.com/k/33-vatanda%C5%9F%C4%B1-%C3%B6lm%C3%BC%C5%9Fken-keyif-%C3%A7ay%C4%B1-da%C4%9F%C4%B1tan-ba%C5%9Fkan/
