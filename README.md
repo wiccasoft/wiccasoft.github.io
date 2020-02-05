@@ -2,7 +2,6 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz instagramı olmayan kız aşkım hadi ortak hesap açalaım dese naparsın ssorunsalı
 bkz tan sağtürk ölse başsağlısı diler misin sorunsalı
 bkz instagramı olmayan kız bakire midir sorunsalı
 bkz instagram çökse kurtarırmısın sorunsalı
