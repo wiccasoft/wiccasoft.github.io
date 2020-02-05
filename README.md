@@ -3,7 +3,7 @@
 
 <!--
 https://www.youtube.com/watch?v=agNEuSy1aqA  hehehehe
-https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg okudum kanka partide çay keyfindeyim
+https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg hehehehehehe
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-%C3%B6ld%C3%BC/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/%C3%BCmit-besen/&w=bg aşk kanatlarımı takıp geleceğim sevdiceğim
 bkz herkeşe benden çay şakire yok
