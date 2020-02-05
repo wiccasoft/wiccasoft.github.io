@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/feminist-erkek/&w=bg
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-her-y%C3%B6n%C3%BCyle-vasat-olmas%C4%B1/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-erke%C4%9Fin-escortluk-yapaca%C4%9F%C4%B1m-demesi/
 https://www.uludagsozluk.com/k/perin%C3%A7ek-in-g%C3%BClerek-%C5%9Fehit-vermeden-olmaz-demesi/ 
