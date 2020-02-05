@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
-bkz sevdciceğinni yks borcunu ödeyen erkek
+bkz sevdiceğine azbüyü kyk borçlarını öderim diyen erkek
+bkz sevdciceğinin yks  borcunu ödeyen erkek
 bkz sevdiceğine lise çıkışı süprizler yapan erkek
 bkz sevdiceğine asker arkdaşıymış gibi davranan erkek
 https://www.uludagsozluk.com/k/sevgilisine-asker-arkada%C5%9F%C4%B1ym%C4%B1%C5%9F-gibi-davranan-erkek/&w=bg
