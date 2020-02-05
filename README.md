@@ -2,9 +2,9 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!--
+bkz obi wan kenobi fatih tezcan benzerliği
 bkz sedat pekerin paylaştığı pembe ülkücü bıyığı
 https://www.uludagsozluk.com/k/teyzenizin-kilodunda-ba%C5%9Fkas%C4%B1n%C4%B1n-spermini-g%C3%B6rmek/&w=bg zuhahahah
-bkz obi wan kenobi fatih tezcan benzerliği
 bkz ryan babelin pembişe verdiği efso ayar
 bkz ekşicilerin sanki biraz şey olması
 https://eksisozluk.com/biyik-denilince-akla-gelen-ilk-isim--6352460?a=popular orhan bence gay
