@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=FQqo-w1qvws )
 
 <!-- 
+bkz 4 şubat 2020 sedat pekerin beyin göçünü başlatması
 https://www.youtube.com/watch?v=EU4ClC3J_yY
 bkz beyin göçününü hızlanması
 bkz sen de o da gitsin
