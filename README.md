@@ -7,6 +7,7 @@
 3 gün yas ilan ediyoruz kamuoyuna duyrulur
 yüce türk milletinin acı gününde yanında olduğumuzu
 yüce türk milletine bildirmekten onur duyarız
+https://www.youtube.com/watch?v=dp9m2BSQSDg önlüksüz pkklı
 -->
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
