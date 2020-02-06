@@ -2,9 +2,10 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+https://www.uludagsozluk.com/k/sevgilisine-asker-arkada%C5%9F%C4%B1ym%C4%B1%C5%9F-gibi-davranan-erkek/&w=bg
 bkz sevdiceğinimn yks borcunu ödeyen adam gibi adam
 bkz sevdiceğin asker arakdaşıymış gibi davranan oğlan
-bkz ata cücünün götü vs gözleri
+
 bkz ikinci abdul vahdettin vs birinci abdulmuttap bin velid
 bkz dördüncü abdul muttap
 bkz üçüncü abdul muttap vs beşinci abdul muttap
