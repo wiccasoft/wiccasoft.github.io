@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz sevdiceğinimn yks borcunun ödeyen pipili erkek
+bkz sevdiceğinimn yks borcunu ödeyen adam gibi adam
 bkz sevdiceğin asker arakdaşıymış gibi davranan oğlan
 bkz ata cücünün götü vs gözleri
 bkz ikinci abdul vahdettin vs birinci abdulmuttap bin velid
