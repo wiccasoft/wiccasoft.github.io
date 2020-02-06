@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz ikinci abdulhamdi vs üçüncü kaka cücü
 bkz kaka cücünün pipisi
 bkz kaka cücünün gözleri
 bkz ata cücü vs kaka cücü
