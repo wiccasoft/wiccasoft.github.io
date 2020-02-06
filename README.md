@@ -1,7 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
-<!-- 
+<!--
+bkz aslı bekiroğlan vs bekir asloğaln
 bkz ikinci abdulhamid vs 5. abdulmuttap
 bkz yurtdışına çıkmak isteyenler tavsiyeler ver
 bkz aslı bekiroğlan vs diyarbekirli travesti bihal
