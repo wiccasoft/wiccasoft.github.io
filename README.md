@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz ömrü boyunca aslı bekiroğlana entry girecek 90 lı nesil
 bkz aslı bekiroğaln vs sharon stone
 bkz aslı bekiroğlan vs bekir asıloğlan
 bkz ikinci abdulhamid vs 5. abdulmuttap
