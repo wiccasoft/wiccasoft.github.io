@@ -1,8 +1,12 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
+
 <!-- https://eksisozluk.com/6-subat-2020-chpnin-cnn-turk-boykot-karari--6355195?a=popular 
-6 şubat 2020 vehim pegasus olayından dolayı 3 gün yas ilan ediyoruz kamuoyuna duyrulur
-yüce türk milletinin acı gününde düğün yapanlar eğlenenleri görmek şüphesiz ki vehimdir
+6 şubat 2020 vehim pegasus olayından dolayı 
+3 değerli insanı ahakkın rahmetin kaybettik 
+3 gün yas ilan ediyoruz kamuoyuna duyrulur
+yüce türk milletinin acı gününde yanında olduğumuzu
+yüce türk milletine bildirmekten onur duyarız
 -->
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
