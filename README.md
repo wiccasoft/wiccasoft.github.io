@@ -11,6 +11,7 @@ yüce türk milletine yüce duyurmaktan onur duyarız
 https://www.youtube.com/watch?v=dp9m2BSQSDg önlüksüz pkklı
 Bütün bu şerâitten daha elîm ve daha vahim olmak üzere, memleketin dahilinde, 
 iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler.
+Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlilerin siyasi emelleriyle tevhit edebilirler. Millet, fakr-u-zaruret içinde harap ve bîtap düşmüş olabilir.Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerâit içinde dahi, vazifen; Türk İstiklâl ve cumhuriyetini kurtarmaktır!Muhtaç olduğun kudret, damarlarındaki asîl kanda, mevcuttur!
 --
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
