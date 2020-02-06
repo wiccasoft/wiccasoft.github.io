@@ -1,5 +1,4 @@
 
-[![Image](shadow/Screenshot_2020-02-06_14-05-56.png)]( https://www.youtube.com/watch?v=dp9m2BSQSDg )
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- https://eksisozluk.com/6-subat-2020-chpnin-cnn-turk-boykot-karari--6355195?a=popular 
@@ -14,7 +13,7 @@ iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilir
 Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlilerin siyasi emelleriyle tevhit edebilirler. Millet, fakr-u-zaruret içinde harap ve bîtap düşmüş olabilir.Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerâit içinde dahi, vazifen; Türk İstiklâl ve cumhuriyetini kurtarmaktır!Muhtaç olduğun kudret, damarlarındaki asîl kanda, mevcuttur!
 https://www.uludagsozluk.com/k/perin%C3%A7ek-in-g%C3%BClerek-%C5%9Fehit-vermeden-olmaz-demesi/&w=bg
 https://www.uludagsozluk.com/k/mucize-doktor-dizisi/&w=bg buz mucize doktro dizindeki böcek suratlı ergen
---
+-->
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
