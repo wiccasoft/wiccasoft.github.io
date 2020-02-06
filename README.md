@@ -3,6 +3,7 @@
 <!--
 bkz kinci abdulhamdi
 bkz ata cücüye laf etme sebepsiz anan kimdi bilemezddin şerefsiz oç
+bkz dışarda tek yumrukta bayıltacağın ergenlerin açtığı başlıklar
 bkz karadenizlilerin korkak oç olmaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-de%C4%9Fil-ama-sempatikti-iddias%C4%B1/&w=bg
 bkz trabzonluların rum çocu sivasların ermeni olması sorundalı
