@@ -1,4 +1,5 @@
 
+[![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=dp9m2BSQSDg )
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- https://eksisozluk.com/6-subat-2020-chpnin-cnn-turk-boykot-karari--6355195?a=popular 
