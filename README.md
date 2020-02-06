@@ -8,6 +8,7 @@ bkz trabzonluların rum sivaslıların ermeni olması sorundalı
 bkz giresundan adam çıkar mı sorundalı
 https://www.uludagsozluk.com/k/giresun-dan-adam-çıkar-mı-sorunsalı/&w=bg
 bkz işsiz ergenler ve sorundalları
+bkz sharon stone vs bekiroğlu
 bkz deniz anneniz düşse kurtarır mısınız sorundalı
 bkz siklenmeyen ergenler ve adı neydi öbür veledin hah bekiroğlunun demeyi kapaması
 bkz deep turkish webte durmadan anayasal suç işleyen ergenlerin güldürmesi 
