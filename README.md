@@ -4,6 +4,7 @@
 bkz kinci abdulhamdi
 bkz annenizi sikeyim annenizi
 bkz anneme laf ettirmem diyen ergen
+bkz denize annem düşse kurtarır mısın diyen ergen
 bkz ata cücüye laf etme sebepsiz anan kimdi bilemezddin şerefsiz oç
 bkz dışarda tek yumrukta bayıltacağın ergenlerin açtığı başlıklar
 bkz karadenizlilerin korkak oç olmaları
