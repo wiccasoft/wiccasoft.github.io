@@ -3,7 +3,7 @@
 <!--
 bkz kinci abdulhamdi
 https://www.uludagsozluk.com/k/deccalin-tek-g%C3%B6z%C3%BC/&w=bg annenin amı 
-https://www.uludagsozluk.com/k/sihirli-annem/&w=bg annnenizi sikeyim 
+https://www.uludagsozluk.com/k/sihirli-annem/&w=bg annenin sihirli amı
 https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ boşver kankağ 
 -->
 
