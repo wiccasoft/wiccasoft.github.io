@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz kakacününün yurdu düşmanlardan kurtarması
 bkz kakacününün yonanları deniz dökmesi
 bkz kakacücünün göt deliği
 bkz kakacücünün gözleri vs kulağı
