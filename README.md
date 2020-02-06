@@ -1,6 +1,19 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
-
+<!--
+bkz trabzonluların oç sivaslıların  ermeni olduğu iddaları
+https://www.uludagsozluk.com/k/trabzonlular%C4%B1n-rum-sivasl%C4%B1lar%C4%B1n-ermeni-olmas%C4%B1/&w=bg
+bkz gerçekleri en çok ben görürüm diyen ergen
+bkz ikinci abdulhamdinin annesinni kürt babasının ermeni olduğu iddaları
+bkz gerçekleri benim gözümden göreydiniz ya diyen insan
+bkz tarihi gerçekler yazar onu da ben yazarım diyen insan
+bkz gerçekleri en güzel ben görürüm diyen insan
+bkz gerçekleri en güzel gören insan
+bkz gerçekleri gören insan vs göremeyen insan
+bkz gerçeği tüm cıblaklığıyla gören gözler
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg
+https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ boşver kankağ 
+-->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
