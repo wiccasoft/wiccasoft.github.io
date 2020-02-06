@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
+https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg kız seni yerler yerler seni ham yapar bu ergenler
 https://ben-bilirim.uludagsozluk.com/ biliyo ki konuşuyo
 bkz trabzounlular oç sivasların at sıçmığı olması
 https://www.uludagsozluk.com/k/trabzonlular%C4%B1n-rum-sivasl%C4%B1lar%C4%B1n-ermeni-olmas%C4%B1/
