@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz ikin abdulhamdinin annesinni kürt babasının ermeni olduğu iddaları
+bkz gerçekleri en çok ben görürüm diyen ergen
+bkz ikinci abdulhamdinin annesinni kürt babasının ermeni olduğu iddaları
 bkz gerçekerli benim gözümden göreydiniz ya diyen insan
 bkz tarihi gerçekler yazar onu da ben yazarım diyen insan
 bkz gerçekleri en güzel ben görürüm diyen insan
