@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
-bkz hitler vs stalin
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg aga nasıl gözler o yav baksana yav
 https://www.uludagsozluk.com/k/bir-insan%C4%B1n-d%C3%BCnyaya-hakim-olmay%C4%B1-d%C3%BC%C5%9F%C3%BCnebilmesi/
 https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg bkz annesi kürt babası ermeniydi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg dikkatli bak kankağ acayip oluyon ha
