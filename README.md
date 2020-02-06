@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz gerçekleri en güzel gören insan
 bkz gerçekleri gören insan vs göremeyen insan
 bkz gerçeği tüm cıblaklığıyla gören gözler
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg
