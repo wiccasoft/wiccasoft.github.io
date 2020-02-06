@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz abdulhamid vs abdulmuttap
+https://www.uludagsozluk.com/k/abd%C3%BClhamid-in-camiden-%C3%A7ok-okul-yapt%C4%B1rmas%C4%B1/&w=bg
 bkz ömrü boyunca aslı bekiroğlana entry girecek 90 lı nesil
 bkz aslı bekiroğaln vs sharon stone
 bkz aslı bekiroğlan vs bekir asıloğlan
