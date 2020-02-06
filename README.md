@@ -9,7 +9,9 @@
 yüce türk milletinin acı gününde yanında olduğumuzu
 yüce türk milletine yüce duyurmaktan onur duyarız
 https://www.youtube.com/watch?v=dp9m2BSQSDg önlüksüz pkklı
--->
+Bütün bu şerâitten daha elîm ve daha vahim olmak üzere, memleketin dahilinde, 
+iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler.
+--
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
 [![Image](waste/Screenshot_2020-02-01_19-38-05.png)]( https://www.youtube.com/watch?v=vHJAUuicC0Q)
