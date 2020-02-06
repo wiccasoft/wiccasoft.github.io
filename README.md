@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
+https://www.youtube.com/watch?v=KXnzNbuV84c
 bkz trabzonluların rum sivaslıların ermeni olması sorundalı
 bkz giresundan adam çıkar mı sorundalı
 https://www.uludagsozluk.com/k/giresun-dan-adam-çıkar-mı-sorunsalı/&w=bg
