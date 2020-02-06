@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz aslı bekiroğlan vs asude defne özkan
 bkz asude defne özkan vs aslı bekiroğlan
 bkz bekiroğlan vs jet fadıl
 bkz bekiroğlan vs mehmet aydın
