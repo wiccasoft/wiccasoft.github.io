@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz aslı bekiroğlu vs aslı bekiroğlu
 bkz 2. aslı bekiroğlu vs 3 .aslı bekiroğlu
 bkz 1. abdulhamid vs 2 .abdulhamid
 bkz abdulhamid vs abdulmuttap
