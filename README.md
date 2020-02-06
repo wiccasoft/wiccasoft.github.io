@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+bkz çorumdan adam çıkar mı sorunsalı
 bkz kakara suresi 78. ayet
 bkz deniz aslı bekiroğaln düşse kurtarırmısın sorunsalı
 bkz karadenizlilerin oç olduğu iddaları
