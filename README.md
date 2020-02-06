@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
-https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ boşver kankağ değmez
+https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ boşver kankağ 
 -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
