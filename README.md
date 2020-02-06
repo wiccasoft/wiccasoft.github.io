@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!--
+bkz ata cücünün götü vs gözleri
 bkz ikinci abdul vahdettin vs birinci abdulmuttap bin velid
 bkz dördüncü abdul muttap
 bkz üçüncü abdul muttap vs beşinci abdul muttap
