@@ -2,7 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
 bkz kinci abdulhamdi
-bkz pascal nauma koşmuyor iddaları
+bkz alexander sörlöth çok yakışıklı iddaları
+bkz pascal nouma koşmuyor iddaları
 bkz kırşehirlilerin it sıçmığı olduğu gerçeği
 bkz annenizi sikeyim annenizi
 bkz anneme laf ettirmem diyen ergen
