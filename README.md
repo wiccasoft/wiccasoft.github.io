@@ -5,7 +5,7 @@
 bkz 1. abdulhamid vs 2 .abdulhamid
 bkz abdulhamid vs abdulmuttap
 https://www.uludagsozluk.com/k/abd%C3%BClhamid-in-camiden-%C3%A7ok-okul-yapt%C4%B1rmas%C4%B1/&w=bg
-bkz ömrü boyunca aslı bekiroğlana entry girecek 90 lı nesil
+bkz ömrü boyunca aslı bekiroğlana entry girecek ergenler
 bkz aslı bekiroğaln vs sharon stone
 bkz aslı bekiroğlan vs bekir asıloğlan
 bkz ikinci abdulhamid vs 5. abdulmuttap
