@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 <!-- 
+sharon stone vs aslı bekiroğlan
 asude defne özkan vs aslı bekiroğlan
 bkz çorumdan adam çıkar mı sorunsalı
 bkz kakara suresi 78. ayet
