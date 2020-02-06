@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
 bkz kinci abdulhamdi
-https://www.uludagsozluk.com/k/deccalin-tek-g%C3%B6z%C3%BC/&w=bg annenin amı
+https://www.uludagsozluk.com/k/deccalin-tek-g%C3%B6z%C3%BC/&w=bg annenin amı olacak
 https://www.uludagsozluk.com/k/sihirli-annem/&w=bg annnenizi sikeyim oçları
 bkz pascal nouma koşmuyor iddaları
 bkz alexander sörlöth çok yakışıklı iddaları
