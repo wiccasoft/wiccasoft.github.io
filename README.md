@@ -1,6 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
-<!-- https://www.youtube.com/watch?v=4MRNTOHrJzw  -->
+<!-- 
+https://www.youtube.com/watch?v=4MRNTOHrJzw 
+https://www.uludagsozluk.com/k/bankac%C4%B1-kad%C4%B1nlar%C4%B1n-at-gibi-olmas%C4%B1/&w=gd
+-->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
