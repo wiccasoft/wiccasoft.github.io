@@ -1,18 +1,6 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
-<!--
-bkz işsizlerin verdiği tavsiyeler
-https://www.uludagsozluk.com/k/bir-insan%C4%B1n-d%C3%BCnyaya-hakim-olmay%C4%B1-d%C3%BC%C5%9F%C3%BCnebilmesi/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg sabah kadar bak walla super lan
-https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ bakmasını bilmeyen insandır
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg aga nasıl gözlerdir yav
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg aga nasıl gözler o yav baksana yav
-https://www.uludagsozluk.com/k/bir-insan%C4%B1n-d%C3%BCnyaya-hakim-olmay%C4%B1-d%C3%BC%C5%9F%C3%BCnebilmesi/
-https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg bkz annesi kürt babası ermeniydi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg dikkatli bak kankağ acayip oluyon ha
-https://www.uludagsozluk.com/k/abd%C3%BClhamid-in-camiden-%C3%A7ok-okul-yapt%C4%B1rmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ boşver kankağ -->
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
 
