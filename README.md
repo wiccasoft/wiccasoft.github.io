@@ -6,7 +6,7 @@ bkz trabzonluların oç olduğu iddaları
 https://www.uludagsozluk.com/k/trabzonlular%C4%B1n-rum-sivasl%C4%B1lar%C4%B1n-ermeni-olmas%C4%B1/&w=bg
 bkz gerçekleri en çok ben görürüm diyen ergen
 bkz ikinci abdulhamdinin annesinni kürt babasının ermeni olduğu iddaları
-bkz gerçekerli benim gözümden göreydiniz ya diyen insan
+bkz gerçekleri benim gözümden göreydiniz ya diyen insan
 bkz tarihi gerçekler yazar onu da ben yazarım diyen insan
 bkz gerçekleri en güzel ben görürüm diyen insan
 bkz gerçekleri en güzel gören insan
