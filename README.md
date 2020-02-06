@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
 bkz kinci abdulhamdi
+bkz annenizi sikeyim annenizi
 bkz ata cücüye laf etme sebepsiz anan kimdi bilemezddin şerefsiz oç
 bkz dışarda tek yumrukta bayıltacağın ergenlerin açtığı başlıklar
 bkz karadenizlilerin korkak oç olmaları
