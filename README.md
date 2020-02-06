@@ -4,46 +4,6 @@
 bkz kinci abdulhamdi
 https://www.uludagsozluk.com/k/deccalin-tek-g%C3%B6z%C3%BC/&w=bg annenin amı 
 https://www.uludagsozluk.com/k/sihirli-annem/&w=bg annnenizi sikeyim 
-bkz pascal nouma koşmuyor iddaları
-bkz alexander sörlöth çok yakışıklı iddaları
-bkz kırşehirlilerin it sıçmığı olduğu gerçeği
-bkz annenizi sikeyim annenizi işsiz bebeler
-bkz anneme laf ettirmem diyen ergen
-bkz denize annem düşse kurtarır mısın diyen ergen
-bkz ata cücüye laf etme sebepsiz anan kimdi bilemezddin şerefsiz oç
-bkz dışarda tek yumrukta bayıltacağın ergenlerin açtığı başlıklar
-bkz karadenizlilerin korkak oç olmaları
-https://www.uludagsozluk.com/k/atat%C3%BCrk-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-de%C4%9Fil-ama-sempatikti-iddias%C4%B1/&w=bg
-bkz trabzonluların rum çocu sivasların ermeni olması sorundalı
-bkz kaslı bekiroğlan ve alexander sörloth
-https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg
-https://ben-bilirim.uludagsozluk.com/ biliyo ki konuşuyo
-bkz trabzounlular rum çocuuu sivasların at sıçmığı olması
-https://www.uludagsozluk.com/k/trabzonlular%C4%B1n-rum-sivasl%C4%B1lar%C4%B1n-ermeni-olmas%C4%B1/
-bkz işsiz ergenlerin anneleri ve sorundalları
-https://www.uludagsozluk.com/k/giresun-dan-adam-%C3%A7%C4%B1kar-m%C4%B1-sorunsal%C4%B1/&w=bg sorundal
-https://kalbikara.uludagsozluk.com/ 
-bkz kemalist beyni vs şempanze beyni
-https://www.youtube.com/watch?v=KXnzNbuV84c
-bkz trabzonluların rum sivaslıların ermeni olması sorundalı
-bkz giresundan adam çıkar mı sorundalı
-https://www.uludagsozluk.com/k/giresun-dan-adam-çıkar-mı-sorunsalı/&w=bg
-bkz işsiz ergenler ve sorundalları
-bkz sharon stone vs bekiroğlu
-bkz deniz anneniz düşse kurtarır mısınız sorundalı
-bkz siklenmeyen ergenler ve adı neydi öbür veledin hah bekiroğlunun demeyi kapaması
-bkz deep turkish webte durmadan anayasal suç işleyen ergenlerin güldürmesi 
-bkz trabzonluların oç sivaslıların  ermeni olduğu iddaları
-https://www.uludagsozluk.com/k/trabzonlular%C4%B1n-rum-sivasl%C4%B1lar%C4%B1n-ermeni-olmas%C4%B1/&w=bg
-bkz gerçekleri en çok ben görürüm diyen ergen
-bkz ikinci abdulhamdinin annesinni kürt babasının ermeni olduğu iddaları
-bkz gerçekleri benim gözümden göreydiniz ya diyen insan
-bkz tarihi gerçekler yazar onu da ben yazarım diyen insan
-bkz gerçekleri en güzel ben görürüm diyen insan
-bkz gerçekleri en güzel gören insan
-bkz gerçekleri gören insan vs göremeyen insan
-bkz gerçeği tüm cıblaklığıyla gören gözler
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-g%C3%B6zleri/&w=bg
 https://www.uludagsozluk.com/k/ger%C3%A7e%C4%9Fi-bir-t%C3%BCrl%C3%BC-g%C3%B6remeyen-insan/ boşver kankağ 
 -->
 
