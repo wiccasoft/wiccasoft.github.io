@@ -5,7 +5,7 @@ bkz kinci abdulhamdi
 bkz pascal nouma koşmuyor iddaları
 bkz alexander sörlöth çok yakışıklı iddaları
 bkz kırşehirlilerin it sıçmığı olduğu gerçeği
-bkz annenizi sikeyim annenizi
+bkz annenizi sikeyim annenizi işsiz bebeler
 bkz anneme laf ettirmem diyen ergen
 bkz denize annem düşse kurtarır mısın diyen ergen
 bkz ata cücüye laf etme sebepsiz anan kimdi bilemezddin şerefsiz oç
