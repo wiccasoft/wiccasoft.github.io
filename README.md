@@ -1,6 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
+bkz kinci abdulhamdi
 bkz karadenizlilerin korkak oç olmaları
 bkz trabzonluların rum çocu sivasların ermeni olması sorundalı
 bkz kaslı bekiroğlan ve alexander sörloth
