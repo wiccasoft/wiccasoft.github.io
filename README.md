@@ -1,7 +1,7 @@
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 <!--
-bkz kız seni yerler yerler seni ham yapar bu ergenler
+bkz kaslı bekiroğlan ve alexander sörloth
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg
 https://ben-bilirim.uludagsozluk.com/ biliyo ki konuşuyo
 bkz trabzounlular oç sivasların at sıçmığı olması
