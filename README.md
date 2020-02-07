@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz hz süleymanın kel diyenlere kel değilim ki demesi
 https://kalbikara.uludagsozluk.com/ bkz tanısanız siz de seversiniz
 bkz süleyman soylunun kel diyenlere keltoş baban koç demesi
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-kel-diyene-soru%C5%9Fturma-a%C3%A7%C4%B1lmas%C4%B1/
