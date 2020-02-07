@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ekşicilerin rte ye küsmesi
 bkz ata cücünün yatı vs rte nin yatı
 bkz atacücünün en büyük hatası
 bkz ekşicilerin cüneyt özdemire küsmesi
