@@ -3,6 +3,7 @@
 <!-- 
 bkz rte nin uçan tank projesi 2033
 bkz iphone u olmayıp adam diye gezen tip
+bkz iphonu olmayanların oç olduğu gerçeği
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/
