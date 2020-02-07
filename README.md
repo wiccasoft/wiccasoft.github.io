@@ -12,7 +12,7 @@ https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=pop
 https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullananların zengin olduklarını sanmaları
 https://eksisozluk.com/cuneyt-ozdemiri-boykot-ediyoruz--6355435?a=popular apple ın da çok şeyindeydi
 https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/ bkz ekşiciler
-bkz ekşicilerin küfürbaz ve cahil olma sebepleri
+https://eksisozluk.com/5-kiloluk-kopegi-olduresiye-tekmeleyen-dis-hekimi--6355536?a=popular adres ver kankağ
 https://www.uludagsozluk.com/k/14-ya%C5%9F%C4%B1ndaki-cani-k%C4%B1z-do%C4%9Furdu%C4%9Fu-%C3%A7ocu%C4%9Fu-%C3%A7%C3%B6pe-att%C4%B1/ adres ver kankağ
 -->
 
