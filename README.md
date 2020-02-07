@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz süleyman soylu evire çevire sikse naparsınız sorunsalı
 bkz süleyman soylunun siki kaç cm dir sorunsalı
 bkz süleymansoylu keline şaplak atanalara dava açması
 bkz mustfadakkamaldandoğan vs receptayyiptendoğan benzerliği
