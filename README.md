@@ -2,7 +2,8 @@
 
 <!-- 
 https://space.stackexchange.com/ 
-bkz mustafa akıncının ikinci taykursökmen olmayacağım açıklaması
+bkz tayfur sökmeninin sü,leyman soyluya kalıbının adamı ol demesi
+bkz mustafa akıncının ikinci taykur sökmen olmayacağım açıklaması
 https://www.uludagsozluk.com/k/ikinci-bir-tayfur-s%C3%B6kmen-olmayaca%C4%9F%C4%B1m/
 bkz hatayda yakan adamı nsen yanmazsam ben yaznmasam naıll aydınlık olur demesi
 bkz hatay valiliğinde yakan adamın siz yanmayın diye yaktım kendimi demesi
