@@ -4,7 +4,9 @@
 https://space.stackexchange.com/ 
 https://www.uludagsozluk.com/e/42820943/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
+https://www.uludagsozluk.com/k/bel%C3%A7ika-ve-hollanda-futbol-liglerinin-birle%C5%9Fmesi/&w=bg
 https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/
+https://www.uludagsozluk.com/k/g%C3%BCnl%C3%BCk-100-lira-verseler-5-vakit-namaz-k%C4%B1lar-m%C4%B1s%C4%B1n/&w=gd
 https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/ 
 https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/
 https://www.uludagsozluk.com/k/bek%C3%A7iyle-%C3%A7%C4%B1km%C4%B1%C5%9F-bir-k%C4%B1zla-sevgili-olmak/
