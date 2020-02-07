@@ -2,6 +2,7 @@
 
 <!-- 
 bkz türkleşmiş metaller
+bkz kazı yiyen cani doktorun salınması
 bkz alkali metallerin türk olduğu gereçeği
 https://www.youtube.com/watch?v=6G6Z60EPieA
 bkz kızının sevgilisini bıçakladı köpeğine yedirtti işte o cani
