@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
+https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular beyler ben saldırıyorum -->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
