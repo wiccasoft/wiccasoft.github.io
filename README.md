@@ -2,7 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
-https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/&w=bg yazık ya 
+https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/&w=bg yazık ya haketmiyo bu adam
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-halk%C4%B1n%C4%B1n-ekseriyetle-geri-zekal%C4%B1-olmas%C4%B1/ günaydın kardeş
 bkz hatay valiliğinde kendin yakan adamın biraz ısındım demesi
 bkz mustfa akıncının süleyman soylu arasındaki tatlı diyalog
