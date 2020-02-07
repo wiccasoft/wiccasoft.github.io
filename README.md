@@ -7,7 +7,6 @@ https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=pop
 https://www.uludagsozluk.com/k/havvan%C4%B1n-can%C4%B1-elma-%C3%A7ekti-adem-cennetten-kovuldu/ lol
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-geri-zekal%C4%B1-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=gd lol
 https://eksisozluk.com/abdulkerim-karaagac--6355632?a=popular bkz şimdi ananı laciverde boyadım
-https://www.uludagsozluk.com/k/czn-burak-sevgilisi/ czn burak kim amk
 https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullananların zengin olduklarını sanmaları
 https://eksisozluk.com/cuneyt-ozdemiri-boykot-ediyoruz--6355435?a=popular apple ın da çok şeyindeydi
 -->
