@@ -5,6 +5,7 @@ https://space.stackexchange.com/
 https://www.uludagsozluk.com/e/42820943/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
 bkz ben senle süper lig izleyip soğan da yerim diyen kız
+bkz arda turanın senle soğan yerim demesi
 https://www.uludagsozluk.com/k/bel%C3%A7ika-ve-hollanda-futbol-liglerinin-birle%C5%9Fmesi/&w=bg
 https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/
 https://www.uludagsozluk.com/k/g%C3%BCnl%C3%BCk-100-lira-verseler-5-vakit-namaz-k%C4%B1lar-m%C4%B1s%C4%B1n/&w=gd
