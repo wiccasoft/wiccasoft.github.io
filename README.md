@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
-bkz rte nni uçan tank projesi 2033
+bkz rte nin uçan tank projesi 2033
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/
