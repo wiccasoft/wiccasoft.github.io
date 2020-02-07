@@ -2,7 +2,7 @@
 
 <!--
 bkz ekşicilerin süleyman soyluya küsmesi
-bkz ekşcilerin cüneyt özdemire küsmesi
+bkz ekşicilerin cüneyt özdemire küsmesi
 bkz ekşicilerin rte ye küsmesi
 bkz ata cücünün yatı vs rte nin yatı
 bkz atacücünün en büyük hatası
