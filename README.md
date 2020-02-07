@@ -1,8 +1,11 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz artiz ne arar la bazarda diyen pazarcı
+bkz param olsa seni alırım diyen pazarcı
 bkz öküzü satim seni alacam diyen yörük
 bkz yörüklerin türkleşmiş çingeneler olduğu gerçeği
+https://www.uludagsozluk.com/k/param-olsa-da-ben-alsam-diyen-pazarc%C4%B1/
 https://www.uludagsozluk.com/k/y%C3%B6r%C3%BCklerin-t%C3%BCrkle%C5%9Fmi%C5%9F-%C3%A7ingeneler-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
