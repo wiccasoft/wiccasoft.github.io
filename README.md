@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz airbus ceosunun canlı yayında ağlaması
 bkz madem kriz var sokaklar neden son model arabalarla dolu
 bkz madem kriz var neden park edecek yer yok 
 https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/ zuahahaha süper tespit
