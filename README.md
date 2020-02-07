@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ankarada kızını öldüren onurlu baba
 bkz kızını siktirecek kadar gavat olmak
 bkz ankarada kızını siken damadı beş yerinden bıçakladı
 bkz süleyman soylunun kel değilim demesi
