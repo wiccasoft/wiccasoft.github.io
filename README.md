@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz hadiseyi seksi bulan erkeğ
 bkz beni süleyman soylu sanan ekşiciler
 bkz süleyman soylunun kel diyenler dava açması
 bkz ekşideki oç larının sıkması küfr den de anlamıyo yavşak oç ları
