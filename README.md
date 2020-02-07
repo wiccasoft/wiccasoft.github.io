@@ -1,10 +1,10 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
-bkz türklerin üstün arı ırk olduğu söylentileri
 bkz türkleşmiş metaller
 bkz lazların kürtleşmiş çeçenler olduğu gerçeği
 bkz metallicanın solistinin türk olduğu gerçeği
+bkz türklerin üstün arı ırk olduğu söylentileri
 bkz ermeni kürt kırması köpeği tekmeleyen beyin cerrahı
 https://www.uludagsozluk.com/k/%C3%A7ingeneler-vs-k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtle%C5%9Fmi%C5%9F-%C3%A7e%C3%A7enler/&w=bg
