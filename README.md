@@ -3,6 +3,8 @@
 <!-- 
 https://space.stackexchange.com/ 
 https://kalbikara.uludagsozluk.com/ tanısanız siz de seversiniz
+bkz süleyman soylunun kel diyenler keltoş baban koç demesi
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-kel-diyene-soru%C5%9Fturma-a%C3%A7%C4%B1lmas%C4%B1/
 bkz rte babanızı sikse 
 https://www.uludagsozluk.com/e/42822431/
 https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-doktora-gitmeyen-adam/ bkz sputnik linki attım tıklağyın
