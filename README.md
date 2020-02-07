@@ -14,6 +14,7 @@ bkz rte nin iphone kullandığı gerçeği
 bkz iphone u olmayıp adam diye gezen tip
 bkz iphonu olmayanların oç olduğu gerçeği
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
+https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular beyin kanartan genç
 https://eksisozluk.com/genco-erkalin-beyin-yakan-tiyatro-yorumu--6356148?a=popular beyin kanartıı amuğa goyim
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/
