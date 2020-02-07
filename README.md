@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://www.uludagsozluk.com/k/osman-%C3%B6calan-pkk-kar%C5%9F%C4%B1t%C4%B1-diyen-akpli/ benim bu
 bkz recep tayyip erdoğan ın kendini lockheedmartin ceosu sanması
 bkz ekşicilerin lockheedmartin ceosunu recep tayyip erdoğan sanması
 bkz ekşicilerin ifşa ettiği abdulkerim karaağaçın lockheed martin ceosu çıkması
