@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz hz süleymanın fetö cü polisleri tespit ettik açıklaması
 bkz hz süleymanın kel diyenlere kel değilim ki demesi
 https://kalbikara.uludagsozluk.com/ bkz tanısanız siz de seversiniz
 bkz süleyman soylunun kel diyenlere keltoş baban koç demesi
