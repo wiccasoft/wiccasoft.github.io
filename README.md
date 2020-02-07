@@ -13,6 +13,7 @@ https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple k
 https://eksisozluk.com/cuneyt-ozdemiri-boykot-ediyoruz--6355435?a=popular apple ın da çok şeyindeydi
 https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/ bkz ekşiciler
 bkz ekşicilerin küfürbaz ve cahil olma sebepleri
+https://www.uludagsozluk.com/k/14-ya%C5%9F%C4%B1ndaki-cani-k%C4%B1z-do%C4%9Furdu%C4%9Fu-%C3%A7ocu%C4%9Fu-%C3%A7%C3%B6pe-att%C4%B1/ adres ver kankağ
 -->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
