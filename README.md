@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://kalbikara.uludagsozluk.com/ bu enesest oç anasını sikeym
+https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
 bkz şaka maka meralin tam emciklenecek karı olması
 bkz şaka maka meralin taş gibi olması
 bkz ucuna tarmalı bağlanmış uçak prototipü görünce götü düşen meral
