@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-bkz atatürk ve receptürk arasındaki farklar
+bkz atatürk ve receptürkdoğan arasındaki farklar
 bkz çocuklarım ibne diyip kendini yakan baba
 bkz rte nin kikinci ata cücü olması 
 bkz recep tayyip erdoğanın ikinci ata cücücüyse ikinci rte kim sorunsalı
