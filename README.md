@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://eksisozluk.com/hoslanilan-erkegin-iphone-5s-kullanmasi--6356130?a=popular vay arkadaş zorla 5s aldıracaklar
 https://www.uludagsozluk.com/k/hayalimdeki-gelinlik/&w=bg gelin olmuş gidiyosun hadi hayırlısı
 https://www.uludagsozluk.com/k/rte-ye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/ sal gitsin kankağ
 https://www.uludagsozluk.com/k/adonisi-olmayan-erkek-vs-migros-po%C5%9Feti/ vay arkadaş bim poşeti olduk iyi mi
