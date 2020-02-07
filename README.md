@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz cnn turk çakılınca sevinen kürtler
 bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı takacaz
 https://www.uludagsozluk.com/k/kardan-adamlar-yaz-gelince-ne-yap%C4%B1yor/ kardan adamlar adam mıdır sorunsalı
