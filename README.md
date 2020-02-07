@@ -1,19 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
-bkz kadı beni bilin cink etmem savaş gemisi yaparun
-bkz 7 şubat 2020 rte nin uçan savaş gemisi lansmanını yapması
-bkz yüzde yüz yerli ve milli uçan savaş gemisi projesi 
-bkz rtenin savaş arabası projesini rafa kaldırdım demesi 
-bkz rte nin rt izlediği gerçeği
-bkz cnn turk izlemem diyen kürt
-bkz apple kullanmayan oç ları
-bkz android kullananların oç olması
-bkz rte nin uçan tank projesi 2033
-bkz rte nin iphone kullandığı gerçeği
-bkz iphone u olmayıp adam diye gezen tip
-bkz iphonu olmayanların oç olduğu gerçeği
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
+https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular hadi bakalım yerli olsun
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular beyin kanartan genç
 https://eksisozluk.com/genco-erkalin-beyin-yakan-tiyatro-yorumu--6356148?a=popular beyin kanartıı amuğa goyim
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
