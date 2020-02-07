@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz madem kriz var neden park edecek yer yok 
 https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/ zuahahaha adam haklı amk
 bkz kaç para ulan bir flüt
 bkz look im not your father
