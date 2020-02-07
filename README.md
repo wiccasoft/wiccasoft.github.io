@@ -3,9 +3,8 @@
 <!-- 
 https://space.stackexchange.com/ 
 https://kalbikara.uludagsozluk.com/
-https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/
-https://www.uludagsozluk.com/k/intihar-eden-adama-ne-denir/&w=bg
 bkz teyzenisin kilodunda babanızın spermi olsa naparsınız
+https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/
 https://www.uludagsozluk.com/e/42820943/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
 bkz ben senle süper lig izleyip soğan da yerim diyen kız
