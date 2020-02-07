@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ekşicilerin lockheedmartin ceosunu recep tayyip erdoğan sanması
 bkz ekşicilerin ifşa ettiği abdulkerim karaağaçın lockheed martin ceosu çıkması
 bkz lockheed martin ceosunun sr 71 ler hazır gelin alın demesi
 bkz airbus ceosunun canlı yayında ağlaması
