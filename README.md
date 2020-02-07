@@ -1,6 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!-- https://space.stackexchange.com/ -->
+<!-- 
+https://space.stackexchange.com/ 
+https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
+-->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
