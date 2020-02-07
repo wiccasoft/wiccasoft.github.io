@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-bkz aseksüel gencin seks tamamen karşıyım demesi
+bkz aseksüel gencin sekse tamamen karşıyım demesi
 bkz aseksüel olduğu için pipisini kesen genç
 https://www.uludagsozluk.com/k/aldatan-ve-tecav%C3%BCz-eden-erkekler-had%C4%B1m-edilsin/
 bkz phone x ile instagramın daha hızlı açılması
