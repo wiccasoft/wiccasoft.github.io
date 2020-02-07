@@ -1,6 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz recep tayyip erdoğanın ikinci ata cücücüyse ikinci rte kim sorunsalı
+bkz ata cücü recep tayyip erdoğanarasındaki farkar
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-tayyip-erdo%C4%9Fan-aras%C4%B1ndaki-farklar/&w=bg
 bkz ilk buluşmada malafataı çıkartıp masaya vuran genco
 bkz şiddcete uğrayan karıyı siken genco
 bkz rte babanız olsa yapcaklarınız
