@@ -4,10 +4,8 @@
 bkz cnn turk çakılınca sevinen kürtler
 bkz ucuna taramalı takılmış savaş uçağı görünce it gibi dağılan düşmanlar
 https://www.uludagsozluk.com/k/taklit-e-devlet-sitesi-ile-doland%C4%B1r%C4%B1c%C4%B1l%C4%B1k-yapmak/ zuahhaha
-https://www.uludagsozluk.com/k/kasl%C4%B1-bir-erke%C4%9Fin-alt%C4%B1nda-sak%C4%B1z-gibi-%C3%A7i%C4%9Fnenmek/ bkz pastırma
-https://www.uludagsozluk.com/k/erkeklerin-estetik-yaptirmasi/&w=bg ay bu erkeklerin işine akıl sır ermez
 bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
-https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı takacaz
+https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı taktık olm
 https://www.uludagsozluk.com/k/kardan-adamlar-yaz-gelince-ne-yap%C4%B1yor/ kardan adamlar adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/charles-bukowski-vs-necip-faz%C4%B1l/&w=bg evlenilecek erkek vs eğlenilecek erkek
 https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/&w=gd sucuya varacam derse yer sümsüğü
