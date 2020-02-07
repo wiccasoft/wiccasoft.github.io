@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ekşcilerin cengiz budaka küsmesi
 bkz ekşideki veletlerin eğitilmez olduğu gerçei
 https://www.uludagsozluk.com/e/42821506/ bkz ekşicilerin bilmediğ gerçek
 bkz ekşcilerin cüneyt özdemire küsmesi
