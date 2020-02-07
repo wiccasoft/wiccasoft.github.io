@@ -3,6 +3,7 @@
 <!-- 
 bkz türkleşmiş metaller
 bkz alkali metallerin türk olduğu gereçeği
+https://www.youtube.com/watch?v=6G6Z60EPieA
 bkz kızının sevgilisini bıçakladı köpeğine yedirtti işte o cani
 bkz lazların kürtleşmiş çeçenler olduğu gerçeği
 bkz muğla sıtkı koçman okulunda köpeği tekmeleyen caninin laz çıkması
