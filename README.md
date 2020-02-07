@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
-<!--,
+<!--
+bkz süleymansoylu keline şaplak atanalara dava açması
 bkz mustfadakkamaldandoğan vs receptayyiptendoğan benzerliği
 bkz atacücünün yatı vs rte nin yatı
 bkz mustfa kamaldan doğan recepe tayyipten doğan benzerliği
