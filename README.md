@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://www.uludagsozluk.com/k/murat-yanc%C4%B1/ tam bir yancı aman diyim uzak durun
 bkz hz süleymanın kel değilimki ekşicilere dava açayım demesi
 bkz ekşcicilerin süleymanın tapınağını bulması
 bkz ekşicilerin rte den saklanması
