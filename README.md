@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
+bkz yüzde yüz yerli ve milli savaş gemisi üretiminin başlaması
+https://www.uludagsozluk.com/k/cnn-t%C3%BCrk-%C3%BCn-reytinglerde-%C3%A7ak%C4%B1lmas%C4%B1/ oh canıma desin
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular hadi bakalım yerli olsun
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular beyin kanartan genç
