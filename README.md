@@ -2,7 +2,8 @@
 
 <!--
 bkz kaç para ulan bir flüt
-bkz ekşcicilerim çocuklarına flüt alamayan babaya küsmesi
+bkz ekşcilerin beni babası sanması
+bkz ekşicilerin çocuklarına flüt alamayan babaya küsmesi
 bkz ekşicilerin cengiz budaka küsmesi
 bkz ekşideki veletlerin eğitilmez olduğu gerçei
 https://www.uludagsozluk.com/e/42821506/ bkz ekşicilerin bilmediğ gerçek
