@@ -3,6 +3,7 @@
 <!-- 
 bkz türkleşmiş metaller
 bkz cnn turk izlemem diyen kürt
+bkz pompalı tüfekle dehşet saçtı
 bkz kazı yiyen cani doktorun salınması
 bkz alkali metallerin türk olduğu gereçeği
 https://www.youtube.com/watch?v=6G6Z60EPieA
