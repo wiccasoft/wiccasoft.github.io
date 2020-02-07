@@ -8,6 +8,7 @@ bkz muğla sıtkı koçman okulunda köpeği tekmeleyen caninin laz çıkması
 bkz metallicanın solistinin ermeni çeçen kırması olduğu gerçeği
 bkz türklerin üstün arı ırk olduğu söylentileri
 bkz ermeni kürt kırması köpeği tekmeleyen beyin cerrahı
+bkz eski sevigilisini kocasına öldürttü çöpe attı
 https://www.uludagsozluk.com/k/%C3%A7ingeneler-vs-k%C3%BCrtler/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtle%C5%9Fmi%C5%9F-%C3%A7e%C3%A7enler/&w=bg
 https://www.uludagsozluk.com/k/lazlar-ermeni-k%C3%BCrt-k%C4%B1rmas%C4%B1d%C4%B1r/&w=bg
