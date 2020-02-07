@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+https://www.uludagsozluk.com/k/en-son-kimi-affettin/ hadi bakalım genşler çalışın biraz
 bkz süleyman soylunun keline şaplak atanlara atsınlar canım çocuk onlar demesi
 https://kalbikara.uludagsozluk.com/ bkz tanısanız siz de seversiniz
 bkz süleyman soylunun kel diyenlere keltoş baban koç demesi
