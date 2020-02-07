@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı takacaz
 https://www.uludagsozluk.com/k/kardan-adamlar-yaz-gelince-ne-yap%C4%B1yor/ kardan adamlar adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/charles-bukowski-vs-necip-faz%C4%B1l/&w=bg evlenilecek erkek vs eğlenilecek erkek
 https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/&w=gd sucuya varacam derse yer sümsüğü
