@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-https://www.uludagsozluk.com/k/isaac-newton-vs-albert-einstein/ zuhahahahahahahahha ikiside ölü be kankağ
+bkz facebook instagram twitter kullanmayan erkeğ
 bkz türkiye pazarına gireceğimi sanan ekşiciler
 bkz türkiyeyi siklemediğimi anlamayan ekşiciler
 bkz ucuna taramalı bağlanan uçağı götünce it gibi mağaralarına kaçan ekşiciler
