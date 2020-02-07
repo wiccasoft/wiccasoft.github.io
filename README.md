@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz babasına söven gencin babası pompalı tüfekle dehşet saçtı
 bkz cnn turk çakılınca sevinen kürtler
 bkz ucuna taramalı takılmış savaş uçağı görünce it gibi dağılan düşmanlar
 https://www.uludagsozluk.com/k/taklit-e-devlet-sitesi-ile-doland%C4%B1r%C4%B1c%C4%B1l%C4%B1k-yapmak/ zuahhaha
