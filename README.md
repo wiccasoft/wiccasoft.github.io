@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ekşcilerin cüneyt özdemire küsmesi
 bkz ekşcicilerin rte ye küsmesi
 https://www.uludagsozluk.com/k/k%C3%B6ksal-baba/&w=gd köksal babaaaaaaaaağ ananmı sik bubaaaaaağ
 bkz ali babacanın ben sizin babanızım ben dersem o olur demesi
