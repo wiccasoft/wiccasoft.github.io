@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ucuna taramalı bağlanan uçağı götünce it gibi mağaralarına kaçan ekşiciler
 bkz acunun ekşicilerin tv8 bokotu işe yaramaz demesi
 bkz hadiseyi seksi bulan erkeğ
 bkz rte nin hadiseyi seksiğ bulması
