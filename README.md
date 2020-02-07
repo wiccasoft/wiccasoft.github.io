@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ucuna haç bağlanmış savaş uçaklarımız 2023 te göklerde inşallah
 bkz uçan savaş uçaklarının bomba gibi geldiği gerçeği
 bkz pompalı tüfekle dehşet saçan genconun iphone bayisi cıkması
 bkz ilk buluşmada masaya iphone x koyan erkek
