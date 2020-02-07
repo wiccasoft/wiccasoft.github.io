@@ -4,6 +4,7 @@
 https://space.stackexchange.com/ 
 https://www.uludagsozluk.com/e/42820943/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
+https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/ 
 -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
