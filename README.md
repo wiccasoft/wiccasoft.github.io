@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/i-selim-i-t%C3%BCrk-b%C3%BCy%C3%BC%C4%9F%C3%BCnden-saymak/ tam bi ibnelik
 https://www.uludagsozluk.com/k/cristiano-ronaldo-dos-santos-aveiro/&w=bg bkz isminden futbolcu olduğu anlaşılan isimler
 bkz süleyman soylunun ketoç baban koç diyenlere gülmesi
 bkz hatay valiliğinde yanan adamın dövlöt büzü bahmüy demesi
