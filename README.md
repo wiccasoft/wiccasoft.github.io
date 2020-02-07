@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz süleyman soylunun kelime şaplak atabilirsiniz demesi
 bkz süleyman soylu nun kel diyenlere desinler canım çocuk onlar demesi
 bkz süleyman soylunun içişleri bakanlığı sitesine kel fotolarımı atmayın demesi
 https://www.uludagsozluk.com/k/en-son-kimi-affettin/ hadi bakalım genşler çalışın biraz
