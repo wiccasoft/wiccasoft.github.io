@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/ vay amk
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular neler dönmüş amk
 https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/ vay bubağın kemiği
 bkz rte nin yüzde yüz yerli ve milli savaş uçağının startını vermesi
