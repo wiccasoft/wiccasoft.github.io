@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz ben senle soğanlı bokta yerim diyen kız
 bkz yörükleerin çingeleşmiş türkler olduğu gerçeği
 https://www.uludagsozluk.com/k/param-olsa-da-ben-alsam-diyen-pazarc%C4%B1/
 bkz ben senle ekmek arası bok da yerim diyen kız
