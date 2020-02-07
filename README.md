@@ -2,7 +2,9 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+https://kalbikara.uludagsozluk.com/ tanısanız siz de seversiniz
 bkz rte babanızı sikse 
+https://www.uludagsozluk.com/e/42822431/
 https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-doktora-gitmeyen-adam/ bkz sputnik linki attım tıklağyın
 https://kalbikara.uludagsozluk.com/ bkz kalbikara evlat olsa severmisiniz
 bkz polisler sevilip bekçiler sevilmemesi
