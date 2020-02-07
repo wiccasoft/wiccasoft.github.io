@@ -4,6 +4,7 @@
 bkz 3 sayfa gazete haberi bulup ona küfr etmek
 bkz beyin cerrahı olup kimlerle muhattap olmak
 https://www.youtube.com/watch?v=RaJHr9ThK5k ben aslında yoğum
+https://eksisozluk.com/abdulkerim-karaagac--6355632?a=popular bkz şimdi ananı laciverde boyadım
 https://www.uludagsozluk.com/k/k%C4%B1z-whatsapp-grubu-adlar%C4%B1/&w=bg bkz erkekleri şapşikliyoruz
 https://www.uludagsozluk.com/k/ilhan-irem/&w=bg bkz sazlıklardan havalanan
 bkz hala halkın arasına karışmadım bu demek oluyor ki hala doğru yoldayım
