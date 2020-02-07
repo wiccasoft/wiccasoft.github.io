@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz param olsa seni alırım diyen pazarcı
 bkz öküzü satim seni alacam diyen yörük
 bkz tatarların tataklaşmış bok olduğu gerçeği
 bkz yörüklerin türkleşmiş çingeneler olduğu gerçeği
