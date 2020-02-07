@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+https://kalbikara.uludagsozluk.com/ senin sıçanların amk 
 https://kalbikara.uludagsozluk.com/ senin sıçan annenin götüne itfaiyye hortumu sokayım veled
 https://kalbikara.uludagsozluk.com/ senin sıçan annenin götüne rte sokayım amk veledi zinası
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
