@@ -3,7 +3,7 @@
 <!--
 bkz madem kriz var sokaklar neden son model arabalarla dolu
 bkz madem kriz var neden park edecek yer yok 
-https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/ zuahahaha adam haklı amk
+https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/ zuahahaha süper tespit
 bkz kaç para ulan bir flüt
 bkz look im not your father
 bkz ekşicilerin beni babası sanması
