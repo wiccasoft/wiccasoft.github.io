@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz hatay valiliğinde yakan adamın siz yanmayın diye yaktım kendimi demesi
 https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/&w=bg yazık ya bu halk bu mu ya
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-halk%C4%B1n%C4%B1n-ekseriyetle-geri-zekal%C4%B1-olmas%C4%B1/ günaydın 
 bkz hatay valiliğinde kendin yakan adamın biraz ısındım demesi
