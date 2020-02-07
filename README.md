@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
-bkz hatay valsinin yanan adama yansın ibne demesi
+bkzk tatarlar vs kıpçaklar
+bkz hatay valisinin yanan adama yansın ibne demesi
 https://www.uludagsozluk.com/k/kitap-okumayan-erkek/&w=bg bkzk tatak ramazan
 https://www.uludagsozluk.com/k/tatarlar/&w=bg bk tatar ramazan
 bkz süleyamn soylunun keltoç baban koç diyenlere gülmesi
