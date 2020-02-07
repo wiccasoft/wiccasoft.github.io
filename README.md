@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz genco erkal beyin kanırtan orhan bence gay yorumu
 bkz ezan dinlemem diyen genconun çarpılması
 ezanlarımız susturamayacasınız mimarelerimiz inderemeycesiniz
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
