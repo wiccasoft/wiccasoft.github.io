@@ -2,6 +2,7 @@
 
 <!--
 bkz kaç para ulan bir flüt
+bkz look im not your father
 bkz ekşicilerin beni babası sanması
 bkz ekşicilerin çocuklarına flüt alamayan babaya küsmesi
 bkz ekşicilerin cengiz budaka küsmesi
