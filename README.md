@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz bi kere reddedilince hemen risk almayan genç
 bkz babasına kzıdı annesini doğradı işte o genç
 bkz pompalı tüfekle dehşet saçan damacana oğlan
 bkz meral akşenir ucuna taramalı takılmış savaş uçağını görünce it gibi dağılması
