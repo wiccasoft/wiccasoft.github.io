@@ -4,6 +4,7 @@
 bkz türkleşmiş metaller
 bkz alkali metallerin türk olduğu gereçeği
 bkz lazların kürtleşmiş çeçenler olduğu gerçeği
+bkz muğla sıtkı koçman da köpeği tekmeleyen caninin kürt çıkması
 bkz metallicanın solistinin ermeni çeçen kırması olduğu gerçeği
 bkz türklerin üstün arı ırk olduğu söylentileri
 bkz ermeni kürt kırması köpeği tekmeleyen beyin cerrahı
