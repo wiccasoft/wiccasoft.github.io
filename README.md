@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ekşideki oç ların sıkması
 bkz tavşan dağa küsmüş dağın haberi olmamış
 bkz ekşicilerin cüneyt özdemire küsmesi
 bkz berat albayrak süleyman soylu arasındaki kelli felli şakalaşma
