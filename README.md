@@ -3,7 +3,9 @@
 <!-- 
 https://space.stackexchange.com/ 
 bkz rte babanızı sikse 
+https://kalbikara.uludagsozluk.com/ bkz kalbikara evlat olsa severmisiniz
 bkz polisler sevilip bekçiler sevilmemesi
+https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
 https://www.uludagsozluk.com/k/polislerin-sevilip-bek%C3%A7ilerin-sevilmemesi/
 https://www.uludagsozluk.com/k/hizmet%C3%A7iler-dizisi/&w=bg bkz hizmetçiler dizi
 https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg bkz abdullah gül
