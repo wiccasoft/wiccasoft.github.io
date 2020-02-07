@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-https://www.uludagsozluk.com/e/42821506/ ekşicilerin bilmediğ gerçek
+bkz ekşideki veletlerin eğitilmez olduğu gerçei
+https://www.uludagsozluk.com/e/42821506/ bkz ekşicilerin bilmediğ gerçek
 bkz ekşcilerin cüneyt özdemire küsmesi
 bkz ekşcicilerin rte ye küsmesi
 https://www.uludagsozluk.com/k/k%C3%B6ksal-baba/&w=gd köksal babaaaaaaaaağ ananmı sik bubaaaaaağ
