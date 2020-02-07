@@ -3,6 +3,8 @@
 <!-- 
 https://space.stackexchange.com/ 
 bkz rte babanızı sikse 
+bkz polisler sevilip bekçiler sevilmemesi
+https://www.uludagsozluk.com/k/polislerin-sevilip-bek%C3%A7ilerin-sevilmemesi/
 https://www.uludagsozluk.com/k/hizmet%C3%A7iler-dizisi/&w=bg bkz hizmetçiler dizi
 https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg bkz abdullah gül
 bkz egemen bağış annenizi sikse
