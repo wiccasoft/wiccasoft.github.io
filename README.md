@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=4MRNTOHrJzw 
+bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/bankac%C4%B1-kad%C4%B1nlar%C4%B1n-at-gibi-olmas%C4%B1/&w=gd
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular lol
 https://www.uludagsozluk.com/k/havvan%C4%B1n-can%C4%B1-elma-%C3%A7ekti-adem-cennetten-kovuldu/ lol
