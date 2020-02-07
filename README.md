@@ -3,7 +3,7 @@
 <!-- 
 bkz türkleşmiş metaller
 bkz lazların kürtleşmiş çeçenler olduğu gerçeği
-bkz metallicanın solistinin türk olduğu gerçeği
+bkz metallicanın solistinin türk çeçen kırması olduğu gerçeği
 bkz türklerin üstün arı ırk olduğu söylentileri
 bkz ermeni kürt kırması köpeği tekmeleyen beyin cerrahı
 https://www.uludagsozluk.com/k/%C3%A7ingeneler-vs-k%C3%BCrtler/&w=bg
