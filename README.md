@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/cristiano-ronaldo-dos-santos-aveiro/&w=bg bkz futbolcu olduğu belli isimler
 https://www.uludagsozluk.com/k/%C3%BCzerinde-2-ki%C5%9Fiyle-%C5%9F%C4%B1nav-%C3%A7eken-adam/ 
 bkz zirvedeyim sesin duyumuyo klbindeki adam
 bkz ben senle soğanlı bokta yerim diyen kız
