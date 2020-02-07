@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz babasına kzıdı annesini doğradı işte o genç
+bkz pompalı tüfekle dehşet saçan damacana oğlan
 bkz meral akşenir ucuna taramalı takılmış savaş uçağını görünce it gibi dağılması
 bkz genco erkal beyin kanırtan meral akşener yorumu
 bkz meral akşenir herşey türk için türkiye için demesi
