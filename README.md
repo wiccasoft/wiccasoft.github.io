@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-bkz ekşideki ibneler hangi adama yavşamıştır sorunsalı
+bkz ben sizin babanızım
+bkz rte babanız olursa yapacağınız şey
 bkz yavşak arsız oç ibnelerden kurtulma yolları
 bkz evlat olsa sevilmeyecek oç larındaki artış
 https://kalbikara.uludagsozluk.com/ evlat olsa sevilmez amk
