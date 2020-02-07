@@ -7,45 +7,25 @@ https://www.uludagsozluk.com/k/taklit-e-devlet-sitesi-ile-doland%C4%B1r%C4%B1c%C
 bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı taktık olm
 https://www.uludagsozluk.com/k/kardan-adamlar-yaz-gelince-ne-yap%C4%B1yor/ kardan adamlar adam mıdır sorunsalı
-https://www.uludagsozluk.com/k/charles-bukowski-vs-necip-faz%C4%B1l/&w=bg evlenilecek erkek vs eğlenilecek erkek
-https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/&w=gd sucuya varacam derse yer sümsüğü
 https://eksisozluk.com/hoslanilan-erkegin-iphone-5s-kullanmasi--6356130?a=popular vay arkadaş zorla 5s aldıracaklar
 https://www.uludagsozluk.com/k/hayalimdeki-gelinlik/&w=bg gelin olmuş gidiyosun hadi hayırlısı
 https://www.uludagsozluk.com/k/rte-ye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/ sal gitsin kankağ
 https://www.uludagsozluk.com/k/adonisi-olmayan-erkek-vs-migros-po%C5%9Feti/ vay arkadaş bim poşeti olduk iyi mi
-https://eksisozluk.com/asansorde-damacanaya-iseyen-sucu--6356452?a=popular vay arkadaş kutsal damacana gibi
-https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/ vay amk neler oluyo hayatta
+https://eksisozluk.com/asansorde-damacanaya-iseyen-sucu--6356452?a=popular bkz kutsal damacana
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular naptın sen yeğen yav
-https://www.uludagsozluk.com/k/rte-ye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/ geliyorum bebeğim
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-yerli savaş uçağının kanırtarak gideceği gerçeği
-damacanaya işeyen gencin beyin kanırtan yorumu
-cnn turkün türk önde türk ileri demesi
-damacanaya işeyen gencin kutsal bu demesi
-ahmet hakanın cnn turk çakıldıysa cnn kürt niye çakılmiy demesi
-cennete giden yol iyi niyet tohumlarıyla döşenmiştir amına koyacağız düşmanların
-yerli savaş uçağını hangardan çıksrtacağız ucuna taramalı takacaz taraya taaya gidecek
-https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular 
 https://www.youtube.com/watch?v=iteqUmkms9M yerli uzay gemisine var mısınız genşler
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/ gizli proje olm her yerde anlatmayın
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular yiğen naptın sen yav
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/ ooo iyi uçarak gideriz işe
-https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/ iyi yapmış 
 https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/ yansın ibne ellemeyin
 https://www.uludagsozluk.com/k/cnn-t%C3%BCrk-%C3%BCn-reytinglerde-%C3%A7ak%C4%B1lmas%C4%B1/&w=gd bkz kürtlerin işi
 https://www.uludagsozluk.com/k/sucunun-bo%C5%9F-damacanaya-i%C5%9Femesi/ bkz kutsal damacana
 https://eksisozluk.com/asansorde-damacanaya-iseyen-sucu--6356452?a=popular bkz kutsal damacanaya işedi
-https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/ vay amk
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular neler dönmüş amk
 https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/ vay bubağın kemiği
-bkz rte nin yüzde yüz yerli ve milli savaş uçağının startını vermesi
-https://www.uludagsozluk.com/k/cnn-t%C3%BCrk-%C3%BCn-reytinglerde-%C3%A7ak%C4%B1lmas%C4%B1/ oh canıma desin
-https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
-https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular hadi bakalım yerli olsun
+https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/ zuahahahah
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular beyin kanartan genç
-https://eksisozluk.com/genco-erkalin-beyin-yakan-tiyatro-yorumu--6356148?a=popular beyin kanartıı amuğa goyim
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
-https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular beyler ben saldırıyorum -->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
