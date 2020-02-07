@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz ben senim parmak arası pisliklerini yerim diyen kız
 bkz ben seni bokunu yerim diyen kız
 bkz yörüklerin çingeleşmiş arap kırmaları olduğu gerçeği
 bkz telefona sevdicekten gelen mesajları severek okuyan adam
