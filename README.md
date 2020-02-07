@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz cips yerken kart kurt sesin kürtleri hatırlatması
 bkz karamollaoğlanın madımakı fişeklediği gerçeği
 https://www.uludagsozluk.com/k/mad%C4%B1mak-katliam%C4%B1nda-temel-karamollao%C4%9Flu-nun-rol%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BCrtler-sar%C4%B1%C5%9F%C4%B1n-renkli-g%C3%B6zl%C3%BC-ve-uzun-boyludur/&w=bg
