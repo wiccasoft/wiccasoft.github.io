@@ -14,6 +14,7 @@ https://eksisozluk.com/cuneyt-ozdemiri-boykot-ediyoruz--6355435?a=popular apple 
 https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/ bkz ekşiciler
 https://eksisozluk.com/5-kiloluk-kopegi-olduresiye-tekmeleyen-dis-hekimi--6355536?a=popular adresini ver kankağ adresiniiii
 https://eksisozluk.com/cahil-kesime-sistemi-sorgulamayi-ogretiyoruz--6355010?a=popular hadi bakalım göreyim sizi
+https://eksisozluk.com/mucize-doktor--6071484?a=popular bkz mucize doktor dizisindeki böcek suratlı ergen
 -->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
