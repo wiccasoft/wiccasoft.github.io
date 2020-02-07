@@ -20,7 +20,6 @@ damacanaya işeyen gencin kutsal bu demesi
 ahmet hakanın cnn turk çakıldıysa cnn kürt niye çakılmiy demesi
 cennete giden yol iyi niyet tohumlarıyla döşenmiştir amına koyacağız düşmanların
 yerli savaş uçağını hangardan çıksrtacağız ucuna taramalı takacaz taraya taaya gidecek
-https://www.uludagsozluk.com/k/do%C4%9Furdu%C4%9Fu-%C3%A7ocu%C4%9Fu-%C3%A7%C3%B6pe-atan-14-ya%C5%9F%C4%B1ndaki-cani-kad%C4%B1n/
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular 
 https://www.youtube.com/watch?v=iteqUmkms9M yerli uzay gemisine var mısınız genşler
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/ gizli proje olm her yerde anlatmayın
