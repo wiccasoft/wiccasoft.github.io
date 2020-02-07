@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-15 temmuz hainlerini tespit eden radara yakalanmayan uçak projesi
+https://www.uludagsozluk.com/k/rte-ye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/ geliyorum bebeğim
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 yerli savaş uçağının kanırtarak gideceği gerçeği
 damacanaya işeyen gencin beyin kanırtan yorumu
