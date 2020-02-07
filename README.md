@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz arap turiste arap diyen ırkçı türk oç
+bkz arap turiste ana avrat küfür eden ırkçı
 bkz süleyman soylu babanızı olsa yapacağınız şey
 bkz ben sizin babanızım ben dersem o olur oçları
 bkz evlat olsa sevilmeyecek oç larındaki artış
