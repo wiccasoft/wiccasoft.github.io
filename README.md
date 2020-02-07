@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
+https://www.uludagsozluk.com/k/ilhan-irem/&w=bg bkz sazlıklardan havalanan
 bkz hala halkın arasına karışmadım bu demek oluyor ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/arac%C4%B1n%C4%B1-%C3%A7alan-genci-silah%C4%B1yla-%C3%B6ld%C3%BCren-polis/&w=bg
 https://www.youtube.com/watch?v=4MRNTOHrJzw 
