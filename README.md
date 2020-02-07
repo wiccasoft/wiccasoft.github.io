@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://www.uludagsozluk.com/k/penisi-20-cm-den-k%C3%BC%C3%A7%C3%BCk-olan-erkek/
 bkz penisi 20 cm erkekle bir gece vs penisi 15 cm erkekle bir gece
 bkz süleyman soylu evire çevire sikse naparsınız sorunsalı
 bkz süleyman soylunun siki kaç cm dir sorunsalı
