@@ -2,6 +2,7 @@
 
 <!--
 bkz cnn turk çakılınca sevinen kürtler
+https://www.uludagsozluk.com/k/kasl%C4%B1-bir-erke%C4%9Fin-alt%C4%B1nda-sak%C4%B1z-gibi-%C3%A7i%C4%9Fnenmek/ bkz pastırma
 https://www.uludagsozluk.com/k/erkeklerin-estetik-yaptirmasi/&w=bg ay bu erkeklerin işine akıl sır ermez
 bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı takacaz
