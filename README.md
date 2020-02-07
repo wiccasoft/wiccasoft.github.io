@@ -2,13 +2,9 @@
 
 <!--
 bkz süleyman soylu babanızı olsa yapacağınız şey
-bkz ben sizin babanızım
-bkz rte babanız olursa yapacağınız şey
-bkz yavşak arsız oç ibnelerden kurtulma yolları
+bkz ben sizin babanızım ben dersem o olur oçları
 bkz evlat olsa sevilmeyecek oç larındaki artış
 https://kalbikara.uludagsozluk.com/ evlat olsa sevilmez amk
-https://kalbikara.uludagsozluk.com/ senin ananı sikeyim şerefesiz oç
-https://kalbikara.uludagsozluk.com/ bu ensest oç anasını sikeym
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
 bkz şaka maka meralin tam emciklenecek karı olması
 bkz şaka maka meralin taş gibi olması
