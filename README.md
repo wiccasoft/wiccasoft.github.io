@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz hatay valiliğinde kendin yakan adamın biraz ısındım demesi
 bkz mustfa akıncının süleyman soylu arasındaki tatlı diyalog
 bkz süleyman soylunun keltoç baban koç diyenlere gülmesi
 bkz süleyman soylunun kelime şaplak atabilirsiniz demesi
