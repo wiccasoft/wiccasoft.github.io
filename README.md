@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz rte nin instagramı bıraktım nefesim açıldı külliyeyi beş dakkada turluyorum demesi
 bkz rte nin beni seviyosanız instagram kullanmayın demesi
 bkz instagram facebook teitter kullanmayan erkeğ
 bkz elim kırılsaydı da ekreme vermeyeydim diyen genco
