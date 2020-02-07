@@ -2,6 +2,7 @@
 
 <!--
 bkz cnn turk çakılınca sevinen kürtler
+bkz ucuna taramalı takılmış savaş uçağı görünce it gibi dağılan düşmanlar
 https://www.uludagsozluk.com/k/kasl%C4%B1-bir-erke%C4%9Fin-alt%C4%B1nda-sak%C4%B1z-gibi-%C3%A7i%C4%9Fnenmek/ bkz pastırma
 https://www.uludagsozluk.com/k/erkeklerin-estetik-yaptirmasi/&w=bg ay bu erkeklerin işine akıl sır ermez
 bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
