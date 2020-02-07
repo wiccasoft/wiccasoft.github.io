@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz meralin ucuna taramalı bağlanmış uşakları görünce götünün erimesi
 bkz rte nin bırakın şu instagramı kyk borçalarınız sileyim demesi
 bkz rte nin instagramı bıraktım nefesim açıldı külliyeyi beş dakkada turluyorum demesi
 bkz rte nin beni seviyosanız instagram kullanmayın demesi
@@ -25,22 +26,11 @@ bkz phone x ile instagramın daha hızlı açılması
 bkz bi kere reddedilince hemen risk almayan genç
 bkz babasına kzıdı annesini doğradı işte o genç
 bkz pompalı tüfekle dehşet saçan damacana oğlan
-bkz meral akşenir ucuna taramalı takılmış savaş uçağını görünce it gibi dağılması
-bkz genco erkal beyin kanırtan meral akşener yorumu
-bkz meral akşenir herşey türk için türkiye için demesi
+bkz meral akşenir ucuna taramalı takılmış savaş uçağını görünce it gibi erimesi
 bkz meral akşenir kılıçdaroğlan görüşmesinin olumlu geçmesi
-bkz abdullah gülün meral akşenere kırmızı ışık yakması
-bkz facebook instagram twitter kullanmayan erkeğ
-bkz türkiye pazarına gireceğimi sanan ekşiciler
-bkz türkiyeyi siklemediğimi anlamayan ekşiciler
-bkz ucuna taramalı bağlanan uçağı götünce it gibi mağaralarına kaçan ekşiciler
-bkz acunun ekşicilerin tv8 bokotu işe yaramaz demesi
-bkz hadiseyi seksi bulan erkeğ
 bkz rte nin hadiseyi seksiğ bulması
 bkz beni süleyman soylu sanan ekşiciler
 bkz süleyman soylunun kel diyenler dava açması
-bkz ekşideki oç larının sıkması küfr den de anlamıyo yavşak oç ları
-bkz tavşan dağa küsmüş dağın haberi olmamış
 bkz ekşicilerin cüneyt özdemire küsmesi
 bkz berat albayrak süleyman soylu arasındaki kelli felli şakalaşma
 bkz berat albayrakın süleyman soylunun keline bakışı
