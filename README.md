@@ -2,6 +2,7 @@
 
 <!-- 
 bkz rte nin uçan tank projesi 2033
+bkz rte nin iphone kullandığı gerçeği
 bkz iphone u olmayıp adam diye gezen tip
 bkz iphonu olmayanların oç olduğu gerçeği
 https://www.uludagsozluk.com/k/huawei-kullanan-birini-ciddiye-almak/
