@@ -4,6 +4,7 @@
 https://space.stackexchange.com/ 
 https://kalbikara.uludagsozluk.com/
 bkz teyzenisin kilodunda babanızın spermi olsa naparsınız
+https://www.uludagsozluk.com/k/2014-2016-aras%C4%B1-fet%C3%B6-y%C3%BC-savunanlar/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/
 https://www.uludagsozluk.com/e/42820943/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
