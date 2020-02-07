@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular bkz ben saldırıyorum beyler
+yerli savaş uçağını hangardan çıksrtacağız ucuna taramalı takacaz taraya taaya gidecek
+https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular 
 https://www.youtube.com/watch?v=iteqUmkms9M yerli uzay gemisine var mısınız genşler
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/ gizli proje olm her yerde anlatmayın
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular yiğen naptın sen yav
