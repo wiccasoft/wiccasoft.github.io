@@ -1,32 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!-- 
-https://www.uludagsozluk.com/k/g%C3%BCrc%C3%BC-fenotipi/
-bkz iki oğlan göbeğindeyken mekik çeken adam vidyosu tıklağ be knkağ izleyek beraber
-bkz üzerinde iki kişiyle şınav çeken adam
-https://www.uludagsozluk.com/k/%C3%BCzerinde-2-ki%C5%9Fiyle-%C5%9F%C4%B1nav-%C3%A7eken-adam/
-bkz gerekirse bokunu da yerim diyen kız
-bkz ben senim parmak arası pisliklerini yerim diyen kız
-bkz ben seni bokunu yerim diyen kız
-bkz yörüklerin çingeleşmiş arap kırmaları olduğu gerçeği
-bkz telefona sevdicekten gelen mesajları severek okuyan adam
-bkz sırtında cips yiyen iki ergen irisiyle şınav çeken adam
-https://www.uludagsozluk.com/k/t%C4%B1r-%C3%A7eken-adam/
-https://www.uludagsozluk.com/k/ermeni-fenotipi/&w=bg
-bkz param olsa kız ben sana entry girdirirmiym diyen adam
-bkz göbeğinde iki oğlanla mekik çekebilen adam
-https://www.uludagsozluk.com/k/t%C4%B1r-%C3%A7eken-adam/
-bkz param olsa seni alırım diyen pazarcı
-bkz öküzü satim seni alacam diyen yörük
-bkz tatarların tataklaşmış bok olduğu gerçeği
-bkz yörüklerin türkleşmiş çingeneler olduğu gerçeği
-bkz param olsa de seni alsam diyen pazarcı
-bkz artiz ne arar la bazarda diyen pazarcı
-bkz param olsa seni alırım diyen pazarcı
-bkz öküzü satim seni alacam diyen yörük
-bkz yörüklerin türkleşmiş çingeneler olduğu gerçeği
-https://www.uludagsozluk.com/k/param-olsa-da-ben-alsam-diyen-pazarc%C4%B1/
-https://www.uludagsozluk.com/k/y%C3%B6r%C3%BCklerin-t%C3%BCrkle%C5%9Fmi%C5%9F-%C3%A7ingeneler-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg -->
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
