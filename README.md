@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz şiddcete uğrayan karıyı siken genco
 bkz rte babanız olsa yapcaklarınız
 bkz penisi 20 cm den küçük olan erkek
 https://www.uludagsozluk.com/k/penisi-20-cm-den-k%C3%BC%C3%A7%C3%BCk-olan-erkek/
