@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz kaç para ulan bir flüt
 bkz ekşcicilerim çocuklarına flüt alamayan babaya küsmesi
 bkz ekşicilerin cengiz budaka küsmesi
 bkz ekşideki veletlerin eğitilmez olduğu gerçei
