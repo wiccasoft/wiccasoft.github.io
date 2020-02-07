@@ -4,6 +4,8 @@
 https://space.stackexchange.com/ 
 https://kalbikara.uludagsozluk.com/
 bkz tayyip babanız olsa naparsınız
+bkz sevdiğiniz kzıın babasının kızın sikmesi
+https://www.uludagsozluk.com/k/sevdi%C4%9Finiz-k%C4%B1z%C4%B1-babas%C4%B1yla-sevi%C5%9Firken-yakalamak/
 bkz ben senle soğan ekmek yer babana çay yapar lig tv izlerim diyen kız
 bkz tayyipni kızını sikerkene odaya damadın girmesi
 bkz sevdiğiniz kızı babasıyla sevişirken yakalamak
