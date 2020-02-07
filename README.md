@@ -3,6 +3,7 @@
 <!-- 
 bkz karamollaoğlanın madımakı fişeklediği gerçeği
 https://www.uludagsozluk.com/k/mad%C4%B1mak-katliam%C4%B1nda-temel-karamollao%C4%9Flu-nun-rol%C3%BC/&w=bg
+https://www.uludagsozluk.com/k/k%C3%BCrtler-sar%C4%B1%C5%9F%C4%B1n-renkli-g%C3%B6zl%C3%BC-ve-uzun-boyludur/&w=bg
 bkz hatay valiliğinde yyanan adamın tatar çıkması
 bkz ahmat hakanın ekranı 4 e bölüp yayın sunması
 bkzk tatarlar vs kıpçaklar
