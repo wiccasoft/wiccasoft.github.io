@@ -8,6 +8,7 @@ https://www.uludagsozluk.com/k/ali-babacan/&w=bg
 bkz ali babacan ben sizin babanızım ben ne dersem o olur dese
 https://www.uludagsozluk.com/k/fatih-tezcan-kimdir/
 bkz rte babanız olursa annenizi siktirirmisiniz
+https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-doktora-gitmeyen-adam/
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
 https://www.uludagsozluk.com/k/nur-fettaho%C4%9Flu/&w=bg bkz fettah oğlan vs bekir oğlan
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg hayallerde yaşıyor bazı ibneler
