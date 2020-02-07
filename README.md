@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz bazarcının bazara çıkması
 https://www.uludagsozluk.com/e/42823087/ artis ne arar la bazarda
 https://www.uludagsozluk.com/e/42822940/ midem kalktı amk
 bkz göbeğinde iki oğlanla mekik çeken tatar adam
