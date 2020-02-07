@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz süleyman soylunun kel diyene keltoş baban koş demesi
+https://www.uludagsozluk.com/k/erkeklerdeki-g%C3%B6t-merak%C4%B1/&w=bg napalım kankağ
 bkz ucuna haç bağlanmış savaş uçaklarımız 2023 te götlerde inşaah
 bkz uçan savaş uçaklarının bomba gibi geldiği gerçeği
 bkz pompalı tüfekle dehşet saçan genconun iphone bayisi cıkması
