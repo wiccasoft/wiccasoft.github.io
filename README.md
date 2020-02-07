@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz telefona sevdicekten gelen mesajları severek okuyan adam
 bkz sırtında cips yiyen iki ergen irisiyle şınav çeken adam
 https://www.uludagsozluk.com/k/t%C4%B1r-%C3%A7eken-adam/
 https://www.uludagsozluk.com/k/ermeni-fenotipi/&w=bg
