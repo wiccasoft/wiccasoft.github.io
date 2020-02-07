@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ekşcicilerin süleymanın tapınağını bulması
 bkz ekşicilerin rte den saklanması
 bkz ankarada kızını öldüren onurlu baba
 bkz kızını siktirecek kadar gavat olmak
