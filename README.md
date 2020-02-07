@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz ben senle soğan ekmek yiyip lig tv de izlerim diyen kız
 bkz gatay valiliğinde kendini yakan adamın kıpçak türkü çıkması
 bkz kıpçak abhazların ermeni kürt kırması olduğu gerçeği
 https://www.uludagsozluk.com/k/suriyelilerin-arap-olmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
