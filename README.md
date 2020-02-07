@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz süleymanın keline şaplak atmasınlar diye bekçilerle gezmesi
 bkz süleymanın pek bi alıngan olması
 bkz süleymanın kulağına kel diye fısıldamak
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-kel-diyene-soru%C5%9Fturma-a%C3%A7%C4%B1lmas%C4%B1/
