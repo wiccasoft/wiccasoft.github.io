@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz şiddete uğrayan karıyı kurtarırken tutuklanan genç
 bkz younes belhanda antep maçında attığı takla
 bkz süleyman soylunun götelek diyenlere dava açmaması
 bkz türkish space force u görünce götü düşen kürtler
