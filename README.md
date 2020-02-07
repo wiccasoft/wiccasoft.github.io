@@ -12,6 +12,7 @@ https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=pop
 https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullananların zengin olduklarını sanmaları
 https://eksisozluk.com/cuneyt-ozdemiri-boykot-ediyoruz--6355435?a=popular apple ın da çok şeyindeydi
 https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/ bkz ekşiciler
+bkz ekşicilerin küfürbaz olma sebepleri
 -->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
