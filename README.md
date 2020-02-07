@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz ebn senle ekmek arası bok da yerim diyen kız
 bkz ben senin bokunu da yerim diyen kız
 https://kirmizicizgi.uludagsozluk.com/ bkz tatak ların tatak sümüğü olduğu gerçeği
 bkz yörüklerin çinegeleşmiş oç türkler olduğu gerçei
