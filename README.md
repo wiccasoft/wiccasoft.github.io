@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-bkz berat albayrak süleyman soylu arasındaki şakalaşma
+bkz berat albayrak süleyman soylu arasındaki kelli felli şakalaşma
 bkz berat albayrakın süleyman soylunun keline bakışı
 bkz süleymanın keline şaplak atmasınlar diye bekçilerle gezmesi
 bkz süleymanın pek bi alıngan olması
