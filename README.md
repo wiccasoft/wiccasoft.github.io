@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz şaka maka rte nin merali hoplatacağı gerçeği
 bkz şaka maka meralin taş gibi olması
 bkz ucuna tarmalı bağlanmış uçak prototipü görünce götü düşen meral
 bkz neyflix ceosunun topuklaması
