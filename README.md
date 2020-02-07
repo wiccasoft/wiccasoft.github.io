@@ -3,6 +3,7 @@
 <!-- 
 https://space.stackexchange.com/ 
 bkz rte babanızı sikse 
+https://www.uludagsozluk.com/k/40-y%C4%B1ld%C4%B1r-doktora-gitmeyen-adam/ bkz sputnik linki attım tıklağyın
 https://kalbikara.uludagsozluk.com/ bkz kalbikara evlat olsa severmisiniz
 bkz polisler sevilip bekçiler sevilmemesi
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
