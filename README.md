@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/rte-ye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/ sal gitsin kankağ
+https://www.uludagsozluk.com/k/adonisi-olmayan-erkek-vs-migros-po%C5%9Feti/ vay arkadaş bim poşeti olduk iyi mi
 https://eksisozluk.com/asansorde-damacanaya-iseyen-sucu--6356452?a=popular vay arkadaş kutsal damacana gibi
 https://www.uludagsozluk.com/k/ankarada-k%C4%B1z%C4%B1n%C4%B1-%C3%B6ld%C3%BCren-baba/ vay amk neler oluyo hayatta
 https://eksisozluk.com/siddete-ugrayan-kadini-kurtarirken-katil-olan-genc--6356346?a=popular naptın sen yeğen yav
