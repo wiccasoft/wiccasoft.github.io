@@ -2,7 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
-bkz süleyman soylunun içişleri bakanlığı sitesinin kapaması
+bkz süleyman soylunun içişleri bakanlığı sitesine kel fotolarımı atmayın demesi
 https://www.uludagsozluk.com/k/en-son-kimi-affettin/ hadi bakalım genşler çalışın biraz
 bkz süleyman soylunun keline şaplak atanlara atsınlar canım çocuk onlar demesi
 https://kalbikara.uludagsozluk.com/ bkz tanısanız siz de seversiniz
