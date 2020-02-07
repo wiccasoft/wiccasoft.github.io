@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=4MRNTOHrJzw 
 https://www.uludagsozluk.com/k/bankac%C4%B1-kad%C4%B1nlar%C4%B1n-at-gibi-olmas%C4%B1/&w=gd
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular lol
-https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullanıp zengin olduklarını sanmaları
+https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullananları zengin olduklarını sanmaları
 -->
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
