@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz meral akşenir herşey türk için türkiye için demesi
 bkz meral akşenir kılıçdaroğlan görüşmesinin olumlu geçmesi
 bkz abdullah gülün meral akşenere kırmızı ışık yakması
 bkz facebook instagram twitter kullanmayan erkeğ
