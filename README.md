@@ -4,6 +4,7 @@
 https://space.stackexchange.com/ 
 https://kalbikara.uludagsozluk.com/
 bkz tayyip babanız olsa naparsınız
+https://www.uludagsozluk.com/k/intihar-eden-adama-ne-denir/&w=bg
 bkz sevdiğiniz kızın kilodunda babasının spermini bulmak
 https://www.uludagsozluk.com/k/sevdi%C4%9Finiz-k%C4%B1z%C4%B1-babas%C4%B1yla-sevi%C5%9Firken-yakalamak/
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
