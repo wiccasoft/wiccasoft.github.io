@@ -4,6 +4,7 @@
 https://www.youtube.com/watch?v=4MRNTOHrJzw 
 https://www.uludagsozluk.com/k/bankac%C4%B1-kad%C4%B1nlar%C4%B1n-at-gibi-olmas%C4%B1/&w=gd
 https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular lol
+https://www.uludagsozluk.com/k/havvan%C4%B1n-can%C4%B1-elma-%C3%A7ekti-adem-cennetten-kovuldu/ lol
 https://eksisozluk.com/abdulkerim-karaagac--6355632?a=popular bkz şimdi ananı laciverde boyadım
 https://www.uludagsozluk.com/k/czn-burak-sevgilisi/ czn burak kim amk
 https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullananların zengin olduklarını sanmaları
