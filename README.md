@@ -2,6 +2,7 @@
 
 <!--
 bkz cnn turk çakılınca sevinen kürtler
+https://www.uludagsozluk.com/k/erkeklerin-estetik-yaptirmasi/&w=bg ay bu erkeklerin işine akıl sır ermez
 bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı takacaz
 https://www.uludagsozluk.com/k/kardan-adamlar-yaz-gelince-ne-yap%C4%B1yor/ kardan adamlar adam mıdır sorunsalı
