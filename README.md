@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkzx elim kırılsaydı da ekreme vermeyeydim diyen genco
 bkz ekreme verenler ne düşünüyo acaba
 bkz imamaoğlanın süleymanla tokalaşmaması
 bkz süleyman soylunun kel diyene keltoş baban koş demesi
