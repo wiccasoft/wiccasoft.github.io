@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz süleyman soylu babanızı olsa yapacağınız şey
 bkz ben sizin babanızım
 bkz rte babanız olursa yapacağınız şey
 bkz yavşak arsız oç ibnelerden kurtulma yolları
