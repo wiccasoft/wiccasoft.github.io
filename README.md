@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/tatarlar/&w=bg bk tatar ramazan
 bkz süleyamn soylunun keltoç baban koç diyenlere gülmesi
 bkz süleyman soylunun soyumuz kıpçak tatarlarına dayanır demesi
 bkz hatay da kendini yakan adamın ben yanmazsam nasıl aydınlanır hatay demesi
