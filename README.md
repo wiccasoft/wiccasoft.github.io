@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz mustfa akıncının süleyman soylu arasındaki tatlı diyalog
 bkz süleyman soylunun keltoç baban koç diyenlere gülmesi
 bkz süleyman soylunun kelime şaplak atabilirsiniz demesi
 bkz süleyman soylu nun kel diyenlere desinler canım çocuk onlar demesi
