@@ -3,6 +3,7 @@
 <!-- 
 bkz süleyamn soylunun keltoç baban koç diyenlere gülmesi
 bkz süleyman soylunun soyumuz kıpçak tatarlarına dayanır demesi
+bkz hatay da kendini yakan adamın ben yanmazsam nasıl aydınlanır hatay demesi
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-kel-diyene-soru%C5%9Fturma-a%C3%A7%C4%B1lmas%C4%B1/&w=bg
 https://kirmizicizgi.uludagsozluk.com/ ırk uzmanı
 https://www.uludagsozluk.com/k/tatarlar/&w=bg 
