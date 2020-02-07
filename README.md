@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BCrtle%C5%9Fmi%C5%9F-%C3%A7e%C3%A7enler/&w=bg
+https://www.uludagsozluk.com/k/lazlar-ermeni-k%C3%BCrt-k%C4%B1rmas%C4%B1d%C4%B1r/&w=bg
 bkz 3 sayfa gazete haberi bulup ona küfr etmek
 bkz beyin cerrahı olup kimlerle muhattap olmak
 https://www.youtube.com/watch?v=RaJHr9ThK5k ben aslında yoğum
