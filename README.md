@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
+https://www.youtube.com/watch?v=RaJHr9ThK5k ben aslında yoğum
 https://www.uludagsozluk.com/k/k%C4%B1z-whatsapp-grubu-adlar%C4%B1/&w=bg bkz erkekleri şapşikliyoruz
 https://www.uludagsozluk.com/k/ilhan-irem/&w=bg bkz sazlıklardan havalanan
 bkz hala halkın arasına karışmadım bu demek oluyor ki hala doğru yoldayım
