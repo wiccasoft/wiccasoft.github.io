@@ -5,6 +5,7 @@ bkz ankarada kızını öldüren onurlu baba
 bkz kızını siktirecek kadar gavat olmak
 bkz ankarada kızını siken damadı beş yerinden bıçakladı
 bkz süleyman soylunun kel değilim saç ektirmedim demesi
+https://www.uludagsozluk.com/k/islam-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-bulu%C5%9Fma-noktas%C4%B1-ek%C5%9Fi-s%C3%B6zl%C3%BCk/
 https://www.uludagsozluk.com/k/kesim-hatal%C4%B1-1-tl-sini-100-bin-liraya-satan-adam/ vay amk
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-kel-diyene-soru%C5%9Fturma-a%C3%A7%C4%B1lmas%C4%B1/
 bkz babasına söven gencin babası pompalı tüfekle dehşet saçtı
