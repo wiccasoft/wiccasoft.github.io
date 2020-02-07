@@ -1,50 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
-<!-- 
-bkz türkleşmiş metaller
-bkz cnn turk izlemem diyen kürt
-bkz pompalı tüfekle dehşet saçtı
-bkz kazı yiyen cani doktorun salınması
-bkz alkali metallerin türk olduğu gereçeği
-https://www.youtube.com/watch?v=6G6Z60EPieA
-bkz kızının sevgilisini bıçakladı köpeğine yedirtti işte o cani
-bkz lazların kürtleşmiş çeçenler olduğu gerçeği
-bkz abhazların abaza lazlar olduğu gerçeği
-bkz muğla sıtkı koçman okulunda köpeği tekmeleyen caninin laz çıkması
-bkz metallicanın solistinin ermeni çeçen kırması olduğu gerçeği
-bkz türklerin üstün arı ırk olduğu söylentileri
-bkz ermeni kürt kırması köpeği tekmeleyen beyin cerrahı
-bkz eski sevigilisini kocasına öldürttü çöpe attı
-https://www.uludagsozluk.com/k/%C3%A7ingeneler-vs-k%C3%BCrtler/&w=bg
-https://www.uludagsozluk.com/k/k%C3%BCrtle%C5%9Fmi%C5%9F-%C3%A7e%C3%A7enler/&w=bg
-https://www.uludagsozluk.com/k/lazlar-ermeni-k%C3%BCrt-k%C4%B1rmas%C4%B1d%C4%B1r/&w=bg
-https://www.uludagsozluk.com/k/vikinglerin-b%C3%BCy%C3%BCk-tanr%C4%B1s%C4%B1-odin-ve-thor-t%C3%BCrk-olmas%C4%B1/&w=bg
-bkz 3 sayfa gazete haberi bulup ona küfr etmek
-bkz beyin cerrahı olup kimlerle muhattap olmak
-https://www.youtube.com/watch?v=RaJHr9ThK5k ben aslında yoğum
-https://eksisozluk.com/abdulkerim-karaagac--6355632?a=popular bkz şimdi ananı laciverde boyadım
-https://www.uludagsozluk.com/k/k%C4%B1z-whatsapp-grubu-adlar%C4%B1/&w=bg bkz erkekleri şapşikliyoruz
-https://www.uludagsozluk.com/k/ilhan-irem/&w=bg bkz sazlıklardan havalanan
-bkz hala halkın arasına karışmadım bu demek oluyor ki hala doğru yoldayım
-https://www.uludagsozluk.com/k/arac%C4%B1n%C4%B1-%C3%A7alan-genci-silah%C4%B1yla-%C3%B6ld%C3%BCren-polis/&w=bg
-https://www.youtube.com/watch?v=4MRNTOHrJzw 
-bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
-https://www.uludagsozluk.com/k/bankac%C4%B1-kad%C4%B1nlar%C4%B1n-at-gibi-olmas%C4%B1/&w=gd
-https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular lol
-https://www.uludagsozluk.com/k/havvan%C4%B1n-can%C4%B1-elma-%C3%A7ekti-adem-cennetten-kovuldu/ lol
-https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-geri-zekal%C4%B1-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=gd lol
-https://eksisozluk.com/abdulkerim-karaagac--6355632?a=popular bkz şimdi ananı laciverde boyadım
-https://eksisozluk.com/5-kiloluk-kopegi-olduresiye-tekmeleyen-dis-hekimi--6355536?a=popular bkz abdulkerim
-https://eksisozluk.com/iphone-alamayip-xiaomi-cok-iyi-diyen-fakir--6355178?a=popular bkz abdulkerim karaağaç
-https://eksisozluk.com/turklerin-geri-kalma-nedenleri--1291329?a=popular apple kullananların zengin olduklarını sanmaları
-https://eksisozluk.com/cuneyt-ozdemiri-boykot-ediyoruz--6355435?a=popular apple ın da çok şeyindeydi
-https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/ bkz ekşiciler
-https://eksisozluk.com/5-kiloluk-kopegi-olduresiye-tekmeleyen-dis-hekimi--6355536?a=popular adresini ver kankağ adresiniiii
-https://eksisozluk.com/cahil-kesime-sistemi-sorgulamayi-ogretiyoruz--6355010?a=popular hadi bakalım göreyim sizi
-https://eksisozluk.com/14-subatta-sozluk-erkeklerine-hediye-gonderiyoruz--6288727?a=popular hadi bakalım inşallah
-https://eksisozluk.com/mucize-doktor--6071484?a=popular bkz mucize doktor dizisindeki böcek suratlı ergen
--->
-
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
 
 [![Image](waste/Screenshot_2020-02-03_13-16-35.png)]( https://www.youtube.com/watch?v=7YuxHRDQXpE )
