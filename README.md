@@ -4,7 +4,7 @@
 bkz cnn turk çakılınca sevinen kürtler
 bkz ucuna taramalı takılmış savaş uçağı görünce it gibi dağılan düşmanlar
 https://www.uludagsozluk.com/k/taklit-e-devlet-sitesi-ile-doland%C4%B1r%C4%B1c%C4%B1l%C4%B1k-yapmak/ zuahhaha
-bkz ucuna taramalı takılmış yüzde 99 yerli ve %1 türk savaş uçağımız göklerde
+bkz ucuna taramalı takılmış yüzde 99 yersiz ve %1 türk savaş uçağımız göklerde
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular ucuna taramalı taktık olm
 https://www.uludagsozluk.com/k/kardan-adamlar-yaz-gelince-ne-yap%C4%B1yor/ kardan adamlar adam mıdır sorunsalı
 https://eksisozluk.com/hoslanilan-erkegin-iphone-5s-kullanmasi--6356130?a=popular vay arkadaş zorla 5s aldıracaklar
