@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+
 https://www.uludagsozluk.com/k/rte-ye-bir-%C5%9Fark%C4%B1-b%C4%B1rak/ geliyorum bebeğim
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 yerli savaş uçağının kanırtarak gideceği gerçeği
@@ -10,6 +11,7 @@ damacanaya işeyen gencin kutsal bu demesi
 ahmet hakanın cnn turk çakıldıysa cnn kürt niye çakılmiy demesi
 cennete giden yol iyi niyet tohumlarıyla döşenmiştir amına koyacağız düşmanların
 yerli savaş uçağını hangardan çıksrtacağız ucuna taramalı takacaz taraya taaya gidecek
+https://www.uludagsozluk.com/k/do%C4%9Furdu%C4%9Fu-%C3%A7ocu%C4%9Fu-%C3%A7%C3%B6pe-atan-14-ya%C5%9F%C4%B1ndaki-cani-kad%C4%B1n/
 https://eksisozluk.com/yerli-savas-ucagini-2023te-hangardan-cikaracagiz--6356269?a=popular 
 https://www.youtube.com/watch?v=iteqUmkms9M yerli uzay gemisine var mısınız genşler
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/ gizli proje olm her yerde anlatmayın
