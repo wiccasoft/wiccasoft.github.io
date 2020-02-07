@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+bkz rte babanızı sikse 
 https://www.uludagsozluk.com/k/fatih-tezcan-kimdir/
 bkz rte babanız olursa annenizi siktirirmisiniz
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
