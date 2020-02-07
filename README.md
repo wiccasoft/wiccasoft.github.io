@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz ali babacanın ben sizin babanızım ben dersem o olur demesi
 bkz ekşicilerin süleyman soyluya küsmesi
 bkz ekşicilerin cüneyt özdemire küsmesi
 bkz ekşicilerin rte ye küsmesi
