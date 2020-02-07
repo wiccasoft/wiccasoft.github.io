@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg hayallerde yaşıyor bazı ibneler
 https://kalbikara.uludagsozluk.com/ seni sıçan annenin götüne babanın kafasını sokarım oç
 https://kalbikara.uludagsozluk.com/ seni sıçan annenin götüne itfaiyye hortumu sokayım veled
 https://kalbikara.uludagsozluk.com/ seninsıçan annenin götüne rte sokayım amk veledi zinası
