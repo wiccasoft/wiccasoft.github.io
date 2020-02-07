@@ -2,6 +2,7 @@
 
 <!--
 bkz hadiseyi seksi bulan erkeğ
+bkz rte nin hadiseyi seksiğ bulması
 bkz beni süleyman soylu sanan ekşiciler
 bkz süleyman soylunun kel diyenler dava açması
 bkz ekşideki oç larının sıkması küfr den de anlamıyo yavşak oç ları
