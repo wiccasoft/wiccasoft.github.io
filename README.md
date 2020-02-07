@@ -1,8 +1,11 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!-- bkz süleyamn soylunun keltoç baban koç diyenlere gülmesi
+<!-- 
+bkz süleyamn soylunun keltoç baban koç diyenlere gülmesi
+bkz süleyman soylunun soyumuz kıpçak tatarlarına dayanır demesi
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-ya-kel-diyene-soru%C5%9Fturma-a%C3%A7%C4%B1lmas%C4%B1/&w=bg
 https://kirmizicizgi.uludagsozluk.com/ ırk uzmanı
-https://www.uludagsozluk.com/k/tatarlar/&w=bg bkz süleyman soylunun soyumuz kıpçak tatarlarına dayanır demesi
+https://www.uludagsozluk.com/k/tatarlar/&w=bg 
 -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
