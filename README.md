@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
-damacanaya işeyen genci beyin kanırtan yorumu
+damacanaya işeyen gencin beyin kanırtan yorumu
 cnn turkün türk önde türk ileri demesi
 damacanaya işeyen gencin kutsal bu demesi
 ahmet hakanın cnn turk çakıldıysa cnn kürt niye çakılmiy demesi
