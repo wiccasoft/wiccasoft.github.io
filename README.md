@@ -2,7 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
-https://kalbikara.uludagsozluk.com/ senin sıçan anneni sikeyim orospunun sıçtığı velet
+https://kalbikara.uludagsozluk.com/ senin sıçan annenin götüne rte sokayım  
 https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
 https://www.uludagsozluk.com/k/intihar-eden-adama-ne-denir/&w=bg annenin amı denir
 https://kalbikara.uludagsozluk.com/ senni anneni sikeyim orospunun sıçtıtğı velet
