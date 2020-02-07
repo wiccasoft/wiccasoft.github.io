@@ -2,6 +2,7 @@
 
 <!-- 
 bkz türkleşmiş metaller
+bkz alkali metallerin türk olduğu gereçeği
 bkz lazların kürtleşmiş çeçenler olduğu gerçeği
 bkz metallicanın solistinin ermeni çeçen kırması olduğu gerçeği
 bkz türklerin üstün arı ırk olduğu söylentileri
