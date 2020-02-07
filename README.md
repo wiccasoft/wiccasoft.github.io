@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz hatay valiliğinde yyanan adamın tatar çıkması
 bkz ahmat hakanın ekranı 4 e bölüp yayın sunması
 bkzk tatarlar vs kıpçaklar
 bkz hatay valisinin yanan adama yansın ibne demesi
