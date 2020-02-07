@@ -3,6 +3,8 @@
 <!-- 
 https://space.stackexchange.com/ 
 https://www.uludagsozluk.com/k/fatih-tezcan-kimdir/
+bkz rte babanız olursa annenizi siktirirmisiniz
+https://www.uludagsozluk.com/k/rte-baban%C4%B1z-olursa-yapaca%C4%9F%C4%B1n%C4%B1z-%C5%9Fey/
 https://www.uludagsozluk.com/k/nur-fettaho%C4%9Flu/&w=bg bkz fettah oğlan vs bekir oğlan
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg hayallerde yaşıyor bazı ibneler
 https://kalbikara.uludagsozluk.com/ seni sıçan annenin götüne babanın kafasını sokarım oç
