@@ -3,6 +3,7 @@
 <!-- 
 https://space.stackexchange.com/ 
 bkz rte babanızı sikse 
+bkz egemen bağış annenizi sikse
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg 
 bkz ali babacan ben sizin babanızım ben ne dersem o olur dese
 https://www.uludagsozluk.com/k/fatih-tezcan-kimdir/
