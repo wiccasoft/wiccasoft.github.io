@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+bkz evlat olsa sevilmeyecek oç larındaki artış
 https://kalbikara.uludagsozluk.com/ evlat olsa sevilmez amk
 https://kalbikara.uludagsozluk.com/ senin ananı sikeyim şerefesiz oç
 https://kalbikara.uludagsozluk.com/ bu ensest oç anasını sikeym
