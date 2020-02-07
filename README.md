@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
+bkz hala halkın arasına karışmadım bu demek oluyor ki hala doğru yoldayım
+https://www.uludagsozluk.com/k/arac%C4%B1n%C4%B1-%C3%A7alan-genci-silah%C4%B1yla-%C3%B6ld%C3%BCren-polis/&w=bg
 https://www.youtube.com/watch?v=4MRNTOHrJzw 
 bkz hala adıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/bankac%C4%B1-kad%C4%B1nlar%C4%B1n-at-gibi-olmas%C4%B1/&w=gd
