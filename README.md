@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 yerli savaş uçağının kanırtarak gideceği gerçeği
 damacanaya işeyen gencin beyin kanırtan yorumu
 cnn turkün türk önde türk ileri demesi
