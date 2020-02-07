@@ -4,6 +4,7 @@
 https://space.stackexchange.com/ 
 https://kalbikara.uludagsozluk.com/
 bkz tayyip babanız olsa naparsınız
+bkz ben senle soğan ekmek yer babana çay yapar lig tv izlerim diyen kız
 bkz tayyipni kızını sikerkene odaya damadın girmesi
 bkz sevdiğiniz kızı babasıyla sevişirken yakalamak
 bkz ben senle soğan ekmek yerim diyen kızın babasıyla sevişmesi
