@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+https://kalbikara.uludagsozluk.com bkz tanısanız evlat gibi seversiniz o derece
 https://kirmizicizgi.uludagsozluk.com/ ırk uzmanı
 bkz cips yerken kart kurt sesin kürtleri hatırlatması
 bkz karamollaoğlanın madımakı fişeklediği gerçeği
