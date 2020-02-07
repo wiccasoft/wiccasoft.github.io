@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
-bkz cem yılmazın aşk dünyası
+bkz cem yılmazın hoplatmadığı karılar
 bkz cem yılmaz serenay sarıkaya aşkı
 bkz cem yılmazın jeff bezosa paran kadar konuş demesi
 bkz jeff bezosun ah para olacaktı seranayı ben hoplatacaktım demesi
