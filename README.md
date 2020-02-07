@@ -4,6 +4,7 @@
 https://space.stackexchange.com/ 
 https://www.uludagsozluk.com/e/42820943/
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ 
+https://www.uludagsozluk.com/k/madem-kriz-var-neden-park-edecek-yer-yok/
 https://www.uludagsozluk.com/k/ben-seninle-so%C4%9Fan-ekmekte-yerim-diyen-k%C4%B1z/ 
 https://www.uludagsozluk.com/k/maa%C5%9F%C4%B1ndan-pahal%C4%B1-cep-telefonu-alan-ki%C5%9Fi/
 -->
