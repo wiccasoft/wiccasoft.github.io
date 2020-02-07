@@ -2,6 +2,7 @@
 
 <!-- 
 bkz türkleşmiş metaller
+bkz lazların kürtleşmiş çeçenler olduğu gerçeği
 bkz metallicanın solistinin türk olduğu gerçeği
 https://www.uludagsozluk.com/k/k%C3%BCrtle%C5%9Fmi%C5%9F-%C3%A7e%C3%A7enler/&w=bg
 https://www.uludagsozluk.com/k/lazlar-ermeni-k%C3%BCrt-k%C4%B1rmas%C4%B1d%C4%B1r/&w=bg
