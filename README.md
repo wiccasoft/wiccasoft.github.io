@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!--
+damacanaya işeyen gencin kutsal bu demesi
 ahmet hakanın cnn turk çakıldıysa cnn kürt niye çakılmiy demesi
 cennete giden yol iyi niyet tohumlarıyla döşenmiştir amına koyacağız düşmanların
 yerli savaş uçağını hangardan çıksrtacağız ucuna taramalı takacaz taraya taaya gidecek
