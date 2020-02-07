@@ -3,6 +3,7 @@
 <!-- 
 https://space.stackexchange.com/ 
 bkz rte babanızı sikse 
+https://www.uludagsozluk.com/k/hizmet%C3%A7iler-dizisi/&w=bg bkz hizmetçiler dizi
 https://www.uludagsozluk.com/k/abdullah-g%C3%BCl/&w=bg bkz abdullah gül
 bkz egemen bağış annenizi sikse
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg 
