@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 <!-- 
+bkz 7 şubat 2020 rte nin uçan savaş gemisi lanmanını yapması
 bkz yüzde yüz yerli ve milli uçan savaş gemisi projesi 2050
 bkz rtenin savaş arabası projesini rafa kaldırdım demesi 
 bkz rte nin rt izlediği gerçeği
