@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz kıpçak abhazların ermeni kürt karışımı olduğu gerçeği
 https://www.uludagsozluk.com/k/suriyelilerin-arap-olmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/i-selim-i-t%C3%BCrk-b%C3%BCy%C3%BC%C4%9F%C3%BCnden-saymak/ tam bi ibnelik
 https://www.uludagsozluk.com/k/cristiano-ronaldo-dos-santos-aveiro/&w=bg bkz isminden futbolcu olduğu anlaşılan isimler
