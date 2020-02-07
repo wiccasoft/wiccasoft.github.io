@@ -2,6 +2,7 @@
 
 <!-- 
 https://space.stackexchange.com/ 
+https://www.uludagsozluk.com/k/fatih-tezcan-kimdir/
 https://www.uludagsozluk.com/k/nur-fettaho%C4%9Flu/&w=bg bkz fettah oğlan vs bekir oğlan
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg hayallerde yaşıyor bazı ibneler
 https://kalbikara.uludagsozluk.com/ seni sıçan annenin götüne babanın kafasını sokarım oç
