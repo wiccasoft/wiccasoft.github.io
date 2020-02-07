@@ -5,7 +5,7 @@ https://space.stackexchange.com/
 bkz tayfur sökmeninin sü,leyman soyluya kalıbının adamı ol demesi
 bkz mustafa akıncının ikinci taykur sökmen olmayacağım açıklaması
 https://www.uludagsozluk.com/k/ikinci-bir-tayfur-s%C3%B6kmen-olmayaca%C4%9F%C4%B1m/
-bkz hatayda yakan adamı nsen yanmazsam ben yaznmasam naıll aydınlık olur demesi
+bkz hatayda yanan adamın sen yanmazsam ben yanmazsam naıll aydınlık olur demesi
 bkz hatay valiliğinde yakan adamın siz yanmayın diye yaktım kendimi demesi
 https://www.uludagsozluk.com/k/hatay-valili%C4%9Fi-%C3%B6n%C3%BCnde-kendini-yakan-adam/&w=bg yazık ya bu halk bu mu ya
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-halk%C4%B1n%C4%B1n-ekseriyetle-geri-zekal%C4%B1-olmas%C4%B1/ günaydın 
