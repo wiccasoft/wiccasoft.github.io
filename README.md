@@ -2,6 +2,7 @@
 
 <!-- 
 bkz bunu anana sorsana delikanlı
+bkz kadınalr oalrka erkek yazarları meşaj yağmuruna tutuyoruz asdsada
 bkz bir kadın olarak susun amk şişkoları
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
 bkz tatarların çingenleşmiş kürd oldukları gerçeği
