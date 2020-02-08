@@ -2,6 +2,7 @@
 
 
 <!--
+bkz ilk buluşmaya kıza patlak topla gelen damat
 bkz uyurken sevdiceğine buse konduran erkek
 bkz atatürkün ben sizin atanızım ben ne dersem o olur bakışı
 bkz mustaf kemal atatürkün emrettiğ bursaspor maçı
