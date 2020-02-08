@@ -9,6 +9,7 @@ bkz ozan güvenin tom hardy e sen kaç yaşındasın demesi
 bkz mazhar lansoun tom hardy sen kimsin diye kovması
 bkz angelina jolie cmylmz aşkı
 bkz aslı bekiroğlu vs sharon stone
+https://www.uludagsozluk.com/k/evde-%C3%A7%C4%B1plak-dola%C5%9Fan-erkek/ bkz cmylmz
 https://www.uludagsozluk.com/k/hanife-g%C3%BCrdal/&w=bg bkz hanife gürdalın demeyi kapaması
 https://www.uludagsozluk.com/e/42824766/
 bkz serenay sarıkaya cmylmz aşkı
