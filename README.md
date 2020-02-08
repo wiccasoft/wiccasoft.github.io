@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg bkz hehehehe
 https://www.uludagsozluk.com/k/8-%C5%9Fubat-2020-fenerbah%C3%A7e-alanyaspor-ma%C3%A7%C4%B1/&w=bg bkz anlatma olm 
 https://www.uludagsozluk.com/k/aynada-kendi-poposunu-izleyen-erkek/ bkz ikinci selim
 https://www.uludagsozluk.com/k/o%C4%9Flanc%C4%B1-padi%C5%9Fahlar/ bkz üçüncü selim
