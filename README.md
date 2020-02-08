@@ -2,7 +2,7 @@
 
 
 <!--
-bkz 41 yaşında ki oğlan 19 yaşındaki kadın ilişkisi
+bkz 41 yaşında ki bakir oğlan 19 yaşındaki kadın ilişkisi
 bkz sevdiceğine uyurken canısı dinleten erkek
 bkz ilk buluşmaya kıza patlak topla gelen damat
 bkz uyurken sevdiceğine buse konduran erkek
