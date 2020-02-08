@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+https://www.uludagsozluk.com/k/max-kruse/&w=bg bkz it olu it
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz osmaniyespor
 bize her yer trap zone itoğlu itler yaşasın globalism kemalin itlerine ölüm
 https://www.uludagsozluk.com/k/ikinci-bir-tayfur-s%C3%B6kmen-olmayaca%C4%9F%C4%B1m/&w=bg
