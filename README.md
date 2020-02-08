@@ -2,6 +2,7 @@
 
 <!--
 https://www.youtube.com/watch?v=JrBdYmStZJ4
+https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular neler dönmüş serhat ya
 bkz seranay sarıkayanın gerekirse cemyılmazın götündeki kadayıfı yerim demesi
 bkz serenay sarıkayayı seksi bulan fok balığı kılıklı adam
 bkz serenay sarıkayanın sümüğünü yerin diyen fok balığı kılıklı adam
