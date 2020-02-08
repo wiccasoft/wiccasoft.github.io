@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz mazhar lansonun tom hardy sen kimsin diye kovması
+bkz ozan güvenin tom hardy e sen kaç yaşındasın demesi
+bkz mazhar lansoun tom hardy sen kimsin diye kovması
 bkz angelina jolie cmylmz aşkı
 bkz aslı bekiroğlu vs sharon stone
 https://www.uludagsozluk.com/k/hanife-g%C3%BCrdal/&w=bg bkz hanife gürdalın demeyi kapaması
