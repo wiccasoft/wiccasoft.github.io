@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz ali koçun itleri durduramaz bizleri
+bkz baba parası yiyen itler korkutamaz bizleri
 https://www.youtube.com/watch?v=-z2dAjqP69Y ersun yanalın itleri durduramaz bizleri
 https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
