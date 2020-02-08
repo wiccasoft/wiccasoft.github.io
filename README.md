@@ -3,7 +3,7 @@
 <!--
 bkz angelina jolie cmylmz aşkı
 bkz aslı bekiroğlu vs sharon stone
-https://www.uludagsozluk.com/k/hanife-g%C3%BCrdal/&w=bg bkz hanife gürdalın demey cmylmz ye kapaması
+https://www.uludagsozluk.com/k/hanife-g%C3%BCrdal/&w=bg bkz hanife gürdalın demeyi kapaması
 https://www.uludagsozluk.com/e/42824766/
 bkz serenay sarıkaya cmylmz aşkı
 bkz hanife fürdalın deme yi kilitlemesi
