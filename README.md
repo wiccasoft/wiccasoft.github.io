@@ -2,6 +2,7 @@
 
 
 <!--
+bkz cmylmz in fanboylarının açığını bulması
 bkz ne dediğiniz anlaşılmıyo bakışı
 https://www.youtube.com/watch?v=TJsJmX3iQkY 
 bkz hani marjinal bizdik
