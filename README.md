@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
-bkz ekşide kadın taklidi yapan şişko ibneler
+bkz lan ibneler nabıyonuz orda
+bkz ekşide kadın taklidi yapan gençli konuşan şişko ibneler
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz bunu anana sorsana delikanlı
 bkz tatarların çingenleşmiş kürd oldukları gerçeği
 bkz bi kadın olarak susun mınakodumun barzo hanfendileri
