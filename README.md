@@ -1,26 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!-- 
-bkz bir kadın olarak susun bilader
-bkz bir kadın olaraktan sonrasını okumadım
-bkz magazin takip eden şempanze zekası
-bkz ekranların sevilen siması fok balığı yine kırdı geçirdi
-bkz ünlü fok balığı tipli şaklaban yine hangi karıyı hoplattı
-bkz fok balığı tipli heriflere tapıyolar amk nasıl ülke lan orası
-bkz sevilen sanatçı yine hayranlarını şoke etti
-bkz ünlü şaklaban kameralara öfke kustu
-bkz ünlü komedyen yine hangi ünlü mankeni hoğlattı az sonraaaaa
-bkz ünlü şarkıcının bir de annesini görün galeriğ tıklağğ hadi be kankağ tıklağ ne kaybeden
-bkz ünlülerin fan sayfalarındaki gerizekalı ergenler
-bkz türkiyedeki skimsonik ünlülerin kendini hollywood yıldızı sanması
-https://www.uludagsozluk.com/k/bensu-soral-%C4%B1n-hayran%C4%B1-taraf%C4%B1ndan-yap%C4%B1lan-heykeli/
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
-https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular 
-https://www.youtube.com/watch?v=MVvmxbXfa6w bkz mahar lanson dinlemiyoruz kampanyası
-bkz mahar lanson yütüp kanalına giriyoz vidyolarını eksiliyoruz kampanyası
-bkz gadın yazarlar olarak erkek yazarları meşaj yağmuruna yuyuyoruz kampanyası
--->
-
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
