@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz imamaoğlanın ın her şey çok güzel oldu tabi benim için bakışı
 bkz cmylmz ın her şey çok güzel oldu tabi benim için bakışı
 bkz imamaoğlanın bana mı dedin anlamadım bakışı
 bkz imamaoğlanın hoplattığı karı ve cmylmz nin hoplattığı karı
