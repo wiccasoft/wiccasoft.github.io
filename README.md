@@ -3,7 +3,7 @@
 <!--
 bize her yer trap zone itoğlu itler yaşasın globalism kemalin itlerine ölüm
 https://www.uludagsozluk.com/k/ikinci-bir-tayfur-s%C3%B6kmen-olmayaca%C4%9F%C4%B1m/&w=bg
-şampiyonnn trabzon oldiiiii noldi renginiz dondiiiiiiiiiii
+şampiyonnn trabzon oldiiiii noldi renginiz dondiiiiiiiiiii it ogli itler
 https://www.youtube.com/watch?v=-NxN0Y5mrRc şımarık oç spor
 https://www.youtube.com/watch?v=-z2dAjqP69Y ali koçun itleri durduramaz bizleri
 https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg noldii renciniz soldiiiii
