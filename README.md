@@ -2,6 +2,7 @@
 
 <!--
 trabzon pontus rumundur öyle kalcaktır
+sonra döndüm dedimki iyi ki beşikdüzülüyüm
 yaşasın pontus rum imparatorluğu pontus rum eyaletini geri istiyoruz
 https://www.uludagsozluk.com/k/max-kruse/&w=bg bkz it olu it
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz türkçü it
