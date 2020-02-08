@@ -4,6 +4,7 @@
 bkz bir kadın olarak susun bilader
 bkz bir kadın olaraktan sonrasını okumadım
 bkz magazin takip eden şempanze zekası
+bkz sevilen sanatçı yine kafa sikti
 bkz ünlü fok balığı tipli şaklaban yine hangi karıyı hoplattı
 bkz fok balığı tipli heriflere tapıyolar amk nasıl ülke lan orası
 bkz sevilen sanatçı yine hayranlarını şoke etti
