@@ -2,7 +2,7 @@
 
 <!-- 
 bkz aslı bekiroğlu vs sharon stone
-bkz çatlasanız da patlasanız da trabzonspor şampiyon
+bkz çatlasanız da patlasanız da trap zone şampiyon
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg bkz ergenlerden tiksinmek
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/ bkz yobaz orospu çocukları
 https://www.uludagsozluk.com/k/freud-un-%C3%A7ok-bo%C5%9F-konu%C5%9Fmas%C4%B1/ bunu anana sorsana delikanlı
