@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=xvvx-0G7XHc
 bkz uyurken osuran eşini izlerken malafatı sıvazlayan erkek
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz damat
 https://www.uludagsozluk.com/k/uyuyan-e%C5%9Fini-seyrederken-g%C3%B6zleri-dolan-erkek/ bkz rte
