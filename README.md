@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz imamaoğlanın hoplattığı karı ve cmylmz nin hoplattığı karı
 bkz hani marjinal bizdik esprisi yapıp karı hoplatmak
 bkz cemyılmazın içinde gezdirdiği karı
 https://www.haberturk.com/cem-yilmaz-fena-patladi-yeni-cem-yilmazlar-cikaracakmis-2276923-magazin
