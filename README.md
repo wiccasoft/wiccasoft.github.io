@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/eski-sevgilim-yatakta-senden-daha-iyiydi-diyen-k%C4%B1z/&w=bg bkz serenay sarıkaya
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz okumadım kanka
 bkz cem yılmaz aleyna tilki aşkının yolda olması
 https://www.uludagsozluk.com/k/evde-%C3%A7%C4%B1plak-dola%C5%9Fan-erkek/&w=gd bkz cmylmz
