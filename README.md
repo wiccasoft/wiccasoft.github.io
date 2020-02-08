@@ -2,6 +2,7 @@
 
 
 <!--
+bkz mustafa kemal atatürk vs recep tayyip doğan
 bkz uyurken devdiceğini seyreden erkek
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz rte
 bkz receptayyipdoğanın herşey çok güzel zaten tabi benim için bakışı
