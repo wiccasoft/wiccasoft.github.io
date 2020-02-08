@@ -2,7 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
-bkz yılmaz erdoğanın telsim reklamındaki genco
+bkz yılmaz erdoğanın telsim reklamındaki azıyla telefon sesi yapan genco
 bkz mazhar lansonun şapkasız çıkmama abi demesi
 bkz mashar lanson gelmezse çocumu keserim diyen genco
 bkz mashar lansonu istiyorum buraya gelecek diyen genco
