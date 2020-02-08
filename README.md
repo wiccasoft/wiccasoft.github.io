@@ -3,7 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
-bkz ilk buluşmada kızı imamaoğlunun oğluyum diye patlatan genç
+bkz ilk buluşmada kızı imamoğlunun oğluyum diye patlatan genç
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-kemalizm-i-kovmas%C4%B1/
 https://www.uludagsozluk.com/k/istanbulda-toplu-ta%C5%9F%C4%B1maya-y%C3%BCzde-35-zam/
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-erdo%C4%9Fandan-g%C3%BCvenilir-olmas%C4%B1/
