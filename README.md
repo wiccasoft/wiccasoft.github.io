@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
+https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
 salı günü fetönün ayağını açıklayacam sabırlı olun hele yo
 https://www.uludagsozluk.com/k/izmirli-erkeklerin-afedersiniz-biraz-%C5%9Fey-olmas%C4%B1/ puşt gibi ibne gibin bişi
 https://www.uludagsozluk.com/k/celaleddin-harzem%C5%9Fah/&w=bg bkz kıpçakları küçümseyen itoğlu it
