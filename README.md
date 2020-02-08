@@ -2,7 +2,7 @@
 
 <!--
 https://www.youtube.com/watch?v=-NxN0Y5mrRc şımarık oç spor
-https://www.youtube.com/watch?v=-z2dAjqP69Y ersun yanalın itleri durduramaz bizleri
+https://www.youtube.com/watch?v=-z2dAjqP69Y ali koçun itleri durduramaz bizleri
 https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
