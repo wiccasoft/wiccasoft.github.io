@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=d8-soriINcA
 bkz 41 yaşında ki bakir oğlan 19 yaşındaki kadın ilişkisi
 bkz sevdiceğine uyurken canısı dinleten erkek
 bkz ilk buluşmaya kıza patlak topla gelen damat
