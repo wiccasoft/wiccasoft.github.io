@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+bkz angelina jolie cmylmz aşkı
 bkz aslı bekiroğlu vs sharon stone
 https://www.uludagsozluk.com/k/hanife-g%C3%BCrdal/&w=bg bkz hanife gürdalın demey cmylmz ye kapaması
 https://www.uludagsozluk.com/e/42824766/
