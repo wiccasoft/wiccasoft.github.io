@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz çatlasanız da patlasanız da trabzonspor şampiyon
 bkz aslı bekiroğlu vs sharon stone
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg bkz ergenlerden tiksinmek
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/ bkz yobaz orospu çocukları
