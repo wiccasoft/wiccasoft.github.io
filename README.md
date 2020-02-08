@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+https://www.uludagsozluk.com/e/42824766/
 bkz serenay sarıkaya cmylmz aşkı
 bkz hanife fürdalın deme yi kilitlemesi
 bkz yılmaz erdoğan telsim reklamında azıyla telefon sesi yapan genco
