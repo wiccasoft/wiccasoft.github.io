@@ -2,7 +2,7 @@
 
 <!--
 bkz ben senin bokunu da yerim diyen kız 
-bkz bensenin ayaka parmaklarındaki kiri yalarım diyen kız
+bkz ben soğan ekemk yerine senin ayak parmaklarındaki kiri yalarım diyen kız
 -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
