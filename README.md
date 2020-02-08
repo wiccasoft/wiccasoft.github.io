@@ -5,7 +5,6 @@ sonra dedim ki iyi ki pontus rumum ne mutlu pontus rumuyum diyene
 trabzon pontus rumundur öyle kalcaktır
 https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
-salı günü fetönün ayağını açıklayacam sabırlı olun hele yo
 https://www.uludagsozluk.com/k/izmirli-erkeklerin-afedersiniz-biraz-%C5%9Fey-olmas%C4%B1/ puşt gibi ibne gibin bişi
 https://www.uludagsozluk.com/k/celaleddin-harzem%C5%9Fah/&w=bg bkz kıpçakları küçümseyen itoğlu it
 -->
