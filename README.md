@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz ekşici gencoların mazhar lanson yütüp sayfasına eksiyi basmaları
 bkz ekşici gencoların sümük gibi bişey oldukları gerçeği
 bkz ekşici gencoların akpye yakın isimlere daha çok cacık olmaları
 bkz ekşici gencoların gözüne alişanı kestirmeleri
