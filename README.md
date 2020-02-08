@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz okumadım kanka
 bkz cem yılmaz aleyna tilki aşkının yolda olması
 https://www.uludagsozluk.com/k/evde-%C3%A7%C4%B1plak-dola%C5%9Fan-erkek/&w=gd bkz cmylmz
 bkz fahriye evcan burak özçivit aşkı
