@@ -2,8 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
-bkz ekşcic kadınların meşaj yapmuruna tuttuğu şişko yağlı kafalı ibnelerin güldürmesi 
-bkz ekşici kadınların ekşcici amcaları meşaj yağmuruna tutması
+bkz ekşici kadınların meşaj yağmuruna tuttuğu şişko yağlı kafalı ibnelerin güldürmesi 
 bkz yılmaz erdoğanın telsim reklamındaki azıyla telefon sesi yapan genco
 bkz mazhar lansonun şapkasız çıkmama abi demesi
 bkz mashar lanson gelmezse çocumu keserim diyen genco
