@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-vites-topuzuyla-gelen-k%C4%B1z/ bkz seranay sarıkaya
 https://eksisozluk.com/ilk-bulusma-sonrasinda-kiza-920-tl-kitleyen-genc--6358071?a=popular bkz cmylmz
 https://www.uludagsozluk.com/k/eski-sevgilim-yatakta-senden-daha-iyiydi-diyen-k%C4%B1z/&w=bg bkz serenay sarıkaya
 https://www.uludagsozluk.com/k/denizde-bo%C4%9Fulacak-olsa-kurtaraca%C4%9F%C4%B1n-%C3%BC%C3%A7-insan/ r.t.e
