@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz ekşici gencoların gözüne alişanı kestirmeleri
 bkz ekşici gencoların yeni haber linki aramaları
 bkz mashar lansonun ekşici gencoyu kovması
 bkz mashar lansonun yandım yandım şarksısını ekşici gencolar için yazdım itirafı
