@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+şampiyonnn trabzon oldiiiii noldi renginiz dondiiiiiiiiiii bize her yer tap zone itoğlu itler
 https://www.uludagsozluk.com/k/ikinci-bir-tayfur-s%C3%B6kmen-olmayaca%C4%9F%C4%B1m/&w=bg
 şampiyonnn trabzon oldiiiii noldi renginiz dondiiiiiiiiiii
 https://www.youtube.com/watch?v=-NxN0Y5mrRc şımarık oç spor
