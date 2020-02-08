@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz bir kadın olaraktan sonrasını okumadım
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
 https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular 
 https://www.youtube.com/watch?v=MVvmxbXfa6w bkz mahar lanson dinlemiyoruz kampanyası
 bkz mahar lanson yütüp kanalına giriyoz vidyolarını eksiliyoruz kampanyası
