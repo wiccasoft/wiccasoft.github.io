@@ -2,6 +2,7 @@
 
 
 <!--
+bkz atatürkün ben sizin atanızım ben ne dersem o olur bakışı
 bkz mustaf kemal atatürkün emrettiğ bursaspor maçı
 bkz mustafa kemal atatürk vs recep tayyip doğan
 bkz uyurken devdiceğini seyreden erkek
