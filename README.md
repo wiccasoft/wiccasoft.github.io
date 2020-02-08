@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz burak özçivit sinan akçil aşkı
+bkz fahriye evcan burak özçivit aşkı
+bkz sinan akçil in sen kimsin ya bakışı
 bkz macun kaplıcalı şeyma subaşı aşkı
 bkz hanife gürdal ozan güven aşkı
 bkz ozan güvenin tom hardy e sen kaç yaşındasın demesi
