@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/s%C3%B6rloth-vs-muriqi/&w=bg
 bkz ilk buluşmada heyecan yapan balık erkeği
 https://www.youtube.com/watch?v=d8-soriINcA
