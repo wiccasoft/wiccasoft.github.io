@@ -2,7 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
-bkz ekşici gencoların mashar lansonun yutüp sayfasına eksiyi basmaları
+bkz ekşici gencoların yeni haber linki aramaları
 bkz mashar lansonun ekşici gencoyu kovması
 bkz mashar lansonun yandım yandım şarksısını ekşici gencolar için yazdım itirafı
 bkz tarkanın öpücük isteyen hayranına çişim geldi demesi
