@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz burak yılmaz karı peşinde koşmuyor iddaları
 bkz rasimin ilk buluşmada patlattığı kızlar
 bkz ilk buluşmada kızı imamoğlunun oğluyum diye patlatan genç
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-kemalizm-i-kovmas%C4%B1/
