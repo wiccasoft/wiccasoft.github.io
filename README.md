@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+http://incisozluk.com.tr/w/arkadaslar-incici-vs-ek%C5%9Fici-yapd%C4%B1m/ zuahahhahahaha
 bkz arnavutların ezanı ıslıklaması
 bkz ekşinin adana01 dizisine dönmesi
 bkz ekşci abisine atarlanan genç https://www.youtube.com/watch?v=tC4D-bzCWJc
