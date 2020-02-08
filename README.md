@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz damat
 https://www.uludagsozluk.com/k/uyuyan-e%C5%9Fini-seyrederken-g%C3%B6zleri-dolan-erkek/ bkz rte
 https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg bkz bize her yer trapzone
 https://www.uludagsozluk.com/k/8-%C5%9Fubat-2020-fenerbah%C3%A7e-alanyaspor-ma%C3%A7%C4%B1/&w=bg bkz anlatma olm 
