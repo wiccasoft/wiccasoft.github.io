@@ -3,7 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
-https://www.uludagsozluk.com/k/oral-seks-yapan-maymun/ bkz cmylmz ss aşkı
+https://www.uludagsozluk.com/k/oral-seks-yapan-maymun/ bkz cmylmz  sernaya sarımaymun aşkı
 bkz imamaoğlanın ın her şey çok güzel oldu tabi benim için bakışı
 bkz cmylmz ın her şey çok güzel oldu tabi benim için bakışı
 bkz imamaoğlanın bana mı dedin anlamadım bakışı
