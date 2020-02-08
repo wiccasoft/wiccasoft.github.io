@@ -5,12 +5,12 @@
 bkz ne dediğiniz anlaşılmıyo bakışı
 https://www.youtube.com/watch?v=TJsJmX3iQkY 
 bkz hani marjinal bizdik
-bkz aykut kocamanın beyz futbolda ahmet çakara verdiği ayar
 bkz imamoğlan vs bekiroğlan
 bkz cmylmz aleynatilki yi patlatmış mıdır sorunsalı
 bkz burak yılmaz karı peşinde koşmuyor iddaları
 bkz rasimin ilk buluşmada patlattığı kızlar
 bkz ilk buluşmada kızı imamoğlunun oğluyum diye patlatan genç
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-vatanda%C5%9F%C4%B1-d%C3%BC%C5%9F%C3%BCnerek-zam-yapt%C4%B1k-demesi/
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-kemalizm-i-kovmas%C4%B1/
 https://www.uludagsozluk.com/k/istanbulda-toplu-ta%C5%9F%C4%B1maya-y%C3%BCzde-35-zam/
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-erdo%C4%9Fandan-g%C3%BCvenilir-olmas%C4%B1/
