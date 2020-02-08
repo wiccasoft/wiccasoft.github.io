@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz tatarların çingenleşmiş kürd oldukları gerçeği
 bkz bi kadın olarak susun mınakodumun barzo hanfendileri
 bkz harun abilerin kafa siktiği gerçeği
 bkz harun abilerin sevgililer günündü yine kafa sikecekleri gerçeği
