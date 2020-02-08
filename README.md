@@ -4,6 +4,7 @@
 https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular 
 https://www.youtube.com/watch?v=MVvmxbXfa6w bkz mahar lanson dinlemiyoruz kampanyası
 bkz mahar lanson yütüp kanalına giriyoz vidyolarını eksiliyoruz kampanyası
+bkz gadın yazarlar olarak erkek yazarları meşaj yağmuruna yuyuyoruz kampanyası
 -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
