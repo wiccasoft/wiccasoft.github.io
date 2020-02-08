@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz rte
 bkz receptayyipdoğanın herşey çok güzel zaten tabi benim için bakışı
 bkz imamaoğlanın herşey çok güzel zaten tabi benim için bakışı
 bkz cmylmz in herşey çok güzel zaten tabi benim için bakışı
