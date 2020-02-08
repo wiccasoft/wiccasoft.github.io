@@ -4,6 +4,7 @@
 bkz bir kadın olarak susun bilader
 bkz bir kadın olaraktan sonrasını okumadım
 bkz magazin takip eden şempanze zekası
+bkz sevilen sanatçı yine hayranlarını şoke etti
 bkz ünlü komedyen hangi yıldızı hoplattı
 bkz ünlü şarkıcının bir de annesini görün galeriğ tıklağğ hadi be kankağ tıklağ ne kaybeden
 bkz ünlülerin fan sayfalarındaki gerizekalı ergenler
