@@ -2,6 +2,7 @@
 
 <!-- 
 bkz lan ibneler nabıyonuz orda
+bkz bir kadın olarak susun  amk şişkoları
 bkz ekşide kadın taklidi yapan gençli konuşan şişko ibneler
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz bunu anana sorsana delikanlı
 bkz tatarların çingenleşmiş kürd oldukları gerçeği
