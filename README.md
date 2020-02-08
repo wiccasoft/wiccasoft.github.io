@@ -2,6 +2,7 @@
 
 
 <!--
+bkz uururan eşinin izlerken malafatı sıvazlayan erkek
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz damat
 https://www.uludagsozluk.com/k/uyuyan-e%C5%9Fini-seyrederken-g%C3%B6zleri-dolan-erkek/ bkz rte
 https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg bkz bize her yer trapzone
