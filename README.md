@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz mashar lnasonun yandım yandım şarksısını ekşici gencolar için yazdım itirafı
+bkz mashar lansonun ekşici gencoyu kovması
+bkz mashar lansonun yandım yandım şarksısını ekşici gencolar için yazdım itirafı
 bkz tarkanın öpücük isteyen hayranına çişim geldi demesi
 bkz ekşicilerin mazhar alanson yutüp sayfasına eksiyi basmaları
 bkz ekşicilerin sümük gibi bişey oldukları gerçeği
