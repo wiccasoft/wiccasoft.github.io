@@ -2,7 +2,7 @@
 
 <!--
 ali koçun itleri durduramaz bizleri
-https://www.youtube.com/watch?v=-z2dAjqP69Y 
+https://www.youtube.com/watch?v=-z2dAjqP69Y erun yanalın itleri durduramaz bizleri
 https://www.uludagsozluk.com/k/damat-destekli-%C5%9Fampiyonluk/&w=bg noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
