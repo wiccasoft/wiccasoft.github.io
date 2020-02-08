@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz kılıçdarın dersim pontus rumuyum açıklaması
+bkz celal kılıçdaroğlunun abisini rum diye reddetmesi
 sonra dedimki iyi ki pontus rumum
 trabzon pontus rumundur öyle kalcaktır
 sonra döndüm dedim ki iyi ki beşikdüzülüyüm ne mutlu pontus rumum diyene
