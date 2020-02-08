@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
 https://www.youtube.com/watch?v=bWXazVhlyxQ hadi oturmaya mı geldik genşler
 https://www.uludagsozluk.com/k/kendini-yakan%C4%B1n-annesinin-rteye-te%C5%9Fekk%C3%BCr-etmesi/ anneye küfretme oç
