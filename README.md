@@ -1,64 +1,6 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!--
-bkz ekşci abisine atarlanan genco https://www.youtube.com/watch?v=tC4D-bzCWJc
-http://incisozluk.com.tr/w/arkadaslar-incici-vs-ek%C5%9Fici-yapd%C4%B1m/ zuahahhahahaha
-bkz arnavutların ezanı ıslıklaması
-bkz ekşinin adana01 dizisine dönmesi
-bkz ekşcici ibneleri adana01 dizisindeki ibnelerle olan benzerliği :)))))
-bkz ekşcici gencoların yeni haber linki aramaları :))))))))
-bkz gençli konuşan gümüklü gey ekşici yi evire çevire sikip haber linki aramaya yollamak
-bkz ekşici kadınların meşaj yağmuruna tuttuğu şişko yağlı kafalı ibnelerin güldürmesi 
-bkz yılmaz erdoğanın telsim reklamındaki azıyla telefon sesi yapan genco
-bkz mazhar lansonun şapkasız çıkmama abi demesi
-bkz mashar lanson gelmezse çocumu keserim diyen genco
-bkz mashar lansonu istiyorum buraya gelecek diyen genco
-bkz mashar lansonun gencoyu kovması
-bkz mashar lanson cemyılmaz dostluğu
-bkz cem yılmazın hayranına büllük ötüyomu yer elması demesi
-bkz bensu soral'ın hayranı tarafından yapılan heykeli
-bkz cem yılmazın mazha lansonu yanında kovması genco erkalı siktiri çekmesi
-bkz cem yılmaz seranay sarıkaya aşkının magazin gündemine bomaba gibi düşmesi
-bkz ekşici sümüklerin genco erkalın skinin emmeleri
-bkz ekşici sümüklerin mazhar lansona küsmesi
-bkz ekşici sümüklerin sümük olacak yeni haber linki aramaları
-bkz ekşici gencoların mazhar lanson yütüp sayfasına eksiyi basmaları
-bkz ekşici gencoların sümük gibi bişey oldukları gerçeği
-bkz ekşici gencoların akpye yakın isimlere daha çok cacık olmaları
-bkz ekşici gencoların gözüne alişanı kestirmeleri
-bkz ekşici gencoların yeni haber linki aramaları
-bkz mashar lansonun ekşici gencoyu kovması
-bkz mashar lansonun yandım yandım şarksısını ekşici gencolar için yazdım itirafı
-bkz tarkanın öpücük isteyen hayranına çişim geldi demesi
-bkz ekşicilerin mazhar alanson yutüp sayfasına eksiyi basmaları
-bkz ekşicilerin sümük gibi bişey oldukları gerçeği
-bkz ekşicilerin mazharlansona küsmesi
-bkz ekşcilerin imamoğlunu unutması
-bkz ekşicilerin cüneyt özdemirle barışması
-bkz ekşicilerin mazhar lansonu protesto etmesi
-bkz mazhar lansonun ekşici gencoyu kovması
-bkz gerikirse ben senin bokunu yerim diyen kız
-bkz gerkirse nok yiyielim birlikte olalım diyen kız
-https://eksisozluk.com/jandarmaya-posta-koyan-ilce-baskani-yegeni--6356613?a=popular postayı çakmış kankağ tıklağ gör
-bkz mazhar alansonun yandım yandım şarksını ekşcici gencolar için yazdım demesi
-bkz ekşici gencoların fuat özkana gitmesi
-bkz mazhar alandonun ekşici gencoyu yanından kovması
-bkz gerekirse götündeki tatakları yerim diyen iğrenç kız
-bkz genco erkalı beyin kanartan orhan bence gay yorumu
-bkz gerekirse sümüklerimizi yeriz diyen kız
-bkz magazinhaberi linki attım yorumlayın kankağ 
-https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular linke tıklağ  kankağ 
-https://www.youtube.com/watch?v=JrBdYmStZJ4
-bkz süleyman soylunun keltoç baban koç esprisine gülmesi
-bkz fuat özkanın mazharalansonun sanatçı gencoyu kovmasına ses etmemesi
-bkz mazhar alansonun sanatcı gencoyu cem yılmaza yollaması
-https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular neler dönmüş serhat ya
-bkz seranay sarıkayanın gerekirse cemyılmazın götündeki kadayıfı yerim demesi
-bkz serenay sarıkayayı seksi bulan fok balığı kılıklı adam
-bkz serenay sarıkayanın sümüğünü yerin diyen fok balığı kılıklı adam
-bkz ben senin bokunu da yerim diyen iğrenç kız 
-bkz ben senin ayak parmaklarındaki kiri soğan ekmek gibi yerim diyen mide bulandırıcı kız
--->
+
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
