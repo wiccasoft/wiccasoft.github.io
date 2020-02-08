@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+bkz ekşicilerinn mazhar alanson yutüp sayfasına eksiyi basmaları
 bkz ekşicilerin sümük gibi bişey oldukları gerçeği
 bkz ekşicilerin mazharlansona küsmesi
 bkz ekşcilerin imamoğlunu unutması
