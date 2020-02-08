@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz mashar lansonun gencoyu kovması
 bkz mashar lanson cemyılmaz dostluğu
 bkz cem yılmazın hayranına büllük ötüyomu yer elması demesi
 bkz bensu soral'ın hayranı tarafından yapılan heykeli
