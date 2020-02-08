@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz cemyılmazın içinde gezdirdiği karı
 https://www.haberturk.com/cem-yilmaz-fena-patladi-yeni-cem-yilmazlar-cikaracakmis-2276923-magazin
 bkz ilk buluşma sonrası kıza patla mısın diyen genç
 8 şubat 2020 melih gökçek'in attığı tweet
