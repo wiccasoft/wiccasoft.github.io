@@ -2,6 +2,7 @@
 
 
 <!--
+bkz recep tayyipdoğanın herşey çok güzel zaten tabi benim için bakışı
 bkz imamaoğlanın herşey çok güzel zaten tabi benim için bakışı
 bkz cmylmz in herşey çok güzel zaten tabi benim için bakışı
 bkz cmylmz in fanboylarının açığını bulması
