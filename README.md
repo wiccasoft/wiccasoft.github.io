@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz ekşici sümüklerin genco erkalın skinin emmeleri
 bkz ekşici sümüklerin mazhar lansona küsmesi
 bkz ekşici sümüklerin sümük olacak yeni haber linki aramaları
 bkz ekşici gencoların mazhar lanson yütüp sayfasına eksiyi basmaları
