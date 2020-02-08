@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz imamaoğlanın bana mı dedin anlamadım bakışı
 bkz imamaoğlanın hoplattığı karı ve cmylmz nin hoplattığı karı
 bkz hani marjinal bizdik esprisi yapıp karı hoplatmak
 bkz cemyılmazın içinde gezdirdiği karı
