@@ -2,6 +2,7 @@
 
 <!--
 https://www.youtube.com/watch?v=JrBdYmStZJ4
+bkz fuat özkanın mazharalansonun sanatçı gencoyu kovmasına ses etmemesi
 bkz mazhar alansonun sanatcı gencoyu cem yılmaza yollaması
 https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular neler dönmüş serhat ya
 bkz seranay sarıkayanın gerekirse cemyılmazın götündeki kadayıfı yerim demesi
