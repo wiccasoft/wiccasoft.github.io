@@ -2,7 +2,7 @@
 
 <!--
 https://www.youtube.com/watch?v=JrBdYmStZJ4
-bkz serranay sarıkayanın cemyılmazın götündeki kılları yalarım demesi
+bkz serranay sarıkayanın gerekirse cemyılmazın götündeki kılları yalarım demesi
 bkz serenay sarıkayayı seksi bulan fok balığı kılıklı adam
 bkz serenay sarıkayanın sümüğünü yerin diyen fok balığı kılıklı adam
 bkz ben senin bokunu da yerim diyen iğrenç kız 
