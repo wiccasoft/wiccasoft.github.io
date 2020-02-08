@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz mazhar lansonun gencoyu kovması
+bkz mazhar lansonun ekşici gencoyu kovması
 bkz gerikirse ben senin bokunu yerim diyen kız
 bkz gerkirse nok yiyielim birlikte olalım diyen kız
 bkz mazhar alansonun yandım yandım şarksını ekşcici gencolar için yazdım demesi
