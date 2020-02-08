@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-vites-topuzuyla-gelen-k%C4%B1z/ bkz seranay sarıkaya
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya .phone x koyan genç
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-vites-topuzuyla-gelen-k%C4%B1z/ bkz seranay sarıkaya
 https://eksisozluk.com/ilk-bulusma-sonrasinda-kiza-920-tl-kitleyen-genc--6358071?a=popular bkz cmylmz
