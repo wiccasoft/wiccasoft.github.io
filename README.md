@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+bkz mazhar alansonun yandım yandım şarksını ekşcici gencolar için yazdım demesi
 bkz ekşici gencoların fuat özkana gitmesi
 bkz mazhar alandonun ekşici gencoyu yanından kovması
 bkz gerekirse götündeki tatakları yerim diyen iğrenç kız
