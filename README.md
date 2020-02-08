@@ -3,6 +3,7 @@
 <!--
 bkz arnavutların ezanı ıslıklaması
 bkz ekşinin adana01 dizisine dönmesi
+bkz ekşcicilerin adana01 dizisindeki ibnelerle olan benzerliği
 bkz ekşcici gencoların yeni haber linki aramaları :))))))))
 bkz gençli konuşan gümüklü gey ekşici yi evire çevire sikip haber linki aramaya yollamak
 bkz ekşici kadınların meşaj yağmuruna tuttuğu şişko yağlı kafalı ibnelerin güldürmesi 
