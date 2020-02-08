@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz cem yılmazın mazha lansonu yanında kovması genco erkalı siktiri çekmesi
 bkz cem yılmaz seranay sarıkaya aşkının magazin gündemine bomaba gibi düşmesi
 bkz ekşici sümüklerin genco erkalın skinin emmeleri
 bkz ekşici sümüklerin mazhar lansona küsmesi
