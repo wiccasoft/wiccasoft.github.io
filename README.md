@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=gd bkz çöp tenekesi
 https://www.uludagsozluk.com/k/be%C5%9Fikta%C5%9F-varken-%C5%9Fampiyonluk-hayalleri-kuranlar/
 https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg bkz bire bir de saplar
