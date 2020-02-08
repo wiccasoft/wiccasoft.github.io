@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/aynada-kendi-poposunu-izleyen-erkek/ bkz ikinci selim
 https://www.uludagsozluk.com/k/o%C4%9Flanc%C4%B1-padi%C5%9Fahlar/ bkz üçüncü selim
 https://www.uludagsozluk.com/k/akpnin-gizli-yerli-u%C3%A7an-otomobil-projesi/&w=bg çok gizli anlatmayın
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
