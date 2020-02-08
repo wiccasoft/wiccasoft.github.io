@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz cmylmz aleynatilki yi patlatmış mıdır sorunsalı
 bkz burak yılmaz karı peşinde koşmuyor iddaları
 bkz rasimin ilk buluşmada patlattığı kızlar
 bkz ilk buluşmada kızı imamoğlunun oğluyum diye patlatan genç
