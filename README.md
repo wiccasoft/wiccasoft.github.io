@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz ekşicilerinn mazhar alanson yutüp sayfasına eksiyi basmaları
+bkz ekşicilerin mazhar alanson yutüp sayfasına eksiyi basmaları
 bkz ekşicilerin sümük gibi bişey oldukları gerçeği
 bkz ekşicilerin mazharlansona küsmesi
 bkz ekşcilerin imamoğlunu unutması
@@ -10,6 +10,7 @@ bkz ekşicilerin mazhar lansonu protesto etmesi
 bkz mazhar lansonun ekşici gencoyu kovması
 bkz gerikirse ben senin bokunu yerim diyen kız
 bkz gerkirse nok yiyielim birlikte olalım diyen kız
+https://eksisozluk.com/jandarmaya-posta-koyan-ilce-baskani-yegeni--6356613?a=popular postayı çakmış kankağ tıklağ gör
 bkz mazhar alansonun yandım yandım şarksını ekşcici gencolar için yazdım demesi
 bkz ekşici gencoların fuat özkana gitmesi
 bkz mazhar alandonun ekşici gencoyu yanından kovması
