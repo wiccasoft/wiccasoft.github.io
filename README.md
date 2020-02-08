@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz fuat özkanın imza isteyen gencoya tokat atması
+bkz ekşicilerin mazharlansona küsmesi
 bkz ekşcilerin imamoğlunu unutması
 bkz ekşicilerin cüneyt özdemirle barışması
 bkz ekşicilerin mazhar lansonu protesto etmesi
