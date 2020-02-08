@@ -4,6 +4,7 @@
 <!--
 bkz hani marjinal bizdik
 8 şubat 2020 melih gökçek'in attığı tweet
+bkz imamaoğlanın cemyılamz beline kuvvet demesi
 bkz cemyılmaz fanboyunun başörtülülere verdiği inceayar
 bkz aleyna tilki cmylmz aşkının ufukta olması
 bkz ilk buluşmada kıza patlak mısın diye soran genç
