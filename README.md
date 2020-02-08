@@ -1,6 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-
 <!--
 ali koçun itleri durduramaz bizleri
 https://www.youtube.com/watch?v=-z2dAjqP69Y 
