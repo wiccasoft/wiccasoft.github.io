@@ -2,7 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
-bkz ekşcic gencoların akpye yakın isimlere daha çok cacık olmaları
+bkz ekşici gencoların akpye yakın isimlere daha çok cacık olmaları
 bkz ekşici gencoların gözüne alişanı kestirmeleri
 bkz ekşici gencoların yeni haber linki aramaları
 bkz mashar lansonun ekşici gencoyu kovması
