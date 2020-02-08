@@ -1,6 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!-- https://eksisozluk.com/kadinlar-olarak-hesabi-biz-odemek-istiyoruz--6356606?a=popular hadi bakalım hayırlısı gençler -->
+<!-- 
+https://eksisozluk.com/kadinlar-olarak-hesabi-biz-odemek-istiyoruz--6356606?a=popular
+bkz ekşideki harun abilerin erkeklere para harcatmayacağız kampanyası
+-->
 
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
