@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz sernay sarıkayanın sümüğünü yerin diyen fok balığı kılıklı adam
+https://www.youtube.com/watch?v=JrBdYmStZJ4
+bkz serenay sarıkayanın sümüğünü yerin diyen fok balığı kılıklı adam
 bkz ben senin bokunu da yerim diyen iğrenç kız 
 bkz ben senin ayak parmaklarındaki kiri soğan ekmek gibi yerim diyen mide bulandırıcı kız
 -->
