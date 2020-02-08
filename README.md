@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz aykut kocamanın beyz futbolda ahmet çakara verdiği ayar
 bkz imamoğlan vs bekiroğlan
 bkz cmylmz aleynatilki yi patlatmış mıdır sorunsalı
 bkz burak yılmaz karı peşinde koşmuyor iddaları
