@@ -2,7 +2,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz arda turan
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz acun ılıcalı
 https://www.uludagsozluk.com/k/altay-bay%C4%B1nd%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/s%C3%B6rloth-vs-muriqi/&w=bg
 bkz ilk buluşmada heyecan yapan balık erkeği
