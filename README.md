@@ -1,8 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz bunu anana sorsana delikanlı
 bkz bir kadın olarak susun amk şişkoları
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz bunu anana sorsana delikanlı
+https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
 bkz tatarların çingenleşmiş kürd oldukları gerçeği
 bkz bi kadın olarak susun mınakodumun barzo hanfendileri
 bkz harun abilerin kafa siktiği gerçeği
