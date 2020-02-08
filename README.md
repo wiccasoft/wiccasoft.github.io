@@ -3,6 +3,7 @@
 
 <!--
 bkz hani marjinal bizdik
+bkz cemyılmaz fanboyunun başörtülülere verdiği inceayar
 bkz aleyna tilki cmylmz aşkının ufukta olması
 bkz ilk buluşmada kıza patlak mısın diye soran genç
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fma-sonras%C4%B1nda-k%C4%B1za-920-tl-kitleyen-gen%C3%A7/
