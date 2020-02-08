@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
+bkz yılmaz aerdoğan telsim reklamında azıyla telefon sesi yapan genco
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-serenay-sar%C4%B1kaya-a%C5%9Fk%C4%B1/ yakışır abime götür abim
 https://www.uludagsozluk.com/k/survivor-2020-%C3%BCnl%C3%BCler-g%C3%B6n%C3%BCll%C3%BCler/ 
 https://www.uludagsozluk.com/k/hanife-g%C3%BCrdal/&w=bg dont make stupid people make famous -->
