@@ -2,6 +2,8 @@
 
 
 <!--
+bkz tipine sokim amınferyadı
+https://www.uludagsozluk.com/k/sizce-fotodaki-gen%C3%A7-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-m%C4%B1-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kendini-yakan%C4%B1n-annesinin-rteye-te%C5%9Fekk%C3%BCr-etmesi/ anneye küfretme oç
 https://www.uludagsozluk.com/k/bir-kad%C4%B1n%C4%B1-kukusu-i%C3%A7in-seven-erkek/ ya ne için sevecek amınoğlu
 bkz uyurken osuran eşini izlerken malafatı sıvazlayan erkek https://www.youtube.com/watch?v=xvvx-0G7XHc
