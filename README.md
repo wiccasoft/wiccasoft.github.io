@@ -2,8 +2,10 @@
 
 
 <!--
+bkz hani marjinal bizdik
 bkz aleyna tilki cmylmz aşkının ufukta olması
 bkz ilk buluşmada kıza patlak mısın diye soran genç
+https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fma-sonras%C4%B1nda-k%C4%B1za-920-tl-kitleyen-gen%C3%A7/
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-vites-topuzuyla-gelen-k%C4%B1z/ bkz seranay sarıkaya
 https://www.youtube.com/watch?v=c7IoBRRBiX8 bkz ilk buluşmada masaya .phone x koyan genç
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-vites-topuzuyla-gelen-k%C4%B1z/ bkz seranay sarıkaya
