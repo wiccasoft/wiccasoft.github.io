@@ -2,7 +2,8 @@
 
 
 <!--
-https://www.youtube.com/watch?v=TJsJmX3iQkY ne dediğiniz anlaşılmıyo bakışı
+bkz ne dediğiniz anlaşılmıyo bakışı
+https://www.youtube.com/watch?v=TJsJmX3iQkY 
 bkz hani marjinal bizdik
 bkz aykut kocamanın beyz futbolda ahmet çakara verdiği ayar
 bkz imamoğlan vs bekiroğlan
