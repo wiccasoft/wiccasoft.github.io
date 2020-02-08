@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!--
-bkz gererkise sümüklerimizi yeriz diyen kız
+bkz genco erkalı beyin kanartan orhan bence gay yorumu
+bkz gerekirse sümüklerimizi yeriz diyen kız
 bkz magazinhaberi linki attım yorumlayın kankağ 
 https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular linke tıklağ  kankağ 
 https://www.youtube.com/watch?v=JrBdYmStZJ4
