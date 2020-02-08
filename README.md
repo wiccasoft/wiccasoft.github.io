@@ -2,8 +2,7 @@
 
 
 <!--
-bkz bilalin bana her yer ensar gülüşü
-https://www.uludagsozluk.com/k/8-milyon-dolar-k%C4%B1z%C4%B1lay-ba%C4%9F%C4%B1%C5%9F%C4%B1n%C4%B1n-ensar-a-verilmesi/&w=bg
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz bilal
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=gd bkz rte
 bkz receptayyipdoğanın herşey çok güzel zaten tabi benim için bakışı
 bkz imamaoğlanın herşey çok güzel zaten tabi benim için bakışı
