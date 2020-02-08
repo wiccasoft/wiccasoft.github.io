@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz cem yılmaz seranay sarıkaya aşkını magazin gündemine bomaba gibi düşmesi
 bkz ekşici sümüklerin genco erkalın skinin emmeleri
 bkz ekşici sümüklerin mazhar lansona küsmesi
 bkz ekşici sümüklerin sümük olacak yeni haber linki aramaları
