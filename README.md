@@ -3,6 +3,8 @@
 <!-- 
 bkz bir kadın olarak susun bilader
 bkz bir kadın olaraktan sonrasını okumadım
+bkz bensu soral kim amk
+https://www.uludagsozluk.com/k/bensu-soral-%C4%B1n-hayran%C4%B1-taraf%C4%B1ndan-yap%C4%B1lan-heykeli/
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
 https://eksisozluk.com/mazhar-alansonun-sanatci-genci-yayindan-kovmasi--6357333?a=popular 
 https://www.youtube.com/watch?v=MVvmxbXfa6w bkz mahar lanson dinlemiyoruz kampanyası
