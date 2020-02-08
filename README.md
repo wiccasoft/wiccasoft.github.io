@@ -4,6 +4,7 @@
 https://www.uludagsozluk.com/e/42824766/
 bkz serenay sarıkaya cmylmz aşkı
 bkz hanife fürdalın deme yi kilitlemesi
+bkz ekranların sevilen fok balığı yine kırdı geçirdi
 bkz yılmaz erdoğan telsim reklamında azıyla telefon sesi yapan genco
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz cem yılmaz
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-serenay-sar%C4%B1kaya-a%C5%9Fk%C4%B1/ yakışır abime götür abim
