@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz mashar lanson gelmezse çocumu keserim diyen genco
 bkz mashar lansonu istiyorum buraya gelecek diyen genco
 bkz mashar lansonun gencoyu kovması
 bkz mashar lanson cemyılmaz dostluğu
