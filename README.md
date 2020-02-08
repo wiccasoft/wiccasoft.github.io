@@ -2,6 +2,7 @@
 
 <!-- 
 bkz aslı bekiroğlu vs sharon stone
+https://eksisozluk.com/damat-istifa--6358587?a=popular yav he he
 bkz çatlasanız da patlasanız da trap zone şampiyon
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg bkz ergenlerden tiksinmek
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/ bkz yobaz orospu çocukları
