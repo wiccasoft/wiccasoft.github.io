@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
-sonra dedimki iyi ki pontus rumum
+sonra dedim ki iyi ki pontus rumum ne mutlu pontus rumuyum diyene
 trabzon pontus rumundur öyle kalcaktır
 https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
