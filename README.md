@@ -2,6 +2,7 @@
 
 <!-- 
 bkz bunu anana sorsana delikanlı
+bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyim
 bkz erkek yazarları meşaj yağmuruna tutuyoruz asdsada ananızı sikeyim karaktersiz ibneler sizi
 bkz bir kadın olarak susun amk şişkoları
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
