@@ -2,7 +2,8 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
-bkz gençli konuşan gümüklü gey ekşici yi evire çevire sikmek
+bkz ekşicilerin korkak ibneler oldukları gerçeği
+bkz gençli konuşan gümüklü gey ekşici yi  evire çevire sikmek
 bkz ekşici kadınların meşaj yağmuruna tuttuğu şişko yağlı kafalı ibnelerin güldürmesi 
 bkz yılmaz erdoğanın telsim reklamındaki azıyla telefon sesi yapan genco
 bkz mazhar lansonun şapkasız çıkmama abi demesi
