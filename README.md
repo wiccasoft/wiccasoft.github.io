@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz ekşici gencoların sümük gibi bişey oldukları gerçeği
 bkz ekşici gencoların akpye yakın isimlere daha çok cacık olmaları
 bkz ekşici gencoların gözüne alişanı kestirmeleri
 bkz ekşici gencoların yeni haber linki aramaları
