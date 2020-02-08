@@ -2,6 +2,7 @@
 
 <!--
 bkz arnavutların ezanı ıslıklaması
+bkz ekşici kadınların ekşcici amcaları meşaj yağmuruna tutması
 bkz yılmaz erdoğanın telsim reklamındaki azıyla telefon sesi yapan genco
 bkz mazhar lansonun şapkasız çıkmama abi demesi
 bkz mashar lanson gelmezse çocumu keserim diyen genco
