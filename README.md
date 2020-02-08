@@ -1,20 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
-<!-- 
-bkz bunu anana sorsana delikanlı
-bkz yansın ibneler su veren itfaiyyenin hortumunu sikeyim
-bkz erkek yazarları meşaj yağmuruna tutuyoruz asdsada ananızı sikeyim karaktersiz ibneler sizi
-bkz bir kadın olarak susun amk şişkoları
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg 
-bkz tatarların çingenleşmiş kürd oldukları gerçeği
-bkz bi kadın olarak susun mınakodumun barzo hanfendileri
-bkz harun abilerin kafa siktiği gerçeği
-bkz harun abilerin sevgililer günündü yine kafa sikecekleri gerçeği
-https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz harun abi olmak
-https://eksisozluk.com/kadinlar-olarak-hesabi-biz-odemek-istiyoruz--6356606?a=popular
-bkz ekşideki harun abilerin erkeklere para harcatmayacağız kampanyası
--->
-
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
