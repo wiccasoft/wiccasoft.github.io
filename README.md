@@ -4,7 +4,7 @@
 <!--
 bkz hani marjinal bizdik
 8 şubat 2020 melih gökçek'in attığı tweet
-bkz imamaoğlanın cemyılmaz beline kuvvet bro demesi
+bkz imamaoğlanın cemyılmaz beline kuvvet bro işini biliyon demesi
 bkz cemyılmaz fanboyunun başörtülülere verdiği inceayar
 bkz aleyna tilki cmylmz aşkının ufukta olması
 bkz ilk buluşmada kıza patlak mısın diye soran genç
