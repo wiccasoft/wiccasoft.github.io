@@ -3,6 +3,7 @@
 <!-- 
 bkz aslı bekiroğlu vs sharon stone
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg bkz ergenlerden tiksinmek
+https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/ bkz orospu çocukları
 https://www.uludagsozluk.com/k/freud-un-%C3%A7ok-bo%C5%9F-konu%C5%9Fmas%C4%B1/ bunu anana sorsana delikanlı
 sonra dedim ki iyi ki pontus rumum ne mutlu pontus rumuyum diyene
 trabzon pontus rumundur öyle kalcaktır
