@@ -2,6 +2,7 @@
 
 <!-- 
 salı günü fetönün ayağını açıklayacam sabırlı olun hele yo
+https://www.uludagsozluk.com/k/izmirli-erkeklerin-afedersiniz-biraz-%C5%9Fey-olmas%C4%B1/ neyse ki izmirli değilim
 https://www.uludagsozluk.com/k/celaleddin-harzem%C5%9Fah/&w=bg bkz kıpçakları küçümseyen itoğlu it
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7dar-%C4%B1n-fet%C3%B6n%C3%BCn-siyasi-aya%C4%9F%C4%B1n%C4%B1-a%C3%A7%C4%B1klamas%C4%B1/ haftaya açıklıyorum bekleyin hele yo hacı ayağı göt ayağı -->
 
