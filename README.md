@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/eski-sevgilim-yatakta-senden-daha-iyiydi-diyen-k%C4%B1z/&w=bg bkz serenay sarıkaya
 https://www.uludagsozluk.com/k/denizde-bo%C4%9Fulacak-olsa-kurtaraca%C4%9F%C4%B1n-%C3%BC%C3%A7-insan/ r.t.e
 https://www.uludagsozluk.com/k/eski-sevgilim-yatakta-senden-daha-iyiydi-diyen-k%C4%B1z/&w=bg bkz serenay sarıkaya
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-kad%C4%B1n-olmak/&w=bg bkz okumadım kanka
