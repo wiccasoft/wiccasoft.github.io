@@ -3,6 +3,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/g%C3%BCzel-kokan-erkek/&w=bg
 https://www.uludagsozluk.com/k/eve-k%C4%B1z-ataca%C4%9F%C4%B1nda-evi-temizleyen-erkek/&w=bg 
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-tipsiz-olmas%C4%B1/&w=bg
 -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
