@@ -1,22 +1,10 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
 <!--
-https://www.youtube.com/watch?v=E_zUxFrJ_SE yeah şappi
-bkz hani marjinal bizdik
-bkz ahçı bahçıvan uşak hepsi
-bkz ido tatlısesin bile karı hoplattığı ülke
-bkz beyler siz bana kafanızda semediğiniz adamlamışım gibi küfredin ben işlerime bakayım biraz
-bkz tek dünya devletini nereye kursam sorunsalı
-bkz türklerin beni kara kafalı bıyıklı bir kürt türkücü sanmaları
+https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz hani marjinal bizdik
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ilginç tezler 
-bkz cmylmz seranay sarıkayı hoplatıyor mudur sorunsalı
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
-bkz 41 yaşıma geldim hala karı hoplatamadım maymun gibi heriflerin hoplatmadığı karı kalmamış amk
-bkz ibrahim tatlıseks hülya avşara çaktı mı sorunsalı
-https://www.uludagsozluk.com/k/sokakta-hanfendi-mutfakta-a%C5%9F%C3%A7%C4%B1-yatakta-gey%C5%9Fa-erkek/ vay amk
-https://www.uludagsozluk.com/e/42828188/ ilginç bi tez irdelenmeli diyorum
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg bkz ölmedimi bu hala 
-https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg noldu öldü mü lan
 bkz cmylmz fanboylarının ultra gerizekalı olduğu gerçeği
 https://eksisozluk.com/entry/101780342
 https://eksisozluk.com/entry/101815402
