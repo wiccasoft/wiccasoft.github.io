@@ -6,7 +6,7 @@ bkz ahçı bahçıvan uşak hepsi
 bkz ido tatlısesin bile karı hoplattığı ülke
 bkz cmylmz seranay sarıkayı hoplatıyor mudur sorunsalı
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
-bkz 41 yaşıma geldim hala karı sikemedim maymun gibi heriflerin hoplatmadığı karı kalmamış amk
+bkz 41 yaşıma geldim hala karı hoplatamadım maymun gibi heriflerin hoplatmadığı karı kalmamış amk
 bkz ibrahim tatlıseks hülya avşara çaktı mı sorunsalı
 https://www.uludagsozluk.com/k/sokakta-hanfendi-mutfakta-a%C5%9F%C3%A7%C4%B1-yatakta-gey%C5%9Fa-erkek/ vay amk
 https://www.uludagsozluk.com/e/42828188/ ilginç bi tez irdelenmeli diyorum
