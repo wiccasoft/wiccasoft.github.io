@@ -4,7 +4,6 @@
 bkz hani marjinal bizdik
 bkz ahçı bahçıvan uşak hepsi
 bkz ido tatlısesin bile karı hoplattığı ülke
-bkz ibhrahimtalıseks kürt olduğu için kafasan mermi yedi söylentileri
 bkz cmylmz seranay sarıkayı hoplatıyor mudur sorunsalı
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
 bkz 41 yaşıma geldim hala karı sikemedim maymun gibi heriflerin hoplatmadığı karı kalmamış amk
