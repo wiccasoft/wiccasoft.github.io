@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/ bkz yobaz orospu
 https://www.uludagsozluk.com/k/freud-un-%C3%A7ok-bo%C5%9F-konu%C5%9Fmas%C4%B1/ bunu anana sorsana delikanlı
 sonra dedim ki iyi ki pontus rumum ne mutlu pontus rumuyum diyene
 trabzon pontus rumundur öyle kalcaktır
+https://www.youtube.com/watch?v=GuJWBCqVUU0
 https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
 https://www.uludagsozluk.com/k/izmirli-erkeklerin-afedersiniz-biraz-%C5%9Fey-olmas%C4%B1/ puşt gibi ibne gibin bişi
