@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
 <!-- 
+https://www.uludagsozluk.com/e/42828188/ ilginç bi tez irdelenmeli diyorum
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg bkz ölmedimi bu hala 
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg noldu öldü mü lan
 bkz cmylmz fanboylarının ultra gerizekalı olduğu gerçeği
