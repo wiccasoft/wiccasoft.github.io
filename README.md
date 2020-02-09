@@ -4,7 +4,7 @@
 bkz hani marjinal bizdik
 bkz ahçı bahçıvan uşak hepsi
 bkz ido tatlısesin bile karı hoplattığı ülke
-bkz beyler siz bana şeymişim(ibo mazharvs...) gibi küfredin ben işlerim bakayım biraz
+bkz beyler siz bana kafanızda semediğiniz adamlamışım gibi küfredin ben işlerime bakayım biraz
 bkz tek dünya devletini nereye kursam sorunsalı
 bkz türklerin beni kara kafalı bıyıklı bir kürt türkücü sanmaları
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ilginç tezler 
