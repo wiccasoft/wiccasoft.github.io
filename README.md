@@ -3,6 +3,7 @@
 <!-- 
 https://eksisozluk.com/entry/101815402
 https://www.youtube.com/watch?v=7LlA8lQ52W8
+https://eksisozluk.com/entry/101815306
 https://www.youtube.com/watch?v=gcZPWkNY6x8
 bkz hayat feneri atmış bir kenara 
 https://www.youtube.com/watch?v=boHM0YhdtuA
