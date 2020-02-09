@@ -1,21 +1,4 @@
-[![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://youtu.be/d2bh1k9XTk0 )
-
-<!-- 
-https://youtu.be/d2bh1k9XTk0
-https://www.youtube.com/watch?v=yjE3SfSTdtc
-bkz yaşlıların karı kız hoplattığı ergenlerin izlediği garip ülke
-https://lloser.uludagsozluk.com/ beyfendiye beğendiği erkeği paket yapalım
-https://www.uludagsozluk.com/k/sahiplenici-erkek/&w=bg bkz cmylmz
-https://www.uludagsozluk.com/k/g%C3%BCzel-kokan-erkek/&w=bg
-https://www.uludagsozluk.com/k/adem-b%C3%BCy%C3%BCk/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7andarl%C4%B1-halil-pa%C5%9Fa/&w=bg
-https://www.uludagsozluk.com/k/temizlikten-anlayan-yemek-yapabilen-erkek/
-https://eksisozluk.com/tamer-karadaglinin-23-yasindaki-sevgilisi--6359555?a=popular
-https://www.uludagsozluk.com/k/eve-k%C4%B1z-ataca%C4%9F%C4%B1nda-evi-temizleyen-erkek/&w=bg 
-https://www.uludagsozluk.com/k/diyanetin-cennette-konut-da%C4%9F%C4%B1t%C4%B1m%C4%B1-yapmas%C4%B1/
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-tipsiz-olmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/yunan-gazetesinin-atat%C3%BCrk-kitab%C4%B1-da%C4%9F%C4%B1tmas%C4%B1/
--->
+[![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
