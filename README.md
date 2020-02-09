@@ -1,5 +1,10 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
+<!-- 
+https://www.uludagsozluk.com/k/g%C3%BCzel-kokan-erkek/&w=bg
+https://www.uludagsozluk.com/k/eve-k%C4%B1z-ataca%C4%9F%C4%B1nda-evi-temizleyen-erkek/&w=bg 
+-->
+
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
