@@ -4,7 +4,7 @@
 bkz hani marjinal bizdik
 bkz ahçı bahçıvan uşak hepsi
 bkz ido tatlısesin bile karı hoplattığı ülke
-bkz tek dünya devletin nereye kursam sorunsalı
+bkz tek dünya devletini nereye kursam sorunsalı
 bkz türklerin beni kara kafalı bıyıklı bir kürt türkücü sanmaları
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ilginç tezler 
 bkz cmylmz seranay sarıkayı hoplatıyor mudur sorunsalı
