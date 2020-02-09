@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
 <!-- 
+bkz ibrahim tatlıseks hülya avşara çaktı mı sorunsalı
 https://www.uludagsozluk.com/k/sokakta-hanfendi-mutfakta-a%C5%9F%C3%A7%C4%B1-yatakta-gey%C5%9Fa-erkek/ vay amk
 https://www.uludagsozluk.com/e/42828188/ ilginç bi tez irdelenmeli diyorum
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg bkz ölmedimi bu hala 
