@@ -4,7 +4,7 @@
 bkz hani marjinal bizdik
 bkz ahçı bahçıvan uşak hepsi
 bkz ido tatlısesin bile karı hoplattığı ülke
-bkz türklerin beni kara kafalı bıyıklı kürt türkücü sanmaları
+bkz türklerin beni kara kafalı bıyıklı bir kürt türkücü sanmaları
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ilginç tezler 
 bkz cmylmz seranay sarıkayı hoplatıyor mudur sorunsalı
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
