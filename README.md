@@ -2,6 +2,7 @@
 
 <!-- 
 https://youtu.be/d2bh1k9XTk0
+https://www.youtube.com/watch?v=yjE3SfSTdtc
 bkz yaşlıların karı kız hoplattığı ergenlerin izlediği garip ülke
 https://lloser.uludagsozluk.com/ beyfendiye beğendiği erkeği paket yapalım
 https://www.uludagsozluk.com/k/sahiplenici-erkek/&w=bg bkz cmylmz
