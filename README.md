@@ -2,7 +2,7 @@
 
 <!-- 
 bkz hayat feneri atmış bir kenara 
-bkz aslı bekiroğlu vs sharon stone
+https://www.youtube.com/watch?v=-z2dAjqP69Y
 https://eksisozluk.com/damat-istifa--6358587?a=popular yav he he
 bkz çatlasanız da patlasanız da trap zone şampiyon
 https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg bkz ergenlerden tiksinmek
