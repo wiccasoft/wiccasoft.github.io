@@ -4,6 +4,7 @@
 https://www.youtube.com/watch?v=7LlA8lQ52W8
 https://www.youtube.com/watch?v=gcZPWkNY6x8
 bkz hayat feneri atmış bir kenara 
+https://www.youtube.com/watch?v=boHM0YhdtuA
 https://www.youtube.com/watch?v=-z2dAjqP69Y
 https://eksisozluk.com/damat-istifa--6358587?a=popular yav he he
 bkz çatlasanız da patlasanız da trap zone şampiyon
