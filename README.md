@@ -1,34 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
-<!--
-https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz hani marjinal bizdik
-bkz tek dünya devletini nereye kursam sorunsalı
-https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ilginç tezler 
-https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
-https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg bkz ölmedimi bu hala 
-bkz cmylmz fanboylarının ultra gerizekalı olduğu gerçeği
-https://eksisozluk.com/entry/101780342
-https://eksisozluk.com/entry/101815402
-https://www.youtube.com/watch?v=7LlA8lQ52W8
-https://eksisozluk.com/entry/101815306
-https://www.youtube.com/watch?v=gcZPWkNY6x8
-bkz hayat feneri atmış bir kenara 
-https://www.youtube.com/watch?v=boHM0YhdtuA
-https://www.youtube.com/watch?v=-z2dAjqP69Y
-https://eksisozluk.com/damat-istifa--6358587?a=popular yav he he
-bkz çatlasanız da patlasanız da trap zone şampiyon
-https://www.uludagsozluk.com/k/zeynep-bast%C4%B1k/&w=bg bkz ergenlerden tiksinmek
-https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/ bkz yobaz orospu çocukları
-https://www.uludagsozluk.com/k/freud-un-%C3%A7ok-bo%C5%9F-konu%C5%9Fmas%C4%B1/ bunu anana sorsana delikanlı
-sonra dedim ki iyi ki pontus rumum ne mutlu pontus rumuyum diyene
-trabzon pontus rumundur öyle kalcaktır
-https://www.youtube.com/watch?v=GuJWBCqVUU0
-https://www.uludagsozluk.com/e/42826311/ noldii renciniz soldiiiii
-https://www.uludagsozluk.com/e/42826437/ noldii renciniz soldiiiii
-https://www.uludagsozluk.com/k/izmirli-erkeklerin-afedersiniz-biraz-%C5%9Fey-olmas%C4%B1/ puşt gibi ibne gibin bişi
-https://www.uludagsozluk.com/k/celaleddin-harzem%C5%9Fah/&w=bg bkz kıpçakları küçümseyen itoğlu it
--->
-
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
