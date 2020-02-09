@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
 <!--
+https://www.youtube.com/watch?v=E_zUxFrJ_SE yeah şappi
 bkz hani marjinal bizdik
 bkz ahçı bahçıvan uşak hepsi
 bkz ido tatlısesin bile karı hoplattığı ülke
