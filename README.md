@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/k/g%C3%BCzel-kokan-erkek/&w=bg
 https://www.uludagsozluk.com/k/adem-b%C3%BCy%C3%BCk/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7andarl%C4%B1-halil-pa%C5%9Fa/&w=bg
 https://www.uludagsozluk.com/k/temizlikten-anlayan-yemek-yapabilen-erkek/
+https://eksisozluk.com/tamer-karadaglinin-23-yasindaki-sevgilisi--6359555?a=popular
 https://www.uludagsozluk.com/k/eve-k%C4%B1z-ataca%C4%9F%C4%B1nda-evi-temizleyen-erkek/&w=bg 
 https://www.uludagsozluk.com/k/diyanetin-cennette-konut-da%C4%9F%C4%B1t%C4%B1m%C4%B1-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-tipsiz-olmas%C4%B1/&w=bg
