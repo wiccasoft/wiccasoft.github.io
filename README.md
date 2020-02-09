@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
 <!-- 
+https://eksisozluk.com/entry/101780342
 https://eksisozluk.com/entry/101815402
 https://www.youtube.com/watch?v=7LlA8lQ52W8
 https://eksisozluk.com/entry/101815306
