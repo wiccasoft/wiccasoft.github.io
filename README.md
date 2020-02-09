@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/temizlikten-anlayan-yemek-yapabilen-erkek/
 https://www.uludagsozluk.com/k/eve-k%C4%B1z-ataca%C4%9F%C4%B1nda-evi-temizleyen-erkek/&w=bg 
 https://www.uludagsozluk.com/k/diyanetin-cennette-konut-da%C4%9F%C4%B1t%C4%B1m%C4%B1-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-tipsiz-olmas%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/yunan-gazetesinin-atat%C3%BCrk-kitab%C4%B1-da%C4%9F%C4%B1tmas%C4%B1/
 -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
