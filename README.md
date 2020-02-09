@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
 
 <!--
+bkz hani marjinal bizdik
+bkz ahçı bahçıvan uşak hepsi
 bkz ibhrahimtalıseks kürt olduğu için kafasan mermi yedi söylentileri
 bkz cmylmz seranay sarıkayı hoplatıyor mudur sorunsalı
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
