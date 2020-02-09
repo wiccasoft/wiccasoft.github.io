@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+bkz hayat feneri atmış bir kenara 
 bkz aslı bekiroğlu vs sharon stone
 https://eksisozluk.com/damat-istifa--6358587?a=popular yav he he
 bkz çatlasanız da patlasanız da trap zone şampiyon
