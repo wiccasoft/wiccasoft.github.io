@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://fortune.com/2019/10/23/lockheed-martin-ceo-sustainability-moon-landing/ )
 
 <!-- 
+https://www.youtube.com/watch?v=7LlA8lQ52W8
 https://www.youtube.com/watch?v=gcZPWkNY6x8
 bkz hayat feneri atmış bir kenara 
 https://www.youtube.com/watch?v=-z2dAjqP69Y
