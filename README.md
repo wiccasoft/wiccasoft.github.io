@@ -1,6 +1,7 @@
-[![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=GuJWBCqVUU0 )
+[![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://youtu.be/d2bh1k9XTk0 )
 
 <!-- 
+https://youtu.be/d2bh1k9XTk0
 https://www.uludagsozluk.com/k/g%C3%BCzel-kokan-erkek/&w=bg
 https://www.uludagsozluk.com/k/eve-k%C4%B1z-ataca%C4%9F%C4%B1nda-evi-temizleyen-erkek/&w=bg 
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-tipsiz-olmas%C4%B1/&w=bg
