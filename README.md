@@ -2,6 +2,7 @@
 
 <!--
 https://www.youtube.com/watch?v=E_zUxFrJ_SE bkz hani marjinal bizdik
+nkz tek dünya devletini nereye kursam sorunsalı
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses/&w=bg ilginç tezler 
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg yakışmadı sana fuat özkan kiç yapıyo mu öyle şeyler
 https://www.uludagsozluk.com/k/mazhar-alanson/&w=bg bkz ölmedimi bu hala 
