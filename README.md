@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg çok zalimsin keşke ölsen pis şey
 bkz götünün parmaklarken anüsüne dildo sokan adam vidyosu izleyen gay
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
 https://www.uludagsozluk.com/e/42834155/ sabahtan beri düşünüyorum kankağ ne arattın da buldun bunu
