@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz göte bakma durağında anüsüne 45 cm dildo sokan adam
 bkz gaylerin erkek merkezli yaşama sebebi
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz çok zalimsin keşke ölsen pis şey
 bkz götünün parmaklarken anüsüne dildo sokan adam vidyosu izleyen gay
