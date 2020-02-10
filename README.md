@@ -5,7 +5,7 @@
 bkz bordo mavi geceler öpsün sizi dedeler
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz bu sıcakta içlik giymek
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz ıstırırım onu yerim bi de
-bkz abdulhamdinin niye heykeli yok sorunsalı
+https://www.uludagsozluk.com/e/42836313/ bkz abdulhamdinin niye heykeli yok sorunsalı
 https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular 
 https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular 
 https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz bul karayı al parayı 
