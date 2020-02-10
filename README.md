@@ -3,7 +3,7 @@
 
 <!-- 
 bkz 2020 kktc  türkiye savaşı
-https://www.uludagsozluk.com/k/jackie-chan/&w=bg çok tatlı adam tanısanız siz de seversiniz
+https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz bul karayı al parayı 
 https://www.uludagsozluk.com/k/kuzey-k%C4%B1br%C4%B1s-t%C3%BCrk-cumhuriyeti/&w=bg
 https://www.uludagsozluk.com/k/2020-t%C3%BCrkiye-suriye-sava%C5%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=bg
