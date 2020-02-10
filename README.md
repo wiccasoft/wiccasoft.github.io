@@ -1,13 +1,12 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz instagramda anüs dildo aratılınca çıkan videolar
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/k/rtenin-sosyal-medya-tam-bir-%C3%A7%C3%B6pl%C3%BCk-demesi/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://patronum.uludagsozluk.com/ bkz bu ibne neyin patronu sorunsalı
 https://wake-up-neo.uludagsozluk.com/ bkz bu ibne ne iş yapıyor sorunsalı
-bkz instagramda anüs dildo aratan patron
-bkz instagramda anüs dildo aratılınca çıkan videolar
 https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/ 
 https://www.uludagsozluk.com/e/42834155/ bkz izlerken içinin yağlarının erimesi
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
