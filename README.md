@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/umar%C4%B1m-trabzonspor-%C5%9Fampiyon-olur/
 https://www.uludagsozluk.com/k/kuran-kursunda-tu%C4%9Flas%C4%B1-olana-cennette-ev-verilecek/
 https://www.uludagsozluk.com/k/ali-ihsan-yavuz-%C3%B6yle-dediysem-istifa-ederim/
 https://www.uludagsozluk.com/e/42834155/ bkz kankağ ne götler var kankağğ
