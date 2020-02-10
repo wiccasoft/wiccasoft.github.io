@@ -4,7 +4,9 @@
 bkz göte bakma durağı
 bkz o göte bülbül öte denilesi adamlar veritabanı
 bkz google erkek götü yazınca çıkan sonuçlar
-bkz google a dötüne direk sokan adam yazınca çıkan sonuşmlar
+bkz google a dötüne direk sokan adam yazınca çıkan sonuçlar
+,bkz yerli malı yurdun malı herkeş veştel kullanması
+https://www.uludagsozluk.com/k/yerli-mal%C4%B1-kullan%C4%B1n-diye-iphone-k%C4%B1ran-gen%C3%A7/
 https://www.uludagsozluk.com/k/timothee-chalamet-in-oscar-da-giydi%C4%9Fi-elbise/ kız seni yerler yerler
 https://www.uludagsozluk.com/e/42834155/ etkilenecekler izlemesin 
 bkz anüsüne 45 cm dilo sokan adam vidyosu izlerken akşam olması
