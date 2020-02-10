@@ -1,9 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-bkz göte bakma durağında anüsüne 45 cm dildo sokan adam
+
 bkz gaylerin erkek merkezli yaşama sebebi
-https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz çok zalimsin keşke ölsen pis şey
+bkz göte bakma durağında anüsüne 45 cm dildo sokan adam
 bkz götünün parmaklarken anüsüne dildo sokan adam vidyosu izleyen gay
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
 https://www.uludagsozluk.com/e/42834155/ sabahtan beri düşünüyorum kankağ ne arattın da buldun bunu
@@ -12,6 +12,7 @@ bkz twitter a gavat yazınca çıkan sonuçlar
 bkz twitter a gercek gecesi yazınca çıkan sonuçlar
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg beşer esed vs esed antivirüs
+https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz çok zalimsin keşke ölsen pis şey
 https://dci.mit.edu/decentralizedweb
 bkz rte nin decentralized web e geçelim önerisi
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
