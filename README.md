@@ -2,7 +2,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/e/42834155/ sabahtan beri düşünüyorum kankağ ne arattın da buldun bunu
-bkz anüsüne 45 cm dildo sokan adam videosu aratmak
 bkz algoritmayı gavatlara göre ayarlamak
 bkz twitter a gavat yazınca çıkan sonuçlar
 bkz twitter a gercek gecesi yazınca çıkan sonuçlar
