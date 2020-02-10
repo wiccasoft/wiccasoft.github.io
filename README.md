@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/pis-elleri-ile-yiyecek-haz%C4%B1rlayan-esnaf/ bkz czn burak
 bkz yunana gazetesinni türk önde türk ileri kitabı dağıtması
 bkz mustfa cengiz vs abfulrahim albayrak
 bkz kaynak:mobile.twitter
