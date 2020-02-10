@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz ıstırırım onu
 https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular lol
 https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular mutlumusunuz imamaoğlucular
 https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz bul karayı al parayı 
