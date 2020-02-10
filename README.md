@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://patronum.uludagsozluk.com/ bkz bu ibne neyin patronu sorunsalı
 https://wake-up-neo.uludagsozluk.com/ bkz bu ibne ne iş yapıyor sorunsalı
 bkz instagramda anüs dildo aratan patron
