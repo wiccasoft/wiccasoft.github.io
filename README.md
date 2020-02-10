@@ -1,36 +1,5 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
-<!-- 
-https://dci.mit.edu/decentralizedweb
-bkz rte nin decentralized web e geçelim önerisi
-bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
-https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
-https://www.uludagsozluk.com/k/rtenin-sosyal-medya-tam-bir-%C3%A7%C3%B6pl%C3%BCk-demesi/
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://patronum.uludagsozluk.com/ bkz bu ibne neyin patronu sorunsalı
-https://wake-up-neo.uludagsozluk.com/ bkz bu ibne ne iş yapıyor sorunsalı
-https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/ 
-https://www.uludagsozluk.com/e/42834155/ bkz izlerken içinin yağlarının erimesi
-https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
-https://www.uludagsozluk.com/k/brad-pitt/&w=bg
-https://www.uludagsozluk.com/k/joaquin-phoenix/&w=gd
-https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/ 
-https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
-https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
-https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/
-https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
-https://www.uludagsozluk.com/k/gerdek-odas%C4%B1-payla%C5%9F%C4%B1m%C4%B1-yapan-yeni-evli-%C3%A7ift/
-https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg
-https://www.uludagsozluk.com/k/joaquin-phoenix-vs-heath-ledger/&w=bg
-https://www.uludagsozluk.com/k/fesli-deli-vs-habe%C5%9F-maymunu/&w=bg
-https://www.uludagsozluk.com/k/%C5%9Feriat%C3%A7%C4%B1-vs-la%C4%9F%C4%B1m-faresi/
-https://www.uludagsozluk.com/k/indikten-sonra-arabaya-%C5%9F%C3%B6yle-bir-bakmak/&w=bg
-https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/
-https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/&w=gd
-https://www.uludagsozluk.com/k/gerdek-odas%C4%B1-payla%C5%9F%C4%B1m%C4%B1-yapan-yeni-evli-%C3%A7ift/
-https://www.uludagsozluk.com/k/rtenin-sosyal-medya-tam-bir-%C3%A7%C3%B6pl%C3%BCk-demesi/&w=gd 
--->
-
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
 [![Image](shadow/Screenshot_2020-02-04_13-48-08.png)]( https://www.youtube.com/watch?v=1Q8fG0TtVAY )
