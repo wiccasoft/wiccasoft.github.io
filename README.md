@@ -1,6 +1,9 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz anüsüne 45 cm dilo sokan adam vidyosu izlerken akşam olması
+https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
+https://www.uludagsozluk.com/k/billy-porter-%C4%B1n-oscar-t%C3%B6reninde-giydi%C4%9Fi-k%C4%B1yafet/
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-liselilerden-olu%C5%9Ftu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kaybedeni/&w=bg
 bkz yakışıklı olgun erkekler
