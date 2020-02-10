@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/ali-ihsan-yavuz-%C3%B6yle-dediysem-istifa-ederim/
 https://www.uludagsozluk.com/e/42834155/ bkz kankağ ne götler var kankağğ
 https://www.uludagsozluk.com/k/ali-ihsan-yavuz-%C3%B6yle-dediysem-istifa-ederim/
 https://www.uludagsozluk.com/k/bek%C3%A7i/&w=bg siz de olun kankağğğğ kafa raad
