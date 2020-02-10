@@ -1,10 +1,12 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/timothee-chalamet-in-oscar-da-giydi%C4%9Fi-elbise/ yenir kız bu ayol
 bkz göte bakma durağı
 bkz o göte bülbül öte denilesi adamlar veritabanı
 bkz google erkek götü yazınca çıkan sonuçlar
 bkz google a dötüne direk sokan adam yazınca çıkan sonuşmlar
+https://www.uludagsozluk.com/k/timothee-chalamet-in-oscar-da-giydi%C4%9Fi-elbise/
 https://www.uludagsozluk.com/e/42834155/ etkilenecekler izlemesin 
 bkz anüsüne 45 cm dilo sokan adam vidyosu izlerken akşam olması
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
