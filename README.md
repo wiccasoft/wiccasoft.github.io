@@ -3,6 +3,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/bayku%C5%9Fhamid/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/
+https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/
 https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
