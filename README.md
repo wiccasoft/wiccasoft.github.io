@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://wake-up-neo.uludagsozluk.com/ -bu ibne neiş yapıyor sorunsalı ya la
 bkz instagramda anüs dildo aratan patron
 bkz instagramda anüs dildo aratılınca çıkan videolar
 https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/ 
