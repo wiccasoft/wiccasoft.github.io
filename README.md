@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/bek%C3%A7i/&w=bg siz de olun kankağğğğ kafa raad
 https://www.uludagsozluk.com/e/42834155/ bkz kankağ ne götler var kankağğ
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/
 https://www.uludagsozluk.com/k/kuzey-k%C4%B1br%C4%B1s-ile-k%C3%B6t%C3%BC-olmak/
