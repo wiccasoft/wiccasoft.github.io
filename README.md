@@ -2,7 +2,7 @@
 <!-- 
 bkz link ver kankağğ
 bkz andulçah gül vs abdullah dilipak
-bkz i lk buluşmaya vestel x ile gelen erkek https://www.youtube.com/watch?v=c7IoBRRBiX8
+bkz ilk buluşmaya vestel yerli x ile gelen erkek https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.uludagsozluk.com/k/yerli-mal%C4%B1-kullan%C4%B1n-diye-iphone-k%C4%B1ran-gen%C3%A7/
 bkz yerli malığ yurdun malığğğ herkeş onu kullanmalığ
 https://www.youtube.com/watch?v=c7IoBRRBiX8 zuahhahaha
