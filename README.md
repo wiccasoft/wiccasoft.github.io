@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-https://www.uludagsozluk.com/k/mustafa-cengiz/
+https://www.uludagsozluk.com/k/kuzey-k%C4%B1br%C4%B1s-ile-k%C3%B6t%C3%BC-olmak/
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kaybedeni/ bkz rte
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/
 https://www.uludagsozluk.com/e/42835097/ hayallerde yaşıyor bazı ibneler
