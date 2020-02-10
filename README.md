@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz dildo adam aratınca çıkan sonuçlar
 bkz esedin askerlerini doğu gutaya çekmesi
 bkz iğrençsiniz ibneler
 bkz hani marjinal bizdik
