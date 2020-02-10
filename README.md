@@ -2,6 +2,7 @@
 <!-- 
 bkz link ver kankağ
 bkz bordo klavye hack team
+bkz kuryelerin sadece telefon kullandığı iddası
 bkz gerdek odasını bordo maviye boyayan çift
 bkz iphone x i kırıp daha da kullanmam diyen genç
 bkz götüne 45 cm dildo sokan adamın huaweci çıkması
