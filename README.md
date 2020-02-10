@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 <!-- 
 bkz link ver kankağğ
+bkz yerli malığ yurdun malığğğ herkeş onu kullanmalığ
 https://www.youtube.com/watch?v=c7IoBRRBiX8 zuahhahaha
 bkz yerli malı telefonu götünde kıran adam
 https://www.uludagsozluk.com/e/42834155/ o göte bülbül öte
