@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz kiziroğlu destanı
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz esed vs esed antivirüs
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlu vs esed
 https://eksisozluk.com/ne-ilac-yazdigimi-eczanede-ogrenirsin-diyen-doktor--6359635?a=popular lol
