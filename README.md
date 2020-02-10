@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-bkz eli skinde anüsüne dildo sokan adam vidyosu izleyen gay
+bkz götünün parmaklarken anüsüne dildo sokan adam vidyosu izleyen gay
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
 https://www.uludagsozluk.com/e/42834155/ sabahtan beri düşünüyorum kankağ ne arattın da buldun bunu
 bkz algoritmayı gavatlara göre ayarlamak
