@@ -2,7 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
-bkz göte bakma durağı
+https://www.uludagsozluk.com/e/42834155/ bkz göte bakma durağı
 bkz o göte bülbül öte denilesi adamlar veritabanı
 bkz google erkek götü yazınca çıkan sonuçlar
 bkz google a dötüne direk sokan adam yazınca çıkan sonuçlar
