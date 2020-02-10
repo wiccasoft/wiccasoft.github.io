@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/
 https://www.uludagsozluk.com/e/42835097/ hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/e/42834155/ bkz kankağ ne götler var kankağğ
 bkz her şey çok füzel zaten benim için tabi ki
