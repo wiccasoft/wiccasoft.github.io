@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz insgtram erkek götü yazınca çıkan sonuçlar
 https://www.uludagsozluk.com/e/42834155/ bkz iphone ile daha iyi izlenen video
 https://www.uludagsozluk.com/e/42834155/oyşşşşşşş
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kaybedeni/&w=bg bkz rte
