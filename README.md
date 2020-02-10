@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/e/42834155/ etkilenecekler izlemesin 
 bkz anüsüne 45 cm dilo sokan adam vidyosu izlerken akşam olması
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/k/billy-porter-%C4%B1n-oscar-t%C3%B6reninde-giydi%C4%9Fi-k%C4%B1yafet/
