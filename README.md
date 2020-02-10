@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz yunana gazetesinni türk önde türk ileri kitabı dağıtması
 bkz mustfa cengiz vs abfulrahim albayrak
 bkz kaynak:mobile.twitter
 https://www.uludagsozluk.com/k/rtenin-sosyal-medya-tam-bir-%C3%A7%C3%B6pl%C3%BCk-demesi/
