@@ -2,6 +2,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/brad-pitt/&w=bg
+https://www.uludagsozluk.com/k/joaquin-phoenix/&w=gd
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/ 
 https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
