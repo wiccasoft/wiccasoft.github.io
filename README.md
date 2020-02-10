@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/ bkz izlerken içinin yağlarının erimesi
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/k/brad-pitt/&w=bg
 https://www.uludagsozluk.com/k/joaquin-phoenix/&w=gd
