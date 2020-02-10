@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/e/42834155/oyşşşşşşş
 https://www.uludagsozluk.com/k/suriye-i%C3%A7-sava%C5%9F%C4%B1n%C4%B1n-kaybedeni/&w=bg bkz rte
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz sapık ergenler
 https://www.uludagsozluk.com/e/42834155/ bkz sapık ismet
@@ -8,7 +9,6 @@ bkz instagramda anüs dildo adam yazınca çıkan sonuçlar
 bkz insgram da erkek götüne yerli malı telefonla bakalım diyip iphne kıran genç
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/ bkz offff göte bak bilader
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg zalim bir diktatör pis şey
-https://www.uludagsozluk.com/e/42834155/ dikkatli izleyin
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/e/42834155/ bkz göte bakma durağı
 bkz o göte bülbül öte denilesi adamlar veritabanı
