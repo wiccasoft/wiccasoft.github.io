@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz göte bakma durağı
+bkz google erkek götü yazınca çıkan sonuçlar
 bkz google a dötüne direk sokan adam yazınca çıkan sonuşmlar
 https://www.uludagsozluk.com/e/42834155/ etkilenecekler izlemesin 
 bkz anüsüne 45 cm dilo sokan adam vidyosu izlerken akşam olması
