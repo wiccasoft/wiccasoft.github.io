@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
-<!-- https://www.uludagsozluk.com/k/arkada%C5%9Flar-siz-sim%C3%BClasyon-musunuz/&w=gd -->
+<!--
+https://www.uludagsozluk.com/k/aslan-akbey-duran-emmiyi-neden-%C3%B6ld%C3%BCrd%C3%BC-sorunsal%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/arkada%C5%9Flar-siz-sim%C3%BClasyon-musunuz/&w=gd -->
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
 
