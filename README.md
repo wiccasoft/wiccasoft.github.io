@@ -2,6 +2,7 @@
 <!-- 
 bkz yerli malı telefonu götünde kıran adam
 https://www.uludagsozluk.com/e/42834155/ o göte bülbül öte
+https://www.uludagsozluk.com/k/yerli-mal%C4%B1-kullan%C4%B1n-diye-iphone-k%C4%B1ran-gen%C3%A7/
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/k/gerdek-odas%C4%B1-payla%C5%9F%C4%B1m%C4%B1-yapan-yeni-evli-%C3%A7ift/
 https://www.uludagsozluk.com/k/yerli-mal%C4%B1-kullan%C4%B1n-diye-iphone-k%C4%B1ran-gen%C3%A7/&w=gd
