@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz anüsüne 45 cm dildo sokan adam videosu aratmak
 bkz algoritmayı gavatlara göre ayarlamak
 bkz twitter a gavat yazınca çıkan sonuçlar
 bkz twitter a gercek gecesi yazınca çıkan sonuçlar
