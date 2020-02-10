@@ -2,6 +2,7 @@
 
 <!-- 
 bkz iğrençsiniz ibneler
+bkz hani marjinal bizdik
 bkz deep webin irreversible filmine dönmesi
 bkz 1 milyon dolara tuttuğu takımın futbolcusuna vurduran adam
 bkz gaylerin erkek merkezli yaşama sebebi
