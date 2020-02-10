@@ -1,8 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-https://www.uludagsozluk.com/k/bayku%C5%9Fhamid/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/
+https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/&w=gd
 https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/
 https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/
