@@ -2,6 +2,7 @@
 
 <!-- 
 bkz göte bakma durağı
+bkz o göte bülbül öte denilesi adamlar veritabanı
 bkz google erkek götü yazınca çıkan sonuçlar
 bkz google a dötüne direk sokan adam yazınca çıkan sonuşmlar
 https://www.uludagsozluk.com/e/42834155/ etkilenecekler izlemesin 
