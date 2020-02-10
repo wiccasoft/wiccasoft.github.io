@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz kaynak:mobile.twitter
+https://www.uludagsozluk.com/k/rtenin-sosyal-medya-tam-bir-%C3%A7%C3%B6pl%C3%BCk-demesi/
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/2-koyun-gudemiyor-bilal-erdo%C4%9Fan-a-laf-ediyor/
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/&w=bg
