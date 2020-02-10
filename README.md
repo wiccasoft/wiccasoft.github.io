@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/e/42834155/ bkz kankağ ne götler var kankağğ
 bkz her şey çok füzel zaten benim için tabi ki
 bkz cmylmz ın 2 posta daha kayayım yeni aşklara yelken açarım bakışı
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
