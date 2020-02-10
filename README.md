@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz 2020 kktc  türkiye savaşı
+https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular mutlumusunuz imamaoğlucular
 https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz bul karayı al parayı 
 https://www.uludagsozluk.com/k/kuzey-k%C4%B1br%C4%B1s-t%C3%BCrk-cumhuriyeti/&w=bg
 https://www.uludagsozluk.com/k/2020-t%C3%BCrkiye-suriye-sava%C5%9F%C4%B1/&w=bg
