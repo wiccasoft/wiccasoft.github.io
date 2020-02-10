@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-https://www.uludagsozluk.com/e/42834155/ bkz sapık ismail
+https://www.uludagsozluk.com/e/42834155/ bkz sapık ismet
 bkz instagramda anüs dildo adam yazınca çıkan sonuçlar
 bkz insgram da erkek götüne yerli malı telefonla bakalım diyip iphne kıran genç
 https://www.uludagsozluk.com/k/an%C3%BCs%C3%BCne-45-cm-lik-dildo-sokan-adam/ bkz offff göte bak bilader
