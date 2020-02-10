@@ -4,11 +4,6 @@ bkz link ver kankağ
 bkz gerdek odasını bordo maviye boyayan çift
 bkz iphone x i kırıp daha da kullanmam diyen genç
 bkz götüne 45 cm dildo sokan adamın huaweci çıkması
-bkz gerdek gecesini paylaşan mobile.twtitter kulanıcısı
-bkz hadisenin paylaştığı iphone x e hayır yaşasın huawei paylaşımı
-bkz andulçah gül vs abdullah dilipak
-bkz telefon kullanmayan genç
-bkz iphone x kırıp kullanmıyorum diyen genç
 bkz ilk buluşmaya vestel yerli x ile gelen erkek https://www.youtube.com/watch?v=c7IoBRRBiX8
 https://www.uludagsozluk.com/k/yerli-mal%C4%B1-kullan%C4%B1n-diye-iphone-k%C4%B1ran-gen%C3%A7/
 bkz yerli malığ yurdun malığğğ herkeş onu kullanmalığ
