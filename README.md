@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/fesli-deli-vs-habe%C5%9F-maymunu/&w=bg
 https://www.uludagsozluk.com/k/%C5%9Feriat%C3%A7%C4%B1-vs-la%C4%9F%C4%B1m-faresi/
 https://www.uludagsozluk.com/k/indikten-sonra-arabaya-%C5%9F%C3%B6yle-bir-bakmak/&w=bg
 https://www.uludagsozluk.com/k/czn-burak-%C4%B1n-annesinin-tutuklanmas%C4%B1/
