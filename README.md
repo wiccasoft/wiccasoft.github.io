@@ -1,6 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz yakışıklı olgun erkekler
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg
 bkz dildo adam aratınca çıkan sonuçlar
 bkz esedin askerlerini doğu gutaya çekmesi
 bkz iğrençsiniz ibneler
