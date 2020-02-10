@@ -2,7 +2,7 @@
 
 
 <!-- 
-https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular bkz mutlu musunuz imamoglucular
+https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular 
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=gd bkz kiziroğlu destanı
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz esed vs esed antivirüs
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamoğlu vs esed
