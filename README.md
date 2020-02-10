@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 <!-- 
-bkz link ver kankağğ
+bkz link ver kankağ
+bkz gerdek gecesini paylaşan mobile.twtitter kulanıcısı
 bkz hadisenin paylaştığı iphone x e hayır yaşasın huawei paylaşımı
 bkz andulçah gül vs abdullah dilipak
 bkz telefon kullanmayan genç
