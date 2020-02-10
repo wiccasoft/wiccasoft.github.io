@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz esedin askerlerini doğu gutaya çekmesi
+bkz esedin askerlerini doğu gutaya çekmesi
 bkz iğrençsiniz ibneler
 bkz hani marjinal bizdik
 bkz deep webin irreversible filmine dönmesi
