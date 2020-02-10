@@ -2,7 +2,7 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bu sıcakta ne içiyosunuz lan
+https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz bu sıcakta içlik giymek
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz imamınoğlu
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz ıstırırım onu yerim bi de
 https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular 
