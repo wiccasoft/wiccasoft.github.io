@@ -1,5 +1,6 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 <!-- 
+bkz link ver kankağğ
 bkz yerli malı telefonu götünde kıran adam
 https://www.uludagsozluk.com/e/42834155/ o göte bülbül öte
 https://www.uludagsozluk.com/k/yerli-mal%C4%B1-kullan%C4%B1n-diye-iphone-k%C4%B1ran-gen%C3%A7/
