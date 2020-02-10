@@ -1,7 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-https://www.uludagsozluk.com/e/42834155/ sabahtan beri izliyorum kankağ ne arattın da buldun bunu
+https://www.uludagsozluk.com/e/42834155/ sabahtan beri düşünüyorum kankağ ne arattın da buldun bunu
 bkz anüsüne 45 cm dildo sokan adam videosu aratmak
 bkz algoritmayı gavatlara göre ayarlamak
 bkz twitter a gavat yazınca çıkan sonuçlar
