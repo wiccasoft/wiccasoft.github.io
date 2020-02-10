@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/bayku%C5%9Fhamid/
 https://www.uludagsozluk.com/k/bir-akp-liye-vatan-sevgisini-anlatmak/&w=bg
 https://www.uludagsozluk.com/k/gerdek-odas%C4%B1-payla%C5%9F%C4%B1m%C4%B1-yapan-yeni-evli-%C3%A7ift/
 https://www.uludagsozluk.com/k/ikinci-abd%C3%BClhamid/&w=bg
