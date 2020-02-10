@@ -1,9 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
-bkz erkekleri şapşikliyoruz kampanyası
-bkz arkadan vurdun mu önden sallanacak kankağğğğ
-bkz itici olmayan çekici olan erkekler veritabanı
+https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/2-koyun-gudemiyor-bilal-erdo%C4%9Fan-a-laf-ediyor/
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkek-iticili%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/e/42834155/ bkz kankağ ne götler var kankağğ
