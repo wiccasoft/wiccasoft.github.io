@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 <!-- 
 bkz link ver kankağ
+bkz gerdek odasını bordo maviye boyayan çift
 bkz iphone x i kırıp daha da kullanmam diyen genç
 bkz götüne 45 cm dildo sokan adamın huaweci çıkması
 bkz gerdek gecesini paylaşan mobile.twtitter kulanıcısı
