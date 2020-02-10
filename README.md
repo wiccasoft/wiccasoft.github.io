@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+bkz twitter a gercek gecesi yazınca çıkan sonuçlar
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg beşer esed vs esed antivirüs
 https://dci.mit.edu/decentralizedweb
