@@ -1,6 +1,7 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 <!-- 
+https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg beşer esed vs esed antivirüs
 https://dci.mit.edu/decentralizedweb
 bkz rte nin decentralized web e geçelim önerisi
 bkz instagramda anüs dildo adam aratılınca çıkan sonuçlar
