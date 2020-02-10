@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz hadi bordo mavi geceler öpsün sizi dedeler
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz bu sıcakta içlik giymek
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz imamınoğlu
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz ıstırırım onu yerim bi de
