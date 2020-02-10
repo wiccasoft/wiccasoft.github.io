@@ -2,8 +2,6 @@
 
 <!-- 
 bkz cmylmz ın 2 posta daha kayayım yeni aşklara yelken açarım bakışı
-bkz cmylmz nin paylaştığı seranay fotosu
-bkz rte nin facebook u kapatması
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/pis-elleri-ile-yiyecek-haz%C4%B1rlayan-esnaf/ bkz czn burak
 bkz yunana gazetesinni türk önde türk ileri kitabı dağıtması
