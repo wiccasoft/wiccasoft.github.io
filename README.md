@@ -4,7 +4,6 @@
 <!-- 
 bkz hadi bordo mavi geceler öpsün sizi dedeler
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz bu sıcakta içlik giymek
-https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz imamınoğlu
 https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz ıstırırım onu yerim bi de
 https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular 
 https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular 
