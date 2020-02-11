@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
+https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg
 bkz sekhmet oğlana akranı bi şeker oğlan buluyoruz kampanyası
 bkz kadri nin götürdüğü yere git diyen kızı eve atıp patlatmak
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen akitler
