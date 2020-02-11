@@ -1,4 +1,4 @@
-[![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=t5Re74eE3Hc )
+[![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
 
 <!-- 
 bkz facebooktan gbt bakan polislerin güldürmesi
