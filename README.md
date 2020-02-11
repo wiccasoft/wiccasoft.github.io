@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
+bkz imam oğlanın virüs olduğu gerçeği
 bkz imam oğlanın eşşeğin amına su kaçırması
 bzk bahçelinin şama bir gece putinden habersiz girelim önerisi
 bkz ali koçun ali potuk u istanbul dışında karantinaya alması
