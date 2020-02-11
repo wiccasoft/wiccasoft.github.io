@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
-bkz amınoğlu ekrem
+bkz amınoğlu ganyotçu ekrem
 bkz 11 şubat 2020 ekremin amınoğlu ggerçeğinin hala değişmemesi
 bkz ekremin amınoğlu olduğu gerçeğini bi kere daha görmek
 bkz ekremin amınoğlu olduğu iddaları
