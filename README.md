@@ -2,6 +2,8 @@
 
 
 <!--
+bkz aras kargo ceosu araz koralın iddaları reddetmesi
+https://www.uludagsozluk.com/k/aras-kargo-dan-%C3%BCr%C3%BCn-beklemek/&w=bg
 bkz yurt içi kargonun yerli ve milli ilk kargoyuz açıklması
 bkz ekrem imamaoğlan ir öpücük te sen at
 bkz kılıçoğşan bahçelioğlan ittifakının kulislerde gündeme oturması
