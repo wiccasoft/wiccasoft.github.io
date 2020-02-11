@@ -2,7 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
-bkz antalyalı esmer taylan sekhmet oğlan aşkı
+bkz antalyalı esmer pembe götlü taylan sarışın sekhmet aşkı
 bkz mahsun izzet ibo alişan benimle polemiğ girme
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m-mahmut-uslu-vs-ali-ko%C3%A7-semih-%C3%B6zsoy/
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker-gibi-yi%C4%9Fitler/ yiğidğimmmm ben sana bok yoluna git mi dedim
