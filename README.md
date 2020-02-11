@@ -2,42 +2,6 @@
 
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
-<!--
-https://www.uludagsozluk.com/e/42839255/ bkz ayı bagaja atıp kaçmak
-bkz kürt mü daha üstün türk mü sorunsalı
-bkz kürtlerin hayalperest olduğu iddaları
-bkz google kargonun 250 kişiyi işten çıkarması
-bkz kadir şekerin şekeri azaltması
-bkz bir gece ansızın leningrad
-bkz yaptığım abdulhamdi heykelini yıkan yobazlar
-bkz bahçelinin rusyayı kaç günde alırız açıklaması
-bkz burhan kuzunun işte kuzu kuzu geldim dansı yapması
-https://www.uludagsozluk.com/k/ay%C4%B1-ve-g%C3%BCne%C5%9Fi-araban%C4%B1n-bagaj%C4%B1na-koyup-g%C3%B6t%C3%BCren-adam/
-bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
-bkz metrobüste seks yapan çifti uyaran yobazlar
-bkz fetönün siyasi ayağının 41 olduğu iddaları
-bkz ekrem imamaoğlan bir öpücükte sen at
-bkz tarkan tevetoğlanın bomba gibi döndüm açıklaması
-bkz devlet bahçeli açıklamaları vs kılıçdaroğlan açıklamaları
-bkz yurtiçi kargonun tarkana sponsor olması
-bkz tengir budunun bi türlü gündemde kalmayı becerememesi
-https://www.uludagsozluk.com/k/aras-kargo-ile-yurti%C3%A7i-kargo-aras%C4%B1ndaki-farklar/&w=bg
-https://www.uludagsozluk.com/k/aras-kargo-nun-250-ki%C5%9Fiyi-i%C5%9Ften-%C3%A7%C4%B1kartmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F-vs-devlet-bah%C3%A7eli/&w=bg irdelenmeli
-https://www.uludagsozluk.com/k/tuttu%C4%9Fun-tak%C4%B1m%C4%B1-s%C3%B6ylemeden-anlat/&w=bg anlat pampa
-https://www.uludagsozluk.com/k/lionel-messi/&w=bg adam gol makinası beyler
-https://www.uludagsozluk.com/k/hakemler-de-insand%C4%B1r-hata-yapabilir/ adam haklı beyler
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ hadi bakalım göreyim sizi
-https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-5-evi-arabas%C4%B1-olan-erkek/&w=bg 
-https://www.uludagsozluk.com/k/seni-ben-istesem-anam-istemez-diyen-erkek/&w=bg lol
-https://eksisozluk.com/11-subat-2020-kemal-kilicdaroglu-aciklamalari--6362053?a=popular lol
-https://eksisozluk.com/11-subat-2020-devlet-bahceli-aciklamalari--6362023?a=popular lol
-https://eksisozluk.com/tarkanin-abd-donusu-yuruyusu--6362160?a=popular lol
-https://eksisozluk.com/adelein-45-kilo-vermesi--6362045?a=popular lol
-https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular lol
-https://eksisozluk.com/ayaklari-42-numara-olan-kadinin-sefkat-beklemesi--6361313?a=popular lol 
-https://eksisozluk.com/ne-ilac-yazdigimi-eczanede-ogrenirsin-diyen-doktor--6359635?a=popular lol
--->
 
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
