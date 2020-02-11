@@ -2,7 +2,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/e/42839255/ bkz ayı ve güneşi bagaja atıp kaçmak
+https://www.uludagsozluk.com/e/42839255/ bkz ayıyı bagaja atıp kaçmak
 bkz kürt mü daha üstün türk mü sorunsalı
 bkz kürtlerin hayalperest olması
 bkz google kargonun 250 kişiyi işten çıkarması
