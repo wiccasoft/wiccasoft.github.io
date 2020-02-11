@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
+bkz ekrem amınoğlunun kadir şekeroğlanı savumnası
 bkz ekrem imam oğlanın amın oğlu olduğu gerçeği
 bkz kadir imamaoğlanın kadir şekeri düğününe çağırması
 bkz kadir şekerin şeker gibi biri olması
