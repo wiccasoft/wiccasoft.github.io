@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
+bkz ekremin amdan çıktığını kabul etmesi
 bkz ekremin amın oğlu olduğu germeği
 bkz ekrem amınoğlu vs amınoğlu kadir
 bkz ekrem amınoğlunun kadir şekeroğlanı savumnası
