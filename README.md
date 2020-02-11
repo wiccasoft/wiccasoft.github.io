@@ -3,6 +3,7 @@
 
 <!-- 
 bkz low level hayat
+bkz yurtiçi kargonun tarkana sponsor olması
 bkz tengir budununun deep turkish web i mainstream sanması
 bkz tengir budunun bi türlü gündemde kalmayı becerememesi
 https://www.uludagsozluk.com/k/aras-kargo-nun-250-ki%C5%9Fiyi-i%C5%9Ften-%C3%A7%C4%B1kartmas%C4%B1/&w=gd
