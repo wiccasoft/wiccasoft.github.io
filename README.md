@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz low level hayat
 bkz tengir budununun deep turkish web i mainstream sanması
 bkz tengir budunun bi türlü gündemde kalmayı becerememesi
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F-vs-devlet-bah%C3%A7eli/&w=bg irdelenmeli
