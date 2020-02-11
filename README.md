@@ -2,6 +2,7 @@
 
 
 <!--
+bkz kadir şekerin şekeri azaltması
 bkz bir gece ansızın leningrad
 bkz yaptığım abdulhamdi heykelini yıkan yobazlar
 bkz bahçelinin rusyayı kaç günde alırız açıklaması
