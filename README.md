@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
+bkz muammer incenin muammer kaddafiye sen işine bak demesi
 https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg
 bkz sekhmet oğlana akranı bi şeker oğlan buluyoruz kampanyası
 bkz kadri nin götürdüğü yere git diyen kızı eve atıp patlatmak
