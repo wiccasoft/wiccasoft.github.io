@@ -2,7 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
-bkz kadrinin götürdüğü yere git diyen kızı eve atıp patlatmak
+bkz kadri nin götürdüğü yere git diyen kızı eve atıp patlatmak
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen akitler
 https://www.uludagsozluk.com/k/14-%C5%9Fubatta-kad%C4%B1n-yazarlara-hediye-g%C3%B6nderiyoruz/ bkz sözlük anneleri
 https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ ay uzak durun kızlar
