@@ -2,17 +2,6 @@
 
 
 <!-- 
-bkz bordo mavi geceler öpsün sizi dedeler
-https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=gd bkz bu sıcakta içlik giymek
-https://www.uludagsozluk.com/k/i%C3%A7lik-giyen-erkek/&w=bg bkz ıstırırım onu yerim bi de
-https://www.uludagsozluk.com/e/42836313/ bkz abdulhamdinin niye heykeli yok sorunsalı
-https://www.uludagsozluk.com/k/kardan-adam%C4%B1m%C4%B1-y%C4%B1kan-o%C3%A7/&w=gd
-https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular 
-https://eksisozluk.com/imamoglunun-akp-meclis-uyesine-kufur-etmesi--6361169?a=popular 
-https://www.uludagsozluk.com/k/jackie-chan/&w=bg bkz bul karayı al parayı 
-https://www.uludagsozluk.com/k/kuzey-k%C4%B1br%C4%B1s-t%C3%BCrk-cumhuriyeti/&w=bg
-https://www.uludagsozluk.com/k/2020-t%C3%BCrkiye-suriye-sava%C5%9F%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=bg
 https://eksisozluk.com/ne-ilac-yazdigimi-eczanede-ogrenirsin-diyen-doktor--6359635?a=popular lol
 https://eksisozluk.com/ayaklari-42-numara-olan-kadinin-sefkat-beklemesi--6361313?a=popular lol 
 -->
