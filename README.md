@@ -3,7 +3,7 @@
 <!-- 
 bkz kadri şeker oğlan kim amk
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker-katil-midir/
-https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ bkz barzo erkek çekiciliği
+https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ bkz kadir şeker oğlan
 bkz antalyalı esmer pembe götlü taylan sarışın sekhmet aşkı
 bkz mahsun izzet ibo alişan benimle polemiğ girme
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m-mahmut-uslu-vs-ali-ko%C3%A7-semih-%C3%B6zsoy/
