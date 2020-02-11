@@ -3,6 +3,7 @@
 <!-- 
 bkz kadri şeker oğlan kim amk
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen akitler
+https://www.uludagsozluk.com/k/14-%C5%9Fubatta-kad%C4%B1n-yazarlara-hediye-g%C3%B6nderiyoruz/ bkz sözlük anneleri
 https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ ay uzak durun kızlar
 https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
 https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker
