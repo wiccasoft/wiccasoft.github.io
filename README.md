@@ -2,6 +2,7 @@
 
 
 <!--
+bkz kılıçolan ve bahçelinin mecliste kahve içmesi
 bkz aras kargo ceosu araz koralın iddaları reddetmesi
 https://www.uludagsozluk.com/k/aras-kargo-dan-%C3%BCr%C3%BCn-beklemek/&w=bg
 bkz yurt içi kargonun yerli ve milli ilk kargoyuz açıklması
