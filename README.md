@@ -2,6 +2,7 @@
 
 
 <!--
+bkz imamaoğlanın metrobüs hatları iyi demesi
 bkz metrobüste sikişen çifti uyaran yobazlar
 bkz fetönün siyasi ayağının 41 olduğu iddaları
 bkz kılıçolan ve bahçelinin mecliste kahve içmesi
