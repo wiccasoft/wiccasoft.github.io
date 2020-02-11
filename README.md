@@ -1,7 +1,5 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
 
-
-
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
