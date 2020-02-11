@@ -2,6 +2,7 @@
 
 
 <!--
+bkzemtrobüste sikişen çifti uyaran yobazlar
 bkz fetönün siyasi ayağının 41 olduğu iddaları
 bkz kılıçolan ve bahçelinin mecliste kahve içmesi
 bkz aras kargo ceosu araz koralın iddaları reddetmesi
