@@ -2,9 +2,9 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F-vs-devlet-bah%C3%A7eli/&w=bg irdelenmeli
 bkz tengir budununun deep turkish web i mainstream sanması
 bkz tengir budunun bi türlü gündemde kalmayı becerememesi
+https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F-vs-devlet-bah%C3%A7eli/&w=bg irdelenmeli
 https://www.uludagsozluk.com/k/tuttu%C4%9Fun-tak%C4%B1m%C4%B1-s%C3%B6ylemeden-anlat/&w=bg anlat pampa
 https://www.uludagsozluk.com/k/lionel-messi/&w=bg adam gol makinası beyler
 https://www.uludagsozluk.com/k/hakemler-de-insand%C4%B1r-hata-yapabilir/ adam haklı beyler
