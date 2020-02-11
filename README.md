@@ -10,6 +10,7 @@ bkz bir gece ansızın leningrad
 bkz yaptığım abdulhamdi heykelini yıkan yobazlar
 bkz bahçelinin rusyayı kaç günde alırız açıklaması
 bkz burhan kuzunun işte kuzu kuzu geldim dansı yapması
+https://www.uludagsozluk.com/k/ay%C4%B1-ve-g%C3%BCne%C5%9Fi-araban%C4%B1n-bagaj%C4%B1na-koyup-g%C3%B6t%C3%BCren-adam/
 bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
 bkz metrobüste seks yapan çifti uyaran yobazlar
 bkz fetönün siyasi ayağının 41 olduğu iddaları
