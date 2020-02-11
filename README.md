@@ -3,6 +3,7 @@
 
 <!--
 bkz kadir şekerin kurtardığı gol
+bkz bahçelinin rusyayı kaç günde alırız açıklaması
 bkz burhan kuzunun işte kuzu kuzu geldim dansı yapması
 bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
 bkz metrobüste sikişen çifti uyaran yobazlar
