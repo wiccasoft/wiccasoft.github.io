@@ -1,7 +1,7 @@
 
-[![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/ )
+[![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
-[![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
+[![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
 <!-- 
 bkz imam oğlanın virüs olduğu gerçeği
