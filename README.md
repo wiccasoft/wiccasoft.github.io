@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=t5Re74eE3Hc )
 
 <!-- 
-bkz kadri şeker oğlan kim amk
+https://www.youtube.com/watch?v=cUcCg3c09xM bkz kadri şeker oğlan kim amk
 bkz sihirli annem tuna izlerken annenin odaya girmesi
 https://www.uludagsozluk.com/k/sihirli-annem-de-tuna-n%C4%B1n-verdi%C4%9Fi-efsane-ayar/
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker-katil-midir/
