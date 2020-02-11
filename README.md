@@ -1,5 +1,10 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
-
+<!-- 
+bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen ak itler 
+https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
+https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker
+bkz beşer esedin doğu gutaya askerleerini yığmasına sese etmeyen akitler
+-->
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
