@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
+https://www.uludagsozluk.com/k/kadir-%C5%9Feker-gibi-yi%C4%9Fitler/ yiğidğimmmm ben sana bok yoluna git mi dedim
 https://www.uludagsozluk.com/k/aykut-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg
 bkz muammer incenin muammer kaddafiye sen işine bak demesi
 https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg
