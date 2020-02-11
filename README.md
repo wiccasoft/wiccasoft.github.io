@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/lionel-messi/&w=bg
-bkz genşler ben yaşlandım artık yormayın beni yaş 41
+bkz genşler ben yaşlandım artık yormayın beni yaş 41 bu yaştan sonra keyf kusura bakmayın
 https://www.uludagsozluk.com/k/seni-ben-istesem-anam-istemez-diyen-erkek/&w=bg lol
 https://eksisozluk.com/11-subat-2020-kemal-kilicdaroglu-aciklamalari--6362053?a=popular lol
 https://eksisozluk.com/11-subat-2020-devlet-bahceli-aciklamalari--6362023?a=popular lol
