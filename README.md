@@ -2,6 +2,8 @@
 
 
 <!-- 
+https://eksisozluk.com/tarkanin-abd-donusu-yuruyusu--6362160?a=popular lol
+https://eksisozluk.com/adelein-45-kilo-vermesi--6362045?a=popular lol
 https://eksisozluk.com/ogretmen-ve-ogrencilerin-kardan-abdulhamid-yapmasi--6361505?a=popular lol
 https://eksisozluk.com/ayaklari-42-numara-olan-kadinin-sefkat-beklemesi--6361313?a=popular lol 
 https://eksisozluk.com/ne-ilac-yazdigimi-eczanede-ogrenirsin-diyen-doktor--6359635?a=popular lol
