@@ -3,6 +3,7 @@
 
 <!-- 
 bkz amınoğlu ekrem
+bkz 11 şubat 2020 ekremin amınoğlu ggerçeğinin hala değişmemesi
 bkz ekremin amınoğlu olduğu gerçeğini bi kere daha görmek
 bkz ekremin amınoğlu olduğu iddaları
 bkz ekremin amın oğlu olduğu gerçeğini değiştiremeyeceksiniz
