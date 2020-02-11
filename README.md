@@ -1,35 +1,6 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
 
-<!-- 
-https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fam-a-girelim-demesi/ bir geze ansısızın şam 82 musul 83
-bkz ali koçun alper potuk u ilk beşe alması
-bkz facebooktan gbt bakan polislerin güldürmesi
-bkz facebook ta arattım bulamadım seni diyen kıza beni bulamazsın gulüm ben aslında yoğum demek
-bkz savcılıktan suç kaydını getir diyen kız 19 taneyse şapşikleyecem seni diyen kız
-https://www.youtube.com/watch?v=cUcCg3c09xM bkz kadri şeker oğlan kim amk
-bkz sihirli annem tuna izlerken annenin odaya girmesi
-https://www.uludagsozluk.com/k/sihirli-annem-de-tuna-n%C4%B1n-verdi%C4%9Fi-efsane-ayar/
-https://www.uludagsozluk.com/k/kadir-%C5%9Feker-katil-midir/
-https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ bkz kadir şeker oğlan
-bkz antalyalı esmer pembe götlü taylan sarışın sekhmet aşkı
-bkz mahsun izzet ibo alişan benimle polemiğ girme
-https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m-mahmut-uslu-vs-ali-ko%C3%A7-semih-%C3%B6zsoy/
-https://www.uludagsozluk.com/k/kadir-%C5%9Feker-gibi-yi%C4%9Fitler/ yiğidğimmmm ben sana bok yoluna git mi dedim
-https://www.uludagsozluk.com/k/instagram-gen%C3%A7ler-isyan-etmesin-diye-%C3%A7%C4%B1kart%C4%B1ld%C4%B1/&w=bg zuahaha
-https://www.uludagsozluk.com/k/aykut-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg
-bkz muammer incenin muammer kaddafiye sen işine bak demesi
-https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg
-bkz sekhmet oğlana akranı bi şeker oğlan buluyoruz kampanyası
-bkz kadri nin götürdüğü yere git diyen kızı eve atıp patlatmak
-bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen akitler
-bkz nereyede gidersin şeker oğlan diyen kıza ananın olduğu yere doğru gidiryorum demek
-bkz nereye gidersin şeker oğlan diyen kıza sana giderim ay kız sana giderim bal kız demek
-https://www.uludagsozluk.com/k/14-%C5%9Fubatta-kad%C4%B1n-yazarlara-hediye-g%C3%B6nderiyoruz/ bkz sözlük anneleri
-https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ ay uzak durun kızlar
-https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
-https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker
-bkz beşer esedin doğu gutaya askerleerini yığmasına sese etmeyen akitler
--->
+
 
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
