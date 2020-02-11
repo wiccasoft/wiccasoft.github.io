@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem amınoğlu
 bkz ekremin amın oğlu olduğu gerçeği
 bkz ekremin amın oğlu olduğu gerçeğini değiştirecek tezleri olmayan yazarlar
 bkz ekremin amdan çıktığını kabul etmesi
