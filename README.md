@@ -1,6 +1,6 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 <!-- 
-bkz ali koçun ali potuk u yedek klubüsine alması
+bkz ali koçun ali potuk u yedek klubesine alması
 bkz imam oğlanın babasının ibb sekreterine küfr etmesi
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen ak itler 
 https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
