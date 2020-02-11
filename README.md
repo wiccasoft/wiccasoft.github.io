@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
 <!-- 
+bkz imama oğlanın küfürbaz oç olduğu gerçeği
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=gd
 bkz imam oğlanın virüs olduğu gerçeği
 bkz imam oğlanın eşşeğin amına su kaçırması
