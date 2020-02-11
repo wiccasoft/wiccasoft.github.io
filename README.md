@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=t5Re74eE3Hc )
 
-<!-- https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker -->
+<!-- 
+https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker
+bkz beşer esedin doğu gutaya askerleerini yığmasına sese etmeyen akitler
+-->
 
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
