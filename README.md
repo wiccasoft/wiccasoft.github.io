@@ -4,7 +4,7 @@
 <!--
 bkz kadir şekerin kurtardığı gol
 bkz bir gece ansızın leningrad
-bkz yaptığım abdulhamdi heykelini yıkan yobazlar
+bkz yaptığım kardan abdulhamdi heykelini yıkan yobazlar
 bkz bahçelinin rusyayı kaç günde alırız açıklaması
 bkz burhan kuzunun işte kuzu kuzu geldim dansı yapması
 bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
