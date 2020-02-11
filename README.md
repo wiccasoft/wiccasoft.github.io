@@ -2,6 +2,8 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
+bkz sihirli annem tuna izlerken annenin odaya girmesi
+https://www.uludagsozluk.com/k/sihirli-annem-de-tuna-n%C4%B1n-verdi%C4%9Fi-efsane-ayar/
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker-katil-midir/
 https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ bkz kadir şeker oğlan
 bkz antalyalı esmer pembe götlü taylan sarışın sekhmet aşkı
