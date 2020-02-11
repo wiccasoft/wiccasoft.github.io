@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz ekrem imamaoğlan ir öpücük te sen at
 bkz kılıçoğşan bahçelioğlan ittifakının kulislerde gündeme oturması
 bkz tarkan tevetoğlanın bomba gibi döndüm açıklaması
 bkz devlet bahçeli açıklamaları vs kılıçdaroğlan açıklamaları
