@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=t5Re74eE3Hc )
 
 <!-- 
+bkz facebooktan gbt bakan polislerin güldürmesi
 bkz facebook ta arattım bulamadım seni diyen kıza beni bulamazsın gulüm ben aslında yoğum demek
 bkz savcılıktan suç kaydını getir diyen kız 19 taneyse şapşikleyecem seni diyen kız
 https://www.youtube.com/watch?v=cUcCg3c09xM bkz kadri şeker oğlan kim amk
