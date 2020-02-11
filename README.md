@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=wf421JsG004 )
 
 <!-- 
-https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fam-a-girelim-demesi/ bir geze ansısızın şam 82 musul
+https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fam-a-girelim-demesi/ bir geze ansısızın şam 82 musul 83
 bkz ali koçun alper potuk u ilk beşe alması
 bkz facebooktan gbt bakan polislerin güldürmesi
 bkz facebook ta arattım bulamadım seni diyen kıza beni bulamazsın gulüm ben aslında yoğum demek
