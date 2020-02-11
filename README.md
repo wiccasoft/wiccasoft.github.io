@@ -2,7 +2,7 @@
 
 
 <!--
-bkz ara kargonun 250 kişiyi sepetlemesi
+bkz google kargonun 250 kişiyi işten çıkarması
 bkz kadir şekerin şekeri azaltması
 bkz bir gece ansızın leningrad
 bkz yaptığım abdulhamdi heykelini yıkan yobazlar
