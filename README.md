@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
+https://www.uludagsozluk.com/k/aykut-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg
 bkz muammer incenin muammer kaddafiye sen işine bak demesi
 https://www.uludagsozluk.com/k/muammer-kaddafi/&w=bg
 bkz sekhmet oğlana akranı bi şeker oğlan buluyoruz kampanyası
