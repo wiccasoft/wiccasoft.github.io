@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
+bkz kadir imamaoğlanın kadir şekeri düğününe çağırması
 bkz kadir şekerin şeker gibi biri olması
 bkz tengir budun doğanın ali koça sahip çıkması
 https://twitter.com/arkabesliforum/status/979453504002625537
