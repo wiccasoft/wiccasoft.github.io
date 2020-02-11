@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz tarkan tevetoğlanın bomba gibi döndüm açıklaması
 bkz devlet bahçeli açıklamaları vs kılıçdaroğlan açıklamaları
 bkz yurtiçi kargonun tarkana sponsor olması
 bkz tengir budununun deep turkish web i mainstream sanması
