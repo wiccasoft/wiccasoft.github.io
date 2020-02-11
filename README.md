@@ -4,26 +4,7 @@
 
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
-<!-- 
-bkz tengir budun doğanın ali koça sahip çıkması
-https://twitter.com/arkabesliforum/status/979453504002625537
-https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
-https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz kuvayi fenevbahçe
-https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz yedirmeyiz
-https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz kadiy şekey
-bkz imama oğlanın küfürbaz oç olduğu gerçeği
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=gd
-bkz imam oğlanın virüs olduğu gerçeği
-bkz imam oğlanın eşşeğin amına su kaçırması
-bkz ali koçun alper potuk yerine oyuna girmesi
-bkz ali koçun ali potuk u istanbul dışında karantinaya alması
-bkz imam oğlanın babasının ibb müftüsüne küfr etmesi
-bzk bahçelinin şama bir gece putinden habersiz girelim önerisi
-bkz imam oğlan ın kudüs mitingine katılmasına ses etmeyen chp itler 
-bkz imam oğlan bi virüs olabilir mi lütfen olsun çünkü
-https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
-https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker
--->
+
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 [![Image](shadow/Screenshot_2020-02-06_14-05-15.png)]( https://www.youtube.com/watch?v=MtQX-Q92KGY )
