@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
 <!-- 
+https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
 https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz yedirmeyiz aliyi
 bkz imama oğlanın küfürbaz oç olduğu gerçeği
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=gd
