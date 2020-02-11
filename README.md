@@ -2,7 +2,7 @@
 
 
 <!--
-bkz imamaoğlanın metrobüs hatları iyi demesi
+bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
 bkz metrobüste sikişen çifti uyaran yobazlar
 bkz fetönün siyasi ayağının 41 olduğu iddaları
 bkz kılıçolan ve bahçelinin mecliste kahve içmesi
