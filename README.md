@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
+https://www.uludagsozluk.com/k/kadir-%C5%9Feker-katil-midir/
 https://www.uludagsozluk.com/k/19-su%C3%A7-kayd%C4%B1-olan-erkek-tatl%C4%B1l%C4%B1%C4%9F%C4%B1/ bkz barzo erkek çekiciliği
 bkz antalyalı esmer pembe götlü taylan sarışın sekhmet aşkı
 bkz mahsun izzet ibo alişan benimle polemiğ girme
