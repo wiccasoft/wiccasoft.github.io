@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz low level hayat
+bkz devlet bahçeli açıklamaları vs kılıçdaroğlan açıklamaları
 bkz yurtiçi kargonun tarkana sponsor olması
 bkz tengir budununun deep turkish web i mainstream sanması
 bkz tengir budunun bi türlü gündemde kalmayı becerememesi
