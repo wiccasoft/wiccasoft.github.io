@@ -9,16 +9,10 @@ bkz burhan kuzunun işte kuzu kuzu geldim dansı yapması
 bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
 bkz metrobüste sikişen çifti uyaran yobazlar
 bkz fetönün siyasi ayağının 41 olduğu iddaları
-bkz kılıçolan ve bahçelinin mecliste kahve içmesi
-bkz aras kargo ceosu araz koralın iddaları reddetmesi
-https://www.uludagsozluk.com/k/aras-kargo-dan-%C3%BCr%C3%BCn-beklemek/&w=bg
-bkz yurt içi kargonun yerli ve milli ilk kargoyuz açıklması
-bkz ekrem imamaoğlan ir öpücük te sen at
-bkz kılıçoğşan bahçelioğlan ittifakının kulislerde gündeme oturması
+bkz ekrem imamaoğlan bir öpücükte sen at
 bkz tarkan tevetoğlanın bomba gibi döndüm açıklaması
 bkz devlet bahçeli açıklamaları vs kılıçdaroğlan açıklamaları
 bkz yurtiçi kargonun tarkana sponsor olması
-bkz tengir budununun deep turkish web i mainstream sanması
 bkz tengir budunun bi türlü gündemde kalmayı becerememesi
 https://www.uludagsozluk.com/k/aras-kargo-ile-yurti%C3%A7i-kargo-aras%C4%B1ndaki-farklar/&w=bg
 https://www.uludagsozluk.com/k/aras-kargo-nun-250-ki%C5%9Fiyi-i%C5%9Ften-%C3%A7%C4%B1kartmas%C4%B1/&w=gd
