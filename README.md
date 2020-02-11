@@ -2,7 +2,7 @@
 
 <!-- 
 bkz kadri şeker oğlan kim amk
-bkz sekhmet oğlana yaşıtı bi şeker oğlan buluyoruz kampanyası
+bkz sekhmet07 oğlana yaşıtı bi şeker oğlan buluyoruz kampanyası
 bkz kadri nin götürdüğü yere git diyen kızı eve atıp patlatmak
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen akitler
 bkz nereyede gidersin şeker oğlan diyen kıza ananın olduğu yere doğru gidiryorum demek
