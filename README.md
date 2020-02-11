@@ -2,6 +2,7 @@
 
 
 <!--
+bkz burahna kuzunun işte kuzu kuzu geldim dansı yapması
 bkz imamaoğlanın metrobüs hatları çoh eyi oldu ççok güzel oldu demesi
 bkz metrobüste sikişen çifti uyaran yobazlar
 bkz fetönün siyasi ayağının 41 olduğu iddaları
