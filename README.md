@@ -5,8 +5,7 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
 <!-- 
-bkz ali koçu yedirmeyiz
-bkz tengir budunun ali koça sahip çıkması
+bkz tengir budun doğanın ali koça sahip çıkması
 https://twitter.com/arkabesliforum/status/979453504002625537
 https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
 https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz yedirmeyiz aliyi
