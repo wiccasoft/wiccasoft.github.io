@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
+bkz ekremin amın oğlu olduğu gerçeğini değiştiremeyeceksiniz
 bkz ekremin amın oğlu olduğu gerçeğini bir kere daha hatırlamak
 bkz ekremin amın oğlu olduğu gerçeğini anlayan ergenler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ekrem amınoğlu
