@@ -1,8 +1,6 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=6KxL0X9MZRA )
 
-
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
-
 
 <!--
 https://www.uludagsozluk.com/e/42839255/ bkz ayı bagaja atıp kaçmak
