@@ -2,9 +2,9 @@
 
 
 <!--
-https://www.uludagsozluk.com/e/42839255/ bkz ayıyı bagaja atıp kaçmak
+https://www.uludagsozluk.com/e/42839255/ bkz ayı bagaja atıp kaçmak
 bkz kürt mü daha üstün türk mü sorunsalı
-bkz kürtlerin hayalperest olması
+bkz kürtlerin hayalperest olduğu iddaları
 bkz google kargonun 250 kişiyi işten çıkarması
 bkz kadir şekerin şekeri azaltması
 bkz bir gece ansızın leningrad
