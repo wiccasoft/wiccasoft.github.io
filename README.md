@@ -3,7 +3,7 @@
 <!-- 
 bzk bahçelinin şama bir gece putinden habersiz girelim önerisi
 bkz ali koçun ali potuk u istanbul dışında karantinaya alması
-bkz imam oğlanın babasının ibb sekreterine küfr etmesi
+bkz imam oğlanın babasının ibb müftüsüne küfr etmesi
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen ak itler 
 https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
 https://www.uludagsozluk.com/k/ka%C5%9Flar%C4%B1n%C4%B1-ald%C4%B1ran-erkek/ bkz kadir şeker
