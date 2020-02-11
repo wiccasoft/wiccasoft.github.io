@@ -1,7 +1,8 @@
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
 
 
-<!-- 
+<!--
+bkz yurt içi kargonun yerli ve milli ilk kargoyuz açıklması
 bkz ekrem imamaoğlan ir öpücük te sen at
 bkz kılıçoğşan bahçelioğlan ittifakının kulislerde gündeme oturması
 bkz tarkan tevetoğlanın bomba gibi döndüm açıklaması
@@ -9,6 +10,7 @@ bkz devlet bahçeli açıklamaları vs kılıçdaroğlan açıklamaları
 bkz yurtiçi kargonun tarkana sponsor olması
 bkz tengir budununun deep turkish web i mainstream sanması
 bkz tengir budunun bi türlü gündemde kalmayı becerememesi
+https://www.uludagsozluk.com/k/aras-kargo-ile-yurti%C3%A7i-kargo-aras%C4%B1ndaki-farklar/&w=bg
 https://www.uludagsozluk.com/k/aras-kargo-nun-250-ki%C5%9Fiyi-i%C5%9Ften-%C3%A7%C4%B1kartmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F-vs-devlet-bah%C3%A7eli/&w=bg irdelenmeli
 https://www.uludagsozluk.com/k/tuttu%C4%9Fun-tak%C4%B1m%C4%B1-s%C3%B6ylemeden-anlat/&w=bg anlat pampa
