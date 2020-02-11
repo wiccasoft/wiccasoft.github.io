@@ -3,9 +3,9 @@
 <!-- 
 bkz imam oğlanın virüs olduğu gerçeği
 bkz imam oğlanın eşşeğin amına su kaçırması
-bzk bahçelinin şama bir gece putinden habersiz girelim önerisi
 bkz ali koçun ali potuk u istanbul dışında karantinaya alması
 bkz imam oğlanın babasının ibb müftüsüne küfr etmesi
+bzk bahçelinin şama bir gece putinden habersiz girelim önerisi
 bkz imam oğlanın kudüs mitingine katılmasına ses etmeyen ak itler 
 bkz imam oğlan bi virüs olabilir mi lütfen olsun çünkü
 https://www.uludagsozluk.com/k/annesine-d%C3%BC%C5%9Fk%C3%BCn-o%C4%9Flan/&w=bg bkz şeker oğlan
