@@ -8,6 +8,7 @@
 bkz tengir budun doğanın ali koça sahip çıkması
 https://twitter.com/arkabesliforum/status/979453504002625537
 https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
+https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz kuvayi fenevbahçe
 https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz yedirmeyiz
 bkz imama oğlanın küfürbaz oç olduğu gerçeği
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=gd
