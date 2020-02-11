@@ -2,7 +2,7 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/k/lionel-messi/&w=bg
+https://www.uludagsozluk.com/k/lionel-messi/&w=bg adam gol makinası beyler
 https://www.uludagsozluk.com/k/hakemler-de-insand%C4%B1r-hata-yapabilir/ adam haklı beyler
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-na-bir-iftira-da-sen-at/ hadi bakalım göreyim sizi
 https://www.uludagsozluk.com/k/25-ya%C5%9F%C4%B1nda-5-evi-arabas%C4%B1-olan-erkek/&w=bg 
