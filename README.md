@@ -2,6 +2,7 @@
 
 
 <!--
+bkz kürt mü daha üstün türk mü sorunsalı
 bkz kürtlerin hayalperest olması
 bkz google kargonun 250 kişiyi işten çıkarması
 bkz kadir şekerin şekeri azaltması
