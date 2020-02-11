@@ -1,9 +1,9 @@
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 
 <!-- 
-bkz ali koçun alper potuk yerine oyuna girmesi
 bkz imam oğlanın virüs olduğu gerçeği
 bkz imam oğlanın eşşeğin amına su kaçırması
+bkz ali koçun alper potuk yerine oyuna girmesi
 bkz ali koçun ali potuk u istanbul dışında karantinaya alması
 bkz imam oğlanın babasının ibb müftüsüne küfr etmesi
 bzk bahçelinin şama bir gece putinden habersiz girelim önerisi
