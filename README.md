@@ -5,6 +5,8 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz annesinin dövene abisini pıçaklayarak öldüren kardeş
+https://www.uludagsozluk.com/k/annesini-d%C3%B6ven-abisini-b%C4%B1%C3%A7aklayarak-%C3%B6ld%C3%BCren-karde%C5%9F/&w=bg
 bkz imamoğluna kızıp doğurusunu öğrenince dönen adam
 bkz imamaoğlu ananmın üstünde yakalansa orospuluk anamdadır diyen adam
 bkz kadri şekerin çok yakışıklı olduğu iddaları
