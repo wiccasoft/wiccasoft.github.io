@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz defne samyelinni kızlarının taş gibi olduğu gerçeği
 bkz cmylmz nin defne samyelinin içinde gezdirdim tweeti
 bkz güzellik artıkça iq düşer diyen tipsiz ergen
 bkz defne samyelinni cmylmı kıskandırmak için  eski tokmakçısını takibe alması
