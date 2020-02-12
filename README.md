@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz defne samyelininni cmylmz e seranay sen ben üçlü takılalım teklifi
+bkz taylor swiftin cmylmz a vurdurmak en büyük hayalim demesi
+bkz defne samyelininin cmylmz e seranay sen ben üçlü takılalım teklifi
 bkz defne samyeli cmylmz aşkının yeniden filizlenmesi
 bkz cmylm ın defn samyelinni kızlarını gözüne kestirmesi
 bkz defne samyelinni kızlarının taş gibi olduğu gerçeği
