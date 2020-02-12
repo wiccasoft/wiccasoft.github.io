@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-https://www.nasa.gov/astronauts/biographies/kathleen-rubins
+https://www.nasa.gov/astronauts/biographies/kathleen-rubins bkz ekşici profili
 bkz instagram 45 cm dildo yazınca sedat peker in çıkması
 bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 bkz çılgın sedat ve adamlarının çok seksi oldukları gerçeği
