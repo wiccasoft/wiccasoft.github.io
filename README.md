@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz türk arama motoru tarık 
 bkz kim ulan bu kadri şeker? bkz aratmaya üşenmek
 bkz vedat milörün yütüp kanalında karısının dudaklarından bahsetmesi
 bkz kadrinin götürdüğü yere git -ananın olduğu yere gidiyorum raad ol
