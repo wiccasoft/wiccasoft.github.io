@@ -4,6 +4,7 @@
 <!--
 bkz tek kişilik dev kadro
 bkz adamlarım olmadığı halde başarılı olmam
+bkz ilk buluşmaya alper potuk la gelen klüp başkanı
 bkz ilk buluşmaya adamlarını yollayan erkek
 bkz çomarlardan izole yaşamanın faydaları
 bkz ortaçlının şengörlüye götelek demesi
