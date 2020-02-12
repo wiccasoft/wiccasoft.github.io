@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
 https://www.youtube.com/watch?v=jpbYi-IfPXs kebap styla
+https://www.youtube.com/watch?v=S6GhiP8wPwA cıncık gibisin
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahhaha bu nedir olm ya
 https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat aylayı boşayım seni alacam
 -->
