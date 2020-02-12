@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://eksisozluk.com/enes-baturun-12-milyon-aboneye-ulasmasi--6363676?a=popular bkz türk önde türk ileri
 https://eksisozluk.com/galatasarayin-7-0-lik-fenerbahce-maci-paylasimi--6363425?a=popular
 https://eksisozluk.com/reynmen-konserine-gidemeyen-adamin-aglamasi--6363622?a=popular
