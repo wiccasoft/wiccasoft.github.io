@@ -5,7 +5,7 @@
 
 <!--
 bkz kadri şeker şekşiliği
-bkz ruhi çenetin marka olma yolunda ilerlemesi
+bkz ruhi çenetin dünya markası olma yolunda ilerlemesi
 bkz ruhi çenetin çenesindeki esrarengiz seksilik
 bkz ruhi çenet spy gamedeki adam benzerliği
 bkz reynmen konserine gidemeyen adamın ağlaması
