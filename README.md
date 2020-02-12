@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır
 bkz müge amlıdaki ganyotçu ekremin tatlişko bi babişko çıkması
 https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
