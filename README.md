@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık 
+bkz ruhi çenet testeredeki adam benzerliği
 bkz kim ulan bu kadri şeker? bkz aratmaya üşenmek
 bkz vedat milörün yütüp kanalında karısının dudaklarından bahsetmesi
 bkz kadrinin götürdüğü yere git -ananın olduğu yere gidiyorum raad ol
