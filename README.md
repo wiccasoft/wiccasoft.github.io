@@ -3,6 +3,7 @@
 
 <!-- 
 bkz amınoğlunun güldürmesi
+bkz soyunma odasına kamera koyan imamın salınması
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
