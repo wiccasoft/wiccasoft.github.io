@@ -5,6 +5,7 @@
 bkz hani marjinal bizdik
 bkz cmylmz ın kamalcıların bugını bulması
 bkz kamalcıların karı sorunu olmadığı farketmek
+bkz hep tipsiz hem salakların kendilerin avutması
 bkz şaka maka cmylmz ın rüyanızda göremiyeceğiniz karıları ipe dizdiği gerçeği
 bkz cmylmzın tek başına türkiyenin erkek açığını kapadığı gerçeği
 bkz cmylmz ın sikmediğ karı kalmışmıdır sorunsalı
