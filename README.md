@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz güzellik artıkça iq düşer diyen tipsi ergen
 bkz defne samyelinni cmylmı kıskandırmak için  eski tokmakçısını takibe alması
 bkz defne samyelinin duygu dolu tweeti
 https://www.uludagsozluk.com/k/akp-nin-misyonu/&w=bg bkz ananıza kaymak 
