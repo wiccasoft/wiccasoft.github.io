@@ -3,6 +3,7 @@
 
 <!-- 
 bkz amınoğlunun güldürmesi
+https://www.youtube.com/watch?v=cRvwcoKOc3s
 bkz amınoğlunun eşşeğin amına su kaçırması
 bkz müge amlıya çıkan faik dayının sicili
 bkz soyunma odasına kamera koyan imamın salınması
