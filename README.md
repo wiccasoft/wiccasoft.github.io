@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz vedat milörün yütüp kanalı
+bkz vedat milörün yütüp kanalında karısının dudaklarından bahsetmesi
 bkz kadrinin götürdüğü yere git -ananın olduğu yere gidiyorum raad ol
 bkz recep tayyip erdoğanın yutüp kanalı açması
 bkz barış özcan kim ulan bu elon musk videosu
