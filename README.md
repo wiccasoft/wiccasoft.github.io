@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz erdal bakkal vs erdal kömürcü
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 https://www.uludagsozluk.com/k/erdal-k%C3%B6m%C3%BCrc%C3%BC/&w=bg bkz zürriyetsiz top
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
