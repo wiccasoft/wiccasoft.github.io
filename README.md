@@ -3,6 +3,8 @@
 
 <!-- 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://eksisozluk.com/galatasarayin-7-0-lik-fenerbahce-maci-paylasimi--6363425?a=popular
+https://eksisozluk.com/reynmen-konserine-gidemeyen-adamin-aglamasi--6363622?a=popular
 https://eksisozluk.com/cumhurbaskani-adayi-imamoglu-mu-olsun-yavas-mi--6362371?a=popular 
 https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it entry girmeyi öğrenmişin
