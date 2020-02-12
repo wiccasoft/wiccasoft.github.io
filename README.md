@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık 
+https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
 bkz ruhi çenetin türkiyenin steve jobsı barış özcanın da elon muskı olması
 bkz ruhi çenet testeredeki adam benzerliği
 bkz kim ulan bu kadri şeker? bkz aratmaya üşenmek
