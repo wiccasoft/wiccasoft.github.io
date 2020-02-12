@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-
 https://www.nasa.gov/astronauts/biographies/kathleen-rubins bkz ekşici profili
 bkz çılgın sedat ve adamlarının çok seksi oldukları gerçeği
 https://www.uludagsozluk.com/k/sabunla-du%C5%9F-alan-erkek/ vurduruyordur
-https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıbcım hadi be bıbıcım
+https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıcım hadi be bıbıcım
 https://www.uludagsozluk.com/k/kanka-diye-dola%C5%9Fan-tipler/ kankağğğğ öle demeğ kankağğğğ
 https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır
 bkz müge amlıdaki ganyotçu ekremin tatlişko bi babişko çıkması
@@ -22,8 +22,6 @@ https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz sihirli annem izlerken odaya babanın girip dövmesi
 https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır ama benena
-bkz imamoğlanın raconu kesip sefirliğini ilan etmesi
-https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahahaha bu nedir olm ya 
 bkz ali koç ve adamlarının hakan peker ve adamlarına saldırması
