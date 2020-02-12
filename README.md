@@ -3,7 +3,9 @@
 
 <!-- 
 bkz erdal bakkal vs erdal kömürcü
+https://eksisozluk.com/tolunay-kafkas--109679?a=popular
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/
+https://eksisozluk.com/10-numara-denildiginde-akla-gelen-ilk-isim--5283333?a=popular
 https://eksisozluk.com/cok-fena-cehaletin-dondugu-dusunulen-yerler--6169923?a=popular bkz gs soyunma odası
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 https://www.uludagsozluk.com/k/erdal-k%C3%B6m%C3%BCrc%C3%BC/&w=bg bkz zürriyetsiz top
