@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/ilk-kez-vajina-g%C3%B6ren-erke%C4%9Fin-tepkileri/&w=bg am mı lan o
 https://www.uludagsozluk.com/k/erkeklerde-vajina-k%C4%B1zlarda-penis-olsayd%C4%B1/ vurdururmuydunuz
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 https://www.uludagsozluk.com/k/erdal-k%C3%B6m%C3%BCrc%C3%BC/&w=bg adam top olmuş beyler
