@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz e-devletten ermeni olduğunu öğrenip monitöre kafa atan genç
 bkz receğ tayyiğe kızuıp tc bestepe sayfasına küfreden genç
 bkz recep tayyiğ erdoğana kızıp annesini bıçaklyana genç
