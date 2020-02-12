@@ -4,13 +4,13 @@
 <!--
 bkz instagram 45 cm dildo yazınca sedat peker in çıkması
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
+bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
 https://www.uludagsozluk.com/k/seks-yapaken-yeehaaaa-diye-ba%C4%9F%C4%B1ran-erkek/ yeaaaaaaah yeahhh
 https://www.uludagsozluk.com/k/tokata-gelin-gitmek/ bkz ekşicilerin hayali
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-vs-zeki-erkek/&w=bg bkz hem aptal he tipsiz
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
 https://www.nasa.gov/astronauts/biographies/kathleen-rubins bkz ekşici profili
-bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 bkz çılgın sedat ve adamlarının çok seksi oldukları gerçeği
 https://www.uludagsozluk.com/k/sabunla-du%C5%9F-alan-erkek/ vurduruyordur
 https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıbcım hadi be bıbıcım
