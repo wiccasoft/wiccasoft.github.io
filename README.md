@@ -3,7 +3,9 @@
 
 <!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahahaha bu nedir olm ya 
-https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular -->
+https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular 
+https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
+https://www.youtube.com/watch?v=jpbYi-IfPXs kebap styla-->
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
