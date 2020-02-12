@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz abdulhamdi heykeline kar topu atan çocuğun gaga bulut çıkması
 bkz angelina jolie nin 45 kilo vermesi
 bkz enes batur vs kanye west
 bkz calvin harris vs neşet ertaş
