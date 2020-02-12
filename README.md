@@ -5,6 +5,7 @@
 
 <!--
 bkz rte nin demeyi kapaması
+bkz ruhi çenet dünyada kaç ülke var videosu
 bkz bekiroglanın imamoğlana demeden yürümesi
 bkz imamolusozluk te kavga eden tinerciler
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır deli'huanlı
