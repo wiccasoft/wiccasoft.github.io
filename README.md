@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz sihirli annem izlerken odaya babanın girip dövmesi
 https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/
 bkz müge amlıdaki ganyotçu ekrem
