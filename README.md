@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/akp-nin-misyonu/&w=bg bkz ananıza kaymak 
 bkz hani marjinal bizdik
 bkz cmylmz ın kamalcıların bugını bulması
 bkz kamalcıların karı sorunu olmadığı farketmek
