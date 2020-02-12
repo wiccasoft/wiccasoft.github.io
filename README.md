@@ -5,6 +5,7 @@
 
 <!--
 bkz türkiyenin erkek açığını kapayacak erkek
+https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğmu
 bkz türk arama motoru tarık https://www.youtube.com/watch?v=4RpMzsA1VOw
