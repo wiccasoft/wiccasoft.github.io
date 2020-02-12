@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz kim ulan bu kadri şeker? bkz google da aratmaya üşenmek
+bkz kim ulan bu kadri şeker? bkz aratmaya üşenmek
 bkz vedat milörün yütüp kanalında karısının dudaklarından bahsetmesi
 bkz kadrinin götürdüğü yere git -ananın olduğu yere gidiyorum raad ol
 bkz recep tayyip erdoğanın yutüp kanalı açması
