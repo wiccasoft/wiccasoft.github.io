@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz bekiroglanının imamaoğlana demeden yürümesi
+bkz bekiroglanın imamoğlana demeden yürümesi
 bkz imamolusozluk te kavga eden tinerciler
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır deli'huanlı
 bkz kadri şekerin şeker gibi oğlan olduğu gerçeği
