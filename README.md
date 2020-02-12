@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz ak parti yütüp kanalının paylaştığı gelin canlar bir olalım videosu
 bkz ekşicilerin rte nin yütüp sayfasına dislike atması
 bkz receğ tayyiğ erdoğanın yütüp kanalı açması
 bkz ruhi çenet testeredeki adam benzerliği
