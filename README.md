@@ -3,62 +3,6 @@
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
-<!--
-bkz erkek diyince akla gelen ilk erkek
-bkz türkiyenin erkek açığını kapayacak erkek
-https://www.uludagsozluk.com/k/tek-%C3%A7ocuklu-bo%C5%9Fanm%C4%B1%C5%9F-erkekler/&w=bg
-bkz e devletten ermeni olduğunu öğrenip monitörü öpen erkek
-https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğmu
-bkz türk arama motoru tarık https://www.youtube.com/watch?v=4RpMzsA1VOw
-https://www.uludagsozluk.com/k/meri%C3%A7-vs-keko/ ankarada kekolara şaka videosu
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
-bkz e-devletten ermeni olduğunu öğrenip monitöre kafa atan genç
-bkz receğ tayyiğe kızuıp tc bestepe sayfasına küfreden genç
-bkz recep tayyiğ erdoğana kızıp annesini bıçaklyana genç
-bkz ibrahim tyalısese kızıp babasını bıçaklayan genç
-bkz trumpa kızıp kızıp götüne monitörü sokan türk
-bkz recep tayyip erdoğan ın yütüp kanalı
-bkz annemi niye sikiyosun diye babasını pıçaklayan genç
-bkz trumpa kızıp götüne iphone sokan genç
-bkz imamğlana sorup doğrusunu öğrenen genç
-bkz neşet ertaşın teknik açıdan gay olduğu iddaları
-https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/ zuahahaha
-https://www.uludagsozluk.com/k/%C3%A7irkin-%C4%B1rklar-listesi/&w=bg türkler hariç de oç
-bkz annesinin dövene abisini pıçaklayarak öldüren kardeş
-bkz kadri şekerin çok yakışıklı olduğu iddaları
-https://www.uludagsozluk.com/k/kadir-%C5%9Feker/ bkz kadrinin götürdüğü yere git
-bkz imamoğlunun n doğruyu bildiği iddaları
-https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
-bkz ruhi çenetin türkiyenin steve jobsı barış özcanın da elon muskı olması
-bkz ruhi çenet testeredeki adam benzerliği
-bkz kim ulan bu kadri şeker? bkz aratmaya üşenmek
-bkz vedat milörün yütüp kanalında karısının dudaklarından bahsetmesi
-bkz kadrinin götürdüğü yere git -ananın olduğu yere gidiyorum raad ol
-bkz recep tayyip erdoğanın yutüp kanalı açması
-bkz barış özcan kim ulan bu elon musk videosu
-bkz fatih terim efsane 2001 soyunma odası videosu
-bkz enes batur kazları nasıl yoldum videosu
-bkz ruhi çenet yütüpten kaç para hoplatıyorum videosu
-bkz ruhi çenet dünyada kaç ülke var videosu
-bkz bekiroglanın imamoğlana demeden yürümesi
-bkz imamolusozluk te kavga eden tinerciler
-https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır deli'huanlı
-bkz kadri şekerin şeker gibi oğlan olduğu gerçeği
-bkz kadri şeker şekşiliği
-bkz ruhi çenetin dünya markası olma yolunda ilerlemesi
-bkz ruhi çenetin çenesindeki esrarengiz seksilik
-bkz ruhi çenet spy gamedeki adam benzerliği
-bkz reynmen konserine gidemeyen adamın ağlaması
-bkz cerrahpaşa tıp bitirip nelerle muhattap olmak
-https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
-bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
-https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
-https://eksisozluk.com/tirina-kacak-binen-multecileri-doven-tirci--6364091?a=popular bkz recep ivedik teki tırcı
--->
-
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
 
