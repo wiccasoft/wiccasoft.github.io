@@ -5,6 +5,8 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz imamoğluna kızıp doğurusunu öğrenince dönen adam
+bkz imamaoğlu ananmın üstünde yakalansa orospuluk anamdadır diyen adam
 bkz kadri şekerin çok yakışıklı olduğu iddaları
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/ bkz kadrinin götürdüğü yere git
 bkz imamoğlunun n doğruyu bildiği iddaları
