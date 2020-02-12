@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz hiç adamlarım olmadığı halde başarılı olmam
 https://www.uludagsozluk.com/k/tokata-gelin-gitmek/ bkz ekşicilerin hayali
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-vs-zeki-erkek/&w=bg bkz hem aptal he tipsiz
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
