@@ -2,19 +2,13 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz tek kişilik dev kadro
-bkz adamlarım olmadığı halde başarılı olmam
-bkz ilk buluşmaya alper potuk la gelen klüp başkanı
-bkz ilk buluşmaya adamlarını yollayan erkek
-bkz çomarlardan izole yaşamanın faydaları
-bkz ortaçlının şengörlüye götelek demesi
+bkz instagram 45 cm dildo yazınca sedat peker in çıkması
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
 https://www.uludagsozluk.com/k/seks-yapaken-yeehaaaa-diye-ba%C4%9F%C4%B1ran-erkek/ yeaaaaaaah yeahhh
 https://www.uludagsozluk.com/k/tokata-gelin-gitmek/ bkz ekşicilerin hayali
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-vs-zeki-erkek/&w=bg bkz hem aptal he tipsiz
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
-bkz instagram 45 cm dildo yazınca sedat peker in çıkması
 https://www.nasa.gov/astronauts/biographies/kathleen-rubins bkz ekşici profili
 bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 bkz çılgın sedat ve adamlarının çok seksi oldukları gerçeği
