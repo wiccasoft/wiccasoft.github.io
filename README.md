@@ -4,7 +4,8 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz türk arama motoru tarık 
+bkz türk arama motoru tarık
+https://www.uludagsozluk.com/k/kadir-%C5%9Feker/ bkz kadrinin götürdüğü yere git
 bkz imamoğlunun n doğruyu bildiği iddaları
 https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
 bkz ruhi çenetin türkiyenin steve jobsı barış özcanın da elon muskı olması
