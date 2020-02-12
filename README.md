@@ -9,6 +9,7 @@ bkz ruhi çenetin dünya markası olma yolunda ilerlemesi
 bkz ruhi çenetin çenesindeki esrarengiz seksilik
 bkz ruhi çenet spy gamedeki adam benzerliği
 bkz reynmen konserine gidemeyen adamın ağlaması
+bkz cerrahpaşa tıp bitirip nelerle muhattap olmak
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
