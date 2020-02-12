@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz deep web te entry giren ergen özgüveni
+https://www.uludagsozluk.com/k/erdal-k%C3%B6m%C3%BCrc%C3%BC/&w=bg adam top olmuş beyler
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://eksisozluk.com/enes-baturun-12-milyon-aboneye-ulasmasi--6363676?a=popular bkz türk önde türk ileri
