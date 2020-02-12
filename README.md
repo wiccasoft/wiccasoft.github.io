@@ -2,12 +2,14 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://eksisozluk.com/ali-koc--157305?a=popular
 https://eksisozluk.com/cem-yilmaz--32715?a=popular
 https://eksisozluk.com/ruhi-cenet--3873914?a=popular
 https://eksisozluk.com/fernando-muslera--2132214?a=popular
 https://eksisozluk.com/neset-ertasin-teknik-acidan-zayif-olmasi--6364180?a=popular
 https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular
 https://www.youtube.com/watch?v=NiabnQBRDfA  gerçekler acıdır delihuanlı
+https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz kennedy
 https://www.uludagsozluk.com/k/mersin-de-ele-ge%C3%A7irilen-4000-y%C4%B1ll%C4%B1k-b%C3%BCy%C3%BC-kitab%C4%B1/
