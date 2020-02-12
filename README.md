@@ -3,21 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
-<!-- 
-bkz amınoğlunun güldürmesi
-https://www.youtube.com/watch?v=cRvwcoKOc3s
-bkz amınoğlunun eşşeğin amına su kaçırması
-https://www.youtube.com/watch?v=S6GhiP8wPwA 
-bkz müge amlıya çıkan faik dayının sicili
-bkz soyunma odasına kamera koyan imamın salınması
-https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
-https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
-https://www.youtube.com/watch?v=jpbYi-IfPXs kebap styla
-https://www.youtube.com/watch?v=S6GhiP8wPwA cıncık gibisin
-https://twitter.com/arkabesliforum/status/979453504002625537 zuahahhaha bu nedir olm ya
-https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat aylayı boşayım seni alacam
--->
 
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
