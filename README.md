@@ -3,7 +3,7 @@
 
 <!-- 
 bkz enes batur vs kanye west
-bkz calvin harris vs ahmet kaya
+bkz calvin harris vs ibrahim tatlıses
 bkz erdal erzincanlı vs taylor swift vs neşet ertaş
 bkz defne samyeli vs seranay sarıkaya vs taylor swift
 bkz erdal bakkal vs erdal kömürcü
