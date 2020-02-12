@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz müge amlıdaki ganyotçu ekrem
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır ama benena
 bkz imamoğlanın raconu kesip sefirliğini ilan etmesi
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
