@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz e-devletten ermeni olduğunu öğrenip monitöre kafa atan genç
 bkz receğ tayyiğe kızuıp tc bestepe sayfasına küfreden genç
 bkz recep tayyiğ erdoğana kızıp annesini bıçaklyana genç
 bkz ibrahim tyalısese kızıp babasını bıçaklayan genç
