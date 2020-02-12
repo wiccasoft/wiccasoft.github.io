@@ -4,36 +4,10 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-https://www.youtube.com/watch?v=EU4ClC3J_yY
-bkz instagram 45 cm dildo yazınca sedat peker in çıkması
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
-https://www.uludagsozluk.com/k/seks-yapaken-yeehaaaa-diye-ba%C4%9F%C4%B1ran-erkek/ yeaaaaaaah yeahhh
-https://www.uludagsozluk.com/k/tokata-gelin-gitmek/ bkz ekşicilerin hayali
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek-vs-zeki-erkek/&w=bg bkz hem aptal he tipsiz
-https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
-https://www.nasa.gov/astronauts/biographies/kathleen-rubins bkz ekşici profili
-bkz çılgın sedat ve adamlarının çok seksi oldukları gerçeği
-https://www.uludagsozluk.com/k/sabunla-du%C5%9F-alan-erkek/ vurduruyordur
-https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıcım hadi be bıbıcım
-https://www.uludagsozluk.com/k/kanka-diye-dola%C5%9Fan-tipler/ kankağğğğ öle demeğ kankağğğğ
-https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır
-bkz müge amlıdaki ganyotçu ekremin tatlişko bi babişko çıkması
-https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
-https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
-bkz sihirli annem izlerken odaya babanın girip dövmesi
-https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/
-https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır ama benena
-https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
-https://twitter.com/arkabesliforum/status/979453504002625537 zuahahahaha bu nedir olm ya 
-bkz ali koç ve adamlarının hakan peker ve adamlarına saldırması
-bkz ganyotçu ekrem ve adamlarının hakan pekerin adamlarına ravonu kesmei
-https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular 
-https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular 
-bkz imamaoğlunun tokat manyaa yapıp gerçekleri öğretti doktor 
-https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
-https://www.youtube.com/watch?v=jpbYi-IfPXs kebap styla-->
+-->
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
