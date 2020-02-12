@@ -2,6 +2,8 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz sihirli annem izlerken odaya babanın girip dövmesi
+https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/
 bkz müge amlıdaki ganyotçu ekrem
 https://www.youtube.com/watch?v=4RpMzsA1VOw çalışmak hojdır ama benena
 bkz imamoğlanın raconu kesip sefirliğini ilan etmesi
