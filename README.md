@@ -10,6 +10,7 @@ bkz reynmen konserine gidemeyen adamın ağlaması
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
+https://eksisozluk.com/tirina-kacak-binen-multecileri-doven-tirci--6364091?a=popular bkz recep ivedik teki tırcı
 -->
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
