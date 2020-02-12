@@ -1,21 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
-<!-- 
-https://www.youtube.com/watch?v=VaUPyuzNsGQ asdasdasdasd
-bkz amınoğlu ekremin feneri savunması
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenevbavceyi yedivmeviz
-https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
-bkz ali koçun alper potuk yerine oyuna girmesi
-bkz ekremin amınoğlu olduğu iddaları
-bkz ekremin amın oğlu olduğu gerçeğini değiştiremeyeceksiniz
-bkz ekremin amın oğlu olduğu gerçeğini bir kere daha hatırlamak
-bkz fenevbavce düşmanlavıma fenev olalım 
-bkz tengir budun doğanın ali koça sahip çıkması
-https://twitter.com/arkabesliforum/status/979453504002625537
-https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
-https://eksisozluk.com/11-subat-2020-ahaberin-ali-koca-saldirmasi--6362776?a=popular bkz yedivmeyiz
-https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz kadiy şekey
--->
+
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
 [![Image](shadow/Screenshot_2020-02-07_14-11-17.png)]( https://www.youtube.com/watch?v=yjE3SfSTdtc )
