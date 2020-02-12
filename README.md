@@ -5,6 +5,8 @@
 
 <!--
 bkz türkiyenin erkek açığını kapayacak erkek
+bkz erkek diyince akla gelen ilk erkek
+https://www.uludagsozluk.com/k/tek-%C3%A7ocuklu-bo%C5%9Fanm%C4%B1%C5%9F-erkekler/&w=bg
 bkz e devletten ermeni olduğunu öğrenip monitörü öpen erkek
 https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
