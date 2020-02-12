@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it
 bkz mersinli cihangirin 4000 yıllık büyü kitabını kaçırması
 bkz calvin harris in defne samyeliye yürümesi
 bkz taylor swiftin cmylmz a vurdurmak en büyük hayalim demesi
