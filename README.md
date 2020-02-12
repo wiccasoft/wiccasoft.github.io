@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 bkz e-devletten ermeni olduğunu öğrenip monitöre kafa atan genç
 bkz receğ tayyiğe kızuıp tc bestepe sayfasına küfreden genç
