@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
 <!-- 
+bkz amınoğlunun güldürmesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahhaha bu nedir olm ya
 https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat 
