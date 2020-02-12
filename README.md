@@ -4,6 +4,7 @@
 <!--
 bkz tek kişilik dev kadro
 bkz adamlarım olmadığı halde başarılı olmam
+bkz halktan(çomarlardan) izole yaşamanın faydaları
 https://www.uludagsozluk.com/k/sevgilisi-var-diye-ba%C5%9Fka-k%C4%B1za-bakmayan-erkek/&w=gd bkz ılık
 https://www.uludagsozluk.com/k/seks-yapaken-yeehaaaa-diye-ba%C4%9F%C4%B1ran-erkek/ yeaaaaaaah yeahhh
 https://www.uludagsozluk.com/k/tokata-gelin-gitmek/ bkz ekşicilerin hayali
