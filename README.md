@@ -4,6 +4,7 @@
 <!--
 bkz tek kişilik dev kadro
 bkz adamlarım olmadığı halde başarılı olmam
+bkz ilk buluşmaya annesiyle gelen oğlan
 bkz çomarlardan izole yaşamanın faydaları
 bkz ortaçlının şengörlüye götelek demesi
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
