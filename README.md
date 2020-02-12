@@ -3,7 +3,7 @@
 
 <!-- 
 bkz hani marjinal bizdik
-bkz şaka maka cmylmz ın rüyanızda görmiyeceğiniz karıları ipre dizdiği gerçeği
+bkz şaka maka cmylmz ın rüyanızda göremiyeceğiniz karıları ipe dizdiği gerçeği
 bkz cmylmzın tek başına türkiyenin erkek açığını kapadığı gerçeği
 bkz cmylmz ın sikmediğ karı kalmışmıdır sorunsalı
 bkz defne samyelinin cmylmz kıskandırmak için ozan güvene vurdurması
