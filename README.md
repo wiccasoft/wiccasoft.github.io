@@ -2,7 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz sedat kapanğlunun adamlarının sedat pekerin doğum gününü basması
+bkz sedat kapanoğlunun adamlarının sedat pekerin doğum gününü basması
 bkz çılgın sedat ve adamlarının çok seksi oldukları gerçeği
 https://www.uludagsozluk.com/k/sabunla-du%C5%9F-alan-erkek/ vurduruyordur
 https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıbcım hadi be bıbıcım
