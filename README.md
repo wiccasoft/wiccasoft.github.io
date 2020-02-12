@@ -4,7 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz rte nin demeyi kapaması
+bkz ruhi çenet yütüpten kaç para hoplatıyorum videosu
 bkz ruhi çenet dünyada kaç ülke var videosu
 bkz bekiroglanın imamoğlana demeden yürümesi
 bkz imamolusozluk te kavga eden tinerciler
