@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz kennedy
 https://www.uludagsozluk.com/k/mersin-de-ele-ge%C3%A7irilen-4000-y%C4%B1ll%C4%B1k-b%C3%BCy%C3%BC-kitab%C4%B1/
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it başlık açmayı öğrenmişsin
 bkz mersinli cihangirin 4000 yıllık büyü kitabını kaçırması
