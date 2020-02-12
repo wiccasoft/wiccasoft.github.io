@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz mersinli dayının 4000 yıllık büyü kitabını kaçırması
+bkz mersinli cihangirin 4000 yıllık büyü kitabını kaçırması
 bkz calvin harris in defne samyeliye yürümesi
 bkz taylor swiftin cmylmz a vurdurmak en büyük hayalim demesi
 bkz defne samyelininin cmylmz e seranay sen ben üçlü takılalım teklifi
