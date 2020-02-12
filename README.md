@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz erdal erzincanlı vs taylor swift vs neşet ertaş
 bkz defne samyeli vs seranay sarıkaya vs taylor swift
 bkz erdal bakkal vs erdal kömürcü
 https://eksisozluk.com/tolunay-kafkas--109679?a=popular
