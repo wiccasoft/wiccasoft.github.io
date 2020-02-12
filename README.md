@@ -5,7 +5,7 @@
 bkz amınoğlunun güldürmesi
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahhaha bu nedir olm ya
-https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat 
+https://www.youtube.com/watch?v=t5Re74eE3Hc tam beni tarif etmişsin evlat aylayı boşayım seni alacam
 -->
 
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
