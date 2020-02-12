@@ -1,51 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!-- 
-bkz abdulhamdi heykeline kar topu atan çocuğun gaga bulut çıkması
-bkz angelina jolie nin 45 kilo vermesi
-bkz enes batur vs kanye west
-bkz calvin harris vs neşet ertaş
-bkz erdal erzincanlı vs taylor swift vs neşet ertaş
-bkz defne samyeli vs seranay sarıkaya vs taylor swift
-bkz erdal bakkal vs erdal kömürcü
-https://eksisozluk.com/tolunay-kafkas--109679?a=popular
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/
-https://eksisozluk.com/10-numara-denildiginde-akla-gelen-ilk-isim--5283333?a=popular
-https://eksisozluk.com/cok-fena-cehaletin-dondugu-dusunulen-yerler--6169923?a=popular bkz gs soyunma odası
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
-https://www.uludagsozluk.com/k/erdal-k%C3%B6m%C3%BCrc%C3%BC/&w=bg bkz zürriyetsiz top
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://eksisozluk.com/enes-baturun-12-milyon-aboneye-ulasmasi--6363676?a=popular bkz türk önde türk ileri
-https://eksisozluk.com/galatasarayin-7-0-lik-fenerbahce-maci-paylasimi--6363425?a=popular
-https://eksisozluk.com/reynmen-konserine-gidemeyen-adamin-aglamasi--6363622?a=popular
-https://eksisozluk.com/cumhurbaskani-adayi-imamoglu-mu-olsun-yavas-mi--6362371?a=popular 
-https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
-https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it entry girmeyi öğrenmişin
-bkz re ceğ tay yiğ er do van rece tayyyi er do van 
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz ekşicilerin rte nin yütüp sayfasına dislike atması
-bkz receğ tayyiğ erdoğanın yütüp kanalı açması
-bkz ruhi çenet testeredeki adam benzerliği
-https://eksisozluk.com/ali-koc--157305?a=popular
-https://eksisozluk.com/cem-yilmaz--32715?a=popular
-https://eksisozluk.com/ruhi-cenet--3873914?a=popular
-https://eksisozluk.com/fernando-muslera--2132214?a=popular
-https://eksisozluk.com/volkan-konakin-olunce-yakilmak-istemesi--6363435?a=popular
-https://eksisozluk.com/kadir-sekerin-meyve-soymak-icin-tasidigi-bicak--6363001?a=popular
-https://eksisozluk.com/neset-ertasin-teknik-acidan-zayif-olmasi--6364180?a=popular
-https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular
-https://www.youtube.com/watch?v=NiabnQBRDfA  gerçekler acıdır delihuanlı
-https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz kennedy
-https://www.uludagsozluk.com/k/mersin-de-ele-ge%C3%A7irilen-4000-y%C4%B1ll%C4%B1k-b%C3%BCy%C3%BC-kitab%C4%B1/
-https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it 
-bkz mersinli cihangirin 4000 yıllık büyü kitabını kaçırması
-bkz e devletten ermeni olduğunu öğrenip monitöre kafa atan gencin sabıkalı çıkması
--->
-
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
