@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz defne samyeli vs sernay sarıkaya vs taylor swift
+bkz defne samyeli vs seranay sarıkaya vs taylor swift
 bkz erdal bakkal vs erdal kömürcü
 https://eksisozluk.com/tolunay-kafkas--109679?a=popular
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/
