@@ -1,7 +1,10 @@
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
-<!-- https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü -->
+<!-- 
+https://twitter.com/arkabesliforum/status/979453504002625537 zuahahhaha bu nedir olm ya
+https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
+-->
 
 [![Image](waste/Screenshot_2020-02-11_08-30-37.png)]( https://vac-lshtm.shinyapps.io/ncov_tracker/  )
 
