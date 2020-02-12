@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz trumpa kızıp götüne iphone sokan genç
 bkz imamğlana sorup doğrusunu öğrenen genç
 bkz neşet ertaşın teknik açıdan gay olduğu iddaları
 https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/ zuahahaha
