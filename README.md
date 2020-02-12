@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz cmylmzın kızı yaşındaki kızları hoplatmasına ses etmeyen kamalcılar
 bkz cmylmz aleyna tilkiyi patlatmış mıdır sorunsalı
 bkz defne samyeli cmylmz aşkının bitmesi
 bkz receğ tayyiğ erdoğan üniversitesini bitirmenin gururu
