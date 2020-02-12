@@ -3,6 +3,7 @@
 
 <!-- 
 bkz erdal bakkal vs erdal kömürcü
+https://eksisozluk.com/cok-fena-cehaletin-dondugu-dusunulen-yerler--6169923?a=popular
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 https://www.uludagsozluk.com/k/erdal-k%C3%B6m%C3%BCrc%C3%BC/&w=bg bkz zürriyetsiz top
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
