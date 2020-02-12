@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz annemi niye sikiyosun diye babasını pıçaklayan genç
 bkz trumpa kızıp götüne iphone sokan genç
 bkz imamğlana sorup doğrusunu öğrenen genç
 bkz neşet ertaşın teknik açıdan gay olduğu iddaları
