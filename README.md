@@ -1,5 +1,5 @@
 
-[![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
+[![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 <!-- 
 bkz amınoğlu ekremin feneri savunması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenevbavceyi yedivmeviz
