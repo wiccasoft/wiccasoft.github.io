@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz receğ tayyiğ erdoğan üniversitesini bitirmenin gururu
 bkz defne samyelinin taylor swifti kıskanması
 https://www.hurriyet.com.tr/esinin-sevgilisine-tecavuz-eden-koca-ve-arkadas-40686556
 https://www.iha.com.tr/etiket-gaziantep-tecavuz/ başlığı açılmmaış hayret
