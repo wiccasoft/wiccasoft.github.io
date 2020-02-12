@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz enes batur kazları nasıl yoldum videosu
 bkz ruhi çenet yütüpten kaç para hoplatıyorum videosu
 bkz ruhi çenet dünyada kaç ülke var videosu
 bkz bekiroglanın imamoğlana demeden yürümesi
