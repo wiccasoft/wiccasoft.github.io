@@ -3,7 +3,7 @@
 
 <!-- 
 bkz amınoğlunun güldürmesi
-bkz amınoğlunun eşşeğin amıan su kaçırması
+bkz amınoğlunun eşşeğin amına su kaçırması
 bkz müge amlıya çıkan faik dayının sicili
 bkz soyunma odasına kamera koyan imamın salınması
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
