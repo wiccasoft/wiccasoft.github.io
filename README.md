@@ -3,6 +3,7 @@
 
 <!-- 
 bkz hani marjinal bizdik
+bkz cmylmz ın sikmediğ karı kalmışmıdır sorunsalı
 bkz defne samyelinin cmylmz kıskandırmak için ozan güvene vurdurması
 bkz cmylmz aleyna tilkiyi patlatmış mıdır sorunsalı
 bkz defne samyeli cmylmz aşkının bitmesi
