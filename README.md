@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 <!-- 
+bkz amınoğlu ekremin feneri savunması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 fenevbavceyi yedivmeviz
 https://www.youtube.com/watch?v=ZrK7LyLEgeI ali koçun koyunlarıyız
 bkz ali koçun alper potuk yerine oyuna girmesi
