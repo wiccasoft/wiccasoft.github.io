@@ -3,7 +3,6 @@
 
 <!-- 
 bkz hani marjinal bizdik
-bkz cmylmzın kızı yaşındaki kızları hoplatmasına ses etmeyen kamalcılar
 bkz cmylmz aleyna tilkiyi patlatmış mıdır sorunsalı
 bkz defne samyeli cmylmz aşkının bitmesi
 bkz receğ tayyiğ erdoğan üniversitesini bitirmenin gururu
