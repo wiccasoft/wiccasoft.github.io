@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz recep tayyiğ erdoğana kızıp annesini bıçaklyana genç
 bkz ibrahim tyalısese kızıp babasını bıçaklayan genç
 bkz trumpa kızıp kızıp götüne monitörü sokan türk
 bkz recep tayyip erdoğan ın yütüp kanalı
