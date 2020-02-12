@@ -4,6 +4,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz ruhi çenetin çenesindeki esrarengiz seksilik
 bkz ruhi çenet spy gamedeki adam benzerliği
 bkz reynmen konserine gidemeyen adamın ağlaması
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
