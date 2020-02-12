@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.hurriyet.com.tr/esinin-sevgilisine-tecavuz-eden-koca-ve-arkadas-40686556
 https://www.iha.com.tr/etiket-gaziantep-tecavuz/ başlığı açılmmaış hayret
 https://www.uludagsozluk.com/k/annesini-d%C3%B6ven-abisini-b%C4%B1%C3%A7aklayarak-%C3%B6ld%C3%BCren-karde%C5%9F/
 https://www.tccb.gov.tr/haberler/410/116618/-hem-sahada-hem-masada-yurutulen-sinsi-faaliyetlerin-hicbiri-amacina-ulasamayacaktir-
