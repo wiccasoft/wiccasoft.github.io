@@ -1,7 +1,8 @@
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten -->
+<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
+https://twitter.com/arkabesliforum/status/979453504002625537 zuahahhaha bu nedir olm ya -->
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=VaUPyuzNsGQ )
 
