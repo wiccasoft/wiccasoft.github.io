@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=NiabnQBRDfA  gerçekler acıdır delihuanlı
+https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz kennedy
 https://www.uludagsozluk.com/k/mersin-de-ele-ge%C3%A7irilen-4000-y%C4%B1ll%C4%B1k-b%C3%BCy%C3%BC-kitab%C4%B1/
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it 
