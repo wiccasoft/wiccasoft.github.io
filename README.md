@@ -3,7 +3,7 @@
 
 <!-- 
 bkz hani marjinal bizdik
-bkz defne samyelinin cmylm ı kıskandırmak için ozan güvene vurdurması
+bkz defne samyelinin cmylmz kıskandırmak için ozan güvene vurdurması
 bkz cmylmz aleyna tilkiyi patlatmış mıdır sorunsalı
 bkz defne samyeli cmylmz aşkının bitmesi
 bkz receğ tayyiğ erdoğan üniversitesini bitirmenin gururu
