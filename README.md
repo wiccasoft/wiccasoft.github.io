@@ -1,7 +1,11 @@
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!-- https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
+<!-- 
+https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/atat%C3%BCrk-e-kartopu-atan-%C3%A7ocu%C4%9Fun-%C5%9Fikayet-edilmesi/
+bkz e devletten ermeni olduğunu öğrenip monitöre kafa atan gencin sabıkalı çıkması
+-->
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
