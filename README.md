@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz trumpa kızıp kızıp götüne monitörü sokan türk
 bkz recep tayyip erdoğan ın yütüp kanalı
 bkz annemi niye sikiyosun diye babasını pıçaklayan genç
 bkz trumpa kızıp götüne iphone sokan genç
