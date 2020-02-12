@@ -4,8 +4,8 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-bkz türkiyenin erkek açığını kapayacak erkek
 bkz erkek diyince akla gelen ilk erkek
+bkz türkiyenin erkek açığını kapayacak erkek
 https://www.uludagsozluk.com/k/tek-%C3%A7ocuklu-bo%C5%9Fanm%C4%B1%C5%9F-erkekler/&w=bg
 bkz e devletten ermeni olduğunu öğrenip monitörü öpen erkek
 https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/
