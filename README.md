@@ -7,36 +7,6 @@ https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg b
 https://www.uludagsozluk.com/k/mersin-de-ele-ge%C3%A7irilen-4000-y%C4%B1ll%C4%B1k-b%C3%BCy%C3%BC-kitab%C4%B1/
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it başlık açmayı öğrenmişsin
 bkz mersinli cihangirin 4000 yıllık büyü kitabını kaçırması
-bkz calvin harris in defne samyeliye yürümesi
-bkz taylor swiftin cmylmz a vurdurmak en büyük hayalim demesi
-bkz defne samyelininin cmylmz e seranay sen ben üçlü takılalım teklifi
-bkz defne samyeli cmylmz aşkının yeniden filizlenmesi
-bkz cmylm ın defn samyelinni kızlarını gözüne kestirmesi
-bkz defne samyelinni kızlarının taş gibi olduğu gerçeği
-bkz cmylmz nin defne samyelinin içinde gezdirdim tweeti
-bkz güzellik artıkça iq düşer diyen tipsiz ergen
-bkz defne samyelinni cmylmı kıskandırmak için  eski tokmakçısını takibe alması
-bkz defne samyelinin duygu dolu tweeti
-https://www.uludagsozluk.com/k/akp-nin-misyonu/&w=bg bkz ananıza kaymak 
-bkz hani marjinal bizdik
-bkz cmylmz ın kamalcıların bugını bulması
-bkz kamalcıların karı sorunu olmadığı farketmek
-bkz hep tipsiz hem salakların kendilerin avutması
-bkz şaka maka cmylmz ın rüyanızda göremiyeceğiniz karıları ipe dizdiği gerçeği
-bkz cmylmzın tek başına türkiyenin erkek açığını kapadığı gerçeği
-bkz cmylmz ın sikmediğ karı kalmışmıdır sorunsalı
-bkz defne samyelinin cmylmz kıskandırmak için ozan güvene vurdurması
-bkz cmylmz aleyna tilkiyi patlatmış mıdır sorunsalı
-bkz defne samyeli cmylmz aşkının bitmesi
-bkz receğ tayyiğ erdoğan üniversitesini bitirmenin gururu
-bkz defne samyelinin taylor swifti kıskanması
-https://www.hurriyet.com.tr/esinin-sevgilisine-tecavuz-eden-koca-ve-arkadas-40686556
-https://www.iha.com.tr/etiket-gaziantep-tecavuz/ başlığı açılmmaış hayret
-https://www.uludagsozluk.com/k/annesini-d%C3%B6ven-abisini-b%C4%B1%C3%A7aklayarak-%C3%B6ld%C3%BCren-karde%C5%9F/
-https://www.tccb.gov.tr/haberler/410/116618/-hem-sahada-hem-masada-yurutulen-sinsi-faaliyetlerin-hicbiri-amacina-ulasamayacaktir-
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg adam diyince akla gelen adam gibi adam
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-kartopu-atan-%C3%A7ocu%C4%9Fun-%C5%9Fikayet-edilmesi/
 bkz e devletten ermeni olduğunu öğrenip monitöre kafa atan gencin sabıkalı çıkması
 -->
 
