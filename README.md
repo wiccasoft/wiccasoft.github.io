@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it entry girmeyi öğrenmişin
 bkz re ceğ tay yiğ er do van rece tayyyi er do van 
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
