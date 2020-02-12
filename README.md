@@ -5,7 +5,7 @@
 
 <!--
 bkz kadrinin götürdüğü yere git
-bkz recep tayyi perdoğanın yutüp kanalı açması
+bkz recep tayyip erdoğanın yutüp kanalı açması
 bkz barış özcan kim ulan bu elon musk videosu
 bkz fatih terim efsane 2001 soyunma odası videosu
 bkz enes batur kazları nasıl yoldum videosu
