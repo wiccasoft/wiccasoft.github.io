@@ -2,6 +2,7 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
+bkz çolgın sedat ve adamlarının çok seksi oldukları gerçeği
 https://www.uludagsozluk.com/k/sabunla-du%C5%9F-alan-erkek/ vurduruyordur
 https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıbcım hadi be bıbıcım
 https://www.uludagsozluk.com/k/kanka-diye-dola%C5%9Fan-tipler/ kankağğğğ öle demeğ kankağğğğ
