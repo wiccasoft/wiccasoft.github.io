@@ -6,6 +6,7 @@
 <!--
 bkz türk arama motoru tarık
 bkz imamğlana sorup doğrusunu öğrenen genç
+bkz neşet ertaşın teknik açıdan gay olduğu iddaları
 https://www.uludagsozluk.com/k/trump-a-sinirlenip-monit%C3%B6r%C3%BC-k%C4%B1ran-t%C3%BCrk/ zuahahaha
 https://www.uludagsozluk.com/k/%C3%A7irkin-%C4%B1rklar-listesi/&w=bg türkler hariç de oç
 bkz annesinin dövene abisini pıçaklayarak öldüren kardeş
