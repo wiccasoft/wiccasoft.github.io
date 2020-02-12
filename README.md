@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık
+bkz kadri şekerin çok yakışıklı olduğu iddaları
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/ bkz kadrinin götürdüğü yere git
 bkz imamoğlunun n doğruyu bildiği iddaları
 https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
