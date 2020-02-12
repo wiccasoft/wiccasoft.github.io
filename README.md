@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-11_15-20-26.png)]( https://www.youtube.com/watch?v=A7m2a-HCVpM )
 <!-- 
+bkz ali koçun alper potuk yerine oyuna girmesi
 bkz ekremin amınoğlu olduğu iddaları
 bkz ekremin amın oğlu olduğu gerçeğini değiştiremeyeceksiniz
 bkz ekremin amın oğlu olduğu gerçeğini bir kere daha hatırlamak
