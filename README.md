@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://eksisozluk.com/cumhurbaskani-adayi-imamoglu-mu-olsun-yavas-mi--6362371?a=popular hagi mi alex mi sergen mi
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://eksisozluk.com/cumhurbaskani-adayi-imamoglu-mu-olsun-yavas-mi--6362371?a=popular 
 https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
 https://www.youtube.com/watch?v=xTJav-ar6IQ aferim lan it entry girmeyi öğrenmişin
 bkz re ceğ tay yiğ er do van rece tayyyi er do van 
