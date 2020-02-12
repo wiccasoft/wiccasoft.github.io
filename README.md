@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/sabunla-du%C5%9F-alan-erkek/ vurduruyordur
-https://www.uludagsozluk.com/e/42846113/ babacım tıklağ be babacım 
+https://www.uludagsozluk.com/e/42846113/ tıklağ be bıbıbcım hadi be bıbıcım
 https://www.uludagsozluk.com/k/kanka-diye-dola%C5%9Fan-tipler/ kankağğğğ öle demeğ kankağğğğ
 https://www.uludagsozluk.com/k/kedisi-olan-erkek/&w=bg ılıktır
 bkz müge amlıdaki ganyotçu ekremin tatlişko bi babişko çıkması
