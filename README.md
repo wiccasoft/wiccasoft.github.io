@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz ekşcilerin rte nin sayfasına dislike atması
 bkz receğ tayyiğ erdoğanın yütüp kanalı açması
 bkz ruhi çenet testeredeki adam benzerliği
 https://eksisozluk.com/ali-koc--157305?a=popular
