@@ -4,7 +4,6 @@
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
 <!--
-https://www.uludagsozluk.com/k/tek-%C3%A7ocuklu-bo%C5%9Fanm%C4%B1%C5%9F-erkekler/&w=bg bkz cmylmz
 https://www.youtube.com/watch?v=PeIVhIwE8zU doyuluğmu
 bkz türk arama motoru tarık https://www.youtube.com/watch?v=4RpMzsA1VOw
 https://www.uludagsozluk.com/k/meri%C3%A7-vs-keko/ ankarada kekolara şaka videosu
