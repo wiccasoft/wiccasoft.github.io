@@ -1,7 +1,9 @@
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
-<!-- https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
+<!--
+https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahahaha bu nedir olm ya 
 bkz ali koç ve adamlarının hakan peker ve adamlarına saldırması
 https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular 
