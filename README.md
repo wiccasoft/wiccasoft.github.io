@@ -5,6 +5,8 @@
 https://twitter.com/arkabesliforum/status/979453504002625537 zuahahahaha bu nedir olm ya 
 bkz ali koç ve adamlarının hakan peker ve adamlarına saldırması
 https://eksisozluk.com/sedat-peker-ve-adamlarinin-dogum-gunu-kutlamasi--6363840?a=popular 
+https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular 
+bkz imamaoğlunun tokat manyaa yapıp gerçekleri öğretti doktor 
 https://www.youtube.com/watch?v=c7IoBRRBiX8 iphone styla
 https://www.youtube.com/watch?v=jpbYi-IfPXs kebap styla-->
 
