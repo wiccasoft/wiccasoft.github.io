@@ -5,6 +5,7 @@
 
 <!--
 bkz türk arama motoru tarık 
+bkz imamoğlunun n doğruyu bildiği iddaları
 https://eksisozluk.com/imamogluna-kizip-dogrusunu-ogrenince-donen-adam--6363538?a=popular
 bkz ruhi çenetin türkiyenin steve jobsı barış özcanın da elon muskı olması
 bkz ruhi çenet testeredeki adam benzerliği
