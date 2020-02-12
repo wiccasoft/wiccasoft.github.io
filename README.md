@@ -7,6 +7,7 @@
 bkz amınoğlunun güldürmesi
 https://www.youtube.com/watch?v=cRvwcoKOc3s
 bkz amınoğlunun eşşeğin amına su kaçırması
+https://www.youtube.com/watch?v=S6GhiP8wPwA 
 bkz müge amlıya çıkan faik dayının sicili
 bkz soyunma odasına kamera koyan imamın salınması
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçü 
