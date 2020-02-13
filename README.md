@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+bkz gss prim borcunu ödemek için selçuk inanını iş bankası genel müdürü yapmak
 bkz selçuk inanın iş bankasına çökmesinin nedeni
 https://www.uludagsozluk.com/e/42848661/ babası mardinli arap ve eşcinselmiş
 https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğolmuş 
