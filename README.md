@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg fuck me kahrolası arap
 https://www.uludagsozluk.com/k/a-haber-in-ka%C5%9F%C4%B1nmas%C4%B1/ ananaızın amına goyyam fener soksun size
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ ay tatlişkoooo
 https://www.uludagsozluk.com/k/kenan-evren/&w=bg ananın yedi ceddine sokkam
