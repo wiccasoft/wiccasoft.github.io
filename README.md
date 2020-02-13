@@ -14,33 +14,7 @@ https://kirmizicizgi.uludagsozluk.com kürtlerin eşcinsel olduğunu idda eden b
 https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan faşist bi ibne
 https://kirmizicizgi.uludagsozluk.com kankağ kıllı bi kürt seni sikse naparsın
 https://kirmizicizgi.uludagsozluk.com nur topu gibi bi eşcinsel maşşalah
-https://kirmizicizgi.uludagsozluk.com kankağ biy kürt eykeğin ilk neyesine bakaysın 
-https://kirmizicizgi.uludagsozluk.com kankağ erkekler eşcinsel miğ kankağğ
-https://kirmizicizgi.uludagsozluk.com kankağ cemiyet hayatındaki eşcinselleri saysan kankağğğ
- https://www.youtube.com/watch?v=KXnzNbuV84c  barbaros ta eşcinsel mi senceğ kankağğ
-https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
-https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana eşsiz cinsel mi yok
-bkz erkek gibi erkek kalmadı ayol
-bkz ay oda mı eşcinsel ayol
-bkz ay acaba eşcinsel mi denilen erkeğin eşcinsel çıkması
-bkz erkeklere entry girerken heyecanlanmak
-https://kirmizicizgi.uludagsozluk.com/  bkz küçük iskender
-https://kirmizicizgi.uludagsozluk.com/  bkz eş cinsel uzmanı
-https://kirmizicizgi.uludagsozluk.com/ bkz eşcinsellik diyince akla gelen ilk çızgi
-https://kirmizicizgi.uludagsozluk.com/ bkz karaambarcılar eşcinsel kamyoncular lideri
-https://kirmizicizgi.uludagsozluk.com/ bkz hem eşcinsel olup hem delikanlı olmak
-https://kirmizicizgi.uludagsozluk.com/ bkz helal lan sanan delikanlı top çıktın
-https://kirmizicizgi.uludagsozluk.com/ rick martin de top kankağğğğ
-https://kirmizicizgi.uludagsozluk.com/ bkz ricky martin de top kankağğğğ sana erkeğ kalmadı napacan şincuuuu
-https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg
-https://www.youtube.com/watch?v=tVfyO37ARpQ kırmızı çizgi vs barbaros
-https://kirmizicizgi.uludagsozluk.com/  https://www.youtube.com/watch?v=KXnzNbuV84c 
-https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular 
-https://www.youtube.com/watch?v=AFx8ElwfMBQ zuahhaha
-https://www.youtube.com/watch?v=ktmzyChfPmk zuahahahaha
-https://kirmizicizgi.uludagsozluk.com/ https://www.youtube.com/watch?v=KXnzNbuV84c
-https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı homoseksüel oç
-https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı eşcinsel  -->
+-->
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
