@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz fuck me mother koç nigga
+bkz fuck me mother made my momma fenerli koç nigga
 bkz selçuk şahin anamın üstünde yakalansa orospuluk anamdadır
 bkz anamı sike sike geyseli yaptı fatih terim
 bkz anamı sike sike fenerli yaptı ali koç
