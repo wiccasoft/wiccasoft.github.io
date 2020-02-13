@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-https://www.uludagsozluk.com/k/hayla-malum-partiye-oy-vermeyi-d%C3%BC%C5%9F%C3%BCnenler/ bkz hdpliler
+https://www.uludagsozluk.com/k/hayla-malum-partiye-oy-vermeyi-d%C3%BC%C5%9F%C3%BCnenler/ bkz haylazlar
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ 
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 https://www.uludagsozluk.com/k/vahdettin/&w=bg bkz fenerbahçe düşmanı hain fedöcü
