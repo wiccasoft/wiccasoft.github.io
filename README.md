@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz fenerbahçenni kemalizmin son kalesi olması
 bkz kemalistlerin facebook twitter instagram a dur demesi
 bkz kemalistlerin emperyalizme dur demesi apple google kullanmaması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-erdo%C4%9Fan-olarak-zuhur-etmi%C5%9Ftir/&w=bg
