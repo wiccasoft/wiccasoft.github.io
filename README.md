@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/rte-yi-camasir-suyuna-batirmak/ bkz pasif gay olur
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamın oğlu
 https://www.uludagsozluk.com/k/pasif-gay/&w=bg bk ibne oğlan
 https://www.uludagsozluk.com/k/1998-ve-%C3%BCzeri-nesil/ bkz oç ları
