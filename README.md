@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz delikanlığ eşcinsel
 https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ rick martin de top kankağğğğ
 https://kirmizicizgi.uludagsozluk.com/ bkz ricky martin de top kankağğğğ sana erkeğ kalmadı napacan şincuuuu
