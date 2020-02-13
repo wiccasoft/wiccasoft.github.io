@@ -1,52 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
-<!--
-bkz turgut özxal çenesi vs ruhi çenet çenesi
-bkz yoğurt yerken ruhi çenet izlemek
-bkz türklerin yoğurt dışında insanlığa kattıkları
-https://www.uludagsozluk.com/k/siyahi-erkekler/&w=bg 
-bkz türk arama motoru ruhi 
-bkz ruhi çenet videolarından bilgi almak
-bkz ruhi çenet dünyada kaç ülke var videosu
-bkz ruhi çenet testeredeki adam benzerliği
-https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular
-bkz ruhi çenet ermeni videosu tıklağağlım izleyeğlim hep beraber vakit nakit
-https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı ırk uzmanı
-https://www.uludagsozluk.com/k/k%C3%BCrtler-neden-kokar/&w=bg
-bkz düşün ki o da bunu izliyor
-bkz vakit nakit çok izleyelim ki nakit kaybetyelim
-https://eksisozluk.com/ruhi-cenetin-ermenistan-videosu--6364015?a=popular
-bkz calvin harris vs neşet ertaş
-bkz erdal erzincanlı vs taylor swift
-bkz ahmet özalın babamı ruslar öldürdü açıklaması
-bkz turgut özal çenesi vs ruhi çenet çenesi
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg
-https://eksisozluk.com/fernando-muslera--2132214?a=popular
-https://eksisozluk.com/volkan-konakin-olunce-yakilmak-istemesi--6363435?a=popular
-https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
-https://eksisozluk.com/enes-baturun-12-milyon-aboneye-ulasmasi--6363676?a=popular bkz türk önde türk ileri
-https://eksisozluk.com/galatasarayin-7-0-lik-fenerbahce-maci-paylasimi--6363425?a=popular
-https://eksisozluk.com/reynmen-konserine-gidemeyen-adamin-aglamasi--6363622?a=popular
-https://eksisozluk.com/cumhurbaskani-adayi-imamoglu-mu-olsun-yavas-mi--6362371?a=popular 
-bkz ruhi çenet testeredeki adam benzerliği
-bkz ruhi çenet izlerken yoğurt yemek
-bkz ruhi çenetin niye sakalları çıkmıyor sorunsalı
-bkz aşkım ruhi çenet daha yakışıklı ona abone oldun diyen kız
-bkz aşkım enes abi mi ruhi çenete mi abone olim diyen kız
-bkz facebook taki türkler çıksa facebookun batacağı gerçeği
-bkz enes abinin kanye west ten 4 kat fazla abonesi olamsı
-bkz enes abinin 12 milyon aboneyi t-mobile a satması
-bkz ruhi çenet spy gamedeki adam benzerliği
-bkz ruhi çeneti enes abiyle olan videolarını silmesi
-bkz ruhi çenet çenesi vs turgut özal çenesi
-bkz barış öcanın türkiyenin elon muskıysa ruhi çenet in steve jobsı olduğu gerçeği
-bkz ruhi çenet videolarının bağımlılık yapması
-bkz aşkım enes abi mi ruhi çenet abi mi diyen kız
-bkz enes abinin 12 milyon aboneye ulaşması
-https://www.youtube.com/watch?v=IDSQf1964iM testeredeki aergen
-https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
 
