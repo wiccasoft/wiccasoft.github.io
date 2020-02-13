@@ -7,7 +7,6 @@ https://www.youtube.com/watch?v=B1pDK89darM&list=PLJ9O9WPqDDMnBAY7lrhHiCyzQgxzuy
 https://www.secin.com/watch/kolpa%C3%A7ino-bomba-mekan%C4%B1-basan-ekibe-etek-giydiriyor_BN5PI995JK16mBh.html
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=ZrK7LyLEgeI aferim çocuklar işte bu 
-bkz firmama soyadımı verceğimi sanan çomarlar
 bkz metacortex in çektiği tiktok vidyosu
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=GHSs6xsipT8 bkz utandırmayın çocukları
