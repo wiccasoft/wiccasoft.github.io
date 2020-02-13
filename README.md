@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+bkz ali koçun fatih terimin sicili belli demesi
 bkz botoks reyizin ali koçun üstüne yürümesi
 bkz kadir şekerin babasının cinsini siktiğim cinsine çeker demesi
 bkz fenerin verilmeyen penaltısının sebebinin oç erdal kömürcü olması
