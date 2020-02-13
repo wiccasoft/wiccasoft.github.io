@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
+bkz beki de müge anlıya dombili diyorumdur bi yerlerde
 https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
 bkz kapanoğlunun adamlarının baruthane pilavcısına dava açması
 bkz gerdekte 500 rekat namaz kıldıktan sonra götüme dildo sokup amuda kalkıp kamalcıların üstüne işediğim iddaları
