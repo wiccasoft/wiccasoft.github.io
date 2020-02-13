@@ -5,6 +5,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz müge amlıda ki palu ailesi vs kadir şekeri sikerttiği adam
+bkz türklerin 3. sayfa haberlerin sevme sebepleri
 bkz sputnikin türklerle taşşak geçmesi
 bkz sputnikin skimsonik haber linkleri
 bkz kadri şekerin siktiği adamın babasının sözleri 
