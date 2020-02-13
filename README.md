@@ -3,12 +3,6 @@
 
 <!--
 bkz fedönün siyasi ayağının 41 olması
-bkz yozdil fedö siyasi ayak yazısı
-bkz gerdeğ gecesi ölen damad
-bkz parasız kalan erdonun maaşını çekmesi
-bkz ergenlerin özgüven kaynağı ne sorunsalı
-bkz sen yerinde durrrrr karşında enes baturrrrrrrr
-bkz ben pokemonum diyip camdan atlayan çocuk
 bkz taylor swiftin fedönün siyasi ayağı olduğunu itiraf etmesi
 bkz parasız kalan erdonun chplilerin apple lara el koyması
 bkz liselilerin özgüven kaynağı nedir sorunsalı anneleri mi
