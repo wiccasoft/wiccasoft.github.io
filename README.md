@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
-bkz belki de maç çıkışı gittiğin dürümcü ismailin çırağıyımdır ha
+bkz belki de maç çıkışı gittiğin çiğ köfteci ali ustanın çırağıyımdır ha
 bkz belki de babam mardinli annem arabdır sakin ol dostum ha
 bkz belki de kolpaçino bombadaki ganyotçu ekremimdir
 bkz belki de sen allahın bir lütfusun seni veren elleke kurban dediğiniz bi spor klübü başkanıyımdır
