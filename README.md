@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz fenerliyle maç izlenmez len emq ultra geyseli
+bkz fenerliyle maç izlenmez len emq bi offsayt bilmiyolar lan
 bkz hamza hamzaoğlanın futbolu katletmesi amk bro yaaaaaa
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg
 https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg bu da taŞŞA KONUSU OLİY
