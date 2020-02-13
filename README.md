@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz türklerin oç olduklarını anlamaları
 bkz oç türklerin siklenmedikçe çoşmaları
 bkz türklerin internetin virüsleri olduğu gerçeği
 bkz türklerle ilgili tek  bir şey paylaşmadığım halde her boka atlamaları
