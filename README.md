@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz karaambarcılar eşcinsel kamyoncular lideri
 https://kirmizicizgi.uludagsozluk.com/ bkz büyük eşcinselmişsin kankağ helal olsun sana
 https://kirmizicizgi.uludagsozluk.com/ bkz hem eşcinsel olup hem delikanlı olmak
 https://kirmizicizgi.uludagsozluk.com/ bkz helala lan sanan delikanlı top çıktın
