@@ -4,10 +4,7 @@
 <!-- 
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
-bkz belezoğlanın alper potujkla iyi bi ikili olduk açıklaması
-https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçüğ
-https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
 https://www.youtube.com/watch?v=GHSs6xsipT8 bkz utandırmayın
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs tayyipoğlan sucuk
