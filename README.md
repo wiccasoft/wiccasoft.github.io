@@ -3,7 +3,7 @@
 
 <!--
 bkz hadi beyler ali ustayı trollüyoruz 
-https://www.youtube.com/watch?v=GHSs6xsipT8 zuahahahahahha noldi rencin soldiiii 
+https://www.youtube.com/watch?v=GHSs6xsipT8 zuahahahahahha 
 https://www.youtube.com/watch?v=4XqAF-Mj_j8 adam gaffayı yemiş beyler
 bkz çiğ köfteci ali ustayı trollüyoruz kampanyası
 https://www.uludagsozluk.com/e/42848972/ herif kafayı yemiş amk
