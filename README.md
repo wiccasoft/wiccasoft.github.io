@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz durduh yere adamın amına goyan şarkılar
 bkz fedönün siyasi ayağının messinin ayağı çıkması
 bkz fedönün siyasş ayağının koktuğu iddaları
 bkz fedönün siyasi ayağı
