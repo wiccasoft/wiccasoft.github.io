@@ -7,7 +7,7 @@ bkz götümdeki boklar yesin geyseliler
 bkz anamı sike sike fenerli yaptı ali koç
 https://twitter.com/arkabesliforum/status/979453504002625537 allahın lütfu
 https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol 
-https://www.uludagsozluk.com/k/ali-ko%C3%A7-siyaset-yapmak-istiyorsa-parti-kursun/ ali koç satın alır--->
+https://www.uludagsozluk.com/k/ali-ko%C3%A7-siyaset-yapmak-istiyorsa-parti-kursun/ --->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
