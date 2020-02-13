@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
-bkz ibb5. oturumu
+bkz mehmet tevfik göksunun ihaleleri barus yaanalın firmaya yanlaması
 bkz ibb 5. oturumdan mehmet tevfik göksunun imamaoğlana top demesi
 bkz efe aydalın nihat doğan podvasti
 bkz enes abinni efe aydal abiuyle raynmen abiyi barıştırması
