@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz kadri şekerin sikerttiği adamın babasının son sözleri
 bkz fenerbahçenni kemalizmin son kalesi olması
 bkz kemalistlerin facebook twitter instagram a dur demesi
 bkz kemalistlerin emperyalizme dur demesi apple google kullanmaması
