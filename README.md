@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/ben-pokemon-um-deyip-camdan-atlayan-%C3%A7ocuk/&w=bg bkz anasının amı artık
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten oç ları
 bkz parasız kalan apple ın chp mallarını trollemesi
 https://www.youtube.com/watch?v=BOS0XfLOR7s bkz kralını trollerim acımam oç ları
