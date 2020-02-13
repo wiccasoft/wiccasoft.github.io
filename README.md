@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz belezoğlanın soyunma odasında yaptığı hareket
 bkz ahmet hakanın melih gökçekle barışması
 bkz ahmet hakanın yayını dörde bölmesi
 bkz fedöcü futbolcuları pfdk ya bildiriyoruz kampanyası
