@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
-bkz belki de bıyıklarıma sıçtığınız bi ülkücüyümdür ha dostum sakin ol az
+bkz belki de bıyıklarıma sıçtığınız mafya babası bi ülkücüyümdür ha dostum sakin ol az
 bkz belki de çok sevdiğin köylün olan bi türkücüyümdür yanık yanık çığıran he dostum olamaz mı yani
 blz belki de kimbilir yaşıtın bi top tepiciyimdir takla atan havalarda stadları çoşturan ha
 bkz belki de çok sevdiğiniz bir top tepiciyimdir kimbilir
