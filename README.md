@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz ruhi çenetin ansiklopedi gibi olduğu gerçeği
 bkz ruhi çenet videolarından bilgi almak
 bkz ruhi çenet dünyada kaç ülke var videosu
 bkz ruhi çenet testeredeki adam benzerliği
