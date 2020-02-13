@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!--
+<!--bkz rte nin ata cücünün bankasına  boru gibi geçirmesi
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-i%C5%9F-bankas%C4%B1na-%C3%A7%C3%B6kme-nedeni/ hihihi
 bkz terli ve kaslı futbolcuları izlerken fena olmak
 bkz fenerlilerin geysaraylılara döşeyeceği boru
