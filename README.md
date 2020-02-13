@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana erkek mi yok
+https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana eşsiz cinsel mi yok
 bkz erkek gibi erkek kalmadı ayol
 bkz ay oda mı eşcinsel ayol
 bkz ay acaba eşcinsel mi denilen erkeğin eşcinsel çıkması
