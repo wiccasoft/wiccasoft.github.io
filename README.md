@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz ben pokemonum diyip camdan atlayan çocuk
 bkz taylor swiftin fedönün siyasi ayağı olduğunu itiraf etmesi
 bkz parasız kalan erdonun chplilerin apple lara el koyması
 bkz liselilerin özgüven kaynağı nedir sorunsalı anneleri mi
