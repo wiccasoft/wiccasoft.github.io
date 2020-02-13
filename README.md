@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
-bkz murathan munganın babasının arap olması o yüzden gay olması
+bkz murathan munganın babasının arap annesinin kürt olması o yüzden gay olması
 bkz üç isimli erkek karizması
 bkz recebimmmm tayyibmmmmmmm yiğidimmmm er doğanımmmmmmmmmmm derken gay vicudumun boşalması
 bkz recebimmmmmmmmmm derken bi tuhaf olmam
