@@ -5,6 +5,7 @@
 bkz izotop vs atatop
 bkz atatop vs izotop
 bkz mersinde ele geçirilen top
+bkz recep top doğan vs atatop
 bkz cewmiyetin ağır toplarından kamal
 https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz atatop
 bkz adam fenerli zaten beyler
