@@ -3,7 +3,7 @@
 
 <!-- 
 bkz ekşcileri utandırmamak için microsoftun hizaya girmesi
-https://www.youtube.com/watch?v=GHSs6xsipT8 bkzekşcileri utandıran videolar
+https://www.youtube.com/watch?v=GHSs6xsipT8 bkz ekşcileri utandıran videolar
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs baruthane pilav
 https://www.youtube.com/watch?v=xoEP2X1bYKI bkz czn burakın çektiği video
