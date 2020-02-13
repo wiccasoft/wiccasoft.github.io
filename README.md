@@ -5,7 +5,7 @@
 
 <!--
 bkz düşün ki recep top doğan okuyo
-bkz iyi ki toplandık kızlar türklük çok güzelmiş yine toplaşalım böyle
+bkz iyi ki toplandık kızlar türklük turanlık çok güzelmiş yine toplaşalım böyle
 bkz büyük komutan deyince gay vicutlarımızın fena olması
 bkz recep tayyip doğan da sbeni düşünüyo mudur acaba ay fena oldum gay vicudum yine titredi ayol
 bkz recep tayyip doğan beş tepede midir sorunsalı arasak mı kızlar
