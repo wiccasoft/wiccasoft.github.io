@@ -2,8 +2,9 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
-bkz belezoğlanın soyunma odasında yterli vücuduyla yaptığı hareket
-bkz ahmet hakanın melih gökçekle barışması
+bkz melih gökçekin ahmet hakanla tatlı atışmaları
+bkz belezoğlanın soyunma odasında terli vücuduyla yaptığı hareket
+bkz ahmet hakanın melih gökçekle barışma yayını yapması
 bkz ahmet hakanın yayını dörde bölmesi
 bkz fedöcü futbolcuları pfdk ya bildiriyoruz kampanyası
 bkz 13 şubat 2020 yozdil efso yazısı
