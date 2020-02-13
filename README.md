@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/  bkz küçük iskender
 https://kirmizicizgi.uludagsozluk.com/  bkz eş cinsel uzmanı
 https://kirmizicizgi.uludagsozluk.com/ bkz erkek adamın erkekin derdini bilir 
 https://kirmizicizgi.uludagsozluk.com/ bkz erkek adam erkeklerin cinselliğiyle  ilgilenir
