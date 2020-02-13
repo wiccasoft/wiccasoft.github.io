@@ -6,7 +6,7 @@ bkz ağız da kekremsi tad bırakan futbolcular
 https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular 
 https://www.youtube.com/watch?v=AFx8ElwfMBQ zuahhaha
 https://www.youtube.com/watch?v=ktmzyChfPmk zuahahahaha
-https://kirmizicizgi.uludagsozluk.com/ bkz nabıyon lan homo
+https://kirmizicizgi.uludagsozluk.com/ https://www.youtube.com/watch?v=KXnzNbuV84c
 https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı oç
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı eşcinsel  -->
 
