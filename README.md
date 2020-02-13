@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/kenan-evren/&w=bg ananın yedi ceddine sokkam
 https://www.uludagsozluk.com/k/palu-ailesi/&w=bg sülalenizi yedi ceddninze sikem amuğa guyyem
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçanm senin oç
 https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç
