@@ -5,32 +5,6 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-https://www.haberturk.com/gaziantep-haberleri/75487606-parkta-olu-bulunan-gencin-cinayet-zanlisi-eski-arkadasi-ciktigencin-akillara-durgunluk
-https://www.haberturk.com/samet-i-kendisini-sosyal-medyadan-kadin-olarak-tanitip-bulustugu-parkta-oldurmus-2581221
-bkz kadir şekerin sikerttiği adamın babasının ifade vermesi
-https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg bkz selçuk bunu sikertir
-bkz antepte sevgilisini bıçaklayan adamı bıçakalyan adamın kucağında yakalanan adam
-bkz mügeamlıdaki kan donduran aileler
-bkz müge amlıda ki palu ailesi vs kadir şekeri sikerttiği adam
-bkz türklerin 3. sayfa haberlerin sevme sebepleri
-bkz sputnikin türklerle taşşak geçmesi
-bkz sputnikin skimsonik haber linkleri
-bkz kadri şekerin siktiği adamın babasının sözleri 
-https://www.uludagsozluk.com/k/kadir-%C5%9Feker-in-%C3%B6ld%C3%BCrd%C3%BC%C4%9F%C3%BC-adam%C4%B1n-babas%C4%B1n%C4%B1n-s%C3%B6zleri/
-bkz rte nin apple a çöreklenmesi
-bkz ali koçun rte yi patron yarısı olarak tanıtması
-bkz rte nin koç bankasına çöreklenmesi
-bkz ali koçun fener forması yollaması
-bkz rte nin t mobile ı satın alması
-bkz beratın google a çöreklenmesi
-bkz türklerin yoğurt dışında dünyaya katkısı
-nkz kemalistler neden 100 yılda bir motor üretemediler sorunsalı
-bkz kemalistler niye apple a rakip olacak bi sistem yazmıyorlar sorunsalı
-https://www.uludagsozluk.com/k/kursa%C4%9F%C4%B1ndan-haram-lokma-ge%C3%A7meyen-parti/ bkz ak parti
-bkz türkler çok zekiyse niye apple gibi firma kurmuyorlar sorunsalı
-https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg bkz asalak
-https://www.youtube.com/watch?v=rJJBnxhTT_A
-https://www.youtube.com/watch?v=MT-kJHjjokM
 bkz rte nin metacortexe çöreklenmesi
 https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz ciddiyeti severim disipline hayranım
