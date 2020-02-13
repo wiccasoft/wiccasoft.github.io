@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz ruhi çeneti enes abiyle olan videolarını silmesi
 bkz ruhi çenet çenesi vs turgut özal çenesi
 bkz barış öcanın türkiyenin elon muskıysa ruhi çenet in steve jobsı olduğu gerçeği
 bkz ruhi çenet videolarının bağımlılık yapması
