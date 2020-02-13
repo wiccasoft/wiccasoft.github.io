@@ -9,6 +9,7 @@ bkz türk arama motoru ruhi
 bkz ruhi çenet videolarından bilgi almak
 bkz ruhi çenet dünyada kaç ülke var videosu
 bkz ruhi çenet testeredeki adam benzerliği
+https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular
 bkz ruhi çenet ermeni videosu tıklağağlım izleyeğlim hep beraber vakit nakit
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı ırk uzmanı
 https://www.uludagsozluk.com/k/k%C3%BCrtler-neden-kokar/&w=bg
