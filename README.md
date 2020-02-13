@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- https://twitter.com/arkabesliforum/status/979453504002625537 allahın lürfu
-https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol --->
+https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol allah lütfu --->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
