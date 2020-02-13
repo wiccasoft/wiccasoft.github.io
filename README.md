@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz murathan munganın babası arap ayol
 bkz damadın pipisini öpüp top olup olmadığı anlamak
 bkz ağızda kekremsi tad bırakan futbolcular
 bkz receğ tayyiğ doğan derken gay vicudumun titremesi
