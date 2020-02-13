@@ -2,6 +2,11 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://eksisozluk.com/enes-baturun-12-milyon-aboneye-ulasmasi--6363676?a=popular bkz türk önde türk ileri
+https://eksisozluk.com/galatasarayin-7-0-lik-fenerbahce-maci-paylasimi--6363425?a=popular
+https://eksisozluk.com/reynmen-konserine-gidemeyen-adamin-aglamasi--6363622?a=popular
+https://eksisozluk.com/cumhurbaskani-adayi-imamoglu-mu-olsun-yavas-mi--6362371?a=popular 
+https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
 bkz ruhi çenet testeredeki adam benzerliği
 bkz ruhi çenet izlerken yoğurt yemek
 bkz ruhi çenetin niye sakalları çıkmıyor sorunsalı
