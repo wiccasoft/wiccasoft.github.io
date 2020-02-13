@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz fatih terim efso soyunma odası konuşması
 bkz selçuk inanın terli terli soyunma odasında seksi hareketler yapması
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1-olmak/&w=gd 
 bkz halısahada brolarla terli terli maç yapma keyfi
