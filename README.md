@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz fatih terimin fedöcü futbolcuları pfdk ya sevk edelim önerisi
 bkz belezoğlan fedö dostluğu
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-fet%C3%B6-ile-ili%C5%9Fkisi/&w=bg 
 https://www.uludagsozluk.com/e/42848830/ burası karışır beyler vaziyet alın
