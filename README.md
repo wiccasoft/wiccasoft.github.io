@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz gavatlar vadisinde bir karakter
 https://www.uludagsozluk.com/k/danny-devito/&w=bg bkz gavat rolünü iyi oynayan aktör
 https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz yılın gavat ailesi
 https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz gavat
