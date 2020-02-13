@@ -2,8 +2,10 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://www.youtube.com/watch?v=AFx8ElwfMBQ futbolu sevenin dünya malında gözü olmazmış
-https://www.youtube.com/watch?v=ktmzyChfPmk  zuahahahaha
+bkz ağız da kekremsi tad bırakan futbolcular
+https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular 
+https://www.youtube.com/watch?v=AFx8ElwfMBQ zuahhaha
+https://www.youtube.com/watch?v=ktmzyChfPmk zuahahahaha
 https://kirmizicizgi.uludagsozluk.com/ bkz nabıyon lan homo
 https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı oç
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı eşcinsel  -->
