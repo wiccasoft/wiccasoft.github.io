@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz hem eşcinsel olup hem delikanlı olmak
 https://kirmizicizgi.uludagsozluk.com/ bkz helala lan sanan delikanlı top çıktın
 https://kirmizicizgi.uludagsozluk.com/ bkz delikanlığ top
 https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
