@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg bkz top
 bkz murathan munganın babasının arap olduğu için eşcinsel olduğu gerçeği
 https://galeri.uludagsozluk.com/r/g%C3%BCnayd%C4%B1n-1113072/
 https://www.uludagsozluk.com/k/bu-saatte-i%C5%9Fe-gidiyor-olmak/&w=bg bkz topların dağılması
