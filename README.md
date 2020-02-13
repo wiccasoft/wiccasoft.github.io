@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz oç ları amk döl israfları hrrrr hav hav
+https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz ne mutlu türküm diyene
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg la olm bunu satalım ramosu alalım
 bkz ayağının ayarın sikem amın oğlu selçuk kaçar mı o gol amın düdüüğü
 bkz selçuk inanın götünü parmaklayıp koşturmak
