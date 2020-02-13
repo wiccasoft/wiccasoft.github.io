@@ -3,7 +3,6 @@
 
 <!-- 
 bkz orhan bence gay
-bkz receğ tayyiğ erdoğan eşcinsel olabiliğ mi sorunsalığ
 bkz bir erkeğin eşcinsel olup olmadığını anlamanın yolları
 bkz napolyon eşcinsel mi sorunsalı
 bkz receğ tayyiğ erdoğan eşcinsel mi sorunsalı
