@@ -4,6 +4,7 @@
 
 <!--
 bkz gerdek nedir yahu
+bkz kemalistlerin gerdek dediği şeyin köylerde olan bir adet olduğunu hatırlamak
 bkz kemalistlere yapılan iftiraların deniz baykalın kilodunda başlaması
 https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz dinci ahlaksızlığı
 https://kalbikara.uludagsozluk.com/ bkz teyzesinin kilodunda babasının spermini bulan mümin damad
