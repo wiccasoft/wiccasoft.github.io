@@ -4,7 +4,7 @@
 <!-- 
 bkz izotop vs atatop
 bkz atatop vs izotop
-https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz ata top
+https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg bkz atatop
 bkz adam fenerli zaten beyler
 bkz kız istemede ölen eşcinsel top
 bkz hem proton hem eşcinsel nötron olmak
