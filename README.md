@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
-https://www.uludagsozluk.com/e/42850715/ bkzx çüküne sağlık paşamın
+https://www.uludagsozluk.com/e/42850715/ bkz kimsenin hayatına karışmıyoruz emme 
+https://www.uludagsozluk.com/e/42850715/ bkz çüküne sağlık paşamın
 bkz damadın sırtına vurarark  gerdeğe sokan fenerliler
 bkz damadın gerdek gecesi için kayınbabadan yanak alması
 https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/&w=bg beline kuvvet yiğidin
