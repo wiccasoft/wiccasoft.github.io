@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz oç baruthane pilavcısı vs top erdal 
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 bkz ruhi çenet in çenesinin marka yapması
 bkz ciddiyeti severim disipline hayranım
