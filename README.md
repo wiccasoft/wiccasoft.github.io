@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz parasız kalan erdonun ali ustayı trollemesi
 bkz hadi beyler ali ustayı trollüyoruz 
 https://www.youtube.com/watch?v=GHSs6xsipT8 zuahahahahahha 
 https://www.uludagsozluk.com/k/ba%C5%9Fbakana-hakaret-edince-burnuna-yumruk-yiyen-mal/&w=bg zuahahahhahah
