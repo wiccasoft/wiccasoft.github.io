@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz enes abinin 12 milyon aboneyi t mobile a satması
+bkz enes abinin 12 milyon aboneyi t-mobile a satması
 bkz ruhi çenet spy gamedeki adam benzerliği
 bkz ruhi çeneti enes abiyle olan videolarını silmesi
 bkz ruhi çenet çenesi vs turgut özal çenesi
