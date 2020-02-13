@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.youtube.com/watch?v=MT-kJHjjokM
 bkz rte nin google a çöreklenmesi
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ananın amına koyam o gol kaçar mı oç
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocu
