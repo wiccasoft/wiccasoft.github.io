@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz ak parti gidince dünya lideri olacaksınız be olm
+bkz ak parti gidince dünya lideri olacaksınız be olm az daha sabredin 2033 e kadar maç izleyin
 https://www.uludagsozluk.com/k/hayla-malum-partiye-oy-vermeyi-d%C3%BC%C5%9F%C3%BCnenler/ bk haylazlar
 bkz gss prim borcunu ödemek için selçuk inanını iş bankası genel müdürü yapmak
 bkz selçuk inanın iş bankasına çökmesinin nedeni
