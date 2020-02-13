@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz recep tayyip top doğan üniversitesi
 bkz recep tayyi ptop doğan vs atatop
 bkz recep tayyip top doğan dop mu sorunsalı
 bkz gerdek odasında damadın top olmadığını anlamanın yolları
