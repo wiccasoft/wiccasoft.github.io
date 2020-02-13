@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
-bkzk imamoglu köftenni çektiği video
+https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
+https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köften vs baruthane pilav
 https://www.youtube.com/watch?v=xoEP2X1bYKI bkz czn burakın çektiği video
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular 
 --->
