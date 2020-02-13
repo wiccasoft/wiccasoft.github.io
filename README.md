@@ -4,41 +4,6 @@
 <!--
 https://www.youtube.com/watch?v=MT-kJHjjokM
 bkz rte nin google a çöreklenmesi
-https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ananın amına koyam o gol kaçar mı oç
-https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocu
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg fuck me kahrolası arap
-https://www.uludagsozluk.com/k/akp-li-belediyenin-20-y%C4%B1ld%C4%B1r-tuvalet-yapamamas%C4%B1/ nerey sıççaz len 
-https://www.uludagsozluk.com/k/tuncer-ustael/&w=bg ananın amına sokam oç
-https://www.uludagsozluk.com/k/suriyeliler/&w=bg anasının amk o sıçmıkları
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-i%C5%9F-bankas%C4%B1na-%C3%A7%C3%B6kme-nedeni/ 
-daha ananızın amına çökecem yeni başlıyoruz o sıçmıkları
-https://www.uludagsozluk.com/k/ruhu-g%C3%BCzel-insanlar%C4%B1n-ortak-%C3%B6zellikleri/ bkz imamoğlancı olmaları
-bkz selçuk inan sümüğü vs ahmet çakar tükürüğü
-https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun fener düşmanları
-https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocuğu
-https://www.uludagsozluk.com/k/atat%C3%BCrk-hayatta-olsayd%C4%B1/&w=bg fener düşmanlarının anasını sikerterdi
-https://www.uludagsozluk.com/k/palu-ailesi/&w=bg yedi ceddinize sıçam len amq
-https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç
-https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu/&w=bg fuck me kahrolası arap
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/ ay tatlişkoooo
-https://www.uludagsozluk.com/k/kenan-evren/&w=bg ananın yedi ceddine sokkam
-https://www.uludagsozluk.com/k/palu-ailesi/&w=bg sülalenizi yedi ceddnine sıçam
-https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin oç
-https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç
-https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ananın amına koyam o gol kaçar mı oç
-lenn koşşş amın feryadı selçukkk anan ın amına sokam senin
-https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ayağının yararını sikem amk len
-https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz ne mutlu palu deilim len amq diyene
-https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg la olm bunu satalım ramosu alalım
-bkz ayağının ayarın sikem amın oğlu selçuk kaçar mı o gol amın düdüüğü
-bkz selçuk inanın götünü parmaklayıp koşturmak
-bkz belezoğlan koşmuyo len amq
-bkz selçuk inanın kaç para len amq ofsaydı o pozisyon brooooo
-bkz palu ailesi vs ulucuların ailesi
-https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg lan hamza hmazoğlan bunu amk len ofseydı amk
-bkz kamaclıların eğitilmez oldukları gerçeği
-bkz atacücüyü seviyosanız rt de ikinci atacücü sayılır ibnenin evlatları
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-seviyorsan%C4%B1z-erdo%C4%9Fan-%C4%B1-da-seveceksiniz/
 https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz ciddiyeti severim disipline hayranım
 bkz metacortex in çektiği tik yok vidyosu
