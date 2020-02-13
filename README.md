@@ -6,7 +6,6 @@
 <!--
 bkz toplanınca daha güzel duran devlet adamları
 bkz kızlar uyuduysa en yakışıklı devlet adamını seçiyoruz
-bkz en karizmatik başbakan
 bkz recep tayyip doğanın topkek dağıtması
 bkz recep tayyip doğanın beni seven top sigara içmez demesi
 bkz recep tayyip doğanın sigara içen toptur demesi
