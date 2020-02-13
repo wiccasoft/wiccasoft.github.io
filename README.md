@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
-bkz şuan birisinin babasını öldürüyor olmam
+bkz şuan bir kamalcının babasını öldürüyor olmam
 bkz kamalcıların işlemediğim suçların sicil dosyasını yazması
 bkz kamalcıların sürekli iftira atmasına alışmak
 https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi
