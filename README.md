@@ -4,8 +4,8 @@
 
 <!-- 
 bkz ali koçun baba parası yiyenlere tepki olarak doğması
-https://twitter.com/arkabesliforum/status/979453504002625537 allahın lürfu
-https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol allah lütfu
+https://twitter.com/arkabesliforum/status/979453504002625537 allahın lütfu
+https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol türk yani anamı sikebilir
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-siyaset-yapmak-istiyorsa-parti-kursun/ ali koç satın alır--->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
