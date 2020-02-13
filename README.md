@@ -2,15 +2,11 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz rte nni tc bestepe yi tc rte yapması
+bkz rte nin tc bestepe yi tc rte yapması
 bkz rte nin facebook hesabını kapaması
-bkz türkler yüzünden bütün sosyal medya hesaplarımı kapatmam
 bkz türklere sosyal medya kullanmayı öğretmek
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz oç türklerin beni rte sanmaları adsasdasdasdasdasd
-bkz türklerin beni oç rte falan sanması
-bkz türklerin oç olduklarını anlamaları
-bkz oç türklerin siklenmedikçe çoşmaları
 bkz türklerin internetin virüsleri olduğu gerçeği
 bkz türklerle ilgili tek  bir şey paylaşmadığım halde her boka atlamaları
 bkz götünde don olmayanların özgüveni
