@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+https://www.cnnturk.com/tv-cnn-turk/ekran-yuzleri/ahmet-hakan bkz adam yozgatlıymış beyler
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-fet%C3%B6-ile-ili%C5%9Fkisi/&w=bg adam yozgatlı beyler
 https://www.uludagsozluk.com/k/ahmet-hakan/&w=bg bkz adam yozgatlıymış beyler tutmayın enişteyi
 bkz ekranların sevilen simalarından birinin yozgatlı olduğunu öğrenmek
