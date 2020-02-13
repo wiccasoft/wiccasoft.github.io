@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz recep tayyip doğanın maaşı çekim idlibe girecem demesi
 bkz recep tayyip doğanın idlibe giriyorum demesi
 bkz recep tayyip erdoğan ın doğu gutaya saldırması
 bkz reception fiminin oscar alması
