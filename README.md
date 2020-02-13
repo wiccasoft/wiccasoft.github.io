@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg lan hamza hmazoğlan bunu amk len ofseydı amk
 bkz kamaclıların eğitilmez oldukları gerçeği
 bkz atacücüyü seviyosanız rt de ikinci atacücü sayılır ibnenin evlatları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BC-seviyorsan%C4%B1z-erdo%C4%9Fan-%C4%B1-da-seveceksiniz/
