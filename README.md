@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+bkz ali koçun taşşak oğlanı olmasını kabullenemeyen ergenler
 bkz ali koç imamoğlu
 bkz babası ölmemiş erkeklerin oğlan çocuğu olduğu gerçeği
 bkz götümdeki boklar yesin geyseliler
