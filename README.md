@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/ruhu-g%C3%BCzel-insanlar%C4%B1n-ortak-%C3%B6zellikleri/ bkz imamoğlancı olmaları
 bkz selçuk inan sümüğü vs ahmet çakar tükürüğü
 https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun fener düşmanları
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocuğu
