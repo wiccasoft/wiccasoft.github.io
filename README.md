@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+bkz imamaoğlanın ibb de küfr etmesi
 https://www.uludagsozluk.com/k/be%C5%9F%C5%9Far-esed/&w=bg bkz esedin gutayı boşaltması
 bkz ibrahim tatlıses in ses oktavını 9 a çıktığı söylentileri
 bkz orhan gencebayın da azıyla beste yapdığı söylentileri
