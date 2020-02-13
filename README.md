@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com amınoğlu o götün bi inaşaata kaçmasın şişirirler o beyaz götünü
 https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan bi ibne
 https://kirmizicizgi.uludagsozluk.com kankağ kıllı bi kürt seni sikse naparsın
 https://kirmizicizgi.uludagsozluk.com kankağ erkekler olmasa kime entry girerdin
