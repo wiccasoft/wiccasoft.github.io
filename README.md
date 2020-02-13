@@ -4,7 +4,7 @@
 
 <!-- 
 bkz yazık la kimin çocuysa
-bkz fuck me mother made my momma fenerli koç nigga
+bkz fuck me mother then make my momma fenerli nigga
 bkz selçuk şahin anamın üstünde yakalansa orospuluk anamdadır
 bkz anamı sike sike geyseli yaptı fatih terim
 bkz anamı sike sike fenerli yaptı ali koç
