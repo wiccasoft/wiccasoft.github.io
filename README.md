@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz rte nin apple a çöreklenmesi
 bkz ali koçun rte yi patron yarısı olarak tanıtması
 bkz rte nin koç bankasına çöreklenmesi
 bkz ali koçun fener forması yollaması
