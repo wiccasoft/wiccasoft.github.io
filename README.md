@@ -3,6 +3,7 @@
 
 <!-- 
 bkz kapanoğlunun adamlarının baruthanenin adamlarını madara etmesi
+https://www.secin.com/watch/kolpa%C3%A7ino-bomba-mekan%C4%B1-basan-ekibe-etek-giydiriyor_BN5PI995JK16mBh.html
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=ZrK7LyLEgeI aferim çocuklar işte bu 
 bkz firmama soyadımı verceğimi sanan çomarlar
