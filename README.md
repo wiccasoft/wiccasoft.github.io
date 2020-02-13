@@ -4,7 +4,7 @@
 
 <!--
 bkz kadir şekerin babasının cinsini siktiğim cinsine çeker demesi
-bkz fenerin verilmeyen penatltısının sebebinin oç top erdal kömürcü olması
+bkz fenerin verilmeyen penaltısının sebebinin oç erdal kömürcü olması
 bkz prof dr abuzer kömürcü ve top oğlunun fenere küfretmesi
 bkz botoks reyizin ali koçun üstüne yürümesi
 bkz ünlü mafya babası sedat kapanoğlunun adamlarının fenerlileri tehdit etmesi
