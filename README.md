@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz receğ tayyi gaydoğan vs orhan bence gay
 bkz orhan bence gay
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz büyük top
 bkz bir erkeğin eşcinsel olup olmadığını anlamanın yolları
 bkz napolyon eşcinsel mi sorunsalı
 bkz receğ tayyiğ erdoğan eşcinsel mi sorunsalı
