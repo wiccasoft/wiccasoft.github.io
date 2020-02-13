@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.youtube.com/watch?v=TA6y-oRT1w0 bence her şey çok güzel zaten oç ları
 bkz parasız kalan apple ın chp mallarını trollemesi
 https://www.youtube.com/watch?v=BOS0XfLOR7s bkz kralını trollerim acımam oç ları
 bkz erdonun bu fakir bu görevde oldukça trollerim demesi
