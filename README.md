@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ bkz bir maç ceza almış
 bkz selçuk inan dan iyi mi bilecen len mq diyen geyseli
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ 
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
