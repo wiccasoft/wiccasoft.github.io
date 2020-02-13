@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
-bkz sedat kapaoğlunun oğlanları götünüz yiyorsa beni trolleyin  orospunun sıçtıkları
+bkz sedat kapanoğlanın yavşak oğlanları götünüz yiyorsa beni trolleyin oçları
 bkz sedat kapanoğlanın oğlanlarının sedat pekerden sonra ali ustayı trollemesi
 https://www.youtube.com/watch?v=GHSs6xsipT8 
 bkz baruthane pilavcısını trollüyoruz kampanyası
