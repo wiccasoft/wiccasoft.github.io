@@ -2,26 +2,13 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-https://www.youtube.com/watch?v=ZP2YtHCXM6E green card hüseyin vs belediyeci ekrem
-https://www.youtube.com/watch?v=bZliovcpusI aferim çocuklar devam edin
-bkz oç baruthane pilavcısının madara olduktan sonra pilavları tane tane yapması
-bkz oç baruthane pilavcısının hizaya gelmesi
-bkz kapanoğlunun adamlarının teftişe çıkması
-https://summercem88.uludagsozluk.com/ tipine köpek sıç.maz tespit yapıyo hala
-bkz kapanoğlunun adamlarının bill gatesi etek giydirmekle tehdit etmesi
-https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
-bkz kapanoğlunun adamlarının çok sevilmesinin asıl nedeni
 bkz ciddiyeti severim disipline hayranım
-https://www.youtube.com/watch?v=ZrK7LyLEgeI aferim çocuklar işte bu 
-bkz kapanoğlunun adamlarının baruthanenin adamlarını madara etmesi
-https://www.youtube.com/watch?v=B1pDK89darM&list=PLJ9O9WPqDDMnBAY7lrhHiCyzQgxzuybjR&index=100
+bkz metacortex in çektiği tiktok vidyosu
 https://www.secin.com/watch/kolpa%C3%A7ino-bomba-mekan%C4%B1-basan-ekibe-etek-giydiriyor_BN5PI995JK16mBh.html
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=ZrK7LyLEgeI aferim çocuklar işte bu 
-bkz metacortex in çektiği tiktok vidyosu
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=GHSs6xsipT8 bkz utandırmayın çocukları
-bkz ciddiyeti severim disipline hayranım
 https://www.youtube.com/watch?v=S6GhiP8wPwA cıncık gibisin
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
