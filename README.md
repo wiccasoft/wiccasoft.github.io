@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz damadaı ölmesin diye dua eden kayınpeder
 bkz damadı köşeye sıkıştırıp erkekliğini test etmek
 bkz ölen damada solunum yapmak
 bkz racep toptan doğan vs atatop
