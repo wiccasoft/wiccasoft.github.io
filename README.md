@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz ağız da kekremsi tad bırakan futbolcular
+ https://www.youtube.com/watch?v=KXnzNbuV84c ağır gerizekalı amk
 https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular 
 https://www.youtube.com/watch?v=AFx8ElwfMBQ zuahhaha
 https://www.youtube.com/watch?v=ktmzyChfPmk zuahahahaha
