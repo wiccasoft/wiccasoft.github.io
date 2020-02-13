@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz napolyon eşcinsel miydi sorunsalı
+bkz napolyon eşcinsel mi sorunsalı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg bkz bi iddia
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://kirmizicizgi.uludagsozluk.com kankağğğ erkeğlere fazlağ vakit ayırma gözlerin bozuluğ kankağğğ
