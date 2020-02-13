@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz fatih terimin ersun yanalı oyunas sürmesi
 bkz belezoğlanın antrenmanda fetö işareti yapması
 bkz dede parası yiyen fanatik fenerlinin iyice taşşak oğlanı olması
 bkz belezoğlanın antrenmanda ali koçoğlanın  götünü avuçlaması
