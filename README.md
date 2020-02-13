@@ -1,15 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!--bkz rte nin ata cücünün bankasına  boru gibi geçirmesi
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-i%C5%9F-bankas%C4%B1na-%C3%A7%C3%B6kme-nedeni/ hihihi
-bkz terli ve kaslı futbolcuları izlerken fena olmak
-bkz fenerlilerin geysaraylılara döşeyeceği boru
-bkz fatih terim efso soyunma odası konuşması
-bkz selçuk inanın terli terli soyunma odasında seksi seksi hareketler yapması
-https://www.uludagsozluk.com/k/galatasarayl%C4%B1-olmak/&w=gd 
-bkz halısahada brolarla terli terli maç yapma keyfi
-https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun amk larım
+<!--
+https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun fener düşmanları
 https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç 
 bkz selçuk inan sümüğü vs ahmet çakar tükürüğü
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocuğu
