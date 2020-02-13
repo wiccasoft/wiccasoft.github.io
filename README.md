@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz ayağoını ayarın sikem amın oğlu selçuk 
+bkz ayağının ayarın sikem amın oğlu selçuk kaçar mı o gol amın düdüüğü
 bkz selçuk inanın götünü parmaklayıp koşturmak
 bkz belezoğlan koşmuyo len amq
 bkz selçuk inanın kaç para len amq ofsaydı o pozisyon brooooo
