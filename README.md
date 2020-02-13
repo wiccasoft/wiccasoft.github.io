@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-lenn koşşş amın feryadı selçukkk
+lenn koşşş amın feryadı selçukkk anan ın amına sokam senin
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ayağının yararını sikem amk len
 https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz ne mutlu türküm diyene
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg la olm bunu satalım ramosu alalım
