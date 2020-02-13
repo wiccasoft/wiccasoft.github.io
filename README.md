@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz recep top doğan vs atatop vs izotop 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg 
 bkz recep top doğanın suriye sınırına top atması
 bkz recep ümmete güneş gibi doğan
