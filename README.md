@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+bkz anamı sike sike geyseli yaptı fatijh terim
 bkz anamı sike sike fenerli yaptı ali koç
 bkz ali koç anamı sikse orospuluk anamdadır
 bkz ali koçun baba parası yiyenlere tepki olarak doğması
