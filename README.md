@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- 
+bkz coronovirüsü to mu sorunsalı
 bkz receğ tayyiğ rizeden doğan
 bkz hangi cinse entry girmek hoşuna gidiyor
 bkz en çok hangi cinse entry giririyosunu gün içerisinde
