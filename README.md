@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/e/42849789/ bro bunu satalım üj mülyün yürü daha koyak ramosu alak 
 https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun fener düşmanları
 https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç satsak mı bunu bro
 bkz selçuk inan sümüğü vs ahmet çakar tükürüğü
