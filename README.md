@@ -3,16 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz irem dericenin götümdeki bokları fenerliler yesin demesi
-bkz irem derice vs ali koç
-bkz ali koç adına üzülmek..
-bkz yazık la kimin çocuysa rahmi bey nasıl böyle bi hata yapmış
-bkz fuck me mother then make my momma fenerli nigga
-bkz selçuk şahin anamın üstünde yakalansa orospuluk anamdadır
-bkz anamı sike sike geyseli yaptı fatih terim
 bkz anamı sike sike fenerli yaptı ali koç
-bkz ali koç anamı sikse orospuluk anamdadır
-bkz ali koçun baba parası yiyenlere tepki olarak doğması
 https://twitter.com/arkabesliforum/status/979453504002625537 allahın lütfu
 https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-siyaset-yapmak-istiyorsa-parti-kursun/ ali koç satın alır--->
