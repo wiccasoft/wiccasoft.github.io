@@ -3,7 +3,7 @@
 
 <!--
 https://www.youtube.com/watch?v=bZliovcpusI aferim çocuklar 
-bkz oç baruthane pilavcısının pilavları tane tane yapması
+bkz oç baruthane pilavcısının madara olduktan sonra pilavları tane tane yapması
 bkz oç baruthane pilavcısının hizaya gelmesi
 bkz kapanoğlunun adamlarının teftişe çıkması
 https://summercem88.uludagsozluk.com/ tipine köpek sıç.maz tespit yapıyo hala
