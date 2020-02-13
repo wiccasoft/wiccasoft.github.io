@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
-bkz prof dr abuzer kömürcü
+bkz prof dr abuzer kömürcü ve top oğlunun fenere küfretmesi
 bkz botoks reyizin ali koçun üstüne yürümesi
 bkz ünlü mafya babası sedat kapanoğlunun adamlarının fenerlileri tehdit etmesi
 bkz türkiyenin en köklü ailesinin torununun gerizekalı olduğunu iyice anlamak
