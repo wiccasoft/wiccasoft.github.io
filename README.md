@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz ibb imamaoğlanı gördükçe havalayan çomarlar
 https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
 bkz fedönün siyasi ayağının 41 olduğu iddaları
 bkz recep tayyip toptandoğan vs atatop
