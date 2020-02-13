@@ -4,7 +4,7 @@
 
 <!-- 
 bkz ali koç adına üzülmek..
-bkz yazık la kimin çocuysa
+bkz yazık la kimin çocuysa rahmi bey nasıl böyle bi hata yapmış
 bkz fuck me mother then make my momma fenerli nigga
 bkz selçuk şahin anamın üstünde yakalansa orospuluk anamdadır
 bkz anamı sike sike geyseli yaptı fatih terim
