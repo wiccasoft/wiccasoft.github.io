@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
-bkz belkide süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
+bkz belki de çok sevdiğiniz bir top tepiciyimdir kimbilir
+bkz belki de süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
 bkz beki de müge anlıya dombili diyorumdur bi yerlerde
 https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
 bkz kapanoğlunun adamlarının baruthane pilavcısına dava açması
