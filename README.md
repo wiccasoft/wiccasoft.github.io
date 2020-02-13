@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz erdonun bu fakir bu görevde oldukça trollerim demesi
 bkz parasız kalan erdonun ali ustayı trollemesi
 bkz hadi beyler ali ustayı trollüyoruz 
 https://www.youtube.com/watch?v=GHSs6xsipT8 zuahahahahahha 
