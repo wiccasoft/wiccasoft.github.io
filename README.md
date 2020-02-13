@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+bkz kamalcıların sürekli iftira atmasına alışmak
 https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi
 bkz beratın penis yüzüğünü azımla çıkartırım diyen kamalcı
 https://www.uludagsozluk.com/e/42850804/ olm bu iş de tutamaz gıyyy vıyy diye ses çıkartır len emq
