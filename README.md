@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=GHSs6xsipT8 bkz ekşcileri utandıran videolar
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs baruthane pilav
 https://www.youtube.com/watch?v=xoEP2X1bYKI bkz czn burakın çektiği video
-https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz ekşciler için hizaya girmişler
+https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz ne gerenk var raad raad
 --->
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
 
