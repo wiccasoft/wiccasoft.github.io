@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg
 https://eksisozluk.com/fernando-muslera--2132214?a=popular
 https://eksisozluk.com/volkan-konakin-olunce-yakilmak-istemesi--6363435?a=popular
 https://eksisozluk.com/grup-vitaminin-ismaili--6363689?a=popular lan ismail is-ma-il
