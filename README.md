@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz receğ tayyiğ erdoğan eşcinsel olabiliğ mi sorunsalığ
 bkz bir erkeğin eşcinsel olup olmadığını anlamanın yolları
 bkz napolyon eşcinsel mi sorunsalı
 bkz receğ tayyiğ erdoğan eşcinsel mi sorunsalı
