@@ -3,7 +3,7 @@
 
 <!--
 https://www.youtube.com/watch?v=MT-kJHjjokM
-bkz rte nin google a çöreklenmesi
+bkz rte nin metacortexe çöreklenmesi
 https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz ciddiyeti severim disipline hayranım
 bkz metacortex in çektiği tik yok vidyosu
