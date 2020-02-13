@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/hekimo%C4%9Flu-dizisi/&w=bg mucize doktor dizisiyle sevenleri ekran kitleyen dizi
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ kurtlar vadisi dizisine yöne veren karakter
 https://www.uludagsozluk.com/k/atlas-global-iflas-etti/ bkz hava yolları şirketi uçak üreten şirketi değil
 https://www.uludagsozluk.com/k/palu-ailesi/ bkz müge anlıda sansayonel olayalra adı karışmış aile
