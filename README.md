@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz büyük komutan deyince gay vicutlarımızın fena olması
 bkz recep tayyip doğan da sbeni düşünüyo mudur acaba ay fena oldum gay vicudum yine titredi ayol
 bkz recep tayyip doğan beş tepede midir sorunsalı arasak mı kızlar
 bkz recep tayyip  doğan ne yapıyodur acaba sorunsalı 
