@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz murathan munganın babası arap annesi kürt onu biliyorum
 bkz ruhi çenet nereli sorunsalı  odamı yozgatlı bi aratın bakim
 bkz ekranların sevilen simalarından birinin yozgatlı olduğunu öğrenmek
 https://www.cnnturk.com/tv-cnn-turk/ekran-yuzleri/ahmet-hakan bkz adam yozgatlıymış beyler
