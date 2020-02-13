@@ -4,16 +4,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansı gay savaşları
-bkz belezoğlanın kaleye ben geçim biraz da demesi
-bkz musleranın volkan demirelele kolasına maç yapalım mı demesi
-bkz fatih terimin ersun yanalı oyunas sürmesi
-bkz belezoğlanın antrenmanda fetö işareti yapması
 bkz dede parası yiyen fanatik fenerlinin iyice taşşak oğlanı olması
-bkz belezoğlanın antrenmanda ali koçoğlanın  götünü avuçlaması
-bkz ali koçun belezoğlanla iyi bi ikili olduk iyi paslaşıyoruz fener oluyoruz açıklaması
-bkz emre belezoğlan nın ali koçu ilk 11 e alması
-bkz imam oğlanın herşey çok güzel zaten amam benim için demesi
-bkz ali koçun alper potuk yerine oyuna girmesi
 bkz emre belezoğlanın futbol ve fetö benim için yaşam stili açıklaması
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-fet%C3%B6-ile-ili%C5%9Fkisi/&w=bg 
 -->
