@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com kankağ erkeğe fazlağ vakit ayırma gözlerin bozuluğ kankağğğ
 https://kirmizicizgi.uludagsozluk.com ortamlarda eşcinsel değilim dersin kim nerden bilecek kankağ
 https://kirmizicizgi.uludagsozluk.com arkadan vurdun mu önden sallanacak aga
 https://kirmizicizgi.uludagsozluk.com kankağ atacücü ismete çaktırıyomuş diyollaaaa
