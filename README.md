@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz ahmet çakarın hasan şaşa verdiği ayar
 bkz rte nin tc bestepe yi tc rte yapması
 bkz rte nin facebook hesabını kapaması
 bkz türklere sosyal medya kullanmayı öğretmek
