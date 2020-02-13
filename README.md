@@ -6,9 +6,9 @@
 <!--
 bkz üç dört isimli erkek karizması
 bkz cemiyetin ağır toplarından olmanın verdiği raadlık
-bkz mustafa kamal ata top  derken gay vicudumun titremesi
+bkz mustafa kamal ata top derken gay vicudumun titremesi
 bkz murathan munganın babasının arap annesinin kürt olması o yüzden gay olması
-bkz recep tayyip doğanın ümmete güneş gibi doğması
+bkz recep tayyip toptandoğanın ümmete güneş gibi doğması
 https://kirmizicizgi.uludagsozluk.com uyudud mu bu topkek annesi uyuttu heralde
 bkz kız istemede pipisi kalkmyana damad
 bkz recep top doğanın vs devlet bahçeli vs alper tunga
