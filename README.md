@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun fener düşmanları
-https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç 
+https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç satsak mı bunu bro
 bkz selçuk inan sümüğü vs ahmet çakar tükürüğü
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocuğu
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hayatta-olsayd%C4%B1/&w=bg fener düşmanlarının anasını sikerterdi
