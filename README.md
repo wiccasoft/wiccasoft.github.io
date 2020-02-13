@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ eşcinsel çıkması
+https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ rick martin de top kankağğğğ
 https://kirmizicizgi.uludagsozluk.com/ bkz ricky martin de top kankağğğğ sana erkeğ kalmadı napacan şincuuuu
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg
@@ -12,7 +12,7 @@ https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular
 https://www.youtube.com/watch?v=AFx8ElwfMBQ zuahhaha
 https://www.youtube.com/watch?v=ktmzyChfPmk zuahahahaha
 https://kirmizicizgi.uludagsozluk.com/ https://www.youtube.com/watch?v=KXnzNbuV84c
-https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı oç
+https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı homoseksüel oç
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı eşcinsel  -->
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
