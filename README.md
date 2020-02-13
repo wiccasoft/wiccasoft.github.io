@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
-<!-- https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular -->
+<!-- 
+https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular 
+https://unix.stackexchange.com/questions/60299/how-to-determine-which-sd-is-usb-->
 
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
