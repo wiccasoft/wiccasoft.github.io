@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/antalyaspor/&w=bg bkz anatalya ilçesine bağlı bir spor klübü
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz kurtlar vadisi eroin üreticisi karakteri
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ gavatların korkulu rüyası 
 https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz yılın gavatı
