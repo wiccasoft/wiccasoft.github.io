@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/yengeye-elif-dedin-usta/&w=bg elif demedim elf dedim
 https://www.uludagsozluk.com/e/42848934/ eywallah bro
 https://www.uludagsozluk.com/e/42848924/ anladım abi tamam abi
 bkz mehmet tevfik göksunun dilek imamoğlanla olan ilşkisi
