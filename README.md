@@ -1,6 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
+
+<!-- https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-fet%C3%B6-ile-ili%C5%9Fkisi/&w=bg -->
+
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
 
 
