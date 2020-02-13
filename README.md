@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz bir erkeğin eşcinsel olup olmadığını anlamanın yolları
 bkz napolyon eşcinsel mi sorunsalı
 bkz receğ tayyiğ erdoğan eşcinsel mi sorunsalı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg bkz bi iddia
