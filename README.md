@@ -7,7 +7,7 @@ https://kirmizicizgi.uludagsozluk.com ortamlarda eşcinsel değilim dersin kim n
 https://kirmizicizgi.uludagsozluk.com arkadan vurdun mu önden sallanacak aga
 https://kirmizicizgi.uludagsozluk.com kankağ atacücü ismete çaktırıyomuş diyollaaaa
 https://kirmizicizgi.uludagsozluk.com kankağ sezar da eşcinsel miydi senceğ kankağğğ
-https://kirmizicizgi.uludagsozluk.com bkz kuşum aydın
+https://kirmizicizgi.uludagsozluk.com bkz kuşum aydın küçük iskender karışımı bi yaratık
 https://kirmizicizgi.uludagsozluk.com kankağ senin dışında herkes eşcinsel kankağğ
 https://kirmizicizgi.uludagsozluk.com kürtlerin eşcinsel olduğunu idda eden bi eşcinsel
 https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan faşist bi ibne
