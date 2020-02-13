@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz düşün ki recep top doğanın damadısın
 bkz damadın beline kuvvet diyen kayınpeder
 bkz düşün ki recep top doğan okuyo
 bkz iyi ki toplandık kızlar türklük turanlık çok güzelmiş yine toplaşalım böyle
