@@ -4,11 +4,6 @@
 <!--
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 bkz ruhi çenet in çenesinin marka yapması
-bkz beni rte akp  sanıp benle kavga eden ergenler
-bkz deep webte benimle kavga eden ergenler
-bkz minik serçenin bestelerini götüyle yapması
-bkz ruhi çenet testeredeki adam benzerliği
-bkz deep webte olmayan firmama ve adamlarıma küfreden yaratıkların asıl amacı
 bkz ciddiyeti severim disipline hayranım
 bkz metacortex in çektiği tik yok vidyosu
 bkz abuzer kömürcü nün kömürcü eroinlerini lisanslaması
