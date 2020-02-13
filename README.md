@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
-https://www.uludagsozluk.com/e/42850715/ bkz kimsenin hayatına karışmıyoruz emme 
+https://www.uludagsozluk.com/e/42850715/ bkz yatak odalarına gireceğiz
 https://www.uludagsozluk.com/e/42850715/ bkz çüküne sağlık paşamın
 bkz damadın sırtına vurarark  gerdeğe sokan fenerliler
 bkz damadın gerdek gecesi için kayınbabadan yanak alması
