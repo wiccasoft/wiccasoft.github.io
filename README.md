@@ -3,7 +3,8 @@
 
 
 <!-- 
-bkz imama oğlanın herşey çok güzel zaten amam benim için demesi
+bkz emre belezoğlan nın ali koçu ilk 11 e alması
+bkz imam oğlanın herşey çok güzel zaten amam benim için demesi
 bkz ali koçun alper potuk yerine oyuna girmesi
 bkz emre belezoğlanın futbol ve fetö benim için yaşam stili açıklaması
 https://www.uludagsozluk.com/k/emre-bel%C3%B6zo%C4%9Flu-nun-fet%C3%B6-ile-ili%C5%9Fkisi/&w=bg 
