@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-bkz ne kadar çok izlerseniz o kadar para
+bkz vakit nakit çok izleyelim ki nakit kaybetyelim
 https://eksisozluk.com/ruhi-cenetin-ermenistan-videosu--6364015?a=popular
 bkz calvin harris vs neşet ertaş
 bkz erdal erzincanlı vs taylor swift
