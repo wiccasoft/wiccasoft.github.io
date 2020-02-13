@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz kendi partisinden olmayana çomar diyen çomar
+https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
 bkz imamaoğlanın oç çomar  istanbulluları adam etmesi
 bkz ali koçun gs li çomarları adam etmeye başlaması
 bkz ali koçun belezoğlanın dövüp sahaya yollaması
