@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ kürt düşmanı gerçek arı ırk türkçü
+https://www.uludagsozluk.com/k/k%C3%BCrtler-neden-kokar/&w=bg
 bkz düşün ki o da bunu izliyor
 bkz vakit nakit çok izleyelim ki nakit kaybetyelim
 https://eksisozluk.com/ruhi-cenetin-ermenistan-videosu--6364015?a=popular
