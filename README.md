@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz türkiye de herkesin çok gergin olması dostum ne bu sinir yahuuu işe mi gidiyosunuz yoksa
 bkz simit sarayının 250 susamı işten atması
 bkz sakin ol ve entry gir dostum devam dostum
 bkz sakin ol dostum bi başlık aç bi entry gir haaaaaaaaa dostum
