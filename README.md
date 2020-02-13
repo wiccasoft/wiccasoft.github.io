@@ -2,8 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
-<!-- 
-vkz botoks reyizin ali koçun üstüne yürümesi
+<!--
+bkz prof dr abuzer kömürcü
+bkz botoks reyizin ali koçun üstüne yürümesi
 bkz ünlü mafya babası sedat kapanoğlunun adamlarının fenerlileri tehdit etmesi
 bkz türkiyenin en köklü ailesinin torununun gerizekalı olduğunu iyice anlamak
 bkz erdoğanın ali koça çökme nedeni fener ve atatop düşmanı olması
