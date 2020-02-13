@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+https://www.uludagsozluk.com/k/siyahi-erkekler/&w=bg penisleri büyük oluyormuş
 bkz türk arama motoru ruhi 
 bkz ruhi çenetin ansiklopedi gibi olduğu gerçeği
 bkz ruhi çenet videolarından bilgi almak
