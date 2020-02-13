@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/pasif-gay/&w=bg bk ibne oğlan
 https://www.uludagsozluk.com/k/1998-ve-%C3%BCzeri-nesil/ bkz oç ları
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
 https://www.uludagsozluk.com/k/ermeni-pi%C3%A7i/&w=bg bkz oç ları
