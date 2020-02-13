@@ -3,7 +3,7 @@
 
 <!-- 
 bkz fedönün yedişdirdiği futbolcular
-bkz belezoğlan alper potukun iyi bir ikili olması
+bkz belezoğlan fedö antrenman görüntüleri
 bkz melih gökçekin ahmet hakanla tatlı atışmaları
 bkz belezoğlanın soyunma odasında terli vücuduyla yaptığı hareket
 bkz ahmet hakanın melih gökçekle barışma yayını yapması
