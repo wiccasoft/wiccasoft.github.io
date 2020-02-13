@@ -2,28 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
-<!--
-https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2/&w=bg bkz çok komik yaaaaaa
-https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ tekniği iyi geliştirmesi lazım
-bkz ak parti gidince dünya lideri olacaksınız be olm az daha sabredin 2033 e kadar maç izleyin
-https://www.uludagsozluk.com/k/hayla-malum-partiye-oy-vermeyi-d%C3%BC%C5%9F%C3%BCnenler/ bk haylazlar
-bkz gss prim borcunu ödemek için selçuk inanını iş bankası genel müdürü yapmak
-bkz selçuk inanın iş bankasına çökmesinin nedeni
-https://www.uludagsozluk.com/e/42848661/ babası mardinli arap ve eşcinselmiş
-https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğolmuş 
-https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ bkz bir maç ceza almış
-bkz selçuk inan dan iyi mi bilecen len mq diyen geyseli
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ 
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
-bkz türkiyedeki cehaletin korkutmaya başlaması
-https://www.uludagsozluk.com/k/hayla-malum-partiye-oy-vermeyi-d%C3%BC%C5%9F%C3%BCnenler/ bkz haylazlar
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ 
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
-https://www.uludagsozluk.com/k/vahdettin/&w=bg bkz fenerbahçe düşmanı hain fedöcü
-https://eksisozluk.com/alexander-sorlothun-bir-mac-ceza-almasi--6364881?a=popular bkz kafa basmayan olaylar
-bkz selçuk inaan dan iyi mi bilecen len mq diyen geyseli
-bkz selçuk inanın yazılım firmama çökmesi
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası-->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
