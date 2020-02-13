@@ -6,7 +6,7 @@
 
 <!--
 bkz kadri şekerin sikerttiği adamın babasının son sözleri
-bkz fenerbahçenni kemalizmin son kalesi olması
+bkz fenerbahçenin kemalizmin son kalesi olması
 bkz kemalistlerin facebook twitter instagram a dur demesi
 bkz kemalistlerin emperyalizme dur demesi apple google kullanmaması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-erdo%C4%9Fan-olarak-zuhur-etmi%C5%9Ftir/&w=bg
