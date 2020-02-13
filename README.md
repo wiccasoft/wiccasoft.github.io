@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com kankağ eş cinselliğin ilk ne zaman farkettin
 https://kirmizicizgi.uludagsozluk.com nur topu gibi bi eşcinsel maşşalah
 https://kirmizicizgi.uludagsozluk.com kankağ biy eykeğin ilk neyesine bakaysın 
 https://kirmizicizgi.uludagsozluk.com kankağ erkekler eşcinsel miğ kankağğ
