@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz racep toptan doğan vs atatop
 bkz türk olmayanların top olması
 bkz söylemesi zevzkli erkek isimleri
 bkz damadın top olup olmadığı anlamanın yolları
