@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz kapanoğlunun ve dürümcüsünün adamlarının çok sevilmesinin nedenleri
+bkz kapanoğlunun ve dürümcünün adamlarının çok sevilmesinin nedenleri
 bkz dürümcü vs baruthane pilavcısı
 bkz kapanoğlunun avukatının oç baruthane pilavcısına dava açması
 bkz kapanoğlunun adamlarının top erdalın babasını sıkıştırması
