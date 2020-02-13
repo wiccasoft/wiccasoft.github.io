@@ -3,11 +3,11 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz dinci ahlaksızlığı
 bkz müge amlıdaki palu ailesinin iftiracı kara çarşaflı yobazlar çıkması
 https://kalbikara.uludagsozluk.com/ bkz teyzesinin kilodunda babasının spermini bulan mümin damad
 https://www.uludagsozluk.com/k/s%C3%B6yleyenin-a%C4%9Fz%C4%B1na-vurma-iste%C4%9Fi-uyand%C4%B1ran-c%C3%BCmle/
 https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz sünnetli mi diye bi dil atmak
-https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz damadın çüküne sağlık emmee
 https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz yatak odalarına gireceğiz
 https://www.uludagsozluk.com/k/allahu-ekber-wohoooo/&w=bg damat mı bu
 https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz yatak odalarına gireceğiz
