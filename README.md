@@ -1,45 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
-<!-- 
-https://www.uludagsozluk.com/k/antalyaspor/&w=bg bkz anatalya ilçesine bağlı bir spor klübü
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz kurtlar vadisi eroin üreticisi karakteri
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ gavatların korkulu rüyası 
-https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz yılın gavatı
-https://www.uludagsozluk.com/k/polat-alemdar/ sevilen dizide racon değil kafa kesen bi karakter
-https://www.uludagsozluk.com/k/halo-day%C4%B1/ sevilen dizide uyuşturucu transferlerini kontrol eden karakter
-https://www.uludagsozluk.com/k/seyfo-day%C4%B1/ sevilen dizide mafya babasının dayısını oynayan akarakter
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ iki karakterin versusu
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz gavatlar vadisinde bir karakter
-https://www.uludagsozluk.com/k/danny-devito/&w=bg bkz gavat rolünü iyi oynayan aktör
-https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz yılın gavat ailesi
-https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz gavat
-https://www.uludagsozluk.com/k/trabzonlu-rumlar/&w=bg bkz godoş ve gavat karşımı bir ırk
-https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz godoş
-https://www.uludagsozluk.com/k/hekimo%C4%9Flu-dizisi/&w=bg mucize doktor dizisiyle sevenleri ekran kitleyen dizi
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ kurtlar vadisi dizisine yöne veren karakter
-https://www.uludagsozluk.com/k/atlas-global-iflas-etti/ bkz hava yolları şirketi uçak üreten şirketi değil
-https://www.uludagsozluk.com/k/palu-ailesi/ bkz müge anlıda sansayonel olayalra adı karışmış aile
-https://www.uludagsozluk.com/k/vin-diesel/&w=bg bkz eski fotolarından bir kare
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=gd bkz kaynak linkte verildi
-https://www.uludagsozluk.com/k/laurence-fishburne/&w=bg bkz matrix teki morphues
-bkz paumkkale turism iflas etti söylentileri
-bkz imamaoğlanın ibb de küfr etmesi
-https://www.uludagsozluk.com/k/be%C5%9F%C5%9Far-esed/&w=bg bkz esedin gutayı boşaltması
-bkz ibrahim tatlıses in ses oktavını 9 a çıktığı söylentileri
-bkz orhan gencebayın da azıyla beste yapdığı söylentileri
-bkz sezen aksunun azıyla beste yapması çok ilginç gerçekten
-https://www.uludagsozluk.com/k/sezen-aksu-nun-bestelerini-a%C4%9Fz%C4%B1yla-yapmas%C4%B1/ bkz ilginç
-https://www.uludagsozluk.com/k/sezen-aksu-nun-bestelerini-a%C4%9Fz%C4%B1yla-yapmas%C4%B1/ bkz minnak serçe
-https://www.sozcu.com.tr/hayatim/magazin-haberleri/serdar-ortac-yeni-aski-hakkinda-konustu/ marka değeri olan isim
-http://www.magazinsortie.com/haberleri/Serdar+Ort%C3%A7a
-https://brucelee.com.ua/ marka olmuş isimler
-https://www.uludagsozluk.com/k/jackie-chan/ bkz aksiyon filmlerinin unutulmaz yıldızı
-https://www.uludagsozluk.com/e/42851791/ ahmet kural çocukluk resmi
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg 
-https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg aka garaolan
-https://www.uludagsozluk.com/k/jackie-chan/ bkz lab de yapılan virüs -->
-
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
