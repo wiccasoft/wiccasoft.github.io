@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+https://www.cnnturk.com/tv-cnn-turk/ekran-yuzleri/ahmet-hakan adam yozgatlıymış beyler
 bkz ahmet hakanın fışkıye yayını
 bkz ahmet hakanın ekranı dörde bölmesi
 bkz ahmet hakanın canlı yayında fedöcüleri açıklaması
