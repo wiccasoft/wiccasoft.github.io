@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz gerdek gecesi pipisi kalkmayan damad
 bkz kız istemede ölen damadın eşcinsel çıkması
 bkz imamoğlanın pontu rum kırması eşcinsel olduğu gerçeği
 bkz mehmet tevfik göksu nun eşcinseller gününe katılmayacağım açıklması
