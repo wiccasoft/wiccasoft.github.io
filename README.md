@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com kankağ cemiyet hayatındaki eşcinselleri saysan kankağğğ
   https://www.youtube.com/watch?v=KXnzNbuV84c  barbaros ta eşcinsel mi senceğ kankağğ
 https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana eşsiz cinsel mi yok
