@@ -1,30 +1,4 @@
 
-
-[![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
-
-<!--
-bkz belki de racon bile kesemeyen ezik bir hırtlar vadisi karakteriyimdir ha sakin ol dostum 
-bkz belki de dinle küçük adam sadece senin iyiliğini istiyorum sakin ol dostum diyen kendi halinde biriyimdir
-bkz belki de düğünlerde zorla oynatılan pompalı tüfekle dehşet saçan akrabayımdır ha
-bkz belki de kaynını öldüren eltisini bıçaklayan bir katilimdir kim bilir
-bkz belki de gerdek gecesi boşalamadığım için dalga geçtiğiniz biriyimdir
-bkz belki de gerdek gecesi için sırtına vurduğunuz kankanızımdır ha dostum
-bkz belki de maç çıkışı gittiğin çiğ köfteci ali ustanın çırağıyımdır ha
-bkz belki de babam mardinli annem arabdır sakin ol dostum ha
-bkz belki de kolpaçino bombadaki ganyotçu ekremimdir
-bkz belki de sen allahın bir lütfusun seni veren elleke kurban dediğiniz bi spor klübü başkanıyımdır
-bkz belki de ezik bir hırtlar vadisi karakteriyimdir dostum raad ol az
-bkz belki de bıyıklarıma sıçtığınız mafya babası bi ülkücüyümdür ha dostum sakin ol az
-bkz belki de çok sevdiğin köylün olan bi türkücüyümdür yanık yanık çığıran he dostum olamaz mı yani
-blz belki de kimbilir yaşıtın bi top tepiciyimdir takla atan havalarda stadları çoşturan ha
-bkz belki de hiç kimseyimdir kimbilir sen kimsin lan dediğiniz
-bkz belki de mezarıma sıçmak için bile asla bulamayacağınız bir efsaneyimdir ha
-bkz belki de fedönün siyasi ayağıyımdır fener düşmanı pontus rumuyumdur he dostum olabilir bence paranoya yap
-bkz belki de nefret ettiğiniz badem bıyıklı bir dinciyimdir olamaz mı olabilir
-bkz belki de süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
-https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
-https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi --->
-
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 
