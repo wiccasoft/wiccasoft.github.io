@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz fuck me mother ali koç nigga
-bkz emre belezoğlanla ali koç anamı sikse yeridir
+bkz fuck me mother koç nigga
 bkz selçuk şahin anamın üstünde yakalansa orospuluk anamdadır
 bkz anamı sike sike geyseli yaptı fatih terim
 bkz anamı sike sike fenerli yaptı ali koç
