@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
-bkz kızlar uyudysa en yakışıklı siyasetçiyi seçiyoruz
+bkz kızlar uyuduysa en yakışıklı devlet adamını seçiyoruz
 bkz en karizmatik başbakan
 bkz recep tayyip doğanın topkek dağıtması
 bkz recep tayyip doğanın beni seven top sigara içmez demesi
