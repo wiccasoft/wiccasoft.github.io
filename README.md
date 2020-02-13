@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz reception fiminin oscar alması
 bkz recep tayyip doğanın güneş gibi her gün doğması
 bkz en başarılı recep tayyip doğan
 bkz düşün ki recep top doğanın damadısın
