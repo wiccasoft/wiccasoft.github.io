@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+https://www.uludagsozluk.com/k/1998-ve-%C3%BCzeri-nesil/ bkz 88 li abiler
 bkz kapanoğlunun adamlarının bill gatesi etek giydirmekle tehdit etmesi
 bkz kapanoğlunun adamlarının teftişe çıkması
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
