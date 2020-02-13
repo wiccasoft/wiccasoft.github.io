@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
-bkz damad eşcinsel mi diye pipsini öpen kayınpeder
+bkz damad eşcinsel mi diye pipisini öpen kayınpeder
 bkz emre belezoğlanın zokaraya pis zenci demesi
 bkz enes abinin 12 milyon aboneye ulaşması
 bkz ruhi çenet testeredeki adam benzerliği
