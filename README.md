@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2/&w=bg bkz çok komik yaaaaaa
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/ tekniği iyi geliştirmesi lazım
 bkz ak parti gidince dünya lideri olacaksınız be olm az daha sabredin 2033 e kadar maç izleyin
 https://www.uludagsozluk.com/k/hayla-malum-partiye-oy-vermeyi-d%C3%BC%C5%9F%C3%BCnenler/ bk haylazlar
