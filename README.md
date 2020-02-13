@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.youtube.com/watch?v=bZliovcpusI aferim çocuklar 
 bkz oç baruthane pilavcısının pilavları tane tane yapması
 bkz oç baruthane pilavcısının hizaya gelmesi
 bkz kapanoğlunun adamlarının teftişe çıkması
