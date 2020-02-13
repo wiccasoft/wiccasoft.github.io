@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ gavatların korkulu rüyası sevilen ekran siması
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ gavatların korkulu rüyası 
 https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz yılın gavatı
 https://www.uludagsozluk.com/k/polat-alemdar/ sevilen dizide racon değil kafa kesen bi karakter
 https://www.uludagsozluk.com/k/halo-day%C4%B1/ sevilen dizide uyuşturucu transferlerini kontrol eden karakter
