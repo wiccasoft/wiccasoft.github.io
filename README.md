@@ -4,17 +4,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
-<!--
-https://www.uludagsozluk.com/k/a-haber-in-ka%C5%9F%C4%B1nmas%C4%B1/
-bkz kadri şekerin sikerttiği adamın babasının son sözleri
-https://twitter.com/arkabesliforum/status/979453504002625537
-bkz fenerbahçenin kemalizmin son kalesi olması ali koç şeklinde zühur eylemesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-erdo%C4%9Fan-olarak-zuhur-etmi%C5%9Ftir/&w=bg
-bkz rte nin metacortexe çöreklenmesi
-https://www.youtube.com/watch?v=4RpMzsA1VOw
-bkz ciddiyeti severim disipline hayranım
-bkz metacortex in çektiği tik yok vidyosu
---->
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
 
