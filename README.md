@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz dürümcü vs baruthane pilavcısı
 bkz kapanoğlunun avukatının oç baruthane pilavcısına dava açması
 bkz kapanoğlunun adamlarının top erdalın babasını sıkıştırması
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
