@@ -4,11 +4,9 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz üç dört isimli erkek karizması
+bkz mustafa kamal ata top  derken gay vicudumun titremesi
 bkz murathan munganın babasının arap annesinin kürt olması o yüzden gay olması
-bkz üç isimli erkek karizması
-bkz recebimmmm tayyibmmmmmmm yiğidimmmm er doğanımmmmmmmmmmm derken gay vicudumun boşalması
-bkz recebimmmmmmmmmm derken bi tuhaf olmam
-bkz recep tayyip doğan derken gay vicudumun titremesi
 bkz recep tayyip doğanın ümmete güneş gibi doğması
 https://kirmizicizgi.uludagsozluk.com uyudud mu bu topkek annesi uyuttu heralde
 bkz kız istemede pipisi kalkmyana damad
