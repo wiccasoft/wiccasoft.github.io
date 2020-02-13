@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
-bkz fyozdil fedö siyasi ayak yazısı
+bkz fedönün siyasi ayağının 41 olması
+bkz yozdil fedö siyasi ayak yazısı
 bkz gerdeğ gecesi ölen damad
 bkz parasız kalan erdonun maaşını çekmesi
 bkz ergenlerin özgüven kaynağı ne sorunsalı
