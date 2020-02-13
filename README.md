@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/atlas-global-iflas-etti/ bkz hava yolları şirketi uçak üreten şirketi değil
 https://www.uludagsozluk.com/k/palu-ailesi/ bkz müge anlıda sansayonel olayalra adı karışmış aile
 https://www.uludagsozluk.com/k/vin-diesel/&w=bg bkz eski fotolarından bir kare
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-ibb-mecliste-k%C3%BCf%C3%BCr-etmesi/&w=gd bkz kaynak linkte verildi
