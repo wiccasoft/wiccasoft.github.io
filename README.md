@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz belezoğlanın kaleye ben geçim biraz da demesi
 bkz musleranın volkan demirelele kolasına maç yapalım mı demesi
 bkz fatih terimin ersun yanalı oyunas sürmesi
 bkz belezoğlanın antrenmanda fetö işareti yapması
