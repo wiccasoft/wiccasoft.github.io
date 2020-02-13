@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/&w=bg beline kuvvet yiğidin
 bkz ali koçun ülkeyi fener çatısı altında yeniden kuvayi fenerde toplaması
 bkz ali koç ve fener düşmanlığından gözleri körelmiş çomarlar
 bkz ali koçun üçlü çektirip pontuslu fener düşmanı vatan hayınlarını sakinleştirmesi
