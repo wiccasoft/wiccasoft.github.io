@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+bkz ali koç ve fener düşmanlığından gözleri körelmiş çomarlar
 bkz ali koçun üçlü çektirip pontuslu fener düşmanı vatan hayınlarını sakinleştirmesi
 bkz ali koçun fatih terimin sicili belli demesi
 bkz botoks reyizin ali koçun üstüne yürümesi
