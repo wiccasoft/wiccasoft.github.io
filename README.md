@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ali koçun belezoğlanla iyi bi ikili olduk iyi paslaşıyoruz fener oluyoruz açıklaması
 bkz emre belezoğlan nın ali koçu ilk 11 e alması
 bkz imam oğlanın herşey çok güzel zaten amam benim için demesi
 bkz ali koçun alper potuk yerine oyuna girmesi
