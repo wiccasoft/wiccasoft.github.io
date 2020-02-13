@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=GHSs6xsipT8 bkz utandırmayın
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs tayyipoğlan sucuk
 https://www.youtube.com/watch?v=xoEP2X1bYKI bkz czn burakın düzene girmesi
-https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz ne gerenk var raad raad
+https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz disipline hayranım
 --->
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
 
