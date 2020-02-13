@@ -10,11 +10,9 @@ https://www.uludagsozluk.com/k/palu-ailesi/&w=bg sülalenizi yedi ceddninze sike
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçanm senin oç
 https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ananın amına koyam o gol kaçar mı oç
-bkz oç barutçu ailesi
-bkz barutçu aileinin müge anlıya çıkması
 lenn koşşş amın feryadı selçukkk anan ın amına sokam senin
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ayağının yararını sikem amk len
-https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz ne mutlu türküm diyene
+https://www.uludagsozluk.com/k/palu-ailesi/&w=bg bkz ne mutlu palu deilim len amq diyene
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg la olm bunu satalım ramosu alalım
 bkz ayağının ayarın sikem amın oğlu selçuk kaçar mı o gol amın düdüüğü
 bkz selçuk inanın götünü parmaklayıp koşturmak
