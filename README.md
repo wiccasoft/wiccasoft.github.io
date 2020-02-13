@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.youtube.com/watch?v=IDSQf1964iM testeredeki adam
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
