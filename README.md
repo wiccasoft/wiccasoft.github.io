@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz selçuk inanın kaç para len amq ofsaydı o pozisyon brooooo
 bkz palu ailesi vs ulucuların ailesi
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg lan hamza hmazoğlan bunu amk len ofseydı amk
 bkz kamaclıların eğitilmez oldukları gerçeği
