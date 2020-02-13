@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz faruk çamdalın fedönün siyasi ayağı kokuyo demesi
 bkz süleyman soylunun fedönün siyasi ayağını açıklaması
 bkz süleyman soylunun bekçi maaşlarını düzeltecem sözü
 bkz süleyman soylunun keltoç baban koç diyenlere gülmesi
