@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz emre belezoğlanın daha zıplamak için dumble alması
 bkz emre belezoğlanın kafa toplarına çıkmadığı iddaları
 bkz ekrem imamoğlanın canlı yayında yozgatlıya  boru gibi geçirmesi
 bkz sevilen futbolcunun çemişgezekli olduğu öğrenmek
