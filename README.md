@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+  https://www.youtube.com/watch?v=KXnzNbuV84c  barbaros ta eşcinsel mi senceğ kankağğ
 https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana eşsiz cinsel mi yok
 bkz erkek gibi erkek kalmadı ayol
@@ -10,17 +11,10 @@ bkz ay acaba eşcinsel mi denilen erkeğin eşcinsel çıkması
 bkz erkeklere entry girerken heyecanlanmak
 https://kirmizicizgi.uludagsozluk.com/  bkz küçük iskender
 https://kirmizicizgi.uludagsozluk.com/  bkz eş cinsel uzmanı
-https://kirmizicizgi.uludagsozluk.com/ bkz erkek adamın erkekin derdini bilir 
-https://kirmizicizgi.uludagsozluk.com/ bkz erkek adam erkeklerin cinselliğiyle  ilgilenir
-https://kirmizicizgi.uludagsozluk.com/ bkz erkeklerin pipilerini öperek eşcinsellik testi yapan top
-https://kirmizicizgi.uludagsozluk.com/ bkz adam gibi eşcinsel
-https://kirmizicizgi.uludagsozluk.com/ bkz eşcinsellik diyince akla gelen ilk ibne
-https://www.uludagsozluk.com/k/irani-kavimlerin-e%C5%9Fcinselli%C4%9Fe-yatk%C4%B1n-olmas%C4%B1/&w=bg bkz kırmızıçicgi
+https://kirmizicizgi.uludagsozluk.com/ bkz eşcinsellik diyince akla gelen ilk çızgi
 https://kirmizicizgi.uludagsozluk.com/ bkz karaambarcılar eşcinsel kamyoncular lideri
-https://kirmizicizgi.uludagsozluk.com/ bkz büyük eşcinselmişsin kankağ helal olsun sana
 https://kirmizicizgi.uludagsozluk.com/ bkz hem eşcinsel olup hem delikanlı olmak
 https://kirmizicizgi.uludagsozluk.com/ bkz helal lan sanan delikanlı top çıktın
-https://kirmizicizgi.uludagsozluk.com/ bkz delikanlığ top
 https://kirmizicizgi.uludagsozluk.com/ rick martin de top kankağğğğ
 https://kirmizicizgi.uludagsozluk.com/ bkz ricky martin de top kankağğğğ sana erkeğ kalmadı napacan şincuuuu
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg
