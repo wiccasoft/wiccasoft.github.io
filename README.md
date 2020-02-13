@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
+bkz belki de kaynını öldüren eltisini bıçaklayan bir katilimdir kim bilir
 bkz belki de gerdek gecesi boşalamadığım için dalga geçtiğiniz biriyimdir
 bkz belki de gerdek gecesi için sırtına vurduğunuz kankanızımdır ha dostum
 bkz belki de maç çıkışı gittiğin çiğ köfteci ali ustanın çırağıyımdır ha
