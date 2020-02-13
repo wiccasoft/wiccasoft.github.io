@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz ay acaba eşcinsel mi denilen erkeğin eşcinsel çıkması
 bkz erkeklere entry girerken heyecanlanmak
 https://kirmizicizgi.uludagsozluk.com/  bkz küçük iskender
 https://kirmizicizgi.uludagsozluk.com/  bkz eş cinsel uzmanı
