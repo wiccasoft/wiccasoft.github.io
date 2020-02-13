@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
+bkz yoğurt yerken ruhi çenet izlemek
 bkz türklerin yoğurt dışında insanlığa kattıkları
 https://www.uludagsozluk.com/k/siyahi-erkekler/&w=bg 
 bkz türk arama motoru ruhi 
