@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
-bkz belki de ekranların renkli siması değilimdir he
+bkz belki de babam mardinli annem arabdır sakin ol dostum ha
 bkz belki de sen allahın bir lütfusun seni veren elleke kurban dediğiniz bi spor klübü başkanıyımdır
 bkz belki de ezik bir hırtlar vadisi karakteriyimdir dostum raad ol az
 bkz belki de bıyıklarıma sıçtığınız mafya babası bi ülkücüyümdür ha dostum sakin ol az
