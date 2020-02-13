@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=ktmzyChfPmk  zuahahahaha
+https://kirmizicizgi.uludagsozluk.com/ bkz nabıyon lan homo
 https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı oç
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı eşcinsel  -->
 
