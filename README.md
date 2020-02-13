@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz simit sarayının 250 susamı işten atması
 bkz sakin ol ve entry gir dostum devam dostum
 bkz sakin ol dostum bi başlık aç bi entry gir haaaaaaaaa dostum
 https://www.uludagsozluk.com/k/t%C3%BCrk-toplumuna-%C3%B6zg%C3%BC-ahlaki-ikiy%C3%BCzl%C3%BCl%C3%BCk-%C3%B6rnekleri/
