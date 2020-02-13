@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.sozcu.com.tr/hayatim/magazin-haberleri/serdar-ortac-yeni-aski-hakkinda-konustu/ marka değeri olan isim
 http://www.magazinsortie.com/haberleri/Serdar+Ort%C3%A7a
 https://brucelee.com.ua/ marka olmuş isimler
 https://www.uludagsozluk.com/k/jackie-chan/ bkz aksiyon filmlerinin unutulmaz yıldızı
