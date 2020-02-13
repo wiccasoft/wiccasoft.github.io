@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz melih gökçek ahmet hakan cnn turk buluşması
 bkz ahmet hakanın yayını kesmesi
 bkz volkan demirelin hem eşcinseş fedöcü olduğu gerçeği
 bkz ali koçun emre belezoğlanı fedöcü diye kovması
