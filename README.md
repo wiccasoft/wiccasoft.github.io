@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz irem dericenin götümdekşi bokların fenerliler yesin demesi
+bkz irem dericenin götümdeki bokları fenerliler yesin demesi
 bkz irem derice vs ali koç
 bkz ali koç adına üzülmek..
 bkz yazık la kimin çocuysa rahmi bey nasıl böyle bi hata yapmış
