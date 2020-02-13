@@ -4,6 +4,7 @@
 
 <!--
 bkz belki de babam mardinli annem arabdır sakin ol dostum ha
+bkz belki de kolpaçino bombadaki ganyotçu ekremimdir
 bkz belki de sen allahın bir lütfusun seni veren elleke kurban dediğiniz bi spor klübü başkanıyımdır
 bkz belki de ezik bir hırtlar vadisi karakteriyimdir dostum raad ol az
 bkz belki de bıyıklarıma sıçtığınız mafya babası bi ülkücüyümdür ha dostum sakin ol az
