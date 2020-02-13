@@ -2,14 +2,13 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://kirmizicizgi.uludagsozluk.com bkz belki biri siker diye ona buna iftira atan bi ibne
-https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan kırmızı bi ibne
+https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan faşist bi ibne
 https://kirmizicizgi.uludagsozluk.com kankağ kıllı bi kürt seni sikse naparsın
 https://kirmizicizgi.uludagsozluk.com nur topu gibi bi eşcinsel maşşalah
 https://kirmizicizgi.uludagsozluk.com kankağ biy kürt eykeğin ilk neyesine bakaysın 
 https://kirmizicizgi.uludagsozluk.com kankağ erkekler eşcinsel miğ kankağğ
 https://kirmizicizgi.uludagsozluk.com kankağ cemiyet hayatındaki eşcinselleri saysan kankağğğ
-  https://www.youtube.com/watch?v=KXnzNbuV84c  barbaros ta eşcinsel mi senceğ kankağğ
+ https://www.youtube.com/watch?v=KXnzNbuV84c  barbaros ta eşcinsel mi senceğ kankağğ
 https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana eşsiz cinsel mi yok
 bkz erkek gibi erkek kalmadı ayol
