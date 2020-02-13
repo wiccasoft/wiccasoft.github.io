@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg bkz kadir şeker ölümsüzdür
 https://www.uludagsozluk.com/k/kursa%C4%9F%C4%B1ndan-haram-lokma-ge%C3%A7meyen-parti/ bkz ak parti
 bkz türkler çok zekiyse niye apple gibi firma kurmuyorlar sorunsalı
 https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg bkz asalak
