@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/ermeni-pi%C3%A7i/&w=bg bkz oç ları
 https://www.uludagsozluk.com/k/%C3%BCmmetin-d%C3%BC%C4%9F%C3%BCnden-sonra-aft%C4%B1rpartiye-gitmesi/ buralar karışır beyler
 bkz deep türkish webte herkese küfreden yaratıkların asıl amacı
 bkz oç baruthane pilavcısı vs top erdal 
