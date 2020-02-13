@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz musleranın volkan demirelele kolasına maç yapalım mı demesi
 bkz fatih terimin ersun yanalı oyunas sürmesi
 bkz belezoğlanın antrenmanda fetö işareti yapması
 bkz dede parası yiyen fanatik fenerlinin iyice taşşak oğlanı olması
