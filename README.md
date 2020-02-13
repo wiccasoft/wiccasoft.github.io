@@ -4,7 +4,7 @@
 <!--
 bkz ekşideki geyler kimi çekiştiriyo sorunsalı
 https://www.uludagsozluk.com/e/42848934/  bkz ayak kokan ultra gay platform
-https://www.uludagsozluk.com/k/yengeye-elif-dedin-usta/&w=bg elif demedim elf dedim
+https://www.uludagsozluk.com/k/yengeye-elif-dedin-usta/&w=bg elif demedim elf dedim olm
 https://www.uludagsozluk.com/e/42848934/ eywallah bro
 https://www.uludagsozluk.com/e/42848924/ anladım abi tamam abi
 bkz gerdek gecesi pipisi kalkmayan damad
