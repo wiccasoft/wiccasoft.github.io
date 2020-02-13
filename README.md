@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/her-sabah-iki-kutu-neskuiq-i%C3%A7en-erkek/ zuahahahahah bebelerrrrrrrrr
 bkz sihirli annem tuna izlerken babanın odaya girmesi
 bkz tek derdi penisiyle  işe gitmek olan canlılar
 https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg
