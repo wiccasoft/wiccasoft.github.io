@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz volkan demirelin hem eşcinseş fedöcü olduğu gerçeği
 bkz ali koçun emre belezoğlanı fedöcü diye kovması
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansı gay savaşları
 bkz dede parası yiyen fanatik fenerlinin iyice taşşak oğlanı olması
