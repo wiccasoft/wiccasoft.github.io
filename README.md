@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz sakin ol dostum bi başlık aç bi entry gir haaaaaaaaa dostum
+https://www.uludagsozluk.com/k/t%C3%BCrk-toplumuna-%C3%B6zg%C3%BC-ahlaki-ikiy%C3%BCzl%C3%BCl%C3%BCk-%C3%B6rnekleri/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-herkesin-%C3%A7ok-sinirli-olmas%C4%B1/ sakin ol dostum otur bi entry gir ha
 https://www.uludagsozluk.com/k/tek-derdi-penisini-bir-yerlere-sokmak-olan-canl%C4%B1/&w=bg bkz vurduryodur
 bkz annesinin siken adama baba diyen godoşlar
