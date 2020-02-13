@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz kürtler çalışırken entry girmenin daha zevkli olması
 bkz tek derdi penisini işe götürmek olan canlı
 bkz kürtleri ağır işlere verip entry girelim kampanyası
 https://www.uludagsozluk.com/k/k%C3%BCrtleri-iraka-g%C3%B6n%C3%BCll%C3%BC-g%C3%B6ndermek/
