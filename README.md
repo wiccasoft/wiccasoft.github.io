@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz gerdek gecesi pipisi düşen damad
 bkz baruthane pilavcısının eleman almaması
 bkz köfteci yusufun köftelere işemesi
 bkz aras kargonun 250 kekoyu işe alması
