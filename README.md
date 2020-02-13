@@ -10,7 +10,8 @@ bkz belki de bıyıklarıma sıçtığınız mafya babası bi ülkücüyümdür 
 bkz belki de çok sevdiğin köylün olan bi türkücüyümdür yanık yanık çığıran he dostum olamaz mı yani
 blz belki de kimbilir yaşıtın bi top tepiciyimdir takla atan havalarda stadları çoşturan ha
 bkz belki de hiç kimseyimdir kimbilir sen kimsin lan dediğiniz
-bkz belki de fedönün siyasi ayağıyımdır fener düşmanı he dostum olabilir bence  paranoya yap
+bkz belki de mezarıma sıçmak için bile asla bulamayacağınız bir efsaneyimdir ha
+bkz belki de fedönün siyasi ayağıyımdır fener düşmanı pontus rumuyumdur he dostum olabilir bence paranoya yap
 bkz belki de nefret ettiğiniz badem bıyıklı bir dinciyimdir olamaz mı olabilir
 bkz belki de süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
 https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
