@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz süleymanın keltoç baban koç diyenlere hunharca gülmesi
 bkz norm ender mekanın sahibi keltoç baban koç
 bkz oç köfteci yusuf
 bkz yine geldi tipine sıçtığım 
