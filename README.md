@@ -7,8 +7,6 @@
 <!--
 bkz kadri şekerin sikerttiği adamın babasının son sözleri
 bkz fenerbahçenin kemalizmin son kalesi olması ali koç şeklinde zühur eylemesi
-bkz kemalistlerin facebook twitter instagram a dur demesi
-bkz kemalistlerin emperyalizme dur demesi apple google microsoft kullanmaması
 https://www.uludagsozluk.com/k/atat%C3%BCrk-erdo%C4%9Fan-olarak-zuhur-etmi%C5%9Ftir/&w=bg
 bkz rte nin metacortexe çöreklenmesi
 https://www.youtube.com/watch?v=4RpMzsA1VOw
