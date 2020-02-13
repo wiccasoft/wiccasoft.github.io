@@ -1,5 +1,5 @@
 
-[![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirls.xxx/vanda-the-pleasure-is-all-mine/ )
+[![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
