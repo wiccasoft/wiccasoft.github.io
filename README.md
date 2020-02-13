@@ -2,14 +2,15 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz eşcinselliğini saklayamayan eşcinsel
 https://kirmizicizgi.uludagsozluk.com/ bkz erkeklerin pipilerini öperek eşcinsellik testi yapan top
-https://kirmizicizgi.uludagsozluk.com/ bkz adama gibi eşcinsel
+https://kirmizicizgi.uludagsozluk.com/ bkz adam gibi eşcinsel
 https://kirmizicizgi.uludagsozluk.com/ bkz eşcinsellik diyince akla gelen ilk ibne
 https://www.uludagsozluk.com/k/irani-kavimlerin-e%C5%9Fcinselli%C4%9Fe-yatk%C4%B1n-olmas%C4%B1/&w=bg bkz kırmızıçicgi
 https://kirmizicizgi.uludagsozluk.com/ bkz karaambarcılar eşcinsel kamyoncular lideri
 https://kirmizicizgi.uludagsozluk.com/ bkz büyük eşcinselmişsin kankağ helal olsun sana
 https://kirmizicizgi.uludagsozluk.com/ bkz hem eşcinsel olup hem delikanlı olmak
-https://kirmizicizgi.uludagsozluk.com/ bkz helala lan sanan delikanlı top çıktın
+https://kirmizicizgi.uludagsozluk.com/ bkz helal lan sanan delikanlı top çıktın
 https://kirmizicizgi.uludagsozluk.com/ bkz delikanlığ top
 https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ rick martin de top kankağğğğ
