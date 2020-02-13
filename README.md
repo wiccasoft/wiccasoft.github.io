@@ -4,6 +4,8 @@
 <!--
 bkz ciddiyeti severim disipline hayranım
 bkz metacortex in çektiği tik yok vidyosu
+bkz abuzer kömürcü nün kömürcü eroinlerini lisanslaması
+https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/
 --->
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
