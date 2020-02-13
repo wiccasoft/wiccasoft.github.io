@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+https://www.uludagsozluk.com/e/42848830/ burası karışır beyler vaziyet alın
 https://www.cnnturk.com/video/turkiye/ahmet-hakan-melih-gokcekin-o-tweetlerini-canli-yayinda-okudu
 bkz melih gökçek ahmet hakan cnn turk buluşması
 bkz ahmet hakanın yayını kesmesi
