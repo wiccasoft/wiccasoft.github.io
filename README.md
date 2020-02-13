@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+bkz kadir şekerin babasının cinsini siktiğim cinsine çeker demesi
 bkz fenerin verilmeyen penatltısının sebebinin oç palu ailesi olması
 bkz prof dr abuzer kömürcü ve top oğlunun fenere küfretmesi
 bkz botoks reyizin ali koçun üstüne yürümesi
