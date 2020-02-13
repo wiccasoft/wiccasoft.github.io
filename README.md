@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz belezoğlanın antrenmanda fetö işareti yapması
 bkz dede parası yiyen fanatik fenerlinin iyice taşşak oğlanı olması
 bkz belezoğlanın antrenmanda ali koçoğlanın  götünü avuçlaması
 bkz ali koçun belezoğlanla iyi bi ikili olduk iyi paslaşıyoruz fener oluyoruz açıklaması
