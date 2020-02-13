@@ -3,7 +3,7 @@
 
 <!--
 bkz ciddiyeti severim disipline hayranım
-bkz metacortex in çektiği yikyok vidyosu
+bkz metacortex in çektiği tik yok vidyosu
 --->
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
