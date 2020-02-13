@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz süleyman soylunun keltoç baban koç diyenlere gülmesi
 https://www.uludagsozluk.com/e/42848934/ bkz küresel ısınma
 https://www.uludagsozluk.com/e/42848934/  bkz ayak kokan ultra gay platform
 https://www.uludagsozluk.com/k/yengeye-elif-dedin-usta/&w=bg elif demedim elf dedim olm
