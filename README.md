@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz erdoğanın ali koça çökme nedeni fener düşmanı olması
+bkz erdoğanın ali koça çökme nedeni fener ve atatop düşmanı olması
 bkz ali koçun ve imamaoğlanın taşşak oğlanı olmasını kabullenemeyen ergenler
 bkz babası ölmemiş erkeklerin oğlan çocuğu olduğu gerçeği
 bkz götümdeki boklar yesin geyseliler
