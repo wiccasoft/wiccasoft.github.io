@@ -7,14 +7,6 @@ https://www.uludagsozluk.com/e/42848934/  bkz ayak kokan ultra gay platform
 https://www.uludagsozluk.com/k/yengeye-elif-dedin-usta/&w=bg elif demedim elf dedim
 https://www.uludagsozluk.com/e/42848934/ eywallah bro
 https://www.uludagsozluk.com/e/42848924/ anladım abi tamam abi
-bkz mehmet tevfik göksunun dilek imamoğlanla olan ilşkisi
-bkz mehmet tevfik göksunun ihaleleri barus yaanalın firmaya yanlaması
-bkz ibb 5. oturumdan mehmet tevfik göksunun imamaoğlana top demesi
-bkz efe aydalın nihat doğan podvasti
-bkz enes abinni efe aydal abiuyle raynmen abiyi barıştırması
-bbkz ruhi çenetin efe aydalın yayını kesmesi
-bkz türk arama motoru tarık
-https://www.uludagsozluk.com/e/42848924/ anladım abi tamam abi
 bkz gerdek gecesi pipisi kalkmayan damad
 bkz kız istemede ölen damadın eşcinsel çıkması
 bkz imamoğlanın pontu rum kırması eşcinsel olduğu gerçeği
