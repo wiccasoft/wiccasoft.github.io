@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz sputnikin skimsonik haber linkleri
 bkz kadri şekerin siktiği adamın babasının sözleri 
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker-in-%C3%B6ld%C3%BCrd%C3%BC%C4%9F%C3%BC-adam%C4%B1n-babas%C4%B1n%C4%B1n-s%C3%B6zleri/
 bkz rte nin apple a çöreklenmesi
