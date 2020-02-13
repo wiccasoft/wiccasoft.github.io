@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz türkler niye apple rakip oalcak bi sistem yazmıyorlar sorunsalı
+bkz kemalistler niye apple a rakip oalcak bi sistem yazmıyorlar sorunsalı
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg bkz kadir şeker ölümsüzdür
 https://www.uludagsozluk.com/k/kursa%C4%9F%C4%B1ndan-haram-lokma-ge%C3%A7meyen-parti/ bkz ak parti
 bkz türkler çok zekiyse niye apple gibi firma kurmuyorlar sorunsalı
