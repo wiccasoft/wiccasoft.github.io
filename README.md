@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro nu
+https://www.uludagsozluk.com/e/42849789/ amk top tepicisi 87 li mi bro bu oç
 https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg ananın amına koyam o gol kaçar mı oç
 bkz oç barutçu ailesi
 bkz barutçu aileinin müge anlıya çıkması
