@@ -13,7 +13,6 @@ bkz barış öcanın türkiyenin elon muskıysa ruhi çenet in steve jobsı oldu
 bkz ruhi çenet videolarının bağımlılık yapması
 bkz aşkım enes abi mi ruhi çenet abi mi diyen kız
 bkz enes abinin 12 milyon aboneye ulaşması
-aşkım ben mi güzelim ariana grande mi diyen kız
 https://www.youtube.com/watch?v=IDSQf1964iM testeredeki aergen
 https://www.youtube.com/watch?v=NiabnQBRDfA gerçekler acıdır delihuanlı
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
