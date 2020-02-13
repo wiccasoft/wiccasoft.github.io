@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.haberturk.com/gaziantep-haberleri/75487606-parkta-olu-bulunan-gencin-cinayet-zanlisi-eski-arkadasi-ciktigencin-akillara-durgunluk
 https://www.haberturk.com/samet-i-kendisini-sosyal-medyadan-kadin-olarak-tanitip-bulustugu-parkta-oldurmus-2581221
 bkz kadir şekerin sikerttiği adamın babasının ifade vermesi
 https://www.uludagsozluk.com/k/alexander-s%C3%B6rloth/&w=bg bkz selçuk bunu sikertir
