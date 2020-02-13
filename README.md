@@ -5,7 +5,6 @@
 
 <!--
 bkz corona virüsü adam mıdır
-bkz coronavirüsünün top şeklinde olması 
 bkz büyük iskenderin büyük top olması
 bkz murathan munganın babasının arap annesinin kürt olması o yüzden top olması
 bkz protonların ve nötronların eşcinsel olduğu gerçeği
