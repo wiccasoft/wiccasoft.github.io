@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz kapanoğlanın adamlarının oç larını hizaya sokması
 bkz kapanoğlanın adamlarınınherkesi madara etmesi
 bkz oç baruthane pilavcısı
 https://www.uludagsozluk.com/k/rte-yi-camasir-suyuna-batirmak/ bkz pasif gay olur
