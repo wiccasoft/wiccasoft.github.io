@@ -2,8 +2,9 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+http://www.magazinsortie.com/haberleri/Serdar+Ort%C3%A7a
 https://brucelee.com.ua/ marka olmuş isimler
-https://www.uludagsozluk.com/k/jackie-chan/ bkz askiyon filmlerinin unutulmaz yıldızı
+https://www.uludagsozluk.com/k/jackie-chan/ bkz aksiyon filmlerinin unutulmaz yıldızı
 https://www.uludagsozluk.com/e/42851791/ ahmet kural çocukluk resmi
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg 
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit/&w=bg aka garaolan
