@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=gd bkz recep top doğan
 https://kirmizicizgi.uludagsozluk.com bkz topkek
 https://kirmizicizgi.uludagsozluk.com bkz kırmızıtop 
 bkz en karizmatik siyasetçiler ay erkek ler diğğ miiiiii
