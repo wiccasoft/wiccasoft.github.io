@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-https://www.youtube.com/watch?v=ZP2YtHCXM6E green card hüseyin vs belediyeci simet
+https://www.youtube.com/watch?v=ZP2YtHCXM6E green card hüseyin vs belediyeci ekrem
 https://www.youtube.com/watch?v=bZliovcpusI aferim çocuklar devam edin
 bkz oç baruthane pilavcısının madara olduktan sonra pilavları tane tane yapması
 bkz oç baruthane pilavcısının hizaya gelmesi
