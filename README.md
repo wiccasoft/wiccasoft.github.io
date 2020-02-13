@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz izotopların top olduğu gerçeği
 bkz protonlarla nötronları eşcinsel olduğu gerçeği
 bkz protonların büyük top olduğu gerçeği
 bkz kuşum aydın vs atatop
