@@ -8,13 +8,9 @@ bkz belezoğlanın alper potujkla iyi bi ikili olduk açıklaması
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçüğ
 https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
-bkz fedönün siyasi ayağının 41 olduğu iddaları
-bkz recep tayyip toptandoğan vs atatop
-bkz ekşiciler teftişte beyler çeki düzen alın az 
-bkz ekşcileri utandırmamak için microsoftun hizaya girmesi
-https://www.youtube.com/watch?v=GHSs6xsipT8 bkz ekşcileri utandıran videolar
+https://www.youtube.com/watch?v=GHSs6xsipT8 bkz utandırmayın
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
-https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs baruthane pilav
+https://www.youtube.com/watch?v=-AdnJiuDGVU bkz imamoglu köfte vs tayyipoğlan sucuk
 https://www.youtube.com/watch?v=xoEP2X1bYKI bkz czn burakın çektiği video
 https://eksisozluk.com/baruthane-pilavcisinin-cektigi-tiktok-videosu--6364449?a=popular bkz ne gerenk var raad raad
 --->
