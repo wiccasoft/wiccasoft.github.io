@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+https://www.uludagsozluk.com/k/vahdettin/&w=bg bkz fenerbahçe düşmanı hain fedöcü
 https://eksisozluk.com/alexander-sorlothun-bir-mac-ceza-almasi--6364881?a=popular bkz kafa basmayan olaylar
 bkz selçuk inaan dan iyi bi bilecen len mq diyen geyseli
 bkz selçuk inanın yazılım firmama çökmesi
