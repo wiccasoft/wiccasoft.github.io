@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg bkz asalak
 https://www.youtube.com/watch?v=rJJBnxhTT_A
 https://www.youtube.com/watch?v=MT-kJHjjokM
 bkz rte nin metacortexe çöreklenmesi
