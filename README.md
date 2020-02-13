@@ -7,7 +7,7 @@ bkz belki de ezik bir hırtlar vadisi karakteriyimdir dostum raad ol az
 bkz belki de bıyıklarıma sıçtığınız mafya babası bi ülkücüyümdür ha dostum sakin ol az
 bkz belki de çok sevdiğin köylün olan bi türkücüyümdür yanık yanık çığıran he dostum olamaz mı yani
 blz belki de kimbilir yaşıtın bi top tepiciyimdir takla atan havalarda stadları çoşturan ha
-bkz belki de çok sevdiğiniz bir top tepiciyimdir kimbilir
+bkz belki de hiç kimseyimdir kimbilir sen kimsin lan dediğiniz
 bkz belki de süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
 https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
 bkz kapanoğlunun adamlarının baruthane pilavcısına dava açması
