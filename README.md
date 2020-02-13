@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/halo-day%C4%B1/ sevilen dizide uyuşturucu transferlerini kontrol eden karakter
 https://www.uludagsozluk.com/k/seyfo-day%C4%B1/ sevilen dizide mafya babasının dayısını oynayan akarakter
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/ iki karakterin versusu
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz gavatlar vadisinde bir karakter
