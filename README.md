@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz fedönün siyasi ayağı
 bkz fedöncü olduğu belli olan tipler
 bkz fedönün siyasi sağ kolu
 bkz faruk çamdalın fedönün siyasi ayağı kokuyo demesi
