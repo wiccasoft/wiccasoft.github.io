@@ -3,11 +3,11 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+bkz botoks reyizin ali koçun üstüne yürümesi
 bkz kadir şekerin babasının cinsini siktiğim cinsine çeker demesi
 bkz fenerin verilmeyen penaltısının sebebinin oç erdal kömürcü olması
 bkz prof dr abuzer kömürcü ve top oğlunun fenere küfretmesi
-bkz botoks reyizin ali koçun üstüne yürümesi
-bkz ünlü mafya babası sedat kapanoğlunun adamlarının fenerlileri tehdit etmesi
+bkz sedat kapanoğlunun adamlarının fenerlileri tehdit etmesi
 bkz türkiyenin en köklü ailesinin torununun gerizekalı olduğunu iyice anlamak
 bkz erdoğanın ali koça çökme nedeni fener ve atatop düşmanı olması
 bkz ali koçun ve imamaoğlanın taşşak oğlanı olmasını kabullenemeyen ergenler
