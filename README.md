@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz ricky martin de top kankağğğğ
+https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg
 https://www.youtube.com/watch?v=tVfyO37ARpQ kırmızı çizgi vs barbaros
 https://kirmizicizgi.uludagsozluk.com/  https://www.youtube.com/watch?v=KXnzNbuV84c 
 https://eksisozluk.com/soylenisi-guzel-sporcu-isimleri--6363902?a=popular 
