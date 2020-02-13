@@ -6,6 +6,7 @@
 
 <!--
 bkz kadri şekerin sikerttiği adamın babasının son sözleri
+https://twitter.com/arkabesliforum/status/979453504002625537
 bkz fenerbahçenin kemalizmin son kalesi olması ali koç şeklinde zühur eylemesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-erdo%C4%9Fan-olarak-zuhur-etmi%C5%9Ftir/&w=bg
 bkz rte nin metacortexe çöreklenmesi
