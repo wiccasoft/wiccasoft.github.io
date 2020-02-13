@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz tek derdi penisiyle  işe gitmek olan canlılar
+https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg
 https://www.uludagsozluk.com/k/ba%C5%9Fbakana-hakaret-edince-burnuna-yumruk-yiyen-mal/&w=bg ayak kokusu var sanki
 bkz tek derdi işe gitmek olan penisli canlı ıyhhhhh iğrenç ayol
 bkz kürtler çalışırken entry girmenin daha zevkli olması
