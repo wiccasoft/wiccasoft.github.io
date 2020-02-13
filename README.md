@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz gerdek gecesi pipsii kalkmayan damad
 bkz damadın kız istemede heyecan yapması
 bkz kızlar erkekleri şaşipliyor muyuzzzzzzzzz
 bkz kızlar erkekler işe gittiyse başlayalım mı
