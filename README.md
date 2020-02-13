@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz sevilen futbolcunun çemişgezekli olduğu öğrenmek
 bkz emre bebezoğlan nereli sorunsalı
 bkz murathan munganın babası arap annesi kürt onu biliyorum
 bkz ruhi çenet nereli sorunsalı  odamı yozgatlı bi aratın bakim
