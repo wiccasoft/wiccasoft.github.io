@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/ba%C5%9Fbakana-hakaret-edince-burnuna-yumruk-yiyen-mal/&w=bg ayak kokan platformlar
+https://www.uludagsozluk.com/k/hasan-ka%C3%A7an-%C4%B1n-ibb-den-187-bin-para-almas%C4%B1/ neler dönmüş ya
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtlerin eşcinsel olduğunu idda eden kıpkırmızı türk
 https://kirmizicizgi.uludagsozluk.com/ bkz büyük iskenderin büyük top olduğunu idda eden kırmızıtürk
 https://www.uludagsozluk.com/e/42848661/ bkz babası mardinli arap ve eşcinselmiş
