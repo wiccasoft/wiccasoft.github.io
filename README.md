@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 destansı gay savaşları
 bkz belezoğlanın kaleye ben geçim biraz da demesi
 bkz musleranın volkan demirelele kolasına maç yapalım mı demesi
 bkz fatih terimin ersun yanalı oyunas sürmesi
