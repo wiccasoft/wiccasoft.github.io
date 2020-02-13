@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz ruhi çenet izlerken yoğurt yemek
 bkz ruhi çenetin niye sakalları çıkmıyor sorunsalı
 bkz aşkım ruhi çenet daha yakışıklı ona abone oldun diyen kız
 bkz aşkım enes abi mi ruhi çenete mi abone olim diyen kız
