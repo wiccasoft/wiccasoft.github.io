@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+bkz ibrahim tatlıses in ses oktavını 9 a çıktığı söylentileri
 bkz orhan gencebayın da azıyla beste yapdığı söylentileri
 bkz sezen aksunun azıyla beste yapması çok ilginç gerçekten
 https://www.uludagsozluk.com/k/sezen-aksu-nun-bestelerini-a%C4%9Fz%C4%B1yla-yapmas%C4%B1/ bkz ilginç
