@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+bkz irem derice vs ali koç
 bkz ali koç adına üzülmek..
 bkz yazık la kimin çocuysa rahmi bey nasıl böyle bi hata yapmış
 bkz fuck me mother then make my momma fenerli nigga
