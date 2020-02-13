@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz başbakanın başı
 bkz damadın top olmadığı anlamanın yolları
 bkz damadı ölmesin diye dua eden kayınpeder
 bkz damadı köşeye sıkıştırıp erkekliğini test etmek
