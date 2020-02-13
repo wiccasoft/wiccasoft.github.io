@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ bkz boşver ayol sana eşsiz cinsel mi yok
 bkz erkek gibi erkek kalmadı ayol
 bkz ay oda mı eşcinsel ayol
@@ -20,7 +21,6 @@ https://kirmizicizgi.uludagsozluk.com/ bkz büyük eşcinselmişsin kankağ hela
 https://kirmizicizgi.uludagsozluk.com/ bkz hem eşcinsel olup hem delikanlı olmak
 https://kirmizicizgi.uludagsozluk.com/ bkz helal lan sanan delikanlı top çıktın
 https://kirmizicizgi.uludagsozluk.com/ bkz delikanlığ top
-https://www.youtube.com/watch?v=kVTNMsVnM-g bkz kırmızıçizginin delikanlığ top çıkması
 https://kirmizicizgi.uludagsozluk.com/ rick martin de top kankağğğğ
 https://kirmizicizgi.uludagsozluk.com/ bkz ricky martin de top kankağğğğ sana erkeğ kalmadı napacan şincuuuu
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskenderin-e%C5%9Fcinsel-olmas%C4%B1/&w=bg
