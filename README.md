@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+bkz annesinin siken adama baba diyen godoşlar
 bkz kızını erkeklere siktiren gavat
 bkz karısını kızını fedö evlerin yollayan gavat baba
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-k%C4%B1z%C4%B1n%C4%B1-yar%C4%B1-%C3%A7%C4%B1plak-d%C3%BC%C4%9F%C3%BCne-yollayan-baba/
