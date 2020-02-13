@@ -9,8 +9,6 @@ bkz izotoplar top mu sorunsalı
 bkz ne mutlu atatopum diyen
 bkz receğ tayyiğ topdoğanın paylaştığı atatop
 bkz atatopa top atan topun yakalanması
-https://www.uludagsozluk.com/k/atat%C3%BCrk-e-kartopu-atan-%C3%A7ocu%C4%9Fun-%C5%9Fikayet-edilmesi/
-https://www.uludagsozluk.com/k/k%C4%B1z-istemede-kahve-y%C3%BCz%C3%BCnden-%C3%B6len-damat/&w=bg
 bkz receğ tayyiğ doğanın ibrahşim tatlısekse vurdurduğu iddaları
 bkz atacücünün ismete vurdurdurğu söylentileri
 bkz büyük iskenderin top olduğu söylentileri
