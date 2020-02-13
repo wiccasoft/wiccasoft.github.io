@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz protonların ve nötronların eşcinsel olduğu gerçeği
 bkz dünyanın büyük top olması
 bkz dünyanın top şeklinde olması 
 bkz toplanınca daha güzel duran devlet adamları
