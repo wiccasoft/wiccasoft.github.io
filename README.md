@@ -26,36 +26,7 @@ bkz kapanoğlunun adamlarının baruthane pilavcısına dava açması
 bkz gerdekte 500 rekat namaz kıldıktan sonra götüme dildo sokup amuda kalkıp kamalcıların üstüne işediğim iddaları
 bkz şuan bir yerlerde bir kamalcının babasını öldürüyor olduğum iddaları
 bkz kamalcıların sürekli iftira atmasına alışmak
-https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi
-bkz beratın penis yüzüğünü azımla çıkartırım diyen kamalcı
-https://www.uludagsozluk.com/e/42850804/ olm bu iş de tutamaz gıyyy vıyy diye ses çıkartır len emq
-https://www.uludagsozluk.com/k/medeniyet-a%C3%A7maksa-bir-yerini/ desene damad daha medeni len amq
-https://www.uludagsozluk.com/e/42850804/ olm bu iş de tutamaz bi el atın len mq
-https://kalbikara.uludagsozluk.com/ bkz teyzesinin kilodunda babasının spermini bulan mümin damad
-https://www.uludagsozluk.com/k/allahu-ekber-wohoooo/&w=bg damat mı bu
-https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz yatak odalarına gireceğiz
-https://www.uludagsozluk.com/e/42850715/ bkz yatak odalarına gireceğiz
-https://www.uludagsozluk.com/e/42850715/ bkz çüküne sağlık paşamın
-bkz damadın sırtına vurarark  gerdeğe sokan fenerliler
-bkz damadın gerdek gecesi için kayınbabadan yanak alması
-https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/&w=bg beline kuvvet yiğidin
-bkz ali koçun ülkeyi fener çatısı altında yeniden kuvayi fenerde toplaması
-bkz ali koç ve fener düşmanlığından gözleri körelmiş çomarlar
-bkz ali koçun üçlü çektirip pontuslu fener düşmanı vatan hayınlarını sakinleştirmesi
-bkz ali koçun fatih terimin sicili belli demesi
-bkz botoks reyizin ali koçun üstüne yürümesi
-bkz kadir şekerin babasının cinsini siktiğim cinsine çeker demesi
-bkz fenerin verilmeyen penaltısının sebebinin oç erdal kömürcü olması
-bkz sedat kapanoğlunun adamlarının fenerlileri tehdit etmesi
-bkz türkiyenin en köklü ailesinin torununun gerizekalı olduğunu iyice anlamak
-bkz erdoğanın ali koça çökme nedeni fener ve atatop düşmanı olması
-bkz ali koçun ve imamaoğlanın taşşak oğlanı olmasını kabullenemeyen ergenler
-bkz babası ölmemiş erkeklerin oğlan çocuğu olduğu gerçeği
-bkz götümdeki boklar yesin geyseliler
-bkz anamı sike sike fenerli yaptı ali koç
-https://twitter.com/arkabesliforum/status/979453504002625537 allahın lütfu
-https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol 
-https://www.uludagsozluk.com/k/ali-ko%C3%A7-siyaset-yapmak-istiyorsa-parti-kursun/ --->
+https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi --->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
