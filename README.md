@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!--
-bkz ruhi çenet ermeni videosu tıklağağlım izleyeğlim hep beraber vakit  nakit
+bkz ruhi çenet ermeni videosu tıklağağlım izleyeğlim hep beraber vakit nakit
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı ırk uzmanı
 https://www.uludagsozluk.com/k/k%C3%BCrtler-neden-kokar/&w=bg
 bkz düşün ki o da bunu izliyor
