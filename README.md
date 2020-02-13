@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz beratın google a çöreklenmesi
 bkz türklerin yoğurt dışında dünyaya katkısı
 nkz kemalistler neden 100 yılda bir motor üretemediler sorunsalı
 bkz kemalistler niye apple a rakip olacak bi sistem yazmıyorlar sorunsalı
