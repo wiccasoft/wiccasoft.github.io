@@ -4,7 +4,7 @@
 
 <!-- 
 bkz ali koç imamoğlu
-bkz babası ölmemiş erkeklerin oğlan çococğu olduğu gerçeği
+bkz babası ölmemiş erkeklerin oğlan çocuğu olduğu gerçeği
 bkz götümdeki boklar yesin geyseliler
 bkz anamı sike sike fenerli yaptı ali koç
 https://twitter.com/arkabesliforum/status/979453504002625537 allahın lütfu
