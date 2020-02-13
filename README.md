@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
+bkz ali koçun ananmı sikse orospuluk anamdadır
 bkz ali koçun baba parası yiyenlere tepki olarak doğması
 https://twitter.com/arkabesliforum/status/979453504002625537 allahın lütfu
 https://www.uludagsozluk.com/k/h%C3%BClag%C3%BC-han/&w=bg babası moğol 
