@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!-- 
+bkz ciddiyeti severim disipline hayranım
 https://www.youtube.com/watch?v=ZrK7LyLEgeI aferim çocuklar işte bu 
 bkz kapanoğlunun adamlarının baruthanenin adamlarını madara etmesi
 https://www.youtube.com/watch?v=B1pDK89darM&list=PLJ9O9WPqDDMnBAY7lrhHiCyzQgxzuybjR&index=100
