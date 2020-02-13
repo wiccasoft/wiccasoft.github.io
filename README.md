@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz gavat
 https://www.uludagsozluk.com/k/trabzonlu-rumlar/&w=bg bkz godoş ve gavat karşımı bir ırk
 https://www.uludagsozluk.com/k/e%C5%9Finin-instagram-kullanmas%C4%B1na-izin-veren-gavat/ bkz godoş
 https://www.uludagsozluk.com/k/hekimo%C4%9Flu-dizisi/&w=bg mucize doktor dizisiyle sevenleri ekran kitleyen dizi
