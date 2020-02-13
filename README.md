@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz yatak odalarına gireceğiz
 https://www.uludagsozluk.com/k/allahu-ekber-wohoooo/&w=bg damat mı bu
 https://www.uludagsozluk.com/k/gerdek-gecesi-200-rekat-namaz-k%C4%B1lan-damat/ bkz yatak odalarına gireceğiz
 https://www.uludagsozluk.com/e/42850715/ bkz yatak odalarına gireceğiz
