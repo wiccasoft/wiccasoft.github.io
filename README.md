@@ -3,7 +3,7 @@
 
 <!-- 
 https://kirmizicizgi.uludagsozluk.com arkadan vurdun mu önden sallanacak aga
-https://kirmizicizgi.uludagsozluk.com kankağ atacücü ismete çaktırıyomuş diyollaa
+https://kirmizicizgi.uludagsozluk.com kankağ atacücü ismete çaktırıyomuş diyollaaaa
 https://kirmizicizgi.uludagsozluk.com kankağ sezar da eşcinsel miydi senceğ kankağğğ
 https://kirmizicizgi.uludagsozluk.com bkz kuşum aydın
 https://kirmizicizgi.uludagsozluk.com bkz murat övünç sen misin
