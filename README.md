@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz ülkenin kırmız çizgiye ihtiyacı var
+bkz kapanoğlunun adamlarının top erdalın babasını sıkıştırması
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz  top erdalın babası
 bkz yütüpçü vs üncücü
