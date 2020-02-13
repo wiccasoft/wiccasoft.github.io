@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/sezen-aksu-nun-bestelerini-a%C4%9Fz%C4%B1yla-yapmas%C4%B1/ bkz minnak serçe
 https://www.sozcu.com.tr/hayatim/magazin-haberleri/serdar-ortac-yeni-aski-hakkinda-konustu/ marka değeri olan isim
 http://www.magazinsortie.com/haberleri/Serdar+Ort%C3%A7a
 https://brucelee.com.ua/ marka olmuş isimler
