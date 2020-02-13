@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
+https://www.uludagsozluk.com/e/42850804/ olm bu iş de tutamaz bi el atın len mq
 https://www.uludagsozluk.com/k/medeniyet-a%C3%A7maksa-bir-yerini/ desene damad daha medeni len amq
 https://www.uludagsozluk.com/e/42850804/ olm bu iş de tutamaz bi el atın len mq
 bkz gerdk gecesi damadın 200 rekat kılmaya gidiyom önce siz başlayın demesi
