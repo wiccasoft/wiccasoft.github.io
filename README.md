@@ -4,7 +4,7 @@
 <!--
 bkz fenerlilerin geysaraylılara döşeyeceği boru
 bkz fatih terim efso soyunma odası konuşması
-bkz selçuk inanın terli terli soyunma odasında seksi hareketler yapması
+bkz selçuk inanın terli terli soyunma odasında seksi seksi hareketler yapması
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1-olmak/&w=gd 
 bkz halısahada brolarla terli terli maç yapma keyfi
 https://www.uludagsozluk.com/e/42849851/ fener ananızın amına soksun amk larım
