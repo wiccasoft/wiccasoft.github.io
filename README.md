@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/akp-li-belediyenin-20-y%C4%B1ld%C4%B1r-tuvalet-yapamamas%C4%B1/ nerey sıççaz len 
 https://www.uludagsozluk.com/k/tuncer-ustael/&w=bg ananın amına sokam oç
 https://www.uludagsozluk.com/k/suriyeliler/&w=bg anasının amk o sıçmıkları
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-i%C5%9F-bankas%C4%B1na-%C3%A7%C3%B6kme-nedeni/ 
