@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz deep webte benimle kavga eden ergenler
 bkz minik serçenin bestelerini götüyle yapması
 bkz ruhi çenet testeredeki adam benzerliği
 bkz deep webte olmayan firmama ve adamlarıma küfreden yaratıkların asıl amacı
