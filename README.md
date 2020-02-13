@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz oç köfteci yusuf
 bkz yine geldi tipine sıçtığım 
 bkz murathan munganın babasının mardin arabı annesinin boşnak olması 
 bkz akitlerin fenerbahçeyi küme düşermee operasyonu
