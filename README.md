@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com bkz murat övünç sen misin
 https://kirmizicizgi.uludagsozluk.com kankağ senin dışında herkes eşcinsel kankağğ
 https://kirmizicizgi.uludagsozluk.com kürtlerin eşcinsel olduğunu idda eden bi eşcinsel
 https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan faşist bi ibne
