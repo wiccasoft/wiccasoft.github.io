@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)](https://www.youtube.com/watch?v=6YUw7_q33Zs )
 
 <!--
+https://www.uludagsozluk.com/k/ba%C5%9Fbakana-hakaret-edince-burnuna-yumruk-yiyen-mal/&w=bg ayak kokusu var sanki
 bkz tek derdi işe gitmek olan penisli canlı ıyhhhhh iğrenç ayol
 bkz kürtler çalışırken entry girmenin daha zevkli olması
 bkz tek derdi penisini işe götürmek olan canlı
