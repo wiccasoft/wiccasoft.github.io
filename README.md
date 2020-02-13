@@ -22,10 +22,6 @@ bkz belki de fedönün siyasi ayağıyımdır fener düşmanı pontus rumuyumdur
 bkz belki de nefret ettiğiniz badem bıyıklı bir dinciyimdir olamaz mı olabilir
 bkz belki de süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
 https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
-bkz kapanoğlunun adamlarının baruthane pilavcısına dava açması
-bkz gerdekte 500 rekat namaz kıldıktan sonra götüme dildo sokup amuda kalkıp kamalcıların üstüne işediğim iddaları
-bkz şuan bir yerlerde bir kamalcının babasını öldürüyor olduğum iddaları
-bkz kamalcıların sürekli iftira atmasına alışmak
 https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi --->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
