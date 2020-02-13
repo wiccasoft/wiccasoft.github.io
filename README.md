@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz selçuk inanın götünü parmaklayıp koşturmak
 bkz belezoğlan koşmuyo len amq
 bkz selçuk inanın kaç para len amq ofsaydı o pozisyon brooooo
 bkz palu ailesi vs ulucuların ailesi
