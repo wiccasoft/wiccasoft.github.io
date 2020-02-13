@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz dede parası yiyen fanatik fenerlinin iyice taşşak oğlanı olması
 bkz belezoğlanın antrenmanda ali koçoğlanın  götünü avuçlaması
 bkz ali koçun belezoğlanla iyi bi ikili olduk iyi paslaşıyoruz fener oluyoruz açıklaması
 bkz emre belezoğlan nın ali koçu ilk 11 e alması
