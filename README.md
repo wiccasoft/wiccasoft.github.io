@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.uludagsozluk.com/k/a-haber-in-ka%C5%9F%C4%B1nmas%C4%B1/
 bkz kadri şekerin sikerttiği adamın babasının son sözleri
 https://twitter.com/arkabesliforum/status/979453504002625537
 bkz fenerbahçenin kemalizmin son kalesi olması ali koç şeklinde zühur eylemesi
