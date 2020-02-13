@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz aşkım ruhi çenet daha yakışıklı ona abone oldun diyen kız
 bkz aşkım enes abi mi ruhi çenete mi abone olim diyen kız
 bkz facebook taki türkler çıksa facebookun batacağı gerçeği
 bkz enes abinin kanye west ten 4 kat fazla abonesi olamsı
