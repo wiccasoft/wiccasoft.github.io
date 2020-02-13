@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!-- 
-bkz selçuk inana dan iyi bi bilecen len mq diyen geyseli
+bkz selçuk inaan dan iyi bi bilecen len mq diyen geyseli
 bkz selçuk inanın yazılım firmama çökmesi
 https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası-->
 
