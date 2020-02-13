@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+https://www.youtube.com/watch?v=4RpMzsA1VOw
 bkz ciddiyeti severim disipline hayranım
 bkz metacortex in çektiği tik yok vidyosu
 --->
