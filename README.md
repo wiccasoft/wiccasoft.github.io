@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
+bkz türklerin internetin virüsleri olduğu gerçeği
 bkz türklerle ilgili tek  bir şey paylaşmadığım halde her boka atlamaları
 bkz götünde don olmayanların özgüveni
 https://www.uludagsozluk.com/k/i%C5%9F-bankas%C4%B1-hisseleri-diyanet-e-aktar%C4%B1ls%C4%B1n/
