@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz bir erkeğe ne kadar vakit ayırırsın sorunsalı
 bkz eşcinsel olmayan erkeğ vağ mı sorunsalı
 bkz receğ tayyiğden doğan vs receğ rizeden doğan
 bkz receğ tayyiğ doğan vs receğ tayyiğ doğan 
