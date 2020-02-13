@@ -3,17 +3,10 @@
 
 <!-- 
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
-bkz çomarların imamoğlucu olması
-bkz kendi partisinden olmayana çomar diyen çomar
 https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
-bkz imamaoğlanın oç çomar  istanbulluları adam etmesi
-bkz ali koçun gs li çomarları adam etmeye başlaması
-bkz ali koçun belezoğlanın dövüp sahaya yollaması
 bkz belezoğlanın alper potujkla iyi bi ikili olduk açıklaması
-bkz imamoğlan vs çomarlar
 https://www.youtube.com/watch?v=NiabnQBRDfA bkz az laf çok iş delihuanlı
 https://www.youtube.com/watch?v=gnIFwhjpH3s lan çöpçüğ
-bkz ibb imamaoğlanı gördükçe havalayan çomarlar
 https://www.uludagsozluk.com/k/ibb-temizlendik%C3%A7e-kuduran-%C3%A7omarlar/&w=bg
 bkz fedönün siyasi ayağının 41 olduğu iddaları
 bkz recep tayyip toptandoğan vs atatop
