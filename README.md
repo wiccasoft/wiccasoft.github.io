@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz selçuk inana sümüğü vs ahmet çakar tükürüğü
+bkz selçuk inan sümüğü vs ahmet çakar tükürüğü
 https://www.uludagsozluk.com/k/volkan-konak-%C4%B1n-vasiyeti/ mezarına sıçam senin pontus çocuğu
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hayatta-olsayd%C4%B1/&w=bg fener düşmanlarının anasını sikerterdi
 https://www.uludagsozluk.com/k/palu-ailesi/&w=bg yedi ceddinize sıçam len amq
