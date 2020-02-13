@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
+<!-- https://www.uludagsozluk.com/k/bakire-olmayan-k%C4%B1zla-evlenebilen-erkek/&w=bg bkz gavat -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
