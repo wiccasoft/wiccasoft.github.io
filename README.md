@@ -2,13 +2,10 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
-https://kirmizicizgi.uludagsozluk.com amınoğlu o götün bi inaşaata kaçmasın şişirirler o beyaz götünü
 https://kirmizicizgi.uludagsozluk.com kürtler tarafından gangbang hayali olan bi ibne
 https://kirmizicizgi.uludagsozluk.com kankağ kıllı bi kürt seni sikse naparsın
-https://kirmizicizgi.uludagsozluk.com kankağ erkekler olmasa kime entry girerdin
-https://kirmizicizgi.uludagsozluk.com kankağ eş cinselliğin ilk ne zaman farkettin
 https://kirmizicizgi.uludagsozluk.com nur topu gibi bi eşcinsel maşşalah
-https://kirmizicizgi.uludagsozluk.com kankağ biy eykeğin ilk neyesine bakaysın 
+https://kirmizicizgi.uludagsozluk.com kankağ biy kürt eykeğin ilk neyesine bakaysın 
 https://kirmizicizgi.uludagsozluk.com kankağ erkekler eşcinsel miğ kankağğ
 https://kirmizicizgi.uludagsozluk.com kankağ cemiyet hayatındaki eşcinselleri saysan kankağğğ
   https://www.youtube.com/watch?v=KXnzNbuV84c  barbaros ta eşcinsel mi senceğ kankağğ
