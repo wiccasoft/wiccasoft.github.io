@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=rJJBnxhTT_A )
 
 <!--
-bkz gerdekte namaz kılıp götüme dildo sokup amuda kalkıp kamalcıaların üstüne işediğim iddaları
+bkz gerdekte 500 rekat namaz kıldıktan sonra götüme dildo sokup amuda kalkıp kamalcıaların üstüne işediğim iddaları
 bkz şuan bir yerlerde bir kamalcının babasını öldürüyor olduğum iddaları
 bkz kamalcıların sürekli iftira atmasına alışmak
 https://www.uludagsozluk.com/k/aktroll-taktikleri/ bkz kamalcıların güldürmesi
