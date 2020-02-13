@@ -2,56 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz fenerliyle maç izlenmez len emq bi offsayt bilmiyolar lan
-bkz hamza hamzaoğlanın futbolu katletmesi amk bro yaaaaaa
-https://www.uludagsozluk.com/k/sel%C3%A7uk-inan/&w=bg
-https://www.uludagsozluk.com/k/hasan-%C5%9Fa%C5%9F/&w=bg bu da taŞŞA KONUSU OLİY
-bkz ahmet çakarın hasan şaşa verdiği ayar
-bkz rte nin tc bestepe yi tc rte yapması
-bkz rte nin facebook hesabını kapaması
-bkz türklere sosyal medya kullanmayı öğretmek
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz oç türklerin beni rte sanmaları adsasdasdasdasdasd
-bkz türklerin internetin virüsleri olduğu gerçeği
-bkz türklerle ilgili tek  bir şey paylaşmadığım halde her boka atlamaları
-bkz götünde don olmayanların özgüveni
-https://www.uludagsozluk.com/k/i%C5%9F-bankas%C4%B1-hisseleri-diyanet-e-aktar%C4%B1ls%C4%B1n/
-bkz şirinler vs kapanoğlunun adamları vs zallın saldığı itler
-bkz kapanoğlunun ve dürümcünün adamlarının çok sevilmesinin nedenleri
-bkz dürümcü vs baruthane pilavcısı
-bkz kapanoğlunun avukatının oç baruthane pilavcısına dava açması
-bkz kapanoğlunun adamlarının top erdalın babasını sıkıştırması
-https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/&w=gd bkz  top erdalın babası
-bkz yütüpçü vs üncücü
-bkz ruhi çenetin norm endere yakışıklı diyen bana demesin demesi
-bkz norm enderin ok yakışıklı olduğu iddaları
-bkz süleymanın keltoç baban koç diyenlere hunharca gülmesi
-bkz norm ender mekanın sahibi keltoç baban koç
-bkz oç köfteci yusuf
-bkz yine geldi tipine sıçtığım 
-bkz murathan munganın babasının mardin arabı annesinin boşnak olması 
-bkz akitlerin fenerbahçeyi küme düşermee operasyonu
-https://www.uludagsozluk.com/k/ak-parti-vs-mo%C4%9Fol-istilas%C4%B1/ bkz fenere karşı operasyon
-https://www.youtube.com/watch?v=NiabnQBRDfA az laf çoh iş deihuanlı
-bkz kapanoğlanın adamlarının oç larını hizaya sokması
-bkz kapanoğlanın adamlarınınherkesi madara etmesi
-bkz oç baruthane pilavcısı
-https://www.uludagsozluk.com/k/rte-yi-camasir-suyuna-batirmak/ bkz pasif gay olur
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz imamın oğlu
-https://www.uludagsozluk.com/k/pasif-gay/&w=bg bk ibne oğlan
-https://www.uludagsozluk.com/k/1998-ve-%C3%BCzeri-nesil/ bkz oç ları
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
-https://www.uludagsozluk.com/k/ermeni-pi%C3%A7i/&w=bg bkz oç ları
-https://www.uludagsozluk.com/k/%C3%BCmmetin-d%C3%BC%C4%9F%C3%BCnden-sonra-aft%C4%B1rpartiye-gitmesi/ buralar karışır beyler
-bkz deep türkish webte herkese küfreden yaratıkların asıl amacı
-bkz oç baruthane pilavcısı vs top erdal 
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/ bkz top erdalın babası
-bkz ruhi çenet in çenesinin marka yapması
-bkz ciddiyeti severim disipline hayranım
 bkz metacortex in çektiği tik yok vidyosu
-bkz abuzer kömürcü nün kömürcü eroinlerini lisanslaması
-https://www.uludagsozluk.com/k/prof-dr-abuzer-k%C3%B6m%C3%BCrc%C3%BC/
 --->
 
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)](https://www.youtube.com/watch?v=AFx8ElwfMBQ )
