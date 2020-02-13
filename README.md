@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz recep tayyip doğan beş tepede midir sorunsalı arasak mı kızlar
 bkz recep tayyip  doğan ne yapıyodur acaba sorunsalı 
 bkz devlet adamı deyince gay vicudumun titremesi
 bkz en başarılı ve karizmatik başbakan ayy fena oldum atatop mu yoksa
