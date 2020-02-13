@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=ktmzyChfPmk  zuahahahaha
-https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni
+https://kirmizicizgi.uludagsozluk.com/ bkz kendini türk sanan eşcinsel ermeni kafatasçı oç
 https://kirmizicizgi.uludagsozluk.com/ bkz kürt düşmanı eşcinsel  -->
 
 [![Image](shadow/Screenshot_2020-02-12_09-08-26.png)]( https://www.youtube.com/watch?v=cRvwcoKOc3s )
