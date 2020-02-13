@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz yütüpür vs ekici vs üncücü
+bkz yütüpçü vs üncücü
 bkz ruhi çenetin norm endere yakışıklı diyen bana demesin demesi
 bkz norm enderin ok yakışıklı olduğu iddaları
 bkz süleymanın keltoç baban koç diyenlere hunharca gülmesi
