@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi )
 
 <!--
+blz belki de kimbilir yaşıtın bi top tepiciyimdir takla atan havarlarda stadları çoşturan ha
 bkz belki de çok sevdiğiniz bir top tepiciyimdir kimbilir
 bkz belki de süleyman soyluyumdur keltoç baban koç diyosunuz diye gülüyorumdur
 https://www.cnnturk.com/turkiye/son-dakika-katliami-oven-eksi-sozluk-yazari-gozaltina-alindi
