@@ -5,6 +5,7 @@
 
 <!--
 bkz üç dört isimli erkek karizması
+bkz cemil ipekçinin kırmızı çizgilerim var demesi
 bkz cemiyetin ağır toplarından olmanın verdiği raadlık
 bkz mustafa kamal ata top derken gay vicudumun titremesi
 bkz murathan munganın babasının arap annesinin kürt olması o yüzden gay olması
