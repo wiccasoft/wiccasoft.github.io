@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://www.youtube.com/watch?v=EU4ClC3J_yY )
 
 <!-- 
+bkz ruhi çenet videolarının bağımlılık yapması
 bkz aşkım enes abi mi ruhi çenet abi mi diyen kız
 bkz enes abinin 12 milyon aboneye ulaşması
 aşkım ben mi güzelim ariana grande mi diyen kız
