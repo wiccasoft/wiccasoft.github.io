@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_10-06-28.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz protonların büyük top olduğu gerçeği
 bkz kuşum aydın vs atatop
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-en-ayd%C4%B1n-insanlar%C4%B1n%C4%B1n-oldu%C4%9Fu-%C5%9Fehir/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7elebi-alper/&w=bg bkz top
