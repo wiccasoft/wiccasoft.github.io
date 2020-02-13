@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 <!--
-bkz murathan munganın babasının mardin arabı olması
+bkz murathan munganın babasının mardin arabı annesinin boşnak olması
 bkz akitlerin fenerbahçeyi küme düşermee operasyonu
 https://www.uludagsozluk.com/k/ak-parti-vs-mo%C4%9Fol-istilas%C4%B1/ bkz fenere karşı operasyon
 https://www.youtube.com/watch?v=NiabnQBRDfA az laf çoh iş deihuanlı
