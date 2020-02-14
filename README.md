@@ -5,6 +5,7 @@
 bkz cevab veremedi
 bkz kılıçdaroğlana cevab veremeyen dünya lideri
 https://www.uludagsozluk.com/k/t%C4%B1bb%C4%B1-sonuncu-bitiren-doktor/
+https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1-izleyip-s%C3%B6zc%C3%BC-okuyan-insan/&w=bg
 https://www.uludagsozluk.com/k/alkolik-olmakla-%C3%B6v%C3%BCnen-tip/&w=bg bkz aloklik oldum nickli yazar
 https://www.uludagsozluk.com/k/%C5%9Feyhin-badeleyip-iyile%C5%9Ftirdi%C4%9Fi-m%C3%BCrit/&w=bg
 https://www.uludagsozluk.com/k/matematikte-d%C3%BCnya-birincisi-olan-t%C3%BCrk-%C3%B6%C4%9Frenci/ türk önde türk ileri
