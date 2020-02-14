@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+https://www.pinterest.com/pin/307652218298278819/ zuahhahah
 bkz mezdeke grubunun dağılması
 bkz ene habbe your köye bağlı el amte değile
 bkz ben sizin köye bağlı değilimin türkçesi
