@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
+bkz türklerin yardım edin diye inlemesini beklemek
 https://www.uludagsozluk.com/k/tc-iyesta-sert/ 
 https://www.uludagsozluk.com/k/iyesta-i%C3%A7in-14-%C5%9Fubat-hediyesi/
 https://www.uludagsozluk.com/k/amerika-vs-rusya/&w=bg lol
