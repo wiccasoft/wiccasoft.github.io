@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
-bkz türklerin yardım edin diye inlemesini beklemek
+bkz cevab veremedi
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-ndan-erdo%C4%9Fan-a-7-fet%C3%B6-sorusu/
 https://www.uludagsozluk.com/k/de%C4%9Ferli-dostum-putin-vard%C4%B1-ne-oldu-onaa/&w=bg
 https://www.uludagsozluk.com/k/abd-israil-t%C3%BCrkiye-nin-esada-kar%C5%9F%C4%B1-cihad-etmesi/&w=gd dont make me laugh
 https://www.uludagsozluk.com/k/14-%C5%9Fubat-2020-y%C4%B1lmaz-%C3%B6zdil-in-aktroll-taklidi/&w=gd 
