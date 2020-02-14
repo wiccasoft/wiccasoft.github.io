@@ -3,6 +3,7 @@
 
 <!-- 
 bkz cevab veremedi
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-%C3%A7ok-kald%C4%B1r%C4%B1lan-lideri/ 
 https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-ndan-erdo%C4%9Fan-a-7-fet%C3%B6-sorusu/
 https://www.uludagsozluk.com/k/de%C4%9Ferli-dostum-putin-vard%C4%B1-ne-oldu-onaa/&w=bg
 https://www.uludagsozluk.com/k/abd-israil-t%C3%BCrkiye-nin-esada-kar%C5%9F%C4%B1-cihad-etmesi/&w=gd dont make me laugh
