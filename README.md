@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/ elleri gözleri kınalı bebek
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlanmış kişi
 bkz vasıfsız ergenlerin türklük kasması
 bkz kamalcıların etnik kimlik takıntısı
