@@ -4,7 +4,7 @@
 <!-- 
 ene habbe le hebbeke le uzun adam yanına gideye
 https://www.uludagsozluk.com/k/bombalar-ya%C4%9Fard%C4%B1-her-gece-biz-durmadan-sevi%C5%9Firdik/ 
-https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=gd yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
+yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg etkinlik derken
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=bg 25 milyon para mı lan it
