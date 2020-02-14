@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
+<!-- https://www.uludagsozluk.com/k/kedinin-ci%C4%9Fere-bakt%C4%B1%C4%9F%C4%B1-gibi-i%C5%9F-bankas%C4%B1na-bakmak/ -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
