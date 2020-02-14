@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
+<!-- https://www.uludagsozluk.com/k/ekremin-yapt%C4%B1%C4%9F%C4%B1-tuvaletlere-hizmet-diyen-tip/ güldürür eved -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
