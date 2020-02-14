@@ -3,6 +3,8 @@
 
 <!-- 
 bkz türklerin yardım edin diye inlemesini beklemek
+https://www.uludagsozluk.com/k/de%C4%9Ferli-dostum-putin-vard%C4%B1-ne-oldu-onaa/&w=bg
+https://www.uludagsozluk.com/k/abd-israil-t%C3%BCrkiye-nin-esada-kar%C5%9F%C4%B1-cihad-etmesi/&w=gd dont make me laugh
 https://www.uludagsozluk.com/k/14-%C5%9Fubat-2020-y%C4%B1lmaz-%C3%B6zdil-in-aktroll-taklidi/&w=gd 
 https://www.uludagsozluk.com/k/halk%C4%B1n%C4%B1-kimyasal-silahla-vurup-koltukta-kalmak/
 https://www.uludagsozluk.com/k/tc-iyesta-sert/ 
