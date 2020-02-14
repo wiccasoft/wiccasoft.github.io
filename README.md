@@ -3,6 +3,8 @@
 
 <!-- 
 bkz mezdeke grubunun dağılması
+bkz ene habbe your köye bağlı el amte değile
+bkz ben sizin köye bağlı değilimin türkçesi
 bkz üstad kadir mısıroğlunu kaybediğimizi 1. yılında saygı duruşuna davet ediyorum....
 https://www.uludagsozluk.com/k/%C3%BCstat-kadir-popcorn/
 https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/ elleri gözleri kınalı bebek
