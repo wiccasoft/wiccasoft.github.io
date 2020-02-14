@@ -4,6 +4,7 @@
 <!-- 
 bkz cevab veremedi
 bkz madem allah yok niye inkar ediyosunuz
+https://www.uludagsozluk.com/k/gine-babununa-xiaomi-mi-9t-hediye-ediyoruz/
 https://www.uludagsozluk.com/k/t%C4%B1bb%C4%B1-sonuncu-bitiren-doktor/
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1-izleyip-s%C3%B6zc%C3%BC-okuyan-insan/&w=bg
 https://www.uludagsozluk.com/k/alkolik-olmakla-%C3%B6v%C3%BCnen-tip/&w=bg bkz aloklik oldum nickli yazar
