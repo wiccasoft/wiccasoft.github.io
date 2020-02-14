@@ -1,7 +1,10 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
-<!-- https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg ay çok ta şeyimdeydiniz ayol-->
+<!-- 
+https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg ay çok ta şeyimdeydiniz ayol
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg sigarayı bırakyın ayol zararlı
+-->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
