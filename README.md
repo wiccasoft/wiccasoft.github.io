@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz ene habbe  köye bağlı el amte değile
 bkz ben sizin köye bağlı değilimin ingilizcesi
 https://www.uludagsozluk.com/k/%C3%BCstat-kadir-popcorn/
 https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/ elleri gözleri kınalı bebek
