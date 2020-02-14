@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/e/42854749/  zuahahahah 
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz ay götüm
 https://www.uludagsozluk.com/k/akp-gidince-akp-li-olmakla-su%C3%A7lanacak-olmam%C4%B1z/
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-i%C5%9F-bankas%C4%B1na-%C3%A7%C3%B6kme-nedeni/&w=bg
+https://www.uludagsozluk.com/k/kedinin-ci%C4%9Fere-bakt%C4%B1%C4%9F%C4%B1-gibi-i%C5%9F-bankas%C4%B1na-bakmak/&w=gd
 -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
