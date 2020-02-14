@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/beyaz-tenli-ela-g%C3%B6zl%C3%BC-erkek/&w=bg yalan söy le me göz le rin ele çinki
 bkz mezdeke grubunun dağılması
 bkz ene habbe your köye bağlı el amte değile
 bkz ben sizin köye bağlı değilimin türkçesi
