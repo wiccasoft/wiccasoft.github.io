@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42854749/  zuahahahah 
 https://www.uludagsozluk.com/k/tc-iyesta-sert/ zuahhahah
+https://www.uludagsozluk.com/k/wuhan-dan-kurtuldum-ilk-i%C5%9Fim-an%C4%B1tkabire-gitmek/ lol
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz ay götüm
 https://www.uludagsozluk.com/k/akp-gidince-akp-li-olmakla-su%C3%A7lanacak-olmam%C4%B1z/
 https://www.uludagsozluk.com/k/kedinin-ci%C4%9Fere-bakt%C4%B1%C4%9F%C4%B1-gibi-i%C5%9F-bankas%C4%B1na-bakmak/&w=gd
