@@ -5,6 +5,7 @@
 ene habbe le hebbeke lö uzun adam
 https://www.uludagsozluk.com/k/bombalar-ya%C4%9Fard%C4%B1-her-gece-biz-durmadan-sevi%C5%9Firdik/ 
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
+https://www.uludagsozluk.com/k/seks-esnas%C4%B1nda-bay%C4%B1lan-k%C4%B1z/&w=bg bk siktim bayıldı
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 https://www.uludagsozluk.com/k/hasan-ka%C3%A7an/&w=bg etkinlik derken
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-benden-25-milyon-r%C3%BC%C5%9Fvet-istedi/&w=bg 25 milyon para mı lan it
