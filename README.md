@@ -3,7 +3,7 @@
 
 <!-- 
 bkz cevab veremedi
-bkz madem allah yok niye inkar ediyosunuz
+bkz madem kılıçtaroğlu kukla niye inkar ediyosunuz
 https://www.uludagsozluk.com/k/gine-babununa-xiaomi-mi-9t-hediye-ediyoruz/
 https://www.uludagsozluk.com/k/t%C4%B1bb%C4%B1-sonuncu-bitiren-doktor/
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1-izleyip-s%C3%B6zc%C3%BC-okuyan-insan/&w=bg
