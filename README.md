@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-ene habbe le hebbeke le uzun adam yanına gideye
+ene habbe le hebbeke lö uzun adam
 https://www.uludagsozluk.com/k/bombalar-ya%C4%9Fard%C4%B1-her-gece-biz-durmadan-sevi%C5%9Firdik/ 
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
