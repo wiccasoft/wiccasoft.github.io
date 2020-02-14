@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlanmış kişi
 bkz vasıfsız ergenlerin türklük kasması
 bkz kamalcıların etnik kimlik takıntısı
 bkz türk arap savaşları
