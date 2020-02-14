@@ -4,7 +4,9 @@
 <!-- 
 bkz türk olmayıp ortada gezen garip yaratıklar
 https://www.uludagsozluk.com/k/vatan-haini-k%C3%BCrt-vs-vatan-sever-k%C3%BCrt/ bkz kürt lütfen
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ kamalcıların kadir bilmeleri güzel-->
+https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ kamalcıların kadir bilmeleri güzel
+https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg güzel bakmayan 
+-->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
