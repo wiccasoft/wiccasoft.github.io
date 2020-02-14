@@ -4,6 +4,7 @@
 <!-- 
 bkz türk olmayıp ortada gezen garip yaratıklar
 https://www.uludagsozluk.com/k/vatan-haini-k%C3%BCrt-vs-vatan-sever-k%C3%BCrt/ bkz kürt lütfen
+https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-mal-varl%C4%B1%C4%9F%C4%B1/ bkz ankapark
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ kamalcıların kadir bilmeleri güzel
 https://www.uludagsozluk.com/k/en-ba%C5%9Far%C4%B1s%C4%B1z-ba%C5%9Fbakan/&w=bg güzel bakmayan 
 -->
