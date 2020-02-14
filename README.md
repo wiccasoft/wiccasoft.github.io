@@ -2,17 +2,10 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-bkz ene habbe your köye bağlı el amte değile
-bkz ben sizin köye bağlı değilimin ingilizcesi
+bkz üstad kadir mısıroğlunu kaybediğimizi 1. yılında saygı duruşuna davet ediyorum....
 https://www.uludagsozluk.com/k/%C3%BCstat-kadir-popcorn/
 https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/ elleri gözleri kınalı bebek
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlanmış kişi
-bkz vasıfsız ergenlerin türklük kasması
-bkz kamalcıların etnik kimlik takıntısı
-bkz türk arap savaşları
-bkz aşkım cucukold ne diyen aptal türk kızı
-bkz tokatlıların arap kürt kırması olduğu gerçeği
-bkz konyalıların ermeni kürdü olduğu gerçeği
 https://www.uludagsozluk.com/k/vatan-haini-k%C3%BCrt-vs-vatan-sever-k%C3%BCrt/ bkz kürt lütfen
 https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-mal-varl%C4%B1%C4%9F%C4%B1/ bkz ankapark
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu/ kamalcıların kadir bilmeleri güzel
