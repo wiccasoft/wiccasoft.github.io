@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz vasıfsız ergenlerin türklük kasması
+bkz kamalcıların etnik kimlik takıntısı
 bkz türk arap savaşları
 bkz aşkım cucukold ne diyen aptal türk kızı
 bkz tokatlıların arap kürt kırması olduğu gerçeği
