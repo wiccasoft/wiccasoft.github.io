@@ -1,32 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
-<!-- 
-bkz cevab veremedi
-bkz madem kılıçtaroğlu kukla niye inkar ediyosunuz
-https://www.uludagsozluk.com/k/gine-babununa-xiaomi-mi-9t-hediye-ediyoruz/
-https://www.uludagsozluk.com/k/t%C4%B1bb%C4%B1-sonuncu-bitiren-doktor/
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1-izleyip-s%C3%B6zc%C3%BC-okuyan-insan/&w=bg
-https://www.uludagsozluk.com/k/alkolik-olmakla-%C3%B6v%C3%BCnen-tip/&w=bg bkz aloklik oldum nickli yazar
-https://www.uludagsozluk.com/k/%C5%9Feyhin-badeleyip-iyile%C5%9Ftirdi%C4%9Fi-m%C3%BCrit/&w=bg
-https://www.uludagsozluk.com/k/matematikte-d%C3%BCnya-birincisi-olan-t%C3%BCrk-%C3%B6%C4%9Frenci/ türk önde türk ileri
-https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-%C3%A7ok-kald%C4%B1r%C4%B1lan-lideri/ 
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-ndan-erdo%C4%9Fan-a-7-fet%C3%B6-sorusu/
-https://www.uludagsozluk.com/k/de%C4%9Ferli-dostum-putin-vard%C4%B1-ne-oldu-onaa/&w=bg
-https://www.uludagsozluk.com/k/abd-israil-t%C3%BCrkiye-nin-esada-kar%C5%9F%C4%B1-cihad-etmesi/&w=gd dont make me laugh
-https://www.uludagsozluk.com/k/14-%C5%9Fubat-2020-y%C4%B1lmaz-%C3%B6zdil-in-aktroll-taklidi/&w=gd 
-https://www.uludagsozluk.com/k/halk%C4%B1n%C4%B1-kimyasal-silahla-vurup-koltukta-kalmak/
-https://www.uludagsozluk.com/k/tc-iyesta-sert/ 
-https://www.uludagsozluk.com/k/iyesta-i%C3%A7in-14-%C5%9Fubat-hediyesi/
-https://www.uludagsozluk.com/k/amerika-vs-rusya/&w=bg lol
-https://www.uludagsozluk.com/k/ahmet-kaya-n%C4%B1n-kar%C4%B1s%C4%B1n%C4%B1n-yetmez-ama-evet%C3%A7i-olmas%C4%B1/
-https://www.uludagsozluk.com/k/14-%C5%9Fubat-2020-y%C4%B1lmaz-%C3%B6zdil-in-aktroll-taklidi/&w=gd 
-https://www.uludagsozluk.com/k/wuhan-dan-kurtuldum-ilk-i%C5%9Fim-an%C4%B1tkabire-gitmek/ 
-https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg bkz ay götüm
-https://www.uludagsozluk.com/k/akp-gidince-akp-li-olmakla-su%C3%A7lanacak-olmam%C4%B1z/
-https://www.uludagsozluk.com/k/kedinin-ci%C4%9Fere-bakt%C4%B1%C4%9F%C4%B1-gibi-i%C5%9F-bankas%C4%B1na-bakmak/&w=gd
--->
-
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 
