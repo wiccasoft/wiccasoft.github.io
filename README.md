@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz aşkım cucukold ne diyen aptal kız
 bkz tokatlıların arap kürt kırması olduğu gerçeği
 bkz konyalıların ermeni kürdü olduğu gerçeği
 https://www.uludagsozluk.com/k/vatan-haini-k%C3%BCrt-vs-vatan-sever-k%C3%BCrt/ bkz kürt lütfen
