@@ -3,6 +3,7 @@
 
 <!-- 
 bkz cevab veremedi
+bkz kılıçdaroğlana cevab veremeyen dünya lideri
 https://www.uludagsozluk.com/k/t%C4%B1bb%C4%B1-sonuncu-bitiren-doktor/
 https://www.uludagsozluk.com/k/alkolik-olmakla-%C3%B6v%C3%BCnen-tip/&w=bg bkz aloklik oldum nickli yazar
 https://www.uludagsozluk.com/k/%C5%9Feyhin-badeleyip-iyile%C5%9Ftirdi%C4%9Fi-m%C3%BCrit/&w=bg
