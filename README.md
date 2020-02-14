@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.wowgirlsblog.com/the-pleasure-is-all-mine/ )
 
 <!-- 
-https://www.uludagsozluk.com/e/42854749/ hangi oç yaptı bunu
+https://www.uludagsozluk.com/e/42854749/  zuahahahah çok iyi olmuş verdim şukunu
 https://www.uludagsozluk.com/k/murat-%C3%B6v%C3%BC%C3%A7/&w=bg ay çok ta şeyimdeydiniz ayol
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg sigarayı bırakyın ayol zararlı
 -->
