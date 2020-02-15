@@ -7,7 +7,9 @@
 
 <!-- 
 bkz hain osmanlının bırakıp kaçtığı topraklar
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ -->
+https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ 
+https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-club/
+-->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
