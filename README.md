@@ -7,6 +7,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz 3 temmuz kurbanı 
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ bkz hain osmanlının bırakıp kaçtığı topraklar 
+https://www.uludagsozluk.com/k/%C3%BClkemde-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=bg
 -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
