@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-bkz mustafa akıncının yerim kıbrıstır açıklaması
+bkz mustafa akıncının yerim yavru vatandır açıklaması
 bkz mustafa akıncının mustafa kaçanın tweetini retweetlemesi
 bkz haçan kaçanın yerim mustafa akıncının yeridir tweeti
 bkz mustafa akıncının ikinci mustafa kemal olmayacağım açıklması
