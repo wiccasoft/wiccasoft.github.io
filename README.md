@@ -8,6 +8,7 @@
 bkz dan brazilian vs cem yılmaz
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
 bkz ibbnin dağıttığı sütle hava atan kezo
+bkz atacücüyü sevmeyenlerin virüsü yayması
 bkz wuhan virüsünü atatürk bağlamak
 https://www.uludagsozluk.com/k/h%C3%BCseyin-nihal-ats%C4%B1z-%C4%B1n-atat%C3%BCrk-d%C3%BC%C5%9Fman%C4%B1-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/rte-darbe-gecesi-tank%C4%B1n-topun-%C3%BCzerine-y%C3%BCr%C3%BCd%C3%BC/ yürümedi mi
