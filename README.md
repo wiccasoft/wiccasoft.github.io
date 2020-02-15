@@ -6,7 +6,6 @@
 
 <!--
 bkz nankara nankara duy sesimizi bu gelen rusların ayak sesleri
-bkz ankara beni bulsun götü yiyorsa
 bkz serdar06 nın hala kimliğimi bulamaması
 https://www.uludagsozluk.com/k/ankara-beni-bulsun/&w=bg ankara beni google dan bulsun
 https://www.uludagsozluk.com/k/%C3%BCmit-kocasakal/&w=bg bkz gerçek atacücücüü
