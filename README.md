@@ -2,7 +2,9 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg sizin de ananızın amı oç ları
+https://www.uludagsozluk.com/e/42859032/ ülkeninin götüne sokayım oropunu sıçtığı
+bkz sizin de ananızın amı orospunun sıçtıkları
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg 
 bkz türklerin hala adıma başlık açamamaları 
 bkz türklerin ırkçılık dışında dünyaya katkıları
 bkz türklerin virüs gibi bişey olduğu gerçeği
