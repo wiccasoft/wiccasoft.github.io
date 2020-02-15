@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://eksisozluk.com/felipe-melo-vs-alex-de-souza--6367265?a=popular bilemiyorum aynı kefeye koyamadım ikisini
 https://eksisozluk.com/cem-yilmaz--32715?a=popular bkz kırkından sonra azanı teneşir paklar
 bkz gözleri kınalığ bebeğ şeklide gülen surat
 https://www.uludagsozluk.com/e/42860212/ amin ecmain 
