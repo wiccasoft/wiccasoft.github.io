@@ -5,10 +5,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.youtube.com/watch?v=t-LeppPbouY mevzu kale arkasıysa gerisi tolga cüercü
 https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/&w=bg bkz kedi uzanamadığı cüere tolga dermiş 
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg fenerli ve atatürkçü olduğu için küme düşürülen adam
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ fenerbahçenin gururu 
-https://www.youtube.com/watch?v=t-LeppPbouY
 bkz fener kale arkası bilet arayan kız
 https://galeri14.uludagsozluk.com/853/aleyna-tilki-nin-dudaklar%C4%B1_1978798_m.jpg
 https://eksisozluk.com/15-subat-2020-ankaragucu-fenerbahce-maci--6351857?a=popular 
