@@ -2,6 +2,15 @@
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
+<!--
+https://www.uludagsozluk.com/k/tc-iyesta-sert/
+bkz gözleri kınalığ bebeğ şeklide gülen surat
+ene habbe la mekekane uzun adame haçane le kaçane
+bkz elleri gözleri kınalı bebeğ uyan artığ büyüdün aa bebeğ
+yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
+-->
+
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 
