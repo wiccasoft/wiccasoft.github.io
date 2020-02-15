@@ -17,7 +17,6 @@ bkz cem yılmaz karı hoplatırken mal mal bakan gergedanlar
 bkz cem yılmazın hoplatmadığı karı kaldı mı sorunsalı
 https://www.uludagsozluk.com/k/ter%C3%B6ristlerin-orospu-%C3%A7ocu%C4%9Fu-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg küfretme oç
 https://www.uludagsozluk.com/k/rte-darbe-gecesi-tank%C4%B1n-topun-%C3%BCzerine-y%C3%BCr%C3%BCd%C3%BC/&w=gd yürümedi mi
-https://www.uludagsozluk.com/k/cem-in-serenay-%C4%B1-aldataca%C4%9F%C4%B1-kad%C4%B1n/ bkz cemcim bu kadar zevskik olma yahu
 https://www.uludagsozluk.com/k/cem-in-serenay-%C4%B1-aldataca%C4%9F%C4%B1-kad%C4%B1n/ bkz aleyna tilki
 bkz hüseyin nihal atsız barack hüseyin obama kavgası
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
