@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/milleti-aray%C4%B1p-sap%C4%B1kl%C4%B1k-yapan-cumhurba%C5%9Fkan%C4%B1/ telefona üfle
 bkz atacücünün süper bi şey olduğu gerçeğini bir kez daha anlamak
 bkz atacücünün gavurları denize döktüğü foto
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-attan-d%C3%BC%C5%9Ft%C3%BC%C4%9F%C3%BC-i%C3%A7in-gazi-%C3%BCnvan%C4%B1-almas%C4%B1/
