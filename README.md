@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg tamama bi bi daha öcalmayacam abi vurma abi
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg tamam abi bi daha öcalmayacam abi vurma abi
 bkz bordo klavyelerilerin ben döverek türk adaletine teslim etmesi
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg tamam abi vurmayın abi hizmet edecem size abiii
 https://www.uludagsozluk.com/k/kemalist-vesayet-15-temmuzda-ne-yap%C4%B1yordu/ bkz cevab ül veremedi
