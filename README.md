@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-mansur-yava%C5%9F/&w=bg karar vermesi zor
 bkz osmanlının bırakıp kaçtığı toprakları geri alacam diyen kamalcı
 bkz götünde don olmayan forumcu ergenlerin güldürmesi eved
 https://www.uludagsozluk.com/k/asla-kurtarmayaca%C4%9F%C4%B1n%C4%B1z-ki%C5%9Fi/ ay beni kutay ayol
