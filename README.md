@@ -4,7 +4,7 @@
 
 <!--
 bkz cmylmz aleyna tilki yi patlatmışmıdır sorunsalı
-bkz cmylmz  seranayı hoplatırken keyif purosu yakmak
+bkz cmylmz seranayı hoplatırken keyif purosu yakmak
 https://eksisozluk.com/cem-yilmaz--32715?a=popular&p=26 bkz canımız çeksin diye uğraşan komedyen
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-insan-sinirinni-sebebi/ bkz sinirlidir o
 https://www.youtube.com/watch?v=d2bh1k9XTk0 bkz sor kunaya sor
