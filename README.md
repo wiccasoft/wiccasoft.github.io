@@ -6,6 +6,7 @@
 
 
 <!-- 
+bkz 15 şubat 2020 kemalizmin ayak seslerinin günbür gümbür gelmesi
 bkz 15 şubat 2020 ankaragücü fenerbahçe maçı nın kuvayi milliyeyi yeniden ayağa kaldırması
 bkz beşer esadın askerlerini doğu gutaya sürmesi
 bkz facebook a atatürk fotosu atınca it gibi dağılan emperyalistler
