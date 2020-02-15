@@ -3,7 +3,7 @@
 
 <!--
 bkz türklerin üstün genlerini çalmak isteyen alman ve rus ajanları
-bkz türklerin kafa  burun göz yapılarının bile aynı olması
+bkz türklerin bözeklere benzediği gerçeği
 bkz türklerin arı saf ırk kurma çabaları
 bkz türklerin üstün ırk olduğunun çok belli olması
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg bkz türkler
