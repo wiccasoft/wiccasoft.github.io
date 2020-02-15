@@ -8,7 +8,7 @@
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
 https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/&w=bg bkz bakışlarınla kızları yaqısoun hanny
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-bkz hababam sınıfındaki gaza gelen tarih hocası vs rte
+bkz hababam sınıfındaki gaza gelen tarih hocası 
 https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır 
 -->
 
