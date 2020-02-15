@@ -5,7 +5,6 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-bkz dünya lideri vs atacücü
 bkz imamoğlanın babasının oğlanı yollim az halı sahada oynayın demesi
 bkz atacücün attan düştüğü için totosununn gazi olması
 bkz bir gece ansızın hakkari van muş
