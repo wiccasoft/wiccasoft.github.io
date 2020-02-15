@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz cem korkmaz vs cem yılmaz
 bkz 41 yaşında evlenmediği için dayayk yiyen genç
 bkz abdullah öcalanın ne mutlu öcalana demesi
 https://www.uludagsozluk.com/k/milleti-aray%C4%B1p-sap%C4%B1kl%C4%B1k-yapan-cumhurba%C5%9Fkan%C4%B1/ telefona üfle
