@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-ha bu isim benim küfrleri buraya yazın sonra okurum
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg 
+https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg sizin de ananızın amı oç ları
 bkz türklerin hala adıma başlık açamamaları 
 bkz türklerin ırkçılık dışında dünyaya katkıları
 bkz türklerin virüs gibi bişey olduğu gerçeği
