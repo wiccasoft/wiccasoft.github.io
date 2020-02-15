@@ -5,6 +5,7 @@
 
 <!-- 
 bkz grup vitamindeki ismail
+https://www.youtube.com/watch?v=p7ph9MvRBCk
 bkz hayal ettiğiniz erkek başkasıyla sevişiyor
 bkz sonra sen gelip benim bokumun üstüne sıçcaksın öylemiiii
 bkz ev yapacaksan tuğladan gelin alacaksan wuhandan
