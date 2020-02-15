@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz ankara beni bulsun götü yiyorsa
 bkz serdar06 nın hala kimliğimi bulamaması
 https://www.uludagsozluk.com/k/ankara-beni-bulsun/&w=bg ankara beni google dan bulsun
 https://www.uludagsozluk.com/k/%C3%BCmit-kocasakal/&w=bg bkz gerçek atacücücüü
