@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/ankara-beni-bulsun/&w=bg ankara beni google dan bulsun
 https://www.uludagsozluk.com/k/%C3%BCmit-kocasakal/&w=bg bkz gerçek atacücücüü
 https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır
 bkz saçlarına meç yapanlar cnnet ülkemizi terk etsin lütfen ama yaaaaaa
