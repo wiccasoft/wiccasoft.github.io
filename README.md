@@ -4,9 +4,8 @@
 
 <!--
 bkz gözleri kınalığ bebeğ şeklide gülen surat
-https://www.uludagsozluk.com/k/kemalistlerin-tuvalet-restore-etmekle-%C3%B6v%C3%BCnmesi/ 
 https://www.uludagsozluk.com/e/42860212/ amin ecmain 
-https://www.uludagsozluk.com/k/tc-iyesta-sert/
+https://www.uludagsozluk.com/k/tc-iyesta-sert/ 
 ene habbe la mekekane uzun adame haçane le kaçane
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
