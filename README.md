@@ -5,8 +5,10 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz kılıçtaroğlucuların iyice nokunu çıkarması
 bkz kamalcıların link aramaya çıkması
 bkz kamalcıların türbanlı aratıp bulduğu linkler
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flucular%C4%B1n-y%C4%B1lmaz-%C3%B6zdil-d%C3%BC%C5%9Fmanl%C4%B1%C4%9F%C4%B1/
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-lezbiyen/&w=bg bkz mobile twitter link
 bkz dan brazilian vs cem yılmaz
 bkz neşet ertaş vs calvin harris
