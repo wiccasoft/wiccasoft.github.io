@@ -6,6 +6,7 @@
 
 
 <!-- 
+bkz 15 şubat 2020 ankaragücü fenerbahçe maçı nın kuvayi milliyeyi yeniden ayağa kaldırması
 bkz beşer esadın askerlerini doğu gutaya sürmesi
 bkz facebook a atatürk fotosu atınca it gibi dağılan emperyalistler
 bkz facebook mkemalin askerleriyiz sayfasının 3.0000.0000 layk alması
