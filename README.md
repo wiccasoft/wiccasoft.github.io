@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://eksisozluk.com/15-subat-2020-aktroller-tarafindan-tehdit-edilmem--6367421?a=popular asdasdfa
+https://eksisozluk.com/ssg-ve-kanzukun-aktrollerden-para-alma-ihtimali--6367596?a=popular zuahhaha
 https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-insan-sinirinni-sebebi/ bkz sor kunaya sor
 bkz cmylmz aleyna tilki yi patlatmışmıdır sorunsalı
 bkz cmylmz seranayı hoplatırken keyif purosu yakmak
