@@ -3,9 +3,9 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz gözleri kınalığ bebeğ şeklide gülen surat
 https://www.uludagsozluk.com/e/42860212/ amin ecmain 
 https://www.uludagsozluk.com/k/tc-iyesta-sert/
-bkz gözleri kınalığ bebeğ şeklide gülen surat
 ene habbe la mekekane uzun adame haçane le kaçane
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
