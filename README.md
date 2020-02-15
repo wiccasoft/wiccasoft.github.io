@@ -2,26 +2,6 @@
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
-
-<!-- 
-bkz grup vitamindeki ismail
-https://www.youtube.com/watch?v=p7ph9MvRBCk
-bkz hayal ettiğiniz erkek başkasıyla sevişiyor
-bkz sonra sen gelip benim bokumun üstüne sıçcaksın öylemiiii
-bkz ev yapacaksan tuğladan gelin alacaksan wuhandan
-https://www.uludagsozluk.com/k/tc-iyesta-sert/
-bkz ruhi çenet testeredeki adam benzerliği
-bkz ruhi çenet kınalı bebeğ vidyosu
-bkz gözleri kınalığ bebeğ şeklide gülen surat
-ene habbe la mekekane uzun adame haçane le kaçane
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
-yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
-bkz elleri gözleri kınalı bebeğ uyan artığ büyüdün aa bebeğ
-https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/&w=bg
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ ümmetin başına gelmiş en güzel şey
-https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz adam gibi adam 
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/ bkz ruhi çenet testeredeki adam benzerliği -->
-
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 
