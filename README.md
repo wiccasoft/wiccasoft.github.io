@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz mustafa akıncının akınsoftla dalga geçmesi
 https://www.uludagsozluk.com/k/rabbi%C5%9Fko-ya-dua-etmek/&w=gd bkz attenttion whore
 bkz palamut ailesinni bebeklerle dalga geçmesi
 bkz elleri gözleri kınalı bebeğ uyan artığ büyüdün aa bebeğ
