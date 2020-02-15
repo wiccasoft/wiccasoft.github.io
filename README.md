@@ -1,37 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
-<!--
-bkz elleri meşaleli kızgın böceklerin dağılması
-bkz türklüktün aldığım keyfi hiç bişeyden alamadım -mustafa atatürk
-bkz böceklerin önüne top kek atıp deney yapmak
-bkz böceklerin üstün genlerini çalmak isteyen alman ve rus ajanları
-bkz türklerin böceklere benzediği gerçeği
-bkz mucize doktordaki böcek suratlı ergen
-bkz türklerin üstün ırk olduğunun çok belli olması
-https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg bkz türkler
-https://www.uludagsozluk.com/k/araplar%C4%B1n-%C3%BCst%C3%BCn-%C4%B1rk-olmas%C4%B1/&w=bg
-bkz haluk kırcının akıncı provakasyonun gelmeyin diye kalabalığı dağıtması
-bkz akınsoft un akıncının arkadasındayız açıklaması
-bkz mustafa akıncının türkleri övmeye niyetim yok demesi
-https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg rumlar ve pontus rumları
-bkz mustafa akıncının mustafa kaçanın tweetini retweetlemesi
-bkz haçan kaçanın yerim mustafa akıncının yeridir tweeti
-bkz mustafa akıncının ikinci mustafa kemal olmayacağım açıklması
-bkz mustafa akıncının ikinci haçak kaçan olmask istemiyorum açıklaması
-bkz mustafa akıncının akınsoftla dalga geçmesi
-https://www.uludagsozluk.com/k/rabbi%C5%9Fko-ya-dua-etmek/&w=gd bkz attenttion whore
-bkz palamut ailesinni bebeklerle dalga geçmesi
-bkz elleri gözleri kınalı bebeğ uyan artığ büyüdün aa bebeğ
-https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/&w=bg
-https://www.uludagsozluk.com/e/42858936/ oldu mu o kadar ya yıllar ne çabuk geçiyo kankağ
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-senin-i%C3%A7in-giriyorum-diyen-k%C4%B1z/ 
-ene habbe le hebbeke lö uzun adam haçane le kaçane
-https://www.uludagsozluk.com/k/bombalar-ya%C4%9Fard%C4%B1-her-gece-biz-durmadan-sevi%C5%9Firdik/ 
-yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
-https://www.uludagsozluk.com/k/seks-esnas%C4%B1nda-bay%C4%B1lan-k%C4%B1z/&w=bg bk siktim bayıldı
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
-https://www.uludagsozluk.com/k/ekremin-yapt%C4%B1%C4%9F%C4%B1-tuvaletlere-hizmet-diyen-tip/ güldürür eved -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
