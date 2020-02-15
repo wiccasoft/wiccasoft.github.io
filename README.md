@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz götünde don olmayan forumcu ergenlerin güldürmesi eved
 https://www.uludagsozluk.com/k/asla-kurtarmayaca%C4%9F%C4%B1n%C4%B1z-ki%C5%9Fi/ ay beni kutay ayol
 bkz abilerin varken sana laf düşmez diyen ulucu abiy
 https://www.youtube.com/watch?v=0wt7lNfVG4c bende aranıza katılim be abiiiii
