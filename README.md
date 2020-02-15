@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkzx araplar türkler arasındaki üstün ırk savaşı
+bkz bütün milletlerin türklerin üstün ırk olduğunu kabullenmesi arapların kabyullenemesi
+bkz araplar türkler arasındaki üstün ırk savaşı
 https://www.uludagsozluk.com/k/araplar%C4%B1n-%C3%BCst%C3%BCn-%C4%B1rk-olmas%C4%B1/&w=bg
 bkz abdullah çatlının türkler ancak yarramı yer demesi
 bkz abdullah gülün türkler yarramı yesin diyip gülmesi
