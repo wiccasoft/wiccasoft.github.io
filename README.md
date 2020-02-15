@@ -3,7 +3,7 @@
 
 
 <!-- 
-ene habbe la mekekane lö uzun adame hayyale feleh haçane le kaçane
+ene habbe la mekekane uzun adame hayyale haçane le kaçane
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ ümmetin başına gelmiş en güzel şey
