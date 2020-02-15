@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz atacücün attan düştüğü için totosununn gazi olması
 bkz bir gece ansızın hakkari van muş
 bkz denize kim düşse kurtarırsın sorunsalı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-mansur-yava%C5%9F/&w=bg karar vermesi zor
