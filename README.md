@@ -7,6 +7,7 @@
 <!--
 bkz dan brazilian vs cem yılmaz
 bkz neşet ertaş vs calvin harris
+bkz rus türbanlı vs türk türbanlı
 bkz tyarkanın milyonluk arazisi ibb de red aldı diye üzülen ekşiciler
 bkz cem yılmaz karı hoplatırken mal mal bakan gergedanlar
 bkz cem yılmazın hoplatmadığı karı kaldı mı sorunsalı
