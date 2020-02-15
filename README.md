@@ -4,7 +4,7 @@
 <!--
 bkz türklerin üstün genlerini çalmak isteyen alman ve rus ajanları
 bkz türklerin bözeklere benzediği gerçeği
-bkz türklerin arı saf ırk kurma çabaları
+bkz mucize doktordaki böcek suratlı ergen
 bkz türklerin üstün ırk olduğunun çok belli olması
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg bkz türkler
 bkz bütün milletlerin türklerin üstün ırk olduğunu kabullenmesi arapların kabullenemesi
