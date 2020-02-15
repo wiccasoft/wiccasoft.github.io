@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ellerim kırısaydı da imamaoğlana pandik atmasaydım
 bkz ev yapacaksan tuğladan gelin alacaksan wuhandan
 https://www.uludagsozluk.com/k/tc-iyesta-sert/
 bkz ruhi çenet testeredeki adam benzerliği
