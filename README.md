@@ -5,6 +5,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz at izizy it izini yine karışması
+https://www.uludagsozluk.com/k/1-kurdun-arkas%C4%B1ndan-40-k%C3%B6pek-havlar/ hoşt ulan köpek 
 bkz hababam sınıfındaki gaza gelen tarih hocası
 bkz atacücünün ata binip deh dıgıdıök dıgıdk demesi
 https://www.uludagsozluk.com/k/2-abdulhamit-ile-gurur-duyacak-kadar-kafay%C4%B1-k%C4%B1rmak/
