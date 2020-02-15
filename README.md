@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz türklerin üstün genlerini çalmak isteyen alman ve rus ajanları
+bkz cennet vatandaki böceklerin üstün genlerini çalmak isteyen alman ve rus ajanları
 bkz türklerin bözeklere benzediği gerçeği
 bkz mucize doktordaki böcek suratlı ergen
 bkz türklerin üstün ırk olduğunun çok belli olması
