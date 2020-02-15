@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz elleri meşaleli kızgın böceklerin dağılması
+bkz elleri meşaleli kızgın kamalcı böceklerin dağılması
 bkz böceklerin önüne top kek atıp deney yapmak
 bkz böceklerin üstün genlerini çalmak isteyen alman ve rus ajanları
 bkz türklerin böceklere benzediği gerçeği
