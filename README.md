@@ -5,8 +5,11 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/ersun-yanal/&w=bg
 https://galeri.uludagsozluk.com/r/uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BC-bir-insana-benzet-1978737/ 
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
+https://www.uludagsozluk.com/k/serdar-aziz/&w=bg
+https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 bkz hababam sınıfındaki gaza gelen tarih hocası 
 https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır 
