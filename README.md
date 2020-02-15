@@ -6,6 +6,7 @@
 
 <!--
 bkz dünya lideri vs atacücü
+bkz imamoğlanın babasının oğlanı yollim az halı sahada oynayın demesi
 bkz atacücün attan düştüğü için totosununn gazi olması
 bkz bir gece ansızın hakkari van muş
 bkz denize kim düşse kurtarırsın sorunsalı
