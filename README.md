@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn%C3%BC-siktir-et-bana-para-ver-diyen-k%C4%B1z/ bkz sadece şeyma
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-erkekleri-kullanmas%C4%B1/&w=gd ya ne olacaktı salak
 https://www.youtube.com/watch?v=tlyI-BKxIZE son sözümüzü söylemedik daha
 https://www.youtube.com/watch?v=I2_5Gl3L3Sw ne yapsalar boş göklerden gelen bir karar vardır
