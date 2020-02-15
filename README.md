@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-https://www.youtube.com/watch?v=0wt7lNfVG4c vurma abii
+https://www.youtube.com/watch?v=0wt7lNfVG4c bende aranıza katılim be abiiiii
 bkz uludaki kuveyi millici amcaların benle taşşak geçmesi ekşici babama söyliycem sizi
 bkz hain omsanlının bırakıp kaçtığı topraklar
 https://www.uludagsozluk.com/k/hain-osmanl%C4%B1-n%C4%B1n-b%C4%B1rak%C4%B1p-ka%C3%A7t%C4%B1%C4%9F%C4%B1-topraklar/&w=bg
