@@ -3,12 +3,10 @@
 
 <!--
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg bkz türkler
-bkz bütün milletlerin türklerin üstün ırk olduğunu kabullenmesi arapların kabyullenemesi
+bkz bütün milletlerin türklerin üstün ırk olduğunu kabullenmesi arapların kabullenemesi
 bkz araplar türkler arasındaki üstün ırk savaşı
 https://www.uludagsozluk.com/k/araplar%C4%B1n-%C3%BCst%C3%BCn-%C4%B1rk-olmas%C4%B1/&w=bg
 bkz abdullah çatlının türkler ancak yarramı yer demesi
-bkz abdullah gülün türkler yarramı yesin diyip gülmesi
-bkz nihat doğanın barack obamayı ayar manyaa yapması
 bkz barack obamanın türklerin önünde diz çöküp af dilemesi
 bkz amın sıçtığı türk ırkçıların güldürmesi
 bkz te ce nin it sıçmıkları beni yakalamanız ne mutlu türk dedirtmek için 40 fırın ekmeke yemeniz lazım 
