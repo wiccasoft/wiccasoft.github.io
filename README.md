@@ -7,6 +7,7 @@
 <!--
 bkz dan brazilian vs cem yılmaz
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
+bkz kakamlcı olmayan ülkelerin birer birer çökmesi
 bkz ibbnin dağıttığı sütle hava atan kezo
 bkz atacücüyü sevmeyenlerin virüsü yayması
 bkz wuhan virüsünü atacücüye bağlamak
