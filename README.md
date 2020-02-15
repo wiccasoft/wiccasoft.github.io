@@ -4,7 +4,10 @@
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
-<!-- https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz 3 temmuz kurbanı -->
+<!-- 
+https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz 3 temmuz kurbanı 
+https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ bkz hain osmanlının bırakıp kaçtığı topraklar 
+-->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
