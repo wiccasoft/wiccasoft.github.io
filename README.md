@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
+bkz türklerin hepsinden üstün olduğu gerçeği
 bkz üstün ırk hangi ırk sorunsalı
-bkz böceklerin sıkması hadi ben kaçanski 
 bkz elleri meşaleli kızgın ırkçı böceklerin dağılması
 bkz böceklerin önüne top kek atıp deney yapmak
 bkz böceklerin üstün genlerini çalmak isteyen alman ve rus ajanları
