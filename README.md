@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah bu nedir olm wallpaper yaptım 
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
 https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/&w=bg bkz bakışlarınla kızları yaqısoun hanny
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
