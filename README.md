@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz serngeti düzlüklerinde sıradan bir gün
 bkz kılıçtaroğlucuların iyice bokunu çıkarması
 bkz kamalcıların link aramaya çıkması
 bkz kamalcıların türbanlı aratıp bulduğu linkler
