@@ -6,6 +6,7 @@
 
 <!--
 bkz atın üstündeki türkse yüktür
+bkz ne mutlu öcalanım diyene
 https://www.uludagsozluk.com/k/game-of-thrones-taki-kerhaneci/&w=bg bkz baban
 https://www.uludagsozluk.com/k/1-kurdun-arkas%C4%B1ndan-40-k%C3%B6pek-havlar/ hoşt ulan köpek 
 bkz hababam sınıfındaki gaza gelen tarih hocası
