@@ -6,6 +6,7 @@
 
 <!--
 bkz dan brazilian vs cem yılmaz
+https://www.uludagsozluk.com/k/cem-in-serenay-%C4%B1-aldataca%C4%9F%C4%B1-kad%C4%B1n/ bkz aleyna tilki
 bkz hüseyin nihal atsız barack hüseyin obama kavgası
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
 bkz atatürkçü olmayan ülkelerin birer birer çökmesi
