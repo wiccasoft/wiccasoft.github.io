@@ -6,6 +6,7 @@
 
 <!--
 bkz cem korkmaz vs cem yılmaz
+https://www.uludagsozluk.com/k/%C3%A7ocuklu%C4%9Fumu-%C3%B6zl%C3%BCyorum-diyen-1995-do%C4%9Fumlu-tip/ bkz enes abi
 bkz ne mutlu öcalana dediği için bıçaklanan genç
 bkz abdullah öcalanın ne mutlu öcalana demesi
 https://www.uludagsozluk.com/k/milleti-aray%C4%B1p-sap%C4%B1kl%C4%B1k-yapan-cumhurba%C5%9Fkan%C4%B1/ telefona üfle
