@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz türkleri arı saf ırk kurma çabaları
+bkz türklerin kafa  burun göz yapılarının bile aynı olması
+bkz türklerin arı saf ırk kurma çabaları
 bkz türklerin üstün ırk olduğunun çok belli olması
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg bkz türkler
 bkz bütün milletlerin türklerin üstün ırk olduğunu kabullenmesi arapların kabullenemesi
