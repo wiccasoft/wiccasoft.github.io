@@ -3,11 +3,6 @@
 
 <!-- 
 bkz mustafa kemalin akıl hocasının senin adın mustafa kamal olsun demesi
-bkz palu ailesi vs palamut ailesi vs akıncı ailesi
-bkz mustafa kemal vs mustafa akıncı
-bkz kara kafalı kızgın türkler
-bkz kara kafalı türklerin kızgın olma sebepleri
-bkz ah şu kısgın türkler
 bkz hala adıma başlık açamayan kızgın türkler
 https://www.uludagsozluk.com/e/42859032/ 
 bkz türklerin en sevilen millet olma sebepleri
