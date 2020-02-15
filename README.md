@@ -5,7 +5,6 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-bkz rıdvanın beyin kanırtan podolski yorumu
 bkz fener kale arkası bilet arayan kız
 https://eksisozluk.com/15-subat-2020-ankaragucu-fenerbahce-maci--6351857?a=popular 
 https://eksisozluk.com/amerikaya-gitmek-icin-burs-arayan-kiz--6367982?a=popular
