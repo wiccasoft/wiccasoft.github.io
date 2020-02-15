@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz mustafa kamalın türk önde türk ileri diye bağırması
 bkz mustafa kemalin akıl hocasının senin adın mustafa kamal olsun demesi
 bkz hala adıma başlık açamayan kızgın türkler
 https://www.uludagsozluk.com/e/42859032/ 
