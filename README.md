@@ -4,7 +4,7 @@
 
 <!--
 https://eksisozluk.com/felipe-melo-vs-alex-de-souza--6367265?a=popular bilemiyorum aynı kefeye koyamadım ikisini
-https://eksisozluk.com/cem-yilmaz--32715?a=popular bkz kırkından sonra azanı teneşir paklar
+https://eksisozluk.com/cem-yilmaz--32715?a=popular  kırkından sonra azanı teneşir paklar
 bkz gözleri kınalığ bebeğ şeklide gülen surat
 https://www.uludagsozluk.com/e/42860212/ amin ecmain 
 https://www.uludagsozluk.com/k/tc-iyesta-sert/ 
