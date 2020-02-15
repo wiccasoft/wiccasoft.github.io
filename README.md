@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/e/42860212/ zuhhahahah
 https://www.uludagsozluk.com/k/tc-iyesta-sert/
 bkz gözleri kınalığ bebeğ şeklide gülen surat
 ene habbe la mekekane uzun adame haçane le kaçane
