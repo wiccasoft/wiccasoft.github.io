@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz gözleri kınalığ bebeğ şeklide güzel surat
 ene habbe la mekekane uzun adame haçane le kaçane
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
