@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz abdullah öcalan kod adım asıl adım barack obama siz beni yakaladığınız sanıyorusunuz
+bkz barack obamanın türklerin önünde af dilemesi
 bkz amın sıçtığı türk ırkçıların güldürmesi
 bkz te ce nin it sıçmıkları beni yakalamanız ne mutlu türk dedirtmek için 40 fırın ekmeke yemeniz lazım 
 https://www.uludagsozluk.com/e/42858936/ hayallerde yaşıyor bazı ibneler
