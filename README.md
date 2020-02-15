@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz türklerin genlerini çalmak isteyen alman ve rus ajanları
+bkz türklerin üstün genlerini çalmak isteyen alman ve rus ajanları
 bkz türklerin kafa  burun göz yapılarının bile aynı olması
 bkz türklerin arı saf ırk kurma çabaları
 bkz türklerin üstün ırk olduğunun çok belli olması
