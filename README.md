@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-bkz elleri meşaleli kızgün köylülerin dağılması
-bkz haluk kırcının akıncı provakasyonun gelmeyin diye kamalcı kalabalığı dağıtması
+bkz elleri meşaleli kızgın kamalcıların dağılması
+bkz haluk kırcının akıncı provakasyonun gelmeyin diye kalabalığı dağıtması
 bkz akınsoft un akıncının arkadasındayız açıklaması
 bkz mustafa akıncının türkleri övmeye niyetim yok demesi
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg rumlar ve pontus rumları
