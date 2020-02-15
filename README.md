@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz türklüktün aldığım keyfi hiç bişeyden alamadım -mustafa atatük
-bkz türklerin hepsinden üstün olduğu gerçeği
+bkz türklerin üstünlüğünü her geçen gün anlamak
+bkz türklüktün aldığım keyfi hiç bişeyden alamadım -mustafa atatürk
 bkz üstün ırk hangi ırk sorunsalı
 bkz elleri meşaleli kızgın ırkçı böceklerin dağılması
 bkz böceklerin önüne top kek atıp deney yapmak
