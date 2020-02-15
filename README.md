@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır
 bkz saçlarına meç yapanlar cnnet ülkemizi terk etsin lütfen ama yaaaaaa
 https://www.uludagsozluk.com/k/a%C3%A7%C4%B1k-sa%C3%A7l%C4%B1lar-%C3%BClkeyi-terk-etsin/ bkz açık saçlı mı var lan it
 https://www.uludagsozluk.com/k/game-of-thrones-taki-kerhaneci/&w=bg hay taşşaklarına kurban her eve lazım
