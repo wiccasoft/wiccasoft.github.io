@@ -3,10 +3,10 @@
 
 
 <!-- 
-bkz hayal ettiğiniz erkek başkasıyla sevişiyor
-https://www.uludagsozluk.com/k/177-cm-80-kg-kasl%C4%B1-k%C3%BClt%C3%BCrl%C3%BC-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/
 bkz grup vitamindeki ismail
+bkz hayal ettiğiniz erkek başkasıyla sevişiyor
 bkz sonra sen gelip benim bokumun üstüne sıçcaksın öylemiiii
+https://www.uludagsozluk.com/k/177-cm-80-kg-kasl%C4%B1-k%C3%BClt%C3%BCrl%C3%BC-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-erkek/
 bkz ev yapacaksan tuğladan gelin alacaksan wuhandan
 https://www.uludagsozluk.com/k/tc-iyesta-sert/
 bkz ruhi çenet testeredeki adam benzerliği
