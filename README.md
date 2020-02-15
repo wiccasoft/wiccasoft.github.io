@@ -6,6 +6,7 @@
 
 <!--
 bkz dan brazilian vs cem yılmaz
+bkz hüseyin nihal atsız obama kavgası
 bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
 bkz atatürkçü olmayan ülkelerin birer birer çökmesi
 bkz yabancı hakemlerin türk futbolunu bitirmesi
