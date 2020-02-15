@@ -6,6 +6,7 @@
 <!--
 bkz dan brazilian vs cem yılmaz
 bkz fatih tezcanının hdplilere virüs demesi
+https://www.uludagsozluk.com/k/otomatik-vites-kullanan-erkek-ibnedir/ bkx vites koluna oturup entry girmek
 https://www.uludagsozluk.com/k/topu-topu-7-nota-var-ka%C3%A7-ayr%C4%B1-beste-yap%C4%B1labilir-ki/&w=bg
 https://www.uludagsozluk.com/k/hdp-van-milletvekilinin-evinde-ter%C3%B6rist-saklamas%C4%B1/ hani marjinal bizdik
 https://eksisozluk.com/canimiz-ceksin-diye-ugrasan-tuhaf-baci--6367385?a=popular hani marjinal bizdik
