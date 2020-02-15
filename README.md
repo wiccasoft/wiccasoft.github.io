@@ -4,28 +4,6 @@
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
-<!--
-https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/&w=bg bkz kedi uzanamadığı cüere tolga dermiş 
-bkz fener kale arkası bilet arayan kız
-https://galeri14.uludagsozluk.com/853/aleyna-tilki-nin-dudaklar%C4%B1_1978798_m.jpg
-https://eksisozluk.com/15-subat-2020-ankaragucu-fenerbahce-maci--6351857?a=popular 
-https://eksisozluk.com/amerikaya-gitmek-icin-burs-arayan-kiz--6367982?a=popular
-https://www.uludagsozluk.com/k/galatasaray%C4%B1n-kad%C4%B1k%C3%B6yde-fenere-d%C3%B6%C5%9Feyece%C4%9Fi-boru/&w=bg
-https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg kop gel günahlarından
-https://www.uludagsozluk.com/k/r%C4%B1dvan-%C4%B1-a%C3%A7mak/&w=bg bkz hiç açık vermeyen fıstık
-https://www.uludagsozluk.com/k/ersun-yanal/&w=bg
-https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg 
-https://www.uludagsozluk.com/k/asude-defne-%C3%B6zkan/&w=bg bkz amerika için burs arayan kız
-https://www.uludagsozluk.com/k/ankarag%C3%BCc%C3%BC-n%C3%BCn-fener-e-d%C3%B6%C5%9Fedi%C4%9Fi-boru/ damat istifa
-https://www.uludagsozluk.com/k/15-%C5%9Fubat-2020-ankarag%C3%BCc%C3%BC-fenerbah%C3%A7e-ma%C3%A7%C4%B1/&w=gd
-https://galeri.uludagsozluk.com/r/uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BC-bir-insana-benzet-1978737/ 
-bkz cem yılmaz aleyna tilkiyi patlatmışmıdır sorunsalı
-https://www.uludagsozluk.com/k/serdar-aziz/&w=bg
-https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-bkz hababam sınıfındaki gaza gelen tarih hocası 
-https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır 
--->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
