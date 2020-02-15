@@ -3,7 +3,7 @@
 
 <!--
 bkz böceklerin sıkması hadi ben kaçanski 
-bkz elleri meşaleli kızgın kamalcı böceklerin dağılması
+bkz elleri meşaleli kızgın ırkçı böceklerin dağılması
 bkz böceklerin önüne top kek atıp deney yapmak
 bkz böceklerin üstün genlerini çalmak isteyen alman ve rus ajanları
 bkz türklerin böceklere benzediği gerçeği
