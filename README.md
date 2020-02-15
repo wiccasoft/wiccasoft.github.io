@@ -4,20 +4,6 @@
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
-
-<!-- 
-bkz ne mutlu fenerliyim diyince it gibi dağılan osmanlısporlular
-bkz 15 şubat 2020 kemalizmin ayak seslerinin günbür gümbür gelmesi
-bkz 15 şubat 2020 ankaragücü fenerbahçe maçı nın kuvayi milliyeyi yeniden ayağa kaldırması
-bkz beşer esadın askerlerini doğu gutaya sürmesi
-bkz facebook a atatürk fotosu atınca it gibi dağılan emperyalistler
-bkz facebook mkemalin askerleriyiz sayfasının 3.0000.0000 layk alması
-bkz ne mutlu türküm diyince it gibi dağılan osmanlılar
-bkz hain osmanlının bırakıp kaçtığı topraklar
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ 
-https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-club/
--->
-
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
 
