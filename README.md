@@ -6,7 +6,8 @@
 
 
 <!-- 
-bkz ne mutlu trüm diyince it gibi dağılan osmanlılar
+bkz facebook mkemalin askerleriyiz sayfasının 3.0000.0000 layk alması
+bkz ne mutlu türküm diyince it gibi dağılan osmanlılar
 bkz hain osmanlının bırakıp kaçtığı topraklar
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ 
 https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-club/
