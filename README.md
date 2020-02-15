@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/r%C4%B1dvan-%C4%B1-a%C3%A7mak/&w=bg bkz hiç açık vermeyen fıstık
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg 
 https://www.uludagsozluk.com/k/asude-defne-%C3%B6zkan/&w=bg bkz amerika için burs arayan kız
