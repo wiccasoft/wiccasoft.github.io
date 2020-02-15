@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-bkz hani marjinal bizdik
+https://eksisozluk.com/canimiz-ceksin-diye-ugrasan-tuhaf-baci--6367385?a=popular bkz hani marjinal bizdik
 bkz dan brazilian vs cem yılmaz
 bkz instagram da canımız çeksin diye 7 milyon dolarlık yatta seks partisi veren türbanlı bacı
 https://eksisozluk.com/canimiz-ceksin-diye-ugrasan-tuhaf-baci--6367385?a=popular bkz hani marjinal bizdik
