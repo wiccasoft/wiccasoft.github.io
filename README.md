@@ -5,6 +5,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz vatansever abilerin varkene lafa girme genç
+https://www.uludagsozluk.com/k/evlilik-istemedi%C4%9Fi-i%C3%A7in-b%C4%B1%C3%A7aklanan-gen%C3%A7/
 https://www.uludagsozluk.com/k/yerli-robin-hood/ eywalla bro günüllerimiz bir olsun
 https://www.uludagsozluk.com/k/vahdettin/&w=bg
 https://www.uludagsozluk.com/k/imamhatipte-atat%C3%BCrk-yerine-abd%C3%BClhamit-resmi-as%C4%B1ld%C4%B1/
