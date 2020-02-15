@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
-bkz te ce nin it sıçmıkları beni yakalamanız ne mutlu türk dedirtmek için 40 fırın ekmeke yemeniz lazım
+bkz türk ırkçıların güldürmesi
+bkz te ce nin it sıçmıkları beni yakalamanız ne mutlu türk dedirtmek için 40 fırın ekmeke yemeniz lazım 
 https://www.uludagsozluk.com/e/42858936/ hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/e/42859032/ ülkenini de al git amın sıçtığı
 bkz sizin de ananızın amı orospunun sıçtıkları
