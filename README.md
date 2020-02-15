@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/cem-yılmaz-serenay-sarıkaya-aşkı/&w=bg yakışır cem abime götür abimm
 https://eksisozluk.com/canimiz-ceksin-diye-ugrasan-tuhaf-baci--6367385?a=popular bkz hani marjinal bizdik
 https://eksisozluk.com/felipe-melo-vs-alex-de-souza--6367265?a=popular bilemiyorum aynı kefeye koyamadım ikisini
 https://eksisozluk.com/cem-yilmaz--32715?a=popular  kırkından sonra azanı teneşir paklar
