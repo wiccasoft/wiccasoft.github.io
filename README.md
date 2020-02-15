@@ -7,6 +7,7 @@
 <!-- 
 bkz ne mutlu fenerliyim diyince it gibi dağılan osmanlıspor taraftarı
 bkz 15 şubat 2020 ankaragücü fenerbahçe maçı ndaduyyulan kuvayi milliye ayak sesleri
+https://www.uludagsozluk.com/k/14-%C5%9Fubat-2020-y%C4%B1lmaz-%C3%B6zdil-in-aktroll-taklidi/
 https://www.uludagsozluk.com/k/15-%C5%9Fubat-2020-ankarag%C3%BCc%C3%BC-fenerbah%C3%A7e-ma%C3%A7%C4%B1/
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz 3 temmuz kurbanı 
 https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-club/ 
