@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+vkz siklenmeyeyen bi isim olmanın verdiği raadlık
 https://www.uludagsozluk.com/k/cem-uzan-%C4%B1n-%C3%BClkeye-d%C3%B6nmek-i%C3%A7in-bitmeyen-%C3%A7abas%C4%B1/
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-ankarag%C3%BCc%C3%BC-n%C3%BC-motive-etmesi/
 https://www.youtube.com/watch?v=-NxN0Y5mrRc zuahhahaha
