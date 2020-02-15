@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz rusların türklerin çok süper bi millet olduğunu sonunda anlamaları
 bkz mustafa akıncın türk önde türk ileri diye bağırması
 bkz mustafa kemalin akıl hocasının senin adın mustafa kamal olsun demesi
 bkz hala adıma başlık açamayan kızgın türkler
