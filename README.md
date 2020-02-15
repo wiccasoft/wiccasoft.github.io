@@ -6,7 +6,6 @@
 https://www.uludagsozluk.com/k/tc-iyesta-sert/
 bkz gözleri kınalığ bebeğ şeklide gülen surat
 ene habbe la mekekane uzun adame haçane le kaçane
-bkz elleri gözleri kınalı bebeğ uyan artığ büyüdün aa bebeğ
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 -->
