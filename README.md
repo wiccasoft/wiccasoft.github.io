@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz mustafa akıncının hasan kaçanın tweetini retweetlemesi
 bkz haçan kaçanın yerim mustafa akıncının yeridir tweeti
 bkz mustafa akıncının ikinci mustafa kemal olmayacağım açıklması
 bkz mustafa akıncının ikinci haçak kaçan olmask istemiyorum açıklaması
