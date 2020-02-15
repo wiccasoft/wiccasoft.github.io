@@ -5,9 +5,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-bkz türklerin yine beni adalete teslim etmesi
 https://www.uludagsozluk.com/k/ankara-beni-bulsun-diyeni-ankara-n%C4%B1n-bulmas%C4%B1/ yine buldunuz beni
-https://www.uludagsozluk.com/e/42858936/ ne günlerdi bro iyi hatırlattın
+https://www.uludagsozluk.com/e/42858936/ ne günlerdi bro iyi hatırlattın türküyeyü hizmet etmeye hazırım bro
 https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani/&w=bg bkz şaban filmindeki atatürk düşmanı yaratık
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkeklerin-salak-olmas%C4%B1/&w=bg bkz böcek suratlı ergen tespiti
 https://www.uludagsozluk.com/k/iskilipli-at%C4%B1f-hoca/&w=bg hocam kalkta ben yatam
