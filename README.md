@@ -6,6 +6,7 @@
 
 <!--
 bkz dan brazilian vs cem yılmaz
+bkz cem yılmaz aleyna tilkiyi patlatmış mıdır sorunsalı
 https://www.uludagsozluk.com/k/d%C3%BC%C4%9F%C3%BCn%C3%BC-siktir-et-bana-para-ver-diyen-k%C4%B1z/ bkz sadece şeyma
 https://www.uludagsozluk.com/k/kad%C4%B1nlar%C4%B1n-erkekleri-kullanmas%C4%B1/&w=gd ya ne olacaktı salak
 https://www.youtube.com/watch?v=tlyI-BKxIZE son sözümüzü söylemedik daha
