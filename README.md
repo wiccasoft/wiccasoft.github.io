@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-bkz türklerin bol soslu ırkçılık dışında dünyaya katkıları
+bkz türklerin ırkçılık dışında dünyaya katkıları
 bkz türklerin virüs gibi bişey olduğu gerçeği
 bkz aldığımız nefesi türkler borçlu olduğum iddaları
 bkz türklerin ülkelerini cennet sanmaları
