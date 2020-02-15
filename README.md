@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz ah şu kısgın türkler
 bkz hala adıma başlık açamayan kızgın türkler
-bkz türklerin beni mustafa akıncı sanması
-https://www.uludagsozluk.com/e/42859032/
+https://www.uludagsozluk.com/e/42859032/ 
 bkz türklerin en sevilen millet olma sebepleri
 bkz elleri meşaleli kızgın kamalcıların dağılması
 bkz haluk kırcının akıncı provakasyonun gelmeyin diye kalabalığı dağıtması
