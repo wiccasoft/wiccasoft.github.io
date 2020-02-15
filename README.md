@@ -6,6 +6,7 @@
 
 <!--
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
+bkz hababam sınıfındaki gaza gelen tarih hocası vs rte
 https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır 
 -->
 
