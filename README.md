@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/hdp-van-milletvekilinin-evinde-ter%C3%B6rist-saklamas%C4%B1/ yav he he
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-taraf%C4%B1ndan-ma%C4%9Fdur-edilen-akp-liler/ analarını sikecem bro
 https://www.uludagsozluk.com/k/ankara-beni-bulsun-diyeni-ankara-n%C4%B1n-bulmas%C4%B1/ abi bi daha yapmayacam vurma abi
 https://www.uludagsozluk.com/k/ankara-beni-bulsun-diyeni-ankara-n%C4%B1n-bulmas%C4%B1/ yine buldunuz beni
