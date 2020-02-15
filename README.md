@@ -6,7 +6,7 @@
 
 <!--
 bkz cem korkmaz vs cem yılmaz
-bkz çocukluğumu özlemiyorum diyen 1978 li bebe
+bkz çocukluğumu özlemiyorum diyen 1978 li tip
 https://www.uludagsozluk.com/k/%C3%A7ocuklu%C4%9Fumu-%C3%B6zl%C3%BCyorum-diyen-1995-do%C4%9Fumlu-tip/ bkz enes abi
 bkz ne mutlu öcalana dediği için bıçaklanan genç
 bkz abdullah öcalanın ne mutlu öcalana demesi
