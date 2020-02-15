@@ -6,7 +6,7 @@
 
 
 <!-- 
-bkz ne mutlu fenerliyim diyince it gibi dağılan osmanlılar
+bkz ne mutlu fenerliyim diyince it gibi dağılan osmanlısporlular
 bkz 15 şubat 2020 kemalizmin ayak seslerinin günbür gümbür gelmesi
 bkz 15 şubat 2020 ankaragücü fenerbahçe maçı nın kuvayi milliyeyi yeniden ayağa kaldırması
 bkz beşer esadın askerlerini doğu gutaya sürmesi
