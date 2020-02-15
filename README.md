@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz facebooktan beni arayan aptal polis
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
 bkz nankara nankara duy sesimizi bu gelen rusların ayak sesleri
 bkz serdar06 nın hala kimliğimi bulamaması
