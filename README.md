@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-lezbiyen/&w=bg bkz mobile twitter link
 bkz dan brazilian vs cem yılmaz
 bkz neşet ertaş vs calvin harris
 bkz rus türbanlı vs türk türbanlı
