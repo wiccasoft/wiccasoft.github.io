@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/sevgililer-g%C3%BCn%C3%BCne-demli-%C3%A7ay-i%C3%A7erek-girmek/ hani marjinal bizdik
 https://www.uludagsozluk.com/k/otomatik-vites-kullanan-erkek-ibnedir/ bkz vites koluna oturup entry girmek
 https://www.uludagsozluk.com/k/topu-topu-7-nota-var-ka%C3%A7-ayr%C4%B1-beste-yap%C4%B1labilir-ki/&w=bg
 https://www.uludagsozluk.com/k/hdp-van-milletvekilinin-evinde-ter%C3%B6rist-saklamas%C4%B1/ hani marjinal bizdik
