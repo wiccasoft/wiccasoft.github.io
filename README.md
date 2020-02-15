@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!-- 
+bkz üstad kadir mısıoğlancıların pısması
 bkz ali koç un kuvayi fener hareketini başlatması
 bkz ne mutlu fenerliyim diyince it gibi dağılan osmanlıspor taraftarı
 bkz 15 şubat 2020 ankaragücü fenerbahçe maçı ndaduyyulan kuvayi milliye ayak sesleri
