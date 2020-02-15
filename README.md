@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
+bkz mustafa kemal vs mustafa akıncı
 bkz kara kafalı kızgın türkler
 bkz kara kafalı türklerin kızgın olma sebepleri
 bkz ah şu kısgın türkler
