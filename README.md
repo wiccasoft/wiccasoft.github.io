@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz abilerin varken sana laf düşmez diyen ulucu abiy
 https://www.youtube.com/watch?v=0wt7lNfVG4c bende aranıza katılim be abiiiii
 bkz uludaki kuveyi millici amcaların benle taşşak geçmesi ekşici babama söyliycem sizi
 bkz hain omsanlının bırakıp kaçtığı topraklar
