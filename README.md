@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani/&w=bg bkz şaban filmindeki atatürk düşmanı yaratık
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkeklerin-salak-olmas%C4%B1/&w=bg bkz böcek suratlı ergen tespiti
 https://www.uludagsozluk.com/k/iskilipli-at%C4%B1f-hoca/&w=bg hocam kalkta ben yatam
 https://www.uludagsozluk.com/k/renkli-g%C3%B6zl%C3%BC-erkeklerin-salak-olmas%C4%B1/&w=bg zuhahahaha
