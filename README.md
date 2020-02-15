@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/z%C3%BCb%C3%BCk/&w=bg  bkz re ce tayi yi er do ğan
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz re ce tayyiğ eroğan re ce ty yi erdo ğan
 bkz facebookta beni arayan aptal türk polisi
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
