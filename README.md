@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/ankara-beni-bulsun-diyeni-ankara-n%C4%B1n-bulmas%C4%B1/ abi bi daha yapmayacam vurma abi
 https://www.uludagsozluk.com/k/ankara-beni-bulsun-diyeni-ankara-n%C4%B1n-bulmas%C4%B1/ yine buldunuz beni
 https://www.uludagsozluk.com/e/42858936/ ne günlerdi bro iyi hatırlattın türküyeyü hizmet etmeye hazırım bro
 https://www.uludagsozluk.com/k/saban-filmindeki-gulyabani/&w=bg bkz şaban filmindeki atatürk düşmanı yaratık
