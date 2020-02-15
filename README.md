@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/&w=bg ellleri gözleri kınalı bebeğ
+bkz elleri gözleri kınalı bebeğ uyan artığ büyüdün aa bebeğ
+https://www.uludagsozluk.com/k/g%C3%B6zleri-a%C3%A7%C4%B1k-donan-suriyeli-bebek/&w=bg
 https://www.uludagsozluk.com/e/42858936/ oldu mu o kadar ya yıllar ne çabuk geçiyo kankağ
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-senin-i%C3%A7in-giriyorum-diyen-k%C4%B1z/ 
 ene habbe le hebbeke lö uzun adam haçane le kaçane
