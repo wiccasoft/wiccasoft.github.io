@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-bkz kamalacıları link aramaya çıkması
+bkz kamalcıların link aramaya çıkması
 bkz kamalcıların türbanlı aratıp bulduğu linkler
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-lezbiyen/&w=bg bkz mobile twitter link
 bkz dan brazilian vs cem yılmaz
