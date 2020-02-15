@@ -6,6 +6,7 @@
 
 <!--
 bkz bir gece ansızın hakkari van muş
+bkz denize kim düşse kurtarırsın sorunsalı
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-mansur-yava%C5%9F/&w=bg karar vermesi zor
 bkz osmanlının bırakıp kaçtığı toprakları geri alacam diyen kamalcı
 bkz götünde don olmayan forumcu ergenlerin güldürmesi eved
