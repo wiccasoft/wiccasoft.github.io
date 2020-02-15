@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!-- 
+bkz mustafa kemalin askerleryiniz diyince it gibi dağılan osmanlıspor taraftarı
 bkz ne mutlu fenerliyim diyince it gibi dağılan osmanlıspor taraftarı
 bkz 15 şubat 2020 ankaragücü fenerbahçe maçı ndaduyyulan kuvayi milliye ayak sesleri
 https://www.uludagsozluk.com/k/14-%C5%9Fubat-2020-y%C4%B1lmaz-%C3%B6zdil-in-aktroll-taklidi/
