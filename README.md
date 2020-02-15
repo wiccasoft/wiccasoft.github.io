@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1sa-boylu-insan-sinirinni-sebebi/ bkz sor kunaya sor
 bkz cmylmz aleyna tilki yi patlatmışmıdır sorunsalı
 bkz cmylmz seranayı hoplatırken keyif purosu yakmak
 https://eksisozluk.com/cem-yilmaz--32715?a=popular&p=26 bkz canımız çeksin diye uğraşan komedyen
