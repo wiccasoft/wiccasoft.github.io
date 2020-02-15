@@ -5,6 +5,9 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz vahdettin ismet inönü ilişkisi
+https://www.uludagsozluk.com/k/vahdettin/&w=bg
+https://www.uludagsozluk.com/k/imamhatipte-atat%C3%BCrk-yerine-abd%C3%BClhamit-resmi-as%C4%B1ld%C4%B1/
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg tamam abi bi daha öcalmayacam abi vurma abi
 bkz bordo klavyelerilerin ben döverek türk adaletine teslim etmesi
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg tamam abi vurmayın abi hizmet edecem size abiii
