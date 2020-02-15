@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.youtube.com/watch?v=tlyI-BKxIZE son sözümüzü söylemedik daha
 https://www.youtube.com/watch?v=I2_5Gl3L3Sw ne yapsalar boş göklerden gelen bir karar vardır
 https://eksisozluk.com/canimiz-ceksin-diye-ugrasan-tuhaf-baci--6367385?a=popular ne yapsalar boş
 https://www.uludagsozluk.com/k/sevgililer-g%C3%BCn%C3%BCne-demli-%C3%A7ay-i%C3%A7erek-girmek/ hani marjinal bizdik
