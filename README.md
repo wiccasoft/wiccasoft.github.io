@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
+bkz abdullah gülün türkler yarramı yesin demesi
 bkz nihat doğanın barack obamayı ayar manyaa yapması
 bkz barack obamanın türklerin önünde diz çöküp af dilemesi
 bkz amın sıçtığı türk ırkçıların güldürmesi
