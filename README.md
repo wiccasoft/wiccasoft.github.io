@@ -5,7 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ ümmetin başına gelmiş en güzel şey
 https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz adam gibi adam 
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/ bkz ruhi çenet spy game deki adam benzerliği -->
+https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/ bkz ruhi çenet testeredeki adam benzerliği -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
