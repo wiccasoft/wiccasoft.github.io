@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ruhi çenet testereceki adam benzerliği
 bkz ruhi çenet kınalı bebeğ vidyosu
 bkz gözleri kınalığ bebeğ şeklide güzel surat
 ene habbe la mekekane uzun adame haçane le kaçane
