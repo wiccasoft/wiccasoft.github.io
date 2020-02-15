@@ -6,6 +6,7 @@
 
 <!--
 bkz dan brazilian vs cem yılmaz
+https://www.uludagsozluk.com/k/rte-darbe-gecesi-tank%C4%B1n-topun-%C3%BCzerine-y%C3%BCr%C3%BCd%C3%BC/&w=gd yürümedi mi
 https://www.uludagsozluk.com/k/cem-in-serenay-%C4%B1-aldataca%C4%9F%C4%B1-kad%C4%B1n/ bkz cemcim bu kadar zevskik olma yahu
 https://www.uludagsozluk.com/k/cem-in-serenay-%C4%B1-aldataca%C4%9F%C4%B1-kad%C4%B1n/ bkz aleyna tilki
 bkz hüseyin nihal atsız barack hüseyin obama kavgası
