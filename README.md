@@ -6,6 +6,7 @@
 
 
 <!-- 
+bkz beşer esadın askerlerini doğu gutaya sürmesi
 bkz facebook a atatürk fotosu atınca it gibi dağılan emperyalistler
 bkz facebook mkemalin askerleriyiz sayfasının 3.0000.0000 layk alması
 bkz ne mutlu türküm diyince it gibi dağılan osmanlılar
