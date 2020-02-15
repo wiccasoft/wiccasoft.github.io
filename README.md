@@ -5,12 +5,6 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
-bkz siklenmeyeyen biri olmanın verdiği raadlık
-https://www.uludagsozluk.com/k/cristoph-daum-fenerbah%C3%A7e-ye-d%C3%B6ns%C3%BCn/
-https://www.uludagsozluk.com/k/cem-uzan-%C4%B1n-%C3%BClkeye-d%C3%B6nmek-i%C3%A7in-bitmeyen-%C3%A7abas%C4%B1/
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-%C4%B1n-ankarag%C3%BCc%C3%BC-n%C3%BC-motive-etmesi/
-https://www.youtube.com/watch?v=-NxN0Y5mrRc zuahhahaha
-https://www.youtube.com/watch?v=t-LeppPbouY mevzu kale arkasıysa gerisi tolga cüercü
 https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/&w=bg bkz kedi uzanamadığı cüere tolga dermiş 
 bkz fener kale arkası bilet arayan kız
 https://galeri14.uludagsozluk.com/853/aleyna-tilki-nin-dudaklar%C4%B1_1978798_m.jpg
