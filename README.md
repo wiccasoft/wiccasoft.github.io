@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz bir gece ansızın hakkari van muş
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vs-mansur-yava%C5%9F/&w=bg karar vermesi zor
 bkz osmanlının bırakıp kaçtığı toprakları geri alacam diyen kamalcı
 bkz götünde don olmayan forumcu ergenlerin güldürmesi eved
