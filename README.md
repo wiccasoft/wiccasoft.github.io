@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/tc-iyesta-sert/
 ene habbe la mekekane uzun adame haçane le kaçane
 yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
+https://eksisozluk.com/fatih-tezcanin-ataturke-virus-demesi--6367104?a=popular buralar karışır vaziyet alın
 -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
