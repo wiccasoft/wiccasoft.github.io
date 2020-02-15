@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.uludagsozluk.com/k/bakir-oldu%C4%9Fu-halde-patlak-kar%C4%B1ya-nikah-k%C4%B1yan-erkek/&w=bg ılıktır demiştim
 https://www.uludagsozluk.com/k/z%C3%BCb%C3%BCk/&w=bg  bkz re ce tayi yi er do ğan
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz re ce tayyiğ eroğan re ce ty yi erdo ğan
