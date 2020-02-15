@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!-- 
+bkz tosun paşanın gümbür gümbür geldiği gerçeği
 bkz üstad abdulhamdicilerin pısması
 bkz vallaha sataram ülkeyi haa
 bkz ülkemde fenerli görmek istemiyorum diyenlerin pısması
