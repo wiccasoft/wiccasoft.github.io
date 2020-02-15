@@ -6,7 +6,8 @@
 
 <!--
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg
-https://www.uludagsozluk.com/k/asude-defne-%C3%B6zkan/&w=bg bkz yaşıtı olunan kız
+https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg 
+https://www.uludagsozluk.com/k/asude-defne-%C3%B6zkan/&w=bg bkz amerika için burs arayan kız
 https://www.uludagsozluk.com/k/ankarag%C3%BCc%C3%BC-n%C3%BCn-fener-e-d%C3%B6%C5%9Fedi%C4%9Fi-boru/ damat istifa
 https://www.uludagsozluk.com/k/15-%C5%9Fubat-2020-ankarag%C3%BCc%C3%BC-fenerbah%C3%A7e-ma%C3%A7%C4%B1/&w=gd
 https://galeri.uludagsozluk.com/r/uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BC-bir-insana-benzet-1978737/ 
