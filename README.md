@@ -5,6 +5,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkzmustafa kamal atacücü vs recep tayyip erdoğan
+https://www.uludagsozluk.com/k/atat%C3%BCrk-ve-tayyip-erdo%C4%9Fan-aras%C4%B1ndaki-farklar/&w=bg
 bkz adana01 deki atarlı gençler
 bkz vatansever abilerin varkene lafa girme genç
 https://www.uludagsozluk.com/k/evlilik-istemedi%C4%9Fi-i%C3%A7in-b%C4%B1%C3%A7aklanan-gen%C3%A7/
