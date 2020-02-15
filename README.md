@@ -3,7 +3,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg rumlar ve pontus rumları
-bkz mustafa akıncının yerim yavru vatandır açıklaması
 bkz mustafa akıncının mustafa kaçanın tweetini retweetlemesi
 bkz haçan kaçanın yerim mustafa akıncının yeridir tweeti
 bkz mustafa akıncının ikinci mustafa kemal olmayacağım açıklması
