@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-bkz türklerin onları kimsenin sevmediğini bi türlü anlamaması
+bkz türklerin en sevilen millet olma sebepleri
 bkz elleri meşaleli kızgın kamalcıların dağılması
 bkz haluk kırcının akıncı provakasyonun gelmeyin diye kalabalığı dağıtması
 bkz akınsoft un akıncının arkadasındayız açıklaması
