@@ -6,6 +6,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg bkz 3 temmuz kurbanı 
+https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-club/ 
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ bkz hain osmanlının bırakıp kaçtığı topraklar 
 https://www.uludagsozluk.com/k/%C3%BClkemde-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=bg
 -->
