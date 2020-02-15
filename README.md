@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
+<!-- https://www.uludagsozluk.com/k/ak-partililerin-ortak-%C3%B6zellikleri/&w=gd analarının sütünün ak olması -->
 
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
 
