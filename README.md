@@ -5,6 +5,9 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz fener kale arkası bilet arayan kız
+https://eksisozluk.com/15-subat-2020-ankaragucu-fenerbahce-maci--6351857?a=popular 
+https://eksisozluk.com/amerikaya-gitmek-icin-burs-arayan-kiz--6367982?a=popular
 https://www.uludagsozluk.com/k/galatasaray%C4%B1n-kad%C4%B1k%C3%B6yde-fenere-d%C3%B6%C5%9Feyece%C4%9Fi-boru/&w=bg
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg kop gel günahlarından
 https://www.uludagsozluk.com/k/r%C4%B1dvan-%C4%B1-a%C3%A7mak/&w=bg bkz hiç açık vermeyen fıstık
