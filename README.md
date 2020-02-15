@@ -3,6 +3,9 @@
 
 
 <!-- 
+ene habbe le hebbeke lö uzun adam haçane le kaçane
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
+yanım uzun adamın yanıdır gelen gelsin sonra ağlamayın
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ ümmetin başına gelmiş en güzel şey
 https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg bkz adam gibi adam 
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/ bkz ruhi çenet testeredeki adam benzerliği -->
