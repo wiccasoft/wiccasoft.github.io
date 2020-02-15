@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+https://www.uludagsozluk.com/k/game-of-thrones-taki-kerhaneci/&w=bg hay taşşaklarına kurban her eve lazım
 bkz atın üstündeki türkse yüktür
 bkz ne mutlu öcalanım diyene
 https://www.uludagsozluk.com/k/game-of-thrones-taki-kerhaneci/&w=bg bkz baban
