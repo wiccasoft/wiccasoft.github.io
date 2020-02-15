@@ -6,7 +6,7 @@
 
 <!--
 bkz cem korkmaz vs cem yılmaz
-bkz 41 yaşında evlenmediği için dayayk yiyen genç
+bkz ne mutlu öcalana dediği için bıçaklanan genç
 bkz abdullah öcalanın ne mutlu öcalana demesi
 https://www.uludagsozluk.com/k/milleti-aray%C4%B1p-sap%C4%B1kl%C4%B1k-yapan-cumhurba%C5%9Fkan%C4%B1/ telefona üfle
 bkz atacücünün süper bi şey olduğu gerçeğini bir kez daha anlamak
