@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!--
+bkz ahmet kayanın karısının yetmez ama evetçi olması
 https://www.uludagsozluk.com/k/sezen-aksu-nun-yetmez-ama-evet%C3%A7i-olmas%C4%B1/ bkz ahmet kayanın karısı
 https://www.uludagsozluk.com/k/hdp-van-milletvekilinin-evinde-ter%C3%B6rist-saklamas%C4%B1/ yav he he
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-taraf%C4%B1ndan-ma%C4%9Fdur-edilen-akp-liler/ analarını sikecem bro
