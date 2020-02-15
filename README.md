@@ -2,30 +2,14 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!--
+bkz elleri meşaleli kızgın böceklerin dağılması
 bkz böceklerin önüne top kek atıp deney yapmak
 bkz böceklerin üstün genlerini çalmak isteyen alman ve rus ajanları
 bkz türklerin böceklere benzediği gerçeği
 bkz mucize doktordaki böcek suratlı ergen
 bkz türklerin üstün ırk olduğunun çok belli olması
 https://www.uludagsozluk.com/k/en-kaliteli-millet/&w=bg bkz türkler
-bkz bütün milletlerin türklerin üstün ırk olduğunu kabullenmesi arapların kabullenemesi
-bkz araplar türkler arasındaki üstün ırk savaşı
 https://www.uludagsozluk.com/k/araplar%C4%B1n-%C3%BCst%C3%BCn-%C4%B1rk-olmas%C4%B1/&w=bg
-bkz abdullah çatlının türkler ancak yarramı yer demesi
-bkz barack obamanın türklerin önünde diz çöküp af dilemesi
-bkz amın sıçtığı türk ırkçıların güldürmesi
-bkz te ce nin it sıçmıkları beni yakalamanız ne mutlu türk dedirtmek için 40 fırın ekmeke yemeniz lazım 
-https://www.uludagsozluk.com/e/42858936/ hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/e/42859032/ ülkenini de al git amın sıçtığı
-bkz sizin de ananızın amı orospunun sıçtıkları
-https://www.uludagsozluk.com/k/abdullah-%C3%B6calan/&w=bg 
-bkz türklerin hala adıma başlık açamamaları 
-bkz türklerin ırkçılık dışında dünyaya katkıları
-bkz türklerin virüs gibi bişey olduğu gerçeği
-bkz aldığımız nefesi türkler borçlu olduğum iddaları
-bkz türklerin ülkelerini cennet sanmaları
-https://www.uludagsozluk.com/e/42859032/ bkz şu cennet ülkeyi şuheda fışkırracak şuheda
-bkz rusların türklerin çok süper bi millet olduğunu sonunda anlamaları
 bkz mustafa akıncın türk önde türk ileri diye bağırması
 bkz mustafa kemalin akıl hocasının senin adın mustafa kamal olsun demesi
 bkz hala adıma başlık açamayan kızgın türkler
