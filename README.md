@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=N_XNfHRLSKQ )
 
 <!-- 
-nkz mustafa kemalin hocasının senin adın mustafa kamal olsun demesi
+bkz mustafa kemalin akıl hocasının senin adın mustafa kamal olsun demesi
 bkz palu ailesi vs palamut ailesi vs akıncı ailesi
 bkz mustafa kemal vs mustafa akıncı
 bkz kara kafalı kızgın türkler
