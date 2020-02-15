@@ -4,7 +4,7 @@
 
 <!-- 
 bkz grup vitamindeki ismail
-bkz ellerim kırısaydı da imamaoğlana pandik atmasaydım
+bkz sonra sen gelip benim bokumun üstüne sıçcaksın öylemiiii
 bkz ev yapacaksan tuğladan gelin alacaksan wuhandan
 https://www.uludagsozluk.com/k/tc-iyesta-sert/
 bkz ruhi çenet testeredeki adam benzerliği
