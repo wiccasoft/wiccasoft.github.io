@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz surilerin türklere arapça öğretmesi
 https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz hatay kızları
 https://www.uludagsozluk.com/k/kendini-t%C4%B1r-a-asarak-intihar-eden-%C5%9Fof%C3%B6r/ bkz ezik oç
 https://www.uludagsozluk.com/k/k%C4%B1z-arkada%C5%9F%C4%B1n%C4%B1n-pasaportuyla-yakalanan-somalili/ bkz ezik oç
