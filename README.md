@@ -6,6 +6,7 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!-- 
+https://www.uludagsozluk.com/k/sen-gelme-ulan-ay%C4%B1/&w=bg gelirsem babanın yanında sikerim zaten seni
 bkz imamaoğlanın babasının benim oğlan da iyi kalecidir yaşağı ollim oynayın demesi
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 bkz durduk yerer adamın amcığına koyan şarkılar
