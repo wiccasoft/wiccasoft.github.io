@@ -1,6 +1,8 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg bkz hele yarrama bak hele
+https://www.uludagsozluk.com/k/arap-milleti/&w=gd bkz hele yarrama bak hele
 bkz sözlük hesabı satmak isteyen varsa alırım hele yarrama bak hele capsi atacam herkese
 https://www.uludagsozluk.com/k/500-tl-verseler-rakip-tak%C4%B1m-%C3%BCst%C3%BCyle-gezer-misin/  
 https://www.uludagsozluk.com/k/what-is-this-am%C4%B1na-koyay%C4%B1m/ bkz hele yarrama bak hele
