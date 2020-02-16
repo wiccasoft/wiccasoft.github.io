@@ -3,7 +3,7 @@
 
 <!-- 
 bkz 41 yaşında top teptiğimi sanan hırboların güldürmesi
-https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz ayayğının ayarına sokam amınoğlu 
+https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz ayağının ayarına sokam amınoğlu 
 https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg pas yapamıyomuş
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar-profili/&w=bg bkz ayayğının ayaraına sokam
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg aayağının ayarına sokam
