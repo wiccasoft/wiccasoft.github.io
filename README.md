@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz kamal kılıçtaroğlanın dersimin desabını verceksiniz demesi
+bkz kamal kılıçtaroğlanın dersimin hesabını verceksiniz demesi
 https://www.uludagsozluk.com/k/halil-inalc%C4%B1k/&w=bg yav he he
 https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg aüstad diyeceksiniz 
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-atat%C3%BCrk-e-vir%C3%BCs-demesi/&w=gd yalan mı atacücük beyinli
