@@ -1,6 +1,8 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz imama hatip lisesi öğretmenlerinin paraya para dememesi
+https://www.uludagsozluk.com/k/imam-hatip-lisesinde-abd%C3%BClhamit-portresi-skandal%C4%B1/
 https://eksisozluk.com/aslanlar-gibi-askerligini-yapmis-sozlukculer--6196100?a=popular bkz koçlarım benim
 bkz imamoğlanın babasının oğlanı yollim aşağıda oynayın demesi
 bkz hababam sınıfında gaza gelen tarih hocası
