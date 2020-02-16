@@ -2,6 +2,8 @@
 
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://www.uludagsozluk.com/k/adem-b%C3%BCy%C3%BCk-vs-alex-de-souza/
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz vurrr ayayağının ayarına sokam
 bkz 41 yaşında top teptiğimi sanan hırbolar
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz kendinni messi sanan hırbo
