@@ -1,40 +1,5 @@
 [![Image](waste/Screenshot_2020-02-16_11-41-41.png)](https://www.youtube.com/watch?v=BV1RcLhMFYs)
 
-
-<!-- 
-bkz en iyi ekşciclerin maç yorumladığı gerçeği https://www.youtube.com/watch?v=BV1RcLhMFYs
-https://eksisozluk.com/16-subat-2020-malatyasporun-verilmeyen-penaltisi--6369254?a=popular anlatma heyecanı kaçıyo olm
-https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-a-verilen-penalt%C4%B1/ anlat pampa ben dinliyorum
-https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg kendini messi sanan hırbo 
-https://www.uludagsozluk.com/k/galatasaray%C4%B1m%C4%B1z%C4%B1n-%C5%9Fiir-gibi-top-oynamas%C4%B1/ anlat pampa
-https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-yeni-malatyaspor-ma%C3%A7%C4%B1/&w=gd 
-https://eksisozluk.com/16-subat-2020-galatasaray-yeni-malatyaspor-maci--6346312?a=popular düzgün anlatın şunu oçları
-https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz ayağının ayarına sokam amınoğlu 
-https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg pas yapamıyomuş
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar-profili/&w=bg bkz ayayğının ayaraına sokam
-https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg aayağının ayarına sokam
-https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-a-verilen-penalt%C4%B1/
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-https://www.uludagsozluk.com/k/adem-b%C3%BCy%C3%BCk-vs-alex-de-souza/
-https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz vurrr ayayağının ayarına sokam
-bkz atacüccü attan düşün totosunu kırıp gazi oldu yalanı
-bkz atacücüc ismete vurdurmadı yalanı
-https://www.uludagsozluk.com/k/halil-inalc%C4%B1k-vs-ilber-ortayl%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/benimle-ya%C5%9Fayan-adam-benim-atam-olamaz/&w=bg
-bkz kamal kılıçtaroğlanın dersimin hesabını verceksiniz demesi
-https://www.uludagsozluk.com/k/halil-inalc%C4%B1k/&w=bg yav he he
-https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg aüstad diyeceksiniz 
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-atat%C3%BCrk-e-vir%C3%BCs-demesi/&w=gd yalan mı atacücük beyinli
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-https://www.uludagsozluk.com/k/500-tl-verseler-rakip-tak%C4%B1m-%C3%BCst%C3%BCyle-gezer-misin/  
-https://www.uludagsozluk.com/k/what-is-this-am%C4%B1na-koyay%C4%B1m/ bkz hele yarrama bak hele
-bkz iyi ki kötü günler için bi kamyon iphone x almışım denilen anlar
-bkz borcunu iphone x satıp kapatan raad esnaf
-https://www.uludagsozluk.com/k/twitchteki-kad%C4%B1n-yay%C4%B1nc%C4%B1lar/ lol
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-https://www.uludagsozluk.com/k/tayyibin-%C3%BClkeyi-bat%C4%B1rmas%C4%B1/ zuahahahahhaha
--->
-
 [![Image](waste/Screenshot_2020-02-15_08-31-19.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](waste/Screenshot_2020-02-14_21-34-11.png)]( https://www.youtube.com/watch?v=An7ylfOhlOs )
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
