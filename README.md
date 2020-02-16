@@ -3,6 +3,8 @@
 <!-- 
 bkz cüneyt çakır ingilizcesi
 bkz akp nin sakfan türkleri asimile etmesi
+https://www.uludagsozluk.com/k/illerin-iq-ortalamas%C4%B1-ve-yerel-se%C3%A7im-sonu%C3%A7lar%C4%B1/ 
+bkz denize yakın yerlerde iq nun artması
 bkz akp nin 5 milyon suriyle türkleri çiftleştirip kırma ırk yaratma projesi
 https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz hatay kızları
 https://www.uludagsozluk.com/k/kendini-t%C4%B1r-a-asarak-intihar-eden-%C5%9Fof%C3%B6r/ bkz ezik oç
