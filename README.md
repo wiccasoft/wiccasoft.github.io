@@ -2,30 +2,16 @@
 
 <!-- 
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-https://www.uludagsozluk.com/k/1-milyon-tl-verseler-oyunuzu-satar-m%C4%B1s%C4%B1n%C4%B1z/ zuahahah 1tl verirm sana
+https://www.uludagsozluk.com/k/1-milyon-tl-verseler-oyunuzu-satar-m%C4%B1s%C4%B1n%C4%B1z/ zuahahah 1tl veririm sana
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.youtube.com/watch?v=17NNpb1Ou-E de siktir ol
 bkz kamalcıların dersim katliamı deyince it gibi dağılması
 bkz k kılıçtaroğlanın dersimin hesabını verceksiniz demesi
-bkz k kılıçtaroğlanın bi tane yolsuzluğumu bulunsiyaset arenasında çekilem açıklaması
-bkz k kılıçtaroğlanın biz de amuk olmaz anadın mı meclise geliriz demesi
-bkz k kılıçtaroğalnın meclis komisyonuna verdiği önerge
-bkz celal kılıçtaroğlunun kk yı abilikten reddetmesi
-bkz erol mütercimlerin kafasını traş ettimesi
-bkz bahcelinni kk ile olumlu temaslarda bulunduk açıklaması
 bkz kk nın skk ysk kyk yı batırıp kaçması
 https://www.uludagsozluk.com/k/k-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-biz-yolsuzluk-yapmay%C4%B1z-demesi/
-bkz kk nın biz de yamuk olmaz anadın mı demesi
-bkz babam öldüğünden beri bana iphone aan olmadı diyenm çocuk
-bkz borcu yüzünden intihar eden tır şöförü
-bkz tır şöşfrleri derneğinin ölen tırcılar allahın takdiri demesi
-https://www.uludagsozluk.com/k/borcu-y%C3%BCz%C3%BCnden-intihar-eden-t%C4%B1r-%C5%9Fof%C3%B6r%C3%BC/
-bkz erdoğanın apple cı olması
-bkz erol mütercimlerin kafasını traş etmesi
 https://www.youtube.com/watch?v=kVTNMsVnM-g lol
 bkz emre belezoğlunun intihar etmesi
 https://www.uludagsozluk.com/e/42866387/ lol
-bkz cüneyt çakır ingilizcesi
 bkz 10 milyon almana vatandaşlık verilmesi
 bkz akp nin almanlara tanıdığı ayrıcalıklar
 bkz denize yakın yerlere gittikçe iq nun artması
