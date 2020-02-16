@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz 41 yaşında top teptiğimi sanan hırbolar
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz kendinni messi sanan hırbo
 bkz atacüccü attan düşün totosunu kırıp gazi oldu yalanı
 bkz atacücüc ismete vurdurmadı yalanı
