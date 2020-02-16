@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/e/42865221/ seni doğuran babana sıçayım amınoğlu
 https://www.uludagsozluk.com/k/baban%C4%B1n-%C3%B6lmesi/&w=bg babişkosu ölmesin yaaaa
 https://eksisozluk.com/aslanlar-gibi-askerligini-yapmis-sozlukculer--6196100?a=popular bi gece ansızın musul şam
 https://www.uludagsozluk.com/k/serdar-aziz-in-ankarag%C3%BCc%C3%BC-ma%C3%A7%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-faul/
