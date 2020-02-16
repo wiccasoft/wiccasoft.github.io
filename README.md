@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ergenlerin yine kafa sikmesi
+https://www.uludagsozluk.com/k/babam-%C3%B6ld%C3%BCkten-sonra-kimse-bana-ceket-alm%C4%B1yor/ ağlaltın oç
 https://www.uludagsozluk.com/k/baban%C4%B1n-%C3%B6lmesi/&w=bg babaişkosuna düşkün eykeği üzer
 https://www.uludagsozluk.com/k/pavyon-kad%C4%B1n%C4%B1n-size-a%C5%9F%C4%B1k-olmas%C4%B1/ bkz memati yapma be olm
 https://www.uludagsozluk.com/e/42865221/ seni doğuran babana sıçayım amınoğlu
