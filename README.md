@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
- bkz hele yarrama bak hele capsi nin güldürmesi
+bkz sözlük hedsabı satmak isteyen varsa alırım hele yarrama ba hele capsi atacam herkese
 https://www.uludagsozluk.com/k/500-tl-verseler-rakip-tak%C4%B1m-%C3%BCst%C3%BCyle-gezer-misin/  bkz hele yarrama bak hele
 https://www.uludagsozluk.com/k/what-is-this-am%C4%B1na-koyay%C4%B1m/ bkz hele yarrama bak hele
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-adamd%C4%B1r/&w=gd bkz hele yarrama bak hele
