@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/k/what-is-this-am%C4%B1na-koyay%C4%B1m/ bkz hele yarrama bak hele
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-adamd%C4%B1r/&w=gd bkz hele yarrama bak hele
 bkz iyi ki kötü günler için bi kamyon iphone x almışım denilen anlar
 bkz borcunu iphone x satıp kapatan raad esnaf
