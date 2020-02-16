@@ -2,7 +2,7 @@
 
 <!-- 
 bkz sözlük hesabı satmak isteyen varsa alırım hele yarrama bak hele capsi atacam herkese
-https://www.uludagsozluk.com/k/500-tl-verseler-rakip-tak%C4%B1m-%C3%BCst%C3%BCyle-gezer-misin/  bkz hele yarrama bak hele
+https://www.uludagsozluk.com/k/500-tl-verseler-rakip-tak%C4%B1m-%C3%BCst%C3%BCyle-gezer-misin/  
 https://www.uludagsozluk.com/k/what-is-this-am%C4%B1na-koyay%C4%B1m/ bkz hele yarrama bak hele
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-adamd%C4%B1r/&w=gd bkz hele yarrama bak hele
 bkz iyi ki kötü günler için bi kamyon iphone x almışım denilen anlar
