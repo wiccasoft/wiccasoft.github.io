@@ -2,9 +2,7 @@
 
 <!-- 
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-https://www.uludagsozluk.com/k/1-milyon-tl-verseler-oyunuzu-satar-m%C4%B1s%C4%B1n%C4%B1z/ zuahahah 1tl veririm sana
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-https://www.youtube.com/watch?v=17NNpb1Ou-E de siktir ol
+https://www.youtube.com/watch?v=17NNpb1Ou-E de siktir lo
 bkz kamalcıların dersim katliamı deyince it gibi dağılması
 bkz k kılıçtaroğlanın dersimin hesabını verceksiniz demesi
 bkz kk nın skk ysk kyk yı batırıp kaçması
