@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar-profili/&w=bg bkz ayayğının ayaraına sokam
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg aayağının ayarına sokam hırboo
 https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-a-verilen-penalt%C4%B1/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
