@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz babişkom öldükten sonra iphone almıyo kimşe bana
+bkz babişkom öldükten sonra iphone almıyo kimşe bana yaaaaaaaaa bana ne yaaaaaaaa
 https://www.uludagsozluk.com/e/42865221/ bkz babikom öldü ceket almiy bana kimşe
 bkz ergenlerin yine kafa sikmesi
 bkz osmanoğlunun rio ya kaçması
