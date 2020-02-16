@@ -2,7 +2,7 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/k/babam-%C3%B6ld%C3%BCkten-sonra-kimse-bana-ceket-alm%C4%B1yor/&w=gd babanı sikeyim 
+https://www.uludagsozluk.com/k/babam-%C3%B6ld%C3%BCkten-sonra-kimse-bana-ceket-alm%C4%B1yor/&w=gd babana sıçayım senin
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/ bkz laikçi itlerin korkulu rüyası aslanlar
 https://www.uludagsozluk.com/k/selahaddin-eyyubi/&w=bg anadoluya islamı sokan adam gibi adam
 https://www.uludagsozluk.com/k/menemen-kubilay-an%C4%B1t%C4%B1-ve-bak%C4%B1ry%C4%B1rtan-salih/
