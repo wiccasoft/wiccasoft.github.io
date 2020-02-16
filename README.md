@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg ıstırılası memeler
 https://www.uludagsozluk.com/k/ekremin-pazar-kahvalt%C4%B1s%C4%B1/ bkz ekremin köy sofrası
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/&w=bg cihad aslanları
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/&w=bg allahın aslanları
