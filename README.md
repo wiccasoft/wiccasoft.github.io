@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!--
+bkz atacücünn ismete vurduruğu iddaları
 bkz atacücünün pipisinin cücük gibi olduğu iddaları
 https://eksisozluk.com/ataturk-hegemonyasinin-yikilmasi--6368171?a=popular 
 https://www.uludagsozluk.com/k/m-kemal-in-kad%C4%B1nlara-%C3%A7ok-fazla-hak-tan%C4%B1mas%C4%B1/
