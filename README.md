@@ -1,6 +1,9 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!--
+https://eksisozluk.com/m-kemalin-attan-dustugu-icin-gazi-unvani-almasi--6367724?a=popular bkz hani marjinal bizdik
+https://eksisozluk.com/ersun-yanal--126676?a=popular  bkz hani marjinal bizdik
+https://eksisozluk.com/vedat-muriqi--4467915?a=popular  bkz hani marjinal bizdik
 https://eksisozluk.com/altay-bayindir--5535436?a=popular bkz hani marjinal bizdik
 https://eksisozluk.com/insanlarin-cani-ceksin-diye-ugrasan-tuhaf-kadin--6368437?a=popular hani marjinal bizik -->
 
