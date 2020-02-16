@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ gerikekalı amk
 bkz memati kıbrısa adam yollayın
 bkz kankağğ yeni dünya düzenini kurak mı kankağğğ
 bkz kıbrısı versek mi kankağğ
