@@ -3,6 +3,7 @@
 <!-- 
 bkz cüneyt çakır ingilizcesi
 bkz 10 milyon almana vatandaşlık verimlesi
+bkz akp nin almanlara tanıdığı ayrıcalıklar
 https://www.uludagsozluk.com/k/5-milyon-suriyeliye-vatanda%C5%9Fl%C4%B1k-verilmesi/ bkz türklerin asimile olması
 bkz akp nin sakfan türkleri asimile etmesi
 https://www.uludagsozluk.com/k/illerin-iq-ortalamas%C4%B1-ve-yerel-se%C3%A7im-sonu%C3%A7lar%C4%B1/ 
