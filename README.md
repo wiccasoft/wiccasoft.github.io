@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz bahcelinni kk ile olumlu temaslarda bulunduk açıklaması
 bkz kk nın skk ysk kyk yı batırıp kaçması
 https://www.uludagsozluk.com/k/k-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-biz-yolsuzluk-yapmay%C4%B1z-demesi/
 bkz kk nın biz de yamuk olmaz anadın mı demesi
