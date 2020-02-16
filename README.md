@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ergenlerin yine kafa sikmesi
+https://www.uludagsozluk.com/k/gandalf-muharebeye-gelmek-i%C3%A7in-neden-5-g%C3%BCn-bekledi/&w=bg 
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/&w=bg allahın aslanları
 https://www.uludagsozluk.com/k/babam-%C3%B6ld%C3%BCkten-sonra-kimse-bana-ceket-alm%C4%B1yor/ ağlaltın oç
 https://www.uludagsozluk.com/k/baban%C4%B1n-%C3%B6lmesi/&w=bg babaişkosuna düşkün eykeği üzer
