@@ -2,6 +2,7 @@
 
 <!-- 
 bkz hababam sınıfında gaza gelen tarih hocası
+bkz hain osmanlının acele etme papaz efendiyi topraklarıyla başbaşa bırakması
 https://www.uludagsozluk.com/k/batum-u-2-abdulhamit-d%C3%B6neminde-kaybetmemiz/&w=bg bkz bi gece ansızın batum
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ bkz hain osmanlının kamalın itlerini görünce kaçması
 https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz topraklarını genişletmek isteyen ergen
