@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/e/42866387/ lol
 bkz cüneyt çakır ingilizcesi
 bkz 10 milyon almana vatandaşlık verilmesi
 bkz akp nin almanlara tanıdığı ayrıcalıklar
