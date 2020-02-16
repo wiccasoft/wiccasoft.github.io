@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ergenlerin yine kafa sikmesi
+https://www.uludagsozluk.com/k/serdar-aziz-in-ankarag%C3%BCc%C3%BC-ma%C3%A7%C4%B1nda-yapt%C4%B1%C4%9F%C4%B1-faul/
 https://www.uludagsozluk.com/k/gandalf-muharebeye-gelmek-i%C3%A7in-neden-5-g%C3%BCn-bekledi/&w=bg 
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/&w=bg allahın aslanları
 https://www.uludagsozluk.com/k/babam-%C3%B6ld%C3%BCkten-sonra-kimse-bana-ceket-alm%C4%B1yor/ ağlaltın oç
