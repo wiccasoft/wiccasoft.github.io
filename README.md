@@ -6,8 +6,8 @@
 [![Image](waste/Screenshot_2020-02-12_23-57-53.png)]( https://www.youtube.com/watch?v=p7ph9MvRBCk )
 
 <!-- 
-bkz imamaoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-durduk yerer adamın amcığına koyan şarkılar
+bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
+bkz durduk yerer adamın amcığına koyan şarkılar
 https://www.uludagsozluk.com/k/durduk-yere-adam%C4%B1n-am%C4%B1na-koyan-%C5%9Fark%C4%B1lar/&w=bg 
 -->
 [![Image](waste/Screenshot_2020-02-12_22-46-39.png)]( https://www.youtube.com/watch?v=ZP2YtHCXM6E )
