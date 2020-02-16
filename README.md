@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz kamalcıların dersim katliamı deyince it gibi dağılması
 bkz k kılıçtaroğlanın dersimin hesabını verceksiniz demesi
 bkz k kılıçtaroğlanın bi tane yolsuzluğumu bulunsiyaset arenasında çekilem açıklaması
 bkz k kılıçtaroğlanın biz de amuk olmaz anadın mı meclise geliriz demesi
