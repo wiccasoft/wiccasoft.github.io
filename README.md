@@ -1,7 +1,8 @@
-[![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
+[![Image](skynet/Screenshot_2020-02-15_14-54-31.png)](https://www.youtube.com/watch?v=BV1RcLhMFYs)
 
 
 <!-- 
+bkz en iyi ekşciclerin maç yorumladığı gerçeği https://www.youtube.com/watch?v=BV1RcLhMFYs
 https://eksisozluk.com/16-subat-2020-malatyasporun-verilmeyen-penaltisi--6369254?a=popular anlatma heyecanı kaçıyo olm
 https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-a-verilen-penalt%C4%B1/ anlat pampa ben dinliyorum
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg kendini messi sanan hırbo 
