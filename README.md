@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz kendinni messi sanan hırbo
 bkz atacüccü attan düşün totosunu kırıp gazi oldu yalanı
 bkz atacücüc ismete vurdurmadı yalanı
 https://www.uludagsozluk.com/k/halil-inalc%C4%B1k-vs-ilber-ortayl%C4%B1/&w=bg
