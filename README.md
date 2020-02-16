@@ -2,6 +2,7 @@
 
 <!--
 https://www.youtube.com/watch?v=t-LeppPbouY
+https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
 https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg
 bkz imamaoğlanın babasının oğlanı yollim az oynayın aşağıda demesi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-samimiyetini-yitirmesi/&w=bg
