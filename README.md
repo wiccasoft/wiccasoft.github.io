@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/k/gandalf-muharebeye-gelmek-i%C3%A7in-neden-5-g%C3%BCn-bekledi/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/&w=bg bkz allahın aslanları
 bkz atacücünün attan düşüp totosunun gazi olması
 bkz imamoğlanın babasının oğlanı yollim aşağıda oynayın demesi
