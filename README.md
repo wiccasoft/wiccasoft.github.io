@@ -2,7 +2,7 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/e/42865221/ babikom öldü ceket almiy bana kimşe
+https://www.uludagsozluk.com/e/42865221/ bkz babikom öldü ceket almiy bana kimşe
 bkz ergenlerin yine kafa sikmesi
 bkz osmanoğlunun rio ya kaçması
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/ bkz bi gece ansızızın şam
