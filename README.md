@@ -2,7 +2,7 @@
 
 <!-- 
 bkz türklerin yarrak gibi ortada kalması
-https://www.uludagsozluk.com/k/mansur-yava%C5%9F-adamd%C4%B1r/ adamdır ben gefilim kankağğ
+https://www.uludagsozluk.com/k/mansur-yava%C5%9F-adamd%C4%B1r/ adamdır ben gefilim gangağğ
 https://www.uludagsozluk.com/k/mesut-komiser/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/sanal-dilenciler/ bi şukunu alırım abiiii bi şuku at
 https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-karizma-herif/&w=bg bkz çaycı hüseyin
