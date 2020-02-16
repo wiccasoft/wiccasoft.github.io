@@ -1,4 +1,6 @@
-[![Image](waste/Screenshot_2020-02-16_11-41-41.png)](https://www.youtube.com/watch?v=BV1RcLhMFYs)
+[![Image](skynet/Screenshot_2020-02-16_11-41-41.png)](https://www.youtube.com/watch?v=BV1RcLhMFYs)
+
+[![Image](waste/Screenshot_2020-02-16_06-41-30.png)](https://www.youtube.com/watch?v=Xu3FTEmN-eg)
 
 [![Image](waste/Screenshot_2020-02-15_08-31-19.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](waste/Screenshot_2020-02-14_21-34-11.png)]( https://www.youtube.com/watch?v=An7ylfOhlOs )
