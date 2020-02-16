@@ -15,22 +15,6 @@ https://www.uludagsozluk.com/k/what-is-this-am%C4%B1na-koyay%C4%B1m/ bkz hele ya
 https://www.uludagsozluk.com/k/mansur-yava%C5%9F-adamd%C4%B1r/&w=gd bkz hele yarrama bak hele
 bkz iyi ki kötü günler için bi kamyon iphone x almışım denilen anlar
 bkz borcunu iphone x satıp kapatan raad esnaf
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
-https://www.youtube.com/watch?v=17NNpb1Ou-E de siktir lo
-bkz kamalcıların dersim katliamı deyince it gibi dağılması
-bkz k kılıçtaroğlanın dersimin hesabını verceksiniz demesi
-bkz kk nın skk ysk kyk yı batırıp kaçması
-https://www.uludagsozluk.com/k/k-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-biz-yolsuzluk-yapmay%C4%B1z-demesi/
-https://www.youtube.com/watch?v=kVTNMsVnM-g lol
-bkz emre belezoğlunun intihar etmesi
-https://www.uludagsozluk.com/e/42866387/ lol
-bkz 10 milyon almana vatandaşlık verilmesi
-bkz akp nin almanlara tanıdığı ayrıcalıklar
-bkz denize yakın yerlere gittikçe iq nun artması
-bkz rusların sıcak denizlere inmekten vazgeçmesi
-bkz akp nin sakfan türkleri asimile etmesi
-bkz akp nin 5 milyon suriyle türkleri çiftleştirip kırma ırk yaratma projesi
-https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz hatay kızları
 https://www.uludagsozluk.com/k/twitchteki-kad%C4%B1n-yay%C4%B1nc%C4%B1lar/ lol
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.uludagsozluk.com/k/tayyibin-%C3%BClkeyi-bat%C4%B1rmas%C4%B1/ zuahahahahhaha
