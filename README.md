@@ -2,6 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
+<!-- https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ sen kimsin amın feryadı -->
+
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
 
