@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ergenlerin yine kafa sikmesi
+https://www.uludagsozluk.com/k/pavyon-kad%C4%B1n%C4%B1n-size-a%C5%9F%C4%B1k-olmas%C4%B1/ bkz memati yapma be olm
 https://www.uludagsozluk.com/e/42865221/ seni doğuran babana sıçayım amınoğlu
 https://www.uludagsozluk.com/k/baban%C4%B1n-%C3%B6lmesi/&w=bg babişkosu ölmesin yaaaa
 https://eksisozluk.com/aslanlar-gibi-askerligini-yapmis-sozlukculer--6196100?a=popular bi gece ansızın musul şam
