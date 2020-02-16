@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz hababam sınıfında gaza gelen tarih hocası
 https://www.uludagsozluk.com/k/batum-u-2-abdulhamit-d%C3%B6neminde-kaybetmemiz/&w=bg bkz bi gece ansızın batum
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-ayak-sesleri/ bkz hain osmanlının kamalın itlerini görünce kaçması
 https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz topraklarını genişletmek isteyen ergen
