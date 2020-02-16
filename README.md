@@ -1,26 +1,4 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
-
-<!--
-https://www.youtube.com/watch?v=t-LeppPbouY
-https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
-https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg
-bkz imamaoğlanın babasının oğlanı yollim az oynayın aşağıda demesi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-samimiyetini-yitirmesi/&w=bg
-https://www.uludagsozluk.com/k/177-den-uzun-erkeklerin-hayatta-ba%C5%9Far%C4%B1s%C4%B1z-olmas%C4%B1/
-https://www.uludagsozluk.com/k/cahil-insanlar%C4%B1n-giyime-%C3%B6nem-vermesi/&w=gd
-https://www.uludagsozluk.com/k/imamo%C4%9Flu/&w=bg 
-https://www.youtube.com/watch?v=7xlI64EREC4
-bkz atacücünn ismete vurduruğu iddaları
-bkz atacücünün pipisinin cücük gibi olduğu iddaları
-https://eksisozluk.com/ataturk-hegemonyasinin-yikilmasi--6368171?a=popular 
-https://www.uludagsozluk.com/k/m-kemal-in-kad%C4%B1nlara-%C3%A7ok-fazla-hak-tan%C4%B1mas%C4%B1/
-https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
-https://www.uludagsozluk.com/k/muharrem-ince-ye-kafa-atan-belediye-ba%C5%9Fkan%C4%B1/ bkz hani marjinal bizdik
-https://eksisozluk.com/ersun-yanal--126676?a=popular  bkz hani marjinal bizdik
-https://eksisozluk.com/vedat-muriqi--4467915?a=popular  bkz hani marjinal bizdik
-https://eksisozluk.com/altay-bayindir--5535436?a=popular bkz hani marjinal bizdik
-https://eksisozluk.com/insanlarin-cani-ceksin-diye-ugrasan-tuhaf-kadin--6368437?a=popular hani marjinal bizik -->
-
 [![Image](waste/Screenshot_2020-02-15_08-31-19.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](waste/Screenshot_2020-02-14_21-34-11.png)]( https://www.youtube.com/watch?v=An7ylfOhlOs )
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
