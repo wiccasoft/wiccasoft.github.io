@@ -2,11 +2,11 @@
 
 
 <!-- 
+bkz 41 yaşında top teptiğimi sanan hırbolar
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar-profili/&w=bg bkz ayayğının ayaraına sokam
-https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg aayağının ayarına sokam hırboo
+https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg aayağının ayarına sokam
 https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-a-verilen-penalt%C4%B1/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-bkz 41 yaşında top teptiğimi sanan hırbolar
 https://www.uludagsozluk.com/k/adem-b%C3%BCy%C3%BCk-vs-alex-de-souza/
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz vurrr ayayağının ayarına sokam
 bkz atacüccü attan düşün totosunu kırıp gazi oldu yalanı
