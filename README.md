@@ -1,6 +1,11 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!--
+bkz imamaoğlanın babasının oğlanı yollim az oynayın aşağıda demesi
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-samimiyetini-yitirmesi/&w=bg
+https://www.uludagsozluk.com/k/177-den-uzun-erkeklerin-hayatta-ba%C5%9Far%C4%B1s%C4%B1z-olmas%C4%B1/
+https://www.uludagsozluk.com/k/cahil-insanlar%C4%B1n-giyime-%C3%B6nem-vermesi/&w=gd
+https://www.uludagsozluk.com/k/imamo%C4%9Flu/&w=bg 
 https://www.youtube.com/watch?v=7xlI64EREC4
 bkz atacücünn ismete vurduruğu iddaları
 bkz atacücünün pipisinin cücük gibi olduğu iddaları
