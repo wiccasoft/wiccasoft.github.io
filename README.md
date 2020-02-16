@@ -1,7 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
-bkz 41 yaşında baltaya sap olmuş adam
+https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-bir-baltaya-sap-olamam%C4%B1%C5%9F-adam/&w=bg
 bkz imamoğlanın babasının oğlanı yollim aşağıda oynayın demesi
 bkz özcan denixin aşkım memleriömi beğenmiyosmusun demesi
