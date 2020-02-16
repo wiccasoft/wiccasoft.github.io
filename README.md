@@ -2,7 +2,7 @@
 
 <!-- 
 bkz cüneyt çakır ingilizcesi
-bkz 10 milyon almana vatandaşlık verimlesi
+bkz 10 milyon almana vatandaşlık verilmesi
 bkz akp nin almanlara tanıdığı ayrıcalıklar
 bkz denize yakın yerlere gittikçe iq nun artması
 bkz rusların sıcak denizlere imekten vazgeçmesi
