@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz şu maçı düzgün anlatın o çları
+https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-a-verilen-penalt%C4%B1/ anlat pampa ben dinliyorum
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg kendini messi sanan hırbo 
 https://www.uludagsozluk.com/k/galatasaray%C4%B1m%C4%B1z%C4%B1n-%C5%9Fiir-gibi-top-oynamas%C4%B1/ anlat pampa
 https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-yeni-malatyaspor-ma%C3%A7%C4%B1/&w=gd 
