@@ -2,6 +2,7 @@
 
 
 <!-- 
+https://eksisozluk.com/16-subat-2020-galatasaray-yeni-malatyaspor-maci--6346312?a=popular aç ortayı ordan
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg kendini messi sanan hırbo 
 https://www.uludagsozluk.com/k/g%C3%B6khan-t%C3%B6re/&w=bg bkz ayağının ayarına sokam amınoğlu 
 https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg pas yapamıyomuş
