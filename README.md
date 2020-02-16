@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz cüneyt çakır ingilizcesi
 bkz akp nin sakfan türkleri asimile etmesi
 bkz akp nin 5 milyon suriyle türkleri çiftleştirip kırma ırk yaratma projesi
 https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz hatay kızları
