@@ -2,7 +2,7 @@
 
 <!-- 
 bkz akp nin sakfan türkleri asimile etmesi
-bkz surilerin türklere arapça öğretmesi
+bkz akp nin 5 milyon suriyle türkleri dölleyip kırma ırk yaratma projesi
 https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz hatay kızları
 https://www.uludagsozluk.com/k/kendini-t%C4%B1r-a-asarak-intihar-eden-%C5%9Fof%C3%B6r/ bkz ezik oç
 https://www.uludagsozluk.com/k/k%C4%B1z-arkada%C5%9F%C4%B1n%C4%B1n-pasaportuyla-yakalanan-somalili/ bkz ezik oç
