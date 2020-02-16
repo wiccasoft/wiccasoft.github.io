@@ -4,7 +4,7 @@
 bkz cüneyt çakır ingilizcesi
 bkz 10 milyon almana vatandaşlık verimlesi
 bkz akp nin almanlara tanıdığı ayrıcalıklar
-bkz denize yakın yerlerde iq nun artması
+bkz denize yakın yerlere gittikçe iq nun artması
 bkz rusların sıcak denizlere imekten vazgeçmesi
 bkz akp nin sakfan türkleri asimile etmesi
 bkz akp nin 5 milyon suriyle türkleri çiftleştirip kırma ırk yaratma projesi
