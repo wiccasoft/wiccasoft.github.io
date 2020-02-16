@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/ bkz laikçi itlerin korkulu rüyası aslanlar
 https://www.uludagsozluk.com/k/selahaddin-eyyubi/&w=bg anadoluya islamı sokan adam gibi adam
 https://www.uludagsozluk.com/k/menemen-kubilay-an%C4%B1t%C4%B1-ve-bak%C4%B1ry%C4%B1rtan-salih/
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-komando/&w=bg bkz bi sabaha ansızın menemen
