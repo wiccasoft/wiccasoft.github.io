@@ -5,7 +5,7 @@ bkz cüneyt çakır ingilizcesi
 bkz 10 milyon almana vatandaşlık verilmesi
 bkz akp nin almanlara tanıdığı ayrıcalıklar
 bkz denize yakın yerlere gittikçe iq nun artması
-bkz rusların sıcak denizlere imekten vazgeçmesi
+bkz rusların sıcak denizlere inmekten vazgeçmesi
 bkz akp nin sakfan türkleri asimile etmesi
 bkz akp nin 5 milyon suriyle türkleri çiftleştirip kırma ırk yaratma projesi
 https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz hatay kızları
