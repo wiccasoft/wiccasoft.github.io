@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://www.uludagsozluk.com/k/sa%C3%A7%C4%B1n%C4%B1-boyatan-erkek/&w=bg bkz enes abi
 https://www.uludagsozluk.com/k/twitchteki-kad%C4%B1n-yay%C4%B1nc%C4%B1lar/ lol
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.uludagsozluk.com/k/tayyibin-%C3%BClkeyi-bat%C4%B1rmas%C4%B1/ zuahahahahhaha
