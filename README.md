@@ -1,4 +1,4 @@
-[![Image](skynet/Screenshot_2020-02-15_14-54-31.png)](https://www.youtube.com/watch?v=BV1RcLhMFYs)
+[![Image](skynet/Screenshot_2020-02-16_11-41-41.png)](https://www.youtube.com/watch?v=BV1RcLhMFYs)
 
 
 <!-- 
