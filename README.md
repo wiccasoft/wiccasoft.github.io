@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.youtube.com/watch?v=17NNpb1Ou-E de siktir ol
 bkz kamalcıların dersim katliamı deyince it gibi dağılması
 bkz k kılıçtaroğlanın dersimin hesabını verceksiniz demesi
