@@ -3,16 +3,13 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz memati kıbrısa adam yollayın
 bkz kıbrısı kaç saatte alırız sorunsalı
 bkz berkecan ülkesinde başı açık görmek istmiyormuş beyler
 bkz berkecan 14 yaşında arkadaşları ona deep türkish webte reis diyor
 https://www.uludagsozluk.com/k/%C3%BClkemde-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=bg
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz ağır gay
-bkz memati kıbrısa adam yollayın
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ 
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ gerikekalı amk
-bkz kankağğ yeni dünya düzenini kurak mı kankağğğ
-bkz kıbrısı versek mi kankağğ
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ gerikekalı amk
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ı -->
 
