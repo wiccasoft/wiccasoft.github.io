@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.uludagsozluk.com/k/tayyibin-%C3%BClkeyi-bat%C4%B1rmas%C4%B1/ zuahahahahhaha
 https://www.uludagsozluk.com/k/k%C4%B1z-arkada%C5%9F%C4%B1n%C4%B1n-pasaportuyla-yakalanan-somalili/ bkz oç
 https://www.uludagsozluk.com/e/42866028/ eywalla bro sana da ama beni seviyosan sigarayı bırak
