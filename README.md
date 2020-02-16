@@ -1,6 +1,8 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!--
+bkz atacücünün pipisinin cücük gibi olduğu iddaları
+https://eksisozluk.com/ataturk-hegemonyasinin-yikilmasi--6368171?a=popular 
 https://www.uludagsozluk.com/k/m-kemal-in-kad%C4%B1nlara-%C3%A7ok-fazla-hak-tan%C4%B1mas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%BCst%C3%BC-ba%C5%9F%C4%B1-toplam-100-tl-yi-ge%C3%A7meyen-rezil-tip/&w=bg
 https://www.uludagsozluk.com/k/muharrem-ince-ye-kafa-atan-belediye-ba%C5%9Fkan%C4%B1/ bkz hani marjinal bizdik
