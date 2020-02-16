@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz atacücüc sivsa kongresinden ismete vurdurmadı iddaları
+bkz atacücüc ismete vurdurmadı yalanı
 https://www.uludagsozluk.com/k/halil-inalc%C4%B1k-vs-ilber-ortayl%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/benimle-ya%C5%9Fayan-adam-benim-atam-olamaz/&w=bg
 bkz kamal kılıçtaroğlanın dersimin hesabını verceksiniz demesi
