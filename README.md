@@ -1,6 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
 <!-- 
+bkz borcu yüzünden intihar eden tır şöförü
 bkz tır şöşfrleri derneğinin ölen tırcılar allahın takdiri demesi
 https://www.uludagsozluk.com/k/borcu-y%C3%BCz%C3%BCnden-intihar-eden-t%C4%B1r-%C5%9Fof%C3%B6r%C3%BC/
 bkz erdoğanın apple cı olması
