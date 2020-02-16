@@ -2,6 +2,7 @@
 
 <!-- 
 bkz türklerin yarrak gibi ortada kalması
+bkz x adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-karizma-herif/&w=bg bkz çaycı hüseyin
 https://www.uludagsozluk.com/k/azerbaycan%C4%B1n-karde%C5%9F-%C3%BClke-olmamas%C4%B1/ bkz hele yarrama bak hele
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg bkz hele yarrama bak hele
