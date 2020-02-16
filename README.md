@@ -2,7 +2,7 @@
 
 
 <!-- 
-https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg aferim yazın yazın sonra okuyacam
+https://www.uludagsozluk.com/k/%C3%BCstad-kadir-m%C4%B1s%C4%B1ro%C4%9Flu/&w=bg aüstad diyeceksiniz oçları
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-atat%C3%BCrk-e-vir%C3%BCs-demesi/&w=gd yalan mı yarrak kafası
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahahah
 https://www.uludagsozluk.com/k/500-tl-verseler-rakip-tak%C4%B1m-%C3%BCst%C3%BCyle-gezer-misin/  
