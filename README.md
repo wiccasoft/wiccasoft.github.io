@@ -1,5 +1,7 @@
 [![Image](skynet/Screenshot_2020-02-15_14-54-31.png)]( https://www.youtube.com/watch?v=eV5ME8MTVVA&list=LL1Rh3-MnWbWHIPbwlwQXj3A&index=3968 )
 
+<!-- https://www.uludagsozluk.com/k/arap-milleti/&w=gd bkz türkleri arkadan vuran milet -->
+
 [![Image](waste/Screenshot_2020-02-15_08-31-19.png)]( https://www.youtube.com/watch?v=1zd4lTPxuB0 )
 [![Image](waste/Screenshot_2020-02-14_21-34-11.png)]( https://www.youtube.com/watch?v=An7ylfOhlOs )
 [![Image](waste/Screenshot_2020-02-15_06-33-42.png)]( https://www.youtube.com/watch?v=MnSbZMrEEh4 )
