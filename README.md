@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz küresel empreyalistlerin yerni kuklası
 https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kadro dışı kalmış adam gibi adam
 https://www.uludagsozluk.com/k/bedri-gencer/&w=bg bkz kelimelere sığmayacak adamlar
 bkz ak parti binası önünde toğlaşan kalabalık
