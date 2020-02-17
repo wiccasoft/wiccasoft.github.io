@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://acele-etme-papaz-efendi.uludagsozluk.com/ biri de çıkıp demiyoki papaz efendi bu nedir
 bkz aclele etme papaz efendi nin acele etmemesi
 https://www.uludagsozluk.com/k/akp-ter%C3%B6r-destek%C3%A7isi-bir-partidir/&w=bg
 bkz receğ tayyiğ erdoğana entr girerkene akla fikirlerin gelmesi
