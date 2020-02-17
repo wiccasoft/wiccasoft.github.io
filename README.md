@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ kurtlar vadisi kıbrıs
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz ağır gay
 bkz kıbrısı kaç saatte alırız sorunsalı
 bkz kurtlar vadisi uludagsözlük kıbrıs pazarlığı
