@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/
+https://www.uludagsozluk.com/k/s%C4%B1nava-giren-kar%C4%B1s%C4%B1na-d%C3%BCzenek-kuran-mit-eleman%C4%B1/
 https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
 https://eksisozluk.com/mustafa-kapi--4928478?a=popular
