@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!--
+<!--https://www.uludagsozluk.com/k/askerde-doktora-komutan%C4%B1m-demek/ bkz doktor civanım deyip nabız yoklamak
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz ay tam keko ama gideri var
 https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz tam keko ayol
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ bkz ay keko kaynıyo ayol
