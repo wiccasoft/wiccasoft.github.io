@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz akpnin enkazda kurtarma çalışmalaraına başlaması
 https://twitter.com/arkabesliforum/status/979453504002625537 eywallah genşler
 https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-biritanya-nerde-diyen-kezo/ bkz elif can yetim
