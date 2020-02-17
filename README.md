@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-bkz ekşciilere sosyal medya kullanmayı öğretmek google search tc beştepe recep tayyip erdoğan
+bkz ekşcicilere sosyal medya kullanmayı öğretmek google search tc beştepe recep tayyip erdoğan
 https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir
 bkz ekşcilere wiccasoft un babalarının sarayları olmadığını bilale anlatır gibi analtmak
 bkz ekşcilerin tc bestepe diyer yazılım firmamı takip etmesi
