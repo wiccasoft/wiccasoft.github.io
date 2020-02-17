@@ -2,12 +2,9 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki tane işsiz gün ay yıl
 bkz hamasın israilli kızların twitlerin hacklemesi
 bkz enkaz paralarının üstüne yatmak
-bkz tangır budun doğan ne iş yapıyor sorunsalı
-bkz traveler of gizle anlar ile tangır budun doğanın twittera link aramaya çıkması
-bkz ruhi çenet traveler of secret moments benzerliği
+https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki tane işsiz gün ay yıl
 https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/hamas-%C4%B1n-kad%C4%B1n-foto%C4%9Fraflar%C4%B1yla-hackleme-yapmas%C4%B1/
