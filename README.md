@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşicilerin sarayın enkaz birimlerinde ipucu araması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçünü engellemek için beyin dağıtması
 https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
@@ -12,7 +13,6 @@ https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetl
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://www.uludagsozluk.com/k/tengir-budun/&w=bg ergenlerin arasında ne yapmaya çalıştığını anlamadığım dayı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
-https://www.pinterest.com/wiccasoft/pins/ bkz ekşicilerin sarayın enkaz birimlerinde ipucu araması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz ekşi önündeki çaylak onay listesi
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk-%C3%A7aylak-onay-s%C4%B1ras%C4%B1/&w=bg
