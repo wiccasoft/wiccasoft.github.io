@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-,https://eksisozluk.com/aslanlar-gibi-askerligini-yapmis-sozlukculer--6196100?a=popular yiyişmelik tertipler
+https://www.uludagsozluk.com/k/akp-nin-ge%C3%A7meyen-ekrem-imamo%C4%9Flu-ezikli%C4%9Fi/&w=bg bkz acele etme imamefendi
+https://eksisozluk.com/aslanlar-gibi-askerligini-yapmis-sozlukculer--6196100?a=popular yiyişmelik tertipler
 https://www.uludagsozluk.com/k/askerde-doktora-komutan%C4%B1m-demek/ bkz askerde duşa sokan olaylar
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bbkz o şimdi asker canı neler ister
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg ay dudaklarını ıstırırm ben bunun ayol
