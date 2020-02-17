@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/ido-tatl%C4%B1ses-d%C3%BCnyan%C4%B1n-en-iyi-sanat%C3%A7%C4%B1s%C4%B1d%C4%B1r/
+https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg bkz hayallerde yşıyor bazı ibneler
 https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
 bkz kamalcı beyni vs şempanze beyni
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker kankağğğ
