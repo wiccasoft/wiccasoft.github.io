@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz receğ tayyiğ erdoğan a entry girerken 9 senede ne kazandınız sorunsalı
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-9-senede-suriye-de-ne-kazand%C4%B1/&w=bg
 bkz receğ tayyiğ erdoğanın bi ladıma bakar dünya lideri oluruz demesi
 bkz receğ tayyiğ erdoğanın doalrı 1 lira yapayım mi demesi
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-%C3%BClkeye-%C3%A7a%C4%9F-atlatmas%C4%B1/&w=bg
