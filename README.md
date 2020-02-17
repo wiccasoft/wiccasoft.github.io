@@ -1,6 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
+<!-- https://www.uludagsozluk.com/k/akp-nin-elaz%C4%B1%C4%9F-deprem-paralar%C4%B1n%C4%B1n-%C3%BCst%C3%BCne-yatmas%C4%B1/ 
+https://pinterest.com/wiccasoft/pins/ bkz akpnin enkazdaki paraları toplaması-->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
