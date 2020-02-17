@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/
+https://www.uludagsozluk.com/k/s%C4%B1nava-giren-kar%C4%B1s%C4%B1na-d%C3%BCzenek-kuran-mit-eleman%C4%B1/
 https://www.uludagsozluk.com/k/adam-gibi-adam-olan-siyaset%C3%A7iler/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/ zuahhahahaha
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
