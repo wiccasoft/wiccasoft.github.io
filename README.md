@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz tangur budun doğan savcı sayan ilşkisi
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var ayol
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz tangur budun doğan vs savcı sayan
 https://www.uludagsozluk.com/k/akp-nin-ge%C3%A7meyen-ekrem-imamo%C4%9Flu-ezikli%C4%9Fi/&w=bg bkz acele etme imamefendi
 https://eksisozluk.com/aslanlar-gibi-askerligini-yapmis-sozlukculer--6196100?a=popular yiyişmelik tertipler
 https://www.uludagsozluk.com/k/askerde-doktora-komutan%C4%B1m-demek/ bkz askerde duşa sokan olaylar
