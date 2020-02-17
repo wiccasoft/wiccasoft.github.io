@@ -5,7 +5,7 @@
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın deprem harçlarını arttırabiliriz sinyalleri
 https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezinin sarayla koordineli çalışması
 https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa hep aynı şeyler
-bkz receğ tayyiğ erdoğan vs mustafa atadan doğan
+bkz receğ tayyiğdendoğan vs mustafa atadan doğan
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg ismet vs tayyip
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg nedir bu tayyipin olayı sabah akşam tayyip 
 https://www.pinterest.com/wiccasoft/pins/ bkz burda tayyip denen bi hıyar varmış
