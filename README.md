@@ -3,6 +3,7 @@
 
 <!--
 bkz türk futbolunun geri kalma sebebi islamdır
+https://www.uludagsozluk.com/k/uh-ah-dev-imam-on-iki-dev-imam/
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/akp-nin-do%C4%9Fu-t%C3%BCrkistan-politikas%C4%B1/&w=bg
