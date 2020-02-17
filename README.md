@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz kılıçdaroğlu'nun rte'ye 5 kuruşluk dava açması
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
 bkz snoop dogg trump hakkında söylediği gay bedenimi titreten sözler
 bkz sayvcı sayanın gay bedenimi titreten twitter fotoları
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz ersun yanal fatih terim
