@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz kızına damadını siktiren gemiş erkek
 bkz orhan bence gay vs müslüm gürses
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz yiyişmelik erkek
 bkz ablasını siken adama eniştoşko diyen erkek
