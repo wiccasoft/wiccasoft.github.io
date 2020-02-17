@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-bkz abdulhamdi kim lan
+https://pinterest.com/wiccasoft/pins/ bkz mısıroğlandan abdulhamdi paylaşımı
 https://pinterest.com/wiccasoft/pins/ bkz abduhamdi güzellemesi yapan ışıdçı
 https://pinterest.com/wiccasoft/pins/ bkz şoray uzundan abdulhamdi paylaşımı
 https://pinterest.com/wiccasoft/pins/ bkz şoray uzunun kızlara selam çakması
