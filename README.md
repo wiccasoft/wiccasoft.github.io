@@ -25,31 +25,6 @@ bkz pkk dağ kadrosunun saraydan elektrik kaçırması
 bkz eşim ben uyurken başkalarıyla sevişebilri diyip uyurken dönüp uyuyan erkek
 bkz pkk dağ kadrosunun saraya sızmasına ses etmeyen chpkklılar
 bkz pkk dağ kadrosunun saraya sızması
-bkz fetönün kıbrısı elinden kaçırması
-bkz eşiyle uyuyan çifte aranıza ben de yatim mi diyen adam
-bkz uyurken eşinde uyudun mu diye soran adam
-bkz hoşlaşılan adamın kendimi intihar ederim demesi
-bkz sevilen siyasetçinin karısıyla uyuması
-bkz hoşlaşılan erkeğin uyurken gülümsüyerek eşini seyretmesi
-bkz hoşlaşılan futbolcunun mankenlerle uyuması
-bkz sevilen peygamberin ölmesi
-bkz batmanla bir gece vs jokerle bir gece 
-bkz en yakışıklı siyasetçi kim sorunsalı
-bkz en iyi joker kim sorunsalı
-bkz selvi boylum al yazmalım daki kamyoncunun kendini intihar etmesi
-bkz sevilen adamın kendinin kamyona asarak intihar etmesi
-bkz kendimi intihar edecem diyen adam
-bkz kendini kamyona asarak intihar eden adamın gülümseyerek sizi izlemesi
-bkz kendini kamyona asarak intihar eden adamın kıbrısa kaçması
-bkz karahanlının konseyi toplaması
-bkz kıbrısın elinizden çıkacak olması
-bkz elinize verilince büyüyen şey
-bkz kıbrısın elinizden çıkacak olması 
-bkz sevilen liderin başkasıyla uyuması
-bkz sevilen peygamberin başkasını sevmesi
-bkz uyurken götünü seyderek gülümseyen erkek
-bkz kıbrıs elinizden çıkarken van vekiline vakit kaybetmeniz
-bkz hdp van vekilinin evinde terörrik saklaması
 bkz gerdeğe girerken 200 rekat namaz kılan damad
 bkz kremlini kaç ülkücüyle basar alırız sorunsalı
 bkz bir gece ansızın washington moscow gözleri kıbrıs şeklinde gülümseyen erkek
