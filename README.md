@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
 https://pinterest.com/wiccasoft/pins/ bkz elif can yetimin ışıdcı infazcıya ayak işler yaptırması
 https://pinterest.com/wiccasoft/pins/ bkz ışıdçı infazcının cesetleri yemesi
 https://pinterest.com/wiccasoft/pins/ bkz imamoğlanın babasının oğlanı yollim çift kale oynayın paylaşımı
