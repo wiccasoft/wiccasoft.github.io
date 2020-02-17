@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
 https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/&w=bg bkz keko 
 https://www.uludagsozluk.com/k/r%C4%B1za-%C3%A7al%C4%B1mbay/&w=bg bkz keko ama gideri var sanki
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
