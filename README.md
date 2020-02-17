@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz süleymanın enkazı elleriyle kazması
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-18-g%C3%BCnd%C3%BCr-elaz%C4%B1%C4%9F-da-olmas%C4%B1/&w=bg
 bkz tuhi çenet vs gizli anların gezicisi
 bkz mersinli cihangir vs tangır budun doğan
