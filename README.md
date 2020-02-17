@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
 bkz rte nin ikinci atatürk ise ikinci rte kim sorunsalı
 bkz mustafa kemal atatürk ve receğ tayyip erdoğan
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz ata önde türk ileri
