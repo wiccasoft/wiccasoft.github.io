@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ bkz yılın gavatı ödül töreni
 https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kapı gibi delikanlı
 https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular bkz mustafa kapı
 https://eksisozluk.com/emrah-serbes--1502386?a=popular
