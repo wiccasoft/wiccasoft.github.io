@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz kekoları şaşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/nikola-tesla-vs-thomas-edison/&w=bg ay ikiside şapşik ampulcü
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ tam şapşik ayol
 https://www.uludagsozluk.com/k/mutlu-eden-basit-%C5%9Feyler/&w=bg bkz erkekler
