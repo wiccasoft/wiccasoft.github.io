@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz uyurken eşinde uyudun mu diye soran adam
 bkz hoşlaşılan adamın kendimi intihar ederim demesi
 bkz sevilen siyasetçinin karısıyla uyuması
 bkz hoşlaşılan erkeğin uyurken gülümsüyerek eşini seyretmesi
