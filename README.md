@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz bahçelinin kılışoğlana attığı bakış
 bkz tuğçe ışınsu nun mustafa kapıya yürümesi
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz savcı sayan tangır budun dopğan
 bkz kara oğlanaın clintona attığı bakışın hala gay bedenimi titretmesi
