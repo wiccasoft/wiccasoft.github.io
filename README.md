@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz ekşcicilere sosyal medya kullanmayı öğretmek google search tc bestepe erdoğan ak parti
 bkz ekşicilerin tc beştepe yerine yazılım firmamaı takip ettiği gerçeği 
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular bkz tersine beyni göçü
