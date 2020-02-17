@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/u%C4%9Fur-pekta%C5%9F/&w=bg ay kızlar bana bişeyle oluyo ayol
 bkz hoşlaşılan erkeğin attığı hırbo bakışların gay bendeimi tahrip etmesi ayol
 bkz kılıştaroğklanın rte ye attığı bakışın gay bedenimde izler bırakması
 bkz kılıçdaroğlu'nun rte'ye 5 kuruşluk dava açması
