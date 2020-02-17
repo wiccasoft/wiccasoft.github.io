@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal vs fatih terim 
 https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg
 https://www.uludagsozluk.com/e/42870248/
 https://www.uludagsozluk.com/k/kavgadan-%C3%B6nce-etnik-kimli%C4%9Fini-s%C3%B6yleyen-erkek/ bkz gaylerin güldürmesi
