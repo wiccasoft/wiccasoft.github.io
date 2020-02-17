@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz sarayın ekşiciler ülkeyi terk etmesin diye duvar örmeye başlaması
 bkz siyah snoop doggun beyaz sarayın sözcülüğene soyunması
 bkz sarayın ekşiden beyin göçünü engellemek için önlem alması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
