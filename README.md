@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg ıstırılası memeler veri tabanı
+https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz ıstırılası memeler veri tabanı
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fatih terim
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg verse sikmezmisin pampa
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz verse sikmezmisin pampa
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz kapı gibi delikanlı
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz gerçek çekik gözlü türkler
 https://www.uludagsozluk.com/k/snoop-dogg-un-t%C3%BCrbanl%C4%B1-foto%C4%9Fraf%C4%B1/ oyşşşş
