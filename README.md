@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz fatih portakal gibi anlatmak:
+https://www.google.com.tr/search?q=tc+be%C5%9Ftepe&oq=tc+be%C5%9Ftepe&aqs=chrome..69i57j0l3.1878j0j7&sourceid=chrome&ie=UTF-8
 bkz ekşicilerin niye bu kadar düşük zekalı olması sorunsalı
 bkz ekşcilere wiccasoft un babalarının sarayları olmadığını bilale anlatır gibi analtmak
 bkz  1.google 2.search 3. tc beştepe yaz ara tuşuna bas
