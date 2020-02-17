@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemeyorum saraya sor pampa
 https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşcicilerin yazılım firmamı sarayları sanması
 https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşicilerin sarayın enkaz birimlerinde ipucu araması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçünü engellemek için beyin dağıtması
