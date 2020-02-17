@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+https://www.uludagsozluk.com/k/transvestite-of-secret-moments/
 https://www.youtube.com/watch?v=AeveY0aW1Qg ölürem brezilyam
 bkz abdülhamdinin intikamını almaya geliyoruz
 bkz osmanlının ayak seslerini duyunca it gibi dağılan kamalitler
