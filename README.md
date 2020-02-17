@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz not found
 https://sahibinin-sesi.uludagsozluk.com/ annenin götüne bakıyoruz ya amın oğlu
 https://www.uludagsozluk.com/k/sevgilisine-tayt-giydirmeyip-taytl%C4%B1lara-bakan-pi%C3%A7/&w=bg
 https://www.uludagsozluk.com/k/recep-erdo%C4%9Fan/&w=bg
