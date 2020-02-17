@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/kaostan-beslenen-globalist-%C3%A7ete-ve-militanlar%C4%B1/ zuahhahahha
 https://www.uludagsozluk.com/k/bilgisayar-oyunun-oynayan-30-ya%C5%9F%C4%B1ndan-b%C3%BCy%C3%BCk-insan/ ay çapkın şey
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hitler-vs-stalin-churchill-rosevelt/&w=bg ay üçü de fena ayol
 https://www.uludagsozluk.com/k/elif-can-yetim/ ay bu kim ayol tüğrbanlı mı yine
