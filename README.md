@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz ekşcilere bilale anlatır gibi anlatmak
 https://www.pinterest.com/wiccasoft/pins/ bkz tayyipin sarayı değil kendi sarayımdır
 https://www.pinterest.com/wiccasoft/pins/ bkz tc cumhurbaşkanlığı imamaoğlan süleymanolana bağlı bir kuruşuş değildir
 bkz ekşcicilere sosyal medya kullanmayı öğretmek google search tc bestepe erdoğan ak parti 
