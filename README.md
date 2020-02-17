@@ -7,7 +7,9 @@ bkz payitaht abdulhamdi izlemeyen nesle aşina değilim efendiler
 https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/ 
 https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ benim bu 
 https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg eywallah kankağ irtibatı koparmayalım 
-https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg eywall kankağ şulenin selamı var -->
+https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg eywall kankağ şulenin selamı var
+https://pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
+-->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
