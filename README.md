@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg ismet vs tayyip
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg nedir bu tayyipin olayı sabah akşam tayyip 
 https://www.pinterest.com/wiccasoft/pins/ bkz burda tayyip denen bi hıyar varmış
 bkz ekşicilerin düşük zekasının güldürmesi :)))))))))))))))
