@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz pkknın saraya sızması
 bkz imamaoğlan pkk görüştü iddaları
 bkz 19 şubat ali koç açıklamaları
 bkz herşey çok güzel zaten tabi benim için
