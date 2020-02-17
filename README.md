@@ -5,7 +5,7 @@
 <!-- 
 bkz sevilen siyasetçinin karısıyla uyuması
 bkz hoşlaşılan erkeğin uyurken gülümsüyerek eşini seyretmesi
-bkz hoşlaşılan futbolcunun mankenlere çakması
+bkz hoşlaşılan futbolcunun mankenlerle uyuması
 bkz sevilen peygamberin ölmesi
 bkz batmanla bir gece vs jokerle bir gece 
 bkz en yakışıklı siyasetçi kim sorunsalı
