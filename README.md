@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz kara oğlanaın clintona attığı bakışın gay bedenimi titretmesi
+bkz kara oğlanaın clintona attığı bakışın hala gay bedenimi titretmesi
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
 bkz bahçelinin kılıştaroğlana attığı bakışın gay bedenimde fırtınalar koparması
 https://www.uludagsozluk.com/k/soru-sorunca-cevap-vermeyen-t%C3%BCrbanl%C4%B1-k%C4%B1z/ bkz emine erdoğan
