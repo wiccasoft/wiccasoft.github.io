@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+bkz rte nin ne uyumuşum yaaa demesi
 bkz rte nin çalışmak hojdır amam benena demesi
 bkz 1957 yılında rte nin verdiği ayar
 bkz ramiz dayının saraya sızması
