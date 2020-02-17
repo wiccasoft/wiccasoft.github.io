@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/feranor-un-tayyip-erdo%C4%9Fana-b%C3%B6l%C3%BCc%C3%BC-ve-hain-demesi/
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
 bkz eşini uyurken gülümseten erkekin rte çıkması
 bkz rte nin ne uyumuşum yaaa demesi
