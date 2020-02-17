@@ -2,7 +2,9 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://eksisozluk.com/mustafa-kapi--4928478?a=popular
 bkz türk futbolunun geri kalma sebebi islamdır
+https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular
 https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-yeni-malatyaspor-ma%C3%A7%C4%B1/
 https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-ter%C3%B6ristler/
 https://www.uludagsozluk.com/k/uh-ah-dev-imam-on-iki-dev-imam/,
