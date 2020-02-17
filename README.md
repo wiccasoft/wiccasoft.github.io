@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ ay tam keko ama gideri var
 https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz tam keko ayol
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ bkz ay keko kaynıyo ayol
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-ba%C5%9Fkas%C4%B1-d%C3%BCzerken-videoya-%C3%A7eken-adam/ bkz rte
