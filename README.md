@@ -1,28 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçünü engellemek için beyin dağıtması
-https://www.pinterest.com/wiccasoft/pins/ bkz receğ tayyiğ erdoğanın dumansız hava sahası için süleymanı dikmesi
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
-https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezini sarayla birleştirmesi
-https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.uludagsozluk.com/k/tengir-budun/&w=bg ergenlerin arasında ne yapmaya çalıştığını anlamadığım dayı
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
-https://www.pinterest.com/wiccasoft/pins/ bkz ekşicilerin sarayın enkaz birimlerinde ipucu araması
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.youtube.com/watch?v=FFkBaGqXLig bkz ekşi önündeki çaylak onay listesi
-https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk-%C3%A7aylak-onay-s%C4%B1ras%C4%B1/&w=bg
-bkz sarayın ekşiciler ülkeyi terk etmesin diye duvar örmeye başlaması
-bkz siyah snoop doggun beyaz sarayın sözcülüğene soyunması
-bkz sarayın ekşiden beyin göçünü engellemek için önlem alması
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyin göçünü engellemek için önlem alması
--->
-
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
