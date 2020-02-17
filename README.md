@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz che ile kemalismi harmanlayan keko
+bkz komünism ile kemalismi harmanlayan kekoların güldürmesi
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeoama gideri var sanki
 bkz hem che ci hem atatürkçü kekoların güldürmesi
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-i-destekleyen-atat%C3%BCrk%C3%A7%C3%BC/ güldürür evet
