@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz hamasın israilli kızların twitlerin hacklemesi
-bkz enkaz paralarının üstüne yatmak
+bkz hamasın israilli kızların twitlerini hacklemesi (bkz işsizlik level 9999)
+bkz enkaz paralarının üstüne yatmak (bkz işsizlik level 9999)
 https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki tane işsiz gün ay yıl
 https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
