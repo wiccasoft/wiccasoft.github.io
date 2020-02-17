@@ -4,6 +4,7 @@
 
 <!--
 bkz ramiz dayının oğlancı olması
+https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-malatyaspor-un-verilmeyen-penalt%C4%B1s%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/ daha önce yazmıştım
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-asl%C4%B1nda-%C3%A7ok-bo%C5%9F-bir-karakter-olmas%C4%B1/
 bkz tolga ciğercinin hatay arabıyız demesi
