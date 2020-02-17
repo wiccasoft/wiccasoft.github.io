@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz üstün zeklalıların genelde fenerli ve galatsaraylı olduğu gerçeği
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-mal-erkek/ bkz mal len mq
 https://www.uludagsozluk.com/e/42872927/ bkz sikilmiş kupanın davasını yaparlar len mq
 https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz 404 not found
