@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz kılıştaroğal rte oğlan arasındaki aşk
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/hamileyim-uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=gd mustafa kapıdan hemde kızlar
 bkz bekaretimi mustaf kapıya saklıyorum diyen türbanlı kız
 https://www.uludagsozluk.com/k/soru-sorunca-cevap-vermeyen-t%C3%BCrbanl%C4%B1-k%C4%B1z/ 
