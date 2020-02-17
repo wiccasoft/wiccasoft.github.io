@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/
 https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/hz-muhammed-in-%C3%BCmmeti-ev-yapmaz/
 https://www.uludagsozluk.com/k/hamas-%C4%B1n-kad%C4%B1n-foto%C4%9Fraflar%C4%B1yla-hackleme-yapmas%C4%B1/
