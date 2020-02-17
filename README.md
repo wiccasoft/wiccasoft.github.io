@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz ablasını siken adama eniştoşko diyen erkek
 https://www.uludagsozluk.com/e/42871871/ bkz gavat
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz dayıııııı uzak dur diyoz dayııııı
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz ay hoş t ulan dayıı uzak dur bizden
