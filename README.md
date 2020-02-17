@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg ay dudaklarını ıstırırm ben bunun ayol
 https://www.uludagsozluk.com/k/bedelli-askerlik-yapan-erkek/&w=bg ay yirim ben bunu kızlar
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz ay kekeo ama gideri var kızlar
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg ay kapı gibi delikanlı ayol neyini beyenmediniz
