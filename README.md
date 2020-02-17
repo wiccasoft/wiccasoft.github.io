@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz mustafa kapının elif can yetime yürümesi
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz ak kadınlar birliği bşk
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/ bkz bakir erkek çekiciliği
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz keko ama gideri var
