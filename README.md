@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz x kuşağının kurumsal köleliği itirecek olması
 https://pinterest.com/wiccasoft/pins/ bkz beşer esedı doğu gutaya asker yollaması
 bkz ido tatlısesin babam laf etmeyin sikerim demesi
 bkz arsız bela vs mardinli serseri
