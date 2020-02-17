@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz receğ tayyiğ erdoğanın doalrı 1 lira yapayım mi demesi
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-%C3%BClkeye-%C3%A7a%C4%9F-atlatmas%C4%B1/&w=bg
 bkz imamaoğlanın kilit isimlerle görüştü iddasını reddetiği iddaları
 bkz imamaoğlunun pkk kilit isimlerle görüştü iddası
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-pkk-ba%C4%9Flant%C4%B1l%C4%B1-isimlerle-g%C3%B6r%C3%BC%C5%9Ft%C3%BC-iddias%C4%B1/
