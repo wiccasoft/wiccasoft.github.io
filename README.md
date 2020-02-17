@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!-- 
+https://www.uludagsozluk.com/k/bir-travestinin-ac%C4%B1lar%C4%B1/
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7in-de-maske-bulamay%C4%B1nca-s%C3%BCtyen-takan-kral/
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
