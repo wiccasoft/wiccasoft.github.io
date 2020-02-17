@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz tolga ciğerciye kediye bakar gibi bakan fenerliler
 bkz 17 şubat 2020 türklerin hala beni ele geçirememesi
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
