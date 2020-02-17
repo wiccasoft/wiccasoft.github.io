@@ -9,16 +9,8 @@ bkz ekşcilere wiccasoft un babalarının sarayları olmadığını bilale anlat
 bkz  1.google 2.search 3. tc beştepe yaz ara tuşuna bas
 bkz göreceksiniz wiccasoftun tc bestepeyle hiç bir bağı yok
 https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir e
-bkz ekşcilerin tc bestepe diyer yazılım firmamı takip etmesi :))))))))))
-bkz ekşcilerin yazılım firmamı alışveriş sitesi sanması :))))))))))
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemeyorum saraya sor pampa
-https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşcicilerin yazılım firmamı sarayları sanması
-https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşicilerin sarayın enkaz birimlerinde ipucu araması
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçünü engellemek için beyin dağıtması
-https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.pinterest.com/wiccasoft/pins/ bkz receğ tayyiğ erdoğanın dumansız hava sahası için süleymanı dikmesi
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezini sarayla birleştirmesi
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
