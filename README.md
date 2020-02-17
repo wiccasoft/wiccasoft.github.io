@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://twitter.com/arkabesliforum/status/979453504002625537
+https://twitter.com/AkpCocuklari/status/1229148000506777600
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-biritanya-nerde-diyen-kezo/ bkz elif can yetim
 https://www.uludagsozluk.com/k/elif-can-yetim/&w=gd bkz yetimin imdadına can havliyle yetişen ak kadın
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
