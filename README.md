@@ -1,34 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!--
-https://www.uludagsozluk.com/k/hz-muhammed-in-%C3%BCmmeti-ev-yapmaz/
-https://pinterest.com/wiccasoft/pins/ bkz mersinli cihangirin enkazdan çıkan büyü kitabını satması
-https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun ellrriyle enkazı kazması
-https://pinterest.com/wiccasoft/pins/ bkz akp nin enkazda ki ganimetleri kurtarmaya başlaması 
-https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
-https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
-https://www.uludagsozluk.com/k/hamas-%C4%B1n-kad%C4%B1n-foto%C4%9Fraflar%C4%B1yla-hackleme-yapmas%C4%B1/
-https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-cani-anne/
-https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular
-https://www.uludagsozluk.com/k/i%C5%9F-bankas%C4%B1-hisseleri-halka-devredilecek/
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
-https://www.uludagsozluk.com/k/dizilerde-j%C3%B6nlerin-istanbulin-giymesi/
-https://www.uludagsozluk.com/k/chp-hisselerinin-devri-anayasaya-ve-hukuka-ayk%C4%B1r%C4%B1/
-https://twitter.com/arkabesliforum/status/979453504002625537 eywallah genşler
-https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
-https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-biritanya-nerde-diyen-kezo/ bkz elif can yetim
-https://www.uludagsozluk.com/k/elif-can-yetim/&w=gd bkz yetimin imdadına can havliyle yetişen ak kadın
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
-https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular bkz çok romantiğ yağğğ
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fathi terim
-https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz yaşarken kadri bilinmeyen üstad
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kaostan beslenen ak kadınlar kolu bşk
-https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw resmi gençlik kolları kanalımız
-https://www.youtube.com/watch?v=GjOV_hBGPCs var mısın delioğlan
-https://www.youtube.com/watch?v=U1NnA_YJZzM n'günlerdi ya
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
--->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
