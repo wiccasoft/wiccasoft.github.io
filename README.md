@@ -1,62 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!--
-https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz ali koç rte mustafa torlak fatih terim ersun yanal
-https://www.uludagsozluk.com/k/kaan-tang%C3%B6ze/&w=bg bkz karısını hastenede aldattığı iddaları
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz bizim sülale komple gürcü
-https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz mustafa kapı fatih terim ali koç rte
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz torpilli ak kadınlar kolu başkanı
-bkz receğ tayyiğ erdoğanın mustafa kapıya forma hediye etmesi
-https://www.uludagsozluk.com/k/terkeden-kad%C4%B1n%C4%B1n-ard%C4%B1ndan-a%C4%9Flayan-erkek/ vurduruyordur
-bkz mustafa kapının dolmuş şöförleri benim hayranım demesi
-bkz emre mor abinin aleyna tilkiye yürümesi
-https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz o sen ossan bayi
-https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz türkleri arkadan vuran miller
-bkz ali koçun gay ordusu
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
-bkz delikanlı gibi vuruşmak yerine karı peşinde koşan ılık
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
-bkz mustafa kapıyı eliyle boşaltan adam
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz oğlancıların tanıdığı çocuk
-bkz tangır budun doğanın savcı sayanın twitter adresinden indirdiği fotoları g.a.y klasörüne atması
-https://www.uludagsozluk.com/k/traveler-vs-abbas-dikbasar/ bkz iki tane ibnenin versusu hangi  aktif hangisi pasif
-https://twitter.com/arkabesliforum/status/979453504002625537 arkayı beşleyelim gençler
-https://www.uludagsozluk.com/k/dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BCne-200-lira-uzat%C4%B1p-1-%C3%B6%C4%9Frenci-demek/
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko amam gideri var ha?
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg hayallerde yaşıyor bazı oğlanlar
-https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz ben
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz rte
-https://pinterest.com/wiccasoft/ bkz rte nin şatosunda keyif çatması
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz aptala anlatır gibi anlatmak
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bz bakir oğlan tatlılığı
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama  gideri var sanki
-https://www.uludagsozluk.com/k/aragorn-un-%C3%A7ocu%C4%9Fu-elf-mi-insan-m%C4%B1-sorunsal%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz gürcü arap evliliği
-https://www.uludagsozluk.com/k/fox-haber/&w=bg bkz trumpın kanalı
-https://www.uludagsozluk.com/k/spermin-tad%C4%B1-neden-tuzlu-sorunsal%C4%B1/&w=bg ilginç bi sorunsal
-https://www.uludagsozluk.com/k/ptt-kargo/&w=bg bkz küresel çetenin kargo şirketi
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz küresel empreyalistlerin yerni kuklası
-https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kadro dışı kalmış adam gibi adam
-https://www.uludagsozluk.com/k/bedri-gencer/&w=bg bkz kelimelere sığmayacak adamlar
-bkz ak parti binası önünde toğlaşan kalabalık
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-sonras%C4%B1-ak-partinin-ba%C5%9F%C4%B1na-ge%C3%A7ecek-ki%C5%9Fi/&w=bg 
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz ümmete güneş gibi doğan
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bkz verse sikmesmisn kanka
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz global kan emicilerin yeni kuklası
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz rizenin rus asıllı gürcüleri
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
-https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz kelimelerin yetmeyeceği üstad
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bk bakir oğlan çekiciliği
-bkz sedat pekerin biz de gürcüyüz rusyadan gürçmüşüz demesi
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz rizenin rus asıllı gürcüleri
-bkz mustafa kapının elif can yetime yürümesi
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz ak kadınlar birliği bşk
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/ bkz bakir erkek çekiciliği
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz keko ama gideri var
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz rize gürcüsüyüm karı da siirt arabı -->
-
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
