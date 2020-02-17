@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz iğrençsiniz ibneler
 https://cuckold-erkek.uludagsozluk.com/ zuahhahahaha bu ibneyi bi yerden tanıyorum sanki
 https://www.uludagsozluk.com/k/porno-star%C4%B1-k%C4%B1z%C4%B1n%C4%B1n-menejeri-olan-baba/&w=bg bkz adam mıdır
 bkz kızına damadını siktiren gemiş erkek
