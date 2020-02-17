@@ -4,7 +4,7 @@
 <!-- 
 https://www.pinterest.com/wiccasoft/pins/ bkz ekşicilerin sarayın enkaz birimlerinde ipucu araması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.youtube.com/watch?v=FFkBaGqXLig bkz sarayın önündeki çaylak onay listesi
+https://www.youtube.com/watch?v=FFkBaGqXLig bkz ekşi önündeki çaylak onay listesi
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk-%C3%A7aylak-onay-s%C4%B1ras%C4%B1/&w=bg
 bkz sarayın ekşiciler ülkeyi terk etmesin diye duvar örmeye başlaması
 bkz siyah snoop doggun beyaz sarayın sözcülüğene soyunması
