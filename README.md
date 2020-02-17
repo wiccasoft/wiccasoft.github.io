@@ -3,7 +3,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz ay kim alacak o nevresimi ayol
-https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz ay tam keko
 https://www.uludagsozluk.com/k/rafel-el-roman-%C4%B1n-beat-it-dans%C4%B1/ bkz arizona kertenkelesi dansı
 https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ ay tam keko 
 https://www.uludagsozluk.com/k/rafel-el-roman-%C4%B1n-beat-it-dans%C4%B1/ ay iyice andoropoza girdi ayol
