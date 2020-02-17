@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/r%C3%BCyada-john-f-kennedy-ile-%C3%B6p%C3%BC%C5%9Fmek/ bkz ay fena oluyom kızlar
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz kekeo amam gideri var sanki
 https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz haber değeri taşır
 https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz atacücünün nevresimi olsa neyse
