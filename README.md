@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/e/42872796/ dinliyomuşum gibi çek kanka
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-%C3%A7in-ba%C5%9Fkonsolosu-ile-g%C3%B6r%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/ahmed-arif/&w=bg bkz gay şiirleri
 bkz türkü uzay ajansı vs nasa
 https://www.uludagsozluk.com/k/ayk%C3%BCyu-y%C3%BCkselten-yiyecekler/ ayqü ne la futbo ltopu mu
