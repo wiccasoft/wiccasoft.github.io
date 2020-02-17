@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
+<!-- ,
+https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin babası anısına yaptığı paylaşım
 bkz arsız bela vs mardinli serseri
 bkz şaka maka arsız belanın 41 yaşına gelmesi
 https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
