@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz beşer esedin tayyibni itlerin gebertecez  mesajı
 https://odatv.com/esaddan-taarruz-mesaji-17022014.html
 https://pinterest.com/wiccasoft/pins/  bkz beşer esedaın doğu gutaya diktiği asker
 https://pinterest.com/wiccasoft/pins/ bkz bursa da kadrolu işe giren ışıd infazcısı
