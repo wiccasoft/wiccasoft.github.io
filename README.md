@@ -4,7 +4,7 @@
 
 <!-- 
 bkz kremlini kaç ülkücüyle basar alırız sorunsalı
-bkz bir gece ansızın atina washington moscow gözleri kıbrıs şeklinde gülümseyen erkek
+bkz bir gece ansızın washington moscow gözleri kıbrıs şeklinde gülümseyen erkek
 bkz kıbrısı kaç saatte alırız sorunsalı
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ kurtlar vadisi kıbrıs
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz ağır gay
