@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz rte nin küreselcileri susturmak için ilçe başkanı yapması
 bkz receğ tayyiğ erdoğanın mustafa kapıya forma hediye etmesi
 https://www.uludagsozluk.com/k/terkeden-kad%C4%B1n%C4%B1n-ard%C4%B1ndan-a%C4%9Flayan-erkek/ vurduruyordur
 bkz mustafa kapının dolmuş şöförleri benim hayranım demesi
