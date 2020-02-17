@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz akpli erkeklerin twitter adresleri
 https://www.uludagsozluk.com/k/burhan-kuzu/&w=bg bkz işte kuzu kuzu dansı
 https://www.uludagsozluk.com/k/ata-demirer/&w=bg bkz hoşlaşılan erkeğin göt yağlarm ameliyatı olması
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz fatih terim ersun yanal
