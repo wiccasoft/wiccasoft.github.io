@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/17-subat-2020-e-imamoglunun-santaj-yapmasi--6370403?a=popular bkz vergiler nereye gidiyor
 https://eksisozluk.com/rte-ile-birlikte-5-kisilik-olum-listesindeydim--6370417?a=popular 
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kan emicic globalistlerin yeni kuklası
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizono kertenkelesi dansı
