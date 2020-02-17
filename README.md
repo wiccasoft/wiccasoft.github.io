@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeoama gideri var sanki
-bkz hem che ci hem atatürkçü homoseksüllerin güldürmesi
+bkz hem che ci hem atatürkçü kekoların güldürmesi
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-i-destekleyen-atat%C3%BCrk%C3%A7%C3%BC/ güldürür evet
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeoama gideri var sanki
 https://www.uludagsozluk.com/k/rafel-el-roman-%C4%B1n-beat-it-dans%C4%B1/ dişisini etkilemek isteyen arizona kertenkelesi
