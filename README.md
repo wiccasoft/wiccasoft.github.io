@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz kemalistlerin erkek düşünmekten bişey üretememesi
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw zahahahahaha ra ra ra raaaa
 bkz illumunatinin türkleri facebook twitter instagrama hapsetmesi
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizona kertenkelesi dansı
