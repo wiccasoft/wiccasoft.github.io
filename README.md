@@ -2,8 +2,9 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz bahçelinin kılıştaroğalana attığı bakışın gay bedenimde fırtınalar koparması
 https://www.uludagsozluk.com/k/soru-sorunca-cevap-vermeyen-t%C3%BCrbanl%C4%B1-k%C4%B1z/ bkz emine erdoğan
-bkz savcı sayanının twtitterda çekindeiği fotoların gay bedenimi titretmesi
+bkz savcı sayanının twtitterda çekindiği fotoların gay bedenimi titretmesi
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/hamileyim-uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=gd mustafa kapıdan hem de kızlar
