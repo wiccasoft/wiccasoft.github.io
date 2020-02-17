@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/traveler-vs-abbas-dikbasar/ bkz iki tane ibnenin versusu
+https://www.uludagsozluk.com/k/traveler-vs-abbas-dikbasar/ bkz iki tane ibnenin versusu hangi  aktif hangisi pasif
 https://twitter.com/arkabesliforum/status/979453504002625537 arkayı beşleyelim gençler
 https://www.uludagsozluk.com/k/dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BCne-200-lira-uzat%C4%B1p-1-%C3%B6%C4%9Frenci-demek/
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
