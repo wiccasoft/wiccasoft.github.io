@@ -3,7 +3,7 @@
 
 <!-- 
 https://pinterest.com/wiccasoft/pins/ bkz imamoğlanın babasının oğlanı yollim çift kale oynayın paylaşımı
-https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin en iyisi benim paylaşımı
+https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin d,nyanın en iyi tenörü benim paylaşımı
 https://pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
 https://pinterest.com/wiccasoft/pins/ bkz abdulhamdiden başkasını sevemem diyen kız
 https://pinterest.com/wiccasoft/pins/ bkz mısıroğlandan abdulhamdi paylaşımı
