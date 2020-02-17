@@ -3,7 +3,7 @@
 
 <!-- 
 bkz pkknın saraya sızması
-bkz imamaoğlan pkk görüştü iddaları
+bkz imamaoğlan pkknın ipini çekti iddaları
 bkz 19 şubat ali koç açıklamaları
 bkz herşey çok güzel zaten tabi benim için
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw ak parti illumunati ellele 
