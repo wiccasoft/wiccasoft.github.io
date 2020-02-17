@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/porno-star%C4%B1-k%C4%B1z%C4%B1n%C4%B1n-menejeri-olan-baba/&w=bg bkz adam mıdır
 bkz kızına damadını siktiren gemiş erkek
 bkz orhan bence gay vs müslüm gürses
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz yiyişmelik erkek
