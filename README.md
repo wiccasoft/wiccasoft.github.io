@@ -3,6 +3,7 @@
 
 <!--
 https://eksisozluk.com/emrah-serbes--1502386?a=popular
+https://www.uludagsozluk.com/k/kavgadan-%C3%B6nce-etnik-kimli%C4%9Fini-s%C3%B6yleyen-erkek/  bkz kürt lütfen
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ bkz yılın gavatı ödül töreni
 https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kapı gibi delikanlı
