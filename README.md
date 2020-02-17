@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
-https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezinin taşınması
+https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezini sarayla birleştirmesi
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.pinterest.com/wiccasoft/pins/ bkz receğ tayyiğ erdoğanın dumansız hava sahası için süleymanı dikmesi
