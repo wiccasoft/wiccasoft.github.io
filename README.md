@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz rizenin rus asıllı gürcüleri
 bkz mustafa kapının elif can yetime yürümesi
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz ak kadınlar birliği bşk
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/ bkz bakir erkek çekiciliği
