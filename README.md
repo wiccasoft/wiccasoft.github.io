@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular bkz mustafa kapı
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz kapı gibi delikanlı
 https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kapı gibi delikanlı
 https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz göklerden gelen bir karar vardır
 https://eksisozluk.com/emrah-serbes--1502386?a=popular
