@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz emre mo abinin aleyna tilkiye yürümesi
+bkz mustafa kapının dolmuş şöförleri benim hayranım demesi
+bkz emre mor abinin aleyna tilkiye yürümesi
 https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz o sen ossan bayi
 https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz türkleri arkadan vuran miller
 bkz ali koçun gay ordusu
