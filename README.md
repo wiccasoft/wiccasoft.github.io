@@ -5,8 +5,8 @@
 bkz ekşcilere wiccasoft un babalarının sarayları olmadığını bilale anlatır gibi analtmak
 bkz ekşcicilere sosyal medya kullanmayı öğretmek 1.google 2.search 3. tc beştepe yaz ara tuşuna bas
 bkz göreceksiniz wiccasoftun tc bestepeyle hiç bir bağı yok
-https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir
-bkz ekşcilerin tc bestepe diyer yazılım firmamı takip etmesi
+https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir e
+bkz ekşcilerin tc bestepe diyer yazılım firmamı takip etmesi :))))))))))
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemeyorum saraya sor pampa
 https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşcicilerin yazılım firmamı sarayları sanması
