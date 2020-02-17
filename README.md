@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-i-destekleyen-atat%C3%BCrk%C3%A7%C3%BC/ güldürür evet
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeoama gideri var sanki
 https://www.uludagsozluk.com/k/rafel-el-roman-%C4%B1n-beat-it-dans%C4%B1/ dişisini etkilemek isteyen arizona kertenkelesi
 https://www.uludagsozluk.com/k/r%C3%BCyada-john-f-kennedy-ile-%C3%B6p%C3%BC%C5%9Fmek/ bkz ay fena oluyom kızlar
