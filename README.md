@@ -3,7 +3,6 @@
 
 <!-- 
 bkz şaka maka arsız belanın 41 yaşına gelmesi
-https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin babası anısına yaptığı paylaşım
 bkz arsız bela vs mardinli serseri
 https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker kankağğğ
