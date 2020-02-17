@@ -4,15 +4,16 @@
 <!--
 bkz illumunatinin türkleri facebook twitter instagrama hapsetmesi
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizona kertenkelesi dansı
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz keko ama gideri var sanki
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw bkz illununatinin akp den it gibi korkması
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-sonras%C4%B1-ak-partinin-ba%C5%9F%C4%B1na-ge%C3%A7ecek-ki%C5%9Fi/&w=bg
 https://www.uludagsozluk.com/k/akp-nin-ge%C3%A7meyen-ekrem-imamo%C4%9Flu-ezikli%C4%9Fi/&w=bg bkz acele etme imam efendi
 https://eksisozluk.com/17-subat-2020-e-imamoglunun-santaj-yapmasi--6370403?a=popular bkz vergiler nereye gidiyor
 https://eksisozluk.com/rte-ile-birlikte-5-kisilik-olum-listesindeydim--6370417?a=popular 
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kan emicic globalistlerin yeni kuklası
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kan emici globalistlerin yeni kuklası
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizono kertenkelesi dansı
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeo ama gideri var sanki
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz keko ama gideri var sanki
 bkz kemalistlerin bakunini makarna markası sanması
 bkz komünism ile kemalismi harmanlayan kekoların güldürmesi
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeo ama gideri var sanki
