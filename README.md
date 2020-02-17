@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz tolga ciğerciyi alamadılar diye ağlayan fenerliler
 bkz kedinin ciğere baktığı gibi tolga ciğerciye bakan fenerliler
 bkz pkk dağ kadrosunun saraydan elektrik kaçırmasına ses etmeyen akitler
 bkz pkk dağ kadrosunun saraydan elektrik kaçırması
