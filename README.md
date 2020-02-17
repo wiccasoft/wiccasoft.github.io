@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz mustfa kapının tuğçe ışınsuya yürümesi
+bkz tuğçe ışınsu nun mustafa kapıya yürümesi
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz savcı sayan tangır budun dopğan
 bkz kara oğlanaın clintona attığı bakışın hala gay bedenimi titretmesi
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
