@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz kekeoların telefonu aleyo diye açması ayol
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-akp-meclis-%C3%BCyelerine-e%C5%9Fk%C4%B1ya-demesi/ ay hoş ulan keko
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg ay bunu babasından isteyek mi kızlar
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
