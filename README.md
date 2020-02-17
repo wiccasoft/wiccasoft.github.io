@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.youtube.com/watch?v=Zw_WUGrgrQ8 tokatlı beyni vs çorumlu beyni
 bkz destansı rap savaşaları galataray fenerbahçe beyni
 https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz not found
 https://sahibinin-sesi.uludagsozluk.com/ annenin götüne bakıyoruz ya amın oğlu
