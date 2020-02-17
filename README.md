@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz ramiz dayının oğlancı olması
+https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-asl%C4%B1nda-%C3%A7ok-bo%C5%9F-bir-karakter-olmas%C4%B1/
 bkz tolga ciğercinin hatay arabıyız demesi
 bkz tolga ciğerciye kediye bakar gibi bakan fenerliler
 bkz 17 şubat 2020 türklerin hala beni ele geçirememesi
