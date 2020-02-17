@@ -2,10 +2,57 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/emrah-serbes--1502386?a=popular
+https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/ bkz yılın gavatı ödül töreni
+https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kapı gibi delikanlı
+https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular bkz mustafa kapı
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal vs fatih terim 
-https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg
-https://www.uludagsozluk.com/e/42870248/
-https://www.uludagsozluk.com/k/kavgadan-%C3%B6nce-etnik-kimli%C4%9Fini-s%C3%B6yleyen-erkek/ bkz gaylerin güldürmesi
+https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
+https://www.uludagsozluk.com/k/e%C5%9Fcinseller-s%C3%B6zl%C3%BC%C4%9F%C3%BCmden-gitsin/
+https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
+https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/
+https://www.uludagsozluk.com/k/s%C4%B1nava-giren-kar%C4%B1s%C4%B1na-d%C3%BCzenek-kuran-mit-eleman%C4%B1/
+https://www.uludagsozluk.com/k/adam-gibi-adam-olan-siyaset%C3%A7iler/
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/ zuahhahahaha
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
+https://eksisozluk.com/fenerbahcenin-sistemin-disina-itilmesi--6369604?a=popular
+https://www.uludagsozluk.com/k/uh-ah-dev-imam-on-iki-dev-imam/ zuahahhaha
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/
+https://www.uludagsozluk.com/k/s%C4%B1nava-giren-kar%C4%B1s%C4%B1na-d%C3%BCzenek-kuran-mit-eleman%C4%B1/
+https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
+https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
+https://eksisozluk.com/mustafa-kapi--4928478?a=popular
+bkz türk futbolunun geri kalma sebebi islamdır
+https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular
+https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-yeni-malatyaspor-ma%C3%A7%C4%B1/
+https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-ter%C3%B6ristler/
+https://www.uludagsozluk.com/k/uh-ah-dev-imam-on-iki-dev-imam/,
+https://www.uludagsozluk.com/k/tipini-be%C4%9Fenmedi%C4%9Fi-palya%C3%A7oyu-d%C3%B6ven-adam/
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
+https://www.uludagsozluk.com/k/akp-nin-do%C4%9Fu-t%C3%BCrkistan-politikas%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-adam-gibi-adamlar-listesi/&w=bg
+https://www.uludagsozluk.com/k/ekonominin-geri-kalma-sebrbi-islam-d%C4%B1r/
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
+https://www.uludagsozluk.com/k/%C3%A7inlilerin-uygur-t%C3%BCrklerine-yapt%C4%B1%C4%9F%C4%B1-zul%C3%BCm/
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg
+https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg
+https://www.uludagsozluk.com/k/chp-hisselerinin-devri-anayasaya-ve-hukuka-ayk%C4%B1r%C4%B1/
+https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
+https://www.uludagsozluk.com/k/akp-nin-ekonomiyi-bitirmesi-ve-suriye-de-t%C3%BCkenmesi/
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
+https://www.uludagsozluk.com/k/feranor-un-tayyip-erdo%C4%9Fana-b%C3%B6l%C3%BCc%C3%BC-ve-hain-demesi/
+https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
+bkz tengir budun doğan vs recep tayyipten doğan
+bkz bi ozan kabak vardı noldu ona
 -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
