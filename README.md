@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/chp-hisselerinin-devri-anayasaya-ve-hukuka-ayk%C4%B1r%C4%B1/
 https://pinterest.com/wiccasoft/pins/ bkz akp nin enkazda ki ganimetleri kurtarmaya başlaması 
 https://twitter.com/arkabesliforum/status/979453504002625537 eywallah genşler
 https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
