@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz elif can yetimin mustafa kapıya yürümesi
+https://www.uludagsozluk.com/k/apt%C3%BClhamit-in-torununun-nevresim-satmas%C4%B1/ bkz ay keko ayol
 https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular bkz mustafa kapı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var ayol
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz tangur budun doğan vs savcı sayan
