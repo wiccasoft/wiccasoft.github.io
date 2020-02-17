@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz batmanla bir gece vs jokerle bir gece 
 bkz en yakışıklı siyasetçi kim sorunsalı
 bkz en iyi joker kim sorunsalı
 bkz selvi boylum al yazmalım daki kamyoncunun kendini intihar etmesi
