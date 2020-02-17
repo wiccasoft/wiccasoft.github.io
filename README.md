@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz savcı sayanın fetöcülerle pozu
 https://www.uludagsozluk.com/k/trafikte-artislik-yapan-firma-ara%C3%A7lar%C4%B1/ bkz dinci yopbazlar
 bkz dincilerin namaz kılacaksın zorbalığı
 bkz erdoğanın eliyle üllumunati üçgeni yapması
