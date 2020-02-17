@@ -2,8 +2,6 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-uzay-ajans%C4%B1n%C4%B1n-2020-b%C3%BCt%C3%A7esi/ 
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
 https://www.uludagsozluk.com/k/hz-muhammed-in-%C3%BCmmeti-ev-yapmaz/
 https://pinterest.com/wiccasoft/pins/ bkz mersinli cihangirin enkazdan çıkan büyü kitabını satması
 https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun ellrriyle enkazı kazması
