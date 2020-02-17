@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay/&w=bg bkz savcı sayan
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/ bkz gay
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay/&w=bg bkz savcı sayan gün ay yıl
 https://www.uludagsozluk.com/k/esad-y%C3%B6netimi-nin-halep-te-kontrol%C3%BC-ele-ge%C3%A7irmesi/&w=bg
