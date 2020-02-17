@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz mersinlichimnagir vs tangır budun doğan
+bkz mersinli cihangir vs tangır budun doğan
 bkz hamasın israilli kızların twitlerini hacklemesi (bkz işsizlik level 9999)
 bkz enkaz paralarının üstüne yatmak (bkz işsizlik level 9999)
 https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki tane işsiz gün ay yıl
