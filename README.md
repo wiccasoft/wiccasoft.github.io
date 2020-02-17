@@ -1,23 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
-bkz kadir mısıroğlanın suudi uçağı keşke elzaığa düşseydi demesi
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-belgeleri/&w=bg
-https://www.youtube.com/watch?v=XCvCoXtXu00 140 zafer
-https://www.youtube.com/watch?v=Zw_WUGrgrQ8 tokatlı beyni vs çorumlu beyni
-bkz destansı rap savaşaları galataray fenerbahçe beyni
-https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz not found
-https://sahibinin-sesi.uludagsozluk.com/ annenin götüne bakıyoruz ya amın oğlu
-https://www.uludagsozluk.com/k/sevgilisine-tayt-giydirmeyip-taytl%C4%B1lara-bakan-pi%C3%A7/&w=bg
-https://www.uludagsozluk.com/k/recep-erdo%C4%9Fan/&w=bg
-https://www.youtube.com/watch?v=XCvCoXtXu00 140 zafer
-https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz 404 not found
-https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-mal-erkek/ benim bu maçoyum
-bkz türkiye uzay akansı ben değilim ben volkan demirelim
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-uzay-ajans%C4%B1n%C4%B1n-2020-b%C3%BCt%C3%A7esi/ bkz ben değilim
-https://www.pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi:)) -->
-
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
