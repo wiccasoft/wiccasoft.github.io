@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!--
+<!--,
+https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay yaptırmayın bunu kızlar
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/ ay allahsız komünik ayol
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ ey tam keko ayol uzak dur
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/ bkz keko ayol
