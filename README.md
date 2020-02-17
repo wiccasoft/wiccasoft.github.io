@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz receğ tayyiğ erdoğanın imamoğla hazımsızlığı
 https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa
 https://www.uludagsozluk.com/k/fet%C3%B6-ve-akp-nin-28-%C5%9Fubat-haz%C4%B1ms%C4%B1zl%C4%B1%C4%9F%C4%B1/
 bkz receğ tayyiğ erdoğan vs mustafa atadan doğan
