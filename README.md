@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz ezanlarımız susturamyacaksınız
+bkz acele etme imamaoğlan efendi ezanlarımız susturamayacaksınız
 https://www.uludagsozluk.com/k/murat-a%C4%9F%C4%B1rel/ eywallah pampağ
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
