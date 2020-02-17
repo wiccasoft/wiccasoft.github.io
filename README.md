@@ -3,6 +3,7 @@
 
 <!-- 
 bkz arsız bela vs mardinli serseri
+bkz şaka maka arsız belanın 41 yaşına gelmesi
 https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
 https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg bkz hayallerde yşıyor bazı ibneler
 https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
