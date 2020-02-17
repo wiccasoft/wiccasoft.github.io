@@ -2,12 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan alaiz merkezinin sarayla koordineli çalışması
-bkz fatih tezcan analiz merkezinin paylaştığı abduhamdi 
-bkz receğ tyyiğ erdoğanın imamaoğlana gaffayı takması
-bkz receğ tayyiğ erdoğanın imamoğla hazımsızlığı
-https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa
-https://www.uludagsozluk.com/k/fet%C3%B6-ve-akp-nin-28-%C5%9Fubat-haz%C4%B1ms%C4%B1zl%C4%B1%C4%9F%C4%B1/
+https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezinin sarayla koordineli çalışması
+https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa hep aynı şeyler
 bkz receğ tayyiğ erdoğan vs mustafa atadan doğan
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg ismet vs tayyip
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg nedir bu tayyipin olayı sabah akşam tayyip 
