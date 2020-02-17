@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz karahanlı vs laz ziya
 bkz pkk dağ kadrosunun saraya sızmasına ses etmeyen chpkklılar
 bkz pkk dağ kadrosunun saraya sızması
 bkz fetönün kıbrısı elinden kaçırması
