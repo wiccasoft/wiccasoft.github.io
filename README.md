@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kzıalrın resimlerini hacklemesi
+https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/hamas-%C4%B1n-kad%C4%B1n-foto%C4%9Fraflar%C4%B1yla-hackleme-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-cani-anne/
