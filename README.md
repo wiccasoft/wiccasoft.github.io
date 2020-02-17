@@ -4,7 +4,7 @@
 <!-- 
 bkz ekşicilerin niye bu kadar düşük zekalı olması sorunsalı
 bkz ekşcilere wiccasoft un babalarının sarayları olmadığını bilale anlatır gibi analtmak
-bkz ekşcicilere sosyal medya kullanmayı öğretmek 1.google 2.search 3. tc beştepe yaz ara tuşuna bas
+bkz  1.google 2.search 3. tc beştepe yaz ara tuşuna bas
 bkz göreceksiniz wiccasoftun tc bestepeyle hiç bir bağı yok
 https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir e
 bkz ekşcilerin tc bestepe diyer yazılım firmamı takip etmesi :))))))))))
