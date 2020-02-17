@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz gözlerinin kısığ senin götünü sikerim bakışı atan olgun erkek
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg sikse vermesmisin kankağ
 https://www.uludagsozluk.com/k/day%C4%B1yla-bulgara-kumara-gitmek/ bkz dayının götünü avuçlamak
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz ahh be baba benimle sevişmeden öldün gittin be
