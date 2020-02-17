@@ -3,6 +3,7 @@
 
 <!--
 bkz türk futbolunun geri kalma sebebi islamdır
+https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-galatasaray-yeni-malatyaspor-ma%C3%A7%C4%B1/
 https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-ter%C3%B6ristler/
 https://www.uludagsozluk.com/k/uh-ah-dev-imam-on-iki-dev-imam/,
 https://www.uludagsozluk.com/k/tipini-be%C4%9Fenmedi%C4%9Fi-palya%C3%A7oyu-d%C3%B6ven-adam/
