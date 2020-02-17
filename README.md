@@ -1,6 +1,10 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
+<!-- 
+https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular bkz tersine beyni göçü
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyinn göçünü engellemek için önlem alması
+-->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
