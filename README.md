@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz dincilerin namaz kılacaksın zorbalığı
 bkz erdoğanın eliyle üllumunati üçgeni yapması
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw bkz erdoğanın illumunatinin başındaki adam olması
 bkz boyun posun devrilsin denilen adamın akp illumunati il meclis üyesi çıkması
