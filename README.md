@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
 bkz kamalcı beyni vs şempanze beyni
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker kankağğğ
 bkz atacücüye laf etme sebepsi baban kimdi bilemezdin şerefsiz
