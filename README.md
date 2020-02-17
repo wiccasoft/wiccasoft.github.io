@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz aclele etme papaz efendi nin acele etmemesi
+https://www.uludagsozluk.com/k/akp-ter%C3%B6r-destek%C3%A7isi-bir-partidir/&w=bg
 bkz receğ tayyiğ erdoğana entr girerkene akla fikirlerin gelmesi
 bkz receğ tayyiğ erdoğan a entry girerken 9 senede ne kazandınız sorunsalı
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-9-senede-suriye-de-ne-kazand%C4%B1/&w=bg
