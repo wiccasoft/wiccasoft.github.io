@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko amam gideri var ha?
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg hayallerde yaşıyor bazı oğlanlar
 https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz aleyne tilki seviyesi
