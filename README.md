@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz rte
-https://pinterest.com/wiccasoft/ bkz akp nin renkli partileri
+https://pinterest.com/wiccasoft/ bkz rte nin şatosunda keyif çatması
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz aptala anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bz bakir oğlan tatlılığı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama  gideri var sanki
