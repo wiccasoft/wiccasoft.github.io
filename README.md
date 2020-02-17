@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz imamaoğlanın kilit isimlerle görüştü iddasını reddetiği iddaları
 bkz imamaoğlunun pkk kilit isimlerle görüştü iddası
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-pkk-ba%C4%9Flant%C4%B1l%C4%B1-isimlerle-g%C3%B6r%C3%BC%C5%9Ft%C3%BC-iddias%C4%B1/
 bkz ananama ana bubama buba diyesin diyesen başı açık gelin olasan diyen fenerli erkek
