@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
 bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/z-ku%C5%9Fa%C4%9F%C4%B1n%C4%B1n-kurumsal-k%C3%B6leli%C4%9Fi-bitirecek-olmas%C4%B1/
 https://www.uludagsozluk.com/k/bursa-da-yerle%C5%9Fip-i%C5%9Fe-giren-%C4%B1%C5%9Fid-infazc%C4%B1s%C4%B1/ bkz ben
