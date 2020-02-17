@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz sarayın ekşiden beyin göçünü engellemek için önlem alması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyin göçünü engellemek için önlem alması
