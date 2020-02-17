@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw bkz illununatinni akp den it gibi korkması
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-sonras%C4%B1-ak-partinin-ba%C5%9F%C4%B1na-ge%C3%A7ecek-ki%C5%9Fi/&w=bg
 https://www.uludagsozluk.com/k/akp-nin-ge%C3%A7meyen-ekrem-imamo%C4%9Flu-ezikli%C4%9Fi/&w=bg bkz acele etme imam efendi
 https://eksisozluk.com/17-subat-2020-e-imamoglunun-santaj-yapmasi--6370403?a=popular bkz vergiler nereye gidiyor
 https://eksisozluk.com/rte-ile-birlikte-5-kisilik-olum-listesindeydim--6370417?a=popular 
