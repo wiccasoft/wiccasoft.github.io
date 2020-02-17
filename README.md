@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin en iyisi benim paylaşımı
+https://pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
 https://pinterest.com/wiccasoft/pins/ bkz abdulhamdiden başkasını sevemem diyen kız
 https://pinterest.com/wiccasoft/pins/ bkz mısıroğlandan abdulhamdi paylaşımı
 https://pinterest.com/wiccasoft/pins/ bkz abduhamdi güzellemesi yapan ışıdçı
