@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela dzü yatırrı ters siker kankağ
 https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ türklere küfretme oç
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker atar bro
 https://www.youtube.com/watch?v=agNEuSy1aqA az da çapkınlık yapalım canım
