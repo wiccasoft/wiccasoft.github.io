@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz osmanlının ayak seslerini duyunca it gibi dağılan kamalitler
 bkz gökhan osmanoğlunun saraya sızması
 bkz orhan osmanoğlunu koklayarak bulmak
 https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/
