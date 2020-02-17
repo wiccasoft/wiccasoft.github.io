@@ -3,7 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/elif-can-yetim/&w=gd bkz yetimin imdadına can havliyle yetişen ak kadın
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama  gideri var sanki
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
 https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular bkz çok romantiğ yağğğ
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fathi terim
 https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz yaşarken kadri bilinmeyen üstad
