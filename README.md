@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz elif can yetimin değil bana ait olan vir sayfadır tayyiple alakam yoktur
 https://www.pinterest.com/wiccasoft/pins/ bkz türklerin saray diye tabir etti i tc cumhurbaşkanlığı resmi sayfası değildir
 bkz sosyal medya fenomeni jahrein ile hiç bir alakm bulunmamaktadır
 bkz ekşcilere bilale anlatır gibi anlatmak
