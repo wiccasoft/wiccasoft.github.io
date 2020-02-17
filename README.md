@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.youtube.com/watch?v=agNEuSy1aqA az da çapkınlık yapalım canım
 bkz abdulhamdinin torunları vs kamalın itleri
 bkz payitaht abdulhamdi izlemeyen nesle aşina değilim efendiler
 https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/ 
