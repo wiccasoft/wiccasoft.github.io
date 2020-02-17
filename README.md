@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/fox-haber/&w=bg bkz trumpın kanalı
 https://www.uludagsozluk.com/k/spermin-tad%C4%B1-neden-tuzlu-sorunsal%C4%B1/&w=bg ilginç bi sorunsal
 https://www.uludagsozluk.com/k/ptt-kargo/&w=bg bkz küresel çetenin kargo şirketi
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz küresel empreyalistlerin yerni kuklası
