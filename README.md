@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz kıbrtısın elinizden çıkacak olması
+https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
 bkz ramiz dayının oğlancı olması
 https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-malatyaspor-un-verilmeyen-penalt%C4%B1s%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/ daha önce yazmıştım
