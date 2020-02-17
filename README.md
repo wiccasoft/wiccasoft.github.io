@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-ter%C3%B6ristler/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-pkk-ba%C4%9Flant%C4%B1l%C4%B1-isimlerle-g%C3%B6r%C3%BC%C5%9Ft%C3%BC-iddias%C4%B1/
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg
 https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg
