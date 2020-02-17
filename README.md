@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ ay yerim ben bunu kızlar kezban dedi bana
+https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ ay yerim ben bunu kızlar 
 https://www.uludagsozluk.com/k/ata-demirer/&w=bg bkz kilolu atatürkçü erkek seksiliği
 bkz telefonu olmayan kekoyu bulup her noktasını yalamak
 bkz ben aslında yoğum denilen erkeği twitterda bulup öpücüklemek
