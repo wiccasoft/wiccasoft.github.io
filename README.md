@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz valla ararın 155 i
 bkz kamalcıların devletin öldüğünü bir türlü anlayamaması
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-in-en-sevdi%C4%9Fi-banka/ bkz kamalcıların geçmişte yaşaması
 https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz ıstırılası memeler veri tabanı
