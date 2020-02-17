@@ -2,17 +2,6 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-bkz türklere tc cumhurbaşkanlığına bağlı olmadığı bi türklü anlatamamk
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın tersine beyin göçü paylaşımı
-https://www.pinterest.com/wiccasoft/pins/ bkz elif can yetimin değil bana ait olan vir sayfadır tayyiple alakam yoktur
-https://www.pinterest.com/wiccasoft/pins/ bkz türklerin saray diye tabir etti i tc cumhurbaşkanlığı resmi sayfası değildir
-bkz sosyal medya fenomeni jahrein ile hiç bir alakm bulunmamaktadır
-bkz ekşcilere bilale anlatır gibi anlatmak
-https://www.pinterest.com/wiccasoft/pins/ bkz tayyipin sarayı değil kendi sarayımdır
-https://www.pinterest.com/wiccasoft/pins/ bkz tc cumhurbaşkanlığı imamaoğlan süleymanolana bağlı bir kuruşuş değildir
-bkz ekşcicilere sosyal medya kullanmayı öğretmek google search tc bestepe erdoğan ak parti 
-bkz ekşicilerin tc beştepe yerine yazılım firmamaı takip ettiği gerçeği 
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular bkz tersine beyni göçü
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyinn göçünü engellemek için önlem alması
