@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz imamaoğlan recepoğlan görüşmesi
 https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular ayy çok romantiğğ ya
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kilit isimler
 https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz kdari yaşarken bilinmeyen isimler
