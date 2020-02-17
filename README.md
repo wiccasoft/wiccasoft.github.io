@@ -3,8 +3,8 @@
 
 <!--
 https://www.uludagsozluk.com/k/oytun-erba%C5%9F/&w=bg
+https://www.uludagsozluk.com/k/akp-nin-ekonomiyi-bitirmesi-ve-suriye-de-t%C3%BCkenmesi/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
-bkz acele etme papaz efendinin hindistanla ilişkileri düzeltmesi
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/feranor-un-tayyip-erdo%C4%9Fana-b%C3%B6l%C3%BCc%C3%BC-ve-hain-demesi/
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
