@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/terkeden-kad%C4%B1n%C4%B1n-ard%C4%B1ndan-a%C4%9Flayan-erkek/ vurduruyordur
 bkz mustafa kapının dolmuş şöförleri benim hayranım demesi
 bkz emre mor abinin aleyna tilkiye yürümesi
 https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz o sen ossan bayi
