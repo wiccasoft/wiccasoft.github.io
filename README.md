@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz sarayın deprem harçlarını arttırabiliriz sinyalleri
 https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezinin sarayla koordineli çalışması
 https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa hep aynı şeyler
 bkz receğ tayyiğ erdoğan vs mustafa atadan doğan
