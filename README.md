@@ -1,38 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
-bkz cem yılmazı kıskandırmak için yılmaz erdoğana yürümek
-https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular ya çok romantiğğğ
-https://cuckold-erkek.uludagsozluk.com/ zuahhahahaha bu ibneyi bi yerden tanıyorum sanki
-https://www.uludagsozluk.com/k/porno-star%C4%B1-k%C4%B1z%C4%B1n%C4%B1n-menejeri-olan-baba/&w=bg bkz adam mıdır
-bkz kızına damadını siktiren gemiş erkek
-bkz orhan bence gay vs müslüm gürses
-https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz yiyişmelik erkek
-bkz ablasını siken adama eniştoşko diyen erkek
-https://www.uludagsozluk.com/e/42871871/ bkz gavat
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz dayıııııı uzak dur diyoz dayııııı
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz ay hoş t ulan dayıı uzak dur bizden
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz ay götümü elledi
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz oğlancı
-bkz gözlerini kısıp senin götünü sikerim bakışı atan olgun dizi karakteri
-https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg sikse vermesmisin kankağ
-https://www.uludagsozluk.com/k/day%C4%B1yla-bulgara-kumara-gitmek/ bkz dayının götünü avuçlamak
-https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz ahh be baba benimle sevişmeden öldün gittin be
-https://www.uludagsozluk.com/k/gecenin-yak%C4%B1%C5%9F%C4%B1kl%C4%B1s%C4%B1/&w=bg ay fene filla oldum ayol
-blz emre mor abinin aleyna ablaya yürümesi
-https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg babağğğğğğğğğğ 
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/ veerse sikmesmisin kankağ
-https://twitter.com/arkabesliforum/status/979453504002625537 arkayı beşleyelim genşler
-https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ o sen ossan gari
-https://www.uludagsozluk.com/k/ekenomi-tek-haneye-inecek-inanmayan-gavurdur/ bkz gavur oğludur len emq
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg 
-https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz rte
-https://www.uludagsozluk.com/k/kaan-tang%C3%B6ze/&w=bg kral adam amk istese domalarım şerefsizim
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyorudur şerefsiz
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
--->
-
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
