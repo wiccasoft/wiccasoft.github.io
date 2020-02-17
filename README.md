@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz enkaz paralarının üstüne yatmak
 bkz tangır budun doğan ne iş yapıyor sorunsalı
 bkz traveler of gizle anlar ile tangır budun doğanın twittera link aramaya çıkması
 bkz ruhi çenet traveler of secret moments benzerliği
