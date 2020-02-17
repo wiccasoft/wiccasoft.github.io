@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz mustafa kapıyı eliyle boşaltan adam
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz oğlancıların tanıdığı çocuk
 bkz tangır budun doğanın savcı sayanın twitter adresinden indirdiği fotoları g.a.y klasörüne atması
 https://www.uludagsozluk.com/k/traveler-vs-abbas-dikbasar/ bkz iki tane ibnenin versusu hangi  aktif hangisi pasif
