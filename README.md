@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz kemalistlerin top tepicilere ayırdığı vakit
 bkz bütün kemalistlerin bütün top tepicileri ezbere bilmesi
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg top tepiciden sonrasını okumadım
 https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
