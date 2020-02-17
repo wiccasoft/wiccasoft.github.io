@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz oğlancı
 bkz gözlerini kısıp senin götünü sikerim bakışı atan olgun dizi karakteri
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg sikse vermesmisin kankağ
 https://www.uludagsozluk.com/k/day%C4%B1yla-bulgara-kumara-gitmek/ bkz dayının götünü avuçlamak
