@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz mustafa kapı fatih terim ali koç
+https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz bizim köy komple gürcü
+https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz mustafa kapı fatih terim ali koç rte
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz torpilli ak kadınlar kolu başkanı
 bkz receğ tayyiğ erdoğanın mustafa kapıya forma hediye etmesi
 https://www.uludagsozluk.com/k/terkeden-kad%C4%B1n%C4%B1n-ard%C4%B1ndan-a%C4%9Flayan-erkek/ vurduruyordur
