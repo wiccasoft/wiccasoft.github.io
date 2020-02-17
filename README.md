@@ -3,6 +3,7 @@
 
 <!--
 bkz kekoları şaşikliyoruz kampanyası
+https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay kızlar genişletmeyin o kadar
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-rezil-erkekleri/ bkz telefonu aleyo diyer açan kekolar
 bzk imamaoğlanın babasının oğlanı yollim tek kale maç yapız demesi
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ ay tam keko ayol 
