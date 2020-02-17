@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz türkü uzay ajansı vs nasa
 https://www.uludagsozluk.com/k/ayk%C3%BCyu-y%C3%BCkselten-yiyecekler/ ayqü ne la futbo ltopu mu
 https://www.uludagsozluk.com/e/42872751/ geliyorum bro yolla topu kalçama
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-uzay-ajans%C4%B1n%C4%B1n-2020-b%C3%BCt%C3%A7esi/ türk önde türk ileri
