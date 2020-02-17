@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz kekoları şaşikliyoruz kampanyası
-https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay kızlar genişletmeyin o kadar
+bkz kekoları şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-rezil-erkekleri/ bkz telefonu aleyo diyer açan kekolar
+https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay kızlar genişletmeyin o kadar
 bzk imamaoğlanın babasının oğlanı yollim tek kale maç yapız demesi
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ ay tam keko ayol 
 https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay yaptırmayın bunu kızlar
