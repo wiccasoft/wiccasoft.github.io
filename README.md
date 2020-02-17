@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bzk erkekleri şapşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlanmış kişi
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg
 https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular bkz mustafa kapı
