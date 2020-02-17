@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-https://cuckold-erkek.uludagsozluk.com/ iğrençsiniz ibneler demişmiydim?
+https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
+https://cuckold-erkek.uludagsozluk.com/ iğrençsiniz ibneler 
 bkz ibnelerin iğrenç oldukları gerçeği
 https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/ido-tatl%C4%B1ses-d%C3%BCnyan%C4%B1n-en-iyi-sanat%C3%A7%C4%B1s%C4%B1d%C4%B1r/
