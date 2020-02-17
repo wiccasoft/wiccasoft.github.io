@@ -5,8 +5,6 @@
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko amam gideri var ha?
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg hayallerde yaşıyor bazı oğlanlar
-https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz aleyne tilki seviyesi
-https://www.uludagsozluk.com/e/42871610/ verse nefessiz sikmem kankağ hatta sikmem çünkü silikonlu
 https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ bkz ben
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg bkz rte
 https://pinterest.com/wiccasoft/ bkz rte nin şatosunda keyif çatması
