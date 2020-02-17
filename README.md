@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz delikanlı gibi vuruşmak yerine karı peşinde koşan ılık
+https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
 bkz mustafa kapıyı eliyle boşaltan adam
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz oğlancıların tanıdığı çocuk
 bkz tangır budun doğanın savcı sayanın twitter adresinden indirdiği fotoları g.a.y klasörüne atması
