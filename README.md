@@ -2,25 +2,12 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
-https://www.uludagsozluk.com/k/oytun-erba%C5%9F/&w=bg
+https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
 https://www.uludagsozluk.com/k/akp-nin-ekonomiyi-bitirmesi-ve-suriye-de-t%C3%BCkenmesi/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/feranor-un-tayyip-erdo%C4%9Fana-b%C3%B6l%C3%BCc%C3%BC-ve-hain-demesi/
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
-bkz eşini uyurken gülümseten erkekin rte çıkması
-bkz rte nin ne uyumuşum yaaa demesi
-bkz rte nin çalışmak hojdır amam benena demesi
-bkz 1957 yılında rte nin verdiği ayar
-bkz ramiz dayının saraya sızması
-bkz ramiz dayının dışlandığı için cinsiyet değiştirip izole yaşama geçmesi
-https://www.uludagsozluk.com/k/cemal-s%C3%BCreya/&w=bg
-https://www.uludagsozluk.com/k/bir-travestinin-ac%C4%B1lar%C4%B1/
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7in-de-maske-bulamay%C4%B1nca-s%C3%BCtyen-takan-kral/
-https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
-https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
-bkz harahanlının kıbrıstaki kumarhaneleri kapatması
 -->
 
 
