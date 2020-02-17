@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun enkazda çıkan ganimetleri cukkalaması
 https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
 https://cuckold-erkek.uludagsozluk.com/ iğrençsiniz ibneler 
 bkz ibnelerin iğrenç oldukları gerçeği
