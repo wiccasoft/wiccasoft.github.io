@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz snoop dogg trump hakkında söylediği gay bedenimi titreten sözler
 bkz sayvcı sayanın gay bedenimi titreten twitter fotoları
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz ersun yanal fatih terim
 bkz devlet bahçelinin kılıştara attığı bakışın hala gay bedenimi titretmesi
