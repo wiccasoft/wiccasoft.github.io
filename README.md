@@ -3,16 +3,6 @@
 
 <!-- 
 https://www.pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
-bkz rte nin ikinci atatürk ise ikinci rte kim sorunsalı
-bkz mustafa kemal atatürk ve receğ tayyip erdoğan
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz ata önde türk ileri
-https://www.uludagsozluk.com/e/42872796/ dinliyomuşum gibi çek kanka
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-%C3%A7in-ba%C5%9Fkonsolosu-ile-g%C3%B6r%C3%BC%C5%9Fmesi/
-https://www.uludagsozluk.com/k/ahmed-arif/&w=bg bkz gay şiirleri
-bkz türkü uzay ajansı vs nasa
-https://www.uludagsozluk.com/k/ayk%C3%BCyu-y%C3%BCkselten-yiyecekler/ ayqü ne la futbo ltopu mu
-https://www.uludagsozluk.com/e/42872751/ geliyorum bro yolla topu kalçama
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-uzay-ajans%C4%B1n%C4%B1n-2020-b%C3%BCt%C3%A7esi/ türk önde türk ileri
 https://www.uludagsozluk.com/k/volkan-demirel/&w=bg eywall bro ali koçun askeriyim -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
