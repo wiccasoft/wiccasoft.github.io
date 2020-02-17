@@ -2,10 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/
-https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/hz-muhammed-in-%C3%BCmmeti-ev-yapmaz/
+https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/hamas-%C4%B1n-kad%C4%B1n-foto%C4%9Fraflar%C4%B1yla-hackleme-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/5-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Funu-%C3%B6ld%C3%BCren-cani-anne/
 https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular
