@@ -1,21 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!--
-https://twitter.com/arkabesliforum/status/979453504002625537 eywallah genşler
-https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
-https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-biritanya-nerde-diyen-kezo/ bkz elif can yetim
-https://www.uludagsozluk.com/k/elif-can-yetim/&w=gd bkz yetimin imdadına can havliyle yetişen ak kadın
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
-https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular bkz çok romantiğ yağğğ
-https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fathi terim
-https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz yaşarken kadri bilinmeyen üstad
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kaostan beslenen ak kadınlar kolu bşk
-https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw resmi gençlik kolları kanalımız
-https://www.youtube.com/watch?v=GjOV_hBGPCs var mısın delioğlan
-https://www.youtube.com/watch?v=U1NnA_YJZzM n'günlerdi ya
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
--->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
