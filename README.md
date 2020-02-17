@@ -2,16 +2,6 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın deprem harçlarını arttırabiliriz sinyalleri
-https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezinin sarayla koordineli çalışması
-https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa hep aynı şeyler
-bkz receğ tayyiğdendoğan vs mustafa atadan doğan
-https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg ismet vs tayyip
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg nedir bu tayyipin olayı sabah akşam tayyip 
-https://www.pinterest.com/wiccasoft/pins/ bkz burda tayyip denen bi hıyar varmış
-bkz ekşicilerin düşük zekasının güldürmesi :)))))))))))))))
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın ekşcicilerle dalga geçmesi :)))))))))))))
-bkz ekşicilerin tc cumhurbaşkanlığı yerine beni takip etmesi :))))))))))))))))))
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezini sarayla birleştirmesi
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır
