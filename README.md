@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz fatih tezcan analiz merkezinin paylaştığı abduhamdi 
 bkz receğ tyyiğ erdoğanın imamaoğlana gaffayı takması
 bkz receğ tayyiğ erdoğanın imamoğla hazımsızlığı
 https://acele-etme-papaz-efendi.uludagsozluk.com/ bkz okumadım pampa
