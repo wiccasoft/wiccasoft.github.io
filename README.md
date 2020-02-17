@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz ümmete güneş gibi doğan
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bkz verse sikmesmisn kanka
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz global kan emicilerin yeni kuklası
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz rizenin rus asıllı gürcüleri
