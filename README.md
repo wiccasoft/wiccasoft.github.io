@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz payitaht abdulhamdi izlemeyen nesle aşina değilim efendiler
+https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/ 
 https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/ kohluyorum kankağğ
 https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ benim bu gösterdim ürktü kankağğ
 https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg eywallah kankağ irtibatı koparmayalım 
