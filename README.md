@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz devlet bahçelinin kılıştara attığı bakışın hala gay bedenimi titretmesi
 bkz devlet bahçelinin kılıştarla mecliste kahve içmesi
 bkz devlet bahçelinin mecliste attığı bakış
 bkz trumpın fetö ile mücadele fotosu
