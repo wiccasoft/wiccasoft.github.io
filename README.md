@@ -4,6 +4,7 @@
 <!--
 bkz valla ararun 155 i attırurun içerü
 bkz kamalcıların devletin öldüğünü bir türlü anlayamaması
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-2012-de-att%C4%B1%C4%9F%C4%B1-tweet/
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-in-en-sevdi%C4%9Fi-banka/ bkz kamalcıların geçmişte yaşaması
 https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg bkz ıstırılası memeler veri tabanı
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fatih terim
