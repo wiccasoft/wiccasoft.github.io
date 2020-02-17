@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://pinterest.com/wiccasoft/ bkz akp nin renkli partileri
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz aptala anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bz bakir oğlan tatlılığı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama  gideri var sanki
