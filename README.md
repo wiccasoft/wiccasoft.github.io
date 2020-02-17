@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz pkk dağ kadrosunun saraya sızması
 bkz fetönün kıbrısı elinden kaçırması
 bkz eşiyle uyuyan çifte aranıza ben de yatim mi diyen adam
 bkz uyurken eşinde uyudun mu diye soran adam
