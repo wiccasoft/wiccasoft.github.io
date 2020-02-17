@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/survivor-taner-pornosu/&w=bg bkz iğrençsiniz ibneler
 https://pinterest.com/wiccasoft/pins/ bkz esedin ben askerime leş toplatmam mesajı
 bkz arsız bela vs mardinli serseri
 https://pinterest.com/wiccasoft/pins/  bkz şaka maka arsız belanın 41 yaşına gelmesi
