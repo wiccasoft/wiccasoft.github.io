@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-bkz n11 deki erkek mankene hallenen ekşici
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
 https://www.pinterest.com/wiccasoft/pins/ bkz ekşicilerin sarayın enkaz birimlerinde ipucu araması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz ekşi önündeki çaylak onay listesi
