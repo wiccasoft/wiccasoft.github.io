@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz savcı sayanaın kına gecesi fotosu
 https://www.uludagsozluk.com/k/soru-sorunca-cevap-vermeyen-t%C3%BCrbanl%C4%B1-k%C4%B1z/ burda soruları ben sorarım
 bkz rte nin kılışoğlanala el skışışırkenki fotosu
 bkz bahçelinin kılışoğlana attığı bakış
