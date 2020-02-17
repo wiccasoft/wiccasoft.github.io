@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/recep-erdo%C4%9Fan/&w=bg
 https://www.youtube.com/watch?v=XCvCoXtXu00 140 zafer
 https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz 404 not found
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-mal-erkek/ benim bu maçoyum
