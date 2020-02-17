@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay-seni-burada-afi%C5%9F-edece%C4%9Fim-s%C3%B6zl%C3%BCk-%C5%9Fahit/ ay hoşt
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-ba%C5%9Fkas%C4%B1-d%C3%BCzerken-videoya-%C3%A7eken-adam/&w=bg 
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay-seni-burada-afi%C5%9F-edece%C4%9Fim-s%C3%B6zl%C3%BCk-%C5%9Fahit/ 
 https://twitter.com/arkabesliforum/status/979453504002625537 ay ben bunu kaptırma size ayol
 https://eksisozluk.com/19-subat-2020-ali-koc-basin-toplantisi--6370165?a=popular ay bana bişey olacak kızlar
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz savcı sayan ben ay fena oluyom
