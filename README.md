@@ -2,15 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-https://pinterest.com/wiccasoft/pins/ bkz beşer esedin tayyibin itlerini gebertecez  mesajı
-https://odatv.com/esaddan-taarruz-mesaji-17022014.html
-https://pinterest.com/wiccasoft/pins/  bkz beşer esedaın doğu gutaya diktiği asker
-https://pinterest.com/wiccasoft/pins/ bkz bursa da kadrolu işe giren ışıd infazcısı
-https://pinterest.com/wiccasoft/pins/ bkz beşer esedin doğu gutaya asker yollaması
-bkz arzı belanın şaka maka x kuşağına girmesi
-bkz x kuşağının kurumsal köleliği itirecek olması
-https://pinterest.com/wiccasoft/pins/ bkz beşer esedı doğu gutaya asker yollaması
-bkz ido tatlısesin babam laf etmeyin sikerim demesi
+https://pinterest.com/wiccasoft/pins/ bkz esedin ben askerime leş toplatmam mesajı
 bkz arsız bela vs mardinli serseri
 https://pinterest.com/wiccasoft/pins/  bkz şaka maka arsız belanın 41 yaşına gelmesi
 https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
