@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
 https://eksisozluk.com/mustafa-kapi--4928478?a=popular
 bkz türk futbolunun geri kalma sebebi islamdır
