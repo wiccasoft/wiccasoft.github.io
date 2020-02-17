@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kapı gibi delikanlı
+https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg bkz göklerden gelen bir karar vardır
 https://eksisozluk.com/emrah-serbes--1502386?a=popular
 https://www.uludagsozluk.com/k/kavgadan-%C3%B6nce-etnik-kimli%C4%9Fini-s%C3%B6yleyen-erkek/  bkz kürt lütfen
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
