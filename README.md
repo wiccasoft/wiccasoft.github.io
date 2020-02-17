@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
+<!--
 https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular bkz çok romantiğ yağğğ
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fathi terim
 https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz yaşarken kadri bilinmeyen üstad
