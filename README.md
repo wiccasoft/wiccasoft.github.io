@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/evlenilecek-bey-fiyatlar%C4%B1/&w=bg ben bedeveyim kızlar kızlar gelem mi
 bkz sartı saçlarından sen suçlusun orospu
 https://www.uludagsozluk.com/k/eski-sevgilinin-g%C3%B6zlerinin-ye%C5%9Filini-%C3%B6zledim-demesi/&w=bg bkz benim bu
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela dzü yatırrı ters siker kankağ
