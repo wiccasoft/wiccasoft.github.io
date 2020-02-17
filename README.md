@@ -3,58 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
-<!--
-https://www.uludagsozluk.com/k/transvestite-of-secret-moments/
-https://www.youtube.com/watch?v=AeveY0aW1Qg ölürem brezilyam
-bkz abdülhamdinin intikamını almaya geliyoruz
-bkz osmanlının ayak seslerini duyunca it gibi dağılan kamalitler
-bkz gökhan osmanoğlunun saraya sızması
-bkz orhan osmanoğlunu koklayarak bulmak
-https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/
-bkz kara oğlanın görünce ölürem türküyem çalan akordiyon ustası
-bkz kara oğlanaın ramiz dayıyı koli bandıyla paketleyip saraya teslim etmesi
-bkz ramiz dayının saraya sızması
-bkz gara oğlanın ramiz dayıyı kıbrısa itelemesi
-bkz rihannanın koli bandıyla paketlediği adam
-bkz ramiz dayının saraya sızması
-bkz ramiz dayının karahanlıya verdiği ayar
-bkz kıbrısın elinizden çıkacak olması 
-bkz madem ramiz dayı yok niye inkar ediyosunuz
-bkz laz ziyanın ramiz dayıyı kıbrısta köşeye sıkıştırması
-bkz karahanlının ramiz dayı boş işlerle uğraşıyor demesi
-bkz karahanlının kbrısı raki kumarhaneleri kurtarması
-bkz kıbrısın elinizden çıkacak olması
-https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
-bkz ramiz dayının oğlancı olması
-https://www.uludagsozluk.com/k/16-%C5%9Fubat-2020-malatyaspor-un-verilmeyen-penalt%C4%B1s%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-o%C4%9Flanc%C4%B1-olma-ihtimali/ daha önce yazmıştım
-https://www.uludagsozluk.com/k/ramiz-day%C4%B1n%C4%B1n-asl%C4%B1nda-%C3%A7ok-bo%C5%9F-bir-karakter-olmas%C4%B1/
-bkz tolga ciğercinin hatay arabıyız demesi
-bkz tolga ciğerciye kediye bakar gibi bakan fenerliler
-bkz 17 şubat 2020 türklerin hala beni ele geçirememesi
-https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
-https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
-bkz tolga ciğerciyi alamadılar diye ağlayan fenerliler
-bkz kedinin ciğere baktığı gibi tolga ciğerciye bakan fenerliler
-bkz pkk dağ kadrosunun saraydan elektrik kaçırmasına ses etmeyen akitler
-bkz pkk dağ kadrosunun saraydan elektrik kaçırması
-bkz eşim ben uyurken başkalarıyla sevişebilri diyip uyurken dönüp uyuyan erkek
-bkz pkk dağ kadrosunun saraya sızmasına ses etmeyen chpkklılar
-bkz pkk dağ kadrosunun saraya sızması
-bkz gerdeğe girerken 200 rekat namaz kılan damad
-bkz kremlini kaç ülkücüyle basar alırız sorunsalı
-bkz bir gece ansızın washington moscow gözleri kıbrıs şeklinde gülümseyen erkek
-bkz kıbrısı kaç saatte alırız sorunsalı
-https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ kurtlar vadisi kıbrıs
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz ağır gay
-bkz berkecan ülkesinde başı açık görmek istmiyormuş beyler
-bkz berkecan 14 yaşında arkadaşları ona deep türkish webte reis diyor
-https://www.uludagsozluk.com/k/%C3%BClkemde-ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-kad%C4%B1n-g%C3%B6rmek-istemiyorum/&w=bg
-https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/&w=bg bkz ağır gay
-https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ 
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ gerikekalı amk
-https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/ı -->
-
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
 
