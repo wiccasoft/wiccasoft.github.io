@@ -1,6 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
+<!-- https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ bkz rte -->
+
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
