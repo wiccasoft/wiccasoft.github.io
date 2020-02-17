@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz deep webin deepsiz çukurundaki yaratıklar
 https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/&w=bg
 bkz valla ararun 155 i attırurun içerü
 bkz kamalcıların devletin öldüğünü bir türlü anlayamaması
