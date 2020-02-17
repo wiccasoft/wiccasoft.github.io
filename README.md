@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/u%C4%9Fur-pekta%C5%9F/&w=bg ay bana su getirin kızlar
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd ay bu da fena ayol kapı gibi 
 https://www.uludagsozluk.com/e/42870612/ ay ben fena oluyorum ayol
 https://www.uludagsozluk.com/k/u%C4%9Fur-pekta%C5%9F/&w=bg ay kızlar bana bişeyle oluyo ayol
