@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
 https://www.uludagsozluk.com/k/dizilerde-j%C3%B6nlerin-istanbulin-giymesi/
 https://www.uludagsozluk.com/k/chp-hisselerinin-devri-anayasaya-ve-hukuka-ayk%C4%B1r%C4%B1/
 https://pinterest.com/wiccasoft/pins/ bkz akp nin enkazda ki ganimetleri kurtarmaya başlaması 
