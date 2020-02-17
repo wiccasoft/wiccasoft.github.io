@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal vs fatih terim 
 https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
 bkz homoların neden kendilerine eş bulmadıkalrı sorunsalı
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg 
