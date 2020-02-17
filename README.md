@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz sarayın önündeki çaylak onay listesi
+https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk-%C3%A7aylak-onay-s%C4%B1ras%C4%B1/&w=bg
 bkz sarayın ekşiciler ülkeyi terk etmesin diye duvar örmeye başlaması
 bkz siyah snoop doggun beyaz sarayın sözcülüğene soyunması
 bkz sarayın ekşiden beyin göçünü engellemek için önlem alması
