@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://eksisozluk.com/mustafa-kapi--4928478?a=popular bkz kapı gibi delikanlı
+https://eksisozluk.com/evde-bozulan-her-seyi-kendi-tamir-eden-erkek--5891334?a=popular bkz mustafa kapı
 https://eksisozluk.com/emrah-serbes--1502386?a=popular
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
