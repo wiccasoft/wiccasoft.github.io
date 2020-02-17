@@ -1,56 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
-https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun 18 gündür enkazdayım paylaşımı
- bkz elif can yetimin pkk sızmalarını onaylaması
-bkz pkknın saraya sızması
-bkz imamaoğlan pkknın ipini çekti iddaları
-bkz 19 şubat ali koç açıklamaları
-bkz herşey çok güzel zaten tabi benim için
-https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw ak parti illumunati ellele 
-https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
-https://pinterest.com/wiccasoft/pins/ bkz elif can yetimin ışıdcı infazcıya ayak işler yaptırması
-https://pinterest.com/wiccasoft/pins/ bkz ışıdçı infazcının cesetleri yemesi
-https://pinterest.com/wiccasoft/pins/ bkz imamoğlanın babasının oğlanı yollim çift kale oynayın paylaşımı
-https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin d,nyanın en iyi tenörü benim paylaşımı
-https://pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
-https://pinterest.com/wiccasoft/pins/ bkz abdulhamdiden başkasını sevemem diyen kız
-https://pinterest.com/wiccasoft/pins/ bkz mısıroğlandan abdulhamdi paylaşımı
-https://pinterest.com/wiccasoft/pins/ bkz abduhamdi güzellemesi yapan ışıdçı
-https://pinterest.com/wiccasoft/pins/ bkz şoray uzundan abdulhamdi paylaşımı
-https://pinterest.com/wiccasoft/pins/ bkz şoray uzunun kızlara selam çakması
-https://pinterest.com/wiccasoft/pins/ bkz bursada infaz edilen genç işidçi
-https://pinterest.com/wiccasoft/pins/ bkz çinli kızı rahatsız eden kürt
-https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/&w=bg bkz yakışıklı solular
-https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg ıstırılası memeler
-https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun enkazda çıkan ganimetleri cukkalaması
-https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
-https://cuckold-erkek.uludagsozluk.com/ iğrençsiniz ibneler 
-bkz ibnelerin iğrenç oldukları gerçeği
-https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
-https://www.uludagsozluk.com/k/ido-tatl%C4%B1ses-d%C3%BCnyan%C4%B1n-en-iyi-sanat%C3%A7%C4%B1s%C4%B1d%C4%B1r/
-https://www.uludagsozluk.com/k/survivor-taner-pornosu/&w=bg bkz iğrençsiniz ibneler
-https://pinterest.com/wiccasoft/pins/ bkz esedin ben askerime leş toplatmam mesajı
-bkz arsız bela vs mardinli serseri
-https://pinterest.com/wiccasoft/pins/  bkz şaka maka arsız belanın 41 yaşına gelmesi
-https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
-https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker kankağğğ
-bkz atacücüye laf etme sebepsi baban kimdi bilemezdin şerefsiz it
-https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg top tepiciden sonrasını okumadım
-https://cuckold-erkek.uludagsozluk.com/ bkz aferim olm devam
-https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ türklere küfretme oç
-https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker atar bro
-https://www.youtube.com/watch?v=agNEuSy1aqA az da çapkınlık yapalım canım
-bkz abdulhamdinin torunları vs vahdettinin itleri
-bkz payitaht abdulhamdi izlemeyen nesle aşina değilim efendiler
-https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/ 
-https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ benim bu 
-https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg eywallah kankağ irtibatı koparmayalım 
-https://www.uludagsozluk.com/k/do%C4%9Fu-perin%C3%A7ek/&w=bg eywall kankağ şulenin selamı var
-https://pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
--->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
