@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence
+https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
 https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg bkz hayallerde yşıyor bazı ibneler
 https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
 bkz hayallerde yaşıyor bazı ibneler
