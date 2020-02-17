@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-bkz fatih tezcanın birazdan  atacağı tweet
+https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezinin taşınması
 https://www.youtube.com/watch?v=4RpMzsA1VOw hojdır
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.pinterest.com/wiccasoft/pins/ bkz receğ tayyiğ erdoğanın dumansız hava sahası için süleymanı dikmesi
