@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz aşık olunana boyun posun devrilsin denilen adamın akp illumunati il meclis üyesi çıkması
+bkz boyun posun devrilsin denilen adamın akp illumunati il meclis üyesi çıkması
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-rezil-erkekleri/ bkz rizeli dersimli erkekler
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/elif-can-yetim/ bkz kaostan beslenen global vampirlerin kuklası
