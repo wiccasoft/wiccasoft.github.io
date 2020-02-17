@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz türkiye uzay akansı ben değilim ben volkan demirelim
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-uzay-ajans%C4%B1n%C4%B1n-2020-b%C3%BCt%C3%A7esi/ bkz ben değilim
 https://www.pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi:)) -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
