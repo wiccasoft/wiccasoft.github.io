@@ -4,6 +4,7 @@
 <!--
 https://eksisozluk.com/emrah-serbes--1502386?a=popular
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal vs fatih terim 
 https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg 
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
