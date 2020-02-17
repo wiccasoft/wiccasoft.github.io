@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
 bkz harahanlının kıbrıstaki kumarhaneleri kapatması
 -->
