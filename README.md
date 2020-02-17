@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ bkz ay keko kaynıyo ayol
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-ba%C5%9Fkas%C4%B1-d%C3%BCzerken-videoya-%C3%A7eken-adam/ bkz rte
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-akp-meclis-%C3%BCyelerine-e%C5%9Fk%C4%B1ya-demesi/ ay hoşt ulan
 https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay yaptırmayın bunu kızlar
