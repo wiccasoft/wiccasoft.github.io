@@ -4,6 +4,7 @@
 <!--
 bkz illumunatinin türkleri facebook twitter instagrama hapsetmesi
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizona kertenkelesi dansı
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw bkz illununatinin akp den it gibi korkması
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-sonras%C4%B1-ak-partinin-ba%C5%9F%C4%B1na-ge%C3%A7ecek-ki%C5%9Fi/&w=bg
 https://www.uludagsozluk.com/k/akp-nin-ge%C3%A7meyen-ekrem-imamo%C4%9Flu-ezikli%C4%9Fi/&w=bg bkz acele etme imam efendi
