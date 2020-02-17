@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://pinterest.com/wiccasoft/pins/ bkz şoray uzunun kızlara selam çakması
 https://pinterest.com/wiccasoft/pins/ bkz bursada infaz edilen genç işidçi
 https://pinterest.com/wiccasoft/pins/ bkz çinli kızı rahatsız eden kürt
 https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
