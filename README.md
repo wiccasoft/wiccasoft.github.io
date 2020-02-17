@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-
+<!--
+https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg
+https://www.uludagsozluk.com/e/42870248/ -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
