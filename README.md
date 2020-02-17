@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/sak%C4%B1z%C4%B1-patlatarak-%C3%A7i%C4%9Fneyen-erkek/ ay fena oldum gay bedenim titredi yine
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw zahahahahaha ra ra ra raaaa
 bkz illumunatinin türkleri facebook twitter instagrama hapsetmesi
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizona kertenkelesi dansı
