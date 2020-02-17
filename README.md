@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/elif-can-yetim/ bkz kaostan beslenen global vampirlerin kuklası
 https://www.uludagsozluk.com/e/42870729/ bkz iyiki varsın facebook twtitter instagram apple google
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-ba%C5%9Fkas%C4%B1-d%C3%BCzerken-videoya-%C3%A7eken-adam/&w=bg bkz rte
