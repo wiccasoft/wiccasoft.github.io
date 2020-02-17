@@ -3,6 +3,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
+https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular
 https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/
 https://www.uludagsozluk.com/k/s%C4%B1nava-giren-kar%C4%B1s%C4%B1na-d%C3%BCzenek-kuran-mit-eleman%C4%B1/
 https://www.uludagsozluk.com/k/adam-gibi-adam-olan-siyaset%C3%A7iler/
