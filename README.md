@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz savcı sayan ben ay fena oluyom
 https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg fena oluyom ayoll bıngıl bıngıl
 https://www.uludagsozluk.com/k/u%C4%9Fur-pekta%C5%9F/&w=bg ay bana su getirin kızlar
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd ay bu da fena ayol kapı gibi 
