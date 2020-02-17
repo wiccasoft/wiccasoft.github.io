@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://eksisozluk.com/emrah-serbes--1502386?a=popular
 https://www.uludagsozluk.com/k/fatih-terim-vs-ersun-yanal/&w=bg
 https://www.uludagsozluk.com/k/e%C5%9Fcinseller-s%C3%B6zl%C3%BC%C4%9F%C3%BCmden-gitsin/
 https://www.uludagsozluk.com/k/ecevit-in-koli-band%C4%B1yla-paketletti%C4%9Fi-adam/
