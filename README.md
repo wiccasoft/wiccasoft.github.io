@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/arap-milleti/&w=bg bkz türkleri arkadan vuran miller
 bkz ali koçun gay ordusu
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
 bkz delikanlı gibi vuruşmak yerine karı peşinde koşan ılık
