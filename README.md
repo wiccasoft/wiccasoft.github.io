@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg babağğğğğğğğğğ 
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/ veerse sikmesmisin kankağ
 https://twitter.com/arkabesliforum/status/979453504002625537 arkayı beşleyelim genşler
 https://www.uludagsozluk.com/k/aleyna-tilki-dinleyen-dolmu%C5%9F-%C5%9Fof%C3%B6r%C3%BC/ o sen ossan gari
