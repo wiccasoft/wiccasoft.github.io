@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz kadir mısıroğlanın suudi uçağı keşke elzaığa düşseydi demesi
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-belgeleri/&w=bg
 https://www.youtube.com/watch?v=XCvCoXtXu00 140 zafer
 https://www.youtube.com/watch?v=Zw_WUGrgrQ8 tokatlı beyni vs çorumlu beyni
