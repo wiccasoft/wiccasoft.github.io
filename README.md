@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz kara oğlanın görünce ölürem türküyem çalan akordiyon ustası
 bkz kara oğlanaın ramiz dayıyı koli bandıyla paketleyip saraya teslim etmesi
 bkz ramiz dayının saraya sızması
 bkz gara oğlanın ramiz dayıyı kıbrısa itelemesi
