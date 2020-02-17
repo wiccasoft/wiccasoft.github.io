@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko amam gideri var sanki
 https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi/&w=bg ay fena olim ayol
 https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ gelin olmuş gisdiyosun
 https://galeri.uludagsozluk.com/r/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi-1926299/ su getirin
