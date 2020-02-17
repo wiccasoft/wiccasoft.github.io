@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!--
+bkz ramiz dayının saraya sızması
 bkz gara oğlanın ramiz dayıyı kıbrısa itelemesi
 bkz rihannanın koli bandıyla paketlediği adam
 bkz ramiz dayının saraya sızması
