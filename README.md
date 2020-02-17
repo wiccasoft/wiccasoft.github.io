@@ -3,7 +3,9 @@
 
 <!--
 https://www.uludagsozluk.com/k/furkan-g%C3%B6k/&w=bg
-https://www.uludagsozluk.com/e/42870248/ -->
+https://www.uludagsozluk.com/e/42870248/
+https://www.uludagsozluk.com/k/kavgadan-%C3%B6nce-etnik-kimli%C4%9Fini-s%C3%B6yleyen-erkek/ bkz gaylerin güldürmesi
+-->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
