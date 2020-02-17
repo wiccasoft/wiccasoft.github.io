@@ -4,6 +4,7 @@
 <!--
 bkz kekoları şaşikliyoruz kampanyası
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ ay tam keko ayol 
+https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay yaptırmayın bunu kızlar
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-ba%C5%9Fkas%C4%B1-d%C3%BCzerken-videoya-%C3%A7eken-adam/ bkz keko
 https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay yaptırmayın bunu kızlar
 https://www.uludagsozluk.com/k/nikola-tesla-vs-thomas-edison/&w=bg ay ikiside şapşik ampulcü
