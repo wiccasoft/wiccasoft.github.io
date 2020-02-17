@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg 
 https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz rte
 https://www.uludagsozluk.com/k/kaan-tang%C3%B6ze/&w=bg kral adam amk istese domalarım şerefsizim
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyorudur şerefsiz
