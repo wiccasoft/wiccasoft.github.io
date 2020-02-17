@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7inlilerin-uygur-t%C3%BCrklerine-yapt%C4%B1%C4%9F%C4%B1-zul%C3%BCm/
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg
