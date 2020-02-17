@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://pinterest.com/wiccasoft/pins/ bkz çinli kızı rahatsız eden kürt
 https://www.uludagsozluk.com/k/e%C5%9Fcinsellere-sayg%C4%B1-duymuyorum/ iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F/&w=bg bkz yakışıklı solular
 https://www.uludagsozluk.com/k/%C3%B6zcan-deniz-in-memeleri/&w=bg ıstırılası memeler
