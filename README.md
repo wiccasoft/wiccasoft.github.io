@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/ ay bu erkekler
 bzk tengir budun doğanın savcı sayanı usaktan takip etmesi
 bkz kılıştaroğlanın bahçeli oğlana attığı bakış
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
