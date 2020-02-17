@@ -4,7 +4,7 @@
 <!-- 
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular bkz tersine beyni göçü
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyinn göçünü engellemek için önlem alması
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyin göçünü engellemek için önlem alması
 -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
