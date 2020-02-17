@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-bkz 18 lik kaslı fitbolcuların gay bedenimi tiretmesi
+bkz 18 lik kapı gibi fitbolcuların gay bedenimi tiretmesi
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz kapı gibi delikanlı
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz gerçek çekik gözlü türkler
 https://www.uludagsozluk.com/k/snoop-dogg-un-t%C3%BCrbanl%C4%B1-foto%C4%9Fraf%C4%B1/ oyşşşş
