@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/snoop-dogg-un-donald-trump-hakk%C4%B1nda-s%C3%B6yledikleri/&w=bg
 bkz valla ararun 155 i attırurun içerü
 bkz kamalcıların devletin öldüğünü bir türlü anlayamaması
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-2012-de-att%C4%B1%C4%9F%C4%B1-tweet/
