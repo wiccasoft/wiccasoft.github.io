@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg ay şeyma olasım geldi ayol
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko amam gideri var ayol
 https://www.uludagsozluk.com/k/galatasarayl%C4%B1lar%C4%B1n-sara%C3%A7o%C4%9Fluna-boru-ile-%C3%A7%C4%B1kmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/spartacus-tan-ak%C4%B1lda-kalanlar/&w=bg bkz kaslı erkekler 
