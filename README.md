@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://www.uludagsozluk.com/k/bedri-gencer/&w=bg bkz kelimelere sığmayacak adamlar
 bkz ak parti binası önünde toğlaşan kalabalık
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-sonras%C4%B1-ak-partinin-ba%C5%9F%C4%B1na-ge%C3%A7ecek-ki%C5%9Fi/&w=bg 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bkz ümmete güneş gibi doğan
