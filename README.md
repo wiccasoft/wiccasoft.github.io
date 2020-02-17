@@ -1,33 +1,19 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- ,
+<!-- 
+bkz şaka maka arsız belanın 41 yaşına gelmesi
 https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin babası anısına yaptığı paylaşım
 bkz arsız bela vs mardinli serseri
-bkz şaka maka arsız belanın 41 yaşına gelmesi
 https://pinterest.com/wiccasoft/pins/ bkz size eppek çıkmaz bence 
-https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg bkz hayallerde yşıyor bazı ibneler
-https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
-bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/z-ku%C5%9Fa%C4%9F%C4%B1n%C4%B1n-kurumsal-k%C3%B6leli%C4%9Fi-bitirecek-olmas%C4%B1/
-https://www.uludagsozluk.com/k/bursa-da-yerle%C5%9Fip-i%C5%9Fe-giren-%C4%B1%C5%9Fid-infazc%C4%B1s%C4%B1/ bkz ben
-https://www.uludagsozluk.com/k/ido-tatl%C4%B1ses-d%C3%BCnyan%C4%B1n-en-iyi-sanat%C3%A7%C4%B1s%C4%B1d%C4%B1r/
-https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg bkz hayallerde yşıyor bazı ibneler
-https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
-bkz kamalcı beyni vs şempanze beyni
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker kankağğğ
-bkz atacücüye laf etme sebepsi baban kimdi bilemezdin şerefsiz
-bkz kemalistlerin 90 yıldır top tepicilere ayırdığı vakit
-bkz bütün kemalistlerin bütün top tepicileri ezbere bilmesi
+bkz atacücüye laf etme sebepsi baban kimdi bilemezdin şerefsizi
 https://www.uludagsozluk.com/k/sercan-y%C4%B1ld%C4%B1r%C4%B1m/&w=bg top tepiciden sonrasını okumadım
-https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
-https://www.uludagsozluk.com/k/evlenilecek-bey-fiyatlar%C4%B1/&w=bg ben bedeveyim kızlar
-https://www.uludagsozluk.com/k/eski-sevgilinin-g%C3%B6zlerinin-ye%C5%9Filini-%C3%B6zledim-demesi/&w=bg bkz benim bu
-https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela dzü yatırrı ters siker kankağ
+https://cuckold-erkek.uludagsozluk.com/ bkz aferim olm devam
 https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ türklere küfretme oç
 https://www.uludagsozluk.com/k/mardinli-serseri-vs-ceza/ arsız bela siker atar bro
 https://www.youtube.com/watch?v=agNEuSy1aqA az da çapkınlık yapalım canım
-bkz abdulhamdinin torunları vs kamalın itleri
+bkz abdulhamdinin torunları vs vahdettinin itleri
 bkz payitaht abdulhamdi izlemeyen nesle aşina değilim efendiler
 https://www.uludagsozluk.com/k/ben-sizi-de%C4%9Fil-abd%C3%BClhamid-han-%C4%B1-kokluyorum/ 
 https://www.uludagsozluk.com/k/%C3%A7inli-k%C4%B1z%C4%B1-rahats%C4%B1z-eden-t%C3%BCrk/ benim bu 
