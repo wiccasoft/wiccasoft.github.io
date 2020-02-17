@@ -2,21 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/ahmed-arif/&w=bg bkz gey şiirlerinin nefes darlığı yaratması
-https://pinterest.com/wiccasoft/pins/ bkzak partinin hala enkazda ganimet araması
-https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
-https://www.uludagsozluk.com/k/akp-nin-elaz%C4%B1%C4%9F-deprem-paralar%C4%B1n%C4%B1n-%C3%BCst%C3%BCne-yatmas%C4%B1/
-https://www.uludagsozluk.com/k/ahmed-arif/&w=bg bkz gay şiirleri yazıp 31 çekmek
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz mustfa kapının sus işareti yapması
-https://www.pinterest.com/wiccasoft/pins/ bkz ruhi çenetin yeni video için kaynak araması
-https://www.pinterest.com/wiccasoft/pins/ bkz süleymanın enkazı elleriyle kazması
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-18-g%C3%BCnd%C3%BCr-elaz%C4%B1%C4%9F-da-olmas%C4%B1/&w=bg
-bkz tuhi çenet vs gizli anların gezicisi
-bkz mersinli cihangir vs tangır budun doğan
-bkz hamasın israilli kızların twitlerini hacklemesi (bkz işsizlik level 9999)
-bkz enkaz paralarının üstüne yatmak (bkz işsizlik level 9999)
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz oğlancıların yeni gözdesi
-https://www.uludagsozluk.com/k/traveler-of-secret-vs-tengir-budun/ bkz iki tane işsiz gün ay yıl
+https://pinterest.com/wiccasoft/pins/ bkz akp nin enkazda ki ganimetleri kurtarmaya başlaması 
 https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/hamas-%C4%B1n-kad%C4%B1n-foto%C4%9Fraflar%C4%B1yla-hackleme-yapmas%C4%B1/
@@ -26,7 +12,6 @@ https://www.uludagsozluk.com/k/i%C5%9F-bankas%C4%B1-hisseleri-halka-devredilecek
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
 https://www.uludagsozluk.com/k/dizilerde-j%C3%B6nlerin-istanbulin-giymesi/
 https://www.uludagsozluk.com/k/chp-hisselerinin-devri-anayasaya-ve-hukuka-ayk%C4%B1r%C4%B1/
-https://pinterest.com/wiccasoft/pins/ bkz akp nin enkazda ki ganimetleri kurtarmaya başlaması 
 https://twitter.com/arkabesliforum/status/979453504002625537 eywallah genşler
 https://twitter.com/AkpCocuklari/status/1229148000506777600 eywallah çocuklar
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-biritanya-nerde-diyen-kezo/ bkz elif can yetim
