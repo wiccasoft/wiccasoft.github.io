@@ -3,9 +3,6 @@
 
 <!-- 
 https://www.youtube.com/watch?v=XCvCoXtXu00 140 zafer
-bkz üstün zeklalıların genelde fenerli ve galatsaraylı olduğu gerçeği
-https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-mal-erkek/ bkz mal len mq
-https://www.uludagsozluk.com/e/42872927/ bkz sikilmiş kupanın davasını yaparlar len mq
 https://www.uludagsozluk.com/k/karadenizli-insan-beyni/&w=bg bkz 404 not found
 https://www.uludagsozluk.com/k/sevgilisinin-giyimine-kar%C4%B1%C5%9Fan-mal-erkek/ benim bu maçoyum
 bkz türkiye uzay akansı ben değilim ben volkan demirelim
