@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal f
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/ bkz gay
 https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay/&w=bg bkz savcı sayan
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/ bkz gay
-https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay/&w=bg bkz savcı sayan gün ay yıl
+https://www.uludagsozluk.com/k/ya%C5%9Fl%C4%B1-gay/&w=bg bkz gün ay yıl
 https://www.uludagsozluk.com/k/esad-y%C3%B6netimi-nin-halep-te-kontrol%C3%BC-ele-ge%C3%A7irmesi/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-rte-ye-5-kuru%C5%9Fluk-dava-a%C3%A7mas%C4%B1/
 https://www.uludagsozluk.com/k/kaostan-beslenen-globalist-%C3%A7ete-ve-militanlar%C4%B1/ lol
