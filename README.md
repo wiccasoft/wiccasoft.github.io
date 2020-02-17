@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- https://www.youtube.com/watch?v=U1NnA_YJZzM beraber yürüdük -->
+<!-- https://www.youtube.com/watch?v=U1NnA_YJZzM n'günlerdi ya-->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
