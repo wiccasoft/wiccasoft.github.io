@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
 bkz eşini uyurken gülümseten erkekin rte çıkması
 bkz rte nin ne uyumuşum yaaa demesi
 bkz rte nin çalışmak hojdır amam benena demesi
