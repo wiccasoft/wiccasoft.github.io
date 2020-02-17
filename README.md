@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
-bkz akpnin ulucularla dünya ülkelerinin arasını bozması
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/akp-nin-do%C4%9Fu-t%C3%BCrkistan-politikas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-adam-gibi-adamlar-listesi/&w=bg
