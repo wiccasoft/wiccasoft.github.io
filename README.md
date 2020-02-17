@@ -3,6 +3,7 @@
 
 <!--
 bkz kekoları şaşikliyoruz kampanyası
+https://www.uludagsozluk.com/k/vajinaya-kel-kafas%C4%B1n%C4%B1-sokan-adam/ ay yaptırmayın bunu kızlar
 https://www.uludagsozluk.com/k/nikola-tesla-vs-thomas-edison/&w=bg ay ikiside şapşik ampulcü
 https://www.uludagsozluk.com/k/telefonu-aleyo-diye-a%C3%A7an-keko/ tam şapşik ayol
 https://www.uludagsozluk.com/k/mutlu-eden-basit-%C5%9Feyler/&w=bg bkz erkekler
