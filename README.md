@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun 18 gündür enkazdayım paylaşımı
  bkz elif can yetimin pkk sızmalarını onaylaması
 bkz pkknın saraya sızması
 bkz imamaoğlan pkknın ipini çekti iddaları
