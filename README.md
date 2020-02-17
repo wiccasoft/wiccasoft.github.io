@@ -8,6 +8,7 @@ bkz göreceksiniz wiccasoftun tc bestepeyle hiç bir bağı yok
 https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir e
 bkz ekşcilerin tc bestepe diyer yazılım firmamı takip etmesi :))))))))))
 bkz ekşcilerin yazılım firmamı alışveriş sitesi sanması :))))))))))
+bkz ekşcilerin niye bu kadar düşük zekalı olması sorunsalı
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemeyorum saraya sor pampa
 https://www.pinterest.com/wiccasoft/pins/ bkz beyinsiz ekşcicilerin yazılım firmamı sarayları sanması
