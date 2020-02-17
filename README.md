@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://pinterest.com/wiccasoft/pins/ bkz ışıdçı infazcının cesetleri yemesi
 https://pinterest.com/wiccasoft/pins/ bkz imamoğlanın babasının oğlanı yollim çift kale oynayın paylaşımı
 https://pinterest.com/wiccasoft/pins/ bkz ido tatlısesin d,nyanın en iyi tenörü benim paylaşımı
 https://pinterest.com/wiccasoft/pins/ bkz volkan demirelin kaleyi küçültmesi
