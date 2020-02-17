@@ -4,6 +4,7 @@
 
 <!--
 bkz karahanlı vs laz ziya
+bkz kedinin ciğere baktığı gibi tolga cüercüye baktığı gibi baka fenerliler
 bkz pkk dağ kadrosunun saraydan elektrik kaçırmasına ses etmeyen akitler
 bkz pkk dağ kadrosunun saraydan elektrik kaçırması
 bkz eşim ben uyurken başkalarıyla sevişebilri diyip uyurken dönüp uyuyan erkek
