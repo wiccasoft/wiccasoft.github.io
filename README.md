@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz koşlaşılan erkeğin uyurken gülümsüyerek eşini seyretmesi
 bkz hoşlaşılan futbolcunun mankenlere çakması
 bkz sevilen peygamberin ölmesi
 bkz batmanla bir gece vs jokerle bir gece 
