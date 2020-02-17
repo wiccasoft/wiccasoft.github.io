@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/
 https://www.uludagsozluk.com/k/%C5%9Fener-%C3%B6zbayrakl%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/hz-muhammed-in-%C3%BCmmeti-ev-yapmaz/
