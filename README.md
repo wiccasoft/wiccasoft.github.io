@@ -1,35 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!--
-https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-ortak-%C3%B6zellikleri/&w=bg bkz dindar olmaları
-https://www.uludagsozluk.com/k/arap-milleti/&w=gd bkz oç
-https://www.uludagsozluk.com/k/bursa-da-yerle%C5%9Fip-i%C5%9Fe-giren-%C4%B1%C5%9Fid-infazc%C4%B1s%C4%B1/&w=gd bkz oç
-https://acele-etme-papaz-efendi.uludagsozluk.com/ biri de çıkıp demiyoki papaz efendi bu nedir
-bkz aclele etme papaz efendi nin acele etmemesi
-https://www.uludagsozluk.com/k/akp-ter%C3%B6r-destek%C3%A7isi-bir-partidir/&w=bg
-bkz receğ tayyiğ erdoğana entr girerkene akla fikirlerin gelmesi
-bkz receğ tayyiğ erdoğan a entry girerken 9 senede ne kazandınız sorunsalı
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-9-senede-suriye-de-ne-kazand%C4%B1/&w=bg
-bkz receğ tayyiğ erdoğanın bi ladıma bakar dünya lideri oluruz demesi
-bkz receğ tayyiğ erdoğanın doalrı 1 lira yapayım mi demesi
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-%C3%BClkeye-%C3%A7a%C4%9F-atlatmas%C4%B1/&w=bg
-bkz imamaoğlanın kilit isimlerle görüştü iddasını reddetiği iddaları
-bkz imamaoğlunun pkk kilit isimlerle görüştü iddası
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-pkk-ba%C4%9Flant%C4%B1l%C4%B1-isimlerle-g%C3%B6r%C3%BC%C5%9Ft%C3%BC-iddias%C4%B1/
-bkz ananama ana bubama buba diyesin diyesen başı açık gelin olasan diyen fenerli erkek
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko amam gideri var sanki
-https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi/&w=bg ay fena olim ayol
-https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ gelin olmuş gisdiyosun
-https://galeri.uludagsozluk.com/r/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi-1926299/ su getirin
-https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi/&w=bg ay fena olim ayol
-https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ bkz palu ailesi
-https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular ayy çok romantiğğ ya
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kilit isimler
-https://eksisozluk.com/kadir-misiroglu--459173?a=popular bkz kdari yaşarken bilinmeyen isimler
-https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ bkz rte 
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-pkk-ba%C4%9Flant%C4%B1l%C4%B1-isimlerle-g%C3%B6r%C3%BC%C5%9Ft%C3%BC-iddias%C4%B1/ bkz başlığın tam hali -->
-
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
