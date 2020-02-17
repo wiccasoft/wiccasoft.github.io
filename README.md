@@ -1,8 +1,11 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- https://www.uludagsozluk.com/k/kaan-tang%C3%B6ze/&w=bg kral adam amk istese domalarım şerefsizim
+<!-- 
+https://www.uludagsozluk.com/k/iyi-insanlar/&w=bg bkz rte
+https://www.uludagsozluk.com/k/kaan-tang%C3%B6ze/&w=bg kral adam amk istese domalarım şerefsizim
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyorudur şerefsiz
+https://www.uludagsozluk.com/k/uyurken-e%C5%9Fini-seyrederek-g%C3%BCl%C3%BCmseyen-erkek/ bkz rte
 -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
