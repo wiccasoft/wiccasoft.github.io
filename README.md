@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/bursa-da-yerle%C5%9Fip-i%C5%9Fe-giren-%C4%B1%C5%9Fid-infazc%C4%B1s%C4%B1/ bkz ben
 https://www.uludagsozluk.com/k/ido-tatl%C4%B1ses-d%C3%BCnyan%C4%B1n-en-iyi-sanat%C3%A7%C4%B1s%C4%B1d%C4%B1r/
 https://www.uludagsozluk.com/k/%C5%9Foray-uzun/&w=bg bkz hayallerde yşıyor bazı ibneler
 https://cuckold-erkek.uludagsozluk.com/ bkz hem kemalist ve hem kinci hem ahlaksız bir gavat
