@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!-- 
+bkz 1957 yılında rte nin verdiği ayar
 bkz ramiz dayının saraya sızması
 bkz ramiz dayının dışlandığı için cinsiyet değiştirip izole yaşama geçmesi
 https://www.uludagsozluk.com/k/cemal-s%C3%BCreya/&w=bg
