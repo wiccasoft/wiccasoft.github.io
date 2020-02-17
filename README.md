@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ bkz rte -->
+<!-- https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ bkz rte 
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-pkk-ba%C4%9Flant%C4%B1l%C4%B1-isimlerle-g%C3%B6r%C3%BC%C5%9Ft%C3%BC-iddias%C4%B1/ bkz başlığın tam hali -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
