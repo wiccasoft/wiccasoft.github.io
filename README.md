@@ -3,7 +3,7 @@
 
 <!--
 bkz receğ tayyiğ erdoğanın şatosunda verdiği parti
-bkz acele etme imamaoğlan efendi ezanlarımız susturamayacaksınız
+bkz acele etme imamaoğlan efendi partimizi susturamayacasınız
 https://www.uludagsozluk.com/k/murat-a%C4%9F%C4%B1rel/ eywallah pampağ
 https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemiyorum altan bilemiyorum
