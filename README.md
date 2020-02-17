@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/ablas%C4%B1n%C4%B1n-d%C3%BC%C4%9F%C3%BCn%C3%BCnde-g%C3%B6bek-at%C4%B1p-e%C4%9Flenen-erkek/&w=bg
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz dayıııııı uzak dur diyoz dayııııı
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz ay hoş t ulan dayıı uzak dur bizden
 https://www.uludagsozluk.com/k/ramiz-karaeski/&w=bg bkz ay götümü elledi
