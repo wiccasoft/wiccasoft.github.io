@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://eksisozluk.com/rte-ile-birlikte-5-kisilik-olum-listesindeydim--6370417?a=popular 
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz kan emicic globalistlerin yeni kuklası
 bkz rafet el romanın dişisiyle çiftleşmek isteyen arizono kertenkelesi dansı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=gd bkz kekeo ama gideri var sanki
 bkz kemalistlerin bakunini makarna markası sanması
