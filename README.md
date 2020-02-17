@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+https://pinterest.com/wiccasoft/pins/ bkz süleyman soylunun ellrriyle enkazı kazması
 https://pinterest.com/wiccasoft/pins/ bkz akp nin enkazda ki ganimetleri kurtarmaya başlaması 
 https://pinterest.com/wiccasoft/pins/ bkz hamasın israilli kızların twittlerini heklemsi
 https://www.uludagsozluk.com/k/savc%C4%B1-sayan-%C4%B1n-fet%C3%B6-ile-m%C3%BCcadele-foto%C4%9Fraf%C4%B1/
