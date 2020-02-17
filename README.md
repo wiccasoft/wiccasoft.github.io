@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
-bkz tengir budun doğan vs recep tayyipten doğan
-bkz bi ozan kabak vardı noldu ona
+https://www.uludagsozluk.com/k/mustafa-kap%C4%B1-n%C4%B1n-fenerbah%C3%A7e-ye-transferi/
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1br%C4%B1s-%C4%B1n-elimizden-%C3%A7%C4%B1kacak-olmas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7inlilerin-uygur-t%C3%BCrklerine-yapt%C4%B1%C4%9F%C4%B1-zul%C3%BCm/
@@ -16,6 +15,8 @@ https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4
 https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/
 https://www.uludagsozluk.com/k/feranor-un-tayyip-erdo%C4%9Fana-b%C3%B6l%C3%BCc%C3%BC-ve-hain-demesi/
 https://www.uludagsozluk.com/k/che-guevara-n%C4%B1n-1959-da-rte-ye-verdi%C4%9Fi-ayar/
+bkz tengir budun doğan vs recep tayyipten doğan
+bkz bi ozan kabak vardı noldu ona
 -->
 
 
