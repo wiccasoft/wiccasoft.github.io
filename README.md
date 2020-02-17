@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)](https://www.youtube.com/watch?v=AeveY0aW1Qg )
 
 <!--
+https://www.uludagsozluk.com/k/akp-nin-hindistan-ile-aram%C4%B1z%C4%B1-bozmas%C4%B1/ zuahahahha dhalsıma kırgınım
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 https://eksisozluk.com/fenerbahcenin-sistemin-disina-itilmesi--6369604?a=popular
 https://www.uludagsozluk.com/k/uh-ah-dev-imam-on-iki-dev-imam/ zuahahhaha
