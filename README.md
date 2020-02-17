@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz ekşicilerin düşük zekasının güldürmesi :)))))))))))))))
 bkz ekşicilerin tc cumhurbaşkanlığı yerine beni takip etmesi :))))))))))))))))))
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
 https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezini sarayla birleştirmesi
