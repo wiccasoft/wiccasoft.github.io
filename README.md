@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 <!-- 
+bkz sevilen peygamberin başkasını sevmesi
 bkz uyurken götünü seyderek gülümseyen erkek
 bkz kıbrıs elinizden çıkarken van vekiline vakit kaybetmeniz
 bkz hdp van vekilinin evinde terörrik saklaması
