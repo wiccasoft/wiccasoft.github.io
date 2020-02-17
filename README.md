@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.uludagsozluk.com/k/elif-can-yetim/ bkz global vampirlerin kuklası
+https://www.uludagsozluk.com/k/elif-can-yetim/ bkz kaostan beslenen global vampirlerin kuklası
 https://www.uludagsozluk.com/e/42870729/ bkz iyiki varsın facebook twtitter instagram apple google
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-ba%C5%9Fkas%C4%B1-d%C3%BCzerken-videoya-%C3%A7eken-adam/&w=bg bkz rte
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz ersun yanal fatih terim
