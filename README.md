@@ -3,6 +3,7 @@
 
 <!--
 bkz imamaoğlan recepoğlan görüşmesi
+https://galeri.uludagsozluk.com/r/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi-1926299/ su getirin
 https://www.uludagsozluk.com/k/g%C3%B6z-k%C4%B1rparak-selam-veren-erkek-%C3%A7ekicili%C4%9Fi/&w=bg ay fena olim ayol
 https://www.uludagsozluk.com/k/ba%C5%9F%C4%B1-a%C3%A7%C4%B1k-gelin-istemeyen-muhafazakar-aile/ bkz palu ailesi
 https://eksisozluk.com/yilmaz-erdoganin-belcim-bilgine-yazdigi-siir--6370009?a=popular ayy çok romantiğğ ya
