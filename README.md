@@ -4,6 +4,7 @@
 
 
 <!--
+bkz beyaz tenli hamur suratlı kara kafalı türk
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz arap lütfen
 https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz oç ları
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz muhammedin mağarada allahla konuşması
