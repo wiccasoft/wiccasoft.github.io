@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
-bkz receğ tayyiğ erdoğanın sahte maramar ü. iibf diplaması yaptırması
+bkz receğ tayyiğ erdoğanın iibf kıskançlığı
+bkz receğ tayyiğ erdoğanın sahte marmara ü. iibf diplaması yaptırması
 bkz bi burhan altıntop kolay yetişmiy
 bkz iyi ki ilkokul 2 terkim denilen anlar
 bkz turizm otelcilik incilicce bitirmiş adamım sen kimsin lan diyen ergen özgüveni
