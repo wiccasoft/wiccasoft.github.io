@@ -4,6 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
+https://www.uludagsozluk.com/k/dr-devlet-bah%C3%A7eli/&w=bg bkz dr diyeceksiniz
 bkz acle etmem papaz efendi vs devlet bahçeli vs abdulhamdi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-abdullah-%C3%B6calan/&w=bg 
 bkz devet bahçeli vs abdullah gül
