@@ -4,6 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
+bkz ösö militanlarının caner erkin hayranı çıkması
 bkz ilkokul mezunun kadının caner erkini yorumlaması
 bkz fenerbahçenin beyin kanartan usaylı futbolu
 bkz naylon branda gay mi sorunsalı
