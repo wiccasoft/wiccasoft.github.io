@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
+<!--
+https://eksisozluk.com/ben-turbanli-turk-komandosuyum--6371118?a=popular
 https://www.pinterest.com/wiccasoft/pins/ bkz gez oglim saraya göz dikenin ez oglim
 https://www.pinterest.com/wiccasoft/pins/ bkz tatlısesin rte benim kankam demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin kürtçe dil hakkı isterik demesi
