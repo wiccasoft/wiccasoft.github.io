@@ -4,7 +4,6 @@
 
 <!--
 bkz n11 deki erkek modellere bakıp 31 çekmek
-bkz sokaklarda kadın görmek is te mi yo ruz yeter ayol
 bkz ilkokul mezunun kadının podolskiyi burak yılmazla kıyaslamaı
 bkz sokaklarda kadın görmek is te mi yo ruz
 bkz hoşlaşılan erkeğin ayarmatör olması
