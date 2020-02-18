@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz alaylı özgüveni
-bkz kırk bir yapar
+bkz bahçelinin yerim rihannanın yeridir demesi
 bkz tangır budun doüanın behçeli aile ne dir bilmez bir oç dir demesi
 bkz elif can yetim in berat a abi demesi
 bkz elif can yetim vs elif can öksüz
