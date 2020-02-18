@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz acele etme papaz efendinni pazaı sıkıştırması
 bkz tangır budun doğanın ülkü ocaklarında tankın önünde poz verdiği yıllar
 bkz tangır budun doğanın ülkü ocaklarını bırakması
 bkz abdulhamdi öcünülan vs devlet bahçedendoğan
