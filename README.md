@@ -4,6 +4,7 @@
 
 
 <!--
+bkz şeymanın macun ol kampanyasıda toplanan paraları acapulcada çatır çatır yediği gerçeği
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz macunol kampanyası
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz yılın gavatı ödül töreni
 https://www.uludagsozluk.com/k/osman-kavala-ve-mansur-yava%C5%9F/&w=bg bkz iki kavat
