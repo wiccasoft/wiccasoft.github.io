@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz sıradan bi insanın sarayla ne işi olur sorunsalı
+https://www.uludagsozluk.com/k/gece-3te-hitleri-d%C3%BC%C5%9F%C3%BCnerek-sigara-i%C3%A7mek/
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg bkz sarayı markaja almış işsizler ordusu
 bkz aptala anlatır gibi anlatmak
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
