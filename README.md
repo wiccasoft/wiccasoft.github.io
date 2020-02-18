@@ -4,6 +4,7 @@
 
 <!--
 bkz mustafa kapı vs emre mor
+bkz ergenlerin beni akranı sanması olm 41 yaşındayım babanız yaşındayım lan
 https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz ruhi çenet
 bkz herker yaşıtlarıyla takılsın kampanyası
 bkz 41 yaşdındaayım sekste güçlüyüm
