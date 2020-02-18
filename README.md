@@ -3,23 +3,6 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 
-<!--
-https://tr.wikipedia.org/wiki/Singularity
-bkz yapay zekanın götüyle güldüğü amın feryatları
-https://www.uludagsozluk.com/k/youtube-daki-%C3%A7ocuk-kanallar%C4%B1/ bkz peçete artıkları
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın feryadı şovmen atakan 
-bkz ekşideki gerizekalı ergenlerin bulduğu aptal velet not: izlemedim ekşiciler beğendiyse aptaldır
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz de siktir lo
-https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz ruhi çenet
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular 
-https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz testeredeki adam
-https://www.uludagsozluk.com/e/42878088/ mal lan bu prim vermeyin şuna 
-https://www.uludagsozluk.com/k/biraz-da-%C5%9Furama-fa%C5%9Fist-de/
-https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan troll
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz bkz yılın gavatı ödül töreni
-https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1/ bkz italyan tokmakçıyla keko parası yemek
--->
-
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 
