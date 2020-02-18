@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+bkz mhplilerin çin sarayını basıp 10. yıl marşı okuması
 bkz acele etme papaz efendinin tangır budun doğan dostluğu
 bkz tangır busdun doğanın devlet bahçelinin tweetlerini çalması
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-dua-ederek-gsyi-%C5%9Fampiyon-yapt%C4%B1/&w=bg
