@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+https://www.uludagsozluk.com/k/imam-mustafa-ayhan/ bkz uzak durulası imamlar
 https://www.uludagsozluk.com/k/hafter-in-%C3%B6so-gibi-olmas%C4%B1/ bkz hafterin ipini çekmenin zamanı geldi
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg vaziyet alın beyler cinconlular saldırmadan
 23 şubat 2020 fenerbahçe galatasaray maçı bkz caziyet alın beyler skiş var
