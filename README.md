@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz kızılhaçın sms  le fener ol kampanyası düzenlemesi
 bkz emrahın hülya avşar şovu klima çalışmıyo diye terketmesi
 bkz emrahın koş anneni sikiyolar temalı mc donalds reklamı
 bkz emrahın 90 larda oynadığı filmler
