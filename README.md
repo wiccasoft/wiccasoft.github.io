@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz üretmeyip tüketip siyasal islam diye ağlamak
 bkz 100 yıldır futbol tartışanların ekonomik krizden şikayet etmeye başlaması
 https://eksisozluk.com/saka-maka-turkiyede-alim-gucunun-bayagi-dusmesi--6372029?a=popular bkz arap işgali
 bkz ali koçun feneri siyasal islamcılar bitirdi demesi
