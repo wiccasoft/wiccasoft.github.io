@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+bkz bahçelinin biz osmaniyesporluyuz dededen demesi
 bkz bahçelini ben küçükken sarışındım sonradan kel oldum demesi
 bkz bahçeli aile nedir bilmez oç 
 bkz kadir şeker adam mıdır sorunsalı
