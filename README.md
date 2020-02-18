@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz erkan tanın alternatif olarak ios a geçmesi
 bkz fatih portaklın erkan tana taktığı kapak
 bkz erkan tanın yazılım işine girmesi
 bkz erkan tanın ver mehteri demesi
