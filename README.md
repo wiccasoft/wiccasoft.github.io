@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz globalist olduğumu tr ile ilgilenmediğim  aptal ekşciye bilale analtır gibi anlatmak
 bkz fatih portakal gibi anlatmak:
 https://www.google.com.tr/search?q=tcbestepe&oq=tc+beştepe
 bkz ekşicilerin niye bu kadar düşük zekalı olması sorunsalı
