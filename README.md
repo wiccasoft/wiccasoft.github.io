@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz iibf mezunlarının güldürmesi
 bkz receğ tayyiğ erdoğanın iibf kıskançlığı
 bkz receğ tayyiğ erdoğanın sahte marmara ü. iibf diplaması yaptırması
 bkz bi burhan altıntop kolay yetişmiy
