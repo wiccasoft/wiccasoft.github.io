@@ -5,6 +5,8 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+bkz devletin başına abdullah geçecek
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-abdullah-%C3%B6calan/&w=bg
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-muhalefeti-ele%C5%9Ftirmesi/
 bkz bahçelinin biz osmaniyesporluyuz dededen demesi
 bkz bahçelini ben küçükken sarışındım sonradan kel oldum demesi
