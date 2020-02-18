@@ -5,7 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1/ bkz italyan tokmakçıyla keko parası yemek
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz macunol kampanyası
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz yılın gavatı ödül töreni
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz bkz yılın gavatı ödül töreni
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz keko liseli
 https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan gay
