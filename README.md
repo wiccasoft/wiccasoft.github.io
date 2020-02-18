@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg vaziyet alın beyler cinconlular saldırmadan
 23 şubat 2020 fenerbahçe galatasaray maçı bkz caziyet alın beyler skiş var
 https://www.uludagsozluk.com/k/23-%C5%9Fubat-2020-fenerbah%C3%A7e-galatasaray-ma%C3%A7%C4%B1/&w=bg
 bkz emine erdoğanın instagramda paylaştığı çanta
