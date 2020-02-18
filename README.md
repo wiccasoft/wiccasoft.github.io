@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
-https://www.pinterest.com/wiccasoft/pins/  bkz elif can yetimini recüğ tayyiğ erdoğan gürcü eşi de arap zaten açıklaması
-
+https://www.pinterest.com/wiccasoft/pins/  bkz elif can yetimin rte gürcü eşi de arap zaten açıklaması
 -->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
