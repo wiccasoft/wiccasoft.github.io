@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!--
+<!--,
+https://pinterest.com/wiccasoft/pins/ bkz erkan tanın sakso çalarım demesi
 bkz erkan tanın mehteri vermesi
 bkz erkan tanla fatih tezcanın alternatif mekanlar bakması
 https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-alternatif-meslek-%C3%B6nerileri/
