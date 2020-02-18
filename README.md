@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz kan girsin kızıl çıksın
+bkz gök girsin kızıl çıksın
 bkz ayfere laf edenin içinden geçerim
 https://www.youtube.com/watch?v=RAvm2pIC-Ig genç osman
 bkz ayfer-osmanoğlu gökhanın bomba gibi geldiğini kabul edmeyen kamalcılar
