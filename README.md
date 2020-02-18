@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+23 şubat 2020 fenerbahçe galatasaray maçı bkz caziyet alın beyler skiş var
+https://www.uludagsozluk.com/k/23-%C5%9Fubat-2020-fenerbah%C3%A7e-galatasaray-ma%C3%A7%C4%B1/&w=bg
 bkz emine erdoğanın instagramda paylaştığı çanta
 https://www.uludagsozluk.com/k/hafter-in-%C3%B6so-gibi-olmas%C4%B1/ bkz adam hakılı beyler hain osmanlı
 https://www.uludagsozluk.com/k/beyaz-bere-giyen-erkek-iticili%C4%9Fi/ bkz uzak durulası erkekler no 1
