@@ -5,6 +5,7 @@
 <!--
 bkz mustafa kapı vs emre mor
 bkz anadoludaki oğlancılığın mide bulandırması
+bkz ekşici ibnelerin bulduğu mobile twitter linkleri
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın feryadı atakan
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz ıstırırım bunu
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz yalanır bu
