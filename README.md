@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz bekir irtegünnü bizim ceddimöiz uzaylı zaten demesi
+bkz fenerbahçelileri uzay futbolu oynaması
+https://www.uludagsozluk.com/k/uzay-futbolu-oynayan-fenerbah%C3%A7e/
+https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg
 bkz ya lan söy le me göz leri n ele çin ki
 bkz it's none of my business in türkçesi
 bkz falconun gollerini iphone6s dan izlemek 
