@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz sarayın gürcüler için kyk hazırlaması
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg ben rize gürcüsüyüm zaten
 https://wikileaks.org/berats-box/emailid/16067 bkz elif can yetimin berata sa berat abi demesi
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw facebook twitter instagram size yeter gerisi bana
