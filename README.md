@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sikse vermesmsini kankağ
 bkz ülkücülerin gay olma nedenleri 
 bkz sedat peker tangır budun doğan kımız götlü davşan
 https://www.uludagsozluk.com/k/k%C3%BCr%C5%9Fad/&w=bg bkz ülkücü gay isimleri
