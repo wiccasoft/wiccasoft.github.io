@@ -5,7 +5,7 @@
 <!--
 bkz gök girsin kızıl çıksın
 bkz ayfere laf edenin içinden geçerim
-https://www.youtube.com/watch?v=RAvm2pIC-Ig genç osman
+https://www.youtube.com/watch?v=RAvm2pIC-Ig 
 https://pinterest.com/wiccasoft/pins/ bkz bahçelinni meral çok güzel yahu demesi
 bkz netfiliz osmanlı dizisi yayınladı diye kullanmayan kamalcıların güldürmesi
 https://pinterest.com/wiccasoft/pins/ bkz erkan tanın tan vakti rihanna çok güzel oluyo demesi
