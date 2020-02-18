@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular nbkz elif can yetimin berat sa abi demesi
 bkz receğ tayyiğ erdoğanın damadının elif can yetimi yetiştirmesi
 bkz receğ tayyiğ doğanın damadının elif can yetime sakso yaptırması
 bkz elif can yetim kim amk
