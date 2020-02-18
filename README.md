@@ -3,11 +3,6 @@
 
 <!--
 bkz elif can yetimin rt gürcü eşide arap zaten açıklaması
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz elif can yetimin rteni eşi arap açıklaması
-bkz elif can yetimin sa berat abi ezan okundmu demesi
-bkz sarayda fena sikiş döndüğü gerçeği
-https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
-https://eksisozluk.com/ben-turbanli-turk-komandosuyum--6371118?a=popular
 https://www.pinterest.com/wiccasoft/pins/ bkz gez oglim saraya göz dikenin ez oglim
 https://www.pinterest.com/wiccasoft/pins/ bkz tatlısesin rte benim kankam demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin kürtçe dil hakkı isterik demesi
