@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz adam fenerli zaten beyler küfretmeyin
 bkz receğ tayyiğ erdoğan vs burak yılmaz
 bkz fenerbahçelileri uzay futbolu oynaması
 bkz bekir irtegünün bizim ceddimiz uzaylı demesi
