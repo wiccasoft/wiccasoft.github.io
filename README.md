@@ -4,6 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
+bkz devet bahçeli vs abdullah gül
 bkz ruhi çenet türkiyenin steve jobsıysa barış öcan elon muskıdır
 bkz kadi mısıroğlanın bana deha diyen atacücüye demesin demesi
 bkz kılıçoülanın devlet bahçeliye siyasi deha diyen bana demesin demesi
