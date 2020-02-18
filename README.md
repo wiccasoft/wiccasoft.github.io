@@ -3,9 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz instagram da türbanlı avına çıkan eşcinsel
 bkz naylon branda gay mi sorunsalı
-bkz heceleyerek kadın is te mi yo ruz diyen eşcinsel sevimliliği
+bkz heceleyerek kadın is te mi yo ruz diyen eşcinsel sevimliliği :)))
 bkz sokaklarda kadın görmek is te mi yo ruz
 bkz n11 deki erkek modellere bakıp 31 çekmek
 bkz ilkokul mezunun kadının podolskiyi burak yılmazla kıyaslamaı
