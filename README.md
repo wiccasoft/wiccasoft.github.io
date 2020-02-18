@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw facebook twitter instagram size yeter gerisi bana
 bkz globalist olduğumu tr ile ilgilenmediğimi aptal ekşciye bilale analtır gibi anlatmak
 bkz fatih portakal gibi anlatmak:
 https://www.google.com.tr/search?q=tcbestepe&oq=tc+beştepe
