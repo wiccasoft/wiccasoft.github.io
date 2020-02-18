@@ -4,6 +4,7 @@
 
 
 <!--
+bkz deri montlu nazi gay subayları
 bkz ülkücülerin çoğunluğunun gay olduğu gerçeği 
 bkz tangır budun doğanın savcı sayan resimlerini gay klasörüne atması
 https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan gay
