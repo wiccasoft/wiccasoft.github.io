@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
-https://www.tccb.gov.tr/program/
+https://www.tccb.gov.tr/program/ bkz elif can yetimin programı sunması
 bkz elif can yetimin rt gürcü eşide arap zaten açıklaması
 https://www.pinterest.com/wiccasoft/pins/ bkz gez oglim saraya göz dikenin ez oglim
 https://www.pinterest.com/wiccasoft/pins/ bkz tatlısesin rte benim kankam demesi
