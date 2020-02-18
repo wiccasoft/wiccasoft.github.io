@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
+
 <!--
+https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sahabelerin medine de moda haftası yaptığı yıllar
 https://www.uludagsozluk.com/k/charles-bukowski/ bkz buko vs bakunin
 bkz hz muhammed vs hz eyüp 
 bkz hz muhammed hz ayşeyi daha bi sevmesi
