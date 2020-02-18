@@ -4,6 +4,7 @@
 
 <!--
 bkz naylon branda gay mi sorunsalı
+bkz n11 deki erkek modellere bakıp 31 çekmek
 bkz heceleyerek kadın is te mi yo ruz diyen eşcinsel sevimliliği :)))
 bkz sokaklarda kadın görmek is te mi yo ruz
 bkz n11 deki erkek modellere bakıp 31 çekmek
