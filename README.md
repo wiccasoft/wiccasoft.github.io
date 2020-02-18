@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz yılın gavatı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz liseli
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz yılın gavatı
