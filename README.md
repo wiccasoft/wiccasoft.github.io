@@ -6,13 +6,6 @@
 <!--
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz yılın gavatı
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz yakışıklı peygamberler
-bkz acun ılıcalının tipik türk prototip olduğu gerçeği
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz yılın gavatı
-bkz beyaz tenli hamur suratlı kara kafalı türk
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz arap lütfen
-https://www.uludagsozluk.com/k/k%C3%BCrtler/&w=bg bkz oç ları
-https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz muhammedin mağarada allahla konuşması
-https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sahabelerin medine de moda haftası yaptığı yıllar
 https://www.uludagsozluk.com/k/charles-bukowski/ bkz buko vs bakunin
 bkz şeyma ılıcalının hz muhammed en sevdiğim peygamber demesi -->
 
