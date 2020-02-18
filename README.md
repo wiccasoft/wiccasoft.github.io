@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz ibb nin andorid li işçileri sms le atması 
 https://www.uludagsozluk.com/k/yusuf-kaplan/&w=bg
 https://www.uludagsozluk.com/k/falcao-nun-fenerbah%C3%A7e-ye-att%C4%B1%C4%9F%C4%B1-gol/
 https://www.uludagsozluk.com/k/dine-bilimden-daha-%C3%A7ok-g%C3%BCvenen-%C3%BClkeler/ bkz fc barcelona
