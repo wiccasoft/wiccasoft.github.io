@@ -3,9 +3,9 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz falconun gollerini iphone6s dan izlemek 
 bkz beratın imamoğlana gel tek kale maç yapalım götün yiyosa demesi
 bkz ağza bir parça sucuk atıp falconun golünü yütüpte aramak
-bkz falconun gollerini iphone6s dan izlemek 
 bkz falconun terli terli bira içmesi
 bkz fatih terimin falcoyu elleriyle beslemesi
 bkz falcaonun fenere boru gibi sapladığı gol
