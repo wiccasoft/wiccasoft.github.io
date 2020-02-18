@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz ali kırcanın bıyıklarını kesmesi
 bkz levent kırcanın sarhoş taklidi yapması
 https://www.pinterest.com/wiccasoft/pins/  bkz pkk nın saraydan kaçak elektrik çekmesi
 https://www.pinterest.com/wiccasoft/pins/  bkz elif can yetimin rte gürcü eşi de arap zaten açıklaması
