@@ -1,7 +1,9 @@
 
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
+
 <!--
+bkz kadri şekeroğlan vs ilber ortaçoğlan
 bkz kadri şekeroğlanın abduhamdiyi tv ye çıkarması
 bkz 5. abdulhamdi ismet inönü dostluğu
 bkz ilber ortaçgilin 7 nota var daha ne amk demesi
