@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/youtube-daki-%C3%A7ocuk-kanallar%C4%B1/ bkz peçete artıkları
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın oğlu atakan not: izlemedim
 bkz ekşideki gerizekalı ergenlerin bulduğu aptal velet
 bkz mustafa kapı vs emre mor
