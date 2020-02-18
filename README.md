@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
-bkz beratın imamaoğlana gel tek kale maç yapalım götün yiyosa demesi
-bkz imamoğlanın ben de kaleciydim ha demesi
+bkz beratın imamoğlana gel tek kale maç yapalım götün yiyosa demesi
 bkz ağza bir parça sucuk atıp falconun golünü yütüpte aramak
 bkz falconun gollerini iphone dan izlemek vs androidden izlemek
 bkz falconun terli terli bira içmesi
