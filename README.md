@@ -4,6 +4,7 @@
 
 
 <!--
+bkz acun ılıcalının tipik türk prototip olduğu gerçeği
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz yılın gavatı
 bkz beyaz tenli hamur suratlı kara kafalı türk
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg bkz arap lütfen
