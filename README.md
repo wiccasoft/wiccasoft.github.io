@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz tangır dunudn doğanın kıskanç bi gay olduğu gerçeği
 https://eksisozluk.com/insan-irki-yok-olursa-dunyayi-ele-gecirecek-canli--4579674?a=popular siz giderken biz dönüyoduk
 bkz o geç olmuş ekşi çaylak isteğim onaylan dı mı bi bakim
 https://traveler-of-secret-moments.uludagsozluk.com/ kendini komik mi sanıyo bu
