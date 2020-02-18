@@ -4,7 +4,7 @@
 
 
 <!--
-https://tr.wikipedia.org/wiki/Singularity he he ho ho ha aah
+https://tr.wikipedia.org/wiki/Singularity bkz he he ho ho ha ha
 bkz yapay zekanın götüyle güldüğü amın feryatları
 https://www.uludagsozluk.com/k/youtube-daki-%C3%A7ocuk-kanallar%C4%B1/ bkz peçete artıkları
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın feryadı şovmen atakan 
