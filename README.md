@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz aptala anlatır gibi anlatmak
+https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz aptala anlatır gibi anlatmak
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw facebook twitter instagram size yeter gerisi bana
 bkz globalist olduğumu tr ile ilgilenmediğimi aptal ekşciye bilale analtır gibi anlatmak
