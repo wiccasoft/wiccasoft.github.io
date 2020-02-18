@@ -5,14 +5,12 @@
 
 <!--
 https://www.uludagsozluk.com/k/youtube-daki-%C3%A7ocuk-kanallar%C4%B1/ bkz peçete artıkları
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın feryadı atakan 
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın feryadı şovmen atakan 
 bkz ekşideki gerizekalı ergenlerin bulduğu aptal velet not: izlemedim ekşiciler beğendiyse aptaldır
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz ıstırırım bunu
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz yalanır bu
 bkz ergenlerin beni akranı sanması olm 41 yaşındayım babanız yaşındayım lan
 https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz ruhi çenet
-bkz herker yaşıtlarıyla takılsın kampanyası
-https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz benim vurduruyorum
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz adam olacak çocuk
 https://eksisozluk.com/avmyi-birbirine-katan-dengesiz-gencler--6372123?a=popular bkz gençlerin azması
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular 
