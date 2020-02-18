@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://traveler-of-secret-moments.uludagsozluk.com/ kendini komik mi sanıyo bu
 bkz elif can yetimi berat abiye söyliycem sizi dmesi
 bkz daha bunlar iyi günleriniz'in arapçası
 bkz 90 yıldır futbol tartışanların ekonomik krizden şikayet etmeye başlaması
