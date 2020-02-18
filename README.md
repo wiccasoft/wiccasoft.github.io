@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz yılın gavatı
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz yakışıklı peygamberler
 bkz acun ılıcalının tipik türk prototip olduğu gerçeği
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz yılın gavatı
