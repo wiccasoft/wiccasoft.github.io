@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz receğ tayyiğ erdoğan vs burak yılmaz
 bkz fenerbahçelileri uzay futbolu oynaması
 bkz bekir irtegünün bizim ceddimiz uzaylı demesi
 https://www.uludagsozluk.com/k/ilkokul-mezunu-kad%C4%B1n%C4%B1n-konferans-vermesi/ karı fenerli değil len mq
