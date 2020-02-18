@@ -4,6 +4,8 @@
 
 <!--
 bkz alaylı özgüveni
+bkz kılıçoülanın devlet bahçeliye siyasi deha diyen bana demesin demesi
+bkz devlet bahçelinin siyasi dehayım demesi
 bkz türkiyenin siyasi dehaları
 bkz ışıd infazcılarının caner er ki ni sahalarda görmek is ti yo ruz demesi
 bkz ösö militanlarının caner erkin hayranı çıkması
