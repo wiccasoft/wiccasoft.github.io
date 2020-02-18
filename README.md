@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz emine erdoğaın paylaştığı çanta
 bkz ilkokul mezunun kadının falcoya kötü oynuto demesi
 bkz şeyma subaşının tokmakçısıyla paylaştığı fotoğraf
 bkz damla ersubaşı'nın eşiyle paylaştığı fotoğraf
