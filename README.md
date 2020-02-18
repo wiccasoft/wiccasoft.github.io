@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+https://www.uludagsozluk.com/k/en-sevilen-peygamber/&w=bg bkz yakın durulası peygamberler
 bkz burak yılmaza adam mısın diye bağıran fenerli
 bkz receğ tayyiğ erdoğanın beyin kanartan burak yılmaz yorumu
 https://www.uludagsozluk.com/k/imam-mustafa-ayhan/ bkz uzak durulası imamlar
