@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz tanfır budun doğanın ülkü ocaklarını bırakması
 bkz abdulhamdi öcünülan vs devlet bahçedendoğan
 bkz fener ol kampanyası vs gavat ol kampanyası
 bkz idris palunun boktan bi tarihçi olması
