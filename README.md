@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+On 11/6/10, Elif Yetim <elif.can.yetim@googlemail.com> wrote: >> Sa Berat Abi, ( ben tekrar 
+bkz elif can yetimini berata  sa berat abi diye mail atması
 bk elif can yetimin berat berat abi demesi wikileaks te yazıyo
 https://wikileaks.org/berats-box/emailid/16067 bkz elif can yetimin berata sa berat abi demesi
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bk berat abisinin gülü
