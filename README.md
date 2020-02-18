@@ -4,7 +4,7 @@
 
 
 <!--
-bkz megolaman bi arabın kendini övdüğü kitabı kutsal sayan toplumlar
+bkz megolaman bi arabın kendini övdüğü kitab :))
 bkz allahın en sevdiğim kul muhammed onun yüzü suyu hürmetin yarattım evreni demesi
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz muhammedin mağarada allahla konuşması
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sahabelerin medine de moda haftası yaptığı yıllar
