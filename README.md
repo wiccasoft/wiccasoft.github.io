@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!--
+bkz ilkokul 2 terk kadının burak yılmaz hakında makale yazması
 bkz burak yılmaz hakkında makale yazıyorum rahatsız etmeyin
 bkz falco ve burak yılmazı akademik açıdan genişlemesine irdelemek
 bkz kapı gibi delhuanlının bonservisi çıkarıp masaya vurması
