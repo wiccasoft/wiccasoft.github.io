@@ -3,8 +3,6 @@
 
 <!-- 
 bkz receğ tayyiğ erdoğan elif can yetimdoğan bacımdır demesi
-bkz ali kırcanın bıyıklarını kesmesi
-bkz levent kırcanın sarhoş taklidi yapması
 https://www.pinterest.com/wiccasoft/pins/  bkz pkk nın saraydan kaçak elektrik çekmesi
 https://www.pinterest.com/wiccasoft/pins/  bkz elif can yetimin rte gürcü eşi de arap zaten açıklaması
 -->
