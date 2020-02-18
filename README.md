@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz tatlısesin rte benim kankam demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin kürtçe dil hakkı isterik demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz saraya dumansız hava sahası bekçisi konması
 https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin bije serye welel bizde isteye demesi
