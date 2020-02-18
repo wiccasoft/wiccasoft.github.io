@@ -4,7 +4,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın oğlu atakan
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın oğlu atakan not: izlemedim
 bkz ekşideki gerizekalı ergenlerin bulduğu aptal velet
 bkz mustafa kapı vs emre mor
 bkz anadoludaki oğlancılığın mide bulandırması
