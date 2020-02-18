@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com/ bkz sikerler o beyaz götünü
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-25-ya%C5%9F-alt%C4%B1-veledler/ bkz kırmızı götlü velet
 https://kirmizicizgi.uludagsozluk.com/  bkz sözlükte olsaydım sana yürürdüm beyaz götlü
 https://kirmizicizgi.uludagsozluk.com/  bkz kürtler tarafından sikilme fantazisi olan bi gay
