@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz ilkokul mezunun kadının podlskiyi burak yılmazla kıyaslamaı
 bkz sokaklarda kadın görmek is te mi yo ruz
 bkz hoşlaşılan erkeğin ayarmatör olması
 bkz imamaoğlanın ikokul mezunun kadına verdiği efso ayar
