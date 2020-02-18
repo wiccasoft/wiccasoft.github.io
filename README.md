@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz ali koçun feneri siyasal islamcılar bitirdi demesi
 bkz siyasal islamın futbolu mafetmesi
 bkz emrahın koç ananı sikiyolar burger king reklamı
 bkz ensar vakfının polonyaya mehterle girmesi
