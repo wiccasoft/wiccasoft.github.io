@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz elif can yetimin sa berat abi ezan okundmu demesi
 bkz sarayda fena sikiş döndüğü gerçeği
 https://eksisozluk.com/sarayda-yapilan-tersine-beyin-gocu-toplantisi--6370834?a=popular
 https://eksisozluk.com/ben-turbanli-turk-komandosuyum--6371118?a=popular
