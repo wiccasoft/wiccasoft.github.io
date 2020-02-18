@@ -1,23 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://tccb.gov.tr/haberler/410/32844/cumhurbaskanligi-kulliyesi-idari-binalari-basina-acildi.html )
 
-<!--
-https://tccb.gov.tr/haberler/410/32844/cumhurbaskanligi-kulliyesi-idari-binalari-basina-acildi.html 
-bkz elif can yetimin sarayı gezdirme programı hazırlaması
-https://www.tccb.gov.tr/program/ bkz elif can yetimin programı sunması
-bkz elif can yetimin rt gürcü eşide arap zaten açıklaması
-https://www.pinterest.com/wiccasoft/pins/ bkz gez oglim saraya göz dikenin ez oglim
-https://www.pinterest.com/wiccasoft/pins/ bkz tatlısesin rte benim kankam demesi
-https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin kürtçe dil hakkı isterik demesi
-https://www.pinterest.com/wiccasoft/pins/ bkz saraya dumansız hava sahası bekçisi konması
-https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin bije serye welel bizde isteye demesi
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdi haftası nedeniyle kapalıyız demesi
-https://www.pinterest.com/wiccasoft/pins/ bkz yobaz rasputinin saraya sızması
-https://www.pinterest.com/wiccasoft/pins/ bkz rasputinin saraydaki kızları ayartması
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
-https://www.pinterest.com/wiccasoft/pins/  bkz elif can yetimin rte gürcü eşi de arap zaten açıklaması
--->
 
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
