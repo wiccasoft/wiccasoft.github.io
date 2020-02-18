@@ -2,7 +2,10 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!--bkz hahabam sınıfında gaza gelen tarih hocası 
+<!--
+bkz emrahın koş anneni sikiyolar temalı mc donalds reklamı
+bkz emrahın 90 larda oynadığı filmler
+bkz hahabam sınıfında gaza gelen tarih hocası 
 bkz son 100 yılda en mutlu dönemi yaşıyor oluşumuz
 bkz her şey çok güzel zaten tabi ki benim için3
 bkz ayı ikiye yarabilen adamın ayı gibi olması
