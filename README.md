@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!--
+https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/&w=bg bkz keko ama gideri var sanki
 bkz futboldan anlamayan cahil adamların ülkeyi ne hale getirmesi
 bkz fenerbahçenin uzay furbolu oynması hakkında phd lik makalem
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 ekşiden makale formatı çalmak
