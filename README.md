@@ -6,6 +6,7 @@
 bkz mustafa kapı vs emre mor
 bkz herker yaşıtlarıyla takılsın kampanyası
 bkz 41 yaşındayım kafam raad kankağğğ
+https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz benim vurduruyorum
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz adam olacak çocuk
 https://eksisozluk.com/avmyi-birbirine-katan-dengesiz-gencler--6372123?a=popular bkz gençlerin azması
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular 
