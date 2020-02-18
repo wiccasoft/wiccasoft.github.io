@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz tangır budunu doğanın cinsel yönelimi kadın mı erkek mi sorunsalı
 bkz tangır budunu doğan mala bvuruyomudur sorunsalı
 bkz yüzde uyüz yerli ve milli istihbarat teşkilatı
 bkz melih gökçekin attığı tweet
