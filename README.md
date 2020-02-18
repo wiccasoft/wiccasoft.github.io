@@ -4,7 +4,7 @@
 
 <!-- 
 bkz turzim otelcilik incilicce bitirmiş adamım ben sen kimsin diyen ergen özgüveni
-bkz iibf mezunun adamın cerrahpaşa tıpterk etmiş kadına sen kimsin yaaa demesi
+bkz iibf mezunun adamım sen kimsin lan diyen türk
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz pedofili
 bkz ilkokul mezunun kadının burak yılmaz dripling yapamıyo demesi
 bkz emine erdoğaın paylaştığı chanel çanta
