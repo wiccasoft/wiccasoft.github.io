@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.uludagsozluk.com/k/bursa-da-yakalanan-%C4%B1%C5%9Fid-komutan%C4%B1/ büyük komutan
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BC-hi%C3%A7-s%C4%B1k%C4%B1%C5%9Fmayan-adam/ bkz ben sülalem raad
 bkz sarayın elif cen neydi soyadı kovması
 bkz sarayın ekşisözlüke slayt gösterisiyle anlatması
