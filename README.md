@@ -4,6 +4,8 @@
 
 <!--
 bkz alaylı özgüveni
+bkz acle etmem papaz efendi vs abdullah öcalan
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-abdullah-%C3%B6calan/&w=bg 
 bkz devet bahçeli vs abdullah gül
 bkz ruhi çenet türkiyenin steve jobsıysa barış öcan elon muskıdır
 bkz kadi mısıroğlanın bana deha diyen atacücüye demesin demesi
