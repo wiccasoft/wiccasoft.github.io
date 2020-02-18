@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bk berat abisinin gülü
 https://www.youtube.com/tccumhurbaskanligi
 https://www.youtube.com/watch?v=AIBgFlBc1Dg
 bkz elif can terimin receğ tayyiğ erdoğan gürcü eşide arap zaten açıklamsı
