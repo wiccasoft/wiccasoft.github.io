@@ -4,7 +4,7 @@
 
 
 <!--
-bkz ülkücülerin %90 ının gay olduğu gerçeği 
+bkz ülkücülerin çoğunluğunun gay olduğu gerçeği 
 bkz tangır budun doğanın savcı sayan resimlerini gay klasörüne atması
 https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan gay
 https://www.uludagsozluk.com/e/42878088/ bkz gerizekalı
