@@ -1,7 +1,8 @@
 
-[![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
+[![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://tccb.gov.tr/haberler/410/32844/cumhurbaskanligi-kulliyesi-idari-binalari-basina-acildi.html )
 
 <!--
+https://tccb.gov.tr/haberler/410/32844/cumhurbaskanligi-kulliyesi-idari-binalari-basina-acildi.html 
 bkz elif can yetimin sarayı gezdirme programı hazırlaması
 https://www.tccb.gov.tr/program/ bkz elif can yetimin programı sunması
 bkz elif can yetimin rt gürcü eşide arap zaten açıklaması
