@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+b kz süleyman soylunun soyumuz kıpçaklara dayanır demesi
 bkz idris palu vs kadri şekermısıroğlan 
 bkz erdonun bahçeliye oç demesi
 bkz bahçeli aile nedir bilmez bir oç dur
