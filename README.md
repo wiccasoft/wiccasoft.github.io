@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+bkz tangır budunu doğanın üşkü ocaklarını bırakması
 bkz mhplilerin çin sarayını basıp 10. yıl marşı okuması
 bkz acele etme papaz efendinin tangır budun doğan dostluğu
 bkz tangır busdun doğanın devlet bahçelinin tweetlerini çalması
