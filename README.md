@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz elif can yetimin sa berat abi demsi
 bkz elif can yetimin saraya selamun aleyküm berat abii diye girmesi
 bkz elif can yetimin saraya harem kuralım önerisi
 bkz elif can yetimin saraya sa diye girmesi
