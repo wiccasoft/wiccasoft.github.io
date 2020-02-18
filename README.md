@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz elif can yetimin saraya selamun aleyküm berat abii diye girmesi
 bkz elif can yetimin saraya harem kuralım önerisi
 bkz elif can yetimin saraya sa diye girmesi
 bkz gece 3 te tayyipin arayıp elif can yetimn maaşı yatır damat demesi
