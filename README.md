@@ -4,6 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
+bkz ışıd infazcılarının caner er ki ni sahalarda görmek is ti yo ruz demesi
 bkz ösö militanlarının caner erkin hayranı çıkması
 bkz ilkokul mezunun kadının caner erkini yorumlaması
 bkz fenerbahçenin beyin kanartan usaylı futbolu
