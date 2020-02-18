@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!--
+bkz elif can yetimin rt gürcü eşide arap zaten açıklaması
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz elif can yetimin rteni eşi arap açıklaması
 bkz elif can yetimin sa berat abi ezan okundmu demesi
 bkz sarayda fena sikiş döndüğü gerçeği
