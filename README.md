@@ -4,8 +4,6 @@
 
 <!-- 
 bkz iibf mezunlarının güldürmesi
-bkz receğ tayyiğ erdoğanın iibf kıskançlığı
-bkz receğ tayyiğ erdoğanın sahte marmara ü. iibf diplaması yaptırması
 bkz bi burhan altıntop kolay yetişmiy
 bkz iyi ki ilkokul 2 terkim denilen anlar
 bkz turizm otelcilik incilicce bitirmiş adamım sen kimsin lan diyen ergen özgüveni
