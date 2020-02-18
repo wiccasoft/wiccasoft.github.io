@@ -4,6 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
+bkz türkiyenin siyasi dehaları
 bkz ışıd infazcılarının caner er ki ni sahalarda görmek is ti yo ruz demesi
 bkz ösö militanlarının caner erkin hayranı çıkması
 bkz ilkokul mezunun kadının caner erkini yorumlaması
