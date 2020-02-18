@@ -4,7 +4,8 @@
 
 <!--bkz hahabam sınıfında gaza gelen tarih hocası 
 bkz son 100 yılda en mutlu dönemi yaşıyor oluşumuz
-bkz her şey çok güzel zaten tabi ki benim için
+bkz her şey çok güzel zaten tabi ki benim için3
+bkz ayı iki yerıp amın da iyi yarıldı demek
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz ben tayyip türkiyeden sorumlu
 https://www.uludagsozluk.com/k/haydi-chp-liler-uykuya/ bkz nesquikinizi için yatın 
 https://www.uludagsozluk.com/k/ordular-ilk-hedefiniz-akdenizdir-ileri/&w=bg bkz yallah akdenize
