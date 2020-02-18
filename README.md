@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz erkan tanın yazılım işine girmesi
 bkz erkan tanın ver mehteri demesi
 bzk devlet bahçelinin burhan kuzu kzuz kuzu dansı yaparkn düşünseydi demesi
 bkz erkan tanın yerim receptendoğanın yanıdır paylaşımı
