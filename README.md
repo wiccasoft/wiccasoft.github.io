@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
-bkz turzim otelcilik incilicce bitirmiş adamım ben sen kimsin diyen ergen özgüveni
-bkz iibf mezunun adamım sen kimsin lan diyen türk
+bkz iibf turzim otelcilik incilicce bitirmiş adamım diyen ergen özgüveni
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz pedofili
 bkz ilkokul mezunun kadının burak yılmaz dripling yapamıyo demesi
 bkz emine erdoğaın paylaştığı chanel çanta
