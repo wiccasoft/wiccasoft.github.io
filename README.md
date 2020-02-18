@@ -5,12 +5,6 @@
 <!--
 bkz netfiliz osmanlı dizisi yayınladı diye kullanmayan kamalcıların güldürmesi
 https://pinterest.com/wiccasoft/pins/ bkz erkan tanın tan vakti rihanna çok güzel oluyo demesi
-https://pinterest.com/wiccasoft/pins/ bkz ibbnin kovduğu işçinin rihannayı övmesi
-https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-alternatif-meslek-%C3%B6nerileri/&w=bg
-https://www.uludagsozluk.com/k/elif-can-yetim/&w=bg bkz berat a abi demesi
-https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg kadri bilinmemiş yahuşuhlu
-https://www.uludagsozluk.com/k/kasl%C4%B1-deri-elbiseli-k%C4%B1rba%C3%A7l%C4%B1-1-90-boyunda-erkekler/ so gay
-vkz fatih terimin fathi tezcan yanlış yoldasın demesi
 bkz fatih tezcanın atacücü ibnenin teki paylaşımı
 bkz tangır budun doğan fatih tezcan aşkı
 bkz tangır budun doğanın fatih tezcanı takipten çıkması
