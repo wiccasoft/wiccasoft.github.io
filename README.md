@@ -5,6 +5,7 @@
 <!--
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz testeredeki adam
 https://www.uludagsozluk.com/e/42878088/ mal lan bu prim vermeyin şuna 
+https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan yaratık
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz bkz yılın gavatı ödül töreni
 https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1/ bkz italyan tokmakçıyla keko parası yemek
 -->
