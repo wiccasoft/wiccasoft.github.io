@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!--bkz hahabam sınıfında gaza gelen tarih hocası -->
+<!--bkz hahabam sınıfında gaza gelen tarih hocası 
+https://www.uludagsozluk.com/k/ordular-ilk-hedefiniz-akdenizdir-ileri/&w=bg bkz yallah akdenize -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
