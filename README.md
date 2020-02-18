@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz recep tayyiğ erdoğanın neyin kanartan burak yılmaz yorumu
+https://www.uludagsozluk.com/k/emine-erdo%C4%9Fan-%C4%B1n-280-bin-liral%C4%B1k-kolyesi/&w=bg
 https://koyun-dediniz-bizde-koyduk.uludagsozluk.com/ bkz yazık lan walla yazık bu kadar cehalet
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg koyun dedinz koyduk len geyseliler
 https://twitter.com/arkabesliforum/status/979453504002625537
