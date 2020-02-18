@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
-https://koyun-dediniz-bizde-koyduk.uludagsozluk.com/ bkz yazık la kimin sıçtığıysa
+https://koyun-dediniz-bizde-koyduk.uludagsozluk.com/ bkz yazık lan walla yazık bu kadar cehalet
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg koyun dedinz koyduk len geyseliler
 https://twitter.com/arkabesliforum/status/979453504002625537
 bkz adam fenerli zaten beyler küfretmeyin
