@@ -6,6 +6,7 @@
 bkz alaylı özgüveni
 bkz kırk bir yapar
 bkz bahçeli aile nedir bilmez oç 
+bkz kadir şeker adam mıdır sorunsalı
 https://www.uludagsozluk.com/k/bah%C3%A7eli-aile-nedir-bilmez-onun-%C3%B6yle-bir-derdi-yok/&w=bg
 bkz kılıştaroğalnın beyin kanartan fener uzaylı futbolu oynuyor yorumu
 https://www.uludagsozluk.com/k/dr-devlet-bah%C3%A7eli/&w=bg bkz dr diyeceksiniz
