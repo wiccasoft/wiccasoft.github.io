@@ -4,6 +4,7 @@
 
 <!--
 bkz melih gökçekin attığı tweet
+bkz tangır udunu doğanın götündeki kılların kadayıf olduğu gerçeği
 bkz can yamanın tangır budun doğanla sevişirim ama şartım var demesi
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz gideri var
 https://www.uludagsozluk.com/k/osman-kavala/&w=bg bkz kavat
