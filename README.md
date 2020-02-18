@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz tangır budun doğanın twitter d beni bulamayınca ağlaması
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz kekoyum ama giderim var duruşu
 bkz tangır budun doğanın hala ismimi bilmemesi
 bkz tangır dunudn doğanın kıskanç bi gay olduğu gerçeği
