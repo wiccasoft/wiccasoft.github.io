@@ -4,6 +4,7 @@
 
 <!--bkz hahabam sınıfında gaza gelen tarih hocası 
 bkz son 100 yılda en mutlu dönemi yaşıyor oluşumuz
+bkz her şey çok güzel zaten tabi ki benim için
 https://www.uludagsozluk.com/k/haydi-chp-liler-uykuya/ bkz nesquikinizi için yatın 
 https://www.uludagsozluk.com/k/ordular-ilk-hedefiniz-akdenizdir-ileri/&w=bg bkz yallah akdenize
 https://www.uludagsozluk.com/k/ben-suriyeliyim-bana-dokunamazs%C4%B1n%C4%B1z-diyen-h%C4%B1rs%C4%B1z/ sülale raad 
