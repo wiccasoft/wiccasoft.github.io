@@ -4,6 +4,7 @@
 
 
 <!--
+bkz kürtlerin oç olması
 bkz mekkeli müşrikler vs iman dolu medineli muhammed
 bkz megolaman bi arabın kendini övdüğü kitab 
 bkz allahın en sevdiğim kul muhammed onun yüzü suyu hürmetin yarattım evreni demesi
