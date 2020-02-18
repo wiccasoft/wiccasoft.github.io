@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-muhalefeti-ele%C5%9Ftirmesi/
 bkz bahçelinin biz osmaniyesporluyuz dededen demesi
 bkz bahçelini ben küçükken sarışındım sonradan kel oldum demesi
 bkz bahçeli aile nedir bilmez oç 
