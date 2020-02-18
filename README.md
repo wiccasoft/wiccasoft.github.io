@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz alaylı özgüveni
 bkz naylon branda gay mi sorunsalı
 bkz n11 deki erkek modellere bakıp 31 çekmek
 bkz ilkokul terk kadının fenerbahçe kongresinde konuşması
