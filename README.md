@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz elif can yetiminin khk ları mhklara baplayalım önerisi
 bkz elif can yetimin basın toplantısı
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz elif can yetimin yetim hakkını savunması
 https://www.uludagsozluk.com/k/bursa-da-yakalanan-%C4%B1%C5%9Fid-komutan%C4%B1/ büyük komutan
