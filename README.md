@@ -4,9 +4,6 @@
 <!-- 
 https://www.pinterest.com/wiccasoft/pins/ bkz yobaz rasputinin saraya sızması
 https://www.pinterest.com/wiccasoft/pins/ bkz rasputinin saraydaki kızları ayartması
-https://www.pinterest.com/wiccasoft/pins/ bkz ışıd infazcısının saraya sızması
-https://www.pinterest.com/wiccasoft/pins/ bkz hamas sözcüsünün saraydaki karıları ayartması
-https://www.pinterest.com/wiccasoft/pins/ bkz ışıd infazcısının sarayın ışıklarını çalması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
 https://www.pinterest.com/wiccasoft/pins/  bkz elif can yetimin rte gürcü eşi de arap zaten açıklaması
