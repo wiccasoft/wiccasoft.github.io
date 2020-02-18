@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz netfiliz osmanlı dizisi yayınladı diye kullanmayan kamalcıların güldürmesi
 https://pinterest.com/wiccasoft/pins/ bkz erkan tanın tan vakti rihanna çok güzel oluyo demesi
 https://pinterest.com/wiccasoft/pins/ bkz ibbnin kovduğu işçinin rihannayı övmesi
 https://pinterest.com/wiccasoft/pins/ bkz elfi can yetimin yerim rihanna nı yanıdır tweeti
