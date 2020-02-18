@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://www.uludagsozluk.com/k/charles-bukowski/ bkz buko vs bakunin
 bkz hz muhammed vs hz eyüp 
 bkz hz muhammed hz ayşeyi daha bi sevmesi
 bkz şeyma ılıcalının hz muhammed en sevdiğim peygamber demesi -->
