@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz phd in kadar konuş
 bkz iibf mezunlarının güldürmesi
 bkz bi burhan altıntop kolay yetişmiy
 bkz iyi ki ilkokul 2 terkim denilen anlar
