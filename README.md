@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+bkz yavuz sultan selim vs atacücü
 bkz kadri şekerin şekeroğlan olduüu iddaları
 bkz tangır budunu doğanın üşkü ocaklarını bırakması
 bkz mhplilerin çin sarayını basıp 10. yıl marşı okuması
