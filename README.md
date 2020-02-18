@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
-<!-- https://www.uludagsozluk.com/k/ibb-nin-g%C3%B6rme-engelli-i%C5%9F%C3%A7iyi-sms-ile-i%C5%9Ften-atmas%C4%B1/ -->
+<!-- 
+https://www.uludagsozluk.com/k/yusuf-kaplan/&w=bg
+https://www.uludagsozluk.com/k/ibb-nin-g%C3%B6rme-engelli-i%C5%9F%C3%A7iyi-sms-ile-i%C5%9Ften-atmas%C4%B1/ -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
