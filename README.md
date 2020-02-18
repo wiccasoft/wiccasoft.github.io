@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz 19 şubat 2020 malakoğlanın from iphone dan attığı tweet
 bkz 19 şubat 2020 ali koç un geyselilere boru gibi döşemesi
 bkz ağz çitos atıp belezoğlunu yorumlamak
 bkz ibb nin andorid li işçileri sms le atması 
