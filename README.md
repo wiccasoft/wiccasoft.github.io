@@ -1,62 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
-<!-- 
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz elif can yetimin sa berat abi demsi
-bkz elif can yetimin saraya selamun aleyküm berat abii diye girmesi
-bkz elif can yetimin saraya harem kuralım önerisi
-bkz elif can yetimin saraya sa diye girmesi
-bkz gece 3 te tayyipin arayıp elif can yetimn maaşı yatır damat demesi
-bkzx elif can yetim wikileaks belgelerin sa berat abi maaşı yatırdın mı  demesi
-bkz elif can yetim mail adresi elif.can.yetim@googlemail.com
-On 11/6/10, Elif Yetim <elif.can.yetim@googlemail.com> wrote: >> Sa Berat Abi, ( ben tekrar 
-bkz elif can yetimini berata  sa berat abi diye mail atması
-bk elif can yetimin berat berat abi demesi wikileaks te yazıyo
-https://wikileaks.org/berats-box/emailid/16067 bkz elif can yetimin berata sa berat abi demesi
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bk berat abisinin gülü
-https://www.youtube.com/tccumhurbaskanligi
-https://www.youtube.com/watch?v=AIBgFlBc1Dg
-bkz elif can terimin receğ tayyiğ erdoğan gürcü eşide arap zaten açıklamsı
-bkz elif can yetimin receğ tayyiğ erdoğanı savunması
-bkz receğ tayyiğ erdoğan dururken kaslı erkeklerden hoşlanmak
-bkz receğ tayyiğ erdoğanın sarayı
-bkz sarayın receğ tayyiğ erdoğanı kral yapalım önerisi
-bkz elif can yetiminin khk ları mhklara baplayalım önerisi
-bkz elif can yetimin basın toplantısı
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz elif can yetimin yetim hakkını savunması
-https://www.uludagsozluk.com/k/bursa-da-yakalanan-%C4%B1%C5%9Fid-komutan%C4%B1/ büyük komutan
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BC-hi%C3%A7-s%C4%B1k%C4%B1%C5%9Fmayan-adam/ bkz ben sülalem raad
-bkz sarayın elif cen neydi soyadı kovması
-bkz sarayın ekşisözlüke slayt gösterisiyle anlatması
-bkz sarayın kyk borcu olanları silmesi
-bkz sarayın gürcüler için kyk hazırlaması
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg ben rize gürcüsüyüm zaten
-https://wikileaks.org/berats-box/emailid/16067 bkz elif can yetimin berata sa berat abi demesi
-https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw facebook twitter instagram size yeter gerisi bana
-bkz globalist olduğumu tr ile ilgilenmediğimi aptal ekşciye bilale analtır gibi anlatmak
-bkz fatih portakal gibi anlatmak:
-https://www.google.com.tr/search?q=tcbestepe&oq=tc+beştepe
-bkz ekşicilerin niye bu kadar düşük zekalı olması sorunsalı
-bkz ekşcilere wiccasoft un babalarının sarayları olmadığını bilale anlatır gibi analtmak
-bkz  1.google 2.search 3. tc beştepe yaz ara tuşuna bas
-bkz göreceksiniz wiccasoftun tc bestepeyle hiç bir bağı yok
-https://www.pinterest.com/wiccasoft/pins/  bkz receğ tayyiğ erdoğanın sarayı değildir e
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bilemeyorum saraya sor pampa
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdinin yasını tutuyoruz paylaşımı
-https://www.pinterest.com/wiccasoft/pins/ bkz fatih tezcan analiz merkezini sarayla birleştirmesi
-https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.uludagsozluk.com/k/tengir-budun/&w=bg ergenlerin arasında ne yapmaya çalıştığını anlamadığım dayı
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var sanki
-https://www.pinterest.com/wiccasoft/pins/ bkz sarayın beyin göçü için enkaz birimleri oluşturması
-https://www.youtube.com/watch?v=FFkBaGqXLig bkz ekşi önündeki çaylak onay listesi
-https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk-%C3%A7aylak-onay-s%C4%B1ras%C4%B1/&w=bg
-bkz sarayın ekşiciler ülkeyi terk etmesin diye duvar örmeye başlaması
-bkz siyah snoop doggun beyaz sarayın sözcülüğene soyunması
-bkz sarayın ekşiden beyin göçünü engellemek için önlem alması
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular bkz sarayın beyin göçünü engellemek için önlem alması
--->
+
 [![Image](waste/Screenshot_2020-02-16_16-30-55.png)](https://www.youtube.com/watch?v=lRUoQBiy1Fc )
 
 [![Image](waste/Screenshot_2020-02-16_14-28-28.png)](https://www.youtube.com/watch?v=J_o3mSUW7mI)
