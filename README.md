@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkzx elif can yetim wikileaks belgelerin sa berat abi maaşı yatırdın mı  demesi
 bkz elif can yetim mail adresi elif.can.yetim@googlemail.com
 On 11/6/10, Elif Yetim <elif.can.yetim@googlemail.com> wrote: >> Sa Berat Abi, ( ben tekrar 
 bkz elif can yetimini berata  sa berat abi diye mail atması
