@@ -4,6 +4,8 @@
 
 <!-- 
 bkz aun ılıcalının maçta  rte nin kulağını yalamsı
+https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan gay
+https://www.uludagsozluk.com/e/42878088/ bkz gerizekalı
 bkz şeymanın macun ol kampanyasıda toplanan paraları acapulcada çatır çatır yediği gerçeği
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz macunol kampanyası
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz yılın gavatı ödül töreni
