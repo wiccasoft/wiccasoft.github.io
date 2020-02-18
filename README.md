@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz ensar bakfının polonyaya mehterle girmesi
+bkz ensar vakfının polonyaya mehterle girmesi
 bkz erkan tana meslek önerileri
 https://www.uludagsozluk.com/k/g%C3%BCn-ay-y%C4%B1l/&w=bg zuahhaha
 bkz alaybahçenin uzay futbolu
