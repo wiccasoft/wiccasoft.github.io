@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz falconun terli terli bira içmesi
 bkz fatih terimin falcoyu elleriyle beslemesi
 bkz falcaonun fenere boru gibi sapladığı gol
 https://www.uludagsozluk.com/k/t%C3%BCrklerin-icat-etti%C4%9Fi-%C5%9Feyler/&w=bg bkz sandalye
