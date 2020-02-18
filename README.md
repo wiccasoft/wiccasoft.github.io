@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com/  bkz kürtler tarafından sikilme fantazisi olan bi gay
 bkz beyaz götlü bi türkçüyü tenhada sıkıştırıp becermek
 https://www.youtube.com/watch?v=tVfyO37ARpQ zuahhahaha
 bkz türkçülerdeki kürtler tarafından becerilme fantazisi
