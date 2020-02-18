@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://www.uludagsozluk.com/k/farslar%C4%B1n-sikip-anadolu-ya-att%C4%B1%C4%9F%C4%B1-topluluk/&w=bg bkz kürt lütfen
 bkz tangır budun doğanla mersinli cihangiri everelim kampanyası
 bkz tangır budun doğan hiç bi kadınla birliktye olmuş mudur sorunsalı
 bkz tangır budun doğanın cinsel yönelimi kadın mı erkek mi sorunsalı
