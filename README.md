@@ -5,7 +5,7 @@
 <!-- 
 bkz bi burhan altıntop kolay yetişmiy
 bkz iyi ki ilkokul 2 terkim denilen anlar
-bkz turizm otelcilik incilicce bitirmiş adamım sen kimsin diyen ergen özgüveni
+bkz turizm otelcilik incilicce bitirmiş adamım sen kimsin lan diyen ergen özgüveni
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=bg bkz pedofili
 bkz ilkokul mezunun kadının burak yılmaz dripling yapamıyo demesi
 bkz emine erdoğaın paylaştığı chanel çanta
