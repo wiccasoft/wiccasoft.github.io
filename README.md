@@ -15,10 +15,9 @@ https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz yılın gavatı �
 https://www.uludagsozluk.com/k/osman-kavala-ve-mansur-yava%C5%9F/&w=bg bkz iki kavat
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz yılın gavatı
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz beyaz tenli kara kafalı liseli
+https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz keko liseli
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz yakışıklı peygamberler
-https://www.uludagsozluk.com/k/charles-bukowski/ bkz buko vs bakunin
-bkz şeyma ılıcalının hz muhammed en sevdiğim peygamber demesi -->
+https://www.uludagsozluk.com/k/charles-bukowski/ bkz buko vs bakunin -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
