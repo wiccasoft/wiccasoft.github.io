@@ -4,6 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
+bkz ilkokul mezunun kadının caner erkini yorumlaması
 bkz fenerbahçenin beyin kanartan usaylı futbolu
 bkz naylon branda gay mi sorunsalı
 bkz n11 deki erkek modellere bakıp 31 çekmek
