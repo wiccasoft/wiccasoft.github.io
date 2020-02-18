@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz pedofili
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz testeredeki adam
 https://www.uludagsozluk.com/e/42878088/ mal lan bu prim vermeyin şuna 
 https://www.uludagsozluk.com/k/biraz-da-%C5%9Furama-fa%C5%9Fist-de/
