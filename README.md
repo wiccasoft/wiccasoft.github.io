@@ -4,6 +4,7 @@
 
 
 <!--
+bkz mekkeli müşrikler vs iman dolu medineli muhammed
 bkz megolaman bi arabın kendini övdüğü kitab 
 bkz allahın en sevdiğim kul muhammed onun yüzü suyu hürmetin yarattım evreni demesi
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz muhammedin mağarada allahla konuşması
