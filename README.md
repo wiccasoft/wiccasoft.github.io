@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın oğlu atakan
 bkz ekşideki gerizekalı ergenlerin bulduğu velet
 bkz mustafa kapı vs emre mor
 bkz anadoludaki oğlancılığın mide bulandırması
