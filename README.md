@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://pinterest.com/wiccasoft/pins/ bkz kemal kışıçoğlanın rihanna muhatabıum değil demesi
 https://pinterest.com/wiccasoft/pins/ bkz oç devlet bahçelini rihannayı övmesi
 https://pinterest.com/wiccasoft/pins/ bkz tunç soyerin soyylu erim demesi
 https://pinterest.com/wiccasoft/pins/ bkz fatih tezcanın erkan tanı desteklemesi
