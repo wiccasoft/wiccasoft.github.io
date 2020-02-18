@@ -1,6 +1,6 @@
 
 
-[![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
+[![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
 https://www.youtube.com/watch?v=FFkBaGqXLig n11'deki kaşe kaban ilanındaki model
