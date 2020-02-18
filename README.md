@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz yobaz rasputinin saraya sızması
 https://www.pinterest.com/wiccasoft/pins/ bkz rasputinin saraydaki kızları ayartması
 https://www.pinterest.com/wiccasoft/pins/ bkz ışıd infazcısının saraya sızması
 https://www.pinterest.com/wiccasoft/pins/ bkz hamas sözcüsünün saraydaki karıları ayartması
