@@ -2,7 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!--
+<!-
 bkz bahçelinin osman kavalaya kavat demesi
 bzk bahçelinin meral de ekmek arası kütr kütr gider ha demesi
 bkz kızılhaçın sms  le fener ol kampanyası düzenlemesi
