@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+vkz fatih terimin fathi tezcan yanlış yoldasın demesi
 bkz fatih tezcanın atacücü ibnenin teki paylaşımı
 bkz tangır budun doğan fatih tezcan aşkı
 bkz tangır budun doğanın fatih tezcanı takipten çıkması
