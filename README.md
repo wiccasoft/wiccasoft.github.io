@@ -3,15 +3,16 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz recep tayyiğ erdoğanın beyin kanartan burak yılmaz yorumu
 https://www.uludagsozluk.com/k/imam-mustafa-ayhan/ bkz uzak durulası imamlar
 https://www.uludagsozluk.com/k/hafter-in-%C3%B6so-gibi-olmas%C4%B1/ bkz hafterin ipini çekmenin zamanı geldi
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg vaziyet alın beyler cinconlular saldırmadan
 23 şubat 2020 fenerbahçe galatasaray maçı bkz caziyet alın beyler skiş var
 https://www.uludagsozluk.com/k/23-%C5%9Fubat-2020-fenerbah%C3%A7e-galatasaray-ma%C3%A7%C4%B1/&w=bg
 bkz emine erdoğanın instagramda paylaştığı çanta
-https://www.uludagsozluk.com/k/hafter-in-%C3%B6so-gibi-olmas%C4%B1/ bkz adam hakılı beyler hain osmanlı
+https://www.uludagsozluk.com/k/hafter-in-%C3%B6so-gibi-olmas%C4%B1/ bkz adam hakılı beyler 
 https://www.uludagsozluk.com/k/beyaz-bere-giyen-erkek-iticili%C4%9Fi/ bkz uzak durulası erkekler no 1
-bkz recep tayyiğ erdoğanın neyin kanartan burak yılmaz yorumu
+bkz recep tayyiğ erdoğanın beyin kanartan burak yılmaz yorumu
 https://www.uludagsozluk.com/k/emine-erdo%C4%9Fan-%C4%B1n-280-bin-liral%C4%B1k-kolyesi/&w=bg
 https://koyun-dediniz-bizde-koyduk.uludagsozluk.com/ bkz yazık lan walla yazık bu kadar cehalet
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg koyun dedinz koyduk len geyseliler
