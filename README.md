@@ -4,9 +4,8 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/  bkz mobile twitter tıklağ kankağ
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın oğlu atakan
-bkz ekşideki gerizekalı ergenlerin bulduğu velet
+bkz ekşideki gerizekalı ergenlerin bulduğu aptal velet
 bkz mustafa kapı vs emre mor
 bkz anadoludaki oğlancılığın mide bulandırması
 bkz ekşici ibnelerin bulduğu mobile twitter linkleri
