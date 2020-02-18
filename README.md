@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz tanfır budun doğan hiç bi kadınla birliktye olmuş mudur sorunsalı
+bkz tangır budun doğanla mersinli cihangiri everelim kampanyası
+bkz tangır budun doğan hiç bi kadınla birliktye olmuş mudur sorunsalı
 bkz tangır budun doğanın cinsel yönelimi kadın mı erkek mi sorunsalı
 bkz tangır budun doğan mala bvuruyomudur sorunsalı
 bkz yüzde uyüz yerli ve milli istihbarat teşkilatı
