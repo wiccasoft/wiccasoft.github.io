@@ -4,7 +4,7 @@
 
 <!--
 bkz alaylı özgüveni
-bkz kadi mısıroğlanın bana deha diyen ona buna demesin demesi
+bkz kadi mısıroğlanın bana deha diyen atacücüye demesin demesi
 bkz kılıçoülanın devlet bahçeliye siyasi deha diyen bana demesin demesi
 bkz devlet bahçelinin siyasi dehayım demesi
 bkz türkiyenin siyasi dehaları
