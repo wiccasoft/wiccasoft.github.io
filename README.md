@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz fener ol kampanyası vs gavat ol kampanyası
 bkz idris palunun boktan bi tarihçi olması
 bkz kadri şekeroğlan vs ilber ortaçoğlan
 bkz kadri şekeroğlanın abduhamdiyi tv ye çıkarması
