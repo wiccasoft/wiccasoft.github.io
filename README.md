@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+https://www.pinterest.com/wiccasoft/pins/ bkz kürtlerin bije hereke bizde sereye isteye demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz sarayın abdulhamdi haftası nedeniyle kapalıyız demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz yobaz rasputinin saraya sızması
 https://www.pinterest.com/wiccasoft/pins/ bkz rasputinin saraydaki kızları ayartması
