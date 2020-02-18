@@ -4,7 +4,8 @@
 
 <!--
 bkz alaylı özgüveni
-bkz kırk bir yapar,
+bkz kırk bir yapar
+bkz ilber ortaylının abdulhamdi yarrak gibi bi adamdı yorumu
 bkz devlet bahçelinin paylaştığı osmaniye spor forması
 bkz devletin başına abdullah geçecek
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-vs-abdullah-%C3%B6calan/&w=bg
