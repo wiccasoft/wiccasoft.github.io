@@ -4,6 +4,7 @@
 
 <!--
 bkz hz muhammed vs hz eyüp 
+bkz hz muhammed hz ayşeyi daha bi sevmesi
 bkz şeyma ılıcalının hz muhammed en sevdiğim peygamber demesi -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
