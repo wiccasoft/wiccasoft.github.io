@@ -10,10 +10,7 @@ https://www.uludagsozluk.com/k/youtube-daki-%C3%A7ocuk-kanallar%C4%B1/ bkz peçe
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz amın feryadı şovmen atakan 
 bkz ekşideki gerizekalı ergenlerin bulduğu aptal velet not: izlemedim ekşiciler beğendiyse aptaldır
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz de siktir lo
-bkz ergenlerin beni akranı sanması olm 41 yaşındayım babanız yaşındayım lan
 https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz ruhi çenet
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz adam olacak çocuk
-https://eksisozluk.com/avmyi-birbirine-katan-dengesiz-gencler--6372123?a=popular bkz gençlerin azması
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular 
 https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz testeredeki adam
 https://www.uludagsozluk.com/e/42878088/ mal lan bu prim vermeyin şuna 
