@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz elif can yetim kim amk
 bkz sarayın elif can yetimi kovması
 bkz elif can yetimin penis yüzüklü reise sa berat abi demesi
 https://wikileaks.org/berats-box/emailid/16067 bkz elif can yetimin berata sa berat abi demesi
