@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz abdulhamdi ismet inönü dostluğu
+bkz 5. abdulhamdi ismet inönü dostluğu
 bkz ilber ortaçgilin 7 nota var daha ne amk demesi
 bkz bahçelinin yerim rihannanın yeridir demesi
 bkz tangır budun doüanın behçeli aile ne dir bilmez bir oç dir demesi
