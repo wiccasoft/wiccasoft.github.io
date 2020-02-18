@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+https://koyun-dediniz-bizde-koyduk.uludagsozluk.com/ bkz koyun klonlamak
 bkz bekir irtegünnü bizim ceddimöiz uzaylı zaten demesi
 bkz fenerbahçelileri uzay futbolu oynaması
 https://www.uludagsozluk.com/k/uzay-futbolu-oynayan-fenerbah%C3%A7e/
