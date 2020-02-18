@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz öf sıktınız ben kaçtım
 https://www.uludagsozluk.com/k/charles-bukowski/ bkz ruhsuz ve hain erkek
 https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz sikse vermesmsini kankağ
 bkz ülkücülerin gay olma nedenleri 
