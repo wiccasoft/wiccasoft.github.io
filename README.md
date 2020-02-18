@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1/ bkz italyan tokmakçıyla paraları yemek
+https://www.uludagsozluk.com/k/%C5%9Feyma-suba%C5%9F%C4%B1/ bkz italyan tokmakçıyla keriz parası yemek
 https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan gay
 https://www.uludagsozluk.com/e/42878088/ bkz gerizekalı
 https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz macunol kampanyası
