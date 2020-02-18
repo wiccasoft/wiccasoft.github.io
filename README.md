@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz anadoludaki oğlancılığın iğrendirmesi
+bkz anadoludaki oğlancılığın mide bulandırması
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular ıstırırım bunu yalarun bide
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz yalanır bu
 bkz mustafa kapı vs emre mor
