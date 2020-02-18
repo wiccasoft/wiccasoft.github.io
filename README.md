@@ -5,9 +5,7 @@
 <!--
 bkz tangır budun doğanın savcı sayanın resimlerini gay klasörüne atması
 https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz kekoyum ama giderim var duruşu
-bkz tangır budun doğanın hala ismimi bilmemesi
-bkz tangır dunudn doğanın kıskanç bi gay olduğu gerçeği
-https://eksisozluk.com/insan-irki-yok-olursa-dunyayi-ele-gecirecek-canli--4579674?a=popular siz giderken biz dönüyoduk
+https://eksisozluk.com/insan-irki-yok-olursa-dunyayi-ele-gecirecek-canli--4579674?a=popular siz giderken biz u
 bkz o geç olmuş ekşi çaylak isteğim onaylan dı mı bi bakim
 https://traveler-of-secret-moments.uludagsozluk.com/ kendini komik mi sanıyo bu
 bkz elif can yetimi berat abiye söyliycem sizi dmesi
