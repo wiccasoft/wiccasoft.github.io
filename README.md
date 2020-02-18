@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz elif can yetimin penis yüzüklü reise sa berat abi demesi
 https://wikileaks.org/berats-box/emailid/16067 bkz elif can yetimin berata sa berat abi demesi
 https://www.youtube.com/channel/UCu8qdRvOLfqXTGSHsBXc-Dw facebook twitter instagram size yeter gerisi bana
 bkz globalist olduğumu tr ile ilgilenmediğimi aptal ekşciye bilale analtır gibi anlatmak
