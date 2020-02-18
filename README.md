@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz o geç olmuş ekşi çaylak onay listem onaylan dı mı bi bakim
+bkz o geç olmuş ekşi çaylak isteğim onaylan dı mı bi bakim
 https://traveler-of-secret-moments.uludagsozluk.com/ kendini komik mi sanıyo bu
 bkz elif can yetimi berat abiye söyliycem sizi dmesi
 bkz daha bunlar iyi günleriniz'in arapçası
