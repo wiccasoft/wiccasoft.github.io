@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz sevilen erkeğin ayarmatör olması
 bkz imamaoğlanın ikokul mezunun kadına verdiği efso ayar
 bkz ibb nin dergisindeki kaslı model
 https://www.youtube.com/watch?v=FFkBaGqXLig n11'deki kaşe kaban ilanındaki model
