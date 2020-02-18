@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz ülkücülerin gay olma nedenleri 
+bkz sedat peker tangır budun doğan kımızı götlü davşan
 https://www.uludagsozluk.com/k/k%C3%BCr%C5%9Fad/&w=bg bkz ülkücü gay isimleri
 bkz şeyma ılıcalı paylaştığı savcı sayan resmi
 bkz tangır budun doğanın savcı sayanın resmilerin bakarken uyuya kalması
