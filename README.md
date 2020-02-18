@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-https://www.youtube.com/watch?v=RAvm2pIC-Ig
+https://www.youtube.com/watch?v=RAvm2pIC-Ig genç osman
 bkz ayfer-osmanoğlu gökhanın bomba gibi geldiğini kabul edmeyen kamalcılar
 https://pinterest.com/wiccasoft/pins/ bkz bahçelinni meral çok güzel yahu demesi
 bkz netfiliz osmanlı dizisi yayınladı diye kullanmayan kamalcıların güldürmesi
