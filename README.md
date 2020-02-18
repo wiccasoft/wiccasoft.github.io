@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+https://www.uludagsozluk.com/k/hafter-in-%C3%B6so-gibi-olmas%C4%B1/ adam hakılı beyler len mq toprak kaybediy
 https://www.uludagsozluk.com/k/beyaz-bere-giyen-erkek-iticili%C4%9Fi/ ay uzak durulası erkekler no 1
 bkz recep tayyiğ erdoğanın neyin kanartan burak yılmaz yorumu
 https://www.uludagsozluk.com/k/emine-erdo%C4%9Fan-%C4%B1n-280-bin-liral%C4%B1k-kolyesi/&w=bg
