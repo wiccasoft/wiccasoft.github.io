@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz naylon branda gay mi sorunsalı
 bkz n11 deki erkek modellere bakıp 31 çekmek
 bkz ilkokul mezunun kadının podolskiyi burak yılmazla kıyaslamaı
 bkz sokaklarda kadın görmek is te mi yo ruz
