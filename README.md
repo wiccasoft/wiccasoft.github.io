@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 <!-- 
+bkz sarayın ekşisözlüke slayt gösterisiyle anlatması
 bkz sarayın kyk borcu olanları silmesi
 bkz sarayın gürcüler için kyk hazırlaması
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg ben rize gürcüsüyüm zaten
