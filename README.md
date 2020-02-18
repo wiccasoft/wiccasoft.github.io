@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://pinterest.com/wiccasoft/pins/ bkz tunç soyerin soyylu erim demesi
 https://pinterest.com/wiccasoft/pins/ bkz fatih tezcanın erkan tanı desteklemesi
 https://pinterest.com/wiccasoft/pins/ bkz erkan tanın sakso çalarım demesi
 bkz erkan tanın mehteri vermesi
