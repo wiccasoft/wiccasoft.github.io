@@ -3,10 +3,10 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz anadoludaki oğlancılığın mide bulandırması
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular ıstırırım bunu yalarun bide
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz yalanır bu
 bkz mustafa kapı vs emre mor
+bkz anadoludaki oğlancılığın mide bulandırması
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz ıstırırım bunu
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz yalanır bu
 bkz ergenlerin beni akranı sanması olm 41 yaşındayım babanız yaşındayım lan
 https://www.uludagsozluk.com/k/c%C4%B1l%C4%B1z-erkek/&w=bg bkz ruhi çenet
 bkz herker yaşıtlarıyla takılsın kampanyası
