@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz n11 deki erkek modellere bakıp 31 çekmek
 bkz sokaklarda kadın görmek is te mi yo ruz yeter ayol
 bkz ilkokul mezunun kadının podolskiyi burak yılmazla kıyaslamaı
 bkz sokaklarda kadın görmek is te mi yo ruz
