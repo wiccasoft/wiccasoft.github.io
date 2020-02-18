@@ -6,11 +6,7 @@
 bkz 19 şubat 2020 malakoğlanın from iphone dan attığı tweet
 bkz 19 şubat 2020 ali koç un geyselilere boru gibi döşemesi
 bkz ağz çitos atıp belezoğlunu yorumlamak
-bkz ibb nin andorid li işçileri sms le atması 
-https://www.uludagsozluk.com/k/yusuf-kaplan/&w=bg
-https://www.uludagsozluk.com/k/falcao-nun-fenerbah%C3%A7e-ye-att%C4%B1%C4%9F%C4%B1-gol/
-https://www.uludagsozluk.com/k/dine-bilimden-daha-%C3%A7ok-g%C3%BCvenen-%C3%BClkeler/ bkz fc barcelona
-https://www.uludagsozluk.com/k/ibb-nin-g%C3%B6rme-engelli-i%C5%9F%C3%A7iyi-sms-ile-i%C5%9Ften-atmas%C4%B1/ -->
+-->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
