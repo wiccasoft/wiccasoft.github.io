@@ -5,6 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
+bkz erdonun bahçeliye oç demesi
 bkz bahçeli aile nedir bilmez bir oç dur
 bkz ilber ortaylının abdulhamdi yarrak gibi bi adamdı yorumu
 bkz devlet bahçelinin paylaştığı osmaniye spor forması
