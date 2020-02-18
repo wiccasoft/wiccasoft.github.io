@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!-- https://www.uludagsozluk.com/e/42878088/ mal lan bu prim vermeyin şuna -->
+<!--
+https://www.uludagsozluk.com/k/ruhi-%C3%A7enet/&w=bg bkz testeredeki adam
+https://www.uludagsozluk.com/e/42878088/ mal lan bu prim vermeyin şuna -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
