@@ -6,6 +6,7 @@
 bkz daha bunlar iyi günleriniz'in arapçası
 bkz 90 yıldır futbol tartışanların ekonomik krizden şikayet etmeye başlaması
 https://eksisozluk.com/saka-maka-turkiyede-alim-gucunun-bayagi-dusmesi--6372029?a=popular bkz arap işgali
+https://www.uludagsozluk.com/k/biraz-da-%C5%9Furama-fa%C5%9Fist-de/&w=bg lol
 bkz ali koçun feneri siyasal islamcılar bitirdi demesi
 bkz siyasal islamın futbolu mafetmesi
 bkz emrahın koç ananı sikiyolar burger king reklamı
