@@ -5,8 +5,7 @@
 <!--
 bkz alaylı özgüveni
 bkz kırk bir yapar
-bkz bahçelinin meclis komisyonuna verdiği önerge de aile nedir bilmez bir oç yim yazması
-bkz behçeli aile ne dir bilmez bir oç dur
+bkz tangır budun doüanın behçeli aile ne dir bilmez bir oç dir demesi
 bkz elif can yetim in berat a abi demesi
 bkz elif can yetim vs elif can öksüz
 bkz yavuz sultan selim vs atacücü
