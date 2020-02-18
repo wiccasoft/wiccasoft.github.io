@@ -3,22 +3,6 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 
-<!--
-bkz deri montlu nazi gay subayları
-bkz ülkücülerin çoğunluğunun gay olduğu gerçeği 
-bkz tangır budun doğanın savcı sayan resimlerini gay klasörüne atması
-https://kirmizicizgi.uludagsozluk.com bkz kürtler tarafından tecavüz fantazisi olan gay
-https://www.uludagsozluk.com/e/42878088/ bkz gerizekalı
-bkz şeymanın macun ol kampanyasıda toplanan paraları acapulcada çatır çatır yediği gerçeği
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=bg bkz macunol kampanyası
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/bkz yılın gavatı ödül töreni
-https://www.uludagsozluk.com/k/osman-kavala-ve-mansur-yava%C5%9F/&w=bg bkz iki kavat
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz yılın gavatı
-https://www.uludagsozluk.com/k/n11-deki-ka%C5%9Fe-kaban-ilan%C4%B1ndaki-model/ bkz keko ama gideri var
-https://www.uludagsozluk.com/k/acun-%C4%B1l%C4%B1cal%C4%B1/&w=gd bkz keko liseli
-https://www.uludagsozluk.com/k/hz-muhammed/&w=bg bkz yakışıklı peygamberler
-https://www.uludagsozluk.com/k/charles-bukowski/ bkz buko vs bakunin -->
-
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 
