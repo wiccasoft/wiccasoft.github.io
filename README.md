@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz ya lan söy le me göz leri n ele çin ki
 bkz it's none of my business in türkçesi
 bkz falconun gollerini iphone6s dan izlemek 
 bkz beratın imamoğlana gel tek kale maç yapalım götün yiyosa demesi
