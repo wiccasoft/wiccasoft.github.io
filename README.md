@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bzk devlet bahçelinin burhan kuzu kzuz kuzu dansı yaparkn düşünseydi demesi
 bkz erkan tanın yerim receptendoğanın yanıdır paylaşımı
 https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-alternatif-meslek-%C3%B6nerileri/&w=bg
 https://www.uludagsozluk.com/k/elif-can-yetim/&w=bg bkz berat a abi demesi
