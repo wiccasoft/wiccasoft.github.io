@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz ağz bir parça sucuk atıp falconun golünü yütüpte aramak
 bkz falcaonun fenere boru gibi sapladığı gol
 bkz 19 şubat 2020 malakoğlanın from iphone dan attığı boru gibi tweet
 bkz 19 şubat 2020 ali koç un geyselilere boru gibi döşemesi
