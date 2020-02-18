@@ -3,11 +3,11 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=EfAsNffCjsM)
 
 <!-- 
+bkz fenerbahçelileri uzay futbolu oynaması
+bkz bekir irtegünün bizim ceddimiz uzaylı demesi
 https://www.uludagsozluk.com/k/ilkokul-mezunu-kad%C4%B1n%C4%B1n-konferans-vermesi/ karı fenerli değil len mq
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg sesli güldüren versus len mq 
 https://koyun-dediniz-bizde-koyduk.uludagsozluk.com/ bkz koyun klonlamak
-bkz bekir irtegünnü bizim ceddimöiz uzaylı zaten demesi
-bkz fenerbahçelileri uzay futbolu oynaması
 https://www.uludagsozluk.com/k/uzay-futbolu-oynayan-fenerbah%C3%A7e/
 https://www.uludagsozluk.com/k/burak-y%C4%B1lmaz-vs-radamel-falcao/&w=bg
 bkz ya lan söy le me göz leri n ele çin ki
