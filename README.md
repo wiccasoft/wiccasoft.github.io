@@ -6,22 +6,6 @@
 bkz netfiliz osmanlı dizisi yayınladı diye kullanmayan kamalcıların güldürmesi
 https://pinterest.com/wiccasoft/pins/ bkz erkan tanın tan vakti rihanna çok güzel oluyo demesi
 https://pinterest.com/wiccasoft/pins/ bkz ibbnin kovduğu işçinin rihannayı övmesi
-https://pinterest.com/wiccasoft/pins/ bkz elfi can yetimin yerim rihanna nı yanıdır tweeti
-https://pinterest.com/wiccasoft/pins/ bkz kemal kışıçoğlanın attığı pinli tweet
-https://pinterest.com/wiccasoft/pins/ bkz kemal kışıçoğlanın rihanna muhatabıum değil demesi
-https://pinterest.com/wiccasoft/pins/ bkz oç devlet bahçelini rihannayı övmesi
-https://pinterest.com/wiccasoft/pins/ bkz tunç soyerin soyylu erim demesi
-https://pinterest.com/wiccasoft/pins/ bkz fatih tezcanın erkan tanı desteklemesi
-https://pinterest.com/wiccasoft/pins/ bkz erkan tanın sakso çalarım demesi
-bkz erkan tanın mehteri vermesi
-bkz erkan tanla fatih tezcanın alternatif mekanlar bakması
-https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-alternatif-meslek-%C3%B6nerileri/
-bkz erkan tanın alternatif olarak ios a geçmesi
-bkz fatih portaklın erkan tana taktığı kapak
-bkz erkan tanın yazılım işine girmesi
-bkz erkan tanın ver mehteri demesi
-bzk devlet bahçelinin burhan kuzu kzuz kuzu dansı yaparkn düşünseydi demesi
-bkz erkan tanın yerim receptendoğanın yanıdır paylaşımı
 https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-alternatif-meslek-%C3%B6nerileri/&w=bg
 https://www.uludagsozluk.com/k/elif-can-yetim/&w=bg bkz berat a abi demesi
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg kadri bilinmemiş yahuşuhlu
