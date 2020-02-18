@@ -6,6 +6,7 @@
 bkz 19 şubat 2020 malakoğlanın from iphone dan attığı boru gibi tweet
 bkz 19 şubat 2020 ali koç un geyselilere boru gibi döşemesi
 bkz ibb nin kör işçiye sms le yallah arabistana smsi
+https://pinterest.com/wiccasoft/pins/
 -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
