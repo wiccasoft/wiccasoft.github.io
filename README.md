@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz erkan tanın yerim receptendoğanın yanıdır paylaşımı
+https://www.uludagsozluk.com/k/erkan-tan-i%C3%A7in-alternatif-meslek-%C3%B6nerileri/&w=bg
 https://www.uludagsozluk.com/k/elif-can-yetim/&w=bg bkz berat a abi demesi
 https://www.uludagsozluk.com/k/kadir-%C5%9Feker/&w=bg kadri bilinmemiş yahuşuhlu
 https://www.uludagsozluk.com/k/kasl%C4%B1-deri-elbiseli-k%C4%B1rba%C3%A7l%C4%B1-1-90-boyunda-erkekler/ so gay
