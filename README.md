@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
+http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/tuvana-t%C3%BCrkay-bu-%C3%BClkenin/ aga bu nedir ya
 https://www.sondakikaturk.com.tr/magazin/ertugrul-ozkok-cagla-sikel-sekse-ara-verdiyse-h169122.html
 https://www.youtube.com/watch?v=fhvhjyWTeZ4 bkz biri de çıkıp demiyo ki aga bu nedir
 https://www.youtube.com/watch?v=DSHO2Gi0FDo lol 
