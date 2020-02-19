@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkx arkdaşarlı filozof diyi tıklağ izleğ
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz arkdaşları filozof diyi
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz atakdan 10 yaşında aykadaşlayı filof diyi
 https://www.uludagsozluk.com/k/sevgilisni-ormana-g%C3%B6t%C3%BCr%C3%BCp-darp-ettiren-vali/ buralar karışır beyler
