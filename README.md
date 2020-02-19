@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni sikmiyo yaaaa
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler yakında götümü sikecek
 https://cuckold-erkek.uludagsozluk.com/ bkz babadan gizli atacücü kayıtları izlemek
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni
