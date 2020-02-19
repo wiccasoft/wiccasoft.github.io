@@ -1,48 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
-<!-- 
-bkz atacüc vs atakan
-bkz fesli bunak vs minnak filozof
-bkz minnak filozof atakanın fetullah gülenci çıkması
-bkz tangır budun doğanın 10 yaşındaki çocuk beyni
-bkz denize atakan mı düşse kurtarırsın atacücü mü
-bkz mustafa atacücü vs mustafa kapı
-https://twitter.com/Astro_Jessica/status/1228843327614791680
-https://www.uludagsozluk.com/k/neye-tap%C4%B1yorsun/
-https://www.uludagsozluk.com/k/kad%C4%B1na-tapan-erkek/&w=bg
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg
-https://cuckold-erkek.uludagsozluk.com/ bkz atacücü
-https://kirmizicizgi.uludagsozluk.com bkz arakanın okuldan arkadaşı
-https://godfrey-de-saint-omer.uludagsozluk.com/ atakanın arkadaşı
-https://www.uludagsozluk.com/k/%C5%9Firinlerin-halay-%C3%A7ekerken-s%C3%B6yledikleri-t%C3%BCrk%C3%A7e-ezgi/
-https://www.uludagsozluk.com/k/anala-merakl%C4%B1-erke%C4%9Fe-straponla-deney-yapmak/
-https://www.uludagsozluk.com/k/s%C3%BCpermenin-%C3%A7if%C3%A7i-olmas%C4%B1/ 
-bkz tangır budun doğanın götündeki donun bile amerikan markası olması
-https://www.uludagsozluk.com/k/netflix-kullanm%C4%B1yoruz-kampanyas%C4%B1/
-https://www.uludagsozluk.com/k/abd-ye-ne-istediyse-vermeyen-tek-lider-atat%C3%BCrk/
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=gd
-https://eksisozluk.com/atakanin-bir-pedagoga-gorunmesi-gerekliligi--6373576?a=popular
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-para-kazand%C4%B1rmak/&w=bg 
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan-18-ya%C5%9F%C4%B1ndaki-ben/
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
-bkz bahçelinin minnak filozof atacana verdiği efso ayar
-bkz atakan 10 yaşında arkadaşları ona minnak filozof diyo
-https://www.uludagsozluk.com/k/katana-tekni%C4%9Fi-ile-yobaz-d%C3%B6vmek/
-https://www.uludagsozluk.com/k/zay%C4%B1f-sumo-g%C3%BCre%C5%9F%C3%A7isi/
-https://www.uludagsozluk.com/k/karadenizlilerin-ortak-%C3%B6zellikleri/&w=bg
-https://www.uludagsozluk.com/k/rize-erke%C4%9Fi-vs-izmir-erke%C4%9Fi/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-biraz-%C5%9Fey-olmas%C4%B1/
-https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-s%C3%BCleyman-soylu-ya-cevab%C4%B1/
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-fox-tv-ye-verdi%C4%9Fi-efsane-ayar/
-https://www.uludagsozluk.com/k/her-%C5%9Fey-ile-dalga-ge%C3%A7en-insan/ bkz minnak filozof atakan
-https://www.uludagsozluk.com/k/senden-sonra-kimseyi-sevemem-diyen-k%C4%B1z/&w=bg
-https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n-k%C4%B1zkarde%C5%9Fini-becerip-fotolar%C4%B1n%C4%B1-yollamak/
-https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-e-sayg%C4%B1-sevgi-duyan-s%C3%B6zl%C3%BCk-yazar%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/amerikal%C4%B1-erkeklerin-t%C3%BCrklerden-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg
-https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi  -->
-
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
