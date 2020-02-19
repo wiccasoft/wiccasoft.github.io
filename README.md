@@ -7,6 +7,7 @@ https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
 https://eksisozluk.com/ataturk-sagci-miydi-solcu-mu-sorunsali--6373979?a=popular
 https://blogs.nasa.gov/stationreport/2020/02/18/iss-daily-summary-report-2182020/ 
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
+https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi
 -->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
