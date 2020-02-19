@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://cuckold-erkek.uludagsozluk.com/ senin tipine sıçayım ibnenin evladı :)
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-gizli-ses-kayd%C4%B1/ gizli ibnelerin gizli gizli dinlediği kayıt
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni sikmiyo 
 https://kirmizicizgi.uludagsozluk.com/  kürtler tarafından sikilmedi diye zırlayan ibne
