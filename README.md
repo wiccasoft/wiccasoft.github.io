@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!-- https://blogs.nasa.gov/stationreport/2020/02/18/iss-daily-summary-report-2182020/ -->
+<!-- https://blogs.nasa.gov/stationreport/2020/02/18/iss-daily-summary-report-2182020/ 
+https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular
+-->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
