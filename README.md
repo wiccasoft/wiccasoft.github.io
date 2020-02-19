@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
+https://www.uludagsozluk.com/k/sevgilisni-ormana-g%C3%B6t%C3%BCr%C3%BCp-darp-ettiren-vali/ buralar karışır beyler
 https://twitter.com/turkkacamak
 bkz şaka maka 10 yaşında felsefe yapılması
 bkz atakan 10 yaşında arkadaşları ona küçük filozof diyo
