@@ -8,6 +8,7 @@ bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz tangır budun doğanın 10 yaşındaki çocuk beyni
 bkz denize atakan mı düşse kurtarırsın atacücü mü
 bkz mustafa atacücü vs mustafa kapı
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg
 https://cuckold-erkek.uludagsozluk.com/ bkz atacücü
 https://kirmizicizgi.uludagsozluk.com bkz arakanın okuldan arkadaşı
 https://godfrey-de-saint-omer.uludagsozluk.com/ atakanın arkadaşı
