@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-bkz biri de çıkıp demiyo ki aga bu nedir
+https://www.youtube.com/watch?v=fhvhjyWTeZ4 bkz biri de çıkıp demiyo ki aga bu nedir
 https://www.youtube.com/watch?v=DSHO2Gi0FDo lol 
 https://www.uludagsozluk.com/k/tuvana-t%C3%BCrkay-%C4%B1n-s%C3%BCtyensiz-foto%C4%9Fraf%C4%B1/ ->
 
