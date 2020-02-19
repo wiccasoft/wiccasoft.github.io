@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz tangır budun doğanın savcı sayanın resimlerini gay klasörüne atması
 https://kirmizicizgi.uludagsozluk.com/ bkz mezarlıkta kürt yarrağı arayan veled
 bkz şaka kaka ekşideki ibnelerin kafa sikmesi
 bkz ekşideki şişko ergen ibnelerin kendilerin tahkim kurulu falan sanması
