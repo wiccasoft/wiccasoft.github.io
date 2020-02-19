@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz mustaf kapı vs yarramın başı
+bkz mustafa kapının da sizi siklemediği gerçeği
+bkz mustafa kapı vs yarramın başı
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bkz mustaf kapı okuyomuş gibi yaz
 bkz işte bu kapı işte bu da sapı 
 bkz mustafa kamal kapı vs mustafa kamal pencere 
