@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-bkz mustaf kapının çıkarıp masaya vurması
+bkz emre morun yürüdüğü kızın patlak çıkması
+bkz mustafa kapının çıkarıp masaya vurması
 bkz emre belezoğlunun mustaf kapıyı hoplatacağı gerçeği
 bkz şaka maka madafaka emre abisin gülüüüüüüü
 bkz emre mor abi vs mustafa kapı abi vs arda abi 
