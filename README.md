@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
-bkz mustfa kapı vs mustafa sapı
+bkz mustafa kapı vs emre mor
+bkz mustafa kapı vs mustafa sapı
 https://www.uludagsozluk.com/k/r%C4%B1za-nur/&w=bg bkz sen ne diyon lan değişik
 https://www.uludagsozluk.com/k/big-dick/&w=bg bkz yarrak
 bkz mustafa kapının çıkarıp kapı gibi masaya vurması
