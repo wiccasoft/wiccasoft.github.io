@@ -3,9 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-bkz 10 bin tl için chp yerine hdp ye geçen kürt
 https://cuckold-erkek.uludagsozluk.com/ bkz babadan gizli atacücü kayıtları izlemek
-https://kirmizicizgi.uludagsozluk.com/ bkz evlad nabıyon kürtler sikmedi hala seni :)))))
+https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni
 bkz ülkücülerin oğlancı ve gay olma sebepleri
 bkz türklerdeki ensest oğlancı ilişkilerin kökeni adlı kitabım yakında hitapçılarda
 bkz 10 yaşındaki velede hallenecek kadar şişko olmak
