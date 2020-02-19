@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-https://kirmizicizgi.uludagsozluk.com/  bkz tanfır budun doğanın oğlu sanırım
-https://kirmizicizgi.uludagsozluk.com/ bkz 3 saat oldu hala kürtler iskmedi beni
+https://kirmizicizgi.uludagsozluk.com/  bkz tangır budun doğanın oğlu
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni :))))
 https://kirmizicizgi.uludagsozluk.com/ bkz anası direk kırmızı sıçmış bunu :))))
 https://kirmizicizgi.uludagsozluk.com/ bkz 15 yaşında kürt düşmanı vasıfsız ve işsiz velet
