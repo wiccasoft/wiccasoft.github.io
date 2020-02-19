@@ -4,7 +4,9 @@
 <!-- 
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
+https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-biraz-%C5%9Fey-olmas%C4%B1/
 https://www.uludagsozluk.com/k/her-%C5%9Fey-ile-dalga-ge%C3%A7en-insan/ bkz minnak filozof atakan
+https://www.uludagsozluk.com/k/amerikal%C4%B1-erkeklerin-t%C3%BCrklerden-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg
 https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi bkz atakan 10 yaşında arkadaşları ona minnak filozof diyo -->
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
