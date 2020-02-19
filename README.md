@@ -4,6 +4,7 @@
 <!-- 
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
+https://www.uludagsozluk.com/k/karadenizlilerin-ortak-%C3%B6zellikleri/&w=bg
 https://www.uludagsozluk.com/k/rize-erke%C4%9Fi-vs-izmir-erke%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-biraz-%C5%9Fey-olmas%C4%B1/
 https://www.uludagsozluk.com/k/her-%C5%9Fey-ile-dalga-ge%C3%A7en-insan/ bkz minnak filozof atakan
