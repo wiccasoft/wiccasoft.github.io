@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ olm baban uyuduysa kulağana kürtler sizi sikmeyecekmiş deyiver
 https://kirmizicizgi.uludagsozluk.com/  bkz bunun ibne babası çen menli konuşur
 https://kirmizicizgi.uludagsozluk.com/ kürtler sikmedi çeni baban tangır buduna mı söyledin çen beni
 bkz emre morun yürüdüğü kızın patlak çıkması
