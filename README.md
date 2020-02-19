@@ -5,7 +5,7 @@
 <!-- 
 bkz şaka maka 2001 li yazarların büyümesi
 https://www.uludagsozluk.com/k/lise-hocalar%C4%B1na-y%C4%B1llar-sonra-s%C3%B6ylemek-istenenler/&w=bg vay amk
-bkz sihirli annem izleyken kitap okumak nesquik içmek
+bkz sihirli annem izleyken felsefe yapmak nesquik içmek
 https://www.uludagsozluk.com/k/denizlilililerin-kara-olmas%C4%B1/ bkz haydi lillilili yar
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz arkdaşları filozof diyi tıklağ izleğ
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz arkdaşları filozof diyi
