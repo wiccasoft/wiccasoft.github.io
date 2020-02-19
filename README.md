@@ -7,6 +7,7 @@ bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz tangır budun doğanın 10 yaşındaki çocuk beyni
 bkz denize atakan mı düşse kurtarırsın atacücü mü
 bkz mustafa atacücü vs mustafa kapı
+https://cuckold-erkek.uludagsozluk.com/ bkz atacücü
 https://godfrey-de-saint-omer.uludagsozluk.com/ atakanın arkadaşı
 https://www.uludagsozluk.com/k/s%C3%BCpermenin-%C3%A7if%C3%A7i-olmas%C4%B1/ 
 bkz tangır budun doğanın götündeki donun bile amerikan markası olması
