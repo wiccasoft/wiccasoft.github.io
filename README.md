@@ -4,7 +4,7 @@
 
 <!--
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler yakında göt deliğinde enkaz açacak haberin yok amın feryadı
-https://cuckold-erkek.uludagsozluk.com/ senin tipine sıçayım ibnenin evladı :)
+https://cuckold-erkek.uludagsozluk.com/ biri de çıkıp demiyo aga bunedir
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-gizli-ses-kayd%C4%B1/ gizli ibnelerin gizli gizli dinlediği kayıt
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni sikmiyo 
 https://kirmizicizgi.uludagsozluk.com/  kürtler tarafından sikilmedi diye zırlayan ibne
