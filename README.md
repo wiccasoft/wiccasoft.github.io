@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
+https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-%C5%9Fii-ter%C3%B6ristler/
 bkz atakan 10 yaşında a arkadaşları ona minnak filozof diyor
 https://eksisozluk.com/atakan-kayalar--6373258
 https://www.uludagsozluk.com/k/fatma-%C5%9Fahin-in-antarktika-gezisi/&w=bg bkz kara fatma tatilde
