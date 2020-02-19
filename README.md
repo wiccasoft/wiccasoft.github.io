@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
+bkz mustafa kapının çıkarıp kapı gibi masaya vurması
 bkz şaka maka mustafa madafaka
 bkz mustafa kapının göt deliği
 bkz 20 şubat 2020 mustafa kapının soyunm odasında götünü siktirmesi
