@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
 <!-- 
+bkz fesli bunak vs minnak filozof
 bkz tangır budun doğanın minnak filozofları eğitmesi
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
