@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz 10 yaşındaki velde hallenecek kadar şişko olmak
 bkz ülkücülerin gay değiliz yaa diye kasması
 bkz tangır budun doğanın savcı sayanın resimlerini gay klasörüne atması
 https://kirmizicizgi.uludagsozluk.com/ bkz mezarlıkta kürt yarrağı arayan veled
