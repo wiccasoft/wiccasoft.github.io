@@ -3,28 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!-- 
-bkz şaka maka 2001 li yazarların büyümesi
-bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
-bkz atakan 10 yaşında arkadaşları ona einstein diyore
-https://www.uludagsozluk.com/k/lise-hocalar%C4%B1na-y%C4%B1llar-sonra-s%C3%B6ylemek-istenenler/&w=bg vay amk
-bkz sihirli annem izleyken felsefe yapmak nesquik içmek
-https://www.uludagsozluk.com/k/denizlilililerin-kara-olmas%C4%B1/ bkz haydi lillilili yar
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz arkdaşları filozof diyi tıklağ izleğ
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz arkdaşları filozof diyi
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz atakdan 10 yaşında aykadaşlayı filof diyi
-https://www.uludagsozluk.com/k/sevgilisni-ormana-g%C3%B6t%C3%BCr%C3%BCp-darp-ettiren-vali/ buralar karışır beyler
-https://twitter.com/turkkacamak
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-felsefe-konu%C5%9Fan-%C3%A7ocuk/
-http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur 
-https://i.imgyukle.com/2019/04/28/koB57y.jpg yalebbilalemin
-http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/tuvana-t%C3%BCrkay-bu-%C3%BClkenin/ aga bu nedir ya
-https://www.sondakikaturk.com.tr/magazin/ertugrul-ozkok-cagla-sikel-sekse-ara-verdiyse-h169122.html
-https://www.youtube.com/watch?v=fhvhjyWTeZ4 bkz biri de çıkıp demiyo ki aga bu nedir
-https://www.youtube.com/watch?v=DSHO2Gi0FDo lol 
-https://www.uludagsozluk.com/k/tuvana-t%C3%BCrkay-%C4%B1n-s%C3%BCtyensiz-foto%C4%9Fraf%C4%B1/ ->
-
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 
