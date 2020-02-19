@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
 <!-- 
-https://www.uludagsozluk.com/k/her-%C5%9Fey-ile-dalga-ge%C3%A7en-insan/ bkz atakan
+https://www.uludagsozluk.com/k/her-%C5%9Fey-ile-dalga-ge%C3%A7en-insan/ bkz minnak filozof atakan
 https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi bkz atakan 10 yaşında arkadaşları ona mandra filozofu diyo -->
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
