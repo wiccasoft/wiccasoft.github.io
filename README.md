@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
+bkz mustafa kapının kapı gibiyim kapı demesi
 bkz ekşide mustafa kapı hakkındaki ilginç entry
 bkz mustafa kapı vs emre mor
 bkz mustafa kapı vs mustafa sapı
