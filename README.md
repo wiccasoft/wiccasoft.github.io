@@ -5,8 +5,6 @@
 <!-- 
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni ele geçirmiyo yaa
 https://cuckold-erkek.uludagsozluk.com/ bkz babadan gizli atacücü kayıtları izlemek
-https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye siklemiyo anne
-bkz ülkücülerin oğlancı ve gay olma sebepleri
 bkz türklerdeki ensest oğlancı ilişkilerin kökeni adlı kitabım yakında hitapçılarda
 bkz 10 yaşındaki velede hallenecek kadar şişko olmak
 bkz ülkücülerin gay değiliz yaa diye kasması
