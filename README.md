@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
+bkz 20 şiubat 2020 mustafa kapının soyunm odasında götünü siktirmesi
 bkz 20 şubat 2020 verilmeyen penaltı
 bkz 20 şubat 2020 malatyaspor geyspor maçı
 bkz mustafa kapının pipsini kaldıran hangi ibne lan
