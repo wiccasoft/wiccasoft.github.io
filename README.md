@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
-<!-- https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz izlemedim -->
+<!-- 
+https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-250-kitap-okuyan-%C3%A7ocuk/ bkz amın feryadı atakan
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz izlemedim -->
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
 
