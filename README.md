@@ -5,6 +5,8 @@
 <!-- 
 https://twitter.com/turkkacamak
 bkz şaka maka 10 yaşında felsefe yapılması
+bkz atakan 10 yaşında arkadaşları ona küçük filozof diyo
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
 bkz atakan 10 yaşında arkadaşları ona einstein diyore
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-felsefe-konu%C5%9Fan-%C3%A7ocuk/
 bkz 18 yaşında mustafa kapı abi nin top tepmesi
