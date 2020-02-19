@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-biraz-%C5%9Fey-olmas%C4%B1
 https://www.uludagsozluk.com/k/fatih-portakal-%C4%B1n-s%C3%BCleyman-soylu-ya-cevab%C4%B1/
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu-nun-fox-tv-ye-verdi%C4%9Fi-efsane-ayar/
 https://www.uludagsozluk.com/k/her-%C5%9Fey-ile-dalga-ge%C3%A7en-insan/ bkz minnak filozof atakan
+https://www.uludagsozluk.com/k/senden-sonra-kimseyi-sevemem-diyen-k%C4%B1z/&w=bg
 https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n-k%C4%B1zkarde%C5%9Fini-becerip-fotolar%C4%B1n%C4%B1-yollamak/
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-e-sayg%C4%B1-sevgi-duyan-s%C3%B6zl%C3%BCk-yazar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/amerikal%C4%B1-erkeklerin-t%C3%BCrklerden-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg
