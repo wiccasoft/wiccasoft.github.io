@@ -4,6 +4,7 @@
 
 <!-- 
 bkz sihirli annem izleyken kitap okumak nesquik içmek
+https://www.uludagsozluk.com/k/denizlilililerin-kara-olmas%C4%B1/ bkz haydi lillilili yar
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz arkdaşları filozof diyi tıklağ izleğ
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular bkz arkdaşları filozof diyi
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz atakdan 10 yaşında aykadaşlayı filof diyi
