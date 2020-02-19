@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
-bkz mustafa kapının kapı gibi masaya vurması
+bkz mustafa kapının çıkartıp kapı gibi masaya vurması
 https://www.youtube.com/watch?v=udoB5GYosfU not al arkadaşım hayat felsefesi edin
 bkz 30000 kadınla nasıl birlikte oldum yaz arkadaşım hayat felsefi edin
 bkz 10 yaşında 15000 kitap okumuş çocuk
