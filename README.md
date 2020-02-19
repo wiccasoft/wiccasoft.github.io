@@ -3,7 +3,6 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/g%C3%BCn%C3%BCm%C3%BCz-t%C3%BCrk-gen%C3%A7li%C4%9Fi-temsili/&list_type=solframe&altinci_yok=3
 http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur orospu ya
 https://i.imgyukle.com/2019/04/28/koB57y.jpg yalebbilalemin
 http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/tuvana-t%C3%BCrkay-bu-%C3%BClkenin/ aga bu nedir ya
