@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
+https://eksisozluk.com/atakan-kayalar--6373258
 https://www.uludagsozluk.com/k/170-boyundaki-erkek/&w=bg
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular
