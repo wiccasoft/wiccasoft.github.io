@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular felsefe muhabbeti yapmak
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bkz antrenman dotoları içine galeriğ tıklağ
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz ibnelerin içindekilerini döktüğü garip yer
 https://www.uludagsozluk.com/k/big-dick/&w=bg iyi de bize ne amın oğlu
