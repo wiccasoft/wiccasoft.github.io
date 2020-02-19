@@ -4,6 +4,7 @@
 
 <!-- 
 bkz şaka maka 2001 li yazarların büyümesi
+bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 https://www.uludagsozluk.com/k/lise-hocalar%C4%B1na-y%C4%B1llar-sonra-s%C3%B6ylemek-istenenler/&w=bg vay amk
 bkz sihirli annem izleyken felsefe yapmak nesquik içmek
 https://www.uludagsozluk.com/k/denizlilililerin-kara-olmas%C4%B1/ bkz haydi lillilili yar
