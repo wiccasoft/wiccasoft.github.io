@@ -8,7 +8,6 @@ nkz mustafa kapı emrre mor abi idolüm instada kızlara yürüyecem demesi
 bkz mustafa kapının arda abinin izindeyim demesi
 bkz mustafa kapının da sizi siklemediği gerçeği
 bkz mustafa kapı vs yarramın başı
-https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bkz mustaf kapı okuyomuş gibi yaz
 bkz işte bu kapı işte bu da sapı 
 bkz mustafa kamal kapı vs mustafa kamal pencere 
 https://kirmizicizgi.uludagsozluk.com/ olm baban uyuduysa kulağana kürtler sizi sikmeyecekmiş deyiver
