@@ -3,9 +3,8 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-https://kirmizicizgi.uludagsozluk.com/  bkz tangır budun doğanın oğlu
+https://kirmizicizgi.uludagsozluk.com/  bkz tangır budun doğanın işsiz kürt düşmanı oğlu
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni ağlayan veled
-https://kirmizicizgi.uludagsozluk.com/ bkz tangır budun doğanın işsiz oğlu
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni anne yaaaaa
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni ele geçirmiyo yaa
 https://cuckold-erkek.uludagsozluk.com/ bkz babadan gizli atacücü kayıtları izlemek
