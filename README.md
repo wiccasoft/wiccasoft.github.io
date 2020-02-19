@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz mustafa kapı abü vs emre mor abü
 bkz bariş özcanın veledi vs 10 yaşında şaka kaka felsefe yapan veled
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular tıklağ kankağ felsefe konişiy
 bkz şaka maka madafaka atkan sallama be olm
