@@ -4,6 +4,7 @@
 
 <!-- 
 https://twitter.com/turkkacamak
+bkz 18 yaşında mustafa kapı abi nin top tepmesi
 http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur orospu ya
 https://i.imgyukle.com/2019/04/28/koB57y.jpg yalebbilalemin
 http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/tuvana-t%C3%BCrkay-bu-%C3%BClkenin/ aga bu nedir ya
