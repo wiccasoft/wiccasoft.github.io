@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!-- 
+bkz türklerin ünlü dediği kişileri ancak google dan aratıp bulmak
 bkz elif can yetim kim amk haa ekşiciler tamam
 bkz mustafa kapı kim amk haaa ekşiciler tamam
 bkz tuvana türkay kim amk haha ekşiciler tamam
