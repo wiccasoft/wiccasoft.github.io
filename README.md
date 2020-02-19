@@ -4,6 +4,7 @@
 <!-- 
 bkz fesli bunak vs minnak filozof
 bkz minnak filozof atakanın fetullah gülenci çıkması
+https://www.uludagsozluk.com/k/netflix-kullanm%C4%B1yoruz-kampanyas%C4%B1/
 https://www.uludagsozluk.com/k/abd-ye-ne-istediyse-vermeyen-tek-lider-atat%C3%BCrk/
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=gd
