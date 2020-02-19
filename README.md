@@ -3,9 +3,11 @@
 
 <!-- 
 bkz fesli bunak vs minnak filozof
+https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=gd
 https://eksisozluk.com/atakanin-bir-pedagoga-gorunmesi-gerekliligi--6373576?a=popular
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-para-kazand%C4%B1rmak/&w=bg 
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan-18-ya%C5%9F%C4%B1ndaki-ben/
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
 bkz atakan 10 yaşında arkadaşları ona minnak filozof diyo
