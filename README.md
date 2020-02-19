@@ -8,6 +8,7 @@ bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz tangır budun doğanın 10 yaşındaki çocuk beyni
 bkz denize atakan mı düşse kurtarırsın atacücü mü
 bkz mustafa atacücü vs mustafa kapı
+https://twitter.com/Astro_Jessica/status/1228843327614791680
 https://www.uludagsozluk.com/k/neye-tap%C4%B1yorsun/
 https://www.uludagsozluk.com/k/kad%C4%B1na-tapan-erkek/&w=bg
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg
