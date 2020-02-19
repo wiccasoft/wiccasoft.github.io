@@ -5,7 +5,8 @@
 bkz fesli bunak vs minnak filozof
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz tangır budun doğanın 10 yaşındaki çocuk beyni
-https://www.uludagsozluk.com/k/s%C3%BCpermenin-%C3%A7if%C3%A7i-olmas%C4%B1/ hayallerde yaşıyosun ibnenin evladı
+https://godfrey-de-saint-omer.uludagsozluk.com/ atakanın arkadaşı
+https://www.uludagsozluk.com/k/s%C3%BCpermenin-%C3%A7if%C3%A7i-olmas%C4%B1/ 
 bkz tangır budun doğanın götündeki donun bile amerikan markası olması
 https://www.uludagsozluk.com/k/netflix-kullanm%C4%B1yoruz-kampanyas%C4%B1/
 https://www.uludagsozluk.com/k/abd-ye-ne-istediyse-vermeyen-tek-lider-atat%C3%BCrk/
