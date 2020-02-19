@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+nkz mustafa kapı emrre mor abi idolüm instada kızlara yürüyecem demesi
 bkz mustafa kapının arda abinin izindeyim demesi
 bkz mustafa kapının da sizi siklemediği gerçeği
 bkz mustafa kapı vs yarramın başı
