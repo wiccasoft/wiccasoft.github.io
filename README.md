@@ -4,6 +4,7 @@
 
 <!--
 bkz sağol canım övdüm de geldim ısrar etme 
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 https://tr.wikipedia.org/wiki/Singularity
 bkz yapay zekanın götüyle güldüğü amın feryatları
 https://www.uludagsozluk.com/k/youtube-daki-%C3%A7ocuk-kanallar%C4%B1/ bkz peçete artıkları
