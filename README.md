@@ -2,6 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
+<!-- 
+bkz tuvana türkay kim amk haha ekşiciler tamam
+https://www.uludagsozluk.com/k/tuvana-t%C3%BCrkay-%C4%B1n-s%C4%B1%C3%A7%C4%B1p-s%C4%B1vamas%C4%B1/ -->
 
 [![Image](waste/Screenshot_2020-02-17_03-54-52.png)]( https://www.youtube.com/watch?v=-v9_2E80xxA )
 
