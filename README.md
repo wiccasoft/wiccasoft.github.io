@@ -4,8 +4,7 @@
 <!-- 
 bkz fesli bunak vs minnak filozof
 https://eksisozluk.com/atakanin-bir-pedagoga-gorunmesi-gerekliligi--6373576?a=popular
-bkz tangır budun doğanın minnak filozofları eğitmesi
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-para-kazand%C4%B1rmak/&w=bg güldürür eved
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-para-kazand%C4%B1rmak/&w=bg 
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan-18-ya%C5%9F%C4%B1ndaki-ben/
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
