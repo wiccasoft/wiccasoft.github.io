@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!-- https://blogs.nasa.gov/stationreport/2020/02/18/iss-daily-summary-report-2182020/ 
+<!--
+https://eksisozluk.com/atakan-kayalar--6373258?a=popular
+https://blogs.nasa.gov/stationreport/2020/02/18/iss-daily-summary-report-2182020/ 
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 -->
