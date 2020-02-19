@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz 30000 kadınla nasıl birlikte oldum yaz arkadaşım hayat felsefi edin
 bkz 10 yaşında 15000 kitap okumuş çocuk
 bkz mustaf kapı vs mustafa mor
 https://galeri.uludagsozluk.com/r/uluda%C4%9F-s%C3%B6zl%C3%BCk-1767941/
