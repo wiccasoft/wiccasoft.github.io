@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur orospu
+http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur giberim ben bunu
 https://i.imgyukle.com/2019/04/28/koB57y.jpg yalebbilalemin
 http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/tuvana-t%C3%BCrkay-bu-%C3%BClkenin/ aga bu nedir ya
 https://www.sondakikaturk.com.tr/magazin/ertugrul-ozkok-cagla-sikel-sekse-ara-verdiyse-h169122.html
