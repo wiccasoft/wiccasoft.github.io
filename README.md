@@ -4,7 +4,6 @@
 
 <!-- 
 https://kirmizicizgi.uludagsozluk.com/ olm baban uyuduysa kulağana kürtler sizi sikmeyecekmiş deyiver
-https://kirmizicizgi.uludagsozluk.com/  bkz bunun ibne babası çen menli konuşur
 https://kirmizicizgi.uludagsozluk.com/ kürtler sikmedi çeni baban tangır buduna mı söyledin çen beni
 bkz emre morun yürüdüğü kızın patlak çıkması
 bkz mustafa kapının çıkarıp masaya vurması
