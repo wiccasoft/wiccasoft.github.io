@@ -5,6 +5,7 @@
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
 https://www.uludagsozluk.com/k/zay%C4%B1f-sumo-g%C3%BCre%C5%9F%C3%A7isi/
+https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n-k%C4%B1zkarde%C5%9Fini-becerip-fotolar%C4%B1n%C4%B1-yollamak/
 https://www.uludagsozluk.com/k/karadenizlilerin-ortak-%C3%B6zellikleri/&w=bg
 https://www.uludagsozluk.com/k/rize-erke%C4%9Fi-vs-izmir-erke%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-biraz-%C5%9Fey-olmas%C4%B1/
