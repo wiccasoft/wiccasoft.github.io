@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+bkz ülkücülerin oğlancı ve gay olma sebepleri
 bkz türklerdeki ensest oğlancı ilişkilerin kökeni adlı kitabım yakında hitapçılarda
 bkz 10 yaşındaki velde hallenecek kadar şişko olmak
 bkz ülkücülerin gay değiliz yaa diye kasması
