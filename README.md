@@ -1,6 +1,6 @@
 
 
-[![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
+[![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=-kU94AmXD0Q )
 
 <!--
 bkz 30000 kadınla nasıl birlikte oldum yaz arkadaşım hayat felsefi edin
