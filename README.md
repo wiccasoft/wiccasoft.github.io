@@ -3,6 +3,7 @@
 <!--
 bkz atakan vs atacücü
 https://eksisozluk.com/atakan-kayalar--6373258
+https://www.uludagsozluk.com/k/taner-tolga-tarlac%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/170-boyundaki-erkek/&w=bg
 https://www.uludagsozluk.com/k/d%C3%B6vme-yapt%C4%B1ran-erkek/&w=bg
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular
