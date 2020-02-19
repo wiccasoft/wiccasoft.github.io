@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz şaka maka madafaka
+bkz şaka maka madafaka atkan sallama be olm
 bkz sağol canım övdüm de geldim ısrar etme 
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 https://tr.wikipedia.org/wiki/Singularity
