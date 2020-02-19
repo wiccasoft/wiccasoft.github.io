@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
+bkz 20 şubat malatyaspor geyspor maçı
 bkz mustafa kapının pipsini kaldıran hangi ibne lan
 bkz mustafa kapının pipim kalkıyo indirin demesi
 bkz mustafa kapının çıkartıp kapı gibi masaya vurması
