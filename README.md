@@ -4,7 +4,7 @@
 
 <!--
 bkz şaka maka madafaka atkan sallama be olm
-bkz sağol canım övdüm de geldim ısrar etme 
+bkz sağol evladım övdüm de geldim ısrar etme diyorum banım evladım
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 https://tr.wikipedia.org/wiki/Singularity
 bkz yapay zekanın götüyle güldüğü amın feryatları
