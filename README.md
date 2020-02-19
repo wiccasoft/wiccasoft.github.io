@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni sikmiyo 
 https://kirmizicizgi.uludagsozluk.com/  kürtler tarafından sikilmedi diye zırlayan ibne
 https://kirmizicizgi.uludagsozluk.com/ zuahahahahhaha kürt yarrağı mı istiyo lan canın
 https://www.uludagsozluk.com/k/k%C3%BCrtler-yak%C4%B1nda-t%C3%BCrkiye-yi-ele-ge%C3%A7irecek/&w=bg zuahahaha
