@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!--
-bkz ekşici ibnelerin kendilerin tahkim kurulu falan sanması
+bkz ekşideki şişko ergen ibnelerin kendilerin tahkim kurulu falan sanması
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-250-kitap-okuyan-%C3%A7ocuk/ bkz abü süper çocuk ya
 bkz mustafa kapı abü vs emre mor abü
 bkz bariş özcanın veledi vs 10 yaşında şaka kaka felsefe yapan veled
