@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz atakan vs atacücü
 https://www.uludagsozluk.com/k/170-boyundaki-erkek/&w=bg
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular
