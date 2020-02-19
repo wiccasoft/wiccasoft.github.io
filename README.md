@@ -4,6 +4,7 @@
 bkz atakan vs atacücü
 bkz atakan 10 yaşında a arkadaşları ona minnak filozof diyor
 https://eksisozluk.com/atakan-kayalar--6373258
+https://www.uludagsozluk.com/k/fatma-%C5%9Fahin-in-antarktika-gezisi/&w=bg bkz kara fatma tatilde
 https://www.uludagsozluk.com/k/f%C4%B1rat-y%C4%B1lmaz-%C3%A7ak%C4%B1ro%C4%9Flu/&w=bg bkz marka isimler
 bkz şaka maka madafak atakan kayaların marka olması
 https://eksisozluk.com/2090da-uyanilsa-googleda-aranacak-ilk-sey--5284926?a=popular bkz atakan kayalar
