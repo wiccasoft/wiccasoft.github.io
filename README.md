@@ -4,7 +4,7 @@
 
 <!--
 bkz mustafa kapının pipim bu sene kalktı demesi
-nkz mustafa kapı emrre mor abi idolüm instada kızlara yürüyecem demesi
+nkz mustafa kapı büyüyünce instada kızlara yürüyecem demesi
 bkz mustafa kapının arda abinin izindeyim demesi
 bkz mustafa kapının da sizi siklemediği gerçeği
 bkz mustafa kapı vs yarramın başı
