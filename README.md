@@ -4,6 +4,8 @@
 <!-- 
 bkz fesli bunak vs minnak filozof
 bkz minnak filozof atakanın fetullah gülenci çıkması
+https://www.uludagsozluk.com/k/abd-ye-ne-istediyse-vermeyen-tek-lider-atat%C3%BCrk/
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=gd
 https://eksisozluk.com/atakanin-bir-pedagoga-gorunmesi-gerekliligi--6373576?a=popular
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-para-kazand%C4%B1rmak/&w=bg 
