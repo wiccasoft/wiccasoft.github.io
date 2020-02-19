@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=udoB5GYosfU )
 
 <!--
+https://www.uludagsozluk.com/k/big-dick/&w=bg iyi de bize ne amın oğlu
 https://eksisozluk.com/ankarada-sarhos-vatandasi-dovup-kufur-eden-bekci--6372585?a=popular
 https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 bkz mustafa kapının kapı gibi goller atacam kapı gibi demesi
