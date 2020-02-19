@@ -2,7 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
-bkz atakan 10 yaşında a arkadaşları ona minnak filozof diyi
+bkz atakan 10 yaşında a arkadaşları ona minnak filozof diyor
 https://eksisozluk.com/atakan-kayalar--6373258
 https://www.uludagsozluk.com/k/f%C4%B1rat-y%C4%B1lmaz-%C3%A7ak%C4%B1ro%C4%9Flu/&w=bg bkz marka isimler
 bkz şaka maka madafak atakan kayaların marka olması
