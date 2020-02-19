@@ -5,7 +5,7 @@
 <!-- 
 https://cuckold-erkek.uludagsozluk.com bkz hitler niye türküyüyü saldirmiyo bıbıcım
 https://kirmizicizgi.uludagsozluk.com/  bkz tangır budun doğanın oğlu
-https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni :))))
+https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni  ağlayan veled
 https://kirmizicizgi.uludagsozluk.com/ bkz anası direk kırmızı sıçmış bunu :))))
 https://kirmizicizgi.uludagsozluk.com/ bkz 15 yaşında kürt düşmanı vasıfsız ve işsiz velet
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni anne yaaaaa
