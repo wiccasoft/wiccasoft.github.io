@@ -4,6 +4,7 @@
 
 <!-- 
 https://twitter.com/turkkacamak
+https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-felsefe-konu%C5%9Fan-%C3%A7ocuk/ bkz atakan abi felsefe yapıyo
 bkz 18 yaşında mustafa kapı abi nin top tepmesi
 http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur orospu ya
 https://i.imgyukle.com/2019/04/28/koB57y.jpg yalebbilalemin
