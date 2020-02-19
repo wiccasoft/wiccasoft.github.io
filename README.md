@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
+https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni anne yaaaaa
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye beni ele geçirmiyo yaa
 https://cuckold-erkek.uludagsozluk.com/ bkz babadan gizli atacücü kayıtları izlemek
 bkz türklerdeki ensest oğlancı ilişkilerin kökeni adlı kitabım yakında hitapçılarda
