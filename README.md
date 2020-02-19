@@ -6,6 +6,8 @@
 <!-- 
 bkz şaka maka 2001 li yazarların büyümesi
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
+bkz atakan 10 yaşında arkadaşları ona einstein diyore
 https://www.uludagsozluk.com/k/lise-hocalar%C4%B1na-y%C4%B1llar-sonra-s%C3%B6ylemek-istenenler/&w=bg vay amk
 bkz sihirli annem izleyken felsefe yapmak nesquik içmek
 https://www.uludagsozluk.com/k/denizlilililerin-kara-olmas%C4%B1/ bkz haydi lillilili yar
@@ -14,13 +16,8 @@ https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popul
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz atakdan 10 yaşında aykadaşlayı filof diyi
 https://www.uludagsozluk.com/k/sevgilisni-ormana-g%C3%B6t%C3%BCr%C3%BCp-darp-ettiren-vali/ buralar karışır beyler
 https://twitter.com/turkkacamak
-bkz şaka maka 10 yaşında felsefe yapılması
-bkz atakan 10 yaşında arkadaşları ona küçük filozof diyo
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
-bkz atakan 10 yaşında arkadaşları ona einstein diyore
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-felsefe-konu%C5%9Fan-%C3%A7ocuk/
-bkz 18 yaşında mustafa kapı abi nin top tepmesi
-http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur orospu ya
+http://c12.incisozluk.com.tr/res/incisozluk//11504/2/3386872_oa7e8.png tam huur 
 https://i.imgyukle.com/2019/04/28/koB57y.jpg yalebbilalemin
 http://www.incisozluk.heszpdondurucu.sozlukspot.com/w/tuvana-t%C3%BCrkay-bu-%C3%BClkenin/ aga bu nedir ya
 https://www.sondakikaturk.com.tr/magazin/ertugrul-ozkok-cagla-sikel-sekse-ara-verdiyse-h169122.html
