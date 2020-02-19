@@ -4,6 +4,7 @@
 <!-- 
 bkz minnak filozof atakanın fetullah gülenci çıkması
 bkz bahçelinin minnak filozof atacana verdiği efso ayar
+bkz atakan 10 yaşında arkadaşları ona minnak filozof diyo
 https://www.uludagsozluk.com/k/katana-tekni%C4%9Fi-ile-yobaz-d%C3%B6vmek/
 https://www.uludagsozluk.com/k/zay%C4%B1f-sumo-g%C3%BCre%C5%9F%C3%A7isi/
 https://www.uludagsozluk.com/k/karadenizlilerin-ortak-%C3%B6zellikleri/&w=bg
@@ -16,7 +17,7 @@ https://www.uludagsozluk.com/k/senden-sonra-kimseyi-sevemem-diyen-k%C4%B1z/&w=bg
 https://www.uludagsozluk.com/k/arkada%C5%9F%C4%B1n-k%C4%B1zkarde%C5%9Fini-becerip-fotolar%C4%B1n%C4%B1-yollamak/
 https://www.uludagsozluk.com/k/fethullah-g%C3%BClen-e-sayg%C4%B1-sevgi-duyan-s%C3%B6zl%C3%BCk-yazar%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/amerikal%C4%B1-erkeklerin-t%C3%BCrklerden-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olmas%C4%B1/&w=bg
-https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi bkz atakan 10 yaşında arkadaşları ona minnak filozof diyo -->
+https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi  -->
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
