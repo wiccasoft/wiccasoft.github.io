@@ -5,7 +5,7 @@
 <!--
 bkz ülkücülerin oğlancı ve gay olma sebepleri
 bkz türklerdeki ensest oğlancı ilişkilerin kökeni adlı kitabım yakında hitapçılarda
-bkz 10 yaşındaki velde hallenecek kadar şişko olmak
+bkz 10 yaşındaki velede hallenecek kadar şişko olmak
 bkz ülkücülerin gay değiliz yaa diye kasması
 bkz tangır budun doğanın savcı sayanın resimlerini gay klasörüne atması
 https://kirmizicizgi.uludagsozluk.com/ bkz mezarlıkta kürt yarrağı arayan veled
