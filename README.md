@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
 
 <!-- 
-bkz emre mor abi vs mustafa kapı abi
+bkz emre mor abi vs mustafa kapı abi vs arda abi 
 https://www.uludagsozluk.com/k/mustafa-kap%C4%B1/&w=gd bkz pedofili
 https://kirmizicizgi.uludagsozluk.com/  bkz tangır budun doğanın işsiz kürt düşmanı oğlu
 https://kirmizicizgi.uludagsozluk.com/ bkz kürtler niye sikmiyo beni ağlayan veled
