@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://www.uludagsozluk.com/k/5-ayda-250-kitap-okuyan-10-ya%C5%9F%C4%B1ndaki-velet/
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan-%C4%B1n-mehdi-olmas%C4%B1/
 https://www.uludagsozluk.com/k/atakan-a-bi%C5%9Fe-demeyin-l%C3%BCtfen-o-daha-%C3%A7ocuk/
