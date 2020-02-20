@@ -5,6 +5,7 @@
 bkz atakan kayaların yeni video atması
 bkz atakan kayaların 2010 doğumluyum ama süperim demesi
 bkz atakan kayaların annemi sikebilirsiniz demesi
+bkz atakan kayaların annem taş gibidir ayarlim size demesi
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/&w=bg
 -->
 
