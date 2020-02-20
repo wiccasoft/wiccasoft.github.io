@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd bkz küçük müçük filozof ama
+bkz küçük filozofun kulağına aristotales diyip kaçmak
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd 
 bkz atakanın münir özkula benzemesi
 bkz felsefe yapan oğlan seksiliği
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
