@@ -2,7 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
-bkz şaka maka atakanın babası oğlanı dünyaca ünlü filozof yapacam dese napardın sorunalı
+bkz şaka maka cihatçı terörrikler atakanı kaşırsa naparsın sorunsalı
 bkz şaka maka denize atacücü mü düşse kurtarırdın arakan mı
 bkz şaka maka atakan sağcı mı solcu mu sorunsalı
 bkz şaka maka atacücü kamalcımı komünükmüydü sorunsalı
