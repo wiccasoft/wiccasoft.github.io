@@ -2,6 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
+bkz oğlanları hareme kapayıp kaymak gibi götlerini demlendirmek
 bkz osmanlı çoCuKlarının daha bi seksi olmaSI
 https://www.uludagsozluk.com/k/%C5%9Fehzade-o%C4%9Fuzhan/ bkz seksi oğlanlar
 bkz osmanlı çocuğunun dudağını büküp seksi hareketler yapması
