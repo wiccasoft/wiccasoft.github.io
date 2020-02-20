@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
-<!-- 
+<!--
+bkz şaka maka atakanın çapkın çıkması
 bkz atakanlarda oynamay gidip taytı evinde unutan kız
 bkz atakanın amcaoğlunun atakanın oyuncaklarını çalması
 bkz atakaın annesine yaptığı saygısızlık
