@@ -2,6 +2,7 @@
 
 <!--
 bkz felsefe bahane oğlan şahane
+https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-bir-%C3%A7ocu%C4%9Fu-lin%C3%A7-etmek/ oyşşşş
 bkz filozof atakanın kaymak gibi götü olduğu gerçeği
 bkz kaymak gibi bi oda dolusu oğlanın yumuşak götleriyle felsefe yapması
 bkz osmanlı çoCuKlarının daha bi seksi olmaSI
