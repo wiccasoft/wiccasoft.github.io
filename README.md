@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz aleyna tilkinni çocukları seks obşeşi yapmayın demesi
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ bkz yav he he
 https://www.uludagsozluk.com/k/alt%C4%B1n-%C3%A7ocuk-atakan/ bkz parlak götlü atakan
 bkz aleyna tilkinin atakana 31 çekenler bana çekmesin demesi
