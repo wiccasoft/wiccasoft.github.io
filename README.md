@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-bir-%C3%A7ocu%C4%9Fu-lin%C3%A7-etmek/ bkz parlak götlü oğlanlar
 https://www.uludagsozluk.com/k/bak-%C3%A7ocuk-seni-%C5%9Famarlar%C4%B1m/ bkz atakının götüm tokatlayarak sikmek
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz atakanın babası
 bkz türkiyedeki oğlancılık üzerine tez yazmak
