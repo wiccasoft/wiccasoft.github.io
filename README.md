@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/k/osman-kavala/&w=gd
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
 https://www.uludagsozluk.com/k/istanbulun-fethi-kenan-komutan/ lol
 https://www.uludagsozluk.com/k/general-electric/&w=bg lol
+https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/ serdar06 mı ölecekti
 https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-feda-edecek-gen%C3%A7lere-ihtiyac%C4%B1m%C4%B1z-var/ yeni atakanlar lazım
 https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-nihilizmi-bildi%C4%9Fini-iddia-eden-%C3%A7ocuk/ sen de bunu yedin
