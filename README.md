@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/bak-%C3%A7ocuk-seni-%C5%9Famarlar%C4%B1m/ bkz atakının götüm tokatlayarak sikmek
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz atakanın babası
 bkz türkiyedeki oğlancılık üzerine tez yazmak
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd
