@@ -2,7 +2,7 @@
 
 <!--
 bkz bi twitter oğlan videosu atın da şenlenek
-bkz twitterdaki oğlancılar
+bkz twitterdaki kamalıst oğlancılar
 bkz bomba olurum küstürürüm kaderine
 https://www.uludagsozluk.com/k/bomba-seslerini-oyun-olarak-%C3%B6%C4%9Freten-suriyeli-baba/ 
 bkz küçük fıratın felesefe tartışalaım mı demesi
