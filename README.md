@@ -6,7 +6,7 @@ bkz atakanın bokunu çıkarması
 bkz filozof atakan vs filozof atacüc
 bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
-bkz antartikayı tatil mekanı sanan kamalcı
+bkz antartikayı tatil mekanı sanan atakan
 bkz şaka maka receğ tayyiğ erdoğan kyk borçlarını sildim dese naparsın sorunsalı
 bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
 bkz şaka maka atacüc atla idlibe gidiyosun dese gidermiydin sorunsalı
