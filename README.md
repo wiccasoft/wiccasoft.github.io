@@ -2,7 +2,8 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
-bkz artakanın götünün parmaklarken kulağına felsefi sözler söylemek
+bkz osmanlı çocuğuyum diyen çocuğu kıcakta okşarken malafatın kalkması
+bkz atakanın götünün parmaklarken kulağına felsefi sözler söylemek
 bkz osmanlı çocuklarının parlak götlü oldukları iddası
 bkz atakanı kütphanaede köşeye sıkıştırıp çatır çatır sikmek
 https://www.uludagsozluk.com/k/atakan-ismindeki-karde%C5%9Fi-bir-tokatla-yere-sermek/
