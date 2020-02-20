@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz küçük fıratın felesefe tartışalaım mı demesi
+https://www.uludagsozluk.com/k/f%C4%B1rat-%C3%A7ak%C4%B1ro%C4%9Flu-nun-ilber-ortayl%C4%B1-ya-sordu%C4%9Fu-soru/
 bkz küçük filozof atakanın sanki biraz şey olması
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd bkz küçük ibne
 bkz küçük filozofun azdırması
