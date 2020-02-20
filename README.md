@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz osmanlı çocuklarının parlak götlü oldukları iddası
 bkz atakanı kütphanaede köşeye sıkıştırıp çatır çatır sikmek
 bkz parlak götlü oğlanların adamı haste edttiği gerçeği
 https://www.uludagsozluk.com/k/atakan-ismindeki-karde%C5%9Fi-bir-tokatla-yere-sermek/
