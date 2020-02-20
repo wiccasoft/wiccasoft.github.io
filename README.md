@@ -1,61 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!--
-bkz atakan vs atacüc
-bkz şaka maka iyi pr kastık brolar eywolle
-https://galeri.uludagsozluk.com/r/k%C3%BC%C3%A7%C3%BCk-filozof-atakan-1980329/ 
-https://galeri.uludagsozluk.com/r/k%C3%BC%C3%A7%C3%BCk-filozof-atakan-1980381/ 
-https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywolle genşler eksik olmayın
-http://incisozluk.com.tr/w/arkadaslar-incici-vs-ek%C5%9Fici-yapd%C4%B1m/
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd ne gerenk vardı title a 
-https://www.uludagsozluk.com/k/gerekirse-5-bin-%C3%BClk%C3%BCc%C3%BC-ile-leningrad-%C4%B1-ku%C5%9Fat%C4%B1r%C4%B1z/&w=bg
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ eywallah brolar
-bkz atakanın ikinci bir platon olmaya niyetim yok demesi
-bkz atakanın felsefenin bokunu çıkarması
-bkz atakanın ismimle değil fikirlerimle anılmas isitorum açıklaması
-bkz atakanın platonun idelar evrenini açması
-bkz mobile.twitter atakan video tıklağ
-ayrıca bakınız From Latin philosophia, from Ancient Greek φιλοσοφία (philosophía), from φίλος (phílos, “beloved”) + σοφία (sophía, “wisdom”).
-bkz filozof atakan vs filozof atacüc
-bkz çocuklar duymasın havuç vs atakan
-bkz atakanın antartika tatili
-bkz antartikayı tatil mekanı sanan atakan
-bkz şaka maka receğ tayyiğ erdoğan kyk borçlarını sildim dese naparsın sorunsalı
-bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
-bkz şaka maka atacüc atla idlibe gidiyosun dese gidermiydin sorunsalı
-bkz şaka maka atakan solcu mu sağcı mı sorunsalı
-bkz şaka maka atakan domal sikecem dese napardın sorunsalı
-bkz şaka maka denize atacücü mü düşse kurtarırdın arakan mı
-bkz şaka maka mustafa cecele şii oldum dese napardın sorunsalı
-bkz şaka maka cihatçı şii terörrikler atakanı kaşırsa naparsın sorunsalı
-bkz şaka maka atakan sağcı mı solcu mu sorunsalı
-bkz şaka maka atacücü kamalcımı komünükmüydü sorunsalı
-bkz ya cihatçı şii terörikler ya şehirler inerse sorunsalı
-https://www.uludagsozluk.com/k/ha%C5%9Fince-sikilmek-istemek/ olur öyle takma kafana
-bkz şaka maka madafaka filozof atakanın çok yakışıklı olduğu gerçeği
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ üşüyoruz filozof reyis
-https://www.uludagsozluk.com/k/f%C4%B1rat-y%C4%B1lmaz-%C3%A7ak%C4%B1ro%C4%9Flu/&w=bg üşüyoruz reis
-https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-%C5%9Fii-ter%C3%B6ristler/
-bkz atakan 10 yaşında a arkadaşları ona minnak filozof diyor
-https://eksisozluk.com/atakan-kayalar--6373258
-https://www.uludagsozluk.com/k/fatma-%C5%9Fahin-in-antarktika-gezisi/&w=bg bkz kara fatma tatilde
-https://www.uludagsozluk.com/k/f%C4%B1rat-y%C4%B1lmaz-%C3%A7ak%C4%B1ro%C4%9Flu/&w=bg bkz marka isimler
-bkz şaka maka madafak atakan kayaların marka olması
-https://eksisozluk.com/2090da-uyanilsa-googleda-aranacak-ilk-sey--5284926?a=popular bkz atakan kayalar
-https://www.uludagsozluk.com/k/170-boyundaki-erkek/&w=bg
-https://www.uludagsozluk.com/k/d%C3%B6vme-yapt%C4%B1ran-erkek/&w=bg
-https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
-https://eksisozluk.com/ataturk-sagci-miydi-solcu-mu-sorunsali--6373979?a=popular
-https://blogs.nasa.gov/stationreport/2020/02/18/iss-daily-summary-report-2182020/ 
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
-https://www.uludagsozluk.com/k/2023-de-t%C3%BCrkiye-nin-d%C3%BCnyaya-h%C3%BCkmedecek-olmas%C4%B1/
-https://www.uludagsozluk.com/k/2040-y%C4%B1l%C4%B1nda-su-fak%C4%B1r%C4%B1-olaca%C4%9F%C4%B1m%C4%B1z-ger%C3%A7e%C4%9Fi/&w=bg
-https://www.sabah.com.tr/yasam/2020/02/19/son-dakika-turkiye-bugun-atakan-kayalari-konustu-filozof-atakan-ve-annesi-bakin-neler-soyledi
--->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
-
 
 
 [![Image](waste/Screenshot_2020-02-18_08-26-05.png)]( https://www.youtube.com/watch?v=FFkBaGqXLig )
