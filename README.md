@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz parlak götlü oğlanların adamı haste edttiği gerçeği
 https://www.uludagsozluk.com/k/nerde-lan-senin-anan/ bkz anası yokken oğlan sikmek
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-balon-futbolcusu/&w=bg
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-bir-%C3%A7ocu%C4%9Fu-lin%C3%A7-etmek/ bkz parlak götlü oğlanlar
