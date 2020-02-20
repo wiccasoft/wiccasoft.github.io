@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz filozof atakanın götünüz yiyosa benim mekanda balon diyin demesi
 bkz filozof atakanın fatih tezcana  verdiği ayar
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ 
 bkz filozof atakanı çekemeyen ekşiciler
