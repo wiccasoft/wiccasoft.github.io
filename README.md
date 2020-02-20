@@ -4,6 +4,7 @@
 bkz atakan vs atacücü
 bkz çocuklar duymasın havuç vs atakan
 bkz gerekirse naparsınız anlamadım sesiniz gelmiyo 
+https://www.uludagsozluk.com/k/fatma-%C5%9Fahin-in-antarktika-gezisi/&w=bg bkz komurgasız kara fatma tatilde
 bkz şaka maka receğ tayyiğ erdoğan kyk borçlarını sildim dese naparsın sorunsalı
 bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
 bkz şaka maka atacüc atla idlibe gidiyosun dese gidermiydin sorunsalı
