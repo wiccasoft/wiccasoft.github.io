@@ -3,7 +3,6 @@
 
 <!--
 https://www.uludagsozluk.com/k/general-electric/&w=bg lol
-bkz atakan 10 yaşında arkadaşlarını köpek gibi kullanıyor
 bkz atakan 10 yaşında arkadaşları on piç işi biliyon diyor
 bkz atakanın chpli türkçüyüm açıklaması
 https://www.uludagsozluk.com/k/500-tane-%C3%A7omar%C4%B1n-1-atakan-a-e%C5%9Fit-olmas%C4%B1/ 
