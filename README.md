@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz twitterdaki oğlancılar
 bkz bomba olurum küstürürüm kaderine
 https://www.uludagsozluk.com/k/bomba-seslerini-oyun-olarak-%C3%B6%C4%9Freten-suriyeli-baba/ 
 bkz küçük fıratın felesefe tartışalaım mı demesi
