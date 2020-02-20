@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://www.uludagsozluk.com/k/kad%C4%B1n-tokatlamayan-erke%C4%9Fin-adaml%C4%B1ktan-bahsetmesi/&w=bg bkz atakan
 https://www.uludagsozluk.com/e/42883731/ tıklağ kankağ mobile.twitter linki attım
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik 
 bkz home alone daki çocuğun sonu
