@@ -2,8 +2,9 @@
 
 <!--
 bkz atakan vs atacücü
+bkz şaka maka denize atacücü mü düşse kurtarırdın arakan mı
 bkz şaka maka atakan sağcı mı solcu mu sorunsalı
-bkz şaka maka atacücü kamalcımı komünükmüydü sorunsslı
+bkz şaka maka atacücü kamalcımı komünükmüydü sorunsalı
 bkz ya cihatçı şii terörikler ya şehirler inerse sorunsalı
 https://www.uludagsozluk.com/k/ha%C5%9Fince-sikilmek-istemek/ olur öyle takma kafana
 bkz şaka maka madafaka filozof atakanın çok yakışıklı olduğu gerçeği
