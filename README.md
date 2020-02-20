@@ -4,6 +4,7 @@
 bkz platonun hoplattığı ergenler
 bkz osman kavalanın ergene kondum demesi
 bkz küçük filozofun kulağına aristotales diyip kaçmak
+https://www.uludagsozluk.com/k/aleyna-tilki-nin-atakan-%C4%B1n-ya%C5%9F%C4%B1nda-ila%C3%A7-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd 
 bkz atakanın münir özkula benzemesi
 bkz felsefe yapan oğlan seksiliği
