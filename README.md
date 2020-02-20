@@ -2,6 +2,7 @@
 
 <!--
 bkz baba adının osman olmasının verdiği raadlık
+bkz imamaoğlanın babasının oğlanı yollim çift kale maç yapın az demesi
 https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/ bkz ben
 bkz 1978 doğumlu olmanan verdiği raadlık
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg
