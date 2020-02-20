@@ -1,8 +1,9 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/aleyna-tilki-nin-atakan-%C4%B1n-ya%C5%9F%C4%B1nda-ila%C3%A7-yapmas%C4%B1/
 bkz bi twitter oğlan videosu atın da şenlenek
-bkz twitterdaki kamalıst oğlancılar
+bkz twitterdaki oğlancılar
 bkz bomba olurum küstürürüm kaderine
 https://www.uludagsozluk.com/k/bomba-seslerini-oyun-olarak-%C3%B6%C4%9Freten-suriyeli-baba/ 
 bkz küçük fıratın felesefe tartışalaım mı demesi
