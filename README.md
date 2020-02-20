@@ -4,7 +4,7 @@
 bkz parlak götlü oğlanların çekciliği
 bkz felsefe bahane oğlan şahane
 bkz filozof atakanın kaymak gibi götü olduğu gerçeği
-bkz oğlanları hareme kapayıp kaymak gibi götlerini demlendirmek
+bkz kaymak gibi bi oda dolusu oğlanın yumuşak götleriyle felsefe yapması
 bkz osmanlı çoCuKlarının daha bi seksi olmaSI
 https://www.uludagsozluk.com/k/%C5%9Fehzade-o%C4%9Fuzhan/ bkz seksi oğlanlar
 bkz osmanlı çocuğunun dudağını büküp seksi hareketler yapması
