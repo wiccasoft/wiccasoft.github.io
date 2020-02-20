@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz arakan kayalar vs okan bayalar
 bkz atakan kaylar vs atademirer
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-erkek-%C3%A7ocu%C4%9Funun-g%C3%B6z%C3%BCne-s%C3%BCrme-%C3%A7ekmek/
 bkz adm büyük vs alex de souza
