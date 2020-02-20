@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
-bkz atakan vs atacücü
+bkz atakan vs atacüc
 bkz atakanın bokunu çıkarması
 bkz filozof atakan vs filozof atacüc
 bkz çocuklar duymasın havuç vs atakan
