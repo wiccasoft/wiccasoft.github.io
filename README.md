@@ -3,55 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!--
-https://www.uludagsozluk.com/k/hayalinde-bir-kad%C4%B1n-yarat%C4%B1p-onu-seven-erkek/&w=bg bkz atakan kayalar
-bkz atakan kayaların aleyna tilki kim bakışı
-https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg bkz hayalinde kadın yaratıp onu seven erkek
-https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg etmiyorum amınsıçtığı
-bkz atakan kayalar vs ata demirer
-https://www.uludagsozluk.com/k/kalkmak-bilmeyen-misafir/&w=bg bkz atakan kayalar
-bkz cengiz han vs artakan kayalar
-bkz atakan kayaların kim bu cahil bakışı
-bkz atakan kayaların balzac bastırılmış anne ezikliği yaşamış bir ergen demesi
-bkz atakan kayaların çukur dizi izleyenler ağır maldır demesi
-bkz atakan kayaların nihilizm içi boş bir akım demesi
-bkz arakan kayalar vs okan bayalar
-bkz atakan kaylar vs atademirer
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-erkek-%C3%A7ocu%C4%9Funun-g%C3%B6z%C3%BCne-s%C3%BCrme-%C3%A7ekmek/
-bkz adm büyük vs alex de souza
-https://www.uludagsozluk.com/k/adem-b%C3%BCy%C3%BCk-vs-alex-de-souza/
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
-bkz alex de souza vs atakan kayalar
-bkz atakan kayalar vs atacücü
-bkz cengiz han vs hitler
-bkz küçük filozof atakan vs çocuklar duymasın havuç
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
-bkz hıncal uluç vs ahmet kural
-bkz atakan kayaların kemalisteri görünce akpli oldum demesi
-bkz ali ihsan yavuz atakan kayalar beznerliği
-bkz filozof olmayaı kolay sanan ergenler
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-abart%C4%B1lmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
-https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-tipini-g%C3%B6r%C3%BCnce-hissedilenler/
-bkz atakan kayaların aristotales vasat bi filozof demesi
-bkz atakan kayanın karamazov kardeşleri bitirmemem 10 dakikamı aldı demesi
-https://www.uludagsozluk.com/k/7-ya%C5%9F%C4%B1nda-500-kitap-okuyan-afakan/
-bkz atakan kayalar yavaş yavaş isminin marka olması
-bkz hadisenni atakanı o filozof türkiyeye çıkarması
-bkz atakanın reklam tekliflerine açığım demesi
-bkz kayalar burgerin atakana ıslak hamburger göndermesi
-bkz küçük filozof atakanın benim atam aristotales demesi
-bkz atakanın platonun mağara alegorisi eksik demesi
-bkz atakanın küçük pyensi 10 dakkada okudum demesi
-https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg
-https://www.uludagsozluk.com/k/atakan-kayalar/
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
-bkz atakanının kulağına aristotales diyip kaçmak
-https://www.uludagsozluk.com/k/5-ayda-250-kitap-okuyan-10-ya%C5%9F%C4%B1ndaki-velet/
-https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan-%C4%B1n-mehdi-olmas%C4%B1/
-https://www.uludagsozluk.com/k/atakan-a-bi%C5%9Fe-demeyin-l%C3%BCtfen-o-daha-%C3%A7ocuk/
--->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
