@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 
-<!-- https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular hehehe 
+<!--
+https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/
+https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular hehehe 
 https://eksisozluk.com/konusurken-gereksiz-detaya-bogan-insan--6374319?a=popular bkz atakan 
 -->
 
