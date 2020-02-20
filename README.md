@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/kalkmak-bilmeyen-misafir/&w=bg bkz atakan kayalar
 bkz cengiz han vs artakan kayalar
 bkz atakan kayaların kim bu cahil bakışı
 bkz atakan kayaların balzac bastırılmış anne ezikliği yaşamış bir ergen demesi
