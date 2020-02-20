@@ -2,16 +2,11 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz şaka maka atakanın çapkın çıkması
-bkz atakanlarda oynamay gidip taytı evinde unutan kız
-bkz atakanın amcaoğlunun atakanın oyuncaklarını çalması
-bkz atakaın annesine yaptığı saygısızlık
+bkz atakanın amcaoğlunun atakanın oyuncaklarını çalmas
 bzk atakanın babasının oğlanı yollim oynayın demesi
 bkz atakan 10 yaşında arkadaşları ona oç diyor
 bkz kitap okuyan aptal bi çocuğun olay olduğu malum ülke
-bkz yavşak ulucu ibnelerin atakanı kırk yıllık dostu sanması
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/&w=bg
-nkzx anneni sikeyim ayakan anneni
 -->
 
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
