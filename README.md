@@ -2,9 +2,9 @@
 
 <!--
 bkz atakan vs atacücü
+bkz şaka maka denize atacücü mü düşse kurtarırdın arakan mı
 bkz şaka maka mustafa cecele şii oldum dese napardın sorunsalı
 bkz şaka maka cihatçı şii terörrikler atakanı kaşırsa naparsın sorunsalı
-bkz şaka maka denize atacücü mü düşse kurtarırdın arakan mı
 bkz şaka maka atakan sağcı mı solcu mu sorunsalı
 bkz şaka maka atacücü kamalcımı komünükmüydü sorunsalı
 bkz ya cihatçı şii terörikler ya şehirler inerse sorunsalı
