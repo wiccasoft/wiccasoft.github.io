@@ -2,7 +2,7 @@
 
 
 <!--
-bkz atakanın chpli türkçüyüm açıklaması
+bkz atakanın yanlış adama bulaştınız muhafazakar akpli liberalim demesi
 https://www.uludagsozluk.com/k/general-electric/&w=bg lol
 bkz atakan 10 yaşında arkadaşları on piç işi biliyon diyor
 https://www.uludagsozluk.com/k/500-tane-%C3%A7omar%C4%B1n-1-atakan-a-e%C5%9Fit-olmas%C4%B1/ 
