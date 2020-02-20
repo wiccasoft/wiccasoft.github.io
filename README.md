@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz kamalcıların bulduğu twitter videolarındaki mallar
 bkz şaka maka atakanın annesinin taş gibi olması
 bkz filozof olmak isteyen çocuğun kulağına aristotales diyip kaçmak
 bkz enes baturun beni oynatmıyor beni de alsınlar aralarına demesi
