@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz hadisenni atakanı o filozof türkiyeye çıkarması
 bkz atakanın reklam tekliflerine açığım demesi
 bkz kayalar burgerin atakana ıslak hamburger göndermesi
 bkz küçük filozof atakanın benim atam aristotales demesi
