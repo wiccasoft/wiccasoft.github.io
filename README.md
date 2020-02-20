@@ -4,6 +4,7 @@
 bkz atakan vs atacücü
 bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
+bkz a sporun işte mustafa kapı bu da fenere girecek sapı manşeti terbiyesiziği
 bkz a sporunun atacücünün takımı fenere döşemesi
 bkz antartikada kutup tatili vs ibizda 3000 yüuro maaş
 bkz gerekirse naparsınız anlamadım sesiniz gelmiyo 
