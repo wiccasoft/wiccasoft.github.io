@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
-bkz ens baturun beni oynatmıyor beni de alsınlar aralarına demesi
+bkz enes baturun beni oynatmıyor beni de alsınlar aralarına demesi
 bkz imamaoğlanın babasının oğlanı yollim tek kale maç yapın demesi
 bkz burak erdoğanın oğlancılık eyidir eyi devam edin demesi
 bkz bilalin biz de küçükken oğlancıydık demesi
