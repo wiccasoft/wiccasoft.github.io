@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/adam-gibi-adam-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg 
+https://www.uludagsozluk.com/k/millet-k%C3%BCt%C3%BCphanesinde-sevi%C5%9Fmek/
 bkz atakanın münir özkula benzemesi
 https://galeri.uludagsozluk.com/r/aleyna-tilki-nin-atakan-%C4%B1n-ya%C5%9F%C4%B1nda-ila%C3%A7-yapmas%C4%B1-1980890/
 bkz ilaç yapacağı yere felsefe yapan atakan
