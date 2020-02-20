@@ -3,6 +3,7 @@
 
 <!--
 bkz aleyna abla yanımda selamı var
+bkz atakan kayaların nihilizm boş işler demesi
 bkz ataskan kayaların kitap okumaktan kaya kafa oldum demesi
 bkz atakan kayaların planton eflatun a bi bok öğretmedi demesi
 https://www.uludagsozluk.com/k/atakan-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-ba%C5%9Fl%C4%B1klar/ bkz şaka maka sorunsalı
