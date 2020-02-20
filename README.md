@@ -4,7 +4,6 @@
 bkz atakan vs atacücü
 bkz çocuklar duymasın havuç vs atakan
 bkz gerekirse naparsınız anlamadım sesiniz gelmiyo 
-https://www.uludagsozluk.com/k/gerekirse-5-bin-%C3%BClk%C3%BCc%C3%BC-ile-leningrad-%C4%B1-ku%C5%9Fat%C4%B1r%C4%B1z/&w=bg
 bkz şaka maka receğ tayyiğ erdoğan kyk borçlarını sildim dese naparsın sorunsalı
 bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
 bkz şaka maka atacüc atla idlibe gidiyosun dese gidermiydin sorunsalı
