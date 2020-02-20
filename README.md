@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz filozof atakanı çekemeyen ekşiciler
 bkz beşer esadın doğu gutaya asker yığması
 bkz filozof erkek çekiciliği
 bkz filozof atakanın çok seksi olduğu gerçeği
