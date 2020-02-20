@@ -2,6 +2,7 @@
 
 <!--
 bkz atakanın paylaştığı aleyna abla pozu
+bkz 10 yaşındaki afacan atakan götü
 bbkz şaka maka atakanın sosyaml medya milyarderi olacağı gerçeği
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg bkz sosyalm medyadan milyonlar kazanan çocuk
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular bkz şaka maka kayarım ben buna
