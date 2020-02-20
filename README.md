@@ -4,6 +4,7 @@
 <!--
 https://www.uludagsozluk.com/k/osman-kavala/&w=gd
 https://www.uludagsozluk.com/k/berat-albayrak/&w=bg
+https://www.uludagsozluk.com/k/istanbulun-fethi-kenan-komutan/ lol
 https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular hehehe 
 https://eksisozluk.com/konusurken-gereksiz-detaya-bogan-insan--6374319?a=popular bkz atakan 
