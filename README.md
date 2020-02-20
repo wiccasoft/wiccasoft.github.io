@@ -5,7 +5,7 @@ bkz atakan vs atacüc
 bkz şaka maka iyi pr kastık brolar eywolle
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywolle genşler eksik olmayın
 http://incisozluk.com.tr/w/arkadaslar-incici-vs-ek%C5%9Fici-yapd%C4%B1m/
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd sonra okuyacam genşler heyecan yapmayın
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd ne gerenk vardı title a atakan diyin genşler
 https://www.uludagsozluk.com/k/gerekirse-5-bin-%C3%BClk%C3%BCc%C3%BC-ile-leningrad-%C4%B1-ku%C5%9Fat%C4%B1r%C4%B1z/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ eywallah brolar
 bkz atakanın ikinci bir platon olmaya niyetim yok demesi
