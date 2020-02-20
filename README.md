@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacüc
+https://www.uludagsozluk.com/k/gerekirse-5-bin-%C3%BClk%C3%BCc%C3%BC-ile-leningrad-%C4%B1-ku%C5%9Fat%C4%B1r%C4%B1z/&w=bg
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ eywallah brolar
 bkz atakanın ikinci bir platon olmaya niyetim yok demesi
 bkz atakanın felsefenin bokunu çıkarması
