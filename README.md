@@ -3,7 +3,7 @@
 <!--
 bkz atakan vs atacüc
 bkz atakanın felsefenin bokunu çıkarması
-bkz mobile.twitter atakan video
+bkz mobile.twitter atakan video tıklağ
 ayrıca bakınız From Latin philosophia, from Ancient Greek φιλοσοφία (philosophía), from φίλος (phílos, “beloved”) + σοφία (sophía, “wisdom”).
 bkz filozof atakan vs filozof atacüc
 bkz çocuklar duymasın havuç vs atakan
