@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz hıncal uluç vs ahmet kural
 bkz atakan kayaların kemalisteri görünce akpli oldum demesi
 bkz ali ihsan yavuz atakan kayalar beznerliği
 bkz filozof olmayaı kolay sanan ergenler
