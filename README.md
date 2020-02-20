@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
+https://www.uludagsozluk.com/k/millet-k%C3%BCt%C3%BCphanesinde-sevi%C5%9Fmek/
 https://www.uludagsozluk.com/k/adam-gibi-adam-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg 
 https://www.uludagsozluk.com/k/millet-k%C3%BCt%C3%BCphanesinde-sevi%C5%9Fmek/
 bkz atakanın münir özkula benzemesi
