@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular hehehe 
 https://eksisozluk.com/konusurken-gereksiz-detaya-bogan-insan--6374319?a=popular bkz atakan 
+https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/
 -->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
