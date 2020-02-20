@@ -6,6 +6,7 @@ bkz osmanlı çocuğuyum diyen çocuğu kıcakta okşarken malafatın kalkması
 bkz atakanın götünün parmaklarken kulağına felsefi sözler söylemek
 bkz osmanlı çocuklarının parlak götlü oldukları iddası
 bkz atakanı kütphanaede köşeye sıkıştırıp çatır çatır sikmek
+https://www.uludagsozluk.com/k/kad%C4%B1n%C4%B1n-yatakta-erke%C4%9Fi-heyecanland%C4%B1ramamas%C4%B1/
 https://www.uludagsozluk.com/k/atakan-ismindeki-karde%C5%9Fi-bir-tokatla-yere-sermek/
 https://www.uludagsozluk.com/k/t%C3%BCrk-hackerin-mehmet-ayd%C4%B1n-%C4%B1n-kald%C4%B1%C4%9F%C4%B1-yeri-bulmas%C4%B1/
 https://www.uludagsozluk.com/k/nerde-lan-senin-anan/ bkz anası yokken oğlan sikmek
