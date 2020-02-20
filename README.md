@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg
+https://www.uludagsozluk.com/k/yapars%C4%B1n-a%C5%9Fk%C4%B1m/&w=bg
 https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/
 https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/
 https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/&w=gd
