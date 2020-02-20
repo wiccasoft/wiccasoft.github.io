@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+bkz hulusi akarın atakan kayalar fuzuli işlerle uğraşıyo demesi
 bkz aleyna abla yanımda selamı var
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywallah brolar okumadım ama iyi şeyler yazıyosunuzdur
 https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg eywallah brolar irtibatı koparmayalım
