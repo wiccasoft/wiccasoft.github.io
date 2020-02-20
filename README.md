@@ -2,17 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
-bkz ulucu ibnelerin atakan la kırk yıllık dost gibi olması
-bkz atakna kayaların meme emerkenki fotosu
-bkz atakna kayarlın annem sütten kesti demesi
-bkz atakan kayların babası mahmut kayaların reklam tekliflerini açığız demesi
-bkz atakan kayaların annei nuriye kayarlın biraz mal olması
-bkz atakan kayarlın reklam tekliflerin açığım demesi
-bkz atakan kayarlın platon oğlancıydı demesi
-bkz atakan kayaların yeni video atması
-bkz atakan kayaların 2010 doğumluyum ama süperim demesi
-bkz atakan kayaların annemi sikebilirsiniz demesi
-bkz atakan kayaların annem taş gibidir ayarlim size demesi
+bkz yavşak ulucu ibnelerin atakan la kırk yıllık dost gibi olması
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/&w=bg
 -->
 
