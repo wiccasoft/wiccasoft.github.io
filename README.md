@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz atakan kayaların aristotale vasat bi filosof demesi
 bkz dünyanın en hızlı laf sokan adamı vs atakan kayalar
 bkz atakan kayanın karamazov kardeşleri bitirmemem 10 dakikamı aldı demesi
 bkz atakan kayaların şeker bportakalın 3 sn de okudum demesi
