@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-tipini-g%C3%B6r%C3%BCnce-hissedilenler/
 bkz atakan kayaların aristotales vasat bi filozof demesi
 bkz atakan kayanın karamazov kardeşleri bitirmemem 10 dakikamı aldı demesi
 https://www.uludagsozluk.com/k/7-ya%C5%9F%C4%B1nda-500-kitap-okuyan-afakan/
