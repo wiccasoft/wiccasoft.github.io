@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz imamaoğlanın babasının oğlanı yollim tek kale maç yapın demesi
 bkz burak erdoğanın oğlancılık eyidir eyi devam edin demesi
 bkz bilalin biz de küçükken oğlancıydık demesi
 https://www.uludagsozluk.com/k/temel-karamollao%C4%9Flu-nun-mad%C4%B1mak-a%C3%A7%C4%B1klamas%C4%B1/&w=bg
