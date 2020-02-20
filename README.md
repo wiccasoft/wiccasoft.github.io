@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz atakan kayalar vs atacücü
 bkz cengiz han vs hitler
 bkz küçük filozof atakan vs çocuklar duymasın havuç
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
