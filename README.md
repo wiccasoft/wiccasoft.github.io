@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
+bkz atakna kayaların meme emerkenki fotosu
 bkz atakna kayarlın annem sütten kesti demesi
 bkz atakan kayların babası mahmut kayaların reklam tekliflerini açığız demesi
 bkz atakan kayaların annei nuriye kayarlın biraz mal olması
