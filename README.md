@@ -3,7 +3,7 @@
 <!-- 
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik 
 bkz home alone daki çocuğun sonu
-bkz küçük filozof atakan vs inciciler
+bkz küçük filozof atakanın kafa siktiği gerçeği 
 bkz amın oğlu atakan kayalar
 bkz atakanın büyüyünce mersinli cihangir olacağı gerçeği
 bkz kamalcıların bulduğu twitter videolarındaki malların güldürmesi
