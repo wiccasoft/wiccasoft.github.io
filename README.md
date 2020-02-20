@@ -2,6 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
+bkz ilkokul çıkışı parlak bi oğlan bulup felsefi muhabbete girmek
 bkz fındık götlü oğlanların ok attığı iddası
 bkz atakanın köşeye sıkıştırıp göt deliğini yalamak
 bkz ok atana osmanlı çocuğunun göt kaslarının titrmesi
