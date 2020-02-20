@@ -2,6 +2,7 @@
 
 <!--
 bkz türkiyedeki oğlancılık üzerine tez yazmak
+https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/cuckold/&w=bg bkz kukusu yaşlanmış erkek
 https://www.uludagsozluk.com/e/42885408/ bkz pedofili nedir
 https://www.uludagsozluk.com/k/%C3%A7ocuklara-tasallut-olan-ek%C5%9Fi-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/ bkz pedofili
