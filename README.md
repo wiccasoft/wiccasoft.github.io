@@ -3,6 +3,7 @@
 <!-- 
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik 
 bkz home alone daki çocuğun sonu
+bkz amın oğlu atakan kayalar
 bkz atakanın büyüyünce mersinli cihangir olacağı gerçeği
 bkz kamalcıların bulduğu twitter videolarındaki malların güldürmesi
 bkz şaka maka atakanın annesinin taş gibi olması
