@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz atakanın reklam tekliflerine açığım demesi
+bkz kayalar burgerin atakana ıslak hamburger göndermesi
 bkz küçük filozof atakanın benim atam aristotales demesi
 bkz atakanın platonun mağara alegorisi eksik demesi
 bkz atakanın küçük pyensi 10 dakkada okudum demesi
