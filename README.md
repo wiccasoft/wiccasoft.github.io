@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
+bkz şaka maka atakan solcu mu sağcı mı sorunsalı
 bkz şaka maka atakan domal sikecem dese napardın sorunsalı
 bkz şaka maka denize atacücü mü düşse kurtarırdın arakan mı
 bkz şaka maka mustafa cecele şii oldum dese napardın sorunsalı
