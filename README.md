@@ -2,7 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
-bkz şaka maka mustafa cecele mustafa camalın izindeyim dese napardın sorunsalı
+bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
 bkz şaka maka atacüc atla idlibe gidiyosun dese gidermiydin sorunsalı
 bkz şaka maka atakan solcu mu sağcı mı sorunsalı
 bkz şaka maka atakan domal sikecem dese napardın sorunsalı
