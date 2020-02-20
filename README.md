@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/hayalinde-bir-kad%C4%B1n-yarat%C4%B1p-onu-seven-erkek/&w=bg bkz atakan kayalar
 bkz atakan kayaların aleyna tilki kim bakışı
 https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg bkz hayalinde kadın yaratıp onu seven erkek
 https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg etmiyorum amınsıçtığı
