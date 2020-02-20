@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
-bkz iaka maka atkana hiç bir videosuna tıklamamış olmam
+bkz iaka maka atakanın hiç bir videosuna tıklamamış olmam
 bkz kamalcıların bulduğu twitter videolarındaki mallar
 bkz şaka maka atakanın annesinin taş gibi olması
 bkz filozof olmak isteyen çocuğun kulağına aristotales diyip kaçmak
