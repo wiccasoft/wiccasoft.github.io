@@ -3,17 +3,9 @@
 <!--
 bkz atakan vs atacücü
 bkz filozof atakan vs filozof atacüc
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
 bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
 bkz antartikayı tatil mekanı sanan kamalcı
-bkz antartikadaki buzullarda tatil keyfi
-bkz fatma şahinin antartikada giydiği bikini
-https://www.uludagsozluk.com/k/fatma-%C5%9Fahin-in-antarktika-gezisi/&w=bg 
-bkz a sporun işte mustafa kapı bu da fenere girecek sapı manşeti terbiyesiziği
-bkz a sporunun atacücünün takımı fenere döşemesi
-bkz antartikada kutup tatili vs ibizda 3000 yüuro maaş
-bkz gerekirse naparsınız anlamadım sesiniz gelmiyo 
 bkz şaka maka receğ tayyiğ erdoğan kyk borçlarını sildim dese naparsın sorunsalı
 bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
 bkz şaka maka atacüc atla idlibe gidiyosun dese gidermiydin sorunsalı
