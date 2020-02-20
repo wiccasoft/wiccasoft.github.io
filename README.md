@@ -1,11 +1,11 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
-bkz parlak götlü oğlanların çekciliği
 bkz felsefe bahane oğlan şahane
 bkz filozof atakanın kaymak gibi götü olduğu gerçeği
 bkz kaymak gibi bi oda dolusu oğlanın yumuşak götleriyle felsefe yapması
 bkz osmanlı çoCuKlarının daha bi seksi olmaSI
+bkz parlak götlü oğlanların çekciliği
 https://www.uludagsozluk.com/k/%C5%9Fehzade-o%C4%9Fuzhan/ bkz seksi oğlanlar
 bkz osmanlı çocuğunun dudağını büküp seksi hareketler yapması
 bkz hoşlanılan oğlanın dudağını büküp felsefe yapacam demesi
