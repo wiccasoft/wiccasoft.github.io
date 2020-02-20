@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
+bkz cigat.ı şii terörikler ya şehirler inerse sorunsalı
 bkz şaka maka atakan sağcı mı solcu mu sorunsalı
 bkz şaka maka atacücü kamalcımı komünükmüydü sorunsslı
 https://www.uludagsozluk.com/k/ha%C5%9Fince-sikilmek-istemek/ olur öyle takma kafana
