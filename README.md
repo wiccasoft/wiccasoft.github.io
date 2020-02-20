@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!-- https://www.uludagsozluk.com/k/atakan-a-bi%C5%9Fe-demeyin-l%C3%BCtfen-o-daha-%C3%A7ocuk/ -->
+<!-- 
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan-%C4%B1n-mehdi-olmas%C4%B1/
+https://www.uludagsozluk.com/k/atakan-a-bi%C5%9Fe-demeyin-l%C3%BCtfen-o-daha-%C3%A7ocuk/
+-->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
