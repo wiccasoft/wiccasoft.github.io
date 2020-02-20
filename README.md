@@ -2,6 +2,7 @@
 
 <!--
 bkz filozof oğlan okullarında dönen sikiş
+bkz felsefe bahane oğlanlar şahane
 bkz platonun filozofluk okulunda kaydığı oğlanlar
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg küçük müçük kayarım ben buna
 bkz 41 yaşındaki adam 10 yaşındaki oğlan ilişkisi
