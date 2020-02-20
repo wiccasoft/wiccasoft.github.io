@@ -2,9 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bk atakna o konuda ben de kırgınım
-bkz atakanın amcaoğlunun atakanın oyuncaklarını çalmas
-bzk atakanın babasının oğlanı yollim oynayın demesi
+bkz atakana o konuda ben de kırgınım
 bkz atakan 10 yaşında arkadaşları ona oç diyor
 bkz kitap okuyan aptal bi çocuğun olay olduğu malum ülke
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/&w=bg
