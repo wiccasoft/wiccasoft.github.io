@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
 https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-tipini-g%C3%B6r%C3%BCnce-hissedilenler/
 bkz atakan kayaların aristotales vasat bi filozof demesi
 bkz atakan kayanın karamazov kardeşleri bitirmemem 10 dakikamı aldı demesi
