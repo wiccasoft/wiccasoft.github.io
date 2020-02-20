@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacüc
+bkz atakanın ikinci bir platon olmaya niyetim yok demesi
 bkz atakanın felsefenin bokunu çıkarması
 bkz atakanın ismimle değil fikirlerimle anılmas isitorum açıklaması
 bkz atakanın platonun idelar evrenini açması
