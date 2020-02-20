@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
-blz şaka maka küçüf filozofun azdırması
+bkz fındık götlü filozof oğlan götü
+https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ bkz kaldırdı yine
+blz şaka maka küçük filozofun azdırması
 https://www.uludagsozluk.com/k/atakan-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
 bkz küçük filozof atakana ufaklığı gösterip anlat şimdi demek
 bkz felsefe bahane oğlanlar şahane
