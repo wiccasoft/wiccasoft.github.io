@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://tr.wikipedia.org/wiki/Teknolojik_tekillik 
 bkz kamalcıların bulduğu twitter videolarındaki malların güldürmesi
 bkz şaka maka atakanın annesinin taş gibi olması
 bkz filozof olmak isteyen çocuğun kulağına aristotales diyip kaçmak
