@@ -2,6 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
+bkz filozof atakanın kaymak gibi götü olduğu gerçeği
 bkz oğlanları hareme kapayıp kaymak gibi götlerini demlendirmek
 bkz osmanlı çoCuKlarının daha bi seksi olmaSI
 https://www.uludagsozluk.com/k/%C5%9Fehzade-o%C4%9Fuzhan/ bkz seksi oğlanlar
