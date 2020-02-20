@@ -4,6 +4,7 @@
 bkz parlak götlü oğlanların çekciliği
 bkz fındık götlü oğlanların ok attığı iddası
 bkz atakanın köşeye sıkıştırıp göt deliğini yalamak
+bkz ok atana osmanlı çocuğunun göt kaslarının titrmesi
 bkz osmanlı çocuğuyum diyen çocuğu kıcakta okşarken malafatın kalkması
 bkz atakanın götünün parmaklarken kulağına felsefi sözler söylemek
 bkz osmanlı çocuklarının parlak götlü oldukları iddası
