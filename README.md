@@ -2,6 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların adamı haste edttiği gerçeği
+https://www.uludagsozluk.com/k/atakan-ismindeki-karde%C5%9Fi-bir-tokatla-yere-sermek/
 https://www.uludagsozluk.com/k/t%C3%BCrk-hackerin-mehmet-ayd%C4%B1n-%C4%B1n-kald%C4%B1%C4%9F%C4%B1-yeri-bulmas%C4%B1/
 https://www.uludagsozluk.com/k/nerde-lan-senin-anan/ bkz anası yokken oğlan sikmek
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-gelmi%C5%9F-ge%C3%A7mi%C5%9F-en-balon-futbolcusu/&w=bg
