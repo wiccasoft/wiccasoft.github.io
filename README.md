@@ -1,66 +1,6 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!--
-bkz platonun hoplattığı ergenler
-bkz osman kavalanın ergene kondum demesi
-bkz küçük filozofun kulağına aristotales diyip kaçmak
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-atakan-%C4%B1n-ya%C5%9F%C4%B1nda-ila%C3%A7-yapmas%C4%B1/
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd 
-bkz atakanın münir özkula benzemesi
-bkz felsefe yapan oğlan seksiliği
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
-https://www.uludagsozluk.com/k/millet-k%C3%BCt%C3%BCphanesinde-sevi%C5%9Fmek/
-https://www.uludagsozluk.com/k/adam-gibi-adam-deyince-ilk-akla-gelen-ki%C5%9Fi/&w=bg 
-https://www.uludagsozluk.com/k/millet-k%C3%BCt%C3%BCphanesinde-sevi%C5%9Fmek/
-https://galeri.uludagsozluk.com/r/aleyna-tilki-nin-atakan-%C4%B1n-ya%C5%9F%C4%B1nda-ila%C3%A7-yapmas%C4%B1-1980890/
-bkz ilaç yapacağı yere felsefe yapan atakan
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-atakan-%C4%B1n-ya%C5%9F%C4%B1nda-ila%C3%A7-yapmas%C4%B1/
-bkz bi twitter oğlan videosu atın da şenlenek
-bkz twitterdaki oğlancılar
-bkz bomba olurum küstürürüm kaderine
-https://www.uludagsozluk.com/k/bomba-seslerini-oyun-olarak-%C3%B6%C4%9Freten-suriyeli-baba/ 
-bkz küçük fıratın felesefe tartışalaım mı demesi
-https://www.uludagsozluk.com/k/f%C4%B1rat-%C3%A7ak%C4%B1ro%C4%9Flu-nun-ilber-ortayl%C4%B1-ya-sordu%C4%9Fu-soru/
-bkz küçük filozof atakanın sanki biraz şey olması
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd bkz küçük ibne
-bkz küçük filozofun azdırması
-bkz platanonun büyük iskenderi küçüklükten filozof yetiştirmesi
-bkz filozof çocukların sanki biraz şey olması
-https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz zeki mürenin çocukken ben deç ok filozoftum demesi
-bkz aleyna tilkinin çocukları filozofluğa alet etmeyin demesi
-https://www.uludagsozluk.com/k/aleyna-tilki-nin-atakan-ruh-e%C5%9Fim-gibisin-tweeti/
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=gd
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/iki-filozof-say%C4%B1nca-kendini-alim-sanan-pi%C3%A7-kurusu/
-bkz küçük filozof atakan ı kucağa alıp felsefe çalıştırmak
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz verse sikmezmisin kankağ
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd
-bkz küçük filozof atakanın yine kaldırması
-bkz fındık götlü filozof oğlan götü
-bkz filozof oğlanların daha bi parlak götlü olması
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ bkz kaldırdı yine
-blz şaka maka küçük filozofun azdırması
-https://www.uludagsozluk.com/k/atakan-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
-bkz küçük filozof atakana ufaklığı gösterip anlat şimdi demek
-bkz felsefe bahane oğlanlar şahane
-bkz platonun filozofluk okulunda kaydığı oğlanlar
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg küçük müçük kayarım ben buna
-bkz 10 yaşındaki oğlan götünün dayanılmaz çekiciliği 
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg 
-bkz atakanın videolarına toplu 31 çekmek
-https://www.uludagsozluk.com/k/toplu-halde-%C3%A7ekilen-31-den-sonra-da%C4%9F%C4%B1lmak/&w=bg
-bkz şaka maka atkanın kucağa alıp kulağını ısırıp felsefe konuşmak
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg bkz 10 yaşındaki çıtır
-bkz kerimcan durmazın atakana biraz süre verin şöhreti kaldıramadı çocuk demesi
-bkz atakanın sosyal medya hesabından yaptığı kamuoyu açıklaması
-bkz sosyal medya fenomeni atakanın instagram da soyunmak istemiyorum artık demesi
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg
-bkz sosyal medya fenonemi atakanın götümle değil fikirlerim gündemde kalmak istyiorun demesi
-bkz aleyna tilkinin çocukları şekş obşeşi yapmayın demesi
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd 
-bkz atakanın yayını kesip snapchati kapaması
--->
+
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
 
