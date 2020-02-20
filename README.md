@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
-bkz sosyal medya fenomeni atakanın instagram da soyunmak istemiyoru martık demesi
+bkz atakanın sosyal medya hesabından yaptığı kamuoyu açıklaması
+bkz sosyal medya fenomeni atakanın instagram da soyunmak istemiyorum artık demesi
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg
 bkz sosyal medya fenonemi atakanın götümle değil fikirlerim gündemde kalmak istyiorun demesi
 bkz aleyna tilkinin çocukları şekş obşeşi yapmayın demesi
