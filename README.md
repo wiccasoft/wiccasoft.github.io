@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gib
 https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/&w=gd
 https://eksisozluk.com/palali-saldirganin-ebru-polatla-sevgili-olmasi--6374134?a=popular 
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-adam/&w=bg
+https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-orospuluk-anamdad%C4%B1r/&w=bg
 -->
 
 
