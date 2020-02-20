@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
+bkz atakan kayaların annei nuriye kayarlın biraz mal olması
 bkz atakan kayarlın reklam tekliflerin açığım demesi
 bkz atakan kayarlın platon oğlancıydı demesi
 bkz atakan kayaların yeni video atması
