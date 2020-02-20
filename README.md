@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-vs-hakan-%C5%9F%C3%BCk%C3%BCr/
 bkz şaka maka ciddi ciddi selonun kamalcı olduğuna inanmak
 https://www.uludagsozluk.com/k/ciddi-ciddi-selonun-pkk-l%C4%B1-olmad%C4%B1%C4%9F%C4%B1na-inanan-g%C3%BCruh/
 bkz atakan kayalar münir özkul benzerliği
