@@ -1,33 +1,5 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!-- 
-bkz osman kavalanın atakanın babasına kavat demesi
-https://www.uludagsozluk.com/k/kad%C4%B1n-tokatlamayan-erke%C4%9Fin-adaml%C4%B1ktan-bahsetmesi/&w=bg bkz atakan
-https://www.uludagsozluk.com/e/42883731/ tıklağ kankağ mobile.twitter linki attım
-https://tr.wikipedia.org/wiki/Teknolojik_tekillik 
-bkz home alone daki çocuğun sonu
-bkz küçük filozof atakanın kafa siktiği gerçeği 
-bkz amın oğlu atakan kayalar
-bkz atakanın büyüyünce mersinli cihangir olacağı gerçeği
-bkz kamalcıların bulduğu twitter videolarındaki malların güldürmesi
-bkz şaka maka atakanın annesinin taş gibi olması
-bkz filozof olmak isteyen çocuğun kulağına aristotales diyip kaçmak
-bkz enes baturun beni oynatmıyor beni de alsınlar aralarına demesi
-bkz imamaoğlanın babasının oğlanı yollim tek kale maç yapın demesi
-bkz burak erdoğanın oğlancılık eyidir eyi devam edin demesi
-bkz bilalin biz de küçükken oğlancıydık demesi
-https://www.uludagsozluk.com/k/temel-karamollao%C4%9Flu-nun-mad%C4%B1mak-a%C3%A7%C4%B1klamas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-vs-hakan-%C5%9F%C3%BCk%C3%BCr/
-bkz şaka maka ciddi ciddi selonun kamalcı olduğuna inanmak
-https://www.uludagsozluk.com/k/ciddi-ciddi-selonun-pkk-l%C4%B1-olmad%C4%B1%C4%9F%C4%B1na-inanan-g%C3%BCruh/
-bkz atakan kayalar münir özkul benzerliği
-https://www.uludagsozluk.com/k/atakan-kayalar/
-bkz eski yunanda oğlancı filozof okulları
-bkz platonunbüyük iskenderi küçükken filozof okulunda yetiştirmesi
-https://www.uludagsozluk.com/k/filozof-veledin-reptilian-tipli-olmas%C4%B1/
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
-https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/ -->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
