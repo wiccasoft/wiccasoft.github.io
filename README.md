@@ -2,6 +2,8 @@
 
 <!--
 bkz atakan vs atacücü
+bkz filozof atakan vs filozof atacüc
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg
 bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
 bkz antartikayı tatil mekanı sanan kamalcı
