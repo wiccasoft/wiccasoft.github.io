@@ -2,6 +2,7 @@
 
 <!--
 bkz fındık götlü filozof oğlan götü
+bkz filozof oğlanların daha bi parlak götlü olması
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ bkz kaldırdı yine
 blz şaka maka küçük filozofun azdırması
 https://www.uludagsozluk.com/k/atakan-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
