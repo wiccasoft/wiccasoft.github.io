@@ -3,6 +3,7 @@
 
 <!--
 bkz aleyna abla yanımda selamı var
+bkz aleyna tilkinin atakana yürümesi
 bkz aleyna tilkinin atakan üzerinden prim kasması
 https://www.uludagsozluk.com/k/atakan-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-ba%C5%9Fl%C4%B1klar/ bkz platon ibnemiydi sorunsalı
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywallah brolar okumadım ama iyi şeyler yazıyosunuzdur
