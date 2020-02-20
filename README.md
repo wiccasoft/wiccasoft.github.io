@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz atakan kayalardan size koca olur mu sorunsalı
 bkz atakan kayaların pipisi kalkıyor mu sorunsalı
 bkz atakan kayalar vesi eli kız eline değmemiş erkek
 bkz atakan kaylar vs atademirer
