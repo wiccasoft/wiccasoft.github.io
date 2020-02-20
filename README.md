@@ -3,6 +3,7 @@
 <!--
 bkz atakan vs atacücü
 bkz şaka maka atakan sağcı mı solcu mu sorunsalı
+bkz şaka maka atacücü kamalcımı komünükmüydü sorunsslı
 https://www.uludagsozluk.com/k/ha%C5%9Fince-sikilmek-istemek/ olur öyle takma kafana
 bkz şaka maka madafaka filozof atakanın çok yakışıklı olduğu gerçeği
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ üşüyoruz filozof reyis
