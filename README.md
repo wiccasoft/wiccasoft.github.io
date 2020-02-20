@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz beşer esadın doğu gutaya asker yığması
 bkz filozof erkek çekiciliği
 bkz filozof atakanın çok seksi olduğu gerçeği
 https://www.uludagsozluk.com/k/cimboma-koymaya-az-kald%C4%B1/&w=bg ağlama fener
