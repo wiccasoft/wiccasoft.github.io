@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz filozof olmayaı kolay sanan ergenler
+https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-abart%C4%B1lmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/
 https://www.uludagsozluk.com/k/ali-ihsan-yavuz-un-tipini-g%C3%B6r%C3%BCnce-hissedilenler/
 bkz atakan kayaların aristotales vasat bi filozof demesi
