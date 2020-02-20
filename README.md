@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
+bkz 3 saattir konuşuyoruz ataknadan bahsetmedik
 bkz atakaın annesine yaptığı saygısızlık
 bzk atakanın babasının oğlanı yollim oynayın demesi
 bkz atakan 10 yaşında arkadaşları ona oç diyor
