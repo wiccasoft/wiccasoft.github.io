@@ -1,17 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
-<!--
-bkz aleyna abla yanımda selamı var
-bkz aleyna tilkinin atakana yürümesi
-bkz aleyna tilkinin atakan üzerinden prim kasması
-https://www.uludagsozluk.com/k/atakan-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-ba%C5%9Fl%C4%B1klar/ bkz platon ibnemiydi sorunsalı
-https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywallah brolar okumadım ama iyi şeyler yazıyosunuzdur
-https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg eywallah brolar irtibatı koparmayalım
-https://www.pinterest.com/wiccasoft/pins/ bkz atakanın dünya düzdür teorisi
-https://www.pinterest.com/wiccasoft/pins/ bkz atakanın annesine çiçek alması
-https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/&w=bg
--->
 
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
