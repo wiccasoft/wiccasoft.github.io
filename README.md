@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!-- https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/ -->
+<!-- 
+https://www.uludagsozluk.com/k/atakan-kayalar/
+https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/ -->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
