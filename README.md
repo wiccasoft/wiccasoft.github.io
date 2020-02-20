@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz atkana kayaların aleyna tilki kim bakışı
 https://www.uludagsozluk.com/k/sabahattin-ali/&w=bg bkz hayalinde kadın yaratıp onu seven erkek
 https://www.uludagsozluk.com/k/zeljko-obradovic/&w=bg etmiyorum amınsıçtığı
 bkz atakan kayalar vs ata demirer
