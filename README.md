@@ -1,22 +1,5 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!--
-bkz osmanlı çocuklarının oç oldukları gerçeği
-bkz mobile.twitter video linki atan kamalcı zekası
-bkz fırat çakıroğlan vs deniz gezmişoğlan
-https://www.uludagsozluk.com/k/f%C4%B1rat-%C3%A7ak%C4%B1ro%C4%9Flu-na-%C5%9Fehit-demek/
-https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/ bkz oç
-https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg
-https://www.uludagsozluk.com/k/yapars%C4%B1n-a%C5%9Fk%C4%B1m/&w=bg
-https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/
-https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/
-https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/&w=gd
-https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/&w=gd
-https://eksisozluk.com/palali-saldirganin-ebru-polatla-sevgili-olmasi--6374134?a=popular 
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-adam/&w=bg
-https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-orospuluk-anamdad%C4%B1r/&w=bg
-bkz rte 1941 doğumlu anamın üstünde yakalanmayacağına göre problem yok
--->
 
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
