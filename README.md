@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacüc
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ eywallah brolar
 bkz atakanın ikinci bir platon olmaya niyetim yok demesi
 bkz atakanın felsefenin bokunu çıkarması
 bkz atakanın ismimle değil fikirlerimle anılmas isitorum açıklaması
