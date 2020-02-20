@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ocuklara-tasallut-olan-ek%C5%9Fi-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/ bkz pedofili
 bkz filozof atakanın götünüz yiyosa benim mekanda artistik yapın demesi
 bkz filozof atakanın fatih tezcana  verdiği ayar
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ 
