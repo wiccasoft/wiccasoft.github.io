@@ -3,7 +3,7 @@
 <!--
 bkz fırat çakıroğlan vs deniz gezmişoğlan
 https://www.uludagsozluk.com/k/f%C4%B1rat-%C3%A7ak%C4%B1ro%C4%9Flu-na-%C5%9Fehit-demek/
-https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/ bkz ben
+https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/ bkz oç
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg
 https://www.uludagsozluk.com/k/yapars%C4%B1n-a%C5%9Fk%C4%B1m/&w=bg
 https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/
