@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz atakan kayaların kim bu cahil bakışı
 bkz atakan kayaların balzac bastırılmış anne ezikliği yaşamış bir ergen demesi
 bkz atakan kayaların çukur dizi izleyenler ağır maldır demesi
 bkz atakan kayaların nihilizm içi boş bir akım demesi
