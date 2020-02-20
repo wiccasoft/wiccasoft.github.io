@@ -3,6 +3,7 @@
 <!--
 bkz atakan vs atacücü
 bkz çocuklar duymasın havuç vs atakan
+bkz atakanın antartika tatili
 bkz gerekirse naparsınız anlamadım sesiniz gelmiyo 
 bkz şaka maka receğ tayyiğ erdoğan kyk borçlarını sildim dese naparsın sorunsalı
 bkz şaka maka mustafa cecele mustafa camelın izindeyim dese napardın sorunsalı
