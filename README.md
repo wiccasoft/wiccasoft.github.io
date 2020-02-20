@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywallah brolar okumadım ama iyi şeyler yazıyosunuzdur
 https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg eywallah brolar irtibatı koparmayalım
 https://www.pinterest.com/wiccasoft/pins/ bkz atakanın dünya düzdür demesi
 https://www.pinterest.com/wiccasoft/pins/ bkz atakanın annesine çiçek alması
