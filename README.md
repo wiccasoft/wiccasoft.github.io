@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-adam/&w=bg
 https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/
 https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/&w=gd
 https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/&w=gd
