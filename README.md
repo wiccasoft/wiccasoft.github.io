@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
+bkz annenin amı atakan amın doğurduğu atakan
 bkz atakan 10 yaşında arkadaşları ona oç diyor
 bkz kitap okuyan aptal bi çocuğun olay olduğu malum ülke
 bkz yavşak ulucu ibnelerin atakanı kırk yıllık dostu sanması
