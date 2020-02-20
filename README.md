@@ -1,5 +1,10 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
+<!--
+https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/&w=gd
+https://eksisozluk.com/palali-saldirganin-ebru-polatla-sevgili-olmasi--6374134?a=popular 
+-->
+
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
