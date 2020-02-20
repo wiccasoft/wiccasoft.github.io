@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz aleyna abla yanımda selamı var
+bkz aleyna abla yanımda selamı varbkz atakan kayaların planton eflatun a bi bok öğretmedi demesi
 https://www.uludagsozluk.com/k/atakan-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-ba%C5%9Fl%C4%B1klar/ bkz şaka maka sorunsalı
 bkz beni atakan kayalar sanan malların güldürmesi
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-33-ya%C5%9F%C4%B1nda-bir-c%C3%BCce-olmas/ 41 yaşındayım 180 boyum var
