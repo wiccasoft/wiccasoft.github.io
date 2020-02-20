@@ -6,6 +6,7 @@ bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
 bkz antartikayı tatil mekanı sanan kamalcı
 bkz antartikadaki buzullarda tatil keyfi
+https://www.uludagsozluk.com/k/fatma-%C5%9Fahin-in-antarktika-gezisi/&w=bg bkz fatma şahimim antarikada kaldığı otel
 bkz a sporun işte mustafa kapı bu da fenere girecek sapı manşeti terbiyesiziği
 bkz a sporunun atacücünün takımı fenere döşemesi
 bkz antartikada kutup tatili vs ibizda 3000 yüuro maaş
