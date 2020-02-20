@@ -3,6 +3,7 @@
 
 <!--
 bkz aleyna abla yanımda selamı var
+bkz atakan kayaların küçük prensi okudum ibne gibin puşt gibi bişey demesi
 bkz atakan kayaların nihilizm boş işler demesi
 bkz ataskan kayaların kitap okumaktan kaya kafa oldum demesi
 bkz atakan kayaların planton eflatun a bi bok öğretmedi demesi
