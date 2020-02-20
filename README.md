@@ -2,7 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
-bkz fındık götlü oğlanlar varken kadın kovalamak
+bkz fındık götlü oğlanların ok attığı iddası
 bkz osmanlı çocuğuyum diyen çocuğu kıcakta okşarken malafatın kalkması
 bkz atakanın götünün parmaklarken kulağına felsefi sözler söylemek
 bkz osmanlı çocuklarının parlak götlü oldukları iddası
