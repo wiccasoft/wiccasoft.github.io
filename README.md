@@ -3,6 +3,7 @@
 <!-- 
 bkz atakan kayalar münir özkul benzerliği
 https://www.uludagsozluk.com/k/atakan-kayalar/
+bkz eski yunanda oğlancı filozof okulları
 bkz platonunbüyük iskenderi küçükken filozof okulunda yetiştirmesi
 https://www.uludagsozluk.com/k/filozof-veledin-reptilian-tipli-olmas%C4%B1/
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd
