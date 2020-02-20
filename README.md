@@ -9,6 +9,7 @@ https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/
 https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/
 https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular hehehe 
 https://eksisozluk.com/konusurken-gereksiz-detaya-bogan-insan--6374319?a=popular bkz atakan 
+https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
 https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/
 -->
 
