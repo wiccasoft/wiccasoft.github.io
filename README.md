@@ -1,28 +1,6 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 
-<!--
-bkz atakanın yanlış adama bulaştınız muhafazakar liberalim açıklaması
-https://www.uludagsozluk.com/k/general-electric/&w=bg lol
-bkz atakan 10 yaşında arkadaşları on piç işi biliyon diyor
-https://www.uludagsozluk.com/k/500-tane-%C3%A7omar%C4%B1n-1-atakan-a-e%C5%9Fit-olmas%C4%B1/ 
-https://www.uludagsozluk.com/k/modac%C4%B1lar%C4%B1n-%C3%A7o%C4%9Funun-top-olmas%C4%B1/&w=bg bkz barbaros şansal
-https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/ 
-https://www.uludagsozluk.com/k/berat-albayrak%C4%B1n-halkla-ta%C5%9Fak-ge%C3%A7mesi/ heheheheh
-https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-feda-edecek-gen%C3%A7lere-ihtiyac%C4%B1m%C4%B1z-var/
-https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/ 
-https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/
-https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/ serdar06 mı ölecekti
-https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-feda-edecek-gen%C3%A7lere-ihtiyac%C4%B1m%C4%B1z-var/ 
-https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/
-https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1nda-nihilizmi-bildi%C4%9Fini-iddia-eden-%C3%A7ocuk/ sen de bunu yedin
-https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/
-https://eksisozluk.com/10-yasindaki-atakanin-basin-toplantisi--6373978?a=popular hehehe 
-https://eksisozluk.com/konusurken-gereksiz-detaya-bogan-insan--6374319?a=popular bkz atakan 
-https://eksisozluk.com/10-yasinda-felsefe-muhabbeti-yapan-cocuk--6372385?a=popular
-https://www.uludagsozluk.com/k/engin-ard%C4%B1%C3%A7-%C4%B1n-chplilere-koyun-gibisiniz-demesi/
--->
-
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
 
