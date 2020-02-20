@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/ 
 bkz filozof atakanı çekemeyen ekşiciler
 bkz beşer esadın doğu gutaya asker yığması
 bkz filozof erkek çekiciliği
