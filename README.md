@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!--
+<!--,
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg küçük müçük kayarım ben buna
 bkz 41 yaşındaki adam 10 yaşındaki oğlan ilişkisi
 bkz 10 yaşındaki oğlan götünün dayanılmaz çekiciliği 
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg 
