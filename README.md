@@ -2,9 +2,9 @@
 
 
 <!--
+bkz atakanın chpli türkçüyüm açıklaması
 https://www.uludagsozluk.com/k/general-electric/&w=bg lol
 bkz atakan 10 yaşında arkadaşları on piç işi biliyon diyor
-bkz atakanın chpli türkçüyüm açıklaması
 https://www.uludagsozluk.com/k/500-tane-%C3%A7omar%C4%B1n-1-atakan-a-e%C5%9Fit-olmas%C4%B1/ 
 https://www.uludagsozluk.com/k/modac%C4%B1lar%C4%B1n-%C3%A7o%C4%9Funun-top-olmas%C4%B1/&w=bg bkz barbaros şansal
 https://www.uludagsozluk.com/k/idlibde-frans%C4%B1z-afp-ajansna-bozkurt-yapan-mehmet%C3%A7k/ 
