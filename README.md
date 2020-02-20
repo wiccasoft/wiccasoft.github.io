@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!-- https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd -->
+<!--
+https://www.uludagsozluk.com/k/komando-vs-piyade/&w=bg
+https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd 
+https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-bir-%C3%A7ocu%C4%9Fu-lin%C3%A7-etmek/
+-->
 
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
