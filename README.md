@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
-bkz atakan kayaların kemalisterin görünce akpli oldum demesi
+bkz atakan kayaların kemalisteri görünce akpli oldum demesi
 bkz ali ihsan yavuz atakan kayalar beznerliği
 bkz filozof olmayaı kolay sanan ergenler
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-abart%C4%B1lmas%C4%B1/&w=bg
