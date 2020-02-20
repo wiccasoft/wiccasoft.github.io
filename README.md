@@ -11,7 +11,6 @@ https://eksisozluk.com/palali-saldirganin-ebru-polatla-sevgili-olmasi--6374134?a
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-adam/&w=bg
 https://www.uludagsozluk.com/k/rte-anam%C4%B1n-%C3%BCst%C3%BCnde-yakalansa-orospuluk-anamdad%C4%B1r/&w=bg
 bkz rte 1941 doğumlu anamın üstünde yakalanmayacağına göre problem yok
-bkz annem 1941 doğumlu olduğu için problem yok
 -->
 
 
