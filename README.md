@@ -1,12 +1,9 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
-bkz fırat çakıroğlavn vs deniz gezmişoğlan
+bkz fırat çakıroğlan vs deniz gezmişoğlan
 https://www.uludagsozluk.com/k/f%C4%B1rat-%C3%A7ak%C4%B1ro%C4%9Flu-na-%C5%9Fehit-demek/
-bkz baba adının osman olmasının verdiği raadlık
-bkz imamaoğlanın babasının oğlanı yollim çift kale maç yapın az demesi
 https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/ bkz ben
-bkz 1978 doğumlu olmanan verdiği raadlık
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/&w=bg
 https://www.uludagsozluk.com/k/yapars%C4%B1n-a%C5%9Fk%C4%B1m/&w=bg
 https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/
