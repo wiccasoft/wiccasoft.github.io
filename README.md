@@ -2,6 +2,7 @@
 
 <!--
 bkz atakan vs atacücü
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ üşüyoruz filozof reyis
 https://www.uludagsozluk.com/k/f%C4%B1rat-y%C4%B1lmaz-%C3%A7ak%C4%B1ro%C4%9Flu/&w=bg üşüyoruz reis
 https://www.uludagsozluk.com/k/cihat%C3%A7%C4%B1-%C5%9Fii-ter%C3%B6ristler/
 bkz atakan 10 yaşında a arkadaşları ona minnak filozof diyor
