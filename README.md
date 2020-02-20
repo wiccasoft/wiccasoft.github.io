@@ -3,6 +3,7 @@
 <!--
 bkz atakan vs atacüc
 bkz şaka maka iyi pr kastık brolar eywolle
+https://galeri.uludagsozluk.com/r/k%C3%BC%C3%A7%C3%BCk-filozof-atakan-1980381/
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywolle genşler eksik olmayın
 http://incisozluk.com.tr/w/arkadaslar-incici-vs-ek%C5%9Fici-yapd%C4%B1m/
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd ne gerenk vardı title a 
