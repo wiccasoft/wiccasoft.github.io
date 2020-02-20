@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+nkz filozof çocukların sanki biraz şey olması
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz zeki mürenin çocukken ben deç ok filozoftum demesi
 bkz aleyna tilkinin çocukları filozofluğa alet etmeyin demesi
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-atakan-ruh-e%C5%9Fim-gibisin-tweeti/
