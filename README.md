@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+bkz atakanın platonun mağara alegorisi eksik demesi
 bkz atakanın küçük pyensi 10 dakkada okudum demesi
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg
 https://www.uludagsozluk.com/k/atakan-kayalar/
