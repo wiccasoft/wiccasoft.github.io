@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://eksisozluk.com/aleyna-tilkinin-atalay-kayalar-hakkindaki-yorumu--6374715?a=popular 
+bkz aleyna ablanın beyin kanartan atalay yorumu
 bkz felsefe bahane oğlan şahane
 bkz 10 yaşındaki oğlan çekiciliği
 bkz çocuk pornosu ararken atakanı bulmak
