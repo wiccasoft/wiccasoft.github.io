@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+blz şaka maka küçüf filozofun azdırması
 https://www.uludagsozluk.com/k/atakan-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg
 bkz küçük filozof atakana ufaklığı gösterip anlat şimdi demek
 bkz felsefe bahane oğlanlar şahane
