@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz küçük filozofun azdırması
 bkz platanonun büyük iskenderi küçüklükten filozof yetiştirmesi
 bkz filozof çocukların sanki biraz şey olması
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren/&w=bg bkz zeki mürenin çocukken ben deç ok filozoftum demesi
