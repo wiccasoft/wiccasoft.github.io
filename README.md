@@ -2,6 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
+bkz osmanlı çocuğunun dudağını büküp seksi hareketler yapması
 bkz hoşlanılan oğlanın dudağını büküp felsefe yapacam demesi
 bkz ilkokul çıkışı parlak bi oğlan bulup felsefi muhabbete girmek
 bkz fındık götlü oğlanların ok attığı iddası
