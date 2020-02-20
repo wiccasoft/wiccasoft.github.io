@@ -3,13 +3,6 @@
 
 <!--
 bkz aleyna abla yanımda selamı var
-bkz atakan kayaların küçük prens okuduğum en boktan hikaye demesi
-bkz atakan kayaların nihilizm boş işler demesi
-bkz ataskan kayaların kitap okumaktan kaya kafa oldum demesi
-bkz atakan kayaların planton eflatun a bi bok öğretmedi demesi
-https://www.uludagsozluk.com/k/atakan-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-ba%C5%9Fl%C4%B1klar/ bkz şaka maka sorunsalı
-bkz beni atakan kayalar sanan malların güldürmesi
-https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-33-ya%C5%9F%C4%B1nda-bir-c%C3%BCce-olmas/ 41 yaşındayım 180 boyum var
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywallah brolar okumadım ama iyi şeyler yazıyosunuzdur
 https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg eywallah brolar irtibatı koparmayalım
 https://www.pinterest.com/wiccasoft/pins/ bkz atakanın dünya düzdür demesi
