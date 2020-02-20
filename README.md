@@ -4,7 +4,7 @@
 bkz atakan vs atacücü
 bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
-bkz antartikayı tatşl mekanı sanan kamalcı
+bkz antartikayı tatil mekanı sanan kamalcı
 bkz antartikadaki buzullarda tatil keyfi
 bkz a sporun işte mustafa kapı bu da fenere girecek sapı manşeti terbiyesiziği
 bkz a sporunun atacücünün takımı fenere döşemesi
