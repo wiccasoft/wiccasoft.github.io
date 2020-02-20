@@ -3,6 +3,7 @@
 
 <!--
 bkz aleyna abla yanımda selamı var
+https://www.uludagsozluk.com/k/atakan-yazar-olsa-a%C3%A7aca%C4%9F%C4%B1-ba%C5%9Fl%C4%B1klar/ bkz şaka maka sorunsalı
 bkz beni atakan kayalar sanan malların güldürmesi
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-33-ya%C5%9F%C4%B1nda-bir-c%C3%BCce-olmas/ 41 yaşındayım 180 boyum var
 https://eksisozluk.com/atakan-kayalar--6373258?a=popular eywallah brolar okumadım ama iyi şeyler yazıyosunuzdur
