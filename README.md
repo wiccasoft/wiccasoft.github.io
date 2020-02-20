@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/k/general-electric/&w=bg lol
 bkz atakan 10 yaşında arkadaşlarını köpek gibi kullanıyor
 bkz atakan 10 yaşında arkadaşları on piç işi biliyon diyor
+https://www.uludagsozluk.com/k/can%C4%B1n%C4%B1-feda-edecek-gen%C3%A7lere-ihtiyac%C4%B1m%C4%B1z-var/
 https://www.uludagsozluk.com/k/gidece%C4%9Fim-okul-s%C3%BCrekli-dezenfekte-edilmeli/ dezenfekte edin
 https://www.uludagsozluk.com/k/coca-cola-y%C4%B1-okla-imha-eden-osmanl%C4%B1-%C3%A7ocu%C4%9Fu/ mobile twitter
 https://www.uludagsozluk.com/k/sava%C5%9Flarda-erkeklerin-%C3%B6lmesi/ serdar06 mı ölecekti
