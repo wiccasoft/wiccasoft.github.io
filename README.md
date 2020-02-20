@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
-bkz yavşak ulucu ibnelerin atakan la kırk yıllık dost gibi olması
+bkz yavşak ulucu ibnelerin atakanı kırk yıllık dostu sanması
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-annesine-yapt%C4%B1%C4%9F%C4%B1-sayg%C4%B1s%C4%B1zl%C4%B1k/&w=bg
 -->
 
