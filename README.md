@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!-- 
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390
 bkz alex de souza vs atakan kayalar
 bkz atakan kayalar vs atacücü
 bkz cengiz han vs hitler
