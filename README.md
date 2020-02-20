@@ -3,6 +3,7 @@
 <!--
 bkz felsefe bahane oğlan şahane
 bkz 10 yaşındaki oğlan çekiciliği
+bkz çocuk pornosu ararken atakanı bulmak
 bkz şaka maka 10 yaşındaki oğlanların kaymak gibi götü olduğu gerçeği
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-bir-%C3%A7ocu%C4%9Fu-lin%C3%A7-etmek/ oyşşşş
 bkz filozof atakanın kaymak gibi götü olduğu gerçeği
