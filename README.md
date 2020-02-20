@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://eksisozluk.com/atakan-kayalar--6373258?a=popular bkz şaka maka kayarım ben buna
 https://eksisozluk.com/aleyna-tilkinin-atalay-kayalar-hakkindaki-yorumu--6374715?a=popular 
 bkz aleyna ablanın beyin kanartan atalay yorumu
 bkz felsefe bahane oğlan şahane
