@@ -2,7 +2,7 @@
 
 <!--
 bkz atakan vs atacüc
-bkz atakanın bokunu çıkarması
+bkz atakanın felsefenin bokunu çıkarması
 bkz filozof atakan vs filozof atacüc
 bkz çocuklar duymasın havuç vs atakan
 bkz atakanın antartika tatili
