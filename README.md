@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-<!--,
+<!--
+bkz platonun filozofluk okulunda kaydığı oğlanlar
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg küçük müçük kayarım ben buna
 bkz 41 yaşındaki adam 10 yaşındaki oğlan ilişkisi
 bkz 10 yaşındaki oğlan götünün dayanılmaz çekiciliği 
