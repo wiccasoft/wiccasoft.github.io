@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+https://www.uludagsozluk.com/k/alt%C4%B1n-%C3%A7ocuk-atakan/ bkz parlak götlü atakan
 bkz aleyna tilkinin atakana 31 çekenler bana çekmesin demesi
 bkz atakanın paylaştığı aleyna abla pozu
 bkz 10 yaşındaki afacan atakan götü
