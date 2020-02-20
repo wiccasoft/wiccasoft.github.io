@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz aleyna tilkinin atakanın götüne 31 çekenler bana çekmesin demesi
 bkz atakanın paylaştığı aleyna abla pozu
 bkz 10 yaşındaki afacan atakan götü
 bbkz şaka maka atakanın sosyaml medya milyarderi olacağı gerçeği
