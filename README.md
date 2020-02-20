@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
-
+<!-- 
+bkz aleyna tilkinin çocukları şekş obşeşi yapmayın demesi
+https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-balon-%C3%A7%C4%B1kmas%C4%B1/&w=gd 
+bkz atakanın yayını kesip snapchati kapaması
+-->
 [![Image](waste/Screenshot_2020-02-18_08-46-29.png)]( https://www.youtube.com/watch?v=GFnekZYoz4A )
 
 
