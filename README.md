@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 <!--
+bkz atakanın videolarına toplu 31 çekmek
+https://www.uludagsozluk.com/k/toplu-halde-%C3%A7ekilen-31-den-sonra-da%C4%9F%C4%B1lmak/&w=bg
 bkz şaka maka atkanın kucağa alıp kulağını ısırıp felsefe konuşmak
 https://www.uludagsozluk.com/k/10-ya%C5%9F%C4%B1ndaki-atakan/&w=bg bkz 10 yaşındaki çıtır
 bkz kerimcan durmazın atakana biraz süre verin şöhreti kaldıramadı çocuk demesi
