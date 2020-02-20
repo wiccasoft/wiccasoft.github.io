@@ -2,6 +2,7 @@
 
 <!--
 bkz parlak götlü oğlanların çekciliği
+https://www.uludagsozluk.com/k/%C5%9Fehzade-o%C4%9Fuzhan/ bkz seksi oğlanlar
 bkz osmanlı çocuğunun dudağını büküp seksi hareketler yapması
 bkz hoşlanılan oğlanın dudağını büküp felsefe yapacam demesi
 bkz ilkokul çıkışı parlak bi oğlan bulup felsefi muhabbete girmek
