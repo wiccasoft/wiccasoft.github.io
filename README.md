@@ -3,6 +3,7 @@
 
 <!--
 bkz siyaset tartışamk
+bkz kemalistlerin kelime haznesi
 bkz siyasetin zaten tartışma sanatı olduğunu anlatmak
 bkz akpli birine siyaset tartışmak
 bkz ablasını siken adama enişte beline kuvvet diyen adam
