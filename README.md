@@ -3,22 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
-<!--
-https://www.youtube.com/watch?v=xfnjCfV6lto
-bkz laiklik elden gidiyo walla ararın 155 ü
-bkz sene 2020 oldu hani şeriat geliyodu it oğlu itler
-bkz trabzon şampiyon olacak diye kuduran fenerliler
-https://www.uludagsozluk.com/k/3-mart-2020-trabzonspor-fenerbah%C3%A7e-ma%C3%A7%C4%B1/ fenere boru gibi döşeyeceğimiz maç
-bkz siyaset tartışılmaz yapılır
-https://medium.com/liyakatsizsiyaset/siyaset-nedir-2a3237673485
-https://odatv.com/spora-siyaset-karisti-19022056.html
-https://www.etimolojiturkce.com/kelime/siyaset
-bkz siyasal bilgiler fakültesi maliye okumuş birine siyaset bilimi öğretmek
-bkz chpli birine siyaset in zaten tartışma sanatı olduğunu anlatmak
-https://www.uludagsozluk.com/k/akpli-biriyle-siyaset-tart%C4%B1%C5%9Fmak/&w=bg bkz don kişöt
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg bkz sivas kongresi
-https://www.uludagsozluk.com/k/kemalistler/&w=bg bkz kemale tapanlar
- -->
 
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
