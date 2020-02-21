@@ -10,7 +10,7 @@ https://www.uludagsozluk.com/k/akpnin-patriot-u-d%C3%B6n%C3%BC%C5%9F%C3%BC/ bkz 
 https://www.uludagsozluk.com/k/ben-koca-buldum-diye-%C3%A7%C4%B1ld%C4%B1ran-tesett%C3%BCrl%C3%BC-gelin/&w=bg çok ta fifi
 https://www.uludagsozluk.com/k/abd-bizi-neden-sevmeye-ba%C5%9Flad%C4%B1-sorunu/ bkz atakan
 bkz anahtarlığı sallayarak etrafa çiftleşme melodileri yollayan rakun
-bzk arabanın kapısını kapatıp etrafta karı kız var mı süzen kesen rakun
+bzk arabanın kapısını kapatıp etrafta karı kız var mı süzen rakun
 https://www.uludagsozluk.com/k/insans%C4%B1z-sokaklar-istiyoruz/
 https://www.uludagsozluk.com/k/arabas%C4%B1na-%C3%A7ok-de%C4%9Fer-veren-erkek/ bkz la bize her yer angara
 https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-temel-mant%C4%B1%C4%9F%C4%B1/ lol
