@@ -3,13 +3,13 @@
 
 <!-- 
 bkz erkekçe vuruşmaktan korkan erkek
+bkz anasına sokan adama baba diyen gavat
+bkz bi erkeğin gay olup olmadığını anlamanın yolları
 https://www.uludagsozluk.com/k/tek-seferde-50-%C5%9F%C4%B1nav-%C3%A7ekemeyen-erkek/&w=bg bkz ılıktır
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz ılıktır
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz ılıktır
 https://www.uludagsozluk.com/k/emniyet-kemeri-takan-erkek-ibne-midir-sorunsal%C4%B1/ bkz ılıktır
 https://www.uludagsozluk.com/k/tek-seferde-50-%C5%9F%C4%B1nav-%C3%A7ekemeyen-erkek/&w=bg bkz vurduruyordur
-bkz anasına sokan adama baba diyen gavat
-bkz bi erkeğin gay olup olmadığını anlamanın yolları
 https://www.uludagsozluk.com/k/bir-erkek-neden-kad%C4%B1n-taklidi-yapar/ bkz gaylerden korunmak için
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz kemalist zekası -->
 
