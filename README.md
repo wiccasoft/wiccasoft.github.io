@@ -3,7 +3,7 @@
 
 <!--
 bkz seni bulup karım yapacam olm diyen ergenin güldürmesi
-bkz bir erkek niye bir erkeği başkasına kaptırır tam bi denyoluk
+bkz bir erkek niye bir erkeği başkasına kaptırır tam bi denyoluk aşkolar
 bkz bir erkeği adam edip başkasına kaptırmak
 bkz bir erkek neden seviyomuş gibi yapıp kaçar
 bkz bir erkek neden pipisini öptürmez
