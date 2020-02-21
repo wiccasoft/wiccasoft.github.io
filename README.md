@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
-
+<!-- https://www.uludagsozluk.com/k/ben-de-10-ya%C5%9F%C4%B1nda-dostoyevski-okumu%C5%9Ftum/ bkz kıskanç -->
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 
