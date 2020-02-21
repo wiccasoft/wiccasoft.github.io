@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!-- 
+<!--
+bkz bir erkek neden erkekçe vuruşmaktan korkar
 bkz mustafa kemal ata cücüye laf etme sebepsiz sen anandan yine doğardan edepsiz
 bkz erkekçe vuruşmaktan korkan erkek
 bkz anasına sokan adama baba diyen gavat
