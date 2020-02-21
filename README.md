@@ -3,6 +3,7 @@
 
 <!-- 
 bkz anasına sokan adama baba diyen gavat
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz götüne sokan adama ata diyen gavat
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz kemalist zekası -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
