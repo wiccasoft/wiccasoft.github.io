@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+bzk arabanın kapısnın kapatrıp etfarı çötyl bi kesen erkek
 https://www.uludagsozluk.com/k/insans%C4%B1z-sokaklar-istiyoruz/
 https://www.uludagsozluk.com/k/arabas%C4%B1na-%C3%A7ok-de%C4%9Fer-veren-erkek/ bkz la bize her yer angara
 https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-temel-mant%C4%B1%C4%9F%C4%B1/ lol
