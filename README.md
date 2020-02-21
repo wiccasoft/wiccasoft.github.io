@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz vurursunuz eywallah da ölmezsem sıkıntı büyük. 
 https://www.uludagsozluk.com/k/kimsenin-sikinde-olmamak/&w=bg bkz siklemezsiniz de ben siklersem sıkıntı büyük
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz benim ama pipim kalkmıyo
-https://www.uludagsozluk.com/k/akci%C4%9Fer-kanseri/&w=bg bkz öldürmezse sıkıntı büyük
  -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
