@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz erol mütercimlerin saati
+bkz damat veratın pornhuba erşiemezsiniz engeli
 bkz kemalizmin ne işe yaradığı sounsalı
 bkz bi akpliye kemalizm sevgisi aşılamak
 https://www.uludagsozluk.com/k/akpli-biriyle-siyaset-tart%C4%B1%C5%9Fmak/&w=bg bkz don kişöt
