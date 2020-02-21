@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz ben ama gavatım
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz benim ama pipim kalkmıyor gavatım
 bkz pipim kalkmadığı için karıya pompacı arıyorum
 bkz vurursunuz eyvallah da ölmezsem sıkıntı büyük. -->
 
