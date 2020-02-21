@@ -4,6 +4,7 @@
 <!-- 
 bkz erol mütercimler vs atillha ilhan
 bkz kemalizmin ne işe yaradığı sounsalı
+https://www.uludagsozluk.com/k/akpli-biriyle-siyaset-tart%C4%B1%C5%9Fmak/&w=bg bkz don kişöt
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg bkz sivas kongresi
 https://www.uludagsozluk.com/k/kemalistler/&w=bg bkz kemale tapanlar
  -->
