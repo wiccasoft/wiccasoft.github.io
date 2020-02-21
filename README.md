@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ pıldırpış
 https://www.uludagsozluk.com/k/kalk-bi-%C3%A7ay-koy-da-i%C3%A7ek-diyen-erkek/ bkz bi siggi git çay koy
 https://www.uludagsozluk.com/k/anlatacak-o-kadar-%C3%A7ok-%C5%9Fey-var-ki-deyip-susan-adam/ bkz yok ki
 https://www.uludagsozluk.com/k/%C3%A7a%C4%9F%C4%B1m%C4%B1z%C4%B1n-hastal%C4%B1%C4%9F%C4%B1/&w=bg duyar kasmak
