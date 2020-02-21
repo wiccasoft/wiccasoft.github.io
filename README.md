@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 
+<!-- https://www.uludagsozluk.com/k/akpli-biriyle-siyaset-tart%C4%B1%C5%9Fmak/ bkz siyaset tartışmak -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
