@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz anahtarlığı sallayarak etrafa çiftleşme melodilerei yollayan erkek
-bzk arabanın kapısını kapatıp etrafta karı kız var mı süzen kesen erkek
+bkz anahtarlığı sallayarak etrafa çiftleşme melodilerei yollayan rakun
+bzk arabanın kapısını kapatıp etrafta karı kız var mı süzen kesen rakun
 https://www.uludagsozluk.com/k/insans%C4%B1z-sokaklar-istiyoruz/
 https://www.uludagsozluk.com/k/arabas%C4%B1na-%C3%A7ok-de%C4%9Fer-veren-erkek/ bkz la bize her yer angara
 https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-temel-mant%C4%B1%C4%9F%C4%B1/ lol
