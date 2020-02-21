@@ -3,6 +3,7 @@
 
 <!--
 https://odatv.com/spora-siyaset-karisti-19022056.html
+https://www.etimolojiturkce.com/kelime/siyaset
 bkz siyasal bilgiler fakültesi maliye okumuş birine siyaset bilimi öğretmek
 bkz siyaset tartışılmaz yapılır
 bkz chpli birine siyaset in zaten tartışma sanatı olduğunu anlatmak
