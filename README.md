@@ -3,6 +3,7 @@
 
 <!--
 bkz atakan kayalar nereli sorunsalı
+bkz atakan kayaların kaynım olursa annemle görüştürmem demesi
 bkz atakan kayaların annesinden nefret ettiği iddaları
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-kendi-annesinden-nefret-etmesi/
 https://www.uludagsozluk.com/e/42889880/ bkz yeni atakan kayalar vakası
