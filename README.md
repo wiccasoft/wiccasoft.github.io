@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz kızı sikilecek diye düğünde göbek atan adam
 bkz hz ayşenin 9 yaşında taş gibi olduğu gerçeği
 bkz babişkoya yatarken beline kuvvet baboş diyip pis pis gülmmek
 bkz anneme sokan adama baboş dediğim bile olmuştur.
