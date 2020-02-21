@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz bir erkeği adam edip başkasına kaptırmak
 bkz bir erkek neden seviyomuş gibi yapıp kaçar
 bkz bir erkek neden pipisini öptürmez
 bkz bir erkek neden aşık taklidi yapar
