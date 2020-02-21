@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/abd-bizi-neden-sevmeye-ba%C5%9Flad%C4%B1-sorunu/ bkz atakan
 bkz anahtarlığı sallayarak etrafa çiftleşme melodileri yollayan rakun
 bzk arabanın kapısını kapatıp etrafta karı kız var mı süzen kesen rakun
 https://www.uludagsozluk.com/k/insans%C4%B1z-sokaklar-istiyoruz/
