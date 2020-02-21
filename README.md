@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.youtube.com/watch?v=xfnjCfV6lto
 bkz laiklik elden gidiyo walla ararın 155 ü
 bkz sene 2020 oldu hani şeriat geliyodu it oğlu itler
 bkz trabzon şampiyon olacak diye kuduran fenerliler
