@@ -13,10 +13,6 @@ https://odatv.com/spora-siyaset-karisti-19022056.html
 https://www.etimolojiturkce.com/kelime/siyaset
 bkz siyasal bilgiler fakültesi maliye okumuş birine siyaset bilimi öğretmek
 bkz chpli birine siyaset in zaten tartışma sanatı olduğunu anlatmak
-bkz damat beratın erişim engeli haberine erişim engeli
-bkz damat beratın pornhuba erşiemezsiniz engeli
-bkz kemalizmin ne işe yaradığı sounsalı
-bkz bi akpliye kemalizm sevgisi aşılamak
 https://www.uludagsozluk.com/k/akpli-biriyle-siyaset-tart%C4%B1%C5%9Fmak/&w=bg bkz don kişöt
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg bkz sivas kongresi
 https://www.uludagsozluk.com/k/kemalistler/&w=bg bkz kemale tapanlar
