@@ -3,7 +3,7 @@
 
 <!--
 bkz atakan kayalar vs elon musk
-bkz 10 yaşında anabritannica okuyan çocuk
+bkz 10 yaşında anabritannica okuyan gerizekalı çocuk
 bkz 10 yaşında guinness rekorlar kitabı okuyan çocuk
 https://www.uludagsozluk.com/k/atakan-i-k%C4%B1skanan-tipler/ bkz elon musk
 bkz 10 yaşında kitap okuyan çocuğun şaşırılıp haber yapıldğı tuhaf ülke
