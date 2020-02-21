@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+bkz mansur yavaş erdodan 25 milyon dolar rüşvet istedi idddaları
 bkz atakan kayalar nereli sorunsalı
 bkz atakan kayaların maço bir erkek olması
 bkz atakan kayaların kaynım olursa annemle görüştürmem demesi
