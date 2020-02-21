@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+bkz atakan kayalar vs elon musk
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik bk atakan bilmez bunları
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-mal%C4%B1n-%C3%B6nde-gideni-olmaa%C4%B1/
 https://www.uludagsozluk.com/k/ben-de-10-ya%C5%9F%C4%B1nda-dostoyevski-okumu%C5%9Ftum/ say lan
