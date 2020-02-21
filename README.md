@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://tr.wikipedia.org/wiki/Teknolojik_tekillik bkz atakan için tekil okul açmak
 bkz atakna kayalar vs elon musk
 https://eksisozluk.com/atakan-kayalarin-tableti--6376150?a=popular
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd
