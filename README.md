@@ -3,6 +3,7 @@
 
 <!--
 bkz atakan kayalar vs elon musk
+https://www.uludagsozluk.com/k/atakan-i-k%C4%B1skanan-tipler/ bkz elon musk
 bkz 10 yaşında kitap okuyan çocuğun şaşırılıp haber yapıldğı tuhaf ülke
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik bk atakan bilmez bunları
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-mal%C4%B1n-%C3%B6nde-gideni-olmaa%C4%B1/
