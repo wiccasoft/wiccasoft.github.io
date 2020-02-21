@@ -4,7 +4,6 @@
 <!--
 bkz atakan kayalar vs elon musk
 bkz 10 yaşında kitap okuyan çocuğun haber yapıldğı tuhaf ülke
-bkz 3 yaşında okuma yazma 5 dil bilen çocuk olur anlarım mal mısınız lan
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik bk atakan bilmez bunları
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-mal%C4%B1n-%C3%B6nde-gideni-olmaa%C4%B1/
 https://www.uludagsozluk.com/k/ben-de-10-ya%C5%9F%C4%B1nda-dostoyevski-okumu%C5%9Ftum/ say lan
