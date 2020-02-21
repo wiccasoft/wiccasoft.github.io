@@ -3,7 +3,7 @@
 
 <!--
 bkz sene 2020 oldu hani yçan arabalar
-bkz laikl elden gidiyo walla ararın 155 ü
+bkz laiklik elden gidiyo walla ararın 155 ü
 bkz sene 2020 oldu hani şeriat geliyodu it oğlu itler
 bkz trabzon şampiyon olacak diye kuduran fenerliler
 https://www.uludagsozluk.com/k/3-mart-2020-trabzonspor-fenerbah%C3%A7e-ma%C3%A7%C4%B1/ fenere boru gibi döşeyeceğimiz maç
