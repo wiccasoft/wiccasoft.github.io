@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz chpli bi çomara birine siyaset in tartışma sanatı olduğunu anlatmak
+https://odatv.com/spora-siyaset-karisti-19022056.html
+bkz chpli birine siyaset in zaten tartışma sanatı olduğunu anlatmak
 bkz damat beratın erişim engeli haberine erişim engeli
 bkz damat beratın pornhuba erşiemezsiniz engeli
 bkz kemalizmin ne işe yaradığı sounsalı
