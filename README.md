@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!-- 
+kz erol mütercimler vs atillha ilhan
 bkz kemalizmin ne işe yaradığı sounsalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg bkz sivas kongresi
 https://www.uludagsozluk.com/k/kemalistler/&w=bg bkz kemale tapanlar
