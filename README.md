@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ bkz atakan kayalar
 bkz jim carrrey vs cem yılmaz
+https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ bkz atakan kayalar
 bkz atakan kayalar vs elon musk
 bkz atakan kayaların platonun filozofluk okuluna gidecem demesi
 bkz mansur yavaş erdodan 25 milyon dolar rüşvet istedi idddaları
