@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/irem-derici-nin-ben-bir-k%C3%B6pe%C4%9Fim-demesi/ lol
 https://www.uludagsozluk.com/k/atakan-%C4%B1n-aleyna-tilki-ye-verdi%C4%9Fi-ayar/&w=gd lol
 https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-babas%C4%B1/ lol
 https://www.uludagsozluk.com/k/ger%C3%A7ek-deha-atakan-de%C4%9Fil-tablet-reistir/ lol 
