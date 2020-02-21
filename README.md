@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-en-b%C3%BCy%C3%BCk-hatas%C4%B1/&w=bg bkz sivas kongresi
+https://www.uludagsozluk.com/k/kemalistler/&w=bg bkz kemale tapanlar
  -->
 
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
