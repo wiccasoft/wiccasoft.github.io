@@ -12,7 +12,7 @@ bkz bir erkek neden pipisini öptürmez
 bkz bir erkek neden aşık taklidi yapar
 bkz bir erkeğin gay olmadığını anlamak için pipisini öpmek
 bkz bir erkek neden erkekçe vuruşmaktan korkar
-bkz mustafa kemal ata cücüye laf etme sebepsiz sen anandan yine doğardan edepsiz
+bkz atacücüye laf etme sebepsiz sen anandan yine doğardan edepsiz
 bkz erkekçe vuruşmaktan korkan erkek
 bkz anasına sokan adama baba diyen gavat
 bkz bi erkeğin gay olup olmadığını anlamanın yolları
