@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/ben-de-10-ya%C5%9F%C4%B1nda-dostoyevski-okumu%C5%9Ftum/ say lan
 bkz türbanlı bacıların üstüne işeyip yunanistana kaçan kamalcı
 bkz mustafa atadan er doğan vs bülent ersoy
 bkz 10 yaşında çocuğun kitap okumasının haber olduğu tuhaf ülke
