@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7a%C4%9F%C4%B1m%C4%B1z%C4%B1n-hastal%C4%B1%C4%9F%C4%B1/&w=bg duyar kasmak
 https://www.uludagsozluk.com/k/elanur-ak%C4%B1nc%C4%B1-filozof-atakan/ duyar kasılıyor.. loading
 https://www.uludagsozluk.com/k/yunanistan-bayra%C4%9F%C4%B1n%C4%B1n-cok-cool-olmas%C4%B1/
 https://www.uludagsozluk.com/k/irem-derici-nin-ben-bir-k%C3%B6pe%C4%9Fim-demesi/ lol
