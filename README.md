@@ -4,7 +4,7 @@
 <!--
 bkz mustafa atadan er doğan vs bülent ersoy
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-b%C3%BClent-ersoy/&w=bg 
-bkz deli karpuzu satıp teksas tommiks aldığımız günler atakan bilmez
+bkz deli karpuzu satıp teksas tommiks aldığımız günler atakan bilmez 80 li yıllaer
 bkz ben 10 yaşında bi çuval grimm's firy tales tommiks teksas okumuştum ne var bunda anlamadım
 bkz atakanın türbanlı annesine saldıran kamalcı
 bkz atakan kayalar vs elon musk
