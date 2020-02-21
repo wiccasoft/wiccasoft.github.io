@@ -1,12 +1,12 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!-- 
+<!-- bkz erkekçe vuruşmaktan korkan erkek
 https://www.uludagsozluk.com/k/emniyet-kemeri-takan-erkek-ibne-midir-sorunsal%C4%B1/ bkz ılıktır
 https://www.uludagsozluk.com/k/tek-seferde-50-%C5%9F%C4%B1nav-%C3%A7ekemeyen-erkek/&w=bg bkz vurduruyordur
 bkz anasına sokan adama baba diyen gavat
 bkz bi erkeğin gay olup olmadığını anlamanın yolları
-https://www.uludagsozluk.com/k/bir-erkek-neden-kad%C4%B1n-taklidi-yapar/ bkz siktirmek için
+https://www.uludagsozluk.com/k/bir-erkek-neden-kad%C4%B1n-taklidi-yapar/ bkz gaylerden korunmak için
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz kemalist zekası -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
