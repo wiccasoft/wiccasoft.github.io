@@ -3,8 +3,8 @@
 
 <!--
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz ben ama gavatım
-vkz pipim kalkmadığı için karıya pompacı arıyorum
-vurursunuz eyvallah da ölmezsem sıkıntı büyük. -->
+bkz pipim kalkmadığı için karıya pompacı arıyorum
+bkz vurursunuz eyvallah da ölmezsem sıkıntı büyük. -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
