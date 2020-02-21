@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz ben 10 yaşında bi çuval grimm's firy tasles tommiks teksas okumuştum ne var bunda anlamadım
+bkz deli karpuzu satıp temmaks teksas aldığımız günler atakan bilmez
+bkz ben 10 yaşında bi çuval grimm's firy tales tommiks teksas okumuştum ne var bunda anlamadım
 bkz atakanın türbanlı annesine saldıran kamalcı
 bkz atakan kayalar vs elon musk
 bkz atakan kayaların annesine pıldırpış demesi
