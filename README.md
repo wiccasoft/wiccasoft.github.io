@@ -3,7 +3,6 @@
 
 <!--
 bkz mustafa atadan er doğan vs bülent ersoy
-https://www.uludagsozluk.com/k/k%C4%B1na-gecesinde-damad%C4%B1n%C4%B1n-bo%C4%9Faz%C4%B1n%C4%B1-kesen-kay%C4%B1npeder/ ben
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-b%C3%BClent-ersoy/&w=bg 
 bkz deli karpuzu satıp teksas tommiks aldığımız günler atakan bilmez
 bkz ben 10 yaşında bi çuval grimm's firy tales tommiks teksas okumuştum ne var bunda anlamadım
