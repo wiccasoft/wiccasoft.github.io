@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-temel-mant%C4%B1%C4%9F%C4%B1/ lol
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik bkz atakan için tekil e-okul inşa etmek
 -->
 
