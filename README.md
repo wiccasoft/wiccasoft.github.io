@@ -3,6 +3,7 @@
 
 <!--
 bkz atakanın kuşatma altında oyuncaklarını alıp kaçması
+https://www.uludagsozluk.com/k/kalk-bi-%C3%A7ay-koy-da-i%C3%A7ek-diyen-erkek/ bkz atakan kayalar
 https://www.uludagsozluk.com/k/elanur-ak%C4%B1nc%C4%B1-filozof-atakan/ 
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-kendi-annesinden-nefret-etmesi/ bkz oç
 https://www.youtube.com/watch?v=h6Q9id4Q_js gözleri erdoğan şeklinde gülen surat
