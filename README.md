@@ -3,9 +3,6 @@
 
 <!--
 https://tr.wikipedia.org/wiki/Teknolojik_tekillik bkz atakan için tekil e-okul inşa etmek
-bkz atakan kayalar vs elon musk
-https://eksisozluk.com/atakan-kayalarin-tableti--6376150?a=popular
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd
 -->
 
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
