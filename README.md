@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz babişkoya yatarken beline kuvvet baboş diyip pis pis gülmmek
 bkz vurursunuz eywallah da ölmezsem sıkıntı büyük. 
 bkz anneme sokan adama babişko dediğim bile olmuştur.
 bkz ablama sokan adamın kucağına oturup nasıl soktun eniştoşko dediğim günler oldu
