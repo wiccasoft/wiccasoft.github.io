@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz ulusalcılık düşmanları
+https://www.uludagsozluk.com/k/ulusalc%C4%B1l%C4%B1k-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-vatan-haini-olmas%C4%B1/
 bkz siyaset tartışamk
 bkz kemalistlerin kelime haznesi
 bkz siyasetin zaten tartışma sanatı olduğunu anlatmak
