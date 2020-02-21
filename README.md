@@ -1,28 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!--
-bkz corona virüsü türktür türk kalacaktır 
-bkz pompalıyla düğünü bastı dehşet saçtı
-bkz seni bulup karım yapacam olm diyen ergenin güldürmesi
-bkz bir erkek niye bir erkeği başkasına kaptırır tam bi denyoluk 
-bkz bir erkeği adam edip başkasına kaptırmak
-bkz bir erkek neden seviyomuş gibi yapıp kaçar
-bkz bir erkek neden pipisini öptürmez
-bkz bir erkek neden aşık taklidi yapar
-bkz bir erkeğin gay olmadığını anlamak için pipisini öpmek
-bkz bir erkek neden erkekçe vuruşmaktan korkar
-bkz atacücüye laf etme sebepsiz sen anandan yine doğardan edepsiz
-bkz erkekçe vuruşmaktan korkan erkek
-bkz anasına sokan adama baba diyen gavat
-bkz bi erkeğin gay olup olmadığını anlamanın yolları
-https://www.uludagsozluk.com/k/tek-seferde-50-%C5%9F%C4%B1nav-%C3%A7ekemeyen-erkek/&w=bg bkz ılıktır
-https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz ılıktır
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz ılıktır
-https://www.uludagsozluk.com/k/emniyet-kemeri-takan-erkek-ibne-midir-sorunsal%C4%B1/ bkz ılıktır
-https://www.uludagsozluk.com/k/tek-seferde-50-%C5%9F%C4%B1nav-%C3%A7ekemeyen-erkek/&w=bg bkz vurduruyordur
-https://www.uludagsozluk.com/k/bir-erkek-neden-kad%C4%B1n-taklidi-yapar/ bkz gaylerden korunmak için
--->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
