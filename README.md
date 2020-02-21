@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+bkz atakanın kuşatma altında oyuncaklarını alıp kaçması
+https://www.uludagsozluk.com/k/elanur-ak%C4%B1nc%C4%B1-filozof-atakan/ 
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-kendi-annesinden-nefret-etmesi/ bkz oç
 https://www.youtube.com/watch?v=h6Q9id4Q_js gözleri erdoğan şeklinde gülen surat
 https://www.youtube.com/watch?v=plRA82CVgNY 
