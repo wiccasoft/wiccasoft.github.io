@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz seni bulup karım yapacam olm diyen ergenin güldürmesi
 bkz bir erkek niye bir erkeği başkasına kaptırır tam bi denyoluk
 bkz bir erkeği adam edip başkasına kaptırmak
 bkz bir erkek neden seviyomuş gibi yapıp kaçar
