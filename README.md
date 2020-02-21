@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz siyaset tartışamk
 bkz siyasetin zaten tartışma sanatı olduğunu anlatmak
 bkz akpli birine siyaset tartışmak
 bkz ablasını siken adama enişte beline kuvvet diyen adam
