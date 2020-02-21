@@ -3,7 +3,8 @@
 
 <!--
 bkz vurursunuz eywallah da ölmezsem sıkıntı büyük. 
-bkz anneme sokan adama babişko dediğim bile olmuştur
+bkz anneme sokan adama babişko dediğim bile olmuştur.
+bkz ablama sokan adamın kucağına oturup nasıl soktun eniştoşko dediğim günler oldu
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz benim
 https://www.uludagsozluk.com/k/kimsenin-sikinde-olmamak/&w=bg bkz siklemezsiniz de ben siklersem sıkıntı büyük
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-g%C3%BCzel-olan-erkek/ bkz benim ama pipim kalkmıyo
