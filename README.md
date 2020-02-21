@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/portakal-ba%C5%9Fl%C4%B1yor/ lol
+https://www.uludagsozluk.com/k/6-ayda-250-kitap-okuyan-day%C4%B1/ lol
 https://www.uludagsozluk.com/k/akpnin-patriot-u-d%C3%B6n%C3%BC%C5%9F%C3%BC/ bkz akp nin patriot geri vitesi
 https://www.uludagsozluk.com/k/ben-koca-buldum-diye-%C3%A7%C4%B1ld%C4%B1ran-tesett%C3%BCrl%C3%BC-gelin/&w=bg neler dönmüş
 https://www.uludagsozluk.com/k/abd-bizi-neden-sevmeye-ba%C5%9Flad%C4%B1-sorunu/ bkz atakan
