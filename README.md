@@ -3,6 +3,7 @@
 
 <!-- 
 bkz anasına sokan adama baba diyen gavat
+https://www.uludagsozluk.com/k/bir-erkek-neden-kad%C4%B1n-taklidi-yapar/ bkz siktirmek için
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz götüne sokan adama ata diyen gavat
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz kemalist zekası -->
 
