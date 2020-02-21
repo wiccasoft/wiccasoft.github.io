@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Findi-kimi-destekliyoruz/ lol
 https://www.uludagsozluk.com/k/portakal-ba%C5%9Fl%C4%B1yor/ lol
 https://www.uludagsozluk.com/k/6-ayda-250-kitap-okuyan-day%C4%B1/ lol
 https://www.uludagsozluk.com/k/akpnin-patriot-u-d%C3%B6n%C3%BC%C5%9F%C3%BC/ bkz akp nin patriot geri vitesi
