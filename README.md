@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+bkz atakanın türbanlı annesine saldıran kamalcı
 bkz atakan kayalar vs elon musk
 bkz atakan kayaların annesine pıldırpış demesi
 https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ bkz atakan kayalar
