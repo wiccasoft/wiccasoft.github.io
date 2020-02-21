@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://medium.com/liyakatsizsiyaset/siyaset-nedir-2a3237673485
 https://odatv.com/spora-siyaset-karisti-19022056.html
 https://www.etimolojiturkce.com/kelime/siyaset
 bkz siyasal bilgiler fakültesi maliye okumuş birine siyaset bilimi öğretmek
