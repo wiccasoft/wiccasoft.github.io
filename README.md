@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
+https://www.uludagsozluk.com/e/42889880/ bkz yeni atakan kayalar vakası
 vkz atakan kayaların herkese haddini bildirdiği gerçeği
 bkz atakanın kuşatma altında oyuncaklarını alıp kaçması
 bkz atakna kayaların kaynım olursa annemle görüştürmem demesi
