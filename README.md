@@ -3,6 +3,7 @@
 
 <!--
 bkz atakan kayalar vs elon musk
+bkz 10 yaşında okuyabilien çocuk 10 yaş en güzel okunacak yaştır zaten gerizekalılar
 bkz 10 yaşında anabritannica okuyan gerizekalı çocuk
 bkz 10 yaşında guinness rekorlar kitabı okuyan çocuk
 https://www.uludagsozluk.com/k/atakan-i-k%C4%B1skanan-tipler/ bkz elon musk
