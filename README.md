@@ -1,57 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
-<!--
-bkz atakan kayalar vs elon musk
-bkz 10 yaş en güzel okunacak yaştır zaten gerizekalılar
-bkz 10 yaşında anabritannica okuyan gerizekalı çocuk
-bkz 10 yaşında guinness rekorlar kitabı okuyan çocuk
-https://www.uludagsozluk.com/k/atakan-i-k%C4%B1skanan-tipler/ bkz elon musk
-bkz 10 yaşında kitap okuyan çocuğun şaşırılıp haber yapıldğı tuhaf ülke
-https://tr.wikipedia.org/wiki/Teknolojik_tekillik bk atakan bilmez bunları
-https://www.uludagsozluk.com/k/atakan-%C4%B1n-mal%C4%B1n-%C3%B6nde-gideni-olmaa%C4%B1/
-https://www.uludagsozluk.com/k/ben-de-10-ya%C5%9F%C4%B1nda-dostoyevski-okumu%C5%9Ftum/ say lan
-bkz türbanlı bacıların üstüne işeyip yunanistana kaçan kamalcı
-bkz mustafa atadan er doğan vs bülent ersoy
-bkz 10 yaşında çocuğun kitap okumasının haber olduğu tuhaf ülke
-https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-b%C3%BClent-ersoy/&w=bg 
-bkz deli karpuzu satıp teksas tommiks aldığımız günler atakan bilmez 80 li yıllaer
-bkz ben 10 yaşında bi çuval grimm's firy tales tommiks teksas okumuştum ne var bunda anlamadım
-bkz atakanın türbanlı annesine saldıran kamalcı
-bkz atakan kayalar vs elon musk
-bkz atakan kayaların annesine pıldırpış demesi
-https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ bkz atakan kayalar
-bkz atakan kayaların platonun filozofluk okuluna gidecem demesi
-bkz mansur yavaş erdodan 25 milyon dolar rüşvet istedi idddaları
-bkz atakan kayalar nereli sorunsalı
-bkz atakan kayaların maço bir erkek olması
-bkz atakan kayaların kaynım olursa annemle görüştürmem demesi
-bkz atakan kayaların annesinden nefret ettiği iddaları
-https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-kendi-annesinden-nefret-etmesi/
-https://www.uludagsozluk.com/e/42889880/ bkz yeni atakan kayalar vakası
-vkz atakan kayaların herkese haddini bildirdiği gerçeği
-bkz atakanın kuşatma altında oyuncaklarını alıp kaçması
-bkz atakna kayaların kaynım olursa annemle görüştürmem demesi
-https://www.uludagsozluk.com/k/kalk-bi-%C3%A7ay-koy-da-i%C3%A7ek-diyen-erkek/ bkz atakan kayalar
-https://www.uludagsozluk.com/k/elanur-ak%C4%B1nc%C4%B1-filozof-atakan/ bkz elanur akıncı kim amk
-https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-kendi-annesinden-nefret-etmesi/ bkz oç
-https://www.youtube.com/watch?v=h6Q9id4Q_js gözleri erdoğan şeklinde gülen surat
-https://www.youtube.com/watch?v=plRA82CVgNY 
-https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ gel otur
-https://www.uludagsozluk.com/k/han%C4%B1m%C4%B1na-p%C4%B1ld%C4%B1rp%C4%B1%C5%9F-diyen-adam/ pıldırpış
-https://www.uludagsozluk.com/k/kalk-bi-%C3%A7ay-koy-da-i%C3%A7ek-diyen-erkek/ bkz bi siggi git çay koy
-https://www.uludagsozluk.com/k/anlatacak-o-kadar-%C3%A7ok-%C5%9Fey-var-ki-deyip-susan-adam/ bkz yok ki
-https://www.uludagsozluk.com/k/%C3%A7a%C4%9F%C4%B1m%C4%B1z%C4%B1n-hastal%C4%B1%C4%9F%C4%B1/&w=bg duyar kasmak
-https://www.uludagsozluk.com/k/elanur-ak%C4%B1nc%C4%B1-filozof-atakan/ duyar kasılıyor.. 
-https://www.uludagsozluk.com/k/yunanistan-bayra%C4%9F%C4%B1n%C4%B1n-cok-cool-olmas%C4%B1/
-https://www.uludagsozluk.com/k/irem-derici-nin-ben-bir-k%C3%B6pe%C4%9Fim-demesi/ lol
-https://www.uludagsozluk.com/k/atakan-%C4%B1n-aleyna-tilki-ye-verdi%C4%9Fi-ayar/&w=gd lol
-https://www.uludagsozluk.com/k/filozof-atakan-%C4%B1n-babas%C4%B1/ lol
-https://www.uludagsozluk.com/k/ger%C3%A7ek-deha-atakan-de%C4%9Fil-tablet-reistir/ lol 
-https://www.uludagsozluk.com/k/hay-sikeyim-filozofunuzu/ lol
-https://www.uludagsozluk.com/k/ben-de-10-ya%C5%9F%C4%B1nda-dostoyevski-okumu%C5%9Ftum/ ufak atta civcivler yesin
--->
-
 [![Image](waste/Screenshot_2020-02-19_17-22-20.png)]( https://isstracker.pl/  )
 
 
