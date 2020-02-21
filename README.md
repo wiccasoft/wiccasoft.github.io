@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 <!--
-bkz türbanlı bacıların üstüne işeyip kaçan kamalcı
+bkz türbanlı bacıların üstüne işeyip yunanistana kaçan kamalcı
 bkz mustafa atadan er doğan vs bülent ersoy
 bkz 10 yaşında çocuğun kitap okumasının haber olduğu tuhaf ülke
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-b%C3%BClent-ersoy/&w=bg 
