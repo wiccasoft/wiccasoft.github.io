@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz mustaf kemal ata cücü gay miydi sorunsalı
 bkz erkekçe vuruşmaktan korkan erkek
 bkz anasına sokan adama baba diyen gavat
 bkz bi erkeğin gay olup olmadığını anlamanın yolları
