@@ -4,6 +4,7 @@
 <!--
 https://odatv.com/spora-siyaset-karisti-19022056.html
 bkz siyasal bilgiler fakültesi maliye okumuş birine siyaset bilimi öğretmek
+bkz siyaset tartışılmaz yapılır
 bkz chpli birine siyaset in zaten tartışma sanatı olduğunu anlatmak
 bkz damat beratın erişim engeli haberine erişim engeli
 bkz damat beratın pornhuba erşiemezsiniz engeli
