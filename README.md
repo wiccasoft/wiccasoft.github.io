@@ -1,60 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!--
-bkz orduyu doğu gutaya sürüp keyif yapmak
-bkz aslan akbeyin orduyu feshedelim önerisi
-bkz 3 ineğin daha şehit olması
-bkz 21 şubat 3. osmanlı rus harbinin güldürmesi
-bkz messinin dripling yaparken yelelerinin süzülmesi
-https://www.uludagsozluk.com/k/lionel-messi/&w=bg
-https://www.uludagsozluk.com/k/sadece-arap-%C3%A7%C4%B1karlar%C4%B1n%C4%B1-g%C3%B6zeten-tc-cumhurba%C5%9Fkan%C4%B1/
-https://www.uludagsozluk.com/k/ter%C3%B6rle-m%C3%BCcadele-deyip-ka%C3%A7ak-sigara-satt%C4%B1rmak/
-https://www.uludagsozluk.com/k/%C3%A7erkezlerdeki-g%C3%B6t-kalk%C4%B1kl%C4%B1%C4%9F%C4%B1/&w=gd 
-bkz rte nin osmanlı subayı iken suriyeye ayak basması
-bkz rte nin ikinci atacücü olduğu gerçeği
-bkz abuzer kömürcü vs walter white
-bkz müvekkilimin savunulacak hiç bi yanı yok diyen avukat
-bkz muhammedin mekkeli müşrikleri övmesi
-bkz bakara makara iyi güldük bugün
-bkz oz büyücündeki içi saman dolu adam vs star warstaki siyah teneke
-bkz osman kavalanın kavatlıkları
-bkz atakan kayaların atayızım açıklması
-bkz mamutlar allaha inanmıyormuydu sorunsalı
-bkz samanlık seyran olunca gönüller bir olurmuş
-bkz aleyna tilki konseri sonrası ortaköye kumpir yemeye gitmek
-bkz saman alevi gibi sönen gümnümüz aşkları
-bkz kuma olmayı reddeden karıyı chp kadın kongresinde görmek
-bkz hz mahmut güneşi yardı yalanı
-bkz erdoğanizmin güneş gibi doğması
-bkz celal kılışdaroğlanın ak partiye geçmesi
-bkz kemal kılıçdaroğlanın dersimin hesabını vereceksiniz it oğlu itler demesi
-bkz astsubayın aşağılık kompkleksine girip karısını öldürmesi
-bkz kılışdaroğlunun dersimin hesabını verceksiniz demesi
-bkz eren erdemin vekil incenin bacağını ısırması
-bkz ibb'nin pkk lı değnekçilerinin değnek satması
-bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
-bkz buna kim inanır justin believer
-bkz kamalcılıktan aldığım keyfi osman kavaladan almadım
-bkz solcuların osman kavala'yı övmesi
-bkz osman kavalaya özenirsen kamalcılar gibi olaman diyen kamalcı
-bkz osman kavala kavattı diyen kamalcı
-bkz türklerin sürekli birbirlerini aşağılaması
-bkz ibb'nin pkk lı değnekçileri
-bkz şakirt komünist vs burjuva kamalıst
-bkz günlük gülme limitimin dolması
-bkz burcuva kamalcıların fakir komünistlerle daşşak geçmesi
-bkz tezer özlünün hiç tezinin olmaması
-bkz kaypakkayanın tezlerinin cambride te okutulması
-bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
-bkz say lan diyince ismail saymazın ne sayacam yaa demesi
-bkz ahmet hakanın ekranı dörde böülp arkayı beşlemesi
-bkz kaynak olarak eski akiti göstermek
-bkz mehmet akif ersoyun yobaz olduğu gerçeği
-bkz necip fazıl kısakürek in kamalcılara gavat demesi
-bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
-bkz orhan bence gay sorunsalı
--->
+
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 
