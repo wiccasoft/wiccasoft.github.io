@@ -1,14 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!-- 
-bkz emrahın koç ananı sikiyolar reklamı
-bkz en sevdiğim günah kibirdir kibir cahillikten doğar
-https://www.youtube.com/watch?v=KXnzNbuV84c 
-bkz tangır budun doğanın içi boş saman dolu beyni
-bkz tangır budun doğanın saman üretelim dünyaya satalım önerisi
-bkz rte nin apple ları tangır budun doğan üretsin önerisi
-https://www.uludagsozluk.com/k/rte-nin-saman-ithal-etmiyoruz-yalan%C4%B1/ bkz papağan ithal ediyoruz -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
