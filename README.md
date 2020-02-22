@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz tangır budun doğanın gerizekalı olduğu gerçeği
 bkz rte nin apple ları tangır budun doğan üretsin önerisi
 https://www.uludagsozluk.com/k/rte-nin-saman-ithal-etmiyoruz-yalan%C4%B1/ bkz papağan ithal ediyoruz -->
 
