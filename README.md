@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz bakara makara iyi kakara yaptık 
+bkz bakara makarna iyi kakara yaptık he henşler
 bkz makarna dağıtılan genşlerin şenlenmesi
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
 
