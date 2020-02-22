@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+bkz erdoğanı fenerbahçe alalım iyi aşırtma goller atıyo kerata
 bkz maç izlerken şehitlerimiz var maç izliyosun diyen karıyı annesine yollamak
 https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg soyadı komikmiş kaleci mi bu ibne
 https://www.uludagsozluk.com/k/u%C4%9Furcan-%C3%A7ak%C4%B1r/&w=bg bkz çöp tenekesi
