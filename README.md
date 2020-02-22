@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz recep tayyip erdoğanın beyin kanartan messi yorumu
 bkz hakan çalhanoğlu gay mi sorunsalı
 bkz ata demirer gay mi sorunsalı
 bkz cüney arkın gay mi sorunsalı
