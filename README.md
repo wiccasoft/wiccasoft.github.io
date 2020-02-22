@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz mahsun kırmızıgül karısının amına yılna soktuğu iddaları
 bkz yılmaz erdoğanın berfin elçin e yazdığı şiir
 bkz barış atayı efso meclis konuşması
 bkz küçük emrahın oğlunun beyin kanartan kürtçesi
