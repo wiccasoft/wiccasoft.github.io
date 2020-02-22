@@ -3,7 +3,7 @@
 
 <!--
 bkz kamala özenirsen sonun dünya lideri olmak olur
-bkz abarış atayın atanamayan örtmenler gitsin çobanlık yapsın demesi
+bkz barış atayın atanamayan örtmenler gitsin çobanlık yapsın demesi
 bkz ibrahim kaypakkaya nın kamalcılara kaypak demesi
 bkz gbt neden hep kürtlere yapılıyo sorunsalı
 bkz bahçelininn iyi kürt ölü kürttür demesi
