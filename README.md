@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz burak yılmazın adam mısın diye bağıran topu sakinleştirmesi
 bkz rus ordusunun başını kaç günde alırız diye düşünene ak nonoş
 bkz topsun olm top tamam mı diyip yumruk atmaya çalışan ak nonoşu kafasını avuçlayıp sakinleştirmek
 bkz makarna dağıtılan ak nonoşların şahsıma top demesi
