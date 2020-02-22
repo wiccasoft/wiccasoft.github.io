@@ -4,12 +4,7 @@
 <!--
 https://galeri.uludagsozluk.com/r/h%C3%BCseyin-cim%C5%9Fir-15650/ bkz son gelen sperm bakışı
 https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg bkz şişirdiniz bu ibneyi götünüze kına yakın amk
-bkz ben zaten gürcüyüm eşim de arap o yüzden türk askerleri skimde bile değil
-bkz erdoğanı fenerbahçe alalım iyi aşırtma goller atıyo kerata
-bkz maç izlerken şehitlerimiz var maç izliyosun diyen karıyı annesine yollamak
-https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg soyadı komikmiş kaleci mi bu ibne
 https://www.uludagsozluk.com/k/u%C4%9Furcan-%C3%A7ak%C4%B1r/&w=bg bkz çöp tenekesi
-bkz gözleri şehit şeklinde gülen surat
 https://www.uludagsozluk.com/k/%C5%9Fehitlerimiz-varken-tatil-yapan-ibb-ba%C5%9Fkan%C4%B1/ mutlumusun ekrem -->
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
