@@ -3,7 +3,7 @@
 
 <!--
 https://galeri.uludagsozluk.com/r/h%C3%BCseyin-cim%C5%9Fir-15650/ bkz son gelen sperm bakışı
-https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg bkz şişirdiniz bu ibneyi koşmuyo
+https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg bkz şişirdiniz bu ibneyi götünüze kına yakın amk
 bkz ben zaten gürcüyüm eşim de arap o yüzden türk askerleri skimde bile değil
 bkz erdoğanı fenerbahçe alalım iyi aşırtma goller atıyo kerata
 bkz maç izlerken şehitlerimiz var maç izliyosun diyen karıyı annesine yollamak
