@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/a101-kasiyeri-vs-bim-kasiyeri/&w=bg
-https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg
+https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg bkz neymarın götüyle gülmesi
 https://www.uludagsozluk.com/k/yeni-akit-i-kaynak-olarak-kabul-etmeyen-kemalist/
 https://www.uludagsozluk.com/k/necmettin-erbakan-fethullah-g%C3%BClen-samimiyeti/
 bkz zaman zaman uzaklara dalıp putin o maaşla nasıl geçniyor diye düşünmek
