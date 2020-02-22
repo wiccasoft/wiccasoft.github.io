@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+https://galeri.uludagsozluk.com/r/h%C3%BCseyin-cim%C5%9Fir-15650/ tipe bak amk asdasdasd
 https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg bkz şişirdiniz bu ibneyi koşmuyo
 bkz ben zaten gürcüyüm eşim de arap o yüzden türk askerleri skimde bile değil
 bkz erdoğanı fenerbahçe alalım iyi aşırtma goller atıyo kerata
