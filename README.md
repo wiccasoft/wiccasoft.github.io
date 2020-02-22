@@ -3,7 +3,7 @@
 
 <!--
 bkz rte nin 3 kelleyi ağlara gömmesi
-bkz kelle duyarı kasanların kulağına messi demek
+bkz kelle duyarı kasanların kulağına it's the football thats the game demek
 https://galeri.uludagsozluk.com/r/h%C3%BCseyin-cim%C5%9Fir-15650/ bkz son gelen sperm bakışı
 https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg bkz şişirdiniz bu ibneyi götünüze kına yakın amk
 https://www.uludagsozluk.com/k/u%C4%9Furcan-%C3%A7ak%C4%B1r/&w=bg bkz çöp tenekesi
