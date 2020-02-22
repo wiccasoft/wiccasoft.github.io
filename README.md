@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz tayyip budun doğanın pkk dostumuz demesi
 bkz şey sait isyanının başlaması
 bkz rte nin doğu gutaya saman yollaması
 bkz kılışoğlanın rte saman kafalı demesi
