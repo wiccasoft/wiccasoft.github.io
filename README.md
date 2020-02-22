@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz kamala özenirsen sonun dünya lideri olmak olur
 bkz abarış atayın atanamayan örtmenler gitsin çobanlık yapsın demesi
 bkz ibrahim kaypakkaya nın kamalcılara kaypak demesi
 bkz gbt neden hep kürtlere yapılıyo sorunsalı
