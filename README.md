@@ -1,9 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
-<!-- 
-bkz mustafa kapı vs alexander sörlöth
-https://www.uludagsozluk.com/k/ahmet-kaya-denince-akla-gelenler/&w=gd kafasına sıkan şişman bir kürt -->
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
