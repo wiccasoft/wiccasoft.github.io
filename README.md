@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
-bkz barış atayın erfso meclis konuşması
+bkz bahçelininn iyi kürt ölü kürttür demesi
 bkz ferdi tayfur muazze ersoyu neden dövdü sorunsalı
 bkz mahsun kırmızıgül karısının amına yılna soktuğu iddaları
 bkz yılmaz erdoğanın berfin elçin e yazdığı şiir
