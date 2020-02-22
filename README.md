@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz atacücünün içi saman dolu korkuluk yapması
 bkz amerikanın içi saman dolu patriot yollaması
 bkz rusların s400 istediniz de vermedik mi demesi
 bkz tangır budun doğanın apple ithal etmiyosunuz yalanı
