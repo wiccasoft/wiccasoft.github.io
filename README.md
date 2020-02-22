@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz yıldız tilbenin sezen aksuya ne diyosun lan değişik demesi
 bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
 bkz say lan diyince ismail saymazın ne sayacam yaa demesi
 bkz ahmet hakanın ekranı dörde böülp arkayı beşlemesi
