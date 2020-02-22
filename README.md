@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz kılışdaroğlunun dersimin hesabını verceksiniz demesi
 bkz eren erdemin vekil incenin bacağını ısırması
 bkz ibb'nin pkk lı değnekçilerinin değnek satması
 bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
