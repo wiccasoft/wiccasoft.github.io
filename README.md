@@ -3,6 +3,8 @@
 
 <!--
 bkz günlük gülme limitimin dolması
+bkz tezer özlünün hiç tezinin olmaması
+bkz kaypakkayanın tezlerinin cambride te okutulması
 bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
 bkz say lan diyince ismail saymazın ne sayacam yaa demesi
 bkz ahmet hakanın ekranı dörde böülp arkayı beşlemesi
