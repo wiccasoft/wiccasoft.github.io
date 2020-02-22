@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz orduyu doğu gutaya sürüp keyif yapmak
 bkz aslan akbeyin orduyu feshedelim önerisi
 bkz 3 ineğin daha şehit olması
 bkz 21 şubat 3. osmanlı rus harbinin güldürmesi
