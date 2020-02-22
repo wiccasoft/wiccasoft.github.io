@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz messi balonsa loiz suarez de mi balon sorunsalı
 bkz cüneyt arkının buzdolabına tekme atıp ayağının kırılması
 bkz rte nin messi ye balon demesi
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg ronaldo siker atar aga 
