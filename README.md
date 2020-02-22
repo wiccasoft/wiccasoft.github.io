@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+https://www.uludagsozluk.com/k/u%C4%9Furcan-%C3%A7ak%C4%B1r/&w=bg bkz çöp tenekesi
 bkz gözleri şehit şeklinde gülen surat
 https://www.uludagsozluk.com/k/%C5%9Fehitlerimiz-varken-tatil-yapan-ibb-ba%C5%9Fkan%C4%B1/ mutlumusun ekrem -->
 
