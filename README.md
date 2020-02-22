@@ -3,18 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!-- 
-bkz rte nin 3 tane topu kaleye gömmesi
-https://www.youtube.com/watch?v=aVxJzVjCWVc bkz rte nin aşırtma attığı gol
-bkz fetullah gülen neymar samimiyeti
-https://www.uludagsozluk.com/k/a101-kasiyeri-vs-bim-kasiyeri/&w=bg
-https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg bkz neymarın götüyle gülmesi
-https://www.uludagsozluk.com/k/yeni-akit-i-kaynak-olarak-kabul-etmeyen-kemalist/
-https://www.uludagsozluk.com/k/necmettin-erbakan-fethullah-g%C3%BClen-samimiyeti/
-bkz zaman zaman uzaklara dalıp putin o maaşla nasıl geçniyor diye düşünmek
-bkz bakara makara iyi kakara yaptık he henşler
-bkz makarna dağıtılan genşlerin şenlenmesi
-https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldüğü versus -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
