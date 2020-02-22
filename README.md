@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!-- https://www.uludagsozluk.com/k/rte-nin-saman-ithal-etmiyoruz-yalan%C4%B1/ bkz papağan ithal ediyoruz -->
+<!-- 
+bkz rte nin apple ları tangır budun doğanüretsin önerisi
+https://www.uludagsozluk.com/k/rte-nin-saman-ithal-etmiyoruz-yalan%C4%B1/ bkz papağan ithal ediyoruz -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
