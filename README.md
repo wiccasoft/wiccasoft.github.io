@@ -4,7 +4,6 @@
 <!--
 bkz müvekkilimin savunulacak hiç bi yanı yok diyen avukat
 bkz muhammedin mekkeli müşrikleri övmesi
-bkz rte nin incilicce kursuna yazılması
 bkz bakara makara iyi güldük bugün
 bkz oz büyücündeki içi saman dolu adam vs star warstaki siyah teneke
 bkz osman kavalanın kavatlıkları
