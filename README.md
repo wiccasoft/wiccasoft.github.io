@@ -3,7 +3,7 @@
 
 <!-- 
 bkz zaman zaman uzaklara dalıp putin o maaşla nasıl geçniyor diye düşünmek
-bkz bakara makarna iyi kakara yaptık he henşler
+bkz bakara makara iyi kakara yaptık he henşler
 bkz makarna dağıtılan genşlerin şenlenmesi
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
 
