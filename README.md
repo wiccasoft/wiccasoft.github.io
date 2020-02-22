@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+https://www.uludagsozluk.com/k/sadece-arap-%C3%A7%C4%B1karlar%C4%B1n%C4%B1-g%C3%B6zeten-tc-cumhurba%C5%9Fkan%C4%B1/
+https://www.uludagsozluk.com/k/ter%C3%B6rle-m%C3%BCcadele-deyip-ka%C3%A7ak-sigara-satt%C4%B1rmak/
 https://www.uludagsozluk.com/k/%C3%A7erkezlerdeki-g%C3%B6t-kalk%C4%B1kl%C4%B1%C4%9F%C4%B1/&w=gd 
 bkz rte nin osmanlı subayı iken suriyeye ayak basması
 bkz rte nin ikinci atacücü olduğu gerçeği
