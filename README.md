@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz darılan ak nonoşa kızma gel muhallebi ısmarlim diyip gönlünü almak
+bkz darılan ak nonoşu pilavlıya çağırıp hasbihal ederek gönlünü almak
 bkz ak nonoşların chpli toplardan daha hasssas olması
 bkz bu çocuk gay değil denilen çocuğun top çıkması
 bkz gelişine vurulan topun başlık açmaya gitmesi
