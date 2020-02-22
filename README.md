@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7erkezlerdeki-g%C3%B6t-kalk%C4%B1kl%C4%B1%C4%9F%C4%B1/&w=gd lol
 bkz rte nin osmanlı subayı iken suriyeye ayak basması
 bkz rte nin ikinci atacücü olduğu gerçeği
 bkz abuzer kömürcü vs walter white
