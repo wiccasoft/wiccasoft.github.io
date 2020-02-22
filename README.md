@@ -3,6 +3,7 @@
 
 <!--
 bkz günlük gülme limitimin dolması
+bkz ya lan söy le me göz ler in ele çin ki
 bkz yıldız tilbenin sezen aksuya ne diyosun lan değişik demesi
 bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
 bkz say lan diyince ismail saymazın ne sayacam yaa demesi
