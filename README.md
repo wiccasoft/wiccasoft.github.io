@@ -4,6 +4,7 @@
 <!--
 bkz mamutlar allaha inanmıyormuydu sorunsalı
 bkz samanlık seyran olunca gönüller bir olurmuş
+bkz aleyna tilki konserinde kuma olmayı reddeden kızı görmek
 bkz aleyna tilki konseri sonrası hatunla ortaköye kumpir yemeye gitmek
 bkz saman alevi gibi sönen gümnümüz aşkları
 bkz kuma olmayı reddeden karıyı chp kadın kongrsinde görmek
