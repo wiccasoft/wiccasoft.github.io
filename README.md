@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz emre morun oğlunun beyşn kanartan yorumu
+bkz ceren damarı siken adamın avukatı
 bkz tayyip budun doğanın pkk dostumuz demesi
 bkz şey sait isyanının başlaması
 bkz rte nin doğu gutaya saman yollaması
