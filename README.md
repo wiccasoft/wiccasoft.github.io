@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz uğur dündarın oğlunun rt yi almanyaya şikayet etmesi
 bkz can dündar vs uğur dündar
 bkz devleti gözünde çok büyüten boş teneke 
 bkz oz büyücüsündeki içi boş teneke vs darth vader
