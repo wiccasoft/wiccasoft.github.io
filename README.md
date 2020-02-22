@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz osman kavala kavattı diyen kamalcı
 bkz türklerin sürekli birbirlerini aşağılaması
 bkz ibb'nin pkk lı değnekçileri
 bkz şakirt komünist vs burjuva kamalıst
