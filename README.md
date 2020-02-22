@@ -1,15 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
-<!--
-https://www.uludagsozluk.com/k/rte-benim-cumhurba%C5%9Fkan%C4%B1m-de%C4%9Fildir/&w=bg adam gürcü zaten beyler
-https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglimm mümbiç dolan da gez oglimmm
-bkz şehitleyimiz vayken ne işin vardı amınoğlu orada demezler mi bana mı sordunuz a ibineler
-bkz kelle duyarı kasanların kulağına it's the football thats the game demek
-https://galeri.uludagsozluk.com/r/h%C3%BCseyin-cim%C5%9Fir-15650/ bkz son gelen sperm bakışı
-https://www.uludagsozluk.com/k/h%C3%BCseyin-cim%C5%9Fir/&w=bg bkz şişirdiniz bu ibneyi götünüze kına yakın amk
-https://www.uludagsozluk.com/k/u%C4%9Furcan-%C3%A7ak%C4%B1r/&w=bg bkz çöp tenekesi
-https://www.uludagsozluk.com/k/%C5%9Fehitlerimiz-varken-tatil-yapan-ibb-ba%C5%9Fkan%C4%B1/ mutlumusun ekrem -->
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
