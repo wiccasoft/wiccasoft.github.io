@@ -2,13 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
-bkz oz büyücündeki içi saman dolu adam vs star warstaki siyah içi boş teneke
-bkz müvekkilimin savunulacak bi yanı yok diyen avukat
-bkz tangır budun doğanın akpli olduğu zamanların ne çabuk geçmesi
-bkz tangır budun doğan vs recep tayyipten doğan
-bkz mersinli cihangirin tangır budun doğanla taşşak geçmesi
-bkz tangır budun doğanın doğu gutaya asker yollaması
-bkz atakna kayaların bakaraya makara demesi
+bkz oz büyücündeki içi saman dolu adam vs star warstaki siyah teneke
 bkz bakara makara iyi güldük bugün
 bkz osman kavalanın kavatlıkları
 bkz atakan kayaların atayızım açıklması
