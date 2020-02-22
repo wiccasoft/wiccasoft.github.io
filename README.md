@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
-bkz şehitleyimiz vayken ananın amı oç şehitlerin sokayım
+bkz şehitleyimiz vayken ananın amı oç şehitlerin sokayım bana mı sordunuz
 bkz rte nin gol olan oç larına bi kaç kelle demesi
 bkz futbol yan gelip yatma yeri değildir oç ları
 bkz rte nin 3 kelleyi ağlara gömmesi
