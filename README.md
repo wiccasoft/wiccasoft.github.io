@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
-bkz tangır budun doğanın apple ithal emiyosunuzyalanı
+bkz tangır budun doğanın apple ithal etmiyosunuz yalanı
 bkz tangır budun doğanın saman ithal etmiyosunuz yalanı
 bkz ahmet hakan vs shao khan
 -->
