@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz şehidimiz var diyen topa çok ta sikimdeydi amınoğlu ne işiniz var orada demek
 bkz darılan ak nonoşa bim pasta bim makarna yollayıp gönlünü almak
 bkz darılan ak nonoşu pilavlıya çağırıp hasbihal ederek gönlünü almak
 bkz ak nonoşların chpli toplardan daha hasssas olması
