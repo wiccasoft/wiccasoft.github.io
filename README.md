@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz benim daha komik başlık bulduğum gerçeği
 bkz müvekkilimin savunulacak hiç bi yanı yok diyen avukat
 bkz muhammedin mekkeli müşrikleri övmesi
 bkz bakara makara iyi güldük bugün
