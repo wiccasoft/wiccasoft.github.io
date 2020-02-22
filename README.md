@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz mersinli cihangirin tangır budun doğanla taşşak geçmesi
 bkz tangır budun doğanın doğu gutaya asker yollaması
 bkz atakna kayaların bakaraya makara demesi
 bkz bakara makara iyi güldük bugün
