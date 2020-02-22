@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz tangır budun doğanın kıpçak soyluyum kürtler gitsin demesi
+bkz tangır budun doğanın bunlar daha iyi günleri olması
 https://www.youtube.com/watch?v=KXnzNbuV84c 
 bkz tangır budun doğanın 10 yaşındaki beyni
 bkz tangır budun doğanın saman üretelim dünyaya satalım önerisi
