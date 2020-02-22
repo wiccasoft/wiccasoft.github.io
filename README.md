@@ -5,7 +5,7 @@
 bkz tangır budun doğan ı köyüne yolluyoruz kampanyası
 bkz köydeki tarlayı satıp şehire yerleşen kamalcı bilmişliği
 bkz kamalcılara özenirsen sonun saman ithal etmek olur
-bkz putine o maaşla nasıl geçinoysun diyen mj
+bkz zaman zaman putin o maaşla nasıl geçinoyor diye düşünmek
 bkz oz büyücüsündeki içi boş teneke vs darth vader
 bkz amerikanın içi saman dolu patriot yollaması
 bkz rusların s400 istediniz de vermedik mi demesi
