@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz unesco ödülü bile olmayan ezik belediyeler
 bkz mamutlar allaha inanmıyormuydu sorunsalı
 bkz samanlık seyran olunca gönüller bir olurmuş
 bkz aleyna tilki konserinde kuma olmayı reddeden kızı görmek
