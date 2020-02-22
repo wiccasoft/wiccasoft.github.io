@@ -1,10 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
-<!--- 
-bkz 23 şubat 2020 mustafa kapının fenere döşeyeceği boru
-https://www.uludagsozluk.com/k/%C5%9Fehitlerimiz-varken-tatil-yapan-ibb-ba%C5%9Fkan%C4%B1/ -->
-
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
