@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz muhammedin platonun mağara alegorisin çalıp kendi kitabını koyması
 bkz muhammed mağarada okuma öğrendi yalanı
 bkz burak yılmazın adam mısın diye bağıran topu sakinleştirmesi
 bkz rus ordusunun başını kaç günde alırız diye düşünene ak nonoş
