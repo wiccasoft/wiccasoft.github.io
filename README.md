@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz rte nin osmanlı subayı olduğu gerçeği
 bkz rte nin ikinci atacücü olduğu gerçeği
 bkz abuzer kömürcü vs walter white
 bkz müvekkilimin savunulacak hiç bi yanı yok diyen avukat
