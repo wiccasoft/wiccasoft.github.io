@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz baka makara iki karara yaptık ha genşler 
+bkz şaka maka masdaka bakara makara iki kakara yaptık ha genşler 
 bkz şehidimiz var diyen topa çok ta sikimdeydi amınoğlu ne işiniz var orada demek
 bkz darılan ak nonoşa bim pasta bim makarna yollayıp gönlünü almak
 bkz darılan ak nonoşu pilavlıya çağırıp hasbihal ederek gönlünü almak
