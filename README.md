@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
-bkz kamalcıların aynı zamandan che gueveracı olması
-bkz insan merkezli ideolojilerin çok aptalca olduğu gerçeği
+bkz müvekkilimin savunulacak hiç bi yanı yok diyen avukat
 bkz muhammedin mekkeli müşrikleri övmesi
 bkz rte nin incilicce kursuna yazılması
 bkz bakara makara iyi güldük bugün
