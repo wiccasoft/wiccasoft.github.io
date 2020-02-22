@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz messi ronaldo kavga ederekn uzaklara dalıp ne amele tipler demek
+bkz messi ronaldo kavga ederken uzaklara dalıp ne amele tipler demek
 bkz zaman zaman uzaklara dalıp putin o maaşla nasıl geçniyor diye düşünmek
 bkz bakara makara iyi kakara yaptık he henşler
 bkz makarna dağıtılan genşlerin şenlenmesi
