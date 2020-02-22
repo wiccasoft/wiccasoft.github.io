@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz bu çocuk gay değil denilen çocuğun top çıkması
 https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ne diyin lan top
 bkz top olduğunun farkında olmayan toplar
 https://www.uludagsozluk.com/k/gaylere-top-denildi%C4%9Fi-zaman-a%C5%9F%C4%B1r%C4%B1-hassasla%C5%9Fmalar%C4%B1/ 
