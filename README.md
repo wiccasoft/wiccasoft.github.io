@@ -1,25 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!-- 
-bkz muhammedin platonun mağara alegorisin çalıp kendi kitabına koyması
-bkz muhammed mağarada okuma öğrendi yalanı
-bkz burak yılmazın adam mısın diye bağıran topu sakinleştirmesi
-bkz rus ordusunun başını kaç günde alırız diye düşünene ak nonoş
-bkz topsun olm top tamam mı diyip yumruk atmaya çalışan ak nonoşu kafasını avuçlayıp sakinleştirmek
-bkz makarna dağıtılan ak nonoşların şahsıma top demesi
-bkz şaka maka madafaka bakara makara iki kakara yaptık ha genşler 
-bkz şehidimiz var diyen topa çok ta sikimdeydi amınoğlu ne işiniz var orada demek
-bkz darılan ak nonoşa bim pasta bim makarna yollayıp gönlünü almak
-bkz darılan ak nonoşu pilavlıya çağırıp hasbihal ederek gönlünü almak
-bkz ak nonoşların chpli toplardan daha hasssas olması
-bkz bu çocuk gay değil denilen çocuğun top çıkması
-bkz gelişine vurulan topun başlık açmaya gitmesi
-bkz top olduğunun farkında olmayan toplar
-bkz sikersin aldırmaz da top dersin başlık açar
-https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ne diyin lan top
-https://www.uludagsozluk.com/k/gaylere-top-denildi%C4%9Fi-zaman-a%C5%9F%C4%B1r%C4%B1-hassasla%C5%9Fmalar%C4%B1/ 
- -->
+
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
