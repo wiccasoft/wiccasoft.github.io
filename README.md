@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz müvekkilimin savunulacak bi yanı yok diyen avukat
 bkz tangır budun doğanın akpli olduğu zamanların ne çabuk geçmesi
 bkz tangır budun doğan vs recep tayyipten doğan
 bkz mersinli cihangirin tangır budun doğanla taşşak geçmesi
