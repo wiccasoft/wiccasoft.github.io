@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz kamala özenirsen kafanın içi saman dolu korkuluk olursun
 bkz tangır budun doğan ı köyüne yolluyoruz kampanyası
 bkz köydeki tarlayı satıp şehire yerleşen kamalcı bilmişliği
 bkz kamalcılara özenirsen sonun saman ithal etmek olur
