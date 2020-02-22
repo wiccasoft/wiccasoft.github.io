@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz devleti gözünde çok büyüten boş teneke 
 bkz oz büyücüsündeki içi boş teneke vs darth vader
 bkz amerikanın içi saman dolu patriot yollaması
 bkz rusların s400 istediniz de vermedik mi demesi
