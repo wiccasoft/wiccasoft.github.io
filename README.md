@@ -3,16 +3,6 @@
 
 <!-- 
 https://www.youtube.com/watch?v=aVxJzVjCWVc bkz rte nin aşırtma attığı gol
-https://www.uludagsozluk.com/k/a101-kasiyeri-vs-bim-kasiyeri/&w=bg bkz messi vs ronaldo
-bkz rte nni şifre sakndalından necmettin erbakanı sorunmlu tutması
-bkz recep tayyip erdoğanın beyin kanartan messi yorumu
-bkz hakan çalhanoğlu gay mi sorunsalı
-bkz ata demirer gay mi sorunsalı
-bkz cüney arkın gay mi sorunsalı
-bkz messi balonsa loiz suarez de mi balon sorunsalı
-bkz cüneyt arkının buzdolabına tekme atıp ayağının kırılması
-bkz rte nin messi ye balon demesi
-https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg ronaldo siker atar aga 
 bkz fetullah gülen neymar samimiyeti
 https://www.uludagsozluk.com/k/a101-kasiyeri-vs-bim-kasiyeri/&w=bg
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg bkz neymarın götüyle gülmesi
