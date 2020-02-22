@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz solcuların osman kavala'yı övmesi
 bkz osman kavalaya öznerisen kamalcılar gibi olaman diyen kamalcı
 bkz osman kavala kavattı diyen kamalcı
 bkz türklerin sürekli birbirlerini aşağılaması
