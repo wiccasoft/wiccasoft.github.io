@@ -1,36 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
-<!--
-bkz bakara makara iyi kakara yaptık
-bkz unesco ödülü bile olmayan ezik belediyeler
-bkz mamutlar allaha inanmıyormuydu sorunsalı
-bkz samanlık seyran olunca gönüller bir olurmuş
-bkz aleyna tilki konserinde kuma olmayı reddeden kızı görmek
-bkz aleyna tilki konseri sonrası hatunla ortaköye kumpir yemeye gitmek
-bkz saman alevi gibi sönen gümnümüz aşkları
-bkz kuma olmayı reddeden karıyı chp kadın kongrsinde görmek
-bkz hz mahmut güneşi yardı yalanı
-bkz erdoğanizmin güneş gibi doğması
-bkz celal kılışdaroğlanın ak partiye geçmesi
-bkz kemal kılıçdaroğlanın dersimin hesabını vereceksiniz it oğlu itler demesi
-bkz astsubayın aşağılık kompkleksine girip karısını öldürmesi
-bkz kılışdaroğlunun dersimin hesabını verceksiniz demesi
-bkz eren erdemin vekil incenin bacağını ısırması
-bkz solcuların osman kavala'yı övmesi
-bkz kamala özenirsen kafanın içi saman dolu korkuluk olursun
-bkz tangır budun doğan ı köyüne yolluyoruz kampanyası
-bkz köydeki tarlayı satıp şehire yerleşen kamalcı bilmişliği
-bkz kamalcılara özenirsen sonun saman ithal etmek olur
-bkz zaman zaman putin o maaşla nasıl geçiniyor diye düşünmek
-bkz oz büyücüsündeki içi boş teneke vs darth vader
-bkz amerikanın içi saman dolu patriot yollaması
-bkz rusların s400 istediniz de vermedik mi demesi
-bkz tangır budun doğanın apple ithal etmiyosunuz yalanı
-bkz tangır budun doğanın saman ithal etmiyosunuz yalanı
-bkz amerika ne istediyse vermeyen lider
-bkz ahmet hakan vs shao khan
--->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
