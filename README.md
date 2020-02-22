@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz mehmet akif ersoyun yobaz olduğu gerçeği
 bkz necip fazıl kısakürek in kamalcılara gavat demesi
 bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
 bkz orhan bence gay sorunsalı
