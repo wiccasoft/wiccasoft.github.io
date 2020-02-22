@@ -4,7 +4,6 @@
 <!-- 
 bkz bakara makara iyi kakara yaptık he
 bkz makarna dağıtılan genşlerin şenlenmesi
-bkz gözleri erdoğan şeklinde gülen nonoşun başlıklarını 5000 km öteden anlamak
 bkz m yavaşın imamaoğlana yavaş ol saçın başın dağılmasın demesi
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
 
