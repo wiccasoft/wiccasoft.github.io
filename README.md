@@ -1,6 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
+<!-- https://www.uludagsozluk.com/k/gaylere-top-denildi%C4%9Fi-zaman-a%C5%9F%C4%B1r%C4%B1-hassasla%C5%9Fmalar%C4%B1/ 
+bkz sikersin aldırmaz da top dersin kızar -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
