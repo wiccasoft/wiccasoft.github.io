@@ -14,45 +14,7 @@ bkz kemal kılıçdaroğlanın dersimin hesabını vereceksiniz it oğlu itler d
 bkz astsubayın aşağılık kompkleksine girip karısını öldürmesi
 bkz kılışdaroğlunun dersimin hesabını verceksiniz demesi
 bkz eren erdemin vekil incenin bacağını ısırması
-bkz ibb'nin pkk lı değnekçilerinin değnek satması
-bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
-bkz buna kim inanır justin believer
-bkz kamalcılıktan aldığım keyfi osman kavaladan almadım
 bkz solcuların osman kavala'yı övmesi
-bkz osman kavalaya özenirsen kamalcılar gibi olaman diyen kamalcı
-bkz osman kavala kavattı diyen kamalcı
-bkz türklerin sürekli birbirlerini aşağılaması
-bkz ibb'nin pkk lı değnekçileri
-bkz şakirt komünist vs burjuva kamalıst
-bkz günlük gülme limitimin dolması
-bkz burcuva kamalcıların fakir komünistlerle daşşak geçmesi
-bkz tezer özlünün hiç tezinin olmaması
-bkz kaypakkayanın tezlerinin cambride te okutulması
-bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
-bkz say lan diyince ismail saymazın ne sayacam yaa demesi
-bkz ahmet hakanın ekranı dörde böülp arkayı beşlemesi
-bkz kaynak olarak eski akiti göstermek
-bkz mehmet akif ersoyun yobaz olduğu gerçeği
-bkz necip fazıl kısakürek in kamalcılara gavat demesi
-bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
-bkz orhan bence gay sorunsalı
-bkz kaypakkayanın bakunin götelekti tezi
-bkz ibrahim kaypakkayanın kominstler kaypak tezi
-bkz kadir inanır neden şükran torayı dövdü sorunsalı
-bkz kamala özenirsen sonun dünya lideri olmak olur
-bkz barış atayın atanamayan örtmenler gitsin çobanlık yapsın demesi
-bkz ibrahim kaypakkaya nın kamalcılara kaypak demesi
-bkz gbt neden hep kürtlere yapılıyo sorunsalı
-bkz bahçelininn iyi kürt ölü kürttür demesi
-bkz ferdi tayfur muazze ersoyu neden dövdü sorunsalı
-bkz mahsun kırmızıgül karısının amına yılna soktuğu iddaları
-bkz yılmaz erdoğanın berfin elçin e yazdığı şiir
-bkz barış atayı efso meclis konuşması
-bkz küçük emrahın oğlunun beyin kanartan kürtçesi
-bkz yılmaz güney neden n çehre'yi dövdü sorunsalı
-bkz gbt sorguları neden hep eykekleye yapılıyo
-bz necip fazılın kerhane de ne işi vardı sorunsalı
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e-trib%C3%BCn%C3%BCnde-yank%C4%B1lanan-hasan-%C5%9Fa%C5%9F-bestesi/
 bkz kamala özenirsen kafanın içi saman dolu korkuluk olursun
 bkz tangır budun doğan ı köyüne yolluyoruz kampanyası
 bkz köydeki tarlayı satıp şehire yerleşen kamalcı bilmişliği
