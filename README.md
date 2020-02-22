@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+bkz futbol yan gelip yatma yeri değildir oç ları
 bkz rte nin 3 kelleyi ağlara gömmesi
 bkz kelle duyarı kasanların kulağına it's the football thats the game demek
 https://galeri.uludagsozluk.com/r/h%C3%BCseyin-cim%C5%9Fir-15650/ bkz son gelen sperm bakışı
