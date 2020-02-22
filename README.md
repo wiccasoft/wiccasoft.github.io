@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+https://www.uludagsozluk.com/k/yeni-akit-i-kaynak-olarak-kabul-etmeyen-kemalist/
 https://www.uludagsozluk.com/k/necmettin-erbakan-fethullah-g%C3%BClen-samimiyeti/
 bkz zaman zaman uzaklara dalıp putin o maaşla nasıl geçniyor diye düşünmek
 bkz bakara makara iyi kakara yaptık he henşler
