@@ -7,7 +7,6 @@ bkz en sevdiğim günah kibirdir kibir cahillikten doğar
 https://www.youtube.com/watch?v=KXnzNbuV84c 
 bkz tangır budun doğanın içi boş saman dolu beyni
 bkz tangır budun doğanın saman üretelim dünyaya satalım önerisi
-bkz tangır budun doğanın gerizekalı olduğu gerçeği
 bkz rte nin apple ları tangır budun doğan üretsin önerisi
 https://www.uludagsozluk.com/k/rte-nin-saman-ithal-etmiyoruz-yalan%C4%B1/ bkz papağan ithal ediyoruz -->
 
