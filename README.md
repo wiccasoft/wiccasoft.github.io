@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz m yavaşın imamaoğlana yavaş ol saçın başın dağılmasın demesi
 bkz trollük yapmayı beceremeyen oç
 https://www.uludagsozluk.com/k/ateistleri-d%C3%B6ve-d%C3%B6ve-m%C3%BCsl%C3%BCman-yapmak/&w=bg bkz sakin ol liseli
 bkz topsun olm top diye bağıran toplara makarna ısmarlayıp sakinleştirmek
