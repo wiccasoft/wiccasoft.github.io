@@ -3,7 +3,6 @@
 
 <!--
 bkz oz büyücüsündeki içi boş teneke vs darth vader
-bkz atacücünün içi saman dolu korkuluk yapması
 bkz amerikanın içi saman dolu patriot yollaması
 bkz rusların s400 istediniz de vermedik mi demesi
 bkz tangır budun doğanın apple ithal etmiyosunuz yalanı
