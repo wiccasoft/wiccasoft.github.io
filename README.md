@@ -4,12 +4,6 @@
 <!-- 
 bkz gözleri erdoğan şeklinde gülen nonoşun başlıkların 5000 km öteden anlamak
 bkz m yavaşın imamaoğlana yavaş ol saçın başın dağılmasın demesi
-bkz trollük yapmayı beceremeyen oç
-https://www.uludagsozluk.com/k/ateistleri-d%C3%B6ve-d%C3%B6ve-m%C3%BCsl%C3%BCman-yapmak/&w=bg bkz sakin ol liseli
-bkz topsun olm top diye bağıran toplara makarna ısmarlayıp sakinleştirmek
-bkz topsun olm top adam olsan müslüman olurdun diye bağrıan nonoşu sakinleştirmek
-bkz annenin de dediği gibi
-bkz rusyanın başını kaç saatte alırız hesabı yapan nonoşlar
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
