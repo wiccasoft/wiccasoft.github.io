@@ -4,7 +4,6 @@
 <!-- 
 bkz emrahın koç ananı sikiyolar reklamı
 bkz en sevdiğim günah kibirdir kibir cahillikten doğar
-bkz tangır budun doğanın bunlar daha iyi günleri olması
 https://www.youtube.com/watch?v=KXnzNbuV84c 
 bkz tangır budun doğanın içi boş saman dolu beyni
 bkz tangır budun doğanın saman üretelim dünyaya satalım önerisi
