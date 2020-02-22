@@ -4,7 +4,7 @@
 <!--
 bkz celal kılışdaroğlanın ak partiye geçmesi
 bkz kemal kılıçdaroğlanın dersimin hesabını vereceksiniz it oğlu itler demesi
-bkz astsubayın aşağılık kompkleksine girip intihar etmesi
+bkz astsubayın aşağılık kompkleksine girip karısını öldürmesi
 bkz kılışdaroğlunun dersimin hesabını verceksiniz demesi
 bkz eren erdemin vekil incenin bacağını ısırması
 bkz ibb'nin pkk lı değnekçilerinin değnek satması
