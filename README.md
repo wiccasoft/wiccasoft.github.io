@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz şehitlerimiz varken messiyi öven ümmet lideri
 bkz fetullah gülen neymar samimiyeti
 https://www.uludagsozluk.com/k/a101-kasiyeri-vs-bim-kasiyeri/&w=bg
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg bkz neymarın götüyle gülmesi
