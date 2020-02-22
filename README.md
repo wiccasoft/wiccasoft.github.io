@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz makara makara iyi kakara yaptık hadi ben kaçar
+bkz şaka maka ak göünller bir olduk iyi güldü he genşler
 bkz gözleri erdoğan şeklinde gülen nonoşun başlıklarını 5000 km öteden anlamak
 bkz m yavaşın imamaoğlana yavaş ol saçın başın dağılmasın demesi
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
