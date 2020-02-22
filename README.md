@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz bakara makara iyi kakara yaptık hadi ben kaçar
+bkz bakara makara iyi kakara yaptık he
 bkz şaka maka ak göünller bir olduk iyi güldü he genşler
 bkz gözleri erdoğan şeklinde gülen nonoşun başlıklarını 5000 km öteden anlamak
 bkz m yavaşın imamaoğlana yavaş ol saçın başın dağılmasın demesi
