@@ -3,7 +3,7 @@
 
 <!--
 bkz günlük gülme limitimin dolması
-bkz burcuja kamalcıların fakir komünistlerle daşşak geçmesi
+bkz burcuva kamalcıların fakir komünistlerle daşşak geçmesi
 bkz tezer özlünün hiç tezinin olmaması
 bkz kaypakkayanın tezlerinin cambride te okutulması
 bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
