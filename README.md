@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz kömür ve makaran dağıtılan ibnelerin top demesi
+bkz kömür ve makarna dağıtılan ibnelerin şahsıma top demesi
 bkz şaka maka madafaka bakara makara iki kakara yaptık ha genşler 
 bkz şehidimiz var diyen topa çok ta sikimdeydi amınoğlu ne işiniz var orada demek
 bkz darılan ak nonoşa bim pasta bim makarna yollayıp gönlünü almak
