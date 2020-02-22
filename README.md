@@ -3,6 +3,7 @@
 
 <!--
 bkz orhan bence gay sorunsalı
+bkz ibrahim kaypakkayanın kominstler kaypak tezi
 bkz kadir inanır neden şükran torayı dövdü sorunsalı
 bkz kamala özenirsen sonun dünya lideri olmak olur
 bkz barış atayın atanamayan örtmenler gitsin çobanlık yapsın demesi
