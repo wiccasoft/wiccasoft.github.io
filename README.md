@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz 21 şubat 3. osmanlı rus harbinin güldürmesi
 bkz messinin dripling yaparken yelelerinin süzülmesi
 https://www.uludagsozluk.com/k/lionel-messi/&w=bg
 https://www.uludagsozluk.com/k/sadece-arap-%C3%A7%C4%B1karlar%C4%B1n%C4%B1-g%C3%B6zeten-tc-cumhurba%C5%9Fkan%C4%B1/
