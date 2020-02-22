@@ -1,10 +1,41 @@
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
-
-<!-- 
-bkz atakan kayaların filozofluk okuluna gigdecem demesi
-https://www.youtube.com/watch?v=7DMDscGOUpg bkz kılıçoğlunun imamoğlana dersimin hesabını vereceksin demesi-->
-
+<!--
+bkz mamutlar allaha inanmıyormuydu sorunsalı
+bkz samanlık seyran olunca gönüller bir olurmuş
+bkz aleyna tilki konseri sonrası ortaköye kumpir yemeye gitmek
+bkz saman alevi gibi sönen gümnümüz aşkları
+bkz kuma olmayı reddeden karıyı chp kadın kongrsinde görmek
+bkz hz mahmut güneşi yardı yalanı
+bkz erdoğanizmin güneş gibi doğması
+bkz celal kılışdaroğlanın ak partiye geçmesi
+bkz kemal kılıçdaroğlanın dersimin hesabını vereceksiniz it oğlu itler demesi
+bkz astsubayın aşağılık kompkleksine girip karısını öldürmesi
+bkz kılışdaroğlunun dersimin hesabını verceksiniz demesi
+bkz eren erdemin vekil incenin bacağını ısırması
+bkz ibb'nin pkk lı değnekçilerinin değnek satması
+bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
+bkz buna kim inanır justin believer
+bkz kamalcılıktan aldığım keyfi osman kavaladan almadım
+bkz solcuların osman kavala'yı övmesi
+bkz osman kavalaya özenirsen kamalcılar gibi olaman diyen kamalcı
+bkz osman kavala kavattı diyen kamalcı
+bkz türklerin sürekli birbirlerini aşağılaması
+bkz ibb'nin pkk lı değnekçileri
+bkz şakirt komünist vs burjuva kamalıst
+bkz günlük gülme limitimin dolması
+bkz burcuva kamalcıların fakir komünistlerle daşşak geçmesi
+bkz tezer özlünün hiç tezinin olmaması
+bkz kaypakkayanın tezlerinin cambride te okutulması
+bkz ahmet hakanın arkayı beşleyelim arkadan vermeyen kalmasın demesi
+bkz say lan diyince ismail saymazın ne sayacam yaa demesi
+bkz ahmet hakanın ekranı dörde böülp arkayı beşlemesi
+bkz kaynak olarak eski akiti göstermek
+bkz mehmet akif ersoyun yobaz olduğu gerçeği
+bkz necip fazıl kısakürek in kamalcılara gavat demesi
+bkz chp'li engin özkoç'un fetöcü imamla diyaloğu
+bkz orhan bence gay sorunsalı
+-->
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
 
