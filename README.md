@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz türklerin sürekli birbirleriye kavga etmesi
 bkz ibb'nin pkk lı değnekçileri
 bkz şakirt komünist vs burjuva kamalıst
 bkz günlük gülme limitimin dolması
