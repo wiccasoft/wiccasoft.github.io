@@ -3,7 +3,6 @@
 
 <!--
 bkz abuzer kömürcü vs walter white
-bkz ata demirer atalay kayalar dosluğu
 bkz müvekkilimin savunulacak hiç bi yanı yok diyen avukat
 bkz muhammedin mekkeli müşrikleri övmesi
 bkz bakara makara iyi güldük bugün
