@@ -2,9 +2,8 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
-bkz bakara makara iyi kakara yaptık he
+bkz bakara makara iyi kakara yaptık 
 bkz makarna dağıtılan genşlerin şenlenmesi
-bkz m yavaşın imamaoğlana yavaş ol saçın başın dağılmasın demesi
 https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
