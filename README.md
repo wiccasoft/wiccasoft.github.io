@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz tangır budun doğanın 10 yaşındaki beyni
 bkz tangır budun doğanın saman üretelim dünyaya satalım önerisi
 bkz tangır budun doğanın gerizekalı olduğu gerçeği
 bkz rte nin apple ları tangır budun doğan üretsin önerisi
