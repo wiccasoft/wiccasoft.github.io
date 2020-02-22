@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz kadir inanır neden şükran torayı dövdü sorunsalı
 bkz kamala özenirsen sonun dünya lideri olmak olur
 bkz barış atayın atanamayan örtmenler gitsin çobanlık yapsın demesi
 bkz ibrahim kaypakkaya nın kamalcılara kaypak demesi
