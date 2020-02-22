@@ -3,6 +3,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=6YUw7_q33Zs bkz ne diyin lan top
+bkz top olduğunun farkında olmayan toplar
 https://www.uludagsozluk.com/k/gaylere-top-denildi%C4%9Fi-zaman-a%C5%9F%C4%B1r%C4%B1-hassasla%C5%9Fmalar%C4%B1/ 
 https://www.uludagsozluk.com/k/gaylere-top-denildi%C4%9Fi-zaman-a%C5%9F%C4%B1r%C4%B1-hassasla%C5%9Fmalar%C4%B1/ 
 bkz sikersin aldırmaz da top dersin kızar -->
