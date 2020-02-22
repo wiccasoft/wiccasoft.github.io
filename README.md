@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bz necip fazılın kerhane de ne işi vardı sorunsalı
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-trib%C3%BCn%C3%BCnde-yank%C4%B1lanan-hasan-%C5%9Fa%C5%9F-bestesi/
 bkz kamala özenirsen kafanın içi saman dolu korkuluk olursun
 bkz tangır budun doğan ı köyüne yolluyoruz kampanyası
 bkz köydeki tarlayı satıp şehire yerleşen kamalcı bilmişliği
