@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz insan merkezli ideolojilerin çok aptalca olduğu gerçeği
 bkz muhammedin mekkeli müşrikleri övmesi
 bkz rte nin incilicce kursuna yazılması
 bkz bakara makara iyi güldük bugün
