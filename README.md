@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz saman alevi gibi sönen gümnümüz aşkları
 bkz kuma olmayı reddeden karıyı chp kadın kongrsinde görmek
 bkz hz mahmut güneşi yardı yalanı
 bkz erdoğanizmin güneş gibi doğması
