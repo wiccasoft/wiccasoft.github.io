@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz ata demirer gay mi sorunsalı
 bkz cüney arkın gay mi sorunsalı
 bkz messi balonsa loiz suarez de mi balon sorunsalı
 bkz cüneyt arkının buzdolabına tekme atıp ayağının kırılması
