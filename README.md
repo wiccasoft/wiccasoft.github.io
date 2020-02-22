@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz tangır budun doğanın saman üretelim önerisi
 bkz tangır budunu doğanın üreteceği apple a isim önerileri
 bkz tangır budunun doğanın oğluna sorulan soru
 bkz tangır budun doğanın gerizekalı olduğu gerçeği
