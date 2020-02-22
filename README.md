@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+https://www.uludagsozluk.com/k/rte-benim-cumhurba%C5%9Fkan%C4%B1m-de%C4%9Fildir/&w=bg adam gürcü zaten beyler
 https://www.youtube.com/watch?v=2V7jLQgW4mk ez oglimm mümbç dolan da gez oglimmm
 bkz şehitleyimiz vayken ne işin vardı amınoğlu orada demezler mi bana mı sordunuz a ibineler
 bkz kelle duyarı kasanların kulağına it's the football thats the game demek
