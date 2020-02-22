@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz rte nin 3 tane topu kaleye gömmesi
 https://www.youtube.com/watch?v=aVxJzVjCWVc bkz rte nin aşırtma attığı gol
 bkz fetullah gülen neymar samimiyeti
 https://www.uludagsozluk.com/k/a101-kasiyeri-vs-bim-kasiyeri/&w=bg
