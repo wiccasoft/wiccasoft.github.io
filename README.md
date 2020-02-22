@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!-- 
+bkz emrahın koç ananı sikiyolar reklamı
 bkz en sevdiğim günah kibirdir kibir cahillikten doğar
 bkz tangır budun doğanın bunlar daha iyi günleri olması
 https://www.youtube.com/watch?v=KXnzNbuV84c 
