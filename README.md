@@ -4,8 +4,6 @@
 <!--
 bkz kamalcılara özenirsen sonun saman ithal etmek olur
 bkz putine o maaşla nasıl geçinoysun diyen mj
-bkz can dündar vs uğur dündar
-bkz devleti gözünde çok büyüten boş teneke 
 bkz oz büyücüsündeki içi boş teneke vs darth vader
 bkz amerikanın içi saman dolu patriot yollaması
 bkz rusların s400 istediniz de vermedik mi demesi
