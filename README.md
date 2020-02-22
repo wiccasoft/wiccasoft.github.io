@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz ahmet hakan vs shao khan
 bkz michael jordanın rus türk savaşaında suudları tutması
 bkz suudilerin rus savaşına asker göndeririz demesi
 bkz emre morun oğlunun beyşn kanartan yorumu
