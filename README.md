@@ -9,7 +9,7 @@ https://www.uludagsozluk.com/k/necmettin-erbakan-fethullah-g%C3%BClen-samimiyeti
 bkz zaman zaman uzaklara dalıp putin o maaşla nasıl geçniyor diye düşünmek
 bkz bakara makara iyi kakara yaptık he henşler
 bkz makarna dağıtılan genşlerin şenlenmesi
-https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldürğü versus -->
+https://www.uludagsozluk.com/k/cristiano-ronaldo-vs-lionel-messi/&w=bg suarezin götüyle güldüğü versus -->
 
 [![Image](waste/Screenshot_2020-02-20_12-54-13.png)]( https://www.youtube.com/watch?v=zeMlOQsu2zM  )
 
