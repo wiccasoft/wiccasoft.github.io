@@ -5,7 +5,7 @@
 bkz en sevdiğim günah kibirdir kibir cahillikten doğar
 bkz tangır budun doğanın bunlar daha iyi günleri olması
 https://www.youtube.com/watch?v=KXnzNbuV84c 
-bkz tangır budun doğanın 10 yaşındaki beyni
+bkz tangır budun doğanın içi boş saman dolu beyni
 bkz tangır budun doğanın saman üretelim dünyaya satalım önerisi
 bkz tangır budun doğanın gerizekalı olduğu gerçeği
 bkz rte nin apple ları tangır budun doğan üretsin önerisi
