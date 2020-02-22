@@ -2,6 +2,10 @@
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
 <!--
+bkz barış atayı efso meclis konuşması
+bkz küçük emrahın oğlunun beyin kanartan kürtçesi
+bkz yılmaz güney neden n çehre'yi dövdü sorunsalı
+bkz gbt sorguları neden hep eykekleye yapılıyo
 bz necip fazılın kerhane de ne işi vardı sorunsalı
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-trib%C3%BCn%C3%BCnde-yank%C4%B1lanan-hasan-%C5%9Fa%C5%9F-bestesi/
 bkz kamala özenirsen kafanın içi saman dolu korkuluk olursun
