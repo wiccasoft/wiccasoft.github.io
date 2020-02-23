@@ -7,6 +7,7 @@
 <!-- 
 bkz trap zone şampiyon olacak diye kuduran kitle
 https://www.uludagsozluk.com/k/fenerin-yeni-kocas%C4%B1-kim-olacak/
+https://www.uludagsozluk.com/k/21-y%C4%B1lda-bir-galibiyet-ald%C4%B1-diye-kuduran-kitle/
 https://www.uludagsozluk.com/k/trib%C3%BCndeki-koltu%C4%9Fa-kafa-atan-fenerli/&w=gd zuhahaha
 https://www.youtube.com/watch?v=9sPHaPhBhzU
 bkz damadın fenerbahçe düşmanlığı
