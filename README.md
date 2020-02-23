@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!-- 
+https://www.uludagsozluk.com/k/trib%C3%BCndeki-koltu%C4%9Fa-kafa-atan-fenerli/&w=gd zuhahaha
 https://www.youtube.com/watch?v=9sPHaPhBhzU
 bkz damadın fenerbahçe düşmanlığı
 https://www.uludagsozluk.com/e/42901103/ 
