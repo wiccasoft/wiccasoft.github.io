@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!-- 
+https://www.youtube.com/watch?v=9sPHaPhBhzU
 bkz damadın fenerbahçe düşmanlığı
 https://www.uludagsozluk.com/e/42901103/ 
 bkz bunlar babadan oğula nesil heralde bunlar
