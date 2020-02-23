@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!-- 
-https://www.uludagsozluk.com/e/42902379/ yav he he
+bkz damadın paralı köpekleri yine kudurmuş
 bkz trap zone şampiyon olacak diye kuduran kitle
 https://www.uludagsozluk.com/k/fenerin-yeni-kocas%C4%B1-kim-olacak/
 https://www.uludagsozluk.com/k/21-y%C4%B1lda-bir-galibiyet-ald%C4%B1-diye-kuduran-kitle/
