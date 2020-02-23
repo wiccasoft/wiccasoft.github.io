@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
+<!-- https://www.uludagsozluk.com/k/4-ya%C5%9F%C4%B1nda-haf%C4%B1z-olan-minik-l%C3%BCtfiye/&w=gd yengeniz olur -->
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
