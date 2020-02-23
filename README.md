@@ -8,6 +8,7 @@
 https://www.uludagsozluk.com/e/42900758/ lol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
 bkz trap zone şampiyon olacak diye kuduran kitle
+https://eksisozluk.com/ali-kocun-taraftar-kovalamasi--6379430?a=popular&p=16
 https://mobile.twitter.com/Alkolikyorumlar/status/1231651979916726274 
 https://www.uludagsozluk.com/k/fenerin-yeni-kocas%C4%B1-kim-olacak/
 https://www.uludagsozluk.com/k/21-y%C4%B1lda-bir-galibiyet-ald%C4%B1-diye-kuduran-kitle/
