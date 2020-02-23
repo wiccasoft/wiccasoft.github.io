@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
-bkz damadın fenerbahçe düşmanlığının geldiği nokta
+bkz damadın fenerbahçe düşmanlığının türk futbolunu getirdiği nokta
 https://www.uludagsozluk.com/e/42900758/ lol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
 bkz trap zone şampiyon olacak diye kuduran kitle
