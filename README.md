@@ -5,6 +5,7 @@
 https://www.uludagsozluk.com/e/42898987/ lol
 https://www.uludagsozluk.com/k/fener-a%C4%9Flama/&w=bg
 https://www.uludagsozluk.com/k/kad%C4%B1nlara-pas-vermeyen-erkek/ bkz rıdvan
+https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-%C3%BC%C3%A7%C3%BCn-birini-almas%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/b%C4%B1rak%C4%B1n-futbolu-mutbolu-a%C3%A7%C4%B1n-biraz-kuran-okuyun/&w=bg
 https://www.uludagsozluk.com/k/4-ya%C5%9F%C4%B1nda-haf%C4%B1z-olan-minik-l%C3%BCtfiye/&w=gd yengeniz olur
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg onlar ne tatlı erkeklerdir
