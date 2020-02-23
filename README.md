@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!-- 
-bkz damadın fenerbahöe düşmanlığı
+bkz damadın fenerbahçe düşmanlığı
 https://www.uludagsozluk.com/e/42898987/ lol
 https://www.uludagsozluk.com/k/fener-a%C4%9Flama/&w=bg
 https://www.uludagsozluk.com/k/kad%C4%B1nlara-pas-vermeyen-erkek/ bkz rıdvan
