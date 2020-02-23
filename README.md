@@ -3,7 +3,6 @@
 
 <!-- 
 bkz damadın fenerbahçe düşmanlığı
-bkz damadın tuttuğu paralı köpekler
 https://www.uludagsozluk.com/e/42901103/ 
 bkz bunlar babadan oğula nesil heralde bunlar
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-taraftar%C4%B1n-aras%C4%B1na-atlamas%C4%B1/
