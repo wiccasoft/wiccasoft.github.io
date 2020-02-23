@@ -3,6 +3,8 @@
 
 <!-- 
 bkz damadın fenerbahçe düşmanlığı
+bkz bunlar babadan oğula nesil heralde bunlar
+bkz sivaslılar niye sivassporu tutumuyoru sorunsalı
 https://www.uludagsozluk.com/e/42898987/ lol
 https://www.uludagsozluk.com/k/fener-a%C4%9Flama/&w=bg
 https://www.uludagsozluk.com/k/kad%C4%B1nlara-pas-vermeyen-erkek/ bkz rıdvan
