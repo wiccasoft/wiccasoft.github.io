@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+bkz trap zone şampiyon olacak diye kuduran tiplerin güldürmesi
 https://www.uludagsozluk.com/k/arda-kural/&w=bg arda turanın iti
 https://eti-cin-baba.uludagsozluk.com/ gavat sarayın paralı iti
 bkz damadın fenerbahçe düşmanlığının türk futbolunu getirdiği nokta
