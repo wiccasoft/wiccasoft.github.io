@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol
 https://www.uludagsozluk.com/e/42900758/ lol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
 bkz trap zone şampiyon olacak diye kuduran kitle
