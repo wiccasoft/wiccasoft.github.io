@@ -6,7 +6,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/arda-kural/&w=bg arda turanın iti
-https://eti-cin-baba.uludagsozluk.com/ gavat sarayın paralı itleri
+https://eti-cin-baba.uludagsozluk.com/ gavat sarayın paralı iti
 bkz damadın fenerbahçe düşmanlığının türk futbolunu getirdiği nokta
 https://www.uludagsozluk.com/e/42900758/ lol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
