@@ -5,10 +5,10 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz yaran isim soyisimler
 https://eksisozluk.com/ersun-yanal--126676?a=popular bkz mevzu fenerse gerisi teferruat reis
 https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz rakuna benzeyen yaratık
 https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz taklacı güvercin
-https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz yaran isim soyisimler
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol
 https://www.uludagsozluk.com/e/42900758/ lol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
