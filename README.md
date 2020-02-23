@@ -11,6 +11,7 @@ https://www.uludagsozluk.com/e/42901103/
 bkz bunlar babadan oğula nesil heralde bunlar
 https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-taraftar%C4%B1n-aras%C4%B1na-atlamas%C4%B1/
 https://www.uludagsozluk.com/k/fener-a%C4%9Flama/&w=bg
+https://twitter.com/futbolmerkez1/status/1110892893131165696
 https://www.uludagsozluk.com/k/kad%C4%B1nlara-pas-vermeyen-erkek/ bkz rıdvan
 https://www.uludagsozluk.com/k/ozan-tufan-%C4%B1n-halil-umut-meler-yorumu/ 
  -->
