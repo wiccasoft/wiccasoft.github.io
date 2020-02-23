@@ -5,6 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+https://www.uludagsozluk.com/k/arda-kural/&w=bg arda turanın iti
 https://eti-cin-baba.uludagsozluk.com/ gavat sarayın paralı itleri
 bkz damadın fenerbahçe düşmanlığının türk futbolunu getirdiği nokta
 https://www.uludagsozluk.com/e/42900758/ lol 
