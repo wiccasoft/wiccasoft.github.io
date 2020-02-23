@@ -4,6 +4,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42898987/ 
 https://www.uludagsozluk.com/k/4-ya%C5%9F%C4%B1nda-haf%C4%B1z-olan-minik-l%C3%BCtfiye/&w=gd yengeniz olur
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg onlar ne tatlı erkeklerdir
  -->
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
