@@ -5,7 +5,7 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
-https://eti-cin-baba.uludagsozluk.com/ sarayın paralı itleri
+https://eti-cin-baba.uludagsozluk.com/ gavat sarayın paralı itleri
 bkz damadın fenerbahçe düşmanlığının türk futbolunu getirdiği nokta
 https://www.uludagsozluk.com/e/42900758/ lol 
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
