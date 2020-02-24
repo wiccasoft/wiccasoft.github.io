@@ -3,6 +3,7 @@
 
 
 <!--
+bkz inna fatehna leke fethan mübina diyip götüne roket sokan genç
 bkz gazzede götüne roket kaçan gencin geyseli çıkması
 bkz geysenin güldüren arapçası
 bkz geysenin paylaştı fenn inna hemeneke videosu
