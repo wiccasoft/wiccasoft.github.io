@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ozan tufanın beyin kanartan meleyerek meler yorumu 
 bkz şaka maka zaten tatilde olmam madafaka kaka maka
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg şaka maka bıraksın aga
 bkz şaka maka recebin bi vergiyi hak etmesi
