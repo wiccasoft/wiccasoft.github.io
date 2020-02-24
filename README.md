@@ -6,7 +6,7 @@
 
 <!--
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz melemekten başka bi boka yaramayan canlı
-https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz top kayıplarını kara çecirmek
+https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz takla atan arap
 bkz 1 trilyon dolar zararı kara çevirmek
 bkz damat trabzonu şampiyon yaparsa 100 milyar dolar yatırım yapacağım 
 https://eksisozluk.com/ersun-yanal--126676?a=popular bkz mevzu koyunlarsa meletirim
