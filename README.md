@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
+https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BC-belirtileri/ bkz halsizlik her şey çok kötü hissi
 bkz her şey çok güzel zaten
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-hayat%C4%B1-film-oldu-ismi-ne-olurdu/
 bkz şaka maka madfaka hayat bana güzel lan
