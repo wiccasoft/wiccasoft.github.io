@@ -5,10 +5,10 @@
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 <!--
+bkz 1 trilyon dolar zararı kara çevirmek
 https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz takla atan arap
 https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz rakun suratlı arjan
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz melemekten başka bi boka yaramayan canlı
-bkz 1 trilyon dolar zararı kara çevirmek
 bkz damat trabzonu şampiyon yaparsa 100 milyar dolar yatırım yapacağım 
 https://eksisozluk.com/ersun-yanal--126676?a=popular bkz mevzu koyunlarsa meletirim
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz meeeeeee meeeeeeeeee
