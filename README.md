@@ -1,17 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
-<!--
-bkz 1 trilyon dolar zararı kar'a çevirmek
-bkz damadın fenerbahçe düşmanlığının trap zone'u daha da güçlendirdiği gerçeği
-https://www.uludagsozluk.com/e/42901103/ 
-bkz geçmişe sünger bob çekelim fener olalım
-bkz bütün takımlarla iyi geçinip pr kasmak
-bkz inna fatehna leke fethan mübina aşkolar
-bkz binali yıldırımın fenerbahçeye dönme sinyallerini yakması
-bkz geçmişe sünger bob çekelim fener olalım yine
-https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular 
--->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
