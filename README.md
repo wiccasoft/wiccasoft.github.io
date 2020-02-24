@@ -2,8 +2,11 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 
-<!-- https://twitter.com/incicaps/status/1231690001735352329 adadasd 
+<!-- 
+bkz sülalem raad pampa demiş miydim daha önce? aktroller?
+https://twitter.com/incicaps/status/1231690001735352329 adadasd 
 https://www.uludagsozluk.com/k/12-nisan-2013-kk-n%C4%B1n-fenerbah%C3%A7e-tweet-i/ asdadas
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-ekrem-in-bi-tatili-hak-etmesi/ adasdasd
 -->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
