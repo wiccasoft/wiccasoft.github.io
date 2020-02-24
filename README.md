@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz şaka maka zaten tatilde olmam madafaka kaka maka
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg şaka maka bıraksın aga
 bkz şaka maka recebin bi vergiyi hak etmesi
 https://www.uludagsozluk.com/k/ozan-tufan-%C4%B1n-halil-umut-meler-yorumu/&w=bg
