@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
-bkz inna fatehna leke fethan mübina
+bkz inna fatehna leke fethan mübina aşkolar
 bkz binali yıldırımın fenerbahçeye dönme sinyallerini yakması
 bkz caner erkinin beyin melerten ozan tufan yorumu
 -->
