@@ -3,6 +3,7 @@
 
 
 <!--
+bkz ozan tufanın bayin kanartan melemeli instagram videosu
 bkz ekremin döşediği pimapen 
 bkz tut şunun ucunu döeşyelim abi
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-akp-ye-d%C3%B6%C5%9Fedi%C4%9Fi-boru/
