@@ -1,22 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-23_14-13-51.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
-<!-- 
-bkz bi gün herkes fenerli olacak 
-bkz fenerlilerdeki zeka geriliğinin sebepleri 
-not: 45 puanla geyseyle liderliği paylaşan spor.
-bkz bi gülüşü var sanırsın şampiyonlar ligi
-https://www.uludagsozluk.com/k/christoph-daum/&w=bg bkz an meselesi
-https://www.uludagsozluk.com/k/sadettin-saran/&w=bg bkz bi gülüşü var sanırsın fener şampiyon
-https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=gd bkz bir geyseli olarak göt veririm
-https://eksisozluk.com/ozan-tufan--3507298?a=popular bkz bi gülüşü var sanırsın fener şampiyon
-https://eksisozluk.com/jahrein--3685256?a=popular bkz bi twitch yayın açıyo sanırsın şampiyonlar ligi
-https://www.uludagsozluk.com/k/en-g%C3%BCzel-g%C3%BClen-lider/&w=bg bkz güldüren lider
-https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz güldüren isim soyisimler
-https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol 
-https://eksisozluk.com/ali-kocun-taraftar-kovalamasi--6379430?a=popular lol 
-https://www.uludagsozluk.com/k/gazzede-kep%C3%A7e-darbeleriyle-%C5%9Fehit-edilen-gen%C3%A7/ bkz gençlik işte
--->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
