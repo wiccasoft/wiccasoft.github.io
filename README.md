@@ -4,35 +4,7 @@
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
-<!--
-bkz 1 trilyon dolar zararı kara çevirmek
-bkz geyselilerin hala şampiyon olackalarını sanmaları
-https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz takla atan arap
-https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz rakun suratlı arjan
-https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz melemekten başka bi boka yaramayan canlı
-bkz damat trabzonu şampiyon yaparsa 100 milyar dolar yatırım yapacağım 
-https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz meeeeeee meeeeeeeeee
-https://eksisozluk.com/ersun-yanal--126676?a=popular bkz mevzu fenerse gerisi teferruat reis
-https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz rakuna benzeyen yaratık
-https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol
-https://www.uludagsozluk.com/e/42900758/ lol 
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg lol
-bkz trap zone şampiyon olacak diye kuduran kitle
-https://eksisozluk.com/ali-kocun-taraftar-kovalamasi--6379430?a=popular&p=16
-https://mobile.twitter.com/Alkolikyorumlar/status/1231651979916726274 
-https://www.uludagsozluk.com/k/fenerin-yeni-kocas%C4%B1-kim-olacak/
-https://www.uludagsozluk.com/k/21-y%C4%B1lda-bir-galibiyet-ald%C4%B1-diye-kuduran-kitle/
-https://www.uludagsozluk.com/k/trib%C3%BCndeki-koltu%C4%9Fa-kafa-atan-fenerli/&w=gd zuhahaha
-https://www.youtube.com/watch?v=9sPHaPhBhzU
-bkz damadın fenerbahçe düşmanlığı
-https://www.uludagsozluk.com/e/42901103/ 
-bkz bunlar babadan oğula nesil heralde bunlar
-https://www.uludagsozluk.com/k/ali-ko%C3%A7-un-taraftar%C4%B1n-aras%C4%B1na-atlamas%C4%B1/
-https://www.uludagsozluk.com/k/fener-a%C4%9Flama/&w=bg
-https://twitter.com/futbolmerkez1/status/1110892893131165696
-https://www.uludagsozluk.com/k/kad%C4%B1nlara-pas-vermeyen-erkek/ bkz rıdvan
-https://www.uludagsozluk.com/k/ozan-tufan-%C4%B1n-halil-umut-meler-yorumu/ 
- -->
+
 
 [![Image](waste/Screenshot_2020-02-21_13-22-28.png)]( https://www.youtube.com/watch?v=xfnjCfV6lto  )
 
