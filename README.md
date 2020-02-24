@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
+bkz binali yıldırımın fenerbahçeye dönme sinyallerini yakması
 bkz caner erkinin beyin melerten ozan tufan yorumu
 bkz alper potuk un saıkd çiftpınarla aşk iddalarını reddetmesi
 bkz halil umut melerin melemesi
