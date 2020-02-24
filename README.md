@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ee nabıyosunu faki aktroller hayat bana güzel
 bkz kaka yı fener alalım kampanyası
 bkz sülalem raad pampa demiş miydim daha önce?
 https://twitter.com/incicaps/status/1231690001735352329 adadasd 
