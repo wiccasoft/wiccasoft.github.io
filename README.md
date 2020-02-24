@@ -3,6 +3,7 @@
 
 
 <!--
+bkz geysenin güldüren arapçası
 bkz geysenin paylaştı fenn inna hemeneke videosu
 bkz halil umut melerin paylaştığı koyun videosu
 bkz ozan tufanın bayin kanartan melemeli instagram videosu
