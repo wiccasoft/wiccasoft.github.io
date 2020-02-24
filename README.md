@@ -6,6 +6,7 @@ bkz fenerlilerdeki zeka geriliğinin sebepleri
 not: 45 puanla geyseyle liderliği paylaşan spor.
 bkz bi gülüşü var sanırsın şampiyonlar ligi
 bkz fenerliler niye kendilerine iş bulmuyorlar sorunsalı
+https://www.uludagsozluk.com/k/christoph-daum/&w=bg bkz an meselesi
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=gd bkz bir geyseli olarak göt veririm
 https://eksisozluk.com/ozan-tufan--3507298?a=popular bkz bi gülüşü var sanırsın fener şampiyon
 https://eksisozluk.com/jahrein--3685256?a=popular bkz bi twitch yayın açıyo sanırsın şampiyonlar ligi
