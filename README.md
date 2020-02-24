@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
-
+<!-- https://www.uludagsozluk.com/k/gazzede-kep%C3%A7e-darbeleriyle-%C5%9Fehit-edilen-gen%C3%A7/ bkz şehitler ölmez -->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
