@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz şaka maka recebin bi tatili haketmesi
 https://www.uludagsozluk.com/k/acayip-kaslar%C4%B1-olan-adam/ bkz halil umut meler
 https://www.youtube.com/watch?v=t-LeppPbouY ersuncum elemenalrı oyala ben 3-5 gü tatildeyim
