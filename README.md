@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.youtube.com/watch?v=t-LeppPbouY ersuncum elemenalrı oyala ben 3-5 gü tatildeyim
 bkz şaka maka madafaka zasten tatilde olmam
 bkz herşey çok güzel zaten tabi benim için
 bkz ee nabıyosunu faki aktroller hayat bana güzel
