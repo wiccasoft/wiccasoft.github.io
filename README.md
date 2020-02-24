@@ -3,6 +3,7 @@
 
 
 <!--
+bkz halil umut melerin paylaştığı koyun videosu
 bkz ozan tufanın bayin kanartan melemeli instagram videosu
 bkz ekremin döşediği pimapen 
 bkz tut şunun ucunu döeşyelim abi
