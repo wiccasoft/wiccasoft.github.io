@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz herşey çok güzel zaten tabi benim için
 bkz ee nabıyosunu faki aktroller hayat bana güzel
 bkz kaka yı fener alalım kampanyası
 bkz sülalem raad pampa demiş miydim daha önce?
