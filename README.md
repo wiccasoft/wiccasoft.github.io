@@ -4,19 +4,7 @@
 <!--
 bkz binali yıldırımın fenerbahçeye dönme sinyallerini yakması
 bkz caner erkinin beyin melerten ozan tufan yorumu
-bkz alper potuk un saıkd çiftpınarla aşk iddalarını reddetmesi
-bkz halil umut melerin melemesi
-bkz uynır uyanmaz aktrollerin azına yarrak veren genç
-bkz selma ve dua ile diyenaktrolün  azına iki tane çakmak
-bkz gazze için götünü bağışlayan büyük götlü mürit
-bkz gazzede kepçe darbeleriyle şehit edilen gençcin götünden kepçe tırnağı çıkması
-bkz goood mornin viatnaaaaaaaaaaam aşkolar naptınız
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BC-belirtileri/ bkz halsizlik her şey çok kötü hissi
-bkz her şey çok güzel zaten
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-hayat%C4%B1-film-oldu-ismi-ne-olurdu/
-bkz şaka maka madfaka hayat bana güzel lan
-https://www.uludagsozluk.com/k/ekrem-tatile-%C3%A7%C4%B1ks%C4%B1n/&w=bg bkz şaka maka tatildeyim
-https://www.uludagsozluk.com/k/gazzede-kep%C3%A7e-darbeleriyle-%C5%9Fehit-edilen-gen%C3%A7/ bkz şehitler ölmez -->
+-->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
