@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_14-13-51.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!-- 
+https://eksisozluk.com/ugur-karakullukcunun-jahreine-verdigi-ayar--6379022?a=popular bkz uğur karakullukçu kim amk
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol 
 https://eksisozluk.com/ali-kocun-taraftar-kovalamasi--6379430?a=popular lol 
 -->
