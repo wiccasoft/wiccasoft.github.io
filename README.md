@@ -2,7 +2,9 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 
-<!-- https://twitter.com/incicaps/status/1231690001735352329 adadasd -->
+<!-- https://twitter.com/incicaps/status/1231690001735352329 adadasd 
+https://www.uludagsozluk.com/k/12-nisan-2013-kk-n%C4%B1n-fenerbah%C3%A7e-tweet-i/ asdadas
+-->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
