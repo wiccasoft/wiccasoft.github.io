@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
+bkz alper potuk un saıkd çiftpınarla aşk iddalarını reddetmesi
 bkz halil umut melerin melemesi
 bkz uynır uyanmaz aktrollerin azına yarrak veren genç
 bkz selma ve dua ile diyenaktrolün  azına iki tane çakmak
