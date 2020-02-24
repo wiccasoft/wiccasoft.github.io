@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz şaka maka recebin işe gelmemesi
 bkz ekreme iş önerileri
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-hayat%C4%B1-film-oldu-ismi-ne-olurdu/
 bkz ozan tufanın beyin kanartan meleyerek meler yorumu 
