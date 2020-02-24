@@ -3,6 +3,7 @@
 
 
 <!--
+bkz gazzede götüne roket kaçan gencin geyseli çıkması
 bkz geysenin güldüren arapçası
 bkz geysenin paylaştı fenn inna hemeneke videosu
 bkz halil umut melerin paylaştığı koyun videosu
