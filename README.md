@@ -4,7 +4,7 @@
 <!--
 bkz damadın fenerbahçe düşmanlığı
 https://www.uludagsozluk.com/e/42901103/ 
-bkz geçmişe sünger çekelim fener olalım
+bkz geçmişe sünger bob çekelim fener olalım
 bkz bütün takımlarla iyi geçinip pr kasmak
 bkz inna fatehna leke fethan mübina aşkolar
 bkz binali yıldırımın fenerbahçeye dönme sinyallerini yakması
