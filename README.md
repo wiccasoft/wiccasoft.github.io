@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
+bkz gazze için götünü bağışlayan büyük götlü mürit
 bkz gazzede kepçe darbeleriyle şehit edilen gençcin götünden kepçe tırnağı çıkması
 bkz goood mornin viatnaaaaaaaaaaam aşkolar naptınız
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BC-belirtileri/ bkz halsizlik her şey çok kötü hissi
