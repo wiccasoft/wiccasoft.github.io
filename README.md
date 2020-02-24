@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/acayip-kaslar%C4%B1-olan-adam/ bkz halil umut meler
 https://www.youtube.com/watch?v=t-LeppPbouY ersuncum elemenalrı oyala ben 3-5 gü tatildeyim
 bkz şaka maka madafaka zasten tatilde olmam
 bkz herşey çok güzel zaten tabi benim için
