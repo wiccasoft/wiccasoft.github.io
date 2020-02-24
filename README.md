@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
+bkz her şey çok güzel zaten
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-hayat%C4%B1-film-oldu-ismi-ne-olurdu/
 bkz şaka maka madfaka hayat bana güzel lan
 https://www.uludagsozluk.com/k/ekrem-tatile-%C3%A7%C4%B1ks%C4%B1n/&w=bg bkz şaka maka tatildeyim
 https://www.uludagsozluk.com/k/gazzede-kep%C3%A7e-darbeleriyle-%C5%9Fehit-edilen-gen%C3%A7/ bkz şehitler ölmez -->
