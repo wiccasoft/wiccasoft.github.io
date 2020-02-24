@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz şaka maka recebin bi vergiyi hak etmesi
+https://www.uludagsozluk.com/k/ozan-tufan-%C4%B1n-halil-umut-meler-yorumu/&w=bg
 https://www.youtube.com/watch?v=PAlwP6oeJpA
 bkz şaka maka recebin bi tatili haketmesi
 https://www.uludagsozluk.com/k/acayip-kaslar%C4%B1-olan-adam/ bkz halil umut meler
