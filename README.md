@@ -8,7 +8,6 @@ bkz geçmişe sünger çekelim fener olalım
 bkz bütün takımlarla iyi geçinip pr kasmak
 bkz inna fatehna leke fethan mübina aşkolar
 bkz binali yıldırımın fenerbahçeye dönme sinyallerini yakması
-bkz caner erkinin beyin melerten ozan tufan yorumu
 bkz geçmişe sünger çekelim fener olalım
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular 
 -->
