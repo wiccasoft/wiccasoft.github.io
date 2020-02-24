@@ -8,7 +8,7 @@ bkz bi gülüşü var sanırsın şampiyonlar ligi
 https://www.uludagsozluk.com/k/aziz-y%C4%B1ld%C4%B1r%C4%B1m/&w=gd bkz bir geysaraylı olarak göt veririm
 https://eksisozluk.com/ozan-tufan--3507298?a=popular bkz bi gülüşü var sanırsın fener şampiyon
 https://eksisozluk.com/jahrein--3685256?a=popular bkz bi twitch yayın açıyo sanırsın şampiyonlar ligi
-https://www.uludagsozluk.com/k/en-g%C3%BCzel-g%C3%BClen-lider/&w=bg
+https://www.uludagsozluk.com/k/en-g%C3%BCzel-g%C3%BClen-lider/&w=bg bkz güldüren lider
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz güldüren isim soyisimler
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol 
 https://eksisozluk.com/ali-kocun-taraftar-kovalamasi--6379430?a=popular lol 
