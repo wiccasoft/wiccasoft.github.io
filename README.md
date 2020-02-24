@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!--
-bkz damadın fener düşmanlığının trabzonu daha da güçlendirdiği gerçeği
+bkz damadın fener düşmanlığının trap zone'u daha da güçlendirdiği gerçeği
 bkz damadın fenerbahçe düşmanlığı
 https://www.uludagsozluk.com/e/42901103/ 
 bkz geçmişe sünger bob çekelim fener olalım
