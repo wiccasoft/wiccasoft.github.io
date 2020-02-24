@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz şaka maka recebe bunları iletmek lazım
 bkz şaka maka aktrolerin baya cahil olması madafaka
 bkz şaka maka kellelerin yine çok konuşması çalışın bakalım kelleler
 bkz şaka maka bilalin fıkra anlatması
