@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-23_14-13-51.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!-- 
+bkz bi gün herkes fenerli olacak 
 bkz fenerlilerdeki zeka geriliğinin sebepleri 
 not: 45 puanla geyseyle liderliği paylaşan spor.
 bkz bi gülüşü var sanırsın şampiyonlar ligi
