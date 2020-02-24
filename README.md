@@ -11,10 +11,7 @@ https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz takla atan arap
 https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz rakun suratlı arjan
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz melemekten başka bi boka yaramayan canlı
 bkz damat trabzonu şampiyon yaparsa 100 milyar dolar yatırım yapacağım 
-https://eksisozluk.com/ersun-yanal--126676?a=popular bkz mevzu koyunlarsa meletirim
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz meeeeeee meeeeeeeeee
-https://eksisozluk.com/younes-belhanda--2341813?a=popular bkz taklacı güvercin
-https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz yaran isim soyisimler
 https://eksisozluk.com/ersun-yanal--126676?a=popular bkz mevzu fenerse gerisi teferruat reis
 https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz rakuna benzeyen yaratık
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol
