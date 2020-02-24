@@ -2,8 +2,8 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 
-<!-- 
-bkz şaka maka recebe bunları iletmek lazım
+<!--
+bkz şaka maka recebin aktrollerinin güldürmesi
 bkz şaka maka aktrolerin baya cahil olması madafaka
 bkz şaka maka kellelerin yine çok konuşması çalışın bakalım kelleler
 bkz şaka maka bilalin fıkra anlatması
