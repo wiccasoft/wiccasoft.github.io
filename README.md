@@ -2,41 +2,6 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 
-<!--
-bkz inna fatehna leke fethan mübina diyip götüne roket sokan genç
-bkz gazzede götüne roket kaçan gencin geyseli çıkması
-bkz geysenin güldüren arapçası
-bkz geysenin paylaştı fenn inna hemeneke videosu
-bkz halil umut melerin paylaştığı koyun videosu
-bkz ozan tufanın bayin kanartan melemeli instagram videosu
-bkz ekremin döşediği pimapen 
-bkz tut şunun ucunu döeşyelim abi
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-akp-ye-d%C3%B6%C5%9Fedi%C4%9Fi-boru/
-bkz şaka maka recebin aktrollerinin güldürmesi
-bkz şaka maka aktrolerin baya cahil olması madafaka
-bkz şaka maka kellelerin yine çok konuşması çalışın bakalım kelleler
-bkz şaka maka bilalin fıkra anlatması
-bkz şaka maka recebin işe gelmemesi
-bkz ekreme iş önerileri
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flunun-hayat%C4%B1-film-oldu-ismi-ne-olurdu/
-bkz ozan tufanın beyin kanartan meleyerek meler yorumu 
-bkz şaka maka zaten tatilde olmam madafaka kaka maka
-https://www.uludagsozluk.com/k/ersun-yanal/&w=bg şaka maka bıraksın aga
-bkz şaka maka recebin bi vergiyi hak etmesi
-https://www.uludagsozluk.com/k/ozan-tufan-%C4%B1n-halil-umut-meler-yorumu/&w=bg
-https://www.youtube.com/watch?v=PAlwP6oeJpA
-bkz şaka maka recebin bi tatili haketmesi
-https://www.uludagsozluk.com/k/acayip-kaslar%C4%B1-olan-adam/ bkz halil umut meler
-https://www.youtube.com/watch?v=t-LeppPbouY ersuncum elemenalrı oyala ben 3-5 gü tatildeyim
-bkz şaka maka madafaka zasten tatilde olmam
-bkz herşey çok güzel zaten tabi benim için
-bkz ee nabıyosunu faki aktroller hayat bana güzel
-bkz kaka yı fener alalım kampanyası
-bkz sülalem raad pampa demiş miydim daha önce?
-https://twitter.com/incicaps/status/1231690001735352329 adadasd 
-https://www.uludagsozluk.com/k/12-nisan-2013-kk-n%C4%B1n-fenerbah%C3%A7e-tweet-i/ asdadas
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-ekrem-in-bi-tatili-hak-etmesi/ adasdasd
--->
 
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
