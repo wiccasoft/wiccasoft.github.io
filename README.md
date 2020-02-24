@@ -3,8 +3,7 @@
 
 <!--
 bkz 1 trilyon dolar zararı kar'a çevirmek
-bkz damadın fener düşmanlığının trap zone'u daha da güçlendirdiği gerçeği
-bkz damadın fenerbahçe düşmanlığı
+bkz damadın fenerbahçe düşmanlığının trap zone'u daha da güçlendirdiği gerçeği
 https://www.uludagsozluk.com/e/42901103/ 
 bkz geçmişe sünger bob çekelim fener olalım
 bkz bütün takımlarla iyi geçinip pr kasmak
