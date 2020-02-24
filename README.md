@@ -6,6 +6,7 @@ bkz fenerlilerdeki zeka geriliğinin sebepleri
 not: 45 puanla geyseyle liderliği paylaşan spor.
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol 
 https://eksisozluk.com/ali-kocun-taraftar-kovalamasi--6379430?a=popular lol 
+https://www.uludagsozluk.com/k/en-g%C3%BCzel-g%C3%BClen-lider/&w=bg bkz dünya lideri
 https://www.uludagsozluk.com/k/reisin-coronay%C4%B1-%C3%BClkemize-sokmad%C4%B1%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ lol
 bkz rte yi dünya lideri sanan chpli
 -->
