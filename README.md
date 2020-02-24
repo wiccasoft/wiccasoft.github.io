@@ -2,8 +2,6 @@
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 
-<!-- https://www.uludagsozluk.com/k/gandalf-vs-nihat-hatipo%C4%9Flu/ frodo hoplatır diyorum -->
-
 [![Image](waste/Screenshot_2020-02-22_09-54-13.png)]( https://www.youtube.com/watch?v=eWFK-IAp3DU  )
 
 
