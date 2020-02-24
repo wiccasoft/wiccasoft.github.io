@@ -5,6 +5,7 @@
 bkz fenerlilerdeki zeka geriliğinin sebepleri 
 not: 45 puanla geyseyle liderliği paylaşan spor.
 bkz bi gülüşü var sanırsın şampiyonlar ligi
+https://eksisozluk.com/jahrein--3685256?a=popular bkz bi twitch yayın açıyo sanırsın şampiyonlar ligi
 https://www.uludagsozluk.com/k/en-g%C3%BCzel-g%C3%BClen-lider/&w=bg
 https://eksisozluk.com/halil-umut-meler--4879468?a=popular bkz güldüren isim soyisimler
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol 
