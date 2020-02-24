@@ -2,7 +2,6 @@
 [![Image](waste/Screenshot_2020-02-23_14-13-51.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
 <!-- 
-bkz 1 trilyon dolar zarardan kar elde etmek
 bkz fenerlilerdeki zeka geriliğinin sebepleri 
 not: 45 puanla geyseyle liderliği paylaşan spor.
 https://eksisozluk.com/seni-de-seni-seveni-de-sevmiyoruz--6378279?a=popular lol 
