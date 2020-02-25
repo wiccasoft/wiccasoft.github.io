@@ -11,6 +11,7 @@ https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=43 lol
 https://eksisozluk.com/tedxin-gulben-ergeni-konusmaci-yapmasi--6382155?a=popular
 bkz hilal cebeci nin halka cahil demesi
 bkz tede konuşmacı çıkamayan ezik
+bkz skyler white un i fucked ted demesi
 -->
 
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
