@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz cem yılamz aleyna tilkiyi patlatmışmıdır sorunsalı
 bkz damadın fenerbahçeyi bitirme projesi
 bkz ozan tufanın beyin kanartan umut meler yorumu
 bkz akpnin türkiyeyi bütün dünyayaya düşman etmesi
