@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz koltuk altıyla patlak oğlan sesi çıkaran prof
+bkz patlak oğlanların suda çıakrdığı ses
 bkz türklerin platona eflatun demesi
 bkz küçük filozof oğlan tatlığı
 bkz platonun patlattığı oğlanlar
