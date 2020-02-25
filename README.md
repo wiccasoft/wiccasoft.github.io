@@ -2,35 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
-<!-- 
-https://www.uludagsozluk.com/k/bizde-geri-vites-yoktur-diyen-adam/ bkz yolların kralıyız raad ol
-https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-ilgin%C3%A7-sigara-tutu%C5%9Fu/
-https://www.uludagsozluk.com/k/31-ya%C5%9F%C4%B1nda-kad%C4%B1n-42-ya%C5%9F%C4%B1ndaki-erkek-ili%C5%9Fkisi/
-bkz gökten am yağsa bana yine saplı sultan düşer
-bkz madem allah yok niye inkar ediyosunuz
-https://www.uludagsozluk.com/k/bir-arab%C4%B1n-1400-y%C4%B1l-%C3%B6nce-allahla-konu%C5%9Fmas%C4%B1/&w=bg
-bkz din toplumların afyonudur reddediyorum diyen isyankar asi genç
-bkz patlak kızların suda çıkardığı ses
-bkz yeğenine 3 yıldır tecavüz eden dayı twitter linki bulamadım ama ediyodur kesin
-https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/
-https://www.uludagsozluk.com/k/bakire-k%C4%B1z%C4%B1-patlat%C4%B1p-terk-eden-erkek/&w=bg
-https://www.uludagsozluk.com/k/sabah-kesik-at-kafas%C4%B1yla-uyanmak/
-https://www.uludagsozluk.com/k/kanc%C4%B1k-kelleni-%C3%B6dlek-bedeninden-ay%C4%B1rmaya-geldim/&w=bg
-bkz erkan tanın uçak gemisini ben yaparım siz uçak yapın demesi
-https://www.uludagsozluk.com/k/gezi-olaylar%C4%B1-u%C3%A7ak-gemisi-yapmam%C4%B1za-engel-oldu/
-bkz erkan tana meslek önerileri
-https://eksisozluk.com/erkan-naldemirci--6381362?a=popular bkz erkan naldemircinin tede çıkması
-bkz fatih terim allah kerim
-https://www.uludagsozluk.com/k/kupa-i%C3%A7in-gs-li-olan-bebe/ lol 
-https://eksisozluk.com/fenerbahce-taraftarinin-utanc-verici-bestesi--6381259?a=popular lol
-https://eksisozluk.com/g-sarayin-10-puan-geriden-gelip-sampiyon-olmasi--6382022?a=popular lol
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=43 lol
-https://eksisozluk.com/tedxin-gulben-ergeni-konusmaci-yapmasi--6382155?a=popular
-bkz hilal cebeci nin halka cahil demesi
-bkz tede konuşmacı çıkamayan ezik
-bkz skyler white in i fucked ted demesi
-https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/ 
--->
 
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
 
