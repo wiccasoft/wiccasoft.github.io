@@ -23,6 +23,7 @@ https://eksisozluk.com/tedxin-gulben-ergeni-konusmaci-yapmasi--6382155?a=popular
 bkz hilal cebeci nin halka cahil demesi
 bkz tede konuşmacı çıkamayan ezik
 bkz skyler white in i fucked ted demesi
+https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/ 
 -->
 
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
