@@ -3,6 +3,7 @@
 <!--
 bkz atakanın 10 yaşında kitap okuması
 bkz atakanın sürmeli gözlerinin adamı tahrik etmesi
+https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-g%C3%B6zleri-neden-s%C3%BCrmeli-sorunsal%C4%B1/
 bkz ozbüyücüsündeki içi saman dolu teneke vs darth vader
 bkz atakanın kaymak gibi götü vs atacücünün kaymak gibi götü
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/
