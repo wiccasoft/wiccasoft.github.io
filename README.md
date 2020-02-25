@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz çingenlerin kendinni türk sanması
 bkz türklükten keyif almak varken havlayan şopar
 bkz yeni ahitin bir türk dünyaya bedeldir haberi
 bkz eski ahitte türklerin dünyaya hakim olacağının yazması
