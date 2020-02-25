@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz mustafa kemal atacücünün virüs için  korkuluk yapması
+bkz ozbüyücüsündeki içi saman dolu teneke vs darth vader
 bkz atakanın kaymak gibi götü vs atacücünün kaymak gibi götü
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/
 https://www.uludagsozluk.com/k/yan%C4%B1nda-k%C4%B1z-varken-ba%C5%9Fka-k%C4%B1za-bakan-erkek/&w=gd
