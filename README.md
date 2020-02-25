@@ -2,6 +2,7 @@
 
 <!--
 bkz atacücü vs atakan
+bkz atakanın kaymak gibi götü vs atacücünün kaymak gibi götü
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/
 https://www.uludagsozluk.com/k/yan%C4%B1nda-k%C4%B1z-varken-ba%C5%9Fka-k%C4%B1za-bakan-erkek/&w=gd
 https://www.uludagsozluk.com/k/31-ya%C5%9F%C4%B1nda-kad%C4%B1n-42-ya%C5%9F%C4%B1ndaki-erkek-ili%C5%9Fkisi/ yengeniz olur
