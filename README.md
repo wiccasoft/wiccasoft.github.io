@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz kızların vur kaç taktiği
 bkz devlet bahçelinin ak partiye yanaşması
 bkz devlet bahçelinin taban oyları için rte ye yanaşması
 https://www.uludagsozluk.com/k/elde-vard%C4%B1r-bir-tek-o%C4%9Flun-kanl%C4%B1-beresi/
