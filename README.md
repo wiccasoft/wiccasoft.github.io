@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz puding götlü emcüğü yeni yeni kabaran kızlar
 bkz koltuk altıyla patlak oğlan sesi çıkaran prof
 bkz patlak oğlanların suda çıkardığı ses
 bkz türklerin platona eflatun demesi
@@ -8,7 +9,6 @@ bkz küçük filozof oğlan tatlığı
 bkz platonun patlattığı oğlanlar
 bkz platonun mağara alegorisi
 bkz her sabah ekmek almaya yollanan evin küçük oğlanın kaymak götü
-bkz puding götlü emcüğü yeni yeni kabaran kızlar
 bkz cem yılmazın patlatmadığı karı kaldı mı sorunsalı
 https://www.uludagsozluk.com/k/defne-samyeli-vs-serenay-sar%C4%B1kaya/&w=bg 
 bkz defne samyeli vs serenay sarıkaya 
