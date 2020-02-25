@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz yanında güzel oğlan varken kızlara bakan adam
+bkz yanında güzel oğlanlar varken kızlara bakan adam
 https://www.uludagsozluk.com/k/en-g%C3%BCzel-adamlar-%C5%9Fark%C4%B1s%C4%B1/ 
 bkz atakanın 10 yaşında kitap okuması
 bkz atakanın sürmeli gözlerinin adamı tahrik etmesi
