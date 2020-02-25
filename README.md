@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- https://www.uludagsozluk.com/k/kupa-i%C3%A7in-gs-li-olan-bebe/ lol 
+https://eksisozluk.com/g-sarayin-10-puan-geriden-gelip-sampiyon-olmasi--6382022?a=popular lol
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=43 lol -->
 
 [![Image](waste/Screenshot_2020-02-23_19-24-25.png)]( https://www.youtube.com/watch?v=9sPHaPhBhzU )
