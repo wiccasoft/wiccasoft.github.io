@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz türklükten aldığım keyfi dikatatörlükten almadım
 bkz diktatörlerin müslüman olmaları kemalist nazi karşıtı olmaları
 bkz fatih tezcanın dikatatör olsaydım tweetlerimi nasıl okuyacaktınız demesi
 bkz fatih tezcanın dick tatör asıl atacücüdür tweeti
