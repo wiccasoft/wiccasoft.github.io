@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz eve atılan kızın penis yüzüğünü ağzıyla takması
+bkz eve atılan kızın amazondan alınan penis yüzüğünü ağzıyla takması
 bkz puding götlü emcüğü yeni yeni kabaran kızlar
 bkz koltuk altıyla patlak oğlan sesi çıkaran prof
 bkz patlak oğlanların suda çıkardığı ses
