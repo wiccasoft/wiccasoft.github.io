@@ -4,6 +4,7 @@
 bkz allah kerim fatih terim
 bkz ozan tufanın beynini aldırması
 bkz başkanlık sisteminden sonra uçamayan fenerli başkan
+https://www.uludagsozluk.com/k/kerimcan-durmaz-%C4%B1n-ivana-sert-e-orospu-demesi/
 bkz diyaneti ezan çalıştayının atacücüyü anması
 bkz atacücü diyanet işleri başkanlığını iyi ki kurmuş
 bkz fatih tezcanın atakan atacücü zamanında yaşasaydı kitap okuyamazdı tweeti
