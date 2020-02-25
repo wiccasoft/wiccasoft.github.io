@@ -6,7 +6,7 @@ bkz akp nin libyada bi kaç leş var demesi
 bkz akp nin hindistanla aramızı bozması
 bkz akp nin bütün dünyayla aramızı bozması 
 bkz aslı bekiroğlunun alper potuk aşkını yalanlaması
-bkz norveçlilerin fener maçında açtığı türkleri artık sevmiyoruz pankartı
+bkz norveçlilerin açtığı türkleri artık sevmiyoruz pankartı
 https://www.uludagsozluk.com/k/akpnin-t%C3%BCrkiyeyi-b%C3%BCt%C3%BCn-d%C3%BCnyayaya-d%C3%BC%C5%9Fman-etmesi/
 bkz fatih tezcanın ismet inönü yahudiydi tweeti
 bkz aslı bekiroğlan alper potuk aşkı iddaları
