@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!-- 
+bkz aslı bekiroğlan alper potuk ilişkisi iddaları
 bkz akpnin hz ademle havvya adam eve demesi
 bkz akp nin lağım medyasının atakanı karalama kampanyası
 bkz atakanın atacücünün aşkerleriyiz demesi
