@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz receğ tayyiğ erdoğan vs mustafa kamal atadandoğan
 bkz allah kerim fatih terim
 bkz ozan tufanın beynini aldırması
 bkz başkanlık sisteminden sonra uçamayan fenerli başkan
