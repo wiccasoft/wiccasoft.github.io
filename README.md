@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg ısıtırım yalarun  bi de
 bkz fırın önünde tanışılan oğlanı eve atıp tatlı götünü ısırmak
 bkz her sabah ekmek almaya yollanan ebin en küçük oğlanların tatlı götleri
 https://www.uludagsozluk.com/k/her-sabah-ekmek-almaya-yollanan-evin-k%C3%BC%C3%A7%C3%BCk-%C3%A7ocu%C4%9Fu/&w=bg
