@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bz fatih tezcanın atakan için attığı tweet
 bkz gülben ergenin i fucked ted Kaczynski demesi
 https://tr.wikipedia.org/wiki/Theodore_Kaczynski
 bkz yanında güzel oğlanlar varken kızlara bakan adam
