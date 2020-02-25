@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz başkanlık sisteminden sonra uçamayan akpli
 bkz atacücü diyanet işleri başkanlığını iyi ki kurmuş
 bkz fatih tezcanın atakan atacücü zamanında yaşasaydı kitap okuyamazdı tweeti
 bkz mobile twitter link atıyorum kanka izle
