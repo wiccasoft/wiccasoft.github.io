@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz diy(do it yourself)
 bkz adam eve
 bkz adam ilk adammıydı sorunsalı
 bkz tayyibin 1923+100=2023 yapar demesi
