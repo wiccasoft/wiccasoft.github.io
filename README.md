@@ -1,9 +1,5 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
-<!-- 
-bkz dünya sizi kıskanıyor
-bkz akpnin hindstanla ilişkilerinizi bozması
-https://www.uludagsozluk.com/k/akpnin-t%C3%BCrkiyeyi-b%C3%BCt%C3%BCn-d%C3%BCnyayaya-d%C3%BC%C5%9Fman-etmesi/ -->
 
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
