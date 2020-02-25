@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!-- 
+bkz fatih tezcan analiz merkezinin kamalcılardan kazandığı para
 bkz aslı bekiroğlanın diyarbekrliyim ne var yni paylaşımı
 bkz fatih tezcanın attığı tweet
 https://www.youtube.com/watch?v=jVEKDcDEN1w 
