@@ -3,6 +3,7 @@
 <!--
 bkz küçük filozof oğlan tatlığı
 bkz platonun patlattığı oğlanlar
+bkz platonun mağara alegorisi
 bkz her sabah ekmek almaya yollanan evin küçük oğlanın kaymak götü
 bkz puding götlü emcüğü yeni büyümüş kızlar
 bkz cem yılmazın patlatmadığı karı kaldı mı sorunsalı
