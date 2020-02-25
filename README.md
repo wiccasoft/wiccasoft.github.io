@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+https://www.uludagsozluk.com/k/defne-samyeli-vs-serenay-sar%C4%B1kaya/&w=bg bkz cem yılmazın patlattığı karılar
+bkz defne samyeli vs serenay sarıkaya 
 bkz cem yılamz aleyna tilkiyi patlatmışmıdır sorunsalı
 bkz damadın fenerbahçeyi bitirme projesi
 bkz ozan tufanın beyin kanartan umut meler yorumu
