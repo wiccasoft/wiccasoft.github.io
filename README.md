@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz adamlığından sual olumyacak adam bırak
 bkz kızların vur kaç taktiği
 bkz devlet bahçelinin ak partiye yanaşması
 bkz devlet bahçelinin taban oyları için rte ye yanaşması
