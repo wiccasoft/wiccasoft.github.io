@@ -2,7 +2,7 @@
 
 <!--
 bkz anti militarist anarşist kamalcılar
-bkz kendini sosyalist sanan kamalcılar
+bkz kendini anarşist sanan kamalcılar
 bkz atacücünün askerlerinin diktatörlük istemyioruz militarizme son demesi
 bkz atacücünün askerlerinin sanki biraz şey olması
 bkz rte nin askerleri vs atacücünün askerleri
