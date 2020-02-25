@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz serkan inci nin inciyi dünya markası yapacam demesi
+https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg ısıtırım yalarun  bi de
 bkz fırın önünde tanışılan oğlanı eve atıp tatlı götünü ısırmak
 bkz her sabah ekmek almaya yollanan ebin en küçük oğlanların tatlı götleri
