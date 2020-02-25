@@ -10,6 +10,7 @@ bkz yeğenine 3 yıldır tecavüz eden dayı twitter linki bulamadım ama ediyod
 https://www.uludagsozluk.com/k/hilal-cebeci-den-%C3%A7arp%C4%B1c%C4%B1-a%C3%A7%C4%B1klamalar/
 https://www.uludagsozluk.com/k/bakire-k%C4%B1z%C4%B1-patlat%C4%B1p-terk-eden-erkek/&w=bg
 https://www.uludagsozluk.com/k/sabah-kesik-at-kafas%C4%B1yla-uyanmak/
+https://www.uludagsozluk.com/k/kanc%C4%B1k-kelleni-%C3%B6dlek-bedeninden-ay%C4%B1rmaya-geldim/&w=bg
 bkz erkan tanın uçak gemisini ben yaparım siz uçak yapın demesi
 https://www.uludagsozluk.com/k/gezi-olaylar%C4%B1-u%C3%A7ak-gemisi-yapmam%C4%B1za-engel-oldu/
 bkz erkan tana meslek önerileri
