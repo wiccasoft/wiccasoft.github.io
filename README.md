@@ -5,6 +5,7 @@ bkz adam eve
 bkz adam ilk adammıydı sorunsalı
 bkz tayyibin 1923+100=2023 yapar demesi
 bkz tayyibin türkleri zorla askere göndermesi
+bkz anti militarist kamalcılar
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-adaml%C4%B1%C4%9F%C4%B1/&w=bg adamlığı emiklenecek adam
 https://www.uludagsozluk.com/k/f%C4%B1rat-ayd%C4%B1nus/&w=bg geceye yakışıklı bırak
 bkz tayyibin 2077 cyberpunk yılı olacak demesi
