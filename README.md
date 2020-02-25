@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz filozof atakanın sürmeli gözlerinin adamı tahrik etmesi
 bkz atakanın 10 yaşında kitap okuması
 bkz ozbüyücüsündeki içi saman dolu teneke vs darth vader
 bkz atakanın kaymak gibi götü vs atacücünün kaymak gibi götü
