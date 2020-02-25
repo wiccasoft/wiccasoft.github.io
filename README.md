@@ -1,12 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz fatih tezcanın attığı tweet
-https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg bkz sevişmelik oğlan
-https://www.uludagsozluk.com/k/kendini-bir-halt-sanan-insanlar/&w=bg bkz serkan inci
-bkz serkan inci nin inciyi dünya markası yapacam demesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ku%C5%9Fatma-alt%C4%B1ndayken-%C3%A7ar%C5%9Faf-giyip-ka%C3%A7mas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg ısıtırım yalarun  bi de
+bkz serkan incinin fatih tezcan tweetini retweetlemesi
+https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg bkz sevişmelik evin küçük oğlanı
 bkz fırın önünde tanışılan oğlanı eve atıp tatlı götünü ısırmak
 bkz her sabah ekmek almaya yollanan ebin en küçük oğlanların tatlı götleri
 https://www.uludagsozluk.com/k/her-sabah-ekmek-almaya-yollanan-evin-k%C3%BC%C3%A7%C3%BCk-%C3%A7ocu%C4%9Fu/&w=bg
