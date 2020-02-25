@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
+https://www.uludagsozluk.com/e/42910418/ bkz gökten am yağsa bana yine saplı sultan düşer
 bkz madem allah yok niye inkar ediyosunuz
 bkz din toplumların afyonudur reddediyorum diyen isyankar asi genç
 bkz patlak kızların suda çıkardığı ses
