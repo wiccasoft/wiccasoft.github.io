@@ -3,8 +3,7 @@
 <!--
 bkz allah kerim fatih terim
 bkz ozan tufanın beynini aldırması
-bkz ozan tufanın şeyin karısı ne öyle ya tweeti
-bkz başkanlık sisteminden sonra uçamayan akpli
+bkz başkanlık sisteminden sonra uçamayan fenerli
 bkz atacücü diyanet işleri başkanlığını iyi ki kurmuş
 bkz fatih tezcanın atakan atacücü zamanında yaşasaydı kitap okuyamazdı tweeti
 bkz mobile twitter link atıyorum kanka izle
