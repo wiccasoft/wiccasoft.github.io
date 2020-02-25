@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz fatijh tezcanın dick tatör ası latacücüdür tweeti
+bkz fatih tezcanın dikatatör olsaydım tweetlerimi nasıl okuyacaktınız demesi
+bkz fatih tezcanın dick tatör asıl atacücüdür tweeti
 bkz fatih tezcanın dick tatör değilim olsaydınız kaldırırdınız demesi
 https://www.uludagsozluk.com/k/diktat%C3%B6rlerin-ortak-%C3%B6zellikleri/&w=bg
 bkz fatih tezcan ın ismail alpene fetöcü şopar azını yırtarım senin demesi
