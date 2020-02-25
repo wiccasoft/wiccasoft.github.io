@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
-https://www.uludagsozluk.com/e/42910418/ bkz gökten am yağsa bana yine saplı sultan düşer
+https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-ilgin%C3%A7-sigara-tutu%C5%9Fu/
+https://www.uludagsozluk.com/k/31-ya%C5%9F%C4%B1nda-kad%C4%B1n-42-ya%C5%9F%C4%B1ndaki-erkek-ili%C5%9Fkisi/
+bkz gökten am yağsa bana yine saplı sultan düşer
 bkz madem allah yok niye inkar ediyosunuz
 https://www.uludagsozluk.com/k/bir-arab%C4%B1n-1400-y%C4%B1l-%C3%B6nce-allahla-konu%C5%9Fmas%C4%B1/&w=bg
 bkz din toplumların afyonudur reddediyorum diyen isyankar asi genç
