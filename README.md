@@ -2,6 +2,7 @@
 
 <!--
 bkz hiç özlememek
+bkz ataçlı ibnelerin kafa siktiği gerçeği
 bkz yanında ibne varken başka ibnelere bakan adam
 bkz cüce gezegenler nasıl oluştu sorunsalı
 bkz atacücünün 2023 safsatası
