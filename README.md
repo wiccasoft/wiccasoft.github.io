@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz yeni ahitin bi türk dünyaya bedeldir haberi
+bkz türklükten keyif almak varken havlayan şopar
+bkz yeni ahitin bir türk dünyaya bedeldir haberi
 bkz eski ahitte türklerin dünyaya hakim olacağının yazması
 bkz türklükten aldığım keyfi dikatatörlükten almadım
 bkz diktatörlerin müslüman olmaları kemalist nazi karşıtı olmaları
