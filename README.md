@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz cüce gezegenler nasıl oluştu sorunsalı
 bkz atacücünün 2023 safsatası
 bkz go fuck yourself
 bkz diy(do it yourself)
