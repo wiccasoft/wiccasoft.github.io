@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
-<!-- https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/-->
+<!--
+bkz ata cücü vs atakan
+https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/-->
 
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
