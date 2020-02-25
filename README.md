@@ -6,6 +6,7 @@
 bkz madem allah yok niye inkar ediyosunuz
 bkz din toplumların afyonudur reddediyorum diyen isyankar asi genç
 bkz patlak kızların suda çıkardığı ses
+bkz yeğenine 3 yıldır tecavüz eden dayı twitter linki bulamadım ama ediyodur kesin
 https://www.uludagsozluk.com/k/bakire-k%C4%B1z%C4%B1-patlat%C4%B1p-terk-eden-erkek/&w=bg
 https://www.uludagsozluk.com/k/sabah-kesik-at-kafas%C4%B1yla-uyanmak/
 bkz erkan tanın uçak gemisini ben yaparım siz uçak yapın demesi
