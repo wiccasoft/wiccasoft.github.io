@@ -1,8 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz hiç 
-bkz matrix teki neonun kızı kurtarmak için metroya atlaması
+bkz hiç özlememek
 bkz yavşaklar ibneler gavatlar puştlar cenneti
 bkz ataçlı ibnelerin kafa siktiği gerçeği
 bkz yanında ibne varken başka ibnelere bakan adam
