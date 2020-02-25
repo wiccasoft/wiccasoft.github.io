@@ -1,8 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz anti militarist anarşist kamalcılar
-bkz kendini anarşist sanan kamalcılar
+bkz anti militarist anarşist kamalcıların güldürmesi
 bkz atacücünün askerlerinin diktatörlük istemyioruz militarizme son demesi
 bkz atacücünün askerlerinin sanki biraz şey olması
 bkz rte nin askerleri vs atacücünün askerleri
