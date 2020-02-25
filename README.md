@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
+bkz erkan tanın uçak gemisinin ben yaparım siz uçak yapın demesi
 https://www.uludagsozluk.com/k/gezi-olaylar%C4%B1-u%C3%A7ak-gemisi-yapmam%C4%B1za-engel-oldu/
 bkz erkan tana meslek önerileri
 https://eksisozluk.com/erkan-naldemirci--6381362?a=popular bkz erkan naldemircinin tede çıkması
