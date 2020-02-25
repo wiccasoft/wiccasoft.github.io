@@ -2,7 +2,7 @@
 
 <!--
 bkz koltuk altıyla patlak oğlan sesi çıkaran prof
-bkz patlak oğlanların suda çıakrdığı ses
+bkz patlak oğlanların suda çıkardığı ses
 bkz türklerin platona eflatun demesi
 bkz küçük filozof oğlan tatlığı
 bkz platonun patlattığı oğlanlar
