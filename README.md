@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz bakunini pide salonu sanan kamalcı
 bkz anti militarist anarşist kamalcı
 bkz kendini sosyalist sanan kamalcıların neden kitap okumaması
 bkz atacücünün askerlerinin diktatörlük istemyioruz militarizme son demesi
