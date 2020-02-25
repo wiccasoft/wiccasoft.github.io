@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
+bkz din toplumların afyonudur diyen lise öğrencisi
 bkz patlak kızların suda çıkardığı ses
 https://www.uludagsozluk.com/k/bakire-k%C4%B1z%C4%B1-patlat%C4%B1p-terk-eden-erkek/&w=bg
 https://www.uludagsozluk.com/k/sabah-kesik-at-kafas%C4%B1yla-uyanmak/
