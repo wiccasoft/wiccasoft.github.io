@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz turgut uyar tomris uyarın amına yılan soktu mu sorunsalı
 bkz hani marjinal bizdik
 bkz şeytan niye ademe secde etmedi sorunsalı
 bkz allah madem bozgunculuk çıkaracak niye ademi yarattı sorunsalı
