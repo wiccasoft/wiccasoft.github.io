@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!-- 
+bkz aslı bekiroğlanın diyarbwekirli olduğu gerçeği
 bkz aslı bekiroğlanın kamalcılara  diyarbekirli kürdüm ne var lan demesi
 bkz serkan incinin fatih tezcan tweetini retweetlemesi
 bkz aslı bekiroğlanın paylaştığı diyarbekir fotosu
