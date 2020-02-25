@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz rte nin askerleri vs atacücünün askerleri
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen-cem-y%C4%B1lmaz-tarkan/
 bkz rte nin oğlanlara zorla askerlik yaptırması
 bkz rte nin bi kaç kelle var demesi
