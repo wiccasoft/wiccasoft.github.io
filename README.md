@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz fatih tezcan ın ismail alpene fetöcü şopar azını yırtarım senin demesi
+https://www.uludagsozluk.com/k/fetoc%C3%BC-%C5%9Fopar/
 bkz serkan incinin fatih tezcan tweetini retweetlemesi
 https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg bkz sevişmelik evin küçük oğlanı
 bkz fırın önünde tanışılan oğlanı eve atıp tatlı götünü ısırmak
