@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
-https://www.uludagsozluk.com/k/bizde-geri-vites-yoktur-diyen-adam/ bkz yolların kralıyız bleasına çatarız raad ol
+https://www.uludagsozluk.com/k/bizde-geri-vites-yoktur-diyen-adam/ bkz yolların kralıyız raad ol
 https://www.uludagsozluk.com/k/ibrahim-tatl%C4%B1ses-in-ilgin%C3%A7-sigara-tutu%C5%9Fu/
 https://www.uludagsozluk.com/k/31-ya%C5%9F%C4%B1nda-kad%C4%B1n-42-ya%C5%9F%C4%B1ndaki-erkek-ili%C5%9Fkisi/
 bkz gökten am yağsa bana yine saplı sultan düşer
