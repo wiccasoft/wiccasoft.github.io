@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz ibrahim talısesin sigara tutuş şekli
+bkz ozan tufanın beyin kanartan umut meler yorumu
 bkz recep tayyip erdoğanın beni seven kolayla sigara içmesin demesi
 bkz 15 yıldır kola içen adam
 bkz receğ tayyiğ erdoğan vs mustafa kamal atadandoğan
