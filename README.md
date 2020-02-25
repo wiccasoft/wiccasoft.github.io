@@ -2,11 +2,9 @@
 
 <!--
 bkz aslı bekiroğlan alper potuk aşkı iddaları
-bkz aslı bekiroğlanın diyarbwekirli olduğu gerçeği
-bkz aslı bekiroğlanın kamalcılara  diyarbekirli kürdüm ne var lan demesi
+bkz aslı bekiroğlanın diyarbekirli olduğu gerçeği
 bkz serkan incinin fatih tezcan tweetini retweetlemesi
 bkz aslı bekiroğlanın paylaştığı diyarbekir fotosu
-bkz aslı bekiroğlanın emre mor yürümesin diye demeyi kapamsı
 bkz fatih tezcanın kamalcı nefretinden pr kasarak zengin olma projesi
 bkz fatih tezcanın kamalcı nefretini paraya dönüştürecem demesi
 bkz fatih tezcan analiz merkezinin kamalcılardan kazandığı para
