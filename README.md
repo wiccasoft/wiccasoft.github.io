@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
+bkz madem allah yok niye inkar ediyosunuz
 bkz din toplumların afyonudur reddediyorum diyen isyankar asi genç
 bkz patlak kızların suda çıkardığı ses
 https://www.uludagsozluk.com/k/bakire-k%C4%B1z%C4%B1-patlat%C4%B1p-terk-eden-erkek/&w=bg
