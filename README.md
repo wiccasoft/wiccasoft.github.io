@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz fatih tezcanın kamalcıalrı kızdırmak için yeni tweet atması
 bkz aslı bekiroğlan alper potuk aşkı iddaları
 bkz aslı bekiroğlanın diyarbekirli olduğu gerçeği
 bkz serkan incinin fatih tezcan tweetini retweetlemesi
