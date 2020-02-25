@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz türklerin platanoa eflatun demesi
 bkz küçük filozof oğlan tatlığı
 bkz platonun patlattığı oğlanlar
 bkz platonun mağara alegorisi
