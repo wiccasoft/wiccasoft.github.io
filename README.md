@@ -2,7 +2,7 @@
 
 <!-- 
 bkz aslı bekiroğlanın demeyi kapaması
-bkz kadir mısıroğlunun atacücüyla dalga geçmesi -->
+bkz kadir mısıroğlunun atacücüyle dalga geçmesi -->
 
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
