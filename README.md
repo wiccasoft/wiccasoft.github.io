@@ -3,6 +3,7 @@
 <!--
 bkz damadın fenerbahçeyi bitirme projesi
 bkz ozan tufanın beyin kanartan umut meler yorumu
+bkz akpnin türkiyeyi bütün dünyayaya düşman etmesi
 bkz recep tayyip erdoğanın beni seven kolayla sigara içmesin demesi
 bkz 15 yıldır kola içen adam
 bkz receğ tayyiğ erdoğan vs mustafa kamal atadandoğan
