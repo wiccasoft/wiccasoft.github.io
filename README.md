@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz acılara tutunmak
+bkz devlet bahçelinin taban oyları için rte ye yanaşması
+https://www.uludagsozluk.com/k/elde-vard%C4%B1r-bir-tek-o%C4%9Flun-kanl%C4%B1-beresi/
 https://www.uludagsozluk.com/k/kitaplara-s%C4%B1%C4%9F%C4%B1nmak/&w=bg
 https://www.uludagsozluk.com/k/sabah-05-00-te-uyanacak-olup-hala-uyumamak/
 https://www.uludagsozluk.com/k/bug%C3%BCn-se%C3%A7im-olsa-akp-nin-alaca%C4%9F%C4%B1-oy-oran%C4%B1/&w=bg
