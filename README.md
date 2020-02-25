@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz fatih tezcanın attığı tweet
 https://www.uludagsozluk.com/k/ru%C5%9Fen-amca-n%C4%B1n-o%C4%9Flu-sedat/&w=bg bkz sevişmelik oğlan
 https://www.uludagsozluk.com/k/kendini-bir-halt-sanan-insanlar/&w=bg bkz serkan inci
 bkz serkan inci nin inciyi dünya markası yapacam demesi
