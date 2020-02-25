@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz adam gibi adamları emiklemek
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-adaml%C4%B1%C4%9F%C4%B1/&w=bg adamlığı emiklenecek adam
 https://www.uludagsozluk.com/k/f%C4%B1rat-ayd%C4%B1nus/&w=bg geceye yakışıklı bırak
 bkz tayyibin 2077 cyberpunk yılı olacak demesi
