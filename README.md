@@ -4,6 +4,7 @@
 bkz allah kerim fatih terim
 bkz ozan tufanın beynini aldırması
 bkz başkanlık sisteminden sonra uçamayan fenerli başkan
+bkz diyaneti ezan çalıştayının atacücüyü anması
 bkz atacücü diyanet işleri başkanlığını iyi ki kurmuş
 bkz fatih tezcanın atakan atacücü zamanında yaşasaydı kitap okuyamazdı tweeti
 bkz mobile twitter link atıyorum kanka izle
