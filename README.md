@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
-<!--
+<!--,
+bkz akp nin libyayla aramızı bozması
+bkz akp nin libyada bi kaç leş var demesi
 bkz akp nin hindistanla aramızı bozması
 bkz akp nin bütün dünyayla aramızı bozması 
 bkz norveçlilerin fener maçında açtığı türkleri artık sevmiyoruz pankartı
