@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!-- 
-bkz akp nin atakanın büyümeden başını ezme projesi
+bkz akp nin lağım medyasının atakanı karalama kampanyası
 bkz atakanın atacücünün aşkerleriyiz demesi
 bkz aslı bekiroğlanın demeyi kapaması
 bkz kadir mısıroğlunun atacücüyle dalga geçmesi -->
