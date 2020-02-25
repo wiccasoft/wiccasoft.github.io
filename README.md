@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!-- 
+bkz aslı bekiroğlanın emre mor yürümesin diye demeyi kapamsı
 bkz fatih tezcanın kamalcı nefretinden pr kasarak zengin olma projesi
 bkz fatih tezcanın kamalcı nefretini paraya dönüştürecem demesi
 bkz fatih tezcan analiz merkezinin kamalcılardan kazandığı para
