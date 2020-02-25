@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+https://www.uludagsozluk.com/k/diktat%C3%B6rlerin-ortak-%C3%B6zellikleri/&w=bg bkz kamalcı olmaları
 bkz çingenlerin kendini türk sanması
 bkz türklükten keyif almak varken havlayan şopar
 bkz yeni ahitin bir türk dünyaya bedeldir haberi
