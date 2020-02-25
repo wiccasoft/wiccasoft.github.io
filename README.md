@@ -5,6 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42910418/ bkz gökten am yağsa bana yine saplı sultan düşer
 bkz madem allah yok niye inkar ediyosunuz
+https://www.uludagsozluk.com/k/bir-arab%C4%B1n-1400-y%C4%B1l-%C3%B6nce-allahla-konu%C5%9Fmas%C4%B1/&w=bg
 bkz din toplumların afyonudur reddediyorum diyen isyankar asi genç
 bkz patlak kızların suda çıkardığı ses
 bkz yeğenine 3 yıldır tecavüz eden dayı twitter linki bulamadım ama ediyodur kesin
