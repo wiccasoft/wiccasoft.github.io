@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz puding götlü emcüğü yeni büyümüş kızlar
 bkz cem yılmazın patlatmadığı karı kaldı mı sorunsalı
 https://www.uludagsozluk.com/k/defne-samyeli-vs-serenay-sar%C4%B1kaya/&w=bg 
 bkz defne samyeli vs serenay sarıkaya 
