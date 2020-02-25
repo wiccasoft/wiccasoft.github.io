@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
 <!-- 
+bkz erkan tana meslek önerileri
 https://eksisozluk.com/erkan-naldemirci--6381362?a=popular bkz erkan naldemircinin tede çıkması
 bkz fatih terim allah kerim
 https://www.uludagsozluk.com/k/kupa-i%C3%A7in-gs-li-olan-bebe/ lol 
