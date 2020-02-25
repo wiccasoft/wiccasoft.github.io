@@ -2,7 +2,7 @@
 
 <!--
 bkz hiç özlememek
-bkz yavşaklar ibneler puştlar cenneti
+bkz yavşaklar ibneler gavatlar puştlar cenneti
 bkz ataçlı ibnelerin kafa siktiği gerçeği
 bkz yanında ibne varken başka ibnelere bakan adam
 bkz cüce gezegenler nasıl oluştu sorunsalı
