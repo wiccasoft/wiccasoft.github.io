@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
-bkz ben sizin köye bağlı değilimin türkçesi
+bkz kızlar kızlar gelem mi yanağızdan öpem mi
 https://www.uludagsozluk.com/k/f%C4%B1rat-ayd%C4%B1nus/&w=bg bkz beslenir ki bu
 https://www.uludagsozluk.com/k/zenci-penisi/&w=bg bkz dick tatör
 bkz anti militarist anarşist kamalcıların güldürmesi
