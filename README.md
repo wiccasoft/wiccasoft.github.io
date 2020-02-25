@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+https://www.uludagsozluk.com/k/zenci-penisi/&w=bg bkz kamalacıların seveceği dick
 bkz ceyhun yılmazın kamalcılara özenip vurdurması
 bkz deep kamalcı webte rte ye direnen kamalcılar
 https://www.uludagsozluk.com/k/ceyhun-y%C4%B1lmaz-%C4%B1n-sunay-ak%C4%B1n-olma-%C3%A7abas%C4%B1/
