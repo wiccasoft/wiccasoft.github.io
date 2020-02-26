@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz belki erkek olur diye 20 kzı yaptırıp keranede çalıştıran adam
 bkz kızlarını keraneye yollayıp zengin olan adam
 bkz belki erkek olur diye sürekli çiftleşen adam
 bkz belki bu erkek olur diyerek 4 kız babası olan adam
