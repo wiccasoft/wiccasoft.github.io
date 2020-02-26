@@ -2,6 +2,7 @@
 
 <!--
 bkz cevab veremedi
+bkz duası kabul olmayan mü,slüman siniri
 bkz madem allah yok çiçekler nasıl açıyor peki
 bkz böyle bir dünya kendiliğinden yaratılmış olabilir mi
 bkz ademle havvanın çocukları ensestmiydi sorunsalı
