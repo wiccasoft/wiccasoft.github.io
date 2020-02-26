@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
-bkz kızını kyk borcu ödemeye yollayan gavat
+bkz kızını ped almaya yollayan gavat
 bkz beyler reisin gözlerini kapatıp kimim ben şakası yapıyoruz
 bkz beyler reise doğum gününde skyler white gibi süpriz yapalım
 https://eksisozluk.com/reise-dogum-gunu-hediyesi-onerileri--6382878?a=popular 
