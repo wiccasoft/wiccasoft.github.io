@@ -1,6 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
+<!-- https://www.uludagsozluk.com/k/henry-onyekuru/ gelmiş iki gözümün çiçeği *-->
+
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
 
