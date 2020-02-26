@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz özyeğen üniversitesie yeğeni yollamak
 bkz ersun yanalın alper potuk kozunu iyi oynaması
 bkz ersun yanalın mevzu fenerse gerisi teferruattır demesi
 bkz ak nonoşların kızdıramadığı gerçeği
