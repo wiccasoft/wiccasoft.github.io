@@ -2,7 +2,6 @@
 
 <!--
 bkz allahın duaları toplu okuması
-bkz allahın yüzsüz olması
 https://www.uludagsozluk.com/k/allah-%C4%B1n-ikiy%C3%BCzl%C3%BC-olmas%C4%B1/&w=bg
 bkz gelen peygramberin gideni aratması
 bkz hoşlaşılan peygamberin ölmesi
