@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz receğ tayyi ğerdoğanın isveç banakalrındaki parasını duysa altına sıçacak donsuzlar
 bkz receğ tayyiğ erdoğanın milyonluk oyuncaklarından habersiz olan ak nonoşlar
 bkz receğ tayyiğ erdoğanın 80000 lira maaş alması
 bkz çaycı hüso öldü söylentileri
