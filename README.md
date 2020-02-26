@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz atacücünün nuyukta corona virüsünden bahsetmesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-c%C3%BCbbeli-ahmet-hoca/&w=bg züppeli siker ayıq ol kankağ
 https://www.uludagsozluk.com/k/karde%C5%9F-pay%C4%B1-sezai/&w=bg bkz olm bu tam tırşık ha
 bkz zall ona hep oç derin peperdeyi kefen yapması
