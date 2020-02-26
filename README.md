@@ -4,9 +4,8 @@
 <!-- -
 https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
 amın sıçtığı fare kılıklı ibn eler ne paylşırsam entry giriyolar 
-bkz lan amın sıçtığı fare kılıklı ibneler ben fero yazıyomu?
 bkz lan amın sıçtığı fare kılıklı ibneler sözlüğünüzü götünüze sokarım ananız amından sıçarak çıkarsınız
- tayyip te kurtaramaz sizi
+tayyip te kurtaramaz sizi amın sıçtıkları
 https://www.pinterest.com/wiccasoft/pins/
 -->
 
