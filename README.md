@@ -5,6 +5,7 @@
 
 <!-- 
 bkz wikipedia vs uludagsözlük
+bkz kurtlar vadis pala vs makale yazan elçinsu
 bkz fenerbahçe gassaray hakkında makale yazan ergenler
 bkz uluszölük yazarlarının makale yazması
 bkz abdulhamdi hakkında makale yazacam diyen ergen
