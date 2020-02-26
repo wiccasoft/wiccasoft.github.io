@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz zall ona hep oç derle rallın ezik birer velet oldukları gerçeği
 bkz dolar 7 lira oldu hala atacücüye sirzodan geberdi diyor orombunun sıçtığı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4%9Fu-devlet/
 bkz sirozdan geberen oroznbu sıçmığının sarhoş kafayla devletin içine sıçması
