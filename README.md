@@ -5,6 +5,7 @@
 
 <!-- 
 bkz hırtlar vadisi abdulhey 
+bkz abdulhamdiyi hatalarıyla sevmek
 https://www.uludagsozluk.com/k/ciddi-ciddi-sabah%C4%B1n-k%C3%B6r%C3%BCnde-s%C3%B6zl%C3%BCkte-tak%C4%B1lmak/&w=bg
 bkz daha dur yeni başlıyoruz seyfo dayı kadıköyde soktuk mu boruyu
 bkz hdp kongresinde kangrenli akpliye saygısız duruş
