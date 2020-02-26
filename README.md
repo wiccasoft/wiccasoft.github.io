@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz hırtlar vadisi abdulhey 
+https://www.uludagsozluk.com/k/ciddi-ciddi-sabah%C4%B1n-k%C3%B6r%C3%BCnde-s%C3%B6zl%C3%BCkte-tak%C4%B1lmak/&w=bg
 bkz daha dur yeni başlıyoruz seyfo dayı kadıköyde soktuk mu boruyu
 bkz hdp kongresinde kangrenli akpliye saygısız duruş
 bkz onu bırakta ne koyduk ama fenere
