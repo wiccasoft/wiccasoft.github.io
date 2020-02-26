@@ -24,32 +24,14 @@ https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-c%C3%BCbbeli-ahmet-hoca/&w=bg
 bkz onu bırak da erkan tanı 3 kelimeyle anlat pampa
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-doktor-yazarlar/&w=bg zuahahahah sığır sıçmıkları
-çaycı hüseyin ölmesin be abi yapma be abiiiiiiii
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-in-corona-vir%C3%BCsinden-vefat-etmesi/
-bkz zall ona hep oç der
-bkz dolar 10 lira olunca görüşürüz ak kefenliler ellek ekber diye bağırırısınız
-bkz en anarşist adamı bile atatürkçü yapar bu hayvan sıçmıkları
-bkz dolar 7 lira oldu ülek batmış hala atacücüye sirozdan geberdi diyor orombunun sıçtığı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4%9Fu-devlet/
-bkz sirozdan geberen oroznbu sıçmığının sarhoş kafayla devletin içine sıçması
-bkz sirozdan geberen oronzbu sıçmığı
-bkz oç atacücünün sirozdan geberdiğini kabul edemeyen cücüler 
-bkz sirozdan gebermek
 bkz reis kaka yapıyor mudur sorunsalı
 bkz kılıştarın kakam geldi kakamı yapim geliyorum demesi
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Ftar-%C4%B1n-eyterebea-demesi/
-bkz atacücünün en süper millet cücüler demesi 
-bkz atacücünün sarhoş kafalay kurduğu devletin kafa sikmesi
-bkz atacücünün geberdiği gerçeği
-bka atacücücülerin kelle leşlerine şehit demeleri
-bkz kamalcılarla müslümlerin atacücüyü sevdiğimizi sanması
-bkz atacücünün cücüklükten aldığı keyf
-bkz atacücünün cücük gibi bişey olduğu gerçeği
-bk zhdp kongresindeki rezil atacücücü
-bkz haluk leventin atacücüden prim kasması
 bkz haluk leventin paylaştığı pkk videosu
 https://www.uludagsozluk.com/k/haluk-levent-in-%C5%9Fi%C5%9Firilmi%C5%9F-bir-balon-olmas%C4%B1/
-https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg bkz atacücünün başına gelen malum hadise -->
+https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg bkz atacücünün başına gelen süper olay -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
 
