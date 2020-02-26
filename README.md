@@ -1,57 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- 
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-ye-gelen-yurtd%C4%B1%C5%9F%C4%B1-u%C3%A7u%C5%9Flar-durdurulsun/ 
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahaha
-https://www.uludagsozluk.com/k/erdo%C4%9Fana-sad%C4%B1k-%C3%B6lmek-hain-ya%C5%9Famaktan-evlad%C4%B1r/
-https://www.uludagsozluk.com/k/pornolarda-ger%C3%A7ekten-duhul-oluyor-mu/ ilginç bi hadise
-https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg bkz hareket yapma hareketin kralını görürsün
-https://www.uludagsozluk.com/k/be%C5%9Far-esad-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki yiğido
-https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz kzıalr kızlar gelem mi
-https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
-bkz fatma şahini antartika tatilini uzatması
-bkz çekirdeklerimi aldım ak lgbt sevişirken çıtlayacam
-bkz çıt çıt çetene de sar bedeni bedene
-https://www.uludagsozluk.com/k/sir-a-dan-siradam/ sevişiyomusunuz kızlar
-https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg ay benden uzak olsun ayol hoff
-https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay sevimsiz ayol
-https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay bırak gitsin ayol
-https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz tinderdeki küfürlü seks seven kız
-https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
-biri de demiyo ki aga bu nedir
-bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
-bkz aşkım sen  gusül al rahatça vuruş diyen anlayışlı kız
-bkz ılık modası yüzüden delikanlıca vuruşamamak
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=gd 
-bkz haylaz şirinin hep aynı başlığa 3 kelime girmesi girmesi
-https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg 
-https://www.uludagsozluk.com/k/marks-%C4%B1n-m%C3%BCbarek-sakal%C4%B1/ bkz sakal-ı şerif
-bkz kardeş payı sezaiyle aynı eve çıkmak
-https://www.uludagsozluk.com/k/karde%C5%9F-pay%C4%B1-sezai/&w=bg bkz tam benim kafadan adam
-bkz wallah ararun 155 i corana paylaşmayın
-https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1-d%C4%B1%C5%9F%C4%B1ndaki-corona-payla%C5%9F%C4%B1mlar%C4%B1/
-https://www.uludagsozluk.com/k/mermiye-kafa-atan-mucahit/&w=bg bkz kolpaçino himmet
-bkz hırtlar vadisi pala vs kardeş patıo sezai vs kolapçino özgür
-bkz atacününün nutukta damarlarındazdaki asil kana corona morana bişey olmaz demesi
-bkz atacücünün nuyukta corona virüsünden bahsetmesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-c%C3%BCbbeli-ahmet-hoca/&w=bg züppeli siker ayıq ol kankağ
-https://www.uludagsozluk.com/k/karde%C5%9F-pay%C4%B1-sezai/&w=bg bkz olm bu tam tırşık ha
-bkz zall ona hep oç derin peperdeyi kefen yapması
-bkz aşkım götünü gusulledin mi diyen kız
-bkz facebook  ak kefenliler sayfamıza saldıran kamalcı
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4%9Fu-devlet/ 
-https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-c%C3%BCbbeli-ahmet-hoca/&w=bg
-bkz onu bırak da erkan tanı 3 kelimeyle anlat pampa
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-doktor-yazarlar/&w=bg zuahahahah sığır sıçmıkları
-https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-in-corona-vir%C3%BCsinden-vefat-etmesi/
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4%9Fu-devlet/
-bkz reis kaka yapıyor mudur sorunsalı
-bkz kılıştarın kakam geldi kakamı yapim geliyorum demesi
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Ftar-%C4%B1n-eyterebea-demesi/
-bkz haluk leventin paylaştığı pkk videosu
-https://www.uludagsozluk.com/k/haluk-levent-in-%C5%9Fi%C5%9Firilmi%C5%9F-bir-balon-olmas%C4%B1/
-https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg bkz atacücünün başına gelen süper olay -->
+
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
 
