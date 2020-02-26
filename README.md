@@ -5,7 +5,7 @@
 https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
 amın sıçtığı fare kılıklı ibn eler ne paylşırsam entry giriyolar 
 bkz lan amın sıçtığı fare kılıklı ibneler ben fero yazıyomu?
-bkz lan amın sıçtığı ibneler sözlüğünüzü götünüze sokarım
+bkz lan amın sıçtığı fare kılıklı ibneler sözlüğünüzü götünüze sokarım ananız amında sıçarak çıkarsınız
 https://www.pinterest.com/wiccasoft/pins/
 -->
 
