@@ -3,7 +3,6 @@
 
 <!--
 bkz anaşının kujuşu entry de girermiş çen entry de mi giriyon çen
-bkz annesi olm entry girdin mi yavrum derken top keke yiyip girdim anene bitti diyen ergen
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=bg 
 bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
 https://www.uludagsozluk.com orospunun sıçtıkları bebeler anaları sıçmış direk
