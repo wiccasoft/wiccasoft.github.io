@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz atatürkün türklükten aldığı keyf
 bkz atatürkizmin en güzel ideoloji olması
 bkz atatürkün süperlik türklüktür demesi
 bkz atatürkün en süper türklük demesi 
