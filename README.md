@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz rte nin faşo itlerinin tc itlerinden maaş aldığımı sanması
 https://www.uludagsozluk.com/e/42914705/ ödeme amınsıçtığı türk git reisinin kini öde
 bkz resinin pervin buldanın m aaşın zam yapın talimatı
 bkz pervin buldanın resinin doğum günü için pasta yapması
