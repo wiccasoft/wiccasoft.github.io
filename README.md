@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz kürtlerin kadına verdiği değer 
 bkz ezan çığırıken kadına verilen değerin düşmesi
 bkz celal kılıçcanoğlanın kadına verdiği değer
 bkz celal kılıçcanoğlanın akp ye katılması
