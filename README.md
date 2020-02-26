@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
-bkz hırtlar vadisi memco dayı
+bkz hırtlar vadisi memco dayının atarlı sahneleri
 bkz hırtlar vadi duran emmi aslan bey sevişme sahnesi
 bkz kurtlar vadisi remzi çukur bekir vuruşma sahnesi
 bkz kurtlar vadisi seyfo dayı polat sevişme sahnesi
