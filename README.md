@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ak gönüller bir olduk birbirimize koyduk sayfasında dönen geyik
 bkz devlet bahçelinin reisini elini öpüp biat etmesi
 bkz akp kongresinde ak pantalonla gelip iyi doğudun reisim diyen nonoş
 bkz mhp kongresine dar pantolonla gelen ak nnonoş
