@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz allahın 1400 yıldır kitap yazdırmadığı gerçeği
 bkz tayyip erdoğana doğum günü öpücüğü bırakıyoruz kampanyası
 bkz tayyip erdoğanın doğum gününü yaklaşması
 bkz cevab veremedi
