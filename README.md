@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz ciddi ciddi yazıklarının okunduğunu sanan ergenler
 bkz ciddi ciddi yazdığım yapay zekadan daha aptal olan ergenler
 bkz ciddi ciddi haber botuma kafa tutan ergenler
 bkz ciddi ciddi arama motoruma kafa tutan ergenler
