@@ -23,7 +23,6 @@ bkz hey hey taksi ekşiciyim ben aksi hey hey dur taksi akıl verecem sana taksi
 bkz ersun yanal gelince it gibi dağılan geyseliler
 bkz ekşicilerin putine verdiği önerileri putinin pek iplememesi
 bkz facebooka tayyip resmi atıp reis izindeyim yazan tipler
-https://eksisozluk.com/25-subat-2020-thy-ucaginin-acil-inis-yapmasi--6381562?a=popular tıklamadım kankağ
 bkz hdp kongresinde apoya saygı duruşu
 bkz hdp kongresinde apo posteri asılması
 https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg
