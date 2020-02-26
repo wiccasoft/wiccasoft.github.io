@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz muhallebi kokulu işsiz ak nonoş ibnelerin kendilerini adam sanması
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-adam-gibi-adam-yazarlar%C4%B1-s%C4%B1ral%C4%B1-liste/&w=bg
 https://www.uludagsozluk.com/k/tayttan-rahats%C4%B1z-olan-erkek/ bkz rall arkadaşları ona erkek diyor
 bkz rallın bimden pasta alırken taytlı kız görmesi eve gelince anneee diye ağlaması
 bkz rall annesi kek yaparken tayt giymek istiyormuş beyler
