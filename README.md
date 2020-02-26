@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ılık modası yüzünden delikanlıca vuruşacak adam bulamamak
 bkz atacücüzmün en boktan ideoloji olması
 bkz atacücününtürklükten aldığım keyf süper demesi en süper türk demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-egoist-olmas%C4%B1/
