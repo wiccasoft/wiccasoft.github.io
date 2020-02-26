@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz oç türklerin kendini nimetten sanması hoşt ulan it soyları
 bkz a haberin itlerini itin götüne sokarız sesiniz duyulmaz
 bkz kamalın leşlere şehit diyen oçları 
 bkz kamalın itleri geberince niye şehit oluyo lan amın sıçtıkları
