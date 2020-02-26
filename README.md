@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz reis kaka yapıyor mudur sorunsalı
 bkz kılıştarın kakam geldi kakamı yapim geliyorum demesi
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Ftar-%C4%B1n-eyterebea-demesi/
 bkz atacücünün en süper millet cücüler demesi 
