@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz kürtlerin çinlilerle olan dostluğu
 bkz çinlilerin türklerden it gibi korkması
 bkz çin sarayını basıp atacücü posteri asmak
 bkz atacücü sempatizanı terörristler
