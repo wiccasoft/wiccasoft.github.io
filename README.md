@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz kamalcılarla müslümlerin atacücüyü sevdiğimizi sanması
 bkz atacücünün cücüklükten aldığı keyf
 bkz atacücünün cücük gibi bişey olduğu gerçeği
 bk zhdp kongresindeki rezil atacücücü
