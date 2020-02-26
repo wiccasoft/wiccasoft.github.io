@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz çorap kokulu ortamlar
 https://www.uludagsozluk.com/k/galata-kulesi-%C3%BCmmetindir/ 
 bkz galata kulesinde zikr çekecez daha ayasofya bir gece ansızın
 bkz kakanın dersimin hesabını verceksiniz demesi
