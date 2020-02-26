@@ -1,8 +1,12 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- -https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
-amın sıçtığı fare kılıklı ibn eler ne paylşırsam entry giriyolar -->
+<!-- -
+https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
+amın sıçtığı fare kılıklı ibn eler ne paylşırsam entry giriyolar 
+bkz lan amın sıçtığı fare kılıklı ibneler ben fero yazıyomu?
+https://www.pinterest.com/wiccasoft/pins/
+-->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=FT3zuBuqnsk )
 
