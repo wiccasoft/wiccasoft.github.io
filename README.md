@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!--
+<!--bkz beyaz götlü hgusüllü ibneler niye birbirleriniz sikmiyorlar sorunalı
 bkz rte nin gusüllü nonoşlarına bir kızın aşkım gusül ne deme ihtimali
 bkz hayalerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-gus%C3%BCl-abdesti-ne-diye-soran-k%C4%B1z/
