@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz abdumuttap şenerin atacücü katliamını savunması
 bkz atacücünün pipsinin küçük olduğu halde nasıl subay olması
 bkz hdp kongresinde atatürk atatürk atatürk
 bkz hdp kongresindeki atatürkçünün 10. yıl marşı okuması
