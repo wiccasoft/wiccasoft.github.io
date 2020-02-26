@@ -6,6 +6,7 @@ bkz anaşının kujuşu entry de girermiş çen entry de mi giriyon çen
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=bg 
 bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
 https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
+https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg yok babanın götü amın sıçtığı
 -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=FT3zuBuqnsk )
