@@ -3,9 +3,9 @@
 
 
 <!-- 
-bkz şehitler tepesinde dönen geyik
+bkz 25 şubat 2020 ekşicilerin taksicilerle kavgası
 bkz ekşicilerin siklenmeme nedenleri
-bkz hey hey taksi ekşiciyim ben aksi hey ehy dur taksi akıl verecem sana taksiiiii
+bkz hey hey taksi ekşiciyim ben aksi hey hey dur taksi akıl verecem sana taksiiiii
 bkz ersun yanal gelince it gibi dağılan geyseliler
 bkz ekşicilerin putine verdiği önerileri putinin pek iplememesi
 bkz facebooka tayyip resmi atıp reis izindeyim yazan tipler
