@@ -3,7 +3,7 @@
 
 <!-- 
 bkz zall ona hep oç der
-bkz dolar 10 lira olunca görüşürüz ak kefenliler
+bkz dolar 10 lira olunca görüşürüz ak kefenliler ellek ekber diye bağırırısınız
 bkz en anarşist adamı bile atatürkçü yapar bu hayvan sıçmıkları
 bkz dolar 7 lira oldu ülek batmış hala atacücüye sirozdan geberdi diyor orombunun sıçtığı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4%9Fu-devlet/
