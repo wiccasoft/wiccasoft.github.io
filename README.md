@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch/?v=QFfEFHaK6qo )
 
 <!--
+bkz bilaloğlanın reisin elini öpüp bıbıcım doğum günü kutlu olsun demesi
 bkz pervin buldanın resin doğum gününde terörik cenazesin gitmesi
 bkz şaka maka kk nın sikini çıkarıp masaya vurması
 bkz şaka maka kk kaka yapıyor mudur sorunsalı
