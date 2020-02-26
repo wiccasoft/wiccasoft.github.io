@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz facebook a tayyi presmi atıp altına duygulu laflar yazmak
 bkz receğ tayyiğ erdoğanın doğum gününü kutlamayan kafirler
 bkz corona virüsünün kafirleri vurması
 bkz tayyipin bim pasta yiyip iyi ki doydum demesi
