@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz annesinin orospuluk yaptıran ulucu ergen
 bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
 bkz çalışmayıp bütün gün entry giren ergenlere top kek vermek
 bkz kılıççıcoğlunun yarramın sürecini desteklemesi
