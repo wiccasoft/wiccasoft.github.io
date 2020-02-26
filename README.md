@@ -5,7 +5,6 @@
 
 <!--
 bkz ciddi ciddi anarko kapitalism gelecek sanan sazanlar
-bkz ciddi ciddi paylaştığım herşeyi kendisiyle ilgili sanan sazanlar
 bkz ciddi ciddi erkan tanı anlatan sazanlar
 bkz guardian ı 3 kelime ile anlat
 bkz guardian varken a haberde haber okuyan ak nonoşlar
