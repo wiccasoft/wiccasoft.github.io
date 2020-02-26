@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=gd biri de demiyo ki aga bu nedir
+biri de demiyo ki aga bu nedir
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=gd 
 bkz haylaz şirinin hep aynı başlığa 3 kelime girmesi girmesi
 https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg 
 https://www.uludagsozluk.com/k/marks-%C4%B1n-m%C3%BCbarek-sakal%C4%B1/ bkz sakal-ı şerif
