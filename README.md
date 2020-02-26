@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz hz adem adam mıdır sorunsalı
 bkz alllahın fenerli olduğu gerçeği
 bkz allah madem yok niye inkar ediyosunuz
 bkz turgut uyar tomris uyarın amına yılan soktu mu sorunsalı
