@@ -2,7 +2,9 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 
-<!-- https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywalla bro  -->
+<!-- 
+https://eksisozluk.com/turklerin-ruslardan-korkmasi--3232780?a=popular oç türkler
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywalla bro  -->
 
 [![Image](waste/Screenshot_2020-02-25_18-38-07.png)]( https://www.youtube.com/watch?v=jVEKDcDEN1w )
 
