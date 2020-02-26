@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz recep tayyi perdoğan ibrahim tatlıseks dostluğu
 bkz 25 şubat 2020 kürt hava yolları uçağının acil iniş tapması
 bkz rusların kürtleri görünce it gib dağılması
 https://eksisozluk.com/turklerin-ruslardan-korkmasi--3232780?a=popular bkz kürtlerin ruslarla kankağ olması
