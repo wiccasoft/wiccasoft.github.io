@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkzfatma şahini antartika tatilini uzatması
 bkz fatma şahini antartika tatili insta pozları
 bkz çekirdeklerimi aldım ak lgbt sevişirken çıtlayacam
 https://www.uludagsozluk.com/k/sir-a-dan-siradam/ sevişiyomusunuz kızlar
