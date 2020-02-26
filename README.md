@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz gusüllü götle gezen nonoşların siklenmemesi
 bkz gusüllü götle domalıp ılık modasından dem vurmak
 bkz aşkım gusüllü götle domalma diyen kız
 bkz dünya liderinin pastamı hazırlayın üfleyecem demesi
