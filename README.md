@@ -5,13 +5,13 @@
 
 <!-- 
 bkz pala remzi vs memco dayı
+bkz kellelerden şehit diye bahsetmek
 bkz hırtlar vadisi memco dayının atarlı sözleri
 bkz hırtlar vadi duran emmi aslan bey sevişme sahnesi
 bkz kurtlar vadisi remzi çukur bekir vuruşma sahnesi
 bkz kurtlar vadisi seyfo dayı polat sevişme sahnesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
-bkz kellelerde şehit diye bahsetmek
 bkz fenerbahçenin aykut kocamanla anlaşması
 bkz receğ tayyiğ erdoğanı kim yarattı sorunsalı
 bkz receğ tayyiğ erdoğan okuyomuş gibi yazıyoruz
