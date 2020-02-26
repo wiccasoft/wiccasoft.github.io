@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz kürt hava yolları uçağının iniş yapması
 bkz kürtlerin çinlilerle olan dostluğu
 bkz çinlilerin türklerden it gibi korkması
 bkz çin sarayını basıp atacücü posteri asmak
