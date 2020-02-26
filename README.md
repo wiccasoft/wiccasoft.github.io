@@ -5,7 +5,7 @@
 
 <!--
 bkz ciddi ciddi yazıklarının okunduğunu sanan ergenler
-bkz ciddi ciddi yazdığım yapay zekadan daha aptal olan ergenler
+bkz ciddi ciddi yazdığım yapay zekadan aptal olan ergenler
 bkz ciddi ciddi haber botuma kafa tutan ergenler
 bkz ciddi ciddi arama motoruma kafa tutan ergenler
 bkz ciddi ciddi arama motorumu fenerbahçe sanan ergenlerin zeka seviyesi
