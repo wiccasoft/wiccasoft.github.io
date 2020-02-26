@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- https://www.uludagsozluk.com/k/henry-onyekuru/ gelmiş iki gözümün çiçeği *-->
+<!-- https://www.uludagsozluk.com/k/henry-onyekuru/ gelmiş iki gözümün çiçeği *
+https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-tekrar-belediye-ba%C5%9Fkan%C4%B1-olmas%C4%B1/&w=bg
+bkz melih başgan yeniden başgan selam ve dua ile -->
 
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
