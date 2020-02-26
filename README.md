@@ -1,7 +1,10 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- https://www.youtube.com/watch?v=fR9ZLJo6Pc4 ben kalın mı görüyorum -->
+<!-- 
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahaha
+https://www.youtube.com/watch?v=fR9ZLJo6Pc4 ben kalın mı görüyorum 
+-->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
 
