@@ -3,6 +3,7 @@
 
 <!-- 
 biri de demiyo ki aga bu nedir
+bkz ılık modası yüzüden delikanlıca vuruşamamak
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=gd 
 bkz haylaz şirinin hep aynı başlığa 3 kelime girmesi girmesi
 https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg 
