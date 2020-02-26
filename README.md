@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz racon kesmiyorum kafa kesiyorum
 bkz kurtlar vadisi seyfo vs pala remzi
 https://www.uludagsozluk.com/e/42911956/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz o da sizi seviyo genşler
