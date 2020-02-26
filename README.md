@@ -3,7 +3,6 @@
 
 <!-- 
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz reis hep ona oç derin güldürmesi
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nu-kimsenin-iplememesi/ bkz reisin de seni iplememsi
 https://www.youtube.com/watch/?v=QFfEFHaK6qo
 bkz dünyanın en iyi defans oyuncusunu cüceyle karşılaştırmak
 bkz türkerin futboldan zerre anlamadığı halde ısrarla yorumlaması
