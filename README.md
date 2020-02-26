@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz ciddi cdii a haberi arama moturu sanan sazanlar
 bkz ciddi ciddi beni top tepici sanan toplar
 bkz ciddi cdii makale yazabileceğini sanan liseliler
 bkz ciddi ciddi aptal olduğunu kabul edemeyen ergenler
