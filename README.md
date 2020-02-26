@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz aşkım götümü gusülledim diyen ak nonoş
 bkz şaka maka götünü gusülleyen ibnelerin azdırması
 bkz aşkım gmötünü gusülledin mi  diyen kız
 bkz aşkım gusil ne diyen kız rüyası gören nonoş
