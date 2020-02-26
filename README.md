@@ -3,7 +3,7 @@
 <!--
 bkz cevab veremedi
 bkz madem allah yok çiçekler nasıl açıyor peki
-bkz böyle bir düzen kendiliğinden yaratılmış olabilir mi
+bkz böyle bir dünya kendiliğinden yaratılmış olabilir mi
 bkz ademle havvanın çocukları ensestmiydi sorunsalı
 bkz ademle havvayı kim yarattı sorunsalı
 bkz hz adem adam mıdır sorunsalı
