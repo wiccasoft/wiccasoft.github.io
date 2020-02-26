@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz onu bırakta ne koyduk ama fenere
 bkz o değil de fenere ne koyduk ama
 bkz arakdan vurdun mu önden sallanacak aga
 bkz hırtlar vadisi pala koydukça zevke gelen seyfo
