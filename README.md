@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+https://www.uludagsozluk.com/k/erdo%C4%9Fana-sad%C4%B1k-%C3%B6lmek-hain-ya%C5%9Famaktan-evlad%C4%B1r/
 https://www.uludagsozluk.com/k/pornolarda-ger%C3%A7ekten-duhul-oluyor-mu/ ilginç bi hadise
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg bkz hareket yapma hareketin kralını görürsün
 https://www.uludagsozluk.com/k/be%C5%9Far-esad-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki yiğido
