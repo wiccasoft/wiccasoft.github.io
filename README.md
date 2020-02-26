@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
 bkz fatma şahini antartika tatilini uzatması
 bkz çekirdeklerimi aldım ak lgbt sevişirken çıtlayacam
 bkz çıt çıt çetene de sar bedeni bedene
