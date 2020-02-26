@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hdp kongrtesindeki oç atacücücü
+https://www.uludagsozluk.com/k/hdp-nin-rezil-kongresindeki-atat%C3%BCrk%C3%A7%C3%BC/
 https://www.uludagsozluk.com/k/geliyor-geliyor-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg
 bkz hırtlar vadisis izlerken arkadşaının sikini avuçlayan ak nonoş
 bkz ılık modası yüzünden delikanlıca vuruşacak adam bulamamak
