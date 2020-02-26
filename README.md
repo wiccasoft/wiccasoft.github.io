@@ -5,7 +5,7 @@
 
 <!-- 
 bkz wikipedia vs uludagsözlük
-bkz ciddi ciddi makale yazabileceğini sanan ekşici ulucu incici
+bkz ciddi ciddi makale yazabileceğini sanan ekşici ulucu incici olm siz önce liseyi bitirin
 bkz kurtlar vadis pala sözlerini birleştirip makale yazmak
 bkz fenerbahçe gassaray hakkında makale yazan ergenler
 bkz uluszölük yazarlarının makale yazması
