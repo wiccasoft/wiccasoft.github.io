@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz hdp kongresinde kangren olan akpli
 bkz abdulahmdinin saidle olan münasebeti
 bkz babişko işe gitmişken cinconlularla taşşak geçmek
 bkz hırtlar vadisi abdulhey hey taksi 
