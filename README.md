@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ılık modası yuüzünden delikanlı gibi vuruşamamak
 bkz hdp kongresinde kangren olan atacücücü
 bk türklerin atasıonın türkler süperdir ataları daha süperdir demesi
 bkz atatürkün türklük süper bişeydir en süper türktür demesi bende atatürküm en süper benim demesi
