@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz hdp kongresinde kafa kopartılması
 bkz pala remzi vs memco dayı
 bkz kellelerden şehit diye bahsetmek
 bkz hırtlar vadisi memco dayının atarlı sözleri
