@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg taşşakları yalanası paşa
 bkz hdp kongresinde resi için yapılan pastadan çıkan dansöz
 bkz ılık modası yüzüden adam gibi vurşamamak
 https://www.uludagsozluk.com/k/hdp-nin-rezil-kongresindeki-atat%C3%BCrk%C3%A7%C3%BC/
