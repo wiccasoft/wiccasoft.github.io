@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz atacücü terör örgütü
+bkz atacücü terör örgütü militanlarının saygı duruşu
 bkz çinlilerin türklerden it gibi korkması
 bkz çin sarayını basıp atacücü posteri asmak
 bkz atacücü sempatizanı terörristler
