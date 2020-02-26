@@ -3,6 +3,8 @@
 
 
 <!-- 
+bkz hey hey taksi ekşiciyim ben aksi
+https://eksisozluk.com/taksicilerin-marti-scooter-icin-onlem-almasi--6382344?a=popular oç taksiziler
 https://eksisozluk.com/turklerin-ruslardan-korkmasi--3232780?a=popular oç türkler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywalla bro  -->
 
