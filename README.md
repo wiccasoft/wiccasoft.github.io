@@ -1,18 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!--
-bkz şaka maka fatih terimini fenere götten kayması
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-2020-nin-bitmesi/&w=bg bkz şaka maka madafaka beyler
-https://www.uludagsozluk.com/k/baban%C4%B1n-a%C4%9Flamas%C4%B1/&w=bg babanın götünü sikeyim
-bkz yok ananın göt deliği 
-https://www.uludagsozluk.com/k/aydaki-kraterleri-pinpon-toplar%C4%B1n%C4%B1n-olu%C5%9Fturmas%C4%B1/
-bkz anaşının kujuşu entry de girermiş çen entry de mi giriyon çen
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=bg 
-bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
-https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
-https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg yok babanın götü amın sıçtığı
--->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=FT3zuBuqnsk )
 
