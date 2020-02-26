@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz fenerbahçenin aykut kocamanla anlaşması
 bkz receğ tayyiğ erdoğanı kim yarattı sorunsalı
 bkz receğ tayyiğ erdoğan okuyomuş gibi yazıyoruz
 bkz hey hey taksi ekşiciyiz biz aksi hey dur taksi
