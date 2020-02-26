@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/k/mermiye-kafa-atan-mucahit/&w=bg bkz kolpaçino himmet
 bkz hırtlar vadisi pala vs kardeş patıo sezai vs kolapçino özgür
 bkz atacününün nutukta damarlarındazdaki asil kana corona morana bişey olmaz demesi
 bkz atacücünün nuyukta corona virüsünden bahsetmesi
