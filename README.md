@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz çin sarayının basıp atacücü posteri asmak
 bkz atacücü sempatizanı terörristler
 bkz hdp kongresinde atacüc için saygı duruşu
 bkz çinlilerin kürtlerden it gibi korkması
