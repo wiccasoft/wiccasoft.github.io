@@ -3,7 +3,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz tinderdeki küfürlü seks seven kız
-https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz beni tarif etmiş ühühü
+https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
 biri de demiyo ki aga bu nedir
 bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
 bkz aşkım sen  gusül al rahatça vuruş diyen anlayışlı kız
