@@ -1,28 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- 
-bkz geliyor geliyor çorap kokusu geliyor
-https://www.uludagsozluk.com/k/galata-kulesi-%C3%BCmmetindir/ bkz çorap kokulu ortamlar
-bkz galata kulesinde zikr çekecez daha ayasofya bir gece ansızın
-bkz kakanın dersimin hesabını verceksiniz demesi
-bkz celal kılıçoğlunun şaka şaka  yanım uzun adamın yanıdır demesi
-bkz celal kılıçoğlunun chp başişına geçme sinyalleri yakması
-bkz ümmmeti muhammedin galata kulesini içine alması
-bkz hdp kongresinden atacücüye pipi sallayan yonan
-bkz aşkım ben mi diyen kıza sensizken ankapark bie ıssız gulüm guslümü alim geliyom demek
-bkz aşkım haluk mu ben mi diyen kız
-https://www.uludagsozluk.com/k/haluk-levent/&w=bg kocaman bir balon vaziyet alın patlar bu
-bkz kakayı kimsenin siklememesi
-bkz dünya liderinin kakayı rakip olarak görmemesi
-bkz geliyor geliyor dünya lideri geliyor
-bkz kaka nın kakası geliyıor mudur sorunsalı
-bkz ılık modası yüzünden kürtlerden soğumak
-bkz ılık modası yüzünden adam gibi mmaç muhabbeti yapamamak
-https://www.uludagsozluk.com/k/henry-onyekuru/ gelmiş iki gözümün çiçeği *
-https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-tekrar-belediye-ba%C5%9Fkan%C4%B1-olmas%C4%B1/&w=bg
-bkz melih başgan yeniden başgan selam ve dua ile -->
-
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
 
