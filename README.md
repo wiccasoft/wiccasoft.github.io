@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz atacücününtürklükten aldığım keyf süper demesi en süper türk demesi
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-egoist-olmas%C4%B1/
 bkz receğ tayyiğ erdoğanın isveç banaklarındaki parasını duysa altına sıçacak donsuzlar
 bkz receğ tayyiğ erdoğanın milyonluk oyuncaklarından habersiz olan ak nonoşlar
 bkz receğ tayyiğ erdoğanın 80000 lira maaş alması
