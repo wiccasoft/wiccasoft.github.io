@@ -5,7 +5,7 @@
 
 <!--
 bkz beyler reisin gözlerini kapatıp kimim ben şakası yapıyoruz
-bkz beyler reise doğum gününde sykler white gibi yapıyoruz
+bkz beyler reise doğum gününde süpriz yapalım kampanyası
 https://eksisozluk.com/reise-dogum-gunu-hediyesi-onerileri--6382878?a=popular 
 bkz şaka maka damadın kyk borçlarını gss prim borçlarına kaydırması
 bkz şaka maka madafaka damadın trap zone u şampiyon yapacağı gerçeği
