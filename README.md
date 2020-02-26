@@ -5,6 +5,7 @@
 
 <!-- 
 bkz wikipedia vs uludagsözlük
+bkz uluszölük yazarlarının makale yazması
 https://www.uludagsozluk.com/k/ateistin-ahlak-anlay%C4%B1%C5%9F%C4%B1-olamayaca%C4%9F%C4%B1/&w=bg
 bkz ciddi ciddi abdulhamdiyi savunmak
 bkz abdulhamdinin yaptığı doğru transferler
