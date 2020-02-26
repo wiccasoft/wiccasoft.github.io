@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz gelen peygramberin gideni aratması
 bkz hoşlaşılan peygamberin ölmesi
 bkz idolüm sensin yarışması finali
 bkz recep tayyip erdoğanın doğum gününde  zippo çakmak isterim demesi
