@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+çaycı hüseyin ölmesin be abi yapma be abiiiiiiii
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-in-corona-vir%C3%BCsinden-vefat-etmesi/
 bkz zall ona hep oç der
 bkz dolar 10 lira olunca görüşürüz ak kefenliler ellek ekber diye bağırırısınız
 bkz en anarşist adamı bile atatürkçü yapar bu hayvan sıçmıkları
