@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz devlet bahçelinin reisini elini öpüp biat etmesi
 bkz akp kongresinde ak pantalonla gelip iyi doğudun reisim diyen nonoş
 bkz mhp kongresine dar pantolonla gelen ak nnonoş
 https://www.uludagsozluk.com/k/nas%C4%B1l-s%C4%B1k%C4%B1lm%C4%B1yonuz-lan/
