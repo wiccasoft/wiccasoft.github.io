@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz tek partili sisteme geçelim kampanyası her kafadan bi ses çıkıyor
 bkz akp dışındaki partiler kapatılsın kampanyası
 bkz mhp hdp chp akp kongreslerini banttan izlemek
 bkz akp kongresinde yarrama saygısılık yapılması
