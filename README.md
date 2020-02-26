@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz belki bu erkek olur diye 4 kız doğurtan gavat
 bkz kızını siktrecek kadar geniş gavatların olduğu gerçeği
 bkz kızını ped almaya yollayan gavat
 bkz beyler reisin gözlerini kapatıp kimim ben şakası yapıyoruz
