@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz atacücünün cücük gibi bişey olduğu gerçeği
 bk zhdp kongresindeki rezil atacücücü
 bkz haluk leventin atacücüden prim kasması
 bkz haluk leventin paylaştığı pkk videosu
