@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/o-de%C4%9Fil-de-fener-nas%C4%B1l-kad%C4%B1k%C3%B6yde-yenildi-ya/ nası koyduk beyler
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg
 bkz o değil de nası koyduk fenere len amq
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
