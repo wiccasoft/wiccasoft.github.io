@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg bkz hareket yapma hareketin kralını görürsün
+https://www.uludagsozluk.com/k/be%C5%9Far-esad-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki yiğido
 https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz ben maço kızlar ağlattı hep beni
 https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
 bkz fatma şahini antartika tatilini uzatması
