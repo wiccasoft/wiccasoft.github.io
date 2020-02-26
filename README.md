@@ -3,7 +3,7 @@
 
 <!-- 
 bkz dünyanıon en iyi defans oyuncusunu cüceyle karşılaştırmak
-bkz türkerin futboldan anlamadığı halde ısrarla yorumlaması
+bkz türkerin futboldan zerre anlamadığı halde ısrarla yorumlaması
 https://www.uludagsozluk.com/k/lionel-messi-vs-sergio-ramos/ ramos siker atar manyak mısın olm
 https://www.uludagsozluk.com/e/42914161/ bkz beyler siz saldırın beni tarif etmiş
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
