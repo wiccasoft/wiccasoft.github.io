@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hdp kapatılsın kampanyası
+https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg
 bkz tek partili sisteme geçelim kampanyası her kafadan bi ses çıkıyor
 bkz akp dışındaki partiler kapatılsın kampanyası
 bkz mhp hdp chp akp kongreslerini banttan izlemek
