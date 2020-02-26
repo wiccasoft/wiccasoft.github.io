@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch/?v=QFfEFHaK6qo )
 
 <!--
-bkz reisnin doğum günü varken hdplilerin yaptığı saygısızlık
+bkz resinin doğum gününde proveke eden hdpkklılar
+bkz reisin doğum günü varken hdplilerin yaptığı saygısızlık
 bkz pervin buldanın attığı tweet
 bkz bilaloğlanın bıbcım yaşını sıfırla bıbıcım demesi
 bkz bilaloğlanın reisin elini öpüp bıbıcım doğum günü kutlu olsun demesi
