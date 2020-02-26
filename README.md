@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz ciddi ciddi abdulhamdiyi savunmak
 bkz abdulhamdinin yaptığı doğru transferler
 bkz fenerli futbolcular vs gassaraylı futbolcular
 https://www.uludagsozluk.com/k/iltifat-al%C4%B1nca-yap%C4%B1lacaklar/
