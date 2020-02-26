@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
-bkz wikipedia vs deepturkishweb sözlük dedikleri forum siteleri
+bkz wikipedia vs deepturkishweb sözlük dedikleri tuhaf liseli forum siteleri
 bkz bi makale yazacam fenerbahçe cincon herkeş okuyocon diyen ergen
 bkz ciddi ciddi makale yazabileceğini sanan ekşici ulucu incici
 bkz kurtlar vadis pala sözlerini birleştirip makale yazmak
