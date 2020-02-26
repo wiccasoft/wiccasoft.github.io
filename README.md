@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
-
+<!-- https://www.uludagsozluk.com/e/42912622/ iki halk yolları ayırlmalı laga lugaya gerek yok -->
 
 [![Image](waste/Screenshot_2020-02-25_18-38-07.png)]( https://www.youtube.com/watch?v=jVEKDcDEN1w )
 
