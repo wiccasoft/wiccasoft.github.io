@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz odeğil de gassaray nası koydu fenere la
+https://www.uludagsozluk.com/k/o-de%C4%9Fil-de-fener-nas%C4%B1l-kad%C4%B1k%C3%B6yde-yenildi-ya/
 bkz abdulhamdi alınca yapılacaklar
 bkz abdulhamdiyi hatalarıyla sevmek
 bkz abdulhamdiyi doğrusuyla yanlışıyla sevebilmek
