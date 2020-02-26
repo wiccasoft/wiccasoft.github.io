@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz kurtlar vadisi polat aslan beyi hoplattı mı sorunsalı
 bkz pala remzi vs erdo
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg bkz efso pala diyalogları
 bkz facebook a rte fotosu atıp reis arkandayız yazmak
