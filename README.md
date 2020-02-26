@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz ciddi ciddi türklerin forum sitelerine dözlük demeleri
 bkz wikipedia vs sözlük dedikleri tuhaf liselilerin takıldığı forum siteleri
 bkz bi makale yazacam fenerbahçe cincon herkeş okuyocon diyen ergen
 bkz ciddi ciddi makale yazabileceğini sanan ekşici ulucu incici
