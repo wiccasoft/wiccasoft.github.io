@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz paylaştığım her şeye atlayan çomarlar
 bkz paylaitığı aanrcho kapitalism harfini a haber sanan itler
 bkz türklerin her kemiğe atlaması olayı
 bkz oç türklerin kendini nimetten sanması hoşt ulan it soyları
