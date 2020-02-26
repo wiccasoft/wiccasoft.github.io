@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz dünya liderinni kk yı iplememesi
+bkz dünya liderinin kakayı rakip olarak görmemesi
+bkz dünya liderinni kakayı iplememesi
 bkz kk nın kakası geliyor mu soransalı
 bkz aşkım götümü gusülledim diyen ak nonoş
 bkz şaka maka götünü gusülleyen ibnelerin azdırması
