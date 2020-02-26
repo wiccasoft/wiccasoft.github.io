@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ak ların kalkınma partisinin paraları aklaması
 bkz halhların demoğratriğ partisinin halhlarığ demoğrasiye davet etmesi
 bkz halkların demoğratiğ partisinin tweeter adresi
 bkz ak gönüller bir olduk birbirimize koyduk sayfasında dönen geyik
