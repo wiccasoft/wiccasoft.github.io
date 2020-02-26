@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://sir-a-dan-siradam.uludagsozluk.com/ bkz ak nonoş
+https://www.uludagsozluk.com/k/dar-pantolon-giyen-erkekler/&w=bg pipileri lüçüktür
 bkz bahçelinin mayışlar yattıysa kahve içeyim demesi
 bkz mhp kongresinde 41 yapar diyen rezil atacücücü
 bkz akp koongresini banttan izlemek
