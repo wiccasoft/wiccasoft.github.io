@@ -4,8 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
-bkz ciddi ciddi arama motoruma kafa tutan ergenler
 bkz ciddi ciddi haber botuma kafa tutan ergenler
+bkz ciddi ciddi arama motoruma kafa tutan ergenler
 bkz ciddi ciddi arama motorumu fenerbahçe sanan ergenlerin zeka seviyesi
 bkz ciddi ciddi ergenlerin anılarını yazdıkları blog forum sitelerini sözlük sanmaları
 bkz wikipedia vs sözlük dedikleri tuhaf liselilerin takıldığı forum siteleri
