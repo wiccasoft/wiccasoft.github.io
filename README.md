@@ -4,10 +4,6 @@
 
 <!-- 
 bkz atacücü terör örgütü
-bkz hdp nin atacücü yü öcü gibi göstermesi
-bkz alman cdu kongresinde atacücü posteri yakılması
-bkz kürt hava yolları uçağının wuhana iniş yapması
-bkz kürtlerin çinlilerle olan dostluğu
 bkz çinlilerin türklerden it gibi korkması
 bkz çin sarayını basıp atacücü posteri asmak
 bkz atacücü sempatizanı terörristler
