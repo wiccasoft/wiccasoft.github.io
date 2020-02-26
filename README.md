@@ -6,6 +6,7 @@
 <!-- 
 bkz kusursuz sözlük yazarları
 bkz canım şimdi övdüm hepinizi ısrar etmeyin
+bkz mükemmeliğin vücut bulmuş hali sözlükçüler
 https://www.uludagsozluk.com/k/iltifat-al%C4%B1nca-yap%C4%B1lacaklar/
 bkz abdulhamdiyi sevaplarıyla günahlarıyla sevmek
 bkz abdullahın yaptığı doğru şeyler
