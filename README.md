@@ -3,7 +3,7 @@
 
 <!--
 bkz zall bana hep oç derin erdoğana götten vermesi yasaklansın kampanyası
-bkz hdp kongresinde götveren erdoğanın kafa sikmesi
+bkz hdp kongresinde götveren rallın kafa sikmesi
 https://www.uludagsozluk.com/k/k%C3%BCrtcell/&w=bg bkz ibrahimtalısekscell
 https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg cumhurbaşkanına götte kayayıom ibneni evladı 
 https://www.uludagsozluk.com/k/tayt-giymek-yasaklans%C4%B1n-kampanyas%C4%B1/ anan da giymesin içine amın sıçtığı
