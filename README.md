@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz dünya liderinin pasta mı hazırlayın demesi
+bkz dünya liderinin pastamı hazırlayın üfleyecem demesi
 bkz dünya liderinin artık rakipsiz kalması
 bkz dünya liderinin doğum günü
 bkz kakanın dünya liderini iplememesi
