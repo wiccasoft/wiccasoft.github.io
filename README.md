@@ -3,7 +3,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
-<!-- 
+<!--
 bkz ciddi ciddi ergenlerin anılarını yazdıkları blog sitelerini sözlük sanmaları
 bkz wikipedia vs sözlük dedikleri tuhaf liselilerin takıldığı forum siteleri
 bkz bi makale yazacam fenerbahçe cincon herkeş okuyocon diyen ergen
