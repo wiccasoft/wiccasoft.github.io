@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- -https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları -->
+<!-- -https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
+amın sıçtığı fare kılıklı ibn eler ne paylşırsam entry giriyolar -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=FT3zuBuqnsk )
 
