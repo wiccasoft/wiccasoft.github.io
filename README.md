@@ -3,10 +3,9 @@
 
 <!-- 
 bkz fatma şahini antartika tatilini uzatması
-bkz fatma şahini antartika tatili insta pozları
 bkz çekirdeklerimi aldım ak lgbt sevişirken çıtlayacam
 https://www.uludagsozluk.com/k/sir-a-dan-siradam/ sevişiyomusunuz kızlar
-https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg ay bende uzak olsun ayol hoff
+https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg ay benden uzak olsun ayol hoff
 https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay sevimsiz ayol
 https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay bırak gitsin ayol
 https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz tinderdeki küfürlü seks seven kız
