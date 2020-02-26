@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- 
+bkz hdp kongresinde atacücüye saygısız hareket
 bkz ayrılıkçı kürtçüler vs ayrılıkçı türkçüler
 bkz ayrılıkçı kürtlerin ayrılık türklerle vadiyi ikiye bölmesi
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
