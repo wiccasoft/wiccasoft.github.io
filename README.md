@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz taksicilerin götünün kalkması
 bkz hdp kongresinde kangren akpliye yapılan saygısız duruş
 bkz abdulahmdiyi hatalarıyla affetmek bağışlamak
 bkz canım şimdi övdüm hepinizi ısrar etmeyin
