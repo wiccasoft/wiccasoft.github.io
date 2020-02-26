@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg 
 bkz fenerbahçe vs galatasaray
 bkz oç ateistlerin yok edilmesi gerekliliği
 bkz ateistlerin oç oldukları gerçeğini göz ardı etmek
