@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz kuretlar vadis remzi çukur bekir vuruşma sahnesi
 bkz kurtlar vadisi seyfo dayı polat aşkı
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
 https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
