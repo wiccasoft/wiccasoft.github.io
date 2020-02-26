@@ -4,7 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
-bkz yapragam yarramı yersin anca diyen kız
+bkz fenerbahçe gasaray dosluğu
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg
 bkz hdp kongresinde kangren olan akpli
 bkz abdulahmdinin saidle olan münasebeti
 bkz babişko işe gitmişken cinconlularla taşşak geçmek
