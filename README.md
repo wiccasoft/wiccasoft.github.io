@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkteki-doktor-yazarlar/&w=bg zuahahahah doktorun ne işi var lan orda
 çaycı hüseyin ölmesin be abi yapma be abiiiiiiii
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-in-corona-vir%C3%BCsinden-vefat-etmesi/
 bkz zall ona hep oç der
