@@ -3,7 +3,6 @@
 
 <!--
 bkz rall annesi kek yaparken tayt giymek istiyormuş beyler
-bkz rallın tontiş yanaklarını sıkıp yarrağı azına vermek
 bkz rall 18 yaşına basınca annesine beleş basıyoruz kampanyası
 bkz rallın annesi orospuluk yaparken veledi zina rallın oç luğu yapması
 bkz rallın annesinin orospuluk yapması yasaklansın kampanyası
