@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ılık modası yüzüden delikanlıca vuruşamamak
 bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
 bkz aşkım sen  gusül al rahatça vuruş diyen anlayışlı kız
-bkz ılık modası yüzüden delikanlıca vuruşamamak
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz ne vereyim abime
 https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay sevimsiz ayol
 https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay bırak gitsin ayol
