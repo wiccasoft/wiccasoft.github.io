@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg doğum günü öpücüğü yok mu gebeşler
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-15-temmuz-ger%C3%A7ekle%C5%9Fseydi-%C5%9Feriat-gelmesi/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywall genşler reis severek okuyo yazın bişeyler
 https://eksisozluk.com/taksicilerin-marti-scooter-icin-onlem-almasi--6382344?a=popular
