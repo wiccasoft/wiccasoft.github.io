@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!--bkz rte nin bekçi maaşlarınıo düzeltecem sözü
+<!--
+bkz rte nin 80000 lira maaşını akitlerin tığış tığış ödemesi
+bkz rte nin bekçi maaşlarınıo düzeltecem sözü
 bkz rte nin itlerinin maaşımı ödediklerini sanması
 bkz rte nin itlerinin hala beni millet vekili sanması
 bkz rte nin faşo itlerinin tc itlerinden maaş aldığımı sanması
