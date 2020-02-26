@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz kürtler niye kürtcell kullanmıyo sorunsalı
+https://www.uludagsozluk.com/k/k%C3%BCrtler-sokakta-nas%C4%B1l-rahat-y%C3%BCr%C3%BCyor/
 bkz atacücüye en güzel tedavü güzelce tecavüz
 bkz facebook a tayyi presmi atıp altına duygulu laflar yazmak
 bkz receğ tayyiğ erdoğanın doğum gününü kutlamayan kafirler
