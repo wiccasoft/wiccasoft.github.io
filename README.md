@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ulu kapanırsa ak nonoşlar nerde buluşacakalr sorunsalı
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-kapan%C4%B1rsa-yazarlar-ne-yapacak/&w=bg bkz gay siteleri
 https://sir-a-dan-siradam.uludagsozluk.com/ bkz ak nonoş
 https://www.uludagsozluk.com/k/dar-pantolon-giyen-erkekler/&w=bg pipileri lüçüktür
