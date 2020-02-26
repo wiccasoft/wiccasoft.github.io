@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Faka-maka-2020-nin-bitmesi/&w=bg bkz şaka maka madafaka beyler
 https://www.uludagsozluk.com/k/baban%C4%B1n-a%C4%9Flamas%C4%B1/&w=bg babanın götünü sikeyim
 bkz yok ananın göt deliği 
 https://www.uludagsozluk.com/k/aydaki-kraterleri-pinpon-toplar%C4%B1n%C4%B1n-olu%C5%9Fturmas%C4%B1/
