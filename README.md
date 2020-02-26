@@ -7,12 +7,8 @@ bkz dünya liderinin kakayı rakip olarak görmemesi
 bkz dünya liderinni kakayı iplememesi
 bkz kk nın kakası geliyor mu soransalı
 bkz aşkım götümü gusülledim diyen ak nonoş
-bkz şaka maka götünü gusülleyen ibnelerin azdırması
-bkz aşkım gmötünü gusülledin mi  diyen kız
-bkz aşkım gusil ne diyen kız rüyası gören nonoş
 bkz beyaz götlü hgusüllü ibneler niye birbirleriniz sikmiyorlar sorunalı
 bkz rte nin gusüllü nonoşlarına bir kızın aşkım gusül ne deme ihtimali
-bkz hayalerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-gus%C3%BCl-abdesti-ne-diye-soran-k%C4%B1z/
 bkz ılık modası yüzünden ülkü ocaklarında vuruşacak adam bulamamak
 bkz ılık modası yüzünden aşkım gusül ne diyeen kız
