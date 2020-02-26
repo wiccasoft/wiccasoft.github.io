@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz wallah ararun 155 i corana paylaşmayın
+https://www.uludagsozluk.com/k/sa%C4%9Fl%C4%B1k-bakanl%C4%B1%C4%9F%C4%B1-d%C4%B1%C5%9F%C4%B1ndaki-corona-payla%C5%9F%C4%B1mlar%C4%B1/
 https://www.uludagsozluk.com/k/mermiye-kafa-atan-mucahit/&w=bg bkz kolpaçino himmet
 bkz hırtlar vadisi pala vs kardeş patıo sezai vs kolapçino özgür
 bkz atacününün nutukta damarlarındazdaki asil kana corona morana bişey olmaz demesi
