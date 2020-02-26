@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://www.uludagsozluk.com/k/hasan-ali-y%C3%BCcel/&w=bg bkz tipine sokim
 bkz ılık modası yüzüden delikanlıca vuruşamamak
 bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
 bkz aşkım sen  gusül al rahatça vuruş diyen anlayışlı kız
