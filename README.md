@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ak nonoşların kızdıramadığı gerçeği
 bkz ak nonoşlar adımı bilmediğiniz için şanslısınız
 bkz benim yiğenim atakan olsaydı erkan naldemirciyi bulur duvarda duvara vura vura sikerdim net
 bkz sikmeye değecek ak nonoşların olmadığı gerçeği
