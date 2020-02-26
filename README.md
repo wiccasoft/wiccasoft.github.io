@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz olm amın sıçtıkları ben babam öldüğünde ağlamadım siz mi ağlatacaksınız beni
+bkz olm amın sıçtıkları ben babam öldüğünde ağlamadım siz mi ağlatacaksınız beni bebe ruhiler
 https://www.uludagsozluk.com/k/ben-hi%C3%A7-a%C4%9Flamam-diyen-erkek/ bkz  devil may cry
 bkz sıkıldım amk eşcinsellerin sıkması
 https://www.uludagsozluk.com/k/buhari-ve-m%C3%BCslim-%C3%A7%C3%B6kerse-islam-%C3%A7%C3%B6ker/&w=bg
