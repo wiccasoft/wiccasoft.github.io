@@ -1,8 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- bkz libyadaki leşlere şehit diyen oçları 
-bkz kamalın itleri geberince niye şejhit oluyo lan amın sıçtıkları
+<!-- 
+bkz kamalın leşlere şehit diyen oçları 
+bkz kamalın itleri geberince niye şehit oluyo lan amın sıçtıkları
 -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=n_GiCz7nPsU )
