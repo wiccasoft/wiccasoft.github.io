@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz kaka nın kakası geliyıor mudur sorunsalı
 bkz ılık modası yüzünden kürtlerden soğumak
 bkz ılık modası yüzünden adam gibi mmaç muhabbeti yapamamak
 https://www.uludagsozluk.com/k/henry-onyekuru/ gelmiş iki gözümün çiçeği *
