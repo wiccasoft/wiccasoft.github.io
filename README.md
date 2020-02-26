@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd nolacak bu fenerin hali
 bkz 12numaranın attığı tweet
 bkz fenerbahçe.org sitesinin hacklenmesi
 bkz fenerbaçenin alpe potukun sözleşimesini uzatması
