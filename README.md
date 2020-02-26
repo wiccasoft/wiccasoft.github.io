@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz reisin gözlerini kapğatıp ben kimim bil b akalım şapşik diyen akboy
 bkz adam gibi adam geliyor reis geliyor
 bkz ılık modası yüzüden adam gibi vurşamamak
 https://www.uludagsozluk.com/k/hdp-nin-rezil-kongresindeki-atat%C3%BCrk%C3%A7%C3%BC/
