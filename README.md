@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz türklerin ruslardan it gibi korkması
 bkz ben turkcell hat kullanmam diyen kürt
 bkz 25 şubat 2020 türk hava yollarıın türklere turkcell hat dağıtması
 bkz 25 şubat 2020 turkcell in kürtlere hat satmıyoruz kararı
