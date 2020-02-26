@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz yine sıkıldım amk afakanar bastı
 bkz olm amın sıçtıkları ben babam öldüğünde ağlamadım siz mi ağlatacaksınız beni bebe ruhiler
 https://www.uludagsozluk.com/k/ben-hi%C3%A7-a%C4%9Flamam-diyen-erkek/ bkz  devil may cry
 bkz sıkıldım amk eşcinsellerin sıkması
