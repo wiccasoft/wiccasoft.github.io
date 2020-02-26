@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
-bkz twitter ak kefenliler sayfasının kapanması
+bkz facebook  ak kefenliler sayfamıza saldıran kamalcı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-sarho%C5%9F-kafayla-kurdu%C4%9Fu-devlet/ 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-c%C3%BCbbeli-ahmet-hoca/&w=bg
 bkz onu bırak da erkan tanı 3 kelimeyle anlat pampa
