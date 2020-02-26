@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz erdonun ben gürücüyüm hanım da arap zaten demesi
 bkz rizeli erkeklerin kadına verdiği değer
 bkz re ce ğ tay y iğ er doğ an re ce tay yi er doğ an
 bkz geliyor geliyor  dünya lideri geliyor oopooooo recep tayyip erdoğan
