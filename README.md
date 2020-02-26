@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ılık modası yüzünden delikanlıca vuruşacak adam bulamamak
 https://www.uludagsozluk.com/k/hdp-nin-rezil-kongresindeki-atat%C3%BCrk%C3%A7%C3%BC/
 https://sir-a-dan-siradam.uludagsozluk.com/ bkz reisin nonoşları
 https://www.uludagsozluk.com/k/dar-pantolon-giyen-erkekler/&w=bg vurduruyodur
