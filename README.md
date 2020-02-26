@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz pervin buldanın efso meclis konuşması
+bkz pervin buldanın resinin doğum günü için pasta yapması
 bkz resinin doğum gününde proveke eden hdpkklılar
 bkz reisin doğum günü varken hdplilerin yaptığı saygısızlık
 bkz pervin buldanın attığı tweet
