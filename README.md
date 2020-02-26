@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
+<!-- https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=bg yalan mı amk -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
 
