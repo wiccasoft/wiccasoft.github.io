@@ -3,6 +3,7 @@
 
 <!-- 
 bkz sikle beni diyen akboy
+bkz sikle bei diyen akboya olm git reisin siksin seni demek
 bkz resisçilerin birbirlerini sik manyağı yapması
 bkz reis heo ona oç deri sik istemesi
 bkz reisin uludaki akboylarla geçirdiği doğum gününe ramosu çağırmaması
