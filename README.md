@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hdp kongre salonunu yakalım kampanyası
 bkz hdp kangresinde kongrejulaşuyns diyen atacücücü
 bkz hdp kongresi kangresi olasun
 bkz hdp kapatılsın kampanyası
