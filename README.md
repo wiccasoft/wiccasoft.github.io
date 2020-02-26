@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ılık modası yüzünden ülkü ocaklarında vuruşacak adam bulamamak
 bkz ılık modası yüzünden aşkım gusül ne diyeen kız
 bkz aşkım camide nasıl kayıyosunuz birbirinze diyen kız
 bkz aşkım iki reket ne diyen kız
