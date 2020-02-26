@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz tayyip türkleri siktikçe çoşmaları
+bkz siklenmedikçe havlayan çomarlar
 bkz paylaştığım her şeye atlayan çomarlar
 bkz paylaitığı aanrcho kapitalism harfini a haber sanan itler
 bkz türklerin her kemiğe atlaması olayı
