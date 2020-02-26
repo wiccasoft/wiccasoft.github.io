@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
 daha yeni başllıyoruz fenerliler ağlayacaksanız oynmayalım
 https://www.uludagsozluk.com/k/o-de%C4%9Fil-de-fener-nas%C4%B1l-kad%C4%B1k%C3%B6yde-yenildi-ya/ 
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkler-ka%C3%A7-y%C4%B1l%C4%B1na-kadar-devam-eder/
