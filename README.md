@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+https://www.uludagsozluk.com/e/42911759/ eywallah rall ben de seni çok seviyorum
 https://eksisozluk.com/reise-dogum-gunu-hediyesi-onerileri--6382878?a=popular beytler süpriz yapalım reise
 https://eksisozluk.com/belki-bu-erkek-olur-diyerek-4-kiz-babasi-olan-adam--6382835?a=popular bkz gavat
 bkz rte nin futbol kariyerine iett de başladığı gerçeği
