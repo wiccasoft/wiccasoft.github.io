@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz abdullahın yaptığı doğru şeyler
 bkz abdülhamdinin yanlışlarını yüzüne vurmak
 bkz said nursiyi 3 kelimeyle anlat
 bkz abdülhamdinin yaptığı doğru şeyler
