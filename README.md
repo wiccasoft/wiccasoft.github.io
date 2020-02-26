@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahaha
+https://www.uludagsozluk.com/k/erdo%C4%9Fana-sad%C4%B1k-%C3%B6lmek-hain-ya%C5%9Famaktan-evlad%C4%B1r/
 https://www.uludagsozluk.com/k/hasan-ali-y%C3%BCcel/&w=bg bkz tipine sokim
 bkz ılık modası yüzüden delikanlıca vuruşamamak
 bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
