@@ -7,7 +7,7 @@ bkz hdp kongresinde apoya saygı duruşu
 bkz hdp kongresinde apo posteri asılması
 https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg
 bkz atacücünün itleri vs rte nni aslanları
-bkz hey hey taksi ekşiciyim ben aksi
+bkz hey hey taksi ekşiciyim ben aksi jey jey dur taksiiiii
 https://eksisozluk.com/taksicilerin-marti-scooter-icin-onlem-almasi--6382344?a=popular oç taksiziler
 https://eksisozluk.com/turklerin-ruslardan-korkmasi--3232780?a=popular oç türkler
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywalla bro  -->
