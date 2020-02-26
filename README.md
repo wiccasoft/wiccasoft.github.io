@@ -2,16 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz annesinni facebook ta dürtüldü diye uluda başlık kasan aergen
-bkz kezban annesini siktirmeyen ergen
-bkz şaka maka 97 doğumlu ulucunun annesini sikmiş olabilme ihtimalim
-bkz annesinin orospuluk yaptıran ulucu ergen
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=bg 
 bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
-bkz çalışmayıp bütün gün entry giren ergenlere top kek vermek
-bkz kılıççıcoğlunun yarramın sürecini desteklemesi
-bkz anasına götten girenler emmü nidiyün diye okuyan ergen
-bkz anasının amını anamın amı diye okuyan ergen
-bkz bimden pasta yiyip kendini zengin sanan am sıçmıkları
 https://www.uludagsozluk.com orospunun sıçtıkları bebeler anaları sıçmış direk
 kim olduğumu anlayacaksınız zamanı gelecek orospu sıçmıkları 
 https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
