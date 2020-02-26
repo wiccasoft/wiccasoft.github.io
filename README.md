@@ -3,6 +3,10 @@
 
 <!--
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz ne vereyim abime
+https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay sevimsiz ayol
+https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay bırak gitsin ayol
+https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz tinderdeki küfürlü seks seven kız
+https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
 https://www.uludagsozluk.com/k/e%C5%9Fcinselleri-sabun-yapmak/&w=bg ay kızlar yandık ayol
 https://www.uludagsozluk.com/k/gaylar%C4%B1n-ortak-%C3%B6zellikleri/&w=bg ay beni tanıdılar ayol -->
 
