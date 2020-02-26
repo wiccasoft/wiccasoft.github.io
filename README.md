@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
-bkz o değil de ne koyduk fenere
+bkz şaka maka o değil de ne koyduk fenere
 bkz ciddi ciddi gassarayı yenebilceğini sanan ezikler
 bkz ciddi ciddi abdulahmdinin doğru yaptığı şeyler sayan ergenler
 bkz ciddi ciddi abdulhamdi yi öcen ergenler
