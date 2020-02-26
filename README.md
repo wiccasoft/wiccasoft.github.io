@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
-bkz hırtlar vadisi pala vs kardeş patıo sezai
+bkz hırtlar vadisi pala vs kardeş patıo sezai vs kolapçino özgür
 bkz atacününün nutukta damarlarındazdaki asil kana corona morana bişey olmaz demesi
 bkz atacücünün nuyukta corona virüsünden bahsetmesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-vs-c%C3%BCbbeli-ahmet-hoca/&w=bg züppeli siker ayıq ol kankağ
