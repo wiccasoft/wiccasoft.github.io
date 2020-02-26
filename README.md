@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
-bkz rte nin rallın yazdıklarını okuması
+bkz facebook a rte fotosu atıp reis arkandayız yazmak
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/e/42911759/ ben de seni seviyorum sosyal medya hesaplarımı takip et
 https://www.uludagsozluk.com/e/42912622/ iki halk yolları ayırlmalı laga lugaya gerek yok -->
