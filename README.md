@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch/?v=QFfEFHaK6qo )
 
 <!-- 
-bkz facebookta reis fotosu altına resis seviliyosun yazan genci reisin araması
+bkz reisin uludaki akboylarla geçirdiği doğum gününe ramosu çağırmaması
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz reis hep ona oç derin güldürmesi
 https://www.youtube.com/watch/?v=QFfEFHaK6qo
 bkz dünyanın en iyi defans oyuncusunu cüceyle karşılaştırmak
