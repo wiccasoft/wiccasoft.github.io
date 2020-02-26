@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz kürtler yüzünden delikanlıca ülkü ocağında vuruşamamak
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-kad%C4%B1na-verdi%C4%9Fi-de%C4%9Fer/&w=bg
 bkz ılık modası yuüzünden delikanlı gibi vuruşamamak
 bkz hdp kongresinde kangren olan atacücücü
 bk türklerin atasıonın türkler süperdir ataları daha süperdir demesi
