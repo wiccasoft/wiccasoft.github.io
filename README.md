@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz madem allak yok deprem nasıl oluyo
+https://www.uludagsozluk.com/k/26-%C5%9Fubat-2020-malatya-depremi/
 https://www.uludagsozluk.com/k/ateistin-ahlak-anlay%C4%B1%C5%9F%C4%B1-olamayaca%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/abd%C3%BClhamid-in-yapt%C4%B1%C4%9F%C4%B1-do%C4%9Fru-%C5%9Feyler/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg 
