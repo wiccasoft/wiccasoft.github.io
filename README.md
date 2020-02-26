@@ -5,6 +5,7 @@
 
 <!--
 bkz o değil de ne koyduk fenere
+bkz ciddi ciddi gassarayı yenebilceğini sanan ezikler
 bkz ciddi ciddi abdulahmdinin doğru yaptığı şeyler sayan ergenler
 bkz ciddi ciddi abdulhamdi yi öcen ergenler
 bkz ciddi ciddi bakunini araba markası sanan ergenler
