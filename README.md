@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz fenerbahçe galatasaray kongresinde çıkan kavga
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg
 bkz taksicilerin götünün kalkması
 bkz hdp kongresinde kangren akpliye yapılan saygısız duruş
 bkz abdulahmdiyi hatalarıyla affetmek bağışlamak
