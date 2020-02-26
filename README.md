@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz ben saldırıyorum beyler
 biri de demiyo ki aga bu nedir
 bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
 bkz aşkım sen  gusül al rahatça vuruş diyen anlayışlı kız
