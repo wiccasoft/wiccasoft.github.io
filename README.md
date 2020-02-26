@@ -1,8 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-o%C4%9Flunun-cb-k%C3%BCt%C3%BCphanesine-gitmesi/ 
-bkz bunlar babadan oğula nesil heralde bunlar-->
+
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://thefappeningblog.com/rose-mcgowan-nude-leaked-the-fappening-136-photos/#more-727385 )
 
