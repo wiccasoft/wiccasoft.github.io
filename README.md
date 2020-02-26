@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hdp kongresinde atacücü posteri açan gavat
+bkz hdp kongresinde terör örgütü için saygı duruşu
 bkz şaka maka tayyipin ortalarda görükmemesi
 bkz hdp kongresinde atacücüye pipi sallayan adam
 bkz enver paşanın hakik tosun paşa benim demesi
