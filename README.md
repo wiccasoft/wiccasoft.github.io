@@ -5,6 +5,7 @@
 
 <!-- 
 bkz wikipedia vs uludagsözlük
+bkz bi makale yazacam fenerbahçe cincon herkeş okuyocon diyen ergen
 bkz ciddi ciddi makale yazabileceğini sanan ekşici ulucu incici
 bkz kurtlar vadis pala sözlerini birleştirip makale yazmak
 bkz fenerbahçe gassaray hakkında makale yazan ergenler
