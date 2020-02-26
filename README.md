@@ -5,6 +5,7 @@
 
 <!-- 
 bkz wikipedia vs uludagsözlük
+bkz fenerbahçe gassaray hakkında makale yazan ergenler
 bkz uluszölük yazarlarının makale yazması
 bkz abdulhamdi hakkında makale yazacam diyen ergen
 bkz daha cümle kuramayan liselilerin makale yazmaları
