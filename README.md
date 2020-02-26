@@ -4,9 +4,10 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
-bkz ciddi cdii a haberi arama moturu sanan sazanlar
+bkz ciddi ciddi a haberden haber okuyan ak nonoşlar
+bkz ciddi ciddi a haberi arama moturu sanan sazanlar
 bkz ciddi ciddi beni top tepici sanan toplar
-bkz ciddi cdii makale yazabileceğini sanan liseliler
+bkz ciddi ciddi makale yazabileceğini sanan liseliler
 bkz ciddi ciddi aptal olduğunu kabul edemeyen ergenler
 bkz ciddi ciddi yazıklarının okunduğunu sanan ergenler
 bkz ciddi ciddi yazdığım yapay zekadan aptal olan ergenler
