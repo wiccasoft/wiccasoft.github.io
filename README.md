@@ -4,6 +4,7 @@
 
 <!-- 
 bkz emrahın taksi klibi
+bkz 25 şubat 2020 kürtt hava yolları uçağının patinaj yapması
 bkz recep tayyi perdoğan ibrahim tatlıseks dostluğu
 bkz 25 şubat 2020 kürt hava yolları uçağının acil iniş tapması
 bkz rusların kürtleri görünce it gib dağılması
