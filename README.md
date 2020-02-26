@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/k/marks-%C4%B1n-m%C3%BCbarek-sakal%C4%B1/ bkz sakal-ı şerif
 bkz kardeş payı sezaiyle aynı eve çıkmak
 https://www.uludagsozluk.com/k/karde%C5%9F-pay%C4%B1-sezai/&w=bg bkz tam benim kafadan adam
 bkz wallah ararun 155 i corana paylaşmayın
