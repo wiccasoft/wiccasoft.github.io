@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- 
-bkz hdp nin pauylaştığı ata cücüye saygı duymuyoruz duruşu
+bkz hdpnin paylaştığı rezillik https://www.pinterest.com/wiccasoft/
+bkz hdp nin paylaştığı ata cücüye saygı duymuyoruz duruşu
 bkz hdp kongresinde çıkan arbede
 bkz hdp ilçe binasında ayrılıkçı kürtlerin saygı duruşu
 bkz hdp ilçe binasını basan ülkücüler
