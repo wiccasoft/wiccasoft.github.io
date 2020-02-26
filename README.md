@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz geliyor geliyor  dünya lideri geliyor oopooooo recep tayyip erdoğan
 bkz dünya liderinin doğum gününü bütün liderlerin kutlaması
 bkz aşkım kaka ne diyen kız
 bkz dünya liderinin kakayı rakip olarak görmemesi
