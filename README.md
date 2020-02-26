@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz ateistlerin oç oldukları gerçeği
 bkz ateistin ahlak anlayışı olamayacağı
 bkz abdulhamdinin yaptığı iyilikleri bir kalemde silmek
 bkz abdulhamdinni yaptığı doğru şeyler vs said nursinin yaptığı hatalar
