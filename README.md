@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz fenerbahçenin alper potuku satması
 bkz kurtlar vadisi pala vs çukur bekir
 bkz ali koçun fenerbahçeyi adam etmesi
 bkz hdp kongresinde saygısızlık
