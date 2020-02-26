@@ -2,6 +2,7 @@
 
 <!--
 bkz hoşlaşılan peygamberin ölmesi
+bkz idolüm sensin yarışması finali
 bkz recep tayyip erdoğanın doğum gününde  zippo çakmak isterim demesi
 bkz alper tunga öldi mi ıssız acun kald mi indi ürek yırtılır
 bkz tomris uyar alper potuk aşkı iddaları
