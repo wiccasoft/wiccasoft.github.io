@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz ahlaksız kızlar yüzünden adam gibi yiyişeke erkek bulamamak
+bkz sayıları milyona varan ahşaksız guslsüz kızlar
 bkz aşkım gusül abdesti ne diye soran kız
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-gus%C3%BCl-abdesti-ne-diye-soran-k%C4%B1z/ 
 bkz kürtler yüzünden delikanlıca ülkü ocağında vuruşamamak
