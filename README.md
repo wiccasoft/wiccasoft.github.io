@@ -3,6 +3,7 @@
 
 <!-- 
 biri de demiyo ki aga bu nedir
+bkz kardeş payı sezai ile sevişirken odaya babanın girmesi
 bkz aşkım sen  gusül al rahatça vuruş diyen anlayışlı kız
 bkz ılık modası yüzüden delikanlıca vuruşamamak
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=gd 
