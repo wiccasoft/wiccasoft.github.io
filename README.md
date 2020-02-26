@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz tayibni bim pasta kola iyidir demesi
 bkz tayyip geldiğinden beri bim pasta kola içen adam
 bkz bim pastayla kola içerken ilahi dinlemek
 bkz bim pasta yaparken kürtleri trollemek
