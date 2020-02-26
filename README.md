@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch/?v=QFfEFHaK6qo )
 
 <!-- 
+bkz bajhçelinni resin elini öpüp biat etmesi
 bkz şaka maka kknın kakası geliyormudur sorunsalı
 bkz kakanın meclise gelmemesi
 bkz geliyor geliyor kaka geliyor kakaoğlan geliyor
