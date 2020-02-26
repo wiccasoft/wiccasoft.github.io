@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz aşkım gusül abdesti alırken göt deliğin arkdaşına yalat diyen kız
+bkz aşkım gusül abdesti ne diye soran kız
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-gus%C3%BCl-abdesti-ne-diye-soran-k%C4%B1z/ 
 bkz kürtler yüzünden delikanlıca ülkü ocağında vuruşamamak
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-kad%C4%B1na-verdi%C4%9Fi-de%C4%9Fer/&w=bg
