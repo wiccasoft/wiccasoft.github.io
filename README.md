@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz şehitler tepesinde dönen geyik
 bkz ekşicilerin siklenmeme nedenleri
 bkz hey hey taksi ekşiciyim ben aksi hey ehy dur taksi akıl verecem sana taksiiiii
 bkz ersun yanal gelince it gibi dağılan geyseliler
