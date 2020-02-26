@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz beyler reise doğum gününde sykler white gibi yapıyoruz
+https://eksisozluk.com/reise-dogum-gunu-hediyesi-onerileri--6382878?a=popular 
 bkz şaka maka damadın kyk borçlarını gss prim borçlarına kaydırması
 bkz şaka maka madafaka damadın trap zone u şampiyon yapacağı gerçeği
 bkz şaka maka o değil de fenerlilere iyi geçirmemiz
