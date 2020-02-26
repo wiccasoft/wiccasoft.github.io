@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://www.uludagsozluk.com/k/buhari-ve-m%C3%BCslim-%C3%A7%C3%B6kerse-islam-%C3%A7%C3%B6ker/&w=bg
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuahahaha
 https://www.uludagsozluk.com/k/erdo%C4%9Fana-sad%C4%B1k-%C3%B6lmek-hain-ya%C5%9Famaktan-evlad%C4%B1r/
 https://www.uludagsozluk.com/k/hasan-ali-y%C3%BCcel/&w=bg bkz tipine sokim
