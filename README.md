@@ -6,6 +6,7 @@
 <!--
 bkz ciddi ciddi arama motoruma kafa tutan ergenler
 bkz ciddi ciddi haber botuma kafa tutan ergenler
+bkz ciddi ciddi arama motorumu fenerbahçe sanan ergenlerin zeka seviyesi
 bkz ciddi ciddi ergenlerin anılarını yazdıkları blog forum sitelerini sözlük sanmaları
 bkz wikipedia vs sözlük dedikleri tuhaf liselilerin takıldığı forum siteleri
 bkz bi makale yazacam fenerbahçe cincon herkeş okuyocon diyen ergen
