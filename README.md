@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz allahın çok tatlişko bir erkek olması
+https://www.uludagsozluk.com/k/allah-%C4%B1n-ikiy%C3%BCzl%C3%BC-olmas%C4%B1/&w=bg
 bkz gelen peygramberin gideni aratması
 bkz hoşlaşılan peygamberin ölmesi
 bkz idolüm sensin yarışması finali
