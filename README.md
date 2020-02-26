@@ -1,7 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- 
+<!--
+bkz annesinni facebook ta dürtüldü diye uluda başlık kasan aergen
 bkz kezban annesini siktirmeyen ergen
 bkz şaka maka 97 doğumlu ulucunun annesini sikmiş olabilme ihtimalim
 bkz annesinin orospuluk yaptıran ulucu ergen
