@@ -4,6 +4,8 @@
 <!-- 
 bk zhdp kongresindeki rezil atacücücü
 bkz haluk leventin atacücüden prim kasması
+bkz haluk leventin paylaştığı pkk videosu
+https://www.uludagsozluk.com/k/haluk-levent-in-%C5%9Fi%C5%9Firilmi%C5%9F-bir-balon-olmas%C4%B1/
 https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg bkz atacücünün başına gelen malum hadise -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://chaturbate.com/hot_laurah/ )
