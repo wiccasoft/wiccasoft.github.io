@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
-bkz hırtlar vadisi abdulhey 
+bkz hırtlar vadisi abdulhey hey taksi 
 bkz abdulhamdiyi hatalarıyla sevmek
 bkz o değil de nası koyduk cincona
 https://www.uludagsozluk.com/k/ciddi-ciddi-sabah%C4%B1n-k%C3%B6r%C3%BCnde-s%C3%B6zl%C3%BCkte-tak%C4%B1lmak/&w=bg
