@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz madem allah yok çiçekler nasıl açıyor peki
 bkz böyle bir düzen kendiliğinden yaratılmış olabilir mi
 bkz ademle havvanın çocukları ensestmiydi sorunsalı
 bkz ademle havvayı kim yarattı sorunsalı
