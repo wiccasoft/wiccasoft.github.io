@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz ateistleri döve döve imana getirmek gerekliliği
 bkz besle hdpliyi oysun götünü
 bkz hdp kongresinde kangren olan akpliye yapılan saygısız duruş
 bkz hdp nin attığı saygısız tweet
