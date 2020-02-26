@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz hdp chp akp kongreslerini banttan izlemek
+bkz akp dışındaki partiler kapatılsın kampanyası
+bkz mhp hdp chp akp kongreslerini banttan izlemek
 bkz akp kongresinde yarrama saygısılık yapılması
 bkz hdp kongresinde yarrama saygısızlık yapılması
 bkz hdp kongresinde atacücü posteri açan gavat
