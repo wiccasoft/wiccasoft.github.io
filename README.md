@@ -2,9 +2,9 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-https://www.uludagsozluk.com/e/42910716/ bkz anayasal suç
 bkz ak nonoşlar adımı bilmediğiniz için şanslısınız
 bkz benim yiğenim atakan olsaydı erkan naldemirciyi bulur duvarda duvara vura vura sikerdim net
+bkz sikmeye değecek ak nonoşların olmadığı gerçeği
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=bg
 https://www.uludagsozluk.com/k/e%C4%9Fitimli-pkk-severlerin-ortak-%C3%B6zellikleri/ annenin götünü sikmeleri
 bkz muhallebi kokulu işsiz ak nonoş ibnelerin kendilerini adam sanması
