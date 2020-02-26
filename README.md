@@ -1,54 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
-<!-- 
-https://www.uludagsozluk.com/e/42912622/ adam haklı bweyler ataya saygısızlık
-bkz hdp nin paylaştığı ata cücüye saygı duymuyoruz duruşu
-bkz hdp kongresinde çıkan arbede
-bkz hdp ilçe binasında ayrılıkçı kürtlerin saygı duruşu
-bkz hdp ilçe binasını basan ülkücüler
-bkz 25 şubat 2020 hdp kongresinde atacücüye saygı duruşu
-bkz hdp kongresinde atacücüye saygısız hareket
-bkz ayrılıkçı kürtçüler vs ayrılıkçı türkçüler
-bkz ayrılıkçı kürtlerin ayrılık türklerle vadiyi ikiye bölmesi
-https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
-https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg
-bkz atacücüye secde etmek sevaptır diyen atacücücü
-bkz atacücü anamın üstünde yakalansa suç anamdadır diye atacücü sem patizanı
-bkz chp kongresinde ataöcü için saygı duruşu
-bkz atacücü terör örgütü militanlarının saygı duruşu
-bkz çinlilerin türklerden it gibi korkması
-bkz çin sarayını basıp atacücü posteri asmak
-bkz atacücü sempatizanı terörristler
-bkz hdp kongresinde atacüc için saygı duruşu
-bkz çinlilerin kürtlerden it gibi korkması
-bkz 25 şubat 2020 kürt hava yolları uçağının iniş yapması
-bkz türklerin kürtleden it gibi korkması
-bkz ben turkcell hat kullanmam diyen kürt
-bkz 25 şubat 2020 türk hava yollarıın türklere turkcell hat dağıtması
-bkz 25 şubat 2020 turkcell in kürtlere hat satmıyoruz kararı
-bkz akp nin kürtlerle rusların arasının açması
-bkz ruusların kürtlerden it gibi korması
-bkz 25 şubat 2020 kürtt hava yolları uçağının patinaj yapması
-bkz recep tayyi perdoğan ibrahim tatlıseks dostluğu
-bkz 25 şubat 2020 kürt hava yolları uçağının acil iniş tapması
-bkz rusların kürtleri görünce it gib dağılması
-https://eksisozluk.com/turklerin-ruslardan-korkmasi--3232780?a=popular bkz kürtlerin ruslarla kankağ olması
-bkz hey hey taksi ekşcileriz biz aksi hey hey dur taksii
-bkz 25 şubat 2020 ekşicilerin taksicilerle kavgası
-bkz ekşicilerin siklenmeme nedenleri
-bkz hey hey taksi ekşiciyim ben aksi hey hey dur taksi akıl verecem sana taksiiiii
-bkz ersun yanal gelince it gibi dağılan geyseliler
-bkz ekşicilerin putine verdiği önerileri putinin pek iplememesi
-bkz facebooka tayyip resmi atıp reis izindeyim yazan tipler
-bkz hdp kongresinde apoya saygı duruşu
-bkz hdp kongresinde apo posteri asılması
-https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg
-bkz atacücünün itleri vs rte nni aslanları
-bkz hey hey taksi ekşiciyim ben aksi
-https://eksisozluk.com/taksicilerin-marti-scooter-icin-onlem-almasi--6382344?a=popular oç taksiziler
-https://eksisozluk.com/turklerin-ruslardan-korkmasi--3232780?a=popular oç türkler
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywalla bro  -->
+
 
 [![Image](waste/Screenshot_2020-02-25_18-38-07.png)]( https://www.youtube.com/watch?v=jVEKDcDEN1w )
 
