@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz rallın annesi orospuluk yaparken veledi zina rallın oç luğu yapması
 bkz rallın annesinin orospuluk yapması yasaklansın kampanyası
 bkz zall bana hep oç derin annesi orospuluk yapması yasaklansın
 bkz zall bana hep oç derin erdoğana götten vermesi yasaklansın kampanyası
