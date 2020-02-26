@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz dünyanın en iyi defans oyuncusunu yer elması cüceyle kaşılaştırmak
 bkz messi fanboylarının güldürmesi
 bkz ramosu cüceyle karşılaştıran ergen
 bkz ramos her pozisyonda cüceyi siker
