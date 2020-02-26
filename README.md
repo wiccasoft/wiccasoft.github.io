@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
-https://www.youtube.com/watch?v=7NSS17YmVWs
+https://www.youtube.com/watch?v=_aslq6fcMt0
 bkz dünyanın en iyi defans oyuncusunu cüceyle karşılaştırmak
 bkz türkerin futboldan zerre anlamadığı halde ısrarla yorumlaması
 https://www.uludagsozluk.com/k/lionel-messi-vs-sergio-ramos/ ramos siker atar manyak mısın olm
