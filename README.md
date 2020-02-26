@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz sürekli iltifat almaktan bıkan sözlük yazarları
 bkz abdulahmdiyi hatalarıyla affetmek
 bkz canım şimdi övdüm hepinizi ısrar etmeyin
 bkz mükemmeliğin vücut bulmuş hali sözlükçüler
