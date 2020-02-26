@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
-https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg bkz haylaz şirinin hep aynı başlığa entry girmesi
+bkz haylaz şirinin hep aynı başlığa 3 kelime girmesi girmesi
+https://www.uludagsozluk.com/k/erkan-tan-%C4%B1-3-kelime-ile-anlat/&w=bg 
 https://www.uludagsozluk.com/k/marks-%C4%B1n-m%C3%BCbarek-sakal%C4%B1/ bkz sakal-ı şerif
 bkz kardeş payı sezaiyle aynı eve çıkmak
 https://www.uludagsozluk.com/k/karde%C5%9F-pay%C4%B1-sezai/&w=bg bkz tam benim kafadan adam
