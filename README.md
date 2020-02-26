@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
 <!--
+bkz alper tunga öldi mi ıssız acun kald mi indi ürek yırtılır
 bkz tomris uyar alper potuk aşkı iddaları
 bkz allahın 1400 yıldır kitap yazdırmadığı gerçeği
 bkz tayyip erdoğana doğum günü öpücüğü bırakıyoruz kampanyası
