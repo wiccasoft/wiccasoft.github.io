@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz mhp kongresine dar pantolonla gelen ak nnonoş
+https://www.uludagsozluk.com/k/nas%C4%B1l-s%C4%B1k%C4%B1lm%C4%B1yonuz-lan/
 bkz ulu kapanırsa ak nonoşlar nerde buluşacakalr sorunsalı
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-kapan%C4%B1rsa-yazarlar-ne-yapacak/&w=bg bkz gay siteleri
 https://sir-a-dan-siradam.uludagsozluk.com/ bkz ak nonoş
