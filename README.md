@@ -3,6 +3,7 @@
 
 <!-- 
 bkz ramosu cüceyle karşılaştıran ergen
+bkz ramos her pozisyonda cüceyi siker
 bkz dünyanın en iyi defans oyuncusunu cüceyle karşılaştırmak
 bkz türkerin futboldan zerre anlamadığı halde ısrarla yorumlaması
 https://www.uludagsozluk.com/k/lionel-messi-vs-sergio-ramos/ ramos siker atar manyak mısın olm
