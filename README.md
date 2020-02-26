@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+bkz abdulhamdinni yaptığı doğru şeyler vs said nursinin yaptığı hatalar
 bkz alper potukun galatasaraya gelebilirim geri vitesi
 bkz fenerbahçe galatasaray kongresinde çıkan kavga
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg
