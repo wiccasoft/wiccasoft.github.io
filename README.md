@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+https://www.uludagsozluk.com/e/42914161/ bkz beyler siz saldırın beni tarif etmiş
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz amınoğlu ekrem
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=bg yalan mı amk 
 https://www.uludagsozluk.com/k/tayt-giymek-yasaklans%C4%B1n-kampanyas%C4%B1/ adam haklı beyler emcükler meydanda 
