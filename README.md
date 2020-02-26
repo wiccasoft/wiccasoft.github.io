@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz çinlilerin kürtlerden it gibi korkması
 bkz 25 şubat 2020 kürt hava yolları uçağının iniş yapması
 bkz türklerin kürtleden it gibi korkması
 bkz ben turkcell hat kullanmam diyen kürt
