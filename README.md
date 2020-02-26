@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hdp kongresinde atacücüye pipi sallayan adam
 bkz enver paşanın hakik tosun paşa benim demesi
 bkz kk nın hdp kongresinde kakam geldi demesi
 bkz tayyipini kızını ped alamya yollaması
