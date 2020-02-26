@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+https://www.uludagsozluk.com/k/tayttan-rahats%C4%B1z-olan-erkek/ bkz rall arkadaşları ona erkek diyor
 bkz rallın bimden pasta alırken taytlı kız görmesi eve gelince anneee diye ağlaması
 bkz rall annesi kek yaparken tayt giymek istiyormuş beyler
 bkz rall 18 yaşına basınca annesine beleş basıyoruz kampanyası
