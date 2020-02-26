@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
-bkz ulucuların annesinin keranede terbiye etmek
-bkz şaka maka 97 doğumlu ulucunun annesinin eski pompaladığım karı çıkması
+bkz kezban annesini siktirmeyen ergen
 bkz şaka maka 97 doğumlu ulucunun annesini sikmiş olabilme ihtimalim
 bkz annesinin orospuluk yaptıran ulucu ergen
 bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
