@@ -7,7 +7,7 @@ https://www.uludagsozluk.com/k/erdo%C4%9Fana-sad%C4%B1k-%C3%B6lmek-hain-ya%C5%9F
 https://www.uludagsozluk.com/k/pornolarda-ger%C3%A7ekten-duhul-oluyor-mu/ ilginç bi hadise
 https://www.uludagsozluk.com/k/polis-%C3%B6zel-harekat/&w=bg bkz hareket yapma hareketin kralını görürsün
 https://www.uludagsozluk.com/k/be%C5%9Far-esad-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki yiğido
-https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz ben maço kızlar ağlattı hep beni
+https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz kzıalr kızlar gelem mi
 https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
 bkz fatma şahini antartika tatilini uzatması
 bkz çekirdeklerimi aldım ak lgbt sevişirken çıtlayacam
