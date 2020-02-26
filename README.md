@@ -1,58 +1,6 @@
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
-<!--
-bkz aslı bekiroğlu mehmet akif alakurt aşkı iddaları
-bkz mehmet akif alakurtun ece erkene yürümesi
-bkz allahın duaları toplu okuması
-https://www.uludagsozluk.com/k/allah-%C4%B1n-ikiy%C3%BCzl%C3%BC-olmas%C4%B1/&w=bg
-bkz gelen peygramberin gideni aratması
-bkz hoşlaşılan peygamberin ölmesi
-bkz idolüm sensin yarışması finali
-bkz recep tayyip erdoğanın doğum gününde  zippo çakmak isterim demesi
-bkz alper tunga öldi mi ıssız acun kald mi indi ürek yırtılır
-bkz tomris uyar alper potuk aşkı iddaları
-bkz allahın 1400 yıldır kitap yazdırmadığı gerçeği
-bkz tayyip erdoğana doğum günü öpücüğü bırakıyoruz kampanyası
-bkz tayyip erdoğanın doğum gününü yaklaşması
-bkz cevab veremedi
-bkz duası kabul olmayan müslüman siniri
-bkz madem allah yok depremleri kim yapıyo peki
-bkz madem allah yok çiçekler nasıl açıyor peki
-bkz böyle bir dünya kendiliğinden yaratılmış olabilir mi
-bkz ademle havvanın çocukları ensestmiydi sorunsalı
-bkz ademle havvayı kim yarattı sorunsalı
-bkz hz adem adam mıdır sorunsalı
-bkz alllahın fenerli olduğu gerçeği
-bkz allah madem yok niye inkar ediyosunuz
-bkz turgut uyar tomris uyarın amına yılan soktu mu sorunsalı
-bkz hani marjinal bizdik
-bkz şeytan niye ademe secde etmedi sorunsalı
-bkz allah madem bozgunculuk çıkaracak niye ademi yarattı sorunsalı
-bkz ademle havvayı kim yarattı sorunsalı
-bkz akp nin libyayla aramızı bozması
-bkz akp nin libyada bi kaç leş var demesi
-bkz akp nin hindistanla aramızı bozması
-bkz akp nin bütün dünyayla aramızı bozması 
-bkz aslı bekiroğlunun alper potuk aşkını yalanlaması
-bkz norveçlilerin açtığı türkleri artık sevmiyoruz pankartı
-https://www.uludagsozluk.com/k/akpnin-t%C3%BCrkiyeyi-b%C3%BCt%C3%BCn-d%C3%BCnyayaya-d%C3%BC%C5%9Fman-etmesi/
-bkz fatih tezcanın ismet inönü yahudiydi tweeti
-bkz aslı bekiroğlan alper potuk aşkı iddaları
-bkz aslı bekiroğlanın diyarbekirli olduğu gerçeği
-bkz serkan incinin fatih tezcan tweetini retweetlemesi
-bkz aslı bekiroğlanın paylaştığı diyarbekir fotosu
-bkz fatih tezcanın kamalcı nefretinden pr kasarak zengin olma projesi
-bkz fatih tezcanın kamalcı nefretini paraya dönüştürecem demesi
-bkz fatih tezcan analiz merkezinin kamalcılardan kazandığı para
-bkz aslı bekiroğlanın diyarbekrliyim ne var yni paylaşımı
-bkz fatih tezcanın attığı tweet
-https://www.youtube.com/watch?v=jVEKDcDEN1w 
-bkz aslı bekiroğlan alexander sörlöth ilişkisi iddaları
-bkz akpnin hz ademle havvya adam eve demesi
-bkz akp nin lağım medyasının atakanı karalama kampanyası
-bkz atakanın atacücünün aşkerleriyiz demesi
-bkz aslı bekiroğlanın demeyi kapaması
-bkz kadir mısıroğlunun atacücüyle dalga geçmesi -->
+
 
 [![Image](waste/Screenshot_2020-02-24_03-53-08.png)]( https://youtu.be/S3K6pUOAmTE?t=507 )
 
