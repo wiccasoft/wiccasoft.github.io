@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
-bkz ciddi ciddi anarko kapitalism gelecek sanan sazanlar
+bkz ciddi ciddi anarko kapitalizm nedir bilmeyen ergenler
 bkz ciddi ciddi erkan tanı anlatan sazanlar
 bkz guardian ı 3 kelime ile anlat
 bkz guardian varken a haberde haber okuyan ak nonoşlar
