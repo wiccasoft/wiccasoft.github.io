@@ -1,8 +1,10 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!-- https://www.uludagsozluk.com/k/k%C3%BCrtcell/&w=bg bkz ibrahimtalısekscell
-https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg cumhurbaşkanına götte kayayıom ibneni evladı -->
+<!--
+https://www.uludagsozluk.com/k/k%C3%BCrtcell/&w=bg bkz ibrahimtalısekscell
+https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg cumhurbaşkanına götte kayayıom ibneni evladı 
+https://www.uludagsozluk.com/k/tayt-giymek-yasaklans%C4%B1n-kampanyas%C4%B1/ anan da giymesin içine amın sıçtığı -->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=n_GiCz7nPsU )
 
