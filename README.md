@@ -3,6 +3,7 @@
 
 <!--
 bkz ak nonoşlar adımı bilmediğiniz için şanslısınız
+bkz ha ilerde adımı öğrenirseniz de cesaret edip bi yerlerde küfr ederseniz hesaplaşırız
 bkz benim yiğenim atakan olsaydı erkan naldemirciyi bulur sikerdim net
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=bg
 https://www.uludagsozluk.com/k/e%C4%9Fitimli-pkk-severlerin-ortak-%C3%B6zellikleri/ annenin götünü sikmeleri
