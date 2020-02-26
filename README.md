@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz aşkım kaka ne diyen kız
 bkz dünya liderinin kakayı rakip olarak görmemesi
 bkz dünya liderinni kakayı iplememesi
 bkz kk nın kakası geliyor mu soransalı
