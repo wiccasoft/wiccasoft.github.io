@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+https://eksisozluk.com/belki-bu-erkek-olur-diyerek-4-kiz-babasi-olan-adam--6382835?a=popular bkz gavat
 bkz rte nin futbol kariyerine iett de başladığı gerçeği
 bkz belki bu erkek olur diyerek 4 kız babası olan adam
 bkz kızını siktrecek kadar geniş gavatların olduğu gerçeği
