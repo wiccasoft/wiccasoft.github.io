@@ -5,6 +5,7 @@
 
 <!-- 
 bkz o değil de fenere ne koyduk ama
+bkz arakdan vurdun mu önden sallanacak aga
 https://www.uludagsozluk.com/k/o-de%C4%9Fil-de-fener-nas%C4%B1l-kad%C4%B1k%C3%B6yde-yenildi-ya/ 
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg
 bkz o değil de nası koyduk fenere len amq
