@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd nolacak bu fenerin hali
 bkz 12numaranın attığı tweet
 bkz fenerbahçe.org sitesinin hacklenmesi
