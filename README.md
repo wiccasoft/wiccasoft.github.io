@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz hdp kongresinden atacücüye pipi sallayan yonan
 bkz aşkım ben mi diyen kıza sensizken ankapark bie ıssız gulüm guslümü alim geliyom demek
 bkz aşkım haluk mu ben mi diyen kız
 https://www.uludagsozluk.com/k/haluk-levent/&w=bg kocaman bir balon vaziyet alın patlar bu
