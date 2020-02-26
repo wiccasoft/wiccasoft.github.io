@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- -
+bkz kılıççıcoğlunun yarramın sürecini desteklemesi
 bkz anasına götten girenler emmü nidiyün diye okuyan ergen
 bkz anasının amını anamın amı diye okuyan ergen
 bkz bimden pasta yiyip kendini zengin sanan am sıçmıkları
