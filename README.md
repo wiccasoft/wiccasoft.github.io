@@ -2,8 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- -
-https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ 
-bkz zengin renkli gözlü piçler raatsız
+bkz anasının amını anamın amı diye okuyan ergen
 bkz bimden pasta yiyip kendini zengin sanan am sıçmıkları
 https://www.uludagsozluk.com orospunun sıçtıkları bebeler anaları sıçmış direk
 kim olduğumu anlayacaksınız zamanı gelecek orospu sıçmıkları 
