@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz ersun yanal gelince it gibi dağılan geyseliler
 bkz ekşicilerin putine verdiği önerileri putinin pek iplememesi
 bkz facebooka tayyip resmi atıp reis izindeyim yazan tipler
 https://eksisozluk.com/25-subat-2020-thy-ucaginin-acil-inis-yapmasi--6381562?a=popular tıklamadım kankağ
