@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz hey hey taksi ekşcileriz biz aksi hey hey dur taksii
 bkz 25 şubat 2020 ekşicilerin taksicilerle kavgası
 bkz ekşicilerin siklenmeme nedenleri
 bkz hey hey taksi ekşiciyim ben aksi hey hey dur taksi akıl verecem sana taksiiiii
