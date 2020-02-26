@@ -4,7 +4,9 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
-bkz kellelerdeb şehit diye bahsetmek
+https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
+https://www.uludagsozluk.com/k/kurtlar-vadisi-pala/&w=bg
+bkz kellelerde şehit diye bahsetmek
 bkz fenerbahçenin aykut kocamanla anlaşması
 bkz receğ tayyiğ erdoğanı kim yarattı sorunsalı
 bkz receğ tayyiğ erdoğan okuyomuş gibi yazıyoruz
