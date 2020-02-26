@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz corona virüsünün kafirleri vurması
 bkz tayyipin bim pasta yiyip iyi ki doydum demesi
 bkz zulüm 26 şubat 1954 te başladı
 bkz bim in helal pasta getirmesi
