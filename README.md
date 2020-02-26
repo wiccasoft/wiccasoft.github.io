@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz belki erkek olur diye 20 kız doğuran gavat
 bkz kızını ped almaya yollayan gavat
 bkz beyler reisin gözlerini kapatıp kimim ben şakası yapıyoruz
 bkz beyler reise doğum gününde skyler white gibi süpriz yapalım
