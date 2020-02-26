@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hdp kongresindeki atatürkçünün 10. yıl marşı okuması
 bkz rte nin zall hep ona oç deri arayıp naptın oç demesi
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg taşşakları yalanası paşa
 bkz hdp kongresinde resi için yapılan pastadan çıkan dansöz
