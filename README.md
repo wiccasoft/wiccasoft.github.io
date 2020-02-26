@@ -5,6 +5,7 @@
 
 <!-- 
 bkz makale yazmak
+https://www.uludagsozluk.com/k/iltifat-al%C4%B1nca-yap%C4%B1lacaklar/
 https://www.uludagsozluk.com/k/ateistin-ahlak-anlay%C4%B1%C5%9F%C4%B1-olamayaca%C4%9F%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg
 bkz hdp kongresinde kangren olan akpli
