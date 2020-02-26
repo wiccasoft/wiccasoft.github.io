@@ -6,11 +6,7 @@ bkz anaşının kujuşu entry de girermiş çen entry de mi giriyon çen
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-yazman%C4%B1n-amac%C4%B1/&w=bg 
 bkz annesi orospuluk yaparken başkalarının anasına bacısına entry giren ergen
 https://www.uludagsozluk.com orospunun sıçtıkları bebeler anaları sıçmış direk
-kim olduğumu anlayacaksınız zamanı gelecek orospu sıçmıkları 
 https://www.uludagsozluk.com/k/ben-fero/&w=bg dinlemeyin o zaman amın sıçtıkları
-amın sıçtığı fare kılıklı ibn eler ne paylşırsam entry giriyolar 
-bkz lan amın sıçtığı fare kılıklı ibneler sözlüğünüzü götünüze sokarım ananız amından sıçarak çıkarsınız
-tayyip te kurtaramaz sizi amın sıçtıkları ibneler
 https://www.pinterest.com/wiccasoft/pins/
 -->
 
