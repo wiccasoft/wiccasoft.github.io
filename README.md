@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz çaycı hüso öldü söylentileri
+https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-in-%C3%B6l%C3%BCm-sebebi/&w=bg
 bkz ak ların kalkınma partisinin paraları aklaması
 bkz halhların demoğratriğ partisinin halhlarığ demoğrasiye davet etmesi
 bkz halkların demoğratiğ partisinin tweeter adresi
