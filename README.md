@@ -3,7 +3,7 @@
 
 
 <!-- 
-bkz emrahın taksi klibi
+bkz 25 şubat 2020 turkcell in kürtlere hat satmıyoruz kararı
 bkz akp nin kürtlerle rusların arasının açması
 bkz ruusların kürtlerden it gibi korması
 bkz 25 şubat 2020 kürtt hava yolları uçağının patinaj yapması
