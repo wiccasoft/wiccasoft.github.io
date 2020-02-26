@@ -5,6 +5,7 @@
 bkz fatma şahini antartika tatili insta pozları
 bkz çekirdeklerimi aldım ak lgbt sevişirken çıtlayacam
 https://www.uludagsozluk.com/k/sir-a-dan-siradam/ sevişiyomusunuz kızlar
+https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay sevimsiz ayol
 https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-hareketler-2-deki-sevimsiz-c%C3%BCce/&w=bg ay bırak gitsin ayol
 https://www.uludagsozluk.com/k/k%C4%B1z-i%C3%A7in-a%C4%9Flayan-ezik-erkek/&w=bg bkz tinderdeki küfürlü seks seven kız
 https://www.uludagsozluk.com/k/zengin-renkli-g%C3%B6zl%C3%BC-erkeklerden-nefret-etmek/ bkz tam beni tarif etmişsin evlat
