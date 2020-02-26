@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz hdp kongresinde atacüc için saygı duruşu
 bkz çinlilerin kürtlerden it gibi korkması
 bkz 25 şubat 2020 kürt hava yolları uçağının iniş yapması
 bkz türklerin kürtleden it gibi korkması
