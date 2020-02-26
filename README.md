@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz 25 şubat 2020 kürt hava yolları uçağının iniş yapması
 bkz türklerin ruslardan it gibi korkması
 bkz ben turkcell hat kullanmam diyen kürt
 bkz 25 şubat 2020 türk hava yollarıın türklere turkcell hat dağıtması
