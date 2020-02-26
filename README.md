@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=FT3zuBuqnsk )
 
-[![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
+[![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=n_GiCz7nPsU )
 
 <!--
 https://eksisozluk.com/belki-bu-erkek-olur-diyerek-4-kiz-babasi-olan-adam--6382835?a=popular bkz gavat
