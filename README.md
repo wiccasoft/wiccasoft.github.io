@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz rallın bimden pasta alırken taylı kız görmesi eve gelince anneee diye ağlaması
+bkz rallın bimden pasta alırken taytlı kız görmesi eve gelince anneee diye ağlaması
 bkz rall annesi kek yaparken tayt giymek istiyormuş beyler
 bkz rall 18 yaşına basınca annesine beleş basıyoruz kampanyası
 bkz rallın annesi orospuluk yaparken veledi zina rallın oç luğu yapması
