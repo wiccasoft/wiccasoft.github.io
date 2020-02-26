@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkjz 25 yıldır bim pasta le kola içen adam
+bkz 25 yıldır bim pasta le kola içen mümin adam
 bkz kürtler niye kürtcell kullanmıyo sorunsalı
 https://www.uludagsozluk.com/k/k%C3%BCrtler-sokakta-nas%C4%B1l-rahat-y%C3%BCr%C3%BCyor/
 bkz atacücüye en güzel tedavü güzelce tecavüz
