@@ -1,51 +1,8 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
-<!--
-bkz bimden helal cola helal pasta alıp çılgınca parti yapmak
-bkz tayyibin bim pasta kolalı doğum gün partisi
-bkz tayibni bim pasta kola iyidir demesi
-bkz tayyip geldiğinden beri bim pasta kola içen adam
-bkz bim pastayla kola içerken ilahi dinlemek
-bkz bim pasta yaparken kürtleri trollemek
-bkz kürtleri niye gaz odasına atmıyoruz kampanyası
-bkz tayyibin bim pasta kola içiyosunuz daha ne demesi
-bkz 25 yıldır bim pasta le kola içen mümin adam
-bkz kürtler niye kürtcell kullanmıyo sorunsalı
-https://www.uludagsozluk.com/k/k%C3%BCrtler-sokakta-nas%C4%B1l-rahat-y%C3%BCr%C3%BCyor/
-bkz atacücüye en güzel tedavü güzelce tecavüz
-bkz facebook a tayyi presmi atıp altına duygulu laflar yazmak
-bkz receğ tayyiğ erdoğanın doğum gününü kutlamayan kafirler
-bkz corona virüsünün kafirleri vurması
-bkz tayyipin bim pasta yiyip iyi ki doydum demesi
-bkz zulüm 26 şubat 1954 te başladı
-bkz bim in helal pasta getirmesi
-bkz özyeğen üniversitesie yeğeni yollamak
-bkz ersun yanalın alper potuk kozunu iyi oynaması
-bkz ersun yanalın mevzu fenerse gerisi teferruattır demesi
-bkz ak nonoşların kızdıramadığı gerçeği
-bkz ak nonoşlar adımı bilmediğiniz için şanslısınız
-bkz benim yiğenim atakan olsaydı erkan naldemirciyi bulur duvarda duvara vura vura sikerdim net
-bkz sikmeye değecek ak nonoşların olmadığı gerçeği
-https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=bg
-https://www.uludagsozluk.com/k/e%C4%9Fitimli-pkk-severlerin-ortak-%C3%B6zellikleri/ annenin götünü sikmeleri
-bkz muhallebi kokulu işsiz ak nonoş ibnelerin kendilerini adam sanması
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-adam-gibi-adam-yazarlar%C4%B1-s%C4%B1ral%C4%B1-liste/&w=bg
-https://www.uludagsozluk.com/k/tayttan-rahats%C4%B1z-olan-erkek/ bkz rall arkadaşları ona erkek diyor
-bkz rallın bimden pasta alırken taytlı kız görmesi eve gelince anneee diye ağlaması
-bkz rall annesi kek yaparken tayt giymek istiyormuş beyler
-bkz rall 18 yaşına basınca annesine beleş basıyoruz kampanyası
-bkz rallın annesi orospuluk yaparken veledi zina rallın oç luğu yapması
-bkz rallın annesinin orospuluk yapması yasaklansın kampanyası
-bkz zall bana hep oç derin annesi orospuluk yapması yasaklansın
-bkz zall bana hep oç derin erdoğana götten vermesi yasaklansın kampanyası
-bkz hdp kongresinde götveren rallın kafa sikmesi
-https://www.uludagsozluk.com/k/k%C3%BCrtcell/&w=bg bkz ibrahimtalısekscell
-https://www.uludagsozluk.com/k/mustafa-sandal/&w=bg cumhurbaşkanına götte kayayıom ibneni evladı 
-https://www.uludagsozluk.com/k/tayt-giymek-yasaklans%C4%B1n-kampanyas%C4%B1/ anan da giymesin içine amın sıçtığı
-https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=bg-->
 
-[![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=n_GiCz7nPsU )
+[![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=FT3zuBuqnsk )
 
 
 [![Image](waste/Screenshot_2020-02-25_18-38-07.png)]( https://www.youtube.com/watch?v=jVEKDcDEN1w )
