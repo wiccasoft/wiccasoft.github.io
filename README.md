@@ -1,4 +1,4 @@
-[![Image](waste/Screenshot_2020-02-25_11-49-47.png)]( https://www.youtube.com/watch?v=jVEKDcDEN1w )
+[![Image](waste/Screenshot_2020-02-25_18-38-07.png)]( https://www.youtube.com/watch?v=jVEKDcDEN1w )
 
 [![Image](waste/Screenshot_2020-02-25_11-49-31.png)]( https://www.youtube.com/watch?v=QLktoBwoCH8 )
 
