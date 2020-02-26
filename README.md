@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz kakayı kimsenin siklememesi
 bkz dünya liderinin kakayı rakip olarak görmemesi
 bkz geliyor geliyor dünya lideri geliyor
 bkz kaka nın kakası geliyıor mudur sorunsalı
