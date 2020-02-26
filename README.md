@@ -5,6 +5,7 @@
 
 <!-- 
 bkz hırtlar vadisi memco dayı
+bkz hırtlar vadi duran emmi aslan bey sevişme sahnesi
 bkz kurtlar vadisi remzi çukur bekir vuruşma sahnesi
 bkz kurtlar vadisi seyfo dayı polat sevişme sahnesi
 https://www.uludagsozluk.com/k/laz-ziya-vs-baron-karahanl%C4%B1/
