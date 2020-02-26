@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!-- 
+bkz atacücünün en süper millet cücüler demesi 
 bkz atacücünün sarhoş kafalay kurduğu devletin kafa sikmesi
 bkz atacücünün geberdiği gerçeği
 bka atacücücülerin kelle leşlerine şehit demeleri
