@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!-- 
+https://www.uludagsozluk.com/k/abd%C3%BClhamid-in-yapt%C4%B1%C4%9F%C4%B1-do%C4%9Fru-%C5%9Feyler/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-galatasaray/&w=bg 
 bkz fenerbahçe vs galatasaray
 bkz oç ateistlerin yok edilmesi gerekliliği
