@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz hırtlar vadisi palanın seyfo dayıyla sevişme sahnesi
 bkz ılık modası yüzünden delikanlıca vuruşacak adam bulamamak
 bkz atacücüzmün en boktan ideoloji olması
 bkz atacücününtürklükten aldığım keyf süper demesi en süper türk demesi
