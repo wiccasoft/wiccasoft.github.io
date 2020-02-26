@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://www.youtube.com/watch?v=O3bVXBKt6E0 )
 
 <!--
+bkz ciddi ciddi abdulhamdi yi öcen ergenler
 bkz ciddi ciddi bakunini araba markası sanan ergenler
 bkz ciddi ciddi anarko kapitalizm nedir bilmeyen ergenler
 bkz ciddi ciddi erkan tanı anlatan sazanlar
