@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz zall bana hep oç derin annesi orospuluk yapması yasaklansın
 bkz zall bana hep oç derin erdoğana götten vermesi yasaklansın kampanyası
 bkz hdp kongresinde götveren rallın kafa sikmesi
 https://www.uludagsozluk.com/k/k%C3%BCrtcell/&w=bg bkz ibrahimtalısekscell
