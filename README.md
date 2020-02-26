@@ -3,6 +3,7 @@
 
 
 <!-- 
+bkz chp kongresinde ataöcü için saygı duruşu
 bkz atacücü terör örgütü militanlarının saygı duruşu
 bkz çinlilerin türklerden it gibi korkması
 bkz çin sarayını basıp atacücü posteri asmak
