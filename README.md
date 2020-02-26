@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!-- 
+bkz atacücüye secde etmek sevaptır diyen atacücücü
 bkz atacücü anamın üstünde yakalansa suç anamdadır diye atacücü sem patizanı
 bkz chp kongresinde ataöcü için saygı duruşu
 bkz atacücü terör örgütü militanlarının saygı duruşu
