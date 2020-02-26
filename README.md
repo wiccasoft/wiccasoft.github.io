@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
-bkz kürtle niye gaz odasına atmıyoruz kampanyası
+bkz bim pasta yaparken kürtleri trollemek
+bkz kürtleri niye gaz odasına atmıyoruz kampanyası
 bkz tayyibin bim pasta kola içiyosunuz daha ne demesi
 bkz 25 yıldır bim pasta le kola içen mümin adam
 bkz kürtler niye kürtcell kullanmıyo sorunsalı
