@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=zTvjkUxqt-Q )
 
 <!--
+bkz aşkım camide nasıl kayıyosunuz birbirinze diyen kız
 bkz aşkım iki reket ne diyen kız
 https://www.uludagsozluk.com/k/a%C5%9Fk%C4%B1m-gus%C3%BCl-abdesti-ne-diye-soran-k%C4%B1z/ 
 bkz kürtler yüzünden delikanlıca ülkü ocağında vuruşamamak
