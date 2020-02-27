@@ -3,7 +3,7 @@
 
 <!-- 
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
-https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/  asdasdasd
+https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/  
 https://www.dailymotion.com/video/x2lkbki tsıhehehe
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
