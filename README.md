@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz o değil de nolcak bu fenerin hali viskiden yudum al hafif bi kahkaha
 bkz safkan türk olmanın verdiği konforizm ve keyfizm
 https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz soysuz köpekler
 https://www.uludagsozluk.com/k/suriyeli-erkeklerin-alay%C4%B1-idlip-te-%C3%A7at%C4%B1%C5%9Fs%C4%B1n/ 
