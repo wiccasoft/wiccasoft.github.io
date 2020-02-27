@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+https://www.uludagsozluk.com/k/i%C5%9F%C3%A7isini-d%C3%B6verek-%C3%B6ld%C3%BCren-patron/&w=gd lol
 https://eksisozluk.com/wuhan-virusu--6329962?a=popular aman dikkat arkadaşlar selam ve dua ile
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular ben iyiyim arkadaşlar merak etmeyin selam ve dua ile
 -->
