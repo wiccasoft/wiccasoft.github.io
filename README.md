@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-02-27_05-51-08.png)]( https://www.youtube.com/watch?v=9qfbepXqd3c )
 
-<!--https://www.pinterest.com/wiccasoft/ bkz elif can terimin excel tablosuyla hazırladığı biohazard sunumu -->
+<!--
+https://eksisozluk.com/wuhan-virusu--6329962?a=popular aman dikkat arkadaşlar selam ve dua ile
+https://www.pinterest.com/wiccasoft/ bkz elif can terimin excel tablosuyla hazırladığı biohazard sunumu 
+-->
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
 
