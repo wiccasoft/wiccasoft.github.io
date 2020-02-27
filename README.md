@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-heykellerine-sald%C4%B1ran-hdp-iti/ bkz tabuları yıkmak
+https://eksisozluk.com/fenerbahcenin-cokusunun-tek-sebebi--5950968?a=popular bkz damadın fener düşmanlığı
 https://www.uludagsozluk.com/e/42919989/
 https://www.uludagsozluk.com/e/42919580/
 bkz yeğeni özyeğin üniversitesine yollamak
