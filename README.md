@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-https://www.dailymotion.com/video/x2lkbki tsıheehehe
+https://www.dailymotion.com/video/x2lkbki tsıhehehe
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 bkz aileme ölmüş babama laf edenin içinden geçerim aynen
 bkz lanetlybebe nin yorgan altında biskrem yerken uyuyakalması aynen
