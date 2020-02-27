@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz safkan türk olmanın verdiği konfor ve keyf
 https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz soysuz köpekler
+https://www.uludagsozluk.com/k/suriyeli-erkeklerin-alay%C4%B1-idlip-te-%C3%A7at%C4%B1%C5%9Fs%C4%B1n/ 
 https://www.uludagsozluk.com/k/%C3%B6zal-%C4%B1n-mezhep%C3%A7i-ve-k%C3%BCrt%C3%A7%C3%BC-olmas%C4%B1/ bilinen gerçek
 https://www.uludagsozluk.com/k/metroda-t%C3%BCrbanl%C4%B1-k%C4%B1z%C4%B1n-arkas%C4%B1nda-31-%C3%A7eken-adam/ 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-heykellerine-sald%C4%B1ran-hdp-iti/ bkz tabuları yıkmak
