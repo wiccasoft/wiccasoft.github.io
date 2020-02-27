@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg gassaray içi karıyı satarım
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=gd 
 https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=gd
 https://www.uludagsozluk.com/k/i%C5%9F%C3%A7isini-d%C3%B6verek-%C3%B6ld%C3%BCren-patron/&w=gd lol
