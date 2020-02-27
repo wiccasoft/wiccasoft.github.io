@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz yumuşak götlü ergenlerin iyice tırsması aynen
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
 https://lanetlybebe.uludagsozluk.com/ bkz tam bi liseli aynen
 https://www.uludagsozluk.com/k/bedelli-askerlik-yap%C4%B1p-erke%C4%9Fim-diye-dola%C5%9Fmak/&w=bg sakin ol liseli
