@@ -3,7 +3,7 @@
 
 <!-- 
 bkz havada denizde karada uzayda sikeceğim bebenin bordo klavyesine güvenmesi
-bkz 1978 liyim sekste güçlüyüm havada karada denizde o bebe dötünü sikerim
+bkz 1978 liyim sekste güçlüyüm havada karada denizde o bebe dötünü sikerim liseli kes sesini aynen
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-askerlik-yapmamas%C4%B1/&w=bg bkz bi bebe iddası
 bkz lanetlybebe nin tam bi bebe olması evet aynen
 bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
