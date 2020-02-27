@@ -2,6 +2,7 @@
 
 <!--
 https://eksisozluk.com/wuhan-virusu--6329962?a=popular aman dikkat arkadaşlar selam ve dua ile
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular ben iyiyim arkadaşlar merak etmeyin selam ve dua ile
 -->
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
