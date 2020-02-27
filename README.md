@@ -2,12 +2,11 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz lanetlybebe nin biskrem yerken uyuyakalması aynen
 bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
 bkz havada denizde karada uzayda sikeceğim bebenin bordo klavyesine güvenmesi
 bkz 1978 liyim sekste güçlüyüm havada karada denizde o bebe dötünü sikerim liseli kes sesini aynen
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-askerlik-yapmamas%C4%B1/&w=bg bkz bi bebe iddası 
-bkz lanetlybebe nin tam bi bebe olması evet aynen
-bkz lanetlybebe nin biskrem yerken şehit düşmesi aynen
 bkz yumuşak götlü ergenlerin iyice tırsması aynen
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
 https://lanetlybebe.uludagsozluk.com/ bkz tam bi liseli aynen
