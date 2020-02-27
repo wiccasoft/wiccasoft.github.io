@@ -1,43 +1,5 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
-<!--
-https://www.youtube.com/watch?v=exdjlYaYJE8
-bkz yunan anadoluya girse enişte diye boynuna sarılır
-bkz özalın kürtlere eliyle kalp işareti yapması
-https://www.uludagsozluk.com/e/42919989/
-bkz damadın fenere devşirme takım demesi
-https://www.uludagsozluk.com/k/ruslar%C4%B1-vurmak-i%C3%A7in-ruslarla-g%C3%B6r%C3%BC%C5%9Fme-yapmak/ bkz sputnik
-bkz atatürkün kurduğu ülkede arap kürt ermeni rum kırmalarının cirit atması
-bkz trabzonluların ermeni rum karşımı soysuzlar olduğu gerçeği
-https://www.uludagsozluk.com/k/fiat-kullananlar%C4%B1n-genelde-trakyal%C4%B1-olmas%C4%B1/ 
-bkz kılıççının kürtçü ve kürt olduğu gerçeği
-bkz kılıççının kürt olmasını hazmedememek
-bkz kılıççının oğlunun alevi olması
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7%C3%A7%C4%B1n%C4%B1n-o%C4%9Flunun-alevi-olmas%C4%B1/
-bkz turgut özalın göt çeneli kürtçü olduğu gerçeği
-bkz o değil de nolcak bu fenerin hali viskiden yudum al hafif bi kahkaha
-bkz safkan türk olmanın verdiği konforizm ve keyfizm
-https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz soysuz köpekler
-https://www.uludagsozluk.com/k/suriyeli-erkeklerin-alay%C4%B1-idlip-te-%C3%A7at%C4%B1%C5%9Fs%C4%B1n/ 
-https://www.uludagsozluk.com/k/%C3%B6zal-%C4%B1n-mezhep%C3%A7i-ve-k%C3%BCrt%C3%A7%C3%BC-olmas%C4%B1/ bilinen gerçek
-https://www.uludagsozluk.com/k/metroda-t%C3%BCrbanl%C4%B1-k%C4%B1z%C4%B1n-arkas%C4%B1nda-31-%C3%A7eken-adam/ 
-https://www.uludagsozluk.com/k/atat%C3%BCrk-heykellerine-sald%C4%B1ran-hdp-iti/ bkz tabuları yıkmak
-https://eksisozluk.com/fenerbahcenin-cokusunun-tek-sebebi--5950968?a=popular bkz damadın fener düşmanlığı
-https://www.uludagsozluk.com/e/42919989/
-https://www.uludagsozluk.com/e/42919580/
-bkz yeğeni özyeğin üniversitesine yollamak
-bkz yüzyılın lideri olmanın getirdiği sorumluluklar
-https://www.uludagsozluk.com/k/forum-s%C3%B6zl%C3%BCk-kar%C4%B1%C5%9F%C4%B1m%C4%B1-web-sitesi-a%C3%A7mak/
-https://www.youtube.com/watch?v=Yoj-VLuCZvA bunun dokuyan çocuk kör oldu
-https://www.uludagsozluk.com/k/danny-d-nin-penisi/&w=bg lol
-https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg gassaray içi karıyı satarım
-https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=gd 
-https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=gd
-https://www.uludagsozluk.com/k/i%C5%9F%C3%A7isini-d%C3%B6verek-%C3%B6ld%C3%BCren-patron/&w=gd lol
-https://eksisozluk.com/wuhan-virusu--6329962?a=popular aman dikkat arkadaşlar selam ve dua ile
-https://eksisozluk.com/elif-can-yetim--5443402?a=popular ben iyiyim arkadaşlar merak etmeyin selam ve dua ile
-https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-kad%C4%B1n%C4%B1n-arkas%C4%B1nda-mast%C3%BCr-yapan-sap%C4%B1k/&w=gd
--->
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
 
