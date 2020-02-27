@@ -3,7 +3,7 @@
 
 <!-- 
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-https://www.uludagsozluk.com/k/reis-bilal-bey-i-idlip-e-g%C3%B6t%C3%BCr/ 
+https://www.uludagsozluk.com/k/reis-bilal-bey-i-idlip-e-g%C3%B6t%C3%BCr/ hele yarrama bah hele
 https://www.uludagsozluk.com/k/can-yaman/&w=bg yaman şakacısın delihanlı
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
 https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/  
