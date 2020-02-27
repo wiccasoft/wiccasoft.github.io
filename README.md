@@ -3,6 +3,7 @@
 <!--
 bkz yeğeni özyeğin üniversitesine yollamak
 bkz yüzyılın lideri olmanın getirdiği sorumluluklar
+https://www.youtube.com/watch?v=Yoj-VLuCZvA bunun dokuyan çocuk kör oldu
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg gassaray içi karıyı satarım
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=gd 
 https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-i%C3%A7in-sayg%C4%B1-duru%C5%9Fu/&w=gd
