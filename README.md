@@ -5,21 +5,6 @@
 
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
-https://www.youtube.com/watch?v=9qfbepXqd3c
-https://www.youtube.com/watch?v=2Vq1pdAHBcs
-https://eksisozluk.com/biri/kuzgunun-yavrusu lol
-https://eksisozluk.com/defne-samyelinin-karda-mayolu-hali--6384535?a=popular&p=4 lol 
-bkz 100 yıldır uçak motoru yapamayan ülke
-https://www.youtube.com/watch?v=5NKeTBLOd-U
-bkz türkiyenin kendini komünist ülke sanması
-bkz özal döneminde olmuştur
-https://www.youtube.com/watch?v=EfAsNffCjsM o dönem ne kadar süperdi lan
-bkz daha jeneratör yapamayan ülke uçak yapmaktan bahsediyo
-bkz şimdi başlasanız zıplamaya 2071 de aydasınız
-bkz elif can yetiminin selam ve dua ile excel de tablo yapması
-https://www.uludagsozluk.com/k/bay-ekrem-in-necmettin-erbakan-%C4%B1-anmas%C4%B1/ lol
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-yerli-u%C3%A7ak-a%C3%A7%C4%B1klamas%C4%B1/-->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://thefappeningblog.com/rose-mcgowan-nude-leaked-the-fappening-136-photos/#more-727385 )
 
