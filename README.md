@@ -1,5 +1,6 @@
 [![Image](waste/Screenshot_2020-02-27_05-51-08.png)]( https://www.youtube.com/watch?v=9qfbepXqd3c )
 
+<!-- https://www.uludagsozluk.com/k/27-02-2020-mast%C3%BCrbasyon-yapan-hayvan/&w=gd pipisini yesinler onun -->
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
 
