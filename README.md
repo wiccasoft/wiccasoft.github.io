@@ -7,7 +7,7 @@ bkz 100 yıldır uçak motoru yapamayan ülke
 bkz türkiyenin kendini komünist ülke sanması
 bkz daha jeneratör yapamayan ülke uçak yapmaktan bahsediyo
 bkz şimdi başlasanız zıplamaya 2071 de aydasınız
-bkz elif can yetimini excel de tablo hazırlaması
+bkz elif can yetiminin selam ve dua ile excel de tablo hazırlaması 
 https://www.uludagsozluk.com/k/bay-ekrem-in-necmettin-erbakan-%C4%B1-anmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-yerli-u%C3%A7ak-a%C3%A7%C4%B1klamas%C4%B1/-->
 
