@@ -3,6 +3,7 @@
 <!--
 bkz yeğeni özyeğin üniversitesine yollamak
 bkz yüzyılın lideri olmanın getirdiği sorumluluklar
+https://www.uludagsozluk.com/k/forum-s%C3%B6zl%C3%BCk-kar%C4%B1%C5%9F%C4%B1m%C4%B1-web-sitesi-a%C3%A7mak/
 https://www.youtube.com/watch?v=Yoj-VLuCZvA bunun dokuyan çocuk kör oldu
 https://www.uludagsozluk.com/k/danny-d-nin-penisi/&w=bg lol
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg gassaray içi karıyı satarım
