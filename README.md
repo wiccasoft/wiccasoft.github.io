@@ -4,7 +4,7 @@
 <!--
 o değilde damat trabzonu şampiyon yaparsa 100 milyar dolar yatırım yapacam
 https://eksisozluk.com/fenerbahcenin-cokusunun-tek-sebebi--5950968?a=popular bkz damadın fener düşmanlığı
-bkz erdun yanalın mevzu fenerse yine yeniliriz daha iyi yeniliriz demesi
+bkz ersun yanalın mevzu fenerse yine yeniliriz daha iyi yeniliriz demesi
 https://www.uludagsozluk.com/e/42919989/ zuahahaha
 https://www.youtube.com/watch?v=exdjlYaYJE8
 bkz yunan anadoluya girse enişte diye boynuna sarılır
