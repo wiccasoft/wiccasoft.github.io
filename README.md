@@ -3,7 +3,7 @@
 
 <!--
 o değil de allah kerim fatih terim
-o değil de fatih terim nasıl koydu amam bu vitaminsizlere
+o değil de fatih terim nasıl koydu bu vitaminsizlere
 o değilde damat trabzonu şampiyon yaparsa 100 milyar dolar yatırım yapacam
 https://eksisozluk.com/fenerbahcenin-cokusunun-tek-sebebi--5950968?a=popular bkz damadın fener düşmanlığı
 bkz ersun yanalın mevzu fenerse yine yeniliriz daha iyi yeniliriz demesi
