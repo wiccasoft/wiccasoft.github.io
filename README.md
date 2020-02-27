@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz lan lanetlibebe 1978 liyim sekste güçlüyüm analdın sen onuı havada karada deniz dötünü sikerim
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-askerlik-yapmamas%C4%B1/&w=bg bkz bi bebe iddası
 bkz lanetlybebe nin tam bi bebe olması evet aynen
 bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
