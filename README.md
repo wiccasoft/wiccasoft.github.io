@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz kılıççının kürtçü ve kürt olduğu gerçeği
 bkz kılıççının kürt olmasını hazmedememek
 bkz kılıççının kürt olduğu gerçeği
 bkz kürtlerin oç olduğu gerçeği
