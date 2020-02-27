@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://www.uludagsozluk.com/e/42919989/ zuahahaha
 https://www.youtube.com/watch?v=exdjlYaYJE8
 bkz yunan anadoluya girse enişte diye boynuna sarılır
 bkz özalın kürtlere eliyle kalp işareti yapması
