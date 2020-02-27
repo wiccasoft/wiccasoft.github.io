@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%B6zal-%C4%B1n-mezhep%C3%A7i-ve-k%C3%BCrt%C3%A7%C3%BC-olmas%C4%B1/ bkz göt çeneli kürt
 bkz o değil de nolcak bu fenerin hali viskiden yudum al hafif bi kahkaha
 bkz safkan türk olmanın verdiği konforizm ve keyfizm
 https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz soysuz köpekler
