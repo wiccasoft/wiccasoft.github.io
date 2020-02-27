@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
-bkz safkan türk olmanın verdiği konfor ve keyf
+bkz safkan türk olmanın verdiği konforizm ve keyfizm
 https://www.uludagsozluk.com/k/ermeniler/&w=bg bkz soysuz köpekler
 https://www.uludagsozluk.com/k/suriyeli-erkeklerin-alay%C4%B1-idlip-te-%C3%A7at%C4%B1%C5%9Fs%C4%B1n/ 
 https://www.uludagsozluk.com/k/%C3%B6zal-%C4%B1n-mezhep%C3%A7i-ve-k%C3%BCrt%C3%A7%C3%BC-olmas%C4%B1/ bilinen gerçek
