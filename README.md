@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- https://www.uludagsozluk.com/k/27-02-20-internet-eri%C5%9Fimi-k%C4%B1s%C4%B1tlamas%C4%B1/&w=bg bkz okan buruk
+<!-- 
+https://www.uludagsozluk.com/k/bedelli-askerlik-yap%C4%B1p-erke%C4%9Fim-diye-dola%C5%9Fmak/&w=bg sakin ol liseli
+https://www.uludagsozluk.com/k/27-02-20-internet-eri%C5%9Fimi-k%C4%B1s%C4%B1tlamas%C4%B1/&w=bg bkz okan buruk
 https://www.uludagsozluk.com/k/nargile-i%C3%A7erken-geli%C5%9Fmeleri-takip-eden-suriyeliler/ ehuehuehu-->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
