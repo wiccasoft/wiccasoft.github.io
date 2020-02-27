@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+https://www.uludagsozluk.com/k/metroda-t%C3%BCrbanl%C4%B1-k%C4%B1z%C4%B1n-arkas%C4%B1nda-31-%C3%A7eken-adam/ 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-heykellerine-sald%C4%B1ran-hdp-iti/ bkz tabuları yıkmak
 https://eksisozluk.com/fenerbahcenin-cokusunun-tek-sebebi--5950968?a=popular bkz damadın fener düşmanlığı
 https://www.uludagsozluk.com/e/42919989/
