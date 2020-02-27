@@ -2,11 +2,11 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
 bkz havada denizde karada uzayda sikeceğim bebenin bordo klavyesine güvenmesi
 bkz 1978 liyim sekste güçlüyüm havada karada denizde o bebe dötünü sikerim liseli kes sesini aynen
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-askerlik-yapmamas%C4%B1/&w=bg bkz bi bebe iddası
+https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-askerlik-yapmamas%C4%B1/&w=bg bkz bi bebe iddası 
 bkz lanetlybebe nin tam bi bebe olması evet aynen
-bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
 bkz lanetlybebe nin biskrem yerken şehit düşmesi aynen
 bkz yumuşak götlü ergenlerin iyice tırsması aynen
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
@@ -15,6 +15,7 @@ https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan%C4%B1n-suriyede-%C5%9Fehit-d%C
 https://www.uludagsozluk.com/k/bedelli-askerlik-yap%C4%B1p-erke%C4%9Fim-diye-dola%C5%9Fmak/&w=bg sakin ol liseli
 https://www.uludagsozluk.com/k/27-02-20-internet-eri%C5%9Fimi-k%C4%B1s%C4%B1tlamas%C4%B1/&w=bg bkz okan buruk
 https://www.uludagsozluk.com/k/nargile-i%C3%A7erken-geli%C5%9Fmeleri-takip-eden-suriyeliler/ ehuehuehu-->
+
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
