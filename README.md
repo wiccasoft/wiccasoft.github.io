@@ -6,6 +6,7 @@ bkz yunan anadoluya girse enişte diye boynuna sarılır
 bkz özalın kürtlere eliyle kalp işareti yapması
 https://www.uludagsozluk.com/e/42919989/
 bkz damadın fenere devşirme takım demesi
+https://www.uludagsozluk.com/k/ruslar%C4%B1-vurmak-i%C3%A7in-ruslarla-g%C3%B6r%C3%BC%C5%9Fme-yapmak/ bkz sputnik
 bkz atatürkün kurduğu ülkede arap kürt ermeni rum kırmalarının cirit atması
 bkz trabzonluların ermeni rum karşımı soysuzlar olduğu gerçeği
 https://www.uludagsozluk.com/k/fiat-kullananlar%C4%B1n-genelde-trakyal%C4%B1-olmas%C4%B1/ 
