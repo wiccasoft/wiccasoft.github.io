@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz özalın kürtlere eliyle kalp işareti yapması
 https://www.uludagsozluk.com/e/42919989/
 bkz damadın fenere devşirme takım demesi
 bkz atatürkün kurduğu ülkede arap kürt ermeni rum kırmalarının cirit atması
