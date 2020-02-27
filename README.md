@@ -2,8 +2,9 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi
-bkz lanetlybebe nin biskrem yerken şehit düşmesi
+bkz lanetlybebe nin tam bi bebe olması evet aynen
+bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
+bkz lanetlybebe nin biskrem yerken şehit düşmesi aynen
 bkz yumuşak götlü ergenlerin iyice tırsması aynen
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
 https://lanetlybebe.uludagsozluk.com/ bkz tam bi liseli aynen
