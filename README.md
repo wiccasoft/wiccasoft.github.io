@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/reis-bilal-bey-i-idlip-e-g%C3%B6t%C3%BCr/ sabah yollarım çift kale maç yaparsınız
 https://www.uludagsozluk.com/k/can-yaman/&w=bg yaman şakacısın delihanlı
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
 https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/  
