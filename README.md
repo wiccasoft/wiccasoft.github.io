@@ -1,4 +1,4 @@
-[![Image](waste/Screenshot_2020-02-27_05-51-08.png)]( https://www.youtube.com/watch?v=9qfbepXqd3c )
+[![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
 https://eksisozluk.com/wuhan-virusu--6329962?a=popular aman dikkat arkadaşlar selam ve dua ile
