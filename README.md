@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz kılıççının oğlunun alevi olması
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7%C3%A7%C4%B1n%C4%B1n-o%C4%9Flunun-alevi-olmas%C4%B1/
 bkz turgut özalın bi kset koyda şenlenelim semra hanım demesi
 bkz turgut özalın göt çeneli kürtçü olduğu gerçeği
 bkz o değil de nolcak bu fenerin hali viskiden yudum al hafif bi kahkaha
