@@ -5,10 +5,10 @@
 https://eksisozluk.com/defne-samyelinin-karda-mayolu-hali--6384535?a=popular&p=4 lol 
 bkz 100 yıldır uçak motoru yapamayan ülke
 bkz türkiyenin kendini komünist ülke sanması
-bkz daha jeneratör yapamayan ülke uçak yapmaktan bahsediyo la
+bkz daha jeneratör yapamayan ülke uçak yapmaktan bahsediyo
 bkz makine mühendisi olsaydım 3 senemi alırdı prototipini yapmak uzmanlık alanım değil
 bkz şimdi başlasanız zıplamaya 2071 de aydasınız
-bkz birazdan soy kavgası başlar lol
+bkz birazdan soy kavgası başlar bzim soyumuz kıpçaklara dayanıyo siz kürtsünüz ondan
 https://www.uludagsozluk.com/k/bay-ekrem-in-necmettin-erbakan-%C4%B1-anmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-yerli-u%C3%A7ak-a%C3%A7%C4%B1klamas%C4%B1/-->
 
