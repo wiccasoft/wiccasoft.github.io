@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/  asdasdasd
 https://www.dailymotion.com/video/x2lkbki tsıhehehe
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
