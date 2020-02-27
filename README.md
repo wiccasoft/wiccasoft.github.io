@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+https://www.uludagsozluk.com/e/42919580/
 bkz yeğeni özyeğin üniversitesine yollamak
 bkz yüzyılın lideri olmanın getirdiği sorumluluklar
 https://www.uludagsozluk.com/k/forum-s%C3%B6zl%C3%BCk-kar%C4%B1%C5%9F%C4%B1m%C4%B1-web-sitesi-a%C3%A7mak/
