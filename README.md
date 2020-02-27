@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz turgut özalın bi kset koyda şenlenelim semra hanım demesi
 bkz turgut özalın göt çeneli kürtçü olduğu gerçeği
 bkz o değil de nolcak bu fenerin hali viskiden yudum al hafif bi kahkaha
 bkz safkan türk olmanın verdiği konforizm ve keyfizm
