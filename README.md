@@ -2,7 +2,6 @@
 
 
 <!--
-bkz kılıççıoğlunun oğlunun askerliğini hayfa da yapması
 https://www.youtube.com/watch?v=exdjlYaYJE8
 bkz yunan anadoluya girse enişte diye boynuna sarılır
 bkz özalın kürtlere eliyle kalp işareti yapması
