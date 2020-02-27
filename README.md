@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz lanetlybebe nin biskrem yerken uyuyakalması aynen
+bkz lanetlybebe nin yorgan altında biskrem yerken uyuyakalması aynen
 bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
 bkz havada denizde karada uzayda sikeceğim bebenin bordo klavyesine güvenmesi
 bkz 1978 liyim sekste güçlüyüm havada karada denizde o bebe dötünü sikerim liseli kes sesini aynen
