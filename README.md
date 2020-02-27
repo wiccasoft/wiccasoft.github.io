@@ -4,13 +4,6 @@
 <!-- 
 https://www.dailymotion.com/video/x2lkbki tsıhehehe
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-bkz aileme ölmüş babama laf edenin içinden geçerim aynen
-bkz lanetlybebe nin yorgan altında biskrem yerken uyuyakalması aynen
-bkz lanetlybebe nin sütünü içip korkudan yorgan altından entry girmesi aynen
-bkz havada denizde karada uzayda sikeceğim bebenin bordo klavyesine güvenmesi
-bkz 1978 liyim sekste güçlüyüm o bebe dötünü sikerim liseli kes sesini aynen
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan-%C4%B1n-askerlik-yapmamas%C4%B1/&w=bg bkz bi bebe iddası 
-bkz yumuşak götlü ergenlerin iyice tırsması aynen
 https://www.uludagsozluk.com/e/42921533/ eheheh aynen
 https://lanetlybebe.uludagsozluk.com/ bkz tam bi liseli aynen
 https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan%C4%B1n-suriyede-%C5%9Fehit-d%C3%BC%C5%9Fmesi/&w=bg
