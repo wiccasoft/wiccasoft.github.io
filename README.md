@@ -4,7 +4,7 @@
 <!-- https://eksisozluk.com/biri/kuzgunun-yavrusu lol
 https://eksisozluk.com/defne-samyelinin-karda-mayolu-hali--6384535?a=popular&p=4 lol 
 bkz 100 yıldır uçak motoru yapamayan ülke
-bkz makine mühendisi olsaydım 3 senemi alırdı prototipini yapmak
+bkz makine mühendisi olsaydım 3 senemi alırdı prototipini yapmak uzmanlık alanım değil
 bkz şimdi başlasanız zıplamaya 2071 de aydasınız
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-yerli-u%C3%A7ak-a%C3%A7%C4%B1klamas%C4%B1/-->
 
