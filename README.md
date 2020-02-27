@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz atacücünün kuşatma altında çarşaf giyip kaçması
 bkz komunizm parayı femizim kocayı bulana kadardır -k.atacücü
 https://www.uludagsozluk.com/k/aydemir-akba%C5%9F/&w=bg gassaray içi karıyı satarım
 https://www.uludagsozluk.com/k/atakan-a-en-g%C3%BCzel-tedavi-tecav%C3%BCz-diye-adam/&w=gd 
