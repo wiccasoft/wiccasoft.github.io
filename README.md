@@ -4,6 +4,7 @@
 <!-- https://eksisozluk.com/biri/kuzgunun-yavrusu lol
 https://eksisozluk.com/defne-samyelinin-karda-mayolu-hali--6384535?a=popular&p=4 lol 
 bkz 100 yıldır uçak motoru yapamayan ülke
+bkz türkiyenin kendini komünist ülke sanması
 bkz daha jeneratör yapamayan ülke uçak yapmaktan bahsediyo la
 bkz makine mühendisi olsaydım 3 senemi alırdı prototipini yapmak uzmanlık alanım değil
 bkz şimdi başlasanız zıplamaya 2071 de aydasınız
