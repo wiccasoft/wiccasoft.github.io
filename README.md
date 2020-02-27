@@ -7,6 +7,7 @@ bkz 100 yıldır uçak motoru yapamayan ülke
 bkz daha jeneratör yapamayan ülke uçak yapmaktan bahsediyo la
 bkz makine mühendisi olsaydım 3 senemi alırdı prototipini yapmak uzmanlık alanım değil
 bkz şimdi başlasanız zıplamaya 2071 de aydasınız
+https://www.uludagsozluk.com/k/bay-ekrem-in-necmettin-erbakan-%C4%B1-anmas%C4%B1/ lol
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z%C4%B1n-yerli-u%C3%A7ak-a%C3%A7%C4%B1klamas%C4%B1/-->
 
 [![Image](waste/Screenshot_2020-02-25_21-31-25.png)]( https://thefappeningblog.com/rose-mcgowan-nude-leaked-the-fappening-136-photos/#more-727385 )
