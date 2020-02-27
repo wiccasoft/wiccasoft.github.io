@@ -5,6 +5,7 @@ https://www.uludagsozluk.com/k/hdp-kongresinde-ter%C3%B6r-%C3%B6rg%C3%BCt%C3%BC-
 https://www.uludagsozluk.com/k/i%C5%9F%C3%A7isini-d%C3%B6verek-%C3%B6ld%C3%BCren-patron/&w=gd lol
 https://eksisozluk.com/wuhan-virusu--6329962?a=popular aman dikkat arkadaşlar selam ve dua ile
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular ben iyiyim arkadaşlar merak etmeyin selam ve dua ile
+https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-kad%C4%B1n%C4%B1n-arkas%C4%B1nda-mast%C3%BCr-yapan-sap%C4%B1k/&w=gd
 -->
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
