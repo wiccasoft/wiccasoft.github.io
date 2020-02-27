@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-25_22-24-42.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.youtube.com/watch?v=9qfbepXqd3c
 https://www.youtube.com/watch?v=2Vq1pdAHBcs
 https://eksisozluk.com/biri/kuzgunun-yavrusu lol
 https://eksisozluk.com/defne-samyelinin-karda-mayolu-hali--6384535?a=popular&p=4 lol 
