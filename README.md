@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-27_05-51-08.png)]( https://www.youtube.com/watch?v=9qfbepXqd3c )
 
-<!-- https://www.uludagsozluk.com/k/27-02-2020-mast%C3%BCrbasyon-yapan-hayvan/&w=gd pipisini yesinler onun -->
+<!--
+https://www.uludagsozluk.com/k/christoph-daum-un-%C3%BC%C3%A7%C3%BCnc%C3%BC-fenerbah%C3%A7e-d%C3%B6nemi/&w=bg hadi bklm
+https://www.uludagsozluk.com/k/27-02-2020-mast%C3%BCrbasyon-yapan-hayvan/&w=gd pipisini yesinler onun -->
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
 
