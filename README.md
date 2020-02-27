@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://eksisozluk.com/fenerbahcenin-cokusunun-tek-sebebi--5950968?a=popular bkz damadın fener düşmanlığı
 bkz erdun yanalın mevzu fenerse yine yeniliriz daha iyi yeniliriz demesi
 https://www.uludagsozluk.com/e/42919989/ zuahahaha
 https://www.youtube.com/watch?v=exdjlYaYJE8
