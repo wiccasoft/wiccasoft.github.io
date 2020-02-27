@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 <!--
+bkz atatürkün kurduğu ülkede iğrneç arap kürt kırmalarını cirit atması
 bkz trabzonluların ermeni rum karşımı soysuzlar olduğu gerçeği
 https://www.uludagsozluk.com/k/fiat-kullananlar%C4%B1n-genelde-trakyal%C4%B1-olmas%C4%B1/ 
 bkz kılıççının kürtçü ve kürt olduğu gerçeği
