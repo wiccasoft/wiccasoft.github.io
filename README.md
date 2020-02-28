@@ -2,12 +2,6 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz oyun çoh böyük yeğen
-bkz ersun yanalın ben bu oyunu bozarım demesi
-bkz enver paşa nın intikam yemini edip sarıkamışa asker yığması
-bkz cemyılmaz aleyna tlkiyi patlatmış mıdır sorunsalı
-https://www.uludagsozluk.com/k/ehonomi-%C3%A7oheyi-ye%C4%9Fen-vs-oyun-b%C3%B6y%C3%BCkye%C4%9Fen-diyen-day%C4%B1/
-bkz osman pamukoğlanın leşleri ruslara toplatması
 https://www.uludagsozluk.com/e/42925850/
 bkz şehitler sepeti demedim tepesi dedim
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
