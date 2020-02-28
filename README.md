@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz rusyanın ulusal yas ilan etmesi
+bkz rusyanın kelleler için yas ilan etmesi
 bkz hayati inacın inançsız kelleler ölecek tabi demesi
 bkz kasım süleymaninin karısının intikam yemini etmesi
 bkz hayati inançlı nın kellelere inançlı öldüler demesi
