@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://www.uludagsozluk.com/k/penis-g%C3%B6r%C3%BCnce-%C4%B1%C5%9F%C4%B1k-h%C4%B1z%C4%B1nda-bo%C5%9Falmak/
 https://www.uludagsozluk.com/k/baz%C4%B1-erkeklerin-gerizekal%C4%B1-olmas%C4%B1/
 bkz 30 yaşında pipinin kalkmaması
 bkz ülkücülerle islamcıların güldürmesi
