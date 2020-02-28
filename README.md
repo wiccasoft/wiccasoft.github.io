@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- https://www.uludagsozluk.com/k/k%C4%B1%C5%9F%C4%B1n-bacak-k%C4%B1llar%C4%B1n%C4%B1-almayan-k%C4%B1z/&w=bg -->
+<!-- https://www.uludagsozluk.com/e/42925444/ bunu aklınıza yazın kızlar he zaman tüyo vermem -->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
