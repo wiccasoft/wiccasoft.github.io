@@ -3,6 +3,7 @@
 
 <!-- 
 bkz oyun çoh böyük yeğen
+bkz enver paşa nın intikam yemini edip sarıkamışa asker yığması
 bkz türbanlıların sınıra yürümesi
 bkz ersun yanalın ben bu oyunu bozarım demesi
 bkz cemyılmaz aleyna tlkiyi patlatmış mıdır sorunsalı
