@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/hayati-inan%C3%A7-%C4%B1n-%C5%9Fehitlerle-ilgili-skandal-s%C3%B6zleri/
 https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın karısı cihatçılar
 https://www.uludagsozluk.com/k/rusya-ile-16-kez-sava%C5%9Ft%C4%B1k-tekrar-sava%C5%9Faca%C4%9F%C4%B1z/ yürü be aslan parçası
 https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın karısı
