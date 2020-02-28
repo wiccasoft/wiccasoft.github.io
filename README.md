@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz erecep tayyip doğanın suriyeye güneş gibi doğması
 bkz kışın bacak kıllarını almayan kıza sözlük kadını tavsiyeleri
 bkz polat alemdarı suriyenin üzerine salmak
 https://www.uludagsozluk.com/k/polat-alemdar-%C4%B1-suriye-nin-%C3%BCzerine-salmak/
