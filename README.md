@@ -3,6 +3,7 @@
 
 <!-- 
 noldiii renciniz soldiii filozof arakan sıçmıkları
+https://haber.sol.org.tr/dunya/zaharovadan-idlib-aciklamasi-kotu-durumun-temel-nedeni-281418
 https://www.uludagsozluk.com/k/rusya-dan-al%C4%B1nan-silahla-rusyaya-kar%C5%9F%C4%B1-sava%C5%9Fmak/&w=bg
 https://www.independentturkish.com/node/24566/d%C3%BCnyadan-sesler/rusya-t%C3%BCrkiye%E2%80%99deki-bilgi-sava%C5%9F%C4%B1n%C4%B1-kazand%C4%B1
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg hele yarramın filozofuna bah hele
