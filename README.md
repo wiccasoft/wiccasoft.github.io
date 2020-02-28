@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ruslar%C4%B1n-%C3%BCzerine-ok%C3%A7ular%C4%B1m%C4%B1z%C4%B1-salmak/ lol
+https://www.uludagsozluk.com/k/ruslar%C4%B1n-korkudan-alt%C4%B1na-s%C4%B1%C3%A7mas%C4%B1/ lol
+https://www.uludagsozluk.com/k/tsk-n%C4%B1n-wagner-kuvvetlerini-vurmas%C4%B1/&w=bg lol
 bkz hele yarraklarıma bak hele
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
 bkz rus uçağına kafa atan türkler
