@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- 
+<!--
+bkz bir gün hepinizi hergün birinizi ölünüzü diriniz yedi ceddinizi havada karada suda gömeriz
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-ayr%C4%B1l%C4%B1k%C3%A7%C4%B1-t%C3%BCrkler-birli%C4%9Fi/&w=bg
 bkz şaka maka türklerin siyah kellesinden kale yapmak
 bkz şehitler sepeti demedim tepesi dedim
 https://www.uludagsozluk.com/e/42925444/ bunu aklınıza yazın kızlar her zaman tüyo vermem -->
