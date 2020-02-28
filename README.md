@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/sava%C5%9F-yanl%C4%B1lar%C4%B1-neye-g%C3%BCveniyor-sorunsal%C4%B1/ bkz ameriga
 https://eksisozluk.com/tsknin-rus-hava-savunma-sistemini-vurma-goruntusu--6387500?a=popular bkz hüloğğğ
 https://eksisozluk.com/rus-ekonomisinin-cokmemesinin-sebebi--6387424?a=popular lol
 bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
