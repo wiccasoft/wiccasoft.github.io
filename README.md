@@ -2,11 +2,13 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/ bkz hakiki tosun paşa
-https://www.uludagsozluk.com/k/osman-pamuko%C4%9Flu/&w=bg bkz leş toplatmam reis
+
 https://www.uludagsozluk.com/e/42925850/
+bkz şehitler sepeti demedim tepesi dedim
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
 https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
+https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/ bkz hakiki tosun paşa
+https://www.uludagsozluk.com/k/osman-pamuko%C4%9Flu/&w=bg bkz leş toplatmam reis
 https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
 https://www.uludagsozluk.com/k/4-mart-2020-kyiv-basket-p%C4%B1nar-kar%C5%9F%C4%B1yaka-ma%C3%A7%C4%B1/ bkz doğum günüm
