@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://www.uludagsozluk.com/k/hz-h%C3%BCseyin/&w=bg sağlam adam
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka maka recep şaban regaip kandilinin gelmesi
 bkz şaka maka damadın trabzonu şampiyon yapacak olması
