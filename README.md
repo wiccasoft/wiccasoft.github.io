@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz ülkücülerle islamcıların güldürmesi
 bkz ülkücülerin intikam yemini etmesi
 https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BClerin-idlibe-girmesi/
 bkz ümmet sınırda siz nerdesiniz
