@@ -1,6 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
+<!-- https://www.uludagsozluk.com/k/m%C3%BCltecilerin-b%C3%BCy%C3%BCk-penisli-olmas%C4%B1/ bebe haklı aynen-->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
