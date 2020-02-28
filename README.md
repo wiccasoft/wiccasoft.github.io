@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://www.uludagsozluk.com/k/darbeyi-eni%C5%9Fteden-%C5%9Fehidi-validen-%C3%B6%C4%9Frenmek/
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka maka putinin çöl farelerini iyi sikertmesi
 bkz diplomatik zekama güven sen raad ol nabcan ya diyen adam
