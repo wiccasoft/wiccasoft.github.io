@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg
 https://www.uludagsozluk.com/k/hulusi-akar/&w=gd alemlere akar
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz şehitler tepesi dedim sepeti demedim
