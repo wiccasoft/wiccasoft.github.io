@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz yunan eflatunun filozof atakanı hoplatacağı gerçeği
 bkz filozof ataknın gözlerine sürme çekip felsefe yapması
 bkz filozof atakanın türk intikam yeminin etmesi
 bkz filozof atakanın atamın izindeyim demesi
