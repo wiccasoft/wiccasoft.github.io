@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz 10 yaşındaki aptal velete filozof diyen ülke
+bkz 10 yaşındaki çok konuşan aptal velete filozof diyen ülke
 bkz filozof atakanın bomboş bir balon olduğu gerçeği
 bkz yunan eflatunun türkçü filozof atakanı hoplatacağı gerçeği
 bkz filozof ataknın gözlerine sürme çekip felsefe yapması
