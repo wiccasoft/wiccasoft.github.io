@@ -8,8 +8,7 @@ bkz polat alemdarın misilden koşarak kaçması
 bkz rte ülkeyi bırakırsa diye kara kara düşünmek
 https://www.uludagsozluk.com/k/rte-%C3%BClkeyi-b%C4%B1rak%C4%B1rsa-neler-olur/
 bkz şaka maka recep şaban ramazan ayının gelmesi
-bkz rte nin diplomatik zekama güvenin demesi
-bkz rte nni bari regaip kandilin de sigara içmeyin demesi
+bkz rte nni bari regaip kandilinde sigara içmeyin demesi
 https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
 https://www.uludagsozluk.com/k/33-%C5%9Fehit-%C3%BCzerinden-tayyip-erdo%C4%9Fana-sald%C4%B1rmak/
 https://www.uludagsozluk.com/k/hz-h%C3%BCseyin/&w=bg sağlam adam
