@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bi küçük filosof vardı noldu ona sorunsalı
 bkz tavşan rusyaya küsmüş rusyanın haberş olmamış
 bkz rusyayı kaç saate telef ederiz sorunsalı
 bkz şaka maka küçük sürmeli filozofun yine kaldırması
