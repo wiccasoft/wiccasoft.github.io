@@ -1,50 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- 
-bkz kasım süleymaninin rus uçağına kafa atması
-bkz hayati inançlının kelleleri siklemiyom demesi
-bkz kasım süleymaninni rus uçağına kafa atması
-bkz cihatçıların rus uçaklarına sapanla taş atması
-bkz kasım süleymaninni tekbir çekip rus uçağına saldırması
-bkz kasım süleymaninin ümmet için intikam yemin etmesi
-bkz hayati inacın inançsız kelleler ölecek tabi demesi
-bkz kasım süleymaninin karısının intikam yemini etmesi
-bkz hayati inançlı nın kellelere inançlı öldüler demesi
-https://www.uludagsozluk.com/k/hayati-inan%C3%A7-%C4%B1n-%C5%9Fehitlerle-ilgili-skandal-s%C3%B6zleri/
-https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın cihatçı karıları
-bkz putinin eşcimsel kellsesi toplamam demesi
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-cayd%C4%B1r%C4%B1c%C4%B1-g%C3%BCc%C3%BC/ güldüren güçtür aynen
-https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın cihatçı karıları
-bkz ayrılıkçı eşcinsellerin hayalindeki lider
-bkz eşcinsellerin kelleler için ağlaması
-bkz türkler geberdikçe keyiflenmek
-bkz götü kalkan cihatçıların yine göt olması
-https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın cihatçı karıları
-https://www.uludagsozluk.com/k/cinsel-organ%C4%B1n%C4%B1-keserek-intihar-eden-dede/ hele yarrama bak hele
-https://www.uludagsozluk.com/k/hayati-inan%C3%A7-%C4%B1n-%C5%9Fehitlerle-ilgili-skandal-s%C3%B6zleri/
-https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın karısı cihatçılar
-https://www.uludagsozluk.com/k/rusya-ile-16-kez-sava%C5%9Ft%C4%B1k-tekrar-sava%C5%9Faca%C4%9F%C4%B1z/ yürü be aslan parçası
-https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın karısı
-https://www.uludagsozluk.com/k/kendini-padi%C5%9Fah-sanan-adam/ bkz hele yarrama bak hele
-bkz şaka maka gürcünün iyi ümmet lideri taklidi yapması
-https://www.uludagsozluk.com/k/bana-%C3%BCmmetin-lideri-deme/ sebep
-bkz şaka maka damadın trabzonu şampiyon yapacağı gerçeği
-bkz şaka maka recep tayyip şaban aylarının gelmesi
-https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz yalak
-https://www.uludagsozluk.com/k/kendini-padi%C5%9Fah-sanan-adam/ hele yarrama bak hele
-https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz sen gel mübarek adam
-bkz şaka maka gürcünün türkleri közletmesi 
-https://www.uludagsozluk.com/e/42925850/
-bkz şehitler sepeti demedim tepesi dedim
-https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
-https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
-https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/ bkz hakiki tosun paşa
-https://www.uludagsozluk.com/k/osman-pamuko%C4%9Flu/&w=bg bkz leş toplatmam reis
-https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
-https://www.uludagsozluk.com/k/4-mart-2020-kyiv-basket-p%C4%B1nar-kar%C5%9F%C4%B1yaka-ma%C3%A7%C4%B1/ bkz doğum günüm
--->
+
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
