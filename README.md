@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz kamalcılar geçen hafta ersun yanaldım bu hafta tayuip mi oldum
 bkz kamalcıların bi türlü anlamaması
 bkz kamalcıların beni tayyip sanması 
 bkz dostunu uzak düşmanını yakın tut
