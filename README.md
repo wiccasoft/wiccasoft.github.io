@@ -1,48 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!--
-bkz şaka maka türklerin kafataslarından kale yapmak
-bkz şehitler sepeti demedim tepesi dedim
-bkz şaka maka putinin çöl farelerini iyi sikertmesi
-bkz diplomatik zekama güven sen raad ol nabcan ya diyen adam
-https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
-https://www.uludagsozluk.com/k/darbeyi-eni%C5%9Fteden-%C5%9Fehidi-validen-%C3%B6%C4%9Frenmek/
-https://www.uludagsozluk.com/k/penis-g%C3%B6r%C3%BCnce-%C4%B1%C5%9F%C4%B1k-h%C4%B1z%C4%B1nda-bo%C5%9Falmak/
-https://www.uludagsozluk.com/k/baz%C4%B1-erkeklerin-gerizekal%C4%B1-olmas%C4%B1/
-bkz 30 yaşında pipinin kalkmaması
-bkz ülkücülerle islamcıların güldürmesi
-bkz ülkücülerin intikam yemini etmesi
-https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BClerin-idlibe-girmesi/
-bkz ümmet sınırda siz nerdesiniz
-https://www.uludagsozluk.com/k/ummet-s%C4%B1n%C4%B1rda-siz-neredesiniz/
-bkz polat alemdarın suriyeye kim saldı sorunsalı
-bkz recep tayyip doğanın suriyeye güneş gibi doğması
-bkz kışın bacak kıllarını almayan kıza sözlük kadını tavsiyeleri
-bkz polat alemdarı suriyenin üzerine salmak
-https://www.uludagsozluk.com/k/polat-alemdar-%C4%B1-suriye-nin-%C3%BCzerine-salmak/
-bkz bir 40 + ablanız olarak sözlük 30+ ablalarına tavsiyelerim
-https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-testosteronun-d%C3%BC%C5%9Fmeye-ba%C5%9Flamas%C4%B1/&w=bg
-bkz bir kadın oalrak kışık bacak kıllarını alan kız
-https://www.uludagsozluk.com/k/k%C4%B1%C5%9F%C4%B1n-bacak-k%C4%B1llar%C4%B1n%C4%B1-almayan-k%C4%B1z/&w=gd
-bkz şaka maka recep şaban ragaip ayının gelmesi
-https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=gd bkz hakiki tosun paşa
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-k%C3%BCf%C3%BCr-eden-cezas%C4%B1n%C4%B1-%C3%A7ekecektir/&w=bg
-https://www.uludagsozluk.com/k/17-y%C4%B1lda-bir-defa-bile-akp-ye-oy-vermemi%C5%9F-yazarlar/ efso yazarlar
-https://www.uludagsozluk.com/k/adnan-aybaba-n%C4%B1n-akp-ve-fet%C3%B6-ye-verdi%C4%9Fi-nefis-ayar/ efso ayar
-https://www.uludagsozluk.com/k/ummet-s%C4%B1n%C4%B1rda-siz-neredesiniz/
-https://www.uludagsozluk.com/k/ocaklarda-emir-bekleyen-milyonlarca-%C3%BClk%C3%BCc%C3%BC/
-https://www.uludagsozluk.com/k/hulusi-akar/&w=gd alemlere akar
-https://www.youtube.com/watch?v=EfAsNffCjsM
-bkz şehitler tepesi dedim sepeti demedim
-bkz şaka maka regaip kandilinin süper geçmesi
-bkz şaka maka damadın trabzonu şampiyon yapacak olması
-https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BCler-ve-reisin-adamlar%C4%B1-her%C5%9Feye-haz%C4%B1r/
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
-https://www.uludagsozluk.com/k/m%C3%BCltecilerin-b%C3%BCy%C3%BCk-penisli-olmas%C4%B1/ bebe haklı aynen 
-https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
-https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ -->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
