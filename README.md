@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/bana-%C3%BCmmetin-lideri-deme/ sebep
 bkz şaka maka damadın trabzonu şampiyon yapacağı gerçeği
 bkz şaka maka recep tayyip şaban aylarının gelmesi
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz yalak
