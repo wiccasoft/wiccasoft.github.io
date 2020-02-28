@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
 https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
 https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
@@ -12,7 +13,6 @@ https://www.uludagsozluk.com/k/yanda%C5%9F-medayn%C4%B1n-rusyay%C4%B1-masum-g%C3
 bkz şehitler sepeti demedim şehitler tepesi dedim
 https://www.uludagsozluk.com/k/paras%C4%B1-%C3%B6denen-f35-ler-nerede-sorunsal%C4%B1/ zuhaha
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg zuahhahaha 
-bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg bkz yakalarsam tik tok
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg ıstırırın yaların bi de
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/ ben saldırıyorum beyler -->
