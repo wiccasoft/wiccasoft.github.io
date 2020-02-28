@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz hayati inançın şehitlerin götüne koyim demesi
 bkz türklerin siyah kafalı aptallara şehit demeleri
 bkz götü kalkan cihatçıların yine göt olması
 https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın cihatçı karıları
