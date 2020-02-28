@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
-bkz bacak kıllarını alan sözlük kadınları
+bkz olm ben  o ergenlerin arasında beş dakika durmam senin kadın olarak ne işin var orada
+bkz kışın bacak kıllarını alan sözlük kadınları
 bkz bir kadın olarak bir ablan olarak söylüyorum
 bkz sözlüklerdeki 30+ ablalar
 bkz ayrılıkçı kamalcılar
