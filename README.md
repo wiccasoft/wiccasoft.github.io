@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz cihatçıların rus uçaklarına sapanla taş atması
 bkz kasım süleymaninni tekbir çekip rus uçağına saldırması
 bkz kasım süleymaninin ümmet için intikam yemin etmesi
 bkz hayati inacın inançsız kelleler ölecek tabi demesi
