@@ -3,6 +3,8 @@
 
 <!-- 
 bkz şehitler tepesi dedim sepeti demedim
+bkz şaka maka regaip kandilinin süper geçmesi
+bkz şaka maka damadın trabzonu şampiyon yapacak olması
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
 https://www.uludagsozluk.com/k/m%C3%BCltecilerin-b%C3%BCy%C3%BCk-penisli-olmas%C4%B1/ bebe haklı aynen 
