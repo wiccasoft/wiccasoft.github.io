@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kürtlerin keller tepesinde kelelere tekme atıp futbol oynması
+bkz şehitler sepeti demedim şehitler tepesi dedim
 bkz kellerin ölmesine sevinen ruslar
 bkz şaka maka gürcünün türkleri iyi telef etmesi
 bkz dünya liderinin nerede olması sorunsalı
