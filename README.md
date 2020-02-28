@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz şaka maka recep şaban ramazan ayının gelmesi
 bkz şaka maka regaip kandilinin süper geçmesi
 bkz şaka maka damadın trabzonu şampiyon yapacak olması
 https://www.uludagsozluk.com/k/medipol-ba%C5%9Fak%C5%9Fehir-copenhag-e%C5%9Fle%C5%9Fmesi/ 
