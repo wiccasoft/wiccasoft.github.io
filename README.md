@@ -6,10 +6,9 @@ bkz yek vücud olalım canlar
 bkz bir olacaz iri olacaz diri olacaz 
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka mama recep şabana regaip ayının gelmesi
-https://www.uludagsozluk.com/k/k%C3%B6t%C3%BC-g%C3%BCnde-bile-tek-v%C3%BCcut-olamamak/
-https://www.uludagsozluk.com/k/ba%C5%9Fkomutan-recep-tayyip-erdo%C4%9Fan/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-ortado%C4%9Fu-da-oyun-kurucu-olmas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/28-%C5%9Fubat-2020-ba%C5%9Fkomutan%C4%B1n-ortalarda-olmamas%C4%B1/
+https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
+https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
+https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz devlet bahçelinin çay yudumlaması
 https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
