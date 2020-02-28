@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şaka maka gürcünün türkleri iyi telef etmesi
 bkz dünya liderinin nerede olması sorunsalı
 bkz tüm dünya ile görüşüp halkıyla görüşmeyen lider
 bkz türk silahlı kuvvetlerinin paylaştığı kalaşnikof
