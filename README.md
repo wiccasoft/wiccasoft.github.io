@@ -3,6 +3,7 @@
 
 
 <!--
+bkz polat alemdarı suriyeye salmak
 bkz rte ülkeyi bırakırsa diye kara kara düşünmek
 https://www.uludagsozluk.com/k/rte-%C3%BClkeyi-b%C4%B1rak%C4%B1rsa-neler-olur/
 bkz şaka maka recep şaban ramazan ayının gelmesi
