@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/ummet-s%C4%B1n%C4%B1rda-siz-neredesiniz/
 https://www.uludagsozluk.com/k/ocaklarda-emir-bekleyen-milyonlarca-%C3%BClk%C3%BCc%C3%BC/
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg
 https://www.uludagsozluk.com/k/hulusi-akar/&w=gd alemlere akar
