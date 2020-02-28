@@ -2,33 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-https://www.uludagsozluk.com/k/ruslar%C4%B1n-%C3%BCzerine-ok%C3%A7ular%C4%B1m%C4%B1z%C4%B1-salmak/ lol
-https://www.uludagsozluk.com/k/ruslar%C4%B1n-korkudan-alt%C4%B1na-s%C4%B1%C3%A7mas%C4%B1/ lol
-https://www.uludagsozluk.com/k/tsk-n%C4%B1n-wagner-kuvvetlerini-vurmas%C4%B1/&w=bg lol
-bkz hele yarraklarıma bak hele
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
-bkz rus uçağına kafa atan türkler
-https://www.uludagsozluk.com/k/tskn%C4%B1n-rus-hava-savunma-sistemini-vurma-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC/ hüloğğğ
-bkz uzun uzun anlamadığı konularda analiz kasan beyinsiz liseliler
-https://www.uludagsozluk.com/k/pkk-rusya-esed-ittifak%C4%B1/&w=bg bkz pkk energianın rusyanın arkasındaki güç olması
-https://eksisozluk.com/abdnin-insafli-bir-super-guc-olmasi--6387260?a=popular bkz ergenlerin silah karşılaştırma videoları
-https://www.uludagsozluk.com/k/sava%C5%9F-yanl%C4%B1lar%C4%B1-neye-g%C3%BCveniyor-sorunsal%C4%B1/ bkz ameriga
-https://eksisozluk.com/tsknin-rus-hava-savunma-sistemini-vurma-goruntusu--6387500?a=popular bkz hüloğğğ
-https://eksisozluk.com/rus-ekonomisinin-cokmemesinin-sebebi--6387424?a=popular lol
-bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
-https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
-https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
-https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
-https://www.uludagsozluk.com/k/ek%C5%9Ficilerin-daha-milliyet%C3%A7i-olmas%C4%B1/
-https://www.uludagsozluk.com/k/yanda%C5%9F-medayn%C4%B1n-rusyay%C4%B1-masum-g%C3%B6sterme-%C3%A7abas%C4%B1/
-bkz şehitler sepeti demedim şehitler tepesi dedim
-https://www.uludagsozluk.com/k/paras%C4%B1-%C3%B6denen-f35-ler-nerede-sorunsal%C4%B1/ zuhaha
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg zuahhahaha 
-https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg bkz yakalarsam tik tok
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg ıstırırın yaların bi de
-https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/ ben saldırıyorum beyler -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
