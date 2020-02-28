@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz ayrılıkçı eşcinsellerin hayalindeki lider
 bkz eşcinsellerin kelleler için ağlaması
 bkz türkler geberdikçe keyiflenmek
 bkz götü kalkan cihatçıların yine göt olması
