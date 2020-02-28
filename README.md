@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz kasım süleymaninin rus uçağına kafa atması
 bkz hayati inançlının kelleleri siklemiyom demesi
 bkz kasım süleymaninni rus uçağına kafa atması
 bkz cihatçıların rus uçaklarına sapanla taş atması
