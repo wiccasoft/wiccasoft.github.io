@@ -6,7 +6,6 @@ https://www.uludagsozluk.com/k/adnan-aybaba-n%C4%B1n-akp-ve-fet%C3%B6-ye-verdi%C
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=gd bkz hakiki tosun paşa
 https://www.uludagsozluk.com/k/ummet-s%C4%B1n%C4%B1rda-siz-neredesiniz/
 https://www.uludagsozluk.com/k/ocaklarda-emir-bekleyen-milyonlarca-%C3%BClk%C3%BCc%C3%BC/
-https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=bg
 https://www.uludagsozluk.com/k/hulusi-akar/&w=gd alemlere akar
 https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz şehitler tepesi dedim sepeti demedim
