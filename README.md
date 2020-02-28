@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz diplomatik zekama güven sen raad ol nabcan ya diyen adam
+https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
 https://www.uludagsozluk.com/k/penis-g%C3%B6r%C3%BCnce-%C4%B1%C5%9F%C4%B1k-h%C4%B1z%C4%B1nda-bo%C5%9Falmak/
 https://www.uludagsozluk.com/k/baz%C4%B1-erkeklerin-gerizekal%C4%B1-olmas%C4%B1/
 bkz 30 yaşında pipinin kalkmaması
