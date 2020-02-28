@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz türkler havada karada denize çok zayıf olması
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/ bkz hakiki tosun paşa
 https://www.uludagsozluk.com/k/osman-pamuko%C4%9Flu/&w=bg bkz leş toplatmam reis
 https://www.uludagsozluk.com/e/42925850/
