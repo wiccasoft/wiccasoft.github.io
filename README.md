@@ -3,6 +3,7 @@
 
 <!-- 
 bkz kamalcıların beni tayyip sanması 
+bkz dostunu uzak düşmanını yakın tut
 https://www.uludagsozluk.com/k/bir-g%C3%BCne%C5%9F-gibi-do%C4%9Fan-recep-tayyip-erdo%C4%9Fan/&w=gd
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
