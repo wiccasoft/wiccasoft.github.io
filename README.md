@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz ülkücülerin intikam yemini etmesi
+https://www.uludagsozluk.com/k/%C3%BClk%C3%BCc%C3%BClerin-idlibe-girmesi/
 bkz ümmet sınırda siz nerdesiniz
 https://www.uludagsozluk.com/k/ummet-s%C4%B1n%C4%B1rda-siz-neredesiniz/
 bkz polat alemdarın suriyeye kim saldı sorunsalı
