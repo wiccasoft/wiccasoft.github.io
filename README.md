@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C4%B1%C4%9F%C4%B1nmac%C4%B1lar%C4%B1-bulgaristan-s%C4%B1n%C4%B1r%C4%B1na-g%C3%B6t%C3%BCren-t%C3%BCrk/
 https://www.uludagsozluk.com/k/medipol-ba%C5%9Fak%C5%9Fehir-copenhag-e%C5%9Fle%C5%9Fmesi/ 
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz medipolbaşakşehir in bomba gibi geldiği gerçeği
