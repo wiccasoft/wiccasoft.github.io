@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz şehitler tepesi dedim sepeti demedim
 bkz şaka maka regaip kandilinin süper geçmesi
 bkz şaka maka damadın trabzonu şampiyon yapacak olması
