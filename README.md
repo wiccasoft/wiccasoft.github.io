@@ -4,9 +4,8 @@
 <!--
 https://www.uludagsozluk.com/k/hz-h%C3%BCseyin/&w=bg sağlam adam
 bkz şehitler sepeti demedim tepesi dedim
-bkz şaka maka recep şaban regaip kandilinin gelmesi
-bkz şaka maka damadın trabzonu şampiyon yapacak olması
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z-rte-ye-bir-yaz%C4%B1-yaz/ tamam
+https://www.uludagsozluk.com/k/bir-g%C3%BCne%C5%9F-gibi-do%C4%9Fan-recep-tayyip-erdo%C4%9Fan/&w=gd
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
