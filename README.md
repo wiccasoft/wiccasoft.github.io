@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz kamalcıların bi türlü anlamaması
 bkz kamalcıların beni tayyip sanması 
 bkz dostunu uzak düşmanını yakın tut
 https://www.uludagsozluk.com/k/bir-g%C3%BCne%C5%9F-gibi-do%C4%9Fan-recep-tayyip-erdo%C4%9Fan/&w=gd
