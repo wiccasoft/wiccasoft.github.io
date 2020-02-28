@@ -1,7 +1,11 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- https://www.uludagsozluk.com/k/m%C3%BCltecilerin-b%C3%BCy%C3%BCk-penisli-olmas%C4%B1/ bebe haklı aynen -->
+<!-- 
+https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
+https://www.uludagsozluk.com/k/m%C3%BCltecilerin-b%C3%BCy%C3%BCk-penisli-olmas%C4%B1/ bebe haklı aynen 
+https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
+https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ -->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
