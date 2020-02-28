@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz bir kadın olarak bir ablan olarak söylüyorum
 bkz sözlüklerdeki 30+ ablalar
 bkz ayrılıkçı kamalcılar
 bkz kamalcı karıların sözlüklerde toplanması
