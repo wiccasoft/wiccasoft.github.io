@@ -2,21 +2,6 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 
-<!--
-bkz polat alemdarı suriyeye salmak
-bkz polat alemdarın misilden koşarak kaçması
-bkz rte ülkeyi bırakırsa diye kara kara düşünmek
-https://www.uludagsozluk.com/k/rte-%C3%BClkeyi-b%C4%B1rak%C4%B1rsa-neler-olur/
-bkz şaka maka recep şaban ramazan ayının gelmesi
-bkz rte nni bari regaip kandilinde sigara içmeyin demesi
-https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
-https://www.uludagsozluk.com/k/33-%C5%9Fehit-%C3%BCzerinden-tayyip-erdo%C4%9Fana-sald%C4%B1rmak/
-https://www.uludagsozluk.com/k/hz-h%C3%BCseyin/&w=bg sağlam adam
-bkz şehitler sepeti demedim tepesi dedim
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z-rte-ye-bir-yaz%C4%B1-yaz/ tamam
-https://www.uludagsozluk.com/k/bir-g%C3%BCne%C5%9F-gibi-do%C4%9Fan-recep-tayyip-erdo%C4%9Fan/&w=gd
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ -->
-
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=5NKeTBLOd-U )
