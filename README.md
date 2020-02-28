@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz bir kadın oalrak kışık bacak kıllarını alan kız
+https://www.uludagsozluk.com/k/k%C4%B1%C5%9F%C4%B1n-bacak-k%C4%B1llar%C4%B1n%C4%B1-almayan-k%C4%B1z/&w=gd
 bkz şaka maka recep şaban ragaip ayının gelmesi
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=gd bkz hakiki tosun paşa
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-k%C3%BCf%C3%BCr-eden-cezas%C4%B1n%C4%B1-%C3%A7ekecektir/&w=bg
