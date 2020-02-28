@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz şaka maka recep tayyip şaban aylarının gelmesi
+https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz yalak
 https://www.uludagsozluk.com/k/kendini-padi%C5%9Fah-sanan-adam/ hele yarrama bak hele
 https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz sen gel mübarek adam
 bkz şaka maka gürcünün türkleri közletmesi 
