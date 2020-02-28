@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/yanda%C5%9F-medayn%C4%B1n-rusyay%C4%B1-masum-g%C3%B6sterme-%C3%A7abas%C4%B1/
 bkz şehitler sepeti demedim şehitler tepesi dedim
 bkz telef olan gürcü genereali
 bkz fil götüne tekme atan fare
