@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz sen gel mübarek adam
 bkz şaka maka gürcünün türkleri közletmesi 
 https://www.uludagsozluk.com/e/42925850/
 bkz şehitler sepeti demedim tepesi dedim
