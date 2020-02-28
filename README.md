@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz kamalın yiğidoları entry giriyo reisin itleri nerede
 https://www.uludagsozluk.com/k/17-y%C4%B1lda-bir-defa-bile-akp-ye-oy-vermemi%C5%9F-yazarlar/ efso yazarlar
 https://www.uludagsozluk.com/k/adnan-aybaba-n%C4%B1n-akp-ve-fet%C3%B6-ye-verdi%C4%9Fi-nefis-ayar/ efso ayar
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=gd bkz hakiki tosun paşa
