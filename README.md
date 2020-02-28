@@ -5,7 +5,7 @@
 <!-- 
 bkz rus uçağına kafa atan türkler
 https://www.uludagsozluk.com/k/tskn%C4%B1n-rus-hava-savunma-sistemini-vurma-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC/ hüloğğğ
-bkz uzun uzun anlamadığı konularda analiz kasan beyinsiz iseliler
+bkz uzun uzun anlamadığı konularda analiz kasan beyinsiz liseliler
 https://www.uludagsozluk.com/k/pkk-rusya-esed-ittifak%C4%B1/&w=bg bkz pkk energianın rusyanın arkasındaki güç olması
 https://eksisozluk.com/abdnin-insafli-bir-super-guc-olmasi--6387260?a=popular bkz ergenlerin silah karşılaştırma videoları
 https://www.uludagsozluk.com/k/sava%C5%9F-yanl%C4%B1lar%C4%B1-neye-g%C3%BCveniyor-sorunsal%C4%B1/ bkz ameriga
