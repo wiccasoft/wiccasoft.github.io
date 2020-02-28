@@ -3,6 +3,7 @@
 
 <!--
 bkz bir kadın olarak söylüyorum
+bkz kadın taklidis yapan 30 + loserlar
 https://mervesimay.uludagsozluk.com/ beyler kadınmış kadın olaraka söylüyorum diyor
 bkz bir kadın olarak bir ablan olarak söylüyorum hofff ya
 bkz 30 luk sözlük ablalarından genç sözlük kızlarına tavsiyeler
