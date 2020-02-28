@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz şaka maka davutoğlunun putin tarafına geçmesi
 bkz medipolbaşakşehir in bomba gibi geldiği gerçeği
 https://www.uludagsozluk.com/k/2020-2021-uefa-kupas%C4%B1-%C5%9Fampiyonu-medipol-ba%C5%9Fak%C5%9Fehir/
 bkz ibrahim kalının ben ince mi görüyorum demesi
