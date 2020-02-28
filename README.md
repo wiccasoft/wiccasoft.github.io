@@ -4,6 +4,7 @@
 <!-- 
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka mama recep şabana regaip ayının gelmesi
+bkz bir olacaz iri olacaz diri olacaz 
 https://www.uludagsozluk.com/k/ba%C5%9Fkomutan-recep-tayyip-erdo%C4%9Fan/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-ortado%C4%9Fu-da-oyun-kurucu-olmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/28-%C5%9Fubat-2020-ba%C5%9Fkomutan%C4%B1n-ortalarda-olmamas%C4%B1/
