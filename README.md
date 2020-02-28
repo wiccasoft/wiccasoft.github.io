@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz oyun çoh böyük yeğen
+https://www.uludagsozluk.com/k/ehonomi-%C3%A7oheyi-ye%C4%9Fen-vs-oyun-b%C3%B6y%C3%BCkye%C4%9Fen-diyen-day%C4%B1/
 bkz cem yılmaz leşler için yardım toğlaması
 bkz osman pamukoğlanın leşleri ruslara toplatması
 https://www.uludagsozluk.com/e/42925850/
