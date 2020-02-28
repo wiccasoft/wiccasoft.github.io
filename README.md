@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz türk silahlı kuvvetlerinin paylaştığı kalaşnikof
 bkz hakiki enver paşanın tosun paşa çıkması
 bkz türk silahlı kuvvetlerinin sarıkamışa dayanması an meselesi
 bkz o değil de güçük filozofların kalkmışı indirdiği gerçeği
