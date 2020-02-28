@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz hamiş şehitleri çen çehitlere de mi üzülüysün çen
 bkz hayati inançın şehitlerin götüne koyim demesi
 bkz türklerin siyah kafalı aptallara şehit demeleri
 bkz götü kalkan cihatçıların yine göt olması
