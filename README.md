@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://www.uludagsozluk.com/k/33-%C5%9Fehit-%C3%BCzerinden-tayyip-erdo%C4%9Fana-sald%C4%B1rmak/
 https://www.uludagsozluk.com/k/hz-h%C3%BCseyin/&w=bg sağlam adam
 bkz şehitler sepeti demedim tepesi dedim
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1m%C4%B1z-rte-ye-bir-yaz%C4%B1-yaz/ tamam
