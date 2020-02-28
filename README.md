@@ -4,6 +4,7 @@
 
 <!-- 
 bkz telef olan gürcü genereali
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg zuahhahaha fil götüne tekme atan fare
 bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
 bkz kürtlerin kelleler tepesinde kelelere tekme atıp futbol oynması
 bkz şehitler sepeti demedim şehitler tepesi dedim
