@@ -2,10 +2,10 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz yek vücud olalım canlar
+bkz bir olacaz iri olacaz diri olacaz 
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka mama recep şabana regaip ayının gelmesi
-bkz bir olacaz iri olacaz diri olacaz 
-bkz yek vücud olalım canlar
 https://www.uludagsozluk.com/k/k%C3%B6t%C3%BC-g%C3%BCnde-bile-tek-v%C3%BCcut-olamamak/
 https://www.uludagsozluk.com/k/ba%C5%9Fkomutan-recep-tayyip-erdo%C4%9Fan/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-ortado%C4%9Fu-da-oyun-kurucu-olmas%C4%B1/&w=bg
