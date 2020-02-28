@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz hayati inançlı nın kellelere inançlıca öldüler demesi
+bkz hayati inançlı nın kellelere inançlı öldüler demesi
 https://www.uludagsozluk.com/k/hayati-inan%C3%A7-%C4%B1n-%C5%9Fehitlerle-ilgili-skandal-s%C3%B6zleri/
 https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın cihatçı karıları
 bkz putinin eşcimsel kellsesi toplamam demesi
