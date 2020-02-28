@@ -1,7 +1,7 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- https://www.uludagsozluk.com/e/42925444/ bunu aklınıza yazın kızlar he zaman tüyo vermem -->
+<!-- https://www.uludagsozluk.com/e/42925444/ bunu aklınıza yazın kızlar her zaman tüyo vermem -->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
