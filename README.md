@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/tskn%C4%B1n-rus-hava-savunma-sistemini-vurma-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC/ hüloğğğ
 bkz uzun uzun anlamadığı konualrda analiz kasan beyinsiz iseliler
 https://www.uludagsozluk.com/k/pkk-rusya-esed-ittifak%C4%B1/&w=bg bkz pkk energianın rusyanın arkasındaki güç olması
 https://eksisozluk.com/abdnin-insafli-bir-super-guc-olmasi--6387260?a=popular bkz ergenlerin silah karşılaştırma videoları
