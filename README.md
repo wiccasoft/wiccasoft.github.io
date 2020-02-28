@@ -10,20 +10,6 @@ bkz paranın satın alamayacağı iki şey 1 patriot iki f-35
 https://www.uludagsozluk.com/k/paras%C4%B1-%C3%B6denen-f35-ler-nerede-sorunsal%C4%B1/ zuhaha
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg zuahhahaha 
 bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
-bkz kürtlerin kelleler tepesinde kelelere tekme atıp futbol oynması
-bkz şehitler sepeti demedim şehitler tepesi dedim
-bkz kellerin ölmesine sevinen kürtler
-bkz şaka maka gürcünün türkleri iyi telef etmesi
-bkz dünya liderinin nerede olması sorunsalı
-bkz tüm dünya ile görüşüp halkıyla görüşmeyen lider
-bkz türk silahlı kuvvetlerinin paylaştığı kalaşnikof
-bkz hakiki enver paşanın tosun paşa çıkması
-bkz türk silahlı kuvvetlerinin sarıkamışa dayanması an meselesi
-bkz o değil de güçük filozofların kalkmışı indirdiği gerçeği
-bkz bi küçük filosof vardı noldu ona sorunsalı
-bkz tavşan rusyaya küsmüş rusyanın haberş olmamış
-bkz rusyayı kaç saate telef ederiz sorunsalı
-bkz şaka maka küçük sürmeli filozofun yine kaldırması
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg bkz yakalarsam tik tok
 https://www.uludagsozluk.com/k/telef-olan-esat-generali/ bkz kellelere şehit diyen oç
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg ıstırırın yaların bi de
