@@ -5,6 +5,7 @@
 <!-- 
 bkz tavşan rusyaya küsmüş rusyanın haberş olmamış
 bkz rusyayı kaç saate telef ederiz sorunsalı
+bkz şaka maka küçük sürmeli filozofun yine kaldırması
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg bkz yakalarsam tik tok
 https://www.uludagsozluk.com/k/telef-olan-esat-generali/ bkz kellelere şehit diyen oç
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg ıstırırın yaların bi de
