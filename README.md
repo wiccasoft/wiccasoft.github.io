@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/kas%C4%B1m-s%C3%BCleymani/&w=bg bkz kasımın karısı
 https://www.uludagsozluk.com/k/kendini-padi%C5%9Fah-sanan-adam/ bkz hele yarrama bak hele
 bkz şaka maka gürcünün iyi ümmet lideri taklidi yapması
 https://www.uludagsozluk.com/k/bana-%C3%BCmmetin-lideri-deme/ sebep
