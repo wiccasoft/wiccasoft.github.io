@@ -2,11 +2,11 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
-https://www.uludagsozluk.com/k/darbeyi-eni%C5%9Fteden-%C5%9Fehidi-validen-%C3%B6%C4%9Frenmek/
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka maka putinin çöl farelerini iyi sikertmesi
 bkz diplomatik zekama güven sen raad ol nabcan ya diyen adam
 https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
+https://www.uludagsozluk.com/k/darbeyi-eni%C5%9Fteden-%C5%9Fehidi-validen-%C3%B6%C4%9Frenmek/
 https://www.uludagsozluk.com/k/penis-g%C3%B6r%C3%BCnce-%C4%B1%C5%9F%C4%B1k-h%C4%B1z%C4%B1nda-bo%C5%9Falmak/
 https://www.uludagsozluk.com/k/baz%C4%B1-erkeklerin-gerizekal%C4%B1-olmas%C4%B1/
 bkz 30 yaşında pipinin kalkmaması
