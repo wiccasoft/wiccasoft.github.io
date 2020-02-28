@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C3%B6zde-ba%C5%9Fkomutan%C4%B1n%C4%B1z-nerede/ hanimiş atakan
 bkz filozof atakanın gözlerine sürme çekip atatürk yemini etmesi
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg hele yarramın filozofuna bah hele
 noldiii renciniz soldiii filozof arakan sıçmıkları
