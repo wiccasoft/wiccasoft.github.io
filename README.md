@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz analar var it doğurur analar var er doğurur
 bkz şu an seçim olsa gürcünün ikiye katlayacağı gerçeği
 https://www.uludagsozluk.com/k/kendini-padi%C5%9Fah-sanan-adam/ bkz hele yarrama bak hele
 bkz şaka maka gürcünün iyi ümmet lideri taklidi yapması
