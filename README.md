@@ -4,8 +4,6 @@
 <!-- 
 bkz filozof atakandan medet uman ülke
 https://www.uludagsozluk.com/k/s%C3%B6zde-ba%C5%9Fkomutan%C4%B1n%C4%B1z-nerede/ hanimiş atakan
-bkz filozof atakanın gözlerine sürme çekip atatürk yemini etmesi
-https://www.uludagsozluk.com/k/filozof-atakan/&w=bg hele yarramın filozofuna bah hele
 noldiii renciniz soldiii filozof arakan sıçmıkları
 https://haber.sol.org.tr/dunya/zaharovadan-idlib-aciklamasi-kotu-durumun-temel-nedeni-281418
 https://www.uludagsozluk.com/k/rusya-dan-al%C4%B1nan-silahla-rusyaya-kar%C5%9F%C4%B1-sava%C5%9Fmak/&w=bg
