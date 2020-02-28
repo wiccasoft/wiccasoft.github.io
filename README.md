@@ -3,6 +3,8 @@
 
 
 <!--
+bkz rte ülkeyti bırakırsa diye kara kara düşünmek
+https://www.uludagsozluk.com/k/rte-%C3%BClkeyi-b%C4%B1rak%C4%B1rsa-neler-olur/
 bkz şaka maka recep şaban ramazan ayının gelmesi
 bkz rte nin diplomatik zekama güvenin demesi
 bkz rte nni bari regaip kandilin de sigara içmeyin demesi
