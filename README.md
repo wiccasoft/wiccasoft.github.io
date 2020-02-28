@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz kamalcı karıların sözlüklerde toplanması
 https://mervesimay.uludagsozluk.com/ kadınmış beyler
 bkz şaka maka recep şaban ragaip ayının gelmesi
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=gd bkz hakiki tosun paşa
