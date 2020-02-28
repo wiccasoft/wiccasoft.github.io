@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
+https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
+https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ 
 https://www.uludagsozluk.com/k/ek%C5%9Ficilerin-daha-milliyet%C3%A7i-olmas%C4%B1/
 https://www.uludagsozluk.com/k/yanda%C5%9F-medayn%C4%B1n-rusyay%C4%B1-masum-g%C3%B6sterme-%C3%A7abas%C4%B1/
 bkz şehitler sepeti demedim şehitler tepesi dedim
