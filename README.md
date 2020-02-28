@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz türklerin savaş çıkarmak için 10 yaşında filozof yollaması
 bkz 10 yaşındaki çok konuşan aptal velete filozof diyen ülke
 bkz o değil de filozof atakancılar vardı noldu onlara
 bkz türklerin bütün milletlere küfrederek dış politikalarını daha da güçlendirmesi
