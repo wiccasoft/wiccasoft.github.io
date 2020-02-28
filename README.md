@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz şehitler sepeti demedim tepesi dedim
 bkz şaka maka putinin çöl farelerini iyi sikertmesi
 bkz diplomatik zekama güven sen raad ol nabcan ya diyen adam
 https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
