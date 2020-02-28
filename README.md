@@ -3,6 +3,7 @@
 
 
 <!--
+bkz şaka maka recep şaban ramazan ayının gelmesi
 bkz rte nin diplomatik zekama güvenin demesi
 bkz rte nni bari regaip kandilin de sigara içmeyin demesi
 https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
