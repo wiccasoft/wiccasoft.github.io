@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz ümmet sınırda siz nerdesiniz
+https://www.uludagsozluk.com/k/ummet-s%C4%B1n%C4%B1rda-siz-neredesiniz/
 bkz polat alemdarın suriyeye kim saldı sorunsalı
 bkz recep tayyip doğanın suriyeye güneş gibi doğması
 bkz kışın bacak kıllarını almayan kıza sözlük kadını tavsiyeleri
