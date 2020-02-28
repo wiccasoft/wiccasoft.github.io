@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şehitler sepeti demedim şehitler tepesi dedim
 bkz telef olan gürcü genereali
 bkz fil götüne tekme atan fare
 bkz gökyüzüne hakim olan yeryüzüne de hakim olur
