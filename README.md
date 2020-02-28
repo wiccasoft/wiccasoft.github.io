@@ -2,16 +2,6 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
-bkz bir kadın olarak söylüyorum
-bkz kadın taklidis yapan 30 + loserlar
-https://mervesimay.uludagsozluk.com/ beyler kadınmış kadın olaraka söylüyorum diyor
-bkz bir kadın olarak bir ablan olarak söylüyorum hofff ya
-bkz 30 luk sözlük ablalarından genç sözlük kızlarına tavsiyeler
-bkz kışın bacak kıllarını alan sözlük kadınları
-bkz sözlüklerdeki 30+ ablalar
-bkz ayrılıkçı kamalcılar
-bkz kamalcı karıların sözlüklerde toplanması
-https://mervesimay.uludagsozluk.com/ kadınmış beyler
 bkz şaka maka recep şaban ragaip ayının gelmesi
 https://www.uludagsozluk.com/k/enver-pa%C5%9Fa/&w=gd bkz hakiki tosun paşa
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-k%C3%BCf%C3%BCr-eden-cezas%C4%B1n%C4%B1-%C3%A7ekecektir/&w=bg
