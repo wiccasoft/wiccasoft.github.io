@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz ibrahim kalının ben ince mi görüyorum demesi
 bkz kamalcıların tc bestepe yerine wiccasoft u takip etmesi
 https://www.uludagsozluk.com/k/bir-g%C3%BCne%C5%9F-gibi-do%C4%9Fan-recep-tayyip-erdo%C4%9Fan/&w=gd
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
