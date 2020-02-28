@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz şehitler sepeti demedim tepesi dedim
+https://www.uludagsozluk.com/k/ba%C5%9Fkomutan-recep-tayyip-erdo%C4%9Fan/&w=bg
 https://www.uludagsozluk.com/k/28-%C5%9Fubat-2020-ba%C5%9Fkomutan%C4%B1n-ortalarda-olmamas%C4%B1/
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz devlet bahçelinin çay yudumlaması
 https://www.uludagsozluk.com/k/bu-adam%C4%B1n-diplomatik-zekas%C4%B1na-g%C3%BCvenin/
