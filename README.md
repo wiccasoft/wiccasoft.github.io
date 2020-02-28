@@ -5,13 +5,6 @@
 bkz 10 yaşındaki çok konuşan aptal velete filozof diyen ülke
 bkz o değil de filozof atakancılar vardı noldu onlara
 bkz türklerin bütün milletlere küfrederek dış politikalarını daha da güçlendirmesi
-bkz türklerin onun bunun çocukları gibi herkese küfretmesi
-bkz filozof atakanın bomboş bir balon olduğu gerçeği
-bkz yunan eflatunun türkçü filozof atakanı hoplatacağı gerçeği
-bkz filozof ataknın gözlerine sürme çekip felsefe yapması
-bkz filozof atakanın türk intikam yeminin etmesi
-bkz filozof atakanın atamın izindeyim demesi
-bkz filozof atakandan medet uman ülke
 https://www.uludagsozluk.com/k/s%C3%B6zde-ba%C5%9Fkomutan%C4%B1n%C4%B1z-nerede/ hanimiş atakan
 noldiii renciniz soldiii filozof arakan sıçmıkları
 https://haber.sol.org.tr/dunya/zaharovadan-idlib-aciklamasi-kotu-durumun-temel-nedeni-281418
