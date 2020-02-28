@@ -1,30 +1,6 @@
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
-<!-- 
-bkz şaka maka recep şaban ramazan ayının gelmesi
-bkz şaka maka regaip kandilinin süper geçmesi
-bkz şaka maka damadın trabzonu şampiyon yapacak olması
-https://www.uludagsozluk.com/k/medipol-ba%C5%9Fak%C5%9Fehir-copenhag-e%C5%9Fle%C5%9Fmesi/ 
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz medipolbaşakşehir in bomba gibi geldiği gerçeği
-https://www.uludagsozluk.com/k/2020-2021-uefa-kupas%C4%B1-%C5%9Fampiyonu-medipol-ba%C5%9Fak%C5%9Fehir/
-https://www.uludagsozluk.com/k/bir-g%C3%BCne%C5%9F-gibi-do%C4%9Fan-recep-tayyip-erdo%C4%9Fan/&w=gd
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
-bkz şehitler tepesi dedim sepeti demedim
-bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-https://www.uludagsozluk.com/k/reis-bilal-bey-i-idlip-e-g%C3%B6t%C3%BCr/ yaman şakacısın delihanlı
-https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
-https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/  
-https://www.dailymotion.com/video/x2lkbki tsıhehehe
-bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-https://www.uludagsozluk.com/e/42921533/ eheheh aynen
-https://lanetlybebe.uludagsozluk.com/ bkz tam bi liseli aynen
-https://www.uludagsozluk.com/k/bilal-erdo%C4%9Fan%C4%B1n-suriyede-%C5%9Fehit-d%C3%BC%C5%9Fmesi/&w=bg
-https://www.uludagsozluk.com/k/bedelli-askerlik-yap%C4%B1p-erke%C4%9Fim-diye-dola%C5%9Fmak/&w=bg sakin ol liseli
-https://www.uludagsozluk.com/k/27-02-20-internet-eri%C5%9Fimi-k%C4%B1s%C4%B1tlamas%C4%B1/&w=bg bkz okan buruk
-https://www.uludagsozluk.com/k/nargile-i%C3%A7erken-geli%C5%9Fmeleri-takip-eden-suriyeliler/ ehuehuehu-->
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
 
