@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz o değil de filozof atakan vardı noldu ona
 bkz türklerin bütün milletlere küfrederek dış politikalarını daha da güçlendirmesi
 bkz türklerin onun bunun çocukları gibi herkese küfretmesi
 bkz 10 yaşındaki çok konuşan aptal velete filozof diyen ülke
