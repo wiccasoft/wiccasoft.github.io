@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/tsknin-rus-hava-savunma-sistemini-vurma-goruntusu--6387500?a=popular bkz hüloğğğ
 https://eksisozluk.com/rus-ekonomisinin-cokmemesinin-sebebi--6387424?a=popular lol
 bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
