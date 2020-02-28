@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://www.uludagsozluk.com/k/baz%C4%B1-erkeklerin-gerizekal%C4%B1-olmas%C4%B1/
 bkz 30 yaşında pipinin kalkmaması
 bkz ülkücülerle islamcıların güldürmesi
 bkz ülkücülerin intikam yemini etmesi
