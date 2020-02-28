@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz bir 40 + ablanız olarak sözlük 30+ ablalarına tavsiyelerim
+https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-testosteronun-d%C3%BC%C5%9Fmeye-ba%C5%9Flamas%C4%B1/&w=bg
 bkz bir kadın oalrak kışık bacak kıllarını alan kız
 https://www.uludagsozluk.com/k/k%C4%B1%C5%9F%C4%B1n-bacak-k%C4%B1llar%C4%B1n%C4%B1-almayan-k%C4%B1z/&w=gd
 bkz şaka maka recep şaban ragaip ayının gelmesi
