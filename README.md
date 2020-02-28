@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
-bkz şaka makatürklerin kafataslarından kale yapmak
+bkz şaka maka türklerin kafataslarından kale yapmak
 bkz şehitler sepeti demedim tepesi dedim
 bkz şaka maka putinin çöl farelerini iyi sikertmesi
 bkz diplomatik zekama güven sen raad ol nabcan ya diyen adam
