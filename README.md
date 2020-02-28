@@ -6,7 +6,7 @@
 bkz telef olan gürcü genereali
 bkz fil götüne tekme atan fare
 bkz gökyüzüne hakim olan yeryüzüne de hakim olur
-bkz kalaşnikofla poz veren türk askeri
+bkz kalaşnikofla poz verip intikam yemini eden türkler
 bkz paranın satın alamayacağı iki şey 1 patriot iki f-35
 https://www.uludagsozluk.com/k/paras%C4%B1-%C3%B6denen-f35-ler-nerede-sorunsal%C4%B1/ zuhaha
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg zuahhahaha 
