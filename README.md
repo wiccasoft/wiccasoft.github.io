@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+bkz ulucu abileri polat alemdarı salması
+https://www.uludagsozluk.com/k/polat-alemdar-%C4%B1-suriye-nin-%C3%BCzerine-salmak/
 bkz bir 40 + ablanız olarak sözlük 30+ ablalarına tavsiyelerim
 https://www.uludagsozluk.com/k/30-ya%C5%9F%C4%B1nda-testosteronun-d%C3%BC%C5%9Fmeye-ba%C5%9Flamas%C4%B1/&w=bg
 bkz bir kadın oalrak kışık bacak kıllarını alan kız
