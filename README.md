@@ -4,6 +4,7 @@
 
 <!-- 
 bkz dünya liderinin nerede olması sorunsalı
+bkz tüm dünya ile görüşüp halkıyla görüşmeyen lider
 bkz türk silahlı kuvvetlerinin paylaştığı kalaşnikof
 bkz hakiki enver paşanın tosun paşa çıkması
 bkz türk silahlı kuvvetlerinin sarıkamışa dayanması an meselesi
