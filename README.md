@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!--
+https://mervesimay.uludagsozluk.com/ beyler kadınmış kadın olaraka söylüyorum diyor
 bkz bir kadın olarak bir ablan olarak söylüyorum hofff ya
 bkz 30 luk sözlük ablalarından genç sözlük kızlarına tavsiyeler
 bkz kışın bacak kıllarını alan sözlük kadınları
