@@ -10,17 +10,10 @@ facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyo
 https://www.uludagsozluk.com/k/ek%C5%9Ficilerin-daha-milliyet%C3%A7i-olmas%C4%B1/
 https://www.uludagsozluk.com/k/yanda%C5%9F-medayn%C4%B1n-rusyay%C4%B1-masum-g%C3%B6sterme-%C3%A7abas%C4%B1/
 bkz şehitler sepeti demedim şehitler tepesi dedim
-bkz telef olan gürcü genereali
-bkz fil götüne tekme atan fare
-bkz gökyüzüne hakim olan yeryüzüne de hakim olur
-bkz rusyaya s400 le saldıralım diyen türk
-bkz kalaşnikofla poz verip intikam yemini eden türkler
-bkz paranın satın alamayacağı iki şey 1 patriot iki f-35
 https://www.uludagsozluk.com/k/paras%C4%B1-%C3%B6denen-f35-ler-nerede-sorunsal%C4%B1/ zuhaha
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg zuahhahaha 
 bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-rusya-sava%C5%9F%C4%B1/&w=bg bkz yakalarsam tik tok
-https://www.uludagsozluk.com/k/telef-olan-esat-generali/ bkz kellelere şehit diyen oç
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg ıstırırın yaların bi de
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/ ben saldırıyorum beyler -->
 
