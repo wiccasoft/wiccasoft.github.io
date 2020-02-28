@@ -2,10 +2,6 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
-bkz yek vücud olalım canlar
-bkz bir olacaz iri olacaz diri olacaz 
-bkz şehitler sepeti demedim tepesi dedim
-bkz şaka mama recep şabana regaip ayının gelmesi
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/ 
 https://galeri.uludagsozluk.com/r/vladimir-putin-1047386/ 
 https://eksisozluk.com/vladimir-putin--73916?a=popular hele yarraklarıma bak hele
