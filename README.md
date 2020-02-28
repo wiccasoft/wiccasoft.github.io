@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz şaka maka damadın trabzonu şampiyon yapacağı gerçeği
 bkz şaka maka recep tayyip şaban aylarının gelmesi
 https://www.uludagsozluk.com/k/alex-de-souza/&w=bg bkz yalak
 https://www.uludagsozluk.com/k/kendini-padi%C5%9Fah-sanan-adam/ hele yarrama bak hele
