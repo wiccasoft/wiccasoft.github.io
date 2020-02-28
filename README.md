@@ -4,6 +4,7 @@
 
 <!-- 
 bkz telef olan gürcü genereali
+bkz şaka maka gürcünün ümmet lideri ayağına kekoları iyi telef etmesi
 bkz kürtlerin kelleler tepesinde kelelere tekme atıp futbol oynması
 bkz şehitler sepeti demedim şehitler tepesi dedim
 bkz kellerin ölmesine sevinen kürtler
