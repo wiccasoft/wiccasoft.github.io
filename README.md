@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 <!-- 
+bkz cem yılmaz leşler için yardım toğlaması
 bkz osman pamukoğlanın leşleri ruslara toplatması
 https://www.uludagsozluk.com/e/42925850/
 bkz şehitler sepeti demedim tepesi dedim
