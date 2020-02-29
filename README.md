@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
 https://www.uludagsozluk.com/k/verderverememspor/ bkz bir eşcinsel  daha
 bkz eşcinsellerdeki kürd düşmanlığı
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
