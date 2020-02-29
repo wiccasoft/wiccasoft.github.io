@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz cem yılamz yine sessizliği koruması
 bkz tayyipin batıya sigara içemeyin sigara demesi 
 bkz mustafa kamal atacücü nün lenine verdiği efso ayar
 bkz tayyipin batıya sigara içki içmeyin diye yalvarması
