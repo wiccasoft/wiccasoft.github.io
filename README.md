@@ -4,6 +4,7 @@
 
 <!--
 bkz rusyanın yek vücut olalım teklifi
+https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular
 bkz şaka maka sıcak denizlere yavaş yavaş inmemiz
 bkz bilezik gibi geçirebiliriz de anlamı da çıkabilir
 https://www.uludagsozluk.com/k/bo%C4%9Fazdan-ge%C3%A7en-rus-gemisi-ile-verilen-mesaj/&w=gd 
