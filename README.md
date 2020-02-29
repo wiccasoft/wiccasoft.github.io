@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz hulusi akarın atinaya akması
 bkz cem yılmazın sessizliğini koruması
 bkz kamalcılarım atacücüyü övmeye gitmesi
 bkz sahi bi yek vücud olma mesele vardı noldu ona
