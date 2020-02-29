@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz bilezik gibi geçirebiliriz de anlamı çıkabilir
+bkz bilezik gibi geçirebiliriz de anlamı da çıkabilir
 https://www.uludagsozluk.com/k/bo%C4%9Fazdan-ge%C3%A7en-rus-gemisi-ile-verilen-mesaj/&w=gd 
 bkz selçuk bayraktarın ihanın üstüne kalaşnikof takalım rusları taraya taraya gitsin demesi
 bkz selçuk bayraktarın rusları vura vuragiden iha üzerinde çalışması
