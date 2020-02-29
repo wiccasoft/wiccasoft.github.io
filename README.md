@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz bir akplinin sevip sevmediği nasıl anlaşılır
+bkz devlet teslim edilmeycek kadar değerlidir mk atacücü
 https://www.uludagsozluk.com/k/bir-akp-liyi-konu%C5%9Fmadan-nas%C4%B1l-tan%C4%B1rs%C4%B1n-sorunsal%C4%B1/
 bkz hulusi akarın 12 adaları alacaz sözü vermesi
 bkz bahçelinin oylar bölünmesin diye tayber doğana yanaşması
