@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/entry/102804628 lol
 https://www.uludagsozluk.com/k/askerimiz-%C3%B6ld%C3%BC-%C3%B6z%C3%BCr-dile-tayyiip/ adam haklı beyler 
 https://eksisozluk.com/neguluyorsunerdogan--6388250?a=popular lol
 bkz bi gülüşü var sanırsın suriyede petrol var
