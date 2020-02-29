@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz uzun veda mektubu
+https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vücud olmaktan kaçmak
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz ıstırırım yaların bi de
 https://eksisozluk.com/turkiye-kadir-kiymetimizi-bilmedi-diyen-multeci--6387113?a=popular adam afgan beyler
 https://eksisozluk.com/28-subat-2020-alex-de-souza-tweeti--6387239?a=popular bkz haginin vefasızlığı
