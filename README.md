@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimin gururu
 bkz tayber doğanın gitmesini beklemek
 https://tayber-dogan.uludagsozluk.com/ bkz tayber doğan
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-istifa-etse-her%C5%9Fey-d%C3%BCzelir/&w=bg
