@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+beyleracele etmeyelim bu adamın diplomatik zekasına güvenin
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-istifa-etse-her%C5%9Fey-d%C3%BCzelir/
 https://eksisozluk.com/putinde-olup-erdoganda-olmayan-sey--6387931?a=popular acaba nedir
 bkz putin de olup tayber doğan da olmayan şey new sorunsalı
 bkz tayber doğanın açıklamalarının yüreklere su serpmesi
