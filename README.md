@@ -4,10 +4,10 @@
 
 <!--
 bkz yek vücud olalım canlar
+bkz mehmet ali ağca vs mevlüt mert altıntaş
 bkz çıt çıt çetene de sar bedeni bedene
+bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 bkz yek vücud olacak iri olacaz diri olacaz
-bkz türklerin üstün ırk olduğu gerçeğini anlamak
-bkz değerimi anlamadınız diyen afgan
 bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
 https://www.uludagsozluk.com/k/her-yerde-arap-var-deyip-avrupa-ya-giden-suriyeli/
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=bg
@@ -16,8 +16,6 @@ https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölüsevici mezarcı
 https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vidud olmaktan kaçmak
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz eşcinsel bahaneleri
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz ah nelerini gördüm onun nelerini
-bkz mehmet ali ağca vs mevlüt mert altıntaş
-bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 https://www.youtube.com/watch?v=FqDSaTKtQYA bkz tik tok çılgınlığı
 https://www.youtube.com/watch?v=LTs9MH0Ny-k bkz şehitlere tik tok yapan kürd 
 bkz ammmaınaaakoddmun kürdüüüüüü tik tok tan bulacam olm seni
