@@ -3,11 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz yek vücud olalım canlar
-bkz mehmet ali ağca vs mevlüt mert altıntaş
 bkz çıt çıt çetene de sar bedeni bedene
-bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 bkz yek vücud olacak iri olacaz diri olacaz
+bkz memet ali ağca vs mevlüt mert altıntaş
+bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
 https://www.uludagsozluk.com/k/her-yerde-arap-var-deyip-avrupa-ya-giden-suriyeli/
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=bg
