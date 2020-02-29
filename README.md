@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz şaka maka eşcinsellerin kafa sikmesi
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 bkz bla bla bla diyen suri (sokak röportajı mobile twitter linki)
 bkz 3 isimli erkek karizması
