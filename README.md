@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz titk tokçu kürdleri ifşalıyoruz kampanyası
 https://www.youtube.com/watch?v=FqDSaTKtQYA bkz tik tok çılgınlığı
 https://www.youtube.com/watch?v=LTs9MH0Ny-k bkz şehitlere tik tok yapan kürd 
 bkz ammmaınaaakoddmun kürdüüüüüü tik tok tan bulacam olm seni
