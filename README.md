@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz tayber doğanın kelle paça rakı şiş kebap çok güzel  yine gelcek ben demesi
+bkz tayber doğanın kelle paça rakı şiş kebap çok güzel yine gelcek ben demesi
 bkz az önce kavedebi dayı' dan duydum 
 bkz putinin kamalcılarla kanka olması
 bkz ahmet özalın kavede kamalcılara babamı putin öldürdü demesi
