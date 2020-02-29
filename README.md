@@ -4,7 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
-bkz elif can yetimin bayraktara ihaleye fesat karıştır maili atmasına ses etmeyen akitler
+bkz elif can yetimin bayraktara ihaleye fesat karıştır mailine ses etmeyen akitler
 https://www.uludagsozluk.com/k/tayyip-in-bat%C4%B1ya-yalvarmas%C4%B1/ hani link yok pampağğ
 bkz şaka maka recep şaban ramazan ayının gelmesi
 bkz elif can yetimin selçuk bayraktara abi ihaleye fesat karıştırsana demesi
