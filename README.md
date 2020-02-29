@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
 bkz eşcinselleerdeki askeri aşırı kutsama merakı
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
 bkz şehitlerin göt deliğine çengel bağlayıp tavana asan gürcü
