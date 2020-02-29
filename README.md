@@ -6,11 +6,10 @@
 https://www.youtube.com/watch?v=FqDSaTKtQYA bkz tik tok çılgınlığı
 https://www.youtube.com/watch?v=LTs9MH0Ny-k bkz şehitlere tik tok yapan kürd 
 bkz ammmaınaaakoddmun kürdüüüüüü tik tok tan bulacam olm seni
-bkz ammmmaına kodddmun kürdüüüüüüüüüüüüü yakklaram tik tok hııammmmmmmmınaaa
+bkz ammmmaına kodddmun kürdüüüüüüüüüüüüü yakalarsam tik tok hııammmmmmmmınaaa
 https://www.uludagsozluk.com/e/42926649/ bkz ammmmına kodumun kürdüüüüüü
 https://www.youtube.com/watch?v=18eqJ-CLa1c bkz ezanla dalga geçen kürtler
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=gd 
-bkz yakalarsam tik tok 
 -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
