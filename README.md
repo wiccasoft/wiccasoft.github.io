@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+beyler yayber istifa etmesin başlığı açıyoruz kamalcıları kızdıralım az
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-istifa-etse-her%C5%9Fey-d%C3%BCzelir/&w=bg
 bkz ben bu millete uşaklık öğretemedim yahu mk atacücü
 bkz ben size ilk hedfiniz akdeniz dedim . mk atacücü
 bkz devlet teslim edilmeycek kadar değerlidir mk atacücü
