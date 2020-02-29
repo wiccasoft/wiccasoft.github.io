@@ -4,6 +4,7 @@
 
 <!-- 
 bkz şehitlere tik tok yapan kürd 
+bkz ammmaınaaakoddmun kürdüüüüüü tik tok tan bulacam olm seni
 bkz ammmmaına kodddmun kürdüüüüüüüüüüüüü yakklaram tik tok hııammmmmmmmınaaa
 https://www.uludagsozluk.com/e/42926649/ ammmmına kodumun kürdüüüüüü
 https://www.youtube.com/watch?v=18eqJ-CLa1c bkz ezanla dalga geçen kürtler
