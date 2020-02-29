@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/neguluyorsunerdogan--6388250?a=popular lol
 bkz bi gülüşü var sanırsın suriyede petrol var
 https://eksisozluk.com/29-subat-2020-recep-tayyip-erdoganin-gulmesi--6388120?a=popular
 https://www.uludagsozluk.com/k/rusya-suriyeden-cekilecek/ sen de bunu yedin
