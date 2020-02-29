@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/denizde-bo%C4%9Fulup-%C3%B6lmek-t%C3%BCrkiye-de-ya%C5%9Famaktan-iyi/&w=bg
 bkz kuzuların sessizliği
 bkz hulusi akarın atinaya akması
 bkz hulis akarın tsk yı iki paralık edip kaçması
