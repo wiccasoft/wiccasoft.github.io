@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz mustaf kemal atacücü nün rusları denize dökmesi
 bkz rusyanın yek vücut olalım teklifi
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular
 bkz şaka maka sıcak denizlere yavaş yavaş inmemiz
