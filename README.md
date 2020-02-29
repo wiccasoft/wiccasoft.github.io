@@ -3,11 +3,12 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
 bkz verder bremen
 bkz ender gelişen osasuna atakları
 https://www.uludagsozluk.com/k/verderverememspor/
 bkz mehmet ali ağca vs mevlüt mert altıntaş
-bkz berat albyrakın yine kafasını kuma gömmesi
+bkz berat albayrakın yine kafasını kuma gömmesi
 https://www.uludagsozluk.com/k/mevl%C3%BCt-mert-alt%C4%B1nta%C5%9F/&w=bg bkz pis şey nolcak
 bkz ak nonoşlar yek vücud olurken cem yılmazın serenayla takılması
 bkz iyi günde kötü günde mümin mümine yek vücud olmalı
