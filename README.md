@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kuzuların sessizliği
+bkz elif can yetimin selçuk bayraktara abi iha yaptsana demesi
 bkz o değil de tayyipdoğan nerede sorunsalı
 bkz şaka maka rus derin devletinin tayyipi ele geçirmesi
 bkz tayyipin gürcistana ruslardan beni kurtar yalvarması
