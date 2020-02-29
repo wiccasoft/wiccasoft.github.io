@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+https://www.youtube.com/watch?v=Hc_-KpTuTDg
 bkz cem yılmazın yine kafayı gömmesi
 bkz selçuk abyraktarın ihalara taramalı takması
 bkz cem yılamz yine sessizliği koruması
