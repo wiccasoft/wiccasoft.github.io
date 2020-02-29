@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz sarıgöllü emrahın surileri dönderelim gitsin demesi
 bkz ahsen tv muhabirine el şakası yapan suri
 bkz suriyede her şey pahalandı diyen türkiyeli
 bkz selçuk bayraktarı överken uyuyakalan türkiyeli
