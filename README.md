@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz suriyede her şey pahalandı diyen türk
 bkz jack dorsey in yine kafasını kuma gömmesi
 bkz sergey brinin rusyaya ihanet etmesi
 bkz sergey brinin türkler değerimi bilmedi demesi
