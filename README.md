@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz gaylerin ne kafası yaşaması
+https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz eşcinsel bahaneleri
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz ah nelerini gördüm onun nelerini
 bkz yek vücud olalım canlar
 bkz çıt çıt çetene de sar bedeni bedene
