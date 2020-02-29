@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/turkiye-kadir-kiymetimizi-bilmedi-diyen-multeci--6387113?a=popular adam afgan beyler
 https://eksisozluk.com/28-subat-2020-alex-de-souza-tweeti--6387239?a=popular bkz haginin vefasızlığı
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz iğrençsiniz ibneler
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz iğrençsiniz ibneler
