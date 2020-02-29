@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/20-%C5%9Fubat-2019-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-a%C4%9Flamas%C4%B1/
 bkz şaka maka yakında akdeniz bizimdir
 https://www.uludagsozluk.com/e/42928391/ bkz sen de bunu yedin
 bkz lafa bakarım laf mı diye söyleyene bakarım adam mı diye
