@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz putin de olup tayber doğan da olmayan şey new sorunsalı
 bkz tayber doğanın açıklamalarının yüreklere su serpmesi
 bkz s400 ler nolcak sorunsalı napacaz bunları maçta kale mi yapsak
 https://eksisozluk.com/s-400lere-ne-olacagi-sorunsali--6387983?a=popular
