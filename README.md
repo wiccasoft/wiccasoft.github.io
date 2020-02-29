@@ -7,6 +7,7 @@ bkz yek vücud olalım canlar
 bkz çıt çıt çetene de sar bedeni bedene
 bkz yek vücud olacak iri olacaz diri olacaz
 bkz türklerin üstün ırk olduğu gerçeğini anlamak
+bkz değerimi anlamadınız diyen afgan
 bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
 https://www.uludagsozluk.com/k/her-yerde-arap-var-deyip-avrupa-ya-giden-suriyeli/
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=bg
