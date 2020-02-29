@@ -6,6 +6,7 @@
 bkz 3 isimli erkek karizması
 bkz çıt çıt çetene de sar bedeni bedene
 bkz yek vücud olacak iri olacaz diri olacaz
+bkz mevlananın afgan olduğu gerçeğini bilemeyen moğollar
 bkz memet ali ağca vs mevlüt mert altıntaş
 bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
