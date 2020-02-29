@@ -4,7 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölüsevici mezarcılar
-https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vidud olmaktna kaçmak
+https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vidud olmaktan kaçmak
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz eşcinsel bahaneleri
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz ah nelerini gördüm onun nelerini
 bkz yek vücud olalım canlar
