@@ -4,6 +4,7 @@
 
 <!--
 bkz sergey brinin rusyaya ihanet etmesi
+bkz sergey brinin türkler değerimi bilmedi demesi
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz sözlükçülerin saygısını kazanabilmek
 bkz bir akpliye vatan sevgisini anlatabilmek
 bkz şaka maka eşcinsellerin kafa sikmesi
