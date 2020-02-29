@@ -4,7 +4,7 @@
 
 <!--
 bkz az önce kavedebi dayı' dan duydum 
-bkz putinni kamalcıalrla kanka olması
+bkz putinin kamalcılarla kanka olması
 bkz ahmet özalın kavede kamalcılara babamı putin öldürdü demesi
 bkz az önce kavedebi dayı' dan sonrasını okumadım
 bkz alkolik oldum la radikal kemalizmin iyi çalışması
