@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz verder bremen
+bkz ender gelişen osasuna atakları
+https://www.uludagsozluk.com/k/verderverememspor/
 bkz mehmet ali ağca vs mevlüt mert altıntaş
 bkz rus büyükelçiyi ellek ekber diye öldüren türk
 bkz ak nonoşlar hala adıma başlık açmamış demek ki hala doğru yoldayım
