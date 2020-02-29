@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/bak-a%C3%A7irem-gap%C4%B1lar%C4%B1-haa/ 
 bkz tayber doğanın kelle paça rakı şiş kebap çok güzel yine gelcek ben demesi
 bkz az önce kavedebi dayı' dan duydum 
 bkz putinin kamalcılarla kanka olması
