@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şehitlere tik tok yapan kürd 
 bkz ammmmaına kodddmun kürdüüüüüüüüüüüüü yakklaram tik tok hııammmmmmmmınaaa
 https://www.uludagsozluk.com/e/42926649/ ammmmına kodumun kürdüüüüüü
 https://www.youtube.com/watch?v=18eqJ-CLa1c bkz ezanla dalga geçen kürtler
