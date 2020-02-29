@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz selçuk bayraktarın ihanın üstüne kalaşnikof takalım taraya taraya gitsin demesi
 bkz selçuk bayraktarın surileri vuran iha üzerinde çalışması
 bkz sarıgöllü emrahın surileri dönderelim gitsin demesi
 bkz ahsen tv muhabirine el şakası yapan suri
