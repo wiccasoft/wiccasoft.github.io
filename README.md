@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz recep tayyip erdoğanın çok uzun bi isim olması
 bkz tayyibin şiş kebap gelse de yesek diye beklemesi
 bkz taytyipin şiş kebap çok güzel türkey cennet demesi
 bkz hulusi akarın atinaya akması
