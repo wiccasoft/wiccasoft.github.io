@@ -3,9 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kelleye vurup doksana takan gürcü
+bkz kellelere tik tok yapan gürcü
 bkz kellerle top sektirmece oynayan gürcü
 bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
-bkz kellelere tik tok yapan gürcü
 https://www.youtube.com/watch?v=FqDSaTKtQYA bkz tik tok çılgınlığı
 https://www.youtube.com/watch?v=LTs9MH0Ny-k bkz şehitlere tik tok yapan kürd 
 bkz ammmaınaaakoddmun kürdüüüüüü tik tok tan bulacam olm seni
