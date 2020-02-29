@@ -10,6 +10,7 @@ bkz az önce kavedebi dayı' dan sonrasını okumadım
 bkz alkolik oldum la radikal kemalizmin iyi çalışması
 https://www.uludagsozluk.com/k/emevi-camisinde-namaz-k%C4%B1lacakt%C4%B1k-ne-oldu-ona/
 https://www.uludagsozluk.com/k/herkesin-kand%C4%B1rd%C4%B1%C4%9F%C4%B1-adama-devleti-emanet-etmek/&w=bg
+https://www.uludagsozluk.com/k/sevi%C5%9Ftikten-sonra-yar%C4%B1n-gene-yapcaz-m%C4%B1-diyen-k%C4%B1z/
 bkz ahmet özalın babişkomu putin öldürdü ondan atinaya kaçtım açıklması
 https://www.uludagsozluk.com/k/babam%C4%B1-putin-%C3%B6ld%C3%BCrd%C3%BC/
 bkz şaka maka hulusi nin verdiğimiz paraya değmesi
