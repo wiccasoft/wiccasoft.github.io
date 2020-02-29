@@ -3,14 +3,15 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-mare%C5%9Fal-%C3%BCniformas%C4%B1yla-kamera-kar%C5%9F%C4%B1s%C4%B1nda/&w=gd
 bkz kuzuların sessizliği
+bkz selçuk abyraktarın ihalara taramalı takması
 bkz cem yılamz yine sessizliği koruması
 bkz tayyipin batıya sigara içemeyin sigara demesi 
 bkz mustafa kamal atacücü nün lenine verdiği efso ayar
 bkz tayyipin batıya sigara içki içmeyin diye yalvarması
 bkz elif can yetimin bayraktara ihaleye fesat karıştır mailine ses etmeyen akitler
 https://www.uludagsozluk.com/k/tayyip-in-bat%C4%B1ya-yalvarmas%C4%B1/ hani link yok pampağğ
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-mare%C5%9Fal-%C3%BCniformas%C4%B1yla-kamera-kar%C5%9F%C4%B1s%C4%B1nda/&w=gd
 bkz şaka maka recep şaban ramazan ayının gelmesi
 bkz elif can yetimin selçuk bayraktara abi ihaleye fesat karıştırsana demesi
 bkz o değil de tayyipdoğan nerede sorunsalı
