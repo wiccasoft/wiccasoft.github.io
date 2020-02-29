@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayber doğan nın sessliği cart diye bozması
 bkz hulusinin atinaya kaçması
 bkz hulusinin fuzuli işlerle uğraştığı gerçeği
 bkz tayber doğanın hulusi yi atinaya yollaması
