@@ -2,7 +2,10 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 lol -->
+<!-- 
+https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 lol 
+https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 lol
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
