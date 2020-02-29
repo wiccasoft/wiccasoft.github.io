@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz sahi bi yek vücud olma mesele vardı noldu ona
 bkz şehit gelse de erdoğana saldırsak diye beklemek
 bkz kamalcılarım atacücüyü övmeye gitmesi
 https://www.youtube.com/watch?v=Hc_-KpTuTDg
