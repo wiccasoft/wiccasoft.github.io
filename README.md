@@ -4,6 +4,7 @@
 
 <!-- 
 bkz şehitlere tik tok yapan kürd
+bkz şehit kellesiyle futbol maçı yapan kürd
 https://www.youtube.com/watch?v=FqDSaTKtQYA bkz tik tok çılgınlığı
 https://www.youtube.com/watch?v=LTs9MH0Ny-k bkz şehitlere tik tok yapan kürd 
 bkz ammmaınaaakoddmun kürdüüüüüü tik tok tan bulacam olm seni
