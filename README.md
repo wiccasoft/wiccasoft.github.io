@@ -7,8 +7,7 @@ bkz verder bremen
 bkz ender gelişen osasuna atakları
 https://www.uludagsozluk.com/k/verderverememspor/
 bkz mehmet ali ağca vs mevlüt mert altıntaş
-bkz rus büyükelçiyi ellek ekber diye öldüren türk
-bkz ak nonoşlar hala adıma başlık açmamış demek ki hala doğru yoldayım
+bkz berat albyrakın yine kafasını kuma gömmesi
 https://www.uludagsozluk.com/k/mevl%C3%BCt-mert-alt%C4%B1nta%C5%9F/&w=bg bkz pis şey nolcak
 bkz ak nonoşlar yek vücud olurken cem yılmazın serenayla takılması
 bkz iyi günde kötü günde mümin mümine yek vücud olmalı
