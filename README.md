@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz islamcılar sevişirken cem yılmazın serenayla takılması
+bkz ak nomnoşlar yek vücud olurken cem yılmazın serenayla takılması
 bkz iyi günde kötü günde mümin mümine yek vücud olmalı
 bkz şehitler bahanesiyle arkadaşı duşa sokup güzelce yek vücud olmak
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz yek vüdus olalım
