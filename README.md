@@ -4,12 +4,12 @@
 
 <!--
 bkz şaka maka eşcinsellerin kafa sikmesi
+https://www.youtube.com/watch?v=LTs9MH0Ny-k  ne var lan geblo
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
 bkz bla bla bla diyen suri (sokak röportajı mobile twitter linki)
 bkz 3 isimli erkek karizması
 bkz çıt çıt çetene de sar bedeni bedene
 bkz yek vücud olacak iri olacaz diri olacaz
-https://www.youtube.com/watch?v=LTs9MH0Ny-k zuahahhahaha
 bkz şemsi tebrizi nin iranlı mevlananın da afgan olduğu gerçeği
 bkz mevlananın afgan olduğu gerçeğini bilemeyen moğollar
 bkz memet ali ağca vs mevlüt mert altıntaş
