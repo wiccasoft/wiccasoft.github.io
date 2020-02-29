@@ -3,8 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz eşcinsellerdeki kürd düşmanlığı
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
-bkz eşcinsellerin küürlü konuşma sebepleri
+bkz eşcinsellerin küfürlü konuşma sebepleri
 bkz traveler of secret ile ağca nın ağır eşcinsel oldukları gerçeği
 https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
 bkz eşcinselleerdeki askeri aşırı kutsama merakı
