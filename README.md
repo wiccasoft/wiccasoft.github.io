@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz yek vücud olalım canlar
+bkz çıt çıt çetene de sar bedeni bedene
+bkz yek vücud olacak iri olacaz diri olacaz
+bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
 https://www.uludagsozluk.com/k/her-yerde-arap-var-deyip-avrupa-ya-giden-suriyeli/
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=bg
 https://eksisozluk.com/turkiye-kadir-kiymetimizi-bilmedi-diyen-multeci--6387113?a=popular
@@ -10,50 +14,7 @@ https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölüsevici mezarcı
 https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vidud olmaktan kaçmak
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz eşcinsel bahaneleri
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz ah nelerini gördüm onun nelerini
-bkz yek vücud olalım canlar
-bkz çıt çıt çetene de sar bedeni bedene
-bkz yek vücud olacak iri olacaz diri olacaz
-bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
-bkz verder bremen
-bkz ender gelişen osasuna atakları
-https://www.uludagsozluk.com/k/verderverememspor/
 bkz mehmet ali ağca vs mevlüt mert altıntaş
-bkz berat albayrakın yine kafasını kuma gömmesi
-https://www.uludagsozluk.com/k/mevl%C3%BCt-mert-alt%C4%B1nta%C5%9F/&w=bg bkz pis şey nolcak
-bkz ak nonoşlar yek vücud olurken cem yılmazın serenayla takılması
-bkz iyi günde kötü günde mümin mümine yek vücud olmalı
-bkz şehitler bahanesiyle arkadaşı duşa sokup güzelce yek vücud olmak
-https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz yek vüdus olalım
-https://eksisozluk.com/sehit-haberleri-varken-hukumet-elestirisi-yapmak--6386563?a=popular
-https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vücud olmaktan kaçmak
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz ıstırırım yaların bi de
-https://eksisozluk.com/turkiye-kadir-kiymetimizi-bilmedi-diyen-multeci--6387113?a=popular adam afgan beyler
-https://eksisozluk.com/28-subat-2020-alex-de-souza-tweeti--6387239?a=popular bkz haginin vefasızlığı
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz iğrençsiniz ibneler
-https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz iğrençsiniz ibneler
-https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular hadi atayızlar bunu da açıklayın
-https://eksisozluk.com/entry/102782689 ısrara etme evladım övdüm de geldim
-bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
-bkz eşcinsellerdeki öfkenin ve gerginliğin sebebi
-bkz türklerin ölüyü ve ölümü kutsama sebepleri
-https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
-bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
-bkz yiğidom memedimmmmmmmm o şinci asker canı neler ister
-bkz memeeeedim memeedddim sana geeet demedimmmmm
-bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
-https://www.uludagsozluk.com/k/verderverememspor/ bkz bir eşcinsel  daha
-bkz eşcinsellerdeki kürd düşmanlığı
-bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
-bkz eşcinsellerin küfürlü konuşma sebepleri
-bkz traveler of secret ile ağca nın ağır eşcinsel oldukları gerçeği
-https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
-bkz eşcinselleerdeki askeri aşırı kutsama merakı
-bkz şehitlerin göt deliğine çengel bağlayıp tavana asan gürcü
-bkz şehitlerin göt deliğine pin popn topu sopkuğ dalga geçen gürcü
-bkz kelleri tok diye doksana takan gürcü
-bkz kelleye vurup doksana takan gürcü
-bkz kellelere tik tok yapan gürcü
-bkz kellerle top sektirmece oynayan gürcü
 bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 https://www.youtube.com/watch?v=FqDSaTKtQYA bkz tik tok çılgınlığı
 https://www.youtube.com/watch?v=LTs9MH0Ny-k bkz şehitlere tik tok yapan kürd 
