@@ -4,7 +4,8 @@
 
 <!--
 bkz az önce kavedebi dayı' dan duydum 
-bkz ahmety özalın kavede babamı putin öldürdü demesi
+bkz putinni kamalcıalrla kanka olması
+bkz ahmet özalın kavede kamalcılara babamı putin öldürdü demesi
 bkz az önce kavedebi dayı' dan sonrasını okumadım
 bkz alkolik oldum la radikal kemalizmin iyi çalışması
 https://www.uludagsozluk.com/k/emevi-camisinde-namaz-k%C4%B1lacakt%C4%B1k-ne-oldu-ona/
