@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-ya-benden-ne-istiyorsun-demesi/ sen de bunu yedin
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg ısrar etme canım övdüm de geldim
 https://www.uludagsozluk.com/e/42928388/ sen de bunun yedin
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-%C5%9Fam%C4%B1-vuracak-olmas%C4%B1/ vur vur inlesin moskov dinlesin
