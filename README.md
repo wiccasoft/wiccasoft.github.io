@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz bilalin eniştesi
+bkz bir akpliye vatan sevgisini anlatabilmek
 bkz şaka maka eşcinsellerin kafa sikmesi
 https://www.youtube.com/watch?v=LTs9MH0Ny-k  ne var lan geblo
 https://www.youtube.com/watch?v=TA6y-oRT1w0 bence herşey çok güzel zaten
