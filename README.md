@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ak nonoşların adıma başlık açıp entry girmesi öğğğğğğğğğ
 bkz hala adıma başlık açmamış nonşlar demek ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/mevl%C3%BCt-mert-alt%C4%B1nta%C5%9F/&w=bg bkz pis şey nolcak
 bkz ak nonoşlar yek vücud olurken cem yılmazın serenayla takılması
