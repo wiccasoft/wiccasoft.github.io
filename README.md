@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz iyi günde kötü günde mümin mümine yek vücud olmalı
+https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz yek vüdus olalım
+https://eksisozluk.com/sehit-haberleri-varken-hukumet-elestirisi-yapmak--6386563?a=popular
 https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vücud olmaktan kaçmak
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular bkz ıstırırım yaların bi de
 https://eksisozluk.com/turkiye-kadir-kiymetimizi-bilmedi-diyen-multeci--6387113?a=popular adam afgan beyler
