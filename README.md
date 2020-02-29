@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz eşcinselleerdeki askeri kutsama merakı
 bkz şehitlerin göt deliğine çengel bağlayıp tavana asan gürcü
 bkz şehitlerin göt deliğine pin popn topu sopkuğ dalga geçen gürcü
 bkz kelleri tok diye doksana takan gürcü
