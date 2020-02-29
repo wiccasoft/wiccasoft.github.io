@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz tayyipin batıya sigara içemeyin sigara demesi 
 bkz mustafa kamal atacücü nün lenine verdiği efso ayar
 bkz tayyipin batıya sigara içki içmeyin diye yalvarması
 bkz elif can yetimin bayraktara ihaleye fesat karıştır mailine ses etmeyen akitler
