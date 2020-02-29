@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz iğrençsiniz ibneler
 https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular hadi atayızlar bunu da açıklayın
 https://eksisozluk.com/entry/102782689 ısrara etme evladım övdüm de geldim
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
