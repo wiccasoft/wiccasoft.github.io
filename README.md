@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz sokak röportajı mobile twitter linki
+bkz bla bla bla diyen suri (sokak röportajı mobile twitter linki)
 bkz 3 isimli erkek karizması
 bkz çıt çıt çetene de sar bedeni bedene
 bkz yek vücud olacak iri olacaz diri olacaz
