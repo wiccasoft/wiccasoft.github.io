@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz lafa bakarım laf mı diye söyleyene bakarım adam mı diye
+https://www.uludagsozluk.com/k/propaganda-nedir-bilmeyen-adamla-siyaset-tart%C4%B1%C5%9Fmak/
 https://www.uludagsozluk.com/k/putin-e-bizi-rejimle-ba%C5%9F-ba%C5%9Fa-b%C4%B1rak%C4%B1n-dedim/ sen de bunu yedin
 https://www.youtube.com/watch?v=FqDSaTKtQYA
 bkz şaka maka konstantinopolis le pontusu verin özür dileyin bu işi tatlıya bağlayalım
