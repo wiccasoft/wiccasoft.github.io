@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz rusların rte amblemli rus bayrağını göndere çekmeleri
 bkz rusların bayraklarına t harfi koyması saygı duyduklarını göstermez mi?
 beyler acele etmeyelim bu adamın diplomatik zekasına güvenelim diyorum
 https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-istifa-etse-her%C5%9Fey-d%C3%BCzelir/
