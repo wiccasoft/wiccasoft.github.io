@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz hulusi akarın 12 adaları alacaz sözü vermesi
 bkz bahçelinin oylar bölünmesin diye tayber doğana yanaşması
 bkz kandırıldık demedim andırıldık dedim
 https://www.uludagsozluk.com/k/herkesin-kand%C4%B1rd%C4%B1%C4%9F%C4%B1-adama-devleti-emanet-etmek/&w=bg
