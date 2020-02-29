@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz az önce kavedebi dayı  dan sonrasını okumadım
 bkz alkolik oldum la radikal kemalizmin iyi çalışması
 https://www.uludagsozluk.com/k/emevi-camisinde-namaz-k%C4%B1lacakt%C4%B1k-ne-oldu-ona/
 https://www.uludagsozluk.com/k/herkesin-kand%C4%B1rd%C4%B1%C4%9F%C4%B1-adama-devleti-emanet-etmek/&w=bg
