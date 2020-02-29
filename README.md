@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz şaka maka konstantinopolisi verin özür dileyin bu işi tatlıya bağlayalım
+bkz şaka maka konstantinopolisi verin slavlardan özür dileyin bu işi tatlıya bağlayalım
 bkz rusların rte yi biz indirecez raad olun demesi
 bkz rusların rte amblemli rus bayrağını göndere çekmeleri
 bkz rusların bayraklarına t harfi koyması saygı duyduklarını göstermez mi?
