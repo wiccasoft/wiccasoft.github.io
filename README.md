@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz cem yılmazın sessizliğini hala koruması
 bkz kamalcılarım atacücüyü övmeye gitmesi
 bkz sahi bi yek vücud olma mesele vardı noldu ona
 bkz şehit gelse de erdoğana saldırsak diye beklemek
