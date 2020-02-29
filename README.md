@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türklerin ölüyü ve ölümü kutsama sebepleri
 https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
 bkz yiğidom memedimmmmmmmm o şinci asker canı neler ister
