@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
 bkz yiğidom memedimmmmmmmm o şinci asker canı neler ister
 bkz memeeeedim memeedddim sana geeet demedimmmmm
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
