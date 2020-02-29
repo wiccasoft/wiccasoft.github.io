@@ -3,10 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.youtube.com/watch?v=LTs9MH0Ny-k zuahahhahaha
 bkz 3 isimli erkek karizması
 bkz çıt çıt çetene de sar bedeni bedene
 bkz yek vücud olacak iri olacaz diri olacaz
+https://www.youtube.com/watch?v=LTs9MH0Ny-k zuahahhahaha
 bkz şemsi tebrizi nin iranlı mevlananın da afgan olduğu gerçeği
 bkz mevlananın afgan olduğu gerçeğini bilemeyen moğollar
 bkz memet ali ağca vs mevlüt mert altıntaş
