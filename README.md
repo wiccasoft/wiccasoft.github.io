@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bir gürcü susuyorsa yapılacaklar
+bkz receğ tayyiğ erdoğan sessizliği
 bkz selçuk bayraktarın ihanın üstüne kalaşnikof takalım rusları taraya taraya gitsin demesi
 bkz selçuk bayraktarın rusları vura vuragiden iha üzerinde çalışması
 bkz sarıgöllü emrahın surileri dönderelim gitsin demesi
