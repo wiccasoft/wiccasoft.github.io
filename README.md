@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kelleri tok diye doksana takan gürcü
 bkz kelleye vurup doksana takan gürcü
 bkz kellelere tik tok yapan gürcü
 bkz kellerle top sektirmece oynayan gürcü
