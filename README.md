@@ -4,7 +4,7 @@
 
 <!--
 bkz selçuk bayraktarın ihanın üstüne kalaşnikof takalım rusları taraya taraya gitsin demesi
-bkz selçuk bayraktarın surileri vuran iha üzerinde çalışması
+bkz selçuk bayraktarın rusları vura vuragiden iha üzerinde çalışması
 bkz sarıgöllü emrahın surileri dönderelim gitsin demesi
 bkz ahsen tv muhabirine el şakası yapan suri
 bkz suriyede her şey pahalandı diyen türkiyeli
