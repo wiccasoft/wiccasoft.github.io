@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ammmmaına kodddmun kürdüüüüüüüüüüüüü
 https://www.uludagsozluk.com/e/42926649/ ammmmına kodumun kürdüüüüüü
 https://www.youtube.com/watch?v=18eqJ-CLa1c bkz ezanla dalga geçen kürtler
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=gd 
