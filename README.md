@@ -6,7 +6,6 @@
 bkz tayber doğanın kelle paça rakı şiş kebap çok güzel yine gelcek ben demesi
 bkz az önce kavedebi dayı' dan duydum 
 bkz putinin kamalcılarla kanka olması
-bkz ahmet özalın kavede kamalcılara babamı putin öldürdü demesi
 bkz az önce kavedebi dayı' dan sonrasını okumadım
 https://www.uludagsozluk.com/k/emevi-camisinde-namaz-k%C4%B1lacakt%C4%B1k-ne-oldu-ona/
 https://www.uludagsozluk.com/k/herkesin-kand%C4%B1rd%C4%B1%C4%9F%C4%B1-adama-devleti-emanet-etmek/&w=bg
