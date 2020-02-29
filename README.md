@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz jack dorsey in yine kafasını kuma gömmesi
 bkz sergey brinin rusyaya ihanet etmesi
 bkz sergey brinin türkler değerimi bilmedi demesi
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg bkz sözlükçülerin saygısını kazanabilmek
