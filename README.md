@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/rusya-suriyeden-cekilecek/ sen de bunu yedin
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-nun-ya-benden-ne-istiyorsun-demesi/ sen de bunu yedin
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg ısrar etme canım övdüm de geldim
 https://www.uludagsozluk.com/e/42928388/ sen de bunun yedin
