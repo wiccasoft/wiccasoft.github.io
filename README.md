@@ -6,10 +6,7 @@
 https://www.uludagsozluk.com/e/42928388/ sen de bunun yedin
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-%C5%9Fam%C4%B1-vuracak-olmas%C4%B1/ vur vur inlesin moskov dinlesin
 https://www.uludagsozluk.com/k/20-%C5%9Fubat-2019-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-a%C4%9Flamas%C4%B1/
-bkz şaka maka yakında akdeniz bizimdir
 https://www.uludagsozluk.com/e/42928391/ bkz sen de bunu yedin
-bkz lafa bakarım laf mı diye söyleyene bakarım adam mı diye
-https://www.uludagsozluk.com/k/propaganda-nedir-bilmeyen-adamla-siyaset-tart%C4%B1%C5%9Fmak/
 https://www.uludagsozluk.com/k/putin-e-bizi-rejimle-ba%C5%9F-ba%C5%9Fa-b%C4%B1rak%C4%B1n-dedim/ sen de bunu yedin
 https://www.youtube.com/watch?v=FqDSaTKtQYA
 bkz şaka maka konstantinopolis le pontusu verin özür dileyin bu işi tatlıya bağlayalım
