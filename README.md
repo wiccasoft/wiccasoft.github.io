@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz mehmet ali ağca vs mevlüt mert altıntaş
 bkz rus büyükelçiyi ellek ekber diye öldüren türk
 bkz ak nonoşlar hala adıma başlık açmamış demek ki hala doğru yoldayım
 https://www.uludagsozluk.com/k/mevl%C3%BCt-mert-alt%C4%B1nta%C5%9F/&w=bg bkz pis şey nolcak
