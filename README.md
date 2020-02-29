@@ -10,6 +10,7 @@ bkz memet ali ağca vs mevlüt mert altıntaş
 bkz kafa taslarına tik tok diye vurup dalga geçen gürcü
 bkz iyi günde yek vücud olup kötü günde yek vücud olamamak
 bkz selçuk bayraktarın caddelere adımı vereceksiniz caddelere demesi
+bkz şaka maka ümmet lideri taklidi yapan gürcünün 33 kekoyu iyi telef etmesi
 https://www.uludagsozluk.com/k/her-yerde-arap-var-deyip-avrupa-ya-giden-suriyeli/
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=bg
 https://eksisozluk.com/turkiye-kadir-kiymetimizi-bilmedi-diyen-multeci--6387113?a=popular
