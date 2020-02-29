@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayber doğanın gitmesini beklemek
 https://tayber-dogan.uludagsozluk.com/ bkz tayber doğan
+https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-istifa-etse-her%C5%9Fey-d%C3%BCzelir/&w=bg
 https://www.uludagsozluk.com/k/bir-akp-liyi-konu%C5%9Fmadan-nas%C4%B1l-tan%C4%B1rs%C4%B1n-sorunsal%C4%B1/
 bkz recep tayyip erdoğanın çok uzun bi isim olması
 bkz tayyibin şiş kebap gelse de yesek diye beklemesi
