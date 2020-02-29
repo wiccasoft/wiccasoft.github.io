@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-mare%C5%9Fal-%C3%BCniformas%C4%B1yla-kamera-kar%C5%9F%C4%B1s%C4%B1nda/&w=gd
 bkz kuzuların sessizliği
 bkz cem yılamz yine sessizliği koruması
 bkz tayyipin batıya sigara içemeyin sigara demesi 
