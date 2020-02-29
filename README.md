@@ -4,7 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
-bkz elif can yetimin selçuk bayraktara abi iha yaptsana demesi
+bkz elif can yetimin selçuk bayraktara abi ihaleye fesat karıştırsana demesi
 bkz o değil de tayyipdoğan nerede sorunsalı
 bkz şaka maka rus derin devletinin tayyipi ele geçirmesi
 bkz tayyipin gürcistana ruslardan beni kurtar yalvarması
