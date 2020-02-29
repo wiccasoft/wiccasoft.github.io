@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/herkesin-kand%C4%B1rd%C4%B1%C4%9F%C4%B1-adama-devleti-emanet-etmek/&w=bg
 bkz ahmet özalın babişkomu putin öldürdü ondan atinaya kaçtım açıklması
 https://www.uludagsozluk.com/k/babam%C4%B1-putin-%C3%B6ld%C3%BCrd%C3%BC/
 bkz şaka maka hulusi nin verdiğimiz paraya değmesi
