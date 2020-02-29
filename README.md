@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz şehit gelse de erdoğana saldırsak diye beklemek
 bkz kamalcılarım atacücüyü övmeye gitmesi
 https://www.youtube.com/watch?v=Hc_-KpTuTDg
 bkz cem yılmazın yine kafayı gömmesi
