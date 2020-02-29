@@ -4,7 +4,7 @@
 
 <!--
 bkz iyi günde kötü günde mümin mümine yek vücud olmalı
-bkz şehitler bahanesiyle arkadaşı duşa sokup güzelce yek vücud olmak gusül olmak
+bkz şehitler bahanesiyle arkadaşı duşa sokup güzelce yek vücud olmak
 https://eksisozluk.com/kotu-gunde-bile-tek-vucut-olamamak--6386952?a=popular bkz yek vüdus olalım
 https://eksisozluk.com/sehit-haberleri-varken-hukumet-elestirisi-yapmak--6386563?a=popular
 https://eksisozluk.com/cem-yilmazin-yine-kafasini-kuma-gommesi--6386941?a=popular bkz yek vücud olmaktan kaçmak
