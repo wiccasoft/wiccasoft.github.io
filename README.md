@@ -4,6 +4,7 @@
 
 <!--
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
+bkz eşcinsellerin küürlü konuşma sebepleri
 bkz traveler of secret ile ağca nın ağır eşcinsel oldukları gerçeği
 https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
 bkz eşcinselleerdeki askeri aşırı kutsama merakı
