@@ -4,6 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
+bkz şaka maka recep şaban ramazan ayının gelmesi
 bkz elif can yetimin selçuk bayraktara abi ihaleye fesat karıştırsana demesi
 bkz o değil de tayyipdoğan nerede sorunsalı
 bkz şaka maka rus derin devletinin tayyipi ele geçirmesi
