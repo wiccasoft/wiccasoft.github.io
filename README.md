@@ -8,41 +8,9 @@ bkz az önce kavedebi dayı' dan duydum
 bkz putinin kamalcılarla kanka olması
 bkz ahmet özalın kavede kamalcılara babamı putin öldürdü demesi
 bkz az önce kavedebi dayı' dan sonrasını okumadım
-bkz alkolik oldum la radikal kemalizmin iyi çalışması
 https://www.uludagsozluk.com/k/emevi-camisinde-namaz-k%C4%B1lacakt%C4%B1k-ne-oldu-ona/
 https://www.uludagsozluk.com/k/herkesin-kand%C4%B1rd%C4%B1%C4%9F%C4%B1-adama-devleti-emanet-etmek/&w=bg
 https://www.uludagsozluk.com/k/sevi%C5%9Ftikten-sonra-yar%C4%B1n-gene-yapcaz-m%C4%B1-diyen-k%C4%B1z/
-bkz ahmet özalın babişkomu putin öldürdü ondan atinaya kaçtım açıklması
-https://www.uludagsozluk.com/k/babam%C4%B1-putin-%C3%B6ld%C3%BCrd%C3%BC/
-bkz şaka maka hulusi nin verdiğimiz paraya değmesi
-bkz şaka maka gürcünün kara kelleleri iyi telef etmesi
-bkz tayber doğan nın sessliği cart diye bozması
-bkz hulusinin atinaya kaçması
-bkz hulusinin fuzuli işlerle uğraştığı gerçeği
-bkz tayber doğanın hulusi yi atinaya yollaması
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz tayber doğan
-https://www.uludagsozluk.com/k/kemal-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu/&w=bg bkz dersimin gururu
-bkz tayber doğanın gitmesini beklemek
-https://tayber-dogan.uludagsozluk.com/ bkz tayber doğan
-https://www.uludagsozluk.com/k/tayyip-erdo%C4%9Fan-istifa-etse-her%C5%9Fey-d%C3%BCzelir/&w=bg
-https://www.uludagsozluk.com/k/bir-akp-liyi-konu%C5%9Fmadan-nas%C4%B1l-tan%C4%B1rs%C4%B1n-sorunsal%C4%B1/
-bkz recep tayyip erdoğanın çok uzun bi isim olması
-bkz tayyibin şiş kebap gelse de yesek diye beklemesi
-bkz taytyipin şiş kebap çok güzel türkey cennet demesi
-bkz hulusi akarın atinaya akması
-bkz tayyibin atinadan istifa ettiğin duyurması
-bkz tayyibin türkiye cennet şiş kebap yine gelecek ben demesi
-bkz hulusi akarın kamalcıalr tayyibi linç etmesin diye atina ya kaçırması
-bkz hulusi akarın paylaştığı tayyip röportajı
-https://www.uludagsozluk.com/k/abd-israil-%C5%9Fimdi-dostumuz-mu-oldu-sorunsal%C4%B1/
-https://www.uludagsozluk.com/k/denizde-bo%C4%9Fulup-%C3%B6lmek-t%C3%BCrkiye-de-ya%C5%9Famaktan-iyi/&w=bg
-bkz kuzuların sessizliği
-bkz hulusi akarın atinaya akması
-bkz hulis akarın tsk yı iki paralık edip kaçması
-bkz cem yılmazın sessizliğini koruması
-bkz kamalcılarım atacücüyü övmeye gitmesi
-bkz sahi bi yek vücud olma mesele vardı noldu ona
-bkz şehit gelse de erdoğana saldırsak diye beklemek
 https://www.youtube.com/watch?v=Hc_-KpTuTDg
 bkz cem yılmazın yine kafayı gömmesi
 bkz selçuk abyraktarın ihalara taramalı takması
