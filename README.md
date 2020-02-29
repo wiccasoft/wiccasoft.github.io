@@ -4,7 +4,7 @@
 
 <!--
 bkz kuzuların sessizliği
-bkz cem yılamzın yine kafayı gömmesi
+bkz cem yılmazın yine kafayı gömmesi
 bkz selçuk abyraktarın ihalara taramalı takması
 bkz cem yılamz yine sessizliği koruması
 bkz tayyipin batıya sigara içemeyin sigara demesi 
