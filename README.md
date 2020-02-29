@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyipin gürcistana ruslardan beni kurtar yalvarması
 bkz tayyipin tapeleri yalvar yakar rusyaya vermesi
 https://www.uludagsozluk.com/k/tayyip-in-bat%C4%B1ya-yalvarmas%C4%B1/
 https://www.uludagsozluk.com/k/%C5%9Fehit-gelse-de-erdo%C4%9Fana-sald%C4%B1rsak-diye-beklemek/
