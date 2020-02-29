@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/mevl%C3%BCt-mert-alt%C4%B1nta%C5%9F/&w=bg bkz pis şey nolcak
 bkz ak nonoşlar yek vücud olurken cem yılmazın serenayla takılması
 bkz iyi günde kötü günde mümin mümine yek vücud olmalı
 bkz şehitler bahanesiyle arkadaşı duşa sokup güzelce yek vücud olmak
