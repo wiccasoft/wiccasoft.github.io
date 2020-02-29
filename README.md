@@ -4,6 +4,7 @@
 
 <!--
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
+bkz eşcinsellerdeki öfkenin ve gerginliğin sebebi
 bkz türklerin ölüyü ve ölümü kutsama sebepleri
 https://www.uludagsozluk.com/k/%C5%9Fehitlik-mertebesi/ bkz ölü sevici eşcinsellik
 bkz amınaaaaaaakodumun kürdüüüüüüüüüüüüüüü
