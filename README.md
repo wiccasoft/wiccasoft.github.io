@@ -2,6 +2,11 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+<!-- 
+https://www.youtube.com/watch?v=18eqJ-CLa1c bkz ezanla dalga geçen kürtler
+https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-tiktok%C3%A7u-k%C3%BCrt/&w=gd 
+bkz yakalarsam tik tok 
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
