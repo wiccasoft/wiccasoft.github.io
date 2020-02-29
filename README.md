@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz taytyipin şiş kebap çok güzel türkey cennet demesi
 bkz hulusi akarın atinaya akması
 bkz tayyibin atinadan istifa ettiğin duyurması
 bkz tayyibin türkiye cennet şiş kebap yine gelecek ben demesi
