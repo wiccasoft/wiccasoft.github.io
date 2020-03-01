@@ -4,7 +4,7 @@
 
 <!-- 
 bkz türklerin dronelarla dünyayı ele geçirme ihtimali
-https://eksisozluk.com/entry/102883905 bkz ceddin deden neslin baban dronelar deden
+https://eksisozluk.com/entry/102883905 bkz ceddin deden neslin dronelar
 bkz dronelarla dünyaya savaş öğreten ırk
 bkz kürd olup kürdistanı desteklemeyen ezik kürd
 https://www.uludagsozluk.com/k/albaraka-t%C3%BCrk/ bkz safkan türk
