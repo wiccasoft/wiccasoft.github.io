@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tangır budun doğanın paylaştığı kalpli gökkuşağı
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 94 doğumlu yakışıklı kosovalı
 https://www.uludagsozluk.com/e/42934690/ bkz aptala yatıyo beyler yemeyin
 bkz kamalcıların ünifromalı erkek görünce ayakta boşalması
