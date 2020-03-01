@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz grup vitamin deki ismailin grupğtan ayrılması
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki gay
 bkz kimine cennet kimine cehennem selam ve dua ile
 bkz türkiyenin gay cenneti olduğu gerçeği selam ve dua ile
