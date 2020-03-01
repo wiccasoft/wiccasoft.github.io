@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42934690/ bkz aptala yatıyo beyler yemeyin
 bkz kamalcıların ünifromalı erkek görünce ayakta boşalması
 bkz tangır budun doğanın türk askerinin yüreğine dokunup sevgi koyması
 https://www.uludagsozluk.com/e/42932505/ bkz ekşiden kocaman yazı çalıp alıntı demek
