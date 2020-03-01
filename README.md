@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz türk abonelerden gelecek rant için patriot taklidi yapmak
+bkz ilerde türk abonelerden gelecek rant için şimdiden patriot taklidi yapmak
 bkz türklerin devlet memurlarını sürekli övmesi
 https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ eywolleeeeee selam ve dua ile
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ eywallah brolar selam ve dua ile
