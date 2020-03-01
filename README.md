@@ -4,7 +4,7 @@
 
 <!-- 
 bkz beni erdonun damadı sananların güldürmesi 
-1978 doğumluyum ama adım berat ya da selçuk değil
+1978 doğumluyum ama adım berat ya da selçuk soyadım da bayraklaı değil genşler
 https://www.uludagsozluk.com/e/42931091/
 https://eksisozluk.com/entry/102858678
 https://www.uludagsozluk.com/e/42933060/
