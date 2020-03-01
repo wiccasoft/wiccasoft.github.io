@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/adil-gur--1325210?a=popular bkz habertürkün kürtleri kışkırtması
 https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz hz eyüpün amcası
 https://twitter.com/karadagsilak/status/1233726348402790400 
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
