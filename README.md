@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/fernando-muslera/&w=bg bkz füze atsan tutar harika bi adam
 https://www.uludagsozluk.com/k/fernando-muslera/&w=bg bkz her eve lazım
 bkz tengir budun doğanın GünAyYıl klasöründeki asker resimleri
 https://www.uludagsozluk.com/k/hz-ai%C5%9Fe/&w=bg bkz hz ebu lehebin siktiği karı
