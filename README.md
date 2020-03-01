@@ -5,13 +5,13 @@
 <!-- 
 https://eksisozluk.com/entry/102879583 esedçi engelle pampa
 bkz ciddi ciddi dronelarla rusyayı korkutacağını sanan malum ırk
-https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular kimmmiş lan o gavat
 https://www.uludagsozluk.com/e/42935765/ tutmayın küçük enişteyi
 bkz asker kaçağı çürük 31 ci ergenlerin güldürmesi
 https://eksisozluk.com/entry/102874214 bkz tutmayın küçük enişteyi
 bkz ak boyların sihalarla şamı almayı planlaması :)))))))))))))))))
 https://eksisozluk.com/entry/102878606 zuahhahahahahahahahahhahaha 
 bkz akboyların su-24 le f-16 karşılaştırma videoları izlerken gaza gelmesi
+https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular kimmmiş lan o gavat
 -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
