@@ -4,7 +4,6 @@
 
 <!-- 
 bkz berat albayrakın biraz da beni övün lan ibneler demesi
-bkz 42 yaşına gelmiş hiç sevigilisi olmamış adam
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular eywallah brolar selam ve dua ile
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg eywwallah brolar selam ve dua ile
 https://www.uludagsozluk.com/k/aykut-kocaman/ eywallah brolar senin de selam ve dua ile
