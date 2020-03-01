@@ -8,8 +8,7 @@ https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2
 https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 
 https://eksisozluk.com/1-mart-2020-sag-ele-gecirilen-suriye-askerleri--6390126?a=popular sende bunu yedin
 https://eksisozluk.com/tsknin-1-gunde-rejimin-icinden-gecmesi--6390627?a=popular sen de bunu yedin
-https://eksisozluk.com/turk-olup-kendi-ordu-ve-milletine-karsit-olmak--6390845?a=popular hassiktir lan 
-bkz türklerin ne kafası yaşaması
+https://eksisozluk.com/turk-olup-kendi-ordu-ve-milletine-karsit-olmak--6390845?a=popular hassiktir lan türk
 https://www.uludagsozluk.com/k/godfrey-de-saint-erecto/ bkz aknonoş nickleri
 bkz excalibur from kazlıçeşme mossad peşinde olabilir excalibur
 bkz elamanın adı mahmut mavrothalassa diye nick almış
