@@ -4,6 +4,7 @@
 
 <!-- 
 bkz türklerin devlet memurlarını sürekli övmesi
+https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ eywolleeeeee
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ eywallah brolar
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ canım hepsini toptan övdüm diyorum
 https://eksisozluk.com/entry/102858678  canım ısrar etme övdüm diyorum
