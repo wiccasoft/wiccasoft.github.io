@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/elon-musk%C4%B1n-f35-a%C3%A7%C4%B1klamas%C4%B1/ lol
 bkz atacücünün arkasında şeftali yiyen adam
 bkz mustafa kemal atadandoğan vs recep tayipten doğan arasındaki benzerlikler
 bkz grup vitamin solistinin sahneyi terk etmesi
