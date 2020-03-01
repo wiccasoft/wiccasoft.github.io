@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Fuan-askerimizin-yaninda-olmak-isterim/ göt verirdim askerin yanında olmak için
 https://www.uludagsozluk.com/k/levent-g%C3%B6k-chp/ bkz kılıştarın göt dediği adam
 bkz selçuk bayraktarın sihaların ucuna türk kızı takalım taraya taraya gitsin demesi
 https://www.uludagsozluk.com/k/siha-y%C4%B1-abd-nin-40-y%C4%B1ld%C4%B1r-kullanmas%C4%B1/
