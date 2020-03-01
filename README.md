@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/hz-ai%C5%9Fe/&w=bg bkz hz ebu lehebin siktiği karı
 bkz tengir gay doğanın ülkemi vermem demesi
 https://www.uludagsozluk.com/k/ba%C5%9Fka-bir-%C3%BClkeye-zorla-girmeye-%C3%A7al%C4%B1%C5%9Fan-yarat%C4%B1k/
 https://www.uludagsozluk.com/e/42934211/ bkz tengir bidon gibi ibneleri etkileyecek olay
