@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42934608/ bkz yok mu arttıran
 bkz grup vitamin solistinin grup seksi bırakması
 https://gine-babunu.uludagsozluk.com/ bkz 56000 dolar kazanıp sözlükte takılan babun
 https://www.uludagsozluk.com/k/600-000-tl-araba-tavsiyesi/ bkz keko
