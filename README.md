@@ -7,6 +7,7 @@ bkz gözleri dolar şekliden gülen surat
 bkz ilerde türk abonelerden gelecek rant için şimdiden patriot taklidi yapmak
 https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ eywolleeeeee selam ve dua ile
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ eywallah brolar selam ve dua ile
+bkz türklerin devlet memurlarını sürekli övmesi
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ canım hepsini toptan övdüm diyorum
 https://eksisozluk.com/entry/102858678 canım ısrar etme övdüm diyorum
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/ sağol canım selam ve dua ile
