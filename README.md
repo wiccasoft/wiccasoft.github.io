@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://radikalkemalizm.uludagsozluk.com/ bkz konumistleri korkulu rüyası radika kemalci
 bkz grup yorum bataristinin komunizmi çok yanlış anlaması
 bkz türklerin yoğurt dışında insanlığa katkıları
 bkz yurtdışında siha getirtip türkleri kekleyen damat
