@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/aykut-kocaman/ eywallah bro senin de selam ve dua ile
 bkz gözleri dolar şeklide gülen surat
 bkz 4 mart doğum günüm gencolar 42 oluyorum selam ve dua ile
 bkz ilerde türk abonelerden gelecek rant için şimdiden patriot taklidi yapmak
