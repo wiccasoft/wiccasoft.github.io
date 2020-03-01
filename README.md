@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg
 https://www.uludagsozluk.com/k/sexting-yapan-i%C5%9Fsiz-gerizekal%C4%B1/&w=bg bkz içinde olan biri
 https://eksisozluk.com/hulusi-akar-maresal-ilan-edilsin-kampanyasi--6390232?a=popular +1 mle katıldığım up
 https://www.uludagsozluk.com/k/murathan-mungan/&w=bg bkz kürt eşcinsel
