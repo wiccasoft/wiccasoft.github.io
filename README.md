@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz excalibur from kazlıçeşme
 bkz elamanın adı nurettin mavrothalassa diye nick almış
 bkz aknonoşların yabancı nick alma merakı
 https://mavrothalassa.uludagsozluk.com/ bkz feyizli bi abi
