@@ -3,13 +3,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz adam hazreti beyler
-bkz ersun yanal mevzu konyasporsa giderim demesi
-bkz süleyman soylunun soyumuz kıpçaklara dayanıyor demesi
-bkz kızları patlatıp koltuk altıyla patlak kız sesi çıkaran adam
-bkz bir kızı patlatıp koltuk altıyla patlak kız sesi çıkarmak
-bkz bubam her gece götten sikerdi diyen fikirtepeli kız
-bkz fikirtepelilerin atara atar gidere gider yapması
 https://www.uludagsozluk.com/e/42935765/ tutmayın küçük enişteyi
 bkz asker kaçağı çürük 31 ci ergenlerin güldürmesi
 https://eksisozluk.com/entry/102874214 bkz tutmayın küçük enişteyi
