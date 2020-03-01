@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz bayraktarı överken kendinden geçen kamalcı
+bkz bayraktarı överken kendinden geçen kamalcılar
 bkz berat albayrakın biraz da beni övün lan ibneler demesi
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular eywallah brolar selam ve dua ile
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg eywwallah brolar selam ve dua ile
