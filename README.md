@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/esat-%C4%B1n-cami-duvar%C4%B1na-i%C5%9Femesi/ ben saldırıyorum beyler
 bkz mahmutizm vs komunizm
 bkz türklerin sürekli birilerini övmesi
 bkz en iyi türklük ya diyen türk
