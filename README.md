@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/bahar-kalkan%C4%B1-harekat%C4%B1/ bkz bi kalkışma olmasın
 bkz şaka lana şakan  ben filzoof atakan aristonun öğrencisi eflatunun babası
 https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ bkz bu da ben değilim ben süleyman soylu
 https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bu benim yeğen ben mahmut kayalar
