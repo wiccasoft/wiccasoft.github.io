@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bubam her gece götten sikerdi diyen kız
 bkz fikirtepelilerin atara atar gidere gider yapması
 https://www.uludagsozluk.com/e/42935765/ tutmayın küçük enişteyi
 bkz asker kaçağı çürük 31 ci ergenlerin güldürmesi
