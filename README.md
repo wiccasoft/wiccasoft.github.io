@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular eywallah brolar selam ve dua ile
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg eywwallah brolar selam ve dua ile
 https://www.uludagsozluk.com/k/aykut-kocaman/ eywallah brolar senin de selam ve dua ile
 bkz gözleri dolar şeklide gülen surat
