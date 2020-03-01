@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz türklerin dronelarla dünyayı ele geçirme ihtimali
+bkz türklerin dronelarla dünyaya iyi bir ders vermesi
 https://eksisozluk.com/entry/102883905 bkz ceddin deden neslin dronelar
 bkz dronelarla dünyaya savaş öğreten ırk
 bkz kürd olup kürdistanı desteklemeyen ezik kürd
