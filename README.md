@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz ak boyların esedin askerlerini esir alması :)))))))))
+bkz ak boyların esedin askerlerini canlı ele geçirmesi:)))))))))
 bkz türklerin boş işlerle uğraşması :))))
 bkz türklerin idlib te boş binalara bomba atması :))))))
 https://www.uludagsozluk.com/k/kadinlarin-altina-kacirdiklari-gercegi/ bkz annesi sıçmış beyler
