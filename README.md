@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/600-000-tl-araba-tavsiyesi/ bkz keko
 https://www.uludagsozluk.com/k/ter%C3%B6r%C3%BC-destekle-sonra-%C3%B6l%C3%BCm-orucu-tut/ bkz baterist hakkı
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz beş para etmez eşşek pis şey
 https://www.uludagsozluk.com/e/42934723/ ben sena adam olamazsın eşek olursun dedim
