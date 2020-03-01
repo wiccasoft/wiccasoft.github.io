@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türklerin beşer esed in askerlerin köle pazarında satması
 bkz beşer esedin doğu gutaya ilerlemesi
 bkz ekşcilerin elindeki beşer esed askerleri
 https://www.uludagsozluk.com/k/t%C3%BCrbanl%C4%B1-asker/&w=bg bkz emine erdoğan
