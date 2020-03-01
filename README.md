@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ukraynal%C4%B1-m%C3%BCcahitler/
 bkz kamalcıları etkilemek için ucuna taramalı bağlanmış drone yapmak
 bkz kamalcıların gözünü boyamak için atak helikopterini ben yaptım demek
 https://www.uludagsozluk.com/k/akp-nin-ba%C5%9F%C4%B1na-sel%C3%A7uk-bayraktar-gecsin/
