@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ersun-yanal-gelince-it-gibi-titreyen-gsliler/&w=bg puahhahahaha
 https://www.uludagsozluk.com/k/kovalad%C4%B1k%C3%A7a-ka%C3%A7an-ersun-yanal%C4%B1m-m%C4%B1s%C4%B1n/
 bkz türklerin beşer esed in askerlerin köle pazarında satması
 bkz beşer esedin doğu gutaya ilerlemesi
