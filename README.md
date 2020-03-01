@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/pembe-g%C3%B6tl%C3%BC-olmak/ bkz levent götün götü
 https://www.uludagsozluk.com/k/grup-yorum-gitaristi-ibrahim-g%C3%B6%C3%A7ek-in-%C3%B6l%C3%BCm-orucu/
 https://www.uludagsozluk.com/k/ersun-yanal/&w=gd bkz fener mevzuysa gerisi teferrruattır diyen adam
 https://www.uludagsozluk.com/k/%C5%9Fuan-askerimizin-yaninda-olmak-isterim/ göt verirdim askerin yanında olmak için
