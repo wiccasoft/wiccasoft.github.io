@@ -4,10 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com bkz gördüğüm en absürd gay forum sitesi
-https://gine-babunu.uludagsozluk.com/  bkzkarı satıyom 100000 dolar kazanıyom öle yani
-https://www.uludagsozluk.com/e/42934608/ bkz yok mu arttıran
-bkz grup vitamin solistinin grup seksi bırakması
-https://gine-babunu.uludagsozluk.com/ bkz 56000 dolar kazanıp sözlükte takılan babun
+https://gine-babunu.uludagsozluk.com/  bkz karı satıyom 100000 dolar kazanıyom öle yani
 https://www.uludagsozluk.com/k/600-000-tl-araba-tavsiyesi/ bkz keko
 https://www.uludagsozluk.com/k/ter%C3%B6r%C3%BC-destekle-sonra-%C3%B6l%C3%BCm-orucu-tut/ bkz baterist hakkı
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz beş para etmez eşşek pis şey
