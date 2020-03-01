@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42934931/ aga onu bırakta boya posa bak siker bırakır aga bu
 https://www.uludagsozluk.com/k/radamel-sikao/ yakışıklılığa bakar mısın
 bkz sölzüklerdeki ak nonoşlar geysaraylılar fenerbahçeli eşcinseller niye buluşmuyorlar
 https://www.uludagsozluk.com/ bkz geysaraylı eşcinsellerin daha yoğun olduğu site
