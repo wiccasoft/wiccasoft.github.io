@@ -4,8 +4,7 @@
 
 <!--
 bkz tangır budun doğanın gay klasöründeki asker fotolarını silen rus hacker
-bkz tangır budun doğanın ülkü ocaklarına gittiği günler
-bkz tangır budun doğanın gay klasöründen ahmet kaya kaçakçı kurban.mp3 çıkması
+bkz tangır budun doğanın gay klasöründen kaçakçı kurban.mp3 çıkması
 https://www.uludagsozluk.com/k/yerli-ve-milli-ka%C3%A7ak%C3%A7%C4%B1/ bkz yüzde yüz yerli ve milli
 bkz tangır budun doğanın Gün Ay Yıl klasörü
 bkz tangır budun doğanın Gün Ay Yıl klasöründeki asker fotoları
