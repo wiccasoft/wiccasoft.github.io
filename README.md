@@ -4,15 +4,11 @@
 
 <!-- 
 bkz türklerin devlet memurlarını sürekli övmesi
-https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ eywolleeeeee
-https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ eywallah brolar
+https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ eywolleeeeee selam ve dua ile
+https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ eywallah brolar selam ve dua ile
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ canım hepsini toptan övdüm diyorum
-https://eksisozluk.com/entry/102858678  canım ısrar etme övdüm diyorum
+https://eksisozluk.com/entry/102858678 canım ısrar etme övdüm diyorum
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/ sağol canım övdüm de geldim
-https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bu benim yeğen
-https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ bu da ben değilim
-bkz beni erdonun damadı sananların güldürmesi 
-1978 doğumluyum ama adım berat ya da selçuk soyadım da bayraklaı değil genşler
 https://www.uludagsozluk.com/e/42931091/
 https://eksisozluk.com/entry/102858678 
 https://www.uludagsozluk.com/e/42933060/
