@@ -3,12 +3,12 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bu benim yeğen ben mahmut kayalar atakan kayaların dayısı
+https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bu benim yeğen
 https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ bu da ben değilim
 bkz beni erdonun damadı sananların güldürmesi 
 1978 doğumluyum ama adım berat ya da selçuk soyadım da bayraklaı değil genşler
 https://www.uludagsozluk.com/e/42931091/
-https://eksisozluk.com/entry/102858678
+https://eksisozluk.com/entry/102858678 
 https://www.uludagsozluk.com/e/42933060/
 https://www.uludagsozluk.com/e/42922602/
 https://www.uludagsozluk.com/e/42933058/ 
