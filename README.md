@@ -4,6 +4,7 @@
 
 <!-- 
 bkz terörikleri vurdukça chpkklıların kudurması
+https://www.uludagsozluk.com/k/suriyelilerin-t%C3%BCrkiyeyi-be%C4%9Fenmemesi/&w=bg lol
 bkz o değil de sihaların ucuna falcoyu takacan taraya taraya gidecek bro
 https://www.uludagsozluk.com/k/muzaffer-sherif/&w=bg bkz muzaffer giden yol okumaktan geçer
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz 150 mülyün yürü noldu len mq soktu mu anana golü
