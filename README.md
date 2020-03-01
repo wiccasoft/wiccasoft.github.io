@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz beş para etmwez adamlara değer vermek
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri/&w=bg bkz gay klasöründeki resimleri
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz cevabı zor sorular
 https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz kocaman yürekli adam
