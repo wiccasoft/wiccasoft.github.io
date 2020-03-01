@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/turk-olup-kendi-ordu-ve-milletine-karsit-olmak--6390845?a=popular hassiktir lan 
 https://www.uludagsozluk.com/k/godfrey-de-saint-erecto/ bkz aknonoş nickleri
 bkz excalibur from kazlıçeşme mossad peşinde olabilir excalibur
 bkz elamanın adı mahmut mavrothalassa diye nick almış
