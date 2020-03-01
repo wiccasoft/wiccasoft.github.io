@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/adil-gur--1325210?a=popular az önce ruslar ananızı siker dedi ak boylar
 bkz şaka maka suriyede 4 üs wohooooooo
 bkz şaka maka iskenderun un yakında üssümüz olacağı gerçeği
 bkz şaka maka gürcünün işimize çok yaradığı gerçeği
