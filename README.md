@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/1-mart-2020-ersun-yanal-ile-yollar%C4%B1n-ayr%C4%B1lmas%C4%B1/ 
 https://www.uludagsozluk.com/k/freddie-mercury/&w=bg olm ibnelere entry girmeyin la
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz mevzu fenerse gerisi yanaldır
 https://eksisozluk.com/hulusi-akar-maresal-ilan-edilsin-kampanyasi--6390232?a=popular
