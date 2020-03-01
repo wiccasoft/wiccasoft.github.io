@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 3 kuşluk admaa beş kuruşluk değer vermek
 https://www.uludagsozluk.com/k/mariano-ferreira/&w=bg bkz büyük aşklar nefretle başlarmış
 https://eksisozluk.com/hulusi-akar-maresal-ilan-edilsin-kampanyasi--6390232?a=popular edilsin bakalım
 https://eksisozluk.com/1-mart-2020-sag-ele-gecirilen-suriye-askerleri--6390126?a=popular sen de bunu yedin
