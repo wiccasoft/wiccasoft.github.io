@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/hulusi-akar-maresal-ilan-edilsin-kampanyasi--6390232?a=popular +1 mle katıldığım up
 https://www.uludagsozluk.com/k/murathan-mungan/&w=bg bkz kürt eşcinsel
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz süper adam harika adam sol ayağı süper
 bkz marks lenin ergendi diyen kamalcı
