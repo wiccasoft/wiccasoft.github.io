@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz erdoğanın siyasi zekası mı askeri dehası mı daha başarılı
+https://eksisozluk.com/erdoganin-siyasi-yonu-mu-daha-basarili-askeri-mi--6390306?a=popular
 https://www.uludagsozluk.com bkz gördüğüm en absürd gay forum sitesi
 https://gine-babunu.uludagsozluk.com/  bkz karı satıyom 100000 dolar kazanıyom öle yani
 https://www.uludagsozluk.com/k/600-000-tl-araba-tavsiyesi/ bkz keko
