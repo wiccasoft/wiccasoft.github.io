@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/entry/102858678  canım ısrar etme övdüm diyorum
+https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/ sağol canım övdüm de geldim
 bkz türklerin devlet memurlarını sürekli övmesi
 https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bu benim yeğen
 https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ bu da ben değilim
