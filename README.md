@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kamalcılarının gözünü boyamak için bayrak asmak
 https://www.uludagsozluk.com/k/akp-nin-ba%C5%9F%C4%B1na-sel%C3%A7uk-bayraktar-gecsin/
 bkz patriotların gözünün boyamak için bayrakçı taklidi yapmak
 bkz bayraktarı överken kendinden geçen kamalcılar
