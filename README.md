@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://diablo1987.uludagsozluk.com/ bkz geysaraylı eşcinsel
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz beş para etmez adamlara değer vermek
 bkz tangır budun doğanın paylaştığı kalpli gökkuşağı
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz 94 doğumlu yakışıklı kosovalı
