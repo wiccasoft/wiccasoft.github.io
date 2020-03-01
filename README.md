@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz amın feryatların suriyede ne işiniz var dı diyeceğimiz günler geliyor
-https://eksisozluk.com/entry/102874214 tutmayın küçük enişteyi
+https://eksisozluk.com/entry/102874214 bkz tutmayın küçük enişteyi
 bkz ak boyların sihalarla şamı almayı planlaması :)))))))))))))))))
 https://eksisozluk.com/entry/102878606 zuahhahahahahahahahahhahaha 
 bkz akboyların su-24 le f-16 karşılaştırma videoları izlerken gaza gelmesi
