@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz sayfalara sığmayacak adam
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz bunu satak ramsou alak mk
 https://www.uludagsozluk.com/ bkz götünde don olmayan veletlerin kendini kral sandıkları yer
 https://eksisozluk.com/ bkz aknonoşların coşması
