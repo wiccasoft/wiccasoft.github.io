@@ -9,10 +9,8 @@ https://www.uludagsozluk.com/k/siha-y%C4%B1-abd-nin-40-y%C4%B1ld%C4%B1r-kullanma
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/&w=bg yiğidolar
 https://www.uludagsozluk.com/k/iki-rejim-u%C3%A7a%C4%9F%C4%B1n%C4%B1n-d%C3%BC%C5%9F%C3%BCr%C3%BClmesi/ hüloğğğğ
 https://www.uludagsozluk.com/k/%C5%9Fuan-askerimizin-yaninda-olmak-isterim/
-bkz selçuk bayraktarın ukraynalı mücahitleri vuran iha üzerinde çalışması
+bkz selçuk bayraktarın ukraynalı mücahitleri vuran siha üzerinde çalışması
 https://www.uludagsozluk.com/k/ukraynal%C4%B1-m%C3%BCcahitler/
-bkz kamalcıları etkilemek için ucuna taramalı bağlanmış drone yapmak
-bkz kamalcıların gözünü boyamak için atak helikopterini ben yaptım demek
 https://www.uludagsozluk.com/k/akp-nin-ba%C5%9F%C4%B1na-sel%C3%A7uk-bayraktar-gecsin/
 bkz patriotların gözünün boyamak için bayrakçı taklidi yapmak
 bkz bayraktarı överken kendinden geçen kamalcılar
