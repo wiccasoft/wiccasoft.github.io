@@ -5,6 +5,7 @@
 <!--
 bkz şaka maka suriyede 4 üs wohooooooo
 bkz şaka maka iskenderun un yakında üssümüz olacağı gerçeği
+bkz şaka maka gürcünün işimize çok yaradığı gerçeği
 bkz ak boylara gelişine çakmak için sabırsızlanmak
 bkz şaka maka ak boylar biraz daha gelsin diye beklemek
 bkz ak boyların esedin askerlerini canlı ele geçirmesi:)))))))))
