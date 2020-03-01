@@ -5,6 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/e/42922602/
 https://www.uludagsozluk.com/e/42933058/ 
+https://twitter.com/karadagsilak/status/1233726348402790400 positive minds
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 lol 
 https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 lol
 -->
