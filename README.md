@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tanfır budun doğanın Gün Ay Yıl klasöründeki asker fotoları
 https://www.uludagsozluk.com/e/42934211/ bkz tangır budun doğanın eliyle kalp işareti yapması
 https://radikalkemalizm.uludagsozluk.com/ bkz konumistleri korkulu rüyası radikal kemalci
 bkz grup yorum bataristinin komunizmi çok yanlış anlaması
