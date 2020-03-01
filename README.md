@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz grup vitamin deki ismailin grupğtan ayrılması
+bkz grup vitamin deki ismailin gruptan ayrılması
+bkz en yakışıklı liderleri seçiyoruz kampanyası
 bkz receğ tayyiğ erdoğan ikin atacücü olduğuna gör üçüncü rte kim olacak sorunsalı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg
 bkz kimine cennet kimine cehennem selam ve dua ile
