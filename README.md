@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://diablo1987.uludagsozluk.com/ bkz fenerlilerin korkulu rüyası adam gibi adam
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz adam gibi adam
 bkz alper potukun teknik direktör yokken soyunma odasında seksi hareketler yapması
 bkz alper potukun bekir irtegünün göğüs kıllarını yalaması
 bkz annesinni memesinde süt içen erkek bebek
