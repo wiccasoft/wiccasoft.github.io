@@ -4,7 +4,8 @@
 
 <!-- 
 bkz grup vitamin deki ismailin grupğtan ayrılması
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg bkz iki gay
+bkz receğ tayyiğ erdoğan ikin atacücü olduğuna gör üçüncü rte kim olacak sorunsalı
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk-vs-recep-tayyip-erdo%C4%9Fan/&w=bg
 bkz kimine cennet kimine cehennem selam ve dua ile
 bkz türkiyenin gay cenneti olduğu gerçeği selam ve dua ile
 https://www.uludagsozluk.com/k/iki-meme-bir-popo-ya-vatan%C4%B1-satar%C4%B1m/ bkz ben
