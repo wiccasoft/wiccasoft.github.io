@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz iphone arka plana che guvera resmi koymak
 https://www.uludagsozluk.com/k/elinde-iphone-la-devrim-yapan-solcu-gen%C3%A7/&w=bg bkz ben
 bkz grup vitamin solistinin grup seks yaparken gruptan atılması
 bkz hulusi akarın bi gece şama akalım gitsin ne duruyoruz demesi
