@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz hulusi akarın bi gece şama akalım gitsin ne duruyoruz demesi
 bkz ısrar etme canım övdüm de geldim 
 https://www.uludagsozluk.com/k/radamel-%C3%A7%C3%B6pao/&w=bg bkz bi gülüşü var sanırsın çampiyonlar lügü
 https://www.uludagsozluk.com/k/esat-%C4%B1n-cami-duvar%C4%B1na-i%C5%9Femesi/ ben saldırıyorum beyler
