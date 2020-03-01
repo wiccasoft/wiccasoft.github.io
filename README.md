@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz kocaman yürekli adam 
 https://www.milliyet.com.tr/gundem/bahar-kalkani-harekatindan-yeni-goruntuler-6155966 sen de bunu yedin 
 bkz tangır budun doğanın gay klasöründeki asker fotolarını silen rus hacker
 bkz tangır budun doğanın gay klasöründen kaçakçı kurban.mp3 çıkması
