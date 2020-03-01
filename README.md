@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://twitter.com/karadagsilak/status/1233726348402790400 
+https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
+https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 
 bkz türklerin dronelarla dünyaya iyi bir ders vermesi
 https://eksisozluk.com/entry/102883905 bkz ceddin deden neslin dronelar
 bkz dronelarla dünyaya savaş öğreten ırk
@@ -10,9 +13,6 @@ bkz kürd olup kürdistanı desteklemeyen ezik kürd
 https://www.uludagsozluk.com/k/albaraka-t%C3%BCrk/ bkz safkan türk
 https://eksisozluk.com/adil-gur--1325210?a=popular bkz habertürkün kürtleri kışkırtması
 https://www.uludagsozluk.com/k/hz-osman/&w=bg bkz hz eyüpün amcası
-https://twitter.com/karadagsilak/status/1233726348402790400 
-https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
-https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 
 https://eksisozluk.com/1-mart-2020-sag-ele-gecirilen-suriye-askerleri--6390126?a=popular sende bunu yedin
 https://eksisozluk.com/tsknin-1-gunde-rejimin-icinden-gecmesi--6390627?a=popular sen de bunu yedin
 https://eksisozluk.com/turk-olup-kendi-ordu-ve-milletine-karsit-olmak--6390845?a=popular hassiktir lan türk
