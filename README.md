@@ -5,7 +5,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/godfrey-de-saint-erecto/ bkz aknonoş nickleri
 bkz excalibur from kazlıçeşme mossad peşinde olabilir excalibur
-bkz elamanın adı nurettin mavrothalassa diye nick almış
+bkz elamanın adı mahmut mavrothalassa diye nick almış
 bkz aknonoşların yabancı nick alma merakı
 https://mavrothalassa.uludagsozluk.com/ bkz feyizli bi abi
 https://eksisozluk.com/entry/102879583 esedçi engelle pampa
