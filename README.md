@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com bkz gördüğüm en absürd gay forum sitesi
 https://gine-babunu.uludagsozluk.com/  bkzkarı satıyom 100000 dolar kazanıyom öle yani
 https://www.uludagsozluk.com/e/42934608/ bkz yok mu arttıran
 bkz grup vitamin solistinin grup seksi bırakması
