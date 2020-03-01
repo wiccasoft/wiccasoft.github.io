@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz selçuk bayraktyarın ihalara türk kızını takalım düşman zaten kaçar demesi
 bkz selçuk bayraktarın ihaların ucna taramalı tayalım taraya taraya gitsin demesi
 bkz selçuk bayraktarın amerikayı vuran siha üzerinde çalışması
 https://www.uludagsozluk.com/k/siha-y%C4%B1-abd-nin-40-y%C4%B1ld%C4%B1r-kullanmas%C4%B1/
