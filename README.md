@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/entry/102879583 esedçi engelle pampa
 bkz ciddi ciddi dronelarla rusyayı korkutacağını sanan malum ırk
 https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular kimmmiş lan o gavat
 https://www.uludagsozluk.com/e/42935765/ tutmayın küçük enişteyi
