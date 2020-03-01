@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/dirk-nicolaas-advocaat/&w=bg bkz dicki tuttuk beyler ooley
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz ersunu kelimelere sığdırabilmek
 https://eksisozluk.com/ersun-yanal--126676?a=popular bkz anıları kelimeler dökmek
 https://www.uludagsozluk.com/k/%C5%9Fehidimize-hakaret/ bkz tayyibi güldüren olay
