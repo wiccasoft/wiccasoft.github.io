@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ canım hepsini toptan övdüm diyorum
 https://eksisozluk.com/entry/102858678  canım ısrar etme övdüm diyorum
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/ sağol canım övdüm de geldim
 bkz türklerin devlet memurlarını sürekli övmesi
