@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/dostum-putin-g%C3%B6klerden-gelen-bir-siha-vard%C4%B1r/ zuhahahah
 bkz iphone arka plana che guvera resmi koymak
 https://www.uludagsozluk.com/k/elinde-iphone-la-devrim-yapan-solcu-gen%C3%A7/&w=bg bkz ben
 bkz grup vitamin solistinin grup seks yaparken gruptan atılması
