@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz antenmanda göt kaslarını gösteren coolobiyalı
 https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurduk%C3%A7a-sava%C5%9Fa-hay%C4%B1r-diyen-tip/&w=bg
 https://www.uludagsozluk.com/k/nejat-yava%C5%9Fo%C4%9Fullar%C4%B1/&w=bg bkz yavaş mavaş ama adam
 bkz şamı kaç satte alırız sorunsalı
