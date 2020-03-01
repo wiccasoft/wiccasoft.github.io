@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz dronelarla dünyaya savaş öğreten ırk
 bkz kürd olup kürdistanı desteklemeyen ezik kürd
 https://www.uludagsozluk.com/k/albaraka-t%C3%BCrk/ bkz safkan türk
 https://eksisozluk.com/adil-gur--1325210?a=popular bkz habertürkün kürtleri kışkırtması
