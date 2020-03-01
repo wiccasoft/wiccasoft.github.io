@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz küçük eniştelere sorun
+https://eksisozluk.com/amerikanin-33-askeri-olse-ne-olurdu--6387417?focusto=102840395 
 https://eksisozluk.com/entry/102883939 tutmayın küçük enişteyi
 https://twitter.com/karadagsilak/status/1233726348402790400 
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
