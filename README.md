@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz aknonoşların bekçi maaşlarını az bulup emekli maaşlarına göz dikmesi
+bkz aknonoşların bekçi maaşları düzelsin diye emekli maaşları kaldırılsın önerisi
 https://www.uludagsozluk.com/k/godfrey-de-saint-erecto/ bkz aknonoş nickleri
 bkz aknonoşların operasyon çok gizli harekatını etryleriyle yön vermesi
 bkz excalibur from kazlıçeşme mossad peşinde olabilir excalibur
