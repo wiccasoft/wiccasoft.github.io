@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/fenerin-hocas%C4%B1-kim-olacak/&w=gd la amınferyatları adam gibi isim önerin
 https://www.uludagsozluk.com/k/fenerin-hocas%C4%B1-kim-olacak/ adam gibi adam sayın olm bunlar ne
 https://www.uludagsozluk.com/k/freddie-mercury/&w=bg olm ibnelere entry girmeyin lan adam mı kalmadı oçları
 bkz ekşicilerin beşer esed in askerlini esir alması
