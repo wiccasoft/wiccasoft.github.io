@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz terörikleri vurdukça chpkklıların kudurması
 bkz o değil de sihaların ucuna falcoyu takacan taraya taraya gidecek bro
 https://www.uludagsozluk.com/k/muzaffer-sherif/&w=bg bkz muzaffer giden yol okumaktan geçer
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz 150 mülyün yürü noldu len mq soktu mu anana golü
