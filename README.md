@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bkz cevabı zor sorular
+https://www.uludagsozluk.com/k/aykut-kocaman/&w=bg bkz kocaman yürekli adam
 https://diablo1987.uludagsozluk.com/ bkz geysaraylı eşcinsel
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz beş para etmez adamlara değer vermek
 bkz tangır budun doğanın paylaştığı kalpli gökkuşağı
