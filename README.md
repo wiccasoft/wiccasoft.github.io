@@ -3,8 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz alper potukun soyunma odasında seksi hareketler yapması
-bkz alper potukun teknik direktör istiyorum ulan demesi
+bkz alper potukun teknik direktör yokken soyunma odasında seksi hareketler yapması
 bkz alper potukun bekir irtegünün göğüs kıllarını yalaması
 bkz annesinni memesinde süt içen erkek bebek
 bkz bekir irtegünü öpmeye çalışan fanatik
