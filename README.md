@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42934723/ ben sena adam olamazsın eşek olursun dedim
 https://eksisozluk.com/fernando-muslera--2132214?a=popular bkz adam gibi adam füze at tutar
 https://www.uludagsozluk.com/k/vedat-muriqi/&w=bg bkz beş para etmwez adamlara değer vermek
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri/&w=bg bkz gay klasöründeki resimleri
