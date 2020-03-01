@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg ibne destan yazmış kim okuyacak lan bunları
 https://www.youtube.com/watch?v=EfAsNffCjsM kodumun eşcinselleri
 bkz türkiye size güzel götüne kodumun eşcinselleri
 bkz futbolcuya entry girerken kendinden geçen eşcinsel 
