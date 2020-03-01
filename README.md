@@ -5,6 +5,7 @@
 <!-- 
 bkz gözleri dolar şeklide gülen surat
 bkz ilerde türk abonelerden gelecek rant için şimdiden patriot taklidi yapmak
+https://www.uludagsozluk.com/k/29-ya%C5%9F%C4%B1na-geldi%C4%9Fi-halde-hi%C3%A7-sevgilisi-olmam%C4%B1%C5%9F-adam/ bkz + 13
 https://www.uludagsozluk.com/k/korgeneral-sinan-yayla/ eywolleeeeee selam ve dua ile
 https://www.uludagsozluk.com/k/s%C3%BCleyman-soylu/ eywallah brolar selam ve dua ile
 bkz türklerin devlet memurlarını sürekli övmesi
