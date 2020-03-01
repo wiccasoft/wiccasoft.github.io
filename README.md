@@ -12,6 +12,7 @@ bkz ak boyların sihalarla şamı almayı planlaması :)))))))))))))))))
 https://eksisozluk.com/entry/102878606 zuahhahahahahahahahahhahaha 
 bkz akboyların su-24 le f-16 karşılaştırma videoları izlerken gaza gelmesi
 https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular kimmmiş lan o gavat
+https://eksisozluk.com/corona-virusunun-hala-turkiyeye-gelmemis-olmasi--6390799?a=popular sen de bunu yedin
 -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
