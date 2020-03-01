@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Fuan-askerimizin-yaninda-olmak-isterim/
 bkz selçuk bayraktarın ukraynalı mücahitleri vuran iha üzerinde çalışması
 https://www.uludagsozluk.com/k/ukraynal%C4%B1-m%C3%BCcahitler/
 bkz kamalcıları etkilemek için ucuna taramalı bağlanmış drone yapmak
