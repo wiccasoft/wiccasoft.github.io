@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türkiye size güzel götüne kodumun eşcinselleri
 bkz futbolcuya entry girerken kendinden geçen eşcinsel 
 https://www.uludagsozluk.com/k/fernando-muslera/&w=bg bkz öyle böyle değil süper adam
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap-torunum-amerikal%C4%B1/&w=bg
