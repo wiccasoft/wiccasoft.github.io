@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz kimine cennet kimine cehennem
-bkz türkiyenin gay cenneti olduğu gerçeği
+bkz kimine cennet kimine cehennem selam ve dua ile
+bkz türkiyenin gay cenneti olduğu gerçeği selam ve dua ile
 https://www.uludagsozluk.com/k/iki-meme-bir-popo-ya-vatan%C4%B1-satar%C4%B1m/ bkz ben
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg boru gibi döşedi maşşallah
 https://www.uludagsozluk.com/k/suriyelilerin-t%C3%BCrkiyeyi-be%C4%9Fenmemesi/&w=bg lol
