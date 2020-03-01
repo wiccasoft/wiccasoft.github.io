@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türklerin yoğurt dışında insanlığa katkıları
 bkz yurtdışında siha getirtip türkleri kekleyen damat
 bkz kemalistlerin komunizm düşmanlığında hiç bişey üretememesi
 https://www.uludagsozluk.com/k/falih-r%C4%B1fk%C4%B1-atay-%C4%B1n-kom%C3%BCnistlere-e%C5%9Fk%C4%B1ya-demesi/
