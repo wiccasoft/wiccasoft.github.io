@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz atacücünün arkasında şeftali yiyen adam
 bkz mustafa kemal atadandoğan vs recep tayipten doğan arasındaki benzerlikler
 bkz grup vitamin solistinin sahneyi terk etmesi
 bkz rece tayyip erdoğanının ikinci kurtuluş savaşını başlatması
