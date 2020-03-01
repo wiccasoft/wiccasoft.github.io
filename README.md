@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/t%C3%BCrk-k%C4%B1z%C4%B1n%C4%B1-spora-nas%C4%B1l-te%C5%9Fvik-edebiliriz/&w=gd 97 yılına dön
 bkz selçuk bayraktarın amerikayı vuran siha üzerinde çalışması
 https://www.uludagsozluk.com/k/siha-y%C4%B1-abd-nin-40-y%C4%B1ld%C4%B1r-kullanmas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%A7e%C3%A7en-m%C3%BCcahitler/&w=bg yiğidolar
