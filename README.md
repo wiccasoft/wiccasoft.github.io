@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ekşicilerin beşer esed in askerlini esir alması
 https://www.uludagsozluk.com/k/aslolan-fenerbahce-dir/&w=bg ben yürüyorum beyler
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BC%C4%9F%C3%BCn-sevilme-sebepleri/ eşcinsel olması
 https://www.uludagsozluk.com/k/fatih-terim-i%C3%A7in-ka%C3%A7acak-diyen-fenerliler/&w=bg puahahah
