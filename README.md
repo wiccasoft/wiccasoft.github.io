@@ -5,6 +5,7 @@
 <!--
 bkz f35 le sihaları kaşılaştıran ergen
 bkz sihalarla ülke işgal edebileceğini sanan ergen
+bkz rusyada balistik misilleri görse altına sıçacak ergenlerin sihaları övmesi
 https://www.uludagsozluk.com/k/dostum-putin-g%C3%B6klerden-gelen-bir-siha-vard%C4%B1r/ zuhahahah
 bkz iphone arka plana che guvera resmi koymak
 https://www.uludagsozluk.com/k/elinde-iphone-la-devrim-yapan-solcu-gen%C3%A7/&w=bg bkz ben
