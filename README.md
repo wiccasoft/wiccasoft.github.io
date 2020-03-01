@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fehidimize-hakaret/ nöbetçiler yakalayın
 https://www.uludagsozluk.com/e/42934931/ 
 https://www.uludagsozluk.com/k/radamel-sikao/ olm siker bırakır bu sizi
 bkz sölzüklerdeki ak nonoşlar geysaraylılar fenerbahçeli eşcinseller niye buluşmuyorlar
