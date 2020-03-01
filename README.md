@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/fernando-muslera/&w=bg bkz ıstırırm yalarım bi de
 bkz tengir budun doğanın gay cenneti
 https://www.uludagsozluk.com/k/t%C3%BCrkiye/&w=bg bkz gay cenneti
 https://www.uludagsozluk.com/k/fernando-muslera/&w=bg bkz füze atsan tutar harika bi adam gibi adam
