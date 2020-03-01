@@ -4,6 +4,7 @@
 
 <!--
 bkz mahmutizm vs komunizm
+bkz türklerin sürekli birilerini övmesi
 bkz insan merkezli ideoloji seven ergenler
 bkz kemalizm varken komünizm batağındaki ergenler
 https://www.uludagsozluk.com/k/kom%C3%BCnizmin-ergen-ideolojisi-olmas%C4%B1/&w=bg bkz lenin ergendi olm
