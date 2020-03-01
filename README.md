@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz şaka maka iskenderun un yakında üssümüz oalcağı gerçeği
 bkz ak boylara gelişine çakmak için sabırsızlanmak
 bkz şaka maka ak boylar biraz daha gelsin diye beklemek
 bkz ak boyların esedin askerlerini canlı ele geçirmesi:)))))))))
