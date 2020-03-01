@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fehidimize-hakaret/ bkz tayyibi güldüren olay
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-%C3%B6ld%C3%BCr%C3%BCp-intihar-eden-adam/&w=bg
 https://www.uludagsozluk.com/k/ersun-un-yandan-almas%C4%B1/ bkz ersun yandanyemiş
 https://www.uludagsozluk.com/k/%C5%9Fehidimize-hakaret/ bkz tayyibin gülmesi
 https://www.uludagsozluk.com/k/1-mart-2020-ersun-yanal-ile-yollar%C4%B1n-ayr%C4%B1lmas%C4%B1/ 
