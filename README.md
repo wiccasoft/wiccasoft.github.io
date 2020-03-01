@@ -4,9 +4,9 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/elon-musk%C4%B1n-f35-a%C3%A7%C4%B1klamas%C4%B1/ lol
-bkz atacücünün arkasında şeftali yiyen adam
 bkz mustafa kemal atadandoğan vs recep tayipten doğan arasındaki benzerlikler
 bkz grup vitamin solistinin sahneyi terk etmesi
+bkz atacücünün arkasında şeftali yiyen adam
 bkz rece tayyip erdoğanının ikinci kurtuluş savaşını başlatması
 bkz grup vitamin deki ismailin gruptan ayrılması
 bkz en yakışıklı liderleri seçiyoruz kampanyası
