@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz mahmutizm vs komunizm
 bkz kemalizm varken komünizm batağındaki ergenler
 https://www.uludagsozluk.com/k/kom%C3%BCnizmin-ergen-ideolojisi-olmas%C4%B1/&w=bg bkz lenin ergendi olm
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/&w=bg
