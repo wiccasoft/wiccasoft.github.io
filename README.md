@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz boru gibi geçirdi yine fenevlilere
+bkz o değil de sihaların ucuna falcoyu takacan taraya taraya gidecek bro
 https://www.uludagsozluk.com/k/muzaffer-sherif/&w=bg bkz muzaffer giden yol okumaktan geçer
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/&w=bg bkz 150 mülyün yürü noldu len mq soktu mu anana golü
 https://www.uludagsozluk.com/k/ter%C3%B6ristleri-vurduk%C3%A7a-sava%C5%9Fa-hay%C4%B1r-diyen-tip/&w=bg
