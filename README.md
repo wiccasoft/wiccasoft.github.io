@@ -4,7 +4,6 @@
 
 <!-- 
 bkz tengir budunun askerlere eliyle kalp işareti yapması
-https://www.uludagsozluk.com/k/ba%C5%9Fka-bir-%C3%BClkeye-zorla-girmeye-%C3%A7al%C4%B1%C5%9Fan-yarat%C4%B1k/ lol
 https://www.uludagsozluk.com/k/sel%C3%A7uk-bayraktar/&w=bg saldırın beyler ölmemiş
 https://www.uludagsozluk.com/k/1-mart-2020-suriye-hava-sahas%C4%B1nda-%C3%A7ekilen-g%C3%B6r%C3%BCnt%C3%BC/ lol
 https://www.uludagsozluk.com/k/elon-musk%C4%B1n-f35-a%C3%A7%C4%B1klamas%C4%B1/ lol
