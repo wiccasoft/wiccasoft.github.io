@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ciddi ciddi dornelarla rusyayı korkutacağını sanan malum ırk
 https://eksisozluk.com/drone-uretip-savas-ucagi-yaptigini-sanmak--6390700?a=popular güldürür
 https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular kimmmiş lan o gavat
 https://www.uludagsozluk.com/e/42935765/ tutmayın küçük enişteyi
