@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/hulusi-akar-maresal-ilan-edilsin-kampanyasi--6390232?a=popular
 https://eksisozluk.com/tskgvye-bagis-yapiyoruz-kampanyasi--6390237?a=popular
 https://www.uludagsozluk.com/k/tskgv-ye-ba%C4%9F%C4%B1%C5%9F-yap%C4%B1yoruz-kampanyas%C4%B1/
 https://eksisozluk.com/kisa-boylu-deyince-akla-gelen-ilk-isim--6390435?a=popular bkz kısa boylu erkekler
