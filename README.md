@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz asker kaçağı 31 ci ergenlerin güldürmesi
 https://eksisozluk.com/entry/102874214 bkz tutmayın küçük enişteyi
 bkz ak boyların sihalarla şamı almayı planlaması :)))))))))))))))))
 https://eksisozluk.com/entry/102878606 zuahhahahahahahahahahhahaha 
