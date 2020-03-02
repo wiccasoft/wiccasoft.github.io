@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6lene-kadar-seninim-diyen-s%C3%B6zl%C3%BCk-k%C4%B1z%C4%B1/&w=bg bkz sekhmet07
 https://www.uludagsozluk.com/k/beni-seveni-mi-seveyim-sevdi%C4%9Fimi-mi/&w=bg sekhmetcim en iyilerine layıksın sen karar ver
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg babacan adam
 bkz kelle cenazesinde sırıttım diye bahçelinin küsmesi
