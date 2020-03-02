@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular bkz habertürk horgör yayını
 https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz 1 mart habertürk horgör yayını
 bkz küçük eniştelere sorun
 https://eksisozluk.com/entry/102780184 
