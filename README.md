@@ -17,7 +17,7 @@ https://www.uludagsozluk.com/k/t%C3%BCrkiyedeki-b%C3%BCt%C3%BCn-erkek-surileri-a
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330
 bkz aknonoşarın twitterdan gündemi değiştiridği sanması
-https://eksisozluk.com/yunan-askeri-tarafindan-oldurulen-suriyeli-gocmen--6391862?a=popular bkz aknonoşların çalışması
+https://eksisozluk.com/yunan-askeri-tarafindan-oldurulen-suriyeli-gocmen--6391862?a=popular bkz aknonoşların güldürmesi
 https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular vereceksiniz
 https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular 
 https://www.uludagsozluk.com/k/rus-kahpesi/ hayallerde yaşıyor bazı çomarlar
