@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz bahcelinin kılıştarın eline tokat atması
+bkz bahcelinin kılıştarın eline tokat atıp şehitlerin hesabını ver demesi
 bkz iyesta sertin cüneyt arkın hayranlığı
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-el-s%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/
 https://www.uludagsozluk.com/e/42936957/ bkz bahçelinin kılıştarın elini sıkmaması-->
