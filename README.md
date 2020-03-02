@@ -4,7 +4,7 @@
 
 <!-- 
 bkz çukur vuruşma sahnesinde ay diyen kanka
-bkz tayyibin gülerek bok yoluna gitti ziyaziler demesi 
+bkz tayyibin gülerek bok yoluna gitti niyaziler demesi 
 bkz muslereanın şehitlere para fırlatıp kesin lan zırlamayı demesi
 https://www.uludagsozluk.com/k/chp-nin-hdp-lilerin-eline-ge%C3%A7mesi/&w=bg
 https://www.uludagsozluk.com/k/malazgirt-te-ne-i%C5%9Fimiz-var/
