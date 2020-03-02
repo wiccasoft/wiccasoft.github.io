@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-Putin explained him how to grab power, hooked him on the energy line, s
-old Nato-Turkey S-400 installations and Russia sure as hell won't give up its Syria-based fleet.
+Putin explained him how to grab power, hooked him on the energy line, 
+sold Nato-Turkey S-400 installations and Russia sure as hell won't give up its Syria-based fleet.
 Turkey is playing For America and Israel.. That's not good for Turkey..
 Turkey attack on Syria. Russia coming to rescue Syria and start air strikes 
 Turkey : Help us NATO 
