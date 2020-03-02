@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+nkz melonun bahçeliye yaptığı harket
 https://www.uludagsozluk.com/k/ersun-yanal/
 https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg
 bkz suni gündem yaratılıyor.. duyar kasılıyor..
