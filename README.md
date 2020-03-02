@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz osmanlı torunu olup tayyipi tutmamak
 https://eksisozluk.com/adil-gur--1325210?a=popular bkz adil kullanım kotası
 bkz 1 mart 2020 celal kılıçtaroğlanın rusların tarafına geçmesi
 https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular bkz habertürk horgör yayını
