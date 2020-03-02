@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/e/42938550/ she's right
 bkz excalibur from kazlıçeşme
+https://www.uludagsozluk.com/e/42938550/ she's right
 bkz ekşide toğlaşan 19-24-29 yaşındaki ultra özgüvenli 80 iqlu aknonoşlar
 bkz yaşın kaç senin ha yaşın kaç diyen ergene 42 demek
 https://frank-lucas.uludagsozluk.com/ bkz aknonoşların aldığı yabancı nickler
