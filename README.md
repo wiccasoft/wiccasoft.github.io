@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz rusyanın yine haklı çıkması
 bkz trt world ün pkk lı spikerleri :))))
 https://www.youtube.com/watch?v=lpHlpzxeAXc let's see WAHAPANS next :D
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-dan-suriye-de-ne-i%C5%9Fimiz-var-diyenlere-ayar/
