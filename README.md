@@ -2,8 +2,10 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/k/ersun-yanal/&w=gd kelimelere sığmayacak anılar
- yine gel ersun hoca özleyecez seni -->
+<!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-146-galatasaray-124/
+https://www.uludagsozluk.com/k/ersun-yanal/&w=gd kelimelere sığmayacak anılar
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
