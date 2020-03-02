@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz alagavat isimli kızla rakı içmek
 bkz ben mi gigi hadid mi diye soran çirkin kız
 bkz sahi ben patlak mıyım diye soran çirkin kız
 bkz sahş ya ajdar vardı noldu ona söyleyin bana nolduuuuuuuu
