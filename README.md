@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-sade-tayyip-diyenler-tutuklans%C4%B1n/&w=bg
 bkz 42 yaşında türkler fakir diyen amerikalı büyük yaraklı erkek
 https://www.uludagsozluk.com/e/42938550/ she's right
 bkz ekşide toğlaşan 19-24-29 yaşındaki ultra özgüvenli 80 iqlu aknonoşlar
