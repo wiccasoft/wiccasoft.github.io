@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz iyesta sertin cüneyt arkın hayranlığı
 bkz cüneyt arkının türklerin öldürmeyin diye ağlaması
 https://www.uludagsozluk.com/e/42936957/ bkz bahçelinin kılıştarın elini sıkmaması-->
 
