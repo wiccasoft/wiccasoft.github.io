@@ -2,12 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-bkz israilin kuklası olan malum ülke
-bkz bütün dünyanın taşşak malzemesi olan ülke
-https://www.uludagsozluk.com/e/42922602/ 
-https://www.youtube.com/watch?v=OIOqFBa7htQ 
---->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
