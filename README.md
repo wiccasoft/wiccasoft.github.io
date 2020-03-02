@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg atacücünün başına gelen geberme
 https://www.uludagsozluk.com/k/bernie-sanders/&w=bg obamanın karşısında şansı yok
 bkz türk askerleri geberdikçe keyfe gelmek
 https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis şaka lan şaka
