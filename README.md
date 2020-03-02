@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/iz-b%C4%B1rakan-atakan-kayalar-s%C3%B6zleri/
 The Deep state just love their 33 code!
 that 33rd degree masonic symbolism never fails, the plebs will never understand these evil freaks.
 CNN be like... How can we blame Trump for this?
