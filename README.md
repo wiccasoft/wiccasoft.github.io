@@ -4,8 +4,6 @@
 
 <!-- 
 bkz ajdarı arayıp sahi unuttun mu beni şapşik demek
-bkz bana ajdarı bulun ulannnnnn sahi ya napıyopdur şimdi bensiz
-bkz sahi ya bi ajdar vardı noldu ona bi arasak mı kankağ aloo orası ajdar mı gülüm
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya noldu ona
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=bg alala niye girdiniz acaba
 bkz sahi ya bi mehmetçik vardı noldu ona
