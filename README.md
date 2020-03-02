@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular 42 -  24
 https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bkz filozof diyeceksiniz
 bkz melonun suriye harekatı için yaptığı hareket
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/ bkz gol makinası
