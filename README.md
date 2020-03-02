@@ -4,7 +4,7 @@
 
 <!-- 
 bkz duyar kasılıyor..
-https://www.uludagsozluk.com/k/suriye-arap-ordusu/&w=bg amı götü dağıttılar beyler bir gece ansızın şam
+https://www.uludagsozluk.com/k/suriye-arap-ordusu/&w=bg bkz bir gece ansızın şam
 https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n-%C4%B1n-%C5%9Fehitlerimiz-i%C3%A7in-a%C4%9Flamas%C4%B1/ 
 -->
 
