@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz sahi ya bi mehmetçik vardı noldu ona
 bkz 3 mart 2020 bi kelle nin daha gebermesi
 https://www.uludagsozluk.com/k/3-mart-2020-idlip-te-1-%C5%9Fehit/ wohooo süper haberler geliyo yine
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya napıyodur şimdi
