@@ -5,7 +5,6 @@
 <!-- 
 bkz çukur vuruşma sahnesinde ay diyen kanka
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vuruşmaktan korkan erkek
-https://www.uludagsozluk.com/k/abisinden-hamile-kalan-k%C4%B1z/&w=bg bkz içinmde mölen biyi vay abiy diyen kız
 bkz tayyibin gülerek bok yoluna gitti ziyaziler demesi 
 bkz muslereanın şehitlere para fırlatıp kesin lan zırlamayı demesi
 https://www.uludagsozluk.com/k/chp-nin-hdp-lilerin-eline-ge%C3%A7mesi/&w=bg
