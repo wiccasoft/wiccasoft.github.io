@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kelle cenazesinde sırıttım diye bahçelinin küsmesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
 https://www.uludagsozluk.com/k/yunan-askerlerinin-a-haber-e-ate%C5%9F-a%C3%A7mas%C4%B1/
 bkz bahcelinin kılıştarın eline tokat atıp şehitlerin hesabını ver demesi
