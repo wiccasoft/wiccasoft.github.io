@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/iyi-erkeklerin-kap%C4%B1lm%C4%B1%C5%9F-olmas%C4%B1/&w=gd bkz ajdar
 bkz ajdarı arayıp sahi unuttun mu beni şapşik demek
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya noldu ona
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=bg alala niye girdiniz acaba
