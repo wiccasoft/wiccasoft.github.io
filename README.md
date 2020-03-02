@@ -2,13 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-bkz yazdıkları okunuyormuş gibi entrygiren embesiller
-bkz ak nonoşların türkler geberdikçe üzüldüğümüzü sanmaları
-https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg atacücünün başına gelen geberme
-https://www.uludagsozluk.com/k/bernie-sanders/&w=bg obamanın karşısında şansı yok
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis şaka lan şaka -->
-
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
