@@ -3,7 +3,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-vkz cüneyt cüreklübatur şehitler için ağlaması
 bkz excalibur from kazlıçeşme
 bkz erkek surileri eve atıp yalamak
 bkz gay pornosu yerine çukur izlemek
@@ -12,6 +11,8 @@ bkz vuruşma sahnelerinde ay diyen erkek
 bkz beraber hırtlar vadisi izleyeck seyfo dayı aramak
 bkz çukur izlerken arkadaşın götünü parmaklamak
 bkz aknonoşların bulduğu mobile.twitter videoları
+bkz cüneyt cüreklübatur şehitler için ağlaması
+bkz muslere nın şehitlere para fırlatıp kesin lan demesi
 https://www.uludagsozluk.com/k/t%C3%BCrkiyedeki-b%C3%BCt%C3%BCn-erkek-surileri-asker-yapmak/
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330
