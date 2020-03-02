@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ajdarı arayıp sahi unuttun mu beni şapşik demek
 bkz bana ajdarı bulun ulannnnnn sahi ya napıyopdur şimdi bensiz
 bkz sahi ya bi ajdar vardı noldu ona bi arasak mı kankağ aloo orası ajdar mı gülüm
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya noldu ona
