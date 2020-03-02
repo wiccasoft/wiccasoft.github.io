@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz ben patlakmıyım diye soran kız
+bkz sahi ben patlak mıyım diye soran kız
 bkz sahş ya ajdar vardı noldu ona söyleyin bana nolduuuuuuuu
 bkz sahi ya bi ajdar vardı şimdi yok seni kimler aldı ajdar kimler öpüyo seni
 https://www.uludagsozluk.com/k/onu-hala-sevmek/ ajdarı mı
