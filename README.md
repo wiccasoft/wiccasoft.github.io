@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz atatürkgün geberdiği askerlerinin de daha çok gebereceği gerçeği
+bkz atatürk askerleri geberdikçe neşeden çıldırmak 
+bkz atatürkün geberdiği askerlerinin de daha çok gebereceği gerçeği
 bkz türkler geberdikçe üzüldüğümüzü sanan ak nonoşlar
 https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg bkz atacücünün başına gelen hadise -->
 
