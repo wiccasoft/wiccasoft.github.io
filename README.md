@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+bkz aknonoşarın twitterdan gündemi değiştiridği sanması
 https://eksisozluk.com/yunan-askeri-tarafindan-oldurulen-suriyeli-gocmen--6391862?a=popular bkz aknonoşların çalışması
 https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular vereceksiniz
 https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular 
