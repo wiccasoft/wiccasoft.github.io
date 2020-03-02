@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi  noldu ona görükmüyo
+https://www.uludagsozluk.com/k/onu-hala-sevmek/ ajdarı mı
+https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg s
 bkz sahi ya bir mümtaz türköne vardı noldu ona
 bkz çanankkale savaşı vs idlibe meydan muharebesi
 https://www.uludagsozluk.com/k/%C3%A7anakkale-sava%C5%9F%C4%B1yla-idlibi-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1ran-%C5%9Fah%C4%B1s/&w=bg
