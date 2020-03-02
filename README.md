@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz receğ tayyiğ erdoğanın isralin kuklasıyım ama bi sroun neden demesi
 bkz kulisleri çalkalayan iddaların yeni yeni gelmesi
 bkz iyesta sertin cüneyt arkın hayranlığı
 bkz cüneyt arkının türklerin öldürmeyin diye ağlaması
