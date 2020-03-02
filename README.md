@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+Finally i will get to see some serious fireworks
 The Deep state just love their 33 code!
 that 33rd degree masonic symbolism never fails, the plebs will never understand these evil freaks.
 CNN be like... How can we blame Trump for this?
