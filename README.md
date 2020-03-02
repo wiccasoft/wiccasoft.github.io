@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+bk<z vuruşma sahnelerinde ay diyen erkek
 bkz hırtlar vadisi izlerken arkadaşı emciklemek
 bkz çukur izlerken arkadaşın götünü parmaklamak
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
