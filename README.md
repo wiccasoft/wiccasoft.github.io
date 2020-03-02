@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bkz filozof diyeceksiniz
 bkz melonun suriye harekatı için yaptığı hareket
 https://www.uludagsozluk.com/k/radamel-falcao-garcia/ bkz gol makinası
 bkz fenerin yeni hocası atakan olsun kampanyası
