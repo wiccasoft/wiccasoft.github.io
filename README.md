@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz celal şengörün oğlan yollim çift kale maç yapın demesi
+bkz imamoğlanın babasının oğlanı yollim çift kale maç yyapın demesi
 bkz olm bak git denilen ergenin coşması
 bkz oya şengörün celal şengörü sakinleştirmesi
 bkz ne bu şiddet ırkıma bu kin sana olmaz hakkım helal diyen ergene siggi git olm demek
