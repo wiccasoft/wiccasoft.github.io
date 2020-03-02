@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://eksisozluk.com/entry/102886760 o değilde hatayı verin olayı tatlıya bağlayalım artık
+https://eksisozluk.com/entry/102886760 hatayı verin olayı tatlıya bağlayalım artık
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 bkz olm bak git denilen ergenin coşması
 bkz oya şengörün celal şengörü sakinleştirmesi
