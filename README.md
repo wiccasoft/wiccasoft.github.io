@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330
 bkz aknonoşarın twitterdan gündemi değiştiridği sanması
 https://eksisozluk.com/yunan-askeri-tarafindan-oldurulen-suriyeli-gocmen--6391862?a=popular bkz aknonoşların çalışması
 https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular vereceksiniz
