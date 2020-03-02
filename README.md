@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ajdarı unutamamak sahi ya noldu ona
 https://www.uludagsozluk.com/k/onu-hala-sevmek/ ajdarı mı
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg s
 bkz sahi ya bir mümtaz türköne vardı noldu ona
