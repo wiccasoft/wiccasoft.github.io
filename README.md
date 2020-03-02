@@ -14,50 +14,6 @@ https://www.uludagsozluk.com/k/abisinden-hamile-kalan-k%C4%B1z/&w=bg bkz içinde
 https://www.uludagsozluk.com/k/norm-ender-in-sava%C5%9F-tweeti/ keltoç savaşa koç
 bkz cüneyt arkın türklerin kelleri için ağlaması
 https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n-%C4%B1n-%C5%9Fehitlerimiz-i%C3%A7in-a%C4%9Flamas%C4%B1/
-bkz excalibur from kazlıçeşme
-bkz erkek surileri eve atıp yalamak
-bkz gay pornosu yerine çukur izlemek
-bkz çukur vuruşma sahnesi izlerken babanın odaya girmesi
-bkz vuruşma sahnelerinde ay diyen erkek
-bkz beraber hırtlar vadisi izleyeck seyfo dayı aramak
-bkz çukur izlerken arkadaşın götünü parmaklamak
-bkz aknonoşların bulduğu mobile.twitter videoları
-bkz cüneyt cüreklübatur şehitler için ağlaması
-bkz muslera nın şehitlere para fırlatıp kesin lan zırlamayı demesi
-https://www.uludagsozluk.com/k/t%C3%BCrkiyedeki-b%C3%BCt%C3%BCn-erkek-surileri-asker-yapmak/
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
-https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330
-bkz aknonoşarın twitterdan gündemi değiştiridği sanması
-https://eksisozluk.com/yunan-askeri-tarafindan-oldurulen-suriyeli-gocmen--6391862?a=popular bkz aknonoşların güldürmesi
-https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular vereceksiniz
-https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular 
-https://www.uludagsozluk.com/k/rus-kahpesi/ hayallerde yaşıyor bazı çomarlar
-https://eksisozluk.com/christoph-daum--93099?a=popular 
-https://eksisozluk.com/daniel-sturridge--1904350?a=popular 
-https://eksisozluk.com/yakisikli-erkeklerle-genelde-metroda-karsilasmak--5657405?a=popular
-https://www.uludagsozluk.com/k/israilin-g%C3%BCvenli%C4%9Fi-i%C3%A7in-esad-devrilmeli/ hayallerde yaşıyor hillary
-https://www.uludagsozluk.com/k/dolar-6-22-ye-inince-suspus-olan-ulucu/
-https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-sade-tayyip-diyenler-tutuklans%C4%B1n/&w=bg
-bkz 42 yaşında türkler fakir diyen israilli büyük yaraklı erkek
-https://www.uludagsozluk.com/e/42938550/ she's right
-bkz ekşide toğlaşan 19-24-29 yaşındaki ultra özgüvenli 80 iqlu aknonoşlar
-bkz yaşın kaç senin ha yaşın kaç diyen ergene 42 demek
-https://frank-lucas.uludagsozluk.com/ bkz aknonoşların aldığı yabancı nickler
-https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular 42 - 24
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
-https://eksisozluk.com/12-yasindaki-suriyelinin-turkiye-pis-fakir-demesi--6391762?a=popular
-bkz melonun musleraya yaptığı hareket
-https://www.uludagsozluk.com/k/ersun-yanal/
-https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg
-bkz suni gündem yaratılıyor.. duyar kasılıyor..
-bkz darth vaderin bill gatesin elini sıkmaması
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
-https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/ alala neden acaba
-https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular
-https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular bkz gerizekalı
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
-https://www.uludagsozluk.com/k/suriye-arap-ordusu/&w=bg bkz bir gece ansızın şam
-https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n-%C4%B1n-%C5%9Fehitlerimiz-i%C3%A7in-a%C4%9Flamas%C4%B1/ 
 -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
