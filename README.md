@@ -4,7 +4,6 @@
 
 <!-- 
 bkz sahi ya bir mümtaz türköne vardı noldu ona
-https://www.uludagsozluk.com/k/sence-ben-g%C3%BCzel-miyim-diye-soran-%C3%A7irkin-k%C4%B1z/&w=bg bkz sekhmet07
 bkz çanankkale savaşı vs idlibe meydan muharebesi
 https://www.uludagsozluk.com/k/%C3%A7anakkale-sava%C5%9F%C4%B1yla-idlibi-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1ran-%C5%9Fah%C4%B1s/&w=bg
 https://www.uludagsozluk.com/k/iyi-erkeklerin-kap%C4%B1lm%C4%B1%C5%9F-olmas%C4%B1/&w=gd bkz ajdar
