@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/aleynababa/
 bkz 2009+11 2020 yapar koyduk mu oç ları
 bkz şaka maka 4 marta 11. yılıma basıyorum doğum günü partisi fena olacak gencolar
 https://www.uludagsozluk.com/k/ger%C3%A7ek-ya%C5%9F-vs-hissedilen-ya%C5%9F/&w=bg  10 - 42
