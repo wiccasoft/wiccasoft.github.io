@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+Erdogan is pushing Turkey to be the next playground of western war mongering countries.
 Putin explained him how to grab power, hooked him on the energy line, 
 sold Nato-Turkey S-400 installations and Russia sure as hell won't give up its Syria-based fleet.
 Turkey is playing For America and Israel.. That's not good for Turkey..
@@ -13,7 +14,6 @@ Turkey : we are sending refugees
 NATO : ok wait , we have to collect the refugees then start the war with Russia which you ( Turkey) want .
 Russia : Let finish it . which you started
 Erdogan: Mr Putin, you sold me fake S-400! We just tried to shoot your Su-27 and it didn't work :( 
-Erdogan is pushing Turkey to be the next playground of western war mongering countries.
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/1007/
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=gd
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/
