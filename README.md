@@ -4,7 +4,7 @@
 
 <!-- 
 bkz suni gündem yaratılıyor.. duyar kasılıyor..
-https://www.uludagsozluk.com/k/muslera-n%C4%B1n-maa%C5%9F%C4%B1n%C4%B1-%C5%9Fehit-ailelerine-ba%C4%9F%C4%B1%C5%9Flamas%C4%B1/ bkz gerizekalı
+https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular bkz gerizekalı
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
 https://www.uludagsozluk.com/k/suriye-arap-ordusu/&w=bg bkz bir gece ansızın şam
 https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n-%C4%B1n-%C5%9Fehitlerimiz-i%C3%A7in-a%C4%9Flamas%C4%B1/ 
