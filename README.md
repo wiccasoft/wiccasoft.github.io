@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya napıyodur şimdi
 bkz bahçelinin çak bi beşlik anlamında kılıştarın eline vurduğu gerçeği
 bkz bahcelin kılıştarın eline tokat atmasının yanlış anlaşıldığı gerçeği
 bkz bahcelinin kellelerin hesabını ver diyip kılıştarın eline tokat atması
