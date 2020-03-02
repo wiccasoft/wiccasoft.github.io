@@ -6,6 +6,7 @@
 https://eksisozluk.com/entry/102886760 o değil de hatayı verin olayı tatlıya bağlayalım artık
 https://eksisozluk.com/entry/102883939 tutmayın küçük enişteyi
 https://twitter.com/karadagsilak/status/1233726348402790400 
+https://eksisozluk.com/entry/102780184 bkz küçük eniştelere sorun
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular
 https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular
 https://eksisozluk.com/adil-gur--1325210?a=popular bkz habertürkün kürtleri kışkırtması
