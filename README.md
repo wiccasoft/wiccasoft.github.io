@@ -5,15 +5,8 @@
 <!-- 
 bkz çukur vuruşma sahnesinde ay diyen kanka
 bkz tayyibin gülerek bok yoluna gitti niyaziler demesi 
-bkz muslereanın şehitlere para fırlatıp kesin lan zırlamayı demesi
-https://www.uludagsozluk.com/k/chp-nin-hdp-lilerin-eline-ge%C3%A7mesi/&w=bg
-https://www.uludagsozluk.com/k/malazgirt-te-ne-i%C5%9Fimiz-var/
+bkz musleranın şehitlere para fırlatıp kesin lan zırlamayı demesi
 bkz cüneyt arkının yeter ya türkleri öldürmeyin diyip ağlaması
-bkz iyesta nonoşunun cüneyt arkın hayranlığı
-https://www.uludagsozluk.com/k/abisinden-hamile-kalan-k%C4%B1z/&w=bg bkz içinde ölen biri olan kız
-https://www.uludagsozluk.com/k/norm-ender-in-sava%C5%9F-tweeti/ keltoç savaşa koç
-bkz cüneyt arkın türklerin kelleri için ağlaması
-https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n-%C4%B1n-%C5%9Fehitlerimiz-i%C3%A7in-a%C4%9Flamas%C4%B1/
 -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
