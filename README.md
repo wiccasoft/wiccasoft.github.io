@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz oya şengörün celal şengörü sakinleştirmesi
 bkz olm bak git denilen ergenin coşması
 bkz ne bu şiddet ırkıma bu kin sana olmaz hakkım helal diyen ergene siggi git olm demek
 bkz osmanlı torunu olup tayyipi tutmamak
