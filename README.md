@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/yazilimcilarin-kendini-onemli-biri-sanmalari--6391032?a=popular hele yarrama bah hele
 https://www.youtube.com/watch?v=lpHlpzxeAXc let's see WAHAPANS next :D
 https://www.youtube.com/watch?v=oYRQD5g928A hele yarrama bak hele
 https://eksisozluk.com/entry/102886760 o değil de hatayı verin olayı tatlıya bağlayalım artık
