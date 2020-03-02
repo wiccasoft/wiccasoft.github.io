@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz aknonoşların aldığı yabancı nickler
+https://eksisozluk.com/12-yasindaki-suriyelinin-turkiye-pis-fakir-demesi--6391762?a=popular
 bkz melonun musleraya yaptığı hareket
 https://www.uludagsozluk.com/k/ersun-yanal/
 https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg
