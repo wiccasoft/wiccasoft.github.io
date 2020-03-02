@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz yazdıkları okunuyormuş gibi entrygiren embesiller
 bkz ak nonoşların türkler geberdikçe üzüldüğümüzü sanmaları
 https://www.uludagsozluk.com/k/sirozdan-gebermek/&w=bg atacücünün başına gelen geberme
 https://www.uludagsozluk.com/k/bernie-sanders/&w=bg obamanın karşısında şansı yok
