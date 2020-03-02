@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz receğ tayyiğ erdoğanın isralin kuklasıyım ama bi sroun neden demesi
-bkz kulisleri çalkalayan iddaların yeni yeni gelmesi
+bkz receğ tayyiğ erdoğanın isralin kuklasıyım ama bi sorun neden demesi
+bkz bahcelinin kulşisten kılıştarla çay içmesi
 bkz iyesta sertin cüneyt arkın hayranlığı
 bkz cüneyt arkının türklerin öldürmeyin diye ağlaması
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-el-s%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/
