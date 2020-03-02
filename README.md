@@ -3,8 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kulisleri çalkalayan iddaların yeni yeni gelmesi
 bkz iyesta sertin cüneyt arkın hayranlığı
 bkz cüneyt arkının türklerin öldürmeyin diye ağlaması
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-el-s%C4%B1kmamas%C4%B1n%C4%B1n-sebebi/
 https://www.uludagsozluk.com/e/42936957/ bkz bahçelinin kılıştarın elini sıkmaması-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
