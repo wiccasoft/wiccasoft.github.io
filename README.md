@@ -5,6 +5,7 @@
 <!-- 
 bkz excalibur from kazlıçeşme
 bkz erkek surileri eve atıp yalamak
+bkz çukur vuruşma sahnesi izlerken babanın odaya girmesi
 bkz vuruşma sahnelerinde ay diyen erkek
 bkz beraber hırtlar vadisi izleyeck seyfo dayı aramak
 bkz çukur izlerken arkadaşın götünü parmaklamak
