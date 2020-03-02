@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/abisinden-hamile-kalan-k%C4%B1z/&w=bg bkz içinde ölen biri olan kız
 https://www.uludagsozluk.com/k/norm-ender-in-sava%C5%9F-tweeti/ keltoç savaşa koç
 bkz cüneyt arkın türklerin kelleri için ağlaması
 https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n-%C4%B1n-%C5%9Fehitlerimiz-i%C3%A7in-a%C4%9Flamas%C4%B1/
