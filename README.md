@@ -4,18 +4,6 @@
 
 <!-- 
 https://eksisozluk.com/entry/102886760 o değil de hatayı verin olayı tatlıya bağlayalım artık
-bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-bkz olm bak git denilen ergenin coşması
-bkz oya şengörün celal şengörü sakinleştirmesi
-bkz ne bu şiddet ırkıma bu kin sana olmaz hakkım helal diyen ergene olm bak git demek
-bkz osmanlı torunu olup tayyipi tutmamak
-https://eksisozluk.com/adil-gur--1325210?a=popular bkz adil kullanım kotası
-bkz 1 mart 2020 celal kılıçtaroğlanın rusların tarafına geçmesi
-https://eksisozluk.com/fenerbahcenin-yeni-teknik-direktoru--3850997?a=popular bkz habertürk horgör yayını
-https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz 1 mart habertürk horgör yayını
-bkz küçük eniştelere sorun
-https://eksisozluk.com/entry/102780184 
-https://eksisozluk.com/amerikanin-33-askeri-olse-ne-olurdu--6387417?focusto=102840395 
 https://eksisozluk.com/entry/102883939 tutmayın küçük enişteyi
 https://twitter.com/karadagsilak/status/1233726348402790400 
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
