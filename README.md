@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg vurduruyordur
 https://frank-lucas.uludagsozluk.com/ bkz aknonoşların aldığı yabancı nickler
 https://eksisozluk.com/12-yasindaki-suriyelinin-turkiye-pis-fakir-demesi--6391762?a=popular
 bkz melonun musleraya yaptığı hareket
