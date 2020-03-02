@@ -4,9 +4,11 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+bkz erkek surileri eve atıp yalamak
 bk<z vuruşma sahnelerinde ay diyen erkek
 bkz hırtlar vadisi izlerken arkadaşı emciklemek
 bkz çukur izlerken arkadaşın götünü parmaklamak
+https://www.uludagsozluk.com/k/t%C3%BCrkiyedeki-b%C3%BCt%C3%BCn-erkek-surileri-asker-yapmak/
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330
 bkz aknonoşarın twitterdan gündemi değiştiridği sanması
