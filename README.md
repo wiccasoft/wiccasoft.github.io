@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz cüneyt arkının yeter ya türkleri öldürmeyin diyip ağlaması
 bkz iyesta nonoşunun cüneyt arkın hayranlığı
 https://www.uludagsozluk.com/k/abisinden-hamile-kalan-k%C4%B1z/&w=bg bkz içinde ölen biri olan kız
 https://www.uludagsozluk.com/k/norm-ender-in-sava%C5%9F-tweeti/ keltoç savaşa koç
