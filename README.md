@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz atakan nın hiç yurtdışı savaşı yapmaması
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg look at the table
 anarchist since 4 mart 1978 
 Finally i will get to see some serious fireworks
