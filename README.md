@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/1007/
+https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/
 https://eksisozluk.com/yazilimcilarin-kendini-onemli-biri-sanmalari--6391032?a=popular hele yarrama bah hele
 https://www.youtube.com/watch?v=lpHlpzxeAXc let's see WAHAPANS next :D
 https://www.youtube.com/watch?v=oYRQD5g928A hele yarrama bak hele
