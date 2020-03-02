@@ -4,6 +4,13 @@
 
 <!-- 
 Turkey is playing For America and Israel.. That's not good for Turkey..
+Turkey attack on Syria. Russia coming to rescue Syria and start air strikes 
+Turkey : Help us NATO 
+NATO : No 
+Turkey : we are sending refugees
+NATO : ok wait , we have to collect the refugees then start the war with Russia which you ( Turkey) want .
+Russia : Let finish it . which you started
+Erdogan: Mr Putin, you sold me fake S-400! We just tried to shoot your Su-27 and it didn't work :( 
 Erdogan is pushing Turkey to be the next playground of western war mongering countries.
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/1007/
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=gd
