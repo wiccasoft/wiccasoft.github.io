@@ -4,7 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
-bkz 42 uyaşında türkler fakir diyen amerikalı büyük yaraklı erkek
+bkz 42 yaşında türkler fakir diyen amerikalı büyük yaraklı erkek
 https://www.uludagsozluk.com/e/42938550/ she's right
 bkz ekşide toğlaşan 19-24-29 yaşındaki ultra özgüvenli 80 iqlu aknonoşlar
 bkz yaşın kaç senin ha yaşın kaç diyen ergene 42 demek
