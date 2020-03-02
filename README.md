@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz receğ tayyiğ erdoğanın dünya savaşı çıkaracam sabredin demesi
+bkz receğ tayyiğ erdoğanın 3. dünya savaşını başlatacam sabredin demesi
 bkz receğ tayyiğ erdoğanın isralin kuklasıyım ama bi sorun neden demesi
 bkz bahcelinin kulşisten kılıştarla çay içmesi
 bkz iyesta sertin cüneyt arkın hayranlığı
