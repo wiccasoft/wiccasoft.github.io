@@ -4,6 +4,7 @@
 
 <!-- 
 bkz küçük eniştelere sorun
+https://eksisozluk.com/entry/102780184 
 https://eksisozluk.com/amerikanin-33-askeri-olse-ne-olurdu--6387417?focusto=102840395 
 https://eksisozluk.com/entry/102883939 tutmayın küçük enişteyi
 https://twitter.com/karadagsilak/status/1233726348402790400 
