@@ -4,6 +4,7 @@
 
 <!-- 
 anarchist since 4 mart 1978 
+https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular sen  de bunu yedin
 https://www.uludagsozluk.com/k/iz-b%C4%B1rakan-atakan-kayalar-s%C3%B6zleri/
 The Deep state just love their 33 code!
 that 33rd degree masonic symbolism never fails, the plebs will never understand these evil freaks.
