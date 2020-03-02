@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/abisinden-hamile-kalan-k%C4%B1z/&w=bg bkz içinmde mölen biyi vay abiy diyen kız
 bkz tayyibin gülerek bok yoluna gitti ziyaziler demesi 
 bkz muslereanın şehitlere para fırlatıp kesin lan zırlamayı demesi
 https://www.uludagsozluk.com/k/chp-nin-hdp-lilerin-eline-ge%C3%A7mesi/&w=bg
