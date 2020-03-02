@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg
 bkz suni gündem yaratılıyor.. duyar kasılıyor..
 bkz devlet bahçelinin çay içerken kılıştaroğluna attığı bakış
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
