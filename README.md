@@ -4,7 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
-bkz ekşide toğlaşan 19-24-29 yaşındaki ultra özgüvenli aknonoşlar
+bkz ekşide toğlaşan 19-24-29 yaşındaki ultra özgüvenli 80 iqlu aknonoşlar
 bkz yaşın kaç senin ha yaşın kaç diyen ergene 42 demek
 https://frank-lucas.uludagsozluk.com/ bkz aknonoşların aldığı yabancı nickler
 https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular 42 - 24
