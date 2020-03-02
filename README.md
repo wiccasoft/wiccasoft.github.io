@@ -4,6 +4,7 @@
 
 <!-- 
 bkz suni gündem yaratılıyor.. duyar kasılıyor..
+bkz devlet bahçelinni çay içerken kışıştaroğluna attığı bakış
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/ alala neden acaba
 https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular
 https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular bkz gerizekalı
