@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ger%C3%A7ek-ya%C5%9F-vs-hissedilen-ya%C5%9F/&w=bg  10 - 42
 bkz atakan kayaların türkiyeye 3 seçenek sunması amerika israel rusya
 bkz rusyanın yine haklı çıkması
 bkz trt world ün pkk lı spikerleri :))))
