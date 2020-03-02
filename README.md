@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis
+https://www.uludagsozluk.com/k/muhsin-yaz%C4%B1c%C4%B1o%C4%9Flu/&w=bg üşüyoruz reis şaka lan şaka
 bkz atatürk askerleri geberdikçe neşeden çıldırmak 
 bkz atatürkün geberdiği askerlerinin de daha çok gebereceği gerçeği
 bkz türkler geberdikçe üzüldüğümüzü sanan ak nonoşlar
