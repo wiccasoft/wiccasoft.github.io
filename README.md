@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şaka maka 4 marta 11 yaşıma basıyorum doğum günü partisi fena oalcak gencolar
+https://www.uludagsozluk.com/k/ger%C3%A7ek-ya%C5%9F-vs-hissedilen-ya%C5%9F/&w=bg 10 - 42
 bkz filozof atakanın ekşiciclere verdiği ayarlar
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCm%C3%BC%C5%9Fte-k%C3%BC%C3%A7%C3%BClm%C3%BC%C5%9F-%C3%A7ocuk-iticili%C4%9Fi/&w=bg bkz ben filozof atakan
 https://www.uludagsozluk.com/k/ger%C3%A7ek-ya%C5%9F-vs-hissedilen-ya%C5%9F/&w=bg  10 - 42
