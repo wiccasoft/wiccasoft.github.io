@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/celal-%C5%9Feng%C3%B6r/&w=bg bkz habertürk horgör yayını
 bkz küçük eniştelere sorun
 https://eksisozluk.com/entry/102780184 
 https://eksisozluk.com/amerikanin-33-askeri-olse-ne-olurdu--6387417?focusto=102840395 
