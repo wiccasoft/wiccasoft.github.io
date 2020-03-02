@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/1007/
+https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=gd
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/
 https://eksisozluk.com/yazilimcilarin-kendini-onemli-biri-sanmalari--6391032?a=popular hele yarrama bah hele
 https://www.youtube.com/watch?v=lpHlpzxeAXc let's see WAHAPANS next :D
