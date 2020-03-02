@@ -2,37 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-bkz alagavat isimli kızla rakı içmek
-bkz ben mi gigi hadid mi diye soran çirkin kız
-bkz sahi ben patlak mıyım diye soran çirkin kız
-bkz sahş ya ajdar vardı noldu ona söyleyin bana nolduuuuuuuu
-bkz sahi ya bi ajdar vardı şimdi yok seni kimler aldı ajdar kimler öpüyo seni
-https://www.uludagsozluk.com/k/onu-hala-sevmek/ ajdarı mı
-https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg s
-bkz sahi ya bir mümtaz türköne vardı noldu ona
-bkz çanankkale savaşı vs idlibe meydan muharebesi
-https://www.uludagsozluk.com/k/%C3%A7anakkale-sava%C5%9F%C4%B1yla-idlibi-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1ran-%C5%9Fah%C4%B1s/&w=bg
-https://www.uludagsozluk.com/k/iyi-erkeklerin-kap%C4%B1lm%C4%B1%C5%9F-olmas%C4%B1/&w=gd bkz ajdar
-bkz ajdarı arayıp sahi unuttun mu beni şapşik demek
-https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya noldu ona
-https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=bg alala niye girdiniz acaba
-bkz sahi ya bi mehmetçik vardı noldu ona
-bkz 3 mart 2020 bi kelle nin daha gebermesi
-https://www.uludagsozluk.com/k/3-mart-2020-idlip-te-1-%C5%9Fehit/ wohooo süper haberler geliyo yine
-https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya napıyodur şimdi
-bkz bahçelinin çak bi beşlik anlamında kılıştarın eline vurduğu gerçeği
-bkz bahcelin kılıştarın eline tokat atmasının yanlış anlaşıldığı gerçeği
-bkz bahcelinin kellelerin hesabını ver diyip kılıştarın eline tokat atması
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
-https://www.uludagsozluk.com/k/%C3%B6lene-kadar-seninim-diyen-s%C3%B6zl%C3%BCk-k%C4%B1z%C4%B1/&w=bg bkz sekhmet07
-https://www.uludagsozluk.com/k/ali-babacan/&w=bg babacan adam
-bkz kelle cenazesinde sırıttım diye bahçelinin küsmesi
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
-https://www.uludagsozluk.com/k/yunan-askerlerinin-a-haber-e-ate%C5%9F-a%C3%A7mas%C4%B1/
-bkz bahcelinin kılıştarın eline tokat atıp şehitlerin hesabını ver demesi
--->
-
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
