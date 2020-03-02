@@ -4,7 +4,6 @@
 
 <!-- 
 anarchist since 4 mart 1978 
-https://www.uludagsozluk.com/k/sosyal-medyada-avlanan-erkek/ demeyi kapayıp ava çıkmak
 https://www.uludagsozluk.com/k/iz-b%C4%B1rakan-atakan-kayalar-s%C3%B6zleri/
 The Deep state just love their 33 code!
 that 33rd degree masonic symbolism never fails, the plebs will never understand these evil freaks.
