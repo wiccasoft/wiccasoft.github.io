@@ -6,7 +6,7 @@
 bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 bkz olm bak git denilen ergenin coşması
 bkz oya şengörün celal şengörü sakinleştirmesi
-bkz ne bu şiddet ırkıma bu kin sana olmaz hakkım helal diyen ergene siggi git olm demek
+bkz ne bu şiddet ırkıma bu kin sana olmaz hakkım helal diyen ergene olm bak git demek
 bkz osmanlı torunu olup tayyipi tutmamak
 https://eksisozluk.com/adil-gur--1325210?a=popular bkz adil kullanım kotası
 bkz 1 mart 2020 celal kılıçtaroğlanın rusların tarafına geçmesi
