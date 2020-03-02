@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.youtube.com/watch?v=oYRQD5g928A hele yarrama bah hele
+https://www.youtube.com/watch?v=oYRQD5g928A hele yarrama bak hele
 https://eksisozluk.com/entry/102886760 o değil de hatayı verin olayı tatlıya bağlayalım artık
 https://eksisozluk.com/entry/102883939 tutmayın küçük enişteyi
 https://twitter.com/karadagsilak/status/1233726348402790400 
