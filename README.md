@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-dan-suriye-de-ne-i%C5%9Fimiz-var-diyenlere-ayar/ ayarın kralı
 bkz çukur vuruşma sahnesinde ay diyen kanka
 bkz tayyibin gülerek bok yoluna gitti niyaziler demesi 
 bkz musleranın şehitlere para fırlatıp kesin lan zırlamayı demesi
