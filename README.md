@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz trt world ün pkk lı spikerleri :))))
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-dan-suriye-de-ne-i%C5%9Fimiz-var-diyenlere-ayar/
 https://www.uludagsozluk.com/k/atm-ile-uzun-metrajl%C4%B1-seks-filmi-%C3%A7eken-insan/ bkz ben
 https://www.uludagsozluk.com/k/aci-%C3%A7ektire-a%C5%9F%C4%B1k-olan-kadinlar/ bkz türk kızları
 https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular 42 -  24
