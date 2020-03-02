@@ -4,6 +4,7 @@
 
 <!-- 
 bkz suni gündem yaratılıyor.. duyar kasılıyor..
+https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/ alala neden acaba
 https://eksisozluk.com/bundan-sonra-da-sehit-vermeye-devam-edecegiz--6391600?a=popular
 https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular bkz gerizekalı
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
