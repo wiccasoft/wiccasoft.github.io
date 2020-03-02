@@ -13,7 +13,7 @@ NATO : No
 Turkey : we are sending refugees
 NATO : ok wait , we have to collect the refugees then start the war with Russia which you ( Turkey) want .
 Russia : Let finish it . which you started
-Erdogan: Mr Putin, you sold me fake S-400! We just tried to shoot your Su-27 and it didn't work :( 
+Erdogan: Mr Putin, you sold me fake S-400! We just tried to shoot your Su-27 and it didn't work :(
 https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/1007/
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=gd
 https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/
