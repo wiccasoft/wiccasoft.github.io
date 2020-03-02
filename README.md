@@ -4,7 +4,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/%C3%B6lene-kadar-seninim-diyen-s%C3%B6zl%C3%BCk-k%C4%B1z%C4%B1/&w=bg bkz sekhmet07
-https://www.uludagsozluk.com/k/beni-seveni-mi-seveyim-sevdi%C4%9Fimi-mi/&w=bg sekhmetcim en iyilerine layıksın sen karar ver
 https://www.uludagsozluk.com/k/ali-babacan/&w=bg babacan adam
 bkz kelle cenazesinde sırıttım diye bahçelinin küsmesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-k%C4%B1l%C4%B1%C3%A7daro%C4%9Flunun-elini-s%C4%B1kmamas%C4%B1/
