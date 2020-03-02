@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+https://www.uludagsozluk.com/k/rus-kahpesi/ hayallerde yaşıyor bazı çomarlar
 https://eksisozluk.com/christoph-daum--93099?a=popular 
 https://eksisozluk.com/daniel-sturridge--1904350?a=popular 
 https://eksisozluk.com/yakisikli-erkeklerle-genelde-metroda-karsilasmak--5657405?a=popular
