@@ -4,6 +4,7 @@
 
 <!-- 
 bkz ajdarı unutamamak sahi ya noldu ona
+bkz sahi ya bi ajdar vardı şimdi yok seni kimler aldı ajdar kimler öpüyo seni
 https://www.uludagsozluk.com/k/onu-hala-sevmek/ ajdarı mı
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg s
 bkz sahi ya bir mümtaz türköne vardı noldu ona
