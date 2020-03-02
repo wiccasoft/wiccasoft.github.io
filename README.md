@@ -6,6 +6,7 @@
 bkz excalibur from kazlıçeşme
 https://eksisozluk.com/christoph-daum--93099?a=popular 
 https://eksisozluk.com/daniel-sturridge--1904350?a=popular 
+https://eksisozluk.com/yakisikli-erkeklerle-genelde-metroda-karsilasmak--5657405?a=popular
 https://www.uludagsozluk.com/k/israilin-g%C3%BCvenli%C4%9Fi-i%C3%A7in-esad-devrilmeli/ hayallerde yaşıyor hillary
 https://www.uludagsozluk.com/k/dolar-6-22-ye-inince-suspus-olan-ulucu/
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-sade-tayyip-diyenler-tutuklans%C4%B1n/&w=bg
