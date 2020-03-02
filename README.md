@@ -4,6 +4,9 @@
 
 <!-- 
 anarchist since 4 mart 1978 
+Finally i will get to see some serious fireworks
+Why are Turkish troops in Syria? And why are they attacking Syrian government forces?
+Happy to see that turkish dream of middle east domination getting crushed.
 https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular sen  de bunu yedin
 https://www.uludagsozluk.com/k/iz-b%C4%B1rakan-atakan-kayalar-s%C3%B6zleri/
 The Deep state just love their 33 code!
