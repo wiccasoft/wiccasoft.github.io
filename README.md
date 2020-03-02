@@ -2,63 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-https://www.uludagsozluk.com/k/aleynababa/
-bkz 2009+11 2020 yapar koyduk mu oç ları
-bkz şaka maka 4 marta 11. yılıma basıyorum doğum günü partisi fena olacak gencolar
-https://www.uludagsozluk.com/k/ger%C3%A7ek-ya%C5%9F-vs-hissedilen-ya%C5%9F/&w=bg  10 - 42
-bkz atakan kayaların türkiyeye 3 seçenek sunması amerika israel rusya
-bkz rusyanın yine haklı çıkması
-bkz trt world ün pkk lı spikerleri :))))
-https://www.youtube.com/watch?v=lpHlpzxeAXc let's see WAHAPANS next :D
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-dan-suriye-de-ne-i%C5%9Fimiz-var-diyenlere-ayar/
-https://www.uludagsozluk.com/k/atm-ile-uzun-metrajl%C4%B1-seks-filmi-%C3%A7eken-insan/ bkz ben
-https://www.uludagsozluk.com/k/aci-%C3%A7ektire-a%C5%9F%C4%B1k-olan-kadinlar/ bkz türk kızları
-https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular 42 -  24
-https://www.uludagsozluk.com/k/atakan-kayalar/&w=bg bkz filozof diyeceksiniz
-bkz melonun suriye harekatı için yaptığı hareket
-https://www.uludagsozluk.com/k/radamel-falcao-garcia/ bkz gol makinası
-bkz fenerin yeni hocası atakan olsun kampanyası
-bkz atakan ın hiç yurtdışı savaşı yapmaması
-https://www.uludagsozluk.com/k/fatih-terim/&w=bg look at the table
-anarchist since 4 mart 1978 
-Finally i will get to see some serious fireworks
-Why are Turkish troops in Syria? And why are they attacking Syrian government forces?
-Happy to see that turkish dream of middle east domination getting crushed.
-https://eksisozluk.com/musleranin-maasini-sehit-ailelerine-bagislamasi--6391458?a=popular sen  de bunu yedin
-https://www.uludagsozluk.com/k/iz-b%C4%B1rakan-atakan-kayalar-s%C3%B6zleri/
-The Deep state just love their 33 code!
-that 33rd degree masonic symbolism never fails, the plebs will never understand these evil freaks.
-CNN be like... How can we blame Trump for this?
-Russia once again faced the nato, but there is no sound from the nato. Congratulations guys ..Good job
-Europa the last battle, agenda 21!  So it's a war about who can get corona?
-Erdogan is pushing Turkey to be the next playground of western war mongering countries.
-Putin explained him how to grab power, hooked him on the energy line, 
-sold Nato-Turkey S-400 installations and Russia sure as hell won't give up its Syria-based fleet.
-Turkey is playing For America and Israel.. That's not good for Turkey..
-Turkey attack on Syria. Russia coming to rescue Syria and start air strikes 
-Turkey : Help us NATO 
-NATO : No 
-Turkey : we are sending refugees
-NATO : ok wait , we have to collect the refugees then start the war with Russia which you ( Turkey) want .
-Russia : Let finish it . which you started
-Erdogan: Mr Putin, you sold me fake S-400! We just tried to shoot your Su-27 and it didn't work :(
-https://www.uludagsozluk.com/k/ek%C5%9Fi-s%C3%B6zl%C3%BCk/1007/
-https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=gd
-https://galeri.uludagsozluk.com/r/ek%C5%9Fi-s%C3%B6zl%C3%BCk-1984619/
-https://eksisozluk.com/yazilimcilarin-kendini-onemli-biri-sanmalari--6391032?a=popular hele yarrama bah hele
-https://www.youtube.com/watch?v=lpHlpzxeAXc let's see WAHAPANS next :D
-https://www.youtube.com/watch?v=oYRQD5g928A hele yarrama bak hele
-https://eksisozluk.com/entry/102886760 o değil de hatayı verin olayı tatlıya bağlayalım artık
-https://eksisozluk.com/entry/102883939 tutmayın küçük enişteyi
-https://twitter.com/karadagsilak/status/1233726348402790400 
-https://eksisozluk.com/entry/102780184 bkz küçük eniştelere sorun
-https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular
-https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular
-https://eksisozluk.com/adil-gur--1325210?a=popular bkz habertürkün kürtleri kışkırtması
-https://eksisozluk.com/1-mart-2020-sag-ele-gecirilen-suriye-askerleri--6390126?a=popular sende bunu yedin
-https://eksisozluk.com/tsknin-1-gunde-rejimin-icinden-gecmesi--6390627?a=popular sen de bunu yedin
--->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
