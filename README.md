@@ -4,6 +4,7 @@
 
 <!-- 
 bkz excalibur from kazlıçeşme
+bkz çukur izlerken arkadaşın götünü parmaklamak
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330
 bkz aknonoşarın twitterdan gündemi değiştiridği sanması
