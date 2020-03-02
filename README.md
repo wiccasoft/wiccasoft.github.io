@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/suriye-arap-ordusu/&w=bg amı götü dağıttılar beyler bir gece ansızın şam
 https://www.uludagsozluk.com/k/bi-ekonomik-kriz-vard%C4%B1-noldu-ona/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-146-galatasaray-124/
 https://www.uludagsozluk.com/k/ersun-yanal/&w=gd kelimelere sığmayacak anılar
