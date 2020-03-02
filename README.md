@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+The Deep state just love their 33 code!
+that 33rd degree masonic symbolism never fails, the plebs will never understand these evil freaks.
+CNN be like... How can we blame Trump for this?
+Russia once again faced the nato, but there is no sound from the nato. Congratulations guys ..Good job
 Europa the last battle, agenda 21!  So it's a war about who can get corona?
 Erdogan is pushing Turkey to be the next playground of western war mongering countries.
 Putin explained him how to grab power, hooked him on the energy line, 
