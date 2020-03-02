@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türklerin kendini çok önemsemesi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-derin-devlet-olmas%C4%B1/&w=bg bkz aslan beyin bahceli olması
 https://www.uludagsozluk.com/e/42922602/ --->
 
