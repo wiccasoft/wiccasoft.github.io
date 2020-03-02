@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz excalibur from kazlıçeşme
 https://frank-lucas.uludagsozluk.com/ bkz aknonoşların aldığı yabancı nickler
 https://eksisozluk.com/12-yasindaki-suriyelinin-turkiye-pis-fakir-demesi--6391762?a=popular
 bkz melonun musleraya yaptığı hareket
