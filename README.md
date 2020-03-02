@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bana ajdarı bulun ulannnnnn sahi ya napıyopdur şimdi bensiz
 bkz sahi ya bi ajdar vardı noldu ona bi arasak mı kankağ aloo orası ajdar mı gülüm
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg sahi ya noldu ona
 https://www.uludagsozluk.com/k/neden-suriye-batakl%C4%B1%C4%9F%C4%B1na-girdik/&w=bg alala niye girdiniz acaba
