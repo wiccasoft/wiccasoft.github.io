@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/nank%C3%B6r-suriyeliler/ bkz okumadım durumuz yoktu
 https://www.uludagsozluk.com/k/suriyelilerin-bize-kazand%C4%B1rd%C4%B1klar%C4%B1/&w=gd bkz entry girmeleri
 bkz gözleri fatih tezcan şeklinde gülen surat
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-chp-li-engin-%C3%B6zko%C3%A7-a-zpt-tepkisi/
