@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1-vs-tayyib-erdo%C4%9Fan/ mezarcı gömer
 https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-%C3%A7ok-foto%C4%9Fraflanan-k%C3%B6pe%C4%9Fi/ bkz ben
 https://www.uludagsozluk.com/k/almanc%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/ bkz sert maço erkek olmaları
