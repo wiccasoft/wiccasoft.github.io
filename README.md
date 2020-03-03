@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/annenin-devaml%C4%B1-mutfakta-olu%C5%9Fu/ bkz seksi anneler
 https://www.uludagsozluk.com/k/adanal%C4%B1-tayt-giyen-%C5%9Fi%C5%9Fman-kad%C4%B1nlar/ bkz ben
 https://www.uludagsozluk.com/k/adanal%C4%B1-tayt-giyen-%C5%9Fi%C5%9Fman-kad%C4%B1nlar/ bkz annem
 https://www.uludagsozluk.com/k/erkekte-165-cm-boy-k%C4%B1sa-m%C4%B1-sorunsal%C4%B1/&w=gd olm o erkek mi lan
