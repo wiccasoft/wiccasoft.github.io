@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz receğ tayyiğ erdoğanın kelle sepeti boş kalmasın demesi
 bkz melonun şehit kellesinin kafasını öpmesi
 bkz receğ tayyiğ erdoğanın iboya kankam demesi
 bkz receğ tayyiğ erdoğanın silah arkadaşlarıyla olan pozu
