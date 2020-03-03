@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ibb-m%C3%BCze-giri%C5%9Flerine-y%C3%BCzde-elliye-varan-zam/
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/lionel-messi/&w=bg
 https://www.uludagsozluk.com/k/michael-jackson/&w=bg
