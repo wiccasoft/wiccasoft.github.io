@@ -5,7 +5,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/rte-ben-size-%C3%B6lmeyi-emrediyorum-derse-olacaklar/&w=bg bkz olanlar olur bence
-bkz rte ben size ölmeyi emrediyorum dediğin bi düşün kankağ bi emprati kur la
+bkz rte ben size ölmeyi emrediyorum dediğin bi düşün kankağ bi emprati kur lan azcık düşün beyin bedeve
 bkz rte nin sessizliğini koruması
 bkz rte ben size domalmayı emrediyorum derse olacaklar
 bkz rte ordular ilk hedefiniz akdeniz derse olacak
