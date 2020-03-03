@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/hacivat-karag%C3%B6z-pornosu/&w=bg link açılmıyo kankağ
 https://www.uludagsozluk.com/k/hatt%C4%B1-m%C3%BCdafaa-yoktur-sath%C4%B1-mudafaa-vard%C4%B1r/&w=bg
 https://www.uludagsozluk.com/k/3-mart-2020-trabzonspor-fenerbah%C3%A7e-ma%C3%A7%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/meral-ak%C5%9Fener-in-%C5%9Ferait%C4%B1-savunmas%C4%B1/ savundum evet
