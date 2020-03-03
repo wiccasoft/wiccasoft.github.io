@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular giderim walla
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg bkz doğum günümü unutmayan müslümcüler
 https://eksisozluk.com/bahcelinin-kilicdaroglunun-elini-sikmamasi--6390242 bkz ayarın kralı
 https://eksisozluk.com/turgut-ozalin-oldugu-gun-yapilanlar--1468414?a=popular bkz babamı kamalcılar öldürdü
