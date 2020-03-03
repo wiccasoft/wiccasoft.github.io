@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz ali koçun sahaya atlaması
 bkz ersun yanalın gaziantepsporla anlaşması
 bkz alper potukun ersun zatten yanallıyodu açıklaması
 bkz ersun yanal alper potukla el skışmaması
