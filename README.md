@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ersun yanalın tesettüre girmesi
 https://www.uludagsozluk.com/k/ersun-yanal/ bkz ersun yanal
 https://www.uludagsozluk.com/k/koci%C5%9Fkomla-pompi%C5%9Fko/&w=bg zamanla olur
 https://www.uludagsozluk.com/k/almanc%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/ almanyada yaşamaları
