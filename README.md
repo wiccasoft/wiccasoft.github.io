@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular koşarım valla
 https://www.uludagsozluk.com/k/beklemek/&w=bg bkz 500t beklerken zamanın hızlı geçmesi
 https://www.uludagsozluk.com/k/bakan-i%C3%A7in-%C5%9Fehit-cenaze-namaz%C4%B1n%C4%B1-tekrarlatmak/
 https://www.uludagsozluk.com/k/t%C3%BCrk-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-erdo%C4%9Fan-%C4%B1-sevmemesi/ 
