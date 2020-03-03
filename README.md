@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ bkz o göte bülbül öte
 https://www.uludagsozluk.com/k/nazilerin-giyim-tarz%C4%B1/ bkz üniformalı erkek seksiliği
 bkz kadınların soyunma odasına kamera koyan imamın serbest kalması
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-imam%C4%B1n-serbest-kalmas%C4%B1/
