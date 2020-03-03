@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz 3 mart 2020 kk nın ele geçirdiği rejim askeri tekmelemesi
+bkz 3 mart 2020 kk nın ele geçirdiği rejim askerini tekmelemesi
 bkz 3 mart 2020 meclis lokantası kelle paça rezaleti
 bkz bahcelinin kk ya kelle paça ısmarlaması
 bkz kk nın çok kelleler gidecek çok demesi
