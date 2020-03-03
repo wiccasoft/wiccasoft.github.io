@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bz bahcelinin komando kıyafetlerini giymesi
 https://www.uludagsozluk.com/k/fedon-un-suya-d%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/hayali-youtuber-olmak-olan-%C3%A7ocuk/ bkz ben babam olursun dedi enes abi gibi
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/ bkz topraklar şehit varsa topraktır
