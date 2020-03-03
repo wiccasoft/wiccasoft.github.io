@@ -5,6 +5,7 @@
 <!-- 
 bkz kadir mısıroğlu vs micheal jackson
 bkz devlet bahçelinin helkopterden atlarken şarjör değiştirmesi
+https://www.uludagsozluk.com/k/patla%C4%9F%C4%B1m-ulan-var-m%C4%B1-diyen-k%C4%B1z/&w=bg lastik mi amk
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7elinin-suriye-ordusuyla-sava%C5%9Fa-gitmesi/
 bkz murat kekillinin sibel kekilliyi ben kurtardım pezevenklerden demesi
 bkz hepbirsonbahar hanımın tesettüre girmesi
