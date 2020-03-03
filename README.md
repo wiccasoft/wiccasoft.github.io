@@ -4,6 +4,7 @@
 
 <!-- 
 bkz cem yılmazın da vefasız çıkması
+https://www.uludagsozluk.com/k/fatih-%C3%BCrek/&w=bg hadi lilillili yar boşver lililil
 https://www.uludagsozluk.com/k/duman/&w=bg bkz çok iyi seviştyiği düşünülen solistler
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-yaz-g%C3%BCn%C3%BC-mont-ve-tayt-giymesi/&w=bg
 https://www.uludagsozluk.com/k/mutlu-musun-imamo%C4%9Flu/&w=bg
