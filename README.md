@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/&w=bg bkz 20 cm
+https://www.uludagsozluk.com/k/trafikte-siren-%C3%A7almadan-ilerleyen-ambulans/ sakat heralde
 https://www.uludagsozluk.com/k/rammstein-deutschland-klibi/ tıklağ kankağ beraber izleyeğ
 https://www.uludagsozluk.com/k/en-%C3%A7ok-%C3%B6zlenen-g%C3%BCnler/ memetali erbil olacak okadar
 https://www.uludagsozluk.com/e/42944296/ neyseki yaşamıyo zuhahahaha
