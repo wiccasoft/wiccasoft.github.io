@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/meral-ak%C5%9Fener-in-%C5%9Ferait%C4%B1-savunmas%C4%B1/ savundum evet
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-%C5%9Fehitler-tepesi-bo%C5%9F-de%C4%9Fil-ki-demesi/ dedim evet
 https://www.uludagsozluk.com/k/ibbnin-m%C3%BCze-giri%C5%9F-fiyatlar%C4%B1na-y%C3%BCzde-50-zam-yapmas%C4%B1/
 https://www.uludagsozluk.com/k/tengir-budun-olmasa-bilgi-edinemeyece%C4%9Fimiz-ger%C3%A7e%C4%9Fi/
