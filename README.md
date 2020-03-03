@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1ndan-sonra-aptallar-namussuzlar-ya%C5%9Far/ 
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-%C5%9Fehitler-tepesi-bo%C5%9F-de%C4%9Fil-ki-demesi/
 bkz şehitler tepesi dedim sepeti demedim
 https://www.uludagsozluk.com/k/millet-ittifak%C4%B1nda-%C5%9Fehitler-tepesi-bo%C5%9F-kalacak/&w=bg
