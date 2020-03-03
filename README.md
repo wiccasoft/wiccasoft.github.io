@@ -5,6 +5,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-erkek-%C3%A7ekicili%C4%9Fi/&w=bg yakıyorum hanny
 https://www.uludagsozluk.com/k/ozan-tufan/&w=bg yok be olm 84 kilo fiks işte
 https://www.uludagsozluk.com/k/toprak-satan-ulu-hakan-amp%C3%BClhamid/ bkz benim
 https://www.uludagsozluk.com/k/kurtlar-vadisi-moskova/&w=bg bkz bi gece ansızın 81 moskova
