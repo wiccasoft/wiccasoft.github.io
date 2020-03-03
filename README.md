@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkzk lıkıştaroğlunun sessiziliğini koruması
+bkzk kılıştaroğlunun iddalara karşı sessiziliğini koruması
 bkz meral akşenerin kulislere çalkalayacak şeriatı savunma demeci
 https://www.uludagsozluk.com/k/meral-ak%C5%9Fener-in-%C5%9Ferait%C4%B1-savunmas%C4%B1/
 bkz doğu perinçekin sessizliğini koruması
