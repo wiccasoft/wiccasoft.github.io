@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz hepbirsonbahar hanımın tesettüre girmesi
 https://www.uludagsozluk.com/k/ilk-bulu%C5%9Fmaya-tak%C4%B1m-elbise-ile-giden-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/michael-jackson/&w=bg bkz moonwalk dansı
 bkz hepbirsonbahar hanımın tesettüre girmesi
