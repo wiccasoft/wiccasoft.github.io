@@ -4,6 +4,8 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/tolga-ci%C4%9Ferci/&w=bg
+https://www.uludagsozluk.com/k/fesli-alagavat%C4%B1n-gen%C3%A7li%C4%9Fi/
 https://www.uludagsozluk.com/k/orkun-%C4%B1%C5%9F%C4%B1tmak/&w=bg yapme be kaçırdık yakışıklıyı
 https://www.uludagsozluk.com/k/hasan-mezarc%C4%B1-vs-tayyib-erdo%C4%9Fan/ mezarcı gömer
 https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/
