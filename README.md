@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg müslüm babaaaaaaaaaa nerdesin babaaaaaaa
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg müslüm babaaaaaaa jiletlerim baba
 https://www.uludagsozluk.com/k/%C3%BCnal-karaman/&w=bg bkz analar var kahraman doğurur
 bkz muslüm gürsesin ben sizin babanızınm demesi
 bkz ahmet özalın babamı putin öldürdü demesi
