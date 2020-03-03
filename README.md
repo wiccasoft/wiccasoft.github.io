@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz fatih tezcanın engin koçlara verdiği boru gibi ayar
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-chp-li-engin-%C3%B6zko%C3%A7-a-zpt-tepkisi/
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-bo%C5%9F-adam%C4%B1-devlet-bah%C3%A7eli/ niye la çay içiyoz
 bkz ibb nin attığı gözleri ibb şeklinde atan suratlara vertigo biletleri bedeve tweeti
