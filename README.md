@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz rte nin kendiniz bekçilerin yerini kurun az empati kurun demesi
 bkz 3 mart 2020 rte nin bekçilere istediğinize dalın yetkisi vermesi
 bkz rte nin silah arkadaşlarıyla olan fotosu
 https://www.uludagsozluk.com/k/rte-ben-size-%C3%B6lmeyi-emrediyorum-derse-olacaklar/&w=bg bkz olanlar olur bence
