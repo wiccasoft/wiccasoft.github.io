@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz ibb nin attığı vertigo biletleri bedeve tweeti
+bkz ibb nin attığı gözleri ibb şeklinde atan suratlara vertigo biletleri bedeve tweeti
 https://www.uludagsozluk.com/k/ibbnin-m%C3%BCze-giri%C5%9F-fiyatlar%C4%B1na-y%C3%BCzde-50-zam-yapmas%C4%B1/ 
 https://www.uludagsozluk.com/k/erkekte-165-cm-boy-k%C4%B1sa-m%C4%B1-sorunsal%C4%B1/olm erkek mi lan o annem daha uzun lan
 https://www.uludagsozluk.com/k/hacivat-karag%C3%B6z-pornosu/&w=bg link açılmıyo kankağ
