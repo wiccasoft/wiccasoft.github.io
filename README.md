@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz benim ali koç çok yakışıklı ama
 bkz cem yılmazın da vefasız çıkması
 https://www.uludagsozluk.com/k/fatih-%C3%BCrek/&w=bg hadi lilillili yar boşver lililil
 https://www.uludagsozluk.com/k/duman/&w=bg bkz çok iyi seviştyiği düşünülen solistler
