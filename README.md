@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ link at kankağ
 bkz 3 mart 2020 ibb nin fatih tezcana müzeleri bedeve yapması
 bkz 3 mart 2020 kk nın ele geçirdiği rejim askerini tekmelemesi
 bkz 3 mart 2020 meclis lokantası kelle paça rezaleti
