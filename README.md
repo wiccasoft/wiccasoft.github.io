@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz iyi partinin paylaştığı köpek
 bkz milliyetçi hareket partisinin paylaştığı bozkurtlar
 bkz devlet bahçelinin paylaştığı hattı müdafa yopktur sattı müdafa vardır paylaşımı
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-chp-li-engin-%C3%B6zko%C3%A7-a-zpt-tepkisi/
