@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/aslan-akbey/&w=bg bk iki kişini bildiği sır sır değildir evlar
 bkz duran emmi aslan akbeyi hoplattı mı sorunsalı
 https://www.uludagsozluk.com/k/%C3%A7andarl%C4%B1-halil-pa%C5%9Fa/&w=bg bkz hakiki halil paşa
 https://www.uludagsozluk.com/k/aslan-akbey/&w=bg bkz duran emmiyi kızdıran bey
