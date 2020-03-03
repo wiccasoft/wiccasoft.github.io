@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz gözleri müze şeklinde gülen surat
+https://www.uludagsozluk.com/k/ibbnin-m%C3%BCze-giri%C5%9F-fiyatlar%C4%B1na-y%C3%BCzde-50-zam-yapmas%C4%B1/
 bz bahcelinin komando kıyafetlerini giymesi
 https://www.uludagsozluk.com/k/fedon-un-suya-d%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/hayali-youtuber-olmak-olan-%C3%A7ocuk/ bkz ben babam olursun dedi enes abi gibi
