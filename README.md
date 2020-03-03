@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ersun-yanal/&w=gd bkz aslan akbey
 bkz aslan akbeyin polatı ak gençlik kollarında yetiştirmesi
 https://www.uludagsozluk.com/k/aslan-akbey/&w=bg bk iki kişini bildiği sır sır değildir evlar
 bkz duran emmi aslan akbeyi hoplattı mı sorunsalı
