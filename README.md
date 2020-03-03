@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ozan tufanın benin yalama istedği
 bkz kadir mısıroğlu dan vazgeçememek
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-%C3%A7%C3%B6p/&w=bg
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz benim ali koç çok yakışıklı ama
