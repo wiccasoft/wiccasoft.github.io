@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz devlet bahçelinin paylaştığı hattı müdafa yopktur sattı müdafa vardır paylaşımı
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-chp-li-engin-%C3%B6zko%C3%A7-a-zpt-tepkisi/
 https://www.uludagsozluk.com/k/polatl%C4%B1-da-suriyeli-san%C4%B1l%C4%B1p-darp-edilen-vatanda%C5%9F/
 bkz fatih tezcanın engin koçlara verdiği boru gibi ayar
