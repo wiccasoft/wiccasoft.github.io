@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/benim-olacaksan-zay%C4%B1fla-diyen-erkek/&w=bg bkz benim ben dedim yengeniz olur
 https://www.uludagsozluk.com/k/aslan-akbey/&w=bg bkz taşşakları dize kadar
 https://www.uludagsozluk.com/k/ersun-yanal/&w=gd bkz aslan akbey
 bkz aslan akbeyin polatı ak gençlik kollarında yetiştirmesi
