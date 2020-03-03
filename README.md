@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/kendinizi-suriyelilerini-yerine-koyun/ ne koyacam amk twitterdan video izliyom
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ o göte bülbül öte
 bkz at yarrağı burcu erkeği kova burcu oğlanı ilişkisi
 https://www.uludagsozluk.com/k/mo%C4%9Follar%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-en-iyi-%C5%9Fey/
