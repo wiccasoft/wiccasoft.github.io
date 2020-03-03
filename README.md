@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://twitter.com/ensonhaber/status/1234812640892981249?s=19 sınırda dayağı yemiş konyalı beyler
 bkz kadir mısıroğlanın maç öncesi provakasyonu
 bkz ersun yanalın tesettüre girmesi
 https://www.uludagsozluk.com/k/ersun-yanal/ bkz ersun yanal
