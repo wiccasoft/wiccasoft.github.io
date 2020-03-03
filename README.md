@@ -6,6 +6,7 @@
 <!-- 
 bkz kk nın kelleler sepeti boş kalacak demesi
 bkz kk nın kelleler sepetine hakaret etmesi
+https://www.uludagsozluk.com/k/200000-dolarl%C4%B1k-u%C3%A7a%C4%9F%C4%B1-d%C3%BC%C5%9F%C3%BCr%C3%BCp-esad-bitiyor-demek/
 https://www.uludagsozluk.com/k/g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-den-ka%C3%A7maya-%C3%A7al%C4%B1%C5%9Fan-konyal%C4%B1/
 https://www.uludagsozluk.com/k/40-ya%C5%9F%C4%B1ndan-sonra-aptallar-namussuzlar-ya%C5%9Far/ 
 https://www.uludagsozluk.com/k/kk-n%C4%B1n-%C5%9Fehitler-tepesi-bo%C5%9F-de%C4%9Fil-ki-demesi/
