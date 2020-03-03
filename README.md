@@ -5,6 +5,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/annesinin-ad%C4%B1-yemu%C5%9F-olan-t%C3%BCrk/
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-yaz-g%C3%BCn%C3%BC-mont-ve-tayt-giymesi/&w=bg
 https://www.uludagsozluk.com/k/g%C3%B6zl%C3%BCkl%C3%BC-erkek-%C3%A7ekicili%C4%9Fi/&w=bg yakıyorum hanny
 https://www.uludagsozluk.com/k/ozan-tufan/&w=bg yok be olm 84 kilo fiks işte
