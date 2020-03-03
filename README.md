@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/benim-olacaksan-zay%C4%B1fla-diyen-erkek/&w=bg bkz benim yengeniz olur
 https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular gerkirse emaneti çekerim
 https://www.uludagsozluk.com/k/benim-olacaksan-zay%C4%B1fla-diyen-erkek/&w=bg bkz benim ben dedim yengeniz olur
 https://www.uludagsozluk.com/k/aslan-akbey/&w=bg bkz taşşakları dize kadar
