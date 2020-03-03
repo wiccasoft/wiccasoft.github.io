@@ -3,9 +3,11 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ibb nin müzelere kürtlei almaması
 bkzk kılıştaroğlunun iddalara karşı sessiziliğini koruması
 bkz meral akşenerin kulislere çalkalayacak şeriatı savunma demeci
 https://www.uludagsozluk.com/k/meral-ak%C5%9Fener-in-%C5%9Ferait%C4%B1-savunmas%C4%B1/
+https://www.uludagsozluk.com/k/ibbnin-m%C3%BCze-giri%C5%9F-fiyatlar%C4%B1na-y%C3%BCzde-50-zam-yapmas%C4%B1/
 bkz doğu perinçekin sessizliğini koruması
 bkz milliyetçi hareket partisinin paylaştığı bozkurtlar
 bkz devlet bahçelinin paylaştığı hattı müdafa yopktur sattı müdafa vardır paylaşımı
