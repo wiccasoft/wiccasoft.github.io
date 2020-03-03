@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz cem yılmazın da vefasız çıkması
 https://www.uludagsozluk.com/k/duman/&w=bg bkz çok iyi seviştyiği düşünülen solistler
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-yaz-g%C3%BCn%C3%BC-mont-ve-tayt-giymesi/&w=bg
 https://www.uludagsozluk.com/k/mutlu-musun-imamo%C4%9Flu/&w=bg
