@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kadir mısıroğlanın maç öncesi provakasyonu
 bkz ersun yanalın tesettüre girmesi
 https://www.uludagsozluk.com/k/ersun-yanal/ bkz ersun yanal
 https://www.uludagsozluk.com/k/koci%C5%9Fkomla-pompi%C5%9Fko/&w=bg zamanla olur
