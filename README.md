@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bahcelinin imamaoğlu kendine baksın demesi
 bkz ibb nin müzelere 40 yaşından büyük kürtleri almaması
 bkzk kılıştaroğlunun iddalara karşı sessiziliğini koruması
 bkz meral akşenerin kulislere çalkalayacak şeriatı savunma demeci
