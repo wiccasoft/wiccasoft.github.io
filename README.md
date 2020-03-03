@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz rte nin bekçilere istediğinize dalın yetkisi vermesi
+bkz 3 mart 2020 rte nin bekçilere istediğinize dalın yetkisi vermesi
 bkz rte nin silah arkadaşlarıyla olan fotosu
 https://www.uludagsozluk.com/k/rte-ben-size-%C3%B6lmeyi-emrediyorum-derse-olacaklar/&w=bg bkz olanlar olur bence
 bkz rte ben size ölmeyi emrediyorum dediğin bi düşün kankağ bi emprati kur lan azcık düşün beyin bedeve
