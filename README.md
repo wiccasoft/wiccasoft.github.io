@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/en-%C3%A7ok-%C3%B6zlenen-g%C3%BCnler/ memetali erbil olacak okadar
 https://www.uludagsozluk.com/e/42944296/ neyseki yaşamıyo zuhahahaha
 https://www.uludagsozluk.com/e/42944281/ alın size belge ak itler
 bkz kadir mısıroğlu vs micheal jackson
