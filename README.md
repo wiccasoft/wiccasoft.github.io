@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz ersun yanalın gaziantepsporla anlaşması
 bkz alper potukun ersun zatten yanallıyodu açıklaması
 bkz ersun yanal alper potukla el skışmaması
 https://www.uludagsozluk.com/k/guardiola-gay%C4%B1ndan-uzakla%C5%9Fma-laz%C4%B1m/
