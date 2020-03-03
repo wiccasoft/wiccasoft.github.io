@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bahcelinin kürtler devlet isitopyrsa türk biat edecekler demesi kaynak: link
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-devlet-kurma-hakk%C4%B1n%C4%B1n-verilmeme-sebepleri/&w=bg
 bkz bahcelinin inlerine girecez demesi kaynak: link
 https://www.uludagsozluk.com/k/g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-den-ka%C3%A7maya-%C3%A7al%C4%B1%C5%9Fan-konyal%C4%B1/
