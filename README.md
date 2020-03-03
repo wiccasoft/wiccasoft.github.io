@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz bahcelinin kk ya kelle paça ısmarlaması
 bkz kk nın çok kelleler gidecek çok demesi
 bkz kk nın kelleler sepeti boş kalacak demesi
 bkz kk nın kelleler sepetine hakaret etmesi
