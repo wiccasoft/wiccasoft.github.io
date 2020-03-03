@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/ bkz adam olur bu çocuk
 bkz receğ tayyiğ erdoğanın kelle sepeti boş kalmasın demesi
 bkz melonun şehit kellesinin kafasını öpmesi
 bkz receğ tayyiğ erdoğanın iboya kankam demesi
