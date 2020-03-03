@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%BCnal-karaman/&w=bg bkz analar var kahraman doğurur
 bkz muslüm gürsesin ben sizin babanızınm demesi
 bkz ahmet özalın babamı putin öldürdü demesi
 https://www.uludagsozluk.com/k/akit-in-kerimcan-durmaz-a-arkadan-vurdular-man%C5%9Feti/ ablan geyseli bebeğim
