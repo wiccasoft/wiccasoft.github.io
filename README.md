@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz şehitler sepeti demedim tepesi dedim
+https://www.uludagsozluk.com/k/%C5%9Fehitler-tepesi-bo%C5%9F-kalmayacak/&w=gd
 https://www.uludagsozluk.com/k/tayyip-in-34-%C5%9Fehit-sonras%C4%B1-espri-yap%C4%B1p-g%C3%BClmesi/ zuhaha
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ link at kankağ
 bkz 3 mart 2020 ibb nin fatih tezcana müzeleri bedeve yapması
