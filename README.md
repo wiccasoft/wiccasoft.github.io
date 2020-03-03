@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 
+
 <!-- 
+https://www.uludagsozluk.com/k/ozan-tufan/&w=bg yok be olm 84 kilo fiks işte
 https://www.uludagsozluk.com/k/toprak-satan-ulu-hakan-amp%C3%BClhamid/ bkz benim
 https://www.uludagsozluk.com/k/kurtlar-vadisi-moskova/&w=bg bkz bi gece ansızın 81 moskova
 https://www.uludagsozluk.com/k/fesli-alagavat%C4%B1n-gen%C3%A7li%C4%9Fi/
