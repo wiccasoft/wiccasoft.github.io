@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/bakan-i%C3%A7in-%C5%9Fehit-cenaze-namaz%C4%B1n%C4%B1-tekrarlatmak/
 https://www.uludagsozluk.com/k/t%C3%BCrk-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-erdo%C4%9Fan-%C4%B1-sevmemesi/ 
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/ müslüm baba izindeyiz babaaaa
 https://www.uludagsozluk.com/k/hacivat-karag%C3%B6z-pornosu/&w=bg link at izleyek pampa
