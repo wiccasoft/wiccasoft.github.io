@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular koşarım valla
 https://www.uludagsozluk.com/k/hacivat-karag%C3%B6z-pornosu/&w=bg link at kanka
 https://www.uludagsozluk.com/k/suriyelilerin-bize-kazand%C4%B1rd%C4%B1klar%C4%B1/&w=gd bkz entry girmeleri
 bkz gözleri fatih tezcan şeklinde gülen surat
