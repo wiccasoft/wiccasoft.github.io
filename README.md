@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz 3 mart 2020 ibb nin fatih tezcana müzeleri bedeve yapması
 bkz 3 mart 2020 kk nın ele geçirdiği rejim askerini tekmelemesi
 bkz 3 mart 2020 meclis lokantası kelle paça rezaleti
 bkz bahcelinin kk ya kelle paça ısmarlaması
