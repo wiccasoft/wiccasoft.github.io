@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/yok-art%C4%B1k-dedirten-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-sa%C3%A7mal%C4%B1klar%C4%B1/
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-yaz-g%C3%BCn%C3%BC-mont-ve-tayt-giymesi/&w=bg
 https://www.uludagsozluk.com/k/annesinin-ad%C4%B1-yemu%C5%9F-olan-t%C3%BCrk/
 https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-yaz-g%C3%BCn%C3%BC-mont-ve-tayt-giymesi/&w=bg
