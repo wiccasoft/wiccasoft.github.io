@@ -6,6 +6,7 @@
 <!-- 
 bkz rte nin sessizliğini koruması
 bkz rte ben size domalmayı emrediyorum derse olacaklar
+bkz rte ordular ilk hedefiniz akdeniz derse olacak
 https://www.uludagsozluk.com/k/rte-ben-size-%C3%B6lmeyi-emrediyorum-derse-olacaklar/&w=bg
 bkz kendinizi e5 te koşan çıpğlak adam yerine koyun
 https://www.uludagsozluk.com/e/6533316/ sevdim seni deliğuanlı adam olunca ara beni yiğidim
