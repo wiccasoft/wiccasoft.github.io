@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/almanc%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/&w=gd maço olmaları
 https://www.uludagsozluk.com/k/ac%C4%B1-biber-yedikten-sonra-d%C4%B1%C5%9Fk%C4%B1larken-g%C3%B6t%C3%BCn-yanmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/emret-ak%C5%9Fam-namaz%C4%B1n%C4%B1-rusya-da-k%C4%B1lal%C4%B1m/&w=bg
 bkz kadir mısıroğlu vs vibratör
