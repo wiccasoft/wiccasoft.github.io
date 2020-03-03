@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz güne adam gibi adam bırak
+bkz kendinizi e5 te koşan çıpğlak adam yerine koyun
 https://www.uludagsozluk.com/e/6533316/ sevdim seni deliğuanlı adam olunca ara beni yiğidim
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/ bkz adam olur bu çocuk
 bkz receğ tayyiğ erdoğanın kelle sepeti boş kalmasın demesi
