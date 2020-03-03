@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C5%9Fan%C4%B1-b%C3%BCy%C3%BCk-hulusi-pa%C5%9Fa-suriyeden-%C3%A7%C4%B1kmam-diyor/
 https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular koşarım valla
 https://www.uludagsozluk.com/k/aptal-sar%C4%B1%C5%9F%C4%B1n-denince-ilk-akla-gelen-isim/ bahceli
 https://www.uludagsozluk.com/k/t%C3%BCrk-d%C3%BC%C5%9Fmanlar%C4%B1n%C4%B1n-erdo%C4%9Fan-%C4%B1-sevmemesi/ okuyalım
