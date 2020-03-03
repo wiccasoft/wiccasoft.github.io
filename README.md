@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz rte nin sessizliğini koruması
+https://www.uludagsozluk.com/k/rte-ben-size-%C3%B6lmeyi-emrediyorum-derse-olacaklar/&w=bg
 bkz kendinizi e5 te koşan çıpğlak adam yerine koyun
 https://www.uludagsozluk.com/e/6533316/ sevdim seni deliğuanlı adam olunca ara beni yiğidim
 https://www.uludagsozluk.com/k/nestor-fernando-muslera-micol/ bkz adam olur bu çocuk
