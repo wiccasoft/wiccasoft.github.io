@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/aslan-akbey/&w=bg bkz duran emmiyi kızdıran bey
 https://www.uludagsozluk.com/k/almanc%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/&w=bg dazlakları dövmeleri
 https://www.uludagsozluk.com/k/m%C3%BClteci-gibi-yunanistan-a-gitmeye-%C3%A7al%C4%B1%C5%9Fan-konyal%C4%B1/
 https://www.uludagsozluk.com/k/yunan-tv-sindeki-t%C3%BCrk-sava%C5%9F-teknolojisi-tart%C4%B1%C5%9Fmas%C4%B1/
