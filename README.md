@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ahmet özalın babamı putin öldürdü demesi
 https://www.uludagsozluk.com/k/akit-in-kerimcan-durmaz-a-arkadan-vurdular-man%C5%9Feti/ ablan geyseli bebeğim
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg eywallah brolar dooğum günüm yarın ama neyse
 bkz bahcelinin kılıştarın elini sıkmamasının yanlış anlaşılması
