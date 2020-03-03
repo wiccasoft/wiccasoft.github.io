@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg eywallah brolar dooğum günüm yarın ama neyse
 bkz bahcelinin kılıştarın elini sıkmamasının yanlış anlaşılması
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-chp-li-engin-%C3%B6zko%C3%A7-a-zpt-tepkisi/
 https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular giderim walla
