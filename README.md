@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ebubekir-ve-%C3%B6merin-muhammedin-cenazesine-gitmemesi/
 bkz rte nin kendiniz bekçilerin yerini kurun az empati kurun lan az kafayı çalıştırın demesi
 bkz 3 mart 2020 rte nin bekçilere istediğinize dalın yetkisi vermesi
 bkz rte nin silah arkadaşlarıyla olan fotosu
