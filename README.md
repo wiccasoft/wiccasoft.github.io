@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz kk nın çok kelleler gidecek çok demesi
 bkz kk nın kelleler sepeti boş kalacak demesi
 bkz kk nın kelleler sepetine hakaret etmesi
 bkz bahcelinin helikopterden öbür helekoptere atlarken şarjör değiştirmesi
