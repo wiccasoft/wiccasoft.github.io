@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz bahcelinin silahımı alırım belasına çatarım demesi kaynak: link
+bkz bahcelinin silahımı alırım dağa çıkarım belasına çatarım demesi kaynak: link
 bkz bahcelinin kürtler devlet isitopyrsa türk biat edecekler demesi kaynak: link
 https://www.uludagsozluk.com/k/k%C3%BCrtlere-devlet-kurma-hakk%C4%B1n%C4%B1n-verilmeme-sebepleri/&w=bg
 bkz bahcelinin inlerine girecez demesi kaynak: link
