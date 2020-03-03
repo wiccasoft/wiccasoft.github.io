@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ eski sevgilim olur
 bkz ali koçun sahaya atlayıp erun yanalın evire çevire dövmesi
 bkz ersun yanalın gaziantepsporla anlaşması
 bkz alper potukun ersun zatten yanallıyodu açıklaması
