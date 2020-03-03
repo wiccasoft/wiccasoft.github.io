@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://eksisozluk.com/e5te-cirilciplak-kosan-adam--6393067?a=popular linkler taze beyler uzaklaşmış olamaz
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ eski sevgilim olur
 bkz ali koçun sahaya atlayıp erun yanalın evire çevire dövmesi
 bkz ersun yanalın gaziantepsporla anlaşması
