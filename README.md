@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-%C3%A7ok-foto%C4%9Fraflanan-k%C3%B6pe%C4%9Fi/ bkz ben
 https://www.uludagsozluk.com/k/almanc%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/ bkz sert maço erkek olmaları
 https://www.uludagsozluk.com/k/d%C3%BCnyan%C4%B1n-en-%C3%A7ok-foto%C4%9Fraflanan-k%C3%B6pe%C4%9Fi/ bkz ben
 https://www.uludagsozluk.com/k/murat-gerenli/ tanısanız siz de seversiniz
