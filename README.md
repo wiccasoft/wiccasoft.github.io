@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/m%C3%BClteci-gibi-yunanistan-a-gitmeye-%C3%A7al%C4%B1%C5%9Fan-konyal%C4%B1/
 https://www.uludagsozluk.com/k/esad%C3%A7%C4%B1lar/&w=bg kamalcıların bi altı
 https://www.uludagsozluk.com/k/benim-olacaksan-zay%C4%B1fla-diyen-erkek/&w=bg bkz benim yengeniz olur
 https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular gerkirse emaneti çekerim
