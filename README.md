@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz melonun şehit kellesinin kafasını öpmesi
 bkz receğ tayyiğ erdoğanın iboya kankam demesi
 bkz receğ tayyiğ erdoğanın silah arkadaşlarıyla olan pozu
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-%C3%BCniversite-arkada%C5%9Flar%C4%B1/&w=bg
