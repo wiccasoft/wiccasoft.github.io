@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/e/42944296/ neyseki yaşamıyo zuhahahaha
 https://www.uludagsozluk.com/e/42944281/ alın size belge ak itler
 bkz kadir mısıroğlu vs micheal jackson
 https://www.uludagsozluk.com/k/alparslan-t%C3%BCrke%C5%9F-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-ikilisi/&w=bg
