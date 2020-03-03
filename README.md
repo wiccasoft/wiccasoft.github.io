@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/fedon-un-suya-d%C3%BC%C5%9Fmesi/
+https://www.uludagsozluk.com/k/hayali-youtuber-olmak-olan-%C3%A7ocuk/ bkz ben babam olursun dedi enes abi gibi
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/ bkz topraklar şehit varsa topraktır
 https://www.uludagsozluk.com/k/annenin-devaml%C4%B1-mutfakta-olu%C5%9Fu/ bkz seksi anneler
 https://www.uludagsozluk.com/k/adanal%C4%B1-tayt-giyen-%C5%9Fi%C5%9Fman-kad%C4%B1nlar/ bkz ben
