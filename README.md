@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz at yarrağı burcu erkeği kova burcu oğlanı ilişkisi
+https://www.uludagsozluk.com/k/mo%C4%9Follar%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-en-iyi-%C5%9Fey/
 bkz at yarrağı burcu erkeği seksiliği
 https://www.uludagsozluk.com/k/ya%C5%9Fland%C4%B1%C4%9F%C4%B1-gerek%C3%A7esiyle-%C3%B6l%C3%BCme-terk-edilen-at/ 
 bkz twitter da çırılçığal koşan seksi adam
