@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bahçelinin helikopterden ahelikoptere atlarken şarjör değiştirmesi
 bkz bahçelinin emaneti çekerim putinni kafasına sıkarım demesi
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/e/42944519/ olacak olacak
