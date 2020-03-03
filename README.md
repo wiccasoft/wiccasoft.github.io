@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz ersun yanal alper potukla el skışmaması
 https://www.uludagsozluk.com/k/guardiola-gay%C4%B1ndan-uzakla%C5%9Fma-laz%C4%B1m/
 https://sweet-but-psycho.uludagsozluk.com/ bkz sakat heralde yazık la kimin çocuğuysa
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz yandan alır
