@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7elinin-suriye-ordusuyla-sava%C5%9Fa-gitmesi/
 https://www.uludagsozluk.com/k/oytunkaran-vs-canan-karatay/&w=bg lahmacun ye olm bişey olmaz
 bkz sınırda mülteci gibi konyalının sosyal medyayı yıkması
 https://www.uludagsozluk.com/k/m%C3%BClteci-gibi-yunanistan-a-gitmeye-%C3%A7al%C4%B1%C5%9Fan-konyal%C4%B1/
