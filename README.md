@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tolga ciğercinin saçlarını göt deliğine sürtme isteği
 bkz ozan tufanın benin yalama istedği
 bkz kadir mısıroğlu dan vazgeçememek
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-%C3%A7%C3%B6p/&w=bg
