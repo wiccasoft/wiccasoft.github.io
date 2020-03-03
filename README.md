@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/yunan-tv-sindeki-t%C3%BCrk-sava%C5%9F-teknolojisi-tart%C4%B1%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
 https://eksisozluk.com/e5te-cirilciplak-kosan-adam--6393067?a=popular linkler taze beyler uzaklaşmış olamaz
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/
