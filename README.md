@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz yandan alır
 https://sweet-but-psycho.uludagsozluk.com/ yengeniz olur biz zengin olim karım yapacam olm seni
 https://www.uludagsozluk.com/k/ersun-yanal/&w=bg bkz yandan alır
 bkz 30 yaşındaki ladyboy sevgilimin ameliyatı için para biriktirmek
