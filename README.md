@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kadir mısıroğlu vs vibratör
 bkz kaykay klüpte kaymalık arkadaş bulamayan geyseli
 bkz tolga ciğercinin saçlarını göt deliğine sürtme isteği
 bkz ozan tufanın benin yalama istedği
