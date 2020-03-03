@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz kadınların soyunma odasına kamera koyan imamın serbest kalması
+https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-eden-imam%C4%B1n-serbest-kalmas%C4%B1/
 https://www.uludagsozluk.com/k/erkekte-165-cm-boy-k%C4%B1sa-m%C4%B1-sorunsal%C4%B1/ olm o erkek mi annem daha uzun lan
 bkz şehitler sepeti demedim tepesi dedim
 https://www.uludagsozluk.com/k/%C5%9Fehitler-tepesi-bo%C5%9F-kalmayacak/&w=gd
