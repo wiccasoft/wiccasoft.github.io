@@ -5,6 +5,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/tek-gozlu-amiral/&w=bg
+https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ 
 https://www.uludagsozluk.com/k/peygamberin-manevi-o%C4%9Flu-zeydin-kar%C4%B1s%C4%B1yla-evlenmesi/&w=bg
 https://eksisozluk.com/e5te-cirilciplak-kosan-adam--6393067?a=popular linkler taze beyler uzaklaşmış olamaz
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ eski sevgilim olur
