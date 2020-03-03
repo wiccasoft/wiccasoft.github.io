@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/ersun-yanal/ bkz ersun yanal
+https://www.uludagsozluk.com/k/koci%C5%9Fkomla-pompi%C5%9Fko/&w=bg zamanla olur
 https://www.uludagsozluk.com/k/almanc%C4%B1lar%C4%B1n-ortak-%C3%B6zellikleri/ almanyada yaşamaları
 https://www.uludagsozluk.com/k/3-mart-2020-idlib-sald%C4%B1r%C4%B1s%C4%B1/ vaziyet alın gencolar
 https://www.uludagsozluk.com/e/34303206/ hadi bakam genco görem seni
