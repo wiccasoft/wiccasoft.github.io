@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz receğ tayyiğ erdoğanın silah arkadaşlarıyla olan pozu
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-%C3%BCniversite-arkada%C5%9Flar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kendinizi-suriyelilerini-yerine-koyun/ ne koyacam amk twitterdan video izliyom
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ o göte bülbül öte
 bkz at yarrağı burcu erkeği kova burcu oğlanı ilişkisi
