@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=gd bkz orhan bence gay
 https://www.uludagsozluk.com/k/tek-gozlu-amiral/&w=bg
 https://www.uludagsozluk.com/k/e5-te-%C3%A7%C4%B1r%C4%B1l%C3%A7%C4%B1plak-ko%C5%9Fan-adam/ 
