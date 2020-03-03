@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/duman/&w=bg
+https://www.uludagsozluk.com/k/cem-y%C4%B1lmaz-%C4%B1n-yaz-g%C3%BCn%C3%BC-mont-ve-tayt-giymesi/&w=bg
 https://www.uludagsozluk.com/k/mutlu-musun-imamo%C4%9Flu/&w=bg
 https://www.uludagsozluk.com/k/atat%C3%BCrk-e-hakaret-edenin-memurluktan-at%C4%B1lmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-vs-%C3%A7%C3%B6p/&w=bg
