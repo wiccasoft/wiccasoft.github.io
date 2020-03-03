@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/ müslüm baba izindeyiz babaaaa
 https://www.uludagsozluk.com/k/hacivat-karag%C3%B6z-pornosu/&w=bg link at izleyek pampa
 https://eksisozluk.com/bahcelinin-silahimi-alir-cepheye-kosarim-demesi--6392757?a=popular koşarım valla
 https://www.uludagsozluk.com/k/hacivat-karag%C3%B6z-pornosu/&w=bg link at kanka
