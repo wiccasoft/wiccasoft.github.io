@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/michael-jackson/&w=bg bkz moonwalk dansı
 bkz hepbirsonbahar hanımın tesettüre girmesi
 bkz murat kekillinin savaş varsa giderim demesi
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg link at kankağ paylaşak 
