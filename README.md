@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fenerbahçenin bahçeliye fener arması takması
 bkz tayybin damadının oooo daha çok beklersiniz demesi
 bkz tayybin damadın ölmesin beklemeyin demesi
 bkz damad öldüğü gün yapılacaklar
