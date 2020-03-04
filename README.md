@@ -4,7 +4,7 @@
 
 <!--
 bkz kızlar ronaldoyu yorumlayalım az fena çocuk değil o da
-bkz kızlar heyp aynı erkeklere entr giriyoruz ayol
+bkz kızlar hep aynı futbolculara entry giriyoruz ayol hofff 
 https://www.uludagsozluk.com/k/ersun-yanal/ bu çocukta fena değil ne yeazsam bilemedim
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu çocukta fena değil olur bu
 https://www.uludagsozluk.com/e/42944984/ pbu çocuk iş yapar pas tercihleri falan fenaaaaaa
