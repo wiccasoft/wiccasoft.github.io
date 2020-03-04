@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz acaba tayyip napıyordur diye uzaklara dalmak
 bkz tayyipin öldüğü günn yapılacaklar
 bkz biraz içerken recep tayyip erdoğan demek
 bkz google a recep tayyip erdoğan yazınca çıkanlar
