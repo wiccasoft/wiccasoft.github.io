@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg bkz namaz
 bkz fakirlerin namaz kıldıkları için ayaklanamaması
 https://www.uludagsozluk.com/e/42945016/ din biat namaz 
 https://www.uludagsozluk.com/e/42945018/ oku oku bitmez bu ya
