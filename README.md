@@ -4,6 +4,7 @@
 
 <!--
 bkz ama yol yabdık
+bkz kelleler sepeti demedim tepesi dedim
 bkz beraber yürüdük biz bu yollardaaaaaa beraber ısalndık yağaaaaaan yağmurdaaaaaaaaaa
 bkz tayyibin nice senelere iyi ki doğmuşum postu
 https://www.pinterest.com/wiccasoft/pins/
