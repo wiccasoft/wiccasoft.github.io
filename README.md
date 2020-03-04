@@ -4,7 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/ersun-yanal/ çok yakışıklı ama yaaaaaaaaaa
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ hoş çocuk bakışları keskin
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu da hoş çocuk bakışları keskin
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok hoş çocuk
 https://www.uludagsozluk.com/e/42943560/ bkz tolga ciğercinin egoist tavırları
 https://www.uludagsozluk.com/e/42944984/ o umarsız tavırları yok mu 
