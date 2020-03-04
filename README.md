@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz meral pattes marrem ayran nası koydu ama tayber doğannnnnn ooooooo
+https://www.uludagsozluk.com/k/siyasal-islamc%C4%B1lar%C4%B1n-rak%C4%B1-sofras%C4%B1/ keyifler gıcır valla
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7-un-yedi%C4%9Fi-dayak/ kelmiş ya la bu
 bkz tayyip panteist solcuyum dese olacaklar
 https://www.uludagsozluk.com/k/s%C3%BCheyl-hasan/ bkz kurtlar vadisi süheyl
