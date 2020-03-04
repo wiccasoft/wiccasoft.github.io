@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz ersun yanalın ali koçu damad harcadı bakışı
+bkz damad öldüğü gün yapılacaklar
 bkz damadın fenerbahçe düşmanlığı
 bkz alper potukun tolga ciğerci yle iyi bi uyum yakalaması
 bkz fenerbahçenin tolga ciğerci yi kadro dışı bırakması
