@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ annen o evlat -->
+<!-- 
+https://www.uludagsozluk.com/e/42948732/ oç annene elalemin kız deme 
+https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ annen o evlat -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
