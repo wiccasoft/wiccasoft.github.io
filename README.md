@@ -3,10 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var 
 https://www.uludagsozluk.com/e/42944897/ 
-https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/&w=bg
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var 
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var demişmiydim
 https://www.uludagsozluk.com/e/42944897/ ne güzel anlatmış
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok ilginç bişey var bu çocukta
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok ilginç bi çocuk bu
