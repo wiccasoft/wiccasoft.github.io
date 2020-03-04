@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz felsefesi bütün oğlanların kendini övmesi
 https://www.uludagsozluk.com/k/kendinizi-bir-c%C3%BCmle-ile-anlat%C4%B1n/&w=bg kendinden bahset bana
 bkz kuralsızlık kuralmıdır
 bkz felsefisi bütün oğlanların göt deliğini yalamak
