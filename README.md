@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
- bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/e/42948903/
+bkz hayallerde yaşıyor bazı ibneler
 https://www.youtube.com/watch?v=xOOr6PCe1lo
 https://sir-a-dan-siradam.uludagsozluk.com/ 
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ 
