@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok hoş çocuk
 https://www.uludagsozluk.com/e/42943560/ bkz tolga ciğercinin egoist tavırları
 https://www.uludagsozluk.com/e/42944984/ o umarsız tavırları yok mu 
 https://www.uludagsozluk.com/e/42944984/ hoş çocuk ama
