@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://twitter.com/kadrajmagazin/status/1235302153968902145
 bkz şehidimi yedrimem diyen ergenlerin güldürmesi
 https://www.uludagsozluk.com/e/42948903/
 bkz hayallerde yaşıyor bazı ibneler
