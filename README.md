@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz gece vakti sözlükte oluşan ibnemsi ortam
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg biat kültürü 
 https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry yurokuku
 https://www.uludagsozluk.com/k/ersun-yanal/ bu adam da bi efsun var sanki
