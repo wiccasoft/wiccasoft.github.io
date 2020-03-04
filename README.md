@@ -5,9 +5,7 @@
 <!--
 bkz şaka maka tayyibin sesinin çok güzel olması google "rte beraber yürüdük" yaz dinle kankağ biğ yağ
 bkz beraber yürüdük biz bu yollardaaaaaaaa
-bkz şaka maka tayyibin hatayı bize vereceği gerçeği
-bkz bi salın gitsin adamı ya hatayı alalım biz de
-https://www.uludagsozluk.com/k/rusyan%C4%B1n-ma%C5%9Fas%C4%B1/ bkz bahçeli
+bkz şaka maka tayyibin hatayı vereceği gerçeği
 bkz beraber yürüdük biz bu yollardaaaaaaaa
 bkz ne diyoduk tayyip he tayyip ne diyosa odur aga
 bkz ne olursa olsun tayybimin arkasındayım arakdan vurdun mu önden sallanacak aga
