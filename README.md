@@ -2,7 +2,12 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/e/42942901/ bkz kafam tok diye vurdu sümsüğü -->
+<!-- bua arada gençler selanik göçmeni trabzonluyum kasmayın yani
+https://www.uludagsozluk.com/e/42942901/ bkz kafam tok diye vurdu sümsüğü 
+https://odatv.com/sosyal-medyanin-konustugu-konyali-multeci-03032003.html
+https://onedio.com/haber/multeci-gibi-yunanistan-a-gitmeye-calisan-ve-yunan-polisinden-dayak-yiyen-konyali-kut-pat-pat-siktilar-898808
+https://tr.sputniknews.com/turkiye/202003041041527940-multecilerle-birlikte-siniri-gecmeye-calisan-konyali-konustu/
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
