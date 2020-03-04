@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ne-olursa-olsun-devletimin-ba%C5%9Fkan%C4%B1m%C4%B1n-arkas%C4%B1nday%C4%B1m/&w=bg
 bkz nere kalmıştık beraber yürüdük biz bu yolarrdaaaaaa beraber ıslandık yaşğan yağmurddaaaaaaaa
 bkz tayyip sevdasını ölsenizde beyninizden çıkarmazsınız kara sevda bu gençler
 bkz beraber yürüdük biz bu yolarrdaaaaaa beraber ıslandık yaşğan yağmurddaaaaaaaa
