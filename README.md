@@ -4,6 +4,7 @@
 
 <!--
 bkz kuralsızlık kuralmıdır
+bkz küçük filozof atakananın kuralsızlık kuraldır açıklaması
 bkz hakemin kural hatasının da bir kurasızlık olduğu gerçeği
 bkz damadın fenerbahçe düşmanlığı
 bkz tolga ciğerci nin fenerbahçe zarar vermesini kabulelenememek kafayı duvarlara vurmak
