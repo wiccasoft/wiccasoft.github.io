@@ -10,16 +10,11 @@ bkz hayallerde yaşıyor bazı ibneler
 https://www.youtube.com/watch?v=xOOr6PCe1lo
 https://sir-a-dan-siradam.uludagsozluk.com/ 
 bkz kızlar illa ibne mi olalım diyen ergenin ibne çıkması
+https://www.uludagsozluk.com/k/engin-özkoç-un-yediği-dayak/ kelmiş yaa la bu :)))
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ 
-şehitlerinizin(kellerinizin) götüne koyim it sıçıkları
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-tiktok%C3%A7unun-evinden-al%C4%B1nmas%C4%B1/&w=bg 
-https://sir-a-dan-siradam.uludagsozluk.com/ https://www.youtube.com/watch?v=xOOr6PCe1lo
-https://www.uludagsozluk.com/e/42948732/ bak hala olm lu konuşuyo oç  ibne
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ bkz zenci o sanki ama neyse
-bkz corona virüsü arapları öldürcek bizi öldürmez diyen kamalcı
-https://www.uludagsozluk.com/k/bae-liderine-koronavir%C3%BCs-bula%C5%9Fmas%C4%B1/ 
-https://www.uludagsozluk.com/e/42948732/yine çıkttı oç olm anneni sikerim
-https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ annen o evlat -->
+ -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
