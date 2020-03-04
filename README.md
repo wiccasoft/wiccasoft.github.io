@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz fakirlerin entry girmeme sebepleri
+bkz fakirlerin isyan edip  entry girmeme sebepleri
 bkz fakirlerin facebook twitter instagram kullanma sebepleri
 bkz fakirlerin facebook a isyan edip ayaklanamam sebepleri
 bkz fakirlerin facebook kullanma sebepleri
