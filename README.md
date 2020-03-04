@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bahçelinin kelle olma isteği
 bkz bahçelinin emaneti çekerim sınıra gider putini vururum demesi
 bkz fakirlerin kendilerin bi bok sanma sebepleri
 bkz fakirlerin birbirlerinin  bokunu yeme sebepleri
