@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42944897/ okumadım pampa
 bkz ergenlerin okuyolarmış gibi durmadan uzun uzun yazılar yazdığı forum siteleri
 https://www.uludagsozluk.com/k/bo%C5%9F-zamanlarda-felsefe-yapmak/ okumadım pampa
 bkz facebook tan aldığı likeları yarıştıran kızlar
