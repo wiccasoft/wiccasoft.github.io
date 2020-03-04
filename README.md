@@ -3,6 +3,11 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/siyasal-islamc%C4%B1lar%C4%B1n-rak%C4%B1-sofras%C4%B1/ keyifler gıcır valla
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 https://www.uludagsozluk.com/k/polis-kontrol%C3%BCnde-havaya-i%C5%9Feyen-adam/
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
