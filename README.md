@@ -3,11 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz tayyibin 42 ye bastım nice senelere iyi ki doğmuşum demesi
+bkz tayyibin nice senelere iyi ki doğmuşum postu
 https://www.pinterest.com/wiccasoft/pins/
-bkz tayyibin paylaştığı doğum günüm kutlu olsun postu
 bkz tayyibin doğum gününde ölmesini bekleyenler
-bkz 4 mart 2020 yavşakların tayyibin doğum gününü rezil etmeleri
 bkz tayyibin ölürsem kabrime gelme istemem demesi
 bkz bilalin şimdiden tahta göz dikmesi
 bkz bilalin tayyib yerine geleceği gerçeği
