@@ -3,11 +3,11 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bjz bahcelinin götten vurduracam demesi
-bkz biat kültürü
 bkz kendinin elit sanan ibneler
 https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry yuroku
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
+bjz bahcelinin götten vurduracam demesi
+bkz biat kültürü
 bkz ibnelerin sürekli entry girme sebepleri
 bkz ibnelerin isyan edip ayaklanmama sebebi
 bkz gece vakti sözlükte oluşan ibnemsi ortam
