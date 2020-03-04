@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz şaka maka tayyibin sesinin çok güzel olması google rte beraber yürüdük yaz
 bkz beraber yürüdük biz bu yollardaaaaaaaa
 bkz şaka maka tayyibin hatayı bize vereceği gerçeği
 bkz bi salın gitsin adamı ya hatayı alalım biz de
