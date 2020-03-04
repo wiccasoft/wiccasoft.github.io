@@ -4,6 +4,8 @@
 
 <!--
 bkz ama yol yabdık
+bkz kılıçtaroğlan ölse de eğlensek
+https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacaklar/
 https://www.uludagsozluk.com/k/mecliste-kapal%C4%B1-oturuma-kat%C4%B1lan-hdpli-vekiller/ bkz hani marjinal chp ydi
 bkz ünzile annenin tayyibe doğum gününde araba alması
 bkz damadın tayyibe doğum güününde penis yüzüğü hediye etmesi
