@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz eesdin tc beştepe yi vurması
 bkz google  tc tayyip yazınca rusya bağlaması
 bkz tayyibin sosyal medya hesaplarının rusların eline geçmesi
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
