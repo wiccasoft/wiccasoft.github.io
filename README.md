@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bilala erdoğan burak erdoğan arasındaki hangimiz daha yakışıklıyız çekişmesi
 bkz burak erdoğan vs recep tayyiğ erdoğan
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ümmmeti güneş gibi doğan adam
 https://www.uludagsozluk.com/k/bo%C5%9F-zamanlarda-felsefe-yapmak/ okumaya doymadığım yazılar
