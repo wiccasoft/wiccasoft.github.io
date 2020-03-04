@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fakirlerin ayaklanamam sebebinin namaz kılmak olduğu gerçeği
 https://www.uludagsozluk.com/e/31544556/ namaz kılmak
 https://radikalkemalizm.uludagsozluk.com/ sakat heralde
 https://www.uludagsozluk.com/k/ben-uyumaya-gidiyorum/&w=bg felsefe yapıyoduk yeğen
