@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz mecliste kapalı oturuma katılan hdpli vekiller link yok öledir heralde
+https://www.pinterest.com/wiccasoft/pins/
+bkz tayyibin daha çok beklersiniz demesi
+https://www.uludagsozluk.com/k/tayyibin-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacak-%C5%9Feyler/
 https://www.uludagsozluk.com/k/mecliste-kapal%C4%B1-oturuma-kat%C4%B1lan-hdpli-vekiller/ hani link kankağ
 https://www.uludagsozluk.com/k/erem-%C5%9Fent%C3%BCrk/&w=bg bkz şentürk türk oğlu türk
 bkz fenerbah sk twitter hesabının bayrakları yarıya indirmesi
