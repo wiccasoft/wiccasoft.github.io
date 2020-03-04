@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tayyip panteist solcuyum dese olacaklar
 https://www.uludagsozluk.com/k/s%C3%BCheyl-hasan/ bkz kurtlar vadisi süheyl
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ sanki zenci ama neyse
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yol-un-bo%C5%9F-bir-film-olmas%C4%B1/ bkz yeşil  yoldaki arap
