@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz corona virüsü arapları öldürcek bizi öldürmez diyen kamalcı
+https://www.uludagsozluk.com/k/bae-liderine-koronavir%C3%BCs-bula%C5%9Fmas%C4%B1/ 
 https://www.uludagsozluk.com/e/42948732/ oç annene elalemin kız deme 
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ annen o evlat -->
 
