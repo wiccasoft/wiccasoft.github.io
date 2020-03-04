@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyibni 4 mart doğum günümde bari ölmemei istemeyin demesi
 bkz tayyibin ölürsem kabrime gelme istemem demesi
 bkz bilalin şimdiden tahta göz dikmesi
 bkz bilalin tayyib yerine geleceği gerçeği
