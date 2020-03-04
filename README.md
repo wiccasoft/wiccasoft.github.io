@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry onyekuru
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuk iş yapar fena bişey bu
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 https://www.uludagsozluk.com/e/42944897/ 
