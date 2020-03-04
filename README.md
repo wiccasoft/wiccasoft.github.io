@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ladyboy-sevgilim-i%C3%A7in-araba-tavsiyesi/ sakat heralde
 https://radikalkemalizm.uludagsozluk.com/ sakat heralde
 https://www.uludagsozluk.com/k/oglunun-uyumas%C4%B1n%C4%B1-bekleyen-masum-baba/ who's your daddy
 https://www.uludagsozluk.com/k/gelsin-hilafet-y%C4%B1k%C4%B1ls%C4%B1n-kemalizm/ ooo skiş dönüyo
