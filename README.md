@@ -4,17 +4,6 @@
 
 
 <!--
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-https://www.uludagsozluk.com/k/halen-windows-xp-kullanan-geri-kalm%C4%B1%C5%9F/&w=bg
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
-https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ekin-beyni/&w=bg
-bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
 https://www.uludagsozluk.com/k/beraber-%C3%A7%C3%BCr%C3%BCd%C3%BCk-biz-bu-yollarda/
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
@@ -122,123 +111,9 @@ bkz 4 mart 2020 damadın fenerbahçe düşmanlığının tescillenmesi
 bkz ersun yanalın ali koça düzen kurdular demesi
 bkz ismail potukun yaptığı faul vara gitmemesi
 bkz damadın fenerbahçe düşmanlığı
-https://www.uludagsozluk.com/k/ismail-co%C5%9Far/&w=bg coçtu bu da bi maç lan al tarafı
-https://tayber-dogan.uludagsozluk.com/ kapalı oturumu iyi yönet genco
-https://www.uludagsozluk.com/k/mecliste-kapal%C4%B1-oturuma-kat%C4%B1lan-hdpli-vekiller/
-bkz alper potukun tolga ciğerci yle iyi bi uyum yakalaması
-bkz fenerbahçe nin paylaştığı trabzona nası koyduk paylaşımı
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg 
-bkz ama yol yabdık
-bkz kılıçtaroğlan ölse de eğlensek
 bkz merale pattes marremeee soğan nasıı koydu ama  tayber doğaaaannn
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacaklar/
 https://www.uludagsozluk.com/k/mecliste-kapal%C4%B1-oturuma-kat%C4%B1lan-hdpli-vekiller/ bkz hani marjinal chp ydi
-bkz ünzile annenin tayyibe doğum gününde araba alması
-bkz damadın tayyibe doğum güününde penis yüzüğü hediye etmesi
-bkz kelleler sepeti demedim tepesi dedim
-bkz beraber yürüdük biz bu yollardaaaaaa beraber ıslandık yağaaaaaan yağmurdaaaaaaaaaa
-bkz tayyibin nice senelere iyi ki doğmuşum postu
-https://www.pinterest.com/wiccasoft/pins/
-bkz tayyibin doğum gününde ölmesini bekleyenler
-bkz tayyibin ölürsem kabrime gelme istemem demesi
-bkz bilalin şimdiden tahta göz dikmesi
-bkz bilalin tayyib yerine geleceği gerçeği
-bkz tayyibin bilali tahta hazırlaması
-https://www.uludagsozluk.com/k/sabah%C4%B1n-%C5%9Fark%C4%B1s%C4%B1/&w=bg beraber yürüdük biz bu yollarda
-bkz tayyibin fenerbahçeli damadın trabzonlu olduğu gerçeği
-bkz tayyibin fenerbahçe soyunma odasına girmesi
-bkz bahçelinin fenerbahçeli olduğu gerçeği
-bkz fenerbahçenin bahçeliye fener arması takması
-bkz damad öldüğü gün yapılacaklar
-bkz damadın fenerbahçe düşmanlığı
-bkz alper potukun tolga ciğerci yle iyi bi uyum yakalaması
-bkz bahçelinin tayyibe dokananı mermi manyağ yaparım demesi
-bkz ne olursa olsun tayybimin arkasındayım agaaaa bu adama dokunmayın
-https://www.uludagsozluk.com/k/ne-olursa-olsun-devletimin-ba%C5%9Fkan%C4%B1m%C4%B1n-arkas%C4%B1nday%C4%B1m/&w=bg
-bkz receğ ttayyiğ erdoğanın hulisi streami salması
-bkz receğ tayyiğ erdoğanın recep şaban ramazan ayı mübarek demesi
-bkz receğ tayyği erdoğan receğ ramazan şaban aylarına girdik içki içmeyin demesi
-bkz receğ tayyiğ erdoğanın attığı  tweet
-https://twitter.com/kamilmakarna/status/1024737292123037696
-https://www.instagram.com/rterdogan/?hl=en bunlar fake hesap kankağ
-https://www.pinterest.com/wiccasoft/pins/ bkz tayyibin doğum gününü kutlaması
-bkz eesdin tc beştepe yi vurması
-bkz google  tc tayyip yazınca rusya bağlaması
-bkz tayyibin sosyal medya hesaplarının rusların eline geçmesi
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-bkz şaka maka tayyibin sesinin çok güzel olması google "rte beraber yürüdük" yaz dinle kankağ biğ yağ
-bkz beraber yürüdük biz bu yollardaaaaaaaa
-bkz şaka maka tayyibin hatayı vereceği gerçeği
-bkz beraber yürüdük biz bu yollardaaaaaaaa
-bkz ne diyoduk tayyip he tayyip ne diyosa odur aga
-bkz ne olursa olsun tayybimin arkasındayım arakdan vurdun mu önden sallanacak aga
-bkz tayyip götümü sikse götüm göz kırpmıştır agaaaaaa
-bkz tayyip götümü sikse göt deliğimde bahane vardır aga
-bkz tayyip anamın üstünde yakalansa orospuluk anamdadır
-https://www.uludagsozluk.com/k/ne-olursa-olsun-devletimin-ba%C5%9Fkan%C4%B1m%C4%B1n-arkas%C4%B1nday%C4%B1m/&w=bg
-bkz nere kalmıştık beraber yürüdük biz bu yolarrdaaaaaa beraber ıslandık yaşğan yağmurddaaaaaaaa
-bkz tayyip sevdasını ölsenizde beyninizden çıkarmazsınız kara sevda bu gençler
-bkz beraber yürüdük biz bu yolarrdaaaaaa beraber ıslandık yaşğan yağmurddaaaaaaaa
-bkz biz ayrılmayaız yollar ayırsa bile ölüm ayırsa bile biz ayrılamayız
-bkz beraber yürüdük biz bu yollarrda beraber ıslandık yağan yapmurda
-https://www.uludagsozluk.com/k/beraber-%C3%A7%C3%BCr%C3%BCd%C3%BCk-biz-bu-yollarda/
-bkz tayipin ölmedim ki ölmedim ki hihihihihi demesi
-bkz tayyipin ölmedim ki ölmedim ki hehehehehehe demesi
-bkz tayyipin ölmedim ki şaka demesi
-bkz tayyipin ölürsem ulucular mezarıma gelmesin demesi
-bkz tayyipin tc beştepeyi 2071 de torunum yönetecek demesi
-bkz esed öldüğü gün yapılacaklar
-bkz kaka nın bahçeliye çok çirkin ve aptalsın keşke ölsen demesi
-bkz kılıştaroğlunun bahçeliye  ölürsem kabrime gelme istemem demesi
-bkz bilal erdoğanın soyumuz devam edecek raad olun demesi
-bkz receğ tayyiğ erdoğan ölürse diye bilal erdoğan ölmesin diye dua etmek
-bkz kılıçtaroğlu tahmini hangi yıl ölür acaba
-bkz kılıçtaroğlunun ölmesini beklemek
-bkz bahçelinin iyice bunaması
-bkz kakanın grup toplantısında kakam geldi diyip kaçması
-bkz celal kılıçdaroğlanın kakayı abilikten reddetmesi
-bkz ya kaka oğluna dewverderse cehapeyi olacaklar
-bkz ya tayyip ölünce bilale tahtı devrederse olacaklar
-bkz şaka maka receğ tayyiğ erdovan isminin marka olması
-bkz re ceğ tay yiğ er do ğan re ce tay yi er do ğan re  ceğ tay yiğ er do ğan
-bkz tayyibin bu fakir bu görevde oldukça bakçelinnin kılına dokunmazsınız demesi
-bkz bahçelinin hepinizi gömerim demesi
-bkz ay inşallah ölmeyiz dimi lütfen ölmeyelim çünkü
-bkz biz ölmeyelim kk la rte ölsün takılırız be pampalar
-bkz herkes ölsede beraber bira tokuştursak be kankalar
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacaklar/
-bkz kk nın behcelini elini itmesi
-bkz bahçelinin kelle paça olma isteği
-bkz 4 mart 2020 doğum günümün gelmesi hadi ben kaçar
-bkz ya tayyip fetöye hadi affettim gel ne istiyosan al derse olacaklar
-bkz tayyipin fetöyle barışma ihtimali
-bkz acaba tayyip napıyordur diye uzaklara dalmak
-bkz tayyipin öldüğü günn yapılacaklar
-bkz biraz içerken recep tayyip erdoğan demek
-bkz google a recep tayyip erdoğan yazınca çıkanlar
-bkz youtube recep tayyip erdoğan yazınca çıkan videolar
-bkz tayyibin doğu gutaya bahceliyi yollaması
-bkz tayyibin ben iseven bira içmez söz mü demesi
-bkz rte nin beni seven bira sigara içmesin demesi
-https://www.uludagsozluk.com/e/42945068/ aga iyi diyonda ersun hocaya anlat bunu
-beyler tayyipin tc bestepe facebook sayfasını poke luyoruz
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/tayyibin-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacak-%C5%9Feyler/
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://radikalkemalizm.uludagsozluk.com bro rte nin sosyal medya hesaplarını verim ordan saldır
-https://radikalkemalizm.uludagsozluk.com/ bro sen rte ye saldır düşene kadar
-https://www.uludagsozluk.com/k/rte-yi-%C3%BCst%C3%BCnden-atan-k%C4%B1ll%C4%B1-%C5%9Fey/  bkz at
-bkz tayyibin sigara içmiyom çok beklersiniz ölmemi demesi
-https://www.uludagsozluk.com/k/tayyibin-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacak-%C5%9Feyler/ 
-https://www.uludagsozluk.com/k/rte-nin-fet%C3%B6-ye-verdi%C4%9Fi-%C5%9Feyler/ bkz göt
-https://www.uludagsozluk.com/k/ladyboy-sevgilim-i%C3%A7in-araba-tavsiyesi/ sakat heralde
-https://radikalkemalizm.uludagsozluk.com/ sakat heralde
-https://www.uludagsozluk.com/k/oglunun-uyumas%C4%B1n%C4%B1-bekleyen-masum-baba/ who's your daddy
-https://www.uludagsozluk.com/k/gelsin-hilafet-y%C4%B1k%C4%B1ls%C4%B1n-kemalizm/ ooo skiş dönüyo
-bkz fakirlerin işe gitme sebebi
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-https://www.uludagsozluk.com/e/31544556/ namaz kılmak
-https://radikalkemalizm.uludagsozluk.com/ sakat heralde
 https://www.uludagsozluk.com/k/ben-uyumaya-gidiyorum/&w=bg felsefe yapıyoduk yeğen
 https://www.uludagsozluk.com/k/8-mart-2020-sivasspor-galatasaray-ma%C3%A7%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg bkz din
