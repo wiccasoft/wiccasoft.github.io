@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz tayyipintc beştepeyi 2071 de torunum yönetecek demesi
+bkz tayyipin ölürsem ulucular mezarıma gelmesin demesi
+bkz tayyipin tc beştepeyi 2071 de torunum yönetecek demesi
 bkz esed öldüğü gün yapılacaklar
 bkz kaka nın bahçeliye çok çirkin ve aptalsın keşke ölsen demesi
 bkz kılıştaroğlunun bahçeliye  ölürsem kabrime gelme istemem demesi
