@@ -7,6 +7,11 @@ bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+https://www.uludagsozluk.com/k/e%C5%9Fine-%C5%9Feker-kutusunda-y%C3%BCz%C3%BCk-s%C3%BCrprizi-yapan-adam/
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 https://www.uludagsozluk.com/k/popoya-bakan-terbiyesiz-erkek/&w=bg
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
