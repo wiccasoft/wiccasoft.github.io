@@ -4,7 +4,7 @@
 
 <!-- 
 https://www.youtube.com/watch?v=xOOr6PCe1lo
-https://sir-a-dan-siradam.uludagsozluk.com/
+https://sir-a-dan-siradam.uludagsozluk.com/ bkz ağır ibne
 hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ 
 şehitlerinizin(kellerinizin) götüne koyim it sıçıkları
