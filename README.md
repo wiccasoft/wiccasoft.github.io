@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ sanki zenci ama neyse
+https://www.uludagsozluk.com/k/ye%C5%9Fil-yol-un-bo%C5%9F-bir-film-olmas%C4%B1/ bkz yeşil  yoldaki arap
 bu arada gençler 42 yaşında olgun kaslı uzun boylu selanik göçmeni trabzonluyum fazla kafayı yormayın kasmayın yani
 https://www.uludagsozluk.com/e/42942901/ bkz kafam tok diye vurdu sümsüğü 
 https://odatv.com/sosyal-medyanin-konustugu-konyali-multeci-03032003.html
