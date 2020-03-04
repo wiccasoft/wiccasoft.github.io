@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fakirlerin facebook kullanma sebepleri
+bkz fakirlerin bulundaukları ortama yapışmaları
+bkz fakirlerin entry giremem sebeplerini biat kültürü olduğu gerçeği
 bkz fakirlerin entry girmeme sebepleri
 bkz fakirlerin isyan edip entry girmesi
 bkz fakirlerin entry girmekten ayaklanaması
