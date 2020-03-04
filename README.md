@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ne diyoduk tayyip he tayyip ne diyosa odur aga
 bkz ne olursa olsun tayybimin arkasındayım arakdan vurdun mu önden sallanacak aga
 bkz tayyip götümü sikse götüm göz kırpmıştır agaaaaaa
 bkz tayyip götümü sikse göt deliğimde bahane vardır aga
