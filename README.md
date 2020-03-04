@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyibbin 42 bastım nice seneler demesi
 https://www.pinterest.com/wiccasoft/pins/
 bkz tayyibin paylaştığı doğum günüm kutlu olsun postu
 bkz tayyibin doğum gününde ölmesini bekleyenler
