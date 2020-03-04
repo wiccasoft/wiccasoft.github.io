@@ -7,6 +7,11 @@ bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+https://www.uludagsozluk.com/k/sokak-r%C3%B6portaj%C4%B1-yap%C4%B1lan-chp-li-kemalist-abla/
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 https://www.uludagsozluk.com/k/cene-kemiginin-kutlemesi/
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
