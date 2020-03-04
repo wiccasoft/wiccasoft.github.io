@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz bu çocuk ta büyü var denilen çocğun güzel paslaşması
+bkz bu çocuk ta büyü var denilen çocuğun güzel paslaşması
 bkz tolga ciğerciya aşık olmim derken henry yurokukuya aşık olmak
 https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry yurokuku
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
