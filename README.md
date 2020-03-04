@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz var olmak varlıksa var olmamak nedir sorunsalı
+https://www.uludagsozluk.com/k/gece-vakti-s%C3%B6zl%C3%BCkte-olu%C5%9Fan-elit-ortam/&w=bg
 bkz e 5 te çıplak dolaşan adam
 bkz bahçelinin ehit olma isteği
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/&w=bg
