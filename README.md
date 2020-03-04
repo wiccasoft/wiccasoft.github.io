@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyibin doğu gutaya bahceliyi yollaması
 bkz tayyibin ben iseven bira içmez söz mü demesi
 bkz rte nin beni seven bira sigara içmesin demesi
 https://www.uludagsozluk.com/e/42945068/ aga iyi diyonda ersun hocaya anlat bunu
