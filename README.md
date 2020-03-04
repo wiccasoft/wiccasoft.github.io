@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz alper potukun tolga ciğerci yle iyi bi uyum yakalaması
 bkz fenerbahçe nin paylaştığı trabzona nası koyduk paylaşımı
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg 
 bkz ama yol yabdık
@@ -29,7 +30,6 @@ bkz fenerbahçenin bahçeliye fener arması takması
 bkz damad öldüğü gün yapılacaklar
 bkz damadın fenerbahçe düşmanlığı
 bkz alper potukun tolga ciğerci yle iyi bi uyum yakalaması
-bkz fenerbahçenin tolga ciğerci yi kadro dışı bırakması
 bkz bahçelinin tayyibe dokananı mermi manyağ yaparım demesi
 bkz ne olursa olsun tayybimin arkasındayım agaaaa bu adama dokunmayın
 https://www.uludagsozluk.com/k/ne-olursa-olsun-devletimin-ba%C5%9Fkan%C4%B1m%C4%B1n-arkas%C4%B1nday%C4%B1m/&w=bg
