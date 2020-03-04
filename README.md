@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyip sevdasını ölsenizde beyninizden çıakrmazsınız kara sevda bu gençler
 bkz beraber yürüdük biz bu yolarrdaaaaaa beraber ıslandık yaşğan yağmurddaaaaaaaa
 bkz biz ayrılmayaız yollar ayırsa bile ölüm ayırsa bile biz ayrılamayız
 bkz beraber yürüdük biz bu yollarrda beraber ıslandık yağan yapmurda
