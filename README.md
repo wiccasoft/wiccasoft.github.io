@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz damadın fenerbahçe düşmanlığı
 bkz damadın trabzonu şampiyon yapacağı gerçeği
 bkz ersun yanal ali koç recep tayip erdoğan üçlüsü
 bkz henry yurokuku daki biat kültürü
