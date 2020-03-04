@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ersun-yanal/ çok yakışıklı ama yaaaaaaaaaa
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ hoş çocuk bakışları keskin
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok hoş çocuk
 https://www.uludagsozluk.com/e/42943560/ bkz tolga ciğercinin egoist tavırları
