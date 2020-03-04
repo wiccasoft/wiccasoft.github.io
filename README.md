@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz receğ tayyiğ erdoğan ölürse diye bilal erdoğan ölmesin diye dua etmek
 bkz kılıçtaroğlu tahmini hangi yıl ölür acaba
 bkz kılıçtaroğlunun ölmesini beklemek
 bkz bahçelinin iyice bunaması
