@@ -4,6 +4,7 @@
 
 <!--
 bkz kuralsızlık kuralmıdır
+bkz felsefisi bütün oğlanların göt deliğini yalamak
 bkz küçük filozof atakananın kuralsızlık kuraldır açıklaması
 bkz hakemin kural hatasının da bir kurasızlık olduğu gerçeği
 bkz damadın fenerbahçe düşmanlığı
