@@ -4,8 +4,6 @@
 
 <!--
 bkz fakirlerin isyan edip  entry girmeme sebepleri
-bkz fakirlerin facebook twitter instagram kullanma sebepleri
-bkz fakirlerin facebook a isyan edip ayaklanamam sebepleri
 bkz fakirlerin facebook kullanma sebepleri
 bkz fakirlerin bulundaukları ortama yapışmaları
 bkz fakirlerin entry giremem sebeplerini biat kültürü olduğu gerçeği
