@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz google a recep tayyip erdoğan yazınca çıkanlar
 bkz youtube recep tayyip erdoğan yazınca çıkan videolar
 bkz tayyibin doğu gutaya bahceliyi yollaması
 bkz tayyibin ben iseven bira içmez söz mü demesi
