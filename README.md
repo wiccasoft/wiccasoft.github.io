@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyip götümü sikse götüm göz kırpmıştır agaaaaaa
 bkz tayyip götümü sikse göt deliğimde bahane vardır aga
 bkz tayyip anamın üstünde yakalansa orospuluk anamdadır
 https://www.uludagsozluk.com/k/ne-olursa-olsun-devletimin-ba%C5%9Fkan%C4%B1m%C4%B1n-arkas%C4%B1nday%C4%B1m/&w=bg
