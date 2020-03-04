@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kakanın grup toplantısında kakam geldi diyip kaçması
 bkz celal kılıçdaroğlanın kakayı abilikten reddetmesi
 bkz ya kaka oğluna dewverderse cehapeyi olacaklar
 bkz ya tayyip ölünce bilale tahtı devrederse olacaklar
