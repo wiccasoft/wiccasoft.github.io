@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42944897/ takım tutumuyorum dan sonrasını okumadım
 https://www.uludagsozluk.com/e/42944984/ hoş çocuk ama
 https://www.uludagsozluk.com/ bkz nonoşların hoşlandıkları erkeklere entry girdiği platfrom
 https://www.uludagsozluk.com/e/42944984/ çocuk hoş ama itiraf et
