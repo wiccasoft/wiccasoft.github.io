@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://sir-a-dan-siradam.uludagsozluk.com/ bkz pasif ibne
 https://www.uludagsozluk.com/e/42948732/ bak hala olm lu konuşuyo oç ergen
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ bkz zenci o sanki ama neyse
 bkz corona virüsü arapları öldürcek bizi öldürmez diyen kamalcı
