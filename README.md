@@ -5,7 +5,7 @@
 <!-- 
 https://www.youtube.com/watch?v=xOOr6PCe1lo
 https://sir-a-dan-siradam.uludagsozluk.com/ 
-hayallerde yaşıyor bazı ibneler
+bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ 
 şehitlerinizin(kellerinizin) götüne koyim it sıçıkları
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-tiktok%C3%A7unun-evinden-al%C4%B1nmas%C4%B1/&w=bg 
