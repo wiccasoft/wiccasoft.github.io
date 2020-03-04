@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ersun-yanal/ bu adam da bi efsun var sanki
 bkz bahçelinin iyice bunaması
 bkz bahçelinin emaneti çekerim sınıra giderim demesi
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuk fena yaaaa kızlar paslaşması falan
