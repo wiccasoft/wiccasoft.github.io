@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz beraber yürüdük biz bu yollarrda beraber ıslandık yağan yapmurda
+https://www.uludagsozluk.com/k/beraber-%C3%A7%C3%BCr%C3%BCd%C3%BCk-biz-bu-yollarda/
 bkz tayipin ölmedim ki ölmedim ki hihihihihi demesi
 bkz tayyipin ölmedim ki ölmedim ki hehehehehehe demesi
 bkz tayyipin ölmedim ki şaka demesi
