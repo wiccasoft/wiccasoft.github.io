@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://the-godfather.uludagsozluk.com/ çok güzel yorumluyosun futbolcuları takibe aldım
+https://the-godfather.uludagsozluk.com/ bu çocuk ta iş var kızlar çok güzel yazıalr yazıyo
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var paslaşması falan
 bkz kızlar ronaldoyu yorumlayalım az fena çocuk değil o da
 https://www.uludagsozluk.com/k/ersun-yanal/ bu çocukta fena değil ne yeazsam bilemedim
