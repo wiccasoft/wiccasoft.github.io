@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fenerbahçe nin paylaştığı trabzona nası koyduk paylaşımı
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg 
 bkz ama yol yabdık
 bkz kılıçtaroğlan ölse de eğlensek
 bkz merale pattes marremeee soğan nasıı koydu ama  tayber doğaaaannn
