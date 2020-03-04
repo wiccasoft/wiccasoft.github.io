@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kılıştaroğlunun bahçeliye  ölürsem kabrime gelme istemem demesi
 bkz bilal erdoğanın soyumuz devam edecek raad olun demesi
 bkz receğ tayyiğ erdoğan ölürse diye bilal erdoğan ölmesin diye dua etmek
 bkz kılıçtaroğlu tahmini hangi yıl ölür acaba
