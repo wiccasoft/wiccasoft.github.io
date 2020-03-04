@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fakirlerin kendilerin bi bok sanma sebepleri
 bkz fakirlerin birbirlerinin  bokunu yeme sebepleri
 bkz eşinin sıçtığı boku bile yiyeceksin
 https://www.uludagsozluk.com/k/e%C5%9Finin-s%C4%B1%C3%A7t%C4%B1%C4%9F%C4%B1-boku-bile-seveceksin/&w=bg
