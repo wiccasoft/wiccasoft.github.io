@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bahçelinin kelle olacam ben demesi
 bkz bahçelinin sınıra giderim hepsini vururum demesi
 bkz bahçelinni gerekirse helikopterden atlar şarjör değiştirir putini vururum demesi
 bkz bahçelini silahı alır kafama giderim demesi
