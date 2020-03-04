@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://twitter.com/kamilmakarna/status/1024737292123037696
 https://www.pinterest.com/wiccasoft/pins/
 bkz tayyibin daha çok beklersiniz demesi
 https://www.uludagsozluk.com/k/tayyibin-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacak-%C5%9Feyler/
