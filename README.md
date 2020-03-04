@@ -8,6 +8,11 @@ bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
 bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
 bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
 bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
+https://www.uludagsozluk.com/k/halen-windows-xp-kullanan-geri-kalm%C4%B1%C5%9F/&w=bg
+bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
+bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
+bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
+bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
 https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ekin-beyni/&w=bg
 bkz mansura yarrak imamaoğlana taşşak nası verdi mama 06 melihhhhh oooooo
 https://www.uludagsozluk.com/k/beraber-%C3%A7%C3%BCr%C3%BCd%C3%BCk-biz-bu-yollarda/
