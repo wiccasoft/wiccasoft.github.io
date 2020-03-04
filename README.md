@@ -4,6 +4,7 @@
 
 <!--
 bkz ama yol yabdık
+bkz ünzile annenin tayyibe doğum gününde araba alması
 bkz damadın tayyibe doğum güününde penis yüzüğü hediye etmesi
 bkz kelleler sepeti demedim tepesi dedim
 bkz beraber yürüdük biz bu yollardaaaaaa beraber ıslandık yağaaaaaan yağmurdaaaaaaaaaa
