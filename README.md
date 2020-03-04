@@ -4,8 +4,9 @@
 
 <!--
 bkz ama yol yabdık
+bkz damadın tayyibin doğum güününde penis yüzüğü hediye etmesi
 bkz kelleler sepeti demedim tepesi dedim
-bkz beraber yürüdük biz bu yollardaaaaaa beraber ısalndık yağaaaaaan yağmurdaaaaaaaaaa
+bkz beraber yürüdük biz bu yollardaaaaaa beraber ıslandık yağaaaaaan yağmurdaaaaaaaaaa
 bkz tayyibin nice senelere iyi ki doğmuşum postu
 https://www.pinterest.com/wiccasoft/pins/
 bkz tayyibin doğum gününde ölmesini bekleyenler
