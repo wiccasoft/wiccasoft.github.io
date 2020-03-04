@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz receğ tayyiğ erdoğanın attığı  tweet
 https://twitter.com/kamilmakarna/status/1024737292123037696
 https://www.instagram.com/rterdogan/?hl=en bunlar fake hesap kankağ
 https://www.pinterest.com/wiccasoft/pins/ bkz tayyibin doğum gününü kutlaması
