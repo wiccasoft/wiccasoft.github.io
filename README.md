@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ersun-yanal/ bu çocukta fena değil ne yeazsam bilemedim
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu çocukta fena değil olur bu
 https://www.uludagsozluk.com/e/42944984/ pbu çocuk iş yapar pas tercihleri falan fenaaaaaa
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta başka bişi var kafasına buyruk
