@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 bkz tolga ciğerci mi emre mor mu karar verememek
 bkz bu çocukta iş var denilen çocuğun mustafa kapı çıkması
 bkz hoşlaşılan forvet paslaşırken yürceğin gop gop etmesi
