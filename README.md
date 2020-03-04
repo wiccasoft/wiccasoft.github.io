@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz damadın fenerbahçe düşmanlığı
 https://www.uludagsozluk.com/k/ismail-co%C5%9Far/&w=bg coçtu bu da bi maç lan al tarafı
 https://tayber-dogan.uludagsozluk.com/ kapalı oturumu iyi yönet genco
 https://www.uludagsozluk.com/k/mecliste-kapal%C4%B1-oturuma-kat%C4%B1lan-hdpli-vekiller/
