@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayipin ölmedim ki ölmedim ki hihihihihi demesi
 bkz tayyipin ölmedim ki ölmedim ki hehehehehehe demesi
 bkz tayyipin ölmedim ki şaka demesi
 bkz tayyipin ölürsem ulucular mezarıma gelmesin demesi
