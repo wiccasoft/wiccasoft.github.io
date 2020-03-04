@@ -6,10 +6,8 @@
 https://twitter.com/kadrajmagazin/status/1235302153968902145
 bkz şehidimi yedrimem diyen ergenlerin güldürmesi
 https://www.uludagsozluk.com/e/42948903/
-bkz hayallerde yaşıyor bazı ibneler
 https://www.youtube.com/watch?v=xOOr6PCe1lo
 https://sir-a-dan-siradam.uludagsozluk.com/ 
-bkz kızlar illa ibne mi olalım diyen ergenin ibne çıkması
 https://www.uludagsozluk.com/k/engin-özkoç-un-yediği-dayak/ kelmiş yaa la bu :)))
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ 
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-tiktok%C3%A7unun-evinden-al%C4%B1nmas%C4%B1/&w=bg 
