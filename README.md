@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ibnelerin sürekli entry girme sebepleri
 bkz ibnelerin isyan edip ayaklanmama sebebi
 bkz gece vakti sözlükte oluşan ibnemsi ortam
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg biat kültürü 
