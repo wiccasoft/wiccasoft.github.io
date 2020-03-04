@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz receğ tayyiğ erdoğanın şaban ramanz ayı mübarek demesi
 bkz receğ tayyği erdoğan receğ ramazn şaban aylarına girdik içki iç.meyin demesi
 bkz receğ tayyiğ erdoğanın attığı  tweet
 https://twitter.com/kamilmakarna/status/1024737292123037696
