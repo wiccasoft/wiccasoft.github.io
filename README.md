@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ali koçun fenerbahçenin başarısının tolga ciğerciye bağlaması
 https://www.uludagsozluk.com/k/felsefeye-ihtiya%C3%A7-duyulmayan-yer/ fenerbahçe soyunma odası
 bkz ersun yanalın alper potuk la tolga ciğerci arasında kalması
 kızlar siz entry girmeye devam edin daha fazla girin belki okunur bi gün ha
