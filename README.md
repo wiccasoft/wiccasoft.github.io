@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tolga ciğerci mi emre mor mu karar verememek
 bkz bu çocukta iş var denilen çocuğun mustafa kapı çıkması
 bkz hoşlaşılan forvet paslaşırken yürceğin gop gop etmesi
 bkz hoşlaşılan forvetin at gibi zenci olması
