@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/erem-%C5%9Fent%C3%BCrk/&w=bg bkz şentürk türk oğlu türk
 bkz fenerbah sk twitter hesabının bayrakları yarıya indirmesi
 https://twitter.com/Fenerbahce/status/1234491171889651714
 bkz 4 mart 2020 damadın fener düşmanlığının ayyuka çıkması
