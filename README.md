@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz hery yurkokuya aşık olmim derken felsefe yapmak
 bkz kural hatalarının fenerbahçeyi mafetmesi
 bkz kuralsızlık ta bi kıural mıdır sorunsalı
 bkz var olmak varlıksa var olmamak nedir sorunsalı
