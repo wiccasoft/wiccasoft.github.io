@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ama yol yabdık
+bkz beraber yürüdük biz bu yollardaaaaaa beraber ısalndık yağaaaaaan yağmurdaaaaaaaaaa
 bkz tayyibin nice senelere iyi ki doğmuşum postu
 https://www.pinterest.com/wiccasoft/pins/
 bkz tayyibin doğum gününde ölmesini bekleyenler
