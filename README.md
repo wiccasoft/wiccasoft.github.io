@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- bua arada gençler selanik göçmeni trabzonluyum kasmayın yani
+<!-- 
+bu arada gençler selanik göçmeni trabzonluyum fazla kafayı yormayın kasmayın yani
 https://www.uludagsozluk.com/e/42942901/ bkz kafam tok diye vurdu sümsüğü 
 https://odatv.com/sosyal-medyanin-konustugu-konyali-multeci-03032003.html
 https://onedio.com/haber/multeci-gibi-yunanistan-a-gitmeye-calisan-ve-yunan-polisinden-dayak-yiyen-konyali-kut-pat-pat-siktilar-898808
