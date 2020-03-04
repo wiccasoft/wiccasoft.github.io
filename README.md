@@ -3,7 +3,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://radikalkemalizm.uludagsozluk.com/ bro google tc bestepe yaz ordan pingle tayyibi düşene kadar
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://radikalkemalizm.uludagsozluk.com bro rte nin sosyal medya hesaplarını verim ordan saldır
 https://radikalkemalizm.uludagsozluk.com/ bro sen rte ye saldır düşene kadar
