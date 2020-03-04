@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/ bkz tayyibin doğum gününü kutlaması
 bkz eesdin tc beştepe yi vurması
 bkz google  tc tayyip yazınca rusya bağlaması
 bkz tayyibin sosyal medya hesaplarının rusların eline geçmesi
