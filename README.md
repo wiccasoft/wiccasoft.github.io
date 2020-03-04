@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz bahçelinni tayyibe dokananı mermi manyağ yaparım demesi
-bkz ne olursa olsun tayybimin arksındayım agaaaa bu adama dokunmayın
+bkz bahçelinin tayyibe dokananı mermi manyağ yaparım demesi
+bkz ne olursa olsun tayybimin arkasındayım agaaaa bu adama dokunmayın
 https://www.uludagsozluk.com/k/ne-olursa-olsun-devletimin-ba%C5%9Fkan%C4%B1m%C4%B1n-arkas%C4%B1nday%C4%B1m/&w=bg
 bkz receğ ttayyiğ erdoğanın hulisi streami salması
 bkz receğ tayyiğ erdoğanın recep şaban ramazan ayı mübarek demesi
