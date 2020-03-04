@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-şehitlerinizin götüne koyim it sıçıkları
+şehitlerinizin(kellerinizin) götüne koyim it sıçıkları
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-tiktok%C3%A7unun-evinden-al%C4%B1nmas%C4%B1/&w=bg 
 https://sir-a-dan-siradam.uludagsozluk.com/ https://www.youtube.com/watch?v=xOOr6PCe1lo
 https://www.uludagsozluk.com/e/42948732/ bak hala olm lu konuşuyo oç  ibne
