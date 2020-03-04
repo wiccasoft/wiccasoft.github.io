@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 bkz ibnelerin sürekli entry girme sebepleri
 bkz ibnelerin isyan edip ayaklanmama sebebi
 bkz gece vakti sözlükte oluşan ibnemsi ortam
