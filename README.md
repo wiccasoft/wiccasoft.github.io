@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bahçelinin hepinizi gömerim demesi
 bkz ay inşallah ölmeyiz dimi lütfen ölmeyelim çünkü
 bkz biz ölmeyelim kk la rte ölsün takılırız be pampalar
 bkz herkes ölsede beraber bira tokuştursak be kankalar
