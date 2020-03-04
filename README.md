@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz tolga ciğerci nin fenerbahçe zara verdiğini kabulelenememek kafayı duvarlara vurmak
+bkz tolga ciğerci nin fenerbahçe zarat verdmesini kabulelenememek kafayı duvarlara vurmak
 bkz olmak olmamaksa var olamk var olmamak mıdır sorunsalı
 https://www.uludagsozluk.com/k/kurals%C4%B1zl%C4%B1k-bir-kural-m%C4%B1d%C4%B1r/&w=bg olmak olmamakmıdır
 https://www.uludagsozluk.com/k/uyuyamamak-amk-uyuyamamak/&w=bg adamın durduk yree amına goyan şarkılar
