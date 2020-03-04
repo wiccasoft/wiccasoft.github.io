@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz beraber yürüdük biz bu yollardaaaaaaaa
 bkz şaka maka tayyibin hatayı bize vereceği gerçeği
 bkz bi salın gitsin adamı ya hatayı alalım biz de
 https://www.uludagsozluk.com/k/rusyan%C4%B1n-ma%C5%9Fas%C4%B1/ bkz bahçeli
