@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fakirlerin isyan edip entry girmesi
 bkz fakirlerin entry girmekten ayaklanaması
 bkz fakirlerin biat kültürü
 bkz zenginlerin biat etmemesi
