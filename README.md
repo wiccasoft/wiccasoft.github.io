@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz lise 1 felsefeden 90 aldım pampa
-bkz ideler evreninde idelerin gölgesi oldupumuz gerceği
+bkz lise 1 felsefeden 90 aldım pampa diyen ergeni mağaraya sokup sikmek
+bkz ideler evreninde idelerin gölgesi olduğumuz gerceği
 bkz varlık varolmamaksa varolamanın dayanızmaz hafiflğine ne demeli
 bkz felsefe yapan oğlanların ılık olduğu gerçeği
 bkz eflatunun felesefi bütün oğlanları hoplattığı gerçeği
