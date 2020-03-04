@@ -4,7 +4,7 @@
 
 <!-- 
 https://sir-a-dan-siradam.uludagsozluk.com/ https://www.youtube.com/watch?v=xOOr6PCe1lo
-https://www.uludagsozluk.com/e/42948732/ bak hala olm lu konuşuyo oç ergen
+https://www.uludagsozluk.com/e/42948732/ bak hala olm lu konuşuyo oç  ibne
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ bkz zenci o sanki ama neyse
 bkz corona virüsü arapları öldürcek bizi öldürmez diyen kamalcı
 https://www.uludagsozluk.com/k/bae-liderine-koronavir%C3%BCs-bula%C5%9Fmas%C4%B1/ 
