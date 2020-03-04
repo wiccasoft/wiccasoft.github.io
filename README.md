@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz receğ ttayyiğ erdoğanın hulisi streami salması
 bkz receğ tayyiğ erdoğanın recep şaban ramazan ayı mübarek demesi
 bkz receğ tayyği erdoğan receğ ramazan şaban aylarına girdik içki içmeyin demesi
 bkz receğ tayyiğ erdoğanın attığı  tweet
