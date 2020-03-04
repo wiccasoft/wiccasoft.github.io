@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var pas tercihleri falan ay
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var pas tercihleri falan
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg hoş bi çekicilik var bu çocukta
 https://www.uludagsozluk.com/k/ersun-yanal/ çok yakışıklı ama yaaaaaaaaaa
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu da hoş çocuk bakışları keskin
