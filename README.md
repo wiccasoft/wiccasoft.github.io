@@ -3,161 +3,17 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 https://www.uludagsozluk.com/e/31544556/ namaz kılmak
 https://radikalkemalizm.uludagsozluk.com/ sakat heralde
 https://www.uludagsozluk.com/k/ben-uyumaya-gidiyorum/&w=bg felsefe yapıyoduk yeğen
 https://www.uludagsozluk.com/k/8-mart-2020-sivasspor-galatasaray-ma%C3%A7%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg bkz namaz
-bkz fakirlerin namaz kıldıkları için ayaklanamaması
-https://www.uludagsozluk.com/e/42945016/ din biat namaz kültürü
+https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg bkz din
 https://www.uludagsozluk.com/k/8-mart-2020-sivasspor-galatasaray-ma%C3%A7%C4%B1/&w=bg
 bkz bahçelinin iyice bunması
 bkz bahçelinni atımı getirin demesi
 bkz bahçelinin deh dıgıdık dıgıdık olma isteği
-bkz bahçelinin sınıra giderim hepsini vururum demesi
-bkz bahçelini silahı alır kafama giderim demesi
-https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/&w=bg
-bkz bahçelinin kelle olma isteği
-bkz bahçelinin emaneti çekerim sınıra gider putini vururum demesi
-bkz fakirlerin kendilerin bi bok sanma sebepleri
-bkz fakirlerin birbirlerinin  bokunu yeme sebepleri
-bkz eşinin sıçtığı boku bile yiyeceksin
-https://www.uludagsozluk.com/k/e%C5%9Finin-s%C4%B1%C3%A7t%C4%B1%C4%9F%C4%B1-boku-bile-seveceksin/&w=bg
-bkz fakirlerin isyan edip  entry girmeme sebepleri
-bkz fakirlerin facebook kullanma sebepleri
-bkz fakirlerin bulundaukları ortama yapışmaları
-bkz fakirlerin entry giremem sebeplerini biat kültürü olduğu gerçeği
-bkz fakirlerin entry girmeme sebepleri
-bkz fakirlerin isyan edip entry girmesi
-bkz fakirlerin entry girmekten ayaklanaması
-bkz fakirlerin biat kültürü
-bkz zenginlerin biat etmemesi
-bkz fakirler ayaklanmama sebebi biat biat etmeseler ayaklanırlar
-bkz fakirler biat ediyolar olm ondan biliyoz da söylüyoz
-bkz din toplumların afyonudur ondan isyan etmiyolar biat ediyolar
-https://www.uludagsozluk.com/e/42945005/ biat kültürü biat ediyolar
-bkz fakirlerin ayaklanama sebebinni biat kültürü olması ben biliyom biat ediyolar
-bkz fenerbahçeye biat kültürünün fakirleri isyan etmemeye zorlaması
-https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg bkz futbol
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-bkz tolga ciğercinin fenerbahçenin truva atı olduğu gerçeği
-bkz damadın fenerbahçe düşmanlığı
-bkz damadın trabzonu şampiyon yapacağı gerçeği
-bkz ersun yanal ali koç recep tayip erdoğan üçlüsü
-bkz henry yurokuku daki biat kültürü
-bkz henry yurokuku daki şeyttan tüyü
-bkz recep tayyip erdoğan isimli erkeklerdeki seksilik
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu çocuğun bakışlarında bi büyü var
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-bkz bu çocuk ta büyü var denilen çocuğun güzel paslaşması
-bkz tolga ciğerciya aşık olmim derken henry yurokukuya aşık olmak
-https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry yurokuku
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-bkz kendinin elit sanan ibneler
-https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry yuroku
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-bjz bahcelinin götten vurduracam demesi
-bkz biat kültürü
-bkz ibnelerin sürekli entry girme sebepleri
-bkz ibnelerin isyan edip ayaklanmama sebebi
-bkz gece vakti sözlükte oluşan ibnemsi ortam
-https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg biat kültürü 
-https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry yurokuku
-https://www.uludagsozluk.com/k/ersun-yanal/ bu adam da bi efsun var sanki
-bkz bahçelinin iyice bunaması
-bkz bahçelinin emaneti çekerim sınıra giderim demesi
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuk fena yaaaa kızlar paslaşması falan
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-bkz tolga ciğerci mi emre mor mu karar verememek
-bkz bu çocukta iş var denilen çocuğun mustafa kapı çıkması
-bkz hoşlaşılan forvet paslaşırken yürceğin gop gop etmesi
-bkz hoşlaşılan forvetin at gibi zenci olması
-bkz hoşlaşılan çocuğun sol bek santrafor  oynaması
-bkz tolga ciğerciden kaçarken henry yukuku aşkına kapılmak
-bkz yağmurdan kaçarken doluya tutulmak
-bkz hery yurkokuya aşık olmim derken felsefe yapmak
-bkz kural hatalarının fenerbahçeyi mafetmesi
-bkz kuralsızlık ta bi kıural mıdır sorunsalı
-bkz var olmak varlıksa var olmamak nedir sorunsalı
-https://www.uludagsozluk.com/k/gece-vakti-s%C3%B6zl%C3%BCkte-olu%C5%9Fan-elit-ortam/&w=bg
-bkz e 5 te çıplak dolaşan adam
-bkz bahçelinin ehit olma isteği
-https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/&w=bg
-bkz tolga ciğerciye aşık olmim derken henry oneyekuruyla kurlaşmak
-https://www.uludagsozluk.com/k/yanl%C4%B1%C5%9F-insana-a%C5%9F%C4%B1k-olmak/&w=bg bkz henry onyekuru
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuk iş yapar fena bişey bu
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
-https://www.uludagsozluk.com/e/42944897/ 
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var 
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var demişmiydim
-https://www.uludagsozluk.com/e/42944897/ ne güzel anlatmış
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok ilginç bişey var bu çocukta
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok ilginç bi çocuk bu
-https://the-godfather.uludagsozluk.com/ bu çocuk ta iş var kızlar çok güzel yazıalr yazıyo
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var paslaşması falan
-bkz kızlar ronaldoyu yorumlayalım az fena çocuk değil o da
-https://www.uludagsozluk.com/k/ersun-yanal/ bu çocukta fena değil ne yeazsam bilemedim
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu çocukta fena değil olur bu
-https://www.uludagsozluk.com/e/42944984/ pbu çocuk iş yapar pas tercihleri falan fenaaaaaa
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta başka bişi var kafasına buyruk
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var pas tercihleri falan
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg hoş bi çekicilik var bu çocukta
-https://www.uludagsozluk.com/k/ersun-yanal/ çok yakışıklı ama yaaaaaaaaaa
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu da hoş çocuk bakışları keskin
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg çok hoş çocuk
-https://www.uludagsozluk.com/e/42943560/ bkz tolga ciğercinin egoist tavırları
-https://www.uludagsozluk.com/e/42944984/ o umarsız tavırları yok mu 
-https://www.uludagsozluk.com/e/42944984/ hoş çocuk ama
-https://www.uludagsozluk.com/e/42944897/ takım tutumuyorum dan sonrasını okumadım
-https://www.uludagsozluk.com/e/42944984/ hoş çocuk ama
-https://www.uludagsozluk.com/ bkz nonoşların hoşlandıkları erkeklere entry girdiği platfrom
-https://www.uludagsozluk.com/e/42944984/ çocuk hoş ama itiraf et
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bkz hoş çocuk
-bkz bilal erdoğan vs burak erdoğan
-bkz burak erdoğan vs recep tayyiğ erdoğan
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ümmmeti güneş gibi doğan adam
-https://www.uludagsozluk.com/k/bo%C5%9F-zamanlarda-felsefe-yapmak/ okumaya doymadığım yazılar
-https://www.uludagsozluk.com/k/ziya-g%C3%B6kalp/&w=bg atacücücü güçlü bir kalem
-bkz ali koçun fenerbahçenin başarısının tolga ciğerciye bağlaması
-https://www.uludagsozluk.com/k/felsefeye-ihtiya%C3%A7-duyulmayan-yer/ fenerbahçe soyunma odası
-bkz ersun yanalın alper potuk la tolga ciğerci arasında kalması
-kızlar siz entry girmeye devam edin daha fazla girin belki okunur bi gün ha
-https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/ okumadım
-https://www.uludagsozluk.com/e/42944897/
-https://www.uludagsozluk.com/e/42944897/ okumadım pampa
-bkz ergenlerin okuyolarmış gibi durmadan uzun uzun yazılar yazdığı forum siteleri
-https://www.uludagsozluk.com/k/bo%C5%9F-zamanlarda-felsefe-yapmak/ okumadım pampa
-bkz facebook tan aldığı likeları yarıştıran kızlar
-bkz aldığı iltifatları whatsuuptan atan kızlar
-https://www.uludagsozluk.com/k/en-son-al%C4%B1nan-iltifat/&w=bg whatsup mı lan o
-https://www.uludagsozluk.com/e/42944965/ az yemek iyidir zekayı geliştirir
-bkz ersun yanalın yanallaması
-bkz lise 1 felsefeden 90 aldım pampa diyen ergeni mağaraya sokup sikmek
-bkz ideler evreninde idelerin gölgesi olduğumuz gerceği
-bkz varlık varolmamaksa varolamanın dayanızmaz hafiflğine ne demeli
-bkz felsefe yapan oğlanların ılık olduğu gerçeği
-bkz eflatunun felesefi bütün oğlanları hoplattığı gerçeği
-https://www.uludagsozluk.com/k/selam-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-kant-sever-misin/
-bkz sürekli kendinin öven felsefesi bütün oğlan
-bkz felsefesi bütün oğlanların kendini övmesi
-https://www.uludagsozluk.com/k/kendinizi-bir-c%C3%BCmle-ile-anlat%C4%B1n/&w=bg kendinden bahset bana
-bkz kuralsızlık kuralmıdır
-bkz felsefisi bütün oğlanların göt deliğini yalamak
-bkz küçük filozof atakananın kuralsızlık kuraldır açıklaması
-bkz hakemin kural hatasının da bir kurasızlık olduğu gerçeği
-bkz damadın fenerbahçe düşmanlığı
-bkz tolga ciğerci nin fenerbahçe zarar vermesini kabulelenememek kafayı duvarlara vurmak
-bkz olmak olmamaksa var olamk var olmamak mıdır sorunsalı
-https://www.uludagsozluk.com/k/kurals%C4%B1zl%C4%B1k-bir-kural-m%C4%B1d%C4%B1r/&w=bg olmak olmamakmıdır
-https://www.uludagsozluk.com/k/uyuyamamak-amk-uyuyamamak/&w=bg adamın durduk yree amına goyan şarkılar
-https://www.uludagsozluk.com/e/42944897/ abi santrforu açığı var aslında parasını topalsak fener olsak
-https://www.uludagsozluk.com/k/ah-ulan-r%C4%B1za/&w=bg ah ulan rıza ne yiyişirdik senle
-https://www.uludagsozluk.com/e/42944925/ abi biraz kafayı yorsak
-bkz tolga ciğericini fenerbahçeye zarar verdiği kabul edemeycek kadar kör olmak
-bkz tolga ciğercinin egosunun fenerbahçeye zara verdiği gerçeği
-https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/&w=bg tolga ciğerciyle alper potukun uyumsuzluğu
-https://www.uludagsozluk.com/k/ersun-yanal/ bkz adam gibi adam ali koça kurulan pusuyu farkeden adam -->
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
