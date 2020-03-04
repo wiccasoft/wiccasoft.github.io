@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz meral patte4s marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 https://twitter.com/kamilmakarna/status/1024737292123037696
 https://www.pinterest.com/wiccasoft/pins/
 bkz tayyibin daha çok beklersiniz demesi
