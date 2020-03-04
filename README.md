@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fakirler niye facebook bağımlısı sorunsalı
 bkz fakirler niye ayaklanmıyor: biat kültürü namaz din cami siyasal islam futbol facebook hariç onlar eğlence
 bkz adam gözlem yapıyo beyler
 bkz din tomplumların afyonudur ıonda bbiat ediyolar ayaklanamıyolar gözlemledim ordan biliyom
