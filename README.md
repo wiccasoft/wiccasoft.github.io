@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fenerbah sk hesabının bayrakları yarıya indirmesi
 https://twitter.com/Fenerbahce/status/1234491171889651714
 bkz 4 mart 2020 damadın fener düşmanlığının ayyuka çıkması
 https://www.uludagsozluk.com/k/sabah%C4%B1n-%C5%9Fark%C4%B1s%C4%B1/&w=bg beraber yürüdük bi bu yollarda
