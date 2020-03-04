@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/sabah%C4%B1n-%C5%9Fark%C4%B1s%C4%B1/&w=bg beraber yürüdük biz bu yollarda
 bkz tayyibin fenerbahçeli damadın trabzonlu olduğu gerçeği
 bkz tayyibin fenerbahçe soyunma odasına girmesi
 bkz bahçelinin fenerbahçeli olduğu gerçeği
