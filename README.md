@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/gelsin-hilafet-y%C4%B1k%C4%B1ls%C4%B1n-kemalizm/ ooo skiş dönüyo
 bkz fakirlerin işe gitme sebebi
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 https://www.uludagsozluk.com/e/31544556/ namaz kılmak
