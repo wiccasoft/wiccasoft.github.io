@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/e/42944897/ abi santrforu açığı var aslında parasını topalsak fener olsak
 https://www.uludagsozluk.com/k/ah-ulan-r%C4%B1za/&w=bg ah ulan rıza ne yiyişirdik senle
 https://www.uludagsozluk.com/e/42944925/ abi biraz kafayı yorsak
 bkz tolga ciğericini fenerbahçeye zarar verdiği kabul edemeycek kadar kör olmak
