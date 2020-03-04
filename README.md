@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kızlar ronaldoyu yorumlayalım az fena çocuk değil o da
 bkz kızlar heyp aynı erkeklere entr giriyoruz ayol
 https://www.uludagsozluk.com/k/ersun-yanal/ bu çocukta fena değil ne yeazsam bilemedim
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu çocukta fena değil olur bu
