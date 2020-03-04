@@ -4,7 +4,7 @@
 
 <!--
 bkz fakirler niye haber linki paylaşıyorlar sorunsalı
-bkz fakirler niye twitter link atıloyorlar sorunsalı
+bkz fakirler niye twitter link atıyorlar sorunsalı
 bkz fakirler niye futbol fanatiği sorunsalı
 bkz fakirler niye facebook bağımlısı sorunsalı
 bkz fakirler niye ayaklanmıyor: biat kültürü namaz din cami siyasal islam 
