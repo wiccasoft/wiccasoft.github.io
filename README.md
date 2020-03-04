@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ideler evreninde idelerin gölgesi oldupumuz gerceği
 bkz varlık varolmamaksa varolamanın dayanızmaz hafiflğine ne demeli
 bkz felsefe yapan oğlanların ılık olduğu gerçeği
 bkz eflatunun felesefi bütün oğlanları hoplattığı gerçeği
