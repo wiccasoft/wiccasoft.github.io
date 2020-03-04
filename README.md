@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz henry yurokuku daki biat kültürü
 bkz henry yurokuku daki şeyttan tüyü
 bkz recep tayyip erdoğan isimli erkeklerdeki seksilik
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/ bu çocuğun bakışlarında bi büyü var
