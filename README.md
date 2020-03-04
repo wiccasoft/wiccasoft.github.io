@@ -3,10 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bjz bahçelinni bahçeli evi bırakıp kelle olacam demesi
-bkz bahçelinin kelle olacam ben demesi
+bkz bahçelinni iyice bunması
 bkz bahçelinin sınıra giderim hepsini vururum demesi
-bkz bahçelinni gerekirse helikopterden atlar şarjör değiştirir putini vururum demesi
 bkz bahçelini silahı alır kafama giderim demesi
 https://www.uludagsozluk.com/k/bah%C3%A7eli-nin-%C5%9Fehit-olma-iste%C4%9Fi/&w=bg
 bkz bahçelinin kelle olma isteği
