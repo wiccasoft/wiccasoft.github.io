@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz varlık varolmamak sa varolamanın dayanızmaz hafiflğine ne demeli
 bkz felsefe yapan oğlanların ılık olduğu gerçeği
 bkz eflatunun felesefi bütün oğlanları hoplattığı gerçeği
 https://www.uludagsozluk.com/k/selam-yak%C4%B1%C5%9F%C4%B1kl%C4%B1-kant-sever-misin/
