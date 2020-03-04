@@ -4,6 +4,7 @@
 
 <!--
 bkz kuralsızlık kuralmıdır
+bkz hakemin kural hatasının da bir kurasızlık olduğu gerçeği
 bkz damadın fenerbahçe düşmanlığı
 bkz tolga ciğerci nin fenerbahçe zarar vermesini kabulelenememek kafayı duvarlara vurmak
 bkz olmak olmamaksa var olamk var olmamak mıdır sorunsalı
