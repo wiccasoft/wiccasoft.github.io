@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz lise 1 felsefeden 90 aldım pampa
 bkz ideler evreninde idelerin gölgesi oldupumuz gerceği
 bkz varlık varolmamaksa varolamanın dayanızmaz hafiflğine ne demeli
 bkz felsefe yapan oğlanların ılık olduğu gerçeği
