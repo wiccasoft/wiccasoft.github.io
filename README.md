@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz re ceğ tauy yiğ er do ğan re ce tay yi er do ğan 
+bkz re ceğ tay yiğ er do ğan re ce tay yi er do ğan re  ceğ tay yiğ er do ğan
 bkz tayyibin bu fakir bu görevde oldukça bakçelinnin kılına dokunmazsınız demesi
 bkz bahçelinin hepinizi gömerim demesi
 bkz ay inşallah ölmeyiz dimi lütfen ölmeyelim çünkü
