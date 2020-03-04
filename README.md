@@ -13,7 +13,7 @@ https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahip
 https://www.uludagsozluk.com/k/%C5%9Fehitlere-hakaret-tiktok%C3%A7unun-evinden-al%C4%B1nmas%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ bkz zenci o sanki ama neyse
 bkz meral pattes marrem ayran nası koydu ama tayber doğannnnnn ooooooo
-https://www.uludagsozluk.com/k/siyasal-islamc%C4%B1lar%C4%B1n-rak%C4%B1-sofras%C4%B1/ kbkz eyifler gıcır valla
+https://www.uludagsozluk.com/k/siyasal-islamc%C4%B1lar%C4%B1n-rak%C4%B1-sofras%C4%B1/ bkz keyifler gıcır valla
  -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
