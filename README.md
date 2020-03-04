@@ -4,6 +4,7 @@
 
 <!--
 bkz ama yol yabdık
+https://www.uludagsozluk.com/k/mecliste-kapal%C4%B1-oturuma-kat%C4%B1lan-hdpli-vekiller/ bkz hani marjinal chp ydi
 bkz ünzile annenin tayyibe doğum gününde araba alması
 bkz damadın tayyibe doğum güününde penis yüzüğü hediye etmesi
 bkz kelleler sepeti demedim tepesi dedim
