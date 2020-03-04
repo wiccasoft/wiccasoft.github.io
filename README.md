@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg abi güzel yazmışsında adam forvet zaten
+https://www.uludagsozluk.com/e/42944984/ çocuk hoş ama itiraf et
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bkz hoş çocuk
 bkz bilal erdoğan vs burak erdoğan
 bkz burak erdoğan vs recep tayyiğ erdoğan
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz ümmmeti güneş gibi doğan adam
