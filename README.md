@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/tayyibin-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacak-%C5%9Feyler/ 
+https://www.uludagsozluk.com/k/rte-nin-fet%C3%B6-ye-verdi%C4%9Fi-%C5%9Feyler/ bkz göt
 https://www.uludagsozluk.com/k/ladyboy-sevgilim-i%C3%A7in-araba-tavsiyesi/ sakat heralde
 https://radikalkemalizm.uludagsozluk.com/ sakat heralde
 https://www.uludagsozluk.com/k/oglunun-uyumas%C4%B1n%C4%B1-bekleyen-masum-baba/ who's your daddy
