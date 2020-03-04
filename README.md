@@ -4,8 +4,6 @@
 
 <!--
 bkz fenerbahçenin bahçeliye fener arması takması
-bkz tayybin damadının oooo daha çok beklersiniz demesi
-bkz tayybin damadın ölmesin beklemeyin demesi
 bkz damad öldüğü gün yapılacaklar
 bkz damadın fenerbahçe düşmanlığı
 bkz alper potukun tolga ciğerci yle iyi bi uyum yakalaması
