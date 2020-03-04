@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta iş var gençler paslaşma şekline bakın
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 https://www.uludagsozluk.com/e/42944897/ 
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocukta şeytan tüyü var 
