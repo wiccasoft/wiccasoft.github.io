@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://the-godfather.uludagsozluk.com/ ibnemsi bişey
 https://www.uludagsozluk.com/e/42944984/ çocuk hoş ama itiraf et
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bkz hoş çocuk
 bkz bilal erdoğan vs burak erdoğan
