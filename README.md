@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-kızlar siz entry girmeye devam edin daha fazl girin belki okunur bi gün ha
+bkz ersun yanalın alper potuk la tolga ciğerci arasında kalması
+kızlar siz entry girmeye devam edin daha fazla girin belki okunur bi gün ha
 https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/ okumadım
 https://www.uludagsozluk.com/e/42944897/
 https://www.uludagsozluk.com/e/42944897/ okumadım pampa
