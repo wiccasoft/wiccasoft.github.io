@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fenerbahçeye biat kültürünün fakirleri isyan etmemeye zorlaması
 https://www.uludagsozluk.com/k/fakirlerin-isyan-edip-ayaklanmama-nedeni/&w=bg bkz futbol
 https://www.uludagsozluk.com/k/henry-onyekuru/&w=bg bu çocuğun bi büyüsü var
 bkz tolga ciğercinin fenerbahçenin truva atı olduğu gerçeği
