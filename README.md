@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tolga ciğericini fenerbahçeye zarar verdiği kabul edemeycek kadar kör olmak
 bkz tolga ciğercinin egosunun fenerbahçeye zara verdiği gerçeği
 https://www.uludagsozluk.com/k/fenerbah%C3%A7enin-ba%C5%9Far%C4%B1s%C4%B1zl%C4%B1%C4%9F%C4%B1n%C4%B1n-sebepleri/&w=bg tolga ciğerciyle alper potukun uyumsuzluğu
 https://www.uludagsozluk.com/k/ersun-yanal/ bkz adam gibi adam ali koça kurulan pusuyu farkeden adam -->
