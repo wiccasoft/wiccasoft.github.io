@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bahçelinin deh dıgıdık dıgıdık olma isteği
 bkz bahçelinni şehit olma isteği
 bkz bahçelinin iyice bunması
 bkz bahçelinin sınıra giderim hepsini vururum demesi
