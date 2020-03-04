@@ -7,7 +7,7 @@ bkz tayyip panteist solcuyum dese olacaklar
 https://www.uludagsozluk.com/k/s%C3%BCheyl-hasan/ bkz kurtlar vadisi süheyl
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ sanki zenci ama neyse
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yol-un-bo%C5%9F-bir-film-olmas%C4%B1/ bkz yeşil  yoldaki arap
-bu arada gençler 42 yaşında olgun kaslı uzun boylu sarışın mavi gözlü selanik göçmeni trabzonluyum fazla kafayı yormayın kasmayın yani
+bu arada gençler 42 yaşında olgun kaslı uzun boylu sarışın mavi gözlü selanik göçmeni trabzonluyum karşımda şansızınız yok fazla kafayı yormayın kasmayın yani
 https://www.uludagsozluk.com/e/42942901/ bkz kafam tok diye vurdu sümsüğü 
 https://odatv.com/sosyal-medyanin-konustugu-konyali-multeci-03032003.html
 https://onedio.com/haber/multeci-gibi-yunanistan-a-gitmeye-calisan-ve-yunan-polisinden-dayak-yiyen-konyali-kut-pat-pat-siktilar-898808
