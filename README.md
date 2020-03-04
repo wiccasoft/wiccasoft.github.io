@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+beyler tayyip ingiltereye gitmiş ülkeyi saklayalım dönünce bulamasın
 beyler tayyip ölene kadar bekleyelim ondan sorna kutlarız
 https://www.uludagsozluk.com/k/tayyibin-%C3%B6ld%C3%BC%C4%9F%C3%BC-g%C3%BCn-yap%C4%B1lacak-%C5%9Feyler/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
