@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz hoşlaşılan çocuğun sol bek açık oynaması
+bkz hoşlaşılan çocuğun sol bek santrafor  oynaması
 bkz tolga ciğerciden kaçarken henry yukuku aşkına kapılmak
 bkz yağmurdan kaçarken doluya tutulmak
 bkz hery yurkokuya aşık olmim derken felsefe yapmak
