@@ -4,7 +4,7 @@
 
 <!-- 
 https://twitter.com/kadrajmagazin/status/1235302153968902145
-bkz şehidimi yedrimem diyen ergenlerin güldürmesi
+bkz şehidimi yedirmem diyen ergenlerin güldürmesi
 https://www.uludagsozluk.com/e/42948903/
 https://www.youtube.com/watch?v=xOOr6PCe1lo
 https://sir-a-dan-siradam.uludagsozluk.com/ 
