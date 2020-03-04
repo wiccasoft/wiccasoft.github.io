@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kk nın behcelini elini itmesi
 bkz bahçelinin kelle paça olma isteği
 bkz 4 mart 2020 doğum günümün gelmesi hadi ben kaçar
 bkz ya tayyip fetöye hadi affettim gel ne istiyosan al derse olacaklar
