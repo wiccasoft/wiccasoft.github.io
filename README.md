@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ersun yanalın yanallaması
 bkz lise 1 felsefeden 90 aldım pampa diyen ergeni mağaraya sokup sikmek
 bkz ideler evreninde idelerin gölgesi olduğumuz gerceği
 bkz varlık varolmamaksa varolamanın dayanızmaz hafiflğine ne demeli
