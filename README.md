@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz fakirler ayaklanmama sebebi biat biat etmeseler ayaklanırlar
 bkz fakirler biat ediyolar olm ondan biliyoz da söylüyoz
 bkz din toplumların afyonudur ondan isyan etmiyolar biat ediyolar
 https://www.uludagsozluk.com/e/42945005/ biat kültürü biat ediyolar
