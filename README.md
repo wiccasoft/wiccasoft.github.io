@@ -6,6 +6,7 @@
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
+bkz meral pattes marrem soğan nası koydu ama tayber doğannnnnn ooooooo
 https://twitter.com/kamilmakarna/status/1024737292123037696
 https://www.pinterest.com/wiccasoft/pins/
 bkz tayyibin daha çok beklersiniz demesi
