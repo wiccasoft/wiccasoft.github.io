@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/moskova-fatihi/&w=bg bkz tangır budun doğan
+https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz rte putin tangır budun doğan
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz putinini önünde diz çöken dünya lideri
 https://www.uludagsozluk.com/k/efe-aydal-potcast-dinler-iken-mobil-oyun-oynamak/ bkz 18 yaşında
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz atakan kayalar essy
