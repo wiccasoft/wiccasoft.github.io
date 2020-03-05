@@ -4,6 +4,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/25099503
+bkz 45 cm araliskiz kese sapi nicki almanın normal karşılandiği ülke
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
 https://eksisozluk.com/nickinden-rahatsiz-oldum-favorini-kaldirir-misin--6395930 
