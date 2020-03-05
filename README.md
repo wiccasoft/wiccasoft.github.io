@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+https://www.uludagsozluk.com/k/tayyib-diye-bir-isme-sahip-olmak/ bkz adam halı beyler tayyip nedir yahu
 https://www.uludagsozluk.com/k/bizim-bi-kanal-i%C5%9Fi-vard%C4%B1-noldu-o-m%C3%BCd%C3%BCr/ bkz tangur budun doğan
 bkz 5 mart 2020 türk heyeti fotosuna bakarken babanın odaya girmesi
 bkz tengir budun doğanın kremlini basıp putinin kafasını kesmeai
