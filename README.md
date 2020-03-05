@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/%C5%9Fam-da-namaz-yerine-rusya-ya-domates-satmak/ ooooooo kapak
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/&w=bg sorunsal
 bkz ülkücü gaylerin engin özkoçun ofisini basması
 https://www.uludagsozluk.com/k/rte-nin-esed-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BCn%C3%BCz-m%C3%BC-diye-sormas%C4%B1/
