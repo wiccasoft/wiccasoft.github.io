@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz tatlı ama
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz küçük filozof atakan
 https://www.uludagsozluk.com/k/%C3%A7ingene-k%C3%BCrt-kar%C4%B1%C5%9F%C4%B1m%C4%B1-%C3%A7ocuk/&w=bg bkz atakan
 https://www.uludagsozluk.com/k/so%C3%A7i-mutabakat%C4%B1-vs-idlip-ate%C5%9Fkesi-s%C4%B1n%C4%B1rlar%C4%B1/
