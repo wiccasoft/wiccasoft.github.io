@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+bkz 5 mart 2020 türk heyeti fotosuna bakarken babanın odaya girmesi
 bkz tengir budun doğanın kremlini basıp putinin kafasını kesmeai
 bkz 5 mart türk heyeti rusya foğrafına attırırken babanın odaya girmesi
 bkz uludaki eşcinsel barzoların güldüren yorumları
