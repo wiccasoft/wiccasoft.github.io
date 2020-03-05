@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz m kemalin tokat manyağı yaptığı liderle el pençe divan olmak
 bkz abdulahmdinin bıraktığı toğrakları geri almaya yemin içmek
 https://www.uludagsozluk.com/k/m-kemal-in-kud%C3%BCs-%C3%BC-ingilizlere-teslim-etmesi/&w=bg
 https://www.uludagsozluk.com/k/theodor-herzl-e-devlet-madalyas%C4%B1-vermek/&w=bg bkz nerden baksan utanç verici
