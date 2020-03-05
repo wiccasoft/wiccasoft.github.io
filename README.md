@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/esaretin-bedeli/&w=bg bkz eşcinselliğin doruk noktası filmler
 bkz polatın kremlini basıp raconu koyması
 bkz türkiyenin dünya lideri olduğunu anlamak
 bkz 5 mart 2020 erdoğanın putine ayakkabısını boyatması
