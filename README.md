@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/neyittin-yi%C4%9Fen-bizim-i%C5%9Fi/
+https://www.uludagsozluk.com/k/tarkan-%C4%B1n-en-g%C3%BCzel-%C5%9Fark%C4%B1s%C4%B1/&w=bg bkz sen gidi fındık kıran
 https://eksisozluk.com/5-mart-2020-turk-askeri-silah-cekti-iddiasi--6396036?a=popular bkz tıklağ işin aslı neymiş öğren 
 https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985?a=popular tıklağ detayları öğren
 https://www.uludagsozluk.com/k/s%C3%BCtyen-giymeden-s%C3%B6zl%C3%BC%C4%9Fe-giren-k%C4%B1z/&w=gd lol
