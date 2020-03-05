@@ -4,6 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/5-mart-mutabakat%C4%B1/ bkz hayırlı mutabakatlar
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/ hayırlı forumlar
 https://www.uludagsozluk.com/k/so%C3%A7i-mutabakat%C4%B1-vs-idlip-ate%C5%9Fkesi-s%C4%B1n%C4%B1rlar%C4%B1/ hulusi sen misin
 https://www.uludagsozluk.com/k/akp-lozan-i%C3%A7in-masaya-otursayd%C4%B1/ bkz polat alemdar moscow
 https://www.uludagsozluk.com/k/saat-22-00-da-peynir-ekmek-yemek/ bkz bi gece ansızın st petersburg
