@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/anal-sekse-ilgi-duyan-erkeklerin-gay-olmas%C4%B1/&w=bg bkz atakan
 https://www.uludagsozluk.com/e/42952967/ bi gece ansızın
 https://www.uludagsozluk.com/k/moskova-fatihi/&w=bg bkz tangır budun doğan
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/ bkz rte putin tangır budun doğan
