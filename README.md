@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkztürklerin önündee diz çökeceksiniz. mk atatürk
+bkz bir gün bütün dünya türklerin önündee diz çökecek. mk atatürk
 bkz abdulhamdinin ingilizlere köpek çekmesi
 https://www.uludagsozluk.com/k/m-kemal-in-kud%C3%BCs-%C3%BC-ingilizlere-teslim-etmesi/&w=bg
 https://www.uludagsozluk.com/k/rte-ile-esad-kavga-etse-kim-al%C4%B1r/
