@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
-https://tengir-budun.uludagsozluk.com/ bkz kafayı rte ile bozmuş meczup yazık lan
+https://tengir-budun.uludagsozluk.com/ bkz kafayı rte ile bozmuş meczup 
 https://www.uludagsozluk.com/k/rte-nin-esed-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BCn%C3%BCz-m%C3%BC-diye-sormas%C4%B1/
 bkz imamhatipli öğrencilerin geliştirdiği uzay mescidi procesi
 https://seyyid-nesimi.uludagsozluk.com/ bkz yazıklar kimmi çocuğuysa
