@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/sahi-bir-ajdar-vardı-ne-oldu-ona/&w=bg sahi bi ajdar vardı noldu ona
 https://www.uludagsozluk.com/k/so%C3%A7i-mutabakat%C4%B1-vs-idlip-ate%C5%9Fkesi-s%C4%B1n%C4%B1rlar%C4%B1/ bkz sınırlar
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz taviz sorunsalı
@@ -10,7 +11,6 @@ https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-so
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz taviz
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ bkz geri vites
 https://www.uludagsozluk.com/k/6-mart-2020-s%C4%B1n%C4%B1r-kap%C4%B1lar%C4%B1n%C4%B1n-kapat%C4%B1lmas%C4%B1/ 
-https://www.uludagsozluk.com/k/sahi-bir-ajdar-vardı-ne-oldu-ona/&w=bg sahi bi ajdar vardı noldu ona
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/rejimin-idlip-ate%C5%9Fkesini-bozmas%C4%B1/ bkz hulusi akarın çalışması
 https://www.uludagsozluk.com/k/5-mart-2020-t%C3%BCrk-heyetinin-rusya-foto%C4%9Fraf%C4%B1/ tıkllağ galeriğ
