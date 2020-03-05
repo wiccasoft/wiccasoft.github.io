@@ -5,6 +5,7 @@
 <!-- 
 https://eksisozluk.com/entry/25099503
 https://www.uludagsozluk.com/k/putin-in-herkesi-hizaya-%C3%A7ekmesi/
+https://www.uludagsozluk.com/k/putinin-moskova-da-tayyibi-tokatlamas%C4%B1/
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7-un-cumhurba%C5%9Fkan%C4%B1m%C4%B1za-hakaret-etmesi/
 https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular
 https://www.uludagsozluk.com/k/putin-in-el-i%C5%9Faretyle-t%C3%BCrk-heyetini-hizaya-sokmas%C4%B1/
