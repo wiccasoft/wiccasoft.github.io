@@ -5,7 +5,7 @@
 <!-- 
 https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/melahatgostraightahead--4932599?p=19
-bkz 45 cm araliksiz keser sapi nicki almanın normal karşılandiği ülke
+bkz 45 cm araliksiz keser sapi nicki almanın normal karşılandiği platform
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
 https://eksisozluk.com/nickinden-rahatsiz-oldum-favorini-kaldirir-misin--6395930 
