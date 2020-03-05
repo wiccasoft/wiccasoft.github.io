@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz bülent ecevitin clintonun önünde düğmelerini ilikmlemesini yedirememek
 bkz devlet harap bitap düşmüşken putinni omuzlarını konuşmak
 https://eksisozluk.com/entry/25099503
 bkz putinin el işratiyle masayı donat demesi
