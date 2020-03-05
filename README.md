@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com/ bkz öztürk çocuk
 https://www.uludagsozluk.com/k/%C3%A7ingene-k%C3%BCrt-kar%C4%B1%C5%9F%C4%B1m%C4%B1-%C3%A7ocuk/&w=bg bkz atakan
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz atakan kayalar
 https://www.uludagsozluk.com/k/%C3%A7ingene-k%C3%BCrt-kar%C4%B1%C5%9F%C4%B1m%C4%B1-%C3%A7ocuk/&w=bg bkz atakan
