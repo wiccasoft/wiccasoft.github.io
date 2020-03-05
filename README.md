@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+https://www.uludagsozluk.com/k/ahmet-altan/&w=bg karpuz keseceğidiğğğ amuğa goyyim
 https://www.uludagsozluk.com/e/42953742/ 
 bkz dincilerin iyice hayatı zehir etmesi
 bkz cinsel sapıklığı onaylayan hayvanlarla aynı havayı solumak
