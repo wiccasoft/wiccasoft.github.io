@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz türklere diz çöküp tövne isteyeceksiniz
+bkz 5 mart 2020 putinin türkleri el hareketiyle dizinin önünde hizaya sokması
 https://www.uludagsozluk.com/k/g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye/&w=bg 
 bkz nerde m kemale diz çöken dünya nerde şimdiki tc hükümeti
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit-in-clinton-la-olan-foto%C4%9Fraf%C4%B1/&w=bg bkz rezalet
