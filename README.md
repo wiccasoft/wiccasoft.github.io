@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
-https://federal-almanya.uludagsozluk.com/ bkz führerrn izinde aydın genco ülkücü
+https://federal-almanya.uludagsozluk.com/ bkz führerinin izinde ülkücü
 https://www.uludagsozluk.com/k/a-haber-deki-kerim-ulak/ pisşwey
 https://www.uludagsozluk.com/k/%C3%BClkesini-illallah-ettiren-diktat%C3%B6r/ bkz rte
 https://www.uludagsozluk.com/k/mo%C4%9Folun-%C3%B6n%C3%BCnde-e%C4%9Filmeyen-ba%C5%9F-kesilir/ kafa kesilir
