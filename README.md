@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atakanının patlattığı kızı kesmesi
 https://www.uludagsozluk.com/k/imam-sahih-i-buhari-hadislerini-reddetmek/&w=bg atakan sen misin
 https://www.uludagsozluk.com/k/bir-k%C4%B1za-s%C3%BCrekli-bakan-erkek/&w=bg bkz atakan kayalar
 https://tahir33.uludagsozluk.com/ bkz üstün 33 iqlu türk
