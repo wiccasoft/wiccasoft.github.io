@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz erdo nun rusyaın yağında gitmesimni sindirememek intihar etmek
+https://www.uludagsozluk.com/k/rusyan%C4%B1n-t%C4%B1p%C4%B1%C5%9F-t%C4%B1p%C4%B1%C5%9F-aya%C4%9F%C4%B1na-gitmek/
 https://www.uludagsozluk.com/k/boyum-177-den-180-diyen-erkek/ bkz ben ama 178 den 178 hoşalana aktif beyler eklesin
 https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular
 bkz putinin türkün önünde diz çökeceksiniz demesi 
