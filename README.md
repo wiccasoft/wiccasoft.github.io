@@ -5,6 +5,7 @@
 <!-- 
 https://eksisozluk.com/entry/25099503
 https://www.uludagsozluk.com/k/putin-in-herkesi-hizaya-%C3%A7ekmesi/
+https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular
 https://www.uludagsozluk.com/k/putin-in-el-i%C5%9Faretyle-t%C3%BCrk-heyetini-hizaya-sokmas%C4%B1/
 https://www.uludagsozluk.com/k/putin-in-omuzlar%C4%B1-ka%C3%A7-cm-sorunsal%C4%B1/
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
