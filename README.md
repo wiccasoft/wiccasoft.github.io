@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+bkz tengir budun doğan vs recep tayyipten doğan
 https://www.uludagsozluk.com/k/a-haber-deki-kerim-ulak/ bkz pisşey
 https://www.uludagsozluk.com/k/rte-nin-esed-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BCn%C3%BCz-m%C3%BC-diye-sormas%C4%B1/
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ sorunsal
