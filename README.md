@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/5-mart-2020-rusya-turkiye-ortak-aciklamasi--6396598?a=popular
+https://eksisozluk.com/5-mart-2020-turkiyenin-rusyada-istedigini-almasi--6396682?a=popular 
 bkz polatın kremlini basıp rusları hizaya sokması
 bkz dünya liderinin rus heyetini hizaya sokması
 https://www.uludagsozluk.com/e/42952421/ bkz eşcinsellerin kendinlerini avutmak için çok zekiyiz abi demesi
