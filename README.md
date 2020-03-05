@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz abdulhamdinin ingilizlere köpek çekmesi
+https://www.uludagsozluk.com/k/m-kemal-in-kud%C3%BCs-%C3%BC-ingilizlere-teslim-etmesi/&w=bg
+https://www.uludagsozluk.com/k/rte-ile-esad-kavga-etse-kim-al%C4%B1r/
 bkz harahanlının kremlini basma planı yapması
 https://www.uludagsozluk.com/k/5-mart-2020-rte-putin-g%C3%B6r%C3%BC%C5%9Fmesi/&w=bg
 https://www.uludagsozluk.com/k/b%C3%BClent-ecevit-in-clinton-la-olan-foto%C4%9Fraf%C4%B1/&w=bg
