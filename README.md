@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+bkz reisin moskovayı alamadan gelmesi
+https://www.uludagsozluk.com/k/reis-moskovay%C4%B1-fethetti/
 bkz ülkü ocaklarında adam toplayın kremlini basmak
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg gerekirse kremlini basarız
 bkz tangır bıdın doğanın kremlini basıp kafa kesmesi
