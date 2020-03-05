@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/ ne işe yaradığı belli olmayan kel
 https://www.uludagsozluk.com/k/toplama-kamp%C4%B1nda-nazi-selam%C4%B1-veren-orospular/ lol
 https://twitter.com/kadrajmagazin/status/1235302153968902145
 bkz şehidimi yedirmem diyen ergenlerin güldürmesi
