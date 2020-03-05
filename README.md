@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz filozof olmayı kolay sanmak alala yaaaaaaaaaaa
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=gd bkz filozof atakan başlığın yazın 11 oldum artık
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg eywllah genceolar babamın selamı var
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ verse sikmezmisin diyince tartışmanın bitmesi
