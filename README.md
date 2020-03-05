@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/iho-%C3%B6%C4%9Frencilerinin-model-uydu-projesi-geli%C5%9Ftirmesi/
 bkz putinin türkün önünde diz çöekeceksiniz demesi 
 bkz türk önünde diz çöktüremiyorsa türk değildir. mk atatürk
 https://www.uludagsozluk.com/k/82-%C5%9Fam-83-moskova/
