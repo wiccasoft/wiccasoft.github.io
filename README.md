@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/reis-putin-e-haddini-bildirdi/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=bg
 bkz sapık gibi entry favlayan sapıkları savunanlarla aynı havayı solumak 
 bkz sapıkların tecavüzcülerin alkışlandığı ülke
