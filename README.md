@@ -4,6 +4,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/25099503
+https://www.uludagsozluk.com/k/putin-in-omuzlar%C4%B1-ka%C3%A7-cm-sorunsal%C4%B1/
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
 bkz 45 cm araliksiz keser sapi gibi nick almanın normal karşılandiği platform
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
