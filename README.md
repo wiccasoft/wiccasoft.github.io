@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+bkz 45 cm satırlı tecavüzcünün övüldüğü ülke
 https://eksisozluk.com/entry/103054910 sözün bittiği yer 
 https://eksisozluk.com/entry/25099503 bu ülkede yaşanamz
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
