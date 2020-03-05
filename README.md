@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+bkz tengir budun doğanın gay klasöründen rt fotolarını silmesi
+https://www.uludagsozluk.com/k/rte-nin-esed-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BCn%C3%BCz-m%C3%BC-diye-sormas%C4%B1/
 https://www.uludagsozluk.com/k/en-ufak-bir-sorumluluk-dahi-%C3%BCstlenememek/ bkz rte
 https://www.uludagsozluk.com/k/bir-g%C3%BCn-herkesin-%C3%B6lecek-olmas%C4%B1/&w=bg tengir budun hariç de oç
 https://www.uludagsozluk.com/k/%C5%9Fam-da-namaz-yerine-rusya-ya-domates-satmak/ ooooooo kapak
