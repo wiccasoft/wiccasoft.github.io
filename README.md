@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+bkz üşkücü gaylerin engin çözkoçun ofisini basması
 https://www.uludagsozluk.com/k/rte-nin-esed-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BCn%C3%BCz-m%C3%BC-diye-sormas%C4%B1/
 bkz başkomutan engin özkoç
 https://www.uludagsozluk.com/k/ba%C5%9Fkomutan-engin-%C3%B6zko%C3%A7/&w=bg
