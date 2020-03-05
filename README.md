@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ ooooooooooooooooooooooo
 https://www.uludagsozluk.com/k/boyum-177-den-180-diyen-erkek/ ooooooooooooooooooooooooooooooooooooooo
 https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
 https://eksisozluk.com/emre-ve-volkanin-calistirdigi-takim--6396203?a=popular ooooooooooooooooooooooo
