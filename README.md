@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/nickinden-rahatsiz-oldum-favorini-kaldirir-misin--6395930 lol
 https://eksisozluk.com/entry/103055624 lol
 https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
