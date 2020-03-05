@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C3%BCtyen-giymeden-s%C3%B6zl%C3%BC%C4%9Fe-giren-k%C4%B1z/&w=gd lol
 https://eksisozluk.com/tedavisi-olmayan-turk-hastaliklari--1689455?a=popular bkz burası çokomelli
 https://eksisozluk.com/5-mart-2020-suleyman-soylu-aciklamalari--6395937?a=popular oooooooooo
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/ ne işe yaradığı belli olmayan kel
