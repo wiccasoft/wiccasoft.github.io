@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
 https://www.uludagsozluk.com/k/boyum-177-den-180-diyen-erkek/ oooooooooooooooooooooooooooooooooooooo
 https://www.uludagsozluk.com/k/rte-nin-putin-e-diz-%C3%A7%C3%B6kt%C3%BCrmesi/ ooooooooooooooooooooooo
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-ile-sevi%C5%9Firken-sevgilisini-d%C3%BC%C5%9F%C3%BCnen-erkek/&w=bg 
