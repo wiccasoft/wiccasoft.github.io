@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
+https://eksisozluk.com/emre-ve-volkanin-calistirdigi-takim--6396203?a=popular ooooooooooooooooooooooo
+https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985?a=popular oooooooooo
+https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
 https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
 https://eksisozluk.com/nickinden-rahatsiz-oldum-favorini-kaldirir-misin--6395930 
