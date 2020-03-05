@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/bir-k%C4%B1za-s%C3%BCrekli-bakan-erkek/&w=bg bkz atakan kayalar
 https://tahir33.uludagsozluk.com/ bkz üstün 33 iqlu türk
 https://kirmizicizgi.uludagsozluk.com/ bkz öztürk çocuk
 https://www.uludagsozluk.com/k/k%C3%BCrtler-d%C3%BCnyan%C4%B1n-en-eski-%C4%B1rk%C4%B1d%C4%B1r/ 
