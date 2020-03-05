@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz nerde m kemale diz çöken dünya nerde şimdiki tc hükümeti
+https://www.uludagsozluk.com/k/b%C3%BClent-ecevit-in-clinton-la-olan-foto%C4%9Fraf%C4%B1/&w=bg bkz rezalet
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/ bkz utanmak
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz uzuzn uzun yazdım anlayan anlar
 https://www.uludagsozluk.com/k/ata-demirer/&w=bg kannımca en iyisi biraz zayıf ama
