@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz putinin el harektiyle ayakkabımı boyayın hareketi
+https://www.uludagsozluk.com/k/putin-in-el-i%C5%9Faretyle-t%C3%BCrk-heyetini-hizaya-sokmas%C4%B1/
 bkz putini el hareketiyle ayakkabımı boyayın işareti yapmasını yedirememek
 bkz çok kızıp kremlini basıp ruslara namaz kıldırma yemini içmek
 bkz trumpın erdoğana attığı alaylı bakışı yedirememek
