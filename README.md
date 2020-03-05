@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/netcen-lea%C4%9F-afyon-mis-gibi/ lol
 https://www.uludagsozluk.com/k/nab%C4%B1yon-be-ya/&w=bg lol
 https://www.uludagsozluk.com/k/gelinim-mutfakta/&w=bg bkz kaynanam aş eriy
 https://www.uludagsozluk.com/k/neyittin-yi%C4%9Fen-bizim-i%C5%9Fi/
+https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
 https://www.uludagsozluk.com/k/tarkan-%C4%B1n-en-g%C3%BCzel-%C5%9Fark%C4%B1s%C4%B1/&w=bg bkz sen gidi fındık kıran
 https://eksisozluk.com/5-mart-2020-turk-askeri-silah-cekti-iddiasi--6396036?a=popular bkz tıklağ işin aslı neymiş öğren 
 https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985?a=popular tıklağ detayları öğren
