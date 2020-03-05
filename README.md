@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+bkz imamhatipil öğrencilerin geliştirdiği uzay üssü
 https://seyyid-nesimi.uludagsozluk.com/ bkz yazıklar kimmi çocuğuysa
 https://seyyid-nesimi.uludagsozluk.com/ bkz seyyid nesiminin tasvip etmediği ilişkiler
 https://www.uludagsozluk.com/k/mustafa-arma%C4%9Fan-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-ikilisi/&w=bg
