@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz putini el hareketiyle ayakkabımı boyayın işareti yapmasını yedirememek
 bkz çok kızıp kremlini basıp ruslara namaz kıldırma yemini içmek
 bkz trumpın erdoğana attığı alaylı bakışı yedirememek
 bkz bülent ecevitin clintonun önünde düğmelerini ilikmlemesini yedirememek
