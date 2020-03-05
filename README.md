@@ -4,6 +4,7 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/neyittin-yi%C4%9Fen-bizim-i%C5%9Fi/
+https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985?a=popular tıklağ detayları öğren
 https://www.uludagsozluk.com/k/s%C3%BCtyen-giymeden-s%C3%B6zl%C3%BC%C4%9Fe-giren-k%C4%B1z/&w=gd lol
 https://eksisozluk.com/tedavisi-olmayan-turk-hastaliklari--1689455?a=popular bkz burası çokomelli
 https://eksisozluk.com/5-mart-2020-suleyman-soylu-aciklamalari--6395937?a=popular oooooooooo
