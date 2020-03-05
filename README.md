@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+bkz 5 mart türk heyeti rusya foğrafına attırırken babanın odaya girmesi
 bkz uludaki eşcinsel barzoların güldüren yorumları
 https://www.uludagsozluk.com/k/bizim-bi-kanal-i%C5%9Fi-vard%C4%B1-noldu-o-m%C3%BCd%C3%BCr/ b
 https://www.uludagsozluk.com/k/ahmet-altan/&w=bg karpuz keseceğidiğğğ amuğa goyyim
