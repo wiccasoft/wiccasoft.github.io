@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/engin-özkoç-un-yediği-dayak/ kelmiş yaa la bu
 https://www.uludagsozluk.com/k/elalemin-k%C4%B1z%C4%B1n%C4%B1-sevgili-diye-sahiplenen-mal-erkek/ 
 https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ bkz zenci o sanki ama neyse
 bkz meral pattes marrem ayran nası koydu ama tayber doğannnnnn ooooooo
+https://eksisozluk.com/4-mart-2020-engin-ozkoc-aciklamalari--6394455?a=popular bkz engin özkoç kim amk
 https://www.uludagsozluk.com/k/siyasal-islamc%C4%B1lar%C4%B1n-rak%C4%B1-sofras%C4%B1/ bkz keyifler gıcır valla
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=19 lol
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=15 selam ve dua lipa ile
