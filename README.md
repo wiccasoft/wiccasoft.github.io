@@ -16,6 +16,7 @@ https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985
 https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
 https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
+https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
 https://eksisozluk.com/nickinden-rahatsiz-oldum-favorini-kaldirir-misin--6395930 
 https://eksisozluk.com/entry/103055624 lol
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular lol
