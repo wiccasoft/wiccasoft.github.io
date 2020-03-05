@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com/ bkz soyu kıpçaklara dayanan öz türk
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bkz soy sorunsallları
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ bkz beygir sorunsalı
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
