@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/gecenin-t%C3%BCrk-sanat-musikisi-eseri/&w=bg bkz 5 mart gecesinin şarkısı
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bkz başka bir soysal sorunal
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
