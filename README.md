@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg ilginç bi soy sorunsalı
 https://www.uludagsozluk.com/e/42954268/ bkz alpha erkek
 https://www.uludagsozluk.com/k/pers-k%C3%BCrtleri/&w=bg deep ülkücü webe girmeyen halk
 https://www.uludagsozluk.com/k/e%C5%9Fi-d%C3%BC%C5%9Ft%C3%BC%C4%9F%C3%BCnde-daha-taksidin-bitmedi-diyen-erkek/&w=bg
