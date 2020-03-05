@@ -4,16 +4,6 @@
 
 <!-- 
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
-https://www.uludagsozluk.com/k/boyum-177-den-180-diyen-erkek/ oooooooooooooooooooooooooooooooooooooo
-https://www.uludagsozluk.com/k/rte-nin-putin-e-diz-%C3%A7%C3%B6kt%C3%BCrmesi/ ooooooooooooooooooooooo
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1-ile-sevi%C5%9Firken-sevgilisini-d%C3%BC%C5%9F%C3%BCnen-erkek/&w=bg 
-https://www.uludagsozluk.com/k/tayyibi-anlatan-bir-g%C3%B6rsel-birak/ bkz geri vites
-https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ ooooooooooooooooooooooo
-https://www.uludagsozluk.com/k/boyum-177-den-180-diyen-erkek/ ooooooooooooooooooooooooooooooooooooooo
-https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
-https://eksisozluk.com/emre-ve-volkanin-calistirdigi-takim--6396203?a=popular ooooooooooooooooooooooo
-https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985?a=popular oooooooooo
-https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
 https://eksisozluk.com/entry/25099503
 https://eksisozluk.com/yine-dusa-soktun-kardes--2542245
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sapıklığın yüceltildiği ülke
