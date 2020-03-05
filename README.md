@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/seni-anan-benim-i%C3%A7in-do%C4%9Furmu%C5%9F/&w=bg bkz kıpçak türkleri
 https://kirmizicizgi.uludagsozluk.com bkz gerçek öz türk
 https://www.uludagsozluk.com/k/kumanlar/&w=bg bkz foğşik kürt krıması ırk
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bkz soy uzmanı
