@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+https://www.uludagsozluk.com/e/42953742/ nbkz sapıklığı onaylayan hayvanlalar aynı havayı solumak
 bkz dincilerin iyice hayatı zehir etmesi
 https://www.uludagsozluk.com/k/hava-biraz-%C4%B1s%C4%B1n%C4%B1nca-zuhur-eden-mini-%C5%9Fortlu-k%C4%B1z/&w=bg
 bkz sapık gibi entry favlayan sapık nickli sapıkları savunanlarla aynı havayı solumak 
