@@ -4,6 +4,7 @@
 
 <!--
 https://kirmizicizgi.uludagsozluk.com/ bkz öztürk çocuk
+https://www.uludagsozluk.com/k/k%C3%BCrtler-d%C3%BCnyan%C4%B1n-en-eski-%C4%B1rk%C4%B1d%C4%B1r/ 
 https://www.uludagsozluk.com/k/ders-%C3%A7al%C4%B1%C5%9F%C4%B1rken-ferdi-tayfur-dinlemek/ atakan senmisin
 https://www.uludagsozluk.com/k/%C3%A7ingene-k%C3%BCrt-kar%C4%B1%C5%9F%C4%B1m%C4%B1-%C3%A7ocuk/&w=bg bkz atakan
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=bg bkz atakan kayalar
