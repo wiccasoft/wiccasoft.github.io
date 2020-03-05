@@ -4,6 +4,8 @@
 
  <!--
 bkz tengir budun doğanın gay klasöründen rt fotolarını silmesi
+https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/&w=gd
+https://www.uludagsozluk.com/k/5-mart-2020-t%C3%BCrk-heyetinin-rusya-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/rte-nin-esed-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BCn%C3%BCz-m%C3%BC-diye-sormas%C4%B1/
 https://www.uludagsozluk.com/k/en-ufak-bir-sorumluluk-dahi-%C3%BCstlenememek/ bkz rte
 https://www.uludagsozluk.com/k/bir-g%C3%BCn-herkesin-%C3%B6lecek-olmas%C4%B1/&w=bg tengir budun hariç de oç
