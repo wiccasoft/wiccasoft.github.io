@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/putin-in-el-i%C5%9Faretyle-t%C3%BCrk-heyetini-hizaya-sokmas%C4%B1/
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=bg
 https://www.uludagsozluk.com/k/5-mart-2020-t%C3%BCrk-heyetinin-rusya-foto%C4%9Fraf%C4%B1/
