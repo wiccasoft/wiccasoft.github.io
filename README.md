@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz uzuzn uzun yazdım anlayan anlar
 https://www.uludagsozluk.com/k/ata-demirer/&w=bg kannımca en iyisi biraz zayıf ama
 bkz putin'in el işaretyle türk heyetini hizaya sokması
 bkz m kemalin tokat mnayağı yaptığı ülkere diz çökmek...
