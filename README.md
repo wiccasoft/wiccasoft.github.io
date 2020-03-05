@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://tengir-budun.uludagsozluk.com/ bkz ruh hastası gay ülkücüler
 https://seyyid-nesimi.uludagsozluk.com/ bkz ruh hastası gay ülkücüler
 https://www.uludagsozluk.com/k/mo%C4%9Folun-%C3%B6n%C3%BCnde-e%C4%9Filmeyen-ba%C5%9F-kesilir/
 https://www.uludagsozluk.com/k/%C5%9Fam-da-namaz-yerine-rusya-ya-domates-satmak/
