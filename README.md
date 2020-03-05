@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz putin'in el işaretyle türk heyetini hizaya sokması
 bkz m kemalin tokat mnayağı yaptığı ülkere diz çökmek...
 https://www.uludagsozluk.com/k/5-mart-2020-rte-putin-g%C3%B6r%C3%BC%C5%9Fmesi/&w=bg bkz tokat manyağı yapmak
 bkz m kemalin tokat manyağı yaptığı liderle el pençe divan olmak
