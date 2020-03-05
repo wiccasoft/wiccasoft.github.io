@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/h%C4%B1rvat-k%C3%BCrtleri/ bkz foşikler
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bir ülkücü sorunsalı
 https://www.uludagsozluk.com/k/%C3%B6zel-g%C3%BCn-%C3%A7ay%C4%B1/ bkz ülkücü kızların çayı
 https://kirmizicizgi.uludagsozluk.com/ bkz soyları kıpçaklara dayanan kürt düşmanı homofobik homo
