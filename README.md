@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/rejimin-idlip-ate%C5%9Fkesini-bozmas%C4%B1/ bkz sahi bi ateşkes vardı noldu
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vardı-ne-oldu-ona/&w=bg sahi bi ajdar vardı noldu ona
 https://www.uludagsozluk.com/k/so%C3%A7i-mutabakat%C4%B1-vs-idlip-ate%C5%9Fkesi-s%C4%B1n%C4%B1rlar%C4%B1/ bkz sınırlar
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
