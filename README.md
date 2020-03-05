@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42952421/ bkz eşcinsellerin kendinlerin avutmak için çok zekiyiz abi demesi
 https://www.uludagsozluk.com/e/42952421/ bkz her noktası eşcinsellik kokan film
 https://www.uludagsozluk.com/k/esaretin-bedeli/&w=bg bkz eşcinselliğin doruk noktası filmler
 bkz polatın kremlini basıp raconu koyması
