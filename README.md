@@ -4,6 +4,7 @@
 
 <!--
 bkz putinin türkün önünde diz çöekeceksiniz demesi 
+bkz türk önünde diz çöktüremiyorsa türk değildir. mk atatürk
 https://www.uludagsozluk.com/k/82-%C5%9Fam-83-moskova/
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/
 https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/
