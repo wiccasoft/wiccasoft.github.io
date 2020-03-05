@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+https://www.uludagsozluk.com/k/esad-%C4%B1-sadece-%C5%9Fii-suriyeliler-mi-destekliyor/ oooooooooooooooooooooo
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1ran-komutana-%C3%A7ok-kabas%C4%B1n%C4%B1z-komutan%C4%B1m-demek/ oooo
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/&w=bg bir sorunsal
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=bg irdelenmeli
