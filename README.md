@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+https://seyyid-nesimi.uludagsozluk.com/ bkz seyydi nesiminin tasvip etmediği ilişkiler
 bkz ulusözlük öğrencilerinin uydulu siha geliştirmesi
+https://www.uludagsozluk.com/k/mustafa-arma%C4%9Fan-kadir-m%C4%B1s%C4%B1ro%C4%9Flu-ikilisi/&w=bg
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=bg bkz brainstorm
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/&w=bg 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=bg bkz rte kazanır
