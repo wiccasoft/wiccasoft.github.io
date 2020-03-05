@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz abdulahmdinin bıraktığı toğraklar
+https://www.uludagsozluk.com/k/m-kemal-in-kud%C3%BCs-%C3%BC-ingilizlere-teslim-etmesi/&w=bg
 https://www.uludagsozluk.com/k/theodor-herzl-e-devlet-madalyas%C4%B1-vermek/&w=bg bkz nerden baksan utanç verici
 https://www.uludagsozluk.com/k/osmanl%C4%B1-sevdal%C4%B1lar%C4%B1n%C4%B1n-%C3%BClkeye-zarar-vermesi/ bkz putinin heraketi
 bkz putinin el harektiyle ayakkabımı boyayın hareketi
