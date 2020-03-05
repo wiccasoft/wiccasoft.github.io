@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCper-amat%C3%B6r-liseli-k%C4%B1z/&w=bg bkz ben 42 yaşındayım
 bkz 9 yldır ekşi çaylak onayı beklerken 42 yaşında gelmek  yaşlanmak
 https://kirmizicizgi.uludagsozluk.com/ bkz soyu kıpçaklara dayanan öz türk
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bkz soy sorunsallları
