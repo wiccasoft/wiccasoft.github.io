@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/e/42954296/ bkz eşi düştüğünde daha taksidin bitmedi diyen erkek
 https://www.uludagsozluk.com/e/42954268/ bkz eşi düştüğünde daha taksidin bitmedi diyen erkek
 https://www.uludagsozluk.com/k/e%C5%9Fi-d%C3%BC%C5%9Ft%C3%BC%C4%9F%C3%BCnde-daha-taksidin-bitmedi-diyen-erkek/&w=bg
 https://kirmizicizgi.uludagsozluk.com/ bkz tür dışındaki her milletin düşmanı foğşik
