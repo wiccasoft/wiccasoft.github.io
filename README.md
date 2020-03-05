@@ -12,6 +12,7 @@ https://www.uludagsozluk.com/k/netcen-lea%C4%9F-afyon-mis-gibi/ lol
 https://www.uludagsozluk.com/k/nab%C4%B1yon-be-ya/&w=bg lol
 https://www.uludagsozluk.com/k/gelinim-mutfakta/&w=bg bkz kaynanam aş eriy
 https://www.uludagsozluk.com/k/neyittin-yi%C4%9Fen-bizim-i%C5%9Fi/
+https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
 https://eksisozluk.com/emre-ve-volkanin-calistirdigi-takim--6396203?a=popular ooooooooooooooooooooooo
 https://eksisozluk.com/suleyman-soylunun-tele-1-muhabiri-ile-tartismasi--6395985?a=popular oooooooooo
 https://eksisozluk.com/putinin-bir-el-isaretiyle-herkesi-tokaya-dizmesi--6396295?a=popular oooooooooo
