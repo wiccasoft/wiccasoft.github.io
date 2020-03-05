@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/82-%C5%9Fam-83-moskova/
+https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/
 https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/
 https://eksisozluk.com/5-mart-2020-rusya-turkiye-ortak-aciklamasi--6396598?a=popular
 https://eksisozluk.com/5-mart-2020-turkiyenin-rusyada-istedigini-almasi--6396682?a=popular 
