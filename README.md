@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/%C3%BClkesini-illallah-ettiren-diktat%C3%B6r/ bkz rte
 https://www.uludagsozluk.com/k/mo%C4%9Folun-%C3%B6n%C3%BCnde-e%C4%9Filmeyen-ba%C5%9F-kesilir/ kafa kesilir
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/&w=gd sorunsal
 https://tengir-budun.uludagsozluk.com/ bkz ruh hastası gay ülkücüler
