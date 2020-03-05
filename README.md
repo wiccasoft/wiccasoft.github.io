@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/efe-aydal-potcast-dinler-iken-mobil-oyun-oynamak/ bkz 18 yaşında
 https://www.uludagsozluk.com/k/uzak-mesafe-ili%C5%9Fkisi/&w=gd bkz atakan kayalar essy
 https://www.uludagsozluk.com/k/bir-k%C4%B1za-s%C3%BCrekli-bakan-erkek/&w=bg bkz atakan
 https://www.uludagsozluk.com/k/imam-sahih-i-buhari-hadislerini-reddetmek/&w=bg atakan sen misin
