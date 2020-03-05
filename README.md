@@ -14,6 +14,7 @@ https://www.uludagsozluk.com/k/ye%C5%9Fil-yoldaki-arap/ bkz zenci o sanki ama ne
 bkz meral pattes marrem ayran nası koydu ama tayber doğannnnnn ooooooo
 https://www.uludagsozluk.com/k/siyasal-islamc%C4%B1lar%C4%B1n-rak%C4%B1-sofras%C4%B1/ bkz keyifler gıcır valla
 https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=19 lol
+https://eksisozluk.com/elif-can-yetim--5443402?a=popular&p=15 selam ve dua lipa ile
  -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
