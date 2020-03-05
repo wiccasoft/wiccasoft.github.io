@@ -5,7 +5,7 @@
  <!-- 
 https://www.uludagsozluk.com/e/42953742/ 
 bkz dincilerin iyice hayatı zehir etmesi
-bkz sapıklığı onaylayan hayvanlarla aynı havayı solumak
+bkz cinsel sapıklığı onaylayan hayvanlarla aynı havayı solumak
 https://www.uludagsozluk.com/k/hava-biraz-%C4%B1s%C4%B1n%C4%B1nca-zuhur-eden-mini-%C5%9Fortlu-k%C4%B1z/&w=bg
 bkz sapık gibi entry favlayan sapık nickli sapıkları savunanlarla aynı havayı solumak 
 bkz sapıkların tecavüzcülerin alkışlandığı ülke
