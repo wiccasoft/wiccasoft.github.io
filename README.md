@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular
 bkz putinin türkün önünde diz çökeceksiniz demesi 
 bkz türk önünde diz çöktüremiyorsa türk değildir. mk atatürk
 https://www.uludagsozluk.com/k/82-%C5%9Fam-83-moskova/
