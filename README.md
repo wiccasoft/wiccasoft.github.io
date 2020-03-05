@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz polatın kremlini basıp raconu koyması
 bkz türkiyenin dünya lideri olduğunu anlamak
 bkz 5 mart 2020 erdoğanın putine ayakkabısını boyatması
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C3%A7daro%C4%9Flu-putinnile-g%C3%B6r%C3%BC%C5%9Fseydi-nas%C4%B1l-olurdu/
