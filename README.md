@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
-bkz sapık gibi entry favlayan sapıkları savunanlarla aynı havayı solumak 
+bkz sapık gibi entry favlayan sapık nickli sapıkları savunanlarla aynı havayı solumak 
 bkz sapıkların tecavüzcülerin alkışlandığı ülke
 https://eksisozluk.com/entry/103085404 bkz 45 cm satırlı tecavüzcünün övüldüğü ülke
 https://eksisozluk.com/entry/103054910 sözün bittiği yer 
