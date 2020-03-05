@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ sorunsal
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz ülkücü kızların taviz vermesi
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=gd bkz ülkücü kız tavsiyeleri
 https://www.uludagsozluk.com/k/2022-y%C4%B1l%C4%B1nda-c%C4%B1kar%C4%B1p-masaya-vuraca%C4%9F%C4%B1m ooooooooo
