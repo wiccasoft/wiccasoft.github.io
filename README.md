@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular lol
 https://www.uludagsozluk.com/k/netcen-lea%C4%9F-afyon-mis-gibi/ lol
 https://www.uludagsozluk.com/k/nab%C4%B1yon-be-ya/&w=bg lol
 https://www.uludagsozluk.com/k/gelinim-mutfakta/&w=bg bkz kaynanam aş eriy
