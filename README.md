@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/osmanl%C4%B1-sevdal%C4%B1lar%C4%B1n%C4%B1n-%C3%BClkeye-zarar-vermesi/ bkz putinin heraketi
 bkz putinin el harektiyle ayakkabımı boyayın hareketi
 https://www.uludagsozluk.com/k/putin-in-el-i%C5%9Faretyle-t%C3%BCrk-heyetini-hizaya-sokmas%C4%B1/
 bkz putini el hareketiyle ayakkabımı boyayın işareti yapmasını yedirememek
