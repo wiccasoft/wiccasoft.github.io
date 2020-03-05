@@ -4,6 +4,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/25099503
+https://www.google.com.tr/search?q=filozof+atakan+nerede+oturuyor&oq=filzof+atak&aqs=chrome.1.69i57j0l5.5918j0j4&sourceid=chrome&ie=UTF-8
 https://www.uludagsozluk.com/k/sevgilisini-sikemeyen-erkek/&w=bg bkz felsefeci atakan
 https://www.uludagsozluk.com/k/felsefeci-atakan/ bkz filozof atakan
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd
