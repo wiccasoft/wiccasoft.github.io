@@ -6,6 +6,7 @@
 https://eksisozluk.com/entry/25099503
 bkz putinin el işratiyle masayı donat demesi
 bkz 5 mart 2020 erdoğanın putinin önünde diz çökmesi
+https://www.uludagsozluk.com/k/k%C4%B1zlar-konusunda-tecr%C3%BCbesiz-insanlara-%C3%B6%C4%9F%C3%BCtler/ tamam abi 
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
 https://www.uludagsozluk.com/k/erdo%C4%9Fanla-putinin-anla%C5%9Fmaya-varmas%C4%B1/
 https://www.uludagsozluk.com/k/sevgilisini-sikemeyen-erkek/&w=bg bkz felsefeci atakan
