@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/a-haber-deki-kerim-ulak/ bkz pisşey
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ sorunsal
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz ülkücü kızların taviz vermesi
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=gd bkz ülkücü kız tavsiyeleri
@@ -11,7 +12,6 @@ https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/&w=gd sorunsal
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-ablalar%C4%B1ndan-tavsiyeler/&w=bg bkz ülkücü tavsiyeleri
 https://federal-almanya.uludagsozluk.com/ bkz führerinin izinde ülkücü
-https://www.uludagsozluk.com/k/a-haber-deki-kerim-ulak/ pisşey
 https://www.uludagsozluk.com/k/%C3%BClkesini-illallah-ettiren-diktat%C3%B6r/ bkz rte
 https://www.uludagsozluk.com/k/mo%C4%9Folun-%C3%B6n%C3%BCnde-e%C4%9Filmeyen-ba%C5%9F-kesilir/ kafa kesilir
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/&w=gd sorunsal
