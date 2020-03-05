@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://kirmizicizgi.uludagsozluk.com bkz gerçek öz türk
 https://www.uludagsozluk.com/k/kumanlar/&w=bg bkz foğşik kürt krıması ırk
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bkz soy uzmanı
 https://www.uludagsozluk.com/k/h%C4%B1rvat-k%C3%BCrtleri/ bkz foğşik ve esmer olurlar
