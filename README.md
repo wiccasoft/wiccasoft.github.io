@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!-- 
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=bg bkz zor versuslar
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz rece tayyi erdoğan
 https://www.uludagsozluk.com/e/42953849/ nkz sevişme başatıcı diyaloglar
 https://www.uludagsozluk.com/k/ba%C4%9F%C4%B1ran-komutana-%C3%A7ok-kabas%C4%B1n%C4%B1z-komutan%C4%B1m-demek/ bkz sevişmek
