@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg
+<!--
+https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=bg bkz başka bir soysal sorunal
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/
 https://www.uludagsozluk.com/k/putin-in-el-i%C5%9Faretyle-t%C3%BCrk-heyetini-hizaya-sokmas%C4%B1/
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
