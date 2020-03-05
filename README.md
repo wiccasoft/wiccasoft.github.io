@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
+https://www.uludagsozluk.com/k/k%C3%BCrtler-neden-amca-k%C4%B1z%C4%B1yla-evlenir/&w=bg güzel oldukları için
 bkz bir gün bütün dünya türklerin önünde diz çökecek. mk atatürk
 bkz abdulhamdinin ingilizlere köpek çekmesi
 https://www.uludagsozluk.com/k/m-kemal-in-kud%C3%BCs-%C3%BC-ingilizlere-teslim-etmesi/&w=bg
