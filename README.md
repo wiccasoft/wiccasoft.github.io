@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/5-mart-mutabakat%C4%B1/ hayırlı mutabakatlar
 https://www.uludagsozluk.com/k/akp-lozan-i%C3%A7in-masaya-otursayd%C4%B1/ bkz polat alemdar moscow
 https://www.uludagsozluk.com/k/saat-22-00-da-peynir-ekmek-yemek/ bkz bi gece ansızın st petersburg
 https://www.uludagsozluk.com/k/akp-lozan-i%C3%A7in-masaya-otursayd%C4%B1/ bkz kafa yorun soru
