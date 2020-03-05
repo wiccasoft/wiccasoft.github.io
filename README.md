@@ -4,6 +4,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/25099503
+https://www.uludagsozluk.com/k/felsefeci-atakan/ bkz filozof atakan
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd
 https://www.uludagsozluk.com/k/putin-in-herkesi-hizaya-%C3%A7ekmesi/
 https://www.uludagsozluk.com/k/putinin-moskova-da-tayyibi-tokatlamas%C4%B1/
