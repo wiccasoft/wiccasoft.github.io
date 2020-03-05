@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
  <!--
+https://www.uludagsozluk.com/k/rejimin-idlip-ate%C5%9Fkesini-bozmas%C4%B1/ bkz hulusi akarın çalışması
 https://www.uludagsozluk.com/k/5-mart-2020-t%C3%BCrk-heyetinin-rusya-foto%C4%9Fraf%C4%B1/ tıkllağ galeriğ
 https://www.uludagsozluk.com/k/bir-%C5%9Fark%C4%B1-olsan%C4%B1z-ne-olurdunuz/&w=bg bir şarkısın sen ömür boyu sürecek
 https://www.uludagsozluk.com/k/seni-anan-benim-i%C3%A7in-do%C4%9Furmu%C5%9F/&w=bg bkz kıpçak türkleri
