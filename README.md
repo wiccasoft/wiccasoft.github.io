@@ -4,6 +4,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/25099503
+https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
 https://www.uludagsozluk.com/k/erdo%C4%9Fanla-putinin-anla%C5%9Fmaya-varmas%C4%B1/
 https://www.uludagsozluk.com/k/sevgilisini-sikemeyen-erkek/&w=bg bkz felsefeci atakan
 https://www.sozcu.com.tr/hayatim/magazin-haberleri/tutunamayanlar-dizisinden-atakan-kayalar-gondermesi/
