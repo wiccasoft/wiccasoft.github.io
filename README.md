@@ -4,6 +4,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/25099503
+https://www.uludagsozluk.com/k/sevgilisini-sikemeyen-erkek/&w=bg bkz felsefeci atakan
 https://www.sozcu.com.tr/hayatim/magazin-haberleri/tutunamayanlar-dizisinden-atakan-kayalar-gondermesi/
 https://www.uludagsozluk.com/k/sevgilisini-sikemeyen-erkek/&w=bg bkz felsefeci atakan
 https://www.uludagsozluk.com/k/felsefeci-atakan/ bkz filozof atakan
