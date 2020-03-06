@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/ bkz top
 https://kirmizicizgi.uludagsozluk.com/ bkz top düşmanı adam gibi adam
 https://www.uludagsozluk.com/k/pasif-gay/&w=bg bkz orhan becegay
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/&w=bg bkz pasif kel gay
