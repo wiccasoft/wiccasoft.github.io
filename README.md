@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg bkz efso geri vites
 bkz çok şükür atacücüye bu ülke gay cenneti kankağ
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz haline şükret
 bkz bigün yüzü görmedim diyen afgan genco. kaynak aha link tıklağ haline şükret kankağ senden beteri  var
