@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular bkz efso antlaşma
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ efso başlık aq
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular&p=75 abü favlayam mı abüüüüüüüüü
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ bkz var mı la aq
