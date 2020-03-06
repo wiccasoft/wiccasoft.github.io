@@ -4,8 +4,8 @@
 
 <!--
 bkz orhan bence gay
-bkz erdoğan eşcinselim dese naparsınız
-bkz çocupunuz eşcinsel erdoğancı olsa napasızını sorunsalı
+bkz erdoğan eşcinselim dese naparsınız sorunsalı
+bkz çocupunuz eşcinsel erdoğancı olsa napasınız sorunsalı
 https://tengir-budun.uludagsozluk.com/
 https://seyyid-nesimi.uludagsozluk.com adam haklı beyler
 https://radikalkemalizm.uludagsozluk.com/ adam haklı beyler
