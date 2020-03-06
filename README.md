@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz türk sevdalısı 
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail yavşaklığı
 bkz mark zucker berg bs mustafa kamal atacücü
 bkz atacücü geri gelse facebooktan eklermisin sorunsalı
