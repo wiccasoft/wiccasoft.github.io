@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ bkz uzun yol şöförü
 bkz 3 erkek uğrauna geri vites takan kız
 bkz patlak kızın suda çıkardığı ses vs porçe geri vites sesi
 bkz tarihteki efsane geri vitesler tıklağ galeriğ açılsın
