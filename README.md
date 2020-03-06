@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz devlat adamı seksiliği
 bkz erdoğanıın alaycı seksi ve keskin bakışları
 bkz erdoğanı kelimelere sığrdıracak kadar sığ olmak
 https://www.uludagsozluk.com/k/tayyipizm/&w=bg bkz en güzel ideoloji
