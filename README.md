@@ -4,6 +4,7 @@
 
 
 <!--
+bkz ak saçlılar gerçekten var mı aq
 bkz 6 mart 2020 rtenin efso geri vitesi ileri alması aq
 bkz 5 mart 2020 de yapılan efsane geri vites 
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd efso kankağ geri vites
