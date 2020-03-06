@@ -4,6 +4,7 @@
 
 
 <!--
+https://seyyid-nesimi.uludagsozluk.com/ bkz eşcinsel
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ sorunsalı  aq
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz gün ola harman ola intikam alına
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte
