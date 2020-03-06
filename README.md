@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ma kamalın atayızım var mı lan demesi
 https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz ma kamalın attığı tweet
 https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz adem gibi adem
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz adam gibi adam
