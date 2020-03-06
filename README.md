@@ -2,8 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-
 <!--
+https://www.uludagsozluk.com/e/42953729/ bkz deli tuğrul sekhmet07 tango necla
 bkz kızların şeftalü gübü amcuklarını siktirmek için ekşi çaylak onay kuyruğana girmesi
 https://www.uludagsozluk.com/e/42954530/ bkz 650 km yapan kız
 https://www.uludagsozluk.com/k/sozluk-erkegi/&w=bg bkz deli kızzzzzz
