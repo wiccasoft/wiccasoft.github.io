@@ -4,6 +4,8 @@
 
 
 <!--
+https://www.uludagsozluk.com/e/42954530/ bkz 650 km yapan kız
+https://www.uludagsozluk.com/k/sozluk-erkegi/&w=bg bkz deli kızzzzzz
 https://www.uludagsozluk.com/e/42953729/ bkz deli tuğrul nickli ergen kız
 https://www.uludagsozluk.com/e/42954376/ bkz bir erkek uğruna 650 km giden deli kız aq
 https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ değmez aq değmez aq yapma kız aq
