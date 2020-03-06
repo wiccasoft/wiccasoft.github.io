@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg bkz rte de tutuklu kalmak
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=gd iki seksi erkek versusu
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ bkz aq saçlı erkek seksliği aq
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte
