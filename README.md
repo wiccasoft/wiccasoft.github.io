@@ -4,7 +4,9 @@
 
 <!--
 bkz devlat adamı seksiliği
-https://seyyid-nesimi.uludagsozluk.com/ izindeyin reiyz
+bkz kaslı ve seksi askerler ölürken spor  konuşmak
+https://seyyid-nesimi.uludagsozluk.com/ izindeyin retiz
+https://www.uludagsozluk.com/k/33-%C5%9Fehit-varken-aspor-un-ma%C3%A7-konu%C5%9Fmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/devlet-adaml%C4%B1%C4%9F%C4%B1-g%C3%B6t-yalamak-de%C4%9Fildir/ bkz nedir peki
 bkz erdoğanın alaycı seksi ve keskin bakışlarının ıslandırması
 bkz erdoğanı kelimelere sığrdıracak kadar sığ olmak
