@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=bg bkz grup fitamin ismail bu saç lar ne?
 https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg bkz nutuk
 https://www.uludagsozluk.com/k/hakan-muhaf%C4%B1z/&w=bg bkz bu saç ne hakan?
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz bu saç ne okan?
