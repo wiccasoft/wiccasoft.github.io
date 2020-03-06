@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+bkz denize rte mi düşse kurtarırsın abdullak gül mü
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz rte
 https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=gd
 https://radikalkemalizm.uludagsozluk.com/ bkz gaylerin korkulu rüyası
