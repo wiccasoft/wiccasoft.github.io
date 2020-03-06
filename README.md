@@ -4,7 +4,7 @@
 
 <!--
 bkz çok şükür atacücüye bu ülke gay cenneti kankağ
-https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
+https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz haline şükret
 bkz bigün yüzü görmedim diyen afgan genco. kaynak aha link tıklağ haline şükret kankağ senden beteri  var
 bkz sonra dedimki rabbişkoma iyiki reisimiz başımızda selam ve dua ile
 bkz reisin rusyayı tokat manyağı yapıp dönmesi
