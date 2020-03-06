@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 
-<!-- https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
+<!-- 
+https://www.uludagsozluk.com/e/42953729/ paklandı paketledni agam azına layıh
+https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
 bkz adamın vatanı afganistan biz yaşiy vallah atama şükr coğrafya kader naberrrrrrrrrr
 -->
 
