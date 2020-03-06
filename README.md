@@ -4,7 +4,7 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ sen uzan yolladım geliyo kankağ
+https://www.uludagsozluk.com/e/42953729/ sen uzan yıkadım yolladım geliyo kankağ 
 bkz 5 erkek uğruna arkayı beşleyelim diyen muavin
 bkz patlak kızın suda çıkardığı ses vs porçe geri vites sesi
 bkz tarihteki efsane geri vitesler tıklağ galeriğ açılsın
