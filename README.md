@@ -4,6 +4,8 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz top çıldırtan
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz topları delirten
 https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz topların güldürmesi
 bkz kaslı futbolcu izlerken içinin yağları eriyen şişko ekşici
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bk en topu bile kemalist yapacak erkek
