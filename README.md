@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/sa%C3%A7malama-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC/&w=bg bkz geri vites aq
 https://www.uludagsozluk.com/k/%C5%9Fu-an-dinlenilen-m%C3%BCzikler/&w=bg bkz taktik maktik yok 
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ bkz efso geri vites aq
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg beyler ben saldırıyorum tutuklu kaldım diyo karı
