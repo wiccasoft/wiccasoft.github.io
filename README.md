@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ven de sen de kaldım aq len mq
 https://sekhmet07.uludagsozluk.com/ aw geri vites aq bir erkek uğruna aq
 https://www.uludagsozluk.com/e/42953740/ aw değmez aw geri vites atardım aq
 bkz bakir kızların ekşicilere vermek için kuyruğa girmesi
