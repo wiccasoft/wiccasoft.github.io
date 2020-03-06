@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz trumpın vitesi 1 den 3 geçirmesi
 bkz tayyipin tek hareketiyle gire vites atan putin
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular bkz elif can terim
 bkz elif can terimin uyurken telefonu sessize alması
