@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ekşcililerle ulucların üsytün insanlar oldukları gerçeği
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular abi elitsiniz ya
 https://www.uludagsozluk.com/k/uyuyamamak/&w=bg abi seki ve üsyün insanlar uyuyamaz zaten abi
 https://www.uludagsozluk.com/k/do%C4%9Fru-s%C3%B6z-keskin-b%C4%B1%C3%A7akla-ayn%C4%B1d%C4%B1r/ büyüksün abi
