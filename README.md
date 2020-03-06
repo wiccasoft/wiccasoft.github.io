@@ -4,6 +4,7 @@
 
 
 <!--
+https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sözlük teyzelerini hopur hopur hoplatmak
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sözlük teyzelerini hoplatan genco
 https://www.uludagsozluk.com/k/bedelini-ben-%C3%B6d%C3%BCyorsam-yarg%C4%B1lamak-size-d%C3%BC%C5%9Fmez/ bkz keser sapı
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular bkz keser sapı
