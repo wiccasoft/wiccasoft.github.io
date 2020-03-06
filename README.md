@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C3%B6ld%C3%BCkten-sonra-nas%C4%B1l-an%C4%B1lacak/&w=gd bkz rte nin kabri
 https://www.uludagsozluk.com/k/ekrem-co%C5%9Fkun/&w=bg bkz ismi ekrem olan erkek seksiliği
 https://seyyid-nesimi.uludagsozluk.com/ izindeyin reyiz devam rte inene kadar devam et
 https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-memurlu%C4%9Fu-bitirecek-olmas%C4%B1/ bir gerçek
