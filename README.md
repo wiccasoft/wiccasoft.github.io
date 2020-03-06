@@ -4,6 +4,7 @@
 
 <!--
 bkz trumpın geri vitesden 3 takması
+https://www.uludagsozluk.com/k/hayalet-sihalar/ bkz ucuna taramalı takacan tarayacak aq
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd bkz efso geri vites aq
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz geri vites aq basacan gaza aga
 https://www.uludagsozluk.com/k/hayalet-sihalar/ efso aga ucuna taramalı bağalayacan bi de süper geri vites yok aq
