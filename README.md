@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ma kamal fasulye yerken osururdu yalanı
 bkz ma kamalın götüne pamuk soktular yalanı
 https://www.uludagsozluk.com/k/her-akp-krizinde-atat%C3%BCrke-hakaret-hortlamas%C4%B1/
 https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz ma kamalın ölü olması
