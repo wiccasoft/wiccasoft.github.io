@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ taviz bahane eşcinsellik şahane
 https://www.uludagsozluk.com/ bkz ülkücü eşcinseller sitesi
 https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinsel
 https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinsel
