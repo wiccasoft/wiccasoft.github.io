@@ -5,6 +5,7 @@
 
 <!--
 bkz eşcinsel ülkücülerin forumlarda sıkışıp kalması
+https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz olur öle vermeyin bi daha ki sefere
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/  erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/derdime-%C3%A7are-ararken-daha-cok-derdin-toplanmas%C4%B1/ bkz eşcinsel ülkücü hastalıkları
