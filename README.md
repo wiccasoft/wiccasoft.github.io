@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ma kamalın türklük süper bişi demesi
 bkz ma kamal atacücünün atayız olduğu itiraf etmesi
 bkz ma kamalın ismeti bim sosis alamaya yollaması
 https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz ma kamalın attığı tweet
