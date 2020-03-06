@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+https://www.uludagsozluk.com/k/ekrem-co%C5%9Fkun/&w=bg bkz ismi ekrem olan erkek seksiliği
 https://seyyid-nesimi.uludagsozluk.com/ izindeyin reyiz devam rte inene kadar devam et
 https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-memurlu%C4%9Fu-bitirecek-olmas%C4%B1/ bir gerçek
 https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam/&w=bg şapşik bi adam
