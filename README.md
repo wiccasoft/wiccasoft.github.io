@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz topların grubu
 https://www.uludagsozluk.com/k/duman/&w=bg bkz top
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz top deposu
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail yavşaklığı
