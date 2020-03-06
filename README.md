@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-itiraflar%C4%B1/&w=bg bkz eşicnsellerin itirafları
 https://www.uludagsozluk.com/ bkz eşcinsellerin ülkcü uğruna çektikler
 https://yoksul-genc.uludagsozluk.com/ bkz ülkücü eşcinsel
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkten-bulu%C5%9Fup-bir-g%C3%BCn-boyunca-sevi%C5%9Fmek/ öğğğğğ
