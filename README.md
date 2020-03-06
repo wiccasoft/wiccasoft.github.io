@@ -5,6 +5,8 @@
 <!--
 bkz orhan bence gay
 bkz adam gibi adam diyince akla gelen ilk isim
+https://seyyid-nesimi.uludagsozluk.com/ bkz eşcinsellerin düşmanı adam gib adam
+https://www.uludagsozluk.com/k/askeri-mahkemeler-ni%C3%A7in-kald%C4%B1r%C4%B1ld%C4%B1/
 https://www.uludagsozluk.com/k/pasif-gay/&w=bg bkz erdoğan
 bkz eşcinsellerin erdoğanı anlamadığı gerçeği
 https://www.uludagsozluk.com/k/adem-ljajic/&w=bg adam eşcinsel beyler
