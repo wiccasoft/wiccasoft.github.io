@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/hayalet-sihalar/ ucuna taramalı bağlayacan aga süper olur aq
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=gd bkz sapık ismet
 bkz 7 mart selçuk bayraktarın efso siha saldırısı
 bkz 6 mart 2020 idlib efso ileri vites
