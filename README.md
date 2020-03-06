@@ -4,7 +4,7 @@
 
 <!--
 bkz moskofu kaç saatte alırız sorunsalı
-bkz porçesi olan kıza geri vites kaç beygir bu demek
+bkz porçesi olan kıza geri vitesde kaç beygir yakıyo bu demek
 https://www.uludagsozluk.com/k/%C5%9Fu-an-dinlenilen-m%C3%BCzikler/&w=bg bkz efso geri vites mp3
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg bkz efso geri vites aq
 bkz 9 mart 2020 putinin geri vitesi keser sapı gibi damada saplaması
