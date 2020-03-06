@@ -4,6 +4,8 @@
 
 <!--
 bkz orhan bence gay
+https://bir-idealistin-ta-kendisi.uludagsozluk.com/ bkz denie top düşünce kurtaran yiğido
+https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/ bk top
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz aktif gay
 https://tengir-budun.uludagsozluk.com bkz toplatı hopur hopur hoplatmak
