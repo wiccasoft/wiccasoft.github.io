@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/adem-ljajic/&w=bg kürfretme orospunun sıçtığı
 https://www.uludagsozluk.com/k/baba-h%C4%B1rs%C4%B1z-o%C4%9Ful-katil/ bkz ben ve babam
 https://www.uludagsozluk.com/k/sevim-tan%C3%BCrek-in-katili/ bkz boyu posu devrilesice hain ve ruhsuz pis şey
 https://www.uludagsozluk.com/k/b%C3%BCt%C3%BCn-peygamberlerin-arap-olmas%C4%B1/&w=bg alala neden acaba
