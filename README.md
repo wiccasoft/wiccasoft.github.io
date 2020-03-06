@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz beyler 28 miş adam kaynak tıklağ
 https://www.uludagsozluk.com/e/42953729/ azınıza layık umarım beğenirsiniz saygılar paşam
 https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular abileri siz ne öyle büyüdünüz
 https://eksisozluk.com/oytun-erbas--888842?a=popular abisi gençliğine verin bi daha yapmıcakmış
