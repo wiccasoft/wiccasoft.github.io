@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://eksisozluk.com/adem-ljajic--1984155?a=popular ıstırılır yalanır bi de -->
+<!-- 
+https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz ıstırılınır yalanır bi de 
+https://eksisozluk.com/adem-ljajic--1984155?a=popular ıstırılır yalanır bi de -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
