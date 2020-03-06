@@ -4,6 +4,7 @@
 
 
 <!--
+https://sekhmet07.uludagsozluk.com/ aw geri vites aq bir erkek uğruna aq
 https://www.uludagsozluk.com/e/42953740/ aw değmez aw geri vites atardım aq
 bkz bakir kızların ekşicilere vermek için kuyruğa girmesi
 https://www.uludagsozluk.com/e/42953729/ yıkadım yolladım kankağğğ patlak değil heeeeeee
