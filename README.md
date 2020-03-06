@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücünün aktif gay olduğu iddaları
 bkz atacücüye aşık olmak
 bkz müjdat gezenin atacücüye yazdığı şiir
 https://www.uludagsozluk.com/k/atat%C3%BCrk-geri-gelse-s%C3%B6yleyece%C4%9Fi-ilk-c%C3%BCmle/&w=bg bkz bu ne lan 
