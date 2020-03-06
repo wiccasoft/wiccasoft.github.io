@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com bkz ultra top
+https://seyyid-nesimi.uludagsozluk.com bkz ultra gay
 https://radikalkemalizm.uludagsozluk.com bkz kemalistlik arttıkça gayliğin artması
 https://www.uludagsozluk.com bkz türkish ultra gay forum sites
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz türkish gay leader
