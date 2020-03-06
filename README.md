@@ -2,58 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-bkz trumpın aman abi droneları salmayan abi diye yalvarması
-bkz droneların ucuna keleş bağlayıp taraya taraya giden drone yapıp dünyayı hizaya sokmak
-bkz rusyayla abd nin dronelardan it gibi korktuğu gerçeği
-bkz ülkücülerin mradara yakalanmayan drone yapması
-bkz ülkücülerin dronelarla dünyaya akrobasi dersi vermesi 
-bkz ülkücülerin kafalarını tokuşturarak selamlaşması
-bkz 5 mart 2020 erdoğanın çavuşoğlanla kafasını vurarak tokalaşması
-bkz ülkücülerin dronelarla rusyaı ele geçirme planı
-https://eksisozluk.com/ulku-ocaklarinin-drone-uretmesi--6397314?a=popular 
-bkz 5 mart 2020 erdoganin cavuşoğlanı tokatlaması
-https://eksisozluk.com/5-mart-2020-erdoganin-cavusoglu-ile-tokalasmasi--6397175?a=popular 
-bkz minibüs şöförlerinin vites atarken telefondan açtığı başlıklar
-https://www.uludagsozluk.com/k/ak-saçlılar-gerçekten-var-mı-aq/ bkz ak saçlılar anladım ne diyo aq
-https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg bkz efso geri vites
-bkz çok şükür atacücüye bu ülke gay cenneti kankağ
-https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz haline şükret
-bkz bigün yüzü görmedim diyen afgan genco. kaynak aha link tıklağ haline şükret kankağ senden beteri  var
-bkz sonra dedimki rabbişkoma iyiki reisimiz başımızda selam ve dua ile
-bkz reisin rusyayı tokat manyağı yapıp dönmesi
-bkz keser sapı gibi xiomi kullanan kekolar
-bkz ilk buluşmada masaya iphone çıkarıp vuran erkek
-bkz iphone x i olmayan ezik
-bkz telefonu aliyö diyen açan afgan
-bkz afgan saidin türkiye çok güzel rakı şiş kebap ben çok sevdi demesi
-bkz trumpın vitesi 1 den 3 geçirtirken dişlilerde ses gelmesi
-bkz tayyipin tek hareketiyle gire vites atan putin
-https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular bkz elif can terim
-bkz elif can terimin uyurken telefonu sessize alması
-bkz 7 mart 2020 kürt hava yollarının elif can terimi kovması
-bkz 6 mart 2020 trumpın geri vitesi
-bkz 6 mart 20230 reisin putini mat edip dünya liderliğine oynması
-https://www.youtube.com/watch?v=FFkBaGqXLig bkz keser sapının çaylak onayını beklemesi
-bkz ekşiciler için şeftalü gübün emcüklerünü siktirmek için sıraya giren afgan mülteci kızlar
-bkz şeyh saidin gün yüzü görmek için ekşi çaylak onayı beklemesi
-https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular yazık la aq 28 miş genco
-https://eksisozluk.com/putinin-el-isaretiyle-herkesin-ip-gibi-dizilmesi--6396895?a=popular bkz şah mat aq ip gibi len mq
-https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular bkz efso antlaşma
-https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ efso başlık aq
-https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular&p=75 abü favlayam mı abüüüüüüüüü
-https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ bkz var mı la aq
-https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg bkz efso geri vites aq
-https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ var mı aq
-https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular hay daşşağına kurban damad
-https://www.uludagsozluk.com/k/hayalet-sihalar/ ucuna taramalı bağlayacan aga süper olur aq
-https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-mikail-mele%C4%9Fi-olma-ihtimali/&w=bg bkz emeğine aktım kardeş
-https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sen de kaldım kankağ 
-https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ bkz efso geri vites aq
-https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ yıkandı agam azınıza layık
-https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz şeyh said
-https://eksisozluk.com/tayyip-erdoganin-rusya-abd-ve-abyi-mat-etmesi--6396670?a=popular bkz şah mat koyduk muu -->
-
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
