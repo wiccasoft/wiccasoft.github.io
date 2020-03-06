@@ -4,7 +4,7 @@
 
 <!--
 bkz abüü bü yeşüllendürün be abüüüüüüüüüüüüüüüü
-bkz abi beni de aranıza alın be abüüüüüü 42 yaşındayım hala  çaylak onayı bekliyom be abüüüüüüüüüüü
+bkz abi beni de aranıza alın be abüüüüüü 42 yaşındayım hala  çaylak onayı beklüm be abüüüüüüüüüüü
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ adam haklı ak
 bkz ekşcililerle ulucluarın üstün insanlar oldukları gerçeği
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular abi elitsiniz ya
