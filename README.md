@@ -4,7 +4,7 @@
 
 <!--
 bkz orhan bence gay
-bkz zözgecan aslanın aslna gibi 5 çovuk doğurabileceği gerçeği
+bkz zözgecan aslanın aslan gibi 5 çovuk doğurabileceği gerçeği
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-e%C5%9Fcinsel-yazar-istemiyoruz-kampanyas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/baba-h%C4%B1rs%C4%B1z-o%C4%9Ful-katil/ bkz ben ve babam
 https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funuz-e%C5%9Fcinsel-olsa-ne-yapard%C4%B1n%C4%B1z/&w=bg alala
