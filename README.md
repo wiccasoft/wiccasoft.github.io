@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bigün yüzü görmedi diyen afgan kaynak tıklağ haline şükret
 bkz sonra dedimki rabbişkoma iyiki reisimiz başımızda selam ve dua ile
 bkz reisin rusyayı tokat manyağı yapıp dönmesi
 bkz keser sapı gibi xiomi kullanan kekolar
