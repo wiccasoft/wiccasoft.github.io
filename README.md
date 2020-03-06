@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkten-bulu%C5%9Fup-bir-g%C3%BCn-boyunca-sevi%C5%9Fmek/ bkz eşcinsel
 https://www.uludagsozluk.com/k/%C3%A7ok-insan-tan%C4%B1yorsun-ama-kimsen-yok/ bkz eşcinsel
 https://www.uludagsozluk.com/ bkz eşcinsellerin dışlanmışlarını giderdikleri forum
