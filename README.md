@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz sonra dedimki rabbişkoma iyiki reisimiz başımızda selam ve dua ile
 bkz reisin rusyayı tokat manyağı yapıp dönmesi
 bkz keser sapı gibi xiomi kullanan kekolar
 bkz ilk buluşmada masaya iphone çıkarıp vuran erkek
