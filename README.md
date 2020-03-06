@@ -4,6 +4,8 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz rte
+https://pilihozlu-haci-baron-bey.uludagsozluk.com/ bkz aktif gay
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz aktif gay
 bkz denize yunan mı düşse kurtarırsın ermeni mi sorunsalı
 https://www.uludagsozluk.com/k/a%C5%9Fk-ac%C4%B1s%C4%B1-%C3%A7ekenlere-tavsiyeler/&w=bg bkz herkeş bana aşık
