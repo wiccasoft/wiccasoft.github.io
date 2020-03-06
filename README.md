@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/ bkz kamalcı toplar
 https://kirmizicizgi.uludagsozluk.com bkz ultra top
 https://seyyid-nesimi.uludagsozluk.com bkz ultra gay
 https://radikalkemalizm.uludagsozluk.com bkz kemalistlik arttıkça gayliğin artması
