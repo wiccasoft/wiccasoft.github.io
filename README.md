@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sende teyzecim 
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz favlasdığı entry i silen teyze
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sözlük teyzelerini hopur hopur hoplatmak
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular bkz sözlük teyzelerini hoplatan genco
