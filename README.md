@@ -5,7 +5,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-mikail-mele%C4%9Fi-olma-ihtimali/&w=bg bkz emeğine aktım kardeş
-https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sen de kaldım kankağ 
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sen de kaldım kankağ cnısııııı canıııııssı
 https://www.uludagsozluk.com/e/42953729/ sen uzan yıkadım yolladım geliyo kankağ 
 bkz 5 erkek uğruna arkayı beşleyelim diyen muavin
 bkz patlak kızın suda çıkardığı ses vs porçe geri vites sesi
