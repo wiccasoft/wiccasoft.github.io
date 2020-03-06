@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/esad-%C4%B1n-bir-gecede-m%C3%BCsl%C3%BCman-olmas%C4%B1/ bkz yalan
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1na-sade-tayyip-diyenler-tutuklans%C4%B1n/&w=gd +1 up
 https://www.uludagsozluk.com/k/tayyipizm/&w=bg bkz en güzel ideoloji
 https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam/&w=bg vr 38 nedir
