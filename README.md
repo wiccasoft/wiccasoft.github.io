@@ -4,6 +4,8 @@
 
 
 <!--
+bkz geri vitesli konuşan liseli aq
+bkz 5 mart 2020 de yapılan efsane geri vites 
 bkz 5 mart 2020 efso geri vitesi aq
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg
 bkz aq ka saçlılağ var mııııııı ak
