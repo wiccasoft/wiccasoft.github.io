@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz abüü bü yeşüllendürün be abüüüüüüüüüüüüüüüü
 bkz abi beni aranıza alın be abiiiiiiiii çaylk onatyı bekliyom be abüüüüüüüüüüü
 bkz ekşcililerle ulucluarın üstün insanlar oldukları gerçeği
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular abi elitsiniz ya
