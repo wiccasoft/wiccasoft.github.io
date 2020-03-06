@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz götü kalkık ergenlerin kendilerini kıral zannettiği forum siteleri
+bkz ezik ama götü kalkık ergenlerin kendilerini kral zannettiği forum siteleri
 https://www.uludagsozluk.com/e/42953729/ yıkandı paşam emrinize amade
 https://eksisozluk.com/gercek-yas-vs-hissedilen-yas--5844319?a=popular abileri siz ne öyle büyüdünüz
 https://eksisozluk.com/oytun-erbas--888842?a=popular abisi gençliğine verin bi daha yapmıcakmış
