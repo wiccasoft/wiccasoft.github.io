@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz orhan bence gay
 https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funuz-e%C5%9Fcinsel-olsa-ne-yapard%C4%B1n%C4%B1z/&w=bg alala
 https://www.uludagsozluk.com/k/bar%C4%B1%C5%9F-terko%C4%9Flu-ve-bar%C4%B1%C5%9F-pehlivan-%C4%B1n-tutuklanmas%C4%B1/
 https://www.uludagsozluk.com/k/adem-ljajic/&w=bg kürfretme orospunun sıçtığı
