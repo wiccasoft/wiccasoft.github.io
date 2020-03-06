@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://tahir33.uludagsozluk.com/ bkz gaylerin korkulu rüyası tahir 33
 https://www.uludagsozluk.com/k/abdullah-%C3%B6calan-as%C4%B1ls%C4%B1n/ up la kankağ
 bkz denize rte mi düşse kurtarırsın abdullak gül mü
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz rte
