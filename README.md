@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/ bkz eşcinsellerin ülkcü uğruna çektikler
 https://yoksul-genc.uludagsozluk.com/ bkz ülkücü eşcinsel
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkten-bulu%C5%9Fup-bir-g%C3%BCn-boyunca-sevi%C5%9Fmek/ öğğğğğ
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte de tutuklu kalmak
