@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz atacücü iphone kullananalar ibnedir dese naparsınız sounsalı
+bkz atacücü iphone kullananalar ibnedir dese naparsınız sorunsalı
 bkz atacücü facebooktan anneni poke lasa naparsınız ilk cümle sorunsalı
 bkz atacücü geri gelse deski anneni sikeyim naparsınız sorunsalı
 bkz atacücü deseki yarramı em naparsınız sorunsalı
