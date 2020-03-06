@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz trumpın aman abi droneları salmayan abi diye yalvarması
 bkz droneların ucuna keleş bağlayıp taraya taraya giden drone yapıp dünyayı hizaya sokmak
 bkz rusyayla abd nin dronelardan it gibi korktuğu gerçeği
 bkz ülkücülerin mradara yakalanmayan drone yapması
