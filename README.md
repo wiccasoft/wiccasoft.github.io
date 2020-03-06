@@ -5,6 +5,7 @@
 <!--
 bkz orhan bence gay
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz rte
+https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=gd
 https://radikalkemalizm.uludagsozluk.com/ bkz gaylerin korkulu rüyası
 https://www.uludagsozluk.com/k/geceye-bir-ismet-in%C3%B6n%C3%BC-s%C3%B6z%C3%BC-b%C4%B1rak/ bkz gayleri çıldırtıyoruz
 https://www.uludagsozluk.com/k/geceye-bir-ismet/ bkz gayleri çıldırtacak bişey bırak
