@@ -4,6 +4,8 @@
 
 
 <!--
+bkz eşcinsel ülkücülerin forumlarda sıkışıp kalması
+https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/  erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/derdime-%C3%A7are-ararken-daha-cok-derdin-toplanmas%C4%B1/ bkz eşcinsel ülkücü hastalıkları
 bkz 5 mart 2020 eşcinsellerin forumlarda kadın düşmanlığı yaparken olmayan beyinlerini yitirmeleri
 https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinseller
