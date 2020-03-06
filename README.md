@@ -4,6 +4,7 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
+bkz kaslı futbolcu izlerken içinin yağları eriyen şişko ekşici
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bk en topu bile kemalist yapacak erkek
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bjz karar vermesi zor anlar
 https://eksisozluk.com/kemalistlerin-osmanli-dusmani-olmasi--6398083?a=popular bkz kamalcıların top düşmanı olmaları
