@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg 
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ sahi noldu o beygire
 https://www.uludagsozluk.com/k/5-mart-2020-t%C3%BCrk-heyetinin-rusya-foto%C4%9Fraf%C4%B1/&w=gd tıklağ galeriğ izleğ
