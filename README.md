@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ma kamal atacücü gelse dese ki domal naparsınız
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz ma kamal atacücü
 bkz atacücü facebooktan anneni poke lasa naparsınız sorunsalı
 bkz atacücü geri gelse be oçları resimlerimi orda burda paylaşmayın dese naparsınız
