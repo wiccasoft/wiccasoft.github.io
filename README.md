@@ -7,15 +7,6 @@ https://www.uludagsozluk.com bkz türkish ultra gay forum sites
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz türkish gay leader
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz türkish gay bands
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz facebook atacücü sevenler sayfası
-bkz ismet inönünün yavşak bi yancı olduğu gerçöeği
-bkz ismet inönünü mustaf kamakl atacücünün önüne geçme hevesi
-bkz mustafa kamal atacücünün ismetle olan dostluğu
-bkz mustafa kamal atacücünün en soz ben ne zaman övdünüz oç ları demesi
-bkz mustafa kamal atacücünün beni övmeyen türk değildir demesi
-bkz filosof atakanın atacücünün filozofuyum demesi
-bkz grup vitamindeki ismail
-bkz ma kamalın sünnetsiz olduğu gerçeği
-bkz ma kamala laf etmese sebepsi baban kim i bilmezdin şerefsiz
 https://www.uludagsozluk.com/k/m4-ve-m5-karayolu/&w=bg bkz ma kamalın izinde olan yollar
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail
 bkz ma kamal fasulye yerken osururdu yalanı
