@@ -4,7 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
-bkz erdoğanıın alaycı seksi ve keskin bakışlarının ıslandırması
+bkz erdoğanın alaycı seksi ve keskin bakışlarının ıslandırması
 bkz erdoğanı kelimelere sığrdıracak kadar sığ olmak
 https://www.uludagsozluk.com/k/tayyipizm/&w=bg bkz en güzel ideoloji
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C3%B6ld%C3%BCkten-sonra-nas%C4%B1l-an%C4%B1lacak/ bkz kabri dolacak taşacak
