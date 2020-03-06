@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd efso kankağ geri vites
 bkz efso geri vites aq
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/
 https://www.uludagsozluk.com/e/42951150/ önce izleyin aq geri vitesi aq
