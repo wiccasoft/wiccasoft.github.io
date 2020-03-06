@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz türk önde türk iler
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-dirildi%C4%9Fine-inanmayan-tip/
 https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/&w=gd bkz naslistik misil füzesi
 https://www.uludagsozluk.com/k/ip-man-4/&w=bg bkz top hoplatan
