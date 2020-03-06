@@ -4,6 +4,7 @@
 
 
 <!--
+bkz ak saçlılar gerçekten var mı aq
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ gece 3 te konuştuklar konu aq
 https://www.uludagsozluk.com/e/42954506/  bkz gizli eşcinsel
 https://seyyid-nesimi.uludagsozluk.com/ bkz %100 eşcinsel
