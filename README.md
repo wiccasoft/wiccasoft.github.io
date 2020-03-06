@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/birinci-murad-hangi-sava%C5%9Fta-%C3%B6lm%C3%BC%C5%9Ft%C3%BCr/ bkz 1. murad seksiliği
 https://seyyid-nesimi.uludagsozluk.com/ bkz gayleri hopur hoplatan yazar
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz ıstırırım bunu yalarım bi de
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz  ıstırırım bunu yalarım  bi de
