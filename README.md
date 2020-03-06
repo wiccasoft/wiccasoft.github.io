@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz ekşicilerle ulucuların çok sevilme nedeni geri vitesi aq
 https://www.uludagsozluk.com/k/sevilmek/&w=bg bkz ekşicilerle ulucların müzdarip olduğu dertler
 https://www.uludagsozluk.com/e/42953729/ paklandı paketledni agam azına layıh
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
