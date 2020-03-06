@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şeyh saidin çaylak onayı beklemesi
 https://www.youtube.com/watch?v=FFkBaGqXLig keser sapının çaylak onayını beklemesi
 bkz ekşiciler için şeftalü gübün emcüklerünü siktirmek için sıraya giren afgan mülteci kızlar
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular yazık la aq 28 miş genco
