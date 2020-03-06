@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz telefonu aliyö diyen açan afgan
 bkz afgan saidin türkiye çok güzel şiş kebap ben hep gelecek demesi
 bkz trumpın vitesi 1 den 3 geçirtirken dişlilerde ses gelmesi
 bkz tayyipin tek hareketiyle gire vites atan putin
