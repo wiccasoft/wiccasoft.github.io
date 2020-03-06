@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücü geri gelse deseki facebook tan ekle naparsınız sorunsalı
 bkz atacücü dese ki yarramı denizde yala dese naparsınız sorunsalı
 bkz atacücü denzie düşse kurtarırımısınız sorunsalı
 bkz atacücü ordular ilk hefenizi akdeniz dese denize atlarmısınız sorunsalı
