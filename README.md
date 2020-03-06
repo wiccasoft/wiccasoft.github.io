@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz moskofu kaç saatte alrıız sorunsalı
+bkz porçesi olan kıza geri vites kaç beygir bu demek
 https://www.uludagsozluk.com/k/%C5%9Fu-an-dinlenilen-m%C3%BCzikler/&w=bg bkz efso geri vites mp3
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg bkz efso geri vites aq
 bkz 9 mart 2020 putinin geri vitesi keser sapı gibi damada saplaması
