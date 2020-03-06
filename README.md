@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/geceye-bir-ismet/ bkz gayleri çıldırtacak bişey bırak
 https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/&w=bg bkz toplar
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz aktif gay
 https://www.uludagsozluk.com/k/ak-top/ bkz ak gay
