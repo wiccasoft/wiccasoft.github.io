@@ -7,36 +7,6 @@ https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz türkish g
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz türkish gay leader
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz türkish gay bands
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz topların grubu
-https://www.uludagsozluk.com/k/duman/&w=bg bkz top
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz top deposu
-https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail yavşaklığı
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz ma kamal atacücü
-bkz atacücü facebooktan anneni poke lasa naparsınız sorunsalı
-bkz atacücü geri gelse be oçları resimlerimi orda burda paylaşmayın dese naparsınız
-bkz atacücü geri gelse be oçları facebook sayfamı beğenmeyin dese
-bkz atacücü iphone kullananalar ibnedir dese naparsınız sorunsalı
-bkz atacücü facebooktan anneni poke lasa naparsınız ilk cümle sorunsalı
-bkz atacücü geri gelse deski anneni sikeyim naparsınız sorunsalı
-bkz atacücü deseki yarramı em naparsınız sorunsalı
-bkz atacücü deseki bunu retweetle naparsınız sorunsalı
-bkz atacücü whatsuptan naner lan yarram dese naparsınız sorunsalı
-bkz atacücü geri gelse deseki facebook tan ekle naparsınız sorunsalı
-bkz atacücü dese ki yarramı denizde yala dese naparsınız sorunsalı
-bkz atacücü denzie düşse kurtarırımısınız sorunsalı
-bkz atacücü ordular ilk hefenizi akdeniz dese denize atlarmısınız sorunsalı
-bkz atacücü geri gelse hangi başlığı açardı sorunsalı
-https://seyyid-nesimi.uludagsozluk.com/ bkz ata cücünün askeri
-https://radikalkemalizm.uludagsozluk.com/ bkz atacücünün askeri
-bkz atacücünün aktif gay olduğu iddaları
-bkz atacücüye aşık olmak
-bkz müjdat gezenin atacücüye yazdığı şiir
-https://www.uludagsozluk.com/k/atat%C3%BCrk-geri-gelse-s%C3%B6yleyece%C4%9Fi-ilk-c%C3%BCmle/&w=bg bkz bu ne lan 
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz türk sevdalısı 
-https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail yavşaklığı
-bkz mark zucker berg bs mustafa kamal atacücü
-bkz atacücü geri gelse facebooktan eklermisin sorunsalı
-bkz mustafa kamal atacücünün yunanlıları facebooktan denize dökmesi
-bkz mustafa kamal atacücü facebook sayfasını seven 1 milyon türk bulabilriz kampanyası
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz facebook atacücü sevenler sayfası
 bkz ismet inönünün yavşak bi yancı olduğu gerçöeği
 bkz ismet inönünü mustaf kamakl atacücünün önüne geçme hevesi
