@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz aktif gay
 https://www.uludagsozluk.com/k/ak-top/ bkz ak gay
 https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz ak top
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz aktif gay
