@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz ıstırırım bunu yalarım bi de
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz  ıstırırım bunu yalarım  bi de
 https://eksisozluk.com/abdullah-avci--1268510?a=popular bkz ısıtırırım bunu yalarım  bi de
 https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz götü ısıtırılacak top tepiciler
