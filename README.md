@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C3%B6ld%C3%BCkten-sonra-nas%C4%B1l-an%C4%B1lacak/ bkz kabri dolacak taşacak
 https://www.uludagsozluk.com/k/tayyipizm/&w=bg bkz en güzel ideoloji
 https://www.uludagsozluk.com/k/milli-e%C4%9Fitimin-kanser-olmas%C4%B1/ bkz %100 yerli ve kanser
 https://www.uludagsozluk.com/k/%C4%B1rak-%C5%9Fam-islam-devleti/ bkz olur öyle
