@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ilk bulumada masaya iphone çıkarıp vuran erkek
 bkz iphone x i olmayan ezik
 bkz telefonu aliyö diyen açan afgan
 bkz afgan saidin türkiye çok güzel rakı şiş kebap ben çok sevdi demesi
