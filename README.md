@@ -4,6 +4,7 @@
 
 
 <!--
+https://eksisozluk.com/evlenmeyi-dusunmuyorum-diyen-kiz--4784962?a=popular bkz keser sapı
 https://eksisozluk.com/5-mart-2020-turkiyenin-rusyada-istedigini-almasi--6396682?a=popular bkz keser sapını alması
 https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular bkz keser sapı gibi saplamak
 https://www.uludagsozluk.com/k/bedelini-ben-%C3%B6d%C3%BCyorsam-yarg%C4%B1lamak-size-d%C3%BC%C5%9Fmez/ bkz geri vites aq
