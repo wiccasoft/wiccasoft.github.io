@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kürt hava yollarının elif can terimi kovması
 bkz elif can terimin selam ve dua ile trabzon şampiyon oldu demesi
 bkz 6 mart 2020 trumpın geri vitesi
 bkz 6 mart 20230 reisin putini mat edip dünya liderliğine oynması
