@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz 6 mart 20230 resini dünya liderliğine oynması
 bkz şeyh saidin gün yüzü görmek için ekşi çaylak onayı beklemesi
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz keser sapının çaylak onayını beklemesi
 bkz ekşiciler için şeftalü gübün emcüklerünü siktirmek için sıraya giren afgan mülteci kızlar
