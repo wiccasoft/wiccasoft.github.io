@@ -4,6 +4,7 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
+https://eksisozluk.com/fikret-kiziloka-dair-akilda-kalan-sey--6398275?a=popular bkz ibne gibi puşt gibin bişi
 https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz pasif hoplatan aktif top tepici
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg bkz gay hoplatan
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz gay hoplatan takım cülübü
