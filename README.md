@@ -4,6 +4,8 @@
 
 <!--
 bkz orhan bence gay
+bkz erdoğan nasıl anılcacak sorunsalı kabrine gidermisiniz sorunsalı
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C3%B6ld%C3%BCkten-sonra-nas%C4%B1l-an%C4%B1lacak/&w=gd
 bkz zözgecan aslanın aslan gibi 5 çovuk doğurabileceği gerçeği
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkte-e%C5%9Fcinsel-yazar-istemiyoruz-kampanyas%C4%B1/&w=bg lol
 https://www.uludagsozluk.com/k/baba-h%C4%B1rs%C4%B1z-o%C4%9Ful-katil/ bkz ben ve babam
