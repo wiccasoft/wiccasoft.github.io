@@ -4,7 +4,7 @@
 
 <!--
 bkz orhan bence gay
-https://seyyid-nesimi.uludagsozluk.com/ bkz ılıklara inar durmadan başlık açan yiğido
+https://seyyid-nesimi.uludagsozluk.com/ bkz ılıklara inat durmadan başlık açan yiğido
 https://www.uludagsozluk.com/k/moskova-da-t%C3%BCk%C3%BCrd%C3%BC%C4%9F%C3%BCn%C3%BC-yalamak/
 bkz denize yunan mı düşse kurtarırsın ermeni mi sorunsalı
 https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
