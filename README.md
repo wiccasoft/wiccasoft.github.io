@@ -1,7 +1,10 @@
 
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
-
+<!-- 
+https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg 
+bkz ma kamalın ölü olduğu gerçeği
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
