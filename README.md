@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/d%C3%BCnya-lideri/&w=bg bkz rte
 https://seyyid-nesimi.uludagsozluk.com/ bkz ılıkları hopur hopur hoplatmak
 https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmenleri-k%C4%B1skanan-%C4%B1l%C4%B1k/ bkz top
 bkz denie bahçelimi düşse engin özkoç mu düşse kurtarısın sorunsalı
