@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/e/42951150/ önce izleyin aqw geri vitesi aq
 bkz geri vitesli konuşan liseli aq
 bkz 5 mart 2020 de yapılan efsane geri vites 
 bkz 5 mart 2020 efso geri vitesi aq
