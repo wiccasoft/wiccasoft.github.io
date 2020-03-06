@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg bkz gay hoplatan
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz gay hoplatan takım cülübü
 https://www.uludagsozluk.com/k/a%C5%9Fk-ac%C4%B1s%C4%B1-%C3%A7ekenlere-tavsiyeler/ bkz herkeş bana aşok sendoromo
 https://www.uludagsozluk.com/k/sar%C4%B1k-sakal-c%C3%BCbbe-%C5%9Falvar/ bkz gayleri çıldırtmak
