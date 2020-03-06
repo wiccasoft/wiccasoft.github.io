@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz kızların ekşi ve ulu oğlanları için sıraya girmesi
+bkz kızların şeftalü gübün amcuklarunu süktürmek üçün ekşi ve ulu oğlanları için sıraya girmesi
 https://www.uludagsozluk.com/k/sozluk-erkegi/&w=bg bkz uğruna 650 km pahlanmış kakzı yollanan gencolar
 https://www.uludagsozluk.com/k/zehra-alpt%C3%BCrk/&w=bg bkz  has alptürk karı kankağ azına layığ
 https://www.uludagsozluk.com/e/42953729/ bkz paklandı paşam azınıza layık
