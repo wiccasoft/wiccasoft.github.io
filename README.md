@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz mustafa kamal atacücünün yunanlıları facebooktan denize dökmesi
 bkz mustafa kamal atacücü facebook sayfasını seven 1 milyon türk bulabilriz kampanyası
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz facebook atacücü sevenler sayfası
 bkz ismet inönünün yavşak bi yancı olduğu gerçöeği
