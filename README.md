@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam/&w=bg şapşik bi adam
 https://www.uludagsozluk.com/k/tayyibin-abdullah-g%C3%BCl%C3%BC-satmas%C4%B1/ seyyid nedimi başlığı
 bkz kaslı ve seksi askerler ölürken siyaset konuşmak
 https://seyyid-nesimi.uludagsozluk.com/ izindeyin retiz
