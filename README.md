@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ip-man-4/&w=bg bkz top hoplatan
+https://www.uludagsozluk.com/k/adnan-menderes/&w=bg bkz top hoplatan
 https://www.uludagsozluk.com/k/esad-%C4%B1n-bir-gecede-m%C3%BCsl%C3%BCman-olmas%C4%B1/
 https://www.uludagsozluk.com/k/adnan-menderes/&w=bg bkz topları hoplatan
 https://www.uludagsozluk.com/k/rusya-fatihi/&w=bg bkz topları hoplatan
