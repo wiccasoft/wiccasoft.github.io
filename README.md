@@ -4,8 +4,11 @@
 
 <!--
 bkz orhan bence gay
+bkz çocupunuz eşcinsel erdoğancı olsa napasızını sorunsalı
+https://tengir-budun.uludagsozluk.com/
 https://seyyid-nesimi.uludagsozluk.com adam haklı beyler
 https://radikalkemalizm.uludagsozluk.com/ adam haklı beyler
+https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Funuz-e%C5%9Fcinsel-olsa-ne-yapard%C4%B1n%C4%B1z/&w=bg
 kimse dersimli kemal'i sevmek zorunda değil
 https://www.uludagsozluk.com/k/kimse-dersimli-kemal-i-sevmek-zorunda-de%C4%9Fil/&w=gd
 bkz erdoğan nasıl anılcacak sorunsalı kabrine gidermisiniz sorunsalı
