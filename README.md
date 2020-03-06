@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücü geri gelse hangi başlığı açardı sorunsalı
 https://seyyid-nesimi.uludagsozluk.com/ bkz ata cücünün askeri
 https://radikalkemalizm.uludagsozluk.com/ bkz atacücünün askeri
 bkz atacücünün aktif gay olduğu iddaları
