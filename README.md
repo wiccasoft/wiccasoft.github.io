@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz türkish gay leader
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz türkish gay bands
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz topların grubu
 https://www.uludagsozluk.com/k/duman/&w=bg bkz top
