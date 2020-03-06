@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz rusyanın dronelardan it gibi korktuğu gerçeği
+bkz rusyayla abd nin dronelardan it gibi korktuğu gerçeği
 bkz ülkücülerin mradara yakalanmayan drone yapması
 bkz ülkücülerin dronelarla dünyaya akrobasi dersi vermesi 
 bkz ülkücülerin kafalarını tokuşturarak selamlaşması
