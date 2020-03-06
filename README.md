@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücü facebooktan anneni poke lasa naparsınız sorunsalı
 bkz atacücü geri gelse be oçları resimlerimi orda burda paylaşmayın dese naparsınız
 bkz atacücü geri gelse be oçları facebook sayfamı beğenmeyin dese
 bkz atacücü iphone kullananalar ibnedir dese naparsınız sorunsalı
