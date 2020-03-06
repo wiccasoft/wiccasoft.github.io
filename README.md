@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz 7 mart selçuk bayraktarın efso siha saldırısı
 bkz 6 mart 2020 idlib efso ileri vites
 https://eksisozluk.com/oytun-erbas--888842?a=popular otun erbaş kim aq kankağğ odatv mi kankağğğ
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ efso başlık aq
