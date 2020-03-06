@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz pasif gay
 https://www.uludagsozluk.com/k/apo-feto-reto-%C3%BC%C3%A7l%C3%BCs%C3%BC/ bkz üçlü gay
 https://www.uludagsozluk.com/k/pasif-gay/&w=bg bkz abdullak gül
 bkz münevver karabuut yaşasaydı garipoğlandan beş tan aslan gibi çocuğu olacaktı gerçeği
