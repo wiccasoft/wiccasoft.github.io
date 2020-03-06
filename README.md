@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz gay hoplatan takım cülübü
 https://www.uludagsozluk.com/k/sar%C4%B1k-sakal-c%C3%BCbbe-%C5%9Falvar/ bkz gayleri çıldırtmak
 https://www.uludagsozluk.com/k/birinci-murad-hangi-sava%C5%9Fta-%C3%B6lm%C3%BC%C5%9Ft%C3%BCr/ bkz 1. murad seksiliği
 https://seyyid-nesimi.uludagsozluk.com/ bkz gayleri hopur hoplatan yazar
