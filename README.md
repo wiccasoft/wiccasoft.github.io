@@ -4,10 +4,6 @@
 
 <!-- 
 bkz ekşiciler için şeftalü gübün emcüklerünü siktirmek için sıraya giren afgan mülteci çaylak kızlar
-bkz filozof atakanın atamın izindeyim demesi
-bkz 5 mart 2020 rte nin putini tokat manyağı yapması
-bkz mevlananın afgan olduğu gerçeği
-bkz afganca bilmeyen afgan safkan oğlan
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular yazık la aq 28 miş genco
 https://eksisozluk.com/putinin-el-isaretiyle-herkesin-ip-gibi-dizilmesi--6396895?a=popular bkz şah mat aq ip gibi len mq
 https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular bkz efso antlaşma
