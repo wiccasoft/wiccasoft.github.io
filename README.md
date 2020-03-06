@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/5-mart-2020-erdoganin-cavusoglu-ile-tokalasmasi--6397175?a=popular bkz şok vaziyetler
 bkz minibüs şöförlerinin vites atarken telefondan açtığı başlıklar
 https://www.uludagsozluk.com/k/ak-saçlılar-gerçekten-var-mı-aq/ bkz ak saçlılar anladım ne diyo aq
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg bkz efso geri vites
