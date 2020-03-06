@@ -4,6 +4,7 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
+https://eksisozluk.com/kemalistlerin-osmanli-dusmani-olmasi--6398083?a=popular bkz kamalcıların top düşmanı olmaları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/ bkz top hoplatan cülüp
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz top
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz ıstırılınır yalanır bi de 
