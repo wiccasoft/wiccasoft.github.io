@@ -3,15 +3,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 
-<!-- 
-https://www.uludagsozluk.com/e/42953729/ paklandı agam azınıza layık 
-bkz ekşicilerle ulucuların çok sevilme nedeni geri vitesi aq
-https://www.uludagsozluk.com/k/sevilmek/&w=bg bkz ekşicilerle ulucların müzdarip olduğu dertler
-https://www.uludagsozluk.com/e/42953729/ paklandı paketledni agam azına layıh
-https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
-bkz adamın vatanı afganistan biz yaşiy vallah atama şükr coğrafya kader naberrrrrrrrrr
--->
-
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
