@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+bkz tayyibin abdullmuttap gülü satması
 bkz zözgecan aslan yaşasaydı aslan gibi beş çocuğu olacağı gerçeği
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz eşcinsel
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/&w=bg bkz eşcinsel
