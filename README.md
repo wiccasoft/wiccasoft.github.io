@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fehit-say%C4%B1s%C4%B1n%C4%B1n-artmas%C4%B1n%C4%B1-isteyen-solcu/&w=bg bkz beygir
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCkten-bulu%C5%9Fup-bir-g%C3%BCn-boyunca-sevi%C5%9Fmek/ bkz ülkücü sevişmesi
 https://www.uludagsozluk.com/k/persler-hint-soyundan-m%C4%B1/&w=gd sorunsal
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ bkz erkek adamın erkek sevgilisi olur
