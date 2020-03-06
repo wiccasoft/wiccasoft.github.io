@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz 5 erkek uğranu arkayı beşleyelim diyen muavin
+bkz 5 erkek uğruna arkayı beşleyelim diyen muavin
 bkz patlak kızın suda çıkardığı ses vs porçe geri vites sesi
 bkz tarihteki efsane geri vitesler tıklağ galeriğ açılsın
 bkz moskofu kaç saatte alırız sorunsalı
