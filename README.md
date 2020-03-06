@@ -4,6 +4,9 @@
 
 
 <!--
+https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinsel
+https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinsel
+https://seyyid-nesimi.uludagsozluk.com bkz ülkücü eşcinsel
 bkz eşcinsel ülkücülerin forumlarda sıkışıp kalması
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte kaderiniz genşler
@@ -13,9 +16,6 @@ https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz o
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/  erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/derdime-%C3%A7are-ararken-daha-cok-derdin-toplanmas%C4%B1/ bkz eşcinsel ülkücü hastalıkları
 bkz 5 mart 2020 eşcinsellerin forumlarda kadın düşmanlığı yaparken olmayan beyinlerini yitirmeleri
-https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinseller
-https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinseller
-https://seyyid-nesimi.uludagsozluk.com bkz ülkücü eşcinseller
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg 
