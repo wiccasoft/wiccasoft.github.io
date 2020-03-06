@@ -7,7 +7,7 @@
 https://www.uludagsozluk.com/e/42953729/ sen uzan yıkadım yolladım geliyo kankağ 
 bkz 5 erkek uğruna arkayı beşleyelim diyen muavin
 bkz patlak kızın suda çıkardığı ses vs porçe geri vites sesi
-bkz tarihteki efsane geri vitesler tıklağ galeriğ açılsın
+bkz tarihteki efsane geri vitesler tıklağ galeriğ açılsın kankağ
 bkz moskofu kaç saatte alırız sorunsalı
 bkz porçesi olan kıza geri vitesde kaç beygir yakıyo bu demek
 https://www.uludagsozluk.com/k/%C5%9Fu-an-dinlenilen-m%C3%BCzikler/&w=bg bkz efso geri vites mp3
