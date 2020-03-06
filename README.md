@@ -4,6 +4,7 @@
 
 
 <!--
+bkz 650 km için bir erkek için amına patlatmay giden kız aq
 https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ değmez aq değmez aq yapma kız aq
 https://www.uludagsozluk.com/e/42953740/ değmez aq değmez bunu anlayın artık yav.650 mm gitmem aq.
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ven de sen de kaldım aq len mq
