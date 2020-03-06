@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/pasif-gay/&w=bg bkz erdoğan
 bkz eşcinsellerin erdoğanı anlamadığı gerçeği
 https://www.uludagsozluk.com/k/adem-ljajic/&w=bg adam eşcinsel beyler
 bkz erdoğan eşcinselim dese naparsınız sorunsalı
