@@ -4,6 +4,7 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
+https://www.uludagsozluk.com/k/falih-r%C4%B1fk%C4%B1-atay/&w=bg bkz top hoplatan
 https://www.uludagsozluk.com/k/osman-hamdi-bey/&w=bg bkz top 
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz top
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg bkz tapılacak adamlar
