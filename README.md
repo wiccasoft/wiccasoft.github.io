@@ -4,11 +4,11 @@
 
 <!--
 bkz devlat adamı seksiliği
+https://seyyid-nesimi.uludagsozluk.com/ izindeyin reyiz devam rte inene kadar devam et
 https://www.uludagsozluk.com/k/yapay-zekan%C4%B1n-memurlu%C4%9Fu-bitirecek-olmas%C4%B1/ bir gerçek
 https://www.uludagsozluk.com/k/vr38-ile-uyuyan-adam/&w=bg şapşik bi adam
 https://www.uludagsozluk.com/k/tayyibin-abdullah-g%C3%BCl%C3%BC-satmas%C4%B1/ seyyid nedimi başlığı
 bkz kaslı ve seksi askerler ölürken siyaset konuşmak
-https://seyyid-nesimi.uludagsozluk.com/ izindeyin retiz
 https://www.uludagsozluk.com/k/33-%C5%9Fehit-varken-aspor-un-ma%C3%A7-konu%C5%9Fmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/devlet-adaml%C4%B1%C4%9F%C4%B1-g%C3%B6t-yalamak-de%C4%9Fildir/ bkz nedir peki
 bkz erdoğanın alaycı seksi ve keskin bakışlarının ıslandırması
