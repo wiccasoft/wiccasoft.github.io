@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz ülkücülerin dronelarla rusyayı ele geçirme planı
+bkz ülkücülerin dronelarla dünyayı ele geçirme planı
 https://eksisozluk.com/ulku-ocaklarinin-drone-uretmesi--6397314?a=popular 
 bkz 5 mart 2020 erdoganin cavuşoğlanı tokatlaması
 https://eksisozluk.com/5-mart-2020-erdoganin-cavusoglu-ile-tokalasmasi--6397175?a=popular 
