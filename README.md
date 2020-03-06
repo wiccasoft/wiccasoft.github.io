@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+https://www.uludagsozluk.com/k/tayyibin-abdullah-g%C3%BCl%C3%BC-satmas%C4%B1/ seyyid nedimi başlığı
 bkz kaslı ve seksi askerler ölürken siyaset konuşmak
 https://seyyid-nesimi.uludagsozluk.com/ izindeyin retiz
 https://www.uludagsozluk.com/k/33-%C5%9Fehit-varken-aspor-un-ma%C3%A7-konu%C5%9Fmas%C4%B1/&w=bg
