@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bu saç ne okan?
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/&w=bg bkz grup vfitamin ismail bu saçlar ne 
 https://www.uludagsozluk.com/k/grup-vitamin/ bkz ultra gays
 https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/ bkz bu saç ne okan?
