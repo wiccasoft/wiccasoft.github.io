@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz çok şükür atacücüye bu ülke cennet kankağ
+bkz çok şükür atacücüye bu ülke gay cenneti kankağ
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
 bkz bigün yüzü görmedim diyen afgan genco. kaynak aha link tıklağ haline şükret kankağ senden beteri  var
 bkz sonra dedimki rabbişkoma iyiki reisimiz başımızda selam ve dua ile
