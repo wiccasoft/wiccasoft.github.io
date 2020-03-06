@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz kemalistlerin gay olduklarını bi türlü anlamamaları sorunsalı
 https://www.uludagsozluk.com/k/hakan-muhaf%C4%B1z/&w=bg bkz ama .ok yakışıklıyıı yaaaaaaaaa
 https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz ismail
 https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/ bkz ismail
