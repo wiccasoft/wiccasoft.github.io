@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz aktif gay
 bkz denize yunan mı düşse kurtarırsın ermeni mi sorunsalı
 https://www.uludagsozluk.com/k/a%C5%9Fk-ac%C4%B1s%C4%B1-%C3%A7ekenlere-tavsiyeler/&w=bg bkz herkeş bana aşık
 https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
