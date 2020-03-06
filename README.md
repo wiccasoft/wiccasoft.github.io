@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz damadın  putini 45 cm aralık tokat manyağ yapması
+bkz 7 mart 2020 damadın  putini 45 cm aralık tokat manyağ yapması
 bkz selçuk bayraktarın kremlini sihalarla işgal etme ileri vitesi
 bkz 7 mart selçuk bayraktarın efso siha ileri vitesi
 bkz 6 mart 2020 idlib efso ileri vites
