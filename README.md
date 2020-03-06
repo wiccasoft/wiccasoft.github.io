@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/putinin-el-isaretiyle-herkesin-ip-gibi-dizilmesi--6396895?a=popular bkz şah mat aq ip gibi len mq
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular yazık la aq 28 miş genco
 https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular bkz efso antlaşma
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ efso başlık aq
