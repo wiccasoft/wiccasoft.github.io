@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42959057/ bu saç ne okan? hadi cevap ver okan bkz cevab veremedi
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gays
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gay turkish bands
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz türkis ultra gay bands
