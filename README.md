@@ -5,6 +5,7 @@
 <!--
 bkz orhan bence gay
 bkz denize yunan mı düşse kurtarırsın ermeni mi sorunsalı
+https://www.uludagsozluk.com/k/a%C5%9Fk-ac%C4%B1s%C4%B1-%C3%A7ekenlere-tavsiyeler/&w=bg bkz herkeş bana aşık
 https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
 https://seyyid-nesimi.uludagsozluk.com/ bkz ılıklara inat durmadan başlık açan yiğido
 https://www.uludagsozluk.com/k/moskova-da-t%C3%BCk%C3%BCrd%C3%BC%C4%9F%C3%BCn%C3%BC-yalamak/
