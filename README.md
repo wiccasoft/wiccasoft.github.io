@@ -5,6 +5,7 @@
 <!--
 bkz orhan bence gay
 https://radikalkemalizm.uludagsozluk.com/ bkz gaylerin korkulu rüyası
+https://www.uludagsozluk.com/k/geceye-bir-ismet-in%C3%B6n%C3%BC-s%C3%B6z%C3%BC-b%C4%B1rak/ bkz gayleri çıldırtıyoruz
 https://www.uludagsozluk.com/k/geceye-bir-ismet/ bkz gayleri çıldırtacak bişey bırak
 https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/&w=bg bkz toplar
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz aktif gay
