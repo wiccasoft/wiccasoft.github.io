@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/atat%C3%BCrk-geri-gelse-s%C3%B6yleyece%C4%9Fi-ilk-c%C3%BCmle/&w=bg bkz bu ne lan 
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz türk sevdalısı 
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail yavşaklığı
 bkz mark zucker berg bs mustafa kamal atacücü
