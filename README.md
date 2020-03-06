@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sen de kaldım kankağ keser sapı gibi kalktı walla
 https://www.uludagsozluk.com/e/42953729/ sen uzan yıkadım yolladım geliyo kankağ 
 bkz 5 erkek uğruna arkayı beşleyelim diyen muavin
 bkz patlak kızın suda çıkardığı ses vs porçe geri vites sesi
