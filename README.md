@@ -6,7 +6,6 @@
 https://www.uludagsozluk.com bkz türkish ultra gay forum sites
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz türkish gay leader
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz türkish gay bands
-https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz topların grubu
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz facebook atacücü sevenler sayfası
 bkz ismet inönünün yavşak bi yancı olduğu gerçöeği
 bkz ismet inönünü mustaf kamakl atacücünün önüne geçme hevesi
