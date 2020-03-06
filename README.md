@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz trumpın geri vitesden 3 takup patinaj koyması
+bkz trumpın geri vitesden 3 takıp efsanae patinaj koyması
 https://www.uludagsozluk.com/k/hayalet-sihalar/ bkz ucuna taramalı takacan tarayacak aq
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd bkz efso geri vites aq
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz geri vites aq basacan gaza aga
