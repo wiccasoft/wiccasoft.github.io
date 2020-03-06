@@ -3,6 +3,11 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular hay daşşağına kurban damad
+https://www.uludagsozluk.com/k/hayalet-sihalar/ ucuna taramalı bağlayacan aga süper olur aq
+https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-mikail-mele%C4%9Fi-olma-ihtimali/&w=bg bkz emeğine aktım kardeş
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sen de kaldım kankağ 
+https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ bkz efso geri vites aq
 https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ yıkandı agam azınıza layık
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz şeyh said
 https://eksisozluk.com/tayyip-erdoganin-rusya-abd-ve-abyi-mat-etmesi--6396670?a=popular bkz şah mat koyduk muu -->
