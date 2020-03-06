@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ bkz aktif gay
 https://tengir-budun.uludagsozluk.com bkz toplatı hopur hopur hoplatmak
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/ bkz top
 https://kirmizicizgi.uludagsozluk.com/ bkz top düşmanı adam gibi adam
