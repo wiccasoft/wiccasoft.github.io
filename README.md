@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 <!-- 
 bkz facebook ma kamalın askerleyik sayfasına 1 milyon layk alıyoruz kampanyası
+https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz top
 https://www.uludagsozluk.com/k/rusya-fatihi/&w=bg bkz tayyep komtan
 https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz türk önde türk ilere
 https://www.uludagsozluk.com/k/birbirine-en-%C3%A7ok-yak%C4%B1%C5%9Fan-ikililer/&w=bg ma kamal ismet
