@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ hay daşşağına kurban
 https://eksisozluk.com/selcuk-bayraktar--5058340?a=popular hay daşşağına kurban damad
 https://www.uludagsozluk.com/k/hayalet-sihalar/ ucuna taramalı bağlayacan aga süper olur aq
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=gd bkz sapık ismet
