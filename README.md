@@ -4,6 +4,7 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
+https://www.uludagsozluk.com/k/osman-hamdi-bey/&w=bg bkz top 
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz top
 https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg bkz tapılacak adamlar
 https://eksisozluk.com/fikret-kiziloka-dair-akilda-kalan-sey--6398275?a=popular bkz ibne gibi puşt gibin bişi
