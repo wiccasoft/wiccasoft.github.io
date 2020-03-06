@@ -4,7 +4,9 @@
 
 
 <!--
-https://seyyid-nesimi.uludagsozluk.com bkz ibnelerin iticiciliğine örnek
+https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinseller
+https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinseller
+https://seyyid-nesimi.uludagsozluk.com bkz ülkücü eşcinseller
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/sahi-bir-ajdar-vard%C4%B1-ne-oldu-ona/&w=bg 
