@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/abdullah-avci--1268510?a=popular bkz ısıtırırım bunu yalarım  bi de
 https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz götü ısıtırılacak top tepiciler
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz ıstırılınır yalanır bi de 
 https://eksisozluk.com/adem-ljajic--1984155?a=popular ıstırılır yalanır bi de -->
