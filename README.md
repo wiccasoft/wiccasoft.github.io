@@ -2,8 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-
 <!--
+bkz ak saçlılar efso geri vites aq kankağ
 bkz ak saçlılar gerçekten var mı aq
 bkz 6 mart 2020 rtenin efso geri vitesi ileri alması aq
 bkz 5 mart 2020 de yapılan efsane geri vites 
