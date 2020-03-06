@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg bkz rte den bahsediyo büyük ihtimal
+https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte
+https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg bkz rte
 https://seyyid-nesimi.uludagsozluk.com/ bkz sakat heralde aq
 bkz balta sapını okşarken favlamak
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ bkz aq sorunsalı
