@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz zözgecanın yavrucağını katleden vahşi adam
+bkz zözgecanın yavrucağını katleden vahşi ruhsuz  ve hain adam
 https://www.uludagsozluk.com/k/sevim-tan%C3%BCrek-in-katili/ hayvan herif boyun posun devrilsin
 bkz özgecen aslanın 5 tane aslan gibi evladı olabilridi şimdi diye haykırmask
 bkz devlat adamı seksiliği
