@@ -4,6 +4,7 @@
 
 
 <!--
+bkz bakir kızların ekşicilere vermek için kuyruğa girmesi
 https://www.uludagsozluk.com/e/42953729/ yıkadım yolladım kankağğğ patlak değil heeeeeee
 https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ bkz çaylak kız
 https://www.uludagsozluk.com/k/bedelini-ben-%C3%B6d%C3%BCyorsam-yarg%C4%B1lamak-size-d%C3%BC%C5%9Fmez/ bkz çaylak
