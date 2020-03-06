@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz özgecen aslanın 5 tane aslan gibi evladı olabilridi şimdi diye haykırmask
 bkz devlat adamı seksiliği
 blz özgecen aslanı özlemek
 https://www.uludagsozluk.com/k/%C3%B6zgecan-aslan%C4%B1n-katilini-%C3%B6ld%C3%BCrene-m%C3%BCebbet-hapis/
