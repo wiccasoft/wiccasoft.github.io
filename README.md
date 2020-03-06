@@ -4,6 +4,7 @@
 
 
 <!--
+bkz eşcinsellerin forumnlarda kadın düşmanlığı yaparken olmayan beyinlerini yitirmesi
 https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinseller
 https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinseller
 https://seyyid-nesimi.uludagsozluk.com bkz ülkücü eşcinseller
