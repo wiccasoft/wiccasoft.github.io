@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fu-an-dinlenilen-m%C3%BCzikler/&w=bg ben sen de tutuhlu kaldummmm canusuuu
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/ aga yok böyle vites tıklağ izleğ
 https://www.uludagsozluk.com/k/g%C3%BCne%C5%9Fin-mikail-mele%C4%9Fi-olma-ihtimali/&w=bg bkz emeğine aktım kardeş
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sen de kaldım kankağ cnısııııı canıııııssı
