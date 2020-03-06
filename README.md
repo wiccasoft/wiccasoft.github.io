@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+https://www.uludagsozluk.com/k/adem-ljajic/&w=bg adam eşcinsel beyler
 bkz erdoğan eşcinselim dese naparsınız sorunsalı
 bkz çocupunuz eşcinsel erdoğancı olsa napasınız sorunsalı
 https://tengir-budun.uludagsozluk.com/
