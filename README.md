@@ -2,7 +2,8 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
+<!--
+bkz elif can terimin uyurken telefonu sessize alması
 bkz 7 mart 2020 kürt hava yollarının elif can terimi kovması
 bkz 6 mart 2020 trumpın geri vitesi
 bkz 6 mart 20230 reisin putini mat edip dünya liderliğine oynması
