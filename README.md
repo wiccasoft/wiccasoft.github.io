@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz me kalmalın pasif gay olduğu gerçeği
+https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz top
+bkz me kmalın pasif gay olduğu gerçeği
 https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz topları hopur hopur hoplatan
 bkz topların sürekli entry girmesi
