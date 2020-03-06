@@ -4,11 +4,12 @@
 
 
 <!--
+bkz 6 mart 2020 rtenin efso geri vitesi ileri alması aq
+bkz 5 mart 2020 de yapılan efsane geri vites 
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=gd efso kankağ geri vites
 bkz efso geri vites aq
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/
 https://www.uludagsozluk.com/e/42951150/ önce izleyin aq geri vitesi aq
-bkz geri vitesli konuşan liseli aq
 bkz 5 mart 2020 de yapılan efsane geri vites 
 bkz 5 mart 2020 efso geri vitesi aq
 https://www.uludagsozluk.com/k/5-mart-2020-de-yap%C4%B1lan-efsane-geri-vites/&w=bg
