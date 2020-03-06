@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://radikalkemalizm.uludagsozluk.com/ bkz atacücünü zühur eylemiş profili
 bkz atacücünün aktif gay olduğu iddaları
 bkz atacücüye aşık olmak
 bkz müjdat gezenin atacücüye yazdığı şiir
