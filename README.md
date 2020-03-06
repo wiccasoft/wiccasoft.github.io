@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/fikret-kiziloka-dair-akilda-kalan-sey--6398275?a=popular unutulmaz anılar 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg espiriy anladın mı hareketi
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli/ arzular şelale
 https://www.uludagsozluk.com/k/selahattin-demirta%C5%9F/&w=bg ben de sizi özledim geliyorum az kaldı
