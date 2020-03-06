@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
++https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz topları hopur hopur hoplatan
 bkz topların sürekli entry girmesi
 https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz topların rüyası
 bkz topların sürekli erkeklere entry girmesi
