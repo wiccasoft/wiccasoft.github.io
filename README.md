@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tarihteki efsane geri vitesler tıklağ galeriğ açılsın
 bkz moskofu kaç saatte alırız sorunsalı
 bkz porçesi olan kıza geri vitesde kaç beygir yakıyo bu demek
 https://www.uludagsozluk.com/k/%C5%9Fu-an-dinlenilen-m%C3%BCzikler/&w=bg bkz efso geri vites mp3
