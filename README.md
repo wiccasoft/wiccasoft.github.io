@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/e/42953729/ paklandı agam azınıza layık 
 bkz ekşicilerle ulucuların çok sevilme nedeni geri vitesi aq
 https://www.uludagsozluk.com/k/sevilmek/&w=bg bkz ekşicilerle ulucların müzdarip olduğu dertler
 https://www.uludagsozluk.com/e/42953729/ paklandı paketledni agam azına layıh
