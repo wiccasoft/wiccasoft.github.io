@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ülkücülerin kafalarını tokuşturarak selamlaşması
 bkz 5 mart 2020 erdoğanın çavuşoğlanla kafasını vurarak tokalaşması
 bkz ülkücülerin dronelarla rusyaı ele geçirme planı
 https://eksisozluk.com/ulku-ocaklarinin-drone-uretmesi--6397314?a=popular 
