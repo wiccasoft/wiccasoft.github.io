@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ekşiciler için şeftalü gübün emcüklerünü siktirmek için sıraya giren çaylak kızlar
 bkz filozof atakanın atamın izindeyim demesi
 bkz 5 mart 2020 rte nin putini tokat manyağı yapması
 bkz mevlananın afgan olduğu gerçeği
