@@ -2,56 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz türk önde türk iler
-https://www.uludagsozluk.com/k/saat-takmayan-erkek/&w=bg vurduruyordur
-https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz türk önde türk iler
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-dirildi%C4%9Fine-inanmayan-tip/
-https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/&w=gd bkz naslistik misil füzesi
-https://www.uludagsozluk.com/k/ip-man-4/&w=bg bkz top hoplatan
-https://www.uludagsozluk.com/k/adnan-menderes/&w=bg bkz top hoplatan
-https://www.uludagsozluk.com/k/esad-%C4%B1n-bir-gecede-m%C3%BCsl%C3%BCman-olmas%C4%B1/
-https://www.uludagsozluk.com/k/adnan-menderes/&w=bg bkz topları hoplatan
-https://www.uludagsozluk.com/k/rusya-fatihi/&w=bg bkz topları hoplatan
-https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz topları çıldırtmak
-bkz bahçelinin top olduğunu kabullenemek
-bkz esedin pasif gay olduğu gerçeği
-https://www.uludagsozluk.com/k/serdar-orta%C3%A7/&w=bg bkz top
-bkz me kmalın pasif gay olduğu gerçeği
-https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz topları hopur hopur hoplatan
-bkz topların sürekli entry girmesi
-https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz topların rüyası
-bkz topların sürekli erkeklere entry girmesi
-bkz delikanlıca vuruşmaktan korkan top
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz top çıldırtan
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz topları delirten
-https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz topların güldürmesi
-bkz kaslı futbolcu izlerken içinin yağları eriyen şişko ekşici
-https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bk en topu bile kemalist yapacak erkek
-https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bjz karar vermesi zor anlar
-https://eksisozluk.com/kemalistlerin-osmanli-dusmani-olmasi--6398083?a=popular bkz kamalcıların top düşmanı olmaları
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/ bkz top hoplatan cülüp
-https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz top
-https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz ıstırılınır yalanır bi de 
-https://www.uludagsozluk.com/k/falih-r%C4%B1fk%C4%B1-atay/&w=bg bkz top hoplatan
-https://www.uludagsozluk.com/k/osman-hamdi-bey/&w=bg bkz top 
-https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz top
-https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg bkz tapılacak adamlar
-https://eksisozluk.com/fikret-kiziloka-dair-akilda-kalan-sey--6398275?a=popular bkz ibne gibi puşt gibin bişi
-https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz pasif hoplatan aktif top tepici
-https://www.uludagsozluk.com/k/ismet-in%C3%B6n%C3%BC/&w=bg bkz gay hoplatan
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz gay hoplatan takım cülübü
-https://www.uludagsozluk.com/k/a%C5%9Fk-ac%C4%B1s%C4%B1-%C3%A7ekenlere-tavsiyeler/ bkz herkeş bana aşok sendoromo
-https://www.uludagsozluk.com/k/sar%C4%B1k-sakal-c%C3%BCbbe-%C5%9Falvar/ bkz gayleri çıldırtmak
-https://www.uludagsozluk.com/k/birinci-murad-hangi-sava%C5%9Fta-%C3%B6lm%C3%BC%C5%9Ft%C3%BCr/ bkz 1. murad seksiliği
-https://seyyid-nesimi.uludagsozluk.com/ bkz gayleri hopur hoplatan yazar
-https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg bkz ıstırırım bunu yalarım bi de
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/ bkz  ıstırırım bunu yalarım  bi de
-https://eksisozluk.com/abdullah-avci--1268510?a=popular bkz ısıtırırım bunu yalarım  bi de
-https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz götü ısıtırılacak top tepiciler
-https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz ıstırılınır yalanır bi de 
-https://eksisozluk.com/adem-ljajic--1984155?a=popular ıstırılır yalanır bi de -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
