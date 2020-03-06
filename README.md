@@ -3,9 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ adam haklı ak
 bkz abüü bü yeşüllendürün be abüüüüüüüüüüüüüüüü
-bkz abi beni aranıza alın be abiiiiiiiii çaylk onatyı bekliyom be abüüüüüüüüüüü
+bkz abi beni de aranıza alın be abüüüüüü 42 yaşındayım hala  çaylak onayı bekliyom be abüüüüüüüüüüü
+https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ adam haklı ak
 bkz ekşcililerle ulucluarın üstün insanlar oldukları gerçeği
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular abi elitsiniz ya
 https://www.uludagsozluk.com/k/uyuyamamak/&w=bg abi seki ve üsyün insanlar uyuyamaz zaten abi
