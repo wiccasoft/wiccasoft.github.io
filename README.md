@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/ bkz ülkücü eşcinseller sitesi
 https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinsel
 https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinsel
 https://seyyid-nesimi.uludagsozluk.com bkz ülkücü eşcinsel
