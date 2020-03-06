@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ var mı aq
 https://eksisozluk.com/oytun-erbas--888842?a=popular oytun erbaş kim aq
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ aq var mı ak
 https://eksisozluk.com/45-dk-araliksiz-keser-sapi--6395906?a=popular abü benü de alun abüüüü 45 cm abü
