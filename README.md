@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/e/42953729/ bkz deli tuğrul nickli ergen kız
 https://www.uludagsozluk.com/e/42954376/ bkz bir erkek uğruna 650 km giden deli kız aq
 https://www.uludagsozluk.com/k/bir-erkek-u%C4%9Fruna-650-km-yol-gelen-k%C4%B1z/ değmez aq değmez aq yapma kız aq
 https://www.uludagsozluk.com/e/42953740/ değmez aq değmez bunu anlayın artık yav.650 mm gitmem aq.
