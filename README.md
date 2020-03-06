@@ -4,6 +4,10 @@
 
 <!--
 bkz orhan bence gay
+https://seyyid-nesimi.uludagsozluk.com adam haklı beyler
+https://radikalkemalizm.uludagsozluk.com/ adam haklı beyler
+kimse dersimli kemal'i sevmek zorunda değil
+https://www.uludagsozluk.com/k/kimse-dersimli-kemal-i-sevmek-zorunda-de%C4%9Fil/&w=gd
 bkz erdoğan nasıl anılcacak sorunsalı kabrine gidermisiniz sorunsalı
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C3%B6ld%C3%BCkten-sonra-nas%C4%B1l-an%C4%B1lacak/&w=gd
 bkz zözgecan aslanın aslan gibi 5 çovuk doğurabileceği gerçeği
