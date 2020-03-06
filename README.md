@@ -4,7 +4,7 @@
 
 
 <!--
-bkz eşcinsellerin forumnlarda kadın düşmanlığı yaparken olmayan beyinlerini yitirmesi
+bkz 5 mart 2020 eşcinsellerin forumlarda kadın düşmanlığı yaparken olmayan beyinlerini yitirmeleri
 https://tengir-budun.uludagsozluk.com  bkz ülkücü eşcinseller
 https://kirmizicizgi.uludagsozluk.comb bkz ülkücü eşcinseller
 https://seyyid-nesimi.uludagsozluk.com bkz ülkücü eşcinseller
