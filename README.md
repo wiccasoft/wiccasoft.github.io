@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/cin-ve-hindistanin-rusyaya-saldiracak-olmasi--6398142?a=popular lol
 https://www.uludagsozluk.com/k/6-mart-2020-devlet-bah%C3%A7eli-twitter-rezilli%C4%9Fi/&w=gd
 https://www.uludagsozluk.com/k/%C3%A7ocu%C4%9Fu-yerden-yere-vuran-tiktok%C3%A7u-kad%C4%B1n/ lol
 https://www.uludagsozluk.com/k/%C3%BCmmetin-s%C3%BCrekli-d%C3%B6nerken-midesi-nas%C4%B1l-bulanm%C4%B1yor/
