@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz ma kamla laf etmese sebepsi baban kim di bilzmezdin şerefsiz
+bkz ma kamala laf etmese sebepsi baban kim i bilmezdin şerefsiz
 https://www.uludagsozluk.com/k/m4-ve-m5-karayolu/&w=bg bkz ma kamalın izinde olan yollar
 https://www.uludagsozluk.com/k/grup-vitamin/&w=bg bkz grup vitamin ismail
 bkz ma kamal fasulye yerken osururdu yalanı
