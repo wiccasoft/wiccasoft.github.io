@@ -5,6 +5,7 @@
 
 <!--
 bkz eşcinsel ülkücülerin forumlarda sıkışıp kalması
+https://www.uludagsozluk.com/k/erkek-erke%C4%9Fe-muhabbet/ erkek adamın erkek sevgilisi olur
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte kaderiniz genşler
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg bkz rte de tutuklu kalmak
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte
