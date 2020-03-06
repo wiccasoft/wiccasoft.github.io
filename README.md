@@ -4,6 +4,7 @@
 
 
 <!--
+bkz kızların şeftalü gübü amcuklarını siktirmek için ekşi kuyruğana girmesi
 https://www.uludagsozluk.com/e/42954530/ bkz 650 km yapan kız
 https://www.uludagsozluk.com/k/sozluk-erkegi/&w=bg bkz deli kızzzzzz
 https://www.uludagsozluk.com/e/42953729/ bkz deli tuğrul nickli ergen kız
