@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+https://seyyid-nesimi.uludagsozluk.com/ izindeyin reiyz
 https://www.uludagsozluk.com/k/devlet-adaml%C4%B1%C4%9F%C4%B1-g%C3%B6t-yalamak-de%C4%9Fildir/ bkz nedir peki
 bkz erdoğanın alaycı seksi ve keskin bakışlarının ıslandırması
 bkz erdoğanı kelimelere sığrdıracak kadar sığ olmak
