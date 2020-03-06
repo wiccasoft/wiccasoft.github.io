@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+bkz münevver karabuut yaşasaydı garipoğlandan beş tan aslan gibi çocuğu olacaktı gerçeği
 bkz tayyibin abdullmuttap gülü satması
 bkz zözgecan aslan yaşasaydı aslan gibi beş çocuğu olacağı gerçeği
 https://www.uludagsozluk.com/k/be%C5%9Far-esad/&w=bg bkz eşcinsel
