@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42953729/ bkz yıkadık paşam pakladık emrinize amade tavuk ta keselim mi paşam
 https://www.uludagsozluk.com/e/42953729/ bkz yıkdakı yolladık kankağ patlak değil bi kontrol et
 https://www.uludagsozluk.com/e/42953729/ bkz deli tuğrul sekhmet07 tango necla
 bkz kızların şeftalü gübü amcuklarını siktirmek için ekşi çaylak onay kuyruğana girmesi
