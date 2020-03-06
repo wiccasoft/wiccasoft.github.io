@@ -2,6 +2,11 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+
+<!-- https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
+bkz said 28 yaşında arkadaşları ona şeyh said diyi
+-->
+
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
