@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+bkz münevvver karabulutu öldürenin elin kolunu sallaya sallaya gezdiği gerçeği
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri-%C5%9Fehit-olurken-suriyelinin-olmamas%C4%B1/
 https://www.uludagsozluk.com/k/kafa-kesen-ihvanc%C4%B1lar/ bkz kafa kesmiyorlar racon kesiyorlar
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C3%B6ld%C3%BCkten-sonra-nas%C4%B1l-an%C4%B1lacak/&w=gd bkz rte nin kabri
