@@ -5,9 +5,9 @@
 <!-- 
 bkz 6 mart 2020 trumpın geri vitesi
 bkz 6 mart 20230 reisin putini mat edip dünya liderliğine oynması
-bkz şeyh saidin gün yüzü görmek için ekşi çaylak onayı beklemesi
 https://www.youtube.com/watch?v=FFkBaGqXLig bkz keser sapının çaylak onayını beklemesi
 bkz ekşiciler için şeftalü gübün emcüklerünü siktirmek için sıraya giren afgan mülteci kızlar
+bkz şeyh saidin gün yüzü görmek için ekşi çaylak onayı beklemesi
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular yazık la aq 28 miş genco
 https://eksisozluk.com/putinin-el-isaretiyle-herkesin-ip-gibi-dizilmesi--6396895?a=popular bkz şah mat aq ip gibi len mq
 https://eksisozluk.com/6-mart-2020-idlib-ateskes-antlasmasi--6396622?a=popular bkz efso antlaşma
