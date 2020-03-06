@@ -2,9 +2,10 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
+<!--
+bkz ismet inönünün yavşak bi yancı olduğu gerçöeği
 bkz ismet inönünü mustaf kamakl atacücünün önüne geçme hevesi
-bkz mustaf kamal atacücünün ismetle olan dostluğu
+bkz mustafa kamal atacücünün ismetle olan dostluğu
 bkz mustafa kamal atacücünün en soz ben ne zaman övdünüz oç ları demesi
 bkz mustafa kamal atacücünün beni övmeyen türk değildir demesi
 bkz filosof atakanın atacücünün filozofuyum demesi
