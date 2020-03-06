@@ -4,7 +4,7 @@
 
 <!--
 bkz telefonu aliyö diyen açan afgan
-bkz afgan saidin türkiye çok güzel şiş kebap ben hep gelecek demesi
+bkz afgan saidin türkiye çok güzel rakı şiş kebap ben çok sevdi demesi
 bkz trumpın vitesi 1 den 3 geçirtirken dişlilerde ses gelmesi
 bkz tayyipin tek hareketiyle gire vites atan putin
 https://eksisozluk.com/telefonu-sessizde-kullananlarin-elit-tipler-olmasi--6320034?a=popular bkz elif can terim
