@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ bkz beygir sorunsalı aq
 https://www.uludagsozluk.com/k/sonsuza-dek-ayn%C4%B1-ki%C5%9Fiyi-sevmek/ bkz rte kaderiniz genşler
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg bkz rte de tutuklu kalmak
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-vs-ismet-in%C3%B6n%C3%BC/&w=gd iki seksi erkek versusu
