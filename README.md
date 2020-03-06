@@ -4,6 +4,7 @@
 
 <!--
 bkz orhan bence gay
+bkz denie bahçelimi düşse engin özkoç mu düşse kurtarısın sorunsalı
 https://bir-idealistin-ta-kendisi.uludagsozluk.com/ bkz denie top düşünce kurtaran yiğido
 https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/ bk top
