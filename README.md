@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz orhan bence gay
+bkz orhan bence gay,
+https://www.uludagsozluk.com/k/pasif-gay/&w=bg bkz abdullak gül
 bkz münevver karabuut yaşasaydı garipoğlandan beş tan aslan gibi çocuğu olacaktı gerçeği
 bkz tayyibin abdullmuttap gülü satması
 bkz zözgecan aslan yaşasaydı aslan gibi beş çocuğu olacağı gerçeği
