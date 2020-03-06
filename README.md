@@ -4,7 +4,7 @@
 
 <!-- 
 bkz delikanlıca vuruşmaktan korkan top
-https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz en kemlisti bile gay yapacak erkek
+https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz en kemalisti bile gay yapacak erkek
 https://eksisozluk.com/hagi-mi-alex-mi-sergen-mi--5797390 bjz karar vermesi zor anlar
 https://eksisozluk.com/kemalistlerin-osmanli-dusmani-olmasi--6398083?a=popular bkz kamalcıların top düşmanı olmaları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/ bkz top hoplatan cülüp
