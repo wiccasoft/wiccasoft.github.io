@@ -4,6 +4,7 @@
 
 
 <!--
+bkz tre nin putini tokat manyağı yapması
 bkz one minute one minuteeeeeeeeee
 bkz idlib sınırına asker yığsak mı sorunsalı
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ beygir noldu sorunsalı
