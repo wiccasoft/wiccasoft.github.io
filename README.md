@@ -4,7 +4,9 @@
 
 
 <!--
-https://www.uludagsozluk.com/e/42951150/ önce izleyin aqw geri vitesi aq
+bkz efso geri vites aq
+https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/
+https://www.uludagsozluk.com/e/42951150/ önce izleyin aq geri vitesi aq
 bkz geri vitesli konuşan liseli aq
 bkz 5 mart 2020 de yapılan efsane geri vites 
 bkz 5 mart 2020 efso geri vitesi aq
