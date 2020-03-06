@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/tskgv-ye-ba%C4%9F%C4%B1%C5%9F-yap%C4%B1yoruz-kampanyas%C4%B1/&w=bg bkz gizli eşcinsel
 https://seyyid-nesimi.uludagsozluk.com/ bkz %100 eşcinsel
 https://www.uludagsozluk.com/k/ak-sa%C3%A7l%C4%B1lar-ger%C3%A7ekten-var-m%C4%B1-aq/ sorunsalı  aq
 https://www.uludagsozluk.com/k/5-mart-2020-rusya-ya-verdi%C4%9Fimiz-taviz/ bkz gün ola harman ola intikam alına
