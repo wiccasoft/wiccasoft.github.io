@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz adem gibi adem
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz adam gibi adam
 https://www.uludagsozluk.com/k/sevi%C5%9Ftikten-sonra-pi%C5%9Fman-olan-erkek-modeli/&w=bg bkz top
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/ bkz ma kamalın topları hoplatan cülübü
