@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/zampara-seyfettin/&w=bg bkz ma kamalın sağ kolu
 bkz ma kamal atadan doğan la tayyip asker doğan arasındaki benzerlikler
 bkz ma kamalın ismeti bim sosis alamaya yollaması
 https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz ma kamalın attığı tweet
