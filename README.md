@@ -4,6 +4,7 @@
 
 <!--
 bkz devlat adamı seksiliği
+blz özgecen aslanı özlemek
 https://www.uludagsozluk.com/k/%C3%B6zgecan-aslan%C4%B1n-katilini-%C3%B6ld%C3%BCrene-m%C3%BCebbet-hapis/
 bkz münevvver karabulutu öldürenin elin kolunu sallaya sallaya gezdiği gerçeği
 https://www.uludagsozluk.com/k/t%C3%BCrk-askeri-%C5%9Fehit-olurken-suriyelinin-olmamas%C4%B1/
