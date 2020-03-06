@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fehit-say%C4%B1s%C4%B1n%C4%B1n-artmas%C4%B1n%C4%B1-isteyen-solcu/&w=bg bkz beygir
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ beygir noldu beygir
 https://www.uludagsozluk.com/k/rte-yi-s%C4%B1rt%C4%B1ndan-atan-beygir-ne-oldu-sorunsal%C4%B1/ beygir sorunsalı
 https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/
