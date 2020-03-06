@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/bedelini-ben-%C3%B6d%C3%BCyorsam-yarg%C4%B1lamak-size-d%C3%BC%C5%9Fmez/ bkz çaylak
 https://www.uludagsozluk.com/k/sa%C3%A7malama-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC/&w=bg bkz çaylak onayı
 https://eksisozluk.com/rahatsiz-oluyorsan-isveci-terk-et--6396815?a=popular çaylak onayı bekliyom kankağğğ
 https://www.uludagsozluk.com/k/ben-sende-tutuklu-kald%C4%B1m/&w=bg ben de sende teyzecim 
