@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/kemalizmisilece%C4%9Fiz/ bkz kamalcılık tan aldığımız tad
 https://www.uludagsozluk.com/k/zampara-seyfettin/&w=bg bkz ma kamalın sağ kolu
 bkz ma kamal atadan doğan la tayyip asker doğan arasındaki benzerlikler
 bkz ma kamalın ismeti bim sosis alamaya yollaması
