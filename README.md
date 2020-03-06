@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/oytun-erbas--888842?a=popular abisi gençliğine verin bi daha yapmıcakmış
 https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular bkz abisi gençliğine verin
 bkz kızların şeftalü gübün amcuklarunu süktürmek üçün ekşi ve ulu oğlanları için sıraya girmesi
 https://www.uludagsozluk.com/k/sozluk-erkegi/&w=bg bkz uğruna 650 km pahlanmış kakzı yollanan gencolar
