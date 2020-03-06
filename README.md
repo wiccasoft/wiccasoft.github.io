@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz 9 mart 2020 putinin geri vitesi keser sapı gibi damada saplaması
 bkz 8 mart 2020 damadın hayalet sihalarla rusyayı işgal edip intikam alması
 bkz 6 mart 2020 damdın kızlar bana bırakın geri vitesi amuğa gorum onun demesi
 bkz 7 mart 2020 damadın  putini 45 cm aralık tokat manyağ yapması
