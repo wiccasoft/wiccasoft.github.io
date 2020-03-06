@@ -5,6 +5,7 @@
 
 <!-- https://eksisozluk.com/28-yasimdayim-hicbir-gun-hayati-bilmedim--6396501?a=popular
 bkz said 28 yaşında arkadaşları ona şeyh said diyi
+bkz adamın vatanı afganistan biz yaşiy vallah atam şükr
 -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
