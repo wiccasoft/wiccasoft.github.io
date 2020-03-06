@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/ bkz eşcinsellerin dışlanmışlarını giderdikleri forum
 https://www.uludagsozluk.com/k/nas%C4%B1l-hissediyorsun/&w=bg bkz eşcinsel
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-itiraflar%C4%B1/&w=bg bkz eşicnsellerin itirafları
 https://www.uludagsozluk.com/ bkz eşcinsellerin ülkcü uğruna çektikler
