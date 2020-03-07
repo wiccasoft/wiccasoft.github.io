@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.youtube.com/watch?v=KXnzNbuV84c
+https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
 bkz macun kaplıcalı saçları vs okan bayülgen saçları
 https://www.uludagsozluk.com/e/42959057/ bu saçlar ne okan? bkz cevab veremedi 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
