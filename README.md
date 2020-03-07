@@ -5,6 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
+bkz okancım bu ne hal?
 bkz fotoyla konuşan egosantrik yaşam formları
 https://www.uludagsozluk.com/k/facebook-tan-so%C4%9Fuma-nedenleri/&w=bg 
 https://www.uludagsozluk.com/e/42959057/ bkz fotoğrafa soru sormak
