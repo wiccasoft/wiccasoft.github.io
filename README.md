@@ -5,7 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
-bkz eşcinsellerin deep webte hayal ettiği karakterlerle diyalog kurma çabası
+bkz eşcinsellerin deep webte hayal ettiği karakterle diyalog kurma çabası
 bkz deep web e resim atıp resime soru sormak
 bkz tweeter a resim atıp ona soru soran türkler
 https://www.youtube.com/watch?v=KXnzNbuV84c
