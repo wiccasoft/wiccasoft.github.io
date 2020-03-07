@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayip te beni seviyormudur acaba diye uzaklara dalıp bi sigara yakmak
 bkz şaka maka sabah sabah tayyip diye ter içinde uyanmak
 https://eksisozluk.com/recep-tayyip-erdoganin-ideolojik-gorusu--6398371?a=popular bkz tayyibizm
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz verse sikmezmisin kankağ
