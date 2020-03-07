@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz kemalist kişilik bozukluğunun en tehlikeli hastalık olduğu gerçeği
 bkz lenin torunuyum diyip romanov tuğralı doblo kullanan erkek
 bkz osmanlı torunuyum demeyen nargile içmeyen erkek
 bkz osmanlı torunuyum demeyip tuğralı doblo kullanmak
