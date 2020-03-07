@@ -6,6 +6,8 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+https://www.uludagsozluk.com/k/d%C3%BC%C5%9F%C3%BCn%C3%BClenleri-yaz%C4%B1ya-d%C3%B6kememek/
+https://www.uludagsozluk.com/k/ibneli%C4%9Fin-l%C3%BCzumu-var/&w=bg
 https://www.uludagsozluk.com/k/hakan-muhaf%C4%B1z/&w=bg 
 bkz mustaf kamal atatürk denize düşse  naparsın sorunsalı
 bkz denize kürt mü düşse kurtarırsın osmanlı torunu mu sorunsalı
