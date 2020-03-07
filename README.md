@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz m kamal imzalı doblo kullanan osmanlı torunu 
 bkz fesli bunak vs bim prezervatifi
 vkz osmanlı torunuyum diye gezen nargileli çomar
 bkz osmanlı torunuyum diye gezen çomar
