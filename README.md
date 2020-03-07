@@ -7,6 +7,7 @@ bkz 2. katerina torunuyum diyip piri reisi tanımamak
 https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
 https://www.uludagsozluk.com/e/42959057/ bkz cevab veremedi 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
+bkz erdoğanın bedava reklamını yapmak
 bkz tayip te beni seviyormudur acaba diye uzaklara dalıp bi sigara yakmak
 bkz şaka maka sabah sabah tayyip diye ter içinde uyanmak
 https://eksisozluk.com/recep-tayyip-erdoganin-ideolojik-gorusu--6398371?a=popular bkz tayyibizm
