@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz 7 mart 2020 rte nini geri vitese bağlayıp arkadan vermeyen kalmasın demesi
 https://www.youtube.com/watch?v=Gs_aq13sU3E zuahhahahahaha iyi pr kastım  yine getir bi mutluluk
 https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz yakışıklı adamım nasılım
 bkz en güzel ideoloji asil kanlarımda dolaşıyo yok yok en iyisi o
