@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii asdasda
+https://www.uludagsozluk.com/k/iki-ka%C5%9F%C4%B1n%C4%B1n-aras%C4%B1ndan-vurulup-54-y%C4%B1l-ya%C5%9Fayan-adam/&w=gd lol
 bkz in soviet russia bears kneels down on you
 https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
 bkz 2. katerina torunuyum diyip piri reisi tanımamak
