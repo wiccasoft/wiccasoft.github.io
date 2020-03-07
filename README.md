@@ -3,9 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz engin özkoçlar
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
-bkz engin özkoçun efso meclis konuşması
-https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/&w=bg eywallah koç
 bkz muhaliflerin deliye dönmesi
 bkz monolog yaşayan sosyopatlar
 bkz .. diyen erkek .. yapan erkek
