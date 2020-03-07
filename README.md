@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz https://www.youtube.com/watch?v=Gs_aq13sU3E
 https://www.uludagsozluk.com/k/7-mart-2020-reisin-yine-geri-vitese-ba%C4%9Flamas%C4%B1/ bkz arkayı beşleyelim
 https://link.springer.com/article/10.1007/s40196-013-0016-5/figures/1 
 bkz lüks yatlarda anneni sikerim 
