@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tayyibin bu işler soya bakar soyaaaa bay kemal demesi
 bkz ikinci abdulhamdi torunuyum diyip adamım diye gezmek
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-suriye-politikas/ bkz polikasis yunanis
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
