@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz oksimoron
+bkz homofobik homo
 bkz monolog yaşayan sosyopatlar
 bkz kemalist kişilk bozukluğu
 bkz .. diyen erkek .. yapan erkek
