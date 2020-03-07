@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/gaylar%C4%B1n-s%C3%B6zl%C3%BCkte-yazma-hakk%C4%B1/ lol
 bkz recep tayyipten doğanın beni seven sigara içmez demesi
 bkz recep tayyipten doğanı sevmek için sebep bırak 
 bkz hulusi streamincengiz özkoçu tokat manyağı yağması
