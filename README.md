@@ -2,45 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-bkz hatayın %80 i araptır kızları da çok güzeldir
-bkz arap zaza kırması olup arapları aşağılamak
-bkz türklerin asimile olmadıklarını sanması
-bkz türklerin fenotip olarak araplara benzemesi 
-https://www.uludagsozluk.com/k/serkan-k%C4%B1r%C4%B1nt%C4%B1l%C4%B1/&w=bg bkz getir virali
-https://www.youtube.com/watch?v=TtJjSVIw-Uo
-bkz globalist oportünist adamım nasılım
-bkz 7 mart 2020 arkadan vermeyen kalmasın
-https://www.uludagsozluk.com/k/7-mart-2020-reisin-yine-geri-vitese-ba%C4%9Flamas%C4%B1/ arkayı beşleyelim
-https://www.youtube.com/watch?v=Gs_aq13sU3E bkz yakışıklı adamım nasılım
-https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz yakışıklı adamım nasılım
-bkz en güzel ideoloji asil kanlarımda dolaşıyo yok yok en iyisi o
-bkz türklerin mustafa kamalı çok şişirmesi
-bkz bakuninin arşist olduğu gerçeği
-bkz mustafa cecelinin cecelist olduğu gerçeği
-bkz mustafa kemalin ölü olduğu gerçeği
-bkz ölü liderlerinin pipisi sünnetlimiydi diye tartışan malum tayfa
-bkz kamalcılardaki cehaleti gereğinden fazla abartmak
-https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz bence ölü
-https://www.youtube.com/watch?v=Gs_aq13sU3E zuahhahahahaha
-https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz https://www.youtube.com/watch?v=Gs_aq13sU3E
-https://www.uludagsozluk.com/k/7-mart-2020-reisin-yine-geri-vitese-ba%C4%9Flamas%C4%B1/ bkz arkayı beşleyelim
-https://link.springer.com/article/10.1007/s40196-013-0016-5/figures/1 
-bkz lüks yatlarda anneni sikerim 
-bkz kemalistlerin eğitilmez olduğu gerçeği
-https://www.uludagsozluk.com/k/bodrumda-l%C3%BCks-yatlarda-manken-siken-suudi-prensler/&w=bg bkz annen
-Artificial Intelligence Will Replace Tasks, Not Jobs 
-bkz in soviet russia ai doing your job
-https://cdn.defenseone.com/b/defenseone/interstitial.html?v=9.14.1&rf=https%3A%2F%2Fwww.defenseone.com%2Fideas%2F2019%2F11%2Frussias-ai-quest-state-driven-even-more-chinas-can-it-work%2F161519%2F
-bkz yapay zekanın tarihçilerin işin elinde alacak olması
-https://eksisozluk.com/ilber-ortaylinin-sisirilmis-bir-balon-olmasi--6398940?a=popular 
-https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
-bkz 2. katerina torunuyum diyip piri reisi tanımamak
-https://twitter.com/karadagsilak/status/1233726348402790400 
-https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
-https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 l
--->
-
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
