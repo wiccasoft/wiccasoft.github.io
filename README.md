@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz globalist adamım nasılım
 bkz 7 mart 2020 arkadan vermeyen kalmasın
 https://www.uludagsozluk.com/k/7-mart-2020-reisin-yine-geri-vitese-ba%C4%9Flamas%C4%B1/ arkayı beşleyelim
 https://www.youtube.com/watch?v=Gs_aq13sU3E bkz yakışıklı adamım nasılım
