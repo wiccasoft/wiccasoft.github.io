@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz 2. katerina torunuyum diyip piri reisi tanımamak
 https://twitter.com/karadagsilak/status/1233726348402790400 
 https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
 https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 l
