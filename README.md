@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türklerin fenotip oalrak araplara benzemesi 
 https://www.uludagsozluk.com/k/serkan-k%C4%B1r%C4%B1nt%C4%B1l%C4%B1/&w=bg bkz getir virali
 https://www.youtube.com/watch?v=TtJjSVIw-Uo
 bkz globalist oportünist adamım nasılım
