@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/bodrumda-l%C3%BCks-yatlarda-manken-siken-suudi-prensler/&w=bg bkz annen
 Artificial Intelligence Will Replace Tasks, Not Jobs 
 bkz in soviet russia ai doing your job
 https://cdn.defenseone.com/b/defenseone/interstitial.html?v=9.14.1&rf=https%3A%2F%2Fwww.defenseone.com%2Fideas%2F2019%2F11%2Frussias-ai-quest-state-driven-even-more-chinas-can-it-work%2F161519%2F
