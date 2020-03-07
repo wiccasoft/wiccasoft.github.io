@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz iğrençsiniz ibneler
 bkz çok tehlikeli gaylerin deep web erkek fotosu atıp onunla konuşmaları
 bkz gaylerin hayallerdinde hep birilerini kurtarmaları
 bkz gaylerin çok ürkütücü oldukları gerçeği
