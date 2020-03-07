@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://link.springer.com/article/10.1007/s40196-013-0016-5/figures/1 
 bkz lüks yatlarda anneni sikerim 
 bkz kemalistlerin eğitilmez olduğu gerçeği
 https://www.uludagsozluk.com/k/bodrumda-l%C3%BCks-yatlarda-manken-siken-suudi-prensler/&w=bg bkz annen
