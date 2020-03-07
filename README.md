@@ -6,11 +6,10 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz acun kaplıcalının paylaştığı osmanlı torunları katerina resmi
 bkz osmanlı torunlarının ikince katerinayı küçümsemesi
 https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/
 bkz türklerin sosyal medya kullanmayı öğrenememesi
-bkz okan bacülgenin paylaştığı resim
-bkz acun kaplıcalının paylaştığı resim
 bkz resim altına yazı yazıp diyalog kurmaya çalışmak
 bkz eşcinsellerin deep webte hayal ettiği karakterle diyalog kurma çabası
 bkz deep web e resim atıp resime soru sormak
