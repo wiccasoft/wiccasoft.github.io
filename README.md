@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz gökten indiliği sanılınan coranvirüs kitapları
 https://radikalkemalizm.uludagsozluk.com bkz sakat heralde
 bkz kemalist kişilik bozukluğunun en tehlikeli hastalık olduğu gerçeği
 bkz lenin torunuyum diyip romanov tuğralı doblo kullanan erkek
