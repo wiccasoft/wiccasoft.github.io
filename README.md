@@ -3,9 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz monolog yaşayan sosyopatlar
 bkz .. diyen erkek .. yapan erkek
 bkz hayalinde birilerini kurtaran şizofrenler
-bkz monolog yaşayan sosyopatlar
 bkz denize ... x mi düşse kurtarırısn y mi
 bkz hayalinde diyalog kurup o karakteri kurtaran şizofren
 bkz olmayan diyalag kurup onunla kavga etmek
