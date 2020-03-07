@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz hatayın %80 i araptır
+bkz hatayın %80 i araptır kızları da çok güzeldir
 bkz arap zaza kırması olup arapları aşağılamak
 bkz türklerin asimile olmadıklarını sanması
 bkz türklerin fenotip olarak araplara benzemesi 
