@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz 2. adulhamdi önünde poz veren lenin torunları
 bkz atacücünün coronavirüs türklerin damarlarındaki asil kana bişey yapmaz demesi
 bkz gökten indiliği sanılınan coranavirüsün nutukta geçmesi
 https://radikalkemalizm.uludagsozluk.com bkz sakat heralde
