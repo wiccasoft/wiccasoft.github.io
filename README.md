@@ -5,8 +5,7 @@
 <!--
 https://www.youtube.com/watch?v=KXnzNbuV84c
 bkz macun kaplıcalı saçları vs okan bayülgen saçları
-https://www.uludagsozluk.com/e/42959057/ bu saçlar ne okan? cevap ver hadi bkz cevab veremdi göt oldu
-https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz gay kürt kırması
+https://www.uludagsozluk.com/e/42959057/ bu saçlar ne okan? bkz cevab veremedi 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
 bkz elif can terimin kürt hava yollarından kovulması
 https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz adem gibi adem
