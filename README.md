@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz deep webe resim atım resimle haberle konuşan ultra tehlikeli şizoren gayler
+bkz deep webe resim atım resimle haberle konuşan ultra tehlikeli şizofren gayler
 bkz okan bayülgen fotosu atıp bu saç ne okan? yazan şizofren
 bkz okunmaycağını bildiği halde ciddi ciddi sayfalarca entry giren şizofrenler
 bkz okunmayacağı halde 5 sayfa futbolcuya entry giren tehlikeli gayler
