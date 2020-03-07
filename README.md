@@ -3,9 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/ okumadık kankağ
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/&w=bg -->
+https://www.uludagsozluk.com/k/ikinci-katerina-n%C4%B1n-%C3%B6n%C3%BCnde-duran-osmanl%C4%B1-torunlar%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/ -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
