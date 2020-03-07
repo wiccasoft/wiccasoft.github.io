@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz beraber yürüdük biz bu yollarrrrrrrdaaaaaaa
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/
 bkz 2. abdülhamdi torunuyum diyip fransada tatil yapmak
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
 bkz muhaliflerin deliye dönmesi
