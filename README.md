@@ -4,7 +4,9 @@
 
 <!--
 bkz oksimoron
-bkz homofobik homo+
+bkz homofobik homo
+bkz osmanlı torunuyum demeyen antikamalcı
+https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg
 https://www.uludagsozluk.com/k/so%C3%A7i-mutabakat%C4%B1-vs-idlip-ate%C5%9Fkesi-s%C4%B1n%C4%B1rlar%C4%B1/
 bkz kemalist homoların korkutucu hal aldığı gerçeği
 bkz ölü sevicilik: necrofili
