@@ -8,7 +8,6 @@ https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
 https://www.uludagsozluk.com/e/42959057/ bkz cevab veremedi 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
 https://www.uludagsozluk.com/k/s%C3%BCper-zeka-dahi-filozof-atakan-%C4%B1n-unutulmas%C4%B1/ 
-bkz erdoğanın bedava reklamını yapmak
 bkz tayip te beni seviyormudur acaba diye uzaklara dalıp bi sigara yakmak
 bkz şaka maka sabah sabah tayyip diye ter içinde uyanmak
 https://eksisozluk.com/recep-tayyip-erdoganin-ideolojik-gorusu--6398371?a=popular bkz tayyibizm
@@ -21,7 +20,7 @@ https://cok-erken-oten-horoz.uludagsozluk.com/ eleman ötüken kuşu mübarek
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/
 https://www.uludagsozluk.com/k/gaylar%C4%B1n-s%C3%B6zl%C3%BCkte-yazma-hakk%C4%B1/ lol
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gay turkish bands
-https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der şaka lan şaka iyi çocuk
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 -->
 
