@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz okan bu saçlar ne?
+bkz gaylerin çok ürkütücü oldukları gerçeği
 bkz ölü olan lideriyle canlıymış gibi konuşan tehlikeli gayler
 bkz sabah kadar entry giren tehlikeli gay
 bkz entrysine foto atıp konuşan tehlikeli gay hastaları
