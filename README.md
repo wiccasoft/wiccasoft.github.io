@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/entry/103153097 lol
 https://eksisozluk.com/entry/103155512 lol
 https://eksisozluk.com/30-yasinda-isi-esi-evi-arabasi-olmayan-erkek--3643555?a=popular lol
 https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular sadece bilale 50 milyon dolar harcadım 
