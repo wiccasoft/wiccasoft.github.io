@@ -5,8 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
-https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bu saç ne okan?
-https://www.uludagsozluk.com/k/hakan-muhaf%C4%B1z/&w=bg
+https://www.uludagsozluk.com/e/42959057/ bkz fotoğrafa soru sormak
 bkz eşcinsel oldupunu kabul etmeyen kzıgın kemalistler
 https://www.uludagsozluk.com/k/ibneli%C4%9Fin-l%C3%BCzumu-var/&w=bg
 https://kirmizicizgi.uludagsozluk.com bkx sakat heralde
