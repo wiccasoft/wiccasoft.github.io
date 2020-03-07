@@ -7,6 +7,8 @@ bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
 bkz 2. adulhamdi önünde poz veren lenin torunları
+bkz denize yunan mı düşse kurtarırsın ermeni mi
+https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
 bkz atacücünün coronavirüs türklerin damarlarındaki asil kana bişey yapmaz demesi
 bkz gökten indiliği sanılınan coranavirüsün nutukta geçmesi
 https://radikalkemalizm.uludagsozluk.com bkz sakat heralde
