@@ -6,7 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
-bkz türkçe hiç bişey paylaşmadığım halde ısrarla diyalog kurmaya çalışan barzolar
+bkz acun kaplıcalının paylaştığı resim
 bkz resim altına yazı yazıp diyalog kurmaya çalışmak
 bkz eşcinsellerin deep webte hayal ettiği karakterle diyalog kurma çabası
 bkz deep web e resim atıp resime soru sormak
