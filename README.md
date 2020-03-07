@@ -5,7 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
-bkz web e resim atıp resime soru sormak
+bkz deep web e resim atıp resime soru sormak
 bkz tweeter a resim atıp ona soru soran türkler
 https://www.youtube.com/watch?v=KXnzNbuV84c
 https://ferdici.uludagsozluk.com/ bkz hayalindeki adamla konuşan sosyopat
