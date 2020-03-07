@@ -3,7 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz yapay zekanın tarhiçilerin işin elinde alacak olması
+Artificial Intelligence Will Replace Tasks, Not Jobs 
+bkz in soviet russia ai doing your job
+https://cdn.defenseone.com/b/defenseone/interstitial.html?v=9.14.1&rf=https%3A%2F%2Fwww.defenseone.com%2Fideas%2F2019%2F11%2Frussias-ai-quest-state-driven-even-more-chinas-can-it-work%2F161519%2F
+bkz yapay zekanın tarihçilerin işin elinde alacak olması
 https://eksisozluk.com/ilber-ortaylinin-sisirilmis-bir-balon-olmasi--6398940?a=popular 
 https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
 bkz 2. katerina torunuyum diyip piri reisi tanımamak
