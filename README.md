@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/ bkz dünyanın en itici gayleri
 https://www.uludagsozluk.com/k/red-kit/&w=bg bkz yobazların düşmanı 
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-itiraflar%C4%B1/&w=bg bkz itirafçı oç ler
 https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz yaz bişeyley
