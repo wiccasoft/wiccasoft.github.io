@@ -15,16 +15,10 @@ bkz hayalinde diyalog kurup o karakteri kurtaran şizofren
 bkz olmayan diyalag kurup onunla kavga etmek
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gays
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gay turkish bands
-https://www.uludagsozluk.com/ bkz ibnelerin hayal dünyası
-bkz hayallerde yaşıyor bazı ibneler
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
 https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/ kesin lan oçları ananızı  sikerim ibnenin sıçtıkları
 bkz tangır budun doğan ve recep tayyip doğan
-https://www.uludagsozluk.com/ bkz ılıkların kafa siktiği yer
-https://www.uludagsozluk.com/ bkz monolog yazıp kavga eden paranoyak ibneler
-https://www.uludagsozluk.com/ bkz ibnelerin bütün gün kafa siktiği yer
-https://www.uludagsozluk.com/k/sedat-peker/&w=bg eywallah  o ç ları ananız sikmeye gelecem bilahare
 https://radikalkemalizm.uludagsozluk.com/ bkz sakat heralde
 https://seyyid-nesimi.uludagsozluk.com bkz kafa siken kamalcı zırvaları
 https://kirmizicizgi.uludagsozluk.com bkz sakat heralde
