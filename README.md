@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz türklerin sosyal medya kullanmayı öğrenememesi
 bkz okan bacülgenin paylaştığı resim
 bkz acun kaplıcalının paylaştığı resim
 bkz resim altına yazı yazıp diyalog kurmaya çalışmak
