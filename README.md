@@ -6,7 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
-bkz resim altına yazı yazıp diualog kurmaya çalışmak
+bkz resim altına yazı yazıp diyalog kurmaya çalışmak
 bkz eşcinsellerin deep webte hayal ettiği karakterle diyalog kurma çabası
 bkz deep web e resim atıp resime soru sormak
 bkz tweeter a resim atıp ona soru soran türkler
