@@ -5,6 +5,7 @@
 <!--
 bkz okan bu saçlar ne?
 bkz sabah kadar entry giren gay
+bkz entrsinde polemik kuran tehlikeli gay
 bkz çok tehlikeli şizofreni olan gay hastası 
 bkz kendimi intihar ediyom diyen kişiye diyeceğinizi ilk şey
 bkz çok tehlikeli şizofreni ve gay hastaları
