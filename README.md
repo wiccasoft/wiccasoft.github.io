@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz osmanlı torunuyum demeyip tuğralı doblo kullanmak
 bkz osmanlı torunuyum diyip doblo kullanmayan erkek
 bkz türklerin ruh hastası oldukarı gerçeği
 bkz sosyal medyaya atatürk resmi atıp onunla konuşmak
