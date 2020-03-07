@@ -4,6 +4,7 @@
 
 <!--
 bkz lüks yatlarda anneni sikerim 
+bkz keamlistlerin eğitilmez olduğu gerçeği
 https://www.uludagsozluk.com/k/bodrumda-l%C3%BCks-yatlarda-manken-siken-suudi-prensler/&w=bg bkz annen
 Artificial Intelligence Will Replace Tasks, Not Jobs 
 bkz in soviet russia ai doing your job
