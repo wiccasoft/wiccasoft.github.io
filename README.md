@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz osmanlı torunuyum diyip 2. abdülmecid önünde poz vermek
+https://www.uludagsozluk.com/k/emperyalizme-inat-karde%C5%9Fimsin-esad/&w=bg
 https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz engin özkoçlar
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
 bkz muhaliflerin deliye dönmesi
