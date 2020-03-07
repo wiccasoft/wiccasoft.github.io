@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/ kesin lan oçları ananızı  sikerim ibnenin sıçtıkları
 bkz tangır budun doğan ve recep tayyip doğan
 https://www.uludagsozluk.com/ bkz ılıkların kafa siktiği yer
 https://www.uludagsozluk.com/ bkz monolog yazıp kavga eden paranoyak ibneler
