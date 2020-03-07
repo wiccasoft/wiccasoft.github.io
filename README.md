@@ -5,6 +5,8 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
+bkz eşcinsel oldupunu kabul etmeyen kzıgın kemalistler
+https://www.uludagsozluk.com/k/ibneli%C4%9Fin-l%C3%BCzumu-var/&w=bg
 https://kirmizicizgi.uludagsozluk.com bkx sakat heralde
 bkz osmanlı torunuyum demeyen antikamalcı
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg
