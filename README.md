@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://radikalkemalizm.uludagsozluk.com/ bkz sakat heralde
 https://seyyid-nesimi.uludagsozluk.com uyuyomu bu ılık
 https://kirmizicizgi.uludagsozluk.com bkz ırk uzmanı kırık
 https://www.uludagsozluk.com/k/h%C4%B1rvat-as%C4%B1ll%C4%B1-ermeni-k%C3%B6kenli-israilli-k%C3%BCrt/&w=bg bkz ben
