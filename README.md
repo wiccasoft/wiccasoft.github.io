@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz mustaf cecelinin cecelist olduğu gerçeği
 bkz mustafa kamalın kamalcı olduğu gerçeği
 bkz mustafa kemalin ölü olduğu gerçeği
 bkz ölü liderlerinin pipisi sünnetlimiydi diye tartışan malum tayfa
