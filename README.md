@@ -4,8 +4,8 @@
 
 <!--
 bkz .. diyen erkek .. yapan erkek
-bkz hayalinde birilerini kurtarana  şizofrenler
-bkz intihar etmeyen kişiyi kurtarmaya çalışan şizofrenler
+bkz hayalinde birilerini kurtaran şizofrenler
+bkz monolog yaşayan sosyopatlar
 bkz denize ... x mi düşse kurtarırısn y mi
 bkz hayalinde diyalog kurup o karakteri kurtaran şizofren
 bkz olmayan diyalag kurup onunla kavga etmek
