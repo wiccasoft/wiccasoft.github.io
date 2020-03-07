@@ -4,7 +4,6 @@
 
 <!--
 bkz 2. abdülhamdi torunuyum diyip fransada tatil yapmak
-bkz ülkede corona yok diye deliye dönen muhalif
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
 bkz muhaliflerin deliye dönmesi
 bkz monolog yaşayan sosyopatlar
