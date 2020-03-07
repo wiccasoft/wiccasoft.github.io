@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz atacücünün coronavirüs türklerin damarlarındaki asil kana bişey yapmaz demesi
 bkz gökten indiliği sanılınan coranavirüsün nutukta geçmesi
 https://radikalkemalizm.uludagsozluk.com bkz sakat heralde
 bkz kemalist kişilik bozukluğunun en tehlikeli hastalık olduğu gerçeği
