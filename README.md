@@ -2,6 +2,13 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+<!--
+https://twitter.com/karadagsilak/status/1233726348402790400 
+https://eksisozluk.com/1-mart-2020-aktroll-harekati--6389330?a=popular&p=2 
+https://eksisozluk.com/1-mart-2020-mordorun-vurulmasi--6389350?a=popular&p=2 l
+-->
+
+
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
