@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/ali-koc--157305?a=popular bkz yazık lan kimin çocuysa
 https://gine-babunu.uludagsozluk.com/ bkz sakat heralde
 https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii 
 bkz in soviet russia bears kneels down on you
