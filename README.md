@@ -5,6 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
+bkz kemalist homoların korkutucu hal aldığı gerçeği
 bkz ölü sevicilik: necrofili
 bkz momolog kurup onunla kavga eden çomar
 bkz selçuklu torunuyum diyip gezen çomar
