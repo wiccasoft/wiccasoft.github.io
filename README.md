@@ -5,6 +5,7 @@
 <!--
 bkz okan bu saçlar ne?
 bkz sabah kadar entry giren gay
+bkz entrysinde doto atıp konuşan tehlikweli gay hastaları
 bkz entrsinde ölü kişinin fotosuyla konuşan tehlikeli gayler
 bkz entrsinde polemik kuran tehlikeli gay
 bkz çok tehlikeli şizofreni olan gay hastası 
