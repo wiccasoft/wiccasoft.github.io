@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://kirmizicizgi.uludagsozluk.com bkz ırk uzmanı kırık
+https://www.uludagsozluk.com/k/h%C4%B1rvat-as%C4%B1ll%C4%B1-ermeni-k%C3%B6kenli-israilli-k%C3%BCrt/&w=bg bkz ben
 https://www.uludagsozluk.com/k/facebook-abazan%C4%B1/&w=bg bkz anneni ekledim oç
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg eywallah koçum
 bkz facebok annelerinin çocuğum dahi sendoromu
