@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz mustaf kamalın şişirilmiş bir ölü olduğu gerçeği
+bkz türklerin mustafa kamalı çok şişirmesi
+bkz mustafa kamalın türkleri çok şişirdiği gerçeği
+bkz mustafa kamalın şişirilmiş bir ölü olduğu gerçeği
 bkz bakunini baklava markası sanan kamalcı
 bkz bakuninin arşist olduğu gerçeği
 bkz mustaf cecelinin cecelist olduğu gerçeği
