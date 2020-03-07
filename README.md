@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ma kamalı seven 1 milyon kişi bulabilrim sayfasından kamalcı hatun kaldırmak
 bkz götten indiği sanılan hitaplar
 https://www.uludagsozluk.com/e/42959057/ bu saç ne okan?
 bkz macun kaplıcalının yeni saç stili
