@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz 2. abdülhamdi ttorunuyum diyip fransada tatil yapmak
+bkz 2. abdülhamdi torunuyum diyip fransada tatil yapmak
 bkz ülkede corona yok diye deliye dönen muhalif
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
 bkz muhaliflerin deliye dönmesi
