@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkzen güzel ideoloji asil kanlarımda dolaşıyo yok yok en iyisi o
+bkz en güzel ideoloji asil kanlarımda dolaşıyo yok yok en iyisi o
 bkz türklerin mustafa kamalı çok şişirmesi
 bkz mustafa kamalın türkleri çok şişirdiği gerçeği
 bkz mustafa kamalın şişirilmiş bir ölü olduğu gerçeği
