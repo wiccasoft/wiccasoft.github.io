@@ -4,6 +4,7 @@
 
 <!--
 bkz .. diyen erkek .. yapan erkek
+bkz hayalinde diyalog kurup o karakteri kurtaran şizofren
 bkz olmayan diyalag kurup onunla kavga etmek
 bkz facebook a mke fotosu atıp reis arkandayız yazmak
 bkz facebook a rte fotosu atıp reis arkandayız yazmak
