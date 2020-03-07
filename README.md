@@ -3,13 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz 2 . abdülhamdi ttorunuyum diyip fransada tatil yapmak
+bkz 2. abdülhamdi ttorunuyum diyip fransada tatil yapmak
 bkz ülkede corona yok diye deliye dönen muhalif
-bkz 5 mart aşırı gü,çlü türkiyenin gümbür gümbür gelmesi
-https://www.uludagsozluk.com/k/5-mart-2020-a%C5%9F%C4%B1r%C4%B1-g%C3%BC%C3%A7l%C3%BC-t%C3%BCrkiye-videosu/&w=bg
-bkz osmanlı torunuyum diyip 2. abdülmecid önünde poz vermek
-https://www.uludagsozluk.com/k/emperyalizme-inat-karde%C5%9Fimsin-esad/&w=bg
-https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz engin özkoçlar
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
 bkz muhaliflerin deliye dönmesi
 bkz monolog yaşayan sosyopatlar
