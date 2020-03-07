@@ -4,7 +4,7 @@
 
 <!--
 https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular sadece bilale 50 milyon dolar harcadım 
-https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular çık çık 40 milyar dolar sadce isveçte var
+https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular çık çık 40 milyar dolar sadece isveçte var
 https://eksisozluk.com/ali-koc--157305?a=popular bkz yazık lan kimin çocuysa
 https://gine-babunu.uludagsozluk.com/ bkz sakat heralde
 https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii 
