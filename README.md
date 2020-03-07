@@ -8,12 +8,6 @@ bkz ülkede corona yok diye deliye dönen muhalif
 https://lanetlybebe.uludagsozluk.com/ sakat heralde
 bkz muhaliflerin deliye dönmesi
 bkz monolog yaşayan sosyopatlar
-bkz .. diyen erkek .. yapan erkek
-bkz hayalinde birilerini kurtaran şizofrenler
-bkz denize ... x mi düşse kurtarırısn y mi
-bkz hayalinde diyalog kurup o karakteri kurtaran şizofren
-bkz olmayan diyalag kurup onunla kavga etmek
-https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gays
 https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gay turkish bands
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
 https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz hayallerde yaşıyor bazı ibneler
