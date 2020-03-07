@@ -9,7 +9,7 @@ bkz ölü sevicilik: necrofili
 https://www.rehabilitasyon.com/kelime/Necrofili-2_CZapCZW_10
 bkz monolog yaşayan sosyopatlar
 bkz kemalist kişilk bozukluğu
-bkz hayalinde yarattığı karakteri düşma ilan edip onunla kavga eden şizofren
+bkz hayalinde yarattığı karakteri düşman ilan edip onunla kavga eden şizofren
 bkz .. diyen erkek .. yapan erkek
 bkz hayalinde birilerini kurtaran şizofrenler
 bkz denize ... x mi düşse kurtarırsın y mi
