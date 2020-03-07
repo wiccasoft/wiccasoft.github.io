@@ -11,6 +11,7 @@ https://www.rehabilitasyon.com/kelime/Necrofili-2_CZapCZW_10
 bkz monolog yaşayan sosyopatlar
 bkz kemalist kişilk bozukluğu
 bkz hayalinde yarattığı karakteri düşman ilan edip onunla kavga eden şizofren
+https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg
 bkz .. diyen erkek .. yapan erkek
 bkz hayalinde birilerini kurtaran şizofrenler
 bkz denize ... x mi düşse kurtarırsın y mi
