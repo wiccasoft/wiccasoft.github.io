@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/facebook-abazan%C4%B1/&w=bg bkz anneni ekledim oç
 bkz annesinin facebook kullanmasına izin veren gavat
 bkz memur bey allaaşkına bu facebook a konur mu (bkz vibratör resmi)
 bkz türklerin sosyal medyaya resim atıp resime soru sorması
