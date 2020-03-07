@@ -4,8 +4,9 @@
 
 <!--
 bkz hatayın %80 i araptır
+bkz arap zaza kırması olup arapları aşağılamak
 bkz türklerin asimile olmadıklarını sanması
-bkz türklerin fenotip oalrak araplara benzemesi 
+bkz türklerin fenotip olarak araplara benzemesi 
 https://www.uludagsozluk.com/k/serkan-k%C4%B1r%C4%B1nt%C4%B1l%C4%B1/&w=bg bkz getir virali
 https://www.youtube.com/watch?v=TtJjSVIw-Uo
 bkz globalist oportünist adamım nasılım
