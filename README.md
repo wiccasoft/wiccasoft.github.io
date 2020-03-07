@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz sosyal medyaya atatürk resmi atıp onunla konuşmak
 bkz mustafa kamal atatürkün türklük süper demesi türk önde türk ileri demesi
 bkz acun ılıcalının yeni saç stili
 bkz osmanlı torunlarının doblo ya tuğra kamalcıların m.kamel imzası yapıştırması
