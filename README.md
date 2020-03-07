@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular çık çık 40 milyar dolar sadece isveçte 
 https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii 
 bkz in soviet russia bears kneels down on you
 https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
