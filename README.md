@@ -2,7 +2,11 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/k/facebook-abazan%C4%B1/&w=bg bkz ben anneni pokeladım  kankağ-->
+<!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz alper potukun çülüpe zarar vermesi
+https://www.uludagsozluk.com/k/facebook-abazan%C4%B1/&w=bg bkz ben 
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
