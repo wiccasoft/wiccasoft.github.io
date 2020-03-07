@@ -4,6 +4,7 @@
 
 <!--
 bkz okan bu saçlar ne?
+https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz hayallerde yaşıyor bazı ibneler
 bkz denize denzşi gezmiş mi düşse kurtarırsın özcan deniz mi
 https://www.uludagsozluk.com/ bkz dünyanın en itici gayleri
 https://www.uludagsozluk.com/k/red-kit/&w=bg bkz yobazların düşmanı 
