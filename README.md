@@ -4,6 +4,7 @@
 
 <!--
 bkz okan bu saçlar ne?
+bkz sabah kadar entry giren gay
 https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/ bkz okan
 https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz hayallerde yaşıyor bazı ibneler
 bkz denize deniz gezmiş mi düşse kurtarırsın özcan deniz mi
