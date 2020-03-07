@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.youtube.com/watch?v=KXnzNbuV84c
 bkz macun kaplıcalı saçları vs okan bayülgen saçları
 https://www.uludagsozluk.com/e/42959057/ bu saçlar ne okan? cevap ver hadi bkz cevab veremdi göt oldu
 https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz gay kürt kırması
