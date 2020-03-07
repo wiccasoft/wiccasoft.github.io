@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz çobirinci tekil apızdan olmayan biriyle konuşmak
+bkz birinci tekil apızdan olmayan biriyle konuşmak (bkz deep web)
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-yazarlar%C4%B1n%C4%B1n-s%C3%B6ylemek-istedikleri/&w=bg
 https://www.uludagsozluk.com/k/sevmedi%C4%9Fin-bir-i%C5%9Fte-%C3%A7al%C4%B1%C5%9Fmak-vs-i%C5%9Fsizlik/
 https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/
