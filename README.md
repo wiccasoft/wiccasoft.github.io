@@ -4,7 +4,7 @@
 
 <!--
 https://radikalkemalizm.uludagsozluk.com/ bkz sakat heralde
-https://seyyid-nesimi.uludagsozluk.com uyuyomu bu ılık
+https://seyyid-nesimi.uludagsozluk.com bkz kafa siken kamalcı zırvaları
 https://kirmizicizgi.uludagsozluk.com bkz sakat heralde
 https://www.uludagsozluk.com/k/facebook-abazan%C4%B1/&w=bg bkz anneni ekledim oç
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg eywallah koçum
