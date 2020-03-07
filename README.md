@@ -6,8 +6,9 @@
 bkz oksimoron
 bkz homofobik homo
 bkz web e resim atıp resime soru sormak
-https://ferdici.uludagsozluk.com/ bkz hayalindeki adamla konuşan sosyopat
+bkz hiç tanımadığı biriyle deep webte enseye şaplak göte parmak takılmak
 https://www.youtube.com/watch?v=KXnzNbuV84c
+https://ferdici.uludagsozluk.com/ bkz hayalindeki adamla konuşan sosyopat
 bkz okancım bu ne hal?
 bkz fotoyla konuşan egosantrik yaşam formları
 https://www.uludagsozluk.com/k/facebook-tan-so%C4%9Fuma-nedenleri/&w=bg 
