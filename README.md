@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/fet%C3%B6-n%C3%BCn-kasetle-parti-ba%C5%9Fkan%C4%B1-yapt%C4%B1%C4%9F%C4%B1-siyaset%C3%A7i/&w=bg
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/
 https://www.uludagsozluk.com/k/gaylar%C4%B1n-s%C3%B6zl%C3%BCkte-yazma-hakk%C4%B1/ lol
 bkz recep tayyipten doğanın beni seven sigara içmez demesi
