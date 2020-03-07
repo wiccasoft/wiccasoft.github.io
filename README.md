@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz enin özkoçun efso meclis konuşması
+https://lanetlybebe.uludagsozluk.com/ sakat heralde
+bkz engin özkoçun efso meclis konuşması
 https://www.uludagsozluk.com/k/engin-%C3%B6zko%C3%A7/&w=bg eywallah koç
 bkz muhaliflerin deliye dönmesi
 bkz monolog yaşayan sosyopatlar
