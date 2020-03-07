@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz hayallerde yaşıyor bazı ibneler
+https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
+https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/ kesin lan oçları ananızı  sikerim ibnenin sıçtıkları
 bkz tangır budun doğan ve recep tayyip doğan
 https://www.uludagsozluk.com/ bkz ılıkların kafa siktiği yer
