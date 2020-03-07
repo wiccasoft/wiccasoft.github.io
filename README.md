@@ -4,6 +4,7 @@
 
 <!--
 bkz monolog yaşayan sosyopatlar
+bkz kemalist kişilk bozukluğu
 bkz .. diyen erkek .. yapan erkek
 bkz hayalinde birilerini kurtaran şizofrenler
 bkz denize ... x mi düşse kurtarırsın y mi
