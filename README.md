@@ -4,6 +4,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/ bkz ılıkların kafa siktiği yer
 https://www.uludagsozluk.com/ bkz monolog yazıp kavga eden paranoyak ibneler
 https://www.uludagsozluk.com/ bkz ibnelerin bütün gün kafa siktiği yer
 https://www.uludagsozluk.com/k/sedat-peker/&w=bg eywallah  o ç ları ananız sikmeye gelecem bilahare
