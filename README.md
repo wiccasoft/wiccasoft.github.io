@@ -13,7 +13,8 @@ https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz verse si
 bkz beraber yürüdük biz bu yooollardaaaaaaaaaaaaaaaaa
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/ 
 bkz 3 kuruşluk adama beş kuruşluk değer vermek
-https://cok-erken-oten-horoz.uludagsozluk.com/ eleman iyi ötüyıo ötüken kuşu mübarek
+https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz adem gibi adem
+https://cok-erken-oten-horoz.uludagsozluk.com/ eleman ötüken kuşu mübarek
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/
 https://www.uludagsozluk.com/k/gaylar%C4%B1n-s%C3%B6zl%C3%BCkte-yazma-hakk%C4%B1/ lol
 bkz recep tayyipten doğanın beni seven sigara içmez demesi
