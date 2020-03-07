@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz kamalcıların suratına tükürsende yarabbi şükr demeleri
-bkz kamalcılardaki eşcinselliğin sebebi
+bkz kamalcılardaki yavşaklığın asıl sebebi
+bkz kamalcıların suratına tükürsende yarabbi şükr demeler
 bkz kamalcıların dünyanın en aptal ve itici tayfası olması
 bkz facebook ma kamal atacücü resimleri atıp atam izindeyiz yazmak
 bkz herkesin çocuğunu dahi sandığı ülke
