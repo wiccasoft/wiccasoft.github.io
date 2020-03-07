@@ -3,16 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz kamalcılardaki yavşaklığın asıl sebebi
-bkz kamalcıların suratına tükürsende yarabbi şükr demeler
-bkz kamalcıların dünyanın en aptal ve itici tayfası olması
-bkz facebook ma kamal atacücü resimleri atıp atam izindeyiz yazmak
-bkz herkesin çocuğunu dahi sandığı ülke
-bkz benim çocuğum dahi sendromu
-bkz küççük filozof atakanın dahi olması
+bkz facebok annelerinin çocuğum dahi sendoromu
 bkz küççük filozof atakanın annesini facebooktan eklemek
-bkz küççük filozof arakan vs küççük lider atacücü
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz kral çocuk
+https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz kral çocuk 
 bkz ma kamalı seven 1 milyon kişi bulabilrim sayfasından kamalcı hatun kaldırmak
 bkz götten indiği sanılan hitaplar
 https://www.uludagsozluk.com/e/42959057/ bu saç ne okan?
