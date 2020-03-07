@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz çok tehlikeli gaylerin deep web erkek fotosu atıp onunla konuşmaları
 bkz gaylerin hayallerdinde hep birilerini kurtarmaları
 bkz gaylerin çok ürkütücü oldukları gerçeği
 bkz ölü olan lideriyle canlıymış gibi konuşan tehlikeli gayler
