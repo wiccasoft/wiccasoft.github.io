@@ -2,41 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-https://eksisozluk.com/entry/103153097 lol
-https://eksisozluk.com/entry/103155512 lol
-https://eksisozluk.com/30-yasinda-isi-esi-evi-arabasi-olmayan-erkek--3643555?a=popular lol
-https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular sadece bilale 50 milyon dolar harcadım 
-https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular 40 milyar dolar sadece isveçte var
-https://eksisozluk.com/ali-koc--157305?a=popular bkz yazık lan kimin çocuysa
-https://gine-babunu.uludagsozluk.com/ bkz sakat heralde
-https://eksisozluk.com/hoslanilan-kizin-hoslanilan-kizin-kizi-cikmasi--6399153?a=popular lol
-https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii 
-bkz in soviet russia bears kneels down on you
-https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
-bkz 2. katerina torunuyum diyip piri reisi tanımamak
-https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
-https://www.uludagsozluk.com/e/42959057/ bkz cevab veremedi 
-bkz peki bundan virüsün haberi var mı
-https://eksisozluk.com/turkiyenin-covid-19-vakalarini-saklama-ihtimali--6398963?a=popular 
-https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
-https://www.uludagsozluk.com/k/s%C3%BCper-zeka-dahi-filozof-atakan-%C4%B1n-unutulmas%C4%B1/ 
-bkz tayip te beni seviyormudur acaba diye uzaklara dalıp bi sigara yakmak
-bkz şaka maka sabah sabah tayyip diye ter içinde uyanmak
-https://eksisozluk.com/recep-tayyip-erdoganin-ideolojik-gorusu--6398371?a=popular bkz tayyibizm
-https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/ bkz verse sikmezmisin kankağ
-bkz beraber çürüdük biz bu yooollardaaaaaaaaaaaaaaaaa
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/ 
-bkz 3 kuruşluk adama beş kuruşluk değer vermek
-https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz adem gibi adem
-https://cok-erken-oten-horoz.uludagsozluk.com/ eleman ötüken kuşu mübarek
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/
-https://www.uludagsozluk.com/k/gaylar%C4%B1n-s%C3%B6zl%C3%BCkte-yazma-hakk%C4%B1/ lol
-https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gay turkish bands
-https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der şaka lan şaka iyi çocuk
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
--->
-
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
