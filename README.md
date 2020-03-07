@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/okan-bay%C3%BClgen/&w=bg bkz gay kürt kırması
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
 bkz elif can terimin kürt hava yollarından kovulması
 https://eksisozluk.com/adem-ljajic--1984155?a=popular bkz adem gibi adem
