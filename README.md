@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ersun yanalın alper poptuk hazımsızlığı
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkzx alper potuk bekir irtegün ikilisini uyumsuzluğu
 https://www.uludagsozluk.com/k/facebook-tan-so%C4%9Fuma-nedenleri/&w=bg bkz fotoyla konuşan tipler
 https://www.uludagsozluk.com/e/42959057/ bu saç ne okan?
