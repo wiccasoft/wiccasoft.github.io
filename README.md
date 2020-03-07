@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/denize-yunan-m%C4%B1-d%C3%BC%C5%9Fse-kurtar%C4%B1rs%C4%B1n-ermeni-mi/&w=bg
+https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg
+https://www.uludagsozluk.com/k/intihar-eden-bir-insan%C4%B1-kurtarmak-ona-iyilik-midir/&w=bg
 https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/ bkz okan bayülgen
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz iğrençsiniz ibneler
