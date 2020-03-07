@@ -6,7 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz web e resim atıp resime soru sormak
-bkz hiç tanımadığı biriyle deep webte enseye şaplak göte parmak takılmak
+bkz tweeter a resim atıp ona soru soran türkler
 https://www.youtube.com/watch?v=KXnzNbuV84c
 https://ferdici.uludagsozluk.com/ bkz hayalindeki adamla konuşan sosyopat
 bkz okancım bu ne hal?
