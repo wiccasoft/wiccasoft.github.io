@@ -3,8 +3,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz peki bundan virüsün haberi var mı
-https://eksisozluk.com/turkiyenin-covid-19-vakalarini-saklama-ihtimali--6398963?a=popular 
 https://gine-babunu.uludagsozluk.com/ bkz sakat heralde
 https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii 
 bkz in soviet russia bears kneels down on you
@@ -12,6 +10,8 @@ https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
 bkz 2. katerina torunuyum diyip piri reisi tanımamak
 https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
 https://www.uludagsozluk.com/e/42959057/ bkz cevab veremedi 
+bkz peki bundan virüsün haberi var mı
+https://eksisozluk.com/turkiyenin-covid-19-vakalarini-saklama-ihtimali--6398963?a=popular 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
 https://www.uludagsozluk.com/k/s%C3%BCper-zeka-dahi-filozof-atakan-%C4%B1n-unutulmas%C4%B1/ 
 bkz tayip te beni seviyormudur acaba diye uzaklara dalıp bi sigara yakmak
