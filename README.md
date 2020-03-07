@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz küççü kfilozof arakan vs küççük lider atacücü
+bkz küççük filozof atakanın annesini facebooktan eklemek
+bkz küççük filozof arakan vs küççük lider atacücü
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz kral çocuk
 bkz ma kamalı seven 1 milyon kişi bulabilrim sayfasından kamalcı hatun kaldırmak
 bkz götten indiği sanılan hitaplar
