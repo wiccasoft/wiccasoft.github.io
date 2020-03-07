@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz .. diyen erkek
 bkz olmayan diyalag kurup birini kurtarmak
 bkz facebook a mke fotosu atıp reis arkandayız yazmak
 bkz facebook a rte fotosu atıp reis arkandayız yazmak
