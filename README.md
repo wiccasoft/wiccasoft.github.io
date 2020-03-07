@@ -3,7 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.uludagsozluk.com/k/sedat-peker/&w=bg eywallah o ç ları ananız sikmeye gelecem bilahare
+https://www.uludagsozluk.com/ bkz ibnelerin bütün gün kafa siktiği yer
+https://www.uludagsozluk.com/k/sedat-peker/&w=bg eywallah  o ç ları ananız sikmeye gelecem bilahare
 https://radikalkemalizm.uludagsozluk.com/ bkz sakat heralde
 https://seyyid-nesimi.uludagsozluk.com bkz kafa siken kamalcı zırvaları
 https://kirmizicizgi.uludagsozluk.com bkz sakat heralde
