@@ -5,6 +5,8 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
+bkz ölü sevicilik: 
+https://www.rehabilitasyon.com/kelime/Necrofili-2_CZapCZW_10
 bkz monolog yaşayan sosyopatlar
 bkz kemalist kişilk bozukluğu
 bkz .. diyen erkek .. yapan erkek
