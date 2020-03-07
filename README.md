@@ -4,6 +4,7 @@
 
 <!--
 bkz .. diyen erkek .. yapan erkek
+bkz hayalinde birilerini kurtarana  şizofrenler
 bkz intihar etmeyen kişiyi kurtarmaya çalışan şizofrenler
 bkz denize ... x mi düşse kurtarırısn y mi
 bkz hayalinde diyalog kurup o karakteri kurtaran şizofren
