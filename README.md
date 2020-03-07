@@ -4,6 +4,7 @@
 
 <!--
 bkz mustafa kemalin ölü olduğu gerçeği
+bkz kamalcılardaki cehaleti gereğinden fazla abartmak
 https://www.uludagsozluk.com/k/mustafa-kemal-in-ateist-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg bkz bence ölü
 https://www.youtube.com/watch?v=Gs_aq13sU3E zuahhahahahaha
 https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz https://www.youtube.com/watch?v=Gs_aq13sU3E
