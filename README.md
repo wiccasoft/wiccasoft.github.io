@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz lenin torunuyum diyip romanov tuğralı doblo kullanan erkek
 bkz osmanlı torunu olmaktan utanan erkek
 bkz osmanlı torunuyum demeyen nargile içmeyen erkek
 bkz osmanlı torunuyum demeyip tuğralı doblo kullanmak
