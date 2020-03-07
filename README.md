@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz ikina katerina torunuym diyip fransada tatil yapmak
 bkz ikinci katerina'nın önünde duran osmanlı torunları
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz bekir irtegün alper potuk uyumu
 bkz beraber yürüdük biz bu yollarrrrrrrdaaaaaaa
