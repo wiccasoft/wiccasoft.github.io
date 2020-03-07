@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/
 bkz deep webe resim atım resimle haberle konuşan ultra tehlikeli şizofren gayler
 bkz okan bayülgen fotosu atıp bu saç ne okan? yazan şizofren
 bkz okunmaycağını bildiği halde ciddi ciddi sayfalarca entry giren şizofrenler
