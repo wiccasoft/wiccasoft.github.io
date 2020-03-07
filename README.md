@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/ bkz ibnelerin hayal dünyası
 bkz hayallerde yaşıyor bazı ibneler
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
 https://www.uludagsozluk.com/k/%C3%BClkede-corona-yok-diye-deliye-d%C3%B6nen-muhalif/ bkz hayallerde yaşıyor bazı ibneler
