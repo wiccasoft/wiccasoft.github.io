@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz lenin heykeli önünde poz veren osmanlı torunu hain
 bkz 2. katerina önünde poz veren 2. abdülhamdi torunu
 bkz m kamal imzalı doblo kullanan osmanlı torunu 
 bkz fesli bunak vs bim prezervatifi
