@@ -9,12 +9,8 @@ https://www.youtube.com/watch?v=Gs_aq13sU3E bkz yakışıklı adamım nasılım
 https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz yakışıklı adamım nasılım
 bkz en güzel ideoloji asil kanlarımda dolaşıyo yok yok en iyisi o
 bkz türklerin mustafa kamalı çok şişirmesi
-bkz mustafa kamalın türkleri çok şişirdiği gerçeği
-bkz mustafa kamalın şişirilmiş bir ölü olduğu gerçeği
-bkz bakunini baklava markası sanan kamalcı
 bkz bakuninin arşist olduğu gerçeği
-bkz mustaf cecelinin cecelist olduğu gerçeği
-bkz mustafa kamalın kamalcı olduğu gerçeği
+bkz mustafa cecelinin cecelist olduğu gerçeği
 bkz mustafa kemalin ölü olduğu gerçeği
 bkz ölü liderlerinin pipisi sünnetlimiydi diye tartışan malum tayfa
 bkz kamalcılardaki cehaleti gereğinden fazla abartmak
