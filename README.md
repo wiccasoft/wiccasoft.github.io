@@ -10,6 +10,7 @@ https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular sadece 
 https://eksisozluk.com/recep-tayyip-erdoganin-serveti--4190479?a=popular 40 milyar dolar sadece isveçte var
 https://eksisozluk.com/ali-koc--157305?a=popular bkz yazık lan kimin çocuysa
 https://gine-babunu.uludagsozluk.com/ bkz sakat heralde
+https://eksisozluk.com/hoslanilan-kizin-hoslanilan-kizin-kizi-cikmasi--6399153?a=popular lol
 https://www.uludagsozluk.com/e/42959651/ bkz dom dom kurşunu deydi ah deydi eğlediiii 
 bkz in soviet russia bears kneels down on you
 https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
