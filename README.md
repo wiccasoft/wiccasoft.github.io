@@ -7,7 +7,7 @@ bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
 bkz fesli bunak vs bim prezervatifi
-bkz osmanlı torunuyum diye gezen çomarın doblosu
+vkz osmanlı torunuyum diye gezen nargileli çomar
 bkz osmanlı torunuyum diye gezen çomar
 https://www.uludagsozluk.com/k/osmanl%C4%B1-torunuyum-diye-gezen-%C3%A7omar/&w=bg
 bkz 2. abulhamdi önünde poz veren lenin torunları
