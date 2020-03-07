@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz in soviet russia bears kneels down on you
+https://eksisozluk.com/in-moscow-erdogan-kneels-to-putin--6398964?a=popular lol
 bkz 2. katerina torunuyum diyip piri reisi tanımamak
 https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
 https://www.uludagsozluk.com/e/42959057/ bkz cevab veremedi 
