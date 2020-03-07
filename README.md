@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz götten infiği sanılan ibneler
+https://www.uludagsozluk.com/k/g%C3%B6kten-indi%C4%9Fi-san%C4%B1lan-kitaplar/&w=bg bkz nutuk
 https://www.uludagsozluk.com/k/gecenin-%C5%9Fark%C4%B1s%C4%B1/ bkz iğrençsiniz ibneler
 https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz iğrençsiniz ibneler
 bkz kemalistlerin gay olduklarını bi türlü anlamamaları sorunsalı
