@@ -5,7 +5,7 @@
 <!--
 bkz 7 mart 2020 arkadan vermeyen kalmasın
 https://www.uludagsozluk.com/k/7-mart-2020-reisin-yine-geri-vitese-ba%C4%9Flamas%C4%B1/ arkayı beşleyelim
-https://www.youtube.com/watch?v=Gs_aq13sU3E zuahhahahahaha
+https://www.youtube.com/watch?v=Gs_aq13sU3E bkz yakışıklı adamım nasılım
 https://www.uludagsozluk.com/k/getir-reklam%C4%B1ndaki-kurye/ bkz yakışıklı adamım nasılım
 bkz en güzel ideoloji asil kanlarımda dolaşıyo yok yok en iyisi o
 bkz türklerin mustafa kamalı çok şişirmesi
