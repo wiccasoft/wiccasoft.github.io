@@ -6,7 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz ölü sevicilik: necrofili
-bkz diyalog kurup onunla kavga eden çomar
+bkz momolog kurup onunla kavga eden çomar
 bkz selçuklu torunuyum diyip gezen çomar
 https://seyyid-nesimi.uludagsozluk.com bkz sakat heralde
 https://www.rehabilitasyon.com/kelime/Necrofili-2_CZapCZW_10
