@@ -5,6 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
+https://www.uludagsozluk.com/k/facebook-tan-so%C4%9Fuma-nedenleri/&w=bg bkz fotoyla konuşan cahiller
 https://www.uludagsozluk.com/e/42959057/ bkz fotoğrafa soru sormak
 bkz eşcinsel oldupunu kabul etmeyen kzıgın kemalistler
 https://www.uludagsozluk.com/k/ibneli%C4%9Fin-l%C3%BCzumu-var/&w=bg
