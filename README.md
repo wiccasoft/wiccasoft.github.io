@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gays
+https://www.uludagsozluk.com/k/grup-vitamin/&w=gd bkz ultra gay turkish bands
 https://www.uludagsozluk.com/ bkz ibnelerin hayal dünyası
 bkz hayallerde yaşıyor bazı ibneler
 https://zall-bana-hep-abi-der.uludagsozluk.com/ bkz zall ona hep oç der
