@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz enin özkoçların osmanlı torunlarına verdiği efso ayar
 bkz bir gece ansızın 84 musluk 85 kerkük 86 moskof
 https://www.uludagsozluk.com/k/82-idlib/
 https://www.uludagsozluk.com/k/83-afrin/ bir gece ansızın
