@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+bkz acun ılıcalının yeni saç stili
 bkz osmanlı torunlarının doblo ya tuğra kamalcıların m.kamel imzası yapıştırması
 bkz acun kaplıcalının paylaştığı osmanlı torunları katerina resmi
 bkz osmanlı torunlarının ikince katerinayı küçümsemesi
