@@ -4,6 +4,7 @@
 
 <!--
 bkz okan bu saçlar ne?
+bkz ölü olan lideriyle canlıymış gibi konuşan tehlikeli gayler
 bkz sabah kadar entry giren tehlikeli gay
 bkz entrysine foto atıp konuşan tehlikeli gay hastaları
 bkz entrsinde ölü kişinin fotosuyla konuşan tehlikeli gayler
