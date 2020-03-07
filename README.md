@@ -4,7 +4,7 @@
 
 <!--
 https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
-https://www.uludagsozluk.com/e/42959057/ bu saçlar ne okan? bkz cevab veremedi 
+https://www.uludagsozluk.com/e/42959057/ bkz cevab veremedi 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
 bkz tayip te beni seviyormudur acaba diye uzaklara dalıp bi sigara yakmak
 bkz şaka maka sabah sabah tayyip diye ter içinde uyanmak
