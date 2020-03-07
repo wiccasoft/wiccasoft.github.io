@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz resime soru sormak
+https://www.uludagsozluk.com/k/intihar-eden-bir-insan%C4%B1-kurtarmak-ona-iyilik-midir/&w=gd
 bkz m kamal dışındaki bütün heykeller önünde poz veren hain
 bkz lenin heykeli önünde poz veren osmanlı torunu hain
 bkz 2. katerina önünde poz veren 2. abdülhamdi torunu
