@@ -5,6 +5,7 @@
 <!--
 bkz oksimoron
 bkz homofobik homo
+https://ferdici.uludagsozluk.com/
 https://www.youtube.com/watch?v=KXnzNbuV84c
 bkz web e resim atıp ona soru sormak
 bkz okancım bu ne hal?
