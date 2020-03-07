@@ -4,6 +4,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/red-kit/&w=bg bkz yobazların düşmanı 
+https://www.uludagsozluk.com/k/%C5%9Fu-an-akl%C4%B1ndan-ne-ge%C3%A7iyor/&w=bg bkz yaz bişeyley
 https://www.uludagsozluk.com/k/%C3%A7ok-tehlikeli-%C5%9Fizofreni-ve-alzheimer-hastalar%C4%B1/
 https://www.uludagsozluk.com/k/intihar-eden-bir-insan%C4%B1-kurtarmak-ona-iyilik-midir/&w=bg
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerinin-foto%C4%9Fraflar%C4%B1/&w=bg 
