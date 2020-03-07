@@ -4,7 +4,6 @@
 
 <!--
 https://www.youtube.com/watch?v=KXnzNbuV84c bkz göt olmak
-bkz macun kaplıcalı saçları vs okan bayülgen saçları
 https://www.uludagsozluk.com/e/42959057/ bu saçlar ne okan? bkz cevab veremedi 
 https://eksisozluk.com/squat-yapan-erkek--4397047?a=popular bkz erdoğan
 bkz elif can terimin kürt hava yollarından kovulması
