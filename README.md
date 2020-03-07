@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz beraber yürüdük biz bu yooollardaaaaaaaaaaaaaaaaa
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/ 
 bkz 3 kuruşluk adama beş kuruşluk değer vermek
 https://cok-erken-oten-horoz.uludagsozluk.com/ eleman iyi ötüyıo ötüken kuşu mübarek
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1-sevmek-i%C3%A7in-bir-neden-b%C4%B1rak/
