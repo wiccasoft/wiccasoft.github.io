@@ -6,6 +6,7 @@
 bkz oksimoron
 bkz homofobik homo
 bkz ölü sevicilik: necrofili
+https://seyyid-nesimi.uludagsozluk.com bkz sakat heralde
 https://www.rehabilitasyon.com/kelime/Necrofili-2_CZapCZW_10
 bkz monolog yaşayan sosyopatlar
 bkz kemalist kişilk bozukluğu
