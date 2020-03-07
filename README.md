@@ -8,7 +8,7 @@ bkz küççük filozof atakanın annesini facebooktan eklemek
 https://www.uludagsozluk.com/k/k%C3%BC%C3%A7%C3%BCk-filozof-atakan/&w=bg bkz kral çocuk 
 bkz ma kamalı seven 1 milyon kişi bulabilrim sayfasından kamalcı hatun kaldırmak
 bkz götten indiği sanılan hitaplar
-https://www.uludagsozluk.com/e/42959057/ bu saç ne okan?
+https://www.uludagsozluk.com/e/42959057/ bu saç ne okan? bkz cevab veremedi
 bkz macun kaplıcalının yeni saç stili
 bkz erdonun torununa kuranısikerim öğretmesi
 bkz kuranısikeriminşizofran arab uydurması olduğu gerçeği
