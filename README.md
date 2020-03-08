@@ -3,6 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 <!-- 
 bkz khontkarın karıları kudurtması
+bkz karılar gününün çok abartılması
+bkz meriçlerin karılar gününde coşması
+bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
+bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
 https://eksisozluk.com/khontkar--5390949?a=popular bkz kızları patlatıp terk eden erkek
 https://www.uludagsozluk.com/k/vajina-kararmas%C4%B1na-iyi-gelen-%C5%9Feyler/&w=bg bkz khontkar
 https://www.uludagsozluk.com/k/instagram-da-tan%C4%B1mad%C4%B1%C4%9F%C4%B1-erke%C4%9Fi-takip-eden-erkek/ bkz reynmen
