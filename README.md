@@ -2,7 +2,7 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--bkz 8 mart 2020 abdullah ggül öldü iddaları -->
+<!-- bkz 8 mart 2020 abdullah gül gül öldü iddaları -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
