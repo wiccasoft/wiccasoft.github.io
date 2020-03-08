@@ -4,7 +4,7 @@
 
 
 <!-- 
-nlz kebron kames yapıca auuu michaee jordan yapınca tu kaka
+bkz kebron kames yapıca auuu khontkar yapınca tu kaka
 bkz patlak kızların suda çıkardığı ses
 bkz patlatılan kızın ekşide zırlaması
 bkz nomr ender yapınca auuuuuu khontkar yapınca tu kaka
