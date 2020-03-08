@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz patlak ergene gelişine çakmak
 bkz ergenlerin kafa siktiği gerçeği
 bkz patlak ergenlerin suda çıkardığı ses
 bkz başkasıanın patlattığı ergenle muhattap olan erkek
