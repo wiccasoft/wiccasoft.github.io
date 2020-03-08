@@ -6,7 +6,6 @@
 bkz deniz gezmişin her gece sirtaki yapması
 bkz nomr ender yapınca auuuuuu khont karı yapınca tu kaka
 bkz khontkarın karıları kudurtması
-bkz karılar gününün çok abartılması
 bkz meriçlerin karılar gününde coşması
 bkz mao zedongun her gece rakı içmesi
 bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
