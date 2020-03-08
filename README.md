@@ -4,7 +4,7 @@
 
 <!-- 
 bkz patlak ergene gelişine çakmak
-bkz serkan incinin patlak ergenler için attığı tweet
+bkz serkan incinin patlak ergenlere verdiği nasihatı dinlemeyen patlak ergenler
 bkz ergenlerin kafa siktiği gerçeği
 bkz patlak ergenlerin suda çıkardığı ses
 bkz başkasının patlattığı ergenle muhattap olan erkek
