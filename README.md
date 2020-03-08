@@ -4,6 +4,10 @@
 
 
 <!-- 
+bkz erdo yapınca auuu putin yapınca tu kaka
+bkz putinin erdoya attığı bakış
+bkz noldu renciniz zoldi
+https://kapitalist-amele.uludagsozluk.com/ bakim walla gerizekalı
 bkz kanye west yapınca auuu khontkar yapınca tu kaka
 bkz patlak kızların suda çıkardığı ses
 bkz patlatılan kızın ekşide zırlaması
