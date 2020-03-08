@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 
-<!-- https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz alper potuk hayranı kızlar
+<!-- 
+bkz patlatılan kızın ekşide zırlaması
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz alper potuk hayranı kızlar
 bkz deniz gezmişin her gece sirtaki yapması
 bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
 bkz khontkarın karıları kudurtması
