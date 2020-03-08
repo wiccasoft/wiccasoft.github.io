@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
+bkz nomr ender yapınca auuuuuu khontkar yapınca tu kaka
 bkz khontkarın karıları kudurtması
 bkz karılar gününün çok abartılması
 bkz meriçlerin karılar gününde coşması
