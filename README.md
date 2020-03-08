@@ -4,7 +4,7 @@
 
 
 <!-- 
-bkz deep webte kız olduğunu sanana malak
+bkz deep webte kız olduğunu sanana malak olm ben durmama orda kızın ne işi
 https://www.uludagsozluk.com/k/k%C3%BCrtlerin-neden-ulus-devleti-olmamal%C4%B1d%C4%B1r/ adam haklı beyler ccc
 bkz patlatılan kızın ekşide zırlaması
 bkz patlak kızların suda çıkardığı ses
