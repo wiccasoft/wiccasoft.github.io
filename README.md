@@ -7,9 +7,9 @@
 bkz putinin erdoya attığı bakış
 bkz noldu renciniz zoldi
 https://kapitalist-amele.uludagsozluk.com/ bakim walla gerizekalı
+bkz patlak kızların suda çıkardığı ses
 bkz patlatılan kızın ekşide zırlaması
 bkz deep webte kız olduğunu sanan malak 
-bkz patlak kızların suda çıkardığı ses
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e-taraftar%C4%B1/&w=bg bkz alper potuk hayranı kızlar
 bkz deniz gezmişin her gece sirtaki yapması
 bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
