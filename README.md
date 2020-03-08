@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz putinin erdoya attığı bakış
 bkz deep webte kız olduğunu sanan malak 
 bkz noldu renciniz zoldi
 https://kapitalist-amele.uludagsozluk.com/ bakim walla gerizekalı
