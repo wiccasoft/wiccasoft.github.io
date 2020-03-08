@@ -2,32 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-bkz serkan is my girl
-bkz serkan incinin inci gibi parlaması
-bkz patlak ergenlerin suda çıkardığı ses
-bkz patlak ergeni suya sokup bi daha de bakim duymadım demek
-bkz serkan incinin atarlı bir patlak ergen olduğu gerçeği
-bkz başkasının patlattığı ergenle muhattap olan erkek
-https://d-o-g-u-k-a-n.uludagsozluk.com/ sakat heralde
-bkz kızları patlatıp feminik yapan erkek
-bkz serkan incinin feminist dünyada kadın olmak kitabı
-bkz atacücü her gece rakı içtiği için sirozdan geberdi yalanı
-bkz 1978 den sonra doğan neslin sanki biraz şey olması
-bkz deniz gezmişin her gece sirtaki yapması
-bkz nomr ender yapınca auuuuuu khont karı yapınca tu kaka
-bkz khontkarın karıları kudurtması
-bkz meriçlerin karılar gününde coşması
-bkz mao zedongun her gece rakı içmesi
-bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
-bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
-https://eksisozluk.com/khontkar--5390949?a=popular bkz kızları patlatıp terk eden erkek
-https://www.uludagsozluk.com/k/vajina-kararmas%C4%B1na-iyi-gelen-%C5%9Feyler/&w=bg bkz khontkar
-https://www.uludagsozluk.com/k/instagram-da-tan%C4%B1mad%C4%B1%C4%9F%C4%B1-erke%C4%9Fi-takip-eden-erkek/ bkz reynmen
-https://eksisozluk.com/kizlari-patlatip-patlatip-terk-eden-erkek--6401009?a=popular bkz khontkar 
-bkz oytun erbaşın karılara başım girsin başım demesi
-https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/
--->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
