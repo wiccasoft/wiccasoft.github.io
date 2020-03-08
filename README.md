@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/k%C3%BCrtlerin-neden-ulus-devleti-olmamal%C4%B1d%C4%B1r/ adam haklı beyler ccc
 bkz patlatılan kızın ekşide zırlaması
 bkz patlak kızların suda çıkardığı ses
 https://www.uludagsozluk.com/k/erkeklerin-kad%C4%B1nlar%C4%B1-de%C4%9Fil-gaylar%C4%B1-tercih-etmesi/ noldu rencin zoldi
