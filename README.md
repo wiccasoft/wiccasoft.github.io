@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/serkan-inci-nin-8-mart-kad%C4%B1nlar-g%C3%BCn%C3%BC-tweeti/ bkz sakat heralde
 https://www.uludagsozluk.com/k/solcular%C4%B1n-m%C3%BClklerini-kamula%C5%9Ft%C4%B1rmak/ hayallerde yaşıyor bazı ibneler
 https://d-o-g-u-k-a-n.uludagsozluk.com/ sakat heralde
 bkz kızları patlatıp feminik yapan erkek
