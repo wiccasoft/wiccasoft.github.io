@@ -3,8 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz meriçlerin karılar gününde coşması
 bkz karılar gününün çok abartılması
+bkz meriçlerin karılar gününde coşması
 bkz berkecanın karılara yaptığı tepki dolu hareket
 bkz czn burakın karılara jest olsun diye döner kesmesi -->
 
