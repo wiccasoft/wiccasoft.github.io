@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz deniz gezmişin her gece sirtaki yapması
+https://www.uludagsozluk.com/k/deniz-gezmi%C5%9F-in-chp-d%C3%BC%C5%9Fman%C4%B1-olmas%C4%B1/
 bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
 bkz khontkarın karıları kudurtması
 bkz karılar gününün çok abartılması
