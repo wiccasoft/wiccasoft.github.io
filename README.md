@@ -2,10 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-https://gine-babunu.uludagsozluk.com/ sakat heralde
-https://berberedayayanadam.uludagsozluk.com/ lol
-https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/ -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
