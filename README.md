@@ -3,11 +3,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz patlak ergene gelişine çakmak
+bkz patlak ergenlerin suda çıkardığı ses
 bkz patlak ergeni suya sokup bi daha de bakim duymadım demek
 bkz serkan incinin atarlı bir patlak ergen olduğu gerçeği
 bkz ergenlerin kafa siktiği gerçeği
-bkz patlak ergenlerin suda çıkardığı ses
 bkz başkasının patlattığı ergenle muhattap olan erkek
 https://d-o-g-u-k-a-n.uludagsozluk.com/ sakat heralde
 bkz kızları patlatıp feminik yapan erkek
