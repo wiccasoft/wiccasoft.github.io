@@ -4,7 +4,7 @@
 
 <!-- 
 bkz deniz gezmişin her gece sirtaki yapması
-bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
+bkz nomr ender yapınca auuuuuu khont karı yapınca tu kaka
 bkz khontkarın karıları kudurtması
 bkz karılar gününün çok abartılması
 bkz meriçlerin karılar gününde coşması
