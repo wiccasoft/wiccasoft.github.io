@@ -4,6 +4,7 @@
 
 <!-- 
 bkz patlak ergene gelişine çakmak
+bkz patlak ergeni suya sokup bi daha de bakim duymadım demek
 bkz serkan incinin patlak ergenlere verdiği nasihatı dinlemeyen patlak ergenler
 bkz ergenlerin kafa siktiği gerçeği
 bkz patlak ergenlerin suda çıkardığı ses
