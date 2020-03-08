@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz atacücü her gece rakı içtiği için sirozdan geberdi yalanı
 bkz 1978 den sonra doğan neslin sanki biraz şey olması
 bkz deniz gezmişin her gece sirtaki yapması
 bkz nomr ender yapınca auuuuuu khont karı yapınca tu kaka
