@@ -5,7 +5,7 @@
 <!-- 
 bkz karılar gününün çok abartılması
 bkz meriçlerin karılar gününde coşması
-bkz berkecanın karılara yaptığı tepki dolu hareket
+bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
 bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
 bkz oytun erbaşın karılara başım girsin başım demesi
 -->
