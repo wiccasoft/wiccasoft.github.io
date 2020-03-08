@@ -4,6 +4,8 @@
 
 
 <!-- 
+bkz patlak kızların suda çıkardığı ses
+bkz patlatılan kızın ekşide zırlaması
 bkz nomr ender yapınca auuuuuu khontkar yapınca tu kaka
 bkz khontkarın karıları kudurtması
 bkz karılar gününün çok abartılması
