@@ -5,9 +5,8 @@
 <!-- 
 bkz karılar gününün çok abartılması
 bkz atacücünün her gece rakı içmesi
-bkz enes abinin berkecana verdiği ayar vidyosu 
-bkz czn burakın karılara jest olsun diye döner kesmesi
-https://eksisozluk.com/berkcan-guvenin-tepkiler-nedeniyle-sildigi-video--6400025?a=popular -->
+bkz berkecanın karılara yaptığı tepki dolu hareket
+bkz czn burakın karılara jest olsun diye döner kesmesi -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
