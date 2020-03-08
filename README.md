@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://eksisozluk.com/khontkar--5390949?a=popular bkz kızları patlatıp terk eden erkek
 https://www.uludagsozluk.com/k/instagram-da-tan%C4%B1mad%C4%B1%C4%9F%C4%B1-erke%C4%9Fi-takip-eden-erkek/ bkz reynmen
 https://eksisozluk.com/kizlari-patlatip-patlatip-terk-eden-erkek--6401009?a=popular bkz khontkar -->
 
