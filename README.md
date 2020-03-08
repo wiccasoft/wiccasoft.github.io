@@ -3,6 +3,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://d-o-g-u-k-a-n.uludagsozluk.com/ sakat heralde
+https://www.uludagsozluk.com/k/h%C3%BCseyin-isimli-erkeklerin-ortak-%C3%B6zellikleri/&w=bg
+https://www.uludagsozluk.com/k/ba%C5%9Fkas%C4%B1n%C4%B1n-patlatt%C4%B1%C4%9F%C4%B1-kad%C4%B1nla-evlenen-erkek/&w=bg
 bkz kızları patlatıp feminik yapan erkek
 bkz serkan incinin feminist dünyada kadın olmak kitabı
 bkz atacücü her gece rakı içtiği için sirozdan geberdi yalanı
