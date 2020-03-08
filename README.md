@@ -5,6 +5,7 @@
 bkz khontkarın karıları kudurtması
 bkz karılar gününün çok abartılması
 bkz meriçlerin karılar gününde coşması
+bkz mao zedongun her gece rakı içmesi
 bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
 bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
 https://eksisozluk.com/khontkar--5390949?a=popular bkz kızları patlatıp terk eden erkek
