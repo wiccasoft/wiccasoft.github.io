@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz czn burakın nusreti nispet karılara döner dürüm yapması
+bkz czn burakın karılara döner dürüm yapması
 https://www.uludagsozluk.com/k/nusretin-kadinlara-jesti-2020/&w=gd
 bkz czn burakın kadınlara jest için döner kesmsi -->
 
