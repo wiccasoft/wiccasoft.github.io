@@ -3,14 +3,11 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz serkan incinin patlak ergenlere verdiği nasihat
 bkz patlak ergene gelişine çakmak
+bkz serkan incinin patlak ergenlere verdiği nasihat
 bkz ergenlerin kafa siktiği gerçeği
 bkz patlak ergenlerin suda çıkardığı ses
-bkz başkasıanın patlattığı ergenle muhattap olan erkek
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk-erkek-yazarlar%C4%B1n%C4%B1n-ya%C5%9Flar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/serkan-inci-nin-8-mart-kad%C4%B1nlar-g%C3%BCn%C3%BC-tweeti/ bkz sakat heralde
-https://www.uludagsozluk.com/k/solcular%C4%B1n-m%C3%BClklerini-kamula%C5%9Ft%C4%B1rmak/ hayallerde yaşıyor bazı ibneler
+bkz başkasının patlattığı ergenle muhattap olan erkek
 https://d-o-g-u-k-a-n.uludagsozluk.com/ sakat heralde
 bkz kızları patlatıp feminik yapan erkek
 bkz serkan incinin feminist dünyada kadın olmak kitabı
