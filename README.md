@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://stjarnhimlen.se/comp/ppcomp.html#12b biz neyle uğraşıyoz ibnelerin derdine bak
 bkz putinin erdoya attığı bakış
 bkz noldu renciniz zoldi
 https://kapitalist-amele.uludagsozluk.com/ bakim walla gerizekalı
