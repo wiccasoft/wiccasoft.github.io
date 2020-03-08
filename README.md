@@ -4,7 +4,6 @@
 
 <!-- 
 bkz karılar gününün çok abartılması
-bkz atacücünün her gece rakı içmesi
 bkz berkecanın karılara yaptığı tepki dolu hareket
 bkz czn burakın karılara jest olsun diye döner kesmesi -->
 
