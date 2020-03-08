@@ -4,12 +4,10 @@
 
 <!-- 
 bkz serkan is my girl
-bkz karıyı boşayıp serkan inciyi almak
 bkz serkan incinin inci gibi parlaması
 bkz patlak ergenlerin suda çıkardığı ses
 bkz patlak ergeni suya sokup bi daha de bakim duymadım demek
 bkz serkan incinin atarlı bir patlak ergen olduğu gerçeği
-bkz ergenlerin kafa siktiği gerçeği
 bkz başkasının patlattığı ergenle muhattap olan erkek
 https://d-o-g-u-k-a-n.uludagsozluk.com/ sakat heralde
 bkz kızları patlatıp feminik yapan erkek
