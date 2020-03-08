@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz karılar gününün çok abartılması
 bkz atacücünün her gece rakı içmesi
 bkz enes abinin berkecana verdiği ayar vidyosu 
 bkz czn burakın karılara jest olsun diye döner kesmesi
