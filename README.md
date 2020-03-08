@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/ -->
+<!-- 
+https://www.uludagsozluk.com/k/everyday-i-am-kezbaning/
+https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/ -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
