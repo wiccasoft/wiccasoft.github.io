@@ -2,7 +2,9 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://eksisozluk.com/berkcan-guvenin-tepkiler-nedeniyle-sildigi-video--6400025?a=popular bkz enes abinin eklediği vidyo -->
+<!-- 
+bkz enes abinin berkecana verdiği ayar vidyo 
+https://eksisozluk.com/berkcan-guvenin-tepkiler-nedeniyle-sildigi-video--6400025?a=popular -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
