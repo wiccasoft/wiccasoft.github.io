@@ -6,7 +6,9 @@
 bkz karılar gününün çok abartılması
 bkz meriçlerin karılar gününde coşması
 bkz berkecanın karılara yaptığı tepki dolu hareket
-bkz czn burakın karılara jest olsun diye döner kesmesi -->
+bkz czn burakın karılara jest olsun diye döner kesmesi 
+bkz oytun erbaşın karılara başım girsin başım demesi
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
