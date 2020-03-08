@@ -2,9 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- bkz 8 mart 2020 abdullah gül gül öldü iddaları
-https://www.uludagsozluk.com/k/bu-g%C3%BCn-ojeli-teyzelerin-g%C3%BCn%C3%BC-de%C4%9Fildir/
--->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
