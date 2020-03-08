@@ -4,6 +4,7 @@
 
 
 <!-- 
+bkz mao zedong yapınca öcü gibi korkuyorlar mao zedon yoldaştan lenin yapınca auuuuuuu
 bkz erdo yapınca auuu putin yapınca tu kaka
 bkz putinin erdoya attığı bakış
 bkz noldu renciniz zoldi
