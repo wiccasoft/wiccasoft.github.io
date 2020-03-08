@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://d-o-g-u-k-a-n.uludagsozluk.com bakim walla ağır gerizekalı
 https://stjarnhimlen.se/comp/ppcomp.html#12b biz neyle uğraşıyoz ibnelerin derdine bak
 bkz putinin erdoya attığı bakış
 bkz noldu renciniz zoldi
