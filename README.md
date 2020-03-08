@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz atacücünün her gece rakı içmesi
 bkz enes abinin berkecana verdiği ayar vidyosu  
 https://eksisozluk.com/berkcan-guvenin-tepkiler-nedeniyle-sildigi-video--6400025?a=popular -->
 
