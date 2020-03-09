@@ -5,6 +5,7 @@
 
 <!-- 
 bkz j lonun kalçalarını aldırması
+bkz konthakar ın ens batura diss atması
 bkz ali babuşcanın taltlı tatlı uyuyakalmışım noldu yine demesi
 bkz demoğrasi ve atılım partisinin biz de kayarız amuğa goyim demesi
 bkz hadise açıkgözün makyajsız fotosu
