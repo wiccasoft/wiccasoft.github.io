@@ -4,7 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz hedizenin hadise yaratan paylaşımları şok şok şok
+bkz akp nin avrasyacılıktan mavrasyaclığa geçmesi
+bkz hadizenin hadise yaratan paylaşımları şok şok şok
 bkz macun kaplıcalı o ses türkü finali
 bkz ünlü sunucunun bu halini hiç görmemiştiniz
 bkz hadize açıkgözün makyaşsız fotoğrafı tıklağ galeriğ açılsın
