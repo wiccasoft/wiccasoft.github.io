@@ -3,6 +3,13 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+
+<!-- 
+https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular
+https://eksisozluk.com/erdogan-ayakta-bekletilince-sevinenler--6401587?a=popular
+-->
+
+
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
