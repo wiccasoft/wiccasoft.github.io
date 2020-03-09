@@ -7,30 +7,6 @@
 https://www.youtube.com/watch?v=gjP7RbDyF-I  fake ulan fake sahte yani
 bkz türkiyenin çok partili sistemi çok yanlış anlaması
 bkz yeniden hak ya hak partisi nin mitoz bölünmesi
-bkz dava adamıyız partisinin gümbür gümbür gelmesi
-bkz atakayn kayalay 10 yaşında kitap okuyor inanılmaz sayın seyirciler
-https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-piyasadan-silinmesi/
-bkz atakan kayalar 10 yaşında kitap okuyor arkaşları ona aynştayn diyor
-bkz ibb mhp üyerlerinin ezan okunurken osurması
-bkz ibb mhp pkk tabanının bok partide birleşelim önerisi
-bkz ibb chp üyelerinin ezana bayrağa ibnelik yapması tıklağ haberin detaylarını gör
-bkz ibb chp üyelerinin bayrağı öpüp ezab okuması tıklağ galeriğ açılsın
-bkz ozan tufanın radeamel falco garcia artasındaki sürtüşme tıklağ galeriğ açılsın
-bkz ozan tufan alper potukla iyi bi ikili olduk açıklaması
-bkz alper potuk aşk iddalarına ne cevap verdi tıklağ
-bkz ozan tufan bensiz foğrafı tıklağ galeriğ açılsın
-bkz ozan tufandan olay yaratacak paylaşımlar
-bkz akp nin avrasyacılıktan mavrasyaclığa geçmesi
-bkz hadizenin hadise yaratan paylaşımları şok şok şok
-bkz macun kaplıcalı o ses türkü finali
-bkz ünlü sunucunun bu halini hiç görmemiştiniz
-bkz hadize açıkgözün makyaşsız fotoğrafı tıklağ galeriğ açılsın
-bkz ismail türütün adam var racon keser adam var naylon fatura keser demesi
-bkz tarabyada uşaklar etilerde yumuşakalr
-https://www.uludagsozluk.com/k/kelli-felli-adamlar%C4%B1n-yumu%C5%9Faklar-gibi-ya%C5%9Famas%C4%B1/
-bkz kelli felli erkeklerden sertlik isteyen ergen
-bkz kelli felli adamların sertlik yapacağına yumuşaklık yapması
-bkz rallın çukur vuruma sahnelerinde ay demesi
 bkz lenovanın uzun siyasi analizlerinin putini sevindirmesi
 https://www.uludagsozluk.com/k/akpnin-rusyac%C4%B1l%C4%B1ktan-tekrar-natoculu%C4%9Fa-d%C3%B6n%C3%BC%C5%9F%C3%BC/
 bkz erdoğanın ayakta bekleriken sıkılması
