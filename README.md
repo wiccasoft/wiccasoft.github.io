@@ -7,7 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz adana01 izlemeyen alevi ama sünnetli erkek
+bkz adana01 izleyen alevi sünnetli ama sert erkek
 bkz hırtlar vadisi vuruşma sahnelerinde ay ben bakamıcam diyen erkek
 bkz çukur vuruşma sahnelerinde yüzünü kapatıp ay diyen erkek kankağ
 bkz muhammedin ayı ikiye yarması
