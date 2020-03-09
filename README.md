@@ -4,7 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-ibbb mhp üyerlerinin ezan okunurken osurması
+bkz atakan kayalar 10 yaşında kitap okuyor arkaşları ona aynştayn diyor
+bkz ibb mhp üyerlerinin ezan okunurken osurması
 bkz ibb mhp pkk tabanının bok partide birleşelim önerisi
 bkz ibb chp üyelerinin ezana bayrağa ibnelik yapması tıklağ haberin detaylarını gör
 bkz ibb chp üyelerinin bayrağı öpüp ezab okuması tıklağ galeriğ açılsın
