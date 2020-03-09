@@ -4,6 +4,7 @@
 
 
 <!-- 
+https://stjarnhimlen.se/comp/ppcomp.html#12b
 https://www.uludagsozluk.com/k/size-verece%C4%9Fim-bilginin-amk/
 bzz serkan inci yapınca auuu dürümcü yapınca tu kaka
 bkz mao zedong yapınca öcü gibi korkuyorlar mao zedong yoldaştan lenin yapınca auuuuuuu
