@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tengir budun doğanın putini ayakta ziyaret etmesi
 bkz erdoğanın ayakta bekleriken sıkılması
 bkz 500t de ayakta beklerken otobüs direğine asılıp kafayı yana yatırmak (en sevdiğim)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-putin-i-2-dakika-ayakta-bekletmesi/
