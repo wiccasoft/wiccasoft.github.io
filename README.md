@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz ibb chp nini stiklala marşına malafatı çıkarıp sallaması
+bkz ibb chp nin stiklal marşına ıslıklaması
 https://www.uludagsozluk.com/k/ibb-chp-%C3%BCyelerinin-istiklal-mar%C5%9F%C4%B1nda-oturmas%C4%B1/ 
 bkz hadizenin bu halini hiiç görmediniz galeriğ tıklağ
 bkz macun kaplıcalının makyajlı fotosu galeriğ tıklağ
