@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz macun kaplıcalının hadi açıkgözün makyajsız fotosunu paylaşması
+bkz hadi açıkgözün 5 megopixel makyajsız fotosu
 bkz şehitler tepesi dedim sepeti demedim
 bkz sakine cansızın cansız bedeninin şehitler tepesine kaldırılması
 bkz tayyip beş dk bekletildi yalanı tapeleri
