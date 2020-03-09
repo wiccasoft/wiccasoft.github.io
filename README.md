@@ -6,7 +6,7 @@
 <!--
 bkz bi ülkede 200 tane parti mi olur lan
 bkz türkiyenin çok partili sistemi çok yanlış anlaması
-bkz yeniden hak ya hak partisi
+bkz yeniden hak ya hak partisi nin mitoz bölünmesi
 bkz dava adamıyız partisinin gümbür gümbür gelmesi
 bkz atakayn kayalay 10 yaşında kitap okuyor inanılmaz sayın seyirciler
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-piyasadan-silinmesi/
