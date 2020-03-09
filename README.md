@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz  ali babacanın ben sizin babanızım şarkısını paylaşması
 bkz süleyman soylunun erdonun ceketini tutması
 bkz putinin erdoya attığı bakış
 bkz patlak kızların suda çıkardığı ses
