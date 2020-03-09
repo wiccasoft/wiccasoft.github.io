@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz dava adamıyız partisinin gümbür gümbür gelmesi
 bkz hayklaryın demoğğratiğ partisinde ypılan terbiyesizlik
 bkz atakayn kayalay 10 yaşında kitap okuyor inanılmaz sayın seyirciler
 https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-piyasadan-silinmesi/
