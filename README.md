@@ -3,6 +3,7 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 <!-- 
+bkz manuş babanın yapcağınız işin amk demesi
 bkz ali babuşcanın tatlı tatlı uyuyodum ne oldu yine demesi
 bkz tayyibin sarayın çatısında delik var demesi
 bkz denize erdo mu düşse kurtarırsın putin mi sorunsalı
