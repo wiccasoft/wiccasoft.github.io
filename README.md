@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz imamaoğlanın babasının benim oğlan iyi kayar ha demesi
+bkz imamoğlunun erzrma kayağa giderken elzğa uğraması
 bkz imamaoğlanın protokolde şöförü itip çekil lan demesi
 bkz yarrakoğlanın babasının yarrak gibidir benim oğlan demesi
 bkz imamoğlanın babasının oğlanı salim kayın az demesi
