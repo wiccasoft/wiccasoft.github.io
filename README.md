@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz erdoğanın ayakta bekleriken sıkılması
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-putin-i-2-dakika-ayakta-bekletmesi/
 bkz çukur vuruşma sahnelerinde ay diyen kankağ
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=gd vurduruyordur
 https://www.youtube.com/watch?v=gjP7RbDyF-I bkz fake ulan fake sahte yani
