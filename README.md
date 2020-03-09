@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz dünya liderinin esedin ayağına gitmesi
 bkz putinin esedi kapıda karşılayıp elini öptürmesi
 bkz putinin esedi kapıda tek ayak üstünde bekletmesi
 https://www.uludagsozluk.com/k/putin-in-esed-in-geli%C5%9Fini-kap%C4%B1da-beklemesi/
