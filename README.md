@@ -5,7 +5,7 @@
 
 
 <!-- 
-bkz bali babacanın tatlı ttlı uyumuşum içim geçmiş noldu demesi
+bkz bali babacanın tatlı tstlı uyumuşum içim geçmiş noldu demesi
 bkz erdonun beş tepenin yanına havuz medyası yapalım önerisi
 bkz otobüste ayakta uyurken kafayı yan yatırıp tavan demirine asılmak (en sevdiğim)
 bkz erdonun putini iki dakka ayakta bekletmesine sevinene vatan hainleri
