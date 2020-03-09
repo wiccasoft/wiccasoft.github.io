@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/e/42968428/ izleyelim oynat uğurcum
+bkz 5 mart 2020 tek ayak üstünde bekletilen dünya lideri
 bkz imamaoğlanın babasının oğlanı yollim tek kale maç yapın demesi
 https://www.uludagsozluk.com/k/imamo%C4%9Flunun-erzrma-kaya%C4%9Fa-giderken-elz%C4%9Fa-u%C4%9Framas%C4%B1/&w=gd 
 bkz putinin 5dk tek ayak üstünde beklettiği dünya lideri
