@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz j lonun tiktok vidyosu
+bkz hane erçelin hane açıkgözle olan vidyosu
 bkz 5 dk ayakta bekletilen dünya lideri
 bkz 9 mart 2020 muhammedin ayıyı ikiye bölmesi
 bkz sağlam rakı sağlam ficutta olur diyip sirozdan gebermek
