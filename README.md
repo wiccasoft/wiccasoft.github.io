@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/e/42968428/ izleyelim oynat uğurcum
 bkz dünya 5ten büyüktür diyip 5 dk tek ayak üstünde bekletilen dünya lideri
 bkz imamoğlanın amınoğlu olup değilim demesi
 bkz 5 dk tek ayak üstünde bekletilen dünya lideri
