@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/
+https://www.uludagsozluk.com/k/pkk-dhkpc-gibi-ter%C3%B6r-%C3%B6rg%C3%BCtlerinin-feminist-olmas%C4%B1/&w=gd
 bkz erdonun her  gece rakı içtiği yalanı tapelerinin patlaması 
 bkz sağlam rakı sağlam vicutta bulunur diyip sirozdan gebermek
 bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
