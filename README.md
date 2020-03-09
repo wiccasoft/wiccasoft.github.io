@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz muhammedin ayı ikiye yarması
+https://www.uludagsozluk.com/k/hz-muhammed-in-ay-%C4%B1-ikiye-b%C3%B6lmesi/&w=bg
 bkz dava partisinin gümbür gümbür gelmesi
 bkz dünya 5 ten büyüktür diyip tek ayak üstünde bekletilmek
 bkz putinin dünya liderini 5 dk tek ayak üstünde bekletmesi
