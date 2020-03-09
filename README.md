@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz putinni erdoyu ayakta bekletmesi tapelerin cevap veremeyen akitler
 https://www.uludagsozluk.com/k/pinti-panda-n%C4%B1n-khontkar-verdi%C4%9Fi-ayar/
 https://www.uludagsozluk.com/e/42968428/ izleyelim oynat uğurcum
 https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/
