@@ -5,7 +5,7 @@
 
 <!-- 
 bkz erdoğanın ayakta bekleriken sıkılması
-bkz ayakta beklerken otobüs direğine asılıp kafayı yana yatırmak 
+bkz ayakta beklerken otobüs direğine asılıp kafayı yana yatırmak (en sevdiğim)
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-putin-i-2-dakika-ayakta-bekletmesi/
 bkz çukur vuruşma sahnelerinde ay diyen kankağ
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=gd vurduruyordur
