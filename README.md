@@ -5,6 +5,7 @@
 
 <!-- 
 bkz erdonun tapelerinin fake yani sahte çıkması
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/&w=gd
 https://eksisozluk.com/9-mart-2020-berat-albayrakin-aciklamalari--6401790?a=popular bkz burası çokomelli link 
 https://eksisozluk.com/corona-virusunun-turkiyeye-gelmeme-sebebi--6383803?a=popular bkz türk düşmanı olması
 https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular bkz fake news
