@@ -6,7 +6,7 @@
 <!--
 bkz hadize makyajsız fotosu
 bkz j lo tiktok vidyosu
-https://james-earl-cash.uludagsozluk.com/ bkz  zall maaşını yatırmış
+https://james-earl-cash.uludagsozluk.com/ bkz  zall maaşını yatırmış makyajsız fotosu
 https://www.uludagsozluk.com/k/osmanl%C4%B1-tokad%C4%B1yla-gazoz-kapa%C4%9F%C4%B1-a%C3%A7an-adam/
 https://www.uludagsozluk.com/k/hadise-nin-makyajs%C4%B1z-ve-filtresiz-foto%C4%9Fraf%C4%B1/
 bkz macun kaplıcalının makyajlı fotosu
