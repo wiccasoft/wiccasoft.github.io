@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://eksisozluk.com/9-mart-2020-berat-albayrakin-aciklamalari--6401790?a=popular bkz burası çokomelli link 
 https://eksisozluk.com/corona-virusunun-turkiyeye-gelmeme-sebebi--6383803?a=popular bkz türk düşmanı olması
 https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular bkz fake news
 https://eksisozluk.com/erdoganin-bekledigi-goruntulerin-montaj-olmasi--6401383?a=popular bkz fake sahte yani
