@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz hadizenin bu halini hiiç görmediniz galeriğ tıklağ
 bkz macun kaplıcalının makyajlı fotosu galeriğ tıklağ
 bkz hadizenin bi de bu halini görün galeriğ tıklağ
 https://www.uludagsozluk.com/k/ergen-k%C4%B1zlar%C4%B1n-aptal-pi%C3%A7-kurular%C4%B1na-sulanmas%C4%B1/
