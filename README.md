@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz imamoğlunun erzrma kayağa giderken elzğa uğraması
 bkz erdonun 5 tepede putini tek ayak üstünde bekletti yalanı
 bkz dünya 5ten büyüktür diyip 5 dk tek ayak üstünde bekletilen dünya lideri
 https://www.uludagsozluk.com/e/42968428/ izleyelim oynat uğurcum
