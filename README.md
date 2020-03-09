@@ -5,7 +5,7 @@
 
 <!-- 
 bkz 5 dk tek ayak üstünde bekletilen dünya lideri
-bkz imamoğlanın amınoğlanı olup değilim demesi
+bkz imamoğlanın amınoğlu olup değilim demesi
 https://www.uludagsozluk.com/e/42968428/ izleyelim oynat uğurcum
 bkz 5 mart 2020 tek ayak üstünde bekletilen dünya lideri
 bkz imamaoğlanın babasının oğlanı yollim tek kale maç yapın demesi
