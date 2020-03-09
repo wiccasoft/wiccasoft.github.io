@@ -8,6 +8,7 @@
 
 <!--
 bkz adana01 izlemeyen erkekimsi
+bkz hırtlar vadisi vuruşma sahnelerinde ay ben bakamıcam diyen erkek
 bkz çukur vuruşma sahnelerinde yüzünü kapatıp ay diyen erkek kankağ
 bkz muhammedin ayı ikiye yarması
 bkz çukur vuruşma sahnelerinde ay diyen kankağ
