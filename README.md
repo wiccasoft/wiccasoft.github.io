@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türkiyenin çok partili sistemi çok yanlış anlaması
 bkz yeniden hak yhak partisi
 bkz dava adamıyız partisinin gümbür gümbür gelmesi
 bkz hayklaryın demoğğratiğ partisinde ypılan terbiyesizlik
