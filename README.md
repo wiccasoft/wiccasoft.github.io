@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/henry-cavill/&w=bg bkz allahın lütfu
 bkz hadizenin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/hadise-nin-makyajsız-ve-filtresiz-fotoğrafı/
 https://www.youtube.com/watch?v=gjP7RbDyF-I  fake ulan fake sahte yani
