@@ -3,37 +3,7 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-https://www.uludagsozluk.com/k/t%C4%B1r-oyunu-oynarken-kendinden-ge%C3%A7en-gen%C3%A7/ tıklağ izleğ
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-ama-paras%C4%B1z-erkek/&w=bg bkz enes batur
-https://www.uludagsozluk.com/k/ibb-chp-%C3%BCyelerinin-istiklal-mar%C5%9F%C4%B1nda-oturmas%C4%B1/ 
-bkz hadizenin bu halini hiiç görmediniz galeriğ tıklağ
-bkz macun kaplıcalının makyajlı fotosu galeriğ tıklağ
-bkz hadizenin bi de bu halini görün galeriğ tıklağ
-bkz ünlü sunucunun bi de bu halini görün
-bkz burcu esmersoy makyajsız fotosu tıklağ be kankağ hadi bekankağğğğ
-bkz hadize makyajsız ve filtresiz fotozu
-bkz hadize makyajsız fotosu
-bkz j lo tiktok vidyosu
-https://james-earl-cash.uludagsozluk.com/ bkz  zall maaşını yatırmış makyajsız fotosu
-bkz macun kaplıcalının makyajlı fotosu
-bkz hadise açıkgözün 5 megopixel makyajsız fotosu
-bkz şehitler tepesi dedim sepeti demedim
-bkz sakine cansızın cansız bedeninin şehitler tepesine kaldırılması
-bkz tayyip beş dk bekletildi yalanı tapeleri
-bkz tayyipin esedi kıskanması yalanı tapeleri
-bkz putinin esedi kapıta karşılaması taplerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/putin-in-esed-in-geli%C5%9Fini-kap%C4%B1da-beklemesi/
-bkz 5 dk ayakta bekletilen dünya lideri
-bkz 9 mart 2020 muhammedin ayıyı ikiye bölmesi
-bkz sağlam rakı sağlam ficutta olur diyip sirozdan gebermek
-bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/
-https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/ 
-https://www.uludagsozluk.com/k/hz-muhammed-in-ay-%C4%B1-ikiye-b%C3%B6lmesi/&w=gd
-https://www.uludagsozluk.com/k/putin-in-esed-in-geli%C5%9Fini-kap%C4%B1da-beklemesi/ 
--->
+
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
