@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz putinin erdoya attığı bakış
 bkz patlak kızların suda çıkardığı ses
 bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
 bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
