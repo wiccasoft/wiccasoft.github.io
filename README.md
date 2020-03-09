@@ -6,29 +6,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!--
-bkz adana01 izleyen yezidi ama sert erkek
-bkz hırtlar vadisi vuruşma sahnelerinde ay ben bakamıcam diyen erkek
-bkz çukur vuruşma sahnelerinde yüzünü kapatıp ay diyen erkek kankağ
-bkz muhammedin ayı ikiye yarması
-bkz çukur vuruşma sahnelerinde ay diyen kankağ
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=gd vurduruyordur
-https://www.uludagsozluk.com/k/henry-cavill/&w=bg bkz allahın lütfu
-bkz hadizenin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/hadise-nin-makyajsız-ve-filtresiz-fotoğrafı/
-https://www.youtube.com/watch?v=gjP7RbDyF-I  fake ulan fake sahte yani
-bkz türkiyenin çok partili sistemi çok yanlış anlaması
-bkz yeniden hak ya hak partisi nin mitoz bölünmesi
-bkz 500t de ayakta beklerken otobüs direğine asılıp kafayı yana yatırmak (en sevdiğim)
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-putin-i-2-dakika-ayakta-bekletmesi/
-bkz çukur vuruşma sahnelerinde ay diyen kankağ
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=gd vurduruyordur
-https://www.youtube.com/watch?v=gjP7RbDyF-I bkz fake ulan fake sahte yani
-bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/
-https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/ 
--->
 
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
