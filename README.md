@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz parti kurup paraları cukkalamak
 bkz demokraisi ve atılım partisinin ödenekten kaç para alıcaz hacı demesi
 bkz putinni erdoyu 5 dk ayakta bekletmesi
 bkz j lonun kalçalarını aldırması
