@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz hadizenin bi de bu halini görün galeriğ tıklağ
+https://www.uludagsozluk.com/k/ergen-k%C4%B1zlar%C4%B1n-aptal-pi%C3%A7-kurular%C4%B1na-sulanmas%C4%B1/
 https://www.uludagsozluk.com/k/hadise-nin-makyajs%C4%B1z-ve-filtresiz-foto%C4%9Fraf%C4%B1/ bi de bu haliyle görün
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz tıklağ izleğ
 bkz ünlü sunucunun bi de bu halini görün
