@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz medyedevin duma da uyuya kalması
 bkz ünlü siyasetçinin bir de babasını görün galeriğ tıklağ
 bkz bali babacanın bali çekerken kameralara yakalandığı görüntüler galeriğ tıklağ
 bkz bi atakan kayalar vardı noldu ona
