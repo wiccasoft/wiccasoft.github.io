@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz demoğrasi ve atılım partisinin biz de kayarız amuğa goyim demesi
 bkz hadise açıkgözün makyajsız fotosu
 bkz imamoğlanın babasının oğlan kaymasın mı demesi
 bkz macun kaplıcalının imamoğlana kıyak geçmesi
