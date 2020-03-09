@@ -3,64 +3,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular bkz fake sahte yani
-https://www.uludagsozluk.com/k/partili-cumhurba%C5%9Fkan%C4%B1-81-milyonu-temsil-edemez/ adam haklı beyler
-bkz erdonun beklediği tapelerin fake yani sahte çıkması
-bkz erdonun çok partili sisteme geçelim önerisi
-bkz erdonun tapelerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/e/42969335/ bkz arkaaşları ona aynştayn diyor
-bkz putin erdoyu ayakta bekletti yalanı
-bkz erdo putinni ayakta bekletti yalanının patlaması
-bkz erdonun beklediği tapelerin fake çıkması
-https://www.uludagsozluk.com/k/vladimir-putin/&w=bg bkz putinin erdoya eğilip büküldü yalanı
-bkz erdonun tapelerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/&w=gd
-https://eksisozluk.com/9-mart-2020-berat-albayrakin-aciklamalari--6401790?a=popular bkz burası çokomelli link 
-https://eksisozluk.com/corona-virusunun-turkiyeye-gelmeme-sebebi--6383803?a=popular bkz türk düşmanı olması
-https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular bkz fake news
-https://eksisozluk.com/erdoganin-bekledigi-goruntulerin-montaj-olmasi--6401383?a=popular bkz fake sahte yani
-bkz erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
-https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/
-https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/ 
-bkz vladın merkele attığı bakış
-bkz erdonun tapeler sahte fake yani demesi
-bkz erdonun beklediği götüntülerin fake çıkması
-bkz erdonun damadın seks tapeleri fake demesi
-bkz erdonun tapeler fake demesi
-bkz süleyman soylunun damadın elini sıkmaması
-bkz putinin 10 dakika geciktim yine noldu amk demesi
-bkz manuş babanın yapcağınız işin amk demesi
-bkz ali babuşcanın tatlı tatlı uyuyodum ne oldu yine demesi
-bkz tayyibin sarayın çatısında delik var demesi
-bkz denize erdo mu düşse kurtarırsın putin mi sorunsalı
-bkz atacücünün reisi ayakta bekletmesi
-bkz atacücünün atacanı denize dökmesi
-bkz bali babacanın tatlı tatlı uyumuşum içim geçmiş noldu demesi
-bkz erdonun beş tepenin yanına havuz medyası yapalım önerisi
-bkz otobüste ayakta uyurken kafayı yan yatırıp tavan demirine asılmak (en sevdiğim)
-bkz erdonun putini iki dakka ayakta bekletmesine sevinene vatan hainleri
-bkz bahçelinin çay içerken çok enerji harcamıyorum açıklması
-bkz mecliste çıkan erbedede bacağı ısırılan adamın kuduz aşısı olması
-bkz medyedevin duma da uyuya kalması
-bkz davutoğlanın kulisler düşne bomba gibi iddaları
-bkz ünlü siyasetçinin bir de babasını görün galeriğ tıklağ
-bkz bali babacanın bali çekerken kameralara yakalandığı görüntüler galeriğ tıklağ
-bkz bi atakan kayalar vardı noldu ona
-bkz ali babacanın ben sizin babanızım şarkısını paylaşması
-bkz süleyman soylunun erdonun ceketini tutması
-bkz putinin erdoya attığı bakış
-bkz patlak kızların suda çıkardığı ses
-bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
-bkz mao zedongun her gece rakı içmesi
-bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
-bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
-https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular
-https://eksisozluk.com/erdogan-ayakta-bekletilince-sevinenler--6401587?a=popular
--->
-
-
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
