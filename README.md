@@ -5,9 +5,8 @@
 
 <!--
 bkz tayyip beş dk bekletildi yalanı tapeleri
-bkz ecevitin clinton karşısında iki büklüm olduğu foto
-bkz tayyipin esedi kıskanması
-bkz putinin esedi kapıta karşılaması
+bkz tayyipin esedi kıskanması yalanı tapeleri
+bkz putinin esedi kapıta karşılaması taplerinin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/putin-in-esed-in-geli%C5%9Fini-kap%C4%B1da-beklemesi/
 bkz 5 dk ayakta bekletilen dünya lideri
 bkz 9 mart 2020 muhammedin ayıyı ikiye bölmesi
