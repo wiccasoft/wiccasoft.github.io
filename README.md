@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz erkek misin sen lan diyen ergene değilim ayol demek 
 bkz kelli felli adamların sertlik yapacağına yumuşaklık yapması
 bkz rallın çukur vuruma sahnelerinde ay demesi
 bkz lenovanın uzun siyasi analizlerinin putini sevindirmesi
