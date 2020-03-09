@@ -8,6 +8,7 @@
 bkz bali babacanın uyuyakalması
 bkz erdonun bi daha gelmem davosa demesi
 bkz erdonun otobüste ayakta uyuması
+bkz otobüste ayakta uyurken kafayı yan yatırıp tavan demirine asılmak
 bkz erdonun putini iki dakka ayakta bekletmesine sevinene vatan hainleri
 bkz bahçelinin çay içerken çok enerji harcamıyorum açıklması
 bkz mecliste çıkan erbedede bacağı ısırılan adamın kuduz aşısı olması
