@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz tayyip veş dk bekletildi yalanı tapeleri
+bkz tayyip beş dk bekletildi yalanı tapeleri
 bkz ecevitin clinton karşısında iki büklüm olduğu foto
 bkz tayyipin esedi kıskanması
 bkz putinin esedi kapıta karşılaması
