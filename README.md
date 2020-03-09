@@ -3,6 +3,12 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+<!-- bkz erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
+https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/
+https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/ 
+-->
+
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
 [![Image](waste/Screenshot_2020-02-27_06-44-45.png)]( https://www.youtube.com/watch?v=sZLTMC-BMCI )
