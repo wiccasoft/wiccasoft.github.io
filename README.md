@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz fatih maçoğlanın imamaoğlanı erzmda kayak takımlarını taşıması
 bkz besim tibukun  timur besiliye ananı da al git demesi
 bkz adnan menderesin halkı selamlerken düğmelerini ilklemesi
 https://www.uludagsozluk.com/k/1934-y%C4%B1l%C4%B1-atat%C3%BCrk-%C3%BCn-pehlevi-yi-kar%C5%9F%C4%B1lama-videosu/&w=bg
