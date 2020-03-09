@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz muhammedin ayı ikiye yarması
 bkz çukur vuruşma sahnelerinde ay diyen kankağ
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=gd vurduruyordur
 https://www.uludagsozluk.com/k/henry-cavill/&w=bg bkz allahın lütfu
