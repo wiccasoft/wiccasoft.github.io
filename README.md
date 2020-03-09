@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz imamaoğlanın babasının oğlanı yollim tek kale maç yapın demesi
+https://www.uludagsozluk.com/k/imamo%C4%9Flunun-erzrma-kaya%C4%9Fa-giderken-elz%C4%9Fa-u%C4%9Framas%C4%B1/&w=gd 
 bkz putinin 5dk tek ayak üstünde beklettiği dünya lideri
 https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/&w=gd izleyelim
 bkz putinni erdoyu ayakta bekletmesi tapelerin cevap veremeyen akitler
