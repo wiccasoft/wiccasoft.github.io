@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz imamaoğlanın erzma kayak yaparken kayak yapması
 bkz imamaoğlanın yakın 5mego pixel fotoları
 bkz fatih maçoğlanın imamaoğlanı erzmda kayak takımlarını taşıması
 bkz besim tibukun  timur besiliye ananı da al git demesi
