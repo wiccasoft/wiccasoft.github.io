@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz patlak kızların suda çıkardığı ses
 bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
 bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
 https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular
