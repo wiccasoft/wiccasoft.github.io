@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz vladın merkele attığı bakış
 bkz erdonun tapeler sahte fake yani demesi
 bkz erdonun beklediği götüntülerin fake çıkması
 bkz erdonun damadın seks tapeleri fake demesi
