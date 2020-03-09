@@ -5,7 +5,6 @@
 
 <!--
 bkz 9 mart 2020 muhammedin ayıyı ikiye bölmesi
-https://www.uludagsozluk.com/k/pkk-dhkpc-gibi-ter%C3%B6r-%C3%B6rg%C3%BCtlerinin-feminist-olmas%C4%B1/
 bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/
