@@ -5,7 +5,7 @@
 
 
 <!-- 
-bkz mecliste bacağı ısırılan adamın kduz aşısı olması
+bkz mecliste çıkan erbedede bacağı ısırılan adamın kuduz aşısı olması
 bkz medyedevin duma da uyuya kalması
 bkz davutoğlanın kulisler düşne bomba gibi iddaları
 bkz ünlü siyasetçinin bir de babasını görün galeriğ tıklağ
