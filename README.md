@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/hadise-nin-makyajs%C4%B1z-ve-filtresiz-foto%C4%9Fraf%C4%B1/
 bkz macun kaplıcalının makyajlı fotosu
 bkz hadise açıkgözün 5 megopixel makyajsız fotosu
 bkz şehitler tepesi dedim sepeti demedim
