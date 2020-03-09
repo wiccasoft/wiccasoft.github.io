@@ -4,10 +4,10 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz putinin erdoyu ayakta bekletmesi
 bkz parti kurup paraları cukkalamak
 bkz demokraisi ve atılım partisinin ödenekten kaç para alıcaz hacı demesi
-bkz putinni erdoyu 5 dk ayakta bekletmesi
-bkz j lonun kalçalarını aldırması
+bkz putinin erdoyu 5 dk ayakta bekletmesi
 bkz konthakar ın ens batura diss atması
 bkz ali babuşcanın taltlı tatlı uyuyakalmışım noldu yine demesi
 bkz demoğrasi ve atılım partisinin biz de kayarız amuğa goyim demesi
