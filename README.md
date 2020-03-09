@@ -4,8 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz macun kaplıcalının imamaoğluna kıyak geçmesi
 bkz hadise açıkgözün makyajsız fotosu
+bkz macun kaplıcalının imamaoğluna kıyak geçmesi
 bkz besim tibukoğlanın kaymaya oğluyla gitmesi
 bkz fatih maçoğlanın imamaoğlanı erzmda kayak takımlarını taşıması
 bkz besim tibukun timur besiliye ananı da al git demesi
