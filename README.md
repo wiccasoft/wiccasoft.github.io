@@ -2,10 +2,8 @@
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
-
-
 <!-- 
-bkz bali babacanın tatlı tstlı uyumuşum içim geçmiş noldu demesi
+bkz bali babacanın tatlı tatlı uyumuşum içim geçmiş noldu demesi
 bkz erdonun beş tepenin yanına havuz medyası yapalım önerisi
 bkz otobüste ayakta uyurken kafayı yan yatırıp tavan demirine asılmak (en sevdiğim)
 bkz erdonun putini iki dakka ayakta bekletmesine sevinene vatan hainleri
