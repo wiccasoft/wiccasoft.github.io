@@ -5,6 +5,13 @@
 
 
 <!-- 
+bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
+bkz khontkarın karıları kudurtması
+bkz karılar gününün çok abartılması
+bkz meriçlerin karılar gününde coşması
+bkz mao zedongun her gece rakı içmesi
+bkz berkecanın karılara jest olsun diye yaptığı tepki dolu hareket
+bkz czn burakın karılara jest olsun diye karı şeklinde döner kesmesi 
 https://eksisozluk.com/erdoganin-putini-2-dakika-ayakta-beklemesi--6401209?a=popular
 https://eksisozluk.com/erdogan-ayakta-bekletilince-sevinenler--6401587?a=popular
 -->
