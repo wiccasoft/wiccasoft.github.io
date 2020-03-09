@@ -4,7 +4,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz bi ülkede 200 tane parti mi olur lan
 bkz türkiyenin çok partili sistemi çok yanlış anlaması
 bkz yeniden hak ya hak partisi nin mitoz bölünmesi
 bkz dava adamıyız partisinin gümbür gümbür gelmesi
