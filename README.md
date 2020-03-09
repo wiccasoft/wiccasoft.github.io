@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz putini esedi kapıda tek ayak üstünde beklemesi
+https://www.uludagsozluk.com/k/putin-in-esed-in-geli%C5%9Fini-kap%C4%B1da-beklemesi/
 bkz rıza pehlevinin atacücüyle kahve içerkenki fotoları
 bkz ulus devletler neden kürt olmalıdır
 bkz muhammedini bi koyması ayın yarılması
