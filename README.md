@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz çukur vuruşma sahnesi izlerken kankayı vuruşak mı demek
+bkz çukur vuruşma sahnelerinde ay diyen kankağ
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=gd vurduruyordur
 https://www.youtube.com/watch?v=gjP7RbDyF-I bkz fake ulan fake sahte yani
 bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
