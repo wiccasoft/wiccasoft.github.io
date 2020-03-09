@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz lenovanın uzun siyasi analizlerinin putini sevindirmesi
+https://www.uludagsozluk.com/k/akpnin-rusyac%C4%B1l%C4%B1ktan-tekrar-natoculu%C4%9Fa-d%C3%B6n%C3%BC%C5%9F%C3%BC/
 bkz tengir budun doğanın putini ayakta ziyaret etmesi
 bkz erdoğanın ayakta bekleriken sıkılması
 bkz 500t de ayakta beklerken otobüs direğine asılıp kafayı yana yatırmak (en sevdiğim)
