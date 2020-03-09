@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz bali babacanın uyuyakalması
 bkz erdonun bi daha gelmem davosa demesi
 bkz erdonun putini iki dakka ayakta bekletmesine sevinene vatan hainleri
 bkz bahçelinin çay içerken çok enerji harcamıyorum açıklması
