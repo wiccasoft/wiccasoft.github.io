@@ -7,17 +7,12 @@
 bkz hadizenin bu halini hiiç görmediniz galeriğ tıklağ
 bkz macun kaplıcalının makyajlı fotosu galeriğ tıklağ
 bkz hadizenin bi de bu halini görün galeriğ tıklağ
-https://www.uludagsozluk.com/k/ergen-k%C4%B1zlar%C4%B1n-aptal-pi%C3%A7-kurular%C4%B1na-sulanmas%C4%B1/
-https://www.uludagsozluk.com/k/hadise-nin-makyajs%C4%B1z-ve-filtresiz-foto%C4%9Fraf%C4%B1/ bi de bu haliyle görün
-https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz tıklağ izleğ
 bkz ünlü sunucunun bi de bu halini görün
 bkz burcu esmersoy makyajsız fotosu tıklağ be kankağ hadi bekankağğğğ
 bkz hadize makyajsız ve filtresiz fotozu
 bkz hadize makyajsız fotosu
 bkz j lo tiktok vidyosu
 https://james-earl-cash.uludagsozluk.com/ bkz  zall maaşını yatırmış makyajsız fotosu
-https://www.uludagsozluk.com/k/osmanl%C4%B1-tokad%C4%B1yla-gazoz-kapa%C4%9F%C4%B1-a%C3%A7an-adam/
-https://www.uludagsozluk.com/k/hadise-nin-makyajs%C4%B1z-ve-filtresiz-foto%C4%9Fraf%C4%B1/
 bkz macun kaplıcalının makyajlı fotosu
 bkz hadise açıkgözün 5 megopixel makyajsız fotosu
 bkz şehitler tepesi dedim sepeti demedim
