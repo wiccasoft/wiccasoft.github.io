@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz tayyipin esedi kıskanması
 bkz putinin esedi kapıta karşılaması
 https://www.uludagsozluk.com/k/putin-in-esed-in-geli%C5%9Fini-kap%C4%B1da-beklemesi/
 bkz 5 dk ayakta bekletilen dünya lideri
