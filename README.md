@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz 
+bkz putinin dünya liderini 5 dk tek ayak üstünde bekletmesi
 bkz sağlam rakı sağlam vidutta olur diyip sirozdan gebermek
 bkz jeremain lens in lens takmıyorum demesi
 bkz putinin erdoyu ayakta bekletmesi
