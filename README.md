@@ -3,6 +3,7 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 <!-- 
+bkz tayyibin sarayda delik var demesi
 bkz denize erdo mu düşse kurtarırsın putin mi sorunsalı
 bkz atacücünün reisi ayakta bekletmesi
 bkz atacücünün atacanı denize dökmesi
