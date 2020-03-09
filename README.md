@@ -5,7 +5,8 @@
 
 <!-- 
 bkz hadise açıkgözün makyajsız fotosu
-bkz macun kaplıcalının imamaoğluna kıyak geçmesi
+bkz imamoğlanın babasının oğlan kaymasın mı demesi
+bkz macun kaplıcalının imamoğlana kıyak geçmesi
 bkz besim tibukoğlanın kaymaya oğluyla gitmesi
 bkz fatih maçoğlanın imamaoğlanı erzmda kayak takımlarını taşıması
 bkz besim tibukun timur besiliye ananı da al git demesi
