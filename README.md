@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ibb chp üyelerinin ezana bayrağa ibnelik yapması tıklağ haberin detaylarını gör
 bkz ibb chp üyelerinin bayrağı öpüp ezab okuması tıklağ galeriğ açılsın
 bkz ozan tufanın radeamel falco garcia artasındaki sürtüşme tıklağ galeriğ açılsın
 bkz ozan tufan alper potukla iyi bi ikili olduk açıklaması
