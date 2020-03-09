@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz süleyman soylunun erdonun ceketini tutması
 bkz putinin erdoya attığı bakış
 bkz patlak kızların suda çıkardığı ses
 bkz nomr ender yapınca auuuuuu khontkat yapınca tu kaka
