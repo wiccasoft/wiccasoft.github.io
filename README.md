@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ozan tufan bensiz foğrafı tıklağ galeriğ açılsın
 bkz ozan tufandan olay yaratacak paylaşımlar
 bkz akp nin avrasyacılıktan mavrasyaclığa geçmesi
 bkz hadizenin hadise yaratan paylaşımları şok şok şok
