@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz bahçelinin çay içerken çok enerji harcamıyorum açıklması
 bkz mecliste çıkan erbedede bacağı ısırılan adamın kuduz aşısı olması
 bkz medyedevin duma da uyuya kalması
 bkz davutoğlanın kulisler düşne bomba gibi iddaları
