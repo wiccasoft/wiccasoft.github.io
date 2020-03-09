@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-https://www.youtube.com/watch?v=gjP7RbDyF-I bkz fake ulan fake sahte yani
+https://www.youtube.com/watch?v=gjP7RbDyF-I  fake ulan fake sahte yani
 bkz türkiyenin çok partili sistemi çok yanlış anlaması
 bkz yeniden hak ya hak partisi nin mitoz bölünmesi
 bkz dava adamıyız partisinin gümbür gümbür gelmesi
