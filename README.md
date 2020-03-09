@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz hadize açıkgözü makyaşsız fotoğrafı tıklağ galeriğ açılsın
 bkz ismail türütün adam var racon keser adam var naylon fatura keser demesi
 bkz tarabyada uşaklar etilerde yumuşakalr
 https://www.uludagsozluk.com/k/kelli-felli-adamlar%C4%B1n-yumu%C5%9Faklar-gibi-ya%C5%9Famas%C4%B1/
