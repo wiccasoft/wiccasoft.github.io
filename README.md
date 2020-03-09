@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz bahçelinin tiktok miktok ney lan demesi
+bkz bahçelinin tiktok ney lan demesi
 bkz j lonun makyajszı hali
 bkz j lonun tiktok vidyosu
 bkz hane erçelin hane açıkgözle olan vidyosu
