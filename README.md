@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz sakine cansızın cansız bedeninin şehitler tepesine kaldırılması
 bkz tayyip beş dk bekletildi yalanı tapeleri
 bkz tayyipin esedi kıskanması yalanı tapeleri
 bkz putinin esedi kapıta karşılaması taplerinin fake yani sahte çıkması
