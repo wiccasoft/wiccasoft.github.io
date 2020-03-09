@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/vladimir-putin/&w=bg bkz kaba ve ruhsuz
 bkz putin erdo seks tapesinin fake çıkması
 bkz putin erdoyu ayakta bekletti yalanı
 bkz erdo putinni ayakta bekletti yalanının patlaması
