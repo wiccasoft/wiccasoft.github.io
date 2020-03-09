@@ -4,7 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz putinin 5 dk ayakta bekletmesi tapelerinin düşmesi
+https://www.uludagsozluk.com/e/42968428/ izleyelim oynat uğurcum
 https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/
 https://www.uludagsozluk.com/k/pkk-dhkpc-gibi-ter%C3%B6r-%C3%B6rg%C3%BCtlerinin-feminist-olmas%C4%B1/&w=gd
 bkz erdonun her  gece rakı içtiği yalanı tapelerinin patlaması 
