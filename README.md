@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz erdonun beklediği tapelerin fake çıkması
 https://www.uludagsozluk.com/k/vladimir-putin/&w=bg bkz putinin erdoya eğilip büküldü yalanı
 bkz erdonun tapelerinin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/&w=gd
