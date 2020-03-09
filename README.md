@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atakayn kayalar 10 yaşındaki kitap okuyor inanılmaz sayın seyirciler
+https://www.uludagsozluk.com/k/atakan-kayalar-%C4%B1n-piyasadan-silinmesi/
 bkz atakan kayalar 10 yaşında kitap okuyor arkaşları ona aynştayn diyor
 bkz ibb mhp üyerlerinin ezan okunurken osurması
 bkz ibb mhp pkk tabanının bok partide birleşelim önerisi
