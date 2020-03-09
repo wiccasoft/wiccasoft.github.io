@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg bkz tıklağ izleğ
 bkz ünlü sunucunun bi de bu halini görün
 bkz burcu esmersoy makyajsız fotosu tıklağ be kankağ hadi bekankağğğğ
 bkz hadize makyajsız ve filtresiz fotozu
