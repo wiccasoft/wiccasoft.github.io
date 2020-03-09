@@ -5,6 +5,7 @@
 
 
 <!-- 
+bkz erdonun beş tepenin yanına havuz medyası yapalım önerisi
 bkz bali babacanın uyuyakalması
 bkz erdonun bi daha gelmem davosa demesi
 bkz erdonun otobüste ayakta uyuması
