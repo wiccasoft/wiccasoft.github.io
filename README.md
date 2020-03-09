@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz adana01 izlemeyen erkek
 bkz çukur vuruşma sahnelerinde yüzünü kapatıp ay diyen erkek kankağ
 bkz muhammedin ayı ikiye yarması
 bkz çukur vuruşma sahnelerinde ay diyen kankağ
