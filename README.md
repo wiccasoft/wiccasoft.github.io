@@ -5,10 +5,8 @@
 
 
 <!-- 
-bkz erdonun beş tepenin yanına havuz medyası yapalım önerisi
 bkz bali babacanın uyuyakalması
-bkz erdonun bi daha gelmem davosa demesi
-bkz erdonun otobüste ayakta uyuması
+bkz erdonun beş tepenin yanına havuz medyası yapalım önerisi
 bkz otobüste ayakta uyurken kafayı yan yatırıp tavan demirine asılmak (en sevdiğim)
 bkz erdonun putini iki dakka ayakta bekletmesine sevinene vatan hainleri
 bkz bahçelinin çay içerken çok enerji harcamıyorum açıklması
