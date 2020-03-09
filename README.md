@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz imamaoğlanın babasının oğlanı salim kayın az demesi
 bkz süleyman soylunun damadın elini ititp gavat demesi
 https://www.uludagsozluk.com/k/kktc-polisinin-bm-askerlerini-ittirerek-s%C3%BCrmesi/
 bkz imamaoğlanın babasının oğlan kaymasın mı demesi
