@@ -5,7 +5,7 @@
 
 
 <!-- 
-bkz bali babacanın bali çekerken yakalandığı görüntüler
+bkz bali babacanın bali çekerken kameralara yakalandığı görüntüler galeriğ tıklağ
 bkz bi atakan kayalar vardı noldu ona
 bkz ali babacanın ben sizin babanızım şarkısını paylaşması
 bkz süleyman soylunun erdonun ceketini tutması
