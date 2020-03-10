@@ -8,6 +8,7 @@
 
 
 <!-- 
+bkz hepsiorada.com un fettulak gülen maketi satması
 bkz sahibinden.com da satılan radamel falco garcia maketi
 bkz 11 mart 2020 radamel falco garcianın mesut bakkala attığı akış
 bkz 11 mart 2020 mesut bakkalın melik gökçek attığım bakış fake değildi açıklaması
