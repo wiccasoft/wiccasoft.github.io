@@ -8,6 +8,7 @@
 
 <!-- 
 bjz damadın fenerbahçe düşmanlığı
+bkz jeramie lensin elif terime verdiği efso ayar
 bkz elif can yetimin wiccasoft tan hala istifa etmemesi
 https://www.youtube.com/watch?v=ZEZ09WM0_5U hiç bi şekilde savunmuyomuş
 https://www.youtube.com/watch?v=gjP7RbDyF-I fake ulan fake sahte yani
