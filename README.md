@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz elif can yetimin wiccasoft tan hala istifa etmemesi
 https://www.youtube.com/watch?v=ZEZ09WM0_5U hiç bi şekilde savunmuyorum
 https://www.youtube.com/watch?v=gjP7RbDyF-I fake ulan fake sahte yani
 bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
