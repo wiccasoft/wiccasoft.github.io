@@ -6,6 +6,18 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+<!-- 
+bkz fettullah gülenin cemati korumak için adayı karantinaya alması
+https://www.youtube.com/watch?v=EfAsNffCjsM allak ne süper lan
+https://www.uludagsozluk.com/k/koronavir%C3%BCsten-%C3%B6len-m%C3%BCsl%C3%BCman-%C5%9Fehit-say%C4%B1l%C4%B1r/&w=bg
+bkz 10 mart 2020 mesut bakkalın covid19 virüstür bakkallarda antivürüsü bulunmaz açıklaması
+https://www.youtube.com/watch?v=ZEZ09WM0_5U hiç bi şekilde savunmuyomuş
+https://www.youtube.com/watch?v=gjP7RbDyF-I fake ulan fake sahte yani
+bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
+https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-bekledi%C4%9Fi-g%C3%B6r%C3%BCnt%C3%BClerin-montaj-olmas%C4%B1/
+https://www.uludagsozluk.com/k/putin-in-erdo%C4%9Fan-%C4%B1-2-dakika-ayakta-bekletmesi/ 
+-->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
