@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz sağlık bakanlığınıb virüse karşı yasa çıkartıp hapse attırması
 bkz ata cücü neden hawaii ye neden saldırmadı
 bkz sağlam rakı sağlam vicutta olur diyip sirozdan gebermek
 bkz fettullah gülenin cemati korumak için adayı karantinaya alması
