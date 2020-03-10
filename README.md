@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.youtube.com/watch?v=EfAsNffCjsM allak ne süper lan
 bkz damadın fenerbahçe düşmanlığı
 bkz jeramie lensin elif can terime verdiği efso ayar
 bkz elif can yetimin wiccasoft tan hala istifa etmemesi
