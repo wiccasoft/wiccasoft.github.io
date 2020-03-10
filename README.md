@@ -7,11 +7,11 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz sağlık bakanlığının virüse karşı yasa çıkartıp virüsü hapse attırması
-bkz ata cücü neden hawaii ye neden saldırmadı
+bkz ata cücü neden hawaii ye neden saldırmadı sorunsalı
 bkz sağlam rakı sağlam vicutta olur diyip sirozdan gebermek
 bkz fettullak gülenin cemati korumak için adayı karantinaya alması
 https://www.youtube.com/watch?v=EfAsNffCjsM allak ne süper lan
+bkz 10 mart 2020 sağlık bakanlığının virüse karşı yasa çıkartıp virüsü hapse attırması
 https://www.uludagsozluk.com/k/koronavir%C3%BCsten-%C3%B6len-m%C3%BCsl%C3%BCman-%C5%9Fehit-say%C4%B1l%C4%B1r/&w=bg
 bkz 10 mart 2020 mesut bakkalın covid19 virüstür bakkallarda antivürüsü bulunmaz açıklaması
 https://www.youtube.com/watch?v=ZEZ09WM0_5U hiç bi şekilde savunmuyomuş
