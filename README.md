@@ -7,7 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz ata cücü neden hawaii ye neden saldırmadı sorunsalı
+bkz atacücü neden hawaii ye neden saldırmadı sorunsalı
 bkz sağlam rakı sağlam vicutta olur diyip sirozdan gebermek
 bkz fettullak gülenin cemati korumak için adayı karantinaya alması
 https://www.youtube.com/watch?v=EfAsNffCjsM allak ne süper lan
