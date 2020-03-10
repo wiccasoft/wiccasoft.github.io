@@ -8,7 +8,7 @@
 
 <!-- 
 bkz elif can yetimin wiccasoft tan hala istifa etmemesi
-https://www.youtube.com/watch?v=ZEZ09WM0_5U hiç bi şekilde savunmuyor
+https://www.youtube.com/watch?v=ZEZ09WM0_5U hiç bi şekilde savunmuyomuş
 https://www.youtube.com/watch?v=gjP7RbDyF-I fake ulan fake sahte yani
 bkz 9 mart 2020 erdonun putini ayakta bekletti yalanı tapelerinin fake yani sahte çıkması
 https://www.uludagsozluk.com/k/meditasyon-hal%C4%B1s%C4%B1-diye-seccade-sat%C4%B1lan-adam/ 
