@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ata cücü neden hawaii ye neden saldırmadı
 bkz fettullah gülenin cemati korumak için adayı karantinaya alması
 https://www.youtube.com/watch?v=EfAsNffCjsM allak ne süper lan
 https://www.uludagsozluk.com/k/koronavir%C3%BCsten-%C3%B6len-m%C3%BCsl%C3%BCman-%C5%9Fehit-say%C4%B1l%C4%B1r/&w=bg
