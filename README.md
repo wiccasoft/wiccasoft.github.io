@@ -8,6 +8,7 @@
 
 
 <!-- 
+bkz 11 mart 2020 mesut bakkalın attığım bakış fake değildi açıklaması
 bkz 11 mart 2020 mesut bakkalın nmelik gökçek e attığı bakışın fake çıktı iddaları
 bkz 10 mart 2020 mesut bakkalın nmelik gökçek e attığı bakış
 https://www.uludagsozluk.com/k/birisini-d%C3%BC%C5%9F%C3%BCnerek-mast%C3%BCrbasyon-yapmak/ bkz radamel falcao garcia
