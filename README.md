@@ -8,6 +8,8 @@
 
 
 <!-- 
+bkz 11 mart 2020 mesut bakkalın nmelik gökçek e attığı bakışın fake çıktı iddaları
+bkz 10 mart 2020 mesut bakkalın nmelik gökçek e attığı bakış
 https://www.uludagsozluk.com/k/birisini-d%C3%BC%C5%9F%C3%BCnerek-mast%C3%BCrbasyon-yapmak/ bkz radamel falcao garcia
 https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-b%C3%BClent-ar%C4%B1n%C3%A7-gerginli%C4%9Fi/
 https://www.uludagsozluk.com/k/melih-g%C3%B6k%C3%A7ek-in-b%C3%BClent-ar%C4%B1n%C3%A7-a-att%C4%B1%C4%9F%C4%B1-bak%C4%B1%C5%9F/
