@@ -8,7 +8,7 @@
 
 <!--
 bkz covid-19un atacücü olduğu gerçeği
-https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular
+https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz covid19
 bkz atacücünün dünyaya hızla yayılması
 https://eksisozluk.com/ataturkun-ingiliz-projesi-olma-ihtimali--3527982?a=popular
 bkz dilipakın dilinin dana dili gibi pak olması
