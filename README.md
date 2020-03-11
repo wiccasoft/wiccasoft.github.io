@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz ablasına sokan adam
 https://www.uludagsozluk.com/k/reddedildi%C4%9Fi-halde-konu%C5%9Fan-erkek/ kim ayol o tengir mi kız
 bkz şehitler sepeti boş kaşmayacak dedim
 bkz uhud savaşında türk okçu birliklerinin şehitler sepetini terketmesi
