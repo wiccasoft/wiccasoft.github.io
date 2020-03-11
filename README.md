@@ -6,6 +6,8 @@ bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacüc ün covid 19 olma ihtimali
 bkz rakının dinci virüsü öldürmesi
 bkz dinci yobazların üstüne rakı atıp kaçmak
+bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
+bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
 bkz ılık götlü ekşicilerin cahillik çok güzel boy veriyoruz bakınız gelsenize demesi
 bkz ılık götlü ekşicilerin bulduğu komik isimli adamların açıklamaları
 bkz oytun erbaşın virüse kafam girsin demesi
@@ -13,8 +15,6 @@ bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
 https://www.uludagsozluk.com/k/traveler-of-secret-moments-tengir-budun-ili%C5%9Fkisi/ oh be kurtulduk amk
-bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
-bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
 -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
