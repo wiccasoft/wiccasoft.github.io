@@ -4,7 +4,7 @@
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacüc ün covid 19 olma ihtimali
-bkz ılık götlü ekşicilerin cahillik çok güzel gelseniz demesi
+bkz ılık götlü ekşicilerin cahillik çok güzel boy veriyoruz bakınız gelsenize demesi
 bkz ılık götlü ekşicilerin bulduğu komik isimli adamların açıklamaları
 bkz oytun erbaşın virüse kafam girsin demesi
 bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
