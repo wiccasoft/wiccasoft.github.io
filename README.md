@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz kadir mısıroğlunun covid-19 atacücü demesi
 https://www.uludagsozluk.com/k/k%C4%B1zlara-g%C3%BCvenen-erkek/&w=bg bkz gavat
 https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-clup/&w=bg bkz cuckolderkeklerin olduğu cülüp
 https://cuckold-erkek.uludagsozluk.com/ bkz gavatların düşmanı gerçek atacücücü
