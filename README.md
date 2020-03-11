@@ -7,7 +7,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-vkz atacücü neden genişletemiyordu sorunsalı
+bkz atacücü nünü küçük pipili olduğu gerçeği
+bkz atacücü neden genişletemiyordu sorunsalı
 bkz atcücü-19 un önlenemez yükselişi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BClke-topra%C4%9F%C4%B1na-toprak-neden-katamad%C4%B1/&w=gd
 bkz norm ender yapınca auuuuuu konthakar yapınca tu kaka
