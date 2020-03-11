@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz ablasına sokan adama enişte ne soktun be diyen adam
 bkz annesine sokan adama babişko diyen adam
 bkz atacücünün incilic procesi olma ihtimali
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=gd
