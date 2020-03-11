@@ -3,7 +3,8 @@
 <!-- bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz aşkom topraklarımızı genişletmiyosaan diyen kız
-bkz ebu fesatın uuzn boyl uerkek zaafını kullanmak
+bkz ebu fesatın uzun erkek zaafını kullanmak
+bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
 https://www.uludagsozluk.com/k/atat%C3%BCrk-hitler-erdo%C4%9Fan-vs-putin-stalin-churchill/
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
 -->
