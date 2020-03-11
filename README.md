@@ -1,4 +1,4 @@
-[![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
+[![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
 https://www.uludagsozluk.com/k/erdal-%C3%B6zya%C4%9Fc%C4%B1lar/&w=bg
