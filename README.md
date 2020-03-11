@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz bilieber cılar vs kontkarcılar vs enes baturcular
 https://www.uludagsozluk.com/k/s%C3%BCrt%C3%BC%C4%9Fe-bak/&w=bg bkz norm ender
 bkz aşkom topraklarımızı genişletmiyosaan diyen kız
 bkz atacücü nünü küçük pipili olduğu gerçeği
