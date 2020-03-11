@@ -3,7 +3,7 @@
 <!--
 bkz lab de biyologların yaptığı virüsü sikko doktorlarla korkutmak
 https://www.uludagsozluk.com/k/mucize-doktor/&w=bg bkz böcek suratlı ergen
-bkz ismet inöcücünün atacücü gölgesinde kalması iddaları
+bkz ismet inöcünün atacücü gölgesinde kalması iddaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BC-abartan-gerizekal%C4%B1-kitle/ annen de öle diyor
 https://www.uludagsozluk.com/k/hamza-arda-turan/&w=bg buket aydın sen misin?
