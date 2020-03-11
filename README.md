@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!-- 
+bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
+bkz atacüc ün incilic procesi olma ihtimali
 bkz rakının dinci virüsü öldürmesi
 bkz dinci yobazların üstüne rakı atıp kaçmak
 bkz 81 vilayet - hatay = 80
