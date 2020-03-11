@@ -1,5 +1,6 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
 
+<!-- https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%B6l%C3%BCm-y%C4%B1l-d%C3%B6n%C3%BCm%C3%BC/ -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
