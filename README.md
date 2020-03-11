@@ -1,24 +1,5 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
-<!--
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz atacüc ün covid 19 olma ihtimali
-bkz rakının dinci virüsü öldürmesi
-bkz dinci yobazların üstüne rakı atıp kaçmak
-bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
-bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
-bkz ılık götlü ekşicilerin cahillik çok güzel boy veriyoruz bakınız gelsenize demesi
-bkz ılık götlü ekşicilerin bulduğu komik isimli adamların açıklamaları
-bkz oytun erbaşın virüse kafam girsin demesi
-bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
-bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
-https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
-bkz bi kamalcıya covid-19 un dünya nüfusunu dengelemek içn yapıldığını bilale anlatır gibi anlatmak
-https://www.uludagsozluk.com/e/42979006/ bkz kanserin oluşma süresiyle covid-19 u kıyaslamak
-https://www.uludagsozluk.com/k/demokrasi-ve-at%C4%B1l%C4%B1m-partisi/&w=bg bkz covid-19 partisi
-https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%B6l%C3%BCm-y%C4%B1l-d%C3%B6n%C3%BCm%C3%BC/ bkz demokrasi şehidi
--->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
