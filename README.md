@@ -8,6 +8,7 @@
 
 <!--
 bkz abdulhamdinin eli
+bkz abdurrahman dilipakın am dillemesi
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-dili/
 bkz sadi tekelioğlunun tekelleşmesi
 https://eksisozluk.com/sadi-tekelioglundan-gs-tesvik-primi-itirafi--6405091?a=popular
