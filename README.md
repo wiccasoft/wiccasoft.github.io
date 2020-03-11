@@ -3,7 +3,6 @@
 <!-- 
 bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
 bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
-bkz atacüc ün incilic procesi olma ihtimali
 bkz rakının dinci virüsü öldürmesi
 bkz dinci yobazların üstüne rakı atıp kaçmak
 bkz 81 vilayet - hatay = 80
