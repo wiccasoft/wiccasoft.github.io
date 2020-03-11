@@ -9,6 +9,7 @@
 
 <!-- 
 bkz türkün üstün ırk olması
+bkz osmanlının türke kattkıları = 0
 bkz türkün dünyaya kattıkları
 bkz türklerin yunana yoğurdunu sahiplenmesi
 bkz osmanlının türke kattıkları
