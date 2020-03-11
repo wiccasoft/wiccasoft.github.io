@@ -1,8 +1,9 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacüc ün covid 19 olma ihtimali
-bkz atacüc üb covid-19 u denize dökmesi
 bkz ılık götlü ekşicilerin cahillik çok güzel gelseniz demesi
 bkz ılık götlü ekşicilerin bulduğu komik isimli adamların açıklamaları
 bkz oytun erbaşın virüse kafam girsin demesi
@@ -14,8 +15,6 @@ bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
 bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
 bkz rakının dinci virüsü öldürmesi
 bkz dinci yobazların üstüne rakı atıp kaçmak
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
