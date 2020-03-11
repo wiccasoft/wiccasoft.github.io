@@ -1,78 +1,10 @@
-[![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=TkNHMmIUGFM )
+[![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
-
-<!--
-bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
-bkz otun erbaşın virüse kafam girsin demesi
-bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
-bkz rakı üstüne kelle paça yiyince virüsün ölmesi
-https://www.uludagsozluk.com/k/t%C3%BCrk-bilim-adamlar%C4%B1-koronavir%C3%BCs-i%C3%A7in-%C3%A7al%C4%B1%C5%9F%C4%B1yor/
-bkz otun erbaşın başı
-bkz aytun erbaşın karılara kafam girsin demesi
-https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-dili/
-bkz sadi tekelioğlunun tekelleşmesi
-https://eksisozluk.com/sadi-tekelioglundan-gs-tesvik-primi-itirafi--6405091?a=popular
-bkz her sene 30 yaşında bekar arabalı erkek
-bkz rakının dinci virüsü öldürmesi
-bkz dinci yobazların üstüne rakı atıp kaçmak
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz enes batur vs kontahar
-bkz sen yerinde duuuuuuuur karşında covid on dohuzzzzzz
-bkz belieber cılar vs kontkarcılar vs enes baturcular vs norm enderciler
-https://www.uludagsozluk.com/k/s%C3%BCrt%C3%BC%C4%9Fe-bak/&w=bg bkz norm ender
-bkz aşkom topraklarımızı genişletmiyosaan diyen kız
-bkz atacücü nünü küçük pipili olduğu gerçeği
-bkz atacücü neden genişletemiyordu sorunsalı
-bkz atcücü-19 un önlenemez yükselişi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BClke-topra%C4%9F%C4%B1na-toprak-neden-katamad%C4%B1/&w=gd
-bkz norm ender yapınca auuuuuu konthakar yapınca tu kaka
-https://www.uludagsozluk.com/k/s%C3%BCrt%C3%BC%C4%9Fe-bak/&w=bg
-bkz berkin elvanın kaşlarının kürt martı gibi olmaı
-bkz dincilerin alkol sevmemesi 
-bkz atacücünün her gece rakı içmesi
-https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-eli/ bkz karıları tek parmağıyla boşaltır
-bkz atacücünün covid19 a karşı ilaç damarlarınızdaki asil kandır lafı
-https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
-bkz atacücü muhtaç olduğunu kudret covid19 u denize dökecektir lafı
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BClke-topra%C4%9F%C4%B1na-toprak-neden-katamad%C4%B1/&w=bg bkz covid19
-bkz atacücücün en sevdiği rakam vs covid19
-bkz atacücü covid19 u nasıl biliyordu incilic ajanı mıydı
-bkz atacücü nün covid19 u nutukta yazması
-https://www.uludagsozluk.com/k/iyi-parti-vs-deva-partisi-vs-gelecek-partisi/ bkz tek yol deva partisi
-bkz covid-19un atacücü olduğu gerçeği
-https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz covid19
-bkz atacücünün dünyaya hızla yayılması
-https://eksisozluk.com/ataturkun-ingiliz-projesi-olma-ihtimali--3527982?a=popular
-bkz dilipakın dilinin dana dili gibi pak olması
-bkz virüsün mitoz bölünmeyle çok partili döneme geçmesi
-bkz babuşcanın virüs yaratıp deva biziz mesajı vermesi
-https://www.youtube.com/watch?v=czW6NP_Chvg babuşcanın yapacağı virüs
-https://www.youtube.com/watch?v=TkNHMmIUGFM her derde deva partisi jingle'ı
-https://www.uludagsozluk.com/k/deva-partisi/&w=gd bkz her derde deva
-bkz türkiyede içki sevmeyip dinle alakası olmayan insan nüfusu
-bkz imamoğlanın karıyı köye yollayıp garipoğlanla tatile çıkması
-bkz atacücü ülkenize neden toprak katmadı sorunsalı
-bkz sağlam rakı sağlm vicutta bulunur diyip sirozdan gebermek
-bkz osmanlının kaybettiği virüsler
-bkz konuyu atacücüye bağlamak
-https://www.uludagsozluk.com/e/42977760/
-bkz nane limon kaynat virüs neyin kalmaz diyen profesör
-https://www.uludagsozluk.com/k/kelle-yiyerek-vir%C3%BCsten-korunaca%C4%9F%C4%B1n%C4%B1-sanan-kitle/&w=gd
-bkz karatayın lahmacun kelle paça yiyin virüse iyi gelir demesi
-bkz lost adasında karaduman olarak yaşayan genco
-bkz münevver karabulutun facebook tan garipoğlana attığı aşkolu mesajlar
-https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg 
-bkz atacücü olsaydı virüsü denize gömerdi
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-as%C4%B1l-amac%C4%B1/
-https://www.uludagsozluk.com/k/koronan%C4%B1n-yay%C4%B1lmas%C4%B1n%C4%B1n-sebebi-u%C3%A7aklard%C4%B1r/
-https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-as%C4%B1l-amac%C4%B1/ lol-->
-
 
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
