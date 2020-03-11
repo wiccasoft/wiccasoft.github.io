@@ -1,5 +1,6 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 <!--
+https://www.uludagsozluk.com/k/hamza-arda-turan/&w=bg buket aydın sen misin?
 https://berberedayayanadam.uludagsozluk.com  senin anneni de bilare sikecem raad ol oç 
 https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
 https://www.uludagsozluk.com/k/atat%C3%BCrk-imzal%C4%B1-maske/
