@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz çenesi güçlü siyasetçiler
 https://www.uludagsozluk.com/k/do%C4%9Fum-g%C3%BCn%C3%BCnde-e%C5%9Fine-zenci-erkek-getiren-laik-koca/&w=bg bkz ben
 bkz ablasına sokan adama enişte ne soktun be diyen adam
 bkz annesine sokan adama babişko diyen adam
