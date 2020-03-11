@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/reddedildi%C4%9Fi-halde-konu%C5%9Fan-erkek/&w=gd bkz atacücü
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz fetönün atacücü sırlarını satması
