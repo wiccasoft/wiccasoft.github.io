@@ -7,7 +7,9 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg bkz kadir mısıroğlu -->
+<!-- 
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg bkz kmısır
+https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg bkz kadir mısıroğlu -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
