@@ -1,17 +1,5 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
-<!--
-bkz lab de biyologların yaptığı virüsü sikko doktorlarla korkutmak
-https://www.uludagsozluk.com/k/mucize-doktor/&w=bg bkz böcek suratlı ergen
-bkz ismet inöcünün atacücü gölgesinde kalması iddaları
-https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BC-abartan-gerizekal%C4%B1-kitle/ annen de öle diyor
-https://www.uludagsozluk.com/k/hamza-arda-turan/&w=bg buket aydın sen misin?
-https://berberedayayanadam.uludagsozluk.com  senin anneni de bilare sikecem raad ol oç 
-https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
-https://www.uludagsozluk.com/k/atat%C3%BCrk-imzal%C4%B1-maske/
-bkz 1881 atacüc 18 + 81 = 99 -80 = covid19
--->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
