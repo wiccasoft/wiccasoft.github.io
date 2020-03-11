@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz fetönün devlet sırlarını  satması
 bkz atacüc ün asker kökenli olması
 https://www.uludagsozluk.com/k/iyi-siyaset%C3%A7ilerin-hep-asker-k%C3%B6kenli-olmas%C4%B1/
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-devlet-s%C4%B1rlar%C4%B1n%C4%B1-if%C5%9Fa-etmesi/
