@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz adana01 dizisindeki ergenleri tekme tokat dövme isteği
 bkz 41 yaşında gençli konuşan ergenlerin anneleriyle muhattap olamk
 https://www.uludagsozluk.com/k/darth-vader-in-ergen-pi%C3%A7-olmas%C4%B1/ annen yanımda oç
 https://berberedayayanadam.uludagsozluk.com  senin anneni de bilare sikecem raad ol oç 
