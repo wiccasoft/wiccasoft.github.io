@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz osmanlının kaybettiği virüsler
 bkz konuyu atacücüye bağlamak
 https://www.uludagsozluk.com/e/42977760/
 bkz nane limon kaynat virüs neyin kalmaz diyen profesör
