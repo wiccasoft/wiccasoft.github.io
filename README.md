@@ -8,6 +8,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz uhud savaşında türk okçu birliklerinin şehitler sepetini terketmesi
+https://www.uludagsozluk.com/k/uhud-sava%C5%9F%C4%B1nda-tepeyi-terkeden-ok%C3%A7ular/&w=bg
 bkz covid-19 un damarlarında asil kan dolaşanlara kattıkları
 bkz türkün üstün ırk olması
 bkz osmanlının türke kattkıları = 0
