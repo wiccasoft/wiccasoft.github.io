@@ -9,6 +9,7 @@
 
 <!-- 
 bkz ismet inöcünün atacücü gölgesinde kalması
+https://eksisozluk.com/ataturkun-ingiliz-projesi-olma-ihtimali--3527982?a=popular bkz olabilir
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/ bkz boy
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=gd bkz incicliccesinden belli
 https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
