@@ -12,7 +12,6 @@ https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz fetönün devlet sırlarını  satması
-bkz atacüc ün asker kökenli olması
 https://www.uludagsozluk.com/k/iyi-siyaset%C3%A7ilerin-hep-asker-k%C3%B6kenli-olmas%C4%B1/
 https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-devlet-s%C4%B1rlar%C4%B1n%C4%B1-if%C5%9Fa-etmesi/
 bkz 81 vilayet - hatay = 80
