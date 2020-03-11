@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz rakı üstüne kelle paça yiyince virüsün ölmesi
 https://www.uludagsozluk.com/k/t%C3%BCrk-bilim-adamlar%C4%B1-koronavir%C3%BCs-i%C3%A7in-%C3%A7al%C4%B1%C5%9F%C4%B1yor/
 bkz otun erbaşın başı
