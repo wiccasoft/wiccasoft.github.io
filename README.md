@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/cem-garipo%C4%9Flu/&w=bg bkz lost adasında karaduman olarak yaşayan genco
 bkz atacücü olsaydı virüsü denize gömerdi
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-as%C4%B1l-amac%C4%B1/
 https://www.uludagsozluk.com/k/koronan%C4%B1n-yay%C4%B1lmas%C4%B1n%C4%B1n-sebebi-u%C3%A7aklard%C4%B1r/
