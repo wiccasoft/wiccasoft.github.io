@@ -8,6 +8,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=bg bka atacüc öldü olm
 https://www.uludagsozluk.com/k/bir-ara-filozof-atakan-vard%C4%B1-ne-oldu-ona/ noldu ona bi de ajdar vardı
 https://cuckold-erkek.uludagsozluk.com senin annenin bilare sikecem raad ol oç
