@@ -16,6 +16,7 @@ bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :))))))
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
 bkz bi kamalcıya covid-19 un dünya nüfusunu dengelemek içn yapıldığını bilale anlatır gibi anlatmak
 https://www.uludagsozluk.com/e/42979006/ bkz kanserin oluşma süresiyle covid-19 u kıyaslamak
+https://www.uludagsozluk.com/k/demokrasi-ve-at%C4%B1l%C4%B1m-partisi/&w=bg bkz covid-19 partisi
 -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
