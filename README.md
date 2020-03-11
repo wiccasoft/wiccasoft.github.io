@@ -2,7 +2,6 @@
 
 <!--
 bkz atacüc ün covid 19 olma ihtimali
-bkz atacüc ün covid-19 u denize dökmesi
 bkz ılık götlü ekşicilerin bulduğu komik isimli adamların açıklamaları
 bkz oytun erbaşın virüse kafam girsin demesi
 bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
