@@ -7,7 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz biyologların yaptığı virüsü doktorlarla savmaya çalışmak
+bkz biyologların yaptığı virüsü doktorlarla savmaya çalışmak :)))))))
 bkz otun erbaşın virsüe kafam girsin demesi
 bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz rakı üstüne kelle paça yiyince virüsün ölmesi
