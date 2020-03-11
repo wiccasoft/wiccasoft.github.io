@@ -7,6 +7,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.youtube.com/watch?v=TkNHMmIUGFM her derde deva partisi jingle'ı
+https://www.uludagsozluk.com/k/deva-partisi/&w=gd bkz her derde deva
 bkz türkiyede içki sevmeyip dinle alakası olmayan insan nüfusu
 bkz imamoğlanın karıyı köye yollayıp garipoğlanla tatile çıkması
 bkz atacücü ülkenize neden toprak katmadı sorunsalı
