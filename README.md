@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tayyibin israil procesi olma ihtimali
 bkz ismet inöcünün atacücü gölgesinde kalması
 https://eksisozluk.com/ataturkun-ingiliz-projesi-olma-ihtimali--3527982?a=popular bkz olabilir
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/ bkz boy
