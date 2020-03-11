@@ -8,6 +8,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
+bkz atacüc ün covid 19 olma ihtimali
 bkz süleyman özışıkın boru gibi geçirmesi
 https://www.uludagsozluk.com/k/s%C3%BCleyman-%C3%B6z%C4%B1%C5%9F%C4%B1k-%C4%B1n-muhalefete-verdi%C4%9Fi-ayar/
 bkz kadir mısıroğlunun covid-19 atacücü demesi
