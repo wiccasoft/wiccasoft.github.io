@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz babuşcanın virüs yaratıp deva biziz mesajı vermesi
 https://www.youtube.com/watch?v=czW6NP_Chvg babuşcanın yapacağı virüs
 https://www.youtube.com/watch?v=TkNHMmIUGFM her derde deva partisi jingle'ı
 https://www.uludagsozluk.com/k/deva-partisi/&w=gd bkz her derde deva
