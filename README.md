@@ -8,7 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç -covid-19
+https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz fetönün devlet sırlarını  satması
