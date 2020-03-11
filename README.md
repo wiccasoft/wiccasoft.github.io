@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/k/iyi-parti-vs-deva-partisi-vs-gelecek-partisi/ bkz tek yol deva partisi
 bkz covid-19un atacücü olduğu gerçeği
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz covid19
 bkz atacücünün dünyaya hızla yayılması
