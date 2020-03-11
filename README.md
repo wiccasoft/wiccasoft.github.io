@@ -8,6 +8,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz fetönün devlet sırlarını  satması
 bkz atacüc ün asker kökenli olması
 https://www.uludagsozluk.com/k/iyi-siyaset%C3%A7ilerin-hep-asker-k%C3%B6kenli-olmas%C4%B1/
