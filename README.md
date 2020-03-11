@@ -1,16 +1,6 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
 
-<!-- 
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz ebu fesatın uzun erkek zaafını kullanmak
-bkz aşkom topraklarımızı genişletmiyosaan diyen kız
-bkz ulus devletlerin öldüğünü kabul edemeyen kamalcılar
-bkz imamoğlanın babasının oğlanı yollim çift kale maç yapın demesi
-https://www.uludagsozluk.com/k/atat%C3%BCrk-hitler-erdo%C4%9Fan-vs-putin-stalin-churchill/
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
-https://eksisozluk.com/11-mart-2020-deva-partisi-acilis-toreni--6405280?a=popular bkz ben sizin devanızım
--->
+
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
