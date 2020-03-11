@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz imamaoğlanın berkin elvan devrim şehididir tweeti
 bkz norm enderin khontkardan yakışıklı olduğu gerçeği
 bkz imamaoğlanın berkin elvan tweetinin atacücüye hakaret olması
 bkz atacücü muhtaç olduğunu kudret covid19 u denize dökecektir lafı
