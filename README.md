@@ -8,6 +8,7 @@
 
 <!--
 bkz enes batur vs kontahar
+bkz sen yerinde duuuuuuuur karşında covid on dohuzzzzzz
 bkz belieber cılar vs kontkarcılar vs enes baturcular vs norm enderciler
 https://www.uludagsozluk.com/k/s%C3%BCrt%C3%BC%C4%9Fe-bak/&w=bg bkz norm ender
 bkz aşkom topraklarımızı genişletmiyosaan diyen kız
