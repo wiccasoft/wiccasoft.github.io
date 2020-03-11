@@ -7,6 +7,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücünün virüsü denize dökmesi
+https://eksisozluk.com/ataturkun-ingiliz-projesi-olma-ihtimali--3527982?a=popular
 bkz dilipakın dilinin dana dili gibi pak olması
 bkz virüsün mitoz bölünmeyle çok partili döneme geçmesi
 bkz babuşcanın virüs yaratıp deva biziz mesajı vermesi
