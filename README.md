@@ -7,45 +7,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-https://www.uludagsozluk.com/k/tamam-kapat%C4%B1n-art%C4%B1k-bu-corona-konusunu/ anneni kapatacam raad ol
-https://www.uludagsozluk.com/k/hay-koronavir%C3%BCs%C3%BCn%C3%BCze-bo%C5%9Falay%C4%B1m/ hassktir lan ibne
-https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BC-abartan-gerizekal%C4%B1-kitle/ anneni bilare abartacam raad ol
-bkz mesut bakkalın gss prim borcu için pamukj eller cebe demesi
-bkz şaka maka devletlerin artık tarihe karışması
-bkz tayyib isminde birinin dünya lideri olma ihtimali
-https://www.uludagsozluk.com/k/sizi-uykunuzdan-%C3%B6perek-uyand%C4%B1ran-kay%C4%B1npeder/ zuahhahaha
-bkz şaka maka covid-19 un askerleri de öldürecek olması
-bkz türklerin yoğurt dışında dünyaya katkıları
-bkz tayyibi dünya lideri sanan ergenler
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
-bkz şaka maka covid-19 un bi sürü oç nu öldürecek olması 
-bkz adana01 dizisindeki eşcinsel ergenleri tekme tokat dövme isteği
-https://www.uludagsozluk.com/k/darth-vader-in-ergen-pi%C3%A7-olmas%C4%B1/ annen yanımda oç
-https://berberedayayanadam.uludagsozluk.com  senin anneni de bilare sikecem raad ol oç 
-https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
-https://www.uludagsozluk.com/k/marteni%C3%A7ka-takan-erkek/ vurduruyordur
-https://www.uludagsozluk.com/k/reddedildi%C4%9Fi-halde-konu%C5%9Fan-erkek/&w=gd bkz atacücü
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz fetönün atacücü sırlarını satması
-bkz tayyibin israil procesi olma ihtimali
-bkz ismet inöcünün atacücü gölgesinde kalması
-https://eksisozluk.com/ataturkun-ingiliz-projesi-olma-ihtimali--3527982?a=popular bkz olabilir
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/ bkz boy
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=gd bkz inciliccesinden belli
-https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz fetönün devlet sırlarını  satması
-https://www.uludagsozluk.com/k/iyi-siyaset%C3%A7ilerin-hep-asker-k%C3%B6kenli-olmas%C4%B1/
-https://www.uludagsozluk.com/k/b%C3%BClent-ar%C4%B1n%C3%A7-%C4%B1n-devlet-s%C4%B1rlar%C4%B1n%C4%B1-if%C5%9Fa-etmesi/
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=bg bka atacüc öldü olm
-https://www.uludagsozluk.com/k/bir-ara-filozof-atakan-vard%C4%B1-ne-oldu-ona/ noldu ona bi de ajdar vardı
-https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç seni bulacam raad ol 
-https://www.uludagsozluk.com/k/didier-drogba/&w=bg eywolleeeeeee -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
