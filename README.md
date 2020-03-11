@@ -6,7 +6,7 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-
+<!-- https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BCn%C3%BCn-as%C4%B1l-amac%C4%B1/ lol-->
 
 
 
