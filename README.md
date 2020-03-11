@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/sizi-uykunuzdan-%C3%B6perek-uyand%C4%B1ran-kay%C4%B1npeder/ zuahhahaha
 bkz tayyibi dünya lideri sanan ergenler
 bkz şaka maka covid-19 un askerleri de öldürecek olması
 bkz türklerin yoğurt dışında dünyaya katkıları
