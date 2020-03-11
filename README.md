@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz rakı üstüne kelle paça yiyince virüsün ölmesi
 bkz otun erbaşın başı
 bkz aytun erbaşın karılara kafam girsin demesi
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-dili/
