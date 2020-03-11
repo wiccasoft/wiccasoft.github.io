@@ -8,7 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz atacüc londra ateşkeş mütabakatı
+bkz ismet inöcünün atacüc gölgesinde kalması
 bkz atacüc ün incilicce bilmediği halde incilic procesi olması
 bkz iyi siyasetçilerin asker kökenli olması bkz atacücü
 https://www.uludagsozluk.com/k/iyi-siyaset%C3%A7ilerin-hep-asker-k%C3%B6kenli-olmas%C4%B1/ bkz atacüc
