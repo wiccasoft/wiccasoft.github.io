@@ -7,7 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz atacücünün rakı için virüsü öldürür demesi
+bkz atacücü ülkenize neden toprak katmadı sorunsalı
 bkz sağlam rakı sağlm vicutta bulunur siyip sirozdan gebermek
 bkz osmanlının kaybettiği virüsler
 bkz konuyu atacücüye bağlamak
