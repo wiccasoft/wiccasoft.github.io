@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
-<!-- 
+<!--
+bkz otun erbaşın virüse kafam girsin demesi
+bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
 https://www.uludagsozluk.com/k/traveler-of-secret-moments-tengir-budun-ili%C5%9Fkisi/ oh be kurtulduk amk
 bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
