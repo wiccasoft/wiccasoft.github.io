@@ -8,7 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-bkz atacücünün incilic gavat procesi olma ihtimali
+bkz atacücünün incilic procesi olma ihtimali
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=gd
 https://cuckold-erkek.uludagsozluk.com/ bkz annesine sokan adamla aşk yaşayan ergen
 https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz ablasına sokan adam
