@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz devlet bahçelinin covid19 atacüc19 1881 bu damı tesadüf tweeti
 bkz enes batur vs kontahar
 bkz sen yerinde duuuuuuuur karşında covid on dohuzzzzzz
 bkz belieber cılar vs kontkarcılar vs enes baturcular vs norm enderciler
