@@ -8,6 +8,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz tayyibi dünya lideri sanan ergenler
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
 bkz şaka maka covid-19 un bi sürü oç nu öldürecek olması 
 bkz adana01 dizisindeki eşcinsel ergenleri tekme tokat dövme isteği
 https://www.uludagsozluk.com/k/darth-vader-in-ergen-pi%C3%A7-olmas%C4%B1/ annen yanımda oç
