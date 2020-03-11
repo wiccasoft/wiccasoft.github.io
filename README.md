@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
+bkz atacüc ün covid 19 olma ihtimali
 bkz atacüc ün covid-19 u denize dökmesi
 bkz ılık götlü ekşicilerin bulduğu komik isimli adamların açıklamaları
 bkz oytun erbaşın virüse kafam girsin demesi
