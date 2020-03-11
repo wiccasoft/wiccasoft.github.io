@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz dtürkün dünyaya kattıkları
 bkz türklerin yunana yoğurdunu sahiplenmesi
 bkz osmanlının türke kattıkları
 bkz damarlarında asil kan dolaşıp osmanlı piçi covid-19 dan korkmak
