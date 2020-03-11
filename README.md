@@ -7,7 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz dilipakın dilinin dana dili gibi olması
+bkz dilipakın dilinin dana dili gibi pak olması
 bkz virüsün mitoz bölünmeyle çok partili döneme geçmesi
 bkz babuşcanın virüs yaratıp deva biziz mesajı vermesi
 https://www.youtube.com/watch?v=czW6NP_Chvg babuşcanın yapacağı virüs
