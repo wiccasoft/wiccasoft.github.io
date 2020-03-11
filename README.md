@@ -1,5 +1,12 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
+<!-- 
+bkz rakının dinci virüsü öldürmesi
+bkz dinci yobazların üstüne rakı atıp kaçmak
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
+-->
+
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
