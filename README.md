@@ -7,6 +7,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücücün en sevdiği rakam vs covid19
+bkz atacücü covid19 u nasıl biliyordu incilic ajanı mıydı
 bkz atacücü nün covid19 u nutukta yazması
 https://www.uludagsozluk.com/k/iyi-parti-vs-deva-partisi-vs-gelecek-partisi/ bkz tek yol deva partisi
 bkz covid-19un atacücü olduğu gerçeği
