@@ -8,7 +8,7 @@
 
 <!--
 bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
-bkz otun erbaşın virsüe kafam girsin demesi
+bkz otun erbaşın virüse kafam girsin demesi
 bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz rakı üstüne kelle paça yiyince virüsün ölmesi
 https://www.uludagsozluk.com/k/t%C3%BCrk-bilim-adamlar%C4%B1-koronavir%C3%BCs-i%C3%A7in-%C3%A7al%C4%B1%C5%9F%C4%B1yor/
