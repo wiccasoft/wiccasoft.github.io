@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
-bkz lab de biyologların yaptığı virüsü sikko doktorla korkutmak
+bkz lab de biyologların yaptığı virüsü sikko doktorlarla korkutmak
 https://www.uludagsozluk.com/k/mucize-doktor/&w=bg bkz böcek suratlı ergen
 bkz ismet inöcücünün atacücü gölgesinde kalması iddaları
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-ingiliz-valisi-olmak-istedi%C4%9Fi-iddias%C4%B1/&w=bg
