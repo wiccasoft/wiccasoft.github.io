@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz osmanlının türke kattıkları
 bkz damarlarında asil kan dolaşıp osmanlı piçi covid-19 dan korkmak
 https://www.uludagsozluk.com/k/uhud-sava%C5%9F%C4%B1nda-tepeyi-terkeden-ok%C3%A7ular/&w=bg
 bkz osmanlının kaybettiği topraklarda covid-19 çıkması
