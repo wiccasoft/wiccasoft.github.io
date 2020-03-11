@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz her sene 30 yaşında bekar arabalı erkek
 bkz rakının dinci virüsü öldürmesi
 bkz dinci yobazların üstüne rakı atıp kaçmak
 bkz 81 vilayet - hatay = 80
