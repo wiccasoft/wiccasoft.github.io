@@ -7,6 +7,9 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
+<!-- 
+https://cuckold-erkek.uludagsozluk.com senin annenin bilare sikecem raad ol oç
+https://www.uludagsozluk.com/k/didier-drogba/&w=bg eywolleeeeeee -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
