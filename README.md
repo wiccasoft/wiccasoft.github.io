@@ -2,7 +2,9 @@
 
 <!--
 https://www.uludagsozluk.com/k/erdal-%C3%B6zya%C4%9Fc%C4%B1lar/&w=bg
-https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%B6l%C3%BCm-y%C4%B1l-d%C3%B6n%C3%BCm%C3%BC/ -->
+https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%B6l%C3%BCm-y%C4%B1l-d%C3%B6n%C3%BCm%C3%BC/
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
+-->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
