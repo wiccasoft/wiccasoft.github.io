@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz türkiyede içki sevmeyip dinle alakası olmayan insan nüfusu
 bkz imamoğlanın karıyı köye yollayıp garipoğlanla tatile çıkması
 bkz atacücü ülkenize neden toprak katmadı sorunsalı
 bkz sağlam rakı sağlm vicutta bulunur diyip sirozdan gebermek
