@@ -7,6 +7,8 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz abdulhamdinin eli
+https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-dili/
 bkz sadi tekelioğlunun tekelleşmesi
 https://eksisozluk.com/sadi-tekelioglundan-gs-tesvik-primi-itirafi--6405091?a=popular
 bkz her sene 30 yaşında bekar arabalı erkek
