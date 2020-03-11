@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz 1881 atacüc doğumu 18 + 81 = 99 -80 = covid19
 bkz devlet bahçelinin covid19 atacüc19 1+8 8+1 bu damı tesadüf tweeti
 bkz enes batur vs kontahar
 bkz sen yerinde duuuuuuuur karşında covid on dohuzzzzzz
