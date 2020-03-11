@@ -7,7 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz berkin elvanın kaşları
+bkz berkin elvanın kaşlarının kürt martı gibi olmaı
 bkz dincilerin alkol sevmemesi 
 bkz atacücünün her gece rakı içmesi
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-eli/ bkz karıları tek parmağıyla boşaltır
