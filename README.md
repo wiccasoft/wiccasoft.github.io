@@ -7,9 +7,9 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+bkz atacücünün covid19 a karşı ilaç damarlarınızdaki asil kandır lafı
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
 bkz atacücü muhtaç olduğunu kudret covid19 u denize dökecektir lafı
-bkz atacücünün covid19 a karşı ilaç damarlarınızdaki asil kandır lafı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BClke-topra%C4%9F%C4%B1na-toprak-neden-katamad%C4%B1/&w=bg bkz covid19
 bkz atacücücün en sevdiği rakam vs covid19
 bkz atacücü covid19 u nasıl biliyordu incilic ajanı mıydı
