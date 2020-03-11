@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!-- 
-bkz atscüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
+bkz atacüc ile covid-19 arasında bağlantıları birleştiren kamalcı zekası
 bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
 bkz atacüc ün incilic procesi olma ihtimali
 bkz rakının dinci virüsü öldürmesi
