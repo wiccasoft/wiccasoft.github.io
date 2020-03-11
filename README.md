@@ -8,6 +8,7 @@
 
 <!--
 bkz atcücü-19 un önlenemez yükselişi
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BClke-topra%C4%9F%C4%B1na-toprak-neden-katamad%C4%B1/&w=gd
 bkz norm ender yapınca auuuuuu konthakar yapınca tu kaka
 https://www.uludagsozluk.com/k/s%C3%BCrt%C3%BC%C4%9Fe-bak/&w=bg
 bkz berkin elvanın kaşlarının kürt martı gibi olmaı
