@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/ bkz boy
 https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=gd bkz incicliccesinden belli
 https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
 bkz 81 vilayet - hatay = 80
