@@ -17,6 +17,7 @@ https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli
 bkz bi kamalcıya covid-19 un dünya nüfusunu dengelemek içn yapıldığını bilale anlatır gibi anlatmak
 https://www.uludagsozluk.com/e/42979006/ bkz kanserin oluşma süresiyle covid-19 u kıyaslamak
 https://www.uludagsozluk.com/k/demokrasi-ve-at%C4%B1l%C4%B1m-partisi/&w=bg bkz covid-19 partisi
+https://www.uludagsozluk.com/k/berkin-elvan-%C4%B1n-%C3%B6l%C3%BCm-y%C4%B1l-d%C3%B6n%C3%BCm%C3%BC/ bkz demokrasi şehidi
 -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
