@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+bkz şaka maka covid-19 un askerleri de öldürecek olması
 bkz türklerin yoğurt dışında dünyaya katkıları
 bkz tayyibi dünya lideri sanan ergenler
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/
