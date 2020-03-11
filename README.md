@@ -8,7 +8,7 @@
 
 <!--
 bkz atacücü ülkenize neden toprak katmadı sorunsalı
-bkz sağlam rakı sağlm vicutta bulunur siyip sirozdan gebermek
+bkz sağlam rakı sağlm vicutta bulunur diyip sirozdan gebermek
 bkz osmanlının kaybettiği virüsler
 bkz konuyu atacücüye bağlamak
 https://www.uludagsozluk.com/e/42977760/
