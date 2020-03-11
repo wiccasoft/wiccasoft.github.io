@@ -7,47 +7,6 @@
 
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
-<!-- 
-bkz ismet inöcünün atacüc gölgesinde kalması
-bkz atacüc ün incilicce bilmediği halde incilic procesi olması
-bkz iyi siyasetçilerin asker kökenli olması bkz atacücü
-https://www.uludagsozluk.com/k/iyi-siyaset%C3%A7ilerin-hep-asker-k%C3%B6kenli-olmas%C4%B1/ bkz atacüc
-bkz atacüc ün incilic procesi olduğu gerçeği
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal/&w=bg bkz çenesi güçlü siyasetçiler
-https://www.uludagsozluk.com/k/do%C4%9Fum-g%C3%BCn%C3%BCnde-e%C5%9Fine-zenci-erkek-getiren-laik-koca/&w=bg bkz ben
-bkz ablasına sokan adama enişte ne soktun be diyen adam
-bkz annesine sokan adama babişko diyen adam
-bkz atacücünün incilic procesi olma ihtimali
-https://www.uludagsozluk.com/k/atat%C3%BCrk%C3%BCn-ingiliz-adam%C4%B1-olmas%C4%B1/&w=gd
-https://cuckold-erkek.uludagsozluk.com/ bkz annesine sokan adamla aşk yaşayan ergen
-https://www.uludagsozluk.com/k/ablas%C4%B1na-sokan-adama-eni%C5%9Fte-diyen-erkek/&w=bg bkz ablasına sokan adam
-https://www.uludagsozluk.com/k/reddedildi%C4%9Fi-halde-konu%C5%9Fan-erkek/ kim ayol o tengir mi kız
-bkz şehitler sepeti boş kaşmayacak dedim
-bkz uhud savaşında türk okçu birliklerinin şehitler sepetini terketmesi
-https://www.uludagsozluk.com/k/uhud-sava%C5%9F%C4%B1nda-tepeyi-terkeden-ok%C3%A7ular/&w=bg
-bkz covid-19 un damarlarında asil kan dolaşanlara kattıkları
-bkz türkün üstün ırk olması
-bkz osmanlının türke kattkıları = 0
-bkz türkün dünyaya kattıkları
-bkz türklerin yunana yoğurdunu sahiplenmesi
-bkz osmanlının türke kattıkları
-bkz damarlarında asil kan dolaşıp osmanlı piçi covid-19 dan korkmak
-https://www.uludagsozluk.com/k/uhud-sava%C5%9F%C4%B1nda-tepeyi-terkeden-ok%C3%A7ular/&w=bg
-bkz osmanlının kaybettiği topraklarda covid-19 çıkması
-bkz aşkom topraklarımızı niye genişletmiyosaan diyen kız
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-t%C3%BCrke-katt%C4%B1klar%C4%B1/
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid-19
-bkz atacüc ün covid 19 olma ihtimali
-bkz kadir mısıroğlunun covid-19 atacücü demesi
-bkz süleyman özışıkın boru gibi geçirmesi
-https://www.uludagsozluk.com/k/s%C3%BCleyman-%C3%B6z%C4%B1%C5%9F%C4%B1k-%C4%B1n-muhalefete-verdi%C4%9Fi-ayar/
-https://www.uludagsozluk.com/k/k%C4%B1zlara-g%C3%BCvenen-erkek/&w=bg bkz gavat
-https://www.uludagsozluk.com/k/kadir-m%C4%B1s%C4%B1ro%C4%9Flu-fan-clup/&w=bg bkz cuckolderkeklerin olduğu cülüp
-https://cuckold-erkek.uludagsozluk.com/ bkz gavatların düşmanı gerçek atacücücü
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/ bkz boy
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fmas%C4%B1na-izin-veren-gavat/&w=bg bkz kmısır
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg bkz kadir mısıroğlu -->
 
 [![Image](waste/Screenshot_2020-02-27_09-57-13.png)]( https://www.youtube.com/watch?v=p-zJzffx3FM )
 
