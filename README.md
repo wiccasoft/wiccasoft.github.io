@@ -1,7 +1,6 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
-https://www.uludagsozluk.com/e/42979006/ bkz kanserin oluşma süresiyle covid-19 u kıyaslamak
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacüc ün covid 19 olma ihtimali
@@ -16,6 +15,7 @@ bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
 bkz bi kamalcıya covid-19 un dünya nüfusunu dengelemek içn yapıldığını bilale anlatır gibi anlatmak
+https://www.uludagsozluk.com/e/42979006/ bkz kanserin oluşma süresiyle covid-19 u kıyaslamak
 -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
