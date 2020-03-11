@@ -8,6 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
+https://www.uludagsozluk.com/k/hay-koronavir%C3%BCs%C3%BCn%C3%BCze-bo%C5%9Falay%C4%B1m/ hassktir lan ibne
 https://www.uludagsozluk.com/k/vir%C3%BCs%C3%BC-abartan-gerizekal%C4%B1-kitle/ anneni bilare abartacam raad ol
 bkz mesut bakkalın gss prim borcu için pamukj eller cebe demesi
 bkz şaka maka devletlerin artık tarihe karışması
