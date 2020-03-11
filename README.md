@@ -7,6 +7,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
+https://www.uludagsozluk.com/e/42977760/
 https://www.uludagsozluk.com/k/kelle-yiyerek-vir%C3%BCsten-korunaca%C4%9F%C4%B1n%C4%B1-sanan-kitle/&w=gd
 bkz karatayın lahmacun kelle paça yiyin virüse iyi gelir demesi
 bkz lost adasında karaduman olarak yaşayan genco
