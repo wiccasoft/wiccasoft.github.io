@@ -8,7 +8,7 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!-- 
-https://berberedayayanadam.uludagsozluk.com  senin anneni bilare sikecem raad ol oç 
+https://berberedayayanadam.uludagsozluk.com  senin anneni de bilare sikecem raad ol oç 
 https://cuckold-erkek.uludagsozluk.com senin anneni bilare sikecem raad ol oç 
 https://www.uludagsozluk.com/k/marteni%C3%A7ka-takan-erkek/ vurduruyordur
 https://www.uludagsozluk.com/k/reddedildi%C4%9Fi-halde-konu%C5%9Fan-erkek/&w=gd bkz atacücü
