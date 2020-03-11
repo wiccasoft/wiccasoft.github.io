@@ -14,7 +14,7 @@ bkz oytun erbaşın virüse kafam girsin demesi
 bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
-bkz bi kamalcıya covid-19 un dünya nüfusunu dengelemek içn yapıldığını bilale anlatır gib anlatmak
+bkz bi kamalcıya covid-19 un dünya nüfusunu dengelemek içn yapıldığını bilale anlatır gibi anlatmak
 -->
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
