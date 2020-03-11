@@ -8,7 +8,7 @@
 
 <!--
 bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 -80 = covid19
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz enes batur vs kontahar
 bkz sen yerinde duuuuuuuur karşında covid on dohuzzzzzz
 bkz belieber cılar vs kontkarcılar vs enes baturcular vs norm enderciler
