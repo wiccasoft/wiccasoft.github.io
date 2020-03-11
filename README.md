@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=OIOqFBa7htQ )
 
 <!--
-bkz otun erbaşın virüse kafam girsin demesi
+bkz oytun erbaşın virüse kafam girsin demesi
 bkz damarlarında asil kan dolaşıp covid-19 dan korkmak
 bkz biyologların yaptığı virüsü doktorlarla korkutmaya çalışmak :)))))))
 https://eksisozluk.com/ataturkun-yukselisinin-sirri--6404864?a=popular bkz nemli ortamlar
