@@ -1,4 +1,4 @@
-
+[![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=TkNHMmIUGFM )
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
@@ -7,7 +7,6 @@
 [![Image](waste/Screenshot_2020-02-28_14-27-26.png)]( https://www.youtube.com/watch?v=tEj1dDqwmVI )
 
 <!--
-bkz tc de virüs olmadığını sanan mallar
 bkz virüsün mitoz bölünmeyle çok partili döneme geçmesi
 bkz babuşcanın virüs yaratıp deva biziz mesajı vermesi
 https://www.youtube.com/watch?v=czW6NP_Chvg babuşcanın yapacağı virüs
