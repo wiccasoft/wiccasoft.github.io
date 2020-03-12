@@ -5,7 +5,6 @@ bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacüc ün covid 19 olma ihtimali
 bkz rakının dinci virüsü öldürmesi
-bkz 1881 atacüc 18 + 81 = 99 -80 = covid19
 bkz atacücücülerin iyice delirmesi
 bkz tece tarikatlar meczuplar ülkesi olamaz mc atacücü
 bkz redneck vs atacücü
