@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!-- 
+https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/&w=bg
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-lgbt-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-a%C3%A7mak-istemesi/
 https://www.uludagsozluk.com/k/ibb-arac%C4%B1yla-%C3%A7e%C5%9Fme-ye-gitmek/
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-en-sevdi%C4%9Fi-%C5%9Fey/
