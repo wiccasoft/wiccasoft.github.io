@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://kurgankt66.uludagsozluk.com/  evlat baban işe gidecek sen hala dünya liderliği peşindesin
 https://kurgankt66.uludagsozluk.com/  olm kimse tıklamıyo okumuyo bile niye kasıyosun ki
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg bkz kardeşim eset antivirus
 bkz dünya lideri ölürse yerine kim geçecek sorunsalı
