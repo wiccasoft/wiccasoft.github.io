@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz mustafa kamaldan doğan vs recep tayyipten doğan
+bkz receğ tayyiğ erdovan dünya lideri erdovan
 bkz receğ tayyiğ erdovan dünya lideri erdovan
 bkz liderin gelsin evlat
 bkz tayyip dünya lideriyse türküyü lideri kim sorunsalı
