@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.youtube.com/watch?v=2KErN9bMrwM zuahahhaha
 bkz 12 mart 2020 tayyipin dumansız hava sahası için yerli ve milli maske pr ı kasması
 bkz 12 mart 2020 tayyipin sigara dumanına karşı %100 yerli ve milli maske projesi
 bkz 12 mart 2020 tayyibin akaryakıtın akarı kokarı olmaz açıklaması
@@ -9,7 +10,6 @@ bkz tayyibin şehir içi az yakarım açıklaması
 https://www.youtube.com/watch?v=pzymE4VuiBk
 bkz onlar yalar tayyip yapar
 bkz tayybin uçan tayyereniz benim açıklaması
-https://www.youtube.com/watch?v=2KErN9bMrwM zuahahhaha
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-akaryak%C4%B1t-indirimini-a%C3%A7%C4%B1klamas%C4%B1/&w=bg
 bkz tayybin arapların kulağını çekip akaryakıtı indirmesi
 bkz tayyibi dünya tatlişkosu yapan özellikleri
