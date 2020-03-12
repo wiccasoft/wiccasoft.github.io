@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/enes-batur/&w=bg bkz enes abiye laf etme şerefsiz
 https://www.uludagsozluk.com/k/erke%C4%9Fin-g%C3%BCzel-poposu/&w=gd
 https://www.uludagsozluk.com/k/antik-heykellerdeki-erkek-cinsel-organ%C4%B1/
 bkz norm ender yapınca auuuuuu enes abi yapınca tu kaka
