@@ -1,5 +1,21 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
+<!--
+https://kurgankt66.uludagsozluk.com/ olm yat uyu lan tamam dünya liderisin anladık
+https://kurgankt66.uludagsozluk.com/ bkz tayyip sen misin lan
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
+bkz atacüc ün covid 19 olma ihtimali
+bkz dünya liderinizin facebook sayfası
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+bkz tayyip isminde birinin dünya lideri olabilme ihtimali
+https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz liderlerini dünya lideri sanmaları
+https://kurgankt66.uludagsozluk.com/ bkz dtayyibin dünya lideri sanan çomar
+https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg
+bkz tayyibi dünya lideri yapan özellikleri
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg --->
+
+
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
