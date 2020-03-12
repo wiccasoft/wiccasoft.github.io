@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayyibin %100 tayyare miz göklerde demesi
 bkz tayybin ademle havvayı yaratmasaydım keşke demesi
 bkz tayybin dünyayı beş kıtaya böleceğim açıklaması beşten büyük olacak açıklaması
 bkz tayyibin cehennem azabı çekecekleri açıklaması
