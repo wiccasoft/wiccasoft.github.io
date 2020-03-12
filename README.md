@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!-- 
+bkz virüsün türke kazandıracakları
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-t%C3%BCrke-katt%C4%B1klar%C4%B1/&w=gd bkz yoğurt
 bkz yuvarlak kafalı erkeklerin virüse karşı daha dirençsiz olması
 bkz yılmaz özdilin babasını kim öldürdü sorunsalı
