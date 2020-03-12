@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ bkz ayol yenir o
 https://www.youtube.com/watch?v=2KErN9bMrwM bu benim ben kaptım öpüjem bırak
 https://www.youtube.com/watch?v=EfAsNffCjsM allak ne kadr süper lan
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
