@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=WIdzDWvkpL0 )
 
 <!-- 
+bkz erkem imamaoğlunun babasının oğlanı yollim çift kale maç yapın demesi
 https://www.youtube.com/watch?v=WIdzDWvkpL0 first they killed turgut özal
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1-silahla-vurup-%C3%B6ld%C3%BCren-gen%C3%A7-k%C4%B1z/ bkz ahmet özal
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/&w=bg
