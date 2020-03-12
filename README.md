@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz onlar yalar tayyip yapar
 bkz tayybin corona virüsü şeklinde dev cami projesi müjdesi
 bkz tayybin uçan tayyereniz benim açıklaması
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahhaha
