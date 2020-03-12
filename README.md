@@ -1,26 +1,5 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
-<!-- 
-bkz 81 vilayet - hatay = 80
-bkz 1881 18+81 90 - 80 = covid 19
-bkz atcücünün nutukta covid19 dan bahsetmesi
-bkz şaka maka madafaka kenevirin kafa açması
-bkz 2 .abdulmecidde kenevir içermiş kenevir her derda deva bitki
-https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-kenevir-sevdas%C4%B1/ bkz kenevir iyidir
-https://www.uludagsozluk.com/k/koronavir%C3%BCse-kar%C5%9F%C4%B1-arap-sabunu-yiyen-yozgatl%C4%B1/&w=gd bkz ben
-https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-t%C3%BCrke-katt%C4%B1klar%C4%B1/&w=gd bkz yoğurt
-bkz yuvarlak kafalı erkeklerin virüse karşı daha dirençsiz olması
-bkz yılmaz özdilin babasını kim öldürdü sorunsalı
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz kürt lütfen
-https://www.youtube.com/watch?v=WIdzDWvkpL0 first they killed turgut özal
-https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1-silahla-vurup-%C3%B6ld%C3%BCren-gen%C3%A7-k%C4%B1z/ bkz ahmet özal
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/&w=bg
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-lgbt-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-a%C3%A7mak-istemesi/
-https://www.uludagsozluk.com/k/ibb-arac%C4%B1yla-%C3%A7e%C5%9Fme-ye-gitmek/
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-en-sevdi%C4%9Fi-%C5%9Fey/
-https://www.uludagsozluk.com/k/ibb-chp-%C3%BCyelerinin-istiklal-mar%C5%9F%C4%B1nda-oturmas%C4%B1/
-https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/&w=bg -->
-
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=td8_Y5iiRjw )
 
