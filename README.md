@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-bkz tayyibin dünya değil galaksi lideriyim demesi
+bkz tayyibin dünya değil kainat lideriyim demesi
 bkz tayybini allah olduğunu kanıtlayan özellikleri
 bkz tayyibin allah olma ihtimali
 bkz 15 temmuz 2016 dünya tatlişkosu dünya liderine darbe kalkışması
