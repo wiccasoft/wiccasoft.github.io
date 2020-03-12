@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayybin arapların kulağını çekip akaryakıtı indirmesi
 bkz tayyibni bi sözümle dünya petrol dengelerini değiştiririm açıklaması
 bkz tayybini akaryakıtı indirdim hadi gene iyisiniz açıklaması
 bkz tayyibin dünya petrolü bitecek nasılsa nabcanız akar yakıtı açıklaması
