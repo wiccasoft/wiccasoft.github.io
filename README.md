@@ -2,7 +2,7 @@
 
 <!--
 bkz onlar yalar tayyip yapar
-bkz tayyipin bu fakir bu görevde oldukçu daha çok yalarsınız demesi
+bkz tayyipin bu fakir bu görevde oldukça daha çok yalarsınız demesi
 bkz tayyipin o kadar yalamayın olm yalak oldunuz açıklaması
 bkz tayyipi yalarken astım krizi geçiren akpli 
 bkz tayybin corona virüsü şeklinde dev cami projesi müjdesi
