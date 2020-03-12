@@ -2,7 +2,6 @@
 
 
 <!--
-bkz türklerin aşağılık kompleksinni sebepleri
 bkz tayyip isminde birinin dünya lideri olabilme ihtimali
 https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz liderlerini dünya lideri sanmaları
 https://kurgankt66.uludagsozluk.com/ bkz dtayyibin dünya lideri sanan çomar
