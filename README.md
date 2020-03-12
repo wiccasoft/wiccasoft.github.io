@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz müjdat gezenenin halk tv videoları
 sen yerindee duuuuuuuur karşında enes baturrrrrr
+https://www.uludagsozluk.com/k/m%C3%BCjdat-gezen-in-feto-ile-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/enes-batur/&w=bg bkz enes abiye laf etme şerefsiz
 https://www.uludagsozluk.com/k/erke%C4%9Fin-g%C3%BCzel-poposu/&w=gd
 https://www.uludagsozluk.com/k/antik-heykellerdeki-erkek-cinsel-organ%C4%B1/
