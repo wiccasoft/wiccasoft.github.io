@@ -2,7 +2,7 @@
 
 <!--
 bkz tayyibin allah olma ihtimali
-bkz 15 temmuz 2016 dünya tatlişkosu dünya  liderine darbe kalkışması
+bkz 15 temmuz 2016 dünya tatlişkosu dünya liderine darbe kalkışması
 bkz tayyibi dünya tatlişkosu yapan özellikleri
 bkz ilk buluşmaya virüs maskesiyle gelen erkek
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-tatl%C4%B1-oldu%C4%9Fu-an/&w=bg dünya lideri olduğu an
