@@ -1,43 +1,5 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
-<!--
-bkz ilk buluşmaya virüslü gelen erkek
-bkz bir eykeğin corona virüslü olduğunu anlamanın yolları 
-bkz tayyere uçak demekse tayyip uçak pilotu mu sorunsalı
-bkz tayyibin yerli haftası için kuruyemiş alması
-bkz tayyibin yüzde yüz yerli ve milli uçak müjdesi
-https://www.uludagsozluk.com/k/yerli-u%C3%A7ak-g%C3%B6klerde/&w=bg ooo hadi bakalım %100 mü
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-tatl%C4%B1-oldu%C4%9Fu-an/&w=bg iğrençsiniz ibneler
-bkz tayyip isminde birinin kainat lideri olabilme ihtimali
-bkz tayyibi kainat lideri yapan özellikleri
-bkz atacücünün incilic procesi olduğu iddaları
-bkz ismet inöcünün atacücü gölgesinde kalması
-bkz recep tayyiğ erdoğan isminde birini kainat lideri olma ihtimali
-bkz recep tayyipten doğanın kainat lideri yapan en önemli özelliği
-bkz mustafa kamaldan doğan vs recep tayyipten doğan
-bkz receğ tayyiğ erdovan dünya lideri erdovan
-bkz receğ tayyiğ erdovan dünya lideri erdovan
-bkz liderin gelsin evlat
-bkz tayyip dünya lideriyse türküyü lideri kim sorunsalı
-bkz tayyipin dünya lideri olması
-bkz atacücünün damarlarınızdaki asil kan covid19 u yenecektir lafı
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz atacüc ün covid 19 olma ihtimali
-bkz rakının dinci virüsü öldürmesi
-bkz atacücücülerin iyice delirmesi
-bkz tece tarikatlar meczuplar ülkesi olamaz mc atacücü
-bkz redneck vs atacücü
-https://www.uludagsozluk.com/k/atat%C3%BCrk-imzal%C4%B1-maske/
-bkz 1881 atacüc 18 + 81 = 99 -80 = covid19
-bkz ata cücünün covid-19 u nutukta anlatması
-https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz tc dinciler meczuplar ülkesi olamaz m.atacücü
-https://www.uludagsozluk.com/e/42982100/ bkz tayyip isminde birinin dünya lideri olma ihtimali
-https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/&w=bg bkz dünya lideri trump
-bkz tayyibin dünya değil kainat lideri olduğu gerçeği
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg
-kainat lideri darth tayyib -->
-
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=gjP7RbDyF-I  )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
