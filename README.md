@@ -2,7 +2,6 @@
 
 <!--
 https://kurgankt66.uludagsozluk.com/  evlat sabah baban işe gidecek sen hala dünya liderliği peşindesin
-https://kurgankt66.uludagsozluk.com/  olm kimse tıklamıyo okumuyo bile niye kasıyosun ki
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg bkz kardeşim eset antivirus
 bkz dünya lideri ölürse yerine kim geçecek sorunsalı
 https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/&w=bg bkz kendilerini dünya lideri sanmaları
