@@ -3,7 +3,7 @@
 <!--
 bkz tayybin arkayı beşleyin arkadan vermeyen kalmasın açıklaması
 bkz tayyibin şehir içi az yakarım açıklaması
-bkz 12 mart 2020 tayyipin geri vitesden beş e takması
+bkz 12 mart 2020 tayyipin geri vitesden beş e takıp pati yapması
 https://www.youtube.com/watch?v=pzymE4VuiBk
 bkz onlar yalar tayyip yapar
 bkz tayyipin bu fakir bu görevde oldukça daha çok yalarsınız demesi
