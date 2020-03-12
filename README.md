@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-bbkz tayyibin şehir içi az yakarım açıklaması
+bkz tayybin arkayı beşleyin arkadan vermeyen kalmasın açıklaması
+bkz tayyibin şehir içi az yakarım açıklaması
 bkz 12 mart 2020 tayyipin geri vitesi
 https://www.uludagsozluk.com/k/yazarlar%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-en-y%C3%BCksek-h%C4%B1z/ 
 https://www.youtube.com/watch?v=pzymE4VuiBk
