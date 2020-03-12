@@ -5,15 +5,7 @@ bkz virüsün türke kazandıracakları
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-t%C3%BCrke-katt%C4%B1klar%C4%B1/&w=gd bkz yoğurt
 bkz yuvarlak kafalı erkeklerin virüse karşı daha dirençsiz olması
 bkz yılmaz özdilin babasını kim öldürdü sorunsalı
-https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz asil kanlı kürt
-bkz türklerin genelde şişman olması neden coronadan korkması kanlarında asil kan dolaşması
-bkz özal ailesinin fenotip olarak birbirine benzemesi
-bkz turgut özalı öldüreninni semra özal çıkması
-https://rall.uludagsozluk.com/ bkz ak lgbt
-bkz imamoğlunun ak lgbt için lgbt müdürlüğü açması
-bkz istiklal marşında götünü parmaklatan ak boylar
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-lgbt-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-a%C3%A7mak-istemesi/
-bkz erkem imamaoğlunun babasının oğlanı yollim çift kale maç yapın demesi
+https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz kürt lütfen
 https://www.youtube.com/watch?v=WIdzDWvkpL0 first they killed turgut özal
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1-silahla-vurup-%C3%B6ld%C3%BCren-gen%C3%A7-k%C4%B1z/ bkz ahmet özal
 https://www.uludagsozluk.com/k/turgut-%C3%B6zal-%C4%B1-%C3%B6ld%C3%BCrenler-s%C4%B1ral%C4%B1-tam-liste/&w=bg
