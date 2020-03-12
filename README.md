@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayyere uçak demekse tayyip uçak pilotu mu sorunsalı
 bkz tayyibin yerli haftası için kuruyemiş alması
 bkz tayyibin yüzde yüz yerli ve milli uçak müjdesi
 https://www.uludagsozluk.com/k/yerli-u%C3%A7ak-g%C3%B6klerde/&w=bg ooo hadi bakalım %100 mü
