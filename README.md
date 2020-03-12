@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz ata cücünün covid-19 u nutukta anlatması
 https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz tc dinciler meczuplar ülkesi olamaz m.atacücü
 https://www.uludagsozluk.com/e/42982100/ bkz tayyip isminde birinin dünya lideri olma ihtimali
 https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/&w=bg bkz dünya lideri trump
