@@ -2,9 +2,9 @@
 
 <!--
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuhahahaha
+bkz evdeki perdeye sarılıp kefen yaptım tayyip dünya lideri diye bağıran velet
 https://kurgankt66.uludagsozluk.com/  evlat sabah baban işe gidecek sen hala dünya liderliği peşindesin
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg bkz kardeşim eset antivirus
-bkz dünya lideri ölürse yerine kim geçecek sorunsalı
 https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/&w=bg bkz kendilerini dünya lideri sanmaları
 https://kurgankt66.uludagsozluk.com/ olm yat uyu lan tamam dünya liderisin anladık
 https://kurgankt66.uludagsozluk.com/ bkz tayyip sen misin lan
