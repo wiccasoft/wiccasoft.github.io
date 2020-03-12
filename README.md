@@ -2,6 +2,8 @@
 
 
 <!--
+https://kurgankt66.uludagsozluk.com/ bkz dünya liderinin danışmanı
+https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg
 bkz tayyibi dünya lideri yapan özellikleri
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg --->
 
