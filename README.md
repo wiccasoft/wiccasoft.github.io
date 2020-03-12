@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-bkz tayybin dünyayı beş kıtaya böleceğim açıklaması
+bkz tayybin dünyayı beş kıtaya böleceğim açıklaması beşten büyük olacak açıklaması
 bkz tayyibin cehennem azabı çekecekleri açıklaması
 bkz tayyibin dünya değil kainat lideriyim demesi
 bkz tayybini allah olduğunu kanıtlayan özellikleri
