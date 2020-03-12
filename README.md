@@ -2,6 +2,7 @@
 
 <!--
 bkz onlar yalar tayyip yapar
+bkz tayyipi yalarken astım krizi geçiren akpli 
 bkz tayybin corona virüsü şeklinde dev cami projesi müjdesi
 bkz tayybin uçan tayyereniz benim açıklaması
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahhaha
