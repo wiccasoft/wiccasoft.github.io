@@ -3,8 +3,7 @@
 <!--
 bkz tayybin arkayı beşleyin arkadan vermeyen kalmasın açıklaması
 bkz tayyibin şehir içi az yakarım açıklaması
-bkz 12 mart 2020 tayyipin geri vitesi
-https://www.uludagsozluk.com/k/yazarlar%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-en-y%C3%BCksek-h%C4%B1z/ 
+bkz 12 mart 2020 tayyipin geri vitesden beş e takması
 https://www.youtube.com/watch?v=pzymE4VuiBk
 bkz onlar yalar tayyip yapar
 bkz tayyipin bu fakir bu görevde oldukça daha çok yalarsınız demesi
