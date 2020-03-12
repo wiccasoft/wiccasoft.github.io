@@ -6,6 +6,7 @@ bkz atacücün covid-19 olması
 bkz atacücü incilic procesi olma ihtimali
 bkz erdal inöcünün atacücünün gölgesinde kalması
 bkz atacücünün pipisi sünnetlimiydi sorunsalı
+bkz atacücün covid-19 olması
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz fetönün devlet sırlarını  satması
