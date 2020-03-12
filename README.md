@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayyibi jkainat lideri yapan özellikleri
 bkz atacücünün incilic procesi olduğu iddaları
 bkz ismet inöcünün atacücü gölgesinde kalması
 bkz recep tayyiğ erdoğan isminde birini kainat lideri olma ihtimali
