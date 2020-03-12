@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=WIdzDWvkpL0 )
 
 <!-- 
+bkz yılmaz özdilin babasını kim öldürdü sorunsalı
 https://www.uludagsozluk.com/k/y%C4%B1lmaz-%C3%B6zdil/&w=bg bkz asil kanlı kürt
 bkz türklerin genelde şişman olması neden coronadan korkması kanlarında asil kan dolaşması
 bkz özal ailesinin fenotip olarak birbirine benzemesi
