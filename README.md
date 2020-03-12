@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/&w=bg bkz kendilerini dünya lideri sanmaları
 https://kurgankt66.uludagsozluk.com/ olm yat uyu lan tamam dünya liderisin anladık
 https://kurgankt66.uludagsozluk.com/ bkz tayyip sen misin lan
 bkz 81 vilayet - hatay = 80
