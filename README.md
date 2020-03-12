@@ -2,6 +2,7 @@
 
 <!--
 bkz türkleri aşırı hetero olması
+bkz adam gibi adam diyince akla gelenler
 bkz türkiyede zeki müren bülent ersoy dışında hiç eşcinsel olmaması sorunsalı
 https://www.uludagsozluk.com/k/herkesin-bir-g%C3%BCn-topra%C4%9F%C4%B1n-alt%C4%B1na-gidecek-olmas%C4%B1/ bkz ibne
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ bkz ibnelerin doluştuğu başlık
