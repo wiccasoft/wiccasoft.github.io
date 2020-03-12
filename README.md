@@ -1,6 +1,11 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
 
-
+<!-- 
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
+bkz atacücün covid-19 olması
+bkz atacücünü nutukta covid-19 dan bahsetmesi 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-yunan-bayra%C4%9F%C4%B1na-basmamas%C4%B1/&w=bg -->
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=td8_Y5iiRjw )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
