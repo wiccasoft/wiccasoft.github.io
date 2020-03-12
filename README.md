@@ -2,8 +2,7 @@
 
 <!--
 bkz ilk buluşmaya virüslü gelen erkek
-bkz biy eykeğin corona virüslü olduğunu anlamanın yolları (süper başlık olur kapın derim gencolar)
-bkz biy eykeğin corona virüslü olduğunu anlamanın yolları yakında açılır bu başlık
+bkz bir eykeğin corona virüslü olduğunu anlamanın yolları 
 bkz tayyere uçak demekse tayyip uçak pilotu mu sorunsalı
 bkz tayyibin yerli haftası için kuruyemiş alması
 bkz tayyibin yüzde yüz yerli ve milli uçak müjdesi
