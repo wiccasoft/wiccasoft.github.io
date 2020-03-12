@@ -3,6 +3,8 @@
 
 <!--
 bkz atacücün covid-19 olması
+bkz atacücünü nutukta covi19 dan bahsetmesi 
+bkz bunların hepsi nutukta yazıyor zaten
 bkz atacücü incilic procesi olma ihtimali
 bkz erdal inöcünün atacücünün gölgesinde kalması
 bkz atacücünün pipisi sünnetlimiydi sorunsalı
