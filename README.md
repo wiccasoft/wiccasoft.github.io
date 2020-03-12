@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-bkz norm edner yapınca auu enes abi yapınca tu kaka
+bkz norm ender yapınca auuuuuu enes abi yapınca tu kaka
 bkz norm ender yapınca auuuuuu konthakar yapınca tukaka
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahhaha
 bkz 12 mart 2020 dumansız hava sahası için yerli ve milli maske 
