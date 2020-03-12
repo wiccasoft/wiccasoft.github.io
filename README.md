@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz liderlerini dünya lideri sanmaları
 https://kurgankt66.uludagsozluk.com/ bkz dünya liderinin danışmanı
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg
 bkz tayyibi dünya lideri yapan özellikleri
