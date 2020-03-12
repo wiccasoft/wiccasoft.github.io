@@ -2,6 +2,7 @@
 
 
 <!--
+bkz erdal inöcünün atacücünün gölgesinde kalması
 bkz atacücünün pipisi sünnetlimiydi sorunsalı
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
