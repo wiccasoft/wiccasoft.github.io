@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuhahahaha
 https://kurgankt66.uludagsozluk.com/  evlat sabah baban işe gidecek sen hala dünya liderliği peşindesin
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg bkz kardeşim eset antivirus
 bkz dünya lideri ölürse yerine kim geçecek sorunsalı
