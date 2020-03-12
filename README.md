@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=WIdzDWvkpL0 )
 
 <!-- 
+bkz turguy özalı öldüreninni semra özal çıkması
 https://rall.uludagsozluk.com/ bkz ak lgbt
 bkz imamoğlunun ak lgbt için lgbt müdürlüğü açması
 bkz istiklal marşında götünü parmaklatan ak boylar
