@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/di%C5%9F-f%C4%B1r%C3%A7alaman%C4%B1n-%C3%A7ok-sa%C3%A7ma-bir-%C5%9Fey-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/&w=bg
 bkz müjdat gezenenin halk tv videoları
 sen yerindee duuuuuuuur karşında enes baturrrrrr
 https://www.uludagsozluk.com/k/m%C3%BCjdat-gezen-in-feto-ile-foto%C4%9Fraf%C4%B1/
