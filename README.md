@@ -2,6 +2,8 @@
 
 
 <!--
+bkz tayyipten sonrasını okumadım
+https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg
 bkz kardeşim eset antivirüs
 bkz dünya lideri tayyipin aknonoşlar ak maske dğaıtması
 bkz aknonoşların tayyipten ak maske istemesi
