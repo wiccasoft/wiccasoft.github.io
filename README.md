@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/e/42983956/ ay ben bunu yerim kızlar
 https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ bkz yenir kız bu
 bkz angelina jolie nin niye sürekli özür diliyosun diyip başlık açması
 https://www.uludagsozluk.com/k/bir-demet-tiyatro-sald%C4%B1ray/&w=bg bkz sürekli özür dileyen adam
