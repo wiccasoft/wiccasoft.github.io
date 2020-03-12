@@ -6,34 +6,13 @@ bkz 12 mart 2020 tayyipin sigaraya karşı %100 yerli ve milli maske projesi
 bkz 12 mart 2020 tayyibin akaryakıtın akarı kokarı olmaz açıklaması
 bkz tayybin arkayı beşleyin arkadan vermeyen kalmasın açıklaması
 bkz tayyibin şehir içi az yakarım açıklaması
-bkz 12 mart 2020 tayyipin geri vitesden beş e takıp pati yapması
 https://www.youtube.com/watch?v=pzymE4VuiBk
 bkz onlar yalar tayyip yapar
-bkz tayyipin bu fakir bu görevde oldukça daha çok yalarsınız demesi
-bkz tayyipin o kadar yalamayın olm yalak oldunuz açıklaması
-bkz tayyipi yalarken astım krizi geçiren akpli 
-bkz tayybin corona virüsü şeklinde dev cami projesi müjdesi
 bkz tayybin uçan tayyereniz benim açıklaması
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahhaha
 https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-akaryak%C4%B1t-indirimini-a%C3%A7%C4%B1klamas%C4%B1/&w=bg
 bkz tayybin arapların kulağını çekip akaryakıtı indirmesi
-bkz tayyibni bi sözümle dünya petrol dengelerini değiştiririm açıklaması
-bkz tayybini akaryakıtı indirdim hadi gene iyisiniz açıklaması
-bkz tayyibin dünya petrolü bitecek nasılsa nabcanız akar yakıtı açıklaması
-bkz tayybin akaryakıtın akarı kokarı olur açıklaması
-bkz tayyibin %100 tayyare miz göklerde demesi
-bkz tayybin ademle havvayı yaratmasaydım keşke demesi
-bkz tayybin dünyayı beş kıtaya böleceğim açıklaması beşten büyük olacak açıklaması
-bkz tayyibin cehennem azabı çekecekleri açıklaması
-bkz tayyibin dünya değil kainat lideriyim demesi
-bkz tayybini allah olduğunu kanıtlayan özellikleri
-bkz tayyibin allah olma ihtimali
-bkz 15 temmuz 2016 dünya tatlişkosu dünya liderine darbe kalkışması
 bkz tayyibi dünya tatlişkosu yapan özellikleri
-bkz ilk buluşmaya virüs maskesiyle gelen erkek
-https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-tatl%C4%B1-oldu%C4%9Fu-an/&w=bg dünya lideri olduğu an
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/15-temmuz-2016-darbe-giri%C5%9Fimi/&w=bg aslında dan sonrasının okumadım
 bkz sedat pekerin dünya lideri yeğeniyim demesi
 bkz tayyibin putini tokat manyağı yapması
 bkz tayyip çıkıp dese ki bütün dünyayı affetim naparsınız sorunsalı
@@ -41,9 +20,6 @@ bkz tayyibin dünya liderliğinden sıkılıp galaksi liderliği var ben de deme
 bkz tayyibi galaksi lider yapan özellikleri
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ zuhahahaha
 bkz evdeki perdeye sarılıp yerli kefen yaptım tayyip dünya lideri diye sabaha kadar zıplayan velet
-https://kurgankt66.uludagsozluk.com/  evlat sabah baban işe gidecek sen hala dünya liderliği peşindesin
-https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg bkz kardeşim eset antivirus
-https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/&w=bg bkz kendilerini dünya lideri sanmaları
 https://kurgankt66.uludagsozluk.com/ olm yat uyu lan tamam dünya liderisin anladık
 https://kurgankt66.uludagsozluk.com/ bkz tayyip sen misin lan
 bkz 81 vilayet - hatay = 80
@@ -52,10 +28,7 @@ bkz atacüc ün covid 19 olma ihtimali
 bkz dünya liderinizin facebook sayfası
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz tayyip isminde birinin dünya lideri olabilme ihtimali
-https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz liderlerini dünya lideri sanmaları
-https://kurgankt66.uludagsozluk.com/ bkz dtayyibin dünya lideri sanan çomar
 https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg
-bkz tayyibi dünya lideri yapan özellikleri
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg --->
 
 
