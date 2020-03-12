@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayyip putin ayakta bekletti tapelerinin fake çıkması
 bkz 12 mart 2020 tayyibin akaryakıtın akarı kokarı olmaz açıklaması
 bkz tayybin arkayı beşleyin arkadan vermeyen kalmasın açıklaması
 bkz tayyibin şehir içi az yakarım açıklaması
