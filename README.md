@@ -3,6 +3,7 @@
 <!-- 
 bkz 81 vilayet - hatay = 80
 bkz 1881 18+81 90 - 80 = covid 19
+bkz atcücünün nutukta covid19 dan bahsetmesi
 bkz şaka maka madafaka kenevirin kafa açması
 bkz 2 .abdulmecidde kenevir içermiş kenevir her derda deva bitki
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-kenevir-sevdas%C4%B1/ bkz kenevir iyidir
