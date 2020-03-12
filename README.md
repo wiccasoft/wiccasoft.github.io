@@ -2,6 +2,7 @@
 
 
 <!--
+https://kurgankt66.uludagsozluk.com/ olm yat uyu lan sabah anne işe gidecek
 https://kurgankt66.uludagsozluk.com/ bkz tayyip sen misin lan
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
