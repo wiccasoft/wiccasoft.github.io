@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz atacücücülerin iyice delirmesi
 bkz tece tarikatlar meczuplar ülkesi olamaz mc atacücü
 bkz redneck vs atacücü
 https://www.uludagsozluk.com/k/atat%C3%BCrk-imzal%C4%B1-maske/
