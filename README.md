@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz ismail türüt adam var adam gibi mp3
 bkz türkleri aşırı hetero olması
 bkz adam gibi adam diyince akla gelenler
 bkz türkiyede zeki müren bülent ersoy dışında hiç eşcinsel olmaması sorunsalı
