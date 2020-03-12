@@ -2,6 +2,7 @@
 
 
 <!--
+bkz atacücün covid-19 olması
 bkz atacücü incilic procesi olma ihtimali
 bkz erdal inöcünün atacücünün gölgesinde kalması
 bkz atacücünün pipisi sünnetlimiydi sorunsalı
