@@ -2,15 +2,6 @@
 
 
 <!--
-https://www.uludagsozluk.com/k/kelle-yiyerek-vir%C3%BCsten-korunaca%C4%9F%C4%B1n%C4%B1-sanan-kitle/&w=bg
-bkz şeyh uçmaz mürit uçurur
-bkz tayyipin ümmet liderliğinden  dünya liderliğine terfi etmesi
-bkz tayyipten sonrasını okumadım
-https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg
-bkz kardeşim eset antivirüs
-bkz dünya lideri tayyipin aknonoşlar ak maske dğaıtması
-bkz aknonoşların tayyipten ak maske istemesi
-bkz aknonoşların tayyoşu dünya lideri sanması
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacüc ün covid 19 olma ihtimali
