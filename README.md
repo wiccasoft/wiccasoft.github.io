@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.youtube.com/watch?v=qwn3QzsZJGY
 bkz cüclere atacüc imzalı maske satıp parayı kırmak
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
