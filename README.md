@@ -1,12 +1,10 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tarabya da uşaklar etilerde yumuşaklar
 https://www.youtube.com/watch?v=td8_Y5iiRjw seni gidi fındıkkıran
 https://www.youtube.com/watch?v=zmgfwvfHDPQ adam var adam gibi
 https://www.uludagsozluk.com/k/ahmet-%C3%B6zal/&w=bg 
-bkz babamı zeki müren öldürdü
-bkz vuruşmaktan korkan erkekler
-bkz tarabya da uşaklar etilerde yumuşaklar
 https://www.uludagsozluk.com/k/topuklu-ayakkab%C4%B1l%C4%B1-ve-mini-etekli-zeki-m%C3%BCren/&w=bg
 bkz başka erkeğe takıntılı erkeklerin genelde top oldukları gerçeği
 https://www.uludagsozluk.com/k/herkesin-bir-g%C3%BCn-topra%C4%9F%C4%B1n-alt%C4%B1na-gidecek-olmas%C4%B1/ bkz ibne
