@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!-- 
-bkz 2 .abdulmecidde kenevir içermiş
+bkz 2 .abdulmecidde kenevir içermiş kenevir her derda deva bitki
 https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-kenevir-sevdas%C4%B1/ bkz kenevir iyidir
 https://www.uludagsozluk.com/k/koronavir%C3%BCse-kar%C5%9F%C4%B1-arap-sabunu-yiyen-yozgatl%C4%B1/&w=gd bkz ben
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-t%C3%BCrke-katt%C4%B1klar%C4%B1/&w=gd bkz yoğurt
