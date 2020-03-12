@@ -2,6 +2,7 @@
 
 
 <!--
+bkz atacücü incilic procesi olma ihtimali
 bkz erdal inöcünün atacücünün gölgesinde kalması
 bkz atacücünün pipisi sünnetlimiydi sorunsalı
 bkz 81 vilayet - hatay = 80
