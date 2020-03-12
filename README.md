@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/herkesin-bir-g%C3%BCn-topra%C4%9F%C4%B1n-alt%C4%B1na-gidecek-olmas%C4%B1/ bkz ibne
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ bkz ibnelerin doluştuğu başlık
 https://oynakbeyi.uludagsozluk.com/ bkz ibne
 https://judas.uludagsozluk.com/ bkz ibne
