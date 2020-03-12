@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayyibin putini tokat manyağı yapması
 bkz tayyip çıkıp dese ki bütün dünyayı affetim naparsınız sorunsalı
 bkz tayyibin dünya liderliğinden sıkılıp galaksi liderliği var ben de demesi
 bkz tayyibi galaksi lider yapan özellikleri
