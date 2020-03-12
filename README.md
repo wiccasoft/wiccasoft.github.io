@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=WIdzDWvkpL0 )
 
 <!-- 
+https://rall.uludagsozluk.com/ bkz ak lgbt
+https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-lgbt-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-a%C3%A7mak-istemesi/
 bkz erkem imamaoğlunun babasının oğlanı yollim çift kale maç yapın demesi
 https://www.youtube.com/watch?v=WIdzDWvkpL0 first they killed turgut özal
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1-silahla-vurup-%C3%B6ld%C3%BCren-gen%C3%A7-k%C4%B1z/ bkz ahmet özal
