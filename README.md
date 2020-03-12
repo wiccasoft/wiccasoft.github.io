@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-bkz 12 mart 2020 tayyipin dumansız hava sahası için işe koyulması
+bkz 12 mart 2020 tayyipin dumansız hava sahası için yerli ve milli maske pr ı kasması
 bkz 12 mart 2020 tayyipin sigara dumanına karşı %100 yerli ve milli maske projesi
 bkz 12 mart 2020 tayyibin akaryakıtın akarı kokarı olmaz açıklaması
 bkz tayybin arkayı beşleyin arkadan vermeyen kalmasın açıklaması
