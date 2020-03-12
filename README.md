@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/15-temmuz-2016-darbe-giri%C5%9Fimi/&w=bg aslında dan sonrasının okumadım
 bkz sedat pekerin dünya lideri yeğeniyim demesi
 bkz tayyibin putini tokat manyağı yapması
 bkz tayyip çıkıp dese ki bütün dünyayı affetim naparsınız sorunsalı
