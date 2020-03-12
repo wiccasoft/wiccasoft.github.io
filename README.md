@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/nietzsche-nin-b%C4%B1y%C4%B1klar%C4%B1/&w=bg bkz marxın sakalları
 bkz atacüc imzalı maske satıp parayı kırmak
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
