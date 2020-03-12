@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/bir-demet-tiyatro-sald%C4%B1ray/&w=bg bkz sürekli özür dileyen adam
 https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ ay yerim onu kız
 bkz atacücün covid-19 olması
 bkz atacücünü nutukta covi19 dan bahsetmesi 
