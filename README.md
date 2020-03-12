@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ ibneydi olm daha ne tartışıyon
 bkz bir erkeğin ibne olup olmadığını anlamaının yolları
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ ben ibneydi mezarına girip göt deliği soktum
 https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-icran%C4%B1n-ba%C5%9F%C4%B1/ bkz burası çokomelli
