@@ -2,6 +2,8 @@
 
 
 <!--
+https://www.youtube.com/watch?v=EfAsNffCjsM allak ne kadr süper lan
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/cristiano-ronaldo/&w=bg bkz ronaldonun göt kasları
 https://www.uludagsozluk.com/k/david-beckham-%C4%B1n-g%C3%B6t%C3%BC/&w=bg -->
 
