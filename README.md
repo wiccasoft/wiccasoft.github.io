@@ -2,6 +2,8 @@
 
 
 <!--
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
 bkz atacücün covid-19 olması
 bkz atacücünü nutukta covi19 dan bahsetmesi 
 bkz bunların hepsi nutukta yazıyor zaten
