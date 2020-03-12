@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-tatl%C4%B1-oldu%C4%9Fu-an/&w=bg iğrençsiniz ibneler
 bkz tayyip isminde birinin kainat lideri olabilme ihtimali
 bkz tayyibi kainat lideri yapan özellikleri
 bkz atacücünün incilic procesi olduğu iddaları
