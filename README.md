@@ -58,7 +58,7 @@ https://www.uludagsozluk.com/k/karde%C5%9Fim-esat/&w=bg
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg --->
 
 
-[![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=td8_Y5iiRj )
+[![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=td8_Y5iiRjw )
 
 <!-- https://stjarnhimlen.se/comp/ppcomp.html#11 -->
 
