@@ -2,6 +2,8 @@
 
 
 <!--
+bkz kardeşim eset antivirüs
+bkz dünya lideri tayyipin aknonoşlar ak maske dğaıtması
 bkz aknonoşların tayyipten ak maske istemesi
 bkz aknonoşların tayyoşu dünya lideri sanması
 bkz 81 vilayet - hatay = 80
