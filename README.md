@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/kelle-yiyerek-vir%C3%BCsten-korunaca%C4%9F%C4%B1n%C4%B1-sanan-kitle/&w=bg
 bkz şeyh uçmaz mürit uçurur
 bkz tayyipin ümmet liderliğinden  dünya liderliğine terfi etmesi
 bkz tayyipten sonrasını okumadım
