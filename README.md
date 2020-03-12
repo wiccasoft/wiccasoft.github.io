@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/cumhurba%C5%9Fkan%C4%B1-icran%C4%B1n-ba%C5%9F%C4%B1/ bkz burası çokomelli
 sen entry gire durrrrr enes abin paraları götüredurrrrrrrrr
 sen diş fırtçalama durrrrrr karşındaaaa eness baturrrrrrrrr
 https://www.uludagsozluk.com/k/lig-%C5%9Fampiyonlu%C4%9Funun-3-l%C3%BC-averaja-kalaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/
