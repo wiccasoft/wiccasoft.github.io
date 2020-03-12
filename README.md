@@ -2,6 +2,7 @@
 
 
 <!--
+bkz tayyipin ümmet liderliğinden  dünya liderliğine terfi etmesi
 bkz tayyipten sonrasını okumadım
 https://www.uludagsozluk.com/k/tayyibi-d%C3%BCnya-lideri-yapan-en-%C3%B6nemli-%C3%B6zelli%C4%9Fi/&w=bg
 bkz kardeşim eset antivirüs
