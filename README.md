@@ -2,6 +2,7 @@
 
 
 <!--
+bkz adam fenerli zaten beyler
 https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ adam kırık beyler
 https://www.youtube.com/watch?v=zmgfwvfHDPQ bkz adam var adam gibi
 https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ bkz ayol yenir o
