@@ -3,7 +3,7 @@
 <!-- 
 https://rall.uludagsozluk.com/ bkz ak lgbt
 bkz imamoğlunun ak lgbt için lgbt müdürlüğü açması
-bkz istiklala marşında götünü parmaklatana ak boylar
+bkz istiklal marşında götünü parmaklatan ak boylar
 https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-nun-lgbt-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-a%C3%A7mak-istemesi/
 bkz erkem imamaoğlunun babasının oğlanı yollim çift kale maç yapın demesi
 https://www.youtube.com/watch?v=WIdzDWvkpL0 first they killed turgut özal
