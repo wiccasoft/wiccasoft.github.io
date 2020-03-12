@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ bkz ibnelerin doluştuğu başlık
 https://oynakbeyi.uludagsozluk.com/ bkz ibne
 https://judas.uludagsozluk.com/ bkz ibne
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz vurduruyordur
