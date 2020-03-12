@@ -2,6 +2,7 @@
 
 
 <!--
+bkz aknonoşların tayyipten ak maske istemesi
 bkz aknonoşların tayyoşu dünya lideri sanması
 bkz 81 vilayet - hatay = 80
 bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
