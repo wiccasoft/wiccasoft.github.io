@@ -1,10 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-bkz ismail türüt adam var adam gibi mp3
-bkz türkleri aşırı hetero olması
-bkz adam gibi adam diyince akla gelenler
-bkz türkiyede zeki müren bülent ersoy dışında hiç eşcinsel olmaması sorunsalı
+bkz tarabya da uşaklar etilerde yumuşaklar
 https://www.uludagsozluk.com/k/herkesin-bir-g%C3%BCn-topra%C4%9F%C4%B1n-alt%C4%B1na-gidecek-olmas%C4%B1/ bkz ibne
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ bkz ibnelerin doluştuğu başlık
 https://oynakbeyi.uludagsozluk.com/ bkz ibne
