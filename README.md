@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz tayyibin dünya petrolü bitecek nasılsa nabcanız akar yakıtı açıklaması
 bkz tayybin akaryakıtın akarı kokarı olur açıklaması
 bkz tayyibin %100 tayyare miz göklerde demesi
 bkz tayybin ademle havvayı yaratmasaydım keşke demesi
