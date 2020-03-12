@@ -2,6 +2,7 @@
 
 <!-- 
 bkz virüsün türke kazandıracakları
+https://www.uludagsozluk.com/k/koronavir%C3%BCse-kar%C5%9F%C4%B1-arap-sabunu-yiyen-yozgatl%C4%B1/&w=gd bkz ben
 https://www.uludagsozluk.com/k/osmanl%C4%B1n%C4%B1n-t%C3%BCrke-katt%C4%B1klar%C4%B1/&w=gd bkz yoğurt
 bkz yuvarlak kafalı erkeklerin virüse karşı daha dirençsiz olması
 bkz yılmaz özdilin babasını kim öldürdü sorunsalı
