@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
+bkz 1881 atacüc 18 + 81 = 99 -80 = covid19
 bkz atacücücülerin iyice delirmesi
 bkz tece tarikatlar meczuplar ülkesi olamaz mc atacücü
 bkz redneck vs atacücü
