@@ -1,33 +1,7 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 
-<!--
-https://www.youtube.com/watch?v=qwn3QzsZJGY
-bkz cüclere atacüc imzalı maske satıp parayı kırmak
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz atacücün covid-19 olması
-bkz atacücünü nutukta covi19 dan bahsetmesi 
-bkz bunların hepsi nutukta yazıyor zaten
-https://www.uludagsozluk.com/k/corona-f%C4%B1rsat%C3%A7%C4%B1lar%C4%B1/ bkz ben
-https://www.uludagsozluk.com/k/bir-demet-tiyatro-sald%C4%B1ray/&w=bg bkz saldırayın bıyıkları
-https://www.uludagsozluk.com/k/nietzsche-nin-b%C4%B1y%C4%B1klar%C4%B1/&w=bg bkz marxın sakalları
-bkz atacücü incilic procesi olma ihtimali
-bkz erdal inöcünün atacücünün gölgesinde kalması
-bkz atacücünün pipisi sünnetlimiydi sorunsalı
-bkz atacücün covid-19 olması
-bkz 81 vilayet - hatay = 80
-bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
-bkz fetönün devlet sırlarını  satması
-bkz adam fenerli zaten beyler
-https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ adam kırık beyler
-https://www.youtube.com/watch?v=zmgfwvfHDPQ bkz adam var adam gibi
-https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ bkz ayol yenir o
-https://www.youtube.com/watch?v=2KErN9bMrwM bu benim ben kaptım öpüjem bırak
-https://www.youtube.com/watch?v=EfAsNffCjsM allak ne kadr süper lan
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/cristiano-ronaldo/&w=bg bkz ronaldonun göt kasları
-https://www.uludagsozluk.com/k/david-beckham-%C4%B1n-g%C3%B6t%C3%BC/&w=bg -->
+
 
 [![Image](waste/Screenshot_2020-03-09_15-13-18.png)]( https://www.youtube.com/watch?v=td8_Y5iiRjw )
 
