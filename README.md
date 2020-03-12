@@ -2,6 +2,9 @@
 
 
 <!--
+bkz 81 vilayet - hatay = 80
+bkz 1881 atacüc 18 + 81 = 99 - 80 = covid19
+bkz fetönün devlet sırlarını  satması
 bkz adam fenerli zaten beyler
 https://www.uludagsozluk.com/k/s%C3%BCrekli-%C3%B6z%C3%BCr-dileyen-p%C4%B1s%C4%B1r%C4%B1k-adam/ adam kırık beyler
 https://www.youtube.com/watch?v=zmgfwvfHDPQ bkz adam var adam gibi
