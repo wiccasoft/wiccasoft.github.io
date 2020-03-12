@@ -4,8 +4,7 @@
 https://www.youtube.com/watch?v=zmgfwvfHDPQ
 bkz vuruşmaktan korkan erkekler
 bkz tarabya da uşaklar etilerde yumuşaklar
-https://oynakbeyi.uludagsozluk.com/ bkz top
-https://judas.uludagsozluk.com/ bkz top
+https://www.uludagsozluk.com/k/topuklu-ayakkab%C4%B1l%C4%B1-ve-mini-etekli-zeki-m%C3%BCren/&w=bg
 bkz başka erkeğe takıntılı erkeklerin genelde top oldukları gerçeği
 https://www.uludagsozluk.com/k/herkesin-bir-g%C3%BCn-topra%C4%9F%C4%B1n-alt%C4%B1na-gidecek-olmas%C4%B1/ bkz ibne
 https://www.uludagsozluk.com/k/zeki-m%C3%BCren-ibne-mi-idi/ bkz ibnelerin doluştuğu başlık
