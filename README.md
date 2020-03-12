@@ -2,6 +2,7 @@
 
 
 <!--
+https://www.uludagsozluk.com/k/corona-f%C4%B1rsat%C3%A7%C4%B1lar%C4%B1/ bkz ben
 https://www.uludagsozluk.com/k/bir-demet-tiyatro-sald%C4%B1ray/&w=bg bkz saldırayın bıyıkları
 https://www.uludagsozluk.com/k/nietzsche-nin-b%C4%B1y%C4%B1klar%C4%B1/&w=bg bkz marxın sakalları
 bkz atacüc imzalı maske satıp parayı kırmak
