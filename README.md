@@ -2,7 +2,6 @@
 
 <!--
 bkz tayyibi dünya tatlişkosu yapan özellikleri
-https://www.uludagsozluk.com/k/tansu-%C3%A7iller-gaflar%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/bir-erke%C4%9Fin-en-tatl%C4%B1-oldu%C4%9Fu-an/&w=bg dünya lideri olduğu an
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/15-temmuz-2016-darbe-giri%C5%9Fimi/&w=bg aslında dan sonrasının okumadım
