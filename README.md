@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=JrBdYmStZJ4 )
 
 <!--
-https://www.uludagsozluk.com/k/ahmet-%C3%B6zal/&w=bg babamı zeki müren öldürdü
+https://www.uludagsozluk.com/k/ahmet-%C3%B6zal/&w=bg 
+bkz babamı zeki müren öldürdü
 https://www.youtube.com/watch?v=td8_Y5iiRjw seni gidi fındıkkıran
 https://www.youtube.com/watch?v=zmgfwvfHDPQ adam var adam gibi
 bkz vuruşmaktan korkan erkekler
