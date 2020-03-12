@@ -2,6 +2,8 @@
 
 
 <!--
+bkz dünya liderinizin facebook sayfası
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 bkz tayyip isminde birinin dünya lideri olabilme ihtimali
 https://www.uludagsozluk.com/k/redneck-vs-%C3%A7omar/ bkz liderlerini dünya lideri sanmaları
 https://kurgankt66.uludagsozluk.com/ bkz dtayyibin dünya lideri sanan çomar
