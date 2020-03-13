@@ -3,7 +3,7 @@
 <!-- 
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
-https://cuckold-erkek.uludagsozluk.com/ bkz sakat heralde 
+https://cuckold-erkek.uludagsozluk.com/ bkz sakat heralde yazık lan
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg ay hadi inş
 https://www.uludagsozluk.com/k/linux%C3%A7ular%C4%B1n-hayal-g%C3%BCc%C3%BC-d%C3%BC%C5%9F%C3%BCk-tipler-olmas%C4%B1/
 https://www.uludagsozluk.com/k/tayyip-kendisini-ikinci-atat%C3%BCrk-gibi-hayal-ediyor/&w=gd
