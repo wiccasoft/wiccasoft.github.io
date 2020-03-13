@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
-bkz eski secdicein seki tokmaçısını sikerken yüzünün vuruşması
+bkz eski sevdicein eski tokmakçısını sikerken yüzünün vuruşması
 bkz eski sevgilinin ama beni de sik demesi
 bkz atacücüyü sikerken eski sevdiceğin iç geçirmesi
 bk atacücü neden büyük yarrağı almadı sorunsalı
