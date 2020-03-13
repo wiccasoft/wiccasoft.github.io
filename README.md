@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+https://www.uludagsozluk.com/k/ali-babacan/&w=bg bkz babacan adam
 bkz atacücü neden batumu almadı sorunsalı
 bkz atacücü nedne yunanistanı ardından italyayı almadı sorunsalı
 bzk al bunu alamazmısın sen nasıl delikanlısın
