@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz boris johnsonın ben kelle paça yiyim bişi olmii sizde yiyin demesi
 bkz trumpın tayyibe kelle paça ye bişi olmaz demesi
 bkz tayyibin covid19 u denize döküp ikinci atacücü olcam demesi
 bkz abdulmecid covid19 dan korkmazdı iddaları
