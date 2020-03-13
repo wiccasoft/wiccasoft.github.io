@@ -3,6 +3,7 @@
 <!--
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
+bkz berkin elvan vs atacan kayalay
 bkz jhonny sinsin ben kamalcı ailede büyüdüm ama islamcı çocuğum açıklaması
 https://www.uludagsozluk.com/k/kemalist-ailede-b%C3%BCy%C3%BCyen-islamc%C4%B1-%C3%A7ocuk/&w=bg bkz ay hoş çocuk ayol -->
 
