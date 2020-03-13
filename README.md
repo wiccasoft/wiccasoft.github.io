@@ -1,8 +1,10 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!-- 
+https://www.youtube.com/watch?v=1QD5nEsFKSc
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
+bkz o değil de dunkoff halis vardı noldu ona
 bkz çocuklar duymasın havuç vardı noldu ona
 https://cuckold-erkek.uludagsozluk.com/ bkz sakat heralde yazık lan
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg ay hadi inş
