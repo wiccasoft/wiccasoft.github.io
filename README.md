@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ ananızı götten sikerim adam olun
 https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurmuu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz portakal soyulur mu tadına doyulur muuuuuuu
