@@ -1,6 +1,6 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
-<!-- https://twitter.com/sebnemziyagil/status/1238093339024654338?s=20  -->
+<!-- https://twitter.com/sebnemziyagil/status/1238093339024654338  -->
 
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
 
