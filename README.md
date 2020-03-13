@@ -6,6 +6,7 @@
 <!-- 
 https://eksisozluk.com/entry/103445753
 bkz kız kardeşine etek traşı yapan adamın kuzeniyle evlenmesi
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
 https://www.uludagsozluk.com/k/bir-k%C4%B1z%C4%B1n-bakire-oldu%C4%9Funu-anlama-y%C3%B6ntemleri/&w=bg suya sok kankağ
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-bokuna-iki-yumurta-%C3%A7ak%C4%B1p-yemek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=gd bkz kuzeninin kiloduna attıran adam
