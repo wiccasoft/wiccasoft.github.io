@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!-- 
-https://www.youtube.com/watch?v=1QD5nEsFKSc
+https://www.youtube.com/watch?v=ckt586TDMKs
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
 bkz o değil de dunkoff halis vardı noldu ona
