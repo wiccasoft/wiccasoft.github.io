@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
-bkz atacücü nedne yunanistanı almadı sorunsalı
+bkz atacücü nedne yunanistanı ardından italyayı almadı sorunsalı
 bkz atacücü neden batumu almadı sorunsalı
 bzk al bunu alamazmısın sen nasıl delikanlısın
 bkz atacücü neden bir gece ansızın 82 musul yapmadı sorunsalı
