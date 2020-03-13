@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
-bkz covid19 un al bunu alamazmısın sen nasıl delikanlısın demesi
+bkz ccoraonanın al bunu alamazmısın sen nasıl delikanlısın demesi
 bkz büyük skender ibneydi iddaları
 bkz covidin akpli olması
 bkz gökten indiği sanılan virüsler
