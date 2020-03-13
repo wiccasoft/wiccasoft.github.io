@@ -2,6 +2,7 @@
 
 <!-- 
 bkz orhan bence gay
+bkz her gece aşkım topraklarımızı niye genişletmiyosun diyen kız
 https://www.uludagsozluk.com/e/42991784/ adam haklı beyler baba olmayan adam adammıdır
 https://www.uludagsozluk.com/k/cengiz-kurto%C4%9Flu-neden-baba-olamad%C4%B1/
 bkz bir buçuk iskender vs 2 iskender
