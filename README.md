@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz gavsın virüsü durduramaması
+bkz menzi şeyhinin virüsü dua ile ikna etmesi
 bkz kabe ellekin eviyse niyer corona virüsü girmiy hadi atayızlar bunu da açıklayın
 bkz sitiklal marşına saygısı olmayıp pis pis sırıtan virüs
 bkz atacüccülerin coronayı saygı duruşuna davet etmesi
