@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-
+bkz 81 vilayet - hatay =  80
+bkz 1881 atacücü 18+81=90 -80 = 19 covid19
 bkz atacücü neden batumu almadı sorunsalı
 bzk al bunu alamazmısın sen nasıl delikanlısın
 bkz aknonoşlarun coronayı tayyibe şikayet etmesi
