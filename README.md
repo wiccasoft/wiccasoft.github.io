@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz  atacücü neden batumu almadı sorunsalı
 bkz atacücü neden bir gece ansızın 82 musul yapmadı sorunsalı
 bkz atacücü neden covid 19 u denize dökmedi sorunsalı
 bkz 10 dakikdır konuşuyoruz atacücü den bahsetmedik
