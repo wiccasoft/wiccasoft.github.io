@@ -6,6 +6,7 @@
 <!--
 bkz hayallerde yaşıyor bazı nonoşlar
 bkz kemalist ailede büyüyen islamcı sert çocuk ama tatlı çocuk
+https://www.uludagsozluk.com/k/onur-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg bkz ben
 https://www.uludagsozluk.com/k/kemalist-ailede-b%C3%BCy%C3%BCyen-islamc%C4%B1-%C3%A7ocuk/&w=bg bkz ben 
 https://www.uludagsozluk.com/k/%C3%A7inlilerden-corona-vir%C3%BCs%C3%BCn-intikam%C4%B1n%C4%B1-alan-t%C3%BCrkler/
 bkz topraklarımızı niye genişletmiyosun diyen kamalcıya annenin amını genişletiyorum raad ol demek
