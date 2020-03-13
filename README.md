@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-
+bkz abdulmecid covid19 dan korkmazdı iddaları
 bkz vahdettin in covid19dan kaçma sebebi
 https://www.uludagsozluk.com/k/osmanl%C4%B1-padi%C5%9Fah%C4%B1-vahdettinin-%C3%BClkeden-ka%C3%A7ma-sebebi/
 bjz tayyibin sarayı kanatinaya alması
