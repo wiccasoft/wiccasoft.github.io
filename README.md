@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz beşiktaşın 2 yabancı kuralına takılması
 bkz bütük skender küçük pipiliydi iddaları
 bkz fatih tezcan analiz merkezinin umbrella corporation olması
 bkz fatih terimin corona virüs analizi
