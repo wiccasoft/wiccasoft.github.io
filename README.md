@@ -5,7 +5,6 @@
 
 <!--
 bkz ak nonoşların hayallerde yaşadığı gerçeği
-bkz sevişirlen johnny sinsin 300 liralık gömleğini yıryanaknonoş
 bkz johnny sins mit tırları yazısı
 bkz canı johnnysins tarafında becerimelk isteyen ak nonoşlar
 bkz yedi torunlu seksi adamın uğur dündar çıkması
