@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!--
+https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz berkinin dilinden düşürmeyen solcu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz 13 ocak 2020 mit tırları yazısı
 https://eksisozluk.com/entry/103445753
 bkz 81 vilayet - hatay =  80
