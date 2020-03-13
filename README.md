@@ -7,6 +7,8 @@
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
 bkz o değil de dunkoff halis vardı noldu ona
+https://www.uludagsozluk.com/k/eski-sevgiliyi-12-y%C4%B1l-sonra-bekar-vaziyette-g%C3%B6rmek/&w=bg
+bkz hiç sevdiceğim  olmadığı için ilgimi çekmeyen doğa olayı
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
 https://www.uludagsozluk.com/k/ronaldo-gaucho-de-assis-moreira/&w=bg bkz soyadının hakkını vermek
 https://www.uludagsozluk.com/k/g%C3%BCne-bir-adam-b%C4%B1rak/&w=bg eywalla gözümsün
