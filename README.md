@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz atacücnün damarlınızdaki asil kan bu savaşı yenecektir lafı
 bkz madem atacücünün covid19 a karşı mücadele damarlarnızda asil kan da mevcut demesi
 bkz atacünün korona virüsünü nutukta anlatması
 bkz kabe atacücnün eviyse korona virüs girebilir mi
