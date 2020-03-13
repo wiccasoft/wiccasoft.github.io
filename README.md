@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ bkz üreme makinası
 https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=bg bkz kuzenine etek traşı yapan genç
 bkz kız kardeşine etek traşı yapan adamın kuzeniyle evlenmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
