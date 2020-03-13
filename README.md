@@ -2,8 +2,6 @@
 
 <!-
 bkz abdulmecid covid19 dan korkmazdı iddaları
-bkz vahdettin in covid19dan kaçma sebebi
-https://www.uludagsozluk.com/k/osmanl%C4%B1-padi%C5%9Fah%C4%B1-vahdettinin-%C3%BClkeden-ka%C3%A7ma-sebebi/
 bjz tayyibin sarayı kanatinaya alması
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
