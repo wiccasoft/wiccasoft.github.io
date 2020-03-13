@@ -3,76 +3,7 @@
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
-<!--
-bkz hayallerde yaşıyor bazı nonoşlar
-bkz kızların tatlı çocuk dediği çocuk olmak
-bkz kemalist ailede büyüyen islamcı sert çocuk ama tatlı çocuk
-bkz atacücü neden 12 ada yı musulu almadı amk alaydı ya la
-https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/onur-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg bkz ben
-https://www.uludagsozluk.com/k/kemalist-ailede-b%C3%BCy%C3%BCyen-islamc%C4%B1-%C3%A7ocuk/&w=bg bkz ben 
-https://www.uludagsozluk.com/k/%C3%A7inlilerden-corona-vir%C3%BCs%C3%BCn-intikam%C4%B1n%C4%B1-alan-t%C3%BCrkler/
-bkz topraklarımızı niye genişletmiyosun diyen kamalcıya annenin amını genişletiyorum raad ol demek
-bkz johnny sinsi kız sanan ak nonoşlar
-bkz ak nonoşların hayallerde yaşadığı gerçeği
-bkz johnny sins mit tırları yazısı
-bkz canı johnnysins tarafında becerimelk isteyen ak nonoşlar
-bkz yedi torunlu seksi adamın uğur dündar çıkması
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırlarını ak nonoşlara boru gibi sokması
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz berkinin dilinden düşürmeyen solcu
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz 13 ocak 2020 mit tırları yazısı
-https://eksisozluk.com/entry/103445753
-bkz 81 vilayet - hatay =  80
-bkz 1881 atacücü 18+81=90 -80 = 19 covid19
-bkz atacücü neden ismet cücüönüün gölgesinde kaldı sorunsalı
-https://traveler-of-secret-moments.uludagsozluk.com/ bkz ibnelerin lideri
-https://agca.uludagsozluk.com/ bkz hayatını ibnelersözlükte idame ettiren ibne
-https://frank-lucas.uludagsozluk.com/ bkz hayatını ibnelersözlükte idame ettiren ibne
-https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurmuu
-https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ ananızı götten sikerim adam olun
-https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurmuu
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz portakal soyulur mu tadına doyulur muuuuuuu
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısının ak nonoşların götlerine girmesi
-https://www.uludagsozluk.com/k/mihra%C3%A7-ural/&w=bg eywallah pampa miraç uralım
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz 13 ocak 2020 mit tırları yazısı
-https://www.uludagsozluk.com/k/mihra%C3%A7-ural/&w=bg eywallah pampa miraç uralım
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları,
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bk uğur dündarın soyadını kullanmak
-https://www.uludagsozluk.com/k/kemalist-tokatlamak/&w=bg bkz malafatla kamalcı tokatlamak
-https://www.uludagsozluk.com/k/viski-d%C3%B6k%C3%BCp-sevi%C5%9Felim/ keltoş babana koş
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz soyadının hakkını vermek
-https://www.uludagsozluk.com/k/size-bi-enerji-patlamas%C4%B1-bi-%C3%B6zg%C3%BCven-gelmi%C5%9F-s%C3%B6zl%C3%BCk/&w=bg
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz soyadının hakkını vermek
-https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bk uğu dündarın oğlu olmak dışında başarısı olmamak
-https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=gd bkz kuzenim yapmış pampa
-https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ bkz üreme makinası
-https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=bg bkz kuzenine etek traşı yapan genç
-bkz kız kardeşine etek traşı yapan adamın kuzeniyle evlenmesi
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
-https://www.uludagsozluk.com/k/bir-k%C4%B1z%C4%B1n-bakire-oldu%C4%9Funu-anlama-y%C3%B6ntemleri/&w=bg suya sok kankağ
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-bokuna-iki-yumurta-%C3%A7ak%C4%B1p-yemek/&w=bg bkz ben
-https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=gd bkz kuzeninin kiloduna attıran adam
-https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ bkz ben torunlar büyüdü ama
-https://twitter.com/sebnemziyagil/status/1238093339024654338  
-bkz o değil de dunkoff halis vardı noldu ona
-https://www.uludagsozluk.com/k/eski-sevgiliyi-12-y%C4%B1l-sonra-bekar-vaziyette-g%C3%B6rmek/&w=bg
-bkz hiç sevdiceğim  olmadığı için ilgimi çekmeyen doğa olayı
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
-https://www.uludagsozluk.com/k/ronaldo-gaucho-de-assis-moreira/&w=bg bkz soyadının hakkını vermek
-https://www.uludagsozluk.com/k/g%C3%BCne-bir-adam-b%C4%B1rak/&w=bg eywalla gözümsün
-https://www.uludagsozluk.com/k/ronaldinho-nun-kat%C4%B1laca%C4%9F%C4%B1-domuz-%C3%B6d%C3%BCll%C3%BC-turnuva/ akarı olmaz
-https://www.uludagsozluk.com/k/emre-y%C3%BCcelen-%C5%9Fan-dersleri/
-https://www.uludagsozluk.com/k/rizeli-erkekler/&w=gd bkz sedat peker rte 
-https://www.uludagsozluk.com/k/ateistlerin-g%C3%B6rmedikleri-vir%C3%BCs-i%C3%A7in-maske-takmas%C4%B1/
-https://www.uludagsozluk.com/k/linux%C3%A7ular%C4%B1n-hayal-g%C3%BCc%C3%BC-d%C3%BC%C5%9F%C3%BCk-tipler-olmas%C4%B1/
-https://www.youtube.com/watch?v=8omHX8cm1rY Sabri Bey, Dumkof Halis'e Tokat Atıyor
-https://www.youtube.com/watch?v=ckt586TDMKs Dumkof Halis, Ayla Hanım'a Saldırıyor
-https://cuckold-erkek.uludagsozluk.com/ bkz sakat heralde yazık lan
-https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg ay hadi inş
-https://www.uludagsozluk.com/k/linux%C3%A7ular%C4%B1n-hayal-g%C3%BCc%C3%BC-d%C3%BC%C5%9F%C3%BCk-tipler-olmas%C4%B1/
-https://www.uludagsozluk.com/k/tayyip-kendisini-ikinci-atat%C3%BCrk-gibi-hayal-ediyor/&w=gd
--->
+
 
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
 
