@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/mihra%C3%A7-ural/&w=bg eywallah pampa miraç uralım
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları,
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bk uğur dündarın soyadını kullanmak
 https://www.uludagsozluk.com/k/kemalist-tokatlamak/&w=bg bkz malafatla kamalcı tokatlamak
