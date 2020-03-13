@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz portakal soyulur mu tadına doyulur muuuuuuu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısının ak nonoşların götlerine girmesi
 https://www.uludagsozluk.com/k/mihra%C3%A7-ural/&w=bg eywallah pampa miraç uralım
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz 13 ocak 2020 mit tırları yazısı
