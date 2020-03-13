@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-
+bkz tayyibin s400leri covid19 için alması
 bkz benim covid19 a kafa atan yeğenlerim var
 bkz abdulmecid covid19 dan korkmazdı iddaları
 bkz tayyibin sarayı kanatinaya alması
