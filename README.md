@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
-<!-
+<!--
+bkz atacücü dene muslu alamaması
 bkz tayyibin s400leri covid19 için aldığı gerçeği
 bkz benim covid19 a kafa atan yeğenlerim var
 bkz abdulmecid covid19 dan korkmazdı iddaları
