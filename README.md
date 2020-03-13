@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz tayyibin ben ikinci coronayım demesi
 bkz tayyibini imamaoğlanı taklit etmesi
 bkz coronanın daha yeni başlıyoruz ağlayacaksanız oynamayak amk demsi
 bkz eski sevgilinin oğluşunun yavaş ciğerimi söktün demesi
