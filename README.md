@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ bkz ben torunlar büyüdü ama
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
 bkz o değil de dunkoff halis vardı noldu ona
 https://www.uludagsozluk.com/k/eski-sevgiliyi-12-y%C4%B1l-sonra-bekar-vaziyette-g%C3%B6rmek/&w=bg
