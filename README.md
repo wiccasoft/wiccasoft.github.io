@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!-- 
+https://frank-lucas.uludagsozluk.com/ bkz hayatının ibnelersözlükte idame ettiren ibne
 https://eksisozluk.com/entry/103445753
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
