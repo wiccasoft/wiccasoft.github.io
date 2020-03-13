@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz bir buçuk iskender vs 2 iskender
 bkz küçük enişte kendini büyük enişte olarak hayal ediy
 bkz küçük iskenderin üyük iskendere yazdığı mektup
 bkz ikinci timurun büyük iskendere yazdığı mektıp
