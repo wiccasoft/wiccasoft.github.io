@@ -6,6 +6,7 @@
 <!-- 
 https://eksisozluk.com/entry/103445753
 bkz kız kardeşine etek traşı yapan adamın kuzeniyle evlenmesi
+https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-k%C4%B1z%C4%B1n-bokuna-iki-yumurta-%C3%A7ak%C4%B1p-yemek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=gd bkz kuzeninin kiloduna attıran adam
 https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ bkz ben torunlar büyüdü ama
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
