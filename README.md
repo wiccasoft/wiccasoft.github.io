@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/viski-d%C3%B6k%C3%BCp-sevi%C5%9Felim/ keltoş babana koş
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz soyadının hakkını vermek
 https://www.uludagsozluk.com/k/size-bi-enerji-patlamas%C4%B1-bi-%C3%B6zg%C3%BCven-gelmi%C5%9F-s%C3%B6zl%C3%BCk/&w=bg
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz soyadının hakkını vermek
