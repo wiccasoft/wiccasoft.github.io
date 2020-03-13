@@ -3,11 +3,11 @@
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
-<!-- 
-https://frank-lucas.uludagsozluk.com/ bkz hayatının ibnelersözlükte idame ettiren ibne
+<!--
 https://eksisozluk.com/entry/103445753
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
+https://frank-lucas.uludagsozluk.com/ bkz hayatını ibnelersözlükte idame ettiren ibne
 https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurmuu
 https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ ananızı götten sikerim adam olun
