@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz minübüste dönen sakat çok muhabbeti
 bkz atacücücüler coronayı neden denize dökmüyor sorunsalı
 bkz atacücünün coronayı denize dökmesi
 bkz menzilin coronayı selam ve dua ile ikna etmesi
