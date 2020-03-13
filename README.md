@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!--
+bkz atacücü neden 12 adayı bıraktı alaydı kalaydık amk
 bkz johnny sinsi kız sanan ak nonoşlar
 bkz ak nonoşların hayallerde yaşadığı gerçeği
 bkz johnny sins mit tırları yazısı
