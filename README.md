@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!--
+bkz ak nonoşların hayallerde yaşadığı gerçeği
 bkz sevişirlen johnny sinsin 300 liralık gömleğini yıryanaknonoş
 bkz johnny sins mit tırları yazısı
 bkz canı johnnysins tarafında becerimelk isteyen ak nonoşlar
