@@ -5,7 +5,8 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
-https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurm uu
+https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/
+https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurmuu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz portakal soyulur mu tadına doyulur muuuuuuu
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları yazısının ak nonoşların götlerine girmesi
 https://www.uludagsozluk.com/k/mihra%C3%A7-ural/&w=bg eywallah pampa miraç uralım
