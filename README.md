@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bk atacücü neden büyük yarrağı almadı sorunsalı
+https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
 bkz eski sevdiceği tanzim satış kuyruğunda görmek
 https://www.uludagsozluk.com/k/eski-sevgili-konusu-a%C3%A7%C4%B1l%C4%B1nca-y%C3%BCz%C3%BC-as%C4%B1lan-sevgili/ ayol o kim
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-kendini-ikinci-erdo%C4%9Fan-gibi-hayal-ediyor/&w=gd vay amk -->
