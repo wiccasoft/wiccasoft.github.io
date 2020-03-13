@@ -1,5 +1,6 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
+<!--https://www.uludagsozluk.com/k/kemalist-ailede-b%C3%BCy%C3%BCyen-islamc%C4%B1-%C3%A7ocuk/&w=bg ay hoş çocuk ayol -->
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
