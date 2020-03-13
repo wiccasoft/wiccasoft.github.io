@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bk uğu dündarın oğlu olmak dışında başarısı olmamak
 https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=gd bkz kuzenim yapmış pampa
 https://www.uludagsozluk.com/k/7-torunlu-seksi-ya%C5%9Fl%C4%B1-adam/ bkz üreme makinası
