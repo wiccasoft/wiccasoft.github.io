@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-corona-vir%C3%BCs-analizi/
 bkz çinliler at ski yediklerin için virsü oluyo diyen emmi
 bkz at skini calı vanlı yiyen çinli karı
 bkz büyük skender küçük sikliydi iddaları
