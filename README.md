@@ -1,5 +1,11 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
+<!-- 
+bkz ya aşkım adaları alsana bana diyen kız
+https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/abdurrahman-dilipak-%C4%B1n-kenevir-sevdas%C4%B1/ -->
+
+
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
