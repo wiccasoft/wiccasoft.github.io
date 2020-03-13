@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+https://www.uludagsozluk.com/e/42991784/ adam haklı beyler baba olmayan adam adammıdır
 https://www.uludagsozluk.com/k/cengiz-kurto%C4%9Flu-neden-baba-olamad%C4%B1/
 bkz bir buçuk iskender vs 2 iskender
 bkz küçük enişte kendini büyük enişte olarak hayal ediy
