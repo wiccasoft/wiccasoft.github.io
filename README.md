@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/kuzen-evlilikleri/&w=bg bkz kuzenine etek traşı yapan genç
 bkz kız kardeşine etek traşı yapan adamın kuzeniyle evlenmesi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını vermek
 https://www.uludagsozluk.com/k/bir-k%C4%B1z%C4%B1n-bakire-oldu%C4%9Funu-anlama-y%C3%B6ntemleri/&w=bg suya sok kankağ
