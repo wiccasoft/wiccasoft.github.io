@@ -8,6 +8,7 @@ https://eksisozluk.com/entry/103445753
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
 bkz atacücü nün ismet cücüönüün gölgesinde kaldı sorunsalı
+https://traveler-of-secret-moments.uludagsozluk.com/ bkz ibnelerin lideri
 https://agca.uludagsozluk.com/ bkz hayatını ibnelersözlükte idame ettiren ibne
 https://frank-lucas.uludagsozluk.com/ bkz hayatını ibnelersözlükte idame ettiren ibne
 https://www.youtube.com/watch?v=wgastCO7Clo sana burdan bi koysam taa fizan dan duyulurmuu
