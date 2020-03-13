@@ -5,6 +5,7 @@
 
 <!-- 
 https://eksisozluk.com/entry/103445753
+https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırları
 https://www.uludagsozluk.com/k/kemalist-tokatlamak/&w=bg bkz malafatla kamalcı tokatlamak
 https://www.uludagsozluk.com/k/viski-d%C3%B6k%C3%BCp-sevi%C5%9Felim/ keltoş babana koş
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz soyadının hakkını vermek
