@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+https://www.uludagsozluk.com/e/42991823/ ben sizin özleyin götünüzü yerim haytalar
 https://www.uludagsozluk.com/k/mike-pence/&w=bg hey mike versene borç olmaz corç ben de de yok
 https://h-a-y-t-a.uludagsozluk.com/ lan hayta özledin madem gel ikiz yatak yaptırdım
 https://www.uludagsozluk.com/k/saldiray-abi/&w=bg ben de özledim sizi kızlar
