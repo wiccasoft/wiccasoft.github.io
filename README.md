@@ -3,6 +3,7 @@
 <!-- 
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
+https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Finin-d%C3%BC%C4%9F%C3%BCn%C3%BCnde-oynayan-godo%C5%9F/&w=bg bkz kız kardeşimini oğlu senin yaşında olm
 https://www.uludagsozluk.com/k/linux%C3%A7ular%C4%B1n-hayal-g%C3%BCc%C3%BC-d%C3%BC%C5%9F%C3%BCk-tipler-olmas%C4%B1/
 https://www.uludagsozluk.com/k/tayyip-kendisini-ikinci-atat%C3%BCrk-gibi-hayal-ediyor/&w=gd
 -->
