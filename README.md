@@ -7,6 +7,7 @@
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
 bkz o değil de dunkoff halis vardı noldu ona
+https://www.uludagsozluk.com/k/ronaldinho-nun-kat%C4%B1laca%C4%9F%C4%B1-domuz-%C3%B6d%C3%BCll%C3%BC-turnuva/ akarı olmaz
 https://www.uludagsozluk.com/k/emre-y%C3%BCcelen-%C5%9Fan-dersleri/
 https://www.uludagsozluk.com/k/rizeli-erkekler/&w=gd bkz sedat peker rte 
 https://www.uludagsozluk.com/k/ateistlerin-g%C3%B6rmedikleri-vir%C3%BCs-i%C3%A7in-maske-takmas%C4%B1/
