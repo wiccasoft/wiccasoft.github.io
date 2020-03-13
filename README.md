@@ -1,12 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
-bkz tatyybin covid19 u deniz döküp ikinci atacücü olcam demesi
-bkz ismet inöcünün atacücüyle tayyip gölgesinde kalması
-bkz atacücünün muslu almamam nedenleri
-bkz atacücü dene muslu alamaması
-bkz tayyibin s400leri covid19 için aldığı gerçeği
-bkz benim covid19 a kafa atan yeğenlerim var
+bkz tayybin covid19 u denize döküp ikinci atacücü olcam demesi
 bkz abdulmecid covid19 dan korkmazdı iddaları
 bkz tayyibin sarayı kanatinaya alması
 bkz 81 vilayet - hatay =  80
