@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz kabe atacücnün eviyse korona virüs girebilir mi
 bkz atacücünün virüse verdiği efso ayar
 bkz atacücünün virüsü deniz dökmesi
 bkz damarlarında asil kan dolaşıp virüsten korkan millet
