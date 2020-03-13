@@ -4,8 +4,10 @@
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
 bkz berkin elvan vs atacan kayalay
+https://frank-lucas.uludagsozluk.com/ bkz frank lucasın atacücü olması
 https://www.uludagsozluk.com/k/fahrettin-koca/ bkz soyadının hakkını vermek
 bkz jhonny sinsin ben kamalcı ailede büyüdüm ama islamcı çocuğum açıklaması
+https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/kemalist-ailede-b%C3%BCy%C3%BCyen-islamc%C4%B1-%C3%A7ocuk/&w=bg bkz ay hoş çocuk ayol -->
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
