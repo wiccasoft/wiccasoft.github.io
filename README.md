@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz coronanın daha yeni başlıyoruz ağlayacksanız oynamayak amk demsi
 bkz eski sevgilinin oğluşunun yavaş ciğerimi söktün demesi
 bkz eski sevgilinin oğlunu hoplatırken yüzünün buruşması
 bkz eski sevgilinin oğlunu sikerken yüzünün ekşimesi
