@@ -5,7 +5,7 @@
 
 <!--
 bkz johnny sins mit tırları yazısı
-bkz canı johnny si sins tarafında becerimelk isteyen ak nonoşlar
+bkz canı johnnysins tarafında becerimelk isteyen ak nonoşlar
 bkz yedi torunlu seksi adamın uğur dündar çıkması
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırlarını ak nonoşlara boru gibi sokması
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz berkinin dilinden düşürmeyen solcu
