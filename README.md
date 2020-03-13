@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz akp nin koranayı evire çevire dövmesi
 https://www.youtube.com/watch?v=sWDL39d45LA
 bkz johnny sinsin tayyibe topkek ye bişi olmaz korkma demesi
 bkz boris johnsonın ben kelle paça yiyim bişi olmii sizde yiyin demesi
