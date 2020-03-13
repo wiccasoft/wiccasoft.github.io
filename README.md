@@ -4,6 +4,7 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!--
+bkz jonhy sinsin mit tırları yazısı
 bkz yedi torunlu seksi adamın uğur dündar çıkması
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz mit tırlarını ak nonoşlara boru gibi sokması
 https://www.uludagsozluk.com/k/can-d%C3%BCndar/&w=bg bkz berkinin dilinden düşürmeyen solcu
