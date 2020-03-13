@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-corona-vir%C3%BCs-analizi/ bkz adam biliyo abi
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg bkz ibneydi iddaları var abi
 bkz fatih tezcan'ın mesleği ne sorunsalı
 bkz fatih tezcan'ın corona virüs analizi
