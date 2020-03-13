@@ -5,6 +5,7 @@
 
 <!--
 bkz hayallerde yaşıyor bazı nonoşlar
+bkz kızların tatlı çocuk dediği çocuk olmak
 bkz kemalist ailede büyüyen islamcı sert çocuk ama tatlı çocuk
 bkz atacücü neden 12 ada yı musulu almadı amk alaydı ya la
 https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
