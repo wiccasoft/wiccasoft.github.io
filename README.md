@@ -2,6 +2,7 @@
 
 <!--
 bkz gavsın virüsü durduramaması
+bkz gökten indiği sanılan virüsler
 bkz virüsün türk önde türk ileri demesi
 bkz menzi şeyhinin virüsü dua ile ikna etmesi
 bkz kabe ellekin eviyse niyer corona virüsü girmiy hadi atayızlar bunu da açıklayın
