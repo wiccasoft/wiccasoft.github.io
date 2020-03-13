@@ -6,6 +6,8 @@
 <!--
 bkz hayallerde yaşıyor bazı nonoşlar
 bkz kemalist ailede büyüyen islamcı sert çocuk ama tatlı çocuk
+bkz atacücü neden 12 ada yı musulu almadı amk alaydı ya la
+https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/onur-isimli-erkeklerin-genel-%C3%B6zellikleri/&w=bg bkz ben
 https://www.uludagsozluk.com/k/kemalist-ailede-b%C3%BCy%C3%BCyen-islamc%C4%B1-%C3%A7ocuk/&w=bg bkz ben 
 https://www.uludagsozluk.com/k/%C3%A7inlilerden-corona-vir%C3%BCs%C3%BCn-intikam%C4%B1n%C4%B1-alan-t%C3%BCrkler/
