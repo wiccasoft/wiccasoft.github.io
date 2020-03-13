@@ -4,6 +4,8 @@
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!--
+bkz hayallerde yaşıyor bazı nonoşlar
+https://www.uludagsozluk.com/k/%C3%A7inlilerden-corona-vir%C3%BCs%C3%BCn-intikam%C4%B1n%C4%B1-alan-t%C3%BCrkler/
 bkz topraklarımızı niye genişletmiyosun diyen kamalcıya annenin amını genişletiyorum raad ol demek
 bkz johnny sinsi kız sanan ak nonoşlar
 bkz ak nonoşların hayallerde yaşadığı gerçeği
