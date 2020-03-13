@@ -2,6 +2,7 @@
 
 <!--
 bkz gavsın virüsü durduramaması
+bkz virüsün türk önde türk ileri demesi
 bkz menzi şeyhinin virüsü dua ile ikna etmesi
 bkz kabe ellekin eviyse niyer corona virüsü girmiy hadi atayızlar bunu da açıklayın
 bkz sitiklal marşına saygısı olmayıp pis pis sırıtan virüs
