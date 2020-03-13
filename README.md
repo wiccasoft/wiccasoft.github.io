@@ -1,11 +1,14 @@
+[![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=8omHX8cm1rY  )
+
+
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 <!-- 
-https://www.youtube.com/watch?v=ckt586TDMKs
 https://eksisozluk.com/entry/103445753
 https://twitter.com/sebnemziyagil/status/1238093339024654338  
 bkz o değil de dunkoff halis vardı noldu ona
-bkz çocuklar duymasın havuç vardı noldu ona
+https://www.youtube.com/watch?v=8omHX8cm1rY Sabri Bey, Dumkof Halis'e Tokat Atıyor
+https://www.youtube.com/watch?v=ckt586TDMKs Dumkof Halis, Ayla Hanım'a Saldırıyor
 https://cuckold-erkek.uludagsozluk.com/ bkz sakat heralde yazık lan
 https://www.uludagsozluk.com/k/%C3%A7ayc%C4%B1-h%C3%BCseyin-%C3%B6ld%C3%BC/&w=bg ay hadi inş
 https://www.uludagsozluk.com/k/linux%C3%A7ular%C4%B1n-hayal-g%C3%BCc%C3%BC-d%C3%BC%C5%9F%C3%BCk-tipler-olmas%C4%B1/
