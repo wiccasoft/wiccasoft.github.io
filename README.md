@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-
+bkz atacücü neden batumu almadı sorunsalı
+bzk al bunu alamazmısın sen nasıl delikanlısın
 bkz aknonoşlarun coronayı tayyibe şikayet etmesi
 bkz coronanın ak nonoşlara daha yeni başlıyoruz ağlayacaksanız oynamayak amk demesi
 bkz eski sevgilinin oğluşunun yavaş ciğerimi söktün demesi
