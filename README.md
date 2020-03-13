@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!--
+bkz fatih tezcan analiz merkezi
 bkz fatih terimin bunlar hep yarasayı çiğ yerler ondan oliy demesi
 bkz fatih termini bunlar yarasayı çiğ yerler ondan hep demesi
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-corona-vir%C3%BCs-analizi/
