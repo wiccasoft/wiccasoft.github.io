@@ -4,6 +4,8 @@
 bkz 81 vilayet - hatay =  80
 bkz 1881 atacücü 18+81=90 -80 = 19 covid19
 bkz berkin elvan vs atacan kayalay
+bkz yabancı nick alan atacücücüler 
+bkz fahrettin isimli nonoşun frank lucas niki alması
 https://frank-lucas.uludagsozluk.com/ bkz frank lucasın atacücü olması
 https://www.uludagsozluk.com/k/fahrettin-koca/ bkz soyadının hakkını vermek
 bkz jhonny sinsin ben kamalcı ailede büyüdüm ama islamcı çocuğum açıklaması
