@@ -3,6 +3,7 @@
 <!-- 
 bkz ahmet hakkanın yediği yarasa
 bkz yarasa etinin azdırması
+bkz elif can terimin ladyboyçıkması
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/&w=gd
 https://eksisozluk.com/ece-unerin-ahmet-hakana-taktigi-kapak--6410699?a=popular
 -->
