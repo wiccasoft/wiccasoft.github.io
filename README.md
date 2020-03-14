@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz aatacüc neden 12 adayı musulu bıraktı neden  neden
 bkz atacücü mao zedongla neden kavgalıydı sorunsalı
 bkz atacücü neden büyük iskenderi almadı sorunsalı
 bkz atacücü vs büyük iskender vs küçük iskender
