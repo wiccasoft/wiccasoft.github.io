@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz atacücü 12 adalardan ne istedi
 bkz atacücü neden 12 adayı almadı yoksa almak mı istemedi
 bkz atacücü neden 12 adayı musulu içine alamadı sorunsalı
 bkz 5. abdulmuttap neden rusyayı içine almadı sorunsalı 
