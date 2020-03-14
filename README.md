@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz tayyip kendini büyük enişte olarak hayal ediyor iddaları
 bkz ibb chp üyelerinin skime yaptığı saygısızlık
 https://www.uludagsozluk.com/k/ibb-chp-%C3%BCyelerinin-istiklal-mar%C5%9F%C4%B1nda-oturmas%C4%B1/ -->
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
