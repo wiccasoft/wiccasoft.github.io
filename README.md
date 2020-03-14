@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz menzil cemaatinin attığı tweet
 bkz menzil cemaatinin demeleri coronaya kapaması
 bkz menzil cemaatinin nefertiti yengeniz olru paylaşımı
 bkz çakırın sefirliğini ilan etmesi
