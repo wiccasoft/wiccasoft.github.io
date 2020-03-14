@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz 2. beyazıd beyaz mıydı sorunsalı
 bkz 2. beyazıd neden 12 adaları almadı sorunsalı
 bkz sezar niye ordularını bizansta topladı sorunsalı
 bkz brütüs patlamyusu patlatmışmıdır sorunsalı
