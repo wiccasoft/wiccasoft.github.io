@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz erdoğanı galaksi lideri yapan özellikleri
+bkz tayyipi galaksi lideri yapan özellikleri
 https://www.uludagsozluk.com/k/ben-z%C4%B1bar%C4%B1yorum/ dur olm atacücü 12 adayı alacak daha
 bkz atacücü neden 12 yıldızı güneş sistemine bağlamadı sorunsalı
 bkz al bunu alamazmısın sen nasıl delikanlısın
