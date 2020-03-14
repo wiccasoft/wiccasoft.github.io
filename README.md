@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz hadisenin macun kaplıcalı pozu
 bkz kamalcıların sanki aynı hep aynı yerde sayması
+bkz atacücünün tece covidler şeyhler şıhlar memlekete olamaz lafı
 bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
 bkz menzil cemaatinin nefertiti emine erdoğan benzerlikleri paylaşımı
 bkz menzil şeyhinin corona için selam ve duaya çıkması
