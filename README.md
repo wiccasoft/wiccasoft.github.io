@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
 <!-- 
-bkz serdar ortaçın aklınız varsa kullanırsınız demesi
+bkz serdar ortaçın aklınız varsa atacücü yolunda kullanırsınız demesi
 bkz serdar ortaçın aklınız varsa 10. yıl marşı okursunuz demesi
 bkz serdar ortaçın aklınız vars gözleriniz çekiktir açıklaması
 bkz serdar ortaçın gerçek türkler çekik gözlü türklerdir açıklaması
