@@ -5,6 +5,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 90 - 80 = covid19
 bkz gökten indiği sanılan virüsler
+bkz atacücünün tece şeyhler covidler memleketi değildir lafı
 https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/ -->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
