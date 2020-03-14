@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
+https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
 bkz atacücünün covid19 a karşı kudret damarlarındaki asil kanda mevuttur ladı
 bkz atacücünün nutuktan covid 19 dan bahsetmesi
