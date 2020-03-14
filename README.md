@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
+bkz atacücünün covid19 a karşı kudret damarlarındaki asil kanda mevuttur ladı
 bkz atacücünün nutuktan covid 19 dan bahsetmesi
 bkz hadisenin macun kaplıcalı pozu,
 bkz menzil sayfasının nefertiti emine erdoğan paylaşımı
