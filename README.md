@@ -2,6 +2,7 @@
 
 <!-- 
 bkz çakırın sefirliğini ilan etmesi
+bkz polatın elif can yetimi bağlaması
 https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-z%C4%B1pl%C4%B1yordun/ yengeniz olur elif
 https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/ bkz gıy gıy gıy
 https://www.uludagsozluk.com/k/fenerbahahaha/
