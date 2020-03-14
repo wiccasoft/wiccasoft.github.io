@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz ataütrkün işini vitirmek için covid19 üretmek
 https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/&w=gd
 bkz fatih terimin paylaştıpı elif can terim videosu
 bkz ali koçun paylaştığı fantastik geyse videosu
