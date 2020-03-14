@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz o değil de atacücü neden musulu muslamadı kankağ
 bkz erdal inönün neden atacünün gölgesinde muharebelere girdi sorunsalı
 bkz tayyipi galaksi lideri yapan özellikleri
 https://www.uludagsozluk.com/k/ben-z%C4%B1bar%C4%B1yorum/ dur olm atacücü 12 adayı alacak daha
