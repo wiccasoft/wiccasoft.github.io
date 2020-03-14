@@ -1,29 +1,5 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!--
-https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg 27 den sonrasını okumadım
-https://www.uludagsozluk.com/k/akp-nin-umre-olay%C4%B1nda-s%C4%B1vamas%C4%B1/ bkz ümmüt üğlüy
-https://cuckold-erkek.uludagsozluk.com bkz yazık la kimin çocuysa
-https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1yla-seks-yapan-baba/&w=bg bkz ben
-https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1n-sevgilisi-gelince-evden-giden-baba/&w=bg bkz ben
-https://www.uludagsozluk.com/k/umreden-d%C3%B6nen-emmiyi-derdest-edip-bodruma-kapatmak/ ne skiş döner orda
-https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
-https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Fini-sevi%C5%9Firken-izleyen-erkek/&w=bg bkz ben
-bkz o değil de kim sikiyo lan bu karıları 
-bkz çiftlere 45 dk aralıksız keser sapı üçüncü olunur 
-bkz şaka maka dünyanın en zengin adamı olup sikecek karı bulamamak
-bkz oytun erbaşın karılar kafam girsin demesi
-beyler ben izmirden olgun cucukoldum isteyen mesaj atsın izlemesi zevkli oliy
-yalnız bi problem var hiç karı yok ben de asdasdads
-https://www.uludagsozluk.com/k/sevi%C5%9Firken-k%C4%B1z-sevgilinin-babas%C4%B1n%C4%B1n-aramas%C4%B1/ 
-https://www.uludagsozluk.com/k/sevgilisinin-ayaklar%C4%B1n%C4%B1-%C3%B6pen-erkek/&w=bg bkz cuckold erkek
-https://cuckold-erkek.uludagsozluk.com kankağ benim kız kardeşi sana ayarlim oytunkaran bi kere sikti ama
-https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Fini-sevi%C5%9Firken-izleyen-erkek/&w=bg bkz ben
-https://www.uludagsozluk.com/k/izmirli-erkek-vs-trabzonlu-erkek/&w=gd
-https://www.uludagsozluk.com/k/olgun-erkeklerin-gen%C3%A7lerden-bir-ad%C4%B1m-%C3%B6nde-olmas%C4%B1/ bkz ben
-https://www.uludagsozluk.com/k/sevglinin-basurunu-%C4%B1s%C4%B1rarak-patlatmak/&w=gd
--->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
