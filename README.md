@@ -1,50 +1,5 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
-bkz 1881 atacücü
-bkz 81 vilayet - hatay = 80
-bkz 18+81 = 90 - 80 = covid19
-bkz gökten indiği sanılan virüsler
-bkz atacücünü işini bitirmek için covid19 üretmek
-https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/&w=gd
-https://www.uludagsozluk.com/k/%C3%B6l%C3%BCnce-hi%C3%A7-yokmu%C5%9F-gibi-unutulacak-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/
-bkz fatih terimin paylaştıpı elif can terim videosu
-bkz ali koçun paylaştığı fantastik geyse videosu
-bkz menzil cemaatinin attığı tweet
-bkz menzil cemaatinin demeleri coronaya kapaması
-bkz menzil cemaatinin nefertiti yengeniz olru paylaşımı
-bkz çakırın sefirliğini ilan etmesi
-bkz polatın elif can terimi bağlaması
-bkz menzil cemaatinin nefertiti yyengeniz olur paylaşımı
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz rambo ali
-https://www.uludagsozluk.com/k/%C3%A7ok-g%C3%BCzel-z%C4%B1pl%C4%B1yordun/ yengeniz olur elif
-https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/ bkz gıy gıy gıy
-https://www.uludagsozluk.com/k/fenerbahahaha/
-bkz aslan akbeyin seyfo dayıyla yiyiştiği sahnelerin kesilmesi
-bkz seyfo dayının gerdek gecesi gıy gıy gıy diye ses çıkarması
-https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/ bkz gıy gıy gıy
-bkz polatın elif can terimi hoplatması
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz rambo ali
-bkz alper potukun hoplattığı karıları
-bkz polat alemdarın elif can terimi yemesi
-bkz seyfo dayının aslan beyi hoplatması
-bkz polat elif can terimi yedikçe deli hikmeyin kudurması
-bkz ömer babanın gerdek gecesi
-bkz cerrahpaşalıların ömer babanın gerdek gecesini basması
-https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/
-https://www.uludagsozluk.com/k/polat-elif-i-yedik%C3%A7e-zevklenen-deli-hikmet/&w=bg
-https://www.uludagsozluk.com/k/%C3%B6mer-baban%C4%B1n-nergiz-karahanl%C4%B1-ya-as%C4%B1lmas%C4%B1/
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkzxadam gibi adamlsrın atacücücülerin takımı
-https://www.uludagsozluk.com/k/nietzsche-nin-%C3%A7%C4%B1plak-foto%C4%9Fraf%C4%B1/
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz kuşları hoplatan takım
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz rambo ali
-https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd bkz atacücünün takımı
-bkz 1881 atacücü
-bkz 81 vilayet - hatay = 80
-bkz 18+81 = 90 - 80 = covid19
-bkz gökten indiği sanılan virüsler
-bkz atacücünün tece şeyhler covidler memleketi değildir lafı
-https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/ -->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
