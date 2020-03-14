@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz rambo ali
 bkz alper potukun hoplattığı karıları
 bkz polat alemdarın elif can terimi yemesi
 bkz seyfo dayının aslan beyi hoplatması
