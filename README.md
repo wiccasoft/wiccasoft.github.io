@@ -6,20 +6,11 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
-https://www.uludagsozluk.com/k/pekeke/&w=bg bkz pekeke energianın paylaştığı nefertiti paylaşımı
-https://www.uludagsozluk.com/k/ilker-kaleli-nin-ka%C3%A7-kadeh-k%C4%B1r%C4%B1ld%C4%B1-performans%C4%B1/
-https://www.pinterest.com/wiccasoft/pins/ bkz menzil cemaatinin emine erdoğan nefertiti paylaşımı
-https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
 bkz atacücünün covid19 a karşı kudret damarlarındaki asil kanda mevuttur ladı
 bkz atacücünün nutuktan covid 19 dan bahsetmesi
 bkz hadisenin macun kaplıcalı pozu,
 bkz menzil sayfasının nefertiti emine erdoğan paylaşımı
-https://www.pinterest.com/wiccasoft/pins/
-bkz menzil sayfasının deme yi kapaması
-bkz facebook tece menzil sayfası
-bkz menzil cemaatininin facebook sayfasına tece koyması
-bkz kamalcıların sanki aynı hep aynı yerde sayması
 bkz atacücünün tece covidler şeyhler şıhlar memlekete olamaz lafı
 bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
 bkz menzil cemaatinin nefertiti emine erdoğan benzerlikleri paylaşımı
