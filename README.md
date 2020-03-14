@@ -2,7 +2,7 @@
 
 <!-- 
 bkz tayyip isminde birini ciddiye almak
-bkz o değil de tayyip hala kendinni dünya lideri mi sanıyo
+bkz o değil de tayyip hala kendini dünya lideri mi sanıyo
 bkz tayyip kendini büyük enişte olarak hayal ediyor iddaları
 bkz ibb chp üyelerinin skime yaptığı saygısızlık
 https://www.uludagsozluk.com/k/ibb-chp-%C3%BCyelerinin-istiklal-mar%C5%9F%C4%B1nda-oturmas%C4%B1/ -->
