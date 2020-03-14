@@ -4,7 +4,9 @@
 bkz atacücü 18 81 
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
-bkz hadisenin macun kaplıcalı pozu
+bkz hadisenin macun kaplıcalı pozu,
+bkz menzil sayfasının nefertiti emine erdoğan paylaşımı
+https://www.pinterest.com/wiccasoft/pins/
 bkz menzil sayfasının deme yi kapaması
 bkz facebook tece menzil sayfası
 bkz menzil cemaatininin facebook sayfasına tece koyması
