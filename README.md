@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz tarihte yaşayan ergenlerin biraz gerizekalı oldukları gerçeği
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adamdı çoook
 bkz aşkım niye 12 adaları niye almıyoz ki yaa diyen kamalcı kız
 bkz küçük tayyip niyte 12 adaları almadı sorunsalı
