@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz cengiz kurtoğlan neden orhan gence bayla sevişmedi sorunsalı
 bkz tayyip neden musulu almıyor sorunsalı
 bkz atacücü neden 12 adayı almadı kankağ alış kuvveti yoktuğ bence
 bkz o değil de kankağ ne diyodum atacücü diyodum
