@@ -2,6 +2,7 @@
 
 <!-- 
 bkz alper potukun hoplattığı karıları
+https://www.uludagsozluk.com/k/nietzsche-nin-%C3%A7%C4%B1plak-foto%C4%9Fraf%C4%B1/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz kuşları hoplatan takım
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz rambo ali
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd bkz atacücünün takımı
