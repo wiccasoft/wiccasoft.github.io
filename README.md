@@ -2,6 +2,7 @@
 
 <!-- 
 bkz hoşlaşılan tarihi liderler
+bkz hoşlaşılan tarihi liderin ölü olması
 https://www.uludagsozluk.com/k/14-mart-2020-trump%C4%B1n-m%C3%BCsl%C3%BCman-olmas%C4%B1/
 bkz büyük iskender niye 12 adalara heykelini diktirmedi sorunsalı
 bkz büyük iskender niye büyük iskenderdi sorunsalı
