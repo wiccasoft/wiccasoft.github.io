@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz ahmet hakka yediği ayar
+bkz ahmet hakkanın yediği yarasa
 bkz yarasa etinin azdırması
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/&w=gd
 https://eksisozluk.com/ece-unerin-ahmet-hakana-taktigi-kapak--6410699?a=popular
