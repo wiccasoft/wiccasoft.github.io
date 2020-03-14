@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz büyük iskender niye osmanlı beyliğine saldırmadı sorunsalı
+bkz büyük sikender niye osmanlı beyliğini sikertmedi sorunsalı
 bkz osmanlı beyliği osman beyin miydi sorunsalı
 bkz dulkadiroğulları beyliği dul kadri nin miydi sorunsalı
 bkz büyük iskender niye 12 adalara heykelini diktirmedi sorunsalı
