@@ -3,7 +3,9 @@
 <!-- 
 bkz yarasa etinin azdırması
 bkz yarasa yedikten sonra azmak
-bkz taiwan a yarasa yiyip ladyboy sikmek için gitmek -->
+bkz taiwan a yarasa yiyip ladyboy sikmek için gitmek 
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/&w=gd
+-->
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
