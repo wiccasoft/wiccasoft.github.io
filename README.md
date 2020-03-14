@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
 <!-- 
+bkz serdar ortaçın gerçek türkler çekik gözlü türklerdir açıklaması
 https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
+https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
 https://www.uludagsozluk.com/k/marketten-kutu-kutu-kolonya-alan-adam/
 bkz ata cücü 12 adaları musulu neden almadı sorunsalı
 bkz fesli bunak vs tuvalet kağıdı
