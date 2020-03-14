@@ -8,6 +8,8 @@ bkz hadisenin macun kaplıcalı pozu
 bkz kamalcıların sanki aynı hep aynı yerde sayması
 bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
 bkz menzil cemaatinin nefertiti emine erdoğan benzerlikleri paylaşımı
+bkz menzil şeyhinin corona için selam ve duaya çıkması
+https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=gd
 https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 bkz elif can terimin fatih terimin isminden nemalanması selam ve du aile
 https://www.pinterest.com/wiccasoft/pins/ 
