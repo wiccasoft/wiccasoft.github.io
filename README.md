@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz atacücü mü daha büyüktü büyük iskender mi sorunsalı
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adamdı çook
 bkz aatacüc neden 12 adayı musulu bıraktı neden  neden
 bkz atacücü mao zedongla neden kavgalıydı sorunsalı
