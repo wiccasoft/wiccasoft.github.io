@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz emin çölaşanın mecnun gibi çölaşarım yazısı
+bkz emin çölaşanın wuhan çöl olmasın yazısı
 bkz ahmet hakkanın yediği yarasa
 bkz yarasa etinin azdırması
 bkz elif can terimin ladyboyçıkması
