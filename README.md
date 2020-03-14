@@ -6,6 +6,7 @@ https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1yla-seks-yapan-baba/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1n-sevgilisi-gelince-evden-giden-baba/&w=bg bkz ben
 https://www.uludagsozluk.com/k/umreden-d%C3%B6nen-emmiyi-derdest-edip-bodruma-kapatmak/ ne skiş döner orda
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
+https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Fini-sevi%C5%9Firken-izleyen-erkek/&w=bg bkz ben
 bkz çiftlere  üçüncü olunur 45 dk aralıksız keser sapı ben
 bkz sevdiceğinin ayaklarını öpen erkek kim lan o erkek biz de nemalanak pampa
 bkz o değil de tayyip bile mala vuruyo amk
