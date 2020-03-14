@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz büyük iskender niye 12 adalara heykelini diktirmedi sorunsalı
 bkz büyük iskender niye büyük iskenderdi sorunsalı
 bkz büyük iskenderin büyük adam olduğu iddaları
 bkz 2 .beyazıd ın büyük skendere yazdığı mektup
