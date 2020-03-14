@@ -5,6 +5,8 @@ bkz alper potukun hoplattığı karıları
 bkz polat alemdarın elif can terimi yemesi
 bkz seyfo dayının aslan beyi hoplatması
 bkz polat elif can terimi yedikçe deli hikmeyin kudurması
+bkz ömer babanın gerdek gecesi
+https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/
 https://www.uludagsozluk.com/k/polat-elif-i-yedik%C3%A7e-zevklenen-deli-hikmet/&w=bg
 https://www.uludagsozluk.com/k/%C3%B6mer-baban%C4%B1n-nergiz-karahanl%C4%B1-ya-as%C4%B1lmas%C4%B1/
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkzxadam gibi adamlsrın atacücücülerin takımı
