@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz büyük iskender küçük iskendere kaymışmıdır sorunsalı
 bkz hoşlaşılan tarihi liderler
 bkz hoşlaşılan tarihi liderin ölü olması
 https://www.uludagsozluk.com/k/14-mart-2020-trump%C4%B1n-m%C3%BCsl%C3%BCman-olmas%C4%B1/
