@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz erdo tapelerinin fake yani sahte çıkması
 bkz ahmet hakkanın yandaş gastacıları bir bir ifşa etmesi
 bkz birol şahin çaycı hüseyin emin çölaşan can dündar uğur dündar müjdat gezen
 bkz damadın fenerbahçe düşmanlığı
