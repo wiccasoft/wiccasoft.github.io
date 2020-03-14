@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz yapay zeka vs yapmayan zeka
+bkz yapay zeka vs yapgüneş zeka
 bkz küççük skender vs küççük enişte
 bkz muhteşem tayyip vs muhteşem trump vs muazzam putin
 bkz muhteşem süleyman vs muhteşem iskender
