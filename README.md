@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz hitler neden büyük iskenderle iyi dosttu sorunsalı
 bkz büyük iskender niye osmanlı beyliğine saldırmadı sorunsalı
 bkz osmanlı beyliği osman beyin miydi sorunsalı
 bkz dulkadiroğulları beyliği dulkadirmiydi sorunsalı
