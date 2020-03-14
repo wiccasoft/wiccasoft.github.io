@@ -2,7 +2,7 @@
 
 <!-- 
 bkz muhteşem süleyman vs muhteşem iskender
-bkz alexandre the great alexandre make great again mi demişti sorunsalı
+bkz alexandre the great make alexandre great again mi demişti sorunsalı
 bkz büyük sikender niye osmanlı beyliğini sikertmedi sorunsalı
 bkz osmanlı beyliği osman beyin miydi sorunsalı
 bkz dulkadiroğulları beyliği dul kadri nin miydi sorunsalı
