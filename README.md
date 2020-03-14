@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/marketten-kutu-kutu-kolonya-alan-adam/
 bkz ata cücü 12 adaları musulu neden almadı sorunsalı
 https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz fesli bunak
 bkz fesli bunak vs tuvalet kağıdı
