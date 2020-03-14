@@ -1,8 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz ahmet hakkanın yandaş gastacıları bir bir ifşa etmesi
 bkz birol şahin çaycı hüseyin emin çölaşan can dündar uğur dündar müjdat gezen
-bkz ahmet hakkanın siyasi görüşünü açıklaması
 bkz damadın fenerbahçe düşmanlığı
 bkz atacücü neden lozan mozan takıldı sorunsalı
 bkz emin çölaşanın wuhan çöl olmasın yazısı
