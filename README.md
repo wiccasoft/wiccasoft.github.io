@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz muhteşem tayyip vs muhteşem trump vs muazzam putin vs küççük skender
+bkz küççük skender vs küççük enişte
+bkz muhteşem tayyip vs muhteşem trump vs muazzam putin
 bkz muhteşem süleyman vs muhteşem iskender
 bkz alexandre the great make alexandre great again mi demişti sorunsalı
 bkz büyük sikender niye osmanlı beyliğini sikertmedi sorunsalı
