@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz o değil de kankağ ne diyodum atacücü diyodum
 bkz o değil de atacücü neden musulu muslamadı kankağ
 bkz erdal inönün neden atacünün gölgesinde muharebelere girdi sorunsalı
 bkz tayyipi galaksi lideri yapan özellikleri
