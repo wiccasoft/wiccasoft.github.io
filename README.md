@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
 bkz çiftlere üçüncü olurum 45 dk aralıksız keser sapı
 bkz sevdiceğinin ayaklarını öpen erkek kim lan o erkek biz de nemalanak pampa
 bkz o değil de tayyip bile mala vuruyo amk
