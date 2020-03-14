@@ -3,9 +3,7 @@
 <!--
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg 27 den sonrasını okumadım
 https://www.uludagsozluk.com/k/akp-nin-umre-olay%C4%B1nda-s%C4%B1vamas%C4%B1/ bkz ümmüt üğlüy
-https://cuckold-erkek.uludagsozluk.com bkz amın feryadı ergen 15 falan heralde yaşı yazık la kimin çocuysa
-https://cuckold-erkek.uludagsozluk.com  anneni diyorum duvardan duvara hoplatırım babanı götten sikerim
-https://cuckold-erkek.uludagsozluk.com kankağ annen nabıyo kankağ 45 dk aralıksız sikerim selam söyle annene
+https://cuckold-erkek.uludagsozluk.com bkz yazık la kimin çocuysa
 bkz çiftlere 45 dk aralıksız keser sapı üçüncü olunur 
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1yla-seks-yapan-baba/&w=bg bkz ben
