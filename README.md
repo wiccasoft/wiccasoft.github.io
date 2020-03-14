@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz aşkım hadi 12 adaları al bana diyen kız
+bkz aşkım hadi 12 adaları al bana diyen kamalcı kız
 bkz küçük enişte kendini ikinci amdulmecid olarak hayal ediy
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adamdı çoook
 bkz her gece aşkım topraklarımızı niye genişletmiyosun diyen kamalcı kız
