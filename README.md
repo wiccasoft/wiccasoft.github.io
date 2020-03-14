@@ -4,57 +4,6 @@
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
-<!-- 
-bkz ya türksün ya ürksün göster ki virüsler ürksün -mkatacücü
-bkz türkün en hakiki mürşiti virüsleri denize dökmektir -mkatacücü
-https://www.uludagsozluk.com/k/yunan%C4%B1-denize-d%C3%B6kt%C3%BCk/&w=bg
-https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
-bkz serdar ortaçın aklınız varsa atacücü yolunda kullanırsınız demesi
-bkz serdar ortaçın gerçek türkler çekik gözlü türklerdir açıklaması
-https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
-https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
-https://www.uludagsozluk.com/k/marketten-kutu-kutu-kolonya-alan-adam/
-bkz ata cücü 12 adaları musulu neden almadı sorunsalı
-bkz fesli bunak vs tuvalet kağıdı
-https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
-bkz atacücü 18 81 
-bkz 81 vilayet - hatay = 80
-bkz 18+81 = 99 - 80 = covid19
-bkz bunlar hep nutukta yazıyo zaten
-bkz gökten indiği sanılan virüsler
-bkz atacücünün virüsleri denize dökmeyi emrediyorum lafı
-bkz atacücünün tece şeyhler virüsler memleketi değildir lafı
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/
-https://www.uludagsozluk.com/k/avrupa-elini-y%C4%B1kam%C4%B1yorcular/
-https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg
-https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
-bkz atacücünün covid19 a karşı kudret damarlarındaki asil kanda mevuttur ladı
-bkz atacücünün nutuktan covid 19 dan bahsetmesi
-bkz hadisenin macun kaplıcalı pozu,
-bkz menzil sayfasının nefertiti emine erdoğan paylaşımı
-bkz atacücünün tece covidler şeyhler şıhlar memlekete olamaz lafı
-bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
-bkz menzil cemaatinin nefertiti emine erdoğan benzerlikleri paylaşımı
-bkz menzil şeyhinin corona için selam ve duaya çıkması
-https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=gd
-https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
-bkz elif can terimin fatih terimin isminden nemalanması selam ve du aile
-https://www.pinterest.com/wiccasoft/pins/ 
-bkz menzil cemaatinin emine erdoğanı nefertitiye benzetmesi
-bkz erdo tapelerinin fake yani sahte çıkması
-bkz ahmet hakkanın yandaşları bir bir ifşa etmesi
-bkz birol şahin çaycı hüseyin emin çölaşan can dündar uğur dündar müjdat gezen
-bkz damadın fenerbahçe düşmanlığı
-bkz atacücü neden lozan mozan takıldı sorunsalı
-bkz emin çölaşanın wuhan çöl olmasın yazısı
-bkz ahmet hakkanın yediği yarasa
-bkz yarasa etinin azdırması
-bkz elif can terimin ladyboy çıkması
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/&w=gd
-https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
--->
-
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
 
 [![Image](waste/Screenshot_2020-03-10_05-29-33.png)]( https://www.youtube.com/watch?v=9HDEHj2yzew )
