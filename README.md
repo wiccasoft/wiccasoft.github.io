@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz baltalaı mehmet paşa neden askeleri sünnet ettirmiyordu sorunsalı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/ neden
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg büyük adam çok büyük adam hem de 
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg acayip büyük adammış yaaaaa
