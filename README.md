@@ -11,6 +11,7 @@ bkz ahmet hakkanın yediği yarasa
 bkz yarasa etinin azdırması
 bkz elif can terimin ladyboy çıkması
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/&w=gd
+https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 -->
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
