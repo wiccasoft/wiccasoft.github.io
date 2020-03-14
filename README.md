@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz atacücü neden 12 yıldızı güneş sistemine bağlamadı sorunsalı
 bkz al bunu alamazmısın sen nasıl delikanlısın
 bkz atacücü 12 adayı neden almadı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
