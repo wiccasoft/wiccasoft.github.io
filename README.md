@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/yunan%C4%B1-denize-d%C3%B6kt%C3%BCk/&w=bg
 https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
 bkz serdar ortaçın aklınız varsa atacücü yolunda kullanırsınız demesi
 bkz serdar ortaçın gerçek türkler çekik gözlü türklerdir açıklaması
