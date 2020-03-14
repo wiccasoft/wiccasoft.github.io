@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/ bkz gıy gıy gıy
 https://www.uludagsozluk.com/k/fenerbahahaha/
 bkz aslan akbeyin seyfo dayıyla yiyiştiği sahnelerin kesilmesi
 bkz seyfo dayının gerdek gecesi gıy gıy gıy diye ses çıkarması
