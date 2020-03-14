@@ -2,6 +2,7 @@
 
 <!-- 
 bkz orhan bence gay
+bkz küçük enişte kendini ikinci amdulmecid olarak hayal ediy
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adamdı çoook
 bkz her gece aşkım topraklarımızı niye genişletmiyosun diyen kamalcı kız
 https://www.uludagsozluk.com/e/42991784/ adam haklı beyler baba olmayan adam adammıdır
