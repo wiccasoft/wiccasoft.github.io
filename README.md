@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz ahmet hakkının yediği ayar
+bkz ahmet hakkanın yediği ayar
 bkz yarasa etinin azdırması
 bkz yarasa yedikten sonra azmak
 bkz taiwan a yarasa yiyip ladyboy sikmek için gitmek 
