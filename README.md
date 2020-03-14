@@ -2,7 +2,7 @@
 
 <!-- 
 bkz erdo tapelerinin fake yani sahte çıkması
-bkz ahmet hakkanın yandaş gastacıları bir bir ifşa etmesi
+bkz ahmet hakkanın yandaşları bir bir ifşa etmesi
 bkz birol şahin çaycı hüseyin emin çölaşan can dündar uğur dündar müjdat gezen
 bkz damadın fenerbahçe düşmanlığı
 bkz atacücü neden lozan mozan takıldı sorunsalı
