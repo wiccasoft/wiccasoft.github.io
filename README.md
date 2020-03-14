@@ -1,6 +1,11 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/ -->
+<!-- 
+bkz 1881 atacücü
+bkz 81 vilayet - hatay = 80
+bkz 18+81 = 90 - 80 = covid19
+bkz dış mihrakların atacücüyü covidle yok etme planı
+https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/ -->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
