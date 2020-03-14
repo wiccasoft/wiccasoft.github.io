@@ -2,7 +2,7 @@
 
 <!-- 
 https://www.pinterest.com/wiccasoft/pins/ 
-bkz menzil cemaatinin emine erdoğanı nefetitiye benzetmesi
+bkz menzil cemaatinin emine erdoğanı nefertitiye benzetmesi
 bkz erdo tapelerinin fake yani sahte çıkması
 bkz ahmet hakkanın yandaşları bir bir ifşa etmesi
 bkz birol şahin çaycı hüseyin emin çölaşan can dündar uğur dündar müjdat gezen
