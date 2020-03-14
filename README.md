@@ -4,7 +4,6 @@
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg 27 den sonrasını okumadım
 https://www.uludagsozluk.com/k/akp-nin-umre-olay%C4%B1nda-s%C4%B1vamas%C4%B1/ bkz ümmüt üğlüy
 https://cuckold-erkek.uludagsozluk.com bkz yazık la kimin çocuysa
-bkz çiftlere 45 dk aralıksız keser sapı üçüncü olunur 
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1yla-seks-yapan-baba/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1n-sevgilisi-gelince-evden-giden-baba/&w=bg bkz ben
@@ -12,6 +11,7 @@ https://www.uludagsozluk.com/k/umreden-d%C3%B6nen-emmiyi-derdest-edip-bodruma-ka
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Fini-sevi%C5%9Firken-izleyen-erkek/&w=bg bkz ben
 bkz o değil de kim sikiyo lan bu karıları 
+bkz çiftlere 45 dk aralıksız keser sapı üçüncü olunur 
 bkz şaka maka dünyanın en zengin adamı olup sikecek karı bulamamak
 bkz oytun erbaşın karılar kafam girsin demesi
 beyler ben izmirden olgun cucukoldum isteyen mesaj atsın izlemesi zevkli oliy
