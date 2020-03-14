@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
+bkz atacücünün virüsleri denize dökmeyi emrediyorum lafı
 bkz atacücünün tece şeyhler virüsler memleketi değildir lafı
 https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/
 https://www.uludagsozluk.com/k/sevgilisini-karma-spor-salonuna-yollayan-erkek/&w=bg bkz ben
