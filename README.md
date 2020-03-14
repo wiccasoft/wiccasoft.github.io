@@ -4,6 +4,7 @@
 bkz atacücü 18 81 
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 -80 = covid19
+bkz hadisenin macun kaplıcalı pozu
 bkz elif can terimin fatih terimin isminden nemalanması selam ve du aile
 https://www.pinterest.com/wiccasoft/pins/ 
 bkz menzil cemaatinin emine erdoğanı nefertitiye benzetmesi
