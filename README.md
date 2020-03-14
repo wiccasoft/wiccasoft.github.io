@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-https://www.pinterest.com/wiccasoft/pins/ bkz menzilin emine erdoğanı nefetitiye benzetmesi
+https://www.pinterest.com/wiccasoft/pins/ 
+bkz menzil cemaatinin emine erdoğanı nefetitiye benzetmesi
 bkz erdo tapelerinin fake yani sahte çıkması
 bkz ahmet hakkanın yandaşları bir bir ifşa etmesi
 bkz birol şahin çaycı hüseyin emin çölaşan can dündar uğur dündar müjdat gezen
