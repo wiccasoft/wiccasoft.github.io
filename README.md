@@ -3,6 +3,7 @@
 <!-- 
 bkz aşkım hadi 12 adaları al bana diyen kamalcı kız
 bkz küçük enişte kendini ikinci amdulmecid olarak hayal ediy
+https://h-a-y-t-a.uludagsozluk.com/ lan hayta özlediniz madem gelin ikiz yatak yaptırdım
 https://www.uludagsozluk.com/k/b%C3%BCy%C3%BCk-iskender/&w=bg çok büyük adamdı çoook
 bkz her gece aşkım topraklarımızı niye genişletmiyosun diyen kamalcı kız
 https://www.uludagsozluk.com/e/42991784/ bkz orhan bence gay
