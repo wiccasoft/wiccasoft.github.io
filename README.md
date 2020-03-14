@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=gd bkz atacücünün takımı
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 90 - 80 = covid19
