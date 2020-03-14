@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz o değil de tayyip bile mala vuruyo amk
 bkz o değil de kim sikiyo lan bu karıları 
 bkz şaka maka dünyanın en zengin adamı olup sikecek karı bulamamak
 bkz oytun erbaşın karılar kafam girsin demesi
