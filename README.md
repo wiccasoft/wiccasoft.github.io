@@ -3,7 +3,7 @@
 <!-- 
 bkz atacücü 18 81 
 bkz 81 vilayet - hatay = 80
-bkz 18+81 = 99 -80 = covid19
+bkz 18+81 = 99 - 80 = covid19
 bkz hadisenin macun kaplıcalı pozu
 bkz kamalcıların sanki aynı hep aynı yerde sayması
 bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
