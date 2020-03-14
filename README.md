@@ -3,7 +3,7 @@
 <!-- 
 bkz tayyipi galaksi lideri yapan özellikleri
 https://www.uludagsozluk.com/k/ben-z%C4%B1bar%C4%B1yorum/ dur olm atacücü 12 adayı alacak daha
-bkz atacücü neden 12 yıldızı güneş sistemine bağlamadı sorunsalı
+bkz atacücü neden 12 yıldızı zodiac seçti sorundalı
 bkz al bunu alamazmısın sen nasıl delikanlısın
 bkz atacücü 12 adayı neden almadı
 https://www.uludagsozluk.com/k/atat%C3%BCrk-musul-ve-12-aday%C4%B1-neden-b%C4%B1rakt%C4%B1/&w=bg
