@@ -7,6 +7,7 @@ bkz 18+81 = 90 - 80 = covid19
 bkz gökten indiği sanılan virüsler
 bkz atacücünü işini bitirmek için covid19 üretmek
 https://www.uludagsozluk.com/k/nihayet-s%C4%B1ra-atat%C3%BCrk-%C3%BCn-i%C5%9Fini-bitirmeye-geldi/&w=gd
+https://www.uludagsozluk.com/k/%C3%B6l%C3%BCnce-hi%C3%A7-yokmu%C5%9F-gibi-unutulacak-s%C3%B6zl%C3%BCk-yazarlar%C4%B1/
 bkz fatih terimin paylaştıpı elif can terim videosu
 bkz ali koçun paylaştığı fantastik geyse videosu
 bkz menzil cemaatinin attığı tweet
