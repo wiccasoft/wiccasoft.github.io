@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+https://www.uludagsozluk.com/k/14-mart-2020-trump%C4%B1n-m%C3%BCsl%C3%BCman-olmas%C4%B1/
 bkz büyük iskender niye 12 adalara heykelini diktirmedi sorunsalı
 bkz büyük iskender niye büyük iskenderdi sorunsalı
 bkz büyük iskenderin büyük adam olduğu iddaları
