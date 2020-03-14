@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
+https://www.uludagsozluk.com/k/sevgilisini-karma-spor-salonuna-yollayan-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/avrupa-elini-y%C4%B1kam%C4%B1yorcular/
 https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
