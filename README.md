@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz ismet inöcü atacücüye kaymışmıdır sorunsalı
 bkz platon büyük iskendere kaymışmıdır sorunsalı
 bkz mercibadık savaşı mercimek yüzünden mi çıktı sorunsalı
 bkz uhud savaşındaki okçular neden tepeyi terkettiler sorunsalı
