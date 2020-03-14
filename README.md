@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
 https://www.uludagsozluk.com/e/42992722/ bkz ben yaş 41 selam ve du aile
 bkz atacücü 18 81 
 bkz 81 vilayet - hatay = 80
