@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/ )
 
 <!-- 
+https://www.uludagsozluk.com/k/cinsellik-benim-i%C3%A7in-birinci-plandad%C4%B1r-diyen-erkek/&w=bg 
+bkz ben yaş 41
 bkz atacücü 18 81 
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
