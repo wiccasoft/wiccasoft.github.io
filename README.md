@@ -6,7 +6,7 @@ bkz atacücü neden lozan mozan takıldı sorunsalı
 bkz emin çölaşanın wuhan çöl olmasın yazısı
 bkz ahmet hakkanın yediği yarasa
 bkz yarasa etinin azdırması
-bkz elif can terimin ladyboyçıkması
+bkz elif can terimin ladyboy çıkması
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/&w=gd
 https://eksisozluk.com/ece-unerin-ahmet-hakana-taktigi-kapak--6410699?a=popular
 -->
