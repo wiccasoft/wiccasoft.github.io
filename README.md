@@ -10,9 +10,7 @@ bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
 bkz atacücünün virüsleri denize dökmeyi emrediyorum lafı
 bkz atacücünün tece şeyhler virüsler memleketi değildir lafı
-https://www.uludagsozluk.com/k/cinsellik-benim-i%C3%A7in-birinci-plandad%C4%B1r-diyen-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/
-https://www.uludagsozluk.com/k/sevgilisini-karma-spor-salonuna-yollayan-erkek/&w=bg bkz ben
 https://www.uludagsozluk.com/k/avrupa-elini-y%C4%B1kam%C4%B1yorcular/
 https://www.uludagsozluk.com/k/nicolas-anelka/&w=bg
 https://www.uludagsozluk.com/k/serdar-orta%C3%A7-%C4%B1n-akl%C4%B1n%C4%B1z-varsa-evlenmeyin-demesi/
