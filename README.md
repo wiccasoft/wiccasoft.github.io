@@ -4,7 +4,6 @@
 https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
 https://www.uludagsozluk.com/k/marketten-kutu-kutu-kolonya-alan-adam/
 bkz ata cücü 12 adaları musulu neden almadı sorunsalı
-https://www.uludagsozluk.com/k/mustafa-kemal-atat%C3%BCrk/&w=bg bkz fesli bunak
 bkz fesli bunak vs tuvalet kağıdı
 https://www.uludagsozluk.com/k/lozan-hezimetinin-belgesi/
 bkz atacücü 18 81 
