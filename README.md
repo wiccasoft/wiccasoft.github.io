@@ -1,10 +1,10 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
-https://www.uludagsozluk.com/k/sevi%C5%9Firken-k%C4%B1z-sevgilinin-babas%C4%B1n%C4%B1n-aramas%C4%B1/ aboo
+<!--
 bkz oytun erbaşın karılar kafam girsin demesi
 beyler ben izmirden olgun cucukoldum isteyen mesaj atsın izlemesi zevkli oliy
-bkz yalnız bi problem var hiç karı yok ben de asdasdads
+yalnız bi problem var hiç karı yok ben de asdasdads
+https://www.uludagsozluk.com/k/sevi%C5%9Firken-k%C4%B1z-sevgilinin-babas%C4%B1n%C4%B1n-aramas%C4%B1/ 
 https://www.uludagsozluk.com/k/sevgilisinin-ayaklar%C4%B1n%C4%B1-%C3%B6pen-erkek/&w=bg bkz cuckold erkek
 https://cuckold-erkek.uludagsozluk.com kankağ benim kız kardeşi sana ayarlim oytunkaran bi kere sikti ama
 https://www.uludagsozluk.com/k/k%C4%B1z-karde%C5%9Fini-sevi%C5%9Firken-izleyen-erkek/&w=bg bkz ben
