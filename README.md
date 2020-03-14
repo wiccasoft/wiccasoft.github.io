@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1yla-seks-yapan-baba/&w=bg bkz ben
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1n-sevgilisi-gelince-evden-giden-baba/&w=bg bkz ben
 https://www.uludagsozluk.com/k/umreden-d%C3%B6nen-emmiyi-derdest-edip-bodruma-kapatmak/ ne skiş döner orda
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
