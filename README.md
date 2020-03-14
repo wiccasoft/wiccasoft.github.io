@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 -80 = covid19
 bkz hadisenin macun kaplıcalı pozu
 bkz kamalcıların sanki aynı hep aynı yerde sayması
+https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 bkz elif can terimin fatih terimin isminden nemalanması selam ve du aile
 https://www.pinterest.com/wiccasoft/pins/ 
 bkz menzil cemaatinin emine erdoğanı nefertitiye benzetmesi
