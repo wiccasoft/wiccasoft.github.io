@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
-bkz musan neden denizi yarıp israili kurdu sorunsalı
+bkz musanın aslında mısırlı olduğu gerçeği
+bkz musa neden denizi yarıp israili kurdu sorunsalı
 bkz nefertitinin taş gibi karı olduğu gerçeği
 bkz alexandre the great kleopatraya çakmışmıdır sorunsalı
 bkz yapay zeka vs yapgüneş zeka
