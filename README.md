@@ -3,10 +3,8 @@
 <!--
 https://www.uludagsozluk.com/k/k%C4%B1z%C4%B1n%C4%B1n-sevgilisi-gelince-evden-giden-baba/&w=bg bkz ben
 https://www.uludagsozluk.com/k/umreden-d%C3%B6nen-emmiyi-derdest-edip-bodruma-kapatmak/ ne skiş döner orda
-bkz güldür güldür şovdaki cüce 
-bkz şaka lan şaka çaycı hüseyin ben ölmedim daha işler bitsin karılarla adaya kitlicem kendimi
 https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg bkz ben
-bkz çiftlere üçüncü olurum 45 dk aralıksız keser sapı
+bkz çiftlere  üçüncü olunur 45 dk aralıksız keser sapı ben
 bkz sevdiceğinin ayaklarını öpen erkek kim lan o erkek biz de nemalanak pampa
 bkz o değil de tayyip bile mala vuruyo amk
 bkz o değil de kim sikiyo lan bu karıları 
