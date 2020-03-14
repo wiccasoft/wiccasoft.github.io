@@ -5,11 +5,13 @@ bkz atacücü 18 81
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz hadisenin macun kaplıcalı pozu
+bkz menzil sayfasının deme yi kapaması
 bkz kamalcıların sanki aynı hep aynı yerde sayması
 bkz atacücünün tece covidler şeyhler şıhlar memlekete olamaz lafı
 bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
 bkz menzil cemaatinin nefertiti emine erdoğan benzerlikleri paylaşımı
 bkz menzil şeyhinin corona için selam ve duaya çıkması
+https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=gd
 https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
 bkz elif can terimin fatih terimin isminden nemalanması selam ve du aile
