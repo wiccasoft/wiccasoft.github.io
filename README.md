@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+https://www.uludagsozluk.com/k/c%C3%BCce-adamlar%C4%B1n-korkun%C3%A7-olmas%C4%B1/&w=bg 27 den sonrasını okumadım
 https://www.uludagsozluk.com/k/akp-nin-umre-olay%C4%B1nda-s%C4%B1vamas%C4%B1/ bkz ümmüt üğlüy
 https://cuckold-erkek.uludagsozluk.com bkz amın feryadı ergen 15 falan heralde yaşı yazık la kimin çocuysa
 https://cuckold-erkek.uludagsozluk.com  anneni diyorum duvardan duvara hoplatırım babanı götten sikerim
