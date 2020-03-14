@@ -7,6 +7,7 @@ bkz 18+81 = 99 - 80 = covid19
 bkz hadisenin macun kaplıcalı pozu
 bkz menzil sayfasının deme yi kapaması
 bkz facebook tece menzil sayfası
+bkz menzil cemaatininin facebook sayfasına tece koyması
 bkz kamalcıların sanki aynı hep aynı yerde sayması
 bkz atacücünün tece covidler şeyhler şıhlar memlekete olamaz lafı
 bkz ibb chp üyelerinin stigmata çaldığında ayağa kalkmaması
