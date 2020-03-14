@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=wgastCO7Clo )
 
 <!-- 
+bkz kendine muhteşem lakabı takan megaloman
 bkz muhteşem süleyman vs muhteşem iskender
 bkz alexandre the great make alexandre great again mi demişti sorunsalı
 bkz büyük sikender niye osmanlı beyliğini sikertmedi sorunsalı
