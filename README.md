@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
 bkz bunlar hep nutukta yazıyo zaten
 bkz gökten indiği sanılan virüsler
+https://www.uludagsozluk.com/k/pekeke/&w=bg bkz pekeke energianın paylaştığı nefertiti paylaşımı
 https://www.uludagsozluk.com/k/ilker-kaleli-nin-ka%C3%A7-kadeh-k%C4%B1r%C4%B1ld%C4%B1-performans%C4%B1/
 https://www.pinterest.com/wiccasoft/pins/ bkz menzil cemaatinin emine erdoğan nefertiti paylaşımı
 https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/
