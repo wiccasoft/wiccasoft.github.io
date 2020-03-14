@@ -4,6 +4,7 @@
 bkz atacücü 18 81 
 bkz 81 vilayet - hatay = 80
 bkz 18+81 = 99 - 80 = covid19
+bkz atacücünün nutuktan covid 19 dan bahsetmesi
 bkz hadisenin macun kaplıcalı pozu,
 bkz menzil sayfasının nefertiti emine erdoğan paylaşımı
 https://www.pinterest.com/wiccasoft/pins/
