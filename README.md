@@ -1,5 +1,10 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
+<!-- 
+https://www.uludagsozluk.com/k/izmirli-erkek-vs-trabzonlu-erkek/&w=gd
+https://www.uludagsozluk.com/k/olgun-erkeklerin-gen%C3%A7lerden-bir-ad%C4%B1m-%C3%B6nde-olmas%C4%B1/ bkz ben
+https://www.uludagsozluk.com/k/sevglinin-basurunu-%C4%B1s%C4%B1rarak-patlatmak/&w=gd
+-->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
