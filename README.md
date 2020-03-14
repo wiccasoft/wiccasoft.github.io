@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz seyfo dayının gerdek gecesi gıy gıy gıy diye ses çıkarması
 https://www.uludagsozluk.com/k/%C3%B6mer-baba-n%C4%B1n-gerdek-gecesi/ bkz gıy gıy gıy
 bkz polatın elif can terimi hoplatması
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz rambo ali
