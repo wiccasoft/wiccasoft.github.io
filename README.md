@@ -1,5 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
-
+<!--
+bkz imamoğlan kendini tayyip olarak hayal ediy
+https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-selahattin-demirta%C5%9F-a-%C3%B6zg%C3%BCrl%C3%BCk-talebi/ -->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
