@@ -1,5 +1,6 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 <!--
+bkz imamoğlanın neo yani the one olması
 bkz ömer babanın robot olduğu gerçeği
 bkz imamoğlan kendini neo olarak hayal ediy
 bkz polatın ömer babayı dinlememesi
