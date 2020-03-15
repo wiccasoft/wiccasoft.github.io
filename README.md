@@ -1,8 +1,5 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu/&w=bg bkz ak nonoşların kabusu
-https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kadar süper lan --->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
