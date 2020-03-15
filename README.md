@@ -1,10 +1,5 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
-https://www.uludagsozluk.com/k/ekrem-imamo%C4%9Flu-vurduk%C3%A7a-kuduran-akp-liler/&w=bg
-https://www.uludagsozluk.com/k/akp-a%C3%A7%C4%B1k%C3%A7a-ter%C3%B6rist-%C3%B6rg%C3%BCte-her-istedi%C4%9Fini-verdi/&w=bg
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-selahattin-demirta%C5%9F-a-%C3%B6zg%C3%BCrl%C3%BCk-talebi/&w=gd -->
-
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
 [![Image](waste/Screenshot_2020-03-12_10-07-55.png)]( https://www.youtube.com/watch?v=qwn3QzsZJGY )
