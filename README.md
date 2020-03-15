@@ -3,7 +3,7 @@
 bkz ömer babanın robot olduğu gerçeği
 bkz imamoğlan kendini neo olarak hayal ediy
 bkz polatın ömer babayı dinlememesi
-bkz polatın elif can demir için vadiye girmesi
+bkz polatın elif can yetim için vadiye girmesi
 bkz tayyip kendini tanrı olarak hayal ediy
 bkz imamoğlan kendini tayyip olarak hayal ediy
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-selahattin-demirta%C5%9F-a-%C3%B6zg%C3%BCrl%C3%BCk-talebi/ -->
