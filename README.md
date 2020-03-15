@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 <!--
 bkz ömer babanın robot olduğu gerçeği
-bkz imamoğlan  kendini neo olarak hayal ediy
+bkz imamoğlan kendini neo olarak hayal ediy
 bkz polatın ömer babayı dinlememesi
 bkz polatın elif can demir için vadiye girmesi
 bkz tayyip kendini tanrı olarak hayal ediy
