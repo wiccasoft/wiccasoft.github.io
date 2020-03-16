@@ -1,10 +1,10 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!-- 
+bkz fahrettin kocanın yarasa yemeyin uyarısını dinlemeyen çomarlar
 https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/ ben yemeyin demiştim size
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/ bkz corrna sebebi
-bkz fahrettin kocanın yarasa yemeyin uyarısı
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz adam gibi adam koca gibi koca -->
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz yarasa adam -->
 
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
