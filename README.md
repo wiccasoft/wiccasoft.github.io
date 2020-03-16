@@ -9,6 +9,7 @@ bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz covid19 un türk olmaktan utanması
 bkz erdoğanın gürcü olmaktan utanmaması
+bkz fatih terim efso soyunma odası konuşması
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz avrupa fatihi
 bkz virüsün en çok benim işime yaradığı gerçeği
 https://www.uludagsozluk.com/k/ben-gürcüyüm-eşim-arap/&w=bg
