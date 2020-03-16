@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
-bkz hz isanın receğ tayyiğ erdoğan mehdidir tweeti
+bkz hz isanın receğ tayyiğ erdoğan mehdiliğini müjdelemeei
 bkz receğ tayyiğ erdoğanın iri olacaz diri olacaz bir olacaz tweeti
 bkz receğ tayyiğ erdoğanın beni even menzil şeyhini de sever demesi
 bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz açıklaması
