@@ -1,43 +1,5 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
-<!--
-bkz 1881 atacücü
-bkz 81 vilayet - hatay = 80 
-bkz 18 + 81 = 99 - 80 = covid19
-bkz covid19 türktür türk kalacaktır
-bkz Il buono, il brutto, il cattivo
-https://www.uludagsozluk.com/k/g%C3%BCntekin-onay-%C4%B1n-italyanca-bilmesi/&w=gd
-bkz yarasa yiyiler ladyboy sikiyler
-https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
-https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg bkz ben
-bkz yılmaz erdoğanın serra yılmaz kürt sinemasının duayenidir açıklaması
-bkz serra yılmazın cem yılmazla barışması
-bkz serra yılmaz cem yılmazla film procesine sıcak bakması
-https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/ 
-bkz abi yarasa yiyolar hep ondan oluyo virüs
-bkz abi yarasa yemeseler iyi yiyolar ondan oluyo bu virüs 
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
-https://www.uludagsozluk.com/k/beyninizde-y%C3%BCzde-ka%C3%A7-i%C5%9Fe-yarar-bilgi-var/ bkz yarasa yiyolar
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını veren adamlar
-bkz ekrem imamaoğlanın babasının oğlan kaymasın mı demesi
-bkz atacücü imzalı maske satıp köşeyi dönmek
-bkz hoşlaşılan mehdinin evli çıkması
-bkz imamoğlanın kutsala hakaret etmesi 
-bkz hazreti dediğin adamın sıçtığı gerçeği
-bkz nakşibendi torunuyum diyip özalları dolandırmak
-https://www.uludagsozluk.com/k/sevgilinin-basurunu-%C4%B1s%C4%B1rarak-patlatmak/
-https://www.uludagsozluk.com/k/hz-hamza-vs-hz-ali/ bkz iki yiğido ikisi birbirinden yiğido
-https://www.uludagsozluk.com/k/16-mart-2020-camilerin-kapat%C4%B1lmas%C4%B1/  tam abdest alıyodum
-https://www.uludagsozluk.com/k/%C5%9Faka-maka-tayyipten-%C3%B6nce-%C3%B6lmek/
-https://www.uludagsozluk.com/k/camiler-kapat%C4%B1lmad%C4%B1-diye-kuduran-kemalist/&w=bg
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
-https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
--->
-
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 
