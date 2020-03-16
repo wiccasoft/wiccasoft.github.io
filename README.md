@@ -6,7 +6,8 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz kamalcıya anlatır gibi anlatmak
-bkz havlayan kamalcı ısırmaz
+bkz havlayan kamalcı ısırmaz 
+bkz hev hev hev yav he he kamalcı
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz kamalcıların anlayacağı dille anlatmak
 bkz kamalcının seviyesine inip öleceğini nazik dille anlatmak
 bkz kamalcıların inanacağı bir yalan uydur
