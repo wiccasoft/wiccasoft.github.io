@@ -9,6 +9,7 @@ bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz covid19 un türk olmaktan utanması
 bkz serra yılmaz vs mesut yılmaz vs cem yılmaz
+bkz erdoğanın 5.0 tepeyi karantinaya alması
 bkz hala soyadıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 bkz yılmaz soyadının türklerin en çok kullanıdğı soyad olması
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg 
