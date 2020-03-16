@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!-- 
-bkz tayyible başlığa mislleme başlık açan nonoş
+bkz tayyibli çomar başlığaına misilleme ekremli başlık açan ak nonoş
 bkz çukur vuruşma sahnelerinde hav hav hav diyen erkek
 bkz dayyibin gürcü olmaktan utanmaması
 bkz doprağım vadanım sensin izlerken gavlayabn kamalcı
