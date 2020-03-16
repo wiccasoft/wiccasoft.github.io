@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz fahretin terimin fatih tezcana attığı bakış
 bkz 16 mart 2020 fahrettin topalak geri vitesi
 bkz 16 mart 2020 fahrettin tezcanın efso ayarı
 bkz fahrettin tezcanın fatih kocaya işini yap diye uyarması
