@@ -10,9 +10,6 @@ bkz covid19 türktür türk kalacaktır
 bkz covid19 un türk olmaktan utanması
 bkz erdoğanın gürcü olmaktan utanmaması
 https://www.uludagsozluk.com/k/ben-gürcüyüm-eşim-arap/&w=bg
-bkz serra yılmaz vs mesut yılmaz vs cem yılmaz
-bkz erdoğanın 5.0 tepeyi karantinaya alması
-bkz hala soyadıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
 bkz yılmaz soyadının türklerin en çok kullanıdğı soyad olması
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg 
 https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
