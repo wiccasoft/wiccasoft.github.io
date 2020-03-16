@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz receğ teyyiiğ erdoğanın gürcü olmaktan utanmaması
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
