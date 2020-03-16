@@ -2,7 +2,7 @@
 
 <!-- 
 bkz erdonun virüslü halk beştepeye girmesin diye önlem alması
-bkz receğ tayyiğ erdoğannın beştepeyi ilaçlatması
+bkz receğ tayyiğ erdoğanın beştepeyi ilaçlatması
 bkz erdonun virüs için khk çıkarması
 bkz rallın yaşadığını iddia etmesi
 https://www.youtube.com/watch?v=0rjItOxZAgg
