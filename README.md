@@ -6,6 +6,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz kamalcıya anlatır gibi anlatmak
+bkz havlayan kamalcılar ısırmaz
 bkz kamalcının seviyesine inip öleceğini nazik dille anlatmak
 bkz kamalcıların inanacağı bir yalan uydur
 bkz kamalcıların eğitilmez oldukları gerçeği
