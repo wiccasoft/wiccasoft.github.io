@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz serra yılmazın cem yılmazla barışması
 bkz fatih terimin fatijh tezcanın sicili bozuk demesi
 bkz elif can terimin fatih terim ismini kullanarak köşeyi dönmesi
 bkz mesut yılmazın srrra yılmazı havaalanında karşılaması
