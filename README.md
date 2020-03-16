@@ -3,77 +3,7 @@
 <!-- 
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=gd bkz rall
-bkz hizmetçiler dizi vs mucize doktor dizi
-https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg ıstırırım yalarım bi de
-bkz akpe koronoyı kukla gibi oynatması
-https://www.uludagsozluk.com/k/akp-korona-s%C3%BCrecini-iyi-y%C3%B6netiyor-trolleri/&w=bg
-bkz receğ tayyiğ erdoğan yerli ve milli koronayı tanıtması
-bkz receğ tayyiğ erdoğanın yerli uçağın geri vitesini takması
-bkz receğ tayyiğ erdoğanın yerli uçağımız göklerde açıklaması
-bkz ahmet hakanın ekranı beş bölüp italyaya kaçması
-bkz ahmet hakanın italya ya gitmek istiyorum demesi
-https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/
-bkz sözlük kadınları vs patlak instagram kızları
-https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg çıtır çıtır yenir
-bkz deep turkish webte kadın var sanan ergen
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=bg bkz rall
-https://www.uludagsozluk.com/k/vazge%C3%A7memek/&w=bg bkz entry girmek
-https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg çıtır çıtır yenir
-bkz bilal oğlanın dönme sinyalleri yakıp geri vitesi fullemesi
-bkz killa hakanın türkiyeye dönmek istemesi
-bkz ahmet hakanın ekranı 4 e bölmesi
-bkz erdonun virüslü halk beştepeye girmesin diye önlem alması
-bkz receğ tayyiğ erdoğanın beştepeyi ilaçlatması
-bkz erdonun virüs için khk çıkarması
-bkz rallın yaşadığını iddia etmesi
-https://www.youtube.com/watch?v=0rjItOxZAgg
-bkz zall ona hep oç der yaşasaydı olacaklar
-bkz brandi love un türkiye dönmek istemesi
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/
-https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/
-https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
-https://www.uludagsozluk.com/k/demirta%C5%9F-su%C3%A7luysa-su%C3%A7unu-a%C3%A7%C4%B1klas%C4%B1nlar-trolleri/&w=gd
-bkz johnny sinsin hırtlar vadi topkek çay çok güzel yine gelecek ben demesi
-https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=bg bkz rallın annesi
-https://www.uludagsozluk.com/k/lebron-james-in-kurtlar-vadisi-hayran%C4%B1-olmas%C4%B1/
-https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/sald%C4%B1ray-abi/ bkz özledik abiiiii saldır abiiiiii
-https://www.uludagsozluk.com/k/yak%C4%B1nda-s%C3%B6zl%C3%BCk-dedelerinin-helvas%C4%B1n%C4%B1-yiyece%C4%9Fiz/
-https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
-bkz o değil de bi atakan kayalay vaydı noldu ona
-https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/
-https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/&w=gd
-https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
-https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahahhahaha
-bkz 1954 rte 19 + 54 = 73 bkz düvele rabia işareti yapan mehdi
-bkz 1881 atacücü
-bkz 81 vilayet - 80 = hatay
-bkz 18+81 = 99 - 80 = covid19 
-bkz receğ tayyiğ erdoğanın virüs için khk çıkarması
-bkz berkin elvan vardı noldu ona
-https://www.uludagsozluk.com/k/jandarma-%C3%B6zel-harekat/&w=bg bkz corona virüsünü sikerten hareket
-bkz erdoğanın sigara paketlerin üzerine corona resmi yapıştıralım önerisi
-bkz erdoğanın corona için beştepeyi ilaçlatması
-bkz atacan tayalar vardı noldu ona
-https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
-bkz bilal erdoğanın babacım paraları sıfırladım demesi
-bkz 15 temmuz hain virüs kalkışması
-bkz erdoğanın fedöcü virüsü yakalamamız an meselesi demesi
-bkz tayyipin coronayı ak siyasete alet etmeyin açıklması
-bkz imamoğlanın rall ona hep oç der aşkı
-bkz bilal oğlanın italyayı terketmesi
-bkz şekeroğlanın hdpli virüs aşkı
-bkz virüs hdpli mi chp li mi sorunsalı
-bkz receğ tayyiğ erdoğanın virüs zaten chpli hastalık belli açıklaması
-bkz erdoğanın vatan hain virüs için yakalama emri çıkarması
-https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
-https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/ -->
-
+-->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
