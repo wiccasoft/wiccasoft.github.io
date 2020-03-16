@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz yabanacı nickli ergen karizması
 bkz covid19 türktür türk kalacaktı
+bkz çoamrları kudurtacak bi futbolcu bırak
 bkz çomarları kudurtacak bir entry daha gir
 bkz çomarları kandıracak bi entry gir
 bkz çomarlaı kudurtacak bi video bırak
