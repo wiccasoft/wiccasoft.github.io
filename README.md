@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz solcuların pipisinin kalkmaması
+https://www.uludagsozluk.com/k/solcular-iktidardayken-d%C3%BCnyan%C4%B1n-kaosa-s%C3%BCr%C3%BCklenmesi/
 https://www.uludagsozluk.com/ bkz deep turkish ultra gay forum
 https://frank-lucas.uludagsozluk.com/ bkz ağır gay
 https://d-o-g-u-k-a-n.uludagsozluk.com/ bkz ağır gay
