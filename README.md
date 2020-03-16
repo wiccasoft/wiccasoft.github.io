@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bk imamaoğlanın rall bugün benim için ne yaptı tweeti
 bkz bilal oğlanın italyayı terketmesi
 bkz şekeroğlanın hdpli virüs aşkı
 bkz virüs hdpli mi chp li mi sorunsalı
