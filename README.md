@@ -1,10 +1,12 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz erdonun kyk çıkarması
 bkz rallın yaşadığını iddia etmesi
 https://www.youtube.com/watch?v=0rjItOxZAgg
 bkz zall ona hep oç der yaşasaydı olacaklar
 bkz brandi love un türkiye dönmek istemesi
+https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/
 https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/
 https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
 https://www.uludagsozluk.com/k/demirta%C5%9F-su%C3%A7luysa-su%C3%A7unu-a%C3%A7%C4%B1klas%C4%B1nlar-trolleri/&w=gd
