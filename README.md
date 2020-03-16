@@ -5,6 +5,7 @@ https://www.uludagsozluk.com/k/s%C4%B1rp-erkeklerinin-penis-boyu-ortalamas%C4%B1
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
+bkz kamalcıya anlatır gibi anlatmak
 bkz kamalcıların eğitilmez oldukları gerçeği
 https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz kamalcıya anlatır gibi anlatmak
 bkz atacücünün damarlarınızdaki asil kanda mevcuttur lafı
