@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=xFjV8cD0mXI )
 
 <!-- 
-bkz atacücünün nutukta gökten indiği virüsler lafı
+bkz atacücünün gökten indiği sanılan virüsler lafı
 bkz çomarları ikna edecek bir entry gir
 bkz tengir budun doğanın kulağına usulca 18 cm demek
 https://www.uludagsozluk.com/k/tengir-budun-a-usulca-yakla%C5%9F%C4%B1p-auuuuu-yapmak/
