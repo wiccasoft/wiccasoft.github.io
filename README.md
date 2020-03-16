@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz türklerin çok çirkin tipler olması
 bkz atacücünün türklere benzememesi sorunsalı
 https://www.uludagsozluk.com/k/mustafa-kemal-sizin-gibi-k%C4%B1ro-de%C4%9Fildi/&w=bg
 bkz türklerin en çok yılmaz soyadlı olması
