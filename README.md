@@ -1,8 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz menzil sayfası nerece sorunsalı facebook ta arattım bulamadım
 bkz menzil şeyhinin torununun paylaştığı sünnet videosu
-bkz menzil sayfasının paylaştığı nefertiti emine erdoğan benzerliği paylaşımı
 https://www.uludagsozluk.com/k/berberlerin-koronadan-karl%C4%B1-%C3%A7%C4%B1kaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ bkz ben dokundururken kaldırmak
 bkz menzilin sayfasının paylştığı kuran en iyi ilaçtır paylaşımı
 https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/&w=gd
