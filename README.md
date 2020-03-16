@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz mesut yılmazın srrra yılmazı havaalanında karşılaması
+bkz serra yılmaz türkiyeye dönmek istemesi
 bkz serra yılmazın atacücünün yılmaz bekçisiyim demesi
 bkz türklerin çok çirkin tipler olması
 bkz atacücünün türklere benzememesi sorunsalı
