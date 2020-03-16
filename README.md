@@ -1,17 +1,6 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
-bkz virüsün hdpli çıkması
-bkz virüsün türk halkına yaptığı hakaret
-bkz imamaoğlanın hdpli virüs aşkı
-bkz receğ tayyiğ erdoğanın virüs için  kyk çıkarması
-bkz stiklal marşında ayakta işeyen hdpliler
-bkz serra yılmaz pkk ya destek vermesi
-blz rallın imamaoğlana şeker oğlan demesi
-bkz rallın bitmek bilmeyen şmamaoğlan aşkı 
-https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
-https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-bitmek-bilmeyen-demirta%C5%9F-a%C5%9Fk%C4%B1/
-https://www.uludagsozluk.com/k/hz-isa/&w=bg taşşaklarına kurban olunası peygamberler -->
+
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
 
