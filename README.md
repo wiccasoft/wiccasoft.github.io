@@ -4,7 +4,8 @@
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
-bkz covid19 türktür türk kalacaktır
+bkz covid19 türktür türk kalacaktı
+https://www.uludagsozluk.com/k/16-mart-2020-umrecilerin-ka%C3%A7ma-giri%C5%9Fimi/
 https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
 bkz abi yarasa yemeseler iyi yiyolar ondan oluyo bu virüs 
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
