@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!-- 
+bkz ezan dinlemenin virüsü yok etmesi
 bjz receğ tayyiğ erdoğanın beni seven ezan dinler demesi
 bkz muhammedin yobaz bi arap olduğu gerçeği
 bkz hazreti muhammedin batılıların evine girip putları yıkması
