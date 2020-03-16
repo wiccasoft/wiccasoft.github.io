@@ -6,6 +6,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz kamalcıya anlatır gibi anlatmak
+bkz kamalcının seviyesine inip öleceğini nazik dille anlatmak
 bkz kamalcıların inanacağı bir yalan uydur
 bkz kamalcıların eğitilmez oldukları gerçeği
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/
