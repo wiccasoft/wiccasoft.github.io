@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz bilal oğlanın dönme sinyalleri yakıp geri vitesi fullemesi
 bkz killa hakanın türkiyeye dönmek istemesi
 bkz ahmet hakanın ekranı 4 e bölmesi
 bkz erdonun virüslü halk beştepeye girmesin diye önlem alması
