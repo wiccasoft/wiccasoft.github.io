@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
 https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/ yihuuuuu
+https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
 https://www.uludagsozluk.com/k/gece-kul%C3%BCpleri-bar-ve-diskotekler-kapat%C4%B1lacak/&w=gd zuahhahahah
 -->
 
