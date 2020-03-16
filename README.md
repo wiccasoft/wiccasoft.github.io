@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz mustafa torlakın khk tezlekesini mevlis başkanına fırlatması
 bkz mustafa torlakın receğ tayyiğ erdoğan tapleri fake açıklaması
 bkz 19 mart 2020 erdonun tapelerinin fake yani sahte çıkması
 bkz 18 mart 2020 receğ tayyiğ erdoğanın mustafa topalaka verdiği efso ayar
