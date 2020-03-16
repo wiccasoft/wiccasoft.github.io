@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz hizmetçiler dizi vs mucize doktor dizi
 https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg ıstırırım yalarım bi de
 bkz akpe koronoyı kukla gibi oynatması
 https://www.uludagsozluk.com/k/akp-korona-s%C3%BCrecini-iyi-y%C3%B6netiyor-trolleri/&w=bg
