@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz damarlarında asil kan dolaşırken virüsten korkmak
 bkz atacücünün virüsü deniz dökmesi
 https://www.uludagsozluk.com/k/c%C3%BCbbeli-ahmet-in-koronavir%C3%BCsten-korunma-duas%C4%B1/&w=bg
 bkz atacücü heykellerine virüs bulaşmaz kuş sıçmaz
