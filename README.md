@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz büyün önder
 https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz karataydan lahmacuna onay
 https://www.uludagsozluk.com/k/rte/&w=bg bkz başta bütün dünyanın saydığı büyük komutan tayyip
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-t%C3%BCm-d%C3%BCnyaya-ayar-vermesi/
