@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz başta bütün dünyanın saydığı büyük komutan tayyip
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-t%C3%BCm-d%C3%BCnyaya-ayar-vermesi/
 https://www.youtube.com/watch?v=HlY1eDlWwAw
 bkz canan karatayın kelle paça yiyin oglim iyi gelir girbe virüse denesi
 bkz receğ tayyiğ erdoğanın arayıp nerdesin moruk özlettin demek
