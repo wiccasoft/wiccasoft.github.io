@@ -11,6 +11,7 @@ bkz hoşlaşılan mehdinin evli çıkması
 bkz imamoğlanın kutsala hakaret etmesi 
 bkz hazreti dediğin adamın sıçtığı gerçeği
 bkz nakşibendi torunuyum diyip özalları dolandırmak
+https://www.uludagsozluk.com/k/sevgilinin-basurunu-%C4%B1s%C4%B1rarak-patlatmak/
 https://www.uludagsozluk.com/k/hz-hamza-vs-hz-ali/ bkz iki yiğido ikisi birbirinden yiğido
 https://www.uludagsozluk.com/k/16-mart-2020-camilerin-kapat%C4%B1lmas%C4%B1/  tam abdest alıyodum
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-tayyipten-%C3%B6nce-%C3%B6lmek/
