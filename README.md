@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/s%C4%B1rp-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 18 cm
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
