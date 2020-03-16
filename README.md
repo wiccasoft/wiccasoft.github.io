@@ -9,6 +9,7 @@ bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz covid19 un türk olmaktan utanması
 bkz erdoğanın gürcü olmaktan utanmaması
+https://www.uludagsozluk.com/k/ben-gürcüyüm-eşim-arap/&w=bg
 bkz serra yılmaz vs mesut yılmaz vs cem yılmaz
 bkz erdoğanın 5.0 tepeyi karantinaya alması
 bkz hala soyadıma başlık açılmamış bu demek oluyor ki hala doğru yoldayım
