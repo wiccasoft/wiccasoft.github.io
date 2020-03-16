@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz 1954 rte 19 + 54 = 73 yedi düvele rabia işerati yapan mehdi
 bkz 1881 atacücü
 bkz 81 vilayet - 80 = hatay
 bkz 18+81 = 99 - 80 = covid19 
