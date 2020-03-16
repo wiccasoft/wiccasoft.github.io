@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz Il buono, il brutto, il cattivo
+https://www.uludagsozluk.com/k/g%C3%BCntekin-onay-%C4%B1n-italyanca-bilmesi/&w=gd
 bkz yarasa yiyiler ladyboy sikiyler
 https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg bkz ben
