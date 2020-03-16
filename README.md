@@ -3,8 +3,6 @@
 <!-- 
 bkz dizi yapımcıların çomarları iyi keklemesi
 bkz çukur vuruşma sahnelerinde ay diyen erkek
-bkz merkelin keraneleri kapattık demesi
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz gay
 bkz bi avuç magandanın birbirini vurmasını çomarla dizi diye izletmek
 bkz vuruşmalı maganda dizisi izleyen eşcinsel
 bkz iki kişinin bildiği sır sır değildir diyip kankasını vuran gay
