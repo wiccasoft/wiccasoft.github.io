@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz receğ tayyiğ erdoğanın demeyi kapaması
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-nerede-sorunsal%C4%B1/&w=bg bkz beştepe
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz büyün önder
 https://www.uludagsozluk.com/k/canan-karatay/&w=bg bkz karataydan lahmacuna onay
