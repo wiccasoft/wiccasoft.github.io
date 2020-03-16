@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
-<!-- 
+<!--
+https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz elif can terimin babası
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
