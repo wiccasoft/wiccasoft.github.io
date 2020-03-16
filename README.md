@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
 bkz deniz gezmiş vs berkin elvan
 bkz o değil de bi atakan kayalay vaydı noldu ona
 https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
