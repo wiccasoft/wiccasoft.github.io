@@ -5,6 +5,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktı
+https://www.uludagsozluk.com/k/italyan-beyler/ 
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-corona-y%C4%B1-kahve-i%C3%A7erek-seyretmesi/
 https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=bg
 https://www.uludagsozluk.com/k/16-mart-2020-umrecilerin-ka%C3%A7ma-giri%C5%9Fimi/
