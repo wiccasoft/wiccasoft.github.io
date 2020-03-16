@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz ali koç başkan fenevbavce şampi
 https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
 https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=bg bkz rall
