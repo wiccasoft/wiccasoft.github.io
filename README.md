@@ -4,6 +4,7 @@
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
+https://www.youtube.com/watch?v=EfAsNffCjsM
 bkz covid 19 un ezanı açınca kaybolması
 bkz ezanın covid19 a kaşı bağışıklığı güçlendirmesi
 https://www.uludagsozluk.com/k/dini-b%C3%BCt%C3%BCn-insanlar-%C3%B6lm%C3%BCyorlar/
