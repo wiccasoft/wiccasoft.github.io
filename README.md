@@ -1,6 +1,12 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
+bkz abi yarasa yemeseler iyi yiyolar ondan oluyo bu virüs 
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
+https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
+https://www.uludagsozluk.com/k/beyninizde-y%C3%BCzde-ka%C3%A7-i%C5%9Fe-yarar-bilgi-var/ bkz yarasa yiyolar
+https://www.uludagsozluk.com/k/17-mart-2020-%C3%BClkedeki-her-%C5%9Feyin-kapat%C4%B1lmas%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/adam-gibi-adam-deyince-akla-gelen-adam/
 https://www.uludagsozluk.com/k/karantinadan-ka%C3%A7maya-%C3%A7al%C4%B1%C5%9Fan-hac%C4%B1lar/
 https://www.uludagsozluk.com/k/laik%C3%A7ilerin-inanaca%C4%9F%C4%B1-bir-yalan-uydur/
