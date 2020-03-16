@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz receğ tayyiğ erdoğanın yerli uçağımız göklerde açıklaması
 bkz ahmet hakanın ekranı beş bölüp italyaya kaçması
 bkz ahmet hakanın italya ya gitmek istiyorum demesi
 https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/
