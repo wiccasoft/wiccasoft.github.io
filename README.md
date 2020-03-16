@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-tayyipten-%C3%B6nce-%C3%B6lmek/
+https://www.uludagsozluk.com/k/camiler-kapat%C4%B1lmad%C4%B1-diye-kuduran-kemalist/&w=bg
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
