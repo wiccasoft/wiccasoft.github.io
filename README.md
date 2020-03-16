@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz yenge dedin usta
+bkz hırtlar vadisi polat elif ilişkisi
 bkz elif can terimin fatih terimi kullanması
 bkz fatih terim elif can terim ilşkisi
 bkz ateist kamalcı pasif oğlan olgun 40 plus aktif erkek ilşkisi
