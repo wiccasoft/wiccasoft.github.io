@@ -1,39 +1,6 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
-bkz rte nin beni seven sigara içmesin açıklaması
-bkz entry girerken akşamın olması
-bkz rte nin üstüne atlayıp ısırmaya çalışan kamalcı 
-https://www.uludagsozluk.com/k/burak-akkul/&w=bg geçmiş olsun burak olur öyle
-bkz silivri soğuktur şimdi
-bkz entry girerken hayatı ben yaşıyorum ya hissi
-bkz ömür boyu entry girecem diyen oğlana sarılıp üzülme oğlum o da geçer demek
-bkz ömür boyu entry gireceğini öğrenene oğlan
-bkz sözlüklerde ömür boyu entry girmeye mahkum edilen oğlanlar
-bkz covid19 lu oğlanların sürekli entry girmesi
-bkz covid19 lu oğlanı entruy girmeye zorlamak
-bkz yenge dedin usta
-bkz hırtlar vadisi polat elif ilişkisi
-bkz elif can terimin fatih terimi kullanması
-bkz fatih terim elif can terim ilşkisi
-bkz ateist kamalcı pasif oğlan olgun 40 plus aktif erkek ilşkisi
-https://www.uludagsozluk.com/k/rte-en-merhametli-insand%C4%B1r/ bkz sakso çektirilen oğlan
-bkz ilk buluşmada sakso çeken kamalcı oğlan
-bkz kusturmalı boşnak saksosu yaptırlan oğlanın kamalcı çıkması
-bkz ilk buluşmada sakso çeken kamalcı  oğlanın kafasını yarrağa bastırmak
-bkz ilk buluşmada sakso çeken oğlan
-bkz ümmet liderinin skini emerken yakalanan kamalcı
-bkz atacan kayalar vasrdı noldu ona 
-bkz whatsuptan kalkıyo mu diye soran kamalcı
-https://www.uludagsozluk.com/k/73-ya%C5%9F%C4%B1ndaki-adam%C4%B1n-13-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fu-istismar%C4%B1/&w=bg
-bkz kalkıyo mu diye soran kamalcıya indirirsen kalkar demek
-https://www.uludagsozluk.com/k/umreden-gelen-kom%C5%9Fusunu-eve-kitleyen-adam/
-https://www.uludagsozluk.com/k/lgbt/&w=bg bkz facebook tan gbt soran bekçi
-bkz damadın kyk lı kızları kayırması
-https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
-bkz fatih terimin lukekuya attığı bakış
-https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
-bkz receğ teyyiiğ erdoğanın gürcü olmaktan utanmaması
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
