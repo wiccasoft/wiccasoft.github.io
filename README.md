@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=xFjV8cD0mXI )
 
 <!-- 
+https://www.uludagsozluk.com/k/peygamber-topra%C4%9F%C4%B1ndan-gelenlerde-vir%C3%BCs-%C3%A7%C4%B1kmaz/
 bkz atacücünün gökten indiği sanılan virüsler lafı
 bkz çomarları ikna edecek bir entry gir
 bkz tengir budun doğanın kulağına usulca 18 cm demek
