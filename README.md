@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz türklerin en çok yılmaz soyadlı olması
 bkz serra yılmazın cem yılmaz türktür açıklması
 bkz cem yılmazın serra yılmaz la barışması
 bkz damarlarındaki asil kanı küçümseyen türk
