@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.youtube.com/watch?v=0rjItOxZAgg
 bkz rallın yaşadığını iddia etmesi
 bkz zall ona hep oç der yaşasaydı olacaklar
 bkz brandi love un türkiye dönmek istemesi
