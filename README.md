@@ -2,7 +2,7 @@
 
 <!-- 
 bkz bi avuç magandanın birbirini sikmesini çomarla dizi diye izletmek
-bkz vuruşmalı erkek dizisi izleyen eşcinsel
+bkz vuruşmalı maganda dizisi izleyen eşcinsel
 bkz iki kişinin bildiği sır sır değildir diyip kankasını vuran gay
 bkz hırtlr vadisi seyfo dayı memati aşkı
 bkz çukur vuruşma sahnelerini açıp 31 çeken erkek
