@@ -3,8 +3,6 @@
 <!--
 bkz 17 mart 2020 fahrettin toplakın burası çokımelli demesi
 bkz 17 mart 2020 fahrettin toplakın yeni açıklmaları geri vitesi
-https://www.uludagsozluk.com/k/17-mart-2020-fahrettin-koca-dan-yeni-a%C3%A7%C4%B1klamalar/&w=bg
-bkz fahrettin topalak geri vitesi
 bkz hz isanın receğ tayyiğ erdoğan mehdiliğini müjdelemeei
 bkz receğ tayyiğ erdoğanın iri olacaz diri olacaz bir olacaz tweeti
 bkz receğ tayyiğ erdoğanın beni even menzil şeyhini de sever demesi
