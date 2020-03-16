@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-nin-t%C3%BCm-d%C3%BCnyaya-ayar-vermesi/
 bkz receğ tayyiğ erdoğanın demeyi kapaması
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-nerede-sorunsal%C4%B1/&w=bg bkz beştepe
