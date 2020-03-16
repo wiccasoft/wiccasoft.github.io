@@ -4,7 +4,6 @@
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
-https://www.uludagsozluk.com/k/rte-en-merhametli-insand%C4%B1r/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
