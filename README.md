@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+https://www.uludagsozluk.com/k/galatasaray/&w=bg bkz gavatsaray
 bkz türk önde türk ileri
 bkz atacücünün ileri kalma sebepleri
 bkz atacücücülerin geri kalma sebepleri
