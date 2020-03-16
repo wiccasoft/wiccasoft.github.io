@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz cem yılmazın serra yılmaz la barışması
 bkz damarlarındaki asil kanı küçümseyen türk
 bkz damarlarında asil kan dolaşırken virüsten korkmak
 bkz atacücünün virüsü deniz dökmesi
