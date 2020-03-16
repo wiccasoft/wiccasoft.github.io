@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz ahmet hakanın ekranı 4 e bölmesi
 bkz erdonun virüslü halk beştepeye girmesin diye önlem alması
 bkz receğ tayyiğ erdoğanın beştepeyi ilaçlatması
 bkz erdonun virüs için khk çıkarması
