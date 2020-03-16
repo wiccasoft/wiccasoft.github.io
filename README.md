@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
-recep tayyiğ erdoğan nerde olmmmmmmmmm nerdeeeeeeeeee
+bkz bir sabah aniden receğ tayyiğ erdoğanın yatakta bulamamak
 https://www.uludagsozluk.com/k/bir-çomara-usulca-sokulup-reisin-nerde-demek/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-nerede-sorunsal%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/rte-nin-ortalarda-g%C3%B6r%C3%BCnmemesi/ bkz beştepe de yok
