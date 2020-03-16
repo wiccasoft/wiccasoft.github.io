@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!-- 
+bkz hazreti muhammedin batılıların evine girip putları yıkması
 bkz fahrettin tezcanın fathi kocaya işini yap uyarısı
 bkz fahrettin tezcanın batıya verdiği efso ayar
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-bat%C4%B1-tweeti/
