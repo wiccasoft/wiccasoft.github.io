@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz 15 temmuz hain virüs kalkışması
 bkz erdoğanın fedöcü virüsü yakalamamız an meselesi demesi
 bkz tayyipin coronayı ak siyasete alet etmeyin açıklması
 bkz imamoğlanın rall ona hep oç der aşkı
