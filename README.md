@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz fenerlilerin iktidarsız olması
 bkz serra yılmazın cem yılamzın tweetini retweetlemesi
 bkz fatih terimin nerde kalmıştık tweeti
 https://www.uludagsozluk.com/k/16-mart-2020-fahrettin-koca-n%C4%B1n-att%C4%B1%C4%9F%C4%B1-tweet/
