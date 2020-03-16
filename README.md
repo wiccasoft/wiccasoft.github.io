@@ -9,6 +9,7 @@ bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz covid19 un türk olmaktan utanması
 bkz erdoğanın gürcü olmaktan utanmaması
+bkz virüsün en çok benim işime yaradığı gerçeği
 https://www.uludagsozluk.com/k/ben-gürcüyüm-eşim-arap/&w=bg
 bkz yılmaz soyadının türklerin en çok kullanıdğı soyad olması
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg 
