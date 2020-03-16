@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz açıklaması
 bkz kamalcıların virüsler gözle gçrülmez ki demesi
 bkz menzil şeyjinni paylaştığı nefertiti fotosu
 bkz ezan dinlemenin virüsü yok etmesi
