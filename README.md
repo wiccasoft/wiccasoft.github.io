@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!-- 
+bkz fahrettin kocanın tayyoşa kocalık yapması
 bkz fahrettin kocanın bıyıklarını tayybin götüne sürterek iyileştirmesi
 bkz fahrettin kocanın koca uarrağını tayyibin göte sokması
 bkz rte nin basurunu göt deliğini emerek geçirmek
