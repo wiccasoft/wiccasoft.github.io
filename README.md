@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
-bkz sözlük kadınalrı vs patlak instagram kızları
+https://www.uludagsozluk.com/k/karantina-g%C3%BCnl%C3%BCkleri/
+bkz sözlük kadınları vs patlak instagram kızları
 https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg çıtır çıtır yenir
 bkz deep turkish webte kadın var sanan ergen
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=bg bkz rall
