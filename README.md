@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz fatih terimin batı tweeti
 bkz fahretin terimin fatih tezcana efso ayarı
 bkz 16 mart 2020 fahrettin topalak geri vitesi
 bkz 16 mart 2020 fahrettin tezcanın efso ayarı
