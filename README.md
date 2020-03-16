@@ -8,6 +8,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz covid19 un türk olmaktan utanması
+bkz serra yıllamz vs mesut yılmaz vs cem yılmaz
 bkz yılmaz soyadının türklerin en çok kullanıdğı soyad olması
 https://www.uludagsozluk.com/k/burhan-alt%C4%B1ntop/&w=bg 
 https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
