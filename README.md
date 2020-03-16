@@ -2,6 +2,7 @@
 
 <!-- 
 bkz deniz gezmiş vs berkin elvan
+bkz o değil de bi atakan kayalay vaydı noldu ona
 https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/
 https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/&w=gd
