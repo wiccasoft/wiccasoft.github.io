@@ -6,20 +6,10 @@ bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz yabanacı nickli ergen karizması
 bkz covid19 türktür türk kalacaktı
-bkz uarasaları kudurtacak bi entry gir
-bkz çoamrları kudurtacak bi futbolcu bırak
-bkz çomarları kudurtacak bir entry daha gir
-bkz çomarları kandıracak bi entry gir
-bkz çomarlaı kudurtacak bi video bırak
-https://www.uludagsozluk.com/k/galatasaray/&w=bg çomarları kurtacak bi takım bırak
-https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-a%C5%9Fk-dolu-%C3%B6p%C3%BC%C5%9Fmesi/
-https://www.uludagsozluk.com/k/italyan-beyler/ bkz ay çok seksiler ayol
-https://www.uludagsozluk.com/k/zenci-erkekle-evlenmek/&w=bg
-https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-corona-y%C4%B1-kahve-i%C3%A7erek-seyretmesi/
-https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=bg
-https://www.uludagsozluk.com/k/16-mart-2020-umrecilerin-ka%C3%A7ma-giri%C5%9Fimi/
-https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
-bkz abi yarasa yemeseler iyi yiyolar ondan oluyo bu virüs 
+https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
+https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
+https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
+https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
 https://www.uludagsozluk.com/k/beyninizde-y%C3%BCzde-ka%C3%A7-i%C5%9Fe-yarar-bilgi-var/ bkz yarasa yiyolar
