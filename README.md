@@ -1,5 +1,6 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
+<!-- https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/ -->
 
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
