@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!-- 
+bkz 1881 atacücü
+bkz 81 vilayet - hatay = 80 
+bkz 18 + 81 = 99 - 80 = covid19
 bkz vadan doprağına gan değdi gaaaaaann
 https://www.uludagsozluk.com/k/vatan-sevginizi-tek-g%C3%B6rselle-g%C3%B6sterin/&w=gd
 https://www.uludagsozluk.com/k/feslinin-cesedi-t%C3%BCrk-topra%C4%9F%C4%B1n%C4%B1-pisletmesin/
