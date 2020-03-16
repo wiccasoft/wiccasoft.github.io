@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
-bkz receğ tayyiğ erdoğan vs mustafa atadan doğan
+bkz 1881 atacücü
+bkz 81 vilayet - 80 = hatay
+bkz 18+81 = 99 - 80 = covid19 
 bkz receğ tayyiğ erdoğanın virüs için khk çıkarması
 bkz berkin elvan vardı noldu ona
 https://www.uludagsozluk.com/k/jandarma-%C3%B6zel-harekat/&w=bg bkz corona virüsünü sikerten hareket
