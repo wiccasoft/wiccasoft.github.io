@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
-bkzbilal erdoğanın babacım paraları sıfırladım demesi
+bkz atacan tayalar vardı noldu ona
+https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
+bkz bilal erdoğanın babacım paraları sıfırladım demesi
 bkz 15 temmuz hain virüs kalkışması
 bkz erdoğanın fedöcü virüsü yakalamamız an meselesi demesi
 bkz tayyipin coronayı ak siyasete alet etmeyin açıklması
