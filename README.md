@@ -10,11 +10,7 @@ https://www.pinterest.com/wiccasoft/pins/ bkz menzil cemaatinni paylaştığı f
 https://www.pinterest.com/wiccasoft/pins/ bkz ensar vakfının paylaştığı son paylaşım
 https://www.pinterest.com/wiccasoft/pins/  bkz menzil cemaatinni paylaştığı korkunç paylaşım
 https://www.pinterest.com/wiccasoft/pins/ bkz menzil şeyhinin paylaştığı son paylaşım
-bkz menzil cemaatinin paylaştığı resimlere nereden bakıyoruz sorunsalı
-bkz menzil sayfası nerece sorunsalı facebook ta arattım bulamadım
-bkz menzil şeyhinin torununun paylaştığı sünnet videosu
-https://www.uludagsozluk.com/k/berberlerin-koronadan-karl%C4%B1-%C3%A7%C4%B1kaca%C4%9F%C4%B1-ger%C3%A7e%C4%9Fi/ bkz ben dokundururken kaldırmak
-bkz menzilin sayfasının paylştığı kuran en iyi ilaçtır paylaşımı
+bkz menzil sayfasının paylştığı kuran en iyi ilaçtır paylaşımı
 https://www.uludagsozluk.com/k/menzil-cemaatinin-fantastik-corona-payla%C5%9F%C4%B1m%C4%B1/&w=gd
 https://www.uludagsozluk.com/k/camiler-kapat%C4%B1lmad%C4%B1-diye-kuduran-kemalist/&w=bg
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
