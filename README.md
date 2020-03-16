@@ -5,6 +5,7 @@ bkz rallın yaşadığını iddia etmesi
 https://www.youtube.com/watch?v=0rjItOxZAgg
 bkz zall ona hep oç der yaşasaydı olacaklar
 bkz brandi love un türkiye dönmek istemesi
+https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
 https://www.uludagsozluk.com/k/demirta%C5%9F-su%C3%A7luysa-su%C3%A7unu-a%C3%A7%C4%B1klas%C4%B1nlar-trolleri/&w=gd
 bkz johnny sinsin hırtlar vadi topkek çay çok güzel yine gelecek ben demesi
 https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg
