@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz 1881 atacücü
+bkz 81 vilayet - hatay = 80 
+bkz 18 + 81 = 99 - 80 = covid19
 https://www.uludagsozluk.com/k/rte-en-merhametli-insand%C4%B1r/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
