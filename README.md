@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
-<!-- https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/ -->
+<!-- 
+https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bunun hz ayşeye sorsana delikanlı
+https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/ -->
 
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
