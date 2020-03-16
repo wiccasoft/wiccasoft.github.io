@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz 1881 atacücü
+bkz 81 vilayet - hatay = 80 
+bkz 18 + 81 = 99 - 80 = covid19
+bkz covid19 türktür türk kalacaktır
 https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
 bkz abi yarasa yemeseler iyi yiyolar ondan oluyo bu virüs 
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
