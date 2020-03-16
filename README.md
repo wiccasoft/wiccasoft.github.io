@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz tayyibin nerde olması beştepede olmaması
 bkz beştepeni tayybin ölümünü saklaması
 https://www.uludagsozluk.com/k/tayyibin-korona-vir%C3%BCsten-%C3%B6lmesi/ bkz beştepenin saklaması
 bkz damadı arayıp receğ nerde lan demek
