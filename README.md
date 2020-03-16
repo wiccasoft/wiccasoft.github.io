@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz gökten indiği sanılınan cemaatler
 https://www.uludagsozluk.com/k/sadece-tutankamun-u-bilen-%C3%BCmmet/
 https://www.pinterest.com/wiccasoft/pins/ bkz menzilin nefertiti paylaşımı
 https://www.pinterest.com/wiccasoft/pins/  bkz züpprli ahmet hocanın cpaylaştığı paylaşım
