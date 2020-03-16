@@ -1,45 +1,5 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=xFjV8cD0mXI )
 
-<!--
-https://www.youtube.com/watch?v=xFjV8cD0mXI
-bkz türk ibnelerinin italyan erkeği sevdası
-https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
-https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz hayallerde yaşıyor bazı ibneler
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://frank-lucas.uludagsozluk.com bkz ak nonoşların aldığı yabancı nickler
-https://vexillarius-of-theodopolis.uludagsozluk.com/ bkz yunan nickli vahit isimli ergen
-https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
-https://www.uludagsozluk.com/k/s%C4%B1rp-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 18 cm
-bkz 1881 atacücü
-bkz 81 vilayet - hatay = 80 
-bkz 18 + 81 = 99 - 80 = covid19
-bkz kamalcıya anlatır gibi anlatmak
-bkz havlayan kamalcı ısırmaz 
-bkz hev hev hev yav he he 
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz kamalcıların anlayacağı dille anlatmak
-bkz kamalcının seviyesine inip öleceğini nazik dille anlatmak
-bkz kamalcıların inanacağı bir yalan uydur
-bkz kamalcıların eğitilmez oldukları gerçeği
-https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/
-https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz kamalcıya anlatır gibi anlatmak
-bkz atacücünün damarlarınızdaki asil kanda mevcuttur lafı
-bkz kamalcıların virüsten damarlarındaki asil kanla kurtulacak olması
-https://www.uludagsozluk.com/k/coronay%C4%B1-bay-kemal-buldu/
-bkz yabancı nickli ergen karizması
-https://frank-lucas.uludagsozluk.com
-bkz covid19 türktür türk kalacaktı
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
-https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
-https://www.uludagsozluk.com/k/beyninizde-y%C3%BCzde-ka%C3%A7-i%C5%9Fe-yarar-bilgi-var/ bkz yarasa yiyolar
-https://www.uludagsozluk.com/k/17-mart-2020-%C3%BClkedeki-her-%C5%9Feyin-kapat%C4%B1lmas%C4%B1/&w=gd
-https://www.uludagsozluk.com/k/adam-gibi-adam-deyince-akla-gelen-adam/
-https://www.uludagsozluk.com/k/karantinadan-ka%C3%A7maya-%C3%A7al%C4%B1%C5%9Fan-hac%C4%B1lar/
-https://www.uludagsozluk.com/k/laik%C3%A7ilerin-inanaca%C4%9F%C4%B1-bir-yalan-uydur/
-https://www.uludagsozluk.com/e/43004446/ -->
 
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
