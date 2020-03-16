@@ -4,6 +4,7 @@
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
+https://www.uludagsozluk.com/k/gece-kul%C3%BCpleri-bar-ve-diskotekler-kapat%C4%B1lacak/&w=gd zuahhahahah
 -->
 
 [![Image](waste/Screenshot_2020-03-05_12-24-57.png)]( https://www.youtube.com/watch?v=LeiFF0gvqcc )
