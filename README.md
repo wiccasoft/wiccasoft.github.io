@@ -3,6 +3,8 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz türk önde türk ileri
+bkz atacücünün ileri kalma sebepleri
 bkz atacücünün evine virsü bulaşmaz
 https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-y%C3%B6n-veren-yazarlar/&w=bg bkz gerizekalılar
