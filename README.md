@@ -9,7 +9,7 @@ bkz Il buono, il brutto, il cattivo
 bkz yarasa yiyiler ladyboy sikiyler
 https://www.uludagsozluk.com/k/olas%C4%B1-corona-filmi-seneryosu/ bkz yarasa adam wuhanda
 https://www.uludagsozluk.com/k/kar%C4%B1s%C4%B1n%C4%B1-doktora-elleten-erkek/&w=bg bkz ben
-bkz yılmaz erdoğanın serra yılmaz duayendir açıklması
+bkz yılmaz erdoğanın serra yılmaz kürt sinemasının duayenidir açıklaması
 bkz serra yılmazın cem yılmazla barışması
 bkz serra yılmaz cem yılmazla film procesine sıcak bakması
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/ 
