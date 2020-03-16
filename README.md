@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
-bkz receğ tayyiğ erdoğanın beni even menziş şeyhini de sever demesi
+bkz receğ tayyiğ erdoğanın beni even menzil şeyhini de sever demesi
 bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz açıklaması
 bkz menzil şeyjinni paylaştığı nefertiti fotosu
 bkz ezan dinlemenin virüsü yok etmesi
