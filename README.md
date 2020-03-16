@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz virüsün türk halkına yaptığı hakaret
 bkz receğ tayyiğ erdoğanın virüs için  kyk çıkarması
 bkz stiklal marşında ayakta işeyen hdpliler
 bkz serra yılmaz pkk ya destek vermesi
