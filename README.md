@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/lebron-james-in-kurtlar-vadisi-hayran%C4%B1-olmas%C4%B1/
 https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/sald%C4%B1ray-abi/ bkz özledik abiiiii saldır abiiiiii
 https://www.uludagsozluk.com/k/yak%C4%B1nda-s%C3%B6zl%C3%BCk-dedelerinin-helvas%C4%B1n%C4%B1-yiyece%C4%9Fiz/
