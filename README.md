@@ -3,7 +3,9 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz allahın evinde lat putunu yalamak
 bkz solcuların pipisinin kalkmaması
+https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/
 https://www.uludagsozluk.com/k/solcular-iktidardayken-d%C3%BCnyan%C4%B1n-kaosa-s%C3%BCr%C3%BCklenmesi/
 https://www.uludagsozluk.com/ bkz deep turkish ultra gay forum
 https://frank-lucas.uludagsozluk.com/ bkz ağır gay
