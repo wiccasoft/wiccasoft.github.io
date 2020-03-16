@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahahhahaha
 bkz 1954 rte 19 + 54 = 73 bkz düvele rabia işareti yapan mehdi
 bkz 1881 atacücü
