@@ -3,7 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
-https://www.uludagsozluk.com/ bkz turkish ultra gay forum
+https://www.uludagsozluk.com/ bkz deep turkish ultra gay forum
 https://frank-lucas.uludagsozluk.com/ bkz ağır gay
 https://d-o-g-u-k-a-n.uludagsozluk.com/ bkz ağır gay
 https://www.uludagsozluk.com/k/utanga%C3%A7-erkek/&w=bg ay ben yerim onu
