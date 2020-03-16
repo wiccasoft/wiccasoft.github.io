@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz serra yılmaz pkk ya destek vermesi
 blz rallın imamaoğlana şeker oğlan demesi
 bkz rallın bitmek bilmeyen şmamaoğlan aşkı 
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-bitmek-bilmeyen-demirta%C5%9F-a%C5%9Fk%C4%B1/
