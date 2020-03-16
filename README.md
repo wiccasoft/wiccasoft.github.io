@@ -9,6 +9,7 @@ bkz Il buono, il brutto, il cattivo
 bkz abi yarasa yiyolar hep ondan oluyo virüs
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
+https://www.uludagsozluk.com/k/beyninizde-y%C3%BCzde-ka%C3%A7-i%C5%9Fe-yarar-bilgi-var/ bkz yarasa yiyolar
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz soyadının hakkını veren adamlar
 bkz ekrem imamaoğlanın babasının oğlan kaymasın mı demesi
 bkz atacücü imzalı maske satıp köşeyi dönmek
