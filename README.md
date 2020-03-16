@@ -9,6 +9,7 @@ bkz stiklal marşında ayakta işeyen hdpliler
 bkz serra yılmaz pkk ya destek vermesi
 blz rallın imamaoğlana şeker oğlan demesi
 bkz rallın bitmek bilmeyen şmamaoğlan aşkı 
+https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
 https://www.uludagsozluk.com/k/imamo%C4%9Flu-nun-bitmek-bilmeyen-demirta%C5%9F-a%C5%9Fk%C4%B1/
 https://www.uludagsozluk.com/k/hz-isa/&w=bg taşşaklarına kurban olunası peygamberler -->
 
