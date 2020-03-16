@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz rte nin beni seven sigara içmesin açıklaması
 bkz entry girerken akşamın olması
 bkz rte nin üstüne atlayıp ısırmaya çalışan kamalcı 
 https://www.uludagsozluk.com/k/burak-akkul/&w=bg geçmiş olsun burak olur öyle
