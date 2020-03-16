@@ -3,6 +3,7 @@
 <!-- 
 bkz virüsün hdpli çıkması
 bkz virüsün türk halkına yaptığı hakaret
+bkz imamaoğlanın hdpli virüs aşkı
 bkz receğ tayyiğ erdoğanın virüs için  kyk çıkarması
 bkz stiklal marşında ayakta işeyen hdpliler
 bkz serra yılmaz pkk ya destek vermesi
