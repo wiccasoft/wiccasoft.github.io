@@ -5,6 +5,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
+bkz nakşibendi torunuyum diyip özalları dolandırmak
 bkz hoşlaşılan mehdinin evli çıkması
 bkz imamoğlanın kutsala hakaret etmesi 
 bkz hazreti dediğin adamın sıçtığı gerçeği
