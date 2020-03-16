@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=xFjV8cD0mXI )
 
 <!-- 
+bir kamalcının kulağının arkasına 18 cm i sürtmek
 https://www.uludagsozluk.com/k/s%C4%B1rp-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 18 cm
 https://www.uludagsozluk.com/k/bir-%C3%A7omara-usulca-sokulup-reisin-nerde-demek/ 
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
