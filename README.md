@@ -5,6 +5,7 @@ bkz rallın yaşadığını iddia etmesi
 https://www.youtube.com/watch?v=0rjItOxZAgg
 bkz zall ona hep oç der yaşasaydı olacaklar
 bkz brandi love un türkiye dönmek istemesi
+https://www.uludagsozluk.com/k/demirta%C5%9F-su%C3%A7luysa-su%C3%A7unu-a%C3%A7%C4%B1klas%C4%B1nlar-trolleri/&w=gd
 bkz johnny sinsin hırtlar vadi topkek çay çok güzel yine gelecek ben demesi
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/ 
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=bg bkz rallın annesi
