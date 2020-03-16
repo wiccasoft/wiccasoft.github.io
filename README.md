@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+https://www.pinterest.com/wiccasoft/pins/ bkz menzil şeyhinin paylaştığı son paylaşım
 bkz menzil cemaatinin paylaştığı resimlere nereden bakıyoruz sorunsalı
 bkz menzil sayfası nerece sorunsalı facebook ta arattım bulamadım
 bkz menzil şeyhinin torununun paylaştığı sünnet videosu
