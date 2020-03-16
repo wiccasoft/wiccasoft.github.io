@@ -4,6 +4,7 @@
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
+bkz atacücünün damarlarınızdaki asil kanda mevcuttur lafı
 bkz yabancı nickli ergen karizması
 https://frank-lucas.uludagsozluk.com
 bkz covid19 türktür türk kalacaktı
