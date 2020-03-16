@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz fatih terimin italyadan futbolcu getirmesi
 bkz ahmet kayanın italyaya gidesim yok demesi
 bkz serra yılmaz cem yılmazı evlatlıktan reddetmesi
 bkz serra yılmazın gürcistana dönmek istemesi
