@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz fatih terim 2030 a kadar geysedeyim demesi
 bkz fenerlilerin iktidarsız olması
 bkz serra yılmazın cem yılamzın tweetini retweetlemesi
 bkz fatih terimin nerde kalmıştık tweeti
