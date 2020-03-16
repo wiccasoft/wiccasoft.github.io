@@ -4,7 +4,6 @@
 https://www.uludagsozluk.com/k/sald%C4%B1ray-abi/ bkz özledik abiiiii saldır abiiiiii
 https://www.uludagsozluk.com/k/yak%C4%B1nda-s%C3%B6zl%C3%BCk-dedelerinin-helvas%C4%B1n%C4%B1-yiyece%C4%9Fiz/
 https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
-bkz deniz gezmiş vs berkin elvan
 bkz o değil de bi atakan kayalay vaydı noldu ona
 https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/erdo%C4%9Fan%C4%B1n-koronadan-%C3%B6lmesi-halinde-olabilecekler/
