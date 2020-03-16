@@ -2,7 +2,6 @@
 
 <!--
 bkz damadın kyk lı kızları kayırması
-bkz sevdiği kızın kyk borcunu ödeyen erkek
 https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
 bkz fatih terimin lukekuya attığı bakış
 https://www.uludagsozluk.com/k/ben-g%C3%BCrc%C3%BCy%C3%BCm-e%C5%9Fim-arap/&w=bg
