@@ -6,6 +6,7 @@
 bkz türk önde türk ileri
 bkz atacücünün ileri kalma sebepleri
 bkz atacücücülerin geri kalma sebepleri
+bkz sürekli entry giren ergen karizması
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCmanlar%C4%B1n-geri-kalma-sebepleri/&w=bg bkz atacücü
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80
