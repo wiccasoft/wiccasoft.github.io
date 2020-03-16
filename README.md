@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/ )
 
 <!--
+bkz fahrettin tezcanın fatih kocaya işini yap diye uyarması
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-bat%C4%B1-tweeti/
 bkz fahrettin koca nerden tweet atıyor sorunsalı
 https://www.uludagsozluk.com/k/yaran-twitter-iletileri/&w=bg mobile.twitter linki at kankağ
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz koca nerde sorunsalı
