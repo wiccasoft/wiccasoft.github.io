@@ -5,6 +5,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
+bkz Il buono, il brutto, il cattivo
 bkz atacücü imzalı maske satıp köşeyi dönmek
 bkz hoşlaşılan mehdinin evli çıkması
 bkz imamoğlanın kutsala hakaret etmesi 
