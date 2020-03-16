@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+https://www.uludagsozluk.com/k/uzun-boylu-zay%C4%B1f-erkek/&w=bg çıtır çıtır yenir
 bkz bilal oğlanın dönme sinyalleri yakıp geri vitesi fullemesi
 bkz killa hakanın türkiyeye dönmek istemesi
 bkz ahmet hakanın ekranı 4 e bölmesi
