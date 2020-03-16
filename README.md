@@ -2,6 +2,7 @@
 
 <!-- 
 bkz akpe koronoyı kukla gibi oynatması
+https://www.uludagsozluk.com/k/akp-korona-s%C3%BCrecini-iyi-y%C3%B6netiyor-trolleri/&w=bg
 bkz receğ tayyiğ erdoğan yerli ve milli koronayı tanıtması
 bkz receğ tayyiğ erdoğanın yerli uçağın geri vitesini takması
 bkz receğ tayyiğ erdoğanın yerli uçağımız göklerde açıklaması
