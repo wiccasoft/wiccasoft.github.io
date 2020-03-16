@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!-- 
+bkz bi avuç magandanın birbirini sikmesini çomarla dizi diye izletmek
 bkz vuruşmalı erkek dizisi izleyen eşcinsel
 bkz iki kişinin bildiği sır sır değildir diyip kankasını vuran gay
 bkz hırtlr vadisi seyfo dayı memati aşkı
