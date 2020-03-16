@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+bkz atacan kayalar vasrdı noldu ona 
+bkz whatsuptan kalkıyo mu diye soran kamalcı
+https://www.uludagsozluk.com/k/73-ya%C5%9F%C4%B1ndaki-adam%C4%B1n-13-ya%C5%9F%C4%B1ndaki-%C3%A7ocu%C4%9Fu-istismar%C4%B1/&w=bg
 bkz kalkıyo mu diye soran kamalcıya indirirsen kalkar demek
 https://www.uludagsozluk.com/k/umreden-gelen-kom%C5%9Fusunu-eve-kitleyen-adam/
 https://www.uludagsozluk.com/k/lgbt/&w=bg bkz facebook tan gbt soran bekçi
