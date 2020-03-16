@@ -4,6 +4,8 @@
 bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
+bkz covid 19 un ezanı açınca kaybolması
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/ya-istiklal-ya-%C3%B6l%C3%BCm/&w=bg
 bkz mobile.twitter linke tıklasam mı diye düşünmek
 https://www.uludagsozluk.com/k/16-mart-2020-umrecilerin-ka%C3%A7ma-giri%C5%9Fimi/
