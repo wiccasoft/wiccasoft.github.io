@@ -6,6 +6,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz kamalcıların eğitilmez oldukları gerçeği
+https://www.uludagsozluk.com/k/fatih-portakal/&w=bg bkz kamalcıya anlatır gibi anlatmak
 bkz atacücünün damarlarınızdaki asil kanda mevcuttur lafı
 bkz kamalcıların virüsten damarlarındaki asil kanla kurtulacak olması
 https://www.uludagsozluk.com/k/coronay%C4%B1-bay-kemal-buldu/
