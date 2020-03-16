@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!-- 
-bkz televisyon izlemeyen telefon kullanmayan erkek
+bkz merkelin keranlerin kapattık türkler gelsin helgaları siksin demesi
+bkz televi<yon izlemeyen telefon kullanmayan erkek
 https://www.uludagsozluk.com/k/%C3%A7ukur-izlemeyen-erkek/&w=bg bkz gay
 bkz bi avuç magandanın birbirini vurmasını çomarla dizi diye izletmek
 bkz vuruşmalı maganda dizisi izleyen eşcinsel
