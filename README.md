@@ -2,7 +2,6 @@
 
 <!--
 bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz açıklaması
-bkz kamalcıların virüsler gözle gçrülmez ki demesi
 bkz menzil şeyjinni paylaştığı nefertiti fotosu
 bkz ezan dinlemenin virüsü yok etmesi
 bjz receğ tayyiğ erdoğanın beni seven ezan dinler demesi
