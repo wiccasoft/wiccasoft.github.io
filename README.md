@@ -3,6 +3,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!--
+bkz gaylerin ilgi alanları
 https://frank-lucas.uludagsozluk.com/ bkz gay
 https://d-o-g-u-k-a-n.uludagsozluk.com/ bkz gay
 https://www.uludagsozluk.com/k/utanga%C3%A7-erkek/&w=bg ay ben yerim onu
