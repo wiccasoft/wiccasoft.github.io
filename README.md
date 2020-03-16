@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!-- 
+bkz fahrettin tezcanın batıya verdiği efso ayar
+https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-bat%C4%B1-tweeti/
 bkz receğ tayyiğ erdoğanın beni seven dut pekmezi içer açıklaması
 https://www.uludagsozluk.com/k/rte-ile-dut-pekmezi-i%C3%A7mek/
 https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bunun hz ayşeye sorsana delikanlı
