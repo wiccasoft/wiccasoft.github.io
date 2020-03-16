@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=xFjV8cD0mXI )
 
 <!-- 
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz lezbiyensi gay
 https://www.uludagsozluk.com/k/karantina-alt%C4%B1nda-olanlara-seslenen-day%C4%B1/ tıklağ izleğ
 https://www.uludagsozluk.com/k/peygamber-topra%C4%9F%C4%B1ndan-gelenlerde-vir%C3%BCs-%C3%A7%C4%B1kmaz/
