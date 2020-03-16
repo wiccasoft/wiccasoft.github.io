@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
-bkz erdonun kyk çıkarması
+bkz erdonun virüs için khk çıkarması
 bkz rallın yaşadığını iddia etmesi
 https://www.youtube.com/watch?v=0rjItOxZAgg
 bkz zall ona hep oç der yaşasaydı olacaklar
