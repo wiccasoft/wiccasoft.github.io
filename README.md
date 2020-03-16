@@ -6,6 +6,7 @@ bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz hoşlaşılan mehdinin evli çıkması
+bkz hazreti dediğin adamın sıçtığı gerçeği
 https://www.uludagsozluk.com/k/hz-hamza-vs-hz-ali/ bkz iki yiğido ikisi birbirinden yiğido
 https://www.uludagsozluk.com/k/16-mart-2020-camilerin-kapat%C4%B1lmas%C4%B1/  tam abdest alıyodum
 https://www.uludagsozluk.com/k/%C5%9Faka-maka-tayyipten-%C3%B6nce-%C3%B6lmek/
