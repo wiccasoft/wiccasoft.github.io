@@ -5,9 +5,6 @@
 <!--
 bkz türk önde türk ileri
 bkz atacücünün ileri kalma sebepleri
-bkz atacücünün evine virsü bulaşmaz
-https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/
-https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9Fe-y%C3%B6n-veren-yazarlar/&w=bg bkz gerizekalılar
 bkz atacücücülerin geri kalma sebepleri
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCmanlar%C4%B1n-geri-kalma-sebepleri/&w=bg bkz atacücü
 bkz 1881 atacücü
