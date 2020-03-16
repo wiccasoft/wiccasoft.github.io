@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz zall ona hep oç der yaşasaydı olacaklar
 https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BC%C4%9F%C3%BCn-en-itici-kad%C4%B1n-yazar%C4%B1/&w=bg bkz rallın annesi
 https://www.uludagsozluk.com/k/lebron-james-in-kurtlar-vadisi-hayran%C4%B1-olmas%C4%B1/
 https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
