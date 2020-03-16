@@ -7,6 +7,7 @@ bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz Il buono, il brutto, il cattivo
 bkz yarasa yiyiler ladyboy sikiyler
+bkz yılmaz erdoğanın serra yılmaz duayendir açıklması
 bkz serra yılmazın cem yılmazla barışması
 bkz serra yılmaz cem yılmazla film procesine sıcak bakması
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/ 
