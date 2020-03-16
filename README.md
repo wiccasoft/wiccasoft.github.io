@@ -8,6 +8,8 @@ bkz yabanacı nickli ergen karizması
 bkz covid19 türktür türk kalacaktı
 bkz çomarları kudurtacak bir entry daha gir
 bkz çomarları kandıracak bi entry gir
+bkz çomarlaı kudurtacak bi video bırak
+https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-a%C5%9Fk-dolu-%C3%B6p%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/italyan-beyler/ bkz ay çok seksiler ayol
 https://www.uludagsozluk.com/k/zenci-erkekle-evlenmek/&w=bg
 https://www.uludagsozluk.com/k/k%C4%B1l%C4%B1%C5%9Fdar-%C4%B1n-corona-y%C4%B1-kahve-i%C3%A7erek-seyretmesi/
