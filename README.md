@@ -1,26 +1,5 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
-<!-- 
-bkz 1881 atacücü
-bkz 81 vilayet - hatay = 80 
-bkz 18 + 81 = 99 - 80 = covid19
-bkz covid19 türktür türk kalacaktır
-https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
-https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
-https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz lezbiyensi gay
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
-https://www.uludagsozluk.com/k/karantina-alt%C4%B1nda-olanlara-seslenen-day%C4%B1/ tıklağ izleğ
-https://www.uludagsozluk.com/k/peygamber-topra%C4%9F%C4%B1ndan-gelenlerde-vir%C3%BCs-%C3%A7%C4%B1kmaz/
-bkz atacücünün gökten indiği sanılan virüsler lafı
-bkz çomarları ikna edecek bir entry gir
-bkz tengir budun doğanın kulağına usulca 18 cm demek
-https://www.uludagsozluk.com/k/tengir-budun-a-usulca-yakla%C5%9F%C4%B1p-auuuuu-yapmak/
-https://www.uludagsozluk.com/k/s%C4%B1rp-erkeklerinin-penis-boyu-ortalamas%C4%B1/&w=bg bkz 18 cm
-https://www.uludagsozluk.com/k/bir-%C3%A7omara-usulca-sokulup-reisin-nerde-demek/ 
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
--->
 
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
