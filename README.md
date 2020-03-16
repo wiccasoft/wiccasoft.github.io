@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz erdonun virüslü halk beştepeye girmesin diye önlem alması
 bkz receğ tayyiğ erdoğannın beştepeyi ilaçlatması
 bkz erdonun virüs için khk çıkarması
 bkz rallın yaşadığını iddia etmesi
