@@ -7,6 +7,7 @@ bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
 bkz Il buono, il brutto, il cattivo
 bkz yarasa yiyiler ladyboy sikiyler
+bkz serra yılmazın cem yılmazla barışması
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/ 
 bkz abi yarasa yiyolar hep ondan oluyo virüs
 bkz abi yarasa yemeseler iyi yiyolar ondan oluyo bu virüs 
