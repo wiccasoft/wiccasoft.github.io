@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
-bkz receğ tayyiğ erdoğanın mustafa topalaka verdiği efso ayar
+bkz 18 mart 2020 receğ tayyiğ erdoğanın mustafa topalaka verdiği efso ayar
 bkz 18 mart 2020 receğ tayyiğ erdoğan geri vitesi
 bkz 17 mart 2020 fahrettin toplakın burası çokımelli demesi
 bkz 17 mart 2020 fahrettin toplakın yeni açıklmaları geri vitesi
