@@ -5,7 +5,7 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid 19 un türk olmaktan utanması
-bkz covid19 un türkiyeye dönmesi
+bkz hdpli covid19 un türkiyeye dönmesi
 https://www.uludagsozluk.com/k/fenerbah%C3%A7e/&w=bg bkz ali koç başkan fenevbavce şampi
 https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
 https://www.uludagsozluk.com/k/serra-y%C4%B1lmaz-%C4%B1n-t%C3%BCrkiye-ye-d%C3%B6nmek-istemesi/
