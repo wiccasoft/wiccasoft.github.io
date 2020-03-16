@@ -2,7 +2,7 @@
 
 <!-- 
 bkz ulucuların kaos öncesi erkek depolaması
-https://www.uludagsozluk.com/k/sald%C4%B1ray-abi/ bkz özleidk abiiiii saldır abiiiiii
+https://www.uludagsozluk.com/k/sald%C4%B1ray-abi/ bkz özledik abiiiii saldır abiiiiii
 https://www.uludagsozluk.com/k/yak%C4%B1nda-s%C3%B6zl%C3%BCk-dedelerinin-helvas%C4%B1n%C4%B1-yiyece%C4%9Fiz/
 https://www.uludagsozluk.com/k/demirta%C5%9F-%C4%B1-sal%C4%B1n-beni-i%C3%A7eri-al%C4%B1n/
 bkz deniz gezmiş vs berkin elvan
