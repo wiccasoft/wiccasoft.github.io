@@ -5,12 +5,12 @@ bkz 1881 atacücü
 bkz 81 vilayet - hatay = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz covid19 türktür türk kalacaktır
-https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
 https://www.youtube.com/watch?v=2KErN9bMrwM zuahahahhaha
 https://galeri.uludagsozluk.com/r/daisy-jophiel-1952897/
 https://www.youtube.com/watch?v=0rjItOxZAgg zuahahhaahha
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/taksim-delisi-cenk/&w=bg bkz lezbiyensi gay
+https://www.youtube.com/watch?v=BV1RcLhMFYs zuahhahahaha
 https://www.uludagsozluk.com/k/karantina-alt%C4%B1nda-olanlara-seslenen-day%C4%B1/ tıklağ izleğ
 https://www.uludagsozluk.com/k/peygamber-topra%C4%9F%C4%B1ndan-gelenlerde-vir%C3%BCs-%C3%A7%C4%B1kmaz/
 bkz atacücünün gökten indiği sanılan virüsler lafı
