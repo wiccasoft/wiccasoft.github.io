@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop )
 
 <!--
+https://www.uludagsozluk.com/k/lgbt/&w=bg bkz facebook tan gbt soran bekçi
 bkz damadın kyk lı kızları kayırması
 https://www.uludagsozluk.com/k/ahmet-hakan-%C4%B1n-italya-ya-gidesim-var-demesi/
 bkz fatih terimin lukekuya attığı bakış
