@@ -9,6 +9,7 @@ bkz covid19 türktür türk kalacaktı
 bkz çomarları kudurtacak bir entry daha gir
 bkz çomarları kandıracak bi entry gir
 bkz çomarlaı kudurtacak bi video bırak
+https://www.uludagsozluk.com/k/galatasaray/&w=bg çomarları kurtacak bi takım bırak
 https://www.uludagsozluk.com/k/iki-erke%C4%9Fin-a%C5%9Fk-dolu-%C3%B6p%C3%BC%C5%9Fmesi/
 https://www.uludagsozluk.com/k/italyan-beyler/ bkz ay çok seksiler ayol
 https://www.uludagsozluk.com/k/zenci-erkekle-evlenmek/&w=bg
