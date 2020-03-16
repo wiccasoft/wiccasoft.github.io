@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
 <!-- 
+bkz erdoğanın sigara paketlerin üzerine corona resmi yapıştıralım önerisi
 bkz erdoğanın corona için beştepeyi ilaçlatması
 bkz atacan tayalar vardı noldu ona
 https://www.uludagsozluk.com/k/berkin-elvan-ya%C5%9Fasayd%C4%B1/&w=bg
