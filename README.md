@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
-bkz burak akkulun virüsü akgençlik kolalrından kapması
+bkz ak gençlik kolları kapatılsın kampanyası
+bkz burak akkulun virüsü akgençlik kollarından kapması
 https://www.uludagsozluk.com/k/burak-akkul/&w=bg merhumu nasıl bilirsiniz ey camaat
 https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/
 https://www.uludagsozluk.com/k/tanr%C4%B1ya-kafa-tutan-medeniyetin-mikroba-yenilmesi/ -->
