@@ -2,6 +2,9 @@
  )
 
 <!--
+
+https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035?a=popular bkz ölde kocacım ölelim eywallah
+https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz şaka maka sarımsaklı yarasa etinin kornayı kesmesi
 bkz at gibiyim at at tay gibiyim tay tay
