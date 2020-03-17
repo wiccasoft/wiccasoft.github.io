@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz şaka maka receğ tayyiğ erdoğanın korona süreciini iyi yönettiği gerçeği
 bkz mustafa torlakın fahrettin topalaka cuckold demesi
 bkz mustafa torlakın khk tezlekesini mevlis başkanına fırlatması
 bkz mustafa torlakın receğ tayyiğ erdoğan tapleri fake açıklaması
