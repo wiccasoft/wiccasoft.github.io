@@ -1,6 +1,11 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
-
+<!-- 
+https://www.uludagsozluk.com/k/bunlar-daha-iyi-günler/
+https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/
+bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid19
+https://www.uludagsozluk.com/k/tanr%C4%B1ya-kafa-tutan-medeniyetin-mikroba-yenilmesi/
+-->
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
  )
