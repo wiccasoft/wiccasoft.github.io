@@ -3,8 +3,7 @@
 <!--
 bkz şaka maka kekolara karatay diyeti yazıp parayı kırmak
 bkz şaka maka karatayım deyip kekoları çiftlikbank gibi dolandırmak
-bkz şaka  maka at burcu erkeği olmanın avantajlarını yaşamak
-bkz şaka maka atın ölümü attan olsun diyip iki tane sucuk yemek
+bkz şaka maka at burcu erkeği olmanın avantajlarını yaşamak
 bkz şaka maka corona korkusundan eve kitlenen sığırlardan parayı vurmak
 bkz şaka maka corona sayesinde iyi para kazanacağım gerçeği
 bkz şaka maka coronaya iyi gelir diye 15 tane lahmacun yemek
