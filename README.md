@@ -2,6 +2,7 @@
  )
 
 <!--
+bkz kekeoların virüs gözle görülmez demesi
 https://www.uludagsozluk.com/k/son-dakika-c%C3%BCneyt-ark%C4%B1n-%C4%B1-kaybettik/&w=bg ay dem çok yakışıklı ayol
 https://www.youtube.com/watch?v=Gs_aq13sU3E ver çoşkuyu noldiiiii renciniz soldii
 https://www.uludagsozluk.com/k/fahrettin-koca/ bkz kızlar nasılım yakışıklı adamım
