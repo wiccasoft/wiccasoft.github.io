@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+bkz türk erkekleri turşu yapıp italyan erkekleriyle değiştiriyoruz
 bkz italyan erkekleri vs türk erkekler
 https://madcatlady.uludagsozluk.com/ vs https://lara-croftt.uludagsozluk.com/
 https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol se ve mem ısrar etmeyin 
