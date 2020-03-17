@@ -2,6 +2,7 @@
  )
 
 <!--
+https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n/&w=bg bkz arım balım peteğim
 bkz zer0 fucks given that day
 bkz canım övdüm de geldim ısrar etme diyorum
 bkz fahrettin kocaman ne kadar süper lan
