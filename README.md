@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+bkz öğrenci yurdunda polisle çatışan anarşist hacının ümmetçi çıkması
 bkz izzet yıldıhanın kaçırdığı kızın korna çıkması
 bkz ak gençlik kolları kapatılsın kampanyası
 bkz burak akkulun virüsü akgençlik kollarından kapması
