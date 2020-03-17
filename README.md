@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+bkz lara croftun kendinin türk kızı sanması olayı
 bkz lara croftu kudurtmak zkiçin italyan erkekleri  dolu ada satın almak
 bkz italyan erkekleriyle dolu bir ada satın almak
 https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
