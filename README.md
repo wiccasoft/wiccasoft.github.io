@@ -3,6 +3,7 @@
 
 
 <!-- 
+https://www.uludagsozluk.com/k/%C3%B6zledi%C4%9Finiz-ki%C5%9Fi-%C5%9Fu-an-ba%C5%9Fkas%C4%B1yla-uyuyor/&w=bg
 https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol is te mi yor um
 https://www.uludagsozluk.com/k/coronan%C4%B1n-s%C4%B1f%C4%B1r-kan-grubunu-az-etkilemesi/
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-bir-avu%C3%A7-bokla-italyan-erke%C4%9Fi-isteyen-k%C4%B1z/
