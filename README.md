@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
-bkz şaka maka canan karatayım deyip kekoları çiftlikbank gibi dolandırmak
+bkz şaka maka karatayım deyip kekoları çiftlikbank gibi dolandırmak
 bkz şaka  maka at burcu erkeği olmanın avantajlarını yaşamak
 bkz şaka maka atın ölümü attan olsun diyip iki tane sucuk yemek
 bkz şaka maka corona korkusundan eve kitlenen sığırlardan parayı vurmak
