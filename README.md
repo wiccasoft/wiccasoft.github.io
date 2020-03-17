@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz şaka maka coronaya iyi gelir diye 15 tane lahmacun yemek
 bkz şaka maka fenerlilerin iyi şapa oturması
 bkz şaka maka fenerbahçenin yeni formalarla milka ineğine benzemesi
 bkz şaka maka coronanın iyi kafa yapması
