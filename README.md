@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
-bkz şaka maka karatay lahmacun komasına girmek
+bkz şaka maka lahmacunun kornayı kesmesi
 bkz şaka maka karatay ın lahmacun yeyin gari demesi
 bkz şaka maka canan karatayın kaplumbağaya benzemesi
 bkz şaka maka kekolara karatay diyeti yazıp parayı kırmak
