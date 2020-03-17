@@ -2,18 +2,15 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+bkz türk erkeklerini italyan erkeklerini kıskandığı gerçeği
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz italyan erkekleri
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=bg bkz türk erkeği
 https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/ bkz erkek
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz stoklanası erkekler
 https://www.uludagsozluk.com/k/almanya-da-stok-i%C5%9Fini-biraz-abartan-t%C3%BCrk/ bkz türk erkeği
-bkz türk erkeklerini italyan erkeklerini kıskandığı gerçeği
-bkz türk erkeklerini şapşikliyoruz kapmanyası
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=gd
-bkz türk erkekleri turşu yapıp italyan erkekleriyle değiştiriyoruz
-bkz italyan erkekleri vs türk erkekler
 https://madcatlady.uludagsozluk.com/ vs https://lara-croftt.uludagsozluk.com/
-https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol se ve mem ısrar etmeyin 
+https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol se ve mem 
 bkz italyan erkekleriyle dolu bir ada satın almak
 https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=bg bkz fahrettin
