@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz şaka maka oenerbahçenin yeni formalarının milka ineğine benzemesi
 bkz şaka maka coronanın iyi kafa yapması
 bkz şaka maka receğ tayyiğ erdoğanın korona sürecini iyi yönettiği gerçeği
 bkz mustafa torlakın fahrettin topalaka cuckold demesi
