@@ -2,6 +2,7 @@
  )
 
 <!--
+bkz türklerin erkeksiz yaşayamayız öldürmeyin erkekleri diye ağlaması
 bkz türklere tek kulanımlık adam gibi adam robot yapıp parayı vurmak
 https://www.uludagsozluk.com/k/ahmet-hamdi-%C3%A7aml%C4%B1-n%C4%B1n-evde-kal%C4%B1n-siki%C5%9Fin-demesi/
 bkz türkiyenin erkek açığını kapatacak virüs tasarlamak
