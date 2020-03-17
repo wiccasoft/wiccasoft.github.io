@@ -2,7 +2,7 @@
  )
 
 <!--
-bkz madem virüs görükmüyo nike inkar ediyosunuz
+bkz madem virüs görükmüyo nike var ediyosunuz
 bkz 1881 atacücü 81 vilayet - batman = 80 18 + 81 = 99 - 80 = covid19
 https://www.youtube.com/watch?v=Gs_aq13sU3E ver çoşkuyu noldiiiii renciniz soldii
 https://www.uludagsozluk.com/k/fahrettin-koca/ bkz kızlar nasılım 
