@@ -2,6 +2,7 @@
  )
 
 <!--
+bkz atkut kocaman vs fahrettin kocaman
 bkz fahrettin kocanın koronayı ayar manyağı yapması
 bkz sonra döndüm ve dedim ki iyi ki 0 negatifim
 https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/
