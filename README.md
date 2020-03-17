@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz italyan erkekleri
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=bg bkz türk erkeği
 https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/ bkz erkek
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz stoklanası erkekler
