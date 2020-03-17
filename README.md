@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+bkz türk erkeklerini şapşikliyoruz kapmanyası
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=gd
 bkz türk erkekleri turşu yapıp italyan erkekleriyle değiştiriyoruz
 bkz italyan erkekleri vs türk erkekler
