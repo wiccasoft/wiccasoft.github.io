@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay is te mi yo rum ayol
 bkz türk erkeklerini satıp italyan erkekleri almak
 https://www.uludagsozluk.com/k/%C3%B6zledi%C4%9Finiz-ki%C5%9Fi-%C5%9Fu-an-ba%C5%9Fkas%C4%B1yla-uyuyor/&w=bg
 https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol is te mi yor um
