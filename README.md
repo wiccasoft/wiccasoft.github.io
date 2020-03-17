@@ -2,7 +2,7 @@
  )
 
 <!--
-
+https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035?a=popular bkz ölde kocacım ölelim eywallah
 https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
