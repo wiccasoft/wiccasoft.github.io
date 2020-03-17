@@ -7,7 +7,6 @@ bkz turp gibiyim trump şurup gibiyim şurump
 bkz şaka maka tokatlanacak daha çok keko olması
 bkz şaka maka menzil şeyhiyim diyip kekoları badelemek
 bkz şaka maka kekolara karatay diyeti yazıp parayı kırmak
-bkz şaka maka karatayım deyip kekoları çiftlikbank gibi dolandırmak
 bkz şaka maka corona korkusundan eve kitlenen sığırlardan parayı vurmak
 bkz şaka maka fenerbahçenin yeni formalarla milka ineğine benzemesi
 bkz şaka maka coronanın iyi kafa yapması
