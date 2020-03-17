@@ -12,7 +12,7 @@ bkz şaka maka fenerbahçenin yeni formalarla milka ineğine benzemesi
 bkz şaka maka coronanın iyi kafa yapması
 bkz şaka maka receğ tayyiğ erdoğanın korona sürecini iyi yönettiği gerçeği
 bkz mustafa torlakın fahrettin topalaka cuckold demesi
-bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz açıklaması
+bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz demesi
 bkz menzil şeyjinni paylaştığı nefertiti fotosu
 bkz ezan dinlemenin virüsü yok etmesi
 bjz receğ tayyiğ erdoğanın beni seven ezan dinler demesi
