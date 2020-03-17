@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://madcatlady.uludagsozluk.com/ vs https://lara-croftt.uludagsozluk.com/
 https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol se ve mem ısrar etmeyin 
 bkz italyan erkekleriyle dolu bir ada satın almak
 https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
