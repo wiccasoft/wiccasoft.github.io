@@ -1,52 +1,6 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
  )
 
-<!--
-bkz madem virüs görükmüyo nike var ediyosunuz
-bkz 1881 atacücü 81 vilayet - batman = 80 18 + 81 = 99 - 80 = covid19
-https://www.youtube.com/watch?v=Gs_aq13sU3E ver çoşkuyu noldiiiii renciniz soldii
-https://www.uludagsozluk.com/k/fahrettin-koca/ bkz kızlar nasılım 
-https://www.uludagsozluk.com/k/17-mart-2020-ahmet-hamdi-%C3%A7aml%C4%B1n%C4%B1n-tweeti/
-https://www.uludagsozluk.com/k/peygamber-topra%C4%9F%C4%B1ndan-gelenlerde-vir%C3%BCs-%C3%A7%C4%B1kmaz/&w=bg
-bkz nüfusu azalttıktan sonra türklere adam gibi adam robot yapıp parayı vurmak
-https://www.uludagsozluk.com/k/ahmet-hamdi-%C3%A7aml%C4%B1-n%C4%B1n-evde-kal%C4%B1n-siki%C5%9Fin-demesi/
-bkz türkiyenin erkek açığını kapatacak virüs tasarlamak
-https://www.uludagsozluk.com/k/k%C4%B1z-olursa-koronasu-erkek-olursa-koronacan/
-https://www.uludagsozluk.com/k/c%C3%BCneyt-ark%C4%B1n/&w=bg bkz arım balım peteğim
-bkz zer0 fucks given that day
-bkz canım övdüm de geldim ısrar etme diyorum
-bkz fahrettin kocaman ne kadar süper lan
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz fahrettin koca
-bkz fahrettin kocanın koronayı ayar manyağı yapması
-bkz sonra döndüm ve dedim ki iyi ki 0 negatifim
-https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035?a=popular bkz ölde kocacım ölelim eywallah
-https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz şaka maka sarımsaklı yarasa etinin kornayı kesmesi
-bkz at gibiyim at at tay gibiyim tay tay
-bkz turp gibiyim trump şurup gibiyim şurump
-bkz şaka maka tokatlanacak daha çok keko olması
-bkz şaka maka menzil şeyhiyim diyip kekoları badelemek
-bkz şaka maka kekolara karatay diyeti yazıp parayı kırmak
-bkz şaka maka corona korkusundan eve kitlenen sığırlardan parayı vurmak
-bkz şaka maka fenerbahçenin yeni formalarla milka ineğine benzemesi
-bkz şaka maka coronanın iyi kafa yapması
-bkz şaka maka receğ tayyiğ erdoğanın korona sürecini iyi yönettiği gerçeği
-bkz mustafa torlakın fahrettin topalaka cuckold demesi
-bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz demesi
-bkz menzil şeyjinni paylaştığı nefertiti fotosu
-bkz ezan dinlemenin virüsü yok etmesi
-bjz receğ tayyiğ erdoğanın beni seven ezan dinler demesi
-bkz muhammedin yobaz bi arap olduğu gerçeği
-bkz hazreti muhammedin batılıların evine girip putları yıkması
-bkz fahrettin tezcanın fathi kocaya işini yap uyarısı
-bkz fahrettin tezcanın batıya verdiği efso ayar
-https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-bat%C4%B1-tweeti/
-bkz receğ tayyiğ erdoğanın beni seven dut pekmezi içer açıklaması
-https://www.uludagsozluk.com/k/rte-ile-dut-pekmezi-i%C3%A7mek/
-https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bunu hz ayşeye sorsana delikanlı
-https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/ -->
 
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
 
