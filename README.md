@@ -1,6 +1,8 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
+
 <!-- 
+bkz eşcinsellik yapıp sonra neden virüs var olur tabi ibneler
 https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/
 https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
