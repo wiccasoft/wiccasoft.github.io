@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=HlY1eDlWwAw )
 
 <!--
+bkz turp gibiyim turmp şurup gibiyim şurump
 bkz şaka maka lahmacunun kornayı kesmesi
 bkz şaka maka karatay ın lahmacun yeyin gari demesi
 bkz şaka maka canan karatayın kaplumbağaya benzemesi
