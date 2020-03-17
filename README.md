@@ -2,6 +2,7 @@
  )
 
 <!--
+bkz saol canım övdüm de geldim ısrar etme canım
 bkz fahrettin kocaman ne kadar süper lan
 bkz fahrettin kocanın koronayı ayar manyağı yapması
 bkz sonra döndüm ve dedim ki iyi ki 0 negatifim
