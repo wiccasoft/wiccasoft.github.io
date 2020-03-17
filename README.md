@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/mustafa-re%C5%9Fit-pa%C5%9Fa/&w=bg bkz tipim değil bıyıklı olsun
 https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg bkz asla kocam olamayacak erkek is te mi yo rum
 https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz tam sevişmelik rapçi
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd bkz soyadının hakkını veren şapşik seksi erkek
