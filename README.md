@@ -6,29 +6,13 @@ bkz at gibiyim at at tay gibiyim tay tay
 bkz turp gibiyim trump şurup gibiyim şurump
 bkz şaka maka tokatlanacak daha çok keko olması
 bkz şaka maka menzil şeyhiyim diyip kekoları badelemek
-bkz şaka maka karatay ın lahmacun yeyin gari demesi
-bkz şaka maka canan karatayın kaplumbağaya benzemesi
 bkz şaka maka kekolara karatay diyeti yazıp parayı kırmak
 bkz şaka maka karatayım deyip kekoları çiftlikbank gibi dolandırmak
-bkz şaka maka at burcu erkeği olmanın avantajlarını yaşamak
 bkz şaka maka corona korkusundan eve kitlenen sığırlardan parayı vurmak
-bkz şaka maka corona sayesinde iyi para kazanacağım gerçeği
-bkz şaka maka coronaya iyi gelir diye 15 tane lahmacun yemek
-bkz şaka maka fenerlilerin iyi şapa oturması
 bkz şaka maka fenerbahçenin yeni formalarla milka ineğine benzemesi
 bkz şaka maka coronanın iyi kafa yapması
 bkz şaka maka receğ tayyiğ erdoğanın korona sürecini iyi yönettiği gerçeği
 bkz mustafa torlakın fahrettin topalaka cuckold demesi
-bkz mustafa torlakın khk tezlekesini mevlis başkanına fırlatması
-bkz mustafa torlakın receğ tayyiğ erdoğan tapleri fake açıklaması
-bkz 19 mart 2020 erdonun tapelerinin fake yani sahte çıkması
-bkz 18 mart 2020 receğ tayyiğ erdoğanın mustafa topalaka verdiği efso ayar
-bkz 18 mart 2020 receğ tayyiğ erdoğan geri vitesi
-bkz 17 mart 2020 fahrettin toplakın burası çokımelli demesi
-bkz 17 mart 2020 fahrettin toplakın yeni açıklmaları geri vitesi
-bkz hz isanın receğ tayyiğ erdoğan mehdiliğini müjdelemeei
-bkz receğ tayyiğ erdoğanın iri olacaz diri olacaz bir olacaz tweeti
-bkz receğ tayyiğ erdoğanın beni even menzil şeyhini de sever demesi
 bkz menzil şeyhinin madem virüs görünmüyor niye inkar ediyosunuz açıklaması
 bkz menzil şeyjinni paylaştığı nefertiti fotosu
 bkz ezan dinlemenin virüsü yok etmesi
@@ -40,7 +24,7 @@ bkz fahrettin tezcanın batıya verdiği efso ayar
 https://www.uludagsozluk.com/k/fatih-tezcan-%C4%B1n-bat%C4%B1-tweeti/
 bkz receğ tayyiğ erdoğanın beni seven dut pekmezi içer açıklaması
 https://www.uludagsozluk.com/k/rte-ile-dut-pekmezi-i%C3%A7mek/
-https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bunun hz ayşeye sorsana delikanlı
+https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bunu hz ayşeye sorsana delikanlı
 https://www.uludagsozluk.com/k/stormtrooper-may%C4%B1%C5%9F%C4%B1/ -->
 
 [![Image](waste/Screenshot_2020-03-14_07-49-36.png)]( https://www.youtube.com/watch?v=fR9ZLJo6Pc4 )
