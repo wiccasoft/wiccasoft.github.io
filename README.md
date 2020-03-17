@@ -2,9 +2,10 @@
  )
 
 <!--
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz fahrettin koca
+bkz zer0 fucks given that day
 bkz canım övdüm de geldim ısrar etme diyorum
 bkz fahrettin kocaman ne kadar süper lan
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz fahrettin koca
 bkz fahrettin kocanın koronayı ayar manyağı yapması
 bkz sonra döndüm ve dedim ki iyi ki 0 negatifim
 https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/
