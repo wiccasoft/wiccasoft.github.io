@@ -4,6 +4,7 @@
 bkz şaka maka lahmacunun kornayı kesmesi
 bkz at gibiyim at at tay gibiyim tay tay
 bkz turp gibiyim trump şurup gibiyim şurump
+bkz şaka maka menzil şeyhi torunuyum diyip kekolara büyü yapmak
 bkz şaka maka karatay ın lahmacun yeyin gari demesi
 bkz şaka maka canan karatayın kaplumbağaya benzemesi
 bkz şaka maka kekolara karatay diyeti yazıp parayı kırmak
