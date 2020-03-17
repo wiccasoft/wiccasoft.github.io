@@ -2,7 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz şaka maka lahmacunun kornayı kesmesi
+bkz şaka maka sarımsaklı yarasa etinin kornayı kesmesi
 bkz at gibiyim at at tay gibiyim tay tay
 bkz turp gibiyim trump şurup gibiyim şurump
 bkz şaka maka tokatlanacak daha çok keko olması
