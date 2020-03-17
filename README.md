@@ -1,34 +1,7 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
-<!-- 
-bkz bıyıksız erkek balkonsuz eve benzer
-https://www.uludagsozluk.com/k/mustafa-re%C5%9Fit-pa%C5%9Fa/&w=bg bkz tipim değil
-https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg bkz asla kocam olamayacak erkek is te mi yo rum
-https://www.uludagsozluk.com/k/sagopa-kajmer/&w=bg bkz tam sevişmelik rapçi
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd bkz soyadının hakkını veren erkek
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz döşü kıllı
-https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay is te mi yo rum ayol
-https://www.uludagsozluk.com/k/%C3%B6zledi%C4%9Finiz-ki%C5%9Fi-%C5%9Fu-an-ba%C5%9Fkas%C4%B1yla-uyuyor/&w=bg
-https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol is te mi yor um
-https://www.uludagsozluk.com/k/coronan%C4%B1n-s%C4%B1f%C4%B1r-kan-grubunu-az-etkilemesi/
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-bir-avu%C3%A7-bokla-italyan-erke%C4%9Fi-isteyen-k%C4%B1z/
-https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-beyin-sikke-denince-g%C3%BClmesi/ 
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd bkz tam koca olacak erkek
-bkz türk erkeklerini italyan erkeklerini kıskandığı gerçeği
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz italyan erkekleri
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=bg bkz türk erkeği
-https://www.uludagsozluk.com/k/kalabal%C4%B1%C4%9Fa-bak%C4%B1p-vir%C3%BCs%C3%BC-g%C3%B6remiyorum-diyen-adam/ bkz erkek
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz stoklanası erkekler
-https://www.uludagsozluk.com/k/almanya-da-stok-i%C5%9Fini-biraz-abartan-t%C3%BCrk/ bkz türk erkeği
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=gd
-https://madcatlady.uludagsozluk.com/ vs https://lara-croftt.uludagsozluk.com/
-https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol se ve mem 
-bkz italyan erkekleriyle dolu bir ada satın almak
-https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
-https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=bg bkz fahrettin
-https://www.uludagsozluk.com/k/almanya-da-stok-i%C5%9Fini-biraz-abartan-t%C3%BCrk/ bkz italyan erkeği stoklamak
-https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz stoklanası erkekler -->
+
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
  )
