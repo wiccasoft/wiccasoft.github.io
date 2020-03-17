@@ -1,7 +1,9 @@
 
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
+
 <!-- 
+https://www.uludagsozluk.com/k/ince-sesli-erkek/&w=bg ay yok ayol is te mi yor um
 https://www.uludagsozluk.com/k/coronan%C4%B1n-s%C4%B1f%C4%B1r-kan-grubunu-az-etkilemesi/
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BCnde-bir-avu%C3%A7-bokla-italyan-erke%C4%9Fi-isteyen-k%C4%B1z/
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-beyin-sikke-denince-g%C3%BClmesi/ 
