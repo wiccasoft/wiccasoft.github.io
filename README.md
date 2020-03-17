@@ -2,6 +2,7 @@
  )
 
 <!--
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz fahrettin koca
 bkz canım övdüm de geldim ısrar etme diyorum
 bkz fahrettin kocaman ne kadar süper lan
 bkz fahrettin kocanın koronayı ayar manyağı yapması
