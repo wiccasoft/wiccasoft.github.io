@@ -2,7 +2,7 @@
  )
 
 <!--
-https://www.uludagsozluk.com/k/fahrettin-koca/ bkz kızlar nasılım
+https://www.uludagsozluk.com/k/fahrettin-koca/ bkz kızlar nasılım yakışıklı adamım
 https://www.uludagsozluk.com/k/17-mart-2020-ahmet-hamdi-%C3%A7aml%C4%B1n%C4%B1n-tweeti/
 https://www.uludagsozluk.com/k/peygamber-topra%C4%9F%C4%B1ndan-gelenlerde-vir%C3%BCs-%C3%A7%C4%B1kmaz/&w=bg
 bkz nüfusu azalttıktan sonra türklere adam gibi adam robot yapıp parayı vurmak
