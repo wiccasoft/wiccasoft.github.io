@@ -3,6 +3,8 @@
 
 <!-- 
 bkz stoklanan italyan erkeğinin dolapta çürümesi
+bkz italyan erkekleriyle dolu bir ada satın almak
+https://www.uludagsozluk.com/k/italyan-erkekleri-ile-dolu-bir-adaya-d%C3%BC%C5%9Fmek/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrk-erkeklerinin-italyan-erkeklerini-k%C4%B1skanmas%C4%B1/&w=bg bkz fahrettin
 https://www.uludagsozluk.com/k/almanya-da-stok-i%C5%9Fini-biraz-abartan-t%C3%BCrk/ bkz italyan erkeği stoklamak
 https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/ bkz stoklanası erkekler -->
