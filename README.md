@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz götünü muhafaza etmeyen eşcinsel
 bkz götten siklen kamalcı ergenin atom bombesi yapacam sana atacam demesi
 bkz götten sikilmelik kamalcı ergenler
 https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hadi hadi hadi
