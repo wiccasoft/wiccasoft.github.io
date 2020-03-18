@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg ay kaşar bunlar ayol
 bkz ey edip adanada hot dog ye
 bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
 bkz köpek videoları izlerken köpeğin yalaması
