@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://james-earl-cash.uludagsozluk.com/ sakat et heralde
 http://www.bursadabugun.com/haber/goruntuleri-mide-bulandirmisti-kopege-tecavuz-eden-o-alcak-919520.html
 bkz dedeleri köyde köpek siken malum ırk
