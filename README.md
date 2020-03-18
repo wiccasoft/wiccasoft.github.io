@@ -1,53 +1,7 @@
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=PIYb2pzVIP8 )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
-<!-- 
-bkz hayallerde yaşıyor bazı ibneler
-bkz türklerin erkek açlığını kapatacak virüs tasarlamak
-https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ bkz yapma be kankağ adamdı ya
-https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bkz bunu hazreti ayşeye sorsana deliknalı
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam gibi adam
-https://www.uludagsozluk.com/k/binlerce-kez-%C3%B6z%C3%BCr-diliyorum-diyen-corona-vir%C3%BCs%C3%BC/ 
-https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ yapma be kankağ adamdı be
-https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
-https://www.youtube.com/watch?v=RaJHr9ThK5k zuahhahahahahahaha
-bkz halk hizmet bekliyo bay kemal 
-bkz halk hizmet beklerken kılıştarın osuru osura uyuması
-https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-iyi-%C5%9Feyler/ bkz yol
-https://eksisozluk.com/17-mart-2020-fahrettin-koca-aciklamalari--6418395?a=popular olm acayip yakışıklı adam lan
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
-bkz bıyık sürtülen kızın patlak ve koronalı çıkması
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd eywallah genşler irtibatı koparmayalım
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035?a=popular eywolle genşler
-https://www.uludagsozluk.com/k/hatay-valisi/&w=bg irtibatı koparmayalım genşler
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg eywallo genşler fahrettini nası ama
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg etwolle gençler irtibatı koparmayalım
-https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035?a=popular eywolle genşler
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd bkz soyadının hakkını veren erkek 
-https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adamın ham maddesi
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz adam ın karekökü
-bkz bıyıksız erkek balkonsuz eve benzer
-https://www.youtube.com/watch?v=PIYb2pzVIP8 yaaaaaaaaaaaaa
-https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz yarasa çükü ye eşcinsellik yap sonra yetiş ya menzil şeyhi virüs var olur tabi
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
-bkz iki rekat namaz kılma sonra yok efenim neden karantinaya aldılar
-https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ bkz yarasa çüküne doymayan ateizler
-bkz yarasa hurmalar gün gelir götünü tırmalar
-bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
-https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ 
-bkz yarasa çükü yemek caiz değildir
-bkz yaa çok rahat yiyodunuz yarasa çüklerini bak noldu şimdi 
-bkz yarasaları ye eşcinsellik yap sonra neden böyle oldu olur tabi yarasa yenir mi lan
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
-https://www.uludagsozluk.com/k/salg%C4%B1nlar%C4%B1n-nedeni-zina-e%C5%9Fcinsellik-ve-anal-ili%C5%9Fki/&w=gd
-https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/
-https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid19
-https://www.uludagsozluk.com/k/tanr%C4%B1ya-kafa-tutan-medeniyetin-mikroba-yenilmesi/
--->
+
 
 [![Image](waste/Screenshot_2020-03-15_19-19-53.png)]( https://www.youtube.com/watch?v=wIoxxkNj6AM&list=PL0seQXR80YITd00u2ba7jWPFc41Y5XQKJ&index=5&t=0s&app=desktop
  )
