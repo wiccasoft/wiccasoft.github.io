@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz taksimin renkli siması cenk
 bkz bekçi mayışları annasının amına girmiş aktroller
 https://www.uludagsozluk.com/k/haydar%C4%B1n-karaoke-yaparken-mikrofonu-yutmas%C4%B1/
 https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-maa%C5%9F%C4%B1-anas%C4%B1n%C4%B1n-am%C4%B1na-girmi%C5%9F-aktroller/
