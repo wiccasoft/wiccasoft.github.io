@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/ bkz iğrenç yaratıklar
 https://www.uludagsozluk.com/k/atom-bombas%C4%B1-at%C4%B1lmas%C4%B1-gereken-yerler/&w=bg bkz annenin amı
 bkz kılıştaroğlanın oğlunun alevi olduğu iddaları
 bkz deep türkish webte yaşayan organizmaları anlatacak filme isim önerileri
