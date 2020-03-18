@@ -1,8 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
-bkz gözide sofinin karakoldan  kaçması
-bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/mustafa-sandal-%C4%B1n-serra-y%C4%B1lmaz-a-vir%C3%BCs-demesi/
 https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
 https://www.uludagsozluk.com/ bkz iğrenç yaratıklar
 https://www.uludagsozluk.com/k/atom-bombas%C4%B1-at%C4%B1lmas%C4%B1-gereken-yerler/&w=bg bkz annenin amı
