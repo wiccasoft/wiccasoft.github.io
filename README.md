@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz kovid salgınında askerin alnındaki teri silen görevli
 bkz entrysine koyduğu linki tıklanmayan ergen hüznü
 https://www.uludagsozluk.com/k/kuyucakl%C4%B1-yusuf/&w=bg
 https://www.uludagsozluk.com/k/benim-do%C4%9Fum-tarihim-ya%C5%9F%C4%B1md%C4%B1r-diyen-dede/
