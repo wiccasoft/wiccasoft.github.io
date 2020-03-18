@@ -4,7 +4,6 @@
 <!-- 
 bkz yaa çok rahat konuşuyodunuz bak noldu şimdi
 https://www.uludagsozluk.com/k/salg%C4%B1nlar%C4%B1n-nedeni-zina-e%C5%9Fcinsellik-ve-anal-ili%C5%9Fki/&w=gd
-bkz eşcinsellik yapıp sonra neden virüs var olur tabi ibneler
 https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/
 https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
