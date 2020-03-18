@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz şaka maka köyde eşşek sikerken yarısını sucuk yapmak
 bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
 https://www.uludagsozluk.com/k/g%C3%B6t%C3%BC-ba%C5%9F%C4%B1-a%C3%A7%C4%B1lan-sevgilisine-siper-olan-adam/ 
 acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/-->
