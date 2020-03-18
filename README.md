@@ -4,7 +4,7 @@
 <!-- 
 bkz yarasa hurmalar gelir götünü tırmalar
 bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
-https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ bkz yarasa çükü
+https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ 
 bkz menzil şeyhinin yarasa çükü yemek caiz değildir açıklaması
 bkz yaa çok rahat konuşuyodunuz bak noldu şimdi 
 bkz yarasaları ye eşcinsellik yap sonra neden böyle oldu olur tabi yarasa yenir mi lan
