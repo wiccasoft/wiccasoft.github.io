@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg bkz ay kaşar ayol
 bkz eve atılan köpeğin azması
 bkz türklerin kurt köpeğiyle çiftleştirkleri iddası
 bkz 50 kiloluk 3 kilo taşşaklı köpeği evde besleyen nonoşların asıl amacı
