@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/shaggy-nin-%C3%B6lmesi/&w=bg yapma be kankağ napcan şimdi sagopa yaşıyodur bence
 bkz damarlarında asil kan dolaşığ katarinadan kaçmak
 bkz katarinadan kaçan hacılar
 https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ bkz yarasa çükü
