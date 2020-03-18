@@ -5,7 +5,6 @@ bkz rte nin gürcü olmaktan utanmıyorum demesi
 bkz rte nin yine yapacağını yapması
 bkz hadisenin macun kaplıcasız fotosu
 bkz ağır gaylerin yine güldürmesi
-bkz ağır gaylerin beni rte sanması
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://agca.uludagsozluk.com/ bkz ağır gay(ağca)
 bkz hiç yavşak çinli olmaması sorunsalı
