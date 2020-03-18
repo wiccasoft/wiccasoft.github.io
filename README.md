@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/yak%C4%B1%C5%9F%C4%B1kl%C4%B1-olgun-erkekler/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkiyede-az-korona-vakas%C4%B1-h%C3%BCk%C3%BCmet-ba%C5%9Far%C4%B1s%C4%B1d%C4%B1r/
 https://www.uludagsozluk.com/k/polisin-karantinaya-g%C3%B6t%C3%BCr%C3%BClen-bir-k%C4%B1z%C4%B1-ka%C3%A7%C4%B1rmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/esenyurt-ta-kahvede-okey-oynayan-grup-yakaland%C4%B1/
