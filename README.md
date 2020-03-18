@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/kevin-durant/&w=bg bkz delikten sokturucu
 bkz dinci yobazların virüsü yayması
 bkz yobazların ve camilerin olmadığı bir dünya
