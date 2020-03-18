@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-bkz ümrecilerin eşcinselleri siklememesi
+bkz muhafazakar ümrecilerin muhafasız eşcinselleri siklememesi
 bkz sürekli entry giren azimli eşcinsel
 bkz kamalcı eşcinsellerden kurtulma yolları
 bkz ölü taklidi yapınca kaybolan kamalcı eşcinseller
