@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz gökten indiği sanılar viürsler
+bkz salgının sabır ve dualarla yayacağız
 bkz 1881 atacücü 81 bilayet - batman = 80 18+81 = covid 19
 https://www.uludagsozluk.com/k/corona-vir%C3%BCs%C3%BC-atat%C3%BCrk-d%C3%B6neminde-olsayd%C4%B1/
 bkz türkler köpekle çiftleştikleri için mi bu kadar çirkinler sorunsalı
