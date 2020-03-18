@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz turkish ülkücü gay forum
 bkz benim hüzünlü ibnelerim
 https://www.uludagsozluk.com/k/haydar%C4%B1n-k%C4%B1rg%C4%B1n%C4%B1m-ben-bu-gece-demesi/
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz hipsterların sesinde kaybolduğu gay
