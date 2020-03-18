@@ -1,3 +1,6 @@
+<!--
+https://satoshi-nakamoto.uludagsozluk.com/ bkz japonların kafayı yemesi
+https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/ -->
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=KpWCAd3dl6o )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
