@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/gavs-ile-korona-vir%C3%BCs-aras%C4%B1nda-ge%C3%A7en-konu%C5%9Fma/
 https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg ay kaşar bunlar ayol
 bkz ey edip adanada hot dog ye
 bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
