@@ -1,6 +1,8 @@
 <!--
+https://www.haberler.com/kocaeli-de-kopege-tecavuz-iddiasi-2-10512265-haberi/
 bkz animal sex com da canlı canlı köpeğe siktiren türk kızları
 bkz gel köpeğe tecavüz edelim denilen çinli nin bu ne amk bunu mu sikiyosunuz demesi
+http://www.cumhuriyet.com.tr/haber/corumda-80-yasindaki-dedenin-kopege-tecavuz-iddiasi-asilsiz-cikti-866704
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://james-earl-cash.uludagsozluk.com/ sakat et heralde
 http://www.bursadabugun.com/haber/goruntuleri-mide-bulandirmisti-kopege-tecavuz-eden-o-alcak-919520.html
