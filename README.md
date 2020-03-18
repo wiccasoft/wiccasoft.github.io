@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz fedöcü hain virsü
+https://www.uludagsozluk.com/k/fet%C3%B6c%C3%BC-denince-ilk-akla-gelen-ki%C5%9Fi/&w=bg
 https://frank-lucas.uludagsozluk.com bkz yabancı nickli nonoşlar
 https://james-earl-cash.uludagsozluk.com/ bkz yazık la kimin veledi zinasıysa
 https://agca.uludagsozluk.com/ bkz ağır gay (ağca)
