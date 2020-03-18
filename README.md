@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz kamalcı eşcinsellerden kurtulma yolları
 bkz ağır gaylerin gay olmayanları eşcinsel sanması
 https://agca.uludagsozluk.com bkz ağır gay
 https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hayallerde yaşıyor bazı ibneler
