@@ -2,6 +2,7 @@
 
 <!--
 bkz ezan sesinin virüsü kaçırdığı gerçeği
+https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
 https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/&w=bg
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://www.uludagsozluk.com/k/frank-lucas-vs-telefoncu-ekrem-ii/&w=bg
