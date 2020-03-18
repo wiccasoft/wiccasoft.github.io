@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/kovid-salg%C4%B1n%C4%B1nda-mesai-yapan-sa%C4%9Fl%C4%B1k-g%C3%B6revlileri/&w=bg bkz hamdi abi
 https://www.uludagsozluk.com/k/s%C3%BCper-g%C3%BC%C3%A7-olmak-i%C3%A7in-gerekenler/&w=bg bkz rte
 https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz taksimin renkli siması cenk
 bkz bekçi mayışları annasının amına girmiş aktroller
