@@ -2,6 +2,7 @@
 
 <!-- 
 bkz benim hüzünlü ibnelerim
+bkz yiyin birbirinizi göte para vermeyin sikin birbirinizi ete para vermeyinin çincesi
 https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz deep turkish ultra gay forum
 https://www.uludagsozluk.com/k/haydar%C4%B1n-k%C4%B1rg%C4%B1n%C4%B1m-ben-bu-gece-demesi/
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz hipsterların sesinde kaybolduğu gay
