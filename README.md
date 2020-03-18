@@ -19,10 +19,6 @@ https://www.uludagsozluk.com/k/%C3%A7inlilerin-zulmettikleri-hayvanlar%C4%B1n-ah
 https://eksisozluk.com/kamu-personeli-it-gibi-calisirken-evde-yatan-guruh--6419281?a=popular
 https://www.uludagsozluk.com/k/edip-y%C3%BCksel/&w=bg ey edip adanada pide ye
 https://www.uludagsozluk.com/k/edip-y%C3%BCksel-in-imzas%C4%B1/
-bkz türklerin köpekler ölmesin diye sokaka köpeklerini kendi etleriyle beslemei
-bkz yedikleri sosis etini sığır eti sanan türkler
-bkz hot dogları hüplet sonra niye virüs oldu
-bkz köpek eti ye sonra niye virüs var olur tabi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd
 bkz yarasa hurmalar gün gelir götünü tırmalar
 bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
