@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/&w=bg
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 bkz gel köpek sikelim denilen çinlinin bu ne amk oç bu nmu sikiyosunuz demesi
 https://www.uludagsozluk.com/k/asans%C3%B6r%C3%BCn-d%C3%BC%C4%9Fmelerine-t%C3%BCk%C3%BCren-%C3%A7inli/&w=bg
