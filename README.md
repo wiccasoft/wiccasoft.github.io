@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
-bkz ulusözlükteki tek hücreli canlıların virüs olma ihtimali
+bkz ulusözlükte yaşayan tek hücreli canlıların virüs olma ihtimali
 https://james-earl-cash.uludagsozluk.com/ bkz sözlükte yaşayan tek hücreli organizma
 bkz köpeklerin insana bakış açısının 30 derece olduğu iddası 
 bkz gel hot dog yiyelim köpek sikelim denilen çinlinin bu ne amk demesi
