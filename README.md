@@ -1,4 +1,5 @@
 <!--
+bkz 40 köpeği havlatmayan kurt kurt değildir
 bkz kurt köpeğinin çiftleşmek için en uygun canlı olması
 bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
 https://www.uludagsozluk.com/k/edip-y%C3%BCksel-in-imzas%C4%B1/ ay fena oldum ayol nasıl imza o
