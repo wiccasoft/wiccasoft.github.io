@@ -3,7 +3,6 @@
 <!-- 
 bkz eşcinsel olduğunun fakında olmayan eşcinsel
 bkz neyi muhafaza etmediğini bilmeyen eşcinsel
-bkz muhafaza etmeyen eşcinsel vs muhafaza eden eşcinsel
 bkz covid'e kovid diyen yozgatlı eşcinsel
 bkz köpek bokundan tatlı yapan çorumlu
 bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
