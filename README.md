@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz virüse rakı atıp kaçmak
 bkz atacücünün butukta yobaz virüse rakı atın demesi
 bkz gökten indiği sanılar viürsler
 bkz salgının sabır ve dualarla yayacağız
