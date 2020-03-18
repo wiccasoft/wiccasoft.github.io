@@ -1,4 +1,5 @@
 <!--
+http://www.bursadabugun.com/haber/goruntuleri-mide-bulandirmisti-kopege-tecavuz-eden-o-alcak-919520.html
 bkz dedeleri köyde köpek siken malum ırk
 bkz başbuğ türkeşin köpekle çiftleşmeyen türk türk değildir lafı
 bkz köpeğin köpek videoları izlerken malafatını ekrana sürtmesi
