@@ -3,6 +3,7 @@
 <!-- 
 bkz ağır gaylerin yine güldürmesi
 bkz ağır gaylerin beni rte sanması
+facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://agca.uludagsozluk.com/ bkz ağır gay(ağca)
 bkz hiç yavşak çinli olmaması sorunsalı
 https://www.uludagsozluk.com/k/rte-nin-yine-kendini-kan%C4%B1tlamas%C4%B1/
