@@ -5,11 +5,11 @@ bkz salyangozu pilav üstü yiyen hintli
 bkz karidesi canlı canlı yiyen fransız
 bkz hiç yavşak çinli olmaması sorunsalı
 bkz dedesi köyde eşek siken milletin akıl vermesi
+bkz animalsex.com da video izlerken köpeğin pipisini ekrana sürtmesi
 bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
 bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz animalsex.com da video izlerken köpeğin pipisini ekrana sürtmesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd -->
