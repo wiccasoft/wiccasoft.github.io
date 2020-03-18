@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ yapma be kankağ
+https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
 https://www.youtube.com/watch?v=RaJHr9ThK5k zuahhahahahahahaha
 bkz halk hizmet bekliyo bay kemal 
 bkz halk hizmet beklerken kılıştarın osuru osura uyuması
