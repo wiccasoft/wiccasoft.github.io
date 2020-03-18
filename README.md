@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz gel hot dog yiyelim köpek sikelim denilen çinlinin bu ne amk demesi
 bkz 12 hayvanlı türk takvimi ni pişirip yemek
 bkz salgının entry girerek aşacağız
 https://www.uludagsozluk.com/k/erector-felsefe-ve-esrarengiz-day%C4%B1lar-k%C4%B1raathanesi/&w=bg
