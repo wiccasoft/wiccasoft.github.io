@@ -2,7 +2,7 @@
 
 <!-- 
 bkz kamalcı eşcinsellerden kurtulma yolları
-bkz ölü taklidi yapınca dahi gitmeyen ağır gay kamalcı eşcinseller
+bkz ölü taklidi yapınca kaybolan eşcinseller
 https://agca.uludagsozluk.com bkz ağır gay
 https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg bkz hayallerde yaşıyor bazı ibneler
