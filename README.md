@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz fatih ürek
+https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hadi hadi hadi
 https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg hadi bakalım gencolar atın da görelim
 bkz kamalcıların çine atom bombası atma planları
 bkz kamalcıların atom bombası yapmaya başlaması
