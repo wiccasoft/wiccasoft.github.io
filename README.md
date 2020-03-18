@@ -1,30 +1,5 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
-<!--
-https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz köpek etinin
-https://www.uludagsozluk.com/k/ali-r%C4%B1za-demircan/&w=bg anlatim o
-bkz gel köpek sikelim denilen çinlinin ne amk bunu mu sikecem demesi
-https://www.uludagsozluk.com/k/atom-bombas%C4%B1-at%C4%B1lmas%C4%B1-gereken-yerler/&w=bg
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
-https://www.uludagsozluk.com/k/ali-r%C4%B1za-demircan/&w=bg
-https://www.youtube.com/watch?v=9P18cC9Am_s
-https://www.haberler.com/kopege-tecavuz-haberi-asilsiz-cikti-10242376-haberi/
-https://www.milliyet.com.tr/yerel-haberler/corum/kopege-tecavuz-haberi-asilsiz-cikti-12403033
-https://www.haberler.com/kocaeli-de-kopege-tecavuz-iddiasi-2-10512265-haberi/
-bkz animal sex com da canlı canlı köpeğe siktiren türk kızları
-bkz gel köpeğe tecavüz edelim denilen çinli nin bu ne amk bunu mu sikiyosunuz demesi
-http://www.cumhuriyet.com.tr/haber/corumda-80-yasindaki-dedenin-kopege-tecavuz-iddiasi-asilsiz-cikti-866704
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
-https://james-earl-cash.uludagsozluk.com/ sakat et heralde
-http://www.bursadabugun.com/haber/goruntuleri-mide-bulandirmisti-kopege-tecavuz-eden-o-alcak-919520.html
-bkz dedeleri köyde köpek siken malum ırk
-bkz başbuğ türkeşin köpekle çiftleşmeyen türk türk değildir lafı
-bkz köpeğin köpek videoları izlerken malafatını ekrana sürtmesi
-bkz türklerin kurt köpeğiyle çiftleştikleri iddası
-bkz yarasa hurmalar gün gelir götünü tırmalar
-https://satoshi-nakamoto.uludagsozluk.com/ bkz japonların kafayı yemesi
-https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/ 
-https://www.youtube.com/watch?v=KpWCAd3dl6o -->
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=9P18cC9Am_s )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
