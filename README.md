@@ -2,6 +2,7 @@
 
 <!-- 
 bkz ağır gaylerin yine güldürmesi
+bkz ağır gaylerin beni rte sanması
 https://agca.uludagsozluk.com/ bkz ağır gay(ağca)
 bkz hiç yavşak çinli olmaması sorunsalı
 https://www.uludagsozluk.com/k/rte-nin-yine-kendini-kan%C4%B1tlamas%C4%B1/
