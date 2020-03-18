@@ -1,37 +1,6 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 
-<!-- 
-bkz evde 3 kilo taşşaklı havlayan bir canlı beslemek içib bir sebep söyle
-bkz 3 kilo taşşaklı köpekleri evde besleyen türlerin asıl amacı
-bkz köpeğin taşşaklarını yiyen türkler
-https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedar süper lan
-bkz e devletten ermeni olduğunu öğrenen ükücünün dramı
-bkz animalsex.com da köpeklerle seks yapan çinliler
-bkz köpekli seks videoları izlerken köpeğin malfatı ekrena sürtmesi
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
-bkz michael jacksonun rte ile postal bağladık demesi
-bkz rte nin gürcü olmaktan utanmıyorum demesi
-bkz rte nin yine yapacağını yapması
-bkz hadisenin macun kaplıcasız fotosu
-bkz ağır gaylerin yine güldürmesi
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://agca.uludagsozluk.com/ bkz ağır gay(ağca)
-bkz hiç yavşak çinli olmaması sorunsalı
-https://www.uludagsozluk.com/k/rte-nin-yine-kendini-kan%C4%B1tlamas%C4%B1/
-bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
-https://www.uludagsozluk.com/e/43015512/ bkz hayallerde yaşıyor bazı ibneler duruşu
-bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
-https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz şaka maka eve atılan köpeğin kola sürtmesi
-bkz şaka makak animalsex.com daki videoların azdırması
-bkz şaka maka köpek sikmed videoları izlerken odaya babanın girmesi
-bkz şaka maka köpek sikerken dedeye yakalanmak
-bkz şaka maka köyde eşşek sikerken yarısını sucuk yapmak
-bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BC-ba%C5%9F%C4%B1-a%C3%A7%C4%B1lan-sevgilisine-siper-olan-adam/ 
-acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/-->
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=9P18cC9Am_s )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
