@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
 https://www.uludagsozluk.com/k/gavs-ile-korona-vir%C3%BCs-aras%C4%B1nda-ge%C3%A7en-konu%C5%9Fma/&w=gd
 https://www.uludagsozluk.com/k/esenyurt-ta-okey-oynarken-yakalanan-grup/
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz çıtır filozof oğlan götü
