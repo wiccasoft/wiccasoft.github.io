@@ -2,6 +2,7 @@
 
 <!-- 
 bkz siklenmeyen eşcinseller
+bkz eşcinsellerin eşcinselliği hakaret olarak görmesi
 bkz muhafazakar ümrecilerin muhafasız eşcinselleri siklememesi
 bkz sürekli entry giren azimli eşcinsel
 bkz kamalcı eşcinsellerden kurtulma yolları
