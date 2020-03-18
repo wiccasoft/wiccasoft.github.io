@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-https://agca.uludagsozluk.com/ bkz ağır gay
+https://agca.uludagsozluk.com/ bkz ağır gay(ağca)
 bkz hiç yavşak çinli olmaması sorunsalı
 https://www.uludagsozluk.com/k/rte-nin-yine-kendini-kan%C4%B1tlamas%C4%B1/
 bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
