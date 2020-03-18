@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz türklerin tip olarak köpeklere benzemesi
 bkz babasının prensini götten sikmek
 bkz türklerin köpek başlı yaratıklar olma ihtimali
 https://www.uludagsozluk.com/k/klozeti-kolayla-doldurup-i%C3%A7ine-mentos-atmak/
