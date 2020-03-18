@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-in%C3%B6n%C3%BC-taraf%C4%B1ndan-zehirlenmesi/&w=bg
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz şaka maka eve atılan köpeğin kola sürtmesi
 bkz şaka makak animalsex.com daki videoların azdırması
 bkz şaka maka köpek sikmed videoları izlerken odaya babanın girmesi
