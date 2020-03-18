@@ -1,8 +1,7 @@
-<!-
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
-https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ bkz yarasa çüküne doymayan ateizler
+<!--
 bkz yarasa hurmalar gün gelir götünü tırmalar
 bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
+https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
 https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid19
