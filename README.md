@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
-bkz yaa çok rahat konuşuyodunuz bak noldu şimdi yarasaları ye eşicinsellik yap sonra neden menzil çare bulamıyo
+bkz yaa çok rahat konuşuyodunuz bak noldu şimdi yarasaları ye eşcinsellik yap sonra neden menzil çare bulamıyo
 https://www.uludagsozluk.com/k/salg%C4%B1nlar%C4%B1n-nedeni-zina-e%C5%9Fcinsellik-ve-anal-ili%C5%9Fki/&w=gd
 https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/
 https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
