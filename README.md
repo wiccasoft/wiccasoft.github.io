@@ -1,4 +1,5 @@
 <!--
+bkz animal sex com da köpekle çiftleşen hatunlar
 https://www.uludagsozluk.com/k/edip-y%C3%BCksel/&w=bg ey edip adanada pide ye
 https://www.uludagsozluk.com/k/edip-y%C3%BCksel-in-imzas%C4%B1/
 bkz türklerin köpekler ölmesin diye sokaka köpeklerini kendi etleriyle beslemei
