@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/umreciler/ bkz ümmetçiler
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd tıklağ izle kankağ
 bkz salyangozu pilav üstü yiyen hintli
 bkz karidesi canlı canlı yiyen fransız
