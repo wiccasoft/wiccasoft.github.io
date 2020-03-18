@@ -2,6 +2,7 @@
 
 <!--
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz çıtır
+https://www.uludagsozluk.com/k/s%C3%B6zl%C3%BCk-erkeklerinin-kal%C3%A7alar%C4%B1/&w=bg ıstırılır
 http://www.cumhuriyet.com.tr/haber/corumda-80-yasindaki-dedenin-kopege-tecavuz-iddiasi-asilsiz-cikti-866704
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://james-earl-cash.uludagsozluk.com/ sakat et heralde
