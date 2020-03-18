@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz havlayan türk ısırmaz
 bkz türklerin amerikanın fino köpeği olduğu gerçeği
 bkz amerika facebook twitter a kapatsa türkler ne yapacak sorunsalı
 bkz sürekli mobile.twitter video linki atan ergen
