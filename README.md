@@ -1,18 +1,10 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg bkz hayallerde yaşıyor bazı ibneler
-bkz göt deliğini muhafaza etmeyen eşcinsel kamalcı
-bkz götünü muhafaza etmeyen eşcinsel
-bkz götten siklen kamalcı ergenin atom bombesi yapacam sana atacam demesi
-bkz götten sikilmelik kamalcı ergenler
-https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hadi hadi hadi
 https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg hadi bakalım gencolar atın da görelim
-bkz kamalcıların çine atom bombası atma planları
-bkz kamalcıların atom bombası yapmaya başlaması
-https://www.uludagsozluk.com/k/kovid-salg%C4%B1n%C4%B1nda-mesai-yapan-sa%C4%9Fl%C4%B1k-g%C3%B6revlileri/&w=bg bkz hamdi abi
 https://www.uludagsozluk.com/k/umreciler/ bkz ümmüt üğlüüü
-bkz götünde don olmayan ergenin çine atom bombası atalım demesi
 https://www.uludagsozluk.com/k/g%C3%BC%C3%A7-nedir/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg hayallerde yaşıyor bazı ibneler
