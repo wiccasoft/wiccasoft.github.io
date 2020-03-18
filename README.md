@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://agca.uludagsozluk.com/ bkz ağır gay (ağca)
 bkz salyangozu pilav üstü yiyen hintli
 bkz karidesi canlı canlı yiyen fransız
 bkz hiç yavşak çinli olmaması sorunsalı
