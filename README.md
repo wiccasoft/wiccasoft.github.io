@@ -1,15 +1,6 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-https://www.uludagsozluk.com/k/kovid-salg%C4%B1n%C4%B1nda-mesai-yapan-sa%C4%9Fl%C4%B1k-g%C3%B6revlileri/&w=bg bkz hamdi abi
-https://www.uludagsozluk.com/k/s%C3%BCper-g%C3%BC%C3%A7-olmak-i%C3%A7in-gerekenler/&w=bg bkz rte
-https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz taksimin renkli siması cenk
-bkz bekçi mayışları annasının amına girmiş aktroller
-https://www.uludagsozluk.com/k/haydar%C4%B1n-karaoke-yaparken-mikrofonu-yutmas%C4%B1/
-https://www.uludagsozluk.com/k/%C3%B6%C4%9Fretmen-maa%C5%9F%C4%B1-anas%C4%B1n%C4%B1n-am%C4%B1na-girmi%C5%9F-aktroller/
-bkz kovid salgının da mesai yapan bekçilere ikramiye müjdesi
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz akustik gay
 bkz covid'e kovid diyen yozgatlı
 bkz köpek bokundan tatlı yapan çorumlu
 bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
