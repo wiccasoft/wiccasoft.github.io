@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg eywolle genşler ciddiyete haranım disiplin severim
 https://eksisozluk.com/turkiyenin-13-cumhurbaskani-fahrettin-koca--6417035?a=popular eywolle genşler
 https://www.uludagsozluk.com/k/fahrettin-koca/&w=gd bkz soyadının hakkını veren erkek 
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adamın ham maddesi
