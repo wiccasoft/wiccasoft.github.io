@@ -1,5 +1,6 @@
 <!--
-bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
+bkz başbuğ türkeşin köpekle çiftleşmeyen türk türk değildir lafı
+bkz köpeğin köpek videoları izlerken malafatını ekrana sürtmesi
 bkz türklerin kurt köpeğiyle çiftleştikleri iddası
 bkz yarasa hurmalar gün gelir götünü tırmalar
 https://satoshi-nakamoto.uludagsozluk.com/ bkz japonların kafayı yemesi
