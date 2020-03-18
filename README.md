@@ -8,9 +8,6 @@ bkz sürekli mobile.twitter video linki atan ergen
 bkz twitter kapanırsa türkler ne yapacaklar sorunsalı
 bkz türkler niye sürekli twitter linkleri veriyorlar sorunsalı
 https://www.uludagsozluk.com/k/babalar-k%C4%B1zlar%C4%B1na-makyaj-yaparsa/
-bkz köpeği canlı canlı siken çinli
-bkz kovid salgınında mesai yapan cefakar sağlık görevlisi
-bkz kovid salgınında askerin alnındaki teri silen görevli
 bkz entrysine koyduğu linki tıklanmayan ergen hüznü
 https://www.uludagsozluk.com/k/kuyucakl%C4%B1-yusuf/&w=bg
 https://www.uludagsozluk.com/k/benim-do%C4%9Fum-tarihim-ya%C5%9F%C4%B1md%C4%B1r-diyen-dede/
