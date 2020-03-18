@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/binlerce-kez-%C3%B6z%C3%BCr-diliyorum-diyen-corona-vir%C3%BCs%C3%BC/
 https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ yapma be kankağ adamdı be
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
 https://www.youtube.com/watch?v=RaJHr9ThK5k zuahhahahahahahaha
