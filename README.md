@@ -10,7 +10,7 @@ bkz türkler niye sürekli twitter linkleri veriyorlar sorunsalı
 https://www.uludagsozluk.com/k/babalar-k%C4%B1zlar%C4%B1na-makyaj-yaparsa/
 bkz entrysine koyduğu linki tıklanmayan ergen hüznü
 https://www.uludagsozluk.com/k/kuyucakl%C4%B1-yusuf/&w=bg
-https://www.uludagsozluk.com/k/benim-do%C4%9Fum-tarihim-ya%C5%9F%C4%B1md%C4%B1r-diyen-dede/
+https://www.uludagsozluk.com/k/benim-do%C4%9Fum-tarihim-ya%C5%9F%C4%B1md%C4%B1r-diyen-dede/ bkz 78
 bkz siklenmeyen eşcinseller
 bkz eşcinsellerin eşcinselliği hakaret olarak görmesi
 bkz muhafazakar ümrecilerin muhafasız eşcinselleri siklememesi
