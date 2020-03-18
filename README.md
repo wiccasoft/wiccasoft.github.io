@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz köpeğin taşşaklarını yiyen türkler
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedar süper lan
 bkz e devletten ermeni olduğunu öğrenen ükücünün dramı
 bkz animalsex.com da köpeklerle seks yapan çinliler
