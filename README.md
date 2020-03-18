@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz 3 kilo taşşklı köpeği evde besleyen türkün asıl amacı
 bkz köpeğin taşşaklarını yiyen türkler
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedar süper lan
 bkz e devletten ermeni olduğunu öğrenen ükücünün dramı
