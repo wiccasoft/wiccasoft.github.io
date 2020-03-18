@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
-bkz kelam kılıştaroğlanın oğlunun alevi olduğu iddaları
+bkz kılıştaroğlanın oğlunun alevi olduğu iddaları
 bkz deep türkish webte yaşayan organizmaları anlatacak filme isim önerileri
 bkz ulusözlükte yaşayan tek hücreli canlıların virüs olma ihtimali
 https://james-earl-cash.uludagsozluk.com/ bkz sözlükte yaşayan tek hücreli organizma
