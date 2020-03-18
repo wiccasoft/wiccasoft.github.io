@@ -1,4 +1,5 @@
 <!--
+bkz hot dogları hüplet sonra niye virsü oldu
 bkz köpek eti ye sonra niye virüs var olur tabi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd
 bkz yarasa hurmalar gün gelir götünü tırmalar
