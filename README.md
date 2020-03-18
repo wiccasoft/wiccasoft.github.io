@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/atom-bombas%C4%B1-at%C4%B1lmas%C4%B1-gereken-yerler/&w=bg
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://www.uludagsozluk.com/k/ali-r%C4%B1za-demircan/&w=bg
 https://www.youtube.com/watch?v=9P18cC9Am_s
