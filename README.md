@@ -1,9 +1,9 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-kz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
-bkz çinlilerin yavşak insanlar olma sebebi
-https://www.uludagsozluk.com/k/g%C3%B6t%C3%BC-ba%C5%9F%C4%B1-a%C3%A7%C4%B1lan-sevgilisine-siper-olan-adam/ -->
+bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
+https://www.uludagsozluk.com/k/g%C3%B6t%C3%BC-ba%C5%9F%C4%B1-a%C3%A7%C4%B1lan-sevgilisine-siper-olan-adam/ 
+acebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/-->
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=9P18cC9Am_s )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
