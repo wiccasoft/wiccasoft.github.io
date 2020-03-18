@@ -1,7 +1,9 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://agca.uludagsozluk.com/ bkz ağır gay
 bkz hiç yavşak çinli olmaması sorunsalı
+https://www.uludagsozluk.com/k/rte-nin-yine-kendini-kan%C4%B1tlamas%C4%B1/
 bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
 https://www.uludagsozluk.com/e/43015512/ bkz hayallerde yaşıyor bazı ibneler duruşu
 bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
