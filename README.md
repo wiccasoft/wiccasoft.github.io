@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz selam dua ve bol entry girerek salgını atlatacaksınzı inşallah
+https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan-%C4%B1n-ulusa-sesleni%C5%9F-konu%C5%9Fmas%C4%B1/
 https://www.uludagsozluk.com/k/kevin-durant/&w=bg bkz delikten sokturucu
