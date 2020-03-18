@@ -1,6 +1,6 @@
 <!--
 bkz eve atılan köpeğin azması
-bkz 50 kiloluk 3 kilo taşşaklı köpeği evde besleyen kadınların asıl amacı
+bkz 50 kiloluk 3 kilo taşşaklı köpeği evde besleyen nonoşların asıl amacı
 bkz çinlilerin köpekle canlı canlı seks yapması
 bkz bay kemal millet hizmet bekliyo hizmet
 bkz millet hizmet beklerken bay kemalin köpek videoları izlemesi
