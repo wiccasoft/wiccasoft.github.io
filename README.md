@@ -4,7 +4,7 @@
 <!-- 
 bkz hayallerde yaşıyor bazı ibneler
 bkz türklerin erkek açlığını kapatacak virüs tasarlamak
-bkz virüsle duygusal ilişkiye girecek kadar zavallı olmak
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/binlerce-kez-%C3%B6z%C3%BCr-diliyorum-diyen-corona-vir%C3%BCs%C3%BC/ 
 https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ yapma be kankağ adamdı be
 https://www.uludagsozluk.com/k/m%C3%BCsl%C3%BCm-g%C3%BCrses/&w=bg
