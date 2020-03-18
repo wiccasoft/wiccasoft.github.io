@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-bkz gel pastırma yiyek köpek sikek denilen çinlinin o ne amk demesi
+bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
 bkz çiğ köfteyi canlı canlı yiyen çorumlu
 bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
