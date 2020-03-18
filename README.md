@@ -2,7 +2,6 @@
 
 <!-- 
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz akustik gay
-bkz türklerin devlete köpeklik yapmaktan olmayan beyinlerini yitirmesi
 https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg yarramın kurma kolları la
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz kusturmalı boşnak saksosu 
 bkz covid'e kovid diyen yozgatlı
