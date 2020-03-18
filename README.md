@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz dinci yobazların virüsü yayması
 bkz yobazların ve camilerin olmadığı bir dünya
 bkz cem yılmazın serra yılmaza virüs demesi
 bkz james earl cashin frank lucasa frenk kaşarı demesi
