@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-prensesini-karantinadan-ka%C3%A7%C4%B1rmak/
+https://www.uludagsozluk.com/k/%C3%A7inlilerin-yec%C3%BCc-mec%C3%BCc-olma-ihtimali/
 https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/&w=bg
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 bkz gel köpek sikelim denilen çinlinin bu ne amk oç bu nmu sikiyosunuz demesi
