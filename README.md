@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/polisin-karantinaya-g%C3%B6t%C3%BCr%C3%BClen-bir-k%C4%B1z%C4%B1-ka%C3%A7%C4%B1rmas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/esenyurt-ta-kahvede-okey-oynayan-grup-yakaland%C4%B1/
 https://www.uludagsozluk.com/k/gavs-ile-korona-vir%C3%BCs-aras%C4%B1nda-ge%C3%A7en-konu%C5%9Fma/
 https://www.uludagsozluk.com/k/mustafa-sandal-%C4%B1n-serra-y%C4%B1lmaz-a-vir%C3%BCs-demesi/
