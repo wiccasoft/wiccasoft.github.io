@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz salgını selam ve  dua ile yayacağız
 bkz allahın evine virsü bulaşmaz videosu
 bkz ezan sesinin virüsü kaçırdığı gerçeği
 https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
