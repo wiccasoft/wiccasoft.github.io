@@ -5,9 +5,7 @@ bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
 bkz çiğ köfteyi canlı canlı yiyen çorumlu
 bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
-bkz köpek bokunda tatlı yapan çinli
-bkz köpeği canlı canlı yiyen çinli
-bkz at skini yiyen çinli
+bkz köpek bokundan tatlı yapan çorumlu
 https://www.uludagsozluk.com/k/umreciler/ bkz ümmetçiler
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd tıklağ izle kankağ
 bkz salyangozu pilav üstü yiyen hintli
