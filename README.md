@@ -2,7 +2,7 @@
 
 
 <!-- 
-bkz 3 kilo taşşaklı köpekleri evde besleyen malum ırk 
+bkz 3 kilo taşşaklı köpekleri evde besleyen türlerin asıl amacı
 bkz köpeğin taşşaklarını yiyen türkler
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedar süper lan
 bkz e devletten ermeni olduğunu öğrenen ükücünün dramı
