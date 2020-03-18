@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
-bkz babasının prensinin götten sikmek
+bkz babasının prensini götten sikmek
+bkz türklerin köpek başlı yaratıklar olma ihtimali
 https://www.uludagsozluk.com/k/klozeti-kolayla-doldurup-i%C3%A7ine-mentos-atmak/
 https://www.uludagsozluk.com/k/babas%C4%B1n%C4%B1n-prensesini-karantinadan-ka%C3%A7%C4%B1rmak/
 https://www.uludagsozluk.com/k/%C3%A7inlilerin-yec%C3%BCc-mec%C3%BCc-olma-ihtimali/
