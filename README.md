@@ -2,6 +2,7 @@
 
 <!-- 
 bkz kamalcı eşcinsellerden kurtulma yolları
+bkz ölü taklidi yapınca dahi gitmeyen kamalcı eşcinseller
 bkz ağır gaylerin gay olmayanları eşcinsel sanması
 https://agca.uludagsozluk.com bkz ağır gay
 https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hayallerde yaşıyor bazı ibneler
