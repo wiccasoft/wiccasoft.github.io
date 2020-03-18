@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/allah-%C4%B1n-evine-vir%C3%BCs-bula%C5%9Fmaz/&w=bg
 https://www.uludagsozluk.com/k/sakarya-da-ya%C5%9Fanan-imam-cemaat-tart%C4%B1%C5%9Fmas%C4%B1/
 bkz selam dua ve bol entry girerek salgını atlatacaksınzı inşallah
 https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
