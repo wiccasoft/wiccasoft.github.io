@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/umreciler/ bkz ümmüt üğlüüü
 bkz götünde don olmayan ergenin çine atom bombası atalım demesi
 https://www.uludagsozluk.com/k/g%C3%BC%C3%A7-nedir/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg hayallerde yaşıyor bazı ibneler
