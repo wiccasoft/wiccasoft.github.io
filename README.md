@@ -1,4 +1,5 @@
 <!--
+https://www.milliyet.com.tr/yerel-haberler/corum/kopege-tecavuz-haberi-asilsiz-cikti-12403033
 https://www.haberler.com/kocaeli-de-kopege-tecavuz-iddiasi-2-10512265-haberi/
 bkz animal sex com da canlı canlı köpeğe siktiren türk kızları
 bkz gel köpeğe tecavüz edelim denilen çinli nin bu ne amk bunu mu sikiyosunuz demesi
