@@ -1,4 +1,5 @@
 <!--
+bkz serdar ortaçın çinli olduğu iddaları
 bkz başbuğ türkeşin kafasını sarıya boyayıp ben sarı türküm demesi
 bkz başbuğ türkeş anıyoruz auuuuuuuuuuu
 bkz 40 köpeği havlatmayan kurt kurt değildir
