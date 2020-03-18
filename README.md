@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
 bkz köpek bokunda tatlı yapan çinli
 bkz köpeği canlı canlı yiyen çinli
