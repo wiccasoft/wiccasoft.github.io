@@ -1,43 +1,5 @@
-<!--
-bkz serdar ortaçın çinli olduğu iddaları
-bkz başbuğ türkeşin kafasını sarıya boyayıp ben sarı türküm demesi
-bkz başbuğ türkeş anıyoruz auuuuuuuuuuu
-bkz 40 köpeği havlatmayan kurt kurt değildir
-bkz kurt köpeğinin çiftleşmek için en uygun canlı olması
-bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
-https://www.uludagsozluk.com/k/edip-y%C3%BCksel-in-imzas%C4%B1/ ay fena oldum ayol nasıl imza o
-https://www.uludagsozluk.com/k/gavs-ile-korona-vir%C3%BCs-aras%C4%B1nda-ge%C3%A7en-konu%C5%9Fma/
-https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg ay kaşar bunlar ayol
-bkz ey edip adanada hot dog ye
-bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
-bkz köpek videoları izlerken köpeğin yalaması
-https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg bkz ay kaşar ayol
-bkz eve atılan köpeğin azması
-bkz türklerin kurt köpeğiyle çiftleştirkleri iddası
-bkz 50 kiloluk 3 kilo taşşaklı köpeği evde besleyen nonoşların asıl amacı
-bkz çinlilerin köpekle canlı canlı seks yapması
-bkz bay kemal millet hizmet bekliyo hizmet
-bkz millet hizmet beklerken bay kemalin köpek videoları izlemesi
-bkz köpekle canlı canlı seks yapan çinliler
-bkz animal sex com da köpekle çiftleşen çinliler
-bkz animal sex com da köpekle çiftleşen hatunlar
-https://www.uludagsozluk.com/k/%C3%A7inlilerin-zulmettikleri-hayvanlar%C4%B1n-ah%C4%B1/
-https://eksisozluk.com/kamu-personeli-it-gibi-calisirken-evde-yatan-guruh--6419281?a=popular
-https://www.uludagsozluk.com/k/edip-y%C3%BCksel/&w=bg ey edip adanada pide ye
-https://www.uludagsozluk.com/k/edip-y%C3%BCksel-in-imzas%C4%B1/
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd
-bkz yarasa hurmalar gün gelir götünü tırmalar
-bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
-https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
-https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-bkz 1881 atacücü 81 vilayet - batman = 80 18+81 = 99 - 80 = covid19
-https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/ 
-facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
-https://www.uludagsozluk.com/k/tanr%C4%B1ya-kafa-tutan-medeniyetin-mikroba-yenilmesi/
--->
 
-[![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=7GSgWzmR_-c )
+[![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=KpWCAd3dl6o )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 
