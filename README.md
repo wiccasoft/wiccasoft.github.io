@@ -2,7 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
-bkz yarasa çükünü ye eşcinsellik yap sonra yetiş ya menzil şeyhi
+bkz yarasa çükünü ye eşcinsellik yap sonra yetiş ya menzil şeyhi virüs var olur tabi
 https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
 https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ la oglim adam fenerli zaten
 bkz iki rekat namaz kılma sonra yok efenim neden karantinaya aldılar
