@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
+https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz köpekli seks videoları izlerken köpeğin malafatı ekrena sürtmesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
