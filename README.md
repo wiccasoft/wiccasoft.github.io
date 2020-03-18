@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz çıtır
 http://www.cumhuriyet.com.tr/haber/corumda-80-yasindaki-dedenin-kopege-tecavuz-iddiasi-asilsiz-cikti-866704
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://james-earl-cash.uludagsozluk.com/ sakat et heralde
