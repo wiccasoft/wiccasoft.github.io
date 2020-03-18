@@ -2,7 +2,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
-https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz adam gibi adam
+https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adamın ham maddesi
+https://www.uludagsozluk.com/k/fahrettin-koca/&w=bg bkz adam ın karekökü
 bkz bıyıksız erkek balkonsuz eve benzer
 https://www.youtube.com/watch?v=PIYb2pzVIP8 yaaaaaaaaaaaaa
 https://www.uludagsozluk.com/k/o-son-yarasayı-yemeyecektik/
