@@ -1,4 +1,5 @@
 <!--
+bkz ey edip adanada hot dog ye
 https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg bkz ay kaşar ayol
 bkz eve atılan köpeğin azması
 bkz türklerin kurt köpeğiyle çiftleştirkleri iddası
