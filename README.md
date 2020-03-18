@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz kovid salgının da mesai yapan bekçilere ikramiye müjdesi
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz akustik gay
 bkz covid'e kovid diyen yozgatlı
