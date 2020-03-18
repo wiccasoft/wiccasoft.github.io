@@ -1,5 +1,6 @@
 <!--
 bkz eve atılan köpeğin azması
+bkz türklerin kurt köpeğiyle çiftleştirkleri iddası
 bkz 50 kiloluk 3 kilo taşşaklı köpeği evde besleyen nonoşların asıl amacı
 bkz çinlilerin köpekle canlı canlı seks yapması
 bkz bay kemal millet hizmet bekliyo hizmet
