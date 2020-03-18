@@ -1,14 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
-bkz benim hüzünlü ibnelerim
-bkz yiyin birbirinizi göte para vermeyin sikin birbirinizi ete para vermeyinin çincesi
-https://www.uludagsozluk.com/k/uluda%C4%9F-s%C3%B6zl%C3%BCk/&w=bg bkz deep turkish ultra gay forum
-https://www.uludagsozluk.com/k/haydar%C4%B1n-k%C4%B1rg%C4%B1n%C4%B1m-ben-bu-gece-demesi/
-https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz hipsterların sesinde kaybolduğu gay
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz akustik gay
-https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg yarramın kurma kolları la
-https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz kusturmalı boşnak saksosu 
 bkz covid'e kovid diyen yozgatlı
 bkz türklerin mide bulandırıcı bir millet olması
 bkz köpek bokundan tatlı yapan çorumlu
@@ -17,6 +10,7 @@ bkz çiğ köfteyi canlı canlı yiyen çorumlu
 bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
 https://www.uludagsozluk.com/k/umreciler/ bkz ümmetçiler
+bkz yiyin birbirinizi göte para vermeyin sikin birbirinizi ete para vermeyinin çincesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd tıklağ izle kankağ
 bkz salyangozu pilav üstü yiyen hintli
 bkz karidesi canlı canlı yiyen fransız
