@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/mast%C3%BCrbasyon-yapan-%C3%A7ocu%C4%9Fun-elini-yakmak/
+https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://www.uludagsozluk.com/k/sakarya-da-ya%C5%9Fanan-imam-cemaat-tart%C4%B1%C5%9Fmas%C4%B1/
 bkz gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
