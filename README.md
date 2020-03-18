@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz karidesi canlı canlı yiyen fransız
+bkz hiç yavşak çinli olmaması sorunsalı
+https://www.uludagsozluk.com/k/rte-nin-yine-kendini-kan%C4%B1tlamas%C4%B1/
+bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
 bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
 https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
