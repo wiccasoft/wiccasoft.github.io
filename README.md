@@ -1,5 +1,6 @@
 <!--
 bkz kurt köpeğinin çiftleşmek için en uygun canlı olması
+bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
 https://www.uludagsozluk.com/k/edip-y%C3%BCksel-in-imzas%C4%B1/ ay fena oldum ayol nasıl imza o
 https://www.uludagsozluk.com/k/gavs-ile-korona-vir%C3%BCs-aras%C4%B1nda-ge%C3%A7en-konu%C5%9Fma/
 https://www.uludagsozluk.com/k/samsun-erke%C4%9Fi/&w=bg ay kaşar bunlar ayol
