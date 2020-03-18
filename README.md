@@ -1,4 +1,7 @@
 <!--
+bkz köpeğin köpek videoları izlerken  malafatını ekrana sürtmesi
+bkz türklerin kurt köpeğiyle çiftleştikleri iddası
+bkz yarasa hurmalar gün gelir götünü tırmalar
 https://satoshi-nakamoto.uludagsozluk.com/ bkz japonların kafayı yemesi
 https://www.uludagsozluk.com/k/%C3%A7ine-yapt%C4%B1r%C4%B1m-uygulanmas%C4%B1-gereklili%C4%9Fi/ -->
 
