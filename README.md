@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ bkz yarasa çükü
 bkz menzil şeyhinin yarasa çükü yemek caiz değildir açıklaması
 bkz yaa çok rahat konuşuyodunuz bak noldu şimdi 
 bkz yarasaları ye eşcinsellik yap sonra neden böyle oldu olur tabi yarasa yenir mi lan
