@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
-bkz iğrençsiniz ibneler
+bkz hayallerde yaşıyor bazı ibneler
+https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
 https://www.uludagsozluk.com/ bkz iğrenç yaratıklar
 https://www.uludagsozluk.com/k/atom-bombas%C4%B1-at%C4%B1lmas%C4%B1-gereken-yerler/&w=bg bkz annenin amı
 bkz kılıştaroğlanın oğlunun alevi olduğu iddaları
