@@ -1,3 +1,5 @@
+[![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
+
 <!--
 https://www.youtube.com/watch?v=ox93sf0-tPQ akarı kokarı olmaz köpek etinin
 https://www.uludagsozluk.com/k/ali-r%C4%B1za-demircan/&w=bg anlatim o
