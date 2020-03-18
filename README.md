@@ -2,7 +2,7 @@
 
 <!-- 
 bkz rakıya virüs atıp kaçmak
-bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek köpek sikek demek
+bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
 bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-in%C3%B6n%C3%BC-taraf%C4%B1ndan-zehirlenmesi/&w=bg
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
