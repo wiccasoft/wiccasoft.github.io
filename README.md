@@ -2,7 +2,7 @@
 
 <!-- 
 bkz fedöcü hain virüs
-bkz e devletten ermeni olduğunu öğrenen çomar ülkücü
+bkz e devletten ermeni olduğunu öğrenen çomar ülkücünün dramı
 https://frank-lucas.uludagsozluk.com bkz yabancı nickli nonoşlar
 https://james-earl-cash.uludagsozluk.com/ bkz yazık la kimin veledi zinasıysa
 https://agca.uludagsozluk.com/ bkz ağır gay (ağca)
