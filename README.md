@@ -1,4 +1,5 @@
 <!--
+bkz animal sex com da canlı canlı köpeğe siktiren türk kızları
 bkz gel köpeğe tecavüz edelim denilen çinli nin bu ne amk bunu mu sikiyosunuz demesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://james-earl-cash.uludagsozluk.com/ sakat et heralde
