@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz hiç yavşak çinli olmaması sorunsalı
 bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
 bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
 https://www.uludagsozluk.com/k/atat%C3%BCrk-%C3%BCn-in%C3%B6n%C3%BC-taraf%C4%B1ndan-zehirlenmesi/&w=bg
