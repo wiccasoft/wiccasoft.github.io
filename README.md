@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz michael jacksonun rte ile postal bağladık demesi
 bkz rte nin gürcü olmaktan utanmıyorum demesi
 bkz rte nin yine yapacağını yapması
 bkz hadisenin macun kaplıcasız fotosu
