@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz şaka maka eve atılan köpeğin kola sürtmesi
 bkz şaka makak animalsex.com daki videoların azdırması
 bkz şaka maka köpek sikmed videoları izlerken odaya babanın girmesi
 bkz şaka maka köpek sikerken dedeye yakalanmak
