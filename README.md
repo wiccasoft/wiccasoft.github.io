@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+bkz kavram karmaşası yaşayan eşcinseller
 bkz eşcinsel olduğunun fakında olmayan eşcinsel
 bkz neyi muhafaza etmediğini bilmeyen eşcinsel
 bkz covid'e kovid diyen yozgatlı eşcinsel
