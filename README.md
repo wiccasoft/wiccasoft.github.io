@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz 12 hayvanlı türk takvimi ni pişirip yemek
 bkz salgının entry girerek aşacağız
 https://www.uludagsozluk.com/k/erector-felsefe-ve-esrarengiz-day%C4%B1lar-k%C4%B1raathanesi/&w=bg
 https://www.uludagsozluk.com/k/salg%C4%B1n%C4%B1-sab%C4%B1r-ve-dualarla-a%C5%9Faca%C4%9F%C4%B1z/
