@@ -1,5 +1,5 @@
 <!--
-bkz köpeğe tecavüz eden çinli nin bu ne amk demesi
+bkz gel köpeğe tecavüz edelim denilen çinli nin bu ne amk bunu mu sikiyosunuz demesi
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 https://james-earl-cash.uludagsozluk.com/ sakat et heralde
 http://www.bursadabugun.com/haber/goruntuleri-mide-bulandirmisti-kopege-tecavuz-eden-o-alcak-919520.html
