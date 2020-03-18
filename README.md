@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!-- 
+https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg yarramın kurma kolları la
 https://www.uludagsozluk.com/k/kaan-bo%C5%9Fnak/&w=bg bkz kusturmalı boşnak saksosu 
 bkz covid'e kovid diyen yozgatlı
 bkz türklerin mide bulandırıcı bir millet olması
