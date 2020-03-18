@@ -1,7 +1,8 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
-https://james-earl-cash.uludagsozluk.com/ bkz sözlükte yaşayan corganizma
+bkz ulusözlükteki tek hücreli canlıların virüs olma ihtimali
+https://james-earl-cash.uludagsozluk.com/ bkz sözlükte yaşayan tek hücreli organizma
 bkz köpeklerin insana bakış açısının 30 derece olduğu iddası 
 bkz gel hot dog yiyelim köpek sikelim denilen çinlinin bu ne amk demesi
 bkz 12 hayvanlı türk takvimi ni pişirip yemek
