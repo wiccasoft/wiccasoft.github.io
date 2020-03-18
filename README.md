@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/sakarya-da-ya%C5%9Fanan-imam-cemaat-tart%C4%B1%C5%9Fmas%C4%B1/
 https://james-earl-cash.uludagsozluk.com/ bkz sakat et heralde
 https://www.uludagsozluk.com/k/gavs-ile-korona-vir%C3%BCs-aras%C4%B1nda-ge%C3%A7en-konu%C5%9Fma/
 https://www.uludagsozluk.com/k/filozof-atakan/&w=bg bkz çıtır
