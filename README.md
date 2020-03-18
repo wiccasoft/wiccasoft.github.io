@@ -2,6 +2,8 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/s%C3%BCleyman-demirel/&w=bg 
+bkz kornoyı bitirelim de millet bizi mi siksin
 bkz yarasa hurmalar gün gelir götünü tırmalar
 bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
 https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ 
