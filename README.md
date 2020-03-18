@@ -1,6 +1,7 @@
 <!-- 
 https://www.uludagsozluk.com/k/eyyy-korona-sen-kimsin-ya/ 
 facebook.com/tcbestepe/videos/15-temmuz-şehitlerimizi-rahmet-ve-minnetle-anıyoruz/1999718343387016/
+https://www.uludagsozluk.com/k/tanr%C4%B1ya-kafa-tutan-medeniyetin-mikroba-yenilmesi/
 -->
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=7GSgWzmR_-c )
