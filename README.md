@@ -1,4 +1,5 @@
 <!--
+bkz türklerin köpekler ölmesin diye sokaka köpeklerini kendi etleriyle beslemei
 bkz yedikleri sosis etini sığır eti sanan türkler
 bkz hot dogları hüplet sonra niye virüs oldu
 bkz köpek eti ye sonra niye virüs var olur tabi
