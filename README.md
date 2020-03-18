@@ -2,6 +2,7 @@
 
 
 <!-- 
+bkz evde 3 kilo taşşaklı havlayan bir canlı beslemek içib bir sebep söyle
 bkz 3 kilo taşşaklı köpekleri evde besleyen türlerin asıl amacı
 bkz köpeğin taşşaklarını yiyen türkler
 https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne kedar süper lan
