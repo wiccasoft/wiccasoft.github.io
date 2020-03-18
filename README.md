@@ -1,4 +1,5 @@
 <!--
+https://www.uludagsozluk.com/k/ali-r%C4%B1za-demircan/&w=bg
 https://www.youtube.com/watch?v=9P18cC9Am_s
 https://www.haberler.com/kopege-tecavuz-haberi-asilsiz-cikti-10242376-haberi/
 https://www.milliyet.com.tr/yerel-haberler/corum/kopege-tecavuz-haberi-asilsiz-cikti-12403033
