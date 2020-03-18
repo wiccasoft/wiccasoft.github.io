@@ -1,6 +1,9 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
-<!-- bkz gel köpek sikelim denilen dedin ne sikecem amk demesi -->
+<!--
+https://www.uludagsozluk.com/k/karantinadan-ka%C3%A7an-umrecileri-anlatacak-filmin-ad%C4%B1/
+bkz gel köpek sikelim denilen dedin ne sikecem amk demesi 
+-->
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=9P18cC9Am_s )
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
