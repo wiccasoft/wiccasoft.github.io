@@ -5,8 +5,8 @@
 bkz yarasa hurmalar gün gelir götünü tırmalar
 bkz yarasa çükü ye ye sonra yetiş ya menzil şeyhi yoh yaaaaa
 https://www.uludagsozluk.com/k/can%C4%B1n-ne-%C3%A7ekiyor/ 
-bkz menzil şeyhinin yarasa çükü yemek caiz değildir açıklaması
-bkz yaa çok rahat konuşuyodunuz bak noldu şimdi 
+bkz yarasa çükü yemek caiz değildir
+bkz yaa çok rahat yiyodunuz yarasa çüklerini bak noldu şimdi 
 bkz yarasaları ye eşcinsellik yap sonra neden böyle oldu olur tabi yarasa yenir mi lan
 https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
 https://www.uludagsozluk.com/k/salg%C4%B1nlar%C4%B1n-nedeni-zina-e%C5%9Fcinsellik-ve-anal-ili%C5%9Fki/&w=gd
