@@ -2,6 +2,7 @@
 [![Image](waste/Screenshot_2020-03-15_19-08-29.png)]( https://www.youtube.com/watch?v=j8VvmeAV6hs )
 
 <!-- 
+https://www.uludagsozluk.com/k/erdo%C4%9Fan-%C4%B1n-yapt%C4%B1%C4%9F%C4%B1-iyi-%C5%9Feyler/ bkz yol
 https://eksisozluk.com/17-mart-2020-fahrettin-koca-aciklamalari--6418395?a=popular olm acayip yakışıklım lan
 https://www.uludagsozluk.com/k/menzil-%C5%9Feyhinin-coronaya-kar%C5%9F%C4%B1-devreye-girmemesi/&w=bg ne gircem amk
 bkz bıyık sürtülen kızın patlak ve koronalı çıkması
