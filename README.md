@@ -4,6 +4,7 @@
 <!-- 
 bkz hayallerde yaşıyor bazı ibneler
 bkz türklerin erkek açlığını kapatacak virüs tasarlamak
+https://www.uludagsozluk.com/k/obi-mikelin-trabzonspordan-ayr%C4%B1lmas%C4%B1/ bkz yapma be kankağ adamdı ya
 https://www.uludagsozluk.com/k/hazreti-muhammed-fakir-miydi/&w=bg bkz bunu hazreti ayşeye sorsana deliknalı
 https://www.uludagsozluk.com/k/recep-tayyip-erdo%C4%9Fan/&w=bg bkz adam gibi adam
 https://www.uludagsozluk.com/k/binlerce-kez-%C3%B6z%C3%BCr-diliyorum-diyen-corona-vir%C3%BCs%C3%BC/ 
