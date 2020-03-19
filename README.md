@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz fatih terim efso soyunma odası konuşması
 https://www.uludagsozluk.com/k/fatih-terim/&w=gd bkz sicili bozuk adanalı
 bkz hayat geyselileri 61 kenara
 bkz 1881 atacücü 81 vilayet - batman = 80 
