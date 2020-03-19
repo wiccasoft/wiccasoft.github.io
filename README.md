@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://frank-lucas.uludagsozluk.com/ bkz frank lucas clint eastwood benzerliği
 bkz fatih tezcandan fatih terime sert uyarı tweeti
 bkz frank lucas ın fatih terime işini yap uyarısı
 bkz fatih termin zenci oyuncular daha iyi demesi
