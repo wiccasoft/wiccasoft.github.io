@@ -2,8 +2,8 @@
 
 <!--
 bkz muhammedin sanki biraz agresif olması
-bkz muhammedin piramitleri basıp gözlem odasını yakması
 bkz muhammedin çin sarayını basıp putları kırması
+bkz muhammedin piramitleri basıp gözlem odasını yakması
 bkz cinsel cinsel ortalarda gezen ümreciler
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz cinsel ilişki teklif ederken are you sex demek
