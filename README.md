@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.uludagsozluk.com/k/umreciler/ bkz ümmet ağliy
 bkz kovidi eliyle boğan sağlık görevlisi
 bkz havlayan türk ısırmaz
 bkz türklerin amerikanın fino köpeği olduğu gerçeği
