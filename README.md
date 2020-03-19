@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/e/43004446/
+https://www.uludagsozluk.com/k/aleyna-tilki-nin-corona-vir%C3%BCs-analizi/
 bkz muhammedin sanki biraz agresif olması
 bkz muhammedin çin sarayını basıp putları kırması
 bkz muhammedin piramitleri basıp gözlem odasını yakması
