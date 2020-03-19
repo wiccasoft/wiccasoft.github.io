@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz frank lucasın samsunlu erkeklere kaşar demesi
 bkz frank lucasın doğduğu şehiri tahmin et
 bkz yabancı nick alan kara kafalı hamur suratlı totoş götlü ergenler
 bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entryleri
