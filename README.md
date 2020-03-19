@@ -9,8 +9,6 @@ bkz kovid salgınında sağlık görevlilerine yasin okuyan dayı
 bkz kovid salgınında mesai yapan sağlık görevlilerine zem zem suyu döken dayı
 bkz menzil şeyhinin kovid salgınında mesai yapan mesailere dua etmesi
 bkz kovid salgınında mesai yapan bekçilere okunmuş zemzem suyu veren dayı
-bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
-bkz çiğ köfteyi canlı canlı yiyen çorumlu
 bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
 bkz salyangozu pilav üstü yiyen hintli
