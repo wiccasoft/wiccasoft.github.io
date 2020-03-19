@@ -9,38 +9,6 @@ bkz kovid salgınında sağlık görevlilerine yasin okuyan dayı
 bkz kovid salgınında mesai yapan sağlık görevlilerine zem zem suyu döken dayı
 bkz menzil şeyhinin kovid salgınında mesai yapan mesailere dua etmesi
 bkz kovid salgınında mesai yapan bekçilere okunmuş zemzem suyu veren dayı
-bkz ümrecilerin sahnede ümrenin üstüne atlaması
-bkz kızına makyaj yapan gavat
-https://www.uludagsozluk.com/k/babalar-k%C4%B1zlar%C4%B1na-makyaj-yaparsa/ 
-bkz ümre kim lan
-bkz ümreciler vs tarkancılar
-bkz ümre hayranları fan peyç
-bkz kovid salgınında mesai yapan bekçiler
-bkz kovide osmanlı tokadı atan sağlık görevlisi
-https://www.uludagsozluk.com/k/umreciler/ bkz ümre kim lan
-bkz kovidi eliyle boğan sağlık görevlisi
-bkz havlayan türk ısırmaz
-bkz türklerin amerikanın fino köpeği olduğu gerçeği
-bkz amerika facebook twitter a kapatsa türkler ne yapacak sorunsalı
-bkz sürekli mobile.twitter video linki atan ergen
-bkz twitter kapanırsa türkler ne yapacaklar sorunsalı
-bkz türkler niye sürekli twitter linkleri veriyorlar sorunsalı
-https://www.uludagsozluk.com/k/babalar-k%C4%B1zlar%C4%B1na-makyaj-yaparsa/
-bkz entrysine koyduğu linki tıklanmayan ergen hüznü
-https://www.uludagsozluk.com/k/kuyucakl%C4%B1-yusuf/&w=bg
-https://www.uludagsozluk.com/k/benim-do%C4%9Fum-tarihim-ya%C5%9F%C4%B1md%C4%B1r-diyen-dede/ bkz 78
-bkz siklenmeyen eşcinseller
-bkz eşcinsellerin eşcinselliği hakaret olarak görmesi
-bkz muhafazakar ümrecilerin muhafasız eşcinselleri siklememesi
-bkz sürekli entry giren azimli eşcinsel
-bkz kamalcı eşcinsellerden kurtulma yolları
-bkz ölü taklidi yapınca kaybolan eşcinseller
-https://agca.uludagsozluk.com bkz ağır gay
-bkz dedesi köyde eşşek siken ergenin çine atom bombası atalım demesi
-https://www.uludagsozluk.com/k/muhafazakar-e%C5%9Fcinsel/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg hadi bakalım gencolar atın da görelim
-https://www.uludagsozluk.com/k/umreciler/ bkz ümmüt üğlüüü
 https://www.uludagsozluk.com/k/g%C3%BC%C3%A7-nedir/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/padi%C5%9Fah-olsan%C4%B1z-hangisi-olurdunuz/&w=bg hayallerde yaşıyor bazı ibneler
 https://www.uludagsozluk.com/k/%C3%A7in-e-atom-bombas%C4%B1-atmak/&w=bg hayallerde yaşıyor bazı ibneler
@@ -53,9 +21,6 @@ bkz gel pastırma yiyek eşşek sikek denilen çinlinin o ne amk demesi
 bkz çiğ köfteyi canlı canlı yiyen çorumlu
 bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
-https://www.uludagsozluk.com/k/umreciler/ bkz ümmetçiler
-bkz yiyin birbirinizi göte para vermeyin sikin birbirinizi ete para vermeyinin çincesi
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd tıklağ izle kankağ
 bkz salyangozu pilav üstü yiyen hintli
 bkz karidesi canlı canlı yiyen fransız
 bkz hiç yavşak çinli olmaması sorunsalı
