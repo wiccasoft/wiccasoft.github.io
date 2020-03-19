@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz cinsel ilişki teklif ederken are you sex demek
 bkz o değil de bahçeli vardı noldu ona
 bkz o değil de filizof atacan vardı ona noldu
 bkz cinsel ilişki teklifini reddeden filozof
