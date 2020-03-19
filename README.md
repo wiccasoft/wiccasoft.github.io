@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz kovidcilerin yasin okutması
 bkz ümrecilerin kovidcilere zem zem suyu dökmesi
 bkz kovid salgınında sağlık görevlilerine yasin okuyan dayı
 bkz kovid salgınında mesai yapan sağlık görevlilerine zem zem suyu döken dayı
