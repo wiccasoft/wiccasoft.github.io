@@ -3,7 +3,7 @@
 <!--
 bkz kovidcilerin uğramadığı başlıklar
 bkz madem yarasa yemek kovid yapıyo o zaman yarasalar niye kovid olmuyo
-bkz kovidcilerin cevap veremedikleri sorular
+https://www.youtube.com/watch?v=o6EayWHL-ag bkz kovidcilerin cevap veremedikleri sorular
 bkz böyle muhteşem bi düzen kendiliğinden kovidlenmiş olabilir mi
 bkz madem kovid yok niye kovidciler inkar ediyolar
 https://www.youtube.com/watch?v=EfAsNffCjsM kovid ne süper lan
