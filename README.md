@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz everyday çomaring
 https://www.uludagsozluk.com/e/43004446/ bkz aleyna tilkinin çomarlardan daha zeki olduğu gerçeği
 https://www.uludagsozluk.com/k/aleyna-tilki-nin-corona-vir%C3%BCs-analizi/
 bkz muhammedin sanki biraz agresif olması
