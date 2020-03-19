@@ -27,21 +27,9 @@ https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
 bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd -->
-<!-- 
-bkz kovidciler vs ümreciler
-bkz millet hizmet beliyor bay kemal
-bkz millet hizmet beklerken kılıştarın osura osura uyuması
-bkz sakaryada kovidcilerin ümrecilere saldırması
-https://www.uludagsozluk.com/k/hayal-kurarken-salak%C3%A7a-g%C3%BCl%C3%BCmsemek/ bkz hayallerde yaşıyor bazı ibneler
-https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz rte
-https://www.uludagsozluk.com/k/umreciler/
-https://www.uludagsozluk.com/k/18-mart-2020-recep-tayyip-erdo%C4%9Fan-a%C3%A7%C4%B1klamalar%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/yarasa-%C3%A7orbas%C4%B1/&w=bg
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-https://www.uludagsozluk.com/k/ali-sami-yen-stadyumu/&w=bg bkz topların uğramadığı stadyum
-https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz devlet bahçeli 
-https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-pek-ortal%C4%B1klarda-g%C3%B6r%C3%BCnmemesi/&w=bg -->
+https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd 
+https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz devlet bahçeli -->
+
 
 [![Image](waste/Screenshot_2020-03-18_23-22-31.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 
