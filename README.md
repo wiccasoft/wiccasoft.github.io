@@ -3,7 +3,6 @@
 <!--
 bkz ümre kim lan
 bkz ümre hayranları fan peyç
-bkz türk ünlülerini aramaya üşenmek
 bkz kovid salgınında mesai yapan bekçiler
 bkz kovide osmanlı tokadı atan sağlık görevlisi
 https://www.uludagsozluk.com/k/umreciler/ bkz ümre kim lan
