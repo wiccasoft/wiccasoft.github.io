@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz ümrecilerin ortalarda dörükmemesi
+bkz ümrecilerin ortalarda görükmemesi
 bkz cinsel ilişki teklifini reddeden ümreci
 bkz cinsel ilişki teklifini reddeden kovidci
 bkz kovidcilerin cevap veremedikleri sorular
