@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz böyle muhteşem bi düzen kendiliğinden kovidlenmiş olabilir mi
 bkz madem kovid yok niye kovidciler inkar ediyolar
 https://www.youtube.com/watch?v=EfAsNffCjsM kovid ne süper lan
 bkz sakaryada kovidcilerin ümrecilere saldırması
