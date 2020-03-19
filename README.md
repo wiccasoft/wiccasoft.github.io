@@ -3,7 +3,6 @@
 <!--
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz cinsel ilişki teklif ederken are you sex demek
-bkz o değil de bahçeli vardı noldu ona
 bkz o değil de filizof atacan vardı ona noldu
 bkz cinsel ilişki teklifini reddeden filozof
 bkz millet hizmet beklerken kılıştarın osura osura uyuması
