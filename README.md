@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz ümercilerin sahnede ümrenin üstüne atlaması
 bkz kızına makyaj yapan gavat
 https://www.uludagsozluk.com/k/babalar-k%C4%B1zlar%C4%B1na-makyaj-yaparsa/ 
 bkz ümre kim lan
