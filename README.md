@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-bkz everyday çomaring
+https://www.uludagsozluk.com/k/%C3%A7omarlar%C4%B1n-inanaca%C4%9F%C4%B1-bir-yalan-uydur/&w=gd bkz everyday çomaring
 bkz mark zuckerberg gibi çinli hatun alıp güneye yerleşmek
 https://www.uludagsozluk.com/e/43004446/ 
 bkz aleyna tilkinin çomarlardan daha zeki olduğu gerçeği
