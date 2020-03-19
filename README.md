@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz şaka maka frank lucas ibnesinin babası yaşında olmam
 bkz frank lucasın annesinin türbanlı 97 doğumlu bir eşcinsel ergen olduğu gerçeği
 bkz frank lucasın samsunlu erkeklere kaşar demesi
 bkz frank lucasın doğduğu şehiri tahmin et
