@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://www.uludagsozluk.com/e/43021305/ adam haklı beyler
+https://www.uludagsozluk.com/e/43021305/ piç oktay haklı beyler
 bkz geniş aile deki ulvi
 bkz mevzu derin deki memati
 bkz sevda tarramın ucundaki ömer
