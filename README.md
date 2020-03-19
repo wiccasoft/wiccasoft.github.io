@@ -2,6 +2,7 @@
 
 <!--
 bkz ümre kim lan
+bkz ümreciler vs tarkancılar
 bkz ümre hayranları fan peyç
 bkz kovid salgınında mesai yapan bekçiler
 bkz kovide osmanlı tokadı atan sağlık görevlisi
