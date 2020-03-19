@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne süper lan
 bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz putinin kovidcilere kolonya tutması
 bkz kovidcilerin yasin okutması
