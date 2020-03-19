@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz muhammedin çin sarayını basıp putları kırması
 bkz cinsel cinsel ortalarda gezen ümreciler
 https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
 bkz cinsel ilişki teklif ederken are you sex demek
