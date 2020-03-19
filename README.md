@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz eşcinsellerin efendi yerine piç erkek tercihi
 bkz aile şerefindeki piç oktayın çok yakışıklı olduğu gerçeği
 https://www.uludagsozluk.com/e/43021305/ bkz işsizlik level 9999
 https://www.uludagsozluk.com/k/aile-%C5%9Ferefindeki-pi%C3%A7-oktay-%C4%B1n-hakl%C4%B1-oldu%C4%9Fu-ger%C3%A7e%C4%9Fi/
