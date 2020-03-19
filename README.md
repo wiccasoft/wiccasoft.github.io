@@ -1,7 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://frank-lucas.uludagsozluk.com/ bkz frank lucas
+https://frank-lucas.uludagsozluk.com/ bkz frank lucas ın fatih terime dürümcü demesi
 https://www.uludagsozluk.com/k/d%C3%BCr%C3%BCmc%C3%BC-terim/&w=bg
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz lucecu mustafa kapı drogba
 bkz fatih terim efso soyunma odası konuşması
