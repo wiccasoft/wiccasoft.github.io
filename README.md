@@ -1,5 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
+<!-- https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz devlet bahçeli 
+https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-pek-ortal%C4%B1klarda-g%C3%B6r%C3%BCnmemesi/&w=bg bkz cinselreddeden-->
+
 [![Image](waste/Screenshot_2020-03-18_23-22-31.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
