@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz abdurrahim albayrakın damad yüzünden şampiyonluğu kaptırdık demesi
+https://www.uludagsozluk.com/k/abdurrahim-albayrak-%C4%B1n-karantinaya-al%C4%B1nmas%C4%B1/
 bkz drogbanın geyseye dönme sinyalleri yakması
 bkz obi wan ken obi'in virüs yüzünden ülkeden kaçması
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz sicili bozuk
