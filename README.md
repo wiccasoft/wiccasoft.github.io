@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz hayat geyselileri 61 kenara
 bkz damadın trap zone u şampiyon yapacağı gerçeği
 bkz obi wan ken obi'in darth vader yüzünden ülkeden kaçması
 bkz abdurrahim albayrakın damad yüzünden şampiyonluğu kaptırdık demesi
