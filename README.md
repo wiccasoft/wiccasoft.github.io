@@ -1,11 +1,12 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
-https://www.uludagsozluk.com/e/43021305/ piç oktay haklı beyler
+
 bkz geniş aile deki ulvi
 bkz mevzu derin deki memati
 bkz sevda tarramın ucundaki ömer
 bkz öyle bir geçer zaman ki de ki süleyman
+https://www.uludagsozluk.com/e/43021305/ bkz piç oktay haklı beyler
 https://www.uludagsozluk.com/k/%C3%B6yle-bir-ge%C3%A7er-zaman-ki-de-ki-s%C3%BCleyman/ 
 bkz eşcinsellerin efendi yerine piç erkek tercihi
 bkz aile şerefindeki piç oktayın çok yakışıklı olduğu gerçeği
