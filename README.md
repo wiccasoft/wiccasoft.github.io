@@ -1,6 +1,8 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz ümrecilerin ortalarda dörükmemesi
+bkz cinsel ilişki teklifini reddeden ümreci
 bkz cinsel ilişki teklifini reddeden kovidci
 bkz kovidcilerin cevap veremedikleri sorular
 bkz madem yarasa yemek kovid yapıyo o zaman yarasalar niye kovid olmuyo
