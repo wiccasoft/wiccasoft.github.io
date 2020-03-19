@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
 <!--
+bkz kovidcilerin uğramadığı başlıklar
 bkz madem yarasa yemek kovid yapıyo o zaman yarasalar niye kovid olmuyo
 bkz kovidcilerin cevap veremedikleri sorular
 bkz böyle muhteşem bi düzen kendiliğinden kovidlenmiş olabilir mi
