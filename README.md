@@ -2,6 +2,7 @@
 
 <!--
 bkz hayat geyselileri 61 kenara
+bkz kendinin biyolog sanan doktor dizileri
 bkz mucize doktordaki ergeninin coronoya ilaç yazması
 bkz bir çomara virüsün en çok benim işime yaradığını bilale anlatır gibi anlatmak
 bkz damadın trap zone u şampiyon yapacağı gerçeği
