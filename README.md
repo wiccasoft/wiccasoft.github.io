@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-adam-%C3%A7%C4%B1karan-%C5%9Fehir/&w=gd bkz yozgat
 bkz 19 mart 2020 fahrettin kapakın kapak gibi açıklamaları
 bkz kovidcilerin ümrecilere saldırması
 bkz korona karısını doktora elleten gavat
