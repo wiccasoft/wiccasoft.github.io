@@ -15,7 +15,6 @@ bkz suşiyi canlı canlı yiyen japon
 bkz ıstakozu canlı canlı kaynatan çinli
 bkz salyangozu pilav üstü yiyen hintli
 bkz karidesi canlı canlı yiyen fransız
-bkz hiç yavşak çinli olmaması sorunsalı
 bkz dedesi köyde eşek siken milletin akıl vermesi
 bkz animalsex.com da video izlerken köpeğin pipisini ekrana sürtmesi
 bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
