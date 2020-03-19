@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/65-ya%C5%9F-%C3%BCst%C3%BCn%C3%BCn-f%C4%B1ld%C4%B1r-f%C4%B1ld%C4%B1r-gezmesi/
 https://www.uludagsozluk.com/k/50-ya%C5%9F-%C3%BCzeri-umursamazl%C4%B1%C4%9F%C4%B1/&w=bg bkz 15 yaş sendromu
 https://www.uludagsozluk.com/k/bizim-o%C4%9Flan-uluda%C4%9F-s%C3%B6zl%C3%BCkte-yazar/
 https://www.youtube.com/watch?v=C9pzkemBmMM bkz şeytanın hileleri vol2
