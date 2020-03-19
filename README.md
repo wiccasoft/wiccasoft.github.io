@@ -2,34 +2,6 @@
 
 [![Image](waste/Screenshot_2020-02-26_14-00-39.png)]( https://www.youtube.com/watch?v=ox93sf0-tPQ )
 
-<!--
-bkz kovidcilerin uğramadığı başlıklar
-bkz madem yarasa yemek kovid yapıyo o zaman yarasalar niye kovid olmuyo
-https://www.youtube.com/watch?v=o6EayWHL-ag bkz kovidcilerin cevap veremedikleri sorular
-bkz böyle muhteşem bi düzen kendiliğinden kovidlenmiş olabilir mi
-bkz madem kovid yok niye kovidciler inkar ediyolar
-https://www.youtube.com/watch?v=EfAsNffCjsM kovid ne süper lan
-bkz sakaryada kovidcilerin ümrecilere saldırması
-bkz putinin kovidcilere kolonya tutması
-bkz kovidcilerin yasin okutması
-bkz ümrecilerin kovidcilere zem zem suyu dökmesi
-bkz kovid salgınında sağlık görevlilerine yasin okuyan dayı
-bkz kovid salgınında mesai yapan sağlık görevlilerine zem zem suyu döken dayı
-bkz menzil şeyhinin kovid salgınında mesai yapan mesailere dua etmesi
-bkz kovid salgınında mesai yapan bekçilere okunmuş zemzem suyu veren dayı
-bkz suşiyi canlı canlı yiyen japon
-bkz ıstakozu canlı canlı kaynatan çinli
-bkz salyangozu pilav üstü yiyen hintli
-bkz karidesi canlı canlı yiyen fransız
-bkz dedesi köyde eşek siken milletin akıl vermesi
-bkz animalsex.com da video izlerken köpeğin pipisini ekrana sürtmesi
-bkz genetik kopyalama yapabilen çinliye gel pastırma yiyek rakı içek köpek sikek demek
-bkz 1881 atacücü 81 vilayet eksi batman = 80 18+81=99-80 = covid19
-https://www.uludagsozluk.com/k/o-son-yarasay%C4%B1-yemeyecektik/
-https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/
-bkz şaka maka gel köpek sikelim denilen çinlinin bu ne amk bunu mu sikecem demesi
-https://www.uludagsozluk.com/k/k%C3%B6pe%C4%9Fi-canl%C4%B1-canl%C4%B1-pi%C5%9Firen-%C3%A7inli/&w=gd -->
 
 
 [![Image](waste/Screenshot_2020-03-17_20-51-30.png)]( https://www.youtube.com/watch?v=9P18cC9Am_s )
