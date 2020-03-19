@@ -2,11 +2,6 @@
 
 <!--
 https://www.youtube.com/watch?v=TJdjgY6ye7A bkz şeytanın hileleri 
-bkz frank lucas camide götünü dövdürmek için mekan araması
-bkz frank lucasın annesinin türbanlı 97 doğumlu bir eşcinsel ergen olduğu gerçeği
-bkz frank lucasın samsunlu erkeklere kaşar demesi
-bkz frank lucasın doğduğu şehiri tahmin et
-bkz yabancı nick alan kara kafalı hamur suratlı totoş götlü ergenler
 bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entryleri
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-er-ki%C5%9Finin-sokakta-gezmesi/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-adam-%C3%A7%C4%B1karan-%C5%9Fehir/&w=bg
