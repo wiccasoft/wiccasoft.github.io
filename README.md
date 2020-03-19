@@ -4,6 +4,7 @@
 bkz fatih tezcandan fatih terime sert uyarı tweeti
 bkz frank lucas ın fatih terime işini yap uyarısı
 bkz fatih termin zenci oyuncular daha iyi demesi
+bkz elif can terimin babasını savunması
 https://frank-lucas.uludagsozluk.com/ bkz frank lucas ın fatih terime dürümcü demesi
 https://www.uludagsozluk.com/k/d%C3%BCr%C3%BCmc%C3%BC-terim/&w=bg
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz lucecu mustafa kapı drogba
