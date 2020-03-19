@@ -2,12 +2,10 @@
 
 <!--
 bkz damadın trap zone u şampiyon yapacağı gerçeği
-bkz drogbanın geyseye dönme sinyalleri yakması
 bkz obi wan ken obi'in darth vader yüzünden ülkeden kaçması
 bkz abdurrahim albayrakın damad yüzünden şampiyonluğu kaptırdık demesi
 https://www.uludagsozluk.com/k/abdurrahim-albayrak-%C4%B1n-karantinaya-al%C4%B1nmas%C4%B1/
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz sicili bozuk
-https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz fenerbahçenin koçu
 https://www.uludagsozluk.com/k/obi-mikel-in-vir%C3%BCs-y%C3%BCz%C3%BCnden-%C3%BClkeden-ka%C3%A7mas%C4%B1/&w=bg
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-adam-%C3%A7%C4%B1karan-%C5%9Fehir/&w=gd bkz yozgat
 bkz 19 mart 2020 fahrettin kapakın kapak gibi açıklamaları
