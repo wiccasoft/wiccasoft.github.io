@@ -2,7 +2,7 @@
 
 <!--
 bkz madem kovid yok niye kovidciler inkar ediyolar
-https://www.youtube.com/watch?v=EfAsNffCjsM ellek ne süper lan
+https://www.youtube.com/watch?v=EfAsNffCjsM kovid ne süper lan
 bkz sakaryada kovidcilerin ümrecilere saldırması
 bkz putinin kovidcilere kolonya tutması
 bkz kovidcilerin yasin okutması
