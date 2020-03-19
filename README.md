@@ -2,7 +2,7 @@
 
 <!--
 bkz frank lucasın doğduğu şehir
-bkz annesi topkek çay yapan eşcinsellerin hayat bize güzel entryleri
+bkz annesi topkek çay yapan eşcinsel ergenlerin hayat bize güzel entryleri
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-er-ki%C5%9Finin-sokakta-gezmesi/
 https://www.uludagsozluk.com/k/t%C3%BCrkiye-de-en-%C3%A7ok-adam-%C3%A7%C4%B1karan-%C5%9Fehir/&w=bg
 https://frank-lucas.uludagsozluk.com/ bkz frank lucas clint eastwood benzerliği
