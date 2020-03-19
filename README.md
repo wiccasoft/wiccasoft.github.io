@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz kılıştaroğlu
 bkz ümrecilerin ortalarda görükmemesi
 bkz cinsel ilişki teklifini reddeden ümreci
 bkz cinsel ilişki teklifini reddeden kovidci
