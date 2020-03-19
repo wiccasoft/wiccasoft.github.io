@@ -2,6 +2,7 @@
 
 <!--
 bkz hayat geyselileri 61 kenara
+bkz 1881 atacücü 81 vilayet - batamn = 80 18+81 = 99 - 80 = covid19
 bkz salgının sabırla rakı içerek aşacağız
 bkz kendinin biyolog sanan doktor dizileri
 bkz mucize doktordaki ergeninin coronoya ilaç yazması
