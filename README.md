@@ -5,6 +5,7 @@ bkz hayat geyselileri 61 kenara
 bkz 1881 atacücü 81 vilayet - batman = 80 
 bkz 18 + 81 = 99 - 80 = covid19
 bkz konyalı bilim adamları adam mıdır sorunsalı
+bkz abdurrahim albyrakın üj mülyon yuro daha verelim drogbayı alalaım önerisi
 bkz atacücünün damarlarınızdaki asil kan salgını aşacak kudrettedir lafı
 bkz salgını sabırla rakı içerek yayacağız
 bkz bir çomara virüsün en çok benim işime yaradığını bilale anlatır gibi anlatmak
