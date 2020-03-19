@@ -2,6 +2,7 @@
 
 <!--
 bkz hayat geyselileri 61 kenara
+bkz salgının sabırla rakı içerek aşacağız
 bkz kendinin biyolog sanan doktor dizileri
 bkz mucize doktordaki ergeninin coronoya ilaç yazması
 bkz bir çomara virüsün en çok benim işime yaradığını bilale anlatır gibi anlatmak
