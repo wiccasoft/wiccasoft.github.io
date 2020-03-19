@@ -1,6 +1,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
-<!-- https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz devlet bahçeli 
+<!-- 
+https://www.uludagsozluk.com/k/yarasa-%C3%A7orbas%C4%B1/&w=bg
+https://www.uludagsozluk.com/k/yarasa-yiyip-ladyboy-sikmek/
+https://www.uludagsozluk.com/k/ali-sami-yen-stadyumu/&w=bg bkz topların uğramadığı stadyum
+https://www.uludagsozluk.com/k/cinsel-ili%C5%9Fki-teklifini-reddeden-erkek/&w=bg bkz devlet bahçeli 
 https://www.uludagsozluk.com/k/devlet-bah%C3%A7eli-nin-pek-ortal%C4%B1klarda-g%C3%B6r%C3%BCnmemesi/&w=bg -->
 
 [![Image](waste/Screenshot_2020-03-18_23-22-31.png)]( https://www.youtube.com/watch?v=o6EayWHL-ag )
