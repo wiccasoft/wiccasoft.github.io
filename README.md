@@ -1,6 +1,7 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+https://www.youtube.com/watch?v=C9pzkemBmMM bkz şeytanın hileleri vol2
 https://www.youtube.com/watch?v=TJdjgY6ye7A bkz şeytanın hileleri 
 bkz annesi topkek çay yapan eşcinsel işsiz ergenlerin hayat bize güzel entryleri
 https://www.uludagsozluk.com/k/ho%C5%9Flan%C4%B1lan-er-ki%C5%9Finin-sokakta-gezmesi/
