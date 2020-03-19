@@ -1,10 +1,10 @@
 [![Image](waste/Screenshot_2020-03-18_17-41-17.png)]( https://www.youtube.com/watch?v=AlAVHzIZZvI )
 
 <!--
+bkz drogbanın geyseye dönme sinyalleri yakması
+bkz obi wan ken obi'in darth vader yüzünden ülkeden kaçması
 bkz abdurrahim albayrakın damad yüzünden şampiyonluğu kaptırdık demesi
 https://www.uludagsozluk.com/k/abdurrahim-albayrak-%C4%B1n-karantinaya-al%C4%B1nmas%C4%B1/
-bkz drogbanın geyseye dönme sinyalleri yakması
-bkz obi wan ken obi'in virüs yüzünden ülkeden kaçması
 https://www.uludagsozluk.com/k/fatih-terim/&w=bg bkz sicili bozuk
 https://www.uludagsozluk.com/k/ali-ko%C3%A7/&w=bg bkz fenerbahçenin koçu
 https://www.uludagsozluk.com/k/obi-mikel-in-vir%C3%BCs-y%C3%BCz%C3%BCnden-%C3%BClkeden-ka%C3%A7mas%C4%B1/&w=bg
